@@ -1,0 +1,12 @@
+assets
+
+# crawler
+*.py
+*.json
+*.log
+__pycache__
+.vscode
+
+*.ps1
+*.lnk
+sync.ffs_db
