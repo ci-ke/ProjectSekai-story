@@ -1,0 +1,15 @@
+name: Update New
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  update:
+    uses: ci-ke/ProjectSekai-BangDream-story-crawler/.github/workflows/common-update.yml@main
+    permissions:
+      contents: write
+    with:
+      run_command: "uv run --no-dev -m action.new_pjsk"
+      commit_message: "Update new"

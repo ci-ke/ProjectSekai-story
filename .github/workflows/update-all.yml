@@ -1,0 +1,16 @@
+name: Update All
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  update:
+    uses: ci-ke/ProjectSekai-BangDream-story-crawler/.github/workflows/common-update.yml@main
+    permissions:
+      contents: write
+    with:
+      run_command: "uv run --no-dev -m action.all_pjsk"
+      commit_message: "Update all"
+      
