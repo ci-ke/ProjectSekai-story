@@ -1,4 +1,4 @@
-1546 areatalk_ev_shuffle_25_001
+1 1546:areatalk_ev_shuffle_25_001
 
 【十字路口】
 
@@ -16,7 +16,7 @@
 志步：說得對。 那就重振心情，去光顧那家店吧。
 
 
-1547 areatalk_ev_shuffle_25_002
+2 1547:areatalk_ev_shuffle_25_002
 
 【宮益坂女子學園】
 
@@ -34,7 +34,7 @@
 一歌：嗯！大家一起吃吧！
 
 
-1548 areatalk_ev_shuffle_25_003
+3 1548:areatalk_ev_shuffle_25_003
 
 【購物中心】
 
@@ -51,7 +51,7 @@
 笑夢：可以嗎……！？太棒了～！ 我一定會去的～☆
 
 
-1549 areatalk_ev_shuffle_25_004
+4 1549:areatalk_ev_shuffle_25_004
 
 【中心街】
 
@@ -68,7 +68,7 @@
 志步：（大家聽到我的興趣後大多會覺得很稀奇…… 總覺得她接受得太快，反而是我很吃驚。）
 
 
-1550 areatalk_ev_shuffle_25_005
+5 1550:areatalk_ev_shuffle_25_005
 
 【街頭的「世界」 - 咖啡廳】
 

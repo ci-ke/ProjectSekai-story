@@ -1,4 +1,4 @@
-2268 areatalk_ev_wonder_17_001
+1 2268:areatalk_ev_wonder_17_001
 
 【中央街】
 
@@ -18,7 +18,7 @@
 司：哈、哈、哈！ 笑梦打败晶介先生坐上的宝座，就让给我来坐吧！
 
 
-2269 areatalk_ev_wonder_17_002
+2 2269:areatalk_ev_wonder_17_002
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -37,7 +37,7 @@
 笑梦：球要用大拇指、食指和中指来拿住！ 好，放马过来吧～！
 
 
-2270 areatalk_ev_wonder_17_003
+3 2270:areatalk_ev_wonder_17_003
 
 【神山高校】
 
@@ -52,7 +52,7 @@
 宁宁：……我看你很乐在其中啊？
 
 
-2271 areatalk_ev_wonder_17_004
+4 2271:areatalk_ev_wonder_17_004
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -67,7 +67,7 @@
 笑梦：好——！ 那我们开始慢跑吧☆
 
 
-2272 areatalk_ev_wonder_17_005
+5 2272:areatalk_ev_wonder_17_005
 
 【奇幻乐园「世界」 - 游乐园】
 

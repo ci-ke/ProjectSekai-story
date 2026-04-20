@@ -1,4 +1,4 @@
-2734 areatalk_ev_shuffle_58_001
+1 2734:areatalk_ev_shuffle_58_001
 
 [スクランブル交差点]
 
@@ -13,7 +13,7 @@
 杏: ふふっ！　またみんなで行けたらいいね
 
 
-2735 areatalk_ev_shuffle_58_002
+2 2735:areatalk_ev_shuffle_58_002
 
 [スクランブル交差点]
 
@@ -29,7 +29,7 @@
 杏: いいね、私も負けないよ！
 
 
-2736 areatalk_ev_shuffle_58_003
+3 2736:areatalk_ev_shuffle_58_003
 
 [センター街]
 
@@ -46,7 +46,7 @@
 遥: ふふ、そうなれるくらい、 もっともっと活躍していかなきゃね
 
 
-2737 areatalk_ev_shuffle_58_004
+4 2737:areatalk_ev_shuffle_58_004
 
 [ストリートのセカイ - カフェ]
 

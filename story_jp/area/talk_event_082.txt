@@ -1,4 +1,4 @@
-1597 areatalk_ev_wonder_11_001
+1 1597:areatalk_ev_wonder_11_001
 
 [テーマパーク]
 
@@ -14,7 +14,7 @@
 えむ・寧々: 『うん！』 『うん』
 
 
-1598 areatalk_ev_wonder_11_002
+2 1598:areatalk_ev_wonder_11_002
 
 [テーマパーク]
 
@@ -31,7 +31,7 @@
 司: おう！　望むところだ！
 
 
-1599 areatalk_ev_wonder_11_003
+3 1599:areatalk_ev_wonder_11_003
 
 [テーマパーク]
 
@@ -50,7 +50,7 @@
 司: ふっ、いいだろう。 『暴風太郎』と名付けた我が風の演技、見せてやろう！
 
 
-1600 areatalk_ev_wonder_11_004
+4 1600:areatalk_ev_wonder_11_004
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -69,7 +69,7 @@
 類: ああ。もしまた演技に困ったら、 いつでも相談してほしいな
 
 
-1601 areatalk_ev_wonder_11_005
+5 1601:areatalk_ev_wonder_11_005
 
 [ワンダーランドのセカイ - 遊園地]
 

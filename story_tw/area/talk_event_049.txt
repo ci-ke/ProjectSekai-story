@@ -1,4 +1,4 @@
-1316 areatalk_ev_street_07_001
+1 1316:areatalk_ev_street_07_001
 
 【中心街】
 
@@ -14,7 +14,7 @@
 心羽：啊……！欸嘿嘿，說得也是。
 
 
-1317 areatalk_ev_street_07_002
+2 1317:areatalk_ev_street_07_002
 
 【中心街】
 
@@ -32,7 +32,7 @@
 心羽：嗯，我試試看！謝謝你，東雲！
 
 
-1318 areatalk_ev_street_07_003
+3 1318:areatalk_ev_street_07_003
 
 【中心街】
 
@@ -48,7 +48,7 @@
 心羽：（呵呵，真像認真的青柳會說的話。）
 
 
-1319 areatalk_ev_street_07_004
+4 1319:areatalk_ev_street_07_004
 
 【十字路口】
 
@@ -69,7 +69,7 @@
 杏：說得也是～
 
 
-1320 areatalk_ev_street_07_005
+5 1320:areatalk_ev_street_07_005
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -86,7 +86,7 @@
 初音未來（VBS）：我可能也得重新鼓起幹勁了呢。
 
 
-1321 areatalk_ev_street_07_006
+6 1321:areatalk_ev_street_07_006
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -106,7 +106,7 @@
 巡音流歌：等、等等，你們兩個？ 不要不講話啦～！
 
 
-1322 areatalk_ev_street_07_007
+7 1322:areatalk_ev_street_07_007
 
 【街頭的「世界」 - 咖啡廳】
 

@@ -1,4 +1,4 @@
-2417 areatalk_ev_theater_001
+1 2417:areatalk_ev_theater_001
 
 【窗扉打開的「世界」】
 
@@ -9,7 +9,7 @@
 初音未來：今天也要唱很多首歌。 希望能傳遞給擁有心願的大家。
 
 
-2418 areatalk_ev_theater_002
+2 2418:areatalk_ev_theater_002
 
 【窗扉打開的「世界」】
 
@@ -20,7 +20,7 @@
 初音未來：如果這個心願主人願意過來，我真想問問看呢。
 
 
-2419 areatalk_ev_theater_003
+3 2419:areatalk_ev_theater_003
 
 【窗扉打開的「世界」】
 
@@ -31,7 +31,7 @@
 初音未來：……沒關係。 就相信，並等待著他吧。
 
 
-2420 areatalk_ev_theater_004
+4 2420:areatalk_ev_theater_004
 
 【窗扉打開的「世界」】
 
@@ -42,7 +42,7 @@
 初音未來：……真希望有天能見到他們。
 
 
-2421 areatalk_ev_theater_005
+5 2421:areatalk_ev_theater_005
 
 【窗扉打開的「世界」】
 
@@ -54,7 +54,7 @@
 初音未來：這也代表了，每個人的心願都不太一樣吧。
 
 
-2422 areatalk_ev_theater_006
+6 2422:areatalk_ev_theater_006
 
 【窗扉打開的「世界」】
 
@@ -65,7 +65,7 @@
 初音未來：一定是非常美好的心願吧。
 
 
-2423 areatalk_ev_theater_007
+7 2423:areatalk_ev_theater_007
 
 【窗扉打開的「世界」】
 
@@ -76,7 +76,7 @@
 初音未來：我再試著做做看，大家教我的歌和舞蹈好了。
 
 
-2424 areatalk_ev_theater_008
+8 2424:areatalk_ev_theater_008
 
 【窗扉打開的「世界」】
 
@@ -88,7 +88,7 @@
 初音未來：……是這樣說的吧。
 
 
-2425 areatalk_ev_theater_009
+9 2425:areatalk_ev_theater_009
 
 【窗扉打開的「世界」】
 
@@ -99,7 +99,7 @@
 初音未來：……希望這裡的心願主人能更常過來， 讓這裡變得更熱鬧。
 
 
-2426 areatalk_ev_theater_010
+10 2426:areatalk_ev_theater_010
 
 【窗扉打開的「世界」】
 
@@ -111,7 +111,7 @@
 初音未來：……希望這裡也能變成 讓來到這裡的人都能感到安心的場所。
 
 
-2427 areatalk_ev_theater_011
+11 2427:areatalk_ev_theater_011
 
 【窗扉打開的「世界」】
 
@@ -123,7 +123,7 @@
 初音未來：……現在的我， 也成為了會被大家誇讚「好厲害」的初音未來了嗎？
 
 
-2428 areatalk_ev_theater_012
+12 2428:areatalk_ev_theater_012
 
 【窗扉打開的「世界」】
 
@@ -135,7 +135,7 @@
 初音未來：那就是心願的溫度嗎？
 
 
-2429 areatalk_ev_theater_013
+13 2429:areatalk_ev_theater_013
 
 【窗扉打開的「世界」】
 
@@ -147,7 +147,7 @@
 初音未來：在那之後，大家都開始稱呼她「老師」， 讓她害羞得不得了呢。
 
 
-2430 areatalk_ev_theater_014
+14 2430:areatalk_ev_theater_014
 
 【窗扉打開的「世界」】
 
@@ -158,7 +158,7 @@
 初音未來：──今天也來唱很多很多歌吧。
 
 
-2431 areatalk_ev_theater_015
+15 2431:areatalk_ev_theater_015
 
 【窗扉打開的「世界」】
 
@@ -169,7 +169,7 @@
 初音未來：如果讓來到這裡的心願主人們看， 他們會不會露出笑容呢？
 
 
-2432 areatalk_ev_theater_016
+16 2432:areatalk_ev_theater_016
 
 【窗扉打開的「世界」】
 
@@ -180,7 +180,7 @@
 初音未來：她還讓我看了好多她擺在家裡的寶物呢。
 
 
-2433 areatalk_ev_theater_017
+17 2433:areatalk_ev_theater_017
 
 【窗扉打開的「世界」】
 
@@ -192,7 +192,7 @@
 初音未來：那位朋友，一定對她很重要吧。
 
 
-2434 areatalk_ev_theater_018
+18 2434:areatalk_ev_theater_018
 
 【窗扉打開的「世界」】
 
@@ -204,7 +204,7 @@
 初音未來：我也想像她那樣，陪伴著心願的主人們。
 
 
-2435 areatalk_ev_theater_019
+19 2435:areatalk_ev_theater_019
 
 【窗扉打開的「世界」】
 
@@ -215,7 +215,7 @@
 初音未來：感覺比起那個時候，更能投入心意去唱了， 希望能讓這首歌變得更美好。
 
 
-2436 areatalk_ev_theater_020
+20 2436:areatalk_ev_theater_020
 
 【窗扉打開的「世界」】
 
@@ -226,7 +226,7 @@
 初音未來：──我要投入滿滿的心意歌唱， 讓這首歌超越「世界」，傳遞出去！
 
 
-2437 areatalk_ev_theater_021
+21 2437:areatalk_ev_theater_021
 
 【窗扉打開的「世界」】
 
@@ -237,7 +237,7 @@
 初音未來：有一天我也想唱唱看，那麼令人熱血沸騰的歌呢。
 
 
-2438 areatalk_ev_theater_022
+22 2438:areatalk_ev_theater_022
 
 【窗扉打開的「世界」】
 
@@ -249,7 +249,7 @@
 初音未來：就只是單純地唱出自己的感受。
 
 
-2439 areatalk_ev_theater_023
+23 2439:areatalk_ev_theater_023
 
 【窗扉打開的「世界」】
 
@@ -260,7 +260,7 @@
 初音未來：……我也從他那裡獲得了活力呢。
 
 
-2440 areatalk_ev_theater_024
+24 2440:areatalk_ev_theater_024
 
 【窗扉打開的「世界」】
 
@@ -272,7 +272,7 @@
 初音未來：Wo……Wonderho～i！
 
 
-2441 areatalk_ev_theater_025
+25 2441:areatalk_ev_theater_025
 
 【窗扉打開的「世界」】
 
@@ -283,7 +283,7 @@
 初音未來：機器人寧寧則超會跳舞── 旋轉太多圈雖然會頭暈，但很開心。
 
 
-2442 areatalk_ev_theater_026
+26 2442:areatalk_ev_theater_026
 
 【窗扉打開的「世界」】
 
@@ -294,7 +294,7 @@
 初音未來：……希望它能活力四射地飛翔。
 
 
-2443 areatalk_ev_theater_027
+27 2443:areatalk_ev_theater_027
 
 【窗扉打開的「世界」】
 
@@ -305,7 +305,7 @@
 初音未來：她一定是想把所有心力都投入作曲吧…… 但……為了寫出好曲子，希望她還是要好好吃飯。
 
 
-2444 areatalk_ev_theater_028
+28 2444:areatalk_ev_theater_028
 
 【窗扉打開的「世界」】
 
@@ -316,7 +316,7 @@
 初音未來：……她那時候寫的那首曲子，現在應該已經完成了吧。 會是什麼樣的歌曲呢？
 
 
-2445 areatalk_ev_theater_029
+29 2445:areatalk_ev_theater_029
 
 【窗扉打開的「世界」】
 
@@ -327,7 +327,7 @@
 初音未來：但現在，能讓她看看這個「世界」的樣子， 真的太好了。
 
 
-2446 areatalk_ev_theater_030
+30 2446:areatalk_ev_theater_030
 
 【窗扉打開的「世界」】
 
@@ -338,7 +338,7 @@
 初音未來：在那邊的「世界」或許沒問題， 但如果是這裡，應該會撞到天花板吧……
 
 
-2447 areatalk_ev_theater_031
+31 2447:areatalk_ev_theater_031
 
 【窗扉打開的「世界」】
 
@@ -349,7 +349,7 @@
 初音未來：……我也想像其他的「我」一樣， 陪伴著這些擁有心願的主人呢。
 
 
-2448 areatalk_ev_theater_032
+32 2448:areatalk_ev_theater_032
 
 【窗扉打開的「世界」】
 
@@ -360,7 +360,7 @@
 初音未來：如果光是練習就已經這麼精彩了， 那真正的LIVE又會是多麼耀眼呀？
 
 
-2449 areatalk_ev_theater_033
+33 2449:areatalk_ev_theater_033
 
 【窗扉打開的「世界」】
 
@@ -372,7 +372,7 @@
 初音未來：……真帥氣呢。
 
 
-2450 areatalk_ev_theater_034
+34 2450:areatalk_ev_theater_034
 
 【窗扉打開的「世界」】
 
@@ -383,7 +383,7 @@
 初音未來：能有那樣的學姐，一定很安心吧。
 
 
-2451 areatalk_ev_theater_035
+35 2451:areatalk_ev_theater_035
 
 【窗扉打開的「世界」】
 
@@ -394,7 +394,7 @@
 初音未來：或許，我也可以用自己能做到的方式， 陪伴那些擁有心願的人。
 
 
-2452 areatalk_ev_theater_036
+36 2452:areatalk_ev_theater_036
 
 【窗扉打開的「世界」】
 
@@ -405,7 +405,7 @@
 初音未來：真的很溫柔呢。
 
 
-2453 areatalk_ev_theater_037
+37 2453:areatalk_ev_theater_037
 
 【窗扉打開的「世界」】
 

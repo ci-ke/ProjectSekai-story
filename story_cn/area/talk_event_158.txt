@@ -1,4 +1,4 @@
-2542 areatalk_ev_shuffle_55_001
+1 2542:areatalk_ev_shuffle_55_001
 
 【购物中心】
 
@@ -15,7 +15,7 @@
 宁宁：我也想听听你们的感想。 下次练习的时候，我会来叫你们的。
 
 
-2543 areatalk_ev_shuffle_55_002
+2 2543:areatalk_ev_shuffle_55_002
 
 【中央街】
 
@@ -31,7 +31,7 @@
 宁宁：在全班同学面前用声音表演去朗读的话， 还是会有点难为情……
 
 
-2544 areatalk_ev_shuffle_55_003
+3 2544:areatalk_ev_shuffle_55_003
 
 【全向十字路口】
 
@@ -48,7 +48,7 @@
 宁宁：不过，还是谢谢你们。 要是遇到事情，就麻烦你们了。
 
 
-2545 areatalk_ev_shuffle_55_004
+4 2545:areatalk_ev_shuffle_55_004
 
 【全向十字路口】
 
@@ -66,7 +66,7 @@
 宁宁：啊，那个，望月同学。 刚才类只是在开玩笑，你可别当真啊。
 
 
-2546 areatalk_ev_shuffle_55_005
+5 2546:areatalk_ev_shuffle_55_005
 
 【教室「世界」 - 学校】
 

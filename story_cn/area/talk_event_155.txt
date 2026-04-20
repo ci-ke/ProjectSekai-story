@@ -1,4 +1,4 @@
-2522 areatalk_ev_shuffle_53_001
+1 2522:areatalk_ev_shuffle_53_001
 
 【中央街】
 
@@ -14,7 +14,7 @@
 咲希：好主意，小一！ 我也想尝尝各种不同的口味～！
 
 
-2523 areatalk_ev_shuffle_53_002
+2 2523:areatalk_ev_shuffle_53_002
 
 【中央街】
 
@@ -30,7 +30,7 @@
 咲希：嘿嘿，太好了～！我等着你哦！
 
 
-2524 areatalk_ev_shuffle_53_003
+3 2524:areatalk_ev_shuffle_53_003
 
 【全向十字路口】
 
@@ -48,7 +48,7 @@
 一歌：呵呵呵，看来我们都是同道中人，今后还请多多关照。
 
 
-2525 areatalk_ev_shuffle_53_004
+4 2525:areatalk_ev_shuffle_53_004
 
 【无人「世界」 - 湖】
 
@@ -64,7 +64,7 @@
 镜音铃（N25）：嗯…… 看来你真的很喜欢运动服。
 
 
-2526 areatalk_ev_shuffle_53_005
+5 2526:areatalk_ev_shuffle_53_005
 
 【街头「世界」 - 广场】
 

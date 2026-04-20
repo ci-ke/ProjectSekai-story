@@ -1,4 +1,4 @@
-2052 areatalk_ev_sanrio_001
+1 2052:areatalk_ev_sanrio_001
 
 【彩虹乐园「世界」】
 
@@ -11,7 +11,7 @@
 凯蒂猫：哇，好浪漫！ 要是能看到漂亮的星星就好了！
 
 
-2053 areatalk_ev_sanrio_002
+2 2053:areatalk_ev_sanrio_002
 
 【彩虹乐园「世界」】
 
@@ -26,7 +26,7 @@
 凯蒂猫：真的？ 那就让我参加一下你们的茶会吧。
 
 
-2054 areatalk_ev_sanrio_003
+3 2054:areatalk_ev_sanrio_003
 
 【彩虹乐园「世界」】
 
@@ -41,7 +41,7 @@
 帕恰狗：真的吗？！嗯～是火腿好呢？还是鸡蛋好呢？ 嘿嘿，好难决定啊。
 
 
-2055 areatalk_ev_sanrio_004
+4 2055:areatalk_ev_sanrio_004
 
 【彩虹乐园「世界」】
 
@@ -54,7 +54,7 @@
 大耳狗：嗯！嘿嘿♪我要换一身帅气的衣服， 然后让全场的人大吃一惊～
 
 
-2056 areatalk_ev_sanrio_005
+5 2056:areatalk_ev_sanrio_005
 
 【彩虹乐园「世界」】
 
@@ -69,7 +69,7 @@
 酷洛米：我只是说为了驱赶睡意哦！ 好了，趁本小姐还没改主意快点走吧。
 
 
-2057 areatalk_ev_sanrio_006
+6 2057:areatalk_ev_sanrio_006
 
 【彩虹乐园「世界」】
 
@@ -85,7 +85,7 @@
 布丁狗：可以啊！下次我不会输的！
 
 
-2058 areatalk_ev_sanrio_007
+7 2058:areatalk_ev_sanrio_007
 
 【彩虹乐园「世界」】
 
@@ -101,7 +101,7 @@
 帕恰狗&布丁狗：“嘿、嘿、哦——！”
 
 
-2059 areatalk_ev_sanrio_008
+8 2059:areatalk_ev_sanrio_008
 
 【彩虹乐园「世界」】
 
@@ -118,7 +118,7 @@
 大耳狗&布丁狗：“啊哈哈哈♪”
 
 
-2060 areatalk_ev_sanrio_009
+9 2060:areatalk_ev_sanrio_009
 
 【彩虹乐园「世界」】
 
@@ -135,7 +135,7 @@
 酷洛米：喂！不要用这种同情的眼光看我！
 
 
-2061 areatalk_ev_sanrio_010
+10 2061:areatalk_ev_sanrio_010
 
 【彩虹乐园「世界」】
 
@@ -153,7 +153,7 @@
 帕恰狗：是吧？那我们去采草莓吧！
 
 
-2062 areatalk_ev_sanrio_011
+11 2062:areatalk_ev_sanrio_011
 
 【彩虹乐园「世界」】
 
@@ -171,7 +171,7 @@
 美乐蒂：……嘿嘿☆
 
 
-2063 areatalk_ev_sanrio_012
+12 2063:areatalk_ev_sanrio_012
 
 【彩虹乐园「世界」】
 
@@ -190,7 +190,7 @@
 美乐蒂：好——♪
 
 
-2064 areatalk_ev_sanrio_013
+13 2064:areatalk_ev_sanrio_013
 
 【彩虹乐园「世界」】
 
@@ -208,7 +208,7 @@
 帕恰狗：呵呵呵，可以！
 
 
-2065 areatalk_ev_sanrio_014
+14 2065:areatalk_ev_sanrio_014
 
 【彩虹乐园「世界」】
 
@@ -224,7 +224,7 @@
 酷洛米：怎么可能！再怎么说这世界也不会这么小吧！
 
 
-2066 areatalk_ev_sanrio_015
+15 2066:areatalk_ev_sanrio_015
 
 【彩虹乐园「世界」】
 
@@ -238,7 +238,7 @@
 酷洛米：……哼。一点儿也不可爱！ 所以你别再说了啊！
 
 
-2067 areatalk_ev_sanrio_016
+16 2067:areatalk_ev_sanrio_016
 
 【彩虹乐园「世界」】
 
@@ -258,7 +258,7 @@
 凯蒂猫：好！
 
 
-2068 areatalk_ev_sanrio_017
+17 2068:areatalk_ev_sanrio_017
 
 【彩虹乐园「世界」】
 
@@ -275,7 +275,7 @@
 初音未来：可以吗？ 谢谢！那我会用心去唱的！
 
 
-2069 areatalk_ev_sanrio_018
+18 2069:areatalk_ev_sanrio_018
 
 【彩虹乐园「世界」】
 
@@ -293,7 +293,7 @@
 咲希&布丁狗：“好享受～”
 
 
-2070 areatalk_ev_sanrio_019
+19 2070:areatalk_ev_sanrio_019
 
 【彩虹乐园「世界」】
 
@@ -307,7 +307,7 @@
 咲希：哈啊…… 好幸福～
 
 
-2071 areatalk_ev_sanrio_020
+20 2071:areatalk_ev_sanrio_020
 
 【彩虹乐园「世界」】
 
@@ -325,7 +325,7 @@
 爱莉：嗯！随便碰到什么问题都可以来问我。
 
 
-2072 areatalk_ev_sanrio_021
+21 2072:areatalk_ev_sanrio_021
 
 【彩虹乐园「世界」】
 
@@ -341,7 +341,7 @@
 爱莉：好好好，是想要抱抱了吧， 小美乐蒂真是太会撒娇了。
 
 
-2073 areatalk_ev_sanrio_022
+22 2073:areatalk_ev_sanrio_022
 
 【彩虹乐园「世界」】
 
@@ -356,7 +356,7 @@
 帕恰狗：交给我吧！为了让冬弥能体验到玩滑板的快乐， 我会努力教的！
 
 
-2074 areatalk_ev_sanrio_023
+23 2074:areatalk_ev_sanrio_023
 
 【彩虹乐园「世界」】
 
@@ -377,7 +377,7 @@
 帕恰狗：哇……！冬弥的秘密是什么呢？ 心跳都开始变快了。
 
 
-2075 areatalk_ev_sanrio_024
+24 2075:areatalk_ev_sanrio_024
 
 【彩虹乐园「世界」】
 
@@ -394,7 +394,7 @@
 笑梦&大耳狗：“嚼啊嚼啊嚼啊”
 
 
-2076 areatalk_ev_sanrio_025
+25 2076:areatalk_ev_sanrio_025
 
 【彩虹乐园「世界」】
 
@@ -413,7 +413,7 @@
 大耳狗：呼啊……嗯，好困，不管了…… 呼啊呼啊……
 
 
-2077 areatalk_ev_sanrio_026
+26 2077:areatalk_ev_sanrio_026
 
 【彩虹乐园「世界」】
 
@@ -428,7 +428,7 @@
 酷洛米：不、不好意思。稍微有点不适应…… 你不要介意，继续吧。
 
 
-2078 areatalk_ev_sanrio_027
+27 2078:areatalk_ev_sanrio_027
 
 【彩虹乐园「世界」】
 

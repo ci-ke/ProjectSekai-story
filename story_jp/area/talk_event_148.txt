@@ -1,4 +1,4 @@
-2392 areatalk_ev_shuffle_50_001
+1 2392:areatalk_ev_shuffle_50_001
 
 [ショッピングモール]
 
@@ -18,7 +18,7 @@
 咲希: うん♪　楽しみだね！
 
 
-2393 areatalk_ev_shuffle_50_002
+2 2393:areatalk_ev_shuffle_50_002
 
 [センター街]
 
@@ -35,7 +35,7 @@
 咲希: ええっ！？　そこまで履かれたら、 もうムリだよ～って、くつ泣いちゃうんじゃない！？
 
 
-2394 areatalk_ev_shuffle_50_003
+3 2394:areatalk_ev_shuffle_50_003
 
 [音楽ショップ]
 
@@ -53,7 +53,7 @@
 志歩: いや、別にいいから……
 
 
-2395 areatalk_ev_shuffle_50_004
+4 2395:areatalk_ev_shuffle_50_004
 
 [センター街]
 
@@ -69,7 +69,7 @@
 司: ああ！　完成が待ち遠しいな！
 
 
-2396 areatalk_ev_shuffle_50_005
+5 2396:areatalk_ev_shuffle_50_005
 
 [教室のセカイ - 駅]
 
@@ -89,7 +89,7 @@
 志歩: じゃあ、ちょっと探してみようか
 
 
-2514 areatalk_monthly2412_003
+6 2514:areatalk_monthly2412_003
 
 [教室のセカイ - 学校]
 

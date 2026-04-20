@@ -1,4 +1,4 @@
-1510 areatalk_ev_shuffle_23_001
+1 1510:areatalk_ev_shuffle_23_001
 
 [スクランブル交差点]
 
@@ -21,7 +21,7 @@
 穂波・えむ: 『はい！』
 
 
-1511 areatalk_ev_shuffle_23_002
+2 1511:areatalk_ev_shuffle_23_002
 
 [スクランブル交差点]
 
@@ -40,7 +40,7 @@
 絵名: （ていうか、穂波ちゃん……。 そんな想像ができるなんて、もうお母さんじゃん）
 
 
-1512 areatalk_ev_shuffle_23_003
+3 1512:areatalk_ev_shuffle_23_003
 
 [神山高校]
 
@@ -57,7 +57,7 @@
 絵名: ……ってことは、私の気にしすぎかな。 教室行こーっと
 
 
-1513 areatalk_ev_shuffle_23_004
+4 1513:areatalk_ev_shuffle_23_004
 
 [宮益坂女子学園]
 
@@ -73,7 +73,7 @@
 穂波: うん！
 
 
-1514 areatalk_ev_shuffle_23_005
+5 1514:areatalk_ev_shuffle_23_005
 
 [教室のセカイ - 学校]
 

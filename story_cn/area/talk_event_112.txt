@@ -1,4 +1,4 @@
-2027 areatalk_wl_night_01_001
+1 2027:areatalk_wl_night_01_001
 
 【无人「世界」 - 空地】
 
@@ -16,7 +16,7 @@
 奏：呜……
 
 
-2028 areatalk_wl_night_01_002
+2 2028:areatalk_wl_night_01_002
 
 【无人「世界」 - 湖】
 
@@ -29,7 +29,7 @@
 绘名：没错没错！ 看来你对各种领域都有所涉猎嘛。
 
 
-2029 areatalk_wl_night_01_003
+3 2029:areatalk_wl_night_01_003
 
 【全向十字路口】
 
@@ -42,7 +42,7 @@
 瑞希：（哇，我差点就说出口了……以后得注意了。）
 
 
-2030 areatalk_wl_night_01_004
+4 2030:areatalk_wl_night_01_004
 
 【无人「世界」 - 空地】
 
@@ -59,7 +59,7 @@
 真冬：不用了。
 
 
-2031 areatalk_wl_night_01_005
+5 2031:areatalk_wl_night_01_005
 
 【购物中心】
 
@@ -73,7 +73,7 @@
 瑞希：啊哈哈，的确绘名过来的话一下就能注意到了！
 
 
-2032 areatalk_wl_night_01_006
+6 2032:areatalk_wl_night_01_006
 
 【无人「世界」 - 湖】
 
@@ -90,7 +90,7 @@
 绘名&瑞希：（啊，看来是做过啊……）
 
 
-2033 areatalk_wl_night_01_007
+7 2033:areatalk_wl_night_01_007
 
 【全向十字路口】
 
@@ -111,7 +111,7 @@
 绘名：啊——真是的！不去看电影了！ 改成大家一起聚餐！
 
 
-2034 areatalk_wl_night_01_008
+8 2034:areatalk_wl_night_01_008
 
 【无人「世界」 - 湖】
 
@@ -126,7 +126,7 @@
 奏：……应、应该不会有这么方便的机制吧……
 
 
-2035 areatalk_wl_night_01_009
+9 2035:areatalk_wl_night_01_009
 
 【无人「世界」 - 湖】
 
@@ -143,7 +143,7 @@ MEIKO（N25）：……随便你哦？ 毕竟这里是你的「世界」。
 MEIKO（N25）：……嗯，是啊。
 
 
-2036 areatalk_wl_night_01_010
+10 2036:areatalk_wl_night_01_010
 
 【无人「世界」 - 湖】
 

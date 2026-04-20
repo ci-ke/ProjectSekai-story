@@ -1,4 +1,4 @@
-1470 areatalk_ev_street_09_001
+1 1470:areatalk_ev_street_09_001
 
 [センター街]
 
@@ -13,7 +13,7 @@
 こはね: うん！　じゃあ走りに行こっか
 
 
-1471 areatalk_ev_street_09_002
+2 1471:areatalk_ev_street_09_002
 
 [スクランブル交差点]
 
@@ -32,7 +32,7 @@
 彰人: だろうな
 
 
-1472 areatalk_ev_street_09_003
+3 1472:areatalk_ev_street_09_003
 
 [神山高校]
 
@@ -51,7 +51,7 @@
 冬弥: おかげで司先輩や彰人と同じ学校にかよえて、 とても楽しい学校生活をおくれている。 天馬家のご両親に感謝しなくてはな
 
 
-1473 areatalk_ev_street_09_004
+4 1473:areatalk_ev_street_09_004
 
 [センター街]
 
@@ -70,7 +70,7 @@
 冬弥: ああ。楽しみにしている
 
 
-1474 areatalk_ev_street_09_005
+5 1474:areatalk_ev_street_09_005
 
 [ストリートのセカイ - カフェ]
 

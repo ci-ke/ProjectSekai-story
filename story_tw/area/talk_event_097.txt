@@ -1,4 +1,4 @@
-1741 areatalk_ev_street_13_001
+1 1741:areatalk_ev_street_13_001
 
 【十字路口】
 
@@ -14,7 +14,7 @@
 杏：（……謝謝妳，心羽。）
 
 
-1742 areatalk_ev_street_13_002
+2 1742:areatalk_ev_street_13_002
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -33,7 +33,7 @@
 冬彌：嗯，就這麼辦。
 
 
-1743 areatalk_ev_street_13_003
+3 1743:areatalk_ev_street_13_003
 
 【十字路口】
 
@@ -56,7 +56,7 @@
 彰人：受不了……它的跳躍時機會在中途開始變快或變慢， 可別鬆懈了。
 
 
-1744 areatalk_ev_street_13_004
+4 1744:areatalk_ev_street_13_004
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -74,7 +74,7 @@
 鏡音鈴：嗯！
 
 
-1745 areatalk_ev_street_13_005
+5 1745:areatalk_ev_street_13_005
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -91,7 +91,7 @@
 杏：呵呵，交給我吧！
 
 
-1777 areatalk_monthly2307_002
+6 1777:areatalk_monthly2307_002
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -108,7 +108,7 @@
 彰人：這個嘛……我有這個打算時，或許會再拜託妳。
 
 
-1778 areatalk_monthly2307_003
+7 1778:areatalk_monthly2307_003
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -124,7 +124,7 @@
 鏡音連：真的嗎？ 欸嘿嘿，果然不是只有「敢喝黑咖啡」，才代表一個人很帥氣呢。
 
 
-1779 areatalk_monthly2307_004
+8 1779:areatalk_monthly2307_004
 
 【中心街】
 

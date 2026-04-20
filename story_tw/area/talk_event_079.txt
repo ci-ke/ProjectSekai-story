@@ -1,4 +1,4 @@
-1571 areatalk_ev_street_11_001
+1 1571:areatalk_ev_street_11_001
 
 【神山高中】
 
@@ -16,7 +16,7 @@
 彰人：說的也是，我也不想每次都擔心會不會及格， 我就來試著努力唸書吧。
 
 
-1572 areatalk_ev_street_11_002
+2 1572:areatalk_ev_street_11_002
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -37,7 +37,7 @@
 彰人：……真是的。 妳要那樣想就那樣想吧。
 
 
-1573 areatalk_ev_street_11_003
+3 1573:areatalk_ev_street_11_003
 
 【中心街】
 
@@ -58,7 +58,7 @@
 心羽、杏、冬彌：「嗯！」 「好。」
 
 
-1574 areatalk_ev_street_11_004
+4 1574:areatalk_ev_street_11_004
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -74,7 +74,7 @@
 彰人：她真的只是來報仇的啊……
 
 
-1575 areatalk_ev_street_11_005
+5 1575:areatalk_ev_street_11_005
 
 【街頭的「世界」 - 咖啡廳】
 

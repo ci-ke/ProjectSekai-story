@@ -1,4 +1,4 @@
-2333 areatalk_wl_piapro_01_001
+1 2333:areatalk_wl_piapro_01_001
 
 [教室のセカイ - 駅]
 
@@ -12,7 +12,7 @@
 ルカ (Ln): そうよ。リンは陰で努力する、とっても偉い子なんだから
 
 
-2334 areatalk_wl_piapro_01_002
+2 2334:areatalk_wl_piapro_01_002
 
 [教室のセカイ - 学校]
 
@@ -30,7 +30,7 @@
 レン (Ln): おい、リン！ 触るのはいいけど、加減間違えて木を折るなよ！？
 
 
-2335 areatalk_wl_piapro_01_003
+3 2335:areatalk_wl_piapro_01_003
 
 [ステージのセカイ - 花畑]
 
@@ -47,7 +47,7 @@
 リン (MMJ): 心の準備がまだできてないよー！
 
 
-2336 areatalk_wl_piapro_01_004
+4 2336:areatalk_wl_piapro_01_004
 
 [ステージのセカイ - ステージ]
 
@@ -64,7 +64,7 @@
 メイコ (MEIKO-MMJ): じゃあ、３人が帰ってきたら どんな音がしたか聞いてみましょ！
 
 
-2337 areatalk_wl_piapro_01_005
+5 2337:areatalk_wl_piapro_01_005
 
 [ストリートのセカイ - 広場]
 
@@ -81,7 +81,7 @@
 ミク (VBS): うん。想いの持ち主達に、そっくりだよ
 
 
-2338 areatalk_wl_piapro_01_006
+6 2338:areatalk_wl_piapro_01_006
 
 [ストリートのセカイ - カフェ]
 
@@ -101,7 +101,7 @@
 カイト (KAITO-VBS): まっ、変に巻き込まれたくないし、黙ってよっと
 
 
-2339 areatalk_wl_piapro_01_007
+7 2339:areatalk_wl_piapro_01_007
 
 [ワンダーランドのセカイ - 港]
 
@@ -120,7 +120,7 @@
 ミク (WxS): うんっ☆　みんなで一緒に、お世話しようね♪
 
 
-2340 areatalk_wl_piapro_01_008
+8 2340:areatalk_wl_piapro_01_008
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -139,7 +139,7 @@
 メイコ (MEIKO-WxS): う……。 もう、仕方ないわね。なでてあげるわ
 
 
-2341 areatalk_wl_piapro_01_009
+9 2341:areatalk_wl_piapro_01_009
 
 [誰もいないセカイ - 閑地]
 
@@ -156,7 +156,7 @@
 ミク (N25): ふふ。楽しみだね
 
 
-2342 areatalk_wl_piapro_01_010
+10 2342:areatalk_wl_piapro_01_010
 
 [誰もいないセカイ - 湖]
 

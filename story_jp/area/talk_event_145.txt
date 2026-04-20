@@ -1,4 +1,4 @@
-2373 areatalk_ev_night_18_001
+1 2373:areatalk_ev_night_18_001
 
 [誰もいないセカイ - 湖]
 
@@ -10,7 +10,7 @@
 瑞希: そんなわけ、ないか……
 
 
-2374 areatalk_ev_night_18_002
+2 2374:areatalk_ev_night_18_002
 
 [スクランブル交差点]
 
@@ -24,7 +24,7 @@
 まふゆ: ……そうだね
 
 
-2375 areatalk_ev_night_18_003
+3 2375:areatalk_ev_night_18_003
 
 [誰もいないセカイ - 閑地]
 
@@ -40,7 +40,7 @@
 ミク (N25): うん……。一緒に、練習しよう
 
 
-2376 areatalk_ev_night_18_004
+4 2376:areatalk_ev_night_18_004
 
 [誰もいないセカイ - 閑地]
 

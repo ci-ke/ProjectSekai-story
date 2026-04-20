@@ -1,4 +1,4 @@
-1536 areatalk_ev_wonder_10_001
+1 1536:areatalk_ev_wonder_10_001
 
 【主题乐园】
 
@@ -15,7 +15,7 @@
 类：（不愧是司，为了演出会毫不犹豫地尝试各种手段啊。）
 
 
-1537 areatalk_ev_wonder_10_002
+2 1537:areatalk_ev_wonder_10_002
 
 【主题乐园】
 
@@ -31,7 +31,7 @@
 笑梦：嘿嘿，好啊♪ 那我就开始唱了☆
 
 
-1538 areatalk_ev_wonder_10_003
+3 1538:areatalk_ev_wonder_10_003
 
 【神山高校】
 
@@ -48,7 +48,7 @@
 宁宁：嗯，知道了。那就交给你了。
 
 
-1539 areatalk_ev_wonder_10_004
+4 1539:areatalk_ev_wonder_10_004
 
 【主题乐园】
 
@@ -68,7 +68,7 @@
 笑梦：哦——！
 
 
-1540 areatalk_ev_wonder_10_005
+5 1540:areatalk_ev_wonder_10_005
 
 【奇幻乐园「世界」 - 游乐园】
 

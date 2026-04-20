@@ -1,4 +1,4 @@
-2527 areatalk_ev_shuffle_54_001
+1 2527:areatalk_ev_shuffle_54_001
 
 [スクランブル交差点]
 
@@ -15,7 +15,7 @@
 雫: ふふ、みんなと一緒ならなんでもできそうね
 
 
-2528 areatalk_ev_shuffle_54_002
+2 2528:areatalk_ev_shuffle_54_002
 
 [スクランブル交差点]
 
@@ -30,7 +30,7 @@
 まふゆ: うん、大丈夫だよ。 お菓子を贈る時の参考になりそうだし、教えてほしいな
 
 
-2529 areatalk_ev_shuffle_54_003
+3 2529:areatalk_ev_shuffle_54_003
 
 [ショッピングモール]
 
@@ -45,7 +45,7 @@
 瑞希: えへへ、やった〜！ 刺繍のテクニック、いろいろ教えてもらおう♪
 
 
-2530 areatalk_ev_shuffle_54_004
+4 2530:areatalk_ev_shuffle_54_004
 
 [宮益坂女子学園]
 
@@ -61,7 +61,7 @@
 まふゆ: ふふ、体験入部は大歓迎だよ
 
 
-2531 areatalk_ev_shuffle_54_005
+5 2531:areatalk_ev_shuffle_54_005
 
 [ステージのセカイ - ステージ]
 

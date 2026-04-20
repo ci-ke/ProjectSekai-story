@@ -1,4 +1,4 @@
-2368 areatalk_ev_shuffle_49_001
+1 2368:areatalk_ev_shuffle_49_001
 
 [スクランブル交差点]
 
@@ -17,7 +17,7 @@
 愛莉: それはいいわね！ うちの学校に展示されたら、見に行きたいわ
 
 
-2369 areatalk_ev_shuffle_49_002
+2 2369:areatalk_ev_shuffle_49_002
 
 [スクランブル交差点]
 
@@ -33,7 +33,7 @@
 志歩: そうだね。 あの笑顔を見て、私も、妥協しなくてよかったって思ったよ
 
 
-2370 areatalk_ev_shuffle_49_003
+3 2370:areatalk_ev_shuffle_49_003
 
 [ショッピングモール]
 
@@ -52,7 +52,7 @@
 寧々: （す、すごい……。これがアイドル……！）
 
 
-2371 areatalk_ev_shuffle_49_004
+4 2371:areatalk_ev_shuffle_49_004
 
 [神山高校]
 
@@ -68,7 +68,7 @@
 寧々: 教えてくれてありがとう。 おもしろそうだし、立候補してみるよ
 
 
-2372 areatalk_ev_shuffle_49_005
+5 2372:areatalk_ev_shuffle_49_005
 
 [ショッピングモール]
 

@@ -1,4 +1,4 @@
-2454 areatalk_ev_ensta_001
+1 2454:areatalk_ev_ensta_001
 
 [ASTRO FES会場]
 
@@ -19,7 +19,7 @@
 彰人: ……アイドルの仕事も大変っすね
 
 
-2455 areatalk_ev_ensta_002
+2 2455:areatalk_ev_ensta_002
 
 [ASTRO FES会場]
 
@@ -37,7 +37,7 @@
 彰人: あーっと……考えときます
 
 
-2456 areatalk_ev_ensta_003
+3 2456:areatalk_ev_ensta_003
 
 [ASTRO FES会場]
 
@@ -56,7 +56,7 @@
 ジュン: こうして話してみると、 界隈によってそれぞれのスタイルがあって面白いっすね
 
 
-2457 areatalk_ev_ensta_004
+4 2457:areatalk_ev_ensta_004
 
 [ASTRO FES会場]
 
@@ -79,7 +79,7 @@
 類: フフ、もちろんだよ。 では、行きましょうか
 
 
-2458 areatalk_ev_ensta_005
+5 2458:areatalk_ev_ensta_005
 
 [ASTRO FES会場]
 
@@ -99,7 +99,7 @@
 泉: じゃあなおさら、諦めるしかないか
 
 
-2459 areatalk_ev_ensta_006
+6 2459:areatalk_ev_ensta_006
 
 [ASTRO FES会場]
 
@@ -116,7 +116,7 @@
 泉: だからこれからも、たまに面倒を見てあげるつもり
 
 
-2460 areatalk_ev_ensta_007
+7 2460:areatalk_ev_ensta_007
 
 [ASTRO FES会場]
 
@@ -139,7 +139,7 @@
 泉: えっ……あはは、すっごいカタカナ英語。 やっぱり全然タイプが違うよね
 
 
-2461 areatalk_ev_ensta_008
+8 2461:areatalk_ev_ensta_008
 
 [ASTRO FES会場]
 
@@ -159,7 +159,7 @@
 冬弥: （やはり、瀬名さんは面倒見がいいな）
 
 
-2462 areatalk_ev_ensta_009
+9 2462:areatalk_ev_ensta_009
 
 [ASTRO FES会場]
 
@@ -177,7 +177,7 @@
 司: はい！　その時はオレが、 最高に楽しめるコースを提案しましょう！
 
 
-2463 areatalk_ev_ensta_010
+10 2463:areatalk_ev_ensta_010
 
 [ASTRO FES会場]
 
@@ -194,7 +194,7 @@
 司: では共に、最強にかっこいいポーズを考えましょう！
 
 
-2464 areatalk_ev_ensta_011
+11 2464:areatalk_ev_ensta_011
 
 [ASTRO FES会場]
 
@@ -212,7 +212,7 @@
 彰人: （あんたらのせいだって言いたいとこだが…… なんだかんだ面倒見いいとこまで似てんだな）
 
 
-2465 areatalk_ev_ensta_012
+12 2465:areatalk_ev_ensta_012
 
 [ASTRO FES会場]
 
@@ -234,7 +234,7 @@
 冬弥: ……ありがとうございます。 今ので十分、気分が和らぎました
 
 
-2466 areatalk_ev_ensta_013
+13 2466:areatalk_ev_ensta_013
 
 [ASTRO FES会場]
 
@@ -255,7 +255,7 @@
 夏目: アハハ……君はなんでもショウに結びつけてしまうネ
 
 
-2467 areatalk_ev_ensta_014
+14 2467:areatalk_ev_ensta_014
 
 [ASTRO FES会場]
 
@@ -273,7 +273,7 @@
 類: いえ、何も
 
 
-2468 areatalk_ev_ensta_015
+15 2468:areatalk_ev_ensta_015
 
 [ASTRO FES会場]
 
@@ -291,7 +291,7 @@
 彰人: へえ……そこまで言うなら、期待しときます
 
 
-2469 areatalk_ev_ensta_016
+16 2469:areatalk_ev_ensta_016
 
 [ASTRO FES会場]
 
@@ -310,7 +310,7 @@
 夏目: ボクよりよっぽど徹夜しがちなセンパイはともかク、 大事な後輩のソラに心配をかけるわけにはいかないシ。 ボクもほどほどにしておこうかナ
 
 
-2470 areatalk_ev_ensta_017
+17 2470:areatalk_ev_ensta_017
 
 [ASTRO FES会場]
 
@@ -327,7 +327,7 @@
 冬弥: はい、是非
 
 
-2471 areatalk_ev_ensta_018
+18 2471:areatalk_ev_ensta_018
 
 [ASTRO FES会場]
 
@@ -344,7 +344,7 @@
 彰人: はい
 
 
-2472 areatalk_ev_ensta_019
+19 2472:areatalk_ev_ensta_019
 
 [ASTRO FES会場]
 
@@ -367,7 +367,7 @@
 類: （ふむ……演者からも見えないように、 もっとしっかりゾンビの顔を隠す必要がありそうだね。 屋台でヒーローのお面を買っておこうかな）
 
 
-2473 areatalk_ev_ensta_020
+20 2473:areatalk_ev_ensta_020
 
 [ASTRO FES会場]
 
@@ -391,7 +391,7 @@
 夏目: （魔法が効きやすい子だネ、司くんハ）
 
 
-2474 areatalk_ev_ensta_021
+21 2474:areatalk_ev_ensta_021
 
 [ASTRO FES会場]
 
@@ -413,7 +413,7 @@
 ジュン: はい！
 
 
-2475 areatalk_ev_ensta_022
+22 2475:areatalk_ev_ensta_022
 
 [ASTRO FES会場]
 

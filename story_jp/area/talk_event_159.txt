@@ -1,4 +1,4 @@
-2552 areatalk_ev_shuffle_56_001
+1 2552:areatalk_ev_shuffle_56_001
 
 [宮益坂女子学園]
 
@@ -14,7 +14,7 @@
 志歩: はいはい
 
 
-2553 areatalk_ev_shuffle_56_002
+2 2553:areatalk_ev_shuffle_56_002
 
 [宮益坂女子学園]
 
@@ -29,7 +29,7 @@
 えむ: うん！　そのために、お互いがんばろうね！
 
 
-2554 areatalk_ev_shuffle_56_003
+3 2554:areatalk_ev_shuffle_56_003
 
 [教室のセカイ - 学校]
 
@@ -43,7 +43,7 @@
 リン (Ln): わーい、楽しみ～☆
 
 
-2555 areatalk_ev_shuffle_56_004
+4 2555:areatalk_ev_shuffle_56_004
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -58,7 +58,7 @@ MEIKO (WxS): ……まったく、ルカってば……。 頼りにされても
 MEIKO (WxS): ほら、ルカー！　起きなさーい！
 
 
-2556 areatalk_ev_shuffle_56_005
+5 2556:areatalk_ev_shuffle_56_005
 
 [スクランブル交差点]
 

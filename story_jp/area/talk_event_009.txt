@@ -1,4 +1,4 @@
-876 areatalk_ev_special_01_001
+1 876:areatalk_ev_special_01_001
 
 [教室のセカイ - 学校]
 
@@ -14,7 +14,7 @@
 ミク (Ln): うん、任せて
 
 
-877 areatalk_ev_special_01_002
+2 877:areatalk_ev_special_01_002
 
 [ステージのセカイ - ステージ]
 
@@ -28,7 +28,7 @@
 ミク (MMJ): そうだね！　これからも、 そんな特別なライブを続けていきたいね！
 
 
-878 areatalk_ev_special_01_003
+3 878:areatalk_ev_special_01_003
 
 [ストリートのセカイ - カフェ]
 
@@ -45,7 +45,7 @@ MEIKO: ええ。そうね……
 MEIKO: （気持ちはすごく嬉しいんだけど。 変なドキドキが止まらないわ……）
 
 
-879 areatalk_ev_special_01_004
+4 879:areatalk_ev_special_01_004
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -61,7 +61,7 @@ KAITO: でも、衣装はショーにも必要なものだからね。 今度は
 ミク (WxS): わーい！　それじゃあ、みんなに集まってもらって、 さっそく始めよーう♪
 
 
-880 areatalk_ev_special_01_005
+5 880:areatalk_ev_special_01_005
 
 [誰もいないセカイ - 閑地]
 

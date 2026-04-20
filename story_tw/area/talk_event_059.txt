@@ -1,4 +1,4 @@
-1436 areatalk_ev_street_08_001
+1 1436:areatalk_ev_street_08_001
 
 【中心街】
 
@@ -11,7 +11,7 @@
 彰人：是喔～總之有做出妳滿意的成品就好。
 
 
-1437 areatalk_ev_street_08_002
+2 1437:areatalk_ev_street_08_002
 
 【中心街】
 
@@ -26,7 +26,7 @@
 杏：我知道啦！ 呵呵，希望下次活動也能獲得這種程度的…… 不，希望能獲得更熱烈的迴響呢！
 
 
-1439 areatalk_ev_street_08_004
+3 1439:areatalk_ev_street_08_004
 
 【十字路口】
 
@@ -47,7 +47,7 @@
 彰人：真是的……好了，所有人都到齊了。 馬上出發去Live House吧。
 
 
-1440 areatalk_ev_street_08_005
+4 1440:areatalk_ev_street_08_005
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -70,7 +70,7 @@ KAITO：一定是下意識被對方出的拳給影響了吧。
 KAITO：（他有可能是故意輸的吧……）
 
 
-1441 areatalk_ev_street_08_006
+5 1441:areatalk_ev_street_08_006
 
 【街頭的「世界」 - 咖啡廳】
 

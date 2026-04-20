@@ -1,4 +1,4 @@
-2818 areatalk_ev_shuffle_61_001
+1 2818:areatalk_ev_shuffle_61_001
 
 [センター街]
 
@@ -16,7 +16,7 @@
 彰人: ……無視だな。無視
 
 
-2819 areatalk_ev_shuffle_61_002
+2 2819:areatalk_ev_shuffle_61_002
 
 [ショッピングモール]
 
@@ -33,7 +33,7 @@
 冬弥: ……そうですね。 それなら、手作りも検討してみようと思います
 
 
-2820 areatalk_ev_shuffle_61_003
+3 2820:areatalk_ev_shuffle_61_003
 
 [神山高校]
 
@@ -52,7 +52,7 @@
 彰人: へぇ……司センパイの一言でおさまるパターンもあんだな……
 
 
-2821 areatalk_ev_shuffle_61_004
+4 2821:areatalk_ev_shuffle_61_004
 
 [ワンダーランドのセカイ - 港]
 

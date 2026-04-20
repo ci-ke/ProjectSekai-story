@@ -1,4 +1,4 @@
-1089 areatalk_ev_shuffle_10_001
+1 1089:areatalk_ev_shuffle_10_001
 
 [スクランブル交差点]
 
@@ -13,7 +13,7 @@
 こはね: うん。仲間がいてくれるって、本当に心強いよね
 
 
-1090 areatalk_ev_shuffle_10_002
+2 1090:areatalk_ev_shuffle_10_002
 
 [センター街]
 
@@ -29,7 +29,7 @@
 咲希・えむ: 『あははっ！』
 
 
-1091 areatalk_ev_shuffle_10_003
+3 1091:areatalk_ev_shuffle_10_003
 
 [センター街]
 
@@ -44,7 +44,7 @@
 こはね: え、本当？　ありがとう！ 今度、ぜひお願いします！
 
 
-1092 areatalk_ev_shuffle_10_004
+4 1092:areatalk_ev_shuffle_10_004
 
 [スクランブル交差点]
 
@@ -59,7 +59,7 @@
 えむ: わーいっ☆　あたしも楽しみに待ってるね♪
 
 
-1093 areatalk_ev_shuffle_10_005
+5 1093:areatalk_ev_shuffle_10_005
 
 [センター街]
 
@@ -76,7 +76,7 @@
 こはね: おー！
 
 
-1094 areatalk_ev_shuffle_10_006
+6 1094:areatalk_ev_shuffle_10_006
 
 [センター街]
 
@@ -100,7 +100,7 @@
 遥: ふふ……
 
 
-1095 areatalk_ev_shuffle_10_007
+7 1095:areatalk_ev_shuffle_10_007
 
 [ショッピングモール]
 
@@ -118,7 +118,7 @@
 穂波: うん、またね！
 
 
-1096 areatalk_ev_shuffle_10_008
+8 1096:areatalk_ev_shuffle_10_008
 
 [ワンダーランドのセカイ - 遊園地]
 

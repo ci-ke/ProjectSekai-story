@@ -1,4 +1,4 @@
-1152 areatalk_ev_shuffle_12_001
+1 1152:areatalk_ev_shuffle_12_001
 
 [テーマパーク]
 
@@ -19,7 +19,7 @@
 寧々: （……よし。ちゃんと応えられるように頑張らなくちゃ）
 
 
-1153 areatalk_ev_shuffle_12_002
+2 1153:areatalk_ev_shuffle_12_002
 
 [音楽ショップ]
 
@@ -35,7 +35,7 @@
 寧々: そうなんだ。どんな感じになるんだろ。楽しみだな
 
 
-1154 areatalk_ev_shuffle_12_003
+3 1154:areatalk_ev_shuffle_12_003
 
 [スクランブル交差点]
 
@@ -52,7 +52,7 @@
 寧々: うん。本当にそうだね
 
 
-1155 areatalk_ev_shuffle_12_004
+4 1155:areatalk_ev_shuffle_12_004
 
 [宮益坂女子学園]
 
@@ -72,7 +72,7 @@
 みのり: うん！　ありがとう、えむちゃん！
 
 
-1156 areatalk_ev_shuffle_12_005
+5 1156:areatalk_ev_shuffle_12_005
 
 [宮益坂女子学園]
 
@@ -96,7 +96,7 @@
 一歌: うん。行こう！
 
 
-1157 areatalk_ev_shuffle_12_006
+6 1157:areatalk_ev_shuffle_12_006
 
 [テーマパーク]
 
@@ -115,7 +115,7 @@
 雫: ええ、そうね！
 
 
-1158 areatalk_ev_shuffle_12_007
+7 1158:areatalk_ev_shuffle_12_007
 
 [スクランブル交差点]
 
@@ -133,7 +133,7 @@
 杏: やった！　じゃあ、まず誰と誰が組むか決めないとね！
 
 
-1159 areatalk_ev_shuffle_12_008
+8 1159:areatalk_ev_shuffle_12_008
 
 [テーマパーク]
 
@@ -154,7 +154,7 @@
 寧々: ふふ。そうだね
 
 
-1160 areatalk_ev_shuffle_12_009
+9 1160:areatalk_ev_shuffle_12_009
 
 [誰もいないセカイ - 閑地]
 

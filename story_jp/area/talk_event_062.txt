@@ -1,4 +1,4 @@
-1460 areatalk_ev_wonder_09_001
+1 1460:areatalk_ev_wonder_09_001
 
 [センター街]
 
@@ -18,7 +18,7 @@
 類: ああ、そうしようか
 
 
-1461 areatalk_ev_wonder_09_002
+2 1461:areatalk_ev_wonder_09_002
 
 [スクランブル交差点]
 
@@ -36,7 +36,7 @@
 えむ: うんっ♪
 
 
-1462 areatalk_ev_wonder_09_003
+3 1462:areatalk_ev_wonder_09_003
 
 [テーマパーク]
 
@@ -57,7 +57,7 @@
 えむ・寧々・類: 『おー！』
 
 
-1463 areatalk_ev_wonder_09_004
+4 1463:areatalk_ev_wonder_09_004
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -75,7 +75,7 @@ MEIKO: あ、でもカイトには内緒よ？ 危ないからあんまりしな
 ミク (WxS): うんっ♪　えへへ、ミク達だけの秘密だねっ☆
 
 
-1464 areatalk_ev_wonder_09_005
+5 1464:areatalk_ev_wonder_09_005
 
 [ワンダーランドのセカイ - 遊園地]
 

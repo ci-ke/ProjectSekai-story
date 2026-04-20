@@ -1,4 +1,4 @@
-1801 areatalk_ev_shuffle_37_001
+1 1801:areatalk_ev_shuffle_37_001
 
 [スクランブル交差点]
 
@@ -15,7 +15,7 @@
 類: おや、ありがとう。 それじゃあ手伝ってくれるお礼に、 ふたりにも最高のショーを披露させてもらうよ
 
 
-1802 areatalk_ev_shuffle_37_002
+2 1802:areatalk_ev_shuffle_37_002
 
 [音楽ショップ]
 
@@ -34,7 +34,7 @@
 杏: そういうこと！？ も～、びっくりしたじゃん！
 
 
-1803 areatalk_ev_shuffle_37_003
+3 1803:areatalk_ev_shuffle_37_003
 
 [スクランブル交差点]
 
@@ -49,7 +49,7 @@
 瑞希: がんばってね、杏！
 
 
-1804 areatalk_ev_shuffle_37_004
+4 1804:areatalk_ev_shuffle_37_004
 
 [神山高校]
 
@@ -67,7 +67,7 @@
 杏: はい！　やってみます！
 
 
-1805 areatalk_ev_shuffle_37_005
+5 1805:areatalk_ev_shuffle_37_005
 
 [ショッピングモール]
 

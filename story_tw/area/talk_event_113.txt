@@ -1,4 +1,4 @@
-2037 areatalk_ev_wonder_15_001
+1 2037:areatalk_ev_wonder_15_001
 
 【十字路口】
 
@@ -15,7 +15,7 @@
 寧寧：（──我也不能輸呢。）
 
 
-2038 areatalk_ev_wonder_15_002
+2 2038:areatalk_ev_wonder_15_002
 
 【十字路口】
 
@@ -32,7 +32,7 @@
 寧寧：不，就說了…………等一下，真的不要這樣啦……！
 
 
-2039 areatalk_ev_wonder_15_003
+3 2039:areatalk_ev_wonder_15_003
 
 【中心街】
 
@@ -49,7 +49,7 @@
 笑夢：好～！
 
 
-2040 areatalk_ev_wonder_15_004
+4 2040:areatalk_ev_wonder_15_004
 
 【奇幻樂園的「世界」 - 遊樂園】
 
@@ -69,7 +69,7 @@ KAITO（WxS）：呵呵，不曉得司會表演出什麼樣的演技，真期待
 司：嗯，那就……麻煩你了！
 
 
-2041 areatalk_ev_wonder_15_005
+5 2041:areatalk_ev_wonder_15_005
 
 【奇幻樂園的「世界」 - 遊樂園】
 
@@ -86,7 +86,7 @@ KAITO（WxS）：呵呵，不曉得司會表演出什麼樣的演技，真期待
 類：呵呵，因為盡全力讓大家都能玩得開心是我的職責啊。
 
 
-2124 areatalk_monthly2312_004
+6 2124:areatalk_monthly2312_004
 
 【奇幻樂園的「世界」 - 遊樂園】
 

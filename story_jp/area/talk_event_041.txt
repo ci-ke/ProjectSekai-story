@@ -1,4 +1,4 @@
-1199 areatalk_ev_shuffle_13_001
+1 1199:areatalk_ev_shuffle_13_001
 
 [センター街]
 
@@ -12,7 +12,7 @@
 杏: そうだね！　行こっ！
 
 
-1200 areatalk_ev_shuffle_13_002
+2 1200:areatalk_ev_shuffle_13_002
 
 [宮益坂女子学園]
 
@@ -27,7 +27,7 @@
 みのり: えへへ、他にどんな動物がいるのか調べておこーっと！
 
 
-1201 areatalk_ev_shuffle_13_003
+3 1201:areatalk_ev_shuffle_13_003
 
 [スクランブル交差点]
 
@@ -44,7 +44,7 @@
 みのり: は、遥ちゃんストッープ！ それ以上ほめられたら、爆発しちゃうよーっ！
 
 
-1202 areatalk_ev_shuffle_13_004
+4 1202:areatalk_ev_shuffle_13_004
 
 [センター街]
 
@@ -61,7 +61,7 @@
 みのり: （きっと、お父さんのカフェを手伝ってるからなんだね！ 頼りになるなあ）
 
 
-1203 areatalk_ev_shuffle_13_005
+5 1203:areatalk_ev_shuffle_13_005
 
 [宮益坂女子学園]
 
@@ -81,7 +81,7 @@
 こはね: うん、いろいろ調べてみるね！　ありがとう、遥ちゃん
 
 
-1204 areatalk_ev_shuffle_13_006
+6 1204:areatalk_ev_shuffle_13_006
 
 [ステージのセカイ - ステージ]
 
@@ -97,7 +97,7 @@
 ルカ: ふふっ。これは白熱した勝負になりそうね。 楽しみだわ♪
 
 
-1205 areatalk_ev_shuffle_13_007
+7 1205:areatalk_ev_shuffle_13_007
 
 [ストリートのセカイ - カフェ]
 

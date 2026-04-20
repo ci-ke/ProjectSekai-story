@@ -1,4 +1,4 @@
-2136 areatalk_ev_wonder_16_001
+1 2136:areatalk_ev_wonder_16_001
 
 【中央街】
 
@@ -13,7 +13,7 @@
 笑梦：如果以后还有学习电影制作的机会就好了呢！
 
 
-2137 areatalk_ev_wonder_16_002
+2 2137:areatalk_ev_wonder_16_002
 
 【音乐商店】
 
@@ -29,7 +29,7 @@
 类：（我最近只顾着想自己的事了…… 不过看来宁宁还是一如既往地努力啊。）
 
 
-2138 areatalk_ev_wonder_16_003
+3 2138:areatalk_ev_wonder_16_003
 
 【神山高校】
 
@@ -44,7 +44,7 @@
 宁宁：（各、各种问题同时出现，反应不过来了…… 谁来帮帮我……）
 
 
-2139 areatalk_ev_wonder_16_004
+4 2139:areatalk_ev_wonder_16_004
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -64,7 +64,7 @@
 司：这里面的原因很复杂……
 
 
-2140 areatalk_ev_wonder_16_005
+5 2140:areatalk_ev_wonder_16_005
 
 【奇幻乐园「世界」 - 游乐园】
 

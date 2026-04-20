@@ -1,4 +1,4 @@
-1648 areatalk_ev_shuffle_30_001
+1 1648:areatalk_ev_shuffle_30_001
 
 【中央街】
 
@@ -15,7 +15,7 @@
 志步：谢谢。那我就期待一下吧。
 
 
-1649 areatalk_ev_shuffle_30_002
+2 1649:areatalk_ev_shuffle_30_002
 
 【神山高校】
 
@@ -33,7 +33,7 @@
 绘名：（她说这些话时的眼神，是如此的纯真…… 听得我都有点不好意思了。）
 
 
-1650 areatalk_ev_shuffle_30_003
+3 1650:areatalk_ev_shuffle_30_003
 
 【音乐商店】
 
@@ -51,7 +51,7 @@
 杏：太好了——！那就麻烦你了——！
 
 
-1651 areatalk_ev_shuffle_30_004
+4 1651:areatalk_ev_shuffle_30_004
 
 【宫益坂女子学园】
 
@@ -69,7 +69,7 @@
 志步：嗯，再耐心等会儿吧。 那我先走了。
 
 
-1652 areatalk_ev_shuffle_30_005
+5 1652:areatalk_ev_shuffle_30_005
 
 【教室「世界」 - 学校】
 
@@ -84,7 +84,7 @@
 志步：好，我准备一下，稍等。
 
 
-1653 areatalk_monthly2303_001
+6 1653:areatalk_monthly2303_001
 
 【宫益坂女子学园】
 
@@ -99,7 +99,7 @@
 实乃理：我也是这么想的！毕竟我家小萨个子太大了， 愿意和它玩的狗实在不多。今后请多关照啦！
 
 
-1654 areatalk_monthly2303_002
+7 1654:areatalk_monthly2303_002
 
 【宫益坂女子学园】
 

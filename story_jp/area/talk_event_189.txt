@@ -1,4 +1,4 @@
-2776 areatalk_ev_shuffle_59_001
+1 2776:areatalk_ev_shuffle_59_001
 
 [宮益坂女子学園]
 
@@ -13,7 +13,7 @@
 まふゆ: ふふ、私でよければ大丈夫だよ。 まずは結論、伝えたいことを整理して——
 
 
-2777 areatalk_ev_shuffle_59_002
+2 2777:areatalk_ev_shuffle_59_002
 
 [宮益坂女子学園]
 
@@ -27,7 +27,7 @@
 まふゆ: うん、活動頑張ってね。 応援してるよ
 
 
-2778 areatalk_ev_shuffle_59_003
+3 2778:areatalk_ev_shuffle_59_003
 
 [誰もいないセカイ - 閑地]
 
@@ -40,7 +40,7 @@
 ルカ (N25): なんでもないわ。 大切にしてあげてね
 
 
-2779 areatalk_ev_shuffle_59_004
+4 2779:areatalk_ev_shuffle_59_004
 
 [スクランブル交差点]
 

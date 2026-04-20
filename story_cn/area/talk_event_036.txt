@@ -1,4 +1,4 @@
-1152 areatalk_ev_shuffle_12_001
+1 1152:areatalk_ev_shuffle_12_001
 
 【主题乐园】
 
@@ -19,7 +19,7 @@
 宁宁：（……好，我要努力表演回应大家的期待才行。）
 
 
-1153 areatalk_ev_shuffle_12_002
+2 1153:areatalk_ev_shuffle_12_002
 
 【音乐商店】
 
@@ -35,7 +35,7 @@
 宁宁：这样啊。会是什么样的活动呢？真让人期待啊。
 
 
-1154 areatalk_ev_shuffle_12_003
+3 1154:areatalk_ev_shuffle_12_003
 
 【全向十字路口】
 
@@ -52,7 +52,7 @@
 宁宁：嗯，是啊。
 
 
-1155 areatalk_ev_shuffle_12_004
+4 1155:areatalk_ev_shuffle_12_004
 
 【宫益坂女子学园】
 
@@ -72,7 +72,7 @@
 实乃理：嗯！谢谢你，小梦！
 
 
-1156 areatalk_ev_shuffle_12_005
+5 1156:areatalk_ev_shuffle_12_005
 
 【宫益坂女子学园】
 
@@ -96,7 +96,7 @@
 一歌：嗯，走吧！
 
 
-1157 areatalk_ev_shuffle_12_006
+6 1157:areatalk_ev_shuffle_12_006
 
 【主题乐园】
 
@@ -115,7 +115,7 @@
 雫：嗯，说得对！
 
 
-1158 areatalk_ev_shuffle_12_007
+7 1158:areatalk_ev_shuffle_12_007
 
 【全向十字路口】
 
@@ -133,7 +133,7 @@
 杏：太好了！那就先决定一下谁和谁一组吧！
 
 
-1159 areatalk_ev_shuffle_12_008
+8 1159:areatalk_ev_shuffle_12_008
 
 【主题乐园】
 
@@ -154,7 +154,7 @@
 宁宁：呵呵呵，好啊。
 
 
-1160 areatalk_ev_shuffle_12_009
+9 1160:areatalk_ev_shuffle_12_009
 
 【无人「世界」 - 空地】
 

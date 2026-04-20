@@ -1,4 +1,4 @@
-1031 areatalk_ev_shuffle_08_001
+1 1031:areatalk_ev_shuffle_08_001
 
 [神山高校]
 
@@ -13,7 +13,7 @@
 類: フフ。司くんは、本当にいいお兄さんなんだね
 
 
-1032 areatalk_ev_shuffle_08_002
+2 1032:areatalk_ev_shuffle_08_002
 
 [神山高校]
 
@@ -28,7 +28,7 @@
 冬弥: はい、ぜひ。俺もちょうど貸し出しの当番なので、 お待ちしています
 
 
-1033 areatalk_ev_shuffle_08_003
+3 1033:areatalk_ev_shuffle_08_003
 
 [神山高校]
 
@@ -43,7 +43,7 @@
 類: （意外とお人好し……いや、真摯なんだね、彼は）
 
 
-1034 areatalk_ev_shuffle_08_004
+4 1034:areatalk_ev_shuffle_08_004
 
 [神山高校]
 
@@ -59,7 +59,7 @@
 類: （ただ……、我慢できなくなって 結局反応してしまう君の姿が、容易に想像できるけどね）
 
 
-1036 areatalk_ev_shuffle_08_006
+5 1036:areatalk_ev_shuffle_08_006
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -76,7 +76,7 @@
 レン: うんっ！　類くん、ありがとう！ ボク楽しみにしてるねっ☆
 
 
-1037 areatalk_ev_shuffle_08_007
+6 1037:areatalk_ev_shuffle_08_007
 
 [スクランブル交差点]
 
@@ -89,7 +89,7 @@
 彰人: そっか。よかったな
 
 
-1038 areatalk_ev_shuffle_08_008
+7 1038:areatalk_ev_shuffle_08_008
 
 [スクランブル交差点]
 

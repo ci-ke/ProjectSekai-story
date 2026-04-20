@@ -1,4 +1,4 @@
-2328 areatalk_ev_shuffle_46_001
+1 2328:areatalk_ev_shuffle_46_001
 
 [神山高校]
 
@@ -15,7 +15,7 @@
 冬弥: わかった。俺でよければどの教科でもつきあおう
 
 
-2329 areatalk_ev_shuffle_46_002
+2 2329:areatalk_ev_shuffle_46_002
 
 [スクランブル交差点]
 
@@ -32,7 +32,7 @@
 冬弥: ……はい。ありがとうございます
 
 
-2330 areatalk_ev_shuffle_46_003
+3 2330:areatalk_ev_shuffle_46_003
 
 [ショッピングモール]
 
@@ -51,7 +51,7 @@
 まふゆ: ……私も、瑞希がそうだなって思いながら話したから
 
 
-2331 areatalk_ev_shuffle_46_004
+4 2331:areatalk_ev_shuffle_46_004
 
 [音楽ショップ]
 
@@ -69,7 +69,7 @@
 冬弥: 少しクセが強いですしね。 俺も、相棒に教えてもらっていなかったら、 今も彼らの存在を知らずにいたと思います
 
 
-2332 areatalk_ev_shuffle_46_005
+5 2332:areatalk_ev_shuffle_46_005
 
 [センター街]
 

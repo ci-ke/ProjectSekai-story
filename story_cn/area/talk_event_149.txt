@@ -1,4 +1,4 @@
-2397 areatalk_ev_wonder_19_001
+1 2397:areatalk_ev_wonder_19_001
 
 【全向十字路口】
 
@@ -18,7 +18,7 @@
 笑梦：嗯……！ 我会努力学很～多东西，然后给大家好～好讲一讲！
 
 
-2398 areatalk_ev_wonder_19_002
+2 2398:areatalk_ev_wonder_19_002
 
 【全向十字路口】
 
@@ -34,7 +34,7 @@
 类：（不过这也说明， 我们已经习惯一起行动了吧。）
 
 
-2399 areatalk_ev_wonder_19_003
+3 2399:areatalk_ev_wonder_19_003
 
 【中央街】
 
@@ -51,7 +51,7 @@
 宁宁：都、都说没想什么事了……！
 
 
-2400 areatalk_ev_wonder_19_004
+4 2400:areatalk_ev_wonder_19_004
 
 【奇幻乐园「世界」 - 港口】
 
@@ -69,7 +69,7 @@
 镜音连（WxS）：谢谢你，小宁宁！ 请多关照！
 
 
-2401 areatalk_ev_wonder_19_005
+5 2401:areatalk_ev_wonder_19_005
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -84,7 +84,7 @@
 宁宁：（算了，未来高兴就好。）
 
 
-2534 areatalk_monthly2501_003
+6 2534:areatalk_monthly2501_003
 
 【购物中心】
 
@@ -100,7 +100,7 @@
 志步：（……算了，也行吧。）
 
 
-2535 areatalk_monthly2501_004
+7 2535:areatalk_monthly2501_004
 
 【奇幻乐园「世界」 - 游乐园】
 

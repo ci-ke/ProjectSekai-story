@@ -1,4 +1,4 @@
-1801 areatalk_ev_shuffle_37_001
+1 1801:areatalk_ev_shuffle_37_001
 
 【全向十字路口】
 
@@ -15,7 +15,7 @@
 类：哎呀，谢谢你们。 既然你们要帮忙，我也会为你们献上 最精彩的演出作为回报。
 
 
-1802 areatalk_ev_shuffle_37_002
+2 1802:areatalk_ev_shuffle_37_002
 
 【音乐商店】
 
@@ -34,7 +34,7 @@
 杏：原来是这样啊？！ 真是的～别吓我啊！
 
 
-1803 areatalk_ev_shuffle_37_003
+3 1803:areatalk_ev_shuffle_37_003
 
 【全向十字路口】
 
@@ -49,7 +49,7 @@
 瑞希：加油啊，杏！
 
 
-1804 areatalk_ev_shuffle_37_004
+4 1804:areatalk_ev_shuffle_37_004
 
 【神山高校】
 
@@ -67,7 +67,7 @@
 杏：嗯！我试试！
 
 
-1805 areatalk_ev_shuffle_37_005
+5 1805:areatalk_ev_shuffle_37_005
 
 【购物中心】
 

@@ -1,4 +1,4 @@
-1571 areatalk_ev_street_11_001
+1 1571:areatalk_ev_street_11_001
 
 【神山高校】
 
@@ -16,7 +16,7 @@
 彰人：也是。我也不想每次考试都为能否及格而提心吊胆， 还是多花点心思在学习上吧。
 
 
-1572 areatalk_ev_street_11_002
+2 1572:areatalk_ev_street_11_002
 
 【街头「世界」 - 咖啡厅】
 
@@ -37,7 +37,7 @@
 彰人：……真是的。随你们怎么想吧。
 
 
-1573 areatalk_ev_street_11_003
+3 1573:areatalk_ev_street_11_003
 
 【中央街】
 
@@ -58,7 +58,7 @@
 心羽&杏&冬弥：“嗯！” “好。”
 
 
-1574 areatalk_ev_street_11_004
+4 1574:areatalk_ev_street_11_004
 
 【街头「世界」 - 咖啡厅】
 
@@ -74,7 +74,7 @@
 彰人：这么说她真的只是来吓我的啊……
 
 
-1575 areatalk_ev_street_11_005
+5 1575:areatalk_ev_street_11_005
 
 【街头「世界」 - 咖啡厅】
 

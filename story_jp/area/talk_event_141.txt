@@ -1,4 +1,4 @@
-2343 areatalk_ev_shuffle_47_001
+1 2343:areatalk_ev_shuffle_47_001
 
 [宮益坂女子学園]
 
@@ -14,7 +14,7 @@
 まふゆ: ……ありがとう。それじゃあ、お邪魔させてもらおうかな
 
 
-2344 areatalk_ev_shuffle_47_002
+2 2344:areatalk_ev_shuffle_47_002
 
 [宮益坂女子学園]
 
@@ -30,7 +30,7 @@
 雫: そうだったの……。 ふふ、穂波ちゃんらしいわね
 
 
-2345 areatalk_ev_shuffle_47_003
+3 2345:areatalk_ev_shuffle_47_003
 
 [センター街]
 
@@ -47,7 +47,7 @@
 穂波: はい、楽しみにしてます
 
 
-2346 areatalk_ev_shuffle_47_004
+4 2346:areatalk_ev_shuffle_47_004
 
 [ショッピングモール]
 
@@ -63,7 +63,7 @@
 瑞希: あ……い、今行きまーす……。 またね、えむちゃん……！
 
 
-2347 areatalk_ev_shuffle_47_005
+5 2347:areatalk_ev_shuffle_47_005
 
 [センター街]
 

@@ -1,4 +1,4 @@
-1213 areatalk_ev_shuffle_14_001
+1 1213:areatalk_ev_shuffle_14_001
 
 [宮益坂女子学園]
 
@@ -13,7 +13,7 @@
 一歌: 朝比奈先輩……。 はい、よろしくお願いします！
 
 
-1214 areatalk_ev_shuffle_14_002
+2 1214:areatalk_ev_shuffle_14_002
 
 [宮益坂女子学園]
 
@@ -30,7 +30,7 @@
 まふゆ: ふふ。ありがとう、星乃さん。 大事に味わって食べるね
 
 
-1215 areatalk_ev_shuffle_14_003
+3 1215:areatalk_ev_shuffle_14_003
 
 [センター街]
 
@@ -48,7 +48,7 @@
 一歌・奏: （会話が続かない……）
 
 
-1216 areatalk_ev_shuffle_14_004
+4 1216:areatalk_ev_shuffle_14_004
 
 [音楽ショップ]
 
@@ -67,7 +67,7 @@
 一歌: （照れた宵崎さん、可愛いな）
 
 
-1217 areatalk_ev_shuffle_14_005
+5 1217:areatalk_ev_shuffle_14_005
 
 [宮益坂女子学園]
 
@@ -84,7 +84,7 @@
 穂波: （朝比奈先輩に言われると、本当に大丈夫かもって思える。 ……尊敬する子が多いのもわかるな）
 
 
-1218 areatalk_ev_shuffle_14_006
+6 1218:areatalk_ev_shuffle_14_006
 
 [ショッピングモール]
 
@@ -97,7 +97,7 @@
 奏: わかった。いつもありがとう、望月さん
 
 
-1219 areatalk_ev_shuffle_14_007
+7 1219:areatalk_ev_shuffle_14_007
 
 [教室のセカイ - 学校]
 
@@ -116,7 +116,7 @@
 一歌: あっ！　リ、リン、それはダメ……！
 
 
-1220 areatalk_ev_shuffle_14_008
+8 1220:areatalk_ev_shuffle_14_008
 
 [誰もいないセカイ - 閑地]
 

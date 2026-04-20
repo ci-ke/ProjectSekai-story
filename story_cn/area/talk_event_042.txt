@@ -1,4 +1,4 @@
-1213 areatalk_ev_shuffle_14_001
+1 1213:areatalk_ev_shuffle_14_001
 
 【宫益坂女子学园】
 
@@ -13,7 +13,7 @@
 一歌：朝比奈学姐…… 好的，请多关照！
 
 
-1214 areatalk_ev_shuffle_14_002
+2 1214:areatalk_ev_shuffle_14_002
 
 【宫益坂女子学园】
 
@@ -30,7 +30,7 @@
 真冬：呵呵呵。谢谢你，星乃同学。 我会好好品尝的。
 
 
-1215 areatalk_ev_shuffle_14_003
+3 1215:areatalk_ev_shuffle_14_003
 
 【中央街】
 
@@ -48,7 +48,7 @@
 一歌&奏：（聊不起来……）
 
 
-1216 areatalk_ev_shuffle_14_004
+4 1216:areatalk_ev_shuffle_14_004
 
 【音乐商店】
 
@@ -67,7 +67,7 @@
 一歌：（害羞的宵崎学姐好可爱啊。）
 
 
-1217 areatalk_ev_shuffle_14_005
+5 1217:areatalk_ev_shuffle_14_005
 
 【宫益坂女子学园】
 
@@ -84,7 +84,7 @@
 穗波：（被朝比奈学姐这么一说，我觉得自己好像真的没问题了。 ……总算能理解她们为什么那么敬重学姐了。）
 
 
-1218 areatalk_ev_shuffle_14_006
+6 1218:areatalk_ev_shuffle_14_006
 
 【购物中心】
 
@@ -97,7 +97,7 @@
 奏：好的。真的很感谢你，望月同学。
 
 
-1219 areatalk_ev_shuffle_14_007
+7 1219:areatalk_ev_shuffle_14_007
 
 【教室「世界」 - 学校】
 
@@ -116,7 +116,7 @@
 一歌：啊！铃，别这样……！
 
 
-99902 areatalk_ev_shuffle_14_008
+8 99902:areatalk_ev_shuffle_14_008
 
 【无人「世界」 - 空地】
 

@@ -1,4 +1,4 @@
-1213 areatalk_ev_shuffle_14_001
+1 1213:areatalk_ev_shuffle_14_001
 
 【宮益坂女子學園】
 
@@ -13,7 +13,7 @@
 一歌：朝比奈學姐…… 好的，請多多指教！
 
 
-1214 areatalk_ev_shuffle_14_002
+2 1214:areatalk_ev_shuffle_14_002
 
 【宮益坂女子學園】
 
@@ -30,7 +30,7 @@
 真冬：呵呵，謝謝妳，星乃同學。 我會仔細品嚐的。
 
 
-1215 areatalk_ev_shuffle_14_003
+3 1215:areatalk_ev_shuffle_14_003
 
 【中心街】
 
@@ -48,7 +48,7 @@
 一歌、奏：（冷場了……）
 
 
-1216 areatalk_ev_shuffle_14_004
+4 1216:areatalk_ev_shuffle_14_004
 
 【唱片行】
 
@@ -67,7 +67,7 @@
 一歌：（宵崎學姐害羞的樣子真可愛。）
 
 
-1217 areatalk_ev_shuffle_14_005
+5 1217:areatalk_ev_shuffle_14_005
 
 【宮益坂女子學園】
 
@@ -84,7 +84,7 @@
 穗波：（被朝比奈學姐這麼一說，我好像也有點信心了。 ……難怪會有那麼多人敬重學姐。）
 
 
-1218 areatalk_ev_shuffle_14_006
+6 1218:areatalk_ev_shuffle_14_006
 
 【購物中心】
 
@@ -97,7 +97,7 @@
 奏：好的。 望月同學，謝謝妳總是幫我打掃。
 
 
-1219 areatalk_ev_shuffle_14_007
+7 1219:areatalk_ev_shuffle_14_007
 
 【教室的「世界」 - 學校】
 
@@ -116,7 +116,7 @@
 一歌：啊！ 鈴、鈴，不要啦……！
 
 
-99902 areatalk_ev_shuffle_14_008
+8 99902:areatalk_ev_shuffle_14_008
 
 【空無一人的「世界」 - 空地】
 

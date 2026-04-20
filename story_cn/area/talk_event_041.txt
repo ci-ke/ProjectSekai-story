@@ -1,4 +1,4 @@
-1199 areatalk_ev_shuffle_13_001
+1 1199:areatalk_ev_shuffle_13_001
 
 【中央街】
 
@@ -12,7 +12,7 @@
 杏：好啊！这就出发吧！
 
 
-1200 areatalk_ev_shuffle_13_002
+2 1200:areatalk_ev_shuffle_13_002
 
 【宫益坂女子学园】
 
@@ -27,7 +27,7 @@
 实乃理：嘿嘿，到时候去查一下还有什么其他的动物吧！
 
 
-1201 areatalk_ev_shuffle_13_003
+3 1201:areatalk_ev_shuffle_13_003
 
 【全向十字路口】
 
@@ -44,7 +44,7 @@
 实乃理：小、小遥快停下！ 你再夸我，我就要爆炸了啊——！
 
 
-1202 areatalk_ev_shuffle_13_004
+4 1202:areatalk_ev_shuffle_13_004
 
 【中央街】
 
@@ -61,7 +61,7 @@
 实乃理：（一定是因为她经常在她爸爸的咖啡厅帮忙吧！ 真的太可靠了。）
 
 
-1203 areatalk_ev_shuffle_13_005
+5 1203:areatalk_ev_shuffle_13_005
 
 【宫益坂女子学园】
 
@@ -81,7 +81,7 @@
 心羽：嗯，我会先去了解一下的！谢谢你，小遥。
 
 
-1204 areatalk_ev_shuffle_13_006
+6 1204:areatalk_ev_shuffle_13_006
 
 【舞台「世界」 - 舞台】
 
@@ -97,7 +97,7 @@
 巡音流歌：呵呵呵。看来会是一场激烈的比赛呢。 好期待啊♪
 
 
-1205 areatalk_ev_shuffle_13_007
+7 1205:areatalk_ev_shuffle_13_007
 
 【街头「世界」 - 咖啡厅】
 

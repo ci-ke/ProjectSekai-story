@@ -1,4 +1,4 @@
-2079 areatalk_ev_shuffle_40_001
+1 2079:areatalk_ev_shuffle_40_001
 
 【宫益坂女子学园】
 
@@ -13,7 +13,7 @@
 志步：……太好了。
 
 
-2080 areatalk_ev_shuffle_40_002
+2 2080:areatalk_ev_shuffle_40_002
 
 【宫益坂女子学园】
 
@@ -30,7 +30,7 @@
 实乃理：小鲸应该没办法抱起来吧……
 
 
-2081 areatalk_ev_shuffle_40_003
+3 2081:areatalk_ev_shuffle_40_003
 
 【全向十字路口】
 
@@ -48,7 +48,7 @@
 志步：……嗯，一起去吧。
 
 
-2082 areatalk_ev_shuffle_40_004
+4 2082:areatalk_ev_shuffle_40_004
 
 【舞台「世界」 - 舞台】
 
@@ -64,7 +64,7 @@
 实乃理：嘿嘿，能帮上忙就好！加油！
 
 
-2083 areatalk_ev_shuffle_40_005
+5 2083:areatalk_ev_shuffle_40_005
 
 【购物中心】
 
@@ -81,7 +81,7 @@
 一歌：做得太可爱也不好呢……
 
 
-2147 areatalk_monthly2308_002
+6 2147:areatalk_monthly2308_002
 
 【全向十字路口】
 

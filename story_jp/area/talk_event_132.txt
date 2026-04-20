@@ -1,4 +1,4 @@
-2278 areatalk_ev_shuffle_45_001
+1 2278:areatalk_ev_shuffle_45_001
 
 [スクランブル交差点]
 
@@ -17,7 +17,7 @@
 志歩・寧々・絵名: （たしかに……）
 
 
-2279 areatalk_ev_shuffle_45_002
+2 2279:areatalk_ev_shuffle_45_002
 
 [ショッピングモール]
 
@@ -37,7 +37,7 @@
 絵名: （仲いいなあ。さすが幼馴染み）
 
 
-2280 areatalk_ev_shuffle_45_003
+3 2280:areatalk_ev_shuffle_45_003
 
 [スクランブル交差点]
 
@@ -55,7 +55,7 @@
 寧々: …………！ うん、なんでも聞いてほしいな
 
 
-2281 areatalk_ev_shuffle_45_004
+4 2281:areatalk_ev_shuffle_45_004
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -71,7 +71,7 @@
 ルカ (WxS): ものは試しよ♪　さあ、やってみましょ？
 
 
-2282 areatalk_ev_shuffle_45_005
+5 2282:areatalk_ev_shuffle_45_005
 
 [宮益坂女子学園]
 

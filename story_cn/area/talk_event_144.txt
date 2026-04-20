@@ -1,4 +1,4 @@
-2368 areatalk_ev_shuffle_49_001
+1 2368:areatalk_ev_shuffle_49_001
 
 【全向十字路口】
 
@@ -17,7 +17,7 @@
 爱莉：不错嘛！ 要是在我们学校展出的话，我也想去看看呢。
 
 
-2369 areatalk_ev_shuffle_49_002
+2 2369:areatalk_ev_shuffle_49_002
 
 【全向十字路口】
 
@@ -33,7 +33,7 @@
 志步：是啊。 看到他们的笑容之后，我非常庆幸自己当初没有妥协。
 
 
-2370 areatalk_ev_shuffle_49_003
+3 2370:areatalk_ev_shuffle_49_003
 
 【购物中心】
 
@@ -52,7 +52,7 @@
 宁宁：（好、好厉害……这就是偶像啊……！）
 
 
-2371 areatalk_ev_shuffle_49_004
+4 2371:areatalk_ev_shuffle_49_004
 
 【神山高校】
 
@@ -68,7 +68,7 @@
 宁宁：谢谢你告诉我这些。 听起来挺有意思的，我就报名试试看吧。
 
 
-2372 areatalk_ev_shuffle_49_005
+5 2372:areatalk_ev_shuffle_49_005
 
 【购物中心】
 

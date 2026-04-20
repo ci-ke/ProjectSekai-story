@@ -1,4 +1,4 @@
-2507 areatalk_ev_shuffle_52_001
+1 2507:areatalk_ev_shuffle_52_001
 
 【中心街】
 
@@ -16,7 +16,7 @@
 冬彌：的確，我也很好奇。
 
 
-2508 areatalk_ev_shuffle_52_002
+2 2508:areatalk_ev_shuffle_52_002
 
 【購物中心】
 
@@ -32,7 +32,7 @@
 愛莉：（不過彰人還是乖乖來幫忙跑腿了，真的很了不起呢。）
 
 
-2509 areatalk_ev_shuffle_52_003
+3 2509:areatalk_ev_shuffle_52_003
 
 【神山高中】
 
@@ -50,7 +50,7 @@
 繪名：所以你的好意我心領了！
 
 
-2510 areatalk_ev_shuffle_52_004
+4 2510:areatalk_ev_shuffle_52_004
 
 【舞台的「世界」 - 舞台】
 
@@ -66,7 +66,7 @@ KAITO（MMJ）：畢竟小莉你們這麼努力，要是在表演時受傷就不
 KAITO（MMJ）：哎呀，併團練習的時間快到了！ 我們去會合地點吧！
 
 
-2511 areatalk_ev_shuffle_52_005
+5 2511:areatalk_ev_shuffle_52_005
 
 【十字路口】
 

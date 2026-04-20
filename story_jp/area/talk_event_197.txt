@@ -1,4 +1,4 @@
-2834 areatalk_ev_shuffle_62_001
+1 2834:areatalk_ev_shuffle_62_001
 
 [スクランブル交差点]
 
@@ -14,7 +14,7 @@
 こはね: 素敵な個展になって、私も嬉しいです！
 
 
-2835 areatalk_ev_shuffle_62_002
+2 2835:areatalk_ev_shuffle_62_002
 
 [センター街]
 
@@ -28,7 +28,7 @@
 こはね: はい、ありがとうございます……！ スイーツ、楽しみですね！
 
 
-2836 areatalk_ev_shuffle_62_003
+3 2836:areatalk_ev_shuffle_62_003
 
 [誰もいないセカイ - 閑地]
 
@@ -41,7 +41,7 @@
 レン (N25): ありがとう…… どの本も面白そうだから、どれから読むか迷っちゃうな……
 
 
-2837 areatalk_ev_shuffle_62_004
+4 2837:areatalk_ev_shuffle_62_004
 
 [センター街]
 

@@ -1,4 +1,4 @@
-1545 areatalk_ev_shuffle_25_001
+1 1545:areatalk_ev_shuffle_25_001
 
 [スクランブル交差点]
 
@@ -16,7 +16,7 @@
 志歩: だね。じゃあ、気を取り直して お店に向かおっか
 
 
-1546 areatalk_ev_shuffle_25_002
+2 1546:areatalk_ev_shuffle_25_002
 
 [宮益坂女子学園]
 
@@ -34,7 +34,7 @@
 一歌: うん！　みんなで食べよう！
 
 
-1547 areatalk_ev_shuffle_25_003
+3 1547:areatalk_ev_shuffle_25_003
 
 [ショッピングモール]
 
@@ -51,7 +51,7 @@
 えむ: いいの……！？　やったー！ ぜひお願いしまーすっ☆
 
 
-1548 areatalk_ev_shuffle_25_004
+4 1548:areatalk_ev_shuffle_25_004
 
 [センター街]
 
@@ -68,7 +68,7 @@
 志歩: （私の趣味聞くと、だいたいみんな珍しがるんだけど……。 なんか、逆に受け入れられすぎて驚いたな）
 
 
-1549 areatalk_ev_shuffle_25_005
+5 1549:areatalk_ev_shuffle_25_005
 
 [ストリートのセカイ - カフェ]
 

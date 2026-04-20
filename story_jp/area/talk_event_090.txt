@@ -1,4 +1,4 @@
-1647 areatalk_ev_shuffle_30_001
+1 1647:areatalk_ev_shuffle_30_001
 
 [センター街]
 
@@ -15,7 +15,7 @@
 志歩: ありがとう。じゃあ楽しみに待ってようかな
 
 
-1648 areatalk_ev_shuffle_30_002
+2 1648:areatalk_ev_shuffle_30_002
 
 [神山高校]
 
@@ -33,7 +33,7 @@
 絵名: （そんな純粋な目で言われると……なんかくすぐったいな）
 
 
-1649 areatalk_ev_shuffle_30_003
+3 1649:areatalk_ev_shuffle_30_003
 
 [音楽ショップ]
 
@@ -51,7 +51,7 @@
 杏: やったー！　ぜひお願いしまーす！
 
 
-1650 areatalk_ev_shuffle_30_004
+4 1650:areatalk_ev_shuffle_30_004
 
 [宮益坂女子学園]
 
@@ -69,7 +69,7 @@
 志歩: うん、そうしてあげて。 じゃあ、また
 
 
-1651 areatalk_ev_shuffle_30_005
+5 1651:areatalk_ev_shuffle_30_005
 
 [教室のセカイ - 学校]
 
@@ -84,7 +84,7 @@
 志歩: いいよ。準備するから、待ってて
 
 
-1652 areatalk_monthly2303_001
+6 1652:areatalk_monthly2303_001
 
 [宮益坂女子学園]
 
@@ -99,7 +99,7 @@
 みのり: こっちこそ！　おっきいサモちゃん相手でも 遊んでくれる友達ってなかなかいないから。よろしくね！
 
 
-1653 areatalk_monthly2303_002
+7 1653:areatalk_monthly2303_002
 
 [宮益坂女子学園]
 

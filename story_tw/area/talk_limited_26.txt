@@ -1,4 +1,4 @@
-2454 areatalk_ev_ensta_001
+1 2454:areatalk_ev_ensta_001
 
 【ASTRO FES會場】
 
@@ -19,7 +19,7 @@
 彰人：……偶像的工作也很不容易啊。
 
 
-2455 areatalk_ev_ensta_002
+2 2455:areatalk_ev_ensta_002
 
 【ASTRO FES會場】
 
@@ -37,7 +37,7 @@
 彰人：呃……我會考慮看看的。
 
 
-2456 areatalk_ev_ensta_003
+3 2456:areatalk_ev_ensta_003
 
 【ASTRO FES會場】
 
@@ -56,7 +56,7 @@
 純：這樣聊過之後，就能發現每個圈子都有各自的文化，真有趣。
 
 
-2457 areatalk_ev_ensta_004
+4 2457:areatalk_ev_ensta_004
 
 【ASTRO FES會場】
 
@@ -79,7 +79,7 @@
 類：呵呵，當然沒問題。 那我們走吧。
 
 
-2458 areatalk_ev_ensta_005
+5 2458:areatalk_ev_ensta_005
 
 【ASTRO FES會場】
 
@@ -99,7 +99,7 @@
 泉：那看來我真的只能放棄了。
 
 
-2459 areatalk_ev_ensta_006
+6 2459:areatalk_ev_ensta_006
 
 【ASTRO FES會場】
 
@@ -116,7 +116,7 @@
 泉：所以我以後還是會偶爾去照顧他的。
 
 
-2460 areatalk_ev_ensta_007
+7 2460:areatalk_ev_ensta_007
 
 【ASTRO FES會場】
 
@@ -139,7 +139,7 @@
 泉：咦……哈哈哈，好有腔調的英文。 你們果然是不同類型的人。
 
 
-2461 areatalk_ev_ensta_008
+8 2461:areatalk_ev_ensta_008
 
 【ASTRO FES會場】
 
@@ -159,7 +159,7 @@
 冬彌：（瀨名先生果然很會照顧人。）
 
 
-2462 areatalk_ev_ensta_009
+9 2462:areatalk_ev_ensta_009
 
 【ASTRO FES會場】
 
@@ -177,7 +177,7 @@
 司：好啊！到時候就由我幫你們規劃最好玩的路線吧！
 
 
-2463 areatalk_ev_ensta_010
+10 2463:areatalk_ev_ensta_010
 
 【ASTRO FES會場】
 
@@ -194,7 +194,7 @@
 司：那麼就一起想出無人能敵的帥氣姿勢吧！
 
 
-2464 areatalk_ev_ensta_011
+11 2464:areatalk_ev_ensta_011
 
 【ASTRO FES會場】
 
@@ -212,7 +212,7 @@
 彰人：（雖然很想直接說「是你們害的」…… 但他們連很會照顧人這點都挺像的。）
 
 
-2465 areatalk_ev_ensta_012
+12 2465:areatalk_ev_ensta_012
 
 【ASTRO FES會場】
 
@@ -234,7 +234,7 @@
 冬彌：……謝謝你們，剛剛那樣已經讓我放鬆許多了。
 
 
-2466 areatalk_ev_ensta_013
+13 2466:areatalk_ev_ensta_013
 
 【ASTRO FES會場】
 
@@ -255,7 +255,7 @@
 夏目：啊哈哈……無論什麼事，你都能把它連到表演上呢—
 
 
-2467 areatalk_ev_ensta_014
+14 2467:areatalk_ev_ensta_014
 
 【ASTRO FES會場】
 
@@ -273,7 +273,7 @@
 類：沒有，沒什麼。
 
 
-2468 areatalk_ev_ensta_015
+15 2468:areatalk_ev_ensta_015
 
 【ASTRO FES會場】
 
@@ -291,7 +291,7 @@
 彰人：是喔……既然你們都這麼說了，那我就期待一下吧。
 
 
-2469 areatalk_ev_ensta_016
+16 2469:areatalk_ev_ensta_016
 
 【ASTRO FES會場】
 
@@ -310,7 +310,7 @@
 夏目：先不說那個比我更常熬夜的前輩— 但總不能害寶貝後輩宙為我擔心— 我看我也收斂一下好了—
 
 
-2470 areatalk_ev_ensta_017
+17 2470:areatalk_ev_ensta_017
 
 【ASTRO FES會場】
 
@@ -327,7 +327,7 @@
 冬彌：好的，我非常樂意。
 
 
-2471 areatalk_ev_ensta_018
+18 2471:areatalk_ev_ensta_018
 
 【ASTRO FES會場】
 
@@ -344,7 +344,7 @@
 彰人：好。
 
 
-2472 areatalk_ev_ensta_019
+19 2472:areatalk_ev_ensta_019
 
 【ASTRO FES會場】
 
@@ -367,7 +367,7 @@
 類：（嗯……看來有必要把喪屍的臉遮得更徹底，讓表演者也不會看到。 去攤販那邊買個英雄面具好了。）
 
 
-2473 areatalk_ev_ensta_020
+20 2473:areatalk_ev_ensta_020
 
 【ASTRO FES會場】
 
@@ -391,7 +391,7 @@
 夏目：（司是個容易受魔法影響的人呢—）
 
 
-2474 areatalk_ev_ensta_021
+21 2474:areatalk_ev_ensta_021
 
 【ASTRO FES會場】
 
@@ -413,7 +413,7 @@
 純：好！
 
 
-2475 areatalk_ev_ensta_022
+22 2475:areatalk_ev_ensta_022
 
 【ASTRO FES會場】
 

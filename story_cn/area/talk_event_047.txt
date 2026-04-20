@@ -1,4 +1,4 @@
-1284 areatalk_ev_night_07_001
+1 1284:areatalk_ev_night_07_001
 
 【无人「世界」 - 空地】
 
@@ -11,7 +11,7 @@
 真冬：……嗯。是啊。
 
 
-1285 areatalk_ev_night_07_002
+2 1285:areatalk_ev_night_07_002
 
 【无人「世界」 - 空地】
 
@@ -26,7 +26,7 @@
 奏：是啊。我也是这么觉得。
 
 
-1286 areatalk_ev_night_07_003
+3 1286:areatalk_ev_night_07_003
 
 【无人「世界」 - 空地】
 
@@ -43,7 +43,7 @@
 瑞希：真的吗？！谢谢你，奏！ 哈哈，好期待啊～♪
 
 
-1287 areatalk_ev_night_07_004
+4 1287:areatalk_ev_night_07_004
 
 【全向十字路口】
 
@@ -62,7 +62,7 @@
 奏：嗯，马上就来。
 
 
-1288 areatalk_ev_night_07_005
+5 1288:areatalk_ev_night_07_005
 
 【无人「世界」 - 空地】
 
@@ -78,7 +78,7 @@
 瑞希：嗯，谢谢。
 
 
-1289 areatalk_ev_night_07_006
+6 1289:areatalk_ev_night_07_006
 
 【无人「世界」 - 空地】
 
@@ -95,7 +95,7 @@
 奏：啊，那、那个…… 没、没问题的，未来。我会好好注意的。
 
 
-1290 areatalk_ev_night_07_007
+7 1290:areatalk_ev_night_07_007
 
 【无人「世界」 - 空地】
 

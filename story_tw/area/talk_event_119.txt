@@ -1,4 +1,4 @@
-2136 areatalk_ev_wonder_16_001
+1 2136:areatalk_ev_wonder_16_001
 
 【中心街】
 
@@ -13,7 +13,7 @@
 笑夢：希望將來還能有機會學到關於電影的東西！
 
 
-2137 areatalk_ev_wonder_16_002
+2 2137:areatalk_ev_wonder_16_002
 
 【唱片行】
 
@@ -29,7 +29,7 @@
 類：（最近我都在煩惱自己的事情…… 不過寧寧還是這麼努力呢。）
 
 
-2138 areatalk_ev_wonder_16_003
+3 2138:areatalk_ev_wonder_16_003
 
 【神山高中】
 
@@ -44,7 +44,7 @@
 寧寧：（同、同時發生太多事了，我腦袋處理不過來…… 誰來救救我……）
 
 
-2139 areatalk_ev_wonder_16_004
+4 2139:areatalk_ev_wonder_16_004
 
 【奇幻樂園的「世界」 - 遊樂園】
 
@@ -64,7 +64,7 @@
 司：基於種種因素……
 
 
-2140 areatalk_ev_wonder_16_005
+5 2140:areatalk_ev_wonder_16_005
 
 【奇幻樂園的「世界」 - 遊樂園】
 

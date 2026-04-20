@@ -1,4 +1,4 @@
-2476 areatalk_ev_shuffle_51_001
+1 2476:areatalk_ev_shuffle_51_001
 
 【全向十字路口】
 
@@ -15,7 +15,7 @@
 类：呵呵呵。只是说话的艺术而已。
 
 
-2477 areatalk_ev_shuffle_51_002
+2 2477:areatalk_ev_shuffle_51_002
 
 【主题乐园】
 
@@ -32,7 +32,7 @@
 心羽：真的吗？你们的演出给了我很多鼓励， 如果能帮上忙的话，我也很开心。
 
 
-2478 areatalk_ev_shuffle_51_003
+3 2478:areatalk_ev_shuffle_51_003
 
 【神山高校】
 
@@ -48,7 +48,7 @@
 彰人：…………回去吧。
 
 
-2479 areatalk_ev_shuffle_51_004
+4 2479:areatalk_ev_shuffle_51_004
 
 【中央街】
 
@@ -64,7 +64,7 @@
 类：不过，说不定以后真的能把宇宙火箭造出来吧？ 毕竟现在民营企业也都在研发呢。
 
 
-2480 areatalk_ev_shuffle_51_005
+5 2480:areatalk_ev_shuffle_51_005
 
 【街头「世界」 - 咖啡厅】
 

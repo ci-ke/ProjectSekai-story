@@ -1,4 +1,4 @@
-1623 areatalk_ev_shuffle_29_001
+1 1623:areatalk_ev_shuffle_29_001
 
 【神山高校】
 
@@ -16,7 +16,7 @@
 冬弥：（神代学长看起来很开心啊。 是不是想到了观众脸上的笑容呢。）
 
 
-1624 areatalk_ev_shuffle_29_002
+2 1624:areatalk_ev_shuffle_29_002
 
 【购物中心】
 
@@ -35,7 +35,7 @@
 冬弥：……谢谢。 那我回去问问母亲。
 
 
-1625 areatalk_ev_shuffle_29_003
+3 1625:areatalk_ev_shuffle_29_003
 
 【全向十字路口】
 
@@ -51,7 +51,7 @@
 冬弥：也是，就这么办吧。
 
 
-1626 areatalk_ev_shuffle_29_004
+4 1626:areatalk_ev_shuffle_29_004
 
 【街头「世界」 - 咖啡厅】
 
@@ -70,7 +70,7 @@ KAITO：喂，MEIKO！ 可以借一下滤杯吗？
 初音未来（VBS）：啊，等等！真是的……
 
 
-1627 areatalk_ev_shuffle_29_005
+5 1627:areatalk_ev_shuffle_29_005
 
 【街头「世界」 - 咖啡厅】
 
@@ -92,7 +92,7 @@ KAITO：咦？听着就很麻烦，我是做不来啦。
 MEIKO：啊哈哈……
 
 
-1633 areatalk_monthly2302_001
+6 1633:areatalk_monthly2302_001
 
 【无人「世界」 - 空地】
 
@@ -108,7 +108,7 @@ MEIKO：啊哈哈……
 镜音连：嗯……！
 
 
-1634 areatalk_monthly2302_002
+7 1634:areatalk_monthly2302_002
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -124,7 +124,7 @@ MEIKO：啊哈哈……
 镜音铃：（嘿嘿。不知道她枕着我的腿会做什么样的梦呢？ 好期待啊～）
 
 
-1635 areatalk_monthly2302_003
+8 1635:areatalk_monthly2302_003
 
 【教室「世界」 - 学校】
 
@@ -140,7 +140,7 @@ MEIKO：哦，确实不错嘛！ 那你就试着带领大家吧！
 镜音连：咦？！要是光说说就能做到， 我也不会这么纠结了……
 
 
-1636 areatalk_monthly2302_004
+9 1636:areatalk_monthly2302_004
 
 【舞台「世界」 - 舞台】
 
@@ -159,7 +159,7 @@ KAITO：——MEIKO，你可以帮我搬一下器材吗？ 如果之后你还能
 MEIKO：嗯，当然可以哦！ 我们可是伙伴啊，你就尽管找我帮忙吧♪
 
 
-1637 areatalk_monthly2302_005
+10 1637:areatalk_monthly2302_005
 
 【街头「世界」 - 咖啡厅】
 
@@ -177,7 +177,7 @@ KAITO：…………咦？ 难道说“那方面”是指午饭吃什么吗？
 KAITO：说得也是！ 好——那我们一起去MEIKO的咖啡厅吧！
 
 
-1716 areatalk_monthly2304_001
+11 1716:areatalk_monthly2304_001
 
 【购物中心】
 

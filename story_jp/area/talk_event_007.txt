@@ -1,4 +1,4 @@
-859 areatalk_ev_shuffle_02_001
+1 859:areatalk_ev_shuffle_02_001
 
 [神山高校]
 
@@ -14,7 +14,7 @@
 瑞希: え……ちょっと、待って待って！ ごめん、ただの冗談だよー！
 
 
-860 areatalk_ev_shuffle_02_002
+2 860:areatalk_ev_shuffle_02_002
 
 [センター街]
 
@@ -28,7 +28,7 @@
 瑞希: 絵名がSNSにアップする写真に、たまにゲームセンターの 景品っぽいぬいぐるみがいるけど、 あれの出所は冬弥くんだったんだね
 
 
-861 areatalk_ev_shuffle_02_003
+3 861:areatalk_ev_shuffle_02_003
 
 [神山高校]
 
@@ -43,7 +43,7 @@
 瑞希: え、いいの？　じゃあ、お呼ばれしちゃおうかな♪
 
 
-862 areatalk_ev_shuffle_02_004
+4 862:areatalk_ev_shuffle_02_004
 
 [神山高校]
 
@@ -59,7 +59,7 @@
 彰人: ま、相棒だしな
 
 
-863 areatalk_ev_shuffle_02_005
+5 863:areatalk_ev_shuffle_02_005
 
 [神山高校]
 
@@ -74,7 +74,7 @@
 瑞希: ふふ。ホント、似たもの姉弟だね
 
 
-864 areatalk_ev_shuffle_02_006
+6 864:areatalk_ev_shuffle_02_006
 
 [神山高校]
 
@@ -87,7 +87,7 @@
 瑞希: てへっ☆
 
 
-865 areatalk_ev_shuffle_02_007
+7 865:areatalk_ev_shuffle_02_007
 
 [神山高校]
 
@@ -103,7 +103,7 @@
 瑞希: わーい♪　ありがとう、司先輩！
 
 
-866 areatalk_ev_shuffle_02_008
+8 866:areatalk_ev_shuffle_02_008
 
 [神山高校]
 
@@ -118,7 +118,7 @@
 瑞希: あははっ！　何それおもしろい！ いいなぁ、ボクもいつかその子に会ってみたいなぁ
 
 
-867 areatalk_ev_shuffle_02_009
+9 867:areatalk_ev_shuffle_02_009
 
 [神山高校]
 

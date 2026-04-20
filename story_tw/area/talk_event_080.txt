@@ -1,4 +1,4 @@
-1576 areatalk_ev_shuffle_26_001
+1 1576:areatalk_ev_shuffle_26_001
 
 【宮益坂女子學園】
 
@@ -15,7 +15,7 @@
 真冬：嗯，謝謝妳，日野森同學。
 
 
-1577 areatalk_ev_shuffle_26_002
+2 1577:areatalk_ev_shuffle_26_002
 
 【宮益坂女子學園】
 
@@ -30,7 +30,7 @@
 真冬：嗯，好呀。 ──我想想，記得書名是……
 
 
-1578 areatalk_ev_shuffle_26_003
+3 1578:areatalk_ev_shuffle_26_003
 
 【中心街】
 
@@ -49,7 +49,7 @@
 雫：真是的，妳們兩個太狡猾了， 居然自己聊得這麼開心！ 也讓我加入嘛！
 
 
-1579 areatalk_ev_shuffle_26_004
+4 1579:areatalk_ev_shuffle_26_004
 
 【舞台的「世界」 - 舞台】
 
@@ -67,7 +67,7 @@ KAITO：看著他們努力的模樣， 我也自然而然地湧出了幹勁。
 KAITO：可以嗎？謝謝妳，真是幫大忙了！
 
 
-1580 areatalk_ev_shuffle_26_005
+5 1580:areatalk_ev_shuffle_26_005
 
 【舞台的「世界」 - 舞台】
 

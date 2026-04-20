@@ -1,4 +1,4 @@
-2507 areatalk_ev_shuffle_52_001
+1 2507:areatalk_ev_shuffle_52_001
 
 [センター街]
 
@@ -16,7 +16,7 @@
 冬弥: たしかに、気になりますね
 
 
-2508 areatalk_ev_shuffle_52_002
+2 2508:areatalk_ev_shuffle_52_002
 
 [ショッピングモール]
 
@@ -32,7 +32,7 @@
 愛莉: （それでちゃんと買ってきてくれるんだから、 やっぱり彰人くんは偉いわよね）
 
 
-2509 areatalk_ev_shuffle_52_003
+3 2509:areatalk_ev_shuffle_52_003
 
 [神山高校]
 
@@ -50,7 +50,7 @@
 絵名: だから、気持ちだけもらっておくね！
 
 
-2510 areatalk_ev_shuffle_52_004
+4 2510:areatalk_ev_shuffle_52_004
 
 [ステージのセカイ - ステージ]
 
@@ -66,7 +66,7 @@ KAITO (MMJ): こんなにも頑張ってる愛莉ちゃん達が、 パフォー
 KAITO (MMJ): おっと、そろそろ合同練習の時間だね！ さあ、集合場所に行こうか！
 
 
-2511 areatalk_ev_shuffle_52_005
+5 2511:areatalk_ev_shuffle_52_005
 
 [スクランブル交差点]
 

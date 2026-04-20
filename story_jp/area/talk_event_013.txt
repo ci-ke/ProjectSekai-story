@@ -1,4 +1,4 @@
-908 areatalk_ev_shuffle_03_001
+1 908:areatalk_ev_shuffle_03_001
 
 [スクランブル交差点]
 
@@ -12,7 +12,7 @@
 寧々: それじゃあ、えむに話しとくね。 えっと……つ、次もよろしく
 
 
-909 areatalk_ev_shuffle_03_003
+2 909:areatalk_ev_shuffle_03_003
 
 [センター街]
 
@@ -28,7 +28,7 @@
 寧々: （司の知り合いで、同じ神高の１年で、トーヤクン？ それ、ひょっとして……）
 
 
-910 areatalk_ev_shuffle_03_005
+3 910:areatalk_ev_shuffle_03_005
 
 [テーマパーク]
 
@@ -44,7 +44,7 @@
 寧々: ……そっか。よかった……
 
 
-911 areatalk_ev_shuffle_03_007
+4 911:areatalk_ev_shuffle_03_007
 
 [センター街]
 
@@ -60,7 +60,7 @@
 寧々: （あ……もしかして、育成系のゲームが好きなのかな。 ちょっと意外……）
 
 
-912 areatalk_ev_shuffle_03_009
+5 912:areatalk_ev_shuffle_03_009
 
 [宮益坂女子学園]
 
@@ -76,7 +76,7 @@
 一歌: ふふ。どういたしまして
 
 
-913 areatalk_ev_shuffle_03_011
+6 913:areatalk_ev_shuffle_03_011
 
 [宮益坂女子学園]
 
@@ -92,7 +92,7 @@
 えむ: 本当！？　わーい！　楽しみに待ってるね♪
 
 
-914 areatalk_ev_shuffle_03_013
+7 914:areatalk_ev_shuffle_03_013
 
 [センター街]
 
@@ -107,7 +107,7 @@
 穂波: ふふ、それじゃあ一緒に食べよっか
 
 
-915 areatalk_ev_shuffle_03_015
+8 915:areatalk_ev_shuffle_03_015
 
 [宮益坂女子学園]
 
@@ -123,7 +123,7 @@
 志歩: （……うん、イメージぴったり）
 
 
-916 areatalk_ev_shuffle_03_021
+9 916:areatalk_ev_shuffle_03_021
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -134,7 +134,7 @@
 リン: えへへ☆　今日のショーもすっごく楽しみ～♪
 
 
-917 areatalk_ev_shuffle_03_028
+10 917:areatalk_ev_shuffle_03_028
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -149,7 +149,7 @@
 寧々: うん。そうだね
 
 
-918 areatalk_ev_shuffle_03_032
+11 918:areatalk_ev_shuffle_03_032
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -163,7 +163,7 @@
 リン: はーい☆　くるくるがんばるぞ～♪
 
 
-919 areatalk_ev_shuffle_03_034
+12 919:areatalk_ev_shuffle_03_034
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -178,7 +178,7 @@ KAITO: メンバーもだいぶそろってきたし、 僕じゃない誰かが
 KAITO: ふふ、そうだね。どんな公演にするかも含めて、 みんなと相談しようか
 
 
-920 areatalk_ev_shuffle_03_036
+13 920:areatalk_ev_shuffle_03_036
 
 [ワンダーランドのセカイ - 遊園地]
 
@@ -193,7 +193,7 @@ KAITO: ふふ、そうだね。どんな公演にするかも含めて、 みん
 リン: レン……！　うん、ありがとう！
 
 
-921 areatalk_ev_shuffle_03_038
+14 921:areatalk_ev_shuffle_03_038
 
 [ワンダーランドのセカイ - 遊園地]
 

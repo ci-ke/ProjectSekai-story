@@ -1,4 +1,4 @@
-1323 areatalk_ev_band_07_001
+1 1323:areatalk_ev_band_07_001
 
 【宮益坂女子學園】
 
@@ -15,7 +15,7 @@
 一歌：謝謝！等開花了我再跟妳說。
 
 
-1324 areatalk_ev_band_07_002
+2 1324:areatalk_ev_band_07_002
 
 【購物中心】
 
@@ -32,7 +32,7 @@
 咲希：耶～！走吧走吧～！
 
 
-1325 areatalk_ev_band_07_003
+3 1325:areatalk_ev_band_07_003
 
 【宮益坂女子學園】
 
@@ -48,7 +48,7 @@
 穗波：呵呵，不客氣。
 
 
-1326 areatalk_ev_band_07_004
+4 1326:areatalk_ev_band_07_004
 
 【中心街】
 
@@ -66,7 +66,7 @@
 志步：這麼貴反而不會留戀，不是很好嗎？ 好了，趕快去練團室練習吧。
 
 
-1327 areatalk_ev_band_07_005
+5 1327:areatalk_ev_band_07_005
 
 【教室的「世界」 - 學校】
 
@@ -80,7 +80,7 @@ KAITO：啊……抱歉……
 KAITO：這樣啊……那就好。
 
 
-1328 areatalk_ev_band_07_006
+6 1328:areatalk_ev_band_07_006
 
 【教室的「世界」 - 學校】
 
@@ -98,7 +98,7 @@ KAITO：……我覺得那樣就夠了。
 志步：這種事就只能憑感覺慢慢學會了。
 
 
-1329 areatalk_ev_band_07_007
+7 1329:areatalk_ev_band_07_007
 
 【教室的「世界」 - 學校】
 

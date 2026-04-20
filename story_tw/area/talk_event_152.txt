@@ -1,4 +1,4 @@
-2476 areatalk_ev_shuffle_51_001
+1 2476:areatalk_ev_shuffle_51_001
 
 【十字路口】
 
@@ -15,7 +15,7 @@
 類：呵呵，只是說說而已啦。
 
 
-2477 areatalk_ev_shuffle_51_002
+2 2477:areatalk_ev_shuffle_51_002
 
 【主題樂園】
 
@@ -32,7 +32,7 @@
 心羽：真的嗎？ 各位的表演總是帶給我滿滿的活力，能幫上忙我很開心。
 
 
-2478 areatalk_ev_shuffle_51_003
+3 2478:areatalk_ev_shuffle_51_003
 
 【神山高中】
 
@@ -48,7 +48,7 @@
 彰人：…………回去吧。
 
 
-2479 areatalk_ev_shuffle_51_004
+4 2479:areatalk_ev_shuffle_51_004
 
 【中心街】
 
@@ -64,7 +64,7 @@
 類：不過，今後或許會真的開始製造太空火箭也說不定喔？ 因為也有些民間企業在自行開發呢。
 
 
-2480 areatalk_ev_shuffle_51_005
+5 2480:areatalk_ev_shuffle_51_005
 
 【街頭的「世界」 - 咖啡廳】
 

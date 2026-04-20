@@ -1,4 +1,4 @@
-2557 areatalk_ev_shuffle_57_001
+1 2557:areatalk_ev_shuffle_57_001
 
 [ショッピングモール]
 
@@ -13,7 +13,7 @@
 寧々: ……名前呼ばなくても、司の大きな声と動きで 注目集めそうな気がするな……
 
 
-2558 areatalk_ev_shuffle_57_002
+2 2558:areatalk_ev_shuffle_57_002
 
 [センター街]
 
@@ -26,7 +26,7 @@
 愛莉: あー……声の大きさのことを忘れてたわ
 
 
-2559 areatalk_ev_shuffle_57_003
+3 2559:areatalk_ev_shuffle_57_003
 
 [ショッピングモール]
 
@@ -40,7 +40,7 @@
 瑞希: はーい、お会計はあちらになりまーす♪
 
 
-2560 areatalk_ev_shuffle_57_004
+4 2560:areatalk_ev_shuffle_57_004
 
 [スクランブル交差点]
 
@@ -54,7 +54,7 @@
 みのり: むむむ〜……わたしはかわいい、わたしはかわいい〜……！
 
 
-2561 areatalk_ev_shuffle_57_005
+5 2561:areatalk_ev_shuffle_57_005
 
 [センター街]
 

@@ -1,4 +1,4 @@
-2542 areatalk_ev_shuffle_55_001
+1 2542:areatalk_ev_shuffle_55_001
 
 【購物中心】
 
@@ -15,7 +15,7 @@
 寧寧：而且我也想聽聽感想。 下次要練習時我會通知你們的。
 
 
-2543 areatalk_ev_shuffle_55_002
+2 2543:areatalk_ev_shuffle_55_002
 
 【中心街】
 
@@ -31,7 +31,7 @@
 寧寧：因為在全班同學面前用演技唸課文， 我會有點不好意思……
 
 
-2544 areatalk_ev_shuffle_55_003
+3 2544:areatalk_ev_shuffle_55_003
 
 【十字路口】
 
@@ -48,7 +48,7 @@
 寧寧：不過還是很謝謝你們。 要是有需要就再麻煩你們了。
 
 
-2545 areatalk_ev_shuffle_55_004
+4 2545:areatalk_ev_shuffle_55_004
 
 【十字路口】
 
@@ -66,7 +66,7 @@
 寧寧：啊，那個，望月同學。 剛剛類是開玩笑的，你不要當真。
 
 
-2546 areatalk_ev_shuffle_55_005
+5 2546:areatalk_ev_shuffle_55_005
 
 【教室的「世界」 - 學校】
 

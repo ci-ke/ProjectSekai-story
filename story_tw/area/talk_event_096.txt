@@ -1,4 +1,4 @@
-1731 areatalk_ev_shuffle_32_001
+1 1731:areatalk_ev_shuffle_32_001
 
 【十字路口】
 
@@ -18,7 +18,7 @@
 笑夢、瑞希：「好～！」
 
 
-1732 areatalk_ev_shuffle_32_002
+2 1732:areatalk_ev_shuffle_32_002
 
 【購物中心】
 
@@ -35,7 +35,7 @@
 奏：（望月同學不僅多才多藝，還很會稱讚人呢。）
 
 
-1733 areatalk_ev_shuffle_32_003
+3 1733:areatalk_ev_shuffle_32_003
 
 【中心街】
 
@@ -51,7 +51,7 @@
 笑夢：好耶──！會有什麼樣的衣服呢～！ 好期待～☆
 
 
-1734 areatalk_ev_shuffle_32_004
+4 1734:areatalk_ev_shuffle_32_004
 
 【教室的「世界」 - 學校】
 
@@ -69,7 +69,7 @@
 穗波：呵呵，那我下次來的時候會帶上裁縫道具的。
 
 
-1735 areatalk_ev_shuffle_32_005
+5 1735:areatalk_ev_shuffle_32_005
 
 【教室的「世界」 - 學校】
 
@@ -87,7 +87,7 @@
 鏡音鈴：啊，我有在婚禮博覽會的展場上看到那種禮服喔！ 的確有點想看看未來醬穿上它的模樣♪
 
 
-1740 areatalk_monthly2305_005
+6 1740:areatalk_monthly2305_005
 
 【教室的「世界」 - 學校】
 

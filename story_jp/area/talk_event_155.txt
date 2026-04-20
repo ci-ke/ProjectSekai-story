@@ -1,4 +1,4 @@
-2522 areatalk_ev_shuffle_53_001
+1 2522:areatalk_ev_shuffle_53_001
 
 [センター街]
 
@@ -14,7 +14,7 @@
 咲希: ナイスアイディア、いっちゃん！ アタシもいろんなカップ麺食べてみた〜い！
 
 
-2523 areatalk_ev_shuffle_53_002
+2 2523:areatalk_ev_shuffle_53_002
 
 [センター街]
 
@@ -30,7 +30,7 @@
 咲希: えへへ、やった〜！　お待ちしてまーす！
 
 
-2524 areatalk_ev_shuffle_53_003
+3 2524:areatalk_ev_shuffle_53_003
 
 [スクランブル交差点]
 
@@ -48,7 +48,7 @@
 一歌: ふふ、似たタイプ同士、これからもよろしくお願いします
 
 
-2525 areatalk_ev_shuffle_53_004
+4 2525:areatalk_ev_shuffle_53_004
 
 [誰もいないセカイ - 湖]
 
@@ -64,7 +64,7 @@
 リン (N25): ふーん。 お気に入り、なんだ
 
 
-2526 areatalk_ev_shuffle_53_005
+5 2526:areatalk_ev_shuffle_53_005
 
 [ストリートのセカイ - 広場]
 

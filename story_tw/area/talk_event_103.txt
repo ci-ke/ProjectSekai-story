@@ -1,4 +1,4 @@
-1781 areatalk_ev_street_14_001
+1 1781:areatalk_ev_street_14_001
 
 【神山高中】
 
@@ -12,7 +12,7 @@
 心羽：呃，這些事好像不太能混為一談……
 
 
-1782 areatalk_ev_street_14_002
+2 1782:areatalk_ev_street_14_002
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -29,7 +29,7 @@
 心羽：（如果MEIKO姐不嫌麻煩，真希望也能在這裡喝到。）
 
 
-1783 areatalk_ev_street_14_003
+3 1783:areatalk_ev_street_14_003
 
 【中心街】
 
@@ -46,7 +46,7 @@
 心羽：真的嗎？那我就過去打擾囉。
 
 
-1784 areatalk_ev_street_14_004
+4 1784:areatalk_ev_street_14_004
 
 【十字路口】
 
@@ -65,7 +65,7 @@
 心羽、冬彌：「嗯！」 「好！」
 
 
-1785 areatalk_ev_street_14_005
+5 1785:areatalk_ev_street_14_005
 
 【街頭的「世界」 - 咖啡廳】
 

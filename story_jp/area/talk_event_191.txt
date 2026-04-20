@@ -1,4 +1,4 @@
-2784 areatalk_ev_shuffle_60_001
+1 2784:areatalk_ev_shuffle_60_001
 
 [センター街]
 
@@ -15,7 +15,7 @@
 司: よーし！　では皆、このオレについてこーい！ ぬおおおおおお！
 
 
-2785 areatalk_ev_shuffle_60_002
+2 2785:areatalk_ev_shuffle_60_002
 
 [スクランブル交差点]
 
@@ -29,7 +29,7 @@
 冬弥: ああ、その時はまたみんなで行こう
 
 
-2786 areatalk_ev_shuffle_60_003
+3 2786:areatalk_ev_shuffle_60_003
 
 [スクランブル交差点]
 
@@ -43,7 +43,7 @@
 みのり: はい！　ありがとうございます！
 
 
-2787 areatalk_ev_shuffle_60_004
+4 2787:areatalk_ev_shuffle_60_004
 
 [ストリートのセカイ - カフェ]
 

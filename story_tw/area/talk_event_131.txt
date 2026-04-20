@@ -1,4 +1,4 @@
-2268 areatalk_ev_wonder_17_001
+1 2268:areatalk_ev_wonder_17_001
 
 【中心街】
 
@@ -18,7 +18,7 @@
 司：哈～哈哈！就由我來接收笑夢從晶介先生那裡奪下的寶座吧！
 
 
-2269 areatalk_ev_wonder_17_002
+2 2269:areatalk_ev_wonder_17_002
 
 【奇幻樂園的「世界」 - 遊樂園】
 
@@ -37,7 +37,7 @@
 笑夢：要用拇指、食指和中指抓住喔！ 那麼，放馬過來吧～！
 
 
-2270 areatalk_ev_wonder_17_003
+3 2270:areatalk_ev_wonder_17_003
 
 【神山高中】
 
@@ -52,7 +52,7 @@
 寧寧：……你是不是很樂在其中啊？
 
 
-2271 areatalk_ev_wonder_17_004
+4 2271:areatalk_ev_wonder_17_004
 
 【奇幻樂園的「世界」 - 遊樂園】
 
@@ -67,7 +67,7 @@
 笑夢：好～！那就慢跑Let's go☆
 
 
-2272 areatalk_ev_wonder_17_005
+5 2272:areatalk_ev_wonder_17_005
 
 【奇幻樂園的「世界」 - 遊樂園】
 

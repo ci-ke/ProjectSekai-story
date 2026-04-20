@@ -1,4 +1,4 @@
-1516 areatalk_ev_street_10_001
+1 1516:areatalk_ev_street_10_001
 
 【十字路口】
 
@@ -14,7 +14,7 @@
 冬彌：（……如果母親也在家，再找她一起看吧。）
 
 
-1517 areatalk_ev_street_10_002
+2 1517:areatalk_ev_street_10_002
 
 【神山高中】
 
@@ -31,7 +31,7 @@
 冬彌：（……要是她也能把這份熱情用在考試上就好了。）
 
 
-1518 areatalk_ev_street_10_003
+3 1518:areatalk_ev_street_10_003
 
 【十字路口】
 
@@ -50,7 +50,7 @@
 彰人：……實在是受不了你，那我就陪你去一次吧。
 
 
-1519 areatalk_ev_street_10_004
+4 1519:areatalk_ev_street_10_004
 
 【購物中心】
 
@@ -69,7 +69,7 @@
 心羽、杏、冬彌：「好～！」 「嗯。」
 
 
-1520 areatalk_ev_street_10_005
+5 1520:areatalk_ev_street_10_005
 
 【街頭的「世界」 - 咖啡廳】
 

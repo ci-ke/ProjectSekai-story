@@ -1,4 +1,4 @@
-1161 areatalk_ev_street_05_001
+1 1161:areatalk_ev_street_05_001
 
 【中心街】
 
@@ -12,7 +12,7 @@
 杏：那就說定了！ 好～這樣的話我們得先買到票才行！
 
 
-1162 areatalk_ev_street_05_002
+2 1162:areatalk_ev_street_05_002
 
 【神山高中】
 
@@ -27,7 +27,7 @@
 杏：呃，真的假的！？ 糟糕……先唸一下書好了。
 
 
-1163 areatalk_ev_street_05_003
+3 1163:areatalk_ev_street_05_003
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -45,7 +45,7 @@
 冬彌：這樣啊。 能幫上忙就好了。
 
 
-1164 areatalk_ev_street_05_004
+4 1164:areatalk_ev_street_05_004
 
 【十字路口】
 
@@ -67,7 +67,7 @@
 心羽：嗯、嗯！ 我一定會把溫泉旅行贏到手的！
 
 
-1165 areatalk_ev_street_05_005
+5 1165:areatalk_ev_street_05_005
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -86,7 +86,7 @@
 杏：（三明治不是容易做失敗的料理…… 到底發生了什麼問題呢？）
 
 
-1166 areatalk_ev_street_05_006
+6 1166:areatalk_ev_street_05_006
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -106,7 +106,7 @@
 杏：好！ 那我也會認真聽的！
 
 
-1167 areatalk_ev_street_05_007
+7 1167:areatalk_ev_street_05_007
 
 【街頭的「世界」 - 咖啡廳】
 

@@ -1,4 +1,4 @@
-2042 areatalk_ev_shuffle_39_001
+1 2042:areatalk_ev_shuffle_39_001
 
 【神山高校】
 
@@ -18,7 +18,7 @@
 宁宁：……呵呵呵，好吧， 那就等你看完吧。
 
 
-2043 areatalk_ev_shuffle_39_002
+2 2043:areatalk_ev_shuffle_39_002
 
 【神山高校】
 
@@ -36,7 +36,7 @@
 宁宁：……嗯、嗯。
 
 
-2044 areatalk_ev_shuffle_39_003
+3 2044:areatalk_ev_shuffle_39_003
 
 【神山高校】
 
@@ -53,7 +53,7 @@
 彰人：这点小事就别客气了。 再见。
 
 
-2045 areatalk_ev_shuffle_39_004
+4 2045:areatalk_ev_shuffle_39_004
 
 【中央街】
 
@@ -71,7 +71,7 @@
 彰人：……这倒也没什么不好， 不过可别又抓一大堆哦？
 
 
-2046 areatalk_ev_shuffle_39_005
+5 2046:areatalk_ev_shuffle_39_005
 
 【奇幻乐园「世界」 - 游乐园】
 

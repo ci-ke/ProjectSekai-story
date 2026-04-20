@@ -1,4 +1,4 @@
-850 areatalk_ev_shuffle_01_001
+1 850:areatalk_ev_shuffle_01_001
 
 [宮益坂女子学園]
 
@@ -13,7 +13,7 @@
 咲希: おおー、さすがはフェニーくん好き！　見逃さないね！
 
 
-851 areatalk_ev_shuffle_01_002
+2 851:areatalk_ev_shuffle_01_002
 
 [宮益坂女子学園]
 
@@ -27,7 +27,7 @@
 遥: （ふふ。天馬さん、バンドの名前すごく気に入ってるんだな）
 
 
-852 areatalk_ev_shuffle_01_003
+3 852:areatalk_ev_shuffle_01_003
 
 [宮益坂女子学園]
 
@@ -41,7 +41,7 @@
 咲希: やったー！　ぜひお願いしまーす！
 
 
-853 areatalk_ev_shuffle_01_004
+4 853:areatalk_ev_shuffle_01_004
 
 [宮益坂女子学園]
 
@@ -54,7 +54,7 @@
 遥: 笑顔になあれ、か。 ふふっ、とっても素敵なおまじないだね
 
 
-854 areatalk_ev_shuffle_01_005
+5 854:areatalk_ev_shuffle_01_005
 
 [宮益坂女子学園]
 
@@ -68,7 +68,7 @@
 えむ: うん！　そうしようそうしよう♪
 
 
-855 areatalk_ev_shuffle_01_006
+6 855:areatalk_ev_shuffle_01_006
 
 [センター街]
 
@@ -84,7 +84,7 @@
 遥: ふふ、よろしくね
 
 
-856 areatalk_ev_shuffle_01_007
+7 856:areatalk_ev_shuffle_01_007
 
 [宮益坂女子学園]
 
@@ -99,7 +99,7 @@
 えむ: （えへへ。今の『嬉しいな』、 ちょっとだけ本当っぽかった！）
 
 
-857 areatalk_ev_shuffle_01_008
+8 857:areatalk_ev_shuffle_01_008
 
 [宮益坂女子学園]
 
@@ -115,7 +115,7 @@
 まふゆ: それじゃあ、いつか見あいっこしようね
 
 
-858 areatalk_ev_shuffle_01_009
+9 858:areatalk_ev_shuffle_01_009
 
 [宮益坂女子学園]
 

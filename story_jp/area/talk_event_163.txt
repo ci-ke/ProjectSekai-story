@@ -1,4 +1,4 @@
-2614 areatalk_wl_street_02_001
+1 2614:areatalk_wl_street_02_001
 
 [ストリートのセカイ - 広場]
 
@@ -15,7 +15,7 @@
 こはね・彰人・冬弥: 『うん！』 『ああ！』
 
 
-2615 areatalk_wl_street_02_002
+2 2615:areatalk_wl_street_02_002
 
 [ストリートのセカイ - 広場]
 
@@ -33,7 +33,7 @@ MEIKO (VBS): あら、綺麗な花束ね！ これを私達に？
 MEIKO (VBS): ええ。いつでも頼って。 そのために、私達はここにいるんだから
 
 
-2616 areatalk_wl_street_02_003
+3 2616:areatalk_wl_street_02_003
 
 [ストリートのセカイ - 広場]
 
@@ -53,7 +53,7 @@ MEIKO (VBS): ええ。いつでも頼って。 そのために、私達はここ
 冬弥: では、カフェに行ってみんなで食べよう
 
 
-2617 areatalk_wl_street_02_004
+4 2617:areatalk_wl_street_02_004
 
 [ストリートのセカイ - 広場]
 
@@ -70,7 +70,7 @@ KAITO (VBS): そう？　だったら、行こうかな。 しっかり感謝の
 冬弥: ええ、そうしましょう
 
 
-2618 areatalk_wl_street_02_005
+5 2618:areatalk_wl_street_02_005
 
 [ストリートのセカイ - 広場]
 

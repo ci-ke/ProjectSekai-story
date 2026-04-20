@@ -1,4 +1,4 @@
-1721 areatalk_ev_shuffle_31_001
+1 1721:areatalk_ev_shuffle_31_001
 
 [宮益坂女子学園]
 
@@ -15,7 +15,7 @@
 咲希・遥: 『うん♪』 『うん』
 
 
-1722 areatalk_ev_shuffle_31_002
+2 1722:areatalk_ev_shuffle_31_002
 
 [スクランブル交差点]
 
@@ -34,7 +34,7 @@
 寧々: （星乃さんって、ときどきびっくりするくらい積極的だな。 ……羨ましいかも）
 
 
-1723 areatalk_ev_shuffle_31_003
+3 1723:areatalk_ev_shuffle_31_003
 
 [宮益坂女子学園]
 
@@ -50,7 +50,7 @@
 遥: うん。私も一歌や咲希と一緒に食べるよ。 じゃあ、また放課後にね
 
 
-1724 areatalk_ev_shuffle_31_004
+4 1724:areatalk_ev_shuffle_31_004
 
 [ステージのセカイ - ステージ]
 
@@ -67,7 +67,7 @@
 ミク (MMJ): あ……ふふ、やっぱり遥ちゃんは、アイドルだね♪
 
 
-1725 areatalk_ev_shuffle_31_005
+5 1725:areatalk_ev_shuffle_31_005
 
 [ステージのセカイ - ステージ]
 

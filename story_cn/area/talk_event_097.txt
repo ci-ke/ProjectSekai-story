@@ -1,4 +1,4 @@
-1741 areatalk_ev_street_13_001
+1 1741:areatalk_ev_street_13_001
 
 【全向十字路口】
 
@@ -14,7 +14,7 @@
 杏：（……谢谢你，心羽。）
 
 
-1742 areatalk_ev_street_13_002
+2 1742:areatalk_ev_street_13_002
 
 【街头「世界」 - 咖啡厅】
 
@@ -33,7 +33,7 @@
 冬弥：好的，就这么办。
 
 
-1743 areatalk_ev_street_13_003
+3 1743:areatalk_ev_street_13_003
 
 【全向十字路口】
 
@@ -56,7 +56,7 @@
 彰人：真是的……按下的时机会在游戏过程中一会儿变快， 一会儿变慢，千万要集中注意力啊。
 
 
-1744 areatalk_ev_street_13_004
+4 1744:areatalk_ev_street_13_004
 
 【街头「世界」 - 咖啡厅】
 
@@ -74,7 +74,7 @@
 镜音铃：嗯！
 
 
-1745 areatalk_ev_street_13_005
+5 1745:areatalk_ev_street_13_005
 
 【街头「世界」 - 咖啡厅】
 
@@ -91,7 +91,7 @@
 杏：呵呵呵，没问题！
 
 
-1777 areatalk_monthly2307_002
+6 1777:areatalk_monthly2307_002
 
 【街头「世界」 - 咖啡厅】
 
@@ -108,7 +108,7 @@
 彰人：好的…… 到时候也许会来麻烦你。
 
 
-1778 areatalk_monthly2307_003
+7 1778:areatalk_monthly2307_003
 
 【街头「世界」 - 咖啡厅】
 
@@ -124,7 +124,7 @@
 镜音连：真的？嘿嘿，果然啊， 耍帅不是靠喝点黑咖啡就能做到的。
 
 
-1779 areatalk_monthly2307_004
+8 1779:areatalk_monthly2307_004
 
 【中央街】
 

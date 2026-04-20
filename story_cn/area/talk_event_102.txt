@@ -1,4 +1,4 @@
-1771 areatalk_ev_shuffle_34_001
+1 1771:areatalk_ev_shuffle_34_001
 
 【全向十字路口】
 
@@ -14,7 +14,7 @@
 瑞希：没问题！ 那么我们先去第一家店，走咯♪
 
 
-1772 areatalk_ev_shuffle_34_002
+2 1772:areatalk_ev_shuffle_34_002
 
 【购物中心】
 
@@ -30,7 +30,7 @@
 瑞希：没事没事！不用客气！
 
 
-1773 areatalk_ev_shuffle_34_003
+3 1773:areatalk_ev_shuffle_34_003
 
 【全向十字路口】
 
@@ -47,7 +47,7 @@
 瑞希：（不过这样也算为小莉她们出了力了…… 能帮上忙挺好的。）
 
 
-1774 areatalk_ev_shuffle_34_004
+4 1774:areatalk_ev_shuffle_34_004
 
 【宫益坂女子学园】
 
@@ -63,7 +63,7 @@
 爱莉：谢谢你告诉我！ 我稍后就去看看！
 
 
-1775 areatalk_ev_shuffle_34_005
+5 1775:areatalk_ev_shuffle_34_005
 
 【购物中心】
 

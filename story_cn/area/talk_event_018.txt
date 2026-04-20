@@ -1,4 +1,4 @@
-962 areatalk_ev_shuffle_06_001
+1 962:areatalk_ev_shuffle_06_001
 
 【中央街】
 
@@ -15,7 +15,7 @@
 心羽：嗯！那小歌也和我讲讲你喜欢的音乐吧！
 
 
-963 areatalk_ev_shuffle_06_002
+2 963:areatalk_ev_shuffle_06_002
 
 【宫益坂女子学园】
 
@@ -31,7 +31,7 @@
 一歌：心羽……嗯，谢谢你！ 那我就如实写了！
 
 
-964 areatalk_ev_shuffle_06_003
+3 964:areatalk_ev_shuffle_06_003
 
 【全向十字路口】
 
@@ -46,7 +46,7 @@
 实乃理：啊哈哈……也是。
 
 
-965 areatalk_ev_shuffle_06_004
+4 965:areatalk_ev_shuffle_06_004
 
 【宫益坂女子学园】
 
@@ -63,7 +63,7 @@
 实乃理：小羽……！ 谢谢你！我一辈子都不会忘记你的这份恩情！！
 
 
-966 areatalk_ev_shuffle_06_005
+5 966:areatalk_ev_shuffle_06_005
 
 【全向十字路口】
 
@@ -81,7 +81,7 @@
 实乃理：那就这么定了！ 向着小羽说的那家店，出发！
 
 
-967 areatalk_ev_shuffle_06_006
+6 967:areatalk_ev_shuffle_06_006
 
 【宫益坂女子学园】
 
@@ -100,7 +100,7 @@
 一歌：……！嗯，麻烦你了！
 
 
-968 areatalk_ev_shuffle_06_007
+7 968:areatalk_ev_shuffle_06_007
 
 【教室「世界」 - 学校】
 
@@ -118,7 +118,7 @@ MEIKO：我也是！有了，那就由我们来挑选听哪张CD， 一歌来决
 巡音流歌：好的，就这么办。
 
 
-969 areatalk_ev_shuffle_06_008
+8 969:areatalk_ev_shuffle_06_008
 
 【教室「世界」 - 学校】
 
@@ -136,7 +136,7 @@ MEIKO：啊哈哈，那你害什么羞嘛。
 一歌&MEIKO：“呵呵呵。”
 
 
-970 areatalk_ev_shuffle_06_009
+9 970:areatalk_ev_shuffle_06_009
 
 【教室「世界」 - 学校】
 
@@ -153,7 +153,7 @@ MEIKO：啊，真是这样吗？
 巡音流歌：嗯，肯定是的。
 
 
-971 areatalk_ev_shuffle_06_010
+10 971:areatalk_ev_shuffle_06_010
 
 【教室「世界」 - 学校】
 
@@ -170,7 +170,7 @@ MEIKO：啊，你好狡猾。今天是站在她那一边吗？
 巡音流歌：嗯？我一直都和我心爱的学妹站在一起哦。
 
 
-978 areatalk_ev_shuffle_03_002
+11 978:areatalk_ev_shuffle_03_002
 
 【全向十字路口】
 

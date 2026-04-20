@@ -1,4 +1,4 @@
-1161 areatalk_ev_street_05_001
+1 1161:areatalk_ev_street_05_001
 
 【中央街】
 
@@ -12,7 +12,7 @@
 杏：那就这么定了！ 好，得先去搞到票才行！
 
 
-1162 areatalk_ev_street_05_002
+2 1162:areatalk_ev_street_05_002
 
 【神山高校】
 
@@ -27,7 +27,7 @@
 杏：啊，真的假的？！ 完了……我得赶快复习一下。
 
 
-1163 areatalk_ev_street_05_003
+3 1163:areatalk_ev_street_05_003
 
 【街头「世界」 - 咖啡厅】
 
@@ -45,7 +45,7 @@
 冬弥：这样啊。能帮到你就好。
 
 
-1164 areatalk_ev_street_05_004
+4 1164:areatalk_ev_street_05_004
 
 【全向十字路口】
 
@@ -67,7 +67,7 @@
 心羽：好、好的！我一定会在比赛中获胜，赢得免费温泉旅行的大奖！
 
 
-1165 areatalk_ev_street_05_005
+5 1165:areatalk_ev_street_05_005
 
 【街头「世界」 - 咖啡厅】
 
@@ -86,7 +86,7 @@
 杏：（感觉三明治不是那么容易失败的料理啊…… 究竟发生了什么呢？）
 
 
-1166 areatalk_ev_street_05_006
+6 1166:areatalk_ev_street_05_006
 
 【街头「世界」 - 咖啡厅】
 
@@ -106,7 +106,7 @@
 杏：好吧！那我会认真听的！
 
 
-1167 areatalk_ev_street_05_007
+7 1167:areatalk_ev_street_05_007
 
 【街头「世界」 - 咖啡厅】
 

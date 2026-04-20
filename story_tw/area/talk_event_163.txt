@@ -1,4 +1,4 @@
-2614 areatalk_wl_street_02_001
+1 2614:areatalk_wl_street_02_001
 
 【街頭的「世界」 - 廣場】
 
@@ -15,7 +15,7 @@
 心羽、彰人、冬彌：「嗯！」 「好！」
 
 
-2615 areatalk_wl_street_02_002
+2 2615:areatalk_wl_street_02_002
 
 【街頭的「世界」 - 廣場】
 
@@ -33,7 +33,7 @@ MEIKO（VBS）：哇，好美的花束！這是要送給我們的嗎？
 MEIKO（VBS）：嗯，儘管依靠我們吧。我們就是為此身在這裡的。
 
 
-2616 areatalk_wl_street_02_003
+3 2616:areatalk_wl_street_02_003
 
 【街頭的「世界」 - 廣場】
 
@@ -53,7 +53,7 @@ MEIKO（VBS）：嗯，儘管依靠我們吧。我們就是為此身在這裡的
 冬彌：那麼，就去咖啡廳跟大家一起吃吧。
 
 
-2617 areatalk_wl_street_02_004
+4 2617:areatalk_wl_street_02_004
 
 【街頭的「世界」 - 廣場】
 
@@ -70,7 +70,7 @@ KAITO（VBS）：這樣啊？那就走吧。得好好表達我心中的感謝，
 冬彌：嗯，就這麼辦。
 
 
-2618 areatalk_wl_street_02_005
+5 2618:areatalk_wl_street_02_005
 
 【街頭的「世界」 - 廣場】
 

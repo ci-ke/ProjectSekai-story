@@ -1,4 +1,4 @@
-1175 areatalk_ev_night_06_001
+1 1175:areatalk_ev_night_06_001
 
 【全向十字路口】
 
@@ -15,7 +15,7 @@
 瑞希：啊哈哈！有可能！
 
 
-1176 areatalk_ev_night_06_002
+2 1176:areatalk_ev_night_06_002
 
 【中央街】
 
@@ -30,7 +30,7 @@
 瑞希：（救命……如果被灌输那么多数字， 我一定会用脑过度发烧的！）
 
 
-1177 areatalk_ev_night_06_003
+3 1177:areatalk_ev_night_06_003
 
 【中央街】
 
@@ -46,7 +46,7 @@
 绘名：我说瑞希！别盯着我的脸狂笑好不好！
 
 
-1178 areatalk_ev_night_06_004
+4 1178:areatalk_ev_night_06_004
 
 【无人「世界」 - 空地】
 
@@ -68,7 +68,7 @@
 绘名：你好烦。
 
 
-1179 areatalk_ev_night_06_005
+5 1179:areatalk_ev_night_06_005
 
 【无人「世界」 - 空地】
 
@@ -85,7 +85,7 @@ MEIKO：你觉得舒服就待着吧。 和我没关系。
 瑞希：（谢谢你，MEIKO。）
 
 
-1180 areatalk_ev_night_06_006
+6 1180:areatalk_ev_night_06_006
 
 【无人「世界」 - 空地】
 
@@ -108,7 +108,7 @@ MEIKO：你觉得舒服就待着吧。 和我没关系。
 绘名：瑞希…… 好的，那你就负责哄铃高兴吧。
 
 
-1181 areatalk_ev_night_06_007
+7 1181:areatalk_ev_night_06_007
 
 【无人「世界」 - 空地】
 
@@ -124,7 +124,7 @@ MEIKO：我不这么认为。
 镜音铃：（……果然是在吵架吧？）
 
 
-1182 areatalk_ev_night_06_008
+8 1182:areatalk_ev_night_06_008
 
 【无人「世界」 - 空地】
 
@@ -140,7 +140,7 @@ MEIKO：……有不合你心意的地方吗？
 MEIKO：嗯，当然。 我没有改变现状的打算。
 
 
-1185 areatalk_monthly2110_003
+9 1185:areatalk_monthly2110_003
 
 【中央街】
 

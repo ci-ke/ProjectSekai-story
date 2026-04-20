@@ -1,4 +1,4 @@
-1228 areatalk_ev_street_06_001
+1 1228:areatalk_ev_street_06_001
 
 【唱片行】
 
@@ -14,7 +14,7 @@
 心羽：青柳你也這麼覺得嗎？ 欸嘿嘿，下次來拜託她表演看看好了。
 
 
-1229 areatalk_ev_street_06_002
+2 1229:areatalk_ev_street_06_002
 
 【神山高中】
 
@@ -29,7 +29,7 @@
 杏：啊哈哈，吃那類食物果然還是會配茶！
 
 
-1230 areatalk_ev_street_06_003
+3 1230:areatalk_ev_street_06_003
 
 【神山高中】
 
@@ -46,7 +46,7 @@
 冬彌：啊…… ……這樣啊。
 
 
-1231 areatalk_ev_street_06_004
+4 1231:areatalk_ev_street_06_004
 
 【十字路口】
 
@@ -67,7 +67,7 @@
 杏：心羽～～～！ 心羽妳果然是我最完美的搭檔！
 
 
-1232 areatalk_ev_street_06_005
+5 1232:areatalk_ev_street_06_005
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -79,7 +79,7 @@
 巡音流歌：嗯嗯，唱歌果然還是講求感受跟激情。
 
 
-1233 areatalk_ev_street_06_006
+6 1233:areatalk_ev_street_06_006
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -95,7 +95,7 @@ MEIKO：沒這回事。 既然妳都特地來了，喝杯咖啡再走吧？
 巡音流歌：我當然要喝了再走！ MEIKO泡的咖啡最好喝了～♪
 
 
-1234 areatalk_ev_street_06_007
+7 1234:areatalk_ev_street_06_007
 
 【街頭的「世界」 - 咖啡廳】
 

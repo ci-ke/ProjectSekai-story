@@ -1,4 +1,4 @@
-2353 areatalk_ev_shuffle_48_001
+1 2353:areatalk_ev_shuffle_48_001
 
 [センター街]
 
@@ -18,7 +18,7 @@
 彰人: いや、どう考えても桐谷が特殊なだけっすよ
 
 
-2354 areatalk_ev_shuffle_48_002
+2 2354:areatalk_ev_shuffle_48_002
 
 [スクランブル交差点]
 
@@ -35,7 +35,7 @@
 彰人: たしかに。動画なら、いいかもな
 
 
-2355 areatalk_ev_shuffle_48_003
+3 2355:areatalk_ev_shuffle_48_003
 
 [センター街]
 
@@ -51,7 +51,7 @@
 遥: それは……かなり珍しい動機ですけど、 チャレンジはいいことだと思います
 
 
-2356 areatalk_ev_shuffle_48_004
+4 2356:areatalk_ev_shuffle_48_004
 
 [ショッピングモール]
 
@@ -69,7 +69,7 @@
 杏: あ、ちょっと！　置いてかないでよー！
 
 
-2357 areatalk_ev_shuffle_48_005
+5 2357:areatalk_ev_shuffle_48_005
 
 [ステージのセカイ - ステージ]
 

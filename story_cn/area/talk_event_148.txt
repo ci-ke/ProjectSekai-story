@@ -1,4 +1,4 @@
-2392 areatalk_ev_shuffle_50_001
+1 2392:areatalk_ev_shuffle_50_001
 
 【购物中心】
 
@@ -18,7 +18,7 @@
 咲希：嗯♪好期待啊！
 
 
-2393 areatalk_ev_shuffle_50_002
+2 2393:areatalk_ev_shuffle_50_002
 
 【中央街】
 
@@ -35,7 +35,7 @@
 咲希：咦咦？！要是穿到那种时候， 鞋子都要哭着说“我不行啦～”了吧？！
 
 
-2394 areatalk_ev_shuffle_50_003
+3 2394:areatalk_ev_shuffle_50_003
 
 【音乐商店】
 
@@ -53,7 +53,7 @@
 志步：不，也不用特意验证……
 
 
-2395 areatalk_ev_shuffle_50_004
+4 2395:areatalk_ev_shuffle_50_004
 
 【中央街】
 
@@ -69,7 +69,7 @@
 司：是啊！真期待成品啊！
 
 
-2396 areatalk_ev_shuffle_50_005
+5 2396:areatalk_ev_shuffle_50_005
 
 【教室「世界」 - 车站】
 
@@ -89,7 +89,7 @@
 志步：那就去找找吧。
 
 
-2514 areatalk_monthly2412_003
+6 2514:areatalk_monthly2412_003
 
 【教室「世界」 - 学校】
 

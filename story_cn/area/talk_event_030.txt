@@ -1,4 +1,4 @@
-1089 areatalk_ev_shuffle_10_001
+1 1089:areatalk_ev_shuffle_10_001
 
 【全向十字路口】
 
@@ -13,7 +13,7 @@
 心羽：嗯。有伙伴在身边，真的让人很安心呢。
 
 
-1090 areatalk_ev_shuffle_10_002
+2 1090:areatalk_ev_shuffle_10_002
 
 【中央街】
 
@@ -29,7 +29,7 @@
 咲希&笑梦：“啊哈哈！”
 
 
-1091 areatalk_ev_shuffle_10_003
+3 1091:areatalk_ev_shuffle_10_003
 
 【中央街】
 
@@ -44,7 +44,7 @@
 心羽：啊，真的吗？谢谢你！ 那下次就拜托你了！
 
 
-1092 areatalk_ev_shuffle_10_004
+4 1092:areatalk_ev_shuffle_10_004
 
 【全向十字路口】
 
@@ -59,7 +59,7 @@
 笑梦：耶——☆那我期待你们的到来哦♪
 
 
-1093 areatalk_ev_shuffle_10_005
+5 1093:areatalk_ev_shuffle_10_005
 
 【中央街】
 
@@ -76,7 +76,7 @@
 心羽：好——！
 
 
-1094 areatalk_ev_shuffle_10_006
+6 1094:areatalk_ev_shuffle_10_006
 
 【中央街】
 
@@ -100,7 +100,7 @@
 遥：呵呵呵……
 
 
-1095 areatalk_ev_shuffle_10_007
+7 1095:areatalk_ev_shuffle_10_007
 
 【购物中心】
 
@@ -118,7 +118,7 @@
 穗波：好，再见！
 
 
-1096 areatalk_ev_shuffle_10_008
+8 1096:areatalk_ev_shuffle_10_008
 
 【奇幻乐园「世界」 - 游乐园】
 

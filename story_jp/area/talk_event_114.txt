@@ -1,4 +1,4 @@
-2042 areatalk_ev_shuffle_39_001
+1 2042:areatalk_ev_shuffle_39_001
 
 [神山高校]
 
@@ -18,7 +18,7 @@
 寧々: ……ふふっ、わかった。 じゃあ待ってるね
 
 
-2043 areatalk_ev_shuffle_39_002
+2 2043:areatalk_ev_shuffle_39_002
 
 [神山高校]
 
@@ -36,7 +36,7 @@
 寧々: ……う、うん
 
 
-2044 areatalk_ev_shuffle_39_003
+3 2044:areatalk_ev_shuffle_39_003
 
 [神山高校]
 
@@ -53,7 +53,7 @@
 彰人: 別に、これくらい気にすんな。 じゃあな
 
 
-2045 areatalk_ev_shuffle_39_004
+4 2045:areatalk_ev_shuffle_39_004
 
 [センター街]
 
@@ -71,7 +71,7 @@
 彰人: ……そりゃいいが、 だからってまた獲りすぎんなよ？
 
 
-2046 areatalk_ev_shuffle_39_005
+5 2046:areatalk_ev_shuffle_39_005
 
 [ワンダーランドのセカイ - 遊園地]
 

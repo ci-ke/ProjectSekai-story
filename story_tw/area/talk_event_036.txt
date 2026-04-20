@@ -1,4 +1,4 @@
-1152 areatalk_ev_shuffle_12_001
+1 1152:areatalk_ev_shuffle_12_001
 
 【主題樂園】
 
@@ -19,7 +19,7 @@
 寧寧：（……好，我得努力不讓她們失望才行。）
 
 
-1153 areatalk_ev_shuffle_12_002
+2 1153:areatalk_ev_shuffle_12_002
 
 【唱片行】
 
@@ -35,7 +35,7 @@
 寧寧：這樣啊。不知道會是怎樣的活動呢？ 真期待。
 
 
-1154 areatalk_ev_shuffle_12_003
+3 1154:areatalk_ev_shuffle_12_003
 
 【十字路口】
 
@@ -52,7 +52,7 @@
 寧寧：嗯，妳說得很對。
 
 
-1155 areatalk_ev_shuffle_12_004
+4 1155:areatalk_ev_shuffle_12_004
 
 【宮益坂女子學園】
 
@@ -72,7 +72,7 @@
 實乃理：嗯！謝謝小夢！
 
 
-1156 areatalk_ev_shuffle_12_005
+5 1156:areatalk_ev_shuffle_12_005
 
 【宮益坂女子學園】
 
@@ -96,7 +96,7 @@
 一歌：嗯，走吧！
 
 
-1157 areatalk_ev_shuffle_12_006
+6 1157:areatalk_ev_shuffle_12_006
 
 【主題樂園】
 
@@ -115,7 +115,7 @@
 雫：嗯，妳說得對！
 
 
-1158 areatalk_ev_shuffle_12_007
+7 1158:areatalk_ev_shuffle_12_007
 
 【十字路口】
 
@@ -133,7 +133,7 @@
 杏：好耶！ 那得先決定誰跟誰一組才行呢！
 
 
-1159 areatalk_ev_shuffle_12_008
+8 1159:areatalk_ev_shuffle_12_008
 
 【主題樂園】
 
@@ -154,7 +154,7 @@
 寧寧：呵呵，好啊。
 
 
-1160 areatalk_ev_shuffle_12_009
+9 1160:areatalk_ev_shuffle_12_009
 
 【空無一人的「世界」 - 空地】
 

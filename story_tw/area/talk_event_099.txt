@@ -1,4 +1,4 @@
-1752 areatalk_monthly2306_002
+1 1752:areatalk_monthly2306_002
 
 【宮益坂女子學園】
 
@@ -15,7 +15,7 @@
 真冬：這個……就算再幸運，應該也辦不到吧。
 
 
-1756 areatalk_ev_shuffle_33_001
+2 1756:areatalk_ev_shuffle_33_001
 
 【神山高中】
 
@@ -29,7 +29,7 @@
 類：呵呵，當然了。 我才要叫你儘管放心呢。
 
 
-1757 areatalk_ev_shuffle_33_002
+3 1757:areatalk_ev_shuffle_33_002
 
 【宮益坂女子學園】
 
@@ -50,7 +50,7 @@
 真冬：呵呵，兩位真令人敬佩呢。 那我就只告訴妳們範圍吧。
 
 
-1758 areatalk_ev_shuffle_33_003
+4 1758:areatalk_ev_shuffle_33_003
 
 【中心街】
 
@@ -69,7 +69,7 @@
 類：是啊，我有同感，有機會的話希望能再聊聊。
 
 
-1759 areatalk_ev_shuffle_33_004
+5 1759:areatalk_ev_shuffle_33_004
 
 【購物中心】
 
@@ -90,7 +90,7 @@
 司、真冬：「不客氣。」
 
 
-1760 areatalk_ev_shuffle_33_005
+6 1760:areatalk_ev_shuffle_33_005
 
 【奇幻樂園的「世界」 - 遊樂園】
 

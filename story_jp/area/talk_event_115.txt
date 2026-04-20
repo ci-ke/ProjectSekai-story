@@ -1,4 +1,4 @@
-2079 areatalk_ev_shuffle_40_001
+1 2079:areatalk_ev_shuffle_40_001
 
 [宮益坂女子学園]
 
@@ -13,7 +13,7 @@
 志歩: ……よかった
 
 
-2080 areatalk_ev_shuffle_40_002
+2 2080:areatalk_ev_shuffle_40_002
 
 [宮益坂女子学園]
 
@@ -30,7 +30,7 @@
 みのり: さすがにハシビロくんは抱っこできそうにないなあ……
 
 
-2081 areatalk_ev_shuffle_40_003
+3 2081:areatalk_ev_shuffle_40_003
 
 [スクランブル交差点]
 
@@ -48,7 +48,7 @@
 志歩: ……うん、行く
 
 
-2082 areatalk_ev_shuffle_40_004
+4 2082:areatalk_ev_shuffle_40_004
 
 [ステージのセカイ - ステージ]
 
@@ -64,7 +64,7 @@
 みのり: えへへ、力になれてよかった！　がんばってね！
 
 
-2083 areatalk_ev_shuffle_40_005
+5 2083:areatalk_ev_shuffle_40_005
 
 [ショッピングモール]
 
@@ -81,7 +81,7 @@
 一歌: 可愛い形にしすぎるのも考えものだね……
 
 
-2147 areatalk_monthly2308_002
+6 2147:areatalk_monthly2308_002
 
 [スクランブル交差点]
 

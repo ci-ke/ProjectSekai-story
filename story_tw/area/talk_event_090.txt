@@ -1,4 +1,4 @@
-1648 areatalk_ev_shuffle_30_001
+1 1648:areatalk_ev_shuffle_30_001
 
 【中心街】
 
@@ -15,7 +15,7 @@
 志步：謝謝，我很期待。
 
 
-1649 areatalk_ev_shuffle_30_002
+2 1649:areatalk_ev_shuffle_30_002
 
 【神山高中】
 
@@ -33,7 +33,7 @@
 繪名：（帶著這麼純真的眼神跟我這樣說……聽了蠻害臊的。）
 
 
-1650 areatalk_ev_shuffle_30_003
+3 1650:areatalk_ev_shuffle_30_003
 
 【唱片行】
 
@@ -51,7 +51,7 @@
 杏：太好了～！那就麻煩學姐了～！
 
 
-1651 areatalk_ev_shuffle_30_004
+4 1651:areatalk_ev_shuffle_30_004
 
 【宮益坂女子學園】
 
@@ -69,7 +69,7 @@
 志步：嗯，就再等她一下吧。 那改天見了。
 
 
-1652 areatalk_ev_shuffle_30_005
+5 1652:areatalk_ev_shuffle_30_005
 
 【教室的「世界」 - 學校】
 
@@ -84,7 +84,7 @@
 志步：好啊。我準備一下，妳等我。
 
 
-1653 areatalk_monthly2303_001
+6 1653:areatalk_monthly2303_001
 
 【宮益坂女子學園】
 
@@ -99,7 +99,7 @@
 實乃理：我才要拜託妳呢！ 薩摩體型很大，難得有能陪牠一起玩耍的朋友。請多指教喔！
 
 
-1654 areatalk_monthly2303_002
+7 1654:areatalk_monthly2303_002
 
 【宮益坂女子學園】
 

@@ -1,4 +1,4 @@
-2476 areatalk_ev_shuffle_51_001
+1 2476:areatalk_ev_shuffle_51_001
 
 [スクランブル交差点]
 
@@ -15,7 +15,7 @@
 類: フフ。ただの言葉の綾だよ
 
 
-2477 areatalk_ev_shuffle_51_002
+2 2477:areatalk_ev_shuffle_51_002
 
 [テーマパーク]
 
@@ -32,7 +32,7 @@
 こはね: 本当ですか？　皆さんのショーにはたくさん元気をもらったので お役に立てたなら嬉しいです
 
 
-2478 areatalk_ev_shuffle_51_003
+3 2478:areatalk_ev_shuffle_51_003
 
 [神山高校]
 
@@ -48,7 +48,7 @@
 彰人: …………帰るか
 
 
-2479 areatalk_ev_shuffle_51_004
+4 2479:areatalk_ev_shuffle_51_004
 
 [センター街]
 
@@ -64,7 +64,7 @@
 類: でも、これからは本当に宇宙ロケットを 作るようになるかもしれないよ？ 民間企業でも開発しているところはあるからね
 
 
-2480 areatalk_ev_shuffle_51_005
+5 2480:areatalk_ev_shuffle_51_005
 
 [ストリートのセカイ - カフェ]
 

@@ -1,4 +1,4 @@
-1598 areatalk_ev_wonder_11_001
+1 1598:areatalk_ev_wonder_11_001
 
 【主题乐园】
 
@@ -14,7 +14,7 @@
 笑梦&宁宁：“好！” “好。”
 
 
-1599 areatalk_ev_wonder_11_002
+2 1599:areatalk_ev_wonder_11_002
 
 【主题乐园】
 
@@ -31,7 +31,7 @@
 司：好！正合我意！
 
 
-1600 areatalk_ev_wonder_11_003
+3 1600:areatalk_ev_wonder_11_003
 
 【主题乐园】
 
@@ -50,7 +50,7 @@
 司：哼，那就让你们见识一下， 被我称之为“暴风太郎”的风，是如何以惊人的演技震撼大家的。
 
 
-1601 areatalk_ev_wonder_11_004
+4 1601:areatalk_ev_wonder_11_004
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -69,7 +69,7 @@
 类：好，如果演技上遇到了困难，欢迎随时来找我们商量。
 
 
-1602 areatalk_ev_wonder_11_005
+5 1602:areatalk_ev_wonder_11_005
 
 【奇幻乐园「世界」 - 游乐园】
 

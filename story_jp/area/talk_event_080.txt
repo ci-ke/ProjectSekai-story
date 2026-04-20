@@ -1,4 +1,4 @@
-1575 areatalk_ev_shuffle_26_001
+1 1575:areatalk_ev_shuffle_26_001
 
 [宮益坂女子学園]
 
@@ -15,7 +15,7 @@
 まふゆ: うん。ありがとう、日野森さん
 
 
-1576 areatalk_ev_shuffle_26_002
+2 1576:areatalk_ev_shuffle_26_002
 
 [宮益坂女子学園]
 
@@ -30,7 +30,7 @@
 まふゆ: うん、いいよ。 ——えっと、タイトルはなんだったかな……
 
 
-1577 areatalk_ev_shuffle_26_003
+3 1577:areatalk_ev_shuffle_26_003
 
 [センター街]
 
@@ -49,7 +49,7 @@
 雫: もう、ふたりだけで盛り上がってずるいわ。 私も入れて？
 
 
-1578 areatalk_ev_shuffle_26_004
+4 1578:areatalk_ev_shuffle_26_004
 
 [ステージのセカイ - ステージ]
 
@@ -67,7 +67,7 @@ KAITO: その姿を見ていたら、 自然とやるぞーっていう気持ち
 KAITO: いいのかい？　ありがとう、すごく助かるよ！
 
 
-1579 areatalk_ev_shuffle_26_005
+5 1579:areatalk_ev_shuffle_26_005
 
 [ステージのセカイ - ステージ]
 

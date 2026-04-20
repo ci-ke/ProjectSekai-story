@@ -1,4 +1,4 @@
-1752 areatalk_monthly2306_002
+1 1752:areatalk_monthly2306_002
 
 [宮益坂女子学園]
 
@@ -15,7 +15,7 @@
 まふゆ: それは……いくらラッキーでも、さすがに無理じゃないかな
 
 
-1756 areatalk_ev_shuffle_33_001
+2 1756:areatalk_ev_shuffle_33_001
 
 [神山高校]
 
@@ -29,7 +29,7 @@
 類: フフ、もちろんだとも。 君のほうこそ、安心してくれ
 
 
-1757 areatalk_ev_shuffle_33_002
+3 1757:areatalk_ev_shuffle_33_002
 
 [宮益坂女子学園]
 
@@ -50,7 +50,7 @@
 まふゆ: ふふ。ふたりともかっこいいな。 じゃあ、範囲だけ教えるね
 
 
-1758 areatalk_ev_shuffle_33_003
+4 1758:areatalk_ev_shuffle_33_003
 
 [センター街]
 
@@ -69,7 +69,7 @@
 類: ええ、僕もです。機会があれば、是非
 
 
-1759 areatalk_ev_shuffle_33_004
+5 1759:areatalk_ev_shuffle_33_004
 
 [ショッピングモール]
 
@@ -90,7 +90,7 @@
 司・まふゆ: 『どういたしまして』
 
 
-1760 areatalk_ev_shuffle_33_005
+6 1760:areatalk_ev_shuffle_33_005
 
 [ワンダーランドのセカイ - 遊園地]
 

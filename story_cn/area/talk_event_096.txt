@@ -1,4 +1,4 @@
-1731 areatalk_ev_shuffle_32_001
+1 1731:areatalk_ev_shuffle_32_001
 
 【全向十字路口】
 
@@ -18,7 +18,7 @@
 笑梦&瑞希：“哦——！”
 
 
-1732 areatalk_ev_shuffle_32_002
+2 1732:areatalk_ev_shuffle_32_002
 
 【购物中心】
 
@@ -35,7 +35,7 @@
 奏：（望月同学不仅能干，还很会夸人呢。）
 
 
-1733 areatalk_ev_shuffle_32_003
+3 1733:areatalk_ev_shuffle_32_003
 
 【中央街】
 
@@ -51,7 +51,7 @@
 笑梦：太好啦——！不知道会有什么样的衣服呢～！ 好期待啊～☆
 
 
-1734 areatalk_ev_shuffle_32_004
+4 1734:areatalk_ev_shuffle_32_004
 
 【教室「世界」 - 学校】
 
@@ -69,7 +69,7 @@
 穗波：呵呵呵。下次我会把做针线活的东西带过来的。
 
 
-1735 areatalk_ev_shuffle_32_005
+5 1735:areatalk_ev_shuffle_32_005
 
 【教室「世界」 - 学校】
 
@@ -87,7 +87,7 @@
 镜音铃：啊，我在婚庆展上见过！ 确实很想看她穿呢♪
 
 
-1740 areatalk_monthly2305_005
+6 1740:areatalk_monthly2305_005
 
 【教室「世界」 - 学校】
 

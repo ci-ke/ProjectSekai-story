@@ -1,4 +1,4 @@
-2897 areatalk_wl_shuffle_01_001
+1 2897:areatalk_wl_shuffle_01_001
 
 [スクランブル交差点]
 
@@ -15,7 +15,7 @@
 一歌: たしかに、それがよさそうだね
 
 
-2898 areatalk_wl_shuffle_01_002
+2 2898:areatalk_wl_shuffle_01_002
 
 [？？？のセカイ]
 
@@ -26,7 +26,7 @@
 ミク: ……また、みんなと会えるといいな
 
 
-2899 areatalk_wl_shuffle_01_003
+3 2899:areatalk_wl_shuffle_01_003
 
 [ショッピングモール]
 
@@ -44,7 +44,7 @@
 えむ: うん、するするー！
 
 
-2900 areatalk_wl_shuffle_01_004
+4 2900:areatalk_wl_shuffle_01_004
 
 [音楽ショップ]
 

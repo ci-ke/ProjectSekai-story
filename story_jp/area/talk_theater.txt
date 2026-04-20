@@ -1,4 +1,4 @@
-2417 areatalk_ev_theater_001
+1 2417:areatalk_ev_theater_001
 
 [開かれた窓のセカイ]
 
@@ -9,7 +9,7 @@
 ミク: 今日も、たくさん歌おう。 想いの持ち主のみんなに、届くように
 
 
-2418 areatalk_ev_theater_002
+2 2418:areatalk_ev_theater_002
 
 [開かれた窓のセカイ]
 
@@ -20,7 +20,7 @@
 ミク: 想いの持ち主が来てくれたら、聞いてみたいな
 
 
-2419 areatalk_ev_theater_003
+3 2419:areatalk_ev_theater_003
 
 [開かれた窓のセカイ]
 
@@ -31,7 +31,7 @@
 ミク: ……大丈夫。 信じて、待っていよう
 
 
-2420 areatalk_ev_theater_004
+4 2420:areatalk_ev_theater_004
 
 [開かれた窓のセカイ]
 
@@ -42,7 +42,7 @@
 ミク: ……いつか、会えたらいいな
 
 
-2421 areatalk_ev_theater_005
+5 2421:areatalk_ev_theater_005
 
 [開かれた窓のセカイ]
 
@@ -54,7 +54,7 @@
 ミク: それだけ、人が持ってる想いって違いがあるんだね
 
 
-2422 areatalk_ev_theater_006
+6 2422:areatalk_ev_theater_006
 
 [開かれた窓のセカイ]
 
@@ -65,7 +65,7 @@
 ミク: きっと、すごく素敵な想いなんだろうな
 
 
-2423 areatalk_ev_theater_007
+7 2423:areatalk_ev_theater_007
 
 [開かれた窓のセカイ]
 
@@ -76,7 +76,7 @@
 ミク: みんなが教えてくれた歌とダンス、またやってみようかな
 
 
-2424 areatalk_ev_theater_008
+8 2424:areatalk_ev_theater_008
 
 [開かれた窓のセカイ]
 
@@ -88,7 +88,7 @@
 ミク: ……こんな感じだった、かな
 
 
-2425 areatalk_ev_theater_009
+9 2425:areatalk_ev_theater_009
 
 [開かれた窓のセカイ]
 
@@ -99,7 +99,7 @@
 ミク: ……ここも、想いの持ち主のみんなが もっともっと来てくれて、賑やかになるといいな
 
 
-2426 areatalk_ev_theater_010
+10 2426:areatalk_ev_theater_010
 
 [開かれた窓のセカイ]
 
@@ -111,7 +111,7 @@
 ミク: ……ここも、あんな風に来てくれたみんなが 落ち着ける場所にしていきたいな
 
 
-2427 areatalk_ev_theater_011
+11 2427:areatalk_ev_theater_011
 
 [開かれた窓のセカイ]
 
@@ -123,7 +123,7 @@
 ミク: ……私も、すごいって言ってもらえるようなミクに、 なれてるかな？
 
 
-2428 areatalk_ev_theater_012
+12 2428:areatalk_ev_theater_012
 
 [開かれた窓のセカイ]
 
@@ -135,7 +135,7 @@
 ミク: 想いのあたたかさ、だったのかな
 
 
-2429 areatalk_ev_theater_013
+13 2429:areatalk_ev_theater_013
 
 [開かれた窓のセカイ]
 
@@ -147,7 +147,7 @@
 ミク: あのあと、みんなからも先生って呼ばれたりして たくさん恥ずかしがってたな
 
 
-2430 areatalk_ev_theater_014
+14 2430:areatalk_ev_theater_014
 
 [開かれた窓のセカイ]
 
@@ -158,7 +158,7 @@
 ミク: ——今日も、たくさん歌を歌おう
 
 
-2431 areatalk_ev_theater_015
+15 2431:areatalk_ev_theater_015
 
 [開かれた窓のセカイ]
 
@@ -169,7 +169,7 @@
 ミク: ここに来てくれた想いの持ち主のみんなに見せたら、 笑顔になってくれるかな
 
 
-2432 areatalk_ev_theater_016
+16 2432:areatalk_ev_theater_016
 
 [開かれた窓のセカイ]
 
@@ -180,7 +180,7 @@
 ミク: おうちに飾ってある宝物、たくさん見せてくれたな
 
 
-2433 areatalk_ev_theater_017
+17 2433:areatalk_ev_theater_017
 
 [開かれた窓のセカイ]
 
@@ -192,7 +192,7 @@
 ミク: きっと、大切な友達なんだろうな
 
 
-2434 areatalk_ev_theater_018
+18 2434:areatalk_ev_theater_018
 
 [開かれた窓のセカイ]
 
@@ -204,7 +204,7 @@
 ミク: 私もあんな風に、想いの持ち主のみんなに 寄り添っていきたいな
 
 
-2435 areatalk_ev_theater_019
+19 2435:areatalk_ev_theater_019
 
 [開かれた窓のセカイ]
 
@@ -215,7 +215,7 @@
 ミク: あの時より想いを込めて歌えてる気がするし、 もっと、素敵な歌にしたいな
 
 
-2436 areatalk_ev_theater_020
+20 2436:areatalk_ev_theater_020
 
 [開かれた窓のセカイ]
 
@@ -226,7 +226,7 @@
 ミク: ——セカイを超えて届くくらい、たくさん想いを込めて歌おう
 
 
-2437 areatalk_ev_theater_021
+21 2437:areatalk_ev_theater_021
 
 [開かれた窓のセカイ]
 
@@ -237,7 +237,7 @@
 ミク: あんな風に心を熱くする歌、いつか、私も歌ってみたいな
 
 
-2438 areatalk_ev_theater_022
+22 2438:areatalk_ev_theater_022
 
 [開かれた窓のセカイ]
 
@@ -249,7 +249,7 @@
 ミク: ただ一心に、感じるままを歌おう
 
 
-2439 areatalk_ev_theater_023
+23 2439:areatalk_ev_theater_023
 
 [開かれた窓のセカイ]
 
@@ -260,7 +260,7 @@
 ミク: ……私も、元気をもらえたな
 
 
-2440 areatalk_ev_theater_024
+24 2440:areatalk_ev_theater_024
 
 [開かれた窓のセカイ]
 
@@ -272,7 +272,7 @@
 ミク: わ……わんだほーい！
 
 
-2441 areatalk_ev_theater_025
+25 2441:areatalk_ev_theater_025
 
 [開かれた窓のセカイ]
 
@@ -283,7 +283,7 @@
 ミク: ロボットの寧々はダンスが上手で—— ぐるぐるするのはたくさん目が回ったけど、楽しかった
 
 
-2442 areatalk_ev_theater_026
+26 2442:areatalk_ev_theater_026
 
 [開かれた窓のセカイ]
 
@@ -294,7 +294,7 @@
 ミク: ……元気に、いっぱい飛んでるといいな
 
 
-2443 areatalk_ev_theater_027
+27 2443:areatalk_ev_theater_027
 
 [開かれた窓のセカイ]
 
@@ -305,7 +305,7 @@
 ミク: 曲作りを頑張りたいんだろうな……。 でも……いい曲を作るためにも、ご飯は食べてほしい
 
 
-2444 areatalk_ev_theater_028
+28 2444:areatalk_ev_theater_028
 
 [開かれた窓のセカイ]
 
@@ -316,7 +316,7 @@
 ミク: ……あの時書いてた曲、きっともう完成してるよね。 どんな曲になったんだろう
 
 
-2445 areatalk_ev_theater_029
+29 2445:areatalk_ev_theater_029
 
 [開かれた窓のセカイ]
 
@@ -327,7 +327,7 @@
 ミク: 今の、このセカイを見せられて、 よかったな
 
 
-2446 areatalk_ev_theater_030
+30 2446:areatalk_ev_theater_030
 
 [開かれた窓のセカイ]
 
@@ -338,7 +338,7 @@
 ミク: あっちのセカイなら大丈夫かもしれないけど、 ここだと天井に頭ぶつけちゃうかも……
 
 
-2447 areatalk_ev_theater_031
+31 2447:areatalk_ev_theater_031
 
 [開かれた窓のセカイ]
 
@@ -349,7 +349,7 @@
 ミク: ……私も、他の『私』と同じように 想いの持ち主のみんなを支えたいな
 
 
-2448 areatalk_ev_theater_032
+32 2448:areatalk_ev_theater_032
 
 [開かれた窓のセカイ]
 
@@ -360,7 +360,7 @@
 ミク: 練習であんなにすごいなら、 本番のライブは、どれくらいキラキラになるんだろう？
 
 
-2449 areatalk_ev_theater_033
+33 2449:areatalk_ev_theater_033
 
 [開かれた窓のセカイ]
 
@@ -372,7 +372,7 @@
 ミク: ……かっこいいな
 
 
-2450 areatalk_ev_theater_034
+34 2450:areatalk_ev_theater_034
 
 [開かれた窓のセカイ]
 
@@ -383,7 +383,7 @@
 ミク: あんな先輩がいたら、安心だろうな
 
 
-2451 areatalk_ev_theater_035
+35 2451:areatalk_ev_theater_035
 
 [開かれた窓のセカイ]
 
@@ -394,7 +394,7 @@
 ミク: きっとああやって、自分にできるやり方で 想いの持ち主と寄り添っていけばいいんだ
 
 
-2452 areatalk_ev_theater_036
+36 2452:areatalk_ev_theater_036
 
 [開かれた窓のセカイ]
 
@@ -405,7 +405,7 @@
 ミク: すごく、優しかった
 
 
-2453 areatalk_ev_theater_037
+37 2453:areatalk_ev_theater_037
 
 [開かれた窓のセカイ]
 

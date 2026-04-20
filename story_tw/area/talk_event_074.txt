@@ -1,4 +1,4 @@
-1536 areatalk_ev_wonder_10_001
+1 1536:areatalk_ev_wonder_10_001
 
 【主題樂園】
 
@@ -15,7 +15,7 @@
 類：（在這種時候會果斷去嘗試，真不愧是司。）
 
 
-1537 areatalk_ev_wonder_10_002
+2 1537:areatalk_ev_wonder_10_002
 
 【主題樂園】
 
@@ -31,7 +31,7 @@
 笑夢：欸嘿嘿，可以啊♪ 那麼，我要唱囉～☆
 
 
-1538 areatalk_ev_wonder_10_003
+3 1538:areatalk_ev_wonder_10_003
 
 【神山高中】
 
@@ -48,7 +48,7 @@
 寧寧：嗯，好，麻煩你了。
 
 
-1539 areatalk_ev_wonder_10_004
+4 1539:areatalk_ev_wonder_10_004
 
 【主題樂園】
 
@@ -68,7 +68,7 @@
 笑夢：好～！
 
 
-1540 areatalk_ev_wonder_10_005
+5 1540:areatalk_ev_wonder_10_005
 
 【奇幻樂園的「世界」 - 遊樂園】
 

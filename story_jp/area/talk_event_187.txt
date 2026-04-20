@@ -1,4 +1,4 @@
-2764 areatalk_ev_street_23_001
+1 2764:areatalk_ev_street_23_001
 
 [スクランブル交差点]
 
@@ -14,7 +14,7 @@
 冬弥: せっかくの彰人の心遣いだ。 しっかり味わって食べさせてもらおう
 
 
-2765 areatalk_ev_street_23_002
+2 2765:areatalk_ev_street_23_002
 
 [ストリートのセカイ - カフェ]
 
@@ -29,7 +29,7 @@
 レン (VBS): もちろん！　一緒に歌おうよ！
 
 
-2766 areatalk_ev_street_23_003
+3 2766:areatalk_ev_street_23_003
 
 [神山高校]
 
@@ -43,7 +43,7 @@
 杏: あはは、そっか！ それなら送って大正解だったね！
 
 
-2767 areatalk_ev_street_23_004
+4 2767:areatalk_ev_street_23_004
 
 [センター街]
 
@@ -57,7 +57,7 @@
 冬弥: そうだな
 
 
-2788 areatalk_monthly2512_001
+5 2788:areatalk_monthly2512_001
 
 [神山高校]
 
@@ -74,7 +74,7 @@
 寧々: （怒る演技の時、迫力ないの困るし 練習しておこうかな）
 
 
-2789 areatalk_monthly2512_002
+6 2789:areatalk_monthly2512_002
 
 [神山高校]
 

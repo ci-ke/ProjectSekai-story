@@ -1,4 +1,4 @@
-2278 areatalk_ev_shuffle_45_001
+1 2278:areatalk_ev_shuffle_45_001
 
 【全向十字路口】
 
@@ -17,7 +17,7 @@
 志步&宁宁&绘名：（确实……）
 
 
-2279 areatalk_ev_shuffle_45_002
+2 2279:areatalk_ev_shuffle_45_002
 
 【购物中心】
 
@@ -37,7 +37,7 @@
 绘名：（关系真好啊，不愧是从小就认识的。）
 
 
-2280 areatalk_ev_shuffle_45_003
+3 2280:areatalk_ev_shuffle_45_003
 
 【全向十字路口】
 
@@ -55,7 +55,7 @@
 宁宁：…………！ 嗯，你想问什么就问吧。
 
 
-2281 areatalk_ev_shuffle_45_004
+4 2281:areatalk_ev_shuffle_45_004
 
 【奇幻乐园「世界」 - 游乐园】
 
@@ -71,7 +71,7 @@
 巡音流歌（WxS）：试了才知道嘛♪快，来体验一下吧？
 
 
-2282 areatalk_ev_shuffle_45_005
+5 2282:areatalk_ev_shuffle_45_005
 
 【宫益坂女子学园】
 

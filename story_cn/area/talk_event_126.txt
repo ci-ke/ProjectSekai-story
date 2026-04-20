@@ -1,4 +1,4 @@
-2191 areatalk_ev_shuffle_44_001
+1 2191:areatalk_ev_shuffle_44_001
 
 【教室「世界」 - 学校】
 
@@ -13,7 +13,7 @@ KAITO（Ln）：得好好努力？ ……你是说要和它一起运动吗？
 KAITO（Ln）：这确实很重要…… 不过，感觉难度很高啊……
 
 
-2192 areatalk_ev_shuffle_44_002
+2 2192:areatalk_ev_shuffle_44_002
 
 【全向十字路口】
 
@@ -30,7 +30,7 @@ KAITO（Ln）：这确实很重要…… 不过，感觉难度很高啊……
 彰人：（……下次一定要夺冠啊。石原、麦克思。）
 
 
-2193 areatalk_ev_shuffle_44_003
+3 2193:areatalk_ev_shuffle_44_003
 
 【中央街】
 
@@ -51,7 +51,7 @@ KAITO（Ln）：这确实很重要…… 不过，感觉难度很高啊……
 彰人：……！好吃。
 
 
-2194 areatalk_ev_shuffle_44_004
+4 2194:areatalk_ev_shuffle_44_004
 
 【购物中心】
 
@@ -71,7 +71,7 @@ KAITO（Ln）：这确实很重要…… 不过，感觉难度很高啊……
 彰人：好，加油啊。
 
 
-2195 areatalk_ev_shuffle_44_005
+5 2195:areatalk_ev_shuffle_44_005
 
 【神山高校】
 

@@ -1,4 +1,4 @@
-2293 areatalk_ev_street_18_001
+1 2293:areatalk_ev_street_18_001
 
 【十字路口】
 
@@ -17,7 +17,7 @@
 彰人：……嗯，這樣啊。 那我只在看LIVE的時候穿喔。
 
 
-2294 areatalk_ev_street_18_002
+2 2294:areatalk_ev_street_18_002
 
 【主題樂園】
 
@@ -32,7 +32,7 @@
 心羽：……可以嗎？ 謝謝你，小杏！
 
 
-2295 areatalk_ev_street_18_003
+3 2295:areatalk_ev_street_18_003
 
 【主題樂園】
 
@@ -49,7 +49,7 @@
 彰人：（……糟糕，完全有聽沒有懂……）
 
 
-2296 areatalk_ev_street_18_004
+4 2296:areatalk_ev_street_18_004
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -64,7 +64,7 @@
 心羽：小未來，我們快過去吧！
 
 
-2297 areatalk_ev_street_18_005
+5 2297:areatalk_ev_street_18_005
 
 【街頭的「世界」 - 咖啡廳】
 
@@ -83,7 +83,7 @@ MEIKO（VBS）：如此一來，就算看到對手打回來再做反應，也來
 初音未來（VBS）：好啊，那就由你來發球吧。
 
 
-2320 areatalk_monthly2407_003
+6 2320:areatalk_monthly2407_003
 
 【街頭的「世界」 - 咖啡廳】
 

@@ -1,4 +1,4 @@
-1731 areatalk_ev_shuffle_32_001
+1 1731:areatalk_ev_shuffle_32_001
 
 [スクランブル交差点]
 
@@ -18,7 +18,7 @@
 えむ・瑞希: 『おー！』
 
 
-1732 areatalk_ev_shuffle_32_002
+2 1732:areatalk_ev_shuffle_32_002
 
 [ショッピングモール]
 
@@ -35,7 +35,7 @@
 奏: （望月さんっていろいろできるけど、褒めるのも上手だな）
 
 
-1733 areatalk_ev_shuffle_32_003
+3 1733:areatalk_ev_shuffle_32_003
 
 [センター街]
 
@@ -51,7 +51,7 @@
 えむ: やったー！　どんな服なんだろ～！ 楽しみ～っ☆
 
 
-1734 areatalk_ev_shuffle_32_004
+4 1734:areatalk_ev_shuffle_32_004
 
 [教室のセカイ - 学校]
 
@@ -69,7 +69,7 @@
 穂波: ふふ。じゃあ次に来る時は、お裁縫の道具を持ってくるね
 
 
-1735 areatalk_ev_shuffle_32_005
+5 1735:areatalk_ev_shuffle_32_005
 
 [教室のセカイ - 学校]
 
@@ -87,7 +87,7 @@
 リン: あっ、ブライダルフェスタの展示場で見たよ！ たしかに、着てるところ見てみたいかも♪
 
 
-1740 areatalk_monthly2305_005
+6 1740:areatalk_monthly2305_005
 
 [教室のセカイ - 学校]
 

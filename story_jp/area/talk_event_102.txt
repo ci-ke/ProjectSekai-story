@@ -1,4 +1,4 @@
-1771 areatalk_ev_shuffle_34_001
+1 1771:areatalk_ev_shuffle_34_001
 
 [スクランブル交差点]
 
@@ -14,7 +14,7 @@
 瑞希: オッケー！ それでは１軒目のお店にレッツゴー♪
 
 
-1772 areatalk_ev_shuffle_34_002
+2 1772:areatalk_ev_shuffle_34_002
 
 [ショッピングモール]
 
@@ -30,7 +30,7 @@
 瑞希: はいはーい！　どういたしまして！
 
 
-1773 areatalk_ev_shuffle_34_003
+3 1773:areatalk_ev_shuffle_34_003
 
 [スクランブル交差点]
 
@@ -47,7 +47,7 @@
 瑞希: （愛莉ちゃん達の力になれたみたいだし……。 本当に、手伝ってよかったな）
 
 
-1774 areatalk_ev_shuffle_34_004
+4 1774:areatalk_ev_shuffle_34_004
 
 [宮益坂女子学園]
 
@@ -63,7 +63,7 @@
 愛莉: 教えてくれてありがとう！ このあとさっそく見てみるわね！
 
 
-1775 areatalk_ev_shuffle_34_005
+5 1775:areatalk_ev_shuffle_34_005
 
 [ショッピングモール]
 
