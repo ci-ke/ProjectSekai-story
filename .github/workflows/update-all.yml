@@ -13,4 +13,5 @@ jobs:
     with:
       run_command: "uv run --no-dev -m action.all_pjsk"
       commit_message: "Update all"
-      
+    secrets:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
