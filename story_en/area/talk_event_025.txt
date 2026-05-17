@@ -1,0 +1,190 @@
+1 1039:areatalk_ev_wonder_04_001
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Emu Otori)
+
+Emu: Hey, Tsukasa! I came up with a really cool self-intro like the one you do. Wanna hear it♪
+Tsukasa: You did? I don't see why not...!
+Emu: Okay☆ Here it goes!
+Emu: She has red, blazing wings☆ She always makes everyone smile! She's Phoenix Emu!
+Tsukasa: That isn't really a self-intro... It's sounds like something from a superhero show...
+Tsukasa: But it's not a bad start. You got your point across and that's what matters most!
+Tsukasa: Now then! Let's polish it up by using some of my genius and magic!
+Emu: Really?! You're gonna help me with it?! Yay! Thanks, Tsukasa♪
+
+
+2 1040:areatalk_ev_wonder_04_002
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Nene Kusanagi)
+
+Nene: Oh, Tsukasa, perfect timing... Do you know where Emu went? I went to the stage but I only saw Rui there...
+Tsukasa: No, I don't think I've seen her today either. Do you need to see her that badly?
+Nene: I just wanted to tell her that I found a taiyaki place that looked pretty good.
+Nene: I even got some for everyone, so I thought we could try them together.
+Tsukasa: For me and Rui too?!
+Tsukasa: You've never done anything like this before...! Wait, does this mean the world is about to end tomorrow or something...?!
+Nene: It's not going to, so shut up... Wait, you're not doing anything now, right? Help me look for her before all of these get cold.
+Tsukasa: Alright then. I'll do a quick lap around the park. You try looking in some other places that she might be.
+Nene: Okay, sounds good...
+Nene: (I didn't think that he'd actually help. Maybe he wants a taiyaki too...?)
+
+
+3 1041:areatalk_ev_wonder_04_003
+
+[Kamiyama High School]
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Rui: Hello, Tsukasa! Has your life been feeling a little bland lately?
+Tsukasa: Huh? What's this all the sudden...?
+Rui: Oh, you poor thing! I knew it! Your life could use a little more spice!
+Tsukasa: Hey, you didn't give me a chance to respond...!
+Rui: I have just the cure for someone like you... Here!
+Tsukasa: I said listen... Wait, what's this? An article from a news site...?
+Tsukasa: Troupe famous for employing tricky effects in their stories and shows to make first appearance at Shibuya Park?
+Rui: Yes. Why don't we invite Emu and Nene, and go see it together?
+Tsukasa: You could've just led with that, you know...?
+Rui: Hehehe. But that would've been so dull. Anyways, what do you say?
+Tsukasa: Yes, why not? It looks interesting. I'd be up for seeing it.
+Rui: Wonderful. I'll ask Emu and Nene to hear what they think.
+
+
+4 1042:areatalk_ev_wonder_04_004
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
+
+Emu: Practice♪ Practice♪ It's so much fun♪ Singing and dancing, we do it a ton♪
+Tsukasa: Emu seems pretty happy today.
+Nene: Probably because PXL's finally out of the woods now, right?
+Tsukasa: Right. I'm glad she's got her smile back too.
+Emu: Tsukasa, Nene, Rui! Let's go to the Wonder Stage already♪
+Tsukasa: Alright, but you don't need to yell like that!
+Nene: He says as he shouts back...
+Rui: I say let them be. Anyways, Emu's waiting for us. Shall we make our way over to our stage?
+
+
+5 1043:areatalk_ev_shuffle_03_023
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin)
+
+Rin: Nene☆, Emu☆ Where could they be♪
+Rin: I practiced singing and dancing with Miku so much! I even got my lines down perfect♪
+Rin: Hehe. I can't wait until we start☆ Our one-day-girls-only show♪
+
+
+6 1044:areatalk_ev_shuffle_03_026
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Emu Otori, Kagamine Rin)
+
+Emu: Hey, Rin! You've been exploring this whole SEKAI, right?
+Rin: Hehe. Yeah, I was♪ I even went on all the rides and attractions that you can't see from here♪
+Emu: Wh-Whoa...!
+Emu: What did you get to go on? Tell me! Tell me!
+Rin: Sure☆ But since you're here... Let's ride them together♪
+Emu: R-Ride them...?! I can ride them too?!
+Rin: Of course! You can invite everyone else too♪ Let's ride them all together☆
+Emu: Yeah! We're absolutely, one-million percent doing that♪
+
+
+7 1045:areatalk_ev_shuffle_03_035
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, KAITO)
+
+Rin: Oh, there he is! Hey, KAITO, can you be a seeker for us?
+KAITO: A seeker...? Oh, that's right! You did say something about playing hide and seek with the plushies.
+KAITO: Well, we don't have any shows today so... I'll be happy to oblige.
+Rin: Awesome! Thanks, KAITO♪ Okay, I'll go find a place to hide☆
+Rin: Oh, I almost forgot! We're allowed to hide anywhere in this SEKAI☆
+KAITO: What!? You mean this entire SEKAI!? Hmm... Will I actually be able to find everyone?
+
+
+8 1046:areatalk_ev_shuffle_03_037
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Kagamine Len)
+
+Rin: Hey, Len. Weren't you gonna try doing some acrobatics? You know, like the one where Miku spins around a bunch?
+Len: Hmm... I've been wanting to but... I'm focusing on stage sword fighting right now!
+Rin: Stage sword fighting? You mean where you act out duels and stuff?
+Len: Yeah! I've been learning from KAITO using practice swords!
+Rin: That's pretty cool! I've been practicing acrobatics, so let's compete to see who can get better first♪
+Len: Oh, that sounds fun! You're on!
+
+
+9 1083:areatalk_monthly2107_001
+
+[Music Shop]
+
+(Character: Tsukasa Tenma, Emu Otori)
+
+Tsukasa: You said you needed help finding a certain song, so I came... But do you know what you're looking for?
+Emu: Well, it's classical music that grandpa used for one of his shows a long time ago...
+Emu: It started like... Dur-dun~~~♪ Du-dun~~~♪ Du-dun~~~♪
+Tsukasa: I can't really say... Do you know anything else about this song?
+Emu: Sure, the rest of it goes like...! Du-du-du-du~do♪ Du-du-du-du~do♪ Du-du-du~do♪
+Tsukasa: Hm?! I've heard that part before!
+Tsukasa: Argh, if only Toya were here! He'd probably know already! No, asking him is a last resort...
+Tsukasa: Emu, keep going! Let me hear the rest!
+Emu: Okay☆ I'll sing my lungs out for you♪
+
+
+10 1084:areatalk_monthly2107_002
+
+[Kamiyama High School]
+
+(Character: Nene Kusanagi, Rui Kamishiro)
+
+Nene: Huh? Rui? What are you doing standing out in front of the student store like this? Did you get here too late to buy the bread you wanted?
+Rui: No, I'm just here to observe.
+Nene: Observe?
+Rui: This fight to survive. This great battle for bread. It's so, catastrophic... I thought it emulates the end of the world rather well.
+Rui: It's an interesting peek into the hearts of all those we see and are surrounded by each day.
+Nene: Uh, okay... Are you saying that you like to people watch...?
+Rui: Hehehe. I'll leave that to your imagination.
+Rui: By the way, Nene, if you're about to have lunch, shall we invite Tsukasa and Emu and eat together in SEKAI?
+Rui: There are some ideas that I'd like to discuss concerning our next show as well. It'd be nice to hear what you all think.
+Nene: Yeah, sure. You go get Tsukasa, and I'll try getting a hold of Emu.
+Rui: Wonderful. Thank you, Nene.
+
+
+11 1105:areatalk_ev_shuffle_03_029
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Nene Kusanagi, Kagamine Rin)
+
+Rin: Nene, your stage costume's sooo cute!
+Nene: Thanks. Yours suits you really well too, Rin.
+Rin: Thanks! This is actually one of my favorites♪ Oh, Nene, wanna try having matching costumes?
+Nene: Matching costumes? Sure, that might be kinda fun to try...
+Rin: Yay☆ Then let's get changed♪
+Nene: What?! Y-You mean right now...?!
+
+
+12 1106:areatalk_ev_shuffle_03_030
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Rui Kamishiro, Kagamine Rin)
+
+Rin: Rui! Hey, Rui♪ Do you know where Nene is?
+Rui: Nene's busy with some family business and hasn't come here yet.
+Rin: Aww, nooo...!! I really wanted to sing with her.
+Rui: She'll be here soon. In the meantime, would you like to see some balloon art?
+Rui: Flowers, animals, food... You name it and I'll make it.
+Rin: Anything?! That's awesome! Then, um...! A dog or a pony would be nice♪
+Rui: Excellent choices. Let's begin with a dog, shall we? Hehe. Just sit and wait while you await the arrival of your canine companion...
+
+

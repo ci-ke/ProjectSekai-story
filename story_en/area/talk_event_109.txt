@@ -1,0 +1,105 @@
+1 2007:areatalk_ev_street_15_001
+
+[Kamiyama High School]
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Akito: Morning... Lemme guess. You overslept this morning?
+Toya: Hm? Yes, I did. The thing is, I stayed up late last night working on some things.
+Akito: Right. And you had to get out of your house in a hurry to make it here in time.
+Toya: Yes, that's right. How did you know...?
+Akito: Your bedhead...
+Akito: There's a tuft of hair behind your right ear that's really sticking up. You might wanna fix it.
+Toya: I'll do that...
+
+
+2 2008:areatalk_ev_street_15_002
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome)
+
+Kohane: Shinonome, did you have your usual morning practice today?
+Akito: Yeah. I get all antsy if I take a day off.
+An: See what I mean?! That's why Akito's the perfect person for this! Let's ask him!
+Akito: Hm? Ask me what...?
+An: Oh, so... You know how we've all been practicing pretty late recently? It's been making me super sleepy every morning...
+Kohane: Me too. My head feels all foggy when I'm getting ready for the day...
+Kohane: So, Shinonome! Can you show us any tricks for getting yourself to wake up?
+Akito: This isn't really a trick... But you could try building a routine, like I have my daily workouts.
+An: A routine...? So, we should have something that we always do in the morning?
+Akito: Yeah. Though, I don't know if that'll be any help.
+Kohane: Thanks, Shinonome! We'll keep that in mind!
+
+
+3 2009:areatalk_ev_street_15_003
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+An: Finally, we're done with practice! I'm sooo exhausted!!
+Akito: We've been singing all since this morning. I've worked up a huge appetite.
+An: Me too. Hey, while we're all together, wanna go grab a bite together?
+Toya: Yes, but where? None of our usual places are around here, Akito...
+Kohane: Oh, but a place that one of my classmates goes to all the time should be just around the corner.
+Kohane: It's a cafe that bakes its own bread, and it's really good! Their coffee's also pretty popular!
+Toya: Coffee? That sounds nice.
+Akito: Then, wanna head there?
+An: Sounds like we're unanimous, so let's go! Kohane, mind showing us the way? I'm starved!
+Kohane: Okay! Everyone, follow me!
+
+
+4 2010:areatalk_ev_street_15_004
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Megurine Luka)
+
+Akito: Hey, I came to take a break. Uh, Luka, is it just you here today...?
+Luka (VBS): Yes! MEIKO and Miku are out running errands.
+Luka (VBS): But not to worry! I'm here and at your service!
+Akito: ...? Um, I'm not here to see you, Luka...
+Luka (VBS): But you are here to take a break, yes? Ta-daa! Look at this apron! MEIKO and Miku left me in charge while they're out!
+Luka (VBS): This means I can provide you with some simple dishes and drinks. So, come on in!
+Akito: Oh, okay... Wait, Luka, you can cook?
+Luka (VBS): Haha. Today, I'd only be just taking things out of the refrigerator. I didn't actually cook anything. But I can if I put my mind to it! I know I can!
+Luka (VBS): Anyway, come in! I've got sandwiches and juice! Oh, there's also KAITO's favorite ice cream in the freezer...!
+Akito: Hey, that sounds good... In that case, table for one.
+
+
+5 2011:areatalk_ev_street_15_005
+
+[Street SEKAI - Cafe]
+
+(Character: Megurine Luka, MEIKO)
+
+Luka (VBS): Grr! MEIKO! You're too good at reversi!
+Luka (VBS): I mean, you managed to flip all of my pieces. You didn't cheat or anything, did you...?!
+MEIKO (VBS): No, I didn't cheat. There's a little trick to it. Anyway, let's clean everything up and...
+Luka (VBS): No, let's play again! I want to get this sour taste out of my mouth!!
+MEIKO (VBS): Maybe some other time. I have to open up the cafe soon.
+Luka (VBS): Grr...
+Luka (VBS): Oh, I know...! MEIKO, lend me an apron!
+Luka (VBS): I'll help today!! In return, we'll play again when we have some free time!
+MEIKO (VBS): *Sigh* Fine, if you're willing to go that far. We can play again when things have calmed down...
+Luka (VBS): Okay, I'm not losing next time! But first, I'm going to make the cafe spotless!
+
+
+6 2123:areatalk_monthly2312_003
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Megurine Luka, KAITO)
+
+KAITO (VBS): Huh? There's something you'd like to ask me?
+Rin (VBS): So, Luka and I tried making some pancakes, but we weren't able to get them to be fluffy like the ones you made.
+Luka (VBS): Which is why we'd like for you to show us how you did that!
+KAITO (VBS): Hmm... Well... I have no problem teaching you, but certain steps are confidential...
+Rin (VBS): A scoop of ice cream... No, I'll give you two scoops...!
+KAITO (VBS): Vanilla and chocolate...?
+Rin & Luka: Done!
+KAITO (VBS): Okay, deal! Get ready! I'm going to teach you a really amazing trick!
+Rin & Luka: Hooray!
+
+

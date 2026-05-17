@@ -1,0 +1,81 @@
+1 2522:areatalk_ev_shuffle_53_001
+
+[Main Street]
+
+(Character: Ichika Hoshino, Saki Tenma, Kanade Yoisaki)
+
+Saki: Kanade, did you know there's a shop that specializes in instant noodles?!
+Kanade: Interesting, I didn't know that.
+Ichika: Oh, I might've heard about that.
+Ichika: They carry noodles that are only sold in certain parts of the country, right? If I recall, you can even eat what you buy right at the shop.
+Saki: Yeah! Why don't we all go together sometime?! You might find some noodles that you really like!
+Kanade: Yes, I wouldn't mind adding a few new ones to my rotation.
+Ichika: Oh, in that case, why don't we buy different flavors and share them? That would allow us to try a wide variety.
+Saki: Nice idea, Ichi! I wanna try lots of different types and flavors too!
+
+
+2 2523:areatalk_ev_shuffle_53_002
+
+[Main Street]
+
+(Character: Saki Tenma, Kanade Yoisaki)
+
+Saki: Kanade, these are for you!
+Kanade: Huh...? Are these coupons?
+Saki: Yes! They're for the cafe I work at!
+Saki: I owe you a ton for everything you did, so please take them!
+Kanade: But you've also helped me a lot recently. I'm not sure I should take these...
+Saki: No, I insist! I'd love it if you stopped by since I wanna talk to you some more!
+Kanade: I see. Then, I'll take these, and promise to stop by the next chance I get.
+Saki: Hehe. Yay! I'll be waiting!
+
+
+3 2524:areatalk_ev_shuffle_53_003
+
+[Scramble Crossing]
+
+(Character: Ichika Hoshino, Kanade Yoisaki)
+
+Kanade: Tenma really loves makeup and fashion, doesn't she?
+Kanade: I really don't know anything about either, so I ended up listening to all of her enthusiastic lectures.
+Ichika: Hehe. I can picture that.
+Kanade: That reminds me... I felt that you two have some things in common, Hoshino.
+Ichika: Huh? Saki and I do...?
+Kanade: Yes. You're both very straightforward when talking about the things you love or wish to do.
+Ichika: Oh... Now that you mention it, you might be right.
+Ichika: Actually, Kanade, you might be in the same boat as us. I mean, you talk all the time about the things you want to do.
+Kanade: Oh... Yes, you might be right.
+Ichika: Hehe. Since we have that in common, let's keep sharing about the things we love and want to do moving forward.
+
+
+4 2525:areatalk_ev_shuffle_53_004
+
+[Empty SEKAI - Lake]
+
+(Character: Kanade Yoisaki, Kagamine Rin)
+
+Kanade: You're wearing the brooch Mizuki gave you again.
+Rin (N25): I just felt like wearing it again today...
+Kanade: I see. It looks good on you.
+Kanade: Would you consider it a favorite now...? It is nice to be able to find comfort in these sorts of things.
+Rin (N25): Don't you have anything like that, Kanade?
+Kanade: Me? Well... I suppose that would be the sweats I always wear.
+Kanade: I have several sets of them because they're so comfortable and convenient.
+Rin (N25): Hmm... You like them that much?
+
+
+5 2526:areatalk_ev_shuffle_53_005
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Kohane: I talked to Saki the other day using a calling app, and I'm still amazed that you can chat with your friends back in Japan and see their faces while you're abroad.
+Kohane: I knew it'd be easy, but it just hit me when I actually got to try it out.
+Toya: It is incredible to think that technology has progressed to the point of being able to instantaneously cover such vast distances...
+Toya: If only there were a mode of transportation with the same capabilities.
+Kohane: A mode of transportation?
+Toya: Oh, I was just imagining a world where airplanes are no longer necessary in order to travel around the world...
+Kohane: R-Right. For your sake, Aoyagi, I hope that day comes soon...!
+
+

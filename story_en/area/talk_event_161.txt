@@ -1,0 +1,117 @@
+1 2562:areatalk_ev_night_20_001
+
+[Main Street]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: Kanade, I'm so glad that you're feeling better now!
+Ena: Me too... I was really scared when I heard that you collapsed.
+Kanade: I'm sorry. I promise to be more careful in the future.
+Ena: Good. While you're over at her house, Mafuyu, you gotta stay on her case about eating properly.
+Mafuyu: Okay, I will...
+Kanade: Haha...
+Mizuki: Come to think of it, didn't Mafuyu also forget to eat that one time and she only realized when we met up?
+Ena: Yeah, I remember! In that case, maybe we should check in with them at set times and remind them both to eat.
+Mizuki: Oh, or we could set up a bot on Nightcord that asks them to.
+Kanade: Umm... I don't think that's necessary. We'll be more careful.
+
+
+2 2563:areatalk_ev_night_20_002
+
+[Main Street]
+
+(Character: Kanade Yoisaki, Ena Shinonome)
+
+Ena: Huh? Kanade? What are you doing here?
+Kanade: I was on my way to the CD shop...
+Kanade: I thought I should move around a bit since I've been spending so much time sleeping. So I'm taking a bit of a long route today.
+Ena: I mean, you did need to rest. But I can also see why you'd want to stretch your legs.
+Ena: Anyway, can I join you? I still have some time before I have to go to school, so I might as well get in a bit of exercise.
+Kanade: Yes, of course. In that case, shall we?
+
+
+3 2564:areatalk_ev_night_20_003
+
+[Shopping Mall]
+
+(Character: Kanade Yoisaki, Mizuki Akiyama)
+
+Mizuki: You hardly ever go out shopping, Kanade. What are you here to buy?
+Kanade: Umm... I'm here to buy this “Perfect Rice” stuff. It says, “Every grain is part of a complete meal! Keeps you full of energy for hours!”
+Mizuki: Whoa, that sounds super sketchy... Are you really gonna buy this stuff?
+Kanade: I haven't decided yet. It honestly did feel like a scam at first, but it would be nice to not have to rest so much.
+Mizuki: Sure, but... Incidentally, how much does it cost?
+Kanade: Oh, I took a screenshot of the price... Here it is...
+Mizuki: Oh, it's basically the same price as the rice you see at supermarkets. And they're not making you sign up for a six-month subscription or anything?
+Kanade: They're apparently handing out free samples at the promotional event they're holding today in the plaza. Would you like to go together, Mizuki?
+Mizuki: You sure? I do have some time to spare before my shift starts, so let's go!
+
+
+4 2565:areatalk_ev_night_20_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Kagamine Rin)
+
+Mafuyu & Rin: ...
+Rin (N25): So, Mafuyu, when you and the others have nothing to talk about, what do you all usually do?
+Mafuyu: We talk about things which might be interesting for the others... We might ask what we're each wearing or what our plans for the day are.
+Rin (N25): ...
+Mafuyu: We'll also talk about the weather...
+Rin (N25): What was the weather like today?
+Mafuyu: Cloudy.
+Rin (N25): ...
+Mafuyu: ...
+Rin (N25): It's so hard to keep a conversation going...
+Mafuyu: I don't think you have to try so hard.
+Rin (N25): But I'm bored...
+Mafuyu: I see...
+
+
+5 2566:areatalk_ev_night_20_005
+
+[Empty SEKAI - Lake]
+
+(Character: Kanade Yoisaki, KAITO)
+
+Kanade: Oh...
+Kanade: Umm... I feel good today. I've been resting for several days now.
+KAITO (N25): And why are you reporting this to me?
+Kanade: Huh? Uhh... I guess because the other day you told me to go home, because I didn't look like I felt well.
+KAITO (N25): Hmph...
+KAITO (N25): Rin and the others made a fuss about it for a while, but I guess it's true that you're all better now.
+KAITO (N25): Don't pull anything like that again. I don't need this place getting loud.
+Kanade: R-Right...
+Kanade: (I did make Rin and the others worry a lot, so I should be more careful in the future.)
+
+
+6 2570:areatalk_monthly2503_004
+
+[Main Street]
+
+(Character: Mafuyu Asahina, Ena Shinonome)
+
+Ena: Oh, Mafuyu! Are you free right now? I need you to play this game for me.
+Mafuyu: A game? I'm not particularly good at those.
+Ena: I mean, it's a game, but it's a quiz game! And the prize is this really cute plushie. I've tried a bunch of times already, but still haven't come close to winning it.
+Mafuyu: I'm willing to do one attempt...
+Ena: Really?! Thanks, Mafuyu! I promise to buy you some really amazing flavored tea in return!
+Mafuyu: You're talking like I've already won that plushie...
+Ena: I appreciate you even making the attempt! Anyway, it's over this way!
+
+
+7 2571:areatalk_monthly2503_005
+
+[Empty SEKAI - Lake]
+
+(Character: Mafuyu Asahina, Kagamine Len)
+
+Len (N25): Um, Mafuyu...? Do you know how to tie bows nicely?
+Mafuyu: Bows?
+Len (N25): Y-Yeah... I always end up tying these funny granny knots whenever I try to fix the bows on the others' hair and clothes...
+Mafuyu: It may be better for me to show you a video instead of trying to explain how using just words...
+Len (N25): Oh, in that case, can I go get Luka? She said that she was also having some trouble.
+Mafuyu: Okay. In the meantime, I'll try looking for a good video.
+Len (N25): Great, thanks...!
+
+

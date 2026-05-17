@@ -1,0 +1,99 @@
+1 1405:areatalk_ev_wonder_08_001
+
+[Shopping Mall]
+
+(Character: Tsukasa Tenma, Emu Otori)
+
+Tsukasa: Well, if it isn't Emu! Did you just see a movie?
+Emu: Hi, Tsukasa! Hehe. Actually...!
+Tsukasa: You seem awfully happy. It must've been a wonderful film...
+Emu: Ta-daa♪ This popcorn with caramel sauce is super yummy!
+Tsukasa: Oh, you were here to get popcorn... I thought you were here to see a movie.
+Emu: I did! It was really fun! I got to cheer lots and lots too! I even cheered with the girl next to me♪
+Tsukasa: Oh, you mean one of those movies where you're allowed to cheer and make noise! By the way, what movie did you see?
+Emu: It's called “The Popcorn Knight in the Pressure Cooker World!” The hero's an ear of corn who has to go through all these trials to become a brave popcorn knight!
+Tsukasa: P-Popcorn Knight? The Pressure Cooker World...?
+Tsukasa: That's a lot to process, but you have me curious... Alright, I might just go see a screening of it!
+
+
+2 1406:areatalk_ev_wonder_08_002
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Nene Kusanagi)
+
+Nene: ——♪ ~~~~——♪
+Nene: Okay... My voice should be warm now.
+Tsukasa: “What? A songstress who can cure any illness through singing? I must have her sing for my grandmother...!”
+Nene: Huh? Tsukasa? I thought he went over there to read the script. When did he...?
+Tsukasa: “*Cough* Alas... I don't have much time left. Please, let me hear one last song...”
+Nene: (He's already in character...)
+Nene: (And he's cueing me to sing by staring right at me... Okay, fine.)
+Nene: “Oh, you poor thing. Please, traveler, try to hold on. I'm sure you'll feel much better after I sing for you.”
+
+
+3 1407:areatalk_ev_wonder_08_003
+
+[Kamiyama High School]
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Rui: Hm? Hello, Tsukasa. Where are you going with all those school supplies?
+Tsukasa: Where? I was just heading back to class after studying in the library.
+Tsukasa: Rumor has it that they're giving us a pop quiz in English today, so I decided to review what we were taught most recently.
+Rui: I see. What we were taught most recently...
+Rui: In that case, can you try saying “I'll be practicing for the show after school today?”
+Tsukasa: So, future progressive tense, we meet again. No problem! I just went over that!
+Tsukasa: Let's see... I'll be... Practicing for? Rehearsing for? After school... The show!
+Rui: Hmm... Patchy at best.
+Rui: First, “practicing” was fine. But you need to say “the show” before “after school” and add “today” at the end.
+Tsukasa: Ah, so... I'll be practicing for the show after school today!
+Rui: Yes, your grammar's spot on! As for your pronunciation... I'm sure it'll improve in due time.
+Rui: Also, you said you'd just gone over future progressive tense. Is it giving you some trouble?
+Tsukasa: No, I'm a future star. I should be able to master any tense that involves the “future” simply due to its natural elegance.
+Rui: Elegance? Hehe. I see... That motive suits you rather well, Tsukasa.
+
+
+4 1408:areatalk_ev_wonder_08_004
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Tsukasa Tenma, Hatsune Miku, KAITO)
+
+Miku (WxS): Tsukasa! Tsukasaaa!
+Tsukasa: Whoa! What's gotten into you, Miku?!
+Miku (WxS): You and Thorpe look so cool when you're on the piano, so I wanna learn how to play too!
+Miku (WxS): So, can you teach me...? Pretty please☆
+KAITO: I'm sorry, Tsukasa. She wants to learn how to play “Twinkle, Twinkle, Little Star” the way you did.
+KAITO: Unfortunately, I wouldn't be much of a teacher since I only know a simple, one-handed rendition of it.
+Tsukasa: I see. In that case, I'd be more than happy to help!
+Tsukasa: I'll impart to you both the drills that my mom taught me!
+KAITO: Wait, me too?
+Tsukasa: Hm? That was what I heard. Am I mistaken?
+Miku (WxS): Let's practice together, KAITO! We can even learn how to play “Twinkle, Twinkle, Little Star” together☆
+KAITO: Hehe. Alright. Since you're being so kind, mind teaching me as well?
+Tsukasa: Of course! Sit tight while I go and get the sheet music!
+
+
+5 1409:areatalk_ev_wonder_08_005
+
+[Shopping Mall]
+
+(Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
+
+Emu: Huh? It's Nene and Rui! Yahohoooy!
+Nene: Emu? Tsukasa? What are you two doing here?
+Tsukasa: We bumped into each other in front of the movie theater. What brings you two here?
+Rui: We were looking for some accessories for the costume Robo-Nene will be wearing during our next show.
+Emu: Really?! Oh, can I look too?
+Rui: Yes, of course. I'm sure Nene will appreciate your company.
+Emu: Yay! I've been wanting to go shopping with you again for so long! Let's find something really good, Nene☆
+Nene: Alright, alright.
+Rui: While we're at it, why don't we also look for some accessories for ourselves? Are you free now, Tsukasa?
+Tsukasa: Yes, I should be fine. Let's all look together!
+Emu: Woohoo! It's time to GO GO SHOPPING!
+Nene: Wait, Emu, slow down! You don't have to yank me! I'm right behind you...!
+Rui: Oh dear... The shop we had in mind is actually the other way.
+Tsukasa: Why didn't you say that sooner?! Emu! Nene! The shop's this way!
+
+

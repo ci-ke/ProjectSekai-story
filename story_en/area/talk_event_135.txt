@@ -1,0 +1,101 @@
+1 2293:areatalk_ev_street_18_001
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Toya: I wasn't expecting an artist we met at an event to give us tickets to their next show...
+Kohane: At such a big venue too... It's incredible how they get to do a solo show there.
+An: I know, right?! Why don't we thank them by buying some of their merch when we go? I saw that they're selling T-shirts and towels and stuff!
+An: Check out this shirt, Akito! Pretty cool design, right?
+Akito: Hm? Yeah, it's not bad. The logo's pretty simple, so I could wear it whenever.
+An: See? We should show them our support by wearing matching shirts!
+Akito: Huh?
+Toya: It's not something we'd normally do, but I wouldn't mind if it's for them.
+Toya: They went out of their way to invite us, so I'm sure they'll like it very much if we show them that we enjoyed their show.
+Kohane: Hehe. I agree. I'm also for this idea.
+Akito: Yeah, fair point... But we're only wearing them during the show.
+
+
+2 2294:areatalk_ev_street_18_002
+
+[Theme Park]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Where could Akito and Toya be...? Don't tell me they got sucked into the crowd watching the parade...
+Kohane: *Gasp*
+An: Huh? Did you find them?
+Kohane: No, not them. Umm... I just noticed how that shop is carrying new Phenny merch...
+An: Haha. Oh, you.
+An: Alright, let's message Akito and Toya that we'll be waiting for them in that shop. In the meantime, let's check out what they have!
+Kohane: You mean it...? Thanks, An!
+
+
+3 2295:areatalk_ev_street_18_003
+
+[Theme Park]
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Akito: Toya, thanks for waiting. The line for that roller coaster ended up being longer than we were expecting.
+Toya: That's not a problem... But where are Azusawa and Shiraishi? I thought they were with you.
+Akito: They went off to buy some popcorn.
+Toya: I see. Still, I'm amazed by how the three of you can go on that roller coaster considering how tall it is. I imagine the view from the top is spectacular.
+Akito: Not exactly. The view is nice, but you don't have time to soak it in. You go so fast that it feels like you're gonna be turned inside out.
+Toya: I see... That must be due to the negative g-force phenomenon I've heard of.
+Akito: Negative g-force...?
+Toya: Yes. The standard acceleration due to gravity on Earth is 1 g, but when you go on a ride that involves downward acceleration...
+Akito: (Yikes... Everything he's saying is going right over my head...)
+
+
+4 2296:areatalk_ev_street_18_004
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Hatsune Miku)
+
+Miku (VBS): Thank you for waiting. MEIKO said I could take a break, so I'm free to hang out with you.
+Miku (VBS): Rin and Len are apparently doing an event over in the plaza, so why don't we go watch?
+Kohane: Yeah! I'm really looking forward to seeing it.
+Miku (VBS): Hehe. They probably won't know what to do with themselves after they see that you're there, Kohane.
+Miku (VBS): They've been spending less time at MEIKO's place and more time practicing lately, so I'm sure it'll be a good one.
+Kohane: Really...? Hehe. Now I'm even more excited.
+Kohane: Let's hurry over, Miku!
+
+
+5 2297:areatalk_ev_street_18_005
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, Kagamine Len, MEIKO)
+
+Len (VBS): Huff... Huff... Huff...
+Miku (VBS): Phew... It's fun to play badminton like this every so often.
+MEIKO (VBS): Hey there, you two. Oh, Len, you look exhausted.
+Len (VBS): That's because Miku's way too good...! It didn't matter what I did! She sent back everything I threw at her...!
+MEIKO (VBS): Hehe. Miku's fleet footwork is the reason why.
+Len (VBS): Her footwork?
+MEIKO (VBS): Yes. Did you notice how she moved back to the center of her half of the court each time she hit the birdie?
+MEIKO (VBS): By doing so, she's able to give herself enough time to get to anything her opponent throws her way. Why don't you try copying her, Len?
+Len (VBS): Th-That's the reason? I didn't notice at all...
+Len (VBS): Miku, I want a rematch!
+Miku (VBS): Sure. Then, we'll start with you serving first.
+
+
+6 2320:areatalk_monthly2407_003
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Megurine Luka)
+
+Luka (VBS): Heh heh heh♪ Today, I made a rice omelet to bring with me during my walk! I'll let you have some of it, Kohane! Here, open wide♪
+Kohane: Wow! It looks delicious! Then, if you don't mind me having a bite...
+Kohane: ...?!
+Luka (VBS): Just kidding♪ It looks like a rice omelet, but it's actually cake!
+Kohane: That was really surprising... But this is still delicious nonetheless.
+Kohane: I didn't realize you could make sweets like this, Luka! I'm so impressed!
+Luka (VBS): Huh? Th-Thank you...
+Luka (VBS): (Sh-She's praising me... After I pulled a prank on her... What is this feeling...? Now I feel awful about what I just did...!)
+
+

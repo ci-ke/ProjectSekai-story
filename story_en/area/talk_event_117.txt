@@ -1,0 +1,116 @@
+1 2116:areatalk_ev_shuffle_41_001
+
+[Main Street]
+
+(Character: Shiho Hinomori, Mizuki Akiyama)
+
+Mizuki: Still, Shiho, bumping into you right after my shift ended feels like such a lucky coincidence♪
+Shiho: You're just getting off work? Can I ask what you do?
+Mizuki: I'm a clerk at an apparel shop! We carry lots and lots of cute clothes and outfits♪
+Mizuki: Not only do I get to learn about the latest fashion trends while being surrounded by adorable clothes, I get paid to do so! How cool is that?!
+Shiho: Yeah, I think I get what you mean...
+Shiho: Working at a live house means I'm constantly surrounded by music. That makes it pretty fun, and I also get to learn about new bands and stuff.
+Mizuki: Oh, your job also involves your passion?! Sounds like we have a lot in common♪
+Mizuki: By the way, Shiho, what are you doing after this...?
+Shiho: Me? I was thinking about buying some sheet music at the CD shop...
+Mizuki: Really? I was just thinking about checking out some of the shops on that street!
+Mizuki: Why don't we walk together for a bit? I wanna keep chatting since I think it'll be really fun!
+Shiho: Yeah, sure...
+Mizuki: Awesome! Then, let's head that way♪
+
+
+2 2117:areatalk_ev_shuffle_41_002
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Ena: *Sigh* I wish I got to meet your sister, Mizuki.
+Mizuki: Really? You wanna meet my sister that much?
+Ena: I mean... Kanade and Mafuyu got to, but I didn't. So, I'm a little curious is all.
+Ena: Actually, Mafuyu, what was she like?
+Mafuyu: We didn't talk for very long, so I don't really know...
+Mafuyu: But she seemed a little like Mizuki.
+Mizuki: Oh, really?
+Ena: Like Mizuki? In what way...?
+Mafuyu: She was cheerful and talkative... But I didn't dislike it.
+Mizuki: Oh... Hehe. That's good to hear!
+
+
+3 2118:areatalk_ev_shuffle_41_003
+
+[Main Street]
+
+(Character: Shiho Hinomori, Shizuku Hinomori, Mizuki Akiyama)
+
+Shizuku, Mizuki & Shiho: Oh...
+Shizuku: Shii, what a coincidence...! Are you on your way to practice?
+Shiho: Yeah, I am... You said you were going shopping with a friend. I didn't realize that was Mizuki.
+Shizuku: Yes, we just went to a new handicrafts shop together! We also talked quite a lot about you, Shii♪
+Mizuki: Hehe. I'll be borrowing your sister for a little while longer♪
+Shiho: That's fine and all, but... She didn't tell you anything weird, did she?
+Mizuki: Not at all! She told me all about how cute and hardworking you are!
+Shiho: *Sigh*
+Shizuku: But it's all true! Ever since you were little, you've been a cute and hardworking girl. Not only that...
+Shiho: A-Alright, that's enough from you...!
+Mizuki: Haha! You two are so close.
+
+
+4 2119:areatalk_ev_shuffle_41_004
+
+[Shopping Mall]
+
+(Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
+
+Shiho: Now that we've bought everything we need to maintain our instruments, wanna head out...?
+Honami: Okay. Oh, wait... We still have a little time before our studio reservation.
+Saki: Then, can we check out some shops together?! There's one I've been wanting to visit♪
+Ichika: Oh, what kind of shop?
+Saki: They carry all sorts of decor that look like instruments! I've been wanting to go together since Shiho and I found it when we went to check out the New Year's sales!
+Shiho: Oh, that place? They even had some obscure instruments.
+Saki: They did! You were so happy when you saw that they had bass keychains instead of just guitars, Shiho.
+Shiho: I don't think I was that happy.
+Shiho: Still, it might be worth a look... They had some things that I think Ichika and Honami will really like. Plus, we don't wanna cause the studio any trouble by arriving too early.
+Saki: Yay♪
+Honami: Hehe. I'm looking forward to seeing what they have.
+
+
+5 2120:areatalk_ev_shuffle_41_005
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, Kagamine Len, MEIKO)
+
+Rin (Ln): Like... This...! And throw in a cool flick here☆
+MEIKO (Ln): Wow, that's a big sheet of paper. It's taking up four desks.
+Len (Ln): Yeah, we tried putting a bunch of sheets together.
+Len (Ln): Doing calligraphy while sitting was fun and all, but we wanted to go more all out.
+Rin (Ln): Yeah, MEIKO, look! Check out what I wrote☆
+MEIKO (Ln): Haha. It's full of so much vigor. I can tell that a lot of energy went into it.
+MEIKO (Ln): I also really like the stars you drew around these characters. It's like your signature, Rin.
+Rin (Ln): Hehe. I know, right☆
+Len (Ln): Yeah, adding in pictures is a pretty good idea. I might try drawing a guitar.
+MEIKO (Ln): That sounds fun. I think I'll make myself a big sheet and draw something on it too.
+
+
+6 2121:areatalk_monthly2312_001
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, Kagamine Len, MEIKO, KAITO)
+
+Rin (Ln): Hey, listen! I just realized something amazing!
+MEIKO (Ln): Something amazing?
+Rin (Ln): For example, say there's two nights left until New Year's. That means we have to sleep twice.
+Rin (Ln): But if you don't sleep one night, then that means there's only one night left. Do it twice and it means New Year's is right now! How cool is that?!
+KAITO (Ln): Which means pulling two all-nighters. That sounds pretty taxing...
+Len (Ln): More importantly, saying a day goes away if you don't sleep is just nonsense.
+Rin (Ln): Heehee. It's called “logical thinking”.
+Len (Ln): Alright, fine. Let's put your theory to the test.
+Rin (Ln): Test?
+MEIKO (Ln): We'll do an experiment to test if what you're saying is right, Rin. You won't sleep for the next two days in order to see if it feels like one day to you.
+KAITO (Ln): Actually, we may not be able to call it a proper experiment since it's going to come down to her perception...
+Rin (Ln): Wait, that means I get to stay up late! Alright, you're on! Test me all you like♪
+Len (Ln): She might actually succeed based on her current energy level.
+
+

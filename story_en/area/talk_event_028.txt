@@ -1,0 +1,144 @@
+1 1068:areatalk_ev_street_04_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Oh, Kohane, one of your pigtails is sagging a little.
+Kohane: R-Really? It's been happening more and more since I started wearing this cap.
+An: Turn around for me. I'll fix it!
+Kohane: Okay, thanks!
+An: And... All done! Your hair's getting pretty long. Are you gonna go back to your old hairdo?
+Kohane: No, I like my hair the way it is now.
+An: Oh, okay. I don't plan on cutting my hair anytime soon either, but it might be fun to go and get the same haircut someday!
+Kohane: That does sound fun! We'd be twins...!
+
+
+2 1069:areatalk_ev_street_04_002
+
+[Main Street]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: Um, Shinonome? Would you mind me asking you for something?
+Akito: Hm? Do you need me to recommend you another CD?
+Kohane: No, it's not that. I promised to go to a pancake place with a friend I met the other day and was wondering if you had any recommendations.
+Akito: Oh, is that it? Sure thing.
+Kohane: Really?! Thank you so much!
+Akito: What kind of place are you looking for? You'll have to line up for the good places, but some don't have any lines at all...
+Kohane: I think we'll want to avoid any lines!
+Akito: Alright, next. Do you want a place that's cute and modern, or somewhere with a more natural look?
+Kohane: Um... A natural look, I guess?
+Akito: Okay, next is...
+Kohane: Th-There's more?!
+Kohane: (He must know about so many...)
+
+
+3 1070:areatalk_ev_street_04_003
+
+[Shopping Mall]
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Kohane: Oh, Aoyagi. Hello! Are you out shopping too?
+Toya: Yes, but you're carrying an awful lot. Are those bags all full of books...?
+Kohane: Yeah. These comics that a friend of mine lent me were really good!
+Kohane: I really wanted to know what happened next and ended up buying the whole series.
+Toya: That I can understand. Sometimes I'm kept up all night by wondering how a story continues.
+Toya: Although, getting through school the next day becomes a little more difficult.
+Kohane: Hehe. But we still end up turning to the next page.
+
+
+4 1072:areatalk_ev_street_04_006
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, An Shiraishi, KAITO)
+
+KAITO: *Sigh* What should I do...?
+An: Hey, KAITO. Is something wrong? You look concerned.
+KAITO: I'm trying to think of something to do for MEIKO since she's already done so much for me, but I haven't been able to think of anything.
+Kohane: Oh, what about helping around her cafe? Wouldn't it be perfect since you love coffee so much, KAITO?
+KAITO: Yes, I thought about doing that as well... But Rin and Len are already helping her, so it's won't seem very original...
+KAITO: I need something more...! Something that would make her so happy that she'd go all, Thank you so much, KAITO!
+An: Haha... I feel like you have a different idea about having appreciation for what someone does than I do...
+Kohane: Hehe. But I understand your desire to make someone feel genuinely happy by doing something only you can do.
+
+
+5 1073:areatalk_ev_street_04_007
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Toya Aoyagi, KAITO)
+
+KAITO: Welcome, both of you! Care to have some ice cream with me?
+Toya: Oh, really?
+Akito: Just to be careful, this isn't gonna end up being someone else's ice cream or anything, right...?
+KAITO: Haha. You have nothing to worry about! I actually just made this myself!
+Toya: You did? That's impressive.
+KAITO: It's actually quite easy. Everything I needed was in the refrigerator as well.
+Akito: Wait, was it really okay for you to borrow things from MEIKO's fridge without asking first?
+KAITO: Hm? I'm fairly certain I did ask her... Or maybe I didn't...
+Toya: Um... We may want to tell her about this...
+Akito: Geez, we were about to be accessories to theft.
+
+
+6 1074:areatalk_ev_street_04_008
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+Miku (VBS): You've been hanging around here quite a bit lately, KAITO.
+KAITO: Is there a reason I shouldn't be?
+Miku (VBS): No, but it just seems like you've been slacking off as Len's DJ instructor is all.
+MEIKO: Come to think of it, I haven't seen you working with him at all for some time now...
+KAITO: Ah, no need to worry there. He's hard at work with the assignments I've been giving him.
+KAITO: That spark in his eyes has even made me want to instruct him properly.
+Miku (VBS): Oh? I guess you really do get serious when it comes to music.
+MEIKO: Yes, he does. ONLY when it comes to music.
+KAITO: Aww, don't be like that...
+
+
+7 1145:areatalk_monthly2109_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Hatsune Miku, MEIKO)
+
+An: Hmm... Okay, replace x with 3... Then I...
+Miku (VBS): Um, MEIKO... What's An doing? She's been at it for a while now.
+MEIKO: Math homework.
+An: Finally, I'm done...!
+MEIKO: Well done, An. Would you like some milk tea with honey as a reward?
+An: Really?! Yes, please!
+Miku (VBS): But you went out of your way to come here to do your homework. This place might just freeze over tomorrow.
+An: Haha. My room's full of too many distractions, so I decided to come here to get away from all that.
+Miku (VBS): Hehe. This homework of yours must really be something if it's giving someone like you this much trouble.
+An: Yes, thank you! I wouldn't even be doing this if it were up to me.
+MEIKO: But you never know when it'll come in handy in the future. I think it's important to just buckle down and do what you need to for now.
+An: You sound just like my mom... Man, if only studying were as fun and exciting as singing is, you know?
+
+
+8 1146:areatalk_monthly2109_003
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Kagamine Len, KAITO)
+
+Len: And that's about how it goes... What did you think of our little sampling?
+KAITO: Yes, I liked it. You both get full marks and I hereby deem your assignment complete!
+Rin & Len: Yay!
+Rin: So, KAITO, what's next?
+KAITO: Patience now. I'll have something for you in due time. For now, why don't we head over to MEIKO's place?
+KAITO: I noticed that she was making pudding on my way over here, so they should be ready by now.
+Rin & Len: ...
+Len: KAITO, did you make us take our time because you wanted to eat pudding?
+Rin: We took everything you said so seriously too! Can't you do the same for us?!
+KAITO: But I am giving you my full attention!
+KAITO: (They really are getting better at sampling and mixing music...)
+Len: No, you need to focus more on being our teacher!
+Rin: We're not letting you leave until we're satisfied!
+KAITO: Oh dear... Alright, I understand.
+
+

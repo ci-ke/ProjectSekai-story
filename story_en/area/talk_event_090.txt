@@ -1,0 +1,118 @@
+1 1647:areatalk_ev_shuffle_30_001
+
+[Main Street]
+
+(Character: Shiho Hinomori, An Shiraishi)
+
+An: Oh, hi Hinomori! Are you headed home from band practice?
+Shiho: I am, yeah. That bag... Shiraishi, are you helping restock again?
+An: Yup! We're about to run out of cake ingredients.
+Shiho: Wow, you serve cake? While we're on the subject... Do you serve apple pies too?
+An: Hmm... I think we've put them on the menu before, but just as limited time specials... Do you like apple pies, Hinomori?
+Shiho: I was actually asking for one of my bandmates.
+An: I see! In that case, maybe I'll suggest apple pies to my dad for our special dessert in the fall.
+An: I don't know if he'll go with that idea... But if he does, please bring your band to try them!
+Shiho: Thanks. I'll look forward to it.
+
+
+2 1648:areatalk_ev_shuffle_30_002
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Ena Shinonome)
+
+An: Hello Ena! Are you headed to class?
+Ena: That's right. Speaking of which, it's pretty late for you to still be here. I don't remember you being in a club or anything.
+An: I'm not, but I had a hall monitor meeting today. We were cleaning and reorganizing an unused prep room.
+Ena: Wow, hall monitors have to do that stuff? Sounds tough...
+An: Many hands make light work! Well, I should go meet up with the rest of my team now, so I'll be—
+Ena: Oh, wait! You have dust on your back. ... There you go!
+An: It must have got on me when I was cleaning... Thank you so much!
+An: Mizuki mentions this from time to time, but you really are nice, Ena! I wish you were my big sister.
+Ena: Huh... R-Really?
+Ena: (Hearing that from someone with such puppy dog eyes... It's a little embarrassing.)
+
+
+3 1649:areatalk_ev_shuffle_30_003
+
+[Music Shop]
+
+(Character: Shiho Hinomori, An Shiraishi, Ena Shinonome)
+
+Ena: Oh...
+Shiho: Hello, Shinonome.
+An: Are you here to buy a CD too, Ena?
+Ena: I am, yes. There's a poster for it over there. This illustrator I like worked on the cover art and music video, so I thought I'd buy it for reference.
+An: I see! Actually, we were just talking about that poster. It really grabbed our attention.
+Shiho: Our plan was to recommend our favorites to each other, but in the end we both decided to buy that CD.
+An: Oh! If you don't mind, I'd love for you to tell us about the illustrator.
+Shiho: So would I. I was really impressed by the poster and the cover art, and I'm interested to get an artist's perspective.
+Ena: I'm not a professional, so I don't think I can tell you anything that worthwhile... But if you're okay with that, I'll share some thoughts.
+An: Yay! Please fire away!
+
+
+4 1650:areatalk_ev_shuffle_30_004
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Shiho Hinomori, Nene Kusanagi)
+
+Nene: ...
+Shiho: Hm? Kusanagi, what are you doing here?
+Nene: Oh... Hinomori! I'm supposed to be meeting Emu, but I don't see any sign of her...
+Shiho: That reminds me. During homeroom, I think I heard her saying something like, “I'm gonna go hand in some lost property I found.”
+Nene: Okay, then maybe she's still doing that.
+Nene: But... Hehe. So Emu acts like that even at school.
+Shiho: Yeah, she's a ball of energy alright. On par with Saki.
+Nene: I see. I guess she really never changes no matter where she is.
+Nene: Um... Thank you for letting me know. I'll wait a little longer for Emu.
+Shiho: Yeah, please do. Well, see you around.
+
+
+5 1651:areatalk_ev_shuffle_30_005
+
+[School SEKAI - School]
+
+(Character: Shiho Hinomori, Hatsune Miku)
+
+Shiho: Hm? Miku, you're playing kinda differently today.
+Shiho: It's like you're taking more liberties and letting yourself get playful with it.
+Miku (Ln): That's right. You know how you took me to Vivid Street recently?
+Miku (Ln): I had the people I saw performing there in mind as I played. They sang in such a relaxed, drawn-out way.
+Shiho: You're right... There were so many people with not just skill, but the ability to put their own personality into their singing.
+Miku (Ln): Hey, Shiho. As a warm-up, what do you say we play together while imagining the people on that street?
+Shiho: Sounds good. Hold on while I get ready.
+
+
+6 1652:areatalk_monthly2303_001
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Honami Mochizuki, Minori Hanasato)
+
+Minori: Honami, thanks for going on that walk with me yesterday!
+Minori: Samo was so happy about seeing Shibao after so long that he pranced on his way home.
+Honami: Hehe. So did Shibao. He usually sort of gives up and wants to go home halfway through our usual route...
+Honami: But yesterday, he kept looking back towards the way you and Samo went as we walked home.
+Minori: Really?! I mean, I guess it'd be fun for anyone to get to play with such a close friend.
+Honami: Let's go on another walk together sometime. Shibao always gets a nice workout whenever he plays with Samo.
+Minori: We'd love that as well! Samo's so big that not many other dogs like to play with him. We'll be looking forward to our next walk!
+
+
+7 1653:areatalk_monthly2303_002
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Shiho Hinomori, Shizuku Hinomori)
+
+Shiho: There you are... Shizuku, you took my lunchbox by accident, didn't you?
+Shizuku: Huh? Oh, you're right...! I'm sorry. I was in a bit of a hurry this morning in order to not miss our morning practice.
+Shiho: That's all good. Anyway, here's yours. I'll take mine and...
+Shizuku: Wait, Shii, you're leaving already...?
+Shiho: You know that face doesn't work on me. Sorry, but I have to discuss practice stuff with Ichika and the others during lunch today.
+Shizuku: I see... That's too bad. Then, maybe some other time?
+Shiho: Okay, okay. Some other time.
+Shizuku: Hehe. That's a promise, okay? Anyway, good luck!
+Shiho: Okay, thanks.
+
+

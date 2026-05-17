@@ -1,0 +1,128 @@
+1 2382:areatalk_ev_band_19_001
+
+[Main Street]
+
+(Character: Saki Tenma, Honami Mochizuki)
+
+Honami: That reminds me. The other day, I did a search on music festivals. There's quite a wide variety of them.
+Saki: Yeah, some are bigger than others, and they're held all over! But what made you wanna look them up?
+Honami: I was hoping to see how we can put on a better performance the next time we're asked to do this again.
+Saki: That's our Hona for you! Ever studious! Then, as research, we should go check out a few of them!
+Honami: Yes, I'd love to see how they differ from one another!
+Saki: Oh, I wanna buy some band t-shirts when we go! And get lots of yummy food from the stalls!
+Honami: Th-That does sound like fun, but try not to forget that we're doing this for research, okay...?
+
+
+2 2383:areatalk_ev_band_19_002
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Saki Tenma, Shiho Hinomori)
+
+Saki: Music festivals are like school festivals!
+Shiho: That'd have to be one massive school festival.
+Saki: But the way we all got ready to play, how the staff ran things and the feel of the crowd as they had fun felt pretty similar!
+Shiho: Yeah, true. They basically are school festivals for musicians.
+Saki: Exactly! However, unlike school festivals, there's no guarantee that we'll get to play in another one...
+Shiho: Isn't that entirely up to us?
+Saki: Yeah, it is! We gotta do our best to make sure we do get to play in one again!
+
+
+3 2384:areatalk_ev_band_19_003
+
+[School SEKAI - School]
+
+(Character: Saki Tenma, Megurine Luka)
+
+Saki: Huh? Luka, what are you doing?
+Luka (Ln): I was thinking about playing something on the keyboard, after seeing you have so much fun performing at that cafe.
+Saki: Oh, that's great! Can I stay and listen?
+Saki: Oh, actually...
+Luka (Ln): Is something wrong?
+Saki: No, it's just... Since we're here, I thought we could play something together.
+Luka (Ln): Hehe. I'd love to play with you. Let's have some fun together.
+
+
+4 2385:areatalk_ev_band_19_004
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, Kagamine Len, Megurine Luka)
+
+Rin (Ln): Hey, what if we shot our own music video?!
+Luka (Ln): Oh, it sounds like the girls' video is already having an effect on you.
+Rin (Ln): Yeah, playing someone different from your usual self sounds like a lot of fun♪
+Len (Ln): That's why you wanna shoot one?
+Rin (Ln): Wait, don't you wanna see everyone act differently from the way they normally do?!
+Rin (Ln): For example, Luka's always calm and collected. So, how amazing would it be to see her play a cheery and bubbly character?!
+Luka (Ln): Oh, that sounds challenging. I hope I can do a good job.
+Rin (Ln): Don't worry! I have a feeling that you'd do really well! Anyway, what kind of character should I play?
+Len (Ln): You, Rin? I dunno. I have a feeling that you'd end up acting the same no matter what.
+Rin (Ln): What?! I can so act like someone else!
+
+
+5 2386:areatalk_ev_band_19_005
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
+
+Ichika: Come to think of it, music videos involve all sorts of different stories.
+Saki: One artist can cover a whole spectrum! Or how summery songs tend to involve having fun at the beach and stuff! I definitely see a lot of those.
+Shiho: Some portray life under one roof, while others involve closing down a whole section of a freeway.
+Honami: Do you think we'll get to shoot different kinds of videos in the future?
+Shiho: Yeah, maybe. But I also sorta prefer just us playing.
+Saki: But how cool would it be if we got to be in a computer generated video?!
+Saki: Imagine being flung back to the Edo period or into outer space!
+Shiho: Wait, what kinds of songs would those videos involve?
+
+
+6 2405:areatalk_monthly2411_004
+
+[School SEKAI - School]
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Len (Ln): You were saving this jelly for later, right, Miku? I feel bad for eating it now. I really had no idea.
+Miku (Ln): That's okay. It's partly my fault for not writing my name on it.
+Len (Ln): No, but...
+Len (Ln): I know. I don't know if this will make up for it, but I could help you practice, Miku.
+Miku (Ln): Oh, are you sure?
+Len (Ln): Yeah, I'll stick around for as long as you like.
+Miku (Ln): Really? For as long as I like?
+Miku (Ln): There are about ten songs that I've been meaning to master. Which should I have you help me with first?
+Len (Ln): T-Ten songs...?! Not a problem...
+
+
+7 2406:areatalk_monthly2411_005
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, KAITO)
+
+Rin (Ln): Aha! There you are, KAITO!
+Rin (Ln): Pokey-poke♪
+KAITO (Ln): Huh...?
+Rin (Ln): Yes! Operation: Alarm KAITO went off without a hitch♪
+KAITO (Ln): Rin...
+Rin (Ln): Hehe♪ Anyway, bye bye!
+KAITO (Ln): What? That's all you came here to do...?
+Rin (Ln): Yup! Stay tuned for my next prank☆
+KAITO (Ln): (Does this mean I should've given her a bit of a better reaction...?)
+
+
+8 2536:areatalk_monthly2501_005
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, KAITO)
+
+KAITO (Ln): I've finished restringing my guitar, so I'll just tune it and...
+Rin (Ln): Hey, KAITO! Wanna practice together?!
+KAITO (Ln): Umm... I need to tune my guitar first... I can join you once I've finished doing that.
+Rin (Ln): Great, thanks! Oh, can I watch you tune it?
+KAITO (Ln): Sure, but... I doubt it's going to be all that interesting.
+Rin (Ln): Not true! Whenever you do stuff like this, you look like an artisan craftsman, you know...♪
+KAITO (Ln): O-Oh, I do...?
+
+

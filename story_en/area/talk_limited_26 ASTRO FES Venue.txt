@@ -1,0 +1,435 @@
+1 2454:areatalk_ev_ensta_001
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome)
+
+Akito: Hey, this food stall's pretty good. I'll have to tell Toya about it.
+Jun: Haha. You two really are good friends, aren't you?
+Akito: Well, we've been singing together for ages. I'd say we are.
+Akito: But, whenever he finds out I've skipped studying, he gets super strict all of a sudden.
+Akito: I mean, it causes him trouble too, so I can't really blame him.
+Jun: Ah, I know that feeling. I spent all my time training since I was little, so I never got around to studying.
+Jun: There are times I wish I'd picked up a book or two.
+Akito: Huh... Really?
+Jun: Yes. I was on a quiz program once for work, and I couldn't name more than a few prefectures... That was supposed to be one of the easy questions.
+Jun: The viewers laughed at me, my friends teased me... It was pretty embarrassing all around.
+Akito: Ah...
+Jun: Well, as long as our fans who watched had fun, it doesn't bother me.
+Akito: Idol work is pretty rough, huh...
+
+
+2 2455:areatalk_ev_ensta_002
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome)
+
+Akito: Thanks for running with me this morning. You were right, that route around Ensemble Square really was a breeze to run.
+Jun: Don't mention it. I was looking to work up a sweat too.
+Jun: It was nice to have someone to chat with while running. A fresh experience.
+Akito: Good to hear it. Do you run in the morning a lot, Sazanami?
+Jun: Yes, when I walk Mary... Uh, the dog I keep at Seisoukan Apartments with Ohiisan.
+Akito: Uh... A dog? And these apartments are the dorm you're putting us up in?
+Jun: That's right. Quite a few residents own dogs, so they're pretty common there.
+Akito: (Seriously? I'll have to keep on my toes...)
+Jun: Hey, I know. Would you like to meet Mary? She's the fluffiest little thing!
+Akito: U-Uhh, let me think about it...
+
+
+3 2456:areatalk_ev_ensta_003
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome, Tsukasa Tenma)
+
+Tsukasa: Excellent to have you both here! Let's make this show a wonderful one!
+Akito: Uh, sure.
+Jun: Thank you for having me.
+Tsukasa: Hm... Sazanami. I've been thinking this for a while now, but you're older than both of us. There's no call to be so formal.
+Jun: Oh, I appreciate the thought, but I'm more comfortable speaking this way.
+Jun: The social hierarchy was strictly enforced at Reimei Academy, so over time I grew used to it. And even in the industry, people can be pretty particular about it.
+Tsukasa: I see... As a future star, I may one day end up in a very similar industry. I should learn from your example.
+Tsukasa: What about you, Akito? Is there a strict hierarchy among the artists in your field?
+Akito: It's not like there's none, but it's not as rigid as all that. When you sing together, you want to do it shoulder to shoulder.
+Jun: Ah, I can understand that mentality. On stage, it shouldn't be seniority, but the power of your performance that matters.
+Jun: It's fascinating how different things can be from industry to industry.
+
+
+4 2457:areatalk_ev_ensta_004
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome, Rui Kamishiro)
+
+Rui: Shinonome, Sazanami. I have a favor to ask of you two...
+Akito: No.
+Jun: Afraid I have to agree. One look and I can tell you've got a scheme brewing.
+Rui: That stings. Shinonome I could expect, but you too, Sazanami?
+Jun: We've got a guy in Eden who smiles when he's hiding something, too, and that's when he's scariest.
+Rui: I would never. I just want you to help me test an effect for the show.
+Rui: Given the set, I think we could make your entrance cues flashier and more impactful.
+Jun: Oh, is that all? You could've just asked normally.
+Akito: No, you really don't want to agree too quickly. We have no idea what insane effect he's thought up.
+Jun: Huh?
+Rui: Hehe. It shouldn't be a problem with reflexes like yours. I guarantee it's perfectly safe.
+Jun: Haha, but you don't deny the “insane” part...
+Jun: Well, if it'll help the show, I'm happy to do whatever.
+Akito: And you're sure this is “perfectly safe?”
+Rui: Hehe, of course. Now, right this way.
+
+
+5 2458:areatalk_ev_ensta_005
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi)
+
+Izumi: ...
+Toya: Um... Sena? Is there something on my face?
+Izumi: You know, Aoyagi, you've got a good build and a nice face. If you put the work in, you'd really shine.
+Izumi: Above all else, you know your manners and would make for a good pupil... You turned me down yesterday, but are you sure you don't want to model?
+Toya: Um... I truly am honored you think so, but I'd prefer to focus on my singing now.
+Izumi: *Sigh* Well, I figured as much. You do have the talent for that, too.
+Izumi: I noticed when we sang together, but you have very sharp ears and solid musical sense. Have you been doing music a very long time?
+Toya: Ah...yes. I perform street music now, but I studied classical from my father growing up.
+Izumi: Hmm, sounds like you were a real prodigy.
+Izumi: Still, you may have changed genres, but you must really love music to have kept at it for so long.
+Toya: Yes... It means the world to me.
+Izumi: I guess I'll have to give up for real, then.
+
+
+6 2459:areatalk_ev_ensta_006
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi)
+
+Izumi: Is it just me, Aoyagi, or are you pretty attached to Tenma?
+Toya: We've known each other since we were children, after all.
+Toya: He would often play with me, or listen to my worries... In many ways, he's like a big brother to me.
+Izumi: You don't say... That's nice, that kind of thing.
+Toya: Do you have anyone like that, Sena?
+Izumi: I do. Though mine's more like the little brother♪
+Toya: I see. It must be very reassuring for him to have such a considerate and reliable older brother.
+Izumi: Haha. Maybe so, yeah.
+Izumi: Don't worry, I'll keep looking after him whenever I can.
+
+
+7 2460:areatalk_ev_ensta_007
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi, Tsukasa Tenma)
+
+Toya: The flyers said this was a “festival of different music genres and cuisines,” and they really seem to mean it. Look at all those stalls.
+Izumi: Yeah, they have food from all different regions and countries. I might need to check out those shrimp shumai over there...
+Toya: (Hm? Over there, by that stall...)
+Toya: Good afternoon, Tsukasa.
+Izumi: Huh?
+Tsukasa: Hm?
+Izumi: Oh, you meant Tenma. We have a Tsukasa in Knights too, so I was confused.
+Tsukasa: Ah, Tsukasa Suou, yes. If I recall, he's the leader of Knights, and he and I are around the same age?
+Izumi: Yeah. Though that's about where the similarities end.
+Izumi: You're both hard workers, I guess, but he's a snarky little brat. Just proper enough to show you he doesn't respect you. And he always uses English just to show off.
+Izumi: He'll go out of his way to say “marvelous” when he wants to compliment someone, for example.
+Toya: I admit... I'm having some trouble picturing it.
+Tsukasa: Hmm... Like this, maybe?
+Tsukasa: “Sena, Toya, excellent work! Your singing is... 'MARBELUS'!!!”
+Izumi: Pff... Haha, your pronunciation is terrible. You really are nothing alike.
+
+
+8 2461:areatalk_ev_ensta_008
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi, Rui Kamishiro)
+
+Toya: Oh, I didn't see you in the cafeteria this morning, Kamishiro.
+Rui: Yes, I was inspecting the equipment for the show. I did check everything yesterday as well, but there's no harm in being doubly safe.
+Izumi: Hmm. It's good that you're being careful, but did you remember to eat, too?
+Rui: Yes, I had a nutrition bar.
+Izumi: Huh? Those things don't count as food. Remember that taking care of your body is also important prep work.
+Rui: Thank you for your concern. However, they do contain all the nutrients of one balanced meal, so there really is no problem...
+Izumi: Don't talk back. Your body needs real calories to run, especially on the day of the show.
+Rui: Um...
+Rui: Well, that is true.
+Toya: Then, why don't we have lunch together? It's just the right time for it, and there are plenty of food stalls set up.
+Izumi: Sure, I don't mind. But I'll be picking the menu, to make sure you're getting proper nutrition. Aren't you lucky, Kamishiro?
+Toya: (Sena really is a caring sort.)
+
+
+9 2462:areatalk_ev_ensta_009
+
+[ASTRO FES Venue]
+
+(Character: Tsukasa Tenma)
+
+Chiaki: Oh, during Wonderlands×Showtime's show yesterday, there was a mascot handing out balloons...
+Chiaki: What exactly was that penguin guy, Tenma?
+Tsukasa: Ah, that would be Phenny, Phoenix Wonderland's mascot.
+Tsukasa: We were performing at Phoenix Wonderland's request, so it makes sense that Phenny also made his way to the venue.
+Chiaki: I see... The truth is, one of us in RYUSEITAI really likes that sort of cute mascot design, so I was wondering.
+Tsukasa: Is that so! By all means, you should come visit Phoenix Wonderland!
+Tsukasa: Several different colors of Phenny walk around the grounds, and you can even shake hands with them. I'm sure you'd have fun.
+Chiaki: Oh! Different colors of Phenny, you say! Maybe we could meet a group of RYUSEITAI-colored Phennys!
+Chiaki: We've done hero shows at amusement parks before, and most of us like them a lot. We'll be sure to come visit!
+Tsukasa: Excellent! I'll be sure to put together the greatest day plan for you!
+
+
+10 2463:areatalk_ev_ensta_010
+
+[ASTRO FES Venue]
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: Huff... Huff...
+Chiaki: Phew... Not bad, Tenma!
+Tsukasa: I could say the same, Morisawa! To think our Cool Pose Showdown would be so evenly matched...
+Chiaki: Haha! I spend my days researching awesome superhero-style poses, you know!
+Tsukasa: I see. That explains why each of your poses is so perfectly polished.
+Chiaki: Thanks for saying so! But all of your poses are so fantastically original, too!
+Chiaki: I know! If the two of us work together, we could surely create unspeakably cool poses!
+Tsukasa: *Gasp* You're right!
+Tsukasa: Let us join hands, and create the coolest pose that has ever been!
+
+
+11 2464:areatalk_ev_ensta_011
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome, Tsukasa Tenma)
+
+Tsukasa: Well, if it isn't Akito!
+Akito: Ugh, they spotted me.
+Chiaki: Let's do our absolute best today, Shinonome! We've developed very different talents, so if we combine our powers, it'll be enough to create a brand new Big Bang☆
+Tsukasa: Together, we will outshine the very stars of the Milky Way!
+Tsukasa & Chiaki: HAH HAH HAH HAH! HA HA HA HA!
+Akito: (This is too much... It's like there's a second Tsukasa.)
+Tsukasa: What's the matter, Akito? You don't look well.
+Chiaki: What?! Are you not feeling well, Shinonome?! Tell us where it hurts!
+Akito: It's okay, I'm fine.
+Akito: (Wish I could say it's because of them, but... They're even both weirdly considerate.)
+
+
+12 2465:areatalk_ev_ensta_012
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi, Tsukasa Tenma)
+
+Tsukasa: Toya! I know this is sudden, but is anything worrying you lately?
+Toya: Worrying me?
+Toya: Well, I wouldn't call it a worry per se, but I do feel somewhat nervous about performing a show in such a different genre from my usual.
+Chiaki: I see! You just leave that to us!
+Toya: Huh?
+Chiaki: Hup! “Red flames are the proof of justice! I am the burning red sun of life!”
+Chiaki: “RYUSEI Red, Chiaki Morisawa!”
+Tsukasa: “A brilliant aura is the mark of a true star! Its radiance illuminates the night sky!”
+Tsukasa: “The Soaring Pegasus, Tsukasa Tenma!”
+Toya: Um, what exactly are you...?
+Tsukasa: Morisawa and I just came up with this hero-style intro. We've been looking for an opportunity to unveil it!
+Tsukasa: And with introductions out of the way, now we can offer you our full strength!
+Chiaki: Hm... That said, what's the best way to help ease Aoyagi's nerves?
+Toya: Thank you both. You've already done a fantastic job.
+
+
+13 2466:areatalk_ev_ensta_013
+
+[ASTRO FES Venue]
+
+(Character: Rui Kamishiro)
+
+Natsume: You've used VR to help your troupe get into characTER, Rui? IntriGUING.
+Rui: Yes. Particularly for works in fantasy settings, VR can help us visualize and experience the characters' environments.
+Natsume: I seE. We members of Switch also use VR proactively in our worK, but I hadn't considered such an aveNUE. Thank you for telling mE.
+Rui: Not at all. It was fascinating to hear of your work directing on virtual stages.
+Rui: ...
+Natsume: HM? Is something wronG, Rui?
+Rui: Oh, it's nothing important, but... You certainly have a unique way of speaking, Sakasaki.
+Natsume: AH, you mean my intonaTION?
+Natsume: Words delivered with specific inflecTION, spoken with artiFICE, give power to words from the heart in which true feelings dwelL—
+Natsume: What I believe are truly “magical worDS,” you seE?
+Rui: I see...
+Rui: What an interesting technique to make your words memorable and impactful. That could be useful as part of a performance.
+Natsume: AhaHA... Everything comes back to shows with yoU, hM?
+
+
+14 2467:areatalk_ev_ensta_014
+
+[ASTRO FES Venue]
+
+(Character: Rui Kamishiro)
+
+Rui: Come to think of it, Sakasaki, you use plant-derived ingredients in the chemicals for your effects, yes? Where do you source them?
+Natsume: Herbs are easily grown in one's own garDEN. Some of us with ES partake in gardenING, you seE. As sucH, we're allowed to use the facility's ploTS.
+Rui: I see. I'm a member of the greening committee and look after my school's flowers, so I feel some kinship there.
+Natsume: Is that sO? WelL, the gardening circle at ES also raises vegetaBLES, not only ornamental planTS. It may be slightly diffeRENT.
+Rui: I've always considered vegetables among ornamental plants, myself.
+Natsume: HmM, vegetables as ornamenTALS... Ah. Could it be that you reFUSE...nO, you are unable to eat vegetaBLES?
+Natsume: HaHA. You like to seem maTURE, but you're rather childish in some waYS.
+Rui: (If we're going there, I could note that Sakasaki isn't as mature as he likes to claim either...)
+Natsume: Is there something you'd like to saY?
+Rui: No, not at all.
+
+
+15 2468:areatalk_ev_ensta_015
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome, Rui Kamishiro)
+
+Natsume: I'm looking forward to chanting that explosion incantaTION.
+Rui: Yes. Let's make it a true showstopper.
+Akito: Uh, do I even want to know what you're talking about?
+Natsume: Well noW. Are you interested in explosion maGIC?
+Rui: In that case, would you care to be our first subject, Shinonome?
+Akito: Not happening.
+Natsume: HaHA, that's a shamE.
+Natsume: StilL, with us combining our respective fields of experTISE, this magic promises to be something to rememBER.
+Rui: Very much so. We'll be unveiling it during rehearsal, so please look forward to it, Shinonome.
+Akito: Well... If it's gonna be all that, I guess I will.
+
+
+16 2469:areatalk_ev_ensta_016
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi, Rui Kamishiro)
+
+Toya: We only just decided the outline of the joint show yesterday, and you've already put together the direction. Impressive as always.
+Rui: Once we'd returned to Seisoukan Apartments, Sakasaki and I stayed up late to refine our plans and put together some props.
+Toya: Really? I see. I'm impressed by your devotion to the show, but... Are you sure you're not pushing yourselves too hard?
+Natsume: Don't worRY, we've had enough sleeP. My unitMATE, Tsumugi Aoba, poked his head in to make sure we were restING.
+Natsume: He never does tire of treating others like chilDREN, that onE. I'm perfectly used to pulling all-nighTERS, so it's nothing but a bothER.
+Toya: I'm sure he's just worried about you.
+Toya: There was a time when I pushed myself too hard and went through multiple all-nighters composing, and I caused Akito and the others no end of worry...
+Rui: Hmm. To think you've had a similar experience, Aoyagi.
+Toya: I have. So I understand the drive to keep working, even through the night, but now I'm more careful. For my friends, as well as myself.
+Natsume: I seE.
+Natsume: Putting aside a certain Senpai who pulls far more all-nighters than mE, it wouldn't do to worry Sora. I'll try to show more resTRAINT.
+
+
+17 2470:areatalk_ev_ensta_017
+
+[ASTRO FES Venue]
+
+(Character: Toya Aoyagi)
+
+Jun: Oh, some other performers are rehearsing on an outdoor stage. This song is similar to your group's music, isn't it, Aoyagi?
+Toya: Yes. They're also a street group, so there are certain similarities.
+Jun: I knew it! My upbringing was a bit unique, so I haven't heard a lot of non-idol music...
+Jun: But I think I get why you treasure it so much. You clash, bring your feelings to bear, and carry each other to new heights... That's good music, too.
+Toya: Thank you very much. I'm happy to hear you say that.
+Toya: I was blown away by the power of your performance with Eden last night, too. I want to learn from that mode of expression myself.
+Jun: Really? I'd be happy to teach you a thing or two.
+Jun: In exchange, I hope you'll let me hear all about your music, too.
+Toya: Yes, by all means.
+
+
+18 2471:areatalk_ev_ensta_018
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome)
+
+Akito: Sena, you do modeling work overseas too, right?
+Izumi: Yes. Rather, overseas is where I do most of my modeling work. Right now I'm getting a foothold in on the scene in Firenze.
+Akito: Wow... That's amazing.
+Izumi: Not that I've made much of a name for myself yet, of course.
+Izumi: Still, I intend to bite down hard and never let go until I'm acknowledged by one and all as the most beautiful in the world.
+Akito: (The best in the world... He's serious about what he does, too.)
+Izumi: That reminds me. You and yours intend to stand on top of the world too, don't you?
+Izumi: In that case, I look forward to meeting you up there someday.
+Akito: Yeah.
+
+
+19 2472:areatalk_ev_ensta_019
+
+[ASTRO FES Venue]
+
+(Character: Rui Kamishiro)
+
+Rui: And... There...
+Rui: (Phew... It was the right call to bring these zombie robots. A simple change of costume, and they can play passersby or audience members.)
+Rui: (Now I just need to hide their faces with hats...)
+Chiaki: Eeep! G-G-Gh...
+Rui: Morisawa?
+Rui: (That reaction... Interesting...)
+Rui: Could it be... That you can see them?
+Chiaki: Huh?! Y-Y-Y-You mean...?!
+Rui: Hehe, I'm only teasing. These are robots we use for shows.
+Chiaki: O-Oh, they're robots... Don't scare me like that. I thought my heart was going to leap out of my chest!
+Rui: I'm sorry, I couldn't help myself. I see even heroes have their weaknesses.
+Chiaki: Yes... I hate to admit it, but I can't stand ghosts. Or eggplants.
+Chiaki: But the kids would be so disappointed if they knew. Could you do me a favor and keep this a secret?
+Rui: Of course.
+Rui: (Hmm, I'll have to be more thorough with hiding their faces, so even the performers can't see. Maybe I'll buy some hero masks from a stall.)
+
+
+20 2473:areatalk_ev_ensta_020
+
+[ASTRO FES Venue]
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: Hwagh?! Hup, hup... Phew. Look at me, tripping over nothing at all...
+Natsume: I wouldn't say nothing at alL. LooK, your shoelace has broKEN.
+Tsukasa: What?! Look at that... That's bad luck right before a performance.
+Natsume: Recent theories have attempted to explain it as an omen of positive changE... But if you're conCERNED, I'd be happy to tell your forTUNE.
+Tsukasa: Huh...? You're a fortune-teller, Sakasaki?
+Natsume: IndeeD, I am an idol and a fortune-teller toO. Gaze into this crystal balL, if you woulD.
+Tsukasa: Where were you keeping that...?
+Natsume: HmM... This dark shadOW...
+Natsume: This is a dark omen that hangs over yoU. Nothing you do will go smoothLY... Today is your most unlucky day for decADES.
+Tsukasa: What?! A-And our performance just had to land on this day, of all days...
+Natsume: Oh, I seem to have misunderSTOOD. Maybe it is a sign of good luck after alL.
+Tsukasa: Which is it?!
+Natsume: HaHA, forgive mE. Your reactions are always so amusING, so I couldn't help but tease yoU♪
+Natsume: Your luck is as strong as it can possibly bE, Tsukasa. My divinations are always accuRATE, so I guarantee iT. This show will be a sucCESS.
+Tsukasa: I see! It's as though the heavens themselves have blessed our stage! Then all that remains is to show the fruits of our hard work! Hah hah hah!
+Natsume: (Magic works well on this onE.)
+
+
+21 2474:areatalk_ev_ensta_021
+
+[ASTRO FES Venue]
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Akito: Sazanami, there's a vocal technique I'd like to try out in rehearsal. Can I run it by you?
+Jun: Yes, of course.
+Toya: Sena, could I ask you to look at my moves for the chorus later?
+Izumi: Sure, once we move to the green room.
+Jun: Haha, you too, huh? Shinonome and Aoyagi both take things very seriously.
+Jun: Working with them really feels like a breath of fresh air. I'm glad we got to do this.
+Izumi: They're relatively conscientious, and are mindful of what the show needs. It's been a stress-free process so far.
+Akito: I've been learning a lot from you two, too.
+Toya: Me as well. That only makes it more bitter that the day is already here...
+Izumi: Hmm? You think you'll be rid of us once the show is over? Not very dutiful of you.
+Izumi: And what's the use in worrying about what comes next before the show's even over?
+Akito: Right. We should focus on what's right ahead of us.
+Toya: Let's put on the greatest show we can today.
+Jun: Right!
+
+
+22 2475:areatalk_ev_ensta_022
+
+[ASTRO FES Venue]
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Chiaki: Oh! Tenma, you've performed in action-focused shows, too?
+Chiaki: I've worked as a stuntman before, so action is my specialty! Want to think up a killer finishing move together?
+Tsukasa: Absolutely! It will be a spectacular, shining spectacle worthy of the two of us!
+Natsume: You two really remind me of a pair of brothERS. Or maybe birds of a feathER, is more like iT...
+Chiaki: That's so great to hear! Ever since we met, I've felt like we're really on the same wavelength.
+Rui: Indeed. I get the sense that your resonance has amplified Tsukasa's movements and his voice.
+Tsukasa: Hm... Am I the only one, though? When you and Sakasaki are working together, you seem even more energetic than usual.
+Rui: Oh, really?
+Chiaki: And Sakasaki usually has a sour look on his face, but lately he looks like he's having a ton of fun.
+Natsume: Mind your busiNESS.
+Rui: I must say, it has been an unexpected delight to meet someone I can discuss direction and effects with so readily.
+Chiaki: Haha. We were lucky enough to meet, so let's turn these new bonds into strength and make the show really shine!
+
+

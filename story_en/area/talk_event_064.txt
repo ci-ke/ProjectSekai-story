@@ -1,0 +1,91 @@
+1 1470:areatalk_ev_street_09_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+Kohane: An, I really appreciate you coming out to shop with me today. I found some nice clothes to wear during practice thanks to you.
+An: You're welcome! I was hoping to find some clothes to wear during practice too.
+An: Oh, I know! Let's take advantage of this opportunity by going for a run in SEKAI!
+Kohane: Wait, right now?!
+An: There's no time like the present, right? Also, if we go over there, we won't have to go home, change and meet back up! What do you say?!
+Kohane: (Hehe. I guess An wants to give her new clothes a try as soon as she can.)
+Kohane: Okay, let's go for a run!
+
+
+2 1471:areatalk_ev_street_09_002
+
+[Scramble Crossing]
+
+(Character: An Shiraishi, Akito Shinonome)
+
+An: Hey, do you know about the boutique shop that just opened up near Vivid Street?
+Akito: Yeah, I went in for a peek the day after it opened.
+An: Hey, way to go, Mr. Boutique-Shop Employee! So, what was it like? Good?
+Akito: That depends on what I thought was “good” and in what way... Regardless, they didn't seem to carry our sort of fashion.
+Akito: I'd say they're catering more toward men in their late twenties and thirties.
+An: Oh, that's too bad. I was hoping that it's be geared more toward people our age since it's so close to Vivid Street.
+Akito: Don't you have it backward? Why would anyone want to compete in a market that's already saturated?
+Akito: Still, my manager at work seemed pretty thrilled about that place opening up.
+An: Yeah, there aren't that many places on Vivid Street that cater to people his age.
+An: Now I see. That might be the niche they're after.
+Akito: Probably.
+
+
+3 1472:areatalk_ev_street_09_003
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+Toya: Come to think of it, Shiraishi, that story you told us the other day involved this school.
+An: Yeah, I had no idea at the time that I'd end up going to school here.
+Toya: Did you choose to enroll here because of what happened?
+An: Yeah, there's that. But it was also just close to where I live and stuff, you know?
+An: What about you, Toya? You're pretty smart. Did you ever think about going to a prep school?
+Toya: Well, my parents recommended that I go to one, but this was my first choice since Akito said he'd be enrolling here as well...
+An: I'm amazed your dad was okay with that.
+Toya: Tsukasa played a big role in that. He gave me his approval after hearing that I'd be enrolling in the same school as him.
+An: Wait, that's all it took...?
+Toya: Yes, I don't quite understand myself. My parents and Tsukasa's parents are well acquainted, and mine seem to hold the Tenmas very highly.
+Toya: As a result, I've been able to go to the same school as Tsukasa and Akito, and enjoy life as a student. I really need to thank the Tenmas for giving me this opportunity.
+
+
+4 1473:areatalk_ev_street_09_004
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+An: Man, that was so much fun! It was my first time going to an arcade in a while, but they really are great. So many games in one place!
+Toya: I agree. Until recently, I only played the claw machines, but I've been able to enjoy myself even more by trying my hand at other games.
+Kohane: Hehe. I still can't believe how good you are at video games, Aoyagi.
+Akito: Yeah, good enough to leave your name in the score rankings for puzzle games.
+Toya: I couldn't believe that either, but you all helped me come up with a good player name so I'd like to keep trying my hand at more and more games.
+Akito: I don't mind helping you out with that since it seems like we could have some fun battles if they're not puzzle games.
+An: Same! I feel like I can put up a good fight as long as I remember how I used to play with Aunt Nagi.
+Kohane: Hehe. I'm honestly not very good at video games, but I had a lot of fun just watching you guys play that fighting game.
+An: Yeah! Aunt Nagi and I used to play that one all the time, so I'll always be up for that!
+An: Next time, Toya, you're going down!
+Toya: Yes, I'll be looking forward to that.
+
+
+5 1474:areatalk_ev_street_09_005
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Kagamine Rin, MEIKO)
+
+Rin: MEIKO, MEIKO! Listen! We're gonna hold a footrace with An and the others!
+MEIKO: A footrace? You mean over here?
+An: Yes, and we'd like to prepare some drinks and such so that we can stay hydrated...
+MEIKO: If that's the case, I'll lend you a hand. How much will you need?
+An: Thank you very much! So, it'll be for the four of us and...
+Rin: Me, Len and KAITO! Oh, Len's gonna invite Miku and Luka, so we might need more!
+MEIKO: Hehe. Sounds like it's going to be a great event. Oh, why not get some prizes ready to make it feel like a real race...?
+An: We're still thinking about that. Akito would walk away with any individual prizes and it's tough trying to balance out teams since we don't know how we all are in terms of running.
+Rin: Which is why we kinda want to go with a “fun run” theme.
+Rin: You're welcome to join us too, MEIKO!
+MEIKO: Thank you, Rin. I may just take you up on that offer.
+
+

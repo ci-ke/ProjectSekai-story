@@ -1,0 +1,70 @@
+1 999:areatalk_ev_street_03_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: Humhum♪ Oh! Hello, Shinonome. Are you out shopping too?
+Akito: Nah, I got work.
+Akito: But you seem happy. You get something good?
+Kohane: I did! The bedding I ordered for Count Pearl's snake tank came in and I just went to get it.
+Kohane: It's the Count's favorite too, so I'm sure she'll be happy!
+Akito: Happy? We're talking about your snake, right? Can you actually tell how it feels?
+Kohane: Of course! We're family!
+Akito: Oh, right. I guess that's true too.
+
+
+2 1000:areatalk_ev_street_03_002
+
+[Main Street]
+
+(Character: An Shiraishi, Akito Shinonome)
+
+Akito: ——♪ ——♪
+An: Hey, Akito! I was wondering why there were so many people gathered here. You doing a solo practice or something?
+Akito: Yeah. I've been on a roll and want to keep it going until our next event.
+An: Okay. If that's the case, mind if I join you?
+Akito: I doubt you'll take no for an answer, so why not?
+An: If you don't mind, cool!
+
+
+3 1001:areatalk_ev_street_03_003
+
+[Kamiyama High School]
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Toya: What's wrong, Akito...? Is something bothering you...?
+Akito: I'm just sick of all these exams... Sigh... Can't they make it so we don't have to take so many...?
+Toya: You say that, but I'm fairly certain that Miya Girls students have to deal with more. Aside from regular exams, Azusawa even mentioned having to take aptitude tests every so often.
+Akito: What?! You serious...?! Then I'm glad I go to Kamiyama...
+Toya: You realize it's an all girls school, right? You wouldn't be able to go even if you wanted to.
+Akito: Dude, you don't have to tell me...
+
+
+4 1002:areatalk_ev_street_03_004
+
+[Street SEKAI - Cafe]
+
+(Character: KAITO)
+
+KAITO: ～♪　～♪ This mix is turning out better than I expected...
+KAITO: Oh, I need to go meet with Rin and Len soon. But I'd really like to keep working on this...
+KAITO: No, they'll be mad at me if I'm late. I should go see them...
+
+
+5 1004:areatalk_ev_street_03_006
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Kagamine Len, KAITO)
+
+KAITO: Alright, let's get started with our DJ lesson. We'll be talking about scratching and juggling today.
+Rin: KAITO, I have a question. I've heard about what scratching is, but what's juggling?
+KAITO: Ah, juggling is where you toss around balls or pins with your hands and keep them in the air as long as possible.
+Len: That's just regular juggling, KAITO!
+Rin: Would you mind being a little more straightforward with us?
+Len: Rin, we might be better off talking to Akito and the others, you know...?
+KAITO: No, please wait! I promise to take it more seriously!
+
+

@@ -1,0 +1,904 @@
+1 2196:areatalk_aprilfool2024_001
+
+[Time Warp SEKAI - Past?]
+
+(Character: Shiho Hinomori, Airi Momoi, Megurine Luka, MEIKO)
+
+Shiho: I look forward to working with you, Momoi. You too, Luka and...MEIKO.
+MEIKO (WxS): Yes, likewise!
+Airi: Let's put together the best base we can! I had to do something like this for a variety show that involved living on a desert island, so I can teach you all how to put together a timber frame and stuff like that.
+MEIKO (WxS): Manual labor's my forte, so let me know if you need someone to do any heavy lifting!
+Luka (Ln): Hehe. It's so nice to be surrounded by such reliable people. We need to do our best to make the most of our skills and talents.
+Luka (Ln): So, first of all... Let's start by assigning roles. You're very strong, MEIKO, so I think you should gather all the wood we need for our shelter's frame.
+Luka (Ln): Airi, you'll need to show us how to actually put it together. Followed by...
+Luka (Ln): Hm? Is something wrong, MEIKO?
+MEIKO (WxS): I-I'm sorry! It's just so strange for me to see you taking such initiative, Luka...
+Airi: I know what you mean. The Luka I know is a bit more happy-go-lucky.
+MEIKO (WxS): The Luka I know is asleep most of the time. The second we take our eyes off her, she's in dreamland...
+Shiho: Really...? I'm having a hard time seeing Luka do that.
+MEIKO (WxS): Still, it doesn't feel right to have you not asking me for favors at all. I'll always be happy to lend you my lap to use as a pillow.
+Luka (Ln): Your lap? Hehe. I'll keep that in mind.
+
+
+2 2197:areatalk_aprilfool2024_002
+
+[Time Warp SEKAI - Past?]
+
+(Character: Nene Kusanagi, Kanade Yoisaki, Kagamine Rin, Kagamine Len, KAITO)
+
+Nene: Oh, Yoisaki, are you also helping build the base camp...? It's so nice to see a familiar face...
+Kanade: I'm also glad, Kusanagi. Also...
+Kanade: Hello KAITO. And you're Rin and Len, right?
+Rin (VBS): That's us! Let's do our best! Uhh...
+Kanade: My name is Kanade Yoisaki. This is Nene Kusanagi.
+Len (MMJ): Nice to meet you, Kanade, Nene.
+Nene: Nice to meet you too. You too, KAITO...
+KAITO (N25): I'll help. I don't want to be stuck here forever either.
+KAITO (N25): So, we should get to work instead of standing around talking.
+Nene: H-Huh...? What was that all about? Is it...something I said?
+Kanade: Oh... I wouldn't worry too much. He's always like that.
+Nene: (Y-You've gotta be kidding me...! Always? How am I supposed to talk to him...?!)
+
+
+3 2198:areatalk_aprilfool2024_003
+
+[Time Warp SEKAI - Past?]
+
+(Character: Shiho Hinomori, Kagamine Rin, MEIKO, KAITO)
+
+MEIKO (WxS): Heeeeave! Hooo!
+Shiho: Huh...? MEIKO, you don't have to carry so much wood all at once.
+MEIKO (WxS): Hehe. It's okay. I'm good at manual labor, remember♪
+KAITO (N25): Hey, we only need enough wood for the pillars and beams. Everything else is just going to go to waste.
+MEIKO (WxS): No, it won't. If we're going to build ourselves a home, we should make it a palace, don't you think? That's why I brought so much!
+Rin (VBS): Hehe. And we might just be able to with you here, MEIKO! Alright, I'm gonna help carry more!
+Shiho: Wait, Rin, if you try to carry something that big, you'll lose your balance and...!
+Rin (VBS): Uh oh! Wh-Whoa—
+Rin (VBS): Huh...? It feels really light all of a sudden... Hey!
+KAITO (N25): Don't try to do anything that you actually can't. You'll just end up being a thorn in our side.
+Rin (VBS): What...?
+Rin (VBS): Yeah, I know that! I just lost focus there for a second is all!
+MEIKO (WxS): Still, you shouldn't push yourself so hard.
+Shiho: (He doesn't really mince words...)
+Shiho: (But this KAITO seems to have no problem looking out for others.)
+
+
+4 2199:areatalk_aprilfool2024_004
+
+[Time Warp SEKAI - Past?]
+
+(Character: Airi Momoi, Kanade Yoisaki, Kagamine Len, Megurine Luka)
+
+Airi: Let's do our best, you guys! All that's left is to carry these leaves over and use them to make our roof!
+Kanade: Huff... Huff... So heavy...
+Airi: Are you okay, Yoisaki? Do you need a hand?
+Kanade: N-No, that's okay... But I didn't realize how hard it would be to carry over these leaves and vines.
+Luka (Ln): They are heavy since we need big ones for our roof. Why don't we take a break since we still have a good bit of walking to do?
+Len (MMJ): Then, I'll go fetch us some water. The foraging team just showed me a good clean source.
+Kanade: Th-Thank you, Len.
+Kanade: (Everyone's so reliable... I wish I could be of more help to them...)
+Airi: Oh, Yoisaki! Mind if I asked you to do something for us?
+Kanade: Huh? M-Me?
+Airi: Yeah! We sorta need to designate someone working just on turning this ivy into rope since we're gonna need a lot. But I'm not very good at handicrafts and stuff.
+Kanade: (Oh, I think I can handle that... It certainly sounds less strenuous...)
+Kanade: O-Okay. But how do I turn this ivy into rope, Momoi?
+Airi: Thanks! Lemme show you how. First, you...
+
+
+5 2200:areatalk_aprilfool2024_005
+
+[Time Warp SEKAI - Past?]
+
+(Character: Shiho Hinomori, Nene Kusanagi, Megurine Luka, MEIKO, KAITO)
+
+Shiho: This fire just won't start.
+KAITO (N25): Are we not producing enough friction?
+Luka (Ln): Maybe... But the three of us are already having this much trouble. What more can we do...?
+MEIKO (WxS): How's everything going? You all look a little despondent.
+Shiho: Oh, so... We're having trouble getting our fire going.
+Nene: What if it's the wood you're using? From my experience, it basically needs to be bone-dry.
+Nene: Also, if you carve in a groove like this, it should make it much easier to get it going.
+KAITO (N25): ...
+Luka (Ln): Nene the survival expert comes to the rescue.
+Nene: I don't know if I'd call myself an expert since I was only shipwrecked on that desert island for a day.
+Shiho: What?
+Shiho: (Did I mishear what she just said?)
+
+
+6 2201:areatalk_aprilfool2024_006
+
+[Time Warp SEKAI - Past?]
+
+(Character: Airi Momoi, Nene Kusanagi, Kanade Yoisaki, Kagamine Rin)
+
+Airi: The foraging team did an amazing job. I wasn't expecting them to gather so much food for us.
+Rin (VBS): That means we gotta do our best to turn this bounty into some really yummy soup!
+Airi: Right! Luka and the others are working on the fire, so let's start prepping our ingredients!
+Kanade: Okay. But I'm a little worried since I don't have much experience cooking...
+Nene: M-Me too...
+Rin (VBS): That's okay! I'm not so confident either, but we have Ms. Airi here as our teacher! So, let's all try our best!
+Nene: Rin...
+Nene: (She's right. No one here can do everything. The other teams are all doing what they can, so we need to also do our best by making some delicious soup for them...!)
+Airi: First, cut these wild herbs into pieces this long and put them in the water.
+Nene: Okay, I'll give it a—
+Rin (VBS): Chop, chop, chop♪ In you go!
+Airi: Hey, Rin, you're pretty good at this!
+Rin (VBS): You think so?! Hehe. It must be because I've been helping MEIKO at her cafe! Anyway, what do you need me to do next?!
+Nene: Sh-She's really good...
+Kanade: It looks like we're the only ones who don't know what they're doing.
+
+
+7 2202:areatalk_aprilfool2024_007
+
+[Time Warp SEKAI - Past?]
+
+(Character: Shiho Hinomori, Airi Momoi, Nene Kusanagi, Kanade Yoisaki, Kagamine Len)
+
+Airi: Guys, listen! The exploration team apparently found a way out of this SEKAI.
+Shiho: Wait... Really?
+Len (MMJ): Yeah, and they ran into a dinosaur along the way. Thank goodness they're all back safe and sound.
+Nene: A d-dinosaur...?! I'm glad they haven't come to our camp...
+Airi: Yeah, since they might've destroyed our shelter. But I'm really glad to hear that we have a way to get back to our normal lives.
+Nene: Me too. I'm happy that we can leave, but I'm also a little sad.
+Shiho: I get how you feel. We all worked really hard to establish our base camp.
+Airi: Building our shelter, cooking for everyone... It wasn't easy, but it was also a lot of fun.
+Kanade: I agree. It also ended up helping me get fitter, so I'm glad we were sent here.
+Len (MMJ): Hey, you guys...
+Len (MMJ): Wanna put up some decorations before we have to leave?
+Shiho: Decorations?
+Len (MMJ): Yeah. I'm sure the other teams feel the same way as us, so I thought we could do something to make them all smile.
+Nene: Yeah, I also want us to keep having fun until the very end.
+Airi: Then, let's talk to MEIKO and the others about making our shelter even more spectacular! While keep any dinosaurs away from it!
+
+
+8 2203:areatalk_aprilfool2024_008
+
+[Time Warp SEKAI - Past?]
+
+(Character: Ichika Hoshino, An Shiraishi, Hatsune Miku, Kagamine Len)
+
+An: I sorta panicked when I found myself here... But we gotta find ourselves some food since there's no telling how long we're gonna be stuck here.
+Len (WxS): Right! The others are working really hard to build us a shelter and find a way back, so we also need to do our best!
+Miku (N25): But is there anything actually edible here?
+Ichika: That's hard to say... We may be able to find some edible mushrooms and wild herbs if we look hard enough.
+An: Oh, check it out! There's a ton of mushrooms growing at the bottom of this tree!
+Len (WxS): Hey, look at that...! This is fun! It's like we're hunting for treasure!
+Miku (N25): Yes, it is. We can take this mushroom and—
+Ichika: No, Miku, wait! What if it's poisonous? We need to make sure to identify these things before we do anything.
+Miku (N25): P-Poisonous...?
+Len (WxS): A-Are you okay, Miku?! You didn't touch it, did you?!
+Ichika: Yes, she seems fine... I'm sorry for not saying anything sooner.
+An: Hmm... In that case, why don't you let us know if you find anything that looks edible? We'll check to make sure that it's safe to eat before we pick it!
+Len (WxS): Okay! Alright, Miku, let's have a race to see who can find the most stuff! Who knows what other fruits and mushrooms we're gonna find here?!
+Miku (N25): Sure... So, where should we start looking?
+An: I feel like I've got a little brother and sister now. They're so cute together.
+Ichika: Hehe. I know what you mean.
+
+
+9 2204:areatalk_aprilfool2024_009
+
+[Time Warp SEKAI - Past?]
+
+(Character: Ena Shinonome, Megurine Luka, MEIKO, KAITO)
+
+MEIKO (Ln): It sounds like Ichika and the others already found some mushrooms for us. They'll cook for us today, so let's go find a good source of water.
+Luka (VBS): Okay! I'm so excited about getting to explore the jungle like this.
+Ena: Excited? How is this enjoyable to you? We're in a SEKAI that we know nothing about, and we don't know if we'll ever be able to get home.
+KAITO (MMJ): Yes, you bring up some concerning points, but I'm with Luka on this one!
+Luka (VBS): Huh...?
+KAITO (MMJ): It's not every day that you get to work with each other to survive in a primeval jungle like this.
+MEIKO (Ln): I agree. I'm sure the exploration team will find a way back for us, so I think we should think about how we're going to enjoy our time here.
+Ena: Yeah, I guess... This place does offer some amazing landscapes, which I could use in my art.
+Ena: (That being said...)
+Ena: (Everyone here's really nice, polite and easy to talk to...)
+Ena: (But this still feels super weird...!)
+
+
+10 2205:areatalk_aprilfool2024_010
+
+[Time Warp SEKAI - Past?]
+
+(Character: Ichika Hoshino, Ena Shinonome, Hatsune Miku, Megurine Luka)
+
+Miku (N25): Um, Ichika? What are these? They look like strange little sticks.
+Ichika: Let me see... Oh, those are horsetails. They're actually edible.
+Luka (VBS): Oh! Nice work, Miku!
+Ena: (Miku looks like she's having fun... And she seems to be getting along really well with everyone.)
+Miku (N25): Oh, I think there's something growing on the top branches of that tree.
+Ichika: You're right. I can't tell exactly what, but it might be some kind of fruit.
+Luka (VBS): Then it might be edible! Alright, I'll climb up and get it for us!
+Ena: What?! No, stop! It's way too dangerous to climb up that high!
+Miku (N25): It is...?
+Luka (VBS): I'm seeing plenty of big branches to stand on, so I'll be fine! Plus, we should do as many new things as we can while we're here!
+Ena: New things...? I get how you feel, but why does climbing up a giant tree have to be one of them...?!
+Luka (VBS): Haha. Oh, Ena, you're being too protective. I'll be helping, so she'll be just fine! So, Miku, let's start climbing♪
+
+
+11 2206:areatalk_aprilfool2024_011
+
+[Time Warp SEKAI - Past?]
+
+(Character: Ichika Hoshino, An Shiraishi, Ena Shinonome, Hatsune Miku)
+
+An: Alright, one fishing rod made to order!
+Ena: That looks pretty good considering it's made out of a branch and a vine.
+Ichika: Yeah, it does. Now we can catch some fish and— Oh, wait...
+Ichika: We forgot about bait. We don't have a lure, so I guess we'll have to use live bait.
+An & Ena: ...!
+An: Live bait? Like worms? Slimy, gross worms...?
+Miku (N25): Like this one...? There's a lot hiding under this rock.
+Ena: M-Miku!
+An: N-No, get it away!
+Ichika: O-Okay, relax... If bugs aren't really your thing, then I'll—
+Miku (N25): Umm... I got some.
+Ichika, An & Ena: M-Miku...!
+
+
+12 2207:areatalk_aprilfool2024_012
+
+[Time Warp SEKAI - Past?]
+
+(Character: An Shiraishi, Kagamine Len, MEIKO, KAITO)
+
+An: Uhh... T... T... I don't want to say this word, but “tomato”!
+MEIKO (Ln): Alright, so O. Then...
+MEIKO (Ln): How about “onyx”?
+Len (WxS): Huh?! X again? Uhh... What's another word that starts with X...?
+Len (WxS): But I'm the one who suggested that we play this while walking back, so I gotta give it a try...! Hmm...
+KAITO (MMJ): M-MEIKO...
+MEIKO (Ln): Haha. Sorry. He's so much more naive than the Len I know, so I couldn't help but tease him a little.
+KAITO (MMJ): I know what you mean... Len the idol is quite knowledgeable, so I imagine he's very good at this game.
+Len (WxS): He is?! Then, I might ask him for some advice!
+An: Yeah! Starting with some good words that start with T.
+An: Still, KAITO, you've been the biggest surprise to me so far. I mean, you gave me water right when I was starting to feel thirsty.
+MEIKO (Ln): Hehe. It is a little fun to spend time with everyone's counterparts like this.
+
+
+13 2208:areatalk_aprilfool2024_013
+
+[Time Warp SEKAI - Past?]
+
+(Character: Kagamine Len, Megurine Luka, KAITO)
+
+Len (WxS): The soup Nene and the others made using those wild herbs and mushrooms was so delicious!
+KAITO (MMJ): Yes, it was. With the food we find going to such good use, I couldn't feel more fortunate as a member of the foraging team.
+KAITO (MMJ): So, we should go find that patch of herbs again and—
+Luka (VBS): Stop right there! The same herbs from the same place?
+KAITO (MMJ): Huh?
+Luka (VBS): Our cooks at camp are amazing at their job, right? I'd like to see what else they can make for us.
+Luka (VBS): So, I think we should go find ourselves something different from before!
+KAITO (MMJ): I see... We'll all get bored of having the same thing sooner or later, so it might be good to go for something new.
+Len (WxS): Yeah, it'd be great to find something that'll make everyone smile!
+Luka (VBS): Then, it's settled! Today, we'll try foraging somewhere different!
+
+
+14 2209:areatalk_aprilfool2024_014
+
+[Time Warp SEKAI - Past?]
+
+(Character: Ichika Hoshino, An Shiraishi, Ena Shinonome, MEIKO)
+
+Ichika: Okay, Miku and I gathered some fruit. We managed to find a bunch of peaches today.
+An: Wow, these look amazing! I helped Len and the others pick berries, including some raspberries!
+Ena: Nice. I can't wait to see what kinds of dishes these turn into later.
+Ichika: Still... It's kinda sad to think this is the last time we'll be foraging for food together.
+An: Yeah... I was so scared by this place at first since we knew nothing about it, but somewhere down the line I started having so much fun.
+Ena: Same. I'm really glad that we got to do all those things together. That being said, I never wanna have to survive in the wild ever again.
+MEIKO (Ln): Then, let's gather as much as we can so that we can have ourselves one last delicious feast!
+MEIKO (Ln): With how much better we've gotten at this, I bet we can find three times the amount we did on our first day.
+Ichika: Hehe. Me too! Let's do our best to make sure we get to have a real banquet!
+An: Yeah!
+
+
+15 2210:areatalk_aprilfool2024_015
+
+[Time Warp SEKAI - Past?]
+
+(Character: Minori Hanasato, Tsukasa Tenma, Kagamine Rin, MEIKO)
+
+Tsukasa: Alright, Pegasus Expedition Team! Are you ready to do some exploring?!
+Minori: Aye, Captain, we're all set!
+Rin (Ln): Wait, what?! Captain?! That's so cool! When did you get a title?! I want one too!
+MEIKO (N25): (They're quite the lively bunch...)
+Rin (Ln): Oh, also! We should do a cheer before setting off! That should help pump us up and set the stage for a fun adventure!
+Tsukasa: Excellent idea! Everyone, hands in the middle!
+Minori: Okay! You too, MEIKO! Here, stand next to me!
+MEIKO (N25): I'm okay, really...
+Rin (Ln): Don't say that! We gotta do this together♪
+MEIKO (N25): Wait...
+Tsukasa: Alright, that's everyone! Ready?! Here we...
+Tsukasa, Minori & Rin: Gooo!!!
+MEIKO (N25): ...
+
+
+16 2211:areatalk_aprilfool2024_016
+
+[Time Warp SEKAI - Past?]
+
+(Character: Toya Aoyagi, Hatsune Miku, Kagamine Len, Megurine Luka)
+
+Toya: Alright, everyone, let's follow Tsukasa's lead and set off.
+Len (VBS): T-Toya, wait! Luka's...
+Luka (WxS): Zzz...
+Miku (MMJ): L-Luka's on the ground! Is she okay?!
+Luka (WxS): Huh...? Did I fall asleep just now...?
+Luka (WxS): I'm sorry. I have this habit of doing that without realizing it...
+Toya: Without realizing it? That might make things difficult...
+Miku (MMJ): *Nod* What if she trips over something after falling asleep while walking...?
+Miku (MMJ): Oh, I know! Why don't we try to keep Luka from falling asleep by singing?
+Len (VBS): Great idea! That sounds really fun! Alright, how about this one?
+Len (VBS): ♪——! ♪——! ♪~~!
+Toya: That's nice. The lighthearted melody is already making me feel like a brave adventurer.
+Luka (WxS): Yes, I'm also getting very excited... Zzz... Zzz...♪
+Len (VBS): No, don't fall asleep!
+
+
+17 2212:areatalk_aprilfool2024_017
+
+[Time Warp SEKAI - Past?]
+
+(Character: Tsukasa Tenma, Kagamine Len, Megurine Luka, MEIKO)
+
+Len (VBS): Alright, let's find a way to get back!
+Tsukasa: That's what I like to hear, Len! Whether or not we can return home hangs on the Pegasus Expedition Team succeeding, so we need to keep a sharp eye out for clues!
+Len (VBS): It's down to us...
+Len (VBS): Then, leave everything to me!
+Luka (WxS): Hehe. Everyone sounds like they're having so much fun... Zzz...
+MEIKO (N25): Luka, no. Don't snuggle up against me like that.
+Tsukasa: Sorry, but the MEIKO we know always lets Luka use her lap as a pillow.
+Len (VBS): Wow, they must be really close friends!
+MEIKO (N25): But we're talking about a different MEIKO. Why do I have to—
+Luka (WxS): Hehe. I wonder what my dreams will be like when I use this MEIKO's lap as a pillow. I'm looking forward to... Zzz.
+MEIKO (N25): ...
+
+
+18 2213:areatalk_aprilfool2024_018
+
+[Time Warp SEKAI - Past?]
+
+(Character: Minori Hanasato, Toya Aoyagi, Kagamine Rin)
+
+Rin (Ln): Wait a second... Which way did we come from again?
+Toya: That direction. Actually, it may be a good idea for us to leave some trail markers in order to keep us from getting lost.
+Minori: Hmm... Oh, I remember this one story where they left rocks and food!
+Toya: I see. Unfortunately, I'm not seeing anything we can use...
+Rin (Ln): Oh, I have a brilliant idea...! What if we drew pictures on some of these flat rocks?! Here, like this...
+Minori: Wow, that's such a cute smiley face! You're a genius, Rin!
+Toya: Yes, that is a brilliant idea. So, what should I draw...?
+Rin (Ln): Hmm... Whatever you want? I mean, that'll make things more fun! I'm actually thinking about drawing Len doing a performance next!
+Minori: Then, I think I'll draw Haruka. I've been feeling so sad ever since I realized that she isn't in this SEKAI with us!
+Toya: You're both drawing pictures of the people closest to you? I'll do the same then...
+
+
+19 2214:areatalk_aprilfool2024_019
+
+[Time Warp SEKAI - Past?]
+
+(Character: Minori Hanasato, Kagamine Rin, Kagamine Len, MEIKO)
+
+Minori: Huh? What are these...? Footprints?
+Len (VBS): They're so big. Bigger than my face! What would leave these behind?
+Rin (Ln): Wait! What if...a dinosaur made these?!
+Minori & Len: What?!
+Len (VBS): H-How's that possible?! I thought dinosaurs all went extinct!
+Rin (Ln): It is possible! This is a SEKAI, so it's perfectly believable for dinosaurs to be walking around!
+Minori: Th-Then...
+Len (VBS): These really were made by...?!
+Len (VBS): H-Hey, MEIKO! Let's go find the dinosaur that made these!
+MEIKO (N25): You can. I'm not.
+Rin (Ln): Wait, you're not coming with us?
+Minori: It's okay if you don't wanna join us. We'd feel a lot better with you around, but we should still go look! We might be able to find it if we trace back its footprints.
+Len (VBS): Hey, I found more footprints! It went across the river? How do we cross this?
+Rin (Ln): That fallen tree over looks like it could work as a bridge! It might be a little hard to walk across, but we should be fine! Let's go☆
+MEIKO (N25): *Sigh*
+MEIKO (N25): Wait. I'll go with you for part of the way.
+
+
+20 2215:areatalk_aprilfool2024_020
+
+[Time Warp SEKAI - Past?]
+
+(Character: Toya Aoyagi, Tsukasa Tenma, Hatsune Miku, Megurine Luka)
+
+Tsukasa: We've been in this SEKAI for a few days now... But I'm sure we'll find a clue as to how to get back today!
+Toya: Right. We need to succeed and not bring any dishonor to the Pegasus Expedition Team.
+Miku (MMJ): Wait... Luka, wake up! Everyone else is leaving!
+Tsukasa: Leave it to me, Miku. To wake Luka, one needs a truly booming voice.
+Tsukasa: Lukaaa! Wake uuup!!!
+Luka (WxS): Yawn... I'm up...
+???: *Roar*
+Miku (MMJ): Huh?! That sounded like—
+Dinosaur: *Roar*
+Luka (WxS): My, what a big lizard.
+Tsukasa: Y-You mean dinosaur, right?! R-Run!
+Toya: Tsukasa, we can hide over there!
+Tsukasa: Ah, Toya, good eye! Those look like ancient ruins of some kind. And those statues. Where have I seen them before...?
+Tsukasa: No, that can wait! Everyone, run into those ruins!
+Miku, Toya & Luka: Roger!
+
+
+21 2216:areatalk_aprilfool2024_021
+
+[Time Warp SEKAI - Past?]
+
+(Character: Minori Hanasato, Toya Aoyagi, Tsukasa Tenma, Hatsune Miku)
+
+Minori: You met a dinosaur, Tsukasa?! I wish I was there...!
+Tsukasa: Yes, and the ruins we ran into that Toya spotted just happened to provide us with the clue we needed for going home!
+Miku (MMJ): Way to go, Tsukasa, Toya♪
+Tsukasa: Hah hah hah! It is only natural for a future star to have good luck!
+Tsukasa: However, this also ended up being a wonderful learning experience! I should be able to make good use of the terror I felt when I came face to face with that dinosaur in future performances.
+Toya: Yes, I'm sure you will.
+Toya: Not only our encounter with the dinosaur, but all our adventures as the Pegasus Expedition Team are something I'll treasure dearly moving forward.
+Miku (MMJ): When you think about it, we were pretty lucky to have been sent to this SEKAI!
+Minori: Anyway, what's this clue you guys found? How do we get back?
+Tsukasa: Ah, about that...
+
+
+22 2217:areatalk_aprilfool2024_022
+
+[Time Warp SEKAI - Future?]
+
+(Character: Shizuku Hinomori, Mafuyu Asahina, Kagamine Rin, KAITO)
+
+KAITO (WxS): This place is so strange. I never expected to be sent to a place like this, but we need to do our best to find a good place to call our base camp.
+Shizuku: Hehe. Everything's so brightly lit that getting lost shouldn't be an issue.
+Mafuyu: Right. But despite all these lights, there doesn't seem to be anyone else around...
+Rin (MMJ): There's lots of homes, but a lot of them are damaged or destroyed. Do you think there are any we could go into?
+Shizuku: Oh, something caught my eye while walking down that other street. Mind if we go take a look at it?
+KAITO (WxS): You already found something? That's wonderful to hear. Then, can you show us the way?
+Mafuyu & Rin: What...?
+Shizuku: Yes, of course! It was this sign that was lit up all blue... Oh, that must be it.
+Mafuyu: Wait, Hinomori...! The signs here all seem to change colors after a certain amount of time has passed. I think we're actually supposed to go this way.
+Shizuku: Oh, really? Thank you for pointing that out, Asahina.
+Shizuku: Umm... Then, we passed in front of a building that was lit up all yellow... Which means that way!
+Mafuyu: Uh-oh...!
+Rin (MMJ): Sh-Shizuku! Can we hold hands for a little while? I'm still kinda uncomfortable about exploring a place I've never been before.
+Shizuku: Oh, you are? Then, let's walk slowly while holding hands, shall we?
+Rin (MMJ): Great, thanks! Oh, isn't that the yellow building you were talking about? Let's go this way♪
+KAITO (WxS): Hehe. Those two are so close.
+
+
+23 2218:areatalk_aprilfool2024_023
+
+[Time Warp SEKAI - Future?]
+
+(Character: Honami Mochizuki, Hatsune Miku, Megurine Luka, MEIKO)
+
+Honami: Shizuku and her group are going to explore the area with all those big buildings, so let's try looking around these alleyways.
+MEIKO (VBS): Okay. Oh, and we've reached a fork already.
+Luka (N25): As a senior, Miku, which path do you think will lead us to a lovely site for our base camp?
+Miku (Ln): Luka, can you stop with that already?
+Luka (N25): But why? You're the senior where you're from, right? You said you even have juniors.
+Miku (Ln): Yes, I do... But the Luka I know is my senior, so it feels weird when you treat me as your senior...
+Luka (N25): Oh, I see. In that case, I'll be your senior.
+Luka (N25): Still, this is quite the conundrum... I don't know how to act like someone's senior, so would you mind showing me what I should be doing, Miku?
+Miku (Ln): Huh...? You want me to show you how? By pretending to be your senior?
+Honami: I think you'll do just fine, Miku. You've given us so much wonderful advice already, so we know we can always count on you for help.
+Miku (Ln): Th-Thank you, Honami...
+Miku (Ln): (But the truth is, I'm just copying what Luka does most of the time...)
+Luka (N25): Is she really that reliable? Hehe. I can't wait to learn from you♪
+MEIKO (VBS): (This Luka seems like a handful in a different kind of way.)
+
+
+24 2219:areatalk_aprilfool2024_024
+
+[Time Warp SEKAI - Future?]
+
+(Character: Shizuku Hinomori, Mafuyu Asahina, Kagamine Rin, Megurine Luka, KAITO)
+
+Shizuku: Thank goodness we found a building we can all use as shelter. I feel much better now since it seems very sturdy.
+Mafuyu: Yes, but there's quite a lot of dust, and it's very messy.
+KAITO (WxS): It looks like it's been out of use for a long while. Why don't we try cleaning it up a bit before the others return... Hm?
+???: *Beep* My name is Robo-Housekeeper. Awaiting orders.
+Rin (MMJ): What?! A Robo-Housekeeper? You'll help us? Then, let's clean this place up together.
+Robo-Housekeeper: Understood. Ow... I bumped into the wall...
+Mafuyu: This robot can't seem to stop bumping into that wall. Could it be a bug of some sort?
+Shizuku: Oh, I wish we could help... Uhh... Oh, look! What if we pressed this button?
+KAITO (WxS): Huh? Wait, Shizuku, we don't know what that—
+Robo-Housekeeper: *Beep* Switching to intruder capture mode.
+Rin (MMJ): No, it's coming after us now! What do we do?!
+KAITO (WxS): For now... Run!
+Shizuku: B-But the doors are all closed! How do we get them to open?!
+Luka (N25): Oh, this isn't good.
+Robo-Housekeeper: *Beep* One intruder captur—
+Mafuyu: Stop.
+KAITO (WxS): Huh...? Mafuyu?
+Robo-Housekeeper: Understood.
+Rin (MMJ): I-It stopped?! Wait, all we had to do was order it to...?
+Mafuyu: Yes, it seems that way.
+KAITO (WxS): (Mafuyu's expression changed rather drastically there for a second... Or did I just imagine that...?)
+
+
+25 2220:areatalk_aprilfool2024_025
+
+[Time Warp SEKAI - Future?]
+
+(Character: Hatsune Miku, Kagamine Rin, MEIKO)
+
+Miku (Ln): Phew... This room feels so much cleaner now since we couldn't even see the floor when we started.
+Rin (MMJ): Plus, we found a bunch of cool stuff like that flying suit and the talking children's book♪
+MEIKO (VBS): Oh, I just found something else.
+Rin (MMJ): You did? What was inside?
+MEIKO (VBS): Hehe. A coffee mill. I could open up a cafe here if we managed to find some nice beans.
+Rin (MMJ): Wait, MEIKO, didn't you say that you're already running your own cafe?
+MEIKO (VBS): Yes, I am. I support the owners of my SEKAI by cooking delicious food and making yummy drinks for them.
+Miku (Ln): Oh, I never considered that as a way of being supportive.
+Rin (MMJ): That's so nice of you! And it's so cool that you're the boss...!
+MEIKO (VBS): Hehe. The Rin from my SEKAI comes by to help a lot because she feels the same way. I even have Miku take my place whenever I'm absent.
+Rin (MMJ): Really...?!
+Rin (MMJ): Then, MEIKO, if we do find some beans, can I help you start your cafe?
+Miku (Ln): Oh, I'd like to as well.
+MEIKO (VBS): Yes, of course. Let's turn it into a wonderful little cafe.
+
+
+26 2221:areatalk_aprilfool2024_026
+
+[Time Warp SEKAI - Future?]
+
+(Character: Honami Mochizuki, Mafuyu Asahina, MEIKO, KAITO)
+
+Mafuyu: Thank goodness we were able to clean everything up in time. I feel much better knowing that the others got a chance to rest when they got back.
+Honami: Me too. Why don't we take a break as well since this seems like a good time to take one?
+Honami: Oh... I think I'm getting hungry...
+KAITO (WxS): Hehe. I can tell. Emu and the others are passing out food, so let's grab a bite during our break.
+MEIKO (VBS): Oh, in that case, I'll try brewing some coffee for us.
+Mafuyu: Coffee?
+MEIKO (VBS): Yes. We found a coffee mill and some beans while cleaning up. I don't recognize these beans, but they don't smell strange or anything... My hope is to share with everyone if it turns out okay.
+KAITO (WxS): That sounds nice. We're all still getting used to being in such a new environment, so a cup of coffee could help settle our nerves.
+Honami: Settle our nerves...?
+Honami: Um, MEIKO? Can I help you brew that coffee?
+MEIKO (VBS): Yes, of course! I'll teach you how to make really delicious coffee.
+Mafuyu: Oh, in that case, I'd also like to watch.
+
+
+27 2222:areatalk_aprilfool2024_027
+
+[Time Warp SEKAI - Future?]
+
+(Character: Honami Mochizuki, Shizuku Hinomori, Hatsune Miku)
+
+Miku (Ln): Everyone, look! Saki and the others found all these things for us.
+Honami: This looks like... Bread?
+Miku (Ln): Outwardly. It doesn't taste like anything, but one small bite is apparently enough to fill your stomach.
+Shizuku: Oh, that's incredible!
+Shizuku: But...enjoying these may be difficult if they don't taste like anything.
+Miku (Ln): Right... But if it means not being hungry, then we should feel grateful and...
+Honami: No, I disagree!
+Honami: We're all trying to survive in an unfamiliar place, so I'd like to give everyone a chance to relax by preparing these in a really delicious way!
+Shizuku & Miku: Honami...! Honami...
+Shizuku: You're right. Saki and the others all worked very hard to find these for us, so I'd like for them to smile.
+Miku (Ln): Okay. Then, I'd like to help with that as well.
+
+
+28 2223:areatalk_aprilfool2024_028
+
+[Time Warp SEKAI - Future?]
+
+(Character: Honami Mochizuki, Shizuku Hinomori, Mafuyu Asahina, Megurine Luka)
+
+Shizuku: Everyone, I have big news! Haruka and her team said they found a way back for us.
+Honami: Wait, really...? Then...
+Mafuyu: We can finally go home.
+Luka (N25): Oh, we have to leave already?
+Honami: Huh?
+Luka (N25): I just think it's unfortunate since this place was the furthest thing from boring, and Miku was just getting used to being my senior.
+Mafuyu: (It felt more like she was afraid of you.)
+Shizuku: But I understand how Luka feels. It is a little sad to think that we don't have much time left in this shelter.
+Shizuku: Wait, everyone...! Why don't we throw ourselves a party using the rest of the food we have?
+Mafuyu: I'd like that as well. Otori and the others worked very hard to gather all that food, so I'd rather not see it go to waste.
+Luka (N25): Oh, that's so thoughtful of you. If possible, I'd like to invite our robot and alien friends. Hehe. I'm very much looking forward to this party now.
+Honami: Then, let's do our best today to make the best feast we can!
+
+
+29 2224:areatalk_aprilfool2024_029
+
+[Time Warp SEKAI - Future?]
+
+(Character: Saki Tenma, Kohane Azusawa, Hatsune Miku, Kagamine Rin, KAITO)
+
+Miku (VBS): Oh, Kohane, are you also on the team looking for food? I'm really glad.
+Kohane: Me too, Miku! But do you think we'll really be able to find anything for us to eat here?
+Miku (VBS): I don't know. I haven't seen any other people... If there is any food, it might only be things for robots and aliens.
+Rin (WxS): Hm? Why the long face, KAITO? Is something wrong?
+KAITO (Ln): Huh? Nothing's wrong...
+Rin (WxS): Then, let's turn that frown upside down☆
+Saki: Upside down?
+Rin (WxS): Yeah☆ There's no way anyone can feel sad whenever they have a big smile on their face♪
+KAITO (Ln): I see. Thank you... But...
+Rin (WxS): Come on! Try it! Gimme a big smile☆
+KAITO (Ln): (Wait, is she not going to leave me alone until I do...? S-Saki, help...)
+Saki: (KAITO's looking right at me. Is something wrong? Does he want us to do it together?)
+Saki: You can do it, KAITO! Here, lemme join you☆ Gimme a big smile☆
+KAITO (Ln): N-No, that's not—
+Kohane: He's so different from the KAITO we know.
+Miku (VBS): Our KAITO wouldn't hesitate to smile along. But this KAITO seems really uncomfortable, so maybe we should help him.
+
+
+30 2225:areatalk_aprilfool2024_030
+
+[Time Warp SEKAI - Future?]
+
+(Character: Emu Otori, Mizuki Akiyama, Kagamine Len, MEIKO)
+
+Emu: It's time to start questing for delicious food☆ Everybody, one, two...
+Mizuki & MEIKO: Wonderhoy!
+Len (N25): ...
+Mizuki: Len, don't stand over in the corner. Come join us!
+Emu: Yeah, you should be here shouting “wonderhoy” with us!
+Len (N25): W-Won...?
+Emu: Oh, saying “wonderhoy” is like casting a spell that makes everyone smile☆
+Emu: Which is why I want you to join us in all the fun stuff we do, Len! I wanna see you smile from ear to ear!
+MEIKO (MMJ): Hehe. That's so wonderful♪
+Len (N25): O-Okay...
+Len (N25): Um, Emu...? Can you teach me how to say “wonderhoy” properly?
+Emu: Then, let's all do it again together! One, two...
+Emu, Mizuki, MEIKO & Len: Wonderhoy!
+
+
+31 2226:areatalk_aprilfool2024_031
+
+[Time Warp SEKAI - Future?]
+
+(Character: Saki Tenma, Emu Otori, Kagamine Len, MEIKO, KAITO)
+
+Saki: Hmm... This door just won't open.
+MEIKO (MMJ): But this is a pantry according to this sign, so we can't ignore it.
+KAITO (Ln): Oh, there's something written above the door.
+Emu: Hey, you're right! Uhh... “I open with a bang”...?
+Saki: What?! Does it mean with explosives or something? Things are getting really violent all of a sudden...
+MEIKO (MMJ): Stand back for me, everyone.
+Len (N25): M-MEIKO...?
+MEIKO (MMJ): I believe this situation calls for an idol's magic touch.
+MEIKO (MMJ): Bang♡
+KAITO (Ln): Oh, it opened...
+Emu: Whoa! That was so cool! And really cute, MEIKO!
+Saki: And you stole my heart in the process...!
+MEIKO (MMJ): Hehe. Only an idol can open a door like that, right?♪
+
+
+32 2227:areatalk_aprilfool2024_032
+
+[Time Warp SEKAI - Future?]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+Miku (VBS): Oh, wait, you two. This looks like jam.
+MEIKO (MMJ): Oh, you're right. Most of the food we've been finding has been basically flavorless, so this should put a smile on everyone's faces.
+KAITO (Ln): Umm... We may want to check to see whether or not this is edible first.
+MEIKO (MMJ): It smells fine... So, why don't we try spreading some over one of these cookie-like things?
+Miku (VBS): Oh, hang on. We can mix in some of this yellow seasoning while we're at it.
+KAITO (Ln): Wait, both of them together...?
+Miku (VBS): Yes. I cook from time to time, and I've found that adding a contrasting flavor like salt or lemon can bring out the sweetness in a dish.
+Miku (VBS): This yellow stuff smells like a spice, so I think it'll go well with the jam since it's so sweet.
+KAITO (Ln): A-Are you sure about that...?
+KAITO (Ln): (Oh, there's another ingredient here... This looks like soy sauce...)
+MEIKO (MMJ): Huh? KAITO, did you just hide something behind your back?
+KAITO (Ln): Wait, how did you...?
+Miku (VBS): You have some soy sauce there, right? We can use it as a subtle accent since it should provide us with just the right amount of saltiness.
+KAITO (Ln): W-Wait, you're putting in quite a lot... What happened to it being a subtle accent...?
+Miku (VBS): Okay, all done. Mind giving it a taste, KAITO?
+KAITO (Ln): Uhh...
+
+
+33 2228:areatalk_aprilfool2024_033
+
+[Time Warp SEKAI - Future?]
+
+(Character: Saki Tenma, Kohane Azusawa, Emu Otori, Mizuki Akiyama)
+
+Mizuki: G-Guys, listen! You gotta come see this!
+Emu: Huh?
+Saki: What's wrong, Mizuki? Wait, whaaat?!
+???: ※〇◎▽◇※▽〇~
+Kohane: U-Uhh... Are you by chance an alien?
+Saki: They look like an octopus, so they must be! I always thought that aliens were really scary, but this one's kinda cute! They sorta look like a plushie♪
+Kohane: B-But what are they saying?
+Emu: Hmm... Oh, I know! What if we tried copying the way they talk?! We want to be your friends bling-blong-beep-boop☆
+Alien: !　※〇◎▽◇※▽〇☆
+Mizuki: Oh, Emu, I think they just responded to you.
+Saki: Yeah! That's amazing Emu!
+Emu: Hehe. Cool! This is so super special wonderhoy!
+Alien: Wonderhoy!
+Saki, Kohane & Mizuki: What...?!
+Saki: Haha! Now they're copying you♪
+
+
+34 2229:areatalk_aprilfool2024_034
+
+[Time Warp SEKAI - Future?]
+
+(Character: Kohane Azusawa, Mizuki Akiyama, Hatsune Miku, Kagamine Rin, Kagamine Len)
+
+Miku (VBS): What? You became friends with an alien, and they gave you food?
+Mizuki: Yeah! We started by copying what they were saying, and we ended up doing a show together!
+Rin (WxS): A show? No fair! That sounds like fun!
+Kohane: Hehe. We made plans to hang out again another time, so you should come join us, Rin.
+Len (N25): Wait, so... Do you think this stuff is edible...?
+Mizuki: That is the question... It kinda looks like bread, but I am gonna need to psych myself up a little before taking my first bite...
+Miku (VBS): Hmm... Yes, it's okay to eat as far as I can tell.
+Mizuki: Whoa, you're already eating it?! In that case, I'll join you. Bon appetit♪
+Mizuki: Wait, is it just me, or does this have like no flavor...?!
+Kohane: Oh, you're right... But I feel full after just taking a small bite.
+Miku (VBS): Me too, now that you mention it. These might come in handy.
+Len (N25): H-Huh...? This one tastes kinda like chocolate...
+Mizuki: So, some of these have flavor?! Looks like you won the lottery, Len!
+Rin (WxS): He won something? Hey, no fair!
+Len (N25): Umm... Then, wanna split this one?
+Rin (WxS): You're really giving me half? Hehe. Thanks♪
+
+
+35 2230:areatalk_aprilfool2024_035
+
+[Time Warp SEKAI - Future?]
+
+(Character: Saki Tenma, Kohane Azusawa, Emu Otori, Mizuki Akiyama, Kagamine Rin)
+
+Rin (WxS): I can't wait to throw that party with everyone☆
+Kohane: What party?
+Mizuki: You know how the exploration team found a way back for us? Honami and the others said they're gonna whip up a feast for us to celebrate!
+Saki: They are?! Then, we gotta go find some yummy food for them to use!
+Emu: Yeah! Also... I wanna give our alien friend and Robo-Housekeeper a proper goodbye.
+Rin (WxS): Oh...
+Rin (WxS): (Right... We probably won't ever get to see them again once we're gone.)
+Rin (WxS): (Not only them, but Kohane, Mizuki and Saki too...)
+Saki: Chin up, Rin!
+Rin (WxS): Huh?
+Saki: I'm also really sad about having to say goodbye to everyone... Which is why I think we should try to enjoy every second we have left together!
+Kohane: I agree. We should keep creating as many fun memories as we can.
+Mizuki: Yeah, definitely! So, Rin, let's turn that frown upside down!
+Rin (WxS): You guys...
+Rin (WxS): Okay! Hehe. Let’s have another smile-filled day, and keep on finding delicious food for everyone☆
+
+
+36 2231:areatalk_aprilfool2024_036
+
+[Time Warp SEKAI - Future?]
+
+(Character: Akito Shinonome, Rui Kamishiro, Hatsune Miku, Megurine Luka)
+
+Akito: We gotta get out of this weird SEKAI as soon as we possibly can. Let's hurry up and find a way—
+Rui: Hehe. These buildings are so interesting. I've never seen anything like them. I wonder what the machine on top of that one is supposed to do...
+Miku (WxS): Whoa! What was that?! It was all sparkly and went whoosh across the sky! Did you see it, Shinonononome?!
+Akito: You're adding too many syllables. It's just Shinonome. Anyway, let's get going already.
+Miku (WxS): Okay☆ Right behind you, Shi-no-no...nome!
+Akito: (Is this team gonna be okay...?)
+Luka (MMJ): Hehe. That's still one too many, Miku. Just Shinonome, remember♪
+Akito: Wait, you're... Luka...?
+Luka (MMJ): Yes, it's a pleasure to meet you. Let's do our best to find a way for us to return to our regular SEKAI, shall we?
+Luka (MMJ): Huh? What's wrong, everyone?
+Akito: No, it's just... I'm not used to seeing you act so mature and responsible.
+Miku (WxS): Me neither☆ You're so sparkly! And not asleep! I can't help but feel amazed!
+Luka (MMJ): Hehe. Receiving so much praise after just introducing myself must mean that my counterparts are very unique people♪
+
+
+37 2232:areatalk_aprilfool2024_037
+
+[Time Warp SEKAI - Future?]
+
+(Character: Haruka Kiritani, Kagamine Rin, Kagamine Len, KAITO)
+
+KAITO (VBS): Oh, Len, listen! There's a light flashing over there! What if it's an alien?!
+Len (Ln): There's plenty of flashing lights around here. Also, we're here to look for a way back, so try to stay focused.
+KAITO (VBS): What? B-But...! Wait, Rin, don't you want to see if there's an alien over there?!
+Rin (N25): Not really.
+KAITO (VBS): Huh...?
+KAITO (VBS): (This Len and Rin are completely different from the ones I'm used to being around...!)
+Haruka: Umm... If there really is an alien over there, then I'd like to meet them.
+KAITO (VBS): H-Haruka...!
+Haruka: Even if that light isn't a space alien, it could be a clue about how to get home. So, why don't we all go take a look?
+Rin (N25): Fine.
+Len (Ln): Yeah, I guess we should go if there's a chance of finding a good clue.
+KAITO (VBS): H-Huh...? Why did I get the cold shoulder before?!
+
+
+38 2233:areatalk_aprilfool2024_038
+
+[Time Warp SEKAI - Future?]
+
+(Character: Akito Shinonome, Rui Kamishiro, Kagamine Rin, Kagamine Len)
+
+Len (Ln): Hey, Rui, what's that machine? It kinda looks like a bird.
+Rui: This? It's called a drone. I was hoping to see this SEKAI from up above using the camera that's installed at the nose.
+Len (Ln): Wow, that's pretty cool.
+Rui: Hehe. I don't mind letting you fly it if you're interested.
+Len (Ln): Wait, really?
+Rin (N25): ...
+Akito: If you're also interested, all you have to do is join them.
+Rin (N25): I'm fine... I mean, we don't have time to be playing around.
+Akito: Well, you definitely seem interested in it.
+Rin (N25): No, I'm not.
+Akito: Mind if we borrow that drone, Kamishiro?
+Rui: Not at all. I brought plenty.
+Akito: Thanks.
+Akito: Alright, now's your chance to help the team by flying it and doing some recon.
+Rin (N25): In that case, I'll fly it for you.
+Akito: (Geez, she's so insincere.)
+
+
+39 2234:areatalk_aprilfool2024_039
+
+[Time Warp SEKAI - Future?]
+
+(Character: Hatsune Miku, Kagamine Rin, KAITO)
+
+Rin (N25): Where'd KAITO go...?
+Miku (WxS): Hmm... I don't know, but I think he left after saying how he didn't want to give up on finding that alien!
+Rin (N25): Really? That's his reason?
+Rin (N25): (Now even the KAITO I know is starting to look preferable...)
+Miku (WxS): Wait, Rin, you're scowling...! Is something bothering you?
+Rin (N25): Huh...?
+Miku (WxS): Alright, lemme turn that frown upside down☆ U-Uhh... Oh, I know!
+Miku (WxS): Earlier, I found a light-up plushie! I'm gonna go get it, so sit tight for me here☆
+Rin (N25): Huh...?! N-No, Miku, don't leave...!
+KAITO (VBS): Ah, Rin, there you are! Look! I wasn't able to find that alien, but I found this cute plushie instead! It even lights up! Isn't that incredible?!
+Rin (N25): ...
+Rin (N25): I've gotta go find Miku.
+KAITO (VBS): What?! Wait, Rin, do you dislike this plushie that much?!
+
+
+40 2235:areatalk_aprilfool2024_040
+
+[Time Warp SEKAI - Future?]
+
+(Character: Haruka Kiritani, Rui Kamishiro, Hatsune Miku, Megurine Luka)
+
+Alien: ▽◎〇※▽※◇☆#◇◎
+Rui: I'd heard that Emu and the others befriended an alien, but I still can't believe what I'm seeing.
+Miku (WxS): Way to go, Emu! I wanna make friends with them too☆
+Luka (MMJ): Me as well. I think it's adorable how they look like an octopus♪
+Luka (MMJ): I don't know how to speak your language, but will you also be my friend?
+Haruka: I agree, they are cute. Those beady little eyes really make me want to stroke them.
+Haruka: Hi there. It'd make me really happy if we were to also become friends. What do you say?
+Alien: ♡♡♡♡♡♡♡♡♡
+Miku & Rui: Whoa...
+Rui: Interesting. So this is how idols communicate.
+Luka (MMJ): Actually, I don't think her being an idol matters all that much. So, Rui, why don't you try talking to them next?♪
+Miku (WxS): Oh no! The alien's running away!
+Haruka: Hold on. They keep looking back towards us. Does that mean they want us to follow behind?
+Rui: Then, let's do just that.
+
+
+41 2236:areatalk_aprilfool2024_041
+
+[Time Warp SEKAI - Future?]
+
+(Character: Haruka Kiritani, Akito Shinonome, Kagamine Len, Megurine Luka)
+
+Akito: We're really doing this...?
+Len (Ln): What choice do we have? This is the only way.
+Haruka: Right. The laboratory beyond these doors may give us a hint as to how to get home.
+Haruka: And the mysterious picture on this rock is the only clue we have for opening it.
+Luka (MMJ): Yes, and these people look just like all of you... One is playing a guitar, one is dancing and the other is singing into a microphone.
+Luka (MMJ): This is the only clue we have. Which is why I think you should all try to do the same poses as we see in this picture!
+Akito: ...
+Akito: Again, we're really doing this?
+Len (Ln): You gotta just grin and bear it, Akito. I mean, I don't wanna do something lame like playing an air guitar, but I'm gonna do it anyway!
+Haruka: I'm also a little embarrassed about doing this... But if it's for everyone's sake, then I'm willing to give it a try.
+Akito: Argh! Fine, let's get this over with.
+Luka (MMJ): Huh? There's a button here. What does it do...?
+Luka (MMJ): Oh, the doors...
+Akito: ...! Yes, they opened!
+Luka (MMJ): (Hmm... I don't think they need to know that all it took was pressing a button to open them.)
+
+
+42 2237:areatalk_aprilfool2024_042
+
+[Time Warp SEKAI - Future?]
+
+(Character: Haruka Kiritani, Akito Shinonome, Rui Kamishiro, KAITO)
+
+Rui: I see. While looking around that laboratory, you found this little device and some research notes...?
+Akito: That's right. Kamishiro, does this mean anything to you?
+Rui: Hmm... Based on the writing I've been seeing around this SEKAI, this word appears to mean “return”, and this one seems to mean “activate”. Which should mean...
+Rui: What an incredible find. We should, in theory, be able to go home using this device.
+Haruka: Thank goodness...! The others are going to be ecstatic!
+Akito: We'll finally be free of this SEKAI...
+KAITO (VBS): You and the others deserve a huge pat on the back, Akito!
+Akito: Going in all those creepy buildings... Having to do that dumb pose and eat that weird stuff... We got through a lot together.
+Haruka: We need to thank the others for giving us the support they did. Having a place to rest ended up being huge.
+Rui: Yes, we should thank them later. But I'd also like to explore this SEKAI just a little bit more while we're still here.
+KAITO (VBS): Haha. Me too! So...
+KAITO (VBS): Let's take a quick walk before heading back!
+
+

@@ -1,0 +1,210 @@
+1 908:areatalk_ev_shuffle_03_001
+
+[Scramble Crossing]
+
+(Character: Ichika Hoshino, Nene Kusanagi)
+
+Ichika: Kusanagi, do you teach singing to other people too?
+Nene: No. Well, I give Emu some pointers once in a while, but that's about it.
+Ichika: Oh. In that case, why don't we all practice together?
+Nene: We won't have much peace with Emu around, though... We can do it if you're okay with that.
+Ichika: Sure. No problem.
+Nene: Okay, I'll ask Emu about it then. Um... S-See you next time.
+
+
+2 909:areatalk_ev_shuffle_03_003
+
+[Main Street]
+
+(Character: Saki Tenma, Nene Kusanagi)
+
+Saki: Thanks for winning that plushie for me, Nene! I had no idea you were so good with claw machines!
+Nene: I'm only average. Skilled players would have won it in a lot less tries.
+Saki: Oh, okay. Toya must be a super expert, then!
+Nene: Toya? Who's that?
+Saki: A friend of my brother. They've known each other for the longest time. Toya can usually win the larger plushies in like three tries!
+Nene: Huh, that's actually pretty good.
+Saki: He's also a freshman at Kamiyama like you. Maybe you've bumped into him before!
+Nene: (Tsukasa's friend who's a freshman at Kamiyama, and his name is Toya? Wait...could it be?)
+
+
+3 910:areatalk_ev_shuffle_03_005
+
+[Theme Park]
+
+(Character: Honami Mochizuki, Nene Kusanagi)
+
+Honami: It's been so long since I last visited this place. I had a lot of fun! And it really brings back so many fond memories.
+Nene: I'm not particularly attached to this place, but Emu would like to hear you say that.
+Nene: She has some special memories with her grandfather here.
+Honami: Yes. She often talks about it in school as well.
+Honami: She's always talking about the theme park, and how the shows being performed on Wonder Stage are bound to make everyone smile.
+Nene: Yeah, sounds like what Emu would say.
+Honami: Yes. And she's absolutely right. I've smiled a lot during my time here already.
+Nene: I see... That's good to hear...
+
+
+4 911:areatalk_ev_shuffle_03_007
+
+[Main Street]
+
+(Character: Shiho Hinomori, Nene Kusanagi)
+
+Shiho: Hey, Kusanagi. Are those prizes from the arcade?
+Nene: Y-Yes. Some candy I won from the claw machines.
+Shiho: Oh. Do you go there often?
+Nene: Sometimes. I prefer to play games on my phone or online.
+Shiho: Oh, okay. Do you play any pet-raising games? Like for bunnies, or hamsters.
+Nene: Um, not really... I prefer fighting games.
+Shiho: Oh, I see.
+Nene: (Wait... Does this mean she likes pet-raising games? That's kind of surprising.)
+
+
+5 912:areatalk_ev_shuffle_03_009
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Emu Otori)
+
+Emu: ——♪ ——♪
+Ichika: Otori, are you singing a Miku song?
+Emu: Yup♪ Honami heard it yesterday and told me about it!
+Ichika: Honami did?
+Emu: Yup♪ Oh, now that I think about it, I remember she said you were the one who told her about it!
+Ichika: I thought that might be the one. The song sounded familiar.
+Emu: Which means I got to learn about this fun song all because of you! Thanks, Ichika!
+Ichika: Hehe. You're welcome.
+
+
+6 913:areatalk_ev_shuffle_03_011
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Saki Tenma, Emu Otori)
+
+Saki: Emu! Emu! How do you do the wonderhoy pose again? 
+Emu: It's easy♪ First, you put your arms here like this.
+Saki: Okay!
+Emu: Wheel them around...and swing out with a bang! Wonderhoy♪
+Saki: So, wheel them around and... Wonderhoy♪
+Emu: Awesome! Saki, that was perfect☆
+Saki: All right! Hehe, the next time we go watch one of your shows, let's do the wonderhoy pose together with Ichi, Hona, and Shiho!
+Emu: Really?! Yaaay! I'll keep an eye out for you♪
+
+
+7 914:areatalk_ev_shuffle_03_013
+
+[Main Street]
+
+(Character: Honami Mochizuki, Emu Otori)
+
+Emu: Honami, this is for you☆
+Honami: Huh? Is this...taiyaki?
+Emu: Yup! In return for the apple pie you gave me the other day!
+Honami: Oh I see. That day, I bought the store out... You really shouldn't have.
+Honami: Oh, did you save some for yourself, though?
+Emu: I bought some for myself too! I was thinking we could eat together or something☆
+Honami: Hehe, yes, let's do that.
+
+
+8 915:areatalk_ev_shuffle_03_015
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Shiho Hinomori, Emu Otori)
+
+Emu: Hey! So like, there are a lot of musical instruments in a band, right? What instrument do you see me using?
+Shiho: I don't know. Just pick something that's you?
+Emu: Whoa! You're so cool, Shiho! But I really wanna know which instrument you think will fit my image♪
+Shiho: Your image, huh. In that case...
+Emu: In that case?
+Shiho: The tambourine.
+Emu: Wow! I love the tambourine! Thumpa-thumpa♪ Shaa-shaa tring-a-ling-ling♪
+Shiho: (Yeah, I thought so.)
+
+
+9 916:areatalk_ev_shuffle_03_021
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin)
+
+Rin: I'll be casting the most amazing spell on you today♪ A spell that makes tomorrow an even better day!
+Rin: Good! I have my lines down pat!
+Rin: Hehe☆ I can't wait for today's show to start♪
+
+
+10 917:areatalk_ev_shuffle_03_028
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Nene Kusanagi, Kagamine Rin)
+
+Nene: He...Hello...
+Rin: Hi☆ What's up, Nene?
+Nene: Um... Would you like to...practice together?
+Rin: Yay, sounds good♪ When? Where?
+Nene: S-Stop, don't come so close to me... I...I was thinking, maybe the day after tomorrow, in the evening?
+Rin: I can make it at that time☆ Hehe, looking forward to practicing together, Nene♪
+Nene: Yes. Me too.
+
+
+11 918:areatalk_ev_shuffle_03_032
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Hatsune Miku, Kagamine Rin)
+
+Miku (WxS): Juuuump☆ Spin around, and... Land!
+Rin: Wow! That's a lot of mid-air somersaults. You're amazing, Miku!
+Miku (WxS): Heh, heh, heh! That was just a warm-up☆ I can jump higher and spin more times, you know♪
+Rin: That's so cool, Miku. I wanna do that too! I wanna try that spin-spin-spin-landing thing too!
+Miku (WxS): Sure! Let's practice on the trampoline☆
+Rin: Yay☆ I'll do my best to spin, spin, spin♪
+
+
+12 919:areatalk_ev_shuffle_03_034
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, KAITO)
+
+Rin: KAITO, what sort of things is a troupe leader in charge of?
+KAITO: Well... In my case, I organize ideas from everyone into a script, then make preparations for necessary props and costumes.
+Rin: Wow! You have to be in charge of so many things at once! Hey, do you think I could become a troupe leader too?
+KAITO: Of course. I'm sure everyone will be happy to help out too.
+KAITO: Most of us are already here, so we can definitely start thinking about coming up with a performance with someone else acting as troupe leader.
+Rin: Wow, really? I volunteer☆
+KAITO: Hehe, I'll keep that in mind. We should also discuss with everyone what sort of performance they'd like to do.
+
+
+13 920:areatalk_ev_shuffle_03_036
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Kagamine Len)
+
+Rin: Len, have you been practicing for the next show?
+Len: Course I have♪ What about you, Rin?
+Rin: Uh. Actually, I'm having trouble with some of my lines...
+Len: Then let's practice! We have a lot of scenes together anyway!
+Rin: Are you sure?
+Len: Hehe, sure I'm sure♪ We're all members of the same theater troupe, so we should look out for each other!
+Rin: Aw, Len... Okay then. Thank you!
+
+
+14 921:areatalk_ev_shuffle_03_038
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, MEIKO)
+
+Rin: Merry-go-rounds, flying cars, and more! This SEKAI is just super fun!
+MEIKO: Haha, I agree! But I'm kind of sad there aren't any flying coffee cup rides.
+MEIKO: They would have steering wheel handles that we'd be able to use to fly to any place we want!
+Rin: Haha! Oh, MEIKO. Then it wouldn't be a coffee cup ride anymore. It would be an airship!
+Rin: And speaking of airships, we do have something like that in this SEKAI, though it's a bit far to get to♪
+MEIKO: What! So it's not entirely impossible for me to pilot something, then♪ Rin, can you show me where that ride is?
+Rin: Of course♪ Just follow me!
+
+

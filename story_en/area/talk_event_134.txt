@@ -1,0 +1,167 @@
+1 2288:areatalk_ev_night_17_001
+
+[Scramble Crossing]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: We're at a red light! Let's pass the time with another one of our favorite quizzes♪
+Ena: Favorite...? We've only done this a couple times...
+Mizuki: Well, it's one of my favorite activities! So, riddle me this!
+Mizuki: Turn an equilateral triangle into a pentagon by adding two lines to it! Your time to think begins... Now♪
+Kanade: Wait, an equilateral triangle...? Into a pentagon...?
+Ena: This is a pretty tricky one... Wait a second, how can you solve it without drawing anything?
+Mafuyu: You can turn the kanji for three into five by adding two lines, which changes the kanji for “equilateral triangle” into the one for “pentagon”, right...?
+Kanade & Ena: What?
+Mizuki: C-Correct! I can't believe you got it so fast, Mafuyu...
+Kanade: Oh, I see. It was a kanji quiz. My mind immediately jumped to shapes.
+Ena: Same here... Also, the way you phrased that problem totally threw us off.
+Mizuki: But Mafuyu got it right away. So no excuses for not being able to solve it.
+Ena: Hold up, gimme one more! I'll get it right this time!
+Mizuki: Okay♪ Let's jump to our second problem!
+
+
+2 2289:areatalk_ev_night_17_002
+
+[Shopping Mall]
+
+(Character: Kanade Yoisaki, Ena Shinonome)
+
+Ena: Oh, Kanade. What are the odds of us running into each other here? Are you doing some shopping?
+Kanade: I'm on my way to visit my dad and was thinking about buying some flowers.
+Kanade: Oh, I know. Ena, you're very good at balancing colors and such.
+Ena: Well, I'm usually pretty careful about that when I draw...
+Kanade: Then, would you mind helping me pick out flowers? I'd like to put together a colorful bouquet, but I also don't want to spend too much time deciding...
+Ena: (In other words, the less time she spends picking out flowers, the more she'll get to spend with her dad...)
+Ena: Alright, leave it to me! I'll put together the best bouquet for you in no time!
+
+
+3 2290:areatalk_ev_night_17_003
+
+[Scramble Crossing]
+
+(Character: Mafuyu Asahina, Mizuki Akiyama)
+
+Mizuki: Man, this after-party's gonna be so much fun♪ When are Kanade and Ena gonna get here?
+Mafuyu: Mizuki. Before they do, there's something I need to give you.
+Mizuki: Hm? What are these? Snacks?
+Mafuyu: As a thank you for what you did the other day...
+Mafuyu: I wouldn't have been able to tell my dad how I really felt if you hadn't said what you did...
+Mizuki: You didn't have to do this.
+Mizuki: But since you did, I'll gladly accept your gift♪
+
+
+4 2291:areatalk_ev_night_17_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Kagamine Rin)
+
+Mafuyu: Rin, what are you doing?
+Rin (N25): I'm playing cat's cradle. Can't you tell?
+Mafuyu: That's what I thought... But would you like me to untangle your string for you?
+Rin (N25): *Nod*
+Mafuyu: How did this happen?
+Rin (N25): I don't know... I was following this book's instructions...
+Rin (N25): You should give it a try, Mafuyu. Then you'll know what I mean...
+Mafuyu: Okay, I can play for a little bit.
+
+
+5 2292:areatalk_ev_night_17_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Mizuki Akiyama, Hatsune Miku)
+
+Mizuki: Oh, Miku, there you are! What's up♪
+Miku (N25): Welcome, Mizuki. What brings you here today?
+Mizuki: Heh heh heh. Remember how I told you guys about that really nice fabric I got the other day for cheap?
+Mizuki: Ta-daa! I made some more ribbons♪
+Miku (N25): Oh, these are cute...
+Mizuki: I know, right?! I thought you'd like these since the fabric's design and texture matches your clothes.
+Mizuki: So, wanna try them on? Let's go find Rin while we're at it too!
+Miku (N25): Okay... I think Rin's over there.
+Mizuki: Okay! Then, let's go find her♪
+
+
+6 2321:areatalk_monthly2407_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Ena Shinonome, Kagamine Len)
+
+Len (N25): Done. Here's my apple sketch...
+Ena: Oh, you're finished? Lemme see.
+Ena: Yeah, it's got your delicate touch. I like it...
+Len (N25): Really? Hehe...
+Ena: Oh, that reminds me. Wanna try being more mindful of your posture next?
+Ena: By sitting up straight while looking at your subject, you can get a better idea of how to draw it.
+Len (N25): Sit up straight... Okay, I'll give that a try.
+
+
+7 2322:areatalk_monthly2407_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Mizuki Akiyama, Hatsune Miku)
+
+Mizuki: Check it out, Miku! I made bracelets with a ribbon design!
+Miku (N25): They're cute...
+Mizuki: I know, right?! I wanted them to match your outfit!
+Mizuki: I even made some for Rin and the others, so we should all put them on and take a few pics together♪
+Miku (N25): Okay, let's do that...
+Miku (N25): Wearing matching bracelets sounds like fun...
+
+
+8 2348:areatalk_monthly2408_001
+
+[Main Street]
+
+(Character: Ichika Hoshino, Ena Shinonome)
+
+Ena: Ichika, thanks for letting me take all those pictures today. I really don't know anyone else who plays a musical instrument.
+Ichika: No, I'm just glad that I could help.
+Ichika: But you mentioned something about possibly using the pictures you took today as a reference for your group's music video art?
+Ena: Yeah, the one of you from behind as you're holding your guitar and the one of your hands strumming are my strongest candidates.
+Ichika: ...! I feel honored to get to be a part of one of your videos!
+Ena: Oh, in that case, want us to credit you with a special thanks?
+Ichika: N-No, that's okay! It's not like I was modelling or anything. You're just using those for reference after all.
+Ena: Are you sure?
+Ena: But still... If Kanade and Mizuki are okay with it, then I'll try to get a preliminary cut of the video to you as a thank you.
+Ichika: Really?! I can't wait.
+
+
+9 2366:areatalk_monthly2409_004
+
+[Empty SEKAI - Lake]
+
+(Character: Kanade Yoisaki, MEIKO)
+
+MEIKO (N25): Kanade, do you know how to swim?
+Kanade: Uhh, swim...? I think so... But probably not for very long, given my lack of stamina.
+Kanade: Why do you ask all of a sudden?
+MEIKO (N25): Because Len slipped and nearly fell into the lake earlier.
+Kanade: What?! Is he okay?
+MEIKO (N25): Yes, Luka was there to save him.
+MEIKO (N25): For now, if you're not confident in your swimming ability, then I don't recommend going near the lake by yourself.
+Kanade: Oh, there she goes...
+Kanade: But I know you came over to tell me that because you were genuinely concerned. Thank you, MEIKO.
+
+
+10 2367:areatalk_monthly2409_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Kagamine Len)
+
+Len (N25): Use my pinky for this string and... What came next...
+Mafuyu: I think you're supposed to transfer the strings on your pinky and middle fingers to your thumb in that order...
+Len (N25): Th-Thanks, Mafuyu... I think I can take it from here...
+Len (N25): Now I just have to extend my fingers out and... There, a Jacob's ladder with four steps!
+Mafuyu: *Nod* You did a nice job...
+Len (N25): I'm so glad... I practiced a lot after getting stuck at three steps.
+Len (N25): I really wanna make Tokyo Tower someday...
+Len (N25): Oh, but that one's really hard... I think only MEIKO knows how.
+Mafuyu: You should also be able to now, Len. There's actually a way to go from a four-step ladder into Tokyo Tower, I think.
+Len (N25): Huh? R-Really? Then, I'd like to give it a try.
+
+

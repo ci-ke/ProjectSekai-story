@@ -1,0 +1,174 @@
+1 2333:areatalk_wl_piapro_01_001
+
+[School SEKAI - Station]
+
+(Character: Hatsune Miku, Megurine Luka, MEIKO)
+
+Miku (Ln): Come to think of it, that sprout grew a bit before I knew it...
+Luka (Ln): Yes, I initially heard the news from Rin. She even showed me the pictures she drew for her diary entries.
+MEIKO (Ln): Oh, she's actually been recording its growth? I thought she'd get bored of it after a few days.
+Miku (Ln): I don't mean any offense to her, but I was also surprised to find out that she enjoys doing these sorts of long-term projects...
+MEIKO (Ln): That would also explain why she practices her fundamentals every single day.
+Luka (Ln): Yes, Rin's the industrious type who does her best even when no one else is around to watch.
+
+
+2 2334:areatalk_wl_piapro_01_002
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, Kagamine Len, KAITO)
+
+Rin (Ln): Hey, have you guys seen the sprout at the station? It's gotten bigger!
+Len (Ln): Yeah, I heard.
+Rin (Ln): Wait, why do you sound so calm...? You don't seem surprised at all!
+KAITO (Ln): Because we had a feeling that it'd start growing eventually...
+Len (Ln): If anything, the bigger surprise has gotta be how you can hear sounds coming from it now.
+Rin (Ln): Huh?! What sounds?!
+Len (Ln): Oh, you didn't know? You can hear them sometimes when you touch it.
+Rin (Ln): What?! Why didn't you tell me that sooner?! I'm gonna go touch it♪
+KAITO (Ln): Oh...
+Len (Ln): Rin, wait! Touching it is fine, but you have to be careful not to break it!
+
+
+3 2335:areatalk_wl_piapro_01_003
+
+[Stage SEKAI - Flower Field]
+
+(Character: Hatsune Miku, Kagamine Rin, Megurine Luka)
+
+Miku (MMJ): R-Ready, Rin...? We'll poke the tree on three...?
+Rin (MMJ): O-Okay...! On three...
+Luka (MMJ): There's no need to be so scared. All it's going to do is play some strange sounds.
+Miku (MMJ): B-But MEIKO and Len said they heard completely different sounds.
+Rin (MMJ): Y-Yeah! What if we hear someone's voice...?
+Luka (MMJ): Oh, that'd be a new one! I'd like to hear that, so why don't the three of us poke it at the same time♪
+Luka (MMJ): Okay, ready? One, two...
+Miku (MMJ): W-W-Wait, Luka!
+Rin (MMJ): I still need time to prepare myself mentally!
+
+
+4 2336:areatalk_wl_piapro_01_004
+
+[Stage SEKAI - Stage]
+
+(Character: Kagamine Len, MEIKO, KAITO)
+
+Len (MMJ): Wait, MEIKO, you also heard that tree make a sound...?
+MEIKO (MMJ): Yes, it felt a little sad.
+KAITO (MMJ): Sad...? Then, Len, what did you hear when you touched it?
+Len (MMJ): It felt lively. Like something you'd hear during a parade or at an amusement park.
+MEIKO (MMJ): Not at all like what I heard... Does this mean it's capable of producing other kinds of sounds?
+KAITO (MMJ): That reminds me. Miku and Rin said they'd be going over to hear what kinds of sounds it makes.
+Len (MMJ): Yeah, I think Luka followed after them.
+Len (MMJ): But that was a little while ago, so they should be back soon.
+MEIKO (MMJ): When they get here, we should ask them about what they heard!
+
+
+5 2337:areatalk_wl_piapro_01_005
+
+[Street SEKAI - Plaza]
+
+(Character: Hatsune Miku, Kagamine Len, MEIKO)
+
+Len (VBS): There, you see?! It got bigger!
+Miku (VBS): Why do you sound so proud, Len?
+Len (VBS): Because I noticed first.
+Len (VBS): Anyway, I still haven't told KAITO, so I'm gonna go find him!
+MEIKO (VBS): W-Wait... He's always in such a rush.
+Miku (VBS): Still, I'm astonished by how this tree's been able to keep growing despite being in a concrete jungle...
+MEIKO (VBS): Yes, you can tell that it's determined to grow big and strong.
+MEIKO (VBS): Which makes sense considering this is Kohane and the others' SEKAI.
+Miku (VBS): Yes, it's a nice reflection of who they are.
+
+
+6 2338:areatalk_wl_piapro_01_006
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Megurine Luka, KAITO)
+
+Rin (VBS): Hey, did you hear?! That little sprout's grown bigger!
+Luka (VBS): Yes, I did! Actually, I already knew, but Len got the jump on me!
+Rin (VBS): It's so frustrating! He's acting all proud saying he found out first!
+KAITO (VBS): Alright, settle down. I just happen to have a nice tidbit of information.
+Rin & Luka: What information?
+KAITO (VBS): Try gently poking that tree. Something interesting happens after you do it a few times...
+Rin (VBS): Poke it?
+Luka (VBS): Is that really true...? Why do I get the feeling that you're trying to pull a fast one on us?
+KAITO (VBS): You don't have to believe me. Also, I'm thinking about going to tell Len about this and...
+Rin (VBS): Luka, we're going! Right now!
+KAITO (VBS): I was actually the one to discover that the sprout had grown into a tree and started making those strange sounds...
+KAITO (VBS): But I'd rather not put myself in an awkward position, so I think I'll keep that to myself.
+
+
+7 2339:areatalk_wl_piapro_01_007
+
+[Wonderland SEKAI - Harbor]
+
+(Character: Hatsune Miku, Kagamine Len, KAITO)
+
+Miku (WxS): Hmm... I hope it's okay.
+KAITO (WxS): Is something worrying you, Miku?
+Miku (WxS): Yeah... Even though this sprout's grown into a tree, it's not singing...
+Len (WxS): Oh, right. The flowers all sing along with us.
+KAITO (WxS): But it seems happy and healthy, so I don't think you need to worry...
+Miku (WxS): Really?
+KAITO (WxS): Yes, really. I'm guessing this tree is a little different from our flower friends.
+KAITO (WxS): I don't know if it'll be able to sing, but we should keep an eye on it as it keeps growing...
+Miku (WxS): Okay! Then, I'll take good care of it!
+Len (WxS): I'll help, Miku!
+Miku (WxS): Okay☆ Let's all take care of it together♪
+
+
+8 2340:areatalk_wl_piapro_01_008
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Megurine Luka, MEIKO)
+
+Rin (WxS): Hey, I wanna give our tree all the things it wants to help it grow. Do you have any suggestions, MEIKO?
+MEIKO (WxS): It's a tree, so I think water and fertilizer should do just fine.
+Luka (WxS): And naps. They say that children who sleep a lot grow big and strong, no?
+MEIKO (WxS): You're just cleverly trying to slip in the things that you like to do...
+MEIKO (WxS): Oh, I don't know if this counts, but it made these strange sounds when I petted it after it'd grown into a little tree.
+Rin (WxS): Wait, really?!
+Luka (WxS): Then, MEIKO, can you also try petting us?
+Rin (WxS): Hehe☆ I can't wait to see what kinds of sounds we make♪
+MEIKO (WxS): Oh...
+MEIKO (WxS): Umm... I don't have the power to make it emit sounds. The tree just...
+MEIKO (WxS): Alright, fine... If you want to be petted that much...
+
+
+9 2341:areatalk_wl_piapro_01_009
+
+[Empty SEKAI - Expanse]
+
+(Character: Hatsune Miku, Kagamine Rin, MEIKO)
+
+Miku (N25): The tree grew a little bigger...
+Rin (N25): But what kind of tree is it? Do you know, MEIKO...?
+MEIKO (N25): No...
+MEIKO (N25): But it's definitely not a normal tree...
+Rin (N25): Since it suddenly sprouted out of nowhere in this empty SEKAI...
+Miku (N25): It must be very important...
+Miku (N25): What kind of tree do you think it's going to become...?
+Rin (N25): I don't know. Maybe a fruit tree...?
+Miku (N25): Hehe. I'm looking forward to finding out.
+
+
+10 2342:areatalk_wl_piapro_01_010
+
+[Empty SEKAI - Lake]
+
+(Character: Kagamine Len, Megurine Luka, KAITO)
+
+Luka (N25): Are you okay, Len? Did you get hurt anywhere...?
+Len (N25): N-No... Thanks, Luka.
+KAITO (N25): I was wondering who was making all that commotion. So it was you two...
+KAITO (N25): Well, what did you do this time?
+Luka (N25): Oh, I was just saving Len from falling into the lake when he tried to touch the sapling.
+Luka (N25): Please be careful, KAITO. A little while ago, Rin also came close to losing her footing there.
+KAITO (N25): Don't lump me in with them. I'm not about to fall in...
+Luka (N25): And that's called jinxing yourself... Hehe. I'll be looking forward to the day his words boomerang back around.
+
+

@@ -1,0 +1,84 @@
+1 2542:areatalk_ev_shuffle_55_001
+
+[Shopping Mall]
+
+(Character: Ichika Hoshino, Honami Mochizuki, Nene Kusanagi, Rui Kamishiro)
+
+Honami: What are you reading, Kusanagi?
+Nene: A picture book. I bought it at the bookstore just now.
+Rui: Hehe. I'm glad we managed to find a good story to tell.
+Ichika: Oh, does that mean you're putting on another reading event?
+Nene: We tried doing a reading together, and decided to keep doing it as a way to practice our voice acting skills.
+Ichika: I see... A reading by Wonderlands×Showtime sounds really amazing.
+Honami: We'd love to see how you present this story.
+Rui: Ah, we stand to gain quite a lot by having an audience present. It should make for a much better practice.
+Nene: We'd love to hear what you think. We'll let you know when we have our next practice.
+
+
+2 2543:areatalk_ev_shuffle_55_002
+
+[Main Street]
+
+(Character: Honami Mochizuki, Nene Kusanagi)
+
+Nene: You seem really happy, Mochizuki. Did something good happen to you?
+Honami: Yes, my teacher praised me during class today.
+Honami: I was asked to read a passage and was lauded for reciting each word with conviction.
+Nene: I see... It sounds like the hard work you put in for the reading event is paying dividends.
+Honami: Yes! I didn't realize it'd help me in this way.
+Honami: Still, if I received praise at my level, then you must be showered with it constantly.
+Nene: Huh? Uhh... No, not really...
+Nene: Acting while reading a passage in front of my classmates is a little too embarrassing for me...
+
+
+3 2544:areatalk_ev_shuffle_55_003
+
+[Scramble Crossing]
+
+(Character: Ichika Hoshino, Honami Mochizuki, Nene Kusanagi)
+
+Ichika & Honami: Kusanagi, thank you for always being so helpful!
+Nene: Huh? Wh-Why are you two thanking me all of a sudden?
+Ichika: Because you've helped us with so much.
+Honami: And I still haven't had a chance to thank you properly for being such a wonderful acting coach.
+Nene: I don't deserve to be thanked... I've honestly just been doing what I want.
+Ichika: Even then, you've been incredibly helpful. Please let me know if you ever need my help, okay?
+Honami: That also goes for me. I'll be more than happy to help you anytime.
+Nene: I feel like you two are blowing things out of proportion...
+Nene: But thanks. I'll ask you two when that time comes.
+
+
+4 2545:areatalk_ev_shuffle_55_004
+
+[Scramble Crossing]
+
+(Character: Honami Mochizuki, Nene Kusanagi, Rui Kamishiro)
+
+Honami: Oh, Kamishiro, I have a question... What do you keep in mind when coming up with your effects?
+Rui: Well, a number of things... First and foremost is knowing what you wish to present.
+Rui: Let's take an intersection such as this one with many advertisements for example. It's easy for your eyes to get lost in such a sea of sensory information, no?
+Rui: Which is why it's important to understand if your performance is meant to be a comedy or a tragedy. I direct based on a clear vision of what I want everyone to see.
+Honami: What you want everyone to see... Thank you. That helps quite a lot.
+Nene: But why do you ask all of a sudden?
+Honami: So, now that we're a professional band, we're thinking about using more effects when we perform...
+Rui: I see. In that case, I have another piece of advice. It's very important to know when to use lightning and cannons during performances.
+Honami: L-Lightning and cannons...? Oh, but I suppose those things could conceivably go well with a heavy sort of sound...
+Nene: U-Uhh, Mochizuki... Please don't take that seriously. He was joking.
+
+
+5 2546:areatalk_ev_shuffle_55_005
+
+[School SEKAI - School]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+MEIKO (Ln): While watching the reading event, I thought that it'd be fun to make it feel more like a show or concert.
+Miku (Ln): Like having a band or orchestra play live...? I suppose they could set the mood by playing songs that go with the story.
+MEIKO (Ln): Yes, that's precisely what I had in mind.
+KAITO (Ln): A story reading and a concert... I'm familiar with poetry recitals, but the event you just described would likely have a different type of feel to it.
+MEIKO (Ln): I'm thinking about giving it a try in the near future to see what it feels like.
+Miku (Ln): In that case, I'd like to join. It'll be fun to try a different sort of performance for a change.
+KAITO (Ln): I might just watch since I don't feel all that confident...
+MEIKO (Ln): Hehe. That's okay. Miku and I will give it a go first!
+
+

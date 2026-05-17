@@ -1,0 +1,141 @@
+1 1741:areatalk_ev_street_13_001
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Morning, Kohane! Thanks for inviting me to go out shopping with you!
+Kohane: Hehe. It's always fun to shop with you since you're so much better at finding clothes for me than I am.
+An: Heehee. That's because I'm the best partner ever.
+Kohane: You are!
+Kohane: (Thank goodness. An's back to being her usual self.)
+An: (Hehe. She seems pretty relieved that I'm feeling better now...)
+An: (And I have to think she invited me to go out shopping today because...)
+An: (Thanks, Kohane.)
+
+
+2 1742:areatalk_ev_street_13_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Akito: An, I didn't know you were here.
+An: Yeah, Rin invited me over because she wanted to sing together. Kohane and Miku are coming too.
+Toya: I see. We were also talking about practicing and were just about to invite you to join us.
+Akito: By the way, is your throat okay now?
+An: All good! If anything, I've been singing so little that I think I'm starting to lose my edge.
+Akito: Wait, you've only taken like two or three days off.
+An: I know, but outside of singing, I really had nothing to do besides help at the cafe.
+Toya: (Was homework never an option...? No, I probably shouldn't mention that today...)
+Toya: (I mean, Akito and I have also been wanting to sing with her.)
+Akito: Then, let's warm up while we wait for Kohane and Miku to get here.
+Toya: Yes, that sounds good.
+
+
+3 1743:areatalk_ev_street_13_003
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Akito: Here, you guys can have these.
+Kohane: Coupons? For free ice cream or drinks...?
+Toya: These are for that cafe we all went to the other day. How did you come by them...?
+Akito: They had some rhythm game on their website, so I tried playing it, and I won them.
+An: A rhythm game?
+Akito: That weird pasta character... You know, the store's mascot? It's playing jump rope, and you need to tap your phone at the right time to get it to jump.
+An: That sounds fun! I wanna play it!
+Kohane: Hehe. Then, me too!
+Toya: I'd like to try playing it as well.
+Akito: Why are you all more interested in this game than these coupons...? Just be careful when you tap 'cause there might be some lag...
+An: Say that sooner! No, it tripped! Grr... Again!
+Toya: Shiraishi, it says you can only play this game once per day.
+An: No, you're right! Kohane, Toya, you guys gotta avenge me!
+Kohane: Okay!
+Akito: *Sigh* Then, you gotta stay focused 'cause it speeds up and slows down randomly as you play.
+
+
+4 1744:areatalk_ev_street_13_004
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Kagamine Len)
+
+Len: So, you got to sing with An...?
+Rin: Yeah, she's totally back to being her old self.
+Rin: Isn't that incredible after everything that happened?
+Len: I guess An really is unbending when it comes to her dream.
+Len: Still... How are you feeling, Rin? I can't speak for anyone else, but I know I was pretty shocked.
+Rin: So was I... But I'm all better now.
+Rin: I mean, we can't be acting all sad and mopey while An's doing her best to make her dream come true, right?!
+Len: Yeah, you're right!
+Len: Then, let's ask Miku and KAITO to watch us practice today!
+Rin: Okay!
+
+
+5 1745:areatalk_ev_street_13_005
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Kagamine Rin)
+
+An: Wait, pictures of Aunt Nagi...?
+Rin: Yeah... I saw her when we watched that video of RAD WEEKEND, but I kinda want to know what she was like outside of that...
+Rin: Oh, but... You don't have to if you don't want to!
+An: No problem. I was just thinking I'd like to go back through some of our old photo albums.
+An: But I'll tear up if I look at them by myself...
+Rin: An...
+An: So, it'd be great to look through them with someone else for a change! I wanna talk about the stuff we did and all the fun times we had!
+Rin: Then, let's look at them together! I really wanna hear more about her!
+An: Hehe. Sure thing!
+
+
+6 1777:areatalk_monthly2307_002
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Hatsune Miku)
+
+Miku (VBS): Oh, Akito. This happened a long time ago, but do you remember when you asked if I really was “Miku”?
+Akito: Yeah, I vaguely remember... What about it?
+Miku (VBS): Not much in particular. You just seem so used to being here now is all.
+Akito: Yeah, I guess... No, actually... I still sorta jump whenever Luka suddenly appears out of a side alley.
+Akito: She's been sneaking up on me from behind after messing up the other day. I think she's learning from her mistakes.
+Miku (VBS): Oh, that may be what Rin, Len and her were discussing at the cafe. I'm pretty sure I overheard one of them saying, “This is going to scare Akito for sure.”
+Akito: They were all in on it...?
+Miku (VBS): Hehe. Would you like me to help you scare them sometime?
+Akito: Yeah... I might just take you up on that.
+
+
+7 1778:areatalk_monthly2307_003
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Toya: Len, I heard you've been taking your coffee black lately.
+Len: Only every so often. I was really happy when I first got used to drinking it...
+Len: But then I realized that there's more to coffee than just black, like cafe au lait and stuff. I wanna try as many different varieties as I can.
+Toya: I see. That seems like a fun way to enjoy coffee.
+Len: I know, right? Miku even said how true coolness comes from doing what you really want your way.
+Len: So now, I don't have any particular preferences! But I'm still probably a long way from being “cool”.
+Toya: I think you're plenty cool, Len, considering how much you've already helped us...
+Len: Really? Hehe. I guess being able to drink black coffee doesn't really determine if you're cool or not.
+
+
+8 1779:areatalk_monthly2307_004
+
+[Main Street]
+
+(Character: Kohane Azusawa, Nene Kusanagi)
+
+Kohane: Hi, Kusanagi! Were you at that arcade over there just now?
+Nene: No, I'm here today to do some shopping...
+Kohane: Oh... I-I'm sorry... I just thought...
+Nene: It's okay. You usually find me at an arcade playing some sort of game, so I understand why'd think that.
+Nene: Anyway, are you on your way home? If so, may I join you for part of the way...?
+Kohane: Yeah, I am. Let's talk while we walk.
+Nene: Sure, that sounds good.
+
+

@@ -1,0 +1,308 @@
+1 1107:areatalk_ev_wonder_05_001
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
+
+Emu: Guys, look♪ The posters for Project Wonder and us being ambassadors are ready♪
+Tsukasa: What? Posters? When did this happen?
+Rui: Who knows? It may serve as a replacement for the commercial that was originally slated.
+Nene: Yeah, and they managed to get a good picture for our show too...
+Tsukasa: Hey, the ambassador poster has a photo from when we did our Little Mermaid show!
+Tsukasa: But why didn't they tell us? If I had known beforehand, I would've made sure to do my special modeling poses.
+Emu: You have special modeling poses?!
+Tsukasa: Well, of course. It's only natural for a star like me to have at least a hundred of those in their repertoire.
+Nene: A hundred seems a bit excessive...
+Rui: Hehe. You've caught my interest, so why don't you give us your best five?
+Emu: Oh, I wanna see too! Please, Tsukasa!
+Tsukasa: Ask and you shall receive! Let's start with #5!
+Nene: W-Wait, you're gonna do them right now?! Can't you go over there or something so people don't see me with you?!
+
+
+2 1108:areatalk_ev_wonder_05_002
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Nene Kusanagi)
+
+Tsukasa: Nene, I've noticed that you've been able to sing through entire shows without issue lately.
+Nene: Yeah. I mean, I can't let muscle heads like you and Emu leave me behind so...
+Tsukasa: M-Muscle head...?! But I commend your efforts so far!
+Tsukasa: Keep up the good work! You're our songstress, so we'll be counting on you!
+Nene: Huh...? I... I know. You don't have to tell me that...
+
+
+3 1109:areatalk_ev_wonder_05_003
+
+[Shopping Mall]
+
+(Character: Emu Otori, Nene Kusanagi)
+
+Nene: You said you wanted to get something, Emu, but what exactly are you looking for?
+Emu: I'm looking for these block-shaped chocolates that my big sis showed me.
+Nene: Block-shaped? So chocolates that look like toy building blocks?
+Emu: Kind of, but they come in all sorts of different flavors. You put them together and make new flavors out of them!
+Nene: Hmm... I'm still not getting a clear picture, but that does sound interesting.
+Emu: Right?! My big sis and I had lots of fun when we had them last, so I want you to experience that too, Nene♪
+Nene: Then we'll just have to keep looking.
+Emu: Yup☆ I'm sure we'll find them!
+
+
+4 1110:areatalk_ev_wonder_05_004
+
+[Theme Park]
+
+(Character: Nene Kusanagi, Rui Kamishiro)
+
+Nene: Robo-Nene becoming so independent is giving us so many more options now in terms of how we present stories and stuff.
+Rui: Indeed. We may even be able to reconsider some scripts we've previously rejected due to lacking the manpower to perform them.
+Nene: Yeah. We could try doing some shows that have each of us playing two roles.
+Rui: Yes, it'd be an easy way for people to see that we're able to do so much with such a small troupe.
+Rui: This may be a good opportunity for us to try that too since we've gained quite a bit of experience performing in a variety of situations.
+Nene: Yeah. Let's ask what Tsukasa and Emu think when they get here.
+
+
+5 1111:areatalk_ev_wonder_05_005
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Nene Kusanagi, Megurine Luka)
+
+Nene: Oh, hello.
+Luka: Zzz... Zzz...
+Nene: Ah, she's asleep...
+Luka: Mhm... Oh, what a... Surprise...
+Nene: Huh?
+Luka: Zzz... Zzz...
+Nene: Uh... She wasn't talking to me, was she?
+
+
+6 1112:areatalk_ev_wonder_05_006
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Megurine Luka, MEIKO, KAITO)
+
+MEIKO: Hey, KAITO! We hate to do this to you, but would it be okay if we fired you as troupe leader?
+KAITO: Huh?! Again?! What's your reason this time?
+Luka: Hehe. Apparently, Rin and Len want to put on a show as troupe leaders...
+KAITO: Ah, I see. In that case, I don't mind whatsoever.
+KAITO: But I feel like this is starting to become a habit...
+MEIKO: What are you talking about?! If we don't do this, you'll just keep nagging us about respecting the position and taking responsibility, right?
+MEIKO: This is a situation where we should just let them do what they believe is best and see what happens!
+KAITO: Haha... I understand. I'll try to hold my tongue.
+Luka: Hehe. Now that you're free, KAITO, how does a quick nap sound?
+MEIKO: Wait, Luka, aren't you supposed to be helping out with the show? KAITO can sleep, but you have work to do.
+Luka: Aww, but...
+
+
+7 1113:areatalk_ev_wonder_05_007
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Kagamine Len, KAITO)
+
+Rin: Producing shows is so much work. You have to think of a story, write a script, practice...
+Len: You even need costumes for everyone, props and backdrops, so it's really easy to get confused and not know what you're supposed to do next.
+Rin: I know, right? How in the world do you keep track of all this on your own, KAITO?
+KAITO: But I'm not alone. I have Miku and the plushies to help me. Lately, MEIKO's even started lending me a hand.
+KAITO: Shows only happen when everybody works together, so it's important to ask them for help when you need it.
+Len: When everybody works together, huh...?
+Rin: Does that mean you'll ask us for help when you need it, KAITO?
+KAITO: Of course. Speaking of which, would you like to help me check over the costumes the plushies will be wearing?
+Rin & Len: Yeah!
+
+
+8 1114:areatalk_monthly2108_001
+
+[Main Street]
+
+(Character: An Shiraishi, Mizuki Akiyama)
+
+Mizuki: Oh! Hey, An♪ You headed for practice?
+An: Yup! You out shopping?
+Mizuki: Nah, I've got work. But this has been happening a lot lately...
+An: Hm? What's up?
+Mizuki: I ran into Toya the other day right around here when he was on his way back from morning practice...
+An: Oh, that's probably because the park where we do morning practices is right there. My dad's cafe is pretty close by too, so they're probably around here a lot.
+Mizuki: So it's not a coincidence. The likelihood of running into you guys around here is pretty high then!
+An: Yup! Toya even likes hanging out at that arcade over there whenever he's bored, so that's a pretty good spot to look if you ever need to find him.
+Mizuki: Haha! Yeah, I remember him talking about that. I'll make sure to check it out sometime♪
+
+
+9 1115:areatalk_monthly2108_002
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Akito Shinonome)
+
+An: Hey, Akito. Wanna make a bet for our next exam?
+Akito: A bet?
+An: Yeah! Kohane and Toya have been worried sick about us lately when it comes to school, so I want to show them that we're just fine now...
+An: But just studying with them isn't enough. That's why I want to make a little bet!
+Akito: Yeah, I guess we do sort of owe them for helping us out...
+Akito: Alright, you're on.
+An: Great! How about the one with the higher total score for all subjects wins?
+Akito: Fine by me. And the loser has to buy the winner something from Weekend Garage.
+An: Sounds good. You're going down!
+
+
+10 1116:areatalk_monthly2108_003
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+An: Hey, Toya, how tall are you anyway?
+Toya: I'm around 5' 11...
+An: *Sigh* I'm so jealous of tall people...
+Toya: You are?
+An: Yeah, especially since I play basketball. Height is everything in that sport, you know?
+An: On top of that, all the shelves in our kitchen were made with my dad's height in mind, so there's a bunch of stuff that I can't reach.
+An: Man, why didn't I grow up tall like you? I bet you guys have it great.
+Toya: No, that's not entirely true.
+An: Huh? Really?
+Toya: Yes. For example, I keep running into those hanging straps on the train. Those hurt quite a bit, you know?
+An: Oh, okay... Yeah, that does sound unpleasant.
+
+
+11 1117:areatalk_monthly2108_004
+
+[Scramble Crossing]
+
+(Character: Kanade Yoisaki, Mizuki Akiyama)
+
+Kanade: *Sigh*...
+Mizuki: Hm? Kanade? Is everything okay? You don't look so good.
+Kanade: Oh, Mizuki. The sun's just so bright. My eyes are having trouble adjusting to the light.
+Mizuki: That's all? Are you sure it's not anything else?
+Kanade: Huh? Yes, it's just my eyes.
+Mizuki: Thank goodness... Wait, no, not good! You need to get out more, Kanade!
+Mizuki: Get in some sun and feel its warmth! So come out of the shade already!
+Kanade: W-Wait, Mizuki, if I go out there, who knows what'll happen to my eyes...!
+
+
+12 1118:areatalk_monthly2108_005
+
+[Main Street]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina)
+
+Mafuyu: Oh... Kanade? This is a rare sight.
+Kanade: Hello, Mafuyu. I went to the hospital to visit my dad today. Are you on your way to cram school?
+Mafuyu: No, I came to buy some new seagrass for my aquarium to replace any old ones.
+Kanade: I see... Would you mind if I came along, Mafuyu?
+Mafuyu: No, but why?
+Kanade: I want to learn more about the things you like and find some new information that's not based on music.
+Mafuyu: I see... Okay, but I don't even know if I actually like my aquarium.
+Kanade: But you came all this way to buy new seagrass for it, so I'm sure you have some interest.
+Mafuyu: I do...?
+Kanade: Yes, I'm sure of it.
+
+
+13 1119:areatalk_monthly2108_006
+
+[Scramble Crossing]
+
+(Character: Mafuyu Asahina, Ena Shinonome)
+
+Ena: Hey, Mafuyu! Are you on your way home?
+Mafuyu: Yes. Are you headed for school, Ena?
+Ena: Yeah. But I feel like I'm missing out, you know...?
+Mafuyu: How?
+Ena: Because of how I have to go to school when everybody is on their way home...
+Mafuyu: Then why don't you go during the day?
+Ena: Ugh... I can't go back to getting up early in the morning now... There's just no way...
+Ena: *Sigh* Things are just easier this way. Anyway, see you later tonight.
+Mafuyu: Okay. See you on Nightcord.
+
+
+14 1120:areatalk_monthly2108_007
+
+[Shopping Mall]
+
+(Character: Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: Oh...
+Ena: Oh, Mizuki... What brings you here?
+Mizuki: I could ask you the same question. Wait, that flyer... Isn't it for the new cosmetics shop that just opened today?
+Ena: Wait, Mizuki, that means... You're here for the limited-edition tester kit too?
+Mizuki: Correctomundo♪ Hold on, didn't something like this happen before...?
+Ena: Yeah, you're right...
+Ena: (I was deliberately avoiding inviting Mizuki to do stuff with me to not be a massive bother, then this happens...)
+Ena: Anyway, wanna check it out together? We're probably gonna be in line for a while, so it'll be nice to have some company.
+Mizuki: Yeah, let's go!
+
+
+15 1148:areatalk_monthly2109_005
+
+[Kamiyama High School]
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Rui: Ah, Tsukasa, are you about to have lunch?
+Tsukasa: Yes. Hm? You brought lunch? This is a rare sight.
+Rui: Yes, I did. My mother handed this to me earlier this morning.
+Rui: She also gave some to my father as well, so she may have been dumping the rest of the veggie-less pot stickers we had last night on us.
+Tsukasa: Veggie-less pot stickers...? So it's just meat?
+Rui: Wrapped no differently from a pot sticker, mind you.
+Tsukasa: Well, whatever floats your boat, I suppose...?
+
+
+16 1149:areatalk_monthly2109_006
+
+[Music Shop]
+
+(Character: Emu Otori, Nene Kusanagi)
+
+Emu: Hey! It's a poster for that musical we saw the other day♪
+Nene: Oh, you're right. Let's see... “For home viewing. The bonus CD will include a full soundtrack.”
+Nene: I've sort of been wanting to see it again, so I might just buy a copy.
+Emu: And it includes songs by the lead actor! Hehe. I think it's time to break open my piggy bank.
+Nene: You save money like the rest of us, Emu?
+Emu: Yup♪ I want to save a lot and buy lots of treasure♪
+Nene: Hold on, what do you mean?
+Emu: My dad taught me that when I was little♪ Making money is hard work, but you'll treasure whatever you buy with what you earned!
+Emu: Hehe. I want lots of treasure, and that's what I'm gonna spend my money on♪
+Nene: He said that...? That's pretty cool of him. Your dad's such a good parent, Emu...
+Emu: Yup! That's because he's really amazing♪
+
+
+17 1150:areatalk_monthly2109_007
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+Miku (WxS): Alright☆ Let's discuss how we can make our stage super amazing♪
+MEIKO: Yay♪
+KAITO: Sorry... Miku brought me here without much notice, so what's this meeting about exactly...?
+MEIKO: It's just what she said♪ We want to find a way to make our stage super amazing!
+Miku (WxS): I really liked the plushies' suggestions about how we should add a really big slide or make an ocean somehow♪
+MEIKO: A slide would be a nice touch and an ocean would be just as wonderful!
+KAITO: Yes, a slide may actually be feasible, but an ocean's a difficult proposition.
+Miku (WxS): Yeah, you'd need lots and lots of salt and water...
+KAITO: Yes, well... That is one problem...
+Miku (WxS): Okay, I'll go next☆ What if we made it so our stage can rotate round and round♪
+KAITO: Oh, that may actually be possible...
+MEIKO: Up and down, and side to side too. Like a mystifying top out of someone's dream!
+KAITO: Hold on, you two! Up and down, and side to side...?!
+KAITO: (At this rate, our stage will turn into some sort of thrill ride! I need to stop them before things get too out of hand!)
+
+
+18 1151:areatalk_monthly2109_008
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Kagamine Len, Megurine Luka)
+
+Luka: *Yawn* The weather's so nice today...
+Rin: Right? So about doing today's show outside...
+Luka: Zzz...
+Len: Oh, did Luka fall asleep?
+Rin: Haha♪ She's sleeping like a baby.
+Len: Yeah, it is a nice day out. Maybe I'll take a little nap too.
+Rin: Oh, me too...
+Luka: Mhm... Good night... You two... Zzz...
+
+

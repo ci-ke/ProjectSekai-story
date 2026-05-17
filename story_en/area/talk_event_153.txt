@@ -1,0 +1,85 @@
+1 2507:areatalk_ev_shuffle_52_001
+
+[Main Street]
+
+(Character: Airi Momoi, Akito Shinonome, Toya Aoyagi, Ena Shinonome)
+
+Ena: Huh...?
+Akito: Ugh...
+Airi: Hey, Akito, Toya. Fancy seeing you two here.
+Toya: Yes, what a coincidence. Are you two also here to visit the coffee Swiss roll shop?
+Airi: No, we were about to check out the Japanese confectionary place down that alleyway.
+Akito: I see. I was worried that Ena was copying me again.
+Ena: Again? What do you mean, again? You copied me that other time.
+Akito: What? Why would I ever copy you?
+Airi: Seriously, these two start arguing the second they see each other's faces. I can't even begin to imagine what it's like at their house.
+Toya: Yes, I do have to wonder.
+
+
+2 2508:areatalk_ev_shuffle_52_002
+
+[Shopping Mall]
+
+(Character: Airi Momoi, Akito Shinonome)
+
+Airi: Hi, Akito! Here to do some shopping?
+Akito: Oh, no... My mom asked me to grab a few things on my way home from practice.
+Airi: Ah, a little errand then.
+Airi: I bet your mom really appreciates having someone like you helping her out with the housework.
+Akito: I didn't have a choice. She said, “If you don't go, then we're going to have one less side dish for dinner.”
+Airi: Hehe. I see.
+Airi: (She's also Ena's mom, so I guess she knows what buttons to press to get her son to act.)
+Airi: (Still, it's really nice of Akito to actually go out and get what she needs like this.)
+
+
+3 2509:areatalk_ev_shuffle_52_003
+
+[Kamiyama High School]
+
+(Character: Toya Aoyagi, Ena Shinonome)
+
+Toya: Hello, Ena. Are you heading to class?
+Ena: Yeah, and you're... Oh, I know!
+Ena: Akito isn't with you, so that must mean you were busy with library committee stuff, right?
+Toya: Correct. Akito's...
+Ena: At the cafe he really likes on that one street! Did I guess right?
+Toya: You're very close. I'm meeting him at a different cafe he really likes.
+Ena: Oh, that's too bad... You know that he refuses to tell me anything about that one cafe?
+Toya: Would you like me to show you where it is?
+Ena: Hmm... I could have you do that, but at this point I sorta want to drag it out of Akito after all...
+Ena: But thanks for offering!
+
+
+4 2510:areatalk_ev_shuffle_52_004
+
+[Stage SEKAI - Stage]
+
+(Character: Airi Momoi, KAITO)
+
+Airi: KAITO, I brought those ceremonial arrows for warding off bad luck like you asked.
+KAITO (MMJ): Thank you, Airi! I'll place these on the stage that everyone uses the most.
+Airi: Okay. Still, you sorta took me by surprise when you said that you wanted a set of these on stage.
+KAITO (MMJ): Really? I feel it's important to perform good deeds and make use of these sorts of lucky charms...
+KAITO (MMJ): I definitely wouldn't want you or any of the others to get injured during a performance, Airi.
+Airi: Huh...?
+Airi: You just said mentioned placing those on the stage “everyone” uses. Did that mean...?
+KAITO (MMJ): Oh, it's almost time for our joint practice! We should head over to where we're supposed to meet!
+
+
+5 2511:areatalk_ev_shuffle_52_005
+
+[Scramble Crossing]
+
+(Character: Akito Shinonome, Ena Shinonome)
+
+Akito: Hey, can't you go wait over there?
+Ena: I said that I'd meet the others by this electronic sign. Why don't you go wait over there?
+Akito: I'm also meeting with the others here. Seriously, you've been following me since we left the house...
+Ena: Again, I just happened to be meeting with everyone at the same time and place. I didn't want to leave with you.
+Akito: Then, why didn't you just leave at a different time? You always end up arriving at the last minute anyway.
+Ena: Not true. Honestly, who do you take me for?
+Akito: ...
+Ena: ...
+Akito & Ena: (Where are you guys?!) (Where are they?!)
+
+

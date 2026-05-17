@@ -1,0 +1,198 @@
+1 1622:areatalk_ev_shuffle_29_001
+
+[Kamiyama High School]
+
+(Character: Toya Aoyagi, Rui Kamishiro)
+
+Rui: There we go... Phew. I managed to avoid being seen by the hall monitors.
+Toya: Kamishiro? What are you carrying there? It's awfully big...
+Rui: Ah, Aoyagi, it's you... This is actually a new device for one of our shows.
+Rui: We're going to use it during practice after school today, and I'd like to make some final adjustments to it before we do. Oh, I hate to ask you this, but would you mind not telling Shiraishi...?
+Toya: Understood.
+Toya: I'm having trouble imagining how you're going to use this during one of your shows, but I'm sure the audience will enjoy what they see.
+Rui: Yes, I'm hoping for just that.
+Rui: (Also, I can already see how the user of this device is going to react when he sees it.)
+Rui: Hehehe...
+Toya: (Kamishiro seems very pleased. I have to think that he already sees the audience smiling as they witness what unfolds.)
+
+
+2 1623:areatalk_ev_shuffle_29_002
+
+[Shopping Mall]
+
+(Character: Saki Tenma, Toya Aoyagi, Tsukasa Tenma)
+
+Saki: Oh! Hi, Toya! Are you also here to do some shopping?
+Toya: Yes, I'm here to buy a book. Are you two also shopping?
+Tsukasa: Yes, we came to buy ingredients for curry since we'll be having it for dinner tonight.
+Toya: Oh, does that mean you're going to make it together...?
+Saki: Yup! Remember the dinner party we had the other day? We learned our family's recipe while preparing for it!
+Tsukasa: And we're going to give it a try today!
+Tsukasa: Oh, Toya, why don't you come over and have some of the Tenmas' curry made specially by us!
+Toya: Are you sure? But you'd be having me over on such short notice...
+Tsukasa: Nonsense. You're one of our dearest friends. Also, I'm sure our parents would love to have you over.
+Saki: Yeah, totally♪ Mom and Dad will definitely be okay with you coming over!
+Toya: Thank you very much... Then, I'll need to let my mom know about this.
+
+
+3 1624:areatalk_ev_shuffle_29_003
+
+[Scramble Crossing]
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Toya: Akito, this may sound a little random, but how does your family make curry?
+Akito: Huh? Yeah, that is a pretty random question...
+Toya: Sorry. I went over to Tsukasa's house the other day and I found it very interesting how each family has their own way of making curry.
+Toya: In this case, the Tenmas served something on the mild side with plenty of vegetables.
+Akito: Really? Well... I'd say ours is pretty standard. No vegetables that you wouldn't see anywhere else.
+Toya: I see. Then, I wonder what kind of curry Azusawa and the others usually have...
+Akito: If you're that interested, why not just ask after practice next time?
+Toya: Yes, I think I will.
+
+
+4 1625:areatalk_ev_shuffle_29_004
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, Hatsune Miku, KAITO)
+
+KAITO: Hello, Toya! You came!
+Toya: Yes, I was interested in seeing what the new menu item for the cafe is going to be. At the same time, I feel that Akito would be a better person to do this.
+Miku (VBS): That's not true. I mean, you can tell the difference between different types of coffee, right? Doesn't that mean you have a sophisticated tongue?
+KAITO: Oh, speaking of coffee, I've been trying different roasting techniques on the beans you brought, Toya.
+KAITO: So, I'd like it if you could also do a tasting for that!
+Toya: Yes, I'd be happy to.
+KAITO: Excellent! I really appreciate it, Toya!
+KAITO: Now then...! Which shall I have you start with...?
+Miku (VBS): KAITO, we're not taste-testing your coffee today. This is for the cafe's new menu item...
+KAITO: Oh, MEIKO, mind if I borrow your dripper?!
+Miku (VBS): W-Wait! Oh dear...
+
+
+5 1626:areatalk_ev_shuffle_29_005
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+MEIKO: Miku...? You've been staring at the menu for a while now. Is something wrong?
+Miku (VBS): Hmm... Well, this is a cafe, so I was wondering if it'd be weird to have a fried chicken set meal on the menu...
+KAITO: Huh? A fried chicken set meal? Where's this coming from?
+Miku (VBS): The vocal training book that Toya lent to me recently had a section in it saying that it's good to eat fried chicken before you sing.
+Miku (VBS): Apparently, the oil and vitamin A are good for your throat. So, I was wondering if it'd make for a good menu item here.
+KAITO: That's very interesting. Then, why not add it to the menu?
+MEIKO: Yes... It won't quite work as it is, so if I give it a Western twist, then maybe...
+Miku (VBS): Right...
+Miku (VBS): Hey, KAITO...
+KAITO: Yes?
+Miku (VBS): What if we opened up an eatery next door together?
+KAITO: Us? No, that sounds like too much work.
+Miku (VBS): I figured.
+MEIKO: Haha...
+
+
+6 1632:areatalk_monthly2302_001
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin, Kagamine Len)
+
+Rin: *Sigh* So bored...
+Len: Um, Rin...? Ena lent me this picture book. Wanna read it together?
+Rin: I've already read that one...
+Len: Oh, okay...
+Rin: But I don't mind reading it again since I'm so bored...
+Len: Oh, are you sure?
+Rin: It's not like I have anything else to do. So, are we gonna read it or not...?
+Len: Yeah...!
+
+
+7 1633:areatalk_monthly2302_002
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Megurine Luka)
+
+Luka: *Yawn* I'm so sleepy... Rin, can I use your lap as a pillow?
+Rin: Mine? Not MEIKO's?
+Luka: Yes, yours will do nicely. Actually, I can sleep on anyone's lap just fine.
+Luka: Also, a different person's lap could lead to me seeing a new kind of dream.
+Rin: Really...? Then, can you tell me about it once you wake up?
+Luka: Of course. But for now... Good night... Zzz...
+Rin: (Wow, she fell asleep so fast.)
+Rin: (Hehe. I wonder what kind of dream she's gonna see. I can't wait to hear all about it.)
+
+
+8 1634:areatalk_monthly2302_003
+
+[School SEKAI - School]
+
+(Character: Kagamine Len, MEIKO)
+
+Len: Say, MEIKO... What do you think it means to be someone's senior?
+MEIKO: Hmm... That's a tough question... Why do you ask all of a sudden?
+Len: I mean, Ichika and the girls have been working so hard that I sort of want to help them more...
+Len: But I still don't really know what it means to be someone's senior, so I'm not sure what to do.
+MEIKO: I see. Do you have any ideal images of what that kind of person should be like?
+Len: Hmm... Definitely someone who can lead by example, you know?
+MEIKO: Oh, I like that! Can you try demonstrating that for me here?!
+Len: What?! I wouldn't be asking you for advice like this if I already knew how to do that...
+
+
+9 1635:areatalk_monthly2302_004
+
+[Stage SEKAI - Stage]
+
+(Character: MEIKO, KAITO)
+
+MEIKO: One, two, three...! Turn! And...pose!
+KAITO: You never cease to amaze me, MEIKO. You've already gotten this dance routine down perfectly. Here, use this towel.
+MEIKO: Oh, thank you. KAITO, are you also practicing... Wait, never mind.
+KAITO: Ah, I was just carrying some of the equipment we'll be using during the show.
+MEIKO: Oh, let me help you with that... You're going to be in this show too, right? Have you had enough time to practice for it?
+KAITO: I'll be fine... Well, actually... Things have been a little hectic this time around, so I plan on practicing after I'm finished carrying this equipment over.
+MEIKO: Yes, I see. That's understandable.
+MEIKO: However, KAITO, I'm just about done practicing and have a little time on my hands♪ Isn't there something you'd like to ask me?
+KAITO: Huh? Ah, got it...
+KAITO: MEIKO, would you mind helping me carry this equipment over? Also, is it okay if I ask you to practice those dance routines with me?
+MEIKO: Of course it's okay! We're in this together, so don't hesitate to ask me for help♪
+
+
+10 1636:areatalk_monthly2302_005
+
+[Street SEKAI - Cafe]
+
+(Character: Megurine Luka, KAITO)
+
+Luka: It's rare of you to come along with me on one of my walks, KAITO.
+KAITO: I'm actually having a little trouble with the mix I'm working on right now. I thought a walk would help me come up with some ideas for it.
+Luka: I see. I like to go out for walks whenever I want to think of ideas for that thing.
+KAITO: What thing? You mean singing?
+Luka: No, the other thing... Wait!
+KAITO: Luka? Was that a light bulb?!
+Luka: Yes! I think Napolitan pasta is going to be served for lunch today!
+KAITO: Huh...? Oh, you were talking about today's lunch menu?
+Luka: Yes! And I'm usually right whenever this happens♪ So, KAITO, why don't we go have some together? I'm sure some yummy pasta will help you come up with ideas!
+KAITO: Wonderful idea! Alright, to MEIKO's place!
+
+
+11 1716:areatalk_monthly2304_001
+
+[Shopping Mall]
+
+(Character: Toya Aoyagi, Emu Otori)
+
+Emu: Oh, Toya! Good wonderhoy☆
+Toya: Hello, Otori. You seem to be carrying quite a bit there...
+Emu: I bought some new notebooks for class♪ They had so many with cute animal and snack designs that couldn't help but buy lots and lots of them!
+Toya: I see. You must be very excited about using them.
+Emu: Yup☆ Are you here to shop too, Toya? You seem like all smiles today.
+Toya: All smiles...?
+Toya: I was just about to go buy a book by this author I began following recently. But they have so many different series that I'm not sure where to begin.
+Emu: Oh, I know what you mean! It's always really fun when you have lots and lots of things to choose from☆
+Toya: Ah, that must be why I was smiling just now. I'm excited by that prospect...
+Toya: Thank you, Otori. This is a nice discovery.
+Emu: Huh? I don't really understand... But you're super welcome♪
+
+

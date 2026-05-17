@@ -1,0 +1,84 @@
+1 1781:areatalk_ev_street_14_001
+
+[Kamiyama High School]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Kohane, thanks for coming! Sorry I dragged you into shopping with me like this.
+Kohane: No, I've actually been wanting to get some new clothes. Still...
+Kohane: I-Is it really okay for me to be here? I don't want to get in trouble...
+An: Don't worry! You just gotta act like you belong here.
+An: Imagine that it's our third event. Or that time you gave Uncle Taiga a piece of your mind!
+Kohane: Um, this isn't exactly that kind of situation...
+
+
+2 1782:areatalk_ev_street_14_002
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: For lattes, almond milk and extra caramel sauce... For soy lattes, honey and cinnamon powder on top... And...
+Akito: What are you mumbling about...?
+Kohane: Oh, so... You know how we won't be able to get coffee at Weekend Garage for a while?
+Kohane: I'm writing down my usual customizations to see if MEIKO can make them for me at her place.
+Akito: Oh, okay. So, how many different orders are we talking about here...?
+Kohane: Let's see. Fifteen or so.
+Akito: Fifteen?! When did you get up to that many...?
+Kohane: Hehe. They sort of just added up over time as I experimented...
+Kohane: (I hope this doesn't cause MEIKO too much trouble. It'd be nice to have these here.)
+
+
+3 1783:areatalk_ev_street_14_003
+
+[Main Street]
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Kohane: We won't be able to have coffee at Weekend Garage for a little while.
+Toya: Yes. As happy as I am that Ken agreed to watch us practice, I can't help but feel somewhat sad.
+Toya: On the bright side, I was able to buy some of the beans for my usual blend.
+Kohane: Oh, that's right! You can just brew some yourself whenever you like!
+Toya: Yes... I'm sure I won't be able to do what Ken does, but I should be able to enjoy something similar.
+Toya: I plan on asking MEIKO or KAITO to watch as I brew some the next time I go over.
+Kohane: I see! Then, can I go with you?
+Toya: Of course. It'll be nice to have a taster there who's actually had Ken's coffee before.
+Kohane: Really? Then, I'll be happy to help.
+
+
+4 1784:areatalk_ev_street_14_004
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+An: I'm excited to practice with Dad, but I'm also a little nervous...
+An: Now that I think about it, I don't really know what Dad looks like when he puts his musician face on...
+Kohane: Really? Didn't he watch you practice? And you've seen him perform live, right?
+An: Yeah, but I honestly can't remember ever seeing him practice.
+Akito: I'm guessing his practices were a little intense for small children.
+Toya: Probably... RADder was good enough to get an offer from a label overseas. They probably did a lot of work behind the scenes to reach that level.
+An: What if we're on the path now that he was on back then...?
+Kohane: We might be...
+Akito: Either way, we're not gonna stop until we put on an event that surpasses RAD WEEKEND, right?
+An: Right! I dunno what he's gonna throw at us, but we just gotta do our best!
+Kohane & Toya: Yeah! Yes!
+
+
+5 1785:areatalk_ev_street_14_005
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, Kagamine Len, MEIKO)
+
+Len: An and the others sounded so excited when they came over to practice just now.
+Miku (VBS): Probably because they know what they want to do moving forward, and what they need to do.
+MEIKO: You mean becoming better singers and convincing their friends to return...?
+Miku (VBS): Other things may crop up along the way, but that seems to be their new starting point.
+Len: I guess surpassing a night as legendary as that one isn't gonna be easy, huh...?
+MEIKO: Especially since Nagi spent what little time she had left making it happen. That makes it something very special.
+Miku (VBS): That's what made it into the event An and Akito have been dreaming of surpassing, and that dream even managed to pull in Kohane and Toya.
+MEIKO: Right.
+Len: That means we gotta keep giving them all the support we possibly can!
+
+

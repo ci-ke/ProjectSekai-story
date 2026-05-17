@@ -1,0 +1,130 @@
+1 1317:areatalk_ev_street_07_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Flyers for music events always look so pretty and stylish, don't you think?
+Kohane: Yeah. I'm always amazed by how these photos really draw out a person or team's personality.
+An: Their photos, huh? Hehe. I guess you can't help but focus on that, huh?
+Kohane: Yeah, I like figuring out how things are framed or angled. Also, are these taken by professionals? 
+An: No, not always. Some teams know people that are good with a camera, like you, and ask them to take these.
+Kohane: I didn't know that! I wanna try taking photos of you guys if we ever get this kind of chance, An!
+An: I'd like that too! But keep in mind that you'll also need to be in them for it to be an official Vivid BAD SQUAD photo!
+Kohane: Oh, you're right! Hehe...
+
+
+2 1318:areatalk_ev_street_07_002
+
+[Main Street]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: *Sigh* What should I do...?
+Akito: Hm? Hey, what brings you here?
+Kohane: Oh, Shinonome! I was just trying to pick out some clothes...
+Akito: Clothes?
+Kohane: Yeah. The top that the store over there has on display looks really cool, but...
+Akito: If you're worried about how you'll look in it, I think you'll be fine.
+Akito: From what I can tell, it should go pretty well with the outfit you've been wearing for shows.
+Kohane: Y-You think so?!
+Akito: That's just my opinion. Also, you don't have to rush to purchase, so why not just come back and try seeing what else it might go with?
+Kohane: Yeah, I think I will! Thank you so much, Shinonome!
+
+
+3 1319:areatalk_ev_street_07_003
+
+[Main Street]
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Toya: Azusawa, what's the name of the drink you always order at Weekend Garage? You know, the one that sounds like you're casting some sort of spell?
+Kohane: You mean, A cafe mocha with whipped cream, chocolate chips and extra caramel sauce...?
+Toya: Yes, that. I'll need to write it down so I don't mix it up when I'm ordering...
+Kohane: I don't think I've ever seen you show interest in anything other than straight blends.
+Toya: I'm just trying to find ways to expand my horizons, so I'd like to try something different for a change.
+Toya: It'll also be two birds with one stone since I'll get a chance to see what my teammate likes while also seeing what it's like from your point of view.
+Kohane: Oh, I see!
+Kohane: (Hehe. That's so like him.)
+
+
+4 1320:areatalk_ev_street_07_004
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Toya: I wasn't expecting any of Weekend Garage's equipment to misbehave like this...
+An: Sorry, guys. I had a feeling that something might be wrong...
+Kohane: It's not your fault, An. You don't have to apologize.
+Akito: I mean, we can always just go find a karaoke place to practice if push comes to shove.
+Akito: Also, can that thing be fixed?
+An: Not sure. Most of our stuff's pretty old, so it'll probably be easier to just replace it instead of trying to fix it.
+Toya: That's a shame... It was able to produce a sound with so much presence to it too.
+Kohane: On top of that, your dad used it when he was still active on the scene, right, An?
+An: Yeah, he cared a lot about it. But I also know that he wants everyone to enjoy the best sound possible, so he might be willing to budge.
+Kohane: Okay...
+An: Oh, what if we hit it a few times? That works with really old stuff, right? We could give that a try when we get back today.
+Akito: No way. That's how you break the camel's back.
+An: True...
+
+
+5 1321:areatalk_ev_street_07_005
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Hatsune Miku, Kagamine Len)
+
+Kohane: Huff... Huff... How was that?
+Len: That was amazing! You got me super pumped!
+Len: But I had kind of a hard time seeing the image that you saw...
+Kohane: I see...
+Miku (VBS): Having an image in your own head is one thing, but getting someone on the same wavelength as you isn't exactly easy.
+Kohane: Still, if I do manage to succeed at that, it'll be proof that I've grown just that much, so I've gotta keep trying.
+Len: Yeah! You go, girl!
+Miku (VBS): Not only did we get to see where RAD WEEKEND happened, we even got to see a video of it.
+Miku (VBS): We should be feeling just as motivated as her.
+
+
+6 1322:areatalk_ev_street_07_006
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Kagamine Rin, Megurine Luka)
+
+Akito: Luka, what do you usually do when you're not at MEIKO's place?
+Luka: I'm usually wandering around SEKAI.
+Luka: Even if it's somewhere I'm already familiar with, I find it fun to just keep walking and walking.
+Rin: But we kinda want you to visit more. I've been meaning to ask you for some more advice concerning music.
+Luka: Oh, really? Why don't you ask me now?
+Rin: Actually... Miku already helped me with my most recent question.
+Luka: Oh, that's unfortunate...
+Akito: And you're really just out wandering around when you're not at the cafe, huh?
+Luka: Haha. That's right.
+Luka: Hm? Hang on... That doesn't exactly put me in a good light, does it?
+Akito & Rin: ...
+Luka: D-Don't clam up like that! Say something, you two!
+
+
+7 1323:areatalk_ev_street_07_007
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, MEIKO, KAITO)
+
+Toya: Mmm... MEIKO, is there ever a time when your coffee isn't delicious?
+MEIKO: That means quite a lot coming from one of my regulars.
+MEIKO: Especially since a certain other regular never gives me any compliments despite being a total coffee snob.
+KAITO: Are you referring to me?
+KAITO: I never say anything because your coffee's so delicious that it leaves me speechless, MEIKO.
+MEIKO: Oh, is that so...?
+KAITO: Yes, but I will say something if I sense that something isn't quite right.
+MEIKO: That just means you're a pest.
+KAITO: What?! Did you hear that, Toya?!
+Toya: Yes. Being able to deal with a heckler with such grace is proof that she's the boss.
+Toya: That's not something I'm able to do myself, so I stand to learn quite a lot from her.
+KAITO: Huh? O-Okay...?
+MEIKO: Hehe. Can I get you a refill, Toya?
+Toya: Yes, please.
+
+

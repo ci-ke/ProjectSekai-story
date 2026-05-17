@@ -1,0 +1,247 @@
+1 1520:areatalk_ev_shuffle_24_001
+
+[Shopping Mall]
+
+(Character: Rui Kamishiro, Mafuyu Asahina)
+
+Rui: Ah, Asashina. Hello there.
+Mafuyu: Oh, Kamishiro, hello. That's quite a big bag you've got there.
+Rui: Hehe. I happened to find a nice assortment of books just now. Reference materials for shows if you will.
+Rui: After all, we showmen crave a constant stream of new and interesting ideas.
+Mafuyu: You crave new ideas...?
+Mafuyu: (That sounds similar to how Kanade says she needs some sort of inspiration to begin composing a song...)
+Mafuyu: It sounds like you work very hard on your shows...
+Rui: That's because there are people out there who are eagerly waiting to see them. Asahina, if you ever get the chance, you should stop by to see one.
+Rui: You'll always be welcome...
+Mafuyu: Thank you. I appreciate the offer...
+
+
+2 1521:areatalk_ev_shuffle_24_002
+
+[Scramble Crossing]
+
+(Character: Akito Shinonome, Mafuyu Asahina)
+
+Mafuyu: (That person who's running... Isn't that Ena's younger brother...?)
+Akito: Oh, hello. Asahina, right? Thank you for always keeping an eye on my sister.
+Mafuyu: No, it's my pleasure. Were you getting in a run just now?
+Akito: Yes, that's right. I've been running in order to put a better polish on our performances.
+Mafuyu: Yes, I see. I can tell that you're a very hard worker.
+Akito: To be fair, the others do this like it's no problem, so I don't really have any time to rest...
+Mafuyu: Hehe. I wish you the best of luck. I'll have fingers crossed for you.
+Akito: Thank you very much. I'm glad to see my sister has such a supportive friend.
+
+
+3 1522:areatalk_ev_shuffle_24_003
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Honami Mochizuki, Mafuyu Asahina)
+
+Honami: Excuse me! Asahina...! Would you like to have some of this bread?
+Mafuyu: Huh? Bread...?
+Honami: Yes, I baked these rolls during home economics club yesterday, but ended up making a few too many... I was hoping to share them with others.
+Mafuyu: Oh, I see... They smell wonderful and look very delicious. I'll be sure to try them later.
+Honami: Thank you very much! But I still have plenty more where that came from...
+Honami: Oh, I might try thinking of a way to use them as part of a dish since I'll be heading over to Ms. Yoisaki's house later.
+Mafuyu: Hehe. I'm sure she'd like that. Kanade hardly ever eats whenever she focuses on composing... Something simple and easy to prepare may be best.
+Honami: Yes, I agree...! Then, I'll try going with a relatively simple recipe. I really appreciate your input, Asahina!
+
+
+4 1523:areatalk_ev_shuffle_24_004
+
+[Main Street]
+
+(Character: Shizuku Hinomori, Mafuyu Asahina)
+
+Shizuku: Hehe. It's so nice to get to go home with you for a change, Asahina. Oh? I spy a little kitten going for a walk around the city...
+Mafuyu: Oh, you're right. It seems used to being around people. Do you think it belongs to someone?
+Shizuku: Yes, possibly. That's it, good kitty. Come here, you.
+Mafuyu: Wow. It seems to really like you, Hinomori.
+Shizuku: Hehe. It must be very used to being around people. Why don't you pet it, Asahina...? Oh...
+Mafuyu: Oh, it ran away... The truth is, animals don't seem to like me very much.
+Shizuku: Really? That's okay. Just leave it to me!
+Shizuku: Asahina's a very nice person, little one. She's not scary at all. See? Come here♪ Meow-meow♪
+Shizuku: Oh, it really ran this time...
+Mafuyu: Hehe... I appreciate the effort, Hinomori.
+
+
+5 1524:areatalk_ev_shuffle_24_005
+
+[Main Street]
+
+(Character: Akito Shinonome, Rui Kamishiro)
+
+Akito: Alright, that should be enough for today.
+Rui: That was a nice song, Shinonome. I really didn't expect to get to hear you sing when I came here.
+Rui: People keep stopping to hear what's going on. Street performances really are a wonderful thing.
+Akito: Thank you. It was nice to perform for someone I don't see here very often for a change.
+Rui: Hehe. It is important to experience different situations. So, why don't we do a street performance together sometime?
+Rui: There's something I'd really like to see you do, Shinonome. I'm yet to test it out on Tsukasa...
+Akito: What? No, thank you.
+Rui: Oh, that's too bad. But I'll be ready if you change your mind.
+
+
+6 1525:areatalk_ev_shuffle_24_006
+
+[School SEKAI - School]
+
+(Character: Ichika Hoshino, Hatsune Miku, Megurine Luka)
+
+Miku (Ln): Ichika, you've become such a better singer and guitarist.
+Luka: I agree. You've come such a long way since you first started.
+Ichika: Thanks, you two. Back then, we were really just all over the place.
+Miku (Ln): Yes, it feels so nostalgic now.
+Ichika: Miku, Luka... If you like, would you like to play something with me?
+Ichika: This time, I'll be the one leading.
+Miku (Ln): Hehe. Lead the way, Ichika.
+Luka: Alright, let's have ourselves a fun little session.
+
+
+7 1526:areatalk_ev_shuffle_24_007
+
+[Stage SEKAI - Stage]
+
+(Character: Minori Hanasato, Hatsune Miku, Kagamine Rin)
+
+Miku (MMJ): ...turn here and stop♪
+Rin: Okay, lemme try that! Turn and stop...! How was that? Did it look okay...?
+Minori: That was perfect! Your outfit fluttered really nicely too!
+Rin: Woohoo! You and Minori came up with that dance routine, right, Miku?
+Miku (MMJ): Yes. Minori came up some nice ideas for the parts that were giving me a bit of trouble♪
+Minori: Hehe. I'm glad that I could give back since you guys are always there for us.
+Miku (MMJ): I really appreciate it, Minori! Oh, how about we try dancing it together next?
+Minori: Wait, really? That sounds like fun! Let's dance!
+
+
+8 1527:areatalk_ev_shuffle_24_008
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Hatsune Miku, Kagamine Len, MEIKO)
+
+Miku (VBS): Thank you for bringing us back some food from that festival. What was it called again? Shibuya Festa?
+Kohane: Oh, you're welcome. Was there anything in particular you liked?
+MEIKO: Everything was delicious, but I think everyone liked the shaved ice the most.
+MEIKO: Oh, I know. What if I added some sort of sherbet drink to the menu?
+Len: Huh? How does that work? Are you gonna mix some kind of sherbet with one of the regular drinks?
+Kohane: Mixing soda with a light fruit sherbet is usually good. It becomes all bubbly and light.
+Miku (VBS): A fruit sherbet is a good idea, but veggies should also work, right? I feel like there's a lot of room for experimenting.
+MEIKO: Yes, we can try making some right now. Kohane, you and the others can be my taste testers.
+Kohane & Len: Okay! Cool!
+
+
+9 1528:areatalk_ev_shuffle_24_009
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Tsukasa Tenma, Hatsune Miku, KAITO)
+
+Tsukasa: Hm?! Miku, wait...!
+Miku (WxS): Huh? Is something wrong?
+Tsukasa: Mind showing me your shoulder?
+Miku (WxS): What?
+KAITO: Oh, a part of your costume is fraying...
+Miku (WxS): What?! Oh no! My costume...!
+KAITO: I didn't notice it either. It may've gotten caught on something during practice earlier.
+Tsukasa: However, this is no problem at all. I'll fix it up in an instant.
+KAITO: Thank you, Tsukasa. That'll help quite a bit.
+Tsukasa: You can leave it to me! To the stage!
+Miku (WxS): Yay! Thanks, Tsukasa! Let's go go go☆
+
+
+10 1529:areatalk_ev_shuffle_24_010
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Hatsune Miku)
+
+Kanade: Miku, where'd you get those mini doughnuts?
+Miku (N25): Ena brought them over just now. She said, “They were a gift, but I'm on a diet right now.”
+Kanade: Oh, I see. Aren't you going to eat them?
+Miku (N25): Yes, but I'm waiting for Rin, Len, MEIKO and Luka.
+Miku (N25): They'll taste better if I share them instead of having them to myself.
+Kanade: Okay...
+Kanade: Then, may I also have some...?
+Miku (N25): Sure. We can have some together, Kanade...
+
+
+11 1540:areatalk_monthly2210_001
+
+[Empty SEKAI - Expanse]
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Len: Hmm... It should be around here somewhere...
+Len: Huh...? The landmark Mizuki showed me should be right here...
+Miku (N25): Len? What are you doing all the way out here...?
+Len: Oh, Miku... Mizuki left a cushion somewhere around here to serve as a landmark, but I'm having trouble finding it...
+Miku (N25): Oh, Rin took it... She said she wanted to use it while reading a picture book.
+Len: I see... I was worried for a second that I'd gotten lost again.
+Miku (N25): Don't worry. If you ever do get lost again, we'll come find you.
+Len: Okay... Thanks, Miku.
+
+
+12 1541:areatalk_monthly2210_002
+
+[Empty SEKAI - Expanse]
+
+(Character: Ena Shinonome, Kagamine Len)
+
+Ena: Have you already gotten used to being here, Len?
+Len: Yeah, I haven't been getting lost all that much lately.
+Ena: That's good. Still, it is kinda scary how this place sort of goes on forever. You really might become completely stranded if you're not careful...
+Len: Y-Yeah... You and the other should be careful too, Ena.
+Ena: Thanks, Len. Luckily, all we have to do is stop “Untitled” and we'll get sent back to where we were.
+Len: I see... That's good to know.
+Ena: (Len's so nice, and really innocent. I wish I had a little brother like him. Then I could brag about how cute he is.)
+
+
+13 1542:areatalk_monthly2210_003
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Kagamine Len)
+
+Len: Kanade, what are you doing...?
+Kanade: ...
+Len: Oh, um...
+Kanade: Hm? Len? Sorry, I didn't notice that you were there. I was just thinking about some ideas for the song I'm currently composing...
+Len: N-No, it's okay! I'm sorry for bothering you like this... Um... I'll be over there...
+Kanade: Oh, wait. Can I ask you for an opinion? I mean, I came over for that very reason.
+Len: Y-You want to ask me? Are you sure?
+Kanade: Yes, would you mind telling me what you think?
+Len: O-Okay...! I'm not sure if I'll be able to say anything that's helpful... But I'll try.
+
+
+14 1543:areatalk_monthly2210_004
+
+[School SEKAI - School]
+
+(Character: Ichika Hoshino, Kagamine Rin)
+
+Rin: Ichi! Whatcha lookin' at? Is that your schedule?
+Ichika: Yeah, I just got word about my next work shifts, so I'm writing them in.
+Rin: Whoa! Between practice and work, your schedule's packed!
+Rin: Hm? One day has a bread sticker on it. What does that mean...?
+Ichika: Oh, that's when they sell yakisoba buns at school. We have this store at school that sells a lot of different kinds of bread.
+Rin: I didn't know that! Haha. And you put in a sticker to make sure you don't forget! That's so cute of you, Ichi☆
+Ichika: Is it a bit too childish...? Still, I really do love yakisoba buns.
+
+
+15 1544:areatalk_monthly2210_005
+
+[School SEKAI - School]
+
+(Character: Saki Tenma, MEIKO)
+
+Saki: Humhum. Cool...
+MEIKO: Hm? Saki, are you watching a video about doing your nails?
+Saki: Yup! The mom of one of the girls in my class is a nail artist and brings samples for us from time to time!
+Saki: So, I decided to try making my own nails look really pretty and started learning some cool painting techniques!
+MEIKO: Oh, that sounds fun. Mind if I watch with you?
+Saki: Of course! Oh, we can look at the samples my classmate brought! There are so many designs, it's amazing!
+MEIKO: Nice! We have twenty fingers between us, so we'll get to have plenty of fun experimenting.
+Saki: Oh, you're right! Alright, let's test out as many of these as we can!
+
+

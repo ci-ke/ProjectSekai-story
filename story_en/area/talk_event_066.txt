@@ -1,0 +1,170 @@
+1 1480:areatalk_ev_shuffle_22_001
+
+[Main Street]
+
+(Character: Toya Aoyagi, Nene Kusanagi)
+
+Nene: (I tried taking a shortcut by going down this alley...)
+Nene: (But this place... It's kinda dark and really creepy... I'm starting to think this wasn't such a good idea...)
+Toya: Hm? Kusanagi? I wasn't expecting to bump into you here.
+Nene: Huh? Oh, Aoyagi, it's you.
+Nene: Um... I heard that there's an arcade around here and was thinking about checking it out, but...
+Toya: Oh, I know where that is. It's just around the corner. Would you like me to show you...?
+Nene: (He noticed that I was lost and decided to help...)
+Nene: Y-Yes, please. That is, if you're okay with it...
+Toya: I don't mind. So, shall we?
+
+
+2 1481:areatalk_ev_shuffle_22_002
+
+[Music Shop]
+
+(Character: Akito Shinonome, Nene Kusanagi)
+
+Akito: Oh, you were there that day to see our show? Thank you very much. Yes, we're set to go with our next show...
+Nene: (Oh, it's Shinonome. Is he talking to a show patron? He usually puts on his polite face for these sorts of situations.)
+Akito: Hm? Oh, Kusanagi, it's you... I knew I sensed someone staring at me...
+Nene: (Oh no, he found me...)
+Akito: So, what's up?
+Nene: N-Nothing... I was just looking for the soundtrack aisle and...
+Akito: The soundtrack aisle? Oh, they moved it toward the back recently.
+Nene: R-Really? I didn't know... Thank you...
+Akito: Sure, you're welcome.
+Nene: (Huh? Is he nicer than I initially thought...?)
+
+
+3 1482:areatalk_ev_shuffle_22_003
+
+[Main Street]
+
+(Character: Toya Aoyagi, Emu Otori)
+
+Emu: Oh, Toya! Won-Won-Wonderhoy!!
+Toya: Ah, isn't that how you usually greet Tsukasa and the others?
+Emu: Yup☆ It's like a magical spell for making everybody smile♪
+Emu: It doesn't matter if someone's feeling great or a little down. They can't not smile after hearing “Wonderhoy!” Like you right now, Toya.
+Toya: Even if they're feeling a little down? I see...
+Toya: I apologize if I appeared that way. I stayed up a bit late last night because of this novel that I couldn't stop reading. As a result, I didn't get much sleep.
+Emu: Oh, okay! I'm glad to hear that you're feeling okay!
+Toya: Yes, and I'm appreciative of your concern.
+
+
+4 1483:areatalk_ev_shuffle_22_004
+
+[Shopping Mall]
+
+(Character: Akito Shinonome, Emu Otori)
+
+Emu: Hi, Akito! Over here!!
+Akito: It's her...! Shouting at the top of her lungs too...
+Akito: Oh, um... Haha... I apologize for my friend...
+Akito: Hey, what are you doing shouting like that...? You're gonna scare everyone around here.
+Emu: Hehe. Sorry. I couldn't help it after seeing you...
+Emu: I'm about to go eat with my big sis☆ What are you up to? Shopping?
+Akito: Yeah, pretty much... Hang on. You didn't dash off and leave your sister behind, did you?
+Emu: That's okay! She said I should go say hi to my friend after I told her that I saw you!
+Akito: Oh, okay. She sounds like a nice person.
+Akito: (Unlike a certain someone...)
+
+
+5 1484:areatalk_ev_shuffle_22_005
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Emu Otori, Nene Kusanagi, Hatsune Miku)
+
+Emu: Oh, Nene, listen! I came up with a pose for when we make Print Stickers again!
+Emu: First, bend your right elbow and place it in front of your face! Then, stretch your left arm straight behind and...
+Emu: Ta-daa! I'm a hero dashing through a strong headwind!!
+Miku (WxS): Oh, you're a hero! That's really cool!
+Nene: Is that why you and Tsukasa were practicing doing all those weird poses...? For Print Stickers...?
+Nene: Hang on... You don't expect me to do that pose, do you?
+Emu: Yeah, I do! You'll be on the left, Nene, and mirroring what I'm doing!
+Nene: You even came up with where I'm supposed to stand...? But I guess it's okay since you can't really see what's going on inside one of those booths...
+Miku (WxS): Oh, I can't wait to see how your picture turns out♪ Let me know when it's ready, okay?
+
+
+6 1495:areatalk_monthly2208_001
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, KAITO)
+
+Kohane: KAITO, thank you for teaching me today about how to use a sampler.
+KAITO: You're welcome. I also had fun since you listened so intently and asked so many good questions.
+Kohane: Really? Thank goodness. I was a little worried that I was asking too many questions...
+KAITO: Haha. There's no need to worry whatsoever!
+KAITO: (What is this I'm feeling? For the first time in quite some time, it's like I'm being held in some form of high regard...!)
+KAITO: (Nowadays, Miku and the others are so informal with me. On the other hand, I'd feel so lonely if they began distancing themselves from me out of caution!)
+
+
+7 1496:areatalk_monthly2208_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, KAITO)
+
+An: KAITO, I brought over some of that floor cleaner that you asked for.
+KAITO: Thank you, An! So this is what you and your father use at your cafe?
+An: Yes. We also wax the floor once a year, but we use an industrial-size batch for that so I can't exactly bring it over.
+KAITO: No, that's okay. I couldn't ask any more of you.
+KAITO: Especially since I also asked you and the others to temporarily draw MEIKO away from the cafe.
+An: Right. So, just like we planned, we'll ask MEIKO to join us for practice!
+KAITO: While Miku, the others and I will clean the floor and give it a brilliant shine!
+An: Hehe. I hope MEIKO enjoys our little surprise.
+
+
+8 1497:areatalk_monthly2208_003
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Megurine Luka)
+
+Luka: Boo!!
+Akito: Hello, Luka.
+Luka: Wait, huh...? That didn't scare you?! Did you happen to know that I was here?
+Akito: Yes, I caught a glimpse of your clothes.
+Luka: Oh... But you could've just played along and acted startled or surprised... I was hoping you'd at least say, “Whoa!”
+Akito: I mean, even if I did... More importantly, why were you trying to scare me? This is something little kids do to each other.
+Luka: Why? I mean... I saw you walking along, Akito, and decided to pull a little prank on you.
+Akito: Okay...?
+Luka: Haha! I say it's important to maintain that playful spark as you age. Just look at some of the adults around you. Don't any cool people with youthful spirits come to mind?
+Akito: Hm...? You mean Ken and Taiga...? Yeah, I guess so...
+Luka: Exactly! I'm just like them♪
+Akito: No, you're not...
+
+
+9 1498:areatalk_monthly2208_004
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, Megurine Luka)
+
+Luka: Say, Toya. How would you react if you saw that I was hiding in a side alley and jumped out to try and scare you?
+Toya: Well... I'd probably decide whether or not to act startled.
+Luka: Oh, wonderful! And?
+Luka: (I knew Toya would be willing to play along.)
+Toya: Please allow me to run a quick thought experiment to see whether or not I'd actually act startled during such a situation.
+Luka: A thought experiment...?
+Toya: Yes. First, the case where I don't act startled. I'd probably apologize to you for not reacting the way you were expecting because I'd already seen your clothes.
+Toya: Next, the case where I do act startled. For better or worse, it'll put my acting skills to the test...
+Toya: If only I were a talented actor, like Tsukasa... Alas, can a person like me who's experienced so little in life put on a performance that feels real...?
+Luka: Haha... Um, Toya... I'm really sorry for asking you such a silly question...
+
+
+10 1499:areatalk_monthly2208_005
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku (VBS): Things are so quiet today...
+MEIKO: Yes, it is. Especially since Kohane, KAITO and everyone was here every day for the past few days.
+MEIKO: It does feel a bit lonely here, but it's also nice to have time to relax like this.
+Miku (VBS): Right... It reminds me of when this SEKAI was just born.
+Miku (VBS): Oh, but Rin and Len were always fighting, so you could say that things were lively even back then...
+MEIKO: Hehe. Yes, I suppose.
+MEIKO: I have just enough tea and snacks for the both of us, Miku. Why don't we enjoy them out on the terrace? We won't be able to tell Len or the others about this though.
+Miku (VBS): Sure, that sounds nice.
+
+

@@ -1,0 +1,95 @@
+1 1460:areatalk_ev_wonder_09_001
+
+[Main Street]
+
+(Character: Tsukasa Tenma, Nene Kusanagi, Rui Kamishiro)
+
+Tsukasa: Hm? Nene, were you just at the arcade?
+Nene: Yeah, I came a little early to look for a score hunter named “ATVBS”.
+Tsukasa: A score hunter...?
+Rui: Oh, you mentioned that someone's been going around and replacing everybody's names in the score rankings for various games. Is that who you're talking about?
+Nene: Yeah, they've been getting some ridiculous scores too. I even heard some people saying that they might be a pro gamer.
+Tsukasa: And you were looking for them... Does that mean you wish to challenge them?
+Nene: Oh, um... If possible, yeah. Things are more fun when you get to play against a strong opponent.
+Tsukasa: Interesting... Even though you're usually so shy, Nene...
+Rui: Yes, and you seem determined to find this person. We have either your love of video games or this ATVBS fellow's skills to thank.
+Nene: Either or both is fine by me. Anyway, Emu still isn't here yet, so I'm gonna take another peek inside the arcade.
+Tsukasa: This ATVBS fellow also has me curious. We should ask Emu to meet us at all the arcade.
+Rui: Yes, let's do that.
+
+
+2 1461:areatalk_ev_wonder_09_002
+
+[Scramble Crossing]
+
+(Character: Emu Otori, Nene Kusanagi)
+
+Emu: Shopping♪ Shopping♪
+Nene: You're really that happy about us doing some shopping together?
+Emu: Yup! Because I'm shopping with you, Nene♪
+Nene: What...? But we see each other almost every day during practice... Today doesn't seem all that different...
+Emu: I don't think so. We talk a lot at the Wonder Stage, but it's usually about our shows and stuff, right?
+Emu: But when we go out to have fun, we get to talk about other stuff, like our favorite clothes and food☆
+Emu: That's why I think every trip out is a chance for us to get to know each other better and better♪
+Nene: R-Right...
+Nene: Then... Let's talk about lots of different things today.
+Emu: Yeah♪
+
+
+3 1462:areatalk_ev_wonder_09_003
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
+
+Nene: *Sigh* We were only gone a few days, but it feels like we're coming back from a long trip for some reason.
+Tsukasa: Yes, I almost said, “I'm home,” to the staff as I passed by them without really thinking about it.
+Emu: Oh, I told everyone that I'm home too♪
+Rui: We spent quite a bit of time surrounded by nature and the ocean, while on a desert island too. It's no wonder that we'd want to be back somewhere with more people.
+Tsukasa: Yes, that's true too...
+Tsukasa: But we had been doing shows here each day without so much as a second thought. This experience became an excellent reminder of just how blessed we are.
+Nene: To be fair, we do actually come here almost every day to practice, rehearse or do shows.
+Rui: Right. And now that we're back, we get to go back to putting on shows as we usually do...
+Emu: Yup! Oh, Shosuke and everyone else said that we can take a little break since we had to go through so much this time!
+Nene: They did? But I kinda want to start working on our next show since we're finally back.
+Emu: Oh, Nene, you sound like you're all fired up and ready to go☆
+Tsukasa: Don't forget about me! Now, let's head over to the Wonder Stage and start thinking about our next show!
+Emu, Nene & Rui: Yeah!
+
+
+4 1463:areatalk_ev_wonder_09_004
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Hatsune Miku, MEIKO)
+
+MEIKO: Miku, are you ready?
+Miku (WxS): Yup. I'm ready whenever, MEIKO!
+MEIKO: Alright... Up you goooooo!
+Miku's Voice (Miku-WxS): Hahaha☆ Wheeeeeee♪
+MEIKO: Hehe. It's nice to see that I've still got it since it's been so long.
+MEIKO: And... Got you♪ Did you enjoy your flight, Miku? I know it's been quite a while.
+Miku (WxS): Super duper extra fun! I went so high that I flew through some clouds☆
+MEIKO: Yes, it was fun watching you poke holes in those clouds from down here too.
+MEIKO: Oh, but you can't tell KAITO about this, okay? He'll say that it's too dangerous for us to be doing this.
+Miku (WxS): Okay♪ It'll be our little secret☆
+
+
+5 1464:areatalk_ev_wonder_09_005
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Len, MEIKO)
+
+Len: Hey, MEIKO! Is it just me or did SEKAI get a new ride?
+MEIKO: This is news to me... What made you think that?
+Len: I saw it! Or rather, I saw Miku going, “Wheeeeeee,” up into the sky!
+MEIKO: Oh... I-Is that so? What an interesting story. By the way, have you asked anyone else about that?
+Len: Yeah, I asked KAITO just now! But he wouldn't tell me anything. I have a feeling he's in on the secret.
+MEIKO: (He found out. After being told that I shouldn't send Miku flying so high because it's too dangerous...)
+Len: Oh, MEIKO, that reminds me. KAITO said that he needed to talk to you.
+MEIKO: (I knew it!)
+MEIKO: Oh, I just remembered that there's something urgent I need to do♪ Please tell KAITO that I'm going to be busy for a while...
+Len: Huh?! W-Wait, MEIKO!
+
+

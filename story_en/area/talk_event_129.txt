@@ -1,0 +1,153 @@
+1 2248:areatalk_ev_street_17_001
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+An: *Sigh* No practice tomorrow. Dad could've given us more of a heads-up...
+Toya: To be fair, we have been pushing ourselves very hard the last few days. Also, he has been telling us that taking breaks is a part of the process.
+Akito: Still, I don't know what to do with all this free time. I'm so used to practicing nonstop now, you know?
+An: Then, why don't we all go somewhere together?! How about karaoke...? Wait, that involves singing... We could all go see a movie!
+An: There's this musical that I've sorta been meaning to go see for a while now.
+Kohane: Do you know what the story's about?
+An: It's about these estranged brothers who rekindle their bond through singing... I think that's how it went!
+Akito: Alright, I wouldn't mind that.
+Kohane: I'd like to go see it as well.
+An: Then, let's take a trip over to the movie theater tomorrow!
+Toya: (We may not be able to resist the urge to sing if we all went to see a musical together...)
+An: Hehe. I can't wait to see it with you guys! I hope it's good!
+Toya: (But I'd rather not rain on her parade...)
+
+
+2 2249:areatalk_ev_street_17_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Akito Shinonome, Hatsune Miku)
+
+Miku (VBS): Thank you both for helping me move these plants into new pots. It's always nice to have a few extra hands.
+Akito: No, don't mention it. Still, these have gotten pretty big.
+An: I know, right?! We see them all the time, but I never really noticed until now.
+Miku (VBS): They've been growing little by little each day. Even I'm surprised by how big they've grown, and I'm the one who waters them.
+Miku (VBS): I also started feeling bad about how cramped they were getting in their original pots. That's why I decided to replant them.
+An: Hehe. That's so kind of you, Miku. Oh, Akito! Be careful not to damage the roots.
+Akito: I know. You need to be careful not to drop any of the pots.
+An: What? There's no way that's happening!
+Miku (VBS): That sounds like foreshadowing to me... Please be careful, you two.
+
+
+3 2250:areatalk_ev_street_17_003
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Hey, wanna have dinner at my house tonight? My mom's really been hoping that you'd visit again.
+An: She loves how you enjoy everything she makes!
+Kohane: Actually, I sort of feel like I asked for a little too much the last time I visited...
+An: Haha. That's totally fine. I mean, it's natural to feel hungry after a tough practice!
+Kohane: Hehe. Thanks. Then, if you don't mind having me over again.
+An: Of course. I'll let my mom know to make sure you get extra-large portions!
+Kohane: What?! N-No, An, you really don't...
+
+
+4 2251:areatalk_ev_street_17_004
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+Toya: Sorry, Shiraishi, I don't know if you can answer this question...
+Toya: But my mom asked me to buy some potatoes for her on my way home. I'm not sure what to get, so can you give me some advice as to how to pick out the good ones?
+An: How to pick good potatoes...? I guess you wanna look for ones that aren't wrinkly. Smooth and plump is supposedly the way to go.
+An: You'll want to avoid any that have gashes or spots on them. Also, I doubt the store you're going to sells them, but the same goes for any that look kinda green. Those can cause horrible stomach aches.
+Toya: I see... Smooth, plump and not green... Thank you. I'll keep those things in mind.
+An: No problem! Actually, want me to come with...? I also need to grab a few things.
+Toya: Are you sure? That'd certainly be very helpful.
+An: Haha. You can count on me! I'll help you pick out the best ones!
+
+
+5 2252:areatalk_ev_street_17_005
+
+[Street SEKAI - Plaza]
+
+(Character: Toya Aoyagi, Megurine Luka)
+
+Toya: Luka, I brought that tarp you asked for.
+Luka (VBS): Oh, thank you! You're a lifesaver!!
+Luka (VBS): I've been having picnics around here lately with the lunches MEIKO's been making for me!
+Luka (VBS): But she always scolds me for eating while sitting on the ground because my clothes are going to get all dirty.
+Toya: Yes, I see. In that case, I'm glad I could help. Anyway, if you'll excuse me...
+Luka (VBS): No, wait! Won't you join me, Toya? Look! MEIKO made all these sandwiches. Take it as a small token of my appreciation.
+Toya: Then, maybe just a quick bite... I do like picnics since they have this effect of showing a familiar place in a new light.
+
+
+6 2254:areatalk_monthly2404_002
+
+[Kamiyama High School]
+
+(Character: Toya Aoyagi, Tsukasa Tenma)
+
+Tsukasa: Oh, Toya, perfect! I know this is sudden, but have you had lunch yet?
+Toya: No, I was just about to eat. Is something the matter?
+Tsukasa: I made too much chicken fried rice during home ec and decided to make rice balls out of them. I was in the middle of passing them out...!
+Tsukasa: Heh heh heh. They're full of cabbage, onions, carrots... All sorts of veggies, so they're very nutritious!
+Toya: I see. These look very good. The vegetables and the ketchup make for a tantalizing color combination.
+Tsukasa: Yes, don't they?! Rui hates vegetables, so he immediately refused. Akito wouldn't take any either. I was actually starting to wonder what I was going to do with these.
+Tsukasa: But I know you've been busy with practice lately, so please take some. They'll help keep your batteries charged!
+Toya: In that case, I'll take some. Thank you. These should help me get through classes in the afternoon, as well as practice later.
+Tsukasa: Excellent! You should be able to operate at full power the rest of the day! Now, I need to pass out the rest of these. Farewell for now!
+
+
+7 2255:areatalk_monthly2404_003
+
+[Kamiyama High School]
+
+(Character: Akito Shinonome, Tsukasa Tenma)
+
+Tsukasa: Huff... Huff... Akito! Why are you running in the corridor?!
+Tsukasa: Just as the bell let everyone know that school's out, no less. Are you that happy about the day ending...?!
+Akito: Huff... Huff... You're getting the wrong idea. All I did was make a short dash. Following me outside seems like an overreaction...
+Tsukasa: What are you talking about?! I have a duty as a hall monitor to ensure that every student follows the rules! But if you insist on stating your case, continue.
+Akito: I need to meet up with my team soon for practice later. That's why I'm in a bit of a hurry...
+Tsukasa: I see. I understand that you're excited about having a good practice, so I'll let you off with a warning here!
+Tsukasa: Anyway, I apologize for keeping you. Good luck with practice, Akito!
+Akito: Thank you... And... I'm sorry for not being more careful...
+
+
+8 2274:areatalk_monthly2405_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Megurine Luka)
+
+Luka (VBS): Every new menu item was delicious!
+An: The pancakes, parfaits and drinks she made all looked amazing... How does MEIKO do it every time?!
+An: *Sigh* I'm so glad I decided to come over to SEKAI for my break...
+Luka (VBS): Me too! Your timing couldn't have been better!
+An: Come to think of it, Luka, did you know that she'd be doing a taste test today?
+Luka (VBS): No, I just had a feeling that something good would happen if I went over to MEIKO's place today!
+Luka (VBS): You'd be amazed how often I'm right! And now I have a full stomach!
+An: Haha. I see...
+An: (This feeling she's talking about sounds more like her wild instincts...)
+An: (But I guess that's part of what makes her a free spirit, and why the way she sings is so captivating.)
+
+
+9 2275:areatalk_monthly2405_003
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, KAITO)
+
+Toya: Thank you for joining me today. You really helped clear up the thing that was bothering me during practice.
+KAITO (VBS): It's my pleasure! Singing with you was quite a lot of fun, Toya!
+KAITO (VBS): I know. Why don't we head over to MEIKO's place? Rin and Len should be brewing coffee right now!
+Toya: They are?
+KAITO (VBS): Yes, they're having a contest to see who makes the better coffee!
+KAITO (VBS): They asked myself, Miku and the other two to be judges, but that makes four. It'd be nice to have a fifth just in case.
+KAITO (VBS): You're quite the coffee connoisseur, Toya, so you're the perfect candidate! What do you say?
+Toya: Me? As a judge? That's quite a lot of responsibility... But I'm also curious to see what kind of coffee those two make...
+Toya: Okay... I really can't say how I'm going to do, but I'll join your panel of judges.
+KAITO (VBS): Haha! You don't have to take it that seriously! Anyway, let's start heading over to MEIKO's place!
+
+

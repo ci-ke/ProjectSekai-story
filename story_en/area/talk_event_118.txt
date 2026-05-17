@@ -1,0 +1,213 @@
+1 2126:areatalk_wl_street_01_001
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, An Shiraishi, Megurine Luka, MEIKO)
+
+MEIKO (VBS): Okay, Luka, here's your soup. It'll stay hot in this food jar, so please be careful when you decide to have it.
+Luka (VBS): Oh, MEIKO, thank you! I can't wait to try it.
+Kohane: Umm... What's that you have there?
+Luka (VBS): The thing is, I've been looking for a way to take some of MEIKO's delicious food on my walks, and she gave me a container for this soup!
+MEIKO (VBS): It's full of meat, carrots, potatoes and paprika, so it really warms the bones.
+MEIKO (VBS): Would you two like some, Kohane, An? I made quite a lot.
+An: We can have some?! Yes, please!
+Luka (VBS): What?! No fair! I want some more!
+MEIKO (VBS): What happened to your walk...?
+
+
+2 2127:areatalk_wl_street_01_002
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: Oh... Where'd it go...?
+Akito: What's wrong? Why are you so worried?
+Kohane: Huh? Oh, so... I think I misplaced my vocab notebook for English...
+Akito: Your vocab notebook? Oh...
+Akito: Weren't you looking at that in the car yesterday?
+Kohane: In the car... Oh, right...
+Kohane: I was trying to get in some studying on the drive over, and...
+Akito: And you left it in the car?
+Kohane: Maybe...! Thank you so much, Shinonome! I'll try asking An's dad if he's seen it...!
+
+
+3 2128:areatalk_wl_street_01_003
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Toya: Huff... Huff... Where could Luka have gone...?
+Kohane: She was with us a second ago... When did we get separated?
+Kohane: We're supposed to taste-test some new sweets at MEIKO's place together...
+Toya: I know. Luka will be the only one unable to join if we don't find her. We need to let her know somehow.
+Toya: I'll try looking over there a little bit more.
+Kohane: Then, I'll try searching from on top of that building!
+
+
+4 2129:areatalk_wl_street_01_004
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Akito Shinonome, MEIKO)
+
+An: Oh, what are you two doing?
+MEIKO (VBS): I wanted to learn more about the latest fashion trends, so I decided to ask Akito about them.
+An: Fashion trends?
+MEIKO (VBS): Yes. I'd like to put some cool outfits together.
+Akito: To be fair, I haven't really been keeping up since I left my job...
+An: Yeah... Fashion trends change all the time. Plus, we're so busy lately that that's the last thing on our minds.
+An: But I think any outfit would look great on you, MEIKO, because of your slim figure and cool attitude!
+An: Right, Akito?
+Akito: Honestly, MEIKO, you could probably pull off anything. With your confidence, it's never gonna feel like you're the one being “worn” by the outfit.
+MEIKO (VBS): Oh, you two... Butter me up all you like, but all you're going to get is coffee and pancakes.
+
+
+5 2130:areatalk_wl_street_01_005
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+Toya: Shiraishi, are you free after school today?
+An: Yeah, sure... What's up?
+Toya: So, I heard something from one of your classmates. Apparently, you and Akito couldn't keep up during math class the other day.
+An: Urgh...
+Toya: Math is one of those subjects where one setback can cause you to fall far behind your peers. Fortunately, that can be remedied if we act quickly.
+Toya: I'd like for us to meet at MEIKO's cafe after school. It shouldn't take much to get you two caught back up.
+An: B-But... This feels so sudden...
+Toya: This is happening. I'll let Akito know in a bit.
+An: ... Okay.
+An: (I-It's nice of him to do this... But who told him?!)
+
+
+6 2131:areatalk_wl_street_01_006
+
+[Street SEKAI - Plaza]
+
+(Character: Akito Shinonome, Toya Aoyagi, Kagamine Len)
+
+Len (VBS): No, not again! But I won't give up...! Lemme try one more time, Akito... I'm gonna get past you to score a goal!
+Akito: Alright, come at me from any direction.
+Toya: You two seem pretty good.
+Akito: Really? We're not doing anything all that special.
+Toya: No, that's not true. I struggle just to kick the ball straight ahead.
+Toya: Would it be possible for you to teach me how to do that sometime?
+Akito: You too?
+Len (VBS): Wait, Toya, you also wanna learn to play?! I'll teach you whatever you want!
+Toya: Thank you. Then, I'll bring some better sneakers next time.
+
+
+7 2132:areatalk_wl_street_01_007
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Toya: Still... To think that our feelings would produce a completely new area.
+Akito: I mean... I doubt anybody could've predicted this.
+An: Haha. I know, right?
+Kohane: But I'm glad we were able to figure out what feelings went into it after exploring with MEIKO and the others.
+Kohane: Also, every time I come here, I get really motivated.
+An: Yeah, me too! I feel this urge to do whatever it takes to break down the wall!
+Akito: You've both been feeling that way too?
+Toya: Then, that means we've all been thinking the same thing. Let's do what we can to fill the place with music!
+Kohane, An & Akito: Yeah! Okay.
+
+
+8 2133:areatalk_wl_street_01_008
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, KAITO)
+
+Akito: You're not fooling anyone... You'll feel a lot better after you apologize to MEIKO and explain yourself.
+Akito: Just tell her you accidentally ate the teriyaki chicken and lettuce sandwich she clearly made for herself.
+KAITO (VBS): Urgh... E-Explain myself...?
+KAITO (VBS): “I'm sorry, MEIKO! I thought it was the ham and lettuce sandwich you made for your customers, but it turned out to have your teriyaki chicken in it...”
+KAITO (VBS): “By the time I realized what had happened, I'd already finished it. The grainy mustard added such a nice kick.” What if I said that?
+Akito: I guess that works. But a review of her sandwich seems unnecessary.
+Akito: Also, since you savored the taste that much, I guess you could recreate it for her...
+KAITO (VBS): *Gasp* Why didn't I think of that?! I should be in the kitchen right now!
+Akito: Then, I'll volunteer as your taste tester since it was my suggestion.
+KAITO (VBS): I can't thank you enough, Akito! I'm going to create an exact copy of MEIKO's super special sandwich!!
+
+
+9 2134:areatalk_wl_street_01_009
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, Kagamine Rin, Kagamine Len)
+
+Kohane: Someday, we're going to put our own graffiti on those walls... I might want to start practicing now if that's the case.
+Len (VBS): Yeah! I'll help you practice!
+Rin (VBS): Me too! We've actually got everything we need for that!
+Kohane: Really...? Then, I might ask you two to teach me sometime.
+Len & Rin: You got it!!
+Len (VBS): We'll teach you how to do the coolest graffiti in the world!
+Rin (VBS): Yeah! An and the others won't believe what they see!
+
+
+10 2135:areatalk_wl_street_01_010
+
+[Street SEKAI - Plaza]
+
+(Character: Toya Aoyagi, Hatsune Miku)
+
+Miku (VBS): This sprout's so adorably tiny. I want to give it all the love and nutrients it deserves so that it grows big.
+Toya: I've been meaning to ask, Miku. Do you enjoy taking care of plants?
+Toya: You look after just about all of the flowers out in front of Crase Cafe, yes?
+Miku (VBS): So, I do most of the work out front since MEIKO handles the kitchen.
+Miku (VBS): It's not a passion or anything... But I do enjoy seeing flowers bloom, and I try my best to keep any of the plants from wilting.
+Miku (VBS): Naturally, I feel the same way about our little one here.
+Toya: Yes, I see. I'll keep an eye on it as well to make sure it stays healthy as it grows.
+
+
+11 2166:areatalk_monthly2402_001
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Kagamine Len)
+
+An: Huh? Hey, Len, why's there a sheet of paper stuck to your back...?
+Len (VBS): What paper? Hey, when did this get here?! It must've been Luka!
+An: She did this?
+Len (VBS): Yeah, she was grinning really suspiciously when she came by to talk to me just now...
+An: Oh, I see... Then, wanna try getting even with her?
+Len (VBS): Even? How...?
+An: I'll keep Luka distracted while you sneak around behind her...
+Len (VBS): That's a great plan! Get ready for some payback, Luka!
+An: Hehe. Alright, let's go find her! Just make sure she doesn't see you, okay?
+
+
+12 2167:areatalk_monthly2402_002
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Akito: Me? As the judge for your contest?
+Len (VBS): Yeah! Rin and I have been talking about holding a contest to see who makes the best pancakes...
+Len (VBS): And we want you to be the judge, Akito!
+Akito: I mean, I don't mind... But is anyone else participating?
+Len (VBS): Yeah, at the moment, it's Rin, Luka and me! We're trying to see if KAITO and Miku wanna enter as a team.
+Akito: I'm a little worried about Miku, but I guess she'll be fine as long as KAITO's working alongside her...
+Akito: Alright, I accept. But the pancakes you make better be good. I'm not going easy on any of you...
+Len (VBS): Great! Get ready for pure deliciousness!!
+
+
+13 2169:areatalk_monthly2402_004
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, Kagamine Rin)
+
+Miku (VBS): Thank you for helping me water the flowers.
+Rin (VBS): Hehe. I'm really glad that they're doing so well! Anyway, Miku, about our deal...
+Miku (VBS): Yes, I remember. We can play badminton for a little bit when we take our break.
+Rin (VBS): Yay! I've been wanting to play so much ever since An and the others brought over those rackets and shuttlecocks!
+Rin (VBS): And you're really amazing at Hanetsuki. I wanna surprise Len, so teach me everything you can!
+Miku (VBS): Hehe. Okay. We can surprise the others by training in secret.
+
+

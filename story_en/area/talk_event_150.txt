@@ -1,0 +1,216 @@
+1 2407:areatalk_ev_night_19_001
+
+[Main Street]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: Man, that was fun! We really chatted up a storm!
+Mafuyu: You talked for so long that the ice cream on your pancake melted...
+Kanade: I'm amazed that you're not tired at all after talking so much.
+Ena: I was thinking the same thing.
+Ena: There's plenty that I wanna talk about too, but I'd probably run out of breath if I tried to cover everything like that.
+Mafuyu: Which means peace and quiet. Isn't that a good thing?
+Ena: Seriously...? You better be worried if that ever actually happens.
+Mizuki: (I guess we get to banter like this every day again.)
+Mizuki: (It really feels like I'm back now...)
+
+
+2 2408:areatalk_ev_night_19_002
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Mizuki Akiyama)
+
+Mizuki: Come to think of it, Kanade, did you already know that there was something different about me?
+Mizuki: I remember you telling me one time that there's a quality to my voice that you and the others aren't able to match.
+Kanade: Yes, I vaguely remember that. But I was probably just commenting on the unique characteristics of your voice.
+Kanade: What else was I thinking...? Oh, that it's nice to have someone who has the range to hit both high and low notes.
+Kanade: *Nod* I think that's about it...
+Mizuki: I see.
+Kanade: Oh, speaking of singing, I was thinking about adding some harmony parts to the song we're currently working on.
+Mizuki: Really? That's awesome! I'll nail any high or low notes you throw at me!
+Kanade: Thank you. Then, I'll come up with a few things for you to try.
+
+
+3 2409:areatalk_ev_night_19_003
+
+[Scramble Crossing]
+
+(Character: Mafuyu Asahina, Mizuki Akiyama)
+
+Mizuki: Ena told me that you and Kanade also stopped by Kamiyama High when they were holding supplementary classes. Is that true?
+Mafuyu: Yes, because she may not have been able to find you if she were all by herself...
+Mizuki: Right. So, if I'd gone straight to school that day, then I might've run into you and Kanade instead?
+Mafuyu: Maybe. But I'm not sure we would've gone over to talk to you.
+Mafuyu: We were planning to stay hidden in the bushes by the school gate and let Ena know that we'd found you.
+Mizuki: The bushes by the school gate...? Oh, I know what you're talking about.
+Mizuki: Then, what would you two have done if I saw you and tried to make a run for it?
+Mafuyu: Go after you. I memorized all the streets around Kamiyama High and the shortcuts the students use in advance for that very purpose.
+Mizuki: What? S-Seriously...?
+Mizuki: Haha. You're just pulling my leg. It's so hard to tell when you're joking, Mafuyu.
+Mizuki: (Maybe it was a good thing that Ena was the one who found me...)
+
+
+4 2410:areatalk_ev_night_19_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Mizuki Akiyama, MEIKO)
+
+MEIKO (N25): Are you by yourself today...?
+Mizuki: Yeah. I thought that I wouldn't get to see you if I weren't, MEIKO.
+MEIKO (N25): Does that mean you came to meet me specifically...?
+Mizuki: Bingo! I even bought you some coffee!
+Mizuki: So, mind if we chatted for a bit? You can leave once you're finished drinking that.
+MEIKO (N25): I'll stay if you feel it's important that we do...
+Mizuki: Yes, it's really important to me! There's a ton of stuff that I wanna talk to you about.
+Mizuki: (Nice! Coffee really does make for a great icebreaker!)
+Mizuki: (After all, Ena got KAITO to talk by using the same trick, so props to her.)
+
+
+5 2411:areatalk_ev_night_19_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome)
+
+Ena: Kanade, Mafuyu, thanks for everything you both did.
+Ena: I really appreciate you two helping me despite not being told what was really going on...
+Kanade: That's okay. We both knew you had Mizuki's best interests in mind.
+Mafuyu: And Mizuki seemed glad about finally being able to talk.
+Kanade: I'm sure Mizuki wanted to tell you directly too...
+Ena: Yeah. And I...
+Ena: No, never mind. All's well that ends well.
+Ena: Anyway, where is Mizuki?
+Mafuyu: I just saw a message saying, “I'm running a little late.”
+Kanade: And apparently, “I got a drop of ketchup on my clothes while having some fries, so I'll be on after I wash out this stain.”
+Ena: What? You've gotta be kidding me.
+
+
+6 2512:areatalk_monthly2412_001
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Honami Mochizuki, Mafuyu Asahina)
+
+Honami: Oh, Asahina, good morning.
+Mafuyu: Good morning. Oh, Mochizuki, there's something stuck to your uniform...
+Honami: *Gasp* Th-The thing is, I baked some apple pie this morning and had a quick bite... This must be a piece of the crust...
+Mafuyu: You baked some this morning?
+Honami: Yes, I woke up in the middle of the night after dreaming about apple pies... After that, I had to satisfy my urge to bake one.
+Mafuyu: I see... You must really love them.
+
+
+7 2515:areatalk_monthly2412_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Megurine Luka)
+
+Luka (N25): Oh, Kanade, perfect timing. I was just hoping to give you a little quiz. Would you mind answering this question?
+Kanade: Huh? A quiz? Okay...
+Luka (N25): Thank you. Then, here it goes. Six people are playing hide and seek. Three were found. How many remain?
+Kanade: Huh? Th-Three...?
+Luka (N25): No, the answer is two, because one person is seeking. *Sigh* I feel so much better now.
+Kanade: You feel better...?
+Luka (N25): Nobody I talked to would play. MEIKO and KAITO both just ignored me, and Rin told me to leave her alone because she was too busy drawing. Miku and Len both sort of froze up when I asked them.
+Luka (N25): None of them would fall for my trap. So, Kanade, thank you for being such a good sport. I'll see you later.
+Kanade: Oh, there she goes... I'm not entirely sure what happened just now...
+
+
+8 2516:areatalk_monthly2412_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Hatsune Miku)
+
+Miku (N25): ...
+Mafuyu: Why are you staring at your own hair, Miku?
+Miku (N25): Oh, Mafuyu... Len just told me my hair is really fluffy...
+Miku (N25): I was trying to see why that is.
+Mafuyu: Did you find an answer?
+Miku (N25): No... Come to think of it, Mafuyu, your hair also looks really fluffy. Why is that?
+Mafuyu: Actually, I don't know why either.
+
+
+9 2532:areatalk_monthly2501_001
+
+[Music Shop]
+
+(Character: Honami Mochizuki, Kanade Yoisaki)
+
+Honami: Oh, Ms. Yoisaki, that CD... Is it the new one by that artist you told me about the other day?
+Kanade: Huh? Yes, that's right. How did you know?
+Honami: I'm actually also here to buy a copy. After we spoke the other day, I listened to that song you told me about. It was really nice, and I was completely drawn into their world.
+Kanade: I see. I'm glad that you enjoyed their music so much.
+Kanade: Oh, let me know if you're interested in listening to any of their other songs. Some of their music isn't available online, but I have a few of their other CDs at home.
+Honami: You do? Then, I might ask you about them the next time I visit!
+
+
+10 2533:areatalk_monthly2501_002
+
+[Main Street]
+
+(Character: Honami Mochizuki, Ena Shinonome)
+
+Ena: Oh, Honami, what a coincidence! Wait, you smell delicious today for some reason...
+Honami: Oh, I think it's because of these...
+Ena: That bag? Did you just visit a bakery?
+Honami: Yes, this new bakery opened up by the station recently. I tried their apple pies the other day and they were absolutely incredible...!
+Ena: Really...? If they're worth that kind of praise from you, of all people, then I might be interested.
+Honami: Would you like me to message you the location later? They're having a sale on some of their bread as part of their grand opening celebration.
+Ena: They are? Then, can you message me later? I'll want to take this opportunity to try a few different varieties.
+Honami: Yes, of course! I'd also love to hear your review.
+
+
+11 2549:areatalk_monthly2502_003
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, KAITO)
+
+Kanade: Oh, KAITO... Luka and Rin are looking for you over that way.
+KAITO (N25): I don't care. They probably just want to play cat's cradle or something.
+Kanade: Cat's cradle... Oh, Miku and the others do play that together from time to time.
+Kanade: Do you know any tricks, KAITO?
+KAITO (N25): No.
+Kanade: Huh?
+KAITO (N25): I've never played before.
+Kanade: I see. Then, why were Luka and Rin...?
+KAITO (N25): Hmph. A certain someone must want to see someone make a fool of himself because she's bored.
+Kanade: (I suppose that's another way of saying things are peaceful around here...)
+
+
+12 2550:areatalk_monthly2502_004
+
+[Empty SEKAI - Lake]
+
+(Character: Mafuyu Asahina, Kagamine Len)
+
+Len (N25): Um, Mafuyu...? Did something happen recently?
+Mafuyu: No, things have been normal.
+Len (N25): Okay... I guess that's a good thing.
+Mafuyu: What about you, Len? Anything new?
+Len (N25): M-Me? Uhh...
+Len (N25): MEIKO and Rin invited me to sing with them the other day. That was fun...
+Mafuyu: I see... I don't see you three together much.
+Len (N25): Hehe. I thought the same thing when they came over to invite me...
+
+
+13 2551:areatalk_monthly2502_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Ena Shinonome, Megurine Luka)
+
+Ena: Oh, Luka, do you like Swiss rolls at all?
+Luka (N25): Well, I can't say that I dislike them... Which I suppose means that I do like them.
+Ena: Really? Then, would you do me a small favor?
+Ena: My parents got a package that included three of them.
+Ena: You know how my brother's in the United States right now? That means the three of us each have to eat one.
+Luka (N25): Oh, that sounds lovely. It's not often that you get to have a whole roll to yourself.
+Luka (N25): What if it ends up being so good that you're not able to put your fork down? Why not take a quick bite to find out?
+Ena: Luka... You're just trying to make me gain weight, aren't you?
+Luka (N25): Hm, I wonder? Who knows, it might suit you.
+
+

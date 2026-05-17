@@ -1,0 +1,171 @@
+1 2308:areatalk_wl_band_01_001
+
+[School SEKAI - Station]
+
+(Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
+
+Ichika: It still feels odd how this sprout's growing in the middle of the station like this.
+Shiho: Anything seems to go in SEKAI, so I'm not all that surprised at this point.
+Saki: Even the station is new♪
+Honami: Still, what kind of sprout could this be...? Do you happen to know, Ichika?
+Ichika: Hmm... It looks like a tree sapling, but I don't think we're going to know until it grows a little more...
+Saki: Oh! I wish it'll turn into a yummy fruit tree!
+Shiho: You wish...? I don't think we get to choose.
+Saki: But if our feelings can change SEKAI this much, then it might become one if we wish really hard!
+Ichika: In that case, if it starts growing apples, we can have Honami bake some apple pies for us.
+Honami: Hehe. We're going to need a lot of apples since I'll want to bake some for everyone.
+Saki: Then, let's demonstrate how much we want that to happen!
+Saki: Please become an apple tree! Please become an apple tree! Hey, you guys gotta say it too...!
+Shiho: Alright, alright.
+
+
+2 2309:areatalk_wl_band_01_002
+
+[School SEKAI - Station]
+
+(Character: Ichika Hoshino, Hatsune Miku)
+
+Ichika: The rooftop offers a beautiful view of the stars, but so does this place.
+Miku (Ln): I agree.
+Ichika: By the way, Miku, have you been aboard one of the trains here yet?
+Ichika: They take you right by those stars. You get so close that you can almost touch them with your hand.
+Miku (Ln): That close?
+Ichika: It was incredible. I really want to see that with you.
+Miku (Ln): That sounds nice. Then, why don't we look for a train we can catch?
+Ichika: Okay!
+
+
+3 2310:areatalk_wl_band_01_003
+
+[School SEKAI - School]
+
+(Character: Saki Tenma, Kagamine Rin, Megurine Luka)
+
+Saki: Oh, Rin, there you are! I brought over that thing you asked for!
+Rin (Ln): Really?! Thanks, Sakki♪
+Luka (Ln): Oh, what did you bring for her?
+Saki: Hehe. Ta-daa! A notebook for keeping an illustrated diary!
+Rin (Ln): Remember how that sprout popped up in the station?
+Rin (Ln): I wanna see how it's changed each time I go to see it, so I'm gonna keep a diary of what happens♪
+Luka (Ln): That's a good idea. Then, would you mind showing me what you draw each time?
+Rin (Ln): Sure! My drawings are gonna be so good♪
+
+
+4 2311:areatalk_wl_band_01_004
+
+[School SEKAI - School]
+
+(Character: Honami Mochizuki, Kagamine Len, MEIKO)
+
+Honami: MEIKO, Len, are either of you interested in the boxed lunches you often see being sold at stations?
+Len (Ln): Huh? Yeah, sure... But why do you ask?
+Honami: The department store at the station is having a fair featuring boxed lunches from all over the country.
+Honami: I was thinking that I could buy some for us to all have while riding the train. Miku and the others got all excited about how it'd be like us going on a trip together.
+MEIKO (Ln): Yes, that does sound like fun. But won't buying enough for all of us be very expensive?
+Honami: That also crossed my mind... But they apparently offer bulk discounts, so I should be able to figure something out.
+MEIKO (Ln): As usual, Honami, you've got all your bases covered.
+Len (Ln): By the way, what do they have at this fair?
+Honami: Quite a wide selection. Give me one second to bring it up on my phone.
+
+
+5 2312:areatalk_wl_band_01_005
+
+[School SEKAI - Station]
+
+(Character: Shiho Hinomori, KAITO)
+
+Shiho: Is something on your mind, KAITO?
+KAITO (Ln): Oh, so... I was just thinking about the lyrics for the song I listened to with Ichika the other day...
+KAITO (Ln): It had to do with how stars twinkle because they're so lonely... After all, there's no sound in space...
+KAITO (Ln): So, to make up for that, they emit as much light as they can in order to communicate with their closest neighbor that's probably lightyears away... Or something along those lines...
+Shiho: Oh, that's pretty romantic.
+KAITO (Ln): It is...
+KAITO (Ln): Which is why I was thinking about what kinds of messages the stars here might be sending to each other...
+Shiho: Really? In that case, I'd like to hear what you think, KAITO.
+KAITO (Ln): Sure, but please don't laugh...
+Shiho: Why would I laugh? Please, go on.
+
+
+6 2313:areatalk_wl_band_01_006
+
+[School SEKAI - Station]
+
+(Character: Ichika Hoshino, Honami Mochizuki)
+
+Honami: What a beautiful sky. It has such a wonderful gradation to it.
+Ichika: But I'm having trouble figuring out if it's dawn or dusk. What do you think?
+Honami: I have a feeling that it's dawn since it seems like it's getting brighter over there.
+Ichika: Oh, you're right...
+Ichika: But I think I want it to stay like this for a little while. After all, if it gets too bright, then we won't be able to see the stars.
+Honami: Right. I'd also like to enjoy stargazing from this platform for a little while longer.
+Ichika: There's a bench over there, so why don't we sit and keep watching while we wait for Saki and the others to arrive?
+Honami: Okay.
+
+
+7 2314:areatalk_wl_band_01_007
+
+[School SEKAI - School]
+
+(Character: Ichika Hoshino, Shiho Hinomori)
+
+Shiho: Things seem really quiet today. Normally, someone would be playing something.
+Ichika: Well, I'm pretty sure none of them are here right now.
+Shiho: Oh, I forgot... Saki and the others said they were gonna explore the station today, right?
+Shiho: I said I couldn't because of committee stuff, so it completely slipped my mind. Were you busy too, Ichika...?
+Ichika: Yeah. I said that I probably wouldn't be able to make it because the broadcasting committee was having a meeting...
+Ichika: But why don't we go try finding them? It wasn't just Saki. Miku and Rin also seemed really sad about me not coming, so I felt kind of bad...
+Shiho: Yeah... Both our committees wrapped things up early, so we might still be able to catch up to them.
+Shiho: Let's hurry over.
+Ichika: Okay!
+
+
+8 2315:areatalk_wl_band_01_008
+
+[School SEKAI - School]
+
+(Character: Saki Tenma, Honami Mochizuki)
+
+Saki: After seeing those stars, I wanna hear you give one of your planetarium spiels, Hona.
+Saki: So, would you mind? Just one quick story♪
+Honami: Sure. Then, I'll talk about Scorpius. I don't think I've done that constellation yet... Try to picture it in your mind, okay?
+Saki: Okay♪
+Honami: When you look up towards the Milky Way as it glitters in the summer night sky, you'll see a large S-shaped constellation. That's Scorpius.
+Honami: The most prominent star in the constellation, Antares, sits at the heart and has a red hue. In Ancient Greek, Antares means “rival to Ares”.
+Saki: Huh? Ares?
+Honami: Hehe. In ancient times, it was often mistaken for Mars.
+Saki: Really...?! Oh, tell me more!
+
+
+9 2316:areatalk_wl_band_01_009
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Saki Tenma, Shiho Hinomori)
+
+Saki: Hehe. It's just the two of us during lunch today♪
+Shiho: The way you said that made me feel really uncomfortable for some reason.
+Saki: What?! I was just stating a fact! It really is just the two of us. How else am I supposed to describe us having lunch together like this?
+Shiho: You just said it. What's wrong with just saying that we're having lunch together?
+Saki: Everything! That totally leaves out a bunch of important information!
+Saki: Saying how it's just the two of us makes things feel way more positive and special!
+Shiho: I get how you feel, but why are you obsessing over this so much? It's not like you're writing lyrics or anything right now.
+Saki: Of course I'm obsessing! Tsukasa even said how I'm a pro now, so I gotta act like one!
+Shiho: I don't disagree with that statement, but you've picked a weird time to...
+Saki: Just go with it, will you?! We still gotta go buy our lunches!
+
+
+10 2317:areatalk_wl_band_01_010
+
+[School SEKAI - Station]
+
+(Character: Hatsune Miku, Megurine Luka)
+
+Miku (Ln): Oh, Luka, have you heard the story about the train that travels through outer space?
+Luka (Ln): That's the fairytale Ichika and the others mentioned, yes? It's apparently so famous that it's been adapted into its own anime and movies.
+Miku (Ln): Yes, and they promised to bring over the book for it the next time they visit.
+Miku (Ln): I doubt it has anything to do with this place, but it sure sounds like an interesting story.
+Luka (Ln): Also, if you don't know what they're talking about, you won't be able to follow their conversation.
+Miku (Ln): Huh...? N-No, I just...
+Luka (Ln): Hehe. You really are adorable, Miku.
+
+

@@ -1,0 +1,156 @@
+1 1175:areatalk_ev_night_06_001
+
+[Scramble Crossing]
+
+(Character: Kanade Yoisaki, Mizuki Akiyama)
+
+Kanade: So... Bright... My eyes...
+Mizuki: Haha... Why don't you stay in my shadow until your eyes get used to the light?
+Kanade: I think I will...
+Mizuki: Now that you mention it, Kanade, do you ever get that warm and comfy feeling when you're in the sun?
+Kanade: I used to a long time ago, but not anymore...
+Mizuki: Yeah, I guess you're too used to being in a dark room with all the curtains closed now...
+Mizuki: At the same time, you sort of sound like a vampire when you say that the sun makes your eyes hurt.
+Kanade: Do you think I was one in a past life...?
+Mizuki: Haha! Maybe you were!
+
+
+2 1176:areatalk_ev_night_06_002
+
+[Main Street]
+
+(Character: Mafuyu Asahina, Mizuki Akiyama)
+
+Mizuki: Oh, Mafuyu! Hey♪ Out and about today?
+Mafuyu: I had cram school...
+Mizuki: Oh, right! I forgot that you had that on weekends. What did you study today?
+Mafuyu: It was mathematics day, so that's all we did today.
+Mafuyu: We began with trigonometric functions and worked our way through exponential and logarithmic functions after that. Then we...
+Mizuki: S-Stop right there! Thanks for answering, but I think that's all I can handle...
+Mizuki: (Geez, my head's gonna explode if you try to cram that many numbers into it...!)
+
+
+3 1177:areatalk_ev_night_06_003
+
+[Main Street]
+
+(Character: Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: That reminds me. Didn't we run into your Li'l Bro and his friends somewhere around here?
+Ena: Yeah. I still kinda can't believe we did.
+Mizuki: I know, right?! But Kanade finally got to meet him, so I'm really glad. Mafuyu and he ran into each other a little while ago, so Kanade was the last one in our group.
+Ena: Hold on. Why are you so obsessed with introducing Akito to everybody?
+Mizuki: Hmm... Because you have amazing reactions?
+Ena: I knew it... From my point of view, I really hate how Akito acts all polite in front of strangers.
+Mizuki: Hahaha! Your face just now! That's what I'm talking about! You did that when Kanade met him♪
+Ena: S-Stop it! Do you have to laugh every time I do that?!
+
+
+4 1178:areatalk_ev_night_06_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: Kanade, Mafuyu, listen! You gotta hear what Ena did!
+Kanade: Huh? Did something happen?
+Mizuki: I went to see a movie with her and I really liked how it was going, but she just sat there quietly with a vacant expression...
+Mizuki: And guess what she told me when I asked her what she thought about it?! “I already know what happens...”
+Ena: Hey, don't blame me for that. I was on a review site and just happened to stumble across some spoilers.
+Kanade: Oh, I see. That does happen...
+Mizuki: Ugh... All you had to do was not look anywhere like that!
+Ena: I was just looking for a quick preview or synopsis, okay?
+Mafuyu: But you always complain on Nightcord about having to read up on things for school or how it's better to just figure things out right then and there...
+Ena: That's different. This is about time and money, so I want to get the most out of it.
+Mafuyu: But those spoilers took away from that, right? Mizuki certainly seemed to enjoy the movie more than you.
+Ena: ...
+Mizuki: Haha. Ena's such a clutz.
+Ena: Shut up!
+
+
+5 1179:areatalk_ev_night_06_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Mizuki Akiyama, MEIKO)
+
+Mizuki: Oh, MEIKO. We run into each other a lot here, huh...?
+Mizuki: I wonder why that is. It's not like we're actively seeking out each other's company.
+MEIKO: It may be because of how often you've been coming over here, Mizuki.
+Mizuki: Haha... Yeah, I guess that's it.
+Mizuki: I feel more at home here, you know...?
+MEIKO: If you feel comfortable here, then just stay. It won't change what I do.
+Mizuki: Oh...
+Mizuki: Just stay since it's comfortable, huh...?
+Mizuki: (Thanks, MEIKO.)
+
+
+6 1180:areatalk_ev_night_06_006
+
+[Empty SEKAI - Expanse]
+
+(Character: Ena Shinonome, Mizuki Akiyama, Kagamine Rin)
+
+Rin: Are you done...?
+Ena: No, not even close. Please, stay still for me.
+Mizuki: Oh, Ena, are you drawing Rin again? Lemme see! Lemme see!
+Ena: Hey, no peeking. I'm not finished yet.
+Mizuki: Aww, come on. Not even a tiny peek?
+Ena: No, you're just gonna have to wait. Rin's been really patient with me, so I should finish this sketch while I have her.
+Mizuki: Grr...
+Mizuki: So you agreed to model for her, Rin?
+Rin: She said that all I needed to do was sit here...
+Rin: But gets mad at me every time I moved.
+Ena: Well, duh. It'll ruin everything.
+Mizuki: Haha. Then, why don't we chat while she finishes drawing you?
+Rin: Sure...
+Mizuki: Alright, Ena! I'm gonna help, so promise to show me what you've drawn, okay?
+Ena: Mizuki... Okay, fine. As long as you can keep Rin happy for now.
+
+
+7 1181:areatalk_ev_night_06_007
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin, Megurine Luka, MEIKO)
+
+Rin: Oh...
+Rin: You two aren't fighting today...?
+Luka: What are you talking about? We don't fight...
+MEIKO: Right. That's just Luka's idea of being playful...
+Luka: Exactly. Aren't I adorable?
+MEIKO: How? Explain that.
+Rin: ...
+Rin: (Maybe they are fighting...)
+
+
+8 1182:areatalk_ev_night_06_008
+
+[Empty SEKAI - Expanse]
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku (N25): MEIKO...
+MEIKO: Yes, Miku...?
+Miku (N25): Do you plan to keep observing Mafuyu and the others from a distance like this...?
+MEIKO: Yes, I do.
+Miku (N25): I see...
+MEIKO: Does that bother you...?
+Miku (N25): No, not me. It's just... Are you okay with that?
+MEIKO: Yes, of course. And I have no intention of changing what I do here.
+
+
+9 1185:areatalk_monthly2110_003
+
+[Main Street]
+
+(Character: Honami Mochizuki, Kanade Yoisaki)
+
+Honami: Oh, Ms. Yoisaki! Hello... Huh? Is everything okay? You seem exhausted...
+Kanade: Oh... I forgot that my group's having an after-party today and ended up pulling an all-nighter...
+Honami: I see...
+Honami: In that case, would you like to take a break and have some tea? There's a nice cafe just nearby.
+Kanade: I'm not sure I can get back to work right now, so I think I will...
+Honami: Thank you. Then, shall we?
+
+

@@ -1,0 +1,135 @@
+1 1137:areatalk_ev_night_05_001
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina)
+
+Mafuyu: Kanade, do you ever cook...?
+Kanade: Huh? Not really... Why do you ask?
+Mafuyu: You made apple sauce for me, right? I was surprised by how you had the right grater for that.
+Kanade: Oh, all of the cookware in my house belonged to my mom and is all generally where she left it last...
+Kanade: Such as... Oh, there's this wooden spoon that looks like a strange brush or one of those massage sticks for your shoulders.
+Mafuyu: Are you talking about a pasta server? You know, for taking spaghetti out of a boiling pot?
+Kanade: Huh? Is that what it's for...? Have you used one before, Mafuyu?
+Mafuyu: Yes, for home economics. I heard some call it a strange comb, but this is the first time I've heard someone call it a massage stick.
+Kanade: I see... A comb is a better way to describe it...
+
+
+2 1138:areatalk_ev_night_05_002
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Ena Shinonome)
+
+Mafuyu: Here's that art book I promised to bring...
+Ena: You actually brought it?! Thank you so much! I'll need it for about a week...
+Mafuyu: You can keep it. I don't need it.
+Ena: What?! Don't you know how valuable this person's art is? Not only are they rare, they go for unbelievable amounts!
+Mafuyu: No, I didn't know... It's something I was given from one of my dad's acquaintances and it's just been sitting in my room.
+Mafuyu: I doubt he even remembers that I have it. I don't have room for it, so please, Ena, take it.
+Ena: Okay, well, I'll keep it safe for now...
+Mafuyu: No, you can have it... You don't have to be so courteous.
+
+
+3 1139:areatalk_ev_night_05_003
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Mizuki Akiyama)
+
+Mafuyu: Mizuki, what's in the bag...?
+Mizuki: Oh, this? Just some accessories that I thought would look good on MEIKO and Luka♪
+Mizuki: They're both more grown-up than us, so I kinda wanna see what these are like on them.
+Mafuyu: I'm not sure about Luka, but I don't think MEIKO will want to...
+Mizuki: Yeah, about that... Got any good ideas?
+Mafuyu: No.
+Mizuki: Aww, come on! Help me think of something...!
+
+
+4 1140:areatalk_ev_night_05_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Ena: Sorry I'm late! Have you guys started listening to the demo already?
+Kanade: No, we're still waiting for Miku and everyone else.
+Ena: Okay, good.
+Mafuyu: Ena, you're still in your uniform...
+Ena: Yeah, classes went on longer than I expected.
+Kanade: A uniform? It's been so long... I remember worrying so much about getting out wrinkles and fixing the pleating on my skirt.
+Mizuki: I know, right?! The more pleated it is, the harder it is to iron the darn thing...
+Mafuyu: Apparently, it's also not a good idea to leave your bow tied since it causes the fabric to warp over time.
+Ena: Really, even the bow? Luckily, the ones for our uniforms come pre-tied.
+Mizuki: Come to think of it, I've never seen anyone from Miya Girls taking any liberties with their uniforms. All the Kamiyama kids sort of just do whatever they want.
+Mafuyu: The rules state that we can only wear certain things a certain way, including the color of our sweaters...
+Ena: You'd think they'd let us wear something more fashionable considering where we live, you know?
+
+
+5 1141:areatalk_ev_night_05_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Kagamine Rin)
+
+Rin: ——♪ ———♪
+Mafuyu: Rin, what are you singing...?
+Rin: It's a song that Mizuki was singing the other day. Something about these people called rangers...
+Mafuyu: I see. Does that mean you like this song...?
+Rin: It's okay.
+Rin: But apparently, this song cheers up Mizuki and comes here to sing it from time to time.
+Mafuyu: I didn't know that.
+
+
+6 1142:areatalk_ev_night_05_006
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin, Megurine Luka, MEIKO)
+
+Luka: Oh, MEIKO, Rin, good morning.
+Rin: Huh? Good morning...?
+MEIKO: Night and day don't really exist here, right...?
+Luka: Yes, but not greeting each other seems a little impolite. What do you think?
+MEIKO: It seems unnecessary...
+Luka: Oh, that's unfortunate. How about you, Rin?
+Rin: How are we supposed to know when to say good morning or good evening and stuff...?
+Luka: Hehe. Why not say whichever comes to mind first?
+Rin: Wouldn't that defeat the purpose of what you want us to do...?
+
+
+7 1143:areatalk_ev_night_05_007
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Hatsune Miku)
+
+Miku (N25): This is an aquarium...?
+Mafuyu: Yes, but it's much smaller than the one in my room.
+Kanade: I didn't know they made aquariums this small. It has sand, seagrass and everything, but fits in the palm of your hand.
+Miku (N25): ...
+Mafuyu: Miku...?
+Miku (N25): I like how the seagrass dances...
+Mafuyu: You do...?
+Miku (N25): ...
+Kanade: She's completely immersed in it.
+Mafuyu: I can see that...
+
+
+8 1147:areatalk_monthly2109_004
+
+[Main Street]
+
+(Character: Airi Momoi, Ena Shinonome)
+
+Airi: That creme brulee crepe was so good!
+Airi: A crispy caramel with fluffy whipped cream all wrapped up in a soft crepe... You can't beat it!
+Ena: I know, right? I saw it on social media a while back and have been meaning to try it for so long.
+Airi: Thanks for telling me about this, Ena! I think I'll bring Shizuku and the others along the next time I visit.
+Airi: And to return the favor, why don't I show you this accessory shop I discovered recently?
+Ena: An accessory shop?
+Airi: Yeah. It's all handmade, so no two things are alike. Apparently, this person makes them as part of their hobby but they look professionally made!
+Ena: Oh, that's pretty cool! Let's go, Airi!
+Airi: You got it! It'll be a nice way to walk off these crepes too!
+
+

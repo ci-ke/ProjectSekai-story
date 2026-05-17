@@ -1,0 +1,148 @@
+1 922:areatalk_ev_night_02_001
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin)
+
+Rin: ——♪ ——♪
+Rin: Oh, my singing reverberates a little differently here...
+Rin: I wonder if the same happens elsewhere. Maybe some places sound better?
+
+
+2 923:areatalk_ev_night_02_002
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin)
+
+Rin: Other than Miku, there really is no one else here...
+Rin: But now, I'm here...
+Rin: This place may keep changing little by little.
+
+
+3 924:areatalk_ev_night_02_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Kagamine Rin)
+
+Kanade: Rin, what do you think about this SEKAI?
+Rin: Not much really...
+Kanade: Then how about Mafuyu?
+Rin: She looks pained sometimes. But...
+Rin: What she feels now seems different from what she felt before you helped her. She might be looking for something she lost.
+Rin: So please keep helping her when you can.
+Kanade: Okay, I'll do that then. Thank you, Rin.
+
+
+4 925:areatalk_ev_night_02_006
+
+[Empty SEKAI - Expanse]
+
+(Character: Mafuyu Asahina, Kagamine Rin)
+
+Mafuyu: ...
+Rin: ——♪ ——♪
+Mafuyu: ...
+Rin: ——♪ ——...
+Mafuyu: You're done singing...?
+Rin: Should I sing some more?
+Mafuyu: I feel like you should...
+Rin: Then I'll sing a little more.
+
+
+5 926:areatalk_ev_night_02_008
+
+[Empty SEKAI - Expanse]
+
+(Character: Ena Shinonome, Kagamine Rin)
+
+Ena: Sigh...
+Rin: Ena? You seem down.
+Ena: I looked myself up online for the first time in... Wait, you wouldn't know what I'm talking about...
+Rin: ...
+Rin: ——♪ ——♪
+Ena: Rin...? Are you trying to cheer me up?
+Rin: Not really. I'm just singing because I feel like it. ——♪ ——♪
+Ena: Then I'll listen since I feel like it too...
+
+
+6 927:areatalk_ev_night_02_010
+
+[Empty SEKAI - Expanse]
+
+(Character: Mizuki Akiyama, Kagamine Rin)
+
+Rin: What's the matter, Mizuki? Grinning while staring at me...
+Mizuki: I was just thinking that it's great to have you here, Rin.
+Mizuki: The rest of us only come here every so often, and Miku is all alone here otherwise. But I guess that's not the case anymore, right?
+Rin: Hm, I suppose so...
+Rin: (But if they all felt that way about Miku, I doubt she was as lonely as they thought.)
+
+
+7 928:areatalk_ev_night_02_012
+
+[Empty SEKAI - Expanse]
+
+(Character: Hatsune Miku, Kagamine Rin)
+
+Miku (N25): ...
+Rin: You seem happy, Miku. Did something happen?
+Miku (N25): It's nothing. But... It's nice to have someone here with me.
+Rin: Ah... Yes, I agree...
+
+
+8 975:areatalk_add_01_004
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Toya Aoyagi, Kagamine Len)
+
+Len: Hey, Akito. I heard from Rin that you can't drink black coffee. Is that true?
+Akito: It's not like I can't drink it. I just prefer not to...
+Toya: I guess you do have a bit of a sweet tooth.
+Akito: Yeah, I sort of do. Wait, why does Rin know how I like my coffee?
+Toya: That may be because of me.
+Toya: I was asked to answer a survey about coffee preferences. It even asked about people other than myself, so I said, Akito takes his with milk and sugar.
+Len: See? You can't drink it black.
+Akito: Like I said, I just prefer something other than straight black. And you're no different, right...?
+Len: Me? I can now...
+Akito: Huh? Seriously...?
+
+
+9 976:areatalk_add_01_005
+
+[Kamiyama High School]
+
+(Character: Akito Shinonome, Ena Shinonome)
+
+Ena: Oh, Akito, there you are.
+Akito: Lalala... I can't hear you...!
+Ena: There's this shop I want to check out this Saturday or Sunday. Can you come with me?
+Akito: I said I can't hear you. And why me? Why not Akiyama?
+Ena: You can hear me, so listen! I already tried inviting Mizuki...
+Akito: You did? Oh, now I get it... You got shot down?
+Ena: Can't you say that a little nicer? Mizuki's just busy and can't come!
+Akito: And I've got things to do this weekend too, unlike a certain someone...
+Ena: Hey, wait...!
+Ena: Akito...! You're not getting off that easy...!
+
+
+10 977:areatalk_add_01_006
+
+[Scramble Crossing]
+
+(Character: Akito Shinonome, Ena Shinonome)
+
+Ena: Oh...
+Akito: Ugh...
+Ena: Hey, big sister here! Seriously, what's with the face?
+Akito: Huh? You should be asking yourself that. I mean... Whoa! Hey...!
+Akito: Argh, my arm...! What are you doing?!
+Ena: You're heading towards that cafe/bar place that you've been going to, right? I wanna go too...
+Akito: No way. That's never happening.
+Ena: That just makes me want to go even more! I'm pretty sure you said it's on Vivid Street...
+Akito: No comment...
+Ena: Sigh... Such a stubborn boy...
+
+

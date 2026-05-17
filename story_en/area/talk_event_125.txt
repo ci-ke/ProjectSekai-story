@@ -1,0 +1,102 @@
+1 2181:areatalk_ev_street_16_001
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Akito: We went to three bookstores, and to think they were all sold out...
+Kohane: The book you're looking for releases today, right, Aoyagi? It's amazing how fast they're flying off the shelves.
+Toya: People have been talking about it for the past month since it's the latest installment in a long-running series. So, it's my fault for not reserving a copy...
+Toya: And I'm sorry for making you all walk this much. Please go on ahead without me to Weekend Garage and start having lunch.
+Toya: I'll go about it alone from here.
+An: What? Isn't this when we're supposed to work as a team? We'll find a copy faster if we split up and look!
+Akito: And I know you're gonna be bothered if you don't get your hands on a copy. As for lunch, we can each grab something along the way.
+Kohane: Oh, then... Let's all go to different bookstores and message each other if there's stock.
+An: Yeah, that sounds like fun! It'd be like a big scavenger hunt!
+Toya: Thank you all very much... I promise to return the favor.
+
+
+2 2182:areatalk_ev_street_16_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Toya Aoyagi, MEIKO)
+
+Toya: That smells nice... Did you grow this mint yourself, Shiraishi?
+An: Yeah, but I harvested it a while ago. I really didn't know what to do with them after Dad closed up shop.
+An: So, MEIKO, like we talked about before. Could you do me a favor?
+MEIKO (VBS): Hehe. Of course. I'll be sure to make use of these mint leaves in the menu.
+MEIKO (VBS): I could make herbal tea, but adding them to an iced coffee or cafe au lait could also work...
+Toya: Mint goes well with coffee...? I've never heard of such a combination.
+MEIKO (VBS): It does. At first glance, I thought this mint would go well in an iced coffee with a bit of lemon or some lime...
+MEIKO (VBS): I plan on trying a few different things, so would you two like to stick around and help...?
+Toya: Yes, it'd be my pleasure.
+An: Mine too! Get ready to taste test like crazy, Toya!
+
+
+3 2183:areatalk_ev_street_16_003
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, Akito Shinonome, MEIKO)
+
+MEIKO (VBS): Phew. My body feels much lighter now... Thank you for helping me with my stretches, Kohane.
+Kohane: Actually, stretching together was a lot of fun!
+MEIKO (VBS): Also, Akito, thank you for teaching me all those exercises on such short notice. I learned quite a lot.
+Akito: I'm glad to hear that. Still, you had me startled when you asked me to teach you all of a sudden.
+MEIKO (VBS): I felt that I should move my body a little every once in a while. After all, I spend most of my time standing working indoors.
+MEIKO (VBS): Oh, above all else, it was great to learn about those stretches I can do while standing. I can start sneaking them in while I'm behind the counter.
+MEIKO (VBS): No, wait... Well, you two would know what I was doing.
+Kohane: Huh? Oh, then... We'll make sure not to say anything!
+Akito: Yeah. I mean, there's no real need to tell anyone.
+MEIKO (VBS): Hehe. Thank you!
+
+
+4 2184:areatalk_ev_street_16_004
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, MEIKO)
+
+Toya: Oh, MEIKO, I brought over a few of those books I recommended the other day.
+MEIKO (VBS): You did? Thank you, Toya. Now I have something to do when things are slow.
+MEIKO (VBS): So, which novels did you bring?
+Toya: They're mystery novels, but they revolve around cooking and sweets. I also made sure to pick ones that take place at cafes.
+Toya: On top of providing good puzzles, they include some very intriguing characters. So, I'm sure you'll enjoy reading them.
+MEIKO (VBS): Hehe. I think I will. Oh, why don't we have a little book club meeting once I'm finished?
+Toya: Yes, that sounds nice. It'll be another thing for me to look forward to.
+
+
+5 2185:areatalk_ev_street_16_005
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, KAITO)
+
+KAITO (VBS): Excellent, it turned out nicely. Oh, Toya...!
+KAITO (VBS): I just made the best iced royal milk tea ever! Would you like to have some?
+Toya: Royal milk tea? Unlike regular milk tea, the tea leaves are steeped in hot milk and water, yes?
+KAITO (VBS): That's right! But I tried something a little different! I decided to indulge myself by using three times the normal amount!
+Toya: Three times...? That sounds like quite a lot.
+KAITO (VBS): It is! But based on my research, I found that this is my favorite concentration. I can also change how much milk I use, and I've decided to use more today...!
+KAITO (VBS): However, in return for using three times the amount of tea leaves, I had to promise MEIKO to not touch her ice cream for three days... Poor me...
+Toya: (I was going to ask to try some, but maybe I shouldn't...)
+
+
+6 2189:areatalk_monthly2403_004
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Shizuku Hinomori, Kohane Azusawa)
+
+Kohane: Oh... Hello, Shizuku.
+Shizuku: Hello, Kohane. What do you have there? Posters...?
+Kohane: Yes, they're educational posters we made for the cleanup committee. We're all going around the school to post them up.
+Shizuku: I see. Honami and I made a few of these together...
+Shizuku: That reminds me. Shii said Honami is on the cleanup committee again this year. Do you happen to have any that she made?
+Kohane: Oh, um... She wasn't a part of the design team this time...
+Shizuku: Oh, I see... I really enjoy her artistic style, so I was hoping to see what she made...
+Kohane: Hehe. I'll be sure to tell Honami what you just said.
+Shizuku: You will? Thank you, Kohane!
+
+

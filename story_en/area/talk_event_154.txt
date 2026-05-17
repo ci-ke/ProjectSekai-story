@@ -1,0 +1,105 @@
+1 2517:areatalk_ev_street_20_001
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Akito: I always thought of the United States as this faraway place... But it's also amazing to think that you can get there in just half a day, you know?
+Toya: Yes. Before the age of airplanes, it apparently took months to transport goods and people across the ocean, with several stops along the way.
+An: That came up during history class once! I remember hearing that it took like two weeks or so?
+Kohane: I'm guessing that's the time it takes to get to the US's west coast. It probably does take at least a month to get to the east coast.
+Akito: A month...
+An: Which sorta speaks to how fast airplanes are. Although, I feel bad for the people who can't really handle them...
+Toya: Don't worry about me. I'm not about to say no to such a useful mode of transport.
+Kohane: We didn't encounter much turbulence on the way over. I hope we get good weather on the way home too.
+Toya: Yes, me too...
+
+
+2 2518:areatalk_ev_street_20_002
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Toya: The streets here feel so different compared to what I'm used to that, despite not being much of a photographer, I keep finding myself taking pictures.
+Kohane: Hehe. I've also taken a lot of photos since coming here.
+Kohane: I've already messaged a few to my dad, since he's also interested in American cityscapes.
+Kohane: He replied back with, “Your photos of the city are nice, but it'd also be great to see your face.”
+Toya: You are his one and only daughter. I'm sure he just wants to see you enjoying yourself.
+Kohane: I get that... But I'm a little embarrassed by the thought of sending photos of myself to my family, for some reason.
+
+
+3 2519:areatalk_ev_street_20_003
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+An: Man, I am so glad lately that SEKAI exists...
+Toya: I feel the same way, but why specifically lately?
+An: That's because...
+An: I can have Japanese food for lunch!!
+Toya: I see. You have a point there.
+An: I've got more than one point, thanks! I'm so thankful that I have access to a place where I can have white rice and miso soup!
+Toya: Yes, there really is nothing more comforting than your home country's cuisine.
+
+
+4 2520:areatalk_ev_street_20_004
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, MEIKO)
+
+MEIKO (VBS): Akito, are you or the others feeling homesick at all?
+Akito: Not yet, as far as I can tell... I mean, we've only been in the US for a little bit.
+Akito: If anything, I'm glad that I don't have to deal with my obnoxious sister for a while.
+MEIKO (VBS): Hehe. That feeling may not last for very long.
+Akito: No, it's gonna last the whole way through.
+
+
+5 2521:areatalk_ev_street_20_005
+
+[Street SEKAI - Plaza]
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len (VBS): Hey, I keep hearing that the United States is really huge, but how big is it really?
+Toya: Well, in terms of area, it's the third-largest country in the world, and roughly twenty-five times the size of Japan. Does that help?
+Len (VBS): Hmm... Not really.
+Toya: Then, let's try looking at your question from another angle.
+Toya: Imagine that the nail of my thumb is Japan. The United States of America would be the rest of my hand.
+Len (VBS): Wow, that's way easier to understand! Wait, it's really that big?!
+Toya: This is just a simple visual representation. I doubt that I've gotten the exact scale correct.
+Len (VBS): No, but I have a way better picture in my head now! Thanks, Toya!
+Toya: You're welcome.
+
+
+6 2547:areatalk_monthly2502_001
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO (VBS): How is the US, Kohane? Are you having fun?
+Kohane: Yes! It's been fun talking to all sorts of different people, as well as seeing and hearing new things!
+Kohane: Oh, but I have been using the translation app on my phone to help me whenever I get stuck for words or forget any grammar rules...
+MEIKO (VBS): I think your bravery is admirable. My understanding is that some people are too afraid to speak in an unfamiliar language.
+MEIKO (VBS): (I'm still amazed by how you've become so fearless, Kohane.)
+
+
+7 2548:areatalk_monthly2502_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, KAITO)
+
+An: Now I see. I should've phrased what I said earlier like this instead...
+KAITO (VBS): Hello, An! What are you up to?
+KAITO (VBS): Wait, that's your English textbook! Are you studying?!
+An: You don't have to sound so surprised...
+An: Have you forgotten that I'm over in the States right now? Isn't it only natural to do what I can to learn how to communicate better?
+KAITO (VBS): Hahaha. Very true! I'm sorry, I was just so shocked.
+An: Alright, now you're just making fun of me.
+KAITO (VBS): No, that's not my intention! Anyway, are you feeling hungry at all? I'll be more than happy to make you some pancakes!
+
+

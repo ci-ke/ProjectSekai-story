@@ -1,0 +1,91 @@
+1 1436:areatalk_ev_street_08_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: Shinonome, thanks for helping me out with the flyers the other day.
+Akito: I mean, they're for the event we're putting on, so it seems natural to ask each other for help.
+Akito: Anyway, did they turn out the way you imagined?
+Kohane: Yeah! Oh, An's dad said he liked them too. Especially the colors and overall design!
+Akito: Really? Well, if they turned out that well, then good for us.
+
+
+2 1437:areatalk_ev_street_08_002
+
+[Main Street]
+
+(Character: An Shiraishi, Akito Shinonome)
+
+Akito: Hey, is it me or have you been really tired lately?
+An: So, after we did our event, a ton of customers have apparently been showing up at my place.
+Akito: All because of our event?
+An: Not sure, but some have been asking about the event and stuff...
+An: Anyway, my dad's both happy and going a little crazy over how busy we've been.
+Akito: Yeah, it's kinda hard to say if our event's the cause, but it'd be nice if it were. Also, don't push yourself too hard.
+An: I know! Hehe. I want our next event to have the same effect... No, an even bigger effect on everyone!
+
+
+3 1439:areatalk_ev_street_08_004
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+An: Hang on. This is where we're supposed to meet, right? Where are Kohane and Akito?
+Toya: Yes. I was just looking for them too... Oh, there they are. In the shadow of that building.
+An: Huh?! K-Kohane, why are you crying?!
+Akito: Oh, there you guys are.
+An: Yes, we're here! And what's the meaning of this?!
+Kohane: No, I'm not crying! I was just putting in some eye drops after a gust blew something into my eye...
+An: Oh, thank goodness. You had me worried there for a second...
+Akito: What is it...?
+Toya: I was just wondering why you two were in the shadow of this building, but now I understand that it was to protect her against the wind.
+Kohane: Yeah, Shinonome suggested that we wait over here.
+Akito: Because you probably didn't want anything else getting in your eye, right?
+Toya: Right...
+Akito: *Sigh* Anyway, we're all here now, so let's head over to the live house.
+
+
+4 1440:areatalk_ev_street_08_005
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Kagamine Len, KAITO)
+
+Len: Let's do this, KAITO! Rock! Paper! Scissors!
+KAITO: Okay, I win again. That's five for five!
+Len: Th-There has to be something wrong! Why?! How?!
+Akito: Why are you two shouting?
+Len: Aha! Akito, play rock paper scissors with me. Ready? Rock! Paper! Scissors!
+Akito: Okay... Paper covers rock. I win.
+Len: H-How did you win?! Am I just that bad at this game?
+Akito: No, Len, it's probably because you have a tell. Just now, you tensed up like crazy before throwing out your rock.
+KAITO: Ah, Akito, well done. You have a good eye.
+KAITO: Your subsequent choices are also fairly easy to guess. For instance, you have a habit of going with scissors for the next game after I win using paper.
+KAITO: It may be that you're subconsciously being drawn towards whatever your opponent's thrown.
+Len: R-Really?!
+Len: Wait... If that's the case, why am I able to beat Toya? This other time, we did rock paper scissors for the last bit of some snacks.
+Akito: Oh, that's probably because...
+KAITO: (He probably lost on purpose...)
+
+
+5 1441:areatalk_ev_street_08_006
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+Miku (VBS): KAITO, do you have a minute? There's something we'd like to ask of you.
+KAITO: Sorry, Miku! I'm completely stuffed as it is right now.
+MEIKO: KAITO, we're not here to ask you to taste test anything today...
+Miku (VBS): Right. We were hoping that you'd lend us an amp since we'll be doing some singing practice with Kohane and the others...
+KAITO: Oh, thank goodness...
+Miku (VBS): Thank goodness? What's that supposed to mean?
+KAITO: Huh?! Uhh... Remember how much you had me eat last time? If I had to do that again, I'll have to start watching my weight...
+Miku (VBS): Oh, I see. That probably was a bit too much for one person to handle. I'll keep that in mind for our next taste test.
+MEIKO: Yes, I'll be careful as well since I suspect I'm going to have to help out again.
+KAITO: Okay, thank you.
+KAITO: (Especially you, MEIKO! For goodness sake, please throw me a bone!)
+
+

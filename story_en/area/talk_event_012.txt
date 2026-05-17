@@ -1,0 +1,153 @@
+1 900:areatalk_ev_street_02_001
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Kagamine Rin)
+
+Kohane: Hum hum hum♪
+Rin: What are you listening to, Kohane?
+Kohane: Oh, Rin! I'm listening to a CD that I borrowed from An. Um... It's a genre known as future house, I think?
+Kohane: I have so little singing experience and my song repertoire isn't all that great, so I borrow CDs from her to expand my horizons.
+Rin: Wow, you're so hardworking, Kohane!
+Kohane: The group may have acknowledged me as a member, but I want to keep honing my skills until I'm good enough to be able to stand next to everyone with my head held high.
+Rin: I see! You're so cool, Kohane!
+
+
+2 901:areatalk_ev_street_02_002
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, Kagamine Rin)
+
+Kohane: Ready, Rin? Say cheese!
+Kohane: Here's the photo I just took. What do you think?
+Rin: Wow! How did you make me look so good?! It almost looks like it was taken by a professional.
+Rin: Hey, I'd really love to have a picture with Len as well! Could you please take one for us too?
+Kohane: Hehe. As many as you like. I've been wanting to photograph some people too, since it's been nothing but landscape shots for me lately.
+Rin: Awesome! Hehe, in that case, take some pictures of us while we're singing too♪
+Kohane: Absolutely! Hehe. I should be able to capture Rin and Len's different expressions. This will be fun!
+
+
+3 902:areatalk_ev_street_02_003
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Kagamine Rin)
+
+Rin: Hey, An. So, do you and Kohane ever fight?
+An: Well, we haven't so far.
+Rin: I see! So you two always get along!
+An: Hehe, yeah. But I do feel a little envious of you and Len sometimes. You're not afraid to speak your minds to each other at all.
+An: Kohane's always nice, so I sometimes think she holds back what she really wants to say out of politeness.
+Rin: Really? So not seeing eye-to-eye isn't always a bad thing, then?
+An: That's what I think. Well, making up afterwards is probably a pain, though, so I guess it's still better not to have any fights to begin with!
+
+
+4 903:areatalk_ev_street_02_004
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Kagamine Rin)
+
+Rin: Hey, An! I'll be helping out with MEIKO's cafe soon and wanted to put on a cute-looking apron for it. 
+Rin: So, can I borrow one of the aprons being used in your father's shop?
+An: Sure, but just so you know, none of the aprons in our shop look cute in any sense of the word at all, okay? They're all plain and simple.
+Rin: Really? Not even a ribbon or some frilly lace?
+An: Ahaha... I wouldn't be able to pull off a look like that, truth be told.
+Rin: Huh? But an apron like that would be so cute! And I think you'd look cute in one too.
+An: Really? Anyway, it's not part of our shop's aesthetic, so I'll try to find you something cute somewhere else!
+
+
+5 904:areatalk_ev_street_02_005
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Kagamine Rin)
+
+Rin: Akito, you have an older sister, right?
+Rin: Is she more like Miku or MEIKO?
+Akito: Neither.
+Akito: She's not as chill as Miku or MEIKO and has a really stubborn streak, so...
+Akito: If anything, I'd say she's probably more like you?
+Rin: Oh, I see.
+Rin: Wait. What did you just say?!
+
+
+6 905:areatalk_ev_street_02_006
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, Kagamine Rin)
+
+Rin: Listen, Akito! Len kept me waiting, and he didn't even apologize! Go give him a piece of your mind for me!
+Akito: I was wondering what the fuss was about... Look, I'm not getting involved in your meaningless squabbles.
+Rin: Sigh. If Toya was here, he'd definitely listen to what I had to say.
+Akito: Yeah, he would.
+Rin: He. Would. Listen. To. What. I. Had. To. Say!
+Akito: Oh boy. Okay, fine. Just this time, understand?
+Rin: Yay! Hehe, you're such a nice guy, Akito!
+Akito: Yeah, yeah. Come on, let's get this over with.
+
+
+7 906:areatalk_ev_street_02_007
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, Kagamine Rin)
+
+Rin: Oh! Toya, great timing!
+Rin: I just made my first pot of coffee with MEIKO's help! Do you wanna try some?
+Toya: That's very nice of you. May I?
+Rin: Sure! MEIKO says that you're very knowledgeable about coffee!
+Rin: So let me know if you have any thoughts or advice♪
+Toya: Got it. Thanks for the coffee.
+
+
+8 907:areatalk_ev_street_02_008
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, Kagamine Rin)
+
+Rin: Toya, can you help me out with a survey?
+Toya: A survey?
+Rin: Yeah♪ So I've been helping out at MEIKO's cafe lately, and thought I should know more about what everyone likes!
+Rin: Toya, what's your favorite beverage? Also, tell me what you know about everyone else's preferences too!
+Toya: Akito and I both drink a lot of coffee. I prefer mine black, but Akito has milk and sugar with his.
+Toya: Shiraishi seems to like both coffee and tea. As for Azusawa I remember she tends to go for beverages with milk, like lattes and such.
+Rin: Ah, she does order caffe latte with toppings quite often! And always with different toppings too.
+Toya: Yes. In that sense, you could probably say she's the most adventurous of us.
+Rin: I see! Hehe, that's interesting♪ Thanks for helping me with this, Toya!
+
+
+9 972:areatalk_add_01_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Hey, Kohane. Your snake's called Count Pearl, right? It's a cool name, but it also sounds like something you'd call a female snake.
+Kohane: My dad was the one that chose it... He's the kind of person that comes up with more eccentric names...
+An: Wait, so does that mean....? He came up with your name too?
+Kohane: He did. I like my name, but it is a little strange, isn't it?
+An: No, what are you talking about? You're totally Kohane through and through!
+An: I really like your name too!
+Kohane: Really? Hehe. Thanks, An...!
+
+
+10 974:areatalk_add_01_003
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, An Shiraishi, MEIKO)
+
+An: That coffee you made when we were at MEIKO's cafe was so good, Kohane!
+An: When did you learn to become such a good barista?
+Kohane: I've actually been having MEIKO teach me a few things.
+MEIKO: Yes. She noticed that you were always helping with the tea, An, so she started asking me about how to make coffee.
+An: I didn't know that! Oh, how about we show each other how to make tea and coffee sometime?
+Kohane: Yeah, that sounds like fun...!
+MEIKO: Hehe. Feel free to use this place as a learning annex too.
+An: Really? Thank you so much!
+
+

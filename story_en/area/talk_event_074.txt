@@ -1,0 +1,144 @@
+1 1535:areatalk_ev_wonder_10_001
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Rui: Tsukasa, the way you moved during that scene felt a bit awkward. Are you not feeling 100% today?
+Tsukasa: Hm? Really? Actually, it could be that my body's still used to playing an android...
+Tsukasa: Getting into character wasn't easy, since I had to work on both the way I spoke as well as the way I moved.
+Rui: I see... Yes, you certainly did give us a magnificent performance during that show.
+Tsukasa: Of course I did! 'Tis but a trifle for a star such as myself!
+Tsukasa: But not being able to move the way I used to is quite a problem. At this rate, it's going to have an effect on our next show...
+Rui: Yes, it is. Then, why don't you pretend you're an octopus for a while? Playing something soft and squishy should bring you back to zero, no?
+Tsukasa: What kind of math did you just do? Still, for the sake of our next show...
+Rui: (And that's why we enjoy working with you, Tsukasa. You're willing to do things like this without hesitation.)
+
+
+2 1536:areatalk_ev_wonder_10_002
+
+[Theme Park]
+
+(Character: Emu Otori, Rui Kamishiro)
+
+Emu: Future, future, future museum♪ The shiny, sparkly future museum!
+Rui: That's quite a fun and happy song you're singing there, Emu. By “future museum”, do you mean the Museum of Emerging Technologies where we performed our show?
+Emu: Yup! Remember how we got to see what's inside before we did our show? I had so much fun that I came up with a song for it☆
+Rui: Hehe. I see.
+Rui: Speaking of which, you were singing this other happy-sounding song the other day. Did you come up with that one as well?
+Emu: Which one? The song about this cute kitty I saw? Or the one about when I saw how Tsukasa's script was covered in notes?
+Rui: I don't quite remember, but I'm certainly interested in the songs you just mentioned. Would you mind if heard what they're like?
+Emu: Hehe. Sure♪ Lemme sing them for you☆
+
+
+3 1537:areatalk_ev_wonder_10_003
+
+[Kamiyama High School]
+
+(Character: Nene Kusanagi, Rui Kamishiro)
+
+Rui: Nene, Asahi, Tsukasa and I were thinking about going to see a show together. Would you like to join us?
+Nene: Really? Which one...?
+Rui: A very unique one. It's composed of scenes all written by ten different directors. Sounds interesting, no?
+Nene: Yeah, it does... But is the actual story gonna make any sense?
+Rui: Who knows? We won't know until we see it.
+Rui: It's an intriguing idea, so it could be full of unexpected surprises or discoveries.
+Nene: True... But this game I really want to play releases on Friday. I'll go if you guys are going on some other weekend.
+Rui: Hehe. Understood. I'm also planning on inviting Emu, so let's discuss when we can all go some other time.
+Nene: Okay, sounds good. Thanks for the invite.
+
+
+4 1538:areatalk_ev_wonder_10_004
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
+
+Emu: Oh, we should all go to the Museum of Emerging Technologies together next weekend☆
+Nene: Yeah, why not? We only got to see some of it when we went over for our ambassadorial performance, so it'd be nice to take some time to see all the exhibits.
+Tsukasa: Very true! I heard that they even have a spacecraft simulator which definitely caught my attention.
+Rui: Yes, it's supposed to be incredibly realistic. I was hoping to take a look at it as well.
+Emu: Woohoo! That means we can all become astronauts♪
+Tsukasa: Hehehe... Before becoming a future star of the showbiz world, I may end up trotting across the galaxy as a star of the universe.
+Nene: Hang on... You know it doesn't mean we get to fly in a ship, right?
+Rui: There's also supposed to be an activity where you can experience being weightless, so that should certainly make it feel like you're in space, no?
+Emu: Oh, do you mean the thing that starts all boingy and makes you all floaty? I've seen it on TV before!
+Nene: Actually, that does sound like fun.
+Tsukasa: Then, it looks like we'll need to take another look at all the attractions the Museum of Emerging Technologies has to offer!
+Emu: Yeah!
+
+
+5 1539:areatalk_ev_wonder_10_005
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Rui Kamishiro, Hatsune Miku, Megurine Luka)
+
+Miku (WxS): I wish I could've done a show with flying like the one Birdie did...
+Luka: Hmm... The wind must've felt so nice, but how would we go about doing that?
+Rui: Well, you'd normally have to use wires for that.
+Rui: But it could also be fun if a few of us worked together to lift someone up into air.
+Miku (WxS): Oh, like the thing MEIKO can do! She's really good at it☆
+Miku (WxS): She knows this trick that lets her fling me really, really high into the air♪
+Rui: Ah, the one you're afraid KAITO will get mad at you about... What was it called? The high fly?
+Rui: There's no need to launch anyone into the air, but it'd be nice to have her help carry the person on top.
+Luka: Then, let's go ask her right now. I was just wondering if she'd let me use her lap as a pillow.
+Miku (WxS): Wait, Luka, that means you're ready to go to sleep! We have to ask her about our show first!
+Rui: Hmm... As much as I'd like to ask MEIKO for her help, Luka would immediately fall asleep when we meet her... This is quite the dilemma...
+
+
+6 1566:areatalk_monthly2211_002
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Nene Kusanagi, Rui Kamishiro, MEIKO)
+
+Nene: Rui...? MEIKO...? What are you two doing hiding in the shadow of this ride?
+Rui: Ah, Nene. I was just hearing MEIKO out about her secret “high fly” trick that only she's able to do.
+MEIKO: It's not much of a trick to be honest. All I do is fling people really, reeeaaally high into the air♪
+Nene: Um... How high is “really, reeeaaally high” exactly?
+Rui: Higher than the clouds, from what I've heard.
+Nene: What...? The clouds... As in the ones hanging in the sky?
+MEIKO: That's right! Unfortunately, as much as I'd like to let you try it, KAITO said I'm banned from doing it because it's too dangerous.
+Nene: Y-Yeah, that seems reasonable...
+Rui: But if she can find a solution to make it safer, she might be able to do it again...which is where I come in.
+MEIKO: Hehe. I'm counting on you, Rui!
+Rui: Yes, leave it to me. Hehehe...
+Nene: (I... I don't know what he's planning, but I feel even more concerned now...)
+
+
+7 1568:areatalk_monthly2211_004
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Tsukasa Tenma, Rui Kamishiro, Megurine Luka)
+
+Rui: Hm? Luka...? It's been quite a while since we last saw you. Where have you been all this time?
+Luka: Oh, me? I didn't go anywhere. I've been here riding the teacups the whooole time.
+Tsukasa: Hm? It can't be... Don't tell me you've been sleeping inside the cups...
+Luka: Hehe. Correct. It's so strange. When I take naps here, my dreams always end up being very fun.
+Luka: I had this one dream where I went round and round in a gust of wind...or another where I went round and round one of those lazy river pools... So I was able to sleep here for several days.
+Tsukasa: Hang on... I don't think you dreamt that. Weren't you actually spinning?
+Rui: Hehe. It must've felt like a cradle being rocked just right.
+
+
+8 1569:areatalk_monthly2211_005
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Emu Otori, Nene Kusanagi, Kagamine Rin)
+
+Rin: Huh? Nene? Emu? Why do you both have your notebooks out?
+Emu: We're doing our homework before practice starts! Oh, Nene, were you able to get through that math problem?
+Nene: Yeah, I was. I think I finally understand how to use this formula thanks to you.
+Rin: Oh, Emu, you taught her? That's great☆
+Emu: Hehe☆ I'm really not the best teacher, but Nene did her absolute best to try and understand what I was saying♪
+Nene: At first, I honestly had no idea what to do when she said, “Pop the x up and go go go.”
+Nene: But I've started to figure out what she's saying after seeing her try her best to help me.
+Rin: Really?! That's so nice! You two look like you're having a lot of fun! Hey, I wanna do some homework too!
+Emu: Sure! Let's do the next problem together!
+Rin: Okay♪
+Nene: (Is she gonna be okay? These are high school level problems...)
+Nene: (Well, as long as they're both enjoying themselves...)
+
+

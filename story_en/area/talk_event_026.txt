@@ -1,0 +1,122 @@
+1 1047:areatalk_ev_night_04_001
+
+[Shopping Mall]
+
+(Character: Kanade Yoisaki, Ena Shinonome)
+
+Ena: Kanade, fancy seeing you here! Are you out shopping too?
+Kanade: Yes. Some of my sweats have become a bit worn, so I'm here to buy some new ones.
+Ena: Oh, okay. Does that mean you got some tickets for the drawing they're having too?
+Kanade: That's right... I think I did get one.
+Ena: I'm all done shopping for now too. Wanna head over and see what we get? First prize is apparently a cake buffet pass for a really famous dessert shop.
+Kanade: I don't really like sweets so I think I'll pass...
+Ena: But when in Rome, right? Let's go! Besides, the less you want it, the more likely you are to win it!
+
+
+2 1048:areatalk_ev_night_04_002
+
+[Shopping Mall]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina)
+
+Kanade: Thanks for coming today, Mafuyu. I found the novel I was looking for thanks to you.
+Mafuyu: It's nothing. However, I am surprised that you want to reference a book instead of art or movies.
+Kanade: Right. I haven't really been reading much lately because I thought my eyes would tire out too fast...
+Kanade: But books let you visit so many different places without actually going anywhere, right?
+Kanade: So it feels like a really efficient way to find good references.
+Mafuyu: (So, you just don't want to leave your room...?)
+
+
+3 1049:areatalk_ev_night_04_003
+
+[Shopping Mall]
+
+(Character: Kanade Yoisaki, Mizuki Akiyama)
+
+Kanade: It can be pretty and colorful when it's used on your cheeks or as eye shadow, but...
+Kanade: People use purple make-up? Wouldn't that make you look sick...?
+Mizuki: Not really, no. As a color, it's used a lot to give your skin more of a transparent tone♪
+Mizuki: And when you pair it with something brighter in color, it can make your cheeks look silky smooth♪
+Kanade: Really...? I didn't know that colors like these had their uses.
+Mizuki: Exactly! Don't knock it 'til you try it, right? So let's apply that to you, Kanade♪ Step right this way!
+Kanade: But I really don't... W-Wait, Mizuki?!
+
+
+4 1050:areatalk_ev_night_04_005
+
+[Scramble Crossing]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Kanade: Sigh...
+Ena: Kanade, are you okay? You seem tired...
+Kanade: A little. It's been a while since I last walked this much...
+Mizuki: This much...? All we did was go to the diner where we usually have our after parties...
+Mafuyu: Kanade almost never goes outside to begin with...
+Mafuyu: What if you did some jogging in SEKAI...? That place is seemingly endless, so you could run for as long as you like.
+Ena: Whoa, time out! That sounds really scary...!
+Kanade: But it's true that I don't get enough exercise. Since running or jogging isn't much of an option, I suppose I could walk around my room more instead...
+Mizuki: Inside your room? Is it really that big?
+Kanade: No, it's pretty cluttered. There's really only room around my bed and desk.
+Mizuki: What...? That's like no room at all...
+Kanade: You think so? I won't get tired if it's about that distance.
+Mizuki: No, that defeats the whole purpose of exercising!
+
+
+5 1051:areatalk_ev_night_04_006
+
+[Empty SEKAI - Expanse]
+
+(Character: Megurine Luka)
+
+Luka: There's nothing here... But we're here...
+Luka: Little by little, this SEKAI is changing... I suppose it means that girl is as well.
+Luka: I wonder what this place will turn into... I can't wait to find out.
+
+
+6 1052:areatalk_ev_night_04_011
+
+[Empty SEKAI - Expanse]
+
+(Character: Hatsune Miku, Megurine Luka)
+
+Miku (N25): Ah, Luka... Perfect timing...
+Miku (N25): Mafuyu brought us some snacks. Would you like some?
+Luka: She did? Did something happen?
+Miku (N25): No. She brings these over from time to time because she's not sure how they taste.
+Luka: I see... Then if you don't mind...
+
+
+7 1053:areatalk_ev_night_04_012
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin, Megurine Luka)
+
+Rin: No one's coming today...
+Luka: Oh, Rin, you seem bored. Would you like to play a little word-chain game?
+Rin: Not really...
+Luka: I'll start. Moons.
+Rin: S... Seasons.
+Luka: Stuff.
+Rin: F... Uh... Foxes!
+Luka: Screws.
+Rin: Wait, another s...? Are you doing that on purpose, Luka?
+Luka: Hehe. I thought it would be more fun this way.
+
+
+8 1054:areatalk_ev_night_04_013
+
+[Empty SEKAI - Expanse]
+
+(Character: Megurine Luka, MEIKO)
+
+Luka: Hello, MEIKO.
+MEIKO: What is it...?
+Luka: Oh, nothing. I was wondering if we could chat a little.
+MEIKO: Sigh... So you're just here to kill time...
+Luka: Yes. Also, you haven't moved in quite some time, so I was wondering if you saw a mirage or an illusion and decided to ask.
+MEIKO: You really are bored, huh...?
+Luka: Oh? Look who's talking.
+
+

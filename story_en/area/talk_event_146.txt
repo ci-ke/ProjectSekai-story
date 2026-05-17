@@ -1,0 +1,167 @@
+1 2377:areatalk_ev_street_19_001
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Akito: Alright, I think we've moved aside all the rubble we can for now.
+Kohane: *Nod* Still, I was so surprised when I heard how the wall blocking this alley had come crumbling down.
+An: Me too! KAITO and the others came over shouting, “Hurry! You need to come over to SEKAI right now!”
+Toya: I thought I had a good idea of how SEKAI could change after seeing that plaza appear.
+Toya: But to think that we'd actually get to see what was waiting for us beyond that wall.
+Kohane: Miku and the others said that us surpassing RAD WEEKEND is probably the reason behind it.
+Akito: Yeah.
+Akito: It represents us blasting a hole in the legendary event that everyone else believed couldn't be surpassed.
+Akito: But our journey's just beginning. The world is full of unbelievable singers and performers.
+An: Yeah, but we're gonna take them on together!
+
+
+2 2378:areatalk_ev_street_19_002
+
+[Street SEKAI - Cafe]
+
+(Character: Akito Shinonome, KAITO)
+
+Akito: KAITO, you've been wandering around this area for a little while now. Can I ask what you're doing here today?
+KAITO (VBS): Try not to be surprised. The thing is...
+KAITO (VBS): See how the road forks here? I'm looking to see which path leads to MEIKO'S cafe the fastest!
+Akito: Ah, I see... That sounds like it's going to be time consuming, so if you'll excuse me—
+KAITO (VBS): No, wait! I have a good reason for doing this!
+Akito: Oh, you do?! But I can't possibly take up more of your time by making you tell me this reason...!
+KAITO (VBS): So, Luka is sure that the path to the right is the answer. But I think it's the one on the left...!
+Akito: Yes, that's so intriguing! Now I really feel like I shouldn't keep you any longer...!
+Akito: So, I'll be going now...!!
+KAITO (VBS): No, don't leave...!! Let's prove the left path is the fastest together!!
+
+
+3 2379:areatalk_ev_street_19_003
+
+[Main Street]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Akito: Come to think of it, you and An went to that new pasta place for lunch, right? How was it?
+Kohane: Really good. They had everything from your standard meat sauce to Japanese fusion dishes and soup pasta. Actually, they had so many different kinds that I had trouble choosing.
+Kohane: Oh, also, I feel like their helpings are bigger than normal. Fortunately, An and I were able to finish our plates because they were both really good.
+Akito: Yeah, it does sound good. I might go check it out sometime.
+Kohane: ...
+Akito: You seem surprised... Pancake shops aren't the only places I go to, just so you know.
+Kohane: Uhh... O-Of course! But I am a little surprised by your interest.
+Akito: Geez...
+
+
+4 2380:areatalk_ev_street_19_004
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Akito Shinonome)
+
+An: Hey, is it just me or have English classes felt easier lately?
+Akito: Yeah. Until now, reading long passages always felt like the worst. But I'm having a much easier time now.
+An: Me too! And class even feels a little more fun because of it!
+Akito: Yeah. I'm also having an easier time solving the problems in the textbook.
+Akito: Which just leaves...spelling...
+An: Oh, yeah... That...
+An: I wrote “desert” instead of “dessert” the other day. My sentence ended up being about going to a cafe with a friend to eat a desert.
+Akito: And I wrote “famous” as “feimas” in a quiz. Why can't you just write words the way they sound, you know?
+
+
+5 2381:areatalk_ev_street_19_005
+
+[Street SEKAI - Plaza]
+
+(Character: Kagamine Rin, Kagamine Len, KAITO)
+
+Rin (VBS): KAITO, have you been doing any DJing lately?
+KAITO (VBS): Yes, I have. Len and I even made a mix together yesterday.
+Len (VBS): Yup! He actually kept a promise for a change!
+Rin (VBS): He did? Then, why does it seem like you haven't been doing anything at all?
+Len (VBS): Probably just because you haven't seen him doing stuff, right?
+KAITO (VBS): True. It's actually rare for me to DJ in front of people.
+Rin (VBS): Doesn't that defeat the purpose of being a DJ?
+KAITO (VBS): Not necessarily. You know what they say! A shrewd man is reluctant to display his knowledge! In other words, fortune favors the patient.
+Rin (VBS): Hey, don't try to fool us by throwing around fancy proverbs! Do you think what he just said makes sense...?
+Len (VBS): Dunno... But I feel like he needs to get his act together. So, KAITO, you gotta start doing better!
+KAITO (VBS): Wait, me...?
+
+
+6 2390:areatalk_monthly2410_004
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Rui Kamishiro)
+
+Rui: Hm? Shiraishi? You have a rather complicated expression on your face. What's...?
+An: Ah, no, stop...! Please don't talk to me right now, Kamishiro!!
+Rui: I apologize if I'm interrupting something...
+An: No, uhh... I'm sorry! It's just... I have a quiz during English today, and I'm trying to cram as much as I can right now.
+An: Wait, actually! Do you happen to have any devices handy that can help someone memorize a lot of stuff in a short amount of time?!
+Rui: I have one, but not on me at the moment. Instead, I'll be happy to help by showing you some useful tricks and mnemonics.
+An: Wait, really?! I just have to get a good score on this quiz...!
+Rui: Hehe. Understood. Then, let's start with some simple ones.
+
+
+7 2391:areatalk_monthly2410_005
+
+[Main Street]
+
+(Character: Toya Aoyagi, Nene Kusanagi)
+
+Toya: Hello, Kusanagi. I wasn't expecting to run into you here.
+Nene: Yeah, me neither. Are you also going to the arcade?
+Toya: How did you know? They're having an event involving a puzzle game I enjoyed when I was little, so I'm going over to play it.
+Nene: Oh, how they're unlocking a special mode for a limited time? That also really caught my attention.
+Toya: You too, Kusanagi?
+Toya: Hey, I know... They also apparently added a co-op mode, so why don't we try it together?
+Nene: Oh, are you sure? I don't know how much I'll be able to help, but I do kinda want to try it.
+Toya: Not to worry. I'll teach you everything you need to know while we walk over. First...
+
+
+8 2402:areatalk_monthly2411_001
+
+[Shopping Mall]
+
+(Character: Airi Momoi, An Shiraishi)
+
+An: Hey, Airi!
+Airi: Oh, An! Fancy seeing you here! Are you here to do some shopping?
+An: Yes, I'm here to grab some things my mom asked me to get, but this shop's cakes just looked so good...!
+Airi: Yeah, you're right. Especially this adorable Mont Blanc cake! I love how it's designed to look like a bear.
+An: I know, right?! The thing is, MEI... I mean, a friend promised that we'd make some together soon, and I was just hoping that it would turn out as cute as this one...
+Airi: Then, want me to show you how to do it? I actually made a cat version of one of these a little while back.
+An: Wait, really...?!
+Airi: Yeah. If you're going to make one, then you want it to look cute and taste delicious, right?
+An: Airi...! Thank you so much!
+
+
+9 2403:areatalk_monthly2411_002
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, MEIKO)
+
+An: Uhh... Wait, I need to use past tense here, which means...
+MEIKO (VBS): Studying hard, I see. Is your English homework coming along well?
+An: Not exactly... My head feels like it's ready to explode. I'm starting to see ribbons of English text everywhere...
+MEIKO (VBS): I think that means you need a break. Why don't you clear your head by singing a little? I'm sure you'll feel much better after you do.
+An: Good idea... Then, just for a little bit...!
+An: I know! Why don't you sing with me, MEIKO? You could also probably use a break since you've been doing cafe stuff all day!
+MEIKO (VBS): Hehe. You're right. Then, I think I will sing with you.
+
+
+10 2404:areatalk_monthly2411_003
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Megurine Luka)
+
+Rin (VBS): Oh, Luka! If you're going for a walk, can I join you?
+Luka (VBS): Sure. But you hardly ever ask to join me on my walks, Rin.
+Rin (VBS): I feel like taking a nice, relaxing walk because my head's totally full after KAITO's lecture on being a DJ.
+Rin (VBS): Anyway, where are you going today?
+Luka (VBS): Hmm... The plaza? I really enjoy going there since you get to hear so many different kinds of music!
+Rin (VBS): Yeah! What do you think we'll get to hear today?!
+Rin (VBS): I'm really curious now...! Let's go, Luka! We can have a race!
+Luka (VBS): Wait, what happened to taking a nice, relaxing walk?! Don't leave me!
+
+

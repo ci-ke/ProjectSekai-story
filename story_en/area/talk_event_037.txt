@@ -1,0 +1,125 @@
+1 1161:areatalk_ev_street_05_001
+
+[Main Street]
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Kohane, look! Someone's gonna do a show at this live house pretty soon...
+Kohane: Oh, this team also participated in that battle event we were in the other day.
+An: Yeah! They were so good too... That split decision against them was barely in our favor.
+An: Kohane, wanna check this show out together? Like a scouting mission, you know?
+Kohane: Yeah, let's go!
+An: Great! We should get some tickets then!
+
+
+2 1162:areatalk_ev_street_05_002
+
+[Kamiyama High School]
+
+(Character: An Shiraishi, Akito Shinonome)
+
+Akito: Hey, I'm gonna be a little late for practice.
+An: Okay! But why...?
+An: Oh, I know. Supplementary English class?
+Akito: Huh? No, I have to help out at work.
+An: Oh, that's boring. I was so sure it was that since so many other kids in our class are being forced to go in.
+Akito: Says you. I heard that there's gonna a be a pop quiz in Classics.
+An: What?! Seriously?! No, I have to study!
+
+
+3 1163:areatalk_ev_street_05_003
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+Toya: No matter how many times I have it, MEIKO's coffee never ceases to amaze me.
+An: Yeah, but I still can't really tell how it's different from the coffee we make at home.
+An: I get that it's a little bit fruitier, but not much more than that. How do they compare to you, Toya?
+Toya: You're certainly right about MEIKO's coffee tasting fruitier, and that may be because they've been lightly roasted.
+Toya: Ken's coffee seems to be brewed in a way that accents its natural bitterness.
+An: Oh, I think I know what you mean...
+An: Thanks, Toya! I still don't know much about coffee, so that helps a lot!
+Toya: I'm no expert. I just like drinking it. I'm sure MEIKO and Ken know far more than I do.
+An: I know, but you explain things really clearly and I get to hear things from the customer's point of view with you.
+Toya: I see. Then I'm glad I could be of service.
+
+
+4 1164:areatalk_ev_street_05_004
+
+[Scramble Crossing]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+An: Hey, Akito, Toya! Perfect timing! If you're free, wanna hit up the mall together?
+Akito: Huh? The mall?
+Kohane: I entered a singing contest that's being hosted at the mall...
+Toya: You did, Azusawa?
+Akito: You're gonna be in one of those...?
+Kohane: The winner gets an all-expenses-paid trip to some hot springs and my mom's been wanting to go, so I was hoping to win it for her.
+An: And I'm going with her to see her knock everyone's socks off!
+Toya: I see. Then, I'll go as well.
+Akito: Toya, wait!
+An: Great! We'll be right there with you, Kohane, so just sing your heart out!
+Kohane: Thanks!
+Akito: I didn't actually say that I'd go...
+Akito: No losing, got it?
+Kohane: I... I won't! I'm gonna win that trip for sure!
+
+
+5 1165:areatalk_ev_street_05_005
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Hatsune Miku)
+
+Miku (VBS): Oh, An, I made some sandwiches. Would you mind giving them a taste?
+An: What?! Sandwiches made by Miku herself?!
+Miku (VBS): Yes. You were the one who originally suggested that I try my hand at cooking, no?
+Miku (VBS): I asked MEIKO for some advice and she taught me a good recipe along with how to use knives properly.
+An: Whoa, you really went through with it?! That's so cool. Sure, I'll have a bite!
+An: Nom... Oh, this is good. The veggies are so fresh, and I really like this spicy mayo.
+Miku (VBS): Thank goodness. I ended up making a few dozen until MEIKO said they were good enough for you to try.
+An: A few dozen?!
+Miku (VBS): Yes. Oh, but KAITO and the others ended up eating most of them, so they didn't go to waste.
+An: Th-That's good...
+An: (You can't really screw up making sandwiches, so what actually happened during all that...?)
+
+
+6 1166:areatalk_ev_street_05_006
+
+[Street SEKAI - Cafe]
+
+(Character: An Shiraishi, Kagamine Rin, Kagamine Len)
+
+Len: Oh, An! Perfect timing! Can you help us out with something?!
+Rin: We want to take turns singing and need someone to tell us who does better!
+An: Sure, but... Does this mean you two are fighting again...?
+Rin: It's all Len's fault! I said that this part should be more like this and tried to teach him how to do it!
+Len: But I'm trying to sing this part a certain way!
+An: Okay, okay! Let's all just calm down...
+An: So your ideas for this song ended up clashing and you needed someone to be a judge of which idea is better?
+Rin & Len: Yeah!
+An: Are you sure about me being the one who decides? I mean, does my word carry that much weight?
+Len: Yes, it does!
+Rin: An, please!
+An: Okay, I'll try to make my best judgement!
+
+
+7 1167:areatalk_ev_street_05_007
+
+[Street SEKAI - Cafe]
+
+(Character: MEIKO, KAITO)
+
+KAITO: Phew... I'm stuffed. I think I've had my fill of sandwiches for a while.
+MEIKO: Sorry, Miku asked me to help her with making them.
+KAITO: Haha. It was a bit of a shock to see her dunk the bread in that spicy mayonnaise as opposed to just spreading it over like normal.
+MEIKO: Right... And the way she tried to swing down with those knives as if they were meat cleavers...
+MEIKO: Still, she never had any interest in cooking until now, so I guess it just means those kids are really having an effect on her.
+KAITO: I agree. She is with them the most.
+MEIKO: Yes, she is. That could also mean she'll want to start trying other things as well.
+KAITO: Or try to become a better cook.
+MEIKO: I mean, well... Okay, I'll just have to help her when that time comes...
+
+

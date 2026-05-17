@@ -1,0 +1,193 @@
+1 987:areatalk_ev_band_03_001
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Shiho Hinomori)
+
+Shiho: Ichika, compared to when we first started, you're singing and playing so much better. You look so much more confident too.
+Ichika: Huh...?! Shiho?! Complementing me so openly...?!
+Shiho: Oh, I see... You prefer a more unforgiving approach?
+Ichika: N-No, I'm sorry! I'm just not used to hearing that from you. Please, the more praise the better!
+Shiho: That's all up to you, Ichika.
+Ichika: Right! I'll do my best to keep improving!
+
+
+2 988:areatalk_ev_band_03_002
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Saki Tenma, Shiho Hinomori)
+
+Saki: Hey, Shiho! Remember that talk we had about super moons and blue moons and stuff?
+Shiho: Huh? Oh, when we were looking up pictures of the moon...?
+Saki: Yeah! Remember this one? I said, Hona, you know so much about stars. Even all these names related to the moon...!
+Saki: And she replied with, But the moon isn't a star...
+Shiho: I vaguely remember that... But why are you bringing that up now?
+Saki: Hehehe. Because the moon is the Earth's satellite. In other languages, it's even described as a sort of star.
+Shiho: You seem so proud of yourself so...
+Shiho: Uh... Wow, Saki! That's sooo amazing...!
+Saki: Hehehe!
+
+
+3 989:areatalk_ev_band_03_003
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Honami Mochizuki, Shiho Hinomori)
+
+Shiho: Honami, did you talk to my sister about something during your last committee meeting?
+Honami: Huh? She asked how our band practices were going and I told her that we've been practicing very hard every day... Did I say something I shouldn't have...?
+Shiho: Oh, uh... No, I don't think it was you then...
+Shiho: Yesterday, she came barging into my room saying, You have such wonderful friends! and Make sure to cherish them!
+Honami: Shizuku may've been worried about us, especially considering what happened between us last time.
+Shiho: I know... But how would you feel about someone coming into your room bawling their eyes out, even if they are your big sister?
+Honami: I think she's a wonderful person. Hehe. And she just loves you so much.
+
+
+4 990:areatalk_ev_band_03_004
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Shiho Hinomori, Shizuku Hinomori)
+
+Shizuku: Oh, Shii! Are you about to have lunch? Would you like to eat together?
+Shiho: Sure...
+Shizuku: Wait, but you always say, Don't talk to me... or Don't get so close... or even I'll start ignoring you if you don't stop...!
+Shizuku: Shii, I'm so happy!
+Shiho: Okay, okay...
+Shiho: (If I don't say yes, she'll keep stalking me...)
+Shizuku: Hehehe...
+Shiho: (I guess hanging out like this every once in a while isn't so bad.)
+
+
+5 991:areatalk_ev_band_03_005
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
+
+Saki: Look! I started playing the same app that Shiho has!
+Honami: Oh, you chose dogs and rabbits. They're so cute.
+Saki: Right? But it's more work than I thought it would be.
+Saki: I tried walking my dog just now during break, but I guess I didn't spend enough time with it. I just got its affection score up to 3, but it went back down to 2...
+Ichika: Oh, I've been playing that too... I've been stuck at 3 for a while too.
+Honami: Hey, Shiho. Are there any good ways to bond with your pets? Also, how high does this thing go?
+Shiho: It goes all the way up to 15. If you want to max it out, you'll have to spend more time with them or get rare items that can quickly raise your score to 10.
+Ichika: Oh, okay. How high have you gotten, Shiho?
+Shiho: My first rabbits are 15 now. My other pets are getting close.
+Shiho: Also, if you get them above 5, you'll unlock a function that lets your pets play with your friends' pets.
+Ichika: What?! I didn't know that!
+Saki: Me neither! I so wanna try that!
+Honami: Hehe. Then you'll have to keep showing your pets more love.
+Saki: Right! Also, Shiho, what should we be doing to bond with our pets better?
+Shiho: Okay, okay. Each animal has its preferences, so let me explain.
+
+
+6 1023:areatalk_ev_band_02_002
+
+[School SEKAI - School]
+
+(Character: MEIKO)
+
+MEIKO: I hear a guitar. Miku must be practicing somewhere.
+MEIKO: I'd love to join her, but which classroom is she in?
+MEIKO: It's going to take a while for me to find her, what with so many classrooms. This place is a school, after all.
+
+
+7 1024:areatalk_ev_band_02_003
+
+[School SEKAI - School]
+
+(Character: MEIKO)
+
+MEIKO: Drums, bass, guitar, and synthesizer... Having them all so easily available makes me want to try them all.
+MEIKO: Didn't Luka mention she could play any musical instrument?
+MEIKO: Well then, I'm going to be an all-rounder and try them all out as well!
+
+
+8 1025:areatalk_ev_band_02_005
+
+[School SEKAI - School]
+
+(Character: Ichika Hoshino, MEIKO)
+
+MEIKO: Ichika, what songs are popular these days?
+Ichika: Um... I'm sorry, but I'm not sure...
+MEIKO: How come? I thought you'd be well-informed because Miku told me you're into music.
+Ichika: Honestly, I usually listen to Miku's songs. I probably know most of her latest songs, if that's what you're asking...
+MEIKO: Hm, so you're the type to zero in on a genre and stick with it. Somehow, that suits you.
+
+
+9 1026:areatalk_ev_band_02_007
+
+[School SEKAI - School]
+
+(Character: Saki Tenma, MEIKO)
+
+MEIKO: You call Ichika and Honami by nicknames, but not Shiho. Any particular reason?
+Saki: Oh! Actually, I used to call Shiho by something else in the past too.
+MEIKO: Like?
+Saki: I called her Shii! Her older sister always calls her that, so I decided to copy her.
+Saki: But Shiho said it was embarrassing, and she'd ghost me if I ever called her that again, so I stopped.
+MEIKO: Haha! Aww, Shii is such an adorable name, though!
+Saki: I know, right? Man, maybe I should've just insisted on calling her that like her older sister did...
+
+
+10 1027:areatalk_ev_band_02_009
+
+[School SEKAI - School]
+
+(Character: Honami Mochizuki, MEIKO)
+
+Honami: *Yawn*...
+MEIKO: You look sleepy, Honami.
+Honami: Oh, MEIKO. I think I ate too many apple pies last night...
+Honami: Oh, but it's not good to eat right before bed, right?! Imagine the damage it's going to do to my waistline!
+MEIKO: Haha, a little bit more padding shouldn't matter too much. Like drums. The thicker they are, the better they sound!
+Honami: R-Right... So a little bit...just a little bit of an increase shouldn't matter too much, right?!
+
+
+11 1028:areatalk_ev_band_02_011
+
+[School SEKAI - School]
+
+(Character: Shiho Hinomori, MEIKO)
+
+MEIKO: I believe these mascot plushies on the windowsill are from everyone's memories, isn't that right?
+Shiho: Kinda. When we were little, we visited an amusement park called Phoenix Wonderland and bought them there together.
+MEIKO: Hmm, the mascots should have names as well...
+Shiho: Yes. It's Phenny—
+MEIKO: The yellow one is Saki Phenny. The reddish one is Honami Phenny, and the blue one is Ichika Phenny.
+Shiho: Wha... How did you know that?!
+MEIKO: Honami told me. She was really happy that you still kept and cherished your Phenny!
+Shiho: (H-Honami!)
+
+
+12 1029:areatalk_ev_band_02_013
+
+[School SEKAI - School]
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku (Ln): You're drumming alone today, MEIKO?
+MEIKO: I do it sometimes when I have this inexplicable urge to just play the drums...
+MEIKO: But before I know it, I'll be belting out a series of 8-beats and sometimes even 16-beats!
+Miku (Ln): I understand. I'll start playing different things without sticking to the chord progression too, and then only return to it right at the end.
+MEIKO: There are certain rhythms and melodies that feel good to play, and we'll always end up going back to them.
+Miku (Ln): Yeah. Music is like an adventure with no destination, but there's always a home we can return to!
+
+
+13 1030:areatalk_ev_band_02_015
+
+[School SEKAI - School]
+
+(Character: Megurine Luka, MEIKO)
+
+MEIKO: There are so many different classrooms in this SEKAI... Or should I say, school?
+Luka: Hehe, do you want to explore it together?
+MEIKO: Hey, that's a great idea. Where do you recommend we start?
+Luka: The music room is a must-see, if you ask me. Also...
+Luka: Well, I'll let you see for yourself later.
+MEIKO: What? Now you've gotten me all curious! What're we waiting for? Let's go already!
+
+

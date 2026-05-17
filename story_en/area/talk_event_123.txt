@@ -1,0 +1,86 @@
+1 2161:areatalk_ev_shuffle_43_001
+
+[Shopping Mall]
+
+(Character: Minori Hanasato, Kanade Yoisaki)
+
+Minori: Hi, Kanade! Are you also here to shop?
+Kanade: Yes, for some clothes.
+Minori: What?! For clothes?! You?!
+Kanade: Huh...?
+Minori: I-I'm sorry! I was just a little surprised since you said you own several sets of the same sweats and wear them every day.
+Minori: Anyway, what kinds of clothes are you looking for?
+Kanade: So, I haven't actually decided yet... But I guess I'd like to get something different since I've been going out to meet people more lately.
+Minori: Oh, okay!
+Minori: In that case, can I join you? I really wanna know what your tastes are.
+Kanade: Sure, but I actually don't have a good idea of what my tastes are... If anything, I'd really appreciate it if you gave me some advice.
+Minori: I'd be more than happy to! Let's go find you the perfect set of clothes!
+
+
+2 2162:areatalk_ev_shuffle_43_002
+
+[Scramble Crossing]
+
+(Character: Airi Momoi, Kanade Yoisaki)
+
+Kanade: You're an idol, right Momoi? It feels strange walking alongside a real celebrity.
+Airi: Hehe. I know what you mean.
+Airi: Even now, whenever I find myself standing alongside famous personalities and stuff, I still think to myself, “I really get to do a shoot with them?!”
+Kanade: Oh, I thought you were used to being around them.
+Airi: That's the thing! I'm not! Especially when there's a really big name in the room! My heart always races like crazy!
+Kanade: I never would've guessed...
+Kanade: (I have such an easy time talking to Momoi for some reason.)
+Kanade: (Mizuki said how she's a household name, but I think I have a little better understanding of why now.)
+
+
+3 2163:areatalk_ev_shuffle_43_003
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Minori Hanasato)
+
+Minori: Ichika, thanks for letting me borrow your English notebook!
+Ichika: You're welcome. Were you able to follow my notes okay?
+Minori: Yeah, absolutely! They were crystal clear!
+Ichika: Really? I'm so relieved!
+Ichika: I've actually been taking notes a lot more carefully recently to make sure you and my other friends can read them fine.
+Ichika: As a result, my notetaking skills have improved, and I feel more motivated to do my best in school.
+Minori: Really?! What a relief. I was actually starting to feel really bad about asking for so much help.
+Minori: So, since it's helping with your studies, can I keep asking to borrow your notes in the future?
+Ichika: Yeah, ask me any time you like!
+
+
+4 2164:areatalk_ev_shuffle_43_004
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Airi Momoi)
+
+Ichika: Momoi, how much has Saki told you about being such a big fan of yours?
+Airi: Hmm... She's told me a few times about how I was a huge source of encouragement when she was in the hospital. But why do you ask...?
+Ichika: Because I vividly remember when she decided to write you a letter for the very first time.
+Ichika: Has she ever told you about the eleven drafts she made?
+Airi: No, I don't think so.
+Ichika: Then, please try asking about that the next time you see her.
+Ichika: (All eleven were the same except for being reworded in slightly different ways. And she still wasn't sure which to use when I went to visit her the next month.)
+Ichika: (Getting to go to the same school as her hero must've played a significant role in her coming back.)
+
+
+5 2165:areatalk_ev_shuffle_43_005
+
+[Music Shop]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina)
+
+Kanade: Hmm... This isn't it either. I thought it was something released recently...
+Mafuyu: You heard the song while you were walking around town, right?
+Kanade: Yes, the melody left an impression on me because of how complex it was. But I was in a big crowd, so I couldn't hear it very clearly.
+Kanade: If only I knew the lyrics, I could look it up...
+Mafuyu: You heard it when you were on Main Street, right? They might play it again if you go back.
+Mafuyu: Otherwise, you're sort of just wandering around in the dark.
+Kanade: Oh, good point... I'm sorry for making you come with me like this.
+Mafuyu: That's okay. I'm also a bit curious.
+Kanade: Really? Then, if you don't mind sticking around a little while longer...
+Mafuyu: I don't mind.
+
+

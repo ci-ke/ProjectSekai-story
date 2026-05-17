@@ -1,0 +1,187 @@
+1 2084:areatalk_ev_night_15_001
+
+[Shopping Mall]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina)
+
+Kanade: Thank you for going to the store with me. I've been feeling really guilty about having Ms. Mochizuki buy enough food for the two of us.
+Mafuyu: It's okay. You are letting me stay over at your house...
+Mafuyu: Also, we managed to get everything that was on her list...
+Kanade: Yes. Potatoes, carrots, onions, curry mix... Also, bacon and bite-size cheese. We're all set.
+Mafuyu: Are the bacon and cheese going in the curry?
+Kanade: No, I think she's making bacon-wrapped cheese with them. I had some the other day. They're really good.
+Mafuyu: I was wondering why there was no meat on the curry list. Is she balancing things out by making a separate dish...?
+Kanade: She might be. Nutritional balance is something she takes into strong consideration.
+Kanade: Anyway, let's head back. Ms. Mochizuki may already be done with the cleaning.
+Mafuyu: Okay...
+
+
+2 2085:areatalk_ev_night_15_002
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Ena Shinonome, Mizuki Akiyama)
+
+Ena: Hey, do either of you know any good tricks for staying focused while you're tired?
+Mizuki: When you're tired...? Doesn't that mean you need to take a break?
+Ena: I don't have time to take one. I need to finish this thing I'm drawing for my art class by tomorrow morning...
+Ena: Know any good tricks, Kanade? You're able to work for hours on end on just short naps.
+Mizuki: Wait, that's like the opposite of a healthy lifestyle. It'll spell the end for your skin.
+Ena: I know, Captain Obvious! I have to get this thing done regardless.
+Kanade: I don't know any special tricks... But I usually don't get sleepy as long as I'm concentrating on what I'm doing...
+Mizuki: Whoa, that's so cool! You're like some sort of concentration machine.
+Kanade: I guess so...? Sorry, I know that's not very helpful.
+Ena: No, that's okay. I feel a little more awake after talking to the both of you.
+Ena: Alright, I'm gonna head back and keep working on my drawing. Thanks anyway, you two.
+Mizuki & Kanade: You're welcome♪ You're welcome.
+
+
+3 2086:areatalk_ev_night_15_003
+
+[Main Street]
+
+(Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
+
+Mizuki: Man, there's really nothing better than having an after-party when all four of us are together! Getting to chat about stuff is always so much fun.
+Mafuyu: But you and Ena always talk when we're working, Mizuki...
+Ena: Yeah, but we're still focused on what's in front of us. That's totally different from chatting while having food together.
+Mizuki: What she said. Plus, you gotta stay in touch with others if you don't wanna forget how to talk to them. Otherwise, you'll start talking about the same stuff every time.
+Kanade: Huh...? You can forget how to talk to others?
+Mizuki: I'm not saying that you'll physically lose the ability to talk. I'm trying to say that you'll forget what they like to talk about and how to keep conversations going with them.
+Kanade: Really? That explains why I always have so much trouble talking to people I meet for the first time.
+Mizuki: Don't worry! Just do what I say and you'll have no problem talking to them!
+Mizuki: Can you give me a quick smile, Kanade?
+Kanade: Huh? A smile?
+Mizuki: Yeah! You gotta smile at the very least to keep conversations going♪ You need to show the person you're talking to that you wanna talk to them and hear more about them! So, let's see that frown upside down!
+Ena: Is it just me or does this sound like one of those lectures career criminals give on conning people...?
+
+
+4 2087:areatalk_ev_night_15_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, KAITO)
+
+Kanade: KAITO, have you seen Miku? I brought over that CD she said she wanted to listen to...
+KAITO (N25): ...
+Kanade: Umm... KAITO?
+KAITO (N25): Go home and rest...
+Kanade: What...?
+KAITO (N25): Do you not have any mirrors in your house? You have bags under your eyes.
+Kanade: Oh... Now that you mention it, Mafuyu said I didn't look all that well.
+KAITO (N25): You're already in a tough situation. You shouldn't do anything to exacerbate it...
+Kanade: You're right... And I don't want to make Mafuyu worry...
+KAITO (N25): Then, go home.
+Kanade: Okay, I'll do that. Thank you, KAITO.
+
+
+5 2088:areatalk_ev_night_15_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Ena Shinonome, MEIKO)
+
+MEIKO (N25): Ena? Are you by yourself today...?
+Ena: I came to take a quick break. Are you also by yourself, MEIKO?
+MEIKO (N25): I'm usually by myself.
+Ena: Now that you mention it, you like observing from afar, right?
+MEIKO (N25): “Like” isn't the word I'd use. I simply feel that I need to in order to fulfill my role here.
+Ena: Okay? But you haven't been as distant lately since you've been joining us when we gather.
+Ena: Oh, don't take that as a hint to start being more distant. There are some things that we can only ask you about.
+MEIKO (N25): I'll listen if you think you need me...
+MEIKO (N25): But I'm guessing you don't right at this moment. So, I'll be going now.
+Ena: Okay, I'll see you later. Thanks for chatting with me.
+
+
+6 2125:areatalk_monthly2312_005
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO)
+
+Rin (N25): It's just the four of us...?
+Len (N25): Oh, um... Miku's apparently with Kanade right now.
+Luka (N25): Don't worry. We've already informed Miku about what's happening here.
+Luka (N25): It would've been nice to have KAITO around, though. I was hoping to ask him about this since we'd all be here.
+MEIKO (N25): What is it that you want to ask him...?
+Rin (N25): To play cat's cradle...
+Len (N25): Huh?
+Luka (N25): We still haven't seen if he's any good at it yet, right? Don't you all want to see for yourselves?
+Rin (N25): He'd probably tear up the string out of frustration...
+Luka (N25): No, that'd be so boring and expected. It'd be much more interesting if he were unexpectedly good.
+MEIKO (N25): Is that why you asked us to gather...? KAITO was right to not show up.
+Len (N25): I guess so...?
+Len (N25): (But I do sort of wanna see if KAITO can play cat's cradle...)
+
+
+7 2146:areatalk_monthly2308_001
+
+[Scramble Crossing]
+
+(Character: Shizuku Hinomori, Ena Shinonome)
+
+Ena: Oh...! Hi, Shizuku!
+Shizuku: Hi, Ena! What a coincidence! Are you doing some shopping?
+Ena: Yeah! How about you?
+Shizuku: Oh, um... I'm actually a little lost...
+Shizuku: I'm supposed to meet with Airi at this cafe, but I can't seem to find it. No matter which way I turn, the map says I'm going in the opposite direction...
+Ena: What? Oh, you're holding your phone upside down...
+Shizuku: Oh, you're right... It must've ended up this way after I turned it to point the same way as the arrow.
+Ena: You're supposed to turn yourself, Shizuku, not your phone. Then just follow where the arrow's pointing.
+Shizuku: Of course! Thank you, Ena. I'll try doing that.
+Shizuku: Oh no! I turned too far. But that's okay. I just need to turn back a little and... Huh? I'm facing the same way as the arrow, but there's no path...
+Ena: (I kinda want to see Airi anyway, so I think I'll go with her...)
+
+
+8 2148:areatalk_monthly2308_003
+
+[Main Street]
+
+(Character: Honami Mochizuki, Ena Shinonome)
+
+Honami: Hello, Ena. Are you on your way somewhere?
+Ena: Hi, Honami. Yeah, I'm headed to my usual art class.
+Ena: Speaking of which, I thought that illustration you sent me the other day was really good.
+Honami: Wait, really...?
+Ena: Yeah! Your shooting stars had so much life to them... To me, they felt like they wanted to shoot right off the page.
+Honami: Oh, thank you very much...!
+Honami: That's exactly what I was going for. I was actually hoping that we could use it for our tickets...
+Honami: And you clearly understood my illustration... This must be because of what you've been teaching me. I really need to thank you again.
+Ena: Hehe. I'll be looking forward to your next illustration.
+
+
+9 2149:areatalk_monthly2308_004
+
+[Empty SEKAI - Expanse]
+
+(Character: Kanade Yoisaki, Kagamine Len)
+
+Len (N25): Oh, Kanade, welcome... Is it just you?
+Kanade: Yes. I got a little stuck and decided to take a break. What were you doing just now, Len?
+Len (N25): Umm... I was just working on this coloring book that Ena brought over.
+Kanade: Oh, it's a bird... You've done a nice job.
+Len (N25): Huh? I have...?
+Kanade: Yes. You stayed within the lines and chose very gentle colors. I like your bird very much.
+Len (N25): Y-You do?
+Len (N25): Hehe...
+Len (N25): Then, Kanade, wanna join me...? You wanted to take your mind off things for a bit, right?
+Kanade: Yes, I did... Then, would you mind me doing a page?
+Len (N25): ...! Sure!
+
+
+10 2168:areatalk_monthly2402_003
+
+[Empty SEKAI - Lake]
+
+(Character: Mizuki Akiyama, KAITO)
+
+KAITO (N25): What are you doing?
+Mizuki: Oh, KAITO, check out this instant camera! How cute are these little bear ears?
+Mizuki: I came to show it to Rin and the others, but I decided to walk around SEKAI and take some pictures with it first.
+Mizuki: Oh, I know! Let me take one of you, KAITO!
+KAITO (N25): Go take pictures somewhere else. Don't drag me in.
+Mizuki: Aww, come on...! Alright, what if I showed this super amazing ice cream?
+KAITO (N25): That's just a picture. You're not fooling anyone.
+Mizuki: Oh, there he goes... Sheesh, I was so close!
+
+

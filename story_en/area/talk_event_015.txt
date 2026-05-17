@@ -1,0 +1,159 @@
+1 929:areatalk_ev_wonder_03_001
+
+[Theme Park]
+
+(Character: Tsukasa Tenma, Emu Otori)
+
+Emu: Tsukasa, is there anyone you really respect? For me it's...
+Tsukasa: Who else would it be other than your grandpa?
+Emu: Wow☆ Yeah, that's right♪ How did you know?!
+Tsukasa: You asked me if I there's anyone I really look up to the other time and just yammered on by yourself without giving me a chance to answer.
+Tsukasa: To be fair, the person I respect and the person I look up to are the same for me, so I just figured that it would be the same for you too!
+Emu: Whoa...!
+Tsukasa: What do you mean, Whoa? Anyway, this time it's my turn to talk!
+Emu: Yup, okay♪ Hehehe. I want to talk more about my grandpa too when it's my turn☆
+
+
+2 930:areatalk_ev_wonder_03_002
+
+[Main Street]
+
+(Character: Emu Otori, Nene Kusanagi)
+
+Nene: Oh, this apple pie place... You said this place is really good, Emu, but there's always a huge line.
+Emu: Yup! Hehehe. I wonder if Honami's in that line too.
+Nene: You mean Mochizuki? Why would she be here?
+Emu: Honami really loooves apple pies! She gets 10 or 20 every time she's here♪
+Nene: Oh, right. You mentioned that before too...
+Nene: I see. So the girl from her class that really likes apple pies is Mochizuki.
+Nene: It might take a while with this line, but maybe it's worth a try since we're here.
+
+
+3 931:areatalk_ev_wonder_03_003
+
+[Theme Park]
+
+(Character: Emu Otori, Rui Kamishiro)
+
+Emu: Rui! Rui! I just had this dream where the Wonder Stage turned into a flower field☆
+Rui: What a wonderful dream! Maybe it'll even come true!
+Emu: Huh? Can you make a flower field for me?!
+Rui: Hehehe. Your wish is my command.
+Rui: Oh, but it would be nice to have a design to aid me. Would you mind drawing one up?
+Emu: Yup! Coming right up♪
+Emu: Hehehe♪ Operation Flower Field Stage is a go☆
+
+
+4 932:areatalk_ev_wonder_03_004
+
+[Main Street]
+
+(Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
+
+Rui: Oh, so this is the taiyaki place that you often went to with your grandpa, Emu?
+Emu: Yup! Everyone, try one♪ Here we go! Nom☆
+Tsukasa: Huh? You start from the middle?! Not the head or tail?!
+Emu: All the bean paste is in the middle, so that means it's the best part, right?
+Emu: And if you do this... See! One taiyaki turns into two♪
+Nene: So it feels like you get more. Wait, Rui's splitting his in half...
+Rui: The bean paste in the middle is too hot and I'd rather not burn my tongue is all. How about you, Tsukasa? Nene?
+Tsukasa: Me? I start from the head. I think the tail at the end serves as a good palette cleanser.
+Nene: Oh, I'm the opposite. I start with the tail. I like having some bean paste left for my last bite.
+Rui: Even with a specific kind of food, everyone's personalities come to the surface.
+Emu: Huh? Hwah wah hat? (Huh? What was that?)
+Tsukasa: Emu, don't talk with your mouth full!
+Nene: And you got bean paste on your cheek. Here's a tissue.
+Rui: (Hehe. Tsukasa and Nene eat taiyaki in opposite ways, but they do stuff like this the same...)
+
+
+5 933:areatalk_ev_wonder_03_005
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Hatsune Miku, KAITO)
+
+Miku (WxS): KAAAITO♪ You went to check out the plushies' rehearsal, right? How was it?
+KAITO: It went very well. They're sure to succeed at this rate.
+Miku (WxS): Wow...! I can't wait! The first show with just the plushies!
+KAITO: It will. And they chose The Plushie Pirates Set Sail! as the title.
+Miku (WxS): Ohh☆ What kind of story is it? Please, just a little hint...!
+KAITO: Well, I promised to keep it a secret but...
+KAITO: Pirates is probably already a big enough hint, so I'd like the rest to be a surprise.
+Miku (WxS): Oh, right! That is already a lot☆ Alright, I'll see what Rin and Len think too.
+
+
+6 992:areatalk_ev_wonder_02_002
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: MEIKO)
+
+MEIKO: It's not just Miku and KAITO, Len and Rin are here too!
+MEIKO: Performing in a show together sounds absolutely delightful. I don't think I'm ever going to get bored here!
+MEIKO: All right. I'm all fired up now♪
+
+
+7 993:areatalk_ev_wonder_02_003
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: MEIKO)
+
+MEIKO: This is my first time acting, and becoming someone else is certainly an interesting experience.
+MEIKO: I've been given a simple role so that I can practice, but I'd love to try acting as someone completely opposite from me one of these days!
+
+
+8 994:areatalk_ev_wonder_02_013
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Hatsune Miku, MEIKO)
+
+MEIKO: You and Emu are really amazing. Both of you make cartwheels and backward somersaults look so easy.
+MEIKO: What do you focus on when you're doing them?
+Miku (WxS): I focus on the moment I jump and the rhythm☆ Just do BOING, flippy-flip, then tappy-tap, and everything'll be A-okay♪
+Miku (WxS): Oh, and remember it can't be hop-hop, flippy-flop!
+MEIKO: Yes. You do need the momentum to carry the spin.
+Miku (WxS): Yup! MEIKO, MEIKO, let's do the flippy-flip together! Len recently learned how to do more flips too♪
+MEIKO: Did he now? Well then, I should try it out too!
+
+
+9 995:areatalk_ev_wonder_02_016
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: MEIKO, KAITO)
+
+KAITO: *Sigh*
+MEIKO: Oh dear, why are you sighing?
+KAITO: I was playing with Miku and the plushies today.
+KAITO: I didn't notice while we were playing because I was having a lot of fun at the time as well, but now I'm exhausted.
+MEIKO: Thus the sighs and exhausted look, huh? Hehe. You're behaving like a tired dad after entertaining the family on his day off!
+KAITO: Ugh... That's a really apt comparison, but at least make me the older brother or something, you know?
+
+
+10 996:areatalk_ev_wonder_02_018
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Len, MEIKO)
+
+Len (WxS): MEIKO! I heard you're joining us for the next show!
+MEIKO: Yes, but what should I do for a costume?
+Len (WxS): Make one, of course! Together with us! We make all of our show costumes, even ones for the plushies!
+MEIKO: Not just the stage props, but the costumes too? That's pretty awesome! Hehe, I'm getting more and more excited about this now!　
+MEIKO: Am I allowed to help with the costume making?
+Len (WxS): Of course you are! Let's make the coolest costumes ever!
+
+
+11 997:areatalk_ev_shuffle_03_022
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin)
+
+Rin: Let's see... After my first song, I exit stage left. Then, after Len's says his lines, I enter again...
+Rin: Hmm... Memorizing when to enter from and exit is so much harder than remembering lines.
+Rin: I'm a little worried, so I should probably check with Len!
+
+

@@ -1,0 +1,194 @@
+1 1129:areatalk_ev_band_05_001
+
+[Main Street]
+
+(Character: Ichika Hoshino, Saki Tenma)
+
+Saki: Oh no!! The bubble tea shop over there closed down!
+Ichika: Oh, you're right. There's something posted on the shutters too.
+Saki: No... I really liked that place too. They had this really big and squishy tapioca that was so good...
+Ichika: Oh... Saki, it's okay. Look at what they posted here.
+Saki: Huh...? Closed for renovations...? Wait, does that mean...?!
+Ichika: Yes. Down towards the bottom, it says that they're becoming a doughnuts shop but keeping tapioca on their menu.
+Saki: Thank goodness! I didn't what I was gonna do if they really closed down...
+Ichika: I'm sure you would've figured something out.
+
+
+2 1130:areatalk_ev_band_05_002
+
+[Miyamasuzaka Girls Academy]
+
+(Character: Ichika Hoshino, Honami Mochizuki)
+
+Ichika: Honami, are you free after practice today? There's something I'd like to ask you.
+Honami: Huh? Yes, I have time. Is something the matter?
+Ichika: Well, it has to do with taking care of a dog...
+Honami: Are you thinking about getting a puppy, Ichika?
+Ichika: No, not us. My mom was asked by a friend to take care of their dog for a little while.
+Ichika: She said that she's learned what she needs to about taking care of it from its owner, but I was wondering if there's anything I needed to know.
+Honami: Hehe. That's so thoughtful, Ichika. I'd be happy to answer any questions that you might have.
+Ichika: Thank you so much! So, about walking them...
+
+
+3 1131:areatalk_ev_band_05_003
+
+[Main Street]
+
+(Character: Ichika Hoshino, Shiho Hinomori)
+
+Ichika: (Oh, it's Shiho... In line for a ramen shop?)
+Shiho: Oh, Ichika...? Are you out shopping or something?
+Ichika: No, I just got off work and was about to head home. Are you about to get lunch?
+Shiho: Yeah. I'm on my lunch break.
+Ichika: But there are so many people in line? Are you sure you have enough time?
+Shiho: I do. This place has a good turnover rate so I should be inside in about five minutes.
+Ichika: Really? Hmm... I'm getting hungry too, so maybe I'll join you.
+Shiho: I don't see why not? By the way, this place is famous for having this extra-thick pork-bone broth that you can't get anywhere else.
+Ichika: It's that thick? Then, I might just get that.
+
+
+4 1132:areatalk_ev_band_05_004
+
+[Shopping Mall]
+
+(Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
+
+Saki: It's been a while since we last went out shopping like this♪
+Honami: Hehe. You seem to be really enjoying yourself, Saki.
+Shiho: Let me remind you that we're not here to have fun. We're here to find sheet music for songs that we can add to our show repertoire.
+Saki: I know! It's an important chance for us to find some...
+Saki: Hey, look! Those star bracelets are so cute!
+Shiho: There she goes...
+Saki: Oh whoa! These are the same colors as our Phenny keychains! Let's buy these and wear them during our show!
+Honami: Oh, we did discuss trying to find some matching items the other day.
+Ichika: That's right. I could even attach it to my guitar case when we're not doing shows or anything.
+Saki: How about it, Shiho? Oh, they have pink ones too. We could all get matching colors♪
+Shiho: Pink? No way. Also, if you want to get them, make it quick. We're here to find sheet music, not jewelry...
+Saki: Okay♪
+
+
+5 1133:areatalk_ev_band_05_005
+
+[School SEKAI - School]
+
+(Character: KAITO)
+
+KAITO: The movies that the girls brought over should be in the AV room...
+KAITO: MEIKO even said that she saw one with a band performing live and that it was an incredible show. I'd love to see it too, but...
+KAITO: I have no idea which one it is. I'll have to ask everyone later about it...
+
+
+6 1134:areatalk_ev_band_05_006
+
+[School SEKAI - School]
+
+(Character: Ichika Hoshino, KAITO)
+
+Ichika: KAITO, would you mind answering a question for me?
+KAITO: You want to ask me...?
+Ichika: Yes. The first time I saw you play, KAITO, it felt like my heart was being pulled into your sound...
+Ichika: What do we need to do as a band to do that?
+KAITO: I'm not sure there's a right answer. Everybody improves in different ways...
+KAITO: But it may just come down to listening to a lot of music, understanding what you want everyone to feel and figuring out how to actually do that...
+Ichika: Understanding what we want everyone to feel and figuring out how to actually do that...?
+Ichika: Yes, I see. Us not being able to sound the way we imagine and not knowing how to really express ourselves may also be part of the problem...
+Ichika: Thank you, KAITO. I'll start by listening to some more music.
+KAITO: Okay. Good luck...
+
+
+7 1135:areatalk_ev_band_05_007
+
+[School SEKAI - School]
+
+(Character: Hatsune Miku, Kagamine Rin, KAITO)
+
+Rin: Miku-P, KAITO! Let's do a musical relay☆
+Miku (Ln): A musical relay?
+Rin: Yeah☆ We play fun and happy phrases one at a time and try to tie them together♪
+KAITO: In succession...? That does sound interesting.
+Miku (Ln): Okay, I'll bite. While we're at it, why don't we record our little session so we can listen to it later?
+Rin: Great idea, Miku-P! Haha! I can't wait to hear how it turns out☆
+
+
+8 1136:areatalk_ev_band_05_008
+
+[School SEKAI - School]
+
+(Character: Megurine Luka, MEIKO, KAITO)
+
+Luka: Oh, KAITO, are you looking for something?
+KAITO: My pick. I dropped it while I was playing something...
+MEIKO: Haha! You must've really been rocking out to something for that to happen, no? 
+KAITO: I do every so often...
+Luka: Now I'm curious as to what you were playing.
+MEIKO: Me too!
+MEIKO: If you help you find your pick, KAITO, would you mind playing that song for us?
+KAITO: Sure, I don't mind...
+MEIKO: Alright, let's start looking! Picky, where are you?
+
+
+9 1187:areatalk_monthly2110_005
+
+[School SEKAI - School]
+
+(Character: Hatsune Miku, Kagamine Rin)
+
+Miku (Ln): This SEKAI's become so lively with all these new additions. Although, one is a bit of a handful...
+Rin's Voice (Rin): Yay! Are you there, Miku-P?
+Miku (Ln): Hehe. Right on cue...
+Rin: Hm? Were you giggling just now, Miku-P? What's going on? Tell me!
+Miku (Ln): It's nothing. I thought you were busy with something.
+Rin: Teehee☆ That's right! Luka and MEIKO said they want to do a session together♪
+Miku (Ln): Okay, be right there!
+
+
+10 1188:areatalk_monthly2110_006
+
+[School SEKAI - School]
+
+(Character: Megurine Luka, KAITO)
+
+KAITO: Luka, you've been watching the girls since before they got their band back together, right? Is it true that they were really uncomfortable with each other then?
+Luka: Hehe. I suppose that would be scarcely believable considering the way they are now.
+Luka: But it is true. They were very distant and uncomfortable with each other when they first started coming over here.
+KAITO: I see...
+Luka: However, they were able to face themselves and discover their true feelings in the end.
+Luka: They're an incredibly strong bunch.
+KAITO: Yes, I can tell... It's as if they want to be together wherever possible and maintain the bond they've forged...
+KAITO: I'm really looking forward to seeing how their performances evolve moving forward...
+
+
+11 1189:areatalk_monthly2110_007
+
+[School SEKAI - School]
+
+(Character: Kagamine Rin, KAITO)
+
+Rin: Hey, KAITO! I came to chat☆
+KAITO: I really don't have much to talk about...
+Rin: Aww, don't be like that. I have lots to tell you♪ Such as...
+Rin: Ta-daa☆ Sheet music for the song the girls are gonna start practicing♪
+KAITO: Oh, you're here to talk about music...
+Rin: Hehe. I thought you'd like that, KAITO☆
+Rin: Let's see what this song's like by playing some of it together♪
+KAITO: Sure, I'd like to see as well...
+Rin: Yay☆ Thanks a million, KAITO!
+
+
+12 1190:areatalk_monthly2110_008
+
+[School SEKAI - School]
+
+(Character: MEIKO, KAITO)
+
+MEIKO: Oh, there you are! Would you mind coming to the rooftop with me, KAITO?
+KAITO: The rooftop...?
+MEIKO: Saki and Rin are adamant about throwing you a welcome party.
+KAITO: Huh? For me? They don't have to...
+MEIKO: Oh, don't say that.
+MEIKO: They actually wanted to throw one sooner but decided to put things on hold until you become a little more used to Saki, the girls and this place.
+KAITO: Oh, I see...
+MEIKO: Now, get up! We're going! You're the star of today's show! 
+KAITO: Okay, I'll make a brief appearance...
+
+
