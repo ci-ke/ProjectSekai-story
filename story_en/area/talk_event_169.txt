@@ -1,0 +1,75 @@
+1 2644:areatalk_ev_street_21_001
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
+
+Kohane: People in New York really seem to like to stop and listen to singers practicing in alleyways.
+Akito: We did manage to attract a small crowd again today.
+Toya: It is nice to know that people enjoy the way we sing.
+Kohane: Yeah, definitely...!
+An: Then, let's do our best tomorrow to attract an even bigger crowd!
+An: I'm talking really big! Like a hundred people!
+Akito: Wait, that's not why we're practicing...
+
+
+2 2645:areatalk_ev_street_21_002
+
+[Street SEKAI - Plaza]
+
+(Character: Kohane Azusawa, Akito Shinonome)
+
+Kohane: So many people in the United States like to record shows on their phones. I couldn't believe it when I first noticed that.
+Akito: Yeah, that kind of thing's not legal in Japan.
+Kohane: Right. But it must be nice to be able to relive those performances whenever you like.
+Akito: Then, why don't we try recording a video next time? Seems like most events let people do it.
+Kohane: Oh, yeah... But I'm worried that it won't turn out very well... I might not be able to keep the camera steady.
+Akito: That might end up becoming a good memory in itself.
+
+
+3 2646:areatalk_ev_street_21_003
+
+[Street SEKAI - Plaza]
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+An: I realized just the other day that “nomi-no-ichi” and flea markets are the same thing.
+Toya: “Nomi-no-ichi” is the direct Japanese translation for “flea market”, after all. Still, what makes you bring it up?
+An: I looked up New York's flea markets online, and I found some articles that mentioned them. I connected the dots, and I feel like I know a really fun fact now!
+Toya: Both terms are used in Japan, but quite a few people believe that they're different things like you did, Shiraishi.
+Toya: Also, “flea” is commonly misinterpreted as “free” due to how the Japanese language works. Flea the bug, as opposed to the free in freedom.
+An: Huh...?
+An: (Come to think of it, I thought there was something off about the spelling...)
+
+
+4 2647:areatalk_ev_street_21_004
+
+[Street SEKAI - Cafe]
+
+(Character: Kohane Azusawa, An Shiraishi, Hatsune Miku)
+
+Kohane: I was doing some research on American culture, and I discovered that certain gestures mean different things over here compared to back in Japan.
+Miku (VBS): Interesting. Different how? Can you give an example?
+Kohane: In Japan, people often wave others over with their palms turned down, right? Over here, that's commonly used to tell someone to go away.
+An: Wait, it's the exact opposite?!
+An: I use gestures a ton whenever I'm having trouble communicating my thoughts in English, so I better read up some more so I don't offend anyone!
+Miku (VBS): Hehe. I'm sure people will understand you don't mean any harm when they see that you're doing your best to talk to them.
+Miku (VBS): But it is also important to learn about and respect their culture.
+
+
+5 2648:areatalk_ev_street_21_005
+
+[Street SEKAI - Cafe]
+
+(Character: Toya Aoyagi, MEIKO, KAITO)
+
+Toya: Your chicken over rice was very good, MEIKO.
+MEIKO (VBS): Thank you. I'm glad you enjoyed it so much.
+KAITO (VBS): MEIKO's repertoire has been expanding very rapidly since you and the others keep discovering all these new dishes over in the United States, Toya.
+KAITO (VBS): Everyone here has been really enjoying them, so please continue feeding us more information!
+MEIKO (VBS): Everyone? You just want more food for yourself, don't you, KAITO?
+KAITO (VBS): N-Not true. I just like seeing everyone smile...
+MEIKO (VBS): Hehe. If you say so. To be fair, learning all these new recipes has been very enjoyable.
+Toya: Then, we'll let you know if we find more good dishes.
+
+
