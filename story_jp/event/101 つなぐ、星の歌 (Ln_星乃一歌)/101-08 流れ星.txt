@@ -79,7 +79,7 @@ MEIKO: 最高のライブだったよ
 ミク (Ln): ……そうだね。 途中から、私も一歌に引っ張られるみたいに歌ってた
 ミク (Ln): それに……歌から、一歌の決意が伝わってきた気がする
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000214/bg_s000214.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000214/bg_s000214.webp)
 KAITO: ……俺も感じた
 KAITO: 自分の歌で、たくさんの人の心をつなげたいっていう、 一歌の決意を
 KAITO: ……あの想いがあれば、一歌達は もっと先にいけると思う
@@ -172,7 +172,7 @@ KAITO: ……あの想いがあれば、一歌達は もっと先にいけると
 (Background change)
 一歌: （あ……）
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000213/bg_s000213.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000213/bg_s000213.webp)
 一歌: （——ううん。お願いするだけじゃない）
 一歌: （ミクが……たくさんの人をつなげて……）
 一歌: （私達がまた一緒にいるための きっかけと助けを与えてくれたみたいに……）

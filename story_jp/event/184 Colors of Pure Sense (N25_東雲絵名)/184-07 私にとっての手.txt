@@ -48,7 +48,7 @@
 絵名: （そうだ。あえて色が混ざる感じで、たくさん塗り重ねて……）
 絵名: （……うん、もっとたくさん塗ろう。 いろんな色で、キラキラになるように——）
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000506/bg_s000506.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000506/bg_s000506.webp)
 絵名: （————楽しい）
 絵名: （楽しいな……）
 絵名: （もっと、描きたい）
@@ -59,7 +59,7 @@
 (Background change)
 ミク (N25): 『……絵名、楽しそうだね』
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000507/bg_s000507.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000507/bg_s000507.webp)
 KAITO (N25): 『——ああ』
 KAITO (N25): 『……あいつなりの答えは出たみたいだな』
 ミク (N25): 『……どんな絵になるか、楽しみだね』

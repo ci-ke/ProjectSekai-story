@@ -48,7 +48,7 @@
 
 (Memory cut-in)
 
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000239/bg_s000239.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000239/bg_s000239.webp)
 (White cut)
 
 (Memory cut-out)
@@ -90,7 +90,7 @@
 彰人: （だから壁にゴールがある）
 彰人: （挫折も苦しみも全部、 あの壁を壊すための糧にしろ……ってな）
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000272/bg_s000272.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000272/bg_s000272.webp)
 彰人: ——この先も、オレの人生には、きっとでかい壁がある
 彰人: だが、どんだけ挫けても、立ち止まらない限り、 いつか道は開ける
 彰人: だから——死ぬ気でこじ開けていくために、 気合い入れようって思ってな

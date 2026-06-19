@@ -124,7 +124,7 @@ Gacha phrase: いつか、あの空に届く曲を——
 
 (Memory cut-in)
 
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_a000004/bg_a000004.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
 (White cut)
 
 (Memory cut-out)
@@ -168,7 +168,7 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: （お父さんのオルゴールみたいに、 お母さんに届く曲を——作るんだ）
 奏: ……あれ？
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_a000063/bg_a000063.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_a000063/bg_a000063.webp)
 奏: （空に、光……？ 星にしては大きいような……）
 奏: え……？
 奏: （光が増えた……！ あっちにも、こっちにも浮かんでる……）

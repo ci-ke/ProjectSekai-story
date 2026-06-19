@@ -31,7 +31,7 @@
 ミク (VBS): 『仕方ないよ。 ここは想いが渦巻く場所だから、 見失いかける時もある』
 ミク (VBS): 『でも——思い出して』
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000327/bg_s000327.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000327/bg_s000327.webp)
 ミク (VBS): 『こはねは今、新しい世界につながる大きな壁の前に立ってる』
 ミク (VBS): 『その向こうに何があるかはわからない。 まだ誰も知らない』
 こはね: 誰も——
@@ -294,7 +294,7 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 こはね: ……うん……
 杏: ——見て、こはね。客席のほう
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_s000326/bg_s000326.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
 こはね: あ……
 こはね: すごい、景色……
 彰人: …………ああ

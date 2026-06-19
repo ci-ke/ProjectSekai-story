@@ -15,7 +15,7 @@ nightcode_01_00 オープニング
 (Fullscreen text): わたしのせいで――作れなくなった
 (Black cut)
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_a000004/bg_a000004.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
 中学生の奏 (奏): ……お父さん
 中学生の奏 (奏): わたしの曲が、お父さんを苦しめてた……。 わたしが……わたしが…………
 中学生の奏 (奏): わたしが、お父さんから音楽を奪ったんだ……
@@ -90,7 +90,7 @@ nightcode_01_00 オープニング
 奏: だいぶ前に送られてきてる。 そんなに寝ちゃってたんだ
 奏: 睡眠不足……かな。 少し、仮眠を…………
 (White cut)
-(CG insert: https://sekai-assets-bdf29c81.seiunx.net/jp-assets/ondemand/scenario/background/bg_a000004/bg_a000004.png)
+(CG insert: https://storage.sekai.best/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
 (White cut)
 (Background change)
 奏: ……ダメ
