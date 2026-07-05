@@ -1,6 +1,6 @@
 1 2454:areatalk_ev_ensta_001
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人）
 
@@ -21,7 +21,7 @@
 
 2 2455:areatalk_ev_ensta_002
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人）
 
@@ -39,7 +39,7 @@
 
 3 2456:areatalk_ev_ensta_003
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人、天馬司）
 
@@ -58,7 +58,7 @@
 
 4 2457:areatalk_ev_ensta_004
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人、神代類）
 
@@ -81,7 +81,7 @@
 
 5 2458:areatalk_ev_ensta_005
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌）
 
@@ -101,7 +101,7 @@
 
 6 2459:areatalk_ev_ensta_006
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌）
 
@@ -118,7 +118,7 @@
 
 7 2460:areatalk_ev_ensta_007
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌、天馬司）
 
@@ -141,7 +141,7 @@
 
 8 2461:areatalk_ev_ensta_008
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌、神代類）
 
@@ -161,7 +161,7 @@
 
 9 2462:areatalk_ev_ensta_009
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：天馬司）
 
@@ -179,7 +179,7 @@
 
 10 2463:areatalk_ev_ensta_010
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：天馬司）
 
@@ -196,7 +196,7 @@
 
 11 2464:areatalk_ev_ensta_011
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人、天馬司）
 
@@ -214,7 +214,7 @@
 
 12 2465:areatalk_ev_ensta_012
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌、天馬司）
 
@@ -236,7 +236,7 @@
 
 13 2466:areatalk_ev_ensta_013
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：神代類）
 
@@ -257,7 +257,7 @@
 
 14 2467:areatalk_ev_ensta_014
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：神代類）
 
@@ -275,7 +275,7 @@
 
 15 2468:areatalk_ev_ensta_015
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人、神代類）
 
@@ -293,7 +293,7 @@
 
 16 2469:areatalk_ev_ensta_016
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌、神代類）
 
@@ -312,7 +312,7 @@
 
 17 2470:areatalk_ev_ensta_017
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：青柳冬彌）
 
@@ -329,7 +329,7 @@
 
 18 2471:areatalk_ev_ensta_018
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人）
 
@@ -346,7 +346,7 @@
 
 19 2472:areatalk_ev_ensta_019
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：神代類）
 
@@ -369,7 +369,7 @@
 
 20 2473:areatalk_ev_ensta_020
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：天馬司）
 
@@ -393,7 +393,7 @@
 
 21 2474:areatalk_ev_ensta_021
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：東雲彰人、青柳冬彌）
 
@@ -415,7 +415,7 @@
 
 22 2475:areatalk_ev_ensta_022
 
-【ASTRO FES會場】
+【ASTRO FES会場】
 
 （登场角色：天馬司、神代類）
 
