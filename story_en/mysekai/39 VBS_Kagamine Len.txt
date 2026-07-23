@@ -1,0 +1,1813 @@
+1 89:89 Vibrant Unison Dresser
+
+(Character: Kagamine Len)
+
+Len: That's one heck of a dresser. The color really makes it pop, I like it!
+
+
+2 90:90 Vibrant Unison Bed
+
+(Character: Kagamine Len)
+
+Len: Whoa, your bed's super fluffy! Looks like I could get some serious air if I jumped on it.
+Len: Oh, n-no, don't worry! I wouldn't actually jump on your bed!
+
+
+3 91:91 Vibrant Unison Table
+
+(Character: Kagamine Len)
+
+Len: Whoa, this table's such a cool color!
+Len: Would I look cool sitting here drinking coffee?
+
+
+4 92:92 Vibrant Unison Rug
+
+(Character: Kagamine Len)
+
+Len: This rug's so fluffy. It feels great.
+Len: I bet it's high-quality material. I'd better be careful not to spill juice or get any crumbs on it.
+
+
+5 224:224 Record Player
+
+(Character: Kagamine Len)
+
+Len: Music really is the best! I need it whether I'm trying to get hyped up or I just wanna relax.
+Len: And singing too! It feels great singing to yourself whenever you find a song that matches your mood!
+
+
+6 225:225 Gramophone
+
+(Character: Kagamine Len)
+
+Len: Hey, I know what this is. It's called a gramophone, right?
+Len: Huh? O-Of course I know how to use it!
+Len: Oh, I know! Why don't I check to see if you're using it right? Go on, give it a try!
+
+
+7 226:226 Gate
+
+(Character: Kagamine Len)
+
+Len: I've been in SEKAI for a long time now, but there are still lots of things that surprise me.
+Len: Yeah, this gate showing up was one of those things!
+Len: But honestly, I think surprises like this make everything more fun. I wouldn't mind if there were even more!
+
+
+8 1771:1771 Natural Dresser
+
+(Character: Kagamine Len)
+
+Len: Oh, you've got some storage space, huh? Well, keeping things tidy is important, so I guess that should've been obvious.
+Len: What, me? Um...
+Len: I help out at MEIKO's cafe with cleaning and whatnot, so I should be pretty good at organizing by now, I think...
+
+
+9 1772:1772 Natural Bed
+
+(Character: Kagamine Len)
+
+Len: This bed looks comfy, but wouldn't you fall off if you rolled over...?
+
+
+10 1773:1773 Natural Dining Table
+
+(Character: Kagamine Len)
+
+Len: It's kinda basic, but if you put a tablecloth on top, it'd look pretty classy.
+
+
+11 1774:1774 Natural Bookshelf
+
+(Character: Kagamine Len)
+
+Len: You've got a lot of books. Do you like to read?
+Len: What, me...? Hmm... I have trouble focusing on huge blocks of text.
+Len: But if it's an interesting book, I'd push through to the end.
+
+
+12 1775:1775 Natural Closet
+
+(Character: Kagamine Len)
+
+Len: Man, too bad... If this were just a little bigger, it'd be perfect for hide and seek.
+
+
+13 1776:1776 Natural LCD TV
+
+(Character: Kagamine Len)
+
+Len: Kohane and the others don't really talk too much about TV shows, but there's always dramas and anime and stuff on, right?
+Len: Guess there really is something on every day... Hmm, maybe none of them have a TV at home?
+
+
+14 1777:1777 Garden Flower Bed
+
+(Character: Kagamine Len)
+
+Len: Flowers change the vibe of a space a bit. They make things feel brighter. Happier, even.
+Len: I know! I should ask MEIKO about putting some more flower beds around her cafe!
+
+
+15 1778:1778 Garden Umbrella Table
+
+(Character: Kagamine Len)
+
+Len: Whoa, this place looks just like a terrace!
+Len: I'd love to hang out here, sipping juice and eating cake.
+
+
+16 1779:1779 Garden Bench
+
+(Character: Kagamine Len)
+
+Len: You even made a place to sit!
+Len: Thanks! If I get tired from walking around, I'll take a rest here!
+
+
+17 1780:1780 Garden Lattice Planter
+
+(Character: Kagamine Len)
+
+Len: Huh... This board attached to the flower bed... Is it for ivy and morning glories and stuff?
+Len: I hope they grow tall and healthy!
+
+
+18 1781:1781 Garden Ladder
+
+(Character: Kagamine Len)
+
+Len: What do you need a ladder for? Cleaning windows or something?
+Len: Well, whatever. I might not look it, but I'm pretty agile. I'll give you a hand sometime if I'm feeling up for it.
+
+
+19 1782:1782 Garden Potting Bench
+
+(Character: Kagamine Len)
+
+Len: There are a bunch of empty pots here. Planning to plant more flowers?
+Len: If you are, then let me give you a hand sometime. I've actually been interested in that for a while now.
+Len: Thanks a lot! Hehe, gotta start thinking about what flowers to plant.
+
+
+20 1783:1783 Garden Wheelbarrow
+
+(Character: Kagamine Len)
+
+Len: Whoa! You planted flowers right in this wheelbarrow! That's kinda cool!
+Len: Wait a sec, you didn't just plant them here because you didn't feel like hauling the dirt to the flower bed, right?
+
+
+21 1784:1784 Garden Watering Can
+
+(Character: Kagamine Len)
+
+Len: Oh, found a watering can. So this is how you water the flowers.
+Len: I know! Is it alright if I give you a hand? Flowers in bloom always perk me up.
+Len: Really?! Awesome! Hehe, let's take care of these little guys together!
+
+
+22 1785:1785 Swings
+
+(Character: Kagamine Len)
+
+Len: We're good to use these swings? Nice, thanks!
+Len: But I don't know how I'd feel about Akito and the others seeing us play on swings... They'd probably think it's kinda childish.
+Len: But then again, it's here for riding... Hmm...
+
+
+23 1786:1786 Slide
+
+(Character: Kagamine Len)
+
+Len: What a cute, colorful slide.
+Len: Oh! If you climbed up and sang from the top, it'd kinda feel like being on stage.
+
+
+24 1787:1787 Playground Rocking Bear
+
+(Character: Kagamine Len)
+
+Len: You're supposed to hop on and rock back and forth, right? If you time it right, I bet you could get the bear's nose to hit the ground!
+Len: Oh, but I'd feel kinda bad for the bear if I did that. It's letting me ride it, you know?
+
+
+25 1788:1788 Sandbox
+
+(Character: Kagamine Len)
+
+Len: A sandbox... That's more for little kids. I don't think I'd play in it.
+Len: Wait, a treasure hunting game? There's a winning ticket hidden in the sand, and if you find it, you get a prize?
+Len: Wow, that sounds so fun! If that's the deal, I'd love to play!
+
+
+26 1789:1789 Seesaw
+
+(Character: Kagamine Len)
+
+Len: Hey, don'tcha think you could really send someone flying on a seesaw if you timed it just right?
+Len: Man, I wanna get launched. How do you think you'd go about doing that?
+
+
+27 1790:1790 Park Fountain
+
+(Character: Kagamine Len)
+
+Len: Oh! There's a park fountain! Looks cool!
+Len: Man, I wish the plaza in our SEKAI had one too.
+
+
+28 1791:1791 Horizontal Bars
+
+(Character: Kagamine Len)
+
+Len: The horizontal bars, huh? I know how you're supposed to use them, but I've never really tried.
+Len: Maybe I'll practice a little. If I could pull off a back hip circle, that'd be pretty cool!
+
+
+29 1792:1792 Park Tire
+
+(Character: Kagamine Len)
+
+Len: Hmm? There's something sticking out of the ground...
+Len: Wait, a tire? Oh, you can use it as a vault box or just rest on it.
+Len: I guess this was only half a tire from the start, but it's kinda funny to think that people purposefully bury tires halfway in the ground just to play with.
+
+
+30 1793:1793 Spinning Jungle Gym
+
+(Character: Kagamine Len)
+
+Len: This thing spins around, right?
+Len: If you ran and built up a lot of speed, I bet it would go crazy fast. That'd be fun!
+
+
+31 1794:1794 Antique Streetlight
+
+(Character: Kagamine Len)
+
+Len: You definitely need lights like these. You wouldn't be able to find your way home without them!
+
+
+32 1795:1795 Bucket and Shovel
+
+(Character: Kagamine Len)
+
+Len: Oh, that reminds me of how KAITO made this thing called "bucket pudding".
+Len: But he was impatient and took it out before it had set properly.
+Len: The moment he flipped the bucket upside down, mud flew all over the table... Rin and I were both like, "Whoa!"
+
+
+33 1796:1796 Playground Tunnels
+
+(Character: Kagamine Len)
+
+Len: There's some confusing playground equipment, don't you think? Like, what are you supposed to do with these big pipes?
+Len: I guess they're for hide and seek, or just sitting on and hanging out?
+
+
+34 1797:1797 Rustic Japanese Low Table
+
+(Character: Kagamine Len)
+
+Len: "Low table" isn't the most imaginative name for a table. It's heavier than it looks, though. Feels like it could use a name that gets that across...
+
+
+35 1798:1798 Rustic Japanese TV
+
+(Character: Kagamine Len)
+
+Len: This box has wings... Wait... Is this a TV?!
+Len: TVs used to be this bulky, but now they're pretty thin, right? People can really do amazing things.
+
+
+36 1799:1799 Rustic Japanese Cupboard
+
+(Character: Kagamine Len)
+
+Len: So this is a Japanese-style cupboard. The wood gives off such a warm, inviting feeling!
+Len: By the way... What's with this bear?
+
+
+37 1800:1800 Rustic Japanese Kettle
+
+(Character: Kagamine Len)
+
+Len: Oh, it's one of those kettles that whistles when the water's boiling!
+Len: MEIKO uses one since she says she can boil a ton of water at once when lots of people are having tea.
+
+
+38 1801:1801 Rustic Japanese Teapot
+
+(Character: Kagamine Len)
+
+Len: I don't think twice about glasses without handles, but these teacups still make me do a double take from time to time.
+Len: Guess it's 'cause I'm so used to using mugs.
+
+
+39 1802:1802 Rustic Japanese Telephone
+
+(Character: Kagamine Len)
+
+Len: I've heard these phones have a nice ringtone.
+Len: I wish someone would call so I could hear it!
+
+
+40 1803:1803 Rustic Japanese Lucky Cat
+
+(Character: Kagamine Len)
+
+Len: Oh, a lucky cat. This is supposed to bring people in, yeah? Are you looking for more visitors?
+Len: If you are, then I'll stop by every day! This place is fun!
+
+
+41 1804:1804 Kid's Room Colorful Dresser
+
+(Character: Kagamine Len)
+
+Len: What a cute dresser. The colors are easy on the eyes.
+Len: It looks pretty plain at first glance. Makes me want to decorate it with stickers or something.
+
+
+42 1805:1805 Kid's Room Teddy Bear Bed
+
+(Character: Kagamine Len)
+
+Len: Haha, this bed's got a playful kind of design! I bet if I slept here, I'd dream about playing with animals!
+
+
+43 1806:1806 Kid's Room Picture Book Shelf
+
+(Character: Kagamine Len)
+
+Len: Oh, look at all these picture books.
+Len: I'm not big on books with tons of text, but these are no problem.
+
+
+44 1807:1807 Kid's Room Toy Box
+
+(Character: Kagamine Len)
+
+Len: Whoa, this box is full of toys! Hey, there's even a soccer ball!
+Len: I can juggle a little, you know. Akito taught me.
+
+
+45 1808:1808 Kid's Room Rocking Horse
+
+(Character: Kagamine Len)
+
+Len: A rocking horse, huh? If it looked a little bit more like a real horse, I might be more interested.
+
+
+46 1809:1809 Kid's Room Train Set
+
+(Character: Kagamine Len)
+
+Len: A train set! And there's even a station!
+Len: What if we added a bridge? Or a tunnel? Come on, let's make it even more realistic!
+
+
+47 1810:1810 Kid's Room Toy Car
+
+(Character: Kagamine Len)
+
+Len: Hmm, doesn't look like this car takes batteries... Oh, so you push it around yourself?
+Len: That means you could make it run up the wall! Wait, if you're holding it, you don't even need a surface!
+Len: Haha. You don't need to learn how to control it or anything, either. This seems fun in its own way.
+
+
+48 1811:1811 Kid's Room Elephant Plushie
+
+(Character: Kagamine Len)
+
+Len: This elephant plushie is pretty big!
+Len: Guess it's 'cause real elephants are... No, it's just a plushie, that doesn't matter.
+
+
+49 1812:1812 Kid's Room Jack-in-the-Box
+
+(Character: Kagamine Len)
+
+Len: A jack-in-the-box, huh? I bet we could really scare Rin! And we could probably get a good reaction out of KAITO and Luka too!
+Len: Oh, Miku and MEIKO? Hmm...
+Len: MEIKO would probably play along and act surprised, but Miku... She might just tilt her head and not really react.
+
+
+50 1813:1813 Relaxed Desk
+
+(Character: Kagamine Len)
+
+Len: Wow, you've even got a study desk! I'm impressed.
+Len: Hey, I'm a little bit interested in studying too. Next time you do some work here, show me how you do it, yeah?
+
+
+51 1814:1814 Relaxed Bookshelf
+
+(Character: Kagamine Len)
+
+Len: You've got books and lots of toys too!
+Len: Whoa, what's this rocket-looking thing? Does it shoot up when you press a button?
+
+
+52 1815:1815 Relaxed Checkered Rug
+
+(Character: Kagamine Len)
+
+Len: This black-and-white pattern looks familiar...  Oh yeah! It's the flag they wave at finish lines!
+Len: Right, a checkered flag!
+Len: I knew I'd seen it somewhere. I feel so much better now!
+
+
+53 1816:1816 Relaxed Stack of Manga
+
+(Character: Kagamine Len)
+
+Len: You know, people don't always count manga as "real reading", but why not?
+Len: You can pick up new words and learn lots of new stuff from manga.
+
+
+54 1817:1817 Relaxed Handheld Game Console
+
+(Character: Kagamine Len)
+
+Len: Oh, games! So you play too?
+Len: I saw Akito and the others playing puzzle and racing games the other day.
+Len: I got so caught up in cheering for them, it was like I was playing too! It was so much fun!
+
+
+55 1818:1818 Relaxed RC Car
+
+(Character: Kagamine Len)
+
+Len: Oh, I know this! You move it around with this controller, right?!
+Len: How fast does it go? Can it handle all kinds of terrain? Come on, show me how it works!
+
+
+56 1819:1819 Relaxed Alarm Clock
+
+(Character: Kagamine Len)
+
+Len: Wow, you've got an alarm clock too. You know, even if you oversleep in SEKAI, no one's gonna yell at you...
+Len: Oh... Sorry, I lied. One time I napped for too long and Rin yelled at me for being late to practice.
+
+
+57 1820:1820 Relaxed Beagle Plushie
+
+(Character: Kagamine Len)
+
+Len: A dog plushie! Hehe, it's so cute!
+Len: Hey, does it have a name? What should I call it?
+
+
+58 1821:1821 Water Dispenser
+
+(Character: Kagamine Len)
+
+Len: This is so cool. You can get cold water and hot water at a moment's notice.
+Len: Careful, though. If you don't let the hot water cool down a little, you'll burn your tongue.
+
+
+59 1822:1822 Yoga Mat
+
+(Character: Kagamine Len)
+
+Len: Yoga, huh? I know there are some poses named after animals.
+Len: I wonder if there's one for every animal. Think about crocodiles with their huge mouths or giraffes with their long necks, what would those poses be like?
+
+
+60 1823:1823 Ab Wheel
+
+(Character: Kagamine Len)
+
+Len: This dumbbell only has one weight.
+Len: Wait, this isn't a dumbbell?! It's for training your core? Wow, show me how to use it!
+
+
+61 1824:1824 Exercise Ball
+
+(Character: Kagamine Len)
+
+Len: People with good balance could stand on this ball, right? That's so cool.
+Len: I kinda wanna try too... But maybe I'll just start by sitting on it and lifting my feet off the floor.
+
+
+62 1825:1825 Treadmill
+
+(Character: Kagamine Len)
+
+Len: You can run indoors if you have one of these, yeah? I bet Akito would love this.
+Len: Sometimes he comes to SEKAI just to run if the weather isn't great.
+
+
+63 1826:1826 Exercise Bike
+
+(Character: Kagamine Len)
+
+Len: Whoa, it looks so cool and high tech!
+Len: I wanna try it. Maybe I should take a page out of Akito's book and start working on my stamina too...
+
+
+64 1827:1827 Dumbbells
+
+(Character: Kagamine Len)
+
+Len: Hey, dumbbells! I didn't even know these kinds of bright, fancy ones existed.
+Len: Huh. Makes you realize how a good design really can help motivate you.
+
+
+65 1828:1828 Synthesizer
+
+(Character: Kagamine Len)
+
+Len: Whoa, a synth! These are great. It's fun how they can make a bunch of different sounds.
+Len: Sometimes I really wish I had a certain sound when sampling or mixing. If I knew how to use a synth, I'd be able to create whatever sound I want, hopefully.
+
+
+66 1829:1829 Electric Guitar
+
+(Character: Kagamine Len)
+
+Len: Electric guitars are just plain cool, you know? The way people look while playing is one thing, but they have a nice sharp sound too.
+Len: I wonder if anyone can play. I'll have to ask when I get back to our SEKAI.
+
+
+67 1830:1830 Electric Bass
+
+(Character: Kagamine Len)
+
+Len: The bass is an awesome instrument! That rich, low sound is the best!
+Len: Some people say the bass doesn't stand out, but a song will sound completely different if you take it out. You can't have a band without a bass!
+
+
+68 1831:1831 Drum Kit
+
+(Character: Kagamine Len)
+
+Len: Whoa, a drum set! I wanna learn to play, even just a little.
+Len: I think I've got good rhythm, so I should be fine... But having to move my right hand, left hand and feet all differently sounds like it'd scramble my brain.
+
+
+69 1832:1832 Headphones
+
+(Character: Kagamine Len)
+
+Len: Cool headphones. They look really high-quality.
+
+
+70 1833:1833 Mic Stand
+
+(Character: Kagamine Len)
+
+Len: Whenever I see a mic, I just feel like singing.
+Len: Well, not that I don't feel like singing without one.
+
+
+71 1834:1834 Stack of CDs
+
+(Character: Kagamine Len)
+
+Len: You've got a lot of CDs. Hehe...
+Len: Oh, sorry for just laughing out of nowhere. I guess thinking that you like music too just made me happy!
+
+
+72 1835:1835 Claw Machine
+
+(Character: Kagamine Len)
+
+Len: Whoa, some of these claw machine prizes are pretty big. But can you actually win them...?
+Len: Oh right, Toya's good at these, isn't he? Maybe I should have him give it a shot!
+
+
+73 1836:1836 Puyo Puyo Champions Machine
+
+(Character: Kagamine Len)
+
+Len: Actually, I know how to play this game! Toya taught me.
+Len: Wait, can't you play this with two people? I wanna show you how it's done.
+
+
+74 1837:1837 Print Sticker Machine
+
+(Character: Kagamine Len)
+
+Len: These Print Sticker machines can make your eyes bigger and add a little sparkle effect, right?
+Len: What do you think I'd look like if I took a picture in one?
+Len: I might turn out super handsome! Or maybe super cute?
+
+
+75 1838:1838 CHUNITHM Machine
+
+(Character: Kagamine Len)
+
+Len: Actually, Akito took me to the arcade once. I said I wanted to check out this game, so he played it for me.
+Len: At first, Akito was going to show me all kinds of different songs, but then he got more and more into playing himself...!
+Len: And before I knew it, I was cheering him on while he played. We both got really into it.
+
+
+76 3395:3395 Cozy Picnic Blanket
+
+(Character: Kagamine Len)
+
+Len: Just having a picnic blanket makes it feel like a real picnic!
+Len: But if we're doing this, we've gotta do it right. We need lunch boxes, snacks and drinks too!
+Len: Haha, maybe that's asking for too much.
+
+
+77 3396:3396 Cozy Picnic Bicycle
+
+(Character: Kagamine Len)
+
+Len: Wait, did you just get back from somewhere?
+Len: I mean, you've got a basket full of flowers. You must've gone to a flower field, right?
+
+
+78 3397:3397 Cozy Picnic Tree Stump
+
+(Character: Kagamine Len)
+
+Len: Oh, you can sit on this? Don't mind if I do!
+
+
+79 3398:3398 Cozy Picnic Sandwich Box
+
+(Character: Kagamine Len)
+
+Len: Whoa! These sandwiches look amazing! Even MEIKO would be impressed!
+
+
+80 3399:3399 Cozy Picnic Juice Pitcher
+
+(Character: Kagamine Len)
+
+Len: Wow, there's so much fruit inside!
+Len: By the way, do you eat the fruit when the juice is all gone?
+
+
+81 3400:3400 Cozy Picnic Basket
+
+(Character: Kagamine Len)
+
+Len: Haha, you stuffed so much in there! The bread and fruit are bursting out!
+Len: I can help you carry that if you want. Just pay me back with some of the snacks!
+
+
+82 3401:3401 Cozy Picnic Flower Basket
+
+(Character: Kagamine Len)
+
+Len: Wow, so many flowers. So cute.
+Len: You could just leave them how they are, or it might be fun to string them together into a flower crown.
+Len: Oh, but I don't know how to make one. Maybe Kohane or An would know.
+
+
+83 3402:3402 Cozy Picnic Lunch Box
+
+(Character: Kagamine Len)
+
+Len: Wow, that lunch box looks amazing! Hehe, this is totally something you could brag about to everyone.
+Len: Like, "Isn't this lunch box the best?"
+
+
+84 3403:3403 Moonlit Inn Antique Dresser
+
+(Character: Kagamine Len)
+
+Len: Whoa, this looks...cool? Maybe classy is a better way to describe it.
+
+
+85 3404:3404 Moonlit Inn Floor Chair
+
+(Character: Kagamine Len)
+
+Len: I'm used to cafe chairs, so seeing a chair with no legs like this is new to me.
+
+
+86 3405:3405 Moonlit Inn Paper Lantern
+
+(Character: Kagamine Len)
+
+Len: What would you call this thing? I'm blanking. Whatchama-lantern...?
+Len: Huh? "'Whatchama-lantern' is what you say when you ask someone to look after it..."?
+Len: Haha! Not what I was going for, but that's a good one! Okay, but seriously, what's it really called?
+
+
+87 3406:3406 Moonlit Inn Folding Screen
+
+(Character: Kagamine Len)
+
+Len: Whoa, this looks awesome! If I had one of these in my room...
+Len: Nah, I'd just worry about knocking it over or getting it dirty.
+
+
+88 3407:3407 Moonlit Inn Bonsai Tree
+
+(Character: Kagamine Len)
+
+Len: Growing a tree sounds like a lot of work. I mean, it must take forever, right?
+Len: If it were me, I'd probably get bored waiting for it to grow, so I think people who can keep at it are really amazing.
+
+
+89 3408:3408 Moonlit Inn Vase
+
+(Character: Kagamine Len)
+
+Len: Oh, you can display branches like this too? It's really pretty.
+
+
+90 3409:3409 Raijin Festival Taiko
+
+(Character: Kagamine Len)
+
+Len: Toya was telling me that there's a game where you hit taiko to the beat?
+Len: I wonder if I could do something like that with this... Mind if I give it a try?
+Len: Thanks! Okay, here goes!
+
+
+91 3410:3410 Raijin Festival Hanging Lanterns
+
+(Character: Kagamine Len)
+
+Len: I don't know a lot about shrine festivals. Do they have a lot of these all lined up?
+Len: Sometimes they do, and sometimes they don't?
+Len: Huh... I guess a lot of things depend on the shrine.
+
+
+92 3411:3411 Raijin Festival Mask Stall
+
+(Character: Kagamine Len)
+
+Len: Whoa, what's with these masks?! Some of them are scary, but some of them are really funny!
+
+
+93 3413:3413 Raijin Festival Outdoor Lantern
+
+(Character: Kagamine Len)
+
+Len: Oh, you set up lights? That's nice of you.
+Len: I mean, I'm used to dark alleyways, so I don't mind a little darkness myself.
+
+
+94 3414:3414 Raijin Festival Right-Facing Fox Statue
+
+(Character: Kagamine Len)
+
+Len: Wow, so this fox is a divine messenger...?
+Len: Does that mean that if you do something nice for it, the deity will reward you by granting your wishes or something?
+
+
+95 3415:3415 Astronomer's Observatory Telescope
+
+(Character: Kagamine Len)
+
+Len: You can see the stars with this?!
+Len: That's awesome, I wanna see too! Hey, how do you use it? Do you just look through it?
+
+
+96 3416:3416 Astronomer's Observatory Canopy Bed
+
+(Character: Kagamine Len)
+
+Len: W-Wow, this is incredible! It's so sparkly and, um, glamorous?
+Len: It's so fancy, I'm not sure I'd be able to sleep in it.
+
+
+97 3417:3417 Astronomer's Observatory Bookshelf
+
+(Character: Kagamine Len)
+
+Len: That's a lot of books. I'd like to give some a read, but I'm not so great with difficult books.
+Len: Oh, an astronomy photobook! Wow, I can't believe you have one of these!
+Len: You can enjoy photobooks just by looking. Maybe I'll borrow it.
+
+
+98 3418:3418 Astronomer's Observatory Celestial Globe
+
+(Character: Kagamine Len)
+
+Len: What's this? It's not a globe, is it?
+Len: A celestial globe...? Whoa, so it's a model of the night sky... I don't really understand, but it looks cool.
+
+
+99 3419:3419 Astronomer's Observatory Stack of Books
+
+(Character: Kagamine Len)
+
+Len: Ah man, there are so many books stacked up here...
+Len: I get that cleaning up is a pain, but if MEIKO sees this, she's going to get mad.
+
+
+100 3436:3436 Traveler's Campground Tent
+
+(Character: Kagamine Len)
+
+Len: What a cool tent! Man, I'd love to go camping with this.
+
+
+101 3437:3437 Traveler's Campground Chair
+
+(Character: Kagamine Len)
+
+Len: Oh, this chair folds up, huh?
+Len: Yeah, sitting on the ground all the time while you're camping would probably hurt your butt, so this would be really convenient.
+
+
+102 3438:3438 Traveler's Campground Table
+
+(Character: Kagamine Len)
+
+Len: Look at this fancy tablecloth! Guess it's part of the aesthetic.
+
+
+103 3439:3439 Traveler's Campground Campfire Meal
+
+(Character: Kagamine Len)
+
+Len: Nice. I wanna try cooking over a campfire too!
+Len: Wait, I have to gather sticks and start the fire myself...?
+Len: Uh... If you show me how, I could probably manage.
+
+
+104 3440:3440 Traveler's Campground Firewood
+
+(Character: Kagamine Len)
+
+Len: I'm kind of interested in chopping firewood... But I don't know if I can even swing an axe right.
+
+
+105 3441:3441 Traveler's Campground Snowman
+
+(Character: Kagamine Len)
+
+Len: Whoa, a snowman! Awesome!
+Len: Hey, where'd you get this snow? I wanna make a snowman too!
+
+
+106 3442:3442 Traveler's Campground Backpack
+
+(Character: Kagamine Len)
+
+Len: Whoa, this backpack is jam-packed. It looks really heavy.
+Len: Let's have someone strong carry it, like MEIKO, Luka or KAITO.
+
+
+107 3443:3443 Traveler's Campground Storage
+
+(Character: Kagamine Len)
+
+Len: So this is where you keep your tools, huh?
+Len: Oh, I'm actually pretty good at drying and putting away dishes.
+Len: I help MEIKO with it all the time!
+
+
+108 3444:3444 Traveler's Campground Kettle
+
+(Character: Kagamine Len)
+
+Len: I remember Toya saying the coffee he had when he went camping was really good.
+Len: I guess it tastes better when you boil the water over a campfire. Or maybe just being in nature makes it better.
+
+
+109 4682:4682 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: It's wild being able to visit a SEKAI other than Kohane and the others'.
+Len: But maybe there's a reason we ended up meeting like this!
+
+
+110 4683:4683 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Hey! I came to hang out.
+Len: I love chatting. Give me a call anytime!
+
+
+111 4684:4684 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: This place seems pretty huge... Going to the end and back must really take a lot out of you.
+
+
+112 4685:4685 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Having stuff to do every day must be tough.
+Len: Hmm, since I'm here, I wish there was a way I could help out.
+
+
+113 4686:4686 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: You might not see it yourself, but you've got this glow when you're working.
+Len: It's really nice to watch!
+
+
+114 4687:4687 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Seems like the weather here changes a lot.
+Len: Does it even rain in our SEKAI...?
+Len: Oh, but if anything's going to come down, I want it to be stars, not rain! I wanna see a meteor shower in our SEKAI.
+
+
+115 4688:4688 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Looks like you're working hard as usual. That's great, but it's important to take breaks too.
+Len: I'm just hanging out here. If you ever want some company, let me know.
+
+
+116 4689:4689 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: This SEKAI's perfect for just chilling outside, feeling the breeze and smelling the grass.
+Len: I wish we could have a green park like this in our SEKAI.
+
+
+117 4690:4690 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Come to think of it, you didn't seem too surprised by us being able to talk normally.
+Len: I mean, when Akito first met us, he said he must've been hallucinating.
+Len: Well, that was sort of funny, so it's fine.
+
+
+118 4691:4691 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Did you know Kohane had longer hair and wore glasses when we first met?
+Len: But she decided to sing with An and completely changed her look! That was pretty surprising.
+
+
+119 4692:4692 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: I once asked An for some tips on how to carry lots of drinks and plates at the same time for when I help out at MEIKO's cafe.
+Len: An's amazing! She can balance everything on her arms!
+Len: I can't do it like she can, but her advice was super helpful!
+
+
+120 4693:4693 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: I can juggle a soccer ball a little. Akito used to play, and he gave me some tips!
+Len: His juggling is incredible! He keeps it going for so long and is really good at using both the inside and outside of his feet.
+Len: It'd be so cool if I could move the ball like he does!
+
+
+121 4694:4694 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Toya drinks black coffee and reads complicated books. He's cool in a different sort of way than Akito.
+Len: I mean, doesn't he look smart? Well, he really is smart...
+Len: I want to try imitating him, but I'm not sure if I can pull it off.
+
+
+122 4695:4695 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Luka said our SEKAI is a concrete jungle.
+Len: But aren't jungles hot and full of trees and grass?
+
+
+123 4696:4696 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Miku, huh? She's a great singer, and she's cool and relaxed.
+Len: She's even pretty athletic. I've wondered if there's anything she can't do, but...
+Len: Actually, I'm not sure I should talk about her cooking since she doesn't consider herself bad at it.
+
+
+124 4697:4697 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Once, I asked MEIKO to make me a Salisbury steak with cheese inside.
+Len: She said that for pretty much anything that doesn't need special cookware, she can make it as long as she's got the ingredients and recipe.
+Len: If there's something you want to eat, you should ask MEIKO. She'll make you something great!
+
+
+125 4698:4698 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: I mentioned this before, but I DJ in our SEKAI.
+Len: KAITO helped me practice again today. I hope all my practice will pay off someday.
+
+
+126 4699:4699 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: I like milk and sugar in my coffee.
+Len: It's not that I can't do black coffee, I just end up wanting that milk and sugar halfway through drinking it.
+Len: Hmm. Maybe I'll need to grow up a little if I wanna drink it black.
+
+
+127 4700:4700 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Sometimes I get leftover desserts when I help out at MEIKO's cafe.
+Len: Oh, but it's not like I'm doing it just for that... I just see MEIKO working so hard and I want to help out.
+
+
+128 4701:4701 character_visit_count-1
+
+(Character: Kagamine Len)
+
+Len: Rin and I are partners, just like Kohane and An, and Akito and Toya.
+Len: We fight sometimes, but at the end of the day, the time I spend singing with Rin is when I have the most fun.
+
+
+129 4702:4702 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: Looks like you've really gotten used to this place. Happy to see it!
+Len: I come here a lot too, so I might be as used to it as you are.
+
+
+130 4703:4703 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: Maybe it's just me, but it feels like things are a little different every time I come back here.
+Len: Hehe, it's fun to look around and feel like I'm playing one of those "spot the difference" games.
+
+
+131 4704:4704 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: This SEKAI has gotten way more lively than when I first came here.
+Len: I can tell you've worked hard and discovered a lot of feelings!
+Len: I just happened to stumble in here, so I've got nothing to do with it, really. But I'm super happy for you!
+
+
+132 4705:4705 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: What I like...? Singing, DJing...and making fun of KAITO, I guess.
+Len: KAITO kind of gives off this vibe that he'll forgive anything, so I end up teasing him, joking around and relying on him for some things.
+Len: Oh, don't tell KAITO, okay? He probably already knows, but it's still embarrassing.
+
+
+133 4706:4706 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: I've been working really hard on singing and DJing lately!
+Len: Kohane and the others are working toward their goal of taking on the world, so I wanna do better too!
+
+
+134 4707:4707 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: Rin and I sometimes fight over leftover desserts at the cafe.
+Len: We usually settle it with rock paper scissors, but I've been losing a lot lately.
+Len: Hmm, maybe instead of playing rock paper scissors, we could take turns. Like, Rin gets it this time, I get it next time. Would that give me more chances to eat?
+
+
+135 4708:4708 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: Luka? Hmm, she's pretty carefree and goes at her own pace.
+Len: And sometimes she gets me involved in her little pranks. One time she asked me to hide in an alley and surprise Akito and Toya with her.
+
+
+136 4709:4709 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: KAITO's my DJ mentor. I really respect him...
+Len: But outside of DJing, he's kind of absent-minded, or ditzy.
+Len: I wish he could just stay cool all the time.
+
+
+137 4710:4710 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: I actually have dancing shoes. I've been secretly practicing.
+Len: I'm taking inspiration from the moves I saw Akito and Toya do at a festival and trying to add extra steps.
+Len: I wanna show you once I've gotten better at it.
+
+
+138 4711:4711 character_visit_count-5
+
+(Character: Kagamine Len)
+
+Len: Coming here has kind of become part of my daily routine.
+Len: I'm having fun, but what about you? I'm not a bother, am I?
+Len: Oh, good! Then I'll keep coming by to hang out!
+
+
+139 4712:4712 character_visit_count-8
+
+(Character: Kagamine Len)
+
+Len: How many times have I been here now?
+Len: Haha, I used to keep count, but I've totally lost track now! Guess that just means I've been coming a lot.
+
+
+140 4713:4713 character_visit_count-8
+
+(Character: Kagamine Len)
+
+Len: You've really opened up around me, in the best way. And the same goes for me!
+Len: That's gotta mean we're real friends now, right? Kinda embarrassing to say out loud, but it makes me happy.
+
+
+141 4714:4714 character_visit_count-8
+
+(Character: Kagamine Len)
+
+Len: Working hard again today, huh? Watching you gives me motivation! I can't lose to you!
+Len: Hmm? But if I'm hanging out here, doesn't that mean I'm goofing off? So if I want to get stuff done, I've gotta go back...
+Len: Wait, no way. What am I saying?! I mean, I can still practice singing here!
+
+
+142 4715:4715 character_visit_count-8
+
+(Character: Kagamine Len)
+
+Len: Huh... My ideal self?
+Len: Let's see... Someone who can drink black coffee, DJs really well and is great at sports and studying...
+Len: Oh, and when I sit at the counter, it'd be great if my feet didn't dangle.
+
+
+143 4716:4716 character_visit_count-8
+
+(Character: Kagamine Len)
+
+Len: Oh, who do I get along with best...?
+Len: Hmm... Probably Akito or Toya. I talk to them the most, and we just click!
+
+
+144 5028:5028 phenomena-Sunny, phenomena-Summer
+
+(Character: Kagamine Len)
+
+Len: Hey! The weather's amazing today!
+Len: I mean, it's usually sunny back in our SEKAI, so it's not exactly rare to me.
+Len: But still, if I'm gonna sing outside, a sunny day's definitely the best!
+
+
+145 5029:5029 phenomena-Dusk, phenomena-Night
+
+(Character: Kagamine Len)
+
+Len: What? It's this late already? I wanted to hang out some more...
+
+
+146 5030:5030 phenomena-Full Moon
+
+(Character: Kagamine Len)
+
+Len: Oh yeah, this one time I said the moon looked like a fancy melon bun, and Rin and KAITO totally laughed at me.
+Len: I mean, the moon's all crater-y and bumpy, but melon buns have those little rises instead of dents, so maybe that's why they laughed?
+Len: Wait, that's not why...? Hmm, I don't get it.
+
+
+147 5140:5140 phenomena-Rain, phenomena-Rainy Night
+
+(Character: Kagamine Len)
+
+Len: Some people say they hate the rain, but I think it's kinda nice.
+Len: There are a lot of cool songs about rain, don't you think?
+
+
+148 5141:5141 phenomena-Thunder
+
+(Character: Kagamine Len)
+
+Len: Gah, was that thunder?!
+Len: What are you doing spacing out there?
+Len: Akito told me all about this! Cover up your belly button or it's gonna get stolen!
+
+
+149 5142:5142 phenomena-Meteor Shower
+
+(Character: Kagamine Len)
+
+Len: Whoa! Look at all those shooting stars!
+Len: Hey, do you have a baseball glove or a butterfly net? I feel like I could actually catch one!
+
+
+150 5143:5143 phenomena-Snowy, phenomena-Snowy Night
+
+(Character: Kagamine Len)
+
+Len: Oh, hey. Toya taught me that snow is tiny bits of ice way up in the sky that make it down without melting.
+Len: You can't really see them, but snow's actually a whole bunch of tiny ice crystals stuck together!
+Len: I've got a pretty good memory, right? You've gotta admit, it's impressive!
+
+
+151 5569:5569 Rustic Japanese TV
+
+(Character: An Shiraishi, Kagamine Len)
+
+Len: This big boxy thing is a TV, right?
+An: Yup. It's hard to imagine if you've only seen modern TVs. My family's TV is super thin.
+Len: How thin is super thin? Like paper?
+An: Uh, no... Not that thin...
+
+
+152 5570:5570 Stack of CDs
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Akito: Huh, these CDs are all from different genres.
+Len: Yeah, you're right! Hmm... Maybe I should break out of my comfort zone and expand my music tastes.
+Akito: It's not a matter of "should"... But I guess listening to different genres can show you new perspectives.
+Akito: Why don't you ask to borrow some of these?
+Len: Or better yet, we should get our friend's recommendations. Let's ask them together.
+
+
+153 5571:5571 Moonlit Inn Paper Lantern
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: I've been calling this a "lamp", but "lantern" is more accurate, right?
+Toya: That's right. They were originally made by pasting paper onto a frame, then inserting a candle or a wick soaked in oil.
+Len: Wow! Toya, you know so much about this stuff!
+Toya: I just learned about it from history class and a book that I once read.
+Len: Oh, I see.
+Len: (That's kinda cool... Maybe I should read a book or two sometime.)
+
+
+154 5573:5573 Relaxed Alarm Clock
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Len: Do you think Akito and the others have alarm clocks like this?
+Miku: Hmm... They can set alarms on their phones, so I think they probably all just use that.
+Len: Oh, you're right. I think I remember them talking about setting them to songs they like!
+Len: I'm gonna ask them what songs they all use!
+
+
+155 5589:5589 Natural Sofa
+
+(Character: Kohane Azusawa, Kagamine Len)
+
+Len: This SEKAI is so big. I bet you there's a secret base somewhere.
+Kohane: You think our host built a secret base? They don't seem like the type to do something like that.
+Len: It's a secret, so of course they wouldn't seem that way! Take me and Rin, we get up to all sorts of— Ack!
+Kohane: Huh?
+Len: Nothing, nothing, never you mind! Hahaha, have a great day!
+
+
+156 5590:5590 Natural Sofa
+
+(Character: An Shiraishi, Kagamine Len)
+
+Len: I just remembered something. When I came here at night one time, I heard this sudden rustling in the grass.
+Len: I figured it was the wind, so I didn't think anything of it at first. But then I heard a voice calling my name.
+An: What...?! Y-You don't mean...a ghost...?
+Len: Nope, it was Miku. Her clothes were caught in the bushes, and she was worried she was gonna snap some branches if she fought her way out.
+An: O-Ohh, I see... Phew, I was about to get too afraid to come back here.
+
+
+157 5591:5591 Natural Sofa
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Len: Hey, Akito. Let's ask if we can play soccer here.
+Akito: There's probably enough space for it... But I can already see the ball hitting some of our host's furniture.
+Len: We can go somewhere else and do it! Y'know, like at that bridge or somewhere!
+Akito: And then the ball might shoot off to somewhere we'll never get it back...
+Akito: Let's practice some more in our SEKAI first, okay?
+
+
+158 5592:5592 Natural Sofa
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: Hey, Toya. What's the appeal of black coffee?
+Toya: Let me think... More than anything, I think it's being able to appreciate the flavor of the coffee itself.
+Len: The flavor of the coffee itself... Hmm... I wanna appreciate it too, but it's harder than I thought.
+Toya: There's no need to rush. It's like mastering a difficult song. It takes time and practice to learn more and grow accustomed to it.
+Len: Oh, I see! Huh, so it's just like practicing.
+Toya: Precisely. Take as much time as you need to get used to the flavor on your terms.
+
+
+159 5593:5593 Natural Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+160 5594:5594 Natural Sofa
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Miku: This SEKAI really puts me at ease. I feel just as relaxed here as I do at MEIKO's cafe.
+Len: Me too. I guess the only thing this place doesn't have that the cafe does is...a lunch menu?
+Miku: Well, it wouldn't since it's not a cafe.
+Len: Hahaha, of course.
+
+
+161 5720:5720 Kid's Room Rocking Horse
+
+(Character: Kohane Azusawa, Kagamine Len)
+
+Len: Did you ever play on one of these as a kid, Kohane?
+Kohane: A little... But my mom says the rocking scared me so much that I'd get off as soon as she put me on it.
+Len: I guess it might be scary for a little kid.
+Len: What about now? You're not afraid of a little rocking any more, right?
+Kohane: That's true... But rocking horses are for small children, so it'd be a little odd for a high schooler to sit on one.
+
+
+162 5721:5721 Cozy Picnic Bicycle
+
+(Character: Kagamine Len, MEIKO)
+
+MEIKO: Bikes make it so easy to get around. Imagine how convenient it would be to have them in our SEKAI.
+Len: Yeah! I could go somewhere far away to practice and still zip back to your cafe to take a breather.
+Len: And we could easily track down Luka and KAITO when they disappear!
+MEIKO: Yes. But if they had bikes too, I think we'd never find them...
+Len: Oh... Y-You're right...
+
+
+163 5750:5746 Cozy Picnic Tree
+
+(Character: Kagamine Len)
+
+Len: Huh, you've got decorations set up. Is something going on?
+Len: Wait, a picnic?! Count me in! I'll ask MEIKO to pack us a lunch!
+Len: Alright! Hehe, what kind of lunch should I ask for?
+
+
+164 5887:5883 Soccer Ball
+
+(Character: Kagamine Len)
+
+Len: Hey, you've got a soccer ball! Do you play?
+Len: Akito taught me how to juggle a soccer ball, so I'm pretty good at that!
+
+
+165 5892:5888 Baseball Bat and Glove
+
+(Character: Kagamine Len)
+
+Len: You have stuff for baseball! Oh, but there's only one glove...
+Len: I really want to try playing catch! You know, where you start out close and move further and further away!
+Len: I wonder how far apart we'd be able to get? Imagine if we could keep it going all the way to the very ends of this SEKAI!
+
+
+166 5951:5947 Raijin Festival Shrine Gate
+
+(Character: Kagamine Len)
+
+Len: So this is a shrine gate.
+Len: Akito and the others showed me one when they went on their New Year's shrine visit. They really are big, huh?
+
+
+167 6024:5589~ Refined Continental Sofa
+
+(Character: Kohane Azusawa, Kagamine Len)
+
+Len: This SEKAI is so big. I bet you there's a secret base somewhere.
+Kohane: You think our host built a secret base? They don't seem like the type to do something like that.
+Len: It's a secret, so of course they wouldn't seem that way! Take me and Rin, we get up to all sorts of— Ack!
+Kohane: Huh?
+Len: Nothing, nothing, never you mind! Hahaha, have a great day!
+
+
+168 6025:5590~ Refined Continental Sofa
+
+(Character: An Shiraishi, Kagamine Len)
+
+Len: I just remembered something. When I came here at night one time, I heard this sudden rustling in the grass.
+Len: I figured it was the wind, so I didn't think anything of it at first. But then I heard a voice calling my name.
+An: What...?! Y-You don't mean...a ghost...?
+Len: Nope, it was Miku. Her clothes were caught in the bushes, and she was worried she was gonna snap some branches if she fought her way out.
+An: O-Ohh, I see... Phew, I was about to get too afraid to come back here.
+
+
+169 6026:5591~ Refined Continental Sofa
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Len: Hey, Akito. Let's ask if we can play soccer here.
+Akito: There's probably enough space for it... But I can already see the ball hitting some of our host's furniture.
+Len: We can go somewhere else and do it! Y'know, like at that bridge or somewhere!
+Akito: And then the ball might shoot off to somewhere we'll never get it back...
+Akito: Let's practice some more in our SEKAI first, okay?
+
+
+170 6027:5592~ Refined Continental Sofa
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: Hey, Toya. What's the appeal of black coffee?
+Toya: Let me think... More than anything, I think it's being able to appreciate the flavor of the coffee itself.
+Len: The flavor of the coffee itself... Hmm... I wanna appreciate it too, but it's harder than I thought.
+Toya: There's no need to rush. It's like mastering a difficult song. It takes time and practice to learn more and grow accustomed to it.
+Len: Oh, I see! Huh, so it's just like practicing.
+Toya: Precisely. Take as much time as you need to get used to the flavor on your terms.
+
+
+171 6028:5593~ Refined Continental Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+172 6029:5594~ Refined Continental Sofa
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Miku: This SEKAI really puts me at ease. I feel just as relaxed here as I do at MEIKO's cafe.
+Len: Me too. I guess the only thing this place doesn't have that the cafe does is...a lunch menu?
+Miku: Well, it wouldn't since it's not a cafe.
+Len: Hahaha, of course.
+
+
+173 6045:5589~ Vibrant Unison Sofa
+
+(Character: Kohane Azusawa, Kagamine Len)
+
+Len: This SEKAI is so big. I bet you there's a secret base somewhere.
+Kohane: You think our host built a secret base? They don't seem like the type to do something like that.
+Len: It's a secret, so of course they wouldn't seem that way! Take me and Rin, we get up to all sorts of— Ack!
+Kohane: Huh?
+Len: Nothing, nothing, never you mind! Hahaha, have a great day!
+
+
+174 6046:5590~ Vibrant Unison Sofa
+
+(Character: An Shiraishi, Kagamine Len)
+
+Len: I just remembered something. When I came here at night one time, I heard this sudden rustling in the grass.
+Len: I figured it was the wind, so I didn't think anything of it at first. But then I heard a voice calling my name.
+An: What...?! Y-You don't mean...a ghost...?
+Len: Nope, it was Miku. Her clothes were caught in the bushes, and she was worried she was gonna snap some branches if she fought her way out.
+An: O-Ohh, I see... Phew, I was about to get too afraid to come back here.
+
+
+175 6047:5591~ Vibrant Unison Sofa
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Len: Hey, Akito. Let's ask if we can play soccer here.
+Akito: There's probably enough space for it... But I can already see the ball hitting some of our host's furniture.
+Len: We can go somewhere else and do it! Y'know, like at that bridge or somewhere!
+Akito: And then the ball might shoot off to somewhere we'll never get it back...
+Akito: Let's practice some more in our SEKAI first, okay?
+
+
+176 6048:5592~ Vibrant Unison Sofa
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: Hey, Toya. What's the appeal of black coffee?
+Toya: Let me think... More than anything, I think it's being able to appreciate the flavor of the coffee itself.
+Len: The flavor of the coffee itself... Hmm... I wanna appreciate it too, but it's harder than I thought.
+Toya: There's no need to rush. It's like mastering a difficult song. It takes time and practice to learn more and grow accustomed to it.
+Len: Oh, I see! Huh, so it's just like practicing.
+Toya: Precisely. Take as much time as you need to get used to the flavor on your terms.
+
+
+177 6049:5593~ Vibrant Unison Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+178 6050:5594~ Vibrant Unison Sofa
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Miku: This SEKAI really puts me at ease. I feel just as relaxed here as I do at MEIKO's cafe.
+Len: Me too. I guess the only thing this place doesn't have that the cafe does is...a lunch menu?
+Miku: Well, it wouldn't since it's not a cafe.
+Len: Hahaha, of course.
+
+
+179 6129:3414~ Raijin Festival Left-Facing Fox Statue
+
+(Character: Kagamine Len)
+
+Len: Wow, so this fox is a divine messenger...?
+Len: Does that mean that if you do something nice for it, the deity will reward you by granting your wishes or something?
+
+
+180 6140:5966 Raijin Festival Pond
+
+(Character: Kagamine Len)
+
+Len: Wow, it's a pond! And there's even a bridge over it!
+Len: Hey! Could I try swimming in—
+Len: It's not a pond for swimming? Aww... Okay, I'll just look at it, then.
+
+
+181 6183:6009 Basketball
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: Akito's taught me a little about soccer, but who should I ask to learn about basketball?
+Toya: Hmm... I think Akito is good at basketball too, but of the four of us, I think Shiraishi would be best.
+Toya: She's filled in for players in the basketball club plenty of times.
+Len: Wow, really? Then I'll have to ask her how to dribble with style and how to shoot better too!
+
+
+182 6217:1777~ Garden Flower Bed (Poppy)
+
+(Character: Kagamine Len)
+
+Len: Flowers change the vibe of a space a bit. They make things feel brighter. Happier, even.
+Len: I know! I should ask MEIKO about putting some more flower beds around her cafe!
+
+
+183 6238:1777~ Garden Flower Bed (Cosmos)
+
+(Character: Kagamine Len)
+
+Len: Flowers change the vibe of a space a bit. They make things feel brighter. Happier, even.
+Len: I know! I should ask MEIKO about putting some more flower beds around her cafe!
+
+
+184 6259:1777~ Garden Flower Bed (Lavender)
+
+(Character: Kagamine Len)
+
+Len: Flowers change the vibe of a space a bit. They make things feel brighter. Happier, even.
+Len: I know! I should ask MEIKO about putting some more flower beds around her cafe!
+
+
+185 6281:1780~ Garden Lattice Planter (Poppy)
+
+(Character: Kagamine Len)
+
+Len: Huh... This board attached to the flower bed... Is it for ivy and morning glories and stuff?
+Len: I hope they grow tall and healthy!
+
+
+186 6303:1780~ Garden Lattice Planter (Cosmos)
+
+(Character: Kagamine Len)
+
+Len: Huh... This board attached to the flower bed... Is it for ivy and morning glories and stuff?
+Len: I hope they grow tall and healthy!
+
+
+187 6325:1780~ Garden Lattice Planter (Lavender)
+
+(Character: Kagamine Len)
+
+Len: Huh... This board attached to the flower bed... Is it for ivy and morning glories and stuff?
+Len: I hope they grow tall and healthy!
+
+
+188 6346:1783~ Garden Wheelbarrow (Poppy)
+
+(Character: Kagamine Len)
+
+Len: Whoa! You planted flowers right in this wheelbarrow! That's kinda cool!
+Len: Wait a sec, you didn't just plant them here because you didn't feel like hauling the dirt to the flower bed, right?
+
+
+189 6364:1783~ Garden Wheelbarrow (Cosmos)
+
+(Character: Kagamine Len)
+
+Len: Whoa! You planted flowers right in this wheelbarrow! That's kinda cool!
+Len: Wait a sec, you didn't just plant them here because you didn't feel like hauling the dirt to the flower bed, right?
+
+
+190 6382:1783~ Garden Wheelbarrow (Lavender)
+
+(Character: Kagamine Len)
+
+Len: Whoa! You planted flowers right in this wheelbarrow! That's kinda cool!
+Len: Wait a sec, you didn't just plant them here because you didn't feel like hauling the dirt to the flower bed, right?
+
+
+191 6395:6038 read_event_story-163
+
+(Character: Kagamine Len)
+
+Len: The trees here aren't turning black or getting sick, are they?
+Len: Oh, it's nothing! It's just, this weird thing happened in our SEKAI recently...
+Len: But if you see anything that doesn't look right here, tell us, okay! We're here for you!
+
+
+192 6497:6140 Colorful Atelier Dresser
+
+(Character: Kagamine Len)
+
+Len: This is one colorful dresser!
+Len: What are these symbols on the bottom? They're like some kind of secret code... Cool!
+
+
+193 6498:6141 Colorful Atelier Easel
+
+(Character: Kagamine Len)
+
+Len: Oh, did you paint a rainbow?
+Len: Oh, but I guess if that was it, it'd be more of an arch shape. Hmm... What is it, then?
+
+
+194 6499:6142 Colorful Atelier Desk
+
+(Character: Kagamine Len)
+
+Len: There's a lot of graffiti art in our SEKAI.
+Len: It's mostly designs made out of letters. We even did some ourselves with Akito and the others!
+
+
+195 6500:6143 Colorful Atelier Shelf
+
+(Character: Kagamine Len)
+
+Len: Wow, there's a lot of stuff on here! Even some tools I've never seen before.
+Len: What's in this case on the bottom? Anything fun?
+
+
+196 6537:6180 phenomena-Rainbow
+
+(Character: Kagamine Len)
+
+Len: Wow, look at that rainbow!
+Len: I've seen them in videos and stuff, but wow, it's so pretty in real life. It really has impact.
+
+
+197 6673:6316 Resort Inner Tubes
+
+(Character: Kagamine Len)
+
+Len: Huh, these inner tubes all have different patterns.
+Len: Oh, what are those other things... Like, crocodiles and sharks you can ride on. Right, those are called floats!
+Len: If we're gonna play in the pool, that's what I want to ride on!
+
+
+198 6674:6317 Resort Parasol
+
+(Character: Kagamine Len)
+
+Len: This juice is pretty. What do you call this, again? Topical fruit juice?
+Len: Hmm, no, that's not quite right.
+Len: Wait, hang on! It's right on the tip of my tongue! I got this! It's, uh...
+
+
+199 6675:6318 Resort Pool
+
+(Character: Kagamine Len)
+
+Len: You have a pool?! Would it be okay for us to use it too?
+Len: Wow, thanks! I need to go get my swimsuit and a towel!
+Len: And then I should warm up before I get in, right? Hehehe. Don't worry, everyone knows that!
+
+
+200 6676:6319 Resort Hot Tub
+
+(Character: Kagamine Len)
+
+Len: This is one of those bubbly baths, right?
+Len: I wonder if you end up feeling like the veggies in a stew pot, with all that bubbly water!
+
+
+201 6677:6320 Resort Hammock
+
+(Character: Kagamine Len)
+
+Len: I don't really know why, but hammocks feel really cool to me.
+Len: I wonder why. Maybe because I don't see them a lot?
+
+
+202 6678:6321 Resort Coffee Table
+
+(Character: Kagamine Len)
+
+Len: Whoa, what's with this table? There are shells and stuff in here!
+Len: Oh, I see... This is what people call chic, huh.
+Len: But how did you get all that stuff in there? That's what I'm wondering about.
+
+
+203 6737:5589~ Resort Sofa
+
+(Character: Kohane Azusawa, Kagamine Len)
+
+Len: This SEKAI is so big. I bet you there's a secret base somewhere.
+Kohane: You think our host built a secret base? They don't seem like the type to do something like that.
+Len: It's a secret, so of course they wouldn't seem that way! Take me and Rin, we get up to all sorts of— Ack!
+Kohane: Huh?
+Len: Nothing, nothing, never you mind! Hahaha, have a great day!
+
+
+204 6738:5590~ Resort Sofa
+
+(Character: An Shiraishi, Kagamine Len)
+
+Len: I just remembered something. When I came here at night one time, I heard this sudden rustling in the grass.
+Len: I figured it was the wind, so I didn't think anything of it at first. But then I heard a voice calling my name.
+An: What...?! Y-You don't mean...a ghost...?
+Len: Nope, it was Miku. Her clothes were caught in the bushes, and she was worried she was gonna snap some branches if she fought her way out.
+An: O-Ohh, I see... Phew, I was about to get too afraid to come back here.
+
+
+205 6739:5591~ Resort Sofa
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Len: Hey, Akito. Let's ask if we can play soccer here.
+Akito: There's probably enough space for it... But I can already see the ball hitting some of our host's furniture.
+Len: We can go somewhere else and do it! Y'know, like at that bridge or somewhere!
+Akito: And then the ball might shoot off to somewhere we'll never get it back...
+Akito: Let's practice some more in our SEKAI first, okay?
+
+
+206 6740:5592~ Resort Sofa
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: Hey, Toya. What's the appeal of black coffee?
+Toya: Let me think... More than anything, I think it's being able to appreciate the flavor of the coffee itself.
+Len: The flavor of the coffee itself... Hmm... I wanna appreciate it too, but it's harder than I thought.
+Toya: There's no need to rush. It's like mastering a difficult song. It takes time and practice to learn more and grow accustomed to it.
+Len: Oh, I see! Huh, so it's just like practicing.
+Toya: Precisely. Take as much time as you need to get used to the flavor on your terms.
+
+
+207 6741:5593~ Resort Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+208 6742:5594~ Resort Sofa
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Miku: This SEKAI really puts me at ease. I feel just as relaxed here as I do at MEIKO's cafe.
+Len: Me too. I guess the only thing this place doesn't have that the cafe does is...a lunch menu?
+Miku: Well, it wouldn't since it's not a cafe.
+Len: Hahaha, of course.
+
+
+209 6860:6427 Garage Tool Rack
+
+(Character: Kagamine Len)
+
+Len: There's a lot of stuff on this shelf. Why's this cardboard box taped up, though?
+Len: Wait... Do you have failed tests or other embarrassing things hidden in there?!
+Len: I see, I see. Don't worry! I won't peek!
+
+
+210 6861:6428 Garage Car
+
+(Character: Kagamine Len)
+
+Len: Wow, it's a convertible! Does it run? Can I drive it?
+Len: Aww, it doesn't move? That's too bad...
+Len: Oh, but if it doesn't move, no one will scold me if I sit in the driver's seat, right? Hooray!
+
+
+211 6862:6429 Garage Motorbike
+
+(Character: Kagamine Len)
+
+Len: This cute kind of bike is okay, I guess, but I like the cooler ones better.
+Len: Not that I know much about motorcycles anyway!
+
+

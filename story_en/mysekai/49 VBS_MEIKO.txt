@@ -1,0 +1,1756 @@
+1 93:93 Vibrant Unison Dresser
+
+(Character: MEIKO)
+
+MEIKO: This dresser really draws your attention, doesn't it? I like how cool and imposing it is.
+
+
+2 94:94 Vibrant Unison Bed
+
+(Character: MEIKO)
+
+MEIKO: It's important to get a good night's rest if you want to have energy the next day. That goes for you too, okay?
+
+
+3 95:95 Vibrant Unison Table
+
+(Character: MEIKO)
+
+MEIKO: Just look at this table. I especially love the color.
+MEIKO: Maybe I should add one or two to my own cafe to spice things up?
+
+
+4 96:96 Vibrant Unison Rug
+
+(Character: MEIKO)
+
+MEIKO: You've made sure to put down a rug. I think that's really important.
+MEIKO: It keeps the floor from getting scratched, and it acts as a good visual accent.
+
+
+5 228:228 Stereo System
+
+(Character: MEIKO)
+
+MEIKO: What an amazing sound system. This might even be better than what we have at my shop.
+
+
+6 229:229 Record Player
+
+(Character: MEIKO)
+
+MEIKO: Isn't it great to be able to listen to music on vinyl?
+MEIKO: You know, you can even decorate your walls with record jackets. You should really give it a try.
+
+
+7 230:230 Simple Desktop Computer
+
+(Character: MEIKO)
+
+MEIKO: Huh! So you can even use a computer in this SEKAI. Seems handy for all kinds of shopping.
+MEIKO: Of course, my SEKAI might be a little more peaceful without one...
+MEIKO: You see, we have two troublemakers... I can see them buying everything they want without a second thought.
+
+
+8 231:231 Gate
+
+(Character: MEIKO)
+
+MEIKO: Hm. So we came here through this gate?
+MEIKO: I feel powerful emotions coming from it. I can't tell who they belong to, though, or what kind of feelings they are...
+MEIKO: It doesn't seem bad, though. So don't worry about that.
+
+
+9 1844:1844 Natural Dresser
+
+(Character: MEIKO)
+
+MEIKO: This dresser looks so convenient to use. But, isn't it a little small, even if just for one person?
+MEIKO: You're not stuffing it full of clothes, are you? Be careful, they'll start losing their shape if you cram them in too tight.
+
+
+10 1845:1845 Natural Bed
+
+(Character: MEIKO)
+
+MEIKO: That bed looks comfortable. I bet the sheets and blankets must feel good against your skin.
+MEIKO: Heh. If I was to get in and close my eyes, I might fall asleep before I know it.
+
+
+11 1846:1846 Natural Dining Table
+
+(Character: MEIKO)
+
+MEIKO: What a solid-looking table. I really like it.
+MEIKO: I wanted the cafe's tables to look as sleek as possible, so I chose ones held up by just a single pole instead of legs.
+MEIKO: Personally, though, I like this kind of really sturdy table too.
+
+
+12 1847:1847 Natural Bookshelf
+
+(Character: MEIKO)
+
+MEIKO: What a lovely bookshelf. You've even put a plant on it.
+MEIKO: I've put some plants that Miku looks after on my cafe's counter, you know.
+MEIKO: There's just something calming about having some greenery around, isn't there?
+
+
+13 1848:1848 Natural Closet
+
+(Character: MEIKO)
+
+MEIKO: Wow, what a closet. Knowing you, I'm sure your clothes are neatly stored awa—
+MEIKO: Hm? Why are you looking away like that?
+MEIKO: You're unbelievable. I won't look inside, but promise me you'll tidy it up as much as you can?
+
+
+14 1849:1849 Natural LCD TV
+
+(Character: MEIKO)
+
+MEIKO: Wow, so you even get TV reception in this SEKAI? Len's going to be overjoyed.
+MEIKO: Oh, but just let me know if you can't manage to tear Len away from the TV. I'll come and take him home.
+
+
+15 1850:1850 Stove
+
+(Character: MEIKO)
+
+MEIKO: Wow, three burners? Do you like cooking too?
+MEIKO: What's your signature dish? I'm pretty good at making Western food like pasta and Salisbury steak.
+
+
+16 1851:1851 Sink
+
+(Character: MEIKO)
+
+MEIKO: I can't help but feel a sense of respect when I see a sink that looks this clean.
+MEIKO: I wonder why that is. Maybe because it shows that you know just how important it is to clean up?
+
+
+17 1852:1852 Refrigerator
+
+(Character: MEIKO)
+
+MEIKO: Just think of how much could fit in this fridge. Is the bottom part a freezer?
+MEIKO: You want to know what the cafe's refrigerator is like? Well, I think it's bigger than this.
+MEIKO: It isn't exactly full because of how big it is, but the freezer is always stuffed. Because certain people won't stop filling it with ice cream...
+
+
+18 1853:1853 Cutting Board
+
+(Character: MEIKO)
+
+MEIKO: Oh, are you cooking?
+MEIKO: I'd be happy to help if you want. What were you making?
+
+
+19 1854:1854 Spice Rack
+
+(Character: MEIKO)
+
+MEIKO: Just look how tidily arranged these are. It looks so easy to access the ones you use the most.
+MEIKO: It's clear that someone's good at storing things when they're also thinking about making them as convenient as possible to get out and use again.
+
+
+20 1855:1855 Stacked Dinnerware
+
+(Character: MEIKO)
+
+MEIKO: They've all been cleaned and put away. I'd expect no less.
+MEIKO: Actually, do you have a cupboard for these? I can help you put them back.
+
+
+21 1856:1856 Coffee Maker
+
+(Character: MEIKO)
+
+MEIKO: Coffee makers really are an incredible piece of technology.
+MEIKO: Anyone can easily drink fresh-brewed coffee as long as they have one of these.
+
+
+22 1857:1857 Toaster
+
+(Character: MEIKO)
+
+MEIKO: Oh, you have this kind of toaster?
+MEIKO: I've heard that they make toast come out perfect. Crispy on the outside and soft on the inside.
+
+
+23 1858:1858 Microwave
+
+(Character: MEIKO)
+
+MEIKO: There's so much you can do with multifunction microwaves like this. Aren't they convenient? I use mine all the time at the cafe.
+
+
+24 1859:1859 Bathroom Sink
+
+(Character: MEIKO)
+
+MEIKO: What a stylish sink. And it's so clean and tidy too.
+
+
+25 1860:1860 Washing Machine
+
+(Character: MEIKO)
+
+MEIKO: Ooh, a front load washing machine! Is this one of those units that even has a drying feature?
+MEIKO: There's more to wash than you'd expect at a cafe. Not just cups and plates, but cloths and towels too...
+MEIKO: Having one of these would be really nice.
+
+
+26 1861:1861 Handheld Vacuum
+
+(Character: MEIKO)
+
+MEIKO: Even small vacuums like this have a lot of power. I use mine all the time.
+
+
+27 1862:1862 Hair Dryer
+
+(Character: MEIKO)
+
+MEIKO: I've heard that hair dryers have all kinds of features these days. Like for scalp care, or to preserve your hair's moisture.
+MEIKO: Isn't that so strange, though? It's a dryer, but it preserves moisture.
+
+
+28 1863:1863 Garden Flower Bed
+
+(Character: MEIKO)
+
+MEIKO: What a beautiful flowerbed. It's like even the flowers blooming here seem happy.
+
+
+29 1864:1864 Garden Umbrella Table
+
+(Character: MEIKO)
+
+MEIKO: We have some outdoor seating at the cafe too. This kind of seating is nice too.
+MEIKO: Hmm... KAITO is pretty good with his hands. Maybe he could make some for us?
+
+
+30 1865:1865 Garden Bench
+
+(Character: MEIKO)
+
+MEIKO: It's great to have a place to rest. Thanks.
+
+
+31 1866:1866 Garden Lattice Planter
+
+(Character: MEIKO)
+
+MEIKO: What a lovely planter. You could even hang flowerpots from the lattice, and it'd be great to decorate it in different ways depending on the season.
+MEIKO: Just imagine all the fun you could have with this.
+
+
+32 1867:1867 Garden Potting Bench
+
+(Character: MEIKO)
+
+MEIKO: Look at all the different gardening tools here.
+MEIKO: And yet the whole thing is so clean and tidy... You'd expect a work area like this to be covered in dirt.
+MEIKO: I guess that shows how much you love keeping things clean?
+
+
+33 1868:1868 Garden Wheelbarrow
+
+(Character: MEIKO)
+
+MEIKO: This is a nice way to display flowers.
+MEIKO: Heh. You know, the wheelbarrow might look kind of unsophisticated on its own, but it looks adorable like this.
+
+
+34 1869:1869 Garden Watering Can
+
+(Character: MEIKO)
+
+MEIKO: You need to make sure to water your flowers well if you want them to bloom for as long as possible and stay healthy.
+MEIKO: It's not good to water them too much, though. Striking the right balance can be hard.
+
+
+35 1870:1870 Rustic Japanese Mirror
+
+(Character: MEIKO)
+
+MEIKO: I love these drawers.
+MEIKO: They're made so simply but still look so elegant. That's the mark of refined design.
+
+
+36 1871:1871 Rustic Japanese Low Table
+
+(Character: MEIKO)
+
+MEIKO: Oh, a traditional low table. Something about these feels so cozy, you know?
+MEIKO: I'd love to have one at my cafe if it had a section with tatami mats.
+
+
+37 1872:1872 Rustic Japanese TV
+
+(Character: MEIKO)
+
+MEIKO: This TV almost looks like an animal. It's got legs, and the antennas look like a pair of ears.
+MEIKO: You know, my cafe doesn't have anything like a dog or a cat for a mascot. Maybe if this TV started acting cute and moving around...
+MEIKO: Heh, I'm just kidding. I'd be shocked if a TV got up and started moving around, even in a SEKAI.
+
+
+38 1873:1873 Rustic Japanese Cupboard
+
+(Character: MEIKO)
+
+MEIKO: This Japanese-style shelf is lovely, but the wooden bear on it is adorable too.
+MEIKO: Oh, I know. How about putting away all your snacks in here?
+MEIKO: That way, if someone tries to sneak a few when you're not looking, this bear will be sure to glare at them for you.
+
+
+39 1874:1874 Rustic Japanese Kettle
+
+(Character: MEIKO)
+
+MEIKO: I actually have a kettle like this at my cafe.
+MEIKO: When it's hot out, don't you sometimes want some cold barley tea instead of a steaming cup of coffee or black tea?
+MEIKO: On days like that, I make barley tea in the kettle.
+
+
+40 1875:1875 Rustic Japanese Teapot
+
+(Character: MEIKO)
+
+MEIKO: Powdered green tea is handy, but I do prefer to make it using leaves and a teapot.
+MEIKO: Just that little bit of extra work makes the aroma and flavor so much more intense.
+
+
+41 1876:1876 Rustic Japanese Telephone
+
+(Character: MEIKO)
+
+MEIKO: What an unusual phone this is.
+MEIKO: The zipping noise it makes when you turn the dial and the clattering sound when it's returning are so unique.
+
+
+42 1877:1877 Rustic Japanese Lucky Cat
+
+(Character: MEIKO)
+
+MEIKO: Aww, what an adorable lucky cat.
+MEIKO: I hope it brings you lots of amazing encounters in your SEKAI.
+
+
+43 1878:1878 Relaxed Desk
+
+(Character: MEIKO)
+
+MEIKO: Oh, were you studying?
+MEIKO: You don't need to worry about me if you're busy right now.
+
+
+44 1879:1879 Relaxed Bookshelf
+
+(Character: MEIKO)
+
+MEIKO: Heh. Just look how many things you have on these shelves.
+MEIKO: Oh, don't worry. There's no need to have everything perfectly organized.
+MEIKO: This is fine as it is. It's easier to keep your room clean if you're not too stressed out about it.
+
+
+45 1880:1880 Relaxed Stack of Manga
+
+(Character: MEIKO)
+
+MEIKO: Are these manga just sitting out here?
+MEIKO: You should probably tidy them away whenever you can. It'd be awful if you stepped on your poor comics, both for you and them.
+
+
+46 1881:1881 Relaxed Handheld Game Console
+
+(Character: MEIKO)
+
+MEIKO: You know, Kohane and the others were playing a puzzle game earlier.
+MEIKO: They were having so much fun that I decided to take a little break and watch them for a while.
+
+
+47 1882:1882 Relaxed RC Car
+
+(Character: MEIKO)
+
+MEIKO: Oh, this is a toy car that you can drive around, right? I bet KAITO and Len would love it.
+
+
+48 1883:1883 Relaxed Alarm Clock
+
+(Character: MEIKO)
+
+MEIKO: Ah, this alarm clock feels a little nostalgic, doesn't it?
+MEIKO: It sounds like young people are more likely to use their smartphones as alarms these days.
+MEIKO: But are you maybe the type who also uses an alarm clock because you have trouble waking up with just your phone?
+
+
+49 1884:1884 Relaxed Beagle Plushie
+
+(Character: MEIKO)
+
+MEIKO: This dog plushie's so cute.
+MEIKO: Hehe, and it's even sitting. What good manners. Maybe I should make it my cafe's mascot.
+MEIKO: Though there might be people who like cats more... I could see Luka being that way.
+
+
+50 1885:1885 Relaxed Clothes Rack
+
+(Character: MEIKO)
+
+MEIKO: I see you've made sure to put your clothes on hangers.
+MEIKO: It might not seem like a big deal, but I think it's wonderful.
+
+
+51 1886:1886 Refined Continental Mirror
+
+(Character: MEIKO)
+
+MEIKO: What a stylish mirror. I bet you have so much fun checking out your outfit every day.
+
+
+52 1887:1887 Refined Continental Round Table
+
+(Character: MEIKO)
+
+MEIKO: I've never seen a table like this before.
+MEIKO: If I had one, I'd want any cushions next to it to look just as fashionable.
+
+
+53 1888:1888 Refined Continental Sofa
+
+(Character: MEIKO)
+
+MEIKO: The color of this sofa is so adorable.
+MEIKO: Just looking at it makes me want a space at my cafe that looks a little classy and cute.
+
+
+54 1889:1889 Refined Continental Bookshelf
+
+(Character: MEIKO)
+
+MEIKO: Bookshelves always seem so big and imposing. But maybe it wouldn't feel that way as much with shelves that look this cute.
+
+
+55 1890:1890 Refined Continental Table Lamp
+
+(Character: MEIKO)
+
+MEIKO: Small touches like this can bring so much style to a room.
+MEIKO: Heh. You know, I wish I could have you pick out decor like this for my cafe too.
+
+
+56 1891:1891 Refined Continental Coat Rack
+
+(Character: MEIKO)
+
+MEIKO: A rack like this must be so convenient. You could put your bag on it and pick it up again so easily.
+
+
+57 1892:1892 Refined Continental Fashion Magazines
+
+(Character: MEIKO)
+
+MEIKO: I bet you can find amazing clothes and furniture in magazines like this.
+MEIKO: Maybe I should ask An or Kohane to bring me some too.
+
+
+58 1893:1893 Refined Continental Vase
+
+(Character: MEIKO)
+
+MEIKO: Did you arrange these?
+MEIKO: Hehe. Flowers really do brighten up any room.
+
+
+59 1894:1894 Refined Continental Scented Candles
+
+(Character: MEIKO)
+
+MEIKO: My goodness, I was wondering what that amazing smell was. It was these scented candles.
+MEIKO: What aroma could it be, though...? It's a little sweet, and even a little refined and refreshing. Kind of like a rose.
+
+
+60 1895:1895 Refined Continental Tea Set
+
+(Character: MEIKO)
+
+MEIKO: Is that black tea? Yes, I like it.
+MEIKO: I usually make and drink coffee at the cafe, but if I'm being honest, I like tea just as much as I like coffee.
+MEIKO: Sometimes I even work hard to make the perfect cup of milk tea all for myself.
+
+
+61 1896:1896 Water Dispenser
+
+(Character: MEIKO)
+
+MEIKO: Having hot water whenever you need it is so convenient. I bet it saves time when you're cooking too.
+
+
+62 1897:1897 Yoga Mat
+
+(Character: MEIKO)
+
+MEIKO: You know, I'm actually a little interested in yoga myself.
+MEIKO: I'm on my feet all day running my cafe, right? So I've been thinking that doing yoga after work might help me feel refreshed.
+MEIKO: Could you let me know if you have any suggested poses?
+
+
+63 1898:1898 Ab Wheel
+
+(Character: MEIKO)
+
+MEIKO: What was this for again? Exercising your abdominal muscles?
+MEIKO: What? Me? You know, I've never really thought much about how strong I am.
+MEIKO: I mean, I'm able to open slightly stuck jars... But I guess that's about arm strength, not your core.
+
+
+64 1899:1899 Exercise Ball
+
+(Character: MEIKO)
+
+MEIKO: Don't you just love the way a balance ball jiggles under you when you sit on one?
+MEIKO: It feels like my entire body relaxes when I'm doing that.
+
+
+65 1900:1900 Treadmill
+
+(Character: MEIKO)
+
+MEIKO: Having this must be so convenient. You can exercise whenever you want.
+MEIKO: I'm sure you'll see great results if you stick to it, so don't give up!
+
+
+66 1901:1901 Exercise Bike
+
+(Character: MEIKO)
+
+MEIKO: I've heard that stationary bikes are easier on your body than running.
+MEIKO: I don't know exactly how much easier it is on you, but if that's the case, it might not be as hard to make a habit out of using one of these.
+
+
+67 1902:1902 Dumbbells
+
+(Character: MEIKO)
+
+MEIKO: I'm constantly shaking frying pans when I make lunch, so I do feel a little confident when it comes to arm strength.
+MEIKO: Oh, but I generally use my left hand for that. So maybe it's just my left arm that's strong?
+
+
+68 1903:1903 Claw Machine
+
+(Character: MEIKO)
+
+MEIKO: Toya is good at crane games, if I remember right.
+MEIKO: I don't have any idea how to get this stuffed toy, but I'm sure Toya could come up with a strategy and do it in no time.
+
+
+69 1904:1904 Puyo Puyo Champions Machine
+
+(Character: MEIKO)
+
+MEIKO: I've only heard stories about it, but apparently Toya is amazing at this game.
+MEIKO: It does seem like a lot of fun. I wonder if I'd be good at it too.
+
+
+70 1905:1905 Print Sticker Machine
+
+(Character: MEIKO)
+
+MEIKO: This looks like so much fun. Not only can you take pictures with your friends, but you can even doodle on them too.
+MEIKO: I've heard you only have a limited amount of time, though? I could see getting flustered and messing it up if you're not familiar with these.
+
+
+71 1906:1906 CHUNITHM Machine
+
+(Character: MEIKO)
+
+MEIKO: Huh, so you tap it here in time to the music? I'd like to hear what kind of songs it has, so maybe I'll give it a try.
+MEIKO: I might not be any good at all, but would you be willing to cheer me on?
+
+
+72 1907:1907 Anthurium
+
+(Character: MEIKO)
+
+MEIKO: These flowers... Are they anthuriums?
+MEIKO: I recall hearing that they bloom for a long time, which is why people love using them as decorative flowers.
+
+
+73 1908:1908 Monstera
+
+(Character: MEIKO)
+
+MEIKO: This is a monstera, right? I could tell right away from these distinctive leaves.
+MEIKO: It's such a great go-to ornamental plant, just like money trees and yuccas.
+
+
+74 1909:1909 Echeveria
+
+(Character: MEIKO)
+
+MEIKO: Potted plants like this are great since they don't need much space or care.
+MEIKO: I bet anyone would be able to keep it alive for a long time, even if they're someone who normally struggles to keep flowers from wilting.
+
+
+75 3445:3445 Cozy Picnic Blanket
+
+(Character: MEIKO)
+
+MEIKO: Oh, what a wonderful blanket. Planning on having a picnic sometime?
+
+
+76 3446:3446 Cozy Picnic Crate Table
+
+(Character: MEIKO)
+
+MEIKO: Hold on... Hehe, is this a wooden crate you're using as a table?
+MEIKO: What a smart way of using it.
+
+
+77 3447:3447 Cozy Picnic Tree Stump
+
+(Character: MEIKO)
+
+MEIKO: You can use a stump like this as a seat? I hope you don't mind me using it the next time I want to take a little break.
+
+
+78 3448:3448 Cozy Picnic Sandwich Box
+
+(Character: MEIKO)
+
+MEIKO: These sandwiches look so delicious.
+MEIKO: You've even put work into the presentation. I could serve these as-is at my cafe.
+
+
+79 3449:3449 Cozy Picnic Juice Pitcher
+
+(Character: MEIKO)
+
+MEIKO: I'm sure this tastes as refreshing as it looks.
+MEIKO: Hehe. I can practically smell the fresh fruit already.
+
+
+80 3450:3450 Cozy Picnic Basket
+
+(Character: MEIKO)
+
+MEIKO: Look at all the food stuffed in here.
+MEIKO: I understand, though. Of course you're going to bring bread to a picnic, and who wouldn't want dessert too?
+
+
+81 3451:3451 Cozy Picnic Flower Basket
+
+(Character: MEIKO)
+
+MEIKO: Did you grow all these flowers yourself? Or did you pick them somewhere?
+MEIKO: Either way, I'm sure it was a lot of work. Great job.
+
+
+82 3452:3452 Cozy Picnic Lunch Box
+
+(Character: MEIKO)
+
+MEIKO: What an amazing lunch box. I'm sure you could have such a great picnic with it.
+
+
+83 3453:3453 Cozy Picnic Thermos
+
+(Character: MEIKO)
+
+MEIKO: It's always important to stay hydrated, so it'd be great to carry something this convenient.
+
+
+84 3454:3454 Moonlit Inn Antique Dresser
+
+(Character: MEIKO)
+
+MEIKO: What classic Japanese elegance. I love just how solid and refined it feels.
+
+
+85 3455:3455 Moonlit Inn Futon
+
+(Character: MEIKO)
+
+MEIKO: You know, I feel like not as many people these days sleep in futons like this.
+MEIKO: It's kind of a pity. Do you think it's because more bedrooms have flooring these days, instead of tatami mats?
+
+
+86 3456:3456 Moonlit Inn Paper Lantern
+
+(Character: MEIKO)
+
+MEIKO: I like Western table lamps, of course, but the soft light created by this Japanese paper is so wonderful too.
+
+
+87 3457:3457 Moonlit Inn Folding Screen
+
+(Character: MEIKO)
+
+MEIKO: Oh, wow... Is that the moon? Along with some cherry blossoms?
+MEIKO: This sort of art is like the definition of refinement. I feel like staying here and appreciating it for a while.
+
+
+88 3458:3458 Moonlit Inn Bonsai Tree
+
+(Character: MEIKO)
+
+MEIKO: Is this bonsai yours? I never expected you to have a hobby like that.
+
+
+89 3459:3459 Moonlit Inn Vase
+
+(Character: MEIKO)
+
+MEIKO: What beautiful cherry blossoms. This alone would make any room sparkle.
+
+
+90 3460:3460 Raijin Festival Taiko
+
+(Character: MEIKO)
+
+MEIKO: Hehe. It's certainly a big taiko, but having a little storm deity on top like that makes for a cute design.
+
+
+91 3462:3462 Raijin Festival Cotton Candy Stall
+
+(Character: MEIKO)
+
+MEIKO: Is this cotton candy stall the only one serving food?
+MEIKO: Hmm, for a proper festival, I'd want to see chocolate-dipped bananas and caramel apples too at least... Maybe I'll make some up.
+
+
+92 3464:3464 Raijin Festival Pond
+
+(Character: MEIKO)
+
+MEIKO: What a nice pond and bridge. They're very refined.
+MEIKO: In spring, you can listen to the birds sing, and in summer, the cicadas... It's fun how things change with the seasons.
+
+
+93 3465:3465 Astronomer's Observatory Telescope
+
+(Character: MEIKO)
+
+MEIKO: You can use this to get a better look at the stars, right? Do you think you could teach me how to use it?
+
+
+94 3466:3466 Astronomer's Observatory Bookshelf
+
+(Character: MEIKO)
+
+MEIKO: Are these all books about the stars? Wow, there are so many.
+MEIKO: Heh, I bet you'll be an expert astronomer by the time you finish reading all of these.
+
+
+95 3467:3467 Astronomer's Observatory Box of Scrolls
+
+(Character: MEIKO)
+
+MEIKO: Are these scrolls? There are so many of them...
+MEIKO: It's nice that you can roll them up like this and save a little space.
+
+
+96 3468:3468 Astronomer's Observatory Celestial Globe
+
+(Character: MEIKO)
+
+MEIKO: I want to say this is called a celestial globe. Is that right?
+MEIKO: I'm sure it must be a tool used by astronomers, but I'm realizing that they make for good interior decoration too.
+
+
+97 3469:3469 Astronomer's Observatory Stack of Books
+
+(Character: MEIKO)
+
+MEIKO: Just look at how high this stack is. I'd like to tell you to clean it up, but, well...
+MEIKO: I'm sure it wouldn't be easy finding space for all these books. At least promise me you'll be careful not to bump into them and send them flying everywhere, okay?
+
+
+98 3470:3470 Astronomer's Observatory Table Lamp
+
+(Character: MEIKO)
+
+MEIKO: What a stylish lamp. You know, maybe my cafe could use...
+MEIKO: Actually, no. It'd really seem out of place and stand out.
+
+
+99 3488:3488 Traveler's Campground Tent
+
+(Character: MEIKO)
+
+MEIKO: I never knew they made adorable tents like this.
+MEIKO: I bet if we set up a campfire here and made some coffee, it'd taste amazing.
+
+
+100 3489:3489 Traveler's Campground Chair
+
+(Character: MEIKO)
+
+MEIKO: This chair is perfect for a short little break. Thank you.
+
+
+101 3490:3490 Traveler's Campground Table
+
+(Character: MEIKO)
+
+MEIKO: I like how handmade this feels. And the tablecloth makes it seem so nice and homey.
+
+
+102 3491:3491 Traveler's Campground Campfire Meal
+
+(Character: MEIKO)
+
+MEIKO: So this is what cooking over a campfire looks like.
+MEIKO: I'm sure that controlling the heat of the fire must be difficult, but that sounds fun in its own way.
+
+
+103 3492:3492 Traveler's Campground Snowman
+
+(Character: MEIKO)
+
+MEIKO: Hehe, this snowman looks so warm and cozy.
+MEIKO: We won't have to worry about him catching a cold, but he might end up melting from all your warm kindness.
+
+
+104 3493:3493 Traveler's Campground Backpack
+
+(Character: MEIKO)
+
+MEIKO: Wow, there's a lot inside this backpack. It must be pretty heavy.
+MEIKO: You need to be careful when you pick it up, okay? It'd be awful if you dropped it on your foot or something by accident.
+
+
+105 3494:3494 Traveler's Campground Storage
+
+(Character: MEIKO)
+
+MEIKO: I see, so this is where you usually store your camping goods?
+MEIKO: It's good to have a place for them. That makes it harder to misplace anything.
+
+
+106 3495:3495 Traveler's Campground Lantern
+
+(Character: MEIKO)
+
+MEIKO: It really does get so dark at night when you go camping. I remember it being like that when Kohane and the others went.
+MEIKO: So having the light of a campfire or a lamp does feel a little reassuring.
+
+
+107 4717:4717 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: I can feel so many thoughts and emotions inside of this SEKAI.
+MEIKO: I think all of them are just waiting for you to find them. You don't need to rush, but I hope you'll do that.
+
+
+108 4718:4718 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Hehe. We meet again.
+MEIKO: I was so shocked to discover I could go to another SEKAI. Who knows, maybe coming over to visit like this will be normal one day.
+
+
+109 4719:4719 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: All of the greenery in this place feels amazing.
+MEIKO: Miku or Len might have told you that our SEKAI isn't green at all.
+MEIKO: Heh. You know, even the air here seems to taste good to me.
+
+
+110 4720:4720 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: I wonder how far this SEKAI goes.
+MEIKO: Part of me wants to try exploring, but I think I'll pass. It'd be so embarrassing if I got lost.
+
+
+111 4721:4721 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: I know I'm coming over a lot. I hope I'm not being a nuisance...
+MEIKO: What's that? You're happy I'm here, and you look forward to seeing who comes to visit?
+MEIKO: Thank you. Hearing that is such a relief.
+
+
+112 4722:4722 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: This place feels so open and free, without any buildings to block your view.
+MEIKO: You can even bask in the sun. I bet this place is great for your health.
+
+
+113 4723:4723 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Hello there. I decided to come by and check things out since I had time at the cafe.
+MEIKO: Are you free right now? It'd be great if we could chat.
+
+
+114 4724:4724 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Looks like you're hard at work like always, huh?
+MEIKO: Do be careful not to work too hard, though. You need to take breaks, just like what I'm doing here while I have KAITO run the cafe.
+MEIKO: So be mindful about resting. You don't want to get to the point where you're consciously feeling tired.
+
+
+115 4725:4725 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: The cafe in our SEKAI always existed from the start, but Miku and I designed the interior.
+MEIKO: We wanted it to feel casual but a little stylish. That way, anyone can come in and relax.
+MEIKO: It'd be great if you could come visit someday.
+
+
+116 4726:4726 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Hm? What's on the menu? All kinds of things, both food and drinks.
+MEIKO: I'm even serving lunch now, for those growing kids. It's been a real hit.
+
+
+117 4727:4727 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Miku has helped out more than anyone at the cafe since the very start.
+MEIKO: We had a lot of free time in the beginning, so we'd drink coffee together and talk all the time.
+
+
+118 4728:4728 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Rin and Len get into fights at the drop of a hat, you know.
+MEIKO: Then again, they make up just as easily. If anything, the rest of us tend to be the ones who end up exhausted watching from the sidelines.
+
+
+119 4729:4729 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: By the way, Len isn't being selfish or a bother, is he?
+MEIKO: He's so quick to warm up to everyone, but that also means he starts acting familiar with you right away.
+MEIKO: Well, if you say so. That's good to hear.
+
+
+120 4730:4730 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Hm? What do I think about Luka? Well, to put it simply, I'd say she's free and does things at her own pace.
+MEIKO: Her being so laid back can be a problem sometimes, but I think she's a good role model for Kohane and the others when it comes to learning how to relax.
+
+
+121 4731:4731 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Have you heard about how KAITO is Len's DJ teacher now?
+MEIKO: Well, KAITO's actually something like my coffee teacher too.
+MEIKO: I don't know what sparked it, but he's more interested in coffee than just about anyone. There's so much about it that he knows.
+
+
+122 4732:4732 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: You want to know about Kohane and everyone? Well, they're all great kids.
+MEIKO: Not to mention how disciplined and devoted they are when it comes to practice. Sometimes I feel like they're a little too hard on themselves...
+MEIKO: But I think that also means that they'll always be able to stand up tall and sing, no matter what happens.
+
+
+123 4733:4733 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Kohane is a lot more self-confident compared to when I first met her.
+MEIKO: I was so shocked when she started wearing contacts and cut her hair short, but...
+MEIKO: Well, I guess that just goes to show the kind of guts she really has.
+
+
+124 4734:4734 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Oh, you want to know about An? Well, she really does care a lot about Kohane.
+MEIKO: She also looks out for everyone, so she's like a big sister to Rin and Len.
+MEIKO: One time, she told me that as an only child, she was jealous of people who had siblings. Maybe that's part of why she looks after those two.
+
+
+125 4735:4735 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Akito is such a hard worker. He's up late practicing all the time on his own, to the point where I have to tell him to go home.
+MEIKO: What else... He's a little embarrassed about it, but he does love his sweets.
+MEIKO: Just the other day, he came by the cafe and ordered pancakes because the pancake place he wanted to go to was closed.
+
+
+126 4736:4736 character_visit_count-1
+
+(Character: MEIKO)
+
+MEIKO: Toya laughs and smiles more than before. It wasn't long ago that he was so unexpressive that An would claim that his face muscles had atrophied.
+MEIKO: What did it? I guess it was when he understood his true feelings, along with reconciling with his dad.
+MEIKO: I really do think that Toya's father means a lot to him.
+
+
+127 4737:4737 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: I asked KAITO to run the shop again since I wanted to come over and relax.
+MEIKO: Though Luka is helping him out for a change instead of Rin or Len.
+MEIKO: Luka can get the job done when she tries, so I'm sure she's handling the floor like a pro right now.
+
+
+128 4738:4738 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: Looks like you're really starting to feel at home in this SEKAI.
+MEIKO: Heh. You know, I've also started getting used to having KAITO run the cafe.
+
+
+129 4739:4739 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: It feels like this SEKAI is a lot livelier compared to when I first came.
+MEIKO: I think that it'll make your SEKAI happy if you keep discovering more of your feelings.
+
+
+130 4740:4740 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: How should I spend my time here today?
+MEIKO: Do I relax at your place or go outside and enjoy nature? It's hard to pick one or the other.
+
+
+131 4741:4741 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: You know, I've come over so many times now. Maybe I should show my thanks by making you sandwiches sometime.
+MEIKO: And if you like coffee, I could make some for us to drink while we relax and chat too.
+
+
+132 4742:4742 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: Hm? What do I like? Well... Seeing everyone smile as they eat my cooking, I guess?
+MEIKO: It makes me so happy whenever someone tells me that they think my food is delicious.
+MEIKO: I hope that you also show your honest appreciation for people's cooking when you enjoy it.
+
+
+133 4743:4743 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: Oh, our SEKAI? You know, some people might even find it a little scary.
+MEIKO: There's graffiti all over the streets, and there's a kind of powerful energy in the air.
+MEIKO: But for someone who likes that sort of atmosphere, it's probably the kind of place they'd want to explore and find the parts they like best.
+
+
+134 4744:4744 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: There are a few seasonal menu items at the cafe, you know.
+MEIKO: The seasons never seem to change in our SEKAI, but I wanted to at least give the impression of that.
+MEIKO: So I make mochi dishes during New Year's, chirashi sushi during the Doll Festival and so on.
+
+
+135 4745:4745 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: The cafe's refrigerator is shared, so it has a lot of ingredients that we don't use at the cafe.
+MEIKO: Of course, it is pretty full of milk that KAITO uses to make ice cream, along with the fruit he uses as toppings.
+
+
+136 4746:4746 character_visit_count-5
+
+(Character: MEIKO)
+
+MEIKO: It's about time that I add a new dish to our menu, but what should it be?
+MEIKO: We have more than enough sweet dishes already, thanks to all of KAITO's requests. The lunch menu has gotten pretty long too.
+MEIKO: Oh, I know. Since Kohane and others are venturing out into the world, maybe I could learn more about food from different cultures.
+
+
+137 4747:4747 character_visit_count-8
+
+(Character: MEIKO)
+
+MEIKO: It gets livelier and livelier every time I come here.
+MEIKO: Hehe. I'm starting to understand what Len meant when he said it's like a spot-the-difference puzzle.
+
+
+138 4748:4748 character_visit_count-8
+
+(Character: MEIKO)
+
+MEIKO: But no matter how lively it gets, it's always as relaxing as the first time I came here.
+MEIKO: I have a feeling that that's only because of you.
+
+
+139 4749:4749 character_visit_count-8
+
+(Character: MEIKO)
+
+MEIKO: Hello there. I'm back to see how things are going again.
+MEIKO: Then again, it doesn't seem like there's anything for me to worry about. You've really gotten used to life here.
+MEIKO: I hope you'll let me keep on checking in with you, though.
+
+
+140 4750:4750 character_visit_count-8
+
+(Character: MEIKO)
+
+MEIKO: You want to know more about me? You know, maybe I haven't talked much about myself despite everything I've told you about the cafe.
+MEIKO: Where to start... Oh, so I have a red mug that I love using.
+MEIKO: It doesn't have a particularly special design or anything, but I really like its nice red color.
+
+
+141 4751:4751 character_visit_count-8
+
+(Character: MEIKO)
+
+MEIKO: Back when Kohane and the others started coming to SEKAI, I made sure to always stay holed up at the cafe, so I could be there to listen to their problems.
+MEIKO: But as they kept growing, it started to feel like, compared to just talking, I could understand their feelings on an even deeper level by singing with them.
+MEIKO: Once I realized that, I began to spend more time away from the cafe joining them for practice.
+
+
+142 5031:5031 phenomena-Sunny, phenomena-Summer
+
+(Character: MEIKO)
+
+MEIKO: Isn't the weather incredible today? All right, what should we do?
+
+
+143 5032:5032 phenomena-Dusk, phenomena-Night
+
+(Character: MEIKO)
+
+MEIKO: Wow, the day went by in a flash. Anything else you want to do before it's over?
+
+
+144 5033:5033 phenomena-Full Moon
+
+(Character: MEIKO)
+
+MEIKO: Just look at that big, beautiful full moon. It's incredible. I don't think you'd be able to see something like this in our SEKAI.
+
+
+145 5144:5144 phenomena-Rain, phenomena-Rainy Night
+
+(Character: MEIKO)
+
+MEIKO: There's something so pretty about this rain.
+MEIKO: Maybe it's the way that it glimmers as it falls, full of feelings.
+
+
+146 5145:5145 phenomena-Thunder
+
+(Character: MEIKO)
+
+MEIKO: Do you hear that thunder? I saw some lightning too.
+MEIKO: This is your SEKAI, so I'm sure it'll be fine... But if it starts feeling dangerous, be sure to go indoors, okay?
+
+
+147 5146:5146 phenomena-Meteor Shower
+
+(Character: MEIKO)
+
+MEIKO: You know, I thought I knew what a meteor shower was like...
+MEIKO: But seeing one for myself like this is overwhelming. It's just so beautiful.
+
+
+148 5147:5147 phenomena-Snowy, phenomena-Snowy Night
+
+(Character: MEIKO)
+
+MEIKO: So it even snows here. Does it ever stick too?
+
+
+149 5578:5578 Stove
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: Wouldn't a stove like this be great for the cafe kitchen?
+MEIKO: I was thinking the same thing. The stove has just the right number of burners.
+Miku: Come to think of it, I do see you cooking three things at once sometimes.
+MEIKO: I do do that. Especially when I get several orders at once. I want to serve everyone on a table at once, so I cook them at the same time.
+Miku: It's amazing how you multitask like that. If it were me, I think I'd get mixed up and boil pasta in a pot that has curry cooking in it.
+MEIKO: Uh...
+MEIKO: (I think she's kidding... But I can also vividly picture that scenario.)
+
+
+150 5593:5593 Natural Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+151 5595:5595 Natural Sofa
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO: I've noticed you and the others sing a lot here in this SEKAI, Kohane.
+Kohane: I guess we do. For one thing, we all want to get some practice in... But it also just feels good to sing here.
+MEIKO: Miku and Len said the same thing. Maybe I'll sing here too sometime.
+Kohane: *Gasp* Then, maybe we could sing together?
+MEIKO: Oh, really? I think I'll take you up on that.
+
+
+152 5596:5596 Natural Sofa
+
+(Character: An Shiraishi, MEIKO)
+
+An: MEIKO, could I ask you to make some coffee and sandwiches next time I come here?
+MEIKO: Yes, I can do that. Are you planning to share them with our host?
+An: That's right! They were really interested when I told them all about your cafe!
+MEIKO: Hehe, I'm honored. In that case, I'd better roll up my sleeves and whip up a feast.
+
+
+153 5597:5597 Natural Sofa
+
+(Character: Akito Shinonome, MEIKO)
+
+Akito: MEIKO, when do you come up with new menu items?
+MEIKO: Usually when I'm thinking about the time of year. I think about what's in season, or what holidays are coming up.
+MEIKO: Though sometimes, it's because I've found a difficult recipe and want to challenge myself.
+Akito: Challenge yourself? You're so skilled in the kitchen, but there are still things you find challenging?
+MEIKO: That's right. I still have a long way to go as a cook, and I want to keep trying new things.
+
+
+154 5598:5598 Natural Sofa
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: It's so peaceful here...
+MEIKO: You enjoy reading, don't you, Toya? This feels like the perfect place for it.
+Toya: It is. When I'm reading in the shade of a tree, hearing the grass rustling in the wind, I feel more immersed than ever in whatever I'm reading.
+MEIKO: Hehe. Just make sure you don't lose track of time and get home late.
+
+
+155 5599:5599 Natural Sofa
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: I still can't believe we're here in another SEKAI.
+MEIKO: Me neither. I thought I somewhat understood how SEKAI work, but things like this are a mystery.
+Miku: Feelings can develop and change over time, after all.
+Miku: Far beyond what we could imagine.
+MEIKO: Hehe. You got that right.
+
+
+156 5721:5721 Cozy Picnic Bicycle
+
+(Character: Kagamine Len, MEIKO)
+
+MEIKO: Bikes make it so easy to get around. Imagine how convenient it would be to have them in our SEKAI.
+Len: Yeah! I could go somewhere far away to practice and still zip back to your cafe to take a breather.
+Len: And we could easily track down Luka and KAITO when they disappear!
+MEIKO: Yes. But if they had bikes too, I think we'd never find them...
+Len: Oh... Y-You're right...
+
+
+157 5722:5722 Refined Continental Fashion Magazines
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO: Huh. So this is the latest trend? All these clothes and styles look so mature.
+MEIKO: Why don't you and An try dressing like that?
+Kohane: Huh?! Maybe An would look good in this stuff, but I definitely can't pull any of it off...
+MEIKO: Do you think so? I can easily picture the pair of you side by side, dressed in style.
+Kohane: R-Really? Then, maybe it would suit me better than I think.
+
+
+158 5723:5723 Cute Cushion
+
+(Character: An Shiraishi, MEIKO)
+
+MEIKO: You're still here, An? Weren't you going to go home and do your homework?
+An: Ack...
+An: I-It's this cushion! It's so unbelievably comfy that I couldn't bring myself to get up...!
+An: Sit here and see for yourself, MEIKO! You'll totally get what I mean.
+MEIKO: Hehe, alright. I'll try it out when I need to sit down.
+
+
+159 5724:5724 Echeveria
+
+(Character: Akito Shinonome, MEIKO)
+
+MEIKO: Speaking of "succulent" plants, I've heard you can eat some types of cactus.
+Akito: Oh yeah, I think you're right. I've heard of places where you can order a big slab of cactus served like a steak.
+MEIKO: Exactly. That must look striking. Though I can't begin to imagine what it tastes like...
+MEIKO: If I got my hands on some edible cactus, would you try it with me, Akito?
+Akito: Uh... Sure, if I can trick—I mean, invite the others along.
+MEIKO: Hehe. Then when we get the chance, let's not tell the others what we're serving until they've sat down.
+
+
+160 5725:5725 Astronomer's Observatory Bookshelf
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: Almost all these books are about stars. But this one's about mythology, and I think this one is poetry.
+Toya: You're right. Hm? Is this a mystery book?
+MEIKO: Oh, there's more variety than I thought. What's it about?
+Toya: It seems it's a book of short stories with a shared theme of stars. "The Cosmic Killings", "Blood on the Wish Slip", "The Milky Way Murderer"... These titles all sound intriguing.
+MEIKO: They do. Why don't we try reading the first story?
+
+
+161 5748:5744 Cozy Picnic Tree
+
+(Character: MEIKO)
+
+MEIKO: This tree is so cute and lively with all of its decorations.
+MEIKO: What's that? You want to have a picnic under this tree? That's an amazing idea!
+MEIKO: Do you think we'll have enough sandwiches and snacks? I'll go back and make some more at the cafe if you need.
+
+
+162 5893:5889 Basketball
+
+(Character: MEIKO)
+
+MEIKO: I don't get a lot of chances to play with balls like this.
+MEIKO: There was one time we had a snowball fight with soft rubber balls instead of snow, but that's about it...
+
+
+163 5894:5890 Tennis Racket Bag
+
+(Character: MEIKO)
+
+MEIKO: I was pretty good at Hanetsuki, so I'm sure I'd be just as good at a sport that uses a racket...
+MEIKO: Well, I probably shouldn't jinx myself, right?
+
+
+164 5952:5948 Raijin Festival Shrine Gate
+
+(Character: MEIKO)
+
+MEIKO: Standing in front of this really feels solemn.
+MEIKO: Shrine gates have that sort of presence and power to them, I think.
+
+
+165 5953:5949 Raijin Festival Bench
+
+(Character: MEIKO)
+
+MEIKO: What a nice outdoor tea setup.
+MEIKO: You can enjoy your tea and experience nature all at once. How relaxing.
+
+
+166 6028:5593~ Refined Continental Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+167 6030:5595~ Refined Continental Sofa
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO: I've noticed you and the others sing a lot here in this SEKAI, Kohane.
+Kohane: I guess we do. For one thing, we all want to get some practice in... But it also just feels good to sing here.
+MEIKO: Miku and Len said the same thing. Maybe I'll sing here too sometime.
+Kohane: *Gasp* Then, maybe we could sing together?
+MEIKO: Oh, really? I think I'll take you up on that.
+
+
+168 6031:5596~ Refined Continental Sofa
+
+(Character: An Shiraishi, MEIKO)
+
+An: MEIKO, could I ask you to make some coffee and sandwiches next time I come here?
+MEIKO: Yes, I can do that. Are you planning to share them with our host?
+An: That's right! They were really interested when I told them all about your cafe!
+MEIKO: Hehe, I'm honored. In that case, I'd better roll up my sleeves and whip up a feast.
+
+
+169 6032:5597~ Refined Continental Sofa
+
+(Character: Akito Shinonome, MEIKO)
+
+Akito: MEIKO, when do you come up with new menu items?
+MEIKO: Usually when I'm thinking about the time of year. I think about what's in season, or what holidays are coming up.
+MEIKO: Though sometimes, it's because I've found a difficult recipe and want to challenge myself.
+Akito: Challenge yourself? You're so skilled in the kitchen, but there are still things you find challenging?
+MEIKO: That's right. I still have a long way to go as a cook, and I want to keep trying new things.
+
+
+170 6033:5598~ Refined Continental Sofa
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: It's so peaceful here...
+MEIKO: You enjoy reading, don't you, Toya? This feels like the perfect place for it.
+Toya: It is. When I'm reading in the shade of a tree, hearing the grass rustling in the wind, I feel more immersed than ever in whatever I'm reading.
+MEIKO: Hehe. Just make sure you don't lose track of time and get home late.
+
+
+171 6034:5599~ Refined Continental Sofa
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: I still can't believe we're here in another SEKAI.
+MEIKO: Me neither. I thought I somewhat understood how SEKAI work, but things like this are a mystery.
+Miku: Feelings can develop and change over time, after all.
+Miku: Far beyond what we could imagine.
+MEIKO: Hehe. You got that right.
+
+
+172 6049:5593~ Vibrant Unison Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+173 6051:5595~ Vibrant Unison Sofa
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO: I've noticed you and the others sing a lot here in this SEKAI, Kohane.
+Kohane: I guess we do. For one thing, we all want to get some practice in... But it also just feels good to sing here.
+MEIKO: Miku and Len said the same thing. Maybe I'll sing here too sometime.
+Kohane: *Gasp* Then, maybe we could sing together?
+MEIKO: Oh, really? I think I'll take you up on that.
+
+
+174 6052:5596~ Vibrant Unison Sofa
+
+(Character: An Shiraishi, MEIKO)
+
+An: MEIKO, could I ask you to make some coffee and sandwiches next time I come here?
+MEIKO: Yes, I can do that. Are you planning to share them with our host?
+An: That's right! They were really interested when I told them all about your cafe!
+MEIKO: Hehe, I'm honored. In that case, I'd better roll up my sleeves and whip up a feast.
+
+
+175 6053:5597~ Vibrant Unison Sofa
+
+(Character: Akito Shinonome, MEIKO)
+
+Akito: MEIKO, when do you come up with new menu items?
+MEIKO: Usually when I'm thinking about the time of year. I think about what's in season, or what holidays are coming up.
+MEIKO: Though sometimes, it's because I've found a difficult recipe and want to challenge myself.
+Akito: Challenge yourself? You're so skilled in the kitchen, but there are still things you find challenging?
+MEIKO: That's right. I still have a long way to go as a cook, and I want to keep trying new things.
+
+
+176 6054:5598~ Vibrant Unison Sofa
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: It's so peaceful here...
+MEIKO: You enjoy reading, don't you, Toya? This feels like the perfect place for it.
+Toya: It is. When I'm reading in the shade of a tree, hearing the grass rustling in the wind, I feel more immersed than ever in whatever I'm reading.
+MEIKO: Hehe. Just make sure you don't lose track of time and get home late.
+
+
+177 6055:5599~ Vibrant Unison Sofa
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: I still can't believe we're here in another SEKAI.
+MEIKO: Me neither. I thought I somewhat understood how SEKAI work, but things like this are a mystery.
+Miku: Feelings can develop and change over time, after all.
+Miku: Far beyond what we could imagine.
+MEIKO: Hehe. You got that right.
+
+
+178 6135:5963 Vegetable Basket
+
+(Character: MEIKO)
+
+MEIKO: This reminds me... I still have some leftover potato salad from lunch in the fridge. Maybe I could serve it as a whole dish instead of as a side...
+MEIKO: Actually... Now that I've left it at home with our resident big eaters, I bet they've already found it.
+
+
+179 6138:5964 Table Tennis Table
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: Just as I expected, MEIKO. There are no holes in your defense.
+MEIKO: You're not too bad yourself, Miku.
+Miku: ...
+MEIKO: ...
+Miku: There...!
+
+
+180 6218:1863~ Garden Flower Bed (Poppy)
+
+(Character: MEIKO)
+
+MEIKO: What a beautiful flowerbed. It's like even the flowers blooming here seem happy.
+
+
+181 6239:1863~ Garden Flower Bed (Cosmos)
+
+(Character: MEIKO)
+
+MEIKO: What a beautiful flowerbed. It's like even the flowers blooming here seem happy.
+
+
+182 6260:1863~ Garden Flower Bed (Lavender)
+
+(Character: MEIKO)
+
+MEIKO: What a beautiful flowerbed. It's like even the flowers blooming here seem happy.
+
+
+183 6282:1866~ Garden Lattice Planter (Poppy)
+
+(Character: MEIKO)
+
+MEIKO: What a lovely planter. You could even hang flowerpots from the lattice, and it'd be great to decorate it in different ways depending on the season.
+MEIKO: Just imagine all the fun you could have with this.
+
+
+184 6304:1866~ Garden Lattice Planter (Cosmos)
+
+(Character: MEIKO)
+
+MEIKO: What a lovely planter. You could even hang flowerpots from the lattice, and it'd be great to decorate it in different ways depending on the season.
+MEIKO: Just imagine all the fun you could have with this.
+
+
+185 6326:1866~ Garden Lattice Planter (Lavender)
+
+(Character: MEIKO)
+
+MEIKO: What a lovely planter. You could even hang flowerpots from the lattice, and it'd be great to decorate it in different ways depending on the season.
+MEIKO: Just imagine all the fun you could have with this.
+
+
+186 6347:1868~ Garden Wheelbarrow (Poppy)
+
+(Character: MEIKO)
+
+MEIKO: This is a nice way to display flowers.
+MEIKO: Heh. You know, the wheelbarrow might look kind of unsophisticated on its own, but it looks adorable like this.
+
+
+187 6365:1868~ Garden Wheelbarrow (Cosmos)
+
+(Character: MEIKO)
+
+MEIKO: This is a nice way to display flowers.
+MEIKO: Heh. You know, the wheelbarrow might look kind of unsophisticated on its own, but it looks adorable like this.
+
+
+188 6383:1868~ Garden Wheelbarrow (Lavender)
+
+(Character: MEIKO)
+
+MEIKO: This is a nice way to display flowers.
+MEIKO: Heh. You know, the wheelbarrow might look kind of unsophisticated on its own, but it looks adorable like this.
+
+
+189 6396:6039 read_event_story-163
+
+(Character: MEIKO)
+
+MEIKO: Business as usual in this SEKAI, I see. Thank goodness.
+MEIKO: You see, something strange happened in our SEKAI, and Kohane and the others went through a rough experience.
+MEIKO: But all of you—you, Kohane, everyone—you have feelings powerful enough to create SEKAI. I know you can get through anything.
+
+
+190 6501:6144 Colorful Atelier Dresser
+
+(Character: MEIKO)
+
+MEIKO: What an adorable dresser. I wonder what this style of design is called...
+
+
+191 6502:6145 Colorful Atelier Stool
+
+(Character: MEIKO)
+
+MEIKO: Oh, this is a stool. I almost mistook it for an end table.
+
+
+192 6503:6146 Colorful Atelier Desk
+
+(Character: MEIKO)
+
+MEIKO: Wow, you've got so much laid out here.
+MEIKO: Once you're done with your picture, remember to clean everything up.
+
+
+193 6504:6147 Colorful Atelier Shelf
+
+(Character: MEIKO)
+
+MEIKO: These paints look like they're made by different brands. Do they differ a lot in vibrancy or how they feel to use?
+
+
+194 6538:6181 phenomena-Rainbow
+
+(Character: MEIKO)
+
+MEIKO: What a beautiful rainbow. Just looking at it feels fun.
+
+
+195 6679:6322 Resort Deck Chair
+
+(Character: MEIKO)
+
+MEIKO: Oh, this deck chair looks very comfy to rest on.
+MEIKO: Since it's here, would it be alright for me to use it every now and then?
+
+
+196 6680:6323 Resort Pool
+
+(Character: MEIKO)
+
+MEIKO: What a nice pool. I can picture Len and the others getting very excited about it.
+MEIKO: Hm? Me? Well...
+MEIKO: I might just splash water at you. Hehe. Just kidding.
+
+
+197 6681:6324 Resort Hot Tub
+
+(Character: MEIKO)
+
+MEIKO: This doesn't have a faucet, so I assume it heats itself up as long as it's turned on?
+MEIKO: That's nice, the way it lets you skip that little hassle of waiting. Modern conveniences are a gift.
+MEIKO: Now if only it cleaned itself automatically, too, it would be perfect.
+
+
+198 6682:6325 Resort Hammock
+
+(Character: MEIKO)
+
+MEIKO: I've heard hammocks are great for relaxing. They seem just right for taking a break.
+MEIKO: Just lie down and put on some music... It'd be the perfect way to drift off to sleep.
+
+
+199 6683:6326 Alexandra Palm
+
+(Character: MEIKO)
+
+MEIKO: It's important to have a potted plant like this.
+MEIKO: Having a bit of greenery in your environment can really help your mood.
+
+
+200 6684:6327 Resort Coffee Table
+
+(Character: MEIKO)
+
+MEIKO: What a nice table. I'd love to have one like this in my cafe...
+MEIKO: But maybe it's a little too cute for our decor.
+
+
+201 6741:5593~ Resort Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+202 6743:5595~ Resort Sofa
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO: I've noticed you and the others sing a lot here in this SEKAI, Kohane.
+Kohane: I guess we do. For one thing, we all want to get some practice in... But it also just feels good to sing here.
+MEIKO: Miku and Len said the same thing. Maybe I'll sing here too sometime.
+Kohane: *Gasp* Then, maybe we could sing together?
+MEIKO: Oh, really? I think I'll take you up on that.
+
+
+203 6744:5596~ Resort Sofa
+
+(Character: An Shiraishi, MEIKO)
+
+An: MEIKO, could I ask you to make some coffee and sandwiches next time I come here?
+MEIKO: Yes, I can do that. Are you planning to share them with our host?
+An: That's right! They were really interested when I told them all about your cafe!
+MEIKO: Hehe, I'm honored. In that case, I'd better roll up my sleeves and whip up a feast.
+
+
+204 6745:5597~ Resort Sofa
+
+(Character: Akito Shinonome, MEIKO)
+
+Akito: MEIKO, when do you come up with new menu items?
+MEIKO: Usually when I'm thinking about the time of year. I think about what's in season, or what holidays are coming up.
+MEIKO: Though sometimes, it's because I've found a difficult recipe and want to challenge myself.
+Akito: Challenge yourself? You're so skilled in the kitchen, but there are still things you find challenging?
+MEIKO: That's right. I still have a long way to go as a cook, and I want to keep trying new things.
+
+
+205 6746:5598~ Resort Sofa
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: It's so peaceful here...
+MEIKO: You enjoy reading, don't you, Toya? This feels like the perfect place for it.
+Toya: It is. When I'm reading in the shade of a tree, hearing the grass rustling in the wind, I feel more immersed than ever in whatever I'm reading.
+MEIKO: Hehe. Just make sure you don't lose track of time and get home late.
+
+
+206 6747:5599~ Resort Sofa
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: I still can't believe we're here in another SEKAI.
+MEIKO: Me neither. I thought I somewhat understood how SEKAI work, but things like this are a mystery.
+Miku: Feelings can develop and change over time, after all.
+Miku: Far beyond what we could imagine.
+MEIKO: Hehe. You got that right.
+
+
+207 6863:6430 Garage Car
+
+(Character: MEIKO)
+
+MEIKO: Well, what a nice classic car.
+MEIKO: The way the headlights protrude a little and the way the grille looks like a mouth are both excellent.
+
+
+208 6864:6431 Garage Motorbike
+
+(Character: MEIKO)
+
+MEIKO: This bike has a bit of a retro feel to it. It's sort of cute.
+MEIKO: If I had a model of it, I'd put it on the counter or a shelf at my cafe.
+
+

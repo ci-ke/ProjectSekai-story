@@ -9,3 +9,4 @@ Crawled by [ProjectSekai & BangDream story crawler](https://github.com/ci-ke/Pro
 - 区域对话：area
 - 自我介绍：self
 - 特殊剧情：special
+- 我的「世界」：mysekai

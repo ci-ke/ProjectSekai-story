@@ -1,0 +1,1756 @@
+1 97:97 Energetic Crown Dresser
+
+(Character: KAITO)
+
+KAITO: There's something energizing about this color.
+KAITO: Even choosing what to wear for the day would feel fun.
+
+
+2 98:98 Energetic Crown Bed
+
+(Character: KAITO)
+
+KAITO: This bed has a crown motif.
+KAITO: Hehe. Perhaps I could sleep like a king here.
+
+
+3 99:99 Energetic Crown Table
+
+(Character: KAITO)
+
+KAITO: What a nice and sturdy table. And the color is so refreshing. Any meal here would surely be delicious.
+
+
+4 100:100 Energetic Crown Rug
+
+(Character: KAITO)
+
+KAITO: You've laid down a rug.  It's a lovely accent to the place.
+
+
+5 233:233 Stereo System
+
+(Character: KAITO)
+
+KAITO: Life is brighter with music, isn't it? I often listen to music on my days off practice too.
+KAITO: But our SEKAI is almost always filled with the sounds of Miku and the plushies having fun.
+KAITO: So some days I enjoy that as my soundtrack while I do some light reading, or have tea with MEIKO or Luka.
+
+
+6 234:234 Gramophone
+
+(Character: KAITO)
+
+KAITO: A gramophone...
+KAITO: I really love the warmth and depth of sound you can only get from records.
+
+
+7 235:235 Simple Desktop Computer
+
+(Character: KAITO)
+
+KAITO: Nene often talks about online shopping, and it sounds very convenient.
+KAITO: But especially because it's convenient, it can be easy to overspend. Best to be careful with your money.
+
+
+8 236:236 Gate
+
+(Character: KAITO)
+
+KAITO: This gate seems to connect this SEKAI to our own.
+KAITO: To tell the truth, I once thought we could never travel to a SEKAI beyond our own. But then I had a wondrous encounter...
+KAITO: Ever since then, I've wondered if another encounter might be awaiting me somewhere out there.
+KAITO: You must have been very surprised to see all of us, but I hope we can be friends.
+
+
+9 1910:1910 Natural Dresser
+
+(Character: KAITO)
+
+KAITO: Storage like this is important for keeping your room tidy and presentable.
+KAITO: We have special storage for all the props we use in our shows, and we make sure to keep them safely stored away.
+
+
+10 1911:1911 Natural Bed
+
+(Character: KAITO)
+
+KAITO: Have you been resting properly lately?
+KAITO: With everything to do here, and all of us coming to visit, it's surely been a hectic time for you, so I was a bit concerned...
+KAITO: Getting proper sleep is important to relieve fatigue, so be sure to rest up if you feel tired.
+
+
+11 1912:1912 Natural Dining Table
+
+(Character: KAITO)
+
+KAITO: What a nice, wide table.
+KAITO: Everyone could sit and enjoy meals together at a table like this.
+
+
+12 1913:1913 Natural Bookshelf
+
+(Character: KAITO)
+
+KAITO: I do my best to be well-read so I can write my scripts and prepare for roles.
+KAITO: But no matter how many books I read, that feeling of satisfaction from finishing a good book never gets old.
+
+
+13 1914:1914 Natural Closet
+
+(Character: KAITO)
+
+KAITO: Closets are very nice. The doors make it harder for your clothes to get dusty.
+KAITO: But they do trap a surprising amount of humidity, so I've heard it's best to open them and air them out from time to time.
+
+
+14 1915:1915 Natural LCD TV
+
+(Character: KAITO)
+
+KAITO: You know, I have a lot of opportunities to watch shows and movies, but I don't watch much television beyond that.
+KAITO: Do you have any favorite TV shows you'd recommend? I'd love to hear about them.
+
+
+15 1916:1916 Stove
+
+(Character: KAITO)
+
+KAITO: What a cute kitchen. And it has three burners! How handy.
+
+
+16 1917:1917 Refrigerator
+
+(Character: KAITO)
+
+KAITO: This refrigerator is huge... Perfect for someone who enjoys cooking, I'm sure.
+KAITO: Hm? Me? Well, cooking does look like fun, but I don't know if I'd say I enjoy it.
+KAITO: I just don't have much experience with it. I'd have to try it out to be sure.
+
+
+17 1918:1918 Cutting Board
+
+(Character: KAITO)
+
+KAITO: I know the best way to cut up bell peppers. First, you split them vertically, then remove the pith and seeds.
+KAITO: Hehe. I once played a cook in a show, and I learned a little bit for the role.
+
+
+18 1919:1919 Coffee Maker
+
+(Character: KAITO)
+
+KAITO: That coffee smells good.
+KAITO: Oh, I can have some too? Are you sure?
+KAITO: Thank you. I'd love a cup then.
+
+
+19 1920:1920 Toaster
+
+(Character: KAITO)
+
+KAITO: I've heard there are many different ways to enjoy toast.
+KAITO: You can eat it with jam, sprinkle on sugar or cinnamon, and much more. It seems like fun to find your own favorite way.
+
+
+20 1921:1921 Garden Flower Bed
+
+(Character: KAITO)
+
+KAITO: Oh, perfect timing. The flowers in this bed don't seem well.
+KAITO: I've been here for a while, but they haven't sung or even said hello...
+KAITO: Huh? The flowers here don't sing or talk?
+KAITO: Oh, I see. That must be normal outside of our SEKAI. It hadn't occured to me.
+
+
+21 1922:1922 Garden Umbrella Table
+
+(Character: KAITO)
+
+KAITO: A table with an umbrella! How nice. It's like sitting on the terrace of a fancy cafe.
+KAITO: It must feel wonderful to sip tea while gazing out across your yard.
+
+
+22 1923:1923 Garden Bench
+
+(Character: KAITO)
+
+KAITO: It's important to have a place to take a break. I think it's lovely.
+
+
+23 1924:1924 Garden Lattice Planter
+
+(Character: KAITO)
+
+KAITO: This wooden fence is part of the planter itself? How interesting.
+KAITO: It helps break up sightlines, and with a vine planted here it could grow into a nice leafy wall. So many possibilities.
+
+
+24 1925:1925 Garden Ladder
+
+(Character: KAITO)
+
+KAITO: Is this a work ladder?
+KAITO: It's dangerous to work in high places by yourself. I'd be happy to help you.
+
+
+25 1926:1926 Garden Potting Bench
+
+(Character: KAITO)
+
+KAITO: There are all sorts of tools on this shelf. And flowerpots, too.
+KAITO: Does that mean you'll be planting more flowers? Hehe, I'm looking forward to it.
+
+
+26 1927:1927 Garden Wheelbarrow
+
+(Character: KAITO)
+
+KAITO: Well now... The whole wheelbarrow's been turned into a planter.
+KAITO: Hehe. What a handy way to move flowers wherever you want.
+
+
+27 1928:1928 Garden Watering Can
+
+(Character: KAITO)
+
+KAITO: You use this watering can to water your plants, right? I'd be happy to help with that.
+
+
+28 1929:1929 Swings
+
+(Character: KAITO)
+
+KAITO: A swing set! How nice.
+KAITO: Our SEKAI is an amusement park, so there are plenty of attractions, but not too many pieces of park equipment like this.
+KAITO: It might be quite a curiosity for Miku.
+
+
+29 1930:1930 Slide
+
+(Character: KAITO)
+
+KAITO: What a fine slide. Miku and the others seem to like it, too.
+KAITO: Huh? Am I not going to play on it?
+KAITO: Thanks for thinking of me. But I think it would be too embarrassing, so I'll have to pass.
+
+
+30 1931:1931 Playground Rocking Bear
+
+(Character: KAITO)
+
+KAITO: A bear, is it? Let's see... Ah, you ride on its back, right?
+KAITO: We could use it for a show about Kintaro...
+KAITO: Ah, sorry. I'm in the middle of planning our next show, you see...
+
+
+31 1932:1932 Sandbox
+
+(Character: KAITO)
+
+KAITO: How exactly do you play in a sandbox, aside from digging holes or tunnels?
+KAITO: Miku invited me to play with her, but I'm not really sure how to make sure she has fun...
+KAITO: If you have any good ideas, I'd be grateful to hear them.
+
+
+32 1933:1933 Seesaw
+
+(Character: KAITO)
+
+KAITO: There's something strangely exciting about a seesaw.
+KAITO: The seesaw itself is fun, but I think a big part of it is having someone to play with.
+
+
+33 1934:1934 Park Fountain
+
+(Character: KAITO)
+
+KAITO: This is an impressive fountain... It's like the showpiece of your yard!
+
+
+34 1935:1935 Horizontal Bars
+
+(Character: KAITO)
+
+KAITO: If I said I was good with the horizontal bars, would you believe me?
+KAITO: Hehe. I'm not as flexible as Miku, but I'm still skilled at moving my body. I can even do backflips.
+
+
+35 1936:1936 Park Tire
+
+(Character: KAITO)
+
+KAITO: Is this meant to be used as a seat? Or is it for jumping off of?
+KAITO: Oh, it can be used for either? Miku and the others love that kind of thing.
+
+
+36 1937:1937 Spinning Jungle Gym
+
+(Character: KAITO)
+
+KAITO: Ah, a spinning jungle gym. If MEIKO saw this, I'm sure she'd want to spin it as fast as she could.
+KAITO: Actually, knowing MEIKO, she might rip it from the ground and roll it around like a ball...
+KAITO: Hahaha, surely not.
+
+
+37 1938:1938 Bucket and Shovel
+
+(Character: KAITO)
+
+KAITO: Hehe, what a cute bucket and shovel. Are these for playing in sand?
+
+
+38 1939:1939 Playground Tunnels
+
+(Character: KAITO)
+
+KAITO: What a big pipe. And there are three of them!
+KAITO: They must have been hard to build, but I imagine it was even harder to stack them up like this.
+
+
+39 1940:1940 Rustic Japanese Low Table
+
+(Character: KAITO)
+
+KAITO: Something about this table feels nostalgic. You'd call this a low table, right?
+KAITO: It makes me want to sit on a cushion and brew some tea in a teapot, just for the atmosphere.
+
+
+40 1941:1941 Rustic Japanese TV
+
+(Character: KAITO)
+
+KAITO: Hehe. This antenna...
+KAITO: Ah, perfect timing. Doesn't this antenna remind you of Rin's ribbon?
+KAITO: Hmm. Maybe it's the way it sticks straight up like that?
+
+
+41 1942:1942 Rustic Japanese Kettle
+
+(Character: KAITO)
+
+KAITO: What a retro kettle.
+KAITO: Despite its cute design, its whistle is surprisingly loud. You really can't judge a book...or a kettle, by its cover.
+
+
+42 1943:1943 Rustic Japanese Teapot
+
+(Character: KAITO)
+
+KAITO: An old-fashioned teapot and teacup. There's no better way to drink green tea.
+
+
+43 1944:1944 Rustic Japanese Telephone
+
+(Character: KAITO)
+
+KAITO: This is one classic telephone. It's amazing...
+KAITO: May I touch it? I've seen these before, but never used one.
+KAITO: Thank you! I'd also like to try turning the dial.
+
+
+44 1945:1945 Rustic Japanese Lucky Cat
+
+(Character: KAITO)
+
+KAITO: Ah, a lucky cat.
+KAITO: Maybe this cat will bring more people to your SEKAI.
+
+
+45 1946:1946 Kid's Room Picture Book Shelf
+
+(Character: KAITO)
+
+KAITO: You have a lot of picture books here. Oh, I don't think I've read this one.
+KAITO: Could I borrow this for a little while?
+KAITO: Huh, you'd like to hear my thoughts? Okay. I'll let you know when I've finished.
+
+
+46 1947:1947 Kid's Room Toy Box
+
+(Character: KAITO)
+
+KAITO: Plushies and building blocks... There's a lot in here.
+KAITO: To a small child, this isn't a toy box, it's a treasure chest.
+
+
+47 1948:1948 Kid's Room Rocking Horse
+
+(Character: KAITO)
+
+KAITO: It's a pegasus... Or no, just a regular horse.
+KAITO: Hehe. Tsukasa must be rubbing off on me. Whenever I see a horse these days, I check to see if it has wings.
+
+
+48 1949:1949 Kid's Room Train Set
+
+(Character: KAITO)
+
+KAITO: Our SEKAI has a steam train that flies through the sky.
+KAITO: If you can visit our SEKAI the way we visit yours, I'd like to let you ride it someday.
+
+
+49 1950:1950 Kid's Room Toy Car
+
+(Character: KAITO)
+
+KAITO: Oh, I know these. You pull them back, and then they drive forward when you let go.
+KAITO: I absolutely love moving toys like this. They're always so fascinating and surprising.
+
+
+50 1951:1951 Kid's Room Elephant Plushie
+
+(Character: KAITO)
+
+KAITO: Hello there.
+KAITO: Ah, that's right. The plushies here don't move or speak... I always say hello whenever I see one.
+
+
+51 1952:1952 Kid's Room Jack-in-the-Box
+
+(Character: KAITO)
+
+KAITO: I was wondering what this box was, but I see it's a jack-in-the-box.
+KAITO: I opened it without thinking, and it gave me quite a fright.
+
+
+52 1953:1953 Kid's Room Building Blocks
+
+(Character: KAITO)
+
+KAITO: What colorful building blocks. Are you in the middle of building a castle?
+
+
+53 1954:1954 Relaxed Desk
+
+(Character: KAITO)
+
+KAITO: You must be passionate about your studies to have a desk like this in your SEKAI.
+
+
+54 1955:1955 Relaxed Bookshelf
+
+(Character: KAITO)
+
+KAITO: Hehe. This is more like a storage shelf than a bookshelf at this point.
+KAITO: But it's good that everything has a place here. It would be dangerous to leave these scattered on the floor.
+
+
+55 1956:1956 Relaxed Stack of Manga
+
+(Character: KAITO)
+
+KAITO: Are you in the middle of reading these?
+KAITO: What are these manga about, anyway? I'd like to hear about them.
+
+
+56 1957:1957 Relaxed Handheld Game Console
+
+(Character: KAITO)
+
+KAITO: Oh, I think this is the thing Tsukasa and the others played with on Rui's birthday.
+KAITO: Rui invited us all to his room, and they played a racing game together.
+KAITO: There was laughter, tears and dramatic comebacks. It was so much fun.
+
+
+57 1958:1958 Relaxed RC Car
+
+(Character: KAITO)
+
+KAITO: This is a remote-control car, I see. I've never played with one before...
+KAITO: Oh, I know. Rui is always controlling his drones, so he must be good with these. I'll ask him if there's a trick to it sometime.
+
+
+58 1959:1959 Relaxed Alarm Clock
+
+(Character: KAITO)
+
+KAITO: There's something classic about the design of this alarm clock.
+KAITO: Everyone has a smartphone with alarms nowadays. Do you think anyone still uses clocks like this?
+
+
+59 1960:1960 Relaxed Beagle Plushie
+
+(Character: KAITO)
+
+KAITO: Hello the...oh, right. I forgot, the plushies here don't speak.
+KAITO: But when I see them sitting here so adorably, I can't help but greet them.
+
+
+60 1961:1961 Relaxed Clothes Rack
+
+(Character: KAITO)
+
+KAITO: It's good of you to hang up your clothes like this.
+KAITO: When you get home tired, it's easy to just throw them onto the floor and tell yourself you'll deal with them later, only to never get around to it.
+
+
+61 1962:1962 Water Dispenser
+
+(Character: KAITO)
+
+KAITO: With a water dispenser, you never have to worry about getting dehydrated.
+KAITO: Remember to drink regularly, especially after exercising.
+
+
+62 1963:1963 Yoga Mat
+
+(Character: KAITO)
+
+KAITO: Does this yoga mat mean you like to do yoga?
+KAITO: It's very good for stretching and warming up your body since you can breathe slowly and move at your own pace.
+KAITO: After especially hard practices, I like to cool down and work out the knots with stretches and yoga myself.
+
+
+63 1964:1964 Ab Wheel
+
+(Character: KAITO)
+
+KAITO: This is for building your abdominal muscles, right? I've never seen one before.
+KAITO: How do you use it again? Would you be willing to show me?
+
+
+64 1965:1965 Exercise Ball
+
+(Character: KAITO)
+
+KAITO: I've heard it can be beneficial to use a balance ball in place of a chair.
+KAITO: It does seem like the bouncing would be comfortable, but I wonder.
+KAITO: Hmm... You're right. I'll have to give it a try.
+
+
+65 1966:1966 Treadmill
+
+(Character: KAITO)
+
+KAITO: It's nice to be able to exercise without worrying about the weather. And you can adjust the settings and set goals, too...
+KAITO: You can set it by the amount of time you want to run, or even the distance. I see.
+KAITO: Then let's set it for distance today, and aim for a fast time.
+
+
+66 1967:1967 Exercise Bike
+
+(Character: KAITO)
+
+KAITO: It's a bit of a strange feeling, to pedal and not actually go anywhere.
+KAITO: This SEKAI is so big, it might be nice to bring a real bicycle here and go for a ride.
+
+
+67 1968:1968 Dumbbells
+
+(Character: KAITO)
+
+KAITO: I may not look it, but I make sure to keep myself in shape. I know lots of exercises using dumbbells.
+KAITO: Are you interested? We can start with the simple ones.
+
+
+68 1969:1969 Claw Machine
+
+(Character: KAITO)
+
+KAITO: Hmm, it always seems so close, but no luck...
+KAITO: If the plushies in here were from our SEKAI, they would come out on their own...
+KAITO: Well, I guess that wouldn't be much of a game then.
+
+
+69 1970:1970 Puyo Puyo Champions Machine
+
+(Character: KAITO)
+
+KAITO: I see, you match up the same color to clear them out. That's fun.
+KAITO: Would you like to play a match with me? Ah, go easy on me, please.
+
+
+70 1971:1971 Print Sticker Machine
+
+(Character: KAITO)
+
+KAITO: This machine takes pictures, right? Nene and the others showed us pictures they've taken with this, so I'm a little familiar.
+KAITO: You can add writing or stamps to the pictures, right? They look so lively. I'm sure they make for good memories.
+
+
+71 1972:1972 CHUNITHM Machine
+
+(Character: KAITO)
+
+KAITO: I see... You touch these panels in time with the music.
+KAITO: Are there any songs easy enough for a beginner like me to try?
+
+
+72 3496:3496 Cozy Picnic Blanket
+
+(Character: KAITO)
+
+KAITO: What a cute picnic blanket. I'm sure it would be very handy for a picnic.
+
+
+73 3497:3497 Cozy Picnic Crate Table
+
+(Character: KAITO)
+
+KAITO: Is this... Ah, I thought so. You're using a box as a table.
+KAITO: What a charming improvisation. I really like it.
+
+
+74 3498:3498 Cozy Picnic Bicycle
+
+(Character: KAITO)
+
+KAITO: With the basket so full, it's like you just returned from a trip to a flower field.
+KAITO: Hehe. Honestly, leaving them right there is charming enough already.
+
+
+75 3499:3499 Cozy Picnic Tree Stump
+
+(Character: KAITO)
+
+KAITO: For a minute, I almost thought there had been a tree here, but no, it's a chair made to look like a stump.
+KAITO: It's even made of wood. You can see why I was confused.
+
+
+76 3500:3500 Cozy Picnic Sandwich Box
+
+(Character: KAITO)
+
+KAITO: What delicious-looking sandwiches. And with plenty of veggies, they're healthy too.
+KAITO: Ah... But I think Rui might be reluctant to eat them.
+
+
+77 3501:3501 Cozy Picnic Juice Pitcher
+
+(Character: KAITO)
+
+KAITO: The glass we use for our shows breaks easily, so we try not to use it much, especially since the plushies perform with us...
+KAITO: But glass really does give such a refreshing feeling, it makes you want to use it.
+
+
+78 3502:3502 Cozy Picnic Basket
+
+(Character: KAITO)
+
+KAITO: There are a lot of things in this basket.
+KAITO: Hehe. It reminds me of Miku's pockets when she's going out to play.
+
+
+79 3503:3503 Cozy Picnic Flower Basket
+
+(Character: KAITO)
+
+KAITO: You picked quite a few flowers here. There must be a place where all sorts of flowers bloom.
+
+
+80 3504:3504 Cozy Picnic Lunch Box
+
+(Character: KAITO)
+
+KAITO: With rice balls and side dishes, this really does feel like a classic Japanese lunch box.
+KAITO: Hm? Have we ever tried making rice balls?
+KAITO: Not yet. I do wonder if we'd manage to make them perfectly triangular, or if they'd end up round... Someday we should try it.
+
+
+81 3505:3505 Moonlit Inn Low Table
+
+(Character: KAITO)
+
+KAITO: Hehe. With a teapot and teacup placed just right, it looks like you took a table straight out of a traditional Japanese inn.
+KAITO: Thank you. I truly felt your warm hospitality.
+
+
+82 3506:3506 Moonlit Inn Futon
+
+(Character: KAITO)
+
+KAITO: Listening to Tsukasa and the others talk, it sounds like fewer people sleep in futons these days.
+KAITO: But I'm sure they have their good points, too. I'd like to sleep in one of these every so often.
+
+
+83 3507:3507 Moonlit Inn Tea Cabinet
+
+(Character: KAITO)
+
+KAITO: What a nice shelf. You've arranged the decorations well too, with a good eye toward empty space.
+KAITO: I'd like to make use of this sort of Japanese aesthetic for our shows, too.
+
+
+84 3508:3508 Moonlit Inn Paper Lantern
+
+(Character: KAITO)
+
+KAITO: It's a paper lantern with a flower pattern. Hehe, that's so cute.
+KAITO: I bet Miku and Rin would love this.
+
+
+85 3509:3509 Moonlit Inn Folding Screen
+
+(Character: KAITO)
+
+KAITO: What a splendid folding screen. It's nice enough on its own, but the art enhances its presence too.
+KAITO: I feel like I could look at it forever.
+
+
+86 3510:3510 Moonlit Inn Bonsai Tree
+
+(Character: KAITO)
+
+KAITO: A bonsai... I actually have some interest in the art myself.
+KAITO: Maybe it's in my nature to help something grow little by little over time.
+
+
+87 3511:3511 Moonlit Inn Vase
+
+(Character: KAITO)
+
+KAITO: What lovely cherry blossoms. Something about the way they bloom serenely is just so calming.
+KAITO: It instantly makes the whole room feel much more welcoming and relaxing.
+
+
+88 3512:3512 Raijin Festival Taiko
+
+(Character: KAITO)
+
+KAITO: What a handsome taiko. This would make for a striking image in a show.
+KAITO: Do you mind if I give it a try?
+KAITO: Thank you! Ah, I don't think I'll be very good at it, so please don't expect too much of me.
+
+
+89 3513:3513 Raijin Festival Hanging Lanterns
+
+(Character: KAITO)
+
+KAITO: What pretty lanterns.
+KAITO: Do shrines in your world have rows and rows of them like this?
+
+
+90 3514:3514 Raijin Festival Mask Stall
+
+(Character: KAITO)
+
+KAITO: Oh, they sell masks like this too. Not just superhero masks.
+KAITO: If I were to pick one to wear, I'd go with this funny-looking one. Just to see you smile.
+
+
+91 3517:3517 Raijin Festival Pond
+
+(Character: KAITO)
+
+KAITO: What a nice pond and bridge. I would love to have something like this in our SEKAI.
+KAITO: Hmm, we could recreate it with backdrops and props, maybe... I'll have to consult Rui sometime.
+
+
+92 3519:3519 Astronomer's Observatory Telescope
+
+(Character: KAITO)
+
+KAITO: It's such a small device, but it lets us see stars that are unbelievably far away.
+KAITO: It really is amazing. Both the telescope itself and the people who created it.
+
+
+93 3520:3520 Astronomer's Observatory Bookshelf
+
+(Character: KAITO)
+
+KAITO: You have a lot of books about stars.
+KAITO: Huh? I can read them?
+KAITO: Thank you. Anything could be good inspiration for our shows, so I try to read everything I can.
+
+
+94 3521:3521 Astronomer's Observatory Box of Scrolls
+
+(Character: KAITO)
+
+KAITO: Are the scrolls in this box treasure maps?
+KAITO: Ah... They're star charts.
+KAITO: Hahaha. It seems like Miku and Tsukasa may have started to rub off on me.
+
+
+95 3522:3522 Astronomer's Observatory Celestial Globe
+
+(Character: KAITO)
+
+KAITO: Oh, you have a celestial globe. I've read about them, but... Hmm...
+KAITO: It's a strange feeling, seeing the stars from the outside.
+
+
+96 3523:3523 Astronomer's Observatory Stack of Books
+
+(Character: KAITO)
+
+KAITO: Surely you haven't just left these lying out, have you?
+KAITO: Um, if you ever need a hand cleaning up, just tell me. I'm happy to help.
+
+
+97 3524:3524 Astronomer's Observatory Table Lamp
+
+(Character: KAITO)
+
+KAITO: This is a cool design for a lamp.
+KAITO: Unique props like this can really help build a story's world.
+
+
+98 3543:3543 Traveler's Campground Tent
+
+(Character: KAITO)
+
+KAITO: What a lovely tent.
+KAITO: I'm sure it would be fun to spend the night out under the stars in it.
+
+
+99 3544:3544 Traveler's Campground Chair
+
+(Character: KAITO)
+
+KAITO: I see you've set up a chair. I really appreciate it, since sometimes I just want to take a breather and rest a little.
+
+
+100 3545:3545 Traveler's Campground Table
+
+(Character: KAITO)
+
+KAITO: I like the handmade feel this table has. The wood has such a warm feeling to it.
+
+
+101 3546:3546 Traveler's Campground Campfire Meal
+
+(Character: KAITO)
+
+KAITO: The very best part of camping has to be cooking over the campfire.
+KAITO: Are you cooking curry? I hope it turns out delicious.
+
+
+102 3547:3547 Traveler's Campground Firewood
+
+(Character: KAITO)
+
+KAITO: You even have firewood all lined up.
+KAITO: It must have been a lot of work to chop this much... Let me know next time you restock. I'd be more than happy to help.
+
+
+103 3548:3548 Traveler's Campground Snowman
+
+(Character: KAITO)
+
+KAITO: What a cute snowman. Just looking at him makes me want to smile, too.
+
+
+104 3549:3549 Traveler's Campground Backpack
+
+(Character: KAITO)
+
+KAITO: This must have quite a lot of things in it.
+KAITO: It looks heavy. Let me know when you want to move it and we can work together.
+
+
+105 3550:3550 Traveler's Campground Storage
+
+(Character: KAITO)
+
+KAITO: Oh, there are all kinds of tools in here.
+KAITO: It's important to look after your tools, in shows too. You wouldn't want to forget where you put something when you really need it.
+
+
+106 3551:3551 Traveler's Campground Lantern
+
+(Character: KAITO)
+
+KAITO: Flashlights are handy too, but when you're camping, nothing beats a rustic lamp like this.
+KAITO: Its light is easy on the eyes and relaxing.
+
+
+107 4752:4752 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: The first time I came here? Well, of course I was surprised. About as much as Tsukasa and the others, I think.
+KAITO: But, at the same time, I was excited. It felt like a wondrous story was just about to begin.
+KAITO: And it seems like that gut feeling was spot on.
+
+
+108 4753:4753 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: There's so much nature here, and the wind feels so nice. This SEKAI is wonderful.
+
+
+109 4754:4754 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: And it was born from your feelings.
+KAITO: I don't know what feelings gave birth to this SEKAI... But to make such a beautiful place, they must surely be beautiful feelings.
+
+
+110 4755:4755 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: I never expected to be able to visit a different SEKAI.
+KAITO: It was very sudden, and rather shocking at the time... But I'm so glad I got to meet you!
+
+
+111 4756:4756 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: This SEKAI is so big. I'm sure Miku and the others would want to put on a show here.
+KAITO: You'd enjoy that? Well, in that case, could you think about what you'd like to see? I'd like it to suit your tastes if we're doing it.
+KAITO: Hehe. And be sure to tell me when you've decided.
+
+
+112 4757:4757 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: It's so strange how the weather changes in this SEKAI.
+KAITO: Hm? My favorite kind of weather? Let me think...
+KAITO: They each have their good points, so it's hard to pick one favorite...
+
+
+113 4758:4758 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: There's so much to this SEKAI. Do you look after it all on your own?
+KAITO: You do? That's amazing...
+KAITO: Let me know if you ever need a hand. I don't know how much help I'll be, but I'll do anything you need me to.
+
+
+114 4759:4759 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: I'm sure this SEKAI will continue changing to suit you.
+KAITO: I'm looking forward to seeing how it will change.
+
+
+115 4760:4760 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: I still remember the first time Tsukasa and the others came to our SEKAI. It was a very lively day.
+KAITO: Their first show after that was something of a flop, and they had a falling-out... It was a stressful time.
+KAITO: But Tsukasa remembered how he truly felt, and decided to do another show with everyone... I was so happy to witness the moment his feelings became a song.
+
+
+116 4761:4761 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Tsukasa is a very honest boy. He works so hard to become a star that can bring smiles to everyone across the world.
+KAITO: He's run into walls along the way, and even cried from frustration... But each time, he pushes forward, continuing on the path to his dream.
+KAITO: I'm so glad I get to watch over him as he continues to give his all to everything.
+
+
+117 4762:4762 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Emu's dream is to fill the world with smiles, especially with the amusement park her beloved grandfather left behind.
+KAITO: It's a wonderful dream that speaks to Emu's wholehearted desire to bring people joy.
+
+
+118 4763:4763 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Have you had a chance to hear Nene sing? I see. Her voice is so beautiful, isn't it?
+KAITO: Sometimes she'll sing in our SEKAI too, if the plushies ask her to.
+KAITO: When Nene sings, it's like everything else fades away. If I hear her singing while I'm prepping for a show, I always end up running behind schedule.
+
+
+119 4764:4764 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Rui always thinks of such interesting effects. Whenever he tells us what he has planned, I get excited just hearing about them.
+KAITO: A little while ago, he helped with a show we performed on our stage, and the plushies all loved it.
+
+
+120 4765:4765 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Miku really loves putting on shows with everyone.
+KAITO: She always works very hard in practice so she can put a smile on the face of everyone who comes to see us.
+KAITO: Seeing how much effort she puts in always makes me feel like I should do more myself.
+
+
+121 4766:4766 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: The SEKAI we come from is made from Tsukasa's emotions. It has a stage, and we put on shows there.
+KAITO: Someday, I'd like to put on one of our shows here.
+
+
+122 4767:4767 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: What is our SEKAI like? Hmm...
+KAITO: It's like a theme park, very lively and fun. The kind of place where you find yourself smiling before you even realize it.
+
+
+123 4768:4768 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Both comedies and tragedies have their appeals, but...
+KAITO: My favorite shows are the ones with happy endings, where everyone is smiling as the curtain falls.
+
+
+124 4769:4769 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: I've always felt that shows have a strange power to them.
+KAITO: All the people who come to see a show have their own feelings, but through a show, they can all laugh and cry together.
+KAITO: But above all, seeing everyone in the audience beaming with smiles makes me the happiest of all.
+
+
+125 4770:4770 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: We're all very grateful to the plushies. They help us set up our shows, and they come see them too.
+
+
+126 4771:4771 character_visit_count-1
+
+(Character: KAITO)
+
+KAITO: Oh, I look tired? Hahaha... I didn't think it was that obvious.
+KAITO: I've been working on a new acrobatics routine with Miku, and it's rather advanced.
+KAITO: But I want to see her succeed, and not just for the benefit of our show.
+KAITO: You're cheering us on? Thank you! We'll do our best.
+
+
+127 4772:4772 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: Hello there... Ah, I have to ask. I've come to visit so many times, but it's not a bother, is it?
+KAITO: No? You're happy to see us? I see. That's a relief to hear.
+KAITO: Thank you. In that case, I'll gladly make myself at home.
+
+
+128 4773:4773 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: I've come here many times, and there's always something new to see. This SEKAI is truly fascinating.
+
+
+129 4774:4774 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: Hello. I'd like to hear more about you today.
+KAITO: Yes, that's right. You're always so considerate asking about me, after all. And...
+KAITO: I do want to get to know you better. So, I'd love to learn more about you— Whatever you would like to talk about.
+
+
+130 4775:4775 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: Rin is practicing for something, but she won't tell me what. She says it's "secret special training".
+KAITO: I saw MEIKO with her too, so I'm not particularly worried... But I hope they're being careful all the same.
+
+
+131 4776:4776 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: Len has really been throwing himself into stage combat practice lately.
+KAITO: He says he wants to put on a show just as cool as the ones Tsukasa and the others do.
+KAITO: I've been thinking of asking Tsukasa about stage combat, so I can offer Len some advice. I want to be there for him, after all.
+
+
+132 4777:4777 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: I often see Luka sleeping with her head on MEIKO's lap. But sometimes she nods off in the Ferris wheel or the flying train, and it's very hard to find her.
+KAITO: If she came to visit your SEKAI, I think she'd spend most of her time taking naps.
+
+
+133 4778:4778 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: I took a ride in MEIKO's three-wheel truck the other day, and it really picks up speed. The way she took the corners was a little frightening...
+KAITO: Everyone enjoyed the ride, but it can be dangerous going that fast... I'll have to remind her to drive safely.
+
+
+134 4779:4779 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: I'm actually the troupe leader of the show stage in our SEKAI.
+KAITO: I still have quite a lot to learn... But I'll keep working hard to bring smiles to every guest.
+
+
+135 4780:4780 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: Lately, Rui and MEIKO have been building something together...
+KAITO: Occasionally I hear things like "make it flashier" or "maximum output", which has been a bit concerning.
+
+
+136 4781:4781 character_visit_count-5
+
+(Character: KAITO)
+
+KAITO: Tsukasa and the others keep us updated on what kinds of training they've been doing.
+KAITO: Watching their eyes sparkle as they talk, and Miku and the others' eyes as they listen... I really love it.
+
+
+137 4782:4782 character_visit_count-8
+
+(Character: KAITO)
+
+KAITO: *Yawn*
+KAITO: Ah... Th-This is so embarrassing...
+KAITO: Your SEKAI is so relaxing that I seem to have let my guard down a bit too much.
+KAITO: Thank goodness Miku and the others didn't see me like that.
+
+
+138 4783:4783 character_visit_count-8
+
+(Character: KAITO)
+
+KAITO: This SEKAI is growing more and more wonderful.
+KAITO: I consider myself truly fortunate to have met you, and to get to witness this SEKAI growing and changing from so close.
+
+
+139 4784:4784 character_visit_count-8
+
+(Character: KAITO)
+
+KAITO: Hello. I'm here to visit again.
+KAITO: It's so comfortable here that I find myself visiting over and over. I'm sure that's because of the wonderful feelings that make up this place.
+
+
+140 4785:4785 character_visit_count-8
+
+(Character: KAITO)
+
+KAITO: Earlier, I went backstage to do some work, and I found Luka there taking a nap on the floor.
+KAITO: She was right around a corner, so we're both lucky I didn't end up kicking her.
+KAITO: I'm happy to see her sleeping so peacefully... But I wish she would do it in a safer place.
+
+
+141 4786:4786 character_visit_count-8
+
+(Character: KAITO)
+
+KAITO: I want to improve my acting, so that when we finally perform a show here, we can put a brilliant smile on your face!
+
+
+142 5034:5034 phenomena-Sunny, phenomena-Summer
+
+(Character: KAITO)
+
+KAITO: It's so sunny today! The air is so crisp and clear. This is great weather for rehearsal.
+
+
+143 5035:5035 phenomena-Dusk, phenomena-Night
+
+(Character: KAITO)
+
+KAITO: It's gotten quite late. It'll be harder to see where you're going in the dark, so watch your step.
+
+
+144 5036:5036 phenomena-Full Moon
+
+(Character: KAITO)
+
+KAITO: With a full moon like this, it's still bright out even at night. It's reassuring somehow.
+
+
+145 5148:5148 phenomena-Rain, phenomena-Rainy Night
+
+(Character: KAITO)
+
+KAITO: The rain in this SEKAI almost seems to sparkle.
+KAITO: I also like that it's not cold, and it doesn't make you wet. No need to worry about anyone catching a chill.
+
+
+146 5149:5149 phenomena-Thunder
+
+(Character: KAITO)
+
+KAITO: Is the thunder close to us?
+KAITO: I think we're still okay... But if it comes closer, let's go indoors. Open spaces are dangerous in a storm.
+
+
+147 5150:5150 phenomena-Meteor Shower
+
+(Character: KAITO)
+
+KAITO: Did you know? They say that if you make a wish three times before a shooting star disappears, it'll come true.
+KAITO: I think there's some truth to it.
+KAITO: Wishing strongly for something can inspire you to put more effort and hard work toward making it happen.
+KAITO: If you have a dream, try wishing for it with all your heart. That feeling will surely support and guide you on your way.
+
+
+148 5151:5151 phenomena-Snowy, phenomena-Snowy Night
+
+(Character: KAITO)
+
+KAITO: How strange... It's snowing, but it's not cold at all.
+KAITO: Do Miku and Emu know about this?
+KAITO: Haha, I can already hear them planning a snowball fight.
+
+
+149 5610:5610 Kid's Room Toy Car
+
+(Character: Tsukasa Tenma, KAITO)
+
+KAITO: Oh, a toy car... Tsukasa, did you ever play with toys like this when you were young?
+Tsukasa: Yes, I had one. Though I don't recall playing with it very often.
+Tsukasa: In particular, when I played with Saki, I spent more time putting on improvised shows with toys for playing house.
+KAITO: Hehe, I see.
+KAITO: (He always has been such a good big brother.)
+
+
+150 5611:5611 Relaxed RC Car
+
+(Character: Emu Otori, KAITO)
+
+Emu: Oh, I got toys like this from my big brothers as hand-me-downs.
+Emu: I was too little to make them go back then, but maybe I can do it better now?
+KAITO: I'm sure you can. There's a trick to it, and I'd be happy to teach you if you want to try.
+Emu: Really?! Yay! Thanks, KAITO☆
+
+
+151 5612:5612 Refined Continental Scented Candles
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: Is this...lavender? It's a very nice scent. It's relaxing...
+KAITO: That reminds me, the scented candles you gave us a while back were excellent, Nene.
+KAITO: The flowers in the wax made them pretty to look at, but more importantly, we could all feel the care you made them with.
+Nene: I just wanted to thank you all for everything you do for us...
+Nene: (Getting thanked so formally like this is kinda embarrassing...)
+
+
+152 5613:5613 Rustic Japanese Telephone
+
+(Character: Rui Kamishiro, KAITO)
+
+KAITO: You don't see telephones like this very often nowadays.
+Rui: Not at all. Apparently some places do still use them... But the only time I've ever seen one was when we visited the Showa Commemorative Museum.
+KAITO: I see. It's strange... The more I look at it, the more compelling I find its color and shape...
+Rui: Hehe. I'd love to use it as a prop for a show set in the Showa period.
+
+
+153 5614:5614 Garden Umbrella Table
+
+(Character: Hatsune Miku, KAITO)
+
+Miku: Ooh, I know what this is! You use this on vacation☆
+KAITO: Vacation?
+Miku: I watched a movie with Tsukasa and everyone one time, and they were on vacation at the seaside and had a bunch of these stuck in the sand☆
+KAITO: (She's likely thinking of beach umbrellas... I guess they are both for relaxing.)
+Miku: You should do that too, KAITO, c'mon! Let's take a break here♪
+KAITO: A break?
+Miku: Yeah! While you're here, you're on break from troupe leading! You have to take it easy, or else☆
+
+
+154 5625:5625 Natural Sofa
+
+(Character: Tsukasa Tenma, KAITO)
+
+Tsukasa: With so much nature around here, you can really feel the negative ions.
+KAITO: Yes, the crisp, clear air and the scent of the trees are wonderful.
+KAITO: Hehe. I never thought I would get to experience sensations like that alongside all of you.
+Tsukasa: True... My SEKAI doesn't have much nature in it, and you can only experience our world as a hologram.
+KAITO: Yes. In that sense, the fact that we could come here has been momentous for all of us.
+
+
+155 5626:5626 Natural Sofa
+
+(Character: Emu Otori, KAITO)
+
+Emu: KAITO! Did you see those flowers over there? The pretty ones blooming all shiny shiny perky perky between the trees!
+KAITO: I've seen a lot of flowers here. Which ones do you mean?
+KAITO: Would you be willing to show me later? I'm very curious to see these shiny shiny perky perky flowers.
+Emu: Yeah♪ Hehehe, when you see them, you'll know for sure that they're the shiny shiny perky perky ones☆
+
+
+156 5627:5627 Natural Sofa
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: KAITO, did I see you saying hello to some flowers earlier?
+KAITO: Hahaha... In Tsukasa's SEKAI, the flowers can speak, after all. I can't always shake the habit here.
+Nene: I see, so that's why... Ah, is that why Miku does it sometimes too?
+KAITO: No, I think Miku would say hello to the flowers no matter what. That's just the kind of person she is.
+
+
+157 5628:5628 Natural Sofa
+
+(Character: Rui Kamishiro, KAITO)
+
+KAITO: You seem fascinated by this SEKAI, Rui. Tsukasa and the others mentioned you've been looking around more intently than anyone.
+Rui: Hehe. I've always been interested in SEKAI, and now I have a second specimen to compare Tsukasa's to.
+Rui: My options for forming and verifying hypotheses have expanded by leaps and bounds. Just thinking about it fills me with excitement.
+Rui: I know...! I would love to ask you some questions as an inhabitant of SEKAI, KAITO. Do you have some time free right now?
+KAITO: O-Of course...
+KAITO: (I feel like this will take a while...)
+
+
+158 5629:5629 Natural Sofa
+
+(Character: Hatsune Miku, KAITO)
+
+Miku: This SEKAI is nice and comfy, but why does it make me feel so fun fun fun too?
+KAITO: I imagine it's because it's filled up with comfortable, fun feelings.
+KAITO: It seems our friend wants us all to have as much fun here as we can.
+Miku: Yeah, yeah! That's what I thought too!
+Miku: Hehehe. Then I'll be sure to talk to them lots and lots, so they can have plenty of fun too♪
+
+
+159 5760:5756 Cozy Picnic Tree
+
+(Character: KAITO)
+
+KAITO: Whenever I see balloons, it makes me think of our SEKAI.
+KAITO: I may have told you before, but our SEKAI is an amusement park. There are balloons like this everywhere.
+KAITO: Everyone loves balloons, especially the plushies, so sometimes I walk around and hand them out.
+
+
+160 5901:5897 Tennis Racket Bag
+
+(Character: KAITO)
+
+KAITO: Oh, sports? Well, I haven't had many opportunities to play any, so I don't know if I would be good at them or not.
+KAITO: But tennis seems pretty cool. If I were to take up a sport, that's what I'd like to try.
+
+
+161 5956:5952 Raijin Festival Bench
+
+(Character: KAITO)
+
+KAITO: This bench makes for a great place to rest after a stroll.
+KAITO: Don't feel like you have to be on your feet all the time around us. Feel free to relax whenever you want to.
+
+
+162 6066:5625~ Refined Continental Sofa
+
+(Character: Tsukasa Tenma, KAITO)
+
+Tsukasa: With so much nature around here, you can really feel the negative ions.
+KAITO: Yes, the crisp, clear air and the scent of the trees are wonderful.
+KAITO: Hehe. I never thought I would get to experience sensations like that alongside all of you.
+Tsukasa: True... My SEKAI doesn't have much nature in it, and you can only experience our world as a hologram.
+KAITO: Yes. In that sense, the fact that we could come here has been momentous for all of us.
+
+
+163 6067:5626~ Refined Continental Sofa
+
+(Character: Emu Otori, KAITO)
+
+Emu: KAITO! Did you see those flowers over there? The pretty ones blooming all shiny shiny perky perky between the trees!
+KAITO: I've seen a lot of flowers here. Which ones do you mean?
+KAITO: Would you be willing to show me later? I'm very curious to see these shiny shiny perky perky flowers.
+Emu: Yeah♪ Hehehe, when you see them, you'll know for sure that they're the shiny shiny perky perky ones☆
+
+
+164 6068:5627~ Refined Continental Sofa
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: KAITO, did I see you saying hello to some flowers earlier?
+KAITO: Hahaha... In Tsukasa's SEKAI, the flowers can speak, after all. I can't always shake the habit here.
+Nene: I see, so that's why... Ah, is that why Miku does it sometimes too?
+KAITO: No, I think Miku would say hello to the flowers no matter what. That's just the kind of person she is.
+
+
+165 6069:5628~ Refined Continental Sofa
+
+(Character: Rui Kamishiro, KAITO)
+
+KAITO: You seem fascinated by this SEKAI, Rui. Tsukasa and the others mentioned you've been looking around more intently than anyone.
+Rui: Hehe. I've always been interested in SEKAI, and now I have a second specimen to compare Tsukasa's to.
+Rui: My options for forming and verifying hypotheses have expanded by leaps and bounds. Just thinking about it fills me with excitement.
+Rui: I know...! I would love to ask you some questions as an inhabitant of SEKAI, KAITO. Do you have some time free right now?
+KAITO: O-Of course...
+KAITO: (I feel like this will take a while...)
+
+
+166 6070:5629~ Refined Continental Sofa
+
+(Character: Hatsune Miku, KAITO)
+
+Miku: This SEKAI is nice and comfy, but why does it make me feel so fun fun fun too?
+KAITO: I imagine it's because it's filled up with comfortable, fun feelings.
+KAITO: It seems our friend wants us all to have as much fun here as we can.
+Miku: Yeah, yeah! That's what I thought too!
+Miku: Hehehe. Then I'll be sure to talk to them lots and lots, so they can have plenty of fun too♪
+
+
+167 6081:5625~ Energetic Crown Sofa
+
+(Character: Tsukasa Tenma, KAITO)
+
+Tsukasa: With so much nature around here, you can really feel the negative ions.
+KAITO: Yes, the crisp, clear air and the scent of the trees are wonderful.
+KAITO: Hehe. I never thought I would get to experience sensations like that alongside all of you.
+Tsukasa: True... My SEKAI doesn't have much nature in it, and you can only experience our world as a hologram.
+KAITO: Yes. In that sense, the fact that we could come here has been momentous for all of us.
+
+
+168 6082:5626~ Energetic Crown Sofa
+
+(Character: Emu Otori, KAITO)
+
+Emu: KAITO! Did you see those flowers over there? The pretty ones blooming all shiny shiny perky perky between the trees!
+KAITO: I've seen a lot of flowers here. Which ones do you mean?
+KAITO: Would you be willing to show me later? I'm very curious to see these shiny shiny perky perky flowers.
+Emu: Yeah♪ Hehehe, when you see them, you'll know for sure that they're the shiny shiny perky perky ones☆
+
+
+169 6083:5627~ Energetic Crown Sofa
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: KAITO, did I see you saying hello to some flowers earlier?
+KAITO: Hahaha... In Tsukasa's SEKAI, the flowers can speak, after all. I can't always shake the habit here.
+Nene: I see, so that's why... Ah, is that why Miku does it sometimes too?
+KAITO: No, I think Miku would say hello to the flowers no matter what. That's just the kind of person she is.
+
+
+170 6084:5628~ Energetic Crown Sofa
+
+(Character: Rui Kamishiro, KAITO)
+
+KAITO: You seem fascinated by this SEKAI, Rui. Tsukasa and the others mentioned you've been looking around more intently than anyone.
+Rui: Hehe. I've always been interested in SEKAI, and now I have a second specimen to compare Tsukasa's to.
+Rui: My options for forming and verifying hypotheses have expanded by leaps and bounds. Just thinking about it fills me with excitement.
+Rui: I know...! I would love to ask you some questions as an inhabitant of SEKAI, KAITO. Do you have some time free right now?
+KAITO: O-Of course...
+KAITO: (I feel like this will take a while...)
+
+
+171 6085:5629~ Energetic Crown Sofa
+
+(Character: Hatsune Miku, KAITO)
+
+Miku: This SEKAI is nice and comfy, but why does it make me feel so fun fun fun too?
+KAITO: I imagine it's because it's filled up with comfortable, fun feelings.
+KAITO: It seems our friend wants us all to have as much fun here as we can.
+Miku: Yeah, yeah! That's what I thought too!
+Miku: Hehehe. Then I'll be sure to talk to them lots and lots, so they can have plenty of fun too♪
+
+
+172 6153:5979 Raijin Festival Outdoor Lantern
+
+(Character: KAITO)
+
+KAITO: You set up a light, I see.
+KAITO: Thank you for that. Now Miku and the others can play safely even when it gets dark outside.
+KAITO: Ah, but if they end up staying too late, I'll be sure to come fetch them.
+
+
+173 6154:5980 Vegetable Basket
+
+(Character: KAITO)
+
+KAITO: Ah...
+KAITO: Oh, no, it's nothing. That's just a lot of vegetables...
+KAITO: If Rui sees them, he might be a little spooked.
+
+
+174 6155:5981 Soccer Ball
+
+(Character: Hatsune Miku, KAITO)
+
+Miku: Hey, KAITO! If we got everyone from our SEKAI together, could we play soccer?
+KAITO: If the plushies join in, we could form several teams, even.
+Miku: Really?! Then could we hold a whole soccer tournament?!
+KAITO: It might not be easy to organize, but I'm sure we could do it if we put our minds to it.
+Miku: Awesome! Okay, then as soon as I get back to SEKAI, I'll ask everyone if they want to play!
+
+
+175 6167:5993 Table Tennis Table
+
+(Character: Tsukasa Tenma, KAITO)
+
+Tsukasa: For someone who claims to have no experience with table tennis, you're rather good at it, KAITO.
+KAITO: I'm sure that's thanks to my excellent teacher.
+Tsukasa: Hah hah hah hah hah! Flattery will get you nowhere, my friend!
+Tsukasa: Now, finish the rally with a smash shot, just like I taught you!
+KAITO: Okay. I won't hold back!
+
+
+176 6219:1921~ Garden Flower Bed (Poppy)
+
+(Character: KAITO)
+
+KAITO: Oh, perfect timing. The flowers in this bed don't seem well.
+KAITO: I've been here for a while, but they haven't sung or even said hello...
+KAITO: Huh? The flowers here don't sing or talk?
+KAITO: Oh, I see. That must be normal outside of our SEKAI. It hadn't occured to me.
+
+
+177 6240:1921~ Garden Flower Bed (Cosmos)
+
+(Character: KAITO)
+
+KAITO: Oh, perfect timing. The flowers in this bed don't seem well.
+KAITO: I've been here for a while, but they haven't sung or even said hello...
+KAITO: Huh? The flowers here don't sing or talk?
+KAITO: Oh, I see. That must be normal outside of our SEKAI. It hadn't occured to me.
+
+
+178 6261:1921~ Garden Flower Bed (Lavender)
+
+(Character: KAITO)
+
+KAITO: Oh, perfect timing. The flowers in this bed don't seem well.
+KAITO: I've been here for a while, but they haven't sung or even said hello...
+KAITO: Huh? The flowers here don't sing or talk?
+KAITO: Oh, I see. That must be normal outside of our SEKAI. It hadn't occured to me.
+
+
+179 6283:1924~ Garden Lattice Planter (Poppy)
+
+(Character: KAITO)
+
+KAITO: This wooden fence is part of the planter itself? How interesting.
+KAITO: It helps break up sightlines, and with a vine planted here it could grow into a nice leafy wall. So many possibilities.
+
+
+180 6305:1924~ Garden Lattice Planter (Cosmos)
+
+(Character: KAITO)
+
+KAITO: This wooden fence is part of the planter itself? How interesting.
+KAITO: It helps break up sightlines, and with a vine planted here it could grow into a nice leafy wall. So many possibilities.
+
+
+181 6327:1924~ Garden Lattice Planter (Lavender)
+
+(Character: KAITO)
+
+KAITO: This wooden fence is part of the planter itself? How interesting.
+KAITO: It helps break up sightlines, and with a vine planted here it could grow into a nice leafy wall. So many possibilities.
+
+
+182 6348:1927~ Garden Wheelbarrow (Poppy)
+
+(Character: KAITO)
+
+KAITO: Well now... The whole wheelbarrow's been turned into a planter.
+KAITO: Hehe. What a handy way to move flowers wherever you want.
+
+
+183 6366:1927~ Garden Wheelbarrow (Cosmos)
+
+(Character: KAITO)
+
+KAITO: Well now... The whole wheelbarrow's been turned into a planter.
+KAITO: Hehe. What a handy way to move flowers wherever you want.
+
+
+184 6384:1927~ Garden Wheelbarrow (Lavender)
+
+(Character: KAITO)
+
+KAITO: Well now... The whole wheelbarrow's been turned into a planter.
+KAITO: Hehe. What a handy way to move flowers wherever you want.
+
+
+185 6507:6150 Colorful Atelier Dresser
+
+(Character: KAITO)
+
+KAITO: This flower motif is so cute. Are these red flowers tulips?
+KAITO: The other kind is... Hmm, all I can think of is anemones.
+
+
+186 6508:6151 Colorful Atelier Stool
+
+(Character: KAITO)
+
+KAITO: Stools are also good for standing on when you need to reach high places, which makes them surprisingly useful.
+
+
+187 6509:6152 Colorful Atelier Easel
+
+(Character: KAITO)
+
+KAITO: This art is really something. It has a vibrancy to it, I'd say.
+KAITO: And you say it's still a work in progress? I'm looking forward to seeing it finished.
+
+
+188 6510:6153 Colorful Atelier Desk
+
+(Character: KAITO)
+
+KAITO: This reminds me of the time Emu drew a picture of me a while ago.
+KAITO: It was touching enough that she'd draw me, but she gave me such a gentle smile in the picture... I was really moved.
+
+
+189 6511:6154 Colorful Atelier Shelf
+
+(Character: KAITO)
+
+KAITO: There are all sorts of art tools here. With these, I bet you could draw just about anything you liked.
+
+
+190 6512:6155 Colorful Atelier Palette
+
+(Character: KAITO)
+
+KAITO: What are you drawing here? I'm so curious.
+
+
+191 6539:6182 phenomena-Rainbow
+
+(Character: KAITO)
+
+KAITO: Look how vivid this rainbow is. It really is beautiful.
+
+
+192 6552:6195 read_event_story-167
+
+(Character: KAITO)
+
+KAITO: The strangest thing happened in the SEKAI we come from. Some powerful feelings showed our friends a dream.
+KAITO: People's feelings really are incredible. They have power beyond our wildest imaginations.
+KAITO: Those recent happenings reminded me of the fact all over again.
+
+
+193 6690:6333 Resort Deck Chair
+
+(Character: KAITO)
+
+KAITO: What a nice place to rest and relax.
+KAITO: Occasionally, Miku and the others "suspend" me from being troupe leader, so I have no choice but to take a day off.
+KAITO: Hehe. Perhaps I'll come here next time that happens.
+
+
+194 6691:6334 Resort Pool
+
+(Character: KAITO)
+
+KAITO: Floating flowers? What a pretty effect.
+KAITO: Did you pick them and float them in the pool? You have excellent taste.
+
+
+195 6692:6335 Resort Hot Tub
+
+(Character: KAITO)
+
+KAITO: Oh, so this is a hot tub.
+KAITO: I'm sure the Plushies would be very interested in getting in.
+
+
+196 6693:6336 Resort Hammock
+
+(Character: KAITO)
+
+KAITO: A hammock...
+KAITO: The Luka from our SEKAI enjoys taking naps. I'm sure she would absolutely love this.
+
+
+197 6694:6337 Alexandra Palm
+
+(Character: KAITO)
+
+KAITO: This plant's leaves remind me of a palm tree...
+KAITO: Oh, it is a palm tree after all?
+KAITO: I suppose it will take some time for it to grow bigger. I hope you'll take good care of it.
+
+
+198 6758:5625~ Resort Sofa
+
+(Character: Tsukasa Tenma, KAITO)
+
+Tsukasa: With so much nature around here, you can really feel the negative ions.
+KAITO: Yes, the crisp, clear air and the scent of the trees are wonderful.
+KAITO: Hehe. I never thought I would get to experience sensations like that alongside all of you.
+Tsukasa: True... My SEKAI doesn't have much nature in it, and you can only experience our world as a hologram.
+KAITO: Yes. In that sense, the fact that we could come here has been momentous for all of us.
+
+
+199 6759:5626~ Resort Sofa
+
+(Character: Emu Otori, KAITO)
+
+Emu: KAITO! Did you see those flowers over there? The pretty ones blooming all shiny shiny perky perky between the trees!
+KAITO: I've seen a lot of flowers here. Which ones do you mean?
+KAITO: Would you be willing to show me later? I'm very curious to see these shiny shiny perky perky flowers.
+Emu: Yeah♪ Hehehe, when you see them, you'll know for sure that they're the shiny shiny perky perky ones☆
+
+
+200 6760:5627~ Resort Sofa
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: KAITO, did I see you saying hello to some flowers earlier?
+KAITO: Hahaha... In Tsukasa's SEKAI, the flowers can speak, after all. I can't always shake the habit here.
+Nene: I see, so that's why... Ah, is that why Miku does it sometimes too?
+KAITO: No, I think Miku would say hello to the flowers no matter what. That's just the kind of person she is.
+
+
+201 6761:5628~ Resort Sofa
+
+(Character: Rui Kamishiro, KAITO)
+
+KAITO: You seem fascinated by this SEKAI, Rui. Tsukasa and the others mentioned you've been looking around more intently than anyone.
+Rui: Hehe. I've always been interested in SEKAI, and now I have a second specimen to compare Tsukasa's to.
+Rui: My options for forming and verifying hypotheses have expanded by leaps and bounds. Just thinking about it fills me with excitement.
+Rui: I know...! I would love to ask you some questions as an inhabitant of SEKAI, KAITO. Do you have some time free right now?
+KAITO: O-Of course...
+KAITO: (I feel like this will take a while...)
+
+
+202 6762:5629~ Resort Sofa
+
+(Character: Hatsune Miku, KAITO)
+
+Miku: This SEKAI is nice and comfy, but why does it make me feel so fun fun fun too?
+KAITO: I imagine it's because it's filled up with comfortable, fun feelings.
+KAITO: It seems our friend wants us all to have as much fun here as we can.
+Miku: Yeah, yeah! That's what I thought too!
+Miku: Hehehe. Then I'll be sure to talk to them lots and lots, so they can have plenty of fun too♪
+
+
+203 6868:6435 Garage Tool Rack
+
+(Character: KAITO)
+
+KAITO: Shelves like these are vital for keeping a workspace organized.
+KAITO: If it were me, I'd probably organize by frequency of use, or type of item...
+KAITO: Ah, never mind me. What's most important is that it feels right to you.
+
+
+204 6869:6436 Garage Work Table
+
+(Character: KAITO)
+
+KAITO: You really need a wide desk like this if you want to work and look at a blueprint at the same time.
+
+
+205 6870:6437 Garage Car
+
+(Character: KAITO)
+
+KAITO: I'm not as flexible as Miku, but I'm still more than able to do general acrobatics.
+KAITO: For instance... I can think of something I can do specifically because this car has no roof. Would you like to see it?
+
+
+206 6871:6438 Garage Motorbike
+
+(Character: KAITO)
+
+KAITO: A motorbike... This would make getting around SEKAI much easier.
+KAITO: Your SEKAI is certainly spacious, but so is ours... To tell the truth, it can be hard to get around sometimes.
+
+
