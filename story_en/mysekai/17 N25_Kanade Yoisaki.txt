@@ -1676,3 +1676,75 @@ Kanade: It was a colorization of a classic black-and-white film. The bike seemed
 Kanade: Paints and solvents and stuff have a pretty strong smell. I don't like it very much.
 
 
+200 6893:6460 phenomena-Cloudy
+
+(Character: Kanade Yoisaki)
+
+Kanade: This is pretty amazing. You don't usually get to see a view like this.
+Kanade: Is it okay if I look for a while longer?
+
+
+201 6953:6520 Dreamy Baby Room Bed
+
+(Character: Kanade Yoisaki)
+
+Kanade: A crib... I wonder if I had one when I was a baby, too.
+
+
+202 6954:6521 Dreamy Baby Room Picture Bookshelf
+
+(Character: Kanade Yoisaki)
+
+Kanade: You have a lot of cute picture books.
+Kanade: It's pretty amazing how they tell stories with just short sentences and pictures.
+Kanade: I'm curious how they do it... Maybe I'll read a few.
+
+
+203 7062:6629 Mametchi
+
+(Character: Kanade Yoisaki)
+
+Kanade: U-Um... What's your name?
+Mametchi: Hello! I'm Mametchi.
+Mametchi: A few things happened, and I wound up here. Nice to meet you!
+Kanade: Oh, I'm Kanade Yoisaki. Nice to meet you too. So Mametchi, are you a...cat? Or maybe a dog?
+Mametchi: I'm a Tamagotchi. I come from Tamagotchi Planet, which is very different from your world. I suppose you've never met someone like me before.
+Kanade: Tamagotchi Planet... I'm not sure where that is, but it must be a one-of-a-kind place.
+
+
+204 7063:6630 Kuchipatchi
+
+(Character: Kanade Yoisaki)
+
+Kuchipatchi: Hello! I'm Kuchipatchi!
+Kanade: Was that your stomach just now? Have you not eaten yet?
+Kuchipatchi: Actually, I just ate! But I'm always in the mood to eat.
+Kuchipatchi: Um, Kanade... What about you?
+Kanade: Now that you mention it, I don't think I've eaten anything since lunch yesterday.
+Kuchipatchi: What?! Th-That's not good! What if you deflate and become as thin as a fluttery piece of paper?!
+
+
+205 7064:6631 Mimitchi
+
+(Character: Kanade Yoisaki)
+
+Mimitchi: Hello, I'm Mimitchi! Calligraphy is my specialty!
+Kanade: I'm Kanade Yoisaki. Um... I'm good at composing music...I guess?
+Mimitchi: Composing music?! Th-That's amazing! If you're okay with it, can I hear some of your songs?
+Kanade: Sure, but... They're kind of gloomy in style, so it might be a lot to take in.
+Mimitchi: No problem! It'll be nothing compared to coming to this unknown world! I'm ready for anything.
+Kanade: Really? In that case, let's start with the lighter ones.
+
+
+206 7065:6632 Memetchi
+
+(Character: Kanade Yoisaki)
+
+Memetchi: So you're Kanade! Hey, have you ever wanted to curl your hair?
+Kanade: Huh? Curl my hair?
+Memetchi: Yeah! I think you'd look great with swirly hair like mine!
+Memetchi: To be honest, I want us to have matching hairstyles... But maybe ringlets like Makiko's would suit you better since your hair is long.
+Kanade: Um... Styling it myself feels like a lot of effort. I guess if someone were to do it for me—
+Memetchi: Let me do it! I'll take responsibility and give you the best curly locks ever!
+
+

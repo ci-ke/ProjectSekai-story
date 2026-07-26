@@ -1876,7 +1876,79 @@ Toya: Hm? Am I interested in vehicles? I don't feel much draw to drive them myse
 Toya: Maybe that's because transportation isn't much of an issue for me. The trains are very convenient within the city area.
 
 
-222 8008:7461 Pochacco's Street Wall
+222 6888:6455 phenomena-Cloudy
+
+(Character: Toya Aoyagi)
+
+Toya: To think I'd get to experience scenery like this without going up into the mountains...
+Toya: I'm sure the actual sight must be more rewarding, both in appearance and in the work it takes to get there...
+Toya: But even so, this is a wonderful sight to see.
+
+
+223 6951:6518 Dreamy Baby Room Picture Bookshelf
+
+(Character: Toya Aoyagi)
+
+Toya: The art in these picture books is very charming. Are these for grade schoolers...no, maybe younger children?
+
+
+224 6952:6519 Dreamy Baby Room Cushion
+
+(Character: Toya Aoyagi)
+
+Toya: What a fluffy and comfortable cushion. The cloud motif is also charming.
+Toya: It feels like it would be especially enjoyable for people who have dreamed of touching or sitting on a cloud.
+
+
+225 7042:6609 Mametchi
+
+(Character: Toya Aoyagi)
+
+Toya: I see... So your father is a researcher. I suppose you got your love of inventing from him.
+Mametchi: Maybe so. I've been leafing through research books for as long as I can remember!
+Mametchi: That reminds me. What kind of person is your father, Toya?
+Toya: He's a musician. He mostly works in classical music, and plays the piano and composes as well.
+Mametchi: Wow, that's amazing! Did you get into music because of him, then?
+Toya: Yes, I did. I do street music now, but he still influenced me very much.
+
+
+226 7043:6610 Kuchipatchi
+
+(Character: Toya Aoyagi)
+
+Toya: Oh, it's you. I was just talking with Kuchipatchi about his home, Patchi Forest. He tells me they have hot springs.
+Kuchipatchi: They're really fantastic! They feel so nice, sometimes I spend aaall day from morning till night in there.
+Toya: We would overheat if we did that...
+Toya: Actually, I don't visit hot springs much at all myself. I'd like to take the time to enjoy one someday.
+Kuchipatchi: Oh, really? Aren't there any hot springs near your house?
+Toya: Now that you mention it, I think there is one accessible by bus. Maybe I'll pay it a visit soon.
+
+
+227 7044:6611 Mimitchi
+
+(Character: Toya Aoyagi)
+
+Toya: I'm told you enjoy solving math drills, Mimitchi. Do you do them often?
+Mimitchi: Every day! They're so much fun, I'll go through a whole book before I know it.
+Toya: That's impressive. I wish Shiraishi and Akito could learn from your example...
+Mimitchi: If you give them problems that are fun to work on, maybe that will help them!
+Toya: True, that could help inspire them to want to study more. Could I ask you to bring me some fun math drills sometime?
+Mimitchi: Sure! I've got tons, so I'll bring them all!
+
+
+228 7045:6612 Memetchi
+
+(Character: Toya Aoyagi)
+
+Toya: It's good to see you again, Memetchi. I'm surprised it's happening here, though.
+Memetchi: I could say the same! Mametchi said we wouldn't have to worry about getting lost here, and we could meet our friends too...
+Toya: It seems he was correct.
+Memetchi: Yeah! I'll have to thank Mametchi and, um... The one whose feelings made this SEKAI.
+Memetchi: We haven't had a chance to talk properly yet. Toya, could you introduce us?
+Toya: Of course. I'd be happy to help.
+
+
+229 8008:7461 Pochacco's Street Wall
 
 (Character: Toya Aoyagi)
 

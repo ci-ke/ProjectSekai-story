@@ -1645,7 +1645,80 @@ Airi: This is just a display piece, right? That's a relief.
 Airi: You know how motorcycles have their accelerators in the handles? I was worried Minori or Shizuku might accidentally gun it.
 
 
-199 8007:7460 My Melody's Lovely Sofa
+199 6883:6450 phenomena-Cloudy
+
+(Character: Airi Momoi)
+
+Airi: So this white mist is actually clouds?
+Airi: I thought it was from a smoke machine like you see at shows.
+
+
+200 6940:6507 Dreamy Baby Room Bed
+
+(Character: Airi Momoi)
+
+Airi: You know I've got two sisters, right? I'm the middle child, so I used my big sister's crib.
+Airi: My little sister used the same one, but...
+Airi: Even though I was too big to want to sleep there anymore, I still felt like she was taking it away from me. Hehe, that brings back memories.
+
+
+201 6941:6508 Dreamy Baby Room Picture Bookshelf
+
+(Character: Airi Momoi)
+
+Airi: Did I ever tell you I used to read a lot of picture books when I was little?
+Airi: I also read a lot of manga. My older sister bought a lot of them for herself.
+Airi: At first I thought I was being sneaky, but then she caught me, and said if I wanted to borrow her stuff I should just ask.
+
+
+202 7022:6589 Mametchi
+
+(Character: Airi Momoi)
+
+Airi: I still can't believe it. I never imagined we'd have visitors from another planet.
+Mametchi: I was surprised the first time I used the sleep-learning machine, too! I wandered towards the sound of a beautiful voice, and that's when I met Miku!
+Airi: Oh yeah, you said your friends all ended up in different SEKAI, right?
+Airi: It's too bad, really. If we'd been practicing in SEKAI, we could've met you all and shown you around.
+Mametchi: I'm sad we didn't get to visit your SEKAI, but at least we get to talk like this!
+Airi: Hehe, you're right. We got to meet each other, so let's chat a lot!
+
+
+203 7023:6590 Kuchipatchi
+
+(Character: Airi Momoi)
+
+Kuchipatchi: Do you have a favorite food, Airi?
+Airi: I like Japanese sweets. They're the absolute best when paired with matcha.
+Kuchipatchi: Matcha... Oh, I've had that before! It was kinda bitter, but really yummy.
+Airi: I'm impressed that you can appreciate the bitterness! I can bring some Japanese sweets and matcha next time if you'd like.
+Kuchipatchi: Really?! But all the manners and rules seem kinda hard...
+Airi: Don't worry! It won't be a formal tea ceremony. Think of it as a casual tea party to get to know each other better!
+
+
+204 7024:6591 Mimitchi
+
+(Character: Airi Momoi)
+
+Airi: You know, Mimitchi, the more I talk to you, the more you remind me of Shizuku.
+Mimitchi: I do? How so?
+Airi: First, you're both hard workers. You do your math drills and Shizuku practices her dancing and singing. You both go at your own pace, but always do your best.
+Airi: Also, you're both more dependable than you look.
+Mimitchi: Hehehe. You're just showering me with compliments, Airi!
+Airi: Um, I wasn't trying to compliment you, exactly... That slightly ditzy side of yours is similar, too.
+
+
+205 7025:6592 Memetchi
+
+(Character: Airi Momoi)
+
+Memetchi: Wow! You've also got a friend who knows a lot about makeup, Airi?
+Airi: Yes. She taught me the tricks of using makeup to enhance my natural beauty.
+Memetchi: I see! That's so nice. I wonder if I'll be able to do makeup that makes me shine someday, too.
+Airi: You have to get used to applying makeup, so the important thing is to keep practicing.
+Memetchi: Right... So makeup is just like hair care. It takes daily effort.
+
+
+206 8007:7460 My Melody's Lovely Sofa
 
 (Character: Airi Momoi)
 

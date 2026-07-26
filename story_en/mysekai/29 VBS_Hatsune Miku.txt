@@ -1492,7 +1492,75 @@ Miku: Oh, you'd be the one driving, of course. If I'm busy with the wheel, I can
 Miku: A motorbike, huh? These are good for narrow roads. It'd be handy in our SEKAI.
 
 
-175 8013:7466 Hello Kitty's Piano
+175 6905:6472 phenomena-Cloudy
+
+(Character: Hatsune Miku)
+
+Miku: Kohane showed me some pictures taken from the top of a mountain once, and the view looked like this.
+Miku: I never thought I'd get to see it in reality.
+Miku: Well, this isn't the top of a large mountain, so it doesn't feel the same at all, but still.
+
+
+176 6971:6538 Dreamy Baby Room Picture Bookshelf
+
+(Character: Hatsune Miku)
+
+Miku: With picture books, you can kind of understand the story just with the pictures.
+Miku: I wish recipe books were just as easy to understand.
+
+
+177 6972:6539 Dreamy Baby Room Cushion
+
+(Character: Hatsune Miku)
+
+Miku: I hear real clouds aren't bouncy or fluffy at all, but they still give off that feeling. Is it just because of the shape, you think?
+
+
+178 7086:6653 Mametchi
+
+(Character: Hatsune Miku)
+
+Mametchi: Nice to meet you! My name's Mametchi!
+Miku: I'm Miku. Memetchi told me about you. You like inventing things, right?
+Mametchi: I do. Still, I never expected my device to bring us together like this.
+Miku: It was a surprise to me too. But the thing about SEKAI is, things like this do happen sometimes.
+Mametchi: Really? It sounds like something I'd love to study!
+Miku: Sure, why not? The more we know about SEKAI, the more we can be helpful for Kohane and the others.
+
+
+179 7087:6654 Kuchipatchi
+
+(Character: Hatsune Miku)
+
+Miku: Hello, I'm Miku. And you are...?
+Kuchipatchi: I'm Kuchipatchi! I came here with Mametchi and... Uh oh.
+Miku: Was that your stomach grumbling?
+Kuchipatchi: Hehehe. Those dumplings on your head had me hankering for a snack all of a sudden.
+Miku: Dumplings...? You mean my buns? Hehe, do you have a big appetite, Kuchipatchi?
+
+
+180 7088:6655 Mimitchi
+
+(Character: Hatsune Miku)
+
+Mimitchi: Miku, do you like math drills?
+Miku: Math drills? I don't know... I have watched Kohane and the others studying math before.
+Mimitchi: Okay, do you want to do some together? I'll help you if you get stuck!
+Miku: Are you sure? I guess it's a good opportunity. Maybe it'll teach me a little bit about the struggles and joys of studying.
+
+
+181 7089:6656 Memetchi
+
+(Character: Hatsune Miku)
+
+Memetchi: It's good to see you again, Miku! I'm glad you're doing well!
+Miku: Same here, Memetchi. You look happy.
+Memetchi: Hehe, can you tell? It's actually because our recital was a hit!
+Memetchi: After we said goodbye, I practiced with the rest of my group, and we improved even more♪ If you like, I'll call them all over later, and we'll perform for you.
+Miku: Sounds good. I'd like to see the results of your hard work.
+
+
+182 8013:7466 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

@@ -1754,3 +1754,70 @@ MEIKO: This bike has a bit of a retro feel to it. It's sort of cute.
 MEIKO: If I had a model of it, I'd put it on the counter or a shelf at my cafe.
 
 
+209 6900:6467 phenomena-Cloudy
+
+(Character: MEIKO)
+
+MEIKO: Amazing. It really does feel like we've climbed above the clouds.
+MEIKO: Hehe. Maybe it's just my imagination, but the air does feel crisper and cleaner already.
+
+
+210 6975:6542 Dreamy Baby Room Picture Bookshelf
+
+(Character: MEIKO)
+
+MEIKO: All these picture books are adorable. Do you read them to anyone?
+
+
+211 6976:6543 Dreamy Baby Room Cushion
+
+(Character: MEIKO)
+
+MEIKO: What a soft and comfortable cushion.
+MEIKO: I wonder if I could replicate this feeling with a design that suits the decor of the cafe a little better...
+
+
+212 7110:6677 Mametchi
+
+(Character: MEIKO)
+
+MEIKO: So you're Mametchi. I'm MEIKO. Nice to meet you.
+Mametchi: It's nice to meet you too! Memetchi told me about you. I heard you run a cafe!
+MEIKO: Yes, I'm usually at my cafe brewing coffee and cooking up dishes.
+MEIKO: But I do have the others take over from time to time so I can come hang out here, so come say hi if you see me.
+Mametchi: Wow... You really feel like you run a cafe. There's this calm air about you.
+MEIKO: You think so? Well, the SEKAI I'm from has a free spirit and a fickle flake to deal with, so I need to keep my act together if I don't want to get dragged around in their wake.
+
+
+213 7111:6678 Kuchipatchi
+
+(Character: MEIKO)
+
+Kuchipatchi: Is it true you run a cafe, MEIKO?
+MEIKO: Yes. Though, it's in the SEKAI I come from, not here. Are you interested?
+Kuchipatchi: Yeah! Miku and Len told me your lunches are really good!
+Kuchipatchi: Salisbury steak lunches, rice omelet lunches...! Oh, that made me drool...
+MEIKO: Hehe. I hope you'll drop by if you ever make your way to our SEKAI. I'll toss in a dessert or up the size for you.
+
+
+214 7112:6679 Mimitchi
+
+(Character: MEIKO)
+
+Mimitchi: *Gasp* Len's really doing those math drills I gave him?!
+MEIKO: He is. I've been pretty surprised. It doesn't seem like something he'd be interested in.
+Mimitchi: He told me he wants to get good at math so he can look more cool. That's why he's working so hard!
+MEIKO: Getting cooler by studying math... Hehe. He must want to impress An and Akito.
+
+
+215 7113:6680 Memetchi
+
+(Character: MEIKO)
+
+MEIKO: It's good to see you again, Memetchi! How was your recital? Did everything go well?
+Memetchi: It went perfectly! The other groups were blown away!
+Memetchi: Hehe. I think I like singing even more now!
+MEIKO: Really? I'm happy to hear that, as one of your teachers.
+MEIKO: I hope you'll keep singing more going forward.
+
+

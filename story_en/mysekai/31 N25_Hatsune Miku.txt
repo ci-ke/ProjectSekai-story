@@ -1708,7 +1708,78 @@ Miku: I want to touch it, but if it started up... Huh? It won't move?
 Miku: I see... That's a relief, but it's also too bad.
 
 
-204 8015:7468 Hello Kitty's Piano
+204 6902:6469 phenomena-Cloudy
+
+(Character: Hatsune Miku)
+
+Miku: I thought clouds could only be in the sky, so seeing them this close is strange...
+Miku: It feels like I've gotten really big.
+
+
+205 6977:6544 Dreamy Baby Room Bed
+
+(Character: Hatsune Miku)
+
+Miku: There's no blanket on this bed. Should I bring one over?
+Miku: But... This sheep plushie looks warm already, so maybe they don't need it.
+
+
+206 6978:6545 Dreamy Baby Room Rocking Animal
+
+(Character: Hatsune Miku)
+
+Miku: It's a rocking horse, but it's a sheep?
+Miku: I see. It doesn't have to be a horse.
+
+
+207 7094:6661 Mametchi
+
+(Character: Hatsune Miku)
+
+Mametchi: Hello! My name is Mametchi. Um... You're Miku, right?
+Miku: Yes. Who did you hear about me from?
+Mametchi: Actually, I've met Mikus from a few SEKAI here, so I guessed that you were also a Miku.
+Mametchi: But, it's strange. Even though each Miku is so unique, I can somehow always tell who you are.
+Miku: I wonder why...
+Miku: In any case, I'm happy you can tell that I'm Miku.
+
+
+208 7095:6662 Kuchipatchi
+
+(Character: Hatsune Miku)
+
+Kuchipatchi: Hey, Miku. What's it like in your SEKAI?
+Miku: It's very quiet, and it's empty except for a lake.
+Miku: It's a little dark, too.
+Kuchipatchi: Hm... That sounds kinda lonely... Are you okay there, Miku?
+Miku: I am. Mafuyu and the others come to visit, and Rin and the others are there with me. Thank you for asking.
+Kuchipatchi: Don't mention it. I was worried you might be all alone!
+
+
+209 7096:6663 Mimitchi
+
+(Character: Hatsune Miku)
+
+Mimitchi: I got lost in a SEKAI where everyone was in a band! Do you perform any music, Miku?
+Miku: Kanade and Mafuyu write music... I just sing.
+Mimitchi: What's your singing like? If you don't mind, I wanna hear some!
+Miku: Okay, then I'll sing something.
+Miku: ♪——... ♪————...
+
+
+210 7097:6664 Memetchi
+
+(Character: Hatsune Miku)
+
+Memetchi: Hello! I'm Memetchi! You're...Miku, right?
+Miku: ... Yes, that's right. It's nice to meet you, Memetchi.
+Memetchi: The pleasure's all mine! By the way, Miku, would you say you take things at your own pace?
+Miku: ... Huh? I don't think so... Why?
+Memetchi: Just a hunch, since you paused both times you replied to me.
+Miku: ... Oh, I see. I never really thought about it...
+
+
+211 8015:7468 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

@@ -1468,7 +1468,83 @@ Miku: I'm used to thinking of motorcycles as cool things, but I didn't know ther
 Miku: I sort of want to try riding it.
 
 
-178 8011:7464 Hello Kitty's Piano
+178 6903:6470 phenomena-Cloudy
+
+(Character: Hatsune Miku)
+
+Miku: It feels weird having clouds go by your feet...
+Miku: I know nothing will happen if I touch them, but I end up moving out of the way anyway.
+
+
+179 6961:6528 Dreamy Baby Room Bed
+
+(Character: Hatsune Miku)
+
+Miku: This is a bed for a baby, right?
+Miku: Hehe. It looks like it belongs to this sheep right now, though.
+
+
+180 6962:6529 Dreamy Baby Room Rocking Animal
+
+(Character: Hatsune Miku)
+
+Miku: This is a toy for little kids, I think? You just rock it back and forth, right?
+Miku: Well, no one's riding it right now, so there's no point in rocking it.
+
+
+181 6963:6530 Dreamy Baby Room Cushion
+
+(Character: Hatsune Miku)
+
+Miku: This cushion looks really soft and comfortable. Mind if I sit for a bit?
+
+
+182 7078:6645 Mametchi
+
+(Character: Hatsune Miku)
+
+Miku: Are you Mametchi? Nice to meet you. I'm Miku.
+Mametchi: Nice to meet you! Um, you're the Miku who's a senior for Ichika and her bandmates, correct?
+Miku: Oh, the others told you about me?
+Mametchi: That's right! They told me that you're a very kind, cool and dependable senior.
+Miku: Huh? Who told you all that? That level of praise is way too embarrassing...
+
+
+183 7079:6646 Kuchipatchi
+
+(Character: Hatsune Miku)
+
+Kuchipatchi: I heard you're in a band, Miku! What instrument do you play?
+Miku: Let's see... I usually play guitar, but I can play bass and other instruments too.
+Kuchipatchi: That many different things?! Th-That's so cool!
+Miku: Hehe, thank you. If you're interested in music, Kuchipatchi, why don't you try playing something yourself?
+Kuchipatchi: That'd be okay?! Whoooa! I wanna do a cool guitar solo!
+
+
+184 7080:6647 Mimitchi
+
+(Character: Hatsune Miku)
+
+Mimitchi: Miku, Luka told me I remind her of you. Do you know what we have in common?
+Miku: What? Um... I don't know if I agree, but... I guess it might be how people perceive me.
+Mimitchi: How people perceive you?
+Miku: So... For example, my nickname. One of our friends calls me "Miku-P"...
+Mimitchi: Oh, I get it! Yeah, we are kinda similar!
+Miku: If you like it that much, I guess "Miku-P" isn't so bad...maybe.
+
+
+185 7081:6648 Memetchi
+
+(Character: Hatsune Miku)
+
+Memetchi: Miku, you pin down your bangs really securely, don't you?
+Miku: It's to keep my hair out of my face while I play.
+Memetchi: So you do it for your performances? Still, the different colors and the X shape tell me you also consider aesthetics!
+Miku: Yeah. If I'm going to wear something, I want it to look cool.
+Memetchi: I toootally understand, Miku! That mentality is vital to looking stylish!
+
+
+186 8011:7464 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

@@ -1754,3 +1754,76 @@ KAITO: A motorbike... This would make getting around SEKAI much easier.
 KAITO: Your SEKAI is certainly spacious, but so is ours... To tell the truth, it can be hard to get around sometimes.
 
 
+207 6901:6468 phenomena-Cloudy
+
+(Character: KAITO)
+
+KAITO: It's a very strange feeling to walk among the clouds like this.
+KAITO: I suppose this is yet another marvel of SEKAI.
+
+
+208 6920:6487 Dreamy Baby Room Bed
+
+(Character: KAITO)
+
+KAITO: Hehe. What a safe and cozy bed.
+KAITO: It might just be my imagination, but maybe that's why this sheep plushie seems to be smiling.
+
+
+209 6921:6488 Dreamy Baby Room Picture Bookshelf
+
+(Character: KAITO)
+
+KAITO: Tsukasa and the others will be bringing us some picture books in the near future. I plan to read them to the plushies...
+KAITO: Would it be possible for me to practice here, with these books?
+KAITO: In fact, could I read to you and get your feedback?
+
+
+210 7114:6681 Mametchi
+
+(Character: KAITO)
+
+KAITO: I see... So to make sure no one would get lost, you decided to gather here.
+Mametchi: Yes... Still, I feel somewhat guilty. I've been told that SEKAI are truly special places formed from their owners' feelings...
+Mametchi: And here we are, using one as a meeting point...
+KAITO: I can't be sure unless I ask... But something tells me the owner of this SEKAI really enjoys making new encounters here.
+KAITO: So, I think our friend is glad to have met you, and happy about our reunion as well.
+Mametchi: ...! That would be so nice to hear. It makes me a bit nervous, but I think I'll ask.
+
+
+211 7115:6682 Kuchipatchi
+
+(Character: KAITO)
+
+KAITO: It's great to see you again, Kuchipatchi. It sounds like you've already met with the others as well.
+Kuchipatchi: Yup! I told 'em the nice things everybody said about our chorus, and they told me to come play at the amusement park again♪
+Kuchipatchi: Hehehe. I can't wait to go on the secret ride Miku told me about!
+KAITO: A secret ride? That's not ringing any bells...
+Kuchipatchi: Uhh... Miku said, "MEIKO goes all spinny, then you fly all whoosh and hit the clouds all fwoosh!"
+KAITO: Ah... Sorry, Kuchipatchi, but that's not exactly a ride... It's a bit dangerous, so I don't think we'll be able to do that.
+
+
+212 7116:6683 Mimitchi
+
+(Character: KAITO)
+
+Mimitchi: I heard the SEKAI you're from is full of flowers who can sing really well♪ I wanna meet them!
+KAITO: I'd love to introduce you. I'm sure they'd enjoy that.
+KAITO: By the way, Mimitchi, is it the singing that got you interested? Or do you just like flowers?
+Mimitchi: I like both♪
+Mimitchi: Sometimes I'll sing a little song while doing my math drills, and I also water the flowers at home and take good care of them every day!
+KAITO: Hehe. I see. Now I'm all the more eager to introduce you.
+
+
+213 7117:6684 Memetchi
+
+(Character: KAITO)
+
+Memetchi: Oh, so in the SEKAI you're from, you lead your acting troupe.
+Memetchi: But I can't really imagine you telling people to do this or that.
+KAITO: In my case, being the leader is less about giving orders and more about taking responsibility for everything that goes on. That way, Miku and the others can be more free to enjoy themselves.
+KAITO: Though, that means they often drag me into trouble...
+Memetchi: Hehe. Now that, I can imagine.
+KAITO: Huh?! Maybe I do need more decorum as the leader...
+
+

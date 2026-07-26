@@ -1692,7 +1692,77 @@ Emu: So I said, let's call it Mr. Spirit Bike! But she said I couldn't...
 Emu: I wonder why, though. Do you think Nene is afraid of spirits?
 
 
-205 8009:7462 Cinnamoroll's Cafe Table
+205 6890:6457 phenomena-Cloudy
+
+(Character: Emu Otori)
+
+Emu: This white thing is a cloud, right?! Wow, that's amazing! It's like we're high up on a mountain!
+Emu: Hehehe. I've always wanted to try touching a cloud!
+Emu: I wonder what it'll feel like? Do you think it'll be super fluffy?
+
+
+206 6910:6477 Dreamy Baby Room Bed
+
+(Character: Emu Otori)
+
+Emu: Oh, this is a bed for a baby! Is there a baby here?
+Emu: I'm really good at making babies laugh! I go "bleh bleh wonderhoy" and it works!
+
+
+207 6911:6478 Dreamy Baby Room Rocking Animal
+
+(Character: Emu Otori)
+
+Emu: Look at this fluffy-wuffy sheep! I bet it'd be so comfy to ride on its back♪
+Emu: But I think I'd be too heavy if I tried. It would have to be a bigger sheepy for me!
+
+
+208 7050:6617 Mametchi
+
+(Character: Emu Otori)
+
+Emu: Hello there! I'm Emu Otori! Nice to meet you!
+Mametchi: The pleasure's all mine, Emu! I'm Mametchi.
+Mametchi: Oh, I just remembered! Kuchipatchi told me that one of you was good at acrobatics! That's you, isn't it?
+Emu: Uh-huh♪ Moving around is my specialty☆ Including sword fights! Ching ching! Slash slash!
+Mametchi: Th-That's so cool...! I'd love to see you fighting with a sword!
+Emu: Okay☆ Then I gotta get Tsukasa and the others♪
+
+
+209 7051:6618 Kuchipatchi
+
+(Character: Emu Otori)
+
+Kuchipatchi: I'm so happy to see you again, Emu!
+Emu: Me tooo! Hehehe, now we can do more singing and dancing together♪
+Kuchipatchi: I wanna do that! And your shows sound interesting too♪
+Emu: Really?! Then do you wanna be in one with us? I promise you it'll be super duper fun♪
+Kuchipatchi: A-A show?! Woohoo! I'm gonna practice real hard for it!
+
+
+210 7052:6619 Mimitchi
+
+(Character: Emu Otori)
+
+Mimitchi: Kuchipatchi told me you do shows! I wanna know what they're about!
+Emu: Um, lemme think! We do shows about heroes on quests to defeat dragons and demon lords... A show about a mermaid princess visiting the human world... There's a whole bunch of different stories!
+Mimitchi: Wow...! That sounds so interesting♪ I'd love to hear more!
+Emu: Hehehe. Then I'll bring the shows to you! I have some stage recordings that the mascots took for me♪
+Mimitchi: Yay! I'm looking forward to it♪
+
+
+211 7053:6620 Memetchi
+
+(Character: Emu Otori)
+
+Emu: Whaaat?! On Tamagotchi Planet, even the trees and houses can talk?!
+Memetchi: That's right. They often wish me a good morning on my way to school♪
+Emu: Wow...! Th-That sounds so fuuun! I wanna visit Tamagotchi Planet☆
+Emu: Oh, I know! I'll ask Rui and Mametchi if they can make us a machine that lets us visit you in our dreams!
+Memetchi: That would be wonderful♪ If you do manage to come visit, we'll be sure to show you around!
+
+
+212 8009:7462 Cinnamoroll's Cafe Table
 
 (Character: Emu Otori)
 

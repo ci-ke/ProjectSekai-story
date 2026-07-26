@@ -1671,7 +1671,80 @@ Ena: Oh, be sure to wash out your brushes properly when you're done using them.
 Ena: If you just leave them out, they'll be a real nightmare to work with next time.
 
 
-195 8010:7463 KUROMI's Floor Cushion
+195 6895:6462 phenomena-Cloudy
+
+(Character: Ena Shinonome)
+
+Ena: Whoa, what is this?! It's super picturesque!
+Ena: Let me take a few pictures! I won't post them anywhere!
+Ena: Hmm, I really want to capture the feel of the atmosphere and everything too, so maybe I'll take some landscapes, not selfies.
+
+
+196 6957:6524 Dreamy Baby Room Bed
+
+(Character: Ena Shinonome)
+
+Ena: Does this crib belong to this little sheep plushie?
+Ena: You should put a few more plushies in, then. You don't want it to be lonely.
+Ena: Hey. What was that look just now? I may not look it, but I get told that I'm a mother hen a lot, you know.
+
+
+197 6958:6525 Dreamy Baby Room Rocking Animal
+
+(Character: Ena Shinonome)
+
+Ena: You know, you should take this whole dreamy feel and make a rocking chair, too.
+Ena: I think it would be really comfy. If you ever feel like making it, you just should.
+
+
+198 7070:6637 Mametchi
+
+(Character: Ena Shinonome)
+
+Ena: So you're Mametchi, the one who invented the sleep-learning machine. I'm Ena Shinonome. You can call me Ena.
+Mametchi: Thank you! Then, don't mind if I do.
+Ena: I know we've only just met, but you don't have to speak formally with me. I'd feel more comfortable that way too.
+Mametchi: Oh, I'm sorry. I can't help the way I speak...
+Ena: Really? Oh, I just remembered! Could you tell me more about Tamagotchi Planet? I'd love to know what kind of place it is.
+Mametchi: Of course! So, Tamagotchi Planet is...
+
+
+199 7071:6638 Kuchipatchi
+
+(Character: Ena Shinonome)
+
+Ena: So, you have siblings too, Kuchipatchi?
+Kuchipatchi: I have two younger brothers and they're twins! They're really cute!
+Ena: That sounds nice. I have a younger brother too, but he's such a pain and not cute whatsoever.
+Ena: I wonder if it'd be different if we were more than one year apart?
+Kuchipatchi: Maybe... But a cheeky sibling sounds like they'd be fun to hang out with♪
+
+
+200 7072:6639 Mimitchi
+
+(Character: Ena Shinonome)
+
+Ena: It still surprises me to hear that. You used the sleep-learning machine to work on your singing and ended up in SEKAI instead.
+Mimitchi: Me and the others couldn't believe it either. I'm kinda worried about whether I'll remember everything when I wake up in the morning.
+Mimitchi: It's sad to think that I might forget all of the friends I made here.
+Ena: I can only imagine... It's so easy to forget the good dreams, too.
+Mimitchi: I know, right? And it's not likely we'll have the same dream even if we go back to sleep immediately after waking up.
+Ena: Yeah... That just means the fact you were able to come to SEKAI at all is amazing.
+
+
+201 7073:6640 Memetchi
+
+(Character: Ena Shinonome)
+
+Memetchi: Wow! So you have straightening irons in your world, too?
+Ena: Yeah. But I style my hair by blow-drying as much as possible, since I want to limit the heat damage.
+Ena: I use my straightening iron mainly when I have really bad bedhead.
+Memetchi: I totally get it! Your hair looks and feels different depending on whether you blow-dry or straighten it!
+Memetchi: Hey, Ena. Can you give me some more hairstyling and hair care tips?
+Ena: Sure. I have a lot, so I don't know where to start...
+
+
+202 8010:7463 KUROMI's Floor Cushion
 
 (Character: Ena Shinonome)
 
