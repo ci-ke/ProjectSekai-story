@@ -3,7 +3,7 @@ name: Update All
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * 6'
+    - cron: '0 0 * * *'
 
 jobs:
   update:
@@ -13,5 +13,6 @@ jobs:
     with:
       run_command: "uv run --no-dev -m action.all_pjsk"
       commit_message: "Update all"
+      need_assets: true
     secrets:
       PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
