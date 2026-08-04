@@ -1811,7 +1811,17 @@ An: It's probably pretty ancient by now... But I wonder if it's still being used
 An: What's with this cushion? It's so soft and fuzzy! Imagine going to sleep hugging this thing!
 
 
-210 7034:6601 Mametchi
+210 6979:6546 read_event_story-175
+
+(Character: An Shiraishi)
+
+An: Having rivals is so great!
+An: We went to the US recently, and we met some amazing singers there.
+An: Competing and pushing each other to grow as we chase the same dream... It reminded me that that kind of relationship is really nice.
+An: We can't let our guard down or they'll beat us... But that's just perfect! We'll give everything we've got and come out on top!
+
+
+211 7034:6601 Mametchi
 
 (Character: An Shiraishi)
 
@@ -1823,7 +1833,7 @@ Mametchi: I'm sorry I couldn't be any help.
 An: No, that's okay. I guess it's important to put in your own effort for both music and studying.
 
 
-211 7035:6602 Kuchipatchi
+212 7035:6602 Kuchipatchi
 
 (Character: An Shiraishi)
 
@@ -1835,7 +1845,7 @@ Kuchipatchi: I dunno if I'd be able to bring all that tasty food out to the cust
 An: Hahaha, food service might be a bit too much temptation if you're a foodie, yeah.
 
 
-212 7036:6603 Mimitchi
+213 7036:6603 Mimitchi
 
 (Character: An Shiraishi)
 
@@ -1847,7 +1857,7 @@ An: Oh, um... Well... Y'know...
 Mimitchi: Huh? An, why are you looking away? I'm over here.
 
 
-213 7037:6604 Memetchi
+214 7037:6604 Memetchi
 
 (Character: An Shiraishi)
 
