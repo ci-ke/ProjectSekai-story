@@ -1750,7 +1750,16 @@ Haruka: A cushion shaped like a cloud?
 Haruka: Hehe. I guess that means we can sit on a cloud. That's a little exciting.
 
 
-211 7018:6585 Mametchi
+211 6981:6548 read_event_story-176
+
+(Character: Haruka Kiritani)
+
+Haruka: I had a strange dream the other day.
+Haruka: Just like in real life, I had quit ASRUN...and I had given up on being an idol and spreading hope.
+Haruka: But then Minori asked me to dance with her... She saved me all over again.
+
+
+212 7018:6585 Mametchi
 
 (Character: Haruka Kiritani)
 
@@ -1761,7 +1770,7 @@ Mametchi: We get all kinds of weather. But the seasons don't suddenly change lik
 Mametchi: Every great once in a while, different parts of the day get longer or shorter. That's about it, though.
 
 
-212 7019:6586 Kuchipatchi
+213 7019:6586 Kuchipatchi
 
 (Character: Haruka Kiritani)
 
@@ -1772,7 +1781,7 @@ Haruka: Yes. Being mindful of what we eat is part of an idol's job.
 Kuchipatchi: Th-That's incredible... There's no way I could do that.
 
 
-213 7020:6587 Mimitchi
+214 7020:6587 Mimitchi
 
 (Character: Haruka Kiritani)
 
@@ -1783,7 +1792,7 @@ Mimitchi: Yeah! The people I met were really kind, and I had so much fun hanging
 Haruka: I see. I'm glad you were able to meet such nice people.
 
 
-214 7021:6588 Memetchi
+215 7021:6588 Memetchi
 
 (Character: Haruka Kiritani)
 

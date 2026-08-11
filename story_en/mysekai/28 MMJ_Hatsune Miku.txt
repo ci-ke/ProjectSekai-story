@@ -1466,7 +1466,16 @@ Miku: I knew about rocking horses, but I didn't know there were sheep versions t
 Miku: What other kinds of animals do they have? Could you tell me?
 
 
-178 7082:6649 Mametchi
+178 6984:6551 read_event_story-176
+
+(Character: Hatsune Miku)
+
+Miku: The connections we make in life are so precious.
+Miku: When I reflect on how far the girls have come, I realize just how many obstacles they only overcame because they were united as MORE MORE JUMP!
+Miku: I want to keep doing all I can to support them in chasing their dream!
+
+
+179 7082:6649 Mametchi
 
 (Character: Hatsune Miku)
 
@@ -1477,7 +1486,7 @@ Miku: Hehe. She sounds like a wonderful idol! Would you like to watch me and Rin
 Mametchi: Would that be okay?! I'd love to!
 
 
-179 7083:6650 Kuchipatchi
+180 7083:6650 Kuchipatchi
 
 (Character: Hatsune Miku)
 
@@ -1489,7 +1498,7 @@ Kuchipatchi: Hehehe. You're a big eater too!
 Miku: I see, I'm a big— Wait, what?!
 
 
-180 7084:6651 Mimitchi
+181 7084:6651 Mimitchi
 
 (Character: Hatsune Miku)
 
@@ -1501,7 +1510,7 @@ Miku: Instruments? Wow! I bet I would look extremely cool if I were an idol who 
 Mimitchi: That sounds amazing! I also want to see a multi-talented idol like that!
 
 
-181 7085:6652 Memetchi
+182 7085:6652 Memetchi
 
 (Character: Hatsune Miku)
 
@@ -1513,7 +1522,7 @@ Memetchi: Oh... No, I suppose I don't.
 Miku: Hehe. I guess in both cases, the secret is to enjoy yourself.
 
 
-182 8012:7465 Hello Kitty's Piano
+183 8012:7465 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

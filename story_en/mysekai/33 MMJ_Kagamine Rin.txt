@@ -1723,7 +1723,16 @@ Rin: This cushion...ah, never mind! It's just a regular cushion that's shaped li
 Rin: Hehehe. This is SEKAI, after all, so I thought maybe you made it with a real cloud!
 
 
-210 7098:6665 Mametchi
+210 6985:6552 read_event_story-176
+
+(Character: Kagamine Rin)
+
+Rin: Hey! Had any weird dreams lately?
+Rin: The thing is, the girls had a nightmare in our SEKAI recently... I was worried something might have happened to you too.
+Rin: If you have any strange dreams, come and talk to me! I'll cheer you up and make you forget aaall about it♪
+
+
+211 7098:6665 Mametchi
 
 (Character: Kagamine Rin)
 
@@ -1735,7 +1744,7 @@ Mametchi: I see! You hope to improve your performance by practicing even in your
 Rin: Y-You think so? Hehe, you're gonna make me blush.
 
 
-211 7099:6666 Kuchipatchi
+212 7099:6666 Kuchipatchi
 
 (Character: Kagamine Rin)
 
@@ -1747,7 +1756,7 @@ Rin: Um, I'd say she likes eating... But she's an idol, so she has to be careful
 Kuchipatchi: So she and I are food buddies! I'll take some snacks over and talk to her!
 
 
-212 7100:6667 Mimitchi
+213 7100:6667 Mimitchi
 
 (Character: Kagamine Rin)
 
@@ -1758,7 +1767,7 @@ Rin: Oh... So that's what it's about.
 Rin: I totally figured you got lost easily, or were bad with technology.
 
 
-213 7101:6668 Memetchi
+214 7101:6668 Memetchi
 
 (Character: Kagamine Rin)
 

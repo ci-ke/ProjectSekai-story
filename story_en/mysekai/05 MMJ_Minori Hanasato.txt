@@ -1747,7 +1747,16 @@ Minori: They were having so much fun on the cover, but then in the story a monst
 Minori: It's a cloud-shaped cushion! The little stars on it are so cute.
 
 
-201 7014:6581 Mametchi
+201 6980:6547 read_event_story-176
+
+(Character: Minori Hanasato)
+
+Minori: Recently, I had this dream about being in a different group than MORE MORE JUMP!
+Minori: But Haruka and the others helped me practice, just like when we first met. It really had me thinking back to those times.
+Minori: I danced with them too, and it was so much fun! It reminded me just how much I love to dance with all of them.
+
+
+202 7014:6581 Mametchi
 
 (Character: Minori Hanasato)
 
@@ -1757,7 +1766,7 @@ Minori: Hahaha... I just can't help myself when I see something cute...
 Minori: Your friends are here too, right? I've gotta be sure not to make the same mistake with them!
 
 
-202 7015:6582 Kuchipatchi
+203 7015:6582 Kuchipatchi
 
 (Character: Minori Hanasato)
 
@@ -1768,7 +1777,7 @@ Kuchipatchi: Do you sing lots of different songs too, Minori? I wanna hear you s
 Minori: Really?! Then, how about I sing something just for you?
 
 
-203 7016:6583 Mimitchi
+204 7016:6583 Mimitchi
 
 (Character: Minori Hanasato)
 
@@ -1780,7 +1789,7 @@ Mimitchi: That happens. But when it does, I think following through on what you 
 Minori: You're right...! Thank you, Mimitchi. I'll definitely keep that in mind from now on!
 
 
-204 7017:6584 Memetchi
+205 7017:6584 Memetchi
 
 (Character: Minori Hanasato)
 

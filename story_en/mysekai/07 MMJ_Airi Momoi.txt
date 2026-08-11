@@ -1671,7 +1671,16 @@ Airi: I also read a lot of manga. My older sister bought a lot of them for herse
 Airi: At first I thought I was being sneaky, but then she caught me, and said if I wanted to borrow her stuff I should just ask.
 
 
-202 7022:6589 Mametchi
+202 6982:6549 read_event_story-176
+
+(Character: Airi Momoi)
+
+Airi: Oh, there you are! I have something to tell you.
+Airi: I was recently reminded that I can only do what I do as an idol thanks to everyone like you who supports me.
+Airi: So, truly, thank you for always being there for me. I'm gonna keep doing everything I can to bring cheer to you and everybody else.
+
+
+203 7022:6589 Mametchi
 
 (Character: Airi Momoi)
 
@@ -1683,7 +1692,7 @@ Mametchi: I'm sad we didn't get to visit your SEKAI, but at least we get to talk
 Airi: Hehe, you're right. We got to meet each other, so let's chat a lot!
 
 
-203 7023:6590 Kuchipatchi
+204 7023:6590 Kuchipatchi
 
 (Character: Airi Momoi)
 
@@ -1695,7 +1704,7 @@ Kuchipatchi: Really?! But all the manners and rules seem kinda hard...
 Airi: Don't worry! It won't be a formal tea ceremony. Think of it as a casual tea party to get to know each other better!
 
 
-204 7024:6591 Mimitchi
+205 7024:6591 Mimitchi
 
 (Character: Airi Momoi)
 
@@ -1707,7 +1716,7 @@ Mimitchi: Hehehe. You're just showering me with compliments, Airi!
 Airi: Um, I wasn't trying to compliment you, exactly... That slightly ditzy side of yours is similar, too.
 
 
-205 7025:6592 Memetchi
+206 7025:6592 Memetchi
 
 (Character: Airi Momoi)
 
@@ -1718,7 +1727,7 @@ Airi: You have to get used to applying makeup, so the important thing is to keep
 Memetchi: Right... So makeup is just like hair care. It takes daily effort.
 
 
-206 8007:7460 My Melody's Lovely Sofa
+207 8007:7460 My Melody's Lovely Sofa
 
 (Character: Airi Momoi)
 
