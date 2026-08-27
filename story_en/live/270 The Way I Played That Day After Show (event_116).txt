@@ -1,0 +1,83 @@
+270 The Way I Played That Day After Show (event_116)
+
+1 [mc] mc_ev_night_15_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+(Enter: KAITO)
+Rin: I see. So you're going to upload the song you showed us before as one of N25's songs.
+Kanade: Yes.
+Mizuki: I love that song! I didn't know that was a rearrangement of your first ever song, Kanade.
+Ena: I like it too. It didn't initially feel like something you'd make, but after listening to it more, I realized that it really is your song.
+Mafuyu: I also thought it was a warm song.
+Kanade: Thank you.
+Kanade: I'm glad that I made it.
+Kanade: Thanks to that song, I was able to remember the feelings I had back then.
+Ena: Right...
+Kanade: Also... Um...
+Mizuki: Hm? What's wrong?
+Kanade: There's a lot I want to tell you, but I'm having trouble finding the words...
+Kanade: Hey, everyone... Would you mind singing with me?
+Kanade: I think if I sing... It'll be easier to explain what I'm feeling.
+Ena: Kanade...
+Mizuki: Yeah! Let's sing!
+KAITO: If that's the case, I'm going to go listen over ther—
+Rin: No, KAITO. You should sing.
+Rin: You're the reason Kanade was able to even think about cherishing her feelings. I'm sure of it.
+Rin: So, please sing with her.
+KAITO: Fine.
+KAITO: Alright, let's sing.
+Kanade: Thank you. Okay, here we go.
+Kanade: Passion at 25:00.
+(Exit: Rin)
+
+
+2 [MUSIC] 409: Passion at 25:00
+
+3 [mc] mc_ev_night_15_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+(Enter: KAITO)
+Kanade: Thank you, everyone.
+Kanade: Even if it's just a little bit... Were you able to understand my feelings?
+Ena: I was, Kanade.
+Mizuki: Me too! Your love of music and all of the other things you want to cherish... All of that came through.
+Kanade: Really?
+Kanade: I still don't know what I want to do in the future...
+Kanade: But, I don't ever want to forget how I felt the first time I made a song for my dad...
+Kanade: I don't know if I'll feel warmth like that ever again...
+Kanade: Even so, it was an important moment that made me realize my love for music.
+Ena: Kanade...
+Ena: Yeah. I think that's the right way to go.
+Mizuki: Same here. We can work out all the future stuff together.
+Kanade: Together...
+Kanade: Right. Sounds good.
+Kanade: Rin, KAITO... Thank you. With your help, I was able to figure a few things out.
+Kanade: So, if there's anything I can do to thank you...
+Rin: Thank us...?
+Mafuyu: I heard from Miku that KAITO liked the ice cream we brought one time.
+Kanade: What?
+KAITO: Hey.
+Mizuki: Aww, that's kinda cute.
+Rin: I don't mind ice cream either.
+Kanade: Okay, I'll bring some ice cream next time. Then we can all eat it together.
+Mizuki: It's gotten way too cold where we're from, but in SEKAI we'll be able to have it without shivering!
+Ena: In that case, why don't we bring a variety of flavors? I'm sure Len would enjoy it too.
+Mizuki: Oooh, sounds good! Let's go pick them out together♪
+Kanade: Alright, we'll see you later.
+Ena: See you! Bye!
+Mizuki: See you! Bye!
+(Exit: Mafuyu)
+(Exit: Mizuki)
+(Exit: Kanade)
+(Exit: Ena)
+KAITO: Seriously? Do they come just to play around?
+Rin: But, I'm relieved whenever I see them smile.
+Rin: So... I hope they'll continue to do so.

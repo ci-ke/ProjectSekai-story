@@ -1,0 +1,90 @@
+185 Akito's Birthday Show 2023
+
+1 [mc] mc_bd_2022akito_1
+
+(Enter: Rin)
+(Enter: Len)
+Rin: Wooow! Oh my gosh!! Len, come look!!
+Rin: There are sooo many people here to celebrate with us!
+Len: Woah, there are! They're out in force! Alright then...
+Len: Hey, everyone! As you probably know, today's Akito's birthday! We'd like to give him a surprise celebration, but we need your help!
+Rin: Heh heh heh♪ Thank you for showing your enthusiasm!
+Rin: Actually, Akito's gonna be here soon! So when he gets here, we're all going to wish him "Happy birthday!" at once!
+Len: He'll be here soon? I guess Toya and the others did their part, then.
+Rin: Yup. The others came by earlier in secret to tell me he'll be here soon! They should be standing by over there right now!
+Len: Great! MEIKO also said the food is all prepared, so that means everything's in place for our surprise!
+Len: Akito's going to be so surprised! Oh!
+(Enter: Akito)
+Akito: Hey, Toya! Where you at? He said he was coming early to warm up, but I don't see him anywhere.
+Len: Oh look, it's Akito!
+Akito: Len? And Rin, you're here too. What are you doing here?
+Rin: Hey, who cares what we're doing! Actually, could you come this way for just one second?
+Akito: Huh? Why? You're both very suspicious all of a sudden...
+Len: We're not suspicious! Anyway, why don't you look over there?
+Akito: Over there? What's over...? Whoa!
+Rin: Ready, everyone! One, two...
+Rin: "Happy birthday!"
+Len: "Happy birthday!"
+Rin: Woohoo! We pulled off the surprise!
+Akito: You've gotta be kidding me... You're always lively, but... Actually, how did you get so many people...?
+Akito: Oh, whatever... Thank you, Rin, Len. And thanks to all of you who've shown up.
+(Enter: Kohane)
+(Enter: An)
+(Enter: Toya)
+Kohane: Happy birthday, Shinonome!
+Toya: Happy birthday, Akito. That was quite the applause.
+An: Isn't this great, Akito? Happy birthday!
+Akito: Huh? You guys were here the whole time? So, you were secretly watching us?
+Toya: Sorry about that. Did you enjoy the surprise that Len and Rin put together though?
+Akito: Well... Yes. I didn't expect this kind of celebration, so I'll admit I'm pretty happy.
+Kohane: Rin and Len worked hard for weeks to plan it all.
+Toya: For that reason, we were a little worried you might find out about it.
+Akito: Come to think of it, you've all been acting weird lately... Like suddenly saying, "We'll go on ahead and warm up our voices"...
+An: Hahaha, we really were warming up though! After all, you probably would've seen right through us if we'd lied!
+Len: Well, if you're all warmed up, wanna sing with me? It can be a birthday show!
+Rin: What?! Then I wanna sing too!
+Len: Heh heh, these things are first-come, first-served, Rin!
+Rin: Hey! No fair, Len! You big meanie!
+Akito: Sheesh. If you're that bothered, just take turns.
+Rin: Huh, really? Well then, I'm gonna go decide what to sing♪
+An: Hehe. See you later, Rin.
+(Exit: Rin)
+Akito: Right Len, let's sing. You guys are joining us too, right?
+Toya: Yes, of course!
+Len: Yay! And we can sing... Ooh! That song!
+Akito: Oh yeah, that one. Let's do it! Children Record!
+
+
+2 [MUSIC] 136: Children Record
+
+3 [mc] mc_bd_2022akito_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+(Enter: Rin)
+Akito: Thanks, you guys!
+Len: Hey, Akito! How did you know what song I wanted to sing?
+Akito: Well, I've known you long enough. I guess I was the one giving you a surprise this time?
+Len: What?! Hahaha, that's Akito for you! So cool!
+Akito: Next up, Rin! Did you decide your song?
+Rin: Still thinking! Hmm...
+Rin: Actually, hang on! Why don't we go to MEIKO's place? I wanna sing with Miku and the others, and I'm hungry for the spread MEIKO put together for you!
+Akito: I haven't got time to mess around... But if she's put together a whole spread for me, I should at least show my face.
+An: Hehe. It's settled then. Off to MEIKO's!
+Rin: Yeah, let's go!
+Akito: Oh...
+Akito: Sorry guys, you go first. I'll be right behind you.
+(Exit: Kohane)
+(Exit: An)
+(Exit: Toya)
+(Exit: Rin)
+(Exit: Len)
+Akito: Thank you for coming today, everyone.
+Akito: It's kinda embarrassing to have all this fuss made over me, but I'm more pleased than I realized.
+Akito: I'll never stop putting my heart and soul into my music. Please keep coming to see us.
+Akito: Because I promise we'll always leave you speechless.
+Akito: Well, I can't leave those guys waiting too long.
+Akito: Thanks so much for today, really! See ya!

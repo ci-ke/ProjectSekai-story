@@ -1,0 +1,87 @@
+61 Smile of a Dreamer After Show (event_15)
+
+1 [mc] mc_ev_wonder_03_1
+
+(Enter: Emu)
+Emu: Hey, guys! You're here again today! Thank you wonderhoy!
+Emu: Hehe♪ I'm so happy! Since you're all here it has become so sparkly♪
+Emu: Hey, can I tell you something?
+Emu: You know, I cried the other day.
+Emu: For a long time, I kept thinking, "I want everyone to be smiling, so I definitely have to be smiling!"
+Emu: A lot of things happened and.... My heart was so full that I cried.
+Emu: But then, everyone laughed and told me not to worry.
+Emu: I thought I was going to trouble them, but they all said they'd smile with me!
+Emu: Hehehe... That made me soooo happy!
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: Len)
+Miku: Emu!!
+Len: Heya!
+Emu: Oh, you guys!
+Tsukasa: Oh, I knew you'd be here.
+Nene: I was surprised when you said that you were going to SEKAI alone first... What were you doing here?
+Emu: Oh? Hmm... That's a secret♪
+Rui: Oh, well, now that you've said that, I'm even more curious. Aren't you, Nene?
+Nene: Why are you asking me?
+Tsukasa: Don't tell me you've got some other big thing on your mind?
+Emu: Nope♪ Well no, but it's a secret♪ Right, you guys?
+Miku: W-What? You guys know? That's unfair! Tell me!
+Len: C'mon, Miku. If you say something like that, everyone will be in trouble.
+Nene: Well... I guess I'm okay with that.
+Rui: Agreed.
+Tsukasa: I see. In that case, let's hurry up and...
+Emu: Sing!!
+Tsukasa: Yes, sing... W-Wait wait! Why are we doing that!? Aren't we supposed to decide on our plan of action!?
+Emu: Huh? You said it yourself! Unleashing our battle cry will give us the power we need to push forward!
+Nene: It's about unity, you know.
+Emu: Just saying "Yeah!" together pumps us up, so I thought if we sing together, we'd be even more pumped up.
+Rui: I guess, you do have a point. And I'm sure everyone here would agree with me.
+Emu: Yeah, yeah! I think so too!
+Tsukasa: Good grief... Only one song, okay?
+Emu: Yay!
+Rui: How generous of you.
+Nene: He's a simpleton, that's all.
+Tsukasa: Hey! I heard that!
+Miku: Yay! Let's sing together, Emu!
+Len: I'll be rooting for you guys!
+Emu: Yay! Thanks!
+Emu: Then let's sing!
+Emu: The World Hasn't Even Started Yet!
+
+
+2 [MUSIC] 51: The World Hasn't Even Started Yet
+
+3 [mc] mc_ev_wonder_03_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: Len)
+Emu: Wooooooo, wonderhoy!
+Emu: That was super, super wonderhoy☆
+Emu: Thanks for all of your support!
+Len: Yeah! You guys looked like you were having a great time!
+Nene: I think what Emu said was probably right. I feel better now.
+Tsukasa: I suppose so. I have to admit that was a good suggestion!
+Tsukasa: I'm not going to let up on this. We've got a lot of thinking to do and a lot of work to do.
+Tsukasa: Yeah! Our fight begins here!
+Nene: Can you please not say that like it's the last episode of a cancelled series? It's bad luck.
+Rui: *Sigh*. That was the worst choice of words.
+Tsukasa: W-What... Seriously!?
+Emu: Hehehe♪
+Len: Even so, I'm glad Emu's feeling better!
+Miku: Yeah♪ Emu's usual smile really is the best♪
+Emu: Thanks Len, Miku!
+Emu: From now on, whenever I'm sad, I'm going to properly make a sad face.
+Emu: Because I know for sure, you'll all make me smile!
+Len: Yeah! I'll always be there for you!
+Tsukasa: All right! Let's go to our planning meeting!
+Emu: Sir, yes, sir!
+Emu: Let's give it our best!
+Tsukasa: Yeah!
+Nene: Yes!
+Rui: Yeah!

@@ -1,0 +1,92 @@
+323 Wonderhorror?! A Test of Courage! After Show (event_141)
+
+1 [MUSIC] 170: villain
+
+2 [mc] mc_ev_shuffle_47_1
+
+(Enter: Mafuyu)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Whew! How was that, guys?
+Miku: It looks like they liked it.
+Mafuyu: Yes. I'm glad...
+Mizuki: I'm glad too, but... Wanna show it more, Mafuyu?
+Mizuki: Both the weed-pulling and test of courage went off without a hitch.
+Mafuyu: ... I'm glad it went well.
+Mizuki: No, I mean more like...
+Mizuki: Come to think of it, you looked like you were enjoying yourself at the end.
+Mafuyu: Huh?
+Mizuki: I saw a smile on your face when you were talking to Emu.
+Miku: Really?
+Mafuyu: I don't know, but...
+Mafuyu: Otori said it makes her happy when I smile.
+Mizuki: Emu said that?!
+Mafuyu: She did.
+Mafuyu: The weed-pulling and test of courage were challenging...
+Mafuyu: But I'm glad we did them.
+Miku: I see.
+Miku: You told me you made a cute monster. What was it like?
+Mizuki: You're really interested, aren't you? Then, lemme show you photos of it!
+Mizuki: Both of you, get over here and see!
+
+
+3 [mc_timeline] mc_ev_shuffle_47_2
+
+(Enter: Emu)
+(Enter: Len)
+Emu: And then I said, "Meow meow meow!" and scared everyone!
+Len: Hahaha! Your monster sounds so cute! That's not scary at all!
+Emu: Right?! We left everyone smiling!
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Emu: Oh!
+Len: Welcome back, everyone!
+Tsukasa: Hello there! Apologies for nearly being late. What were you talking about?
+Emu: About the weed-pulling-test-of-courage volunteer program I ran the other day!
+Rui: Ah yes, the one that you told us was a roaring success.
+Tsukasa: I was taken aback when Shizuku asked me to pass on that request.
+Rui: To borrow my snow machine, yes. Hehe, I'm glad to hear it went over well.
+Nene: I wish I hadn't been too busy to go. I've never done a test of courage before.
+Len: We neither! We should all do one together!
+Emu: Okay! We can do it again sometime and bring you guys along!
+Len: You mean it?! That's so exciting!
+Len: Here's a thought! If you all had to pick, what monster would you turn into?
+Nene: Huh? I'd rather not be any... But I guess I'd pick a ghost in a well?
+Rui: I'd want to be a zombie. There's something fascinating about returning from the dead.
+Tsukasa: Hmm... I like the idea of a glamorous vampire, but "blood-sucking ghoul" doesn't scream "star"...
+Nene: What about you, Emu?
+Emu: Hmm... There are so many to pick from...
+Emu: I know! I could be a monster from space!
+Len: Like an alien?
+Emu: Yeah! And be all, "I am here to abduct you!"
+Rui: Points for originality, I say. It's a unique spin on a test of courage.
+Emu: Hehehe! Oh, but doing a show about a space monster could also be fun!
+Emu: Just thinking about it is making me wanna try! Hey, guys! Let's sing something!
+Nene: I can't say this was unexpected...
+Tsukasa: What of it? We should strike while the iron of inspiration is hot! Let's make it a grand affair!
+Emu: Woohoo☆ Okay then, let's do this!
+Emu: Opera! Space Opera!
+
+
+4 [MUSIC] 450: Opera! Space Opera!
+
+5 [mc_timeline] mc_ev_shuffle_47_3
+
+(Enter: Emu)
+(Enter: Len)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Emu: How was that, everyone?! Did we leave you smiling?!
+Emu: Hehehe, that's good to hear!
+Emu: So, I've always wanted this one girl I know to smile. And the other day, she smiled just a little!
+Emu: Seeing that made my heart go all squishy...! I was so happy for her...!
+Emu: I'm gonna keep working hard to get even better at making people smile.
+Emu: Including all of you! I wanna make you smile even more!
+Len: Let's go find Miku and the others! I wanna tell them about our test of courage idea!
+Emu: Okay!
+Tsukasa: I've decided! I'll be a radiantly shining vampire!
+Nene: Tell me you don't mean literally shining?
+Rui: I'm sure anyone you came across in the woods would be left squinting.
+Emu: Okay, bye bye everyone!

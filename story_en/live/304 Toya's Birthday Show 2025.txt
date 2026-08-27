@@ -1,0 +1,79 @@
+304 Toya's Birthday Show 2025
+
+1 [mc] mc_bd_2024toya_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+Kohane: I guess we came to SEKAI at the wrong time...
+Toya: Yes... I wasn't expecting everyone to be preparing a birthday party for me when we arrived at MEIKO's cafe.
+An: We probably should've realized. I mean, of course MEIKO and the others would be preparing a celebration.
+An: We sure did put Rin and the others in a tough spot. They were all, "Don't look! You can't come in!"
+Toya: Yes... I have something to give them, but I suppose that'll be a little difficult right now.
+Akito: Well, we shouldn't get in their way, so let's come back another time and hand them over then.
+Toya: Sounds good. Let's head back—
+(Enter: MEIKO)
+MEIKO: Oh, everyone!
+Kohane: Huh? Oh, MEIKO!
+MEIKO: Phew, I'm so glad I caught you. Sorry about before. I heard you guys got chased out.
+MEIKO: Right after that, Rin was feeling guilty and panicking about whether your visit was actually for something important.
+Toya: I see. So that's why you chased after us. I apologize for the inconvenience.
+MEIKO: No, it's alright. It was our fault to begin with. Anyway, what brought you all here today?
+Toya: Actually, I had something to give you all.
+MEIKO: Something for us?
+Toya: Yes. My mom baked cookies yesterday evening.
+Toya: She made more than usual so that I could share them with those who have helped me with practice.
+Toya: I came to SEKAI to share these with you and the others...but it seems like I came at the wrong time.
+MEIKO: I see, so that's what happened.
+Toya: Yes. I'll bring them back later, including your portion and some for Rin and the others. You've all helped me in many ways, so I hope you accept them.
+Akito: Your mom's cookies were really good. Thanks for sharing some with us too.
+An: Yeah, thanks! Now I understand why you grew to like cookies, Toya.
+MEIKO: Hehe. I can't wait. I'm sure everyone will be very happy. Thank you, Toya.
+Toya: No, I just hope you like them.
+Toya: Oh...
+Toya: Actually, I'd like to ask for a favor. Would it be alright if we could sing for a bit?
+Kohane: Huh? Right here?
+Toya: Yes. I've received many birthday wishes today, and I was able to express my gratitude to everyone as well.
+Toya: If I could, I'd like to put this sense of fulfillment into a song.
+Akito: I don't see why not?
+An: Yeah! I'm on board!
+MEIKO: I'd love to join in as well. Would that be alright with you, Toya?
+Toya: Yes, of course. Please do. blender!
+
+
+2 [MUSIC] 404: blender
+
+3 [mc] mc_bd_2024toya_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: MEIKO)
+Toya: That was even louder cheering than usual...
+Kohane: I think it could be because everyone wants to wish you a happy birthday, Aoyagi.
+An: Oh, in that case...
+An: Hey, you guys! Let's wish Toya a happy birthday together!
+An: Hehe. I mean, it's not fair for everyone to just watch us having all the fun, right?
+MEIKO: I agree. Sounds like a great idea.
+An: Then it's settled! Are you guys ready? Here we go!
+An: Three, two, one! Happy birthday, Toya!
+Kohane: Happy birthday!
+Akito: Happy birthday!
+MEIKO: Happy birthday!
+Toya: Thank you, everyone.
+Toya: Now is a very important time for us. We are at the cusp of surpassing RAD WEEKEND, and we want to refine our singing as much as we possibly can.
+Toya: So having you all here to listen to us today has strengthened my resolve. Thank you.
+Toya: We will continue to sing, surpass RAD WEEKEND and go see what's beyond this dream. I hope that...you'll be right there with us.
+Toya: You won't be disappointed. That, I promise.
+MEIKO: I like that confidence, Toya. We're all looking forward to it.
+Akito: Alright, should we head back to MEIKO's cafe? We can always help with the prep if it's not finished.
+Toya: Yes, that sounds good.
+An: See you later, everyone!
+Toya: Let's meet again!
+(Exit: Toya)
+(Exit: Kohane)
+(Exit: Akito)
+(Exit: An)
+(Exit: MEIKO)

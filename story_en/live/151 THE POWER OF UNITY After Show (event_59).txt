@@ -1,0 +1,83 @@
+151 THE POWER OF UNITY After Show (event_59)
+
+1 [mc] mc_ev_street_08_1
+
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: *Sigh* It's such nice weather today!
+MEIKO: It really is great weather for a stroll. Thank you for inviting me out, KAITO.
+KAITO: You're welcome! I could tell you were looking pretty tired moving stuff around the cafe for the event.
+MEIKO: Hehe. You really do have a sharp eye for these things, don't you? I mean, you did the same with Akito and the others too.
+KAITO: Huh?
+MEIKO: When we were busy preparing, you gave them some advice, right? Thank you for doing that!
+KAITO: Oh... Haha, you're making me blush complimenting me directly like that!
+KAITO: Hm? Seems like someone is...
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+Akito: Next time let's try switching up the songs and see how much closer we can get to recreating that atmosphere.
+An: Yeah, sounds good! Oh, what should we do about the venue? Shall we try out another place?
+Toya: If we're going to switch the songs around to see how much it affects the atmosphere, I think it'd be better to use the same venue.
+An: Oh, that's true. Alright then, let's keep it as it is!
+Kohane: Yeah! I wonder what kind of design should I go with for the next flyer.
+KAITO: Hey everyone!
+Akito: Oh... KAITO, MEIKO. Hello.
+MEIKO: Were you all discussing your next event?
+Akito: Yes. We're trying to keep this momentum going to the next event while we have it.
+KAITO: You guys are so fired up! I can't wait for your next event.
+An: Please look out for it! We're definitely going to make it better than this last one!
+Toya: In order to surpass RAD WEEKEND, we do want to keep pushing our best to the next level.
+Kohane: Yeah. Let's keep improving one step at a time!
+Akito: And to do all of that, we've gotta amp it up with the crew we have now.
+KAITO: Looks like you guys are fired up...
+KAITO: The more you all grow to understand each other, I bet you'll end up being able to make a special stack of 100 pancakes!
+Akito: Yes. We're definitely looking forward to working with the others and making the next event even better.
+KAITO: Ah!
+MEIKO: Huh? What's wrong KAITO?
+KAITO: I just remembered that I was supposed to practice with Len and Rin! It completely slipped my mind!
+KAITO: Sorry everyone! I gotta go!
+(Exit: KAITO)
+Kohane: Oh, there he goes...
+Akito: He really doesn't have it together, huh?
+(Enter: Miku)
+MEIKO: Oh? Miku, what are you doing here?
+Miku: Hey everyone, did you happen to see KAITO around? Len and Rin are looking for him.
+Akito: Oh, you just missed him. He left to head over there just a second ago.
+Miku: I see. Well, if he's already on his way, then it should be fine.
+Miku: So are you all here for practice? Or are you discussing your next event?
+Akito: We came to talk about our next event, but... I mean, since we're, wanna sing with us?
+Miku: What?
+Akito: I was thinking we could sing that song to get the ball rolling.
+An: Oh, I like that idea! Singing that song really does get you fired up!
+MEIKO: I see... In that case, I'll be sitting back listening to you all in my front-row seat.
+Miku: Oh geez, everyone's free to do whatever they want, but... Of course, I'll join you.
+Akito: Awesome. Alright, then let's do this! Ready Steady!
+
+
+2 [MUSIC] 54: Ready Steady
+
+3 [mc] mc_ev_street_08_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: MEIKO)
+Akito: Thanks everyone!
+Akito: We're only going to keep getting better and aiming higher. There's no stopping us.
+Akito: We're going to create even better events from here onward, so don't take your eyes off us!
+Miku: Looking forward to it, you guys.
+Kohane: Even better events, huh...
+Kohane: Just thinking about creating them with everyone is making me excited!
+Toya: Yes, I feel the same.
+An: I'm so glad we have great people on our side not only in this SEKAI but back at home too!
+Akito: Yeah.
+Akito: We've only made one step so far, but even so... It was a pretty big step forward.
+Akito: We're gonna do it! We're gonna surpass RAD WEEKEND!
+Kohane: "Yeah!"
+An: "Yeah!"
+Toya: "Yeah!"
+MEIKO: They really are back on their feet now. I can't wait for the day they finally make their dreams come true.
+Miku: Yeah. Knowing them, they'll be able to do it.

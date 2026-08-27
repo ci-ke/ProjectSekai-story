@@ -1,0 +1,78 @@
+226 We Escape to Survive After Show (event_93)
+
+1 [mc] mc_ev_night_13_1
+
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Mizuki: ...that's how I was able to tell Mafuyu that running away is also an option.
+Mizuki: Thank you, Luka.
+Luka: Hehe. You look so relieved that it's as if I imagined your concerned expression before.
+Luka: But don't worry, you looked great even when you were troubled.
+Mizuki: Huh? Y-You think so?
+Miku: Luka, please...
+Ena: Well, I can't really imagine Luka hearing a "thank you" and genuinely responding with "you're welcome" anyway.
+Kanade: Hehe. I don't think I can either.
+Luka: Oh...
+Mizuki: Is something wrong?
+Luka: Looks like someone's here.
+Kanade: Huh?
+(Enter: Mafuyu)
+Ena: Oh!
+Miku: Mafuyu!
+Kanade: Are you okay to be here?
+Mafuyu: Cram school finished early, so I have some time until curfew.
+Mizuki: Really?! I'm glad you could come!
+Mafuyu: I won't be able to stay for very long, but...
+Mafuyu: Still... I'm glad I'm here.
+Mizuki: Yeah! So are we!
+Mizuki: Hey, Mafuyu. If you're up for it, do you wanna sing together?
+Mafuyu: What?
+Kanade: Sounds good. I'd like for us to sing together too.
+Ena: Yeah. Doesn't look like you have time to work, so why not sing to take the edge off?
+Mizuki: What do you think...?
+Mafuyu: Sure.
+Mafuyu: I also want to sing.
+Mizuki: Awesome! Alright then, let's sing!
+Mizuki: Non-breath oblige!
+(Exit: Luka)
+
+
+2 [MUSIC] 268: Non-breath oblige
+
+3 [mc] mc_ev_night_13_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Mizuki: Hehehe. Thanks, everyone!
+Mizuki: And thanks for singing with us, Mafuyu. That was so much fun!
+Mafuyu: *Nod*
+Mafuyu: I also...feel a little better.
+Kanade: Really? I'm glad to hear that.
+Mafuyu: Anyway, I'm going to head back now.
+Mizuki: Oh... Okay, I understand.
+Ena: You better tell us right away if anything happens, okay?
+Mizuki: Yeah. We'll do whatever we can to help.
+Miku: Mafuyu...
+Miku: Come see us again. We'll always be here.
+Mafuyu: Thank you...
+Mafuyu: See you again...
+(Exit: Mafuyu)
+Mizuki: Now then...
+Mizuki: As for the rest of us, let's work hard and do what we can!
+Kanade: Yeah!
+Ena: Yeah!
+Miku: That was really cool, Mizuki.
+Mizuki: Huh? R-Really?
+Luka: Yes. I think everyone here would agree.
+Mizuki: Wow! You're making me blush with the sudden compliments!
+Mizuki: Thank you, everyone. I feel a little braver now.
+Mizuki: With that being said, let's get planning!
+Kanade: Sounds good!
+Ena: Sounds good!

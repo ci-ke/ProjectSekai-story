@@ -1,0 +1,98 @@
+291 White Day Show 2025
+
+1 [mc] mc_whiteday_2024_01
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+Kohane: So, Len. You wanted to ask us something?
+Len: Yeah. I wanna get Rin a White Day return gift that'll surprise her!
+Akito: You wanna get something, huh... But it's already White Day.
+Len: I can still make it on time!
+Len: Please, you gotta tell me! What kind of return gifts did you guys get?
+Toya: Well, I suppose Akito and Shiraishi went all out on theirs.
+An: That's 'cause you and Kohane gave us such amazing Valentine's Day presents.
+An: When Akito and I put our heads together, we decided to buy pancake sandwiches!
+Len: Pancake sandwiches...?
+Akito: Yup. It's exactly what it sounds like: fruits and other ingredients stuffed between pancakes. When I tried one, it was so good that I just had to remember the store.
+Akito: They also had nice savory snacks. I figured they'd be perfect for Toya.
+An: You really know your stuff! Anyhow, Akito and I went and bought a bunch during our break from practice.
+Kohane: Hehe, the custard cream sandwiches filled with muscat grapes were delicious. The pancakes were so fluffy and chewy...
+Toya: For me, I really enjoyed the ones with egg salad filling and sauce-covered cutlets.
+Toya: Thank you, Akito, Shiraishi.
+Akito: No problem.
+Len: That sounds amazing! I'll keep your example in mind!
+Kohane: What did you get from Rin on Valentine's Day, Len?
+Len: Rin treated me to her special fruit tart!
+Len: It was so good! That's why I wanna get her a gift just as nice!
+Akito: I get it. You don't wanna do less than your partner.
+Toya: Though finding a fitting present, huh? I wonder what would make Rin happy...
+An: Oh! I know! What if you put your own spin on her signature fruit tart?
+An: You could make a caramel sauce one or even coat it in chocolate or something! She might enjoy that!
+Len: You think she'd like it if I baked it my way...?
+An: Yeah, she would! It feels so good to know that someone remembered your dish and would make it for you!
+An: If it were me, I'd be so touched to know that someone liked my dish that much!
+Len: Really? Okay, I'll give it a try! Thanks, everyone!
+Len: I'll put my heart into thinking something up, just like you two did!
+An: Yeah! Okay.
+Akito: Yeah! Okay.
+Len: Alright! I'm totally in the mood to sing now! You guys wanna join me?
+Toya: Of course, that's fine with me.
+Kohane: Yeah, let's do it!
+Len: Thanks! Here we go! Children Record!
+
+
+2 [MUSIC] 136: Children Record
+
+3 [mc] mc_whiteday_2024_02
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+Len: Whew, thanks for joining me, guys! You've got me all fired up!
+Kohane: Hehe, I'm glad to hear it. Also...
+An: Thanks for cheering us on, everyone!
+Toya: I'm sure everyone is rooting for you to do your best, Len.
+Len: Really?! Thanks, everyone! I swear... I'm gonna try to make an amazing fruit tart that'll wow Rin!
+Len: Oh, but be sure to keep this a secret from Rin and the others!
+Len: Alright! I'm gonna do my best to make Rin's White Day gift!
+
+
+4 [mc] mc_whiteday_2024_03
+
+(Enter: Len)
+(Enter: KAITO)
+Len: KAITO! Did you prepare White Day gifts?
+KAITO: Yes. If my Baumkuchen and assortment of toppings count, I've set it up over there.
+KAITO: We've got butter, maple syrup, vanilla ice cream, fruits, caramel sauce, chocolate chips... I prepared all kinds of other toppings too.
+Len: Ooh, sounds like we've got plenty to go around! Thanks, KAITO!
+Len: It's gonna be fun making all sorts of combinations with different toppings!
+Len: Oh! K-KAITO, look!
+KAITO: Huh? Oh... Whoops, I didn't notice that you all were here.
+KAITO: Sorry, but please keep this a secret from Miku and the others. This is just between us!
+KAITO: Thank you!
+Len: I got an idea. We should give everyone gathered here a song as a gift!
+KAITO: Nice idea! Let's perform something together!
+Len: Okay! Here we go, Fragile!
+
+
+5 [MUSIC] 69: Fragile
+
+6 [mc] mc_whiteday_2024_04
+
+(Enter: Len)
+(Enter: KAITO)
+Len: Thanks, everyone! Did you all have fun?
+Len: Hehe, I'm so glad you enjoyed our gift!
+(Enter: Rin)
+Rin: Len! KAITO! Where are you?
+(Exit: Rin)
+Len: Oh, sounds like Rin and the others are looking for us.
+KAITO: You're right. Shall we head over to where they are?
+Len: Yeah! Alright, see you next time, everyone!
+(Exit: Len)
+(Exit: KAITO)

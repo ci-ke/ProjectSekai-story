@@ -1,0 +1,84 @@
+350 Time to Take Off! After Show (event_154)
+
+1 [mc_timeline] mc_ev_street_20_1
+
+(Enter: Len)
+(Enter: Toya)
+(Enter: Akito)
+Len: Oh, then how about the sound eating a hamburger makes?
+Toya: I see. That certainly could be interesting.
+(Enter: An)
+(Enter: Kohane)
+An: Hey, sorry for the wait... What were you guys talking about?
+Kohane: I heard something about hamburgers...
+Akito: Specifically, the sound they make when you take a big bite of one.
+Toya: We were discussing sounds that might make for interesting samples for our music.
+Len: It would be fun to gather lots of sound effects on your trip in the US, and use them for music!
+An: Huh, that does sound good!
+Kohane: We'd be able to look back fondly on our trip when we listen to them later.
+Akito: Sure, but we have burgers in Japan too.
+Len: Yeah, but they're so much bigger here!
+Kohane: Hehe, that's true. I was really shocked at first.
+An: What about the ads and stuff playing on the street? Those are all in English!
+Akito: That could work.
+An: Right?
+Toya: What about street performances?
+Len: Ah, like the ones we heard on that street near the Academy of Music!
+An: There were so many different genres, just walking down the street was fun.
+Kohane: And the kids playing homemade instruments were so adorable, too.
+Toya: Yes. People gathering for the pure love of music... It was a wonderful place.
+Toya: I think I understand how my dad felt when he visited that street, too.
+Akito: Yeah, maybe. Also, speaking of sounds from our trip...
+Kohane: Oh... We should have recorded that session we had in the courtyard.
+An: Yeah! I was so caught up in singing that I barely remember it.
+Kohane: Me too...
+Akito: It was all pretty sudden.
+Toya: Right. I can't remember it clearly myself.
+Toya: But... I know I felt something magical while singing.
+Len: Something magical?
+Toya: Yes... I don't know if I can put it into words.
+Toya: But in that sound, it felt as though the boundaries between me and everything else faded...
+Toya: It was as though I felt wind blowing, like from an open door.
+Len: Hmmm... I don't think I get it, but yeah, I kinda get it!
+Akito: Which is it?
+Len: Huh?! It's both!
+Kohane: Hehe. Hahaha.
+An: Hehe. Hahaha.
+Toya: I'm sorry I can't explain it more clearly.
+Toya: Oh, I know. Maybe it would be easier to convey if I tried to put it into song.
+Len: Into song?
+Toya: Yes. I can try to draw that feeling back, while we all perform together.
+Akito: Sure, I don't see why not.
+Kohane: Okay! We can try to recapture the excitement from our session.
+Toya: Len, would you sing with us too?
+Len: Of course! I'm ready to go just thinking about it!
+Toya: Thank you.
+Toya: Then, let's begin. HAVEN.
+
+
+2 [MUSIC] 508: HAVEN
+
+3 [mc_timeline] mc_ev_street_20_2
+
+(Enter: Kohane)
+(Enter: Len)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Toya: Music is endlessly free, and boundless. However, we're all searching for the same thing.
+Toya: Those are the feelings I put into this song. Did they come across to you all?
+Len: They super did!
+Toya: I see. I'm glad to hear that.
+Akito: How to put this...
+Kohane: Aoyagi's music sounds so free... And so much stronger than before.
+An: Yeah. We can't fall behind.
+Toya: Hm? Did you say something just now?
+Akito: Nah, it's nothing. Now, I'm hungry after all that singing, so let's hit up MEIKO's cafe.
+Toya: Yes, that sounds nice.
+(Exit: An)
+(Exit: Kohane)
+(Exit: Akito)
+(Exit: Len)
+Toya: Thank you all for listening.
+Toya: I don't know what we'll find on our journey... But I hope you'll keep walking it with us.
+(Exit: Toya)

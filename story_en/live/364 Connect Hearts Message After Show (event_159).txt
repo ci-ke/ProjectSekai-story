@@ -1,0 +1,87 @@
+364 Connect Hearts Message After Show (event_159)
+
+1 [mc_timeline] mc_ev_shuffle_56_1
+
+(Enter: MEIKO)
+(Enter: Emu)
+Emu: Ooh, how about this? We can open up the belly...
+MEIKO: That's a good idea! Then all the insides can come out...
+(Enter: Nene)
+Nene: What are you two talking about?
+(Enter: Tsukasa)
+(Enter: Rui)
+Emu: Ah, Nene! Tsukasa! Rui!
+Tsukasa: I thought I heard some fairly disturbing talk just now...
+MEIKO: We were discussing message card ideas!
+Emu: You see, a brand-new taiyaki place just opened near the station!
+Emu: So I wanted to make "let's all get taiyaki together!" cards for everyone!
+Rui: And it sounds like you had a very interesting idea for them.
+Emu: Right! The belly opens up, and the message comes out!
+MEIKO: And there will be pictures of cream and red bean paste, so it'll make everyone want taiyaki♪
+Emu: Aah! I told you my idea before I even made the cards!
+MEIKO: Ah!
+Nene: Hehe. We'll look forward to both the cards and the taiyaki.
+Emu: Hehehe...
+Tsukasa: Still, you really have gotten hooked on making these cards.
+Emu: Well, it's just so much fun thinking about what would be good and exciting for my friends!
+Emu: And on White Day, it was really easy to get my feelings across with my cards♪
+Rui: It's true, I got a very clear sense of your gratitude and friendship from your card.
+Tsukasa: Indeed. Your support for our dreams, and your desire to continue to grow together, were crystal clear!
+Emu: Hehehe, I'm so glad!
+Emu: Oh, right! I wanted to share my feelings of thankfulness with you all, too!
+Emu: The whole reason we're able to keep on working to make our dreams come true is because of you!
+Tsukasa: Yes, well said!
+Rui: It may be difficult to make cards for so many... But we have other ways to put our feelings into form.
+Emu: Yeah! Hey, everyone! Will you watch our show?
+MEIKO: Thank you!
+Tsukasa: Then, with the enjoyment of our guests at the front of our minds, let's put on a fantastic show!
+Nene: Right.
+Emu: Here we go! Love Ka?!
+
+
+2 [MUSIC] 260: Love Ka?
+
+3 [MUSIC] 396: Tokyo Teddy Bear
+
+4 [mc_timeline] mc_ev_shuffle_56_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Ichika: Thank you for listening!
+Saki: Did you enjoy our show? It's our way of saying thank you for always supporting us!
+Shiho: Sounds like a good response to me.
+Miku: Well, it was a great performance.
+Rin: Hehehe. We were perfectly in sync!
+Honami: We've practiced a lot for today, after all.
+Saki: That's true, but I think it's more thanks to our leveled-up friendship power♪
+Ichika: Friendship power?
+Saki: You remember! We shared a bunch of "thank you"s and "I love you guys"es just the other day!
+Shiho: Oh, you mean the message card exchange?
+Shiho: I don't remember saying I love you guys.
+Saki: Aww, but you thanked me for always bringing you places, didn't you?
+Ichika: I didn't know you said that, Shiho.
+Shiho: Saki...
+Saki: Hehehe, where should I bring you next♪
+Rin: Ooh, I know! What about that place you told me about that does, um, acai bowls?
+Rin: Those smoothies with lots and lots of fruit on top?
+Miku: You just want them to bring you one, Rin.
+Rin: I didn't say that♪
+Honami: I am a little interested myself, though. I've heard they're delicious, and healthy too.
+Ichika: Really? That does sound good.
+Saki: Shihooo?
+Shiho: Okay...we can go once we nail the song we're practicing now.
+Saki: Huh?! Really?!
+Shiho: I said nail, as in perfectly.
+Saki: Don't worry! Nothing will keep me away from that acai bowl!
+Rin: I'll help too! Let's get practicing, everyone!
+Shiho: Look at you, all fired up already.
+Honami: Hehehe.
+Ichika: Hehehe.
+Saki: Okay then! Thanks for coming today, everyone!
+Saki: We'll practice hard to make sure our next show is even more fun for you all!
+Saki: So be sure to come and see us play again!
+Ichika: Okay! See you!

@@ -1,0 +1,88 @@
+267 Picture Perfect! After Show (event_114)
+
+1 [MUSIC] 253: DAYBREAK FRONTLINE
+
+2 [mc] mc_ev_shuffle_39_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Ahh, that was so much fun!
+Miku: Hehe. You guys were all pretty into it today.
+An: You could tell? After watching all the class presentations at the arts festival, I really wanted to sing my heart out.
+Toya: I know the feeling. Every class's presentation was quite well done.
+Akito: Wouldn't have thought everyone would polish things up that much.
+Kohane: It's so cool you had such a fun event. I wish I could've seen your presentations.
+Miku: Me too. Your class made a film, right An?
+An: Yeah! This girl called Kusanagi really pulled through, and we even won the judge's prize!
+Toya: I'm happy for you all.
+Akito: Well, your class placed third, yeah?
+Toya: We did. We came together and did our best, so I'm glad we saw results.
+Toya: But your class was incredible. You both gave a great performance, so it makes sense that you'd earn that prize.
+Kohane: They were that good...?! Now I'm even more interested!
+Miku: You should bring that movie over. I wanna have a viewing with everyone.
+Akito: No, pretty sure it's not worth doing all that.
+An: Ohh? What are you all embarrassed about, Mr. Lead Actor?
+Akito: I'm not embarrassed, just... It's normal to feel restless when people are watching you act, right?
+Akito: I'm more surprised you don't mind it.
+An: I mean, it turned out great, so I want people to see it!
+An: So, Miku, Kohane, look forward to it!
+Kohane: I will! I can't wait for our viewing.
+
+
+3 [MUSIC] 307: OKOCHAMA SENSO
+
+4 [mc] mc_ev_shuffle_39_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Rin)
+(Enter: Len)
+Tsukasa: Hmm, I'm always in peak form... But today, I've reached new heights!
+Nene: Hehe. You and your class did win first place at the arts festival.
+Emu: Getting first place is so cool!
+Len: Yeah, definitely! I wish we could've seen your play too!
+Rin: Ooh, and it's not just Tsukasa and Rui! Your class won that judge's prize, right Nene?
+Rin: I guess a director is something like a leader...
+Rin: It's amazing you were able to leader your way to that prize!
+Nene: Well, it's thanks to the whole class that we were able to earn it...
+Nene: But I got the chance to engage with the classmates I had trouble interacting with, which was kind of nice.
+Nene: Thanks for that advice you gave me, Len.
+Len: Hmm... Did I really help that much?
+Len: I think your efforts are what made the movie a success!
+Rui: I don't know what the two of you discussed, but... I could see your efforts in the final product, Nene.
+Tsukasa: Indeed! The screenplay had me on the edge of my seat, and the camerawork felt professional as well!
+Rui: They managed to pull off some complex framing, which I think should be attributed to Nene's skill as a director.
+Nene: I'm glad to hear you say all that.
+Nene: But the quality of the camerawork and costumes was also thanks to my classmates...
+Nene: So, I'll tell them what you guys said. I'm sure they'll be happy to hear it.
+Emu: Hehe. It's great that you're so close with your classmates now, Nene!
+Nene: U-Um, I wouldn't go so far as to say we're close...
+Nene: But, well, I guess the wall I imagined between us feels a bit less rigid now...?
+Rui: Perhaps your classmates feel the same way.
+Tsukasa: Right. They were calling you "Director" with such affection!
+Nene: Wh— Why do you know about that?!
+Nene: The festival is over, but they keep calling me that... It's been a problem.
+Len: That makes it your nickname, Nene!
+Rin: Wow, "Director"! I wanna be called that too!
+Emu: Ooh, Nene, maybe I'll start calling you "Director" too!
+Nene: Don't do that.
+Nene: Well, anyway... The arts festival did make for some good memories.
+Nene: Rin, Len, you helped me with the screenplay and stuff too... Thank you so much.
+Nene: I brought over the finalized film, so let's all watch it after this.
+Len: Wow, you really brought it over for us!
+Emu: I've been wanting to see the movie you made, Nene! I can't wait!
+Rui: And we can enjoy it all over again, can't we?
+Tsukasa: Right! There was so much to appreciate that I couldn't process it all in one viewing.
+Rin: Okay, it's a movie party!
+Rin: We've gotta get Miku and the others too! C'mon, let's go, let's go!
+(Exit: Rin)
+(Exit: Len)
+(Exit: Tsukasa)
+(Exit: Emu)
+(Exit: Rui)
+(Exit: Nene)

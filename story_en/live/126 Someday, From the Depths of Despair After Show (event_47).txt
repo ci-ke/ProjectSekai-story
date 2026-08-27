@@ -1,0 +1,88 @@
+126 Someday, From the Depths of Despair After Show (event_47)
+
+1 [mc] mc_ev_night_07_1
+
+(Enter: Luka)
+(Enter: Miku)
+Miku: Luka, what are you doing?
+Luka: I was just thinking about what we heard the other day.
+Miku: The other day...? Do you mean Kanade and Mafuyu's past?
+Luka: Yes. It was a very interesting story.
+Luka: I didn't realize that the rapport those two have was established so long ago.
+Luka: Where do you think their choices will take them moving forward, Miku?
+Miku: I don't know... But I plan on being there with them.
+Luka: Hehe. That's very like you.
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+Mizuki: Heya! Miku, Luka!
+Miku: Welcome.
+Luka: Are you all having a meeting today?
+Kanade: Yes. We were discussing what to do for our next song and decided that we want to hear your opinions.
+Luka: I see. If you're fine with me, then I'd be happy to help.
+Ena: It's like we're all completely used to going to SEKAI now. It felt so eerie when we first went there, you know?
+Mafuyu: I never imagined it being filled with so many people...
+Kanade: How do you feel about SEKAI in its current state, Mafuyu?
+Mafuyu: It's okay...
+Mizuki: Hehe. Sounds like you've come a long way alongside SEKAI, Mafuyu.
+Mafuyu: I feel like you've changed a lot since back then too, Kanade.
+Ena: You think so?
+Kanade: It felt like we were both in a place of such deep despair back then...
+Kanade: We struggled and suffered, but that despair was also the reason we were able to find each other...
+Kanade: So in that sense, that period of our lives wasn't so terrible.
+Mafuyu: Are you sure...?
+Mafuyu: I want to believe so...
+Kanade: Mafuyu, can I ask for a favor?
+Mafuyu: Yes?
+Kanade: I'd like to sing with you.
+Kanade: I was planning on making our next song about "our journey" up until this point.
+Kanade: So before we jump into our discussion, I want to look back upon what we both felt back then.
+Mafuyu: Okay...
+Kanade: Would you sing with us too, Miku?
+Miku: Sure.
+Mizuki: Cool, we get to hear the three of you sing! Let's hear it!
+Ena: Alright, why don't we watch from over there?
+Luka: I can't wait to hear what they sing.
+Kanade: Alright, let's sing.
+
+
+2 [MUSIC] 67: Jishoumushoku
+
+3 [mc] mc_ev_night_07_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Mizuki: You three were amazing!
+Luka: Hehe. Seems like you've all made a little bit of progress.
+Miku: Thank you... You two really seemed to enjoy that.
+Kanade: That's good to hear. Right, Mafuyu...?
+Mafuyu: I'm not sure what to say...
+Ena: You're supposed to say that you liked it too.
+Kanade: Hehe.
+Kanade: Thank you, everyone... You've all been the reason why I've been able to experience so many new things and move forward.
+Kanade: The path I'm on becomes so dark at times that I honestly don't know where I'm going...
+Kanade: But I've been able to come this far because of your help.
+Ena: Kanade...
+Kanade: And I want to keep making music with all of you. Would that be okay...?
+Mizuki: Of course!
+Ena: I'd still show up even if you told me to go away.
+Mafuyu: I wasn't planning on doing anything else since I still haven't found what I'm looking for...
+Kanade: I really appreciate it...
+Kanade: And thank you all for coming today to listen.
+Kanade: I'd like it if all of you could keep watching over us just a little longer to see where this path takes us...
+Mizuki: Alright, I think it's about time we headed over to start our meeting!
+Ena: Okay. Would you and the others like to join us, Miku?
+Miku: Sure.
+Kanade: Mafuyu
+Mafuyu: ...?
+Kanade: I... I promise to save you, Mafuyu. I don't care how long it takes. I'm going to make it happen...
+(Exit: Ena)
+(Exit: Mizuki)
+(Exit: Miku)
+(Exit: Luka)
+Mafuyu: Okay. Thank you...

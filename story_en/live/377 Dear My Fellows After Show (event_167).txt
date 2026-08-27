@@ -1,0 +1,80 @@
+377 Dear My Fellows After Show (event_167)
+
+1 [mc_timeline] mc_ev_wonder_wl_02_1
+
+(Enter: KAITO)
+(Enter: Emu)
+(Enter: Miku)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Hmm, I understand where you're coming from, Miku...
+Tsukasa: But shouldn't this moment be more dynamic? It's the grand finale, after all.
+Miku: Dynamic?
+Rui: Hm... I'd say I'm with Tsukasa on making this a big moment.
+Rui: For example...
+Rui: Each of our characters could be launched up high, pose upon landing and say their line in turn.
+Emu: Oooh! That sounds so fun☆
+Nene: Wait, you seriously want us all to do that...?
+Rui: Of course. In this show, we each play a tree...
+Rui: Soaring into the sky at the end would symbolize our trees' dramatic growth.
+Rui: Growth much like we saw recently in SEKAI.
+Nene: I get the idea, but... That's not our only option, right?
+KAITO: Hahaha. That plan has Rui's name all over it.
+KAITO: Still, it's such an interesting idea to put on a show based on the tree in SEKAI.
+Tsukasa: Was it you who first brought it up, Emu?
+Emu: Yup! Me and Miku were by the tree, basking in the sun, and it just came to me☆
+Emu: Just think! Don't we have all kinds of questions for the tree?
+KAITO: Questions?
+Emu: Liiike... "Why grow here and not over there?"! Or... "How'd you grow so big?"!
+Nene: Well, it is full of mysteries.
+Miku: When I said how I wished we could talk to it, Emu said we could make it happen in a show♪
+Rui: I see... And that's when you came to discuss the idea with me.
+Emu: Mhm! I knew you'd make it into an amazing show!
+Rui: Hehe. I wasn't planning to receive such praise today.
+Rui: Still... Now I'm eager to raise the bar for this show even higher.
+Tsukasa: I feel the same. I'd like to get a bit more practice in before showing Len and the others.
+Nene: Should we do a rehearsal, then? We still have some time.
+KAITO: In that case, I'll sit back and watch.
+KAITO: Along with all our guests.
+Miku: Oh wow, you're all here☆
+Rui: I'm glad we'll have an audience. Are we all ready?
+Tsukasa: Of course we are! Without further ado...
+Tsukasa: The World Hasn't Even Started Yet!
+(Exit: KAITO)
+
+
+2 [MUSIC] 51: The World Hasn't Even Started Yet
+
+3 [mc_timeline] mc_ev_wonder_wl_02_2
+
+(Enter: KAITO)
+(Enter: Emu)
+(Enter: Miku)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Did you all enjoy the show?!
+Emu: Hehehe, I think they did☆
+KAITO: That performance filled me with so much excitement!
+Miku: Ooh, it did! KAITO, you're suuuper duper smiley♪
+KAITO: Wait... I-Is it that noticeable?
+KAITO: But I suppose... That would be because I could sense real growth from you all.
+Nene: Growth?
+KAITO: Yes. You surely had some painful experiences and found yourselves doubting...
+KAITO: But no matter what, you keep striving to achieve your dreams. That's what lets you put on such wonderful shows.
+KAITO: That was a happy thought.
+Rui: KAITO...
+Tsukasa: He's right.
+Tsukasa: We're all dashing towards our dreams. That will never change.
+Tsukasa: So we must continue to answer the question: What can we accomplish together in this moment, with this show?
+Tsukasa: Our avid audience here deserves that, for one.
+Nene: Yeah... You're right.
+Nene: I don't ever want to take our chances to work together for granted.
+Rui: Hehe. You have our promise that tomorrow's show will be ever better than today's.
+Emu: We'll have you grinning ear to ear during our next show too, so I hope you're super excited☆
+Tsukasa: Thank you all for your constant support! For now... Let's look forward to the day we meet again!
+Tsukasa: At our next show!
+Rui: Bye bye! See you. Until then.
+Nene: Bye bye! See you. Until then.
+Emu: Bye bye! See you. Until then.

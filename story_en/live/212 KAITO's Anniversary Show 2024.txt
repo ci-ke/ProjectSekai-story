@@ -1,0 +1,103 @@
+212 KAITO's Anniversary Show 2024
+
+1 [mc] mc_bd_2023kaito_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+KAITO: Whoa! I didn't expect this many people to come! Thank you, everyone!
+An: Wow, the audience is super hyped up!
+An: Alright! When I say "make some noise", it's your job to do just that!
+An: Everyone ready? Let's make some noise for KAITO!
+KAITO: This is awesome! There's nothing better than a roaring crowd!
+Akito: That's good to hear. Anyway, what was all that about?
+An: I've seen event hosts do it from time to time and I've always wanted to try it!
+Kohane: Hehe, your pronunciation was on point, An!
+An: It was all because I learned from you, Kohane! Thanks!
+Toya: You made sure to rehearse that. I see...
+KAITO: This is all so wonderful. I can't believe just how many people came to spend my anniversary with me.
+KAITO: Now I know just how much you all care about me!
+Akito: Okay, settle down. But yeah, that's right.
+KAITO: That reminds me, about that party you were throwing me...I wonder if everyone's finished preparing? I want to take a peek.
+Kohane: Huh? N-No, you can't!
+An: That's right. Rin and Len said you weren't allowed there until they've finished, remember?
+KAITO: O-Oh, I see... I suppose we'll just have to wait a while longer.
+Toya: I've got an idea. How about we sing to pass the time?
+KAITO: Oh, good idea! Since so many people came to celebrate, I'd love to repay them with a song!
+Akito: We'll join you, if you don't mind.
+KAITO: Awesome! Are you guys ready too?
+KAITO: Thanks! Okay, I'll give this everything I've got!
+KAITO: Let's go! Cinema!
+
+
+2 [MUSIC] 126: Cinema
+
+3 [mc] mc_bd_2023kaito_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+KAITO: That was so much fun! Thank you for listening, everyone!
+KAITO: And thank you for performing with me, guys!
+Toya: Of course. It was our pleasure.
+(Enter: Rin)
+Akito: KAITO, the party's ready.
+KAITO: Huh? How do you know?
+An: Hehe, I wonder!
+KAITO: I'm so excited... I can't wait to see what they've done to MEIKO's place!
+(Exit: Rin)
+Kohane: Okay then! How about we all head over there now?
+KAITO: Thank you all for coming out here to celebrate my anniversary! I'll be off celebrating with MEIKO and the others now!
+KAITO: See you again next time!
+
+
+4 [mc] mc_bd_2023kaito_3
+
+(Enter: KAITO)
+KAITO: Thank you all for being here today.
+KAITO: Today's my anniversary, but I also want you all to have a fun time.
+KAITO: Haha...the truth is, I'm quite nervous. You see, I'll be singing solo today.
+KAITO: But since today is my anniversary, I can't allow my nerves to get the best of me.
+KAITO: Breathe in, breathe out... Alright!
+KAITO: I've been practicing this one especially for all of you. Now let's get this show started!
+KAITO: Rainy Snowdrop!
+
+
+5 [MUSIC] 283: Rainy Snowdrop
+
+6 [mc] mc_bd_2023kaito_4
+
+(Enter: KAITO)
+KAITO: Whew... I'm glad that went well.
+KAITO: Thank you all for listening!
+(Enter: Rin)
+(Enter: Len)
+(Enter: Miku)
+(Enter: Luka)
+(Enter: MEIKO)
+Len: Great job, KAITO!
+Rin: Yeah, you were reeeaaally amazing!
+Luka: Hehe, the nerves seemed to hit you out of the blue when you were greeting the audience.
+MEIKO: Yeah, but once you started singing, you managed to tap into your natural showmanship!
+Miku: Yeah, nice work KAITO!
+KAITO: Thank you. But...has it always been this daunting to sing solo?
+KAITO: Oh... I suppose it's only natural since I enjoy singing with all of you so much.
+MEIKO: Oh, that's a lovely thing to say.
+Rin: Yeah! KAITO, you're always helping us, so give us more chances to repay the favor, okay♪
+KAITO: Hehe, alright then.
+Luka: Alright, let's wish KAITO a happy anniversary together.
+Miku: Yeah! Ready everyone?
+Miku: Okay! Let's do it!
+Miku: Happy anniversary, KAITO!
+Rin: Happy anniversary, KAITO!
+Len: Happy anniversary, KAITO!
+Luka: Happy anniversary, KAITO!
+MEIKO: Happy anniversary, KAITO!
+KAITO: Thank you!
+KAITO: And thank you all so much for coming, everyone!
+KAITO: I hope you continue to support me as I continue to bring you the songs you love!
+KAITO: I'll always be waiting for you in SEKAI. See you next time!

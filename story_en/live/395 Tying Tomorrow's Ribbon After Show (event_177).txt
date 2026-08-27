@@ -1,0 +1,74 @@
+395 Tying Tomorrow's Ribbon After Show (event_177)
+
+1 [mc_timeline] mc_ev_night_22_1
+
+(Enter: Len)
+(Enter: Mizuki)
+Len: I see... It sounds like you had a good talk with your sister.
+Mizuki: Yeah. And since you and I talked about it before, I wanted to let you know.
+Mizuki: That I think I've found something I want to do.
+Len: Mizuki...
+Len: Do your best. I'm rooting for you.
+Mizuki: Hehehe, thanks!
+(Enter: Ena)
+Ena: Oh, Mizuki, there you are.
+(Enter: Mafuyu)
+(Enter: Kanade)
+Mizuki: Huh? What's everyone doing here already?
+Mafuyu: We're listening to the demo today. And it's the time we agreed to meet.
+Mizuki: Huh, already?! I didn't realize at all!
+Len: S-Sorry. It's because I was asking about a lot of things...
+Mizuki: No way, Len, it's not your fault! I just like to talk a lot, that's all.
+Kanade: What were you talking about?
+Mizuki: Hmm, how to put this...
+Mizuki: Mostly that I'm having a great time lately, and I'll keep on working to make sure things stay nice and easy for me!
+Ena: Uh-huh. Feels like you're leaving out a ton.
+Mizuki: Hahaha, don't sweat the small stuff♪
+Mizuki: Hey, I know. You guys wanna sing?
+Mafuyu: Sing?
+Mizuki: I just kinda feel like singing with you all. What do you say?
+Ena: Sure, I don't mind.
+Kanade: I'd be happy to. If you want to.
+Len: Oh... Then, can I sing too?
+Len: I want to feel your emotions from up close.
+Mizuki: Of course! You joining makes us a hundred times stronger!
+Len: A hundred... I-I'll do my best!
+Ena: Hey, don't make him nervous.
+Mizuki: Sorry, sorry. Let's just take it easy, Len!
+Mizuki: Okay, let's get singing. I hope you'll all listen, too.
+Mizuki: Embellish.
+
+
+2 [MUSIC] 572: Embellish
+
+3 [mc_timeline] mc_ev_night_22_2
+
+(Enter: Mafuyu)
+(Enter: Len)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Mizuki: Thanks for listening, everyone!
+Mizuki: You know, it's a bit embarrassing, putting all my feelings out there like that for everyone to listen to.
+Mafuyu: Embarrassing?
+Len: I-It's not embarrassing! Your song felt so warm and gentle and kind...
+Mizuki: Len...
+Mizuki: Hehe, I hope so!
+Mizuki: Hey, everyone. Thanks!
+Ena: Huh? Where's this coming from?
+Mafuyu: For singing together?
+Mizuki: There's that... But also because I'm having such a good time now, all thanks to you!
+Mizuki: So, I felt like I should say thanks.
+Mizuki: I mean it. Truly... Thank you.
+Kanade: Mizuki...
+Ena: We haven't done anything special. I'll take it if you insist, though.
+Mizuki: Yeah, yeah, I do!
+Mafuyu: Okay. Should we listen to the demo now?
+Kanade: Yeah. Miku and the others wanted to hear it too, so let's go find them.
+Mizuki: Okay! Hehehe, I can't wait for this next song.
+Mizuki: I'll make a perfect music video for this one, too♪
+Len: You can do it, everyone. I'm really looking forward to it!
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Mizuki)
+(Exit: Ena)

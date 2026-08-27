@@ -1,0 +1,76 @@
+232 Toya's Birthday Show 2024
+
+1 [mc] mc_bd_2023toya_1
+
+(Enter: Akito)
+(Enter: Toya)
+Akito: Okay, that should do for our warm-up. Shall we get started?
+Toya: Yes, let's.
+Toya: Akito, thank you for joining me at my selfish request.
+Akito: Hm? I'd hardly call singing together selfish.
+Toya: Well, we've already finished practice for today. The wise decision would be to give our vocal cords a rest...
+Akito: Now's not the time to be having second thoughts. It's your birthday, so just do what you like.
+Akito: Heck, you don't ever have to feel bad to ask me for a favor. Don't forget, we're partners.
+Toya: Akito...
+Toya: You're right. Let's do it.
+Akito: Sure.
+Toya: Here we go. Fragile.
+
+
+2 [MUSIC] 69: Fragile
+
+3 [mc] mc_bd_2023toya_2
+
+(Enter: Akito)
+(Enter: Toya)
+Akito: Whew. Singing together sure is fun.
+Toya: Yes, there is something unique about singing a duet...perhaps because it brings about a sense of mutual trust?
+Toya: Akito... Thank you for choosing me as your singing partner.
+Akito: What? Where'd that come from?
+Toya: The feeling just welled up inside of me, so I tried putting it into words.
+Akito: Yeah, but still...
+Toya: Oh, I see now.
+Toya: Perhaps the feeling I get when I sing with you is that of gratefulness towards you.
+Akito: Well... I guess that might be true...
+Toya: No, I'm sure it is. So...
+Toya: I must thank you, Akito. I hope we continue to sing together.
+Akito: Hey now, you really don't—
+Akito: ...Oh whatever. Right back at you.
+(Enter: Kohane)
+(Enter: An)
+(Enter: Miku)
+Kohane: Aoyagi, Shinonome!
+Akito: O-Oh, hey. You guys finished prepping for the party?
+Miku: Yes, we came to invite you, but didn't want to interrupt your performance, so we decided to watch.
+An: Can always count on you two for a good performance. You were in perfect sync!
+Kohane: Yeah, you create such a unique atmosphere when you perform together. It was so cool to watch!
+An: By the way...what were you guys talking about at the end? I couldn't quite hear what you were saying.
+Miku: Akito, didn't Toya say something to you that made you blush?
+Akito: Huh?!
+Toya: Oh, I just told him—
+Akito: Shut it! You don't have to tell them!
+Miku: Oh? You're not denying the facts, I see.
+Miku: Perhaps someone in the audience knows what they were talking about?
+Akito: Huh?! Since when did the audience get this big...
+Toya: I see that all of you have come to watch us. Thank you.
+Akito: Hey...you guys didn't hear us talking about anything earlier, right?
+Akito: Not a single word of it, right?
+Kohane: Um...since everyone's gathered here today, how about we all wish Aoyagi a happy birthday together?
+An: I like that! Let's do it!
+An: On my cue everyone! Three, two, one—
+Kohane: Happy birthday, Aoyagi!
+An: Happy birthday, Toya!
+Akito: Happy birthday, Toya!
+Miku: Happy birthday, Toya!
+Toya: Thank you. It truly is wonderful to have your birthday celebrated by friends.
+Toya: And thank you all for coming here today.
+Toya: I'm going to keep working hard with my team to make sure that we surpass RAD WEEKEND.
+Toya: I'd be forever grateful if you would support us and our dream.
+Miku: Alright, we should get going. We don't want to keep MEIKO and the others waiting.
+Toya: Right.
+Toya: The door to SEKAI is always open, so please come anytime. 'Till then.
+(Exit: Kohane)
+(Exit: An)
+(Exit: Akito)
+(Exit: Toya)
+(Exit: Miku)

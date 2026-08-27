@@ -1,0 +1,126 @@
+121 Happy New Year 2023 Show Vivid BAD SQUAD
+
+1 [mc] mc_2022newyear_03_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+An: Everything on MEIKO's special New Year's menu was so good! Especially the cake!
+Kohane: Oh, you mean the Mont Blanc cake with the chestnuts and black beans?
+Akito: Not only that, we got to see Toya chowing down on some sweets for a change.
+Toya: Yes. It was sweet in a very natural way, which made it so gentle on the palette.
+An: I know, right?! Luka was smiling the whole time while eating it too. Almost like her mouth was jumping for joy, you know?
+Toya: Hehe... Len and Rin were in a panic trying to stop her from eating Miku and KAITO's share.
+Kohane: Hehe. I remember that too.
+Akito: Speaking of which, where are Miku and KAITO?
+Akito: They invited us over to sing to help digest everything we ate, and I was sure they'd be here...
+Toya: Well, why don't we ask them?
+Akito: Huh?
+An: Great idea, Toya! Let's welcome them into the new year while we're at it!
+Kohane: Yeah!
+Akito: Fine.
+Toya: Happy New Year, everyone. We'll be looking forward to your support this upcoming year.
+Kohane: Please keep supporting us!
+An: Please and thanks!
+Akito: We're counting on you.
+Toya: Apologies for the sudden request, but did any of you happen to see Miku or KAITO around here?
+Kohane: Sound like they don't know where they are either...
+An: Yeah. I guess we just have to keep looking.
+(Enter: KAITO)
+(Enter: Miku)
+KAITO: Oh, you're all here!
+An: KAITO! Miku! Thank goodness! We looked all over for you two.
+Miku: Sorry, we were getting the speakers over there ready. They're all set up now, so we're ready to sing whenever you are.
+An: Awesome! You guys ready?
+Toya: Yes. It's our first show of the new year, so let's give it everything we have.
+Akito: "Yeah!"
+Kohane: "Yeah!"
+An: Feel free to join in on the fun too, you guys!
+
+
+2 [MUSIC] 126: Cinema
+
+3 [mc] mc_2022newyear_03_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+(Enter: Miku)
+Akito: Thanks for listening, you guys!
+KAITO: Wonderful! I'm glad they enjoyed everything so much.
+Miku: It is a song with a lot of energy. Even I got really into it during that performance.
+Akito: Alright, let's jump right into our next song while we got the crowd on our side.
+Toya: But which one...?
+Kohane: I know! How about Ready Steady?
+Kohane: It's the start of a new year, so it'd be great to sing a song that motivates everyone to try and overcome anything that comes their way.
+An: I like the sound of that! Plus, it was the song that started it all for us!
+Miku: Okay, I'm in too.
+Akito: You guys all ready?
+Toya: Seems like it. Azusawa, if you don't mind.
+Kohane: Okay!
+Kohane: Here we go. Ready Steady!
+
+
+4 [MUSIC] 54: Ready Steady
+
+5 [mc] mc_2022newyear_03_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: KAITO)
+Kohane: Thanks for being such a great audience, you guys!
+An: It always feels so good to sing in SEKAI, doesn't it?!
+Kohane: Yeah. Is it because it was born from our feelings?
+KAITO: I think that does play a part in it, but I would say your personal experiences matter just as much.
+Toya: Our personal experiences?
+KAITO: Yes. I'm guessing that everything you've experienced so far has naturally found its way into your music, no?
+Miku: I agree. I'd say the more you feel and the more you experience that these things become increasingly intertwined within your hearts.
+Toya: I see... Our feelings and experiences...
+Akito: I can't really disagree...
+Akito: We know now that there are things we can't overcome unless we work together as a team.
+An: Right...
+An: While we each have our own individual challenges, clearing them lets us grow as a team!
+Toya: Agreed. With that in mind, I hope we can make this a year where we can do just that and strengthen our bond.
+Kohane: Yeah!
+Kohane: Thank you all for joining us today. We promise to keep working hard so that we keep growing!
+Toya: We'll be counting on your support.
+An: Bye bye!
+Akito: See ya!
+(Exit: Kohane)
+(Exit: An)
+(Exit: Akito)
+(Exit: Toya)
+(Exit: Miku)
+(Exit: KAITO)
+(Enter: Len)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Len: Oh! Hey everyone! Happy New Year!
+Rin: "Happy New Year!"
+Luka: "Happy New Year!"
+MEIKO: "Happy New Year!"
+Rin: Huh? Where is everybody?
+Len: Oh, I see...
+Len: Seems like Akito and the others went somewhere to practice.
+Rin: What?! Aww, it's 'cause Luka told us to come after they finished singing!
+Luka: Haha. Sorry. It was a song filled with so much determination and emotion that I wanted to give it my full attention.
+MEIKO: Hehe. Listening to that song makes me look forward to how much they're going to grow this year. How exciting.
+Len: Yeah! We better make sure that we don't get left behind, Rin!
+Rin: Yeah! Let's go practice too!
+Luka: Oh, in that case, would it be okay if MEIKO and I tag along?
+MEIKO: Huh? Me too?
+Luka: Well, when you were listening to the song earlier, you looked like you wanted to sing it too.
+Rin: Really? Then let's all practice together!
+MEIKO: I suppose so. Everyone's out practicing anyway, so it probably won't matter if the cafe is closed.
+Len: Then it's settled! Let's go train!
+Luka: Yeah!
+Rin: Please come again, everyone!
+Len: Because next time we'll be showing you the fruits of our labor!
+Luka: Bye bye!

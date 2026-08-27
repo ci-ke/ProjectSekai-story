@@ -1,0 +1,100 @@
+104 What lies behind. What lies ahead. After Show (event_39)
+
+1 [mc] mc_ev_night_06_1
+
+(Enter: MEIKO)
+(Enter: Miku)
+Miku: MEIKO...?
+MEIKO: Oh, Miku...
+Miku: ...? Is there something bothering you, MEIKO?
+MEIKO: Bothering me? What makes you think that?
+Miku: I had a feeling. Was I wrong?
+MEIKO: No, I was just thinking about something.
+MEIKO: I was wondering how the others are doing right now.
+Miku: I see. But, why? You look like you are in a little bit of pain.
+MEIKO: That's because...
+(Enter: Mizuki)
+Mizuki: Oh! MEIKO! Miku!
+Miku: Oh, Mizuki.
+MEIKO: You came alone today?
+Mizuki: Yeah! I have a lot of things I wanted to tell you.
+Mizuki: MEIKO, you gave Ena a whole bunch of advice, right?
+Miku: Advice?
+MEIKO: I only told her my thoughts...
+Mizuki: Hehe. That's more than enough, you know. Thanks to that, it really helped me out.
+Mizuki: I was able to not destroy what I have now...
+MEIKO: Mizuki...
+Mizuki: It turns out that I really didn't want anything to change.
+Miku: Oh...
+Mizuki: Hmm? What's with the sudden hug, Miku?
+Miku: I don't really know what you and MEIKO are talking about.
+Miku: But, you seem a little sad...
+Mizuki: Miku...
+Miku: Mafuyu said that she felt a little less sad when I did this to her.
+Miku: That's why I wanted to do this to you too.
+Mizuki: I see... Thanks, Miku.
+MEIKO: So that's how it is...
+MEIKO: Ena has chosen to watch over you.
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+Ena: Oh, there you are! Mizuki! I told you to tell us if you were going to come here first, didn't I?
+Mizuki: Whaaat? I didn't send you guys a message that I was gonna go ahead?
+Mafuyu: We didn't receive anything.
+Kanade: But, it's fine since we're all here now.
+Ena: Kanade, you're being too lenient...
+Miku: Welcome, everyone.
+Kanade: Hi. I was wondering if you and MEIKO could listen to our demo today, Miku.
+Mizuki: Yeah! Let's all listen to it!
+Mizuki: ...Is what I was going to say, but before that, wanna sing a song?
+Ena: Huh? What's with that all of a sudden?
+Mizuki: I just kind of feel like singing that song right now, you know?
+Mafuyu: That song?
+Mizuki: Yeah. You know, that song that was born here.
+Miku: Sure...
+Kanade: Miku?
+Miku: What about you all? Are you going to sing?
+Ena: I don't really mind if it's one song, but... It's a bit rare to see you so assertive about singing, Miku.
+Miku: I want everyone to sing together...
+Kanade: Hehe, I see. Then let's do it. Are you okay with that, Mafuyu?
+Mafuyu: Yes...
+Mizuki: Yay! Then let's hurry up and sing! Hope you all listen to our song too, you guys!
+Mizuki: Composing the Future!
+
+
+2 [MUSIC] 60: Composing the Future
+
+3 [mc] mc_ev_night_06_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: MEIKO)
+Mizuki: *Sigh* Wow, we sang a lot!
+Mizuki: I feel like... I was able to sort out a lot of things. Thanks!
+Mizuki: Thanks for listening to our song too, you guys!
+MEIKO: Mizuki...
+Mizuki: Alright, now let's all listen to that demo! Oh, that reminds me...  Where's Rin and the others?
+Miku: If you want Rin, then she's over there.
+Mizuki: Then let's all head over there together! Let's go!
+Kanade: Mizuki, wait. You don't have to run...
+(Exit: Mizuki)
+Ena: Oh... Hey, MEIKO.
+(Exit: Kanade)
+MEIKO: Yes...?
+(Exit: Miku)
+(Exit: Mafuyu)
+Ena: Thank you for the other day.
+Ena: Thanks to your advice, I think I was able to get a little closer to Mizuki.
+MEIKO: Are you sure?
+Ena: Huh?
+MEIKO: There are times when you think you got closer, but turns out you're actually getting further apart.
+Ena: Well, then I can just try to close that gap again, right?
+MEIKO: What?
+Ena: I've gotten to the point where I realized that I can just wait until they're ready to close that gap.
+Ena: Ah, everyone already went ahead! I'll see you later, MEIKO!
+(Exit: Ena)
+MEIKO: I see...
+MEIKO: Then I hope it all goes well.

@@ -1,0 +1,75 @@
+247 On Your Feet After Show (event_103)
+
+1 [mc] mc_ev_street_14_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Akito: So how'd it go for you, Toya?
+Toya: There weren't any issues.
+Toya: I carefully explained that I'll be training all day at Weekend Garage for a while, and in the end they understood.
+An: They did...?! I wasn't worried about Akito's parents, but I'm kinda surprised to hear that from you, Toya.
+Kohane: Yeah...! I'm surprised they were okay with it since they seem to be pretty strict.
+Toya: Well, I did go in with all of my preparations in order.
+Miku: Preparations?
+An: When Toya talks about "preparations"...
+Akito: Don't tell me you hit them with another long presentation like the time we went camping.
+Toya: Ah, I did make an effort to keep it brief... But, it did end up taking a bit of time.
+An: Haha... That sounds like you...
+Miku: How was it for you, Kohane?
+Kohane: Oh, my parents were okay with it too, but... Well...
+Kohane: They got really mad about the fact that I skipped school...
+Miku: I see...
+An: S-Sorry, Kohane! I should have been there to apologize with you...
+An: You were there to explain the situation to my dad with me...
+Kohane: Oh, don't worry about it, An! I'm the one who suggested we go to the airport.
+Kohane: They both got really mad, but... When I told them how I needed to go no matter what, they were understanding in the end.
+Kohane: And... They told me I'm allowed to attend our practices, too.
+Toya: I see. I'm glad to hear that.
+Kohane: Oh... But they did say that they want to properly meet your dad face to face, An.
+Akito: Hmm... That's the right way to go about it, don't you think?
+An: If that's what they want to do, I'll talk to Dad about it!
+Kohane: Thank you, An...!
+Miku: Still... This is great. I never imagined An's dad would take you all under his wing.
+An: Yeah!
+Miku: When will your practices start?
+An: We're supposed to be starting soon! The idea's to strike...strike, um...
+Toya: Strike while the iron's hot, yes?
+An: Right! That!
+Miku: In that case, how about warming up your voices here before you go?
+Miku: Seeing the relief on your faces is making me want to sing. You're good to join, right?
+Akito: Yeah, sounds good.
+Toya: Of course, that's fine by us.
+Kohane: Yeah! Okay... Let's sing together!
+Kohane: Realize!
+
+
+2 [MUSIC] 356: Realize
+
+3 [mc] mc_ev_street_14_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Kohane: Thanks, everyone!
+Miku: That was great... Such a clean performance... Like you were free of all doubts.
+Miku: Didn't you all think so?
+Akito: Whoa...! They're going wild!
+Toya: Yes, everyone's very excited. Thank you all.
+An: This atmosphere really does feel great!
+Kohane: Thank you so much for always listening to us!
+Kohane: I hope you'll keep watching us. We... We won't make you regret it!
+An: Yeah! Well said, Kohane!
+Toya: Heh, we can always rely on you.
+Akito: Alright... We gave our update, so let's head back and get to practice!
+Kohane: Yeah! Let's do it! Okay everyone, bye bye!
+(Exit: Kohane)
+(Exit: An)
+(Exit: Akito)
+(Exit: Toya)
+Miku: Hehe, I wonder how they'll progress from here. Something to look forward to.
+Miku: Let's keep watching over them, together!

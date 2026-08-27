@@ -1,0 +1,80 @@
+317 Chase My Ideal Idol! After Show (event_138)
+
+1 [mc] mc_ev_idol_18_1
+
+(Enter: Airi)
+(Enter: Rin)
+Airi: Thanks for practicing with me, Rin! That was a great session.
+Rin: It was my pleasure! I was so happy to practice with you, Airi!
+Rin: You have another practice with the others after this, right?
+Airi: Yeah. I'll be meeting up with them very soon, so I should head back to get ready.
+(Enter: Minori)
+Minori: Oh, Airi. We had a feeling you were in SEKAI!
+(Exit: Minori)
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Shizuku)
+Airi: Huh? What are you all doing here?
+Haruka: We couldn't find you at the MORE MORE HOUSE, so we thought you might be practicing in SEKAI.
+Shizuku: And that's when we decided that we might as well stay and practice.
+Airi: I see.
+Rin: Oh! Then this means I get to practice with all of you today! Yay♪
+Haruka: Hehe. Someone's really pumped.
+Rin: Sure am! But to be honest, I'd say Airi has bested me in that department!
+Rin: I mean, she's been coming over to SEKAI for practice even though the festival's over!
+Minori: R-Really?! I need to follow your example!
+Airi: Rin, c'mon... You didn't have to tell them that...
+Airi: But... You're right. I am feeling super pumped right now.
+Airi: I never want to forget the feeling I had during that joint performance...
+Airi: I can't let myself be satisfied with just this if I want to achieve my goal!
+Shizuku: Airi...
+Airi: I have an idea! Why don't we sing a song? I want to express how I'm feeling.
+Airi: A warm-up for all of you, as well as motivation for me and Rin for part two of practice!
+Shizuku: Yes, I'd like that!
+Minori: Me too, me too! I want to sing too!
+Haruka: Sounds good. Let's all sing together.
+Airi: Thank you. Alright, then here we go!
+Airi: KILLER!
+
+
+2 [MUSIC] 474: KILLER
+
+3 [mc] mc_ev_idol_18_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Rin)
+Rin: Wow... Look, Airi! All these people gathered here out of nowhere!
+Airi: Oh, you're right! Were you all watching us sing?
+Shizuku: That's one incredible cheer... I think your feelings came through, Airi.
+Minori: I felt them too singing next to you! Your love for idols and desire to shine brighter than ever!
+Haruka: Me too. It made me remember how you were during Idol Lovers.
+Airi: Hehe, I appreciate the compliments!
+Airi: Speaking of Idol Lovers... I want to thank you all again.
+Shizuku: Thank us?
+Airi: Yes. You and Haruka coached me. Minori, you trained alongside me. Rin, you and the others watched me practice.
+Airi: With help and support from so many people, I was able to reach that view I wanted to see.
+Airi: So, thank you so much!
+Minori: Airi...
+Haruka: We should be the ones thanking you.
+Haruka: Seeing you work so hard made me want to refine my own performance...
+Haruka: Our Idol Lovers performance was only such a success because of you, Airi.
+Shizuku: I agree. You motivated us to put on the best performance we could.
+Rin: What they said! I saw the video of the show, and you really were glowing, Airi!
+Airi: Everyone...
+Airi: Really, truly... Thank you! It makes me happy to hear that.
+Airi: However... I'm only just getting started!
+Minori: What?
+Airi: Like I said, all I did was get closer to my goal. I can't be satisfied with just this.
+Airi: In order to become the ideal idol, I've got to keep moving forward!
+Rin: Hehe, of course you'd say that!
+Haruka: That's our Airi. Alright, in that case... Today's practice will be another intense one.
+Airi: Great! I wouldn't have it any other way!
+Airi: I've still got a long way to go, but...
+Airi: I'm gonna keep dancing, singing and working to become a super idol who can spread hope from anywhere!
+Airi: So, don't you dare take your eyes off of me!
+Rin: Wow! Everyone's cheering so loud!
+Airi: Hehe. Your cheers are what fuels me.
+Airi: Thank you for coming today! See you next time!

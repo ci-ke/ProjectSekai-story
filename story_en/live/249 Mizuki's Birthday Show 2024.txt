@@ -1,0 +1,86 @@
+249 Mizuki's Birthday Show 2024
+
+1 [mc] mc_bd_2023mizuki_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Luka)
+Mizuki: Yup, they're perfect! You two look so good in those!
+Mizuki: You HAVE to let me get pictures later!
+Kanade: Well, as long as you don't show anyone...
+Mizuki: Woohoo!
+Luka: Hehe. That's great, Mizuki.
+Mizuki: Yeah! I can't believe everyone just went along with my idea. This rules♪ I'm so glad I suggested a pajama party.
+Ena: *Sigh* How about some actual thanks for everyone going along with it?
+Mizuki: You can act mad, but I saw your face when I said we should take pictures. You know you want to!
+Ena: Wha—?!
+Ena: Well, it is rare for us to do something like this, and you can never have too many photos to remember a special day by.
+Kanade: Hehe...
+Luka: Oh, Mafuyu, are you wondering about Miku and the others?
+Mafuyu: They said they were going to change into their pajamas, but they're still not back yet.
+Mizuki: Hmm. Maybe they're having trouble getting them on? The buttons are star-shaped, and there are ribbons all over them.
+Luka: That may be, but Rin's with them, so she should be able to help.
+Luka: Anyway, Mizuki, is there anything else you'd like to do to celebrate?
+Mizuki: Anything else?
+Luka: We're going to have snacks and cake after this, but will you be happy with just that?
+Kanade: Now that you bring it up, other than the change in clothes, this isn't so different from what we normally do for people's birthdays.
+Mizuki: Hahaha. Maybe it doesn't seem like a big deal...
+Mizuki: But everyone's gathered together for my sake and going along with what I want to do.
+Mizuki: Getting to have a birthday like this is really incredible.
+Kanade: Well, if you're happy with it, then that's great.
+Ena: But as far as celebrations go, it's a little on the plain side.
+Mizuki: I guess you're right...
+Mizuki: Well, we don't have much to do till Miku and them get back. Wanna sing something?
+Ena: Huh? Sing?
+Luka: Oh, that sounds like a great idea. With these pajamas on, I feel like I'm about to fall asleep otherwise.
+Kanade: If you want to sing, then that's what we'll do, Mizuki. We want you to have as much fun as possible today.
+Mizuki: Thanks! Then I guess we're doing this.
+Mizuki: Ready, everyone?
+Mizuki: Kimi no Yoru Wo Kure.
+
+
+2 [MUSIC] 237: Kimi no Yoru Wo Kure
+
+3 [mc] mc_bd_2023mizuki_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Luka)
+Mizuki: Ahh, it really does feel good to sing. Something about it's so...soothing.
+Luka: I'm happy to hear that.
+Luka: It looks like everyone out here enjoyed our song too.
+Kanade: Huh?
+Ena: What? When did they get here?
+Mizuki: Oh come on, you guys. You should've said you were here sooner!
+Mizuki: Ooh, does this mean... You're all here to celebrate my birthday? Just kidding♪
+Mafuyu: I think they did.
+Mizuki: Huh? Really? I figured they wouldn't have come all this way just for me...
+Ena: Well, this is great, isn't it? Why don't we all wish Mizuki a happy birthday together now?
+Mizuki: Wait, but Miku and the others...
+Ena: We're not starting the party, of course. Just wishing you a happy birthday. We can't let everyone leave before saying that, right?
+Luka: That's right. I'm sure all of you out there want to wish Mizuki a happy birthday too, don't you?
+Mizuki: Well I guess since they're here, I could go for a little cheer.
+Kanade: Okay.
+Mafuyu: Okay.
+Ena: Is everyone ready? We'll go on three!
+Ena: Ready? One, two, three...!
+Kanade: Happy birthday, Mizuki!
+Mafuyu: Happy birthday, Mizuki!
+Ena: Happy birthday, Mizuki!
+Luka: Happy birthday, Mizuki!
+Mizuki: Hehehe. Thanks, everyone!
+Mizuki: And thanks to all of you too!
+Mizuki: I feel all warm and fuzzy inside. I think I'm going to have really sweet dreams tonight.
+Mizuki: But that'll have to wait till after I've got a belly full of cake♪
+Mizuki: Anyway, doesn't it seem like Miku and them are taking a really long time? I guess they are having trouble.
+Luka: Probably. Why don't we go and check on them?
+Mizuki: Thanks so much for celebrating with me, everyone! See you again in SEKAI!
+(Exit: Mizuki)
+(Exit: Ena)
+(Exit: Luka)
+(Exit: Mafuyu)
+(Exit: Kanade)

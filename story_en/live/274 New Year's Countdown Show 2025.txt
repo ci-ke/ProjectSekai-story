@@ -1,0 +1,201 @@
+274 New Year's Countdown Show 2025
+
+1 [mc] mc_countdown_2023_1
+
+(Enter: Miku)
+Miku: Hi everyone! Thank you so much for watching over our friends in SEKAI with us this year!
+Miku: Let me express my gratitude with this song!
+Miku: Here I go! Blue Planet!
+
+
+2 [MUSIC] 357: Blue Planet
+
+3 [mc] mc_countdown_2023_2
+
+(Enter: Miku)
+Miku: Thank you for listening, everyone♪
+Miku: Hehe. Looks like you could feel the emotion I put into that. I'm glad.
+Miku: I hope you all watch over them with us in the coming year too.
+Miku: Speaking of which... Are you all ready for the new year?
+Miku: After this, I'll be celebrating with Luka and the others as we look forward to another year with you all.
+Miku: I wonder what our friends are doing to bring in the new year?
+Miku: Oh! Seems like someone has arrived in SEKAI. Could it be...?
+(Enter: Ichika)
+(Enter: Kohane)
+(Enter: Tsukasa)
+Ichika: Oh, Miku! I had a feeling we'd find you here.
+(Enter: Minori)
+(Enter: Kanade)
+Minori: Look, Kanade! Miku and everyone really are here!
+Miku: Everyone! What are you all doing here?
+Ichika: Um... Probably because I was thinking about wanting to see you.
+Kohane: Me too. I was wishing I could thank you, and the next thing I knew I was here.
+Tsukasa: That's what happened to me as well! Could it be the same for you two?
+Minori: Yup! I was wishing I could thank Miku for everything this year!
+Kanade: And then, we went looking for you.
+Miku: I see. I was also wondering what you were all up to, so I'm glad we could meet.
+Miku: Oh, I know! Since we're all here, let's all sing together.
+Minori: You'd sing with us?! Then, yes please!
+Kohane: Hehe. It would make one last great memory before the new year.
+Tsukasa: Alright! If that's settled, let's get right into it!
+Miku: You're all welcome to join in the fun too♪
+Ichika: NEO!
+Minori: NEO!
+Kohane: NEO!
+Tsukasa: NEO!
+Kanade: NEO!
+Miku: NEO!
+
+
+4 [MUSIC] 366: NEO
+
+5 [mc] mc_countdown_2023_3
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Miku: Thank you for singing with me. It was really fun.
+Kanade: I had a lot of fun too.
+Miku: I'm glad to hear that!
+Miku: Know that I'll always be here watching over your journey.
+Miku: So in times of struggle, I hope that listening to my songs helps you get through.
+Ichika: Miku...
+Ichika: Yes, thank you!
+Miku: Let's meet and sing together again someday!
+Ichika: Yes!
+Minori: Yes!
+Kohane: Yes!
+Tsukasa: Yes!
+Kanade: Yes!
+(Exit: Ichika)
+(Exit: Minori)
+(Exit: Kohane)
+(Exit: Tsukasa)
+(Exit: Kanade)
+Miku: I didn't think I'd get to meet them. Hehe. One last wonderful memory before the new year.
+Miku: Oh, that reminds me! I better hurry back to Luka and the others!
+(Exit: Miku)
+
+
+6 [mc] mc_countdown_2023_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Oh, Miku! You're late!
+Len: If you came a little later, we wouldn't be together for midnight.
+Luka: Oh! I see you were all with Miku. I'm glad you made it for the countdown.
+MEIKO: And with that alone, 30 seconds have already passed!
+KAITO: We've got to hurry! Everyone, are you ready to count down?
+Rin: Oh my gosh! Um, we count down from ten, right?
+Luka: Yes. Let's all count together.
+Miku: Okay! Ready...start!
+Miku: Ten!
+Rin: Ten!
+Len: Ten!
+Luka: Ten!
+MEIKO: Ten!
+KAITO: Ten!
+Miku: Nine!
+Rin: Nine!
+Len: Nine!
+Luka: Nine!
+MEIKO: Nine!
+KAITO: Nine!
+Miku: Eight!
+Rin: Eight!
+Len: Eight!
+Luka: Eight!
+MEIKO: Eight!
+KAITO: Eight!
+Miku: Seven!
+Rin: Seven!
+Len: Seven!
+Luka: Seven!
+MEIKO: Seven!
+KAITO: Seven!
+Miku: Six!
+Rin: Six!
+Len: Six!
+Luka: Six!
+MEIKO: Six!
+KAITO: Six!
+Miku: Five!
+Rin: Five!
+Len: Five!
+Luka: Five!
+MEIKO: Five!
+KAITO: Five!
+Miku: Four!
+Rin: Four!
+Len: Four!
+Luka: Four!
+MEIKO: Four!
+KAITO: Four!
+Miku: Three!
+Rin: Three!
+Len: Three!
+Luka: Three!
+MEIKO: Three!
+KAITO: Three!
+Miku: Two!
+Rin: Two!
+Len: Two!
+Luka: Two!
+MEIKO: Two!
+KAITO: Two!
+Miku: One!
+Rin: One!
+Len: One!
+Luka: One!
+MEIKO: One!
+KAITO: One!
+Miku: Happy New Year!
+Rin: Happy New Year!
+Len: Happy New Year!
+Luka: Happy New Year!
+MEIKO: Happy New Year!
+KAITO: Happy New Year!
+Len: Happy New Year, everyone! A new year has begun!
+MEIKO: Hey, so we can get off to a good start, why don't we kick off the year with a song?
+KAITO: Aren't you just in the mood to sing, MEIKO?
+Luka: Hehe. Well, looks like everyone's on board, so why not?
+Miku: Sounds good! Let's take this chance and sing!
+Rin: Yay! Feel free to join the fun too, everyone!
+MEIKO: Alright, here we go!
+Miku: I'm Mine!
+Rin: I'm Mine!
+Len: I'm Mine!
+Luka: I'm Mine!
+MEIKO: I'm Mine!
+KAITO: I'm Mine!
+
+
+7 [MUSIC] 368: I'm Mine
+
+8 [mc] mc_countdown_2023_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: That was fun! Thank you for bringing the energy, everyone!
+Len: It's not every year that we get to start things off this strong, right?
+Rin: Yeah! I bet this year's gonna be amazing!
+Miku: We hope that it'll be wonderful not only for us, but for all of you as well.
+Miku: Once again, I'm so happy that we got to ring in the new year together.
+Miku: Let's make this year a great one! Alright then...
+Miku: See you next time!
+Rin: See you next time!
+Len: See you next time!
+Luka: See you next time!
+MEIKO: See you next time!
+KAITO: See you next time!

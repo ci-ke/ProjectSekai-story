@@ -1,0 +1,86 @@
+271 Christmas Show 2024
+
+1 [mc] mc_2023christmas_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Rin)
+(Enter: Luka)
+Luka: Merry Christmas, everyone!
+Kohane: Merry Christmas!
+An: Merry Christmas!
+Rin: Merry Christmas!
+Luka: You all came at a great time! You should stay and listen to us sing!
+An: The thing is, we're gonna have a Christmas party at MEIKO's place later.
+An: And we're gonna perform in teams. Akito, Toya and Len versus us.
+Rin: It was Luka's idea!
+Luka: Yours truly♪ It's not Christmas every day, so I thought it'd be a shame if all we did was share a meal.
+Kohane: Hehe. This way we get singing practice as well as a fun party. It's two birds with one stone.
+Luka: Right?
+Luka: Alright, let's show everyone what we've been working on!
+Luka: Here we go. drop pop candy!
+
+
+2 [MUSIC] 15: drop pop candy
+
+3 [mc] mc_2023christmas_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Rin)
+(Enter: Luka)
+Rin: Hey, that turned out so well, right?!
+Kohane: Yeah! And I'm so glad everyone here enjoyed themselves too.
+(Enter: Akito)
+(Enter: Toya)
+Akito: Oh, this is where you guys were practicing?
+Toya: MEIKO says we're starting the party soon, so she'd like everyone to come to the cafe.
+An: Really? Then we gotta go!
+Luka: By the way, how's your team going?
+Akito: Our team? Pretty good. We finished up early and just chilled at the cafe.
+Luka: Wow, sounds like you guys are confident.
+Toya: Not necessarily. Actually, Len was a little overenthusiastic... We didn't want him to tire himself out, so we made him rest.
+An: Oh, so that's the truth.
+Akito: Hey, you didn't have to tell them everything.
+Toya: I don't think there's any point in lying about it.
+Rin: More importantly, let's head to the cafe! MEIKO and the others are waiting for us!
+An: Yup!
+Luka: Have a great Christmas, everyone! Bye for now!
+
+
+4 [mc] mc_2023christmas_3
+
+(Enter: Luka)
+Luka: Welcome, everyone. Are you all having a fun Christmas?
+Luka: Well, Miku and the others are excited to give you all a special gift.
+Luka: I think they are...
+Luka: Hehe. Seems like they're ready.
+Luka: Well then, let's all have fun. Sweet Magic!
+
+
+5 [MUSIC] 41: Sweet Magic
+
+6 [mc] mc_2023christmas_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thank you for listening, everyone! Did you have fun?
+MEIKO: That's great! I'm so glad we practiced!
+Rin: What did you think, Luka? Did you enjoy it?
+Luka: Yes, I did. I couldn't stop smiling at such a cute dance.
+Len: Hehehe, yay!
+KAITO: Alright, let's wish everyone a merry Christmas one more time.
+Luka: Yes, let's.
+Luka: Merry Christmas, everybody!
+Miku: Merry Christmas!
+Rin: Merry Christmas!
+Len: Merry Christmas!
+MEIKO: Merry Christmas!
+KAITO: Merry Christmas!
+Miku: Thank you for coming to see us!
+MEIKO: We hope you all have a very merry Christmas!
+KAITO: See you!

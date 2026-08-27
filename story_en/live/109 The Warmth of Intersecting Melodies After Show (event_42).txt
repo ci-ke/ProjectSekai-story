@@ -1,0 +1,67 @@
+109 The Warmth of Intersecting Melodies After Show (event_42)
+
+1 [mc] mc_ev_shuffle_14_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: Hey Ichi! How's it go? Did you get to meet Asahina's friend?
+Ichika: Oh, yes... I went with Honami to meet her.
+Shiho: Speaking of which, you just happened to know who they were, right, Honami?
+Honami: Yes, it turns out that it was the same person whose house I always go to clean for work.
+Miku: Wow, what a strange coincidence.
+Saki: Right?! Maybe the four of us should've gone together!
+Shiho: No way. That probably would've freaked her out.
+Honami: Hehe... Maybe we can all go next time.
+Saki: Next time?! You two are gonna meet again?!
+Honami: Yes. Ichika was the one who asked.
+Ichika: We talked about a lot of things like composing songs and what we usually do each day. It was really nice talking to her, so I floated the idea of us meeting again.
+Shiho: I see... Then, I'm glad it worked out.
+Ichika: It was all thanks to Asahina and Honami for introducing us, so thank you, Honami.
+Honami: It was nothing, really... But I'm glad that you and Ms. Yoisaki got along well.
+Miku: Hehe. And it's beautiful how music tied you two together like that.
+Ichika: Right. Not only that, I feel a little different to who I was before. No, maybe that's going too far...
+Miku: I don't think so. Meeting someone new can definitely have that effect, so I completely understand why you feel that way.
+Ichika: I see...
+Ichika: Um, I have a suggestion. What if we tried playing something different than what we usually do?
+Ichika: I have this feeling that if we try playing a new song now, it'll go really well.
+Saki: Oh, sounds great! I'm in!
+Honami: In that case... How about that song we just started practicing the other day...?
+Shiho: Yeah, that could work. It's kind of a tough one, but I have a feeling that you can sing it now, Ichika.
+Ichika: Yes, I'd like to give it a try too. How about you, Miku?
+Miku: Of course I'm on board. Let's sing it!
+Ichika: Thank you!
+Ichika: And we hope all of you in the audience like it as well.
+Ichika: Alright everyone, here we go...!
+
+
+2 [MUSIC] 148: ray
+
+3 [MUSIC] 67: Jishoumushoku
+
+4 [mc] mc_ev_shuffle_14_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Mafuyu: Kanade, Miku... Thank you for singing with me.
+Kanade: You're welcome. But more importantly, I'm really glad that you asked me to sing with you.
+Miku: Me too.
+Mafuyu: I see...
+Miku: Mafuyu. Did you end up learning anything when you went out with Kanade?
+Mafuyu: I didn't...
+Mafuyu: However... I think managed to figure out something else.
+Kanade: Something else?
+Mafuyu: Yes... When Kanade thanked me, my chest felt warm.
+Mafuyu: It might be because I was able to help her.
+Mafuyu: But I still don't really understand why my chest felt warm from just that...
+Kanade: Mafuyu...
+Kanade: That actually really makes me happy.
+Mafuyu: It does?
+Kanade: Yes. I don't know how you came to feel that way, but...
+Kanade: I want to find out together with you. I want to know what you felt is called.
+Mafuyu: Thank you...
+Miku: Good for you, Mafuyu, Kanade.
+Kanade: Yes, we have Hoshino and Ms. Mochizuki to thank for this. It'd be nice if we could all meet again...

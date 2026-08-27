@@ -1,0 +1,109 @@
+285 Valentine's Day Show 2025
+
+1 [mc] mc_valentine_2024_1
+
+(Enter: Rin)
+(Enter: MEIKO)
+Rin: Hi everyone! Thank you for coming today!
+MEIKO: Happy Valentine's Day! I'm so glad to see all of you gathered here!
+MEIKO: Rin and I were just talking about checking up on our friends. Would you like to join us?
+Rin: Hehe, looks like you guys want to come too!
+MEIKO: Great! Then it's settled. Let's pop in for a visit!
+Rin: Here we go!
+(Exit: Rin)
+(Exit: MEIKO)
+
+
+2 [mc] mc_valentine_2024_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Happy Valentine's Day, everyone!
+Ena: Mizuki and I brought some chocolates. They're over there, so let's have them together.
+Mafuyu: You brought chocolates?
+Mizuki: Haha, of course we did! Ena wouldn't forget a day where we get to indulge in sweets.
+Ena: Geez, you don't have to put it like that! You know that's not why we got them.
+Kanade: Even so... I kind of wish I had brought something for you as well.
+Kanade: I'll return the gesture sometime.
+Miku: I also want to thank you both with a gift. But, I'm not sure what I could give you...
+Ena: Hm? A present from Miku...?
+Mizuki: Hey, how about a song?
+Miku: A song?
+Ena: Ah, that sounds pretty good.
+Mizuki: Right? Let's sing! That can be your gift... If it's not too much to ask?
+Miku: Not at all, I want to sing too. Kanade, Mafuyu, will you join us?
+Kanade: Sure. Let's sing together.
+Miku: Thank you.
+Miku: Okay, here we go. Bitter Choco Decoration.
+
+
+3 [MUSIC] 129: Bitter Choco Decoration
+
+4 [mc] mc_valentine_2024_3
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Whew... That was so much fun!
+Miku: Yes, I'm happy we got to sing together.
+Miku: Also, it seems everyone enjoyed watching.
+Kanade: Hey... You're right. Thank you for coming, everyone.
+Mafuyu: "Thank you." "Thanks!"
+Ena: "Thank you." "Thanks!"
+Mizuki: "Thank you." "Thanks!"
+Ena: It wasn't long, but... I hope you found it fun.
+Mafuyu: Me too.
+Mizuki: Alright, let's go enjoy our chocolates! Time to chow down!
+Mizuki: Enjoy the rest of your Valentine's Day!
+Ena: See you later.
+
+
+5 [mc] mc_valentine_2024_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Welcome back, you two! Did you visit Kanade and the others?
+Rin: Yeah! Everyone looked like they were having fun!
+KAITO: They must have been having a wonderful Valentine's Day, huh?
+Luka: Sounds like it. I'm happy for them.
+MEIKO: Well then, we can't let them hog all the fun. Let's enjoy Valentine's Day to the fullest!
+MEIKO: Are you all ready?
+Miku: We want to give you a present: a song from the heart!
+Rin: Please listen and enjoy! Happy Synthesizer!
+
+
+6 [MUSIC] 10: Happy Synthesizer
+
+7 [mc] mc_valentine_2024_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: Len)
+(Enter: KAITO)
+Luka: Did you all have fun, everyone?
+Miku: Glad to hear that! Thank you for cheering us on!
+Rin: It takes a looot of courage to share your feelings with someone you care about!
+Rin: But you'll be fine if you express how you're feeling loud and clear, just like when you sing!
+KAITO: Your feelings sure got through to Len and me.
+Len: Yeah! You left me feeling super happy!
+Rin: Really?! Thanks, you two!
+MEIKO: Valentine's is just getting started! I hope all of you here have a wonderful day!
+Miku: That reminds me! We've got chocolate waiting for us. Let's go, everyone!
+Len: Yay! Alright, time to get going!
+(Exit: Miku)
+(Exit: Rin)
+(Exit: Len)
+(Exit: Luka)
+(Exit: MEIKO)
+(Exit: KAITO)

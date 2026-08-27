@@ -1,0 +1,98 @@
+182 Halloween Show 2023
+
+1 [mc] mc_2022halloween_1
+
+(Enter: Miku)
+Miku: Oh, hello everyone. Um... Happy Halloween...
+Miku: Mafuyu and Mizuki said they're going to sing something that's just right for Halloween.
+Miku: And Kanade and Ena have gone to help them change.
+Miku: They helped me change into this too.
+Miku: Do you think it suits me?
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Mafuyu)
+Ena: Thanks for waiting, Miku. We're all set now.
+Miku: Okay. Then let's all enjoy their performance.
+Miku: Mafuyu, Mizuki, whenever you're ready. villain.
+(Exit: Ena)
+(Exit: Kanade)
+(Exit: Miku)
+
+
+2 [MUSIC] 170: villain
+
+3 [mc] mc_2022halloween_2
+
+(Enter: Mafuyu)
+(Enter: Mizuki)
+(Enter: Ena)
+(Enter: Kanade)
+(Enter: Miku)
+Mizuki: Wow, what a response! Thank you everyone!
+Mizuki: *Sigh* That felt great. Did you enjoy it too, Miku?
+Miku: Yes. Thank you, Mizuki, Mafuyu. It looks like everyone else enjoyed it, too.
+Mizuki: I'm so happy that you all had a fun time! Happy Halloween, everyone!
+Mizuki: Hahaha. You can't celebrate Halloween without putting on something like this!
+Mafuyu: Halloween...? I thought this was a rehearsal for our next song?
+Mafuyu: I was told we were practicing for Kanade's next song because Mizuki and I will be the ones singing.
+Ena: Read the room, Mafuyu... Well, Miku's happy, so that's what matters, right?
+Kanade: Yeah. Just like Miku said, your performance was great, and it got me excited to hear you sing my next song. Also... I now have a nice Halloween memory.
+Kanade: I really never expected to be wearing a costume like this, but... It can be good once in a while, I guess.
+Mizuki: Hahaha, right?
+Mizuki: Oh yeah! I brought candy for everyone! Let's call Len and the others over, and we can all have some.
+Ena: Great idea. Let's go find them.
+(Exit: Ena)
+(Exit: Mizuki)
+(Exit: Kanade)
+Miku: I wonder if people in other SEKAI are also singing and celebrating like this?
+Mafuyu: Miku, is something the matter?
+Miku: Oh... Nothing. See you later.
+(Exit: Miku)
+(Exit: Mafuyu)
+
+
+4 [MUSIC] 41: Sweet Magic
+
+5 [mc] mc_2022halloween_3
+
+(Enter: MEIKO)
+(Enter: Len)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Miku)
+(Enter: KAITO)
+Luka: Happy Halloween everyone!
+Rin: "Happy Halloween!"
+Miku: "Happy Halloween!"
+Len: "Happy Halloween!"
+KAITO: "Happy Halloween!"
+MEIKO: "Happy Halloween!"
+Rin: Hey, everyone! Look at my costume!
+Luka: It looks good on you, Rin. It's very cute.
+MEIKO: And everyone else looks great too!
+Luka: It's so fun that we're in matching outfits.
+KAITO: Hehe. Still, I'm glad we decided on these outfits. Originally we were going to all dress up as pumpkins...
+Miku: That's right, we were! We were gonna hollow out real pumpkins, then stick them all over our heads and bodies and arms and be pumpkin monsters!
+MEIKO: That might just work for Rin and Len, but we'd need so many pumpkins to pull it off that we decided against it.
+Luka: Oh, I actually did the math. Just one arm would need four whole pumpkins.
+KAITO: Hahaha, that many? These outfits really were the right choice.
+Rin: Whaaat?! Real pumpkins might have been a bad idea, but we could have made it work with cardboard.
+KAITO: Huh? Did you two want to be pumpkin monsters that badly?
+Rin: Umm, yes! It's Halloween!
+Len: Yeah, what she said!
+Miku: I guess we can't do it for all of us, but...
+Miku: Maybe we can make it happen for Rin and Len by the end of Halloween?
+Len: What? Really?! We can be pumpkin monsters after all?!
+KAITO: Sure, why not give it a try? It is Halloween and all.
+Len: "Yay!"
+Rin: "Yay!"
+Luka: In that case, we need to head back and get to work on that.
+Luka: Thank you for coming today, everyone.
+Luka: How was it? Did you like our performance?
+Luka: I hope you all spend the spookiest night of the year in style!
+Miku: "See you!"
+MEIKO: "See you!"
+KAITO: "See you!"
+Len: "Bye bye!"
+Rin: "Bye bye!"

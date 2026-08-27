@@ -1,0 +1,77 @@
+308 A Light Drawn Closer After Show (event_134)
+
+1 [mc] mc_ev_night_17_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+Ena: Oh, so your dad understood how you feel?
+Mafuyu: *Nod*
+Kanade: Mafuyu was really brave. She brought it up herself and told her dad everything.
+Rin: Really...?
+Mizuki: I'm really glad to hear that. Congrats, Mafuyu.
+Mizuki: Looks like you have another person on your side.
+Mafuyu: Yes...
+Mafuyu: Rin, Mizuki... Thank you.
+Rin: Huh?
+Mafuyu: If you hadn't said to me what you did... I don't think I could have told him.
+Mizuki: Oh...
+Mizuki: Hehehe, then you're very welcome!
+Rin: What did you tell Mafuyu, Mizuki?
+Mizuki: Huh? Oh, uh... Well, you know... We talked about a lot of stuff!
+Mizuki: More importantly, what did you and Mafuyu talk about, Rin?
+Rin: I...
+Rin: I didn't say anything that important.
+Rin: Mafuyu...
+Rin: Don't tell anyone about the thunder, okay?
+Mafuyu: Okay.
+Kanade: What thunder?
+Rin: Nothing.
+Mizuki: Hahaha. But anyway, Mafuyu, your own courage is what helped you tell your dad.
+Mizuki: The fact that you were able to move forward was truly amazing to me.
+Ena: Yeah, I think so too.
+Kanade: I'm happy for you, Mafuyu.
+Mafuyu: Thank you.
+Mafuyu: Um, everyone...
+Mafuyu: Could we sing for a little?
+Mafuyu: I don't...know how to verbalize how I feel right now, but...
+Mafuyu: But I think, if I sing... Maybe, I'll be able to express some of it.
+Mizuki: Mafuyu...
+Mizuki: Alright! Let's sing!
+Kanade: Sounds good.
+Mafuyu: Thank you.
+Mafuyu: Okay, here we go. Reborn.
+
+
+2 [MUSIC] 142: Reborn
+
+3 [mc] mc_ev_night_17_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+Mafuyu: Thank you, everyone.
+Rin: Your feelings really came through, Mafuyu.
+Rin: That memory you had of your dad, and your decision to trust him.
+Rin: I'm sure that you want to move forward with those feelings.
+Mafuyu: Oh...
+Mafuyu: *Nod*
+Mafuyu: I don't know if I can move forward...
+Mafuyu: But... That warmth I felt back when I held my dad's hand... I don't want to forget it.
+Mafuyu: That's how I feel.
+Kanade: Yeah, I think that's okay.
+Mizuki: Just remember that we're always here for you too, Mafuyu.
+Mafuyu: Thank you.
+Ena: Alright, I guess we better get going.
+Kanade: Yes. See you later, Rin.
+Rin: I'll be here.
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Mizuki)
+Rin: I'm glad that I was able to help Mafuyu.
+Rin: If this keeps up... I hope everyone will be smiling in the end.

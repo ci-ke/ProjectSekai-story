@@ -1,0 +1,85 @@
+179 Dear Me, From Back Then After Show (event_73)
+
+1 [mc] mc_ev_idol_10_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: MEIKO)
+(Enter: KAITO)
+Minori: Wow! This is amazing! I never would've thought such a cute stage like this would be around here!
+MEIKO: Me neither, but we stumbled upon it right after your solo show.
+KAITO: I'm sure this stage was born from your feelings.
+Shizuku: I see... It makes me happy just at the thought of that.
+KAITO: By the way, I think you all mentioned that you wanted to talk to us about something, right?
+Haruka: Oh, yes, we did. But Miku and the others aren't here today...
+Airi: If possible, we would like it if everyone was here for it...
+KAITO: Is it about your solo show? I remember all of us saying that we wanted to talk about it as soon as possible.
+MEIKO: It truly was an amazing solo show. I could feel all of your emotions throughout the whole thing.
+KAITO: And your speech especially, Minori. We were so moved that we were tearing up.
+MEIKO: Well, Miku and Rin actually shed tears.
+Minori: Really?! Hehehe, that makes me happy to hear that...
+Minori: But this show was really special to me too!
+Haruka: Hehe. You truly were the embodiment of an idol during the show, Minori.
+Minori: Haruka!
+Minori: J-Just thinking about it again is giving me the urge to sing!
+Airi: Hehe, why not? I feel like stretching my vocal cords myself.
+MEIKO: Oh, in that case, may I join all of you?
+MEIKO: Since watching your solo show and finding this new stage not long after that, I've just been having the greatest itch to sing♪
+Shizuku: Hehe. I don't think we can say no to that. Let's all sing together♪
+KAITO: Then I'll be with the audience listening to you. It feels like an extension of your solo show, so I'm looking forward to it.
+Airi: Hehe. Then let's perform with exactly that in mind with MEIKO as a special guest!
+Minori: Oooh! I like that! Sounds like so much fun!
+Haruka: Well then, we now present you the "MORE MORE JUMP Solo Show Encore: Special Performance in SEKAI." Here we go!
+Minori: We hope you enjoy it, everyone!
+Minori: DREAM PLACE!
+
+
+2 [MUSIC] 252: DREAM PLACE
+
+3 [mc] mc_ev_idol_10_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: MEIKO)
+(Enter: KAITO)
+Airi: Thank you, everyone!
+Minori: Wooow, that felt so good!
+MEIKO: Agreed!
+KAITO: I had an amazing time listening to all of you perform too. On top of that, your feelings really came through.
+KAITO: I know there was a lot of emotions within your warmth. Like your determination and resolve, or even Minori's nervousness towards your first solo show.
+MEIKO: And all of that reaches everyone who're listening through your songs.
+KAITO: Exactly. And it's not only your performance just now. I also felt that during your solo show. I think that's what made it as amazing as it was.
+Minori: Hehehe. It makes me really happy to hear you both say that.
+Minori: When I watched the DVD of an ASRUN show I went to, I remembered something.
+Minori: I remembered my desire to become an idol who can forge a bond with their fans.
+Minori: Just like Haruka during that show!
+Haruka: Minori...
+Minori: That's why I'm so so so happy that I was able to do just that at our solo show!
+Minori: So happy that I want to tell my past self, "You did it!"
+Haruka: Your past self, huh?
+Airi: Hehe. I bet you were just doing any audition you could get your hands on to raise your chances of hitting jackpot, right?
+Minori: Uh... Y-Yeah, pretty much...
+Haruka: But I think if your past self were to look at you now, she would say that you've become a true idol.
+Haruka: Like Airi said, you were the center of everyone's attention during our solo show. I think you should be proud of that. We were all inspired by you, Minori.
+Minori: Really? Thank you, Haruka!
+Shizuku: But, I think that we not only forged a bond with the audience but also amongst ourselves.
+Airi: I think so too. I felt like we were all so connected when we were on that stage.
+Minori: Yeah. It really, really, really was an amazing show. I don't think I'll ever forget it.
+Haruka: Minori...
+Shizuku: I'm so glad that our solo show was a special one for you, Minori.
+KAITO: After all of your hard work, I'm happy that your solo show was a memorable experience for you.
+Minori: Yeah! Being able to apply everything you've all taught me and getting to express my gratitude to our fans for all of their support...
+Minori: It really was the best show ever!
+Airi: Let's keep working hard to deliver hope to more and more people!
+Haruka: Yes, let's. But in order to do that, we can't get complacent and make sure to always put on the best show.
+Shizuku: You're right! I'm going to keep doing my best!
+Minori: I'll be right there to keep up with all of you! We hope that you'll keep supporting us too, everyone!
+Airi: Hehe. I guess we have now come to the end of our special performance. Hope to see you all at our next show.
+Minori: "Bye bye!"
+Haruka: "Bye bye!"
+Airi: "Bye bye!"
+Shizuku: "Bye bye!"

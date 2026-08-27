@@ -1,0 +1,92 @@
+140 On This Blank Canvas, I Paint After Show (event_53)
+
+1 [mc] mc_ev_night_08_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Rin)
+Ena: Rin! Are you there?
+Ena: What the...? Huh? Was there a place like this in SEKAI?
+Kanade: I've never seen this before either.
+Rin: Ena... Oh, you're all here. Is something wrong?
+Ena: Hi, Rin! Hi, Miku...! I just finished my rough draft and came here to take a break, but something feels off.
+Mafuyu: Miku, what is this place...?
+Miku: We only recently found this place too.
+Miku: Oh, what if this place is open now because you've experienced a lot of different things with Kanade and the others, Mafuyu...?
+Mafuyu: I see...
+Rin: More importantly, is it true that your rough draft is done?
+Ena: Yeah, of course! A lot of things happened and made everyone wait forever, but it's finally finished...
+Mizuki: Yeah! I can finally start working on the video now.
+Ena: I already said I was sorry.
+Kanade: But your draft looked amazing. It matches the song so much that I couldn't ask for more.
+Ena: Thanks, Kanade.
+Ena: It wasn't easy at all... But I'm glad that I went to that art class.
+Rin: You are?
+Ena: Yeah. Not only was it a good learning experience, I feel more prepared for what's up ahead...
+Ena: I have to make up for the time I lost running away and really face my art moving forward.
+Mizuki: Ena...
+Ena: I'm sorry for making all of you worry so much. And, Rin... Thanks for what you did.
+Ena: You helped me out when I needed it most. I was seriously just totally overwhelmed when you came to see me.
+Rin: I didn't really do anything... I wasn't even worried.
+Rin: But...
+Rin: I'm curious to hear how you'd sound if you sang right now.
+Ena: What?
+Miku: I'd like to hear as well. I'm sure you're feeling something very different now compared to before.
+Ena: You think so...?
+Ena: In that case, why don't we all sing together? That of course includes you too, Rin.
+Rin: What? Why me?
+Ena: I want to sing with you. That's okay, right?
+Rin: Alright, fine...
+Miku: Hehe. Okay, I sit back and listen.
+Ena: Okay. Thanks, Miku.
+Ena: I'd really like it if you could all stay and listen, everyone.
+Ena: Here we go... Nomad.
+
+
+2 [MUSIC] 189: Nomad
+
+3 [mc] mc_ev_night_08_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+(Enter: Miku)
+Ena: *Sigh* I think I feel a little better now.
+Miku: That was incredible, everyone. Also... I think I felt exactly what you did, Ena.
+Ena: R-Really?
+Ena: Still, I'm glad we sang... What I felt just now... It's like it's been etched inside my chest.
+Ena: Um, everyone...
+Ena: I know that my current drawing skills and level of expressiveness leave a lot to be desired...
+Ena: But I'm gonna start studying in earnest so that I'm able to properly illustrate the music Kanade and Mafuyu make.
+Ena: So can I ask that you give me a little more time...?
+Kanade: I didn't feel like you were making me wait at all since you always produce such good illustrations, Ena.
+Mizuki: Me too! Me too! Only your illustrations work for N25!
+Mizuki: Also, Ena, your art is what allows me to put together such good music videos.
+Ena: Kanade, Mizuki...
+Mafuyu: I don't care as long as you do it for our music...
+Ena: Alright, alright. I knew you were going to say something like that...
+Mafuyu: However, you've yet to draw something that I wholly disliked...
+Ena: What?
+Mizuki: Haha! That's what we're trying to say, Ena!
+Mizuki: We all like your art.
+Ena: Thanks...
+Rin: Um, can you show me the video when it's done? I want to see what kind of illustration Ena drew for it.
+Miku: I'd like to see it as well.
+Mizuki: Okey-dokey! I'll just hit the turbo button so that you two get to see it ASAP!
+Kanade: Anyway, shall we head back? We'll visit again when the video's all finished.
+Miku: Thank you, Kanade.
+Ena: See you later! Bye bye!
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Mizuki)
+Miku: I hope their video turns out well, Rin.
+Rin: Yeah...
+Rin: Um, Miku. There's nothing to do in this SEKAI and just waiting around sometimes makes me anxious...
+Rin: But if it means seeing them smile... I guess it's not all that bad...
+Miku: I feel the same way...

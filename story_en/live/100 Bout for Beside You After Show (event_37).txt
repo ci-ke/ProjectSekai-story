@@ -1,0 +1,99 @@
+100 Bout for Beside You After Show (event_37)
+
+1 [mc] mc_ev_street_05_1
+
+(Enter: Rin)
+(Enter: Len)
+Len: Phew... Hey Rin, how was that song just now?!
+Rin: T-That was amazing! You've improved so much, Len!
+Rin: Tell me, tell me! How did you get so good suddenly?
+Len: Hehe. I've always been this good.
+(Enter: An)
+An: Oh! Len, Rin! Hey!
+Len: Oh, An! Welcome!
+Rin: Hey, hey, get this, An! Len sang super well just now!
+An: Really? All that practice must be paying off, Len!
+Rin: Practice?
+Len: Uh oh.
+Rin: What practice, Len? When did you start practicing? Why didn't you invite me along too?!
+Len: Um... That's because I didn't think there was any reason to... Oh, I just remembered MEIKO asked me to watch over the shop!
+Rin: Ah! Len! I'm not letting you get away!
+An: Oops... Oh no, I probably said something I shouldn't have.
+(Exit: Rin)
+(Exit: Len)
+(Enter: Miku)
+Miku: An, you're here. Welcome. Did you come alone today?
+An: Yeah. I came a little early, but everyone will be coming later.
+An: I wanted to thank you for that thing the other day.
+Miku: I see. You're so earnest, An.
+An: Hehe, when I told Akito, he said the exact same thing. He said that since we're all a team, it's a given.
+An: It's thanks to you and Akito, I was able to confront my feelings. Thank you!
+An: But, when I think about Kohane possibly going her own way, I got scared... To be honest, even I was surprised that I felt that way.
+An: To become anxious like that is... So unlike me...
+Miku: But that just means Kohane is that important to you, right?
+An: Yeah...
+An: I want to keep singing with Kohane forever if possible.
+An: That's why... I'm still a little anxious, but I know that I need to look ahead and keep practicing!
+Miku: Hehe, I see.
+(Enter: Kohane)
+(Enter: Akito)
+(Enter: Toya)
+Kohane: An! Oh, hello to you too, Miku!
+An: Kohane! And Akito and Toya. You guys are right on time.
+Akito: Hey. Enough of that though... Did you do a street performance the other day?
+An: Huh? Oh, yeah I did. Did Kohane tell you?
+Toya: Well, she did, but the people in Vivid Street were talking about you.
+Toya: It made us realize that your singing has the power to attract people.
+Kohane: I agree! Even when I first heard you sing, it made me really happy!
+Kohane: I really do love the way you sing, An!
+An: Thank you, Kohane!
+Akito: Seems like she's back to her happy self now.
+Miku: Hehe.
+Toya: Oh, by the way, were you able to solve that thing you were worried about, Akito?
+Akito: Hmm?
+Toya: You seem to be a lot more relaxed now, so I thought you might've figured things out. I guess I thought wrong.
+Akito: Heh... No, you were right on the mark. Thanks, partner.
+An: Oh, hey, hey! There's this song I wanna sing to stretch my vocal cords out. Wanna join?
+Kohane: Of course. Let's do it!
+Toya: I don't mind. What did you want to sing?
+Akito: Well, it's probably going to be THAT song.
+Miku: I think so too.
+An: You're damn right! Of course, it's THAT song!
+An: For you guys in the audience, are you all ready too?
+An: Hehe, thank you! Then let's go!
+An: Forward!
+
+
+2 [MUSIC] 55: Forward
+
+3 [mc] mc_ev_street_05_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Oh man, I always feel so much better after singing this song.
+An: It's like I've become more motivated to look ahead and keep moving forward!
+Miku: Agreed. I think your feelings really came through, An.
+An: Hey, Kohane...
+Kohane: Yes? What's wrong, An?
+An: I'm going to keep singing the songs you love, okay?
+Kohane: What?
+An: So, I'll be counting on you in the future too!
+Kohane: Of course! I'll be counting on you too, An!
+Akito: Cool. So, should we start for real now?
+(Enter: Len)
+Len: *Huff*... *Huff*... Enough! Just give up already, Rin!
+An: Huh? Len, are you still being chased by Rin?
+Kohane: Chased?
+Toya: How did that come about?
+Miku: Oh, that's probably because...
+Len: Ah! Miku, I told you to not tell people!
+Miku: Hehe. Sorry, sorry.
+An: I guess you're the same as me, right, Len?
+Kohane: What? What do you mean by the same as you, An?
+An: That is... A secret! Right, Len?
+Len: Yeah! It's a secret! Ah!
+Len: Ah! Oh no! Someone save me!
+An: Hahaha!

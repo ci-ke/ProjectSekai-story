@@ -1,0 +1,108 @@
+353 Luka's Anniversary Show 2026
+
+1 [mc_timeline] mc_bd_2025luka_1
+
+(Enter: Luka)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Luka: Oh, you're all here.
+Ichika: Perfect timing. We're just about to celebrate Luka's anniversary.
+Ichika: Since you're all here, won't you celebrate with us?
+Saki: Wow, thanks! Then let's get right to it!
+Honami: Here we go! Happy anniversary, Luka!
+Ichika: Happy anniversary!
+Saki: Happy anniversary!
+Shiho: Happy anniversary!
+Luka: Thank you, everyone. It's so nice to get such warm wishes from so many people.
+Saki: Oh, by the way, Luka! Is there anything you want for your anniversary?
+Luka: Anything I want?
+Honami: We were talking about doing something to celebrate, but we had too many ideas... So it seemed best to ask you directly.
+Shiho: We'll do just about anything, as long as it's realistic for us to manage.
+Luka: Hehe, thanks. Though, nothing springs to mind.
+Luka: Just spending time with you makes me very happy, so that's honestly good enough for me.
+Luka: Though I'm sure that's not what you were hoping to hear.
+Luka: I know. If it were you, what would you want? Maybe I can take some inspiration from you all.
+Ichika: Oh, us? Hmm...
+Saki: Ooh, ooh, ooh! I'd want a surprise♪ Like, I get called to a classroom, and suddenly a musical number starts!
+Shiho: That sounds like a lot of work for us.
+Luka: I would enjoy seeing you all put on a musical... Then... How about you, Honami?
+Honami: Huh? Me? Maybe I'd ask to get some hot tea...
+Ichika: Hehe. Tea does taste great this time of year. And it warms you right up, too.
+Honami: Thank you. What about you, Ichika?
+Ichika: Hmm, I can't think of anything straight away...
+Ichika: Oh, it might be nice to have a variety of types of yakisoba buns. Like a yakisoba bun exhibition.
+Shiho: I knew you were going to say that.
+Ichika: Well, I couldn't think of anything else... What about you, Shiho?
+Shiho: I—
+Saki: Ah, no saying "I'd want to practice"!
+Shiho: Nothing in particular, then.
+Saki: Aww, c'mon! Think about it!
+Luka: That is a very Shiho-esque answer, though.
+Ichika: So... Did that help at all, Luka?
+Luka: Hmm... I think I like Shiho's idea.
+Luka: I can't think of a better present than putting on a fantastic performance with all of you.
+Shiho: Well, we'd better not mess up, then.
+Honami: Right. Let's put on our very best show and celebrate Luka's special day.
+Luka: Thank you all. Shall we get started?
+Luka: I hope you'll all listen. Hello, Worker.
+
+
+2 [MUSIC] 286: Hello, Worker
+
+3 [mc_timeline] mc_bd_2025luka_2
+
+(Enter: Luka)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Ichika: Thank you all!
+Saki: That was so much fun!
+Luka: Yes, that was the best present I could have asked for.
+Luka: Getting to talk and play with you all reminded me of just how precious this time truly is. Thank you.
+Honami: Then let's spend the rest of today doing all the things you'd like to do.
+Shiho: I'm good with anything except a musical.
+Luka: Hehe. In that case, we should get the others too. We'll have to go find them in a minute.
+Luka: Thank you all for coming today. I hope you'll come watch us perform again.
+
+
+4 [MUSIC] 8: Time Machine
+
+5 [mc_timeline] mc_bd_2025luka_3
+
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+(Enter: KAITO)
+Luka: Thank you all for listening to our song!
+Luka: I'm so fortunate to get to spend this precious time with you, and share my feelings in song.
+Luka: Thank you for letting me share my gratitude with you all. I truly appreciate it.
+KAITO: I think your feelings came across, Luka.
+Rin: Then I think this time, it's our turn to share our feelings with Luka!
+MEIKO: Right! Is everyone ready?
+MEIKO: One, two, three! Happy anniversary, Luka!
+KAITO: Happy anniversary!
+Miku: Happy anniversary!
+Rin: Happy anniversary!
+Len: Happy anniversary!
+Len: And one more time!
+Len: One, two, three! Happy anniversary!
+Luka: Thank you all. I never expected to get two whole cheers.
+Rin: It seemed like everyone wanted to cheer for you even more, after all!
+Miku: Well, now that everyone's had a chance to cheer, it's about time we head to the party venue.
+Len: Yeah! We have a special surprise for you, too!
+Len: We call it...the Present Popping Party!
+Luka: Present popping...?
+KAITO: The balloons we've decorated with all have presents inside them.
+KAITO: You'll need to pop them to see what you get! You can use your hands, or a tool.
+MEIKO: If you're scared, we can help you pop them too. But we want you to enjoy popping them!
+Luka: Hehe. That's a pretty action-packed idea for a party.
+Rin: Hehehe♪ You're always so calm, Luka, so we thought you'd enjoy letting off some steam!
+Luka: Oh, so that's what it is. Thank you for thinking of me.
+Luka: In that case, I'll be sure to enjoy today as much as I can, with your help♪
+Luka: Thank you all for coming today. I hope you'll spend time with us again.
+Luka: We'll see you later!

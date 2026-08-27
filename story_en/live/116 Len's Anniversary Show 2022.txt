@@ -1,0 +1,136 @@
+116 Len's Anniversary Show 2022
+
+1 [mc] mc_bd_2021len_1
+
+(Enter: Len)
+(Enter: KAITO)
+Len: Oh! Hey, everyone! Welcome! Are you all here to celebrate my anniversary?
+Len: You are?! In that case, maybe I'll just take you all along with me!
+KAITO: Len, are you really going to SEKAI? I think Miku and the others have already started preparing for the party, though...
+Len: But I really want to see what the SEKAI versions of us are doing to celebrate!
+KAITO: I see. Alright, but just for a little bit, okay?
+Len: Yeah! Then, let's go!
+
+
+2 [mc] mc_bd_2021len_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Len)
+Akito: I guess it's about time we get started.
+Toya: Yeah. Len, Rin, are you ready?
+Len: I'm ready whenever you are!
+Rin: I'm prepped and ready to go too!
+An: How about you guys? You ready to celebrate?
+An: I like the sound of that! Here we go!
+An: Len! Rin! Happy anniversary!
+Kohane: "Happy anniversary!"
+Akito: "Happy anniversary!"
+Toya: "Happy anniversary!"
+Len: Yay! Thanks, you guys!
+Rin: Thank you too, everyone!
+Kohane: Hehe. You're welcome!
+Akito: Alright, let's get right into the partner showdown that you wanted to do, Len!
+Len: Yeah!
+Len: Hey everyone! Rin and I will be going up against An and Kohane in a song together!
+Len: After the song ends, we're gonna ask you to be the judge to tell us which pair performed better. So listen up, okay?
+Rin: Kohane, An. Don't go easy on us just because it's our anniversary, alright?
+An: Don't worry, because we're going all in!
+
+
+3 [MUSIC] 26: BRING IT ON
+
+4 [mc] mc_bd_2021len_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Len)
+Len: Hey everyone! Thank you for listening to our song!
+Rin: Those of you who thought our performance was good, please show us a round of applause!
+Kohane: Wow! Such loud applause. As expected of Len and Rin!
+An: Yeah, but that doesn't mean we've lost!
+An: For all of you who thought Kohane and I's performance was good, please make some noise!
+Len: Hmm... So, who won?
+Toya: That's a good question. They both sounded about the same...
+Akito: I guess it's a tie then.
+Len: Awww, so neither of us got to win.
+Rin: But, when we were singing, I was feeling way more excited than usual!
+Kohane: Yes, me too!
+An: Haha. Well, today is Rin and Len's anniversary, so as long as the two of you had a lot of fun, then that's more than enough.
+Akito: Oh geez... I was a little uneasy about what was going to happen when you suddenly said that you wanted to do a showdown before the party.
+Toya: Hehe. Well, learning that this is another way of celebrating is definitely new and interesting to me.
+Toya: Even though it was on such short notice, thank you for agreeing to help us, everyone.
+Len: Thank you so much! Thanks to you all, today was so much more fun!
+Rin: "Bye bye!"
+Len: "Bye bye!"
+
+
+5 [mc] mc_bd_2021len_4
+
+(Enter: Len)
+(Enter: KAITO)
+Len: That partner showdown was so cool!
+KAITO: It was. I was even on the edge of my seat.
+Len: Same here! I mean, we can sing together as a combo too. I kind of want to sing one now...
+KAITO: But Miku and the others are preparing a party for you. We don't have the time to spend in SEKAI...
+Len: KAITOOOO One song! It's just one song, pretty please...!
+KAITO: Oh, alright. I guess we can sing one song.
+Len: Yay!
+(Enter: Miku)
+(Enter: Luka)
+(Enter: MEIKO)
+MEIKO: Len! KAITO!
+Luka: Where are you two?
+Miku: Oh, Len, KAITO! We've finished preparing for the party!
+Miku: Rin said that she has something that she needed to do, so I think she'll be here soon.
+KAITO: Huh? You've already finished preparing? Oh dear, I would've helped out...
+MEIKO: Don't worry about it! More importantly, were you two about to sing?
+Luka: If so, would it be alright if we join in on the fun with the two of you?
+KAITO: I like that! That sounds like a lot of fun!
+Len: Sounds great! Then, if you would please!
+Miku: Got it. Leave it to us!
+Len: Hey everyone! Since it's my anniversary today, I'm gonna show you all something really cool!
+Len: Alright, start the music!
+
+
+6 [MUSIC] 2: ROKI
+
+7 [mc] mc_bd_2021len_5
+
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Hehehe! What did you all think? Pretty cool, right?
+KAITO: I'm glad that everyone enjoyed it.
+(Enter: Rin)
+Rin: Hey! You guys!
+Len: Oh, Rin. You're here!
+Rin: Yeah. I was trying to wrap the gift neatly, and I had to redo it so many times that I didn't realize I was running late...
+Rin: Um... Did you all celebrate already?
+Luka: No, we were just getting started.
+Rin: Really?! That's a relief!
+MEIKO: Well then! Let's all celebrate together!
+KAITO: Alright, on a count of three. One, two... three!
+KAITO: Happy anniversary, Len!
+Miku: "Happy anniversary!"
+Rin: "Happy anniversary!"
+Luka: "Happy anniversary!"
+MEIKO: "Happy anniversary!"
+Len: Thank you!
+Len: Thank you for celebrating with me too, everyone!
+Len: It was the same when I was singing, but everyone wishing me a happy anniversary really does make today feel like one!
+Len: Hehe. I can't help but smile and it feels like I've been like this the whole day.
+KAITO: Well, isn't that a good thing? I know that everyone definitely would've wanted you to smile anyway.
+Luka: That's true. Besides, we're happy that you were able to spend your whole anniversary smiling, Len.
+Len: I guess I've gotta celebrate and enjoy today to the fullest!
+MEIKO: Well then, in that case, you'll need to enjoy the party we have planned after this first!
+Len: Yeah!
+Len: Let's meet again in SEKAI sometime, you guys! Bye bye!

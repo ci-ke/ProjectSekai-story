@@ -1,0 +1,89 @@
+166 Chasing The Sparkle Beyond the Blue Sky After Show (event_67)
+
+1 [mc] mc_ev_idol_09_1
+
+(Enter: Airi)
+(Enter: Miku)
+(Enter: MEIKO)
+Miku: Mhmm! They tasted so good!
+MEIKO: Thanks for sharing your cookies with us, Airi!
+Airi: There's no need to thank me. Anyway, I was given these by—
+Minori: There you are! Airi! Miku! MEIKO!
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Shizuku)
+Airi: Oh, hi guys!
+Haruka: What were you three talking about?
+Airi: Remember those cookies you gave me as thanks for planning the training camp? I was sharing those with Miku and the others.
+Shizuku: Oh, those cookies we had made at the cafe where Minori works?
+Airi: Yeah, those! Shaped like cats and so cute!
+Airi: I wanted MEIKO and everyone to get a taste too, seeing as the training camp wouldn't have happened without them.
+MEIKO: Hehe, thank you. I'll make sure KAITO and the others get their share too.
+Miku: They were so cute it was a shame to eat them, but they were so yummy! Thank you, everyone!
+Minori: Hehehe, I'm glad you liked them!
+Miku: And it seems like your training camp was a huge success! And the stream did super well too, right?
+Haruka: That's right. Not only did we fly up the charts, but there was even an article about us online.
+Shizuku: Yes, there was! I'm so happy that the fans enjoyed it.
+Minori: And it's all thanks to Airi that the training camp was both fun and effective!
+MEIKO: Hehe. With that much critical acclaim, we'll have to make Airi chief director of our next training camp♪
+Airi: And I'll gladly accept! I'll think up the best program for you.
+Miku: Whoa, how exciting! I wonder what kind of training activities we'll be doing.
+Airi: Hmm... The banana boat was good this time, but we definitely can't skip out on dance practice.
+Minori: Yes, that's right! Dancing is key to being an idol!
+Airi: Minori, you're just full of energy today!
+Airi: In which case, why don't we all dance? All this talk of training camps has got me in the mood.
+Haruka: I like that idea. I'm also in the mood to be active.
+Minori: Me too, me toooo!
+Shizuku: Me three!
+Miku: Oh, could I join you as well?
+Miku: The whole time I was watching all of you dance at your training camp, I kept wishing I was able to join in.
+Airi: Hehe, of course you're welcome to join! Let's all dance together!
+MEIKO: Well then, I'll stand back and appreciate the results of your training camp♪
+Airi: We'll be pulling out all the stops for this of course! Everyone, let's do this!
+Airi: Newly Edgy Idols!
+
+
+2 [MUSIC] 57: Newly Edgy Idols
+
+3 [mc] mc_ev_idol_09_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: MEIKO)
+Shizuku: *Pant* How were we?
+MEIKO: You were on point! You're so much more synced up than when I last saw you perform.
+Miku: I thought the same thing when we were dancing together. Looks like your training camp has made you stronger as a team!
+Haruka: Also... I noticed this at the camp as well, but don't you think Minori's dance style has changed a little?
+Minori: Huh?! R-Really?!
+Shizuku: You noticed too, Haruka? I was thinking the same.
+Shizuku: I thought that Minori was even cuter than usual.
+Minori: Whaaat?!
+Minori: T-To hear that from you, Shizuku, is...such an honor...
+Minori: But wait, wait! If you really noticed a difference, Airi should get all the credit for it!
+Minori: She gave me some advice about the art of being an idol!
+Haruka: Wow. You must have taught her something amazing, Airi.
+Airi: Well... I wouldn't go so far as saying "the art"...
+Airi: But if it's really my advice that helped you shine this much, Minori, then I couldn't be happier.
+Minori: Airi...!
+Airi: Even so, Minori. It's not me who should be getting credit for this. I just gave you advice, but you're the one who took it on board and worked so hard for this result.
+Airi: So don't sell yourself short!
+Minori: Okay! Thank you so much, Airi!
+MEIKO: Hehe. Looks like the training camp put you guys on track to be an even better group.
+Airi: I agree. And now... The solo show is fast approaching.
+Airi: We need to keep what we learned at the camp in mind and work tirelessly until the end, so we can give our best performance yet!
+Haruka: Sounds like a plan. There isn't long until the show, but let's do everything we can to be ready.
+Minori: "Yeah!"
+Shizuku: "Yeah!"
+Airi: On that note, let's give it our all for today's practice!
+Airi: If you don't mind, MEIKO and Miku, could you watch us?
+MEIKO: Yes, of course! We're just as excited for your solo show as you are♪
+Miku: Oh, we should ask KAITO and the others too. I'm sure they also want to watch you all dance.
+Minori: I'll go get them then! KAITO, where are you?!
+(Exit: Minori)
+Haruka: Huh, Minori?!
+Airi: *Sigh* She didn't have to go alone but, I guess it's too late now.
+Airi: Well, we're gonna go practice now. Hope to see you here again!
+Airi: Bye for now!

@@ -1,0 +1,154 @@
+44 New Year's Countdown Show 2022
+
+1 [mc] mc_2020countdown_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: The new year will be here before long. How did the last year go for everyone? Did you enjoy yourself?
+Rin: Wow, looks like many of you did! That's great.
+Len: It probably wasn't the best year for some of you as well, so please enjoy yourself here today!
+KAITO: As the saying goes, all's well that ends well, right?
+MEIKO: Yes! Let's make this final show of the year one to remember!
+
+
+2 [mc] mc_2020countdown_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Is everyone ready?
+Miku: Then let's sing!
+
+
+3 [MUSIC] 10: Happy Synthesizer
+
+4 [mc] mc_2020countdown_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thanks, everyone!
+MEIKO: Those in the other SEKAI must be preparing to usher in the new year right about now too, huh?
+KAITO: I think so. I really hope the past year has been filled with good memories for them.
+MEIKO: I'm sure it was. They've all been thriving after finding their true feelings.
+Luka: Yes. It makes you want to keep watching over them.
+Len: Let's sing a song to root for them too!
+
+
+5 [mc] mc_2020countdown_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: I'm gonna sing my heart out!
+Rin: Me too!
+Miku: Hehe. Let's sing a song that will spur everyone to keep moving forward!
+
+
+6 [MUSIC] 55: Forward
+
+7 [mc] mc_2020countdown_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: All right! Looks like our song and feelings reached them just fine!
+Rin: They sure did♪ Look at how excited it made them!
+
+
+8 [mc] mc_2020countdown_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: By the way, weren't we supposed to do the countdown?
+Rin: Huh?! You mean it's the new year already?!
+Miku: Not yet. But it's almost time, isn't it?
+Len: Oh, phew! Yeah, we'll start the countdown ten seconds before the new year begins!
+KAITO: It's already almost at the ten second mark, by the way.
+Rin: What?! Everyone, get ready!
+Miku: Let's all count down to the new year together! We'll start when it's exactly ten seconds before! Ready...
+MEIKO: 10!
+KAITO: 9!
+Luka: 8!
+Len: 7!
+Rin: 6!
+Miku: 5!
+Miku: "4!"
+Rin: "4!"
+Len: "4!"
+Luka: "4!"
+MEIKO: "4!"
+KAITO: "4!"
+Miku: "3!"
+Rin: "3!"
+Len: "3!"
+Luka: "3!"
+MEIKO: "3!"
+KAITO: "3!"
+Miku: "2!"
+Rin: "2!"
+Len: "2!"
+Luka: "2!"
+MEIKO: "2!"
+KAITO: "2!"
+Miku: "1!"
+Rin: "1!"
+Len: "1!"
+Luka: "1!"
+MEIKO: "1!"
+KAITO: "1!"
+Miku: "0! Happy New Year!"
+Rin: "0! Happy New Year!"
+Len: "0! Happy New Year!"
+Luka: "0! Happy New Year!"
+MEIKO: "0! Happy New Year!"
+(Exit: KAITO)
+(Enter: KAITO)
+KAITO: "0! Happy New Year!"
+Miku: Heheh. And thus, a new year begins.
+Miku: I wish everyone gathered here today a very happy and successful new year ahead indeed.
+Miku: And I'll sing the last song with those feelings in my heart!
+
+
+9 [MUSIC] 1: Tell Your World
+
+10 [mc] mc_2020countdown_7
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Counting down to the new year with everyone was so much fun!
+Rin: Please continue to support us this year! And our SEKAI counterparts!
+Luka: Don't forget to root for the people in the other SEKAI too.
+MEIKO: They're going to keep growing and making progress, so don't take your eyes off them!
+KAITO: Yes. We should continue watching over them.
+Miku: Yup! Well then, everyone...
+Miku: "Have a fantastic new year ahead!"
+Rin: "Have a fantastic new year ahead!"
+Len: "Have a fantastic new year ahead!"
+Luka: "Have a fantastic new year ahead!"
+MEIKO: "Have a fantastic new year ahead!"
+KAITO: "Have a fantastic new year ahead!"

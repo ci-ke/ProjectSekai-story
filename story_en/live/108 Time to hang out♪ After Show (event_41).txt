@@ -1,0 +1,116 @@
+108 Time to hang out♪ After Show (event_41)
+
+1 [MUSIC] 73: Near
+
+2 [mc] mc_ev_shuffle_13_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Miku)
+Miku: Thank you for coming today, everyone!
+Haruka: I'm so glad you were all here to hear our performance.
+Minori: Me too...!
+Minori: Not to mention that we were also blessed with being able to witness the wonderful sight of Haruka singing in not only a cute but also a mature way!
+Haruka: Oh, Minori... Exaggerating as usual...
+Minori: No, I'm being serious!
+Minori: There's no way I can be cool like An or anything... But someday, I will definitely become an idol that's worthy of standing next to you, Haruka!
+Miku: Wow! You're so fired up about this, Minori!
+Haruka: To be honest, I really like the way you are now, Minori.
+Haruka: Still, I understand. If that's how you truly feel, then...
+Minori: Then?
+Haruka: How about we try training together sometime?
+Minori: Huh? Are you talking about that training regime that you've been doing every day since forever?
+Minori: Th-That means...! We're gonna train together all the way from sun up to sun down?!
+Haruka: Hehe. Every day might be a little tough, but even if you do it at your own pace, your singing, dancing and stamina should improve.
+Haruka: That's why I was thinking we can try it out for a day or something. What do you think?
+Minori: Y-Yes, please! Let me train with you!
+Miku: Good for you, Minori♪
+Minori: Yeah!
+Haruka: Hehe. Then let's give it a try.
+Haruka: We'll start by running first thing in the morning, so does meeting at 5:30 sound good?
+Minori: 5:30...? I-In the morning?!
+Haruka: Yes, well... Oh, is that too early for you?
+Minori: Not really, but I'm still not really conscious when I wake up at six, so 5:30 might be even worse...!
+(Enter: Airi)
+(Enter: Shizuku)
+Airi: Heeeey!
+Minori: Oh, that voice...
+Airi: Hey, you two. You're here pretty early.
+Minori: Yeah! The three of us just sang together!
+Shizuku: That sounds wonderful♪ I'd like to sing as well.
+Airi: Same here! But before we do that, let's have a meeting about our next project...!
+Miku: A meeting?
+Miku: Oh... Are you talking about that thing?
+Haruka: That thing?
+Shizuku: Hehe. We both came up with a wonderful idea after watching the night show the other day.
+Minori: Y-You did?! What is it?!
+Haruka: I can't wait to hear it.
+Minori: Me neither! Hehe. I'm so glad we went to PXL!
+
+
+3 [mc] mc_ev_shuffle_13_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Ah—ah—... Nice, my throat's warmed up and ready to go.
+Kohane: Cool. I'm ready to sing whenever too!
+Akito: That's great and all, you two... But you guys seem a little more pumped than usual.
+Kohane: Huh, you think so...?
+Toya: I agree. I have a feeling that we're going to hear you both sing much better than usual today.
+Miku: Did something happen?
+An: Hehe. Well, that's because...
+An: We went on a date the other day♪
+Kohane: Y-Yeah...!
+Akito: A date...? You guys are this fired up after just hanging out?
+Kohane: Well, out of all the stuff that happened... I keep thinking back on how I want to be a worthy partner for An.
+Kohane: That's why I'm going to work even harder in singing and even everything else outside of that too!
+An: Worthy, huh...? Hehe. Oh, Kohane!
+Akito: Alright, if that's what motivates you, then it seems fine.
+Toya: I agree. Do what you think is best for you, Azusawa.
+Miku: So, what song are you going to sing today?
+Kohane: Oh! I was thinking of singing that one song...
+Miku: Which song?
+Kohane: Yeah! The song that would show how much An and I have grown as partners!
+An: Oh, that song! Nice, I want to sing that too!
+An: You guys are okay with that, right?
+Toya: Yes, of course.
+Miku: I'm good too.
+Akito: There's no reason to say no.
+Kohane: Thanks, you guys!
+Kohane: We'd love it if you all would listen to our song too.
+Kohane: Here we go! Forward!
+
+
+4 [MUSIC] 55: Forward
+
+5 [mc] mc_ev_shuffle_13_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Kohane: Phew... That felt good!
+Miku: You did great, Kohane.
+Toya: Yes, your feelings really shined through as you sang.
+An: Yeah, you were amazing! My heart was pounding even as I was singing with you!
+Kohane: Hehe. Thanks, you guys...!
+Kohane: Hey, An...
+Kohane: I... I still have to rely on you for support and there's still a lot that I don't know about you, but...
+Kohane: I'm going to work hard so that I can get to know you better and be able to proudly say that I'm your partner!
+Kohane: So, I'd love it if we could keep singing together for as long as possible...
+An: Kohane...
+An: Of course we will! You're my one and only partner after all!
+Kohane: Really? I'm glad...
+Miku: Hehe. That was very heartfelt.
+Akito: To be fair, they're always like this.
+Toya: Hehe. That's true too.
+Kohane: Thank you for coming too, everyone. What did you think about our song today?
+An: Absolutely amazing, right?!
+Kohane: Thank goodness...!
+Kohane: I'm going to keep working hard so that I can sing better and better, and it'd make me really happy if you could all stop by again.
+An: Don't be strangers, okay?!
+Miku: See you later.

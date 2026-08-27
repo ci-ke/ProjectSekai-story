@@ -1,0 +1,86 @@
+216 The Phoenix in the Distant Sky After Show (event_88)
+
+1 [mc] mc_ev_wonder_12_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: KAITO)
+(Enter: MEIKO)
+Emu: Is everybody ready? I hope all of you celebrate with us too♪
+Emu: Tsukasa! Congrats on passing the audition!!!
+Tsukasa: Hah hah hah hah!!! Thank you for your grand applause!
+Nene: Wow, you're already back to your usual self...
+Rui: Hehe, he wouldn't be Tsukasa otherwise.
+MEIKO: Congratulations, Tsukasa! We're all so happy for you! I just want to throw a big party!
+MEIKO: In fact... Let's do just that! We'll have a party to celebrate you passing the audition!
+KAITO: That sounds fun. But... I think we may want to wait a bit before we do.
+Tsukasa: Indeed. I'll need to practice even more in preparation for the big day.
+MEIKO: Oh, that's true... In that case, we can have a party to celebrate the success of the show after it's over!
+Tsukasa: Good idea! I'd like to celebrate with all of you!
+Tsukasa: Also... Let me take this moment to thank you all once again.
+KAITO: Thank us?
+Tsukasa: I was able to win the part of Rio because I had your wholehearted support.
+Tsukasa: Really, truly... Thank you all!
+Nene: What are you talking about...?
+Nene: We did help, but you got that role through your own hard work.
+Rui: Yes, I agree.
+Rui: Everyone from the Phoenix Stage performed wonderfully. You wouldn't have been chosen over them for the role of Rio if not for your refusal to give up.
+Emu: Yeah! You worked super hard, and you were really cool!!!
+Tsukasa: All of you...
+Tsukasa: Guh... I'm not crying, it's my allergies...!
+Nene: Haven't heard that one in a while.
+MEIKO: Hehe!
+Tsukasa: Alright...!
+Tsukasa: Now that I've won this role, I'll need to work even harder! We want the 30th Anniversary Show to be an enjoyable one, so...
+Tsukasa: Let's all work together to make this a good show!
+Emu: Yeah!!!
+Tsukasa: Well, with that decided, next we need to pump ourselves up!
+Nene: Pump ourselves up?
+Tsukasa: That's right! That is to say... We're going to sing and dance!
+Rui: Hehe, that's a good plan. That should get us all excited.
+Emu: I wanna help, I wanna help! Let's get pumping!
+Tsukasa: Of course! This is neither here nor there, but Emu makes it sound like she thinks we're balloons...
+KAITO: Would you mind if I sang as well, Tsukasa?
+KAITO: I want to cheer you all on since you're going to be taking new steps to prepare for the show.
+Tsukasa: Of course you're welcome! I appreciate your kind words! Well then, let's begin!
+Tsukasa: Tondemo-Wonderz!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 127: Tondemo-Wonderz
+
+3 [mc] mc_ev_wonder_12_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: KAITO)
+(Enter: MEIKO)
+Tsukasa: Hah hah hah hah! Tsukasa Tenma is at 120,000,000%! Nothing is beyond me!
+Nene: Yeah no, I'm pretty sure that number is impossible...
+MEIKO: That was amazing, everyone! If you can do that, you'll definitely be able to make your show a hit too!
+Emu: Thank you! Hehe, we absolutely gotta put on a great show!
+Rui: Of course. We'll make it a fantastic performance that will become a part of the Phoenix Stage's storied history.
+Nene: Yeah!
+Tsukasa: We hope that you'll all look forward to it as well! We're going to keep flying to greater heights!
+Tsukasa: Let us find new horizons together!
+Tsukasa: Alright! On that note, it's time to get back to practicing!
+Tsukasa: Oh...! How about we run a lap around this SEKAI? It'll help us build up our stamina.
+Nene: Huh?! A lap...? When we don't really know how big this place is?
+Emu: Wow! That sounds so fun! Okay, we just gotta get on our marks, get set and go!
+Tsukasa: Ah! You seem raring to go, Emu! Well, I won't lose!
+(Exit: Tsukasa)
+(Exit: Emu)
+Nene: H-Hang on a second! Are you seriously doing this?!
+(Exit: Nene)
+Rui: Hehe, this should be fun. We'll be exploring while we're at it. KAITO, MEIKO, would you like to join us?
+KAITO: Sure. I'd like to take you up on that.
+MEIKO: Me too! I've got more than enough stamina, so I'm not going to lose!
+MEIKO: Ready, set... Let's go!
+(Exit: KAITO)
+(Exit: MEIKO)
+Rui: Hehe. Until we meet again, everyone!
+(Exit: Rui)

@@ -1,0 +1,94 @@
+192 Christmas Show 2023
+
+1 [mc] mc_2022christmas_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Ichika: Thanks for coming to see us in SEKAI again, everyone!
+Saki: Hey, hey! You all know what day it is, right?
+Saki: That's right! It's finally Christmas!
+Miku: We're going to put on a special performance, as a gift from us to you.
+Shiho: We'll heat this show up so much you'll forget about the cold, so everybody enjoy yourselves.
+Honami: Hehe. Well then, shall we start?
+Ichika: Right.
+Ichika: Everyone, enjoy our special performance with Miku! Here we go...
+Ichika: "needLe!"
+Saki: "needLe!"
+Honami: "needLe!"
+Shiho: "needLe!"
+Miku: "needLe!"
+
+
+2 [MUSIC] 63: needLe
+
+3 [mc] mc_2022christmas_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Ichika: Thanks for listening, everyone!
+Miku: Looks like everyone enjoyed it.
+Saki: I'm so glad! Since everybody had a good time, do you think my "nice" meter is maxed out now?
+Miku: Huh? Your "nice" meter?
+Saki: Hehe. I mean, Santa won't bring you any presents if you're not nice, you know!
+Honami: You don't have to worry about that, Saki. You're always very nice, so I'm sure Santa will visit you.
+Saki: H-Hona...! He'll definitely visit you, too!
+Shiho: Come on, guys...
+Ichika: Hehe. Here's hoping Santa will visit all of you, too.
+Ichika: Alright, everyone...
+Ichika: "Merry Christmas!"
+Saki: "Merry Christmas!"
+Honami: "Merry Christmas!"
+Shiho: "Merry Christmas!"
+Miku: "Merry Christmas!"
+
+
+4 [mc] mc_2022christmas_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Welcome, everyone. Are you all enjoying your Christmas in SEKAI?
+MEIKO: Wonderful! Just like the girls said, it feels like the winter chill is just about gone!
+KAITO: But you've still got enough energy to heat things up even more, don't you?
+Len: Yeah! And there's one way to do that...
+Rin: That's right... A show, of course!
+Miku: Are you all ready?
+Luka: Alright then, let's sing. Happy Synthesizer!
+
+
+5 [MUSIC] 10: Happy Synthesizer
+
+6 [mc] mc_2022christmas_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Great! That performance was fantastic! I got so into it I had to jump around!
+KAITO: Yeah. It's such a fun song, and I felt "happy" listening to it too.
+MEIKO: Oh, that's right! On the subject of "happy", there's something else we have to say.
+Rin: Ooh, the part where we count down and say it together! Are you ready, everyone?
+Luka: Looks like it. Well then, three, two, one...!
+Miku: "Merry Christmas!"
+Rin: "Merry Christmas!"
+Len: "Merry Christmas!"
+Luka: "Merry Christmas!"
+MEIKO: "Merry Christmas!"
+KAITO: "Merry Christmas!"
+Miku: Now, there's still plenty of Christmas festivities to enjoy, like parties with friends or eating sweets!
+Luka: Yes. And don't you think looking up at the stars would be nice as well?
+MEIKO: That does sound nice! I think the sky will feel quite special on this special night.
+Len: Stars are great, but there'll definitely be some beautiful light displays, too!
+Rin: Yeah! Everybody enjoy it as much as you can!
+Miku: Alright, we'll see you all again!

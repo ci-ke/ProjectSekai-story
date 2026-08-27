@@ -1,0 +1,85 @@
+79 Carnation Recollection After Show (event_26)
+
+1 [mc] mc_ev_night_04_1
+
+(Enter: Mafuyu)
+Mafuyu: ...
+(Enter: Luka)
+Luka: Mafuyu.
+Mafuyu: Luka.
+Luka: You've been listening to that song a lot. Do you like it?
+Mafuyu: I don't know...
+Mafuyu: I don't know... But I feel like there's something different about this song.
+Mafuyu: Why does it...
+Luka: It seems like it's still a little early for you to know the answer to that.
+Mafuyu: What?
+Luka: However, Kanade showed me the way with her own feelings.
+Luka: I think it's about time for you to find your answer, don't you think?
+Mafuyu: For me to...
+(Enter: Mizuki)
+Mizuki: Heeey!
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Miku)
+Kanade: Mafuyu, there you are.
+Mafuyu: Kanade...
+Miku: Luka, thank you for looking out for Mafuyu.
+Luka: It was no problem at all, Miku.
+Luka: Thank you for making an amazing song too, Kanade.
+Kanade: It's fine, I... I'm glad that it resonated with Mafuyu.
+Mafuyu: Yes...
+Ena: But it doesn't seem like it made an impression on her, though...
+Miku: I think it'll take a little bit of time.
+Ena: Time?
+Miku: Yes. Since Mafuyu is still in the middle of trying to find herself.
+Mizuki: Oh, you were talking about the rehab.
+Mafuyu: ...
+Luka: But at least with the song Kanade made for us, we'll have a guide.
+Kanade: Really?
+Kanade: Then, let's do it together.
+Kanade: In order to save Mafuyu, I'm going to keep composing.
+Mafuyu: Thank you...
+Luka: Hehehe. How nice. What strong feelings...
+Luka: By the way, I actually have a favor to ask all of you.
+Ena: A favor?
+Luka: Will you sing for me?
+Kanade: Huh...?
+Luka: Songs bring out strong feelings, so I was thinking that maybe it'll help Mafuyu feel less lost.
+Kanade: Lost...
+Kanade: I agree. I want to sing.
+Kanade: What about you, Mafuyu?
+Mafuyu: I want to sing...
+Mizuki: Awesome! Then, let's sing!
+Kanade: How about you, Ena?
+Ena: Well, I don't really have any objections.
+Kanade: Great. Then, let's sing. "Composing the Future"
+
+
+2 [MUSIC] 60: Composing the Future
+
+3 [mc] mc_ev_night_04_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Luka: That was an amazing song. I could feel all of your strong feelings.
+Mafuyu: ...
+Ena: Well, Mafuyu didn't seem any different than usual, though.
+Mizuki: Hmmm... I think she's actually made progress. In comparison to before, she now feels unsure about the things she doesn't understand.
+Ena: Really? I guess so.
+Kanade: It's okay, Mafuyu. We'll make more songs.
+Kanade: Because of your smile that time... I think I now know what kind of songs to make.
+Kanade: So... I'm going to make more.
+Mafuyu: Kanade...
+Mizuki: Well, I think it's about time we head home.
+Kanade: You're right...
+Mizuki: Thanks for coming, everyone!
+Ena: I hope you all come again.
+Mizuki: See you guys later!
+Kanade: Let's go, Mafuyu...
+Kanade: Together...
+Mafuyu: Okay...
+Mafuyu: Thank you.

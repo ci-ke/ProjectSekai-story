@@ -1,0 +1,95 @@
+171 Don't lose faith! After Show (event_69)
+
+1 [mc] mc_ev_band_10_1
+
+(Enter: Saki)
+Saki: Whoooaa! Shiho, you're so cool!
+(Exit: Saki)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Ichika: The way you play bass truly is amazing, Shiho.
+Honami: Hearing it up close like this really does feel different!
+Shiho: You guys are exaggerating... Besides, all of you can perform really well too.
+Shiho: I mean, you all practiced so much and...
+(Enter: Rin)
+(Enter: KAITO)
+Rin: Oh, there you are! Hey, you guys!
+Rin: Hehe. We came to find you guys since we could hear someone playing a cool bass riff☆
+KAITO: It was really good, Shiho. Just like at your show, it struck a chord in me.
+Shiho: Oh... Thank you.
+Rin: Your show was so amazing! I get excited just thinking about it again!
+Ichika: Me too! I had so much fun performing that time.
+Honami: It really felt like we were able to execute everything we practiced, didn't it?
+Shiho: Seems like we all feel the same thing.
+Saki: Feel the same thing... Wait! Shiho, does this mean...?
+Shiho: I guess, I still have some of that excitement left over inside of me...
+Shiho: Actually, I even feel like wanting to perform again now.
+Saki: In that case, let's do it! I'm so in the mood to perform right now!
+Rin: Ooh ooh, then can I join in? I've been itching to play with you guys!
+Honami: Of course. Let's do it!
+KAITO: Alright then, I'll be right here and listening to what you've all got to say.
+Shiho: If you don't mind.
+Shiho: So, are you all ready?
+Shiho: Voices!
+
+
+2 [MUSIC] 236: Voices
+
+3 [mc] mc_ev_band_10_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
+(Enter: KAITO)
+Saki: Thank you for listening, everyone!
+Rin: *Sigh* That felt amazing!
+Rin: That was a million times more fun than I ever imagined it to be! Thanks for letting me play with you guys!
+Ichika: We all had a fun time too. Also, I felt all of your thoughts and emotions.
+KAITO: Me too. I could really see how much fun you all were having and your emotions through your music.
+Honami: It really does feel the best when we're all performing together.
+Shiho: Yeah. I truly felt that way this time too.
+Saki: Shiho...
+Shiho: In the beginning, we only ever focused on trying to pull off a successful performance to prove our musical capabilities...
+Shiho: But I realized that I have the most fun playing music whenever I'm with all of you.
+Shiho: So, I can't wait to keep playing with you guys from here onward.
+Shiho: It's kind of embarrassing to keep saying that...
+Saki: No way, it's not embarrassing at all! I feel exactly the same way too!
+Honami: Let's all keep doing our best together!
+KAITO: I'm looking forward to your next show.
+Rin: Oh yeah, what are you girls gonna do for the next show?! Have you already thought about it?
+Shiho: We haven't but...that reminds me, Saku did ask us to perform at the same show next time.
+Ichika: That's right. You two exchanged contact information, didn't you?
+Rin: Whaaaat? You gave your info to that person who, not once, ever apologized to you guys? Why?!
+KAITO: You really have a grudge against Saku, don't you, Rin?
+Shiho: Well, she went out of her way to wait outside for us. And besides, it's not like we technically had any reason to refuse.
+Rin: I see... I mean, if you guys manage to sort it out then I guess it's fine...
+Rin: But, I just can't let it go! Especially after she said all those horrible things to you!
+Saki: Haha! Thanks for sticking up for us Rin, but...
+Saki: I think it was a good thing that Saku was blunt to us.
+Saki: I don't think I would've ever realized that my music didn't hit home with the audiences I wanted to move if I kept writing songs the way I'd always been doing.
+Ichika: I think so too. It was upsetting at the time, but thanks to that we were able to grow.
+Rin: Fiiinne. If you guys say it's okay, then I guess I'll let it go... So what now? Are you going to take up the offer?
+Shiho: I was thinking we should, but I wanted to know how you all feel about it too so I've put it on hold for now.
+Shiho: But it's not like we've always been pumping out shows, so I'd like to have a meeting about it first.
+Honami: Sounds good. We should take the time to think about it.
+Saki: If we're going to perform on the same stage as anemone again, then I really want to show everyone just how much better we can be!
+Ichika: I feel the same. Especially since Saku is one of the many people we want our music to reach, too.
+Saki: "Yeah!" "Yes!"
+Honami: "Yeah!" "Yes!"
+Shiho: Alright then, now that's sorted, we're having an after party for our last show today, right?
+Saki: Yup yup! That's exactly why I brought a whole bunch of snacks and sweets!
+Ichika: I also brought some drinks. There's also paper cups and plates, so shall we start setting up in the classroom?
+Saki: Sounds good! It's time to party♪
+(Exit: Saki)
+(Exit: Shiho)
+(Exit: Ichika)
+Honami: Hehe. Oh, Saki.
+Honami: Please join us too, Rin, KAITO. The show wouldn't have been a success if it weren't for all of you and the others' help.
+KAITO: T-Thank you... Um, I think I'll take up your offer.
+Rin: Me too, me too! I'm so excited for all the snacks!
+KAITO: Good for you, Rin.
+Rin: Yeah! And as a member of Leo/need's audience, I can't wait to see what you girls do next♪

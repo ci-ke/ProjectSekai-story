@@ -1,0 +1,117 @@
+86 An's Birthday Show 2022
+
+1 [mc] mc_bd_2021an_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: MEIKO)
+An: MEIKO, Miku, thank you so much for today! The birthday party was so much fun!
+MEIKO: It was my pleasure. I had a great time cooking all that food.
+MEIKO: Plus, I wanted it to be a birthday you will always remember.
+An: MEIKO... Thank you!
+MEIKO: You are most welcome.
+Miku: You'll be celebrating at your father's shop later, right? Wouldn't it be bad if the star of the show is late?
+An: You're right. I better get going, see you!
+An: *Sigh*... The birthday party was so much fun!
+Toya: The cakes and decorations are getting more gorgeous each year, aren't they?
+(Exit: Miku)
+(Exit: MEIKO)
+Kohane: There were even some adorable marzipan decorations on top of the cake.
+An: I know right! They were so cute that I didn't want to eat them.
+Akito: That's what you're saying now, but didn't you eat yours in one bite?
+An: That's because if I bit it in half, then the head and body will be separated, and that would be so sad.
+An: By the way, Kohane. Could you show me the photos you took today at some point?
+Kohane: Sure! In that case, I'll put together an album and bring it to the shop!
+An: Really?! Thank you, Kohane! I'm going to treasure it forever!
+Akito: Aren't you getting ahead of yourself? I haven't even given it to you yet.
+Toya: Hehe...
+(Enter: Rin)
+Rin: Oh! We made it! Hey you guys, wait up!
+An: Huh, Rin? Weren't you and Len washing the dishes?
+Rin: Actually, Len and I did rock-paper-scissors! Since I won, I get to skip the chores and introduce you to someone instead.
+Rin: You know, when Len gets fired up, he usually always goes with rock first.
+Toya: You know him so well. I wouldn't expect anything less.
+Rin: Hehehe.
+Akito: So, who are you going to introduce us to?
+Rin: Oh, right!
+Rin: So, there's someone who came into the store just now who wants to meet everyone!
+Rin: When I told them that the party was already over, they got really sad... So I brought them here!
+Kohane: Someone who wants to meet us?
+(Enter: Luka)
+Luka: Heya! Nice to meet you♪ I'm Luka!
+Kohane: What?!
+An: L-Luka?!
+Akito: After KAITO came, I did think it was a possibility but...
+Toya: Same here. I didn't think that we would meet so soon.
+Rin: I mean, you're so late. Even KAITO came aaaages ago.
+Luka: Hahaha. Sorry, sorry! I just kept wanting to check out everything around here.
+Luka: Oh, this is the first time I'm meeting everyone too! Heya! I'm Luka.
+Akito: She's like, how do I put this, a different kind of carefree person to KAITO.
+Toya: Sounds accurate.
+Luka: MEIKO's cafe is always so busy. It made me curious.
+Luka: When I came over, I heard that it was someone's birthday today.
+Luka: That's why I wanted to meet them and wish them a happy birthday!
+Luka: Let's see... You're An, the birthday girl, right?
+Luka: I also wanted to wish you a happy birthday too.
+Luka: Also, since everyone is here too, why don't you join me?
+Luka: Good idea, sounds like fun! Alright, here we go! Ready!
+Luka: Happy birthday, An!
+An: Hehe. Thank you, Luka.
+An: Thank you too, everyone!
+Luka: Ah!
+Kohane: Woah! W-What's wrong?
+Luka: I forgot to bring a present!
+An: Oh, that's fine. You don't have to get me anything.
+Luka: Haha. You're so sweet, An.
+Luka: But, since it's your birthday, I'd like to give you something.
+An: In that case... Oh, how about we sing together?
+An: Besides, I actually have a song I was hoping to sing with you if we ever got to meet in SEKAI!
+Luka: That sounds great! If you're okay with that, I am too!
+An: Thank you! I can't believe we're going sing together on my birthday. I'll always remember this!
+Rin: If that's what we're doing, then I want to help too!
+Kohane: Oh, me too!
+An: Thanks Rin, Kohane! I guess that's what we're doing then!
+An: But Akito and Toya will probably have to wait around for a bit though...
+Toya: I don't mind.
+Akito: Yeah. If it's just one song, then we'll still be able to make it to the celebration with Ken on time.
+Luka: That's good! Well then, let's sing to our hearts' content and make some great memories!
+An: Yeah!
+An: Be sure to join in too, everyone!
+An: Let's go!
+
+
+2 [MUSIC] 15: drop pop candy
+
+3 [mc] mc_bd_2021an_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Luka)
+An: *Sigh*... That felt good!
+Luka: What did you think, An? Another memory for you to treasure?
+An: It was perfect! Thank you to you too, Rin, Kohane!
+Rin: It's our pleasure!
+Toya: That was a great performance. Seems like everyone who came today had a lot of fun too.
+An: Hehe. I'm glad.
+Akito: Alright, we better get going...
+An: Huh?
+An: Oh no! Dad told me to come home early because all the regulars are already there.
+Kohane: Oh dear! We have to hurry!
+Luka: I'm sorry I held you back! But I had a lot of fun singing with you!
+An: Me too!
+Kohane: Um, Luka? Would you be interested in singing with us again sometime?
+Luka: I'd love to! Singing together sounds like a lot of fun!
+Toya: Yes, that would be nice.
+Akito: We are looking forward to it.
+An: Thank you for joining in with us too, everyone!
+An: Also, I'm really happy that you all could celebrate my birthday with me!
+An: I'm sure we'll sing in SEKAI again, so that's something to look forward to!
+Akito: Hey, we gotta go.
+An: I got it, I got it!
+An: See you later, Rin, Luka! Bye bye, everyone!

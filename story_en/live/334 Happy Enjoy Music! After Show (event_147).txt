@@ -1,0 +1,76 @@
+334 Happy Enjoy Music! After Show (event_147)
+
+1 [mc_timeline] mc_ev_band_19_1
+
+(Enter: Luka)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Saki: And without further ado... Great work at Jam Fest, everyone!
+Luka: Yay♪ Good work.
+Ichika: Yay♪ Good work.
+Saki: Yay♪ Good work.
+Shiho: Yay♪ Good work.
+Honami: Yay♪ Good work.
+Saki: Hey, c'mon! This is supposed to be a celebration, but no one's getting hyped up!
+Shiho: It's just that you're too hyped up, Saki.
+Luka: But I understand how you feel. It must feel amazing to have played successfully on such a big stage.
+Luka: And you really enjoyed yourself performing at the after-party, too.
+Saki: Yeah! The festival and the cafe visit were both so much fun.
+Saki: I want to do more shows like that so bad, I'm practically buzzing!
+Ichika: I'm sure we will. Mr. Shindo seems like he has a direction for us, after all.
+Honami: Yes, he said he would let us know once things are more concretely settled.
+Saki: Yeah! I wonder what he's working on! Think it's another show?!
+Shiho: It could be a new song... But we just put one out, so that feels a little soon.
+Luka: Whatever it is, it's bound to be fun.
+Saki: Of course!
+Saki: Hey, I know! Why don't we wrap up this party by playing something?!
+Saki: I really, really want to play something!
+Shiho: I figured. You've been fidgeting since we got here.
+Honami: Hehe. Why not, then? I'm sure everyone here would like to listen.
+Saki: Wow, look at that! Hey, wanna listen to us play?
+Saki: Hehe, thanks!
+Saki: In that case, why don't we bust out our special song just for them?
+Ichika: Special song...? Oh, you mean that one?
+Saki: Yeah! It's gotta be that one!
+Shiho: Gotta be? Well, we can play it pretty well now, so now's as good a time as any.
+Honami: Yes, I'd like to play it too.
+Saki: Hooray! How about you, Luka?!
+Luka: Of course I'll join in. Let's get right to it.
+Saki: Yeah!
+Saki: Here we go, everyone! Weigh anchor!
+
+
+2 [MUSIC] 458: Weigh anchor
+
+3 [mc_timeline] mc_ev_band_19_2
+
+(Enter: Luka)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Saki: Thanks, everyone!
+Saki: Maybe it's because everyone was here to listen, but we sounded even better than we did in practice!
+Shiho: It wasn't just Saki getting into it, either. Honami, Ichika, you were enjoying yourselves too.
+Honami: Hehe, and so were you.
+Saki: Haha♪
+Saki: You know... I really do love music.
+Saki: Being connected with everyone... Seeing everyone smile and sing along...
+Saki: It just makes me so happy!
+Luka: Being connected through music is wonderful.
+Ichika: Yeah. I hope we can continue putting on shows just like that.
+Honami: Me too.
+Saki: Okay! I'm all pumped up. I'm gonna practice some more!
+Saki: Do you guys wanna join me?
+Shiho: Sure. I'd like to play more.
+Honami: Me too!
+Ichika: Yeah! Let's play together!
+Saki: Thanks!
+Saki: Come see us play again sometime, everyone! You'll enjoy yourselves, we promise!
+Saki: Bye bye!
+Ichika: See you. Goodbye!
+Shiho: See you. Goodbye!
+Luka: See you. Goodbye!
+Honami: See you. Goodbye!

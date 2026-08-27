@@ -1,0 +1,91 @@
+187 Hope Will Someday Go Beyond the Morning After Show (event_77)
+
+1 [mc] mc_ev_night_11_1
+
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Len)
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+Ena: Huh? Mafuyu, you're already here...
+Mizuki: Oh, Miku and Len too! What were you guys doing?
+Mafuyu: Miku said she wanted to see Ena's drawing. So I was showing it to her.
+Ena: My drawing?
+Len: Um, you know... The drawing you did of Mafuyu...
+Mizuki: Ooh, that one! You already showed it to us, but it's a really nice portrait!
+Kanade: Yeah. It was heartwarming.
+Miku: It made me...happy.
+Mafuyu: Happy?
+Miku: Yes. It made me happy to see you doing your best.
+Mafuyu: I see...
+Ena: I was really surprised too. I never would've thought you could make an expression like that.
+Ena: But, I'm glad I got to see it. Thanks to that I was able to make a good piece for my assignment.
+Kanade: Assignment?
+Ena: Yeah, so I was assigned a theme for art class, and I was struggling quite a bit with it. But thanks to Mafuyu, it managed to make the cut.
+Mizuki: So, what did you end up drawing?
+Ena: Huh? Oh, um... W-Well, it's kind of hard to explain...
+Len: Oh, okay... But, do you...have it right now?
+Kanade: Even just a photo of it is fine. I'd like to see it.
+Ena: Oh, um, actually, I don't think I do... Just didn't have the time to take one, you know... Haha...
+Miku: I see...
+Ena: B-But the point is, Mafuyu also helped me out!
+Mafuyu: I...helped you?
+Mafuyu: In that case, I'm glad...
+Mizuki: Hehe, isn't this nice?
+Mizuki: Hey, you guys wanna sing? Something tells me it'll feel really good because of this vibe we have going on!
+Kanade: Sounds good. I want to sing too.
+Ena: How about you, Mafuyu? What do you want to do?
+Mafuyu: I also...want to sing.
+Ena: Well then, let's do it.
+Ena: We would love it if you could all listen, everyone. Here we go. Composing the Future.
+(Exit: Len)
+
+
+2 [MUSIC] 60: Composing the Future
+
+3 [mc] mc_ev_night_11_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Len)
+Ena: How are you feeling, Mafuyu?
+Mafuyu: How am I feeling...
+Mafuyu: My chest feels a little lighter...
+Len: That's good, Mafuyu.
+Mafuyu: Yes...
+Ena: Then, don't you think now's the right time to do what you want, bit by bit?
+Mafuyu: I think you're right...
+Mizuki: Wait a second. You're exuding the "big sister" aura a lot more than usual, Ena.
+Kanade: Since Mafuyu stayed over for a night, it seems like you two have gotten a lot closer.
+Ena: I don't know if that's the case, but I do know that Mafuyu is having a hard time.
+Ena: And I can kind of understand what that feels like... But anyway, that's that.
+Ena: Thanks to Mafuyu, I was also able to learn some things. So...I'm a little grateful.
+Mafuyu: I see...
+Mafuyu: But, I want to thank you as well.
+Ena: What?
+Mafuyu: The picture you drew of me... I looked at it a few times at home.
+Mafuyu: And...I looked in the mirror too... I wanted to see if I really did make an expression like that.
+Miku: Mafuyu...
+Mafuyu: But, the fact that someone knows a side of me that even I'm not aware of... Might be a clue to finding my true self. So, thank you.
+Ena: Hehe. You're welcome.
+Mizuki: Well, to make sure Mafuyu gets to know herself more, I guess all of us need to tell her what we know!
+Kanade: I think so.
+Ena: Alright, I guess we better get back to work. We probably won't be able to stay up until the morning this time.
+Mafuyu: Okay... See you later, Miku, Len.
+Miku: Bye bye, everyone.
+Len: See you later...
+(Exit: Ena)
+(Exit: Mizuki)
+(Exit: Kanade)
+(Exit: Mafuyu)
+Miku: Thank you for watching over them, Len.
+Len: N-No, I... I just went to see them. I didn't do anything.
+Miku: I don't think so. Sometimes just being there can be helpful.
+Miku: So, thank you.
+Len: Miku...
+Miku: Let's all keep watching over them together.
+Len: Okay!

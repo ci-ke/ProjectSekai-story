@@ -1,0 +1,86 @@
+242 Our Constellation of Song After Show (event_101)
+
+1 [mc] mc_ev_band_14_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Saki: The shooting stars were so beautiful!
+Ichika: Yeah. I'm glad we got the chance to see them.
+(Enter: Miku)
+(Enter: KAITO)
+Miku: Oh, Ichika, you guys... You're all here?
+KAITO: We thought you'd be at home resting now that your show's over.
+Ichika: Miku, KAITO! Actually, we're here because there's something we wanted to tell you all.
+Miku: Tell us...?
+Saki: Just now, we were all out looking at shooting stars!
+Honami: There's a meteor shower that's about to reach its peak called the Perseid meteor shower.
+Shiho: We got to see it on our way home from the show.
+Ichika: Yeah. It reminded us of when we were kids, and it got us talking...
+Ichika: About how this is a great opportunity to watch the shooting stars with all of you. So that's why we're here.
+Honami: We won't be able to see them for a while, but we were wondering if you'd like to join us the next time we go.
+KAITO: Shooting stars...
+Miku: Yeah, I want to see them. I'm sure Luka and the others would love to come too.
+Saki: Great! I'm so happy we get to see them with all of you too!
+KAITO: Thank you for inviting us.
+KAITO: A meteor shower... I'm looking forward to it.
+Miku: Yeah, me too.
+Miku: It must have been wonderful to watch shooting stars together again.
+Ichika: Yeah!
+Ichika: And... We're grateful to all of you. You're always watching over us.
+Honami: We've caused you to worry about us all this time.
+Shiho: Yeah, that's true...
+Saki: You guys are the reason we got to look at the stars and make a wish together again!
+KAITO: A wish...
+KAITO: Did you make the same wish? That you'd always be together?
+Saki: Yeah! We all wished that we could be together forever...
+Honami: And that we'll be able to see lots more meteor showers together.
+Miku: I see.
+Ichika: Yeah. Oh, and... This isn't exactly a "wish", but...
+Ichika: I thought to myself that I really want to keep connecting people through song...
+Ichika: So that we can stay together forever.
+Shiho: Ichika...
+Ichika: To encourage the people who hear our music to face forward so they may connect with someone important to them someday...
+Ichika: And...to make sure all of us can stay together.
+Ichika: That's why I want to keep singing.
+KAITO: I see...
+KAITO: I felt that from you during the show too, Ichika...
+Miku: So did I. When we sang together, I could feel your determination, your vigor—everything.
+Shiho: True... I felt that too, playing next to you.
+KAITO: I want to hear it again.
+Ichika: Huh?
+Miku: Hehe. Agreed. I want another taste of what we felt during the show.
+Saki: Ooh! Should we go for it, then?!
+Ichika: Saki... Okay. Shiho, Honami, is that okay with you?
+Shiho: Sure thing.
+Honami: Yes!
+Ichika: Okay everyone, here we go!
+Ichika: ray!
+(Exit: KAITO)
+
+
+2 [MUSIC] 148: ray
+
+3 [mc] mc_ev_band_14_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: KAITO)
+KAITO: That was a great performance, everyone.
+Ichika: Thank you, KAITO!
+Ichika: What did you all think?
+Ichika: I tried to put everything I'm feeling into that song... I hope at least some of it came across.
+Miku: I'm sure it did.
+Ichika: Yeah.
+Ichika: I'm going to keep singing.
+Ichika: To move the hearts of everyone who listens... With Saki, Shiho and Honami by my side.
+Saki: Yeah!
+Shiho: Right... Let's keep making music, the four of us.
+Honami: Together... Forever.
+Ichika: So, we hope you'll all continue watching us.
+Ichika: Okay, see you next time.
+Saki: Bye bye!

@@ -1,0 +1,76 @@
+47 Happy New Year 2022 Show Vivid BAD SQUAD
+
+1 [mc] mc_2021newyear_03_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Len)
+Akito: Okay. Besides Miku and MEIKO, we're all here.
+Len: They said they'd join us after tidying up the shop!
+Rin: Hey, everyone out there! Sorry for the wait!
+An: We're going to do our first performance for the new year now! Feel free to sing along!
+Toya: Looks like they're all ready.
+Akito: Man, I just don't get this place sometimes... Nevermind. Having an audience's not a bad deal at all.
+Akito: Do you wanna go first? You don't look like you can wait for Miku any longer.
+Len: Really? Thanks, then! I'm counting on you, Kohane and An!
+An: We got this! You ready, Kohane?
+Kohane: Breathe in...breathe out... Yes. I'm ready!
+Rin: Then let's go!
+
+
+2 [MUSIC] 26: BRING IT ON
+
+3 [mc] mc_2021newyear_03_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Len)
+Rin: Man, that was awesome.
+Len: Thanks, An and Kohane! It was super fun.
+Kohane: Hehe. You're welcome.
+An: Thanks for listening too, everyone!
+An: Kohane, don't you think we've become even better "best partners" than last year?
+Kohane: I do! When we were singing just now, I think we really got into the song during the hook!
+An: Exactly! I knew you'd understand me. That's my Kohane!
+Toya: Being synchronized with each other has allowed them to hone their performance.
+Akito: But they're not the only ones who's gotten better. We did, too.
+Toya: Yes, of course.
+Len: You guys are all fired up! Oh, hey! Miku and MEIKO are here.
+Rin: I'm happy with our performance. It's your turn next!
+Kohane: Okay! Thank you, Rin and Len!
+(Exit: Rin)
+(Exit: Len)
+(Enter: Miku)
+(Enter: MEIKO)
+MEIKO: Hey everyone! Rin and Len were just telling us about how you've whipped the crowds into a frenzy.
+Miku: I'm raring to sing too.
+An: That's the way! Kohane, you ready?
+Akito: Don't lose focus just 'cause you didn't get to rest.
+Kohane: I won't! I'll sing with my head held high!
+
+
+4 [MUSIC] 54: Ready Steady
+
+5 [mc] mc_2021newyear_03_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: MEIKO)
+Kohane: Th-Thank you for your support!
+MEIKO: That was great, everyone! What a powerful and exciting performance to kick off the new year with!
+Miku: Maintain this form and you'll ace all the events you take part in.
+Toya: Indeed. We should definitely try to build a good track record for ourselves as Vivid BAD SQUAD.
+Akito: Yeah. There's no way we can surpass RAD WEEKEND otherwise.
+Miku: I just know you'll succeed in making your dream come true.
+An: For sure! Just watch us!
+An: Everyone out there! Thanks for coming to watch Vivid BAD SQUAD's very first show of the year!
+Kohane: We'll keep striving to achieve our dream as a team, and as long as we have your support, we'll succeed!

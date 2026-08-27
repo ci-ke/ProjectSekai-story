@@ -1,0 +1,114 @@
+312 Star Festival Show 2025
+
+1 [mc] mc_tanabata_2024_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: KAITO)
+Mizuki: Thanks for coming on such short notice, everyone! I think the Star Festival decorations we made turned out great!
+Ena: Speaking of which, what brought this all on?
+Mizuki: The bamboo I got from work.
+Ena: Bamboo?
+Kanade: Oh... That's right. I remember you holding a large one.
+Mafuyu: Why do you have bamboo at your workplace?
+Mizuki: We use them as decorations for our seasonal display around this time of year. Also, they're not real, by the way.
+Mizuki: I decided to take some, since they were going to be thrown out.
+Ena: Then, was there any point in taking them to begin with?
+Mizuki: Awww, c'mon! It'd be such a waste, though.
+KAITO: Is there even any meaning to putting them up?
+Mizuki: Um... I don't think so, but at least it's fun!
+Mizuki: You even helped put them up, KAITO. I was sure you'd understand the joy they bring.
+KAITO: Think what you want.
+Ena: *Sigh* I knew you'd say that.
+Kanade: Did you have fun decorating, Miku?
+Miku: I did. The Star Festival decorations are pretty.
+Miku: What about you, Kanade?
+Kanade: I also had fun. Writing our wishes on the paper slips was nice too.
+Ena: Yeah, I kinda get what you mean. You have to write down something concrete, so it helps get your feelings in order.
+Kanade: Yes. Seeing them written on paper makes it feel more tangible too. It's kind of similar to how we make our music.
+Miku: Feel more tangible...
+Mafuyu: What's wrong?
+Miku: After hearing what Kanade said, it made me want to listen to a song filled with your emotions.
+Mizuki: Hahaha. What do you think, everyone? Shall we sing?
+Ena: Well, we can't say no to you, Miku. Besides, I wanted to sing too.
+Kanade: Would you join us, Mafuyu?
+Kanade: What about you, KAITO?
+KAITO: Fine. I'll sing.
+Mizuki: Wait, really?!
+KAITO: Would you rather I not?
+Ena: We didn't say that. But c'mon, let's sing before he changes his mind!
+Kanade: Hehe. Okay, here we go. Passion at 25:00.
+(Exit: Miku)
+
+
+2 [MUSIC] 409: Passion at 25:00
+
+3 [mc] mc_tanabata_2024_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: KAITO)
+Kanade: Thank you for listening, everyone.
+Mizuki: Thanks, you guys!
+Ena: Hey KAITO. Thanks to you, too.
+KAITO: I only sang to verify your feelings.
+(Exit: KAITO)
+Mizuki: Oh! Hey, hold on a second! Since we decorated, let's have a party to celebrate the Star Festival!
+(Exit: Mizuki)
+Ena: Ah! Mizuki, wait! I guess we should head over.
+Kanade: O-Okay.
+Kanade: See you later, everyone.
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Miku)
+
+
+4 [mc] mc_tanabata_2024_3
+
+(Enter: Miku)
+Miku: That was a wonderful song.
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Oh, there she is! So this is where you were!
+Rin: What were you doing here on your own?
+Miku: I was checking on some of our friends in SEKAI.
+Luka: The Star Festival is today, so SEKAI is overflowing with thoughts and feelings.
+KAITO: I'm sure everyone is hoping for their wishes to come true by writing them on those paper slips.
+MEIKO: Was there any thought or feeling in particular that stuck out to you, Miku?
+Miku: There was. I discovered a wonderful song!
+Miku: And then... It made me really feel like singing, too.
+Rin: Oooh, I like the sound of that! Then why don't we?
+KAITO: We should all sing a song for everyone here too.
+Miku: Thank you! Let's all have a fun time, everyone!
+Miku: Here we go! Journey!
+
+
+5 [MUSIC] 235: Journey
+
+6 [mc] mc_tanabata_2024_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Did our feelings reach you, everyone?
+MEIKO: Hehe, seems like they have.
+Len: Glad to hear that! Thanks, everyone!
+KAITO: I'd love for you all to try putting your feelings into some sort of form. You can try writing them on a wish slip or singing a song. Anything is fine.
+Rin: Yup! And since today's the Star Festival, your wish may just come true!
+Luka: That's right. I hope you all give it a try.
+Miku: Alright then, have a wonderful Star Festival, everyone!
+Miku: See you!
+Rin: Bye!

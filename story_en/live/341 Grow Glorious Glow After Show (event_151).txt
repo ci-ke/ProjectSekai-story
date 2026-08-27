@@ -1,0 +1,86 @@
+341 Grow Glorious Glow After Show (event_151)
+
+1 [mc_timeline] mc_ev_idol_19_1
+
+(Enter: Miku)
+(Enter: Luka)
+Miku: Wow... Shizuku was so radiant in her commercial.
+Luka: Hehe. You've hardly talked about anything else since they showed us.
+Miku: That's just how powerful she was! Beautiful and brilliant enough to give you shivers...
+(Enter: Minori)
+Minori: I know exactly what you mean, Miku!
+(Enter: Shizuku)
+(Enter: Haruka)
+(Enter: Airi)
+Miku: Oh, Minori! Everyone!
+Luka: Welcome♪
+Shizuku: Hello.
+Minori: Hehehe, Shizuku's commercial is so good! I've watched it over and over and over again!
+Airi: That reminds me, I heard a weird sound in the office the other day, and it was Minori sneakily watching the video.
+Minori: Huh?! You saw that?
+Luka: It's funny you say that, Airi.
+Airi: What?! Uhh...!
+Shizuku: What about Airi?
+Luka: I went to ask her a question earlier, and she was watching the commercial on her phone.
+Luka: She looked so intent, and so happy... She was so enthralled she didn't notice me at all.
+Airi: H-Hey, Luka! You promised not to tell anyone!
+Luka: Oh, is that so?♪
+Minori: Hehehe, we're the same, Airi!
+Shizuku: I had no idea you've been watching it that much...
+Haruka: It's true that you were amazing, Shizuku. Not just in the actual shoot, but even during practice.
+Airi: Yeah. You were all drawn taut... It reminded me of Cheerful * Days.
+Shizuku: Cheerful * Days...
+Shizuku: I think that must be because I'd rediscovered my resolve from back during those days.
+Minori: Resolve?
+Shizuku: Yes.
+Shizuku: You see, this job made me see just how much I've let myself be coddled by you all.
+Shizuku: You're all so sweet and kind... When I need help, you always give it to me.
+Shizuku: I'm so grateful for your kindness...but I began to take it for granted, and lost my edge along the way.
+Shizuku: That's why I had to recall how I felt as the lead for Cheerful * Days for this job.
+Minori: Shizuku...
+Airi: We could all tell. Each one of us felt your resolve to carry MORE MORE JUMP! on your back.
+Haruka: Right. Thank you again, for working so hard for all of us.
+Haruka: We'll be counting on you.
+Shizuku: Thank you!
+Shizuku: By the way, everyone. Before we start practice, can we sing a song together?
+Shizuku: To keep this resolve in my heart, as we keep moving forward.
+Airi: Of course. I'd love to hear how you sound right now, for sure.
+Miku: Then, can I join in as well? I'd like to witness your feelings from up close.
+Shizuku: Yes, of course!
+Shizuku: And I hope you'll all listen, too.
+Shizuku: Hashiru! Tooku! Todoku!
+(Exit: Luka)
+
+
+2 [MUSIC] 498: Hashiru! Tooku! Todoku!
+
+3 [mc_timeline] mc_ev_idol_19_2
+
+(Enter: Minori)
+(Enter: Miku)
+(Enter: Luka)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Shizuku: Thank you all so much for listening!
+Minori: Thanks!
+Luka: Your resolve shone through, Shizuku.
+Miku: Right! We could all feel your drive to lead MORE MORE JUMP! ever higher, right?
+Shizuku: Thank you...!
+Shizuku: But I still have a long way to go.
+Shizuku: If I want to carve open a path for MORE MORE JUMP!, I'll have to keep bettering myself.
+Shizuku: And shine brighter than everyone else.
+Shizuku: So, everyone, I hope you'll keep watching over me.
+Luka: Hehe, how reliable.
+Airi: Yeah! But we won't let her show us up.
+Minori: I'll keep on working more and more too!
+Haruka: In that case, let's get right into practice.
+Minori: Yeah!
+Miku: Thank you all for coming today. See you again♪
+Shizuku: Take care! See you again!
+(Exit: Haruka)
+(Exit: Shizuku)
+(Exit: Minori)
+(Exit: Miku)
+(Exit: Airi)
+(Exit: Luka)

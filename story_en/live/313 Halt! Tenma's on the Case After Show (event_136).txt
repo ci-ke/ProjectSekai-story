@@ -1,0 +1,73 @@
+313 Halt! Tenma's on the Case After Show (event_136)
+
+1 [mc] mc_ev_wonder_18_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Alright, that's all for today's training! Ahh, we broke a great sweat here!
+Emu: I'm super tired, but it felt really good to run so much!
+Nene: I think that varies depending on the person... But either way, I guess I'll be sleeping well again tonight.
+Rui: Hehe, that's for certain.
+Rui: I tend to be a bit of a night owl, but the training regimen Mikazukigumi gave us always seems to have me sleeping like a baby afterwards.
+Tsukasa: Ah, Rui, that's wonderful!
+Tsukasa: Move well, eat well, sleep well! That's the mantra you need to properly build an actor's body!
+(Enter: Luka)
+Luka: Hmm? I think I just heard a wonderful combination of words♪
+(Exit: Luka)
+(Enter: Luka)
+Emu: Oh! Hi, Luka!
+Luka: Hello, everyone♪
+Luka: I heard you mention "sleeping well." Is everyone about to take a group nap? I'd love to doze off with you all♪
+Nene: Wh-Why does it feel like she only heard the part she wanted to hear...?
+Tsukasa: Sleeping wasn't the whole story, Luka! "Move well, eat well, sleep well!" That's the full mantra!
+Luka: "Move well"...? Oh, like you all did for your show at the Jidaigeki Studio Park?
+Luka: You were all very cool in that♪ That was a job well done!
+Tsukasa: Why, thank you! And we appreciate the assistance you provided. Your help truly got us out of a pickle.
+Luka: Don't mention it♪ All I did was watch out from above.
+Luka: And I got to see a fantastic show in the end, so I had a lot of fun♪
+Tsukasa: Ah, is that so! I'm glad to hear it!
+Tsukasa: However, just watching us perform doesn't feel like enough. Why don't we put something on together, Luka?
+Luka: Huh? Together?
+Tsukasa: Yes. After all, joining in on a performance is the best way to enjoy it!
+Rui: I agree wholeheartedly. I would love to perform with you, Luka.
+Emu: Me too, me too! C'mon Luka, let's do it!
+Luka: Hehehe♪ Since you're so kindly offering, I think I'll take you up on it♪
+Tsukasa: Alright! Now that's settled, let us start the show!
+Tsukasa: Here we go! SEIBAIITAAAAASU!
+
+
+2 [MUSIC] 472: SEIBAIITAAAAASU!
+
+3 [mc] mc_ev_wonder_18_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Luka)
+Tsukasa: Hah hah hah hah! How did you like Tsukasa Tenma's derring-do?!
+Luka: Your dancing was very cool, Tsukasa♪
+Emu: Yeah, totally♪ And it was so wonderhoy how you held those poses!
+Tsukasa: But of course! I train every day, after all!
+Nene: You've always been the active type, but you've been getting even better since our show at the Jidaigeki Studio Park.
+Rui: We surely have Mr. Kijima and the rest of Mikazukigumi to thank for this as well.
+Tsukasa: Yes...
+Tsukasa: I learned so many important lessons from them.
+Tsukasa: For us actors, our bodies are the language with which we speak. I thought I already understood that...
+Tsukasa: But I was able to experience it firsthand thanks to them. I'm very grateful.
+Emu: Yeah! I'm glad I got to learn so much stuff too!
+Tsukasa: Indeed. If possible, I'd like to put on another show together someday!
+Nene: You might be completely shredded by the time that happens.
+Rui: That possibility does seem likely. If he continues with this training, one day...
+Emu: *Gasp* Wait, is Tsukasa gonna look like a bodybuilder?!
+Tsukasa: I can't imagine I'll get quite that far!
+Luka: Oh, but I'd kind of like to see that♪
+Rui: Hmm. Tsukasa, with abs in a clearly defined six-pack... Tsukasa, with shoulders the size of melons...
+Rui: This is giving me some new ideas for our shows!
+Tsukasa: Wh-What exactly are you planning to make me do?!
+Rui: Now, now! Save that excitement for when you've successfully reached that point.
+Tsukasa: I'll reach no such point! Well, I suppose I might if I get cast as a bodybuilder...
+Emu: Ooh! Then, let's make our next show a bodybuilder show!
+Tsukasa: What does that even mean?!

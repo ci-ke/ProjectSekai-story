@@ -1,0 +1,88 @@
+174 Walk on and on After Show (event_71)
+
+1 [mc] mc_ev_street_10_1
+
+(Enter: Akito)
+(Enter: Toya)
+Toya: Akito, I've realized something in all of this.
+Akito: You have? What is it?
+Toya: I thought that it can be a good thing sometimes to go overboard, but I guess there's a limit.
+Toya: All this preparation for our event has left me tired out. Especially this last week...
+Akito: No kidding. We managed to get two songs hammered out in a matter of days.
+Toya: In hindsight, it was such a meaningful experience, even if we got too busy to think at the time.
+Toya: Also, I was really surprised by how you finished off your track.
+Akito: Really?
+Toya: Yes. You said you needed a little more time, but the chorus had already changed entirely a day later.
+Toya: I could hear Shiraishi's explosive force and your sharpness, like a blade formed from molten steel.
+Toya: Your cutting edge and her energy, melded together. Truly "Silence & Action".
+Akito: That's all good, but I don't want to hear "surprised" from you, especially after you pulled that incredible track out of nowhere.
+Toya: I made you wait a long time, ever since we formed BAD DOGS. I'm sorry.
+Akito: It's all good. I would've waited as long as it took. I always knew you had it in you to create an amazing track.
+Toya: Thank you... Though, it ended up putting too much on everyone's plate.
+Akito: You're not wrong there. But we all knew what we signed up for.
+Akito: We were all prepared for "too much". No matter what comes our way, we just do it, right?
+Akito: Too much won't even be enough if we're gonna surpass RAD WEEKEND.
+Toya: Yes, you're right. We'll have to keep...
+(Enter: Kohane)
+Kohane: An, I'm sorry for keeping it secret from everyone that I was making my own track.
+(Enter: An)
+(Enter: Luka)
+(Enter: KAITO)
+An: Don't worry about it Kohane! I'm so flattered you sampled my song!
+An: No one's ever sampled me before! My heart was pounding the whole time I was listening to it.
+Kohane: Was it really? Thank you! Hearing you say that makes me glad I made it.
+An: But tell me next time, okay? I really, really want to help out!
+Luka: Hehe. I heard KAITO helped you write a song, Kohane. Look at you♪
+KAITO: Honestly, I didn't do much at all.
+Kohane: That's not true. I couldn't have done it without you. Thank you so much!
+KAITO: It was my pleasure! I really like the track, Kohane.
+KAITO: How would I put it? It's exciting and breathtaking, like your feelings are growing and spilling over into the world.
+Kohane: But it wasn't good enough for us to sing... So I have a long way to go.
+Luka: Even so, it's such a big deal to be able to express your emotions!
+Luka: Just keep up what you're doing and move forward one step at a time.
+KAITO: Luka! That's exactly what I was going to say! Why'd you have to beat me to it?
+Luka: Oops! Did I steal your thunder? Sorry!
+Toya: One step at a time... Yes, we can't let anything stop us.
+An: Toya, Akito!
+Kohane: Sorry we're late.
+Toya: That's alright. Actually, can I say something before we all reflect on yesterday's event?
+Akito: What now, did you write another song or something?
+Toya: No.
+Toya: I just...want to sing. What I'm feeling now... I think I could put it into a song.
+Toya: Would you all join me for that?
+Akito: Well, I had a feeling that's what was on your mind. Okay, let's do it.
+Luka: Then I'll join you too, if you don't mind.
+Luka: KAITO got to be everyone's hero this time, so I want to contribute too!
+KAITO: Aww, I wanted to join in too... I guess I'll let Luka have her moment.
+An: Hahaha. Well, as for me and Kohane, we're all systems go!
+Toya: Thank you, everyone. Let's go. Mirai!
+
+
+2 [MUSIC] 180: Mirai
+
+3 [mc] mc_ev_street_10_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Luka)
+(Enter: KAITO)
+Toya: Thank you for listening, everyone.
+Toya: We made it through an intense week of focused practice for that event.
+Toya: And now it's over, I feel like I've hit a reset button. I really hope my performance conveyed that energy.
+KAITO: It sure did! Every note of it!
+KAITO: Listening to you and everyone sing, I could really feel your happiness and how much you care about each other!
+Toya: That's good... Thank you.
+Akito: Alright, let's get started with our debrief of the event.
+An: Yeah, let's! Phew, I feel brand new after singing! We've been so busy lately, so it'd be nice to slow down today.
+Luka: Hehe, maybe I'll join you for that too? I want to hear all about your event.
+KAITO: Me too! Hey, why don't we all go to MEIKO's place for it?
+Toya: That sounds great. Let's head over.
+(Exit: Kohane)
+(Exit: An)
+(Exit: Akito)
+(Exit: Luka)
+(Exit: KAITO)
+Toya: Until next time, everyone. We'll continue to sing and give it everything we have, so let's meet here again soon.
+(Exit: Toya)

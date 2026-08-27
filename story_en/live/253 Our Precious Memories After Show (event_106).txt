@@ -1,0 +1,101 @@
+253 Our Precious Memories After Show (event_106)
+
+1 [MUSIC] 10: Happy Synthesizer
+
+2 [mc] mc_ev_shuffle_36_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Haruka: Thank you all for coming to see us perform today!
+Airi: Your cheers totally made their way to the stage!
+Minori: Still, we had even more energy than usual today!
+Shizuku: Hehe. That's probably because we looked through Haruka's photo album before we sang, don't you think?
+Haruka: Oh...
+Minori: You're right! We had fun chatting about what MORE MORE JUMP! has done and all the time we've spent hanging out together!
+Shizuku: Yes. Those photos from the time we wore matching penguin pajamas on stream and became "PEN PEN JUMP!" really brought back memories.
+Airi: There were some from when we went to karaoke too. Like the one of Minori giving that smug look after she chanted back perfectly to Haruka's song...
+Minori: H-Hey, we don't have to keep talking about that!
+Haruka: Haha! Hehe.
+Airi: Haha! Hehe.
+Shizuku: Haha! Hehe.
+Shizuku: Haruka, thank you for sharing your precious album with us.
+Haruka: No, I'm the one who wanted you all to see it. I was thinking while I was making it...
+Haruka: We formed MORE MORE JUMP! and started doing all kinds of things, one at a time...
+Haruka: It's thanks to all of you that I've been able to remain an idol.
+Haruka: So... I wanted to thank you all for making these memories with me.
+Minori: Haruka...!
+Shizuku: Hehe, I feel the same way, Haruka.
+Airi: Me too! Let's keep making lots more memories together, both professionally and in our private lives!
+Minori: Yeah!
+Shizuku: That reminds me, Saki said her album is finished too, right?
+Haruka: Yeah. So, we made plans to show each other soon.
+Haruka: Hehe, I'm looking forward to seeing Saki's album.
+
+
+3 [mc] mc_ev_shuffle_36_2
+
+(Enter: Saki)
+(Enter: Shiho)
+Saki: Oh! I just had a great idea!
+Saki: Hey, Shiho—
+Shiho: No.
+Saki: What?! I haven't even said anything yet, though!
+Shiho: I can tell from that face. You're trying to get me involved in another hassle, right?
+Saki: Whaaat, I am nooot!
+(Enter: Ichika)
+(Enter: Honami)
+(Enter: Miku)
+Miku: Saki, Shiho, what are you two talking about?
+Saki: Oh, guys!
+Saki: So, we took a picture the other day of us all wearing matching headbands, right?
+Saki: I was thinking it'd be fun if we all performed with those on, and I was about to ask Shiho about it!
+Shiho: *Sigh* I figured it'd be something like that.
+Saki: Whaaat?
+Miku: Hehe. But that should be fine, right?
+Miku: I think everyone wearing the same thing will bring your hearts closer together, and it could make for a good performance.
+Honami: And it'd be a shame to only wear them once after Saki went through the trouble of buying them for us.
+Ichika: Yeah. Let's try it sometime when Rin and the others are all with us.
+Saki: You guys... Thank you...!
+Saki: And Shiho...?
+Shiho: *Sigh* Guess I don't have a choice...
+Saki: Yaaay!
+Saki: Then, I'll have to put this down on my list of things I want to do♪
+Honami: Huh? You finished that list, didn't you?
+Saki: Yeah! But now I made a new one!
+Saki: And it's called... "100 Things I Want To Do By Graduation"!
+Saki: I listed all the stuff I wanted to update after getting out of the hospital, and new things I've come up with lately too!
+Miku: Hahaha, that's our Saki for you.
+Saki: Hehehe♪
+Saki: But I'm thinking I want to take my time going through this list...
+Saki: I have plenty of time, and also... Putting everything I have into this band with you guys is what I want to do most right now!
+Ichika: Hehe... I see.
+Honami: I hope you can give your all with both Leo/need and all of the new things you want to do, and enjoy yourself along the way.
+Saki: Yeah!
+Saki: So, with that decided...!
+Saki: Let's get right to practice! There's a song I wanna do♪
+Saki: Will you do it with us, Miku?
+Miku: Sure thing. Let's sing together!
+Saki: Thank you!
+Saki: And I hope you'll all listen!
+Saki: Here we go... Stella!
+
+
+4 [MUSIC] 64: Stella
+
+5 [mc] mc_ev_shuffle_36_3
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: Ahh, that was sooo much fun!!!
+Miku: You were in peak form, Saki.
+Saki: Hehehe♪ I was just overwhelmed with all these feelings... Like how super happy I am to be together with everyone, and how grateful I am!
+Saki: Hey, can we do it one more time? I want Rin and the others to hear it this time!
+Honami: That sounds good. Then, should we go get them?
+Saki: Yeah!
+Saki: Thanks for listening, everyone! We'll do our best to make our performances even better, so come listen again♪
+Saki: Bye bye!

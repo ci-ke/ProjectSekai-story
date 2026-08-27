@@ -1,0 +1,80 @@
+92 Miku's Anniversary Show 2022
+
+1 [mc] mc_bd_2021miku_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Luka)
+Ichika: Happy anniversary, Miku!
+
+
+2 [mc] mc_bd_2021miku_3
+
+(Enter: Miku)
+Miku: You all came!
+Miku: Thank you for coming to celebrate my anniversary.
+Miku: Actually I, from other SEKAI are also celebrating right now.
+Miku: I'm so happy. I'm very grateful that you all care about me this much.
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Okay, on my cue, everyone! Ready...
+Rin: "Happy anniversary, Miku!"
+Len: "Happy anniversary, Miku!"
+Luka: "Happy anniversary, Miku!"
+MEIKO: "Happy anniversary, Miku!"
+KAITO: "Happy anniversary, Miku!"
+Miku: Oh! You guys!
+Miku: It's not fair for you to sneak up from behind. You surprised me.
+Luka: Hehe. Sorry, Miku.
+MEIKO: You looked like you were in the middle of telling everyone something, so we were waiting for the right time.
+MEIKO: And then, Rin and Len just...
+Len: We don't get a chance like this every day, so I suggested that we should make it a surprise!
+KAITO: It's a good thing it went as planned.
+Rin: Yeah!
+Luka: Anyway, what were you telling everyone, Miku?
+Miku: I was talking about me in other SEKAI.
+Miku: It seems like the others were celebrating with me just now.
+Miku: It was their feelings that created these multiple versions of me.
+Miku: I'm sure the other versions of me in SEKAI must have been thrilled to be celebrating their anniversary with everyone.
+Miku: Hey, you guys. There's a song I want you all to hear.
+Miku: I know I've said this many times before but today, I'd like to thank you all.
+Miku: I hope that music keeps us all connected forever. That is why I want to take this opportunity to sing a song for you all.
+Miku: I hope you enjoy it.
+Miku: Here goes!
+
+
+3 [MUSIC] 1: Tell Your World
+
+4 [mc] mc_bd_2021miku_8
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thank you for listening, everyone!
+Luka: That was amazing, Miku.
+Rin: "Woot woot!"
+Len: "Woot woot!"
+MEIKO: Woot woot!
+MEIKO: You too, KAITO!
+KAITO: What?! Uh... W-Woot woot!
+Miku: Hehe.
+Miku: Luka, Rin, Len... And you too, MEIKO, KAITO. Thank you!
+Miku: Thank you all so much for coming to celebrate with me today. Really, thank you.
+Miku: It is thanks to all of you saying you want to hear me sing that I've made it this far.
+Miku: I hope to continue to sing for everyone as I always have.
+Luka: We're right there with you, Miku.
+Rin: Yeah! Let's all keep singing together forever and ever!
+Len: Oh, next time, let's sing a cool, groovy song together!
+MEIKO: Oh, that sounds lovely! May I join too?
+KAITO: I like the sound of that. I would also like to join when the time comes.
+Miku: Yeah! Let's continue making music together forever and ever!
+Miku: Well then, everyone. Let's meet again in SEKAI! Bye bye!

@@ -1,0 +1,94 @@
+48 Happy New Year 2022 Show Wonderlands×Showtime
+
+1 [mc] mc_2021newyear_04_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: MEIKO)
+(Enter: KAITO)
+Tsukasa: The first practice session of the new year is about to begin! Is everyone ready?
+Emu: "Yeah!"
+Nene: "Yeah!"
+Rui: "Yeah!"
+Emu: Everyone out there! Cheer us on as we practice, okay?
+KAITO: Hehe. Well then, MEIKO and I will be working in the wings to support the performance.
+MEIKO: I'll keep the spotlight on the actors no matter where they move to, so move all you want!
+MEIKO: Besides, I always enjoy watching all of your bizarrely amusing shows!
+Tsukasa: Of course, since every single show is a masterpiece of epic proportions! You are right to place your high hopes in us! Ha ha ha ha!
+Nene: You're just going to ignore that they said "bizarrely amusing"?
+Rui: Hehe. Well, it is true that our shows are "bizarrely amusing."
+Rui: Now, as much as I would love to start the practice session now, I can't help but notice Miku's missing.
+(Exit: KAITO)
+(Exit: MEIKO)
+Tsukasa: Hm? Now that you mention it... Hey Miku! Where are you?
+(Enter: Miku)
+Miku: Ta-ta-tadah☆ I have come as called♪
+Tsukasa: Argh?! Wh-Where'd you pop out from?! You almost gave me a heart attack!
+Nene: You're exaggerating... Anyway, Miku's here now, so let's start already.
+Emu: Tsukasa, hurry up♪
+Tsukasa: All right, all right! Into your positions, everyone!
+Tsukasa: And now, sit back and enjoy the very first show of Wonderlands×Showtime of the new year!
+
+
+2 [MUSIC] 52: Becoming Potatoes
+
+3 [mc] mc_2021newyear_04_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+Rui: Good. Everyone did their part correctly. That was a pretty good performance.
+(Exit: Miku)
+Emu: What about everyone in the audience? Did you guys have fun too?
+Nene: That's great... Oh, wait. Those two over there, are they...
+(Enter: Rin)
+(Enter: Len)
+Len: Hey everyone! Happy New Year!
+Tsukasa: Len and Rin! What are you doing in the audience seat?
+Rin: Because Miku said we can watch your show from here♪
+Rin: And what a show it was! I can't wait to see what your next performance will be like!
+(Exit: Rin)
+(Exit: Len)
+(Enter: Miku)
+Miku: Hehe☆ Rin and Len are here to see our show like they promised♪ Now I'm pumped to do even better!
+Tsukasa: Yes, we have to live up to our audience's expectations! Let the second act of the show begin!
+
+
+4 [MUSIC] 51: The World Hasn't Even Started Yet
+
+5 [mc] mc_2021newyear_04_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Rin)
+(Enter: Len)
+Len: Hey! That was awesome!
+Rui: Hehe. I'm glad you liked it.
+Rin: We did! Let's do a fun show together again some time!
+Rui: Can everyone hear me? Thank you for your cheering.
+Nene: Thank you from me as well.
+(Exit: Rin)
+(Exit: Len)
+(Enter: MEIKO)
+MEIKO: You were all wonderful! I was absolutely enthralled.
+Emu: Yay! MEIKO complimented us♪
+Tsukasa: Hmph. You haven't seen the best of this future star, yet.
+Tsukasa: Or what my Wonderlands×Showtime is truly capable of!
+(Enter: KAITO)
+Rui: Yes, being a newly-formed troupe, there's great potential for future growth here.
+Nene: Yeah, potential for you all to get weirder. Who knows if that'll help our shows at all.
+Tsukasa: What are you saying? What can be cultivated should be cultivated, no matter what it is!
+(Exit: MEIKO)
+(Enter: Miku)
+KAITO: Hehe. I believe all of you can definitely create plenty of great shows that will put a smile on many people's faces.
+Miku: Yup♪ I wanna watch those shows too!
+Tsukasa: Thank you, thank you for all the support right at the start of the new year!
+Emu: We have more fun shows in store for you this year too, so you absolutely have to come watch us perform♪
+Emu: Absolutely, okay? Absoluuuuutely!
+Tsukasa: Until next time!

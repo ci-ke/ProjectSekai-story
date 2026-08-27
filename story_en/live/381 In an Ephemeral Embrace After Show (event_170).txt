@@ -1,0 +1,72 @@
+381 In an Ephemeral Embrace After Show (event_170)
+
+1 [mc_timeline] mc_ev_night_wl_02_1
+
+(Enter: Miku)
+Miku: Oh...
+Miku: You're all here.
+Miku: Just a bit ago, the tree in SEKAI grew bigger.
+Miku: At first, there was nothing in Mafuyu's SEKAI except Kanade's music...
+Miku: But she met Kanade, Ena and Mizuki...and now her SEKAI is full enough with feelings to grow a really big tree.
+Miku: Those feelings trapped everyone in a strange dream...
+Miku: But even so... I'm a little bit happy.
+Miku: That this SEKAI, Mafuyu's feelings... Have grown so much.
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Mafuyu: Miku.
+Miku: Oh...
+Mafuyu: What are you doing over here?
+Miku: I was telling everyone about the tree.
+Kanade: Everyone? Oh...
+Kanade: I see. You're all here.
+Mizuki: Are you here to cheer us on? Thanks as always, everyone!
+Ena: Oh, that's perfect, actually. Hey, do you want to hear us sing?
+Miku: Are you going to sing?
+Mizuki: Yeah. With everything that happened...we all agreed it feels like a good time to sing together.
+Ena: Especially Mafuyu. She's been really fidgety.
+Mafuyu: Have I really?
+Kanade: Hehe. Maybe a little.
+Mizuki: We were separated in that dream, after all. Maybe that's why I want to sing with you all now, so we can feel connected and share this moment.
+Ena: Yeah. That's how I feel too.
+Miku: Okay... Then, I want to sing too.
+Miku: I want to share your thoughts and feelings.
+Kanade: Okay. Let's all sing.
+Kanade: I hope you'll all listen, too.
+Kanade: Here goes. Composing the Future.
+
+
+2 [MUSIC] 60: Composing the Future
+
+3 [mc_timeline] mc_ev_night_wl_02_2
+
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Ena: *Sigh* I feel so much better now.
+Mizuki: Hahaha, me too. It really does feel great singing with you all.
+Mafuyu: It does...
+Miku: I'm happy I got to sing with you, too.
+Miku: Thank you. For coming to this SEKAI.
+Kanade: Miku...
+Ena: There's no need to thank us. Who knows how I'd have ended up if I had never come to SEKAI.
+Mizuki: Sure, it was a real shock at first. But I'm really glad I came, too.
+Mafuyu: I'm glad this SEKAI exists... And that you're all here.
+Kanade: Yeah.
+Kanade: Thank you, Miku.
+Kanade: It's thanks to you and the others, that I've also been able to keep moving forward.
+Kanade: I hope we can all stay together.
+Kanade: Um, and thank all of you, too.
+Kanade: Somehow, it feels like you've always been there watching over us.
+Ena: You can say that again. I'd rather not have them see any sides of us that aren't exactly flattering...
+Ena: But...that's all the more reason to keep our heads held up high, right?
+Mizuki: Right. So, thanks, everyone! Swing by again sometime when you feel like hanging out, okay?
+Mafuyu: Yeah.
+Kanade: We'll be going now. Let's meet again soon.
+Ena: See you. Bye bye! Goodbye.
+Mafuyu: See you. Bye bye! Goodbye.
+Mizuki: See you. Bye bye! Goodbye.
+Miku: See you. Bye bye! Goodbye.

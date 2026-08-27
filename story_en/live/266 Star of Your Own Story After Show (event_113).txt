@@ -1,0 +1,79 @@
+266 Star of Your Own Story After Show (event_113)
+
+1 [mc] mc_ev_wonder_15_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: MEIKO)
+Tsukasa: So, I learned a great deal this time round! I understood the challenges I face...
+Tsukasa: And above all, I experienced what it's like to truly disappear into a role.
+MEIKO: What does it feel like to do that, Tsukasa?
+Emu: Oh, I wanna know too! Is it all whooosh?! Or more like bzzzt?!
+Nene: I don't see the difference...
+Tsukasa: Hmm... What is it like? It's not easy to verbalize.
+Tsukasa: If I had to... I'd say it was as if I were effortlessly thinking Nakayama's thoughts...
+Nene: Effortlessly... That's pretty incredible.
+Rui: It is. When you're acting, it's easy to end up thinking about the audience and the fact that you're performing.
+Rui: To achieve what Tsukasa did must take a lot of time and effort, as well as a great deal of concentration.
+Emu: Wow! You're amazing, Tsukasa!
+Nene: It feels a little frustrating. Kinda like I've been left in the dust again.
+MEIKO: Aren't you lucky to work with such a good rival? Keep at it, Nene!
+Nene: MEIKO... Hehe, thank you.
+MEIKO: You're welcome! Oh, right, Tsukasa. Why don't we go see our furry friend later?
+Tsukasa: Furry friend? Oh, the bunny plushie!
+Tsukasa: I couldn't have done it without his help! I need to show him my thanks!
+Tsukasa: That's it. Why not show it with a show?
+Nene: A show? For the plushie?
+Tsukasa: Exactly! He might enjoy seeing how I've improved with his help!
+Rui: Hehe, that's an intriguing idea.
+Nene: Yeah. I want to try it too since that plushie's always helping Tsukasa out.
+Emu: I agree! So, how about we do a practice run here and then go find him?
+Tsukasa: Yes, good idea! Our first step is to rehearse!
+Tsukasa: Would you like to join us, MEIKO? It should be very fun!
+MEIKO: Well now, I think I just might♪
+Tsukasa: Then it's settled! Let's begin!
+Tsukasa: filament fever!
+
+
+2 [MUSIC] 397: filament fever
+
+3 [mc] mc_ev_wonder_15_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: MEIKO)
+Tsukasa: Hmm... If I do say so, that was perfect!
+Tsukasa: Thank you, everyone! We hear your cheers loud and clear!
+Rui: Given this reaction, the bunny plushie will certainly be pleased as well.
+Emu: Yeah! Let's go show him our show!
+MEIKO: Yes, let's! Oh, but I have to ask you something first!
+Nene: Ask us something?
+MEIKO: Yes! After we perform for the bunny plushie, will you four come watch our show?
+Tsukasa: What? Your show...?
+Tsukasa: Oh yes, you did say you were writing one in order to learn about the Showa period.
+MEIKO: That's right! Only, we got so wrapped up in making the props that it wasn't ready in time for your play...
+MEIKO: But it turned out really well! I just know you'll be bowled over!
+Tsukasa: Consider my interest piqued! I'd love to watch this show!
+Nene: Yeah. But, what props did you make that got you so fixated?
+MEIKO: Um... For example, the three-wheel truck!
+Nene: Three-wheel truck?
+Rui: You don't mean you built one?! You have to show me!
+MEIKO: Of course I will! We all worked hard on it, so I want you to get a good look at our handiwork.
+MEIKO: We also made a Showa postbox, a telephone, some store signs...
+Nene: Wait, how many props did you make?
+Emu: Oh my gooosh! It sounds super fun already!
+MEIKO: You got that right! As for the rest, you'll find out when you watch the show! Look forward to it!
+Tsukasa: In that case, we'll attend the show with maximum anticipation!
+Tsukasa: Well then, first things first... Let's go visit our plushie pal!
+Emu: Okay!
+(Exit: MEIKO)
+(Exit: Nene)
+(Exit: Rui)
+(Exit: Emu)
+Tsukasa: All of you, please come again! I promise you'll witness the next level of Tsukasa Tenma in another show!
+Tsukasa: For now, farewell!
+(Exit: Tsukasa)

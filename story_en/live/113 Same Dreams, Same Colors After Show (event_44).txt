@@ -1,0 +1,113 @@
+113 Same Dreams, Same Colors After Show (event_44)
+
+1 [mc] mc_ev_street_06_1
+
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Len)
+Len: So let's see... How about this photo? What are you guys doing here?
+Toya: I was trying to start our campfire with Azusawa there to teach me how.
+Rin: A campfire? Couldn't you just light some leaves instead of wood?
+Toya: Apparently, the fire would go out immediately if we just used leaves.
+Toya: That's why we gathered some leaves and smaller branches to start it. After that, we added some logs to keep it burning.
+Len: Oh, I see! That sounds fun!
+Rin: Hey, Len, we should try building a campfire too!
+Len: Oh, that's a great idea! I'll go gather some branches!
+Rin: Okay! Hold on... I don't think I've ever even seen any branches and stuff here before.
+(Exit: Len)
+Rin: Hey, Len, wait for me! I wanna go too!
+(Exit: Rin)
+(Enter: An)
+(Enter: Kohane)
+(Enter: Akito)
+(Enter: Luka)
+An: Hi, Toya! You said that you'd be going on ahead, but I didn't realize you meant here.
+Toya: Yes. Len and Rin wanted me to show them the pictures I got from Azusawa.
+Luka: Is that why we just saw Len and Rin running off screaming, "Campfire!"...?
+Kohane: Because you showed them the photo of us building a campfire?
+Toya: Yes. They said that they wanted to try doing it themselves.
+Akito: Whoa, hold up a second. That's dangerous. Wouldn't be better for them to do it somewhere MEIKO or Luka can watch?
+Luka: That's true, but MEIKO's the only one who has any matches so I'm sure it'll be fine.
+Kohane: Thank goodness.
+Kohane: Speaking of which... I didn't know that there was a place like this in SEKAI.
+An: Right?! I've been wanting to check this place out ever since MEIKO told me that Len and Rin found a great place to practice opposite our usual spot.
+Kohane: Yeah. This place has a great vibe to it.
+Toya: I agree. I was surprised too when they led me here. It's definitely photo-album-worthy.
+An: Besides that, thanks to Kohane, there are a lot of other great photos.
+An: Oh, like that one where Toya looked like a bagworm!
+Luka: Toya looking like a bagworm? What happened there?
+Akito: Oh, you mean that photo of Toya all wrapped up in his sleeping bag?
+An: Yeah, that one! I didn't expect Toya to like the sleeping bag so much. He really sank into it like it was made just for him!
+Toya: Is that supposed to be a compliment...?
+Kohane: Oh, I really like that photo of Aoyagi with that small bird perched on top of his head.
+Akito: Yeah, that one. And the bird stayed there for like two to three minutes too.
+An: I think it really liked him! That would've never happened if it was with you, Akito!
+Akito: What's that supposed to mean?
+Luka: How nice! All of these photos look great!
+Luka: So, Toya, how was it finally being able to experience all these things?
+Toya: All in all, simply amazing...
+Toya: Even though we went to the forest in order to get a better idea of our song, I felt like I ended up learning a lot more than that.
+Toya: I want to go out and experience more things like this moving forward...
+Luka: Hehe. Good for you!
+Toya: May I ask you all something?
+Akito: Hm? What's up?
+Toya: I'd like to sing with you all again while this feeling is still fresh in my mind.
+Kohane: This feeling? Do you mean...?
+Toya: I can't explain it very well, but... I think a "sense of unity" is the best way to put it.
+Toya: I feel like it's something profound that came out of this experience.
+An: Hehe. In that case, we can sing as many times as you want!
+An: More importantly, let's keep going to different places together and develop that sense of unity even more!
+Toya: Shiraishi... Yes, I'd like that as well.
+Toya: Also, I'd like it if all of you would listen to our song. Are you ready?
+Toya: Mirai.
+
+
+2 [MUSIC] 180: Mirai
+
+3 [mc] mc_ev_street_06_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Luka)
+Toya: Phew... After singing, I can't help but reminisce about that night.
+Akito: That night...? You mean when we sang while barbequing?
+Toya: Yes.
+Toya: I don't think I'll ever forget that moment as long as I keep singing.
+Akito: There you go again with all that...
+Toya: Hm? With what?
+Akito: *Sigh*... Nevermind.
+Kohane: "Hehe."
+An: "Hehe."
+Luka: Oh, that reminds me! Did you manage to capture that one scene on camera?
+Kohane: Which scene? What are you referring to?
+Luka: You know! When Toya climbed up the tree! You guys were telling me about it after the barbeque!
+Toya: Ack...!
+Luka: You made it sound like something that NEVER happens, so I was wondering if you had a photo of it...
+An: Ah... No, we don't have a photo of that! Everything just happened so fast that time...
+Luka: Oh? Really?
+Luka: I would've loved to see that. You climbed up the tree really fast too, right, Toya?
+Toya: W-Well, um...
+Luka: Hm? What's wrong?
+Akito: Uh... Luka, I think we should drop the subject.
+Akito: Toya's scared of heights and sort of gets sick just thinking about it.
+Luka: What?! Is that's true? I'm so sorry!
+Toya: I-It's okay. That's all in the past now...
+Kohane: But you really saved us back there, Aoyagi. If it weren't for you, we definitely wouldn't have been able to find our way back.
+An: I know, right! You're our hero, Toya!
+Toya: I see... I'm glad to hear that. I guess climbing that tree was worth it in the end.
+Akito: Dude, your knees are shaking...
+Toya: Huh...?!
+Luka: Hehe. If you were able to throw yourself at a scary situation like that, I'm sure you'll be ready for whatever other experiences come your way!
+Luka: We believe in you, Toya!
+Toya: Th-Thank you!
+Toya: Knowledge is certainly valuable, but knowing and understanding are very different things.
+Toya: That's why I want to keep experiencing different things with you guys.
+Toya: And I'd like it if you could all be there to watch over us.
+An: I'm sure they'll be there for us from here on out too! I mean they have until now, right?
+Kohane: Yeah! I believe so too!
+Akito: Anyway, we should get back to practicing. Let's make the most of everything, good or bad, and sing songs that can really knock everyone off their feet.
+Kohane: "Yeah!"
+An: "Yeah!"
+Toya: Yes, let's!

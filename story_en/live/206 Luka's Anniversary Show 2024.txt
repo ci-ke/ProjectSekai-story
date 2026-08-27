@@ -1,0 +1,107 @@
+206 Luka's Anniversary Show 2024
+
+1 [mc] mc_bd_2023luka_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Luka)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Oooh! Sounds like the crowd is raring to go! Shall we get started now?
+Rui: Yes, let's do it. Emu, Nene, could you please wake Luka?
+Emu: Okie dokie♪
+Emu: Luuuka!!! Wakey-wakey!
+Nene: A big crowd of people came by to wish you a happy anniversary.
+Luka: Ngh...Mmmh...
+Rui: Looks like we're going to need more than that to wake her up.
+Tsukasa: Leave it to me!
+Tsukasa: Heeey, Luuuka! Rise and shiiine!
+Luka: Mhm... Is... someone calling me?
+Nene: Oh, I think it's time!
+Emu: Yup♪ Alright, everyone ready?!
+Emu: Happy anniversary, Luka☆
+Tsukasa: "Happy anniversary!"
+Rui: "Happy anniversary!"
+Nene: "Happy anniversary!"
+Luka: Oh, wow!
+Luka: Thank you everyone for coming to celebrate my anniversary.
+Emu: Hehehe, no problemo!
+Luka: *Yawn* I've just woken up but...shall we get on with the show you promised me?
+Luka: Tsukasa, everyone, are you ready?
+Tsukasa: Huh? What...show?
+Luka: You all promised me that we would put on a wonderful show together...in my dream.
+Nene: In your...dream?
+Rui: Hehe, oh Luka.
+Nene: So, what now? If that's what Luka wants, I want to make that happen for her...
+Tsukasa: Of course! We've done so many shows together, surely an impromptu performance isn't too difficult!
+Emu: Yeah♪ Let's do it, Luka☆
+Luka: Thank you! Then let's do it.
+Luka: Alright then, here we go! Hoshizora Orchestra!
+
+
+2 [MUSIC] 282: Hoshizora Orchestra
+
+3 [mc] mc_bd_2023luka_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Luka)
+Luka: Thank you everyone♪ Did you enjoy that?
+Luka: Hehehe, I'm glad.
+Luka: And thank you all for performing with me. Thanks to you, this will be a day to remember.
+Tsukasa: We're glad to hear that. After all, you are the star for today, Luka!
+Rui: We are glad to have had you take center stage!
+Nene: Yeah. Happy anniversary, Luka.
+Emu: Happy wonderhoy anniversary♪
+Luka: Hehe. Thank you so wonderhoy much♪
+Luka: And a big wonderhoy thank you to everyone here♪ Bye bye!
+
+
+4 [mc] mc_bd_2023luka_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Thank you all for coming here to celebrate with me!
+Luka: That other version of me in SEKAI seemed to have a lot of fun celebrating, too. She looked so happy that I couldn't help but smile.
+Rin: The celebrating is far from over, Luka!
+Miku: Yeah, we also want to celebrate your special day!
+MEIKO: Yes! We really want to fill your day with happiness!
+Len: Hey, you guys will be joining us too, right?
+KAITO: Luka, I hope you enjoy today to the fullest!
+Luka: Len, KAITO, thank you.
+Luka: It's time to put my feelings of gratitude into song. This one is for all of you who have continued to support me.
+Luka: Romeo & Cinderella!
+(Exit: Miku)
+(Exit: Len)
+(Exit: KAITO)
+
+
+5 [MUSIC] 121: Romeo & Cinderella
+
+6 [mc] mc_bd_2023luka_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: Alright, it's time to wrap things up by wishing Luka a happy anniversary!
+Len: Sounds like everyone's ready. KAITO, would you do the honors?
+KAITO: Of course! Ready everyone?
+KAITO: Happy anniversary, Luka!
+Miku: "Happy anniversary!"
+Rin: "Happy anniversary!"
+Len: "Happy anniversary!"
+MEIKO: "Happy anniversary!"
+Luka: Thank you all so much!
+Luka: To everyone gathered here today, all of your kind feelings reached me.
+Luka: I will carry your warmth with me and embrace it as I sing for another year!
+Luka: Thank you so much for being here today, everyone. Please come to SEKAI to see us again!
+MEIKO: See you later!

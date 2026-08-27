@@ -1,0 +1,111 @@
+208 Memories That Come With The Scent of Candles After Show (event_84)
+
+1 [MUSIC] 74: Hitorinbo Envy
+
+2 [mc] mc_ev_shuffle_28_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Len)
+Len: Whoa...! You all sang so amazingly...!
+Kanade: Thanks, Len.
+Mizuki: But Miku... Why did you want to sing for us all of a sudden?
+Miku: I wanted to repay you all.
+Ena: Repay us?
+Miku: Yes. The four of you...and even Len... You all gave me Valentine's gifts.
+Miku: So, I want to repay you.
+Mafuyu: That's what you meant...
+Miku: Kanade, Mizuki, thank you for singing with me.
+Mizuki: No problem! It was so much fun!
+Kanade: I enjoyed it too. And... I'm really glad you felt that way, Miku.
+Miku: Oh...
+Ena: Hehe, true. It was such a nice way for you to give back.
+Mafuyu: Thank you, Miku...
+Miku: You're welcome...
+Miku: I feel kind of...warm. Len, did you feel it too?
+Len: Huh?
+Miku: I was wondering if this is how it feels to give a gift...
+Len: Oh... Yeah! I think it is...
+Len: That's how I felt when everyone liked the scented candle I gave them.
+Miku: Really...?
+Len: Oh... But, not just then.
+Len: As well as when I gave everyone the candle... I felt really happy when I was making it with Kanade, too.
+Miku: With Kanade...?
+Len: Yeah... I thought about how fun it is getting to do stuff like that with someone.
+Kanade: Len...
+Miku: I see... I hope I can feel that someday.
+Kanade: Oh... In that case Miku, do you want to try too?
+Miku: Huh?
+Kanade: I can make a scented candle with you like I did with Len.
+Miku: Oh... Um... If that's alright with you... I'd like to try.
+Mizuki: Oh, that's so nice! Hey, can I join you?
+Ena: Oh, I kinda wanna try too. Especially since the candle you gave me was so pretty.
+Miku: Then...I'd like all of us to make candles together.
+Mafuyu: All of us?
+Miku: Yes... Mafuyu, Len, Rin, MEIKO, Luka, everybody.
+Mizuki: Ooh! I like that idea, let's do it! We can do it in SEKAI and bring over a portable stove and stuff!
+Kanade: Yeah... I like the sound of that. Len would even be able to make it himself this time.
+Len: Oh... Yeah!
+Len: Hehe...
+Mafuyu: Len...? What's the matter?
+Len: Oh... Um, well... I was just thinking how we'll still have fun things to look forward to even after Valentine's Day.
+Kanade: That's true...
+Kanade: And it's all thanks to Ms. Mochizuki, Hoshino and Kusanagi.
+
+
+3 [mc] mc_ev_shuffle_28_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Saki: The candles Ichi made us are so, so amazing!
+Ichika: You're still not over them, Saki?
+Saki: But c'mon, aren't they?! They're so pretty and smell so nice!
+Shiho: Yeah, you're right. I use mine after I take a bath or want to relax.
+Ichika: Oh... R-Really?
+Honami: Sounds like everyone liked your gifts, Ichika.
+Ichika: Yeah... Thank you for teaching me, Honami.
+Honami: Hehe, you're very welcome.
+(Enter: Miku)
+Miku: There you are.
+Ichika: Miku...! What's the matter?
+Miku: Hmm, no reason exactly. I just wanted to see your faces.
+Miku: I guess it's because of your scented candle, Ichika. I was using it earlier when everyone's faces came to mind.
+Saki: Oh! I get what you mean!
+Saki: When I use mine, I get hit with all these memories of Ichi and Valentine's Day.
+Ichika: Oh... I guess it's the same for all of us, then.
+Miku: Huh?
+Ichika: When I smell the candle I was given, it takes me back to making it with Honami and everyone, as well as all sorts of other memories.
+Miku: Hehe. Maybe your candles have a kind of memory magic to them, Ichika.
+Saki: Omigosh...! That's such a nice thought!
+Honami: Even years from now, I bet the smells of the candles we received will bring back happy memories of that Valentine's Day.
+Shiho: Yeah. Thanks, Ichika.
+Ichika: N-No problem...
+Shiho: I think it's time to wrap up this break and get back to practicing.
+Ichika: Yeah, you're right. um... Hey, Miku? There's a song I'd like to sing with you. Do you mind?
+Miku: Of course not.
+Ichika: Thank you! Then let's start.
+Ichika: Time Machine.
+
+
+4 [MUSIC] 8: Time Machine
+
+5 [mc] mc_ev_shuffle_28_3
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Shiho: Phew... That went well. Good work, guys.
+Saki: I even broke a sweat!
+Honami: Hehe, I think we're all feeling warm inside.
+Ichika: Yeah... Thank you for listening, everyone!
+Ichika: I hope our performance lingers in your memories just like those scented candles did for us.
+Honami: We have to keep doing our best to give performances that memorable.
+Ichika: That's right! Let's keep it up, guys.
+Ichika: Well then... Bye for now!

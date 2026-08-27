@@ -1,0 +1,91 @@
+307 Lead to Shine More After Show (event_133)
+
+1 [mc] mc_ev_idol_17_1
+
+(Enter: Len)
+(Enter: KAITO)
+KAITO: Hmm, I wonder what Saito's "big news" was...
+Len: It didn't seem like it would be bad news... Maybe she found a really good job for them.
+KAITO: That would be great! But what job could be such big news? I can't help but wonder.
+Len: KAITO, I know you're restless, but let's get back to practice.
+Len: Don't worry. I know Minori and the others will tell us as soon as they can.
+KAITO: Y-You're right... Okay, back to practice—
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Minori: Ah, there you are! KAITO! Len!
+KAITO: Girls! You're all here.
+Haruka: Yes, we have something to tell you all.
+Len: Is it about the "big news"? KAITO has been practically too worried to practice...
+KAITO: L-Len!
+Airi: Hehe. We actually have two announcements, but let's start with the "big news."
+Minori: Drumroll...! MORE MORE JUMP! may become regulars on a TV show! Maybe!
+KAITO: Wow, really?!
+Shizuku: Yes, the director of "The Town Revitalization Team!" invited us to be part of a new program.
+KAITO: So that means... We could get to see you on TV every week!
+KAITO: I should set up a projector. But, if it's going to be weekly, maybe we need a special screening room...
+Airi: Slow down a bit there, KAITO.
+Haruka: It's not confirmed yet, and we won't even start filming until after that.
+KAITO: Ah... Right.
+KAITO: It's still amazing even to have an offer like that.
+Len: You'll be able to reach more and more people for sure.
+Haruka: Right. Which is why we want to talk to the director about how the program can best show what kind of group we are.
+Len: I see... You're even more on the ball today, Haruka.
+Minori: Hehehe. Right?! Which brings us to...
+Minori: Announcement two! Haruka is going to be MORE MORE JUMP!'s producer!
+KAITO: Huh? Producer?
+Haruka: Of course, we'll decide the most important things together, the same way we always have.
+Haruka: But I'll take the lead on considering our work priorities moving forward.
+KAITO: I see. That sounds like hard work... But I know you can handle it.
+KAITO: After all, your recent thoughtfulness led to a great opportunity for MORE MORE JUMP!
+Len: I agree. Do your best, Haruka!
+Haruka: Thank you both so much.
+Haruka: I know I still have a lot to learn, but I'm going to do my best...
+Haruka: And make MORE MORE JUMP! into a group that can bring hope to everyone in Japan.
+Minori: Wow... Haruka, you're so cool!
+Airi: Why are you getting all impressed?
+KAITO: I understand how Minori feels, though. Haruka's words just now carried so much resolve.
+Haruka: Resolve, huh...
+Haruka: Hey, everyone. Could we sing a song together?
+Haruka: As a sign of our resolve... And, so I can express to you what I'm feeling right now.
+Shizuku: Yes, of course.
+KAITO: Could I join in too, Haruka? I want to hear those feelings up close.
+Haruka: Yes, of course.
+Haruka: I hope you'll all listen, too.
+Haruka: Here we go. This is Supernova.
+(Exit: Len)
+
+
+2 [MUSIC] 457: Supernova
+
+3 [mc] mc_ev_idol_17_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Len)
+(Enter: KAITO)
+Haruka: Phew... Thank you all for listening. Did my feelings make it to you?
+Len: You sang wonderfully, Haruka.
+KAITO: Yes! I could really feel your drive to lead MORE MORE JUMP! even higher.
+Haruka: Thank you very much.
+Haruka: I want to help all of us, including myself, shine more and more.
+Haruka: We will reach those heights, and become top idols that spread hope across the country.
+Airi: We'll be counting on you, Haruka.
+Shizuku: Yes. Let's make it happen.
+Haruka: Thank you all so much for cheering us on. We've come this far because of your support.
+Haruka: I hope you'll keep watching over us, so we can make all our dreams come true.
+Minori: Thank you all!
+KAITO: Hehe. I'm already looking forward to seeing what they do next.
+Len: Yes, me too.
+Airi: Now, let's go tell Miku and the others too.
+Minori: Okay!
+Haruka: See you again, everyone.
+(Exit: Minori)
+(Exit: Haruka)
+(Exit: Airi)
+(Exit: Shizuku)
+(Exit: Len)
+(Exit: KAITO)

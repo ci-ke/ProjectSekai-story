@@ -1,0 +1,85 @@
+130 Kanade's Birthday Show 2023
+
+1 [mc] mc_bd_2022kanade_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Miku: Oh, hey... Look, Kanade, everyone's already here.
+Ena: Does this mean they're all here to celebrate Kanade's birthday?
+Mizuki: Yeah, totally! Welcome, everyone♪
+Ena: We just finished eating the birthday cake, so why don't we all take this opportunity to wish Kanade a happy birthday?
+Mizuki: Oh, good idea!
+Ena: Get ready, everyone! On three!
+Ena: One, two... Three!
+Ena: "Happy birthday, Kanade!"
+Mizuki: "Happy birthday, Kanade!"
+Mafuyu: "Happy birthday!"
+Miku: "Happy birthday!"
+Kanade: Thank you, everyone.
+Kanade: And thank you all as well.
+Kanade: You went out of your way to get a cake and candles for me... It reminded me of how I used to celebrate birthdays with my family.
+Mizuki: Really? I'm glad you liked everything so much. I was honestly pretty worried that you wouldn't.
+Kanade: No, I really did enjoy everything.
+Kanade: It made me remember how fun birthday parties were along with a whole host of other memories.
+Kanade: Still, is it really okay for me to have this much fun...
+Miku: Even though it's your birthday...?
+Kanade: Because... I...
+Mafuyu: Is this about your dad?
+Kanade: Yes. I need to keep composing so that I can save not just Dad, but others as well.
+Miku: Kanade...
+Ena: It'll be okay, Kanade... I'm sure your music's already saved a bunch of people.
+Ena: I mean, remember when my submission didn't get anything from that art contest and pushed me into a corner?
+Ena: Your song is the reason I was able to get back on my feet. You convinced me to keep trying.
+Kanade: Ena...
+Mizuki: She's right, Kanade. I think we've all been saved by your music. Right, Mafuyu?
+Mafuyu: Yes... I felt "warmth" when I listened to your song that one time.
+Mafuyu: You're the only person who's ever been able to make me feel that way, Kanade. Even now.
+Kanade: I see...
+Kanade: Can I ask you a favor, Mafuyu...?
+Mafuyu: Yes...?
+Kanade: If my songs have led to any changes within you, no matter how minor, would you mind telling me how you feel again?
+Kanade: In order to save you, I want to be able to compose songs that can make you feel a whole variety of things.
+Kanade: So, would you sing with me?
+Miku: Oh, I'd like to sing too... I want to understand what you and Kanade are feeling as well, Mafuyu.
+Mafuyu: Okay...
+Mizuki: In that case, why don't we all sing and give our audience a little show?
+Ena: Sounds good. I'd like to hear you sing as well, Kanade.
+Kanade: Thank you both. Without further ado...
+Kanade: Mafuyu, Miku, let's sing.
+
+
+2 [MUSIC] 67: Jishoumushoku
+
+3 [mc] mc_bd_2022kanade_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Great performance, Kanade, Mafuyu, Miku! That was awesome!
+Ena: I'm not sure why, but that felt so much warmer and gentler compared to the last time I heard it.
+Kanade: I felt the same way. Despite having sung it several times already, for some reason, it felt different today.
+Mafuyu: I see...
+Kanade: I think that may be because we sang with you, Mafuyu.
+Mafuyu: Okay, you're welcome.
+Kanade: And thank you all for listening.
+Kanade: I don't know how many people have been saved by my music, but...
+Kanade: I'm going to treasure all of my memories and realizations while striving to compose more music.
+Kanade: I'm hoping to incorporate the nostalgia I felt today into my music as well...
+Ena: If you do finish it, I have a feeling it's going to be a really nice song.
+Miku: Yes, it'll be so warm and gentle that everyone will be comforted by it...
+Mizuki: That does sound nice. I'd love to hear it when it's done.
+Mafuyu: Me too...
+Kanade: If that's how you feel, then I'll try working on it.
+Mizuki: Really?! I can't wait!
+Ena: I'll be looking forward to it too, Kanade. Also, I'm looking forward to spending another year with you!
+Mizuki: Yeah, same here♪
+Kanade: Me too.
+Kanade: Likewise, Mafuyu.
+Mafuyu: Thank you...
+Kanade: Anyway, we'll see you all later.
+Miku: Bye bye.

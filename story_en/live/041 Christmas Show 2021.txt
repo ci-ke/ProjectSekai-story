@@ -1,0 +1,94 @@
+41 Christmas Show 2021
+
+1 [mc] mc_2020christmas_1
+
+(Enter: Miku)
+Miku: Merry Christmas, everyone!
+Miku: Hehe. I'm glad we can meet during Christmas too.
+Miku: Rin and I will be throwing a party with the rest after this. But there's still some time, so...
+Miku: I know! Why don't we go see how the other SEKAI are celebrating their Christmas?
+Miku: Yup! Let's go!
+
+
+2 [mc] mc_2020christmas_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Ena)
+(Enter: Mizuki)
+Mizuki: Okay, on my cue, everyone! Ready...
+Ena: "Merry Christmas!"
+Mizuki: "Merry Christmas!"
+Kanade: "Merry Christmas..."
+Mafuyu: "Merry Christmas..."
+Miku: "Merry Christmas..."
+Mizuki: You know, I really didn't think we'd be able to hold a Christmas meetup like this at all.
+Mizuki: Now we don't have to be Christmas loners this year♪
+Mafuyu: I don't care about Christmas, and I prefer to be alone, anyway.
+Ena: No need to tell us that. I mean, you're here, aren't you?
+Mizuki: Come on people, it's Christmas! Let's all have some fun! Kanade and I have been making preparations for that.
+Kanade: Right. Let's do it.
+Ena: Huh? Do what?
+Kanade: Sing. Mizuki and I have been practicing a song with Miku.
+Mizuki: I wanted all of us to do it together, actually, but Ena had problems meeting the deadline and Mafuyu was busy with school events, remember?
+Mizuki: So anyway, just watch it as a party performance or something, okay? Miku, you ready?
+Miku: Yes. Let's sing.
+
+
+3 [MUSIC] 74: Hitorinbo Envy
+
+4 [mc] mc_2020christmas_3
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Ena)
+(Enter: Mizuki)
+Ena: Hm? Those sparks over there, we've seen them before...
+Mizuki: Oh yeah!
+Mizuki: Hey there♪ Is everyone doing great?
+Mizuki: Looks like you get to NOT be Christmas loners this year too!
+Ena: Hey, can we open the snacks already?
+Mizuki: Of course! Our Christmas party has only just begun! Miku, I hope you'll enjoy yourself too!
+Miku: I will.
+
+
+5 [mc] mc_2020christmas_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Miku! I was wondering where you went. Were you peeking into the other SEKAI?
+Miku: Yup! I was curious about how people in the other SEKAI were spending their Christmas.
+Miku: Hehe. They were singing and having so much fun.
+Miku: Hey! Since everyone's gathered here, can I sing you a song too? As a present from me to all of you?
+Len: Great idea! Can we listen?
+Miku: Of course you can. Here I go!
+
+
+6 [MUSIC] 1: Tell Your World
+
+7 [mc] mc_2020christmas_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Hehe. I think everyone out there is happy with your present for them, Miku.
+Miku: That's great!
+Miku: Thanks for today, everyone!
+Miku: I got to visit another SEKAI and sing for you today. I couldn't have asked for a better Christmas.
+MEIKO: Hehe. Your joy reached us and we had a lot of fun too!
+KAITO: I hope everyone out there has a good Christmas day too!
+Miku: "Merry Christmas!"
+Rin: "Merry Christmas!"
+Len: "Merry Christmas!"
+Luka: "Merry Christmas!"
+MEIKO: "Merry Christmas!"
+KAITO: "Merry Christmas!"

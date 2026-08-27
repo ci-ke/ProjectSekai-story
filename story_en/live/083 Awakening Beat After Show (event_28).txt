@@ -1,0 +1,80 @@
+83 Awakening Beat After Show (event_28)
+
+1 [mc] mc_ev_street_04_1
+
+(Enter: Miku)
+(Enter: MEIKO)
+MEIKO: What's this? What are you doing here alone, Miku?
+Miku: Oh, MEIKO... Nothing in particular. I was just thinking about something...
+MEIKO: Thinking? Oh, I see. This is about Kohane and the others, right?
+MEIKO: The event is probably already over by now, so they should be here anytime soon. Nevertheless...
+MEIKO: It's rare to see you waiting for them here. You seem a little restless.
+Miku: That's because we rehearsed together. I want to know how it went.
+MEIKO: Hehe, I see. Actually, I'm also really interested to know too. I even asked KAITO to come over so that I could take a walk. Wait, is that...
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+Kohane: Miku! MEIKO!
+An: Heya!
+Akito: Hello. It's kind of rare to see both of you here...
+Toya: Agreed. I thought that at least one of you would be at the cafe.
+MEIKO: Hehe, we were curious about how the event went so we left.
+Miku: Judging from the looks of it, you guys won, didn't you?
+Kohane: We did!
+Kohane: I was able to muster up the courage and believe in myself enough to sing.
+MEIKO: Really? That's great, Kohane!
+Kohane: Yes! Thank you so much for rehearsing with me.
+Miku: You're welcome, Kohane.
+Kohane: I want to give something back as a thank-you...
+An: Kohane and I baked cookies! Why don't we all go back to the shop and eat them together?
+MEIKO: Sounds lovely. I'll make some good coffee and tea to go with the cookies.
+Miku: Agreed. But before that, could you sing just one more song for us?
+Kohane: Huh?
+Miku: You were able to sing with confidence today, right Kohane? I would really like to hear that voice of yours.
+MEIKO: That's true. I would love to hear you too.
+Kohane: Oh... In that case, I would like to sing with everyone, like at the event.
+Kohane: Is that okay?
+Toya: Of course. That's fine.
+Akito: We already sang there before, so why not?
+Kohane: Thank you!
+Kohane: In that case... I can do it!
+Kohane: I'm ready when you are!
+An: ...
+Miku: An? What's wrong? You've gone quiet all of a sudden.
+An: Oh... Sorry, sorry. I was just focusing!
+An: I'm also ready!
+Akito: Looking at who we've got, how about the usual?
+Toya: Sounds good. That is our origin song.
+Kohane: Yes! Let's sing! Ready Steady!
+
+
+2 [MUSIC] 54: Ready Steady
+
+3 [mc] mc_ev_street_04_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: MEIKO)
+Kohane: Wow! That felt really good!
+MEIKO: That was amazing! I didn't know you could sing like that!
+Miku: Same here. Now that you believe in yourself, you sound incredible.
+Kohane: T-Thank you, you two.
+Toya: Azusawa's growth this time around has been tremendous. As a member of the same team, I'm feeling inspired too.
+Akito: Yeah, same here.
+Akito: We all need to keep moving forward too.
+An: Yeah, yeah! You worked so hard, Kohane!
+An: I'm so glad that you started believing in yourself, Kohane!
+Kohane: Hehehe... Thank you.
+Kohane: I'm not going to view myself at a lower level than you all anymore. I want to move forward with you all side by side!
+An: Yeah! Let's move forward together, Kohane!
+Kohane: Thank you for listening too, everyone!
+Kohane: I'm... Going to keep giving it my all, so please come and listen to us sing again!
+MEIKO: Oh speaking of which, I should be heading back. Especially since I completely left KAITO in charge of the cafe.
+Miku: KAITO is probably getting tired of waiting too.
+An: I know! Let's give him some cookies as an apology for making him wait!
+Kohane: Sounds good!
+Kohane: Alright then, see you next time, everyone!

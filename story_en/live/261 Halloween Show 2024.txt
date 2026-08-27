@@ -1,0 +1,88 @@
+261 Halloween Show 2024
+
+1 [MUSIC] 260: Love Ka?
+
+2 [mc] mc_2023halloween_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: MEIKO)
+Tsukasa: Happy Halloween, everyone!
+Emu: Happy Halloween!
+Nene: Happy Halloween!
+Rui: Happy Halloween!
+MEIKO: Happy Halloween!
+Tsukasa: Thank you for coming to our special Halloween show today!
+Rui: We prepared Halloween-themed costumes and effects. How did you all like them?
+Emu: Did you get all excited and wonderhoy?
+Nene: Oh, it looks like everyone enjoyed it. I'm glad.
+MEIKO: Me too!
+Emu: I also had sooo much fun dancing in a Halloween-themed costume!
+Tsukasa: As did I! Costumes are one of the best parts of Halloween.
+Rui: I agree. Why don't you all celebrate Halloween by dressing up in a way you don't usually get to as well?
+Rui: Just like this... You may find it makes you feel as free as a bird.
+Tsukasa: No, in your case, we can't have you becoming any more of a free spirit...
+Nene: By the way, we're going to have a costume party in SEKAI after this, right?
+Nene: I wonder what kind of costumes Miku and the others will wear.
+MEIKO: Well that's for you to find out! Everyone's going all out, so I hope you're ready!
+MEIKO: On top of their costumes, their special effects makeup is on point too!
+Emu: Special effects makeup? That's amazing! So do they look like real ghosts or something?
+MEIKO: Ah, we've also come up with tricks, so it's not all about the getups either. Might want to watch your back at the party♪
+Nene: What...kind of tricks have you planned exactly?
+Rui: Hehe, this is just getting more and more exciting.
+Tsukasa: Alright then, Miku and the others are probably waiting for us, so let's head over to the party.
+MEIKO: Let's. I hope you all have a wonderful Halloween too, everyone!
+Emu: Bye bye!
+(Exit: Tsukasa)
+(Exit: Emu)
+(Exit: Nene)
+(Exit: Rui)
+(Exit: MEIKO)
+
+
+3 [mc] mc_2023halloween_2
+
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Luka: Their show was absolutely wonderful, wasn't it?
+Rin: Yeah! I had so much fun!
+MEIKO: Now I just have this itch to sing and dance ASAP.
+Luka: In that case, why not try putting on a show of our own?
+Rin: Oh my gosh! I'm in!
+MEIKO: Sounds good! Let's enjoy this Halloween with everyone who's come to watch!
+Luka: Alright then, are you all ready? Romeo & Cinderella.
+
+
+4 [MUSIC] 121: Romeo & Cinderella
+
+5 [mc] mc_2023halloween_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: That was such a wonderful performance, you guys!
+Luka: Oh? I didn't realize all of you were watching.
+Len: Yup! We came over to announce that the pumpkin cake finished baking, only to find you guys singing.
+KAITO: Len was fidgeting in front of the oven while he kept watch of the cake.
+Len: Hey! You didn't have to tell them that...!
+Rin: Hehehe♪ The others in a different SEKAI put on an amazing show, which made us want to sing too.
+MEIKO: Yes. How did you like our Halloween show, everyone?
+Luka: Seems like they enjoyed it. I also had a fun time thanks to all of you here listening.
+Rin: I just remembered something! After we took a peek in the other SEKAI, there was another thing I wanted to do!
+Len: Huh? And what's that?
+MEIKO: I know! A costume party, right?
+Rin: Yeah! I want us to prank each other while dressing different from normal too!
+Miku: Wear costumes and prank each other, huh? Deciding on costumes and planning pranks sounds fun!
+Rin: I know, right♪
+KAITO: Then let's put on some Halloween costumes and enjoy the cake today.
+Len: Sounds like a plan! Alright, Rin! Let's think up some pranks together!
+Rin: Yeah! Let's make them really scary ones!
+Luka: Alright then, the rest of us will head back and finish preparing for the party.
+MEIKO: Thank you so much for coming today, everyone! I'm glad that we got to have fun together!
+Rin: See ya later!

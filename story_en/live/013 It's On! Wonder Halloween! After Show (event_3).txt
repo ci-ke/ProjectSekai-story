@@ -1,0 +1,53 @@
+13 It's On! Wonder Halloween! After Show (event_3)
+
+1 [mc] mc_ev_wonder_01_1
+
+(Enter: Rui)
+Rui: Mhm, I see! This device will certainly come in handy. And this vast expanse of sparkling lights!
+Rui: It's beautiful how each light glitters in a different way. I must find a way to use them as an effect somehow. Here, come to me!
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+Rui: It's okay. There's no need to be afraid...probably!
+Tsukasa: Good, we all made it in one piece! Hm?
+Emu: Hi Rui! You're earlier than us today! What're you doing, though?
+Nene: Probably fantasizing about what sort of stage effects he can get away with.
+Rui: Oh, you know me so well, Nene.
+(Enter: Miku)
+(Enter: KAITO)
+Miku: Hey everyone! You're all together today♪
+KAITO: Is there something special going on?
+Tsukasa: KAITO, Rui and Nene told us that you helped Rui find the motivation to dedicate himself to his craft again.
+Rui: So we would like to perform a show for you as a way of saying thank you.
+KAITO: I would love to see it!
+Miku: I wanna perform too! Can I? Can I? Please?
+Rui: Hehe, of course you can. Together, we can make this our grandest show yet!
+Rui: And I hope our sparkly guests will enjoy our show too.
+Tsukasa: Let the show begin!
+
+
+2 [MUSIC] 52: Becoming Potatoes
+
+3 [mc] mc_ev_wonder_01_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Rui)
+(Enter: Nene)
+(Enter: Miku)
+(Enter: KAITO)
+Nene: Hey, the sparks there are swaying. I think they liked it.
+Emu: Yup! It was so much fun that I'm all crumply-rumply inside now!
+Tsukasa: Again with that incomprehensible speech...
+Rui: I enjoyed it too. Having done so many shows by myself, I'm more than aware of the joy of performing, but...
+Rui: I never thought it would be so fun to perform with someone.
+Rui: By the way, I was wondering if we could use these sparks that often appear here in our next show?
+Miku: Huh?
+KAITO: Um, but these aren't normal lights. They're sparks of feelings.
+Rui: Look at all these beautiful colors. Hey, would you all like to perform together with us too?
+Emu: I think we should do it! The lights will make the stage even sparklier than before♪
+Nene: There he goes again with his strange suggestions... Well, he wouldn't be Rui otherwise, I guess.
+Tsukasa: The stage director of my Wonderlands×Showtime has to be at least THIS unconventional! Looking forward to seeing more of your stage effects, Rui!
+Rui: I certainly won't disappoint, future star.
+Rui: As much as we would love to stay, we must be on our way now.
+Rui: Join us again next time for another spectacular show!

@@ -1,0 +1,116 @@
+345 Len's Anniversary Show 2025
+
+1 [mc_timeline] mc_bd_2024len_1
+
+(Enter: Len)
+Len: "Goodness... Where am I? To think I'd have to land on an uncharted world..."
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Emu)
+(Enter: Tsukasa)
+Rui: "I knew someone was on board. Are you all right? You came down at quite a high speed."
+Len: "Um, I'm fine! But my ship is out of fuel..."
+Len: "What am I going to do? It's my anniversary, and my friends will be expecting me..."
+Len: "At this rate, I'll never make it home. I'll never get to see my friends again..."
+Emu: "Toodle toodle, toodle toodle, toodle tooon! My Sadness Detector is off the charts!"
+Len: "Huh?"
+Nene: "When we find someone who's sad, we give them the gift of our Smiling Spell."
+Len: "A smiling spell?"
+Tsukasa: "Indeed! For we are a coven of traveling magicians who bring joy to all the universe!"
+Emu: "So, since you're all sad and lonely, we'll make you smiley for sure!"
+Nene: "Now, let's sing."
+Rui: "Let's dance!"
+Emu: "Let's cast our special Smiling Spell!"
+Tsukasa: "It's showtime!"
+
+
+2 [MUSIC] 450: Opera! Space Opera!
+
+3 [mc_timeline] mc_bd_2024len_2
+
+(Enter: Emu)
+(Enter: Len)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Len: "Hahaha! That was great!"
+Len: "I was just listening to the music, and then I found myself dancing and singing along!"
+Tsukasa: "Ha ha ha ha! But of course! We take great pride in our magic, after all!"
+Nene: "But that's not all. We still have to pep up your spaceship, too."
+Len: "Huh? You mean...!"
+Emu: "One, two, three! Won won..."
+Tsukasa: "Wonderhoy!"
+Rui: "Wonderhoy!"
+Emu: "Wonderhoy!"
+Nene: "Wonderhoy!"
+Len: "Amazing! My ship's engine started again! And I have a full tank of fuel!"
+Len: "Thank you so much! Now I can make it home to my friends!"
+Rui: "Hehe. Why not come visit again sometime? You can bring your friends, too."
+Tsukasa: "We'll use our Smiling Spell to get you all beaming from ear to ear!"
+Len: "Yeah! I will, I promise! See you again, kind and fun magicians!"
+Len: Everyone! Thank you for coming to my special anniversary show!
+Emu: Wow! It looks like everyone had tons of fun♪
+Tsukasa: Excellent! Now, let's give a cheer for our star! Is everyone ready?
+Tsukasa: Without further ado... Happy anniversary, Len!
+Rui: Happy anniversary!
+Emu: Happy anniversary!
+Nene: Happy anniversary!
+Len: Thank you so much!
+Len: And everyone out there, thank you too!
+Len: I got to do a show with these guys, and I get to see all your smiles! I'm so lucky!
+Len: I'll keep on working hard to bring you wonderful, entertaining shows!
+Len: See you later, everyone!
+
+
+4 [mc_timeline] mc_bd_2024len_3
+
+(Enter: Len)
+Len: Ah, perfect timing, everyone!
+Len: The others are throwing an anniversary party, and KAITO and I are gonna do a surprise show!
+Len: We're about to practice. Could you tell us what you think?
+Len: Thank you! We'll start as soon as KAITO gets here.
+(Enter: KAITO)
+KAITO: Sorry for the wait, Len! I told the others I'd come fetch you, and snuck out.
+Len: Thanks, KAITO!
+Len: Be sure to listen close, everyone! Here we go...
+Len: Fragile.
+
+
+5 [MUSIC] 69: Fragile
+
+6 [mc_timeline] mc_bd_2024len_4
+
+(Enter: KAITO)
+(Enter: Len)
+Len: What did you all think? We've really got it down, huh!
+KAITO: It sounds like we landed it. I'm glad to hear that.
+Len: Yeah! Now we're ready for the—
+(Enter: Rin)
+Rin: Ah, there they are!
+(Enter: Miku)
+(Enter: MEIKO)
+(Enter: Luka)
+Miku: We've been looking for you two! KAITO, you said you'd get Len but never came back.
+KAITO: Ahaha... Uh, oh, right! All these people are here to celebrate, so we were chatting!
+Luka: Really? You seem a bit flustered...
+MEIKO: Everyone, is KAITO telling the truth?
+Luka: Hehe. Well, if you all say so.
+MEIKO: Right, we can leave it at that.
+KAITO: Right! Now then, since you're all here, let's all wish Len a happy anniversary!
+KAITO: Here we go. One, two, three...
+MEIKO: Happy anniversary, Len!
+Miku: Happy anniversary, Len!
+Rin: Happy anniversary, Len!
+Luka: Happy anniversary, Len!
+KAITO: Happy anniversary, Len!
+Len: Thank you so much!
+Len: And thank you all for coming to see me, too!
+Miku: Okay, let's go back to the party.
+(Exit: Miku)
+(Exit: Rin)
+(Exit: Luka)
+(Exit: KAITO)
+(Exit: MEIKO)
+Len: We're really going to nail our surprise show, you can count on it!
+Len: See you all again! Bye bye!
+(Exit: Len)

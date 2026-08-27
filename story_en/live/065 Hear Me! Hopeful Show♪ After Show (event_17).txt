@@ -1,0 +1,86 @@
+65 Hear Me! Hopeful Show♪ After Show (event_17)
+
+1 [mc] mc_ev_idol_03_1
+
+(Enter: Minori)
+Minori: Alright, let's make the most of today!
+Minori: When it comes to idols, people think of cute and cheerful greetings! I've got to practice my greetings so that they're more idol-like!
+Minori: Don't give up on your dreams, Minorinrin♪ Here's a bouquet of hope for you! Hello! I'm Minori Hanasato from MORE MORE JUMP!
+Minori: Hmmm, I wonder if I say it more cheerfully, would people also cheer up?
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Rin)
+(Enter: Luka)
+Minori: Alright! One more time!
+Minori: Don't give up on your dreams, Minorinrin♪ Here's a bouquet of hope for you! Hello! I'm Minori Hanasato from MORE MORE JUMP!
+Airi: What's this? Practicing greetings?
+Minori: Ahh?! Y-You guys were here!?
+Haruka: Yes. From a couple minutes ago.
+Minori: For real? That's so embarrassing...
+Shizuku: Hehe, it was super cute♪
+Luka: Yes, that was a very Minori-like greeting. I'm sure this will make all of your fans smile too.
+Rin: I think so too♪
+Minori: Y-You think so?
+Haruka: Hehe. You've been in great spirits since the last livestream, Minori.
+Airi: Yeah. You're a lot more fired up than usual.
+Minori: That's because I was so happy to be able to stand on stage and perform with everyone from MORE MORE JUMP!
+Minori: Also, I felt like I was able to be an idol with everyone.
+Shizuku: Hehe. You've also been working really hard on practicing performing, Minori.
+Haruka: Yes. You were so radiant on stage.
+Luka: By the looks of it, the livestream went really well.
+Minori: Yes! Thanks to you and the others, I was able to dance without making a mistake!
+Rin: That's great, Minori!
+Minori: Hehehe. Thank you to you too, Rin♪
+Minori: Thanks to everyone, I was able to realize something important.
+Rin: Something important?
+Minori: Yes. I wanted to quickly become an idol like everyone but...
+Minori: I was in such a hurry that I wasn't getting anywhere and caused a lot of trouble for everyone.
+Minori: Haruka, thank you for teaching me what was important as an idol back then!
+Haruka: Minori...
+Minori: Hehehe. But, you know what? I realized that even I can spread hope!
+Minori: If someone needs me, I want to sing so that I can reach that person.
+Minori: Even if it's just a little bit, I want to spread hope!
+Airi: Hehehe, that's great. It's just like you, Minori.
+Haruka: Yes, let's spread lots of hope!
+Haruka: Hehe. It seems like everyone here wants to hear you sing too, Minori.
+Shizuku: Let's express our feelings to everyone here.
+Minori: You guys...
+Minori: Uhm... Everyone, thank you for coming today!
+Minori: I will sing this song to the best of my ability... So that it will reach everyone's heart. I hope you enjoy it!
+Minori: "Angel's Clover!"
+
+
+2 [MUSIC] 112: Angel's Clover
+
+3 [mc] mc_ev_idol_03_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Rin)
+(Enter: Luka)
+Minori: *Pant*, *pant*...
+Minori: Thank you for listening to my song, everyone!
+Minori: ...
+Minori: I still can't sing as confidently as Haruka.
+Minori: I can't interact with the audience as well as Airi, and I can't dance as beautifully as Shizuku.
+Minori: Compared to everyone else, I still don't feel like an idol at all...
+Minori: But! Even if I'm like this, I'll do my best to become an idol who can spread hope to everyone!
+Minori: So... if you'd like to continue supporting me... I'd be very grateful!
+Airi: Minori, you... You shouldn't say things like that in front of so many people.
+Minori: Oh, sorry...
+Shizuku: Yes. Minori, you're a wonderful person.
+Shizuku: I feel so much better when I'm with you, Minori.
+Haruka: It was you who made us look forward, not anyone else.
+Minori: Shizuku... Haruka...
+Haruka: Let's continue to move forward together, the four of us. To spread hope to everyone.
+Minori: Yeah!
+Rin: We can't lose, either!
+Luka: Hehe, yes. Your singing and dancing was amazing, Rin.
+Rin: Hehe. That's because I practiced a lot with Minori♪
+Rin: Minori! Let's keep working hard!
+Minori: Yeah!
+Minori: Everyone, I hope you'll come and watch our show again!
+Rin: Bye bye!

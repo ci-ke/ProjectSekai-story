@@ -1,0 +1,99 @@
+309 Rui's Birthday Show 2025
+
+1 [mc] mc_bd_2024rui_1
+
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Emu)
+(Enter: Len)
+Tsukasa: How is the situation with Rui looking?
+Nene: Good. Miku and the others are stalling him.
+Emu: Yay! Then now's our chance to rehearse!
+Len: Yeah! We've got to be quiet so Rui doesn't find out!
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Emu)
+(Enter: Len)
+Tsukasa: Thank you for coming, everyone! Today is Wonderlands×Showtime's director Rui Kamishiro's birthday!
+Tsukasa: Therefore, we would like to give him a surprise that'll blow him away!
+Emu: And to do that, we'd like your help!
+Nene: Would that be okay?
+Len: Hehehe, looks like they're totally on board!
+Tsukasa: However! Remember that this is a part of his birthday celebration!
+Tsukasa: Even though Rui frequently surprises us, we cannot do the same just for the sake of it!
+Nene: Only you have that problem, Tsukasa.
+Tsukasa: I beg your pardon?!
+Emu: Hehehe♪ Okay everyone, let's rehearse!
+Tsukasa: Yes! We will give you the signal when Rui arrives. On the count of three, please give us your loudest cheer!
+Tsukasa: Here we go! One, two, three! HAPPY BIRTHDAY!!!
+Len: Wow! I really felt all of your heart in that, everyone!
+Emu: Yup yup! I'm sure this will make Rui wonderhoy shocked and smiley!
+Nene: No, you're all one thing, but Tsukasa was way too loud... What happened to practicing in secret?
+Tsukasa: Hm? Is that so? I was certain that I toned it down quite a bit...
+Len: Ack! Shhh, everyone! Rui's coming this way!
+Emu: Everyone! Shhhh! Keep quiet until we give you the signal!
+(Enter: Rui)
+Rui: Oh, this is where you all were.
+Emu: Yeah! We were waiting for you, Rui! Hurry up and come over here!
+Nene: Somewhere in the middle, between all of us.
+Rui: Oh? That's quite a specific request.
+Rui: Is here alright?
+Len: Yup! That's perfect!
+Tsukasa: Alright, here we go! One, two, three!
+Tsukasa: Happy birthday!!!
+Emu: Happy birthday!!!
+Nene: Happy birthday!!!
+Len: Happy birthday!!!
+Rui: This is...
+Tsukasa: Ha ha ha! Surprised?
+Rui: Oh yes, I very much am...
+Rui: To learn that the voices I heard before really were you practicing your surprise.
+Tsukasa: Hm?
+Emu: Huh?
+Nene: Huh?
+Rui: Tsukasa was speaking quite loudly about the flow of the surprise, no?
+Rui: I thought that he was doing it on purpose to throw me off from the true surprise.
+Rui: To think that it happened just as I heard...actually surprised me even more.
+Tsukasa: S-So the surprise was a flop?!
+Nene: I told you not to be so loud!
+Rui: Hehe, thanks to my overhearing your rehearsal, your feelings are perfectly clear to me.
+Rui: Thank you for the birthday wishes.
+Len: Rui ended up finding out, but it turned out alright in the end!
+Emu: Hehehe, I'm glad you liked it, Rui!
+Rui: More importantly, I didn't expect so many of you to gather here for me.
+Rui: Since you're all here, I'd like to give something in return.
+Rui: Would you all join me?
+Tsukasa: Yes, of course!
+Emu: We want everyone here to have fun too!
+Rui: Hehe, thank you.
+Rui: Without further ado, let's deliver a special show to today's audience.
+Rui: This will also be an expression of my gratitude. As You Like It.
+
+
+2 [MUSIC] 106: As You Like It
+
+3 [mc] mc_bd_2024rui_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Rui: Was our show to your liking?
+Tsukasa: Excellent! Looks like it was indeed!
+Rui: I'm glad.
+Rui: Allow me to express my gratitude once again. Thank you all for coming.
+Rui: Thanks to this lively celebration, I think this year will be a wonderful one.
+Emu: Let's make lots and looooots of fun memories together!
+Nene: While that's important, let's all do our best at the next step of our training too.
+Tsukasa: Yes. Let's make this another year closer to our grandest dreams!
+Len: I can't wait to see what you all have in store this year!
+Rui: Hehe, thank you all.
+Rui: Looking back... I had a wonderful school trip with my classmates, moved on from the Wonder Stage and have trained with other troupes...
+Rui: My days were filled with many changes and achievements.
+Rui: I'm excited at the thought of more new things awaiting me this year.
+Rui: And I'll be delivering those experiences in the form of a show to you all.
+Rui: To conclude, we hope that you continue to support us, Wonderlands×Showtime.
+Tsukasa: We ask for your support!
+Emu: Bye bye!
+Nene: See you.

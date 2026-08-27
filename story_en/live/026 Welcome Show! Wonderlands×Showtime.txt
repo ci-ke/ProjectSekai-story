@@ -1,0 +1,78 @@
+26 Welcome Show! Wonderlands×Showtime
+
+1 [mc] mc_release_05_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: We're here like KAITO asked, but what could he possibly need from us?
+Emu: Maybe he bought too much candy and wants to share some with us?
+Rui: Or maybe he obtained a jetpack and wishes to test it on Tsukasa!
+Nene: Haha. Come on, be serious, you two.
+(Enter: Miku)
+(Enter: KAITO)
+Miku: Yaaay☆ Everyone's here♪
+KAITO: Hello. I'd like to introduce all of you to a new friend, today.
+(Exit: KAITO)
+(Enter: Rin)
+Rin: Hi, everyone! I'm Rin!
+Tsukasa: Wait, what? Kagamine Rin?!
+Rin: KAITO told me all about your group! You're always performing super fun shows together, right?
+Rin: I wanna see one of your shows!
+Tsukasa: I see, so this was the favor KAITO needed from us.
+Tsukasa: Hmph. A true star would never turn down a request from an impassioned fan. So let's do it!
+Miku: Me! Me! Me! Tsukasa, I wanna join in too!
+Tsukasa: Very well, you may! The show will begin shortly! Is everyone ready?!
+Emu: "Yeah!"
+Nene: "Yeah!"
+Rui: "Yeah!"
+
+
+2 [MUSIC] 51: The World Hasn't Even Started Yet
+
+3 [mc] mc_release_05_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: Rin)
+Rin: That was awesome! Everyone was amazing!
+Tsukasa: Ha ha ha ha! Yes, of course we are!
+Nene: Whatever. Don't let it get to your head.
+Miku: Hey, I know☆ Rin, since you're joining us, why don't you do a show together with them too?
+Emu: That's a great idea! What does everyone think?!
+Rui: Well, watching a show from the audience is a different type of enjoyment to performing on stage yourself, after all.
+Rin: So I can?! Yaaay, thanks!
+Tsukasa: Excellent! Looks like the second act is ready to go! Let's begin!
+(Exit: Miku)
+
+
+4 [MUSIC] 41: Sweet Magic
+
+5 [mc] mc_release_05_3
+
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Emu)
+(Enter: Rui)
+(Enter: Rin)
+Rin: Thanks, everyone! That was sooo much fun!
+Rui: Hehe. I'm glad you enjoyed it.
+Tsukasa: Yes! Our shows are supposed to put a smile on everyone's faces, after all!
+Rin: We did! Let's do a fun show together again some time!
+(Exit: Rin)
+(Enter: KAITO)
+(Enter: Miku)
+Tsukasa: Ah, we had such a good show today! Let's keep this momentum going and make all our other shows as good as this one too! Ha ha ha ha!
+Emu: Oh wow! Look at all those sparklies around the stage! Hey! There are sparklies over there, too! So many of them!
+KAITO: Those are feeling sparks.
+KAITO: Someone out there must be watching your show through SEKAI and smiling at the performance.
+Emu: Oh, okay! In that case...
+Emu: Hello, everyone! Thanks for watching our show! We have lots of other great shows waiting in the wings, so please join us next time too♪
+KAITO: Thank you all for doing this for Rin today.
+Miku: Yup, yup☆ Let's perform together again someday!
+Emu: Absolutely♪ Oh! How about tomorrow? Or how about we perform something else right now?!
+Nene: Now you're starting to get ahead of yourself...

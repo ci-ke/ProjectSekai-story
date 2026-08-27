@@ -1,0 +1,126 @@
+123 Happy New Year 2023 Show Nightcord at 25:00
+
+1 [mc] mc_2022newyear_05_4
+
+(Enter: MEIKO)
+(Enter: Luka)
+Luka: Hehe. Hello, everyone.
+MEIKO: So many people... I wonder if they're here to see the others.
+Luka: Oh? They could be here to see us, you know?
+Luka: Hehe. Thank you.
+MEIKO: I'm sure Kanade and the others are somewhere around here. If you're here to see them, you should just go.
+(Exit: MEIKO)
+Luka: Ever the watchful guardian...
+Luka: However, I see your point. I think I'll take this opportunity to relax for the day.
+Luka: Anyway, I hope you all have a fun time.
+(Exit: Luka)
+
+
+2 [mc] mc_2022newyear_05_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Rin)
+Miku: Oh... Seems like everyone's already here.
+Mizuki: Oh, you're right! Thanks for coming, you guys!
+Rin: Still, I feel like we should've brought MEIKO and Luka along.
+Mizuki: It's fine. They didn't seem to be very keen even when I asked them, so let's just leave them be.
+Ena: In that case, shall we start our New Year's celebration?
+Kanade: Yes.
+Kanade: Happy New Year, everyone.
+Ena: "Happy New Year!"
+Mizuki: "Happy New Year!"
+Mafuyu: "Happy New Year!"
+Miku: "Happy New Year!"
+Rin: "Happy New Year!"
+Ena: I feel like spending and celebrating holidays in SEKAI has become completely normal for us, you know?
+Ena: Speaking of which, how did you all spend your New Year's after our shrine visit?
+Mizuki: I for one was super busy!
+Mizuki: I got to eat traditional New Year's food, and watched all the anime I had recorded around the end of the year on top of every music program I could get my hands on!
+Ena: Doesn't that mean you were just a couch potato?
+Mizuki: Alright, your majesty, mind telling us what you did?
+Ena: Well, I relaxed at home while helping put away all the gifts that we received at the end of the year.
+Ena: We got more fruits and jelly as opposed to ham or other meats this year, so sorting them out was fun... And so was eating them.
+Rin: Which means you also spent most of your time eating.
+Ena: Y-Yeah, so what...? Anyway, Kanade, what did you do?
+Kanade: I went to visit my dad and worked on composing more songs...
+Rin: So the usual...
+Miku: What about you, Mafuyu? Did you do anything...?
+Mafuyu: I studied.
+Ena: What?! During New Year's?!
+Mafuyu: I had cram school. But thanks to that, I didn't have to go to my relatives' gatherings so that was nice.
+Ena: Oh, okay... Good for you, I guess...?
+Mizuki: Hmm... I still feel like we should go out and do something to celebrate the new year, you know?
+Ena: Go out? In the cold...?
+Mizuki: Aww, don't give me that! If that's what's stopping you, we won't be able to do anything!
+Mizuki: Fine, that just means it's time for me to use my secret weapon...!
+Mizuki: Let's all sing!
+Ena: I knew it...
+Rin: There it is...
+Mizuki: Oh, c'mon! It's not like there's anything else for us to do!
+Kanade: Well, singing does sound nice...
+Mafuyu: Really...?
+Kanade: Remember how you smiled a little when you heard that song I composed, Mafuyu?
+Kanade: I think we have the power of music to thank for the changes we've been seeing with you.
+Kanade: This may sound strange, but that's sort of the reason why I think it'd be nice for us to start off the new year by singing together.
+Rin: It sounds like everyone here wants to hear you sing too.
+Mizuki: Awesome! I knew they'd pull through for us! You guys are the best♪
+Ena: Well, if they're all for it...
+Kanade: What do you say, Mafuyu?
+Mafuyu: Okay...
+Kanade: Thank you. Alright, let's sing!
+
+
+3 [MUSIC] 142: Reborn
+
+4 [mc] mc_2022newyear_05_2
+
+(Enter: Mizuki)
+(Enter: Rin)
+(Enter: Ena)
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Kanade: Thank you for listening, everyone.
+Mizuki: Awesome! I think they really enjoyed it!
+Ena: Yeah. Singing really is strange, isn't it?
+Ena: Even when something's really bothering me, I always feel better after singing a little.
+Mafuyu: Hmm...
+Miku: Mafuyu? Do you not feel better?
+Mafuyu: I'm not sure... I can't really say...
+Mizuki: Then, let's sing again! I mean, we still have some time♪
+Kanade: That's true. I want you to feel better if possible.
+Mizuki: Alright! Let's do it!
+
+
+5 [MUSIC] 60: Composing the Future
+
+6 [mc] mc_2022newyear_05_3
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+Mafuyu: ...
+Kanade: How do you feel now, Mafuyu?
+Mafuyu: Hmm... Better... I think?
+Ena: You think... Can't you be a little more descriptive?
+Mizuki: Relax. On the flip side, she could've just said, "I don't know." So let's cut her some slack♪
+Miku: I agree. I believe that's a sign of Mafuyu changing for the better.
+Mafuyu: You think so...?
+Ena: You were able to revive some important memories thanks to Kanade's song, right? Isn't that a good enough sign?
+Ena: At the same time, I need to do better in terms of giving life to Kanade's songs and your lyrics.
+Mizuki: Hey, that's great! Then, I'm gonna work my butt off on our videos so that our music gets more exposure!
+Kanade: Ena, Mizuki... Thank you.
+Kanade: I'm also going to put more effort into composing so that our songs reach more people, and ultimately save Mafuyu...
+Rin: And we'll be here to watch over you.
+Miku: Yes. From SEKAI, always...
+Kanade: Thank you, Miku, Rin.
+Ena: Thanks for joining us today, everyone.
+Mizuki: See you later♪
+Miku: Bye bye...

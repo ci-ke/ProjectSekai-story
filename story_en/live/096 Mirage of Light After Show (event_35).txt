@@ -1,0 +1,77 @@
+96 Mirage of Light After Show (event_35)
+
+1 [mc] mc_ev_night_05_1
+
+(Enter: Rin)
+(Enter: Miku)
+Miku: Something the matter?
+Rin: Miku... It's nothing.
+Miku: Are you perhaps waiting for the others?
+Rin: No, that's not why I'm here.
+Miku: I get it. I also can't wait for everyone to get here. I'm curious to hear how Mafuyu's lyrics turned out.
+Rin: I said that's not why I'm...
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mafuyu)
+(Enter: Mizuki)
+Kanade: Miku, Rin.
+Miku: You guys!
+Rin: What happened?
+Mizuki: Ta-daa! Our new song is done!
+Rin: A new song...
+Kanade: That's right. Mafuyu did the lyrics for us but there's still some loose ends that need tidying.
+Miku: Oh, I see.
+Miku: Isn't that great news, Rin?
+Mizuki: Huh, Rin? What's the matter?
+Miku: Looks like she was worried about you guys.
+Mafuyu: Really?
+Rin: No, that's not it.
+Mafuyu: Rin...
+Mafuyu: Thank you for your help. When I was struggling to find the right words, you cleared away the fog in my mind. Thanks to you, I can see the exit in sight.
+Mafuyu: That's why...
+Mafuyu: I want to sing for you all.
+Rin: Really...?
+Kanade: Mafuyu!
+Ena: I didn't expect you to come out with something like that...
+Mafuyu: So, no to the song?
+Kanade: Let's hear it, Mafuyu. After all, that's what you want to do.
+Mizuki: That's right! Let's sing!
+Mafuyu: Alright then, here goes. "Reborn"
+
+
+2 [MUSIC] 142: Reborn
+
+3 [mc] mc_ev_night_05_2
+
+(Enter: Mizuki)
+(Enter: Rin)
+(Enter: Ena)
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Mafuyu: How was it?
+Rin: Sounded pretty good.
+Miku: Mafuyu, your voice fills me with more warmth than it ever has before.
+Ena: Ah, I feel the same.
+Kanade: Me too.
+Mizuki: Maybe that's a sign that you're improving more and more each day?
+Mafuyu: You think so?
+Mizuki: Well, I guess there's some emotions you just haven't had a chance to fully process yet.
+Mafuyu: That's because there's still so much I don't understand.
+Kanade: Everything will turn out ok. Just don't give up. Keep searching, I'm sure you'll find what you're looking for.
+Kanade: After all, I'll be there to lend a helping hand.
+Mafuyu: Thanks...
+Mizuki: Alrighty! Looks like a good note to wrap things up on.
+Mizuki: Thank you for coming to see us, everyone!
+Kanade: We hope you'll come see us perform again next time.
+Ena: Thank you!
+Mafuyu: See you next time...
+(Exit: Rin)
+(Exit: Miku)
+(Exit: Kanade)
+(Exit: Mafuyu)
+Mizuki: Don't give up, huh. I wonder if someday, I'll also be able to...
+Ena: Mizuki? What's wrong?
+Mizuki: Ah! Sorry! Coming!
+(Exit: Ena)
+(Exit: Mizuki)

@@ -1,0 +1,85 @@
+338 The Power of Regret After Show (event_149)
+
+1 [mc_timeline] mc_ev_wonder_19_1
+
+(Enter: Len)
+(Enter: Nene)
+Nene: Hmm, which would be best...
+Len: I wonder... If it was me... Hmm...
+(Enter: Emu)
+Emu: Ah! Nene! Len!
+(Enter: KAITO)
+(Enter: Tsukasa)
+(Enter: Rui)
+Tsukasa: Apologies for the wait, Nene. Our lessons ran a little long today!
+Nene: No, that's okay. We were just talking.
+KAITO: What about? It seemed like you were thinking about something.
+Nene: Ah... Like I mentioned, I'll be part of the backstage crew for the quarterly show.
+Nene: I'm not sure if I should join the lighting or sound teams. So I asked Len for his opinion.
+Len: Nene has good sense for timing music, so I thought the sound team would be good...
+Len: But she said she hasn't done much with lights before, so maybe that would be better?
+Nene: I'd like to get more familiar with stage lighting, but maybe it's best to stick with what I already know...
+Len: Hmm, it's a real head-scratcher.
+Rui: Hehe.
+KAITO: What is it?
+Rui: Oh, forgive me. I'm just pleased.
+KAITO: Huh?
+Rui: When we heard you hadn't passed the audition after all your hard work, I was worried that you might have been upset. But...
+Tsukasa: But looks like you'll be just fine! Your eyes are truly bright!
+Emu: Yeah! You're just as sparkly as you were while you were practicing for your audition, even!
+KAITO: I see, so that's what it was.
+Nene: Well, I don't know about sparkling... But I do feel better than I did before.
+Nene: Somehow, I feel very motivated. It's like the desire to be involved with the stage is welling up from inside me.
+Nene: *Sigh* I wish it was tomorrow already. I want to see Byakkomachi, and learn from her performance.
+Tsukasa: Yes, very good. It's a fine thing to see you brimming with motivation!
+Emu: Hehehe. Nene, you're on fire♪
+Nene: Oh, Emu...
+Nene: But, I do sort of want to practice.
+Nene: Everyone, would it be okay to sing a song? I want to really belt it out.
+Len: Hooray! We get to hear the new and improved Nene!
+Rui: Hehe. In that case, how could I refuse?
+Tsukasa: Right! Emu, KAITO, are you ready?
+KAITO: Yeah! Of course!
+Emu: Yeah! Of course!
+Nene: Then, here we go.
+Nene: Coral!
+(Exit: Len)
+
+
+2 [MUSIC] 324: Coral
+
+3 [mc_timeline] mc_ev_wonder_19_2
+
+(Enter: KAITO)
+(Enter: Emu)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Len: Wow...! Nene, your singing was so beautiful!
+Len: Clear and sparkling like glass, but so powerful! You were so cool!
+Nene: Hehe, thank you, Len. It makes me happy to hear that.
+Nene: But I want to improve even more.
+Nene: I want to meet new people, clash with them, and grow as a result.
+Nene: So one day, my voice can reach people all across the world!
+Tsukasa: Whoa!
+Nene: Ah?!
+Tsukasa: That was absolutely inspired, Nene! Well said!
+Rui: It seems your words touched his heart.
+KAITO: Hahaha...
+Tsukasa: To strive alongside one's peers, growing ever stronger together! What a fine mindset to have!
+Tsukasa: Nene! We challenge you!
+Nene: Challenge?
+Tsukasa: Today in training with the Bellflowers, we had to play the role of a witch. But it hasn't fully settled in for me yet.
+Tsukasa: Thus, I'd like you to also play a witch! Having a rival to strive against can only help us improve!
+Emu: Wow, a witch! That sounds like fun! Ooh, ooh! I want to audition too!
+Rui: That would be wonderful, Emu. The more rivals, the better, I say.
+Nene: Hold on, I haven't agreed to anything yet.
+Tsukasa: Mm... I suppose you would be too busy for this...
+Nene: You know I wouldn't say that.
+Nene: If it's a challenge, I intend to win. So you'd better be serious.
+Tsukasa: Of course!!!
+Emu: Okay, let's get ready! You two have the script, right?
+Rui: Yes. First, we'll give you time to familiarize yourselves...
+KAITO: A group audition... I can't wait to see where this goes!
+Len: Yeah! I'm sure they're all going to improve like crazy!

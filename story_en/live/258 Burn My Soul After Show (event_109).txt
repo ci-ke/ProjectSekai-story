@@ -1,0 +1,82 @@
+258 Burn My Soul After Show (event_109)
+
+1 [mc] mc_ev_street_15_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: MEIKO)
+(Enter: Luka)
+MEIKO: She definitely said she'd be here, but...
+Akito: There's no sign of her.
+Toya: Yes. Perhaps she went to a different street?
+An: Where could she be? Luuukaaa!
+Luka: Hey, what brings you all here at once?
+Kohane: Oh, Luka! Good thing we found her right away, right Shinonome?
+Luka: Hm? Did you want me for something, Akito?
+Akito: Yes. It's a little belated, but... I wanted to come say thanks.
+Luka: So, does that mean...?
+Akito: I impressed Ken.
+Luka: Really? Good job, Akito! You worked hard for this!
+Akito: No, I can't take all the credit. I have you to thank for asking me to sing with you that time. So, thank you.
+Luka: Hahaha, getting thanked so seriously is making me blush.
+An: But, it really is thanks to you, Luka! Akito keeps saying so!
+Toya: Allow us to thank you too.
+Toya: We've made a necessary, crucial step toward surpassing RAD WEEKEND with your help.
+Toya: Thank you so much.
+Kohane: Thank you!
+An: Thank you!
+Luka: Oh! Well then, I'll stop blushing and say, you're welcome!
+Luka: But that must mean your singing has improved a lot, Akito.
+Akito: I think so. I was able to ignite my audience.
+Luka: Well then, will you give me a sample? Let's hear how you four sound now!
+MEIKO: Seriously, Luka... Always so demanding...
+Luka: I bet you want to hear them too though.
+MEIKO: Well... You're not wrong about that.
+Luka: Then it's settled! I'll go listen over here while you all perform.
+Akito: What can I say... That's not surprising from Luka...
+Akito: But if this counts as a show of thanks, that suits me fine. I already felt like singing.
+Akito: Alright then, you guys ready?
+Kohane: Yeah! Yes!
+An: Yeah! Yes!
+Toya: Yeah! Yes!
+Akito: Here we go! Kashika.
+(Exit: Luka)
+
+
+2 [MUSIC] 267: Kashika
+
+3 [mc] mc_ev_street_15_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: MEIKO)
+(Enter: Luka)
+Akito: Huff... Huff... Alright.
+Akito: Everyone! Let it be known!
+Akito: The flame we lit is going to grow bigger and bigger! Join us!
+Luka: They really are...amazing.
+MEIKO: Wow, what's up with you, Luka?
+Luka: It's as if they're growing with each passing second.
+Luka: I'm excited for them. Who knows how far they'll go!
+MEIKO: Hehe, me too.
+MEIKO: We'll need to keep pace with them and not get left behind.
+An: Now that Akito's done his part, now it's our turn.
+Toya: Yes, you're right.
+Toya: Let's move toward surpassing RAD WEEKEND. One step at a time!
+Kohane: Yeah!
+Akito: Alright, how about we take a break at MEIKO's then get back to practice.
+Luka: Oh? You're slowing down a little today.
+Akito: Yes. I think time spent like that is what I need right now.
+Luka: Hehe. I see!
+Luka: The cafe it is then. Let's go!
+An: Okay!
+(Exit: Kohane)
+(Exit: An)
+(Exit: Akito)
+(Exit: Toya)
+(Exit: MEIKO)
+(Exit: Luka)

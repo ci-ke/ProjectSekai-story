@@ -1,0 +1,97 @@
+339 With Our Wounded Hands After Show (event_150)
+
+1 [mc_timeline] mc_ev_night_19_1
+
+(Enter: MEIKO)
+(Enter: Mizuki)
+(Enter: Ena)
+Mizuki: Oh, MEIKO!
+MEIKO: What brings you two here today?
+Mizuki: Oh, um... I know I caused you a lot of worry, so I wanted to come and apologize.
+MEIKO: You didn't have to. I just did what I needed to do.
+Ena: I had a feeling you'd say that.
+Ena: But now let me say something.
+Ena: Mizuki told me what you said. That it might be our last chance to talk.
+Ena: If it weren't for you, we wouldn't have been able to talk it out. Thank you.
+MEIKO: I...see.
+Ena: Anyway, we were wondering if there was any way we could repay you.
+MEIKO: I'll pass.
+Mizuki: Really...?
+Mizuki: Okay then, what do you like? If there's food or anything you want to try, I'll buy some and bring it over next time!
+MEIKO: Again, there's no need.
+Mizuki: Well I just want us to enjoy something you like together! You can't say no to that, right?
+MEIKO: Okay.
+Mizuki: Woohoo! Okay, so what'll it be? It can just be a drink, or even something bulky like—
+(Enter: Kanade)
+(Enter: Mafuyu)
+Kanade: Oh, there they are.
+Kanade: I didn't realize you two were over here.
+Mafuyu: We were supposed to listen to the demo.
+Ena: Oh, right.
+Mizuki: Sorry! We wanted to talk to MEIKO since she helped us out a lot.
+Kanade: Oh... Did we come at a bad time?
+MEIKO: No, we've finished talking.
+Mizuki: Whaaaat? We may have settled on something, but we weren't done!
+Ena: It's just like you to say something like that, MEIKO.
+Kanade: Hehe...
+Kanade: This is nice. It's always brighter with you around, Mizuki.
+Mizuki: Oh...
+Mafuyu: I agree. But it gets noisy when you and Ena are together.
+Ena: Huh? Are you saying you've got a problem with me?
+Mafuyu: I didn't say that.
+Ena: For crying out loud...
+Mizuki: Thanks...
+Mizuki: I realized that I really like being in N25.
+Mizuki: This is...where I belong.
+Ena: Mizuki...
+Ena: Hey, wanna sing together?
+Mizuki: Huh?
+Ena: I mean, we haven't been singing lately, right? Since we're here, I want to sing about how I'm feeling right now.
+Mizuki: Oh...
+Mizuki: Yeah. I also want to sing with all of you.
+Ena: You'll sing with us too, right, MEIKO?
+MEIKO: Sure. I don't mind.
+Ena: Thank you.
+Ena: Alright, then let's sing. Yokanimitorete.
+
+
+2 [MUSIC] 500: Yokanimitorete
+
+3 [mc_timeline] mc_ev_night_19_2
+
+(Enter: MEIKO)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Ena: *Exhale*
+Kanade: I feel kind of warm inside now.
+Mafuyu: Me too...
+Mizuki: Okay! Let's listen to that demo, and as soon as I get home, I'll get started on the storyboard!
+Kanade: We've just been posting still images lately, so I think our listeners will be glad to see a video.
+Ena: Even with that said, don't you dare think about asking for a bunch of assets. It'll take me forever.
+Mizuki: Nothing an all-nighter can't solve. C'mon, I'll stick with you until the morning.
+Ena: What?! Alright, fine.
+Mafuyu: By the way, Miku and the others are waiting for us over there.
+Mizuki: Oh, really? Then we better go!
+Kanade: Yeah, let's go.
+MEIKO: Ena...
+(Exit: Mafuyu)
+(Exit: Kanade)
+(Exit: Mizuki)
+Ena: Huh?
+MEIKO: Thank you. For not giving up.
+Ena: Oh...
+Ena: I was never going to give up. Mizuki, everyone... They're my dearest friends.
+Ena: But thank you, MEIKO. For looking after Mizuki.
+MEIKO: Yes...
+Ena: Okay, let's head over to where everyone is. Otherwise, we're gonna get an earful from Mizuki and Rin.
+MEIKO: I'll be right there.
+(Exit: Ena)
+MEIKO: You were able to stop someone who wanted to give up and bring that person back.
+MEIKO: That's just how strong your will to protect something dear to you is.
+MEIKO: This time, I learned something from you.
+MEIKO: I will continue to observe you all from a distance.
+MEIKO: And when it's necessary... I will step in as a protector, the way you did this time.
+MEIKO: So that I can keep seeing that smile.
+(Exit: MEIKO)

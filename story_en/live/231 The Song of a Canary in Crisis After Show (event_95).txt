@@ -1,0 +1,90 @@
+231 The Song of a Canary in Crisis After Show (event_95)
+
+1 [mc] mc_ev_wonder_13_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Emu: The after-party with the Phoenix Stage cast was so fun!
+Nene: It was. I'm so full from eating all of that food.
+Tsukasa: A meal after a performance really does taste more delicious!
+Rui: I can understand that. I'm sure our fatigued bodies were craving the replenishment.
+Emu: You think so?! I also ate a whole lot!
+Emu: Oh, speaking of eating! Our usual diner came out with another seasonal parfait!
+Emu: Wanna go tomorrow? We haven't had a chance lately since we've been so busy with practice!
+Nene: We just ate and you're already thinking about tomorrow's meal? I don't know if my stomach can handle it...
+(Enter: KAITO)
+KAITO: Hi everyone.
+Emu: Oh, KAITO!
+KAITO: I guess the show is all over, right? Judging from the looks on your faces, I take that it was a big success?
+Tsukasa: Ah, yes! I daresay we have surpassed mere success and made it into a bona fide sensation!
+Emu: Yup yup! The audience was so smiley smiley, I couldn't help but smile too♪
+KAITO: Haha, that's good to hear.
+KAITO: I heard you were working really hard for this show, Nene. Did you manage to get the results you wanted?
+Nene: I did. Thank you for your support, KAITO.
+Nene: The video you all sent helped me push through the hours of intense rehearsal.
+Nene: Thanks to that I was able to put on a performance I was happy with.
+Rui: You truly were amazing, Nene.
+Nene: Getting praise for it is kind of embarrassing though.
+Nene: I was a little nervous waiting in the wings, but once I got on stage, I strangely felt so calm.
+Nene: And... It felt like the best performance I've ever given.
+Nene: Actually... I would like to express these feelings with a song.
+Emu: Oooh! Sounds good! Why don't we all sing together!
+KAITO: In that case, may I join you?
+Nene: Of course. Please join us. Alright, here we go.
+Nene: Coral.
+
+
+2 [MUSIC] 324: Coral
+
+3 [mc] mc_ev_wonder_13_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: KAITO)
+Nene: *Exhale* I feel like I can sing much more freely now.
+KAITO: I think so too. Also, I really felt your emotions through the way you sang, Nene.
+Tsukasa: I did as well. Your perseverance and desire to make the Cowardly Canary your own was loud and clear!
+Nene: Probably because I worked on my singing harder than I ever did before.
+Nene: I felt really down when I was told that my singing "simply won't do..."
+Nene: But now, I'm glad that the director pointed it out. Thanks to that comment, I was able to realize my habits and work on them.
+Nene: I was also able to improve a lot and now my passion for singing is even stronger.
+Emu: Nene...
+KAITO: The show must've been absolutely wonderful.
+KAITO: I would've loved to hear you sing, Nene. Miku and the others were saying how much they would've liked to see the show too.
+Rui: We're sorry that we couldn't make that happen. There was a lot of staff this time and there weren't any places to set up our phones.
+Emu: We really wanted to show you guys even just a little bit, but it was kinda hard...
+Tsukasa: Well, seeing the show might not have been possible, but we can always perform the songs, can't we?
+Tsukasa: If you're alright with that, then we are ready anytime!
+Nene: That's true. When an occasion comes around, we can perform them for all of you.
+KAITO: I see...
+KAITO: In that case, I think that occasion is right around the corner.
+Nene: Huh? What do you mean?
+KAITO: The reason I reached out to you today is because I have something to tell you.
+KAITO: I wanted to invite you to a party we'll be holding to celebrate your show.
+Nene: What? So that's...
+Rui: That's right, you did mention that in the video we made for Nene.
+Nene: I didn't realize you were actually planning on doing it...
+Emu: Oh, oh! Then we can perform the songs for Miku and the others there!
+KAITO: Yes, I'd like that very much. But...
+KAITO: We're still in the middle of preparing, so I hope you look forward to it.
+Rui: Hehe. That sounds like there's also something else in store for us.
+Emu: I can't wait! I'll bring some snacks!
+Nene: Me too. I'll get ones Miku and the others are sure to like.
+Nene: And... Thank you, KAITO, for inviting us to such a lovely occasion.
+KAITO: There's no need to thank me for that.
+KAITO: All of us are very much looking forward to hearing you sing.
+Tsukasa: Alright! Then we shall deliver a most stunning performance for you all!
+Nene: In that case, I'd like to rehearse a little. I know it might feel a little weird since the anniversary show is already over...
+Rui: Actually, my mind's still caught up in the show, so I'm grateful for another chance to perform the songs.
+Emu: Yay! Rehearsal time with everybody!
+Emu: Oh, but we don't want KAITO to hear the songs yet, so I guess we should practice somewhere else.
+Nene: Sounds good. Let's head back and practice at the Wonder Stage. It has been a while.
+Rui: Yes, let's. Okay, KAITO, we'll see you again at the party.
+KAITO: Yes. We'll be waiting here in SEKAI.
+Nene: Thank you for coming everyone.
+Nene: Please come to watch our show again sometime. Anyway... See you.
+Emu: See you later!

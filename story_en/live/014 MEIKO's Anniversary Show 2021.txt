@@ -1,0 +1,55 @@
+14 MEIKO's Anniversary Show 2021
+
+1 [mc] mc_bd_2020meiko_1
+
+(Enter: MEIKO)
+MEIKO: I wasn't expecting there to be so many people today.
+MEIKO: By the way, do you all know what day is today?
+MEIKO: Your reaction tells me you're here because you do know! Thank you!
+MEIKO: That's right, today is my anniversary day!
+MEIKO: This is great, because I wouldn't have anything interesting to say in return if nobody knew!
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+Miku: MEIKO, we're ready!
+MEIKO: Okay, thank you.
+MEIKO: It was your support that brought me here today.
+MEIKO: So I'm going to sing you a song of gratitude, with some help from Miku and the rest.
+MEIKO: Will you listen to my song?
+MEIKO: Thanks!
+
+
+2 [mc] mc_bd_2020meiko_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Luka: MEIKO, I'm ready to go.
+MEIKO: Good! Then let's go!
+
+
+3 [MUSIC] 10: Happy Synthesizer
+
+4 [mc] mc_bd_2020meiko_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+MEIKO: Thank you for listening to my song, everyone!
+(Enter: KAITO)
+(Enter: Len)
+MEIKO: Len and KAITO! Thank you for preparing the stage for me too.
+KAITO: No problem. As long as our star for today is having fun!
+Rin: Let's continue the celebration!
+Miku: Happy anniversary, MEIKO!
+Len: All together now! 1, 2, 3!
+Rin: "Happy anniversary!"
+Len: "Happy anniversary!"
+Luka: "Happy anniversary!"
+KAITO: "Happy anniversary!"
+MEIKO: Thank you! And thank you to all of you out there!
+MEIKO: I've received so many well wishes today.
+MEIKO: I'm convinced that having someone who cares about you is one of the happiest feeling in the world.
+MEIKO: I'll keep doing my best for you with these feelings in my heart, so please keep supporting me too!

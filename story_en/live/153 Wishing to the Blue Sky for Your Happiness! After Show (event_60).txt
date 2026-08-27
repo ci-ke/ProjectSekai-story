@@ -1,0 +1,119 @@
+153 Wishing to the Blue Sky for Your Happiness! After Show (event_60)
+
+1 [mc] mc_ev_shuffle_20_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Luka)
+Minori: *Sigh* Shizuku really did look cool in that tuxedo...!
+Shizuku: Hehe. You're making me blush.
+Luka: If that's what the photos look like, you must have looked even more radiant in the flesh♪
+Airi: In the flesh... She sure did...
+Haruka: Hehe. What was it like seeing it in person, Airi?
+Airi: Well... There's so much I could say...
+Airi: I did think, "The sky really is the limit for Shizuku!" I expect nothing less from my favorite idol!
+Shizuku: Airi...
+Airi: Still, she's not the only charmer here! There's plenty to love about me too, you know!
+Shizuku: Yes, that's right!
+Luka: Hehe. I hope you all keep finding out new things about yourselves like Shizuku did this time.
+Haruka: I hope so too. By the way, those photos of just you and An had such amazing energy. I'll be sure to message An later to tell her how great they looked.
+Shizuku: Please do! I'm so glad I agreed to the shoot. I got to know An and Kohane better,
+Shizuku: and it was a chance to reflect on just how far I've come in being myself.
+Airi: Hehe. Glad to hear it, Shizuku!
+Shizuku: Yes...! Say, everyone, would you mind if I sang that song?
+Minori: That song? Oh, that one!
+Luka: Hehe. It's a lovely song, and it's perfect for you, Shizuku.
+Airi: Of course we don't mind! Let's all sing it together!
+Shizuku: Thank you, everyone! Okay, let's begin!
+Shizuku: Color of Drops!
+
+
+2 [MUSIC] 89: Color of Drops
+
+3 [mc] mc_ev_shuffle_20_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Luka)
+Shizuku: Thank you very much, everyone!
+Haruka: You can definitely feel Shizuku's wish to be herself in this song.
+Minori: Yeah! I love this song!
+Shizuku: Hehe. Thank you to you all too. Back then, I was so, so uncertain...
+Shizuku: But fortunately, I turned that experience into fuel that keeps me going.
+Shizuku: I'm going to keep trying to get even closer to being the person I want to be!
+Airi: Well said! And it's not just you, Shizuku. Let's all try our best to be the people we want to be!
+Shizuku: Yes!
+Shizuku: I wonder... Is An also growing into the person she wants to be?
+
+
+4 [mc] mc_ev_shuffle_20_3
+
+(Enter: Miku)
+(Enter: MEIKO)
+(Enter: Rin)
+MEIKO: Mhm...! I haven't sung this much in so long! It was a lot of fun.
+Rin: We had fun singing with you too, MEIKO! After all, it's not every day we see you out of the cafe.
+Miku: We were surprised to get invited by you, MEIKO. Did something happen?
+MEIKO: I told you before, didn't I? About An's wedding photo shoot?
+Miku: Ah, that catastrophe...
+MEIKO: Yes. But, she told me that despite all the mishaps, she was able to figure out who she wants to be in the future.
+MEIKO: It makes me so happy to remember her telling me that. I wanted to express it by singing.
+Rin: Oh, I get it now!
+Miku: Not for yourself, but for An... That's very you, MEIKO.
+MEIKO: Hm...?
+(Enter: Kohane)
+(Enter: An)
+An: Guys!!
+Kohane: Huff... Huff... There you all are.
+An: We've been looking everywhere for you!
+Rin: Hi An! What's got you so flustered suddenly?
+An: The thing is, I have something to tell you all!
+Miku: What is it?
+MEIKO: Ah, could it be...?
+An: You won't believe it! A photo of us from the shoot won an award!
+Rin: No way! Amazing!!
+Kohane: We heard from Ms. Kawasaki earlier... Then we rushed over to tell you as soon as we could.
+MEIKO: Congratulations, Kohane and An! All worth the effort, right?
+An: Yes! Thank you so much, MEIKO! And Kohane, thanks again!
+MEIKO: Hehe. Like I told you, An, I didn't do anything. This is all thanks to your and everyone's hard work, so be proud of yourself!
+Kohane: Exactly, An! They were such good photos because you were able to be yourself and show off your inner spark.
+An: Hehehe, I'm flattered to hear that.
+An: And... this all taught me how important it is to be myself!
+An: So, I'm going to keep doing all I can to be true to who I am!
+MEIKO: Yeah! That's the spirit, An!
+MEIKO: Oh, speaking of! If you don't mind, could I request a song?
+An: Huh? A request?
+MEIKO: You were here practicing with Miku and everyone the other day, right? I'd love to hear what you were working on.
+An: Ah... That song! No problem at all!
+Kohane: I'm ready when you are!
+Miku: Alright then, here's your chance to show us who you are, An.
+Rin: Yeah! Go for it!
+An: Thanks! Alright, let's get started!
+
+
+5 [MUSIC] 195: PaⅢ.SENSATION
+
+6 [mc] mc_ev_shuffle_20_4
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Miku)
+(Enter: MEIKO)
+(Enter: Rin)
+An: Ahh, singing really does hit the spot!
+MEIKO: Hehe, you're not wrong. And your spark comes out even more when you're singing with Kohane, Miku and the others.
+MEIKO: It's as if you're singing for yourself and your teammates, and that's making you more passionate than ever.
+An: Exactly!
+An: Thank you so much for listening, everyone!! Did you guys get hyped up for us?!
+Kohane: Whoa...! Looks like you had a good time!
+An: Hehe. That's great to hear!
+An: I'm going to keep being myself and working with everyone to bring you the best shows we can!
+An: Alright! Ready for another day of practice, Kohane?
+Kohane: Yeah! Let's get started while we wait for Shinonome and Aoyagi to get here!
+Kohane: "Yeah!"
+An: "Yeah!"
+MEIKO: Hehe. Keep up that energy, you two!

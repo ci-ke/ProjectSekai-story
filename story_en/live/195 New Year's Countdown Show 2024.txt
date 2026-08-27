@@ -1,0 +1,186 @@
+195 New Year's Countdown Show 2024
+
+1 [mc] mc_2022countdown_1
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+Ichika: Huh, where am I...? I thought I left SEKAI to go back to my room...
+Tsukasa: Oh, if it isn't Ichika! I didn't expect to see you here, too!
+Ichika: Tsukasa! And all of you too! What are you doing here...?
+Minori: I was out giving my greetings to Mi—Wait no! To some people who've helped me out, and I was on my way back home, but...
+Kanade: Oh, me too. I was trying to go back home, but at some point I ended up here...
+Kohane: M-Me too...
+Ichika: You too, Kohane? Tsukasa, does that mean you also...
+Tsukasa: Yes. It is the end of the year, after all. I was out expressing my gratitude to everyone that's given me their support!
+(Enter: Miku)
+Miku: Hehe. Maybe those feelings of gratitude are what brought all of you back here.
+Ichika: "Miku?!"
+Tsukasa: "Miku?!"
+Kanade: "Miku?!"
+Minori: "Miku?!"
+Kohane: "Miku?!"
+Miku: Good evening, everyone. I wanted to see you all too, so here I am♪
+Kohane: Wow... I'm so happy to see you, Miku! It's always a pleasure to sing with you, so I was hoping I'd have the chance to thank you.
+Minori: Yeah, me too!
+Minori: Oh, since we're all here, why don't we sing something together?
+Tsukasa: Yes, that's a fine idea! By all means, please allow me the opportunity to sing out my feelings of gratitude for Miku!
+Ichika: I'd like to sing as well. Um, Kanade, are you okay to join?
+Kanade: Yeah, sure. I have no reason to refuse, after all.
+Minori: Yay!
+Miku: Well then, let's all sing together!
+Ichika: "Gunjo Sanka!"
+Minori: "Gunjo Sanka!"
+Kohane: "Gunjo Sanka!"
+Tsukasa: "Gunjo Sanka!"
+Kanade: "Gunjo Sanka!"
+Miku: "Gunjo Sanka!"
+
+
+2 [MUSIC] 141: Gunjo Sanka
+
+3 [mc] mc_2022countdown_2
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Minori: Thank you for singing with us, Miku!
+Miku: Not at all! I'm the one who's grateful to all of you.
+Miku: Singing with you and feeling the warmth in your hearts, it gave me a whole lot of energy♪
+Kohane: Really? I'm glad...!
+Miku: Hey, everyone. May I sing a song for all of you? I'd also like to show my appreciation.
+Kanade: A song from you?
+Ichika: You're going to sing for us?!
+Miku: Yeah! I'm going to put my heart into it. I'd be happy if you all listened too, everyone!
+Miku: Tell Your World!
+(Exit: Ichika)
+(Exit: Minori)
+(Exit: Kohane)
+(Exit: Tsukasa)
+(Exit: Kanade)
+
+
+4 [MUSIC] 1: Tell Your World
+
+5 [mc] mc_2022countdown_3
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Miku: How was it? I hope my feelings came through!
+Kanade: Yeah, they did. I feel this kind of warmth in my chest.
+Tsukasa: Yes, Miku, fantastic as always! It was a wonderful performance!
+Miku: Hehe, I'm glad I was able to convey how I feel. I'm looking forward to a new year with all of you!
+Ichika: "Me too!" "Me as well!"
+Minori: "Me too!" "Me as well!"
+Kohane: "Me too!" "Me as well!"
+Tsukasa: "Me too!" "Me as well!"
+Kanade: "Me too!" "Me as well!"
+(Exit: Ichika)
+(Exit: Minori)
+(Exit: Kohane)
+(Exit: Tsukasa)
+(Exit: Kanade)
+Miku: Oh... Looks like it really was the combination of their strong thoughts and feelings that brought us together.
+Miku: Let's meet again in the new year, everyone!
+(Enter: Len)
+(Enter: Rin)
+Len: Heeey, Miku!
+Rin: It's almost time for the countdown! Come back, hurry!
+Miku: Oh, that's right!
+(Exit: Miku)
+
+
+6 [mc] mc_2022countdown_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Sorry for making you all wait!
+Luka: It's alright. There's still a bit of time left.
+MEIKO: All of you out there who came to see us, let's count down together!
+KAITO: A lot of fun things sure did happen this year.
+Len: Yeah! Everything we did back on White Day is still really fresh in my memory!
+KAITO: Oh yes, when you and I put all that energy into our performance, saying we'd give back triple what we received. That was so much fun...
+MEIKO: Halloween was fun too! Rin and Len made for very cute pumpkin monsters!
+Rin: We sure did! I'm glad we gave it a try! And thank you all for helping us with that!
+Miku: You're welcome! I had a lot of fun too!
+Miku: And I made so many memories with all of you...it was a year full of bliss.
+KAITO: Alright, it's time for the countdown.
+Len: The event we've been waiting for!
+Rin: Woohoo! We'll count down from ten, everyone! Here we go!
+KAITO: 10!
+MEIKO: 9!
+Luka: 8!
+Len: 7!
+Rin: 6!
+Miku: 5!
+Rin: "4!"
+Len: "4!"
+MEIKO: "3!"
+KAITO: "3!"
+Miku: "2!"
+Luka: "2!"
+Miku: "1!"
+Rin: "1!"
+Len: "1!"
+Luka: "1!"
+MEIKO: "1!"
+KAITO: "1!"
+Miku: "0!"
+Rin: "0!"
+Len: "0!"
+Luka: "0!"
+MEIKO: "0!"
+KAITO: "0!"
+(Exit: KAITO)
+(Enter: KAITO)
+Miku: "Happy New Year!"
+Rin: "Happy New Year!"
+Len: "Happy New Year!"
+Luka: "Happy New Year!"
+MEIKO: "Happy New Year!"
+KAITO: "Happy New Year!"
+Miku: Happy New Year, everyone! This is the start of another year!
+Rin: Hey! Let's all sing a song to wish everyone here a good year to come!
+MEIKO: I like that! How about all of you, are you ready to get excited?
+KAITO: Alright, let's all have a good time!
+Miku: "Journey!"
+Rin: "Journey!"
+Len: "Journey!"
+Luka: "Journey!"
+MEIKO: "Journey!"
+KAITO: "Journey!"
+
+
+7 [MUSIC] 235: Journey
+
+8 [mc] mc_2022countdown_5
+
+(Enter: Luka)
+(Enter: Rin)
+(Enter: Len)
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Miku)
+Luka: Thank you so much for coming today, everyone. It was fun counting down together.
+Miku: It would make us so happy to have all of you by our side as we continue to watch over our friends in SEKAI.
+MEIKO: Alright then...
+KAITO: Here we go!
+Miku: "Have a fantastic new year!"
+Rin: "Have a fantastic new year!"
+Len: "Have a fantastic new year!"
+Luka: "Have a fantastic new year!"
+MEIKO: "Have a fantastic new year!"
+KAITO: Have a fantastic new year!

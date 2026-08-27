@@ -1,0 +1,89 @@
+158 Let's Enjoy Together! SpoJoy Park After Show (event_63)
+
+1 [mc] mc_ev_shuffle_21_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Rin)
+Minori: Thank you for coming, everyone!
+Minori: I'm going to my absolute best to deliver lots of hope to all of you today! Lots and lots!
+Airi: Aren't you fired up, Minori?
+Rin: Yeah! You seem to be in a really good mood!
+Shizuku: Did something happen?
+Minori: Hehehe. Actually, something great happened!
+Airi: Something great?
+Minori: Yeah! So the thing is, I went to go work out with Ichika, Kanade and Ena the other day...
+Minori: And all I did was lend a hand to Kanade that time, but after that she said she thinks she can give tomorrow her very best!
+Minori: Oh, I didn't do anything major though...!
+Minori: But I was really happy to hear her say that!
+Haruka: Hehe, I see.
+Shizuku: Kanade is the composer in Ena's group, right?
+Minori: Yeah! She's always working hard to compose a song that can save people.
+Haruka: That's amazing...
+Haruka: It must be really hard to continuously compose music like that.
+Rin: So that means you were able to deliver hope to Kanade, right, Minori?
+Minori: I don't know if I can say I did that much, but it'd be nice if I did.
+Airi: In that case, while we're riding this wave, let's deliver lots and lots of hope to everyone here today!
+Minori: Yeah!
+Minori: I'm going to dance with all my might, so I hope you all enjoy the performance.
+Minori: Here we go! Angel's Clover!
+
+
+2 [MUSIC] 112: Angel's Clover
+
+3 [MUSIC] 129: Bitter Choco Decoration
+
+4 [mc] mc_ev_shuffle_21_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Kanade: *Sigh*
+Kanade: Thank you for singing with me, everyone.
+Mizuki: All good! Besides I wanted a break too.
+Ena: Same here. It's important to get your body moving every now and then. It's a good change of pace too.
+Kanade: I'm glad...
+Luka: Hehe. You looked like you had fun, Kanade.
+Kanade: Do you think so? Actually, I think you're right...
+Kanade: It was probably because I wanted to sing with all of you today.
+Miku: Really?
+Kanade: Yes. When I went exercising with Ena the other day... Luka told me this...
+Kanade: You should think more about how you're doing from time to time.
+Kanade: That made me think about what I wanted to do right now.
+Kanade: And I realized that I want to sing with all of you.
+Mizuki: I see. So that's why you asked us to sing with you today.
+Kanade: Yes. I'm sorry for asking when you were all working.
+Ena: It's alright. I'm really happy that you feel that way, Kanade.
+Luka: Yes. I'm sure this will also have a positive effect on your composing.
+Kanade: Thank you...
+Kanade: Thank you for coming too, Mafuyu. I know you're busy.
+Mafuyu: It's fine. I also felt a little better.
+Mafuyu: Anyway, I should go back soon. I need to study.
+Kanade: Oh... Right.
+(Exit: Mafuyu)
+Miku: Is Mafuyu busy?
+Mizuki: Yeah. Seems like she has entrance exams to study for.
+Miku: I see. Sounds tough.
+Ena: Well, if she's showing up from time to time, then that means she's taking breaks, right?
+Kanade: I hope so...
+Kanade: But, it's okay. The only thing I can do now is compose music.
+Miku: Good luck, Kanade. But...don't overdo it, okay?
+Kanade: I won't. It'll be okay. Thank you.
+Kanade: I'm going to head back now. I'll come back when I've finished another song.
+Luka: Sounds lovely. I'm looking forward to it.
+Mizuki: Bye bye!
+Ena: See you later.
+(Exit: Kanade)
+(Exit: Ena)
+(Exit: Mizuki)
+Miku: Kanade seems to be feeling much better. Did you do something, Luka?
+Luka: No, I didn't do anything. All I did was give her a little nudge to get her moving.
+Luka: It seems like I was successful this time.
+Miku: I see. I'm glad... Everyone looked like they were having fun.
+Luka: Yes. I can't wait to hear their next song.
+Miku: Me too.

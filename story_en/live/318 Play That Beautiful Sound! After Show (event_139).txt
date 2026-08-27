@@ -1,0 +1,88 @@
+318 Play That Beautiful Sound! After Show (event_139)
+
+1 [MUSIC] 67: Jishoumushoku
+
+2 [mc] mc_ev_shuffle_46_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Kanade: Phew...
+Kanade: Thank you, Mafuyu, Miku. I feel kind of refreshed now.
+Mafuyu: You don't look quite as pale as usual today, Kanade.
+Miku: She's right. There's a bit of color in your cheeks.
+Kanade: Huh? R-Really?
+Miku: Yes. Did something good happen today?
+Kanade: Something good...?
+Mafuyu: Maybe it was what happened with that boy.
+Kanade: Oh...
+Kanade: I hadn't really thought about it... But you might be right.
+Kanade: When he succeeded in playing his trumpet, I felt...this kind of warm, familiar feeling.
+Kanade: I was really glad for him.
+Miku: That's very like you.
+Mafuyu: Yes, it is.
+Kanade: U-Um... It's a bit embarrassing to hear that so directly from you two.
+Kanade: But, it really was so good to see.
+Kanade: I hope... He has a long and happy relationship with his instrument.
+
+
+3 [mc] mc_ev_shuffle_46_2
+
+(Enter: An)
+(Enter: Toya)
+(Enter: Len)
+Toya: I never expected to receive such a thing. It really was a surprise.
+An: Haha, what a well-mannered kid! He reminds me of you!
+Len: Yeah! He seemed like a serious, polite boy.
+(Enter: Kohane)
+(Enter: Akito)
+Kohane: Huh? Oh, you're already here!
+Akito: What are you all looking at?
+Toya: Ah, right. The boy we met at the convention actually sent me a letter.
+Kohane: Convention... Oh! The boy you helped with his trumpet?
+An: Yeah, that's him!
+Akito: Wow. He went to that much effort to say thanks?
+Toya: That's part of it, but...
+Toya: It seems he's already improved so much that he'll be in their next concert, and he's invited us to attend.
+Kohane: Wow! He must really be grateful to you two.
+An: Well, it was all thanks to Toya and Yoisaki. I was mostly just there for moral support!
+An: He asked us to invite Yoisaki and Asahina to his concert too, so maybe we can all go together.
+Toya: Yes, that sounds good. ...
+Len: Toya? What's wrong? You still with us?
+Akito: Looks like something's got you in a good mood.
+Len: Huh? That's a happy face?
+Toya: Yes. Maybe that's why I feel so restless all of a sudden.
+Toya: Excuse me, everyone. Would it be alright if we sang something?
+Kohane: Huh?
+An: Oh! I totally get that! When you can't put your feelings into words, you put them into song!
+Toya: Yes, I think you might be right. I want to express these feelings... That's how I feel right now.
+Kohane: Then, let's sing, Aoyagi!
+Toya: Thank you. I hope you'll all listen.
+Toya: Children Record.
+
+
+4 [MUSIC] 136: Children Record
+
+5 [mc] mc_ev_shuffle_46_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+Toya: Phew... Thank you all. I feel much better now.
+An: Hehe. Happy to help! That's a good look on your face, Toya.
+Toya: Really? I can't say for myself, but I'm happy to hear you think so.
+Len: Oh, I just had an idea! Akito and Kohane, why don't you go to that boy's concert too?
+Akito: Huh? Us too?
+Len: Yeah! It sounds like the tickets are free. And I bet he'd love to have Toya's music buddies sing for him!
+Akito: You want us to sing at their concert? Feels like we'd be stealing their thunder...
+An: But it could be fun! Maybe just a tiny bit after the concert? Like a musical exchange!
+Toya: Hmm. Let's think it over.
+Akito: You've gotta be kidding me... Well, as long as we only think about it.
+Kohane: I feel like I've heard so much about this boy. I'm excited to meet him!
+Toya: Yes. Regardless of whether we perform or not, I'm looking forward to introducing you.
+Toya: He's someone who truly loves music— Someone just like us.
+An: Haha, that's true! Anyway, we'd better get going, huh?
+Toya: Yes. Thank you all for stopping by. I hope you'll come listen to us again.
+Toya: For now, do take care.

@@ -1,0 +1,90 @@
+224 Friendship Rebuilt After Show (event_92)
+
+1 [mc] mc_ev_idol_13_1
+
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: KAITO)
+Airi: And then we decided to go out for lunch together sometime.
+KAITO: Hehe. It sounds like you both had a great time.
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Luka)
+Minori: Huh? Airi, Shizuku, you're here already?
+Airi: Yeah. I had something to tell KAITO about before practice.
+Luka: Oh, I see. What was it? It looked like you were having a really fun chat.
+Airi: Well, it's about my friend Ayumi who I told you about the other day...
+Shizuku: Hehe. Airi and I had lunch with her.
+Haruka: You too, Shizuku? Not just Airi?
+Shizuku: Yes. I decided I'd like for us to be friends after hearing Airi talk about her, so I joined them for their lunch.
+Minori: Oh, wow! Hehe. That's great, you two.
+Shizuku: Yes!
+Luka: Hehe. I'm glad that you seem to be getting along well.
+Haruka: Definitely. But you're pretty amazing, Airi.
+Haruka: Part of me always felt like it would be tough to restore the relationships I lost because I'm an idol.
+Minori: Haruka...
+Airi: Yeah, you have a point... To be honest, I'm still somewhat afraid myself.
+KAITO: You are?
+Airi: Yes. I mean, we may have gone back to talking like we used to, but I'm still busy...
+Airi: I do get scared that we might end up drifting apart like we did before.
+Shizuku: Airi...
+Airi: But now I know that things will be okay.
+Luka: Oh? Why's that...?
+Airi: It's true that we can't spend as much time together...
+Airi: But now, we both know that we want to stay friends.
+Airi: So I'm sure it'll be alright. Even if there are times when I start to doubt.
+Haruka: Airi...
+Airi: We're not going to talk to each other every day or go hang out all the time like when we first met...
+Airi: But even so, I now believe that my friendship with Ayumi can continue in a new form.
+KAITO: Talking with her about how you both felt must have given you that confidence.
+Airi: Yes! And I have you to thank for telling me that there must still be a bond between us. Thank you so much.
+KAITO: Haha. I only told you what I thought.
+KAITO: Because... That would just be too sad. Having to give up precious friendships to remain an idol...
+KAITO: Idols have a mission of spreading hope, and I don't want to believe they can only exist because of such sadness.
+Airi: Oh...
+Airi: You're right. You said it, KAITO.
+Airi: I want to believe that being an idol is something fun and fulfilling... Something that glitters.
+Airi: Hehe... Looks like you taught me another valuable lesson, KAITO.
+KAITO: Haha. If I've been of help, then I couldn't be happier.
+Airi: You've done so much, so rather than just putting it in words, I want to do something to thank you...
+Airi: But what would be best...?
+KAITO: Hmm... In that case, I'd like it if you sang a song.
+Airi: A song?
+KAITO: Yes! Seeing idols sing and dance... That's what I love the most!
+Luka: Hehe. That sounds like you, KAITO.
+Luka: Well then, would you mind if I joined in, Airi? After listening to you talk, I want to sing too♪
+Airi: Really?! That would be lovely!
+Shizuku: Airi, can we join as well?
+Minori: I wanna sing with you!
+Airi: Thank you! Alright everyone, here we go...
+Airi: The peachy key.
+(Exit: KAITO)
+
+
+2 [MUSIC] 308: The peachy key
+
+3 [mc] mc_ev_idol_13_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Luka)
+(Enter: KAITO)
+KAITO: Wow! That was fantastic, everyone!
+KAITO: I could feel Airi's kindness and everyone's determination to take the next step forward.
+Haruka: I also felt my resolve become more firm.
+Airi: Yes, absolutely. It felt like we had a shared feeling and direction as we unlocked a new door.
+Shizuku: Let's keep moving forward together.
+Minori: Right!
+Haruka: Right!
+Airi: Right!
+Minori: And Luka, thanks for singing with us! It was really reassuring to have you!
+Luka: I should be thanking you. I had so much fun singing with you all♪
+Airi: Oh, and...
+Airi: Thank you all for listening!
+Airi: Things are going to be changing a lot for us from here on out.
+Airi: That's a really wonderful thing, but we may also end up struggling or showing weakness like I did this time.
+Airi: But we're going to put everything we have toward our goal of performing at the Dome.
+Airi: So... We'd be really happy to have your continued support.
+Airi: Alright everyone, see you next time!

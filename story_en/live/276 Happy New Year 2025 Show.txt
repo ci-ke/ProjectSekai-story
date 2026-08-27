@@ -1,0 +1,187 @@
+276 Happy New Year 2025 Show
+
+1 [MUSIC] 140: icedrop
+
+2 [mc] mc_2024newyear_01_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Len)
+Minori: Thank you for listening to us, everyone!
+Minori: Happy New Year!
+Haruka: Happy New Year!
+Airi: Happy New Year!
+Shizuku: Happy New Year!
+Miku: Happy New Year!
+Len: Happy New Year!
+Haruka: Did you enjoy our surprise show?
+Airi: A new year is always exciting, and we wanted to give you a performance that would take that feeling further!
+Len: Wow! That's a loud cheer.
+Miku: I had so much fun swaying and clapping to the beat.
+Shizuku: Hehe. I'm glad that you and everyone here had fun.
+Minori: This means that we're off to a really great start!
+Haruka: Yes. I'd like to keep this momentum as we go forward into a new year.
+Shizuku: Do look forward to our progress, everyone.
+Airi: To finish off, let's do you-know-what to psych us up for another great year!
+Shizuku: More and more songs!
+Airi: More and more energy!
+Haruka: More and more hope!
+Minori: For more and more and more people!
+Miku: MORE MORE...
+Len: MORE MORE...
+Minori: JUMP!
+Haruka: JUMP!
+Airi: JUMP!
+Shizuku: JUMP!
+Miku: JUMP!
+Len: JUMP!
+Len: See you later, everyone!
+
+
+3 [mc] mc_2024newyear_02_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+Tsukasa: Hello everyone! Happy New Year!
+Emu: Happy New Year!
+Nene: Happy New Year!
+Rui: Happy New Year!
+Miku: Happy New Year!
+KAITO: Happy New Year!
+Tsukasa: Let me start by inviting you to stay and watch a show!
+Miku: Yay☆ All of us here get to see your first show of the year♪
+Emu: Hehehe. We're gonna do our super duper best to wish you an amazing year☆
+KAITO: Oh? Is there something wrong, Nene?
+Rui: She's just feeling a little nervous and thinking, "W-Why am I in the spotlight for our first show of the year?"
+Tsukasa: Don't shrink away, Nene! Hold your head high! You won this fairly in rock paper scissors!
+Nene: That's nothing to hold my head high about...
+Nene: But we have an audience looking forward to our show, so I can't back out now.
+Emu: Yup yup☆ Let's make this show a fun one, Nene♪
+Rui: Well then, let's unveil our first show of the year to everyone here.
+Tsukasa: Coral!
+Emu: Coral!
+Nene: Coral!
+Rui: Coral!
+KAITO: Coral!
+(Exit: Miku)
+
+
+4 [MUSIC] 324: Coral
+
+5 [MUSIC] 345: Engeki
+
+6 [mc] mc_2024newyear_03_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Luka: It's gotten very crowded in here suddenly.
+Ena: You're right. Were you listening to us? Thank you.
+Kanade: So what did you think, Miku?
+Mizuki: Yeah, tell us! You did say you wanted to feel our current emotions through a song.
+Miku: I did. I felt them so strongly in my chest.
+Miku: But I'm glad I could feel so many of your emotions.
+Kanade: Really?
+Luka: How about you, Mafuyu? Did you feel anything when you were singing?
+Mafuyu: I...
+Mafuyu: I felt a tingling in my chest. I don't know what it was, but... I felt it.
+Mafuyu: Thank you for singing with me...
+Luka: Hehe. You're welcome.
+Kanade: Thank you for coming, everyone. I'm glad you were here to listen to us sing.
+Mizuki: Come visit whenever you wanna hear us again!
+Miku: See you.
+
+
+7 [mc] mc_2024newyear_04_1
+
+(Enter: Miku)
+Miku: Nice timing. Kohane and the others are about to sing, so why not stick around?
+Miku: Looks like they're ready to go too. Alright then, let's get them out here.
+Miku: Kashika!
+(Exit: Miku)
+
+
+8 [MUSIC] 267: Kashika
+
+9 [mc] mc_2024newyear_04_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: MEIKO)
+Miku: Nice work out there. It's hard to think that was your first performance of the year.
+Akito: That's because we don't skimp on practicing, no matter what date it is.
+An: You can say that again! But you do sing with more feeling when you have an audience.
+Toya: Yes. I think this was an amazing start for us.
+Kohane: Thank you so much for hyping it up with us, everyone!
+MEIKO: Hehe. So what are your plans after this? How about a cup of coffee back at the cafe?
+Toya: That sounds lovely. However...
+Akito: We're not done singing yet.
+Kohane: Yeah! I'd like to practice together for a while longer.
+Miku: I still haven't sung yet either. Why don't you stick around, MEIKO?
+MEIKO: I suppose I can't turn down the offer. I'll stay until I've got to open the cafe.
+An: Hey everyone! We're gonna practice for a little longer! Come hear us sing again soon!
+Kohane: See you later!
+
+
+10 [mc] mc_2024newyear_05_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Rin)
+Saki: Hey everyone!
+Ichika: Happy New Year!
+Saki: Happy New Year!
+Honami: Happy New Year!
+Shiho: Happy New Year!
+Miku: Happy New Year!
+Rin: Happy New Year!
+Rin: Wow, everyone's so full of energy!
+Saki: I know right! I thought they were gonna be sleepy after staying up all night!
+Ichika: Speak for yourselves, you two.
+Honami: Hehe. They were dozing off just earlier.
+Shiho: Do you want me to pinch your cheeks to wake you up?
+Rin: I-I'm fine, thanks! More importantly, let's hurry up and start the show!
+Saki: Yeah! Let's use this show to welcome the new year and get fired up!
+Miku: Looks like you're ready to go. I'll be looking forward to it, girls.
+Ichika: Please join in the fun too, everyone!
+Ichika: Here we go! purpose.
+(Exit: Miku)
+
+
+11 [MUSIC] 383: purpose
+
+12 [mc] mc_2024newyear_05_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Rin)
+Ichika: Thank you for listening, everyone!
+Miku: Good work out there. You gave a great and moving performance.
+Saki: Didn't we just?! Now that we're pros, we gotta nail it every time♪
+Shiho: Hey, that's what I like to hear.
+Saki: Hehehe.
+Ichika: Hey everyone! Once again, thank you for coming to watch our performance.
+Honami: We'll be starting our careers as pros, so we hope you continue to support us.
+Rin: You guys are gonna do great♪ We'll be there right there with you!
+Ichika: Well then, see you in SEKAI sometime!
+Saki: Bye bye♪
+Rin: Bye bye♪

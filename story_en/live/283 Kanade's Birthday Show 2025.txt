@@ -1,0 +1,70 @@
+283 Kanade's Birthday Show 2025
+
+1 [mc] mc_bd_2024kanade_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Miku: Welcome, everyone.
+Ena: We know you just got here, but is everyone ready to wish Kanade a happy birthday?
+Mizuki: Okay then, on three! One, two, three!
+Ena: Happy birthday, Kanade!
+Mizuki: Happy birthday, Kanade!
+Mafuyu: Happy birthday.
+Miku: Happy birthday.
+Kanade: Wow... I can't believe it... To think so many people would wish me a happy birthday...
+Kanade: Thank you, everyone...
+Mafuyu: Oh...
+(Enter: KAITO)
+Miku: KAITO?
+KAITO: I thought it sounded pretty noisy over here. So it was you lot.
+Mizuki: Welcome! Come celebrate with us, KAITO!
+KAITO: Celebrate...?
+Ena: Come on, today is Kanade's birthday. We talked about celebrating in SEKAI, remember?
+KAITO: Now that you mention it, Rin and the others were getting something ready.
+Kanade: I'm glad you're here, KAITO. I wanted to thank you again for what you taught me recently.
+KAITO: Ah, what I said about suppressing your feelings...
+Kanade: It wasn't easy, but I got my feelings straight thanks to those words...
+KAITO: If that's true, prove it. Show me with a song that the way you feel hasn't changed.
+Kanade: Huh...? I don't mind, but...
+Mizuki: That's perfect! It's a good way to celebrate, and everybody here will enjoy it too! Right?
+Ena: If you want to do it, Kanade, I'll join you.
+Mafuyu: I don't mind either...
+Kanade: Everyone...
+Miku: I also want to know how you feel now... Good luck, Kanade.
+Kanade: Thanks, Miku.
+Kanade: Okay, let's all sing.
+Kanade: Here we go. Passion at 25:00.
+(Exit: Miku)
+
+
+2 [MUSIC] 409: Passion at 25:00
+
+3 [mc] mc_bd_2024kanade_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: KAITO)
+Kanade: Thanks for listening, everyone.
+Miku: I felt it, Kanade.
+Miku: How much you love music, how much you want to treasure your feelings...
+KAITO: Right.
+KAITO: Don't lose that, and don't forget it either. It'd be a pain to have to remind you again.
+(Exit: KAITO)
+Mizuki: Oh, wait, KAITO! We still have the party with the others after this, so...
+Mafuyu: He's gone.
+Kanade: Yeah...
+Kanade: I know I already said this, but thank you for coming for my birthday, everyone.
+Kanade: When I was singing just now, I thought about how I want others to smile and be happy...
+Kanade: And I felt those same thoughts in all of your cheering.
+Kanade: Yeah...
+Kanade: All of your feelings have reached me. Truly, thank you.
+Ena: Alright, should we go join Rin and the others? We should at least help out a little.
+Kanade: Sounds good.
+Kanade: Okay everyone, we'll see you again.
+Mizuki: Bye bye!

@@ -1,0 +1,87 @@
+240 Farewell, My Mask After Show (event_100)
+
+1 [mc] mc_ev_night_14_1
+
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Mizuki: I see. So Mafuyu will be staying with Kanade for a while.
+Luka: Yes. At least until she gets back on her feet.
+Ena: I think that would be for the best. Mafuyu would've ended up worse if she was in that environment any longer.
+Miku: Yes...
+Miku: I hope she can relax more now...
+(Enter: Kanade)
+Kanade: Hey everyone.
+(Exit: Kanade)
+(Enter: Kanade)
+(Enter: Mafuyu)
+Kanade: Sorry for being late. Once I got into the flow of working, I lost track of time...
+Ena: That's okay, but... You didn't notice either, Mafuyu?
+Mafuyu: Yes. It's been a while since I've been able to work at my own pace.
+Mizuki: True. It happens to all of us.
+Miku: I'm glad you're doing okay, Mafuyu.
+Mafuyu: Yes... Now that I'm staying with Kanade... I feel a little better.
+Mafuyu: But, I just...can't stop thinking about...
+Mafuyu: Whether I was really doing the right thing this whole time...
+Mafuyu: And the more I thought about it... I couldn't come up with an answer.
+Mafuyu: I can't explain it but... I've always felt something deep down...
+Mafuyu: I just don't know what that something actually is...
+Kanade: Mafuyu...
+Luka: In that case, why don't you try singing?
+Mafuyu: What?
+Luka: Sometimes, singing can help you to untangle your thoughts.
+Luka: Particularly, that "something" you feel in your heart.
+Mafuyu: I think...you're right...
+Mafuyu: Would you all sing with me?
+Mafuyu: I have a feeling that would help me figure it out...
+Kanade: Of course, let's do it.
+Ena: Well, I have no objections.
+Mafuyu: Thank you...
+Mafuyu: Okay. Let's sing. Engeki
+(Exit: Miku)
+
+
+2 [MUSIC] 345: Engeki
+
+3 [mc] mc_ev_night_14_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Luka)
+Miku: How are you feeling, Mafuyu?
+Mafuyu: I think... I feel a little lighter.
+Mafuyu: I still...don't know what to do though.
+Mafuyu: But...
+Mafuyu: I want...to stay...with all of you.
+Mizuki: Mafuyu...
+Mafuyu: Mizuki, thank you.
+Mizuki: What?
+Mafuyu: The reason why I'm here right now...is thanks to what you said.
+Mafuyu: That it's okay to run.
+Mizuki: Really? I'm glad that I was able to help.
+Mizuki: I'm sure you need time to process your feelings right now, but let us know if anything happens.
+Mizuki: We'll be there for you.
+Mafuyu: Thank you...
+Kanade: On that note, shall we head back to work?
+Mizuki: Yeah! Maybe we should stay up all night, just like old times.
+Ena: We focus better at night too. Though for the sake of my skin, I would like to sleep earlier...
+Miku: Good luck, everyone.
+Kanade: Yeah. We'll be back when we've finished the song.
+Mizuki: See you later!
+(Exit: Ena)
+(Exit: Mizuki)
+Kanade: Let's go, Mafuyu.
+Mafuyu: Okay...
+(Exit: Kanade)
+(Exit: Mafuyu)
+Luka: Well, Mafuyu seems to be doing okay.
+Miku: Yes...
+Miku: I'm glad... Mafuyu looked like she was in so much pain before.
+Luka: She did. I don't think this current arrangement will go on forever, however...
+Luka: I'm glad that she was able to finally stand up for herself and do what was best for her.
+Miku: Me too...
+Luka: I think I'll watch over them for a while. I'd like to see how they will all grow from here.

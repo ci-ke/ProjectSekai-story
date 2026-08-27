@@ -1,0 +1,77 @@
+348 Unfading Wishing After Show (event_153)
+
+1 [mc_timeline] mc_ev_shuffle_52_1
+
+(Enter: KAITO)
+(Enter: Airi)
+KAITO: I see. That's quite an idea... I might make use of that.
+Airi: Hehe. I'm good at this kind of thing, so you can rely on me for idea work!
+(Enter: Haruka)
+(Enter: Minori)
+Haruka: Sorry for the wait, Airi.
+(Enter: Shizuku)
+Minori: Sorry we're late. We were playing Hanetsuki with Rin and the others, and it got intense!
+Shizuku: Before we knew it, it was almost time to meet up!
+Airi: Well, I'm glad you had fun... But no being late again, I mean it!
+Minori: Okay!
+Haruka: What were you and KAITO discussing? You seemed pretty deep in thought.
+KAITO: Airi was giving me some ideas for effects to use in our next New Year's show.
+KAITO: Watching your stream made me want to do something a bit more festive next time.
+Shizuku: But New Year's just ended. Are you already thinking about next year?
+Airi: I had a few ideas, like shining a spotlight out of a sea of green glow sticks to mimic a New Year's sunrise over the mountains.
+Airi: But somehow, thinking up all those show ideas made me start to feel kind of restless.
+Minori: Restless?
+Airi: Yeah. Thinking about how the fans would like each idea really got me in the mood to sing!
+Airi: So, only if you all want to, could we sing just one song before our meeting?
+KAITO: Hahaha, I understand exactly what you mean! Would you mind if I joined you?
+Airi: Not at all. We'd love to have you!
+Minori: Okay! Let's all sing, then!
+Airi: Right. Ready?
+Airi: Kiss the Villain!
+
+
+2 [MUSIC] 377: Kiss the Villain
+
+3 [MUSIC] 253: DAYBREAK FRONTLINE
+
+4 [mc_timeline] mc_ev_shuffle_52_2
+
+(Enter: Kohane)
+(Enter: Miku)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Akito: Thanks for bringing the fire, everyone.
+Miku: Your performance was so powerful.
+Kohane: Thanks, Miku!
+An: It really feels like taking a break over New Year's was the right call.
+An: And Kagami Mochi Phenny was even cuter than I had imagined!
+Toya: Yes, you showed us plenty of photos. The mandarin on his head did look very cute.
+Akito: You say cute, I say kind of weird...
+An: Hahaha! Well, forget the details for a second! It was a nice break, either way!
+Miku: You had a nice break too, didn't you, boys? I could tell from hearing you sing.
+Toya: Very much so. It was a lot of fun experiencing games I'd never played before. Akito?
+Akito: Yeah, it's been a while since I've played with toys like that, so I guess it was fun.
+Kohane: Hehe. It sounds like we all enjoyed our New Year's.
+Akito: Yeah.
+Akito: And we're going to be getting busy soon, so maybe it's good we got to take it easy.
+Miku: Right... You're leaving for the United States soon.
+Toya: Yes, we're each finishing up our preparations.
+An: I'm really looking forward to it! I keep finding more places I wanna check out!
+Kohane: Right, it's so hard to narrow down...
+Akito: Look... We're not going to sightsee, you know.
+An: I know that! The focus is still Uncle Taiga's event!
+Akito: Just so long as you remember that.
+Akito: This is our chance to see what's out there. We gotta stay sharp.
+Miku: You seem even more driven than usual, Akito. Did something happen over New Year's?
+Akito: No, nothing in particular. I just...
+Akito: I just realized I should be working harder.
+An: Hmm...? Well, being motivated is a good thing!
+Akito: Yeah.
+Akito: So... Let's do a bit more practice.
+Toya: That's fine by me. I'll stick with you.
+An: Let's take a quick breather, then get back to it.
+Akito: Yeah, good idea.
+Akito: Thanks for coming today, everyone.
+Akito: Be sure to come by again next time. You'll hear something even better, for sure.
+Akito: See ya.

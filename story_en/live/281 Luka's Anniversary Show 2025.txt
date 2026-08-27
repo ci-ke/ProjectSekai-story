@@ -1,0 +1,106 @@
+281 Luka's Anniversary Show 2025
+
+1 [mc] mc_bd_2024luka_1
+
+(Enter: Miku)
+(Enter: Luka)
+Luka: Now Miku, why can't I go past this point?
+Miku: Um... They said not to let you past until they call us...
+Luka: But I need to do something over there, Miku. You're making my life hard.
+Luka: Why are you being so unkind?
+Miku: Um, b-but...
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+Mizuki: Hey, Luka, Miku!
+Miku: Oh... Hi everyone...
+Luka: Does you four coming over mean we can head over now?
+Kanade: Yes, we came to get you both.
+Luka: Oh? Then I'd like to get going... But would you do me a favor first?
+Ena: A favor?
+Luka: Yes. It is my anniversary party, after all.
+Miku: Luka... You knew?
+Luka: Of course. You and Len have been giving me nervous glances for days.
+Miku: W-Were we...?
+Mizuki: Haha... I guess we couldn't fool Luka.
+Ena: But hey, I can understand feeling nervous. Anyway, no use crying over spilt milk.
+Kanade: So... You wanted a favor?
+Luka: I want you to sing with me.
+Mafuyu: To sing?
+Luka: Yes. I'm in the mood, and plus...
+Luka: Look at all the people gathered here.
+Mizuki: Oh, yeah! You guys came! Thank you!
+Ena: If they're all here for Luka's anniversary, it could be nice to say thank you with a song.
+Kanade: Yeah, I agree. I'd like to join them in celebrating.
+Luka: That's settled then. So, let's sing.
+Luka: Kimi no Yoru Wo Kure.
+(Exit: Miku)
+
+
+2 [MUSIC] 237: Kimi no Yoru Wo Kure
+
+3 [mc] mc_bd_2024luka_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Luka)
+(Enter: Miku)
+Miku: You all sang so well.
+Luka: Oh? I'm pleased to hear that from you, Miku.
+Luka: And thank you to all of you who were listening. You made it all the more fun.
+Mizuki: Alright, let's head to the party!
+Kanade: Good idea. The others are probably waiting.
+Luka: Hehe. I look forward to seeing what you've prepared for me. Right, Miku?
+Miku: S-Sure. I'll do my best.
+Ena: Wow, teasing again already?
+
+
+4 [mc] mc_bd_2024luka_3
+
+(Enter: Luka)
+Luka: Thank you all for coming today.
+Luka: I'm very pleased to spend such an important day with you.
+Luka: Know that your feelings have all reached me.
+Luka: I prepared a song for this special day, to express how I feel.
+Luka: So here it is.
+Luka: Afterglow.
+
+
+5 [MUSIC] 309: Afterglow
+
+6 [mc] mc_bd_2024luka_4
+
+(Enter: Luka)
+Luka: Thank you for listening!
+Luka: Could you feel what I wanted to express?
+Luka: Hehe. It sounds like you could.
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Luka! You were incredible just now!
+KAITO: Yes. You sang wonderfully.
+Luka: Thank you. But I was quite nervous, you know?
+Rin: Wait, for real?! You so couldn't tell!
+Len: Yeah! That was peak performance!
+Luka: You mean it? Then I'm glad.
+Luka: Singing alone made me a little nervous, but I think it let me feel everyone's emotions even more strongly.
+Luka: And I'm sure that gave me a boost.
+Miku: So everyone's feelings helped?
+Miku: Then, let's feel them even more!
+Rin: Yeah! We're gonna give Luka our anniversary wishes!
+Rin: Is everyone ready?
+KAITO: Sounds like it. Here we go!
+KAITO: Happy anniversary, Luka!
+Miku: Happy anniversary!
+Rin: Happy anniversary!
+Len: Happy anniversary!
+MEIKO: Happy anniversary!
+Luka: Thank you, everyone!
+Luka: Thanks to everyone celebrating with me like this, I've had a wonderful anniversary.
+Luka: I'm going to keep singing songs and trying to return the love you give me.
+Luka: So drop by and listen any time. Goodbye for now.

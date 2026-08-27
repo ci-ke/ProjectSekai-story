@@ -1,0 +1,131 @@
+346 New Year's Countdown Show 2026
+
+1 [mc_timeline] mc_countdown_2024_1
+
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+Rin: Oh, everyone! You're here!
+Luka: Perfect timing. We just finished our rehearsal.
+KAITO: It's our final show of the year, so we put a lot of effort into the setlist. I hope you like it!
+MEIKO: Hehe. It sounds like everyone can't wait either.
+KAITO: Well, let's not keep everyone waiting. Miku, everyone, can you take it away?
+Miku: Leave it to us! We'll bring the energy!
+Len: We'll be cheering you on from right over here! Let's be sure to make some noise, everyone!
+(Exit: Len)
+(Exit: KAITO)
+Rin: Okay! Time to show everyone just how hard we've been practicing♪
+MEIKO: On this final day of the year, let's sing from the heart to make everyone listening as happy as can be!
+Luka: Right! And with that, here it is. Happy Synthesizer!
+
+
+2 [MUSIC] 10: Happy Synthesizer
+
+3 [mc_timeline] mc_countdown_2024_2
+
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+(Enter: KAITO)
+Rin: Thanks, everyone! Did you like our performance?
+MEIKO: Just listen to those cheers! I hope our feelings reached you all.
+Len: I'm sure they did! Everyone looked like they were having such a good time!
+Len: Let's keep this momentum going, KAITO.
+KAITO: Right. After such a strong start from Miku and the others, we'll have to follow up with an even better song!
+Miku: I'm looking forward to it already. If you could do the honors!
+KAITO: I hope you all have plenty of energy left. We're going all-out, so follow along!
+(Exit: Miku)
+Len: Here we go! ROKI!
+
+
+4 [MUSIC] 2: ROKI
+
+5 [mc_timeline] mc_countdown_2024_3
+
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+Len: Great, everyone's all fired up! It felt so good to sing!
+Luka: Hehe. You really got into it, Len.
+Len: Yeah! This is the best New Year's Eve ever, thanks to all of you.
+Len: We got to sing a lot together this year. It still feels like it went so fast, though.
+MEIKO: Definitely. Looking back, so much has happened.
+MEIKO: We experienced so many emotions on the Star Festival, and had a wonderful show.
+Rin: It was so much fun making everyone smile with our spooky Halloween show too♪
+Len: And the after-show party was so much fun! Our surprise went perfectly!
+KAITO: Yeah! As for me... I still remember our Christmas show.
+KAITO: We dressed up as Santas to give everyone the gift of a song, but we got the gift of smiles in the end.
+KAITO: It's like you said, we couldn't tell which of us ended up being the real Santas.
+Luka: I remember that. They're all such good memories.
+Miku: The time really flew by, but it was such a fulfilling year.
+Miku: Hehe. It makes me happy.
+Miku: So many memories, so many songs we've sung together, so many feelings shared...
+Miku: I'm so glad we got to spend such a special year together with all of you!
+Rin: Yeah!
+Miku: I hope you all feel the same way.
+Luka: It certainly sounds like they do.
+Miku: Thank you, everyone! Let's sing together even more next year!
+Rin: Speaking of, it's going to be next year really soon, isn't it?!
+Len: Aah! I was having so much fun, I completely forgot!
+Luka: But it looks like we're right on time.
+MEIKO: Right! Let's start the countdown!
+KAITO: Are you all ready, everyone? Here we go!
+KAITO: Ten!
+MEIKO: Nine!
+Luka: Eight!
+Len: Seven!
+Rin: Six!
+Miku: Five!
+Rin: Four!
+Len: Four!
+KAITO: Three!
+MEIKO: Three!
+Miku: Two!
+Luka: Two!
+KAITO: One!
+MEIKO: One!
+Rin: One!
+Luka: One!
+Miku: One!
+Len: One!
+KAITO: Happy New Year!
+Rin: Happy New Year!
+MEIKO: Happy New Year!
+Miku: Happy New Year!
+Luka: Happy New Year!
+Len: Happy New Year!
+Miku: Happy New Year, everyone! It makes me so happy to start the new year alongside all of you!
+Miku: I know. Since it's New Year's Day now, why don't we all make our wishes?
+MEIKO: What a nice idea! As for what we're wishing for...
+Rin: I bet we're all thinking the same thing♪
+Len: Right! "May I get to spend this year singing together with everyone," for sure!
+KAITO: Then let's put that wish into song, shall we?
+Miku: Here we go! hot wind!
+
+
+6 [MUSIC] 489: hot wind
+
+7 [mc_timeline] mc_countdown_2024_4
+
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+(Enter: Len)
+Luka: Thank you all for listening!
+Luka: Have our wishes reached you?
+Len: I see. Thank you!
+MEIKO: I'm so excited to spend this year singing together with everyone!
+Len: If the very start of the year was this much fun, the rest of the year is bound to be great too!
+Rin: We hope you all have a great year, too! We'll be right there beside you!
+Miku: Thank you very much for spending the start of this new year together with us. Let's make this year wonderful, too!
+Miku: Then, until we meet again!

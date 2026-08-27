@@ -1,0 +1,89 @@
+293 The First Concerto After Show (event_125)
+
+1 [mc] mc_ev_street_16_1
+
+(Enter: MEIKO)
+MEIKO: My goodness... He said he'd look after the cafe, and yet I can't find him anywhere.
+(Enter: KAITO)
+KAITO: A-Ack! MEIKO!
+MEIKO: Ah! There you are, KAITO! You promised to watch over the cafe today. Where have you been?
+KAITO: I-I wasn't goofing off or anything! I was wondering if Toya would come for more advice on his songs, and time just flew by before I knew it!
+MEIKO: Then why didn't you come as soon as you realized?
+KAITO: Well, you know... I thought you'd be mad if I was late, so...
+MEIKO: Of course I would be. But I'd say breaking a promise is worse than being tardy.
+KAITO: *Sob* You've got me there...
+(Enter: An)
+An: Oh, there you are! MEIKO! KAITO!
+(Exit: An)
+(Enter: An)
+(Enter: Kohane)
+(Enter: Akito)
+(Enter: Toya)
+Toya: So this is where you two were. We were looking for you.
+MEIKO: Oh hello, I didn't realize you were all coming together today.
+KAITO: Y-You guys! I was in a real pinch just now! What brings you here?
+Toya: We came over to tell you something.
+KAITO: Tell us something?
+MEIKO: Oh... Toya, I remember you telling us how you managed to compose one song a little while ago. Did you...
+Toya: Yes.
+Toya: I managed to finish composing all of our songs.
+KAITO: R-Really?! Congratulations!
+MEIKO: That's wonderful, Toya!
+Toya: I wouldn't have been able to do it without your help, KAITO, MEIKO. Once again, thank you so much.
+KAITO: No need to thank me! I barely did anything!
+Akito: Funny, 'cause your face is saying something totally different.
+An: Hahaha! His face is all like "Of course! What would you have done without me?"
+MEIKO: Alright, then I think I'll just simply say, you're welcome.
+MEIKO: But... I'm so proud of you, Toya.
+MEIKO: I'm sure it wasn't easy facing your past.
+Toya: Thank you, MEIKO.
+Kohane: *Nod* I'm so happy for you, Aoyagi!
+MEIKO: Before I forget, could you play all of the songs you composed at the cafe so we can all hear them?
+KAITO: That's a great idea! It would be so much fun to listen to them together!
+Toya: I think so too. But before we do that... Could we all sing one song together?
+Toya: I'm feeling quite refreshed... I just couldn't help but feel like singing.
+Akito: I get it. It's kinda natural after pushing through until the end.
+KAITO: I think I'll enjoy this along with the audience! Besides, there's always a need for a hype man!
+MEIKO: Hehe, that's true. Then I'd like to join in singing with you all.
+Toya: Yes, please do.
+Toya: If you all don't mind, I'd like you to listen as well. I'll be expressing my feelings through this song.
+Toya: blender.
+(Exit: KAITO)
+
+
+2 [MUSIC] 404: blender
+
+3 [mc] mc_ev_street_16_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: MEIKO)
+(Enter: KAITO)
+Toya: *Exhale*
+MEIKO: Calm and peaceful, but also full of passion...
+MEIKO: That song really did fit you perfectly, Toya.
+Toya: Thank you, MEIKO.
+Toya: I thought that I was going to be an empty husk after putting my all into completing all of those songs...
+Toya: However, I'm feeling much more energetic after hearing everyone's cheers.
+Toya: Thank you for listening, everyone.
+KAITO: Alright! Let's head back to the cafe and hear those tracks!
+Akito: You're awfully cheerful, KAITO.
+KAITO: Of course! The first song Toya showed me last time was so amazing!
+KAITO: Actually, you've already listened to all of them, right? How were they?
+Kohane: Oh... I was so moved! The last song is particularly impactful. When I heard the last chorus, I—
+An: Alright, that's enough! Let that be something for them to look forward to!
+KAITO: Whaaat? No fair!
+MEIKO: Yes, yes. Let's all start heading over.
+An: Okie dokie!
+(Exit: MEIKO)
+(Exit: Akito)
+(Exit: KAITO)
+(Exit: Kohane)
+(Exit: An)
+Toya: To be honest, I'd like you all to listen to the songs too...
+Toya: However, I think I'll leave that for another day.
+Toya: I'd like you all to hear them when we surpass RAD WEEKEND.
+Toya: Now then, see you next time.
+(Exit: Toya)

@@ -1,0 +1,93 @@
+106 Akito's Birthday Show 2022
+
+1 [mc] mc_bd_2021akito_1
+
+(Enter: KAITO)
+KAITO: Oh, you're all here. Have you all come to celebrate Akito's birthday, too?
+KAITO: I see! In that case, can I ask you all a favor?
+KAITO: The thing is, Rin and Len haven't finished their performance piece for the party yet, so they asked me to buy some time...
+KAITO: So, I was thinking, would you all be able to help me stall Akito?
+KAITO: Thank you, everyone! Oh, looks like they're already here!
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+KAITO: Oh, hello! Welcome!
+An: Oh, Kaito!
+Akito: Were you removed from the party preparations because you kept snacking on the food?
+KAITO: No, no. This time, Rin and Len asked me to do something before that could even happen.
+Akito: And the reason why they asked wasn't that you were snacking when you weren't supposed to?
+Toya: Akito...
+Kohane: Speaking of which, Kaito. What did Rin and Len ask you to do?
+KAITO: Huh? Oh, haha... Let's just put that aside for now...
+KAITO: Look, Akito! All of these people came to celebrate your birthday with you.
+An: You're right! Akito, c'mon!
+Akito: Yeah, yeah. I got it.
+Akito: Thanks for coming, you guys.
+KAITO: Since we're already here, why don't we wish Akito a happy birthday with everyone here?
+Toya: Good idea. What do you think, everyone?
+KAITO: Oh, seems like everyone's ready! Alright then, there's no time to waste!
+KAITO: Happy birthday, Akito!
+Toya: Akito, happy birthday.
+Kohane: Happy birthday, Shinonome!
+Akito: Thanks. You too, you guys.
+An: Well, I guess the real celebration is going to be at MEIKO's cafe, so I guess we should start heading over...
+KAITO: Oh, that reminds me! Quite a bit of time has passed since you all became a team, huh?
+An: Huh?
+KAITO: I mean, in comparison to now and when you all just became a team, a lot of things feel different, right? Don't they?
+An: Oh yeah, that's true. When all four of us first came together, we really didn't have any sense of unity, did we?
+Kohane: But after we began participating in competitive events and having more practices together, we started to become more and more like a team, didn't we?
+Toya: I agree. And the thing that made us feel like a team was...
+Akito: When we sang with Tono at that event.
+Akito: I couldn't do anything alone, but because you guys were there, we were able to tie in the end.
+An: Yeah. But it really did feel like we became one back then, didn't we?
+Akito: Yeah.
+Akito: We're definitely going to win next time. Personally and as a team.
+Akito: So, I'm counting on you guys.
+Toya: Akito...
+Toya: Right. We're going to work hard so that we can be right there with you.
+Kohane: Yes!
+KAITO: Sounds great! Nice!
+KAITO: To keep this mood up, how about we sing a song?
+Kohane: Huh? But, don't we need to head to the cafe soon?
+KAITO: D-Don't worry about that! I mean, it's only one song, right?
+Akito: Oh geez...
+Akito: Well, it would be a bummer for the audience if we just got up and left without giving them anything.
+Akito: You guys okay with it?
+Toya: Yes. I don't mind.
+An: Of course, I'm fine with it.
+Kohane: Yes! Let's sing, Shinonome!
+Akito: Alright.
+Akito: Given who's here... Let's do that song.
+Akito: Listen up, you guys. Cinema.
+
+
+2 [MUSIC] 126: Cinema
+
+3 [mc] mc_bd_2021akito_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+Akito: Thanks for hyping it up with us, you guys! I had a good time singing.
+An: That's it? Everyone came all the way here to wish you a happy birthday. Why don't you be a little more honest?
+Toya: I agree. Sometimes, there are only things you can say at a time like this.
+Akito: Alright, I got it...
+Akito: I really am grateful for all of your support. I don't feel anything but that whenever I sing here.
+Akito: Right now, there's still a lot of things I need to work on and there will probably be times when I'll disappoint you guys.
+Akito: But I... No, we will keep aiming higher! No matter what is in our way, nothing's going to stop us!
+Akito: So, I hope you continue to support us as we do that.
+(Enter: Len)
+(Exit: Len)
+KAITO: Alright! I guess it's time we make our way to MEIKO's cafe then!
+Akito: Does that mean you're done stalling for time?
+KAITO: What? Haha. I guess you figured it out?
+Akito: Well, it was pretty obvious.
+Kohane: Hehe. I wonder what they needed the time for?
+An: Well, that's something we should be looking forward to, right?
+Toya: You're right.
+KAITO: I'm certain that it's definitely something that you'll enjoy! So, shall we go?
+KAITO: Thank you, everyone!
+Akito: See ya later!

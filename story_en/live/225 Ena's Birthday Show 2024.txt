@@ -1,0 +1,81 @@
+225 Ena's Birthday Show 2024
+
+1 [mc] mc_bd_2023ena_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Len)
+Ena: Sorry I'm late!
+Mizuki: What time do you call this! There better be a good reason the star of the show is a whole 10 minutes late!
+Ena: I said I'm sorry! I was buried so deep in my work, I lost track of time!
+Kanade: It happens, doesn't it.
+Mafuyu: But for you of all people to become that engrossed in your work is quite something. After all, you're always chatting away with Mizuki.
+Ena: Huh? Did you really need to turn that into an insult?
+Len: Hey! Um...you're not late, so don't worry, Ena. Rin's gone to fetch Miku and the others anyway.
+Len: So, um...were you working on the art for a song?
+Ena: No, it was an assignment from art class. At first, my mind was completely blank...
+Ena: But then, after finding some inspiration, the image came straight into my head and I was able to breeze right through it.
+Mizuki: Oh, sounds like it went pretty well for once.
+Ena: What do you mean for once? Well...you're not wrong, I guess.
+Ena: Oh, maybe it was thanks to that portrait I did of Mafuyu.
+Len: You mean the one you drew when she stayed over at your house?
+Ena: Yeah... Thanks to that, I've managed to somewhat wrap my head around the approach I should take when it comes to realistic drawings.
+Kanade: You've shown it to me before, and it was a beautiful portrait. It radiated with such warmth.
+Mafuyu: Me too... I'm glad I got the chance to see it. It allowed me to see myself through your eyes, Ena.
+Ena: Really? Hehe, then drawing it was worth it.
+Kanade: Hehe.
+Len: Hehe.
+Len: Hey, Ena. Can I ask you a favor?
+Ena: A favor?
+Len: Yeah... I was wondering if you would mind singing for me?
+Len: I have the feeling your singing voice carries raw honesty and emotional depth.
+Ena: Honesty and depth, huh?
+Ena: In that case, sure. I'm also quite curious to hear how my singing would come across.
+Ena: Oh, but I think a solo might be a bit much for me...
+Mizuki: 'Kay, how about I duet with you?
+Ena: Really? If you could, I'd appreciate it.
+Kanade: Then we'll all listen from back there.
+Ena: Okay!
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Len)
+Ena: Ready, Mizuki? Charles.
+
+
+2 [MUSIC] 19: Charles
+
+3 [mc] mc_bd_2023ena_2
+
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Len)
+Len: Thanks for that, Ena. Just as I thought, I could hear the passion and emotions in your voice.
+Len: Oh, and it looks like a lot of people came by to listen, too.
+Ena: Whoa, since when did it get so packed?
+Ena: Hehe, thank you for listening, everyone.
+Kanade: I know Miku and the others haven't arrived yet, but since so many people are here, how about a quick birthday wish?
+Mizuki: I say why not. Am I right, everyone?
+Mizuki: Okay, on three! One, two, three!
+Kanade: Happy birthday, Ena!
+Mizuki: Happy birthday, Ena!
+Mafuyu: Happy birthday.
+Len: Happy birthday.
+Ena: Thank you all so much!
+Ena: I can't believe this many people would celebrate my birthday. Now I really have to push myself further.
+Ena: I'll start off by brushing over the basics again. Then, I'll focus on how to recreate the image in my mind onto paper.
+Ena: But I know that's way easier said than done, so I hope you'll be there to watch me grow.
+Mafuyu: Hey, isn't that Miku and the others?
+Kanade: Oh, it is. They seem lost.
+Mizuki: So now we know why they haven't shown up yet. Alright, let's go get them!
+Ena: Yeah.
+Ena: Once again, thank you everyone for coming. See you next time!
+Len: Bye bye!
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Mizuki)
+(Exit: Len)

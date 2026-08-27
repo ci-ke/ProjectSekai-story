@@ -1,0 +1,80 @@
+71 STRAY BAD DOG After Show (event_21)
+
+1 [mc] mc_ev_street_03_1
+
+(Enter: KAITO)
+KAITO: So this is where Miku and the others were practicing. It's a nice, spacious place.
+KAITO: Besides, I guess if there are this many people listening to you, you would be excited, huh?
+KAITO: Oh, I forgot to introduce myself, didn't I?  I'm KAITO. It's nice to meet you.
+KAITO: Hm...? Seems like someone's already here.
+(Enter: Akito)
+(Enter: Toya)
+Akito: Oh. 'Sup, KAITO.
+Toya: I see this is where you've been.
+KAITO: Hey Akito, Toya! Huh? Where's Kohane and An?
+Toya: Azusawa and Shiraishi will be coming later. We just happened to arrive a little early.
+KAITO: Oh I see. Ah, by the way, I'd love it if you could show me what you're practicing today!
+Akito: Sure, but before that... Can I say something first?
+KAITO: Hm? What is it?
+Akito: I heard from Toya that when I was stuck in my head, you gave him some advice.
+Akito: So... Thank you. It helped me a lot.
+Toya: I'd like to express my gratitude again too. Thank you.
+KAITO: What? No, no, no! I didn't even do anything that big.
+KAITO: Rather, I'm glad that I was able to help but... I mean, I'm quite laid back, right? That's why people don't usually ask me for help.
+Akito: That's true. To be honest, at first I thought you were just a guy playing with a sampler.
+KAITO: Wait, really?!
+Toya: Akito...
+Akito: But you weren't that at all... You're very good at adapting, KAITO.
+Akito: You actually know how to react to your surroundings.
+KAITO: Haha. You're making me blush with all these compliments.
+KAITO: But, that's true. I do think it's much better to be flexible with your way of thinking. It even helps with performing!
+Toya: Performing?
+KAITO: Yeah. There's a lot of ways to perform when you're on stage, right?
+KAITO: Like singing, dancing, or sampling and performing songs like I do.
+KAITO: Whatever you decide to go with, you'll really hype up the audience if you manage to pull it off.
+KAITO: By being aware of this, you can explore a lot of possibilities within your performance, and above all, you can enjoy your journey towards achieving your goal.
+Toya: I see...
+Akito: Different ways to perform, huh...?
+Akito: I suppose so. I'm going to have to start thinking like that too.
+Akito: In order to surpass RAD WEEKEND, we have to think about what we can do as a team.
+Toya: Indeed.
+(Enter: Kohane)
+(Enter: An)
+An: Sorry for the wait! Have you guys finished setting up?
+Kohane: oh, KAITO! Hello.
+KAITO: Hey! I guess everyone's here!
+Toya: In that case, let's hurry up and sing.
+KAITO: Sounds good! But can I join in?
+Akito: Huh? You want to join too, KAITO?
+KAITO: Yes. Since everyone is here, I want to take this opportunity to get closer to you all!
+Akito: ...Right. Then, let's do it together.
+Toya: Yes, definitely.
+An: Yeah! So you're joining in with us, KAITO? This is awesome!
+Kohane: Yay! Can't wait!
+Akito: Shall we sing, then? I hope you all listen to our song too.
+Akito: Cinema
+
+
+2 [MUSIC] 126: Cinema
+
+3 [mc] mc_ev_street_03_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+Akito: Singing as a team really does feel good, doesn't it?
+KAITO: I agree. It makes me feel like I can go places I couldn't have gone alone.
+Toya: Thank you, KAITO. Thanks to you, I feel like I was able to make a transition.
+Akito: Alright you guys, let's do this!
+An: Yeah! Now that we have great rivals, I want to learn to sing even better too!
+Kohane: Same here! I feel more motivated after singing!
+KAITO: Hahaha. You're all fired up, I see.
+KAITO: I'm excited to see how you will all progress from here.
+Toya: Shall we get started, then?
+An: Yeah! Oh, I want Miku and the others to listen to us too, so let's move.
+Kohane: Sounds good. Especially since we want to practice all together too.
+Toya: Alright, then let's go.
+Akito: Thanks to you guys too.
+Akito: We all still have a long way ahead of us, so keep your eyes on us.

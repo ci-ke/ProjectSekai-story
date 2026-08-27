@@ -1,0 +1,138 @@
+333 Halloween Show 2025
+
+1 [mc_timeline] mc_2024halloween_1
+
+(Enter: Minori)
+(Enter: Miku)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Airi: Happy Halloween, everyone!
+Minori: Happy Halloween!
+Miku: Happy Halloween!
+Haruka: Happy Halloween!
+Shizuku: Happy Halloween!
+Minori: Welcome to our Halloween show!
+Haruka: Are you all enjoying the holiday?
+Shizuku: We just finished having fun in costumes and spooky makeup.
+Miku: The costumes and makeup were so much fun♪ I had black paint all around my eyes!
+Airi: Hehe. You had a lot of fun startling everyone with that skull face paint.
+Miku: I did♪ It came out so well that I just had to show everyone!
+Minori: Your makeup did turn out really well.
+Minori: When you said, "Look at me!" and I turned around, I was so scared I screamed!
+Haruka: And that startled you right back, and you jumped out of your skin.
+Airi: Why don't you all put on some makeup yourselves and prank your family or friends?
+Airi: Okay, on to what everyone's been waiting for, our show!
+Minori: Everyone! If you don't have lots of fun and smile for us, we'll trick you!
+Airi: Huh? Smile?
+Shizuku: So it's not trick or treat, but smile or treat?
+Minori: Oh, um... I decided to make it more idol-ish!
+Haruka: Hehe, you did a good job.
+Miku: Just perfect for Halloween!
+Airi: Okay, everyone! Remember, big smiles and cheers so you don't get tricked!
+Haruka: The Vampire!
+Minori: The Vampire!
+Shizuku: Happy Halloween!
+Miku: The Vampire!
+Airi: The Vampire!
+
+
+2 [MUSIC] 213: The Vampire
+
+3 [mc] mc_2024halloween_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Minori: Thank you all so much!
+Haruka: Thank you!
+Airi: Thank you!
+Shizuku: Thank you!
+Miku: Thank you!
+Shizuku: We could all feel just how much fun you were having!
+Haruka: Right. No need to worry about getting tricked by Minori, I think.
+Minori: Hehehe. Thank goodness!
+Airi: It's a little sad saying goodbye when everyone's all smiles, but it's time to go!
+Miku: Right. I hope you all have a fun Halloween!
+Minori: Bye bye!
+
+
+4 [mc_timeline] mc_2024halloween_3
+
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Len)
+KAITO: It looks like everyone in SEKAI is enjoying Halloween, too.
+MEIKO: Yes, their performance was spooky, but very cute! Very like them.
+Len: It really came through how much they wanted to give everyone a fun Halloween!
+(Enter: Luka)
+Luka: Well, we can't let them beat us on that front.
+(Exit: Luka)
+KAITO: That voice...
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+Luka: Happy Halloween♪
+Miku: Happy Halloween♪
+Rin: Happy Halloween♪
+MEIKO: Hehe, you three are in high spirits.
+Len: I bet you came to get candy!
+Rin: Hehehe. I wonder!
+Rin: Miku, Luka, here we go! One, two, three...♪
+Luka: Smile or treat!
+Miku: Smile or treat!
+Rin: Smile or treat!
+Len: Hey, wait a minute!
+KAITO: We've heard that before somewhere.
+MEIKO: Yes. That's a tricky one, though. If you can't give a big smile, you get tricked.
+Miku: That's right.
+Miku: And that goes for all of you too. If you aren't beaming by the end of our song, we'll have to trick you♪
+Miku: Here we go!
+Luka: Dance Robot Dance!
+Miku: Dance Robot Dance!
+Rin: Dance Robot Dance!
+
+
+5 [MUSIC] 68: Dance Robot Dance
+
+6 [mc] mc_2024halloween_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thank you all for listening to our song♪
+Rin: Hmm, let's see. Is everyone smiling big and bright?
+Luka: It looks like everyone is smiling, after all.
+Len: We had a lot of fun too!
+MEIKO: Your Halloween show was a big success!
+Miku: Yeah♪ All those practice sessions we had in secret were worth it.
+KAITO: By the way, you three...
+KAITO: Did you ever happen to notice the three of us getting together while you were practicing?
+Rin: Huh? Getting together for what?
+Len: We were planning a surprise Halloween party!
+Miku: A-A surprise Halloween party?!
+MEIKO: That's right, with pumpkin sweets and all sorts of other candy, too.
+MEIKO: You made us smile, so now it's our turn to make you smile!
+Luka: Hehe, we got surprised right back in the end. It feels a bit like we've been tricked.
+Miku: Everyone! Thank you for coming to see us today♪
+Len: Halloween only comes once a year, so enjoy it as much as you can!
+KAITO: Shall we cap things off all together?
+KAITO: Then, here we go. One, two, three...!
+Miku: Happy Halloween!
+Rin: Happy Halloween!
+Len: Happy Halloween!
+Luka: Happy Halloween!
+MEIKO: Happy Halloween!
+KAITO: Happy Halloween!
+MEIKO: See you again!
+(Exit: Len)
+(Exit: Rin)
+(Exit: Miku)
+(Exit: Luka)
+(Exit: MEIKO)
+(Exit: KAITO)

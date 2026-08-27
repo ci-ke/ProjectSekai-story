@@ -1,0 +1,89 @@
+188 Beyond The Dream of That Day After Show (event_78)
+
+1 [mc] mc_ev_idol_11_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Shizuku)
+(Enter: Airi)
+Haruka: Well then, let's move on to the next question.
+Haruka: What sort of music do you usually listen to, Hanasato?
+Minori: It would, of course, be ASRUN's CDs! I love how Haruka sings now, but I also love how she sang...
+Airi: Stop! Stop!
+Minori: Huh! What is it?
+Airi: I get you're just being honest, but mentioning another group's name can cause problems for the group that'll appear with us. I'd say avoid it.
+Airi: So for that question just now, keep it to something like "I listen to Haruka's songs!"
+Minori: I-I see! You're right! What you can or cannot say on TV is pretty strict, huh...
+Shizuku: I remember getting warned a lot about what not to say by my old producer as well...
+Haruka: We can't be too vague either since our answers won't seem all that interesting. It's actually quite hard.
+Haruka: But as long as you're careful not to say the things you are not supposed to, I think you'll figure it out. Don't worry.
+Shizuku: I agree. Once I got used to it, even I was able to get better at talking on TV.
+Minori: I see! Then I'll just need to practice until I know my way in and out. Okay, I'm ready for my next questi...
+(Enter: MEIKO)
+(Enter: Miku)
+Miku: Hey, what are you girls doing?
+MEIKO: It looks like a lot of fun!
+Minori: Oh, Miku! MEIKO! We were just practicing for when we're on TV!
+Haruka: We'll be appearing on a five-minute segment and I have a feeling we'll be asked a lot of questions.
+Miku: I see! It's amazing that you're preparing for it like this. But, in that case, we probably shouldn't be here...
+Shizuku: Why is that?
+MEIKO: Well because as your fans, we want to see all of this when you appear on TV instead of here.
+MEIKO: Of course, you'll be coming over to show us after, right? I'll be waiting in excitement♪
+Haruka: Miku, MEIKO... Thank you for always encouraging us.
+Shizuku: That reminds me, you said you spoke to MEIKO and the others about our TV appearance, right, Haruka?
+Haruka: Yes. And thanks to their advice I was able to come to a decision about it. I'm very grateful.
+Haruka: Also... I have one more request to make of you. Would you mind showing me one of your performances?
+MEIKO: One of our performances?
+Haruka: Yes. I'm not sure whether it'll happen or not, but we may be asked to perform on TV. So I'd like to have another look at the way you sing and dance for reference.
+Miku: We'd love to have you watch! But for today...can we sing a song together right now?
+Miku: I really feel like singing after seeing you all have so much fun just now♪
+Haruka: Hehe, of course. I'm actually in the exact same mood.
+MEIKO: Hehe. Then I think I'll let myself sit back and enjoy your performance from over there.
+Airi: Alright! Let's go full out and make sure MEIKO has the time of her life!
+Haruka: Sounds like a plan. Let's do it. IF.
+(Exit: MEIKO)
+
+
+2 [MUSIC] 211: IF
+
+3 [mc] mc_ev_idol_11_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: MEIKO)
+Haruka: Thank you, everyone. It felt so good to sing.
+Miku: I had lots of fun, too! And also... I could feel your emotions coming through!
+MEIKO: They really did. I felt it even when I was watching. Especially that strong feeling of preparedness that Haruka talked about.
+Shizuku: It wasn't only Haruka... I think all of us gave this TV appearance a lot of thought.
+Airi: Either way, I'm glad that we were all able to come to a decision. This is something that we all needed to have a say in.
+Haruka: I agree. I'm so glad that we were all able to come to a consensus and take this step forward together.
+Minori: Speaking of which, have we heard back from the producer of that program yet?
+Airi: Well, we just replied to them. TV producers are very busy people, you know?
+Minori: O-Oh, right! But... Unggghhh I just can't wait!
+Shizuku: I understand how you feel. Even though we should be guaranteed a spot, I'm also getting nerves from anticipation.
+MEIKO: But you can't just stand there and let your nerves take over, don't you think?
+Miku: Yeah. I'm sure you'll have meetings and stuff later, so you're all going to get pretty busy, no?
+Minori: I guess that's true... But if that's part of the path to becoming top idols, then so be it!
+Shizuku: Minori...
+Airi: Hehe, I guess you have plenty of spirit. I like that.
+Haruka: Me too. I think I can learn a thing or two about that from you, Minori.
+Haruka: We'll be expanding our activities as idols moving forward and I'm sure there's a lot that's going to feel different from before, but...
+Haruka: Our desire to spread hope to people won't change.
+Haruka: So let's not forget that and aim to achieve our newfound goal together.
+Haruka: To be top idols that can perform at the Dome!
+Airi: "Yes!" "Yeah!"
+Minori: "Yes!" "Yeah!"
+Shizuku: "Yes!" "Yeah!"
+Miku: Hehe. It feels like you've all grown stronger.
+MEIKO: I think so too. I get so much energy when I see all of you.
+MEIKO: I hope you spread the same energy that we received just now to lots of other people.
+Haruka: Thank you, MEIKO, Miku. That's exactly what we're going to do.
+Haruka: And thank you for always watching over us too, everyone. We really feel and appreciate your support.
+Haruka: Our TV appearance is only the first step in the long path we have ahead of us, but...
+Haruka: Our fans' desire for us to become bigger is important to us and we'll cherish that as we embark on this journey. So...
+Haruka: We hope that you'll continue to support MORE MORE JUMP!
+Shizuku: We'll be counting on your support♪
+Minori: See you later! Bye!

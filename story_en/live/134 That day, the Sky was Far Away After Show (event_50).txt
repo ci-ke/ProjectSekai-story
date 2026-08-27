@@ -1,0 +1,87 @@
+134 That day, the Sky was Far Away After Show (event_50)
+
+1 [mc] mc_ev_band_07_1
+
+(Enter: Shiho)
+Shiho: What a view...
+(Enter: KAITO)
+KAITO: Shiho? Is it just you today?
+Shiho: Oh, KAITO, hello.
+Shiho: Ichika and the others still have homeroom, so I decided to drop in first.
+KAITO: I see.
+Shiho: Also, thank you very much for what you did the other day...
+KAITO: Huh? What did I do?
+Shiho: You've been a source of support for me lately like during the party we threw after our show.
+Shiho: That also includes the time you were there to listen to the story I couldn't really tell Ichika and the others, or when things became so somber when I did tell them that it sort of felt like my own wake.
+KAITO: Oh, is that what you meant...?
+KAITO: I can't honestly say I did very much.
+Shiho: Please don't say that. I have trouble opening up to others... But you were there to facilitate that.
+KAITO: I see... I'm glad I was able to help.
+Shiho: So am I. It was nice to finally be able to tell them too.
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Ichika)
+Saki: Shiiiihooo!!
+Shiho: Oh, I take it homeroom's over?
+Saki: Yup! Our teacher yammered on for so long that my brain started turning into mush!
+Honami: Same with ours! Sorry about the wait, Shiho.
+Honami: I wish our teacher would get straight to the point like yours, Shiho.
+Shiho: I mean, every teacher's different and it's not something we can control.
+(Enter: Miku)
+Miku: Oh, KAITO, there you are!
+Ichika: Miku!
+Miku: Hey, everyone! I didn't realize you were here, KAITO. I was thinking about asking you to help me work on something.
+KAITO: Oh, um... I thought it'd be nice to get some fresh air.
+Shiho: Since we're all here now, why don't we head over to the classroom to start practicing?
+Honami: Okay!
+Ichika: Oh, before we do... There's actually a song I'd like to play. Would that be alright...?
+Saki: Oh! You mean that song?!
+KAITO: Which song?
+Honami: We were just talking about it on the way over here and felt like playing it.
+Shiho: Okay... You all seem pretty keen, so how about we give it a try when we're in the classroom?
+Saki: Yeah! Let's do it!
+KAITO: Sounds good. I'd love to hear it....
+Saki: You're welcome to join us too, KAITO.
+KAITO: Oh, I'd rather...
+Miku: Then, why don't I play with you girls instead...?
+KAITO: That'd be much better. Thank you, Miku.
+Shiho: Alright, let's go...!
+
+
+2 [MUSIC] 148: ray
+
+3 [mc] mc_ev_band_07_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: KAITO)
+Shiho: Hehe... Thanks, everyone.
+Shiho: I'm glad that I didn't give up.
+Ichika: Shiho...
+Honami: Let's try performing all sorts of different songs from here on out, Shiho!
+Shiho: Yeah.
+Saki: Alright! That means we'll have practice lots and lots!
+Saki: I feel like I can play anything right now, regardless of how hard it is! I might even be able to play with my arms crossed...!
+Shiho: That won't be necessary.
+Saki: What?! But it'd look so cool!
+Ichika: You have a very... Unique of idea what makes something cool...
+Honami: Is she taking after Tsukasa too much...?
+Shiho: A fancy house is nice to look at, but we still need to build its foundation. Capeesh?
+KAITO: Hehe...
+Miku: Shiho seems happy.
+KAITO: Yes. You can tell from her expression.
+Shiho: Oh, that reminds me...
+Shiho: Thank you for listening today, everyone. Seeing you all here always motivates us to perform at our best...
+Shiho: I'm honestly not great at getting along with others and this may sound kinda strange coming from me, but we'll be counting on your support moving forward...
+Shiho: Alright... Let's start practicing.
+KAITO: Oh... Mind if I join you?
+Shiho: Huh?
+KAITO: Your performance was so amazing that I feel like playing with you now...
+Shiho: Of course. We'd love to have you.
+Miku: Hehe. Then, let's do our best today too!
+Ichika: "Yeah!"
+Honami: "Yeah!"
+Saki: "Yeah!"

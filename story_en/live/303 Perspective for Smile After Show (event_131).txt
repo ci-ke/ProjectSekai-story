@@ -1,0 +1,88 @@
+303 Perspective for Smile After Show (event_131)
+
+1 [mc] mc_ev_wonder_17_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Tsukasa: Now then! In celebration of us passing our Ushiwakamaru test...
+Emu: Good for us, wonderhoy☆☆
+Nene: Wonderhoy!
+Rui: Wonderhoy!
+Len: Wonderhoy!
+Tsukasa: Gah! Control yourself, Emu! I clearly wasn't finished with my opener!
+Emu: Oh, sorry, Tsukasa! I was just so happy, y'know?
+Nene: Well, is it really a problem? I mean, Emu was the MVP this time around.
+Len: Totally! You were so cool as Ushiwakamaru, Emu!
+Rui: Hehe. That wonderful rendition was one only you're capable of, Emu.
+Tsukasa: You have a point there. Even I found myself shocked as we were practicing together.
+Tsukasa: She dodged my naginata like a true acrobat. I believe it safe to say that her training with Mr. Kijima has boosted her up a few levels!
+Len: Whoa! That's awesome!
+Emu: Hehehe, you're making me blush♪
+Tsukasa: Though, you also started doing somersaults out of nowhere and asking my opinion as to whether they fit your role...
+Emu: Well, I thought that'd be a good way to show everybody how much fun Ushiwakamaru was having!
+Emu: But nobody really got it...
+Nene: Conveying that sort of thing... It can be really hard. Everyone viewing will see your performance differently.
+Rui: Very true. Age, gender, upbringing, experience... These vary from person to person, and each affects the way one sees things.
+Rui: However... You could say that's what's so interesting about our craft.
+Rui: We can continue to iterate indefinitely, because there is no perfect answer.
+Len: Iterating indefinitely... Something about that sounds really cool!
+Emu: Yeah! I could totally eat a rake!
+Nene: It's "iterate". Like, trial and error.
+Tsukasa: Honestly... Still, when we're just having a normal chat, I do think it's best that Emu speaks her mind like this.
+Tsukasa: If she's not saying something like "Shwooo!" or "Blim-bam!"...something just doesn't feel right!
+Nene: Hehe, I think I know what you mean.
+Emu: Hehehe♪ Then I'll keep going all shwooo bam BOOM lickety-split♪
+Len: Hmm, I don't know what you're saying... But I can tell you're having fun!
+Emu: Yeah! I'm feeling super happy and hoppy...
+Emu: So! I would like to sing with all of you!
+Tsukasa: That suddenly got very easy to parse!
+Emu: You can't blame me! I wanna sing!
+Emu: Singing nice and loud when you're having fun will make everything even MORE fun!
+Rui: Hehe, you're absolutely right. Then, shall we sing together?
+Nene: Then, I guess we're singing to celebrate?
+Tsukasa: Hey, I was supposed to say that!
+Emu: Alrighty! Let's all sing!
+Len: Yeah! Are you guys ready?
+Emu: Hehehe, sounds like it! Okay then, here goes!
+Emu: Opera! Space Opera!
+
+
+2 [MUSIC] 450: Opera! Space Opera!
+
+3 [mc] mc_ev_wonder_17_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Emu: Hehehe. Are you all feeling happy and smiley?
+Emu: Great♪ Thanks for listening, everybody☆
+Len: Emu! That was another perfect dance performance!
+Len: All of you, actually...! Is it all thanks to how much you've been exercising?
+Rui: I believe so. I can feel our training with Mikazukigumi paying off.
+Nene: You were moving really well too, Len. Maybe it's because you got those air squats down?
+Len: Wait, you mean it...?! Alright! I'm gonna keep this up!
+Tsukasa: Wonderful! Let us all continue to polish our chops!
+Tsukasa: And in regards to our next production...
+Emu: Let's do this, wonderhoy☆
+Tsukasa: Let's do this, wonderhoy☆
+Emu: Oooh! We were right in sync, Tsukasa!
+Tsukasa: Hah hah hah! I'm not one to let myself fall behind and stay there!
+Rui: Actually, this may also be the result of our training with Mikazu—
+Nene: Nope, not relevant.
+Rui: Agreed.
+Emu: Hehehe. Still, I wanna keep on learning all kinds of stuff!
+Emu: Oh...! I'm gonna try to think a whole lot about everybody's points of view too!
+Emu: I'll keep thinking... And that'll help me make them all smile!
+Tsukasa: Yes, that's right!
+Tsukasa: Now, with that all said... Our break ends here! It's time we returned to our regimen for today!
+Emu: Okaaay! Time to sprint toward the sun, everyone! Let's go!
+(Exit: Tsukasa)
+(Exit: Emu)
+(Exit: Nene)
+(Exit: Rui)
+(Exit: Len)

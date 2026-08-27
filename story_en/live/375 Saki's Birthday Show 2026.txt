@@ -1,0 +1,80 @@
+375 Saki's Birthday Show 2026
+
+1 [mc_timeline] mc_bd_2025saki_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Saki: Hey, everyone! Welcome to my birthday party!
+Saki: I've got a bunch of stuff planned to thank you all for being here!
+Saki: There's even a special present, so stay tuned!
+Ichika: Hosting your own birthday party is very you, Saki.
+Shiho: She shot us down when we asked if there was anything we could do to help, after all.
+Saki: Well, yeah! You guys are guests, too!
+Saki: And I had to get the surprises together!
+Honami: Surprises?
+Saki: That's right! Get ready to be amazed!
+Saki: I've brought you all your favorite things!
+Saki: Yakisoba buns from a fancy bakery, apple pie you have to line up out the door to get your hands on...
+Saki: And rich tonkotsu ramen-flavored popcorn! Guaranteed to taste just like a famous master chef's!
+Honami: Wow! You pulled out all the stops!
+Saki: You bet I did!
+Shiho: I didn't even know ramen-flavored popcorn was a thing.
+Ichika: I wonder what it's like. But Saki... It's your birthday. Why'd you only get the things we like?
+Saki: Well! That's because seeing you all enjoying your favorite foods is the best present I could ask for!
+Honami: Saki...
+Shiho: Well, sounds like we made the right call after all.
+Saki: Huh?
+Ichika: You see, Saki, we also—
+Miku: You think Saki and the others will be here soon?
+Len: Probably. Oh, and we're not supposed to say anything about the cake, right?
+Miku: Right. Ichika said it's a surprise...
+(Enter: Miku)
+Miku: Oh.
+(Enter: Len)
+Len: Huh? Ah!
+Saki: Wait, a cake?!
+Saki: You got a cake for me?!
+Honami: We did, since we figured you might not get one for yourself. It was Shiho's suggestion, actually.
+Shiho: Hey, Honami...
+Shiho: Look, it's your party. We couldn't just show up empty-handed.
+Len: Sorry, everyone! We didn't know you were here...
+Ichika: It's okay. We were actually just about to tell her about the cake ourselves.
+Len: Oh, that's a relief.
+Miku: But you're a bit ahead of schedule. I thought you had plans with your friends for today.
+Saki: Hehehe. We did, and it was lots of fun, but we were looking forward to partying with you all, too!
+Saki: Plus, we had to get ready for our show!
+Len: Show?
+Saki: Yeah! It's our present to you... And to everyone else who's supported us all this time!
+Honami: Well, seeing as how everyone's already here... Why don't we give them their present now?
+Miku: Sounds good. Mind if I join in?
+Len: In that case, I'll go get Rin and the others. They seemed pretty excited for you to arrive.
+Saki: Thanks!
+(Exit: Len)
+Saki: Okay, everyone! This one goes out to all of you!
+Saki: Here we go. Time Machine!
+
+
+2 [MUSIC] 8: Time Machine
+
+3 [mc_timeline] mc_bd_2025saki_2
+
+(Enter: Miku)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Saki: Thanks for listening, everyone! Did you all have fun?
+Saki: Hehehe. Good to hear!
+Ichika: Now, let's all give Saki a big cheer. One, two, three!
+Ichika: Happy birthday, Saki!
+Miku: Happy birthday, Saki!
+Shiho: Happy birthday, Saki!
+Honami: Happy birthday, Saki!
+Saki: Wow, thank you!
+Saki: You know, the reason I can have fun birthdays like this is thanks my wonderful friends by my side...
+Saki: And that includes every one of you, too! Thank you all so much!
+Saki: We'll keep on working hard, and making music that'll reach everyone's hearts.
+Saki: So be sure to come visit us again sometime!
+Saki: Hehehe. Thanks! See you all next time! Bye bye♪

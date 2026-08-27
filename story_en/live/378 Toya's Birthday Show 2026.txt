@@ -1,0 +1,74 @@
+378 Toya's Birthday Show 2026
+
+1 [mc_timeline] mc_bd_2025toya_1
+
+(Enter: Kohane)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+An: A thank-you song, huh? Sounds good! We're in!
+Toya: Thank you. Now I just need to decide what to sing.
+Kohane: What about that song we practiced earlier?
+Akito: Sure. It's got some fire to it, so it should be perfect.
+An: True... But a slower song might feel more emotional and heartfelt.
+Toya: You raise a good point. Maybe we could—
+(Enter: Len)
+Len: Huh? What are you guys up to?
+Kohane: L-Len!
+Akito: What are you doing here?
+Len: All the party cleanup is done, so I was taking a walk.
+Len: We thought you'd all gone home, but I guess you were still around.
+Toya: Y-Yes, there was something we wanted to discuss.
+Len: Hmm... So, what was that about a song? Are you having trouble with how to sing something?
+An: Umm... Well...
+Toya: If we've been overheard, there's no sense playing dumb.
+Toya: You and the others held a party for me. So, I'd like to repay your kindness with a song.
+An: And he asked us to help out.
+Len: Oh, so that's what the song talk was about.
+Toya: If possible, we'd like it to be a surprise. Could you keep it a secret from the others?
+Len: I see... If it's a secret, of course I'll keep it!
+Len: Actually, why don't I sing with you? Surprising the others sounds like fun!
+Kohane: You want to sing too?
+Akito: It feels weird to sing alongside one of the people the song is for...
+Len: Hey, don't sweat the small stuff! I'd rather sing with everyone anyway!
+Toya: In that case, you're more than welcome. I would appreciate your help for sure.
+Toya: Oh, I know. If Len is joining us, maybe we should sing that song.
+Akito: Yeah, I know the one you mean.
+Kohane: It's a very nice song. That's perfect.
+An: I'm down, too! Wanna run through it before we spring the surprise?
+Toya: Sure. Let's do this, everyone.
+Toya: Here we go. HAVEN.
+
+
+2 [MUSIC] 508: HAVEN
+
+3 [mc_timeline] mc_bd_2025toya_2
+
+(Enter: Kohane)
+(Enter: Len)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Toya: Hey, I didn't see you all there.
+Kohane: Oh, are you here to celebrate Aoyagi's birthday?
+Akito: Yeah, seems like it.
+An: Hey, since we're all hyped up from the song, why don't we do that thing now?
+Toya: What thing...?
+Akito: Sure, why not?
+An: Okay! Here we go!
+An: Happy birthday, Toya!
+An: Happy birthday!
+Kohane: Happy birthday!
+Len: Happy birthday!
+Akito: Happy birthday!
+An: Nice! Great job, everyone!
+Len: It was so sudden, but you all nailed it!
+Toya: I didn't expect you all to cheer for me. I'm certainly surprised, but also happy.
+Toya: Thank you all very much.
+Toya: As you all know, we aim to stand on top of the world.
+Toya: Our time here in the United States has proven to be a valuable step toward that goal.
+Toya: We've already been given much to consider about our music.
+Toya: Everything we've seen and heard will become stepping stones on our path forward.
+Toya: When our trip is concluded, I'd like to share our stories with you.
+Toya: Thank you all for today. And... Let's meet again.
+Len: See you! Bye bye!

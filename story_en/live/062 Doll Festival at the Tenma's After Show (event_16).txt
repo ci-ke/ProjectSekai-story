@@ -1,0 +1,86 @@
+62 Doll Festival at the Tenma's After Show (event_16)
+
+1 [MUSIC] 38: BURIKI NO DANCE
+
+2 [mc] mc_ev_shuffle_05_1
+
+(Enter: Tsukasa)
+(Enter: Rui)
+(Enter: Len)
+Tsukasa: Ha ha ha ha! How was my magnificent singing and dancing?
+Len: You were amazing, Tsukasa! You were so much sharper than usual!
+Rui: Well, at this rate, we'll be able to try out even more kinds of effects than usual today.
+Tsukasa: Ha ha ha! I'm ready for any kind of performance! After all, I'm on a roll today!
+Len: Oh, I have a show rehearsal with KAITO soon. Well, I'm off then!
+Tsukasa: See you later, Len!
+Len: Bye bye!
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Luka)
+Emu: Tsukasa!
+Tsukasa: Oh, it's you guys!
+Luka: Tsukasa, you're looking well.
+Nene: Yeah. I heard that you were unusually dejected.
+Emu: I guess you're cheerful now that you've made up with Saki, right♪
+Tsukasa: Luka, thank you so much for taking care of me back then. I appreciate it!
+Luka: Hehe, it's okay♪ If you and the others were able to have a great party, then I'm glad too♪
+Tsukasa: That! As a thank you, I thought I'd give you a special seat to see my show... Hmm?
+Luka: Zzz....
+Tsukasa: S-She fell asleep standing again!? What is happening!?
+Nene: How is she able to sleep somewhere so noisy...
+Rui: Hmm. Maybe virtual singers can change the volume of the sound coming into their ears.
+Nene: What a handy skill... Speaking of which, are Tenma's ears ok? She hangs out with this guy every day.
+Emu: Tenma? Oh, you mean Saki!
+Emu: Now that you mention it, I wonder what Saki's doing right now?
+
+
+3 [mc] mc_ev_shuffle_05_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: And that's how I was able to make up with my brother!
+Miku: Oh I see. That's good to hear, Saki.
+Saki: I couldn't have done it without you guys! Thank you so much!
+Honami: Hehe, you're welcome. I'm glad it was a fun party.
+Ichika: We even got to play bingo. The gifts we received were also cute.
+Shiho: The gifts, though, there was an awful lot of shiny stuff...
+Saki: Hehehe, Tsukasa was really excited♪
+Ichika: Tsukasa really hasn't changed has he?
+Saki: Yeah! He's always trying his best to find something fun to do to cheer me up.
+Saki: My mom and dad always took care of me, so I'm sure Tsukasa was lonely...
+Shiho: Saki...
+Saki: That's why now I want to do my best in a lot of things for Tsukasa♪
+Shiho: Well, I guess we'll have to practice hard too.
+Saki: Yeah!
+Saki: Oh yeah, guys! There's a song I kind of want to perform. Do you want to join me?
+Shiho: Oh? What song?
+Saki: Of course it's your song, Miku!
+Miku: My song?
+Saki: Yeah! Ichi recommended it to me a long time ago, and I used to listen to it at the hospital.
+Saki: Whenever I listen to it, it reminds me of my brother, and of everyone who came to visit me at the hospital.
+Ichika: I see... Hey, why don't you join us, Miku?
+Miku: Sure, I'd love to!
+Saki: Thanks, you guys! Let's do it!
+
+
+4 [MUSIC] 8: Time Machine
+
+5 [mc] mc_ev_shuffle_05_3
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: Thanks for listening, everyone! It really was a wonderful song!
+Honami: I agree. My chest was pounding.
+Miku: Yes. And it was filled with your feelings, Saki.
+Saki: Hehe♪ Thanks Miku!
+Honami: Well then, shall we get back to practicing?
+Shiho: Yes. Let's pick up where we left off. Are you ready?
+Saki: Yeah! Let's give it our all!
+Ichika: Hehe, agreed. Let's do it!
+Saki: Bye bye everyone! We're going to practice hard, so come and watch to us again!

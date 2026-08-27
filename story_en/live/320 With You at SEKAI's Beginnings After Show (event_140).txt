@@ -1,0 +1,70 @@
+320 With You at SEKAI's Beginnings After Show (event_140)
+
+1 [mc] mc_ev_piapro_wl_01_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Oh, hey everybody!
+Rin: Hello!
+Len: We've been waiting!
+MEIKO: It's wonderful to see you all!
+Miku: Thanks for watching over those SEKAI with us!
+KAITO: We certainly didn't expect to see how they began.
+Luka: Definitely. We've been watching over everyone too, so it was surprising to realize we didn't know the whole story.
+Rin: Yeah, for sure! But it was nice to learn something new.
+Rin: Plus, I had a whole lot of fun watching idol me's show!
+MEIKO: Oh, Rin.
+Miku: Still... I'm glad too.
+Miku: We got in touch with the initial feelings of our SEKAI counterparts, back when each SEKAI was still new...
+Miku: Those feelings helped the others find their own true feelings and move forward. Just the thought of that...
+Miku: It made me want to try even harder!
+Rin: Oh... I totally get that! I was just thinking how I wanna find more I can do for them!
+Rin: Also... When I saw idol us working so hard, it felt kinda frustrating how we can't do anything.
+KAITO: I agree. I realize they're capable of doing their part without direct assistance from us, of course...
+MEIKO: Even then, it's only natural to want to help.
+Luka: Very true...
+Len: Then... Let's sing!
+Miku: Huh?
+Len: So, I actually heard SEKAI me and Rin sing! They were practicing so they could get better and help the others...
+Len: And when I heard them, this voice inside told me I can't let them have all the fun!
+Len: So I was thinking, if we sing and put on an energizing performance, maybe some of that will reach our SEKAI selves and everyone else!
+MEIKO: Yes... That sounds like a great idea!
+Miku: Yeah!
+Miku: Then, let's sing out to reach everyone in their SEKAI!
+Miku: Can we count on all of you to bring the love?
+Miku: Thank you! Okay, here we go!
+Miku: I'm Mine!
+
+
+2 [MUSIC] 368: I'm Mine
+
+3 [mc] mc_ev_piapro_wl_01_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thanks, everyone!
+Rin: That was sooo fun! I got all excited to be singing!
+Len: Same!
+KAITO: And thank you all for bringing the love!
+MEIKO: With all this energy, there's no doubt we reached everyone in their SEKAI!
+Luka: Yes, I'm sure we succeeded.
+Miku: Thank you all so much. We're very grateful to you for always watching over them with us.
+Miku: I'm sure they'll continue making their dreams come true, one step at a time.
+Miku: So, we're going to keep singing for them... To cheer them on, and our SEKAI selves too.
+Miku: And of course, we'll also keep singing for all of you!
+KAITO: Ah, I think it's about time we wrapped things up.
+Luka: It's a shame, but let's meet again soon.
+MEIKO: Let's all sing another song together then!
+Rin: We can hype things up lots and lots!
+Miku: Okay, thank you all for coming today! Your support means the world to us!
+Len: Goodbye! Bye bye! See you!
+KAITO: Goodbye! Bye bye! See you!
+MEIKO: Goodbye! Bye bye! See you!

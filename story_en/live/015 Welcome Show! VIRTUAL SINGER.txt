@@ -1,0 +1,123 @@
+15 Welcome Show! VIRTUAL SINGER
+
+1 [mc] mc_release_01_1
+
+(Enter: Miku)
+Miku: Thanks for coming to our show, everyone!
+Miku: Hehe. This is your second time here, right?
+Miku: This place is also one of the many SEKAI that exist.
+Miku: And we sing here sometimes in order to cheer on those who are in the other SEKAI.
+Miku: Today though, I hope all of you can enjoy our songs too!
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Rin: Hello everyone! I'm Rin!
+Rin: I'll be singing too, so be sure to watch my performance!
+MEIKO: Hehe. Rin's raring to go.
+MEIKO: We're ready as can be too. Let's get this show going, Luka.
+Luka: Let's do that. Here's our first song...
+
+
+2 [mc] mc_release_01_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Luka: Hehe. I can see you're all surprised about the stage changing so suddenly.
+Miku: This place is a little special. It's connected to many other SEKAI.
+Miku: That's why the stage changes into those of other SEKAI along with the feelings behind each song.
+Rin: Miku, let's sing already! I can't wait any longer♪
+Miku: Sure! Everyone, come enjoy the song with us!
+Miku: Ready... Start the music!
+
+
+3 [MUSIC] 10: Happy Synthesizer
+
+4 [mc] mc_release_01_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Rin: How was that?
+Luka: I think everyone liked it, which is great.
+MEIKO: Hehe. And I'm sure they'll like the next song too. Right, you two?
+(Enter: Len)
+(Enter: KAITO)
+
+
+5 [mc] mc_release_01_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: Len)
+(Enter: KAITO)
+Len: It's finally our turn, KAITO! I can't wait any longer!
+Rin: Oh, Len! You just said the same thing I did!
+Miku: Hehe. Well then, the stage is all yours!
+KAITO: Yes, we got this!
+KAITO: Come on, let's put on a good show for everyone.
+Len: Okay! Is everyone ready? Then let's rock!
+
+
+6 [MUSIC] 69: Fragile
+
+7 [mc] mc_release_01_5
+
+(Enter: Luka)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Miku)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Well, guys? We're the coolest, right?
+KAITO: Thank you! It makes me happy to see all of you happy.
+MEIKO: I'm sorry to say this, but the next song will be the last.
+Rin: We're at the last song already? Let's make it a bright and cheerful song that'll put a smile on everyone's faces, then!
+Miku: Yup!
+
+
+8 [mc] mc_release_01_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: This will be the finale, everyone. Thanks for staying until the end!
+KAITO: Now, it's time to sing!
+(Exit: Luka)
+
+
+9 [MUSIC] 41: Sweet Magic
+
+10 [mc] mc_release_01_7
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Luka)
+(Enter: Len)
+Luka: That was just lovely. Did you have fun, Rin and Len?
+Rin: I did! Hey, what about everyone out there?
+Rin: Hehe. Well, I enjoyed myself too!
+Len: We sing here like this every once in a while, so feel free to drop by and listen in if you have some time!
+MEIKO: Yes. You're always welcome here!
+KAITO: And knowing that there are people listening to us really makes us happy.
+Luka: Thank you all for spending some time with us, as short as it may have been.
+Luka: We'll see you again real soon.
+
+
+11 [mc] mc_release_01_8
+
+(Enter: Miku)
+Miku: Thank you for coming today, everyone!
+Miku: You're going to be meeting a lot of different people in different SEKAI with different feelings from here on.
+Miku: Please cheer them on together with us! That would make me very happy. Hehe. Thanks for all your support!
+Miku: I'll be going now. Take care and see you again!
+(Exit: Miku)

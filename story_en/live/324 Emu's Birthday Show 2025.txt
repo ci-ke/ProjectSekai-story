@@ -1,0 +1,81 @@
+324 Emu's Birthday Show 2025
+
+1 [mc] mc_bd_2024emu_1
+
+(Enter: Miku)
+(Enter: Emu)
+Emu: *Sigh* I'm pooped!
+(Exit: Emu)
+(Enter: Nene)
+Nene: We've been training really hard, after all...
+(Exit: Nene)
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Miku: Ah! You're all here☆
+Miku: Hmmm? You all look exhausted.
+Rui: Yes, well, today was cardio day, so we've been running since morning.
+Tsukasa: Sorry we're late after you kindly invited us. Emu and I got into a heated contest...
+Miku: I see! Well, don't worry about that☆ Look!
+Miku: While you were busy, aaaaaaaall these people showed up to celebrate Emu's birthday☆
+Emu: Huh? Oh, wow! They really diiid!
+Nene: Look at all of them... Isn't that great, Emu?
+Emu: Yeah! Hehe, thanks for coming to see me♪
+Emu: Heeey, everyone! How are you doing?!
+Tsukasa: There she goes already.
+Rui: Haha, did you expect anything else?
+Emu: Hehehe, they all sound energetic!
+Rui: They certainly do. But not as much as you, Emu.
+Nene: It's like you have even more energy than before we started practice.
+Emu: Well... Ahem! With all this cheer in the air, I'm currently a million times more wonderhoy♪
+Miku: A million?! That's amazing! You're so fierce! Roooar!
+Emu: I know, right! It makes me want to grooowl!
+Tsukasa: Enough with the animal sounds!
+Rui: It's amazing how quickly you perked right back up after being so exhausted.
+Tsukasa: I suppose mindset is part of it, but it's also proof that we're fitter than we used to be!
+Emu: Mr. Kijima's training routine is really helping! I feel like I can keep on moving forever!
+Emu: I do get hungrier than I used to, though.
+Nene: Oh, so do I. I'm hungry now, actually...
+Miku: In that case, have no fear! We made a whole ton of food and cake for you☆
+Emu: Really?! Wow, thanks! Time to stuff our faces!
+Tsukasa: Hm? In that case... Emu, Miku, Nene, Rui! Why don't we exercise just a little bit more?
+Nene: Huh? You mean...
+Tsukasa: We're going to hold a show! What else?!
+Tsukasa: We'll sing, dance and push our stomachs to the limit, then party like there's no tomorrow!
+Emu: Ooh, nice idea! Good call, Tsukasa!
+Rui: As for what kind of show... Hehe, I think the birthday girl should decide, no?
+Emu: I get to pick?! Okay, let me think... I've got it!
+Emu: Are you all ready? Here we go!! Tonal Twinkle Tetrad!
+
+
+2 [MUSIC] 411: Tonal Twinkle Tetrad
+
+3 [mc] mc_bd_2024emu_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+Emu: Thank you so much for cheering us on so energetically, everyone!
+Emu: Whew, now I'm starving!
+Miku: Everything will taste even better after all that exercise☆
+Nene: Haha, I guess so.
+Emu: Alright, let's head to the party—
+Rui: Aren't you forgetting something, Emu?
+Rui: I'm sure everyone here has something they want to tell you.
+Tsukasa: Oh, you're right there! Come on, everyone! Say it loud!
+Rui: Is everyone ready? Put your hearts into it. Happy birthday, Emu!
+Tsukasa: Happy birthday!
+Nene: Happy birthday!
+Miku: Happy birthday!
+Emu: Thank you all so much! Hehe, I got another biiig boost!
+Emu: I'm gonna keep eating lots, sleeping great and having tons of energy to do shows!
+Emu: All so I can keep bringing everyone smiles!
+Emu: So be sure to come to all our shows! We'll leave you smiling, I promise!
+Nene: Emu's right.
+Tsukasa: Yes. We also need to eat and rest plenty in order to work harder than ever before!
+Emu: Okay! Let's go eat our fill!
+Miku: Yeah!
+Emu: Bye bye, everyone! Let's meet again, full of energy and joy!

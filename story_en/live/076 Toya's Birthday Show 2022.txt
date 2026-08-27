@@ -1,0 +1,88 @@
+76 Toya's Birthday Show 2022
+
+1 [mc] mc_bd_2021toya_1
+
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+KAITO: Hmm. I wonder if the others have finished preparing yet?
+Toya: It doesn't seem so. Maybe we should go back and help out?
+Akito: But aren't they just decorating the cake? By the time we head over, there's probably nothing we can help with.
+KAITO: I know, right? Even I got kicked out.
+Akito: That's because you were snacking on it...
+(Enter: Kohane)
+(Enter: An)
+(Enter: Miku)
+KAITO: Oh! Do you guys not have anything to do too?
+Miku: Yes. Rin and Len said that decorating the cake was their job and were very enthusiastic about it.
+Miku: MEIKO also learnt a new way to make marzipan, so she's having a fun time preparing it.
+Toya: I see...
+Toya: Oh, by the way, when I went to greet them at the store earlier, Rin and Len showed me an illustration of the finished product, and it looked kind of amazing.
+An: Yeah. I mean, isn't it getting bigger and flashier by the minute?
+Akito: Yes. When it was my birthday, it was cheesecake, and there was no way to decorate it...
+Kohane: For my birthday, my cake had decorations and I was shocked that there were two tiers!
+An: Yeah! Rin and Len showed it to me with a happy look on their faces like, "What do you think?"
+KAITO: Oh, really? Then I guess this cake will be very promising!
+Toya: Yes. I'm looking forward to end result.
+KAITO: Alright! In that case, let's do some light exercise so that we can enjoy the cake.
+Toya: E-Exercise?
+KAITO: Yeah! Let's sing, dance, get hungry and go to the party! What do you think?
+Toya: I see. If it's that kind of exercise, I'll be okay.
+Toya: Besides, I just happen to have a song I want to sing with everyone.
+Akito: Is that the one you said you wanted to sing before you came here?
+Toya: Yes, it's <Ready Steady>
+Toya: It's because when I sing that song, it helps me know what I want to do.
+KAITO: What you want to do?
+Toya: Yes.
+Toya: I want to make an event bigger than RAD WEEKEND with Akito, Azusawa and Shiraishi.
+Miku: Hehe. That's because that song was born from that feeling, isn't it?
+KAITO: I see. Sounds great! Intention is always the most important thing.
+An: Then it's settled! Let's sing!
+Kohane: Yeah!
+KAITO: Then, shall I...
+KAITO: Join in on the fun with you guys?
+Miku: Why not? We've all already gathered here anyway.
+Toya: Oh, that reminds me, we still haven't greeted the audience.
+Toya: Thank you for coming today, everyone.
+Toya: It's a little embarrassing to have so many people celebrate my birthday with me, but...
+Toya: I want to sing this song and assure my desire to keep moving towards my dream.
+Toya: So, I'm going to sing with my all. I hope you all enjoy it.
+Toya: Please listen. Ready Steady
+
+
+2 [MUSIC] 54: Ready Steady
+
+3 [mc] mc_bd_2021toya_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: KAITO)
+Toya: Did everyone have a good time?
+Toya: I see. That's good to hear.
+An: Hey, since we're all here, we should do that thing, right?
+Akito: Oh yes. That thing.
+Toya: Hmmm? What's the thing?
+KAITO: Wishing you a "Happy Birthday", of course!
+Miku: Is everyone ready?
+Akito: Seems like it. Alright, let's do it.
+Akito: Happy birthday Toya
+Kohane: "Happy birthday!"
+An: "Happy birthday!"
+Miku: "Happy birthday!"
+KAITO: "Happy birthday!"
+Toya: Thank you.
+Toya: And thank you all, too.
+Toya: I'm so happy that you've all shown me again that it's okay to do what I want to do.
+Toya: I'll never forget what happened today, and from tomorrow, I'll continue to do my best as Toya Aoyagi of Vivid BAD SQUAD.
+Toya: So I hope you'll keep watching over me.
+KAITO: Well... Shall we go check on them now?
+Miku: Is what you say, but don't you just want to go there to snack?
+KAITO: I won't anymore. They got really angry before.
+Kohane: Hehe. I wonder how the cake turned out. I can't wait!
+Toya: Same.
+Akito: Shall we go?
+Toya: Yes. See you guys later.
+An: See ya!

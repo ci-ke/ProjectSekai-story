@@ -1,0 +1,97 @@
+337 Akito's Birthday Show 2025
+
+1 [mc] mc_bd_2024akito_1
+
+(Enter: Akito)
+Akito: Hmm... Aah, aah...
+Akito: My throat's feeling warmed up. But MEIKO and the others are holding a party for me, so I should wrap it up.
+(Enter: Toya)
+Toya: There you are, Akito. I've been looking for you.
+Akito: Yo. Everything's all set, then?
+Toya: Not just yet. MEIKO wanted me to get some equipment.
+Toya: It feels rude asking you to help with your own party, but would you lend a hand?
+Akito: Sure, no problem. I'd feel antsy just sitting there not doing anything.
+Toya: I'm glad to hear that. Come on. It's this way.
+(Exit: Toya)
+(Exit: Akito)
+
+
+2 [mc_timeline] mc_bd_2024akito_2
+
+(Enter: MEIKO)
+(Enter: Kohane)
+(Enter: An)
+Kohane: Do you think he convinced Shinonome to come?
+An: It'll be fine. He practiced tons so that he'd sound natural when he asked him for help, all for this surprise.
+MEIKO: Exactly. Let's have faith and wait for them.
+MEIKO: With this many people gathered, it's sure to be a wonderful celebration.
+MEIKO: Everyone! Once Toya arrives with Akito, we'll cheer on the count of three.
+(Enter: Toya)
+(Enter: Akito)
+Akito: Hm? MEIKO and the others? This must be some big equipment.
+Kohane: Are you all ready?
+Toya: Sorry for the wait. Let's do it!
+Akito: Huh? Wait, what do you—
+Kohane: One, two...
+An: One, two...
+MEIKO: Happy birthday, Akito! Happy birthday, Shinonome!
+Toya: Happy birthday, Akito! Happy birthday, Shinonome!
+Kohane: Happy birthday, Akito! Happy birthday, Shinonome!
+An: Happy birthday, Akito! Happy birthday, Shinonome!
+Akito: Wait, you mean...
+An: Hooray! Our surprise was a success!
+Kohane: Great job, Aoyagi!
+Toya: Thank you all for playing your part!
+Akito: Ah, I see how it is. So all that talk of equipment...
+Toya: Sorry. It was just an excuse to get you here.
+Toya: Even someone as sharp as you wouldn't expect a surprise celebration here, of all places.
+Akito: Yeah, you can say that again.
+Akito: Why even surprise me anyway? Aren't we having a party after this?
+MEIKO: That's one thing, and this is another.
+Toya: You're my partner, and you only get one birthday a year. Is it so strange I want to make it special?
+Akito: That's why? Geez...
+Akito: Thanks to you all for coming too.
+Akito: Maybe you already know, but I've been feeling a bit burnt out since my dream came true.
+Akito: I was pretty uncool there for a while... But my eyes are open again now.
+Akito: There are some unbelievable singers out there. Standing between me and the top of the world.
+Akito: So I don't have time to sit around feeling sorry for myself!
+An: Hey, hang on there. Don't forget about us!
+Akito: I know. Even though we're teammates, we're also still rivals.
+Akito: Hey, let's sing something. I was practicing before, but I still need more.
+MEIKO: Okay! Of course!
+Toya: Okay! Of course!
+An: Okay! Of course!
+Kohane: Okay! Of course!
+Akito: Here we go! Kashika!
+
+
+3 [MUSIC] 267: Kashika
+
+4 [mc_timeline] mc_bd_2024akito_3
+
+(Enter: MEIKO)
+(Enter: Kohane)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Akito: Hey! Thanks for pumping this place up!
+Kohane: Singing together really helped me feel what you're feeling, Shinonome!
+Toya: Yes, it left me feeling fired up too. It was a reminder to keep up with you.
+An: Ahaha! Akito's singing is like that, isn't it? Like he's burning with energy!
+MEIKO: It just goes to show how passionately he sings. I can't wait to see where you go next.
+Akito: Where we go next, huh...
+Toya: We're taking on the whole world.
+Akito: You know it!
+Akito: We'll sing, and keep singing, until we reach heights no one ever has before!
+Kohane: Okay! Of course!
+An: Okay! Of course!
+Toya: Okay! Of course!
+MEIKO: Now, why don't we head back to the cafe? Before Luka and the others give up and start grazing.
+Akito: Yeah, good idea.
+Akito: Hey, guys. Thanks for coming today.
+Akito: I'm gonna keep singing with all I've got, so make sure you come back. See you!
+(Exit: An)
+(Exit: Akito)
+(Exit: MEIKO)
+(Exit: Toya)
+(Exit: Kohane)

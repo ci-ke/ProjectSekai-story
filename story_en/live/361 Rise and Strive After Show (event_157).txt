@@ -1,0 +1,75 @@
+361 Rise and Strive After Show (event_157)
+
+1 [mc_timeline] mc_ev_idol_20_1
+
+(Enter: Miku)
+(Enter: Luka)
+(Enter: Haruka)
+Haruka: Oh, there you are, Miku.
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Shizuku)
+Minori: We've been looking for you since you weren't on the stage we said we'd practice on!
+Miku: What? Is it that time already...?!
+Miku: Sorry, girls. We got so caught up thinking about the effects for our upcoming show...
+Shizuku: That's okay. We still have some time before our practice.
+Shizuku: But what's this upcoming show?
+Luka: It's the MORE MORE JUMP! Support Show.
+Airi: Oh, you told us about this recently.
+Shizuku: You and the others are all going to perform together just for us, right?
+Minori: I still can't believe it...!
+Minori: Getting to witness Luka's elegant dancing, Rin's cute poses, Len's cool fan service...
+Minori: Ohh... I think my heart's gonna pop just thinking about it!
+Haruka: Pop...?
+Airi: Hehe, we're all excited for it!
+Miku: You should be! We're putting our heads together to make it the best performance possible♪
+Luka: Yes. We want this show to be our way of cheering you all on.
+Luka: Things may be tough right now, but we believe in all of you.
+Luka: We hope our show can tell you that.
+Haruka: Luka...
+Haruka: Thank you. Just hearing those words fills me with happiness.
+Haruka: We'll be sure to live up to the faith you place in us.
+Minori: Right!
+Airi: Right!
+Shizuku: Right!
+Haruka: Hey, everyone. How about we sing a little before we start practice?
+Minori: Huh?
+Haruka: This determination to keep going no matter what... I want to put it into song.
+Airi: I see. Well then, I can't say no to that!
+Shizuku: I feel the same way.
+Miku: In that case, could I sing with you too? I'd like to feel that determination for myself.
+Haruka: Of course you can. Now, let's do it.
+Haruka: IF.
+(Exit: Luka)
+
+
+2 [MUSIC] 211: IF
+
+3 [mc_timeline] mc_ev_idol_20_2
+
+(Enter: Minori)
+(Enter: Miku)
+(Enter: Luka)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Luka: Good work, girls.
+Luka: I really felt your determination to keep going no matter what.
+Luka: Wouldn't you all agree?
+Minori: Whoa...! Thanks, everyone!
+Haruka: That's right...
+Haruka: All of you are watching over us too.
+Haruka: In that case, we really can't stop now.
+Haruka: Little by little, we've got to do everything we can...and keep pushing on.
+Haruka: All of us, together!
+Luka: That's right. And you four have what it takes.
+Miku: Yeah, I agree!
+Haruka: Thank you.
+Haruka: And all of you, too. Thank you for coming.
+Haruka: I'm so grateful to have you always watching over us.
+Haruka: Your support for us will continue to fuel the work we do as idols.
+Haruka: Our work of spreading hope, that is.
+Haruka: So, I hope you'll keep watching us.
+Haruka: Thank you for coming! See you next time!
+Minori: Bye bye!
+Luka: See you soon!

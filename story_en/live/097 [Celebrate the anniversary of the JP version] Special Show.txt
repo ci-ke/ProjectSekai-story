@@ -1,0 +1,588 @@
+97 [Celebrate the anniversary of the JP version] Special Show
+
+1 [mc] mc_2021anniversary_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thank you for coming to SEKAI today too, everyone.
+Luka: Since everyone has been able to come whenever they want, it has become a lot livelier here.
+MEIKO: I agree. It kind of makes us want to liven up too!
+KAITO: Nevertheless, how many times have we gathered together like this and sang together?
+KAITO: Do you all remember the first time we met?
+Miku: A lot of things happened, didn't they?
+Len: That's right! You all even came to celebrate my and Rin's anniversary!
+MEIKO: And then to welcome and celebrate the new year, you all came to do the countdown with us too.
+Rin: Oh, but I think the best thing that happened was definitely when we played a prank on KAITO during Halloween.
+KAITO: Huh? I don't remember being pranked, though.
+KAITO: I thought you both decided not to do the prank after I said we should go see what Halloween's like in the others' SEKAI...?
+Len: It seems like KAITO hasn't noticed yet.
+Rin: In that case, I guess we just won't bother telling him then.
+KAITO: What?! Wait, what do you mean by that?
+KAITO: Did you really prank me that much?!
+MEIKO: Alright, alright. I'll tell you later.
+Miku: Hehe.
+Miku: It makes me so happy that we were able to make all these fun memories together.
+Miku: Also, thank you so much for always supporting the others in SEKAI.
+Luka: Although, I think there might be some people here who might have come to SEKAI for the first time.
+Miku: That's true.
+Miku: Even for those of you who are here for the first time, I'm really excited for us to learn lots of new songs and make more memories together!
+Len: And for that, there's a song that we want you all to hear! Would you listen to it?
+MEIKO: It seems like everyone has high expectations!
+Miku: You're right! In that case, let's sing!
+
+
+2 [MUSIC] 10: Happy Synthesizer
+
+3 [MUSIC] 69: Fragile
+
+4 [mc] mc_2021anniversary_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: It's fun to sing with everyone here to listen to us, isn't it?
+Len: Yeah! Thank you, everyone!
+Miku: Oh...
+Rin: Whoa! Even the feeling sparks in SEKAI are shining brighter than usual!
+Luka: I'm sure that even our friends in SEKAI are about to sing too.
+MEIKO: That's wonderful! Shall we all go together and watch them?
+Rin: "Let's go! Let's go!"
+Len: "Let's go! Let's go!"
+MEIKO: Okay! Then, let's go!
+Rin: "Yeah!"
+Len: "Yeah!"
+KAITO: Hahaha. Those three really do act fast.
+(Exit: MEIKO)
+(Exit: Len)
+(Exit: Rin)
+Luka: They really do. Well then, shall we get going too?
+Miku: Yes!
+Miku: Please come and meet our friends in SEKAI too, everyone!
+
+
+5 [mc] mc_2021anniversary_3
+
+(Enter: Ichika)
+(Enter: Miku)
+Miku: Oh, Ichika? Aren't you a little early for practice?
+Ichika: Well, yes I am, but... I actually have something I wanted to talk to you about. Do you have some time?
+Miku: Of course. So, what did you want to talk about?
+Ichika: Actually, in my world, there's going to be a Virtual Singer Appreciation Festival happening soon.
+Ichika: Sometimes people call it Fan Festa, but...
+Ichika: It's an event where fans of you and the others come to express their gratitude and sing your songs with all their heart.
+Ichika: I don't know how to say this... But since I can talk with you face to face, I thought it would be better to tell you my feelings directly.
+Miku: Is that why you came so early?
+Ichika: Yes. Oh...
+Ichika: Before I arrived, I thought about all of the things I wanted to tell you, but...
+Ichika: As soon as I saw your face, all of the things I wanted to tell you started to pile up and... Well...
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
+Saki: Ichi! I knew you came early!
+Ichika: Oh, you girls...
+Saki: Hey, hey! Since we're all a little early for practice, how about we play one song?
+Honami: Saki was practicing with Luka until just now, and it seemed like she was doing super well.
+Shiho: And then to make sure she doesn't lose that flow, she wanted to run through it again together as if it were the actual live performance.
+Ichika: Oh, okay. Which song should we do?
+Saki: Let's do needLe!
+Ichika: Oh!
+Ichika: Miku, can what I was talking about earlier wait until after we play? I think after singing that song, I'll be able to gather the words!
+Miku: Hehe. Of course.
+Ichika: Thank you!
+Luka: Did we interrupt your conversation?
+Miku: No, of course not. Even Ichika doesn't think so.
+Luka: Really? In that case, I'm glad.
+Saki: Ichi. I know it was sudden, but thank you!
+Ichika: It's alright. Well then, let's-
+Honami: Oh, look! SEKAI seemed to have gotten livelier!
+Shiho: You're right. What great timing.
+Saki: Thank you for always coming to hear us play, everyone!
+Saki: We hope you enjoy the song we have in store for you all!
+Miku: Alright, let's do this, Ichi!
+Ichika: Yes!
+Ichika: Let's go, everyone! needLe!
+
+
+6 [MUSIC] 63: needLe
+
+7 [mc] mc_2021anniversary_4
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Luka)
+Saki: Luka! I was finally able to do that thing you taught me!
+Luka: Yes, it was perfect! Your performance improves each time I hear you all play.
+Honami: Really?!
+Luka: Of course! Especially since you've all decided to go pro, I can tell that your feelings and skills have all grown so much.
+Saki: Yay! Did you hear that, Shiho? She said we've grown!
+Shiho: Yeah, yeah. Every time this happens, you immediately get carried away.
+Ichika: But... The reason why we're able to improve is definitely thanks to Miku, Luka, and the others.
+Ichika: I mean, we couldn't really sync and match with each other at the beginning, but...
+Ichika: They were always there for us so that we could confront our issues properly, and supported us through them.
+Ichika: Even when I couldn't muster the courage to talk to Honami or Shiho, they encouraged me.
+Ichika: And if it weren't for Miku and the others, the four of us would probably never decide to go pro.
+Ichika: That's why...
+Ichika: Thank you so much for bringing us here and for always being there for us.
+Miku: Ichika...
+Ichika: Um... I think this is what I've always wanted to tell you. I'm glad I was able to find the words.
+Miku: That's good. Your feelings came through your words. Thank you.
+Saki: Wait, hold on a second! It's not fair that you and Miku are the only ones having a moment!
+Saki: I also have lots and lots of gratitude towards Miku and Luka!
+Honami: Yes, me too!
+Shiho: Same here. You both really helped through a lot of tough times.
+Luka: It makes me so happy to hear you all say that.
+Luka: We would love to keep watching you grow from here onwards too.
+Miku: I feel the same. We're excited to see where you will all end up in the future!
+Ichika: Great!
+
+
+8 [mc] mc_2021anniversary_5
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Rin: Hey everyone! Thanks for coming to our joint live performance with MORE MORE JUMP! featuring Miku!
+Rin: As the MC, I'll also be livening up the room, so let's all have a good time!
+Rin: Oh! It seems like everyone's ready!
+Rin: Then without further ado, let's get this show started♪
+Shizuku: Here to bring you a burst of happiness. I'm Shizuku Hinomori from MORE MORE JUMP!
+Airi: One special delivery of love coming right up! It's the lovely fairy, Airi! Airi Momoi from MORE MORE JUMP! at your service★
+Haruka: No matter how far, may this song of hope reach you! I'm Haruka Kiritani from MORE MORE JUMP!
+Minori: Don't give up on your dreams, Minorinrin♪ I want to be the kotatsu of the idol world! I'm Minori Hanasato from MORE MORE JUMP!
+Miku: Singing with all of your feelings and hearts! I'm Hatsune Miku, the sparkly idol♪
+Rin: Hehe, with that it seems like everyone's here♪
+Airi: Yes! Thank you for coming to our performance, everyone!
+Miku: This was my first time using a catchphrase. Did it sound okay?
+Shizuku: Hehe. It seems like everyone liked it.
+Miku: I'm glad. I was actually quite nervous before...
+Miku: But I'm happy that everyone liked it! It was worth all the hard work and thought Haruka and the others put into it♪
+Haruka: I've also never thought up one before, so having everyone help me think of one too was a big help.
+Airi: Well, putting the two of you aside... Minori ended up going with THAT.
+Minori: Huh? But I thought Minorinrin♪ had such a cute ring to it!
+Airi: I wasn't talking about that. I meant the kotatsu thing.
+Airi: We thought of so many other cuter phrases. You could've gone with either of those, you know?
+Shizuku: Oh, but I really like the kotatsu phrase. I think it perfectly fits with Minori's warm personality.
+Haruka: Hehe, that's true.
+Haruka: Oh, it seems like everyone in the audience thinks so too.
+Minori: Oh, yay! Thank you, everyone!
+Airi: Oh dear... Well, it's not like we're going to be streaming this, so I'll let it slide this time.
+Minori: Hehe.
+Rin: With that said, sorry for the wait everyone! Let's get this show started!
+Rin: Alright, the stage is all yours!
+Haruka: Got it. Thank you, Rin.
+Haruka: Recently, we got invited to an elementary school event as MORE MORE JUMP!
+Shizuku: It was a lot of fun and we gained a lot of great experiences from it, didn't we?
+Airi: It sure was. Not only did we deliver hope to all of our fans, but we also received a lot of hope from them too.
+Minori: We were cheering for them, they cheered for us, and we cheered for them again... By doing this fans and idols were able to mutually deliver hope to one another!
+Airi: That's right! Which is why we want to give you all the best performance we can to live up to the hope and support we have received from all of our fans!
+Haruka: Are you all ready?
+Rin: Everyone seems to be♪ I'll be right there with them cheering you all on♪
+Miku: Thank you, Rin!
+Minori: Then let's go! Newly Edgy Idols!
+
+
+9 [MUSIC] 57: Newly Edgy Idols
+
+10 [mc] mc_2021anniversary_6
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Shizuku: Did you all have fun, everyone?
+Rin: I had a lot of fun too! Songs where everyone can join in with cheers really are the best♪
+Miku: Agreed♪ It's like everyone becomes one unit, making the performance even more amazing.
+Haruka: Well then, once again...
+Minori: Thank you so much for coming to watch our performance, everyone!
+Shizuku: Thanks to all of you we were able to put on this joint show and have a lot of fun doing it.
+Haruka: It's going to be a gradual process, but we'll have more songs and dances for you all.
+Airi: We're going to make the show and everything else we do even more fun, so keep an eye out for that!
+Minori: Alright, let's finish this off with THAT!
+Rin: Oh! That "MORE MORE"... Thing?!
+Minori: That's right, Rin!
+Miku: "More and more songs!"
+Rin: "More and more songs!"
+Airi: "More and more energy!"
+Shizuku: "More and more energy!"
+Minori: "More and more hope!"
+Haruka: "More and more hope!"
+Minori: May our songs reach more, more, more people!
+Minori: MORE MORE...
+Minori: "JUMP!"
+Haruka: "JUMP!"
+Airi: "JUMP!"
+Shizuku: "JUMP!"
+Miku: "JUMP!"
+Rin: "JUMP!"
+
+
+11 [mc] mc_2021anniversary_7
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Len)
+Len: Heya, you two!
+Rin: Do you guys have practice today too?
+Akito: I'd say it's more like training instead of our usual practice!
+Rin: Training?
+Akito: Yeah. We have an event coming up soon at the live house where we first performed together.
+Toya: It also seems to have a history of its own. Akito and I were talking about performing in it sometime, but...
+Akito: They finally contacted us and asked if we wanted to perform in it.
+Toya: I think it was definitely because of our win at STAY GOLDEN that we were put on the map.
+Len: Oh, I see!
+Len: Rin!
+Rin: Yeah! We can't let ourselves be left behind!
+Len: Akito, Toya! We're going to go do our own training!
+Akito: Nice. Have fun.
+Toya: Let's sing together again sometime then.
+Rin: Yeah! See ya later!
+(Exit: Rin)
+(Exit: Len)
+(Enter: Miku)
+(Enter: MEIKO)
+Miku: Oh, I see. What you're saying is that if you sing at that live house, then you get some prestige as a team?
+An: Yeah! The plan is to win with one shot and get to the level where we can battle more experienced teams!
+MEIKO: Hehe. So that's why you said you wanted to perform as though it was the real deal.
+Kohane: Yes!
+Kohane: Oh, Shinonome, Aoyagi! Sorry for making you two wait! We were able to get MEIKO and Miku to come with us!
+Akito: I can see. Thanks.
+Toya: Thank you for coming as well, Miku, MEIKO.
+MEIKO: It was no trouble. We're the ones who want to keep seeing you grow.
+Miku: Before we get into training, do you guys only want to perform just the four of you?
+An: Well, that's what we were planning... Why do you ask?
+Miku: I was just wondering if I could join too.
+Miku: However, I will be singing with everything I've got, though.
+Kohane: Huh? What do you mean...
+MEIKO: What she means is if you all let your guard down, then she's going to steal the show.
+Miku: With that to worry about, you know you won't be slacking off during practice, right? So, how about it?
+Toya: That means... We'll need to work harder than we have ever before.
+Akito: Yeah. But this sounds like the exact kind of training we need.
+Kohane: I'm going to give it my all too!
+Kohane: Thanks to you, An, I was able to believe in myself and sing with confidence.
+Kohane: I'm going to do my best so that I can be worthy to sing beside all of you and move forward!
+An: Kohane...
+An: Alright, let's sing!! Looking forward to working with you, Miku!
+Miku: That's what I like to hear. Also, look. We even have quite the audience gathering around.
+An: You're right! Hey everyone!
+Kohane: We...! We were just about to sing, so we hope you enjoy this song!
+Akito: You guys ready?
+Toya: Yes, I'm ready to go whenever.
+Kohane: Then, let's do this! Ready Steady!
+
+
+12 [MUSIC] 54: Ready Steady
+
+13 [mc] mc_2021anniversary_8
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+(Enter: MEIKO)
+Akito: Thanks for livening it up with us, you guys!
+Toya: Thanks to that, we were able to perform to the level of quality we need for the actual performance.
+MEIKO: That was amazing! You were all on fire and I could feel your resolve through the song.
+Miku: I agree. You were all able to sing in a way that was unique to you.
+Kohane: Really?!
+An: Woohoo! Let's keep this energy up until the next event!
+Akito: Damn right. Let's keep our singing tight and move forward while we're ahead.
+Toya: Sounds good. The four of us will surpass RAD WEEKEND.
+Kohane: "Yeah!"
+An: "Yeah!"
+Miku: They've really become a great team.
+MEIKO: Yes, they really have. I'm excited where life will take them.
+
+
+14 [mc] mc_2021anniversary_9
+
+(Enter: Emu)
+(Enter: Miku)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: KAITO)
+Emu: Wow! There's so many people here today, too! Heya everybody♪
+Miku: Hehehe! Welcome♪
+KAITO: So, have you all decided what you will be doing for your next show?
+Nene: Yes. We're planning to do our next show at the Wonder Stage, so it'll probably be the same kind of adventure show we usually do.
+Miku: Adventure?! That sounds like so much fun! What kind of story is it?
+Tsukasa: Heh. Brace yourself, Miku. For I shall tell you all about our next show! Firstly, our concept is-
+Rui: We're going back to our roots. Since we've gotten more experience with performing in front of a large crowd, we thought we should go back to it.
+Tsukasa: Hey, Rui. That's exactly what I was going to say!
+Emu: Oh, and get this! There's going to be a wizard, a short-tempered monster, and a bunch of other interesting characters in it too!
+Tsukasa: Ah! Emu, even you...!
+Miku: Monsters on top of wizards?!
+Tsukasa: That's not all! Our next show will be something like "Wizard of-"
+Nene: It'll be something like "Wizard of Oz," where four quirky individuals band together to go on an adventure to remember what is important to them.
+Tsukasa: Nene?!
+Rui: Excellent! That's the way to top it off, Nene!
+Nene: I guess so.
+Emu: Woohoo! We were so in sync with each other♪
+Tsukasa: This is not the kind of thing you should all be in sync for!
+KAITO: Hahaha.
+KAITO: But, I see... Going on an adventure to remember what is important to you...
+Tsukasa: Yes. I'm hoping to be able to use my experiences to fuel my performance in the next show.
+Tsukasa: That's why, Kaito, would you let us sing the song that was born from our feelings once more?
+Rui: Oh? I heard that song and Wonderland SEKAI were born from your feelings, though...
+Tsukasa: Well, in truth, it seems to be that way, but...
+Tsukasa: Even with the help of Miku, KAITO, and the others, I would not have been able to face SEKAI or remember my true feelings if I had not met all of you.
+Tsukasa: That's why I think that song was born from our feelings and not just my own!
+Emu: Tsukasa...
+Nene: You really are capable of saying profound things every now and then...
+Tsukasa: What do you mean by "every now and then?"
+Miku: Hehehe☆
+KAITO: I'm happy to hear that song has become an important song to you, Tsukasa.
+KAITO: Well, to all of you too. Emu, Nene, Rui.
+Rui: That is the truth. Right, Nene?
+Nene: Right!
+Tsukasa: All right! Now let's sing as we think about the moment when Wonderlands×Showtime was truly formed!
+Rui: Hehe. Well then, for all of you in the audience, I hope you will all join in on the fun!
+Tsukasa: Alright, let's get this show started! The World Hasn't Even Started Yet!
+
+
+15 [MUSIC] 51: The World Hasn't Even Started Yet
+
+16 [mc] mc_2021anniversary_10
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+KAITO: That was an amazing performance!
+KAITO: How was it? Were you able to remember how you felt at that time?
+Tsukasa: Yes! The overwhelming happiness of gaining comrades, how much fun it is to perform shows with them, and also...
+Tsukasa: The fulfillment from being able to make people smile! I was able to feel all of these emotions once again!
+Emu: Yeah! I also had a lot of fun♪
+Nene: Since we're going to get KAITO and the others in it, your story better be good.
+Tsukasa: Leave it to me! I'll be sure to write an amazing story that is worthy of directing!
+Rui: Hehehe. That, I'm looking forward to.
+KAITO: I'll be looking forward to it, too.
+Miku: Me too, me too!
+Tsukasa: Just you wait!
+
+
+17 [mc] mc_2021anniversary_11
+
+(Enter: Mafuyu)
+(Enter: Miku)
+Miku: This is Kanade's song, right? Does it soothe you?
+Mafuyu: Yes... I feel calmer when I'm listening to it.
+Mafuyu: The warmth that I felt at that time, it's still here.
+Mafuyu: It's a little bit of a relief that I can still feel that it's still here.
+Miku: Mafuyu...
+Mafuyu: ... Sing...
+Miku: Huh?
+Mafuyu: I don't really know why, but... I want to sing. The song... That was born from my feelings...
+Miku: I want to sing that song, too.
+Miku: I know... I'll ask if everyone can come.
+Mafuyu: Oh... Miku...
+(Exit: Miku)
+(Enter: Kanade)
+Kanade: Mafuyu.
+Mafuyu: Oh, Kanade...
+Kanade: Miku asked me to come over. She said that you wanted to sing a song.
+(Enter: Ena)
+(Enter: Mizuki)
+Mizuki: Oh, there you are♪ This is so rare! It's not often you ask us to come sing with you, Mafuyu.
+Mafuyu: The both of you came, too?
+Ena: Well, yeah. Miku went through all the trouble to tell us that you wanted to sing, so that's why I'm here.
+Ena: Besides, I was feeling a little sleepy after dinner, so I thought this would help me wake up a bit.
+(Enter: Miku)
+Miku: Mafuyu... Everyone came.
+Mafuyu: Yes...
+Ena: So, what made you suddenly say that you wanted to sing?
+Mafuyu: I was just listening to Kanade's song before... And it made me feel warm.
+Mafuyu: That's why I was thinking if I sang the song that was born from my feelings now, I might be able to feel something, too.
+Mafuyu: I was fine to sing on my own, but...
+Miku: The reason why you were able to find these feelings was because everyone was there with you.
+Miku: That's why I wanted them to come.
+Mizuki: Oh, I see. So, that's why...
+Kanade: If that's the case, then we'll sing with you.
+Ena: Yeah. Besides, I've never seen Mafuyu so enthusiastic about wanting to sing either.
+Kanade: Let's sing, Mafuyu. Together.
+Mafuyu: Okay.
+Kanade: Then, let's do it. Composing the Future.
+
+
+18 [MUSIC] 60: Composing the Future
+
+19 [mc] mc_2021anniversary_12
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Miku: Oh... Looks like everyone was listening to us.
+Mizuki: You're right! Thanks for coming today, everyone♪
+Ena: It usually feels lonely here, but it's strangely lively when we sing.
+Kanade: So... Did you manage to feel anything, Mafuyu?
+Mafuyu: I can't really describe it... But... I do think that I was able to feel something.
+Mafuyu: It's painful, but...
+Kanade: If you were able to feel something then, that's a good thing...
+Ena: Yeah, I agree. It's much better than saying "I don't know" with a blank face.
+Mizuki: Seems like you're changing bit by bit afterall, Mafuyu.
+Mafuyu: I guess so...
+Mafuyu: Thank you for coming, everyone...
+Ena: Alright, alright. You're welcome.
+Mizuki: Well, I'm going to go and head back to work♪
+Ena: Yeah, me too!
+(Exit: Ena)
+(Exit: Mizuki)
+Mafuyu: Miku.
+Mafuyu: Thank you for calling everyone here, and for singing with me.
+Miku: It's okay. If you're happy then so am I.
+Kanade: We'll see you later, Miku.
+Miku: Okay.
+(Exit: Kanade)
+(Exit: Mafuyu)
+Miku: Oh... Fragments of feelings from a lot of other SEKAI are gathering...
+Miku: Much like Kanade and the others, there's feelings of warmth and excitement...
+Miku: A new song... Might be born from this.
+Miku: Good luck, Kanade.
+
+
+20 [mc] mc_2021anniversary_13
+
+(Enter: Kanade)
+Kanade: Hmm... Huh? I was trying to go back to my room, but... How did I end up here?
+(Enter: Miku)
+Kanade: Huh... Miku?!
+Miku: Sorry to scare you.
+Miku: A new song was about to be born from your feelings, so I was thinking we could sing it together.
+Kanade: A new song? Did you mean...
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+Ichika: Yes, and then when we all split up to go do our own individual practice, the next thing I knew I ended up here.
+Kohane: So that's what happened. Minori and I were practicing off on our own too, but then we somehow ended up here during our breaks.
+Minori: Oh, it's Miku!
+Miku: Kohane, Minori, and also, Ichika. Welcome.
+Ichika: Oh... I have a feeling this has happened before.
+Ichika: Oh, that's right. That was when Tsukasa was also...
+(Enter: Tsukasa)
+Tsukasa: WHAT THE?! WHAT IS THIS PLACE?!
+Kanade: That loud voice... I feel like I've heard it somewhere before...
+Tsukasa: Hmm?! Miku... And Ichika too... There's something familiar about this...
+Miku: It seems like everyone's here.
+Miku: So the thing is, a new song is about to be born.
+Miku: There's still a little bit of time before that happens, but I was wondering if you could all give me a hand?
+Ichika: Um... You want us to help?
+Miku: Of course!
+Minori: Sounds like fun! What did you want us to do?
+Miku: I want you all to sing with me. With all of the precious thoughts and feelings that you all have.
+Kohane: Alright! That sounds like something we can do!
+Minori: Count me in! Let's sing together!
+Kanade: It's amazing how fast you both agreed to that.
+Ichika: Well, those two are quite courageous...
+Tsukasa: Well, if it's singing, then I have no issues with that!
+Tsukasa: This is a stage and there is an audience eagerly waiting for a performance!
+Kanade: Oh, this feels like deja vu.
+Ichika: I was thinking the same.
+Miku: Hehe. Alright, then let's sing♪
+
+
+21 [MUSIC] 77: Wah Wah World
+
+22 [MUSIC] 76: SEKAI
+
+23 [mc] mc_2021anniversary_14
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Minori: Hey everyone! Thank you for listening to our song!
+Ichika: I wonder if our feelings got through...
+Miku: Don't worry. I am certain that all of your feelings went through.
+Miku: Look, a new song is being born!
+Ichika: Whoa! The light...!
+
+
+24 [mc] mc_2021anniversary_15
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Kohane: Whoa!
+Tsukasa: It's...!
+Kanade: Beautiful...
+Miku: It's beautiful because it's shining with all of your thoughts and feelings. And also... Can you hear that?
+Ichika: Miku! Is this...?
+Miku: Let's sing again, shall we? All together!
+Ichika: "Yes!"
+Minori: "Yes!"
+Kohane: "Yes!"
+Kanade: "Yes!"
+Tsukasa: "Yes!"
+
+
+25 [MUSIC] 141: Gunjo Sanka
+
+26 [mc] mc_2021anniversary_16
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Tsukasa: Did you all enjoy our performance, everyone?
+Tsukasa: That's what I like to hear!
+Miku: So how are you all feeling after singing?
+Ichika: I had a lot of fun! And...
+Ichika: I felt like I was being acknowledged for all of my efforts up until today. Kind of like something was pushing me forward.
+Minori: Oh, I think I felt the same thing too!
+Kohane: Me too!
+Miku: I'm glad!
+Miku: All of you have different thoughts and feelings, but all of them are irreplaceable.
+Miku: So make sure to continue cherishing them.
+Kohane: Got it! My team and I also have an important dream we want to accomplish, so I'm definitely going to keep it dear to me.
+Ichika: A dream...
+Ichika: I too, in order to go professional with Leo/need, will make sure to never forget them!
+Minori: Me too! All in order to deliver hope to people with Haruka and the others!
+Tsukasa: I'm also going to cherish these feelings so that the others and I can keep making everyone smile with our shows.
+Kanade: For me... It's not a dream, nor is it for hope or smiles or anything like that, but...
+Kanade: In order to save the people listening to our songs, I'm going to keep facing forward.
+Miku: Great!
+Miku: SEKAI will always be here for you. So, come over to sing anytime!
+Ichika: Yes!
+(Exit: Ichika)
+(Exit: Minori)
+(Exit: Kohane)
+(Exit: Tsukasa)
+(Exit: Kanade)
+Miku: Thank you for watching over their thoughts and feelings, everyone.
+Miku: I know that the path they are on is not all fun and games, but...
+Miku: Even so... I believe that they will keep moving forward by cherishing those feelings in their heart.
+Miku: So, would you all please put your faith in them too?
+Miku: Hehe, thank you!
+Miku: I'll always be here waiting for you all in SEKAI too, so please come visit again sometime, okay?
+Miku: See you later! Bye bye!

@@ -1,0 +1,86 @@
+259 Stick to Your Faith After Show (event_110)
+
+1 [mc] mc_ev_band_15_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+Saki: It sure was great hearing Shiho's story yesterday!
+Honami: It was. We already knew she started playing the bass because of a show she saw in elementary school...
+Honami: But that was our first time hearing the full story.
+Ichika: Oh yeah... There was a period back then when Shiho would always head straight home after school...
+Ichika: Do you think that was around the time she saw Iolite's show?
+Saki: Oh, maybe! I'm pretty sure that was right around when she started playing bass!
+Honami: She must have gotten so absorbed in her bass after that show that she couldn't think of anything else.
+Ichika: Hehe, that sounds like Shiho.
+(Enter: Rin)
+Rin: Huh? Whatcha all chatting about?
+(Exit: Rin)
+(Enter: Shiho)
+(Enter: Rin)
+Ichika: Oh, Rin, and Shiho too. We were just talking about what Shiho told us yesterday.
+Shiho: You're still talking about that? Pretty sure we can move on now.
+Saki: No way, we're not even close to being finished!
+Honami: It was a real surprise to hear that you had this important moment none of us were aware of.
+Ichika: It was... By the way, Shiho, did you ever meet Sumire again after that?
+Shiho: Hmm, I wouldn't say I ever had a real conversation with her after that.
+Saki: What?! Why?
+Rin: You look up to her, right Shih? Then why not talk to her more, ask her to teach you bass, or...
+Shiho: Well, I did want to do all that.
+Shiho: But... I also wanted to be able to hold my head high.
+Rin: Hold your head high?
+Shiho: Her ability to put on such a cool performance was what made me look up to her.
+Shiho: So I decided to chase her with all I had, and not meet her again until I could be proud of my performances.
+Shiho: Though I did see her from afar during their shows and stuff, of course.
+Honami: So that's how it was...
+Ichika: You're such a stoic person, Shiho.
+Shiho: Nah, that's not true. It's partly about my image and not wanting her to see me fumbling around.
+Rin: Oh! But wait, if that's what it's about, don't you think you can go see her soon?
+Shiho: Huh?
+Rin: I mean, you're all pros now! Shouldn't you be able to go see her with confidence?
+Shiho: That's...
+Saki: Yeah, Rin might be right there! Are you able to contact her at all?
+Shiho: I should be able to if I ask my dad, but...
+Shiho: No, I'm still not going to.
+Saki: Wait, why?
+Shiho: Going pro isn't the finish line. I want to put on performances that move a lot of people's hearts... That wish is what brought me to this path.
+Shiho: Which is why I'm going to keep on making progress...
+Shiho: So I can be proud of how far I've come when I meet her again.
+Honami: Shiho...
+Rin: Ohhh! I just know I'd be jumping at the chance to go tell her I'd gone pro if I were you...
+Rin: But still! If that's what you decided, Shih, we'll support you!
+Ichika: Yeah. And we're going to do our best too.
+Shiho: Huh?
+Ichika: To help you take pride in yourself as a fully-fledged bassist as fast as possible...
+Ichika: Let's keep putting on performances that move people's hearts. Together.
+Honami: I agree completely, Ichika.
+Saki: Yeah, for sure! Let's keep doing our best together as pros!
+Shiho: You guys...
+Shiho: Thank you... I'm able to perform well because I have you. I'd be happy to keep moving forward together too.
+Ichika: Of course!
+Rin: You girls can absolutely make more music that moves people's hearts!
+Saki: Well then, shall we put that to the test right now?!
+Rin: Sounds good! I bet everyone here to visit wants to hear you perform!
+Shiho: Okay, let's do it.
+Shiho: I hope you'll all listen. I'll make this performance a moving one.
+Shiho: Here we go... purpose.
+
+
+2 [MUSIC] 383: purpose
+
+3 [mc] mc_ev_band_15_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
+Rin: Great stuff, girls☆ That performance was top-notch!
+Shiho: Thanks. You sounded great too, Rin.
+Rin: Hehehe. I was just sooo stoked to be performing with you girls!
+Honami: Thank you all for listening as well.
+Shiho: I want to move people's hearts with my music... That feeling's never changed.
+Shiho: I'm going to keep moving forward with that feeling close to my heart.
+Shiho: And I'm hoping I can keep moving the hearts of all of you cheering me on.
+Shiho: So... I'd like it if you could keep watching us.
+Rin: Okay everyone, see you later☆ Bye bye!

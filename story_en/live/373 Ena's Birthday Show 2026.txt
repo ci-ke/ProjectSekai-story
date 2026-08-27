@@ -1,0 +1,78 @@
+373 Ena's Birthday Show 2026
+
+1 [mc_timeline] mc_bd_2025ena_1
+
+(Enter: MEIKO)
+(Enter: Ena)
+Ena: Ah, there she is.
+(Enter: Mizuki)
+Mizuki: Heeey, MEIKO!
+(Enter: Kanade)
+(Enter: Mafuyu)
+MEIKO: Can I help you?
+Kanade: It's time for Ena's birthday celebration.
+Mafuyu: Everything is ready, so we came to get you.
+MEIKO: I see. Good timing.
+Ena: Good timing? What do you mean?
+Mizuki: Ah! Ena, Ena! Look over there!
+Ena: Oh...
+Kanade: It looks like everyone's here to celebrate too.
+Ena: Thanks, everyone!
+Mizuki: Look how many people showed up! Someone's popular. Hey, so, you all wanna do a birthday cheer?
+Mizuki: Sounds like a yes to me! If the birthday girl would take center stage.
+Ena: I'm going, I'm going.
+Mizuki: You too, MEIKO, line up!
+Mizuki: Is everyone ready? Here we go! One, two...three!
+Mizuki: Happy birthday! Happy birthday.
+Kanade: Happy birthday! Happy birthday.
+Mafuyu: Happy birthday! Happy birthday.
+MEIKO: Happy birthday! Happy birthday.
+Ena: Hehe, thanks!
+Ena: But it is a little embarrassing having so many people cheer for me like this.
+Mizuki: Oh, it's the rare blushing Enanan! Get your cameras ready, everyone!
+Ena: Hey, stop that!
+Ena: You know, if I'd known so many people would be coming, I would have prepared a bit better...
+Mafuyu: It's your birthday. You don't have to worry about that.
+Ena: Maybe, but I still feel like I should. Hmm...
+Ena: Oh, I know! Can I ask a favor of you all? Can you help me thank everyone for coming?
+Kanade: Sure.
+Mizuki: Well, we can't say no to the birthday girl, can we?
+Ena: How about you, MEIKO?
+MEIKO: If that's what you want to do.
+Ena: Thanks. Then I'll thank you all with a song.
+Ena: Here we go. Yokanimitorete.
+
+
+2 [MUSIC] 500: Yokanimitorete
+
+3 [mc_timeline] mc_bd_2025ena_2
+
+(Enter: MEIKO)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Ena: Thanks for listening, everyone!
+Kanade: Thank you. Thank you!
+Mizuki: Thank you. Thank you!
+Mafuyu: Thank you. Thank you!
+Ena: Did my gratitude come across to you all?
+Ena: Hehe. I'm glad.
+Ena: Your kind wishes give me the strength I need to keep on pushing with my art studies.
+Mizuki: Keep at it, Ena! Just remember to take breaks when you need 'em♪
+Kanade: Breaks, huh... If there's anything you want to do, we can go with you.
+Ena: Hmm... Then I'd like to go shopping together and hang out at some trendy cafes.
+Ena: And then at night, we can all work together on Nightcord.
+Mizuki: Huh? Is that all?
+Mafuyu: That's what we always do.
+Ena: I know. But... I really want to treasure the time we have to spend together, the four of us.
+Mizuki: I see. Sounds good. Let's keep it up, N25!
+Mizuki: I want to hang out with you all a ton too, so I'll be shooting out invitations!
+Ena: Looking forward to it.
+Kanade: Me too.
+Ena: Thanks for coming to see me today, everyone.
+Ena: I plan to keep on facing myself and my art. With Kanade and Mafuyu, Mizuki, and everyone from SEKAI too.
+Ena: So I hope you'll keep watching me.
+Ena: Okay, see you later! Bye bye!
+Kanade: See you. Bye bye!
+Mizuki: See you. Bye bye!

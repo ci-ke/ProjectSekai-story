@@ -1,0 +1,76 @@
+160 The Vivid Old Tale After Show (event_64)
+
+1 [mc] mc_ev_street_09_1
+
+(Enter: An)
+An: Ah... Ah... Okay, that's my voice warmed up.
+An: Hmm... I still have time before the others show up, so I might as well warm up some more.
+An: Come to think of it, Aunt Nagi would always sing something for me at a time like this.
+An: When I was little, she'd make all the nursery rhymes sound so cool... Hehe.
+An: Hmm, I wonder if I can sing as cool as her now?
+(Enter: Kohane)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+Kohane: Hey, An!
+An: Kohane! Hey guys!
+Toya: Sorry, were you waiting a long time?
+An: No, not at all! You're all here on time.
+An: Now that everyone's here, why don't we get started?
+Akito: Sure, but... You're more pumped than usual. What happened?
+An: Hmm, nothing happened really, just...
+An: Remember how I told you all about Aunt Nagi the other day? Being told that I'm like her sort of put me in a good mood.
+An: I always looked up to Aunt Nagi... And she always felt so beyond me somehow.
+An: But... It hit me that, to surpass RAD WEEKEND, I'm going to have to surpass even her!
+An: Just the thought of that makes me feel like I need to work even harder.
+Kohane: I see!
+Rin: If Nagi sings so incredibly, I guess it will be really hard to surpass her...
+Rin: But I think you have what it takes to pull it off, An!
+An: Huh...?
+Kohane: I agree. Your singing is truly incredible!
+An: Kohane...
+Akito: Anyway, we'll never surpass the event if we don't believe we can.
+Toya: Yes, and I'm sure the four of us can do it.
+An: Hehe... You're right!
+An: Well then, why don't we get to it? I've been itching to sing with you guys!
+Rin: Yeah, let's get started! After all, everyone's here waiting for you guys to sing.
+An: Oh yeah! Hey everyone, thanks for coming!
+An: Right then, we gotta give them our best! You guys ready?
+Kohane: "Yeah!" "You bet!" "Yes!" "Yup!"
+Akito: "Yeah!" "You bet!" "Yes!" "Yup!"
+Toya: "Yeah!" "You bet!" "Yes!" "Yup!"
+Rin: "Yeah!" "You bet!" "Yes!" "Yup!"
+An: Okay... Here we go! City!
+
+
+2 [MUSIC] 217: City
+
+3 [mc] mc_ev_street_09_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+An: Thanks for listening, everyone!
+An: While I was singing, I started feeling the urge to go see everyone from Vivid Street.
+Kohane: Hehe. You really do love them, don't you?
+Rin: Yeah! You could even feel that in your singing!
+An: Hehe, thanks!
+An: I think I get now what my dad and Aunt Nagi said back then, about "growing as singers because of this town".
+An: It's thanks to all the people around Vivid Street that I am who I am today. And they're also the reason I met all of you guys.
+An: That's why I love them so much!
+An: Here in this city, I'm going to get better and better, and then we will surpass RAD WEEKEND!
+Kohane: Yeah! All of us will together!
+Toya: You helped us learn more about Nagi and the importance of looking at the city, Shiraishi.
+Toya: There's still a lot we don't understand, but we can keep thinking it over while we improve.
+Akito: Yeah. And at our next event, we'll drive the crowd even wilder.
+An: Absolutely! We've gotta make sure it's another one for the books!
+An: And on that note, you all better keep an eye out for our next event!
+An: I'm still not on Aunt Nagi's level... But I'm gonna  give you everything I've got now!
+Rin: Me and the others should put on another event too! And we'll make it just as cool as you guys!
+An: Hehe. I look forward to it!
+An: Alright, everyone, see you again at our next show!
+An: "Bye bye!" "See you!" "Goodbye!"
+Rin: "Bye bye!" "See you!" "Goodbye!"
+Kohane: "Bye bye!" "See you!" "Goodbye!"

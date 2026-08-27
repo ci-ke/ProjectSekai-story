@@ -1,0 +1,63 @@
+374 The Stopped Hand Moves Once More After Show (event_165)
+
+1 [mc_timeline] mc_ev_night_21_1
+
+(Enter: Mafuyu)
+(Enter: Len)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Mafuyu: Here goes. Mx.Nihil.
+
+
+2 [MUSIC] 540: Mx.Nihil
+
+3 [mc_timeline] mc_ev_night_21_2
+
+(Enter: Mafuyu)
+(Enter: Len)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Mafuyu: ...
+Mafuyu: Thank you, everyone.
+Kanade: Are you feeling any better, Mafuyu?
+Mafuyu: Maybe... I think so.
+Mafuyu: But... I still don't know what I should have done.
+Mafuyu: If I had said how I really felt...
+Mafuyu: No... If I had just kept quiet...
+Mafuyu: Maybe I wouldn't have made my mom suffer.
+Len: Mafuyu...
+Mizuki: It's a hard question for sure... I can understand feeling like you have to tough it out.
+Ena: I mean, yeah. But... That doesn't mean it would have solved everything.
+Ena: If anything, I'm sure you'd just end up back where you started.
+Mafuyu: I wonder...
+Kanade: I don't think we'll find the answer immediately.
+Kanade: I don't know what the right choice was either... Or what it is now.
+Mafuyu: ...
+Kanade: But... Don't shoulder it all on your own.
+Mafuyu: Huh?
+Len: R-Right. We're here with you.
+Len: Um... Miku and the others, too...!
+Len: So... You're not alone.
+Mafuyu: Len...
+Mafuyu: Thank you.
+Mafuyu: I think I do feel a little better.
+Mizuki: Alright then, let's get right to work!
+Ena: We're almost done, so I might pull an all-nighter and finish it up.
+Kanade: I'll stay up too, then.
+Mafuyu: Okay.
+Len: D-Don't push yourselves...
+Mizuki: Hahaha, we'll be fine!
+Ena: And we'll keep an eye on Kanade too.
+Kanade: I'm being more careful now...
+Mafuyu: Okay. We'll be going now.
+Mafuyu: Len.
+Len: Huh?
+Mafuyu: Thank you. For staying with me that time.
+Len: Oh...
+Len: No problem!
+(Exit: Mafuyu)
+(Exit: Kanade)
+(Exit: Mizuki)
+(Exit: Ena)

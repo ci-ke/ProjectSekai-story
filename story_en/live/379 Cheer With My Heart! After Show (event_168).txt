@@ -1,0 +1,65 @@
+379 Cheer With My Heart! After Show (event_168)
+
+1 [mc_timeline] mc_ev_idol_21_1
+
+(Enter: MEIKO)
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Airi: Thanks for another great training session, MEIKO!
+Haruka: We really appreciate you helping us prepare a regimen.
+MEIKO: Don't mention it! For my part, it's fun to see you all improving so quickly.
+Minori: Am I improving...? I end up sore every day...
+Shizuku: We've been doing more strenuous exercises each time, so we should have more muscle and better stamina than before.
+Minori: Oh...! Alright, I'm gonna make this pain my pride and work even harder!
+MEIKO: You're brimming with motivation, Minori!
+Minori: Yeah! I mean, idols are all about heart!
+Airi: Hold on, Minori...
+Shizuku: Hehe. You're Airi's little copycat.
+Minori: Hehehe...
+Airi: Oh, speaking of heart...
+Airi: Remember how I told you guys where my motto came from?
+Haruka: Yeah. You were influenced by that idol Hiyori while watching her on TV, right?
+Airi: Right. So, I went back and watched that program...
+Airi: And it turns out, Hiyori actually got her motto from Ms. Arisawa.
+Minori: Wait, Ms. Arisawa?!
+Shizuku: What are the odds...?
+Airi: And Ms. Arisawa said she got the inspiration from her own seniors...
+Airi: I think it's an amazing thing, the way an ideal can get passed down like that.
+MEIKO: I know what you mean!
+MEIKO: Imagine some new idols following in your footsteps one day.
+Minori: Huh? I mean... That'd make me really happy, but I'm not sure we've earned it...
+Airi: Maybe not yet. But I want to be like the senior idols I admire...
+Airi: I want to be an example, live my life with heart and keep delivering hope!
+Shizuku: I agree! Me too!
+Haruka: I agree! Me too!
+Airi: On that note, I'd love to get right back to practice, but first...
+Airi: Do we have time for one song? I want to make the most of this feeling of determination.
+Minori: Oh, I wanna join!
+Shizuku: Let's sing our feelings for the audience to hear.
+Airi: Thanks!
+Airi: We'll sing and dance with all our heart to bring you hope. Keep your eyes on us, okay?
+Airi: Here we go! Eleventh!
+
+
+2 [MUSIC] 539: Eleventh
+
+3 [mc_timeline] mc_ev_idol_21_2
+
+(Enter: MEIKO)
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Airi: Thanks for listening!
+Shizuku: Thank you!
+Airi: Is everyone feeling energized?
+Airi: Hehe, glad to hear it!
+Airi: But we're gonna keep working hard to bring you even more energy during the Lumina Grand Prix.
+Airi: So, stay excited!
+Minori: Alright, let's get training!
+MEIKO: Airi's about to give a talk-show lesson, right?
+Haruka: Right. She said we'll be working on sharing personal anecdotes today.
+Airi: We're all counting on you for a real sidesplitter, Minori.
+Minori: I-I'll do my besht!

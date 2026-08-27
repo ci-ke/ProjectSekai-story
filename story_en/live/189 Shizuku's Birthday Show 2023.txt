@@ -1,0 +1,80 @@
+189 Shizuku's Birthday Show 2023
+
+1 [mc] mc_bd_2022shizuku_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Minori: Thank you for waiting! It's time to start Shizuku's birthday fan meeting!
+Shizuku: Thank you for coming today. Let's all have a wonderful time together!
+Miku: Without further ado, let's begin our first segment♪ "Just For You: Birthday Fan Letters!"
+Minori: You might guess from the name, but we're going to read out some letters sent in from fans to Shizuku!
+Haruka: We'll begin with this one from K.H., who attends a high school in Shibuya.
+Haruka: "Dear Shizuku Hinomori, best wishes on your birthday!"
+Haruka: "Seeing you inspire hope in your fans as an idol, while still being true to yourself, is a great source of encouragement for me."
+Haruka: "Please continue to be such an encouraging role model."
+Shizuku: I'm just stunned and pleased to hear such lovely words from you! Thank you very much, Haruka!
+Airi: *Cough* Many thanks to K.H. for their lovely fan letter! I'll read the next one!
+Airi: "Dearest Shizuku Hinomori, happy birthday! I took the liberty of putting together a present just for you."
+Airi: "Everything looks good on you, so I didn't need to worry whether this would suit you. It's not so much a 'design' as just a pattern, but I put a lot of thought into it."
+Airi: "If you like it, you can wear this when it gets cold out. From your adoring fan, M.A."
+Shizuku: Oh my, Airi! I heard that you'd begun knitting recently from our classmates, but is that...?
+Airi: For crying out loud, you're ruining the idea behind the segment! It's supposed to be a secret, so at least try to play along!
+Minori: Hahaha... I guess the initials are a dead giveaway who wrote them.
+Minori: Well, we have other fan letters we'd love to pore over, but first, we have a special performance for you all!
+Shizuku: Everyone! I look forward to continuing to show you all the most authentic version of myself.
+Shizuku: At the same time, I hope to also get acquainted with many new versions of myself.
+Shizuku: I'll be singing this song in that spirit. Shoujo Rei.
+(Exit: Minori)
+(Exit: Airi)
+
+
+2 [MUSIC] 169: Shoujo Rei
+
+3 [mc] mc_bd_2022shizuku_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Shizuku: Thank you for listening, everyone! And thank you for singing with me, Haruka and Miku.
+Haruka: "You're welcome!"
+Miku: "You're welcome!"
+Haruka: Well then, let's continue reading the fan letters. Minori, if you would!
+Minori: I'd be delighted! The next one begins, "Dear Shizuku, hello!"
+Shizuku: Hello to you too♪
+Minori: "You're always the first to arrive at practice and don't leave until the last second. I'm in awe of you, and I'm going to do my best to keep up!"
+Minori: "Getting to be an idol alongside someone as hardworking as you makes me so proud I could burst! Like a big balloon!"
+Minori: "I'm going to keep giving it my all too. Let's keep doing our best together!"
+Shizuku: I'm the one in awe of you, Minori. You give me so much energy and courage. Yes, let's keep doing our best.
+Minori: Let's! Last but not least, Miku!
+Miku: Okay♪ Ahem.
+Miku: "Dear Shizuku, happy birthday! You're so sweet for always looking out for the others."
+Miku: "But, for that very reason, you might sometimes end up carrying a lot on your shoulders."
+Miku: "When that happens, we'll be here to lend an ear, so never hesitate to come over to SEKAI!"
+Shizuku: Miku... Thank you.
+Shizuku: I'll be sure to come to you for advice...without relying on you too much.
+Miku: No problem!
+Shizuku: Speaking of, may I read out one last fan letter?
+Minori: Huh, another one?
+Shizuku: Dear Minori, Haruka and Airi—and Miku, who rushed here to celebrate with us—
+Shizuku: When I'm struggling or feeling lost, you're always there for me, believe in me and watch out for me. Thank you all so much.
+Shizuku: No matter what happens, I'm able to keep going and never give up because you four are by my side.
+Shizuku: I still have room for improvement, but I hope to keep improving myself as a member of MORE MORE JUMP!
+Shizuku: That way, I can help spread hope to as many people as possible.
+Shizuku: And so, I hope we continue to be idols together forever. From your fan, H.S.
+Haruka: Shizuku...
+Minori: Sh-Shizuku! Let's be idols together forever and ever and ever!
+Miku: Airi?
+Airi: No fair... You caught me off guard and now I'm a wreck.
+Airi: What do you mean? Of course we'll be idols together forever!
+Shizuku: ...! Airi...!
+Miku: Good for you, Shizuku♪
+Shizuku: Yes, it is!
+Shizuku: Once again, I'd like to say thank you to everybody.
+Shizuku: Thank you all for coming to celebrate my birthday today. Did you have a good time?
+Shizuku: Hehe, I'm glad to hear it.
+Shizuku: Thank you as ever for supporting MORE MORE JUMP!♪ Bye bye!

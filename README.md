@@ -8,3 +8,4 @@ Crawled by [ProjectSekai & BangDream story crawler](https://github.com/ci-ke/Pro
 - 自我介绍：self
 - 特殊剧情：special
 - 我的「世界」：mysekai
+- 虚拟演唱会：live

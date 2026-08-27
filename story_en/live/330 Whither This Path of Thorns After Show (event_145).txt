@@ -1,0 +1,17 @@
+330 Whither This Path of Thorns After Show (event_145)
+
+1 [MUSIC] 237: Kimi no Yoru Wo Kure
+
+2 [mc] mc_ev_night_18_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Luka)
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Luka)
+Mizuki: That was stupid...
+Mizuki: It's not like we'll ever sing together again...

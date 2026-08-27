@@ -1,0 +1,94 @@
+290 With Your Sights on Stardom, Set Sail! After Show (event_124)
+
+1 [mc] mc_ev_wonder_wl_01_1
+
+(Enter: Miku)
+(Enter: KAITO)
+(Enter: Emu)
+Emu: Ad-ven-ture! Ex-plor-ing! Off we go to find new things♪
+(Exit: Emu)
+(Enter: Emu)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Emu: Oh, Miku! KAITO! Hi there♪
+KAITO: Hello. What are you all doing here?
+Tsukasa: We're planning to go exploring the new area. We couldn't take our time when we were chasing the phoenix.
+Nene: What about you two?
+Miku: The same as you! We were taking a walk around SEKAI!
+Miku: And then we found this place!
+Rui: Oh yes, I haven't seen this place before. To think it appeared so suddenly... SEKAI is full of surprises.
+Nene: Yeah. It feels silly to say it after all this time, but it's pretty wild that we talk to plushies.
+Emu: You're right! Also... It's a wonderful place where every day's exciting!
+Tsukasa: A wonderful place... Yes, it certainly is.
+Nene: Wait, what's up?
+Tsukasa: Here in SEKAI, I've experienced so many extraordinary things.
+Tsukasa: For example, take that phoenix we chased. We met and spoke with a mythical creature.
+Tsukasa: My character Rio desperately reached out to a phoenix in that show, while I actually succeeded in touching one.
+KAITO: Tsukasa...
+Tsukasa: That phoenix represents so much. Not just my previous role, but my longing, frustration and determination in spite of it...
+Tsukasa: Even if it only exists in SEKAI, it's encouraging to know I briefly touched something that felt unreachable.
+Emu: Really?
+Emu: Y'know, I feel the same! SEKAI's given me so much!
+Emu: I get to talk to plushies and watch shows... And... I'm always being encouraged!
+Emu: Since coming to SEKAI, I've seen and done sooo many amazing things!
+Nene: Me too. I've also experienced so many life-changing things here.
+Rui: Yes. I'm just as grateful as you that we're here in SEKAI.
+Emu: Yup! So... Tsukasa!
+Tsukasa: Hm? What is it?
+Emu: Thank you for making this awesome SEKAI!
+Emu: It's made out of your feelings, and it's helped us so much!
+Tsukasa: R-Really? I didn't really do anything... So I'm not sure what to say...
+Tsukasa: However, I graciously accept your thanks! Hah hah hah hah!
+Nene: *Sigh* Going to his head as always...
+Emu: Oh, also... Miku, KAITO! Thank you to you too!
+KAITO: What?
+Emu: Both of you, as well as Rin and Len and MEIKO and Luka, help us sooo much!
+Tsukasa: You're right. It's thanks to SEKAI...and more importantly Miku and the others, that I've come this far.
+Tsukasa: You have my thanks as always, Miku, KAITO!
+Miku: Hehehe, thank you everyone! And I'm grateful you're all here making every day exciting☆
+KAITO: Hahaha, I'm feeling a little awkward. But I'm also very glad to have met you all.
+KAITO: I hope you let us keep cheering you all on from the front row as you chase your dreams.
+Tsukasa: But of course!
+Tsukasa: In fact... Why not right now?
+Emu: Yeah! Let's show appreciation for KAITO and all our other supporters with a song!
+Nene: Huh? This is so out of the blue...
+Nene: But... Oh, why not? I feel like singing anyway.
+Miku: Really?! Can I join you then?
+Rui: Of course you can. Well then, let's begin.
+Tsukasa: Yes! Here we go...
+Tsukasa: Tonal Twinkle Tetrad!
+(Exit: KAITO)
+
+
+2 [MUSIC] 411: Tonal Twinkle Tetrad
+
+3 [mc] mc_ev_wonder_wl_01_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+Miku: That was so fun! My heart was thumping and pounding with excitement!
+Emu: Hehehe, me too! Thanks for singing with us, Miku!
+KAITO: Well done, everyone. That was an excellent performance.
+Emu: Really?! Yaaay! Thank you!
+Tsukasa: Could you all feel our appreciation?
+Rui: Hehe, it would appear so.
+Nene: I'm glad...
+Tsukasa: Everyone! The four of us remain united as we pursue our dreams!
+Tsukasa: True, obstacles may hinder our path...
+Tsukasa: But as long as we're together, I know we can weather any storm!
+Nene: Aren't you being a little dramatic?
+Tsukasa: Perhaps! But moments like this call for drama!
+Tsukasa: In any case... Please continue to support us as we chase our dreams!
+Rui: Hehe, thank you.
+Emu: Okay, now let's say goodbye. All together...
+Tsukasa: Wonderhoy!
+Emu: Wonderhoy!
+Nene: Wonderhoy!
+Rui: Wonderhoy!
+Miku: Wonderhoy!
+KAITO: Wonderhoy!

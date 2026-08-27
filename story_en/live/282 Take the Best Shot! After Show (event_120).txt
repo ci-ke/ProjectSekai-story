@@ -1,0 +1,93 @@
+282 Take the Best Shot! After Show (event_120)
+
+1 [MUSIC] 213: The Vampire
+
+2 [mc] mc_ev_shuffle_42_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Haruka: Thank you for listening, everyone!
+Shizuku: You were really energetic today, Haruka.
+Haruka: Oh, really?
+Minori: Yeah! I was dancing right beside you, and I felt like you were sparkling even more than usual today!
+Minori: I couldn't help but think about cloning myself so I could cheer for you from the audience!
+Airi: We'd end up worrying about you rather than performing at that point...
+Haruka: Hehe. Actually... Something great happened, so that's probably why I was dancing with more energy.
+Miku: Something great?
+Haruka: Yeah. I told you how I helped my friend Kohane with a photo contest, right?
+Haruka: Kohane worked really hard to win those chocolates for her partner, and I got word that the gift went over well.
+Haruka: And I was just so happy for her.
+Miku: Really? I'm so happy for you and your friend!
+Minori: Me too!
+Airi: Now that you've brought it up, doing that photo contest sure was fun.
+Shizuku: Yes. It was a learning experience being the ones to help with makeup and posing this time.
+Haruka: I feel the same. Oh... I have an idea. Why don't we do each other's makeup and take photos sometime?
+Minori: What?! D-Do each other's...?!
+Shizuku: I'd love that! I'm curious to see how you all apply your makeup.
+Miku: That sounds like so much fun♪
+Airi: Hehe. I think any kind of look would suit you, Miku. I can't wait to glam you up.
+Shizuku: Oh... Everyone. If we're going to take photos, why don't we take some using chocolate?
+Haruka: Using chocolate? Like pretending we're about to eat some or biting down on a piece?
+Shizuku: Yes. Since we'll be having a shoot with props soon, I thought it'd make for good practice.
+Haruka: I see. That's a great idea, let's do it.
+Minori: Oh my gosh! I can't wait to see the photos of everyone paired with chocolate!
+Airi: You're doing it too, Minori...
+Minori: R-Right! Then I'll do some research on makeup looks and photography by then!
+Haruka: I'll need to think of what makeup looks to try on everyone too.
+
+
+3 [MUSIC] 55: Forward
+
+4 [mc] mc_ev_shuffle_42_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: *Sigh* I really sang my heart out!
+Kohane: Thanks for helping us practice, Miku.
+Miku: No problem. It's been a while since I sang with you guys, so I had fun.
+(Enter: Luka)
+Luka: Hey, you guys! We have an emergency!
+(Exit: Luka)
+(Enter: Luka)
+Toya: Luka?
+Akito: Emergency? What happened?
+Luka: So...
+Luka: The new chocolate cake MEIKO was prepping this morning is almost ready!
+Luka: That's why I came over to get you! If we go now, we'll be able to eat it the moment it's complete!
+Akito: I was a fool for asking...
+Luka: What?! You say that, but I can totally see the excitement on your face, Akito!
+Kohane: Oh, speaking of chocolate...
+An: Hm? What's wrong, Kohane?
+Kohane: Um, I touched up the photos we took on Valentine's Day when we were exchanging chocolates. So, I wanted to show them to you guys.
+Toya: You even edited the photos?
+Kohane: Yeah. I just really like them.
+Luka: Hehe. They are "good photos!"
+Kohane: Huh? Oh, y-yeah!
+An: Hold on. Was this an inside thing between you two?
+Kohane: So, I actually asked Luka for help when we were doing the photo contest.
+Luka: Yup. We tried to figure out what makes a photo "good" in her eyes!
+Akito: Really? So, what'd you land on?
+Kohane: Um... I'd say photos that capture moving moments and express them to the viewer. Like moments when I felt happy, or saw something beautiful.
+Miku: I see. That really suits you, Kohane.
+Kohane: Hehehe.
+Kohane: That's what made me want to keep taking lots of photos of precious moments.
+An: Right... That just means we'll need to spend lots of time together and make lots of memories so you can snap those photos!
+Kohane: An...
+Toya: I agree with Shiraishi.
+Toya: Thanks to the photo shoot, I also realized that I'd like to make more memories that will put smiles on our faces just from thinking about them.
+Kohane: Yeah. I'd like that too!
+Luka: Okay, then let's take action right now! First step is eating MEIKO's cake!
+(Exit: Luka)
+(Exit: Akito)
+(Exit: An)
+Miku: Someone's in a good mood.
+Kohane: Hehe.
+(Exit: Kohane)
+(Exit: Miku)
+(Exit: Toya)

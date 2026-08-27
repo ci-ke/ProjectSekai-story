@@ -1,0 +1,94 @@
+70 Ena's Birthday Show 2022
+
+1 [mc] mc_bd_2021ena_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: MEIKO)
+Rin: Oh. It's Ena's birthday.
+Miku: Yes. I think everyone will be here soon. So why don't we celebrate together?
+MEIKO: I'd rather be in a position where I can watch over those girls, so I'll be over there watching them.
+MEIKO: Tell them I said hello. See you later.
+Rin: Oh... There she goes...
+Miku: What should we do, Rin?
+Rin: Huh? What do you mean?
+(Exit: MEIKO)
+(Enter: Ena)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Mizuki)
+Kanade: Hello Miku, Rin.
+Ena: Rin, you're here.
+Rin: I just happen to be here talking to Miku.
+Ena: Alright, alright. You really are dishonest.
+Rin: But it's the truth.
+Mizuki: In that case, maybe I should invite you again!
+Mizuki: Rin. We're going to celebrate Ena's birthday♪ So why don't you join us!
+Rin: Hmmm... Well, I didn't have anything to do today so might as well.
+Ena: I knew it. She really is dishonest.
+Rin: Hmmm.
+Kanade: Well, let's get started. I think everyone is waiting for us.
+Ena: Yes.
+Mizuki: Sorry I took so long, everyone! Are you guys ready?
+Mizuki: Alright, here goes!
+Mizuki: Happy birthday, Ena!
+Kanade: "Happy birthday!"
+Mafuyu: "Happy birthday!"
+Miku: "Happy birthday!"
+Rin: Happy birthday.
+Ena: Thank you. And thank you too, everyone.
+Rin: If this is it, I'm going to go...
+Mizuki: It's not over yet! Next up is a birthday tradition! It's time for a song!
+Mafuyu: Oh, that was a tradition.
+Mizuki: We sang it at Mafuyu's birthday, and at Kanade's, so of course it's a tradition!
+Kanade: Hehe. I see.
+Kanade: What do you think, Ena?
+Ena: What? Hmm...
+Ena: I guess you're right. Shall we sing?
+Mafuyu: You're unusually honest...
+Ena: Really? Though, I didn't want to hear that from you...
+Ena: But listen, there was a time before when I almost gave up illustrating, didn't want to think about it, and I even ran away to SEKAI, right?
+Ena: At that time, I was so touched when Kanade wrote the melody and Rin delivered it to me...
+Ena: I realized that music really is amazing.
+Kanade: Ena...
+Ena: So that's when I thought singing together isn't so bad.
+Mafuyu: I see...
+Mizuki: Got it♪ Then let's all sing!
+Ena: You too, Rin.
+Rin: I guess I don't have a choice...
+Ena: Then let's sing with all our might! We hope you all enjoy it!
+Ena: Close to gray!
+
+
+2 [MUSIC] 90: Close to gray
+
+3 [mc] mc_bd_2021ena_2
+
+(Enter: Kanade)
+(Enter: Rin)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Mafuyu)
+(Enter: Miku)
+Ena: *Sigh* Wow, what a strange feeling.
+Ena: When I sing that song, I can somewhat accept those feelings of frustration and annoyance.
+Mafuyu: That's good to hear.
+Ena: Yes, thanks.
+Mizuki: Yay♪ Did you guys have fun?
+Kanade: ...
+Ena: Hm? What is it, Kanade?
+Kanade: I was wondering if you're really okay with just this, Ena.
+Ena: I am. This is as far celebrating goes for N25, isn't it?
+Ena: All that's left is to go home and eat cheesecake and then I'll be satisfied!
+Mizuki: Oh, you're going to get your brother to buy it again, aren't you?
+Ena: No, I'm not. My mom is the one who buys the cake on my birthday.
+Mafuyu: Either way, you're still getting someone to buy it.
+Ena: Stop making me sound bad. It's fine! It's my birthday!
+Kanade: Hehe. That's true.
+Ena: Thanks for hanging out with us, Miku, Rin.
+Miku: Yes. It was fun.
+Rin: I guess it helped pass time.
+Ena: Hehe. Whatever you say.
+Ena: Thanks for today too, everyone!
+Ena: When I sing here, I really feel like I'm being supported... So I'm pretty happy about that.
+Ena: If you ever feel like it, please come and listen to us again. See you soon.

@@ -1,0 +1,136 @@
+103 Halloween Show 2022
+
+1 [mc] mc_2021halloween_1
+
+(Enter: Luka)
+Luka: Welcome, everyone. Are you all enjoying Halloween?
+Luka: I see. I'm glad. Well then, I think I might join in the fun with you all as well.
+Luka: ...Oh? Were you all interested in what costume I'll be wearing?
+Luka: Well, perhaps... Hehe, that's something for you all to look forward to.
+Luka: Oh, that's right. While we wait for Miku and the others to get here, would you like to take a quick peek at another SEKAI?
+Luka: Seems like you are all curious too. In that case, there's no time to waste.
+
+
+2 [mc] mc_2021halloween_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Luka)
+Toya: I see that everyone here is dressed.
+Kohane: We sure are. I'm excited about the Halloween party later.
+Rin: Same here! We did practice a lot for this too!
+Akito: I thought we were gonna sing at an event or something, not be the entertainment for a party.
+An: Aww, come on! This'll totally hype up the Halloween party!
+Toya: More importantly, if we can get Miku and the others to listen and give us feedback, then we can apply it at practice later.
+Kohane: Hehe. Two birds with one stone!
+Akito: Yeah, I guess.
+Luka: Heeeeey you guys!
+Rin: Oh, Luka! I didn't know you were nearby!
+Luka: I was just passing. Besides, it's Halloween, right? I wanted to join in the fun too!
+Luka: You're all even dressed up! You guys look great! Are you gonna perform or something?
+Kohane: Yes. We're going to have a Halloween party later, so we will be performing for everyone there.
+Rin: Oh. Rather than rehearsing, I was actually thinking we should sing a song instead. Wanna watch?
+Rin: Besides, look!
+Rin: Heeey! Can you guys hear us?
+Akito: Whoa, it got crowded all of a sudden huh?
+Toya: It sure did. Are you all here to celebrate Halloween with us too, everyone?
+An: Haha, I guess you were right about that! Looks like we'll have to entertain them with our song!
+Luka: Then, I think I'll join the audience and let myself be entertained too.
+Kohane: Okay!
+Kohane: Alright, let's go!
+
+
+3 [MUSIC] 133: Devil's Manner
+
+4 [mc] mc_2021halloween_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Luka)
+Luka: You guys were amazing! That had a dark, but nice feel to it too!
+Toya: Thank you, Luka.
+Toya: I think we're really starting to get better at singing these kinds of songs.
+Akito: Yeah. We've got a slightly wider scope for our performances now.
+An: Sure do!
+An: Did you all have a fun time, everyone?
+Kohane: Hehe, that's good. I'm glad you all enjoyed it.
+Rin: Alright! Let's go show this to Miku and the others!
+Kohane: "Yeah!"
+An: "Yeah!"
+Akito: "Yeah!"
+Toya: "Yeah!"
+
+
+5 [mc] mc_2021halloween_4
+
+(Enter: Luka)
+Luka: I'm back. Hehe, that was an amazing show, wasn't it?
+Luka: All that's left is our own party. I think Miku and the others should be here soon, though...
+(Enter: Rin)
+(Enter: Len)
+Len: Oh, Luka! We found you!
+Rin: "Trick or treat!"
+Len: "Trick or treat!"
+Luka: Oh dear... I'm in trouble... I don't have any snacks right now.
+Rin: So that means, we can play tricks on you all we want!
+Luka: I guess that would be the case.
+Luka: Oh. How about I give you plenty of snacks later in exchange for you two to not play tricks on me?
+Len: Whaaaaat. That was an option?
+Rin: But, if she's going to give us a LOT of snacks, then maybe we should take the offer?
+(Enter: Miku)
+(Enter: KAITO)
+(Enter: MEIKO)
+MEIKO: Oh, Rin, Len. You two are already here.
+Miku: Sorry for keeping you waiting too, Luka.
+Luka: It's alright. I've just returned from checking SEKAI with everyone here anyway.
+KAITO: I see. Are the others having a fun Halloween?
+Luka: Yes. They were all dressed up and getting ready to sing at their Halloween party.
+Len: Oh, how nice! Let's do that too!
+Rin: Yeah! Can we, can we?!
+Luka: In that case, just like the others in SEKAI, how about we get everyone to listen to a song that we've been working on?
+MEIKO: That's a great idea! That song would be perfect for this too!
+KAITO: Oh, you mean that song you've all been practicing? That's right, I don't think we've performed that song to everyone here yet.
+Miku: Great! Then it's settled!
+Luka: Alright, then let's get changed and perform, shall we?
+Luka: Please join in the fun too, everyone. Well then, here we go!
+
+
+6 [MUSIC] 8: Time Machine
+
+7 [mc] mc_2021halloween_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Did you all have a fun time, everyone?
+MEIKO: That's good! Seems like they enjoyed it!
+Rin: We did it, Len!
+Len: Yeah!
+Rin: "Yay!"
+Len: "Yay!"
+KAITO: Good work, everyone! Seems like your practice really paid off.
+Miku: Thanks! But it wasn't very Halloween-y, now that I think about it.
+MEIKO: But, everyone had a good time, so I think this works too, don't you think?
+Luka: That's true.
+Luka: Even though it was only for a short time, I had a lot of fun with you all.
+Luka: While we still have some time, let's all enjoy Halloween to the fullest. Oh, but make sure to bring some snacks too, okay?
+Len: That's right, Luka. Don't forget to give us the snacks you promised in exchange for no pranks!
+Luka: Yes, of course. I don't have snacks with me right now, but I actually prepared a lot of them just for today.
+Rin: Really?! I can't wait.
+Luka: Hehe. Well then, everyone...
+Miku: "Happy Halloween!"
+Rin: "Happy Halloween!"
+Len: "Happy Halloween!"
+Luka: "Happy Halloween!"
+MEIKO: "Happy Halloween!"
+KAITO: "Happy Halloween!"
+Luka: See you next time!

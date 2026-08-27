@@ -1,0 +1,119 @@
+183 Screaming?! Welcome to the Forest of Wolves! After Show (event_75)
+
+1 [mc] mc_ev_shuffle_25_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Luka)
+Minori: Ahh! The School Festival was so much fun!
+Haruka: Each and every class really pulled out all the stops.
+Miku: Hehe, sounds like a lot of fun! Please do tell me more.
+Luka: I'm also curious to know.
+Shizuku: Er... I don't know where to start. There were stalls and plays...
+Haruka: Airi and Shizuku's sweets stall really hit it big. I heard everything was already sold out by the end of the second day.
+Airi: Yeah, but we couldn't have done it alone! Getting those stellar reviews meant all our hard work really paid off!
+Airi: Hey, let's not forget about your class's animal cafe, Haruka! That kitty castella cake of yours really hit the spot!
+Minori: Although nothing can compare to witnessing Haruka in cat ears!
+Airi: You've said that for the hundredth time now...
+Minori: I really mean it! I swear she was like a beacon of cuteness that engulfed the entire room in a heavenly light!
+Luka: Hehe. When it comes to Haruka, your eyes always gleam with adoration.
+Haruka: Aha, I don't know what to say... Thank you.
+Minori: G-Gah! H-Harukaaa...!
+Airi: Okay, okay, take a deep breath now.
+Shizuku: That aside, let's take a moment to appreciate the Haunted House that Minori's class did. Talk about a crowd-pleaser!
+Airi: Yeah! Before I knew it, I found myself going in for round two!
+Minori: Hehehe. Happy to hear it— Oh! Speaking of, I actually have you guys to thank for that, too!
+Shizuku: Huh? Us too?
+Minori: Yes! Brainstorming ideas for the haunted house with my class reminded me of our brainstorming sessions as a band. Then, the ideas just started flowing.
+Minori: I guess working with you all has made me more of an idea person, so thank you!
+Haruka: Hehe, you're welcome, but I think the person you should really thank is yourself.
+Airi: Look at you, Minori! Your true strengths are really shining through!
+Minori: I guess so! Singing and dancing aside, I'm starting to learn that there are many more ways to deliver charm and cheer to a crowd!
+Minori: And... I'm gonna do my best to master them!
+Airi: Alright, that's the spirit! Keep that energy up 'cause it's time to perform!
+Shizuku: Right! Which song should we start with?
+Minori: Are you thinking what I'm thinking? It's time to lay those cat ears to rest and summon bloodsucking Haruka from the grave!
+Haruka: It sounds scary when you put it like that but... I like that idea. Shall we?
+Minori: Yeah! Let's do it!
+Minori: The Vampire!
+(Exit: Luka)
+
+
+2 [MUSIC] 213: The Vampire
+
+3 [mc] mc_ev_shuffle_25_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Luka)
+Minori: Yay! We nailed that dance!
+Minori: Hehehe, I guess the school festival hype still hasn't worn off!
+Minori: I wonder what Kohane's doing now? She's probably practicing with the others...
+
+
+4 [mc] mc_ev_shuffle_25_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+Rin: Really! You were in the school paper, Kohane?!
+Kohane: Y-Yes...
+Akito: Well, you're bound to raise a few eyebrows looking like that.
+Toya: I'd say it's harder to not cover such an outlandish story.
+An: I-I'm sorry, Kohane. If it wasn't for me running so chaotically—
+Kohane: Hey, it's not your fault, An! I'm just surprised that this blew up the way it did!
+(Enter: Miku)
+Miku: Ah, so this is where you all were.
+Kohane: Oh, Miku! Is everything okay?
+Miku: Len's been searching for Rin and it's driving him mad. He said, "real mean of her to slip away and go to the festival without me!"
+Rin: Oof...
+Akito: I had a feeling this would happen.
+Rin: Hey, Miku. What if I told him all about the festival?
+Miku: I'm not sure about that... Wouldn't that just add more fuel to the flame?
+Toya: Hearing about the amazing school festival he didn't get to go to would just make him feel like he missed out even more.
+An: Ahaha, I guess the best we can do is just apologize for not inviting him.
+An: Things may not have all gone to plan, but boy was it fun. I'd say it was on par with ours.
+An: So, thank you, Kohane!
+Kohane: No problem!
+Kohane: Hehe, now this has really got me into the singing mood!
+An: Really? Me too! So shall we?
+Rin: Hey, count me in too! There's no holding back at times like this!
+Miku: In that case, I might as well jump on the bandwagon!
+Kohane: Okay, everyone ready? PaⅢ.SENSATION!
+
+
+5 [MUSIC] 195: PaⅢ.SENSATION
+
+6 [mc] mc_ev_shuffle_25_4
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Akito)
+(Enter: Toya)
+Kohane: Hehe, wow, I feel like the adrenaline still hasn't worn off!
+Kohane: Ah, are you guys feeling it too? I hope so!
+Toya: I did feel more energy and life in that performance.
+An: Yeah! Who knew having a ball at the school festival would have its aftereffects?
+Akito: I guess there's some sort of connection... Well, sometimes a change of pace is worth it.
+Miku: Oh, Rin. It looks like Len is heading our way.
+Rin: What?! No way! Uh-oh, he looks mad. I've gotta go, buh-bye!
+(Exit: Rin)
+Kohane: Rin, wait!
+(Enter: Len)
+Len: Rin! Get back here now! I can't believe you snuck off without me!
+Kohane: "Haha!" "Hehe."
+An: "Haha!" "Hehe."
+Akito: "Haha!" "Hehe."
+Toya: "Haha!" "Hehe."
+Miku: "Haha!" "Hehe."
+(Exit: Len)

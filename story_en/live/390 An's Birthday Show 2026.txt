@@ -1,0 +1,78 @@
+390 An's Birthday Show 2026
+
+1 [mc_timeline] mc_bd_2025an_1
+
+(Enter: Kohane)
+(Enter: Rin)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+An: Hey, so, can't we go yet? I really wanna see the plaza!
+Akito: They just told us they're still getting ready. Can you stop bouncing off the walls?
+Toya: I understand how you feel, but it's only a little longer. Let's try to be patient.
+An: Okaaay, fine.
+Kohane: You're the one who planned this party, right, Rin?
+Rin: That's right! With help from Len and the others, I'm giving An the present of the best event ever!
+An: An event just for me! I'm so excited.
+An: So what kind of event is it? Can't you give me just a tiny little hint?
+Rin: Well, it's an event where teams of two will face off! And we're currently making a biiig stage for it in the plaza!
+Toya: Teams of two will face off...interesting.
+Rin: Right?♪ We'll decide the pairs by lottery! At first we were going to get An to be in the audience and sing for her...
+Rin: But then Miku said "An will definitely want to sing too!" So we added your name to the lottery too!
+An: Hahaha! Miku knows me so well!
+An: Still, this restless feeling reminds me of how it feels when Vivid Street celebrates my birthday.
+Kohane: The whole town?
+An: Yeah! I think I've mentioned it before...
+An: Every year on my birthday, everyone gets together and we hold a big ol' singing tournament together.
+An: So when I wake up on my birthday, I always feel restless and excited like this.
+Toya: Everyone on Vivid Street really loves you, Shiraishi. I bet everyone goes all-out, so that tournament must be a sight to see.
+Akito: For sure. But...
+Akito: I bet today's event is going to be pretty good too. I mean, you all seem pretty fired up.
+Rin: Of course we are! We've been practicing. I'd say we might even do better than An today!
+An: Oh, really? You're on, then! I'm not going easy on you!
+Rin: Okay! Make sure you cheer us on, everyone!
+An: Oh, everyone! You're here! Thanks for coming!
+Toya: I know. Since everyone's here, shall we wish Shiraishi a happy birthday?
+Kohane: Yeah! I'd like to that too!
+Rin: Okay, here we go! One, two, three... Happy birthday, An!
+Toya: Happy birthday! Happy birthday.
+Akito: Happy birthday! Happy birthday.
+Kohane: Happy birthday! Happy birthday.
+An: Thanks so much, everyone! I'm so happy!
+An: Since you're here, I'd love to pay you all back in some way...
+An: Hey, I know! Guys! You wanna sing a bit before the event?
+An: When I say thank you, I like to do it with a song!
+Toya: Yes, that sounds good.
+Akito: Might as well get a warm-up in, sure.
+An: Okay, it's settled! We'll sing... Well, what else could it be?
+An: Here we go, everyone! City!
+
+
+2 [MUSIC] 217: City
+
+3 [mc_timeline] mc_bd_2025an_2
+
+(Enter: Kohane)
+(Enter: Rin)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+An: Whew, that felt great! Thanks for rocking along, everyone!
+Kohane: You were on fire, An!
+Rin: It was so much fun to sing with you!
+An: Really? Great to hear!
+An: Thanks for your ongoing support, you guys! We're gonna stand on top of the world, so I hope you'll...
+An: No, I promise we'll bring you all along with us!
+An: We'll raise the heat up even higher and take you even further than my dad's event did!
+An: Let's see beyond the horizon, together!
+Kohane: I'll sing with everything I've got, too!
+Akito: We're not slowing down until we're at the top.
+Toya: Right. But before that, we still have an event to look forward to today. Don't we?
+Rin: Oh, right! I think it should be just about ready, so let's go!
+An: Okay! Alright, we'll be going now!
+An: See you all later! Bye bye!
+(Exit: Rin)
+(Exit: An)
+(Exit: Kohane)
+(Exit: Toya)
+(Exit: Akito)

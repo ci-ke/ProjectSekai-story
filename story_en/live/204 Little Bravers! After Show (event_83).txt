@@ -1,0 +1,82 @@
+204 Little Bravers! After Show (event_83)
+
+1 [mc] mc_ev_band_12_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Honami: Hehe. We were able to finish strong this time, too!
+Ichika: Yeah... After playing over and over this many times, we've gotten better at playing consistently.
+Saki: Mhm! Like in the second half, it felt like everyone was really getting into it. It was so awesome!
+(Enter: Miku)
+Miku: Nice work, girls.
+(Exit: Miku)
+(Enter: Miku)
+(Enter: MEIKO)
+Miku: Another fantastic performance.
+MEIKO: It was really great. You maintained your focus until the very end.
+Shiho: Thank you.
+Shiho: At one point I thought it might not work out... But we've finally come this far.
+Saki: Cause we really knuckled down and gave it everything we got!
+Ichika: Yeah, you're right. But... I think Honami was our MVP this time around, don't you?
+Honami: M-MVP? No, not at all...
+Saki: C'mon Hona, what are you talking about?!
+Saki: If it wasn't for you, we totally would've kept trying to do anything and everything until we keeled over!
+Ichika: Keeled over...? Actually, yes, that sounds about right.
+Shiho: If we want to make it as pros, we'll have to think up ways that we can put all of our energy toward what's most important to us.
+Saki: Mhm! And... We've gotta include enjoying ourselves in that, too!
+Honami: Hehe. Yes, we do!
+Honami: Let's do our best so that we can keep giving performances that touch people's hearts!
+Honami: Oh, actually... Can I ask something of you?
+Miku: Hm? What is it, Honami?
+Honami: It's kind of hard to say this because we just finished our run-through, but...
+Honami: Um, could we do one more song? I just really feel like playing together.
+MEIKO: Haha! You really are tough, Honami.
+Honami: Huh? A-Am I?
+Ichika: Yeah. And you're reliable, too. I already thought that before, but...
+Ichika: I felt it even more strongly after what happened this time. And on top of that, you were really cool, Honami.
+Honami: Y-You think so...?
+Shiho: Well, I'm down to play one more song.
+Saki: Me too! Besides, we should be practicing a whole lot anyway!
+Miku: In that case, I think I'll join you. After listening to you girls perform, I'm feeling pretty restless myself.
+Honami: Okay. Well then... Let's go, everyone!
+Honami: Teo!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 3: Teo
+
+3 [mc] mc_ev_band_12_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: MEIKO)
+Honami: Huff... My arms are at their limit...
+Honami: Still... That was fun!
+Honami: Did our performance resonate with all of you?
+Honami: Hehe, thank you! I'm so happy!
+Miku: You performed well, Honami. It was really easy for me to play because the drumming was so stable.
+Honami: Miku... Thank you.
+Honami: But... I want to do more and be able to do more.
+Honami: I want to get better so we can sign with a label, and...
+Honami: I want to be able to propel everyone forward with my drumming.
+Shiho: Hehe. We're counting on you, Honami.
+Honami: Right...! Oh, I almost forgot!
+Ichika: Huh? What is it?
+Honami: Kohane messaged me saying that she's finished designing our flyer. I'd better check to see how it turned out.
+Saki: What, really?! I wanna see too!
+Miku: I'd like to know how it turned out as well.
+Honami: Okay then, shall we all look at it together? My phone is in my bag, so I'll go back to the next room and get it.
+Ichika: Oh, then let's all go over there together. We should be heading home soon anyway.
+Saki: Mhm, true that! Okay then, let's depart on our journey to the next room!
+Shiho: That's a bit of an exaggeration...
+(Exit: Ichika)
+(Exit: Shiho)
+(Exit: Honami)
+(Exit: Saki)
+(Exit: Miku)
+(Exit: MEIKO)

@@ -1,0 +1,78 @@
+164 close game/OFFLINE After Show (event_66)
+
+1 [MUSIC] 69: Fragile
+
+2 [mc] mc_ev_shuffle_22_1
+
+(Enter: Akito)
+(Enter: Toya)
+Toya: Phew... Thank you for doing this with me before practice.
+Akito: Don't mention it. I wanted to stretch my vocal cords anyway.
+Akito: But more importantly, you went hard out today. Like, you sounded a lot more lively...
+Toya: That's probably because tomorrow is the day of that event. I think my excitement came through in my singing.
+Akito: That's what I thought. Don't make it a repeat of the day before we went camping and get some sleep.
+Toya: You're right. I should take extra precautions.
+Toya: Speaking of which, we may see Kusanagi and Otori at the venue. I wonder if Tsukasa and Kamishiro will be there too.
+Akito: Ugh... Probably. I hope we don't though.
+Toya: Why is that? Since we will all be there anyway, I'd like to greet them. I'd also like to give my thanks to Kusanagi and Otori.
+Akito: Well, I get that you want to do that but, aren't you in the same class as Kusanagi? You can tell her thanks whenever.
+Toya: Oh, that's true.
+Toya: I've never really talked to her in our classroom before, so I just assumed that I had to thank her at the venue.
+Toya: I guess this means that we'll be able to talk about games at school sometime.
+Akito: This guy... But, at least you have a gaming friend now.
+Akito: Oh, it's almost time. Let's head over.
+Toya: Yes, let's.
+Toya: I'm looking forward to tomorrow.
+(Exit: Akito)
+(Exit: Toya)
+
+
+3 [MUSIC] 68: Dance Robot Dance
+
+4 [mc] mc_ev_shuffle_22_2
+
+(Enter: Miku)
+(Enter: Emu)
+(Enter: Nene)
+Miku: Nene! Emu! That was sooooooooo much fun!
+Emu: Yeah☆ Singing all together really is so wonderhoy!
+Nene: Yeah, I guess so...
+Miku: Hehe♪ You're smiling a lot more than usual today, Nene☆
+Nene: Huh? R-Really?
+Emu: Yeah! That's because we get to watch the show at the Game Expo tomorrow! It's gonna be super fun and exciting☆
+Miku: Oh, that's right! Tsukasa and Rui looked so happy when they congratulated you two!
+Nene: Yeah, they did. We made them handle the prop all on their own so I'm glad we pulled our weight by winning those tickets.
+Nene: But...the gaming tournament was really fun. I didn't know that Aoyagi was good at games too.
+Emu: He was so good at Puyo Puyo! I wanna play with everyone again sometime!
+Nene: Yeah. I want to win next time, so I better go practice at the arcade.
+Emu: Oh, can I come too! I wanna practice playing with you, Nene!
+Nene: Sure. I mean, we did get one-year all-you-can-play passes.
+Emu: Yay! I get to play all the games with Nene☆
+Miku: That sounds like so much fun! I wanna play too!
+Nene: Oh... It might be a little difficult to play the games at the arcade, but I think I have a few games for a portable console. I'll have a look for them later.
+Emu: Then that way everyone in SEKAI can play games too☆
+Miku: Yay! Thanks, Nene!
+Emu: Alright, next time, let's have a gaming tournament in SEKAI!
+Nene: Sounds good. I can't wait.
+Emu: Then we can form a team with the three of us!
+Miku: Yeah☆ And we'll definitely win too!
+Nene: Well... If our opponents are Tsukasa and the others, then I think we could. But if it turns out KAITO is secretly really good or something...
+Nene: Hehe...
+Miku: Hehe. I can't help but smile when you're smiling Nene☆
+Emu: Me too!
+Nene: What? A-Alright, that's enough. Stop staring at me...
+Nene: I've only ever played games on my own, but... I realized that it's pretty fun playing with people too.
+Nene: It'd be nice to play together again sometime.
+Emu: Hehe☆ I'll always play with you, Nene!
+Miku: Me too! Me too! And I'm sure everyone who came here today thinks the same too☆
+Nene: Oh...
+Nene: Thank you for always being here, everyone.
+Nene: Um... I think it'll be a little difficult to do PvP with you all, but...
+Nene: If there's an opportunity, then I'd like it if we could play together.
+Emu: Yeah and I'm definitely not going to lose☆
+Nene: Hehe. Alright then, let's meet again at our next show. Bye bye.
+Miku: Bye bye!
+Emu: See you next time!
+(Exit: Nene)
+(Exit: Miku)
+(Exit: Emu)

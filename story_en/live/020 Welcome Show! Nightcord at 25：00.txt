@@ -1,0 +1,71 @@
+20 Welcome Show! Nightcord at 25:00
+
+1 [mc] mc_release_06_1
+
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Miku)
+Kanade: I thought I might find you here.
+Mafuyu: Kanade and Miku. Why are you here?
+Kanade: You seemed a bit out of it when we talked on Nightcord, so I was worried.
+Mafuyu: I'm fine. Everything is the same as always.
+Mafuyu: I went to school, talked with my friends and teachers, and had dinner with my parents at home.
+Mafuyu: Then I went online and we made songs together.
+Mafuyu: Yes. Same as always. But...
+Kanade: But...something didn't quite feel right?
+Mafuyu: That may be it. But, I don't know for sure.
+Miku: Maybe...a song will help.
+Miku: By singing out loud the feelings you can't put into words.
+Kanade: A song, huh. I don't know if that'll work for us, though. What do you think, Mafuyu?
+Mafuyu: I don't mind trying.
+Kanade: Okay. Then let's sing together.
+
+
+2 [MUSIC] 67: Jishoumushoku
+
+3 [mc] mc_release_06_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Ena)
+(Enter: Mizuki)
+Ena: There they are. Kanade, Mafuyu, it's already almost 25:00, you know?
+Mizuki: We were worried because neither of you were signed into the chat.
+Miku: Sorry. We were just singing.
+Mizuki: Huh? Singing? The three of you?
+Miku: Yes. We thought that a song might help us work out whatever was bothering Mafuyu.
+Mizuki: Huh. In that case, can we join in on the next song?
+Ena: Excuse me? By "we," do you mean I have to join too?
+Miku: Okay. Thank you. Can they join us, Mafuyu?
+Mafuyu: Sure. Whatever...
+Kanade: Thank you, Ena and Mizuki. Let's sing again.
+
+
+4 [MUSIC] 60: Composing the Future
+
+5 [mc] mc_release_06_3
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Ena)
+(Enter: Mizuki)
+Ena: What are those lights over there? They're swaying and sparkling so brightly. Were the lights always there?
+Miku: Those are feeling sparks.
+Miku: Maybe your song has reached someone out there through SEKAI.
+Kanade: I see... And if those people who heard our song felt some relief from it, then maybe it was worth it.
+Miku: How do you feel, Mafuyu?
+Mafuyu: Nothing's changed.
+Kanade: I see...
+Mafuyu: That was all for nothing.
+Ena: Excuse me? We didn't go along with the song just to hear you put us down like that.
+Mizuki: Calm down! At the very least, I had a lot of fun singing together with everyone♪
+Kanade: Mafuyu... I don't think it was all for nothing.
+Kanade: It wasn't enough this time, but I know music is important to you.
+Kanade: I'll keep composing. So let's sing together again, when we have another chance to.
+Mafuyu: ...Okay.
+Mizuki: Hey, shouldn't we be heading back soon?
+Miku: See you later, everyone.
+Kanade: See you later, and thank you, Miku.
+Kanade: Everyone else, see you on Nightcord.

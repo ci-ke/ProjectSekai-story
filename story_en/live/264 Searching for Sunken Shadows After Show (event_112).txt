@@ -1,0 +1,78 @@
+264 Searching for Sunken Shadows After Show (event_112)
+
+1 [mc] mc_ev_night_wl_01_01
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Huh? A sprout...?
+Miku: Yes. Something that looked like a plant's sprout started growing in SEKAI.
+Mizuki: Really? I didn't think any plant life would ever grow over there.
+Ena: Well, I guess it's not so strange since a lake appeared too.
+Miku: It's small and cute.
+Kanade: I see. Let's go over and take a look later.
+Mafuyu: Okay.
+Mizuki: But this SEKAI sure is changing. It really hasn't felt so empty anymore.
+Ena: Not to mention that this area came out of nowhere too.
+Mizuki: Yeah! That was a real surprise.
+Kanade: I wonder if this was also born from Mafuyu's feelings.
+Miku: I think so. But...
+Miku: Kanade, Ena, Mizuki... I think you all had a part in it too.
+Ena: We did?
+Miku: Yes. Because... Before you all came, it was only me and Mafuyu.
+Miku: But now... We have Rin and the others. And more things have been born into SEKAI.
+Miku: I think you've all affected Mafuyu in many ways.
+Kanade: I see...
+Miku: Hey... Could we sing together?
+Ena: What?
+Miku: I want to tell you all how I feel right now.
+Mafuyu: Miku...
+Kanade: Yes, let's do that.
+Mizuki: Sounds good! I wonder what song we'll be doing!
+Miku: Okay, here we go. Twilight Light.
+
+
+2 [MUSIC] 384: Twilight Light
+
+3 [mc] mc_ev_night_wl_01_02
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Kanade: Thank you, Miku. Something about that felt so warm...
+Ena: It's like I know that someone's watching over us... And that none of us is alone.
+Mizuki: You said it!
+Mizuki: How was it for you, Mafuyu?
+Mafuyu: *Nod*
+Mafuyu: I feel the same.
+Mafuyu: There's still a lot I don't understand and a lot that I don't want to think about...
+Mafuyu: My heart still gets cold, but...
+Mafuyu: If I'm with Miku and the others, and all of you... I think I can eventually find who I truly am.
+Miku: Mafuyu...
+Miku: I'm glad to hear that.
+Miku: We'll always be here waiting for you.
+Miku: So if you're ever troubled or in pain... And you want to talk to someone...
+Miku: Please feel free to come to us any time.
+Mafuyu: Thank you...
+Mizuki: Oh, I almost forgot! Let's go check out that sprout!
+Ena: Sounds good. Miku, could you show us the way?
+Miku: Okay, sure.
+Kanade: Come with us, Mafuyu.
+Mafuyu: Okay, I will.
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Mizuki)
+Miku: Thank you, everyone...
+Miku: For always watching over them.
+Miku: They're all still looking for something... So they might feel troubled or lost at times...
+Miku: So...
+Miku: I hope you'll watch over them with me.
+Miku: Please come again.
+Miku: Ah... Okay.
+Miku: See you next time.
+(Exit: Miku)

@@ -1,0 +1,69 @@
+43 Len's Anniversary Show 2021
+
+1 [mc] mc_bd_2020len_1
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Hello everyone, and welcome. You're here to celebrate Len's anniversary for him, right?
+Luka: There's been a problem. We were going to make this a surprise party, but...
+MEIKO: Len's been restless all day because he's expecting us to surprise him.
+Miku: Yes. And that's making it very hard for us to find the right timing to catch him by surprise.
+KAITO: I have an idea! Let's ask him to sing a song for those who have gathered here today. We'll make it sound like we want him to show off how cool he is when he sings!
+KAITO: I'm sure he'll forget all about the surprise while he's singing!
+Rin: Sounds good to me!
+MEIKO: Yes!
+KAITO: Will you all help us too?
+KAITO: Thank you! Okay, let's go look for Len!
+(Exit: Miku)
+(Exit: Rin)
+(Exit: Luka)
+(Exit: MEIKO)
+(Enter: Len)
+Len: Hey, everyone! Have you seen Miku or anyone else?
+Len: Today's my anniversary day, and I'm sure they have some surprise planned for me.
+Len: Man, I can't wait to see what sort of celebration party they have in store!
+Len: Oh, KAITO! Is the celebration starting?
+Len: Everyone's hiding somewhere right now and waiting for a chance to surprise me, right?
+KAITO: Huh? Miku didn't tell me anything about that, though?
+KAITO: Anyway, since there are already so many people here, why don't you do something to show off how cool you are to them?
+Len: Huh? Show them how cool I am?
+Len: You all wanna see me doing something cool, huh? Maybe it's time for me to bring out my A game!
+
+
+2 [mc] mc_bd_2020len_2
+
+(Enter: Len)
+(Enter: KAITO)
+Len: Don't take your eyes off me 'cause I got this in the bag!
+
+
+3 [MUSIC] 69: Fragile
+
+4 [mc] mc_bd_2020len_3
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Thanks, everyone! That was so much fun!
+Rin: 1, 2, 3!
+Miku: "Happy anniversary, Len!"
+Rin: "Happy anniversary, Len!"
+Luka: "Happy anniversary, Len!"
+MEIKO: "Happy anniversary, Len!"
+KAITO: "Happy anniversary, Len!"
+Len: Yikes! When did everyone get here?!
+Luka: Hehe. We finally got to say it.
+MEIKO: Yes. KAITO's strategy worked beautifully!
+Rin: If you hadn't been so guarded the whole day, we could've done this so much sooner!
+Len: But I was so excited to see how you guys were going to celebrate for me!
+Miku: Hehe. We still managed to pull off the surprise celebration, though!
+Len: Everyone! Thanks for coming here to celebrate with me today!
+Len: I got to sing and celebrate all at once, and that made me super happy!
+Len: We have more shows like this coming up soon, so let's all have fun together next time too!
+Len: Until then!

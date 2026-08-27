@@ -1,0 +1,95 @@
+155 What Lies Beyond Guiding a Lost Child After Show (event_61)
+
+1 [mc] mc_ev_night_09_1
+
+(Enter: Mafuyu)
+Mafuyu: ...
+(Enter: Len)
+Len: Uh... Mafuyu...?
+Mafuyu: Len... Is something the matter?
+Len: Um... I was going back to Miku and the others and I, er... saw you here.
+Len: What about you, Mafuyu...?
+Mafuyu: I'm fine...
+Mafuyu: I just... wanted to be alone.
+Len: Um, Mafuyu...?
+Len: Is it ok if... I stay here too?
+Mafuyu: I don't mind... Why?
+Len: I don't want to be alone...
+Len: I think I want some... company.
+Mafuyu: I see. In that case, do what you like.
+Len: Thanks, Mafuyu.
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Oh, Mafuyu! And Len, too! You guys were here of all places.
+Miku: So you were with Mafuyu, Len.
+Mafuyu: Everyone... Why are you here?
+Kanade: You didn't come online, so we came looking for you.
+Ena: After all, it's already 25:00.
+Mafuyu: It's that time already...
+Mizuki: It's all good, though. The rough draft for our new song is done by the way. Right, Kanade?
+Kanade: Yeah. And, I wanted you to write the lyrics, Mafuyu.
+Mafuyu: For a new song...
+Len: Wow... What kind of song is it...? I want to see what lyrics Mafuyu comes up with...
+Miku: You still haven't heard any of their songs yet, right, Len?
+Len: That's right! I'm excited...
+Ena: I also want to get started on the illustration, so I'd appreciate the lyrics sooner than later.
+Ena: Actually, I often get my inspiration from your lyrics for some reason.
+Mafuyu: I see...
+Mizuki: Mafuyu, what's up?
+Mafuyu: Nothing. If the rough draft is ready, I need to get working.
+Kanade: Okay... Thank you.
+Mizuki: Well, we better head back then! Everyone, let's go!
+Mafuyu: Oh... Wait.
+Mafuyu: Before we go, I want to sing.
+Kanade: Huh...?
+Mafuyu: I don't know why... I just... wanted to sing with you all.
+Mafuyu: To sing the song that was born here... One more time... Is that okay?
+Mizuki: Sure! That's fine by me!
+Kanade: If that's what you want to do Mafuyu, I'll sing with you too.
+Ena: Well... Why not?
+Miku: Let's sing, Mafuyu.
+Mafuyu: Thank you. Len, will you listen to our song?
+Len: Yeah! I'm excited to hear you all singing!
+Mafuyu: Okay, let's sing. Composing the Future.
+
+
+2 [MUSIC] 60: Composing the Future
+
+3 [mc] mc_ev_night_09_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Len)
+Mafuyu: Thank you, everyone.
+Mizuki: Anytime!
+Miku: I'm glad I could sing with you all.
+Len: You all sang so well!
+Mafuyu: Thank you...
+Ena: You said you wanted to sing, but did that do it for you?
+Mafuyu: Yes... My chest feels... warmer.
+Kanade: I see...
+Ena: Well, someone's heart's on their sleeve today. Have the planets aligned or something?
+Mafuyu: They said on TV that wouldn't happen for decades.
+Ena: It's an expression...
+Kanade: Well, shall we head back and start working?
+Mizuki: Yeah! It's a shame we didn't get to see Rin and the others, but let's come back when we're less busy!
+Mafuyu: Okay...
+Mizuki: See you later, everyone!
+Ena: Bye bye!
+Len: Oh, M-Mafuyu!
+Mafuyu: What's wrong...?
+(Exit: Ena)
+(Exit: Mizuki)
+(Exit: Kanade)
+Len: Um, if you ever feel like visiting SEKAI... Come any time!
+Len: Me, Miku, all of us will be here waiting. Right, Miku?
+Miku: Yes. We'll be here.
+Mafuyu: ...
+Mafuyu: Okay, thank you. I'll be back.
+(Exit: Mafuyu)
+Len: I wonder... Is she going to be okay...?

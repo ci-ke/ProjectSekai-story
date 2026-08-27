@@ -1,0 +1,79 @@
+137 Cast a Spell on You After Show (event_52)
+
+1 [mc] mc_ev_idol_07_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Miku: Everyone! Thank you all so very much for coming to our event today!
+Rin: Stop by again soon!
+Minori: Hey, Miku, Rin!
+Miku: Hi, Minori! And hello to all of you as well.
+Rin: You gotta hear this! We just did an event that we put together with everyone's help!
+Miku: We all banded together and gave KAITO a hand with all the preparations♪
+Airi: Really? That's great!
+Haruka: It looked like a lot of fun. Your fans really seemed to enjoy everything.
+Shizuku: Yes, I would've loved to see it too.
+Minori: Me too! Me too!
+Miku: Hehe. Thanks!
+Miku: Oh, that reminds me. How did everything go? Are the designs for your outfits all done?
+Airi: Yeah, they are! They became a great reflection of our individual personalities!
+Minori: Yeah! And Shizuku's designs were by far and away the best choice!
+Rin: Really?!
+Haruka: Yes. It was clear that she really thought about each of us as she designed those outfits.
+Airi: Hehe. She said that she was going to cast a spell on us, but it almost felt like we were actually glowing when we got a chance to try them on.
+Shizuku: Thank you all so much. I'm so glad you liked them so much.
+Shizuku: But I have Miku and the others here to thank for helping me come up with those designs.
+Shizuku: Without them, I doubt I would've been able to come up with anything at all.
+Miku: You're very welcome♪
+Miku: I'm glad you were able to find the thoughts and feelings you wanted to imbue your designs with, Shizuku.
+Shizuku: Me too!  Again, thank you all so much!
+Minori: Oh, you guys... Wanna sing a song together?
+Minori: I know our outfits aren't finished yet... But I have a feeling that I'll be able to dance and sing better than ever if Shizuku casts her spell on me!
+Shizuku: Minori...
+Haruka: Okay, let's sing!
+Airi: Count me in too!
+Shizuku: I'd love to as well! Would you all like to join us?
+Miku: Are you sure? If so, I'd love to sing with you♪
+Rin: Oh, mind if I watch instead? I wanna see your guys' performance with everyone in the crowd!
+Shizuku: Of course. In that case, let's give Rin and everyone here a song that they'll really enjoy!
+Minori: "Yeah!"
+Haruka: "Yeah!"
+Airi: "Yeah!"
+Miku: "Yeah!"
+
+
+2 [MUSIC] 57: Newly Edgy Idols
+
+3 [mc] mc_ev_idol_07_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Rin: That was an amazing performance, you guys! Just watching it put a smile on my face♪
+Rin: Right, everyone?!
+Shizuku: Hehe. That's wonderful to hear. My body felt lighter than usual too.
+Shizuku: Almost as if it moved on its own... It reminded me of when I wore a stage outfit for the first time as an idol.
+Shizuku: It must be because you all cast a spell on me.
+Minori: It wasn't just you, Shizuku! I also felt like I was able to jump and leap higher than usual!
+Airi: Hehe. Our outfits aren't done yet... But I'm with Minori on this one.
+Haruka: Me too. Your face has been glowing this whole time, Airi.
+Shizuku: Thank you, everyone.
+Shizuku: I can't do much on my own... I'm always in need of the rest of MORE MORE JUMP!, Miku, Rin and everyone else...
+Shizuku: That includes the support you give us as fans as well.
+Shizuku: You're the ones who are always giving me hope...
+Shizuku: I'm going to do my best to give back as much hope as I can to all of you, and I promise to keep casting my spell so that even the most ordinary days feel special in some way.
+Shizuku: So, we'd really appreciate it if you could keep supporting us...
+Miku: We'll have to work hard to make sure that we don't get outshined by them, won't we♪
+Rin: Yup! We got this!
+Rin: "Yeah!"
+Minori: "Yeah!"
+Shizuku: Please come again, everyone!
+Minori: Bye bye!
+Miku: Goodbye!

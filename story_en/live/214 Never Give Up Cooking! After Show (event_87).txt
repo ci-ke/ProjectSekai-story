@@ -1,0 +1,107 @@
+214 Never Give Up Cooking! After Show (event_87)
+
+1 [MUSIC] 106: As You Like It
+
+2 [mc] mc_ev_shuffle_29_1
+
+(Enter: Emu)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Emu: Woo! That was fun!
+Tsukasa: It truly does feel amazing when you sing out loud like this!
+Len: I had fun too! Thanks for inviting me to join you, Rui!
+Rui: Of course. It was my pleasure.
+Nene: But Rui, why did you want to sing with us all of a sudden?
+Rui: Hehe, I just remembered that there's some people who I haven't given a White Day gift yet.
+Emu: White Day gift... Oh! I get it now!
+Tsukasa: Hmm, I see. So the performance just now was a gift to those who have continued to support us.
+Rui: Yes, that's exactly right.
+Len: Hey everyone! Did you all enjoy that?
+Nene: You seem to be a lot more proactive about this than usual, Rui.
+Rui: I suppose that's true. It must be because I witnessed someone try their absolute hardest to make another smile.
+Tsukasa: Hm? Could you be referring to Toya?
+Nene: Huh? Did something happen with Aoyagi?
+Rui: Aoyagi was practicing baking sweets as his gifts for White Day, and I volunteered to be his taste tester.
+Rui: And... Things didn't go very smoothly along the way, but he was able to make something nice by the end of it.
+Tsukasa: Yes! The cupcakes were absolutely wonderful!
+Len: Huh? Those cupcakes were for you, Tsukasa?
+Tsukasa: Yes! Toya made them especially for Saki and myself.
+Tsukasa: Rui, I already heard from Toya, but I'd like to thank you as well! He was very appreciative of your help.
+Rui: You're very welcome. But, I lent Aoyagi a hand because I saw just how important this was to him and also...because of you, Tsukasa.
+Tsukasa: What? Because of me?
+Rui: Yes, because of you. You, too, were working extremely hard to make sure he would enjoy himself.
+Rui: After seeing that, there was no way I wouldn't have helped him.
+Tsukasa: I didn't realize...
+Emu: Wow! That's like so wonderfully wonderhoy!
+Nene: Hehe... I think you're right.
+Rui: I suppose it is. On top of that... I also had a wonderful time watching the two of you work so hard for each other.
+Tsukasa: Ngh... It's a little embarrassing hearing you say it aloud, but...I guess it's fine.
+Rui: Hehe... By the way, there's something else I'd like to ask you, Tsukasa.
+Tsukasa: What is it?
+Rui: How was Aoyagi on the day of your dinner party?
+Tsukasa: Toya...
+Tsukasa: Of course, he had a bright smile on his face!
+Rui: I see. That's all that matters.
+
+
+3 [mc] mc_ev_shuffle_29_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+An: Hey everybody! Happy White Day!
+Akito: Whoa, someone's fired up.
+An: That's 'cause White Day was so fun! I was so happy to just get homemade cookies from Len, but to think we'd get something homemade from Toya too!
+Kohane: The cupcakes tasted amazing. Thank you, Aoyagi.
+Toya: Really? I'm very glad you liked them.
+Akito: Well, I sure did.
+Akito: Toya, thanks for giving me some too. They were so good.
+Toya: Akito...
+Toya: But the reason I succeeded was only because a lot of people lent me their help.
+Toya: So thank you very much, KAITO.
+KAITO: Haha. Don't worry about it! I had fun teaching you!
+Akito: By the way... So Kamishiro ended up being your taste tester?
+Toya: Yes. Not only was he my taste tester, but he also picked me up when I was feeling discouraged. I'm very appreciative of him.
+Toya: If it weren't for Kamishiro, I'm certain I wouldn't have been able to bake anything good in the end.
+An: Hehe. Even though Kamishiro causes trouble here and there, he really is a nice person!
+Akito: In that case, we better give him our thanks too.
+Akito: Especially since it was because of him, we were able to try your cupcakes.
+Kohane: Yeah!
+Toya: That reminds me, KAITO. I am, of course, grateful to you, MEIKO and the others, but please give my thanks to Miku as well.
+Kohane: Miku?
+Toya: Yes. Miku's guidance helped me greatly when I was baking.
+Kohane: Really?
+Kohane: I didn't know that Miku was good at baking.
+Akito: In that case, I'm keen to try her homemade sweets sometime.
+An: Huh? But, I was sure Miku...
+KAITO: A-Actually, yes, of course! I'll be sure to talk to her for you.
+KAITO: Miku is slowly getting better too, so I'm sure she can make something edible with the right amount of preparation...
+Kohane: Huh? What do you mean?
+KAITO: Y-You know what, we can talk about this more later, so um...
+KAITO: I got it! Toya, Akito, let's sing a song!
+Akito: Where did that come from?
+KAITO: Well, I mean. There are still some people you haven't given gifts for White Day yet, right?
+Toya: Actually... Yes, you're right.
+Akito: Well, I can't argue with that.
+Toya: Hello, everyone. We'll be performing for you as a gift for White Day and a token of our gratitude. I hope you enjoy it.
+Toya: Ifuudoudou.
+(Exit: Kohane)
+(Exit: An)
+
+
+4 [MUSIC] 95: Ifuudoudou
+
+5 [mc] mc_ev_shuffle_29_3
+
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+(Enter: Kohane)
+(Enter: An)
+Toya: Thank you for listening, everyone. Even if it's just a little bit, I hope my feelings came through.
+Toya: Please know that your ongoing support has always kept me afloat.
+Toya: And I cannot thank you all enough. Please come and listen to us again.

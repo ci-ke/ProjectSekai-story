@@ -1,0 +1,135 @@
+57 Valentine's Day Show 2022
+
+1 [mc] mc_2021valentine_1
+
+(Enter: Rin)
+Rin: Hey, everyone!
+Rin: You know what Valentine's Day is, right?
+Rin: Miku and I will be making Valentine's chocolates together. I'm really excited about it♪
+Rin: That reminds me. How are the other people in SEKAI spending their Valentine's Day? Hehe, let's go peek!
+
+
+2 [mc] mc_2021valentine_2
+
+(Enter: Miku)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: MEIKO)
+Miku: Hehehe. Everyone's here☆
+Emu: Yup♪ Let's prepare for the Valentine's Day surprise!
+MEIKO: Let's do that♪
+Nene: Hey, I never said I was going to—
+MEIKO: It'll be fun! Come on, we have to come up with a plan before the boys arrive♪
+(Enter: KAITO)
+KAITO: Oh, what's everyone doing here? It's not time for practice, yet.
+Emu: K-KAITO?! Uh-oh, wh-wh-wh-what do we do, what do we do?!
+MEIKO: Hi, KAITO! You showed up at just the right time♪ I need a favor from you.
+MEIKO: So... Let's head juuuuuust a bit over there together for a while♪
+KAITO: Huh? Ah... W-Wait, MEIKO?!
+Miku: Phew! Thanks to MEIKO, our surprise remains a surprise.
+Emu: Yups☆ Hehehe, I can't wait to give out the candy!
+(Exit: MEIKO)
+(Exit: KAITO)
+Emu: To everyone watching our shows, to Nene, to Tsukasa, to Rui, the mascot characters, and Nenerobo!
+Emu: Also Miku, KAITO, Rin, Len, and MEIKO!
+Nene: That's a lot of people. Wait, you have candy for Nenerobo too?
+Nene: I mean, I do understand the feeling of wanting to show some gratitude to it...
+Nene: But robots wouldn't understand something like that.
+Miku: No way! I'm sure Nenerobo can definitely understand your feelings, Nene!
+Nene: Um, but—
+Miku: Don't worry! You'll know what I meant once we sing this song together♪
+Emu: All right! Let's sing together♪
+Nene: Sigh... It's not like I can say no, right?
+Miku: "Start the music♪"
+Emu: "Start the music♪"
+
+
+3 [MUSIC] 68: Dance Robot Dance
+
+4 [mc] mc_2021valentine_3
+
+(Enter: Miku)
+(Enter: Emu)
+(Enter: Nene)
+Miku: Hehehe☆ Now do you get it, Nene?
+Nene: Well, I know what you were trying to say at least, somewhat.
+Nene: I hope our feelings got through to Nenerobo too.
+Emu: Trust me, they absolutely did! So anyway, back to preparing for the surprise☆
+Nene: Fine, fine.
+
+
+5 [mc] mc_2021valentine_4
+
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Thanks for the help♪ Let's take a break while we wait for practice to start.
+KAITO: Why were we suddenly sorting out the props, though? Also, Miku and Emu weren't being their usual selves just now.
+(Enter: Tsukasa)
+(Enter: Rui)
+Rui: It's most probably because it's Valentine's Day today, KAITO.
+KAITO: Hello, Rui and Tsukasa!
+KAITO: I think I get it now. Valentine's Day, huh. I was so busy preparing for the shows that I completely forgot about it.
+Rui: I only remembered after seeing a few boxes in my shoe locker this morning, too.
+KAITO: Haha, chocolates in the shoe locker? Truly something you can only experience as a student!
+Tsukasa: Hmph! I've received plenty of chocolates too!
+Tsukasa: And they were too embarrassed to give it just to me so they gave one to every other boy too!
+KAITO: In other words, it was for everybody...
+KAITO: Well, I guess that's fine too?
+Tsukasa: And my younger sister made chocolates for me this year!
+Tsukasa: A gigantic heart-shaped chocolate the size of my face! To make up for all those times she couldn't give me anything because she was in the hospital, she said!
+KAITO: A gigantic heart-shaped chocolate sounds fantastic!
+Tsukasa: It does! I know!
+Tsukasa: And right now, she's probably giving out chocolates stuffed with several years of feelings to her childhood friends too.
+KAITO: What a wonderful Valentine's Day that would be for them.
+Rui: Hehe. Indeed.
+MEIKO: Heeey! KAITO! Tsukasa! Rui! Are you there?
+Rui: Oh, I think Emu is calling for us.
+Tsukasa: Yeah. We should go look for her.
+
+
+6 [mc] mc_2021valentine_5
+
+(Enter: Luka)
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Len)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Welcome back, Rin! Were you out in another SEKAI?
+Rin: Yup! Everyone's having so much fun on Valentine's Day!
+Len: Of course they are! I'd be super happy to receive any sort of sweets too!
+KAITO: Len, that makes it no different from Halloween, then.
+MEIKO: Valentine's Day sweets are supposed to be packed with all sorts of feelings like love, friendship, and gratitude!
+Luka: Yes, but there are probably also many people who are too shy or afraid to express their feelings through these sweets.
+Rin: What?! But it's Valentine's Day!
+Rin: I know! Let's sing a song to that will give everyone out there the courage to do just that♪
+Len: Sounds like a great idea! Let's do it!
+
+
+7 [mc] mc_2021valentine_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Is everyone ready?
+Rin: Then let's go!
+
+
+8 [MUSIC] 41: Sweet Magic
+
+9 [mc] mc_2021valentine_7
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: Thanks for getting into the song with us, everyone!
+Rin: Hehe. I really hope it's given you the courage to express your feelings to that special someone in your life♪
+Luka: Yes. It's important to express your feelings in words.
+Miku: And sometimes, nothing will happen until you've said what you feel out loud first!
+Rin: I wish all of you a happy and joyful Valentine's Day! Bye now!

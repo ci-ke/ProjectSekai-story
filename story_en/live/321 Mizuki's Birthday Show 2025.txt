@@ -1,0 +1,94 @@
+321 Mizuki's Birthday Show 2025
+
+1 [mc] mc_bd_2024mizuki_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Miku)
+Kanade: There... That's everything for the party.
+Ena: Snacks, drinks, and cake, all check.
+Miku: I think we have enough plates and cups too.
+Mafuyu: There was that strange sash lying there. It just said "Today's Star" on it.
+Kanade: Um, do you think we need it?
+Ena: It can't hurt, right? I wouldn't want it, but it seems something Mizuki would like.
+Miku: Oh... Really?
+Kanade: Now we just have to wait for Mizuki to arrive.
+Mafuyu: It's already past the time we agreed on.
+Ena: After all those reminders too... Overly focused on work again, I bet.
+(Enter: Mizuki)
+Mizuki: Heeey, sorry I'm late!
+(Exit: Mizuki)
+(Enter: Mizuki)
+Ena: Yeah, you should be!
+Mizuki: I just got into a groove working on the video.
+Mafuyu: Ena was right.
+Mizuki: Haha, I said I was sorry! Anyway, is it just me, or did you go all out?
+Mizuki: You've got all my favorites laid out over there! Fries and basically every snack I like!
+Kanade: You seemed like you were really looking forward to your birthday, after all.
+Mizuki: Huh?
+Ena: You said it yourself, remember?
+Ena: "I'm really excited for my birthday party! I'm sure it'll be fantastic!"
+Mizuki: Oh, um... Maybe I did say that...
+Mafuyu: Did you forget?
+Mizuki: I-I didn't forget! I didn't! I really was looking forward to it, so I'm really happy!
+Kanade: I'm glad you like it.
+Ena: Sounded a bit forced...
+Mizuki: Ahaha... Still, you actually remembered...
+Mizuki: Aww, you really love me! Thanks so much!
+Mizuki: And thanks to all of you for coming too! I can feel the excitement already!
+Mizuki: I'm so grateful to you all for coming. I'd love to do something for you...
+Miku: Then what about a song?
+Mizuki: Huh?
+Miku: I'm sure everyone wants to share how you feel. A song would get it across to them.
+Mizuki: I see... In that case, why not? Let's sing!
+Mizuki: So without further ado, Ena! Can I ask for your help?
+Ena: Well, I can't say no to "Today's Star." So sure, let's do it.
+Mizuki: Thanks, Ena!
+Mizuki: Here we go, everyone! Charles!
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Miku)
+
+
+2 [MUSIC] 19: Charles
+
+3 [mc] mc_bd_2024mizuki_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: What'd you think, everyone?
+Kanade: It looks like they enjoyed it.
+Mizuki: Haha! I'm glad to hear it!
+Mizuki: Birthdays really are nice. It's nice to have so many people celebrate the day you were born.
+Mizuki: You showing up like this really does make today special for me!
+Ena: That reminds me, we have one more thing to do before the party.
+Mizuki: We do?
+Kanade: We haven't given you birthday wishes yet.
+Miku: I think everyone wants to say it together.
+Mizuki: Oh, right!
+Mizuki: Haha, now I'm a little embarrassed...
+Ena: Chin up, Today's Star, this is your job. Okay, everyone, let's go.
+Kanade: Happy birthday! Happy birthday.
+Mafuyu: Happy birthday! Happy birthday.
+Ena: Happy birthday! Happy birthday.
+Miku: Happy birthday! Happy birthday.
+Mizuki: Thanks so much, everyone! Haha, wow, I'm so embarrassed.
+Mizuki: I'm already having such a good time! At this rate, I'm gonna get my hopes up for the party.
+Ena: You can safely go ahead and get them up.
+Kanade: Why don't we go over to the table now?
+Mizuki: Okay!
+Mizuki: Thank you all again! It makes me so happy you came just to see me.
+Mizuki: I'm already looking forward to the next time we meet♪ Take care!
+Kanade: See you! Goodbye.
+Ena: See you! Goodbye.
+Miku: See you! Goodbye.
+Mafuyu: See you! Goodbye.
+(Exit: Mizuki)
+(Exit: Kanade)
+(Exit: Ena)
+(Exit: Miku)
+(Exit: Mafuyu)

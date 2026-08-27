@@ -1,0 +1,95 @@
+196 Happy New Year! Lion Dance Robot's New Year's Show! After Show (event_81)
+
+1 [MUSIC] 253: DAYBREAK FRONTLINE
+
+2 [mc] mc_ev_shuffle_27_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: *Sigh* I really sang my heart out! That felt so good!
+Kohane: Yeah! Feels nice to start the new year off this way.
+Toya: I agree. I tried skiing for the first time in the mountains, and we even got to see Tsukasa and his troupe's show on New Year's Day.
+Akito: I was gonna make a bolt for it when we made eye contact, but...I guess it was a pretty fun show.
+Miku: And you and Kohane were so cool getting that ski resort hyped, An.
+An: Hehe. Thanks, Miku.
+An: Hehe. Thanks, Miku. Actually, I was thinking about the first time I met Kohane at that moment.
+Kohane: What?
+An: I just remembered asking you to be my partner because I wanted to sing with you so badly, and then I started getting so excited.
+An: And before I knew it, I started singing.
+Kohane: An...
+Toya: Hehe. That's very like you.
+An: Oh, and the moment we all became one team also popped into my mind.
+An: I remember how you two worked out your differences for your dreams, which made me want to sing with you guys too.
+Akito: Oh geez, why did you have to dig up the past...
+An: Hehe. That's the moment I knew you guys were alright! It's all still fresh in my memory!
+Kohane: Yeah. The four of us have come so far after all of that... Hehe, it makes me happy to think about.
+An: Yup! We've got even more friends with us now, so let's keep giving it our all!
+An: And with that... Hey, everyone! Hope you continue to support us this year too!
+Miku: Hehe. The others and I will be cheering you guys on too.
+
+
+3 [mc] mc_ev_shuffle_27_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: My goodness! What a start to the year. We sure did stuff ourselves full!
+Nene: M-My stomach...feels like it's gonna burst...
+Rui: It truly felt like a New Year's feast at your home, Emu. Is that the amount your household prepares every year?
+Emu: Yeah! Our chefs always cook us lots and lots of food!
+Nene: It was good, but...it's a little overboard, don't you think? Can your family finish all of that?
+Emu: Oh, we do! Me and Sis eat a whole lot!
+Nene: Wait, really? You, I get, but your sister is a big eater too?
+(Enter: Miku)
+(Enter: KAITO)
+Miku: Hey, everyone! Welcome!
+KAITO: Today was the New Year's show after party at Emu's house, right? How was it?
+Tsukasa: It was absolutely incredible! There were large and very delicious shrimps, the likes of which I've never seen.
+Miku: Shrimps?! Sounds yummy!
+Emu: Oh! Then I'll bring some food over next time so we can have a party with everyone here too!
+KAITO: Great, that sounds like fun! I'm sure Len and the others will be thrilled.
+Rui: Sounds like we will be feasting once again, but... I suppose that is the nature of New Year's.
+Nene: Yeah, that's true. It wouldn't hurt to start the new year off with a bang.
+Tsukasa: With a bang, huh? Yes, I have an idea!
+Tsukasa: In that spirit, why don't we put on a show, right here, right now?
+Nene: What? That's a little sudden, no?
+Tsukasa: Not at all! In celebration of the new year, there is no such thing!
+Nene: Where's all of this excitement coming from, anyway? Did you drink too much cola?
+KAITO: Hehe. Perhaps he's in an extra good mood because he's learned a lot from your New Year's shows.
+Miku: Oh, don't forget me! I wanna join in too!
+Tsukasa: You are most welcome to! The more, the merrier!
+Emu: Yeah!
+Tsukasa: Without further ado! At God's Mercy!
+(Exit: KAITO)
+
+
+4 [MUSIC] 201: At God's Mercy
+
+5 [mc] mc_ev_shuffle_27_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+Tsukasa: Hah hah hah hah! Wonderlands×Showtime will be counting on your support for another year, everyone!
+Emu: Hehehe! Tsukasa's all smiley!
+Rui: Indeed. His expression is even brighter than usual. I almost can't help but feel just as positive.
+KAITO: Hehe. It's as if he's the first sunrise of the year.
+Nene: The first sunrise?
+KAITO: Yes. I find that when Tsukasa performs, he shines so bright that he lights up the whole room.
+Nene: Hehe. When you put it like that, I guess that's true.
+Rui: Then shall we make our wishes to the sunrise all together?
+Emu: Okay! Let's all wish to Tsukasa for a happy new year!
+Nene: It starts to feel weird if you take it that far... Well, I guess it's fine.
+Emu: I wish to give everyone big smiley faces this year, too!
+Nene: "Please let it come true."
+Rui: "Please let it come true."
+Tsukasa: Hm? Why are you all facing me? And wishing, nonetheless.
+Emu: Well that's because you're our sunrise!
+Tsukasa: Right... Hmm... That doesn't make sense!

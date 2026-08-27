@@ -1,0 +1,84 @@
+371 Turning Pain Into Drive After Show (event_163)
+
+1 [mc_timeline] mc_ev_street_wl_02_1
+
+(Enter: Kohane)
+(Enter: Miku)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Kohane: ...and then, I got to water the tree with Len and Rin.
+Toya: You've often been going to check on the tree in the plaza lately, Azusawa.
+Kohane: I have! It kind of energizes me.
+An: I totally get that! It's a really pretty splash of greenery.
+Miku: That reminds me. KAITO and Luka asked MEIKO to make them some boxed lunches.
+Akito: Lunches? What for?
+Miku: They said it might be fun to lay down a tarp and have lunch under the tree.
+Akito: Like a flower viewing picnic minus the flowers?
+An: So, a regular picnic?
+Kohane: Either way, it sounds fun.
+Toya: Yes. Why don't we do the same between practice sessions?
+An: Sign me up!
+Akito: Sure, I guess it's just eating outside.
+An: And hey, Miku, why don't you join us?
+Miku: Alright. It sounds interesting.
+An: Yay! Then let's ask to use MEIKO's kitchen and all cook the food together!
+Akito: Huh? You even want us to make the food?
+An: Of course. Being thorough makes stuff like this all the more fun!
+Toya: I see. In that case, I'll be sure to practice each dish in advance.
+Akito: No, that's too thorough...
+Kohane: Hehe.
+Miku: Kohane? What's up?
+Kohane: Oh, um... I'm just kind of happy.
+An: Happy?
+Kohane: Yeah. Ever since we had that dream after touching those black fragments...
+Kohane: I've realized that we really can't take our time together for granted.
+An: Kohane...
+Toya: You're right. We're here today as a result of countless choices.
+Toya: When you consider that, what we have seems almost miraculous.
+Akito: I wanna call that overdramatic... But you're not wrong.
+Akito: This team wouldn't be the same without any one of us.
+An: Hmm... I really don't know how to describe how I'm feeling.
+An: It's like... I'm so glad that the four of us are a team! Y'know?
+Akito: I think you just described it.
+An: Gimme a break, will you? It's hard to convey with words.
+Kohane: Um, then... What if we conveyed it in song?
+An: Ooh, I like that idea!
+Toya: Yes, let's try that.
+Kohane: Will you join us, Miku?
+Miku: Try and stop me. I'm keen to hear how you sound after all that's happened.
+Kohane: Thank you. And I hope all of you will listen too.
+Kohane: Ready Steady!
+
+
+2 [MUSIC] 54: Ready Steady
+
+3 [mc_timeline] mc_ev_street_wl_02_2
+
+(Enter: Kohane)
+(Enter: Miku)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Miku: Yep. I was right.
+An: Right about what?
+Miku: All of you are singing even more powerfully than before.
+Kohane: Do... Do you think so?
+Akito: It's not like we're doing anything differently...
+Miku: I guess it might be hard to notice changes in yourselves, but it's crystal clear to me.
+Miku: All the obstacles you surpassed to get this far have spurred you to grow.
+Toya: It's heartening to hear that from you, Miku.
+An: I'll say. Especially since she's been with us for so long!
+Kohane: Right... Thank you, Miku.
+Kohane: We need to grow even more if we're going to stand on top of the world.
+Akito: We definitely have a long way to go still.
+An: But we've got nothing to worry about, right? Sure, there's gonna be some hard times...
+An: But as long as we're together, I bet everything will work out fine!
+Miku: That's the spirit.
+Toya: No matter what, let's stay together.
+Miku: And thank you for always watching over them.
+Miku: I'm sure even more challenges lie ahead, so I hope you'll keep cheering them on.
+An: Thank you! Keep watching!
+Kohane: Thank you! Keep watching!
+Akito: Thank you! Keep watching!
+Toya: Thank you! Keep watching!

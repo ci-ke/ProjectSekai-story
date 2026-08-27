@@ -1,0 +1,91 @@
+78 Wonder Magical Showtime! After Show (event_25)
+
+1 [mc] mc_ev_wonder_04_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: I wonder how the show went. I'm so curious!
+Rin: Yeah, I really want to know too☆ When's everyone getting here?
+Luka: C'mon you two, let's just wait patiently. We can even take a nap while we wait, you know.
+MEIKO: Haha! Good things come to those who nap, right Luka?
+KAITO: If everything goes to plan, everyone will be here soon, right?
+Len: I agree! Hey, why don't we go and pick them up?
+Rin: Oh, good idea☆ Let's go together, Len!
+MEIKO: Oh in that case, I'll come too! Luka, come join us.
+Luka: Don't run too fast or you'll trip.
+KAITO: Be careful, you guys!
+KAITO: Huh? Are you not going, Miku?
+Miku: Hmmm. I thought about going, but then I felt like I could smell the others...*Sniff*
+(Exit: Rin)
+(Exit: Len)
+(Exit: Luka)
+(Exit: MEIKO)
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Emu: Hey everyone! Wonderhoy!
+Miku: Oh! You guys! Welcome!
+KAITO: Oh, it's like you guys swapped places with Rin and the others.
+KAITO: As for the show... Hehe. From the radiant smiles on your faces, I assume it went well?
+Tsukasa: Yes! Thanks to our show, we were able to stop Phoenix Wonderland from changing it's policy!
+Miku: Really?! You guys did it! Congratulations!
+Emu: Thank you, Miku!
+Nene: Really, thank you. Because you and the others were there, it was a great show.
+Rui: Yes. I was also surprised when you all made an appearance in the last scene. It was an amazing performance.
+KAITO: Thank you. Rin and Len were the ones who thought of it all. But...
+KAITO: I think the reason why the show was a success, was because of all of your hard work.
+Tsukasa: No... The show's success is due to everyone's hard work, not just us.
+Tsukasa: If either one of us had been missing, I don't think it would've turned out like this.
+KAITO: Tsukasa...
+Emu: Yeah! Thank you so much, everyone!
+Tsukasa: Well... my presence as future star, Tsukasa Tenma, did play a big role, though!
+Tsukasa: Ha ha ha ha!
+Nene: Seriously, this guy has a talent for ruining moments.
+Rui: It would be nice if you could keep that talent in check on stage.
+Tsukasa: Hey! I heard that!
+Miku: But really though, congratulations you guys!
+Miku: I'm so, so glad! The feeling in my chest...it was jumpy and fluttering...
+Nene: Fluttering?
+Miku: That's why we should put on a show!
+Miku: When something good like this happens, we've got to put on a show!
+KAITO: Yes, I agree. I would love to sing with you all.
+Tsukasa: Oh, you're so welcome to! I can't even begin to describe how I feel!
+Rui: Hehe. In that case, let's put on a celebratory show, shall we?
+Emu: Let's celebrate together, wonderhoy!
+Nene: Sounds good. Let's do it!
+Tsukasa: Then let's put this show on the road! Audience! Are you ready?
+Tsukasa: Tondemo-Wonderz!
+
+
+2 [MUSIC] 127: Tondemo-Wonderz
+
+3 [mc] mc_ev_wonder_04_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+Tsukasa: Ha ha ha ha! Another wonderful show, done and dusted!
+KAITO: I couldn't stop smiling! Thank you, everyone.
+Miku: Oh! I guess Rin and the others are back too!
+Emu: Okay, then let's do it one more time!
+Nene: Alright, alright. But after we tell Rin and the others how the show went, okay? Besides, we have a lot of other things to talk about too.
+Emu: Oh, you're right!
+Miku: What things to talk about? Tell me, tell me!
+Emu: Get this, we're going to be ambassadors!
+KAITO: Ambassadors?
+Rui: We will also now be doing shows outside of Phoenix Wonderland to help promote it.
+KAITO: Really? That sounds exciting.
+Tsukasa: Right? Right?!
+Miku: We've got to tell Rin and the others♪ Let's go, you guys!
+Tsukasa: Hehehe. Being an ambassador is the ultimate chance for me, Tsukasa Tenma, to spread my wings and take on the world!
+Tsukasa: For the sake of a bright future, we all need to get fired up once again... Huh?!
+Tsukasa: E-everyone's gone...
+Tsukasa: Seriously you guys, don't just leave me behind like that!

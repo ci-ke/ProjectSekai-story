@@ -1,0 +1,60 @@
+42 Rin's Anniversary Show 2021
+
+1 [mc] mc_bd_2020rin_1
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: This is strange... Has anyone seen Len around?
+Rin: Today's a special day for Len and me, and I wanted to celebrate it together, but I can't find him.
+Len: On my cue, everyone! 1, 2, 3!
+Miku: "Happy anniversary, Rin!"
+Len: "Happy anniversary, Rin!"
+Luka: "Happy anniversary, Rin!"
+MEIKO: "Happy anniversary, Rin!"
+KAITO: "Happy anniversary, Rin!"
+Rin: Wah... Why's everyone here?!
+Luka: Hehe, our surprise worked.
+Rin: Oh, that's what it was? I thought we'd be celebrating it as "Happy anniversary, Rin and Len!" or something. That definitely surprised me.
+KAITO: It's not every day you get an anniversary, so we wanted to make sure you each had your own celebration.
+Len: Yup, yup! And if we both celebrated at the same time, then we only get to have one party!
+MEIKO: That's why, Rin is the star of our celebration today. Happy anniversary, Rin!
+Rin: The star... Aww, that makes me blush.
+Miku: Hehe. So, star-of-the-day, is there anything you would like to do today?
+Rin: Well... I wanna sing!
+Rin: Because singing for everyone is one of my favorite things in the world!
+
+
+2 [mc] mc_bd_2020rin_2
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Here's my song!
+
+
+3 [MUSIC] 41: Sweet Magic
+
+4 [mc] mc_bd_2020rin_3
+
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Thank you! You guys made the song so fun to sing!
+Rin: I'm grateful that you're all celebrating my anniversary for me as well!
+Rin: Hopefully we can celebrate like this again next year♪
+Len: Haha. Already thinking about next year?
+Rin: You would too, if you had so much fun♪
+Rin: Anyway, I'm really thankful that you all came here to celebrate my anniversary with me today!
+Rin: With Miku's and your support, I was really able to sing my heart out♪
+Rin: I'll keep singing for all of you for many more anniversaries to come, along with Miku and everyone else!
+Rin: So please keep giving us your support!

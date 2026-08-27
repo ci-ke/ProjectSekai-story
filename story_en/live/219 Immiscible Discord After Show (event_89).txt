@@ -1,0 +1,92 @@
+219 Immiscible Discord After Show (event_89)
+
+1 [mc] mc_ev_night_12_1
+
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+Ena: So you and Mafuyu's mom decided to keep your meeting a secret from Mafuyu?
+Kanade: Yes. I didn't want her to have more things to worry about.
+Mizuki: That's understandable. She already has enough on her plate.
+Ena: I guess so... But keeping this a secret from her bugs me a little bit.
+Ena: So, what should we do? Mafuyu won't be able to join us as much for a while...
+Kanade: I think... She can come and work with us when she decides to.
+Kanade: It'll be difficult for her to work the same way we used to, but... I think Mafuyu needs N25.
+Mizuki: Yeah. I think so too.
+Mizuki: But, Mafuyu is going to have it rough from here onward...
+Kanade: Yes...
+Kanade: I thought that I just had to keep composing to save her, but... I realized that's not going to be enough.
+Kanade: So I want to think of what other things I can do for her.
+Kanade: Even if there isn't much...
+Ena: Kanade...
+(Enter: Mafuyu)
+Mafuyu: You're all here.
+Mizuki: Oh, Mafuyu!
+Mafuyu: I don't recognize this place.
+Mizuki: Yeah, we only just found it today. By the way, is it alright for you to be here?
+Mafuyu: Yes. Though I can't stay for very long.
+Mafuyu: I wanted to sing with all of you.
+Kanade: Mafuyu...
+Kanade: Okay. Then let's sing.
+(Enter: KAITO)
+KAITO: Hey.
+(Exit: KAITO)
+(Enter: KAITO)
+Mizuki: Huh? KAITO?!
+Ena: What's KAITO doing here in SEKAI?
+KAITO: Why don't you ask the one who called me here?
+KAITO: Anyway, if you're going to sing, I'll join you.
+Ena: What?
+KAITO: You got a problem with that?
+Ena: A problem? You just appeared and said that out of the blue. Of course we'd be surprised!
+Mafuyu: Why?
+KAITO: Just because. This will leave you in a better state than before.
+KAITO: Though, it won't fix the root of the problem.
+Mafuyu: ...
+Kanade: Thank you, KAITO.
+Kanade: Mafuyu. Let's sing.
+Kanade: After we sing together, I think we'll have a better understanding of your feelings, Mafuyu.
+Mafuyu: Okay.
+Kanade: Then, let's do it. Samsa.
+
+
+2 [MUSIC] 300: Samsa
+
+3 [mc] mc_ev_night_12_2
+
+(Enter: Mizuki)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: KAITO)
+(Enter: Ena)
+Mafuyu: Thank you, everyone.
+Mafuyu: I'm not sure how to describe it, but I feel a little better.
+Ena: Really? That's good to hear.
+Mizuki: I'm also feeling more focused. It's like, I realized that I've gotta do what I can right now.
+Ena: Well, it's not like we plan to just sit and watch.
+Kanade: That's right.
+Kanade: Mafuyu, I... We're going to keep making music.
+Kanade: So, whenever you feel up to it... Please come over.
+Kanade: Whether it's making music or singing together like this, we all want you to be there too.
+Mafuyu: Kanade...
+Mafuyu: Thank you.
+Mizuki: You'll sing with us again sometime too, right, KAITO?
+KAITO: I'd rather you spend time fixing the root of the problem.
+Mizuki: We know but, c'mon! You know it's not that easy of a problem to solve!
+Mizuki: Anyway, we feel exactly the same as Kanade! You're the only one who can put words to our songs, Mafuyu!
+Ena: Exactly. So if you truly want to keep making music... Don't give up. Fight for it.
+Mafuyu: Okay.
+Kanade: Well then, let's head back and get working. What about you, Mafuyu? Do you have time?
+Mafuyu: If it's just for a little bit...
+Mizuki: Woohoo! Let's head back right now! We've gotta make the most of our time.
+Mizuki: See you later, KAITO. We'll be back sometime to come and hang out!
+KAITO: Please don't.
+Mizuki: Hey, what's with the cold shoulder? But either way, we will be back! See ya!
+(Exit: Mizuki)
+(Exit: Kanade)
+(Exit: Ena)
+Mafuyu: KAITO...
+KAITO: What?
+Mafuyu: Nothing...
+(Exit: Mafuyu)
+KAITO: This is going to be more complicated than I thought.

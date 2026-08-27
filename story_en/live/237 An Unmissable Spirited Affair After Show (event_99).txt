@@ -1,0 +1,96 @@
+237 An Unmissable Spirited Affair After Show (event_99)
+
+1 [MUSIC] 281: Kimagure Mercy
+
+2 [mc] mc_ev_shuffle_33_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Shizuku: Thank you! Hehe, I feel like I'm in peak form today.
+Airi: Me too! I was expecting to have to work extra hard since we missed practice during the school trip.
+Airi: But as it turns out, that was just the break we needed!
+Miku: I'm happy for you two! And thank you for the souvenirs!
+Minori: The mutsuhashi were sooo good!
+Shizuku: Hehe, you're very welcome.
+Haruka: I'm still surprised you ended up going around with students from Kamiyama High. What a coincidence.
+Shizuku: Yes, we were surprised too... But thanks to that, we all had a wonderful day.
+Airi: You even joined that Hyakki Yako Parade!
+Minori: Aww, I wish I could have seen Shizuku as a yuki-onna.
+Haruka: Hehe, me too. It's a shame you didn't film her, Airi.
+Airi: Hey! We weren't exactly in any position to be taking videos!
+Miku: But... I really do wish I could have seen it♪
+Airi: Miku, you too?!
+Shizuku: Hehe. I'll be sure to bring that haori over next time. Oh, but I don't think I can make it snow...
+Miku: Then, why don't we use some stage snow? We can create a pretty flurry for you!
+Minori: Oh, I can't wait to see that! It's gonna be so beautiful!
+Shizuku: Yes... Snow falling across a whole stage... That would be beautiful.
+Shizuku: I'm sure that's what Kamishiro had in mind when he made that device.
+Shizuku: Perhaps he's putting on a show with Tsukasa right now...
+
+
+3 [mc] mc_ev_shuffle_33_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Tsukasa: That was an upset for the books...
+Rui: Indeed it was...
+Rui: The grapefruit-flavored mutsuhashi gummies were actually good...
+Nene: Hmm, maybe don't buy people gifts you think might be gross?
+Len: But they really were so good!
+Emu: Yeah! I could totally eat another box♪
+Rui: Hehe, I'm glad they went over so well. I have to thank Hinomori for the idea.
+Len: Hinomori? Oh, Tsukasa's friend you told us about!
+Len: I can't believe you ran into one of Tsukasa's friends in Kyoto!
+Nene: The odds must have been astronomical.
+Emu: Aww! I wish me and Airi coulda had a wonderhoy time in Kyoto!
+Emu: AND! With Asahina too!!!
+Nene: Emu seems so serious suddenly...
+Tsukasa: Anyway, I'm glad we met Shizuku and the others! We had such fun together!
+Rui: That's right. And we learned about Tsukasa's past♪
+Emu: Tsukasa's past?! Whatwhatwhat? I wanna knooow!
+Len: Me too! Me too!
+Tsukasa: Now now, we're here to practice! Let's save that for another time!
+Rui: You're right. Then, to get us in the spirit, why don't we warm up with a song?
+Tsukasa: Yes!
+Rui: Now, let's begin!
+Rui: Ego rock!
+
+
+4 [MUSIC] 225: Ego rock
+
+5 [mc] mc_ev_shuffle_33_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Rui: Hehe. I'm feeling quite good.
+Rui: As if I've gotten a lot of emotions off my chest.
+Len: Hmm... Rui, you seem a little different today.
+Rui: Oh? What do you mean by that?
+Len: I'm not sure... You always look like you're enjoying yourself during shows, but...
+Len: You look like you're having even more fun now!
+Rui: Hehe. Observant as ever, Len.
+Len: Me? Really?
+Rui: Yes. As it turns out, I realized on the trip that I can connect with many more people.
+Len: Connect with more people?
+Nene: What do you mean?
+Rui: Heh... It's a long story, so let me tell you after practice.
+Emu: Whaaat? But I wanna hear now!
+Rui: All in good time. Sometimes waiting for a reward makes it all the sweeter.
+Nene: If you say so... Well, you seem happy, so whatever.
+Emu: Yeah! Buuut, you gotta tell us later!
+Rui: Yes, I promise I will.
+Rui: Now then, let's get started with practice.
+Rui: So we can continue delivering smiles that bring people together.
+Tsukasa: Yes! Yeah!
+Emu: Yes! Yeah!
+Nene: Yes! Yeah!
+Len: Yes! Yeah!

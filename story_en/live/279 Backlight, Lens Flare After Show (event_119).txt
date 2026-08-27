@@ -1,0 +1,80 @@
+279 Backlight, Lens Flare After Show (event_119)
+
+1 [mc] mc_ev_wonder_16_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Emu: The movie we went to see was so exciting!
+Tsukasa: Indeed! Those heart-pounding action sequences had me on the edge of my seat.
+Rui: I found those dramatic explosions impressive. Something like that could be interesting in our next show.
+Tsukasa: Just what kind of show are you planning with something similar to that...?
+Emu: Hehehe, movies sure are fun☆ Especially when we watch them together!
+Nene: I get that, but...aren't we going a lot lately? We went to see that period drama just last week.
+Tsukasa: Now that you mention it...
+Rui: I suppose we're all interested in film after experiencing the production process.
+(Enter: Rin)
+Rin: Hiya guys! What are you talking about?
+Emu: Oh, hi Rin! Good wonderhoy!
+Nene: We were talking about a movie we just saw. And how we've been going to the movies a lot recently.
+Rin: Wow, really?
+Rin: That's so nice! I wanna go see a movie too!
+Rui: I wish we could take you, but you'd be easily seen in the dark.
+Emu: Then we should watch a whole bunch in SEKAI! I'll bring all different types over☆
+Tsukasa: And we can recreate a movie theater with a projector like last time.
+Rin: Wow, thank you!
+Rin: That reminds me, when can we see the film you guys helped make?
+Rin: I want Miku and everyone to see it ASAP!
+Nene: We also really want you all to see it... But it's going to take time.
+Rui: That's right. Post-production will likely take half a year or so. And even then, it'll be some time before the premiere.
+Rin: Whaaat, that long?!
+Tsukasa: Even the footage we were shown was very much the rough cut.
+Emu: Now they're gonna go snip snip clip clip and make it perfect for everyone!
+Rin: I didn't realize! It really is tough making a movie.
+Rui: It truly was harder than I'd imagined. When I think about it now...
+Rui: It sort of makes me want to sing!
+Nene: Huh, where did that come from?!
+Emu: Then sing with me! My heart's already going thump thump bump after watching that movie!
+Rin: Me too me too! I want to sing with you guys!
+Rui: Hehe. Then, I believe it's showtime... Start the music!
+
+
+2 [MUSIC] 160: Showtime Ruler
+
+3 [mc] mc_ev_wonder_16_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Rin)
+Rin: Hehehe, that felt great!
+Emu: Yup! And I could really tell how excited you were feeling, Rui!
+Tsukasa: So could I. Rui, did working on the film really have that big of an impact on you?
+Rui: I suppose so. I did gain a lot of technical knowledge, but... I also reaffirmed my love for directing as a many-layered art.
+Rui: There's still so much I don't know. I hope to learn it all and build up my repertoire.
+Nene: Hehe. I'm glad you had a good experience.
+Emu: I bet Rui's gonna show us some new effects in our next show!
+Rui: Hehe. Of course, I'm always coming up with new effects...
+Rui: But in our next production, you can expect something wholly unprecedented.
+Rin: Wooow, that's exciting!
+Tsukasa: It is. However... We need to be just as motivated.
+Nene: You're right. We gotta keep experiencing new things and improving ourselves.
+Emu: Like training with the next troupe! Whatcha think they're gonna let us do?
+Rin: I wanna know too! It's exciting just to think about!
+Rin: Please let me come visit again when you go.
+Rui: Hehe, of course. We owe you for all the times you've helped us out.
+Nene: Oh, it's time for my solo practice... Sorry, I need to head back.
+Tsukasa: I also have a run scheduled! I'm going to do three laps of the park!
+Rui: Hehe, sounds like you're both hard at work.
+Emu: Then, I might join Tsukasa on his run!
+Emu: If you're gonna do three laps, I'm gonna do five! Let's do thiiis☆
+Tsukasa: With your athleticism, that's not inconceivable... But, literally, this won't be a walk in the park.
+Tsukasa: Anyway, if you'll run five laps, then so will I! I won't be caught lagging behind!
+Rin: That's impressive, but... You shouldn't overdo it.
+Nene: You really shouldn't.
+Rui: Well then, I think we should head back.
+Rui: Thank you all for joining us. As you just heard, Wonderlands×Showtime continues to evolve and improve.
+Emu: Next time you see us we're gonna be all powered up, so don't miss it! Until then...
+Emu: Bye bye, wonderhoy!

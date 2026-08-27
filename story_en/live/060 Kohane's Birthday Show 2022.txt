@@ -1,0 +1,86 @@
+60 Kohane's Birthday Show 2022
+
+1 [mc] mc_bd_2021kohane_1
+
+(Enter: Kohane)
+(Enter: An)
+Kohane: Hey, An.
+Kohane: Is it really okay to not help MEIKO and the others? Not even setting the table and preparing the dishes...
+An: It's fine, it's fine. Besides, they're preparing for your birthday, you know?
+An: The job of the birthday girl is to be celebrated! Look, everyone's here, just like always!
+An: Everyone's here to wish Kohane a happy birthday, right?
+An: C'mon, do it, do it, do it! Say <Happy birthday!>
+Kohane: Wow...! A-A-Amazing...! Even from over there...!
+Kohane: And over here too...!
+Kohane: I'm so happy... Thank you, everyone!
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Oh, are you guys ready over there?
+Toya: Nope, not yet.
+Miku: Rin and Len are doing the finishing touches on the cake with MEIKO.
+Akito: They looked like they were struggling quite a bit. It's going to take a while.
+An: I see...
+An: Sorry, Kohane. I guess I'll have to keep you waiting a little longer.
+Kohane: That's okay, An. Having to wait just builds up the excitement.
+Miku: But I feel bad for just making you wait around...
+Miku: Oh, I know. Since so many of you are here, why don't we sing something?
+An: Oh! Let's sing a happy birthday song together, shall we?
+An: Since it's not fun to sing as usual, how about we sing in a circle like "Froggy's Song"?
+Toya: That sounds interesting.
+Akito: Why would anyone do that...
+Akito: What?
+Toya: Hm?
+Kohane: Hehe...!
+Miku: Since there seems to be one shy person, I guess singing like we usually do is the way to go.
+An: In that case... Oh. Hey, Kohane! Is there a song you'd like to sing?
+Kohane: Hmm...
+Kohane: Oh! I'd like to do "Forward!"
+Kohane: It was the song I sang when I decided to become true "singing partners" with An.
+Kohane: This time, I want to sing with the feeling that we're all going to be a great team!
+An: Good idea! I'm on board!
+Toya: Me too.
+Miku: How about you, shy boy?
+Akito: Who are you calling shy boy?
+Akito: Well, it's a lot better than being made to sing in a circle. Do what you want.
+Kohane: Thanks, Shinonome!
+An: Then, let's sing! With all our might!
+Kohane: Yes! Everyone, come enjoy the song with us!
+
+
+2 [MUSIC] 55: Forward
+
+3 [mc] mc_bd_2021kohane_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Kohane: *Huff*... *Huff*... That was fun!
+An: Yeah! What about everyone out there?
+Kohane: Hehehe, I'm glad you guys had fun!
+Kohane: Thank you, Aoyagi, Shinonome!
+Toya: This is nothing. Afterall, we're friends.
+Akito: Well, at least this much.
+Miku: Hmmm... Hey, Kohane. Since it's your birthday, why don't you be a little more self-indulgent?
+An: That's right! We'll do anything!
+Akito: We?
+An: Yes! We!
+Kohane: Umm... Oh, I know! I want to take a picture of everyone celebrating!
+Akito: Huh? Even though it's your birthday, you want to take the picture and not be in it?
+Kohane: Yes! Is that okay...?
+Toya: If that's what Azusawa wants to do, then why not?
+An: Exactly♪
+Akito: Ugh fine, if you want to do it then let's do it. Since it's your birthday and all.
+Kohane: Yay! Hehehe, I'll take lots of pictures when the birthday party starts!
+(Enter: MEIKO)
+MEIKO: Sorry for making you all wait! We've finished setting up for the party.
+Kohane: Oh, MEIKO! Thank you for everything you've done for my birthday.
+MEIKO: Hehe, it's no problem at all. Celebrations are more fun with people!
+MEIKO: Come on, let's go to the store, shall we? If we don't hurry, Rin and Len might have started snacking.
+Kohane: Oh, before that...
+Kohane: Thank you all so much for coming to celebrate my birthday with me today, everyone.
+Kohane: Since everyone was hyping it up, it felt so good to sing and I had fun!
+Kohane: But the next time I sing, I'm going to work hard so that I can excite everyone and not rely on everyone to do so for me!
+Kohane: So, please come and see us again! Bye bye!

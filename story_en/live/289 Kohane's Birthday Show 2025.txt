@@ -1,0 +1,76 @@
+289 Kohane's Birthday Show 2025
+
+1 [mc] mc_bd_2024kohane_1
+
+(Enter: Kohane)
+(Enter: Miku)
+Miku: Sorry about today, Kohane.
+Miku: You came to join us for your party, but we weren't finished prepping in time.
+Kohane: Don't worry about that! I'm already so happy you all wanted to celebrate!
+Kohane: Besides, I enjoy relaxing with you too. It's fun to go on a stroll like this once in a while.
+Miku: Thanks.
+Miku: Oh.
+Miku: Hehe. It looks like we aren't the only ones who want to celebrate, Kohane.
+Kohane: Huh?
+Miku: Look, over that way.
+Kohane: Wah! When did they get here...?
+Miku: You're all here for Kohane, right?
+Miku: I feel bad hogging her all to myself... Could you guys wish her a happy birthday with me?
+Miku: Here we go! Happy birthday, Kohane!
+Kohane: Wow...
+Kohane: Everyone... Thank you so much! I'm so happy...!
+Miku: You're one step closer to becoming an adult.
+Kohane: D-Do you think so...? It still feels so far off to me...
+(Enter: An)
+An: Oh, there they are! Kohane! Miku!
+(Enter: Toya)
+(Enter: Akito)
+Akito: What was that sound a second ago?
+Kohane: Oh, umm... Everyone was wishing me a happy birthday.
+Toya: That's what it was? In that case, I wish we'd gotten here a moment sooner.
+An: Yeah. Maaan, if only we could've joined in!
+Kohane: Hehe, hearing you say that is enough for me. Thanks, everyone!
+Toya: All that said, you two certainly walked a long way. What were you talking about?
+Miku: Hm? Well, all kinds of stuff... Like how Kohane's a little closer to being an adult.
+Akito: Has she? She doesn't seem all that mature to me...
+Akito: Though, I guess I don't know many people who've changed this much since I met them.
+An: What was that? I'll have you know Kohane has ALWAYS been this cute and cool!
+Kohane: A-An...
+Kohane: Still... If I really have changed, even just a little, I'm glad.
+Kohane: Now that I'm going to more unfamiliar places, it feels like I'm taking in so many new things.
+Kohane: Practice is incredibly tough... But I feel like I'm focusing on music more than ever, and it's so fun.
+Kohane: So, I hope I can keep taking in all sorts of new things, and keep changing...!
+Miku: I see. I like your appetite.
+Akito: Yeah, not bad.
+Miku: So, since you three are here, does that mean everything's ready at the cafe?
+An: Oh, right!
+Toya: We came to get you two because they're done decorating and setting the table at MEIKO's.
+Miku: Thanks, guys. Then should we wrap up our little walk and head back?
+Kohane: Oh, wait! Before we do... Can we sing here?
+Kohane: I mean, so many people came to celebrate my birthday, so... It'd be nice to thank them...to give something back.
+Toya: Yes. That's a very nice thought.
+An: C'mon, of course we'll sing with you!
+Akito: Yeah, sounds good. Let's sing, huh?
+Kohane: Thanks, everyone!
+Kohane: Okay then, let's do this! Realize!
+
+
+2 [MUSIC] 356: Realize
+
+3 [mc] mc_bd_2024kohane_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Kohane: Thanks for listening, everyone!
+Kohane: I feel like I sang better than usual because I had so much gratitude I wanted to convey.
+Miku: I could tell. Your singing was full of positive energy. I felt stronger from singing with you.
+Miku: Don't you all feel the same?
+Kohane: I see. If that came across, I'm glad!
+An: Alright, should we get heading back to MEIKO's?
+Akito: Sounds good. They're all waiting on us, and the food's gonna get cold too.
+Toya: Yes. I'm sure we all have a lot of room in our stomachs since we just sang.
+Kohane: Right!
+Kohane: Okay everyone, we'll see you later!

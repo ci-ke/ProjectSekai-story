@@ -1,0 +1,92 @@
+135 A Gentleman Thief's Thrilling White Day?! After Show (event_51)
+
+1 [MUSIC] 95: Ifuudoudou
+
+2 [mc] mc_ev_shuffle_17_1
+
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+Akito: Phew... We managed to get in a good practice before An and Kohane get here, huh?
+Toya: Yes, we did. Thank you for helping us today, KAITO.
+KAITO: You're welcome! Actually, I may be the one who benefitted the most today!
+KAITO: I got some delicious chocolates and I even got to sing with the two of you.
+Akito: The chocolates are... Well, just a small token of our appreciation.
+KAITO: *Sob* Just hearing that... I couldn't be happier!
+KAITO: When I tried going over to MEIKO's place, everyone just shouted, "Don't come in yet, KAITO!"
+KAITO: Even after going through all the trouble of producing an original Valentine's Day song as a gift...
+Toya: Hm...? Doesn't that mean...?
+Akito: Yeah, my thoughts exactly... Something's up.
+KAITO: Hm? What is it? Is something wrong, you two?
+Akito: No, don't mind us.
+Toya: I suppose this is what it means to be tactless.
+KAITO: What? Can't you just tell me what's going on, please?
+(Enter: Len)
+Len: KAITO! There you are! Oh, Akito, Toya! You're both here too!
+Akito: Hey, Len. You here to take KAITO back to MEIKO's place?
+Len: Yeah! Wait... How did you know?
+Akito: Just a feeling. Anyway, mind if we both come with?
+Len: Yeah, of course! But shouldn't we wait for Kohane and An?
+Akito: Yeah, we already gave them their stuff.
+Len: Gave? What stuff?
+Toya: Hehe. Let's talk about that later. First, KAITO, we need to get you back to MEIKO's place.
+Len: Yeah, you're right! Alright, you guys, let's go!
+Akito: I'm glad I made such a big batch. There should be enough for everyone here...
+Akito: Speaking of which... What did that guy end up giving out?
+
+
+3 [mc] mc_ev_shuffle_17_2
+
+(Enter: Tsukasa)
+(Enter: Rui)
+(Enter: Len)
+Tsukasa: And so, our show ended up becoming a huge success!
+Rui: I see. Everyone was so focused on their chocolates the last time you told this story that we ended up missing it. I didn't realize it was so interesting!
+Len: Me neither! The way you held it together was so cool too, Tsukasa!
+Rui: Is that so...? Ah, if only I'd been there to see it...
+Rui: I've worked with Shinonome before and Mizuki's an old friend, but to think that Tsukasa was there with them.
+Rui: It would've been such a fun and fantastic show!
+Tsukasa: Yes, I see... If you'd been there, Rui, we might've been able to make the finale even more moving!
+Tsukasa: On the other hand, there's a good chance that it would've become even more chaotic...
+Len: But I understand how Rui feels! I was beside you the whole time and all I wanted was to join in on the fun.
+Len: I wish I could've done that show with you guys...
+Rui: As I...
+Tsukasa: What's going on with you two? I'm here in front of you, aren't I? Chin up!
+Tsukasa: To finish off White Day on a fun note, why don't we sing a song together?
+Len: Huh?
+Rui: Hehe. Excellent idea. We can bury our sadness over not getting to be in that show by doing one right now!
+Len: Hehe. That's true! If we all do a show together, then I'm sure we'll be all smiles in no time!
+Tsukasa: That's exactly right! So, without further ado!
+
+
+4 [MUSIC] 38: BURIKI NO DANCE
+
+5 [mc] mc_ev_shuffle_17_3
+
+(Enter: Tsukasa)
+(Enter: Rui)
+(Enter: Len)
+Tsukasa: Hah hah hah hah! A star is no star without a roaring round of applause!
+Len: Is it just me or is Tsukasa on more of a roll than usual...?
+Rui: To be fair, successfully improvising your way through a show would do wonders for anyone's confidence.
+Rui: The shows we saw when we visited the U.S. seemed to shock him a bit... But he seems much better now...
+Rui: Anyway, Tsukasa's never had trouble feeling confident about himself, so I'm sure he'll be fine.
+Tsukasa: Speaking of which, Emu and Nene are taking quite a bit of time to get here... I haven't seen Miku or the others either...
+Len: Of course you haven't! That's because they're... Wait, no!
+Tsukasa: Hm...? What do you mean by that...?
+Len: Oh, um... I mean, it's not like Emu's preparing a show as a return gift for the White Day Show or anything!
+Rui: Hmm... Looks like the cat's out of the bag...
+Tsukasa: Ah... So you're saying that there's a follow-up show in the works...? If that's the case, we'll need to think of a follow-up show ourselves!
+Rui: The return gift for a show is another show, which will subsequently be celebrated with an additional show...
+Rui: Well, isn't that just chaotic♪
+Len: *Sob* Emu, Nene... I'm so sorry...!
+Tsukasa: There's nothing to be worried about! Let's think of what to do for the next show!
+Tsukasa: Len, Rui! Give me all the ideas you can right now!
+Len: Huh? Really?
+Tsukasa: Yes, really!
+Rui: In that case, my first idea is we turn you, Tsukasa, into a chocolate statue and have you burst out of it...
+Tsukasa: A chocolate statue?! How do you plan on doing that?!
+Rui: Hehe. Well...
+Len: Alright, I'm gonna try coming up with some ideas too! Oh, before I do...!
+Len: Thanks for coming today, everyone! We're gonna put on lots of shows from here on out, so don't forget to stop by again!
+Tsukasa: Wh-What?! Is that even possible?!

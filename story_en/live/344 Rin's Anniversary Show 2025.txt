@@ -1,0 +1,127 @@
+344 Rin's Anniversary Show 2025
+
+1 [mc_timeline] mc_bd_2024rin_1
+
+(Enter: Rin)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Rin: Okay! We're definitely gonna win today!
+Rin: Shih! Sakki! We're enemies today, so I won't be going easy on you!
+Shiho: I could say the same to you.
+Saki: We won't lose to you! We're gonna put on the best show ever with Len!
+Ichika: Everyone's fired up.
+Ichika: I can't say I expected your anniversary plan to be a battle of the bands in SEKAI.
+Honami: Right. Team Rin versus Team Len... It's certainly a fresh idea.
+Ichika: These team compositions are unusual for us... I wonder how everything will turn out.
+Honami: I'm looking forward to it. Miku and the others said they'd be ready soon... I can't wait.
+Rin: Ichi? Hona? We're about to compete here, so none of this warm and fuzzy stuff, nuh-uh!
+Honami: Oh, that's true...
+Ichika: Sorry, Rin. I promise we'll take our performance seriously.
+Rin: That's okay, then! Just remember, I'm really counting on you two!
+Honami: Right!
+Ichika: Right!
+Shiho: Oh, right. Can I ask something?
+Rin: Hm? What is it?
+Shiho: Want to warm up before we start? We still want to play our best, even if we're on different teams.
+Rin: Oh, that sounds like fun! Let's do it, let's do it!
+Saki: Hey, I know! Given the occasion, you can pick the song! It's your special day, after all!
+Rin: Huh, I get to pick? Hmmm...
+Rin: Okay! I've got it!
+Rin: Everyone ready? purpose.
+
+
+2 [MUSIC] 383: purpose
+
+3 [mc_timeline] mc_bd_2024rin_2
+
+(Enter: Rin)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Rin: Thank you for listening, everyone!
+Rin: Hehehe, I'm glad you all got so excited♪ Shows are the best☆
+Ichika: Oh, that reminds me...
+Ichika: You're all here to celebrate Rin's anniversary, right?
+Honami: Since everyone's here, shall we do it right?
+Shiho: "Right"...? Ah, I get it. Sure, let's do it.
+Saki: Hey, everyone! Are you ready? Let's all give Rin a big cheer! One, two!
+Saki: Happy anniversary, Rin!
+Shiho: Happy anniversary!
+Honami: Happy anniversary!
+Ichika: Happy anniversary!
+Rin: Hehehe, thanks everyone!
+Rin: We'll be playing our hearts out for the show, so be sure to cheer us on! Len won't beat us!
+Rin: Oh, wait! It would be nice if you could cheer Len's band on too, okay?
+Ichika: Well, they should be ready by now. Should we head over?
+Rin: Yeah! Okay, everyone, see ya!
+(Exit: Ichika)
+(Exit: Saki)
+(Exit: Rin)
+(Exit: Shiho)
+(Exit: Honami)
+
+
+4 [mc_timeline] mc_bd_2024rin_3
+
+(Enter: MEIKO)
+(Enter: Rin)
+(Enter: Luka)
+MEIKO: Okay, all the chairs are set up... I think we're just about ready for the party!
+Rin: Yeah! Hehehe, I can't wait!
+Rin: And...of...course! I'm excited for you-know-what, too!
+Luka: Definitely.
+Luka: I wouldn't have guessed that Len and KAITO were planning a surprise show for you, Rin.
+MEIKO: If you hadn't told us, we never would have noticed.
+Rin: Heh heh heh! No one's pulling a fast one on me!
+Rin: Silly Len, thinking he's so sneaky♪ There's no way I would miss him and KAITO whispering all the time!
+Rin: So, since they're planning a surprise for us... We're going to surprise them right back!
+(Enter: Miku)
+Miku: Rin! Everyone! KAITO just offered to go get Len and slipped away!
+Rin: Oh, really?! Does that mean they're doing a rehearsal for their surprise show?
+Luka: Most likely. There's not much time until the party, so why don't we take this chance to rehearse too?
+Rin: You're right! We should!
+Rin: Everyone! Let us know what you think of our song! We wanna blow Len and KAITO away!
+MEIKO: We'd appreciate your feedback too, Miku.
+Miku: Of course! I'll be watching closely♪
+Rin: Thank you! Okay, here we go! Romeo & Cinderella!
+
+
+5 [MUSIC] 121: Romeo & Cinderella
+
+6 [mc_timeline] mc_bd_2024rin_4
+
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+Miku: That was great, you three! Len and KAITO are sure to be amazed!
+Rin: Hehehe, thanks! We're sure to nail the real thing, too!
+Rin: I would have liked to sing with you too...
+Miku: Huh? Oh, don't worry about that! Keeping an eye on Len and KAITO was fun, like being a spy!
+MEIKO: Hehe, I can imagine.
+Luka: You did always seem excited whenever you secretly contacted Rin.
+Rin: Hehehe. As long as you're having fun!
+Miku: Oh, that reminds me!
+Miku: Rin, it's great to plan a surprise for Len, but don't forget today is your anniversary too.
+Rin: Huh?
+Miku: Hey, everyone. Since we're here, why don't we give Rin a big cheer?
+Rin: Huh?!
+Luka: A good idea as always, Miku♪
+Miku: Hehe. Okay, here we go! Happy anniversary, Rin!
+MEIKO: Happy anniversary!
+Luka: Happy anniversary!
+Rin: Thank you all so much! Hehehe, I didn't expect to get cheers right here and now!
+Rin: But you're right, Miku! I'll enjoy today for myself, too!
+Rin: And with that, our rehearsal is all set! Let's go and call the boys!
+Miku: Right!
+MEIKO: Right!
+Luka: Right!
+Rin: Thank you all for coming to see me today! I hope you'll support me for a long time to come♪
+Rin: Bye bye!
+(Exit: MEIKO)
+(Exit: Luka)
+(Exit: Miku)
+(Exit: Rin)

@@ -1,0 +1,98 @@
+21 Welcome Show! All Stars
+
+1 [mc] mc_release_07_1
+
+(Enter: Miku)
+Miku: Hey, everyone, thanks for coming. I'm happy to see you all again.
+Miku: Yes, there are songs and music reverberating throughout all the SEKAI. Can you all hear them too?
+Miku: Yes. Every song sounds fantastic.
+Miku: Since they're all putting in their best effort, I have to try harder to cheer them on as well.
+Miku: Hehe. Will you cheer them on together with me?
+Miku: Then let's convey our feelings to them through this song!
+
+
+2 [MUSIC] 1: Tell Your World
+
+3 [mc] mc_release_07_2
+
+(Enter: Miku)
+Miku: Thanks, everyone!
+Miku: Oh...look! The SEKAI is responding to your feelings!
+(Enter: Minori)
+(Enter: Kohane)
+Minori: Wah! Where am I? Is this a stage?! Um... We were on our way back home from school, right?
+Kohane: Y-Yes, and then our smartphones suddenly lit up, and—
+Miku: Hello, Minori and Kohane!
+Minori: Wha... M-Miku?!
+Miku: Hehe. Sorry for the scare. This SEKAI is a different SEKAI from the ones you're familiar with.
+Miku: But everyone is happy that you're both here.
+Kohane: Everyone? Wh-What are all these lights? They're pretty...
+Minori: Hi, everyone! I'm Minori Hanasato!
+Kohane: I-I'm Kohane Azusawa! Um, nice to meet you...
+Miku: Minori and Kohane, would you sing with me?
+Minori: Sing? With Miku? On this impressive-looking stage?! S-Sure, i-if you don't mind?
+Miku: Not at all! So come on, let's sing together!
+Minori: "Okay!"
+Kohane: "Okay!"
+Minori: All right! Let's go all out!
+
+
+4 [MUSIC] 77: Wah Wah World
+
+5 [mc] mc_release_07_3
+
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Miku)
+Kohane: *Huff*... That was fun! Right, Minori?
+Minori: Right on! Miku, thanks for letting us sing with you!
+Miku: I had a lot of fun singing together too! Be seeing you around, then!
+Minori: Yup!
+Kohane: Thanks for listening, everyone!
+(Exit: Minori)
+(Exit: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Ichika)
+Ichika: Where... Huh? Miku?!
+Tsukasa: Wh-What in the world?! Where am I?
+Miku: Oh, you're all here too! Everyone's been waiting!
+Kanade: What are these lights?
+Miku: Hehe. Everyone's waiting to hear you sing!
+Tsukasa: Hm? Everyone...as in, we have an audience here?
+Tsukasa: Well, no self-respecting future star in the making would ever turn down a request to perform!
+Tsukasa: Get ready for the best show of your lives!
+Kanade: Miku... Are there really other people here, waiting to hear us sing?
+Miku: Yep.
+Kanade: All right... In that case...
+Miku: Come on, you too, Ichika!
+Ichika: Um... Okay!
+Miku: Let's all sing together!
+Miku: Ready... Start the music!
+
+
+6 [MUSIC] 76: SEKAI
+
+7 [mc] mc_release_07_4
+
+(Enter: Ichika)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Tsukasa: Well? Now do you see why I'm a future star?
+Kanade: It's strange... Our voices were in sync, even though we've never met before.
+Miku: Hehe, that's great.
+Ichika: Miku, thanks for letting us sing together. And also... Thank you, everyone here. I had a lot of fun.
+Miku: Sadly, it's almost time to say goodbye.
+Tsukasa: What, already? Anyway, I had a great time here, Miku! Adieu!
+Kanade: Thank you, Miku.
+Ichika: Ah, Miku! Will we...meet again?
+Miku: Yes, we definitely will. Bye, everyone!
+(Exit: Ichika)
+(Exit: Tsukasa)
+(Exit: Kanade)
+Miku: Hehe. I'm so happy I got to sing with them. I hope they were able to sense all of your feelings towards them too.
+Miku: You think so? Great!
+Miku: Please continue to cheer them on along with me!
+Miku: I'll be going now. Take care and see you next time!
+(Exit: Miku)

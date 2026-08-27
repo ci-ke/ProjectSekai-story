@@ -1,0 +1,167 @@
+329 Here on Our Dream Stage After Show (event_144)
+
+1 [mc_timeline] mc_ev_shuffle_49_1
+
+(Enter: Miku)
+Miku: Thank you all for coming!
+Miku: I was just thinking about our friends in SEKAI.
+Miku: They look so brilliant, working together to all stand on one stage.
+Miku: Hehe. You feel the same, don't you?
+Miku: Why don't we take a peek and see how they're doing right now?
+
+
+2 [mc_timeline] mc_ev_shuffle_49_2
+
+(Enter: KAITO)
+(Enter: Kohane)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+KAITO: Great work, you two! Toya's songs and An's singing were both amazing!
+Kohane: You put so much emotion into it, I was really moved.
+An: Really? Wow, thanks! But really, that was all Toya.
+Toya: Me?
+An: Yeah. You captured the characters' emotions so well in your songs that they were really easy to sing.
+Toya: I see. I'm glad to hear that.
+Toya: Still, those emotions were only expressed by your singing and the band's performance. Thank you, Shiraishi.
+Akito: Yeah, the band was pretty good, huh?
+Toya: Yes. It really was a special experience.
+
+
+3 [mc_timeline] mc_ev_shuffle_49_3
+
+(Enter: Miku)
+(Enter: Luka)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Luka: Today's practice sure was intense.
+Miku: Yes.
+Miku: Especially you, Shiho. You were really into it.
+Shiho: Huh? I was?
+Saki: You were piping hot! I kept getting caught up in your energy♪
+Shiho: Piping hot... I'm not food, you know.
+Shiho: Maybe it's because of the musical. We decided to exaggerate our playing to help the actors get into it.
+Ichika: Oh, so that's why it was so easy to sing.
+Honami: Hehe. The band and the singers all did wonderfully.
+
+
+4 [mc_timeline] mc_ev_shuffle_49_4
+
+(Enter: Mafuyu)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Len: You and the others' painting really did become a town, Ena. It was amazing.
+Ena: Right? Even Mafuyu complimented it.
+Mafuyu: Did I?
+Mizuki: It really was a beautiful painting, though!
+Kanade: Yes. It really captured that feeling of freedom and excitement.
+Rin: Good work, Ena.
+Ena: Well, Emu and Honami helped out as well, but thanks.
+Ena: I'm glad our work was able to make the show come to life.
+
+
+5 [mc_timeline] mc_ev_shuffle_49_5
+
+(Enter: Minori)
+(Enter: Miku)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Miku: Your acting was so good, Airi!
+Haruka: You were so lively and bold, and so natural.
+Airi: Well, I was pretty nervous beforehand.
+Airi: But it was gone as soon as I stepped on stage! Not to mention, it helped hearing the cheers from all our friends and the rest of the audience.
+Airi: But I also knew the songwriters, art team, costumers and everyone else were with us.
+Minori: Airi!
+Shizuku: Airi!
+Airi: Thank you especially for my wonderful outfit, Shizuku.
+Shizuku: Of course! I was so happy to see you wear it.
+
+
+6 [mc] mc_ev_shuffle_49_6
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+(Enter: MEIKO)
+MEIKO: You did great on the planning committee, Nene!
+Rui: The musical was excellent.
+Tsukasa: Indeed. It was no small feat, organizing that many people.
+Nene: Thank you. But if anything, they were the ones who helped me.
+Nene: At first, I wasn't sure I could handle the job...
+Nene: But when I saw everyone working so hard, my desire to put on the greatest show we could won out.
+Nene: Thanks to them, I was able to see it through until the very end.
+Emu: Nene...!
+MEIKO: You really have grown so much.
+Len: Hey, Nene! How about we sing together!
+Nene: Huh?
+Len: I just got the urge to do a show with you all, too!
+Emu: Me too, me too! I want to sing with everyone!
+Nene: In that case... Sure.
+Nene: Alright, here we go. It's showtime!
+
+
+7 [MUSIC] 106: As You Like It
+
+8 [mc_timeline] mc_ev_shuffle_49_7
+
+(Enter: Emu)
+(Enter: Len)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: MEIKO)
+Nene: Thank you for listening, everyone!
+Len: That was so much fun!
+Nene: Yeah... Shows really are amazing things.
+Nene: We'll keep on working to make even better shows, so I hope you'll keep cheering us on.
+Tsukasa: We appreciate your support!
+
+
+9 [mc_timeline] mc_ev_shuffle_49_8
+
+(Enter: Miku)
+Miku: Hehe. It seems like this was a great experience for everyone.
+Miku: And they've built wonderful connections by standing on stage together.
+Miku: Hm? I can sense some feelings gathering...
+(Enter: Ichika)
+(Enter: Kanade)
+(Enter: Kohane)
+(Enter: Minori)
+(Enter: Tsukasa)
+Ichika: Ah, Miku!
+Tsukasa: Oh, we meet again!
+Miku: Hello, everyone! Thanks for coming!
+Miku: Would you like to sing together?
+Kohane: With you?
+Minori: Wow, that sounds fun! Watching the show you all put on made me want to sing, too!
+Kanade: Yes. Me too.
+Ichika: Okay! Let's all sing together!
+Miku: Thank you! Okay, here we go! hot wind!
+
+
+10 [MUSIC] 489: hot wind
+
+11 [mc] mc_ev_shuffle_49_9
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Minori: Thanks, everyone!
+Ichika: I feel like I've gotten a reassuring pat on the back.
+Kohane: Me too. It's like everyone's resolved to keep on moving forward, together!
+Tsukasa: Indeed. And did you all feel the bonds between us while we were singing?
+Kanade: Bonds... Now that you mention it, yes.
+Miku: Those must be the pure and precious feelings you all hold.
+Miku: Treasure those feelings, and keep up the good work!
+Miku: And thank you all for coming here today! I hope to see you again soon!

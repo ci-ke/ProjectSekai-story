@@ -1,0 +1,94 @@
+99 Scramble Fan Festival! After Show (event_36)
+
+1 [mc] mc_ev_shuffle_12_1
+
+(Enter: Minori)
+Minori: Miku!
+Minori: Huh? I guess she's not here.
+Minori: Speaking of which, this place... Looks a little different than usual...
+(Enter: Kohane)
+Kohane: Oh, Minori!
+Minori: Kohane! What are you doing here?
+Kohane: I'm not sure... I was on the way to practice with my team, and the next thing I knew, I ended up here.
+Minori: Oh, I see...
+Minori: Well if you're here, then this must be SEKAI, right?
+Kohane: What? Did you say something?
+Minori: Hmm? N-Nothing! I didn't say anything!
+(Enter: Ichika)
+(Enter: Tsukasa)
+Tsukasa: Hey! Is there anybody there?
+Ichika: W-wait, Tsukasa!
+Kohane: Huh? Those voices...
+(Enter: Kanade)
+Tsukasa: Oh! Well if it isn't Hanasato and Azusawa!
+Minori: Tsukasa! And Ichika, too!
+Ichika: The two of you also ended up here.
+Kohane: Yes! But, what is this place?
+Ichika: I'm not sure... But I feel like this has happened before.
+Ichika: Oh, but I thought that might've been a dream or something... Huh? Could this also be a dream?
+Minori: Hmm, then it might be the same for me too. I was hoping to tell everyone about what happened at the Fan Festa, though...
+Kanade: Fan Festa...
+Kanade: Oh, I see. I must be having this dream after falling asleep thinking of the Fan Festa...
+Ichika: Huh? Who's over there...
+(Enter: Miku)
+Miku: Hehe. Welcome, everyone.
+Ichika: Oh, Miku!
+Kohane: "Miku!"
+Minori: "Miku!"
+Tsukasa: Was it you that called all of us here, Miku?
+Miku: Yup, that's right♪ I heard a lot of people's feelings, so that's why I called you all here.
+Kanade: Lots of people's feelings?
+Miku: Yes. Thanks to all of you, a lot of people have been able to laugh, be saved, and stayed hopeful.
+Miku: I think seeing all of you work hard to accomplish your goals has helped and encouraged a lot of people to do the same.
+Miku: That's why... On behalf of all those people, I wanted to express their gratitude to all of you.
+Miku: Thank you!
+Minori: Miku!
+Tsukasa: Ha ha ha! As expected of me, Tsukasa Tenma the superstar! The man who can't help make people smile!
+Tsukasa: But... That's not enough!
+Tsukasa: We are going to make even more people smile with our upcoming shows!
+Ichika: I'm also going to practice harder so that I can put on a performance that resonates in people's hearts!
+Kohane: My team and I also want to keep improving so that we can surpass RAD WEEKEND!
+Kanade: I have to keep making songs that can save people...
+Minori: Me too...! I also want to continue improving so that I can deliver more hope to people, even if a lot of things don't go smoothly!
+Miku: You all have such amazing goals!
+Miku: Hey, how about we sing about them?
+Kanade: Sing about them...?
+Miku: Yes. I think everyone here wants to hear you all sing, too.
+Minori: I... Want to sing!
+Kohane: I-I want to sing too!
+Ichika: Yeah, me too!
+Tsukasa: Nice, let's sing!
+Ichika: "Yes!"
+Kohane: "Yes!"
+Minori: "Yes!"
+Miku: Alright, then let's do it! Gunjo Sanka!
+
+
+2 [MUSIC] 141: Gunjo Sanka
+
+3 [mc] mc_ev_shuffle_12_2
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Miku: That was amazing, everyone!
+Minori: Thank you, Miku!
+Ichika: When I sing this song, I feel like I have so much more motivation... It makes me want to keep improving.
+Tsukasa: Right, I feel the same!
+Kanade: Yes... I'm sure, someday...
+Minori: Me too!
+Minori: Thank you for calling us here, Miku!
+Minori: I'm going to work really hard so that I can become an idol who can spread hope to lots of people!
+Miku: Great! Good luck!
+Miku: Ichika, Kohane, Tsukasa, Kanade. I know that your feelings will surely burn brighter.
+Miku: So, let's keep singing together!
+Ichika: "Yes!"
+Kohane: "Yes!"
+Minori: "Yes!"
+Tsukasa: "Yes!"
+Miku: Thank you for listening to us too, everyone. I hope you all will keep looking out for them too.
+Minori: Thank you!
+Miku: Hope we can meet again soon. Bye bye!

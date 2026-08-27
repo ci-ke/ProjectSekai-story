@@ -1,0 +1,109 @@
+194 Len's Anniversary Show 2023
+
+1 [mc] mc_bd_2022len_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
+(Enter: Len)
+Len: Alright. Seems like you're all ready to go!
+Shiho: Yup. Ready whenever you are.
+Rin: Oh! Heya everyone! Did you guys come to celebrate too?
+Honami: We were just about to perform, so this is perfect timing.
+Saki: Yeah! Heeeeey you guys! Can you hear us?
+Saki: While Miku and the others are getting the party ready, we're gonna do a quick show!
+Rin: Let's all have a great time♪
+Shiho: You're a lot more excited than usual, Rin.
+Ichika: Well it is her anniversary today. Oh, but Len seems to be acting as per usual.
+Len: I feel like getting overly excited like a child is a bit cringey. Besides, it's kind of embarrassing to be celebrated like this...
+Len: To be honest, I wanted to calm my nerves a little so doing this show is gonna help so much.
+Shiho: In that case, shall we get a move on to the show so that Len can go to the party calm and relaxed?
+Rin: I've been waiting! Are you all ready to get hyped, everybody?
+Len: Alright! Then let's go!
+Len: STAGE OF SEKAI!
+(Exit: Rin)
+
+
+2 [MUSIC] 159: STAGE OF SEKAI
+
+3 [mc] mc_bd_2022len_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
+(Enter: Len)
+Len: Thanks for listening, everyone!
+Rin: Good work out there, Len, girls! I had such an amazing time♪
+Ichika: I'm glad. But, Rin... Are you really okay to not sing?
+Rin: Yeah! That's because MEIKO promised me that we'll be doing karaoke when the party starts♪ That's why I'm saving my energy for now!
+Shiho: What? Karaoke?
+Saki: Heh heh heh♪ That is correct, because I have brought my karaoke mic!
+Honami: You mean that mic we used each time we celebrated any of our birthdays back then?
+Saki: Yup! I've inputted some more recent songs so let's sing them all together later♪
+Honami: Hehe. I'm getting more excited for the party now.
+Len: Hey everyone. Thank you for coming today! Thanks to all of your support and energy, I was able to put on a great show!
+Len: I'm going to keep putting my best into my performances, so I'm counting on your support!
+Rin: Bye bye!
+
+
+4 [mc] mc_bd_2022len_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: KAITO)
+(Enter: MEIKO)
+Len: Hey everyone! Thanks for coming to SEKAI!
+Len: Hehe. I really want to show you all a cooler side of me, so I prepared something for you!
+Miku: Alright, let's get into the reveal!
+Len: Yeah! Feast your eyes on...this!
+
+
+5 [mc] mc_bd_2022len_4
+
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: Len)
+(Enter: Miku)
+(Enter: KAITO)
+(Enter: Rin)
+Len: What do you think? Our costumes look pretty great, huh?
+Rin: Yeah! I can't wait for your performance! You got this, everybody!
+MEIKO: Don't you worry! Let's do it, Len!
+Len: You got it! Let's all have a fun time, everyone!
+Len: Let's go! ROKI!
+(Exit: Rin)
+
+
+6 [MUSIC] 2: ROKI
+
+7 [mc] mc_bd_2022len_5
+
+(Enter: Miku)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+(Enter: Rin)
+Len: Woohoo! We totally knocked that out of the park!
+Rin: Len, you guys, you were all so amazing! Right, everyone?
+Len: Hehehe. Thanks for playing with me, you guys!
+Luka: You're welcome. I'm glad that we got to be a part of your anniversary celebration.
+KAITO: Well then, once again, shall we wish Len a happy anniversary?
+MEIKO: Yes! Are you all ready too, everyone? Here we go!
+Miku: "Happy anniversary, Len!"
+Luka: "Happy anniversary, Len!"
+MEIKO: "Happy anniversary, Len!"
+KAITO: "Happy anniversary, Len!"
+Rin: "Happy anniversary, Len!"
+Len: Wow! Thank you!
+Len: And thank you so much for coming too, everyone!
+Len: I promise to keep the cool songs cool and the fun songs fun!
+Len: And I'm also going to sing as much as possible while cherishing the thoughts and feelings put into every song!
+Len: So please come again to listen any time!
+Rin: Bye bye!

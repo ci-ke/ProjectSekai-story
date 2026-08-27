@@ -1,0 +1,80 @@
+222 Get Over It After Show (event_91)
+
+1 [mc] mc_ev_band_13_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: MEIKO)
+Saki: Phew, that was so much fun!
+Honami: Thank you for watching us perform. How was it?
+MEIKO: You were incredible.
+Miku: Yeah. I could tell you were really having fun, just like at the solo show.
+Ichika: I'm glad to hear it...
+Shiho: But there's a definite drop in quality when we let our feelings take over.
+Shiho: Having fun is important and all, but... We need to keep improving and tightening up our performance.
+Saki: Yeah. After all, we're gonna be pros soon!
+MEIKO: That's right. You mentioned that you already had your meeting.
+Ichika: Yes. Now our parents are looking through the contract.
+Honami: We had already told them what was going on, so I don't think they'll have a problem with it... But I'm still a little nervous.
+Shiho: But hey, even if they do, we just have to convince them.
+Saki: Yeah! And then they'll definitely let us do it!
+Saki: I mean, our parents are bound to support our dreams!
+Ichika: Right.
+Saki: So much is gonna happen moving forward. I can't even imagine what sort of stuff's waiting for us!
+Saki: Just thinking about it makes my heart race!
+Ichika: You said the same thing the other day, didn't you Saki?
+Honami: I know what you mean, though. In fact...
+Honami: What if we took this feeling and put it into one more song?
+Saki: Ooh, Hona! I was just thinking that too!
+Saki: With this much excitement, we'll probably sound even better♪
+Shiho: Why not, I guess.
+Ichika: Yes, I'm also in the mood to keep singing.
+Miku: Then, can I join you all? I want to feel your excitement too.
+Saki: Of course! Alright then... Here we go!
+Saki: From Tokyo!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 130: From Tokyo
+
+3 [mc] mc_ev_band_13_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: MEIKO)
+Saki: Oh my gosh, weren't we so good just now?!
+Miku: Yeah. It was like our sounds came together as one.
+MEIKO: And I could hear all your enjoyment and excitement in the music.
+MEIKO: Also... I was reminded how much I love Leo/need's sound.
+Honami: MEIKO...
+MEIKO: I remember telling you to keep up the good work the other day, and...
+MEIKO: With how you sounded just now, I'm confident that you'll do just that.
+Saki: It makes me really happy to hear you say that.
+Saki: To be totally honest, I was anxious as well as excited. We just don't know what the future holds.
+Saki: But while we were performing, I had this feeling like... If we're all together we can overcome any obstacle!
+Shiho: Saki...
+MEIKO: You're right.
+MEIKO: After all, we can't forget that Leo/need was brought together by the strength of your bonds.
+MEIKO: And now, you're about to make a huge dream of yours come true.
+MEIKO: So I know you'll be fine, no matter what.
+Shiho: Thank you.
+Ichika: Hearing that from you puts us at ease.
+Saki: Yup! We gotta do our best once we're pros!
+Saki: *Gasp* Wait, isn't it time to go to the rehearsal studio?!
+Honami: Oh, yes... If we don't go now, we might lose our booking.
+Miku: But you were just practicing here... Are you going to practice there too?
+MEIKO: You're going hard. I like that energy.
+Shiho: Our next song will probably be used for our debut, so... We want to throw everything we have at it.
+Ichika: It's also going to reach far more people now, so we can't give any less than our best.
+Miku: Your debut song...? I'm excited for it.
+MEIKO: We look forward to hearing a great new song.
+Saki: Leave it to me! I'm gonna think real hard on this one!
+Saki: I hope you're all excited too! I promise I'm gonna write a song that blows you away!
+Honami: Hehe. I'm looking forward to our next show.
+Saki: Alright then, see ya!

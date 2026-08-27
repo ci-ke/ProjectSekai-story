@@ -1,0 +1,77 @@
+295 Knowing the Unseen After Show (event_127)
+
+1 [mc] mc_ev_night_16_1
+
+(Enter: Rin)
+(Enter: Len)
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+Ena: Oh, there they are. Rin, Len!
+Len: Ena... And everyone else is here too.
+Ena: Yeah, we were just taking a little break. What were you two talking about?
+Rin: We were talking about your dad's solo exhibit.
+Len: All of his paintings were so amazing...
+Ena: Ah, right.
+Mizuki: Speaking of which, how did it go, Ena? You went as part of a special lesson, right?
+Ena: Yeah, I did. It was a tough pill to swallow at first, but... I'm glad I went.
+Ena: It was like... I was able to see something I couldn't before. Almost as though a path opened up in front of me.
+Mizuki: Right... That's good to hear!
+Kanade: Yes... I thought you looked really cool studying that painting, Ena.
+Mafuyu: Kanade, that's...
+Kanade: What?
+Ena: Studying that painting...? Hold on, how do you know about that?
+Kanade: Oh... Um, well...
+Mizuki: Uhh, the thing is, we were a little worried. So we decided to go and check up on you!
+Mizuki: We thought about calling out to you, but you were really focused on the artwork.
+Mizuki: We didn't want to interrupt, so we looked around the exhibit and left.
+Ena: Really? I didn't notice you guys at all.
+Ena: I guess... Maybe it was a good thing. I had a lot going on in my mind that day.
+Ena: But thanks for your concern, everyone.
+Ena: By the way, wanna sing together? I'm just sorta in the mood for it.
+Mizuki: Oh, I like the sound of that! Count me in!
+Kanade: Me too.
+Rin: Then, I'll join as well.
+Ena: Really? You'll sing with us?
+Rin: Yeah. You seem relieved now, so I'd like to sing with you.
+Len: Okay, I'll be happy to listen to you sing. Um... Good luck, Ena.
+Ena: Thank you.
+Ena: Here we go. Nomad.
+(Exit: Len)
+
+
+2 [MUSIC] 189: Nomad
+
+3 [mc] mc_ev_night_16_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+(Enter: Len)
+Ena: Thank you for listening, everyone.
+Ena: After singing like that, I'm reminded that I have to keep drawing.
+Ena: I've been thinking a lot. Can I actually make it as an artist? Is it okay to try to without fully committing?
+Ena: But I've realized... I can't live without art in my life.
+Ena: So even if it hurts me, I'm going to keep drawing no matter what.
+Len: Ena...
+Ena: There'll be times when I'm feeling lost or worried. But I'll be doing my best, so I hope you're watching.
+Ena: Thank you!
+Kanade: Hehe. I'm looking forward to seeing what pieces you're going to make.
+Ena: It makes me a little nervous hearing that, but... I'll do my best to meet your expectations.
+Kanade: *Nod*
+Ena: Alright, shall we head back? Rin, Len, thanks for keeping us company.
+Len: Oh...
+Mafuyu: What's wrong?
+Len: Um, actually... Rin and I drew some pictures together. I was hoping you could look at them...
+Ena: Wait, really? When did you draw them?
+Rin: Before we went to see you on the day of the exhibition.
+Rin: Len was so restless he couldn't sit still. So I drew with him.
+Len: R-Rin! That was supposed to be a secret!
+Mizuki: Hahaha, so that's what happened!
+Kanade: You must've been really looking forward to it.
+Len: *Groan*
+Ena: That's nothing to be embarrassed about. Now, could you show us what you drew?
+Len: Oh... Yeah! So...

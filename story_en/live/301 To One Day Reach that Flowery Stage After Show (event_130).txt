@@ -1,0 +1,86 @@
+301 To One Day Reach that Flowery Stage After Show (event_130)
+
+1 [mc] mc_ev_idol_wl_01_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Minori: Okay, looks like everyone's here!
+Shizuku: Yes! Shall we start rehearsing for our stream?
+Minori: Sounds good! Is what I want to say...
+Minori: But for some reason, I really want to do a show right now... Would you mind if we sang a song?!
+Airi: Whoa, wait a second. Where did that come from?
+Haruka: Actually, I think I understand how Minori feels.
+Miku: You do, Haruka?
+Haruka: You know how we got a glimpse into the feelings of people dear to us in the new SEKAI area the other day, right?
+Haruka: Well, thanks to that, we were able to take another step forward, so I'd like to give something back to them.
+Shizuku: Does that mean... You're suggesting we give back by singing a song?
+Haruka: Yeah. One that's filled with our gratitude for those who received hope from us and supported us in return.
+Minori: Wow... That's so wonderful, Haruka!
+Miku: Yeah, I think that's a great idea.
+Miku: I'm sure your thoughts and feelings will go beyond SEKAI and reach everyone!
+Miku: I can't wait to hear it.
+Airi: A song that expresses our gratitude, huh...
+Airi: In that case, I'd like you to join us, Miku.
+Miku: What? Me too?
+Shizuku: Oh... That's a lovely idea!
+Shizuku: We've only been able to come this far in our career thanks to the advice from you and the others.
+Shizuku: But it's a bit of a shame that we're not able to introduce you to others in our world...
+Minori: Oh, I know!
+Minori: We can sing together in this SEKAI and make sure our feelings reach those people!
+Airi: That's right. In a way, this song will also be an expression of our gratitude for you and the others too. So, let's sing together!
+Miku: Everyone...
+Miku: Thank you! In that case, I'll join in!
+Haruka: Alright, let's do it. As a thank you from us...
+Haruka: MOTTO!!!
+
+
+2 [MUSIC] 405: MOTTO!!!
+
+3 [mc] mc_ev_idol_wl_01_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Minori: Thank you, everyone!
+Airi: Please continue to keep supporting us!
+Minori: Phew. That was an amazing performance!
+Shizuku: It was! I got so excited thinking about expressing our feelings to everyone.
+Haruka: Hehe, I also had a fun time dancing.
+Miku: I could really tell just how much fun all of you were having!
+Miku: Also, your feelings of gratitude...
+Miku: I'm sure they have reached your fans!
+Minori: Hehehe, thank you, Miku!
+Minori: But, we still have to work even harder!
+Minori: Our next mission is to deliver the feelings we expressed here today to those in our world, where everyone can see!
+Haruka: That's right.
+Haruka: As we gain more exposure, I'm sure we'll only get busier.
+Haruka: Let's do our best to give everyone hope for a better tomorrow.
+Airi: Yes, well said. Also...
+Airi: The busier we get, the harder it might be to give our undivided attention to each job, but as idols, we need to always bring in energy.
+Airi: That's why we mustn't forget who we are now! Let's do our best in each and every job with big smiles on our faces!
+Minori: Yeah!
+Haruka: Yeah!
+Shizuku: Yes!
+Miku: Hehehe. I feel like I got a boost of energy from you all again.
+Shizuku: Energy?
+Miku: Yeah. You all kept talking about how much we have done for you, but me and the others have received a lot from you too.
+Miku: Like your honest feelings and your drive to become the best idols.
+Miku: We have learned so much from observing you that I think it has helped us become better idols too.
+Minori: Miku...
+Miku: So... Let's all keep doing our best together♪
+Minori: Yeah! It'll be my pleasure!
+Shizuku: Oh... Is it almost time?
+Airi: Thank you for the reminder. We've got a meeting with Saito after this.
+Minori: I wonder what it's about. Do you think we got another offer?
+Haruka: I'm excited to find out. We'll let you and the others know later, Miku.
+Miku: Okay, I'll be looking forward to it!
+Airi: Alright everyone, this is goodbye for today!
+Shizuku: Please look forward to our next performance!
+Minori: Bye bye!
+Haruka: Bye bye!
+Miku: Bye bye!

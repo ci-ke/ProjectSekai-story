@@ -1,0 +1,85 @@
+210 At The End of The Unraveled Thread After Show (event_85)
+
+1 [mc] mc_ev_idol_12_1
+
+(Enter: Shizuku)
+(Enter: MEIKO)
+Shizuku: *Sigh* I think that should do it for our warm-ups. As soon as everyone arrives, I should be able to get straight into practice.
+Shizuku: Thank you for doing it with me, MEIKO!
+MEIKO: No problem. Besides, it was a good warm up for me too! I've got a good feeling that I'll be singing really well today♪
+Shizuku: That's wonderful! I came a little early, but I'm glad I was able to use my time while waiting.
+(Enter: Airi)
+Airi: Oh? Shizuku, I didn't realize you were already here.
+(Exit: Airi)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Minori)
+(Enter: Len)
+MEIKO: Hey everyone! Shizuku and I went ahead and already did our warm-ups.
+Haruka: Oh, I see.
+Len: I know you're a hard worker, Shizuku, but I feel like you've been going even more above and beyond lately.
+Minori: Yeah! I should learn from you!
+Shizuku: Hehe, I don't think I've been doing that much more...
+Shizuku: But I realized something during our TV appearance.
+Shizuku: It's thanks to all of you I was able to come to like myself.
+Shizuku: Which is why I want to do my very best for MORE MORE JUMP! and all of our supportive fans.
+Airi: Shizuku...
+Shizuku: Actually, before we start practice... Can we all sing one song together?
+Shizuku: I really would like to express my feelings to everyone here.
+Haruka: Hehe, why not? I'm in.
+Airi: Of course. There's no way we would say no to that!
+Minori: Yup, yup! Let's all sing!
+Len: Hey, may I join you guys?
+Shizuku: Yes, of course!
+Shizuku: Alright, let's sing.
+Shizuku: We are.
+(Exit: MEIKO)
+
+
+2 [MUSIC] 287: We are
+
+3 [mc] mc_ev_idol_12_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Shizuku)
+(Enter: Len)
+(Enter: Airi)
+(Enter: MEIKO)
+Shizuku: Thank you for listening, everyone!
+Minori: You were soooooo amazing, Shizuku!
+MEIKO: Yes, you truly were. Your songs always fill me with courage and hope, but...
+MEIKO: Your feelings came through in that song stronger than I think they ever have, Shizuku.
+Airi: I think so too. It felt like there was this kind of intensity when we were singing.
+Haruka: Yes. You made your feelings clear with your singing, Shizuku.
+Shizuku: Thank you... All of you.
+Airi: Oh man... On top of being beautiful, you're cool too now? I don't think I'll ever win.
+Shizuku: That's not true at all. In my opinion, you are the most beautiful and cool people I know.
+Minori: We are?!
+Shizuku: Yes. It's like I said before... I was able to be myself on TV and come to love my past self because of all of you.
+Shizuku: Even though I left the idol life once before, it's with your support that I enjoy walking that path now.
+Shizuku: To me, you are the best and coolest heroes there are. So, really, thank you for everything.
+Airi: You know you've just proven us right by saying something as cool as that on a whim.
+Len: But, I'm so happy for you guys. I'm glad that your first TV appearance was a huge success.
+MEIKO: Yes. It just makes me all the more excited for what other things you'll be doing from here!
+Airi: Yes. Although we got over this big hurdle, we still have a long way to go before we can be content with the way things are.
+Airi: Alright, now's the time to buckle down, go for broke and make that show at the Dome happen!
+Haruka: Yeah! Yes!
+Minori: Yeah! Yes!
+Shizuku: Yeah! Yes!
+Shizuku: And in order to make that come true, we will need even more and more people to know about us.
+Haruka: That's right. We better start thinking about what we're going to do next.
+Minori: *Gasp* I need to practice my speaking skills! I'll need it the next time we get another TV appearance offer.
+Airi: You're getting ahead of yourself!
+Shizuku: Even so, I can't wait to spread lots of hope to those who have kept supporting us until now.
+Airi: Same here. We'll probably reveal more details in another stream, so...
+Airi: Make sure to keep a look out! We hope you continue to stick with us on our journey!
+Shizuku: We'll keep working hard to express our gratitude to you all. We would love it if you could support us.
+Haruka: Well, as sad as we are to say goodbye, that's all we have time for today.
+Minori: Yeah! Alright everybody, all together now!
+Haruka: Bye!
+Minori: Bye!
+Shizuku: Bye!
+Airi: Bye!
+Len: See you!
+MEIKO: See you!

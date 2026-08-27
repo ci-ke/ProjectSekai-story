@@ -1,0 +1,99 @@
+294 Rise as One! After Show (event_126)
+
+1 [mc] mc_ev_shuffle_44_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
+(Enter: KAITO)
+Saki: Oh yeah, Hona, how was your walk with Minori and Samo?
+Honami: Oh, it was fun! Shibao was clearly very happy about it too.
+Honami: But... Actually, quite a lot happened besides just our walk.
+Shiho: What do you mean?
+KAITO: Oh... That's right. You seemed to have something on your mind.
+Honami: Yes. Someone I met on my walk had decided to enter a disc dog competition.
+Honami: But he wasn't very comfortable with dogs, so I was thinking how to alleviate that fear.
+Ichika: All that happened? Well, how did it turn out?
+Honami: Hehe. I found an answer, thanks to KAITO.
+Rin: Wait, thanks to KAITO?
+Honami: That's right. He told me about when he first bonded with Shibao.
+Honami: That story served as a hint to helping that person befriend the dog he'd be competing with.
+Rin: That's right! KAITO was super scared of Bashi at first!
+Rin: During Operation: Babysit Bashi, he came back to SEKAI once telling us how his barking freaked him out!
+KAITO: Rin...
+Saki: Hahaha! Is that an embarrassed KAITO I see?
+Shiho: Um... So, how did you bond with Shibao?
+KAITO: Well... Once I learned more about him and realized he's a good dog, it came naturally.
+KAITO: Oh... And I played something for him.
+Ichika: Hehe. That sounds like you, KAITO.
+KAITO: Nothing else came to mind...
+Honami: Regardless, I think Shibao liked it. He certainly seemed to enjoy your company.
+Saki: Ooh! That's our KAITO!
+Saki: Shiho, aren't you worried he's gonna beat you at animal caretaking?
+Shiho: Why should we be competing?
+Shiho: Still... Shibao really had it good, getting to hear KAITO perform just for him.
+Rin: True that! Hey, KAITO, I wanna hear you play too!
+KAITO: What...? You hear that all the time, don't you?
+Rin: Yeah, but! I wanna hear you again now that I've heard that story!
+Honami: Oh... Then, would you like to play together? We were just about to resume our practice.
+KAITO: Well... If that's what you all want.
+Saki: Yippee♪ Okay, let's get started!
+Ichika: Right! Okay, here we go. Regulus!
+(Exit: Rin)
+
+
+2 [MUSIC] 423: Regulus
+
+3 [mc] mc_ev_shuffle_44_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+KAITO: What?! You were in a disc dog competition, Akito?! If you'd told us, we totally woulda gone to cheer you on!
+Akito: And I didn't tell you because I didn't want that.
+Toya: So, how did you do in the end?
+Akito: Well... We did place, but we didn't make it to first.
+An: Just placing is already amazing! It was your first time doing disc dog, right?
+Kohane: Well done, Shinonome.
+KAITO: Still, I didn't know you liked dogs, Akito. You love them enough to join a competition with one!
+Akito: Huh? Well...
+An: Oh yeah, your team name, "BAD DOGS", has them in it too!
+Kohane: You said it's a slangy way of saying you mean business, right?
+Toya: Yes, that's right.
+An: Oh, but... By calling dogs "bad", it almost sounds like you dislike them...
+An: Akito, don't you think it'd be better to change your name to "GOOD DOGS"?
+Akito: As if.
+Toya: Yes... I agree that "BAD DOGS" is more appropriate.
+Akito: Hey, Toya...
+Toya: Heh... Apologies.
+Kohane: Huh?
+Toya: At any rate, I'm glad the competition went off without a hitch.
+Akito: Seriously. And well, it did give me a boost too.
+An: A boost?
+Akito: I met a pair of partners trying to achieve their dream. You see that, and you feel like you can't fall behind.
+Toya: Akito... Yes, you're right.
+Akito: So, I unfortunately need you guys to help me practice. I wanna make up for the time I spent on that competition.
+An: Okay! I mean, that's why we got together in the first place.
+KAITO: Oh! Then, could I join?! I haven't sung with you guys lately.
+Kohane: Yes, please do.
+Akito: Alright, here we go... Cinema.
+
+
+4 [MUSIC] 126: Cinema
+
+5 [mc] mc_ev_shuffle_44_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+KAITO: You guys all sang great!
+Toya: Thank you. However...
+Akito: Right. We're still not close to where we wanna be. Let's figure out what to work on and go again.
+Kohane: Yeah!
+An: Yeah!

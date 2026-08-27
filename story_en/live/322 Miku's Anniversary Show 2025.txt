@@ -1,0 +1,115 @@
+322 Miku's Anniversary Show 2025
+
+1 [mc] mc_bd_2024miku_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: Ah! Hey, everyone! Thanks for coming!
+Saki: I'm sure I don't even need to ask, but... Do you know what day it is?
+Honami: Haha, I think they know.
+Shiho: Let's have Ichika give us the right answer.
+Ichika: Huh? Me?
+Miku: Please do, Ichika.
+Ichika: O-Okay. Um, the answer is...
+Ichika: M-Miku's anniversary...!
+Saki: Ding ding ding! That's right! Today, we're celebrating Miku!
+Miku: Thank you all for coming, everyone. It really makes me happy.
+Miku: You too, girls. Thanks for celebrating my anniversary. I'll have to pay you back.
+Honami: You don't have to do that... It's your special day, after all.
+Saki: That's right! You're the star of the day, so you call the shots! Anything you want, we'll make it happen!
+Miku: Anything I want, huh...?
+Miku: In that case, let's all sing together. That's the best, most fun thing I can think of.
+Ichika: Okay! We can do that!
+Shiho: What do you want to sing, Miku? You pick.
+Miku: Hehe. Thanks.
+Miku: Okay, everyone. Here we go... ray!
+
+
+2 [MUSIC] 148: ray
+
+3 [mc] mc_bd_2024miku_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Miku: Thank you all so much. Singing truly is so much fun.
+Honami: I'm so glad you and our guests enjoyed it.
+Ichika: Yeah! Though, it's sort of what we always do, so it didn't feel much like a celebration.
+Saki: Haha, it's fine as long as everyone had fun! But, there is something we can do to celebrate!
+Saki: Let's wish Miku a happy anniversary together!
+Shiho: Sure, sounds good. Let's do it.
+Saki: Then it's settled! Okay, everyone! Ready? Here we go!
+Saki: Happy anniversary, Miku!
+Ichika: Happy anniversary!
+Honami: Happy anniversary!
+Shiho: Happy anniversary!
+Miku: Thank you, girls!
+Miku: And thank you all for coming, too. I was so glad to spend this time together.
+Miku: We'll keep working to make even better music. So, please come and see us again!
+
+
+4 [mc] mc_bd_2024miku_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: Everyone in SEKAI looked like they were having a great time.
+MEIKO: Yes! That they ended up performing together like they always do was very like them.
+Len: That Miku's desire to reach everyone with her songs definitely came through!
+Rin: Hehehe. Just like our Miku♪
+KAITO: We're also going to sing for everyone who came, right? We're all ready to go.
+Miku: Thanks! Time to express my hopes for everyone!
+Miku: May you find the way forward to a bright, wonderful future! NEO!
+
+
+5 [MUSIC] 366: NEO
+
+6 [mc] mc_bd_2024miku_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thank you all for getting so excited for us!
+Len: We were able to put even more heart into our song today than usual!
+MEIKO: It's Miku's special day, after all! Of course we're going to go above and beyond!
+MEIKO: Did you all feel our wish for you to find your way forward to a bright, wonderful future?
+KAITO: It sounds like you did! I hope we can come along with you.
+Luka: Haha, me too. What kind of future do you all want to see?
+Miku: What kind of future?
+Len: Hmm... I want to become an even cooler singer!
+Rin: I want to sing with warmth and maturity, the way Luka and MEIKO can.
+Luka: Oh? But you already can, you know?
+Miku: What about you, Luka?
+Luka: Me? As long as you're smiling, Miku, that's enough for me.
+Miku: Huh?
+MEIKO: So smooth, Luka! I feel the same way, though!
+Miku: Thank you all very much...
+Miku: But really, as long as I'm with all of you, that's enough to make me smile every day.
+Miku: So, I hope you'll all stay by my side!
+MEIKO: Of course! We'll always be here for you.
+Rin: Yeah! We'll chat a lot, play every day and sing all we want together!
+KAITO: Okay! Let's give Miku our best wishes!
+MEIKO: Right! Here we go, everyone. Happy anniversary, Miku!
+Rin: Happy anniversary!
+Len: Happy anniversary!
+Luka: Happy anniversary!
+KAITO: Happy anniversary!
+Miku: Thank you, everyone!
+Miku: Thank you for coming to celebrate me, and for listening to us sing!
+Miku: As long as I can express my feelings to you, I'll always be able to sing with a smile!
+Miku: So I hope you'll come to listen again soon!
+Miku: And with that...
+Miku: Bye bye!
+Rin: Bye bye!
+Len: Bye bye!

@@ -1,0 +1,101 @@
+255 Hello to a New Day! After Show (event_108)
+
+1 [MUSIC] 63: needLe
+
+2 [mc] mc_ev_shuffle_38_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Ichika: Thanks, everyone!
+Miku: Good work, girls. Don't you think that's the most into a performance you've been lately?
+Saki: Yeah! How to explain it... I feel like our feelings translated directly into music!
+Honami: I agree...! Hehe, I want to play lots more today.
+Shiho: Oh, Honami's in the spirit. Should we do another, then?
+Honami: Yes! Oh... But I have other plans today, so I should be leaving soon.
+Saki: Oh, me too! Ahh, I wanted to play for a little longer, though...
+Miku: I see, you both have plans.
+Saki: My family's getting together for dinner tonight♪
+Honami: Oh, we'll be sharing a meal as well... We're having sukiyaki. So, I've been asked to pick up some meat.
+Ichika: Sukiyaki... That sounds really nice. I wish I could have some.
+Saki: Oh! Then how about we have a sukiyaki party here sometime?! We can all bring different ingredients!
+Shiho: Nice, that sounds fun.
+Honami: Oh... I need to be going.
+Saki: Me too! See you all tomorrow!
+(Exit: Saki)
+(Exit: Honami)
+Shiho: Well, I think I'll head home too. Shizuku sent me a message earlier... How about you, Ichika?
+Ichika: I think I'll stay a little longer. I haven't played my fill yet.
+Shiho: Gotcha. Well, I'll see you tomorrow.
+Ichika: See you then.
+(Exit: Shiho)
+Miku: So, Ichika, should we do some practice together?
+Ichika: Sounds good. Thanks for always doing this, Miku.
+Miku: Alright, then let's get... Huh? Ichika...that's...
+Ichika: Huh? Whoa! Something's flashing...?
+Miku: Oh, maybe... You're getting a call.
+Ichika: A call?
+Miku: Yeah. Because your feelings are connecting to someone else's. I'll see you later, Ichika. Let's practice another time!
+Ichika: What...?
+Ichika: Whoa...! It's so bright...!
+
+
+3 [mc] mc_ev_shuffle_38_2
+
+(Enter: Ichika)
+Ichika: Huh...?!
+Ichika: Oh... Is this...?
+(Enter: Tsukasa)
+Tsukasa: Hah hah hah! It'll take more than this to surprise me now!
+(Exit: Tsukasa)
+(Enter: Tsukasa)
+(Enter: Minori)
+Minori: Wow! I'm back in this strange SEKAI...!
+Ichika: Oh, it is...!
+(Enter: Kohane)
+(Enter: Kanade)
+Kohane: Ichika...! If we're able to meet here, then...
+Kanade: Does this mean...?
+(Enter: Miku)
+Miku: Long time no see, everyone. I'm happy to see you all again.
+Ichika: Miku!
+Kohane: So you called us here, Miku.
+Miku: Uh-huh. And...it's just like I thought.
+Miku: Your eyes are all sparkling so brightly.
+Minori: Sparkling?
+Miku: Yeah! That sparkle in your eyes tells me you're determined to keep pursuing your dreams and goals.
+Miku: Seeing that makes me want to work even harder to support you.
+Kanade: Work even harder...
+Ichika: Oh...
+Ichika: I see... Miku is connected too...
+Ichika: Miku, let's sing together. Like we always do.
+Miku: Hehe, just when I was going to say that myself... You beat me to it.
+Tsukasa: However, your eager mindset is admirable! Singing and dancing as our hearts desire... That is precisely what we need to do!
+Kohane: Yeah... I want to sing together too.
+Miku: Great, then let's go!
+Miku: NEO!
+
+
+4 [MUSIC] 366: NEO
+
+5 [mc] mc_ev_shuffle_38_3
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Kohane: Thanks, everyone!
+Tsukasa: That was a wonderful song, one that seems to cleanse the heart!
+Minori: Singing it felt sooo good!
+Kanade: It resonated with me too.
+Ichika: I...
+Ichika: Did I manage...? Was I able to give you all a push?
+Ichika: Thank you!
+Miku: Hehe... You're all sparkling!
+Miku: This is the start of a lot of new things, and that might mean more challenges... But I'm sure you'll all be okay.
+Miku: Because you all have precious feelings in your hearts!
+Miku: Thanks for another great day, everyone! Let's keep having more!

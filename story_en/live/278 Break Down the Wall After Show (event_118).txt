@@ -1,0 +1,83 @@
+278 Break Down the Wall After Show (event_118)
+
+1 [mc] mc_ev_street_wl_01_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+An: And that concludes our SEKAI mini-vacation to the Vietnam alley!
+Kohane: That was so much fun! I'm glad I brought my camera.
+Toya: Yes, it's fascinating to see the character of each country's street. It's a shame we can only explore them on breaks.
+Akito: Well, there's no helping that. We can look around once we crush that wall.
+Toya: Heh, true.
+An: By the way...
+An: What is this place? We just wandered in here without thinking.
+Kohane: Oh, you're right...
+Toya: It's nothing like the other roads... Could this be another street from overseas?
+Akito: Who knows? Though I've heard they sometimes convert a cavern into a concert hall.
+An: Wow, that sounds pretty cool!
+(Enter: Miku)
+Miku: Oh, you're all here.
+(Exit: Miku)
+(Enter: Miku)
+Kohane: Miku!
+An: You surprised me! Were you in here the whole time?
+Miku: Yep. The way my voice echoes here makes it feel great to sing.
+Toya: Yes, that makes sense. I imagine the acoustics are superb.
+Toya: Not to mention how tranquil it is here. It's an ideal spot for singing.
+Miku: Right?
+Kohane: Oh, I have an idea!
+Kohane: Everyone, why don't we all sing here?
+An: Ooh, nice idea! Doing it somewhere new sounds like a good way to shake things up.
+Akito: I guess we only sing at Weekend Garage or live houses lately.
+Akito: Alright, why not do one song?
+Kohane: Yeah! Um... Would you like to join us, Miku?
+Miku: Of course. Did you think I'd say no?
+Kohane: Hehe. Thank you, Miku!
+Kohane: Okay everyone, let's go! Beyond the way!
+
+
+2 [MUSIC] 398: Beyond the way
+
+3 [mc] mc_ev_street_wl_01_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Mmh, that was the best! The acoustics felt amazing!
+Kohane: Yes...! I could hear your voices from every direction...
+Kohane: Almost like you were encouraging me.
+Toya: Encouraging you... Hm.
+Toya: I know the feeling. It fills me with courage to hear your voices when we sing.
+Akito: When you think about it...
+Akito: Maybe we've been igniting each other as much as we have our audience.
+An: Oh, I get what you mean!
+An: A great observation from the team's ignition technician!
+Akito: What kind of title is that supposed to be?
+An: Haha, it's supposed to be a compliment!
+Kohane: But still, to think we "ignite" each other...
+Kohane: Thinking about our event getting closer is making me nervous and worried, but...
+Kohane: I hope we can light a fire in each other and charge forward with full force!
+An: Alright! That's break time over!
+An: Let's head back to the cafe and practice!
+Toya: Let's.
+Miku: So, do you guys know the way back?
+Kohane: Oh...
+Akito: We just need to go back the way we came, so it's this way, right?
+Miku: Nope. This place is a real maze, isn't it?
+Toya: Do you mean... We got lost along the way?
+Kohane: If you weren't here, Miku, we'd be in a pickle now.
+An: But you are here! So we can rely on you to point the way!
+An: And it won't be the last time!
+Miku: Honestly... Well, I guess I can be your tour guide from time to time.
+Miku: I mean, I would be helping you get where you want to go.
+Kohane: Hehe. In a way, I guess you're always doing that for us.
+Kohane: Thank you for all your help, Miku. We're going to keep counting on it.
+Miku: Hehe. You're welcome.
+An: Alright, now we really gotta go.
+An: So we can break down that wall!
+Akito: "Yeah!"
+Toya: "Yeah!"

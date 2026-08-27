@@ -1,0 +1,109 @@
+250 Miku's Anniversary Show 2024
+
+1 [mc] mc_bd_2023miku_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Miku: Thank you for coming to my special fan meeting today, everyone♪
+Minori: At today's fan meeting, you might get the chance to see a side of Miku you've never seen before!
+Airi: Hehe. I wonder what this side of Miku will be like.
+Haruka: Okay, shall we get started with the segment?
+Shizuku: Yes! This segment is called...
+Shizuku: Ask Away♪ Starring Miku!
+Minori: Yaaay!
+Haruka: Yaaay!
+Airi: Yaaay!
+Haruka: As the title suggests, we'll be asking Miku to answer all sorts of questions about herself.
+Miku: Hehe, I wonder what I'll be asked. I'm getting excited.
+Minori: W-Wow! You're so poised and put together, Miku!
+Airi: Yeah, you seem like you're ready to take on anything. That's good, 'cause here come the questions, one after another!
+Airi: First question! What is your latest obsession?
+Miku: Um... Oh! So we have costumes specific to each song that we usually wear when we sing, but I've started trying different outfits.
+Miku: Finding wonderful new combinations is so much fun♪
+Airi: Ooh! What a cute, idol-like answer! Sounds like a great way to increase your options, and it's thrifty too.
+Shizuku: Now, on to question two! Your hair is so lovely. What's your usual haircare routine?
+Miku: I take the time to brush it out neatly every day.
+Miku: Sometimes Rin and MEIKO help. MEIKO even gives me scalp massages. The other day, it was so relaxing I started nodding off.
+Shizuku: My goodness, even a scalp massage? That sounds heavenly. I'm a bit jealous.
+Haruka: Here comes the next question! Number three! How do you like to reward yourself?
+Miku: Probably with candy or something else sweet to eat!
+Miku: Like after an especially intense practice, I'll dig into a treat and think, "Here's to another day of hard work!"
+Haruka: Ah, I see. Hehe, I can just picture your face, happily snacking away.
+Minori: Right?! Imagining her all proud of herself is cute too.
+Minori: And that brings us to our final question already! Miku, if you could do anything right now, what would it be?
+Miku: Well...
+Miku: I want to express my heartfelt appreciation to our fans, for always supporting us!
+Miku: In fact, we've prepared a song we'd like to sing for you today.
+Miku: Hehe, we'll be sending lots of cuteness your way, so keep an eye out♪
+Miku: Ready? Here we go! The Vampire!
+
+
+2 [MUSIC] 213: The Vampire
+
+3 [mc] mc_bd_2023miku_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Miku: Thanks for listening, everyone♪
+Minori: Now everyone, let's give it up one more time for Miku!
+Minori: Ready?! One, two...!
+Minori: Happy anniversary, Miku!
+Haruka: Happy anniversary, Miku!
+Airi: Happy anniversary, Miku!
+Shizuku: Happy anniversary, Miku!
+Miku: Minori, everyone, thank you all so much for coming!
+Miku: I'll always be waiting for you in SEKAI, so please come visit again♪ Bye bye!
+
+
+4 [mc] mc_bd_2023miku_3
+
+(Enter: Miku)
+Miku: Thank you all for being here today.
+Miku: As you know, today is a very special anniversary for me.
+Miku: And so, I'd like to share a special song with all of you.
+Miku: Up till now, looking ahead and far into the future... Some things in this world truly do last forever.
+Miku: Every one of you joining me today, I hope this message reaches you.
+Miku: Here it is. Blue Planet.
+
+
+5 [MUSIC] 357: Blue Planet
+
+6 [mc] mc_bd_2023miku_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: That was great, Miku! Your singing was incredible!
+Len: Your dancing was even more on point than usual, too.
+Miku: Well, once I started to sing, I felt myself getting really into it.
+Luka: Hehe. That's a bit rare for you, Miku.
+MEIKO: Maybe the anniversary made her performance extra special. I love this high-energy Miku!
+Luka: Oh, no fair, MEIKO. I was just about to compliment Miku on how adorable she was.
+Rin: Hehehe! She was, she was! Miku, you're so cool and cute and playful, we love you so much♪
+Miku: Aw...! You three! That's sweet, but you're embarrassing me.
+KAITO: Alright, you three. We can't keep Miku all to ourselves. We need to celebrate her special day with everyone who's come to join us.
+MEIKO: Hehe, you're right.
+KAITO: Let's all wish Miku a very happy anniversary together. Is everyone ready?
+Len: Looks like you're ready and raring to go! Let's do this!
+Len: Happy anniversary, Miku!
+Rin: Happy anniversary!
+Luka: Happy anniversary!
+MEIKO: Happy anniversary!
+KAITO: Happy anniversary!
+Miku: Thank you, everyone!
+Miku: And thanks to all of you too!
+Miku: The times you and I have shared haven't always been easy.
+Miku: And there may be times ahead when we'll find it hard to keep a smile.
+Miku: But...
+Miku: I know we'll be all right. We can go anywhere, and achieve any future.
+Miku: So now and forever more, let's keep doing our best together♪
+Miku: I'll see you again in SEKAI! Bye bye!

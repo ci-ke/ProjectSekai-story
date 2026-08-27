@@ -1,0 +1,92 @@
+211 Valentine's Day Show 2024
+
+1 [mc] mc_valentine_2023_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Len)
+Len: Happy Valentine's Day, everyone!
+Minori: Happy Valentine's Day!
+Haruka: Happy Valentine's Day!
+Airi: Happy Valentine's Day!
+Shizuku: Happy Valentine's Day!
+Len: Wow, everyone's so full of energy!
+Airi: We're about to kick off our Valentine's Day Show, so we're gonna need that much hype!
+Minori: Oh yeah! Have any of you given or received any chocolates?
+Shizuku: Hehe, as it turns out, we've already given each other chocolates!
+Haruka: Yeah, we all made our chocolates by hand. They were all so tasty.
+Airi: Speaking of, you should've seen the look on Minori's face when she was eating the chocolate Haruka gave her.
+Airi: She was fine until she picked one up, but then she left it uneaten until it started to melt.
+Minori: H-Hey! If I ate them, they'd be gone forever. They were just too perfect to eat.
+Haruka: Hehe. Since you liked them so much, perhaps I should make them for you again?
+Minori: Really?! Please make them for me every day!
+Airi: Hold on! If she did that, they wouldn't be Valentine's Day chocolates anymore, now would they?
+Len: That's what makes them special after all.
+Shizuku: Valentine's Day only comes around once a year, and with it, the chance to pluck up the courage to express your feelings!
+Airi: Exactly. So, to cheer on all those people who are struggling and need a little push, how about we sing that song?
+Len: Yeah! And I hope you all join in!
+Len: Okay then, here we go. icedrop!
+
+
+2 [MUSIC] 140: icedrop
+
+3 [mc] mc_valentine_2023_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Len)
+Airi: Thank you for listening, everyone!
+Minori: Did our song give you more courage?
+Len: I'm sure it did.
+Haruka: Thank you everyone for come here to listen to us sing. I hope you all have a great Valentine's Day!
+Shizuku: Hehe, I hope you'll come see us again!
+
+
+4 [mc] mc_valentine_2023_3
+
+(Enter: Miku)
+Miku: Happy Valentine's Day, everyone♪
+Miku: Today is a day when we express our feelings to those important to us.
+Miku: In fact, I have something to share with you all.
+Miku: I'd like to express my feelings in the form of a song.
+Miku: Tell Your World!
+
+
+5 [MUSIC] 1: Tell Your World
+
+6 [mc] mc_valentine_2023_4
+
+(Enter: Miku)
+Miku: Thank you for listening, everyone. Did my feelings reach you?
+Miku: Hehe. Well, allow me to tell you again in words.
+Miku: Thank you all so much for always watching over everyone with us.
+Miku: Embracing their feelings and ambitions, I think they will press on in their journey, one step at a time.
+Miku: I don't know what the future has in store for them, but...
+Miku: I hope we can all continue to believe in them and watch over them.
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: No doubt about it!
+Len: Of course we'll believe in them!
+Miku: Y-You guys! W-When did you all get here?!
+KAITO: Sorry for startling you. We heard you singing and came by to listen.
+Luka: I wonder if we surprised the audience, too?
+MEIKO: Hehe, sounds like they're happy to see you.
+Rin: Hahaha, so it was only Miku who got startled.
+Miku: Well I didn't think you guys were listening in on the song, let alone what I spoke to the audience about...
+Len: Huh? Are you blushing, Miku?
+Miku: N-No, I'm not.
+MEIKO: There's no need to feel embarrassed. In fact, what you said to them was absolutely wonderful.
+Luka: Yeah. Plus, you're not the only one who wants to keep watching over them. We do too.
+KAITO: It seems like everyone here feels the same way.
+Miku: Yeah!
+Miku: Once again, thank you all for coming to SEKAI, everyone.
+Miku: I hope you have a wonderful Valentine's Day!
+Rin: Bye bye!
+Len: Bye bye!

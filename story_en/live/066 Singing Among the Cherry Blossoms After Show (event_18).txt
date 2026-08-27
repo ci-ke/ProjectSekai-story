@@ -1,0 +1,105 @@
+66 Singing Among the Cherry Blossoms After Show (event_18)
+
+1 [mc] mc_ev_shuffle_06_1
+
+(Enter: Miku)
+Miku: Hey, thanks again for coming by today! It's so good to see you.
+Miku: How are you doing these days? Is it getting warmer in your SEKAI?
+Miku: When the weather gets warmer, it makes you want to go for a walk, right? Sitting in the sun, looking at the scenery...
+Miku: Plus, it's fun to go out and meet all kinds of people! Is there anyone you'd like to meet?
+Miku: Huh? Did someone come just now?
+Miku: Could it be, that the SEKAI responded to your desire "to meet someone"?
+Miku: In that case, let's hide and surprise them!
+Miku: You can't tell them that I'm here, okay?
+(Enter: Minori)
+(Enter: Kohane)
+Kohane: Huh? This place...
+Minori: W-What? When did I come to SEKAI? And this looks different to the usual stage...
+Minori: "Ahh!"
+Kohane: "Ahh!"
+Kohane: H-Huh? Minori?
+Minori: Kohane? What are you doing here?
+Kohane: Oh, maybe I'm having weird dreams because I sang with Minori and the others at the park the other day...?
+Miku: Welcome! Minori, Kohane♪
+Minori: Ahh! It's Miku!
+Minori: Huh? Don't you think she's a little different from the usual Miku?
+Kohane: You're right. I feel like she's a lot like the Miku I met before...
+Minori: "Huh?"
+Kohane: "Huh?"
+Miku: Hehe♪ Since you're both here, why don't we sing together?
+Miku: You guys want to listen too, right?
+Minori: Wow! That's a loud cheer!
+Kohane: I want to sing...
+Kohane: If there's someone out there who will listen to me sing, then I want to sing!
+Minori: Me too!
+Minori: As an idol, I'm not quite there yet, but if there's someone waiting for me, I want to sing for them!
+Minori: Let's sing together, Kohane!
+Miku: Okay, let's go! Wah-wah world!
+
+
+2 [MUSIC] 77: Wah Wah World
+
+3 [mc] mc_ev_shuffle_06_2
+
+(Enter: Miku)
+(Enter: Minori)
+(Enter: Kohane)
+Kohane: Wow! Thanks for listening, everyone!
+Minori: Hehehe, I knew performing live would be amazing! It makes me want to work harder and harder!
+Kohane: Yes! And when I hear everyone cheering, I feel like I've grown.
+Minori: Yes! I totally understand!
+Miku: Hehe♪ I'm happy to see that you two are enjoying yourselves♪
+Kohane: Thank you, Miku. I'm feeling a little more confident again.
+Kohane: Also, thanks to Miku's song, I've made another new friend.
+Kohane: Thank you for everything, Miku. I'm going to keep working hard!
+Miku: Great! Let's sing together again soon!
+(Exit: Minori)
+(Exit: Kohane)
+Miku: You both have gotten much cooler than before! I'll be watching over you both from now on.
+Miku: Oh! I think someone else has come!
+(Enter: Ichika)
+(Enter: Kanade)
+(Enter: Tsukasa)
+Ichika: Huh? What is this place?
+Tsukasa: W-What's going on!?
+Tsukasa: Just when I thought I was done getting ready for the show, I'm suddenly here!
+Kanade: I feel like I've been here before...
+Miku: Hey, everyone! Welcome!
+Ichika: Miku! Huh? Could it be that we've met before?
+Tsukasa: Oh, Miku! But something seems different. What's going on? I feel like I've seen you around somewhere...
+Ichika: "What?"
+Tsukasa: "What?"
+Ichika: Tsukasa?
+Tsukasa: What!? Why are you here, Ichika?
+Kanade: Ugh, so loud... But this loud voice, where have I...
+Miku: Thanks for coming, you three! Look, everyone's waiting for you!
+Ichika: Everyone?
+Kanade: You guys were waiting for us?
+Miku: Hehe, maybe your desire to meet each other brought you all here.
+Tsukasa: Ha ha ha ha! I see, I see! You've all been wanting to meet this future star!
+Tsukasa: Then I'll satisfy your expectations by putting on a very special show... is what I was thinking, but those guys aren't here either. I wish I could do something...
+Ichika: Something like...
+Ichika: Hmm, I'd like to sing... I want to sing my song and move forward!
+Miku: Then let's sing! "SEKAI!!"
+
+
+4 [MUSIC] 76: SEKAI
+
+5 [mc] mc_ev_shuffle_06_3
+
+(Enter: Miku)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Ichika)
+Ichika: *Pant*... Thank you, everyone!
+Tsukasa: What a loud cheer! Looks like our song got through to them!
+Kanade: I think you might be right. I'm glad they listened.
+Ichika: Hey Miku. You're a little different than usual today, right?
+Ichika: So, I'm going to say it again.
+Ichika: I'm...really glad I got to meet you, Miku. Thank you.
+Ichika: I hope you'll continue to sing together with us.
+Miku: Hehe♪ I'm the one who should be thanking you.
+Miku: Thank you for birthing many feelings and songs!
+Miku: Everyone! Thank you for your support today!
+Miku: Spring is the season for meeting people, so maybe we'll meet again in your SEKAI♪
+Miku: Until then!

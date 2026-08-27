@@ -1,0 +1,80 @@
+75 You deserve it! Break Time! After Show (event_23)
+
+1 [mc] mc_ev_idol_04_1
+
+(Enter: Haruka)
+(Enter: Shizuku)
+Haruka: Alright. Seems like everything is ready to go for the show.
+Shizuku: Oh, Haruka! You're already here?
+Haruka: Good afternoon, Shizuku. And yes, I've been restless lately.
+Shizuku: Restless?
+Haruka: Yes. Since we all hung out the other day, I actually didn't get to do much practicing on my own.
+Shizuku: Oh...
+Haruka: But then you were saying that "we need to relax", so I thought sometimes it's good to have days like these.
+Shizuku: Haruka!
+Haruka: But, it seems like I can't relax until I've practiced.
+Haruka: If you don't mind, would you like to join me, Shizuku?
+Shizuku: Yes, of course! Let's do it together.
+(Enter: Minori)
+(Enter: Airi)
+Minori: Oh, Haruka, Shizuku!
+Haruka: Minori, Airi!
+Airi: You're already here?
+Haruka: Yes. We only just arrived.
+Shizuku: But, both of you are also here early. Something the matter?
+Airi: I don't know... For some reason I really feel like moving my body around.
+Minori: Me too! Maybe it's because we were fooling around a lot?
+Shizuku: Hehehe. See, taking a breather is very important too.
+Haruka: Agreed.
+Haruka: Thank you for reminding us, Shizuku.
+Shizuku: Huh? Oh, yes! I'm glad that you were all able to relax.
+Airi: Alright, since everyone seems to be pumped, let's sing a song!
+Minori: Yes, I like that idea!
+Shizuku: I'd like to sing with everyone too.
+Haruka: Yes, let's! Will you all listen to our song?
+Haruka: Thank you!
+Haruka: Okay... Here we go!
+Minori: "Start the music!"
+Haruka: "Start the music!"
+Airi: "Start the music!"
+Shizuku: "Start the music!"
+
+
+2 [MUSIC] 10: Happy Synthesizer
+
+3 [mc] mc_ev_idol_04_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Minori: That was fun!
+Haruka: I agree. My body feels so much lighter than usual.
+(Enter: MEIKO)
+MEIKO: That was an amazing show girls!
+Shizuku: Oh, MEIKO. You were watching us?
+MEIKO: Yeah! Your smiles were so much brighter than usual♪
+Minori: Really?! We did it!
+MEIKO: You seemed a lot happier too, Haruka♪
+Haruka: Thank you, MEIKO.
+Haruka: Now I think I understand what you meant when you said that taking a breather was important.
+Haruka: I subconsciously thought that it was crucial to constantly work hard in order to keep being an idol...
+Haruka: Just by loosening my shoulders a little, I felt lighter and was able to perform better than usual. Now I know the importance of relaxing once in a while.
+Haruka: Thanks to Shizuku, I think I understand that now.
+Minori: Haruka!
+Minori: Haruka! You can always take a breather with me!
+Airi: You just want to play around, don't you?
+Minori: Th-That's not true!
+Haruka: "Hehehe."
+Airi: "Hehehe."
+Shizuku: "Hehehe."
+MEIKO: But I think everyone who came to watch got to see a different side of all of you, right?
+Haruka: Is that so?
+Haruka: I'm really happy that we were able to deliver a more fun atmosphere than usual at today's show.
+Airi: Everyone had a lot of fun, didn't they!
+Shizuku: Hehehe, I'm glad. Let's hang out again sometime.
+Haruka: Yes, sounds good!
+Haruka: We're going to keep working hard so that we can show you an even better version of us, so please come again.
+Shizuku: Yes. Thank you for coming today, everyone.
+Minori: See you next time! Bye bye!
+Haruka: See you!

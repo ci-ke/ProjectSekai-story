@@ -1,0 +1,134 @@
+184 MEIKO's Anniversary Show 2023
+
+1 [mc] mc_bd_2022meiko_1
+
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Oh, so many of you are here!
+MEIKO: Hello everyone! Thank you for coming to celebrate my anniversary with me!
+MEIKO: Miku and the others will be coming over to celebrate later, so let's all have a fun time together!
+KAITO: They did say they wanted some time to prepare, didn't they? So I came to keep you company until they're ready, but was there anything you wanted to do?
+MEIKO: In that case, how about we go to another SEKAI and see how everyone is doing? I want to see how another version of me is celebrating!
+KAITO: Sounds good! I bet they're throwing a huge celebration.
+MEIKO: Yes, I can't wait to see! Alright everyone, let's go!
+
+
+2 [mc] mc_bd_2022meiko_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: MEIKO)
+MEIKO: Good work, everyone!
+Emu: MEIKO! Thank you for requesting a show from us!
+Tsukasa: Did you enjoy our revival of "A Merry Christmas"?
+MEIKO: I sure did! Especially Tsukasa and Nene's dialogue as Santa's Apprentice and the girl! You two had such good chemistry that every scene was so funny!
+Nene: You were holding your stomach laughing when the banter started.
+MEIKO: I was laughing so much I think I'm getting a six-pack!
+Rui: Hehehe. As long as the star of the day has enjoyed themselves, it's a job well done.
+Tsukasa: Well then, once again, let us celebrate!
+Tsukasa: Happy anniversary, MEIKO!
+Emu: Happy anniversary!
+Nene: Happy anniversary!
+Rui: Happy anniversary!
+Tsukasa: Whoa?!
+MEIKO: Oh! I hadn't realized all of you were here! Thank you for coming!
+MEIKO: Thank you too, everyone!
+Tsukasa: This is the least we can do! Especially after all of the times you've helped us.
+Nene: Speaking of which, why did you choose "A Merry Christmas" for today's show?
+MEIKO: Hmm... Well I wanted to see Santa's Apprentice and the girl's banter again, and I really like how the performance is flashy and magical too. Also...
+MEIKO: This was the show you were practicing when I first met all of you, right? That's why this show left such an impression on me!
+Nene: I see... It makes me happy to hear that.
+Emu: Yup yup! I like that show too! I remember it really well since it was so amazing when real snow started falling down.
+MEIKO: By. The. Way. I know it was a tough time for all of you but we made some wonderful memories on the desert island too♪
+Tsukasa: Ah, that... Yes, it had been tough trying to secure a place to sleep and food that time...
+Rui: It was a rare experience but we also got to have some important conversations.
+Nene: Yeah. Like that talk about our future.
+MEIKO: Hehe. I can't wait to see what shows you'll make or what kind of stars you will all become!
+MEIKO: Oh, I have an idea! Would you like to do a show with me right now?
+Emu: Wow! You want to do a show with us, MEIKO?!
+MEIKO: I sure do! I really want to sing and dance with you all so I can get a better understanding of your thoughts and feelings.
+Emu: Yeah, let's do it! You're in too, right, you guys?
+Rui: Of course. Your wish is my command, MEIKO.
+Nene: Yeah!
+Tsukasa: If that's settled, let's get right into it!
+MEIKO: Thank you!
+MEIKO: We hope you enjoy it, everyone!
+MEIKO: Alright, here we go! Starry Sky Melody!
+
+
+3 [MUSIC] 212: Starry sky melody
+
+4 [mc] mc_bd_2022meiko_3
+
+(Enter: Tsukasa)
+(Enter: Rui)
+(Enter: Nene)
+(Enter: MEIKO)
+(Enter: Emu)
+MEIKO: *Sigh* Shows really are so much fun!
+MEIKO: Hehe. I'm glad that you all enjoyed yourselves too♪
+MEIKO: Tsukasa, Emu, Nene, Rui, and also all of you in the audience!
+MEIKO: Thank you for celebrating my anniversary with me! It fills me with sooooo much happiness♪
+MEIKO: I'm going to treasure this memory!
+Tsukasa: Glad to hear it! Let's make many more memories, MEIKO!
+
+
+5 [mc] mc_bd_2022meiko_4
+
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: That was such a fun and lively celebration, wasn't it?
+MEIKO: Yes! I could really see how they cared for each other.
+(Enter: Miku)
+(Enter: Luka)
+(Enter: Len)
+(Enter: Rin)
+Miku: MEIKO, KAITO, sorry for the wait! We've finished preparing.
+MEIKO: Hehe, now it's finally my turn!
+Rin: Your turn?
+KAITO: We actually went to see how our friends in another SEKAI were doing just earlier.
+MEIKO: They were throwing that SEKAI's version of me such a big celebration that I couldn't help but feel happy too.
+MEIKO: Come to think of it, it was interesting how similar our mindsets were. Like how we both want to look back on time spent with loved ones on important days.
+Len: Oh yeah, when we asked you what you'd like to do at your party, you did say that you wanted to reminisce.
+MEIKO: Yes I did! I want to set off toward my next anniversary with many fond memories in tow!
+Luka: Don't worry. We've made sure to prepare so you can do just that.
+
+
+6 [mc] mc_bd_2022meiko_5
+
+(Enter: Luka)
+(Enter: KAITO)
+(Enter: Miku)
+(Enter: MEIKO)
+(Enter: Rin)
+(Enter: Len)
+KAITO: Sing your heart out, MEIKO!
+MEIKO: Thank you! Feel free to sing along, KAITO, everyone!
+MEIKO: Alright then, let's go! Time Machine!
+
+
+7 [MUSIC] 8: Time Machine
+
+8 [mc] mc_bd_2022meiko_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: Once again, let's wish MEIKO a happy anniversary!
+KAITO: MEIKO! Happy anniversary!
+Miku: "Happy anniversary!"
+Rin: "Happy anniversary!"
+Len: "Happy anniversary!"
+Luka: "Happy anniversary!"
+MEIKO: Thank you, everyone!
+Luka: How was that? Do you feel like you've made a wonderful head start on the way to your next anniversary?
+MEIKO: I did! Thank you for singing with me.
+MEIKO: Thank you for tagging along with me too, KAITO! Even when we were waiting for preparations to finish, I had such a great time.
+KAITO: Hehe. You're welcome!
+MEIKO: Really, thank you so much for today, everyone! Please come to hear us sing in SEKAI anytime!
+MEIKO: See you later!

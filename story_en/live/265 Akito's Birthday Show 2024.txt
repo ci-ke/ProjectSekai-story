@@ -1,0 +1,78 @@
+265 Akito's Birthday Show 2024
+
+1 [mc] mc_bd_2023akito_1
+
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Hey everyone! Are you here to celebrate Akito's birthday too?
+KAITO: I had a feeling! Alright then, let's all celebrate together when he and the others arrive!
+KAITO: They'll be here soon, right, MEIKO?
+MEIKO: Yes. I just contacted them, so they should be here any minute now.
+MEIKO: More importantly, KAITO, is the prep at the cafe all done?
+KAITO: It sure is! Well actually... I thought they could handle the rest, so I slipped out.
+MEIKO: Oh dear... If Miku and the others get angry, I'm looking the other way.
+KAITO: Oh! Hey everyone, looks like Akito and the others are here!
+(Enter: An)
+(Enter: Kohane)
+An: Ah, there they are! MEIKO, KAITO!
+(Enter: Akito)
+(Enter: Toya)
+Akito: You mentioned that you wanted to celebrate my birthday, but what are we doing here...?
+Kohane: Whoa! That surprised me!
+Toya: There are so many people here...
+MEIKO: Everyone gathered here to wish you a happy birthday, Akito.
+KAITO: And so...
+MEIKO: Happy birthday, Akito!
+KAITO: Happy birthday, Akito!
+Akito: Thank you. And you guys too, thanks for coming.
+Kohane: Hang on... Where are Miku and the others?
+KAITO: They're putting up the decorations at the cafe. MEIKO and I were in charge of the food!
+Akito: Wait... Really?
+KAITO: Yup. You guys are always hard at work practicing every day, right? I wanted to make some sweets that could help you recover from the fatigue.
+MEIKO: Honey lemon cake, anmitsu pancakes, almond drinks...
+MEIKO: We prepared sweets that'll give you a boost of energy, so I hope you'll look forward to them.
+Akito: You took all of that into consideration...? Thank you.
+Akito: And also, all of you guys.
+Akito: Thanks for always watching over us.
+An: What's wrong, Akito? Feeling a little honest today?
+Akito: Well, one day can't hurt.
+Akito: That said, it's not my style to express myself with words, so... Is it alright if I sing a little?
+Kohane: What?
+Akito: Everyone's here to wish me a happy birthday. If I can, I should give something back too, yeah?
+Toya: I see...
+An: Hehe. Well then, I guess you need us to accompany you, right?
+Akito: Fine. Do whatever you want.
+Kohane: I guess it's settled!
+KAITO: Oh, then may I join you guys? Since I've got the chance, I want to hear you sing from right up close!
+MEIKO: Okay, I'll let you have this one. Knock it out of the park, Akito.
+Akito: Alright, here we go. Cinema!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 126: Cinema
+
+3 [mc] mc_bd_2023akito_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
+(Enter: MEIKO)
+MEIKO: Your feelings really came through in your singing, it was amazing! I think everyone here agrees with me, right?
+KAITO: Wow, I was singing next to you guys and even I was moved! I really felt it in my chest and so much energy welled up inside!
+Toya: I think it's safe to say that your feelings really came across, Akito.
+Akito: Yeah. I guess so.
+Akito: The four of us are gonna go even further. To a place we've never been before.
+Akito: So... I hope you keep your eyes on us. We'll definitely hype you guys up even more next time.
+MEIKO: Well, now that you've worked up a good sweat, let's head over to the cafe. Miku and the others should have finished prepping by now.
+Kohane: Okay!
+An: Okay!
+Akito: Okay!
+Toya: Okay!
+(Exit: MEIKO)
+(Exit: Kohane)
+(Exit: Akito)
+(Exit: Toya)
+(Exit: An)
+(Exit: KAITO)

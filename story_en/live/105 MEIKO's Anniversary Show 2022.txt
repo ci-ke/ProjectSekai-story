@@ -1,0 +1,126 @@
+105 MEIKO's Anniversary Show 2022
+
+1 [mc] mc_bd_2021meiko_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: MEIKO)
+Mizuki: Oh, everyone's here! Heya!
+Ena: You guys came to celebrate MEIKO's anniversary, right?
+MEIKO: I don't think they're here to celebrate me, specifically. Aren't they actually here to celebrate the VIRTUAL SINGER version of me?
+Mizuki: But you're still MEIKO, no? Besides, we technically know this version of you more than the other MEIKO.
+Kanade: Exactly. Since we're all here, we would like to celebrate with you, if that's okay.
+Ena: Same here. I think everyone here came to wish you a happy anniversary too.
+Mizuki: There you go!
+MEIKO: I see... Well, do what you want then.
+Mizuki: Okey dokey! Then we shall celebrate as much as we want♪
+Mizuki: Alright, you guys! On a count of three! Are you ready too, Mafuyu?
+Mafuyu: Yes...
+Mizuki: Awesome! Here we go! One, two... Three!
+Kanade: "Happy anniversary, MEIKO!"
+Mafuyu: "Happy anniversary, MEIKO!"
+Ena: "Happy anniversary, MEIKO!"
+Mizuki: "Happy anniversary, MEIKO!"
+MEIKO: Thank you...
+MEIKO: You all weren't lying, were you?
+Mizuki: Of course! Why would we fake something like this?
+MEIKO: I wasn't doubting any of you. I just can't think of anything I did that you would all be grateful for.
+Ena: Don't say that! Especially recently, a lot of things worked out because we were able to talk to you about it!
+Kanade: Whenever we were in SEKAI, you would always come and check up on us, even if we don't call out to you.
+Mizuki: Yeah. That sort of thing might seem like nothing, but we're actually very grateful for it.
+MEIKO: Well, if that's how you all feel, then I can't really argue.
+Mafuyu: So... What are we going to do now?
+Mizuki: Well, it wouldn't be a celebration without any singing, would it?
+Mizuki: How about it, MEIKO?
+MEIKO: Well...
+MEIKO: I would usually sing because I want to understand your feelings more, but...
+MEIKO: This time... I wonder if I should try singing whilst taking in your expressions of appreciation.
+Kanade: Sounds good. Let's sing, MEIKO.
+Mizuki: Are you guys out there ready too? Alright, then let's go!
+
+
+2 [MUSIC] 116: IDSMILE
+
+3 [mc] mc_bd_2021meiko_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: MEIKO)
+MEIKO: I didn't think there would be this many people that were appreciative of me.
+MEIKO: Thank you...
+MEIKO: I want to express my thanks to all of you too. This is something I've never experienced before.
+Mizuki: You're welcome! I'm happy if you're happy, MEIKO. You too, right, Mafuyu?
+Mafuyu: Yes...
+Ena: Hehe. Thanks for everything, MEIKO!
+Kanade: I'll be back to ask for your thoughts and opinions when I'm done with another song.
+MEIKO: Sounds great. I'll be waiting.
+Mizuki: Thanks for coming to celebrate with us, you guys! See you later!
+
+
+4 [mc] mc_bd_2021meiko_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: Alright, seems like everyone is here. I guess we should get on with the party... Hmm?
+KAITO: Oh, hello everyone! Great timing. We were just about to celebrate MEIKO's anniversary.
+Rin: Welcome, everyone! Please come join us and celebrate MEIKO's anniversary with us!
+Len: I'm pretty sure they came to wish MEIKO a happy anniversary to begin with. Their timing was too perfect.
+Luka: Hehe. You're so popular, MEIKO.
+MEIKO: Popular... While that does make me happy, it's also a little embarrassing...
+Miku: Alright then, let's say it all together with everyone here!
+Miku: Ready? One, two...!
+Miku: "Happy anniversary, MEIKO!"
+Rin: "Happy anniversary, MEIKO!"
+Len: "Happy anniversary, MEIKO!"
+Luka: "Happy anniversary, MEIKO!"
+KAITO: "Happy anniversary, MEIKO!"
+MEIKO: Thank you.
+MEIKO: And thank you for coming too, everyone!
+MEIKO: Thanks to all of you, I had a lot of fun this year!
+MEIKO: Hehe. I'm so happy that I could sing right now. There's actually a song I know that would be perfect to sing with these happy feelings!
+Luka: Oh, that song. I think that sounds perfect.
+Miku: "Yeah!"
+Rin: "Yeah!"
+
+
+5 [mc] mc_bd_2021meiko_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Alright then. I'll sing my heart out! Here we go!
+
+
+6 [MUSIC] 10: Happy Synthesizer
+
+7 [mc] mc_bd_2021meiko_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Did you have a fun time, everyone?
+KAITO: Your performance is as powerful and energizing as ever, MEIKO!
+MEIKO: Really? I was thinking that I maybe overdid it a little...
+Len: Is that so? I thought it was super cool and amazing that you performed with everything you got!
+Rin: Yeah, same here! I felt energized just from watching! That's why I always love the way you sing and dance!
+Luka: All of us feel the same, too.
+Miku: Yeah. And because of that side of you, MEIKO, we're always able to count on you.
+MEIKO: Huh... W-What?! Don't just say something like that You're going to make me blush.
+MEIKO: But, I'm happy. Thank you, everyone!
+MEIKO: ...And once again, thank you for coming today!
+MEIKO: I'm going to keep singing with everything I have and do my best to not disappoint you all! So, I hope you'll be there to support me!
+MEIKO: Please come to SEKAI again if you ever need a song to listen to! Until next time, see you later!

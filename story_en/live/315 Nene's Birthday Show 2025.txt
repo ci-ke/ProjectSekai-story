@@ -1,0 +1,78 @@
+315 Nene's Birthday Show 2025
+
+1 [mc] mc_bd_2024nene_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Rui)
+(Enter: KAITO)
+Emu: Hey, everyone! Gooood...
+Emu: "Wonderhoy!"
+Tsukasa: "Wonderhoy!"
+Rui: "Wonderhoy!"
+KAITO: "Wonderhoy!"
+Tsukasa: One more time! Gooood...
+Emu: "Wonderhoy!!!"
+Tsukasa: "Wonderhoy!!!"
+Rui: "Wonderhoy!!!"
+KAITO: "Wonderhoy!!!"
+Rui: Excellent work, everyone.
+KAITO: I can really tell just how much you're looking forward to today's show.
+Emu: I'm really, really looking forward to it☆ After all, it's Nene's birthday special show!
+Tsukasa: Nene will be here soon, so let's give her a warm welcome!
+Rui: And speaking of the all-important Nene...
+Emu: Ah! It looks like she's all set!
+Tsukasa: Excellent! Let's begin!
+Rui: Our guest of honor is now entering the venue. Please give her a big round of applause.
+KAITO: You won't want to forget this sight, ladies and gentlemen.
+Tsukasa: We present to you, the songstress of Wonderlands×Showtime, Nene Kusanagi!
+Emu: Look, everyone! Nene's here!
+(Enter: Nene)
+Nene: Ugh...
+Tsukasa: Hey! You're really going to come out like that, today of all days?!
+Tsukasa: Where's the glamour? Where's the waving and smiles?!
+Nene: I-I know, but... How am I supposed to live up to all that hype?!
+Rui: Oh, dear.
+KAITO: Maybe we overdid it a bit.
+Emu: Anyway! Look, Nene!
+Nene: Huh?
+Rui: All these people are here for you, Nene.
+Nene: W-Wow... There are so many of you. Um, thanks...
+Nene: I'm really happy you all came just for me.
+Nene: I hope you all enjoy today's show with us.
+Rui: Shall we begin?
+Nene: Okay. Here goes. Coral.
+
+
+2 [MUSIC] 324: Coral
+
+3 [mc] mc_bd_2024nene_2
+
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Emu)
+(Enter: Rui)
+(Enter: KAITO)
+Nene: Thank you all very much. Did you have a good time?
+Nene: I'm glad. I really enjoyed it too.
+Nene: Um... As I'm sure you all know, we've been training with different troupes.
+Nene: It's hard work, with a lot to keep track of. It's honestly overwhelming...
+Nene: But becoming a world-class musical actress is my dream. I'll do whatever it takes.
+Nene: So, you know... I hope you'll watch over me...
+Nene: Next time you see me on stage, I'll have already improved from where I am today.
+Emu: Let's do our best together, Nene!
+Tsukasa: Right. Now, let's end with you-know-what.
+Nene: With what?
+KAITO: We haven't done something yet, Nene.
+Rui: I'm sure everyone wants to wish you a happy birthday.
+Nene: Oh, right.
+Tsukasa: Are you all ready?! Here we go! One, two, three!
+Tsukasa: Happy birthday!
+Emu: Happy birthday!
+Rui: Happy birthday!
+KAITO: Happy birthday!
+Nene: Thank you, everyone!
+Nene: We have to say goodbye for today... But I hope you'll come to see us again.
+Tsukasa: We hope you keep watching our shows!
+Rui: Thank you.
+Emu: Let's meet again!

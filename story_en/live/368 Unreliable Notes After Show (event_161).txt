@@ -1,0 +1,85 @@
+368 Unreliable Notes After Show (event_161)
+
+1 [mc_timeline] mc_ev_night_20_1
+
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+(Enter: Rin)
+Kanade: Oh... You're here.
+Mizuki: Yup. Rin told us you were already here.
+Ena: Hey, is it okay for you to be up and about?
+Kanade: Yes, I've been resting. Sorry to worry you all.
+Ena: You got that right. We were really, and I mean really, worried!
+Kanade: S-Sorry...
+Mizuki: You don't usually get mad like that, Mafuyu. I guess it goes to show how worried you were.
+Mafuyu: You're right.
+Mafuyu: When I saw Kanade had...collapsed, my blood ran cold.
+Mafuyu: I thought I might...lose her.
+Kanade: Mafuyu...
+Kanade: I'm okay. I won't go anywhere.
+Kanade: I'll keep my promise. I'm going to write a song that will save you.
+Mafuyu: *Nod*
+Mizuki: By the way, Mafuyu. You're gonna talk with your mom soon, right?
+Mafuyu: I am.
+Mafuyu: Seeing Kanade working so hard... It makes me feel like I need to move forward.
+Kanade: Mafuyu...
+Ena: I see...
+Mafuyu: ...
+Kanade: It's okay. I'm right here with you.
+Kanade: It may be scary, but... Let's move forward together.
+Mafuyu: Thank you...
+Miku: Kanade. Please take care of Mafuyu.
+Kanade: I will.
+Rin: Kanade. If you feel okay... I want you to sing.
+Kanade: Huh?
+Rin: You've been so busy composing, you haven't sung at all lately.
+Rin: I want to hear you all sing.
+Kanade: Okay, I will. I was actually just thinking it would be nice to.
+Kanade: Will you all sing with me?
+Ena: Sure.
+Mizuki: You bet!
+Kanade: Then, let's sing.
+Kanade: Twilight Light.
+(Exit: Rin)
+
+
+2 [MUSIC] 384: Twilight Light
+
+3 [mc_timeline] mc_ev_night_20_2
+
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Kanade: How was that, Rin?
+Rin: Mm. It felt very emotional. It was good, I think.
+Miku: I felt it too, singing with all of you. Your drive to move forward.
+Kanade: I'm glad.
+Rin: Kanade, Mafuyu. You can do it.
+Kanade: *Nod* Thank you.
+Mafuyu: *Nod* Thank you.
+Kanade: Now, should we get back to work?
+Ena: Sure, but you're going to bed early.
+Kanade: Huh?
+Mizuki: You only just recovered, remember? I think you should still be resting.
+Kanade: B-But...
+Rin: Kanade.
+Mafuyu: Kanade.
+Kanade: O-Okay, I will...
+Ena: Okay, shall we get going? Now that we've gotten a promise out of her.
+Mizuki: Hahaha! We sure did.
+Kanade: Miku, Rin. Thank you.
+Kanade: We'll come hang out again soon.
+Rin: Okay.
+Miku: We'll be waiting.
+Kanade: And thank you all for watching over me.
+Kanade: I'm sorry for worrying you all. And I hope you'll come visit again sometime.
+Kanade: See you then.
+Ena: Bye bye! See you. Goodbye.
+Mizuki: Bye bye! See you. Goodbye.
+Mafuyu: Bye bye! See you. Goodbye.

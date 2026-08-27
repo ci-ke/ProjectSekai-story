@@ -1,0 +1,85 @@
+297 Parallel Harmonies After Show (event_128)
+
+1 [mc] mc_ev_band_17_1
+
+(Enter: Ichika)
+(Enter: Honami)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: MEIKO)
+Saki: Yay!
+MEIKO: Yay!
+Honami: Hehe. You're in high spirits as always, Saki.
+Shiho: We just did five songs back-to-back... How about a break?
+Saki: But like, I mean, our song's finally out there, y'know?!
+Saki: I'm just soooooo darn happy! I couldn't calm myself down for a second!
+Ichika: Yeah, I do feel this kind of tension. I wonder if our song has reached everyone...
+Shiho: Oh yeah... I think some people at school have listened. I've noticed a few talking about Leo/need in the halls.
+Saki: Whoa! If that was me, I don't think I could resist asking how they liked our debut song...!
+Shiho: Yeah, don't do that.
+Honami: They might be a bit taken aback...
+MEIKO: Hehe. Ichika, Saki, there's no need to worry. You two wrote that song.
+MEIKO: So, I'm certain it's resonated with a great many people.
+Saki: Hehehe. I sure hope so.
+Saki: Hey, you guys! Can we do one more song?
+Shiho: Wait, another one?
+Saki: Yeah...! Just remembering writing that song with Ichi made me wanna play some more.
+Ichika: Yes, I feel the same way.
+Ichika: How about you three?
+Honami: I can keep going.
+Shiho: Yeah, same. If that's how you feel, then why not?
+MEIKO: Then, let's get this started.
+Saki: Yeah!
+Saki: I hope you'll all listen. Suresure!
+
+
+2 [MUSIC] 442: Suresure
+
+3 [mc] mc_ev_band_17_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
+Saki: Thanks, everybody!!!
+MEIKO: That was a great performance, full of emotion. Yours certainly came through too, Saki.
+Saki: Hehehe, I'm glad!
+Saki: I really am glad that we finished our song.
+Honami: Saki...
+Saki: I was supposed to be writing a song with Ichi, but I wasn't able to see her side at all...
+Saki: I regret how self-centered I was being.
+Ichika: Me too...
+Ichika: And when I saw MEIKO and the others at work, I realized our song wouldn't turn out well if I kept that up.
+Saki: Hehe. It was really cool, everything you did after that!
+Saki: You understood exactly what I wanted to do, just like them. I could feel great ideas popping up one after another!
+Honami: It sounds like you played a very big part, Ichika.
+Ichika: No, it wouldn't have happened without MEIKO and the others. Thank you so much.
+MEIKO: We didn't do anything that special... But you're welcome.
+MEIKO: That reminds me, you made a Miku version too.
+MEIKO: Miku looked very happy listening to it.
+Ichika: Oh, she did?
+MEIKO: Yes, the moment she thought she was alone.
+Shiho: Huh, I didn't expect that.
+Honami: Miku has a rather cute side.
+Saki: Hahaha♪ I'm super happy she likes it!
+Saki: You should listen to it lots too, MEIKO!
+MEIKO: Of course. In fact, let us all perform it for you.
+MEIKO: To celebrate your debut.
+Saki: Whoa, seriously?!
+Honami: How exciting...!
+Shiho: Yeah, I'm sure I'll be able to learn from your performance.
+MEIKO: Hehe, keep those expectations high.
+Saki: Okay! We're looking forward to it!
+Ichika: In that case, we should get some practice in so we can hold our own.
+Saki: Ooh, that's some fighting spirit, Ichi! I won't be falling behind either!
+Saki: And with that... Thanks for coming today, everyone!
+Saki: We finally, finally debuted as pros!
+Shiho: Well, what's important is what comes next.
+Ichika: And it still doesn't quite feel real.
+Saki: You're not wrong, but...! We've gotta appreciate this milestone first!
+Honami: Hehe, you're right. You two wrote an incredible debut song. Let's ride this wave forward and do our best.
+Saki: Yeah! I hope you'll all keep watching us!
+Saki: Okay, see you later!
+MEIKO: Goodbye! Don't be a stranger!
+Ichika: Goodbye! Don't be a stranger!

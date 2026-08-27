@@ -1,0 +1,115 @@
+360 KAITO's Anniversary Show 2026
+
+1 [mc_timeline] mc_bd_2025kaito_1
+
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+Ena: Okay, remember, all at once. Just like we planned it.
+Kanade: Right.
+Mizuki: Hey, you guys are all here for KAITO's celebration, right? Can you help us out?
+Mizuki: Ah, shhh! KAITO's right over there, and we don't want him to notice us.
+Mafuyu: It looks like we're safe for now...
+Kanade: Um... You've probably picked up on it already, but we're planning to surprise KAITO.
+Ena: He's not exactly the type to let us celebrate if we just asked, you know?
+Mizuki: Will you cheer for him with us? We'll give you the signal!
+Mizuki: Thanks! Okay—
+(Enter: KAITO)
+KAITO: Hm? How long have you been there?
+Kanade: Ah...!
+Ena: Ah...!
+Mafuyu: Guess there's no turning back now.
+Mizuki: Yeah! Go, go, go!
+Mizuki: Here we go, everyone!
+Mizuki: Happy anniversary, KAITO!
+Mafuyu: Happy anniversary.
+Ena: Happy anniversary!
+Kanade: Happy anniversary.
+KAITO: So you all came here just to cheer for me? No one said you had to.
+Ena: You're the only one who thinks like that, KAITO.
+Kanade: You've been a big help to each of us. And you're always looking out for us.
+Mizuki: And I caused everyone a bunch of trouble, too. This is the least I can do!
+Mafuyu: Me too...
+Mafuyu: You've done a lot for me.
+KAITO: Hmph...
+Kanade: Could we ask you to humor us a little longer, KAITO?
+Kanade: We'd like to sing you a song to express our gratitude to you.
+KAITO: Suit yourself.
+Mizuki: Thanks!
+Kanade: Okay, here goes...
+Kanade: Passion at 25:00.
+
+
+2 [MUSIC] 409: Passion at 25:00
+
+3 [mc_timeline] mc_bd_2025kaito_2
+
+(Enter: KAITO)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+KAITO: That's enough, right? I'm leaving.
+Kanade: Okay. Thank you for letting us sing for you.
+(Exit: KAITO)
+Mizuki: Hooray! Anniversary celebration complete♪
+Ena: Thanks for helping out, you all.
+Mafuyu: Bye for now.
+
+
+4 [mc_timeline] mc_bd_2025kaito_3
+
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+Miku: Everyone! Thank you all for coming to celebrate KAITO's anniversary!
+Luka: But where's the man of the hour?
+Rin: Oh, don't worry about that! Come on, KAITO!
+(Enter: KAITO)
+Len: Wow, check out his outfit! It's so cool!
+MEIKO: Yes. But it feels like you're ready to burst into song...
+KAITO: You guessed it, MEIKO!
+KAITO: It's a little embarrassing to say this, but I've prepared a show worthy of today's star.
+KAITO: Will you all listen, too?
+KAITO: Thank you! Okay, here goes.
+KAITO: Rainy Snowdrop!
+
+
+5 [MUSIC] 283: Rainy Snowdrop
+
+6 [mc_timeline] mc_bd_2025kaito_4
+
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+KAITO: Thank you all for listening!
+Len: That was awesome, KAITO!
+Miku: Yes! I would love to hear even more!
+KAITO: Hehe, thank you.
+MEIKO: So, Rin, how did you know KAITO had a show prepared for us?
+Rin: Well, you see...
+KAITO: She happened to catch me while I was practicing.
+Rin: Hehehe. He gave me some candy to keep it a secret from everyone♪
+KAITO: Th-They don't need to know that...!
+Len: Hahaha! And you were acting so cool just now, too!
+Luka: But this is a wonderful side of you too, KAITO.
+Miku: It is!
+MEIKO: Okay! To finish up, let's all wish KAITO a happy anniversary.
+Luka: Are you all ready?
+MEIKO: It sounds like it! Then here we go!
+MEIKO: Happy anniversary, KAITO!
+Len: Happy anniversary!
+Miku: Happy anniversary!
+Luka: Happy anniversary!
+Rin: Happy anniversary!
+KAITO: Thanks!
+KAITO: And thank you all, too!
+KAITO: I'll keep singing with my head held high this year, just like you saw today.
+KAITO: So I hope you'll keep on supporting me.
+KAITO: Alright, see you next time!

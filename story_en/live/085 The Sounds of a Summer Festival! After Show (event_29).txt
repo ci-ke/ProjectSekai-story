@@ -1,0 +1,92 @@
+85 The Sounds of a Summer Festival! After Show (event_29)
+
+1 [MUSIC] 129: Bitter Choco Decoration
+
+2 [mc] mc_ev_shuffle_09_1
+
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Mafuyu)
+(Enter: Miku)
+Miku: Thank you, everyone. It was fun singing with you all.
+Ena: I'm glad to hear that.
+Mizuki: When you asked us to sing with you, there's no way we could say no, could we?
+Kanade: So...tired...
+Ena: Hey Kanade, are you okay?
+Kanade: Oh... Sorry. I'm still tired from the festival...
+Mizuki: So you wore yourself out?!
+Kanade: Well... I was fine when I was at the festival but once I saw the event, I wanted to compose more songs so I stayed up all night and...
+Ena: Wait, that's kind of amazing in a way... Maybe you have a lot more stamina than you think you do...
+Mafuyu: So, were you able to compose anything?
+Kanade: Yes. I'll show it to you all the next time we meet up.
+Mizuki: Yay! I can't wait♪
+Miku: Kanade... I'm sorry for asking you to come over when you're tired. It's just been a long time, so I'm happy to see you...
+Kanade: No, that's okay. I'm also really happy to be able to sing with you all too.
+Mizuki: Oh yeah! Speaking of festivals, I brought a bunch of stuff for Miku and the others.
+Ena: You're not going to try to make that yoyo fishing game thing happen in SEKAI, are you?
+Mizuki: Of course, I am! You can buy all kinds of things online now!
+Ena: Wow, I didn't think you'd actually do it...
+Kanade: You look like you enjoyed yourself, Mizuki.
+Miku: Festival? Sounds like fun.
+Mizuki: In that case, how about we all do it together♪ I'll call Rin and the others!
+Mizuki: You guys wait here!
+Mafuyu: Okay.
+(Exit: Mizuki)
+Miku: Mizuki seems pretty cheerful... I wonder if it's because of the festival.
+Ena: Hmm, I wonder. Either way, I'm glad that Mizuki had fun.
+Miku: You look happy too, Ena.
+Ena: You think so...?
+Miku: I'd like to hear more about what happened at the festival.
+Kanade: There were a lot of things, like target shooting...
+Mafuyu: What else... The yoyo fishing game?
+Ena: There were so many things that happened that I don't know where to start.
+Kanade: The food stalls were great, but I want to talk about the event Ena's little brother was at.
+Ena: The event, huh... Yeah, I guess we can start with that.
+Ena: Come to think of it, this is the first time I've actually heard Akito sing. It'd be nice to hear him again if another opportunity comes by...
+
+
+3 [mc] mc_ev_shuffle_09_2
+
+(Enter: Toya)
+(Enter: Akito)
+(Enter: Len)
+Akito: It's been a while since we last sang here just the two of us, huh Toya.
+Toya: It sure has. Since forming Vivid BAD SQUAD, it's always been with Shiraishi and Azusawa.
+Len: Speaking of, An is out with her family and Kohane is at a seaside school. But they will be back by tomorrow, right?
+Len: It'd be great to perform live all together next time!
+Akito: That's true. Besides, we've got a lot of people in the audience today, and we've got to show them how much we've both grown.
+Toya: Sounds good. I tried something new at the summer festival and it was a nice change of pace.
+Len: That live show was incredible!
+Akito: Well, I'm going to hype it up even more today.
+Toya: Same here!
+Akito: Alright, let's go, partner. We're going to sing! You all better listen up!
+
+
+4 [MUSIC] 69: Fragile
+
+5 [mc] mc_ev_shuffle_09_3
+
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+Akito: Great work, Toya!
+Toya: You too!
+Akito: Thanks for listening too, you guys.
+Len: You two were so cool!
+Len: There was so much more impact than the live show at the summer festival and... I just got so excited from listening to it!
+Akito: I'm glad.
+Akito: But, we'll have to rethink our practice schedule when Kohane and An come back.
+Toya: How about a little more training on... Our lung capacity? This would be useful for our future shows, right?
+Akito: Good idea. Shall we do some late-night training sessions?
+Len: Wow... You are as stoic as ever.
+Akito: Hmm? Hey, do you smell something burning over there?
+Toya: This smell... It reminds me of the summer festival.
+Len: Oh, maybe it's yakisoba. When I was talking to KAITO about the summer festival earlier, he said he wanted to try making it too.
+Akito: What's up with that. Wait, now the burning smell is getting stronger and stronger... Let's just go check it out for now!
+Toya: Good idea.
+Len: This way, you two! I hope KAITO's okay...
+Akito: Oh wait... I haven't thanked you all properly yet, have I?
+Akito: Thanks for coming today, you guys! Thanks to you all it was an amazing performance.
+Len: Akito! Hurry!
+Akito: Yeah, I'll be there! Later!

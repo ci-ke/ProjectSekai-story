@@ -1,0 +1,99 @@
+228 One Small Trip Before a Big Journey After Show (event_94)
+
+1 [mc] mc_ev_shuffle_31_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: Humhumhuum♪
+Honami: You seem chipper, Saki.
+Saki: Hehehe. That's because I'm super close with the girls from my field trip group now!
+Shiho: That's nice. You and Ichika were in the same group, right?
+Ichika: Yeah. We've all been talking in the group chat ever since the field trip.
+Miku: What sort of stuff do you chat about?
+Saki: Let's see... We talk about what we watch on TV, or stuff that happened in class...
+Saki: Oh, we also talked about Ichi and Haruka coming over to watch the soft tennis club sometime!
+Miku: Oh, I see. You'd better bring your A-game then.
+Saki: Don't need to tell me twice♪ I'm gonna show them my killer smash!
+Ichika: Hehe. I'll be looking forward to it.
+Ichika: Shiho, Honami, how was the field trip for you?
+Shiho: Well, I had a fun time. I was with Kohane and Minori.
+Shiho: We decided to go on a mission to eat everything we could, so we shared the food with each other.
+Honami: Hehe. My group and I went to Chinatown too, so we happened to bump into them.
+Saki: Huh? Really?!
+Honami: Yes. Since they said they were going to eat everything in Chinatown, we tried to help out...
+Shiho: And as you might expect, it was impossible even with the extra people.
+Saki: Ooh, I see, I see... Then I guess that means we need to try again, the four of us!
+Honami: I don't think that would change anything...
+Shiho: That wouldn't change anything.
+Saki: Whaaat?!
+Shiho: Anyway, let's start practice.
+Saki: Okie dokie! Let's do this!
+Ichika: Hehe. Alright, here we go.
+Ichika: Stella!
+
+
+2 [MUSIC] 64: Stella
+
+3 [mc] mc_ev_shuffle_31_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Shizuku: Thank you both for the souvenirs.
+Airi: Yes! The castella from Minori and the chocolate cookies from Haruka were really good!
+Airi: Not to mention that Miku just gobbled them right up too.
+Miku: Well, they picked those out just for us. I had to savor every bite...
+Minori: Hehe. I'm glad you all liked it!
+Haruka: Yes, I'm happy to hear that too.
+Airi: Well, now that you've eaten, you'd better get started on your workout.
+Minori: What?!
+Miku: What?!
+Airi: Minori, you ate a lot on the field trip, and Miku, you ate lots of souvenirs, right? Time to get moving and work those calories off!
+Minori: Y-You've gotta be kidding...!
+Miku: *Sob* But, I guess that makes sense...
+Haruka: Miku. Minori. Let's all do our best.
+Shizuku: All of us will join you.
+Airi: Well, if you insist.
+Minori: You guys!
+Minori: Okay. I understand. I'll do it!
+Miku: You're right. Let's do this, Minori!
+Haruka: Since we're here, let's get some movement in with a show.
+Haruka: Are you all ready?
+Minori: Yeah!
+Shizuku: I'm ready.
+Haruka: Alright, let's start. IF!
+
+
+4 [MUSIC] 211: IF
+
+5 [mc] mc_ev_shuffle_31_3
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Minori: Wasn't Haruka super amazing today?!
+Haruka: Huh? Really?
+Shizuku: Yes! It felt like... You were just so radiant!
+Miku: My heart was beating fast from seeing you smile and dance. See, everyone feels the same!
+Airi: Oh yes, they do! Thanks for bringing the energy, everyone!
+Haruka: Thank you for watching!
+Haruka: I'm sure this is because good things happened on the field trip.
+Haruka: And I hope those feelings got through to you.
+Minori: I'm sure they did! Even all of us were getting so excited while we were dancing with you♪
+Haruka: Thank you to all of you as well.
+Airi: Alright, next we'll go for a nice long run! Make sure to keep up!
+Minori: O-Okay!
+Haruka: Hehe, let's do our best.
+Haruka: Well then, see you next time, everyone!
+(Exit: Minori)
+(Exit: Haruka)
+(Exit: Airi)
+(Exit: Shizuku)
+(Exit: Miku)

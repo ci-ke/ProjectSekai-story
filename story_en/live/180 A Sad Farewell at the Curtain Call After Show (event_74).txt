@@ -1,0 +1,73 @@
+180 A Sad Farewell at the Curtain Call After Show (event_74)
+
+1 [mc] mc_ev_wonder_10_1
+
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Emu)
+(Enter: Len)
+(Enter: Miku)
+Miku: Okay everyone, on the count of three! One, two...three!
+Len: Congratulations on your final ambassadorial performance!
+Emu: Hehehe, thanks guys!
+Rui: It's very kind of you to put this on for us.
+Nene: I was really nervous when I found out we'd be performing with the ArcLand cast... But now it's behind us, I'm glad we did it.
+Tsukasa: I feel the same. Also, we learned much from them.
+Tsukasa: We especially have Asahi to thank for teaching us so much.
+Rui: Yes, that's true.
+Rui: And I... I also learned a lot during our time with them.
+Miku: Rui...
+Rui: Hehe, thank you for your help, Miku.
+Rui: I'm fine now. In the end, I decided to hold on to what's dear to me.
+Miku: You did?
+Len: Wait, what? Did you run into some trouble, Rui?
+Rui: You could say that. I came to Miku for some advice on something.
+Tsukasa: What's that now? You had a problem? Why didn't you talk to us about it?!
+Rui: It wasn't that serious. After mulling it over for some time, I was able to get inner clarity.
+Nene: I see... In that case, I'm glad.
+Rui: Hehe. Thank you, everyone.
+Rui: So, that's it for our ambassadorial performances. From now on, we'll be pouring our energy into perfecting our shows on the Wonder Stage.
+Tsukasa: Indeed! More and more guests will be coming expecting to see an incredible performance, and that's just what we will give them!
+Emu: Yeah! We can do it! Wonderhoy!
+Tsukasa: "Wonderhoy!"
+Nene: "Wonderhoy!"
+Rui: "Wonderhoy!"
+Tsukasa: In that spirit, let's put on another show right now!
+Rui: Actually, I just happen to have a song in mind for that. Would anyone mind if we sang it?
+Len: Fine by me! The best songs are the ones you're itching to sing!
+Rui: Hehe, thank you. On that note, sit back and enjoy!
+Rui: As You Like It!
+(Exit: Miku)
+
+
+2 [MUSIC] 106: As You Like It
+
+3 [mc] mc_ev_wonder_10_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+(Enter: Miku)
+Rui: There's no mistaking it... I really do love performing with them...
+Len: Rui? Is something on your mind?
+Rui: Hehe... Nothing. I just got caught up in the fun of it all.
+Rui: It's as if just being here in this moment is a show in and of itself.
+Tsukasa: Just being here is like a show... That's a poetic way to put it.
+Emu: Yeah! Spending time with you guys is like a show every day!
+Nene: It sounds like such an exaggeration to say it like that... But I guess it isn't.
+Miku: Hehehe, everyone's smiling!
+Len: Yeah! Like we're on top of the world!
+Emu: Our next show needs to go "ka-pow!", just like this one♪
+Nene: There's no reason we can't make that happen. Not when it's the four of us.
+Rui: Exactly!
+Rui: Thank you for coming today, everybody.
+Rui: I think we have room to grow even more as time goes by. Actually, I know we do.
+Rui: And that is all the more reason to keep coming to see us.
+Nene: I guess we should get down to talking over our next show.
+Emu: Yup yup! I've got a ton of cool ideas for it!
+Tsukasa: And I'm sure they're as bizarre as your previous suggestions. Though I suppose that's sometimes what makes them good sometimes.
+Rui: Hehe. Why not start by discussing everything together as a group?
+Miku: Great idea! Good luck everyone!

@@ -1,0 +1,91 @@
+221 In This Singing City After Show (event_90)
+
+1 [mc] mc_ev_shuffle_30_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Kohane: Really?! You had a session with Shiho?
+An: Yeah. Her bass playing was so clean... She was really cool!
+Akito: Huh. Yeah, I remember she played at a really high level.
+Toya: Definitely. We don't usually perform with actual instruments, so that must have been a refreshing experience.
+An: Yeah, it really was! And then Kusanagi also came by, so we continued the session with the three of us!
+Kohane: Wait, her too?! That sounds amazing, I wish I could have watched...
+An: Hahaha. It all just kind of happened in the moment... Sorry, Kohane!
+Miku: I kinda get a feel for how much fun it was just from how you talk about it. That's quite the story.
+Miku: Can you tell me more about this Hinomori person?
+An: Hmm, she's the quiet and aloof type. But when she plays, the sound is super intense.
+An: It felt like she shared more with me through our performance together than she could through words.
+Kohane: Hehe, that sounds like Shiho... It was like that the first time I talked to her, too.
+An: Oh, really?
+Kohane: Yeah. I hadn't really ever spoken to her before, but I realized that she had a lot to say when it came to music.
+Kohane: We got closer after that. She's really kind, and helps me out a lot.
+Miku: Hehe... I wanna hear her perform sometime, too.
+Miku: Good for you, An, making a great new friend.
+An: Yeah, absolutely!
+An: Well, anyway... How about we get practicing?
+Kohane: Right. I wanna sing!
+An: Okay, let's start with a warm-up. Wanna join us, Miku?
+Miku: Sure, I think I will.
+Miku: Do you have a song decided?
+An: Yeah! Let's all get hyped up, you guys! Forward!
+
+
+2 [MUSIC] 55: Forward
+
+3 [mc] mc_ev_shuffle_30_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Ichika: Whoa, a session with just bass and vocals?
+Shiho: Yeah. It's not something I usually do, and Shiraishi's singing has some real power to it. It made for good inspiration.
+Saki: Wow, awesome...! I wish I could've listened!
+Honami: You were listening, right Miku? How was it?
+Miku: How was it...? I guess I'd say it was interesting.
+Saki: Interesting?
+Miku: Yeah. Their energy just kept building as they kept performing, so it made for great listening. And...
+Miku: I realized all over again how nice it is to perform alongside someone.
+Shiho: Miku...
+Shiho: I felt the same thing at the time.
+Shiho: And when I play with all of you, too... I feel that I'm able to perform well because I'm with you.
+Shiho: Well, there isn't much time left before the solo show, so let's get to practice.
+Ichika: Right!
+Honami: Right!
+Saki: Alright, I'm going all out!
+Shiho: But before we start, I guess we should get warmed up first. Wanna join us, Miku?
+Miku: Nice, let's do it.
+Shiho: Okay, here we go.
+
+
+4 [MUSIC] 148: ray
+
+5 [mc] mc_ev_shuffle_30_3
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Miku: Everyone performed really well. And Shiho's playing was even more energetic than before.
+Miku: You all felt that too, right?
+Saki: Wow! Thanks, everyone! This means we put on the best performance ever♪
+Ichika: Hehe. And... Shiho, you really were amazing.
+Honami: That means we need to work harder too...!
+Shiho: Thanks, everyone.
+Shiho: And all of you, too. Thanks for listening.
+Shiho: When I'm performing with everyone, I really can tell that my feelings are flowing into the music.
+Saki: Yeah! I feel the exact same way!
+Ichika: Me too! I want to keep running forward with all of you.
+Honami: Let's all make our solo show a success.
+Miku: You can do it. Keep working at it.
+Shiho: Yeah...
+Shiho: Okay, let's practice some more to make that happen.
+Shiho: So that we can deliver the best performance possible.
+Ichika: Yeah!
+Saki: Yeah!
+Honami: Yeah!

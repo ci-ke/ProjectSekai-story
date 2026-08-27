@@ -1,0 +1,91 @@
+59 Insatiable Pale Color After Show (event_14)
+
+1 [mc] mc_ev_night_02_1
+
+(Enter: Rin)
+(Enter: Ena)
+Ena: Oh, there you are Rin!
+Rin: What's wrong Ena? Did something happen again?
+Ena: No, no, no. That's not what I'm here for today.
+Ena: I wanted to thank you and Miku for that time...
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Mizuki)
+Mizuki: Heya, Rin!
+Mizuki: Oh, Ena, you're here too. What a coincidence!
+Kanade: What's wrong?
+Ena: Oh... I...
+Rin: She's here to thank me and Miku.
+Ena: H-Hey, Rin!
+Kanade: To thank you? You mean for back then?
+Ena: Yes. I'm grateful to Rin and the others.
+Mizuki: What! You should've asked us to join you!
+Ena: I was the one who caused trouble, I wanted to apologize on my own.
+Kanade: That's very much like you...
+Mizuki: But what a coincidence. We came to thank Rin and the others too.
+Ena: What? Really...?
+Kanade: Yes. They also helped us out the other day.
+Ena: I see. Thank you, everyone.
+Mizuki: Well, let's go find Miku!
+Mizuki: I wonder where she is today. Rin, do you know where Miku is?
+Rin: No idea. I haven't seen her here all day. She might even be somewhere far away.
+Kanade: I see... I guess it'll take us a while to find her.
+Ena: Oh... well, how about we sing together?
+Mafuyu: Sing?
+Ena: Yes... Last time I was in SEKAI, I heard you singing, Rin.
+Ena: I was so sick of drawing, I didn't want to think about anything, so I covered my ears...
+Kanade: Ena...
+Ena: But I feel different now.
+Ena: I think that now I can sing a song that can reach Miku like Rin did back then.
+Mafuyu: A song that can reach Miku, huh...
+Mizuki: Wouldn't it be great if we could call Miku with our song? Let's try it♪
+Kanade: I wonder if she'll come.
+Rin: I'm not sure, but that's up to you guys, isn't it?
+Ena: *Sigh*... It would be nice to get a little more encouragement.
+Rin: Sorry, but I'm not very good at encouraging people. I can lend you a hand though.
+Mizuki: How?
+Rin: I can sing with you if you'd like?
+Ena: Rin... You really aren't straightforward, are you?
+Ena: Alright then. Let's sing together so that our song can reach Miku!
+Ena: Close to gray!
+
+
+2 [MUSIC] 90: Close to gray
+
+3 [mc] mc_ev_night_02_2
+
+(Enter: Kanade)
+(Enter: Rin)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Mafuyu)
+Ena: Phew...
+Ena: I wonder if our song reached Miku?
+(Enter: Miku)
+Kanade: Uh...
+Ena: Miku! You're here!
+Miku: I heard you and the others singing. It was powerful and made my heart pound.
+Rin: It looks like Ena's feelings have reached you.
+Ena: Well, someone not-so straightforward helped out, didn't they?
+Ena: Hey, Miku, Rin... Thank you for that time. I was able to get serious about improving my art skills after that.
+Miku: I see. I'm glad.
+Ena: Well, I'm far from perfect but even though I can't draw well, I'm less impatient than before.
+Rin: Oh really?
+Ena: Yes. I realized that there's no point in rushing.
+Ena: We're going to have to keep making them anyway, aren't we?
+Ena: Right, Mafuyu?
+Mafuyu: Yes, I suppose so.
+Ena: Thank you all for watching over me.
+Ena: Knowing that there are people watching over me like this is reassuring.
+Ena: I'm going to keep working harder. Will you continue watching over me?
+Ena: Hehe. Thank you!
+Mizuki: It's so weird that Enanan is so nice to me.
+Ena: There's another reason why I can't usually be nice to you.
+Mizuki: Really? I don't recall why that could be.
+Mizuki: Either way, we had lots of fun. I don't mind at all♪
+Kanade: Well, it's about time we headed back. I have to write a new song.
+Ena: Yes. I agree.
+Ena: Miku, Rin, thank you.
+Ena: Also, I hope you guys look forward to my next new song! Bye bye!
+Mizuki: Bye bye!
+Kanade: See you.

@@ -1,0 +1,80 @@
+299 Whip Yourself into Shape! After Show (event_129)
+
+1 [mc] mc_ev_street_17_1
+
+(Enter: Kohane)
+(Enter: An)
+An: It's as quiet as ever here.
+Kohane: Yeah. It feels a little odd since Vivid Street's been so lively since that day.
+An: Right?! But this suits me. With everyone wanting to talk about our battle lately, my voice could use a break.
+Kohane: You say that, An, but you're always beaming when they talk to you.
+An: I am? Well if you say so, I guess it's true.
+An: Really, Kohane... Thanks for battling me.
+Kohane: Hehe, you're welcome.
+Kohane: Let's do it again sometime, An.
+An: You're on!
+(Enter: Luka)
+Luka: Oh, there they are! Heeey!
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Oh, hi guys!
+Miku: So this is where you two were. Rin's looking for you. She's disappointed since she wanted to sing with you.
+An: Wait, really? I feel bad.
+Miku: Anyway, I'll go get her now. I'm sure I'll find her soon enough.
+Kohane: Thank you, Miku!
+(Exit: Miku)
+Toya: Were you two practicing here?
+An: No, just chatting. We were saying how quiet it is here compared to back home.
+Akito: No kidding. All anyone can talk about is how we might be about to surpass RAD WEEKEND.
+Luka: Wow, really? It sounds like you're right on track!
+Toya: Yes. Thanks to Shiraishi and Azusawa, the stage is now all but set.
+An: Luka... Thank you again.
+Luka: Huh?
+An: I had a breakthrough thanks to what you said.
+An: Yes, Miku and Akito listening to my worries and Toya's advice were really helpful...
+An: But I don't think I could've taken action if you hadn't said that to me.
+Luka: I see! Well then, I'll accept your thanks♪
+Luka: But... More than anyone, you have yourself to thank, An!
+Luka: So, how about you show yourself a little appreciation?
+An: ...! Hehe, got it!
+(Enter: Rin)
+Rin: Guys! I finally found you!
+Kohane: Oh, Rin! Yes, I'm glad you did.
+Rin: Miku told me you were here! Hehe. I wanted to sing so bad, I rushed right over!
+Rin: Oh no! I'm sorry, Miku!
+An: Hahaha, well in that case, let's sing!
+An: And... I know just the song. One that conveys how we feel about everyone in town.
+An: City!
+(Exit: Luka)
+
+
+2 [MUSIC] 217: City
+
+3 [mc] mc_ev_street_17_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+(Enter: Luka)
+An: Thank you, everyone!
+Luka: Wh-Whoa! Wasn't An and everyone's singing incredibly powerful just now?
+Rin: Even I felt the energy singing next to you!
+An: I don't know how to put it. It's like I have this feeling...
+An: Like the voices of everyone here and around the neighborhood have given me strength.
+An: It feels like the sky's the limit right now.
+Toya: Yes. At the point we've reached, I'm certain it is.
+Toya: We can make the impossible possible.
+Akito: You've got that right.
+Kohane: Let's do it, An! All of us, together!
+An: Yeah!
+An: Listen up, everyone. We're nearly there.
+An: We're gonna surpass that legend.
+An: So hold onto your hats and don't look away!
+An: You're not gonna know what to do with yourselves!
+An: Alright guys, let's go! There's only a little more we need to do!
+Kohane: Yeah! Yes!
+Akito: Yeah! Yes!
+Toya: Yeah! Yes!

@@ -1,0 +1,114 @@
+12 Halloween Show 2021
+
+1 [mc] mc_2020halloween_1
+
+(Enter: KAITO)
+KAITO: Hi, everyone. It's been a while. How are you?
+KAITO: Good to know. I can tell you're all getting used to life in SEKAI as well.
+(Enter: Rin)
+(Enter: Len)
+Rin: "Trick or treat!"
+Len: "Trick or treat!"
+KAITO: Whoa! Rin and Len! Sheesh, don't scare me like that...
+Rin: But it's Halloween today, right? Which means you'd better be prepared to get tricked and pranked lots!
+Len: You don't have any candy with you right now, do you?
+KAITO: Uh... H-Hey! Aren't you two interested in how those in the other SEKAI are spending their Halloweens?
+KAITO: It'll be much more fun to watch them instead of playing tricks on me, right?
+Len: Hm... What do you all think? Do you wanna go see what's happening in another SEKAI?
+KAITO: Looks like you have your answer! Let's go!
+Rin: Okay! And maybe we'll even get to see "us" in action♪
+
+
+2 [mc] mc_2020halloween_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Haruka: You're even more energetic than usual today, Minori.
+Minori: Yeah! I've always wanted to do seasonal event shows like this when I became an idol!
+Airi: And that's why you suddenly wanted us all to meet in SEKAI, huh?
+Shizuku: Hehe. But this may be a good chance for us to show Rin the song we just learned.
+Rin: I can't wait! It'll be my first time seeing it properly♪
+Miku: Then let's do it!
+Minori: Okay! Everyone, please enjoy the MORE MORE JUMP! special Halloween show!
+(Exit: Rin)
+
+
+3 [MUSIC] 70: Melty Land Nightmare
+
+4 [mc] mc_2020halloween_3
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Rin: Great job, everyone! The usual cheerful and energetic songs are always fun, but today's song is a nice breath of fresh air too!
+Airi: Hehe. Cheeriness isn't all an idol has to offer, after all!
+Shizuku: I really hope we can get to show more people all the different aspects of us.
+Minori: Yes! And to do that, we'll just have to keep practicing! More, more, more!
+Miku: But since it's Halloween today, I was really hoping we could throw a party or something.
+Minori: Oh, I have some candy! I put it in a paper bag in front of my door yesterday... Oh no! I think I left the whole bag there!
+Rin: Does that mean we can play all the tricks we want on Minori today?
+Minori: Huh? Um... P-Please be nice?
+Haruka: Hehe. Minori...
+Haruka: "Trick or treat!"
+Airi: "Trick or treat!"
+Shizuku: "Trick or treat!"
+Minori: Whaaaaaaat?
+
+
+5 [mc] mc_2020halloween_4
+
+(Enter: KAITO)
+(Enter: Rin)
+(Enter: Len)
+KAITO: Well, they were definitely having fun with their Halloween.
+KAITO: The show was wonderful too. I'm glad I got to watch it with everyone here.
+Rin: Hehe. Now I'm starting to feel like I wanna sing and dance like them too!
+Len: Me too! Let's have our own Halloween show!
+(Enter: Miku)
+(Enter: Luka)
+(Enter: MEIKO)
+Luka: Welcome back, you three.
+Miku: We've finished preparing for the Halloween party, but... You're looking like you want to sing a song first.
+Len: Yeah! We were just talking about doing our own Halloween show!
+MEIKO: Halloween show? Now that's an interesting idea!
+
+
+6 [mc] mc_2020halloween_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Here goes, everyone! Let's all have a good time together!
+(Exit: Luka)
+
+
+7 [MUSIC] 41: Sweet Magic
+
+8 [mc] mc_2020halloween_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: MEIKO)
+(Enter: Len)
+(Enter: KAITO)
+Rin: Ahh, that was so fun! Did you all have fun?
+(Enter: Luka)
+Len: Hehe, that's what I wanted to hear!
+Luka: Yes, that was an enjoyable Halloween show for sure.
+Luka: To thank you for performing such an entertaining song, would you like to have some delicious candy?
+Rin: "Yes, please!"
+Len: "Yes, please!"
+KAITO: Thanks for joining us too, everyone out there!
+KAITO: I hope your Halloween will be as fun as ours. Happy Halloween and see you again!
+Rin: "Bye!"
+Len: "Bye!"

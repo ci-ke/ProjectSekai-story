@@ -1,0 +1,68 @@
+95 A Bright Future!! After Show (event_34)
+
+1 [mc] mc_ev_band_05_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: KAITO)
+Saki: Oh, there he is! KAITO! Over here!
+Ichika: Phew. So this is where you were.
+KAITO: Hey everyone... Something the matter?
+Miku: Ichika and the others said they're going to announce their first show.
+KAITO: Oh I see. Well then, let's get everyone together-
+Ichika: Wait, just before you do...
+KAITO: What's up?
+Ichika: KAITO, I just want to say thank you for looking over my lyrics back then.
+Ichika: Looking back, I realize now just how little faith I had in myself.
+Ichika: I couldn't bring myself to believe in my own lyrics and felt pretty lost.
+Saki: Seriously?! Ichi, I had no idea!
+Honami: But your lyrics are so good. Ichika... I can't believe you felt that way.
+Ichika: Well, things are looking a lot better for me now. I managed to improve my lyrics because I was determined to get better at sharing my feelings.
+Ichika: ...and because we wrote a song together and our fans loved it.
+Ichika: So from here on out, I'm going to shake off the nerves and share my feelings with confidence!
+KAITO: Nicely said.
+Miku: Looks like what KAITO said turned out to be true.
+KAITO: I guess so.
+Shiho: Huh? Wait, what am I missing?
+Miku: He once told me that he thinks you guys have managed to open a new door of opportunities.
+Ichika: Oh... I see...
+Saki: Yeah! We totally did!
+Honami: KAITO's also been rooting for us. How lovely.
+KAITO: Hey, Ichika, can I ask a favor?
+Ichika: What is it?
+KAITO: I want you guys to sing for me.
+KAITO: Now that you've opened a new door, what does the first song of your new journey sound like? I'd love to hear it.
+Ichika: KAITO...
+Ichika: Oh, I know!
+Ichika: Let's do this, everyone!
+
+
+2 [MUSIC] 3: Teo
+
+3 [mc] mc_ev_band_05_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: KAITO)
+KAITO: Wow. I could really feel the emotion in your performance.
+KAITO: Thank you for sharing it with me.
+Miku: I'm glad I could join in too.
+Ichika: Thank you! I'm glad you felt that way...
+Miku: Do you guys have a date set for your next show?
+Ichika: Not yet, but we're thinking of doing it soon.
+Saki: We'll make sure to step our game up to make the audience go reeeaaal wild!
+Shiho: Looks like we're gonna have to pull out all the stops for our upcoming rehearsals.
+Saki: P-please, M-Miss Shiho... Go easy on us...
+Honami: Hehe. How about we get straight to it?
+Ichika: Sounds like a plan.
+Ichika: Thank you everyone for all your support today!
+Ichika: We've still got a lot to learn, but we'd be more than happy to see you here again to support us next time!
+Shiho: We promise to deliver an even better performance next time!
+Honami: See you next time!
+Saki: Bye bye!

@@ -1,0 +1,81 @@
+18 Welcome Show! Vivid BAD SQUAD
+
+1 [mc] mc_release_04_1
+
+(Enter: Kohane)
+(Enter: An)
+An: Let's start with something simple to warm up our voices before the practice session. What song do you want?
+Kohane: Um, h-how about that one? The song you were singing at Weekend Garage on the night I first visited...
+An: Oh, that one! That sure brings back memories... Not that it was that long ago, but still.
+Kohane: Hehe. I can understand why you feel that way.
+Kohane: After hearing your song, we met at the shop, and then... A lot of other things happened between then and now.
+(Enter: Rin)
+(Enter: Len)
+Rin: Hey, if it isn't Kohane and An! Are you going to sing?
+An: Yup. Just to warm up before practice.
+Len: In that case, can we join in as well?
+An: You don't even need to ask! Can you start right now?
+Len: "Sure thing!"
+Rin: "Sure thing!"
+An: Then what're we waiting for? Let's start!
+
+
+2 [MUSIC] 26: BRING IT ON
+
+3 [mc] mc_release_04_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Len)
+(Enter: Rin)
+Kohane: Phew... Thanks for singing with us, Rin and Len.
+Len: No problem! Okay, we have to go to MEIKO's cafe now. You should drop by too if you have time!
+Rin: Bye now! See you at the cafe!
+(Exit: Len)
+(Exit: Rin)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+Kohane: Ah! Shinonome, Aoyagi! You came with Miku?
+Miku: We bumped into each other just now. Good to see you too, Kohane and An.
+Kohane: Hi! We wanted to do some warm-ups before practice started.
+Akito: That'd better mean you're all good to go.
+An: What about you?
+Toya: We're fine. We can start anytime.
+Kohane: Hehe. We've been singing together like this a lot more often lately, haven't we?
+Akito: Of course we have. We're supposed to be a group. Although, it's still entirely possible that the group may be disbanded if you end up dragging us down.
+Kohane: Seriously?!
+An: Don't take him seriously. You're my singing partner and I couldn't have asked for anyone better! Be more confident!
+Kohane: I will! Thank you, An.
+Miku: Shall we start, then?
+An: Yes! Let's do it!
+
+
+4 [MUSIC] 54: Ready Steady
+
+5 [mc] mc_release_04_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Oh, that was so much fun! Feels like we were in way better form than usual, too!
+Toya: It felt like we were spurring each other on while singing.
+Akito: Yeah. But that's the least we should be able to do for each other as a team.
+Kohane: Um, everyone? I see a lot of lights over there. What are those?
+An: Hey, you're right! They're sparkling and swaying!
+Miku: Those are feeling sparks.
+Miku: Your song must have reached someone out there through SEKAI.
+Kohane: I see... I don't know who these people are, but I'm glad they liked our music.
+(Enter: MEIKO)
+MEIKO: Hey, there you are! Have a good practice?
+MEIKO: I made sandwiches, in case you're feeling hungry. Drop by the cafe for some if you'd like, okay?
+An: Yay! Thank you, MEIKO! By the way, what sort of sandwiches are we talking about here, exactly?
+MEIKO: All sorts! Egg, tuna, even tomato and lettuce.
+An: T-Tomato?!
+MEIKO: Oh my. You don't like tomatoes?
+Akito: What the heck? You can't eat tomatoes at your age?
+Toya: You can't eat carrots either, Akito.
+Akito: Sh-Shut up, Toya!
+Miku: Hehe. Come on, everyone, let's all head over to MEIKO's cafe.

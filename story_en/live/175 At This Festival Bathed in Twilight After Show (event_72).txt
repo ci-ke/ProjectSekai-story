@@ -1,0 +1,119 @@
+175 At This Festival Bathed in Twilight After Show (event_72)
+
+1 [MUSIC] 38: BURIKI NO DANCE
+
+2 [mc] mc_ev_shuffle_24_1
+
+(Enter: Tsukasa)
+(Enter: Rui)
+(Enter: Len)
+Rui: Thank you everyone. Hehe, it wasn't a half bad show, was it?
+Len: It was really fun to watch, Rui, Tsukasa! But I wish I could've seen you guys do that demon show.
+Tsukasa: Ah yes, that show! It did go down devilishly well with our audience!
+Rui: That's true. And... I'm happy to say it seemed to have an impact on someone.
+Tsukasa: Hm? An impact on who?
+Rui: Hehe. That's for me to know.
+Tsukasa: Hmm... Now that you've said that, I can't help but wonder...
+Rui: Hehe. Well, let's just say that our song touched a troubled soul.
+Len: Okay...? I don't really get it, but if you guys put on a show that made someone smile, I'm really happy for you!
+Tsukasa: Hmm... Well, I can't argue with that.
+Tsukasa: All I want is for our shows to bring smiles to even those who are suffering.
+Tsukasa: No matter what problems they face!
+Rui: Yes. That is my wish too.
+Rui: I hope...with all my heart...that her path becomes clear.
+
+
+3 [MUSIC] 67: Jishoumushoku
+
+4 [mc] mc_ev_shuffle_24_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Mafuyu: Phew...
+Kanade: That was fun, Mafuyu, Miku.
+Miku: Me too. And... I felt happy...
+Miku: Because Mafuyu suggested that we sing.
+Mafuyu: I...just wanted to.
+Miku: That's okay. I'd like that to happen more and more.
+Kanade: You've seem like you're in a better place since going to Shibuya Festa.
+Mafuyu: I wonder...
+Mafuyu: When I played the piano that time, I realized something.
+Kanade: You did? What was it?
+Mafuyu: That I want to hear more of your songs, Kanade.
+Mafuyu: My chest really does feel warmer when I listen to your songs.
+Kanade: Mafuyu... Thank you...
+Kanade: I'm going to keep working hard to make songs that reach you.
+Mafuyu: Oh... There some things I need to do before we start work. I should go...
+Kanade: Okay. I'll see you later then.
+Miku: Bye, Mafuyu.
+(Exit: Mafuyu)
+Kanade: In that case, I should head back too.
+Miku: Okay. Huh...? Kanade, you're glowing.
+(Exit: Kanade)
+(Enter: Kanade)
+Kanade: Huh? Glowing...? What's happening?
+Miku: It looks like you're being called to another SEKAI.
+(Exit: Kanade)
+(Enter: Kanade)
+Kanade: To another SEKAI? What do you—
+
+
+5 [mc] mc_ev_shuffle_24_3
+
+(Enter: Kanade)
+Kanade: Uhh... Where am I...?
+(Enter: Miku)
+Miku: Hehe. Welcome!
+Kanade: Huh? Miku...?
+(Enter: Minori)
+(Enter: Kohane)
+Kohane: I-I'm in some strange place... What should I do...
+(Enter: Ichika)
+Ichika: Is this...? Yes, this is where I met Miku!
+(Enter: Tsukasa)
+Tsukasa: Aaargh!!! What is the meaning of this?! I know I was talking to Rui and Len just now...
+Ichika: "What the...?" "Huh?"
+Minori: "What the...?" "Huh?"
+Kohane: "What the...?" "Huh?"
+Tsukasa: "What the...?" "Huh?"
+Miku: Hello again, everyone! How have you all been?
+Kanade: Again...? Does that mean...you're the Miku we met that time?
+Miku: Yup! I'm pleased to see you all again.
+Ichika: Me too! But...why are we seeing you again?
+Miku: It must be because your feelings have all come into alignment.
+Kohane: Alignment...?
+Miku: Exactly. You all share a wish to make your dreams reality, no matter how painful things get!
+Kanade: No matter how painful...
+Tsukasa: I see! Actually, that's exactly what we were just talking about.
+Tsukasa: I was saying that I want to make shows that make everyone smile, no matter how troubled they are!
+Ichika: Hehe. That does sound like you, Tsukasa.
+Kanade: I was thinking about that too... About how I want to keep making songs, no matter what.
+Miku: Hehe. I can see so much passion in your eyes!
+Miku: I know the perfect song for all of you. Please sing it with me!
+Miku: Are you ready, everyone?
+Miku: Sounds like you are! Let's go!
+Miku: Journey!
+
+
+6 [MUSIC] 235: Journey
+
+7 [mc] mc_ev_shuffle_24_4
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Kanade: Thank you for listening, everyone.
+Minori: It was such a good song! I'm brimming with energy and enthusiasm!
+Kohane: Yeah! We'll still face challenges... Actually, we'll face even bigger challenges, but I feel ready to take them on!
+Tsukasa: Ah-ha, yes! I like your enthusiasm! I too want to hold on to my dreams and work to make them come true.
+Ichika: Um... Miku? Thank you. I'm glad we were able to sing together again.
+Ichika: I don't know what will happen down the line... But I'm going to do everything I set my mind to and make sure I have no regrets.
+Miku: Go for it! Good luck, all of you!
+Miku: And all of you, too... You might come face to face with your dreams and run towards them, only to come up against a wall.
+Miku: But the obstacles we face are what make us stronger in the long run! So don't lose heart!
+Miku: Let's all take one step at a time towards the future!
+Miku: Thank you so much for today, everyone! Let's continue to watch over them all.

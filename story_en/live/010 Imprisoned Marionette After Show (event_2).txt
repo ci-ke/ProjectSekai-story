@@ -1,0 +1,54 @@
+10 Imprisoned Marionette After Show (event_2)
+
+1 [mc] mc_ev_night_01_1
+
+(Enter: Mafuyu)
+Mafuyu: ...
+(Enter: Miku)
+Miku: Hello, Mafuyu.
+Mafuyu: I...wanted to see that doll again.
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+Mizuki: See, I knew she'd be here!
+Ena: It's already past 25:00 but we didn't see you on Nightcord.
+Kanade: Is something wrong, Mafuyu?
+Mafuyu: I came here to look at the marionette.
+Mizuki: As in something like the one we saw at the doll exhibition? I didn't know there was a marionette in this SEKAI.
+Mafuyu: There was. Miku found it and cut its strings off.
+Kanade: I see...
+Kanade: Mafuyu. Would you like to sing together?
+Kanade: I feel like we may be able to understand your feelings better by doing that.
+Mafuyu: I can't promise anything.
+Miku: It's okay. Just sing whatever you like. You're free now, Mafuyu.
+Mafuyu: Free...
+Mafuyu: Okay. I'll try.
+Miku: Yes. Let's sing together.
+
+
+2 [MUSIC] 60: Composing the Future
+
+3 [mc] mc_ev_night_01_2
+
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+Kanade: How did you feel, Mafuyu?
+Mafuyu: I still don't know. Only that it feels easier to sing now.
+Miku: That will do for now.
+Miku: You can be free in this SEKAI...and in front of them. Because you're not a puppet controlled by strings.
+Miku: Look.
+Mizuki: Wow! It's twinkling so brightly over there!
+Miku: I'm sure those who listened to our song felt the same way. That Mafuyu is free to do what she wants now.
+Mafuyu: I...don't know...
+Ena: Hey, can we all get back to work already? I need to clarify something about the song we're working on.
+Kanade: Right... We should head back.
+Mizuki: Thanks, Miku! We'll drop by again at another time!
+(Exit: Mizuki)
+(Exit: Kanade)
+(Exit: Ena)
+Miku: Mafuyu?
+Mafuyu: Thank you, Miku...
+Mafuyu: For cutting the strings.

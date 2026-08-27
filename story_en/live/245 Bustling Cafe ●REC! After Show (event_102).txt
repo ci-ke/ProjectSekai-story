@@ -1,0 +1,91 @@
+245 Bustling Cafe ●REC! After Show (event_102)
+
+1 [MUSIC] 19: Charles
+
+2 [mc] mc_ev_shuffle_34_1
+
+(Enter: Ena)
+(Enter: Mizuki)
+Mizuki: Wow, I feel like I'm kinda on a roll today!
+Ena: Yeah, I noticed that you were sharper than usual. Did something happen?
+Mizuki: Hehe, I finally got that lace asset I'd had my eyes on since a while ago!
+Ena: Really? So that's why you're in a good mood.
+Ena: By the way, you mentioned that Airi asked you to fill in for a job, right?
+Mizuki: Yeah, I sure did!
+Mizuki: I can't believe I got to see an MMJ shoot happening right in front of me!
+Ena: That program was the one trending on social media recently, right?
+Ena: Airi and the girls have been getting more engagement too. I'm so happy for them!
+Mizuki: Hehehe. As a dedicated fan of MORE MORE JUMP!, I can't help but feel proud!
+Ena: I don't get what you have to be so proud about...
+Ena: Either way, make sure you keep next weekend free.
+Mizuki: Huh? Wait, what's with that all of a sudden? Where is this conversation going?
+Ena: After seeing those photos, I feel like going and trying it out myself.
+Ena: But there's no way I can eat all of that on my own, so I want you to join me.
+Mizuki: You don't want to "try it", you just want to get them pics.
+Ena: And? This way, we'll get the best of both worlds. It's both delicious and beautiful.
+Ena: I'll book a table for us, okay?
+Mizuki: Heeey, don't just go off making your own plans.
+Mizuki: But alright, I'll go with you.
+Mizuki: I guess I'll enjoy the experience as a customer this time.
+
+
+3 [MUSIC] 213: The Vampire
+
+4 [mc] mc_ev_shuffle_34_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Miku: Hehe, you were all so amazing today♪
+Airi: I could say the same for you Miku! I felt like you were more energetic than usual.
+Airi: Could it be because of that "thing" after this?
+Miku: Hehehe... Was it that obvious?
+Miku: I've been excited ever since we talked about it. And I'm glad to say that...
+Miku: Cafe SEKAI is open for business♪
+Minori: Yay! I've been looking forward to it so much!
+Shizuku: We did bring snacks and sweets over, but we still don't know what kind of cafe awaits us.
+Haruka: Hehe, I can't wait.
+Miku: Hehe, it turned out so wonderfully! Also, the uniforms I told you about are—
+Airi: Slow down there, Miku. If you mention any more, you'll spoil the surprise!
+Miku: Ah, you're right!
+Miku: Thank you, Airi!
+Haruka: Hold on... Do you know what they have in store for us today, Airi?
+Minori: Wait, do you?!
+Airi: Well... I'd say I know just a little more than the rest of you.
+Airi: That's only because they asked me to advise them as one of their official organizers.
+Shizuku: Oh, I had no idea!
+Miku: Your advice really helped us out, Airi!
+Miku: Even when some things we wanted to do didn't seem feasible, you told us how we could tweak them to make them work.
+Miku: Thanks to your help, I'm confident that we can give you the best service possible at Cafe SEKAI♪
+Shizuku: Hehe, I'm getting more and more excited.
+Minori: Me too! I can't wait to go to Cafe SEKAI!
+Miku: Great! Everything should sort itself out soon, so let's head over!
+Minori: Everything should sort itself out...?
+Miku: Ah! No, no! I mean, it's not what you think!
+Airi: Did something go wrong with the prep?
+Haruka: If you need more time, we can come back later.
+Miku: N-No, it's fine! Really! We just had to prepare a lot of different things!
+Miku: So... We need just a LITTLE bit more time, that's all!
+Haruka: If you say so...
+Airi: We really will make our way over right now, you know?
+Miku: G-Great! That's totally fine. As everything...should be!
+Haruka: Miku's not very good at being subtle, is she?
+Minori: Do you think it's really okay for us to head over right now?
+Minori: Aaaahh!
+Shizuku: W-What was that sound?
+Miku: Ah... Oh no...
+Miku: We said we were going to set off the crackers as soon as the girls came in so we could surprise them...
+Miku: I hope everything's going to be okay... I was supposed to stall while they fixed the cake decorations since we failed so many times...
+Airi: You know you're saying this all aloud, right?
+Haruka: This is starting to sound like we should head there ASAP, don't you think?
+Minori: Y-Yeah...
+Shizuku: I agree... It sounds like something might have gone wrong...
+Airi: I think so too. This isn't exactly how anyone pictured this, but let's head over.
+Airi: This cafe might bring us a different kind of fun and anticipation.
+(Exit: Minori)
+(Exit: Haruka)
+(Exit: Airi)
+(Exit: Shizuku)
+(Exit: Miku)

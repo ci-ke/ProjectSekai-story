@@ -1,0 +1,86 @@
+203 To The Gleaming Stars Halfway Through a Dream After Show (event_82)
+
+1 [mc] mc_ev_wonder_11_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: W-Wow! This must be...!
+Nene: Could it be a new stage?
+Rui: It seems that way. This one seems just as lavish as the others.
+Emu: Wow! This is awesome! Just seeing how sparkly everything is is making me so excited!
+Emu: It's just like Phoenix Wonderland!
+(Enter: Luka)
+(Enter: Len)
+Luka: I'm sure we have all of your feelings to thank for creating this place.
+Emu: Oh, Luka! Len!
+Len: Oh wow, this is so cool!
+Len: I bet there's a popcorn shop in here somewhere!
+Nene: I bet there probably isn't.
+Rui: It would be interesting if there was one.
+Tsukasa: Oh, that reminds me. You all hung out together on the day of my performance, right?
+Len: Yeah! Plus, everyone brought back soda-flavored popcorn for us!
+Luka: I liked the way it fizzed in my mouth. It was so fun and tasty. What a delightful treat it was.
+Rui: I'm very glad to hear you liked it.
+Nene: We'll bring you a different flavor next time, so there's something for you to look forward to.
+Len: Whoa, really?! Awesome!
+Emu: I don't see any popcorn shops, but this place is still super wonderhoy!
+Emu: The small stage in the middle is so cute... Aww, this place is making me wanna dance!
+Nene: So, why don't we?
+Emu: Huh? Really?!
+Len: That's a great idea! I also want to see you all dance!
+Luka: In that case, would you mind if I joined in?
+Luka: Watching Emu get all hyped up is making me just as excited.
+Emu: Of course Luka! I'd totally love it if you'd join us!
+Emu: Let's all raise the roof together! Are you ready?
+Emu: Hoshizora Orchestra!
+(Exit: Len)
+
+
+2 [MUSIC] 282: Hoshizora Orchestra
+
+3 [mc] mc_ev_wonder_11_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+(Enter: Luka)
+Emu: Wow, that was so much fun!
+Emu: Thank you for dancing with us, Luka!
+Luka: Oh no, I had so much fun dancing with you all.
+Len: I had a great time watching you guys! Just seeing you dance made me feel all warm inside. It was as if you were cheering me on.
+Tsukasa: Come to think of it, I also had that feeling. Curiously, given that I was one of the performers...
+Rui: Why could that be...?
+Emu: Maybe it's because I sang from the bottom of my heart with feelings of support.
+Tsukasa: Because of you, Emu?
+Emu: Yeah! Tsukasa, when I saw you at that workshop performance in all your sparkly glory...
+Emu: I realized just how much I really, really love seeing how everyone's faces glow when they perform!
+Nene: Emu...
+Emu: After seeing your face beaming brighter than ever at the workshop show, I know someday I'll see Rui's and Nene's like that, too!
+Emu: Hehehe, I'm really looking forward to that day. So, in order to show my support to all you amazing people...
+Emu: I'm appointing myself Dream Team Cheer Squad Captain!
+Nene: Hehe, okay then.
+Tsukasa: I see... Emu, I fully appreciate your feelings.
+Tsukasa: However, I cannot allow such a high-level responsibility to fall solely onto you.
+Emu: Huh?
+Tsukasa: And that is why I am also joining the Dream Team Cheer Squad!
+Tsukasa: I vow to provide my utmost support to all my fellow dreamers! Rui, Nene, and of course you, Cheer Captain Emu!
+Emu: Tsukasa!
+Rui: Hehe. I'm also eager to join this squad.
+Nene: Me too. Well, we don't need a whole "squad", but I feel the same way.
+Nene: I want to show my support to everyone as we all work towards our dreams together.
+Emu: Rui...! Nene...!
+Emu: Alright! Let's continue to shine and do our best!
+Luka: Hehe. It's so wonderful to see you all smiling.
+Luka: Just seeing all your happy faces...makes me... *Yawn* So sleepy...
+Len: Hey, wait! What am I gonna do if you fall asleep here?!
+Len: Anyway, let's return to Miku and the others. Also...
+Len: Seeing you all perform makes me wanna do a show too!
+Rui: On that note, we should also head back for practice.
+Emu: Yeah, let's go!
+Emu: Thank you all for always supporting us!
+Emu: Wonderlands×Showtime will keep putting on fun shows to make you all smile!
+Emu: So I hope you'll continue to come see our wonderhoy-tastic shows! Bye bye!

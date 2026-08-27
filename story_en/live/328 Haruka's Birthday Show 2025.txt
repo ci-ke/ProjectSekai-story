@@ -1,0 +1,88 @@
+328 Haruka's Birthday Show 2025
+
+1 [mc_timeline] mc_bd_2024haruka_1
+
+(Enter: Minori)
+(Enter: Miku)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Haruka: Thank you for coming today, everyone!
+Miku: Hehehe. Everyone's so excited!
+Minori: Yeah, I know exactly how you all feel! When I think of how today is the day Haruka was born, I...! *Squeal*
+Airi: Okay, Minori, calm down.
+Minori: Ah! Sorry... I couldn't help it. I got so excited wanting to celebrate with everyone!
+Haruka: Hehe. Thank you, Minori. I appreciate your enthusiasm.
+Airi: Okay, now it's your turn. Cheer as loud as Minori, and show Haruka how you feel!
+Shizuku: Is everyone ready? Let's wish Haruka a happy birthday together♪
+Miku: Okay♪ Ready... Go!
+Miku: Happy birthday, Haruka!
+Airi: Happy birthday!
+Shizuku: Happy birthday!
+Minori: Happy birthday!
+Haruka: Thank you all so much. I'm so happy.
+Minori: Hehehe, and now that that's done, let Haruka's birthday fan meeting begin!
+Shizuku: You thought up something special for us, right, Miku?
+Miku: I did! And here it is. Our first segment is...
+Miku: Let's Hear From Haruka!
+Airi: Yay!
+Shizuku: Yay!
+Miku: This segment is very simple! We'll be asking Haruka about all the things she wants to do♪
+Haruka: Things I want to do...
+Miku: Yes! We have lots of questions♪ So, are you ready, Haruka?
+Haruka: I'm ready.
+Airi: We'll start with the classic among classics! If you could have one wish granted, what would it be?
+Haruka: A wish? Let me think...
+Haruka: I've already told you about this, but I'd like some quality training equip—
+Airi: Nope, not allowed!
+Haruka: Huh?
+Airi: No talking about training! Pick something other than that!
+Haruka: Okay, fine. Hmm, in that case...
+Haruka: I know. I'd wish for just one day where I can eat all the sweets I want without worrying about my diet.
+Haruka: Then I'd line up all sorts of cakes, and spend the whole day eating my fill.
+Shizuku: Hehe, that would be wonderful!
+Airi: Yes. I'd love to watch Haruka playing eeny-meeny-miney-mo to pick her next cake.
+Shizuku: Next question! If you could go anywhere with us right now, where would you want to go?
+Haruka: Um... Right now, I'd like to go to the aquarium.
+Miku: The aquarium?
+Haruka: I saw on TV yesterday that they have newborn baby penguins, and I can't stop thinking about it.
+Minori: Huh?! Baby penguins?! I want to see them too!
+Haruka: Then let's go sometime soon. We can sneak you and the others in too, Miku.
+Shizuku: That will be so much fun. We'll have to be careful not to be noticed by the other visitors.
+Minori: Then let's all go together on our day off next week!
+Minori: And that's it for "Let's Hear From Haruka!"
+Miku: Next up is one you've all been waiting for... The show segment!
+Haruka: We've practiced our dancing and singing a lot. I hope you all enjoy it.
+Haruka: Here we go! MOTTO!!!
+
+
+2 [MUSIC] 405: MOTTO!!!
+
+3 [mc_timeline] mc_bd_2024haruka_2
+
+(Enter: Minori)
+(Enter: Miku)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+Haruka: Thank you, everyone! I can hear you loud and clear!
+Haruka: Hehe...
+Haruka: Hearing all of you cheer like this gives me so much strength.
+Haruka: It makes me want to bring more hope to you, our supporters and fans.
+Haruka: I'm going to cherish this moment, and keep working hard. Thank you for always fueling me with energy!
+Minori: Ohhh, Haruka, you're so cool!
+Miku: Be careful not to overdo it, though.
+Haruka: Hehe. I'll be fine.
+Haruka: Minori, Airi, Shizuku, Miku and the others, and my friends at school— You all make sure I relax when I need to.
+Haruka: Thank you for always supporting me.
+Airi: You do the same for us.
+Shizuku: Yes. Let's keep doing our best, together.
+Haruka: Thank you all for being here today!
+Haruka: Let's meet again, everyone!
+Minori: Bye bye!
+Miku: Bye bye!
+(Exit: Minori)
+(Exit: Haruka)
+(Exit: Shizuku)
+(Exit: Miku)
+(Exit: Airi)

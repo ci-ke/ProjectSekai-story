@@ -1,0 +1,80 @@
+331 Rekindle the Flame After Show (event_146)
+
+1 [mc_timeline] mc_ev_street_19_1
+
+(Enter: Toya)
+(Enter: Akito)
+Toya: Alright... Here we go, Akito.
+Akito: Got it. Bring it on.
+Toya: What's the purpose of your visit?
+Akito: I came here for sightseeing.
+Akito: I'm going to a concert.
+Toya: Yes, that was perfect! We'll have no trouble at the airport.
+Akito: Yeah. Thanks for helping me out. I can understand a lot more now.
+(Enter: KAITO)
+(Enter: Kohane)
+(Enter: An)
+An: Hey, you two!
+Akito: Hey, you're finally here.
+An: "Finally"...? But we got here five minutes early, ya know?
+Kohane: Have you been here studying for a while?
+Toya: Yes. We arrived early and decided to use the time productively.
+Akito: I want to learn every last word I can if it means we can start performing overseas.
+KAITO: Hahaha, I like that attitude!
+KAITO: I couldn't believe the news about your US trip. Your excitement is contagious!
+An: Hehe. You and the others should join us to watch Dad and Uncle Taiga's event!
+An: I hope Dad's okay. He hasn't been messaging much since they're busy preparing for that event.
+Toya: You have nothing to worry about. Ken's been to the US many times before.
+An: You're not wrong, but... C'mon, anything could happen, right?
+Kohane: Yeah... I'm kind of a bit worried.
+Akito: Anything could happen...
+Akito: I'm kinda grateful for that lately.
+Kohane: Huh?
+Akito: Anything could happen. Including us having an encounter with something incredible.
+Akito: I wanna have an encounter like that.
+Akito: Something that lights a fire under me. The way those two did.
+Kohane: Shinonome...
+KAITO: I agree! It's just like you said, Akito!
+KAITO: It's a big wide world out there! Go find some amazing encounters!
+An: Hehe, yeah! Let's go find things that make us burn even brighter!
+Akito: Yeah!
+Akito: Just talking about it makes me wanna sing. How about one song before we start studying?
+Kohane: Oh, I'd like that!
+Toya: Yes, let's sing.
+Akito: Alright, let's do it.
+Akito: FUEL!
+
+
+2 [MUSIC] 478: FUEL
+
+3 [mc_timeline] mc_ev_street_19_2
+
+(Enter: KAITO)
+(Enter: Kohane)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Akito: It's strange...
+Akito: Until recently, it felt like I was just spinning my wheels, no matter how much I sang.
+Akito: But now, it's like I can't get enough of it.
+Akito: And maybe I'll encounter something out there. Something that amplifies this feeling.
+KAITO: I think you will! Probably!
+Akito: Was that "probably" necessary?
+KAITO: Huh?! But, an encounter like that happens by chance... Oh, I've dug myself into a hole...
+KAITO: Anyway...
+KAITO: I have a feeling you'll find something!
+Akito: Then, I just have to go and find out.
+Akito: Just watch, all of you! This is our first step toward the top of the world.
+Kohane: Well then, shall we head to MEIKO's and start studying?
+Toya: Let's. Oh, I know. Why don't you join us, KAITO?
+KAITO: Huh, m-me? Hahaha, I'm not exactly the studious type...
+Akito: Well, that makes me want you to join us even more.
+An: I know what you mean! Join us in the hell that is studying, KAITO!
+KAITO: Uh... Ah... Huh?! No, I was going to get ice cream at MEIKO's after this...
+Akito: Let's go, KAITO. Ice cream can wait until after you complete Toya's lesson.
+KAITO: Wha?! N-Nooo!
+(Exit: An)
+(Exit: Kohane)
+(Exit: Akito)
+(Exit: Toya)
+(Exit: KAITO)

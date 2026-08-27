@@ -1,0 +1,60 @@
+9 First Star After the Rain After Show (event_1)
+
+1 [mc] mc_ev_band_01_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Honami: Okay, it's Ichika's turn next. Is there anything you'd like to hang out and do together?
+Ichika: Um, you're kinda putting me on the spot, but maybe...watch some fireworks?
+Shiho: Fireworks, huh. It's been a while since I've seen any. Maybe we can go to that fireworks display next week.
+Saki: I'm totally up for it! Oh, but wait!
+Saki: Let's think this through. We can always play with fireworks at the park ourselves! No need to rush your decision, Ichika!!
+Ichika: "Say again?"
+Honami: "Say again?"
+Shiho: "Say again?"
+(Enter: Luka)
+(Enter: Miku)
+Luka: Hey, what's everyone talking about?
+Honami: We're trying to decide what to do.
+Miku: Oh, that's nice. Have you decided on something already?
+Ichika: Not yet because Saki's not being herself.
+Saki: Huh?! What makes you say that?
+Shiho: Because you're being too calm today. You're usually the first to agree to doing just about anything.
+Saki: Oh come on! Like you guys said, "There's no need to hurry."
+Saki: Right now, you're looking at an all-new and improved Saki who's cool, calm, composed, and super patient!
+Miku: Oh... So you don't mind if we postpone our practice session to another day, then?
+Saki: Wait, no! We can't postpone it! We have to do it today!
+Luka: Hehe, that's more like the Saki we know.
+Miku: Well everyone, shall we comply with Saki's request and start our practice right away?
+Ichika: "Yeah!"
+Honami: "Yeah!"
+Shiho: "Yeah!"
+
+
+2 [MUSIC] 64: Stella
+
+3 [mc] mc_ev_band_01_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Luka)
+Saki: Sigh. Playing this song makes me realize how much this all means to me.
+Honami: Why?
+Saki: Well, the time we spent apart, and the time when we couldn't talk properly with each other... I feel like that was all leading up to the way we are now.
+Saki: What I'm trying to say is... I'm the happiest person in the world at the moment!
+Ichika: Heh. I see. I'm glad you feel that way.
+Honami: Hm? Is it just me, or is something sparkling over there?
+Shiho: Yeah. We saw them before, didn't we? I think they're called...feeling sparks or something?
+Luka: Yes. Someone must have heard your performance and felt the same way Saki did.
+Saki: Hehe! That's awesome! Hey all you sparklies out there, let's be happy together♪
+Shiho: Why don't we practice some more, then? That way, you'll feel happier for longer.
+Saki: Oh no... Shiho the drill instructor strikes again!
+Shiho: We'll start from the top and focus on that part where our rhythm was off. Is everyone ready?
+Saki: Y-Yes, ma'am!
+Miku: Hehe. Looks like everything's fine now. Shall we join them, Luka?
+Luka: Yes, we should!

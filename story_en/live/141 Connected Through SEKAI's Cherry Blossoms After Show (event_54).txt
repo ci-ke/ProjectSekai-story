@@ -1,0 +1,179 @@
+141 Connected Through SEKAI's Cherry Blossoms After Show (event_54)
+
+1 [mc] mc_ev_shuffle_18_1
+
+(Enter: Miku)
+Miku: Hello everyone!
+Miku: Thank you for coming today! It makes me so happy to see all of your lovely faces!
+Miku: With the weather warming up recently, it's a lot more comfortable, don't you think?
+Miku: Spring is such a wonderful season. Although there are doors that will close... There will also be new ones that'll open.
+Miku: I wonder what kind of people or new worlds will you all get to encounter from here onward.
+Miku: I'm sure even cats on the streets or even the passing spring breeze have new encounters in store for them too.
+Miku: Oh... I'm sure the SEKAI versions of us will have experienced new encounters, right?
+Miku: I know. Would you all be interested in going to see what they're up to right now with me?
+Miku: Hehe, seems like you're all as keen as I am♪ I'm glad!
+Miku: Well then, let's go!
+
+
+2 [mc] mc_ev_shuffle_18_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Tsukasa and the others' show was so amazing!! The cherry blossoms were all WHOOOSH!!
+MEIKO: The fact that they collected real cherry blossom petals for that made it all the more beautiful too!
+Len: Hey, I've got an idea! Why don't we also do a show that involves cherry blossoms too?
+Rin: Good idea♪ Count me in! So what kind of show are we doing?
+KAITO: In the end, I couldn't find a cherry blossom tree around here after all... But...
+KAITO: We were all able to see something so wonderful... I hope I can share these feelings with everyone.
+KAITO: Hey, everyone! I've got one idea for a show. Would you mind hearing me out?
+Luka: Oh, is that so?
+Miku: What kind of show is it?! Tell me, tell me!
+KAITO: Alright. How about a show where we meet versions of ourselves from a different SEKAI?
+
+
+3 [mc] mc_ev_shuffle_18_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: Oh man! Everything on that new menu was so good! Especially the cake!
+Luka: That cake looked so amazing, didn't it? Were you the one who thought of the design, MEIKO? Or was it you, Rin?
+MEIKO: Actually, Len was the one who designed it.
+KAITO: What? Len did?
+Len: Yup! Pretty good, right?
+Miku: With the plate covered in matcha and the pink cake placed in the middle, it looked like a cherry blossom tree growing out on a open field.
+MEIKO: Hehe, you can say that he took inspiration from the time we actually visited a place like that.
+Miku: A place like that?
+Len: Yeah! Actually, the other day, MEIKO and I...
+
+
+4 [mc] mc_ev_shuffle_18_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: Wonderful! The choreography looks great!
+MEIKO: Agreed! The part with the fluttering hands is really cute♪
+Miku: I have a feeling that everyone will definitely like this! Thanks for coming up with it, Rin!
+Rin: Yay! Alright! Let's nail this cherry blossom dance during the show too♪
+Len: Cherry blossom dance?
+Rin: Yeah! It's the dance I came up with after seeing the way cherry blossom petals flutter down!
+Luka: You saw cherry blossoms? I know that we were planning to make stage set up that mimicked a row of cherry blossom trees, but I was sure that there weren't any real cherry blossom trees around here.
+Rin: Oh! Um...
+Rin: But, I feel like... I did see some somewhere...
+Len: Are you talking about that thing you told me?
+KAITO: That thing? What do you mean by that?
+Len: Oh, you see, the thing is...!
+
+
+5 [mc] mc_ev_shuffle_18_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Having a picnic with the others was really fun, huh!
+Miku: Yeah. Both the picnic we had with the others at the park in their world and the one we had in the classroom were really fun.
+Len: I was kind of surprised when Luka suggested we try drawing a cherry blossom tree on the blackboard, but it actually turned out to be really fun.
+Luka: Hehe. I'm glad you enjoyed it.
+KAITO: I hope... we get to have another picnic the next spring too.
+MEIKO: In that case, why don't we just make plans with everyone now and tell them, "let's have a picnic on this day!"
+Miku: Don't you think it's a little too soon for that?
+Luka: In the end, we weren't able to find a cherry blossom tree around here, but... I'm glad that everyone's happier now.
+Luka: I wonder if the other versions of us in the other SEKAI feel the same way about someone...
+Luka: Even though we all have our own SEKAI... I'm sure our feelings are connected somehow.
+
+
+6 [mc] mc_ev_shuffle_18_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Luka: The picnic was fun. Even Mizuki and Ena looked like they were having more fun than usual.
+Rin: Yes. It helped pass time.
+Luka: Oh? You seemed pretty excited looking at the cherry blossom branches, though?
+Rin: No, I wasn't...
+Luka: Hehe. In that case, I guess I'll just have to color in that coloring page Ena made for us all by myself then?
+Rin: That, I will do... If I let you color it all on your own, the colors will turn out all weird.
+Luka: You really have a hard time being honest, don't you? Well then, let's color it over there.
+Miku: Have fun.
+(Exit: Luka)
+(Exit: Rin)
+MEIKO: In that case, I'm going to rest for a little bit...
+Miku: Oh... MEIKO, did you enjoy the picnic? You were pretty far away... So I wasn't sure if you could see well...
+MEIKO: No, I could see. It was beautiful...
+Miku: I see...
+MEIKO: See you, Miku.
+(Exit: MEIKO)
+(Enter: Kanade)
+(Enter: Mafuyu)
+Miku: Huh...? Kanade... Mafuyu, too?
+Kanade: Oh, Miku. I actually forgot my earphones, so I came back to grab them.
+Mafuyu: I came to talk about some lyrics.
+Miku: I see...
+Kanade: Oh, that reminds me. Thank you for helping us prepare everything. It was really fun, wasn't it?
+Miku: Yes... I felt a lot of warmth.
+Mafuyu: Really?
+Miku: And I was thinking about the picnic just before and now I really feel like singing.
+Kanade: What?
+Miku: I have a feeling that I'll feel even more full and warm if I sang with you two instead of alone.
+Kanade: Alright, then let's sing. I've been so focused on composing music that I realize we haven't been able to hang out much. How about you, Mafuyu?
+Mafuyu: I don't mind if it's only for a little bit...
+Miku: Thank you, Kanade, Mafuyu...
+Miku: Let's sing together!
+
+
+7 [MUSIC] 67: Jishoumushoku
+
+8 [mc] mc_ev_shuffle_18_7
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Miku: I feel all warm inside... I'm glad I sang.
+Kanade: Yeah. Me too... My heart always feels warmer after singing with you, Miku.
+Mafuyu: Me too...
+Miku: Oh... I remember now. There was something I wanted to show the two of you.
+Mafuyu: Something you wanted to show? Is that... A cherry blossom petal?
+Miku: Yes.
+Kanade: Did you pick that up during the picnic today?
+Miku: No. I found it in a strange SEKAI.
+Mafuyu: Strange SEKAI?
+Miku: Yes. So...
+
+
+9 [mc] mc_ev_shuffle_18_8
+
+(Enter: Miku)
+Miku: Hehe. Seems like the other versions of us have encountered something new.
+Miku: Perhaps we're connected through this shared feeling of wanting to work hard for the others.
+Miku: It'd be amazing if this feeling could spread throughout the world.
+Miku: Hey everyone... I'd like to sing a song with this feeling in mind, so... Would you please listen?
+Miku: Hehe. Thank you! Then here I go!
+
+
+10 [MUSIC] 1: Tell Your World
+
+11 [mc] mc_ev_shuffle_18_9
+
+(Enter: Miku)
+Miku: Thank you everyone!
+Miku: It's because I was able to meet all of you that we can connect like this here.
+Miku: Whenever you meet someone, it's not always fun and games, since there will probably be hardships and sad times along the way...
+Miku: But even so, I'm sure all of that will become experiences for you all.
+Miku: So please cherish each and every encounter you have, okay?
+Miku: Thank you for today, everyone! I'm so happy that we got to go and see how everyone in the other SEKAI were doing together.
+Miku: See you next time! Bye bye!

@@ -1,0 +1,101 @@
+365 White Day Show 2026
+
+1 [mc_timeline] mc_2025whiteday_1
+
+(Enter: Kohane)
+(Enter: Rin)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+An: Hey there, everyone! Good to see you all again!
+Toya: Are you here to listen to us sing?
+Akito: Probably. Too bad, though. We just ended practice.
+Rin: Aww, but they came to see us! Aren't we going to sing?
+Kohane: We wouldn't want to let them down. Why don't we show them how our practice went?
+Toya: That sounds good to me. Today is White Day, after all.
+Toya: It's the perfect chance to show our gratitude to those who have watched over us all this time.
+An: Great point! I'll dedicate my song to everyone back home, then.
+Toya: Right. Our families and friends—all the people who supported us and made it possible for us to come this far.
+Rin: Come on, Akito! Don't tell me you're still not going to sing after hearing all that!
+Akito: Oh, fine.
+Akito: You guys didn't blow out your voices during practice, right?
+Kohane: Not at all! I'm good to go!
+Rin: Okay, everyone! I hope you all enjoy our song!
+Akito: Let's go.
+Akito: City!
+Toya: City!
+An: City!
+Kohane: City!
+Rin: City!
+
+
+2 [MUSIC] 217: City
+
+3 [mc_timeline] mc_2025whiteday_2
+
+(Enter: Kohane)
+(Enter: Rin)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Toya: Thank you for listening, everyone. Did our feelings reach you all?
+An: Good! It sure sounds like they did.
+Kohane: Do you think they reached all the way to Japan too?
+Akito: Yeah, maybe.
+Rin: I'm sure they did!
+Toya: If there's anyone you want to share your feelings with, today just might be the perfect chance for it.
+Akito: You don't have to do anything fancy. Just speak from the heart.
+Akito: It's up to you to make this White Day a good one. See you next time.
+
+
+4 [mc_timeline] mc_2025whiteday_3
+
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+Len: Happy White Day, everyone!
+KAITO: Thanks for coming to see us in SEKAI! We've been excited to see you.
+Luka: You see, we have a show prepared for you all today.
+MEIKO: It's a thank-you show for all of you out there!
+KAITO: You're always cheering us on, after all. So this one especially is for all of you.
+Rin: Come on, let's get this show on the road♪
+Miku: We'll be singing this one... All together now!
+KAITO: Journey!
+MEIKO: Journey!
+Miku: Journey!
+Rin: Journey!
+Luka: Journey!
+Len: Journey!
+
+
+5 [MUSIC] 235: Journey
+
+6 [mc_timeline] mc_2025whiteday_4
+
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: Len)
+Miku: Thank you all for listening!
+Len: Every time we sing this song, I can't help but feel like "Don't worry! You've got this!"
+Luka: I agree. Spring is on its way, and I'm sure there are plenty of people who need a boost of courage right now.
+MEIKO: That's true. In Japan, people are graduating, starting jobs, and entering new stages of their lives.
+KAITO: I hope our songs can bring courage to everyone who needs a little extra confidence.
+MEIKO: Yes.
+Miku: Yeah!
+Rin: Yeah!
+Luka: Yes.
+Len: Yeah!
+KAITO: Once again, thank you all for coming to hear us sing today.
+Len: Starting something new might be scary...
+Len: But I'm sure you all can do it!
+MEIKO: That's right. Our feelings will always be connected through our songs.
+Luka: Just like with our show.
+KAITO: If you ever need help being brave, just think of us.
+Miku: Okay, everyone! Enjoy your White Day♪
+Rin: Bye bye!

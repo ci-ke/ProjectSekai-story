@@ -1,0 +1,113 @@
+165 Ichika's Birthday Show 2023
+
+1 [mc] mc_bd_2022ichika_1
+
+(Enter: Saki)
+(Exit: Saki)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Luka)
+Saki: Ichi! Everyone's here already!
+Ichika: R-Really? I'm excited but...nervous too.
+Shiho: It's not like you to get cold feet, Ichika.
+Honami: I agree. You sometimes get jittery the day before a show, but you're usually relaxed by this point.
+Ichika: Usually, yes. But this time they're all here to see me, so...
+Luka: Oh, I see now. Are your hands still shaking?
+Miku: Let me help you with that. Give me your hands, Ichika.
+Ichika: O-Okay... Wow, your hands are warm, Miku.
+Miku: Yup! Now close your eyes and take a deep breath.
+Ichika: *Inhale* *Exhale*
+Miku: How do you feel?
+Ichika: I...feel calmer now.
+Miku: Nice! You're good to go then!
+Ichika: Yeah, I am! Thank you, Miku. Here I go!
+(Exit: Ichika)
+(Exit: Saki)
+(Exit: Honami)
+(Exit: Shiho)
+(Exit: Miku)
+(Exit: Luka)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
+Ichika: Hi everyone! Thank you for coming to my birthday show!
+Ichika: First of all, I'd like to speak about the song we have planned.
+Ichika: A little while ago, we met a brother and sister who were our fans. We made a song for them and sang it at a show.
+Ichika: When we did that, it felt like our song really reached them.
+Ichika: I think that helped me understand what it means to "touch people's hearts".
+Ichika: The song we'll sing today is one that I sang in SEKAI when I realized I had grown a little.
+Ichika: And so I want to sing it for you all with love, so that it can touch all of your hearts.
+Ichika: Luka, Saki, Shiho, Honami... Let's do this!
+Luka: You got it.
+Saki: Let's outdo ourselves♪
+Honami: "Yeah!"
+Shiho: "Yeah!"
+Ichika: We hope you enjoy. Made to Order.
+(Exit: Ichika)
+(Exit: Saki)
+(Exit: Honami)
+(Exit: Shiho)
+(Exit: Luka)
+
+
+2 [MUSIC] 196: Made to Order
+
+3 [mc] mc_bd_2022ichika_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
+Ichika: Thank you for listening, everyone! Um... How was it?
+Honami: Hehe. It looks like we really reached them. Isn't that great, Ichika?
+Ichika: Yeah!
+(Exit: Saki)
+Ichika: *Sigh* We only sang one song, but when you sing with so much emotion, that's all it takes to tire yourself.
+(Enter: Miku)
+Miku: It's a good kind of tired though, right?
+Ichika: It is. And I was able to perform properly because you soothed my nerves. Thank you, Miku.
+(Enter: Saki)
+Miku: Hehe. I was just looking out for my junior.
+Luka: It's about time we said happy birthday to Ichika. Is everyone ready?
+Saki: Oh yeah!
+Ichika: Wait, Saki? What's that behind your back?
+Saki: Th-There's nothing back here! Right, Hona?!
+Honami: Huh? Um, yes! Nothing to see here. More importantly, we need to give you your birthday wishes.
+Shiho: Yeah. Miku, you can do the honors.
+Miku: Okay. Everyone, say it with me!
+Miku: Happy birthday, Ichika!
+Honami: "Happy birthday!"
+Shiho: "Happy birthday!"
+Luka: "Happy birthday!"
+Saki: Happy birthday, Ichi! And... BANG♪
+Ichika: Ahh!! Wh-What was that noise...?! Also, is this star-shaped confetti?
+Saki: Hehehe. Our surprise went off without a hitch!☆
+Shiho: We really had to hide it toward the end though.
+Saki: Yeah, because Ichi kept looking this way!
+Ichika: I couldn't exactly... Hang on though, what actually was that noise?
+Saki: It was a big popper! I asked my brother to ask Rui to make it for us!
+Saki: And he said yes! And look! He even filled it with star-shaped confetti!
+Ichika: I see. It was a really loud bang, so I thought something had blown up.
+Honami: Ahaha... Even we got a shock, and we knew what was coming.
+Miku: That's right.
+Ichika: "Haha!" "Hehe."
+Saki: "Haha!" "Hehe."
+Honami: "Haha!" "Hehe."
+Shiho: "Haha!" "Hehe."
+Miku: "Haha!" "Hehe."
+Luka: "Haha!" "Hehe."
+Ichika: Again, thank you all so much for coming to today's show.
+Ichika: After all, your birthday is such an important day, and I'm so glad I got to spend mine singing my heart out for you all.
+Ichika: We're going to keep practicing and practicing, and getting better and better.
+Shiho: Yeah, we still need to go back to that live house and prove them wrong.
+Ichika: Yeah.
+Ichika: We're going to make our next show a sure success, and we'll be counting on you all for your support.
+Ichika: So please come see us again!
+Luka: See you soon.
+Saki: Bye bye!

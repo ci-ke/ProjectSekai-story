@@ -1,0 +1,75 @@
+243 An's Birthday Show 2024
+
+1 [mc] mc_bd_2023an_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Miku)
+(Enter: Rin)
+An: Ahh, the food MEIKO and everyone made was so good!
+Kohane: Hehe. Even though there's another celebration when we get back, my stomach's already full.
+An: For real though! I thought that I should try to eat in moderation, but it was all just too delicious.
+Miku: Really? It seemed like you were shoveling it down from the get-go.
+Rin: And you asked for a bigger slice of cake than everyone else!
+An: Cake gets a pass. There's always room for dessert.
+Kohane: Hehe.
+An: Hm... But we do have plans to eat later, so I guess we'll have to work up an appetite before then.
+Rin: In that case, how about we work up a sweat singing a song?!
+Miku: Sounds like a good idea. There's a crowd here to listen too.
+Miku: You're all here to celebrate An's birthday, aren't you?
+An: Whoa! There's so many people! Thanks for coming, everybody!
+An: For this big of an audience, I wanna sing with all I've got, not just to work up an appetite.
+An: Will you guys join us?
+Kohane: Of course!
+An: Thanks!
+An: Okay! We're gonna sing something for all of you!
+An: It's a pretty fun song, so I hope you all enjoy yourselves!
+An: Okay, here we go. PaⅢ.SENSATION.
+
+
+2 [MUSIC] 195: PaⅢ.SENSATION
+
+3 [mc] mc_bd_2023an_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Miku)
+(Enter: Rin)
+An: Thanks for getting so into it, everyone! It was awesome singing to a room with so much energy!
+(Enter: Akito)
+(Enter: Toya)
+Akito: I thought I heard singing... We didn't know you were here.
+An: Yeah. Everyone's here to celebrate my birthday!
+Toya: Oh, really? Did we miss the chance to congratulate you?
+Rin: Ah, no, we haven't done that yet!
+Rin: Since you're all here, I'm sure you wanna wish An a happy birthday, right?!
+Miku: Sounds like a yes to me.
+Kohane: We will too!
+Toya: Yes.
+Akito: Sure, I guess.
+Rin: Okay then! Everyone on three! One, two, three...!
+Kohane: Happy birthday, An! Happy birthday, Shiraishi!
+Akito: Happy birthday, An! Happy birthday, Shiraishi!
+Toya: Happy birthday, An! Happy birthday, Shiraishi!
+Miku: Happy birthday, An! Happy birthday, Shiraishi!
+Rin: Happy birthday, An! Happy birthday, Shiraishi!
+An: Hehe, thanks!
+An: And thanks to all of you too!
+An: …
+Kohane: An?
+Akito: Something wrong?
+An: I'm not sure why, but... I was just remembering that event we did together.
+An: How it felt to stand on the stage and become one with the audience... Making that incredible atmosphere with our music...
+An: Putting on shows with friends really is the best!
+Rin: An...
+Miku: We'll have to keep working hard to make incredible moments like that again.
+An: Yeah. That's the plan.
+Kohane: Don't worry. I know we can do it if we work together.
+Akito: No matter how hard it seems, all we can do is make it happen.
+Toya: That's right. For the sake of our dream, above all else.
+An: Yeah!
+An: Thank you so much for coming to celebrate my birthday, everyone!
+An: I know it will be difficult, but we're going to surpass that night no matter what!
+An: So I hope you'll keep cheering us on!
+An: Hehe. Come see us sing again sometime!
+Rin: Bye bye!

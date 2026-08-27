@@ -1,0 +1,71 @@
+298 Ena's Birthday Show 2025
+
+1 [mc] mc_bd_2024ena_1
+
+(Enter: Ena)
+Ena: Huh? No one's here. What happened to throwing me a party?
+Ena: Oh. What if they're actually hiding somewhere?
+Ena: Or not. It doesn't look like there's anywhere to hide here.
+(Enter: Miku)
+(Enter: Mafuyu)
+Miku: Ena. There you are.
+Ena: Huh? Oh...
+Ena: Wait, is it just you and Mafuyu, Miku? Where's everybody else?
+Mafuyu: Mizuki's preparing for your party right now and it looked like it was going to take a little longer.
+Mafuyu: So Mizuki told us to keep you occupied until everything's ready.
+Ena: Right... And have you thought of a way to do that?
+Miku: Yes. When we asked what should we do, Mizuki gave us a great idea.
+Ena: A great idea?
+Mafuyu: Yes. Look over there...
+Ena: Whoa! That surprised me! When did it get so crowded in here...?
+Miku: I think all of these people came to wish you a happy birthday, Ena.
+Miku: So Mizuki said that it's fine to celebrate with everyone here first.
+Mafuyu: And that no matter how many times you hear it, it's always nice to receive birthday wishes.
+Ena: I see. Since everyone's here, I think I'll take you up on that offer.
+Miku: Okay. Are you ready, everyone?
+Miku: Then, here we go. One, two, three.
+Mafuyu: Happy birthday.
+Miku: Happy birthday.
+Ena: Thanks, everyone.
+Ena: I feel a little nervous with this many people wishing me a happy birthday... But it really does feel nice.
+(Enter: Kanade)
+(Enter: Mizuki)
+Mizuki: Heya! Sorry for the wait, Ena!
+Kanade: That was really loud just now. Mizuki said that it was everyone wishing you a happy birthday...
+Ena: Oh, yeah. They just did.
+Mizuki: You guys and everyone else here look happy, so I'm glad I suggested this!
+Ena: Really? After you had the audacity to make us wait? But it did make me happy, so I'll forgive you this time.
+Mafuyu: Is everything ready?
+Mizuki: Thanks to you two buying time, everything's perfect! Alright, let's go—
+Ena: Oh, wait... Before that, can I do something?
+Ena: As a thank you for everyone's birthday wishes, I'd like to sing for a bit...
+Miku: Sing?
+Ena: Yeah. I don't have anything else to give... Would you all join me?
+Kanade: I'm fine with that.
+Miku: I'd like to sing too.
+Ena: Thank you. Then, let's do it. Twilight Light.
+
+
+2 [MUSIC] 384: Twilight Light
+
+3 [mc] mc_bd_2024ena_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: *Sigh* Thanks, everyone! How was it?
+Mizuki: And there you have it! I'm happy for you, Ena!
+Ena: Well, as long as they liked it, I'm glad.
+Miku: You all sang really well.
+Miku: Also... When you sang, Ena... I felt emotions stronger than ever before from you.
+Ena: What? Oh... Yeah.
+Ena: I've been thinking about the future lately. After I decided to aim for art school... I'm ready for what's ahead of me.
+Ena: So I think those feelings came through in my singing.
+Ena: Thanks for listening to me sing, everyone.
+Ena: To be honest, it almost fills me with dread when I think about the suffering that's waiting for me...
+Ena: But after receiving everyone's birthday wishes, I'm ready to work hard.
+Ena: Thank you for everything.
+Mizuki: Alright, we should get going. Len and the others are waiting for us!
+Ena: Yeah. Alright, see you next time!

@@ -1,0 +1,86 @@
+73 What's on your mind? Exciting Picnic! After Show (event_22)
+
+1 [MUSIC] 89: Color of Drops
+
+2 [mc] mc_ev_shuffle_07_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Luka)
+Luka: Thank you for coming to see us today, you guys!
+Shizuku: That was an amazing song and dance performance!
+Haruka: Your cheers made us happy!
+Minori: We're going to keep trying our best so that you can all keep having fun!
+Airi: Shizuku, since we went on a picnic too, let's give our all in our lessons starting tomorrow!
+Shizuku: Of course!
+Haruka: But, you guys almost got into an accident when going on the picnic, right? Are you going to be okay exerting all this energy?
+Airi: Yup. I didn't get hurt so I'm fine! And there were lots of good things that happened too. We made some new friends and saw some beautiful scenery.
+Shizuku: That's right. I was really scared when Airi and Ena slipped down the slope, and it started raining...
+Luka: That must've been so scary. But I'm so glad that you and your friends are okay.
+Airi: It was thanks to everyone. Also, Shizuku told me afterwards that you also came to help us too, right Luka?
+Airi: You were a life saver. Thank you!
+Luka: You don't need to thank me... I was just there. I'm glad you were able to stay calm, Shizuku.
+Shizuku: No, no! If it weren't for you being there and cheering me on, I wouldn't have even remembered the ropework.
+Shizuku: But... I still wish I was able to have shown you the beautiful scenery there.
+Luka: Hehe. In that case, let's go on another picnic with everyone here, then?
+Minori: Really? Let's go, let's go!
+Airi: But honestly, I've had my share of the mountains with the last picnic, so I think I'm fine to not go back for a while...
+Shizuku: Then how about we go to a farm? It's only about an hour away by train, and I hear the flowers are beautiful this time of year.
+Haruka: Good idea. It would be fun to take pictures with everyone.
+Airi: If it's a farm, then I'm on board! A cheese making experience sounds really fun too. Let's get together to plan later, shall we?
+Luka: Sounds good. I'm so excited♪
+Airi: Oh, speaking of pictures, Ena and Mizuki took a lot of them. I wonder if Mizuki is feeling better now...
+
+
+3 [mc] mc_ev_shuffle_07_2
+
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: ...That's how it went. Despite the rough time we had, it was a fun picnic!
+Mizuki: Thanks to Ena, I was able to talk a lot with Airi and Shizuku.
+Miku: I see... I'm a little relieved to hear that.
+Mizuki: Why are you relieved?
+Miku: That's because it's been a while since I've seen Mizuki's happy face.
+Mizuki: Hahaha. Sorry for worrying you. But I'm fine.
+(Enter: Ena)
+Ena: Oh? Mizuki, you're here.
+Mizuki: Heya Ena♪ I was actually just about to leave.
+Ena: I see... By the way, Mizuki, there was a picture book that you wanted to read, right? I have it with me now, did you want to borrow it?
+Mizuki: What, really?! Oh, but I want to watch the anime I have piled up first, so maybe I'll borrow it another time.
+Ena: Hey Mizuki... Did something happen?
+Mizuki: Oh, did I make it obvious? Actually, I forgot to pre-order the original art book of my favorite anime. I couldn't buy the limited edition.
+Ena: What... No, that's not what I'm talking about!
+Miku: Hey, you two... I have a favor to ask.
+Miku: I want to hear you both sing.
+Mizuki: Sing? Why?
+Miku: You both look a little sad right now.
+Miku: But when you're both singing, you both look like you're having fun...
+Ena: Miku... It's okay. Please don't make that face.
+Ena: Hey Mizuki. Since Miku asked, do you want to sing together?
+Mizuki: Yeah... I can't say no to a request from Miku either.
+Ena: Well then, lets sing that song together!
+
+
+4 [MUSIC] 19: Charles
+
+5 [mc] mc_ev_shuffle_07_3
+
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: Thanks for listening, everyone!
+Ena: What did you think, Miku?
+Miku: You two looked like you were having fun. Thank you for singing.
+Mizuki: Yay, I'm so glad♪ Alright then, I should hurry up and go home. Bye bye♪
+Ena: Mizuki, wait! I wasn't finished talking to you!
+Miku: And they're gone...
+(Exit: Mizuki)
+Ena: *Sigh*... I wasn't able to ask Mizuki about their problem again.
+Miku: Ena... You're really worried about Mizuki, aren't you?
+Ena: Well, yeah. But I already know it's going to take some time.
+Ena: Even if Mizuki dodges the question again like just now, I've decided that I'm going to keep pestering them anyway.
+Miku: I see... If there's anyone who can do it, it would be you, Ena.
+Ena: Yeah, I'm going to do what I can. Thank you Miku, for worrying about us...
+Ena: And thank you to you too, everyone. I feel like I was able to gather some courage.

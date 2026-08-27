@@ -1,0 +1,113 @@
+149 The Climax! Kamiyama Cheer Squad! After Show (event_58)
+
+1 [MUSIC] 19: Charles
+
+2 [mc] mc_ev_shuffle_19_1
+
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Miku: Thank you both very much for that. You sang wonderfully.
+Mizuki: Really? I'm glad!
+Miku: Yes. You looked like you were having even more fun than usual, Mizuki.
+Mizuki: Oh, you think so?
+Ena: Perhaps the afterglow of the cheering competition? After all, you were having so much fun then.
+Mizuki: I dunno if it was fun... Well, I guess it was. I did get to try some new things!
+Ena: You still lost in the end, though.
+Mizuki: Hey! Did you really have to say that? How mean!
+Miku: Hehe...
+Ena: Even so, that video was amazing. It was totally different from what you usually make.
+Miku: Is that so? I wish I had seen it.
+Mizuki: Hahaha, I'm flattered to hear that. I do think it was some of my best work.
+Mizuki: It'd be great if you could see it too, Miku. Though I dunno if I'll get a chance to use it in N25's videos.
+Miku: I look forward to it.
+Mizuki: The Sports Festival...
+Mizuki: Yeah... Even I kinda started to think that...
+Mizuki: Things like that are part of youth.
+
+
+3 [mc] mc_ev_shuffle_19_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+(Enter: Luka)
+Emu: So, Tsukasa's team won at the Sports Festival!
+Tsukasa: Yes, thanks to everyone's hard work during all the events, we were the overall winners!
+Len: Congratulations Tsukasa!
+Luka: Running, throwing... It looked so physically challenging. You were amazing!
+Tsukasa: Hehehe, perhaps so!
+Tsukasa: But that's what made it all the more frustrating to lose the cheering competition!
+Rui: Even still, you put on a great performance. The red team's solidarity was palpable.
+Tsukasa: I'm grateful to hear that from you, Rui...
+Tsukasa: But to be honest, when I saw the blue cheer squad's performance, I was ready to lose.
+Emu: Hwah, were they that good?
+Nene: Not just the cheer squad, but the whole blue team had a whole different energy.
+Nene: It was like you could tell they had all poured their energy into getting ready for the Sports Festival.
+Len: It looks like everyone pulled out all the stops to pull off your idea, Rui!
+Luka: I'm glad you were able to share it with them.
+Rui: Thank you. I couldn't have done it without yours and everyone's help.
+Tsukasa: What's this, Rui? Did you come to Luka for advice?
+Rui: Yes, when I was feeling a little uncertain. But, with her help, I got back on my feet.
+Tsukasa: I see... So the blue team was also struggling behind the scenes.
+Luka: Also? Did the red team also have some problems?
+Tsukasa: Yes. Some people didn't see eye to eye and butted heads. It wasn't pretty.
+Tsukasa: However, we reconciled and regained our unity in the end!
+Rui: Hehe, that sure came across in the cheering competition.
+Rui: Hey, everyone. Would you mind doing something with me?
+Nene: Huh, what kind of thing?
+Rui: It's nothing major. There's a song I'd like to sing with all of you.
+Tsukasa: Oh! In that case, consider me on board! Right, everyone?
+Emu: "Yeah!"
+Nene: "Yeah!"
+Len: "Yeah!"
+Luka: Hehe, in that case, I'll stand back and listen to you all.
+Nene: Sure, but don't fall asleep while standing!
+Rui: That won't be a problem. This song is bursting with so much energy, it's guaranteed to put a smile on your face.
+Emu: Wow! What song is it?
+Len: I can't wait!
+Rui: Hehe, time to find out! Let the music begin!
+
+
+4 [MUSIC] 106: As You Like It
+
+5 [mc] mc_ev_shuffle_19_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+(Enter: Luka)
+Rui: Thank you, everyone. Just like I said, this song leaves you filled with energy.
+Emu: Yeah! Everybody, did we put a grin on your face?
+Len: Oh! Is Luka...?
+Luka: Hehe, don't worry, I'm wide awake. It was a wonderful, energetic, smiley song.
+Luka: Zzz... Zzz...♪
+Nene: Oh, she fell asleep.
+Len: Oh Luka, you never change.
+Rui: Still, I'm glad she's sleeping so peacefully after hearing our song.
+Tsukasa: Yes, I agree.
+Nene: Hehe...
+Emu: Hey, when Miku and the others get here, tell us more about the cheering competition!
+Rui: Of course. After all, every squad gave a great performance, so I'd love to talk about it.
+Tsukasa: Yes, especially your squad, Rui. After all, you won the cheering competition and did an amazing job.
+Nene: Yeah, you guys really were amazing.
+Rui: Thank you. Though, the Rui I was before I met you all couldn't have created something like that.
+Rui: Because I have all of you, I was able to have faith in the people who believe in me. And we pulled off an incredible performance.
+Rui: So, thank you, everyone. Let's keep creating incredible things together.
+Tsukasa: Rui, you...!
+Tsukasa: Oh, but of course! Only you can make a star like me shine!
+Tsukasa: No matter what you throw at me, I will take it by the horns!
+Nene: Are you sure you want to say that?
+Emu: I can't wait to see how he gets launched into the air next time!
+Len: It's already a given that he'll get launched into the air...
+Luka: We have nothing to worry about. With Rui by our side, we're guaranteed to put on shows that make people smile.
+Rui: Hehe. Let's leave the details of that until next time.
+Rui: On that note, please do come again to our next show, everyone.
+Luka: See you later!
+Emu: "Bye bye!"
+Nene: "Bye bye!"
+Tsukasa: Until next time!

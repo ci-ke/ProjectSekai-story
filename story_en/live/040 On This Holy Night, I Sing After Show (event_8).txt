@@ -1,0 +1,57 @@
+40 On This Holy Night, I Sing After Show (event_8)
+
+1 [mc] mc_ev_wonder_02_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: MEIKO)
+Emu: We had a full house for our Christmas show today too!
+MEIKO: It was that popular? That's really nice!
+Rui: Yes, it's been attracting a lot of positive attention. People say it's a great show with lovely songs.
+Emu: And it's all thanks to Nene beautiful singing, of course☆ So thanks again, Nene!
+Tsukasa: Yes. As a major contributor to our success this time, I'm willing to allow you to do something you like that just this once!
+Nene: Why do I even need permission from you to do anything?
+Nene: Oh, but...I'd like to sing again, here.
+Nene: I mean, there's no particular reason. It's just that I've finally rediscovered the joy of singing because of the Christmas show, so...
+Nene: I'd really love to sing some more.
+Miku: I wanna sing too!
+Rui: Hehe. I have no objections. Are you okay with this, Tsukasa and Emu?
+Tsukasa: "Of course!"
+Emu: "Of course!"
+Nene: Thank you, everyone.
+Nene: Um... I'll do my best.
+Nene: So please, listen to my song!
+
+
+2 [MUSIC] 51: The World Hasn't Even Started Yet
+
+3 [mc] mc_ev_wonder_02_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: MEIKO)
+Emu: Wow! Looks like everyone really enjoyed themselves!
+Nene: Um... Thanks for helping me out when I wasn't able to sing confidently.
+Nene: I feel like I can finally sing like before now.
+Rui: Yes. You're completely in your element right now.
+MEIKO: Isn't it great you found your past voice again, Nene?
+Nene: It is. Thank you.
+Tsukasa: Well, we've already informed Miku about what happened, so we should be heading back.
+Emu: What?! But I wanna do it again!
+Miku: Me too!
+Tsukasa: You JUST sang a song! And we have another show to perform tomorrow, so we'll do it tomorrow instead!
+Emu: "Nooo! I wanna sing now!"
+Miku: "Nooo! I wanna sing now!"
+Tsukasa: Argh! Stop this noise! Nene, you tell them to stop too!
+Nene: I want to sing again, too.
+Emu: "Yaaay!"
+Miku: "Yaaay!"
+Tsukasa: Wh-What?! You traitor!
+Rui: This calls for an encore, don't you think, Tsukasa?
+Nene: Yes. Come on, let's sing together.

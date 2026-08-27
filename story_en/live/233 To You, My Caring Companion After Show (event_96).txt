@@ -1,0 +1,116 @@
+233 To You, My Caring Companion After Show (event_96)
+
+1 [mc] mc_ev_shuffle_32_1
+
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Kanade)
+(Enter: Mizuki)
+Ena: Oh, there you are. Come on, Mafuyu was able to make it today, so hurry up and tell us about the fair.
+Kanade: Huh...? Mafuyu, didn't you have cram school today?
+Mafuyu: It's break time right now. I should be able to stay, but not for long.
+Kanade: Oh, I see. I'm glad to see you, even if it's just for a little bit...
+(Enter: Luka)
+Luka: Oh? It seems pretty lively over here. What are you all talking about?
+(Exit: Luka)
+(Enter: Luka)
+Kanade: Luka...!
+Ena: Kanade and Mizuki went to this convention called the Phoenix Bridal Fair, so I wanted to hear about it.
+Luka: Bridal? So, a convention related to weddings? That sounds like fun. I'd like to hear this too.
+Mizuki: Okay! There's a bunch I wanna tell you guys, but... Yeah, I think I should start with Honami.
+Mafuyu: So Mochizuki was there with you...
+Kanade: Yeah. Actually, this all started when Ms. Mochizuki invited me. And we met Otori there, so the four of us went around together.
+Ena: You saw Emu too?! Aw, I wish I could've gone...
+Mizuki: Haha! It really was fun. And Honami's such a nice person...
+Ena: Right? Honami's honest, kind, and really cute!
+Mizuki: Why are you bragging about her, Ena? Oh yeah. Kanade, did Honami like the bouquet you gave her?
+Kanade: Yeah. She was really happy about it. Thanks for helping me with that, Mizuki.
+Mizuki: Hehehe, you're welcome!
+Kanade: Ms. Mochizuki really has done so much for me all this time, so I'm glad I was able to show her my gratitude...
+Luka: Oh, is that so?
+Kanade: Yeah. Actually, she invited me to the bridal fair because she was concerned about me working too hard on my composing.
+Kanade: But that's not all. Cooking, laundry... All the housework she does, she does with real care.
+Kanade: Not just because it's her job, but because she's really trying to look after me.
+Kanade: She's always by my side, supporting me.
+Mizuki: Right... I really felt that too, talking to her.
+Kanade: Yeah. I'm sure she's part of the reason I'm able to keep composing.
+Kanade: So, Mafuyu... I'll definitely make a song that will save you someday.
+Mafuyu: Yeah... I know.
+Luka: Hehe. Kanade, you seem so reinvigorated.
+Luka: It must have been a good change of pace for you.
+Kanade: Oh... Yeah, it was.
+Ena: Hehe. That's great, Kanade.
+Mizuki: Alrighty! Then how about we get one more change of pace?
+Mafuyu: What do you mean?
+Mizuki: I mean us singing together! It feels great singing here after all! What do you think, Kanade?
+Kanade: Okay. I want to sing too. I hope you'll all listen.
+Kanade: Kimi no Yoru Wo Kure.
+
+
+2 [MUSIC] 237: Kimi no Yoru Wo Kure
+
+3 [mc] mc_ev_shuffle_32_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Luka)
+Kanade: Phew... Getting to sing like that was pretty refreshing. Thank you, everyone. I had fun singing with you.
+Ena: Yeah, I had fun too. But I still want to hear more about the bridal fair.
+Kanade: Sure. Um, Ms. Mochizuki and I put on wedding dresses and participated in this show—
+
+
+4 [mc] mc_ev_shuffle_32_3
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Rin)
+Rin: ...and that's how they were able to get rid of the vampire, thanks to Hona holding her back!
+Saki: Wow...! That's so cool, Hona!
+Honami: Th-This is kind of embarrassing...
+Ichika: Hehe. But it's great to hear that Kanade enjoyed herself.
+Honami: Oh... Yes!
+Shiho: And she even gave you a present. You said it was a bouquet, right? Where is it now?
+Honami: I have it set on my desk. It's so beautiful, and... I catch myself staring at it without realizing.
+Miku: I see. That must be because it's filled with this Ms. Yoisaki's feelings.
+Honami: Right...
+Honami: Looking at the flowers, I can tell she thought about me a lot when picking them out... And I feel this warmth build up in my chest.
+Rin: Wow, that's so sweet!
+Honami: Huh?
+Rin: I mean, don't you think?! The way you always do your best for Ms. Yoisaki... All your warm and fuzzy feelings reached her...
+Rin: And now those warm feelings have made their way from Ms. Yoisaki back to you!
+Ichika: Looking at it that way... You're right, it is pretty wonderful.
+Rin: Right?! I'm sure that's what those vows mean too!
+Saki: Huh? What? What do you mean?
+Rin: Hehe! Hona told me. Your vows are a promise to stay with someone no matter what and put your heart into caring for them!
+Rin: And caring for the other person with your whole heart isn't just one-sided.
+Rin: Just like Hona puts her whole heart into her work... This Ms. Yoisaki cares a lot about Hona too!
+Ichika: Hehe. I'm sure Kanade has made Honami smile a lot, just like Honami has made her smile.
+Honami: That's true. Whenever she says she likes the food I make, or gives me a wonderful gift like she did the other day...
+Honami: Ms. Yoisaki makes me smile quite a lot!
+Miku: Hehe... I see. Honami, you look really refreshed. I bet you could sing a great song right now.
+Honami: Oh... You may be right. Would you all mind singing with me?
+Ichika: That sounds good. Since we have an audience, let's show them our best singing.
+Honami: Thank you. Okay, here we go. Tale of the Deep-sea Lily.
+(Exit: Rin)
+
+
+5 [MUSIC] 75: Tale of the Deep-sea Lily
+
+6 [mc] mc_ev_shuffle_32_4
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Rin)
+Honami: Thank you for singing with me, everyone! I had so much fun!
+Honami: Rin, everyone, thank you for listening. I hope you were able to feel at least some of my gratitude.
+Honami: I hope these warm feelings keep spreading... And reach those precious to me, and those precious to you.
+Rin: You should all try conveying your gratitude to those people too☆ I'm sure it'll make you feel all warm inside☆
+Honami: Hehe. Okay, we'll see you all next time! Bye bye!

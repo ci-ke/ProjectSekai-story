@@ -1,0 +1,57 @@
+51 Don't Let Doubts Hold You Back After Show (event_10)
+
+1 [mc] mc_ev_band_02_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: MEIKO)
+Miku: If everyone's ready, then it's time to get serious.
+MEIKO: Are you ready?
+Saki: Yes! What song are we playing today?
+Honami: Um, if you don't mind...I have a particular song in mind today. Do you think we could play that?
+Ichika: Of course we can. It's not often you have a request Honami, after all.
+Honami: Thanks. I've been thinking about a lot of things since the choir competition.
+Honami: And I believe that I should able to pull this song off properly now.
+MEIKO: A song you can pull off now but couldn't before? This sounds like something special!
+Honami: N-No, it's nothing grand like that. But I do think I should be able to give 110% today!
+Shiho: Okay. That's great, let's do it.
+Ichika: Yes! I agree.
+Saki: Me too! I absolutely wanna play the song that Hona wants to play so much!
+Miku: Then what are we waiting for? Let's do it!
+
+
+2 [MUSIC] 75: Tale of the Deep-sea Lily
+
+3 [mc] mc_ev_band_02_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: MEIKO)
+Ichika: Oh!
+Honami: I think they're happy about the performance too. And I'm happy that they're happy.
+Honami: The truth is even after we've started talking again, somewhere deep inside, I still had my reservations...
+Honami: But I'm fine now, thanks to all your support. Thank you, everyone.
+Saki: Hehe, look at that smile on Shiho's face♪
+Shiho: M-Me?! Speak for yourself, Saki. And you, Ichika.
+Saki: Of course I'm smiling! I mean, take a look at Hona's face! She's glowing! But I think your smile's the brightest around here, Shiho♪
+Shiho: Whatever you say.
+MEIKO: Oh dear, Shiho, why is your face red?
+Shiho: M-MEIKO!
+Honami: Ichika, remember you said before that you wanted us to stay happy together forever?
+Honami: I want that too. I want us to stay happy together, the way we are now, so I'll do my best to keep it that way!
+Ichika: Yeah, let's do that, Honami. We're all gonna be together forever!
+Miku: And I know you'll succeed, Honami, Ichika, Saki, Shiho. You'll be happy together forever.
+Honami: We will! Thank you, Miku!
+Honami: And everyone out there too. Thank you for watching over us.
+Honami: It's all because you're always watching that we've been able to perform so well today.
+Honami: So please, keep watching over us.
+Honami: Um... I hope I managed to get my feelings across?
+Shiho: Pretty sure you did.
+Saki: Thanks, everyone out there!
+Honami: Please come again for our next performance!

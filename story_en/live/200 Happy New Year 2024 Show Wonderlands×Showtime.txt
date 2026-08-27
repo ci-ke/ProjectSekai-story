@@ -1,0 +1,69 @@
+200 Happy New Year 2024 Show Wonderlands×Showtime
+
+1 [mc] mc_2023newyear_04_1
+
+(Enter: KAITO)
+KAITO: Happy New Year, everybody!
+KAITO: This is a special show for you to start the new year with a smile on your face.
+KAITO: Hehe. And without further ado... It's showtime!
+
+
+2 [MUSIC] 225: Ego rock
+
+3 [mc] mc_2023newyear_04_2
+
+(Enter: Rui)
+(Enter: Emu)
+(Enter: Len)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: KAITO)
+Tsukasa: Happy New Year, everyone!
+Emu: "Happy New Year!"
+Nene: "Happy New Year!"
+Rui: "Happy New Year!"
+Len: "Happy New Year!"
+KAITO: "Happy New Year!"
+Len: Did you enjoy Part One of our show?
+Nene: It seems like they really got into the swing of it. That's a relief.
+Rui: Oh, but it's too early to start slacking now. Right, Emu?
+Emu: Yup yup! The Wonderful Super Ultra New Year Wonderful Show isn't over yet☆
+Len: Won... Wonderful Super... Huh?
+Tsukasa: That's far too long!!! What's with that ridiculous name?!
+KAITO: A name that starts and ends with "wonderful" certainly has Emu's stamp on it.
+Nene: When you put it that way, I kind of agree...
+Rui: It's giving me "excitement", "heart-pounding" and "thrilling". It fits Part Two perfectly, no?
+Emu: Riiight?!
+Emu: So Tsukasa, let's do the rest of the Wonderful Super Ultra New Year Wonderful Show!
+Tsukasa: Fine, fine! And now it's time for... Uh...
+Tsukasa: The Wonderful Super Ultra New Year Wonderful Show: Part Two! Let's begin!
+Tsukasa: Tondemo-Wonderz!
+(Exit: Len)
+
+
+4 [MUSIC] 127: Tondemo-Wonderz
+
+5 [mc] mc_2023newyear_04_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+(Enter: KAITO)
+Emu: Did you guys have fun?
+KAITO: I think they enjoyed it thoroughly.
+Len: Yeah! The Wonderful Super...uh...Ultra New Year Wonderful Show is a success!
+Rui: Yes. Our performance was worthy of the name of the Wonderful Super Ultra New Year Wonderful Show.
+Nene: You know you don't have to go out of your way to say the name?
+KAITO: I think he just likes saying it.
+Tsukasa: Once again, thank you all for coming to see today's show!
+Tsukasa: We in Wonderlands×Showtime are dedicated to giving you another year packed with fun shows!
+Emu: We're gonna do loads of shows to give you all sparkly smiles!
+Nene: Please come see us again. You won't be disappointed.
+Rui: Yes, because creating a magical, fantastical wonderland is at the heart of Wonderlands×Showtime.
+KAITO: I'm looking forward to seeing what kinds of shows you will all create moving forward.
+Len: Don't hesitate to ask if you ever need our help!
+Tsukasa: Thank you, KAITO and Len.
+Tsukasa: And many thanks to all of you for coming! Until next time!
+Emu: Bye bye☆

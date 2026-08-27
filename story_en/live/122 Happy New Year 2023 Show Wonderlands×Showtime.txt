@@ -1,0 +1,106 @@
+122 Happy New Year 2023 Show Wonderlands×Showtime
+
+1 [mc] mc_2022newyear_04_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Hey, everyone! Happy New Year♪
+Rin: "Happy New Year!"
+Len: "Happy New Year!"
+MEIKO: "Happy New Year!"
+KAITO: "Happy New Year!"
+Luka: Mhm... Hm? Happy New... Zzz... Zzz...
+MEIKO: Oh dear. She fell asleep while standing.
+Len: That's amazing. Right when Tsukasa and the others are about to start their show too.
+MEIKO: Well, she could wake up just I time! She'll be like, "Yawn... I'm wide awake now!"
+Rin: Hehe. You might be right! Especiall considering how fun the shows Tsukasa and the others put on are!
+Len: Yes! I'm very excited for today's show too.
+Len: Good luck, Miku, KAITO!
+Rin: We'll be watching from over there!
+Miku: Okay♪ Let's have lots and lots of fun together!
+(Exit: Rin)
+(Exit: Len)
+(Exit: MEIKO)
+(Exit: Luka)
+KAITO: Now then...
+(Enter: Tsukasa)
+Miku: Oh, looks like we're all set☆
+KAITO: Indeed. Let's get this show on the road!
+
+
+2 [MUSIC] 127: Tondemo-Wonderz
+
+3 [mc] mc_2022newyear_04_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+Tsukasa: Happy New Year, everyone!
+Emu: "Happy New Year!"
+Nene: "Happy New Year!"
+Rui: "Happy New Year!"
+Tsukasa: Now that you've just had a taste of act one, did you enjoy it?
+Rui: Hehe. I believe it made for the perfect hook.
+Emu: Yeah!
+Emu: Hey everyone! We're gonna keep this energy up, and give you all lots and lots of New Year wonderhoy!
+Nene: What's "New Year wonderhoy"...?
+Emu: Huh? You don't know? New Year wonderhoy's New Year wonderhoy.
+Miku: Yeah☆ A new and improved wondershoy!
+Miku: Oops☆ I mixed wonderhoy and shows together♪
+Tsukasa: Ahem! Anyway, we, Wonderlands×Showtime...
+Tsukasa: Will continue to perform a wide variety of shows as ambassadors of Phoenix Wonderland this year as well!
+Tsukasa: We hope that you'll all be looking forward to them!
+Nene: Speaking of which, I never thought we'd ever get to perform anywhere outside of the Wonder Stage. I honestly couldn't believe it at first.
+Nene: But thanks to that, we got a chance to perform in front of Ms. Kazamatsuri and even talk to her.
+Rui: Hehehe. I was also able to finally put on a show that I'd up on a long time ago.
+Rui: I even had the pleasure of directing performers outside of this troupe. I feel like I was given many opportunities to grow this past year.
+Emu: Hehehe. And I was able to protect Phoenix Wonderland because you guys were there for me, which made this past year...
+Emu: SUUUUUUUUUUUUUPER!
+Emu: DUUUUUUUUUUUUUPER! AMAZING!
+Nene: That good, huh?
+KAITO: Hehe. It made her feel just that happy.
+Tsukasa: In any case, it's great to have that particular issue regarding Phoenix Wonderland all done and dusted.
+Tsukasa: Furthermore, we now know for a fact that shows are able to make everyone of all ages smile!
+Emu: Yeah☆ Let's make sure to put a smile on all the faces of the people we meet from now on♪
+Tsukasa: Of course! But before we do that...
+Tsukasa: We'll need to make sure all those who came to see us today go home smiling!
+Nene: Hehe. You don't have to tell us that.
+Rui: Agreed. Then, shall we get started with act two?
+Rui: Those of you in the audience, are you all ready?
+Rui: Without further ado, we, Wonderlands×Showtime, as well as Miku, will now be bringing you act two! We hope you enjoy it!
+
+
+4 [MUSIC] 51: The World Hasn't Even Started Yet
+
+5 [mc] mc_2022newyear_04_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: KAITO)
+Miku: How was that, everyone? Did you all have fun?
+Emu: Yay! Everyone looks like they're full of New Year wonderhoy☆
+KAITO: Everyone watching from over there also seemed to really enjoy it when all the plushies came charging in.
+KAITO: Also, Luka was asleep the whole time, but she seemed to have fun bopping to the beat.
+Emu: Really? Woohoo!
+Nene: She was bopping to the beat while asleep?
+Tsukasa: How's Luka able to do that exactly...?
+Tsukasa: Anyway, if everyone here has a smile on their face, then I'd say our show is yet again another success!
+Rui: Hehe. Our first show of the year went this well, so I'd say we're off to a great start.
+Emu: Yeah! Tsukasa, Rui, Nene! I'm really looking forward to doing lots and lots more stuff this year♪
+Nene: Hehe. Yeah, same here.
+Nene: Also... Thank you all for coming to see us today.
+Emu: Don't forget to come and watch lots and lots of our shows this year too♪ We'll be waiting!
+KAITO: It's farewell for now, but let's meet again during our next show!
+Miku: We'll always be here in SEKAI waiting for you♪
+Tsukasa: See you next time!
+Emu: Bye bye☆

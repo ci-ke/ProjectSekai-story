@@ -1,0 +1,94 @@
+91 Mizuki's Birthday Show 2022
+
+1 [mc] mc_bd_2021mizuki_1
+
+(Enter: Mizuki)
+(Enter: MEIKO)
+Mizuki: Hmm... Oh, MEIKO.
+Mizuki: What are you doing here?
+MEIKO: Don't mind me. I was just watching what you were doing.
+Mizuki: What? Me? Haha, I guess you've caught me zoning out.
+Mizuki: ...
+Mizuki: Did you... Hear Rin's song just now? That... That was the song Kanade made for Ena...
+Mizuki: It's a great song, huh?
+Mizuki: And the song she made for Mafuyu too...
+Mizuki: When it comes to making art, even Ena doesn't stop at anything. She's always giving it her all.
+Mizuki: Kanade is also still trying to make a song that can save Mafuyu...
+Mizuki: If I didn't give up like those two, then maybe... I'd also...
+(Enter: Ena)
+(Enter: Mafuyu)
+(Enter: Kanade)
+Ena: Oh, so that's why you weren't responding to any of my messages. Turns out you were over here all along!
+Mizuki: You're late, you guys. How could you make the star of the day wait?
+Ena: You were the one who decided to come early.
+Kanade: You're here too, MEIKO. It's Mizuki's birthday today.
+MEIKO: Birthday?
+Mizuki: Yeah! Today's my birthday♪
+Mizuki: I wanted as many people as possible to celebrate with me, which is also why I'm here!
+Mizuki: Hey, you guys! You all came to celebrate my birthday with me, right♪
+MEIKO: You're lying...
+Ena: MEIKO?
+MEIKO: Nothing.
+Mizuki: Whatever, let's just get on with it! I've been waiting for sooooooo long!
+Mizuki: Okay you guys, let's get this party started! Here we go! Ready...
+Ena: Stop, stop! Why is Mizuki doing everything?
+Ena: And why are you all the way over there? Come on, get over here!
+Ena: Good grief. You'd have to strain your voice if you're all the way over there.
+Mafuyu: It might be tough for Kanade.
+Kanade: I guess so...
+Mizuki: Haha. Sorry, sorry.
+Kanade: Alright then, let's try that again. Here we go. Ready...
+Mafuyu: Happy birthday, Mizuki.
+Kanade: Oh!
+Kanade: H-Happy birthday Mizuki!
+Ena: H-Happy birthday Mizuki!
+Mizuki: Hahaha! How sloppy!
+Ena: That's because of Mafuyu...! Seriously, we're supposed to say it at the same time!
+Mafuyu: I thought we were going to say it after "here we go".
+Kanade: Oh... Sorry. That was probably a little confusing, wasn't it?
+Mizuki: Hahaha. I guess that's just our version of it.
+MEIKO: Is this the end of the celebration?
+Kanade: No, not yet. We'll be singing a song after this.
+MEIKO: I see...
+Mizuki: Hm? What's wrong, MEIKO? Do you want to sing with us?
+MEIKO: I suppose I do. May I?
+Mizuki: Wait, really?!
+MEIKO: Yes. Today I want to experience your feelings up close.
+Mizuki: I see... Thank you, MEIKO.
+Mizuki: You guys are also welcome to join in the fun too♪
+Mizuki: Let's go! "IDSMILE!"
+
+
+2 [MUSIC] 116: IDSMILE
+
+3 [mc] mc_bd_2021mizuki_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: MEIKO)
+Mizuki: Thank you, everyone! I'm so happy to have had a lively birthday!
+Kanade: Did you have fun, Mizuki?
+Mizuki: Yup, I sure did!
+Kanade: I see. I'm glad.
+Ena: Well, if you thought it was great then I'm glad. It's just that the song was cute but... Kind of lonely, wasn't it?
+Mizuki: You think so? I really like those kinds of songs♪
+Mizuki: Alright! All that's left to do today is to go home and start working!
+Mafuyu: You're right.
+Ena: Hey... You really want to go back now? How about getting a bite to eat at a diner or some cake?
+Mizuki: It's fine, it's fine. It was like this when we celebrated all of your birthdays too, right?
+Mizuki: Ena, Kanade, Mafuyu... Thank you so much for today!
+Ena: Oh... Of course.
+Mafuyu: I didn't really do anything though...
+Mizuki: No, I'm just glad you're here. I mean, you sang with us.
+Mizuki: Thanks for singing with us too, MEIKO!
+MEIKO: It's no big deal...
+Mizuki: Haha, you don't change. But... Really, thank you!
+Mizuki: Well, let's head back! Bye bye, everyone! You too, MEIKO!
+MEIKO: See you.
+(Exit: Kanade)
+(Exit: Mafuyu)
+(Exit: Ena)
+(Exit: Mizuki)
+MEIKO: I hope I can see your genuine smile someday soon...

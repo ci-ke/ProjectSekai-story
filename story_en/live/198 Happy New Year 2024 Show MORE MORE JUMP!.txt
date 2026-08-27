@@ -1,0 +1,84 @@
+198 Happy New Year 2024 Show MORE MORE JUMP!
+
+1 [mc] mc_2023newyear_02_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: MEIKO)
+Shizuku: Hello, everyone! Thank you for coming to our New Year's show today!
+Airi: Everyone's buzzing! But we're just getting started!
+Minori: We're going to pull out all of the stops to make your New Year more fun, more lively and more exciting!
+MEIKO: Without further ado, let's begin with our first song!
+Haruka: Yeah! Ready everyone?
+Miku: Sounds like they are♪ It's time for...
+Miku: The Vampire!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 213: The Vampire
+
+3 [mc] mc_2023newyear_02_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: MEIKO)
+Minori: How was that, everyone? Did you have fun?
+Miku: I enjoyed it too♪ Thank you for watching.
+MEIKO: My year's off to a good start. I already got to see such an adorable show♪
+Shizuku: Hehe. I'm flattered to hear that.
+Haruka: On that topic, did you all come up with goals for this year?
+Haruka: As for me, I'm committed to expanding the work of MORE MORE JUMP!, so that we can spread hope to more and more people.
+Shizuku: I see... And appearing on TV will be part of that, won't it?
+Shizuku: I also set myself a goal, and that's to find new things I can do for the fans that support us.
+Airi: We really wouldn't have been able to do things like events or the solo show without our fans.
+Airi: Hmm, just thinking about that is making me want to introduce them to even more aspects of us.
+Airi: I've got it! I want to expand the variety of our stream segments, and if possible, add to our list of original tracks!
+MEIKO: Nice idea! It's like you're going beyond goals to dream bigger and better♪
+Minori: It's making me a little excited too!
+Miku: Hehe. What about you, Minori? What's your goal?
+Minori: There's no question of it! I'm going to stand by Haruka and everyone and spread hope to lots of people!
+Minori: Oh... Though that's less "my goal for the year" and more "my goal as an idol"...
+Haruka: It sounds fine to me. I think it's a lovely goal.
+Minori: R-Really?! Then I'll try my best to achieve it!
+MEIKO: Hehe♪ Then, why don't you all bear your goals in mind while you sing the next song?
+Minori: Yes, ma'am!
+Minori: Everyone, let's all have a fun time! Here we go!
+Minori: DREAM PLACE!
+(Exit: Miku)
+
+
+4 [MUSIC] 252: DREAM PLACE
+
+5 [mc] mc_2023newyear_02_3
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: MEIKO)
+(Enter: Miku)
+Minori: Thank you for listening!
+Haruka: After kicking off the new year with a show in SEKAI, I'm feeling energized for the year ahead.
+Airi: Me too. Let's hold on to this energy for the next twelve months!
+Shizuku: Why don't we cap off our show with that thing? Miku and MEIKO, please join us!
+Miku: Okay!
+MEIKO: Sure!
+Shizuku: More and more songs!
+Airi: More and more energy!
+Haruka: More and more hope!
+Minori: May our songs reach more, more, more people!
+Miku: "MORE MORE..."
+MEIKO: "MORE MORE..."
+Minori: "JUMP!"
+Haruka: "JUMP!"
+Airi: "JUMP!"
+Shizuku: "JUMP!"
+Miku: "JUMP!"
+MEIKO: "JUMP!"
+Minori: See you next time!

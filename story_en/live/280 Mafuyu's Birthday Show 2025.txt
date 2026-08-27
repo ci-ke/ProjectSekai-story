@@ -1,0 +1,82 @@
+280 Mafuyu's Birthday Show 2025
+
+1 [mc] mc_bd_2024mafuyu_1
+
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+(Enter: Kanade)
+(Enter: Mafuyu)
+Kanade: Thanks for waiting, everyone.
+Miku: Hello, you two.
+Kanade: Sorry we're late. Did you wait long?
+Ena: We didn't mind waiting, but... What happened?
+Mafuyu: We're late because we were washing up after dinner.
+Mizuki: Washing up?
+Kanade: It was my turn to wash the dishes today, but I got distracted working and forgot...
+Kanade: We realized before we came here and rushed to get them done.
+Ena: Right... Well, I guess being that focused on your work is what makes you you, Kanade.
+Mizuki: Hahaha! Plus, we used the extra time to finish setting up your birthday party♪ Also...
+Mizuki: Look at all these people who came to see you!
+Kanade: Oh yeah... There are so many.
+Miku: I think they're here to celebrate with us.
+Mafuyu: Oh...
+Mizuki: That's awesome!
+Mizuki: Since these people came all this way, let's celebrate with them before the party!
+Mafuyu: *Nod* Okay.
+Ena: Alright, let's do it.
+Kanade: Are you ready, everyone?
+Mizuki: Oh, you sound born ready! Here we go... Three, two, one!
+Kanade: Happy birthday, Mafuyu!
+Ena: Happy birthday, Mafuyu!
+Mizuki: Happy birthday, Mafuyu!
+Miku: Happy birthday, Mafuyu!
+Mafuyu: Thank you.
+Mizuki: Oh yeah. You said you wanted to sing today, Mafuyu, so why not sing for everyone here?
+Mafuyu: Everyone here?
+Ena: That's a good idea. This many people all came to see you, so why not have them listen?
+Mafuyu: I don't particularly mind.
+Ena: Hey, can't you be a little more positive?
+Mizuki: Hahaha! Come on now, Ena!
+Mizuki: Still, it was a nice surprise when we asked how you wanted to celebrate, and you said, "I want to sing."
+Ena: True. We thought you'd just say "anything" like you usually do.
+Mafuyu: Singing...makes me feel a little better.
+Miku: I see.
+Miku: Then, let's sing.
+Mafuyu: Okay.
+Mizuki: Alright! Kanade, Miku, we'll leave it to you!
+Mafuyu: Well then, I'll sing now. Jishoumushoku.
+(Exit: Mizuki)
+(Exit: Ena)
+
+
+2 [MUSIC] 67: Jishoumushoku
+
+3 [mc] mc_bd_2024mafuyu_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+(Enter: Mizuki)
+(Enter: Ena)
+Mizuki: Nice work, you three! You killed it!
+Ena: And you all loved it, right?
+Mafuyu: Kanade. Miku. Thank you.
+Kanade: Huh...?
+Mafuyu: I'm...glad we could sing together.
+Mafuyu: I feel warmer inside.
+Miku: Mafuyu...
+Kanade: I'm happy to hear that.
+Mafuyu: *Nod*
+Mafuyu: Next... I'd like to sing with Mizuki and Ena.
+Ena: Huh...?
+Mizuki: Hehehe, of course we will! Let's all sing after we meet up with Rin and everyone!
+Ena: Well, we can't exactly say no to that.
+Mafuyu: Thank you.
+Ena: Anyway, it's probably time we joined the others.
+Mizuki: Right. If we keep them waiting any longer, KAITO and MEIKO might up and leave!
+Mizuki: Everyone! Thank you so much for coming!
+Ena: C'mon Mafuyu, you too. They all came to see you.
+Mafuyu: Thank you for today.
+Mafuyu: And, see you next time.
+Miku: Bye bye.

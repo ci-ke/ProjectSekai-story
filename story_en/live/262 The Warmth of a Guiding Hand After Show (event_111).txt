@@ -1,0 +1,89 @@
+262 The Warmth of a Guiding Hand After Show (event_111)
+
+1 [mc] mc_ev_idol_15_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Minori: *Sigh* That trip was so fun!
+Airi: You're still talking about that?!
+Airi: Also, we were there for work, not fun!
+Haruka: Well, we did enjoy ourselves doing both.
+Shizuku: That's right. The shoot went very well, and we made an important—
+(Enter: Len)
+(Enter: KAITO)
+KAITO: Girls, you're all here.
+Minori: Oh, Len! KAITO!
+Len: Are you here to practice? It must be tough when you're so busy.
+Airi: Yes. We're supposed to be practicing, but Minori brought up our trip again.
+Minori: But it was just so fun!
+Len: I understand how Minori feels. We had a lot of fun too.
+KAITO: Hehe, Len was reading travel magazines right up until the day before.
+Len: W-Well, I'd never experienced it before and...
+Len: Anyway, it really was a lovely time. Your shoot went well, and you got to rest in an inn.
+Len: And you found someone to be your manager.
+Airi: You're right.
+Haruka: Shizuku did a lot to encourage Saito.
+Shizuku: I did? Perhaps I did, but I'm glad that she chose to follow the path she wanted to.
+Shizuku: Her family also seemed happy... So I suppose everything worked out.
+Len: Yeah. I'm sure they'll have plenty to figure out with the inn and everything.
+Len: But when I saw her mother and grandmother's faces, I knew they'd be okay.
+Len: You've pointed their family down the path to happiness, Shizuku.
+Shizuku: Len...
+KAITO: I agree. In that sense...
+KAITO: You delivered hope to the Saitos, Shizuku.
+Shizuku: Hope...
+Shizuku: Hearing such kind words from you two makes me feel a certain warmth inside.
+Shizuku: It's almost overflowing... Would you mind if I put it into a song?
+Minori: Oh, that sounds good! I want to sing too!
+Len: Then, could I also join? I'd like to get an idea of your feelings up close.
+Shizuku: Yes, of course.
+KAITO: I'll be watching from the front row then.
+Shizuku: Thank you! Well then, let's begin.
+Shizuku: We are.
+
+
+2 [MUSIC] 287: We are
+
+3 [mc] mc_ev_idol_15_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Len)
+(Enter: KAITO)
+Shizuku: *Exhale* How was that...?
+KAITO: You all sang wonderfully. Your voice was so emotive that you were tugging at my heartstrings, Shizuku!
+Shizuku: Really?
+Len: Even I felt the same singing alongside you.
+Haruka: I also think your singing gave me a window into your heart. It felt warm and kind.
+Shizuku: You too, Haruka?
+Shizuku: I'm so glad I was able to talk through things with Saito.
+Shizuku: Of course, part of that is finding someone we trust to become our manager.
+Shizuku: But I also feel like I've been saved somehow.
+Minori: Saved?
+Shizuku: Yes. Thinking back to my time with Cheerful * Days, it is true I feel better about it lately...
+Shizuku: But that doesn't mean I have zero regrets, and I still can't let go of my mistakes.
+Shizuku: I still carry dark memories of those days...
+Shizuku: But it's thanks to those very memories that I was able to help Saito this time.
+Shizuku: Those were painful times, but... I realized I can do good with them.
+Len: Shizuku...
+Minori: I see...
+Shizuku: And I wouldn't have realized that without you all encouraging me to say how I felt.
+Shizuku: So... Truly, thank you all!
+Haruka: Don't mention it.
+KAITO: I'm really glad that things worked out well for everyone.
+Shizuku: Exactly. We secured a dependable manager, and I think I grew a little in the process.
+Shizuku: This is just the start for us!
+Airi: Hey, don't go jinxing us by saying some line from the end of a canceled manga!
+Haruka: Hehe. Shizuku's right though.
+Minori: That reminds me. Airi, you had the idea to create a base of operations for us, right? The MORE MORE...HOUSE?
+Airi: That's an entirely different kettle of fish, so let's revisit it another time. We're here to practice, after all.
+Haruka: Agreed. We have a meeting later, so we don't have that much time.
+Len: Hehe. Keep up the good work, everyone.
+Shizuku: Thank you, you two!
+Airi: Well, it's a bit of a disorganized way to finish, but let's say goodbye here!
+Haruka: We'd love it if you kept watching over us as we develop our work as idols.
+Minori: With that, we'll see you all next time!

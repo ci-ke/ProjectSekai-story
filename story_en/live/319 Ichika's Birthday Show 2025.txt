@@ -1,0 +1,77 @@
+319 Ichika's Birthday Show 2025
+
+1 [mc] mc_bd_2024ichika_1
+
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Honami: Thank you for today, Miku.
+Shiho: Ichika really loved the party you planned.
+Miku: You're very welcome. I'm happy to hear that.
+Miku: Though, we're not quite done celebrating yet.
+Shiho: Huh? You mean...
+(Enter: Saki)
+Saki: Hurry up, Ichi!
+(Exit: Saki)
+(Enter: Saki)
+(Enter: Ichika)
+Ichika: N-Not so fast!
+Miku: Hehe. There's our birthday girl.
+Ichika: Huh? Miku, everyone, what are you doing here?
+Ichika: Luka's about to cut the cake, so she told us to come find you.
+Shiho: Yeah. We'll be right there...but first...
+Miku: Look. All these people are here for you.
+Ichika: People?
+Ichika: Wow! There's so many of you!
+Honami: Everyone's here to wish you a happy birthday, Ichika.
+Ichika: What?
+Saki: Okay, let's all wish Ichi a happy birthday together!
+Shiho: Are you all ready?
+Honami: Here we go! One, two, three!
+Saki: Happy birthday!
+Honami: Happy birthday!
+Shiho: Happy birthday!
+Miku: Happy birthday!
+Saki: Yaaay! Happy birthday, Ichi!
+Honami: Happy birthday.
+Shiho: Happy birthday.
+Miku: Happy birthday.
+Ichika: Thank you, everyone...
+Saki: There's still plenty of party to enjoy, too!
+Miku: We have a song for you too, so you can look forward to that.
+Ichika: Thank you. That sounds like fun. But...
+Ichika: Before that, I kind of want to sing myself.
+Miku: Huh?
+Ichika: Seeing all these people gathered just for me... It makes me so happy.
+Ichika: I want to thank them all properly.
+Miku: In that case, why don't we all sing together?
+Shiho: Nice idea.
+Saki: Let's do it!
+Ichika: Thanks.
+Ichika: Everyone, thank you for coming! I'm going to sing from the heart, so I hope you have fun.
+Ichika: Here we go! the WALL!
+
+
+2 [MUSIC] 259: the WALL
+
+3 [mc] mc_bd_2024ichika_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Ichika: Thank you for listening!
+Honami: It looks like everyone enjoyed themselves.
+Ichika: Getting to do such a fun show on my birthday feels like a good omen.
+Shiho: Haha, you're right.
+Ichika: Thank you all again, so much!
+Ichika: From writing songs to recording them... It's really sunk in lately that we're pros now.
+Ichika: There's no telling what's ahead for us, but... As long as we're together, we'll keep growing.
+Ichika: And I hope we'll see that future together with all of you.
+Saki: Yeah!
+Ichika: We're going to keep working hard so that, next time you see us, we'll have grown some more.
+Ichika: Look forward to it!
+Saki: Bye bye! See you!
+Shiho: Bye bye! See you!
+Honami: Bye bye! See you!

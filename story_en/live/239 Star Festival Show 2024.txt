@@ -1,0 +1,103 @@
+239 Star Festival Show 2024
+
+1 [mc] mc_tanabata_2023_1
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Thanks for coming on such short notice, you guys!
+Toya: That's alright. Don't worry about it.
+Akito: Anyway, there's something you need to tell us?
+An: Well, today's the Star Festival, right?
+An: I wanted to go above and beyond with the decorations for the cafe, so instead of using the ones we usually do, I dug up ones from a long time ago.
+An: And that's when I came across some of Aunt Nagi's wish strips!
+Miku: Huh? Nagi's wish strips?
+An: Yeah! After reading them again, I realized that they were really interesting.
+An: There were cool ones like, "I wanna be number one in the world!" and even some childlike ones like, "I wanna eat so much watermelon I end up hating it!"
+Kohane: Hehe. Based on the stories from you and your dad, that sounds exactly like her.
+An: Right? They really took me back.
+An: When I think about her watching over us from up above, it makes me want to sing loud enough to reach the sky.
+Akito: Is that why you called us over?
+An: That's exactly right! Will you guys join me?
+Toya: Of course.
+Miku: Let's sing and make our song reach the sky.
+An: Thank you!
+An: You guys are also welcome to join in the fun too! Here we go!
+An: DAYBREAK FRONTLINE!
+
+
+2 [MUSIC] 253: DAYBREAK FRONTLINE
+
+3 [mc] mc_tanabata_2023_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku)
+An: Thanks for all the positive energy, everyone!
+Kohane: I hope Nagi heard us...
+Toya: I hope so too.
+An: Thank you for singing with me, you guys!
+Miku: It was our pleasure.
+Akito: By the way, don't you have decorations to put up?
+An: *Gasp*  Shoot! I better get back!
+Akito: Geez... Alright, we'll help you out.
+Kohane: Yeah!
+Toya: Yes!
+
+
+4 [mc] mc_tanabata_2023_3
+
+(Enter: Miku)
+(Enter: Luka)
+(Enter: Len)
+(Enter: KAITO)
+(Enter: MEIKO)
+(Enter: Rin)
+Rin: Welcome, everyone! You're just in time! Miku and the others will be performing the song I requested!
+Miku: Feel free to stick around and listen♪
+Luka: Alright, here we go.
+Miku: Time Machine!
+Rin: Time Machine!
+Len: Time Machine!
+Luka: Time Machine!
+MEIKO: Time Machine!
+KAITO: Time Machine!
+(Exit: Rin)
+
+
+5 [MUSIC] 8: Time Machine
+
+6 [mc] mc_tanabata_2023_4
+
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: Len)
+(Enter: KAITO)
+(Enter: Miku)
+(Enter: Rin)
+Rin: Wow... It's such a wonderful song, I could never get sick of hearing it. Thank you for performing it, you guys!
+KAITO: You're welcome.
+MEIKO: I was a little surprised when you requested this song, Rin.
+Len: Oh yeah, wasn't it because you heard it in some SEKAI?
+Rin: Yeah! I felt a wave of strong emotion for a special person and the desire for that song to reach them.
+Rin: And then... There was this feeling of sadness, heartache and warmth, which made me want to listen to that kind of song.
+KAITO: But, Rin. Are you okay with not singing it yourself?
+MEIKO: Oh, I asked the same thing. Then she got all teary-eyed and said that she couldn't do it–
+Rin: Ahhh! MEIKO!!! Shh, shh!
+Miku: So that's why you didn't perform with us...
+Luka: Those emotions you felt from that song you heard from that SEKAI must've been so strong for you to be this affected.
+Rin: It was. The song you sang was amazing, of course, but that song was also unforgettable.
+Rin: The feelings were loud and clear. They were practically screaming "I'm pushing on! Watch me!"
+Rin: I could tell that the people of that SEKAI are so determined and working unbelievably hard.
+Miku: And since today's the Star Festival, I'm sure those feelings are stronger than ever.
+Luka: Let's keep watching over them to see how those feelings will develop.
+Rin: Yeah!
+KAITO: I'm glad that everyone here seems to have enjoyed the show, despite it being so last minute.
+Luka: Me too. I think we're all glad that we did this.
+Miku: Thanks for coming to see us in SEKAI again, everyone!
+MEIKO: Since it's the Star Festival today, I hope you have a wonderful time gazing up at the stars while thinking of your loved ones!
+Len: See you next time!

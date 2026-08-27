@@ -1,0 +1,107 @@
+193 Rin's Anniversary Show 2023
+
+1 [mc] mc_bd_2022rin_1
+
+(Enter: Miku)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Rin)
+(Enter: Ena)
+(Enter: Mizuki)
+Miku: Oh...everyone's here.
+Mizuki: Oooh, you're right! Alright, shall we get celebrating?
+Ena: Sounds good. Okay, let's go on a count of three.
+Ena: You join in too, everyone. One, two, three...!
+Miku: "Happy anniversary, Rin!"
+Kanade: "Happy anniversary, Rin!"
+Mafuyu: "Happy anniversary, Rin!"
+Ena: "Happy anniversary, Rin!"
+Mizuki: "Happy anniversary, Rin!"
+Rin: Thank you...
+Rin: And thank you to all of you here too.
+Mafuyu: Now we just have to wait for Len.
+Kanade: Yeah. Luka and the others went to go find him before, so they'll probably be here soon.
+Mizuki: In that case, let's continue celebrating Rin while we wait! Is there anything you wanted us to do, Rin?
+Rin: Not really... Let me think about it.
+Rin: Why are you guys not saying anything?
+Ena: That's because you said you were going to think about it.
+Miku: Did you think of something?
+Rin: Hmm... Okay, a song.
+Mafuyu: Do you mean you want to sing?
+Rin: Yeah.
+Ena: Why not? Singing is usually a key part of celebrating.
+Kanade: You're right. How about we all sing together?
+Rin: Please listen to our song, everyone.
+Rin: Nomad.
+(Exit: Miku)
+
+
+2 [MUSIC] 189: Nomad
+
+3 [mc] mc_bd_2022rin_2
+
+(Enter: Miku)
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Rin)
+Miku: How was it, Rin?
+Rin: I thought I just sang how I usually do, but for some reason, my chest feels a little warm.
+Mizuki: Could it be because our thoughts and feelings of celebration came through?
+Kanade: I'd be glad if it did.
+Ena: Once again, happy anniversary, Rin. Looking forward to spending more time with you.
+Rin: I guess... As long as you're not too loud.
+Ena: Alright, alright. Dishonest as usual, I see.
+Mafuyu: Should you really be the one saying that?
+Ena: Huh?! What's that supposed to mean?!
+Miku: "Hehe." "Haha!"
+Kanade: "Hehe." "Haha!"
+Mizuki: "Hehe." "Haha!"
+
+
+4 [mc] mc_bd_2022rin_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+Rin: Hey everyone! Thank you for coming!
+Miku: Wow! Looks like everyone here is ready to wish you a happy anniversary, Rin!
+Luka: It seems so.
+Rin: Hehehe. In that case, maybe I'll just show everyone here just how much more mature I've become.
+Rin: Are you all ready, everyone? Let's go!
+Rin: Hitorinbo Envy!
+
+
+5 [MUSIC] 74: Hitorinbo Envy
+
+6 [mc] mc_bd_2022rin_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: MEIKO)
+(Enter: Luka)
+(Enter: KAITO)
+Len: Nice work, Rin! Just like you said, you came across really mature!
+KAITO: You did a great job getting the song's mood across. It was an amazing performance.
+MEIKO: I think so too!
+Rin: I know right? I practiced soooooo much just for today♪
+Rin: Hehe. You know you can shower me with more praise, by the way.
+Len: Haha. Now she's back to being a happy child.
+Rin: *Gasp* Oops!
+Miku: Now that we're in the swing of things, I think we have something to say.
+KAITO: You too, everyone. Ready... Go!
+Miku: "Happy anniversary, Rin!"
+Len: "Happy anniversary, Rin!"
+Luka: "Happy anniversary, Rin!"
+MEIKO: "Happy anniversary, Rin!"
+KAITO: "Happy anniversary, Rin!"
+Rin: Wow! Thank you everybody!
+Rin: It makes me so happy to receive all of these wishes and be able to perform for you all!
+Rin: It's also Len's anniversary too, so please do come to celebrate with us!
+Rin: Oh geez. You didn't have to tell them that.
+MEIKO: Oh, are you blushing?
+Len: N-No I'm not!
+KAITO: Anyway, we'll see you all again later!
+Rin: Please come! We'll be waiting!

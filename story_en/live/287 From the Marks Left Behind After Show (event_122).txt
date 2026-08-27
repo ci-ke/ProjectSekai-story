@@ -1,0 +1,86 @@
+287 From the Marks Left Behind After Show (event_122)
+
+1 [mc] mc_ev_idol_16_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Airi: Phew... We sure did move around today!
+Shizuku: Bringing our things to the MORE MORE HOUSE and working with everyone who brought our furniture over made for quite a busy day.
+Haruka: It was nice to see that the sofa and table we picked out didn't betray our expectations, though.
+Minori: Definitely! The rooms all turned out super nice, and I can't wait to show Miku and the others!
+(Enter: Miku)
+Miku: What are you all chatting about?
+Airi: Oh, right on cue.
+Minori: You gotta hear this, Miku! So, we finally got our furniture and the rest of our things into the MORE MORE HOUSE today!
+Shizuku: It was what you might call "moving house"... But not quite the same, so it's hard to describe it.
+Miku: I see! That means you all really have your own office now.
+Miku: I want to see it too... Can I drop in with Rin and the others?
+Airi: Oh, about that... We were hoping you could hold off just a little longer.
+Haruka: The furniture is all in, but we still haven't unpacked our things. So, all you'd see now is piles of cardboard boxes.
+Miku: Oh, right...! You still need to put everything into place.
+Miku: I'm excited to visit the MORE MORE HOUSE... But we can wait, so work at your own pace.
+Minori: Thanks, Miku! Still, we want you all to see it soon, so we'll have everything sorted out in a flash!
+Haruka: I'm pretty sure you had the most luggage, Minori...
+Minori: Th-That's because I kept finding cute accessories and all these plushies I want to have for our streams...!
+Minori: But it's fun thinking about where I'll put them, so I've been running simulations in my head since yesterday!
+Miku: Hehe. You've really been looking forward to the MORE MORE HOUSE, Minori.
+Minori: Yeah! I've been so full of excitement...
+Minori: And I think I want to sing about it!
+Airi: Th-That was sudden...
+Shizuku: But I know how you feel, Minori.
+Shizuku: After all, it feels as though MORE MORE JUMP! has taken another step forward by establishing our home base.
+Haruka: Should we sing one song together, then?
+Miku: May I join? I'd like to feel this excitement with all of you.
+Minori: Yeah, we'd love for you to join! Okay, here goes...
+Minori: JUMPIN' OVER !
+
+
+2 [MUSIC] 422: JUMPIN' OVER !
+
+3 [mc] mc_ev_idol_16_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+Minori: That was sooo much fun! Did you feel what I'm feeling?!
+Haruka: Hehe. It came across very clearly singing with you.
+Miku: Yeah! You seemed so excited and full of anticipation... Now I'm even more eager to visit the MORE MORE HOUSE!
+Minori: Hehehe, I'm glad♪
+Miku: Also... I think some of what you felt about the practice room was mixed in.
+Miku: The excitement and anticipation you have towards practicing there... I'm pretty sure that was part of it.
+Minori: W-Wow... You're amazing, Miku. Figuring me out just from my singing...!
+Shizuku: You really have taken a liking to that room, Minori.
+Haruka: It has a real personality to it, that's for certain. Just being there makes you feel focused and energized somehow.
+Airi: Well, it's not so strange. Supposedly, "people who can make their dreams come true" have worked themselves to the bone there.
+Airi: Looking at it that way, I really feel like I need to do my best as one of the new tenants.
+Minori: Me too. I felt like we got lucky to be able to rent that place...
+Minori: But the landlady is lending it to us because she thinks we can make our dreams come true.
+Minori: So, we've gotta work harder and harder to live up to that!
+Haruka: Right. Let's keep focused and do our best!
+Miku: Hehe. You're all very motivated.
+Miku: Seeing that, I feel like I need to work harder too... Maybe I should head back for some dance practice soon.
+Haruka: Oh, now that you mention it, it's already this late.
+Shizuku: We should be heading back as well. We have another meeting first thing in the morning.
+Minori: And it'll be at the MORE MORE HOUSE! I sure hope tomorrow comes quick♪
+Airi: Talk about easy to please...
+Haruka: Don't forget you also need to unpack when tomorrow comes, okay?
+Minori: Oh... R-Right...
+Minori: But I'll do my best! I want Miku and the others to come see it soon!
+Minori: Not to mention everyone else who cheers us on! I want them to see the MORE MORE HOUSE in its full, spick-and-span glory!
+Haruka: Hehe, of course.
+Airi: It could be fun to put together a room tour. And to make it more interesting, we could come up with some... Wait.
+Airi: If we get started on this, it'll probably take a while. Let's discuss again tomorrow!
+Miku: I'll be looking forward to your room tour too.
+Shizuku: Please do! Once we've decided on the specifics, we'll let you all know.
+Airi: Okay everyone, this is goodbye for today!
+Minori: Stay excited for our new home base and the next steps we take from there!
+Haruka: Okay, ready? All together now...
+Minori: Bye bye!
+Haruka: Bye bye!
+Airi: Bye bye!
+Shizuku: Bye bye!
+Miku: Bye bye!

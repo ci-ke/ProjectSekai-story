@@ -1,0 +1,107 @@
+107 Putting Feelings Into Words After Show (event_40)
+
+1 [mc] mc_ev_band_06_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: MEIKO)
+Rin: Yaaay!!
+Rin: Hey, Miku-P! How was my performance just now?!
+Miku: It was really good. You looked like you were having a lot of fun throughout the whole thing.
+Rin: Really?! Yay!!
+Len: Good work, Rin.
+Rin: Yeah! I couldn't have done it without you helping me out with practice, Len! Thank you!
+Miku: But, what brought all of this on? I was kind of surprised when you suddenly declared that you wanted to perform for me.
+Rin: Miku-P, you've always been taking the time to watch over everyone in SEKAI, right?
+Rin: I think it's amazing that even after Ichi and the girls go home, you're still working hard and practicing every day!
+Rin: That's why I wanted to put a smile on your face by performing for you, and show that we appreciate everything you've done for us!
+Miku: Rin...
+MEIKO: Hehe. What a thoughtful friend you have there.
+Miku: Yes... Well, if you feel that strongly about me, then would you at least refer to me with something other than Miku-P?
+Rin: Whaaaat? No way! Besides Miku-P is Miku-P☆
+Miku: What does that even mean...
+Rin: Hehe♪ Oh, I'm running late for my session with KAITO!
+Rin: I've gotta hurry!
+Miku: A session, huh? Sounds interesting. I think I'll go too.
+MEIKO: Have fun, you two.
+(Exit: Rin)
+Len: Oh geez... Well, there were a lot of things that happened, but I'm glad everything worked out in the end.
+Len: I wonder how Honami and the girls are doing, I mean...
+(Exit: Miku)
+MEIKO: I don't think you need to worry about them. Those girls have a strong bond, so I'm sure they'll be fine.
+Len: I see... You're probably right.
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Honami: MEIKO, Len!
+Honami: I see this is where you've been.
+MEIKO: Oh, sorry. Were you looking for us?
+Ichika: Not for long. We asked Miku and the others, and they told us you two were on the rooftop.
+Saki: I'm glad we were able to find you quick!
+Len: So, what's up?
+Honami: Oh, we came to tell you that we managed to finish our new song, and... Also thank you for helping us that time.
+Len: Oh, it's finished? You girls did put your heart and soul into making it.
+Saki: We sure did! And we performed it perfectly at the live show too!
+Shiho: Yup. That was all thanks to Ichika, Saki, and of course, you too, Honami.
+MEIKO: Judging by how the two of you are now, I see that you've worked things out.
+Ichika: Worked things out?
+Honami: Oh, um, it's nothing to worry about. MEIKO, if you could please keep that between us...
+MEIKO: Oh, that's right. Sorry.
+Len: But, it seems like you girls have already overcome your hardship. Kind of like you've accomplished one thing and are already moving on to the next.
+Shiho: Yeah, I think it was thanks to all of that. Not to mention, the audience's reactions to the show were pretty positive too.
+Len: I see...
+Len: Hey, you wanna try doing a session together now?
+Honami: Huh? With you, Len?
+Len: Yeah, especially since you're all looking much better than before, it kind of makes me want to play with you girls.
+Honami: Hmmm... Count me in. I'd love to play with everyone too.
+Shiho: Well, sounds pretty good to me.
+Saki: Let's do it!
+MEIKO: Hehe. Alright, then I shall be in the audience listening to you all play.
+Ichika: Okay. Alright, here we go. STAGE OF SEKAI!
+
+
+2 [MUSIC] 159: STAGE OF SEKAI
+
+3 [mc] mc_ev_band_06_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Len)
+(Enter: MEIKO)
+Honami: Thank you for listening, everyone!
+Honami: I feel like we were able to put on a good performance. I wonder if we've at least improved a little after all that practicing.
+Saki: I know we definitely did! This is our growth period after all♪
+Shiho: Growth period isn't quite... Well, I guess it technically is in terms of music.
+Saki: Told you so! I'm not going to stop improving so please keep the compliments coming♪
+Shiho: Alright, alright.
+Ichika: "Hehe..."
+Honami: "Hehe..."
+Len: I guess MEIKO was right about you girls. The bond you have together really is strong.
+Honami: That's true... We are aiming to go pro after all.
+Honami: And if any of you are having a hard time with something, I'm... I'm going to be there to support you.
+Shiho: Honami...
+Saki: I'll be right there with you supporting everyone too, Hona!
+Ichika: M-Me too!
+Len: Haha! With all this supporting, it's going to be a lot less likely for any of you to fall.
+Shiho: Hehe... That's true.
+Shiho: You guys, on top of selling tickets, there's going to be some tough times ahead of us, but...
+Shiho: Let's work, play and perform harder at practice and shows more than we ever have before.
+Ichika: "Yeah!"
+Saki: "Yeah!"
+Honami: "Yeah!"
+Honami: What did you all think about our performance today, everyone?
+Honami: Maybe it's because we played somewhere different than usual, but I have a feeling that we were able to show you all our new and improved selves.
+Honami: From here onward, with everyone in Leo/need, I want to continue working together, supporting one another, and... Confronting each other when necessary...
+Honami: And through this, I want to keep moving forward together.
+Honami: So, it would make me really happy if you could all be there to continue supporting us.
+Honami: Hehe, thank you!
+MEIKO: Well then, shall we all head over to see how KAITO and the others' session is going?
+Saki: A session?! I wanna see!
+Len: Miku said that she was going to join Rin and KAITO, so maybe I'll just jump in and join them too.
+Honami: Hehe, then let's all go!
+Ichika: "Yeah!"
+Saki: "Yeah!"

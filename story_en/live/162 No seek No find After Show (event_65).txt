@@ -1,0 +1,93 @@
+162 No seek No find After Show (event_65)
+
+1 [mc] mc_ev_band_09_1
+
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Ichika)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Len)
+Ichika: Thanks for waiting, you two.
+Saki: Oh, Ichi! Shiho! Were you two together with Miku and Len?
+Shiho: We just happened to bump into each other in the hallway.
+Len: When we heard that you girls were gonna practice, we couldn't help but want to hear you play.
+Saki: Hurray! You're more than welcome to♪
+Honami: We'll need to practice as much as we can until our upcoming show too.
+Miku: Sounds good. You girls have a month until your next show, right?
+Ichika: Yes. Our new song is something we've never done before, so we want to get in as much practice as we can.
+Len: That's right. Your new song is completely different from what you usually play, isn't it?
+Miku: Yeah. I really like all of the songs you've played up until now but I think this new song has a nice and different flair to it.
+Saki: Really?!
+Miku: Yeah. If you're able to write something like this, I think you have a lot of potential, Saki.
+Len: When I heard the finished product, I thought, "This is amazing."
+Len: That's when I realized this song definitely has the power to capture the hearts of that live house's audience!
+Saki: Wow, yay! I got both of your seals of approval♪
+Honami: Hehe. Good work, Saki.
+Shiho: But, we also feel the same way.
+Shiho: We want to play this song you created with everything we've got and have it reach the audience.
+Shiho: That's why we've got to buckle down and refine it.
+Ichika: You're right.
+Ichika: Hey, everyone... Before we start practice, do you all want to sing a song?
+Saki: Sounds good! Kind of like a warm-up, right? I'm in!
+Miku: Alright, I'll join. I just so happen to feel like playing too.
+Saki: Thanks, Miku!
+Saki: Oh, that's right! There's a song I'd like to play, if that's okay with you guys?
+Ichika: Of course!
+Honami: You worked so hard to write our new song too.
+Saki: Hehe, thanks, everyone!
+Saki: Since we're all here, I wanna express these current feelings with everything I have to all of you! I hope you enjoy it.
+Saki: Let's do it! Stella!
+
+
+2 [MUSIC] 64: Stella
+
+3 [mc] mc_ev_band_09_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Len)
+Saki: *Sigh* That felt so good!
+Miku: All of us were so in sync that I think we performed really well.
+Len: Yeah. And I think your feeling of resolve really came through too, Saki.
+Saki: Haha. It's kind of embarrassing hearing that...
+Saki: But this new song is a result of lots and lots of thought and consideration, so I'm super happy with it.
+Saki: If this song does well with the audience at our next show, I'll probably cry with happiness!
+Honami: Hehe. I understand how you feel, Saki.
+Honami: I also can't wait for people to hear this new song you worked so hard to write.
+Shiho: Same here.
+Saki: It makes me so happy to hear that. But I don't think of this song as just my own.
+Honami: Huh?
+Ichika: What do you mean?
+Saki: I mean exactly that! My image for this song also has all of you.
+Saki: When I was all alone, you were all there to take my hand.
+Saki: I put the feelings I had at that time into the song so I wouldn't have been able to make this song without all of you.
+Honami: I didn't realize that...
+Shiho: This is my first time hearing that too.
+Saki: W-Well I thought it'd be a little weird to just say it for the sake of it, so...
+Saki: Oh, also! When I was working on the song, you girls sent me messages and made me a snack, right?
+Saki: I was actually really stuck around the last part but thanks to all of you, I was able to get through it and finish the song!
+Saki: That's why this song isn't something that only I made, it's a really precious song made from all of our thoughts and feelings!
+Miku: I see.
+Len: I get it. I find that this song gives off that kind of warmth.
+Shiho: Yeah. It does. Your feelings really do come through in the song, Saki...
+Shiho: That's why we have make to sure we do it justice at our next show.
+Ichika: "Yes!"
+Honami: "Yes!"
+Ichika: I think this song will definitely move the audience's hearts if we pull it off.
+Ichika: So there's only one thing we can do right now.
+Honami: Practice, right? Let's do our best!
+Shiho: Agreed. If not, then we won't be able to prove them wrong.
+Honami: What?
+Shiho: Alright, that's it for warm-ups.
+Shiho: Let's get right into practice.
+Saki: Yeah! I'm ready to take on your super intense training program again, Shiho!
+Miku: Can we also tag along and listen?
+Saki: Of course! You're more than welcome!
+Saki: Alright, let's do our best and practice hard for our next show!
+Ichika: "Yeah!"
+Honami: "Yeah!"
+Shiho: "Yeah!"

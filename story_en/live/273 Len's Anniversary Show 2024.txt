@@ -1,0 +1,104 @@
+273 Len's Anniversary Show 2024
+
+1 [mc] mc_bd_2023len_1
+
+(Enter: Len)
+Len: Welcome, everyone! Are you all here to celebrate my anniversary with me?
+Len: Wow! Thank you! That makes me so happy!
+Len: I had a feeling that you'd be coming over, so I wanted to sing a song for you guys—
+Len: Ah, b-but actually...!
+Len: I do want to sing, but... The thing is, I'm having trouble deciding on a song.
+Len: Oh, I know! I bet the SEKAI versions of me are preparing to perform too.
+Len: I need some more time to decide, so let's go take a quick peek together!
+(Exit: Len)
+
+
+2 [mc] mc_bd_2023len_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+Len: Alright! I guess we're all ready to go!
+Kohane: Hehe. You're in high spirits today, Len. Is it because it's your anniversary?
+Len: There is that, but the main reason is a little different.
+An: Really? There's a reason that's more important than your anniversary?
+Len: Yup! That's why I want you to sing your lungs out with me!
+Toya: We weren't planning to do otherwise.
+Akito: We always bring our A-game when it comes to singing.
+An: Yeah! Doing things half-heartedly just isn't our style!
+Len: Ahaha! That's true!
+Len: Alright, here we go!
+Len: Flyer!
+
+
+3 [MUSIC] 182: Flyer!
+
+4 [mc] mc_bd_2023len_3
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
+Len: Whew! Singing with you guys is the best! I knew I could count on you!
+Toya: I'm glad to hear that you had fun.
+Akito: So, what's got you so hyped up? You can tell us now, don't you think?
+Len: You've all been practicing so hard lately to surpass RAD WEEKEND.
+Len: Every time you tell me about it, I think how amazing you guys are, and I want to cheer you on!
+Len: But at the same time, I don't want to fall behind you guys either!
+Len: That's why I wanted to express my determination with a song that perfectly describes those feelings.
+Kohane: So that's why...! That's such a wonderful reason.
+An: You're so cool, Len!
+Len: Really?!
+Toya: I felt as if something were pushing me forward as we sang... It must've been those feelings, Len.
+Akito: Thanks, Len. After hearing all that, I feel inspired to work even harder.
+Len: You're welcome! While they get the party ready, wanna get Rin over here to sing some more?
+An: I like the sound of that! Let's do it!
+
+
+5 [mc] mc_bd_2023len_4
+
+(Enter: Len)
+Len: I'm so glad I went to take a peek at SEKAI! I feel so inspired now!
+Len: Now I've had a lot more time to think, I've decided on a song.
+Len: At first I wanted to do something flashy since it was my anniversary, but...
+Len: I realized what's important is the feelings you put into the song!
+Len: So, here it is! Becoming Pigs Yeah Yeah.
+
+
+6 [MUSIC] 325: Becoming Pigs Yeah Yeah
+
+7 [mc] mc_bd_2023len_5
+
+(Enter: Len)
+Len: Ahh! It felt so good to sing that!
+Len: How was it for all of you?
+Len: Oh, looks like you had a great time! I'm glad to hear that!
+(Enter: Rin)
+(Enter: Miku)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Oh, Len! You just went to SEKAI, but you're already back!
+MEIKO: I guess that means we can finally celebrate.
+Len: Wait, were you guys waiting for me?
+KAITO: No, it's fine. We were busy preparing for the party.
+Luka: Everyone, are you ready to wish Len a happy anniversary?
+Miku: Seems so. Alright, here we go!
+Miku: Happy anniversary, Len!
+Rin: Happy anniversary!
+Luka: Happy anniversary!
+MEIKO: Happy anniversary!
+KAITO: Happy anniversary!
+Len: Thank you, you guys!
+Len: And thank you for coming too, everyone!
+Len: I got to check out SEKAI with everyone, I got to hear that version of me sing...
+Len: I don't think I could ask for more.
+Luka: Hehe. And you even have a party after this.
+Len: Exactly! It already can't get any better than this, but there's still a party later!
+Len: Anniversaries really are the best!
+Len: Hey, everyone! Once again, thank you for coming to celebrate my anniversary!
+Len: I'm not about to lose to the SEKAI versions of me, so look forward to me bringing you more and more songs!
+Len: Alright, see you next time!

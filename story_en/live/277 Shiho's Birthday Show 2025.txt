@@ -1,0 +1,70 @@
+277 Shiho's Birthday Show 2025
+
+1 [mc] mc_bd_2024shiho_1
+
+(Enter: Shiho)
+(Enter: Rin)
+Rin: Thanks for coming, Shih!
+Shiho: I should be thanking you. I didn't expect you guys to put on a whole show for me.
+Rin: Hehehe♪ I hope you're excited for your special birthday show!
+Rin: We've been practicing super hard! Miku-P, Ichi and everyone are rehearsing right now!
+Shiho: I'm grateful and all, but aren't you guys getting carried away? You made actual tickets...
+Rin: Well we figured, with stuff like this, you gotta pay attention to detail♪
+Shiho: Yeah, but going as far as including a fake drink voucher?
+Rin: Hehe, it's real! We set up a juice bar you can use it at!
+Shiho: Oh, so that's why the others went to buy juice before we came.
+Rin: Exactamundo!
+Shiho: Wait, don't you need to join that rehearsal?
+Rin: Nope! Anyway, I couldn't leave you waiting here on your lonesome!
+Shiho: I mean, I wouldn't feel lonely...
+Shiho: But still, thanks.
+Rin: You're welcome!
+Rin: Speaking of which, have you noticed? All these people came to celebrate with you!
+Shiho: Huh?
+Shiho: So many people...
+Rin: Looks like everyone loves you, Shih♪
+Rin: Hey, what if we secretly said happy birthday now, without the others?!
+Shiho: Well, I do feel bad keeping them waiting.
+Rin: Hehehe, then here we go!
+Rin: Three, two, one! Happy birthday, Shih!
+Shiho: Thank you. I'm a little embarrassed... But I'm grateful.
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+Saki: We're done rehearsing guys! Wait, what? It's like a party in here!
+Rin: All these people were helping me shower Shih with birthday wishes!
+Honami: Oh, really? That's great, Shiho!
+Shiho: Yeah. But, I always give back when I receive. So, would you guys join me for another song?
+Ichika: Huh? What do you mean?
+Shiho: A musician has to repay people with their art.
+Ichika: Hehe, got it. I'm good whenever.
+Saki: Same here! That rehearsal got my fingers nicely warmed up.
+Shiho: Let's do this then. Voices!
+
+
+2 [MUSIC] 236: Voices
+
+3 [mc] mc_bd_2024shiho_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
+Saki: Thanks for the love, everyone!
+Honami: You played so well, Shiho.
+Shiho: I had to give it everything if I was gonna repay everyone for my birthday wishes.
+Shiho: Really, thanks everyone. For coming today, and for always supporting me.
+Shiho: Whenever I'm on stage, I think of what feelings or messages I want to put into my playing.
+Shiho: But I wouldn't do that if I didn't have all of you on the receiving end.
+Shiho: You, our audience, are the reason we can play with everything we've got.
+Shiho: So... Honestly, thank you for supporting me and all of us in Leo/need.
+Shiho: We're not done getting better. So... I hope you come listen to us again.
+Rin: Alriiight, now we're all warmed up, let's pull out the stops for the special show!
+Rin: Especially 'cause I have a solo! Let's go!
+(Exit: Rin)
+(Exit: Saki)
+Shiho: Huh, Rin's got a solo. Can't wait to hear it.
+(Exit: Ichika)
+(Exit: Honami)
+(Exit: Shiho)

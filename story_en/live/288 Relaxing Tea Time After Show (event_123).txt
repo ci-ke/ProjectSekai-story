@@ -1,0 +1,83 @@
+288 Relaxing Tea Time After Show (event_123)
+
+1 [MUSIC] 75: Tale of the Deep-sea Lily
+
+2 [mc] mc_ev_shuffle_43_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Miku: Whew! Girls, you were great just now.
+Saki: Woohoo!
+Honami: It's all thanks to Ichika and Ms. Yoisaki.
+Miku: Really? Why?
+Shiho: Ichika and her friend held a tea party for everyone.
+Saki: Yeah! We all went to have tea in the park. It was so fun!
+Honami: It was such a breath of fresh air.
+Ichika: You've all been working so hard lately... I wanted you to relax.
+Miku: I see. That must be why you played with extra energy today.
+Honami: I think so! And Ichika even chose a different tea for each of us.
+Ichika: That was Kanade's idea, not mine. But I'm glad you all liked them.
+Shiho: I was really impressed. And it was just the type I like.
+Saki: Yup! Thanks to Ichi's special tea, my throat's in peak condition♪
+Ichika: Your tea has cloves and orange in it, which are supposed to work wonders for your throat.
+Shiho: Mine is a focus-boosting herbal tea, right? I definitely noticed a difference.
+Ichika: Yours is a mate-ginger blend, if I remember right. I thought it would help you recharge.
+Miku: Those are wonderful presents Ichika, and very on-brand for you. I'm kind of jealous.
+Ichika: Hehe, it'll be your turn soon.
+Miku: What?
+Honami: I brought some sweets as well, so let's all enjoy them together.
+Saki: Hehehe, time for Tea Party: Round 2!
+Miku: Thank you, girls. Rin and the others will be pleased.
+Ichika: I'm glad to hear it. Do we want to go look for them?
+Saki: Yup, let's go!
+(Exit: Ichika)
+(Exit: Saki)
+(Exit: Shiho)
+(Exit: Honami)
+(Exit: Miku)
+
+
+3 [MUSIC] 218: Meru
+
+4 [mc] mc_ev_shuffle_43_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Miku)
+Miku: Thank you for singing with me, you two.
+Kanade: It's okay. I needed a break anyway. Thank you, Miku.
+Miku: You're welcome.
+Miku: I don't know why, but you two seemed to sing differently today.
+Kanade: Do you think so?
+Mafuyu: I agree. You sounded slightly different. Have you changed somehow, Kanade?
+Kanade: No, not really... I wonder why you think that.
+Miku: Have you done anything out of the ordinary?
+Kanade: Out of the ordinary...
+Mafuyu: What about the tea party?
+Kanade: Oh yeah... I held a tea party. I think everyone got to relax, but I'm the same old me, I guess.
+Miku: I don't think that's true.
+Miku: I think that tea party must have changed something in both of you.
+Kanade: I wonder...
+Miku: I don't know for sure, but... I think it influenced your singing.
+Mafuyu: ...
+Mafuyu: I felt more at ease at the tea party than I was expecting.
+Mafuyu: But I don't know if that influenced how I sang...
+Kanade: Mafuyu...
+Miku: Good for you, Kanade.
+Kanade: Yeah. Thanks, Miku.
+Kanade: I'm glad I could help you and everyone relax, Mafuyu, even if just for a while.
+Kanade: Oh. Maybe that feeling influenced my singing?
+Miku: Maybe it did.
+Kanade: If it did, I'm glad.
+Mafuyu: You've gotten better at making tea, Kanade.
+Miku: Really? I'd like to try some tea made by you.
+Kanade: Oh... Then, I'll make some next time I'm here. Though I don't know how good it will be...
+Miku: Don't worry. I'm looking forward to it.
+Kanade: Got it.
+Kanade: Well then, I think we'll head home now.
+Kanade: Thank you all for stopping by. I hope you come listen to us again.
+Kanade: See you.
+Miku: Bye bye.

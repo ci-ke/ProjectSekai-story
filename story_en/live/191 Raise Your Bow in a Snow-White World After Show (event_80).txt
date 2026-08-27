@@ -1,0 +1,105 @@
+191 Raise Your Bow in a Snow-White World After Show (event_80)
+
+1 [mc] mc_ev_shuffle_26_1
+
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mizuki: *Sigh* It was so cold today, right? I couldn't get out of bed this morning.
+Ena: You're never out of bed that early anyway... You're not wrong about the weather though. It snowed and everything.
+Miku: Really...? Kanade, aren't your legs cold?
+Kanade: Hm? No, it's okay. I cover up with a blanket when I'm in my room.
+Ena: Really? At this time of year you should really layer up, like with leg warmers.
+Mizuki: Yeah! They just started selling some adorable ones at the store I work at. I might just get you a pair♪
+Kanade: Y-You don't need to go to so much trouble...! Oh...
+(Enter: Mafuyu)
+Mafuyu: Sorry for the wait.
+Kanade: Not at all. We just got here too... Huh?
+Miku: Mafuyu... You seem...happy today.
+Mafuyu: Huh...? Do I?
+Mizuki: Did something happen?
+Mafuyu: ... Not exactly.
+Mafuyu: Just that Hinomori and I had a contest at archery club.
+Mizuki: What? You and Shizuku? Who won?
+Mafuyu: It was a draw...
+Ena: A draw? So you didn't win?
+Mafuyu: No. But...that wasn't a bad thing.
+Kanade: Hehe... I see. I don't know exactly what happened, but if you're okay with it, that's all I need to know.
+Mafuyu: So... I sort of want to sing today.
+Mizuki: Ooh, nice! Then let's all sing together!
+Miku: Yes, let's.
+Mafuyu: ... Non-breath oblige.
+
+
+2 [MUSIC] 268: Non-breath oblige
+
+3 [mc] mc_ev_shuffle_26_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mafuyu: It's funny... It snowed today, but...
+Mafuyu: I don't feel...so cold.
+
+
+4 [mc] mc_ev_shuffle_26_3
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: KAITO)
+Shizuku: I'm sorry I'm late, everyone!
+Minori: Oh, Shizuku! Good evening!
+Haruka: I'm sorry to ask for such a short-notice meeting about our stream at this hour. Did you have any trouble?
+Shizuku: No, everyone's already asleep, so it should be fine.
+Airi: That worked out well!
+KAITO: Actually everyone, could I say something before you have your meeting?
+KAITO: With a bit of advice from Shizuku, we tried altering some of our costumes... And now they're ready.
+Shizuku: Wow, really? That's good to hear...!
+Miku: Yeah! We wanted to say thank you as soon as we could!
+Airi: Wow, I had no idea you were talking about that.
+Minori: I can't wait to see the outfits that you altered!
+Miku: Hehe. You'll have to hold on until our next show♪
+Shizuku: Actually, I also want to thank you two.
+Shizuku: Thanks to you, I was able to express my feelings.
+KAITO: Oh? That's great!
+Airi: Your feelings? What do you mean?
+Shizuku: Um... I owe Asahina a lot for her help with archery club, going way back. But I've never had the chance to express my gratitude to her.
+Shizuku: Until today, that is. I expressed my feelings, and... She made me feel so validated.
+Shizuku: That made me so happy!
+Haruka: Hehe, I see.
+Shizuku: KAITO, thank you for encouraging me to express myself.
+Shizuku: If you hadn't, I think I'd still be turning it over in my head.
+KAITO: Don't mention it. I'm just happy I was able to help you.
+Shizuku: Hey, everyone. Would you mind if I sang a little before our meeting?
+Shizuku: I...really feel like singing right now.
+Airi: In that case, I'll join you, Shizuku! What's good for you is good for us, right!
+Miku: Yeah! Let's sing together, Shizuku!
+Shizuku: Well then, let's sing! Melty Land Nightmare!
+(Exit: KAITO)
+
+
+5 [MUSIC] 70: Melty Land Nightmare
+
+6 [mc] mc_ev_shuffle_26_4
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: KAITO)
+Shizuku: Thank you, everyone! I want to keep becoming a better and better idol!
+Shizuku: That way, I can be there to show support for you all.
+Miku: Hey, KAITO. Isn't there something cooler than usual about Shizuku?
+KAITO: You're right. Maybe expressing her feelings helped her see something new.
+Shizuku: Oh, sorry to keep everyone waiting. Alright, should we begin our meeting?
+Airi: Yes! We've gotta go all out to be ready for tomorrow's stream.
+Haruka: Yes, let's give it our best to make sure everyone has a great time.
+Minori: Yeah!
+Shizuku: Hehehe... Yeah!

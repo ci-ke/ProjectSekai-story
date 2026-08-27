@@ -1,0 +1,68 @@
+8 Haruka's Birthday Show 2021
+
+1 [mc] mc_bd_haruka01_1
+
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Shizuku: Okay, let's try it one more time.
+Minori: 1, 2, 3...
+Minori: Haruka!
+Airi: "Happy birthday!"
+Shizuku: "Happy birthday!"
+Rin: Hey!
+Rin: You all finally came! We've been waiting for you, you know!
+Minori: So, just remember to say it after I count to three!
+Airi: Hey, I think she's here!
+(Enter: Haruka)
+Haruka: Minori, sorry I'm late! Homeroom session just kept dragging on and on...
+Haruka: Huh? What... Where is she?
+Haruka: She told me she wanted to practice here with me today. Did I get the location wrong?
+Minori: 1, 2, 3!
+Minori: Haruka!
+Minori: "Happy birthday!"
+Airi: "Happy birthday!"
+Shizuku: "Happy birthday!"
+Haruka: Huh?! You guys!
+Haruka: Oh. It's my birthday. Thank you for remembering. I wasn't expecting a surprise celebration, though.
+Airi: Come on, we're in the same group now, aren't we? It's only right for us to do this!
+Shizuku: Minori was the one who suggested a surprise celebration, and we've all been making preparations secretly.
+Minori: Yup! And we're going to perform for Haruka today!
+Minori: Remember that song you gave me advice on the other day? I've been practicing it with Miku!
+Haruka: Minori... Thank you.
+Haruka: But can I join you guys?
+Minori: You want to join us?
+Haruka: I'm only able to stand on the stage like this today because you gave me a helping hand.
+Haruka: So I'd love to sing with you today. Especially today.
+Minori: Haruka! Yes, let's sing together! No, let me rephrase that. Please allow me the honor of singing together with you!
+Miku: Hehe. So that means the three of us! Time to sing, Minori! Haruka!
+Minori: Are you ready? Then let's go!
+
+
+2 [MUSIC] 73: Near
+
+3 [mc] mc_bd_haruka01_2
+
+(Enter: Haruka)
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Rin: All of you sounded great, I was moved to tears!
+Haruka: Thank you. I never thought I'd ever be able to perform on stage during my birthday again.
+Haruka: So thank you, everyone, for helping me make a comeback as an idol. I hope we can keep singing together for a long time to come.
+Minori: Of course! We'll work hard to make that happen! Oh, and we have one more present for you...
+Shizuku: Yes, we have a cake, actually. Haruka, you like sweets, right? Shall we eat it together?
+Airi: I know you usually refrain from food like this, but at least pamper yourself a little on your birthday.
+Haruka: Hehe, you're right. I'll eat all the cake I can take today.
+Minori: I'll cut the cake! Wait, we should pass out the party poppers before that!
+Rin: We're going to pop some confetti together? That sounds fun! Give me a popper too!
+Miku: I'll have one too! Let's pop them all together on three!
+Minori: Okay, 1, 2, 3!
+Haruka: Hehe. Thank you, everyone.
+Haruka: I enjoyed myself very much. Thank you.
+Haruka: Please...
+Haruka: Please give Haruka Kiritani from MORE MORE JUMP! your support, now and forever♪

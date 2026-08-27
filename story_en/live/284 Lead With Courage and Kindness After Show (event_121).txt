@@ -1,0 +1,86 @@
+284 Lead With Courage and Kindness After Show (event_121)
+
+1 [mc] mc_ev_band_16_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: Nice work, girls. That performance was incredible!
+KAITO: The president and Mr. Shindo both seemed satisfied... I'm glad.
+Saki: Me too! I was nervous, but I feel relieved after putting on a good performance.
+Honami: And we appreciate you and everyone cheering us on, KAITO.
+KAITO: Of course...
+MEIKO: Still, it really felt like you all stepped up your game for today's performance.
+KAITO: It did... You were able to balance your strong feelings with your cohesion as a band.
+Shiho: Balance... Yes, you're right.
+Shiho: Without thinking, I just knew how to play and what feelings to play with.
+Saki: Same here! That's gotta be thanks to Hona, right?
+Ichika: I agree.
+Ichika: I could feel Honami's sound leading everyone to push me forward...
+Honami: Ichika...
+MEIKO: It looks like you managed to make music that could guide everyone.
+Honami: It seems so! I'm glad I could make use of my training.
+Honami: But it's because of all of you that I was able to work so hard.
+Saki: Because of us?
+Honami: Yes. I kept thinking of one thing during it all: how it would help me support you all better.
+Honami: And that's important to me because I know how hard you always work to move people's hearts with our music.
+Honami: You all try your hardest, so I want to do the same. It's because I have you that I could perform that well.
+Ichika: Honami...
+Honami: Also, when I was worrying about how I couldn't decide what to aspire to... You were all looking out for me.
+Honami: Thanks to that, I was able to realize that I want to help you make your aspirations a reality...
+Honami: And I came to the decision to be Leo/need's leader because of that feeling.
+Honami: You were all supporting me the whole time.
+Honami: So, truly... Thank you!
+Saki: Honaaa, I should be thanking you for everything you do!
+Honami: Hehe. Oh, Saki.
+Shiho: Sheesh...
+Ichika: Still, I know how she feels.
+Ichika: We'll be counting on you, Honami, both as our drummer and as our leader.
+Honami: Of course!
+MEIKO: She really does keep growing...
+KAITO: Yeah. Not just supporting, but also leading...
+KAITO: Honami will keep leading everyone forward in the days to come, I'm sure.
+MEIKO: Right... You can do it, Honami.
+Saki: Hey guys! Why don't we do another song?
+Saki: For some reason, I'm really itching to go!
+Shiho: Nice, I'm in.
+MEIKO: Hehe, that sounds good. Besides...
+MEIKO: I think everyone here wants to hear you play, Leo/need.
+Saki: Oh, you're all here! Thanks for coming!
+Ichika: Then let's have them all hear how we sound now.
+KAITO: Can I join, then?
+MEIKO: Oh, have you been itching to perform?
+KAITO: Yeah...
+Honami: Hehe. Then, we're happy to have you. Let's put on a good performance.
+Saki: Alright, let's get set up... Oh, right! I'm gonna play a bit different from usual today, so keep an ear out!
+Honami: I'll do my very best to ensure you know how I feel right now.
+Honami: Okay... Here we go.
+Honami: Regulus!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 423: Regulus
+
+3 [mc] mc_ev_band_16_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
+(Enter: KAITO)
+Shiho: Yeah... That felt good.
+MEIKO: Nice work! That was an incredible performance. And you were pretty into it, right KAITO?
+KAITO: I think it was because of how Honami played. Her passion was clear through her drumming.
+KAITO: It was a great sound, and I could feel your resolve in it.
+Honami: Thank you, KAITO.
+Honami: Still, resolve... I suppose you're right.
+Honami: To help make everyone's hopes a reality, I will keep not only supporting, but leading everyone.
+Honami: I'm sure I'm still lacking as a leader...
+Honami: But I hope you'll all be so kind as to continue watching over me.
+Honami: Thank you!
+Saki: Okay everybody, we'll see you again!
+Honami: Bye bye!

@@ -1,0 +1,98 @@
+190 Find A Way Out After Show (event_79)
+
+1 [mc] mc_ev_street_11_1
+
+(Enter: An)
+(Enter: Akito)
+(Enter: MEIKO)
+Akito: Well, that wasn't bad.
+An: Yeah, it was pretty good considering we were freestyling, don't you think?
+MEIKO: Yes, you two were great. Thanks for letting me listen.
+Akito: It's fine. This was nothing after all.
+MEIKO: Hehe. Well, thank you all the same. But wow, the two of you are completely in sync!
+An: Oh? Is that so...?
+Akito: What's with the dissatisfied tone? If anyone should be saying that, it's me.
+Akito: Though, we've practiced every day since forming the team, so of course we're in sync.
+An: That's right. Plus, I've been watching you sing at one time or another ever since junior high.
+MEIKO: Yes, I guess you must have crossed paths if you were both singing in the same neighborhood.
+An: Yeah. Not to mention his voice was so loud you could hear him the next street over.
+An: Everywhere I went I could hear that powerful singing. And sometimes, I'd feel motivated by it.
+Akito: Shiraishi...
+An: With a reeeaaally big emphasis on the "sometimes"!
+Akito: What?!
+MEIKO: Hehe. You two sure are close.
+MEIKO: Whew... I'm feeling more energized thanks to you two.
+MEIKO: Things have been so busy because of Christmas, right? While I was clearing away the decorations, I thought to myself that I'd like to take a breather.
+MEIKO: I'm not tired or anything. Just a little sad in an odd kind of way, you know?
+An: Oh... I think I get what you mean.
+An: I sometimes feel a little lonely this time of year when we're taking down the tree at Weekend Garage.
+MEIKO: Yes, that's what I mean. But thanks to you two, that feeling's been blown away.
+MEIKO: And seeing your face helped too, Akito.
+Akito: Huh? My face?
+MEIKO: Yes. I don't know what happened, but you seem like some weight's been lifted off your shoulders since I last saw you.
+Akito: Oh...
+Akito: I...didn't think it was that obvious. Um... I guess I haven't been hiding it as well as I thought.
+(Enter: Toya)
+(Enter: Kohane)
+(Enter: Luka)
+Toya: Akito? Shiraishi? And MEIKO, too. What are the three of you doing?
+Akito: We were just singing. What about you guys? What brings you here?
+Luka: I took them on my favorite walking trail as thanks for showing me the illuminations.
+Toya: Yes, Luka took us to see all the spots she usually walks around. But...
+Kohane: Hehe... But she has more stamina than we bargained for.
+Toya: That's right. We're feeling a little dizzy after walking down the same street ten times.
+Kohane: But at the same time, it was fun getting to chat with Luka so much.
+Luka: Really? I'm glad! But I'm sorry for dragging you along like that.
+Toya: By the way, I had no idea this place existed. It's my first time seeing it.
+Kohane: Me too. I bet it would feel great to sing here! I want to try it out soon...!
+An: It's gotten a lot livelier since you guys showed up.
+MEIKO: You're right. It's starting to feel silly how sentimental we were getting.
+MEIKO: Hey, seeing as we're all here, why don't we sing?
+An: Wait, really? You'll sing with us?! Yay! I'm excited to sing with you, MEIKO!
+Toya: If it's okay, I'd also like to join.
+Kohane: I want to sing with you too!
+Luka: In that case, I'll stand back and watch. I'm all tired out from walking...
+Akito: So it turns out you're tired too, Luka.
+Luka: Hahaha♪ Yeah, but I'm looking forward to hearing you sing, Akito.
+Luka: I'm sure you've got some brand new feelings inside you now. I can't wait to see what they'll be like in song.
+Akito: Right, get ready to find out.
+Akito: Okay, let's go!
+Akito: Kashika!
+(Exit: Luka)
+
+
+2 [MUSIC] 267: Kashika
+
+3 [mc] mc_ev_street_11_2
+
+(Enter: Luka)
+(Enter: Kohane)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: MEIKO)
+(Enter: An)
+An: That felt so great!
+Akito: Yeah. I'm feeling refreshed.
+Akito: Thank you for singing with us, MEIKO. It was a chance to reflect on how far I still have to go.
+MEIKO: I thought so. Those feelings were clear to me. Wouldn't you agree, Luka?
+Luka: Yeah! Thank you for letting me listen. It was wonderful.
+MEIKO: Well then, I think I'll head back to Crase Cafe. I need to get ready to open.
+Luka: Oh, then let me help you. I'm feeling thirsty, actually.
+Kohane: Oh, we'll help too!
+MEIKO: Really? Thank you, everyone.
+(Exit: MEIKO)
+(Exit: Kohane)
+(Exit: Luka)
+(Exit: An)
+(Exit: Toya)
+Akito: Thank you for coming to listen again, you guys.
+Akito: Singing with them, I feel good, and I feel confident.
+Akito: But it's more than that. There are times when I'm not satisfied with my singing...
+Akito: But no matter how hard it gets, I'll be with them, singing.
+Akito: So keep watching us. No matter what happens, we're gonna surpass RAD WEEKEND!
+(Enter: Toya)
+Toya: Akito, what are you doing?
+Akito: Uh... Nothing!
+(Exit: Toya)
+Akito: Well, I better catch up with the others now. See ya 'round!
+(Exit: Akito)

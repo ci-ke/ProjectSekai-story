@@ -1,0 +1,121 @@
+169 Miku's Anniversary Show 2023
+
+1 [mc] mc_bd_2022miku_1
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Mafuyu: Looks like a lot of people are already here...
+Mizuki: Oh, you're right. You're all here to celebrate Miku's anniversary, right?
+Miku: So many people came... This feels makes me happy...
+Ena: I guess it'll be a lively celebration with this many people.
+Kanade: Yeah. I think it's time we should do the honors.
+Kanade: Alright, ready?
+Kanade: Miku, happy anniversary.
+Ena: "Happy anniversary!"
+Mizuki: "Happy anniversary!"
+Mafuyu: Happy anniversary.
+Miku: *Nod* Thank you.
+Miku: Thank you to all of you who came too.
+Mizuki: We'll be having some cake with Rin and the others... But is there anything in particular you want, Miku?
+Miku: Anything I want?
+Ena: Anything you want. You've done a lot for us too, Miku. So in occasions like this we'd like to give something back.
+Kanade: Oh... If not, you can ask us for a favor instead.
+Miku: Hmm... So, anything is okay?
+Kanade: Yeah. What is it?
+Miku: In that case... I want all of you to smile more...
+Mafuyu: What?
+Miku: When I see all of you smile... It gets warmer here...
+Kanade: That's...
+Miku: Yes... I know it will be difficult to do that... But until it comes true, that is what I will always be wishing for...
+Mafuyu: Miku...
+Miku: Everyone... May I...sing with these feelings in mind?
+Ena: Of course. It's your anniversary today, so you can do anything you want, Miku.
+Mizuki: Yup, exactly. And all of us here will be right there to cheer you on. Right, everyone?
+Miku: Thank you...
+Mafuyu: Miku... May I sing with you?
+Miku: Huh?
+Mafuyu: I...don't think I'll be able to make your wish come true right now, but... I can at least sing.
+Miku: Mafuyu... Thank you...
+Kanade: In that case, I'd like to join too...
+Kanade: Through our ups and downs, you've always been there for us. That's why today, I want to have a better understanding of your feelings, Miku.
+Miku: Okay... Thank you, Kanade. Well then, let's sing.
+
+
+2 [MUSIC] 67: Jishoumushoku
+
+3 [mc] mc_bd_2022miku_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku)
+Miku: Thank you for listening, everyone...
+Miku: Kanade.
+Miku: Mafuyu.
+Miku: Ena.
+Miku: Mizuki.
+Miku: I will be waiting for the day my wish comes true... But you don't have to push yourselves...
+Mafuyu: Okay...
+Kanade: Thank you, Miku.
+Miku: Thank you for coming to celebrate with me, everyone. See you next time...
+
+
+4 [mc] mc_bd_2022miku_3
+
+(Enter: Miku)
+Miku: Hey everyone! Thank you for coming to SEKAI!
+Miku: Thanks to all of you, I'm able to celebrate another anniversary!
+Miku: There's a song I'd like to sing to express my gratitude.
+Miku: Just like how our friends in SEKAI are moving forward one step at a time...
+Miku: I'd like to give you all the power to do the same!
+Miku: Alright, here I go!
+
+
+5 [MUSIC] 1: Tell Your World
+
+6 [mc] mc_bd_2022miku_4
+
+(Enter: Miku)
+Miku: Thank you for listening, everyone!
+(Enter: Luka)
+(Enter: Len)
+(Enter: Rin)
+(Enter: KAITO)
+(Enter: MEIKO)
+Rin: "Yay!"
+Len: "Yay!"
+Luka: Hehe. That was a wonderful performance.
+Rin: Hey, Miku. I know that you're grateful to everyone here, but...
+Len: But really, all of us here want to say "thank you" and "happy anniversary" to you, you know? Right, you guys?
+Len: See? I knew it!
+Luka: Alright then, it's now our turn to express our gratitude to Miku.
+KAITO: That's right. Are you all ready?
+MEIKO: Nice! Looks like everyone's ready! Here we go!
+Rin: "Happy anniversary, Miku!"
+Len: "Happy anniversary, Miku!"
+Luka: "Happy anniversary!"
+MEIKO: "Happy anniversary!"
+KAITO: "Happy anniversary!"
+MEIKO: One more time! Happy anniversary, Miku!
+Rin: "Happy anniversary!"
+Len: "Happy anniversary!"
+Luka: "Happy anniversary!"
+KAITO: "Happy anniversary!"
+Miku: Thank you, you guys!
+Miku: And all of you too! Thank you all so much!
+Miku: Hehe, thank you!
+Miku: Thank you to everyone over here too!
+Miku: Can all of you at the back hear me? Thank you so much for today!
+Miku: I'm going to keep singing and spread many more songs to all of you. So I'd love it if you could all come to SEKAI again to listen.
+Miku: See you next time! I'll be waiting!
+Miku: Until then...
+Miku: "Bye bye!"
+Rin: "Bye bye!"
+Len: "Bye bye!"
+Luka: "Bye bye!"
+MEIKO: "Bye bye!"
+KAITO: "Bye bye!"

@@ -1,0 +1,85 @@
+325 Get Fit & Fly! Muscle Training! After Show (event_142)
+
+1 [mc_timeline] mc_ev_shuffle_48_1
+
+(Enter: Kohane)
+(Enter: Luka)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Luka: Wow! That must've been very interesting!
+Akito: Interesting, huh? Try "hard as heck".
+Luka: Really? It sounds like fun, getting to do all those obstacles!
+Akito: Okay, the real thing was kinda fun. But everything before that...
+Kohane: What happened before?
+Toya: Akito spent weeks training for the event. It seemed very intense.
+Akito: Yeah, my whole body was in pain every day.
+Kohane: O-Oh...
+An: Haha! I guess even you struggled with Haruka's special training regimen.
+An: But all that pain was worth it, wasn't it? You got so close to winning it all!
+Akito: Yeah. Kiritani's routine got us results for sure. And I can feel the improvement in my performance, too.
+Luka: Oh, very nice! Don't just stand there then, show us!
+Kohane: Yes! I'd like to see it too.
+Toya: Me too. Let's sing, Akito.
+Akito: Uh... I guess there's no reason to say no. I'm already in the mood for a workout, so let's do it.
+Akito: Here we go. Make sure you watch closely!
+Akito: Marshall Maximizer!
+
+
+2 [MUSIC] 410: Marshall Maximizer
+
+3 [MUSIC] 457: Supernova
+
+4 [mc] mc_ev_shuffle_48_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: MEIKO)
+(Enter: KAITO)
+Haruka: Thank you for listening, everyone!
+MEIKO: Haruka! Everyone! That was so good!
+Haruka: Hehe. Thanks!
+Airi: I've got to say, your moves have gotten a lot sharper.
+Haruka: Huh? Really?
+Minori: I know what you mean! They already looked beautiful, but now they're even more so!
+KAITO: I felt it too. You really commanded the stage!
+MEIKO: Maybe it's because of all the work you put in for that event.
+Haruka: Hehe. If that's true, it's all thanks to you, MEIKO.
+Haruka: I was able to improve so much so quickly thanks to the training you helped me plan.
+MEIKO: I helped plan it, but you're the one who actually did it and made it your own.
+MEIKO: All that newfound strength belongs to you!
+Haruka: MEIKO...
+KAITO: MEIKO's training routines are always intense. It's amazing you were able to keep up.
+Minori: It really is! I wish I could move like that, too!
+MEIKO: Haha. In that case, I'll start working on a schedule just for you tonight.
+Minori: Huh? Th-Thank you...!
+Airi: We all need to keep polishing our performances to keep improving as idols.
+Haruka: Exactly.
+Haruka: There's no telling what the future holds, but we need to keep working hard for our fans.
+Minori: Right...!
+Haruka: And everyone out there, too. Thank you for always cheering us on!
+Haruka: We'll keep working hard to bring you hope. I hope you'll keep on watching us.
+Haruka: Thank you so much...!
+MEIKO: Alright! After this, let's all do some training!
+MEIKO: I'll whip up a special training regimen to put you on par with Haruka in no time♪
+Airi: T-That's a scary thought...
+Shizuku: But I do want to be able to dance as well as Haruka... Please help me, MEIKO!
+Minori: M-Me, too!
+MEIKO: Just leave it to me!
+KAITO: Um...
+MEIKO: And you'll join us, won't you, KAITO?
+KAITO: Huh? U-Um...
+KAITO: R-Right... I also want to improve as an idol, so I guess I'll take you up on that...
+MEIKO: That's what I like to hear! Now, let's hurry to the training room♪
+Minori: Yeah!
+Shizuku: Yeah!
+Haruka: Hehe.
+Airi: Alright then...
+(Exit: Minori)
+(Exit: Haruka)
+(Exit: Airi)
+(Exit: Shizuku)
+(Exit: MEIKO)
+(Exit: KAITO)

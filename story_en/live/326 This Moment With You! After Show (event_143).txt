@@ -1,0 +1,73 @@
+326 This Moment With You! After Show (event_143)
+
+1 [mc] mc_ev_band_18_1
+
+(Enter: Ichika)
+(Enter: Miku)
+Miku: Got it... So, you decided to do the collaboration.
+Ichika: Yeah. My mind was really going in circles, but what you said made one thing clear.
+Ichika: If we're making a song with that theme, I want you to sing it too.
+Miku: I see... I'm glad to hear that.
+Ichika: If you hadn't been there, I might've been stuck going in circles...
+Ichika: So... Thank you, Miku.
+Miku: Don't mention it. I didn't say anything profound.
+Miku: Still... I'm happy too.
+Miku: Let me know when the song's finished. We can sing it together.
+Ichika: Yeah...!
+(Enter: Saki)
+Saki: Oh, there they are! Ichi, Miku!
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Len)
+Ichika: Huh? Oh...!
+Ichika: You're all here!
+Honami: Hehe. We just happened to all come by.
+Shiho: Yeah, I wanted to ask KAITO and the others to help me practice some more, since Jam Fest is coming up.
+Saki: Same here! But then we heard you were here, Ichi, so we came to find you!
+Len: What were you two talking about?
+Ichika: Oh, so... Miku actually talked me through the reservations I had about the collaboration offer. I was just thanking her again.
+Saki: So that's how it went down...! Thanks from me too, Miku!
+Honami: Thank you, Miku.
+Miku: Wait, you girls too?
+Len: Haha, guess you really are their reliable senior.
+Miku: Len, stop...
+Shiho: Still, I want to thank you too. I don't know if we would've been enough to help her figure things out.
+Miku: I don't need thanks or anything... But if that's how you feel, then let me sing a song with you guys.
+Miku: I'm kind of feeling that urge to sing.
+Ichika: Miku...!
+Ichika: Of course, I'd love to sing together.
+Len: Then, I'll be listening over there. Give me something good, alright?
+Saki: Sure thing! Let's blast our sound all the way to Len's ears, guys♪
+Ichika: Yeah! Okay, here we go... the WALL!
+(Exit: Len)
+
+
+2 [MUSIC] 259: the WALL
+
+3 [mc_timeline] mc_ev_band_18_2
+
+(Enter: Miku)
+(Enter: Len)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Ichika: Thanks for listening, everyone!
+Len: You all played really well. And Ichika, Miku, I could feel a real connection in the way you both sang.
+Ichika: Oh, you could? That's so great to hear...!
+Ichika: This whole thing got me thinking.
+Ichika: Miku is very dear to my heart... No one could ever take her place.
+Ichika: So, the thought of being connected to her through song... It makes me really happy.
+Ichika: Thank you for singing with me, Miku.
+Miku: Ichika...
+Miku: I'm happy too.
+Miku: Ichika, everyone...
+Miku: Can I keep singing with you like this?
+Shiho: Do you need to ask?
+Saki: It's not a party without you guys♪
+Honami: Len, Miku, all of our friends in SEKAI... We hope for many more chances to sing and perform with you.
+Len: Sure, that's a promise.
+Len: Anyway, should we get back to the classroom? KAITO was itching to go when the word "session" came up.
+Ichika: Wait, he was? I hope we didn't keep him waiting...
+Honami: Then, let's play our next song there.
+Saki: Yeah! We're gonna practice a whole lot so we can bring the heat at Jam Fest!

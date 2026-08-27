@@ -1,0 +1,76 @@
+386 Unsteady, Still Steady Step After Show (event_173)
+
+1 [mc_timeline] mc_ev_band_21_1
+
+(Enter: Rin)
+(Enter: Honami)
+Rin: I see. So in the end, you get to write a song for your show and one for the Fan Festival too!
+Rin: You lucked out! Good for you!
+Honami: Yes... Good for us.
+Rin: Huh? You don't seem too happy, though.
+Honami: No, it's not that. It's just...
+Honami: I wasn't able to make a proper call, in the end.
+Rin: Oh...
+Honami: I'm sorry. After you and MEIKO gave me that advice, too.
+Honami: I'm not much of a leader, am I?
+Rin: Hona...
+(Enter: Len)
+(Enter: Saki)
+Len: Oh, Rin, Honami. There you are.
+(Enter: Ichika)
+(Enter: Shiho)
+Honami: Len... Everyone.
+Ichika: Len was looking for Rin, so we were helping him look.
+Honami: I see... Sorry for hogging her, Len. Did you need her for something?
+Len: Not really, but Rin said she wanted to do a meeting for the fun and games committee today.
+Rin: Huh?! It's that time already?!
+Shiho: Are you setting something new up?
+Rin: It's gonna be a rest and relaxation plan for everyone♪ All your prep work must be exhausting!
+Honami: Relaxation...
+Ichika: Hehe. It's really nice of you to do all this for us.
+Saki: Yeah! We'll have to practice hard to really earn it.
+Honami: Definitely.
+Honami: Hey, everyone... Could we play something before practice?
+Honami: Somehow I just have the urge to.
+Shiho: Fine by me. It'll be a good warmup.
+Len: Oh, then I'll join you. This time Rin can be the one left waiting around.
+Rin: What, are you holding a grudge over that?!
+Rin: Okay, fine. Then I'll go sit and enjoy the show.
+Honami: Hehe. Okay then, here we go...
+Honami: STAGE OF SEKAI!
+(Exit: Rin)
+
+
+2 [MUSIC] 159: STAGE OF SEKAI
+
+3 [mc_timeline] mc_ev_band_21_2
+
+(Enter: Rin)
+(Enter: Len)
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+(Enter: Honami)
+Honami: Thank you all for listening.
+Saki: Hehehe. I'm glad everyone had fun!
+Ichika: Just like Shiho said, that was a great warmup.
+Shiho: It was. Okay, then... Should we get practicing?
+Shiho: The show's coming up fast, and we have a lot of work left to do on basically every song.
+Len: In that case, we'll hold our committee meeting in another classroom.
+Rin: Yeah! I've got tons of ideas, so you just wait and see how they turn out!
+Ichika: Hehe. I'm looking forward to it already.
+Honami: Thank you all for coming, everyone. We'll see you again soon!
+Shiho: See you. Bye bye!
+Len: See you. Bye bye!
+Ichika: See you. Bye bye!
+Saki: See you. Bye bye!
+Rin: See you. Bye bye!
+(Exit: Rin)
+(Exit: Len)
+(Exit: Saki)
+(Exit: Shiho)
+(Exit: Ichika)
+Honami: ...
+Honami: For everyone who believes in me...
+Honami: I need to do better at making decisions.
+(Exit: Honami)

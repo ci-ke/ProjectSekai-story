@@ -1,0 +1,102 @@
+235 Step by Step! After Show (event_98)
+
+1 [mc] mc_ev_idol_14_1
+
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Airi: It's about time for us to be meeting up, but...
+Shizuku: It's pretty unusual for Minori to be the last to arrive. Do you think something came up?
+(Enter: Minori)
+Minori: B-B-B-Big news, everyone! Big, big, big news!
+(Exit: Minori)
+(Enter: Minori)
+Haruka: Oh, there she is.
+Airi: You just got here and you're already making a scene! What's this all about?
+Minori: Okay okay, so! I was just checking our emails, and I saw we got one from the producer for iHaz!
+Minori: He said this TV director he knows is looking for an idol group that can take part in a shoot on location... And he recommended us for the job!
+Haruka: What?!
+Airi: What?!
+Shizuku: What?!
+Minori: And also, they haven't decided on the specific dates yet, but the meetings for it are supposed to start around the month after next! When that time comes around,
+Minori: Haruka and I will already be in the credit-based course, which means we can totally accept this offer!
+Airi: Hey, that's great!
+(Enter: Rin)
+(Enter: Len)
+Rin: Huh? What's everyone talking about?!
+Len: You all seem really excited about something today.
+Minori: Oh, Rin and Len!
+Minori: You've gotta hear this! We might be getting another TV offer!
+Rin: Wow, really?! That's amazing!
+Haruka: We were only recommended for it, so we can't say for sure... But it's really nice that someone brought up our name like that.
+Airi: Absolutely. I'm sure he did that because the reception to our iHaz appearance was good.
+Airi: Thinking about it that way... We all know this already, but we really need to give every job all we've got!
+Shizuku: Yes. After all, one job might lead to the next just like this.
+Shizuku: Let's keep doing our best!
+Minori: Yeah!
+Haruka: Yeah!
+Airi: Yeah!
+Rin: Hehe. Looks like everyone's full of energy♪
+Len: And I'm excited to see you on TV again. Let's all have another viewing party in SEKAI.
+Minori: Of course! I want you all to see it too!
+Minori: Oh, but now that I'm thinking about what's ahead, I just can't stand still!
+Minori: Hey, can we sing a song?!
+Shizuku: Oh, that's a lovely idea!
+Rin: I wanna sing, too! Is it okay if I join you?!
+Haruka: Of course. Let's sing together.
+Len: In that case, I think I'll go listen from the best seat in the house.
+Minori: You're more than welcome, of course! Okay, let's start!
+Minori: Angel's Clover!
+(Exit: Len)
+
+
+2 [MUSIC] 112: Angel's Clover
+
+3 [mc] mc_ev_idol_14_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Rin)
+(Enter: Len)
+Minori: Phew... That was so much fun!
+Airi: It was. I felt myself putting more energy in than usual.
+Len: I think I get what you mean. Your energy really came through the song.
+Rin: Yeah! I felt so much fun and excitement coming from you girls!
+Minori: Hehehe, well, we have to keep doing more and more and more!
+Haruka: Yes, let's keep doing our best. But I wonder what sort of program we were recommended for.
+Airi: True, that is a good question. They said it would be on location, so they should be going somewhere for the shoot...
+Minori: Oh, I'm sorry, I must've forgotten to mention! There wasn't a lot of information, but he did say something in the email!
+Minori: The theme of the shoot is "Finding Delicious Shops Outside the City!", and we'd be going around with some comedians!
+Minori: That means conversation skills are a must, but he said he suggested us because he thought we were a good fit!
+Shizuku: Conversation skills...
+Shizuku: Talking is my weakest point... Will I be okay?
+Airi: The way I see it, that producer suggested us because of how you handled things on the show.
+Haruka: I agree. What you said on iHaz left an impression on people.
+Shizuku: D-Do you think so? But I'm still a bit worried...
+Minori: It's okay, Shizuku! I'm sure I'll be nervous too, but the four of us make one team!
+Minori: Plus, we have reliable seniors like Rin and Len!
+Rin: You sure do! We won't be able to help you during the shoot...
+Len: But we can help you practice beforehand, so let us know whenever something comes up.
+Shizuku: Hehe, that's true. I'd be happy to have your assistance.
+Airi: But wow, it hasn't been confirmed that we're going to do it or anything, but things are looking really good. It actually makes me a bit wary...
+Haruka: That's a good point. It's easy to get the rug pulled out from under you at times like this, so let's keep our wits about us while we prepare.
+Minori: Yeah, that sounds good.
+Minori: Moving forward, there might be some things that don't go quite the way we'd like...
+Minori: But no matter what happens, let's get past it together! Because... Our dream will be there up ahead!
+Shizuku: Minori...
+Airi: You're right... There are still plenty of obstacles in our way, so we can't see how our show at the Dome will come into shape.
+Airi: But we're going to keep getting past those obstacles, and move towards that dream step by step...
+Airi: And someday, we'll make it come true for sure!
+Minori: Yeah!
+Haruka: Yeah!
+Shizuku: Yeah!
+Len: I hope you'll all support MORE MORE JUMP! along the way too.
+Rin: That's a request from us senior idols! Pretty please♪
+Minori: Hehehe, Len, Rin, thank you!
+Minori: How we feel isn't going to change. We're going to keep spreading hope to more and more people...
+Minori: So I hope you'll keep watching over us!
+Airi: Hehe, alright, I think that's it for today. We have to send a reply to the iHaz producer, after all.
+Shizuku: That's true. Thank you for always supporting us, everyone.
+Haruka: See you later!

@@ -1,0 +1,75 @@
+260 Honami's Birthday Show 2024
+
+1 [mc] mc_bd_2023honami_1
+
+(Enter: Saki)
+(Enter: Honami)
+(Enter: MEIKO)
+Saki: Alright, Hona. Wait here while we finish prepping for the party. We'll be done in no time!
+Saki: If you could keep her company, MEIKO♪
+MEIKO: Of course. I'll keep her entertained.
+(Exit: Saki)
+MEIKO: Looks like we'll be able to chat for a little longer.
+Honami: Yes. But what else should we catch up on?
+Honami: We've already talked about practice and how excited we are for the party...
+MEIKO: Then... How do you feel about turning another year older?
+Honami: How do I feel?
+MEIKO: Yeah. I mean, isn't a birthday a sort of milestone or time for new beginnings?
+Honami: I suppose you're right. Hmm... How do I feel right now...?
+Honami: I feel like I've gotten stronger than before.
+Honami: So I hope I can keep up this momentum and hold my head high.
+MEIKO: I like that! I think not only are you kind, but you've gotten really cool too.
+Honami: Hehe. It's encouraging to hear you say that.
+MEIKO: By the way, what do you think about your past self?
+Honami: My past...self?
+Honami: I think it really was cowardly to be so scared about being disliked.
+Honami: I didn't want to hurt others or get hurt myself...
+Honami: Because of that, I was often at a standstill... But, I don't want to resent who I was back then.
+Honami: I know that I wouldn't be who I am today if I had not gone through all of that.
+Honami: Rather than regretting the past, I'd like to think I've found a stronger way to be kind.
+MEIKO: You truly have become such a cool person. I hope you maintain that mindset.
+MEIKO: And would you look at that. I think all your well-wishers here would agree.
+Honami: Huh? Oh, when did everyone...
+Honami: Hello everyone. Sorry for not including you all in the conversation.
+MEIKO: Looks like they didn't mind.
+Honami: That's a relief. But since everyone has come all this way, shouldn't we—
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Shiho)
+Ichika: Sorry for the wait, Honami! We've finished prepping for the party!
+Honami: Oh, you're back!
+Honami: I know! Hey everyone, could we all play a little something?
+Shiho: Wait, right now?
+Honami: Yeah. I want to do something for everyone who came.
+Saki: Wow! There's so many people! Did you all come to wish Hona a happy birthday?
+Shiho: It's your birthday, and yet you want to perform for everyone?
+Honami: Is that okay...?
+Shiho: Of course. Why wouldn't it be?
+MEIKO: In that case, I think I'll join in too.
+Honami: Yes, please do!
+Honami: Everyone! I hope enjoy my performance.
+Honami: Here we go. Good Weather!
+
+
+2 [MUSIC] 323: Good Weather
+
+3 [mc] mc_bd_2023honami_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
+Honami: Thank you for listening, everyone!
+Saki: While everybody's here, let's all wish Hona a happy birthday♪
+Saki: Here we go!
+Saki: Happy birthday, Hona♪
+Ichika: Happy birthday!
+Shiho: Happy birthday!
+MEIKO: Happy birthday!
+Honami: Thank you all!
+Honami: I'm going to keep doing my best to deliver great performances.
+MEIKO: Please do that, and also show us more of your cool side.
+Honami: Hehe. Of course!
+Honami: Thank you for today, everyone! Please come again to watch us perform.
+Saki: See ya later!

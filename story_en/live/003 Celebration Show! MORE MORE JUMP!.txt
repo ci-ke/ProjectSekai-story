@@ -1,0 +1,81 @@
+3 Celebration Show! MORE MORE JUMP!
+
+1 [mc] mc_release_03_1
+
+(Enter: Minori)
+(Enter: Rin)
+Minori: Don't give up on your dreams, Minorinrin♪ Here's a bouquet of hope for you! Hello! I'm Minori Hanasato from MORE MORE JUMP!
+Rin: Whoa! That Minorinrin♪ part was super cute!
+Minori: Really? I'm pretty fond of it myself too. Oh, and actually, I have more...
+Minori: Hope, step, jump! A slam dunk of hope is coming your way! Oh, hi, everyone!
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Airi: Why slam dunk, though? You're gonna just ram all that hope straight into their heads or something?
+Shizuku: I thought it sounded cool. Maybe I'll try it too. A slam dunk of hope is coming your way!
+Haruka: Hehe. It would've been a pretty nice catchphrase if Minori had any basketball experience.
+Minori: I see... Makes sense. Thank you, everyone! I've learned something new today!
+Airi: Let's stop thinking about catchphrases for a while and start practicing.
+Rin: Ah, I'll be the audience, then!
+(Exit: Rin)
+Airi: Since we're practicing on a stage in this SEKAI, we should go all out as if this was an actual show!
+Minori: Okay! I'm ready!
+Minori: Is everyone ready too? Then let's go!
+
+
+2 [MUSIC] 10: Happy Synthesizer
+
+3 [mc] mc_release_03_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+Minori: Hm? There are more glow sticks than usual today?
+(Enter: Miku)
+(Enter: Rin)
+Miku: Hello, everyone! I'm Miku!
+Shizuku: Oh, Miku! You're here too?
+Miku: Yeah. Because I wanted to sing with everyone!
+Minori: Miku, is it just me, or are there more glow sticks than usual today? What does it mean?
+Miku: These glow sticks lights represent people's feelings.
+Rin: Hehe! And they've all gathered here today because they want to listen to your song!
+Haruka: If that's true, then it's very encouraging. Are they all still watching?
+Airi: Then we have to live up to their expectations as idols! So let's go for one more song!
+Rin: Let's do it!
+Minori: Yeah! We'll make this the best performance they've ever seen!
+Airi: "Ready!"
+Shizuku: "Ready!"
+(Exit: Rin)
+
+
+4 [MUSIC] 57: Newly Edgy Idols
+
+5 [mc] mc_release_03_3
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Rin)
+Minori: *Huff*... *Huff*... This is amazing! The glow sticks moved and swayed along with our song!
+Minori: This is what a real show feels like!
+Miku: Anyway, it's time to close the show with some farewell messages.
+Minori: What? Stage farewells?! But I've never done that before!
+Haruka: It's okay. Just watch us.
+Shizuku: Everybody, thank you for listening to us today.
+Airi: As a new group, we still fumble sometimes, but we'll give you the best show ever someday!
+Haruka: Together, we'll overcome any obstacles that come our way. So please keep watching over us.
+Haruka: Your turn, Minori.
+Minori: O-Okay!
+Minori: We'll practice! More, more! In order to be able to give everyone more hope for a better tomorrow. So, please...
+Minori: Please keep giving MORE MORE JUMP! your support!
+Haruka: Please keep giving MORE MORE JUMP! your support!
+Airi: Please keep giving MORE MORE JUMP! your support!
+Shizuku: Please keep giving MORE MORE JUMP! your support!
+Minori: Um... Did they hear us?
+Rin: Don't worry! I'm sure they did!
+Miku: Hehe. I can't wait to see what kind of idols all of you turn out to be!
+Minori: Thank you so much for today!
+Rin: See you!

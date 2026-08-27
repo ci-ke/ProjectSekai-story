@@ -1,0 +1,105 @@
+248 Our Happy Ending After Show (event_104)
+
+1 [mc] mc_ev_wonder_14_1
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Emu: "Okay, so where should we go first? Where do you wanna go, songstress?"
+Nene: "Umm... I can't think of any place in particular. I'm sure we'll have a fulfilling experience wherever we go."
+Rui: "Very true. In that case, let's hear the troupe leader's opinion."
+Tsukasa: "Hmm, let's see... Oh? What a strange place for a flyer."
+Tsukasa: "What's it say...? 'Show Helpers Wanted!'? Ah, it appears this theatre group is looking for people to put on a performance with."
+Tsukasa: "Why, it's like this poster was made just for us! What are your thoughts, alchemist?"
+Rui: "Well... Oh, I've heard of this group before. They supposedly put on great shows."
+Tsukasa: "Is that so? Then, it's decided!"
+Tsukasa: "Our next destination shall be the town this group calls home!"
+Emu: "Yeah!!!"
+(Exit: Tsukasa)
+(Exit: Emu)
+(Exit: Nene)
+(Exit: Rui)
+(Enter: Miku)
+(Enter: MEIKO)
+MEIKO: "And so, the traveling troupe headed for the next town."
+MEIKO: "Just what awaits them in their next travels?"
+Miku: "Find out...next time!"
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Yes! That was quite good for an improv performance, wouldn't you say?
+Rui: Indeed. Not many shows end with a "find out next time", but...
+Rui: When it comes to this one, allowing it to continue on may be the best choice.
+Miku: Mhm! I think so too!
+Nene: Hehe, you do have a point.
+Emu: Hehehe...
+Nene: Huh? What is it, Emu?
+Emu: Oh, umm... I was just thinking that I'm really happy!
+Emu: Until my brothers told me to go see the world, I felt...kinda sad during our practices.
+Emu: I'm always happy to get to practice with you guys, but... When I thought about how that'd be ending soon...
+Emu: It felt like... The way I used to get when I saw the sun setting...
+Tsukasa: Emu...
+Emu: But! I'm fine now!
+Emu: I feel suuuper happy about the things that make me happy!
+Rui: Hehe... And I'm happy you feel that way.
+Nene: Yeah...!
+Miku: Hehehe☆ So much happy!!!
+Miku: Oh, hey everyone! You should sing out those happy feelings!
+MEIKO: Yes, I agree! When you're happy, expressing it with your body makes you feel even happier!
+Nene: Then... How about that one, Emu?
+Emu: That one? Oh... Yeah!
+Emu: Let's all sing it together! Are you ready?
+Tsukasa: Yes! Yeah☆
+Rui: Yes! Yeah☆
+Miku: Yes! Yeah☆
+Emu: Okay, here we go!!!
+Emu: The World Hasn't Even Started Yet!!!
+(Exit: MEIKO)
+
+
+2 [MUSIC] 51: The World Hasn't Even Started Yet
+
+3 [mc] mc_ev_wonder_14_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: MEIKO)
+Emu: Hehe... Hehehe!
+Emu: Everybody! Thanks so much for listening!
+Emu: I'm really gonna do my best! I'll go out into the world with everyone, learn lots of stuff...
+Emu: And someday... I'll make my dream come true with my brothers!
+Emu: So...
+Emu: Until then, let's keep doing lots of shows together!
+Tsukasa: Yes! Yeah!
+Nene: Yes! Yeah!
+Rui: Yes! Yeah!
+Tsukasa: Still... It truly makes my heart sing! We're about to embark on a new adventure as a troupe!
+Nene: An adventure...? That's an exaggeration, don't you think?
+Rui: Though, in the sense that we'll be plunging ourselves into the unknown, perhaps it could be called an adventure.
+Nene: Well, you have a point there. I'm sure there'll be some tough moments like we've had in the past...
+Nene: But I hope we can all help each other out and get through them together.
+Emu: Yeah!
+Emu: Wait...!!!
+MEIKO: Oh? What is it, Emu?
+Emu: If we're going on an adventure, we've gotta get ready! I've gotta put all the stuff I'll need into my bag!
+Tsukasa: R-Right...?
+Emu: What do you think I should bring?! Oh, maybe my passport?!
+Nene: Hold on, where are you thinking of going?
+Emu: Where? Umm umm umm...
+Emu: I wanna... Go all over the world!
+Tsukasa: Hehe. That's the attitude we like to see from you, Emu!
+Tsukasa: Well then, let the rest of us prepare as well! Though...what to carry should require less thought than our stance for the future.
+Rui: True. Miku, MEIKO, might you two be willing to help us?
+Rui: We need to make a map of where to go on our adventure!
+Miku: Yeah! Absolutely positively!
+(Exit: Tsukasa)
+(Exit: Emu)
+(Exit: Nene)
+(Exit: Rui)
+(Exit: Miku)
+(Exit: MEIKO)

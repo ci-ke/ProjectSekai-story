@@ -1,0 +1,80 @@
+300 Saki's Birthday Show 2025
+
+1 [mc] mc_bd_2024saki_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: MEIKO)
+Saki: That was sooo much fun!
+Saki: Thank you very much for the birthday celebration, Miku, MEIKO!
+Miku: Hehe. You're welcome.
+MEIKO: Rin and the others were happy that you liked it too. They were saying how glad they were that they worked hard preparing.
+Ichika: I didn't even notice that you were planning all of that.
+Honami: It was quite surprising to see the classroom turned into a party venue.
+Saki: It made me so, so, sooo happy!
+Saki: Also, I talked to Ichi and the others just now, and...
+MEIKO: Hm?
+Saki: We would like to perform for you in return for the party!
+Ichika: Yes. It doesn't sit right for us to be the only ones having fun.
+Shiho: As part of the occasion, we want you to enjoy yourselves as well.
+Honami: We'd like for you to see our mini-concert.
+Miku: As the birthday girl, you don't need to give anything back to us, Saki.
+Miku: But... I'll take you up on your offer. I mean, everyone here would love it.
+Saki: Everyone...?
+MEIKO: Yeah. Look.
+Saki: Whoa! Amazing! There's so many people here!
+Miku: They're all here to celebrate your birthday, Saki.
+Saki: Wait, really?! Thank you!
+Saki: Then this show's also for you guys! Oh, but I want Rin and the others to see it too...
+Miku: Why don't you perform for everyone here first? In the meantime, I'll go get Rin and the others.
+Saki: Oh! Thanks, Miku!
+(Exit: Miku)
+MEIKO: In that case, I'd like to join you girls.
+Saki: Really? Would that be okay?
+MEIKO: Of course. I would also like to personally thank everyone here for always supporting you girls.
+Honami: MEIKO...
+Ichika: Thank you. Alright, let's sing.
+Saki: Sorry for the wait, you guys! Let's start the show!
+Saki: We hope you enjoy it! Suresure!
+
+
+2 [MUSIC] 442: Suresure
+
+3 [mc] mc_bd_2024saki_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
+Saki: Thanks for listening to our song!
+Saki: Because of your support, I think we performed really well!
+MEIKO: Yeah, it was a great performance. Your feelings really came through with each and every sound.
+Saki: MEIKO... Thank you!
+Saki: Since going pro... Well, it still feels like we only just got our foot through the door, but...
+Saki: But there are so many things I've realized since going pro! Thanks to that, I think I've been able to grow!
+Saki: It was the same when Ichi and I made our debut song... I thought we would totally get it in one shot, but we didn't...
+Ichika: That's when MEIKO and the others taught us something really important.
+Saki: Yeah. But because that happened, I think I learned to understand Ichi better!
+Ichika: It was the same for me. I now have a better understanding of what you hold important, Saki.
+Shiho: This just means you've both grown.
+Honami: Good work, you two.
+Ichika: Thanks.
+Saki: Thanks!
+Honami: I'm sure there will be more things that'll come our way.
+Shiho: Well, that's what it means to go pro.
+Saki: I don't know what's in store for us, but... I can't wait to see what we encounter in the future!
+Ichika: Hehe, me neither.
+Saki: Hey everyone! Thank you so much for coming to wish me a happy birthday!
+Saki: Thank you! And thank you to everyone over here too♪
+Saki: We still end up stumbling sometimes...
+Saki: But we're definitely going to be a band that our fans can boast about!
+Saki: Hehehe. So, we hope that you'll continue to support Leo/need♪
+Saki: Please come watch us play again sometime! We'll be waiting♪
+Saki: Bye bye!
+Ichika: Thank you.
+Honami: Bye bye!
+Shiho: See you.

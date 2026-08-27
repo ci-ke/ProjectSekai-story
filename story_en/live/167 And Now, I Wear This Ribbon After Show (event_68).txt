@@ -1,0 +1,81 @@
+167 And Now, I Wear This Ribbon After Show (event_68)
+
+1 [mc] mc_ev_night_10_1
+
+(Enter: Mizuki)
+Mizuki: Hmm? Where could Miku and Luka be?
+Mizuki: They said they wanted to see it, and I went to the trouble of putting it on my phone...
+Mizuki: Hmm? Oh, when did you all get here?
+Mizuki: Actually, do you guys want to watch too? I brought our first music video with me!
+Mizuki: Though... It was our first collaboration, so it's not great compared to what we make nowadays...
+Mizuki: But it's still a really, really good video. Oh...
+(Enter: Kanade)
+(Enter: Ena)
+(Enter: Miku)
+(Enter: Luka)
+Mizuki: Hey guys!
+Ena: What's wrong, Mizuki?
+Mizuki: I could ask you the same. What brings you all here at once?
+Kanade: I hit a wall with my song, so I came over to ask for advice and found Ena already here...
+Ena: Yeah. I came over for a change of pace.
+Mizuki: Oh, okay.
+Miku: It's so lively... I'm happy...
+Luka: Hehe, you're right. I won't have to be bored today.
+Ena: What about you, Mizuki? Are you here for a break?
+Mizuki: Oh, Miku and Luka told me they wanted to see our first music video, so I brought the file over.
+Kanade: Our first music video... That takes me back.
+Ena: Hehe, no kidding. You told us to just "express what you feel", so I was pretty stuck for ideas.
+Kanade: Oh... I guess it would be overwhelming to be told that out of the blue. Sorry.
+Ena: Don't worry! Thanks to that, Mizuki and I hashed out our ideas, and we ended up creating something great.
+Luka: Well then, why don't we all watch it once Mafuyu gets here?
+Kanade: Yes, let's do that. She said she would come if she had time...
+(Enter: Mafuyu)
+Ena: Oh...! Mafuyu!
+Luka: Look at that. Perfect timing.
+Kanade: I'm glad you made it...! But I'm surprised you're here this early.
+Mafuyu: My mom went to sleep early.
+Mizuki: I see! Wait, Mafuyu, is your hair damp?
+Mafuyu: Oh... I guess I didn't dry it fully after my bath.
+Ena: You could've taken the extra minute to dry it first...
+Mizuki: Oh, but that must mean...
+Luka: You wanted to get here as soon as possible?
+Mafuyu: I don't know... But I just wanted to come quickly.
+Kanade: I see...
+Mizuki: Hehe. I get how you feel, Mafuyu.
+Mizuki: Everything feels calmer when we're all together, so I always end up wanting to come here as soon as I can.
+Mafuyu: Hmm...
+Mafuyu: Maybe...so...
+Mizuki: Well, I was going to play the music video, but do you guys wanna sing a little first?
+Kanade: Huh?
+Mizuki: I dunno, I'm just kind of in the mood, y'know? Just felt like singing with you guys!
+Ena: Hmm... Well, why not?
+Mizuki: Woohoo! Thank you! Kanade, Mafuyu, what about you?
+Mafuyu: Okay...
+Kanade: Sure. I'd like to sing too.
+Mizuki: Right on! Let's get started then!
+Mizuki: I hope you all stay and listen, too. Here we go!
+Mizuki: Kimi no Yoru Wo Kure.
+(Exit: Miku)
+
+
+2 [MUSIC] 237: Kimi no Yoru Wo Kure
+
+3 [mc] mc_ev_night_10_2
+
+(Enter: Kanade)
+(Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
+(Enter: Luka)
+(Enter: Miku)
+Mizuki: Phew...
+Mizuki: Hehe, thanks for listening, everyone!
+Mizuki: This really is...so much fun...
+Miku: You look happy, Mizuki.
+Kanade: Yeah, you do.
+Mizuki: Oh yeah! Now that we've sung, let's all watch the music video!
+Mafuyu: Music video...?
+Ena: Oh, I guess you missed all the context for that.
+Miku: The first music video you made with Mizuki and Ena.
+Luka: Anyway, you'll understand once you see it.
+Mizuki: Yeah, and you'll get all nostalgic for back then!

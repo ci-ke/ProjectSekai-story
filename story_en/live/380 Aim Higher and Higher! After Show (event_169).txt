@@ -1,0 +1,67 @@
+380 Aim Higher and Higher! After Show (event_169)
+
+1 [mc_timeline] mc_ev_street_21_1
+
+(Enter: Kohane)
+(Enter: Miku)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+Toya: Oh, there you are.
+Kohane: Oh, Aoyagi, Shinonome!
+An: Wait, if you're here... Is it time already?!
+Akito: Not just yet, but almost.
+Akito: We heard voices... Were you three singing?
+Miku: They invited me to sing until you got here. So we were passing the time.
+Toya: I see.
+Akito: Come on... We said to meet up at MEIKO's, remember?
+Kohane: I'm sorry. We were waiting there, but I got the sudden urge to sing...
+An: Same. After SONIC NOTES, I couldn't bear to just sit around, you know?
+An: I've been itching to sing ever since.
+Toya: I understand what you mean. Akito and I were talking about coming early ourselves.
+Akito: We finally have a concrete plan for standing on top of the world now.
+Miku: It sounds like you've got it all figured out.
+Kohane: Oh...
+Kohane: Hey, before we go back to MEIKO's, can we sing one song together?
+Kohane: With all of us feeling the same drive, I'm sure we'll be able to sing even better than usual.
+An: Ooh, I'm down! Let's really let it loose!
+Miku: I'd like to sing too, then.
+Miku: I want to feel your energy from up close.
+Kohane: Thanks, Miku!
+Kohane: Okay, here we go! Realize!
+
+
+2 [MUSIC] 356: Realize
+
+3 [mc_timeline] mc_ev_street_21_2
+
+(Enter: Kohane)
+(Enter: Miku)
+(Enter: Toya)
+(Enter: Akito)
+(Enter: An)
+Kohane: Whew, that was great...
+Toya: Yes. And just listen to those cheers.
+An: Hehe. Thanks, everyone!
+Miku: It seems like your feelings reached them.
+Kohane: Hehehe, I'm glad!
+Akito: Don't tell me you're satisfied with just this.
+Kohane: Of course not! We're on our way to stand on top of the world, after all!
+Toya: And to do that, we need to grow more.
+Toya: To win RUSH BEATS, and be worthy of the stage at Lasting ECHO Fest.
+An: And we can't let Slade and Cedric beat us either!
+Akito: They challenged us to our faces, after all. We can't show them any less than our best.
+Miku: You all seem very excited.
+Miku: Standing on top of the world... It's a huge goal, but I know you four can do it. So...
+Miku: We'll be watching over you, as you walk the path that leads you toward your dream.
+Miku: And I'm sure everyone else will be, too.
+Kohane: Miku! Everyone...!
+Kohane: Um, for the first time, we have a clear view of our goal for the future.
+Kohane: And we're going for it with everything we have. So...
+Kohane: I hope you'll be with us along the way!
+Kohane: Hehe. Thank you for your support.
+Kohane: Then... Let's meet again!
+Akito: See you. Bye bye!
+Miku: See you. Bye bye!
+Toya: See you. Bye bye!
+An: See you. Bye bye!

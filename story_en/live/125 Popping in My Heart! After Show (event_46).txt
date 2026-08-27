@@ -1,0 +1,111 @@
+125 Popping in My Heart! After Show (event_46)
+
+1 [mc] mc_ev_wonder_07_1
+
+(Enter: Emu)
+(Enter: Miku)
+(Enter: MEIKO)
+Emu: Alright! Let's do this, Miku!
+Miku: Yeah♪ Let's do it!
+MEIKO: You got this!
+Emu: Hello everyone!
+Miku: Hello♪ It's me, Miku!
+Emu: And I'm Emu!
+Miku: Um... What was next again?
+Emu: It's that thing, Miku! You know, that thing?!
+Miku: Oh, yeah! That thing!
+Miku: Repeat after Emu!
+Emu: Wonderhoy!!
+MEIKO: Hahaha!
+Miku: Wow! Seems like it got through to everyone!
+Emu: Woohoo! Next is...
+Emu: Everybody say, "Wonderhoy!"
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: What are you all doing?!
+MEIKO: Hey there! Welcome!
+Emu: Hi, you guys! Miku and I were just practicing doing a show in English. How'd we do?
+Rui: Hehe. I think you really made an impression on the crowd.
+Nene: It sounded more like one of those concerts you see abroad as opposed to a show, but it seemed fine...
+Miku: Hehehe♪ We did it, Emu!
+Emu: Yeah! Thanks, Miku♪
+Tsukasa: Hold on a second... Why were you practicing doing a show in English?
+Emu: Well, if we start using English more, then we'd be able to make even more people smile, right?
+Emu: Also, I still think Grandpa's dream of "wanting everyone around the world to smile" is really amazing!
+Emu: That's why I decided to do everything I can to honor that!
+Tsukasa: I see... So that's what this is about. In that case, I understand.
+Emu: Would it be super amazing if we could make everyone around the world smile♪
+Miku: Yeah♪
+Rui: Hehe. Looks like Emu's back to being her usual self...
+Nene: Yeah, things just wouldn't feel right otherwise.
+Nene: Seeing her so wound up while pondering over the practical side of things just didn't seem right.
+Tsukasa: We have Mr. Riley and his wonderful advice to thank for that. I know! I'll send him a letter expressing our gratitude! In English!
+Nene: Seriously? You think you can write a letter like that? With your miserable skills?
+Tsukasa: Why are you looking at me as though it's an impossible feat?!
+Nene: Remember? "Dance! And! Sing!" Why don't we have Rui write it instead? That way, we'll actually be able to communicate how we really feel.
+Rui: Well, I think it'd be good practice for Tsukasa if he wrote the letter himself...
+Rui: Ah, why don't we do this? Tsukasa, you write the actual letter and I'll edit it if I notice any mistakes.
+Tsukasa: Yes, that would be great!
+Rui: And for each mistake you do make, you'll get to help me out with some new and slightly dangerous stunts.
+Rui: That way, you'll be forced to make certain that there are absolutely no spelling or grammatical mistakes.
+Tsukasa: Hmm... I have a bad feeling about this, but that's also not a terrible offer...
+Rui: Yes. Fire dancing is absolutely wonderful.
+Tsukasa: This better not be some kind of ploy to get me to do crazy stunts...!
+Rui: Hehe. Maybe it is, maybe it isn't.
+Nene: *Sigh* Why does sending a simple letter to Mr. Riley have to be such a challenge...?
+Emu: Hmm? What's up, you guys? Is something fun happening?
+Rui: If you're willing to wait a little, your patience will be rewarded rather handsomely.
+Tsukasa: There aren't going to be any mistakes!
+Nene: Yeah, says you.
+Nene: We were just talking about sending a thank-you letter to Mr. Riley. Is there anything that you want to tell him, Emu?
+Emu: Ohh! A letter sounds fun! I wanna say...
+Emu: Thanks to you, Mr. Riley, I'm all smiles again!
+Emu: I also promise to figure out a way to balance my dreams with reality, while also working really hard to make everyone smile!
+Emu: That's what I want to tell him!
+Miku: Hehehe♪ That's such a smiley and cheerful message!
+Emu: Yup! Oh, that reminds me...!
+Emu: I wanna sing a song that puts a smile on everyone's faces with you guys!
+Tsukasa: A song that puts a smile on everyone's faces?
+Emu: Yeah! Let's all sing together♪
+Nene: I don't see why not? I feel like singing too.
+Rui: Yes, me too.
+Tsukasa: In that case, let's do it!
+Emu: Everyone, feel free to sing along!
+Emu: Theme of Niccori Survey Team
+
+
+2 [MUSIC] 178: Theme of Niccori Survey Team
+
+3 [mc] mc_ev_wonder_07_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: MEIKO)
+Emu: Wooow! So many smiles!
+Miku: You did it, Emu!
+MEIKO: Hehe. Great work.
+Emu: Hehehe. I'm so happy...! I really love the way you all smile!
+Tsukasa: I can see why. It's as if anything becomes possible when it means everyone's smiling in the end!
+Rui: Then, I guess we'll need to put in more work to ensure that we can make as many people as we can smile.
+Nene: Shall we think about our next show?
+Emu: Yeah! I... Feel so...
+Emu: POP POW FWOOM BA-BA-BAAAAAM!
+Tsukasa: I see. So you're more fired up than usual.
+Emu: I know there are a lot of things we need to think about, like what we're capable of or if we even have the means to pull it off, but...
+Emu: It's gonna be an absolutely, ultra-wonderhoy show!
+Tsukasa: "Yes!" "Yeah!"
+Nene: "Yes!" "Yeah!"
+Rui: "Yes!" "Yeah!"
+Emu: We're gonna be putting on an even more wonderhoy show, so stay tuned, everyone!
+Miku: Stay tuned!
+Emu: Alright, let's finish with... Won-won...
+Tsukasa: "Wonderhoy!"
+Emu: "Wonderhoy!"
+Nene: "Wonderhoy!"
+Rui: "Wonderhoy!"
+Emu: Hehehe♪ Thank you!
+Emu: See you later, everyone!!

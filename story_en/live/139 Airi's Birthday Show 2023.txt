@@ -1,0 +1,89 @@
+139 Airi's Birthday Show 2023
+
+1 [mc] mc_bd_2022airi_1
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Len)
+Shizuku: Hello, everyone! Thank you for coming to celebrate Airi's birthday with us♪
+Airi: Shizuku, wait! At least say it's a "birthday show" or something! Don't make it sound like they're visiting a friend's house!
+Shizuku: Oh, you're right! I couldn't help it. I'm just so happy that we get to throw a birthday party for you like this!
+Haruka: Hehe. It could be fun to present it as more of a cozy house party.
+Miku: I agree♪ Shizuku, mind starting again from the top?
+Shizuku: Hello, everyone! Thank you for coming to Airi's birthday show!
+Airi: Whoa. They're responding like it's our first take even though this is sort of a redo.
+Minori: I think it just means they're all excited about celebrating your birthday, Airi!
+Len: In that case, let's get this show on the road! What's our first segment, Haruka?
+Haruka: Our first segment is... "Let's Read Some Passionate Fan Letters!"
+Haruka: Naturally, we'll be reading some of the special fan letters that have been addressed to Airi. Take it away, Minori!
+Minori: You got it! This one's from H.M., who attends a high school in Shibuya.
+Minori: "Hello, Airi. I'm always wishing you a happy birthday..."
+Airi: Always?
+Minori: Oh no...!
+Len: Haha. I guess they were so excited that they wrote that by mistake.
+Minori: Y-Yeah! That's definitely it! Anyway, where was I...?
+Minori: Oh, here... "On top of being adorable, you always dazzle me with your dancing and singing! I hope I get to keep seeing you like this forever and ever!"
+Airi: Thank you so much! Once we start doing more shows in person, you'll get to see plenty of me singing and dancing!
+Haruka: Our next one is from K.H., who also attends a high school in Shibuya. "Dear Airi Momoi, thank you for always bringing us such fun content."
+Haruka: "I can tell that the rules for each segment are very well thought out, especially the ones involving outfits and selfies, as well as others. I very much enjoy seeing what you do each time."
+Haruka: "I'm looking forward to more fun segments in the future. And last but not least, I wish you a very happy birthday."
+Airi: Wow... This person's letter was so polite. I got goosebumps just reading it.
+Airi: Hang on... Did I ever mention that I came up with our little outfit competition...?
+Miku: Alright, Shizuku will be reading the next letter...
+Shizuku: But first, we'll be bringing you our special show!
+Shizuku: Are you ready, Airi?
+Airi: Yes, of course! Ready, everyone?!
+Airi: Start the music!
+
+
+2 [MUSIC] 140: icedrop
+
+3 [mc] mc_bd_2022airi_2
+
+(Enter: Minori)
+(Enter: Haruka)
+(Enter: Airi)
+(Enter: Shizuku)
+(Enter: Miku)
+(Enter: Len)
+Airi: Thanks for listening, everyone!
+Airi: And thank you for singing with us, Len!
+Len: Hehe. I'm glad I was able to add a little spice to your special day, Airi.
+Miku: Anyway, let's continue with the next fan letter♪
+Shizuku: Yes, let's. The next one is from H.S., who attends a high school in Shibuya.
+Airi: Hm? Another one from a high school in Shibuya?
+Shizuku: "Happy birthday, Airi!"
+Shizuku: "I couldn't be happier to celebrate your birthday alongside all of your fans who watch our streams, as well as the fans who came to hear you sing!"
+Shizuku: "I hope your special day turns out to be a wonderful and fun-filled one!"
+Airi: As well as the fans who came to hear me sing...?
+Miku: Next, we have a letter from H.M., who lives in SEKAI!
+Airi: Wait, SEKAI?! Hold on, H.M. has to be...
+Miku: Hehe. "Dear Airi, Thank you for being the bright and cheerful person we can always rely on♪"
+Miku: "But if anything's ever bothering you, you're always welcome to come over to SEKAI and ask us for help!"
+Len: And to wrap things up, me! This letter is from... Well, I think you've already figured out what's going on, Airi!
+Airi: Yes, I have. It's from K.L., who lives in SEKAI, right?
+Len: Yup!
+Len: "Dear Airi, Thank you for all the advice you've given me about being a good MC. My shows have been going great lately because of you."
+Len: "You're always there to help us out, so we wanted to give you a little surprise. I discussed things with the others and we decided to write you some fan letters!"
+Len: "We made sure to write our letters so that you'd gradually catch on. It wasn't easy, but I at least had a lot of fun trying to come up with what to write."
+Len: "We hope that our letters put a smile on your face, Airi! And most importantly, we all wish you a very happy birthday!"
+Minori: "Happy birthday!"
+Haruka: "Happy birthday!"
+Shizuku: "Happy birthday!"
+Miku: "Happy birthday!"
+Airi: You guys...
+Airi: Hehe. Thank you all so much! That was a wonderful surprise! It was so much fun that I really don't know what else to say!
+Shizuku: I'm glad you liked it. Everyone else seems to have enjoyed it as well.
+Airi: Mind if I read your fan letters again after we're done here?
+Haruka: Yes, of course!
+Minori: Oh, can I fix that "I'm always wishing you a happy birthday" bit before you do...?
+Haruka: "Hehe." "Haha."
+Airi: "Hehe." "Haha."
+Shizuku: "Hehe." "Haha."
+Airi: Thank you so much for coming to celebrate my birthday with me, everyone!
+Airi: I promise to do my best to give back next time for all these wonderful memories and surprises!
+Airi: Hehe. Get ready for something spectacular, alright?
+Miku: See you later!

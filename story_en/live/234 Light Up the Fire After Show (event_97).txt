@@ -1,0 +1,78 @@
+234 Light Up the Fire After Show (event_97)
+
+1 [mc] mc_ev_street_13_1
+
+(Enter: An)
+(Enter: Rin)
+Rin: Um... So... The thing is...
+Rin: We're sorry for listening in on you!
+An: No, Rin, it's not that big a deal!
+An: It definitely surprised me to know you saw everything from when we started battling Uncle Taiga...
+An: But, it's okay. I was going to tell you all about it anyway.
+Rin: An...
+An: But I'm a little embarrassed you saw me you know? I mean, I looked like a mess.
+Rin: What?! No, that's nothing to be embarrassed about!
+An: Huh?
+Rin: That just shows how important your Aunt Nagi was to you.
+An: Oh...
+An: ... Yes, you're right.
+An: Aunt Nagi was...really important to me. So...
+An: So, we will make it happen. We'll bring her dream to reality.
+Rin: Yeah!
+Rin: I've got your backs! I'll practice singing with you, and I'll help you with physical training!
+Rin: Oh! And I'll come up with a new sandwich recipe to keep you energized.
+An: Hahaha, I'm looking forward to that! That mustard sauce one you made was so good!
+Rin: Hehehe, thank you! Watch this space!
+An: Will do! Oh, but... No tomatoes, please!
+Rin: Of course! Leave it to me!
+(Enter: Kohane)
+Kohane: Oh! Thank goodness...!
+(Enter: Akito)
+(Enter: Toya)
+Toya: We thought you might be here, Shiraishi.
+An: Huh? Is there something wrong, you guys?
+Akito: You gotta be kidding... Ken messaged us saying you weren't at home.
+Akito: So we figured you came to SEKAI, and we came looking for you.
+An: Oh, right... Come to think of it, I forgot to say anything to Dad.
+An: I guess he'll be getting worried, so I should head back...
+An: But before that, do you guys wanna sing a song?
+Kohane: Huh?
+An: When I was talking to Rin just now, my drive to make Nagi's dream a reality surged up again...
+An: And I feel like I could sing so well right now.
+Toya: I see. Then, let's sing.
+Kohane: Yeah!
+An: Will you join us, Rin?
+Rin: Of course!
+An: Thanks! Here we go then! City!
+
+
+2 [MUSIC] 217: City
+
+3 [mc] mc_ev_street_13_2
+
+(Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
+An: Huff... I sang my heart out!
+Rin: You guys really are amazing singers! It was so solid, and you hit me right in the chest...
+Rin: And check it out! Everyone's this pumped for you!
+An: Thanks for listening, everyone!
+Toya: We appreciate you listening to us sing like this.
+Akito: That's right. After everything that's happened...
+An: Yeah... So much happened...
+An: But we're gonna get even better than this! So, you better come watch us again! Promise?
+An: I hope Nagi can hear us sing.
+Kohane: Yes... I hope so too.
+Rin: I think—no, I know she can! She so definitely can!
+Rin: I mean, it's such good singing!
+An: Hahaha, thanks, Rin.
+An: Okay! It's time we headed home!
+An: When I'm back, I'd better tell Dad I'm fine.
+An: Thanks for listening, everyone! See you!
+(Exit: An)
+(Exit: Rin)
+(Exit: Kohane)
+(Exit: Akito)
+(Exit: Toya)

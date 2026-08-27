@@ -1,0 +1,78 @@
+385 Deeper and Deeper After Show (event_172)
+
+1 [mc_timeline] mc_ev_wonder_21_1
+
+(Enter: Luka)
+Luka: *Yawn* Maybe I'll nap here today.
+(Enter: Emu)
+(Enter: Rui)
+(Enter: Nene)
+Emu: Ah! I found Luka!
+(Enter: Tsukasa)
+Luka: Oh? What's going on, everyone?
+Rui: We've been looking for you, Luka. Would you like to join our upcoming after-party?
+Luka: After-party?
+Tsukasa: Recall the show we did for ArcLand's workshop? That after-party!
+Nene: Though we're really just going to have snacks and drinks and hang out, mostly.
+Luka: Oh, that's lovely. Can I really join too?
+Rui: It was thanks to your advice that I was able to take the next step forward with my script, after all.
+Rui: I'd appreciate it very much if you did.
+Luka: Hehe. In that case, I'd be happy to.
+Emu: Hooray!
+Tsukasa: This show represented a bold new frontier for us, and we faced it bravely. Let us salute each other!
+Emu: Salutes for everyone!
+Nene: You guys are way too excited.
+Rui: Hehe. I have to agree with Tsukasa, though.
+Rui: This show involved quite a lot of trial and error from the very beginning.
+Rui: Without your help, I doubt it would have ever come together.
+Nene: It was pretty difficult in a lot of ways. But that's part of why it felt so worth doing...
+Emu: Yeah! Everyone was so cool!
+Tsukasa: Both the script and direction showed a burning desire to reach beyond what we've done before. It was truly thrilling to be a part of.
+Rui: A director could hardly ask for better praise.
+Rui: Honestly, I do feel a little frustrated. This experience showed me that sometimes, even your best may come up short.
+Luka: Rui...
+Rui: But more than that, I feel excited.
+Rui: I...all of us still have so much room to grow. An entire uncharted world awaits us beyond our current horizon.
+Rui: Just picturing it is so thrilling... Why, it makes me want to sing!
+Tsukasa: You always change gears weirdly fast.
+Rui: I prefer to think of it as being true to myself.
+Nene: Well, why not? It's a good occasion for it.
+Emu: You should sing with us too, Luka!
+Luka: Yes, that sounds like fun♪
+Rui: Thank you, everyone.
+Rui: And to all of you watching over us... I hope you'll listen to what I'm feeling.
+Rui: This is EYELID.
+
+
+2 [MUSIC] 560: EYELID
+
+3 [mc_timeline] mc_ev_wonder_21_2
+
+(Enter: Emu)
+(Enter: Luka)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Rui: It always feels wonderful to sing from the heart. I feel idea after idea welling up inside me.
+Rui: Ah, I know. Maybe I'll take this opportunity to think up effects for the after-party.
+Nene: Effects for the after-party?
+Emu: Ooh! I can't wait to see them♪
+Tsukasa: I'll just say this now: no explosions, and no human cannonballs either.
+Rui: Don't worry, Tsukasa. I promise my effects will exceed your wildest imaginings.
+Tsukasa: That's meant to be reassuring?!
+Luka: Hehehe. Everyone's having so much fun...
+Nene: Ah, Luka! You'll catch cold sleeping out here!
+Luka: Zzz...
+Emu: Luka?
+Rui: Oh dear. She appears to have fallen asleep standing up.
+Tsukasa: Impressive as always, but we can't leave her like that... Let's bring her someplace she can safely lie down.
+Nene: Right.
+Rui: Hehe. Let's go back to KAITO and the others.
+(Exit: Emu)
+(Exit: Tsukasa)
+(Exit: Luka)
+(Exit: Nene)
+Rui: Maybe even these everyday moments will become part of my future shows.
+Rui: How would they resonate in your hearts?
+Rui: I hope we can find the answer together someday.
+(Exit: Rui)

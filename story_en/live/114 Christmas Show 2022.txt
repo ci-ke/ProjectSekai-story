@@ -1,0 +1,112 @@
+114 Christmas Show 2022
+
+1 [mc] mc_2021christmas_1
+
+(Enter: MEIKO)
+MEIKO: Oh... Perfect timing!
+MEIKO: Merry Christmas, everyone!
+MEIKO: I was actually just about to go see how our friends in SEKAI are doing.
+MEIKO: I heard that we might be able to catch their Christmas show too, so c'mon! Let's hurry!
+
+
+2 [mc] mc_2021christmas_2
+
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+(Enter: Len)
+Miku: There once was a boy who transferred to a new school, and was all alone.
+Miku: Forced to move again because of his parents' situation, he finds himself unable to make friends.
+Miku: However, seeing how lonely he looked, his classmates didn't want him to be alone and wanted to be friends with him. So they gathered and called out to him.
+Len: Hey! We're all going to have a Christmas party with the whole class after this!
+(Exit: Miku)
+Emu: There'll be games and snacks to munch on! It's going to be so much fun♪
+Rui: "Thank you for the invitation, but I'm sorry... I'm fine being on my own, so please, don't mind me..."
+Nene: "What? But... Being alone seems so sad."
+(Enter: Tsukasa)
+Tsukasa: My thoughts exactly!!
+Emu: Hey, that sounded like the class president!
+Tsukasa: "No, I am not the class president! I am Santa Claus!"
+Rui: "Um... No, there's no way that you're not the class president."
+Tsukasa: "Grrr... I said I'm Santa Claus, didn't I?! I have come today to deliver a present to our new classmate!"
+Tsukasa: Ta-dah! Friends!
+Rui: Oh... That's nice, but I always end up moving away whether I like it or not...
+Tsukasa: That's something that'll happen later down the line, right? I hardly think that's a good reason to spend today all alone.
+Tsukasa: Besides, it doesn't matter where you are when it comes to having friends!
+Rui: Huh...?
+Emu: Yeah! Even if you can't see each other, you can always send messages or talk over the phone!
+Nene: Exactly. Friends will always be friends no matter what.
+Tsukasa: So, what do you say?!
+Rui: You guys...
+Rui: "Thank you. But I feel like I've forgotten what it's like to be someone's friend..."
+Tsukasa: Don't worry about that! Just sing and dance with us, and we'll all be friends in no time!
+Emu: Yay♪ Alright, let's start the music!
+
+
+3 [MUSIC] 106: As You Like It
+
+4 [mc] mc_2021christmas_3
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Len)
+Len: Hahaha! And just like that, we're friends!
+Tsukasa: Yeah! Merry Christmas, buddy!
+Rui: Hehe. Merry Christmas to you too, class president.
+Tsukasa: Hey, didn't I tell you that I'm Santa Claus!
+Emu: "Haha!"
+Len: "Haha!"
+Nene: "Haha!"
+(Enter: Miku)
+Miku: And so, the once lonely boy was able to celebrate a warm and happy Christmas. The end!
+
+
+5 [mc] mc_2021christmas_4
+
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+Miku: Welcome back, MEIKO! I see that you went to SEKAI with everyone.
+MEIKO: I sure did. We got to see a wonderful show. It had a very sweet and warm story.
+Luka: I'm glad to hear that. Did you all enjoy their show too?
+MEIKO: Hehe. It was worth hurrying over, wasn't it?!
+Rin: Aww, it's so unfair that you guys get to have all this fun!
+Miku: Well, how about we all try doing a show together? A special show that can spread the gift of song to everyone here!
+Rin: Wow! That sounds like fun!
+Luka: Seems like everyone is looking forward to it too.
+MEIKO: Yes! Let's do it!
+
+
+6 [MUSIC] 10: Happy Synthesizer
+
+7 [mc] mc_2021christmas_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Luka)
+(Enter: MEIKO)
+Rin: Hahaha! Thanks for joining in on the fun, everyone!
+(Enter: Len)
+(Enter: KAITO)
+Len: Hey, why are the four of you hogging the fun all for yourselves?!
+KAITO: Yes, it would've been nice to sing along with you guys.
+Luka: Hehe. That's exactly what Rin said just a second ago.
+MEIKO: That's true. I guess this sort of thing is much better when we all have fun together.
+MEIKO: Len, KAITO! I still feel like singing, so would you like to join me?
+Len: Of course!
+KAITO: Of course!
+Rin: Me too! Me too!
+Miku: In that case, shall we just get right into the Christmas party?
+MEIKO: That sounds great!
+MEIKO: Are you all ready? Here we go!
+Miku: "Merry Christmas!"
+Rin: "Merry Christmas!"
+Len: "Merry Christmas!"
+Luka: "Merry Christmas!"
+MEIKO: "Merry Christmas!"
+KAITO: "Merry Christmas!"
+Miku: Have a wonderful Christmas, everyone!

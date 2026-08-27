@@ -1,0 +1,91 @@
+81 Unnamed Harmony After Show (event_27)
+
+1 [mc] mc_ev_band_04_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Saki: *Sigh*... We practiced so much today!
+Ichika: We sure did. At this rate, I wonder if we'll be ready in time for the show.
+Shiho: Yeah, there's still a lot of things we need to work on too.
+Honami: Alright! Hang in there. Just a little more to go.
+(Enter: Miku)
+(Enter: Rin)
+Ichika: Miku! Rin!
+Miku: Hey you guys. Seems like practice is going well.
+Shiho: Yes. Somewhat. Thank you for practicing with us, Miku, Rin.
+Honami: Thanks to you two, we made a lot of progress.
+Rin: Hehehe. I had fun helping out, too♪
+Saki: Oh, hey Rin! I want to thank you too for helping me the other day!
+Rin: The other day?
+Saki: Yeah! You know, when I was having trouble composing?
+Saki: You taught me something really important then and because of that, I was able to take a step forward!
+Rin: Oh, that! I don't think I really did anything though.
+Rin: But, I'm glad I was able to help you out, Sakki☆
+Saki: Actually, on that note...
+Saki: I have a song I want you to listen to today, Rin!
+Rin: Me?
+Saki: Yeah! I've been thinking about what feelings we should put into our songs as Leo/need.
+Saki: And I want you to listen to those feelings!
+Rin: Your feelings, huh... Hehehe, I can't wait!
+Ichika: In that case, would you like to join us, Miku?
+Miku: Of course! I'm ready anytime.
+Ichika: To all of you who came, we hope you enjoy the song with us.
+Saki: Let's pump it up all together!
+Ichika: Let's do this, "From Tokyo!"
+
+
+2 [MUSIC] 130: From Tokyo
+
+3 [mc] mc_ev_band_04_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+(Enter: Rin)
+Rin: Amazing! That was so awesome!
+Rin: All of your feelings really came through!
+Saki: Really? Yay!
+Saki: So the thing is... I have one more announcement to make.
+Saki: We made our own song!
+Rin: Really? That's amazing!
+Ichika: Saki, hold on...
+Saki: Well, we only have the melody at the moment, though.
+Rin: Oh, really?
+Honami: Yes. We still need to write the lyrics too.
+Miku: But that will still take time, right?
+Saki: Haha yeah... But, at this rate, it should be done in no time♪
+Ichika: Saki, please...
+Miku: Although, it sounded pretty good at the meeting the other day.
+Shiho: I guess...
+Saki: Yeah! I really understand now how much fun it is to make a song together!
+Honami: Hehe, I can't wait to hear Ichika's lyrics too.
+Rin: Oh, really? So Ichi's going to be the one writing the lyrics?
+Saki: Yeah! If Ichi writes them, there's no doubt they're gonna be great!
+Ichika: Saki, you're setting the bar too high...
+Shiho: I can't wait to hear it.
+Honami: Me too!
+Ichika: You girls, too?
+Saki: Actually, when we were making the song, I realized something.
+Saki: I want to be in a band with you all forever!
+Shiho: Saki...
+Saki: If I want to become a professional, I need to put in a lot more practice. On top of that, I've only just started composing...
+Saki: But, making songs has helped me gain some confidence. I feel more able to contribute.
+Saki: Also, if this song can reach someone's heart...
+Saki: Hehehe. I can't wait to go pro and have many people listen to my music!
+Honami: How wonderful.
+Shiho: And in order to achieve that, we've got to work harder than ever.
+Rin: You got this, Sakki!♪
+Saki: Yeah!
+Saki: And everyone out there too. Thank you for always supporting us!
+Saki: We still need to finish the song and practice... It'll be really tough but we'll give it our all!
+Saki: So, we hope you all will continue to support us♪
+Saki: Thank you! In the meantime, look forward to Ichi's lyrics!
+Ichika: Saki, knock it off!
+Shiho: Looking forward to some good lyrics.
+Rin: We believe in you, Ichi♪
+Honami: Hehe. Anyways, shall we call it a day?
+Saki: Good idea! Bye bye, everyone!

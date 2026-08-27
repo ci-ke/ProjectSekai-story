@@ -1,0 +1,167 @@
+251 Let SEKAI Hear Your Song! After Show (event_105)
+
+1 [mc] mc_ev_shuffle_35_1
+
+(Enter: Miku)
+Miku: Hello, everyone! Thank you for coming again!
+Miku: What's that? I seem happier than usual?
+Miku: The truth is, something amazing happened just recently. Well, you all know that.
+Miku: It was a shock to meet our SEKAI selves... But it felt great to tell my other self how I felt.
+Miku: Hehe, I wonder how everyone in each SEKAI is doing now... Wanna take a peek?
+
+
+2 [mc] mc_ev_shuffle_35_2
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: The show went so well!
+Miku: After we finished, the girls even said they wanted to practice more.
+Luka: I'm sure Len's singing left them energized.
+Len: Do you think so? I hope so...
+Rin: I know so! You sang so incredibly well!
+KAITO: Yes. You were even more passionate than usual.
+Rin: I heard something good happened! What was it? Was it actually ice cream?!
+Len: What are you talking about?
+Len: Hm... You might not believe this, but the thing is...
+
+
+3 [mc] mc_ev_shuffle_35_3
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Rin: Hey, KAITO! Tell us more about meeting that other KAITO!
+KAITO: Hm, okay. He was just as cool as me, and...
+KAITO: He said my cheerful personality and the way I freely express myself are a source of support for the others!
+Len: You...KAITO...are a source of support?
+Luka: I find that hard to believe.
+KAITO: Whaaat?!
+Miku: But the event was great. It was good fun to sing using your remixes.
+MEIKO: Yes. I'm sure it was a big help for the others.
+KAITO: Really?! I really am amazing.
+Len: Okay, don't let it get to your head!
+
+
+4 [mc] mc_ev_shuffle_35_4
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: It really feels strange to know that other versions of us are watching over us.
+Luka: Even I almost feel like it was just a dream.
+Luka: But to think that version of me really is watching from a distance gives me courage.
+MEIKO: Hehe. As for us, we can rely on OUR Luka right here!
+KAITO: That's right. Thanks to all your efforts to perfect our show, it went incredibly well.
+Rin: And the girls loved it so much!
+Len: Yes. I also think... Our performance reached our other selves watching over us.
+Luka: Yes, I think so too!
+Luka: I'd be so happy if our performance made them smile.
+
+
+5 [mc] mc_ev_shuffle_35_5
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Another Rin and MEIKO... What were they like?
+Rin: What were they like...?
+Rin: They were...shiny.
+Luka: Hehe. So the total opposite of you, then?
+Rin: What does that mean?
+Len: Wh-What was the MEIKO like?
+MEIKO: Well... Different from me.
+Luka: Oh? Just that? I want to hear more details.
+KAITO: There's no need for that. We have a job to do here, which we'll carry out.
+Rin: Yes, you're right.
+Rin: I want...to do what I can for Mafuyu and the others.
+
+
+6 [mc] mc_ev_shuffle_35_6
+
+(Enter: Miku)
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Miku!
+Miku: Oh, hi Tsukasa! Hi everyone☆
+Tsukasa: We're here to fulfill that promise to you!
+Miku: Really?! I've been itching to sing with all of you!
+Nene: But will singing be enough to thank you for the other day?
+Miku: Yup! When I sing with you all, I get all happy and warm☆
+Emu: Then let's get started! What song should we sing?
+Miku: Oh, I wanna sing that song! The one that makes me smile so much!
+Rui: Ah, that song. Well then, let's start our search for smiles!
+Miku: Here we gooo! Theme of Niccori Survey Team!
+
+
+7 [MUSIC] 178: Theme of Niccori Survey Team
+
+8 [mc] mc_ev_shuffle_35_7
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku)
+Miku: Thank you, everyone! That was so sooo much fun☆
+Emu: Me too! I'm all smiley now!
+Rui: Hehe, it looks like we found some smiles.
+Tsukasa: It does indeed! I also felt reinvigorated to work toward our dreams.
+Nene: Me too. Thank you, Miku.
+Miku: Hehehe. You're welcome☆
+Miku: I feel super happy to see the smiles on your faces!
+Miku: And I'm sure me-but-not-me feels happy too☆
+Miku: I hope I can meet her again...
+
+
+9 [mc] mc_ev_shuffle_35_8
+
+(Enter: Miku)
+Miku: Hehe, they had some lovely smiles.
+Miku: I hope our SEKAI selves and the people they look after can do their best.
+Miku: Also, while I was watching them, I...
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+KAITO: Miku, there you are.
+Miku: Oh, you guys!
+Rin: Were you checking in on SEKAI?
+Miku: Yeah! Hey, would you like to sing with me?
+Miku: I want to cheer for all of them in SEKAI!
+MEIKO: Nice idea! Let's sing!
+Len: Yeah! We'll send our feelings to our SEKAI selves!
+Miku: Here goes, then! Journey!
+
+
+10 [MUSIC] 235: Journey
+
+11 [mc] mc_ev_shuffle_35_9
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Luka: I wonder if we reached our SEKAI selves?
+Miku: I don't know... But I hope so.
+Miku: And to all of you, thank you for always supporting us! We may not be able to do anything directly...
+Miku: But we'll keep watching over the others and our SEKAI selves who can help them.
+Miku: Together with all of you!
+Miku: We'll see you soon. Bye for now!

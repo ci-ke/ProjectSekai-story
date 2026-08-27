@@ -1,0 +1,74 @@
+186 Echo My Melody After Show (event_76)
+
+1 [mc] mc_ev_band_11_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+Saki: Hey, don't you think we sounded really great just now?!
+Ichika: Yeah. The acoustics are good here. It was just like playing at a live house.
+Honami: Practicing in a school gym... We wouldn't be able to do this outside of SEKAI.
+Saki: For sure! Oh... That's it! What if we made our video here too? Playing in a school gym is pretty cool, it'll feel like a professional music video♪
+Shiho: I get what you're saying... But that doesn't mean it'll fit the song's concept, does it?
+(Enter: Miku)
+Miku: So this is where you girls were at.
+Ichika: Oh, Miku...
+Miku: I followed the sound here, but I didn't expect to find you practicing in the gym. Seems you're going all out.
+Saki: Hehe♪ We wanna get even better for our future performances!
+Honami: We'll be recording another video soon, so we want to practice for that as well.
+Miku: I see... Oh yeah, did you say you already uploaded the video for Saki's song?
+Shiho: Yeah, just the other day. So far it only has a few views, and there are no comments or anything.
+Honami: But there was one person who subscribed to our channel.
+Saki: Oh, yeah yeah, there was! We were sending so much positive energy to that person!
+Miku: Wow, seems things are going great.
+Shiho: Well, for now we only know that our song reached that one person.
+Ichika: But Miku and a lot of others helped us, so...
+Ichika: Ah, now that I'm remembering when we sang together, I want to sing some more...
+Saki: Ooh, great idea! C'mon, let's sing another song together!
+Honami: Yes, I'd like to sing, too.
+Shiho: I'll join you.
+Ichika: Um, Miku... How about you?
+Miku: Since you're offering... Maybe I'll jump in.
+Saki: Yay! We get to sing with Miku, too♪
+Ichika: Great... Okay, let's all sing together.
+Ichika: the WALL!
+
+
+2 [MUSIC] 259: the WALL
+
+3 [mc] mc_ev_band_11_2
+
+(Enter: Saki)
+(Enter: Ichika)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku)
+Saki: Ahh, that was so much fun!
+Miku: It was. And you girls' performance completed the package... But most importantly, this song let me feel what Ichika feels.
+Ichika: Miku...
+Shiho: I kind of know what you mean.
+Ichika: Thank you... I think singing it now helped me sort out what I was feeling when I made it, too.
+Ichika: If it wasn't for all of you... I wouldn't have been able to write this song.
+Honami: Huh? I don't think any of us were directly involved in your writing process, though...
+Ichika: No, that's not true.
+Ichika: I wrote the song thinking of your hard work, your efforts, everything I appreciate about you...and what I could do to support you.
+Shiho: So that's how you did it... No wonder the song feels so like Leo/need and came so naturally to us.
+Saki: Yeah! Thanks for writing such a wonderful song, Ichi!
+Ichika: No... I'm the one who's grateful to all of you.
+Saki: Y'know, after hearing Ichi talk about all this, now I'm even more excited about bringing her song to the crowds!
+Honami: Right. I'm excited to record the video, too, but... I still just can't wait to debut the song at a show.
+Ichika: Yeah. We should make sure to practice a lot so we can play our best when the time comes.
+Saki: Ooh, Ichi's really got her game face on!
+Shiho: You say that as if it has nothing to do with you, but you're going to need your game face too.
+Shiho: When we played the new song together just now, your mistake during the chorus didn't get past me.
+Saki: Y-Y-You did notice?! My fingers kinda got mixed up...!
+Saki: But but, I won't mess up again, so please look forward to future Saki performances!
+Honami: Hehe, alright, are we going to continue our practice then?
+Shiho: Yeah, for today let's keep going until we've all mastered the parts we're struggling with.
+Saki: All right, I'm gonna give it my all!
+Miku: Well then, I think I'll get back to practicing with Luka and the others. After singing with all of you, I want to play some more.
+Ichika: Okay. I hope we get to hear you all play again soon. And…
+Ichika: Thank you for singing with me again.
+Miku: Don't mention it.
+Miku: Let's do it again sometime.
