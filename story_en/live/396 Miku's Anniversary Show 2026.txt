@@ -3,19 +3,19 @@
 1 [mc_timeline] mc_bd_2025miku_1
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Toya)
 (Enter: Akito)
 (Enter: An)
-Miku: Are we all ready?
+Miku (VBS): Are we all ready?
 Akito: Yeah. Let's blow the roof off this place.
 An: It's not every day you invite us to perform, Miku. We'll give it all we've got!
-Miku: Thanks. Alright, let's do this!
+Miku (VBS): Thanks. Alright, let's do this!
 Akito: Hey! You all know what day it is, right?
 Kohane: Hehe. Of course you do!
 Toya: Today is Miku's anniversary. So of course, she'll be taking center stage.
-Miku: You better keep up with me till the very end. Is everyone ready?
-Miku: That's what I like to hear. Alright, here we go! ULTRA C!
+Miku (VBS): You better keep up with me till the very end. Is everyone ready?
+Miku (VBS): That's what I like to hear. Alright, here we go! ULTRA C!
 
 
 2 [MUSIC] 471: ULTRA C
@@ -23,24 +23,24 @@ Miku: That's what I like to hear. Alright, here we go! ULTRA C!
 3 [mc_timeline] mc_bd_2025miku_2
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Toya)
 (Enter: Akito)
 (Enter: An)
-Miku: Phew. Thanks for listening, everyone.
+Miku (VBS): Phew. Thanks for listening, everyone.
 An: You're on fire today, Miku! That was absolutely electric!
 Toya: Yes. You had even more energy than usual, and it pulled us right along with you.
 Akito: Does it have something to do with why you invited us to perform out of nowhere?
-Miku: You're sharp, Akito.
-Miku: Seeing how excited you all were after meeting your new rivals in the US...
-Miku: It kind of got me fired up too.
-Miku: And I thought, wouldn't it feel awesome to perform with you all right now?
+Miku (VBS): You're sharp, Akito.
+Miku (VBS): Seeing how excited you all were after meeting your new rivals in the US...
+Miku (VBS): It kind of got me fired up too.
+Miku (VBS): And I thought, wouldn't it feel awesome to perform with you all right now?
 Toya: I see. So that's what it was.
-Miku: Yep. Thanks for going along with me.
+Miku (VBS): Yep. Thanks for going along with me.
 Kohane: We're always happy to help, Miku!
 Akito: And so? How'd it feel?
-Miku: It was the best. But I don't need to tell you that, do I? I'm sure you felt it in our song.
-Miku: Hey, everyone. Are you all fired up too?
+Miku (VBS): It was the best. But I don't need to tell you that, do I? I'm sure you felt it in our song.
+Miku (VBS): Hey, everyone. Are you all fired up too?
 Kohane: Hehe, it sounds like it!
 An: Hey, I know! Everyone seems prepped to make some noise, so let's do that thing!
 Toya: That's a great idea. Are you all ready?
@@ -48,9 +48,9 @@ An: Okay, here we go! Happy anniversary, Miku!
 Kohane: Happy anniversary!
 Akito: Happy anniversary!
 Toya: Happy anniversary!
-Miku: Hehe. Thanks, everyone. I really felt all your wishes.
-Miku: There's nothing quite like feeling it firsthand.
-Miku: But we're not done yet. Get ready to scream even louder.
+Miku (VBS): Hehe. Thanks, everyone. I really felt all your wishes.
+Miku (VBS): There's nothing quite like feeling it firsthand.
+Miku (VBS): But we're not done yet. Get ready to scream even louder.
 
 
 4 [mc_timeline] mc_bd_2025miku_3

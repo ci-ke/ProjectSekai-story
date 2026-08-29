@@ -30,11 +30,11 @@ Saki: You're so lucky! Hehe. I've been aching to try them, so I can't believe I'
 Saki: Wait a second... Have you always liked these kinds of chips, Ichi? I'm actually pretty surprised that you knew about these.
 Ichika: Huh? Um... I'm kind of just getting into it now.
 Saki: Really...?
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Saki: Oh, Rin, Miku! We're here!
 Rin: Heya! You're already here! I thought I heard you guys talking just now!
-Miku: Sorry, we were still preparing. Can you buy us a little more time?
+Miku (Ln): Sorry, we were still preparing. Can you buy us a little more time?
 Shiho: We still have a few more things to go through, so you guys should be fine.
 Shiho: Hey, Saki. Mind if I go next?
 Saki: Yeah, of course! Fire away, Shiho!
@@ -43,7 +43,7 @@ Saki: That's true, but... Hehe. A request like this is just what I was expecting
 Shiho: I mean, we're in a band. How about you two join us?
 Ichika: "Yeah!" "Okay!"
 Honami: "Yeah!" "Okay!"
-Miku: In that case, mind if I also join?
+Miku (Ln): In that case, mind if I also join?
 Rin: Alright, I'll be behind the camera this time♪ I'm gonna get so many cool shots of all of you!
 Saki: Wow! Thanks, Miku, Rin!
 Shiho: Pick whatever song you like, Saki. We'll play along with you.
@@ -59,22 +59,22 @@ Saki: Here we go! Leo/need and Miku presents... From Tokyo!!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Saki: Phew, that was so much fun! Hey, wasn't that an amazing performance?!
-Miku: Yes. So amazing that I could clearly sense how much fun you were all having.
+Miku (Ln): Yes. So amazing that I could clearly sense how much fun you were all having.
 Rin: Yeah! I even got really into it while taking pictures of you guys!
 Rin: And look! Everyone here looks like they're also having a great time!
 Saki: Wow, you're right! Thanks for watching us perform, you guys!
 Ichika: I didn't realize there were this many people here... Thank you, everyone!
 Honami: That reminds me. Since you've all come to join us, why don't we all wish Saki a happy birthday together?
 Shiho: Sounds like they're all for it. Take it away.
-Miku: Alright, Saki. Stand in the middle.
+Miku (Ln): Alright, Saki. Stand in the middle.
 Saki: Hehe. I'm probably blushing like crazy now.
 Ichika: Ready...?! Happy birthday, Saki!
 Honami: "Happy birthday!"
 Shiho: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (Ln): "Happy birthday!"
 Rin: "Happy birthday!"
 Saki: Wow...! Thanks, everyone!
 Saki: I didn't think there would be this many people here to celebrate. I don't know what to say.
@@ -82,7 +82,7 @@ Saki: Wait! Yes, I do! We're thinking of trying out a bunch of different things 
 Saki: We're still not sure exactly what we're gonna do... But I have a feeling it's going to be a lot of fun, so make sure to stay tuned, okay♪
 Saki: Now then! All that's left is to grant the girls' wishes♪
 Ichika: Everything's ready, right, Miku?
-Miku: Yes, I believe so.
+Miku (Ln): Yes, I believe so.
 Rin: Sakki! Could you come with me to the classroom next door for juuust a second?
 Saki: The classroom next door? Sure, okay!
 Saki: Hey everyone! Thank you so much for today! Bye bye!
@@ -94,12 +94,12 @@ Saki: Wah!! Huh?! It's you guys?! Wait, the party's all set up already?!
 Ichika: Phew. Looks like our surprise succeeded.
 Shiho: Geez... I was worried about how everything was gonna turn out after Saki suddenly said that she wanted to do whatever we asked...
 Honami: Hehe. To be fair, all we wanted to do was celebrate and wish Saki a happy birthday. All's well that ends well.
-Miku: Alright, why don't we head next door to do just that? The snacks and tea you all brought should be ready too.
+Miku (Ln): Alright, why don't we head next door to do just that? The snacks and tea you all brought should be ready too.
 Ichika: Thank you, Miku! Shall we?
 Honami: "Yes!" "Yeah!"
 Shiho: "Yes!" "Yeah!"
 (Exit: Ichika)
 (Exit: Honami)
 (Exit: Shiho)
-(Exit: Miku)
+(Exit: Miku-Ln)
 (Exit: Saki)

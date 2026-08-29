@@ -37,12 +37,12 @@ Airi: Oh, speaking of pictures, Ena and Mizuki took a lot of them. I wonder if M
 3 [mc] mc_ev_shuffle_07_2
 
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: ...That's how it went. Despite the rough time we had, it was a fun picnic!
 Mizuki: Thanks to Ena, I was able to talk a lot with Airi and Shizuku.
-Miku: I see... I'm a little relieved to hear that.
+Miku (N25): I see... I'm a little relieved to hear that.
 Mizuki: Why are you relieved?
-Miku: That's because it's been a while since I've seen Mizuki's happy face.
+Miku (N25): That's because it's been a while since I've seen Mizuki's happy face.
 Mizuki: Hahaha. Sorry for worrying you. But I'm fine.
 (Enter: Ena)
 Ena: Oh? Mizuki, you're here.
@@ -52,11 +52,11 @@ Mizuki: What, really?! Oh, but I want to watch the anime I have piled up first, 
 Ena: Hey Mizuki... Did something happen?
 Mizuki: Oh, did I make it obvious? Actually, I forgot to pre-order the original art book of my favorite anime. I couldn't buy the limited edition.
 Ena: What... No, that's not what I'm talking about!
-Miku: Hey, you two... I have a favor to ask.
-Miku: I want to hear you both sing.
+Miku (N25): Hey, you two... I have a favor to ask.
+Miku (N25): I want to hear you both sing.
 Mizuki: Sing? Why?
-Miku: You both look a little sad right now.
-Miku: But when you're both singing, you both look like you're having fun...
+Miku (N25): You both look a little sad right now.
+Miku (N25): But when you're both singing, you both look like you're having fun...
 Ena: Miku... It's okay. Please don't make that face.
 Ena: Hey Mizuki. Since Miku asked, do you want to sing together?
 Mizuki: Yeah... I can't say no to a request from Miku either.
@@ -69,18 +69,18 @@ Ena: Well then, lets sing that song together!
 
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: Thanks for listening, everyone!
 Ena: What did you think, Miku?
-Miku: You two looked like you were having fun. Thank you for singing.
+Miku (N25): You two looked like you were having fun. Thank you for singing.
 Mizuki: Yay, I'm so glad♪ Alright then, I should hurry up and go home. Bye bye♪
 Ena: Mizuki, wait! I wasn't finished talking to you!
-Miku: And they're gone...
+Miku (N25): And they're gone...
 (Exit: Mizuki)
 Ena: *Sigh*... I wasn't able to ask Mizuki about their problem again.
-Miku: Ena... You're really worried about Mizuki, aren't you?
+Miku (N25): Ena... You're really worried about Mizuki, aren't you?
 Ena: Well, yeah. But I already know it's going to take some time.
 Ena: Even if Mizuki dodges the question again like just now, I've decided that I'm going to keep pestering them anyway.
-Miku: I see... If there's anyone who can do it, it would be you, Ena.
+Miku (N25): I see... If there's anyone who can do it, it would be you, Ena.
 Ena: Yeah, I'm going to do what I can. Thank you Miku, for worrying about us...
 Ena: And thank you to you too, everyone. I feel like I was able to gather some courage.

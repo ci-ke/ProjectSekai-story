@@ -32,13 +32,13 @@ Minori: Is everyone ready too? Then let's go!
 (Enter: Airi)
 (Enter: Shizuku)
 Minori: Hm? There are more glow sticks than usual today?
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
-Miku: Hello, everyone! I'm Miku!
+Miku (MMJ): Hello, everyone! I'm Miku!
 Shizuku: Oh, Miku! You're here too?
-Miku: Yeah. Because I wanted to sing with everyone!
+Miku (MMJ): Yeah. Because I wanted to sing with everyone!
 Minori: Miku, is it just me, or are there more glow sticks than usual today? What does it mean?
-Miku: These glow sticks lights represent people's feelings.
+Miku (MMJ): These glow sticks lights represent people's feelings.
 Rin: Hehe! And they've all gathered here today because they want to listen to your song!
 Haruka: If that's true, then it's very encouraging. Are they all still watching?
 Airi: Then we have to live up to their expectations as idols! So let's go for one more song!
@@ -57,11 +57,11 @@ Shizuku: "Ready!"
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Minori: *Huff*... *Huff*... This is amazing! The glow sticks moved and swayed along with our song!
 Minori: This is what a real show feels like!
-Miku: Anyway, it's time to close the show with some farewell messages.
+Miku (MMJ): Anyway, it's time to close the show with some farewell messages.
 Minori: What? Stage farewells?! But I've never done that before!
 Haruka: It's okay. Just watch us.
 Shizuku: Everybody, thank you for listening to us today.
@@ -76,6 +76,6 @@ Airi: Please keep giving MORE MORE JUMP! your support!
 Shizuku: Please keep giving MORE MORE JUMP! your support!
 Minori: Um... Did they hear us?
 Rin: Don't worry! I'm sure they did!
-Miku: Hehe. I can't wait to see what kind of idols all of you turn out to be!
+Miku (MMJ): Hehe. I can't wait to see what kind of idols all of you turn out to be!
 Minori: Thank you so much for today!
 Rin: See you!

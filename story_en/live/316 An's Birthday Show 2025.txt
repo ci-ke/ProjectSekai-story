@@ -9,20 +9,20 @@
 An: This is where Miku said to meet. Where is everyone?
 Akito: They must be around here...
 Kohane: Ah! There they are!
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
-Miku: Sorry to keep you all waiting.
+Miku (VBS): Sorry to keep you all waiting.
 MEIKO: We invited you, and then we showed up late. Sorry about that.
 An: No, not at all! I mean... This is for my birthday, right?
 Akito: Wouldn't it have made more sense to meet up at MEIKO's place?
 MEIKO: Len and the others are getting things ready, so we need you to wait a little bit.
 An: Oh, I see! Hehe, I'm so excited.
-Miku: We really struggled to come up with good ideas this time.
+Miku (VBS): We really struggled to come up with good ideas this time.
 Toya: Is that so?
-Miku: Yeah. Remember that party we threw after you surpassed RAD WEEKEND?
-Miku: We sort of ended up talking about how we could surpass that party.
+Miku (VBS): Yeah. Remember that party we threw after you surpassed RAD WEEKEND?
+Miku (VBS): We sort of ended up talking about how we could surpass that party.
 Kohane: That was one amazing party...
-Miku: Right. We thought it would be a shame if your birthday lost out in comparison.
+Miku (VBS): Right. We thought it would be a shame if your birthday lost out in comparison.
 MEIKO: So we brainstormed together... And came up with a new kind of party.
 An: A new kind of party?! What does that mean?!
 MEIKO: We're calling it...a live show party!
@@ -30,8 +30,8 @@ Toya: A live show party?
 MEIKO: That's right. We're going to sing songs, eat good food, drink coffee and be merry!
 An: Wow, that sounds like fun!
 Akito: Wait a minute. Isn't that just what we usually do?
-Miku: Ah... You saw right through us.
-Miku: We really thought it over, but in the end, we figured An would have the most fun if she could sing.
+Miku (VBS): Ah... You saw right through us.
+Miku (VBS): We really thought it over, but in the end, we figured An would have the most fun if she could sing.
 An: Haha, you're not wrong! You guys really get me.
 MEIKO: Of course we do. The others should be ready just about now. Should we head to the cafe?
 An: Yeah! Oh, but first...
@@ -40,7 +40,7 @@ Toya: A rehearsal?
 An: Yeah! I wanna get warmed up before we go, so I can have fun singing at MEIKO's place!
 Kohane: That's a great idea! I'd love to sing too.
 Toya: Guess I'll join in too.
-Miku: Then I will too.
+Miku (VBS): Then I will too.
 MEIKO: You'll need an audience, right? I'm looking forward to it already.
 An: You just watch! Here we go, everyone... Beyond the way!
 
@@ -53,7 +53,7 @@ An: You just watch! Here we go, everyone... Beyond the way!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 MEIKO: That was fantastic! What an intense performance.
 An: Thank you very much!
@@ -61,7 +61,7 @@ An: Whew. For a rehearsal, we sure went all-out!
 Akito: Says the one who kicked it into high gear to start with.
 An: I mean, just look at this audience. Of course I'm going to get into it!
 Toya: You're not wrong about that.
-Miku: All these people came to celebrate you, An. So it worked out perfectly, didn't it?
+Miku (VBS): All these people came to celebrate you, An. So it worked out perfectly, didn't it?
 An: Oh, I didn't even realize... Haha, thanks, everyone!
 MEIKO: Hey, I know. Since we're all here, why not cheer for An together?
 Akito: Works for me. Kohane, do the honors?
@@ -71,7 +71,7 @@ Kohane: Okay, um... Is everyone ready?
 Kohane: Here goes... Happy birthday, An!
 Akito: Happy birthday!
 Toya: Happy birthday!
-Miku: Happy birthday!
+Miku (VBS): Happy birthday!
 MEIKO: Happy birthday!
 An: Thanks, everyone! I never would've made it this far on my own.
 An: I was determined to succeed alone if I had to... But that was naive of me.

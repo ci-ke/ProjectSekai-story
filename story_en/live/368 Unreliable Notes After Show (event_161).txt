@@ -3,7 +3,7 @@
 1 [mc_timeline] mc_ev_night_20_1
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
@@ -31,7 +31,7 @@ Mafuyu: ...
 Kanade: It's okay. I'm right here with you.
 Kanade: It may be scary, but... Let's move forward together.
 Mafuyu: Thank you...
-Miku: Kanade. Please take care of Mafuyu.
+Miku (N25): Kanade. Please take care of Mafuyu.
 Kanade: I will.
 Rin: Kanade. If you feel okay... I want you to sing.
 Kanade: Huh?
@@ -51,14 +51,14 @@ Kanade: Twilight Light.
 3 [mc_timeline] mc_ev_night_20_2
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
 Kanade: How was that, Rin?
 Rin: Mm. It felt very emotional. It was good, I think.
-Miku: I felt it too, singing with all of you. Your drive to move forward.
+Miku (N25): I felt it too, singing with all of you. Your drive to move forward.
 Kanade: I'm glad.
 Rin: Kanade, Mafuyu. You can do it.
 Kanade: *Nod* Thank you.
@@ -76,7 +76,7 @@ Mizuki: Hahaha! We sure did.
 Kanade: Miku, Rin. Thank you.
 Kanade: We'll come hang out again soon.
 Rin: Okay.
-Miku: We'll be waiting.
+Miku (N25): We'll be waiting.
 Kanade: And thank you all for watching over me.
 Kanade: I'm sorry for worrying you all. And I hope you'll come visit again sometime.
 Kanade: See you then.

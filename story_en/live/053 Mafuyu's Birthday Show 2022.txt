@@ -6,10 +6,10 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: Hey, the sparks are already here! They must be waiting for us!
 Mizuki: Well then, let's start Mafuyu's birthday party right away!
-Miku: Happy birthday, Mafuyu.
+Miku (N25): Happy birthday, Mafuyu.
 Mafuyu: Thank you.
 Ena: You don't seem happy at all.
 Mizuki: Huh? Are you like, the no-birthday-celebrations type?
@@ -22,7 +22,7 @@ Mafuyu: How I really feel...
 Mafuyu: That song...
 Kanade: What song?
 Mafuyu: The song we all sang together a while ago... I feel something like that.
-Miku: Then shall we sing that song again? It may help you to understand your feelings.
+Miku (N25): Then shall we sing that song again? It may help you to understand your feelings.
 Mafuyu: Okay. Let's do that.
 Ena: Sheesh, you're really high-maintenance.
 Mizuki: You say that, but you're still going to sing for her, right?
@@ -36,7 +36,7 @@ Kanade: Then, let's sing!
 3 [mc] mc_bd_2021mafuyu_2
 
 (Enter: Kanade)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Ena)
 (Enter: Mizuki)
 (Enter: Mafuyu)
@@ -49,7 +49,7 @@ Mafuyu: I think there was something similar in there, but... Singing is so much 
 Mizuki: You understood that?
 Ena: Not at all.
 Ena: At least she didn't default to her usual "I don't know," so I guess she definitely felt something.
-Miku: Yes. Mafuyu, you really tried your best...
+Miku (N25): Yes. Mafuyu, you really tried your best...
 Mafuyu: Did I?
 Kanade: Although I don't know how you feel about your birthday celebration...
 Kanade: I do know that I'm grateful you were born into this world, and that we're making songs together now.

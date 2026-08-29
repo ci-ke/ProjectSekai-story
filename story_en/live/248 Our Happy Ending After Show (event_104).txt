@@ -20,11 +20,11 @@ Emu: "Yeah!!!"
 (Exit: Emu)
 (Exit: Nene)
 (Exit: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: MEIKO)
 MEIKO: "And so, the traveling troupe headed for the next town."
 MEIKO: "Just what awaits them in their next travels?"
-Miku: "Find out...next time!"
+Miku (WxS): "Find out...next time!"
 (Enter: Tsukasa)
 (Enter: Emu)
 (Enter: Nene)
@@ -32,7 +32,7 @@ Miku: "Find out...next time!"
 Tsukasa: Yes! That was quite good for an improv performance, wouldn't you say?
 Rui: Indeed. Not many shows end with a "find out next time", but...
 Rui: When it comes to this one, allowing it to continue on may be the best choice.
-Miku: Mhm! I think so too!
+Miku (WxS): Mhm! I think so too!
 Nene: Hehe, you do have a point.
 Emu: Hehehe...
 Nene: Huh? What is it, Emu?
@@ -45,15 +45,15 @@ Emu: But! I'm fine now!
 Emu: I feel suuuper happy about the things that make me happy!
 Rui: Hehe... And I'm happy you feel that way.
 Nene: Yeah...!
-Miku: Hehehe☆ So much happy!!!
-Miku: Oh, hey everyone! You should sing out those happy feelings!
+Miku (WxS): Hehehe☆ So much happy!!!
+Miku (WxS): Oh, hey everyone! You should sing out those happy feelings!
 MEIKO: Yes, I agree! When you're happy, expressing it with your body makes you feel even happier!
 Nene: Then... How about that one, Emu?
 Emu: That one? Oh... Yeah!
 Emu: Let's all sing it together! Are you ready?
 Tsukasa: Yes! Yeah☆
 Rui: Yes! Yeah☆
-Miku: Yes! Yeah☆
+Miku (WxS): Yes! Yeah☆
 Emu: Okay, here we go!!!
 Emu: The World Hasn't Even Started Yet!!!
 (Exit: MEIKO)
@@ -67,7 +67,7 @@ Emu: The World Hasn't Even Started Yet!!!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: MEIKO)
 Emu: Hehe... Hehehe!
 Emu: Everybody! Thanks so much for listening!
@@ -96,10 +96,10 @@ Tsukasa: Hehe. That's the attitude we like to see from you, Emu!
 Tsukasa: Well then, let the rest of us prepare as well! Though...what to carry should require less thought than our stance for the future.
 Rui: True. Miku, MEIKO, might you two be willing to help us?
 Rui: We need to make a map of where to go on our adventure!
-Miku: Yeah! Absolutely positively!
+Miku (WxS): Yeah! Absolutely positively!
 (Exit: Tsukasa)
 (Exit: Emu)
 (Exit: Nene)
 (Exit: Rui)
-(Exit: Miku)
+(Exit: Miku-WxS)
 (Exit: MEIKO)

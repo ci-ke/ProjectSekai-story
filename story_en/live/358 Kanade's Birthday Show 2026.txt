@@ -3,24 +3,24 @@
 1 [mc_timeline] mc_bd_2025kanade_1
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
-Miku: Hello, everyone.
+Miku (N25): Hello, everyone.
 Ena: You're here for Kanade's birthday, right? Do you want to celebrate with us?
 Mizuki: Ooh, looks like everyone's on board! Okay, let's go!
 Mizuki: Happy birthday, Kanade!
 Ena: Happy birthday, Kanade!
 Mafuyu: Happy birthday.
-Miku: Happy birthday.
+Miku (N25): Happy birthday.
 Kanade: Thank you.
 Kanade: And thank you all, too.
 Kanade: Having people make such a big deal out of my birthday feels strange.
 Ena: Hey, it only happens once a year. Of course people want to celebrate.
 Mizuki: Right! You all agree too, right?
 Kanade: Ah...
-Miku: I heard that other people you know also gave you well-wishes, Kanade.
+Miku (N25): I heard that other people you know also gave you well-wishes, Kanade.
 Kanade: Oh, yes. It seems that Ena and the others let them know.
 Kanade: It's a bit of a surprise to realize just how many people I've come to know now.
 Kanade: When we first started out, I didn't even know any of your real names or faces, either.
@@ -49,7 +49,7 @@ Kanade: Meru.
 3 [mc_timeline] mc_bd_2025kanade_2
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
@@ -58,18 +58,18 @@ Kanade: I hope our feelings reached you.
 Ena: Of course they did! Right, everyone?
 Ena: You see?
 Kanade: Yeah. I'm glad.
-Miku: Ah...
+Miku (N25): Ah...
 Mafuyu: What is it?
-Miku: I think I just heard Rin and the others.
+Miku (N25): I think I just heard Rin and the others.
 Kanade: Huh, really?
 Mizuki: I think the party setup is all done and they're here to fetch us.
 Kanade: Oh, okay. We should go, then.
 Kanade: Thank you all so much for today.
 Kanade: After such a kind celebration, I'll be sure to treasure this year.
 Kanade: Okay, see you later.
-Miku: Bye bye.
+Miku (N25): Bye bye.
 (Exit: Mafuyu)
-(Exit: Miku)
+(Exit: Miku-N25)
 (Exit: Mizuki)
 (Exit: Kanade)
 (Exit: Ena)

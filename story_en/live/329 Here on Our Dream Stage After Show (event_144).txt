@@ -30,15 +30,15 @@ Toya: Yes. It really was a special experience.
 
 3 [mc_timeline] mc_ev_shuffle_49_3
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 (Enter: Ichika)
 (Enter: Saki)
 (Enter: Shiho)
 (Enter: Honami)
 Luka: Today's practice sure was intense.
-Miku: Yes.
-Miku: Especially you, Shiho. You were really into it.
+Miku (Ln): Yes.
+Miku (Ln): Especially you, Shiho. You were really into it.
 Shiho: Huh? I was?
 Saki: You were piping hot! I kept getting caught up in your energy♪
 Shiho: Piping hot... I'm not food, you know.
@@ -68,11 +68,11 @@ Ena: I'm glad our work was able to make the show come to life.
 5 [mc_timeline] mc_ev_shuffle_49_5
 
 (Enter: Minori)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Airi)
 (Enter: Haruka)
 (Enter: Shizuku)
-Miku: Your acting was so good, Airi!
+Miku (MMJ): Your acting was so good, Airi!
 Haruka: You were so lively and bold, and so natural.
 Airi: Well, I was pretty nervous beforehand.
 Airi: But it was gone as soon as I stepped on stage! Not to mention, it helped hearing the cheers from all our friends and the rest of the audience.

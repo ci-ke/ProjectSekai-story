@@ -15,19 +15,19 @@ Ichika: "Say again?"
 Honami: "Say again?"
 Shiho: "Say again?"
 (Enter: Luka)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Luka: Hey, what's everyone talking about?
 Honami: We're trying to decide what to do.
-Miku: Oh, that's nice. Have you decided on something already?
+Miku (Ln): Oh, that's nice. Have you decided on something already?
 Ichika: Not yet because Saki's not being herself.
 Saki: Huh?! What makes you say that?
 Shiho: Because you're being too calm today. You're usually the first to agree to doing just about anything.
 Saki: Oh come on! Like you guys said, "There's no need to hurry."
 Saki: Right now, you're looking at an all-new and improved Saki who's cool, calm, composed, and super patient!
-Miku: Oh... So you don't mind if we postpone our practice session to another day, then?
+Miku (Ln): Oh... So you don't mind if we postpone our practice session to another day, then?
 Saki: Wait, no! We can't postpone it! We have to do it today!
 Luka: Hehe, that's more like the Saki we know.
-Miku: Well everyone, shall we comply with Saki's request and start our practice right away?
+Miku (Ln): Well everyone, shall we comply with Saki's request and start our practice right away?
 Ichika: "Yeah!"
 Honami: "Yeah!"
 Shiho: "Yeah!"
@@ -41,7 +41,7 @@ Shiho: "Yeah!"
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Sigh. Playing this song makes me realize how much this all means to me.
 Honami: Why?
@@ -56,5 +56,5 @@ Shiho: Why don't we practice some more, then? That way, you'll feel happier for 
 Saki: Oh no... Shiho the drill instructor strikes again!
 Shiho: We'll start from the top and focus on that part where our rhythm was off. Is everyone ready?
 Saki: Y-Yes, ma'am!
-Miku: Hehe. Looks like everything's fine now. Shall we join them, Luka?
+Miku (Ln): Hehe. Looks like everything's fine now. Shall we join them, Luka?
 Luka: Yes, we should!

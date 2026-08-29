@@ -23,8 +23,8 @@ Rui: Now, as much as I would love to start the practice session now, I can't hel
 (Exit: KAITO)
 (Exit: MEIKO)
 Tsukasa: Hm? Now that you mention it... Hey Miku! Where are you?
-(Enter: Miku)
-Miku: Ta-ta-tadah☆ I have come as called♪
+(Enter: Miku-WxS)
+Miku (WxS): Ta-ta-tadah☆ I have come as called♪
 Tsukasa: Argh?! Wh-Where'd you pop out from?! You almost gave me a heart attack!
 Nene: You're exaggerating... Anyway, Miku's here now, so let's start already.
 Emu: Tsukasa, hurry up♪
@@ -40,9 +40,9 @@ Tsukasa: And now, sit back and enjoy the very first show of Wonderlands×Showtim
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 Rui: Good. Everyone did their part correctly. That was a pretty good performance.
-(Exit: Miku)
+(Exit: Miku-WxS)
 Emu: What about everyone in the audience? Did you guys have fun too?
 Nene: That's great... Oh, wait. Those two over there, are they...
 (Enter: Rin)
@@ -53,8 +53,8 @@ Rin: Because Miku said we can watch your show from here♪
 Rin: And what a show it was! I can't wait to see what your next performance will be like!
 (Exit: Rin)
 (Exit: Len)
-(Enter: Miku)
-Miku: Hehe☆ Rin and Len are here to see our show like they promised♪ Now I'm pumped to do even better!
+(Enter: Miku-WxS)
+Miku (WxS): Hehe☆ Rin and Len are here to see our show like they promised♪ Now I'm pumped to do even better!
 Tsukasa: Yes, we have to live up to our audience's expectations! Let the second act of the show begin!
 
 
@@ -85,9 +85,9 @@ Rui: Yes, being a newly-formed troupe, there's great potential for future growth
 Nene: Yeah, potential for you all to get weirder. Who knows if that'll help our shows at all.
 Tsukasa: What are you saying? What can be cultivated should be cultivated, no matter what it is!
 (Exit: MEIKO)
-(Enter: Miku)
+(Enter: Miku-WxS)
 KAITO: Hehe. I believe all of you can definitely create plenty of great shows that will put a smile on many people's faces.
-Miku: Yup♪ I wanna watch those shows too!
+Miku (WxS): Yup♪ I wanna watch those shows too!
 Tsukasa: Thank you, thank you for all the support right at the start of the new year!
 Emu: We have more fun shows in store for you this year too, so you absolutely have to come watch us perform♪
 Emu: Absolutely, okay? Absoluuuuutely!

@@ -4,11 +4,11 @@
 
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mafuyu)
 Kanade: Thanks for waiting, everyone.
-Miku: Hello, you two.
+Miku (N25): Hello, you two.
 Kanade: Sorry we're late. Did you wait long?
 Ena: We didn't mind waiting, but... What happened?
 Mafuyu: We're late because we were washing up after dinner.
@@ -19,7 +19,7 @@ Ena: Right... Well, I guess being that focused on your work is what makes you yo
 Mizuki: Hahaha! Plus, we used the extra time to finish setting up your birthday party♪ Also...
 Mizuki: Look at all these people who came to see you!
 Kanade: Oh yeah... There are so many.
-Miku: I think they're here to celebrate with us.
+Miku (N25): I think they're here to celebrate with us.
 Mafuyu: Oh...
 Mizuki: That's awesome!
 Mizuki: Since these people came all this way, let's celebrate with them before the party!
@@ -30,7 +30,7 @@ Mizuki: Oh, you sound born ready! Here we go... Three, two, one!
 Kanade: Happy birthday, Mafuyu!
 Ena: Happy birthday, Mafuyu!
 Mizuki: Happy birthday, Mafuyu!
-Miku: Happy birthday, Mafuyu!
+Miku (N25): Happy birthday, Mafuyu!
 Mafuyu: Thank you.
 Mizuki: Oh yeah. You said you wanted to sing today, Mafuyu, so why not sing for everyone here?
 Mafuyu: Everyone here?
@@ -41,8 +41,8 @@ Mizuki: Hahaha! Come on now, Ena!
 Mizuki: Still, it was a nice surprise when we asked how you wanted to celebrate, and you said, "I want to sing."
 Ena: True. We thought you'd just say "anything" like you usually do.
 Mafuyu: Singing...makes me feel a little better.
-Miku: I see.
-Miku: Then, let's sing.
+Miku (N25): I see.
+Miku (N25): Then, let's sing.
 Mafuyu: Okay.
 Mizuki: Alright! Kanade, Miku, we'll leave it to you!
 Mafuyu: Well then, I'll sing now. Jishoumushoku.
@@ -56,7 +56,7 @@ Mafuyu: Well then, I'll sing now. Jishoumushoku.
 
 (Enter: Kanade)
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Mizuki)
 (Enter: Ena)
 Mizuki: Nice work, you three! You killed it!
@@ -65,7 +65,7 @@ Mafuyu: Kanade. Miku. Thank you.
 Kanade: Huh...?
 Mafuyu: I'm...glad we could sing together.
 Mafuyu: I feel warmer inside.
-Miku: Mafuyu...
+Miku (N25): Mafuyu...
 Kanade: I'm happy to hear that.
 Mafuyu: *Nod*
 Mafuyu: Next... I'd like to sing with Mizuki and Ena.
@@ -79,4 +79,4 @@ Mizuki: Everyone! Thank you so much for coming!
 Ena: C'mon Mafuyu, you too. They all came to see you.
 Mafuyu: Thank you for today.
 Mafuyu: And, see you next time.
-Miku: Bye bye.
+Miku (N25): Bye bye.

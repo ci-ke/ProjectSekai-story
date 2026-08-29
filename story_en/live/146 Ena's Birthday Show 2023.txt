@@ -6,7 +6,7 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 Rin: So many people...
 Ena: Yeah, you're right. Thank you all for coming.
@@ -17,18 +17,18 @@ Mizuki: Anyway, let's start counting down!
 Mizuki: Feel free to join us, you guys♪ Ready... Go!
 Kanade: 5!
 Mafuyu: 4!
-Miku: 3!
+Miku (N25): 3!
 Rin: 2!
 Mizuki: 1!
 Ena: 0!
 Mizuki: Happy birthday, Ena♪
 Kanade: "Happy birthday."
 Mafuyu: "Happy birthday."
-Miku: "Happy birthday."
+Miku (N25): "Happy birthday."
 Rin: "Happy birthday."
 Ena: Thanks.
 Ena: Thank you all too.
-Miku: Thank you for letting us do that countdown, Ena. It was pretty fun...
+Miku (N25): Thank you for letting us do that countdown, Ena. It was pretty fun...
 Kanade: I had fun too. Especially since this was a first for me.
 Kanade: Oh, sorry if I got a little carried away... I know we're supposed to be your birthday.
 Ena: You don't have to apologize. Birthday parties should be fun for everyone involved, right? It's not just about me.
@@ -42,7 +42,7 @@ Ena: I want to clearly convey how I feel through what I draw. I want to get rid 
 Ena: So I'm gonna sit down, really study, face my art and find a way to grow...
 Rin: I see...
 Rin: I think I like this version of Ena...
-Miku: I do too. What do you think she'd sound like if she were to sing right now?
+Miku (N25): I do too. What do you think she'd sound like if she were to sing right now?
 Ena: Huh?
 Mizuki: Hey, that's a great idea! Since we're all here, why don't we kick this birthday party into overdrive?!
 Ena: I guess this only does happen once a year. Would you like to join me, Kanade, Mafuyu?
@@ -59,11 +59,11 @@ Ena: Hope you all enjoy it too Nomad...
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 Ena: Thanks for listening, everyone!
-Miku: That was nice...
-Miku: I could really feel your determination as you sang, Ena.
+Miku (N25): That was nice...
+Miku (N25): I could really feel your determination as you sang, Ena.
 Ena: Really? Thanks. That's probably because I feel genuinely motivated to do my best now.
 Kanade: I believe in you, Ena.
 Mafuyu: So do I...
@@ -76,4 +76,4 @@ Ena: Anyway, the point is that I'm going to keep drawing. If you ever see anythi
 Kanade: Okay. I promise.
 Ena: Hehe. I have everyone here to celebrate my birthday and I feel great after singing. This birthday's turning out to be pretty good.
 Ena: Again, everyone, thanks for joining us. We'll see you all again next time.
-Miku: Bye bye.
+Miku (N25): Bye bye.

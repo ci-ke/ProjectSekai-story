@@ -4,12 +4,12 @@
 
 (Enter: Mafuyu)
 (Enter: Ena)
-(Enter: Miku)
+(Enter: Miku-N25)
 Ena: Oh, Mafuyu, Miku, there you are.
 Ena: You know everyone's been busy preparing for your birthday party, right?
 Ena: If the birthday girl doesn't turn up soon, then... Hey, you don't look too good.
 Mafuyu: Nothing's wrong...
-Miku: But...you look a bit weary, Mafuyu.
+Miku (N25): But...you look a bit weary, Mafuyu.
 Ena: Oh, you think so too, Miku? Did something happen at home?
 Mafuyu: No, nothing happened. All we did was celebrate my birthday and then talk about my future.
 Ena: Hmmm... Well, if you don't want to talk about it, that's fine.
@@ -19,10 +19,10 @@ Ena: Huh? Well...we could chat, or do something to help you decompress.
 Ena: I've got it! A pretty famous online fashion brand just opened up shop in front of the station, so maybe...
 Mafuyu: I'm not interested...
 Ena: I figured...
-Miku: Um, Ena, Mafuyu...
+Miku (N25): Um, Ena, Mafuyu...
 Ena: Yes? Don't tell me—you've got an idea?
-Miku: Oh, uh...
-Miku: If Mafuyu doesn't feel like discussing it, then maybe singing together will help us connect with her emotions.
+Miku (N25): Oh, uh...
+Miku (N25): If Mafuyu doesn't feel like discussing it, then maybe singing together will help us connect with her emotions.
 Mafuyu: That much I can do...
 Ena: Okay then, I'll sing too.
 Ena: Although I may not fully comprehend your emotions, Mafuyu, I can't just pretend I didn't notice the sadness in your eyes.
@@ -36,12 +36,12 @@ Mafuyu: Alright... Let's start.
 
 (Enter: Mafuyu)
 (Enter: Ena)
-(Enter: Miku)
-Miku: Mafuyu, Ena, look. So many people gathered here to show their support.
+(Enter: Miku-N25)
+Miku (N25): Mafuyu, Ena, look. So many people gathered here to show their support.
 Ena: You're right. Since when did they...
 Ena: Thank you for listening, everyone. Mafuyu, you should say something, too.
 Mafuyu: Thank you...
-Miku: Oh. Mafuyu. You look like you're feeling better.
+Miku (N25): Oh. Mafuyu. You look like you're feeling better.
 Mafuyu: Yes. I think I do feel a little better.
 (Enter: Kanade)
 (Enter: Mizuki)
@@ -49,19 +49,19 @@ Mizuki: Oh, there they are! Heeey, you guys!
 Kanade: So this is where you were. Ena didn't come back, so we went out looking for you.
 Ena: Sorry you two. We kind of got caught up in something...
 Ena: Hey, since everyone's here, how about we wish Mafuyu a happy birthday together?
-Miku: Oh... The audience seems happy to join in.
+Miku (N25): Oh... The audience seems happy to join in.
 Mizuki: Oh! They're all hyped up! Let's do this♪
 Ena: Okay, ready?
 Ena: Happy birthday, Mafuyu!
 Kanade: "Happy birthday!"
 Mizuki: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (N25): "Happy birthday!"
 Mafuyu: Thank you...
 Mafuyu: Somehow...this celebration feels completely different from the one I had at home.
 Ena: That's probably because it's us. And having a giant crowd wishing you a happy birthday is bound to feel different.
 Ena: More importantly, isn't there anything you want to say to everyone?
 Mafuyu: Thank you for celebrating my birthday today...
-Miku: Everyone looks so happy to have been able to wish you a happy birthday, Mafuyu.
+Miku (N25): Everyone looks so happy to have been able to wish you a happy birthday, Mafuyu.
 Mafuyu: I see...
 Mizuki: Anyway, since it's your big day, Mafuyu, we need to make sure you have loads more fun!
 Kanade: Yeah, Len and the others have probably finished preparing, so we should head over now.
@@ -70,9 +70,9 @@ Mafuyu: Ena, Miku...
 Ena: Hm?
 Mafuyu: Thank you...for singing with me.
 Ena: "You're welcome."
-Miku: "You're welcome."
+Miku (N25): "You're welcome."
 (Exit: Kanade)
 (Exit: Mizuki)
 (Exit: Mafuyu)
 (Exit: Ena)
-(Exit: Miku)
+(Exit: Miku-N25)

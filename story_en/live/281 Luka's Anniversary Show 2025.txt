@@ -2,27 +2,27 @@
 
 1 [mc] mc_bd_2024luka_1
 
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Luka: Now Miku, why can't I go past this point?
-Miku: Um... They said not to let you past until they call us...
+Miku (N25): Um... They said not to let you past until they call us...
 Luka: But I need to do something over there, Miku. You're making my life hard.
 Luka: Why are you being so unkind?
-Miku: Um, b-but...
+Miku (N25): Um, b-but...
 (Enter: Kanade)
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
 Mizuki: Hey, Luka, Miku!
-Miku: Oh... Hi everyone...
+Miku (N25): Oh... Hi everyone...
 Luka: Does you four coming over mean we can head over now?
 Kanade: Yes, we came to get you both.
 Luka: Oh? Then I'd like to get going... But would you do me a favor first?
 Ena: A favor?
 Luka: Yes. It is my anniversary party, after all.
-Miku: Luka... You knew?
+Miku (N25): Luka... You knew?
 Luka: Of course. You and Len have been giving me nervous glances for days.
-Miku: W-Were we...?
+Miku (N25): W-Were we...?
 Mizuki: Haha... I guess we couldn't fool Luka.
 Ena: But hey, I can understand feeling nervous. Anyway, no use crying over spilt milk.
 Kanade: So... You wanted a favor?
@@ -35,7 +35,7 @@ Ena: If they're all here for Luka's anniversary, it could be nice to say thank y
 Kanade: Yeah, I agree. I'd like to join them in celebrating.
 Luka: That's settled then. So, let's sing.
 Luka: Kimi no Yoru Wo Kure.
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 2 [MUSIC] 237: Kimi no Yoru Wo Kure
@@ -47,14 +47,14 @@ Luka: Kimi no Yoru Wo Kure.
 (Enter: Ena)
 (Enter: Mizuki)
 (Enter: Luka)
-(Enter: Miku)
-Miku: You all sang so well.
+(Enter: Miku-N25)
+Miku (N25): You all sang so well.
 Luka: Oh? I'm pleased to hear that from you, Miku.
 Luka: And thank you to all of you who were listening. You made it all the more fun.
 Mizuki: Alright, let's head to the party!
 Kanade: Good idea. The others are probably waiting.
 Luka: Hehe. I look forward to seeing what you've prepared for me. Right, Miku?
-Miku: S-Sure. I'll do my best.
+Miku (N25): S-Sure. I'll do my best.
 Ena: Wow, teasing again already?
 
 

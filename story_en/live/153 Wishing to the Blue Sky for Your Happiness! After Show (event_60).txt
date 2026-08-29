@@ -52,18 +52,18 @@ Shizuku: I wonder... Is An also growing into the person she wants to be?
 
 4 [mc] mc_ev_shuffle_20_3
 
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 (Enter: Rin)
 MEIKO: Mhm...! I haven't sung this much in so long! It was a lot of fun.
 Rin: We had fun singing with you too, MEIKO! After all, it's not every day we see you out of the cafe.
-Miku: We were surprised to get invited by you, MEIKO. Did something happen?
+Miku (VBS): We were surprised to get invited by you, MEIKO. Did something happen?
 MEIKO: I told you before, didn't I? About An's wedding photo shoot?
-Miku: Ah, that catastrophe...
+Miku (VBS): Ah, that catastrophe...
 MEIKO: Yes. But, she told me that despite all the mishaps, she was able to figure out who she wants to be in the future.
 MEIKO: It makes me so happy to remember her telling me that. I wanted to express it by singing.
 Rin: Oh, I get it now!
-Miku: Not for yourself, but for An... That's very you, MEIKO.
+Miku (VBS): Not for yourself, but for An... That's very you, MEIKO.
 MEIKO: Hm...?
 (Enter: Kohane)
 (Enter: An)
@@ -72,7 +72,7 @@ Kohane: Huff... Huff... There you all are.
 An: We've been looking everywhere for you!
 Rin: Hi An! What's got you so flustered suddenly?
 An: The thing is, I have something to tell you all!
-Miku: What is it?
+Miku (VBS): What is it?
 MEIKO: Ah, could it be...?
 An: You won't believe it! A photo of us from the shoot won an award!
 Rin: No way! Amazing!!
@@ -90,7 +90,7 @@ An: Huh? A request?
 MEIKO: You were here practicing with Miku and everyone the other day, right? I'd love to hear what you were working on.
 An: Ah... That song! No problem at all!
 Kohane: I'm ready when you are!
-Miku: Alright then, here's your chance to show us who you are, An.
+Miku (VBS): Alright then, here's your chance to show us who you are, An.
 Rin: Yeah! Go for it!
 An: Thanks! Alright, let's get started!
 
@@ -101,7 +101,7 @@ An: Thanks! Alright, let's get started!
 
 (Enter: Kohane)
 (Enter: An)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 (Enter: Rin)
 An: Ahh, singing really does hit the spot!

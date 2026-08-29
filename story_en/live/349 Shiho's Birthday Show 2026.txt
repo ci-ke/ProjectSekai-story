@@ -6,19 +6,19 @@
 (Enter: Saki)
 (Enter: Shiho)
 (Enter: Honami)
-(Enter: Miku)
-Miku: Sorry for the wait, everyone.
-Miku: I just heard from Rin, and it sounds like prep for the rooftop will take a bit longer. Are you alright to wait?
+(Enter: Miku-Ln)
+Miku (Ln): Sorry for the wait, everyone.
+Miku (Ln): I just heard from Rin, and it sounds like prep for the rooftop will take a bit longer. Are you alright to wait?
 Shiho: Sure. You know, I didn't think you'd set up a whole party space up there. You didn't have to go that far.
-Miku: But it's your birthday, you know? We want you to have a great time.
-Miku: So, Saki, we've got some time. You want to do you-know-what?
+Miku (Ln): But it's your birthday, you know? We want you to have a great time.
+Miku (Ln): So, Saki, we've got some time. You want to do you-know-what?
 Saki: Okay! It's time for Funtime Waiting Time!
 Honami: Funtime Waiting Time?
 Saki: Yeah! Miku and I thought it up. It's a way to have fun, even while you're waiting for things!
 Saki: Starting now, I'm Minister of Funtime! Incidentally, Miku is the Vice-Minister.
 Shiho: These are Cabinet positions?
 Ichika: I thought I noticed you two huddling together and whispering about something. So you were planning this?
-Miku: Hehe. Let's get right to the game.
+Miku (Ln): Hehe. Let's get right to the game.
 Honami: This actually is kind of fun already. What kind of game is it?
 Saki: I'm glad you asked! Presenting... "Make Shiho's Heart Pound! Compliment Central"!
 Shiho: Oh, boy. I have a bad feeling about this.
@@ -31,10 +31,10 @@ Saki: That's right♪ We'll all be showering you with praise, and you get to app
 Saki: Without further ado... "Make Shiho's Heart Pound! Compliment Central"!
 Saki: Okay, I'll start! I like how you go along with our games!
 Shiho: I mean, you went to the trouble of thinking it up and all...
-Miku: Just like that, you're very conscientious. You're up, Honami.
+Miku (Ln): Just like that, you're very conscientious. You're up, Honami.
 Honami: Um... I like how much you love cute things. You practically sparkle when you're looking after fuzzy little animals.
 Ichika: Then I'll say... How you look when you're playing your bass. Of course you're good, but you also look so cool.
-Miku: I think it's very cool how, once you've decided on something, you always make sure to see it through.
+Miku (Ln): I think it's very cool how, once you've decided on something, you always make sure to see it through.
 Saki: Yeah, yeah! You never compromise! That's super cool of you! But you're also caring and considerate of others!
 Honami: That's true. Whenever you help me practice, you stick with me until I'm satisfied, no matter how long it takes.
 Ichika: You keep track of our practice habits, and give us advice when we need it. You've shaped Leo/need as it stands today.
@@ -45,7 +45,7 @@ Shiho: No. This game's over.
 Saki: Aww, why?!
 Honami: Ah. Shiho, your cheeks...
 Shiho: Honami.
-Miku: You see? Everyone loved that.
+Miku (Ln): You see? Everyone loved that.
 Shiho: *Sigh* That was basically torture...
 Shiho: Look, if we have time to goof off, we have time to practice.
 Shiho: You guys are okay with that, right? Yeah, I thought so. We're doing it.
@@ -57,7 +57,7 @@ Shiho: Okay, here we go. Integral!
 
 3 [mc_timeline] mc_bd_2025shiho_2
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
 (Enter: Shiho)
@@ -70,7 +70,7 @@ Saki: This time, all of us here will wish you a very happy birthday, all togethe
 Shiho: Huh?
 Honami: What a good idea. Can we count on you to lead us with the call-and-response, Saki?
 Saki: You know it♪ Okay! Is everybody ready? One, two! Happy birthday, Shiho!
-Miku: Happy birthday!
+Miku (Ln): Happy birthday!
 Ichika: Happy birthday!
 Honami: Happy birthday!
 Shiho: Thanks, everyone. Though, you're coming on pretty strong.
@@ -78,9 +78,9 @@ Shiho: Hey, everyone. How was our performance?
 Shiho: I see. Good to hear it. We'll keep on rocking your hearts, so keep on listening.
 Ichika: That was such a cool thing to say, Shiho.
 Shiho: Okay, enough praising, seriously. Isn't the rooftop ready by now?
-Miku: Probably, yeah. Let's go see how things look up there.
+Miku (Ln): Probably, yeah. Let's go see how things look up there.
 Saki: Okay! Leo/need, out!
-(Exit: Miku)
+(Exit: Miku-Ln)
 (Exit: Ichika)
 (Exit: Saki)
 (Exit: Shiho)

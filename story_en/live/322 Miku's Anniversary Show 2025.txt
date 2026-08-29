@@ -6,26 +6,26 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Saki: Ah! Hey, everyone! Thanks for coming!
 Saki: I'm sure I don't even need to ask, but... Do you know what day it is?
 Honami: Haha, I think they know.
 Shiho: Let's have Ichika give us the right answer.
 Ichika: Huh? Me?
-Miku: Please do, Ichika.
+Miku (Ln): Please do, Ichika.
 Ichika: O-Okay. Um, the answer is...
 Ichika: M-Miku's anniversary...!
 Saki: Ding ding ding! That's right! Today, we're celebrating Miku!
-Miku: Thank you all for coming, everyone. It really makes me happy.
-Miku: You too, girls. Thanks for celebrating my anniversary. I'll have to pay you back.
+Miku (Ln): Thank you all for coming, everyone. It really makes me happy.
+Miku (Ln): You too, girls. Thanks for celebrating my anniversary. I'll have to pay you back.
 Honami: You don't have to do that... It's your special day, after all.
 Saki: That's right! You're the star of the day, so you call the shots! Anything you want, we'll make it happen!
-Miku: Anything I want, huh...?
-Miku: In that case, let's all sing together. That's the best, most fun thing I can think of.
+Miku (Ln): Anything I want, huh...?
+Miku (Ln): In that case, let's all sing together. That's the best, most fun thing I can think of.
 Ichika: Okay! We can do that!
 Shiho: What do you want to sing, Miku? You pick.
-Miku: Hehe. Thanks.
-Miku: Okay, everyone. Here we go... ray!
+Miku (Ln): Hehe. Thanks.
+Miku (Ln): Okay, everyone. Here we go... ray!
 
 
 2 [MUSIC] 148: ray
@@ -36,8 +36,8 @@ Miku: Okay, everyone. Here we go... ray!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
-Miku: Thank you all so much. Singing truly is so much fun.
+(Enter: Miku-Ln)
+Miku (Ln): Thank you all so much. Singing truly is so much fun.
 Honami: I'm so glad you and our guests enjoyed it.
 Ichika: Yeah! Though, it's sort of what we always do, so it didn't feel much like a celebration.
 Saki: Haha, it's fine as long as everyone had fun! But, there is something we can do to celebrate!
@@ -48,9 +48,9 @@ Saki: Happy anniversary, Miku!
 Ichika: Happy anniversary!
 Honami: Happy anniversary!
 Shiho: Happy anniversary!
-Miku: Thank you, girls!
-Miku: And thank you all for coming, too. I was so glad to spend this time together.
-Miku: We'll keep working to make even better music. So, please come and see us again!
+Miku (Ln): Thank you, girls!
+Miku (Ln): And thank you all for coming, too. I was so glad to spend this time together.
+Miku (Ln): We'll keep working to make even better music. So, please come and see us again!
 
 
 4 [mc] mc_bd_2024miku_3

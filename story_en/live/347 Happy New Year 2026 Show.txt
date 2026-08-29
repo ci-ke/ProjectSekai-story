@@ -3,23 +3,23 @@
 1 [mc_timeline] mc_2025newyear_1
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Len)
 (Enter: Toya)
 (Enter: Akito)
 (Enter: An)
 An: Happy New Year, everyone!
 Kohane: Happy New Year!
-Miku: Happy New Year!
+Miku (VBS): Happy New Year!
 Len: Happy New Year!
 Toya: Happy New Year!
 Akito: Happy New Year!
 Kohane: It's so nice for all these people to come and hear us sing first thing in the new year!
 Len: Right! And as thanks, we better give them the greatest song we can!
-Miku: Have we decided what to sing?
+Miku (VBS): Have we decided what to sing?
 Akito: Yeah, of course we have.
 Toya: A song that symbolizes our guests, and ourselves, taking wing together into a bright future.
-Miku: Really? That sounds perfect for the new year.
+Miku (VBS): Really? That sounds perfect for the new year.
 An: Right? Okay, let's go!
 An: Flyer!
 Kohane: Flyer!
@@ -32,7 +32,7 @@ Akito: Flyer!
 3 [mc_timeline] mc_2025newyear_2
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Len)
 (Enter: Toya)
 (Enter: Akito)
@@ -41,7 +41,7 @@ An: Thanks, everyone!
 Kohane: Getting to hear you all is so energizing.
 Toya: That's right. Now we have the strength to face our dreams head-on.
 Akito: Yeah. I know it won't be easy... But we'll keep on moving forward either way.
-Miku: Well, if you ever need a shoulder, come to SEKAI. We'll always be here to help you out.
+Miku (VBS): Well, if you ever need a shoulder, come to SEKAI. We'll always be here to help you out.
 Kohane: Thank you, Miku!
 An: Let's meet again in SEKAI for sure! Come listen to us sing again!
 Akito: Yeah, we'll be waiting.
@@ -50,13 +50,13 @@ Toya: See you again.
 
 4 [mc_timeline] mc_2025newyear_3
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
 (Enter: Shiho)
 (Enter: Honami)
 Ichika: Happy New Year, everyone!
-Miku: Happy New Year!
+Miku (Ln): Happy New Year!
 Saki: Happy New Year!
 Shiho: Happy New Year!
 Honami: Happy New Year!
@@ -69,7 +69,7 @@ Luka: Yes, and I in yours.
 Shiho: I didn't see you in the classroom earlier, Luka. What were you getting up to?
 Luka: I was doing some maintenance on our instruments. As thanks for a year of hard work with us.
 Ichika: We owe our instruments a lot, after all.
-Miku: It's important to pay your New Year's respects.
+Miku (Ln): It's important to pay your New Year's respects.
 Saki: And show your gratitude! Still, I guess I got beaten to the punch.
 Honami: The punch?
 Saki: I was hoping I'd be the first to get Luka's well-wishes for the new year, but the instruments beat me to it!
@@ -84,7 +84,7 @@ Ichika: Made to Order.
 Saki: Made to Order.
 Shiho: Made to Order.
 Honami: Made to Order.
-(Exit: Miku)
+(Exit: Miku-Ln)
 
 
 5 [MUSIC] 196: Made to Order
@@ -92,7 +92,7 @@ Honami: Made to Order.
 6 [mc_timeline] mc_2025newyear_4
 
 (Enter: Minori)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 (Enter: Airi)
 (Enter: Haruka)
@@ -115,16 +115,16 @@ Minori: Shizuku!
 Haruka: Shizuku!
 Airi: Shizuku!
 Minori: And with that! Happy New Year, everyone!
-Miku: Happy New Year!
+Miku (MMJ): Happy New Year!
 Rin: Happy New Year!
 Airi: Happy New Year!
 Haruka: Happy New Year!
 Shizuku: Happy New Year!
 Rin: Your intros were so full of energy!
-Miku: What an idol-like start to the year♪
+Miku (MMJ): What an idol-like start to the year♪
 Minori: Hehehe, it's important to start things off right!
 Airi: That's why we wanted to start with an idol classic! But there's more to classic idols than just that.
-Miku: Oh, could it be?
+Miku (MMJ): Oh, could it be?
 Haruka: That's right. We're starting off with a New Year show.
 Shizuku: You'll help us too, won't you, Rin?
 Rin: Of course♪ Let's all do our best!
@@ -133,7 +133,7 @@ Minori: KILLER!
 Airi: KILLER!
 Haruka: KILLER!
 Shizuku: KILLER!
-(Exit: Miku)
+(Exit: Miku-MMJ)
 
 
 7 [MUSIC] 474: KILLER
@@ -144,13 +144,13 @@ Shizuku: KILLER!
 
 (Enter: KAITO)
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
 Mizuki: Happy New Year, everyone!
 Mafuyu: Happy New Year.
-Miku: Happy New Year.
+Miku (N25): Happy New Year.
 Kanade: Happy New Year.
 Ena: Happy New Year.
 Mizuki: New Year's already, huh♪ Does anyone have any plans?!
@@ -158,14 +158,14 @@ Kanade: Not really... Just composing, like always.
 Mafuyu: Same.
 Kanade: What about you, Mizuki?
 Mizuki: Hmm, having mochi soup and laying under the kotatsu? Oh, and checking out lucky bag sales♪
-Miku: Sounds like you'll be busy.
+Miku (N25): Sounds like you'll be busy.
 Ena: Busy doing a whole lot of nothing...
 Mizuki: Hey! What about you, then?!
 Ena: Unlike you, I'll be using my free time. I'll probably work on an art piece, and I have plans to meet with Airi.
 Mizuki: So... Am I the only one who's actually going to laze around doing nothing?
 Mizuki: What a waste! New Year's only happens once a year!
 Mizuki: I know! I'll bring some mochi and stuff to SEKAI! And some ice cream for KAITO. We can have a party!
-Miku: Okay. We'll be here.
+Miku (N25): Okay. We'll be here.
 KAITO: Do what you want.
 Ena: Well, it'll make a nice break. I guess I can come over for a bit.
 Kanade: Okay, let's meet up in SEKAI later.
@@ -176,26 +176,26 @@ Mizuki: Hope you all have a great New Year, everybody! See you later!
 
 (Enter: MEIKO)
 (Enter: Emu)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Tsukasa)
 (Enter: Nene)
 (Enter: Rui)
 Tsukasa: Is everyone ready? Then, here we go!
 MEIKO: Happy New Year!
 Emu: Happy New Year!
-Miku: Happy New Year!
+Miku (WxS): Happy New Year!
 Tsukasa: Happy New Year!
 Nene: Happy New Year!
 Rui: Happy New Year!
 Tsukasa: The year has finally changed! Everything feels refreshed and new!
 Nene: You're right. Somehow even the air feels clean and clear, like a blank slate.
 Emu: And when you take a big, deep breath, it feels really, really good!
-Miku: I'm gonna take a lot of deep breaths, too☆
+Miku (WxS): I'm gonna take a lot of deep breaths, too☆
 Rui: Hehe. In that case, shall we present our fresh new show to everyone enjoying the New Year's atmosphere?
 MEIKO: Oh, well said!
 Emu: I wanna do it too!
 Tsukasa: Without further ado, our first show of the new year. filament fever!
-(Exit: Miku)
+(Exit: Miku-WxS)
 
 
 11 [MUSIC] 397: filament fever
@@ -207,7 +207,7 @@ Tsukasa: Without further ado, our first show of the new year. filament fever!
 (Enter: Tsukasa)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 Emu: Thanks, everyone!
 Tsukasa: I'd like to end by declaring our ambitions for the new year. MEIKO, do you have anything?
 MEIKO: Hmm, let me think... Ah, I know! How about making it a powerful new year?

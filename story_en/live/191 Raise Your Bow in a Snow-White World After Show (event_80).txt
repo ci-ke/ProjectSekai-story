@@ -5,10 +5,10 @@
 (Enter: Kanade)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: *Sigh* It was so cold today, right? I couldn't get out of bed this morning.
 Ena: You're never out of bed that early anyway... You're not wrong about the weather though. It snowed and everything.
-Miku: Really...? Kanade, aren't your legs cold?
+Miku (N25): Really...? Kanade, aren't your legs cold?
 Kanade: Hm? No, it's okay. I cover up with a blanket when I'm in my room.
 Ena: Really? At this time of year you should really layer up, like with leg warmers.
 Mizuki: Yeah! They just started selling some adorable ones at the store I work at. I might just get you a pair♪
@@ -16,7 +16,7 @@ Kanade: Y-You don't need to go to so much trouble...! Oh...
 (Enter: Mafuyu)
 Mafuyu: Sorry for the wait.
 Kanade: Not at all. We just got here too... Huh?
-Miku: Mafuyu... You seem...happy today.
+Miku (N25): Mafuyu... You seem...happy today.
 Mafuyu: Huh...? Do I?
 Mizuki: Did something happen?
 Mafuyu: ... Not exactly.
@@ -28,7 +28,7 @@ Mafuyu: No. But...that wasn't a bad thing.
 Kanade: Hehe... I see. I don't know exactly what happened, but if you're okay with it, that's all I need to know.
 Mafuyu: So... I sort of want to sing today.
 Mizuki: Ooh, nice! Then let's all sing together!
-Miku: Yes, let's.
+Miku (N25): Yes, let's.
 Mafuyu: ... Non-breath oblige.
 
 
@@ -40,7 +40,7 @@ Mafuyu: ... Non-breath oblige.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mafuyu: It's funny... It snowed today, but...
 Mafuyu: I don't feel...so cold.
 
@@ -51,7 +51,7 @@ Mafuyu: I don't feel...so cold.
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: KAITO)
 Shizuku: I'm sorry I'm late, everyone!
 Minori: Oh, Shizuku! Good evening!
@@ -61,10 +61,10 @@ Airi: That worked out well!
 KAITO: Actually everyone, could I say something before you have your meeting?
 KAITO: With a bit of advice from Shizuku, we tried altering some of our costumes... And now they're ready.
 Shizuku: Wow, really? That's good to hear...!
-Miku: Yeah! We wanted to say thank you as soon as we could!
+Miku (MMJ): Yeah! We wanted to say thank you as soon as we could!
 Airi: Wow, I had no idea you were talking about that.
 Minori: I can't wait to see the outfits that you altered!
-Miku: Hehe. You'll have to hold on until our next show♪
+Miku (MMJ): Hehe. You'll have to hold on until our next show♪
 Shizuku: Actually, I also want to thank you two.
 Shizuku: Thanks to you, I was able to express my feelings.
 KAITO: Oh? That's great!
@@ -79,7 +79,7 @@ KAITO: Don't mention it. I'm just happy I was able to help you.
 Shizuku: Hey, everyone. Would you mind if I sang a little before our meeting?
 Shizuku: I...really feel like singing right now.
 Airi: In that case, I'll join you, Shizuku! What's good for you is good for us, right!
-Miku: Yeah! Let's sing together, Shizuku!
+Miku (MMJ): Yeah! Let's sing together, Shizuku!
 Shizuku: Well then, let's sing! Melty Land Nightmare!
 (Exit: KAITO)
 
@@ -92,11 +92,11 @@ Shizuku: Well then, let's sing! Melty Land Nightmare!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: KAITO)
 Shizuku: Thank you, everyone! I want to keep becoming a better and better idol!
 Shizuku: That way, I can be there to show support for you all.
-Miku: Hey, KAITO. Isn't there something cooler than usual about Shizuku?
+Miku (MMJ): Hey, KAITO. Isn't there something cooler than usual about Shizuku?
 KAITO: You're right. Maybe expressing her feelings helped her see something new.
 Shizuku: Oh, sorry to keep everyone waiting. Alright, should we begin our meeting?
 Airi: Yes! We've gotta go all out to be ready for tomorrow's stream.

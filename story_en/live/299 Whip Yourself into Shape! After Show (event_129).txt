@@ -17,13 +17,13 @@ An: You're on!
 Luka: Oh, there they are! Heeey!
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Oh, hi guys!
-Miku: So this is where you two were. Rin's looking for you. She's disappointed since she wanted to sing with you.
+Miku (VBS): So this is where you two were. Rin's looking for you. She's disappointed since she wanted to sing with you.
 An: Wait, really? I feel bad.
-Miku: Anyway, I'll go get her now. I'm sure I'll find her soon enough.
+Miku (VBS): Anyway, I'll go get her now. I'm sure I'll find her soon enough.
 Kohane: Thank you, Miku!
-(Exit: Miku)
+(Exit: Miku-VBS)
 Toya: Were you two practicing here?
 An: No, just chatting. We were saying how quiet it is here compared to back home.
 Akito: No kidding. All anyone can talk about is how we might be about to surpass RAD WEEKEND.

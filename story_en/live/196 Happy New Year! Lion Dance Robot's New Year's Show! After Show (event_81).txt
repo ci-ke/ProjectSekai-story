@@ -8,12 +8,12 @@
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: *Sigh* I really sang my heart out! That felt so good!
 Kohane: Yeah! Feels nice to start the new year off this way.
 Toya: I agree. I tried skiing for the first time in the mountains, and we even got to see Tsukasa and his troupe's show on New Year's Day.
 Akito: I was gonna make a bolt for it when we made eye contact, but...I guess it was a pretty fun show.
-Miku: And you and Kohane were so cool getting that ski resort hyped, An.
+Miku (VBS): And you and Kohane were so cool getting that ski resort hyped, An.
 An: Hehe. Thanks, Miku.
 An: Hehe. Thanks, Miku. Actually, I was thinking about the first time I met Kohane at that moment.
 Kohane: What?
@@ -28,7 +28,7 @@ An: Hehe. That's the moment I knew you guys were alright! It's all still fresh i
 Kohane: Yeah. The four of us have come so far after all of that... Hehe, it makes me happy to think about.
 An: Yup! We've got even more friends with us now, so let's keep giving it our all!
 An: And with that... Hey, everyone! Hope you continue to support us this year too!
-Miku: Hehe. The others and I will be cheering you guys on too.
+Miku (VBS): Hehe. The others and I will be cheering you guys on too.
 
 
 3 [mc] mc_ev_shuffle_27_2
@@ -44,12 +44,12 @@ Emu: Yeah! Our chefs always cook us lots and lots of food!
 Nene: It was good, but...it's a little overboard, don't you think? Can your family finish all of that?
 Emu: Oh, we do! Me and Sis eat a whole lot!
 Nene: Wait, really? You, I get, but your sister is a big eater too?
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
-Miku: Hey, everyone! Welcome!
+Miku (WxS): Hey, everyone! Welcome!
 KAITO: Today was the New Year's show after party at Emu's house, right? How was it?
 Tsukasa: It was absolutely incredible! There were large and very delicious shrimps, the likes of which I've never seen.
-Miku: Shrimps?! Sounds yummy!
+Miku (WxS): Shrimps?! Sounds yummy!
 Emu: Oh! Then I'll bring some food over next time so we can have a party with everyone here too!
 KAITO: Great, that sounds like fun! I'm sure Len and the others will be thrilled.
 Rui: Sounds like we will be feasting once again, but... I suppose that is the nature of New Year's.
@@ -60,7 +60,7 @@ Nene: What? That's a little sudden, no?
 Tsukasa: Not at all! In celebration of the new year, there is no such thing!
 Nene: Where's all of this excitement coming from, anyway? Did you drink too much cola?
 KAITO: Hehe. Perhaps he's in an extra good mood because he's learned a lot from your New Year's shows.
-Miku: Oh, don't forget me! I wanna join in too!
+Miku (WxS): Oh, don't forget me! I wanna join in too!
 Tsukasa: You are most welcome to! The more, the merrier!
 Emu: Yeah!
 Tsukasa: Without further ado! At God's Mercy!
@@ -75,7 +75,7 @@ Tsukasa: Without further ado! At God's Mercy!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
 Tsukasa: Hah hah hah hah! Wonderlands×Showtime will be counting on your support for another year, everyone!
 Emu: Hehehe! Tsukasa's all smiley!

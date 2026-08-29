@@ -10,16 +10,16 @@ Saki: Luka! Can you please teach me something? I can't seem to get this part rig
 Luka: Which part? Ah, what you can do is...
 Shiho: Honami, can we try out the part from the chorus again, together? I feel like we didn't gel very well there.
 Honami: Huh? Really? Which part? I'll look out for it while we play, if that's okay?
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Ichika)
-Miku: Everyone's so used to band practice already.
+Miku (Ln): Everyone's so used to band practice already.
 Ichika: Yes. It must be because you and Luka have been practicing with us.
 Ichika: But, honestly...I still wonder sometimes if this is all just a dream.
 Ichika: Just a while ago, playing in a band again with the four of us was something I couldn't even imagine.
 Saki: Ichi, Miku! We're ready to start!
-Miku: Well, Ichika, there's a very good way to tell if this is dream or not. Do you know how?
+Miku (Ln): Well, Ichika, there's a very good way to tell if this is dream or not. Do you know how?
 Ichika: No?
-Miku: Play your heart out, that's how! So let's go, Ichika!
+Miku (Ln): Play your heart out, that's how! So let's go, Ichika!
 Ichika: Yeah!
 Saki: All righty, let's make this our best performance, yet!
 
@@ -32,9 +32,9 @@ Saki: All righty, let's make this our best performance, yet!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
-Miku: What do you think, Ichika? It's not a dream, right?
+Miku (Ln): What do you think, Ichika? It's not a dream, right?
 Ichika: Definitely not!
 Saki: What's this about a dream, Ichi?
 Ichika: Oh... It's nothing. I was just telling Miku how it still feels like a dream to be playing together as a band again.
@@ -54,7 +54,7 @@ Ichika: Looks like it's settled then. Let's play "needLe"!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Ichika: Huh? Hey, those lights...
 Saki: Wow! It's sparkling so brightly over there!
@@ -65,5 +65,5 @@ Saki: Heeey! Thanks for listening to our performance! We'll get better, so come 
 Saki: Hehe, that's how you do it♪
 Ichika: Don't surprise me by suddenly shouting like that!
 Luka: It makes me very happy to see the four of them smile and laugh together like this.
-Miku: Yes. I really hope they'll remain best friends forever!
+Miku (Ln): Yes. I really hope they'll remain best friends forever!
 Luka: Hehe, I know what you mean.

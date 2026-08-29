@@ -12,14 +12,14 @@ Miku: Hehe, I wonder how everyone in each SEKAI is doing now... Wanna take a pee
 
 2 [mc] mc_ev_shuffle_35_2
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 (Enter: Len)
 (Enter: Luka)
 (Enter: MEIKO)
 (Enter: KAITO)
 MEIKO: The show went so well!
-Miku: After we finished, the girls even said they wanted to practice more.
+Miku (Ln): After we finished, the girls even said they wanted to practice more.
 Luka: I'm sure Len's singing left them energized.
 Len: Do you think so? I hope so...
 Rin: I know so! You sang so incredibly well!
@@ -31,7 +31,7 @@ Len: Hm... You might not believe this, but the thing is...
 
 3 [mc] mc_ev_shuffle_35_3
 
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Rin)
 (Enter: Len)
 (Enter: Luka)
@@ -43,7 +43,7 @@ KAITO: He said my cheerful personality and the way I freely express myself are a
 Len: You...KAITO...are a source of support?
 Luka: I find that hard to believe.
 KAITO: Whaaat?!
-Miku: But the event was great. It was good fun to sing using your remixes.
+Miku (VBS): But the event was great. It was good fun to sing using your remixes.
 MEIKO: Yes. I'm sure it was a big help for the others.
 KAITO: Really?! I really am amazing.
 Len: Okay, don't let it get to your head!
@@ -51,13 +51,13 @@ Len: Okay, don't let it get to your head!
 
 4 [mc] mc_ev_shuffle_35_4
 
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 (Enter: Len)
 (Enter: Luka)
 (Enter: MEIKO)
 (Enter: KAITO)
-Miku: It really feels strange to know that other versions of us are watching over us.
+Miku (MMJ): It really feels strange to know that other versions of us are watching over us.
 Luka: Even I almost feel like it was just a dream.
 Luka: But to think that version of me really is watching from a distance gives me courage.
 MEIKO: Hehe. As for us, we can rely on OUR Luka right here!
@@ -70,13 +70,13 @@ Luka: I'd be so happy if our performance made them smile.
 
 5 [mc] mc_ev_shuffle_35_5
 
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 (Enter: Len)
 (Enter: Luka)
 (Enter: MEIKO)
 (Enter: KAITO)
-Miku: Another Rin and MEIKO... What were they like?
+Miku (N25): Another Rin and MEIKO... What were they like?
 Rin: What were they like...?
 Rin: They were...shiny.
 Luka: Hehe. So the total opposite of you, then?
@@ -91,21 +91,21 @@ Rin: I want...to do what I can for Mafuyu and the others.
 
 6 [mc] mc_ev_shuffle_35_6
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Tsukasa)
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
 Tsukasa: Miku!
-Miku: Oh, hi Tsukasa! Hi everyone☆
+Miku (WxS): Oh, hi Tsukasa! Hi everyone☆
 Tsukasa: We're here to fulfill that promise to you!
-Miku: Really?! I've been itching to sing with all of you!
+Miku (WxS): Really?! I've been itching to sing with all of you!
 Nene: But will singing be enough to thank you for the other day?
-Miku: Yup! When I sing with you all, I get all happy and warm☆
+Miku (WxS): Yup! When I sing with you all, I get all happy and warm☆
 Emu: Then let's get started! What song should we sing?
-Miku: Oh, I wanna sing that song! The one that makes me smile so much!
+Miku (WxS): Oh, I wanna sing that song! The one that makes me smile so much!
 Rui: Ah, that song. Well then, let's start our search for smiles!
-Miku: Here we gooo! Theme of Niccori Survey Team!
+Miku (WxS): Here we gooo! Theme of Niccori Survey Team!
 
 
 7 [MUSIC] 178: Theme of Niccori Survey Team
@@ -116,16 +116,16 @@ Miku: Here we gooo! Theme of Niccori Survey Team!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
-Miku: Thank you, everyone! That was so sooo much fun☆
+(Enter: Miku-WxS)
+Miku (WxS): Thank you, everyone! That was so sooo much fun☆
 Emu: Me too! I'm all smiley now!
 Rui: Hehe, it looks like we found some smiles.
 Tsukasa: It does indeed! I also felt reinvigorated to work toward our dreams.
 Nene: Me too. Thank you, Miku.
-Miku: Hehehe. You're welcome☆
-Miku: I feel super happy to see the smiles on your faces!
-Miku: And I'm sure me-but-not-me feels happy too☆
-Miku: I hope I can meet her again...
+Miku (WxS): Hehehe. You're welcome☆
+Miku (WxS): I feel super happy to see the smiles on your faces!
+Miku (WxS): And I'm sure me-but-not-me feels happy too☆
+Miku (WxS): I hope I can meet her again...
 
 
 9 [mc] mc_ev_shuffle_35_8

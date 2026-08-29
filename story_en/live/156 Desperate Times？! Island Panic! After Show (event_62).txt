@@ -2,11 +2,11 @@
 
 1 [mc] mc_ev_wonder_09_1
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: MEIKO)
-Miku: Hmm... Hmm... Are they here yet?
+Miku (WxS): Hmm... Hmm... Are they here yet?
 MEIKO: Hahaha, oh Miku. You've been flustered like that for a while now, haven't you?
-Miku: But...but... I really wanna know! Did they make it to the performance in time?!
+Miku (WxS): But...but... I really wanna know! Did they make it to the performance in time?!
 MEIKO: Those four? We have nothing to worry about. I'm sure any second now...
 (Enter: Emu)
 Emu: Miku! MEIKO!
@@ -15,16 +15,16 @@ Emu: Miku! MEIKO!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-Miku: Long time no see, everyone!
+Miku (WxS): Long time no see, everyone!
 Nene: It hasn't been that long, but it does feel like we haven't been here for a while.
 Tsukasa: Yes, we're back now that our phones are finally working again. Sorry to keep you waiting!
 MEIKO: No problem! Well, how was the performance?
 Emu: It was great! Everyone was super smiley! It was a big success♪
-Miku: Yay! That's great☆
+Miku (WxS): Yay! That's great☆
 MEIKO: But you had to perform right after getting off that desert island, didn't you? You must've been exhausted, but you still saw it through!
 Rui: Come to think of it, we completely forgot how tired we were.
 Nene: We were all buzzing at the thought of being able to perform...
-Miku: Ahaha, just what we'd expect from you four!
+Miku (WxS): Ahaha, just what we'd expect from you four!
 MEIKO: Did you all get a good rest afterward? I wouldn't want you straining yourselves and getting sick.
 Rui: I suppose I do feel a touch more tired than usual.
 Tsukasa: You're right... Alright, troupe leader's orders! Tonight, you are all to get in 12 hours of sleep minimum!
@@ -32,13 +32,13 @@ Emu: Yessir!
 Nene: Wait, isn't 12 hours pretty extreme?
 Nene: Actually, we should feel tired, but we're all looking wide awake.
 Rui: True. Perhaps it's the dopamine rush after pulling off the show. I expect I'll be awake all night dreaming up ideas for effects.
-Miku: Okay, lemme sing you all a lullaby! That way you'll sleep like babies tonight!
-Miku: Twiiinkle twiiinkle liiittle star!
+Miku (WxS): Okay, lemme sing you all a lullaby! That way you'll sleep like babies tonight!
+Miku (WxS): Twiiinkle twiiinkle liiittle star!
 Emu: Ooh, I feel full of energy now!
 Nene: I don't feel sleepy at all though...
-Miku: Whaaat? Why not?!
+Miku (WxS): Whaaat? Why not?!
 MEIKO: Ahaha, in that case, why don't we all tire ourselves out together? Once you're really worn out, I'm sure you'll sleep like a log!
-Miku: Good idea! Okay, then let's all sing and dance together!
+Miku (WxS): Good idea! Okay, then let's all sing and dance together!
 Rui: You have a point. If we pour all our energy into one song, it might knock us out for the night.
 Emu: Yeah! And when it comes to songs, we've got buckets and buckets of energy!
 Nene: Um... If we're singing, I'd like to take this chance to express how I'm feeling.
@@ -54,10 +54,10 @@ Rui: Hehe. Sorry, Nene. It really stuck with me, so that just came out.
 Nene: Ugh...
 MEIKO: Hehe. Hey, mind if I get in on the action? I'd like to sing with all of you♪
 Nene: Yeah, of course. We would love that.
-Miku: Well then, I'll be sitting back in the front row! I'm so excited to hear you perform☆
+Miku (WxS): Well then, I'll be sitting back in the front row! I'm so excited to hear you perform☆
 Nene: Hehe, thanks. Well then, let's do it.
 Nene: Starry sky melody.
-(Exit: Miku)
+(Exit: Miku-WxS)
 
 
 2 [MUSIC] 212: Starry sky melody
@@ -69,8 +69,8 @@ Nene: Starry sky melody.
 (Enter: Nene)
 (Enter: Rui)
 (Enter: MEIKO)
-(Enter: Miku)
-Miku: You guys! You were amazing!
+(Enter: Miku-WxS)
+Miku (WxS): You guys! You were amazing!
 Nene: Thank you...
 Emu: I had so much fun! MEIKO, thank you for singing with us!
 MEIKO: I had fun too! Plus, it was so moving how everyone's feelings came through in the music!
@@ -84,8 +84,8 @@ Nene: Still, you really helped me out. And for that... I'm grateful.
 Tsukasa: We should be tired out now after dancing so much... Is anyone?
 Nene: To be honest, I'm still not sleepy at all, but I'll probably be out like a light as soon as my head hits the pillow.
 Rui: Indeed. I'm sure we'll all have pleasant dreams tonight.
-Miku: Hehehe☆ Come back and see us in SEKAI once you've had lots and lots of sleep and feel shiny and new!
-Miku: You still gotta tell us all about what happened on the island after your phone ran out of battery, plus how the performance went, all of it!
+Miku (WxS): Hehehe☆ Come back and see us in SEKAI once you've had lots and lots of sleep and feel shiny and new!
+Miku (WxS): You still gotta tell us all about what happened on the island after your phone ran out of battery, plus how the performance went, all of it!
 Nene: That's true. We have so much to tell you, as well.
 Tsukasa: Right then, let's regroup here tomorrow with a solid night's sleep under our belts!
 Emu: Yup! On that note, good night everyone!

@@ -6,7 +6,7 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Shiho: Thanks for practicing with me today, Luka.
 Luka: I'm the thankful one here. You're all getting good, so it's fun to play together.
@@ -19,7 +19,7 @@ Saki: Everyone, loud and clear! Shiho...
 Ichika: "Happy birthday to you!"
 Saki: "Happy birthday to you!"
 Honami: "Happy birthday to you!"
-Miku: Hehe, Shiho looks so surprised.
+Miku (Ln): Hehe, Shiho looks so surprised.
 Shiho: B-Because nobody said anything about it at all. I thought you forgot or something...
 Saki: We would never! We're going to be hanging out with each other for a long, long time to come, you know. Right, Ichi?
 Ichika: Yes. We want to sing a song for you, together with Miku. That's what we were practicing just now.
@@ -36,9 +36,9 @@ Saki: You got it!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
-Miku: Having Shiho's bass really makes a great difference in the performance.
+Miku (Ln): Having Shiho's bass really makes a great difference in the performance.
 Luka: Yes. So what do you think, Shiho?
 Shiho: Hm... It was good. I really started to enjoy myself as I was playing.
 Saki: Whoa!
@@ -53,7 +53,7 @@ Luka: By the way, didn't you say you wanted to go to Shiho's favorite ramen shop
 Saki: Oh yeah! Shiho, this meal's on us! Feel free to order as many of your favorite toppings as you like!
 Shiho: Really? I'll ask for all the toppings available, then.
 Shiho: Miku and Luka, thank you for today.
-Miku: No problem.
+Miku (Ln): No problem.
 Luka: Let us hear your fantastic performance again soon.
 Shiho: We will.
 Shiho: And everyone out there too. Thank you. Today was pretty fun.

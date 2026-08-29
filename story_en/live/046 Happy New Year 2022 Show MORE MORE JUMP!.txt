@@ -6,11 +6,11 @@
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Minori: We're performing on stage on new year's day! Doesn't that make this a New Year show?
 Haruka: Hehe. That's right.
-Miku: Look there!
+Miku (MMJ): Look there!
 Shizuku: Oh my. They're here to hear us sing again?
 Airi: Thank you, everyone out there! We'll be good hosts and put on our best performance for you!
 Minori: I know, let's say our cheer!
@@ -37,7 +37,7 @@ Minori: Let the New Year show begin!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Rin: That was awesome! You all sang and danced so well!
 Rin: Right, everyone?
@@ -47,9 +47,9 @@ Airi: Yeah. We should keep this momentum going for our future group activities t
 Haruka: Yes. The new year's a good chance for us to think of trying things we've never tried before too.
 Minori: I'll be doing what I can too!
 Rin: And I know you'll be just fine! After all, you've all found your true feelings already.
-Miku: Yup. And that's why you'll definitely be able to become idols who can give people hope for tomorrow.
+Miku (MMJ): Yup. And that's why you'll definitely be able to become idols who can give people hope for tomorrow.
 Minori: Thank you, Miku and Rin!
-Miku: Come now, the show's not over yet♪
+Miku (MMJ): Come now, the show's not over yet♪
 Haruka: Yes, we should.
 Airi: Are you all ready to go?
 Shizuku: We'll be singing the song that was born from our feelings.
@@ -64,13 +64,13 @@ Minori: Hope all of you out there will enjoy it too! Music, start!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Rin: Well done, everyone!
 Rin: The cheers in that song were so fun, I got all fired up just listening to them!
 Airi: I saw you all the way from the stage. You were jumping up and down with your arms in the air, even.
 Rin: Oops! I'm kinda glad you saw me, but also kinda embarrassed.
-Miku: Anyway, it's time to close the show with farewells.
+Miku (MMJ): Anyway, it's time to close the show with farewells.
 Minori: Yup!
 Minori: Thank you all for coming to MORE MORE JUMP!'s New Year show!
 Haruka: You can be sure we'll be doing all we can to bring you more hope for the new year to come.
@@ -81,4 +81,4 @@ Haruka: "Thank you for coming today!"
 Airi: "Thank you for coming today!"
 Shizuku: "Thank you for coming today!"
 Rin: See you around, everyone!
-Miku: See you!
+Miku (MMJ): See you!

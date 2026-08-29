@@ -6,15 +6,15 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Saki: Hey, guys! Did everyone have a fun moon viewing party?
 Saki: I had so much fun♪ Tucking into bento and dango outside under the moonlight sky...
 Honami: Hehe, sounds like a special evening.
 Honami: I also went moon viewing with my family. We may have gone a little overboard on the dango prep though...
 Ichika: Honami, the dango you make look so yum.
 Ichika: As for me, my family didn't really celebrate, but we did eat dinner and watch the moon together.
-Miku: Sounds like everyone had fun.
-Miku: How about some input from you, Shiho?
+Miku (Ln): Sounds like everyone had fun.
+Miku (Ln): How about some input from you, Shiho?
 Shiho: Ah, sure. I went moon viewing with my sister.
 Saki: Ooh! Do tell us more! How was it?
 Shiho: How was it? Nothing out of the ordinary...
@@ -25,7 +25,7 @@ Ichika: I didn't know you were the kind of person to make something like that...
 Saki: Really?! Now you've got my attention! Give me all the deets, Shiho!
 Shiho: That's going to have to wait. We've got practice now.
 Saki: Whaaat!
-Miku: Alright, fine. You'll get to hear the rest of the story if and only if we make good progress today.
+Miku (Ln): Alright, fine. You'll get to hear the rest of the story if and only if we make good progress today.
 Honami: Hehe, I'm in!
 Ichika: Ok, I'm holding you to it, Shiho.
 Ichika: Alright, let's get practicing!

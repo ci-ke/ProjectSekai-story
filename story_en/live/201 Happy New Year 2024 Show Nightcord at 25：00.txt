@@ -6,24 +6,24 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Kanade: Happy New Year, everyone.
 Mafuyu: "Happy New Year!" "Happy New Year."
 Ena: "Happy New Year!" "Happy New Year."
 Mizuki: "Happy New Year!" "Happy New Year."
-Miku: "Happy New Year!" "Happy New Year."
+Miku (N25): "Happy New Year!" "Happy New Year."
 Luka: "Happy New Year!" "Happy New Year."
 Kanade: I wanted to say that to Miku and the others, but also...
 Kanade: I thought it'd be nice to greet all of you who came to see us, too.
-Miku: Oh... I think they're hoping to hear us sing.
+Miku (N25): Oh... I think they're hoping to hear us sing.
 Luka: Oh, you're right. Well, why don't we give them what they want?
 Kanade: That sounds alright. What does everyone think?
 Mafuyu: Whatever.
 Mizuki: I'm on board♪ It's kinda boring to just say, "Happy New Year", then leave.
 Ena: You're right. And I feel like I can sing really well since starting a new year's perked me up some.
-Miku: In that case... Let's all sing.
-Miku: Bitter Choco Decoration.
+Miku (N25): In that case... Let's all sing.
+Miku (N25): Bitter Choco Decoration.
 (Exit: Luka)
 
 
@@ -35,14 +35,14 @@ Miku: Bitter Choco Decoration.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Kanade: Thank you for listening, everyone.
 Ena: "Thank you!"
 Mizuki: "Thank you!"
 Ena: Mafuyu, do you want to say anything?
 Mafuyu: Thank you...
-Miku: You seemed to be having fun... I'm glad.
+Miku (N25): You seemed to be having fun... I'm glad.
 Luka: Now it's my turn.
 Mizuki: Ooh, are you gonna sing too, Luka?
 Luka: Yes. I imagine you all felt some emotional changes or motivation entering a new year.
@@ -54,7 +54,7 @@ Kanade: I'm okay with singing.
 Mizuki: Hahaha. That's good news for all you guys! You get to hear another song.
 Luka: Let's begin.
 Luka: Kimi no Yoru Wo Kure.
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 4 [MUSIC] 237: Kimi no Yoru Wo Kure
@@ -65,18 +65,18 @@ Luka: Kimi no Yoru Wo Kure.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Mizuki: Thanks for the love, everyone!
 Kanade: And you too, Luka. Thank you for singing with us.
 Luka: You're welcome. I enjoyed it thoroughly.
-Miku: I had a lot of fun too.
+Miku (N25): I had a lot of fun too.
 Mafuyu: Really...?
 Kanade: Everyone, all the best for this year.
 Ena: All the best from me too, Kanade.
 Mizuki: And from me three!
 Kanade: Mafuyu, I know it's hard with your studies and everything... But, I'd be really happy if we could keep making music together.
 Mafuyu: Yes... I want to continue too.
-Miku: If anything happens, you can come here... We can help you.
+Miku (N25): If anything happens, you can come here... We can help you.
 Kanade: Thank you, Miku.
 Kanade: So, see you all next time.

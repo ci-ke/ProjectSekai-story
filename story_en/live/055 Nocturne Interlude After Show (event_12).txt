@@ -9,11 +9,11 @@ Toya: Oh... You're all here again.
 Toya: I think you'll find our performance today quite a bit better than before.
 (Enter: Kohane)
 (Enter: An)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Hey, Toya! You came straight here without dropping by the shop first?
 Toya: Yes. Sorry for not letting you know. I just felt like singing all of a sudden.
 Kohane: Hehe, you're really motivated!
-Miku: I'm glad you're feeling better now.
+Miku (VBS): I'm glad you're feeling better now.
 An: Yeah! And your singing is sounding so much better than before, too.
 Toya: I see. That's good to know.
 An: Before, your singing felt like it was kind of supporting me...
@@ -22,12 +22,12 @@ Kohane: Yes! Singing with you now makes me feel like I can sing even better! Lik
 Toya: ...I see. I'm glad to know you feel that way.
 Toya: But in truth, I'm the one getting pushed to greater heights with everyone's support. So, thank you.
 (Enter: Akito)
-Miku: No problem.
+Miku (VBS): No problem.
 An: Well, the one who gave you the strongest push has got to be—
 Akito: Sorry, been waiting long?
 Akito: I've already done my vocal warmups, so we don't have to... What's going on? Why's everyone looking at me?
 An: It's nothing. Just thinking about how you sure know the right time to make an entrance♪
-Miku: Right? I guess that's why they're singing partners.
+Miku (VBS): Right? I guess that's why they're singing partners.
 Akito: Huh?
 Toya: Akito, I know it's sudden, but can we sing something right now? I've been wanting to sing with you since morning.
 Akito: That so? Then let's sing our usual number.
@@ -42,10 +42,10 @@ Toya: Sure. I hope everyone enjoys the song too!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Akito: Well, that went pretty well.
 Akito: What did you all think? Especially Toya's singing. Don't you think it sounded a whole lot better than before?
-Miku: It's true. It really feels like he's giving you that extra push.
+Miku (VBS): It's true. It really feels like he's giving you that extra push.
 Toya: .....
 Akito: What's wrong, Toya? What are you thinking about?
 Toya: No. It's nothing.

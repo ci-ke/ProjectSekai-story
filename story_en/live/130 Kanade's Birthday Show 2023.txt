@@ -6,8 +6,8 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
-Miku: Oh, hey... Look, Kanade, everyone's already here.
+(Enter: Miku-N25)
+Miku (N25): Oh, hey... Look, Kanade, everyone's already here.
 Ena: Does this mean they're all here to celebrate Kanade's birthday?
 Mizuki: Yeah, totally! Welcome, everyone♪
 Ena: We just finished eating the birthday cake, so why don't we all take this opportunity to wish Kanade a happy birthday?
@@ -17,7 +17,7 @@ Ena: One, two... Three!
 Ena: "Happy birthday, Kanade!"
 Mizuki: "Happy birthday, Kanade!"
 Mafuyu: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (N25): "Happy birthday!"
 Kanade: Thank you, everyone.
 Kanade: And thank you all as well.
 Kanade: You went out of your way to get a cake and candles for me... It reminded me of how I used to celebrate birthdays with my family.
@@ -25,11 +25,11 @@ Mizuki: Really? I'm glad you liked everything so much. I was honestly pretty wor
 Kanade: No, I really did enjoy everything.
 Kanade: It made me remember how fun birthday parties were along with a whole host of other memories.
 Kanade: Still, is it really okay for me to have this much fun...
-Miku: Even though it's your birthday...?
+Miku (N25): Even though it's your birthday...?
 Kanade: Because... I...
 Mafuyu: Is this about your dad?
 Kanade: Yes. I need to keep composing so that I can save not just Dad, but others as well.
-Miku: Kanade...
+Miku (N25): Kanade...
 Ena: It'll be okay, Kanade... I'm sure your music's already saved a bunch of people.
 Ena: I mean, remember when my submission didn't get anything from that art contest and pushed me into a corner?
 Ena: Your song is the reason I was able to get back on my feet. You convinced me to keep trying.
@@ -43,7 +43,7 @@ Mafuyu: Yes...?
 Kanade: If my songs have led to any changes within you, no matter how minor, would you mind telling me how you feel again?
 Kanade: In order to save you, I want to be able to compose songs that can make you feel a whole variety of things.
 Kanade: So, would you sing with me?
-Miku: Oh, I'd like to sing too... I want to understand what you and Kanade are feeling as well, Mafuyu.
+Miku (N25): Oh, I'd like to sing too... I want to understand what you and Kanade are feeling as well, Mafuyu.
 Mafuyu: Okay...
 Mizuki: In that case, why don't we all sing and give our audience a little show?
 Ena: Sounds good. I'd like to hear you sing as well, Kanade.
@@ -59,7 +59,7 @@ Kanade: Mafuyu, Miku, let's sing.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: Great performance, Kanade, Mafuyu, Miku! That was awesome!
 Ena: I'm not sure why, but that felt so much warmer and gentler compared to the last time I heard it.
 Kanade: I felt the same way. Despite having sung it several times already, for some reason, it felt different today.
@@ -71,7 +71,7 @@ Kanade: I don't know how many people have been saved by my music, but...
 Kanade: I'm going to treasure all of my memories and realizations while striving to compose more music.
 Kanade: I'm hoping to incorporate the nostalgia I felt today into my music as well...
 Ena: If you do finish it, I have a feeling it's going to be a really nice song.
-Miku: Yes, it'll be so warm and gentle that everyone will be comforted by it...
+Miku (N25): Yes, it'll be so warm and gentle that everyone will be comforted by it...
 Mizuki: That does sound nice. I'd love to hear it when it's done.
 Mafuyu: Me too...
 Kanade: If that's how you feel, then I'll try working on it.
@@ -82,4 +82,4 @@ Kanade: Me too.
 Kanade: Likewise, Mafuyu.
 Mafuyu: Thank you...
 Kanade: Anyway, we'll see you all later.
-Miku: Bye bye.
+Miku (N25): Bye bye.

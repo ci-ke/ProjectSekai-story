@@ -8,7 +8,7 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Ichi! Everyone's here already!
 Ichika: R-Really? I'm excited but...nervous too.
@@ -16,19 +16,19 @@ Shiho: It's not like you to get cold feet, Ichika.
 Honami: I agree. You sometimes get jittery the day before a show, but you're usually relaxed by this point.
 Ichika: Usually, yes. But this time they're all here to see me, so...
 Luka: Oh, I see now. Are your hands still shaking?
-Miku: Let me help you with that. Give me your hands, Ichika.
+Miku (Ln): Let me help you with that. Give me your hands, Ichika.
 Ichika: O-Okay... Wow, your hands are warm, Miku.
-Miku: Yup! Now close your eyes and take a deep breath.
+Miku (Ln): Yup! Now close your eyes and take a deep breath.
 Ichika: *Inhale* *Exhale*
-Miku: How do you feel?
+Miku (Ln): How do you feel?
 Ichika: I...feel calmer now.
-Miku: Nice! You're good to go then!
+Miku (Ln): Nice! You're good to go then!
 Ichika: Yeah, I am! Thank you, Miku. Here I go!
 (Exit: Ichika)
 (Exit: Saki)
 (Exit: Honami)
 (Exit: Shiho)
-(Exit: Miku)
+(Exit: Miku-Ln)
 (Exit: Luka)
 (Enter: Ichika)
 (Enter: Saki)
@@ -69,19 +69,19 @@ Honami: Hehe. It looks like we really reached them. Isn't that great, Ichika?
 Ichika: Yeah!
 (Exit: Saki)
 Ichika: *Sigh* We only sang one song, but when you sing with so much emotion, that's all it takes to tire yourself.
-(Enter: Miku)
-Miku: It's a good kind of tired though, right?
+(Enter: Miku-Ln)
+Miku (Ln): It's a good kind of tired though, right?
 Ichika: It is. And I was able to perform properly because you soothed my nerves. Thank you, Miku.
 (Enter: Saki)
-Miku: Hehe. I was just looking out for my junior.
+Miku (Ln): Hehe. I was just looking out for my junior.
 Luka: It's about time we said happy birthday to Ichika. Is everyone ready?
 Saki: Oh yeah!
 Ichika: Wait, Saki? What's that behind your back?
 Saki: Th-There's nothing back here! Right, Hona?!
 Honami: Huh? Um, yes! Nothing to see here. More importantly, we need to give you your birthday wishes.
 Shiho: Yeah. Miku, you can do the honors.
-Miku: Okay. Everyone, say it with me!
-Miku: Happy birthday, Ichika!
+Miku (Ln): Okay. Everyone, say it with me!
+Miku (Ln): Happy birthday, Ichika!
 Honami: "Happy birthday!"
 Shiho: "Happy birthday!"
 Luka: "Happy birthday!"
@@ -95,12 +95,12 @@ Saki: It was a big popper! I asked my brother to ask Rui to make it for us!
 Saki: And he said yes! And look! He even filled it with star-shaped confetti!
 Ichika: I see. It was a really loud bang, so I thought something had blown up.
 Honami: Ahaha... Even we got a shock, and we knew what was coming.
-Miku: That's right.
+Miku (Ln): That's right.
 Ichika: "Haha!" "Hehe."
 Saki: "Haha!" "Hehe."
 Honami: "Haha!" "Hehe."
 Shiho: "Haha!" "Hehe."
-Miku: "Haha!" "Hehe."
+Miku (Ln): "Haha!" "Hehe."
 Luka: "Haha!" "Hehe."
 Ichika: Again, thank you all so much for coming to today's show.
 Ichika: After all, your birthday is such an important day, and I'm so glad I got to spend mine singing my heart out for you all.

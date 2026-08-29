@@ -40,18 +40,18 @@ KAITO: Sorry everyone! I gotta go!
 (Exit: KAITO)
 Kohane: Oh, there he goes...
 Akito: He really doesn't have it together, huh?
-(Enter: Miku)
+(Enter: Miku-VBS)
 MEIKO: Oh? Miku, what are you doing here?
-Miku: Hey everyone, did you happen to see KAITO around? Len and Rin are looking for him.
+Miku (VBS): Hey everyone, did you happen to see KAITO around? Len and Rin are looking for him.
 Akito: Oh, you just missed him. He left to head over there just a second ago.
-Miku: I see. Well, if he's already on his way, then it should be fine.
-Miku: So are you all here for practice? Or are you discussing your next event?
+Miku (VBS): I see. Well, if he's already on his way, then it should be fine.
+Miku (VBS): So are you all here for practice? Or are you discussing your next event?
 Akito: We came to talk about our next event, but... I mean, since we're, wanna sing with us?
-Miku: What?
+Miku (VBS): What?
 Akito: I was thinking we could sing that song to get the ball rolling.
 An: Oh, I like that idea! Singing that song really does get you fired up!
 MEIKO: I see... In that case, I'll be sitting back listening to you all in my front-row seat.
-Miku: Oh geez, everyone's free to do whatever they want, but... Of course, I'll join you.
+Miku (VBS): Oh geez, everyone's free to do whatever they want, but... Of course, I'll join you.
 Akito: Awesome. Alright, then let's do this! Ready Steady!
 
 
@@ -63,12 +63,12 @@ Akito: Awesome. Alright, then let's do this! Ready Steady!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 Akito: Thanks everyone!
 Akito: We're only going to keep getting better and aiming higher. There's no stopping us.
 Akito: We're going to create even better events from here onward, so don't take your eyes off us!
-Miku: Looking forward to it, you guys.
+Miku (VBS): Looking forward to it, you guys.
 Kohane: Even better events, huh...
 Kohane: Just thinking about creating them with everyone is making me excited!
 Toya: Yes, I feel the same.
@@ -80,4 +80,4 @@ Kohane: "Yeah!"
 An: "Yeah!"
 Toya: "Yeah!"
 MEIKO: They really are back on their feet now. I can't wait for the day they finally make their dreams come true.
-Miku: Yeah. Knowing them, they'll be able to do it.
+Miku (VBS): Yeah. Knowing them, they'll be able to do it.

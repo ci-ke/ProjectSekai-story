@@ -9,28 +9,28 @@
 Saki: —I only noticed watching the video, but the people in the back took longer to get into the music than everyone closer up.
 Ichika: You're right... We should think about how to appeal more to the seats in the back next time.
 Shiho: Yeah. Another thing I noticed—
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Rin: Oh, everyone's here! Hello, hello☆
 Ichika: Miku, Rin!
-Miku: What are you all up to?
+Miku (Ln): What are you all up to?
 Honami: We were holding a debrief for our last show. The video helped us notice a few things.
-Miku: Oh, I see. You four sure are diligent.
+Miku (Ln): Oh, I see. You four sure are diligent.
 Shiho: That show helped define our goal, after all.
 Rin: Your goal?
 Shiho: I've always said I want to "move people's hearts with my music", but...
 Shiho: I didn't really have a concrete sense of what I meant by saying that.
 Shiho: But... When I looked out over the stands from that stage, I felt like I finally understood.
-Miku: I see.
-Miku: It's true, that performance resonated more deeply than any you've put on before.
-Miku: Your audience came together as one and really went wild... It was a wonderful show.
+Miku (Ln): I see.
+Miku (Ln): It's true, that performance resonated more deeply than any you've put on before.
+Miku (Ln): Your audience came together as one and really went wild... It was a wonderful show.
 Rin: Yeah, totally! I was super moved!
 Saki: Hehehe...
 Shiho: But we're not going to stop at the opening act.
 Shiho: Next time we stand there, it'll be under our own power.
 Ichika: Right!
-Miku: I can tell you're motivated.
-Miku: Hey, everyone. Would you let us hear your newfound drive?
+Miku (Ln): I can tell you're motivated.
+Miku (Ln): Hey, everyone. Would you let us hear your newfound drive?
 Rin: I want to hear it, too! And I bet everyone who's come to see you feels the same!
 Honami: Huh?
 Ichika: Oh, I didn't see you all there.
@@ -45,7 +45,7 @@ Shiho: Integral.
 
 3 [mc_timeline] mc_ev_band_20_2
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
@@ -60,10 +60,10 @@ Shiho: We'll keep on improving as professionals, and stand on that stage again s
 Shiho: When we do, I want you all there to see just how much we've grown.
 Shiho: So, I hope you'll stick with us.
 Saki: Leo/need's not done evolving yet♪
-Miku: Hehe. I'm already looking forward to it.
+Miku (Ln): Hehe. I'm already looking forward to it.
 Rin: We're always with you, too!
 Honami: Thank you both!
 Shiho: Well, now that we're all refreshed, let's get back to that debrief.
 Saki: Okay!
 Ichika: Thank you all for coming to see us!
-Miku: See you.
+Miku (Ln): See you.

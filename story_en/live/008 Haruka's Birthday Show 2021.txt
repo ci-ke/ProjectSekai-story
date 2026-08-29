@@ -5,7 +5,7 @@
 (Enter: Minori)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Shizuku: Okay, let's try it one more time.
 Minori: 1, 2, 3...
@@ -37,7 +37,7 @@ Minori: You want to join us?
 Haruka: I'm only able to stand on the stage like this today because you gave me a helping hand.
 Haruka: So I'd love to sing with you today. Especially today.
 Minori: Haruka! Yes, let's sing together! No, let me rephrase that. Please allow me the honor of singing together with you!
-Miku: Hehe. So that means the three of us! Time to sing, Minori! Haruka!
+Miku (MMJ): Hehe. So that means the three of us! Time to sing, Minori! Haruka!
 Minori: Are you ready? Then let's go!
 
 
@@ -49,7 +49,7 @@ Minori: Are you ready? Then let's go!
 (Enter: Minori)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Rin: All of you sounded great, I was moved to tears!
 Haruka: Thank you. I never thought I'd ever be able to perform on stage during my birthday again.
@@ -60,7 +60,7 @@ Airi: I know you usually refrain from food like this, but at least pamper yourse
 Haruka: Hehe, you're right. I'll eat all the cake I can take today.
 Minori: I'll cut the cake! Wait, we should pass out the party poppers before that!
 Rin: We're going to pop some confetti together? That sounds fun! Give me a popper too!
-Miku: I'll have one too! Let's pop them all together on three!
+Miku (MMJ): I'll have one too! Let's pop them all together on three!
 Minori: Okay, 1, 2, 3!
 Haruka: Hehe. Thank you, everyone.
 Haruka: I enjoyed myself very much. Thank you.

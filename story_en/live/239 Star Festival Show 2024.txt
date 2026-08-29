@@ -6,14 +6,14 @@
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Thanks for coming on such short notice, you guys!
 Toya: That's alright. Don't worry about it.
 Akito: Anyway, there's something you need to tell us?
 An: Well, today's the Star Festival, right?
 An: I wanted to go above and beyond with the decorations for the cafe, so instead of using the ones we usually do, I dug up ones from a long time ago.
 An: And that's when I came across some of Aunt Nagi's wish strips!
-Miku: Huh? Nagi's wish strips?
+Miku (VBS): Huh? Nagi's wish strips?
 An: Yeah! After reading them again, I realized that they were really interesting.
 An: There were cool ones like, "I wanna be number one in the world!" and even some childlike ones like, "I wanna eat so much watermelon I end up hating it!"
 Kohane: Hehe. Based on the stories from you and your dad, that sounds exactly like her.
@@ -22,7 +22,7 @@ An: When I think about her watching over us from up above, it makes me want to s
 Akito: Is that why you called us over?
 An: That's exactly right! Will you guys join me?
 Toya: Of course.
-Miku: Let's sing and make our song reach the sky.
+Miku (VBS): Let's sing and make our song reach the sky.
 An: Thank you!
 An: You guys are also welcome to join in the fun too! Here we go!
 An: DAYBREAK FRONTLINE!
@@ -36,12 +36,12 @@ An: DAYBREAK FRONTLINE!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Thanks for all the positive energy, everyone!
 Kohane: I hope Nagi heard us...
 Toya: I hope so too.
 An: Thank you for singing with me, you guys!
-Miku: It was our pleasure.
+Miku (VBS): It was our pleasure.
 Akito: By the way, don't you have decorations to put up?
 An: *Gasp*  Shoot! I better get back!
 Akito: Geez... Alright, we'll help you out.

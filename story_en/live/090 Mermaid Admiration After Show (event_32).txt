@@ -6,14 +6,14 @@
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Luka)
 Luka: Miku! We're ready!
-Miku: Thanks Luka! Alright, Nene and Emu. Here we go☆
+Miku (WxS): Thanks Luka! Alright, Nene and Emu. Here we go☆
 Emu: You got it, Miku! We're ready whenever you are!
 Nene: Huh? Don't tell me... Are you going to pour that bucket full of water on top of us?!
 Nene: W-Wait, hold on a second... STOP STOP! Ah!
-Miku: Ready, go!
+Miku (WxS): Ready, go!
 Emu: Eeep!
 Nene: Wah!
 Tsukasa: What was that noise just now?!
@@ -24,12 +24,12 @@ Rui: It would've been nice for them to call me over if they were going to try so
 Tsukasa: If they pulled you into the mix, you'd end up doing something even more outrageous, wouldn't you?
 Nene: Ugh... I'm soaked all over...
 Emu: That SPLASH was so much fun, right♪ I wanna do it again!
-Miku: In that case, let's do it again later!
+Miku (WxS): In that case, let's do it again later!
 Nene: Seriously? That was practically like meditating underneath a waterfall...
 Luka: Meditating underneath a waterfall... What does it feel like being underneath a waterfall, I wonder? I would love to try it sometime.
 Nene: The fact that you'd actually be able to fall asleep even in a situation like that scares me...
 Tsukasa: But why did you all suddenly start doing something like that?
-Miku: I was thinking that Miku and the others would like to put on a show at the beach like everyone else!
+Miku (WxS): I was thinking that Miku and the others would like to put on a show at the beach like everyone else!
 Luka: That's why we tried to see what we could do with water first.
 Tsukasa: I see. So that's what that was. But getting poured with water from up above seems more like a punishment.
 Nene: It really does.
@@ -39,9 +39,9 @@ Nene: That's a comedy skit, not a show!
 Nene: A-Achoo! Ugh... Since I'm still wet, it's starting to get a little cold...
 Emu: What?! Oh no! We need to warm you up ASAP!
 Tsukasa: You're right. There are towels at the Wonder Stage, so let's head back...
-Miku: Oh! If you want to warm up, then why don't we all dance?!
+Miku (WxS): Oh! If you want to warm up, then why don't we all dance?!
 Nene: What? How did you come to that conclusion?
-Miku: If we dance a lot, I'm sure we'll be super warm by the end! Right, Luka?
+Miku (WxS): If we dance a lot, I'm sure we'll be super warm by the end! Right, Luka?
 Luka: That's true. If we all dance together, not only will our bodies warm up but so will our hearts.
 Nene: Uh...
 Nene: Hehe... Well, I guess dancing with everyone wouldn't be so bad.
@@ -59,13 +59,13 @@ Nene: Alright then, let's go!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Luka)
 Nene: Phew... My body's all warm from all that dancing.
 Nene: How about everyone else? Were you able to join in on the fun?
 Nene: Hehe. I'm glad!
 Luka: You all looked so cool!
-Miku: Yeah!  You guys seemed different from usual, it was amazing!
+Miku (WxS): Yeah!  You guys seemed different from usual, it was amazing!
 Luka: I was so moved that my sleepiness was completely blown away.
 Tsukasa: Whoa! Can't believe we blew Luka's sleepiness away!
 Luka: Yes. It was so wonderful and satisfying that I feel relieved... Zzz...
@@ -73,13 +73,13 @@ Nene: She ended up falling asleep anyway?!
 Emu: Good night, Luka!
 Rui: Well then, like we initially planned, I think it's time we start coming up with ideas for our next ambassador appearance!
 Tsukasa: I agree. Let's make the next one just as exciting as this one and promote it even more!
-Miku: Good luck, you guys! I'm also going to do my best so that we can all do a sea show together♪
-Miku: Oh, I think I'll get KAITO to try that water stunt we did before too!
+Miku (WxS): Good luck, you guys! I'm also going to do my best so that we can all do a sea show together♪
+Miku (WxS): Oh, I think I'll get KAITO to try that water stunt we did before too!
 Nene: Oh, make sure you get KAITO to agree first before pouring water over him, okay?
-Miku: Okaaayyy! KAITOOOO!
+Miku (WxS): Okaaayyy! KAITOOOO!
 Nene: Oh geez... Seems like it's as lively here as it is at the Wonder Stage...
 Nene: It's because of Miku and the others, we're able to do shows like this with everyone.
-(Exit: Miku)
+(Exit: Miku-WxS)
 (Exit: Luka)
 Nene: Thank you so much, Miku.
 Emu: Hm? What's up with that smile, Nene?

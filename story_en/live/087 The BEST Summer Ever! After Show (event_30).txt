@@ -6,20 +6,20 @@
 
 (Enter: Emu)
 (Enter: Nene)
-(Enter: Miku)
+(Enter: Miku-WxS)
 Emu: Wonderhoy! Holding a girls' day out Wonderlands×Showtime show sure is fun♪
 Nene: Girls' day out? So that's what this show's theme was about... Well, I guess something like this every once in a while is pretty fun.
-Miku: I'm happy to hear that, Nene♪
-Miku: Emu and I spent ages thinking of something fun we could do together with you☆
+Miku (WxS): I'm happy to hear that, Nene♪
+Miku (WxS): Emu and I spent ages thinking of something fun we could do together with you☆
 Nene: I'm glad to hear that, but why did you suddenly... Oh, is this because I couldn't make it to the seaside school the other day?
 Emu: Yeah! Since we didn't get to go to the beach together, I thought this would be a good alternative!
 Nene: You didn't have to go that far for me... We attend different schools so it was a given that I wouldn't be able to go. Besides, you even gave me a lot of souvenirs...
 Emu: But... Fun things are fun when we do them together! I want to have fun with you♪
-Miku: Yeah! Hanging out is way more fun when everyone can make it!
+Miku (WxS): Yeah! Hanging out is way more fun when everyone can make it!
 Nene: Is that how it is? Well, I guess this is very much like the two of you.
 Nene: You know, I also like hearing you two talk about the fun you had.
 Emu: Oh, then in that case, can I tell you about the presentation we did at the seaside school? We all performed theme songs from musicals♪
-Miku: You should have seen how hyped everyone was! It was so much fun!
+Miku (WxS): You should have seen how hyped everyone was! It was so much fun!
 Nene: Theme songs from musicals at the seaside school? Tell me more.
 Emu: I did a show with Honami and her friends there at the seaside school.
 Emu: Hehe. I want you to see us perform it someday.
@@ -31,9 +31,9 @@ Emu: Hehe. I want you to see us perform it someday.
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Honami: And then... Here's a photo of us splitting a watermelon and here's one of us playing beach volleyball.
-Miku: Oh, everyone looks like they're having so much fun.
+Miku (Ln): Oh, everyone looks like they're having so much fun.
 Shiho: ...Oops
 Honami: What's the matter, Shiho?
 Saki: Hey! That's the beach volleyball photo, right? Why are you hiding it?
@@ -41,15 +41,15 @@ Ichika: You were really good when we played back then. There's no need to hide i
 Shiho: But... I made a weird face in this photo!
 Honami: But still... You looked so cool.
 Shiho: C'mon... Can we please stop talking about this!
-Miku: Hehe. Just listening to you all, I can tell you had a great time at the seaside school. Having looked at your photos, you're making totally different faces to when you perform here...
-Miku: Oh... What's this photo?
+Miku (Ln): Hehe. Just listening to you all, I can tell you had a great time at the seaside school. Having looked at your photos, you're making totally different faces to when you perform here...
+Miku (Ln): Oh... What's this photo?
 Honami: This is a photo of Saki and I's group performing one of the theme songs from a musical.
 Honami: It was difficult and tough at first to play with different members, but...
 Honami: Thanks to Shiho's advice and everyone's support, we were able to deliver a great performance during the recital.
-Miku: Recital, huh? Performing with different people sounds like fun!
+Miku (Ln): Recital, huh? Performing with different people sounds like fun!
 Saki: Right? Besides, I think Hona and I have improved a lot after that performance♪
 Honami: Yeah! I wish you were there to hear us, Miku.
-Miku: Then, why we don't play together now? It'll be good practice and what's more, I'd like to see how much the two of you have grown.
+Miku (Ln): Then, why we don't play together now? It'll be good practice and what's more, I'd like to see how much the two of you have grown.
 Saki: Of course♪ You guys are okay with it too, right?
 Honami: Oh that reminds me... Since we're all here, why don't we play that song?
 Honami: I think that song would be the best way to show Miku the memories we made at the beach... What do you think?
@@ -67,11 +67,11 @@ Honami: Thank you, everyone. Then, let's do it!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Honami: Thank you for listening to us, everyone!
 Honami: When I was singing this song, it reminded me of when we left the seaside school, and I got a little sad.
 Saki: I totally get you. I also wished I could have stayed there a little longer before going home...
-Miku: That just means you had a fun time, right? Your feelings really showed through.
+Miku (Ln): That just means you had a fun time, right? Your feelings really showed through.
 Honami: Thank you for playing with us too, Miku.
 Ichika: Nevertheless, your performance at the seaside school was amazing.
 Shiho: I agree. It was a great performance. It was as though you said, "I've grown".
@@ -79,12 +79,12 @@ Saki: Hehehe. It was a shame we didn't win first prize but I'm glad to hear that
 Honami: Come to think of it, I enjoyed Ichika's group's rakugo performance.
 Shiho: How did you manage to memorize such a difficult story? You didn't even get to have that much time to practice.
 Ichika: You think so? I don't really remember the performance much because I was so worried about what would happen if I forgot the entire story the whole time I was performing.
-Miku: Hehehe. Seems like you still have a lot of stories to talk about.
-Miku: Since you guys just got back, why don't you take a break from practicing today and share some of your stories?
+Miku (Ln): Hehehe. Seems like you still have a lot of stories to talk about.
+Miku (Ln): Since you guys just got back, why don't you take a break from practicing today and share some of your stories?
 Honami: Miku... Thank you. Well, if you say so then why not.
 Shiho: Yeah, I guess we could do that.
 Saki: Yay! Thanks, Shiho!
-Miku: Also, since you're all here, why don't you share your stories with Luka and the others?
+Miku (Ln): Also, since you're all here, why don't you share your stories with Luka and the others?
 Ichika: Well then, let's all go to where Luka and the others are. I think they're practicing on the rooftop, right?
 Saki: Yeah, let's go. Thanks for coming out today, you guys!
 Honami: Thanks for joining in the fun! Come see us again!

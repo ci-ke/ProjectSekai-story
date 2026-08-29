@@ -31,16 +31,16 @@ Toya: I'm looking forward to tomorrow.
 
 4 [mc] mc_ev_shuffle_22_2
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Emu)
 (Enter: Nene)
-Miku: Nene! Emu! That was sooooooooo much fun!
+Miku (WxS): Nene! Emu! That was sooooooooo much fun!
 Emu: Yeah☆ Singing all together really is so wonderhoy!
 Nene: Yeah, I guess so...
-Miku: Hehe♪ You're smiling a lot more than usual today, Nene☆
+Miku (WxS): Hehe♪ You're smiling a lot more than usual today, Nene☆
 Nene: Huh? R-Really?
 Emu: Yeah! That's because we get to watch the show at the Game Expo tomorrow! It's gonna be super fun and exciting☆
-Miku: Oh, that's right! Tsukasa and Rui looked so happy when they congratulated you two!
+Miku (WxS): Oh, that's right! Tsukasa and Rui looked so happy when they congratulated you two!
 Nene: Yeah, they did. We made them handle the prop all on their own so I'm glad we pulled our weight by winning those tickets.
 Nene: But...the gaming tournament was really fun. I didn't know that Aoyagi was good at games too.
 Emu: He was so good at Puyo Puyo! I wanna play with everyone again sometime!
@@ -48,31 +48,31 @@ Nene: Yeah. I want to win next time, so I better go practice at the arcade.
 Emu: Oh, can I come too! I wanna practice playing with you, Nene!
 Nene: Sure. I mean, we did get one-year all-you-can-play passes.
 Emu: Yay! I get to play all the games with Nene☆
-Miku: That sounds like so much fun! I wanna play too!
+Miku (WxS): That sounds like so much fun! I wanna play too!
 Nene: Oh... It might be a little difficult to play the games at the arcade, but I think I have a few games for a portable console. I'll have a look for them later.
 Emu: Then that way everyone in SEKAI can play games too☆
-Miku: Yay! Thanks, Nene!
+Miku (WxS): Yay! Thanks, Nene!
 Emu: Alright, next time, let's have a gaming tournament in SEKAI!
 Nene: Sounds good. I can't wait.
 Emu: Then we can form a team with the three of us!
-Miku: Yeah☆ And we'll definitely win too!
+Miku (WxS): Yeah☆ And we'll definitely win too!
 Nene: Well... If our opponents are Tsukasa and the others, then I think we could. But if it turns out KAITO is secretly really good or something...
 Nene: Hehe...
-Miku: Hehe. I can't help but smile when you're smiling Nene☆
+Miku (WxS): Hehe. I can't help but smile when you're smiling Nene☆
 Emu: Me too!
 Nene: What? A-Alright, that's enough. Stop staring at me...
 Nene: I've only ever played games on my own, but... I realized that it's pretty fun playing with people too.
 Nene: It'd be nice to play together again sometime.
 Emu: Hehe☆ I'll always play with you, Nene!
-Miku: Me too! Me too! And I'm sure everyone who came here today thinks the same too☆
+Miku (WxS): Me too! Me too! And I'm sure everyone who came here today thinks the same too☆
 Nene: Oh...
 Nene: Thank you for always being here, everyone.
 Nene: Um... I think it'll be a little difficult to do PvP with you all, but...
 Nene: If there's an opportunity, then I'd like it if we could play together.
 Emu: Yeah and I'm definitely not going to lose☆
 Nene: Hehe. Alright then, let's meet again at our next show. Bye bye.
-Miku: Bye bye!
+Miku (WxS): Bye bye!
 Emu: See you next time!
 (Exit: Nene)
-(Exit: Miku)
+(Exit: Miku-WxS)
 (Exit: Emu)

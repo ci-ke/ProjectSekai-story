@@ -14,13 +14,13 @@ MEIKO: I heard that we might be able to catch their Christmas show too, so c'mon
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Len)
-Miku: There once was a boy who transferred to a new school, and was all alone.
-Miku: Forced to move again because of his parents' situation, he finds himself unable to make friends.
-Miku: However, seeing how lonely he looked, his classmates didn't want him to be alone and wanted to be friends with him. So they gathered and called out to him.
+Miku (WxS): There once was a boy who transferred to a new school, and was all alone.
+Miku (WxS): Forced to move again because of his parents' situation, he finds himself unable to make friends.
+Miku (WxS): However, seeing how lonely he looked, his classmates didn't want him to be alone and wanted to be friends with him. So they gathered and called out to him.
 Len: Hey! We're all going to have a Christmas party with the whole class after this!
-(Exit: Miku)
+(Exit: Miku-WxS)
 Emu: There'll be games and snacks to munch on! It's going to be so much fun♪
 Rui: "Thank you for the invitation, but I'm sorry... I'm fine being on my own, so please, don't mind me..."
 Nene: "What? But... Being alone seems so sad."
@@ -60,8 +60,8 @@ Tsukasa: Hey, didn't I tell you that I'm Santa Claus!
 Emu: "Haha!"
 Len: "Haha!"
 Nene: "Haha!"
-(Enter: Miku)
-Miku: And so, the once lonely boy was able to celebrate a warm and happy Christmas. The end!
+(Enter: Miku-WxS)
+Miku (WxS): And so, the once lonely boy was able to celebrate a warm and happy Christmas. The end!
 
 
 5 [mc] mc_2021christmas_4

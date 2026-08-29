@@ -6,7 +6,7 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: KAITO)
 Mizuki: Thanks for coming on such short notice, everyone! I think the Star Festival decorations we made turned out great!
 Ena: Speaking of which, what brought this all on?
@@ -24,14 +24,14 @@ Mizuki: You even helped put them up, KAITO. I was sure you'd understand the joy 
 KAITO: Think what you want.
 Ena: *Sigh* I knew you'd say that.
 Kanade: Did you have fun decorating, Miku?
-Miku: I did. The Star Festival decorations are pretty.
-Miku: What about you, Kanade?
+Miku (N25): I did. The Star Festival decorations are pretty.
+Miku (N25): What about you, Kanade?
 Kanade: I also had fun. Writing our wishes on the paper slips was nice too.
 Ena: Yeah, I kinda get what you mean. You have to write down something concrete, so it helps get your feelings in order.
 Kanade: Yes. Seeing them written on paper makes it feel more tangible too. It's kind of similar to how we make our music.
-Miku: Feel more tangible...
+Miku (N25): Feel more tangible...
 Mafuyu: What's wrong?
-Miku: After hearing what Kanade said, it made me want to listen to a song filled with your emotions.
+Miku (N25): After hearing what Kanade said, it made me want to listen to a song filled with your emotions.
 Mizuki: Hahaha. What do you think, everyone? Shall we sing?
 Ena: Well, we can't say no to you, Miku. Besides, I wanted to sing too.
 Kanade: Would you join us, Mafuyu?
@@ -41,7 +41,7 @@ Mizuki: Wait, really?!
 KAITO: Would you rather I not?
 Ena: We didn't say that. But c'mon, let's sing before he changes his mind!
 Kanade: Hehe. Okay, here we go. Passion at 25:00.
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 2 [MUSIC] 409: Passion at 25:00
@@ -52,7 +52,7 @@ Kanade: Hehe. Okay, here we go. Passion at 25:00.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: KAITO)
 Kanade: Thank you for listening, everyone.
 Mizuki: Thanks, you guys!
@@ -67,7 +67,7 @@ Kanade: See you later, everyone.
 (Exit: Kanade)
 (Exit: Mafuyu)
 (Exit: Ena)
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 4 [mc] mc_tanabata_2024_3

@@ -6,25 +6,25 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: MEIKO)
 Saki: Alright! Let's have another great practice session today!
 MEIKO: Oh? Shiho, you're here!
 Shiho: Yes. Sorry for always being unable to come to practice.
 Shiho: There was something troubling me before, but thanks to Ichika and the others, I've made my decision.
 Shiho: From now on, I'll be coming to practice sessions.
-Miku: That's great to hear. I guess they got their message across.
+Miku (Ln): That's great to hear. I guess they got their message across.
 Ichika: Yes. It was thanks to you.
 Shiho: Oh... they told you.
 Honami: We didn't know what it meant to be a professional, so we asked for some advice.
-Miku: Having said that, we couldn't give you any great advice.
+Miku (Ln): Having said that, we couldn't give you any great advice.
 MEIKO: That's right. They thought it over themselves and came up with their own answer.
 Shiho: I see... I'm sorry for worrying everyone.
 Shiho: Also, I'm sorry for worrying you and the others too.
 MEIKO: Ahaha, Don't worry about it!
 MEIKO: Just seeing everyone gathered here makes me feel relieved. Right, Miku?
-Miku: Yes, I agree.
-Miku: I'm looking forward to seeing what sort of music the four of you will make from here onward.
+Miku (Ln): Yes, I agree.
+Miku (Ln): I'm looking forward to seeing what sort of music the four of you will make from here onward.
 Ichika: Our music, huh...
 Saki: Just thinking about it excites me!
 Shiho: Right...
@@ -36,7 +36,7 @@ Saki: You mean that song, right? Let's do it together♪
 Honami: Yes!
 MEIKO: In that case, let's hear you play now.
 MEIKO: Miku is looking forward to it, too.
-Miku: C'mon, don't tease me.
+Miku (Ln): C'mon, don't tease me.
 Ichika: Hehe. Well, shall we?
 Shiho: Yes. Let's do it.
 Ichika: Everyone, we hope you enjoy our song: "needLe"!
@@ -50,7 +50,7 @@ Ichika: Everyone, we hope you enjoy our song: "needLe"!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: MEIKO)
 Ichika: Thank you for listening!
 MEIKO: That was a great performance. I feel like you've all improved, don't you think?

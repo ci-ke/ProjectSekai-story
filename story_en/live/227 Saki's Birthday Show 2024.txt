@@ -3,23 +3,23 @@
 1 [mc] mc_bd_2023saki_1
 
 (Enter: Luka)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Saki)
 Saki: Uh...is this really the right classroom?
-Miku: It must be. All the answers to Ichika's riddles point to this room.
+Miku (Ln): It must be. All the answers to Ichika's riddles point to this room.
 Luka: So far we've got "a room resonating with music", "where four stars hide", and lastly, "cherry blossoms"...
 Saki: Okay, we've performed in so many places, but the four stars clue means it can't be the rooftop....
 Saki: But as for "a room resonating with music" and "cherry blossoms", this is where we drew our own cherry blossom tree on the chalkboard for our picnic with everyone.
-Miku: Hm? There's more. Have those star stickers always been there?
-Miku: Look, a yellow star... Probably made from card. There's an "N" written here.
+Miku (Ln): Hm? There's more. Have those star stickers always been there?
+Miku (Ln): Look, a yellow star... Probably made from card. There's an "N" written here.
 Luka: ...Hehe, I get it now. Saki, Miku, I think it's time for a star hunt!
 Saki: Hidden stars...oh I get it now! So this is also what "where four stars hide" was referring to!
-Miku: I see. That means there should only be three more to go.
+Miku (Ln): I see. That means there should only be three more to go.
 Saki: Ah! I found some! I've got an "N" and "ER"!
 Luka: Me too, I found "WI". Including Miku's star, that's all four.
-Miku: Hm, so "WI", two "N"s and an "ER"...
+Miku (Ln): Hm, so "WI", two "N"s and an "ER"...
 Saki: WINNER!
-Miku: WINNER!
+Miku (Ln): WINNER!
 Saki: W-Whoa! W-What's going on?!
 (Enter: Honami)
 (Enter: Ichika)
@@ -27,7 +27,7 @@ Saki: W-Whoa! W-What's going on?!
 Ichika: Everybody ready? Three, two, one!
 Ichika: Happy birthday, Saki! Saki! Happy birthday!
 Honami: Happy birthday, Saki! Saki! Happy birthday!
-Miku: Happy birthday, Saki! Saki! Happy birthday!
+Miku (Ln): Happy birthday, Saki! Saki! Happy birthday!
 Luka: Happy birthday, Saki! Saki! Happy birthday!
 Shiho: Happy birthday, Saki! Saki! Happy birthday!
 Saki: Y-You guys! Hahaha, what a jump scare!
@@ -35,7 +35,7 @@ Saki: Thanks for doing all this for me♪ That riddle sure was fun!
 Honami: Glad to hear it. We were worried that you wouldn't understand the clues.
 Shiho: I thought she would be fine since we sent Miku and Luka with her.
 Saki: Hey, I solved them all fair and square...with a little help from Luka's hints.
-Miku: Oh, look Saki. So many people came to celebrate your birthday.
+Miku (Ln): Oh, look Saki. So many people came to celebrate your birthday.
 Saki: You're right! Thanks for coming today, everyone♪
 Saki: Eep, this is amazing! I can't believe you'd all do this just for me!
 Saki: Hey, I want to show my gratitude to everyone for being here. Can we perform a song for them?
@@ -43,7 +43,7 @@ Ichika: If that's what you want to do, then of course!
 Saki: Woohoo! Let's do the one we've been practicing recently!
 Saki: Hey everyone! Are you all excited and ready for this?
 Saki: Hehe, okay! Let's go! Hello, Worker!
-(Exit: Miku)
+(Exit: Miku-Ln)
 
 
 2 [MUSIC] 286: Hello, Worker
@@ -55,16 +55,16 @@ Saki: Hehe, okay! Let's go! Hello, Worker!
 (Enter: Honami)
 (Enter: Shiho)
 (Enter: Luka)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Saki: Thank you for listening, everyone!
-Miku: That was incredible. Each and every one of you were in perfect harmony. I'm sure your feelings resonated with the audience.
+Miku (Ln): That was incredible. Each and every one of you were in perfect harmony. I'm sure your feelings resonated with the audience.
 Saki: You really think so?!
 Saki: You know, for the longest time, I've been thinking a lot about what it is that I can do.
 Saki: I found my head in a muddle over whether or not I should be satisfied with my standards.
 Saki: But deep down, I realized that it's when I put in the effort daily that I'm at my happiest and having the most fun!
 Ichika: Saki...
 Luka: I know that you girls are more than capable of making every day a fun and enjoyable one.
-Miku: And you can count on us being there for you.
+Miku (Ln): And you can count on us being there for you.
 Saki: Got it!
 Saki: Thank you so much for being here, everyone!
 Saki: I promise to do my best to fill each and every single day with joy!

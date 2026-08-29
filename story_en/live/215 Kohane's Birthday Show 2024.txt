@@ -6,19 +6,19 @@
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Kohane: Oh, Miku!
-Miku: Perfect timing. It's a good thing I decided to go find you guys.
+Miku (VBS): Perfect timing. It's a good thing I decided to go find you guys.
 An: Don't tell me, you've finished preparing for Kohane's birthday party already?
-Miku: Not quite, but we're close. Let's hang around here for a bit before heading over.
-Miku: By the way, MEIKO prepared a bunch of your favorite things, Kohane.
+Miku (VBS): Not quite, but we're close. Let's hang around here for a bit before heading over.
+Miku (VBS): By the way, MEIKO prepared a bunch of your favorite things, Kohane.
 Kohane: Don't tell me she made peach buns and sesame balls!
-Miku: That's right! She was frying up the sesame balls when I left. I bet the smell is wafting around her place by now.
+Miku (VBS): That's right! She was frying up the sesame balls when I left. I bet the smell is wafting around her place by now.
 Kohane: Wow! Now I really can't wait.
 Toya: Isn't this lovely, Azusawa?
 Kohane: Yes!
-Miku: Also, this is doubling up as our third Job-Well-Done party, too.
-Miku: So we've got lots of things that the rest of you would like, too.
+Miku (VBS): Also, this is doubling up as our third Job-Well-Done party, too.
+Miku (VBS): So we've got lots of things that the rest of you would like, too.
 Akito: Oh, sounds good.
 Toya: Speaking of a job well done, Azusawa delivered such a remarkable performance at that event.
 An: Yeah! She really stole the stage with her solo during the opening act!
@@ -27,7 +27,7 @@ Akito: All that hard work paid off. Nice job.
 Kohane: Hehehe!
 Kohane: That performance was probably the toughest hurdle I've ever pushed myself to overcome, so I'm glad to hear that!
 Kohane: Um... Miku, everyone...
-Miku: What is it?
+Miku (VBS): What is it?
 Kohane: Well... I'd like to thank you all properly.
 Toya: Thank us?
 Kohane: Yes. After all, I have all of you to thank for how far I've come.
@@ -42,8 +42,8 @@ Toya: Akito and I also have you to thank for motivating us, so thank you, Azusaw
 Akito: Like I said before, your solo was incredible. That's when I knew you were capable of lifting all of us to greater heights.
 Akito: We're more than capable of achieving even greater things. Let's do it—together!
 Kohane: Yeah!
-Miku: Hehe, good for you, Kohane.
-Miku: Oh, now I really want to see your ability for myself. How about a song before heading to MEIKO's place?
+Miku (VBS): Hehe, good for you, Kohane.
+Miku (VBS): Oh, now I really want to see your ability for myself. How about a song before heading to MEIKO's place?
 An: Sounds great! As for the song... Kohane, you pick!
 Toya: Yes, it is your birthday, after all.
 Kohane: If that's the case, then I know just the song.
@@ -58,19 +58,19 @@ Kohane: DAYBREAK FRONTLINE!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
-Miku: Nice work. I really felt your thoughts and feelings.
+(Enter: Miku-VBS)
+Miku (VBS): Nice work. I really felt your thoughts and feelings.
 Kohane: Really? That's great!
-Miku: Hey...since when did it get so crowded?
+Miku (VBS): Hey...since when did it get so crowded?
 Toya: They must be here to celebrate Azusawa's birthday.
 An: That must be it! Okay then!
 An: Hey everyone! How about we wish Kohane a happy birthday together?
-Miku: Sounds like they're all on board!
+Miku (VBS): Sounds like they're all on board!
 An: Awesome, on three everyone! One, two, three!
 An: Happy birthday, Kohane!
 Akito: Happy birthday! Happy birthday!
 Toya: Happy birthday! Happy birthday!
-Miku: Happy birthday! Happy birthday!
+Miku (VBS): Happy birthday! Happy birthday!
 Kohane: Thank you! And thank you all for coming here to celebrate my birthday!
 Kohane: I'll keep on singing with An and the others so that one day, we will achieve our dream of surpassing RAD WEEKEND!
 Kohane: I hope you will continue to support us!

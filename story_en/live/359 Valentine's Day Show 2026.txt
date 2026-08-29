@@ -3,36 +3,36 @@
 1 [mc_timeline] mc_valentine_2025_1
 
 (Enter: Emu)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Tsukasa)
 (Enter: Nene)
 (Enter: Rui)
 Emu: Happy Valentine's Day, everyone♪
-Miku: Happy Valentine's Day! Happy Valentine's Day☆
+Miku (WxS): Happy Valentine's Day! Happy Valentine's Day☆
 Tsukasa: Happy Valentine's Day! Happy Valentine's Day☆
 Nene: Happy Valentine's Day! Happy Valentine's Day☆
 Rui: Happy Valentine's Day! Happy Valentine's Day☆
 Tsukasa: You all seem in good spirits! Did you receive a gift from someone?
 Rui: We actually just received chocolate from Emu and Nene. We were sharing our thoughts with them and Miku.
-Miku: Yeah☆ The chocolate cake was so good♪ And the colorful star-shaped chocolate hidden inside was so fun!
+Miku (WxS): Yeah☆ The chocolate cake was so good♪ And the colorful star-shaped chocolate hidden inside was so fun!
 Emu: Hehehe. I wanted to make a cake that was fun like a treasure hunt! Nene and I came up with lots of ideas♪
 Nene: Emu's family chef had to help us make our ideas reality, though.
 Rui: Ah, I see. We'll have to thank him as well when we can.
 Rui: Even aside from the cake, though, the beautiful wrapping conveyed your feelings quite well.
 Tsukasa: Indeed! Your gift was filled with the desire to bring us all joy and make us smile!
 Emu: Yay! I'm really glad you liked it♪
-Miku: Oh...
-Miku: Maybe giving a present is best after all.
+Miku (WxS): Oh...
+Miku (WxS): Maybe giving a present is best after all.
 Nene: Huh? Miku, do you want to give someone a Valentine's Day gift?
-Miku: Oh, no! Not me, but a plushie friend.
-Miku: They have their first-ever gift and letter ready to give to a friend. But they told me they were too shy to do it.
+Miku (WxS): Oh, no! Not me, but a plushie friend.
+Miku (WxS): They have their first-ever gift and letter ready to give to a friend. But they told me they were too shy to do it.
 Rui: Yes... I understand the feeling.
 Rui: But to have even written a letter... They must have some truly precious feelings they want to convey.
 Tsukasa: Yes, and if this perfect chance slips by, it may only grow harder in the future. If we could help them take that step...
 Emu: Hey, I know! What if we put on that show for them... You know the one!
 Nene: That show?
 Tsukasa: Ah, I do know the one indeed! You're right, it may give them the drive they need to share their feelings!
-Miku: Yeah☆ So let's all put on that show for them, together♪
+Miku (WxS): Yeah☆ So let's all put on that show for them, together♪
 Nene: Hey, wait! Shouldn't we practice first? There are a lot of parts we have to be really in sync for.
 Rui: In that case, why don't we have everyone watch our rehearsal? They can let us know if we have everything ready.
 Emu: Hey everybody! It's a little sudden, but welcome to our fun performance♪
@@ -44,17 +44,17 @@ Tsukasa: It's showtime!
 3 [mc_timeline] mc_valentine_2025_2
 
 (Enter: Emu)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Tsukasa)
 (Enter: Nene)
 (Enter: Rui)
 Emu: Did you like our show, everyone?
-Miku: Wow! Everyone seems even happier than they were before the show!
+Miku (WxS): Wow! Everyone seems even happier than they were before the show!
 Tsukasa: Yes! It should be a good boost for Miku's plushie friend too, surely?
 Rui: We won't know unless we try, but it's better than doing nothing.
 Nene: Right.
 Nene: Thank you all for coming to see us today. You're always welcome at our shows.
-Miku: See you again!
+Miku (WxS): See you again!
 
 
 4 [mc_timeline] mc_valentine_2025_3

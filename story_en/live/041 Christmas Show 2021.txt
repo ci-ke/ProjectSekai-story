@@ -14,7 +14,7 @@ Miku: Yup! Let's go!
 
 (Enter: Kanade)
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Ena)
 (Enter: Mizuki)
 Mizuki: Okay, on my cue, everyone! Ready...
@@ -22,7 +22,7 @@ Ena: "Merry Christmas!"
 Mizuki: "Merry Christmas!"
 Kanade: "Merry Christmas..."
 Mafuyu: "Merry Christmas..."
-Miku: "Merry Christmas..."
+Miku (N25): "Merry Christmas..."
 Mizuki: You know, I really didn't think we'd be able to hold a Christmas meetup like this at all.
 Mizuki: Now we don't have to be Christmas loners this year♪
 Mafuyu: I don't care about Christmas, and I prefer to be alone, anyway.
@@ -33,7 +33,7 @@ Ena: Huh? Do what?
 Kanade: Sing. Mizuki and I have been practicing a song with Miku.
 Mizuki: I wanted all of us to do it together, actually, but Ena had problems meeting the deadline and Mafuyu was busy with school events, remember?
 Mizuki: So anyway, just watch it as a party performance or something, okay? Miku, you ready?
-Miku: Yes. Let's sing.
+Miku (N25): Yes. Let's sing.
 
 
 3 [MUSIC] 74: Hitorinbo Envy
@@ -42,7 +42,7 @@ Miku: Yes. Let's sing.
 
 (Enter: Kanade)
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Ena)
 (Enter: Mizuki)
 Ena: Hm? Those sparks over there, we've seen them before...
@@ -51,7 +51,7 @@ Mizuki: Hey there♪ Is everyone doing great?
 Mizuki: Looks like you get to NOT be Christmas loners this year too!
 Ena: Hey, can we open the snacks already?
 Mizuki: Of course! Our Christmas party has only just begun! Miku, I hope you'll enjoy yourself too!
-Miku: I will.
+Miku (N25): I will.
 
 
 5 [mc] mc_2020christmas_4

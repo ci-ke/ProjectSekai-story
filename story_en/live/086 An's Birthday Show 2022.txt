@@ -6,18 +6,18 @@
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 An: MEIKO, Miku, thank you so much for today! The birthday party was so much fun!
 MEIKO: It was my pleasure. I had a great time cooking all that food.
 MEIKO: Plus, I wanted it to be a birthday you will always remember.
 An: MEIKO... Thank you!
 MEIKO: You are most welcome.
-Miku: You'll be celebrating at your father's shop later, right? Wouldn't it be bad if the star of the show is late?
+Miku (VBS): You'll be celebrating at your father's shop later, right? Wouldn't it be bad if the star of the show is late?
 An: You're right. I better get going, see you!
 An: *Sigh*... The birthday party was so much fun!
 Toya: The cakes and decorations are getting more gorgeous each year, aren't they?
-(Exit: Miku)
+(Exit: Miku-VBS)
 (Exit: MEIKO)
 Kohane: There were even some adorable marzipan decorations on top of the cake.
 An: I know right! They were so cute that I didn't want to eat them.

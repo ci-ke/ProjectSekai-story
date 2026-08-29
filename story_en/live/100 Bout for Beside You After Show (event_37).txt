@@ -21,20 +21,20 @@ Rin: Ah! Len! I'm not letting you get away!
 An: Oops... Oh no, I probably said something I shouldn't have.
 (Exit: Rin)
 (Exit: Len)
-(Enter: Miku)
-Miku: An, you're here. Welcome. Did you come alone today?
+(Enter: Miku-VBS)
+Miku (VBS): An, you're here. Welcome. Did you come alone today?
 An: Yeah. I came a little early, but everyone will be coming later.
 An: I wanted to thank you for that thing the other day.
-Miku: I see. You're so earnest, An.
+Miku (VBS): I see. You're so earnest, An.
 An: Hehe, when I told Akito, he said the exact same thing. He said that since we're all a team, it's a given.
 An: It's thanks to you and Akito, I was able to confront my feelings. Thank you!
 An: But, when I think about Kohane possibly going her own way, I got scared... To be honest, even I was surprised that I felt that way.
 An: To become anxious like that is... So unlike me...
-Miku: But that just means Kohane is that important to you, right?
+Miku (VBS): But that just means Kohane is that important to you, right?
 An: Yeah...
 An: I want to keep singing with Kohane forever if possible.
 An: That's why... I'm still a little anxious, but I know that I need to look ahead and keep practicing!
-Miku: Hehe, I see.
+Miku (VBS): Hehe, I see.
 (Enter: Kohane)
 (Enter: Akito)
 (Enter: Toya)
@@ -48,7 +48,7 @@ Kohane: I agree! Even when I first heard you sing, it made me really happy!
 Kohane: I really do love the way you sing, An!
 An: Thank you, Kohane!
 Akito: Seems like she's back to her happy self now.
-Miku: Hehe.
+Miku (VBS): Hehe.
 Toya: Oh, by the way, were you able to solve that thing you were worried about, Akito?
 Akito: Hmm?
 Toya: You seem to be a lot more relaxed now, so I thought you might've figured things out. I guess I thought wrong.
@@ -57,7 +57,7 @@ An: Oh, hey, hey! There's this song I wanna sing to stretch my vocal cords out. 
 Kohane: Of course. Let's do it!
 Toya: I don't mind. What did you want to sing?
 Akito: Well, it's probably going to be THAT song.
-Miku: I think so too.
+Miku (VBS): I think so too.
 An: You're damn right! Of course, it's THAT song!
 An: For you guys in the audience, are you all ready too?
 An: Hehe, thank you! Then let's go!
@@ -72,10 +72,10 @@ An: Forward!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Oh man, I always feel so much better after singing this song.
 An: It's like I've become more motivated to look ahead and keep moving forward!
-Miku: Agreed. I think your feelings really came through, An.
+Miku (VBS): Agreed. I think your feelings really came through, An.
 An: Hey, Kohane...
 Kohane: Yes? What's wrong, An?
 An: I'm going to keep singing the songs you love, okay?
@@ -88,9 +88,9 @@ Len: *Huff*... *Huff*... Enough! Just give up already, Rin!
 An: Huh? Len, are you still being chased by Rin?
 Kohane: Chased?
 Toya: How did that come about?
-Miku: Oh, that's probably because...
+Miku (VBS): Oh, that's probably because...
 Len: Ah! Miku, I told you to not tell people!
-Miku: Hehe. Sorry, sorry.
+Miku (VBS): Hehe. Sorry, sorry.
 An: I guess you're the same as me, right, Len?
 Kohane: What? What do you mean by the same as you, An?
 An: That is... A secret! Right, Len?

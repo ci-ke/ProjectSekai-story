@@ -6,11 +6,11 @@
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Luka)
 Minori: Ahh! The School Festival was so much fun!
 Haruka: Each and every class really pulled out all the stops.
-Miku: Hehe, sounds like a lot of fun! Please do tell me more.
+Miku (MMJ): Hehe, sounds like a lot of fun! Please do tell me more.
 Luka: I'm also curious to know.
 Shizuku: Er... I don't know where to start. There were stalls and plays...
 Haruka: Airi and Shizuku's sweets stall really hit it big. I heard everything was already sold out by the end of the second day.
@@ -50,7 +50,7 @@ Minori: The Vampire!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Luka)
 Minori: Yay! We nailed that dance!
 Minori: Hehehe, I guess the school festival hype still hasn't worn off!
@@ -70,14 +70,14 @@ Akito: Well, you're bound to raise a few eyebrows looking like that.
 Toya: I'd say it's harder to not cover such an outlandish story.
 An: I-I'm sorry, Kohane. If it wasn't for me running so chaotically—
 Kohane: Hey, it's not your fault, An! I'm just surprised that this blew up the way it did!
-(Enter: Miku)
-Miku: Ah, so this is where you all were.
+(Enter: Miku-VBS)
+Miku (VBS): Ah, so this is where you all were.
 Kohane: Oh, Miku! Is everything okay?
-Miku: Len's been searching for Rin and it's driving him mad. He said, "real mean of her to slip away and go to the festival without me!"
+Miku (VBS): Len's been searching for Rin and it's driving him mad. He said, "real mean of her to slip away and go to the festival without me!"
 Rin: Oof...
 Akito: I had a feeling this would happen.
 Rin: Hey, Miku. What if I told him all about the festival?
-Miku: I'm not sure about that... Wouldn't that just add more fuel to the flame?
+Miku (VBS): I'm not sure about that... Wouldn't that just add more fuel to the flame?
 Toya: Hearing about the amazing school festival he didn't get to go to would just make him feel like he missed out even more.
 An: Ahaha, I guess the best we can do is just apologize for not inviting him.
 An: Things may not have all gone to plan, but boy was it fun. I'd say it was on par with ours.
@@ -86,7 +86,7 @@ Kohane: No problem!
 Kohane: Hehe, now this has really got me into the singing mood!
 An: Really? Me too! So shall we?
 Rin: Hey, count me in too! There's no holding back at times like this!
-Miku: In that case, I might as well jump on the bandwagon!
+Miku (VBS): In that case, I might as well jump on the bandwagon!
 Kohane: Okay, everyone ready? PaⅢ.SENSATION!
 
 
@@ -96,7 +96,7 @@ Kohane: Okay, everyone ready? PaⅢ.SENSATION!
 
 (Enter: Kohane)
 (Enter: An)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Rin)
 (Enter: Akito)
 (Enter: Toya)
@@ -105,7 +105,7 @@ Kohane: Ah, are you guys feeling it too? I hope so!
 Toya: I did feel more energy and life in that performance.
 An: Yeah! Who knew having a ball at the school festival would have its aftereffects?
 Akito: I guess there's some sort of connection... Well, sometimes a change of pace is worth it.
-Miku: Oh, Rin. It looks like Len is heading our way.
+Miku (VBS): Oh, Rin. It looks like Len is heading our way.
 Rin: What?! No way! Uh-oh, he looks mad. I've gotta go, buh-bye!
 (Exit: Rin)
 Kohane: Rin, wait!
@@ -115,5 +115,5 @@ Kohane: "Haha!" "Hehe."
 An: "Haha!" "Hehe."
 Akito: "Haha!" "Hehe."
 Toya: "Haha!" "Hehe."
-Miku: "Haha!" "Hehe."
+Miku (VBS): "Haha!" "Hehe."
 (Exit: Len)

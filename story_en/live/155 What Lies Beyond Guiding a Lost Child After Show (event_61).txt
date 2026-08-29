@@ -21,9 +21,9 @@ Len: Thanks, Mafuyu.
 (Enter: Kanade)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: Oh, Mafuyu! And Len, too! You guys were here of all places.
-Miku: So you were with Mafuyu, Len.
+Miku (N25): So you were with Mafuyu, Len.
 Mafuyu: Everyone... Why are you here?
 Kanade: You didn't come online, so we came looking for you.
 Ena: After all, it's already 25:00.
@@ -32,7 +32,7 @@ Mizuki: It's all good, though. The rough draft for our new song is done by the w
 Kanade: Yeah. And, I wanted you to write the lyrics, Mafuyu.
 Mafuyu: For a new song...
 Len: Wow... What kind of song is it...? I want to see what lyrics Mafuyu comes up with...
-Miku: You still haven't heard any of their songs yet, right, Len?
+Miku (N25): You still haven't heard any of their songs yet, right, Len?
 Len: That's right! I'm excited...
 Ena: I also want to get started on the illustration, so I'd appreciate the lyrics sooner than later.
 Ena: Actually, I often get my inspiration from your lyrics for some reason.
@@ -49,7 +49,7 @@ Mafuyu: To sing the song that was born here... One more time... Is that okay?
 Mizuki: Sure! That's fine by me!
 Kanade: If that's what you want to do Mafuyu, I'll sing with you too.
 Ena: Well... Why not?
-Miku: Let's sing, Mafuyu.
+Miku (N25): Let's sing, Mafuyu.
 Mafuyu: Thank you. Len, will you listen to our song?
 Len: Yeah! I'm excited to hear you all singing!
 Mafuyu: Okay, let's sing. Composing the Future.
@@ -63,11 +63,11 @@ Mafuyu: Okay, let's sing. Composing the Future.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Len)
 Mafuyu: Thank you, everyone.
 Mizuki: Anytime!
-Miku: I'm glad I could sing with you all.
+Miku (N25): I'm glad I could sing with you all.
 Len: You all sang so well!
 Mafuyu: Thank you...
 Ena: You said you wanted to sing, but did that do it for you?
@@ -88,7 +88,7 @@ Mafuyu: What's wrong...?
 (Exit: Kanade)
 Len: Um, if you ever feel like visiting SEKAI... Come any time!
 Len: Me, Miku, all of us will be here waiting. Right, Miku?
-Miku: Yes. We'll be here.
+Miku (N25): Yes. We'll be here.
 Mafuyu: ...
 Mafuyu: Okay, thank you. I'll be back.
 (Exit: Mafuyu)

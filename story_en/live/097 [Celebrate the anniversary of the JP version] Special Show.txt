@@ -70,15 +70,15 @@ Miku: Please come and meet our friends in SEKAI too, everyone!
 5 [mc] mc_2021anniversary_3
 
 (Enter: Ichika)
-(Enter: Miku)
-Miku: Oh, Ichika? Aren't you a little early for practice?
+(Enter: Miku-Ln)
+Miku (Ln): Oh, Ichika? Aren't you a little early for practice?
 Ichika: Well, yes I am, but... I actually have something I wanted to talk to you about. Do you have some time?
-Miku: Of course. So, what did you want to talk about?
+Miku (Ln): Of course. So, what did you want to talk about?
 Ichika: Actually, in my world, there's going to be a Virtual Singer Appreciation Festival happening soon.
 Ichika: Sometimes people call it Fan Festa, but...
 Ichika: It's an event where fans of you and the others come to express their gratitude and sing your songs with all their heart.
 Ichika: I don't know how to say this... But since I can talk with you face to face, I thought it would be better to tell you my feelings directly.
-Miku: Is that why you came so early?
+Miku (Ln): Is that why you came so early?
 Ichika: Yes. Oh...
 Ichika: Before I arrived, I thought about all of the things I wanted to tell you, but...
 Ichika: As soon as I saw your face, all of the things I wanted to tell you started to pile up and... Well...
@@ -95,10 +95,10 @@ Ichika: Oh, okay. Which song should we do?
 Saki: Let's do needLe!
 Ichika: Oh!
 Ichika: Miku, can what I was talking about earlier wait until after we play? I think after singing that song, I'll be able to gather the words!
-Miku: Hehe. Of course.
+Miku (Ln): Hehe. Of course.
 Ichika: Thank you!
 Luka: Did we interrupt your conversation?
-Miku: No, of course not. Even Ichika doesn't think so.
+Miku (Ln): No, of course not. Even Ichika doesn't think so.
 Luka: Really? In that case, I'm glad.
 Saki: Ichi. I know it was sudden, but thank you!
 Ichika: It's alright. Well then, let's-
@@ -106,7 +106,7 @@ Honami: Oh, look! SEKAI seemed to have gotten livelier!
 Shiho: You're right. What great timing.
 Saki: Thank you for always coming to hear us play, everyone!
 Saki: We hope you enjoy the song we have in store for you all!
-Miku: Alright, let's do this, Ichi!
+Miku (Ln): Alright, let's do this, Ichi!
 Ichika: Yes!
 Ichika: Let's go, everyone! needLe!
 
@@ -119,7 +119,7 @@ Ichika: Let's go, everyone! needLe!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Luka! I was finally able to do that thing you taught me!
 Luka: Yes, it was perfect! Your performance improves each time I hear you all play.
@@ -134,16 +134,16 @@ Ichika: Even when I couldn't muster the courage to talk to Honami or Shiho, they
 Ichika: And if it weren't for Miku and the others, the four of us would probably never decide to go pro.
 Ichika: That's why...
 Ichika: Thank you so much for bringing us here and for always being there for us.
-Miku: Ichika...
+Miku (Ln): Ichika...
 Ichika: Um... I think this is what I've always wanted to tell you. I'm glad I was able to find the words.
-Miku: That's good. Your feelings came through your words. Thank you.
+Miku (Ln): That's good. Your feelings came through your words. Thank you.
 Saki: Wait, hold on a second! It's not fair that you and Miku are the only ones having a moment!
 Saki: I also have lots and lots of gratitude towards Miku and Luka!
 Honami: Yes, me too!
 Shiho: Same here. You both really helped through a lot of tough times.
 Luka: It makes me so happy to hear you all say that.
 Luka: We would love to keep watching you grow from here onwards too.
-Miku: I feel the same. We're excited to see where you will all end up in the future!
+Miku (Ln): I feel the same. We're excited to see where you will all end up in the future!
 Ichika: Great!
 
 
@@ -153,7 +153,7 @@ Ichika: Great!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Rin: Hey everyone! Thanks for coming to our joint live performance with MORE MORE JUMP! featuring Miku!
 Rin: As the MC, I'll also be livening up the room, so let's all have a good time!
@@ -163,13 +163,13 @@ Shizuku: Here to bring you a burst of happiness. I'm Shizuku Hinomori from MORE 
 Airi: One special delivery of love coming right up! It's the lovely fairy, Airi! Airi Momoi from MORE MORE JUMP! at your service★
 Haruka: No matter how far, may this song of hope reach you! I'm Haruka Kiritani from MORE MORE JUMP!
 Minori: Don't give up on your dreams, Minorinrin♪ I want to be the kotatsu of the idol world! I'm Minori Hanasato from MORE MORE JUMP!
-Miku: Singing with all of your feelings and hearts! I'm Hatsune Miku, the sparkly idol♪
+Miku (MMJ): Singing with all of your feelings and hearts! I'm Hatsune Miku, the sparkly idol♪
 Rin: Hehe, with that it seems like everyone's here♪
 Airi: Yes! Thank you for coming to our performance, everyone!
-Miku: This was my first time using a catchphrase. Did it sound okay?
+Miku (MMJ): This was my first time using a catchphrase. Did it sound okay?
 Shizuku: Hehe. It seems like everyone liked it.
-Miku: I'm glad. I was actually quite nervous before...
-Miku: But I'm happy that everyone liked it! It was worth all the hard work and thought Haruka and the others put into it♪
+Miku (MMJ): I'm glad. I was actually quite nervous before...
+Miku (MMJ): But I'm happy that everyone liked it! It was worth all the hard work and thought Haruka and the others put into it♪
 Haruka: I've also never thought up one before, so having everyone help me think of one too was a big help.
 Airi: Well, putting the two of you aside... Minori ended up going with THAT.
 Minori: Huh? But I thought Minorinrin♪ had such a cute ring to it!
@@ -191,7 +191,7 @@ Minori: We were cheering for them, they cheered for us, and we cheered for them 
 Airi: That's right! Which is why we want to give you all the best performance we can to live up to the hope and support we have received from all of our fans!
 Haruka: Are you all ready?
 Rin: Everyone seems to be♪ I'll be right there with them cheering you all on♪
-Miku: Thank you, Rin!
+Miku (MMJ): Thank you, Rin!
 Minori: Then let's go! Newly Edgy Idols!
 
 
@@ -203,11 +203,11 @@ Minori: Then let's go! Newly Edgy Idols!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Rin)
 Shizuku: Did you all have fun, everyone?
 Rin: I had a lot of fun too! Songs where everyone can join in with cheers really are the best♪
-Miku: Agreed♪ It's like everyone becomes one unit, making the performance even more amazing.
+Miku (MMJ): Agreed♪ It's like everyone becomes one unit, making the performance even more amazing.
 Haruka: Well then, once again...
 Minori: Thank you so much for coming to watch our performance, everyone!
 Shizuku: Thanks to all of you we were able to put on this joint show and have a lot of fun doing it.
@@ -216,7 +216,7 @@ Airi: We're going to make the show and everything else we do even more fun, so k
 Minori: Alright, let's finish this off with THAT!
 Rin: Oh! That "MORE MORE"... Thing?!
 Minori: That's right, Rin!
-Miku: "More and more songs!"
+Miku (MMJ): "More and more songs!"
 Rin: "More and more songs!"
 Airi: "More and more energy!"
 Shizuku: "More and more energy!"
@@ -228,7 +228,7 @@ Minori: "JUMP!"
 Haruka: "JUMP!"
 Airi: "JUMP!"
 Shizuku: "JUMP!"
-Miku: "JUMP!"
+Miku (MMJ): "JUMP!"
 Rin: "JUMP!"
 
 
@@ -257,9 +257,9 @@ Toya: Let's sing together again sometime then.
 Rin: Yeah! See ya later!
 (Exit: Rin)
 (Exit: Len)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
-Miku: Oh, I see. What you're saying is that if you sing at that live house, then you get some prestige as a team?
+Miku (VBS): Oh, I see. What you're saying is that if you sing at that live house, then you get some prestige as a team?
 An: Yeah! The plan is to win with one shot and get to the level where we can battle more experienced teams!
 MEIKO: Hehe. So that's why you said you wanted to perform as though it was the real deal.
 Kohane: Yes!
@@ -267,13 +267,13 @@ Kohane: Oh, Shinonome, Aoyagi! Sorry for making you two wait! We were able to ge
 Akito: I can see. Thanks.
 Toya: Thank you for coming as well, Miku, MEIKO.
 MEIKO: It was no trouble. We're the ones who want to keep seeing you grow.
-Miku: Before we get into training, do you guys only want to perform just the four of you?
+Miku (VBS): Before we get into training, do you guys only want to perform just the four of you?
 An: Well, that's what we were planning... Why do you ask?
-Miku: I was just wondering if I could join too.
-Miku: However, I will be singing with everything I've got, though.
+Miku (VBS): I was just wondering if I could join too.
+Miku (VBS): However, I will be singing with everything I've got, though.
 Kohane: Huh? What do you mean...
 MEIKO: What she means is if you all let your guard down, then she's going to steal the show.
-Miku: With that to worry about, you know you won't be slacking off during practice, right? So, how about it?
+Miku (VBS): With that to worry about, you know you won't be slacking off during practice, right? So, how about it?
 Toya: That means... We'll need to work harder than we have ever before.
 Akito: Yeah. But this sounds like the exact kind of training we need.
 Kohane: I'm going to give it my all too!
@@ -281,7 +281,7 @@ Kohane: Thanks to you, An, I was able to believe in myself and sing with confide
 Kohane: I'm going to do my best so that I can be worthy to sing beside all of you and move forward!
 An: Kohane...
 An: Alright, let's sing!! Looking forward to working with you, Miku!
-Miku: That's what I like to hear. Also, look. We even have quite the audience gathering around.
+Miku (VBS): That's what I like to hear. Also, look. We even have quite the audience gathering around.
 An: You're right! Hey everyone!
 Kohane: We...! We were just about to sing, so we hope you enjoy this song!
 Akito: You guys ready?
@@ -297,41 +297,41 @@ Kohane: Then, let's do this! Ready Steady!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 Akito: Thanks for livening it up with us, you guys!
 Toya: Thanks to that, we were able to perform to the level of quality we need for the actual performance.
 MEIKO: That was amazing! You were all on fire and I could feel your resolve through the song.
-Miku: I agree. You were all able to sing in a way that was unique to you.
+Miku (VBS): I agree. You were all able to sing in a way that was unique to you.
 Kohane: Really?!
 An: Woohoo! Let's keep this energy up until the next event!
 Akito: Damn right. Let's keep our singing tight and move forward while we're ahead.
 Toya: Sounds good. The four of us will surpass RAD WEEKEND.
 Kohane: "Yeah!"
 An: "Yeah!"
-Miku: They've really become a great team.
+Miku (VBS): They've really become a great team.
 MEIKO: Yes, they really have. I'm excited where life will take them.
 
 
 14 [mc] mc_2021anniversary_9
 
 (Enter: Emu)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Tsukasa)
 (Enter: Nene)
 (Enter: Rui)
 (Enter: KAITO)
 Emu: Wow! There's so many people here today, too! Heya everybody♪
-Miku: Hehehe! Welcome♪
+Miku (WxS): Hehehe! Welcome♪
 KAITO: So, have you all decided what you will be doing for your next show?
 Nene: Yes. We're planning to do our next show at the Wonder Stage, so it'll probably be the same kind of adventure show we usually do.
-Miku: Adventure?! That sounds like so much fun! What kind of story is it?
+Miku (WxS): Adventure?! That sounds like so much fun! What kind of story is it?
 Tsukasa: Heh. Brace yourself, Miku. For I shall tell you all about our next show! Firstly, our concept is-
 Rui: We're going back to our roots. Since we've gotten more experience with performing in front of a large crowd, we thought we should go back to it.
 Tsukasa: Hey, Rui. That's exactly what I was going to say!
 Emu: Oh, and get this! There's going to be a wizard, a short-tempered monster, and a bunch of other interesting characters in it too!
 Tsukasa: Ah! Emu, even you...!
-Miku: Monsters on top of wizards?!
+Miku (WxS): Monsters on top of wizards?!
 Tsukasa: That's not all! Our next show will be something like "Wizard of-"
 Nene: It'll be something like "Wizard of Oz," where four quirky individuals band together to go on an adventure to remember what is important to them.
 Tsukasa: Nene?!
@@ -350,7 +350,7 @@ Tsukasa: That's why I think that song was born from our feelings and not just my
 Emu: Tsukasa...
 Nene: You really are capable of saying profound things every now and then...
 Tsukasa: What do you mean by "every now and then?"
-Miku: Hehehe☆
+Miku (WxS): Hehehe☆
 KAITO: I'm happy to hear that song has become an important song to you, Tsukasa.
 KAITO: Well, to all of you too. Emu, Nene, Rui.
 Rui: That is the truth. Right, Nene?
@@ -368,7 +368,7 @@ Tsukasa: Alright, let's get this show started! The World Hasn't Even Started Yet
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
 KAITO: That was an amazing performance!
 KAITO: How was it? Were you able to remember how you felt at that time?
@@ -379,26 +379,26 @@ Nene: Since we're going to get KAITO and the others in it, your story better be 
 Tsukasa: Leave it to me! I'll be sure to write an amazing story that is worthy of directing!
 Rui: Hehehe. That, I'm looking forward to.
 KAITO: I'll be looking forward to it, too.
-Miku: Me too, me too!
+Miku (WxS): Me too, me too!
 Tsukasa: Just you wait!
 
 
 17 [mc] mc_2021anniversary_11
 
 (Enter: Mafuyu)
-(Enter: Miku)
-Miku: This is Kanade's song, right? Does it soothe you?
+(Enter: Miku-N25)
+Miku (N25): This is Kanade's song, right? Does it soothe you?
 Mafuyu: Yes... I feel calmer when I'm listening to it.
 Mafuyu: The warmth that I felt at that time, it's still here.
 Mafuyu: It's a little bit of a relief that I can still feel that it's still here.
-Miku: Mafuyu...
+Miku (N25): Mafuyu...
 Mafuyu: ... Sing...
-Miku: Huh?
+Miku (N25): Huh?
 Mafuyu: I don't really know why, but... I want to sing. The song... That was born from my feelings...
-Miku: I want to sing that song, too.
-Miku: I know... I'll ask if everyone can come.
+Miku (N25): I want to sing that song, too.
+Miku (N25): I know... I'll ask if everyone can come.
 Mafuyu: Oh... Miku...
-(Exit: Miku)
+(Exit: Miku-N25)
 (Enter: Kanade)
 Kanade: Mafuyu.
 Mafuyu: Oh, Kanade...
@@ -409,15 +409,15 @@ Mizuki: Oh, there you are♪ This is so rare! It's not often you ask us to come 
 Mafuyu: The both of you came, too?
 Ena: Well, yeah. Miku went through all the trouble to tell us that you wanted to sing, so that's why I'm here.
 Ena: Besides, I was feeling a little sleepy after dinner, so I thought this would help me wake up a bit.
-(Enter: Miku)
-Miku: Mafuyu... Everyone came.
+(Enter: Miku-N25)
+Miku (N25): Mafuyu... Everyone came.
 Mafuyu: Yes...
 Ena: So, what made you suddenly say that you wanted to sing?
 Mafuyu: I was just listening to Kanade's song before... And it made me feel warm.
 Mafuyu: That's why I was thinking if I sang the song that was born from my feelings now, I might be able to feel something, too.
 Mafuyu: I was fine to sing on my own, but...
-Miku: The reason why you were able to find these feelings was because everyone was there with you.
-Miku: That's why I wanted them to come.
+Miku (N25): The reason why you were able to find these feelings was because everyone was there with you.
+Miku (N25): That's why I wanted them to come.
 Mizuki: Oh, I see. So, that's why...
 Kanade: If that's the case, then we'll sing with you.
 Ena: Yeah. Besides, I've never seen Mafuyu so enthusiastic about wanting to sing either.
@@ -434,8 +434,8 @@ Kanade: Then, let's do it. Composing the Future.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
-Miku: Oh... Looks like everyone was listening to us.
+(Enter: Miku-N25)
+Miku (N25): Oh... Looks like everyone was listening to us.
 Mizuki: You're right! Thanks for coming today, everyone♪
 Ena: It usually feels lonely here, but it's strangely lively when we sing.
 Kanade: So... Did you manage to feel anything, Mafuyu?
@@ -453,15 +453,15 @@ Ena: Yeah, me too!
 (Exit: Mizuki)
 Mafuyu: Miku.
 Mafuyu: Thank you for calling everyone here, and for singing with me.
-Miku: It's okay. If you're happy then so am I.
+Miku (N25): It's okay. If you're happy then so am I.
 Kanade: We'll see you later, Miku.
-Miku: Okay.
+Miku (N25): Okay.
 (Exit: Kanade)
 (Exit: Mafuyu)
-Miku: Oh... Fragments of feelings from a lot of other SEKAI are gathering...
-Miku: Much like Kanade and the others, there's feelings of warmth and excitement...
-Miku: A new song... Might be born from this.
-Miku: Good luck, Kanade.
+Miku (N25): Oh... Fragments of feelings from a lot of other SEKAI are gathering...
+Miku (N25): Much like Kanade and the others, there's feelings of warmth and excitement...
+Miku (N25): A new song... Might be born from this.
+Miku (N25): Good luck, Kanade.
 
 
 20 [mc] mc_2021anniversary_13

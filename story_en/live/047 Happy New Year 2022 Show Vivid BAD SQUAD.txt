@@ -46,10 +46,10 @@ Rin: I'm happy with our performance. It's your turn next!
 Kohane: Okay! Thank you, Rin and Len!
 (Exit: Rin)
 (Exit: Len)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 MEIKO: Hey everyone! Rin and Len were just telling us about how you've whipped the crowds into a frenzy.
-Miku: I'm raring to sing too.
+Miku (VBS): I'm raring to sing too.
 An: That's the way! Kohane, you ready?
 Akito: Don't lose focus just 'cause you didn't get to rest.
 Kohane: I won't! I'll sing with my head held high!
@@ -63,14 +63,14 @@ Kohane: I won't! I'll sing with my head held high!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 Kohane: Th-Thank you for your support!
 MEIKO: That was great, everyone! What a powerful and exciting performance to kick off the new year with!
-Miku: Maintain this form and you'll ace all the events you take part in.
+Miku (VBS): Maintain this form and you'll ace all the events you take part in.
 Toya: Indeed. We should definitely try to build a good track record for ourselves as Vivid BAD SQUAD.
 Akito: Yeah. There's no way we can surpass RAD WEEKEND otherwise.
-Miku: I just know you'll succeed in making your dream come true.
+Miku (VBS): I just know you'll succeed in making your dream come true.
 An: For sure! Just watch us!
 An: Everyone out there! Thanks for coming to watch Vivid BAD SQUAD's very first show of the year!
 Kohane: We'll keep striving to achieve our dream as a team, and as long as we have your support, we'll succeed!

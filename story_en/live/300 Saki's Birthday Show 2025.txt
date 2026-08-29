@@ -6,11 +6,11 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: MEIKO)
 Saki: That was sooo much fun!
 Saki: Thank you very much for the birthday celebration, Miku, MEIKO!
-Miku: Hehe. You're welcome.
+Miku (Ln): Hehe. You're welcome.
 MEIKO: Rin and the others were happy that you liked it too. They were saying how glad they were that they worked hard preparing.
 Ichika: I didn't even notice that you were planning all of that.
 Honami: It was quite surprising to see the classroom turned into a party venue.
@@ -21,17 +21,17 @@ Saki: We would like to perform for you in return for the party!
 Ichika: Yes. It doesn't sit right for us to be the only ones having fun.
 Shiho: As part of the occasion, we want you to enjoy yourselves as well.
 Honami: We'd like for you to see our mini-concert.
-Miku: As the birthday girl, you don't need to give anything back to us, Saki.
-Miku: But... I'll take you up on your offer. I mean, everyone here would love it.
+Miku (Ln): As the birthday girl, you don't need to give anything back to us, Saki.
+Miku (Ln): But... I'll take you up on your offer. I mean, everyone here would love it.
 Saki: Everyone...?
 MEIKO: Yeah. Look.
 Saki: Whoa! Amazing! There's so many people here!
-Miku: They're all here to celebrate your birthday, Saki.
+Miku (Ln): They're all here to celebrate your birthday, Saki.
 Saki: Wait, really?! Thank you!
 Saki: Then this show's also for you guys! Oh, but I want Rin and the others to see it too...
-Miku: Why don't you perform for everyone here first? In the meantime, I'll go get Rin and the others.
+Miku (Ln): Why don't you perform for everyone here first? In the meantime, I'll go get Rin and the others.
 Saki: Oh! Thanks, Miku!
-(Exit: Miku)
+(Exit: Miku-Ln)
 MEIKO: In that case, I'd like to join you girls.
 Saki: Really? Would that be okay?
 MEIKO: Of course. I would also like to personally thank everyone here for always supporting you girls.

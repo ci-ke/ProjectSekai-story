@@ -27,11 +27,11 @@ Honami: Saki...
 Shiho: Well, sounds like we made the right call after all.
 Saki: Huh?
 Ichika: You see, Saki, we also—
-Miku: You think Saki and the others will be here soon?
+Miku (Ln): You think Saki and the others will be here soon?
 Len: Probably. Oh, and we're not supposed to say anything about the cake, right?
-Miku: Right. Ichika said it's a surprise...
-(Enter: Miku)
-Miku: Oh.
+Miku (Ln): Right. Ichika said it's a surprise...
+(Enter: Miku-Ln)
+Miku (Ln): Oh.
 (Enter: Len)
 Len: Huh? Ah!
 Saki: Wait, a cake?!
@@ -42,13 +42,13 @@ Shiho: Look, it's your party. We couldn't just show up empty-handed.
 Len: Sorry, everyone! We didn't know you were here...
 Ichika: It's okay. We were actually just about to tell her about the cake ourselves.
 Len: Oh, that's a relief.
-Miku: But you're a bit ahead of schedule. I thought you had plans with your friends for today.
+Miku (Ln): But you're a bit ahead of schedule. I thought you had plans with your friends for today.
 Saki: Hehehe. We did, and it was lots of fun, but we were looking forward to partying with you all, too!
 Saki: Plus, we had to get ready for our show!
 Len: Show?
 Saki: Yeah! It's our present to you... And to everyone else who's supported us all this time!
 Honami: Well, seeing as how everyone's already here... Why don't we give them their present now?
-Miku: Sounds good. Mind if I join in?
+Miku (Ln): Sounds good. Mind if I join in?
 Len: In that case, I'll go get Rin and the others. They seemed pretty excited for you to arrive.
 Saki: Thanks!
 (Exit: Len)
@@ -60,7 +60,7 @@ Saki: Here we go. Time Machine!
 
 3 [mc_timeline] mc_bd_2025saki_2
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
 (Enter: Shiho)
@@ -69,7 +69,7 @@ Saki: Thanks for listening, everyone! Did you all have fun?
 Saki: Hehehe. Good to hear!
 Ichika: Now, let's all give Saki a big cheer. One, two, three!
 Ichika: Happy birthday, Saki!
-Miku: Happy birthday, Saki!
+Miku (Ln): Happy birthday, Saki!
 Shiho: Happy birthday, Saki!
 Honami: Happy birthday, Saki!
 Saki: Wow, thank you!

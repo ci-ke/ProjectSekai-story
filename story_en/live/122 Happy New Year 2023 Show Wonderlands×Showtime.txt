@@ -2,13 +2,13 @@
 
 1 [mc] mc_2022newyear_04_1
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Rin)
 (Enter: Len)
 (Enter: Luka)
 (Enter: MEIKO)
 (Enter: KAITO)
-Miku: Hey, everyone! Happy New Year♪
+Miku (WxS): Hey, everyone! Happy New Year♪
 Rin: "Happy New Year!"
 Len: "Happy New Year!"
 MEIKO: "Happy New Year!"
@@ -21,14 +21,14 @@ Rin: Hehe. You might be right! Especiall considering how fun the shows Tsukasa a
 Len: Yes! I'm very excited for today's show too.
 Len: Good luck, Miku, KAITO!
 Rin: We'll be watching from over there!
-Miku: Okay♪ Let's have lots and lots of fun together!
+Miku (WxS): Okay♪ Let's have lots and lots of fun together!
 (Exit: Rin)
 (Exit: Len)
 (Exit: MEIKO)
 (Exit: Luka)
 KAITO: Now then...
 (Enter: Tsukasa)
-Miku: Oh, looks like we're all set☆
+Miku (WxS): Oh, looks like we're all set☆
 KAITO: Indeed. Let's get this show on the road!
 
 
@@ -40,7 +40,7 @@ KAITO: Indeed. Let's get this show on the road!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
 Tsukasa: Happy New Year, everyone!
 Emu: "Happy New Year!"
@@ -52,8 +52,8 @@ Emu: Yeah!
 Emu: Hey everyone! We're gonna keep this energy up, and give you all lots and lots of New Year wonderhoy!
 Nene: What's "New Year wonderhoy"...?
 Emu: Huh? You don't know? New Year wonderhoy's New Year wonderhoy.
-Miku: Yeah☆ A new and improved wondershoy!
-Miku: Oops☆ I mixed wonderhoy and shows together♪
+Miku (WxS): Yeah☆ A new and improved wondershoy!
+Miku (WxS): Oops☆ I mixed wonderhoy and shows together♪
 Tsukasa: Ahem! Anyway, we, Wonderlands×Showtime...
 Tsukasa: Will continue to perform a wide variety of shows as ambassadors of Phoenix Wonderland this year as well!
 Tsukasa: We hope that you'll all be looking forward to them!
@@ -85,9 +85,9 @@ Rui: Without further ado, we, Wonderlands×Showtime, as well as Miku, will now b
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
-Miku: How was that, everyone? Did you all have fun?
+Miku (WxS): How was that, everyone? Did you all have fun?
 Emu: Yay! Everyone looks like they're full of New Year wonderhoy☆
 KAITO: Everyone watching from over there also seemed to really enjoy it when all the plushies came charging in.
 KAITO: Also, Luka was asleep the whole time, but she seemed to have fun bopping to the beat.
@@ -101,6 +101,6 @@ Nene: Hehe. Yeah, same here.
 Nene: Also... Thank you all for coming to see us today.
 Emu: Don't forget to come and watch lots and lots of our shows this year too♪ We'll be waiting!
 KAITO: It's farewell for now, but let's meet again during our next show!
-Miku: We'll always be here in SEKAI waiting for you♪
+Miku (WxS): We'll always be here in SEKAI waiting for you♪
 Tsukasa: See you next time!
 Emu: Bye bye☆

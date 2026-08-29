@@ -6,13 +6,13 @@
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Len)
 Shizuku: Hello, everyone! Thank you for coming to celebrate Airi's birthday with us♪
 Airi: Shizuku, wait! At least say it's a "birthday show" or something! Don't make it sound like they're visiting a friend's house!
 Shizuku: Oh, you're right! I couldn't help it. I'm just so happy that we get to throw a birthday party for you like this!
 Haruka: Hehe. It could be fun to present it as more of a cozy house party.
-Miku: I agree♪ Shizuku, mind starting again from the top?
+Miku (MMJ): I agree♪ Shizuku, mind starting again from the top?
 Shizuku: Hello, everyone! Thank you for coming to Airi's birthday show!
 Airi: Whoa. They're responding like it's our first take even though this is sort of a redo.
 Minori: I think it just means they're all excited about celebrating your birthday, Airi!
@@ -32,7 +32,7 @@ Haruka: "I can tell that the rules for each segment are very well thought out, e
 Haruka: "I'm looking forward to more fun segments in the future. And last but not least, I wish you a very happy birthday."
 Airi: Wow... This person's letter was so polite. I got goosebumps just reading it.
 Airi: Hang on... Did I ever mention that I came up with our little outfit competition...?
-Miku: Alright, Shizuku will be reading the next letter...
+Miku (MMJ): Alright, Shizuku will be reading the next letter...
 Shizuku: But first, we'll be bringing you our special show!
 Shizuku: Are you ready, Airi?
 Airi: Yes, of course! Ready, everyone?!
@@ -47,22 +47,22 @@ Airi: Start the music!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Len)
 Airi: Thanks for listening, everyone!
 Airi: And thank you for singing with us, Len!
 Len: Hehe. I'm glad I was able to add a little spice to your special day, Airi.
-Miku: Anyway, let's continue with the next fan letter♪
+Miku (MMJ): Anyway, let's continue with the next fan letter♪
 Shizuku: Yes, let's. The next one is from H.S., who attends a high school in Shibuya.
 Airi: Hm? Another one from a high school in Shibuya?
 Shizuku: "Happy birthday, Airi!"
 Shizuku: "I couldn't be happier to celebrate your birthday alongside all of your fans who watch our streams, as well as the fans who came to hear you sing!"
 Shizuku: "I hope your special day turns out to be a wonderful and fun-filled one!"
 Airi: As well as the fans who came to hear me sing...?
-Miku: Next, we have a letter from H.M., who lives in SEKAI!
+Miku (MMJ): Next, we have a letter from H.M., who lives in SEKAI!
 Airi: Wait, SEKAI?! Hold on, H.M. has to be...
-Miku: Hehe. "Dear Airi, Thank you for being the bright and cheerful person we can always rely on♪"
-Miku: "But if anything's ever bothering you, you're always welcome to come over to SEKAI and ask us for help!"
+Miku (MMJ): Hehe. "Dear Airi, Thank you for being the bright and cheerful person we can always rely on♪"
+Miku (MMJ): "But if anything's ever bothering you, you're always welcome to come over to SEKAI and ask us for help!"
 Len: And to wrap things up, me! This letter is from... Well, I think you've already figured out what's going on, Airi!
 Airi: Yes, I have. It's from K.L., who lives in SEKAI, right?
 Len: Yup!
@@ -73,7 +73,7 @@ Len: "We hope that our letters put a smile on your face, Airi! And most importan
 Minori: "Happy birthday!"
 Haruka: "Happy birthday!"
 Shizuku: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (MMJ): "Happy birthday!"
 Airi: You guys...
 Airi: Hehe. Thank you all so much! That was a wonderful surprise! It was so much fun that I really don't know what else to say!
 Shizuku: I'm glad you liked it. Everyone else seems to have enjoyed it as well.
@@ -86,4 +86,4 @@ Shizuku: "Hehe." "Haha."
 Airi: Thank you so much for coming to celebrate my birthday with me, everyone!
 Airi: I promise to do my best to give back next time for all these wonderful memories and surprises!
 Airi: Hehe. Get ready for something spectacular, alright?
-Miku: See you later!
+Miku (MMJ): See you later!

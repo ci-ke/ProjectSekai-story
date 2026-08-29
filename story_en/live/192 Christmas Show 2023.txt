@@ -6,11 +6,11 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Ichika: Thanks for coming to see us in SEKAI again, everyone!
 Saki: Hey, hey! You all know what day it is, right?
 Saki: That's right! It's finally Christmas!
-Miku: We're going to put on a special performance, as a gift from us to you.
+Miku (Ln): We're going to put on a special performance, as a gift from us to you.
 Shiho: We'll heat this show up so much you'll forget about the cold, so everybody enjoy yourselves.
 Honami: Hehe. Well then, shall we start?
 Ichika: Right.
@@ -19,7 +19,7 @@ Ichika: "needLe!"
 Saki: "needLe!"
 Honami: "needLe!"
 Shiho: "needLe!"
-Miku: "needLe!"
+Miku (Ln): "needLe!"
 
 
 2 [MUSIC] 63: needLe
@@ -30,11 +30,11 @@ Miku: "needLe!"
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Ichika: Thanks for listening, everyone!
-Miku: Looks like everyone enjoyed it.
+Miku (Ln): Looks like everyone enjoyed it.
 Saki: I'm so glad! Since everybody had a good time, do you think my "nice" meter is maxed out now?
-Miku: Huh? Your "nice" meter?
+Miku (Ln): Huh? Your "nice" meter?
 Saki: Hehe. I mean, Santa won't bring you any presents if you're not nice, you know!
 Honami: You don't have to worry about that, Saki. You're always very nice, so I'm sure Santa will visit you.
 Saki: H-Hona...! He'll definitely visit you, too!
@@ -45,7 +45,7 @@ Ichika: "Merry Christmas!"
 Saki: "Merry Christmas!"
 Honami: "Merry Christmas!"
 Shiho: "Merry Christmas!"
-Miku: "Merry Christmas!"
+Miku (Ln): "Merry Christmas!"
 
 
 4 [mc] mc_2022christmas_3

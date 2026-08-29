@@ -20,7 +20,7 @@ Kohane: I promise to do my best! So I'd love it if you could all be there to wat
 An: There you are, Kohane!
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Len)
 An: You're here so early! What's the occasion?
 Kohane: Oh, um... I actually got the meeting time wrong...
@@ -35,7 +35,7 @@ Kohane: "Yeah!" "Yup." "Agreed."
 An: "Yeah!" "Yup." "Agreed."
 Akito: "Yeah!" "Yup." "Agreed."
 Toya: "Yeah!" "Yup." "Agreed."
-Miku: That reminds me... I heard that your singing's improved again, Kohane.
+Miku (VBS): That reminds me... I heard that your singing's improved again, Kohane.
 Kohane: Huh? My singing...?
 Toya: I believe you have your "imagining the view" training to thank for that.
 Kohane: Oh, you might be right...!
@@ -48,10 +48,10 @@ Akito: Other reasons...?
 Len: Regardless, I'm glad you guys stumbled across it!
 Len: Thanks to your discovery, we know what RAD WEEKEND was actually like now!
 Kohane: Hehe. That's true too.
-Miku: Um, Kohane... Would it be alright if I heard you guys sing?
+Miku (VBS): Um, Kohane... Would it be alright if I heard you guys sing?
 Kohane: Huh?
-Miku: I want to hear what you all sound like now that you have an clear image of what RAD WEEKEND was like.
-Miku: I'm sure what you're thinking and feeling right now will really shine through if you sing.
+Miku (VBS): I want to hear what you all sound like now that you have an clear image of what RAD WEEKEND was like.
+Miku (VBS): I'm sure what you're thinking and feeling right now will really shine through if you sing.
 Kohane: Oh...!
 Kohane: Yeah, okay! I'll try singing with my current thoughts and feelings in mind!
 Len: Oh, me too! Mind if I join you guys?
@@ -71,11 +71,11 @@ Kohane: Flyer!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Len)
 Kohane: Everyone! This is what we're feeling right now!
 Len: Yay!!! They all sound really hyped!
-Miku: Hehe. I think they heard you loud and clear, Kohane.
+Miku (VBS): Hehe. I think they heard you loud and clear, Kohane.
 Akito: Looks like we were all on the same wavelength today.
 Toya: I agree. It's similar to that time we all sang together when we went camping.
 An: Looks like we took another step forward as a team, huh?
@@ -86,6 +86,6 @@ Len: Oh, I wanna sing too! Let's all practice together!
 Akito: You sure, Len? Don't push yourself too hard, alright?
 Toya: Make sure to stay hydrated as well.
 Len: I got this! A little bit of practice isn't going to tire me out so easily!
-Miku: Hehe. Alright, let's get started.
+Miku (VBS): Hehe. Alright, let's get started.
 Kohane: Let's all do our best today, everyone!
 Len: Yeah!!

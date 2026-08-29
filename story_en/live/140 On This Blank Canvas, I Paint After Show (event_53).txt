@@ -6,7 +6,7 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 Ena: Rin! Are you there?
 Ena: What the...? Huh? Was there a place like this in SEKAI?
@@ -14,8 +14,8 @@ Kanade: I've never seen this before either.
 Rin: Ena... Oh, you're all here. Is something wrong?
 Ena: Hi, Rin! Hi, Miku...! I just finished my rough draft and came here to take a break, but something feels off.
 Mafuyu: Miku, what is this place...?
-Miku: We only recently found this place too.
-Miku: Oh, what if this place is open now because you've experienced a lot of different things with Kanade and the others, Mafuyu...?
+Miku (N25): We only recently found this place too.
+Miku (N25): Oh, what if this place is open now because you've experienced a lot of different things with Kanade and the others, Mafuyu...?
 Mafuyu: I see...
 Rin: More importantly, is it true that your rough draft is done?
 Ena: Yeah, of course! A lot of things happened and made everyone wait forever, but it's finally finished...
@@ -34,13 +34,13 @@ Rin: I didn't really do anything... I wasn't even worried.
 Rin: But...
 Rin: I'm curious to hear how you'd sound if you sang right now.
 Ena: What?
-Miku: I'd like to hear as well. I'm sure you're feeling something very different now compared to before.
+Miku (N25): I'd like to hear as well. I'm sure you're feeling something very different now compared to before.
 Ena: You think so...?
 Ena: In that case, why don't we all sing together? That of course includes you too, Rin.
 Rin: What? Why me?
 Ena: I want to sing with you. That's okay, right?
 Rin: Alright, fine...
-Miku: Hehe. Okay, I sit back and listen.
+Miku (N25): Hehe. Okay, I sit back and listen.
 Ena: Okay. Thanks, Miku.
 Ena: I'd really like it if you could all stay and listen, everyone.
 Ena: Here we go... Nomad.
@@ -55,9 +55,9 @@ Ena: Here we go... Nomad.
 (Enter: Ena)
 (Enter: Mizuki)
 (Enter: Rin)
-(Enter: Miku)
+(Enter: Miku-N25)
 Ena: *Sigh* I think I feel a little better now.
-Miku: That was incredible, everyone. Also... I think I felt exactly what you did, Ena.
+Miku (N25): That was incredible, everyone. Also... I think I felt exactly what you did, Ena.
 Ena: R-Really?
 Ena: Still, I'm glad we sang... What I felt just now... It's like it's been etched inside my chest.
 Ena: Um, everyone...
@@ -76,17 +76,17 @@ Mizuki: Haha! That's what we're trying to say, Ena!
 Mizuki: We all like your art.
 Ena: Thanks...
 Rin: Um, can you show me the video when it's done? I want to see what kind of illustration Ena drew for it.
-Miku: I'd like to see it as well.
+Miku (N25): I'd like to see it as well.
 Mizuki: Okey-dokey! I'll just hit the turbo button so that you two get to see it ASAP!
 Kanade: Anyway, shall we head back? We'll visit again when the video's all finished.
-Miku: Thank you, Kanade.
+Miku (N25): Thank you, Kanade.
 Ena: See you later! Bye bye!
 (Exit: Kanade)
 (Exit: Mafuyu)
 (Exit: Ena)
 (Exit: Mizuki)
-Miku: I hope their video turns out well, Rin.
+Miku (N25): I hope their video turns out well, Rin.
 Rin: Yeah...
 Rin: Um, Miku. There's nothing to do in this SEKAI and just waiting around sometimes makes me anxious...
 Rin: But if it means seeing them smile... I guess it's not all that bad...
-Miku: I feel the same way...
+Miku (N25): I feel the same way...

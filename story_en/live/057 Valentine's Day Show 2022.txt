@@ -11,11 +11,11 @@ Rin: That reminds me. How are the other people in SEKAI spending their Valentine
 
 2 [mc] mc_2021valentine_2
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Emu)
 (Enter: Nene)
 (Enter: MEIKO)
-Miku: Hehehe. Everyone's here☆
+Miku (WxS): Hehehe. Everyone's here☆
 Emu: Yup♪ Let's prepare for the Valentine's Day surprise!
 MEIKO: Let's do that♪
 Nene: Hey, I never said I was going to—
@@ -26,7 +26,7 @@ Emu: K-KAITO?! Uh-oh, wh-wh-wh-what do we do, what do we do?!
 MEIKO: Hi, KAITO! You showed up at just the right time♪ I need a favor from you.
 MEIKO: So... Let's head juuuuuust a bit over there together for a while♪
 KAITO: Huh? Ah... W-Wait, MEIKO?!
-Miku: Phew! Thanks to MEIKO, our surprise remains a surprise.
+Miku (WxS): Phew! Thanks to MEIKO, our surprise remains a surprise.
 Emu: Yups☆ Hehehe, I can't wait to give out the candy!
 (Exit: MEIKO)
 (Exit: KAITO)
@@ -35,12 +35,12 @@ Emu: Also Miku, KAITO, Rin, Len, and MEIKO!
 Nene: That's a lot of people. Wait, you have candy for Nenerobo too?
 Nene: I mean, I do understand the feeling of wanting to show some gratitude to it...
 Nene: But robots wouldn't understand something like that.
-Miku: No way! I'm sure Nenerobo can definitely understand your feelings, Nene!
+Miku (WxS): No way! I'm sure Nenerobo can definitely understand your feelings, Nene!
 Nene: Um, but—
-Miku: Don't worry! You'll know what I meant once we sing this song together♪
+Miku (WxS): Don't worry! You'll know what I meant once we sing this song together♪
 Emu: All right! Let's sing together♪
 Nene: Sigh... It's not like I can say no, right?
-Miku: "Start the music♪"
+Miku (WxS): "Start the music♪"
 Emu: "Start the music♪"
 
 
@@ -48,10 +48,10 @@ Emu: "Start the music♪"
 
 4 [mc] mc_2021valentine_3
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Emu)
 (Enter: Nene)
-Miku: Hehehe☆ Now do you get it, Nene?
+Miku (WxS): Hehehe☆ Now do you get it, Nene?
 Nene: Well, I know what you were trying to say at least, somewhat.
 Nene: I hope our feelings got through to Nenerobo too.
 Emu: Trust me, they absolutely did! So anyway, back to preparing for the surprise☆

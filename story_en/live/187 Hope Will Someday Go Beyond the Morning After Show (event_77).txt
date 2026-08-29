@@ -3,7 +3,7 @@
 1 [mc] mc_ev_night_11_1
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Len)
 (Enter: Kanade)
 (Enter: Ena)
@@ -15,9 +15,9 @@ Ena: My drawing?
 Len: Um, you know... The drawing you did of Mafuyu...
 Mizuki: Ooh, that one! You already showed it to us, but it's a really nice portrait!
 Kanade: Yeah. It was heartwarming.
-Miku: It made me...happy.
+Miku (N25): It made me...happy.
 Mafuyu: Happy?
-Miku: Yes. It made me happy to see you doing your best.
+Miku (N25): Yes. It made me happy to see you doing your best.
 Mafuyu: I see...
 Ena: I was really surprised too. I never would've thought you could make an expression like that.
 Ena: But, I'm glad I got to see it. Thanks to that I was able to make a good piece for my assignment.
@@ -28,7 +28,7 @@ Ena: Huh? Oh, um... W-Well, it's kind of hard to explain...
 Len: Oh, okay... But, do you...have it right now?
 Kanade: Even just a photo of it is fine. I'd like to see it.
 Ena: Oh, um, actually, I don't think I do... Just didn't have the time to take one, you know... Haha...
-Miku: I see...
+Miku (N25): I see...
 Ena: B-But the point is, Mafuyu also helped me out!
 Mafuyu: I...helped you?
 Mafuyu: In that case, I'm glad...
@@ -50,7 +50,7 @@ Ena: We would love it if you could all listen, everyone. Here we go. Composing t
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Len)
 Ena: How are you feeling, Mafuyu?
 Mafuyu: How am I feeling...
@@ -69,23 +69,23 @@ Mafuyu: But, I want to thank you as well.
 Ena: What?
 Mafuyu: The picture you drew of me... I looked at it a few times at home.
 Mafuyu: And...I looked in the mirror too... I wanted to see if I really did make an expression like that.
-Miku: Mafuyu...
+Miku (N25): Mafuyu...
 Mafuyu: But, the fact that someone knows a side of me that even I'm not aware of... Might be a clue to finding my true self. So, thank you.
 Ena: Hehe. You're welcome.
 Mizuki: Well, to make sure Mafuyu gets to know herself more, I guess all of us need to tell her what we know!
 Kanade: I think so.
 Ena: Alright, I guess we better get back to work. We probably won't be able to stay up until the morning this time.
 Mafuyu: Okay... See you later, Miku, Len.
-Miku: Bye bye, everyone.
+Miku (N25): Bye bye, everyone.
 Len: See you later...
 (Exit: Ena)
 (Exit: Mizuki)
 (Exit: Kanade)
 (Exit: Mafuyu)
-Miku: Thank you for watching over them, Len.
+Miku (N25): Thank you for watching over them, Len.
 Len: N-No, I... I just went to see them. I didn't do anything.
-Miku: I don't think so. Sometimes just being there can be helpful.
-Miku: So, thank you.
+Miku (N25): I don't think so. Sometimes just being there can be helpful.
+Miku (N25): So, thank you.
 Len: Miku...
-Miku: Let's all keep watching over them together.
+Miku (N25): Let's all keep watching over them together.
 Len: Okay!

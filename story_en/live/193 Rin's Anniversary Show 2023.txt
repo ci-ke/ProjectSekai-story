@@ -2,17 +2,17 @@
 
 1 [mc] mc_bd_2022rin_1
 
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Mafuyu)
 (Enter: Kanade)
 (Enter: Rin)
 (Enter: Ena)
 (Enter: Mizuki)
-Miku: Oh...everyone's here.
+Miku (N25): Oh...everyone's here.
 Mizuki: Oooh, you're right! Alright, shall we get celebrating?
 Ena: Sounds good. Okay, let's go on a count of three.
 Ena: You join in too, everyone. One, two, three...!
-Miku: "Happy anniversary, Rin!"
+Miku (N25): "Happy anniversary, Rin!"
 Kanade: "Happy anniversary, Rin!"
 Mafuyu: "Happy anniversary, Rin!"
 Ena: "Happy anniversary, Rin!"
@@ -25,7 +25,7 @@ Mizuki: In that case, let's continue celebrating Rin while we wait! Is there any
 Rin: Not really... Let me think about it.
 Rin: Why are you guys not saying anything?
 Ena: That's because you said you were going to think about it.
-Miku: Did you think of something?
+Miku (N25): Did you think of something?
 Rin: Hmm... Okay, a song.
 Mafuyu: Do you mean you want to sing?
 Rin: Yeah.
@@ -33,20 +33,20 @@ Ena: Why not? Singing is usually a key part of celebrating.
 Kanade: You're right. How about we all sing together?
 Rin: Please listen to our song, everyone.
 Rin: Nomad.
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 2 [MUSIC] 189: Nomad
 
 3 [mc] mc_bd_2022rin_2
 
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
 (Enter: Rin)
-Miku: How was it, Rin?
+Miku (N25): How was it, Rin?
 Rin: I thought I just sang how I usually do, but for some reason, my chest feels a little warm.
 Mizuki: Could it be because our thoughts and feelings of celebration came through?
 Kanade: I'd be glad if it did.
@@ -55,7 +55,7 @@ Rin: I guess... As long as you're not too loud.
 Ena: Alright, alright. Dishonest as usual, I see.
 Mafuyu: Should you really be the one saying that?
 Ena: Huh?! What's that supposed to mean?!
-Miku: "Hehe." "Haha!"
+Miku (N25): "Hehe." "Haha!"
 Kanade: "Hehe." "Haha!"
 Mizuki: "Hehe." "Haha!"
 

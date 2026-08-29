@@ -5,7 +5,7 @@
 (Enter: Ichika)
 (Enter: Saki)
 (Enter: Honami)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Ichika: Thank you for gathering today, everyone.
 Saki: We'll now be holding a mini-concert to celebrate Shiho's birthday!
@@ -14,18 +14,18 @@ Luka: I believe it's about time our birthday girl takes the stage, no?
 Saki: Yeah!
 Saki: Alright, everyone, let's call her up! Ready?!
 Ichika: "Shiho!"
-Miku: "Shiho!"
+Miku (Ln): "Shiho!"
 Luka: "Shiho!"
 Saki: "Shiho!"
 Honami: "Shiho!"
 (Enter: Shiho)
-Miku: Shiho, what are you doing over there? Come stand in the middle.
+Miku (Ln): Shiho, what are you doing over there? Come stand in the middle.
 Shiho: Fine...
 Ichika: Alright, let's all wish Shiho a happy birthday. One, two...!
 Ichika: "Happy birthday, Shiho!"
 Saki: "Happy birthday, Shiho!"
 Honami: "Happy birthday, Shiho!"
-Miku: "Happy birthday, Shiho!"
+Miku (Ln): "Happy birthday, Shiho!"
 Luka: "Happy birthday, Shiho!"
 Shiho: Thanks.
 Shiho: And thank you all for gathering here today.
@@ -46,13 +46,13 @@ Shiho: Alright, let's do this...!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Shiho: Thanks for listening, everyone.
 Luka: That was a wonderful performance. Looks like all those training sessions are really paying off, girls.
 Shiho: Huh? What training sessions?
 Honami: Hehe. The thing is, we asked Luka and the others to help us prepare for today's mini-concert.
-Miku: They wanted to make sure that they'd be able to give you the best performance possible and make today absolutely perfect.
+Miku (Ln): They wanted to make sure that they'd be able to give you the best performance possible and make today absolutely perfect.
 Shiho: I see...
 Saki: What did you think? Did you have fun?
 Shiho: Yeah, of course.
@@ -64,7 +64,7 @@ Shiho: To be completely honest, some things caught my attention, but we can talk
 Ichika: Oh... I guess it wasn't all perfect, huh?
 Saki: What?! But today's your birthday! Happy! Cake! Party! Isn't that what your special day's supposed to be all about?!
 Shiho: That's different. I mean, "Happy! Cake! Party!"...?
-Miku: Oh, that was the song Saki was singing while you were out of earshot.
+Miku (Ln): Oh, that was the song Saki was singing while you were out of earshot.
 Luka: Yes, that song... "Happy-happy cakey♪ Pa-Pa-Pa-Paaarty♪"
 Ichika: "Let's all celebrate Shiho's birthday♪"
 Honami: Hehe. She was singing that the whole time when we were picking your birthday present too.

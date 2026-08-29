@@ -41,7 +41,7 @@ Minori: Here we go! Angel's Clover!
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Kanade: *Sigh*
 Kanade: Thank you for singing with me, everyone.
@@ -51,7 +51,7 @@ Kanade: I'm glad...
 Luka: Hehe. You looked like you had fun, Kanade.
 Kanade: Do you think so? Actually, I think you're right...
 Kanade: It was probably because I wanted to sing with all of you today.
-Miku: Really?
+Miku (N25): Really?
 Kanade: Yes. When I went exercising with Ena the other day... Luka told me this...
 Kanade: You should think more about how you're doing from time to time.
 Kanade: That made me think about what I wanted to do right now.
@@ -66,13 +66,13 @@ Mafuyu: It's fine. I also felt a little better.
 Mafuyu: Anyway, I should go back soon. I need to study.
 Kanade: Oh... Right.
 (Exit: Mafuyu)
-Miku: Is Mafuyu busy?
+Miku (N25): Is Mafuyu busy?
 Mizuki: Yeah. Seems like she has entrance exams to study for.
-Miku: I see. Sounds tough.
+Miku (N25): I see. Sounds tough.
 Ena: Well, if she's showing up from time to time, then that means she's taking breaks, right?
 Kanade: I hope so...
 Kanade: But, it's okay. The only thing I can do now is compose music.
-Miku: Good luck, Kanade. But...don't overdo it, okay?
+Miku (N25): Good luck, Kanade. But...don't overdo it, okay?
 Kanade: I won't. It'll be okay. Thank you.
 Kanade: I'm going to head back now. I'll come back when I've finished another song.
 Luka: Sounds lovely. I'm looking forward to it.
@@ -81,9 +81,9 @@ Ena: See you later.
 (Exit: Kanade)
 (Exit: Ena)
 (Exit: Mizuki)
-Miku: Kanade seems to be feeling much better. Did you do something, Luka?
+Miku (N25): Kanade seems to be feeling much better. Did you do something, Luka?
 Luka: No, I didn't do anything. All I did was give her a little nudge to get her moving.
 Luka: It seems like I was successful this time.
-Miku: I see. I'm glad... Everyone looked like they were having fun.
+Miku (N25): I see. I'm glad... Everyone looked like they were having fun.
 Luka: Yes. I can't wait to hear their next song.
-Miku: Me too.
+Miku (N25): Me too.

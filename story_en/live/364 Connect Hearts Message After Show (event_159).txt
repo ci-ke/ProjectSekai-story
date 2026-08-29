@@ -45,7 +45,7 @@ Emu: Here we go! Love Ka?!
 
 4 [mc_timeline] mc_ev_shuffle_56_2
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
@@ -54,7 +54,7 @@ Emu: Here we go! Love Ka?!
 Ichika: Thank you for listening!
 Saki: Did you enjoy our show? It's our way of saying thank you for always supporting us!
 Shiho: Sounds like a good response to me.
-Miku: Well, it was a great performance.
+Miku (Ln): Well, it was a great performance.
 Rin: Hehehe. We were perfectly in sync!
 Honami: We've practiced a lot for today, after all.
 Saki: That's true, but I think it's more thanks to our leveled-up friendship power♪
@@ -68,7 +68,7 @@ Shiho: Saki...
 Saki: Hehehe, where should I bring you next♪
 Rin: Ooh, I know! What about that place you told me about that does, um, acai bowls?
 Rin: Those smoothies with lots and lots of fruit on top?
-Miku: You just want them to bring you one, Rin.
+Miku (Ln): You just want them to bring you one, Rin.
 Rin: I didn't say that♪
 Honami: I am a little interested myself, though. I've heard they're delicious, and healthy too.
 Ichika: Really? That does sound good.

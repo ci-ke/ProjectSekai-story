@@ -6,16 +6,16 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Saki: Humhumhuum♪
 Honami: You seem chipper, Saki.
 Saki: Hehehe. That's because I'm super close with the girls from my field trip group now!
 Shiho: That's nice. You and Ichika were in the same group, right?
 Ichika: Yeah. We've all been talking in the group chat ever since the field trip.
-Miku: What sort of stuff do you chat about?
+Miku (Ln): What sort of stuff do you chat about?
 Saki: Let's see... We talk about what we watch on TV, or stuff that happened in class...
 Saki: Oh, we also talked about Ichi and Haruka coming over to watch the soft tennis club sometime!
-Miku: Oh, I see. You'd better bring your A-game then.
+Miku (Ln): Oh, I see. You'd better bring your A-game then.
 Saki: Don't need to tell me twice♪ I'm gonna show them my killer smash!
 Ichika: Hehe. I'll be looking forward to it.
 Ichika: Shiho, Honami, how was the field trip for you?
@@ -43,25 +43,25 @@ Ichika: Stella!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 Shizuku: Thank you both for the souvenirs.
 Airi: Yes! The castella from Minori and the chocolate cookies from Haruka were really good!
 Airi: Not to mention that Miku just gobbled them right up too.
-Miku: Well, they picked those out just for us. I had to savor every bite...
+Miku (MMJ): Well, they picked those out just for us. I had to savor every bite...
 Minori: Hehe. I'm glad you all liked it!
 Haruka: Yes, I'm happy to hear that too.
 Airi: Well, now that you've eaten, you'd better get started on your workout.
 Minori: What?!
-Miku: What?!
+Miku (MMJ): What?!
 Airi: Minori, you ate a lot on the field trip, and Miku, you ate lots of souvenirs, right? Time to get moving and work those calories off!
 Minori: Y-You've gotta be kidding...!
-Miku: *Sob* But, I guess that makes sense...
+Miku (MMJ): *Sob* But, I guess that makes sense...
 Haruka: Miku. Minori. Let's all do our best.
 Shizuku: All of us will join you.
 Airi: Well, if you insist.
 Minori: You guys!
 Minori: Okay. I understand. I'll do it!
-Miku: You're right. Let's do this, Minori!
+Miku (MMJ): You're right. Let's do this, Minori!
 Haruka: Since we're here, let's get some movement in with a show.
 Haruka: Are you all ready?
 Minori: Yeah!
@@ -77,11 +77,11 @@ Haruka: Alright, let's start. IF!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 Minori: Wasn't Haruka super amazing today?!
 Haruka: Huh? Really?
 Shizuku: Yes! It felt like... You were just so radiant!
-Miku: My heart was beating fast from seeing you smile and dance. See, everyone feels the same!
+Miku (MMJ): My heart was beating fast from seeing you smile and dance. See, everyone feels the same!
 Airi: Oh yes, they do! Thanks for bringing the energy, everyone!
 Haruka: Thank you for watching!
 Haruka: I'm sure this is because good things happened on the field trip.
@@ -96,4 +96,4 @@ Haruka: Well then, see you next time, everyone!
 (Exit: Haruka)
 (Exit: Airi)
 (Exit: Shizuku)
-(Exit: Miku)
+(Exit: Miku-MMJ)

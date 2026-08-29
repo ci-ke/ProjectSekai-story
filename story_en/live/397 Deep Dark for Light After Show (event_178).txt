@@ -1,0 +1,89 @@
+397 Deep Dark for Light After Show (event_178)
+
+1 [mc_timeline] mc_ev_wonder_22_1
+
+(Enter: Tsukasa)
+Tsukasa: Hmm...
+Tsukasa: Rivals, huh...
+(Enter: MEIKO)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Miku-WxS)
+Tsukasa: Rivals!!!
+Tsukasa: Perhaps, rivals...
+Tsukasa: No, no. More like, riva—
+Nene: What are you getting up to over here?
+Tsukasa: Hwaah!!! Wh-What?! You were watching that?!
+Emu: Yeah!
+Nene: We're here to talk to Miku and the others. Why were you shouting "rivals" over and over?
+Tsukasa: Ugh, stop bringing it up!
+Emu: Huh?
+Rui: He must have been overjoyed when Asahi said he didn't want to lose to him.
+Nene: Oh, so that's what this is about...
+Emu: Good for you, Tsukasa!
+Tsukasa: Th-That's not it!
+Tsukasa: It's just that "rivals" is such a cool word, so I was deciding what energy to say it with!
+Miku (WxS): Oh, you mean like, "I won't lose... I'm your rival, after all"?
+Tsukasa: Exactly! So this was, you know...like rehearsing a script!
+MEIKO: "I am MEIKO! Your fated rival to the end!" I really love lines like that!
+Nene: Do you really need that many variations?
+Tsukasa: Of course you do! The word "rival" is complex and full of romanticism!
+Emu: Oh, wow!
+Rui: It does vary from person to person, though.
+Tsukasa: Still... I would be lying if I said I wasn't happy as well.
+Nene: Oh? Look at you being so open.
+Tsukasa: I denied it instinctively at first, but thinking about it clearly, I really am.
+Tsukasa: After all, Asahi is a truly amazing actor. He's also a hard worker and a good person.
+Tsukasa: Someone like that has acknowledged my skill. How could I not be overjoyed?
+Miku (WxS): Hehehe. I'm so happy for you, Tsukasa! You worked suuuper hard for it♪
+Tsukasa: Indeed! However... I think you all did more for me this time than I did myself.
+Tsukasa: Thank you all! You've helped me take a big step forward!
+Emu: Hehehe♪ Don't mention it!
+Nene: After all, we always help each other out when one of us is in need.
+Rui: Right. Say the word, Tsukasa, and we'll come to your assistance anytime.
+Rui: Since I'm sure you have no intention of stopping now.
+Tsukasa: Of course not!
+Tsukasa: As Asahi's rival, and as a future star, I must continue to shine brighter than ever!
+Miku (WxS): Go, go, Tsukasa! Shine sparkly bright♪
+MEIKO: Hey, what if we put on a little impromptu show to help keep up the momentum?
+Tsukasa: Oh, that's an excellent idea! It'll be great motivation ahead of our public show!
+Tsukasa: Are you all ready?!
+Tsukasa: filament fever!
+(Exit: Miku-WxS)
+
+
+2 [MUSIC] 397: filament fever
+
+3 [mc_timeline] mc_ev_wonder_22_2
+
+(Enter: MEIKO)
+(Enter: Emu)
+(Enter: Miku-WxS)
+(Enter: Tsukasa)
+(Enter: Nene)
+(Enter: Rui)
+Tsukasa: Hah hah hah! Wasn't I just brilliant?!
+Miku (WxS): Wow, wow! You were so sparkly! What did you all think?
+Miku (WxS): Oooh! They think you were sparkly too!
+Tsukasa: Of course I am, of course I am! So dazzling, I'm hard to look at!
+Tsukasa: But, I'm not finished yet.
+Tsukasa: I'll become worthy of Asahi's approval... As well as every great actor who came before me.
+Tsukasa: Keep your expectations high, everyone. I'm sure to live up to them!
+Miku (WxS): Oh...
+Miku (WxS): Hehehe, you really are so cool♪
+Tsukasa: Hm? Miku, did you say something?
+Miku (WxS): Yeah! So, it was...
+MEIKO: Oh, KAITO and the others are waving over there! I wonder what they want?
+Nene: They did say they were working on a show. Maybe they're finished setting up.
+Miku (WxS): Ooh, really?! Let's go see it!
+Tsukasa: Huh?! Wait, Miku, what were you saying?!
+(Exit: Miku-WxS)
+(Exit: Emu)
+(Exit: Nene)
+(Exit: MEIKO)
+(Exit: Rui)
+Tsukasa: Well, before that...
+Tsukasa: Everyone, look forward to our next show! We promise to give it everything we have!
+Tsukasa: And with that... Get back here, Miku!!!
+(Exit: Tsukasa)

@@ -2,19 +2,19 @@
 
 1 [mc] mc_2022newyear_01_1
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 (Enter: Len)
 (Enter: Luka)
 (Enter: MEIKO)
 (Enter: KAITO)
-Miku: Ready...?
-Miku: "Happy New Year!"
+Miku (Ln): Ready...?
+Miku (Ln): "Happy New Year!"
 Rin: "Happy New Year!"
 Len: "Happy New Year!"
 Luka: "Happy New Year!"
 MEIKO: "Happy New Year!"
-Miku: Thank you for coming to see Ichika and the others perform.
+Miku (Ln): Thank you for coming to see Ichika and the others perform.
 KAITO: I can't help but feel anxious...
 Rin: Haha☆ Even though you aren't the one performing, KAITO?
 Luka: You did help them practice a lot for today, didn't you?
@@ -51,7 +51,7 @@ Luka: Just take a look. I'm sure everyone here will agree with me on that.
 Honami: Wow...! Thank you, everyone!
 Honami: We always receive so much support and encouragement from all of you whenever we perform in SEKAI.
 Saki: Yeah! We want you all to keep supporting us, so we promise to bring you the best performances and sing the most amazing songs this year!
-Miku: Hehe. The best shows and the most amazing songs, huh? You're all going to have to work pretty hard to keep up your end of that bargain.
+Miku (Ln): Hehe. The best shows and the most amazing songs, huh? You're all going to have to work pretty hard to keep up your end of that bargain.
 Shiho: We know. Alright, everyone, let's get started.
 Ichika: Yeah!
 Ichika: Just to reiterate what Saki said, "We want you all to keep supporting us, so we promise to bring you the best performances and sing the most amazing songs."
@@ -67,14 +67,14 @@ Ichika: needLe...!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Luka: Good work, everyone. Your feelings really shined through as you played that song.
-Miku: I thought the same thing as I was singing too.
+Miku (Ln): I thought the same thing as I was singing too.
 Honami: Really? That's wonderful...!
 Ichika: It really is...! I thought I already knew that songs are filled with a myriad of different feeling and emotions, but actually writing our own taught me otherwise.
 Ichika: It's actually why I want to be able to deliver everything that's been packed into these songs to all of you.
-Miku: Sounds like a plan! Let's keep that energy up for the next one.
+Miku (Ln): Sounds like a plan! Let's keep that energy up for the next one.
 Shiho: We will. I mean, this next one also has a special place in our hearts.
 Saki: Exactly!
 Saki: This is the song we sang when we realized what sort of feelings we wanted to put into our music, wasn't it?
@@ -90,14 +90,14 @@ Ichika: Here we go. From Tokyo!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Thank you for listening, everyone!
 Luka: That was a wonderful performance. You can even tell from the look on Rin's face over there.
 Luka: Hehe. See?
 Saki: Whoa! Rin, thank you so much!!
 Shiho: Hehe...
-Miku: You seem content, Shiho.
+Miku (Ln): You seem content, Shiho.
 Shiho: Huh? Oh... I was just thinking about much you've all improved, Ichika, Saki, Honami.
 Shiho: I know I'm hard on you during practice, but you all work so hard to make sure you have everything down pat by our next practice session.
 Saki: Of course we work hard! We're trying to go pro together, right?! That's the least we can do!
@@ -111,9 +111,9 @@ Saki: Especially shows! We're gonna make our next one more exciting than ever be
 Honami: I guess we'll need to practice even harder to achieve that too.
 Ichika: That's right.
 Luka: We're also very much looking forward to how you're all going grow moving forward.
-Miku: Right. We'll always be here for you in SEKAI, so feel free to visit whenever.
+Miku (Ln): Right. We'll always be here for you in SEKAI, so feel free to visit whenever.
 Luka: Yes, please do, or Miku will start getting all lonely.
-Miku: W-What?! L-Luka!
+Miku (Ln): W-What?! L-Luka!
 Ichika: "Hehehe." "Haha."
 Saki: "Hehehe." "Haha."
 Honami: "Hehehe." "Haha."

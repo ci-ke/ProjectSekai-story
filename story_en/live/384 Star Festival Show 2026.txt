@@ -49,7 +49,7 @@ Miku: I hope everyone in SEKAI is having a good Star Festival too.
 4 [mc_timeline] mc_2025tanabata_3
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Luka)
 (Enter: Toya)
 (Enter: Akito)
@@ -62,10 +62,10 @@ Kohane: I didn't think the US celebrated the Star Festival, so it was a real sur
 Toya: That's true. Of course, we can't say whether it's celebrated the same way as Japan.
 Akito: It'd make sense it's different in a different country.
 Luka: Oh, I didn't know that. How interesting.
-Miku: Well, the US may not celebrate the same way as Japan...
-Miku: But we can still celebrate it our way.
+Miku (VBS): Well, the US may not celebrate the same way as Japan...
+Miku (VBS): But we can still celebrate it our way.
 Kohane: Our way?
-Miku: You know, by putting our wishes into a song for everyone.
+Miku (VBS): You know, by putting our wishes into a song for everyone.
 Kohane: Oh!
 Luka: What a nice idea! I was just thinking that I'm in the mood to sing.
 An: Haha, someone's motivated!
@@ -83,7 +83,7 @@ An: Mirai!
 6 [mc_timeline] mc_2025tanabata_4
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Luka)
 (Enter: Toya)
 (Enter: Akito)
@@ -99,7 +99,7 @@ Akito: Nope, you're not making an accomplice out of me.
 Luka: Well, it was worth a shot.
 Kohane: Hehe.
 Toya: Hehe.
-Miku: Thanks for coming today, everyone!
+Miku (VBS): Thanks for coming today, everyone!
 Kohane: Have a very nice Star Festival!
 An: Happy Star Festival, y'all!
 Luka: Y'all!

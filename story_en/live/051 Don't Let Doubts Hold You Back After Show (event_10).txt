@@ -6,9 +6,9 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: MEIKO)
-Miku: If everyone's ready, then it's time to get serious.
+Miku (Ln): If everyone's ready, then it's time to get serious.
 MEIKO: Are you ready?
 Saki: Yes! What song are we playing today?
 Honami: Um, if you don't mind...I have a particular song in mind today. Do you think we could play that?
@@ -20,7 +20,7 @@ Honami: N-No, it's nothing grand like that. But I do think I should be able to g
 Shiho: Okay. That's great, let's do it.
 Ichika: Yes! I agree.
 Saki: Me too! I absolutely wanna play the song that Hona wants to play so much!
-Miku: Then what are we waiting for? Let's do it!
+Miku (Ln): Then what are we waiting for? Let's do it!
 
 
 2 [MUSIC] 75: Tale of the Deep-sea Lily
@@ -31,7 +31,7 @@ Miku: Then what are we waiting for? Let's do it!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: MEIKO)
 Ichika: Oh!
 Honami: I think they're happy about the performance too. And I'm happy that they're happy.
@@ -46,7 +46,7 @@ Shiho: M-MEIKO!
 Honami: Ichika, remember you said before that you wanted us to stay happy together forever?
 Honami: I want that too. I want us to stay happy together, the way we are now, so I'll do my best to keep it that way!
 Ichika: Yeah, let's do that, Honami. We're all gonna be together forever!
-Miku: And I know you'll succeed, Honami, Ichika, Saki, Shiho. You'll be happy together forever.
+Miku (Ln): And I know you'll succeed, Honami, Ichika, Saki, Shiho. You'll be happy together forever.
 Honami: We will! Thank you, Miku!
 Honami: And everyone out there too. Thank you for watching over us.
 Honami: It's all because you're always watching that we've been able to perform so well today.

@@ -6,13 +6,13 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Shiho: Okay, let's do another run-through while everything is still fresh in our minds.
-Miku: Sounds good. Let's put some energy into it since we seem to have attracted an audience.
+Miku (Ln): Sounds good. Let's put some energy into it since we seem to have attracted an audience.
 Honami: Huh?
 Ichika: Thank you for coming, everyone. Maybe you heard, but we're about to do one last run-through.
 Saki: Hehehe. And then after that, we'll be heading over to a diner to attempt the "Super Deluxe White Day Special Parfait!"
-Miku: Oh, yeah. That's the parfait that makes you stay friends forever if you finish it without making a mess of it, right?
+Miku (Ln): Oh, yeah. That's the parfait that makes you stay friends forever if you finish it without making a mess of it, right?
 Shiho: That's just how the diner advertised it. I don't think there's any evidence proving that's true.
 Saki: There is! The parfait is super delicate, so great teamwork is super important, or else our friendship will fall apart!
 Honami: Hehe. I wouldn't want that to happen.
@@ -31,9 +31,9 @@ Ichika: Alright, here we go. needLe!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Ichika: Thank you for listening, everyone!
-Miku: You all managed to fix the parts Shiho pointed out before. Was it the thought of that parfait?
+Miku (Ln): You all managed to fix the parts Shiho pointed out before. Was it the thought of that parfait?
 Shiho: I'm pretty sure it was just the fruits of our labor.
 Shiho: Well then, I think we can end here for today.
 Saki: Does this mean... We can go and get the parfait?!
@@ -41,12 +41,12 @@ Shiho: We have been practicing a lot lately and even our breaks haven't really b
 Saki: Y-YAAAY!
 Ichika: Whoa... I wasn't expecting everyone here to be happy about that too.
 Honami: Hehe. I'm sure they're reminding us that it's important to take breaks.
-Miku: Also, don't forget, it's White Day today.
+Miku (Ln): Also, don't forget, it's White Day today.
 Saki: Mhm♪ And I feel like I just got a wonderful gift from Shiho!
 Shiho: You're exaggerating. We're just going to eat parfaits, you know.
 Ichika: Hehe.
 Honami: Hehe.
-Miku: I hope you all have an amazing White Day, everyone! See you next time!
+Miku (Ln): I hope you all have an amazing White Day, everyone! See you next time!
 
 
 4 [mc] mc_2023whiteday_3

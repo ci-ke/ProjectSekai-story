@@ -6,7 +6,7 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Hey, look! We've got so many sparkly feelings with us today too!
 Ichika: They must be here to celebrate Honami's birthday with us.
@@ -26,17 +26,17 @@ Ichika: Now that you mention it, the last time we held a birthday party for Hona
 Shiho: And speaking of Honami's birthday party... Instead of cakes, we always had apple pies, didn't we?
 Saki: Yeah! Sticking candles into an apple pie has got to be one of the most surreal things you could ever do♪
 Honami: It-It's not that bad... And anyway, the apple pies were delicious, right?
-Miku: Happy birthday from us too, Honami.
+Miku (Ln): Happy birthday from us too, Honami.
 Luka: I'm glad we can celebrate togther like this.
 Honami: Miku and Luka!
 Ichika: It was actually Miku and Luka who suggested holding the birthday party here.
 Honami: I see. Thank you for always being so considerate of us.
 Honami: If there's anything I can do for you at all...
-Miku: Hehe, that's so like you, Honami. But it's your birthday today, so save all that for another time, okay?
+Miku (Ln): Hehe, that's so like you, Honami. But it's your birthday today, so save all that for another time, okay?
 Honami: But...
-Miku: Well, if you insist... You have to perform a song together with us in return. How about that?
+Miku (Ln): Well, if you insist... You have to perform a song together with us in return. How about that?
 Honami: I'd be happy to do that! Shall we play the song that was born from our feelings, then?
-Miku: Let's do this, everyone. Ready?
+Miku (Ln): Let's do this, everyone. Ready?
 Ichika: "Yeah!"
 Saki: "Yeah!"
 Honami: "Yeah!"
@@ -52,7 +52,7 @@ Ichika: Enjoy the show too, everyone out there!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Luka: That was a great performance. Everyone's improved so much.
 Honami: Thank you, Luka!

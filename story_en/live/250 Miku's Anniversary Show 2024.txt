@@ -6,8 +6,8 @@
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
-Miku: Thank you for coming to my special fan meeting today, everyone♪
+(Enter: Miku-MMJ)
+Miku (MMJ): Thank you for coming to my special fan meeting today, everyone♪
 Minori: At today's fan meeting, you might get the chance to see a side of Miku you've never seen before!
 Airi: Hehe. I wonder what this side of Miku will be like.
 Haruka: Okay, shall we get started with the segment?
@@ -17,28 +17,28 @@ Minori: Yaaay!
 Haruka: Yaaay!
 Airi: Yaaay!
 Haruka: As the title suggests, we'll be asking Miku to answer all sorts of questions about herself.
-Miku: Hehe, I wonder what I'll be asked. I'm getting excited.
+Miku (MMJ): Hehe, I wonder what I'll be asked. I'm getting excited.
 Minori: W-Wow! You're so poised and put together, Miku!
 Airi: Yeah, you seem like you're ready to take on anything. That's good, 'cause here come the questions, one after another!
 Airi: First question! What is your latest obsession?
-Miku: Um... Oh! So we have costumes specific to each song that we usually wear when we sing, but I've started trying different outfits.
-Miku: Finding wonderful new combinations is so much fun♪
+Miku (MMJ): Um... Oh! So we have costumes specific to each song that we usually wear when we sing, but I've started trying different outfits.
+Miku (MMJ): Finding wonderful new combinations is so much fun♪
 Airi: Ooh! What a cute, idol-like answer! Sounds like a great way to increase your options, and it's thrifty too.
 Shizuku: Now, on to question two! Your hair is so lovely. What's your usual haircare routine?
-Miku: I take the time to brush it out neatly every day.
-Miku: Sometimes Rin and MEIKO help. MEIKO even gives me scalp massages. The other day, it was so relaxing I started nodding off.
+Miku (MMJ): I take the time to brush it out neatly every day.
+Miku (MMJ): Sometimes Rin and MEIKO help. MEIKO even gives me scalp massages. The other day, it was so relaxing I started nodding off.
 Shizuku: My goodness, even a scalp massage? That sounds heavenly. I'm a bit jealous.
 Haruka: Here comes the next question! Number three! How do you like to reward yourself?
-Miku: Probably with candy or something else sweet to eat!
-Miku: Like after an especially intense practice, I'll dig into a treat and think, "Here's to another day of hard work!"
+Miku (MMJ): Probably with candy or something else sweet to eat!
+Miku (MMJ): Like after an especially intense practice, I'll dig into a treat and think, "Here's to another day of hard work!"
 Haruka: Ah, I see. Hehe, I can just picture your face, happily snacking away.
 Minori: Right?! Imagining her all proud of herself is cute too.
 Minori: And that brings us to our final question already! Miku, if you could do anything right now, what would it be?
-Miku: Well...
-Miku: I want to express my heartfelt appreciation to our fans, for always supporting us!
-Miku: In fact, we've prepared a song we'd like to sing for you today.
-Miku: Hehe, we'll be sending lots of cuteness your way, so keep an eye out♪
-Miku: Ready? Here we go! The Vampire!
+Miku (MMJ): Well...
+Miku (MMJ): I want to express my heartfelt appreciation to our fans, for always supporting us!
+Miku (MMJ): In fact, we've prepared a song we'd like to sing for you today.
+Miku (MMJ): Hehe, we'll be sending lots of cuteness your way, so keep an eye out♪
+Miku (MMJ): Ready? Here we go! The Vampire!
 
 
 2 [MUSIC] 213: The Vampire
@@ -49,16 +49,16 @@ Miku: Ready? Here we go! The Vampire!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
-Miku: Thanks for listening, everyone♪
+(Enter: Miku-MMJ)
+Miku (MMJ): Thanks for listening, everyone♪
 Minori: Now everyone, let's give it up one more time for Miku!
 Minori: Ready?! One, two...!
 Minori: Happy anniversary, Miku!
 Haruka: Happy anniversary, Miku!
 Airi: Happy anniversary, Miku!
 Shizuku: Happy anniversary, Miku!
-Miku: Minori, everyone, thank you all so much for coming!
-Miku: I'll always be waiting for you in SEKAI, so please come visit again♪ Bye bye!
+Miku (MMJ): Minori, everyone, thank you all so much for coming!
+Miku (MMJ): I'll always be waiting for you in SEKAI, so please come visit again♪ Bye bye!
 
 
 4 [mc] mc_bd_2023miku_3

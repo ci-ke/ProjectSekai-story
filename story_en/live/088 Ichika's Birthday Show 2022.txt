@@ -5,7 +5,7 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 (Enter: MEIKO)
 Saki: ... Ichi still isn't here yet.
@@ -15,8 +15,8 @@ Rin: T-There's no reason to worry! Uh...
 MEIKO: Do you think... That maybe she got the wrong time or place?
 Rin: Yeah! That could be it! I'll go look for her!
 MEIKO: Oh, I'll go with you. I'll leave the rest of the girls to you, Miku!
-Miku: Okay.
-Miku: Did you hear anything from Ichika, Saki?
+Miku (Ln): Okay.
+Miku (Ln): Did you hear anything from Ichika, Saki?
 (Exit: Rin)
 (Exit: MEIKO)
 Saki: No, nothing at all... I wonder what happened.
@@ -32,7 +32,7 @@ Ichika: Amazing... It's as if each word I hear paints a scenery of feelings.
 Ichika: Alright, so this one is the next song...
 Honami: Is Ichika...
 Luka: Yes. She's been listening to all sorts of songs and secretly studying them to write lyrics.
-Miku: I see. She got so into it that she didn't even notice that it was time for us to meet up.
+Miku (Ln): I see. She got so into it that she didn't even notice that it was time for us to meet up.
 Shiho: What's going... Is that...
 Saki: Thank goodness...
 Saki: Ichi, that's enough!
@@ -55,7 +55,7 @@ Ichika: I mean, everyone's here now! How about it?
 Saki: Hm... What do you think, Shiho, Hona?
 Shiho: Well, Ichika is the birthday girl today.
 Honami: Yes, you're right.
-Miku: If you girls are okay with it, then I am too.
+Miku (Ln): If you girls are okay with it, then I am too.
 Saki: Hehe. Well then, great goddess Ichika. Please tell us which song that it is you wish to sing♪
 Ichika: Saki, please...
 Ichika: The song I want to sing is...
@@ -71,7 +71,7 @@ Ichika: Let's go! needLe!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Luka: Hehe. I didn't expect you all to fall into song in that way.
 Ichika: Haha...
@@ -80,7 +80,7 @@ Saki: I forgive you! Besides, you were so cute freaking out like that!
 Honami: Yes. It's not often we get to see you all flustered.
 Shiho: Now I wish I had taken a photo.
 Saki: Oh no! You're right! Ichi, can you make that face one more time?!
-Miku: Come on now, Ichika.
+Miku (Ln): Come on now, Ichika.
 Ichika: My gosh, how long are you going to tease me for?
 Saki: Sorry, sorry! Then in that case, can we get a smile instead♪
 Saki: All of us here will say "happy birthday" so just give us a smile in return, okay?
@@ -91,7 +91,7 @@ Saki: Here we go! Ready...
 Saki: "Happy birthday, Ichika!"
 Honami: "Happy birthday, Ichika!"
 Shiho: "Happy birthday, Ichika!"
-Miku: "Happy birthday, Ichika!"
+Miku (Ln): "Happy birthday, Ichika!"
 Luka: "Happy birthday, Ichika!"
 Ichika: Thank you...
 Ichika: Thank you for coming to celebrate with me today too, everyone.
@@ -103,7 +103,7 @@ Honami: You'll have to let MEIKO and Rin see that smile too.
 Ichika: Speaking of which, I haven't seen them yet.
 Shiho: That's right... They were looking for you since you didn't show up on time.
 Ichika: What! Really?!
-Miku: Well, they probably noticed you during that performance earlier.
+Miku (Ln): Well, they probably noticed you during that performance earlier.
 Luka: Hehe. Speak of the devil.
 Saki: I'll go pick up Rin and MEIKO!
 Ichika: Oh, wait! It was my fault to begin with, so I'll go with you!

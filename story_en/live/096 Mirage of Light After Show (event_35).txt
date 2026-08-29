@@ -3,27 +3,27 @@
 1 [mc] mc_ev_night_05_1
 
 (Enter: Rin)
-(Enter: Miku)
-Miku: Something the matter?
+(Enter: Miku-N25)
+Miku (N25): Something the matter?
 Rin: Miku... It's nothing.
-Miku: Are you perhaps waiting for the others?
+Miku (N25): Are you perhaps waiting for the others?
 Rin: No, that's not why I'm here.
-Miku: I get it. I also can't wait for everyone to get here. I'm curious to hear how Mafuyu's lyrics turned out.
+Miku (N25): I get it. I also can't wait for everyone to get here. I'm curious to hear how Mafuyu's lyrics turned out.
 Rin: I said that's not why I'm...
 (Enter: Kanade)
 (Enter: Ena)
 (Enter: Mafuyu)
 (Enter: Mizuki)
 Kanade: Miku, Rin.
-Miku: You guys!
+Miku (N25): You guys!
 Rin: What happened?
 Mizuki: Ta-daa! Our new song is done!
 Rin: A new song...
 Kanade: That's right. Mafuyu did the lyrics for us but there's still some loose ends that need tidying.
-Miku: Oh, I see.
-Miku: Isn't that great news, Rin?
+Miku (N25): Oh, I see.
+Miku (N25): Isn't that great news, Rin?
 Mizuki: Huh, Rin? What's the matter?
-Miku: Looks like she was worried about you guys.
+Miku (N25): Looks like she was worried about you guys.
 Mafuyu: Really?
 Rin: No, that's not it.
 Mafuyu: Rin...
@@ -48,10 +48,10 @@ Mafuyu: Alright then, here goes. "Reborn"
 (Enter: Ena)
 (Enter: Kanade)
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mafuyu: How was it?
 Rin: Sounded pretty good.
-Miku: Mafuyu, your voice fills me with more warmth than it ever has before.
+Miku (N25): Mafuyu, your voice fills me with more warmth than it ever has before.
 Ena: Ah, I feel the same.
 Kanade: Me too.
 Mizuki: Maybe that's a sign that you're improving more and more each day?
@@ -67,7 +67,7 @@ Kanade: We hope you'll come see us perform again next time.
 Ena: Thank you!
 Mafuyu: See you next time...
 (Exit: Rin)
-(Exit: Miku)
+(Exit: Miku-N25)
 (Exit: Kanade)
 (Exit: Mafuyu)
 Mizuki: Don't give up, huh. I wonder if someday, I'll also be able to...

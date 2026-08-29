@@ -6,8 +6,8 @@
 (Enter: Mafuyu)
 (Enter: Kanade)
 (Enter: Mizuki)
-(Enter: Miku)
-Miku: ... Kanade, look. Everyone is here to celebrate.
+(Enter: Miku-N25)
+Miku (N25): ... Kanade, look. Everyone is here to celebrate.
 Kanade: Wow, you're right. I didn't expect so many people to be here for my birthday.
 Ena: Of course they would. You're important to so many people.
 Ena: Even Ichika, Minori and Honami came over today to celebrate your special day.
@@ -19,7 +19,7 @@ Kanade: I don't think you need to worry about my health that much...
 Mafuyu: But you don't exercise, eat the right foods or sleep enough.
 Kanade: Uh... I think we're in the same boat when it comes to lack of sleep.
 Kanade: And you don't have to worry about my diet. Ms. Mochizuki has been making me lovely meals.
-Miku: But...sometimes, you only eat once a day, right Kanade?
+Miku (N25): But...sometimes, you only eat once a day, right Kanade?
 Kanade: That's because...
 Mizuki: Haha, you got told, Kanade!
 Ena: Just take care of yourself, okay? You can't fix things when it's too late.
@@ -27,7 +27,7 @@ Kanade: Y-You're right... Okay, I will.
 Ena: The same goes for you, too.
 Mafuyu: I know.
 Ena: Do you?
-Miku: Hehe.
+Miku (N25): Hehe.
 Mizuki: Well anyway, it's important that we all remember to look after ourselves! Kanade, make sure to go outside more often!
 Kanade: I will. I don't think I can do it alone, so I might ask you all to join me...
 Ena: No need to hold back. Feel free to invite me anytime.
@@ -38,7 +38,7 @@ Mafuyu: Kanade...
 Kanade: I haven't changed the way I feel since the day I made that promise to you here.
 Kanade: I want to relive those feelings with you now. Would you sing with me?
 Mafuyu: Sure.
-Miku: Kanade, I would like to sing too.
+Miku (N25): Kanade, I would like to sing too.
 Kanade: Okay, please do.
 Mizuki: Then we'll be cheering you three on with the audience!
 Ena: Alright, everyone ready?
@@ -53,11 +53,11 @@ Kanade: Meru.
 3 [mc] mc_bd_2023kanade_2
 
 (Enter: Kanade)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-Miku: Thank you everyone for cheering us on.
+Miku (N25): Thank you everyone for cheering us on.
 Kanade: Mafuyu, I wonder if my feelings reached you even a little bit...
 Mafuyu: They did.
 Mafuyu: Kanade... I'll wait as long as I need to.
@@ -68,4 +68,4 @@ Mizuki: "You're very welcome!"
 Kanade: Thank you all for being here today for my birthday.
 Kanade: I can really feel the warmth of everyone looking out for me.
 Kanade: I hope you will come again to listen to us. Until next time.
-Miku: See you.
+Miku (N25): See you.

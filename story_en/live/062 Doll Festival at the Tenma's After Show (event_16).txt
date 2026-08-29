@@ -40,9 +40,9 @@ Emu: Now that you mention it, I wonder what Saki's doing right now?
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Saki: And that's how I was able to make up with my brother!
-Miku: Oh I see. That's good to hear, Saki.
+Miku (Ln): Oh I see. That's good to hear, Saki.
 Saki: I couldn't have done it without you guys! Thank you so much!
 Honami: Hehe, you're welcome. I'm glad it was a fun party.
 Ichika: We even got to play bingo. The gifts we received were also cute.
@@ -58,11 +58,11 @@ Saki: Yeah!
 Saki: Oh yeah, guys! There's a song I kind of want to perform. Do you want to join me?
 Shiho: Oh? What song?
 Saki: Of course it's your song, Miku!
-Miku: My song?
+Miku (Ln): My song?
 Saki: Yeah! Ichi recommended it to me a long time ago, and I used to listen to it at the hospital.
 Saki: Whenever I listen to it, it reminds me of my brother, and of everyone who came to visit me at the hospital.
 Ichika: I see... Hey, why don't you join us, Miku?
-Miku: Sure, I'd love to!
+Miku (Ln): Sure, I'd love to!
 Saki: Thanks, you guys! Let's do it!
 
 
@@ -74,10 +74,10 @@ Saki: Thanks, you guys! Let's do it!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Saki: Thanks for listening, everyone! It really was a wonderful song!
 Honami: I agree. My chest was pounding.
-Miku: Yes. And it was filled with your feelings, Saki.
+Miku (Ln): Yes. And it was filled with your feelings, Saki.
 Saki: Hehe♪ Thanks Miku!
 Honami: Well then, shall we get back to practicing?
 Shiho: Yes. Let's pick up where we left off. Are you ready?

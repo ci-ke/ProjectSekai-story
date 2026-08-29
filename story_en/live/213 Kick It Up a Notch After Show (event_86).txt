@@ -3,29 +3,29 @@
 1 [mc] mc_ev_street_12_1
 
 (Enter: Kohane)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Kohane: It took me by surprise when you invited me for a walk, Miku.
-Miku: Huh? It did?
+Miku (VBS): Huh? It did?
 Kohane: Yes. I was glad since we still had time before meeting the others. But...why now all of a sudden?
-Miku: It's for nothing major... You just seem so restless today. I figured walking it off would help.
+Miku (VBS): It's for nothing major... You just seem so restless today. I figured walking it off would help.
 Kohane: Huh?
-Miku: What's another way to put it...? It's like you're bursting with energy.
-Miku: Those dark circles have vanished too. You must've slept like a log after the event yesterday.
+Miku (VBS): What's another way to put it...? It's like you're bursting with energy.
+Miku (VBS): Those dark circles have vanished too. You must've slept like a log after the event yesterday.
 Kohane: Oh... Yes. I went to sleep when I got home last night and didn't wake up until this afternoon.
 Kohane: But I guess I slept too much... I suddenly went from being really busy to having all this free time. And now I can't relax.
-Miku: Hehe. That explains why you're so energetic today.
-Miku: I take it the event was a huge success then?
+Miku (VBS): Hehe. That explains why you're so energetic today.
+Miku (VBS): I take it the event was a huge success then?
 Kohane: It was! I sang with more passion than I've ever felt. I think I did well as the opening act.
 Kohane: And I got praise from Taiga. In the middle of my song, he shouted, "Nice singing!"
-Miku: Wow, that good? I wish I got to hear it.
-Miku: So, you've performed alone now. Did you figure out what's "most important", as Taiga put it?
+Miku (VBS): Wow, that good? I wish I got to hear it.
+Miku (VBS): So, you've performed alone now. Did you figure out what's "most important", as Taiga put it?
 Kohane: Oh... I think I have an idea.
 Kohane: There's a certain feeling...
 Kohane: The feeling when people want to hear you sing, and you want them to hear it too... I think that's important to our music.
-Miku: I see. It sounds like striking out alone paid off then.
+Miku (VBS): I see. It sounds like striking out alone paid off then.
 Kohane: Yes. I'm glad I was brave enough to try.
 Kohane: And I'm especially glad that I did it before Taiga leaves.
-Miku: ...? Kohane, what do you—
+Miku (VBS): ...? Kohane, what do you—
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
@@ -34,7 +34,7 @@ An: Heya, Kohane! Hi, Miku!
 Kohane: Oh, hi everyone!
 Akito: MEIKO said you'd gone for a walk, so we figured we'd catch up, but you went further than we thought.
 An: So, what were you two talking about?
-Miku: A whole bunch of stuff, like her opening act.
+Miku (VBS): A whole bunch of stuff, like her opening act.
 Toya: I see. It did take me by surprise when Azusawa said she wanted to open the show alone.
 Akito: But... One thing still bothers me. You seemed a little tense through it all. Is something up?
 Kohane: Oh, about that...
@@ -44,18 +44,18 @@ Akito: I see. Taiga is leaving...
 Kohane: Yes. So...
 Kohane: I kept thinking how this was my last chance to have him hear me sing. That's why I was working so hard.
 Kohane: I wanted to demonstrate the results of all our practices together.
-Miku: I see...
+Miku (VBS): I see...
 Toya: It's clear that everything you learned from Taiga has come to fruition.
 Kohane: Right?
-Miku: Well then, An, Akito, Toya. You'll need to stay sharp.
+Miku (VBS): Well then, An, Akito, Toya. You'll need to stay sharp.
 Akito: You're right. We have to keep up with her.
 Toya: Yes.
 Kohane: Oh... Hey, guys?
 Akito: Hm? What?
 Kohane: Um... I'm still fired up after yesterday... Could I sing again?
 Kohane: After everything, I feel like I can perform really well.
-Miku: Sure, why not? I'd like to hear how you sound now.
-Miku: And... We'll all join you, right?
+Miku (VBS): Sure, why not? I'd like to hear how you sound now.
+Miku (VBS): And... We'll all join you, right?
 Akito: Yep, no question.
 An: Yeah, of course we will!
 Toya: Yes, I'm also still brimming with energy.
@@ -71,13 +71,13 @@ Kohane: Ready Steady!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Kohane: *Sigh* That felt so good! Thanks for joining me!
-Miku: So this is where you guys are now. I'm impressed. You really are something.
+Miku (VBS): So this is where you guys are now. I'm impressed. You really are something.
 Kohane: Not at all. We were only able to bring this energy with your support.
-Miku: Really? Hehe. It sure is interesting singing with you four.
-Miku: The passion and excitement of your event was palpable. From just your voices, it felt like I was there.
-Miku: Hey, you all felt it too, right?
+Miku (VBS): Really? Hehe. It sure is interesting singing with you four.
+Miku (VBS): The passion and excitement of your event was palpable. From just your voices, it felt like I was there.
+Miku (VBS): Hey, you all felt it too, right?
 Kohane: Whoa! I'm so glad. Thank you, everybody.
 Kohane: We aren't going to stop here. So, I hope you keep watching us chase our dream.
 An: And hey, this event took us one step closer to surpassing RAD WEEKEND.
@@ -86,7 +86,7 @@ Toya: That's true. Beyond this energy, I think—no, I'm sure... RAD WEEKEND is 
 Kohane: Yes... You're right! Let's surpass RAD WEEKEND!
 Akito: On that note, it's about time we did a debrief.
 An: Where do you wanna do it? Oh, actually, MEIKO didn't seem busy, right?
-Miku: I haven't seen Luka around either. And KAITO is giving Rin and Len a DJing lesson. You should all be fine to come over.
+Miku (VBS): I haven't seen Luka around either. And KAITO is giving Rin and Len a DJing lesson. You should all be fine to come over.
 Kohane: In that case, do you want to do it at MEIKO's place?
 Akito: Okay. Sure!
 Toya: Okay. Sure!
@@ -95,4 +95,4 @@ An: Okay. Sure!
 (Exit: Kohane)
 (Exit: An)
 (Exit: Toya)
-(Exit: Miku)
+(Exit: Miku-VBS)

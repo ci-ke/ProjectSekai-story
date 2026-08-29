@@ -6,15 +6,15 @@
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: MEIKO)
 Shizuku: Hello, everyone! Thank you for coming to our New Year's show today!
 Airi: Everyone's buzzing! But we're just getting started!
 Minori: We're going to pull out all of the stops to make your New Year more fun, more lively and more exciting!
 MEIKO: Without further ado, let's begin with our first song!
 Haruka: Yeah! Ready everyone?
-Miku: Sounds like they are♪ It's time for...
-Miku: The Vampire!
+Miku (MMJ): Sounds like they are♪ It's time for...
+Miku (MMJ): The Vampire!
 (Exit: MEIKO)
 
 
@@ -26,10 +26,10 @@ Miku: The Vampire!
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: MEIKO)
 Minori: How was that, everyone? Did you have fun?
-Miku: I enjoyed it too♪ Thank you for watching.
+Miku (MMJ): I enjoyed it too♪ Thank you for watching.
 MEIKO: My year's off to a good start. I already got to see such an adorable show♪
 Shizuku: Hehe. I'm flattered to hear that.
 Haruka: On that topic, did you all come up with goals for this year?
@@ -41,7 +41,7 @@ Airi: Hmm, just thinking about that is making me want to introduce them to even 
 Airi: I've got it! I want to expand the variety of our stream segments, and if possible, add to our list of original tracks!
 MEIKO: Nice idea! It's like you're going beyond goals to dream bigger and better♪
 Minori: It's making me a little excited too!
-Miku: Hehe. What about you, Minori? What's your goal?
+Miku (MMJ): Hehe. What about you, Minori? What's your goal?
 Minori: There's no question of it! I'm going to stand by Haruka and everyone and spread hope to lots of people!
 Minori: Oh... Though that's less "my goal for the year" and more "my goal as an idol"...
 Haruka: It sounds fine to me. I think it's a lovely goal.
@@ -50,7 +50,7 @@ MEIKO: Hehe♪ Then, why don't you all bear your goals in mind while you sing th
 Minori: Yes, ma'am!
 Minori: Everyone, let's all have a fun time! Here we go!
 Minori: DREAM PLACE!
-(Exit: Miku)
+(Exit: Miku-MMJ)
 
 
 4 [MUSIC] 252: DREAM PLACE
@@ -62,23 +62,23 @@ Minori: DREAM PLACE!
 (Enter: Airi)
 (Enter: Shizuku)
 (Enter: MEIKO)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 Minori: Thank you for listening!
 Haruka: After kicking off the new year with a show in SEKAI, I'm feeling energized for the year ahead.
 Airi: Me too. Let's hold on to this energy for the next twelve months!
 Shizuku: Why don't we cap off our show with that thing? Miku and MEIKO, please join us!
-Miku: Okay!
+Miku (MMJ): Okay!
 MEIKO: Sure!
 Shizuku: More and more songs!
 Airi: More and more energy!
 Haruka: More and more hope!
 Minori: May our songs reach more, more, more people!
-Miku: "MORE MORE..."
+Miku (MMJ): "MORE MORE..."
 MEIKO: "MORE MORE..."
 Minori: "JUMP!"
 Haruka: "JUMP!"
 Airi: "JUMP!"
 Shizuku: "JUMP!"
-Miku: "JUMP!"
+Miku (MMJ): "JUMP!"
 MEIKO: "JUMP!"
 Minori: See you next time!

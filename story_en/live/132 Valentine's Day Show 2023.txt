@@ -13,7 +13,7 @@ Miku: Great! Let's go!
 
 (Enter: Kohane)
 (Enter: An)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: Rin)
 (Enter: MEIKO)
 (Enter: Luka)
@@ -25,25 +25,25 @@ Kohane: Yes. This is our little gift to you for always being there for us.
 An: We went a little above and beyond by baking chocolate fondant for you guys! Please warm it up at the cafe before digging in!
 Rin: Oh, I've seen this before! This is the thing where chocolate flows out from the inside, right?
 Luka: That's right. On top of being delicious, it's also fun when you break it open! A dessert that just keeps on giving♪
-Miku: That's amazing. This couldn't have been easy to bake.
+Miku (VBS): That's amazing. This couldn't have been easy to bake.
 Kohane: It was our first time trying, but all we really had to do was mix the ingredients and follow the recipe's instructions.
 Rin: Really?! I kinda want to try baking one now!
-Miku: Yeah, me too. I've developed an interest in baking and cooking recently.
+Miku (VBS): Yeah, me too. I've developed an interest in baking and cooking recently.
 An: "Really?"
 MEIKO: "Really?"
 Luka: Then, why don't I be the taste tester♪
 Kohane: Oh, in that case, I'll bring the recipe we used to make it since it was so easy to follow!
-Miku: Thanks. I really appreciate it...
+Miku (VBS): Thanks. I really appreciate it...
 MEIKO: A-Actually, I'm pretty interested in trying out that recipe as well! When you're about to give it a go, MAKE SURE you come to me first, okay?
-Miku: Yes, of course. I mean, we'll need to borrow your kitchen anyway, MEIKO.
+Miku (VBS): Yes, of course. I mean, we'll need to borrow your kitchen anyway, MEIKO.
 An: I guess they'll be okay as long as you're there with them, MEIKO...
 Kohane: Speaking of which, do you happen to know where Len and KAITO are? We made some chocolate fondant for them as well...
 Rin: Oh, I'll be meeting them after this! We made plans to practice together.
-Miku: I'll be joining them as well, so why don't we all meet up at MEIKO's place afterward?
+Miku (VBS): I'll be joining them as well, so why don't we all meet up at MEIKO's place afterward?
 Kohane: Okay, that sounds good.
-Miku: Got it. Then, we'll see you all later.
+Miku (VBS): Got it. Then, we'll see you all later.
 Rin: Thanks for the chocolate fondant! I'll be savoring every bite after practice!
-(Exit: Miku)
+(Exit: Miku-VBS)
 (Exit: Rin)
 (Enter: Akito)
 (Enter: Toya)

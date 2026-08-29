@@ -35,9 +35,9 @@ Rin: Bye now! See you at the cafe!
 (Exit: Rin)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Kohane: Ah! Shinonome, Aoyagi! You came with Miku?
-Miku: We bumped into each other just now. Good to see you too, Kohane and An.
+Miku (VBS): We bumped into each other just now. Good to see you too, Kohane and An.
 Kohane: Hi! We wanted to do some warm-ups before practice started.
 Akito: That'd better mean you're all good to go.
 An: What about you?
@@ -47,7 +47,7 @@ Akito: Of course we have. We're supposed to be a group. Although, it's still ent
 Kohane: Seriously?!
 An: Don't take him seriously. You're my singing partner and I couldn't have asked for anyone better! Be more confident!
 Kohane: I will! Thank you, An.
-Miku: Shall we start, then?
+Miku (VBS): Shall we start, then?
 An: Yes! Let's do it!
 
 
@@ -59,14 +59,14 @@ An: Yes! Let's do it!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Oh, that was so much fun! Feels like we were in way better form than usual, too!
 Toya: It felt like we were spurring each other on while singing.
 Akito: Yeah. But that's the least we should be able to do for each other as a team.
 Kohane: Um, everyone? I see a lot of lights over there. What are those?
 An: Hey, you're right! They're sparkling and swaying!
-Miku: Those are feeling sparks.
-Miku: Your song must have reached someone out there through SEKAI.
+Miku (VBS): Those are feeling sparks.
+Miku (VBS): Your song must have reached someone out there through SEKAI.
 Kohane: I see... I don't know who these people are, but I'm glad they liked our music.
 (Enter: MEIKO)
 MEIKO: Hey, there you are! Have a good practice?
@@ -78,4 +78,4 @@ MEIKO: Oh my. You don't like tomatoes?
 Akito: What the heck? You can't eat tomatoes at your age?
 Toya: You can't eat carrots either, Akito.
 Akito: Sh-Shut up, Toya!
-Miku: Hehe. Come on, everyone, let's all head over to MEIKO's cafe.
+Miku (VBS): Hehe. Come on, everyone, let's all head over to MEIKO's cafe.

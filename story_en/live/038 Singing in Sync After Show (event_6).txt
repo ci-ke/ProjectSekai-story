@@ -11,11 +11,11 @@ Kohane: Yes! All that practice has made us much better since the battle event fo
 An: That's right. We'll show everyone that we've moved on from then!
 Akito: They're finally starting to behave more like a team. Toya, let's give it all we've got too!
 Toya: Yes, of course.
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
 Kohane: Oh, Miku! MEIKO!
 MEIKO: After hearing about how hard you've all been practicing, I can't wait to see you in action today.
-Miku: Come on, show us what you got.
+Miku (VBS): Come on, show us what you got.
 Kohane: Okay, will do!
 An: Kohane, do you remember what I told you before?
 Kohane: Yes. When you're in danger of slipping up, I'll be the one to cover for you.
@@ -34,7 +34,7 @@ An: Let's start!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: I've never felt better!
 An: Hey everyone, are you feeling the heat?!
 An: Good... So that means our song did a great job pumping up everyone out there!
@@ -44,13 +44,13 @@ Akito: With us around, how could they not be?
 (Enter: MEIKO)
 MEIKO: You sang amazingly well, everyone! Leaps and bounds better than the last time we heard you.
 An: After losing at STAY GOLDEN, we've been practicing every day until night time, and I think our hard work paid off!
-Miku: Ah. That must be why your performance feels like it's one level higher than before.
+Miku (VBS): Ah. That must be why your performance feels like it's one level higher than before.
 An: One level higher, huh? The battle event has really helped us be able to face each other properly.
 An: And I think we've become true partners now.
 Kohane: I feel the same way. The event was the turning point. It made me want to put in even more effort so that I can be a fitting partner for An.
 An: Thank you, Kohane... Thanks for supporting me all this time!
 Kohane: And thank you for supporting me too, An!
-Miku: Hehe, keep at it, everyone.
+Miku (VBS): Hehe, keep at it, everyone.
 MEIKO: So, is anyone feeling thirsty? How about dropping by my cafe for a refreshing drink or two?
 An: That sounds great! Let's go!
 Kohane: Okay!

@@ -2,33 +2,33 @@
 
 1 [mc] mc_ev_band_06_1
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 (Enter: Len)
 (Enter: MEIKO)
 Rin: Yaaay!!
 Rin: Hey, Miku-P! How was my performance just now?!
-Miku: It was really good. You looked like you were having a lot of fun throughout the whole thing.
+Miku (Ln): It was really good. You looked like you were having a lot of fun throughout the whole thing.
 Rin: Really?! Yay!!
 Len: Good work, Rin.
 Rin: Yeah! I couldn't have done it without you helping me out with practice, Len! Thank you!
-Miku: But, what brought all of this on? I was kind of surprised when you suddenly declared that you wanted to perform for me.
+Miku (Ln): But, what brought all of this on? I was kind of surprised when you suddenly declared that you wanted to perform for me.
 Rin: Miku-P, you've always been taking the time to watch over everyone in SEKAI, right?
 Rin: I think it's amazing that even after Ichi and the girls go home, you're still working hard and practicing every day!
 Rin: That's why I wanted to put a smile on your face by performing for you, and show that we appreciate everything you've done for us!
-Miku: Rin...
+Miku (Ln): Rin...
 MEIKO: Hehe. What a thoughtful friend you have there.
-Miku: Yes... Well, if you feel that strongly about me, then would you at least refer to me with something other than Miku-P?
+Miku (Ln): Yes... Well, if you feel that strongly about me, then would you at least refer to me with something other than Miku-P?
 Rin: Whaaaat? No way! Besides Miku-P is Miku-P☆
-Miku: What does that even mean...
+Miku (Ln): What does that even mean...
 Rin: Hehe♪ Oh, I'm running late for my session with KAITO!
 Rin: I've gotta hurry!
-Miku: A session, huh? Sounds interesting. I think I'll go too.
+Miku (Ln): A session, huh? Sounds interesting. I think I'll go too.
 MEIKO: Have fun, you two.
 (Exit: Rin)
 Len: Oh geez... Well, there were a lot of things that happened, but I'm glad everything worked out in the end.
 Len: I wonder how Honami and the girls are doing, I mean...
-(Exit: Miku)
+(Exit: Miku-Ln)
 MEIKO: I don't think you need to worry about them. Those girls have a strong bond, so I'm sure they'll be fine.
 Len: I see... You're probably right.
 (Enter: Ichika)

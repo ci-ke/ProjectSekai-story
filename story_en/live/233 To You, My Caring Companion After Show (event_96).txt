@@ -67,7 +67,7 @@ Kanade: Sure. Um, Ms. Mochizuki and I put on wedding dresses and participated in
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Rin: ...and that's how they were able to get rid of the vampire, thanks to Hona holding her back!
 Saki: Wow...! That's so cool, Hona!
@@ -76,7 +76,7 @@ Ichika: Hehe. But it's great to hear that Kanade enjoyed herself.
 Honami: Oh... Yes!
 Shiho: And she even gave you a present. You said it was a bouquet, right? Where is it now?
 Honami: I have it set on my desk. It's so beautiful, and... I catch myself staring at it without realizing.
-Miku: I see. That must be because it's filled with this Ms. Yoisaki's feelings.
+Miku (Ln): I see. That must be because it's filled with this Ms. Yoisaki's feelings.
 Honami: Right...
 Honami: Looking at the flowers, I can tell she thought about me a lot when picking them out... And I feel this warmth build up in my chest.
 Rin: Wow, that's so sweet!
@@ -92,7 +92,7 @@ Rin: Just like Hona puts her whole heart into her work... This Ms. Yoisaki cares
 Ichika: Hehe. I'm sure Kanade has made Honami smile a lot, just like Honami has made her smile.
 Honami: That's true. Whenever she says she likes the food I make, or gives me a wonderful gift like she did the other day...
 Honami: Ms. Yoisaki makes me smile quite a lot!
-Miku: Hehe... I see. Honami, you look really refreshed. I bet you could sing a great song right now.
+Miku (Ln): Hehe... I see. Honami, you look really refreshed. I bet you could sing a great song right now.
 Honami: Oh... You may be right. Would you all mind singing with me?
 Ichika: That sounds good. Since we have an audience, let's show them our best singing.
 Honami: Thank you. Okay, here we go. Tale of the Deep-sea Lily.
@@ -107,7 +107,7 @@ Honami: Thank you. Okay, here we go. Tale of the Deep-sea Lily.
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Honami: Thank you for singing with me, everyone! I had so much fun!
 Honami: Rin, everyone, thank you for listening. I hope you were able to feel at least some of my gratitude.

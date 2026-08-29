@@ -12,10 +12,10 @@ KAITO: I know, right? Even I got kicked out.
 Akito: That's because you were snacking on it...
 (Enter: Kohane)
 (Enter: An)
-(Enter: Miku)
+(Enter: Miku-VBS)
 KAITO: Oh! Do you guys not have anything to do too?
-Miku: Yes. Rin and Len said that decorating the cake was their job and were very enthusiastic about it.
-Miku: MEIKO also learnt a new way to make marzipan, so she's having a fun time preparing it.
+Miku (VBS): Yes. Rin and Len said that decorating the cake was their job and were very enthusiastic about it.
+Miku (VBS): MEIKO also learnt a new way to make marzipan, so she's having a fun time preparing it.
 Toya: I see...
 Toya: Oh, by the way, when I went to greet them at the store earlier, Rin and Len showed me an illustration of the finished product, and it looked kind of amazing.
 An: Yeah. I mean, isn't it getting bigger and flashier by the minute?
@@ -35,13 +35,13 @@ Toya: It's because when I sing that song, it helps me know what I want to do.
 KAITO: What you want to do?
 Toya: Yes.
 Toya: I want to make an event bigger than RAD WEEKEND with Akito, Azusawa and Shiraishi.
-Miku: Hehe. That's because that song was born from that feeling, isn't it?
+Miku (VBS): Hehe. That's because that song was born from that feeling, isn't it?
 KAITO: I see. Sounds great! Intention is always the most important thing.
 An: Then it's settled! Let's sing!
 Kohane: Yeah!
 KAITO: Then, shall I...
 KAITO: Join in on the fun with you guys?
-Miku: Why not? We've all already gathered here anyway.
+Miku (VBS): Why not? We've all already gathered here anyway.
 Toya: Oh, that reminds me, we still haven't greeted the audience.
 Toya: Thank you for coming today, everyone.
 Toya: It's a little embarrassing to have so many people celebrate my birthday with me, but...
@@ -58,7 +58,7 @@ Toya: Please listen. Ready Steady
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: KAITO)
 Toya: Did everyone have a good time?
 Toya: I see. That's good to hear.
@@ -66,12 +66,12 @@ An: Hey, since we're all here, we should do that thing, right?
 Akito: Oh yes. That thing.
 Toya: Hmmm? What's the thing?
 KAITO: Wishing you a "Happy Birthday", of course!
-Miku: Is everyone ready?
+Miku (VBS): Is everyone ready?
 Akito: Seems like it. Alright, let's do it.
 Akito: Happy birthday Toya
 Kohane: "Happy birthday!"
 An: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (VBS): "Happy birthday!"
 KAITO: "Happy birthday!"
 Toya: Thank you.
 Toya: And thank you all, too.
@@ -79,7 +79,7 @@ Toya: I'm so happy that you've all shown me again that it's okay to do what I wa
 Toya: I'll never forget what happened today, and from tomorrow, I'll continue to do my best as Toya Aoyagi of Vivid BAD SQUAD.
 Toya: So I hope you'll keep watching over me.
 KAITO: Well... Shall we go check on them now?
-Miku: Is what you say, but don't you just want to go there to snack?
+Miku (VBS): Is what you say, but don't you just want to go there to snack?
 KAITO: I won't anymore. They got really angry before.
 Kohane: Hehe. I wonder how the cake turned out. I can't wait!
 Toya: Same.

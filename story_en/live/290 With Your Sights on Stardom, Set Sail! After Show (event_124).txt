@@ -2,7 +2,7 @@
 
 1 [mc] mc_ev_wonder_wl_01_1
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
 (Enter: Emu)
 Emu: Ad-ven-ture! Ex-plor-ing! Off we go to find new things♪
@@ -15,8 +15,8 @@ Emu: Oh, Miku! KAITO! Hi there♪
 KAITO: Hello. What are you all doing here?
 Tsukasa: We're planning to go exploring the new area. We couldn't take our time when we were chasing the phoenix.
 Nene: What about you two?
-Miku: The same as you! We were taking a walk around SEKAI!
-Miku: And then we found this place!
+Miku (WxS): The same as you! We were taking a walk around SEKAI!
+Miku (WxS): And then we found this place!
 Rui: Oh yes, I haven't seen this place before. To think it appeared so suddenly... SEKAI is full of surprises.
 Nene: Yeah. It feels silly to say it after all this time, but it's pretty wild that we talk to plushies.
 Emu: You're right! Also... It's a wonderful place where every day's exciting!
@@ -46,7 +46,7 @@ KAITO: What?
 Emu: Both of you, as well as Rin and Len and MEIKO and Luka, help us sooo much!
 Tsukasa: You're right. It's thanks to SEKAI...and more importantly Miku and the others, that I've come this far.
 Tsukasa: You have my thanks as always, Miku, KAITO!
-Miku: Hehehe, thank you everyone! And I'm grateful you're all here making every day exciting☆
+Miku (WxS): Hehehe, thank you everyone! And I'm grateful you're all here making every day exciting☆
 KAITO: Hahaha, I'm feeling a little awkward. But I'm also very glad to have met you all.
 KAITO: I hope you let us keep cheering you all on from the front row as you chase your dreams.
 Tsukasa: But of course!
@@ -54,7 +54,7 @@ Tsukasa: In fact... Why not right now?
 Emu: Yeah! Let's show appreciation for KAITO and all our other supporters with a song!
 Nene: Huh? This is so out of the blue...
 Nene: But... Oh, why not? I feel like singing anyway.
-Miku: Really?! Can I join you then?
+Miku (WxS): Really?! Can I join you then?
 Rui: Of course you can. Well then, let's begin.
 Tsukasa: Yes! Here we go...
 Tsukasa: Tonal Twinkle Tetrad!
@@ -69,9 +69,9 @@ Tsukasa: Tonal Twinkle Tetrad!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
-Miku: That was so fun! My heart was thumping and pounding with excitement!
+Miku (WxS): That was so fun! My heart was thumping and pounding with excitement!
 Emu: Hehehe, me too! Thanks for singing with us, Miku!
 KAITO: Well done, everyone. That was an excellent performance.
 Emu: Really?! Yaaay! Thank you!
@@ -90,5 +90,5 @@ Tsukasa: Wonderhoy!
 Emu: Wonderhoy!
 Nene: Wonderhoy!
 Rui: Wonderhoy!
-Miku: Wonderhoy!
+Miku (WxS): Wonderhoy!
 KAITO: Wonderhoy!

@@ -33,7 +33,7 @@ Miku: I guess the others are looking up at the sky and making wishes right about
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Len)
 Honami: Oh, over there! A shooting star!
 Saki: You're right! Straight As, straight As, straight As!
@@ -43,7 +43,7 @@ Saki: I was thinking if I wish upon on a shooting star, the stuff I studied migh
 Ichika: I don't think the Star Festival can help you out there...
 Honami: "Hehe."
 Shiho: "Hehe."
-Miku: "Hehe."
+Miku (Ln): "Hehe."
 Len: What about everyone else? Honami? Do you have any Star Festival wishes?
 Honami: Hmm... I guess I'd like to wish to be more confident in anything I take on.
 Saki: You don't need to wish for that! I know you can be confident by yourself. Hang on... You're not trying to be on par with my brother, are you?!
@@ -51,23 +51,23 @@ Shiho: Please don't become like that...
 Shiho: This isn't a wish so much as my goal, but I want bigger turnouts at our shows.
 Shiho: That way, more and more people can hear our music.
 Ichika: Mine is also more like a goal. I want to try my hand at new things.
-Miku: New things?
+Miku (Ln): New things?
 Ichika: There's something I'm hoping to make happen... It's kind of a work in progress.
-Miku: Ooh. I'm excited to see how it turns out! Good luck, Ichika!
+Miku (Ln): Ooh. I'm excited to see how it turns out! Good luck, Ichika!
 Ichika: Thanks.
 Ichika: What about you two? Do you have wishes?
-Miku: Of course.
-Miku: My wish is to keep playing and singing with you all.
+Miku (Ln): Of course.
+Miku (Ln): My wish is to keep playing and singing with you all.
 Ichika: Miku...
 Len: Hahaha. I was going to say that too, but you beat me to the punch.
-Miku: Well, why don't we make it come true now?
+Miku (Ln): Well, why don't we make it come true now?
 Len: What?
 Saki: Yeah! Len, let's sing now!
 Shiho: You practiced a song with us just yesterday, right? Why don't we sing that?
 Honami: That's right! How about it, Len?
 Len: I certainly can't say no to an invitation to play. Okay, let's do it!
 Len: STAGE OF SEKAI!
-(Exit: Miku)
+(Exit: Miku-Ln)
 
 
 4 [MUSIC] 159: STAGE OF SEKAI
@@ -78,11 +78,11 @@ Len: STAGE OF SEKAI!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Len)
-Miku: Good work you guys! How was it, Len?
+Miku (Ln): Good work you guys! How was it, Len?
 Len: How was it? It was the best, of course! Moments like this are why I love being in a band.
 Len: Thank you for inviting me!
 Saki: Hehehe. You're very welcome♪
 Ichika: Miku, Len, let's keep singing together for a long time.
-Miku: Looking forward to it!
+Miku (Ln): Looking forward to it!

@@ -6,7 +6,7 @@
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Ichika: Okay, shall we start? Ready...
 Ichika: "Happy New Year!"
@@ -14,12 +14,12 @@ Saki: "Happy New Year!"
 Honami: "Happy New Year!"
 Shiho: "Happy New Year!"
 Honami: Miku and Luka, here's to another good year ahead for you!
-Miku: Yes. For all of us!
+Miku (Ln): Yes. For all of us!
 Saki: Let's play our FSotNY now!
 Luka: Our what?
 Shiho: That's just an abbreviation that Saki made up. Short for "first song of the new year."
 Saki: Yup! And we have to play it while wishing hard for all four of us to continue with the band this year too!
-Miku: Hehe. Saki's always full of fun ideas.
+Miku (Ln): Hehe. Saki's always full of fun ideas.
 Ichika: I agree.
 Ichika: Well, is everyone ready? Then let's play!
 
@@ -32,7 +32,7 @@ Ichika: Well, is everyone ready? Then let's play!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Did you like our performance, everyone out there?
 Honami: I think they did. That's great.
@@ -57,11 +57,11 @@ Ichika: And I hope all of you out there will enjoy the song too. Okay, let's sta
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Luka)
 Saki: Thanks for listening to our song!
 Luka: Hehe. Would you like to say something to everyone gathered here to hear you sing today?
-Miku: Oh, that's a good idea!
+Miku (Ln): Oh, that's a good idea!
 Ichika: Yes, we should.
 Ichika: Thank you for coming here to listen to us today.
 Ichika: Although I don't know how the new year will turn out, I do know that I'll keep pressing on with the band.

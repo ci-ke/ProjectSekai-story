@@ -6,10 +6,10 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mafuyu: Looks like a lot of people are already here...
 Mizuki: Oh, you're right. You're all here to celebrate Miku's anniversary, right?
-Miku: So many people came... This feels makes me happy...
+Miku (N25): So many people came... This feels makes me happy...
 Ena: I guess it'll be a lively celebration with this many people.
 Kanade: Yeah. I think it's time we should do the honors.
 Kanade: Alright, ready?
@@ -17,31 +17,31 @@ Kanade: Miku, happy anniversary.
 Ena: "Happy anniversary!"
 Mizuki: "Happy anniversary!"
 Mafuyu: Happy anniversary.
-Miku: *Nod* Thank you.
-Miku: Thank you to all of you who came too.
+Miku (N25): *Nod* Thank you.
+Miku (N25): Thank you to all of you who came too.
 Mizuki: We'll be having some cake with Rin and the others... But is there anything in particular you want, Miku?
-Miku: Anything I want?
+Miku (N25): Anything I want?
 Ena: Anything you want. You've done a lot for us too, Miku. So in occasions like this we'd like to give something back.
 Kanade: Oh... If not, you can ask us for a favor instead.
-Miku: Hmm... So, anything is okay?
+Miku (N25): Hmm... So, anything is okay?
 Kanade: Yeah. What is it?
-Miku: In that case... I want all of you to smile more...
+Miku (N25): In that case... I want all of you to smile more...
 Mafuyu: What?
-Miku: When I see all of you smile... It gets warmer here...
+Miku (N25): When I see all of you smile... It gets warmer here...
 Kanade: That's...
-Miku: Yes... I know it will be difficult to do that... But until it comes true, that is what I will always be wishing for...
+Miku (N25): Yes... I know it will be difficult to do that... But until it comes true, that is what I will always be wishing for...
 Mafuyu: Miku...
-Miku: Everyone... May I...sing with these feelings in mind?
+Miku (N25): Everyone... May I...sing with these feelings in mind?
 Ena: Of course. It's your anniversary today, so you can do anything you want, Miku.
 Mizuki: Yup, exactly. And all of us here will be right there to cheer you on. Right, everyone?
-Miku: Thank you...
+Miku (N25): Thank you...
 Mafuyu: Miku... May I sing with you?
-Miku: Huh?
+Miku (N25): Huh?
 Mafuyu: I...don't think I'll be able to make your wish come true right now, but... I can at least sing.
-Miku: Mafuyu... Thank you...
+Miku (N25): Mafuyu... Thank you...
 Kanade: In that case, I'd like to join too...
 Kanade: Through our ups and downs, you've always been there for us. That's why today, I want to have a better understanding of your feelings, Miku.
-Miku: Okay... Thank you, Kanade. Well then, let's sing.
+Miku (N25): Okay... Thank you, Kanade. Well then, let's sing.
 
 
 2 [MUSIC] 67: Jishoumushoku
@@ -52,16 +52,16 @@ Miku: Okay... Thank you, Kanade. Well then, let's sing.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
-Miku: Thank you for listening, everyone...
-Miku: Kanade.
-Miku: Mafuyu.
-Miku: Ena.
-Miku: Mizuki.
-Miku: I will be waiting for the day my wish comes true... But you don't have to push yourselves...
+(Enter: Miku-N25)
+Miku (N25): Thank you for listening, everyone...
+Miku (N25): Kanade.
+Miku (N25): Mafuyu.
+Miku (N25): Ena.
+Miku (N25): Mizuki.
+Miku (N25): I will be waiting for the day my wish comes true... But you don't have to push yourselves...
 Mafuyu: Okay...
 Kanade: Thank you, Miku.
-Miku: Thank you for coming to celebrate with me, everyone. See you next time...
+Miku (N25): Thank you for coming to celebrate with me, everyone. See you next time...
 
 
 4 [mc] mc_bd_2022miku_3

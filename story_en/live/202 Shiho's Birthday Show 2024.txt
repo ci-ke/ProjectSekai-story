@@ -8,17 +8,17 @@ Shiho: Huh? W-What's going on!
 (Enter: Honami)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Miku)
-Miku: Shiho!
+(Enter: Miku-Ln)
+Miku (Ln): Shiho!
 Ichika: "Happy birthday!"
 Saki: "Happy birthday!"
 Honami: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (Ln): "Happy birthday!"
 Shiho: Thank you, everyone.
 Shiho: Anyway, you really got me good... Don't tell me, that's the reason you invited me all the way to SEKAI?
-Miku: Sorry, Shiho. Everyone told me how the surprise party was such a big success, so I wanted to do something unique to celebrate.
+Miku (Ln): Sorry, Shiho. Everyone told me how the surprise party was such a big success, so I wanted to do something unique to celebrate.
 Ichika: I'm glad it worked out, Miku. We managed to surprise Shiho.
-Miku: Yeah. Thank you all for helping with the surprise.
+Miku (Ln): Yeah. Thank you all for helping with the surprise.
 Shiho: But to think that such a silly prank would be enough to scare me like that...
 Ichika: It's a good thing we did something simple. You would've figured it out if we went with something more elaborate.
 Saki: Yeah!
@@ -30,8 +30,8 @@ Ichika: "Hehe." "Hahaha."
 Saki: "Hehe." "Hahaha."
 Honami: "Hehe." "Hahaha."
 Shiho: "Hehe." "Hahaha."
-Miku: Hehe, this is nice. I can really feel the bond between you all.
-Miku: Hey, since so many people are here to celebrate Shiho's birthday, how about we all sing together?
+Miku (Ln): Hehe, this is nice. I can really feel the bond between you all.
+Miku (Ln): Hey, since so many people are here to celebrate Shiho's birthday, how about we all sing together?
 Shiho: That sounds like a good idea. Is everyone on board?
 Ichika: Of course!
 Shiho: You all ready?
@@ -46,7 +46,7 @@ Shiho: Okay, here we go. needLe!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Shiho: Thanks for listening, everyone.
 Shiho: I'm going to keep doing my best so that we can achieve our dream together.
 Shiho: So I'll be counting on your support.
@@ -56,4 +56,4 @@ Shiho: What was that? You sounded like Tsukasa. Anyway, just don't do that at li
 Saki: W-What?!
 Ichika: "Hehehe."
 Honami: "Hehehe."
-Miku: "Hehehe."
+Miku (Ln): "Hehehe."

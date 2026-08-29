@@ -2,34 +2,34 @@
 
 1 [mc] mc_bd_2022honami_1
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Honami)
-Miku: I'm excited to see how the decorations turn out for the party venue.
+Miku (Ln): I'm excited to see how the decorations turn out for the party venue.
 Honami: Me too. I knew that Ichika and the others were making flower and star decorations and finding many old photos of us.
 Honami: But to think that was all for the party decorations? I was so surprised.
 Honami: I wonder what it will look like... My heart's racing.
-Miku: With those three, you can be sure they'll pull off just the sort of thing you hoped for.
+Miku (Ln): With those three, you can be sure they'll pull off just the sort of thing you hoped for.
 Honami: You're right! Hehe, I'm so excited.
-Miku: By the way, how are you, Honami? Have you had a good year?
+Miku (Ln): By the way, how are you, Honami? Have you had a good year?
 Honami: I have. Every day felt so fulfilling, and yet so much went by in the blink of an eye.
 Honami: We started performing at shows, spending more time practicing, trying our hand at writing our own songs and working hard on selling tickets.
 Honami: It was a year of putting everything into whatever task was put in front of me.
-Miku: Sounds about right. Just recently, you had some intense training to prove that Saku person wrong.
+Miku (Ln): Sounds about right. Just recently, you had some intense training to prove that Saku person wrong.
 Honami: Hehe. Yes, that was a very intense month.
 Honami: Shiho was so serious about performing then. I wanted so badly to keep up with her that I practiced really intensely...
-Miku: And you got really buff and cracked your drumsticks.
+Miku (Ln): And you got really buff and cracked your drumsticks.
 Honami: Hah! You're starting to sound like Saki, Miku.
 Honami: "Hehe."
-Miku: "Hehe."
-Miku: I think you've grown a lot, Honami. Not just as a performer, but as a person too.
+Miku (Ln): "Hehe."
+Miku (Ln): I think you've grown a lot, Honami. Not just as a performer, but as a person too.
 Honami: Oh, really?
-Miku: Yeah. Like you just said, a bunch of stuff happened between you and Shiho over ticket quotas right?
-Miku: I don't know if that's what started it, but you seem less constrained somehow.
-Miku: Don't you feel like you've changed a little?
+Miku (Ln): Yeah. Like you just said, a bunch of stuff happened between you and Shiho over ticket quotas right?
+Miku (Ln): I don't know if that's what started it, but you seem less constrained somehow.
+Miku (Ln): Don't you feel like you've changed a little?
 Honami: I...
 Honami: I think I'm braver than before. I can express my thoughts and feelings better now.
-Miku: I'm happy that you can recognize it for yourself, Honami.
-Miku: Oh... Look, Honami. All these people are here to celebrate you.
+Miku (Ln): I'm happy that you can recognize it for yourself, Honami.
+Miku (Ln): Oh... Look, Honami. All these people are here to celebrate you.
 Honami: Huh...
 Honami: Woah! Y-You're right! Um... Hello!
 Honami: So many people have shown up...! I'm so happy! Thank you...!
@@ -40,7 +40,7 @@ Honami: I wonder how can I show you my gratitude...
 Saki: Hona, we're ready now! We've been making a Special Birthday Version of the classroom for you!
 Honami: Oh, what good timing! Would you guys mind if we did a small performance?
 Ichika: Huh, a performance?
-Miku: We were just saying hello to all these people who've shown up for Honami's birthday.
+Miku (Ln): We were just saying hello to all these people who've shown up for Honami's birthday.
 Honami: And I was thinking we could perform for them. What do you think?
 Saki: Cool idea! Let's do it!
 Ichika: Yeah. I'd also like to say thank you to everyone who's come here for Honami.
@@ -52,7 +52,7 @@ Honami: Let's go! Lost and Found!
 (Exit: Saki)
 (Exit: Honami)
 (Exit: Shiho)
-(Exit: Miku)
+(Exit: Miku-Ln)
 
 
 2 [MUSIC] 226: Lost and Found
@@ -63,12 +63,12 @@ Honami: Let's go! Lost and Found!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Honami: Thank you for listening, everyone!
 Honami: I think having an audience really does help you perform with feeling.
 Ichika: You're right.
 Saki: Oh, hang on! Have we said "happy birthday" yet? If not, let's all say it together♪
-Miku: I guess we haven't, have we? Saki, why don't you do the honors?
+Miku (Ln): I guess we haven't, have we? Saki, why don't you do the honors?
 Saki: With pleasure♪ Heeey, everybody!
 Shiho: She really is full of energy at times like this...
 Ichika: Hehe. That's our Saki for you.
@@ -76,7 +76,7 @@ Saki: Okaaay, are you ready?! All together!
 Saki: Ready... Go!
 Saki: Happy birthday, Hona!
 Ichika: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (Ln): "Happy birthday!"
 Shiho: Ha... Happy birthday...
 Honami: Thank you everyone!
 Honami: And thank you to all of you in the audience!
@@ -84,7 +84,7 @@ Saki: Hey, c'mon Shiho! Say it right: "Happy birthday!"
 Shiho: I could say the same to you, Saki. Why are you making us say it in English?
 Saki: I dunno, I just felt like saying it that way♪
 Shiho: And...?
-Miku: It doesn't make a difference, right? You could say it either way.
+Miku (Ln): It doesn't make a difference, right? You could say it either way.
 Ichika: I actually get what Shiho means...I also hesitated for a second.
 Saki: What?! Hona, you prefer it my way, right?
 Honami: Hehe, I guess so.

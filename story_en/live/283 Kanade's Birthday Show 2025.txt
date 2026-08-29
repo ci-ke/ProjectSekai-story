@@ -6,19 +6,19 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
-Miku: Welcome, everyone.
+(Enter: Miku-N25)
+Miku (N25): Welcome, everyone.
 Ena: We know you just got here, but is everyone ready to wish Kanade a happy birthday?
 Mizuki: Okay then, on three! One, two, three!
 Ena: Happy birthday, Kanade!
 Mizuki: Happy birthday, Kanade!
 Mafuyu: Happy birthday.
-Miku: Happy birthday.
+Miku (N25): Happy birthday.
 Kanade: Wow... I can't believe it... To think so many people would wish me a happy birthday...
 Kanade: Thank you, everyone...
 Mafuyu: Oh...
 (Enter: KAITO)
-Miku: KAITO?
+Miku (N25): KAITO?
 KAITO: I thought it sounded pretty noisy over here. So it was you lot.
 Mizuki: Welcome! Come celebrate with us, KAITO!
 KAITO: Celebrate...?
@@ -33,11 +33,11 @@ Mizuki: That's perfect! It's a good way to celebrate, and everybody here will en
 Ena: If you want to do it, Kanade, I'll join you.
 Mafuyu: I don't mind either...
 Kanade: Everyone...
-Miku: I also want to know how you feel now... Good luck, Kanade.
+Miku (N25): I also want to know how you feel now... Good luck, Kanade.
 Kanade: Thanks, Miku.
 Kanade: Okay, let's all sing.
 Kanade: Here we go. Passion at 25:00.
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 2 [MUSIC] 409: Passion at 25:00
@@ -48,11 +48,11 @@ Kanade: Here we go. Passion at 25:00.
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: KAITO)
 Kanade: Thanks for listening, everyone.
-Miku: I felt it, Kanade.
-Miku: How much you love music, how much you want to treasure your feelings...
+Miku (N25): I felt it, Kanade.
+Miku (N25): How much you love music, how much you want to treasure your feelings...
 KAITO: Right.
 KAITO: Don't lose that, and don't forget it either. It'd be a pain to have to remind you again.
 (Exit: KAITO)

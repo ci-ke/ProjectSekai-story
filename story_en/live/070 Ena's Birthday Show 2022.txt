@@ -2,15 +2,15 @@
 
 1 [mc] mc_bd_2021ena_1
 
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 (Enter: MEIKO)
 Rin: Oh. It's Ena's birthday.
-Miku: Yes. I think everyone will be here soon. So why don't we celebrate together?
+Miku (N25): Yes. I think everyone will be here soon. So why don't we celebrate together?
 MEIKO: I'd rather be in a position where I can watch over those girls, so I'll be over there watching them.
 MEIKO: Tell them I said hello. See you later.
 Rin: Oh... There she goes...
-Miku: What should we do, Rin?
+Miku (N25): What should we do, Rin?
 Rin: Huh? What do you mean?
 (Exit: MEIKO)
 (Enter: Ena)
@@ -34,7 +34,7 @@ Mizuki: Alright, here goes!
 Mizuki: Happy birthday, Ena!
 Kanade: "Happy birthday!"
 Mafuyu: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (N25): "Happy birthday!"
 Rin: Happy birthday.
 Ena: Thank you. And thank you too, everyone.
 Rin: If this is it, I'm going to go...
@@ -69,7 +69,7 @@ Ena: Close to gray!
 (Enter: Ena)
 (Enter: Mizuki)
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 Ena: *Sigh* Wow, what a strange feeling.
 Ena: When I sing that song, I can somewhat accept those feelings of frustration and annoyance.
 Mafuyu: That's good to hear.
@@ -86,7 +86,7 @@ Mafuyu: Either way, you're still getting someone to buy it.
 Ena: Stop making me sound bad. It's fine! It's my birthday!
 Kanade: Hehe. That's true.
 Ena: Thanks for hanging out with us, Miku, Rin.
-Miku: Yes. It was fun.
+Miku (N25): Yes. It was fun.
 Rin: I guess it helped pass time.
 Ena: Hehe. Whatever you say.
 Ena: Thanks for today too, everyone!

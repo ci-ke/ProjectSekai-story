@@ -27,10 +27,10 @@ Saki: Yup! Our teacher yammered on for so long that my brain started turning int
 Honami: Same with ours! Sorry about the wait, Shiho.
 Honami: I wish our teacher would get straight to the point like yours, Shiho.
 Shiho: I mean, every teacher's different and it's not something we can control.
-(Enter: Miku)
-Miku: Oh, KAITO, there you are!
+(Enter: Miku-Ln)
+Miku (Ln): Oh, KAITO, there you are!
 Ichika: Miku!
-Miku: Hey, everyone! I didn't realize you were here, KAITO. I was thinking about asking you to help me work on something.
+Miku (Ln): Hey, everyone! I didn't realize you were here, KAITO. I was thinking about asking you to help me work on something.
 KAITO: Oh, um... I thought it'd be nice to get some fresh air.
 Shiho: Since we're all here now, why don't we head over to the classroom to start practicing?
 Honami: Okay!
@@ -43,7 +43,7 @@ Saki: Yeah! Let's do it!
 KAITO: Sounds good. I'd love to hear it....
 Saki: You're welcome to join us too, KAITO.
 KAITO: Oh, I'd rather...
-Miku: Then, why don't I play with you girls instead...?
+Miku (Ln): Then, why don't I play with you girls instead...?
 KAITO: That'd be much better. Thank you, Miku.
 Shiho: Alright, let's go...!
 
@@ -56,7 +56,7 @@ Shiho: Alright, let's go...!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: KAITO)
 Shiho: Hehe... Thanks, everyone.
 Shiho: I'm glad that I didn't give up.
@@ -71,7 +71,7 @@ Ichika: You have a very... Unique of idea what makes something cool...
 Honami: Is she taking after Tsukasa too much...?
 Shiho: A fancy house is nice to look at, but we still need to build its foundation. Capeesh?
 KAITO: Hehe...
-Miku: Shiho seems happy.
+Miku (Ln): Shiho seems happy.
 KAITO: Yes. You can tell from her expression.
 Shiho: Oh, that reminds me...
 Shiho: Thank you for listening today, everyone. Seeing you all here always motivates us to perform at our best...
@@ -81,7 +81,7 @@ KAITO: Oh... Mind if I join you?
 Shiho: Huh?
 KAITO: Your performance was so amazing that I feel like playing with you now...
 Shiho: Of course. We'd love to have you.
-Miku: Hehe. Then, let's do our best today too!
+Miku (Ln): Hehe. Then, let's do our best today too!
 Ichika: "Yeah!"
 Honami: "Yeah!"
 Saki: "Yeah!"

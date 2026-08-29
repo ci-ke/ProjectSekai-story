@@ -6,15 +6,15 @@
 (Enter: Saki)
 Saki: Oh, there she is! Ichi!
 (Enter: Honami)
-Miku: So this is where you've been.
+Miku (Ln): So this is where you've been.
 Honami: Sorry for the wait. The birthday party preparations are almost complete.
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Ichika: Okay, thanks.
 Shiho: Even though it's your party, we kind of left you waiting, huh?
 Ichika: It's fine! I've been wanting to do some stargazing anyway.
 Ichika: The stars here... I find myself wanting to look at them a lot. Especially when I'm trying to make a big decision.
-Miku: A big decision? So right now, you're...
+Miku (Ln): A big decision? So right now, you're...
 Ichika: Yeah.
 Ichika: We just signed with a label and now we're going to be a professional band.
 Ichika: I know our debut and the time when our music will reach lots of people is still ahead of us...
@@ -24,11 +24,11 @@ Shiho: I'm sure we'll get to play at venues we never got to before.
 Honami: Yes. I'd love if we could build up more experiences like that over time and grow into even better versions of ourselves.
 Saki: Oh! That's another way to look at finding a new self!
 Saki: Hehehe, that sounds pretty cool!
-Miku: Yeah, it does.
-Miku: Hey, do you feel like playing a little something?
+Miku (Ln): Yeah, it does.
+Miku (Ln): Hey, do you feel like playing a little something?
 Ichika: Hm? Right now?
-Miku: Yes. I want to experience what you're all feeling right now.
-Miku: So we can keep walking side by side into this new future together.
+Miku (Ln): Yes. I want to experience what you're all feeling right now.
+Miku (Ln): So we can keep walking side by side into this new future together.
 Ichika: Miku...
 Saki: I'm in! Let's do it, you guys!
 Shiho: I don't mind playing, but what song should we do?
@@ -46,12 +46,12 @@ Ichika: needLe!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 Honami: Ahh, that felt like a great performance!
-Miku: Yeah. I could feel your emotions coming through every note and lyric.
-Miku: I got really fired up playing with all of you.
+Miku (Ln): Yeah. I could feel your emotions coming through every note and lyric.
+Miku (Ln): I got really fired up playing with all of you.
 Ichika: Really? I'm so glad...
-Miku: Oh, check it out. It looks like everyone came to join us!
+Miku (Ln): Oh, check it out. It looks like everyone came to join us!
 Saki: Whoa, they did! Hey you guys♪
 Honami: I wonder if they're here to celebrate Ichika's birthday!
 Shiho: Does that sound right to you guys?
@@ -60,7 +60,7 @@ Saki: Okay, here we go! One, two...!
 Saki: Happy birthday, Ichi! Happy birthday, Ichika!
 Honami: Happy birthday, Ichi! Happy birthday, Ichika!
 Shiho: Happy birthday, Ichi! Happy birthday, Ichika!
-Miku: Happy birthday, Ichi! Happy birthday, Ichika!
+Miku (Ln): Happy birthday, Ichi! Happy birthday, Ichika!
 Ichika: Thanks, you guys!
 Ichika: And thank you, everyone!
 Ichika: You might know already, but Leo/need is going pro.

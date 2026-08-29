@@ -4,7 +4,7 @@
 
 2 [mc_timeline] mc_ev_shuffle_53_1
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
 (Enter: Shiho)
@@ -13,14 +13,14 @@ Saki: Thanks for listening, everyone!
 Honami: You were in great form today, Saki.
 Ichika: Yeah... I had the same thought.
 Saki: Wait, really?!
-Miku: Your sound had this bouncy quality to it.
+Miku (Ln): Your sound had this bouncy quality to it.
 Shiho: Anything good to report?
 Saki: Heh heh heh... Actually, my hair came out super great today!
 Ichika: Your...
 Honami: Hair...?
 Saki: Huh? You guys can't tell?!
 Saki: Miku! Did my hair get all frizzy or anything?!
-Miku: It's styled perfectly, as always.
+Miku (Ln): It's styled perfectly, as always.
 Saki: Oh, what a relief! I thought I performed all frizzed up...
 Shiho: We were just surprised to hear that was your reason.
 Ichika: But it's also very you, Saki.
@@ -43,7 +43,7 @@ Ichika: Yeah, maybe you're right.
 4 [mc_timeline] mc_ev_shuffle_53_2
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
@@ -58,10 +58,10 @@ Kanade: But this let me learn how my music comes across to Tenma.
 Kanade: I got to have all kinds of new experiences, so I'm glad I agreed to do it.
 Ena: Hehe, I see.
 Mizuki: I'm happy for you, Kanade.
-Miku: Modeling...
+Miku (N25): Modeling...
 Mafuyu: Miku?
-Miku: I want to see the pictures of you modeling, Kanade.
-Miku: I heard they were very pretty.
+Miku (N25): I want to see the pictures of you modeling, Kanade.
+Miku (N25): I heard they were very pretty.
 Mizuki: Huh? Who'd you hear that fr—
 (Enter: Rin)
 Rin: Miku... There you are.
@@ -86,4 +86,4 @@ Kanade: It's rare to see me wearing anything other than sweats, and that's why p
 Ena: Sure, that's part of it, but we also just want to see!
 Mizuki: You don't understand your own potential... That is like you, though.
 Rin: Let's look together later, Miku. I want to see again.
-Miku: Okay.
+Miku (N25): Okay.

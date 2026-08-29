@@ -2,7 +2,7 @@
 
 1 [mc] mc_bd_2024emu_1
 
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: Emu)
 Emu: *Sigh* I'm pooped!
 (Exit: Emu)
@@ -13,12 +13,12 @@ Nene: We've been training really hard, after all...
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-Miku: Ah! You're all here☆
-Miku: Hmmm? You all look exhausted.
+Miku (WxS): Ah! You're all here☆
+Miku (WxS): Hmmm? You all look exhausted.
 Rui: Yes, well, today was cardio day, so we've been running since morning.
 Tsukasa: Sorry we're late after you kindly invited us. Emu and I got into a heated contest...
-Miku: I see! Well, don't worry about that☆ Look!
-Miku: While you were busy, aaaaaaaall these people showed up to celebrate Emu's birthday☆
+Miku (WxS): I see! Well, don't worry about that☆ Look!
+Miku (WxS): While you were busy, aaaaaaaall these people showed up to celebrate Emu's birthday☆
 Emu: Huh? Oh, wow! They really diiid!
 Nene: Look at all of them... Isn't that great, Emu?
 Emu: Yeah! Hehe, thanks for coming to see me♪
@@ -29,7 +29,7 @@ Emu: Hehehe, they all sound energetic!
 Rui: They certainly do. But not as much as you, Emu.
 Nene: It's like you have even more energy than before we started practice.
 Emu: Well... Ahem! With all this cheer in the air, I'm currently a million times more wonderhoy♪
-Miku: A million?! That's amazing! You're so fierce! Roooar!
+Miku (WxS): A million?! That's amazing! You're so fierce! Roooar!
 Emu: I know, right! It makes me want to grooowl!
 Tsukasa: Enough with the animal sounds!
 Rui: It's amazing how quickly you perked right back up after being so exhausted.
@@ -37,7 +37,7 @@ Tsukasa: I suppose mindset is part of it, but it's also proof that we're fitter 
 Emu: Mr. Kijima's training routine is really helping! I feel like I can keep on moving forever!
 Emu: I do get hungrier than I used to, though.
 Nene: Oh, so do I. I'm hungry now, actually...
-Miku: In that case, have no fear! We made a whole ton of food and cake for you☆
+Miku (WxS): In that case, have no fear! We made a whole ton of food and cake for you☆
 Emu: Really?! Wow, thanks! Time to stuff our faces!
 Tsukasa: Hm? In that case... Emu, Miku, Nene, Rui! Why don't we exercise just a little bit more?
 Nene: Huh? You mean...
@@ -57,10 +57,10 @@ Emu: Are you all ready? Here we go!! Tonal Twinkle Tetrad!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 Emu: Thank you so much for cheering us on so energetically, everyone!
 Emu: Whew, now I'm starving!
-Miku: Everything will taste even better after all that exercise☆
+Miku (WxS): Everything will taste even better after all that exercise☆
 Nene: Haha, I guess so.
 Emu: Alright, let's head to the party—
 Rui: Aren't you forgetting something, Emu?
@@ -69,7 +69,7 @@ Tsukasa: Oh, you're right there! Come on, everyone! Say it loud!
 Rui: Is everyone ready? Put your hearts into it. Happy birthday, Emu!
 Tsukasa: Happy birthday!
 Nene: Happy birthday!
-Miku: Happy birthday!
+Miku (WxS): Happy birthday!
 Emu: Thank you all so much! Hehe, I got another biiig boost!
 Emu: I'm gonna keep eating lots, sleeping great and having tons of energy to do shows!
 Emu: All so I can keep bringing everyone smiles!
@@ -77,5 +77,5 @@ Emu: So be sure to come to all our shows! We'll leave you smiling, I promise!
 Nene: Emu's right.
 Tsukasa: Yes. We also need to eat and rest plenty in order to work harder than ever before!
 Emu: Okay! Let's go eat our fill!
-Miku: Yeah!
+Miku (WxS): Yeah!
 Emu: Bye bye, everyone! Let's meet again, full of energy and joy!

@@ -3,16 +3,16 @@
 1 [mc] mc_ev_band_18_1
 
 (Enter: Ichika)
-(Enter: Miku)
-Miku: Got it... So, you decided to do the collaboration.
+(Enter: Miku-Ln)
+Miku (Ln): Got it... So, you decided to do the collaboration.
 Ichika: Yeah. My mind was really going in circles, but what you said made one thing clear.
 Ichika: If we're making a song with that theme, I want you to sing it too.
-Miku: I see... I'm glad to hear that.
+Miku (Ln): I see... I'm glad to hear that.
 Ichika: If you hadn't been there, I might've been stuck going in circles...
 Ichika: So... Thank you, Miku.
-Miku: Don't mention it. I didn't say anything profound.
-Miku: Still... I'm happy too.
-Miku: Let me know when the song's finished. We can sing it together.
+Miku (Ln): Don't mention it. I didn't say anything profound.
+Miku (Ln): Still... I'm happy too.
+Miku (Ln): Let me know when the song's finished. We can sing it together.
 Ichika: Yeah...!
 (Enter: Saki)
 Saki: Oh, there they are! Ichi, Miku!
@@ -28,12 +28,12 @@ Len: What were you two talking about?
 Ichika: Oh, so... Miku actually talked me through the reservations I had about the collaboration offer. I was just thanking her again.
 Saki: So that's how it went down...! Thanks from me too, Miku!
 Honami: Thank you, Miku.
-Miku: Wait, you girls too?
+Miku (Ln): Wait, you girls too?
 Len: Haha, guess you really are their reliable senior.
-Miku: Len, stop...
+Miku (Ln): Len, stop...
 Shiho: Still, I want to thank you too. I don't know if we would've been enough to help her figure things out.
-Miku: I don't need thanks or anything... But if that's how you feel, then let me sing a song with you guys.
-Miku: I'm kind of feeling that urge to sing.
+Miku (Ln): I don't need thanks or anything... But if that's how you feel, then let me sing a song with you guys.
+Miku (Ln): I'm kind of feeling that urge to sing.
 Ichika: Miku...!
 Ichika: Of course, I'd love to sing together.
 Len: Then, I'll be listening over there. Give me something good, alright?
@@ -46,7 +46,7 @@ Ichika: Yeah! Okay, here we go... the WALL!
 
 3 [mc_timeline] mc_ev_band_18_2
 
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Len)
 (Enter: Ichika)
 (Enter: Saki)
@@ -59,10 +59,10 @@ Ichika: This whole thing got me thinking.
 Ichika: Miku is very dear to my heart... No one could ever take her place.
 Ichika: So, the thought of being connected to her through song... It makes me really happy.
 Ichika: Thank you for singing with me, Miku.
-Miku: Ichika...
-Miku: I'm happy too.
-Miku: Ichika, everyone...
-Miku: Can I keep singing with you like this?
+Miku (Ln): Ichika...
+Miku (Ln): I'm happy too.
+Miku (Ln): Ichika, everyone...
+Miku (Ln): Can I keep singing with you like this?
 Shiho: Do you need to ask?
 Saki: It's not a party without you guys♪
 Honami: Len, Miku, all of our friends in SEKAI... We hope for many more chances to sing and perform with you.

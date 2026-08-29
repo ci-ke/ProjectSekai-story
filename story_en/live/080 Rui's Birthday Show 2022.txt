@@ -8,14 +8,14 @@ Rui: I'd like to start the show right away, but...
 Rui: I've actually been invited as an audience member to the show today, so I don't know what it's about.
 Rui: For the meantime, Tsukasa told me to stay here, so I'm just waiting for him.
 Rui: Hmm? Seems like it's finally starting.
-(Enter: Miku)
-Miku: Once upon a time, there was a strange traveling troupe♪
-Miku: The troupe consists of a show-offy troupe leader, a clown who won't listen, and a songstress who can't sing in public!
-Miku: With members like that, even when the troupe puts on a show, it's hard to get an audience!
-Miku: But one day, the troupe happened to meet an alchemist who was performing alone in the forest.
+(Enter: Miku-WxS)
+Miku (WxS): Once upon a time, there was a strange traveling troupe♪
+Miku (WxS): The troupe consists of a show-offy troupe leader, a clown who won't listen, and a songstress who can't sing in public!
+Miku (WxS): With members like that, even when the troupe puts on a show, it's hard to get an audience!
+Miku (WxS): But one day, the troupe happened to meet an alchemist who was performing alone in the forest.
 Rui: Then...
-Miku: With the addition of the alchemist, the troupe overcame all sorts of failures and difficulties to create a number of amazing shows!
-Miku: By the way! Today seems to be a very important day for the troupe!
+Miku (WxS): With the addition of the alchemist, the troupe overcame all sorts of failures and difficulties to create a number of amazing shows!
+Miku (WxS): By the way! Today seems to be a very important day for the troupe!
 (Enter: Tsukasa)
 (Enter: Emu)
 (Enter: Nene)
@@ -42,7 +42,7 @@ Rui: Yes, of course.
 Rui: For me, it's a song that makes me feel that I have friends who are willing to give their all towards a performance I want to do.
 Rui: Miku, wait no...
 Rui: <Miss Fairy. Would you like to sing us?>
-Miku: <Yeah☆ I'd love to! Well then, let's all sing♪>
+Miku (WxS): <Yeah☆ I'd love to! Well then, let's all sing♪>
 Tsukasa: <Yeah!>
 Emu: <Yeah!>
 Nene: <Yeah!>
@@ -58,13 +58,13 @@ Rui: <Mr. Alchemist will now also join in to bring you all the most fun and chao
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 Tsukasa: <Well done! Great show, Mr. Alchemist! Keep up the good work!>
 Rui: <Thank you. It'll be my pleasure.>
 Nene: <Well, now it's time to party from here on out, isn't it?>
 Emu: <Yay! Cake time, cake time♪>
 Tsukasa: <Here we go again. It's not your cake, you know.>
-Miku: And so the traveling troupe celebrated the Alchemist's birthday, and everyone lived happily ever after☆
+Miku (WxS): And so the traveling troupe celebrated the Alchemist's birthday, and everyone lived happily ever after☆
 
 
 4 [mc] mc_bd_2021rui_3
@@ -73,18 +73,18 @@ Miku: And so the traveling troupe celebrated the Alchemist's birthday, and every
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 Rui: Thank you, everyone.
 Rui: And thank you too, Tsukasa.
 Rui: It's very thoughtful of you to reenact that play you showed us in SEKAI.
 Tsukasa: That's because it's the birthday of our very own Wonderlands×Showtime director! What would we do without this much ingenuity?
-Miku: Hey, hey, let's hurry up and get this party started! I really want to pop the crackers☆
+Miku (WxS): Hey, hey, let's hurry up and get this party started! I really want to pop the crackers☆
 Emu: You're right. Let's do it!
 Emu: Alright! Let's do it all together! Rui...
 Tsukasa: "Happy birthday!"
 Emu: "Happy birthday!"
 Nene: "Happy birthday!"
-Miku: "Happy birthday!"
+Miku (WxS): "Happy birthday!"
 Rui: Thank you.
 Rui: Aside from my family and old friends... I think, this is the first time I've been wished a happy birthday.
 Nene: Rui...
@@ -100,7 +100,7 @@ Rui: Thank you very much for your time today.
 Tsukasa: "Thank you!"
 Emu: "Thank you!"
 Nene: "Thank you!"
-Miku: "Thank you!"
+Miku (WxS): "Thank you!"
 Emu: Well then, all we have to do is go to KAITO's place and then party, right☆.
 Tsukasa: We've already made him wait for so long, so let's hurry up, Rui!
 Rui: *Sigh*

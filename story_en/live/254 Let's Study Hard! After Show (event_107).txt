@@ -6,21 +6,21 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 Ena: Oh, Mizuki...!
 Mizuki: Oh, you guys were all waiting for me?
 Mizuki: It's just like the welcome committee that I got at school.
 Kanade: How did your supplementary classes go?
 Mafuyu: I heard you might be held back a year...
 Mizuki: I passed the test, of course!
-Miku: Thank goodness...
+Miku (N25): Thank goodness...
 Ena: Geez... You had us worried.
 Mizuki: Ahaha... Sorry about that!
 Mizuki: But I already had good grades, so there wasn't any reason to worry.
 Kanade: Huh? But, didn't you have those study sessions?
 Mizuki: Oh yeah, that's true. But I was there as a teacher♪
-Miku: Study sessions...
-Miku: That sounds fun...
+Miku (N25): Study sessions...
+Miku (N25): That sounds fun...
 Mizuki: Yeah, they were pretty fun! It was kinda tough being a teacher, though...
 Mizuki: But it was super fun and lively. We even had snacks together during breaks!
 Ena: Wow. I was worried for you having to be in those classes, but it sounds like you had fun.
@@ -30,7 +30,7 @@ Kanade: Huh? Hold a study session?
 Mizuki: Yeah! It'll be totally different to the stuff we normally work on together, so it'll be super fun!
 Ena: Uh... Why would we want to make that much effort to meet up just to study?
 Mizuki: Hey, we don't need to study that hard! The main thing is doing it together.
-Miku: I'd...like to try a study session with you all.
+Miku (N25): I'd...like to try a study session with you all.
 Mafuyu: If Miku wants to do it, I'm okay with it.
 Kanade: Hehe. Me too. Let's do it.
 Mizuki: Alright, it's settled! I'll go tell Rin and everyone later!
@@ -41,7 +41,7 @@ Mizuki: Woohoo! Okay, Mafuyu, let's sing!
 Mizuki: Here we go! villain!
 (Exit: Kanade)
 (Exit: Ena)
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 2 [MUSIC] 170: villain
@@ -52,11 +52,11 @@ Mizuki: Here we go! villain!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Kohane: An, Shinonome, congratulations on passing!
 An: Thanks, Kohane!
-Miku: Well done, you two.
-Miku: This is good news for you too, Kohane and Toya. You seemed worried, but now you can relax.
+Miku (VBS): Well done, you two.
+Miku (VBS): This is good news for you too, Kohane and Toya. You seemed worried, but now you can relax.
 Akito: Sorry for causing you guys trouble...
 An: Me too... Sorry for making you worry!
 Kohane: Don't worry about it! I'm glad you passed!
@@ -65,7 +65,7 @@ An: Toya...
 Kohane: Speaking of which, An, didn't you get a perfect score in classics?
 An: Yeah! With everyone's help, of course. There's no way I could've pulled that off alone.
 An: Also, having everyone around made studying so much fun!
-Miku: You...found it fun?
+Miku (VBS): You...found it fun?
 An: Yeah! The studying itself was really hard...
 An: But it was fun to stay back after school with the others and get taught how to answer test questions.
 Kohane: Hehe, I know what you mean. I also do study sessions with my classmates in the lead-up to a test.
@@ -76,7 +76,7 @@ Akito: It went so much better than if I'd studied alone at home.
 Toya: That's right. However... I want you both to start studying regularly so this doesn't happen again.
 An: Yeah... Okay...
 Akito: Yeah... Okay...
-Miku: Hehe. Well, now that your supplementary classes are over, do you want to sing?
+Miku (VBS): Hehe. Well, now that your supplementary classes are over, do you want to sing?
 An: Yes! I've been itching to sing all week!
 Akito: Try and stop me. I've been feeling a lot of stress, but I'm gonna sing it all out!
 An: Alright then, here we go! Forward!
@@ -90,9 +90,9 @@ An: Alright then, here we go! Forward!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 An: Whew! Now that was singing!
-Miku: An and Akito, you two really didn't hold back, huh?
+Miku (VBS): An and Akito, you two really didn't hold back, huh?
 Kohane: Hehe, that goes to show how relieved you two are after passing your test.
 An: That's a little embarrassing, but I did have fun singing at full throttle!
 An: Thanks for listening, everyone!

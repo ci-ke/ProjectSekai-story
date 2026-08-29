@@ -4,8 +4,8 @@
 
 (Enter: Mafuyu)
 Mafuyu: ...
-(Enter: Miku)
-Miku: Hello, Mafuyu.
+(Enter: Miku-N25)
+Miku (N25): Hello, Mafuyu.
 Mafuyu: I...wanted to see that doll again.
 (Enter: Kanade)
 (Enter: Ena)
@@ -20,10 +20,10 @@ Kanade: I see...
 Kanade: Mafuyu. Would you like to sing together?
 Kanade: I feel like we may be able to understand your feelings better by doing that.
 Mafuyu: I can't promise anything.
-Miku: It's okay. Just sing whatever you like. You're free now, Mafuyu.
+Miku (N25): It's okay. Just sing whatever you like. You're free now, Mafuyu.
 Mafuyu: Free...
 Mafuyu: Okay. I'll try.
-Miku: Yes. Let's sing together.
+Miku (N25): Yes. Let's sing together.
 
 
 2 [MUSIC] 60: Composing the Future
@@ -31,17 +31,17 @@ Miku: Yes. Let's sing together.
 3 [mc] mc_ev_night_01_2
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Kanade)
 (Enter: Ena)
 (Enter: Mizuki)
 Kanade: How did you feel, Mafuyu?
 Mafuyu: I still don't know. Only that it feels easier to sing now.
-Miku: That will do for now.
-Miku: You can be free in this SEKAI...and in front of them. Because you're not a puppet controlled by strings.
-Miku: Look.
+Miku (N25): That will do for now.
+Miku (N25): You can be free in this SEKAI...and in front of them. Because you're not a puppet controlled by strings.
+Miku (N25): Look.
 Mizuki: Wow! It's twinkling so brightly over there!
-Miku: I'm sure those who listened to our song felt the same way. That Mafuyu is free to do what she wants now.
+Miku (N25): I'm sure those who listened to our song felt the same way. That Mafuyu is free to do what she wants now.
 Mafuyu: I...don't know...
 Ena: Hey, can we all get back to work already? I need to clarify something about the song we're working on.
 Kanade: Right... We should head back.
@@ -49,6 +49,6 @@ Mizuki: Thanks, Miku! We'll drop by again at another time!
 (Exit: Mizuki)
 (Exit: Kanade)
 (Exit: Ena)
-Miku: Mafuyu?
+Miku (N25): Mafuyu?
 Mafuyu: Thank you, Miku...
 Mafuyu: For cutting the strings.

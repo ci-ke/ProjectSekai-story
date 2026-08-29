@@ -3,23 +3,23 @@
 1 [mc_timeline] mc_ev_idol_wl_02_1
 
 (Enter: Minori)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Airi)
 (Enter: Haruka)
 (Enter: Shizuku)
 Minori: Ah... Ah... Alright, my voice is good to go!
 Minori: Hup! Hah! And I'm all warmed up too! Next...
-Miku: You're so fired up, Minori!
+Miku (MMJ): You're so fired up, Minori!
 Minori: I am! After that dream... I'm just so happy we get to perform together!
 Airi: Would you calm down? Though actually, for once I'm as excited as you.
 Airi: Time passed normally while we were out, but it still feels like it's been a long time.
 Shizuku: I agree. I'm just itching to sing with you all.
 Haruka: Let's give the best performance we can!
 Minori: Yeah!
-Miku: Yeah!
+Miku (MMJ): Yeah!
 Airi: Yeah!
 Shizuku: Yeah!
-Miku: Oh, you guys are here!
+Miku (MMJ): Oh, you guys are here!
 Minori: Wow, and so many of you too!
 Airi: Thank you for coming to see our show!
 Shizuku: Thank you!
@@ -27,8 +27,8 @@ Haruka: We've chosen a special song to perform, so we hope you enjoy it.
 Haruka: But first, we have something to tell you all about!
 Minori: The thing is, we recently had a strange dream here in SEKAI!
 Minori: Each of us was going down a separate path in life.
-Miku: Whether that was delivering hope in a different way from idol work...
-Miku: Or staying in the business, but struggling to make headway.
+Miku (MMJ): Whether that was delivering hope in a different way from idol work...
+Miku (MMJ): Or staying in the business, but struggling to make headway.
 Haruka: That's right. And... It had me thinking.
 Haruka: I'm so happy that I get to chase my dreams as an idol with these three.
 Shizuku: Me too. Being a member of MORE MORE JUMP! and getting to both give and receive hope...
@@ -46,16 +46,16 @@ Minori: We're gonna give it our all! Here we go: Newly Edgy Idols!
 3 [mc_timeline] mc_ev_idol_wl_02_2
 
 (Enter: Minori)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Airi)
 (Enter: Haruka)
 (Enter: Shizuku)
 Shizuku: Thank you for listening!
 Airi: Could you feel what we were trying to convey?
 Minori: Hehe, that's good to hear!
-Miku: Even I could feel it while we were singing. Your gratitude, your joy...
-Miku: And your unwavering wish to put more hope into the world.
-Miku: You were all shining so brightly... I felt my heart swelling with emotion.
+Miku (MMJ): Even I could feel it while we were singing. Your gratitude, your joy...
+Miku (MMJ): And your unwavering wish to put more hope into the world.
+Miku (MMJ): You were all shining so brightly... I felt my heart swelling with emotion.
 Haruka: Miku... Thank you.
 Haruka: Yes. I want to hold those feelings dear as we continue to perform.
 Minori: Yeah! I want us to grow even more and spread more and more hope!
@@ -69,4 +69,4 @@ Shizuku: Well then, we'll see you at our next show. Until then!
 Haruka: See you! Thank you!
 Minori: See you! Thank you!
 Airi: See you! Thank you!
-Miku: See you! Thank you!
+Miku (MMJ): See you! Thank you!

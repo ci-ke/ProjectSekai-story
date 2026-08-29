@@ -2,22 +2,22 @@
 
 1 [mc] mc_2022halloween_1
 
-(Enter: Miku)
-Miku: Oh, hello everyone. Um... Happy Halloween...
-Miku: Mafuyu and Mizuki said they're going to sing something that's just right for Halloween.
-Miku: And Kanade and Ena have gone to help them change.
-Miku: They helped me change into this too.
-Miku: Do you think it suits me?
+(Enter: Miku-N25)
+Miku (N25): Oh, hello everyone. Um... Happy Halloween...
+Miku (N25): Mafuyu and Mizuki said they're going to sing something that's just right for Halloween.
+Miku (N25): And Kanade and Ena have gone to help them change.
+Miku (N25): They helped me change into this too.
+Miku (N25): Do you think it suits me?
 (Enter: Kanade)
 (Enter: Ena)
 (Enter: Mizuki)
 (Enter: Mafuyu)
 Ena: Thanks for waiting, Miku. We're all set now.
-Miku: Okay. Then let's all enjoy their performance.
-Miku: Mafuyu, Mizuki, whenever you're ready. villain.
+Miku (N25): Okay. Then let's all enjoy their performance.
+Miku (N25): Mafuyu, Mizuki, whenever you're ready. villain.
 (Exit: Ena)
 (Exit: Kanade)
-(Exit: Miku)
+(Exit: Miku-N25)
 
 
 2 [MUSIC] 170: villain
@@ -28,10 +28,10 @@ Miku: Mafuyu, Mizuki, whenever you're ready. villain.
 (Enter: Mizuki)
 (Enter: Ena)
 (Enter: Kanade)
-(Enter: Miku)
+(Enter: Miku-N25)
 Mizuki: Wow, what a response! Thank you everyone!
 Mizuki: *Sigh* That felt great. Did you enjoy it too, Miku?
-Miku: Yes. Thank you, Mizuki, Mafuyu. It looks like everyone else enjoyed it, too.
+Miku (N25): Yes. Thank you, Mizuki, Mafuyu. It looks like everyone else enjoyed it, too.
 Mizuki: I'm so happy that you all had a fun time! Happy Halloween, everyone!
 Mizuki: Hahaha. You can't celebrate Halloween without putting on something like this!
 Mafuyu: Halloween...? I thought this was a rehearsal for our next song?
@@ -45,10 +45,10 @@ Ena: Great idea. Let's go find them.
 (Exit: Ena)
 (Exit: Mizuki)
 (Exit: Kanade)
-Miku: I wonder if people in other SEKAI are also singing and celebrating like this?
+Miku (N25): I wonder if people in other SEKAI are also singing and celebrating like this?
 Mafuyu: Miku, is something the matter?
-Miku: Oh... Nothing. See you later.
-(Exit: Miku)
+Miku (N25): Oh... Nothing. See you later.
+(Exit: Miku-N25)
 (Exit: Mafuyu)
 
 

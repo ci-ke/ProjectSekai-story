@@ -28,10 +28,10 @@ Toya: Apologies for the sudden request, but did any of you happen to see Miku or
 Kohane: Sound like they don't know where they are either...
 An: Yeah. I guess we just have to keep looking.
 (Enter: KAITO)
-(Enter: Miku)
+(Enter: Miku-VBS)
 KAITO: Oh, you're all here!
 An: KAITO! Miku! Thank goodness! We looked all over for you two.
-Miku: Sorry, we were getting the speakers over there ready. They're all set up now, so we're ready to sing whenever you are.
+Miku (VBS): Sorry, we were getting the speakers over there ready. They're all set up now, so we're ready to sing whenever you are.
 An: Awesome! You guys ready?
 Toya: Yes. It's our first show of the new year, so let's give it everything we have.
 Akito: "Yeah!"
@@ -48,16 +48,16 @@ An: Feel free to join in on the fun too, you guys!
 (Enter: Akito)
 (Enter: Toya)
 (Enter: KAITO)
-(Enter: Miku)
+(Enter: Miku-VBS)
 Akito: Thanks for listening, you guys!
 KAITO: Wonderful! I'm glad they enjoyed everything so much.
-Miku: It is a song with a lot of energy. Even I got really into it during that performance.
+Miku (VBS): It is a song with a lot of energy. Even I got really into it during that performance.
 Akito: Alright, let's jump right into our next song while we got the crowd on our side.
 Toya: But which one...?
 Kohane: I know! How about Ready Steady?
 Kohane: It's the start of a new year, so it'd be great to sing a song that motivates everyone to try and overcome anything that comes their way.
 An: I like the sound of that! Plus, it was the song that started it all for us!
-Miku: Okay, I'm in too.
+Miku (VBS): Okay, I'm in too.
 Akito: You guys all ready?
 Toya: Seems like it. Azusawa, if you don't mind.
 Kohane: Okay!
@@ -72,7 +72,7 @@ Kohane: Here we go. Ready Steady!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: KAITO)
 Kohane: Thanks for being such a great audience, you guys!
 An: It always feels so good to sing in SEKAI, doesn't it?!
@@ -80,7 +80,7 @@ Kohane: Yeah. Is it because it was born from our feelings?
 KAITO: I think that does play a part in it, but I would say your personal experiences matter just as much.
 Toya: Our personal experiences?
 KAITO: Yes. I'm guessing that everything you've experienced so far has naturally found its way into your music, no?
-Miku: I agree. I'd say the more you feel and the more you experience that these things become increasingly intertwined within your hearts.
+Miku (VBS): I agree. I'd say the more you feel and the more you experience that these things become increasingly intertwined within your hearts.
 Toya: I see... Our feelings and experiences...
 Akito: I can't really disagree...
 Akito: We know now that there are things we can't overcome unless we work together as a team.
@@ -96,7 +96,7 @@ Akito: See ya!
 (Exit: An)
 (Exit: Akito)
 (Exit: Toya)
-(Exit: Miku)
+(Exit: Miku-VBS)
 (Exit: KAITO)
 (Enter: Len)
 (Enter: Rin)

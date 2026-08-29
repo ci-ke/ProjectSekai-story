@@ -5,14 +5,14 @@
 (Enter: Kanade)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Mizuki: ...that's how I was able to tell Mafuyu that running away is also an option.
 Mizuki: Thank you, Luka.
 Luka: Hehe. You look so relieved that it's as if I imagined your concerned expression before.
 Luka: But don't worry, you looked great even when you were troubled.
 Mizuki: Huh? Y-You think so?
-Miku: Luka, please...
+Miku (N25): Luka, please...
 Ena: Well, I can't really imagine Luka hearing a "thank you" and genuinely responding with "you're welcome" anyway.
 Kanade: Hehe. I don't think I can either.
 Luka: Oh...
@@ -21,7 +21,7 @@ Luka: Looks like someone's here.
 Kanade: Huh?
 (Enter: Mafuyu)
 Ena: Oh!
-Miku: Mafuyu!
+Miku (N25): Mafuyu!
 Kanade: Are you okay to be here?
 Mafuyu: Cram school finished early, so I have some time until curfew.
 Mizuki: Really?! I'm glad you could come!
@@ -48,7 +48,7 @@ Mizuki: Non-breath oblige!
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Mizuki: Hehehe. Thanks, everyone!
 Mizuki: And thanks for singing with us, Mafuyu. That was so much fun!
@@ -59,8 +59,8 @@ Mafuyu: Anyway, I'm going to head back now.
 Mizuki: Oh... Okay, I understand.
 Ena: You better tell us right away if anything happens, okay?
 Mizuki: Yeah. We'll do whatever we can to help.
-Miku: Mafuyu...
-Miku: Come see us again. We'll always be here.
+Miku (N25): Mafuyu...
+Miku (N25): Come see us again. We'll always be here.
 Mafuyu: Thank you...
 Mafuyu: See you again...
 (Exit: Mafuyu)
@@ -68,7 +68,7 @@ Mizuki: Now then...
 Mizuki: As for the rest of us, let's work hard and do what we can!
 Kanade: Yeah!
 Ena: Yeah!
-Miku: That was really cool, Mizuki.
+Miku (N25): That was really cool, Mizuki.
 Mizuki: Huh? R-Really?
 Luka: Yes. I think everyone here would agree.
 Mizuki: Wow! You're making me blush with the sudden compliments!

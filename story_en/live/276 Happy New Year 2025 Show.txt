@@ -8,19 +8,19 @@
 (Enter: Haruka)
 (Enter: Airi)
 (Enter: Shizuku)
-(Enter: Miku)
+(Enter: Miku-MMJ)
 (Enter: Len)
 Minori: Thank you for listening to us, everyone!
 Minori: Happy New Year!
 Haruka: Happy New Year!
 Airi: Happy New Year!
 Shizuku: Happy New Year!
-Miku: Happy New Year!
+Miku (MMJ): Happy New Year!
 Len: Happy New Year!
 Haruka: Did you enjoy our surprise show?
 Airi: A new year is always exciting, and we wanted to give you a performance that would take that feeling further!
 Len: Wow! That's a loud cheer.
-Miku: I had so much fun swaying and clapping to the beat.
+Miku (MMJ): I had so much fun swaying and clapping to the beat.
 Shizuku: Hehe. I'm glad that you and everyone here had fun.
 Minori: This means that we're off to a really great start!
 Haruka: Yes. I'd like to keep this momentum as we go forward into a new year.
@@ -30,13 +30,13 @@ Shizuku: More and more songs!
 Airi: More and more energy!
 Haruka: More and more hope!
 Minori: For more and more and more people!
-Miku: MORE MORE...
+Miku (MMJ): MORE MORE...
 Len: MORE MORE...
 Minori: JUMP!
 Haruka: JUMP!
 Airi: JUMP!
 Shizuku: JUMP!
-Miku: JUMP!
+Miku (MMJ): JUMP!
 Len: JUMP!
 Len: See you later, everyone!
 
@@ -47,16 +47,16 @@ Len: See you later, everyone!
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
-(Enter: Miku)
+(Enter: Miku-WxS)
 (Enter: KAITO)
 Tsukasa: Hello everyone! Happy New Year!
 Emu: Happy New Year!
 Nene: Happy New Year!
 Rui: Happy New Year!
-Miku: Happy New Year!
+Miku (WxS): Happy New Year!
 KAITO: Happy New Year!
 Tsukasa: Let me start by inviting you to stay and watch a show!
-Miku: Yay☆ All of us here get to see your first show of the year♪
+Miku (WxS): Yay☆ All of us here get to see your first show of the year♪
 Emu: Hehehe. We're gonna do our super duper best to wish you an amazing year☆
 KAITO: Oh? Is there something wrong, Nene?
 Rui: She's just feeling a little nervous and thinking, "W-Why am I in the spotlight for our first show of the year?"
@@ -70,7 +70,7 @@ Emu: Coral!
 Nene: Coral!
 Rui: Coral!
 KAITO: Coral!
-(Exit: Miku)
+(Exit: Miku-WxS)
 
 
 4 [MUSIC] 324: Coral
@@ -83,14 +83,14 @@ KAITO: Coral!
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Luka)
 Luka: It's gotten very crowded in here suddenly.
 Ena: You're right. Were you listening to us? Thank you.
 Kanade: So what did you think, Miku?
 Mizuki: Yeah, tell us! You did say you wanted to feel our current emotions through a song.
-Miku: I did. I felt them so strongly in my chest.
-Miku: But I'm glad I could feel so many of your emotions.
+Miku (N25): I did. I felt them so strongly in my chest.
+Miku (N25): But I'm glad I could feel so many of your emotions.
 Kanade: Really?
 Luka: How about you, Mafuyu? Did you feel anything when you were singing?
 Mafuyu: I...
@@ -99,16 +99,16 @@ Mafuyu: Thank you for singing with me...
 Luka: Hehe. You're welcome.
 Kanade: Thank you for coming, everyone. I'm glad you were here to listen to us sing.
 Mizuki: Come visit whenever you wanna hear us again!
-Miku: See you.
+Miku (N25): See you.
 
 
 7 [mc] mc_2024newyear_04_1
 
-(Enter: Miku)
-Miku: Nice timing. Kohane and the others are about to sing, so why not stick around?
-Miku: Looks like they're ready to go too. Alright then, let's get them out here.
-Miku: Kashika!
-(Exit: Miku)
+(Enter: Miku-VBS)
+Miku (VBS): Nice timing. Kohane and the others are about to sing, so why not stick around?
+Miku (VBS): Looks like they're ready to go too. Alright then, let's get them out here.
+Miku (VBS): Kashika!
+(Exit: Miku-VBS)
 
 
 8 [MUSIC] 267: Kashika
@@ -119,9 +119,9 @@ Miku: Kashika!
 (Enter: An)
 (Enter: Akito)
 (Enter: Toya)
-(Enter: Miku)
+(Enter: Miku-VBS)
 (Enter: MEIKO)
-Miku: Nice work out there. It's hard to think that was your first performance of the year.
+Miku (VBS): Nice work out there. It's hard to think that was your first performance of the year.
 Akito: That's because we don't skimp on practicing, no matter what date it is.
 An: You can say that again! But you do sing with more feeling when you have an audience.
 Toya: Yes. I think this was an amazing start for us.
@@ -130,7 +130,7 @@ MEIKO: Hehe. So what are your plans after this? How about a cup of coffee back a
 Toya: That sounds lovely. However...
 Akito: We're not done singing yet.
 Kohane: Yeah! I'd like to practice together for a while longer.
-Miku: I still haven't sung yet either. Why don't you stick around, MEIKO?
+Miku (VBS): I still haven't sung yet either. Why don't you stick around, MEIKO?
 MEIKO: I suppose I can't turn down the offer. I'll stay until I've got to open the cafe.
 An: Hey everyone! We're gonna practice for a little longer! Come hear us sing again soon!
 Kohane: See you later!
@@ -142,14 +142,14 @@ Kohane: See you later!
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Saki: Hey everyone!
 Ichika: Happy New Year!
 Saki: Happy New Year!
 Honami: Happy New Year!
 Shiho: Happy New Year!
-Miku: Happy New Year!
+Miku (Ln): Happy New Year!
 Rin: Happy New Year!
 Rin: Wow, everyone's so full of energy!
 Saki: I know right! I thought they were gonna be sleepy after staying up all night!
@@ -158,10 +158,10 @@ Honami: Hehe. They were dozing off just earlier.
 Shiho: Do you want me to pinch your cheeks to wake you up?
 Rin: I-I'm fine, thanks! More importantly, let's hurry up and start the show!
 Saki: Yeah! Let's use this show to welcome the new year and get fired up!
-Miku: Looks like you're ready to go. I'll be looking forward to it, girls.
+Miku (Ln): Looks like you're ready to go. I'll be looking forward to it, girls.
 Ichika: Please join in the fun too, everyone!
 Ichika: Here we go! purpose.
-(Exit: Miku)
+(Exit: Miku-Ln)
 
 
 11 [MUSIC] 383: purpose
@@ -172,10 +172,10 @@ Ichika: Here we go! purpose.
 (Enter: Saki)
 (Enter: Honami)
 (Enter: Shiho)
-(Enter: Miku)
+(Enter: Miku-Ln)
 (Enter: Rin)
 Ichika: Thank you for listening, everyone!
-Miku: Good work out there. You gave a great and moving performance.
+Miku (Ln): Good work out there. You gave a great and moving performance.
 Saki: Didn't we just?! Now that we're pros, we gotta nail it every time♪
 Shiho: Hey, that's what I like to hear.
 Saki: Hehehe.

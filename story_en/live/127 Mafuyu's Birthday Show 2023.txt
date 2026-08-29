@@ -6,7 +6,7 @@
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 Mizuki: Whoa! Look at all the people! Thanks for coming, you guys!
 Mizuki: Check it out, Mafuyu. They're all here to wish you a happy birthday.
@@ -15,7 +15,7 @@ Ena: Ugh... Don't have anything more to say? All these people are here to celebr
 Mafuyu: Okay, in that case... Thank you.
 Rin: You sound so appreciative...
 Kanade: Still...
-Miku: Some of them seem happy with that.
+Miku (N25): Some of them seem happy with that.
 Ena: True. I guess "normal" isn't really what we should be expecting from them...
 Mizuki: Anyway, I think it's about time we all properly wished Mafuyu a happy birthday!
 Ena: Alright, relax. Mafuyu, center stage is all yours.
@@ -26,7 +26,7 @@ Kanade: Alright, ready?
 Kanade: Happy birthday, Mafuyu.
 Ena: "Happy birthday!"
 Mizuki: "Happy birthday!"
-Miku: "Happy birthday..."
+Miku (N25): "Happy birthday..."
 Rin: "Happy birthday..."
 Mafuyu: Thank you...
 Mizuki: Hehe...
@@ -37,8 +37,8 @@ Ena: Just to be clear, we don't have a fancy feast or big surprise prepared for 
 Mafuyu: That's fine. I wasn't expecting anything greater...
 Kanade: But I think I understand how Mizuki feels. It's nice being able to throw you a party like this.
 Kanade: It's a wonderful opportunity for us to express how happy we are that you were brought into this world.
-Miku: Yes, I agree...
-Miku: You're the reason I'm here today, Mafuyu. So, thank you.
+Miku (N25): Yes, I agree...
+Miku (N25): You're the reason I'm here today, Mafuyu. So, thank you.
 Mafuyu: Miku...
 Rin: That goes for me too if you're going there.
 Rin: If it weren't for you, Mafuyu... If you didn't let Kanade and the others into SEKAI, then I wouldn't be here either.
@@ -63,18 +63,18 @@ Mizuki: You guys should sing along too!
 (Enter: Mafuyu)
 (Enter: Ena)
 (Enter: Mizuki)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Rin)
 Ena: So, did you figure it out?
 Mafuyu: I definitely feel something... But I don't know how to describe it...
 Ena: Yeah. I figured as much...
-Miku: Mafuyu, when you said that you felt "unsettled" earlier, did you mean that you were "sick" or "in pain?"
+Miku (N25): Mafuyu, when you said that you felt "unsettled" earlier, did you mean that you were "sick" or "in pain?"
 Mafuyu: No, it wasn't that...
 Rin: Then, isn't that good enough?
 Kanade: Yeah, I agree with her.
-Miku: Mafuyu...
+Miku (N25): Mafuyu...
 Mafuyu: Yes...?
-Miku: I felt it. I clearly felt the warmth in your voice as you were singing.
+Miku (N25): I felt it. I clearly felt the warmth in your voice as you were singing.
 Mafuyu: ... You did...?
 Mizuki: That's great, Mafuyu.
 Ena: Anyway, I think it's about time we wrapped things up.
@@ -84,4 +84,4 @@ Mafuyu: I still don't really know what I'm feeling right now...
 Mafuyu: But I'm glad that I had a chance to sing.
 Mizuki: Thanks for coming, everyone! We hope you all had fun!
 Rin: Bye bye.
-Miku: See you next time.
+Miku (N25): See you next time.

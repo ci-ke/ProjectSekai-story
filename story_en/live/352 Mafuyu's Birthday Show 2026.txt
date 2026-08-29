@@ -2,16 +2,16 @@
 
 1 [mc_timeline] mc_bd_2025mafuyu_1
 
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Mafuyu)
-Miku: Oh... Mafuyu.
+Miku (N25): Oh... Mafuyu.
 Mafuyu: There you are, Miku. And the others?
-Miku: They're preparing the party over there.
-Miku: They said I should wait here with you, in case you came early.
-Miku: And they'll come get us when they're done.
+Miku (N25): They're preparing the party over there.
+Miku (N25): They said I should wait here with you, in case you came early.
+Miku (N25): And they'll come get us when they're done.
 Mafuyu: I see. Okay.  Um... Everything's almost done, so all that's left...
 (Enter: Len)
-Miku: Oh... Len.
+Miku (N25): Oh... Len.
 Len: Huh? Oh, Miku...and... M-Mafuyu?! You're already here?!
 Mafuyu: My club activities finished early.
 Len: O-Oh, I see... Um...
@@ -23,14 +23,14 @@ Len: Oh, um... So...
 Mizuki: Mafuyu, Miku! Sorry for the wait.
 (Enter: Ena)
 Ena: Oh, there you are, Len. Perfect timing.
-Miku: Everyone... Is everything for the party ready?
+Miku (N25): Everyone... Is everything for the party ready?
 Kanade: Yes, that's why we came to get you. We figured Mafuyu would be here by now, too.
 Len: Oh... Is it okay to talk about the party?
 Ena: Huh? Yeah. It's not a surprise or anything.
 Len: O-Oh, okay... Thank goodness.
 Mizuki: Hahaha. Len, were you keeping it a secret for us? Thanks!
 Mizuki: And thank you for waiting with Mafuyu, Miku!
-Miku: It's okay.
+Miku (N25): It's okay.
 Ena: Okay, let's head back. We're keeping Rin and the others waiting.
 Mizuki: Heh heh heh. We've got so many snacks, just you wait and see!
 Mafuyu: ...
@@ -51,12 +51,12 @@ Mafuyu: Here we go. Shadow Shadow.
 3 [mc_timeline] mc_bd_2025mafuyu_2
 
 (Enter: Mafuyu)
-(Enter: Miku)
+(Enter: Miku-N25)
 (Enter: Len)
 (Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
-Miku: That was really good, everyone.
+Miku (N25): That was really good, everyone.
 Mafuyu: ...
 Mafuyu: I...also thought it was good.
 Mafuyu: Thank you.
@@ -67,11 +67,11 @@ Ena: I bet they're all here to celebrate your birthday, Mafuyu.
 Mizuki: Thanks, everyone!
 Mizuki: Since you're all here, why don't we all wish Mafuyu a happy birthday!
 Kanade: Yeah, that sounds good.
-Miku: I want to say it, too.
+Miku (N25): I want to say it, too.
 Mizuki: Okay, really raise your voices!
 Mizuki: One, two, three! Happy birthday, Mafuyu!
 Kanade: Happy birthday.
-Miku: Happy birthday.
+Miku (N25): Happy birthday.
 Len: Happy birthday.
 Ena: Happy birthday.
 Mafuyu: Thank you...
@@ -81,5 +81,5 @@ Ena: It's nice, right? Getting to do something you wanted.
 Mafuyu: Yeah.
 Mizuki: Now, let's keep the momentum going, and get this party started!
 Len: Yeah... I'm excited.
-Miku: What are we doing today?
+Miku (N25): What are we doing today?
 Mizuki: Can't wait, huh? We'll start things off with giant party poppers...
