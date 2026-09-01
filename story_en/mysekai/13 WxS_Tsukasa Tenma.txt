@@ -1760,7 +1760,17 @@ Tsukasa: Her requests were often difficult to work in, to say the least, but I b
 Tsukasa: Aha, a sheep rocking horse, and a very fluffy one. It looks very comfortable.
 
 
-212 7046:6613 Mametchi
+212 6987:6554 read_event_story-178
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: Friends truly are wonderful...
+Tsukasa: You see, we participated in a show contest recently, and I struggled greatly with how best to portray despair.
+Tsukasa: But with my friends' support, I was able to tackle it head-on and deliver a performance I was satisfied with.
+Tsukasa: I am truly grateful to all of them for their help. And I'll repay them by striving forward, undaunted!
+
+
+213 7046:6613 Mametchi
 
 (Character: Tsukasa Tenma)
 
@@ -1772,7 +1782,7 @@ Mametchi: An amusement park...? Shows...? I'm excited just picturing it all!
 Mametchi: I think we'd all love to visit you!
 
 
-213 7047:6614 Kuchipatchi
+214 7047:6614 Kuchipatchi
 
 (Character: Tsukasa Tenma)
 
@@ -1785,7 +1795,7 @@ Tsukasa: I see... So we also have you to thank for reuniting us with Kuchipatchi
 Tsukasa: Thank you very much. I hope we'll continue chatting, having fun and becoming even firmer friends!
 
 
-214 7048:6615 Mimitchi
+215 7048:6615 Mimitchi
 
 (Character: Tsukasa Tenma)
 
@@ -1796,7 +1806,7 @@ Tsukasa: Oho, that's fantastic! You must have been very much in sync with each o
 Mimitchi: We were! We harmonized nicely and it felt amazing! I hope we can sing together again sometime♪
 
 
-215 7049:6616 Memetchi
+216 7049:6616 Memetchi
 
 (Character: Tsukasa Tenma)
 
