@@ -12,3 +12,6 @@ uv.lock
 
 *.ps1
 *.lnk
+
+.agents
+AGENTS.md
