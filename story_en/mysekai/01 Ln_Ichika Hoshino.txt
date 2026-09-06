@@ -1776,9 +1776,9 @@ Ichika: If you squished together a bunch of these, you could pretend you're slee
 (Character: Ichika Hoshino)
 
 Mametchi: You're from the band that helped Mimitchi! Hello there. I'm Mametchi!
-Ichika: I'm Ichika Hoshino. And we just happened to be practicing, so it doesn't sound quite right to say we helped her.
-Mametchi: But Mimitchi told me you taught her how to sing. And you even let her use your instruments.
-Mametchi: Um... I'm actually kind of interested myself. Could I try playing them, too?
+Ichika: I'm Ichika Hoshino. We just happened to be practicing nearby, so I wouldn't really say we helped Mimitchi.
+Mametchi: But I heard you gave singing lessons, and even generously lent your instruments.
+Mametchi: Um... I'm actually interested in music myself. Could I try playing them, too?
 Ichika: Sure. I'll go get my guitar.
 Mametchi: Really?! Hooray! Thank you so much!
 
@@ -1792,7 +1792,7 @@ Ichika: Sure. We can be on a first-name basis, Kuchipatchi.
 Kuchipatchi: Sounds good! Um, what else do we have to say to make it a real introduction?
 Ichika: Hmm, our favorite foods, maybe? I really love yakisoba buns.
 Kuchipatchi: Favorite foods...! That's great! Mine is, um... Uh...
-Kuchipatchi: There's so many, I can't pick just one!
+Kuchipatchi: There are so many, I can't pick just one!
 
 
 219 7000:6567 Mimitchi
@@ -1811,8 +1811,8 @@ Ichika: Especially when it comes to Shiho. I'm pretty sure she adores you.
 (Character: Ichika Hoshino)
 
 Ichika: Hello. Um, you're Memetchi, right?
-Memetchi: That's right! Did someone tell you?
-Ichika: Yes, Mimitchi did. She said you're "the girl with big, sparkly eyes".
+Memetchi: That's right! How did you know?
+Ichika: Mimitchi was telling me about your big, sparkly eyes.
 Memetchi: Oh, that Mimitchi, saying such nice things! Well, my eyes are one of my most charming features!
 Memetchi: What would you say is your most charming feature, Ichika? Probably that long, perfectly straight hair?
 Ichika: Me? Well, I guess it is the most notable thing about me, so maybe so.
