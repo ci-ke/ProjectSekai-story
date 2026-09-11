@@ -1475,7 +1475,16 @@ Miku: When I reflect on how far the girls have come, I realize just how many obs
 Miku: I want to keep doing all I can to support them in chasing their dream!
 
 
-179 7082:6649 Mametchi
+179 6990:6557 read_event_story-179
+
+(Character: Hatsune Miku)
+
+Miku: I was sent over to a completely unfamiliar SEKAI the other day.
+Miku: It was all so sudden. One moment, the tree flashed, and the next, I was in a totally new place.
+Miku: That was really startling... But I'm so glad that I got to become friends with the me from that SEKAI♪
+
+
+180 7082:6649 Mametchi
 
 (Character: Hatsune Miku)
 
@@ -1486,7 +1495,7 @@ Miku: Hehe. Your friend sounds like a wonderful idol! Would you like to watch me
 Mametchi: Would that be okay?! I'd love to!
 
 
-180 7083:6650 Kuchipatchi
+181 7083:6650 Kuchipatchi
 
 (Character: Hatsune Miku)
 
@@ -1498,7 +1507,7 @@ Kuchipatchi: Hehehe. You're a big eater too!
 Miku: I see, I'm a big— Wait, what?!
 
 
-181 7084:6651 Mimitchi
+182 7084:6651 Mimitchi
 
 (Character: Hatsune Miku)
 
@@ -1510,7 +1519,7 @@ Miku: Instruments? Wow! I bet I would look extremely cool if I were an idol who 
 Mimitchi: That sounds amazing! I also want to see a multi-talented idol like that!
 
 
-182 7085:6652 Memetchi
+183 7085:6652 Memetchi
 
 (Character: Hatsune Miku)
 
@@ -1522,7 +1531,7 @@ Memetchi: Oh... No, I suppose I don't.
 Miku: Hehe. I guess in both cases, the secret is to enjoy yourself.
 
 
-183 8012:7465 Hello Kitty's Piano
+184 8012:7465 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

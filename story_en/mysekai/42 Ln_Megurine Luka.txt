@@ -1723,7 +1723,15 @@ Luka: Honami told me that rocking toys like this help kids develop leg strength 
 Luka: Just like how building blocks also help foster imagination, these toys are designed to support children's development through play.
 
 
-216 7106:6673 Mametchi
+216 6989:6556 read_event_story-179
+
+(Character: Megurine Luka)
+
+Luka: I knew that other SEKAI existed, but I never expected to meet the Len from one of them.
+Luka: He was a very nice boy. He was a little shy, but he really exuded kindness.
+
+
+217 7106:6673 Mametchi
 
 (Character: Megurine Luka)
 
@@ -1734,7 +1742,7 @@ Luka: Then, why not change the name to reflect what it does now?
 Mametchi: That's a fine idea! Hmm, what would be fitting...?
 
 
-217 7107:6674 Kuchipatchi
+218 7107:6674 Kuchipatchi
 
 (Character: Megurine Luka)
 
@@ -1746,7 +1754,7 @@ Kuchipatchi: Right, confidence! Ahem!
 Kuchipatchi: Luka... Luka, my junior, thank you. You may be at ease!
 
 
-218 7108:6675 Mimitchi
+219 7108:6675 Mimitchi
 
 (Character: Megurine Luka)
 
@@ -1756,7 +1764,7 @@ Luka: Yes, and for a very cute reason. You should ask Miku what she thinks it is
 Mimitchi: Wow, I'm so curious! Then, I'll go ask her now!
 
 
-219 7109:6676 Memetchi
+220 7109:6676 Memetchi
 
 (Character: Megurine Luka)
 

@@ -1779,7 +1779,16 @@ KAITO: Would it be possible for me to practice here, with these books?
 KAITO: In fact, could I read to you and get your feedback?
 
 
-210 7114:6681 Mametchi
+210 6996:6563 read_event_story-179
+
+(Character: KAITO)
+
+KAITO: Maybe Miku's already mentioned it, but a Rin and KAITO from another SEKAI came to our SEKAI recently.
+KAITO: Rin was apparently full of energy, while "I" was very quiet.
+KAITO: He mentioned that he plays in a band in his SEKAI, so it'd be nice to hear him play someday.
+
+
+211 7114:6681 Mametchi
 
 (Character: KAITO)
 
@@ -1791,7 +1800,7 @@ KAITO: So, I think our friend is glad to have met you, and happy about our reuni
 Mametchi: ...! That would be so nice to hear. It makes me a bit nervous, but I think I'll ask.
 
 
-211 7115:6682 Kuchipatchi
+212 7115:6682 Kuchipatchi
 
 (Character: KAITO)
 
@@ -1803,7 +1812,7 @@ Kuchipatchi: Uhh... Miku said, "MEIKO goes all spinny, then you fly all whoosh a
 KAITO: Ah... Sorry, Kuchipatchi, but that's not exactly a ride... It's a bit dangerous, so I don't think we'll be able to do that.
 
 
-212 7116:6683 Mimitchi
+213 7116:6683 Mimitchi
 
 (Character: KAITO)
 
@@ -1815,7 +1824,7 @@ Mimitchi: Sometimes I'll sing a little song while doing my math drills, and I al
 KAITO: Hehe. I see. Now I'm all the more eager to introduce you.
 
 
-213 7117:6684 Memetchi
+214 7117:6684 Memetchi
 
 (Character: KAITO)
 

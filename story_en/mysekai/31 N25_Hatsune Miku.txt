@@ -1732,7 +1732,16 @@ Miku: It's a rocking horse, but it's a sheep?
 Miku: I see. It doesn't have to be a horse.
 
 
-207 7094:6661 Mametchi
+207 6997:6564 read_event_story-179
+
+(Character: Hatsune Miku)
+
+Miku: The other day, an idol version of me came over to our SEKAI...
+Miku: I had a hard time believing that she was me. She was just so dazzling...
+Miku: I'd love to meet the others from her SEKAI someday.
+
+
+208 7094:6661 Mametchi
 
 (Character: Hatsune Miku)
 
@@ -1744,7 +1753,7 @@ Miku: I wonder why...
 Miku: In any case, I'm happy you can tell that I'm Miku.
 
 
-208 7095:6662 Kuchipatchi
+209 7095:6662 Kuchipatchi
 
 (Character: Hatsune Miku)
 
@@ -1756,7 +1765,7 @@ Miku: I am. Mafuyu and the others come to visit, and Rin and the others are ther
 Kuchipatchi: Don't mention it. I was worried you might be all alone!
 
 
-209 7096:6663 Mimitchi
+210 7096:6663 Mimitchi
 
 (Character: Hatsune Miku)
 
@@ -1767,7 +1776,7 @@ Miku: Okay, then I'll sing something.
 Miku: ♪——... ♪————...
 
 
-210 7097:6664 Memetchi
+211 7097:6664 Memetchi
 
 (Character: Hatsune Miku)
 
@@ -1779,7 +1788,7 @@ Memetchi: Just a hunch, since you paused both times you replied to me.
 Miku: ... Oh, I see. I never really thought about it...
 
 
-211 8015:7468 Hello Kitty's Piano
+212 8015:7468 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

@@ -1499,7 +1499,16 @@ Miku: Well, no one's riding it right now, so there's no point in rocking it.
 Miku: This cushion looks really soft and comfortable. Mind if I sit for a bit?
 
 
-182 7078:6645 Mametchi
+182 6988:6555 read_event_story-179
+
+(Character: Hatsune Miku)
+
+Miku: A Len from a different SEKAI came over to our SEKAI the other day.
+Miku: It sounds like it was caused by the trees in each SEKAI...
+Miku: Oh, but you don't have to worry about being sent to a different SEKAI since there isn't a tree like that here.
+
+
+183 7078:6645 Mametchi
 
 (Character: Hatsune Miku)
 
@@ -1510,7 +1519,7 @@ Mametchi: That's right! They told me that you're a very kind, cool and dependabl
 Miku: Huh? Who told you all that? That level of praise is way too embarrassing...
 
 
-183 7079:6646 Kuchipatchi
+184 7079:6646 Kuchipatchi
 
 (Character: Hatsune Miku)
 
@@ -1521,7 +1530,7 @@ Miku: Hehe, thank you. If you're interested in music, Kuchipatchi, why don't you
 Kuchipatchi: That'd be okay?! Whoooa! I wanna do a cool guitar solo!
 
 
-184 7080:6647 Mimitchi
+185 7080:6647 Mimitchi
 
 (Character: Hatsune Miku)
 
@@ -1533,7 +1542,7 @@ Mimitchi: Oh, I get it! Yeah, we are kinda similar!
 Miku: If you like it that much, I guess "Miku-P" isn't so bad...maybe.
 
 
-185 7081:6648 Memetchi
+186 7081:6648 Memetchi
 
 (Character: Hatsune Miku)
 
@@ -1544,7 +1553,7 @@ Miku: Yeah. If I'm going to wear something, I want it to look cool.
 Memetchi: I toootally understand, Miku! That mentality is vital to looking stylish!
 
 
-186 8011:7464 Hello Kitty's Piano
+187 8011:7464 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 
