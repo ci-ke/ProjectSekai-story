@@ -1835,7 +1835,16 @@ Len: This cushion's so soft!
 Len: If you were to sleep on this, I bet it'd be so comfy you'd sleep forever.
 
 
-215 7102:6669 Mametchi
+215 6993:6560 read_event_story-179
+
+(Character: Kagamine Len)
+
+Len: I met a MEIKO from another SEKAI the other day. What a surprise that was!
+Len: She was really interesting, so I bet her SEKAI is a really fun place too.
+Len: I kinda really want to go visit it!
+
+
+216 7102:6669 Mametchi
 
 (Character: Kagamine Len)
 
@@ -1847,7 +1856,7 @@ Mametchi: You DJ?! How cool! I'd love to observe, if it's no trouble...
 Len: Hmm, is there any equipment around here? Let's go ask!
 
 
-216 7103:6670 Kuchipatchi
+217 7103:6670 Kuchipatchi
 
 (Character: Kagamine Len)
 
@@ -1859,7 +1868,7 @@ Len: You like them that much?! Hmm, I was really hoping to answer your question 
 Len: Kuchipatchi, let's go ask our friend together. That's the best way to learn about this SEKAI.
 
 
-217 7104:6671 Mimitchi
+218 7104:6671 Mimitchi
 
 (Character: Kagamine Len)
 
@@ -1871,7 +1880,7 @@ Len: Hehehe. I was thinking I'll look pretty cool if I get better at it than An 
 Mimitchi: No, not at all! I'll do my best to help you be really cool!
 
 
-218 7105:6672 Memetchi
+219 7105:6672 Memetchi
 
 (Character: Kagamine Len)
 

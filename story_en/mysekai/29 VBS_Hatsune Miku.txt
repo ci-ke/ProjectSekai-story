@@ -1516,7 +1516,16 @@ Miku: I wish recipe books were just as easy to understand.
 Miku: I hear real clouds aren't bouncy or fluffy at all, but they still give off that feeling. Is it just because of the shape, you think?
 
 
-178 7086:6653 Mametchi
+178 6992:6559 read_event_story-179
+
+(Character: Hatsune Miku)
+
+Miku: Oh, did I tell you that a MEIKO from a different SEKAI came over to ours?
+Miku: She was so interesting. Cheerful, or maybe boisterous is the right word.
+Miku: She told us she performs in shows, so I hope I get to see her do one someday.
+
+
+179 7086:6653 Mametchi
 
 (Character: Hatsune Miku)
 
@@ -1528,7 +1537,7 @@ Mametchi: Really? It sounds like something I'd love to study!
 Miku: Sure, why not? The more we know about SEKAI, the more we can be helpful for Kohane and the others.
 
 
-179 7087:6654 Kuchipatchi
+180 7087:6654 Kuchipatchi
 
 (Character: Hatsune Miku)
 
@@ -1539,7 +1548,7 @@ Kuchipatchi: Hehehe. Those dumplings on your head had me hankering for a snack a
 Miku: Dumplings...? You mean my buns? Hehe, do you have a big appetite, Kuchipatchi?
 
 
-180 7088:6655 Mimitchi
+181 7088:6655 Mimitchi
 
 (Character: Hatsune Miku)
 
@@ -1549,7 +1558,7 @@ Mimitchi: Okay, do you want to do some together? I'll help you if you get stuck!
 Miku: Are you sure? I guess it's a good opportunity. Maybe it'll teach me a little bit about the struggles and joys of studying.
 
 
-181 7089:6656 Memetchi
+182 7089:6656 Memetchi
 
 (Character: Hatsune Miku)
 
@@ -1560,7 +1569,7 @@ Memetchi: After we said goodbye, I practiced with the rest of my group, and we i
 Miku: Sounds good. I'd like to see the results of your hard work.
 
 
-182 8013:7466 Hello Kitty's Piano
+183 8013:7466 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

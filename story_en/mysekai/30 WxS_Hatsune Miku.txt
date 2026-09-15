@@ -1447,7 +1447,15 @@ Miku: Rocky rocky, rocky rocky...
 Miku: Hehehe... I was pretending to be this rocking sheep, but it's making me really sleepy... *Yawn*
 
 
-175 7090:6657 Mametchi
+175 6995:6562 read_event_story-179
+
+(Character: Hatsune Miku)
+
+Miku: The other day, a Rin and a KAITO from another SEKAI came over to hang out!
+Miku: We put on a show, listened to them play music and did lots of other fun things together☆
+
+
+176 7090:6657 Mametchi
 
 (Character: Hatsune Miku)
 
@@ -1458,7 +1466,7 @@ Miku: Yup! There are as many SEKAI as there are different feelings, so there are
 Mametchi: Really?! SEKAI really is mysterious and fascinating♪
 
 
-176 7091:6658 Kuchipatchi
+177 7091:6658 Kuchipatchi
 
 (Character: Hatsune Miku)
 
@@ -1470,7 +1478,7 @@ Miku: Hehehe, ready? One, two, three!
 Miku & Kuchipatchi: ♪——! ♪——~~!
 
 
-177 7092:6659 Mimitchi
+178 7092:6659 Mimitchi
 
 (Character: Hatsune Miku)
 
@@ -1481,7 +1489,7 @@ Miku: It's true! Wowzer☆ We have so much in common!
 Mimitchi: Maybe there's other stuff like that! Let's look for more similarities♪
 
 
-178 7093:6660 Memetchi
+179 7093:6660 Memetchi
 
 (Character: Hatsune Miku)
 
@@ -1493,7 +1501,7 @@ Miku & Memetchi: Let's play the staring game! First to squint loses!
 Miku & Memetchi: Sparkle sparkle sparkle!!!
 
 
-179 8014:7467 Hello Kitty's Piano
+180 8014:7467 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

@@ -1732,7 +1732,16 @@ Rin: The thing is, the girls had a nightmare in our SEKAI recently... I was worr
 Rin: If you have any strange dreams, come and talk to me! I'll cheer you up and make you forget aaall about it♪
 
 
-211 7098:6665 Mametchi
+211 6991:6558 read_event_story-179
+
+(Character: Kagamine Rin)
+
+Rin: You gotta hear this! The other day, the Luka from another SEKAI came over to visit!
+Rin: She was so different from the Luka we know. How do I describe her? She was really cool!
+Rin: I didn't realize that being from another SEKAI would mean she'd be so different. I was so surprised!
+
+
+212 7098:6665 Mametchi
 
 (Character: Kagamine Rin)
 
@@ -1744,7 +1753,7 @@ Mametchi: I see! You hope to improve your performance by practicing even in your
 Rin: Y-You think so? Hehe, you're gonna make me blush.
 
 
-212 7099:6666 Kuchipatchi
+213 7099:6666 Kuchipatchi
 
 (Character: Kagamine Rin)
 
@@ -1756,7 +1765,7 @@ Rin: Um, I'd say she likes eating... But she's an idol, so she has to be careful
 Kuchipatchi: So she and I are food buddies! I'll take some snacks over and talk to her!
 
 
-213 7100:6667 Mimitchi
+214 7100:6667 Mimitchi
 
 (Character: Kagamine Rin)
 
@@ -1767,7 +1776,7 @@ Rin: Oh... So that's what it's about.
 Rin: I totally figured you got lost easily, or were bad with technology.
 
 
-214 7101:6668 Memetchi
+215 7101:6668 Memetchi
 
 (Character: Kagamine Rin)
 

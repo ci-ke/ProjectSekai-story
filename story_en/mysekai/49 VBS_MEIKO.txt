@@ -1777,7 +1777,16 @@ MEIKO: What a soft and comfortable cushion.
 MEIKO: I wonder if I could replicate this feeling with a design that suits the decor of the cafe a little better...
 
 
-212 7110:6677 Mametchi
+212 6994:6561 read_event_story-179
+
+(Character: MEIKO)
+
+MEIKO: Have you ever met someone you'd consider your other self? The other day, I got to meet the me from a different SEKAI.
+MEIKO: It was such a strange experience. I didn't realize that our personalities, as well as what we value, would be so different.
+MEIKO: Is this what it's like to be someone's twin?
+
+
+213 7110:6677 Mametchi
 
 (Character: MEIKO)
 
@@ -1789,7 +1798,7 @@ Mametchi: Wow... You really feel like you run a cafe. There's this calm air abou
 MEIKO: You think so? Well, the SEKAI I'm from has a free spirit and a fickle flake to deal with, so I need to keep my act together if I don't want to get dragged around in their wake.
 
 
-213 7111:6678 Kuchipatchi
+214 7111:6678 Kuchipatchi
 
 (Character: MEIKO)
 
@@ -1800,7 +1809,7 @@ Kuchipatchi: Salisbury steak lunches, rice omelet lunches...! Oh, that made me d
 MEIKO: Hehe. I hope you'll drop by if you ever make your way to our SEKAI. I'll toss in a dessert or up the size for you.
 
 
-214 7112:6679 Mimitchi
+215 7112:6679 Mimitchi
 
 (Character: MEIKO)
 
@@ -1810,7 +1819,7 @@ Mimitchi: He told me he wants to get good at math so he can look more cool. That
 MEIKO: Getting cooler by studying math... Hehe. He must want to impress An and Akito.
 
 
-215 7113:6680 Memetchi
+216 7113:6680 Memetchi
 
 (Character: MEIKO)
 
