@@ -1,0 +1,172 @@
+1 2714:areatalk_wl_piapro_02_001
+
+[School SEKAI - School]
+
+(Character: Hatsune Miku, Kagamine Rin, KAITO)
+
+Miku (Ln): That amusement park SEKAI you went to sounds pretty fun. I wish I'd gotten to go too.
+Rin (Ln): It wasn't “pretty” fun. It was really fun! Right, KAITO?!
+KAITO (Ln): I think some people might not find such a lively place “fun”, exactly...
+Rin (Ln): What?! You had fun, right, KAITO?!
+KAITO (Ln): Well, yes...
+KAITO (Ln): I have a feeling that you also would've enjoyed that atmosphere, Miku.
+Miku (Ln): Ugh... You're just making me want to go even more.
+
+
+2 2715:areatalk_wl_piapro_02_002
+
+[School SEKAI - School]
+
+(Character: Kagamine Len, Megurine Luka, MEIKO)
+
+Luka (Ln): Maybe I'm imagining things, but you've seemed a little sad since that other Len went back to his SEKAI.
+Len (Ln): I have?
+MEIKO (Ln): Yes. I keep seeing you gazing out the window, or contemplatively playing your guitar.
+Len (Ln): I normally do those things.
+Len (Ln): I mean... I do wish we'd had a bit more time to talk.
+Luka (Ln): I hope you get another chance to see him in the future.
+Len (Ln): Yeah, not likely. Besides, if stuff like that happened all the time, everything would be all out of whack around here.
+MEIKO (Ln): Yes, that is true...
+MEIKO & Luka: (But he could stand to be a little more honest...)
+
+
+3 2716:areatalk_wl_piapro_02_003
+
+[Stage SEKAI - Stage]
+
+(Character: Hatsune Miku, Kagamine Len, MEIKO)
+
+Len (MMJ): Hey, Miku. You did great during practice today.
+MEIKO (MMJ): Yes, I'm glad to see you doing so well.
+MEIKO (MMJ): I was worried that being sent to a different SEKAI would cause you to suffer some side effects.
+Miku (MMJ): S-Side effects?! Wait, could it be...?
+Len (MMJ): Oh, has something happened?
+Miku (MMJ): The thing is, while I was changing after dance practice just now, I tried to pull my head through an arm hole.
+Len (MMJ): Uh...
+Miku (MMJ): I also almost choked while drinking some water. That's never happened before, so does that mean...?
+MEIKO (MMJ): (Yes, she hardly ever makes those kinds of silly mistakes. But “hardly ever” doesn't mean “never”...)
+Len (MMJ): Don't worry, Miku. You're probably just feeling the fatigue from practice.
+MEIKO (MMJ): Len's right. So, why don't we have some tea in the flower field? I'll even prepare some snacks to make up for asking you such a scary question♪
+Miku (MMJ): Really? Then, if you don't mind...
+
+
+4 2717:areatalk_wl_piapro_02_004
+
+[Stage SEKAI - Stage]
+
+(Character: Kagamine Rin, Megurine Luka, KAITO)
+
+Rin (MMJ): That Luka's singing voice was so powerful and cool.
+Luka (MMJ): Oh, would you like to try singing like her?
+Rin (MMJ): Hehe. A little... Do you think I can?
+KAITO (MMJ): You practice singing every day, so I'm sure you can sing powerfully like her if you put your mind to it.
+Rin (MMJ): Really?! Then, I wanna give it a try!
+Luka (MMJ): That could be fun♪ If we learn new ways to express ourselves, we might be able to sing all sorts of new songs.
+KAITO (MMJ): Yes, and we could learn quite a lot from singing songs other than idol ones.
+Rin (MMJ): Yay! The three of us can give this a try together♪
+
+
+5 2718:areatalk_wl_piapro_02_005
+
+[Street SEKAI - Cafe]
+
+(Character: Hatsune Miku, Megurine Luka, MEIKO)
+
+Luka (VBS): I wish I'd gotten to meet that other MEIKO...
+MEIKO (VBS): You're still going on about that? Even though you got to meet all those other versions of us when you were sent to their SEKAI?
+Miku (VBS): It sounds like you got the more exciting experience for sure.
+Luka (VBS): Well, sure... But you all got to meet her, and I didn't. I feel left out.
+Miku (VBS): Look who's talking. We told you Kohane and the others would be practicing here today,, but you showed up right at the end. And then you complained, “Why didn't they wait for me?”
+Luka (VBS): But this wonderful breeze blew by while I was singing. It felt so good that I ended up forgetting all about our meeting time...
+Luka (VBS): Which means... Yes, that breeze is to blame!
+MEIKO (VBS): Whatever you say. If you want to practice with the others, then you need to be more punctual.
+
+
+6 2719:areatalk_wl_piapro_02_006
+
+[Street SEKAI - Cafe]
+
+(Character: Kagamine Rin, Kagamine Len, KAITO)
+
+Rin (VBS): No fair, MEIKO. You got to meet another you. I wish I got to do that.
+KAITO (VBS): But what would you do if that actually happened?
+Len (VBS): We'd be friends, obviously! I'd ask her all about what her SEKAI is like and what she likes to do!
+Rin (VBS): You got to meet that other you way back when, KAITO! Remember how excited you were?
+KAITO (VBS): Yes, I definitely was excited. And that other me just looked so cool!
+Len (VBS): That's just how he looks, though. You gotta really get to know him if you wanna be friends with him.
+KAITO (VBS): Yes, I know, but we're “KAITO buddies”. We don't really have to speak to be friends just naturally.
+Rin (VBS): Something about that doesn't feel right... But “Rin buddies” does have a nice ring to it.
+Len (VBS): Yeah, same with “Len buddies”...! Man, now I really wanna meet some other mes!
+KAITO (VBS): A miracle's already happened once, so it could happen again! Though, I guess miracles are miracles because they don't happen very often.
+Len (VBS): Ugh! Are you trying to raise our hopes or dash them?! At least stick to one or the other!
+
+
+7 2720:areatalk_wl_piapro_02_007
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Hatsune Miku, MEIKO, KAITO)
+
+Miku (WxS): Oh, KAITO, about our next show! Let's set it at a cafe☆
+KAITO (WxS): A cafe? Can I ask why?
+MEIKO (WxS): I spent a lot of time talking with the MEIKO in that SEKAI I ended up in, and learned a lot about cafes. So I want to run one!
+KAITO (WxS): You did mention that MEIKO ran a cafe, after all.
+MEIKO (WxS): Yes! And I want to make use of all this new knowledge I have!
+KAITO (WxS): I see your point. The idea for your show sounds interesting, so let's start discussing the story for it—
+MEIKO (WxS): Alright, now that you've given it the green light, we need to start building the evil, giant Count Coffee Mill!
+Miku (WxS): Cool☆ And I've already come up with some good lines for him! “Gwahahaha! I'll grind you to pieces!”
+KAITO (WxS): Umm... Maybe I should take back what I just said...
+
+
+8 2721:areatalk_wl_piapro_02_008
+
+[Wonderland SEKAI - Amusement Park]
+
+(Character: Kagamine Rin, Kagamine Len, Megurine Luka)
+
+Rin (WxS): *Sigh*
+Len (WxS): Cheer up, Rin. I'm sure you'll get to meet that other Rin again someday.
+Rin (WxS): Sure, I'd like to think that... But that was basically a miracle, so...
+Len (WxS): Well...
+Luka (WxS): Cheer up, you two.
+Luka (WxS): I'll teach you a magic spell that will help you meet the people you want to see in your dreams.
+Rin (WxS): Wait, that kind of spell exists?
+Luka (WxS): Yes, it was in one of the picture books Emu lent me. So, why don't we cast it and then take a nap together?
+Len (WxS): Hehe. You just wanna take a nap, don't you?
+Rin (WxS): But that does sound like fun! Let's give it a try!
+
+
+9 2722:areatalk_wl_piapro_02_009
+
+[Empty SEKAI - Expanse]
+
+(Character: Hatsune Miku, Megurine Luka, KAITO)
+
+Luka (N25): The Miku from that other SEKAI was such a kind and cheerful girl.
+KAITO (N25): Coming from you, that sounds like a veiled insult.
+Luka (N25): You're awful. I meant what I said. You know what I mean, right, Miku?
+Miku (N25): *Nod* That me was really nice and so dazzling.
+Miku (N25): She sang so much and did everything she could to cheer Mafuyu and the others up...
+Luka (N25): That's right. Even after her first show failed, she did another one for us. You have to be pretty strong to manage that.
+KAITO (N25): The owners of the feelings where she's from must possess that strength. If only Mafuyu had even a sliver of what they do...
+Luka (N25): You shouldn't ask for the impossible. And it's our job to provide support for her, remember?
+Miku (N25): *Nod* I want to do my best to learn from her example...
+
+
+10 2723:areatalk_wl_piapro_02_010
+
+[Empty SEKAI - Expanse]
+
+(Character: Kagamine Rin, Kagamine Len, MEIKO)
+
+Rin (N25): Luka said that the KAITO from the SEKAI where you were sent is similar to our KAITO, Len. Is that true?
+MEIKO (N25): We had a hard time believing her, so we'd appreciate it if you could tell us the truth of things.
+Len (N25): Um, I didn't actually meet him. All I can tell you is what I was told...
+Len (N25): But I don't think they're alike... He apparently doesn't talk very much and likes to be by himself.
+Rin (N25): That sounds a lot like our KAITO.
+Len (N25): Oh, um... Right, there are some parts that are similar, but also...
+Len (N25): The me from over there said their KAITO is easily embarrassed and isn't much of a talker.
+Rin (N25): Easily embarrassed and not much of a talker...?
+MEIKO (N25): I'm struggling to imagine that...
+
+
