@@ -1,14 +1,8 @@
-assets
-misc
-crawler
+/*
 
-*.py
-*.log
-__pycache__
-.vscode
-.venv
-pyproject.toml
-uv.lock
+!/.gitignore
+!/.github/
+!/README.md
 
-*.ps1
-*.lnk
+!/story_*/
+!/AGENTS.md
