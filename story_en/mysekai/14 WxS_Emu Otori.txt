@@ -1762,7 +1762,38 @@ Emu: Oh, I know! I'll ask Rui and Mametchi if they can make us a machine that le
 Memetchi: That would be wonderful♪ If you do manage to come visit, we'll be sure to show you around!
 
 
-212 8009:7462 Cinnamoroll's Cafe Table
+212 7181:6745 SEKAI Stage Counter Chair
+
+(Character: Emu Otori)
+
+Emu: I really like kicking my feet on chairs like this♪
+Emu: Huh? Why do I like it? Hmm... I wonder why☆
+
+
+213 7182:6746 SEKAI Stage Stage Light
+
+(Character: Emu Otori)
+
+Emu: We use all kinds of lights for our shows!
+Emu: Rui thinks up lots and lots of effects for us, you see. Like underwater lighting, or outer space lighting! He can do it all. It's amazing!
+
+
+214 7183:6747 SEKAI Stage DJ Booth
+
+(Character: Emu Otori)
+
+Emu: I know what this is! This is where you spin the big CD-looking things, right?!
+
+
+215 7184:6748 phenomena-SEKAI
+
+(Character: Emu Otori)
+
+Emu: Wow, wow! Look at all the pretty lights!
+Emu: Are those the same shinies as the ones in our SEKAI? Okay! I'll catch some and we can compare☆
+
+
+216 8009:7462 Cinnamoroll's Cafe Table
 
 (Character: Emu Otori)
 

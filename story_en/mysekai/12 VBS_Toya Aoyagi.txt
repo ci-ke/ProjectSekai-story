@@ -1948,7 +1948,39 @@ Memetchi: We haven't had a chance to talk properly yet. Toya, could you introduc
 Toya: Of course. I'd be happy to help.
 
 
-229 8008:7461 Pochacco's Street Wall
+229 7169:1094~ SEKAI Stage Mic Stand
+
+(Character: Toya Aoyagi)
+
+Toya: Every time I see a mic, I get the urge to sing and start to feel restless.
+
+
+230 7172:6736 SEKAI Stage Speaker
+
+(Character: Toya Aoyagi)
+
+Toya: Large speakers are more powerful than smaller ones, and have better bass-range response.
+Toya: This speaker looks like it has a great bass range.
+
+
+231 7173:6737 SEKAI Stage DJ Booth
+
+(Character: Toya Aoyagi)
+
+Toya: This is an impressive DJ booth. Len and the others will love this.
+Toya: That's right. Len and Rin, as well as KAITO, can all DJ.
+Toya: You should ask them to perform sometime. I'm sure they would be happy to oblige.
+
+
+232 7174:6738 phenomena-SEKAI
+
+(Character: Toya Aoyagi)
+
+Toya: When it comes to sparkling phenomena in the air, diamond dust comes to mind...
+Toya: But I wonder what sort of phenomenon caused these?
+
+
+233 8008:7461 Pochacco's Street Wall
 
 (Character: Toya Aoyagi)
 

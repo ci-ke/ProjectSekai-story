@@ -1744,7 +1744,31 @@ Memetchi: Hey, Ena. Can you give me some more hairstyling and hair care tips?
 Ena: Sure. I have a lot, so I don't know where to start...
 
 
-202 8010:7463 KUROMI's Floor Cushion
+202 7204:6767 SEKAI Stage Tall Table
+
+(Character: Ena Shinonome)
+
+Ena: It's pretty amazing how a design this simple can be both cute and stylish at the same time.
+
+
+203 7205:6768 SEKAI Stage DJ Booth
+
+(Character: Ena Shinonome)
+
+Ena: Can you DJ? Could you do a bit for me?
+Ena: I'll warn you, Kanade showed me this really amazing DJ and I've been using their music as my work playlist, so I'm a tough critic.
+Ena: Oh, I'm just teasing. I'm not going to compare you to a pro. Just have fun with it.
+
+
+204 7206:6769 phenomena-SEKAI
+
+(Character: Ena Shinonome)
+
+Ena: What a pretty sky. There's some pink and purple, and all these sparkles.
+Ena: Well, it sure isn't ordinary, so it's a bit of a shock. But I'm always happy to see pretty things.
+
+
+205 8010:7463 KUROMI's Floor Cushion
 
 (Character: Ena Shinonome)
 

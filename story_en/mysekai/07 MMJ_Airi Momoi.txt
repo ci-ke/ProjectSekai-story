@@ -1727,7 +1727,31 @@ Airi: You have to get used to applying makeup, so the important thing is to keep
 Memetchi: Right... So makeup is just like hair care. It takes daily effort.
 
 
-207 8007:7460 My Melody's Lovely Sofa
+207 7150:6715 SEKAI Stage Speaker
+
+(Character: Airi Momoi)
+
+Airi: That's a really big speaker.
+Airi: I bet you could hear this thing from the other side of the SEKAI.
+
+
+208 7151:6716 SEKAI Stage DJ Booth
+
+(Character: Airi Momoi)
+
+Airi: Hey, everyone! Are you all ready to party?!
+Airi: Just playing around a little. What do you think? Could I make it as a real DJ?
+
+
+209 7152:6717 phenomena-SEKAI
+
+(Character: Airi Momoi)
+
+Airi: Huh? I thought I saw something shining...
+Airi: Well, it's SEKAI, after all. These things happen...right?
+
+
+210 8007:7460 My Melody's Lovely Sofa
 
 (Character: Airi Momoi)
 
