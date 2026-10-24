@@ -1980,7 +1980,80 @@ Toya: When it comes to sparkling phenomena in the air, diamond dust comes to min
 Toya: But I wonder what sort of phenomenon caused these?
 
 
-233 8008:7461 Pochacco's Street Wall
+233 7317:6876 Romantic Garden Carriage
+
+(Character: Toya Aoyagi)
+
+Toya: When I was young, I had the chance to go on a sightseeing tour in a horse-drawn carriage during one of my father's trips overseas.
+Toya: The scenery was beautiful, but I most enjoyed the pleasant sound of the horses' hooves on the cobblestones.
+
+
+234 7318:6877 Romantic Garden Sculpture (Right)
+
+(Character: Toya Aoyagi)
+
+Toya: I once sat on a horse when I was young... But the horse's back was much higher than I had expected, and I couldn't stop shaking.
+Toya: The horse seemed to understand how I felt, because even when the instructor signaled for him to move, he stayed still.
+Toya: I've always heard that horses are intelligent and gentle creatures, and that horse certainly was.
+
+
+235 7319:6878 Romantic Garden Potted Plants
+
+(Character: Toya Aoyagi)
+
+Toya: Four very different types of flowers, each blooming beautifully. Each has its own appeal, yet they strike a fine balance together.
+Toya: Somehow, it reminds me of us. I couldn't say why, though...
+
+
+236 7320:6879 Romantic Garden Pond
+
+(Character: Toya Aoyagi)
+
+Toya: The babbling of water has a relaxing effect, psychologically speaking. When you're tired, it helps to listen to nature.
+
+
+237 7321:6880 Romantic Garden Archway
+
+(Character: Toya Aoyagi)
+
+Toya: What a beautiful rose arch... It must have been difficult to cultivate them so well.
+
+
+238 7437:6877~ Romantic Garden Sculpture (Left)
+
+(Character: Toya Aoyagi)
+
+Toya: I once sat on a horse when I was young... But the horse's back was much higher than I had expected, and I couldn't stop shaking.
+Toya: The horse seemed to understand how I felt, because even when the instructor signaled for him to move, he stayed still.
+Toya: I've always heard that horses are intelligent and gentle creatures, and that horse certainly was.
+
+
+239 7477:7006 Halloween Candy
+
+(Character: Toya Aoyagi)
+
+Toya: You're ready for Halloween, I see. With this much candy, you're sure to be safe from any tricksters.
+
+
+240 7478:7007 Halloween Ghost
+
+(Character: Toya Aoyagi)
+
+Toya: A Halloween decoration, I see. If it's something this cute, maybe even Shiraishi could...
+Toya: Oh, no....never mind. Forget I said anything.
+
+
+241 7519:7048 Halloween Pumpkin
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Toya: I saw that MEIKO has added pumpkin soup to the cafe menu.
+Akito: Yeah. Must be a Halloween menu type of thing.
+Toya: I see. Was that also why you asked MEIKO if she could make you a pumpkin pie?
+Akito: No...I just wanted some, that's all.
+
+
+242 8008:7461 Pochacco's Street Wall
 
 (Character: Toya Aoyagi)
 

@@ -1902,3 +1902,76 @@ An: You gotta hear this! I got to be in a music festival the other day!
 An: It was so much fun! The crowd went totally wild and the performances ended up being really great!
 An: My friends and I also played with fireworks, had a barbeque... And made all these awesome memories together.
 An: I hope I get to have that much fun again soon. I need to keep working hard so that'll happen!
+
+
+219 7307:6866 Romantic Garden Carriage
+
+(Character: An Shiraishi)
+
+An: Wow, this looks like something a princess would ride in! Are you planning to take someone on a ride in this?
+An: Hey, you should tell me who! I promise I won't tell anyone else!
+
+
+220 7308:6867 Romantic Garden Sculpture (Right)
+
+(Character: An Shiraishi)
+
+An: It's a statue! I thought it was a really big horse.
+An: Oh, we can get on it? Maybe I'll give that a try!
+
+
+221 7309:6868 Romantic Garden Pond
+
+(Character: An Shiraishi)
+
+An: Wow, what a pretty pond! Do you have any fish in it?
+
+
+222 7310:6869 Romantic Garden Archway
+
+(Character: An Shiraishi)
+
+An: Look at all these pretty roses! I've heard it's hard to get roses to bloom, but you've got it down.
+
+
+223 7311:6870 Romantic Garden Tea
+
+(Character: An Shiraishi)
+
+An: Ooh, this tea and these scones look tasty! Time for an elegant afternoon teatime?
+An: Huh? Where's the cream and jam for the scones? If you have some, you should put them on! They're really good that way!
+
+
+224 7435:6867~ Romantic Garden Sculpture (Left)
+
+(Character: An Shiraishi)
+
+An: It's a statue! I thought it was a really big horse.
+An: Oh, we can get on it? Maybe I'll give that a try!
+
+
+225 7474:7003 Halloween Pumpkin
+
+(Character: An Shiraishi)
+
+An: So, jack-o'-lanterns... Why is it they get scarier the longer you look at them?
+An: It's probably because they're grinning. They should smile more cutely instead.
+
+
+226 7475:7004 Halloween Withered Tree
+
+(Character: An Shiraishi)
+
+An: This tree looks a bit too real, doesn't it? I don't think you had to go quite so hard on the details...
+An: Ah, just so you know, it's not scary. It's not, okay? It's just...
+An: It's just impressive how much of an aura it's got going on. That's all.
+
+
+227 7521:7050 Halloween Ghost
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Hey, Kohane. Isn't this ghost kind of scary?
+Kohane: It is. Its eyes feel almost like they're drawing me in...
+Kohane: Ah...but don't worry, An. If it tries to spook you, I'll protect you!
+An: K-Kohane...!

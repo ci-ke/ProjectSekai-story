@@ -1751,7 +1751,89 @@ Airi: Huh? I thought I saw something shining...
 Airi: Well, it's SEKAI, after all. These things happen...right?
 
 
-210 8007:7460 My Melody's Lovely Sofa
+210 7291:6850 Romantic Garden Carriage
+
+(Character: Airi Momoi)
+
+Airi: This is a pretty authentic carriage. Who are you taking to the ball?
+Airi: Huh, me? Hehe. I know you're joking, but that still makes me happy.
+Airi: Sorry, though. I can't accept your invitation. I'm everyone's idol, after all.
+
+
+211 7292:6851 Romantic Garden Sculpture (Right)
+
+(Character: Airi Momoi)
+
+Airi: The others said you can sit on this statue, but... It's not on wheels or anything? It won't start moving as soon as I sit down?
+Airi: Nah, this isn't a variety program, after all. I'm overthinking things!
+
+
+212 7293:6852 Romantic Garden Pond
+
+(Character: Airi Momoi)
+
+Airi: Well, that's a nice pond. It has a very different aesthetic from a Japanese garden pond.
+
+
+213 7294:6853 Romantic Garden Archway
+
+(Character: Airi Momoi)
+
+Airi: This is pretty amazing. I'd love to wear a fancy princess dress and stroll around a garden full of arches like this.
+
+
+214 7295:6854 Romantic Garden Tea
+
+(Character: Airi Momoi)
+
+Airi: The tea and scones both look delicious! Oh, do you have a favorite way to eat scones?
+Airi: If you do, I'd love to hear it. And I'll teach you my favorite way in return!
+
+
+215 7419:6978 Romantic Garden Gazebo
+
+(Character: Airi Momoi, Kagamine Rin)
+
+Rin: This gazebo looks like the one in our SEKAI! What if they're actually a matched set?
+Airi: That would be nice if they were. But I think every gazebo is designed more or less like this.
+Rin: Really?! I'm glad I asked before I started getting really excited about how this SEKAI and ours match!
+Airi: Well, it's pretty rare to have a gazebo in your garden, so in that sense I guess they do match.
+
+
+216 7432:6851~ Romantic Garden Sculpture (Left)
+
+(Character: Airi Momoi)
+
+Airi: The others said you can sit on this statue, but... It's not on wheels or anything? It won't start moving as soon as I sit down?
+Airi: Nah, this isn't a variety program, after all. I'm overthinking things!
+
+
+217 7468:6997 Halloween Pumpkin
+
+(Character: Airi Momoi)
+
+Airi: These kinds of seasonal decorations are great.
+Airi: It's good to keep your ear to the ground for the latest topics and trends, and that includes seasonal events.
+
+
+218 7469:6998 Halloween Ghost
+
+(Character: Airi Momoi)
+
+Airi: This face... I don't know if it's cute or scary...
+
+
+219 7517:7046 Halloween Candy
+
+(Character: Minori Hanasato, Airi Momoi)
+
+Airi: Trick or treat, Minori! Give me candy, or I'll play a prank on you!
+Minori: Aah! I didn't think you'd come at me here!
+Minori: Ah! I can have some of this candy here?! Thank you! Now I can give this to Airi!
+Airi: Oh, looks like our kind host saved you this time. I had a real doozy of a prank planned, too. Oh well.
+
+
+220 8007:7460 My Melody's Lovely Sofa
 
 (Character: Airi Momoi)
 

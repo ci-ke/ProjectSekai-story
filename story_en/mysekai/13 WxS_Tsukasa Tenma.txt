@@ -1843,3 +1843,81 @@ Tsukasa: Don't tell me you can DJ, too?! You are an individual of many talents..
 
 Tsukasa: What a fantastical atmosphere.
 Tsukasa: And yet, rather than awe-inspiring, it feels gentle and welcoming... Truly a strange feeling.
+
+
+221 7322:6881 Romantic Garden Carriage
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: So this is a carriage! Indeed, this seems like the perfect vehicle for a star!
+
+
+222 7323:6882 Romantic Garden Sculpture (Right)
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: I've heard that we are allowed to sit atop this statue... Oh, it's true!
+Tsukasa: In that case, I'll gladly show you my gallant horse-riding form! Of course you may also take pictures!
+
+
+223 7324:6883 Romantic Garden Pond
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: What a fine pond! Hmm... I wonder if we could use this as reference for a stage prop somehow.
+
+
+224 7325:6884 Romantic Garden Archway
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: What! A rose arch?! To think you had something with such starlike flair!
+Tsukasa: I can't just sit here! I need to think of a fitting pose for this magnificent arch, posthaste!
+
+
+225 7326:6885 Romantic Garden Tea
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: Taking afternoon tea? How elegant.
+Tsukasa: Could this star perhaps join you? To add an extra touch of brilliance.
+
+
+226 7327:6886 Romantic Garden Cypress
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: Ah, a cypress tree. I've seen this variety in the works of a famous painter.
+
+
+227 7438:6882~ Romantic Garden Sculpture (Left)
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: I've heard that we are allowed to sit atop this statue... Oh, it's true!
+Tsukasa: In that case, I'll gladly show you my gallant horse-riding form! Of course you may also take pictures!
+
+
+228 7479:7008 Halloween Withered Tree
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: This tree... Something about it exudes a fearsome aura.
+
+
+229 7480:7009 Halloween Ghost
+
+(Character: Tsukasa Tenma)
+
+Tsukasa: Th-This is rather well-made! It startled even me!
+Tsukasa: And I do mean startled, not scared. I certainly didn't think it was real for a moment!
+
+
+230 7523:7052 Halloween Pumpkin
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Tsukasa: Oho, a jack-o'-lantern! Truly the emblem of Halloween!
+Rui: Now now, don't forget my zombie robots.
+Rui: It seems they've become quite the hit in Phoenix Wonderland's Halloween events.
+Tsukasa: Is that so? Then we'll have to make time to go and witness their heroic contributions!

@@ -1923,3 +1923,82 @@ Len: I can? Hooray! Watch closely, because I'm really gonna knock your socks off
 Len: The sky's a ton of colors all mixed together, huh? It's...weirdly pretty.
 Len: Man, this sucks. The sky's so amazing, but I can only think of ordinary words to describe it.
 Len: I wonder if Toya would be able to say something cooler?
+
+
+224 7389:6948 Romantic Garden Carriage
+
+(Character: Kagamine Len)
+
+Len: Hey, this is called a carriage, right?
+Len: We don't have anything like this in our SEKAI, so it was a real shock to see it!
+
+
+225 7390:6949 Romantic Garden Sculpture (Right)
+
+(Character: Kagamine Len)
+
+Len: This horse statue is super cool! It feels like it could come alive at any minute.
+Len: Wait, we can sit on top?! Woohoo! I want to try!
+
+
+226 7391:6950 Romantic Garden Pond
+
+(Character: Kagamine Len)
+
+Len: Hey, this pond... Are you gonna put any fish in here?
+Len: Man, I wish there was a place to go fishing in our SEKAI. I'd catch some and bring them to you.
+
+
+227 7392:6951 Romantic Garden Archway
+
+(Character: Kagamine Len)
+
+Len: Wow, it's a rose arch! One of these makes a whole garden feel fancy just on its own!
+Len: Huh? You don't think it's that easy?
+Len: In that case, you'll have to show me your idea of a really fancy garden someday!
+
+
+228 7393:6952 Romantic Garden Tea
+
+(Character: Kagamine Len)
+
+Len: Black tea... I don't drink it much, actually. I usually get juice or coffee at MEIKO's cafe.
+Len: Hey, what's your favorite way to drink it? I'll give it a try sometime!
+
+
+229 7451:6949~ Romantic Garden Sculpture (Left)
+
+(Character: Kagamine Len)
+
+Len: This horse statue is super cool! It feels like it could come alive at any minute.
+Len: Wait, we can sit on top?! Woohoo! I want to try!
+
+
+230 7503:7032 Halloween Pumpkin
+
+(Character: Kagamine Len)
+
+Len: Oh, it's a Halloween pumpkin! Or, uh, jack-o'-lantern, right?
+Len: Oh, right! I hope you remember to have candy ready too!
+Len: It's fun pulling tricks on people, but in the end I still want to get lots of candy too.
+
+
+231 7520:7049 Halloween Candy
+
+(Character: Kagamine Len, MEIKO)
+
+Len: Hey, MEIKO! Do you have your Halloween candy ready?
+MEIKO: Yes, of course. I don't want you all pranking me, after all.
+Len: Hahaha! Which of our pranks caused you the most trouble?
+MEIKO: Hmm. Probably all the bites you stole off the food I was preparing for our Halloween party?
+Len: Well, we just couldn't wait for the... I mean, that was totally planned!
+
+
+232 7522:7051 Halloween Ghost
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Len: Hey! If I hid behind this ghost and shouted "trick or treat!", do you think people would be spooked?
+Akito: Uh... Probably?
+Akito: At the least, I bet it would work on An.
+Len: Well...I just want to prank people, not actually scare them. So I'll try it on everyone except An!

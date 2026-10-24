@@ -1853,3 +1853,73 @@ MEIKO: But if you asked me to put on a real show, I think I would struggle.
 
 MEIKO: Oh, that wind...
 MEIKO: Somehow, even the wind seems to be sparkling. You must have felt it pass too, right?
+
+
+220 7394:6953 Romantic Garden Carriage
+
+(Character: MEIKO)
+
+MEIKO: What a nice carriage. Are you planning to take someone to a ball?
+
+
+221 7395:6954 Romantic Garden Sculpture (Right)
+
+(Character: MEIKO)
+
+MEIKO: What a handsome statue. The mane is so detailed.
+
+
+222 7396:6955 Romantic Garden Pond
+
+(Character: MEIKO)
+
+MEIKO: This is a lovely pond.
+MEIKO: There aren't really any natural places like this in our SEKAI. I admit, I'm a little envious.
+
+
+223 7397:6956 Romantic Garden Archway
+
+(Character: MEIKO)
+
+MEIKO: What a wonderful arch. It must have been hard work getting all these roses to bloom so beautifully.
+
+
+224 7398:6957 Romantic Garden Tea
+
+(Character: MEIKO)
+
+MEIKO: Oh, these scones look delicious. Are you an experienced baker?
+
+
+225 7452:6954~ Romantic Garden Sculpture (Left)
+
+(Character: MEIKO)
+
+MEIKO: What a handsome statue. The mane is so detailed.
+
+
+226 7504:7033 Halloween Pumpkin
+
+(Character: MEIKO)
+
+MEIKO: Such a cute jack-o'-lantern.
+MEIKO: Oh, what did you do with the scooped-out parts? I know some great recipes for pumpkin soup or baked goods if you need them.
+
+
+227 7505:7034 Halloween Withered Tree
+
+(Character: MEIKO)
+
+MEIKO: Is this a Halloween decoration?
+MEIKO: I see you're not just focusing on pumpkins and ghosts, but creating a whole atmosphere.
+
+
+228 7520:7049 Halloween Candy
+
+(Character: Kagamine Len, MEIKO)
+
+Len: Hey, MEIKO! Do you have your Halloween candy ready?
+MEIKO: Yes, of course. I don't want you all pranking me, after all.
+Len: Hahaha! Which of our pranks caused you the most trouble?
+MEIKO: Hmm. Probably all the bites you stole off the food I was preparing for our Halloween party?
+Len: Well, we just couldn't wait for the... I mean, that was totally planned!

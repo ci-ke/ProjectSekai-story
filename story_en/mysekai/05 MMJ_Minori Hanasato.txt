@@ -1830,3 +1830,92 @@ Minori: It's called...scratching, right? I bet An...uh, my friend can do that!
 
 Minori: It's such a weird sight, but it feels warm and kind somehow too.
 Minori: Hehe. I bet it's because you're a good person!
+
+
+210 7280:6839 Romantic Garden Carriage
+
+(Character: Minori Hanasato)
+
+Minori: A carriage! That really takes me back...
+Minori: ASRUN, Haruka's old group, used to do this thing during shows where they'd ride down to the audience in a cart shaped like a carriage.
+Minori: Haruka is always radiant, but she was even brighter then! Wah! Just remembering it is making my heart race!
+
+
+211 7281:6840 Romantic Garden Sculpture (Right)
+
+(Character: Minori Hanasato)
+
+Minori: Huh? There's a staircase on the side of this statue... Oh! Can we get on this horse?!
+Minori: So that's what the stairs are for! In that case, don't mind if I do!
+
+
+212 7282:6841 Romantic Garden Potted Plants
+
+(Character: Minori Hanasato)
+
+Minori: These flowers are really pretty. I'm not any good at keeping flowers alive, so this is really impressive!
+
+
+213 7283:6842 Romantic Garden Pond
+
+(Character: Minori Hanasato)
+
+Minori: Wow, what a nice pond! You could take photos here with a pretty dress on and make it into a really nice photobook!
+
+
+214 7284:6843 Romantic Garden Archway
+
+(Character: Minori Hanasato)
+
+Minori: Rose trellis arches are so nice. I wish our garden at home could have something like this in it.
+
+
+215 7285:6844 Romantic Garden Cypress
+
+(Character: Minori Hanasato)
+
+Minori: This is a type of cypress, huh? It looks kind of familiar...
+Minori: Oh, now I remember! Art class! There was a painting called "Cypresses" by a famous artist!
+
+
+216 7417:6976 Romantic Garden Gazebo
+
+(Character: Minori Hanasato, Hatsune Miku)
+
+Miku: This is called a gazebo, right? We have one in our own SEKAI. They're super cute, right?!
+Minori: Yeah, I think that's the name for it! I wish it sounded cuter, though.
+Minori: We could call it, um... A roundyrest!
+Miku: Hehe. That is cute, and it's fun to say too! "Let's go relax at the roundyrest!"
+
+
+217 7430:6840~ Romantic Garden Sculpture (Left)
+
+(Character: Minori Hanasato)
+
+Minori: Huh? There's a staircase on the side of this statue... Oh! Can we get on this horse?!
+Minori: So that's what the stairs are for! In that case, don't mind if I do!
+
+
+218 7464:6993 Halloween Pumpkin
+
+(Character: Minori Hanasato)
+
+Minori: Huh? Did this jack-o'-lantern just smile at me...?
+Minori: Wait, of course, jack-o'-lanterns are always smiling to begin with. I'm just imagining things!
+
+
+219 7465:6994 Halloween Ghost
+
+(Character: Minori Hanasato)
+
+Minori: This ghost is pretty cute if I look at it straight on, but if it suddenly came out of a corner or from the depths of the woods, I think it would startle me...
+
+
+220 7517:7046 Halloween Candy
+
+(Character: Minori Hanasato, Airi Momoi)
+
+Airi: Trick or treat, Minori! Give me candy, or I'll play a prank on you!
+Minori: Aah! I didn't think you'd come at me here!
+Minori: Ah! I can have some of this candy here?! Thank you! Now I can give this to Airi!
+Airi: Oh, looks like our kind host saved you this time. I had a real doozy of a prank planned, too. Oh well.

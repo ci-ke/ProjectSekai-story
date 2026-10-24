@@ -1779,3 +1779,88 @@ Kanade: I'd like to make that into a work playlist... But I have to listen to my
 
 Kanade: The sky is such an odd color. What...would you even call that?
 Kanade: Marbled...no, that's not right. I can't think of the right word.
+
+
+211 7344:6903 Romantic Garden Carriage
+
+(Character: Kanade Yoisaki)
+
+Kanade: Oh, a carriage. You really do have all sorts of things.
+Kanade: Do you ever take this for rides?
+
+
+212 7345:6904 Romantic Garden Sculpture (Right)
+
+(Character: Kanade Yoisaki)
+
+Kanade: This horse is very well-carved. The way the mane is rendered, and how gentle its eyes look, for example.
+Kanade: Somehow, it gives a good sense of the sculptor's personality.
+
+
+213 7346:6905 Romantic Garden Pond
+
+(Character: Kanade Yoisaki)
+
+Kanade: A pond... We have a lake in our SEKAI, but there are no plants there at all.
+Kanade: I wonder if there will ever come a day when flowers bloom there, like they do here.
+
+
+214 7347:6906 Romantic Garden Archway
+
+(Character: Kanade Yoisaki)
+
+Kanade: These roses are in full bloom, I see. But how do you water them?
+Kanade: If I recall right, you're supposed to sprinkle the rosebush's pot and the area around it with water, too... Or is that just in the summer?
+
+
+215 7348:6907 Romantic Garden Tea
+
+(Character: Kanade Yoisaki)
+
+Kanade: Black tea really has a nice fragrance. I have a few different types at home, and the scent helps me relax.
+Kanade: Actually, how many types do I have? I'll have to count sometime.
+
+
+216 7423:6982 Romantic Garden Gazebo
+
+(Character: Kanade Yoisaki, Mafuyu Asahina)
+
+Kanade: A gazebo... It's such a breezy and refreshing structure, but its name sounds so heavy. Isn't that weird?
+Mafuyu: There's a theory that the name comes from the French "que c'est beau", but that gives a very different impression.
+Kanade: True... I wonder how the sounds changed that much.
+Mafuyu: Who knows? It's only a theory, anyway. It may not be true.
+
+
+217 7442:6904~ Romantic Garden Sculpture (Left)
+
+(Character: Kanade Yoisaki)
+
+Kanade: This horse is very well-carved. The way the mane is rendered, and how gentle its eyes look, for example.
+Kanade: Somehow, it gives a good sense of the sculptor's personality.
+
+
+218 7486:7015 Halloween Withered Tree
+
+(Character: Kanade Yoisaki)
+
+Kanade: This tree almost looks like it's dancing. See, the two lower branches are like arms...
+Kanade: Oh, this is a Halloween decoration? That explains why it's got such an interesting shape.
+
+
+219 7487:7016 Halloween Candy
+
+(Character: Kanade Yoisaki)
+
+Kanade: You're all set for Halloween, aren't you?
+Kanade: I don't really have any plans myself, but I know Mizuki is excited.
+
+
+220 7526:7055 Halloween Pumpkin
+
+(Character: Kanade Yoisaki, Mizuki Akiyama)
+
+Mizuki: Trick or treat! Better give me candy, or I'll play a prank on you♪
+Kanade: Oh, um...
+Mizuki: Hahaha! I'm just kidding. I'm not even dressed up yet.
+Mizuki: But I hope you're ready as I plan to doodle on your face for my trick♪
+Kanade: That's tame, but I still don't like it. Okay. I'll make sure I'm carrying some candy.

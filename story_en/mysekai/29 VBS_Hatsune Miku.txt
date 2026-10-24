@@ -1590,7 +1590,88 @@ Miku: Hey, what a solid DJ booth. I bet Len would like to give it a whirl when h
 Miku: Something in the air feels...gentle, today. Like I'm being warmly embraced, somehow.
 
 
-186 8013:7466 Hello Kitty's Piano
+186 7384:6943 Romantic Garden Carriage
+
+(Character: Hatsune Miku)
+
+Miku: What's this? Wow, a carriage.
+Miku: I know what carriages are, loosely. First time I've ever seen one, though.
+
+
+187 7385:6944 Romantic Garden Sculpture (Right)
+
+(Character: Hatsune Miku)
+
+Miku: This is a statue, but apparently real horses are surprisingly big too.
+Miku: Huh? You think I could pull off a cool horse-riding pose?
+Miku: Hehe, we won't know unless I try. And since you're expecting great things, I can't let you down.
+
+
+188 7386:6945 Romantic Garden Pond
+
+(Character: Hatsune Miku)
+
+Miku: Hey, this is a nice pond. And really pretty with the flowers blooming.
+
+
+189 7387:6946 Romantic Garden Archway
+
+(Character: Hatsune Miku)
+
+Miku: Pretty fancy arch. The roses are all in bloom too, so it feels even more glamorous.
+
+
+190 7388:6947 Romantic Garden Cypress
+
+(Character: Hatsune Miku)
+
+Miku: Did you prune this tree this way? Or is it just naturally such a perfect cone?
+Miku: Oh, these trees just grow this way? That's cool.
+
+
+191 7420:6979 Romantic Garden Gazebo
+
+(Character: Kohane Azusawa, Hatsune Miku)
+
+Miku: Are these common in your world, Kohane?
+Kohane: I don't see them very often. I think they're mostly found in Western-style parks and gardens?
+Miku: Hm, so they're not exactly ordinary.
+Kohane: Right. So getting to relax in one is probably a rare experience.
+
+
+192 7450:6944~ Romantic Garden Sculpture (Left)
+
+(Character: Hatsune Miku)
+
+Miku: This is a statue, but apparently real horses are surprisingly big too.
+Miku: Huh? You think I could pull off a cool horse-riding pose?
+Miku: Hehe, we won't know unless I try. And since you're expecting great things, I can't let you down.
+
+
+193 7500:7029 Halloween Pumpkin
+
+(Character: Hatsune Miku)
+
+Miku: This is...a jack-o'-lantern, right? It looks good.
+Miku: I guess this means your Halloween prep is all set.
+
+
+194 7501:7030 Halloween Withered Tree
+
+(Character: Hatsune Miku)
+
+Miku: This tree looks like it's dead...
+Miku: I see, so it's a Halloween decoration. I thought it was an actual tree that had died.
+
+
+195 7502:7031 Halloween Ghost
+
+(Character: Hatsune Miku)
+
+Miku: This ghost's a Halloween decoration? What do you do with it, lift it up and parade it around?
+
+
+196 8013:7466 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

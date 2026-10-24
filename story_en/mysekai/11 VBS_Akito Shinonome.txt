@@ -1877,3 +1877,77 @@ Akito: Better to leave that to the pros. Ask Len, and he'll show you something c
 
 Akito: These sparkly things show up in our SEKAI sometimes too.
 Akito: Miku and the others say they're "feeling sparks" or something, but who knows for sure?
+
+
+222 7312:6871 Romantic Garden Carriage
+
+(Character: Akito Shinonome)
+
+Akito: A carriage? When did you even have the time... Next thing I know, you're going to have an actual horse to draw this thing.
+
+
+223 7313:6872 Romantic Garden Sculpture (Right)
+
+(Character: Akito Shinonome)
+
+Akito: This is a statue, but real horses are about this size or even bigger, right?
+Akito: Reminds me that I've heard horses bite people too... Well, they're pretty uncommon in Japan, so it's probably fine.
+
+
+224 7314:6873 Romantic Garden Pond
+
+(Character: Akito Shinonome)
+
+Akito: Hey, nice pond. Wait, where's the water coming from?
+
+
+225 7315:6874 Romantic Garden Archway
+
+(Character: Akito Shinonome)
+
+Akito: Look at that. I thought you only found these in like, European castle grounds.
+Akito: They have them at botanical gardens and rose gardens? How would I know that?
+
+
+226 7316:6875 Romantic Garden Cypress
+
+(Character: Akito Shinonome)
+
+Akito: I feel like I've seen this tree before...
+Akito: Like in some famous artist's works. Who was it...?
+
+
+227 7436:6872~ Romantic Garden Sculpture (Left)
+
+(Character: Akito Shinonome)
+
+Akito: This is a statue, but real horses are about this size or even bigger, right?
+Akito: Reminds me that I've heard horses bite people too... Well, they're pretty uncommon in Japan, so it's probably fine.
+
+
+228 7476:7005 Halloween Candy
+
+(Character: Akito Shinonome)
+
+Akito: Trick or treat? Eh, don't worry. I wouldn't prank you even if you didn't have any candy.
+Akito: Hey, why the look of disappointment?
+
+
+229 7519:7048 Halloween Pumpkin
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Toya: I saw that MEIKO has added pumpkin soup to the cafe menu.
+Akito: Yeah. Must be a Halloween menu type of thing.
+Toya: I see. Was that also why you asked MEIKO if she could make you a pumpkin pie?
+Akito: No...I just wanted some, that's all.
+
+
+230 7522:7051 Halloween Ghost
+
+(Character: Akito Shinonome, Kagamine Len)
+
+Len: Hey! If I hid behind this ghost and shouted "trick or treat!", do you think people would be spooked?
+Akito: Uh... Probably?
+Akito: At the least, I bet it would work on An.
+Len: Well...I just want to prank people, not actually scare them. So I'll try it on everyone except An!

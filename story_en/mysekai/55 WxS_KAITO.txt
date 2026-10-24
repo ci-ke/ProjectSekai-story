@@ -1858,3 +1858,73 @@ KAITO: Huh, DJing? I've never done it before, but maybe I'll have occasion to le
 KAITO: Did you know? These sparkling lights are feelings, memories, and connections.
 KAITO: This is your SEKAI, so these must be born from your feelings.
 KAITO: Hehe. Your feelings must be special indeed to give rise to such a beautiful sight.
+
+
+218 7404:6963 Romantic Garden Carriage
+
+(Character: KAITO)
+
+KAITO: This carriage... It's so well-built. It even has a foldable top.
+KAITO: Hehe. I'd love to dress up as a prince and escort a princess somewhere in this fine carriage.
+
+
+219 7405:6964 Romantic Garden Sculpture (Right)
+
+(Character: KAITO)
+
+KAITO: This statue is astounding. And nearly life-size, right?
+KAITO: Huh? We're allowed to sit on it? I see, so that's why it has a saddle on, to make it more comfortable.
+
+
+220 7406:6965 Romantic Garden Potted Plants
+
+(Character: KAITO)
+
+KAITO: These flowers are so beautiful. It's somewhat cute to see them all together in one pot.
+
+
+221 7407:6966 Romantic Garden Pond
+
+(Character: KAITO)
+
+KAITO: What an elegant pond. Its unadorned, natural beauty only makes it feel more refined.
+
+
+222 7408:6967 Romantic Garden Archway
+
+(Character: KAITO)
+
+KAITO: This rose arch is so romantic. I'd love to use something like this in a show.
+
+
+223 7454:6964~ Romantic Garden Sculpture (Left)
+
+(Character: KAITO)
+
+KAITO: This statue is astounding. And nearly life-size, right?
+KAITO: Huh? We're allowed to sit on it? I see, so that's why it has a saddle on, to make it more comfortable.
+
+
+224 7509:7038 Halloween Pumpkin
+
+(Character: KAITO)
+
+KAITO: Your Halloween decorations are all set, I see!
+KAITO: Just be sure not to forget the candy. Miku can get a little carried away when it comes to pranks, so you'll probably need a lot to fend her off.
+
+
+225 7510:7039 Halloween Ghost
+
+(Character: KAITO)
+
+KAITO: This ghost decoration is honestly unnerving. Maybe it's because I can't tell where it's looking?
+
+
+226 7524:7053 Halloween Candy
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: Things must be hard for you around Halloween time, KAITO.
+KAITO: Hahaha... Everyone from Miku and the others to the plushies wants to prank me, after all.
+KAITO: Not even a cardboard box full of candy is enough to guard against all the trick-or-treaters.
+Nene: In a way, maybe that goes to show just how popular you are with everyone.

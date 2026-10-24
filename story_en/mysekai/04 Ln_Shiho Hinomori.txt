@@ -1710,3 +1710,87 @@ Shiho: It'd be kind of fun to try DJing, though.
 Shiho: It's like the air is sparkling.
 Shiho: Sometimes when you're cleaning, you can see dust sparkling in the sun and stuff...
 Shiho: But that feels like a really rude comparison to make.
+
+
+209 7275:6834 Romantic Garden Carriage
+
+(Character: Shiho Hinomori)
+
+Shiho: Oh, huh, we can get in this carriage? I guess I'll give it a try.
+Shiho: I've never ridden in a carriage before, so I'm curious what it's like.
+
+
+210 7276:6835 Romantic Garden Sculpture (Right)
+
+(Character: Shiho Hinomori)
+
+Shiho: That's a big statue. I imagine real horses are about this size too, so is this life-size?
+
+
+211 7277:6836 Romantic Garden Pond
+
+(Character: Shiho Hinomori)
+
+Shiho: This is a nice pond. It feels like it belongs at a fancy mansion.
+
+
+212 7278:6837 Romantic Garden Archway
+
+(Character: Shiho Hinomori)
+
+Shiho: This is really impressive. You even grew these roses and trained them to go up the arch, right?
+Shiho: I've only ever grown morning glories myself, but I can imagine how much work that must have been.
+
+
+213 7279:6838 Romantic Garden Tea
+
+(Character: Shiho Hinomori)
+
+Shiho: You're meant to eat scones with jam and cream, right?
+Shiho: I don't know much of anything about fancy foods like this, so it's just things I've heard.
+Shiho: Oh, you do put jam and stuff on them? Okay. Why don't you take this chance to show me how you eat yours?
+
+
+214 7416:6975 Romantic Garden Gazebo
+
+(Character: Honami Mochizuki, Shiho Hinomori)
+
+Shiho: Being in a fancy place like this makes me a bit itchy...
+Honami: Does it? I think it's wonderful. I'm very comfortable here.
+Shiho: Really? Well, I guess that's our difference in taste.
+Honami: Hehe, I guess so.
+
+
+215 7429:6835~ Romantic Garden Sculpture (Left)
+
+(Character: Shiho Hinomori)
+
+Shiho: That's a big statue. I imagine real horses are about this size too, so is this life-size?
+
+
+216 7462:6991 Halloween Pumpkin
+
+(Character: Shiho Hinomori)
+
+Shiho: Hey, a jack-o'-lantern. Looks good.
+Shiho: Speaking of, did you know there are pumpkins shaped like a shepherd's gourd?
+Shiho: I've seen people make jack-o'-lanterns with them, but they were more cute than scary.
+
+
+217 7463:6992 Halloween Withered Tree
+
+(Character: Shiho Hinomori)
+
+Shiho: I don't know what it is, but this tree is a bit unnerving.
+Shiho: Feels like it might suddenly start moving to spook you.
+
+
+218 7514:7043 Halloween Candy
+
+(Character: Shiho Hinomori, Megurine Luka)
+
+Luka: This reminds me, do you have candy ready for Halloween?
+Shiho: I do, just in case. Since Saki's going to try to prank everyone for sure.
+Luka: I did see her whispering to Rin about something recently...
+Shiho: Yeah, I saw them talking too. They're definitely plotting something.
+Luka: I knew it. I'm almost curious, though. Should we avoid giving them candy to see what they come up with?

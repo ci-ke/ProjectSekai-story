@@ -1821,3 +1821,102 @@ Shizuku: What a nice DJ booth. Do you hold parties here, perhaps?
 (Character: Shizuku Hinomori)
 
 Shizuku: What an interesting sky. It feels kind and gentle somehow, and very lovely.
+
+
+215 7296:6855 Romantic Garden Carriage
+
+(Character: Shizuku Hinomori)
+
+Shizuku: What a lovely carriage. If I asked, could you take me someplace in this?
+Shizuku: If you would, then I could get to wherever I wanted to go without worrying about getting lost.
+
+
+216 7297:6856 Romantic Garden Sculpture (Right)
+
+(Character: Shizuku Hinomori)
+
+Shizuku: Oh, my! I thought this horse was just very well-behaved, but it's actually a statue.
+Shizuku: Hehe. I couldn't tell at all until I got up close.
+
+
+217 7298:6857 Romantic Garden Potted Plants
+
+(Character: Shizuku Hinomori)
+
+Shizuku: These flowers are blooming beautifully. Are these pansies? They're so colorful.
+
+
+218 7299:6858 Romantic Garden Pond
+
+(Character: Shizuku Hinomori)
+
+Shizuku: Blooming flowers, lush greenery... What a lovely pond. I'd love to sit here and just look over it.
+
+
+219 7300:6859 Romantic Garden Archway
+
+(Character: Shizuku Hinomori)
+
+Shizuku: I've been to a garden with arches like this before, for a photoshoot.
+Shizuku: There were so many arches all lined up, it was like being in a tunnel of roses... It was very impressive.
+
+
+220 7301:6860 Romantic Garden Cypress
+
+(Character: Shizuku Hinomori)
+
+Shizuku: I don't think I've seen a tree as thin and tall as this before. Hehe, it looks as though it's standing at attention.
+
+
+221 7418:6977 Romantic Garden Gazebo
+
+(Character: Haruka Kiritani, Shizuku Hinomori)
+
+Haruka: You do model work too, Shizuku. You must get a lot of photo shoots in Western gardens like this.
+Shizuku: Yes. Once I even did a shoot in a garden with a hedge maze.
+Shizuku: That day was such a trial... The hedges were short enough that I could see where everyone was, but I couldn't figure out how to get over to where they were at all.
+Haruka: Well, it is a maze, after all. Sometimes you want to go right but you can only go left, and things like that.
+
+
+222 7433:6856~ Romantic Garden Sculpture (Left)
+
+(Character: Shizuku Hinomori)
+
+Shizuku: Oh, my! I thought this horse was just very well-behaved, but it's actually a statue.
+Shizuku: Hehe. I couldn't tell at all until I got up close.
+
+
+223 7470:6999 Halloween Pumpkin
+
+(Character: Shizuku Hinomori)
+
+Shizuku: A jack-o'-lantern! Did you make this?
+Shizuku: Ah, I thought so! Could you give me some tips on how to make them look so cute?
+
+
+224 7471:7000 Halloween Candy
+
+(Character: Shizuku Hinomori)
+
+Shizuku: I see you have candy all ready for Halloween. I'll have to get some to hand out to everyone, too.
+Shizuku: Ah, but I'm curious what pranks everyone might be thinking of, too. Perhaps I'll just forget the candy this year.
+
+
+225 7518:7047 Halloween Ghost
+
+(Character: Shizuku Hinomori, Hatsune Miku)
+
+Miku: Oh, this reminds me! You're holding a stream on Halloween, right? Are you dressing up?
+Shizuku: We have a few costumes ready. We want our viewers to really enjoy themselves, after all.
+Miku: Ooh, what if we dress up too? It's Halloween, after all!
+Shizuku: What a good idea! It's not every day you get to dress up, after all. And we'd like you to have as much fun as you can, too.
+
+
+226 7529:7058 read_event_story-183
+
+(Character: Shizuku Hinomori)
+
+Shizuku: The other day, I did a joint performance with the group that I was in prior to MORE MORE JUMP!
+Shizuku: Afterwards, one of them told me she was glad that we got to perform alongside one another.
+Shizuku: That made me so happy... I feel like she acknowledged me as her rival.
+Shizuku: I'll have to keep improving more and more, to live up to her faith in me.

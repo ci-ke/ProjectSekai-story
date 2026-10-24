@@ -1768,7 +1768,92 @@ Ena: What a pretty sky. There's some pink and purple, and all these sparkles.
 Ena: Well, it sure isn't ordinary, so it's a bit of a shock. But I'm always happy to see pretty things.
 
 
-205 8010:7463 KUROMI's Floor Cushion
+205 7354:6913 Romantic Garden Carriage
+
+(Character: Ena Shinonome)
+
+Ena: No way, is this a carriage?! Let me get some photos for reference!
+Ena: When you look up reference photos, sometimes the quality is bad, or you can't find the angle you need. This could be a lifesaver someday.
+
+
+206 7355:6914 Romantic Garden Sculpture (Right)
+
+(Character: Ena Shinonome)
+
+Ena: Hmm, it's not a fully realistic piece, but you've paid plenty of attention to the musculature and anatomy all the same.
+Ena: Nothing wrong with that. A little bit of stylization can be really cute.
+
+
+207 7356:6915 Romantic Garden Pond
+
+(Character: Ena Shinonome)
+
+Ena: Oh, this pond would be great drawing practice. Let me go get my sketchbook.
+
+
+208 7357:6916 Romantic Garden Archway
+
+(Character: Ena Shinonome)
+
+Ena: Wow, this is so fancy. I bet I could get some great inspiration here!
+
+
+209 7358:6917 Romantic Garden Cypress
+
+(Character: Ena Shinonome)
+
+Ena: Did you know? There's a world-famous artist who used this type of cypress as a motif in many of his paintings.
+Ena: And when I say famous, I mean it, so you probably know him. Oh, he's better known for painting sunflowers, so you might know him from those.
+
+
+210 7425:6984 Romantic Garden Gazebo
+
+(Character: Ena Shinonome, Mizuki Akiyama)
+
+Ena: A Western-style garden... These are really nice.
+Mizuki: Palaces and castles tend to have really huge gardens. I wonder if this place'll look like one of those eventually?
+Ena: Hey, stop putting pressure on our host.
+Mizuki: But they have such good taste! If anyone could do it, they could.
+
+
+211 7444:6914~ Romantic Garden Sculpture (Left)
+
+(Character: Ena Shinonome)
+
+Ena: Hmm, it's not a fully realistic piece, but you've paid plenty of attention to the musculature and anatomy all the same.
+Ena: Nothing wrong with that. A little bit of stylization can be really cute.
+
+
+212 7490:7019 Halloween Pumpkin
+
+(Character: Ena Shinonome)
+
+Ena: All ready for Halloween, huh? Not bad.
+Ena: Prepping for seasonal events can be a bit of a pain, but they're fun when you get into them.
+
+
+213 7527:7056 Halloween Candy
+
+(Character: Mafuyu Asahina, Ena Shinonome)
+
+Ena: Apparently this candy's free for everyone. I guess you don't want any, Mafuyu?
+Mafuyu: Not really. You can have my share if you want it.
+Ena: Just so you know, I wasn't angling for that or anything. It just didn't feel fair not to tell you!
+Mafuyu: You're pretty conscientious about things like that.
+
+
+214 7528:7057 Halloween Ghost
+
+(Character: Ena Shinonome, Hatsune Miku)
+
+Miku: There's a ghost stuck on a stick here.
+Ena: Oh, it's a Halloween scarecrow decoration. Do you know what scarecrows are? They're meant to scare away birds from fields...
+Ena: Maybe this one is meant to scare away evil spirits or something?
+Miku: I see. So it's protecting this SEKAI.
+Ena: That, or it's just meant to spook people, I guess.
+
+
+215 8010:7463 KUROMI's Floor Cushion
 
 (Character: Ena Shinonome)
 

@@ -1840,7 +1840,98 @@ Honami: She's been wandering around, staring up at the sky, muttering "come on, 
 Honami: It's exactly how she used to try to catch butterflies when we were little. Takes me back.
 
 
-227 7530:7059 Honami's Birthday Chair
+227 7269:6828 Romantic Garden Carriage
+
+(Character: Honami Mochizuki)
+
+Honami: Oh... This carriage looks like it's come straight out of a fairy tale.
+Honami: Huh? If someone were to come pick me up in this?
+Honami: Hehe. I have always liked the idea of that, so I'm sure I would happily accept.
+
+
+228 7270:6829 Romantic Garden Sculpture (Right)
+
+(Character: Honami Mochizuki)
+
+Honami: What a well-made statue. The mane is so detailed, and the muscles in its legs are so realistic.
+
+
+229 7271:6830 Romantic Garden Potted Plants
+
+(Character: Honami Mochizuki)
+
+Honami: There are a few different flowers growing here. Is this a collection of your favorites?
+
+
+230 7272:6831 Romantic Garden Pond
+
+(Character: Honami Mochizuki)
+
+Honami: How nice... The Japanese style of pond is probably what comes to mind most easily when I think of a home garden, but this Western style is lovely too.
+
+
+231 7273:6832 Romantic Garden Archway
+
+(Character: Honami Mochizuki)
+
+Honami: Wow, a rose arch!
+Honami: I've grown roses before, but they never bloomed this beautifully. I'm envious.
+
+
+232 7274:6833 Romantic Garden Tea
+
+(Character: Honami Mochizuki)
+
+Honami: This tea and these scones look wonderful. Are you about to take a break for teatime?
+Honami: If you are, please don't mind me. You always seem so busy, I'd like you to have a chance to relax.
+
+
+233 7416:6975 Romantic Garden Gazebo
+
+(Character: Honami Mochizuki, Shiho Hinomori)
+
+Shiho: Being in a fancy place like this makes me a bit itchy...
+Honami: Does it? I think it's wonderful. I'm very comfortable here.
+Shiho: Really? Well, I guess that's our difference in taste.
+Honami: Hehe, I guess so.
+
+
+234 7428:6829~ Romantic Garden Sculpture (Left)
+
+(Character: Honami Mochizuki)
+
+Honami: What a well-made statue. The mane is so detailed, and the muscles in its legs are so realistic.
+
+
+235 7460:6989 Halloween Pumpkin
+
+(Character: Honami Mochizuki)
+
+Honami: Ah, a jack-o'-lantern.
+Honami: Did you carve its face? It's very well done.
+
+
+236 7461:6990 Halloween Candy
+
+(Character: Honami Mochizuki)
+
+Honami: Hehe, there's a lot of candy in this basket. With all this, you won't have to worry about anyone playing tricks on you.
+Honami: Oh, but Saki said she's thought of about a hundred tricks to play...
+Honami: If she wasn't exaggerating, you might not have enough candy here to guard against them all...
+
+
+237 7515:7044 Halloween Ghost
+
+(Character: Honami Mochizuki, Hatsune Miku)
+
+Miku: This ghost decoration is cute. It looks like it's spacing out a bit.
+Honami: Really? To me, it looks like it's staring at something I can't see... It's a little creepy.
+Miku: Isn't that just because you're scared of it?
+Miku: For instance... Try picture it saying "Huh? Where'd all my Halloween candy go?" Isn't that cute?
+Honami: Y-You're right. Now it feels like a big eater, or just forgetful. Hehe, thank you, Miku.
+
+
+238 7530:7059 Honami's Birthday Chair
 
 (Character: Honami Mochizuki)
 

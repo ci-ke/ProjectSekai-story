@@ -1804,3 +1804,86 @@ Luka: Club music calls to mind dancing with the beat, but it's fun to just stand
 (Character: Megurine Luka)
 
 Luka: What a lovely sky. It reminds me of the nebulae Honami showed me pictures of a while ago.
+
+
+225 7369:6928 Romantic Garden Carriage
+
+(Character: Megurine Luka)
+
+Luka: Oh, what a nice carriage. Just once, I'd like someone to come pick me up in one of these.
+Luka: Where would we go from there? Hmm... I'd leave that up to the driver.
+
+
+226 7370:6929 Romantic Garden Sculpture (Right)
+
+(Character: Megurine Luka)
+
+Luka: The others said we could sit on this horse. May I?
+Luka: Hehe, thank you. And you've made it very sturdy, so I know it's safe.
+
+
+227 7371:6930 Romantic Garden Potted Plants
+
+(Character: Megurine Luka)
+
+Luka: The blooming flowers are lovely, but this pot is charming in its own way too.
+
+
+228 7372:6931 Romantic Garden Pond
+
+(Character: Megurine Luka)
+
+Luka: What a nice pond. It would be wonderful to relax here and enjoy a performance.
+
+
+229 7373:6932 Romantic Garden Archway
+
+(Character: Megurine Luka)
+
+Luka: These roses are wonderful. They're all so big and vibrant...
+Luka: Is that because they're an especially large variety? I'd love to learn more.
+
+
+230 7415:6974 Romantic Garden Gazebo
+
+(Character: Saki Tenma, Megurine Luka)
+
+Saki: Being in here kind of makes you feel like a princess, huh!
+Luka: Hehe, that's true. If we only had some tea and cake, it would be perfect.
+Luka: Oh, but maybe you'd prefer potato chips?
+Saki: Hehehe, bingo! But just for today, I'll have tea and cake and eat it ever so delicately♪
+Luka: My, how perfectly charming.
+
+
+231 7447:6929~ Romantic Garden Sculpture (Left)
+
+(Character: Megurine Luka)
+
+Luka: The others said we could sit on this horse. May I?
+Luka: Hehe, thank you. And you've made it very sturdy, so I know it's safe.
+
+
+232 7494:7023 Halloween Pumpkin
+
+(Character: Megurine Luka)
+
+Luka: I see you're all prepared for Halloween. We've put up some decorations in the classrooms of our SEKAI, too.
+Luka: Halloween only comes once a year, so let's all enjoy it to the fullest.
+
+
+233 7495:7024 Halloween Ghost
+
+(Character: Megurine Luka)
+
+Luka: This ghost must be a Halloween decoration. Hehe. I wonder if it will spook Saki or Honami.
+
+
+234 7514:7043 Halloween Candy
+
+(Character: Shiho Hinomori, Megurine Luka)
+
+Luka: This reminds me, do you have candy ready for Halloween?
+Shiho: I do, just in case. Since Saki's going to try to prank everyone for sure.
+Luka: I did see her whispering to Rin about something recently...
+Shiho: Yeah, I saw them talking too. They're definitely plotting something.
+Luka: I knew it. I'm almost curious, though. Should we avoid giving them candy to see what they come up with?

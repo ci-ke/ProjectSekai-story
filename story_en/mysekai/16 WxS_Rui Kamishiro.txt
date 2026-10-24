@@ -1850,3 +1850,84 @@ Rui: If you can, I'd love to observe. Handling the devices is one thing, but pro
 
 Rui: Well, well, another unusual weather pattern. A light blue sky, with some pinkish purple mixed in.
 Rui: I'm also curious if these floating lights are identical to the ones I've seen before. I hope you'll let me observe them for a while.
+
+
+223 7338:6897 Romantic Garden Carriage
+
+(Character: Rui Kamishiro)
+
+Rui: The craftsmanship of this carriage is astounding! I'd love to borrow it as a prop for a time.
+
+
+224 7339:6898 Romantic Garden Sculpture (Right)
+
+(Character: Rui Kamishiro)
+
+Rui: This statue is quite majestic. I'm sure the others are very taken with it.
+
+
+225 7340:6899 Romantic Garden Potted Plants
+
+(Character: Rui Kamishiro)
+
+Rui: All of these flowers are blooming beautifully. A fine reward for your hard work.
+
+
+226 7341:6900 Romantic Garden Pond
+
+(Character: Rui Kamishiro)
+
+Rui: Well, well...
+Rui: Making such a well-designed pond proves that you're no run-of-the-mill landscaper.
+
+
+227 7342:6901 Romantic Garden Archway
+
+(Character: Rui Kamishiro)
+
+Rui: A rose arch? How elegant. Hmm...
+Rui: Seeing something out of the ordinary like this provides some fine inspiration. I appreciate it.
+
+
+228 7343:6902 Romantic Garden Cypress
+
+(Character: Rui Kamishiro)
+
+Rui: Oh, a cypress. This species is a relative of the ones native to Japan, if I recall.
+Rui: I've read that in some parts of Europe, its wood is used for caskets, and it's often planted around graveyards as a symbol of death.
+Rui: At the same time, they are also symbols of vitality and plenty, and they feature in many famous paintings.
+
+
+229 7441:6898~ Romantic Garden Sculpture (Left)
+
+(Character: Rui Kamishiro)
+
+Rui: This statue is quite majestic. I'm sure the others are very taken with it.
+
+
+230 7485:7014 Halloween Withered Tree
+
+(Character: Rui Kamishiro)
+
+Rui: A dead, ominous tree, rather than a living one...
+Rui: Excellent! That's the Halloween spirit. It's very important to create the proper atmosphere for these sorts of things.
+
+
+231 7523:7052 Halloween Pumpkin
+
+(Character: Tsukasa Tenma, Rui Kamishiro)
+
+Tsukasa: Oho, a jack-o'-lantern! Truly the emblem of Halloween!
+Rui: Now now, don't forget my zombie robots.
+Rui: It seems they've become quite the hit in Phoenix Wonderland's Halloween events.
+Tsukasa: Is that so? Then we'll have to make time to go and witness their heroic contributions!
+
+
+232 7525:7054 Halloween Ghost
+
+(Character: Emu Otori, Rui Kamishiro)
+
+Emu: This ghost reminds me of the test of courage I did with everyone at school♪
+Rui: Hm, but I recall hearing you dressed up as an adorable ghost for that event.
+Emu: Yeah! Oh, what if I get my outfit from that, bring it here, and put it on this ghost?
+Rui: Hehe. That would be a fine surprise.

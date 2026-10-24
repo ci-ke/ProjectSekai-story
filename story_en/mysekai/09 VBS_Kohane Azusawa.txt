@@ -1961,3 +1961,81 @@ Kohane: Sometimes they perform for us, and it's always so cool.
 (Character: Kohane Azusawa)
 
 Kohane: Look at all these floating lights. Hehe, they're so pretty.
+
+
+229 7302:6861 Romantic Garden Carriage
+
+(Character: Kohane Azusawa)
+
+Kohane: This is a carriage, right?
+Kohane: I've seen these on merry-go-rounds at amusement parks, but I don't think I've ever seen a real one!
+
+
+230 7303:6862 Romantic Garden Sculpture (Right)
+
+(Character: Kohane Azusawa)
+
+Kohane: This statue is well-made. It looks like it could start running any moment!
+
+
+231 7304:6863 Romantic Garden Potted Plants
+
+(Character: Kohane Azusawa)
+
+Kohane: Wow, what pretty flowers! You must be taking care of them personally. That's amazing.
+
+
+232 7305:6864 Romantic Garden Pond
+
+(Character: Kohane Azusawa)
+
+Kohane: What a nice pond. Just looking at it is soothing.
+
+
+233 7306:6865 Romantic Garden Archway
+
+(Character: Kohane Azusawa)
+
+Kohane: Wow, it's a rose arch!
+Kohane: It would be so great to have a garden with an arch like this.
+
+
+234 7420:6979 Romantic Garden Gazebo
+
+(Character: Kohane Azusawa, Hatsune Miku)
+
+Miku: Are these common in your world, Kohane?
+Kohane: I don't see them very often. I think they're mostly found in Western-style parks and gardens?
+Miku: Hm, so they're not exactly ordinary.
+Kohane: Right. So getting to relax in one is probably a rare experience.
+
+
+235 7434:6862~ Romantic Garden Sculpture (Left)
+
+(Character: Kohane Azusawa)
+
+Kohane: This statue is well-made. It looks like it could start running any moment!
+
+
+236 7472:7001 Halloween Pumpkin
+
+(Character: Kohane Azusawa)
+
+Kohane: What a nice jack-o'-lantern. It's impressive how cleanly you carved it.
+
+
+237 7473:7002 Halloween Candy
+
+(Character: Kohane Azusawa)
+
+Kohane: Oh, you have candy ready! Hehe, now you don't have to worry about getting tricked.
+
+
+238 7521:7050 Halloween Ghost
+
+(Character: Kohane Azusawa, An Shiraishi)
+
+An: Hey, Kohane. Isn't this ghost kind of scary?
+Kohane: It is. Its eyes feel almost like they're drawing me in...
+Kohane: Ah...but don't worry, An. If it tries to spook you, I'll protect you!
+An: K-Kohane...!

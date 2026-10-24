@@ -1807,3 +1807,85 @@ Nene: Oh, sorry for staring. This is my first time seeing one from this close.
 
 Nene: I feel like these floating lights are similar to the ones in our SEKAI.
 Nene: I asked KAITO about them a while ago. They're called feeling sparks, I think he said?
+
+
+221 7333:6892 Romantic Garden Carriage
+
+(Character: Nene Kusanagi)
+
+Nene: Huh? A carriage? How did you even... Well, I guess it's a bit late to ask.
+
+
+222 7334:6893 Romantic Garden Sculpture (Right)
+
+(Character: Nene Kusanagi)
+
+Nene: This horse is a statue? It's so lifelike, I almost couldn't tell.
+Nene: Huh, we can get on it?
+Nene: Thanks. It's a bit high up for me... But since you're offering, I want to give it a try.
+
+
+223 7335:6894 Romantic Garden Pond
+
+(Character: Nene Kusanagi)
+
+Nene: What a pretty pond... Listening to the sound of the water must be so relaxing.
+
+
+224 7336:6895 Romantic Garden Archway
+
+(Character: Nene Kusanagi)
+
+Nene: Wow, this arch. I've only ever seen things like this in botanical gardens.
+
+
+225 7337:6896 Romantic Garden Tea
+
+(Character: Nene Kusanagi)
+
+Nene: These scones look delicious. Are you having a tea party?
+
+
+226 7422:6981 Romantic Garden Gazebo
+
+(Character: Nene Kusanagi, Hatsune Miku)
+
+Nene: Places like this where you can just sit in the quiet and relax are so nice.
+Miku: ...! ...
+Nene: Miku? Are you holding off on talking for my sake?
+Nene: Hehe, sorry. You can talk as much as you want.
+Miku: Really? Oh, phew... I can't be quiet unless I hold my breath, so I was in trouble there☆
+
+
+227 7440:6893~ Romantic Garden Sculpture (Left)
+
+(Character: Nene Kusanagi)
+
+Nene: This horse is a statue? It's so lifelike, I almost couldn't tell.
+Nene: Huh, we can get on it?
+Nene: Thanks. It's a bit high up for me... But since you're offering, I want to give it a try.
+
+
+228 7483:7012 Halloween Pumpkin
+
+(Character: Nene Kusanagi)
+
+Nene: Did you carve this by yourself? That's pretty cool. It looks really good.
+
+
+229 7484:7013 Halloween Ghost
+
+(Character: Nene Kusanagi)
+
+Nene: Oh, this is just a Halloween decoration. For a minute, I thought it was real...
+Nene: Oh, no. It's nothing.
+
+
+230 7524:7053 Halloween Candy
+
+(Character: Nene Kusanagi, KAITO)
+
+Nene: Things must be hard for you around Halloween time, KAITO.
+KAITO: Hahaha... Everyone from Miku and the others to the plushies wants to prank me, after all.
+KAITO: Not even a cardboard box full of candy is enough to guard against all the trick-or-treaters.
+Nene: In a way, maybe that goes to show just how popular you are with everyone.

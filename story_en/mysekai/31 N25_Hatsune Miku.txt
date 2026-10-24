@@ -1812,7 +1812,91 @@ Miku: It's purple here, but blue over there, but there's also pink...
 Miku: There are a lot of colors in this sky.
 
 
-215 8015:7468 Hello Kitty's Piano
+215 7409:6968 Romantic Garden Carriage
+
+(Character: Hatsune Miku)
+
+Miku: A carriage... I know about pumpkin carriages. There was one in a fairy tale Mizuki told me once.
+Miku: Someone casting a spell to turn pumpkins into carriages sounds amazing. But I think the way you discover feelings and give them shape is amazing too.
+
+
+216 7410:6969 Romantic Garden Sculpture (Right)
+
+(Character: Hatsune Miku)
+
+Miku: It's big. I bet I could see far away sat on its back.
+
+
+217 7411:6970 Romantic Garden Potted Plants
+
+(Character: Hatsune Miku)
+
+Miku: The flowers are so pretty...
+Miku: There are a few different types. Can you tell me what each is called?
+
+
+218 7412:6971 Romantic Garden Pond
+
+(Character: Hatsune Miku)
+
+Miku: It's fun how the water's surface moves. My face, your face and the sky look all wiggly in there.
+Miku: Our faces look weird, huh.
+
+
+219 7413:6972 Romantic Garden Archway
+
+(Character: Hatsune Miku)
+
+Miku: Are these roses? They're very pretty.
+Miku: Oh, but I think roses have thorns... Be careful not to get hurt.
+
+
+220 7424:6983 Romantic Garden Gazebo
+
+(Character: Mafuyu Asahina, Hatsune Miku)
+
+Miku: Mafuyu. How was your day?
+Mafuyu: Normal, but... I guess I took it easy. I didn't have club activities or committee work. What about you?
+Miku: I relaxed today too. I sang to myself, and came here for a walk.
+Mafuyu: I see... We had similar days, then.
+
+
+221 7455:6969~ Romantic Garden Sculpture (Left)
+
+(Character: Hatsune Miku)
+
+Miku: It's big. I bet I could see far away sat on its back.
+
+
+222 7511:7040 Halloween Pumpkin
+
+(Character: Hatsune Miku)
+
+Miku: I know about Halloween pumpkins. Ena and the others decorated our SEKAI with them before.
+Miku: They said it was to scare away bad things. Can this face really scare things away?
+Miku: I hope they make sure nothing bad comes here.
+
+
+223 7512:7041 Halloween Withered Tree
+
+(Character: Hatsune Miku)
+
+Miku: I've heard that Halloween decorations are meant to scare away bad things and also be signposts.
+Miku: Which kind is this tree? If you put lamps on it, maybe it would be a good signpost.
+
+
+224 7528:7057 Halloween Ghost
+
+(Character: Ena Shinonome, Hatsune Miku)
+
+Miku: There's a ghost stuck on a stick here.
+Ena: Oh, it's a Halloween scarecrow decoration. Do you know what scarecrows are? They're meant to scare away birds from fields...
+Ena: Maybe this one is meant to scare away evil spirits or something?
+Miku: I see. So it's protecting this SEKAI.
+Ena: That, or it's just meant to spook people, I guess.
+
+
+225 8015:7468 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

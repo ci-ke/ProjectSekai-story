@@ -1747,7 +1747,101 @@ Saki: One came right in front of me, so I tried to grab it, and it slipped right
 Saki: I was this close! Next time one comes nearby, I'm getting it for sure!
 
 
-208 8006:7459 Pompompurin's Napping Tree
+208 7263:6822 Romantic Garden Carriage
+
+(Character: Saki Tenma)
+
+Saki: Wait, is this a carriage?! Wow! Hey, hey, can I sit in it?!
+Saki: Thanks! Hehehe. Time to feel like a princess♪
+
+
+209 7264:6823 Romantic Garden Sculpture (Right)
+
+(Character: Saki Tenma)
+
+Saki: What a big statue! Huh, is that a real saddle on its back?
+Saki: Wait, we can ride it?! Wow! Okay, here I go then!
+
+
+210 7265:6824 Romantic Garden Pond
+
+(Character: Saki Tenma)
+
+Saki: I've heard waterfalls give off negative ions, but do you think that applies to little tiny ones like this too?
+Saki: I'm kinda curious now, so I'll look it up!
+
+
+211 7266:6825 Romantic Garden Archway
+
+(Character: Saki Tenma)
+
+Saki: Wow, a rose arch! Look at this thing!
+Saki: I thought you could only find these in castle gardens and stuff! It's so fancy, I love it.
+
+
+212 7267:6826 Romantic Garden Tea
+
+(Character: Saki Tenma)
+
+Saki: Ooh, tea and scones!
+Saki: Will you be taking tea forthwith? How charming, dahling... Hehe, just teasing♪
+
+
+213 7268:6827 Romantic Garden Cypress
+
+(Character: Saki Tenma)
+
+Saki: Hahaha! Why is this tree so thin like a pin?!
+Saki: Oh, it's a type of cypress, huh! I couldn't tell since it's so different from the ones you usually see in Japan.
+
+
+214 7415:6974 Romantic Garden Gazebo
+
+(Character: Saki Tenma, Megurine Luka)
+
+Saki: Being in here kind of makes you feel like a princess, huh!
+Luka: Hehe, that's true. If we only had some tea and cake, it would be perfect.
+Luka: Oh, but maybe you'd prefer potato chips?
+Saki: Hehehe, bingo! But just for today, I'll have tea and cake and eat it ever so delicately♪
+Luka: My, how perfectly charming.
+
+
+215 7427:6823~ Romantic Garden Sculpture (Left)
+
+(Character: Saki Tenma)
+
+Saki: What a big statue! Huh, is that a real saddle on its back?
+Saki: Wait, we can ride it?! Wow! Okay, here I go then!
+
+
+216 7458:6987 Halloween Candy
+
+(Character: Saki Tenma)
+
+Saki: Wow! Look at all this candy!
+Saki: Hmm, it's gonna be hard to trick them with all this. But I'm not giving up that easy...
+Saki: Ah! I wasn't saying anything♪ I sure am looking forward to Halloween!
+
+
+217 7459:6988 Halloween Ghost
+
+(Character: Saki Tenma)
+
+Saki: Huh?! Whose pale hand is that resting on your shoulder?!
+Saki: Juuust kidding♪ This ghosty guy gave me the idea. What did you think, was it scary?
+
+
+218 7513:7042 Halloween Pumpkin
+
+(Character: Ichika Hoshino, Saki Tenma)
+
+Saki: Say, Ichi! We should all make jack-o'-lanterns too!
+Ichika: Sounds good. Making them ourselves would be fun.
+Ichika: But it might be hard to make big ones, so maybe small pumpkins would be best.
+Saki: If we go with little ones, we can bring a bunch to SEKAI and get Miku and the others to make some too! Let's do that♪
+
+
+219 8006:7459 Pompompurin's Napping Tree
 
 (Character: Saki Tenma)
 

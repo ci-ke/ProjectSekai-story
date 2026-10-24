@@ -1793,7 +1793,90 @@ Emu: Wow, wow! Look at all the pretty lights!
 Emu: Are those the same shinies as the ones in our SEKAI? Okay! I'll catch some and we can compare☆
 
 
-216 8009:7462 Cinnamoroll's Cafe Table
+216 7328:6887 Romantic Garden Carriage
+
+(Character: Emu Otori)
+
+Emu: Oh, it's a carriage! We had one at the lodge when I was little!
+Emu: It was a little one pulled by ponies. I used to ride in it a lot with Grandpa!
+
+
+217 7329:6888 Romantic Garden Sculpture (Right)
+
+(Character: Emu Otori)
+
+Emu: It's a horse statue! Does this staircase mean we can get on it?
+Emu: Really? Yay! Maybe I'll put on a lace bonnet and pretend I'm a princess!
+Emu: Oh, or maybe I can get a cool hat and a rope, and be a cowboy?
+
+
+218 7330:6889 Romantic Garden Pond
+
+(Character: Emu Otori)
+
+Emu: Wow, a pond! This is nice. I wish we had a pond or a fountain at home.
+
+
+219 7331:6890 Romantic Garden Archway
+
+(Character: Emu Otori)
+
+Emu: Look at all the pretty flowers! Hehehe. I could keep on walking under this arch all day.
+
+
+220 7332:6891 Romantic Garden Cypress
+
+(Character: Emu Otori)
+
+Emu: Boing! It's fun how this tree stands up so straight! I'll try copying it. Boi-oi-oing!
+
+
+221 7421:6980 Romantic Garden Gazebo
+
+(Character: Emu Otori, Hatsune Miku)
+
+Miku: Hey, Emu. Why is this gazebo thingy shaped like a house, but it doesn't have any walls?
+Emu: Oh, yeah! I used to wonder the same thing about the gazebo in the garden at the lodge!
+Emu: I asked my big sister, and she said it's so you can enjoy all the pretty sights around you while you relax!
+Miku: Oh, I see☆ Your big sister is so smart!
+
+
+222 7439:6888~ Romantic Garden Sculpture (Left)
+
+(Character: Emu Otori)
+
+Emu: It's a horse statue! Does this staircase mean we can get on it?
+Emu: Really? Yay! Maybe I'll put on a lace bonnet and pretend I'm a princess!
+Emu: Oh, or maybe I can get a cool hat and a rope, and be a cowboy?
+
+
+223 7481:7010 Halloween Pumpkin
+
+(Character: Emu Otori)
+
+Emu: Trick or treat! Better play a trick on me, or I'll give you a treat!
+Emu: Just kidding☆ I switched around "give me a treat, or I'll play a trick on you"!
+Emu: Hehehe. I think my surprise worked!
+
+
+224 7482:7011 Halloween Candy
+
+(Character: Emu Otori)
+
+Emu: Oh, look at all the candy! I'd better get some ready too before I forget♪
+
+
+225 7525:7054 Halloween Ghost
+
+(Character: Emu Otori, Rui Kamishiro)
+
+Emu: This ghost reminds me of the test of courage I did with everyone at school♪
+Rui: Hm, but I recall hearing you dressed up as an adorable ghost for that event.
+Emu: Yeah! Oh, what if I get my outfit from that, bring it here, and put it on this ghost?
+Rui: Hehe. That would be a fine surprise.
+
+
+226 8009:7462 Cinnamoroll's Cafe Table
 
 (Character: Emu Otori)
 

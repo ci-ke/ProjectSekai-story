@@ -1583,7 +1583,93 @@ Miku: This is your SEKAI, so this weather must also be born from your feelings.
 Miku: Still, all these sparkles... Your feelings must be even brighter than I'd thought.
 
 
-191 8011:7464 Hello Kitty's Piano
+191 7364:6923 Romantic Garden Carriage
+
+(Character: Hatsune Miku)
+
+Miku: This is a carriage, right? The horse-drawn kind?
+Miku: To be able to pull something like this, especially with people on board... Horses must be very strong.
+
+
+192 7365:6924 Romantic Garden Sculpture (Right)
+
+(Character: Hatsune Miku)
+
+Miku: This is a statue, but is it about life-size? Also, is it true that horses like carrots?
+Miku: I wonder why they do. Do you know?
+
+
+193 7366:6925 Romantic Garden Pond
+
+(Character: Hatsune Miku)
+
+Miku: Apparently some schools have wildlife observation ponds for science classes.
+Miku: I don't think those ponds are as stylish as this one, but... I still wish the school in our SEKAI had one.
+
+
+194 7367:6926 Romantic Garden Archway
+
+(Character: Hatsune Miku)
+
+Miku: Wow... The arch would be cool enough on its own, but with the roses blooming on it, it's almost extravagant.
+
+
+195 7368:6927 Romantic Garden Cypress
+
+(Character: Hatsune Miku)
+
+Miku: This is a cypress, right?
+Miku: I've heard these are really rough to be around during hay fever season... But hey, as long as you're fine with it.
+
+
+196 7414:6973 Romantic Garden Gazebo
+
+(Character: Ichika Hoshino, Hatsune Miku)
+
+Miku: This shelter is called a gazebo, right? I wonder what that means.
+Ichika: Oh, I looked it up once...
+Ichika: Apparently one theory is that it comes from the French "que c'est beau", which means "how beautiful".
+Miku: Hehe. I'm not surprised you like to look up words and where they come from. Is it because you write lyrics?
+Ichika: That might be part of it. You never know when a bit of knowledge might help you.
+
+
+197 7446:6924~ Romantic Garden Sculpture (Left)
+
+(Character: Hatsune Miku)
+
+Miku: This is a statue, but is it about life-size? Also, is it true that horses like carrots?
+Miku: I wonder why they do. Do you know?
+
+
+198 7492:7021 Halloween Pumpkin
+
+(Character: Hatsune Miku)
+
+Miku: Oh, a jack-o'-lantern. And it's really well-made, too...
+Miku: I can see you put a lot of work into the expression. Can you show me how you carved it?
+
+
+199 7493:7022 Halloween Candy
+
+(Character: Hatsune Miku)
+
+Miku: Trick or treat! Give me candy, or I'll play a prank on you.
+Miku: Oh, and if you give me cotton candy, I'll sing a song for you.
+Miku: The fluffy texture is just so much fun. I actually really like it.
+
+
+200 7515:7044 Halloween Ghost
+
+(Character: Honami Mochizuki, Hatsune Miku)
+
+Miku: This ghost decoration is cute. It looks like it's spacing out a bit.
+Honami: Really? To me, it looks like it's staring at something I can't see... It's a little creepy.
+Miku: Isn't that just because you're scared of it?
+Miku: For instance... Try picture it saying "Huh? Where'd all my Halloween candy go?" Isn't that cute?
+Honami: Y-You're right. Now it feels like a big eater, or just forgetful. Hehe, thank you, Miku.
+
+
+201 8011:7464 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 
