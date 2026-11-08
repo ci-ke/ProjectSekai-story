@@ -4,10 +4,10 @@
 
 2 [mc_timeline] mc_ev_shuffle_53_1
 
-(Enter: ミク-Ln)
 (Enter: 一歌)
-(Enter: 咲希)
 (Enter: 志歩)
+(Enter: 咲希)
+(Enter: ミク-Ln)
 (Enter: 穂波)
 咲希: みんなー！ 聴いてくれてありがとー！
 穂波: 咲希ちゃん、今日すごく調子がよさそうだったね
@@ -42,11 +42,11 @@
 
 4 [mc_timeline] mc_ev_shuffle_53_2
 
-(Enter: まふゆ)
-(Enter: ミク-N25)
-(Enter: 奏)
 (Enter: 瑞希)
 (Enter: 絵名)
+(Enter: まふゆ)
+(Enter: 奏)
+(Enter: ミク-N25)
 奏: みんな……聴いてくれて、ありがとう
 奏: 寒い日が続いてるけど……あたたかくして、 体調を崩さないように気を付けてね
 絵名: ……なんていうか、 すっごく実感がこもってない？

@@ -57,12 +57,12 @@ MEIKO: あ、なら景気づけに一発ショーをやるのはどうかしら�
 
 3 [mc_timeline] mc_ev_wonder_22_2
 
-(Enter: MEIKO)
 (Enter: えむ)
-(Enter: ミク-WxS)
 (Enter: 司)
+(Enter: ミク-WxS)
 (Enter: 寧々)
 (Enter: 類)
+(Enter: MEIKO)
 司: ハッハッハ！ どうだ、オレの輝きは！
 ミク (WxS): すごいすごい！ すっごくピカピカだったよ～！　みんなはどうだった？
 ミク (WxS): おお～！　やっぱりピカピカだったって！

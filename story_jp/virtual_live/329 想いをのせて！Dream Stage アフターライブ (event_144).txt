@@ -12,11 +12,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_49_2
 
-(Enter: KAITO)
-(Enter: こはね)
+(Enter: 杏)
 (Enter: 冬弥)
 (Enter: 彰人)
-(Enter: 杏)
+(Enter: KAITO)
+(Enter: こはね)
 KAITO: ふたりとも、本番お疲れさま！ 冬弥くんの曲も、杏ちゃんの歌もすっごくよかったよ！
 こはね: うん！　すごく気持ちがこもった歌で、感動しちゃった
 杏: 本当？　ありがと～！ ……でも、それは冬弥のおかげだよ
@@ -30,12 +30,12 @@ KAITO: ふたりとも、本番お疲れさま！ 冬弥くんの曲も、杏ち
 
 3 [mc_timeline] mc_ev_shuffle_49_3
 
-(Enter: ミク-Ln)
 (Enter: ルカ)
-(Enter: 一歌)
-(Enter: 咲希)
 (Enter: 志歩)
 (Enter: 穂波)
+(Enter: 一歌)
+(Enter: 咲希)
+(Enter: ミク-Ln)
 ルカ: 今日はいつになく熱い練習ね
 ミク (Ln): うん
 ミク (Ln): 特に志歩は、すごく気持ちが入っていたし
@@ -49,12 +49,12 @@ KAITO: ふたりとも、本番お疲れさま！ 冬弥くんの曲も、杏ち
 
 4 [mc_timeline] mc_ev_shuffle_49_4
 
-(Enter: まふゆ)
-(Enter: リン)
-(Enter: レン)
 (Enter: 奏)
-(Enter: 瑞希)
+(Enter: レン)
+(Enter: リン)
 (Enter: 絵名)
+(Enter: まふゆ)
+(Enter: 瑞希)
 レン: 絵名ちゃん達の大きな絵、本当に町になってて すごかったなぁ
 絵名: でしょ？ まふゆも、珍しく褒めてたしね
 まふゆ: そうだっけ？
@@ -67,11 +67,11 @@ KAITO: ふたりとも、本番お疲れさま！ 冬弥くんの曲も、杏ち
 
 5 [mc_timeline] mc_ev_shuffle_49_5
 
-(Enter: みのり)
 (Enter: ミク-MMJ)
-(Enter: 愛莉)
-(Enter: 遥)
+(Enter: みのり)
 (Enter: 雫)
+(Enter: 遥)
+(Enter: 愛莉)
 ミク (MMJ): 愛莉ちゃんの演技、よかったね！
 遥: 堂々としてて、流石だと思ったよ
 愛莉: まあ、本番前はちょっと緊張してたんだけどね
@@ -112,10 +112,10 @@ MEIKO: やっぱり、とっても強くなったわね
 
 8 [mc_timeline] mc_ev_shuffle_49_7
 
-(Enter: えむ)
 (Enter: レン)
 (Enter: 司)
 (Enter: 寧々)
+(Enter: えむ)
 (Enter: 類)
 (Enter: MEIKO)
 寧々: みんな、聴いてくれてありがとう！
@@ -133,9 +133,9 @@ MEIKO: やっぱり、とっても強くなったわね
 ミク: ……あれ？　なんだか、想いが集まって……
 (Enter: 一歌)
 (Enter: 奏)
+(Enter: 司)
 (Enter: こはね)
 (Enter: みのり)
-(Enter: 司)
 一歌: ……あ、ミク！
 司: おお、また会えたな！
 ミク: みんな、来てくれてありがとう！

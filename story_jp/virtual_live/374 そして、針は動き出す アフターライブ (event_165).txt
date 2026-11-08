@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_night_21_1
 
-(Enter: まふゆ)
-(Enter: レン)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: レン)
+(Enter: 瑞希)
+(Enter: まふゆ)
+(Enter: 奏)
 まふゆ: ——それじゃあ、歌うね。『虚無さん』
 
 
@@ -14,11 +14,11 @@
 
 3 [mc_timeline] mc_ev_night_21_2
 
-(Enter: まふゆ)
 (Enter: レン)
-(Enter: 奏)
 (Enter: 瑞希)
 (Enter: 絵名)
+(Enter: 奏)
+(Enter: まふゆ)
 まふゆ: …………
 まふゆ: ……みんな、ありがとう
 奏: まふゆ、気持ちは落ち着いた？
@@ -58,6 +58,6 @@
 レン: あ……
 レン: ……うん！
 (Exit: まふゆ)
+(Exit: 絵名)
 (Exit: 奏)
 (Exit: 瑞希)
-(Exit: 絵名)

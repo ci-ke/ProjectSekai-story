@@ -50,11 +50,11 @@ KAITO: 『もちろん！』
 
 3 [mc_timeline] mc_ev_wonder_19_2
 
-(Enter: KAITO)
 (Enter: えむ)
-(Enter: 司)
-(Enter: 寧々)
 (Enter: 類)
+(Enter: 寧々)
+(Enter: KAITO)
+(Enter: 司)
 (Enter: レン)
 レン: わあ……！ 寧々ちゃん、すーっごく綺麗な歌だったよ！
 レン: キラキラ透き通ってるみたいなのに、 力強くて……かっこよかったな！

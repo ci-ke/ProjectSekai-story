@@ -2,16 +2,16 @@
 
 1 [mc_timeline] mc_ev_wonder_25_1
 
-(Enter: MEIKO)
 (Enter: ミク-WxS)
 (Enter: 類)
+(Enter: MEIKO)
 類: うん、いいね！　では次は…… そこでパっと振り返ってから言ってみるのはどうかな？
 MEIKO: たしかに、意外性があってよさそうね！ やってみるわ！
 ミク (WxS): うん！　ミクもいつでもオッケーだよ～♪
-(Enter: えむ)
-(Enter: 司)
-司: おお！　遅くなったな——
 (Enter: 寧々)
+(Enter: 司)
+(Enter: えむ)
+司: おお！　遅くなったな——
 MEIKO: 『犯人は、あなたよ！』
 寧々: えっ？
 MEIKO: 『まさか、この劇場全体を使って トリックを仕掛けるなんてね』
@@ -50,11 +50,11 @@ MEIKO: とってもいいことよね！ あれもこれも、やりたいこと
 
 3 [mc_timeline] mc_ev_wonder_25_2
 
-(Enter: MEIKO)
 (Enter: えむ)
-(Enter: ミク-WxS)
 (Enter: 司)
 (Enter: 寧々)
+(Enter: ミク-WxS)
+(Enter: MEIKO)
 (Enter: 類)
 類: みんな、ありがとう！
 類: フフ、発散するつもりだったけれど、 やはりステージをみんなに見てもらうと気持ちが高まるね

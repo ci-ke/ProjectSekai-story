@@ -46,12 +46,12 @@
 
 3 [mc_timeline] mc_ev_band_18_2
 
-(Enter: ミク-Ln)
-(Enter: レン)
+(Enter: 穂波)
 (Enter: 一歌)
 (Enter: 咲希)
 (Enter: 志歩)
-(Enter: 穂波)
+(Enter: ミク-Ln)
+(Enter: レン)
 一歌: ——みんな、聴いてくれてありがとう！
 レン: いい演奏だったな。 一歌とミクも、歌で気持ちが繋がってる……って感じだった
 一歌: え、本当？　嬉しいな……！

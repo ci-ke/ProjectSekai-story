@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_street_wl_02_1
 
-(Enter: こはね)
-(Enter: ミク-VBS)
-(Enter: 冬弥)
 (Enter: 彰人)
+(Enter: ミク-VBS)
 (Enter: 杏)
+(Enter: こはね)
+(Enter: 冬弥)
 こはね: ——それでね、レンくんとリンちゃんと一緒に、 木の水やりをさせてもらったんだ
 冬弥: 小豆沢は最近、よく広場の木の様子を 見に行っているようだな
 こはね: うん！　なんだか元気をもらえる気がするんだ
@@ -55,11 +55,11 @@
 
 3 [mc_timeline] mc_ev_street_wl_02_2
 
+(Enter: 杏)
 (Enter: こはね)
-(Enter: ミク-VBS)
 (Enter: 冬弥)
 (Enter: 彰人)
-(Enter: 杏)
+(Enter: ミク-VBS)
 ミク (VBS): ——うん、やっぱりね
 杏: やっぱり、って？
 ミク (VBS): みんなの歌が、前よりもっと力強くなったなって

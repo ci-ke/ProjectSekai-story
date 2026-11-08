@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_shuffle_55_1
 
-(Enter: KAITO)
-(Enter: えむ)
 (Enter: 司)
 (Enter: 類)
+(Enter: KAITO)
+(Enter: えむ)
 司: ふむ、なるほど！ では最初は、もっと派手なポーズで目をひいたほうがいいな！
 えむ: ばばばーん！できらきらきら～な感じかな！？
 (Enter: 寧々)
@@ -41,10 +41,10 @@ KAITO: そうだね。きっと子供達にとって、 素敵な思い出にな
 
 4 [mc_timeline] mc_ev_shuffle_55_2
 
-(Enter: MEIKO)
-(Enter: 一歌)
 (Enter: 咲希)
+(Enter: 一歌)
 (Enter: 志歩)
+(Enter: MEIKO)
 (Enter: 穂波)
 MEIKO: ねえねえ、みんな！ 最近の穂波、なんだか絶好調って感じがしない？
 穂波: えっ？　わ、わたしがですか？

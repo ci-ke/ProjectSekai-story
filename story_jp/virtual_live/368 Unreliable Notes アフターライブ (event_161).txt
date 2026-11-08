@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_night_20_1
 
-(Enter: まふゆ)
 (Enter: ミク-N25)
+(Enter: まふゆ)
 (Enter: 奏)
 (Enter: 瑞希)
 (Enter: 絵名)
@@ -50,12 +50,12 @@
 
 3 [mc_timeline] mc_ev_night_20_2
 
-(Enter: まふゆ)
 (Enter: ミク-N25)
 (Enter: リン)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: まふゆ)
+(Enter: 瑞希)
+(Enter: 奏)
 奏: ……リン、どうだった？
 リン: ……うん。みんなの想いがこもってて よかった、と思う
 ミク (N25): わたしも、一緒に歌って感じたよ。 前に進もうっていう、みんなの想い

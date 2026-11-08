@@ -3,11 +3,11 @@
 1 [mc_timeline] mc_ev_piapro_wl_02_1
 
 (Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク-WxS)
-(Enter: リン)
-(Enter: ルカ)
 (Enter: レン)
+(Enter: ルカ)
+(Enter: MEIKO)
+(Enter: リン)
+(Enter: ミク-WxS)
 ミク (WxS): へえ～！　メイコが行ったセカイ、 そんなに美味しいものがいっぱいあったんだ～！
 MEIKO: ええ！　向こうの私はカフェのマスターをしていて、 みんなに料理やドリンクを作っているみたいなの！
 リン: すごいすごーい♪ リンも、いろんなお料理食べたいなあ
@@ -20,11 +20,11 @@ MEIKO: あら、いいじゃない！ それなら『メイコお姉さんの１
 2 [mc_timeline] mc_ev_piapro_wl_02_2
 
 (Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク-VBS)
-(Enter: リン)
-(Enter: ルカ)
 (Enter: レン)
+(Enter: リン)
+(Enter: ミク-VBS)
+(Enter: ルカ)
+(Enter: MEIKO)
 ミク (VBS): それにしても、まさかルカが別のセカイに行ってたなんてね
 MEIKO: ええ。どこに遊びに行っているのかと思っていたわ
 ルカ: みんな、ひどくない！？ 私、アイドルの子達と一緒に希望を届けてたのに～！
@@ -37,12 +37,12 @@ KAITO: 全然想像できないなあ
 
 3 [mc_timeline] mc_ev_piapro_wl_02_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク-Ln)
 (Enter: リン)
+(Enter: KAITO)
 (Enter: ルカ)
 (Enter: レン)
+(Enter: MEIKO)
+(Enter: ミク-Ln)
 MEIKO: 遊園地とショーステージがあるセカイか……。 なんだか面白そうだね
 リン: めちゃ面白いよ！ ぬいぐるみが喋ったり、花が歌ったりするんだから！
 レン: 本当にそんなセカイあるのか……？
@@ -57,18 +57,18 @@ MEIKO: ぷっ、なにそれ！ すっごく面白いんだけど！
 レン: ミク、ちょっと試しに……
 ミク (Ln): やるわけないでしょ、もう！
 MEIKO: 『あはははっ！』
-リン: 『あはははっ！』
 ルカ: 『ふふふっ……』
+リン: 『あはははっ！』
 
 
 4 [mc_timeline] mc_ev_piapro_wl_02_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク-N25)
-(Enter: リン)
 (Enter: ルカ)
+(Enter: MEIKO)
+(Enter: リン)
 (Enter: レン)
+(Enter: KAITO)
+(Enter: ミク-N25)
 レン: ——それでね、星が綺麗で…… みんなも、とっても優しかったんだ
 ルカ: ふうん。学校のセカイで、駅もあって 私達がバンドをしているなんて—— やっぱり面白そうな場所だったのね
 リン: 学校って、まふゆ達が行ってるところだよね。 わたしも行ってみたかった
@@ -81,12 +81,12 @@ MEIKO: そうね。何が起こるか分からない以上、 慎重に考える
 
 5 [mc_timeline] mc_ev_piapro_wl_02_5
 
-(Enter: KAITO)
 (Enter: MEIKO)
 (Enter: ミク-MMJ)
-(Enter: リン)
-(Enter: ルカ)
 (Enter: レン)
+(Enter: リン)
+(Enter: KAITO)
+(Enter: ルカ)
 ミク (MMJ): ——じゃあ、そのルカちゃんのおかげで また希望の花が咲いたんだ！
 MEIKO: ええ、みのりちゃん達も嬉しそうだったわ
 リン: うん！　すっごくパワフルで面白いルカちゃんだったし 一緒にライブができてよかったな♪
@@ -100,10 +100,10 @@ KAITO: すごく不思議な出来事だったけど…… おかげで、ミク
 6 [mc_timeline] mc_ev_piapro_wl_02_6
 
 (Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク)
-(Enter: リン)
 (Enter: ルカ)
+(Enter: リン)
+(Enter: ミク)
+(Enter: MEIKO)
 (Enter: レン)
 ミク: あ、みんな！　来てくれたんだね！
 リン: 今ね、みんなでセカイの様子を見てたんだ！
@@ -120,12 +120,12 @@ MEIKO: そうね、みんなで歌いましょ！
 
 8 [mc_timeline] mc_ev_piapro_wl_02_7
 
-(Enter: KAITO)
+(Enter: ルカ)
 (Enter: MEIKO)
 (Enter: ミク)
-(Enter: リン)
-(Enter: ルカ)
 (Enter: レン)
+(Enter: リン)
+(Enter: KAITO)
 ミク: みんな、聴いてくれてありがとう！ おかげで、たくさん想いを込めて歌えた気がする
 ルカ: ええ、きっとセカイの私達にも届いたと思うわ
 リン: うん！　わたしもそう思うな！

@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_idol_22_1
 
-(Enter: KAITO)
 (Enter: MEIKO)
+(Enter: KAITO)
 (Enter: みのり)
 みのり: ——それで最後は、億きゅんきゅんっ♡ってアピールして フィニッシュです！
 KAITO: なるほど！ ラスサビからの流れ、すごくキャッチーだね！
@@ -55,11 +55,11 @@ KAITO: そう言ってもらえると嬉しいよ！
 
 3 [mc_timeline] mc_ev_idol_22_2
 
-(Enter: KAITO)
 (Enter: MEIKO)
-(Enter: みのり)
 (Enter: 愛莉)
+(Enter: みのり)
 (Enter: 遥)
+(Enter: KAITO)
 (Enter: 雫)
 みのり: みんな～！ ありがとう！！
 みのり: LUMINAグランプリで競っていくのは、 とっても緊張するけど……

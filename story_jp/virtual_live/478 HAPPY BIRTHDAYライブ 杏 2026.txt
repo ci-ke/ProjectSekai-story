@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_bd_2026an_1
 
+(Enter: 杏)
+(Enter: 彰人)
+(Enter: 冬弥)
 (Enter: こはね)
 (Enter: ルカ)
-(Enter: 冬弥)
-(Enter: 彰人)
-(Enter: 杏)
 杏: Yo! Is everyone hype?! Thanks for being here today!
 杏: We're gonna blow your minds.
 杏: You better not miss it!
@@ -47,11 +47,11 @@
 
 3 [mc_timeline] mc_bd_2026an_2
 
-(Enter: こはね)
-(Enter: ルカ)
-(Enter: 冬弥)
 (Enter: 彰人)
+(Enter: ルカ)
 (Enter: 杏)
+(Enter: こはね)
+(Enter: 冬弥)
 杏: はー！　気持ちよかった～！
 杏: みんな、一緒に盛り上がってくれてありがとー！
 杏: 勉強はやっぱり大変だけど、 こうやってどんな歌も思いっきり歌えるようになるなら——
@@ -60,8 +60,8 @@
 冬弥: せっかくなら、 ここにいる全員で祝うのはどうだろうか？
 彰人: そうだな。お前ら、準備はいいか？
 こはね: じゃあいくよ。 杏ちゃん、誕生日——
-ルカ: 『おめでとう！』
 彰人: 『おめでとう』
+ルカ: 『おめでとう！』
 こはね: 『おめでとう！』
 冬弥: 『おめでとう』
 杏: みんな、ありがとう！ 思いっきり盛り上がれたし、ほんっと最高の誕生日だよ

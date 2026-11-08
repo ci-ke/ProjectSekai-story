@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_band_22_1
 
-(Enter: MEIKO)
-(Enter: 一歌)
 (Enter: 咲希)
 (Enter: 志歩)
 (Enter: 穂波)
+(Enter: MEIKO)
+(Enter: 一歌)
 MEIKO: ——そっか。 一歌の曲、まだまだいろんな人に聴いてもらえてるんだね
 一歌: うん。ファンアートも、どんどん増えてるんだ。 全部見たいのに、なかなか追いつけなくて
 志歩: 投稿からちょっと経ったのに、 全然勢い落ちないよね。むしろ、増してるって感じ
@@ -43,11 +43,11 @@ MEIKO: よーし。それじゃあ、私も参加しちゃおっかな！
 
 3 [mc_timeline] mc_ev_band_22_2
 
-(Enter: MEIKO)
-(Enter: 一歌)
-(Enter: 咲希)
 (Enter: 志歩)
+(Enter: 一歌)
 (Enter: 穂波)
+(Enter: MEIKO)
+(Enter: 咲希)
 一歌: みんな、聴いてくれてありがとう！
 MEIKO: ……ふふ、一歌の想いがたくさん込もった歌だったね
 一歌: そ、そうかな……

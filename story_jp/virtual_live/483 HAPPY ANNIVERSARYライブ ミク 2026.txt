@@ -41,11 +41,11 @@
 
 3 [mc_timeline] mc_bd_2026miku_2
 
-(Enter: えむ)
-(Enter: ミク-WxS)
 (Enter: 司)
-(Enter: 寧々)
 (Enter: 類)
+(Enter: ミク-WxS)
+(Enter: えむ)
+(Enter: 寧々)
 ミク (WxS): ありがとー！ みんな、楽しんでくれたかなっ？
 ミク (WxS): えへへ、よかったー！ ミクも、すーーーーっごく楽しかったよ！
 類: それなら、準備してきた甲斐があったね
@@ -93,12 +93,12 @@ MEIKO: パーティーの準備ができたから、呼びにきたんだけど�
 
 6 [mc_timeline] mc_bd_2026miku_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク)
-(Enter: リン)
 (Enter: ルカ)
 (Enter: レン)
+(Enter: MEIKO)
+(Enter: KAITO)
+(Enter: ミク)
+(Enter: リン)
 ミク: 聴いてくれてありがとう！
 ミク: わたしの想い、届いたかな？
 レン: ちゃんと届いたみたいだね！

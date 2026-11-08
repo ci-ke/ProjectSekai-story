@@ -58,10 +58,10 @@ MEIKO: ええ、今日くらいは
 3 [mc_timeline] mc_ev_night_24_2
 
 (Enter: MEIKO)
-(Enter: まふゆ)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: まふゆ)
+(Enter: 瑞希)
+(Enter: 奏)
 奏: ……みんな、ありがとう
 奏: 少しだけ……胸が軽くなった気がする
 奏: まだ、答えは見えてないけど、 これからのこと……ちゃんと、考えていくよ

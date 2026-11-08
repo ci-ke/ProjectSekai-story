@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_street_23_1
 
-(Enter: MEIKO)
-(Enter: こはね)
-(Enter: 冬弥)
 (Enter: 杏)
+(Enter: MEIKO)
+(Enter: 冬弥)
+(Enter: こはね)
 杏: レンくん、ここにもいないですね……
 MEIKO: ええ……一体、どこに行っちゃったのかしら
 冬弥: あと、捜していない場所となると……
@@ -56,12 +56,12 @@ MEIKO: じゃあ、お言葉に甘えようかしら。 レンはどうする？
 
 3 [mc_timeline] mc_ev_street_23_2
 
+(Enter: 杏)
+(Enter: レン)
+(Enter: 彰人)
 (Enter: MEIKO)
 (Enter: こはね)
-(Enter: レン)
 (Enter: 冬弥)
-(Enter: 彰人)
-(Enter: 杏)
 レン: みんな、かっこよかったよ！ すっごい熱くって、ドキドキした！
 彰人: ありがとな
 彰人: お前らも、また機会があれば聴いてってくれ。 次も絶対、最高にわかせてやるから

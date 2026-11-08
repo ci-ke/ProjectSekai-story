@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_band_24_1
 
+(Enter: 穂波)
 (Enter: 一歌)
 (Enter: 咲希)
 (Enter: 志歩)
-(Enter: 穂波)
 咲希: ——でねでね！　そのうち、 ファンクラブとかできちゃうかも！？って
 志歩: ファンクラブって……
 (Enter: ルカ)
@@ -45,10 +45,10 @@
 
 3 [mc_timeline] mc_ev_band_24_2
 
+(Enter: 志歩)
+(Enter: 咲希)
 (Enter: ルカ)
 (Enter: 一歌)
-(Enter: 咲希)
-(Enter: 志歩)
 (Enter: 穂波)
 ルカ: どう？ 今の演奏で、また志歩のファンが増えたんじゃないかしら
 志歩: ルカさんまで…… 反応に困るから、やめてくださいってば

@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_bd_2025kanade_1
 
-(Enter: まふゆ)
-(Enter: ミク-N25)
-(Enter: 奏)
 (Enter: 瑞希)
+(Enter: ミク-N25)
+(Enter: まふゆ)
+(Enter: 奏)
 (Enter: 絵名)
 ミク (N25): ……いらっしゃい、みんな
 絵名: 奏の誕生日のお祝いに来たんでしょ？ 一緒にお祝いしない？
@@ -48,11 +48,11 @@
 
 3 [mc_timeline] mc_bd_2025kanade_2
 
-(Enter: まふゆ)
 (Enter: ミク-N25)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: 奏)
+(Enter: まふゆ)
+(Enter: 瑞希)
 奏: ……聴いてくれてありがとう
 奏: わたし達の気持ちが、少しでも届いてくれてたらいいな……
 絵名: 届いてるに決まってるでしょ。 ね、みんな！

@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_bd_2025nene_1
 
-(Enter: MEIKO)
-(Enter: えむ)
-(Enter: 司)
-(Enter: 寧々)
 (Enter: 類)
+(Enter: MEIKO)
+(Enter: 司)
+(Enter: えむ)
+(Enter: 寧々)
 寧々: あ……
 MEIKO: 見て見て！　たくさん来てくれてるわよ！
 えむ: わあ！　みんな、寧々ちゃんに会いに来てくれたの！？
@@ -43,11 +43,11 @@ MEIKO: 『いいわよー！』
 
 3 [mc_timeline] mc_bd_2025nene_2
 
-(Enter: MEIKO)
 (Enter: えむ)
-(Enter: 司)
 (Enter: 寧々)
+(Enter: 司)
 (Enter: 類)
+(Enter: MEIKO)
 寧々: ありがとう
 MEIKO: ふふ、みんな、楽しんでくれたみたいね！
 えむ: わあ〜！　あっちもそっちも、ニコニコがいっぱいだ〜！

@@ -4,11 +4,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_54_1
 
-(Enter: まふゆ)
-(Enter: ミク-N25)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: まふゆ)
+(Enter: 奏)
+(Enter: ミク-N25)
+(Enter: 瑞希)
 ミク (N25): ……みんな、ありがとう。 一緒に歌ってくれて
 瑞希: どういたしまして！ ボクも思いっきり歌えて楽しかったよ
 奏: でも、ミクから一緒に歌いたいって言うの、珍しいね
@@ -45,10 +45,10 @@
 
 4 [mc_timeline] mc_ev_shuffle_54_2
 
-(Enter: みのり)
-(Enter: レン)
 (Enter: 愛莉)
 (Enter: 遥)
+(Enter: レン)
+(Enter: みのり)
 (Enter: 雫)
 みのり: みんな、聴いてくれてありがとー！
 遥: ありがとう！

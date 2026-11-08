@@ -2,14 +2,14 @@
 
 1 [mc_timeline] mc_ev_idol_19_1
 
-(Enter: ミク-MMJ)
 (Enter: ルカ)
+(Enter: ミク-MMJ)
 ミク (MMJ): はぁ……CMの雫ちゃん、すごかったなぁ
 ルカ: ふふ。CMを見せてもらってからずっとその話ね
 ミク (MMJ): だって、本当に感動したんだもん。 震えちゃうくらい綺麗で、輝いてて……
+(Enter: 雫)
 (Enter: みのり)
 みのり: うんうん、わかるよ、ミクちゃん……！
-(Enter: 雫)
 (Enter: 遥)
 (Enter: 愛莉)
 ミク (MMJ): あ、みのりちゃん！　みんなも！
@@ -56,12 +56,12 @@
 
 3 [mc_timeline] mc_ev_idol_19_2
 
-(Enter: みのり)
 (Enter: ミク-MMJ)
-(Enter: ルカ)
-(Enter: 愛莉)
-(Enter: 遥)
 (Enter: 雫)
+(Enter: 愛莉)
+(Enter: ルカ)
+(Enter: みのり)
+(Enter: 遥)
 雫: みんな、聴いてくれてありがとう！
 みのり: ありがとー！
 ルカ: 雫ちゃんの覚悟、しっかり届いたわ

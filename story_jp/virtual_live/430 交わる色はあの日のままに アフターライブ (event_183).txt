@@ -2,12 +2,12 @@
 
 1 [mc_timeline] mc_ev_idol_23_1
 
-(Enter: MEIKO)
-(Enter: みのり)
-(Enter: レン)
 (Enter: 愛莉)
-(Enter: 遥)
+(Enter: みのり)
 (Enter: 雫)
+(Enter: レン)
+(Enter: 遥)
+(Enter: MEIKO)
 レン: へえ……この前のLUMINAタイム、 そんなに話題になってるんだね
 雫: ええ。私達とCheerful＊Daysのライブの切り抜きが たくさん再生されてるみたいなの
 MEIKO: とってもすてきなライブだったもの。 おすすめしたり、何回も見たくなっちゃうわよね
@@ -41,12 +41,12 @@ MEIKO: それじゃあ、わたしは特等席から聴かせてもらうわね
 
 3 [mc_timeline] mc_ev_idol_23_2
 
-(Enter: MEIKO)
-(Enter: みのり)
-(Enter: レン)
-(Enter: 愛莉)
-(Enter: 遥)
 (Enter: 雫)
+(Enter: 愛莉)
+(Enter: MEIKO)
+(Enter: 遥)
+(Enter: レン)
+(Enter: みのり)
 雫: 聴いてくれてありがとう！
 みのり: ありがとー！
 MEIKO: お疲れさま！ 歌声から、雫ちゃんの優しさと強さがしっかり伝わってきたわ

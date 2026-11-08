@@ -2,12 +2,12 @@
 
 1 [mc_timeline] mc_ev_wonder_wl_02_1
 
-(Enter: KAITO)
+(Enter: 類)
 (Enter: えむ)
+(Enter: 寧々)
+(Enter: KAITO)
 (Enter: ミク-WxS)
 (Enter: 司)
-(Enter: 寧々)
-(Enter: 類)
 司: うーむ、ミクの意見もわかるが……
 司: ここは、もっとダイナミックに決めたほうがいいのではないか？ なんといっても、ショーのラストなわけだしな
 ミク (WxS): ダイナミック？
@@ -48,12 +48,12 @@ KAITO: ——ここにいる、みんなと一緒にね
 
 3 [mc_timeline] mc_ev_wonder_wl_02_2
 
-(Enter: KAITO)
-(Enter: えむ)
-(Enter: ミク-WxS)
-(Enter: 司)
 (Enter: 寧々)
+(Enter: ミク-WxS)
+(Enter: KAITO)
 (Enter: 類)
+(Enter: えむ)
+(Enter: 司)
 司: オレ達のショー、楽しんでくれたか！？
 えむ: えへへ、楽しんでくれたみたいだね☆
 KAITO: 僕も、見ていてすごくわくわくしたよ！

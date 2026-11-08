@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_bd_2026tsukasa_1
 
-(Enter: MEIKO)
-(Enter: えむ)
 (Enter: 寧々)
+(Enter: MEIKO)
 (Enter: 類)
+(Enter: えむ)
 えむ: みんなー！　こーんにーちはー！
 MEIKO: すごい！　司くんのために、 たっくさん集まってくれてるわね！
 類: では、さっそく本日の主役——司くんを ステージへ呼ぼうか
@@ -56,11 +56,11 @@ MEIKO: でも、夢とお客さんの笑顔のために どんな時も前を向
 
 3 [mc_timeline] mc_bd_2026tsukasa_2
 
+(Enter: 司)
+(Enter: 類)
+(Enter: 寧々)
 (Enter: MEIKO)
 (Enter: えむ)
-(Enter: 司)
-(Enter: 寧々)
-(Enter: 類)
 司: ありがとう！ みんな、楽しんでくれたか？
 寧々: ……喜んでもらえたみたい
 MEIKO: 宣言どおり、期待を超えるショーができたんじゃないかしら？

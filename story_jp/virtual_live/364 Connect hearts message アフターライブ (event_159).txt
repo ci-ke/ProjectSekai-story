@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_shuffle_56_1
 
-(Enter: MEIKO)
 (Enter: えむ)
+(Enter: MEIKO)
 えむ: じゃあ、こんなのはどうかな？ お腹がパカッって開いて……
 MEIKO: いいわね！　それで中身が……
 (Enter: 寧々)
@@ -46,11 +46,11 @@ MEIKO: みんな、ありがとう！
 4 [mc_timeline] mc_ev_shuffle_56_2
 
 (Enter: ミク-Ln)
-(Enter: リン)
+(Enter: 穂波)
 (Enter: 一歌)
 (Enter: 咲希)
 (Enter: 志歩)
-(Enter: 穂波)
+(Enter: リン)
 一歌: 聴いてくれてありがとう！
 咲希: 『いつも応援してくれてありがとー！』の感謝祭ライブ、 楽しんでもらえたかな？
 志歩: いい反応なんじゃない？

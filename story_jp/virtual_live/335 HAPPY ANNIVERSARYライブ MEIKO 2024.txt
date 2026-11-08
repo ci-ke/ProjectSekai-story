@@ -3,11 +3,11 @@
 1 [mc_timeline] mc_bd_2024meiko_1
 
 (Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク)
 (Enter: リン)
-(Enter: ルカ)
+(Enter: MEIKO)
 (Enter: レン)
+(Enter: ミク)
+(Enter: ルカ)
 MEIKO: みんな！ 今日は私の記念日をお祝いしにきてくれてありがとう！ こんなにたくさん集まってくれて、とっても嬉しいわ！
 MEIKO: ——リン達も準備ありがとうね。 おかげで今日は素敵な一日になりそうだわ
 リン: えへへ、おめでとうメイコ！ 今日はいーっぱいお祝いしようね！
@@ -21,11 +21,11 @@ KAITO: みんなから頼りに……？ ——あ、わかった！　あのメ
 
 2 [mc_timeline] mc_bd_2024meiko_2
 
-(Enter: MEIKO)
-(Enter: こはね)
-(Enter: 冬弥)
 (Enter: 彰人)
 (Enter: 杏)
+(Enter: こはね)
+(Enter: MEIKO)
+(Enter: 冬弥)
 MEIKO: ……ふぅ
 MEIKO: 『パーティーの準備ができるまで散歩してきて！』 って言われたけど……。 なんだか、ソワソワしちゃうわね
 MEIKO: 特に今回は、パーティー用に カフェをちょっと改造するって言っていたし……大丈夫かしら？
@@ -56,11 +56,11 @@ MEIKO: いくわよ——『blendar』！
 
 4 [mc_timeline] mc_bd_2024meiko_3
 
-(Enter: MEIKO)
-(Enter: こはね)
 (Enter: 冬弥)
-(Enter: 彰人)
+(Enter: こはね)
 (Enter: 杏)
+(Enter: MEIKO)
+(Enter: 彰人)
 MEIKO: みんな！　聴いてくれてありがとう！ 盛り上がってくれてすごく嬉しいわ
 杏: ていうかみんな、メイコさんをお祝いするために 集まってくれたんだよね？
 こはね: それなら……みんなでお祝いしようよ！
@@ -78,11 +78,11 @@ MEIKO: ええ。どんなパーティーなのかしら、楽しみだわ！
 
 5 [mc_timeline] mc_bd_2024meiko_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク)
 (Enter: リン)
+(Enter: MEIKO)
 (Enter: ルカ)
+(Enter: ミク)
+(Enter: KAITO)
 (Enter: レン)
 MEIKO: ふふ、あっちの私も、 素敵なお祝いをしてもらえるみたいね！
 ミク: どんなパーティーなのか、気になっちゃうね♪
@@ -98,11 +98,11 @@ MEIKO: ——『ロストワンの号哭』！
 
 7 [mc_timeline] mc_bd_2024meiko_5
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: リン)
 (Enter: ルカ)
 (Enter: レン)
+(Enter: MEIKO)
+(Enter: リン)
+(Enter: KAITO)
 (Enter: ミク)
 MEIKO: ありがとう、みんな！ みんなの応援のおかげで、とっても気持ちよく歌えたわ！
 ミク: その気持ち、わたし達にもすごく伝わってきたよ！ ね、みんな！

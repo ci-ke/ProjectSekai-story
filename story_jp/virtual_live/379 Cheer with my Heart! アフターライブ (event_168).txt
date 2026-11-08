@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_idol_21_1
 
+(Enter: 遥)
+(Enter: 雫)
 (Enter: MEIKO)
 (Enter: みのり)
 (Enter: 愛莉)
-(Enter: 遥)
-(Enter: 雫)
 愛莉: メイコ、今日もトレーニングつきあってくれてありがと！
 遥: メニューも一緒に考えてくれて、すごく助かったよ
 MEIKO: いいのよ！　みんながメキメキ成長してくれて、 わたしも楽しいもの
@@ -47,11 +47,11 @@ MEIKO: いつか、みんなに憧れて 背中を追うアイドルも出てき
 
 3 [mc_timeline] mc_ev_idol_21_2
 
-(Enter: MEIKO)
 (Enter: みのり)
-(Enter: 愛莉)
+(Enter: MEIKO)
 (Enter: 遥)
 (Enter: 雫)
+(Enter: 愛莉)
 愛莉: 聴いてくれてありがとう！
 雫: ありがとう！
 愛莉: みんな、元気になってくれたかしら？

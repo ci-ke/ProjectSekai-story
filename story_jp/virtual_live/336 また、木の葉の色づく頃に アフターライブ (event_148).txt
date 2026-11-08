@@ -4,11 +4,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_50_1
 
-(Enter: みのり)
-(Enter: レン)
-(Enter: 愛莉)
 (Enter: 遥)
+(Enter: レン)
 (Enter: 雫)
+(Enter: 愛莉)
+(Enter: みのり)
 雫: みんな、聴いてくれてありがとう！
 みのり: ありがと～！
 レン: みんな、練習お疲れさま。 なんだかいつも以上に気合いが入ってたね
@@ -45,10 +45,10 @@
 4 [mc_timeline] mc_ev_shuffle_50_2
 
 (Enter: リン)
-(Enter: 一歌)
-(Enter: 咲希)
-(Enter: 志歩)
 (Enter: 穂波)
+(Enter: 咲希)
+(Enter: 一歌)
+(Enter: 志歩)
 リン: んー！　今日もカンペキっ♪
 穂波: ふふ。リンちゃん、絶好調だったね
 リン: うん！　これも、この前のブドウパーティーで充電した ブドウパワーのおかげかな〜！

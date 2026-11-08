@@ -2,12 +2,12 @@
 
 1 [mc_timeline] mc_ev_shuffle_64_1
 
-(Enter: KAITO)
+(Enter: リン)
+(Enter: レン)
 (Enter: MEIKO)
 (Enter: ミク-Ln)
-(Enter: リン)
 (Enter: ルカ)
-(Enter: レン)
+(Enter: KAITO)
 MEIKO: それにしても、パーティー楽しかったね。 いろんなセカイの私達と話せたし、 料理も美味しかったし！
 リン: ね～！　ほなっち、出来立てを持ってきてくれたから 唐揚げも熱々じゅわ～ってしてて！
 レン: 食い尽くす勢いで食べてたな
@@ -21,12 +21,12 @@ KAITO: ……うん
 
 2 [mc_timeline] mc_ev_shuffle_64_2
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク-N25)
 (Enter: リン)
+(Enter: MEIKO)
+(Enter: KAITO)
 (Enter: ルカ)
 (Enter: レン)
+(Enter: ミク-N25)
 リン: ……ねえ、メイコどうしたの？ この前から機嫌悪そう
 ミク (N25): えっと……。 ルカが、メイコの写真を撮ってもらったんだって
 レン: 写真？　あ、お昼寝してた時の……
@@ -39,12 +39,12 @@ MEIKO: ……はあ……
 
 3 [mc_timeline] mc_ev_shuffle_64_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
+(Enter: レン)
 (Enter: ミク-WxS)
 (Enter: リン)
+(Enter: KAITO)
+(Enter: MEIKO)
 (Enter: ルカ)
-(Enter: レン)
 ミク (WxS): 推理ゲームのショー、すっごく楽しかったね～！
 レン: うんっ！ アイドルのカイトが犯人だなんて気付かなかったよ！
 MEIKO: すごく堂々とした振る舞いだったわね。 私もびっくりしちゃったわ！
@@ -60,11 +60,11 @@ KAITO: きっとすぐにできるんじゃないかな。 みんな、司くん
 4 [mc_timeline] mc_ev_shuffle_64_4
 
 (Enter: KAITO)
-(Enter: MEIKO)
+(Enter: レン)
 (Enter: ミク-MMJ)
 (Enter: リン)
 (Enter: ルカ)
-(Enter: レン)
+(Enter: MEIKO)
 KAITO: レンくん、パーティーお疲れさま！
 レン: みんなも準備お疲れさま。 いろいろ大変だったと思うけど、おかげで とてもいいパーティーになったよ
 リン: あの日で、友達がい～っぱい増えたもんね！
@@ -77,10 +77,10 @@ MEIKO: ええ！　しかも、これから もっともっと仲良くなれる
 
 5 [mc_timeline] mc_ev_shuffle_64_5
 
-(Enter: こはね)
-(Enter: 冬弥)
 (Enter: 彰人)
+(Enter: 冬弥)
 (Enter: 杏)
+(Enter: こはね)
 ルカ: おーい、みんな～！
 (Enter: ルカ)
 杏: ルカさん！
@@ -109,11 +109,11 @@ MEIKO: ええ！　しかも、これから もっともっと仲良くなれる
 
 7 [mc_timeline] mc_ev_shuffle_64_6
 
-(Enter: こはね)
-(Enter: ルカ)
-(Enter: 冬弥)
 (Enter: 彰人)
 (Enter: 杏)
+(Enter: ルカ)
+(Enter: 冬弥)
+(Enter: こはね)
 ルカ: みんな、聴いてくれてありがと～！
 ルカ: はあ、すっごく気持ちよかった！ みんなもありがとね！
 こはね: えへへ、よかったです

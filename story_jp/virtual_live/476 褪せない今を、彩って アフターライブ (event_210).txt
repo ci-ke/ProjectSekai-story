@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_night_26_1
 
-(Enter: まふゆ)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: 瑞希)
+(Enter: 奏)
+(Enter: まふゆ)
 瑞希: レン達、スケッチブックすっごく喜んでたね！
 絵名: うん。 まさか、しばらくセカイに置いてていい？って言われるなんて 思わなかったな
 奏: カイトにも見せたいって言ってたね
@@ -45,11 +45,11 @@ MEIKO: それなら、私も歌うわ
 
 3 [mc_timeline] mc_ev_night_26_2
 
-(Enter: MEIKO)
-(Enter: まふゆ)
 (Enter: 奏)
-(Enter: 瑞希)
+(Enter: まふゆ)
 (Enter: 絵名)
+(Enter: MEIKO)
+(Enter: 瑞希)
 奏: ……みんな、来てたんだね
 絵名: 聴いてくれてたんだ。ありがと！
 瑞希: おお、すごい歓声！ それじゃあリクエストにお応えして、もう１曲——

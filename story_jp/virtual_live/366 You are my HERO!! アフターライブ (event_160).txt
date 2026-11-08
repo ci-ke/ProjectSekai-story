@@ -4,11 +4,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_57_1
 
-(Enter: みのり)
 (Enter: ミク-MMJ)
+(Enter: 雫)
+(Enter: みのり)
 (Enter: 愛莉)
 (Enter: 遥)
-(Enter: 雫)
 ミク (MMJ): みんな、一緒に歌ってくれてありがとう！
 愛莉: どういたしまして！
 雫: でも……セカイに来ていきなり 『一緒に歌って！』って言われた時は、びっくりしたわね
@@ -41,10 +41,10 @@
 
 4 [mc_timeline] mc_ev_shuffle_57_2
 
-(Enter: リン)
 (Enter: レン)
-(Enter: 司)
 (Enter: 寧々)
+(Enter: リン)
+(Enter: 司)
 レン: みんな〜！　聴いてくれてありがとう！
 司: オレ達のショー、楽しんでくれたようで何よりだ！
 (Enter: ミク-WxS)

@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_bd_2025kaito_1
 
-(Enter: まふゆ)
 (Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: 瑞希)
+(Enter: まふゆ)
 絵名: ——じゃあ、決めた通り一気にいくからね
 奏: うん、わかった……
 瑞希: みんな、カイトのお祝いに来たんだよね？ ちょっと協力してくれないかな？
@@ -45,11 +45,11 @@ KAITO: …………好きにしろ
 
 3 [mc_timeline] mc_bd_2025kaito_2
 
+(Enter: 奏)
+(Enter: 絵名)
 (Enter: KAITO)
 (Enter: まふゆ)
-(Enter: 奏)
 (Enter: 瑞希)
-(Enter: 絵名)
 KAITO: ……もういいだろう。 俺は行くぞ
 奏: うん。お祝いさせてくれてありがとう
 (Exit: KAITO)
@@ -60,11 +60,11 @@ KAITO: ……もういいだろう。 俺は行くぞ
 
 4 [mc_timeline] mc_bd_2025kaito_3
 
-(Enter: MEIKO)
 (Enter: ミク)
+(Enter: MEIKO)
+(Enter: レン)
 (Enter: リン)
 (Enter: ルカ)
-(Enter: レン)
 ミク: ——みんなー！ カイトの記念日をお祝いしに来てくれてありがとう！
 ルカ: ……でも、肝心の主役はどこに行ったのかしら？
 リン: それなら大丈夫！ ね、カイトー！
@@ -82,12 +82,12 @@ KAITO: 『レイニースノードロップ』！
 
 6 [mc_timeline] mc_bd_2025kaito_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: ミク)
-(Enter: リン)
 (Enter: ルカ)
+(Enter: ミク)
+(Enter: KAITO)
 (Enter: レン)
+(Enter: リン)
+(Enter: MEIKO)
 KAITO: みんな、聴いてくれてありがとう！
 レン: すっごくよかったよ、カイト！
 ミク: うん！　もっともっと聴いていたいくらい！
