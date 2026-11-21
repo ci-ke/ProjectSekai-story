@@ -1896,7 +1896,76 @@ Miku: I see. So it's protecting this SEKAI.
 Ena: That, or it's just meant to spook people, I guess.
 
 
-225 8015:7468 Hello Kitty's Piano
+225 7634:7163 Vintage Style Mirror
+
+(Character: Hatsune Miku)
+
+Miku: A mirror... Ena and Mizuki like these, I think.
+Miku: No, they didn't say it out loud.
+Miku: But I always see them looking at their phones and fixing their hair.
+
+
+226 7635:7164 Vintage Style Bed
+
+(Character: Hatsune Miku)
+
+Miku: Who is this bed for? It's for anyone?
+Miku: Then...if Kanade gets sleepy, please let her rest here.
+
+
+227 7636:7165 Vintage Style Coffee Maker
+
+(Character: Hatsune Miku)
+
+Miku: I know what coffee is. I heard it's very bitter.
+Miku: Some people like it a lot that way? I see...
+Miku: I wonder what I would think. Maybe I'll try a little bit.
+
+
+228 7712:5650~ Vintage Style Sofa
+
+(Character: Kanade Yoisaki, Hatsune Miku)
+
+Kanade: It's getting livelier here, little by little.
+Miku: It sort of reminds me of our SEKAI.
+Kanade: Huh?
+Miku: At first, it was just me and Mafuyu... But now, everyone is there.
+Kanade: Miku...
+Kanade: Yeah... You're right.
+
+
+229 7713:5651~ Vintage Style Sofa
+
+(Character: Mafuyu Asahina, Hatsune Miku)
+
+Mafuyu: Miku... You look like you're having fun.
+Miku: I am... This SEKAI is full of sights I've never seen... And things I don't know anything about.
+Mafuyu: I see...
+Miku: Oh, I know. There's a place I want to show you... Will you come with me later?
+Mafuyu: Okay.
+
+
+230 7714:5652~ Vintage Style Sofa
+
+(Character: Ena Shinonome, Hatsune Miku)
+
+Miku: There are a lot of pretty places here.
+Ena: Right? Just about anywhere you look, it's practically a painting.
+Miku: Do you like this SEKAI too, Ena...?
+Ena: It's pretty nice. Maybe I'll bring my sketchbook sometime and draw something.
+
+
+231 7715:5653~ Vintage Style Sofa
+
+(Character: Mizuki Akiyama, Hatsune Miku)
+
+Mizuki: You've come here a few times, right Miku? Getting used to it?
+Miku: Yes. It was a surprise at first...
+Miku: But... Getting to come here with all of you makes me happy.
+Mizuki: Hahaha! I feel the same way.
+
+
+232 8015:7468 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

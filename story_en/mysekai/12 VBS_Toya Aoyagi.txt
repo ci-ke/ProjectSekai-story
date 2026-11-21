@@ -2053,7 +2053,108 @@ Toya: I see. Was that also why you asked MEIKO if she could make you a pumpkin p
 Akito: No...I just wanted some, that's all.
 
 
-242 8008:7461 Pochacco's Street Wall
+242 7570:7099 Vintage Style Dresser
+
+(Character: Toya Aoyagi)
+
+Toya: What a charming dresser.
+Toya: I don't have many places to store small objects in my room, so a dresser like this might be just the answer.
+Toya: I especially like that it has drawers. They can help protect important things inside from dust.
+
+
+243 7571:7100 Vintage Style Mirror
+
+(Character: Toya Aoyagi)
+
+Toya: Whole-body mirrors are quite useful. I also make sure to check myself over before I leave the house each time.
+
+
+244 7572:7101 Vintage Style Bookshelf
+
+(Character: Toya Aoyagi)
+
+Toya: I see you have files on this shelf as well as books. And everything is neatly organized.
+
+
+245 7573:7102 Vintage Style Coat Rack
+
+(Character: Toya Aoyagi)
+
+Toya: It's good to have a place to hang clothes you wear often. Especially if you find yourself stepping out of the house in a hurry.
+
+
+246 7574:7103 Vintage Style Coffee Maker
+
+(Character: Toya Aoyagi)
+
+Toya: You're brewing coffee? I thought I smelled something pleasant. And this machine brews from the beans themselves?
+Toya: Could I possibly ask you for a sip when it's finished? I'm very curious how it's going to taste.
+
+
+247 7672:5585~ Vintage Style Sofa
+
+(Character: Kohane Azusawa, Toya Aoyagi)
+
+Toya: When I was little, I read a fantasy novel about finding a whole world at the back of a wardrobe. To think I'd one day experience something like that for myself.
+Kohane: Yeah. Having our own SEKAI... Meeting Miku and everyone... It's all unbelievable.
+Toya: Exactly. One incredible thing happens after another here in SEKAI. It's fascinating.
+
+
+248 7674:5587~ Vintage Style Sofa
+
+(Character: An Shiraishi, Toya Aoyagi)
+
+Toya: We're surrounded by nature here. It brings me back to when we went camping.
+An: Yeah! That reminds me, Len and the others said they wanted to go camping too. We could totally do it here, right?
+Toya: Perhaps, but don't forget that this isn't our SEKAI.
+An: I know that! We gotta ask our host if it's okay first!
+
+
+249 7675:5588~ Vintage Style Sofa
+
+(Character: Akito Shinonome, Toya Aoyagi)
+
+Toya: It feels good to sing in a wide-open space like this SEKAI.
+Akito: Yeah. It's different from being in a local park or a live house. It's like your voice just echoes into the distance.
+Akito: That's not something we can experience in Shibuya or our own SEKAI.
+Toya: Exactly. It feels so novel, and it makes me never want to stop.
+
+
+250 7679:5592~ Vintage Style Sofa
+
+(Character: Toya Aoyagi, Kagamine Len)
+
+Len: Hey, Toya. What's the appeal of black coffee?
+Toya: Let me think... More than anything, I think it's being able to appreciate the flavor of the coffee itself.
+Len: The flavor of the coffee itself... Hmm... I wanna appreciate it too, but it's harder than I thought.
+Toya: There's no need to rush. It's like mastering a difficult song. It takes time and practice to learn more and grow accustomed to it.
+Len: Oh, I see! Huh, so it's just like practicing.
+Toya: Precisely. Take as much time as you need to get used to the flavor on your terms.
+
+
+251 7685:5598~ Vintage Style Sofa
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: It's so peaceful here...
+MEIKO: You enjoy reading, don't you, Toya? This feels like the perfect place for it.
+Toya: It is. When I'm reading in the shade of a tree, hearing the grass rustling in the wind, I feel more immersed than ever in whatever I'm reading.
+MEIKO: Hehe. Just make sure you don't lose track of time and get home late.
+
+
+252 7690:5603~ Vintage Style Sofa
+
+(Character: Toya Aoyagi, Hatsune Miku)
+
+Toya: I'd like to do something as thanks to our host for letting us spend so much time in their SEKAI. What do you think would be a good gesture?
+Miku: Hmm... Maybe a song...? But they hear you sing all the time. You could cook something?
+Toya: I suppose I could. But I can't cook, and I don't say that out of modesty.
+Miku: That's all the more reason to try. You'd get the satisfaction of knowing they liked something you worked hard to do, despite it not being your strong suit.
+Toya: That's true. Insightful advice as always, Miku.
+Miku: Hehe. If you do decide to cook something, feel free to ask me to help.
+
+
+253 8008:7461 Pochacco's Street Wall
 
 (Character: Toya Aoyagi)
 

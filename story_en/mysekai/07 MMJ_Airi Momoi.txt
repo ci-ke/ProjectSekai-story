@@ -1833,7 +1833,85 @@ Minori: Ah! I can have some of this candy here?! Thank you! Now I can give this 
 Airi: Oh, looks like our kind host saved you this time. I had a real doozy of a prank planned, too. Oh well.
 
 
-220 8007:7460 My Melody's Lovely Sofa
+220 7553:7082 Vintage Style Mirror
+
+(Character: Airi Momoi)
+
+Airi: Oh, you've got a mirror and everything. I expected nothing less.
+Airi: Whenever I see a mirror, I make sure to check how everything's looking. I'm an idol, after all. I have to look perfect at all times!
+
+
+221 7554:7083 Vintage Style Bed
+
+(Character: Airi Momoi)
+
+Airi: Do you know how to extend the life of a mattress? You have to rotate it periodically!
+Airi: You can rotate it 180 degrees to swap the head and foot, or even switch the top and bottom sides, to spread out the weight.
+Airi: It's such a simple thing, but it makes a big difference. You should try it.
+
+
+222 7555:7084 Vintage Style Coat Rack
+
+(Character: Airi Momoi)
+
+Airi: What a nice coatrack. I really like this coat and hat that are on it, too.
+Airi: Hehe. You'll have to put these on and strike a pose or two for me sometime.
+
+
+223 7656:5548~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Airi Momoi)
+
+Minori: Whew...
+Airi: Hey, I know we're on break right now, but aren't you a little too relaxed?
+Minori: Oh! S-Sorry! It was so fluffy and comfortable, I just...
+Airi: Honestly...
+Airi: (Well, it's not like I don't get why she feels so relaxed. It's so comfortable, I might doze off myself.)
+
+
+224 7658:5550~ Vintage Style Sofa
+
+(Character: Haruka Kiritani, Airi Momoi)
+
+Airi: I can't wait to do that shoot we talked about in the meeting the other day, but I just can't seem to find a place to film.
+Haruka: It can't be helped. Even if we find a good spot, we'll have to look for another place if they don't give us permission to film.
+Airi: *Sigh* Maybe we could just ask our host if we could bring everything we need to this SEKAI and film here instead.
+Haruka: I understand how you feel... And knowing them, they'd probably give us the green light.
+Airi: You're right. Well, this is our job, so we can't just rely on other people to solve our problems. I need to focus and secure a location myself!
+
+
+225 7660:5552~ Vintage Style Sofa
+
+(Character: Airi Momoi, Shizuku Hinomori)
+
+Airi: This SEKAI kinda feels like a second home.
+Shizuku: Yeah, I get what you mean. I always feel so relaxed whenever I come here.
+Shizuku: But today, I feel even more relaxed than usual... Hehe, maybe it's because you're next to me, Airi.
+Airi: Well, that came out of nowhere. A little sweet talk won't get you anything, you know?
+
+
+226 7663:5555~ Vintage Style Sofa
+
+(Character: Airi Momoi, Kagamine Rin)
+
+Airi: Phew... This sofa sure is relaxing. I feel like I can rest my weary bones.
+Rin: Yeah. But we still have singing practice today, so we gotta keep our energy up until the end!
+Rin: Now then, during our last practice, we were told to...
+Airi: (Hehe. No matter where we are, Rin is always such a hard worker.)
+
+
+227 7668:5560~ Vintage Style Sofa
+
+(Character: Airi Momoi, Hatsune Miku)
+
+Airi: I always end up spending so much time in this SEKAI. I wonder why I feel so comfortable here?
+Miku: I'm sure it's because this SEKAI is filled with our host's warm feelings of support, and their wish for you all to get some rest.
+Airi: That reminds me, our host knew who we were.
+Miku: That's right. That's why we should recharge here, so we can get back out there and give it our all♪
+Airi: You're right!
+
+
+228 8007:7460 My Melody's Lovely Sofa
 
 (Character: Airi Momoi)
 

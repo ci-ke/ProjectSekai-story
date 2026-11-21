@@ -1876,7 +1876,85 @@ Emu: Yeah! Oh, what if I get my outfit from that, bring it here, and put it on t
 Rui: Hehe. That would be a fine surprise.
 
 
-226 8009:7462 Cinnamoroll's Cafe Table
+226 7580:7109 Vintage Style Mirror
+
+(Character: Emu Otori)
+
+Emu: Ooh, a mirror! It reminds me of that fairy tale! You know the one☆
+Emu: Mirror, mirror, on the wall. Who's the fairest of them all?
+Emu: Hehehe. Did I look like a proper evil queen?
+
+
+227 7581:7110 Vintage Style Bookshelf
+
+(Character: Emu Otori)
+
+Emu: This bookshelf's so big! And it's full of books!
+Emu: I want to read them too! Which one's your favorite? Show me, show me♪
+
+
+228 7582:7111 Vintage Style Coat Rack
+
+(Character: Emu Otori)
+
+Emu: Ah, these clothes and hat are cool! Do you wear them when you go out?
+
+
+229 7691:5619~ Vintage Style Sofa
+
+(Character: Tsukasa Tenma, Emu Otori)
+
+Emu: This SEKAI sure is different from our SEKAI, huh!
+Tsukasa: Indeed, our SEKAI has the amusement park and the harbor, and it's a lively gathering place for people... Well, for plushies.
+Tsukasa: But this sort of quiet, relaxed place is a nice change of pace.
+Emu: Yeah♪ It makes me feel all warm and fluffy, and I like it a lot!
+
+
+230 7694:5622~ Vintage Style Sofa
+
+(Character: Emu Otori, Nene Kusanagi)
+
+Emu: Hey, Nene! Let's go for a walk!
+Nene: A walk?
+Emu: Yeah! I really love exploring this SEKAI♪ But I bet it would be even more fun with you!
+Nene: Ah...
+Nene: Well, I don't have any plans right now, so if it's just a short walk...
+Emu: Really?! Yay! Then let's rest a little more, and then we can go♪
+
+
+231 7695:5623~ Vintage Style Sofa
+
+(Character: Emu Otori, Rui Kamishiro)
+
+Emu: If I had a SEKAI, I wonder what it would be like?
+Rui: I wonder... It's hard to imagine. What kind of SEKAI would you like to have, Emu?
+Emu: Well, lemme think! I think an amusement park would be great!
+Emu: There would be lots of people and plushies, and flowers and bugs, and animals and aliens and all sorts of fun visitors!
+Rui: Hehehe. It sounds like a very lively and smile-filled SEKAI, just perfect for you.
+
+
+232 7698:5626~ Vintage Style Sofa
+
+(Character: Emu Otori, KAITO)
+
+Emu: KAITO! Did you see those flowers over there? The pretty ones blooming all shiny shiny perky perky between the trees!
+KAITO: I've seen a lot of flowers here. Which ones do you mean?
+KAITO: Would you be willing to show me later? I'm very curious to see these shiny shiny perky perky flowers.
+Emu: Yeah♪ Hehehe, when you see them, you'll know for sure that they're the shiny shiny perky perky ones☆
+
+
+233 7703:5631~ Vintage Style Sofa
+
+(Character: Emu Otori, Hatsune Miku)
+
+Miku: Humhumhuuum♪
+Emu: Hehehe, Miku, you're all super smiley today♪
+Miku: Yeah♪ I'm happy to be with you, Emu♪
+Emu: Really?! I'm happy and having fun talking with you!　
+Miku & Emu: Hehehe☆
+
+
+234 8009:7462 Cinnamoroll's Cafe Table
 
 (Character: Emu Otori)
 

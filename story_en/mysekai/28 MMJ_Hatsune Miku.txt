@@ -1635,7 +1635,81 @@ Miku: Ooh, what if we dress up too? It's Halloween, after all!
 Shizuku: What a good idea! It's not every day you get to dress up, after all. And we'd like you to have as much fun as you can, too.
 
 
-197 8012:7465 Hello Kitty's Piano
+197 7609:7138 Vintage Style Dresser
+
+(Character: Hatsune Miku)
+
+Miku: This dresser is nice. It feels kind of grown-up and chic.
+
+
+198 7610:7139 Vintage Style Shelf
+
+(Character: Hatsune Miku)
+
+Miku: You've got a diffuser and an ornamental plant and all sorts of things on this shelf.
+Miku: But it doesn't feel cluttered at all... You must be just that good at organizing♪
+
+
+199 7611:7140 Vintage Style Coat Rack
+
+(Character: Hatsune Miku)
+
+Miku: It's handy being able to just hang your coat here. But I feel like it's almost so handy that I'd want to put all my clothes on here.
+
+
+200 7665:5557~ Vintage Style Sofa
+
+(Character: Hatsune Miku, Kagamine Rin)
+
+Miku: Just like our SEKAI, this SEKAI is also a wonderful place, overflowing with feelings.
+Rin: I agree! At first, I was surprised to be in another SEKAI, but I'm really glad we ended up here.
+Miku: Since our host is kind enough to let both us and the girls visit, I'd love to put on a performance for them someday to show our appreciation.
+Rin: That sounds like a great idea! We'll have to prepare a special seat for them right in the front♪
+
+
+201 7666:5558~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Hatsune Miku)
+
+Minori: Miku, how much of this SEKAI have you explored?
+Miku: Hmm, I think I've walked around the area near the house once.
+Miku: Every time I'm here, there's something new and interesting, so I still haven't managed to explore the whole place yet.
+Minori: I know exactly what you mean! It's so exciting to think about what I might discover today♪
+
+
+202 7667:5559~ Vintage Style Sofa
+
+(Character: Haruka Kiritani, Hatsune Miku)
+
+Haruka: Miku, it seems like you've done a lot of exploring here. Have you found anything interesting?
+Miku: Too many things to count♪ But the most interesting thing of all is still this SEKAI itself!
+Miku: The way the host's feelings take shape and gradually breathe life into this SEKAI...
+Haruka: I agree. Every time I visit, I also look forward to seeing what's new.
+
+
+203 7668:5560~ Vintage Style Sofa
+
+(Character: Airi Momoi, Hatsune Miku)
+
+Airi: I always end up spending so much time in this SEKAI. I wonder why I feel so comfortable here?
+Miku: I'm sure it's because this SEKAI is filled with our host's warm feelings of support, and their wish for you all to get some rest.
+Airi: That reminds me, our host knew who we were.
+Miku: That's right. That's why we should recharge here, so we can get back out there and give it our all♪
+Airi: You're right!
+
+
+204 7669:5561~ Vintage Style Sofa
+
+(Character: Shizuku Hinomori, Hatsune Miku)
+
+Miku: Shizuku, you're in a good mood. Did something good happen?
+Shizuku: Hehe. Actually, I helped make Salisbury steak for dinner last night...
+Shizuku: And Shii really enjoyed the one I made!
+Shizuku: The look on her face while eating was just the cutest thing. Every time I think about it, I can't help but smile.
+Miku: Hehe. Shizuku, you really do love your sister!
+
+
+205 8012:7465 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

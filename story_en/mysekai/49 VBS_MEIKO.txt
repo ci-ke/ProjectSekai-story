@@ -1931,3 +1931,90 @@ Len: Well, we just couldn't wait for the... I mean, that was totally planned!
 
 MEIKO: What a lavish chair. Huh? You made this for me?
 MEIKO: I see. In that case, I'd be happy to have a seat.
+
+
+230 7623:7152 Vintage Style Dresser
+
+(Character: MEIKO)
+
+MEIKO: This vintage design is nice. It has presence without being overbearing.
+
+
+231 7624:7153 Vintage Style Bookshelf
+
+(Character: MEIKO)
+
+MEIKO: This bookshelf is well-designed. I see you even have things stored rather cleverly.
+MEIKO: Are you keeping the top shelf mostly clear to keep it from feeling too imposing?
+
+
+232 7625:7154 Vintage Style Coffee Maker
+
+(Character: MEIKO)
+
+MEIKO: This coffee maker...
+MEIKO: It has enough of an aesthetic touch to feel extremely chic.
+
+
+233 7680:5593~ Vintage Style Sofa
+
+(Character: Kagamine Len, MEIKO)
+
+Len: I just thought, MEIKO. What are you doing about the cafe while you're here?
+MEIKO: Originally, I was going to close up shop while I was out, but KAITO offered to hold down the fort for me.
+Len: Huh? You put KAITO in charge?
+MEIKO: Despite how he comes off, he's responsible when he needs to be. But you probably already know that, being his student and all.
+Len: I guess? But that side of him is really rare...
+
+
+234 7682:5595~ Vintage Style Sofa
+
+(Character: Kohane Azusawa, MEIKO)
+
+MEIKO: I've noticed you and the others sing a lot here in this SEKAI, Kohane.
+Kohane: I guess we do. For one thing, we all want to get some practice in... But it also just feels good to sing here.
+MEIKO: Miku and Len said the same thing. Maybe I'll sing here too sometime.
+Kohane: *Gasp* Then, maybe we could sing together?
+MEIKO: Oh, really? I think I'll take you up on that.
+
+
+235 7683:5596~ Vintage Style Sofa
+
+(Character: An Shiraishi, MEIKO)
+
+An: MEIKO, could I ask you to make some coffee and sandwiches next time I come here?
+MEIKO: Yes, I can do that. Are you planning to share them with our host?
+An: That's right! They were really interested when I told them all about your cafe!
+MEIKO: Hehe, I'm honored. In that case, I'd better roll up my sleeves and whip up a feast.
+
+
+236 7684:5597~ Vintage Style Sofa
+
+(Character: Akito Shinonome, MEIKO)
+
+Akito: MEIKO, when do you come up with new menu items?
+MEIKO: Usually when I'm thinking about the time of year. I think about what's in season, or what holidays are coming up.
+MEIKO: Though sometimes, it's because I've found a difficult recipe and want to challenge myself.
+Akito: Challenge yourself? You're so skilled in the kitchen, but there are still things you find challenging?
+MEIKO: That's right. I still have a long way to go as a cook, and I want to keep trying new things.
+
+
+237 7685:5598~ Vintage Style Sofa
+
+(Character: Toya Aoyagi, MEIKO)
+
+MEIKO: It's so peaceful here...
+MEIKO: You enjoy reading, don't you, Toya? This feels like the perfect place for it.
+Toya: It is. When I'm reading in the shade of a tree, hearing the grass rustling in the wind, I feel more immersed than ever in whatever I'm reading.
+MEIKO: Hehe. Just make sure you don't lose track of time and get home late.
+
+
+238 7686:5599~ Vintage Style Sofa
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: I still can't believe we're here in another SEKAI.
+MEIKO: Me neither. I thought I somewhat understood how SEKAI work, but things like this are a mystery.
+Miku: Feelings can develop and change over time, after all.
+Miku: Far beyond what we could imagine.
+MEIKO: Hehe. You got that right.

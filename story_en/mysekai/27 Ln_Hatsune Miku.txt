@@ -1669,7 +1669,83 @@ Miku: For instance... Try picture it saying "Huh? Where'd all my Halloween candy
 Honami: Y-You're right. Now it feels like a big eater, or just forgetful. Hehe, thank you, Miku.
 
 
-201 8011:7464 Hello Kitty's Piano
+201 7603:7132 Vintage Style Bed
+
+(Character: Hatsune Miku)
+
+Miku: I've seen Ichika's and Saki's beds before, but this one is different from theirs.
+Miku: There's something cool about how understated it is.
+
+
+202 7604:7133 Vintage Style Bookshelf
+
+(Character: Hatsune Miku)
+
+Miku: You have a light there?
+Miku: Ah, I guess having a light higher up makes it easier to see, so I can see the logic.
+
+
+203 7605:7134 Vintage Style Coat Rack
+
+(Character: Hatsune Miku)
+
+Miku: This kind of coatrack is good for clothes you use a lot, right?
+Miku: I guess that means these ones are your favorites.
+
+
+204 7650:5527~ Vintage Style Sofa
+
+(Character: Hatsune Miku, Megurine Luka)
+
+Miku: This place is always so relaxing. I wonder why, when it's not our own SEKAI?
+Luka: Maybe the feelings that formed this SEKAI are affecting us.
+Luka: These warm, kind, considerate feelings accept everyone, it seems.
+Miku: Maybe so...
+Miku: (I hope this SEKAI stays just like this.)
+
+
+205 7651:5528~ Vintage Style Sofa
+
+(Character: Ichika Hoshino, Hatsune Miku)
+
+Ichika: This place is so big, and has so much to look at, that just walking around really makes the time fly.
+Miku: Yeah. It's fun spotting things that weren't here last time I visited.
+Ichika: Hehe. Just like earlier, right? When you went "Hey, this wasn't here before, right?!" It was pretty cute the way your eyes got so big.
+Miku: R-Really? That's kind of embarrassing...
+
+
+206 7652:5529~ Vintage Style Sofa
+
+(Character: Saki Tenma, Hatsune Miku)
+
+Saki: It's nice getting to chat with you like this, Miku. It's like you've come over to my place to hang out.
+Miku: Hehe. Even though we're both guests here.
+Saki: True that♪ If only we had a three-person sofa, then we could all sit and chat.
+Miku: That sounds nice, but wouldn't it be hard to chat with three of us in a line?
+
+
+207 7653:5530~ Vintage Style Sofa
+
+(Character: Honami Mochizuki, Hatsune Miku)
+
+Honami: Oh, Miku. When it comes to a packed lunch, do you prefer rice balls or sandwiches?
+Miku: Hmm, if I had to pick, I guess I'd say sandwiches. Why do you ask?
+Honami: Next time we come to visit, I'm thinking of bringing lunch for us all to eat as a token of gratitude. So, I thought I'd ask everyone's preferences.
+Miku: I see. I hope our host likes it.
+
+
+208 7654:5531~ Vintage Style Sofa
+
+(Character: Shiho Hinomori, Hatsune Miku)
+
+Miku: I heard you had some crazy ramen recently. With a bunch of veggies piled on top?
+Shiho: Oh, right, that. People were talking it up as a healthy way to eat ramen, given all the veggies, so I thought I'd try it.
+Miku: That sounds kind of interesting. I wonder if Honami could recreate it.
+Shiho: It'd be hard to manage the exact noodles and broth, but if any veggie ramen would do, I think she could handle it.
+Miku: Really? Maybe I'll ask her, then.
+
+
+209 8011:7464 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

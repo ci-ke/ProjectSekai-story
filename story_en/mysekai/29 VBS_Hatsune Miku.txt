@@ -1671,7 +1671,95 @@ Miku: I see, so it's a Halloween decoration. I thought it was an actual tree tha
 Miku: This ghost's a Halloween decoration? What do you do with it, lift it up and parade it around?
 
 
-196 8013:7466 Hello Kitty's Piano
+196 7615:7144 Vintage Style Mirror
+
+(Character: Hatsune Miku)
+
+Miku: Whole-body mirrors are nice. Especially when you're deciding what to wear.
+
+
+197 7616:7145 Vintage Style Bed
+
+(Character: Hatsune Miku)
+
+Miku: This bed's kind of funny-looking. Maybe because the bottom part is so big.
+Miku: That's just how it's designed, right? The mattress isn't the wrong size or something?
+
+
+198 7617:7146 Vintage Style Shelf
+
+(Character: Hatsune Miku)
+
+Miku: MEIKO stores things out like this too. It feels like you and her have similar taste in what stays out and what gets put away.
+Miku: Maybe you have similar instincts or something.
+
+
+199 7681:5594~ Vintage Style Sofa
+
+(Character: Hatsune Miku, Kagamine Len)
+
+Miku: This SEKAI really puts me at ease. I feel just as relaxed here as I do at MEIKO's cafe.
+Len: Me too. I guess the only thing this place doesn't have that the cafe does is...a lunch menu?
+Miku: Well, it wouldn't since it's not a cafe.
+Len: Hahaha, of course.
+
+
+200 7686:5599~ Vintage Style Sofa
+
+(Character: Hatsune Miku, MEIKO)
+
+Miku: I still can't believe we're here in another SEKAI.
+MEIKO: Me neither. I thought I somewhat understood how SEKAI work, but things like this are a mystery.
+Miku: Feelings can develop and change over time, after all.
+Miku: Far beyond what we could imagine.
+MEIKO: Hehe. You got that right.
+
+
+201 7687:5600~ Vintage Style Sofa
+
+(Character: Kohane Azusawa, Hatsune Miku)
+
+Miku: You look happy, Kohane.
+Kohane: Hehe. Something happened while I was looking after Count Pearl just before I came over.
+Kohane: When I was done feeding her, I noticed this one dirty patch on her tank. After I wiped it down, she came and snuggled up around my arm!
+Miku: Maybe it was her way of saying thank you.
+Kohane: Yeah, maybe. That would be nice.
+
+
+202 7688:5601~ Vintage Style Sofa
+
+(Character: An Shiraishi, Hatsune Miku)
+
+Miku: Are you feeling tired, An?
+An: Yeah. I came here to rest after practicing in our SEKAI.
+Miku: Oh, I see. I was hoping we could sing together since we're both here, but nevermi—
+An: Wait, no, don't say that! Let's sing! Just lemme take a quick break, then I'll be good to go!
+Miku: Really? Well, make sure you rest properly first.
+
+
+203 7689:5602~ Vintage Style Sofa
+
+(Character: Akito Shinonome, Hatsune Miku)
+
+Miku: Akito, MEIKO said to come over to eat the pancakes she made.
+Akito: Huh? Not that I'm ungrateful, but that's so sudden...
+Miku: You said you were coming here to practice, and we haven't seen you since. She's probably telling you to take a break.
+Akito: Oh, right... I wasn't practicing that hard, but I gotta head back if there are pancakes to eat.
+
+
+204 7690:5603~ Vintage Style Sofa
+
+(Character: Toya Aoyagi, Hatsune Miku)
+
+Toya: I'd like to do something as thanks to our host for letting us spend so much time in their SEKAI. What do you think would be a good gesture?
+Miku: Hmm... Maybe a song...? But they hear you sing all the time. You could cook something?
+Toya: I suppose I could. But I can't cook, and I don't say that out of modesty.
+Miku: That's all the more reason to try. You'd get the satisfaction of knowing they liked something you worked hard to do, despite it not being your strong suit.
+Toya: That's true. Insightful advice as always, Miku.
+Miku: Hehe. If you do decide to cook something, feel free to ask me to help.
+
+
+205 8013:7466 Hello Kitty's Piano
 
 (Character: Hatsune Miku)
 

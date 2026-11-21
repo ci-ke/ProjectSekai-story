@@ -1919,3 +1919,78 @@ Airi: Trick or treat, Minori! Give me candy, or I'll play a prank on you!
 Minori: Aah! I didn't think you'd come at me here!
 Minori: Ah! I can have some of this candy here?! Thank you! Now I can give this to Airi!
 Airi: Oh, looks like our kind host saved you this time. I had a real doozy of a prank planned, too. Oh well.
+
+
+221 7547:7076 Vintage Style Bookshelf
+
+(Character: Minori Hanasato)
+
+Minori: What a nice shelf! Are these big books on the bottom dictionaries? Or encyclopedias?
+
+
+222 7548:7077 Vintage Style Coat Rack
+
+(Character: Minori Hanasato)
+
+Minori: Isn't it weird how hanging things on a coatrack makes ordinary clothes and bags feel kinda fancy?
+
+
+223 7549:7078 Vintage Style Coffee Maker
+
+(Character: Minori Hanasato)
+
+Minori: I can drink coffee! I bet that's a surprise!
+Minori: I just have to put in kind of a lot of sugar and milk first...
+
+
+224 7655:5547~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Haruka Kiritani)
+
+Minori: H-Haruka, I can't help but feel a little shy when you're this close to me.
+Haruka: Oh, come on, Minori... We sit next to each other in meetings all the time.
+Minori: I-I know we do! But my heart's beating so fast... It's not good for my health!
+Haruka: Hehe. Well, we can't have that, can we?
+
+
+225 7656:5548~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Airi Momoi)
+
+Minori: Whew...
+Airi: Hey, I know we're on break right now, but aren't you a little too relaxed?
+Minori: Oh! S-Sorry! It was so fluffy and comfortable, I just...
+Airi: Honestly...
+Airi: (Well, it's not like I don't get why she feels so relaxed. It's so comfortable, I might doze off myself.)
+
+
+226 7657:5549~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Shizuku Hinomori)
+
+Minori: I'm starting to feel a little sleepy.
+Shizuku: We did do a lot during our dance practice today.
+Shizuku: You can take a nap. I'll let you know when it's time to go home.
+Minori: Thank you, Shizuku.
+Minori: But I have a feeling I won't be able to wake up if I sleep now, so I'll just wait until I get home.
+
+
+227 7661:5553~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Kagamine Rin)
+
+Minori: Phew. Time for a little break...
+Minori: Come to think of it, where do you guys usually take your breaks in our SEKAI, Rin?
+Rin: There's an area with seats like this in the green rooms beside the stages, and we often take our breaks there.
+Rin: But now that we can go to the flower field, we spend a lot of our breaks there too. It's so spacious, and the views are absolutely amazing♪
+Minori: I agree! Taking a break in a place like that is the perfect way to recharge!
+
+
+228 7666:5558~ Vintage Style Sofa
+
+(Character: Minori Hanasato, Hatsune Miku)
+
+Minori: Miku, how much of this SEKAI have you explored?
+Miku: Hmm, I think I've walked around the area near the house once.
+Miku: Every time I'm here, there's something new and interesting, so I still haven't managed to explore the whole place yet.
+Minori: I know exactly what you mean! It's so exciting to think about what I might discover today♪
