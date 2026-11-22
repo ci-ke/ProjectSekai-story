@@ -2,16 +2,16 @@
 
 1 [mc_timeline] mc_valentine_2025_1
 
-(Enter: Emu)
-(Enter: Miku-WxS)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Miku-WxS)
 Emu: Happy Valentine's Day, everyone♪
-Miku (WxS): Happy Valentine's Day! Happy Valentine's Day☆
 Tsukasa: Happy Valentine's Day! Happy Valentine's Day☆
 Nene: Happy Valentine's Day! Happy Valentine's Day☆
 Rui: Happy Valentine's Day! Happy Valentine's Day☆
+Miku (WxS): Happy Valentine's Day! Happy Valentine's Day☆
 Tsukasa: You all seem in good spirits! Did you receive a gift from someone?
 Rui: We actually just received chocolate from Emu and Nene. We were sharing our thoughts with them and Miku.
 Miku (WxS): Yeah☆ The chocolate cake was so good♪ And the colorful star-shaped chocolate hidden inside was so fun!
@@ -43,11 +43,11 @@ Tsukasa: It's showtime!
 
 3 [mc_timeline] mc_valentine_2025_2
 
-(Enter: Emu)
-(Enter: Miku-WxS)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Miku-WxS)
 Emu: Did you like our show, everyone?
 Miku (WxS): Wow! Everyone seems even happier than they were before the show!
 Tsukasa: Yes! It should be a good boost for Miku's plushie friend too, surely?
@@ -59,9 +59,9 @@ Miku (WxS): See you again!
 
 4 [mc_timeline] mc_valentine_2025_3
 
-(Enter: KAITO)
 (Enter: Miku)
 (Enter: Len)
+(Enter: KAITO)
 Len: Hey, everyone!
 KAITO: Great timing! Luka and the others are just about to put on a special Valentine's Day show for us.
 Len: I wonder what they'll be singing. Rin totally refused to tell me...
@@ -75,9 +75,9 @@ Miku: Let's all enjoy the show together! Start the music!
 
 6 [mc_timeline] mc_valentine_2025_4
 
-(Enter: MEIKO)
 (Enter: Rin)
 (Enter: Luka)
+(Enter: MEIKO)
 (Enter: Len)
 (Enter: Miku)
 (Enter: KAITO)
@@ -96,10 +96,10 @@ Luka: Of course we have chocolates for you. Let's all eat them together later.
 Len: Hooray!
 MEIKO: Thank you for coming today, everyone. Have a wonderful Valentine's Day!
 Luka: We hope you'll come listen to us sing again sometime soon. For now...
-MEIKO: Happy Valentine's Day!
 Miku: Happy Valentine's Day!
 Rin: Happy Valentine's Day!
-KAITO: Happy Valentine's Day!
-Luka: Happy Valentine's Day!
+MEIKO: Happy Valentine's Day!
 Len: Happy Valentine's Day!
+Luka: Happy Valentine's Day!
+KAITO: Happy Valentine's Day!
 Rin: Bye bye!

@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_valentine_2025_1
 
-(Enter: 類)
 (Enter: 司)
-(Enter: ミク-WxS)
 (Enter: えむ)
 (Enter: 寧々)
+(Enter: 類)
+(Enter: ミク-WxS)
 えむ: みんなー！　ハッピーバレンタイ～ン♪
 司: 『ハッピーバレンタイン！』 『ハッピーバレンタインっ☆』
 司: おお、元気だな！ もしや、誰かからプレゼントをもらったのか？
@@ -40,10 +40,10 @@
 
 3 [mc_timeline] mc_valentine_2025_2
 
-(Enter: えむ)
-(Enter: 類)
-(Enter: 寧々)
 (Enter: 司)
+(Enter: えむ)
+(Enter: 寧々)
+(Enter: 類)
 (Enter: ミク-WxS)
 えむ: みんな！　あたし達のショー、どうだった？
 ミク (WxS): わっ！　ひょっとしてみんな、 ショーをやる前より元気になってる！？
@@ -56,9 +56,9 @@
 
 4 [mc_timeline] mc_valentine_2025_3
 
-(Enter: KAITO)
-(Enter: レン)
 (Enter: ミク)
+(Enter: レン)
+(Enter: KAITO)
 レン: みんな、いらっしゃーい！
 KAITO: いいタイミングだね！　ちょうどルカ達が バレンタインの特別なライブをしてくれるところなんだ
 レン: どんな歌が聴けるんだろう？ リンに聞いても、全然教えてくれなくって……

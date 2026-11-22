@@ -58,10 +58,10 @@ KAITO: わかった。 じゃあ僕達で迎えに行こうか
 
 3 [mc_timeline] mc_ev_idol_24_2
 
-(Enter: レン)
+(Enter: 愛莉)
 (Enter: みのり)
 (Enter: 遥)
-(Enter: 愛莉)
+(Enter: レン)
 (Enter: 雫)
 遥: みんな、ありがとう！
 遥: ……あのイベントで、 想いが届いてるって感じた時、思ったんだ

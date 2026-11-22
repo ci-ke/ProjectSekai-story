@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_shuffle_55_1
 
-(Enter: KAITO)
-(Enter: Emu)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Rui)
+(Enter: KAITO)
 Tsukasa: Ah, I see! Then first, we should grab their attention with some dynamic poses!
 Emu: Like a blammity-blam, twinkle-twinkle pose?!
 (Enter: Nene)
@@ -41,11 +41,11 @@ Nene: Coral.
 
 4 [mc_timeline] mc_ev_shuffle_55_2
 
-(Enter: MEIKO)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
 MEIKO: Hey, you guys! Don't you think Honami's been really on top of her game lately?
 Honami: What? I-I have?
 Ichika: I think I know what you mean. She has real momentum.

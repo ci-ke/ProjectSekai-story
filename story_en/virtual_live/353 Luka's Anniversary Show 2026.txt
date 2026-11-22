@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_bd_2025luka_1
 
-(Enter: Luka)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
 Luka: Oh, you're all here.
 Ichika: Perfect timing. We're just about to celebrate Luka's anniversary.
 Ichika: Since you're all here, won't you celebrate with us?
@@ -53,11 +53,11 @@ Luka: I hope you'll all listen. Hello, Worker.
 
 3 [mc_timeline] mc_bd_2025luka_2
 
-(Enter: Luka)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
 Ichika: Thank you all!
 Saki: That was so much fun!
 Luka: Yes, that was the best present I could have asked for.
@@ -72,11 +72,11 @@ Luka: Thank you all for coming today. I hope you'll come watch us perform again.
 
 5 [mc_timeline] mc_bd_2025luka_3
 
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
 (Enter: KAITO)
 Luka: Thank you all for listening to our song!
 Luka: I'm so fortunate to get to spend this precious time with you, and share my feelings in song.
@@ -85,10 +85,10 @@ KAITO: I think your feelings came across, Luka.
 Rin: Then I think this time, it's our turn to share our feelings with Luka!
 MEIKO: Right! Is everyone ready?
 MEIKO: One, two, three! Happy anniversary, Luka!
-KAITO: Happy anniversary!
 Miku: Happy anniversary!
 Rin: Happy anniversary!
 Len: Happy anniversary!
+KAITO: Happy anniversary!
 Len: And one more time!
 Len: One, two, three! Happy anniversary!
 Luka: Thank you all. I never expected to get two whole cheers.

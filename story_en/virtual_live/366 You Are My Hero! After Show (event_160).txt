@@ -5,10 +5,10 @@
 2 [mc_timeline] mc_ev_shuffle_57_1
 
 (Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Miku-MMJ)
 Miku (MMJ): Thanks for singing with me, girls!
 Airi: You're very welcome!
 Shizuku: Still... We were surprised when you asked to sing together the moment we arrived.
@@ -41,10 +41,10 @@ Shizuku: Yes!
 
 4 [mc_timeline] mc_ev_shuffle_57_2
 
-(Enter: Rin)
-(Enter: Len)
 (Enter: Tsukasa)
 (Enter: Nene)
+(Enter: Rin)
+(Enter: Len)
 Len: Thanks for listening, everybody!
 Tsukasa: I couldn't be happier that you all enjoyed our show!
 (Enter: Miku-WxS)

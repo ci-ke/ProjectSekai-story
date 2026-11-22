@@ -11,10 +11,10 @@ Miku (N25): But she met Kanade, Ena and Mizuki...and now her SEKAI is full enoug
 Miku (N25): Those feelings trapped everyone in a strange dream...
 Miku (N25): But even so... I'm a little bit happy.
 Miku (N25): That this SEKAI, Mafuyu's feelings... Have grown so much.
-(Enter: Mafuyu)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
 Mafuyu: Miku.
 Miku (N25): Oh...
 Mafuyu: What are you doing over here?
@@ -41,11 +41,11 @@ Kanade: Here goes. Composing the Future.
 
 3 [mc_timeline] mc_ev_night_wl_02_2
 
-(Enter: Mafuyu)
-(Enter: Miku-N25)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku-N25)
 Ena: *Sigh* I feel so much better now.
 Mizuki: Hahaha, me too. It really does feel great singing with you all.
 Mafuyu: It does...

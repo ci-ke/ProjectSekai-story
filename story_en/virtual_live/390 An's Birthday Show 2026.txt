@@ -3,10 +3,10 @@
 1 [mc_timeline] mc_bd_2025an_1
 
 (Enter: Kohane)
-(Enter: Rin)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
 An: Hey, so, can't we go yet? I really wanna see the plaza!
 Akito: They just told us they're still getting ready. Can you stop bouncing off the walls?
 Toya: I understand how you feel, but it's only a little longer. Let's try to be patient.
@@ -53,10 +53,10 @@ An: Here we go, everyone! City!
 3 [mc_timeline] mc_bd_2025an_2
 
 (Enter: Kohane)
-(Enter: Rin)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
 An: Whew, that felt great! Thanks for rocking along, everyone!
 Kohane: You were on fire, An!
 Rin: It was so much fun to sing with you!

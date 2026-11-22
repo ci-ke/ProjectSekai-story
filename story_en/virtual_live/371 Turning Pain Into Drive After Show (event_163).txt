@@ -3,10 +3,10 @@
 1 [mc_timeline] mc_ev_street_wl_02_1
 
 (Enter: Kohane)
-(Enter: Miku-VBS)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku-VBS)
 Kohane: ...and then, I got to water the tree with Len and Rin.
 Toya: You've often been going to check on the tree in the plaza lately, Azusawa.
 Kohane: I have! It kind of energizes me.
@@ -56,10 +56,10 @@ Kohane: Ready Steady!
 3 [mc_timeline] mc_ev_street_wl_02_2
 
 (Enter: Kohane)
-(Enter: Miku-VBS)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku-VBS)
 Miku (VBS): Yep. I was right.
 An: Right about what?
 Miku (VBS): All of you are singing even more powerfully than before.

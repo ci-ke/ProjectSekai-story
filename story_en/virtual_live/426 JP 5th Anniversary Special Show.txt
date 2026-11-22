@@ -1,0 +1,114 @@
+426 JP 5th Anniversary Special Show
+
+1 [mc_timeline] mc_5th_anniversary_1
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thanks for coming, everyone!
+Len: Wow, everyone's really excited!
+Rin: Is today a special day or something?
+KAITO: I think it's the day Miku met the first of our visitors.
+Miku: That's right. Still, what a surprise! There are so many people visiting SEKAI now.
+MEIKO: There are! They make every day so much fun.
+MEIKO: How about you all? Have you had good moments here in SEKAI?
+Len: Ooh, listen to those cheers!
+Rin: Sounds like you've had lots! I'm so glad to hear it!
+KAITO: And speaking of good happenings, did you know that a brand-new SEKAI has formed?
+MEIKO: The SEKAI with the big tree that grows with everyone's feelings, right? That was surprising too.
+Luka: Yes. Thinking about it, I wonder if the trees growing in the other SEKAI were a sign.
+Miku: Maybe. But I think the story's not done yet. I feel like more will happen with that SEKAI...
+Rin: Oh, right, it's like you were saying! Someday we might get to meet them!
+Len: I wish we could talk with them right now!
+Miku: Hehe, me too.
+Miku: I'd love another chance to meet and speak with—
+Miku: Huh?
+KAITO: Wh-What is this place?!
+KAITO: Ah! Ichika, Kanade, Kohane! Thank goodness for familiar faces!
+KAITO: Hehe. I think we have guests.
+Len: Yeah. Let's all go and meet them!
+MEIKO: Hmm... I don't think the timing is quite right yet.
+Rin: What?! Why not?!
+MEIKO: Don't you want our first meeting to be more dramatic and exciting?
+Luka: She's right. I'd prefer to be patient.
+Len: Hmm, I guess it would be more fun to make it a proper surprise...
+KAITO: So there you have it. We'll wait for our time. Look after them for us, Miku!
+Miku: Okay! Then, I'll take everyone to go say hello!
+(Exit: Miku)
+
+
+2 [mc_timeline] mc_5th_anniversary_2
+
+(Enter: Ichika)
+(Enter: Minori)
+(Enter: Kohane)
+(Enter: Tsukasa)
+(Enter: Kanade)
+(Enter: Miku)
+Miku: Welcome, everyone!
+Kohane: Oh, Miku!
+Ichika: I had a strange feeling we might meet, and we actually did! I'm so happy.
+Miku: I'm happy to see you all too. We were just talking about you, actually.
+Kanade: About us?
+Miku: That's right. You see, a big change has come to SEKAI.
+Minori: A big change? You mean...
+Miku: Hehe. I'm sure you'll see it soon enough.
+Miku: For now, though, we're all together! Let's sing!
+Ichika: What do you say, everyone?!
+Kohane: Yeah, I'd love to sing together!
+Tsukasa: Simply say the word, Miku!
+Miku: Thank you! Then let's all get ready before we get started!
+Miku: Can you all close your eyes and put your hand over your heart?
+Kanade: Huh? Like this...?
+Miku: Now, let yourself picture it. The things you want to accomplish right now...
+Ichika: The things I want to accomplish...
+Ichika: I want to make our solo show a success, and bring Leo/need's music to more people.
+Minori: I want to move on in the Lumina Grand Prix as MORE MORE JUMP!, and spread more hope to everyone!
+Kohane: I want Vivid BAD SQUAD to do our best and take the stage at RUSH BEATS, so we can stand on top of the world!
+Tsukasa: As Wonderlands×Showtime, we will make the most of the run we earned at the Center Theatre!
+Kanade: I...
+Kanade: I have someone I promised to save. I want to keep that promise.
+Kohane: What's this?
+Miku: SEKAI is responding to your feelings.
+Miku: Now, let's sing! Let all of your feelings fill the air!
+Miku: Here we go! "Pentatonic"!
+
+
+3 [MUSIC] 585: Pentatonic
+
+4 [mc_timeline] mc_5th_anniversary_3
+
+(Enter: Miku)
+(Enter: Kanade)
+(Enter: Minori)
+(Enter: Tsukasa)
+(Enter: Kohane)
+(Enter: Ichika)
+Kanade: I feel like that song gave me some courage.
+Tsukasa: Indeed! I felt a reassurance that I'm on the right path forward!
+Ichika: I think I felt not just the emotions of everyone here, but my bandmates', too...
+Kohane: Oh, same here! It was like An, Shinonome and Aoyagi were singing alongside me.
+Minori: I felt the same way!
+Miku: I'm so glad.
+Miku: Everyone, you may face difficulties ahead, but when you sing this song, I hope you'll remember.
+Miku: You're not alone. You have friends.
+Kanade: Friends...
+Miku: Yes. That includes me, and your SEKAI companions too.
+Miku: Whatever happens, we'll give you the strength to get back on your feet.
+Miku: So I hope you'll continue to walk the paths you believe in, with your friends by your side.
+Ichika: We will! Thank you, Miku...!
+Miku: Of course! Let's sing together again soon!
+Minori: See you again, Miku!
+(Exit: Kanade)
+(Exit: Minori)
+(Exit: Tsukasa)
+(Exit: Kohane)
+(Exit: Ichika)
+Miku: They all had such bright looks in their eyes. I have a feeling they'll keep capturing my full attention.
+Miku: Everyone out there, thank you as always. For coming to SEKAI, and for watching over them with me.
+Miku: We still don't know what roads they'll take, or how they'll travel them...
+Miku: But I hope you'll be there for their journeys.
+Miku: For now, bye bye!

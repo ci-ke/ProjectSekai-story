@@ -4,12 +4,12 @@
 
 2 [mc_timeline] mc_ev_shuffle_60_1
 
-(Enter: こはね)
 (Enter: リン)
-(Enter: 杏)
+(Enter: こはね)
+(Enter: 彰人)
 (Enter: 冬弥)
 (Enter: MEIKO)
-(Enter: 彰人)
+(Enter: 杏)
 リン: みんな、よかったよー！
 冬弥: リン。聴いてくれていたのか
 リン: うん！　メイコと一緒に練習するって言ってたから、 様子を見にきたんだ！
@@ -48,10 +48,10 @@ MEIKO: あらあら
 
 4 [mc_timeline] mc_ev_shuffle_60_2
 
-(Enter: みのり)
-(Enter: 遥)
-(Enter: 雫)
 (Enter: ミク-MMJ)
+(Enter: 遥)
+(Enter: みのり)
+(Enter: 雫)
 (Enter: 愛莉)
 みのり: みんな、聴きに来てくれてありがと～！
 ミク (MMJ): 今年も、みんなが楽しい気持ちで過ごせますように！

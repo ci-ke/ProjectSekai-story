@@ -4,8 +4,8 @@
 
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
 (Enter: Miku-Ln)
 Miku (Ln): Sorry for the wait, everyone.
 Miku (Ln): I just heard from Rin, and it sounds like prep for the rooftop will take a bit longer. Are you alright to wait?
@@ -57,11 +57,11 @@ Shiho: Okay, here we go. Integral!
 
 3 [mc_timeline] mc_bd_2025shiho_2
 
-(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
 Shiho: Thanks for listening, everyone. You getting so pumped up made it more fun for us, too.
 Saki: Now, with our practice out of the way, let's kick off our next funtime—
 Shiho: No, no more games.
@@ -70,8 +70,8 @@ Saki: This time, all of us here will wish you a very happy birthday, all togethe
 Shiho: Huh?
 Honami: What a good idea. Can we count on you to lead us with the call-and-response, Saki?
 Saki: You know it♪ Okay! Is everybody ready? One, two! Happy birthday, Shiho!
-Miku (Ln): Happy birthday!
 Ichika: Happy birthday!
+Miku (Ln): Happy birthday!
 Honami: Happy birthday!
 Shiho: Thanks, everyone. Though, you're coming on pretty strong.
 Shiho: Hey, everyone. How was our performance?
@@ -80,8 +80,8 @@ Ichika: That was such a cool thing to say, Shiho.
 Shiho: Okay, enough praising, seriously. Isn't the rooftop ready by now?
 Miku (Ln): Probably, yeah. Let's go see how things look up there.
 Saki: Okay! Leo/need, out!
-(Exit: Miku-Ln)
 (Exit: Ichika)
 (Exit: Saki)
-(Exit: Shiho)
 (Exit: Honami)
+(Exit: Shiho)
+(Exit: Miku-Ln)

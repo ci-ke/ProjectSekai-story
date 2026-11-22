@@ -5,10 +5,10 @@
 (Enter: 司)
 司: ふむ……
 司: ライバル……か
-(Enter: MEIKO)
 (Enter: えむ)
 (Enter: 寧々)
 (Enter: 類)
+(Enter: MEIKO)
 (Enter: ミク-WxS)
 司: ライバル！！
 司: いや、ライバル……
@@ -57,11 +57,11 @@ MEIKO: あ、なら景気づけに一発ショーをやるのはどうかしら�
 
 3 [mc_timeline] mc_ev_wonder_22_2
 
-(Enter: えむ)
 (Enter: 司)
-(Enter: ミク-WxS)
+(Enter: えむ)
 (Enter: 寧々)
 (Enter: 類)
+(Enter: ミク-WxS)
 (Enter: MEIKO)
 司: ハッハッハ！ どうだ、オレの輝きは！
 ミク (WxS): すごいすごい！ すっごくピカピカだったよ～！　みんなはどうだった？

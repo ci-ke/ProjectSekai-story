@@ -1,0 +1,70 @@
+430 Blending Together, Just Like Before After Show (event_183)
+
+1 [mc_timeline] mc_ev_idol_23_1
+
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Haruka)
+(Enter: Shizuku)
+(Enter: Len)
+(Enter: MEIKO)
+Len: Wow. The Lumina Time from the other day's really a hot topic, huh.
+Shizuku: Yes, the clips of the show we did with Cheerful * Days has gotten a lot of views.
+MEIKO: It was just such a wonderful show. I can see why people would share and watch it repeatedly.
+Haruka: Apparently, the clips of us practicing have also been going viral.
+Minori: Yeah! The ones of Shizuku giving advice to Cheerful * Days have gotten so much attention!
+Minori: One person said, "This bond between rivals is so cool!" And, "Reminds me of the old days!" They're so passionate!
+Airi: You're getting pretty passionate yourself.
+Haruka: I understand how she feels. I'm happy for her as a member of MORE MORE JUMP!, of course.
+Haruka: But I'm also glad your feelings got through to Higure and the others too.
+Shizuku: Oh...
+MEIKO: You said that you wanted to put on the best performance and give back to them for helping you.
+Shizuku: Yes. I don't know how much I was able to give back, but...
+Airi: I think you gave back plenty.
+Shizuku: Huh?
+Airi: I mean, after that practice, you could tell that they were feeling more motivated.
+Haruka: I agree. You, Higure and the others opening up to each other made that performance possible.
+Minori: Yeah! Thanks again for doing that, Shizuku!
+Shizuku: Everyone...
+Shizuku: I just did what I wanted... But if I was able to help everyone in the end, then I'm glad.
+Shizuku: So, everyone... Why don't we all sing something?
+Shizuku: I'd like to save and cherish what I'm feeling at this moment.
+Airi: Of course. If that's what you wanna do, then we'll happily join you!
+Len: Me too. Let me sing with you girls.
+MEIKO: Then, I think I'll watch from my VIP seat.
+Shizuku: Okay. Please feel free to listen if you like, everyone.
+Shizuku: We'll be singing... "We are".
+(Exit: MEIKO)
+
+
+2 [MUSIC] 287: We are
+
+3 [mc_timeline] mc_ev_idol_23_2
+
+(Enter: Airi)
+(Enter: Len)
+(Enter: Shizuku)
+(Enter: Haruka)
+(Enter: Minori)
+(Enter: MEIKO)
+Shizuku: Thank you for listening!
+Minori: Thanks, everyone!
+MEIKO: Wonderful performance! You felt so kind and strong as you sang, Shizuku.
+MEIKO: Right, everyone?
+Shizuku: Thank you... I really appreciate you saying that.
+Shizuku: This performance is an expression of my gratitude for all of you, and my determination.
+Minori: Your determination?
+Shizuku: Yes. I want to grow even more.
+Shizuku: And...I want to always be able to hold my head high and call myself Arisa's rival.
+Shizuku: I'll hold these desires in my heart, and let them drive me to keep improving.
+MEIKO: Shizuku... You really are incredible.
+Airi: Yeah. But I'm not about to let you hog all the glory!
+Minori: Me neither...! I'm gonna keep doing more and more for us!
+Len: We'll provide as much support as we can.
+Haruka: Thanks. We'll be counting on you all.
+Shizuku: Anyway, thank you all for coming today.
+Shizuku: We promise to shine even brighter next time.
+Shizuku: So, if you like, please visit again.
+Minori: Let's meet again!
+Airi: Bye bye! See you!
+Haruka: Bye bye! See you!

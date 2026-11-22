@@ -2,15 +2,15 @@
 
 1 [mc_timeline] mc_ev_wonder_19_1
 
-(Enter: Len)
 (Enter: Nene)
+(Enter: Len)
 Nene: Hmm, which would be best...
 Len: I wonder... If it was me... Hmm...
 (Enter: Emu)
 Emu: Ah! Nene! Len!
-(Enter: KAITO)
 (Enter: Tsukasa)
 (Enter: Rui)
+(Enter: KAITO)
 Tsukasa: Apologies for the wait, Nene. Our lessons ran a little long today!
 Nene: No, that's okay. We were just talking.
 KAITO: What about? It seemed like you were thinking about something.
@@ -39,8 +39,8 @@ Nene: Everyone, would it be okay to sing a song? I want to really belt it out.
 Len: Hooray! We get to hear the new and improved Nene!
 Rui: Hehe. In that case, how could I refuse?
 Tsukasa: Right! Emu, KAITO, are you ready?
-KAITO: Yeah! Of course!
 Emu: Yeah! Of course!
+KAITO: Yeah! Of course!
 Nene: Then, here we go.
 Nene: Coral!
 (Exit: Len)
@@ -50,11 +50,11 @@ Nene: Coral!
 
 3 [mc_timeline] mc_ev_wonder_19_2
 
-(Enter: KAITO)
-(Enter: Emu)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: KAITO)
 (Enter: Len)
 Len: Wow...! Nene, your singing was so beautiful!
 Len: Clear and sparkling like glass, but so powerful! You were so cool!

@@ -4,11 +4,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_53_1
 
-(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
 Saki: Thanks for listening, everyone!
 Honami: You were in great form today, Saki.
 Ichika: Yeah... I had the same thought.
@@ -42,11 +42,11 @@ Ichika: Yeah, maybe you're right.
 
 4 [mc_timeline] mc_ev_shuffle_53_2
 
-(Enter: Mafuyu)
-(Enter: Miku-N25)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku-N25)
 Kanade: Thank you for listening, everyone.
 Kanade: It's been cold lately... I hope you all stay warm, and take care not to come down with anything.
 Ena: It feels like you're really conscious of the weather.

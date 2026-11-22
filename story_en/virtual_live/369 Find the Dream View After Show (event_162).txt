@@ -4,8 +4,8 @@
 
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
 Saki: —I only noticed watching the video, but the people in the back took longer to get into the music than everyone closer up.
 Ichika: You're right... We should think about how to appeal more to the seats in the back next time.
 Shiho: Yeah. Another thing I noticed—
@@ -45,12 +45,12 @@ Shiho: Integral.
 
 3 [mc_timeline] mc_ev_band_20_2
 
-(Enter: Miku-Ln)
-(Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
+(Enter: Rin)
 Ichika: Thank you all for listening!
 Rin: That was amazing! I got so pumped!
 Rin: Didn't everyone?!

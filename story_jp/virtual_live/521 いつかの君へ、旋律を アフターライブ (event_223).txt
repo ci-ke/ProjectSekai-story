@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_night_27_1
 
-(Enter: ルカ)
 (Enter: 奏)
+(Enter: ルカ)
 ルカ: ……そう、答えは出たのね
 奏: うん……
 奏: ルカ達のおかげだよ
@@ -44,10 +44,10 @@
 
 3 [mc_timeline] mc_ev_night_27_2
 
-(Enter: まふゆ)
-(Enter: 奏)
-(Enter: 瑞希)
 (Enter: 絵名)
+(Enter: 瑞希)
+(Enter: 奏)
+(Enter: まふゆ)
 (Enter: ルカ)
 ルカ: ……なるほどね
 ルカ: あなたの想い、伝わったわ

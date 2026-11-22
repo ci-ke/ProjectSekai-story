@@ -4,11 +4,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_63_1
 
-(Enter: KAITO)
 (Enter: 雫)
-(Enter: 遥)
 (Enter: 愛莉)
+(Enter: KAITO)
 (Enter: みのり)
+(Enter: 遥)
 愛莉: ——みんな、ありがとう！！
 愛莉: ふふっ。前は観客側だったけど、 やっぱりステージで一緒にやれると嬉しいわね！
 KAITO: それは僕達もだよ！
@@ -35,11 +35,11 @@ KAITO: ——すごくいいよ！ 僕も是非見てみたいな！
 
 3 [mc_timeline] mc_ev_shuffle_63_2
 
-(Enter: まふゆ)
 (Enter: 奏)
+(Enter: まふゆ)
 (Enter: 絵名)
-(Enter: ルカ)
 (Enter: 瑞希)
+(Enter: ルカ)
 ルカ: へえ、小鳥をね……
 絵名: 私達が知らない内にそんなことがあったんだ
 瑞希: あはは、ふたりには話すタイミングなかったからな～
@@ -71,11 +71,11 @@ KAITO: ——すごくいいよ！ 僕も是非見てみたいな！
 
 5 [mc_timeline] mc_ev_shuffle_63_3
 
-(Enter: 絵名)
 (Enter: 奏)
+(Enter: まふゆ)
+(Enter: 絵名)
 (Enter: 瑞希)
 (Enter: ルカ)
-(Enter: まふゆ)
 瑞希: ——聴いてくれて、ありがとう！
 瑞希: ……空の上でも元気でね。ムーちゃん
 瑞希: ——あ～！！

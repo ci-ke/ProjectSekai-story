@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_bd_2025miku_1
 
-(Enter: Kohane)
-(Enter: Miku-VBS)
 (Enter: Toya)
 (Enter: Akito)
+(Enter: Miku-VBS)
+(Enter: Kohane)
 (Enter: An)
 Miku (VBS): Are we all ready?
 Akito: Yeah. Let's blow the roof off this place.
@@ -22,10 +22,10 @@ Miku (VBS): That's what I like to hear. Alright, here we go! ULTRA C!
 
 3 [mc_timeline] mc_bd_2025miku_2
 
+(Enter: Akito)
 (Enter: Kohane)
 (Enter: Miku-VBS)
 (Enter: Toya)
-(Enter: Akito)
 (Enter: An)
 Miku (VBS): Phew. Thanks for listening, everyone.
 An: You're on fire today, Miku! That was absolutely electric!
@@ -55,12 +55,12 @@ Miku (VBS): But we're not done yet. Get ready to scream even louder.
 
 4 [mc_timeline] mc_bd_2025miku_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: Miku)
+(Enter: Len)
 (Enter: Rin)
 (Enter: Luka)
-(Enter: Len)
+(Enter: Miku)
+(Enter: KAITO)
+(Enter: MEIKO)
 Rin: What a great song! I got so hyped, I accidentally ran right into Len!
 Luka: Listening to them perform even got me fired up.
 KAITO: I know what you mean. They're so powerful, it makes you want to work hard yourself.
@@ -74,12 +74,12 @@ Miku: We've got a song that will help you keep striving forward, too! hot wind!
 
 6 [mc_timeline] mc_bd_2025miku_4
 
-(Enter: KAITO)
 (Enter: MEIKO)
-(Enter: Miku)
-(Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Miku)
+(Enter: Luka)
+(Enter: KAITO)
+(Enter: Rin)
 Miku: Thank you all for listening, everyone! Did our feelings come through to you?
 Rin: Ooh! It sounds like they did!
 MEIKO: Isn't that great, Miku?

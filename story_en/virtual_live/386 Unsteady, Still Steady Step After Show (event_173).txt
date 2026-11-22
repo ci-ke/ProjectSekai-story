@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_band_21_1
 
-(Enter: Rin)
 (Enter: Honami)
+(Enter: Rin)
 Rin: I see. So in the end, you get to write a song for your show and one for the Fan Festival too!
 Rin: You lucked out! Good for you!
 Honami: Yes... Good for us.
@@ -14,8 +14,8 @@ Rin: Oh...
 Honami: I'm sorry. After you and MEIKO gave me that advice, too.
 Honami: I'm not much of a leader, am I?
 Rin: Hona...
-(Enter: Len)
 (Enter: Saki)
+(Enter: Len)
 Len: Oh, Rin, Honami. There you are.
 (Enter: Ichika)
 (Enter: Shiho)
@@ -45,12 +45,12 @@ Honami: STAGE OF SEKAI!
 
 3 [mc_timeline] mc_ev_band_21_2
 
-(Enter: Rin)
-(Enter: Len)
-(Enter: Ichika)
 (Enter: Saki)
 (Enter: Shiho)
+(Enter: Ichika)
 (Enter: Honami)
+(Enter: Len)
+(Enter: Rin)
 Honami: Thank you all for listening.
 Saki: Hehehe. I'm glad everyone had fun!
 Ichika: Just like Shiho said, that was a great warmup.

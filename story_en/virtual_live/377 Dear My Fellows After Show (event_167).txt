@@ -2,12 +2,12 @@
 
 1 [mc_timeline] mc_ev_wonder_wl_02_1
 
-(Enter: KAITO)
 (Enter: Emu)
-(Enter: Miku-WxS)
-(Enter: Tsukasa)
 (Enter: Nene)
+(Enter: Tsukasa)
 (Enter: Rui)
+(Enter: Miku-WxS)
+(Enter: KAITO)
 Tsukasa: Hmm, I understand where you're coming from, Miku...
 Tsukasa: But shouldn't this moment be more dynamic? It's the grand finale, after all.
 Miku (WxS): Dynamic?
@@ -48,12 +48,12 @@ Tsukasa: The World Hasn't Even Started Yet!
 
 3 [mc_timeline] mc_ev_wonder_wl_02_2
 
-(Enter: KAITO)
+(Enter: Rui)
 (Enter: Emu)
 (Enter: Miku-WxS)
-(Enter: Tsukasa)
 (Enter: Nene)
-(Enter: Rui)
+(Enter: Tsukasa)
+(Enter: KAITO)
 Tsukasa: Did you all enjoy the show?!
 Emu: Hehehe, I think they did☆
 KAITO: That performance filled me with so much excitement!

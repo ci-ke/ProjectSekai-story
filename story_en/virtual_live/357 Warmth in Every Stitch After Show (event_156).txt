@@ -4,11 +4,11 @@
 
 2 [mc_timeline] mc_ev_shuffle_54_1
 
-(Enter: Mafuyu)
-(Enter: Miku-N25)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku-N25)
 Miku (N25): Thank you all for singing with me.
 Mizuki: Don't mention it! I had fun singing my heart out, too.
 Kanade: It's rare for you to be the one to invite us to sing together, Miku.
@@ -46,10 +46,10 @@ Mafuyu: Okay.
 4 [mc_timeline] mc_ev_shuffle_54_2
 
 (Enter: Minori)
-(Enter: Len)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Len)
 Minori: Thanks for listening, you guys!
 Haruka: Thank you!
 Len: Did you like our Valentine's Day present to you all?

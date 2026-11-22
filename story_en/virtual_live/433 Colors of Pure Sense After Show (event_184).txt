@@ -1,0 +1,89 @@
+433 Colors of Pure Sense After Show (event_184)
+
+1 [mc_timeline] mc_ev_night_23_1
+
+(Enter: KAITO)
+(Enter: Ena)
+Ena: Hi, KAITO!
+KAITO: I didn't realize you were here.
+Ena: Yeah, we're supposed to listen to our new demo today.
+Ena: But I came a little early, so the others aren't here yet.
+KAITO: Okay. Anyway, bye.
+Ena: Hey, wait! You're here, so why don't you stay and listen to it?
+KAITO: That's unnecessary.
+Ena: I figured you'd say that, but... The demo this time around is apparently based off the painting I made during art class the other day.
+Ena: You helped me a lot that time, so I want you to listen to it.
+KAITO: The one you made during art class...?
+KAITO: Oh, the one with that hand?
+Ena: Wait, how did you know? Did I show it to you and the others...?
+KAITO: No, but...
+Mizuki: Hey, Ena!
+(Enter: Mizuki)
+(Enter: Mafuyu)
+(Enter: Kanade)
+(Enter: Miku-N25)
+Mafuyu: You're here early...
+Mizuki: With KAITO, of all people! Talk about a rare encounter!
+Kanade: Are you also here to listen to the demo?
+KAITO: No, I was—
+Ena: Um, Miku? Have I shown you and the others my hand painting yet?
+Kanade: Hand...? Oh, the one you said you made during art class?
+Ena: Yeah. KAITO and I were just talking about it, and he already seemed to know.
+Miku (N25): No, you didn't show us...
+Miku (N25): We just saw it.
+Ena: Huh? What do you mean...?
+Miku (N25): We became concerned because you seemed stuck. So, we went to see how you were doing...
+Ena: Wait, KAITO, does that mean you were also worried about me...?
+KAITO: Interpret it how you will...
+Mizuki: Really?! That's so nice of you♪
+Miku (N25): Yes, that was nice of you.
+KAITO: Hey.
+Ena: Hehe. I really appreciate it...
+Kanade: But I do like that painting quite a lot...
+Kanade: I could tell that you had a lot of fun working on it.
+Mizuki: Yeah! I also really love it!
+Ena: Huh? You do?
+Mafuyu: I also thought it was good...
+Ena: Mafuyu...
+Ena: Great, thanks.
+Ena: Oh, why don't we sing for a bit? I want to now, after talking about what happened.
+Mizuki: Yeah, I'm in!
+Kanade: Yes, I'm curious to hear how you'd sound right now, Ena.
+Mafuyu: Me too...
+Ena: How about...
+KAITO: I'll pass. Sing with them for me, Miku.
+Miku (N25): Wait, but...
+KAITO: I'll listen to what you're all feeling right now. That should be enough, right?
+Mafuyu: You're going to listen...?
+Ena: Hehe. Maybe you really are a nice person deep down.
+KAITO: Say what you want.
+Ena: Then, listen closely. This is how I feel right now.
+Ena: Here we go. "The name of painting".
+(Exit: KAITO)
+
+
+2 [MUSIC] 597: The name of painting
+
+3 [mc_timeline] mc_ev_night_23_2
+
+(Enter: KAITO)
+(Enter: Kanade)
+(Enter: Mizuki)
+(Enter: Ena)
+(Enter: Miku-N25)
+(Enter: Mafuyu)
+Ena: Okay, I feel much better now...
+Ena: In the end, I love art. I want to keep drawing for as long as I possibly can.
+Ena: But I also realized something else...
+Kanade: Something else?
+Ena: Yeah. I also really love N25...
+Ena: Trying for Tokyo Art University means having less time for this group... But I want to keep drawing for N25.
+Ena: So, I hope you all understand...
+Mizuki: Of course we understand. Right, you guys?
+Mafuyu: Yeah.
+Kanade: I'd also be very lost without you, Ena.
+Ena: Everyone...
+Ena: Okay, thanks!
+Kanade: Now, why don't we listen to the demo? Will you two join us, Miku, KAITO?
+Miku (N25): Yeah.
+KAITO: Fine...

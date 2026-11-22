@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_shuffle_56_1
 
-(Enter: MEIKO)
 (Enter: Emu)
+(Enter: MEIKO)
 Emu: Ooh, how about this? We can open up the belly...
 MEIKO: That's a good idea! Then all the insides can come out...
 (Enter: Nene)
@@ -45,12 +45,12 @@ Emu: Here we go! Love Ka?!
 
 4 [mc_timeline] mc_ev_shuffle_56_2
 
-(Enter: Miku-Ln)
-(Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
+(Enter: Rin)
 Ichika: Thank you for listening!
 Saki: Did you enjoy our show? It's our way of saying thank you for always supporting us!
 Shiho: Sounds like a good response to me.

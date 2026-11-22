@@ -3,8 +3,8 @@
 1 [mc_timeline] mc_ev_idol_22_1
 
 (Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Minori)
+(Enter: MEIKO)
 Minori: And to finish, you give your best 10-Billion Heart♡
 KAITO: Of course! What a catchy way to close out after the last chorus!
 MEIKO: That looks like it'd be tough if your core isn't trained properly. I'm getting fired up...!
@@ -56,11 +56,11 @@ Minori: Give this a listen— DREAM PLACE!
 3 [mc_timeline] mc_ev_idol_22_2
 
 (Enter: KAITO)
-(Enter: MEIKO)
-(Enter: Minori)
 (Enter: Airi)
 (Enter: Haruka)
+(Enter: Minori)
 (Enter: Shizuku)
+(Enter: MEIKO)
 Minori: You guys! Thank you!!
 Minori: Competing in the Lumina Grand Prix makes me really nervous...
 Minori: But I'm gonna remember everyone who cheers for me and deliver hope my way!

@@ -12,9 +12,9 @@ Tsukasa: There's nothing to do but exercise!
 Tsukasa: I, future world-class star Tsukasa Tenma, shall never waste a second in idleness!
 Tsukasa: Yesterday was arm and chest day, so today I'll start with squats! I'll aim for...
 (Enter: Emu)
-(Enter: Luka)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Luka)
 Tsukasa: A thousand before everyone arrives!
 Emu: Tsuuukaaasaaa!
 Tsukasa: Waaagh?!
@@ -51,11 +51,11 @@ Tsukasa: Here we go! SEIBAIITAAAAASU!
 
 3 [mc_timeline] mc_bd_2025tsukasa_2
 
-(Enter: Emu)
-(Enter: Luka)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Luka)
 Tsukasa: Thank you! Thank you all!
 Luka: It looks like everyone had a lot of fun.
 Emu: Yeah! I'm glad.

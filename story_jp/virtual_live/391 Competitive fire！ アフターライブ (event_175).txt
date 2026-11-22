@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_street_22_1
 
-(Enter: 冬弥)
-(Enter: 彰人)
-(Enter: ルカ)
 (Enter: こはね)
+(Enter: 彰人)
+(Enter: 冬弥)
+(Enter: ルカ)
 (Enter: 杏)
 杏: はぁ、はぁ……みんな、お待たせ！
 ルカ: お。杏ちゃんも来たね
@@ -49,10 +49,10 @@
 
 3 [mc_timeline] mc_ev_street_22_2
 
-(Enter: 冬弥)
 (Enter: こはね)
 (Enter: 杏)
 (Enter: 彰人)
+(Enter: 冬弥)
 (Enter: ルカ)
 杏: あー、楽しかった！
 ルカ: ほんとだね！　このまま２曲目もいっちゃう？

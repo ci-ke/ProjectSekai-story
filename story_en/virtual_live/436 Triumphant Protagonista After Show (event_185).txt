@@ -1,0 +1,83 @@
+436 Triumphant Protagonista After Show (event_185)
+
+1 [mc_timeline] mc_ev_wonder_23_1
+
+(Enter: Nene)
+Nene: "Wait!!!"
+Nene: "Just give me some time. Only a little time!"
+Nene: "Guardian god, I know you don't want to leave. I wouldn't want to lose my home either."
+Nene: "But..."
+Nene: "I also don't want to see you hurt everyone."
+Nene: "You were gentle and kind to me when I was all alone. I don't want you to lose that kindness."
+Nene: "We played so much this summer vacation. And I want to keep playing with you, too."
+Nene: "So I'll build you a new home. I talked to the priest, and he said he'd introduce me to a woodworker. I don't know how long it'll take...but I'll build it!"
+Nene: "So...so, please! Stay with me!"
+Nene: Okay...
+Rin: Nene!
+Emu: Nene!
+(Enter: Rin)
+(Enter: Emu)
+(Enter: Tsukasa)
+(Enter: Rui)
+Nene: Oh, everyone!
+Rin: What were you just reciting? You looked so cool!
+Tsukasa: You can say that again! I found myself completely absorbed.
+Nene: Hehe, thanks. That was a play I was in with my old theatre troupe.
+Rin: Huh? Wait, could it be...
+Nene: That's right. It's the show I ruined.
+Rui: If you were inspired to perform it... Have you felt a change of some kind?
+Nene: Yeah.
+Nene: It still hurts thinking back on that performance...
+Nene: But I've begun to think that maybe that experience made me a stronger person in the end.
+Nene: So I wanted to do it again, properly this time.
+Emu: Nene...
+Nene: Though, that experience also made me a real pain for you all to deal with...
+Rui: Hehe. Rather standoffish of you, after all the time we've spent together.
+Rui: All of us cause trouble for the others, and yet we move forward together all the same.
+Tsukasa: Exactly! We lean upon one another, and help each other in times of need!
+Tsukasa: No star shines perfectly on their own from the very beginning. Am I right?
+Nene: Hehe. You're right.
+Rin: Hey, did I end up helping you too?
+Nene: Yes, of course.
+Nene: I do those wiggly stretches you taught me every day. They've really improved my sleep quality.
+Rin: Really? Hehehe, yay!
+Nene: Hehe. Hey, everyone... If it's alright with you, can we sing something?
+Tsukasa: Hm? Why do you ask?
+Nene: Thinking about the past has refreshed me. I'd like to just sing my heart out.
+Nene: How about you, Rin? Will you join us?
+Rin: Yeah! I wanna sing my heart out too☆
+Nene: Hehe. Then let's do it!
+Nene: "Go forth"!
+
+
+2 [MUSIC] 600: Go forth
+
+3 [mc_timeline] mc_ev_wonder_23_2
+
+(Enter: Tsukasa)
+(Enter: Emu)
+(Enter: Nene)
+(Enter: Rui)
+(Enter: Rin)
+Nene: Thank you, you guys!
+Rin: That was amazing! You were like a completely different person! You were blinding!
+Nene: Huh? That's a bit much... You're going to make me blush.
+Tsukasa: I don't think it's too much at all, Nene.
+Nene: Huh?
+Tsukasa: I felt it now, and during our performance. You have certainly grown!
+Tsukasa: As a fellow actor, I can't let myself be outdone. You've lit a fire under me!
+Nene: Tsukasa...
+Rui: Yes...
+Rui: As a director, I'm proud to be able to say that I had the actress, Nene Kusanagi, as a star.
+Nene: Rui...
+Nene: Okay, you're going to make me tear up, so enough of that! Let's get ready for today's basic training.
+Rin: Ooh! Then, can I come up with the prompts for today's improv practice?
+Rui: But of course. We'll be expecting something very inspiring♪
+Rin: You got it!
+Nene: *Sigh* I'll need to be careful not to get upstaged by Emu's weird characters or Rin's weird dancing.
+Nene: In fact, I won't let anyone upstage me!
+(Exit: Rin)
+(Exit: Emu)
+(Exit: Tsukasa)
+(Exit: Rui)
+(Exit: Nene)

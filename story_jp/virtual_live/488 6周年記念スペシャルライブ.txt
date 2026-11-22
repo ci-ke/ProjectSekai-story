@@ -2,9 +2,9 @@
 
 1 [mc_timeline] mc_6th_anniversary_1
 
+(Enter: MEIKO)
 (Enter: リン)
 (Enter: レン)
-(Enter: MEIKO)
 (Enter: こはね)
 (Enter: みのり)
 こはね: あ、メイコさん、リンちゃん、レンくん！ よかった、見つかって！
@@ -21,9 +21,9 @@ MEIKO: もしかして、私達を探していたの？
 2 [mc_timeline] mc_6th_anniversary_2
 
 (Enter: 司)
-(Enter: KAITO)
 (Enter: 奏)
 (Enter: ルカ)
+(Enter: KAITO)
 KAITO: ……へえ、『エメラルド』か
 奏: 宝石の中でも、特に内側に傷とか異物が多くて…… だけど、それが個性になってていいんだって
 司: 傷すらも個性にするその姿—— 輝ける未来のスターとして、オレも見習いたいものだ！
@@ -36,8 +36,8 @@ KAITO: もう十分、輝けているように思うけれど……。 向上心
 3 [mc_timeline] mc_6th_anniversary_3
 
 (Enter: 一歌)
-(Enter: 奏)
 (Enter: 司)
+(Enter: 奏)
 (Enter: みのり)
 (Enter: こはね)
 みのり: めーちゃん達に、歌のこと伝えてきたよ！
@@ -69,12 +69,12 @@ KAITO: もう十分、輝けているように思うけれど……。 向上心
 
 5 [mc_timeline] mc_6th_anniversary_4
 
-(Enter: こはね)
-(Enter: ミク)
 (Enter: 司)
 (Enter: 奏)
-(Enter: みのり)
+(Enter: ミク)
 (Enter: 一歌)
+(Enter: こはね)
+(Enter: みのり)
 みのり: ——みんな、聴いてくれてありがとう！
 奏: ……ルカ達にも届いたかな
 こはね: 届いてるといいですね

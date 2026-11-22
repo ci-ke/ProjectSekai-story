@@ -2,9 +2,9 @@
 
 1 [mc_timeline] mc_ev_night_20_1
 
+(Enter: Kanade)
 (Enter: Mafuyu)
 (Enter: Miku-N25)
-(Enter: Kanade)
 (Enter: Mizuki)
 (Enter: Ena)
 (Enter: Rin)
@@ -50,12 +50,12 @@ Kanade: Twilight Light.
 
 3 [mc_timeline] mc_ev_night_20_2
 
-(Enter: Mafuyu)
-(Enter: Miku-N25)
 (Enter: Rin)
-(Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Miku-N25)
+(Enter: Mizuki)
+(Enter: Kanade)
 Kanade: How was that, Rin?
 Rin: Mm. It felt very emotional. It was good, I think.
 Miku (N25): I felt it too, singing with all of you. Your drive to move forward.

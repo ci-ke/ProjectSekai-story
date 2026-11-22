@@ -4,8 +4,8 @@
 
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
 Saki: Hey, everyone! Welcome to my birthday party!
 Saki: I've got a bunch of stuff planned to thank you all for being here!
 Saki: There's even a special present, so stay tuned!
@@ -60,18 +60,18 @@ Saki: Here we go. Time Machine!
 
 3 [mc_timeline] mc_bd_2025saki_2
 
-(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
 Saki: Thanks for listening, everyone! Did you all have fun?
 Saki: Hehehe. Good to hear!
 Ichika: Now, let's all give Saki a big cheer. One, two, three!
 Ichika: Happy birthday, Saki!
-Miku (Ln): Happy birthday, Saki!
-Shiho: Happy birthday, Saki!
 Honami: Happy birthday, Saki!
+Shiho: Happy birthday, Saki!
+Miku (Ln): Happy birthday, Saki!
 Saki: Wow, thank you!
 Saki: You know, the reason I can have fun birthdays like this is thanks my wonderful friends by my side...
 Saki: And that includes every one of you, too! Thank you all so much!

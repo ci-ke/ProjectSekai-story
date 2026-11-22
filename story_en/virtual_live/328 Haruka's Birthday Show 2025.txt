@@ -3,10 +3,10 @@
 1 [mc_timeline] mc_bd_2024haruka_1
 
 (Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Miku-MMJ)
 Haruka: Thank you for coming today, everyone!
 Miku (MMJ): Hehehe. Everyone's so excited!
 Minori: Yeah, I know exactly how you all feel! When I think of how today is the day Haruka was born, I...! *Squeal*
@@ -61,10 +61,10 @@ Haruka: Here we go! MOTTO!!!
 3 [mc_timeline] mc_bd_2024haruka_2
 
 (Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Miku-MMJ)
 Haruka: Thank you, everyone! I can hear you loud and clear!
 Haruka: Hehe...
 Haruka: Hearing all of you cheer like this gives me so much strength.
@@ -84,5 +84,5 @@ Miku (MMJ): Bye bye!
 (Exit: Minori)
 (Exit: Haruka)
 (Exit: Shizuku)
-(Exit: Miku-MMJ)
 (Exit: Airi)
+(Exit: Miku-MMJ)

@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_wonder_20_1
 
-(Enter: KAITO)
-(Enter: Emu)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: KAITO)
 Emu: This concludes our presentation. Thank you for your time.
 Rui: That was fantastic, Emu.
 Rui: Not just the content of your speech, but your pacing, emphasis, gestures... It was all impeccable.
@@ -41,11 +41,11 @@ Emu: All-Save Challenge!
 
 3 [mc_timeline] mc_ev_wonder_20_2
 
-(Enter: KAITO)
-(Enter: Emu)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: KAITO)
 Emu: Thanks, everybody!
 Rui: I couldn't be happier that everyone enjoyed it.
 Emu: I had a whole lot of fun too!
@@ -64,8 +64,8 @@ Tsukasa: Emu! Give us a rousing call!
 Emu: Sir, yes, sir!
 Emu: Let's keep doing our super very extra best!
 Emu: Won-Won...!!!
-KAITO: Wonderhoy!!!
-Emu: Wonderhoy!!!
 Tsukasa: Wonderhoy!!!
+Emu: Wonderhoy!!!
 Nene: Wonderhoy!!!
 Rui: Wonderhoy!!!
+KAITO: Wonderhoy!!!

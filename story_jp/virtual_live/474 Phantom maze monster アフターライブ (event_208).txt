@@ -53,12 +53,12 @@ KAITO: うーん。わかるような、わからないような……
 
 3 [mc_timeline] mc_ev_wonder_26_2
 
+(Enter: レン)
 (Enter: KAITO)
 (Enter: えむ)
-(Enter: 寧々)
 (Enter: 司)
+(Enter: 寧々)
 (Enter: 類)
-(Enter: レン)
 司: うおお～見よ！！　このスターの輝きを～！！
 レン: ……司くん、すっかりいつもどおりだね。 よかった
 寧々: うん。 やっぱり司はああじゃないとね

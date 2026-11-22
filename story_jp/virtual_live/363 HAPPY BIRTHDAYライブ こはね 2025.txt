@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_bd_2025kohane_1
 
+(Enter: こはね)
 (Enter: 杏)
 (Enter: 彰人)
 (Enter: 冬弥)
-(Enter: こはね)
 (Enter: ミク-VBS)
 こはね: あ……みんな、こんにちは
 冬弥: みんな、来てくれてありがとう
@@ -46,10 +46,10 @@
 
 3 [mc_timeline] mc_bd_2025kohane_2
 
-(Enter: 杏)
-(Enter: 冬弥)
 (Enter: こはね)
+(Enter: 杏)
 (Enter: 彰人)
+(Enter: 冬弥)
 (Enter: ミク-VBS)
 こはね: 聴いてくれてありがとう！
 こはね: みんな……どうだったかな？

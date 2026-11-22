@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_bd_2025airi_1
 
-(Enter: Minori)
 (Enter: Rin)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Minori)
 Airi: Thanks for coming today, everyone!
 Shizuku: You must all be here because you want to celebrate Airi's birthday with her.
 Airi: Hehe, thank you! That makes me really happy!
@@ -14,8 +14,8 @@ Haruka: Why don't we all wish Airi a happy birthday?
 Minori: Yeah! Here we go!
 Minori: Happy birthday, Airi!
 Haruka: Happy birthday!
-Rin: Happy birthday!
 Shizuku: Happy birthday!
+Rin: Happy birthday!
 Airi: Thank you so much, everyone!
 Airi: As thanks, today's fan meeting is gonna be super special, so make sure you enjoy!
 Rin: It's just about time for our fun segment♪ "Special Interview! All About Airi♪"
@@ -67,11 +67,11 @@ Airi: Ready, everyone? KILLER!
 
 3 [mc_timeline] mc_bd_2025airi_2
 
-(Enter: Minori)
 (Enter: Rin)
-(Enter: Airi)
-(Enter: Haruka)
 (Enter: Shizuku)
+(Enter: Airi)
+(Enter: Minori)
+(Enter: Haruka)
 Airi: Thanks for getting so excited, everyone!
 Haruka: We can all tell how much you want to celebrate Airi's birthday.
 Airi: Yes! I'm really touched.

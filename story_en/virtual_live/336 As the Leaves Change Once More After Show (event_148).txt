@@ -5,10 +5,10 @@
 2 [mc_timeline] mc_ev_shuffle_50_1
 
 (Enter: Minori)
-(Enter: Len)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Len)
 Shizuku: Thank you for listening, everyone!
 Minori: Thanks!
 Len: That was a great practice session, everyone. You all seemed even more into it than usual.
@@ -44,11 +44,11 @@ Shizuku: Yes! Let's make it a wonderful trip.
 
 4 [mc_timeline] mc_ev_shuffle_50_2
 
-(Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
 Rin: Hm! That was perfect♪
 Honami: Hehe. You were in great form, Rin.
 Rin: Yeah! It must be all the grape power I got from the grape party we had!

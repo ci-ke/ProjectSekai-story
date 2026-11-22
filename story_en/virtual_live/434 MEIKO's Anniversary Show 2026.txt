@@ -1,0 +1,129 @@
+434 MEIKO's Anniversary Show 2026
+
+1 [mc_timeline] mc_bd_2025meiko_1
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: MEIKO)
+Saki: You guys! Today's the anniversary of the senior everyone loves! MEIKO!
+Shiho: We want to give you a big celebration since you're always helping us.
+MEIKO: Haha! Thank you all!
+MEIKO: I'm also happy about getting to play the music that I love with you.
+MEIKO: I'm sure you all already know that I like seeing my music reach people.
+MEIKO: Whenever I'm on stage, I'm hoping that my singing and playing can strike a chord.
+MEIKO: And something tells me that all of you here understand that feeling. Am I right...?
+MEIKO: Hehe. Thank you. You're the reason why I'm able to play music like this.
+MEIKO: But I don't like just being celebrated... So, I'm going to give you all a gift today.
+MEIKO: Are you girls ready?
+Ichika: Yes, we're ready.
+Honami: Let's give them a wonderful show!
+MEIKO: Excellent. Then, to convey my gratitude, enjoy the best performance we can give.
+MEIKO: Good Weather!
+
+
+2 [MUSIC] 323: Good Weather
+
+3 [mc_timeline] mc_bd_2025meiko_2
+
+(Enter: Shiho)
+(Enter: Honami)
+(Enter: MEIKO)
+(Enter: Ichika)
+(Enter: Saki)
+MEIKO: How was that, everyone?
+MEIKO: Thank you! I'm so glad I got to perform for you all on my anniversary.
+Saki: Hehe! You seemed so fired up, MEIKO!
+Shiho: Yeah, you basically carried us.
+Honami: And we had a lot of fun performing.
+MEIKO: I'm glad. Thank you all for planning everything.
+Saki: Alright, everyone! Let's tell MEIKO one more time!
+Ichika: Are you all ready? One, two, three... Happy anniversary, MEIKO!
+Saki: Happy anniversary!
+Honami: Happy anniversary!
+Shiho: Happy anniversary!
+MEIKO: Thank you, everyone!
+MEIKO: I appreciate you all celebrating like this. I feel inspired to keep giving great performances!
+Ichika: You really are cool, MEIKO. You always speak with so much impact.
+Honami: Yes. You're so passionate and dependable, you're like our trusty club captain.
+Shiho: Or in terms of a band, like a seasoned drummer.
+Saki: Yeah, that suits her perfectly! Wait...! Does that mean she's gonna steal Hona's spot?!
+Honami: What?!
+MEIKO: Haha! Then, why don't we have a contest sometime to see who gets to lead Leo/need.
+Honami: A contest...?! O-Okay...! I'll do my best to win!
+Shiho: MEIKO was joking, Honami.
+MEIKO: Anyway, that's enough talk.
+MEIKO: Once again, thank you all very, very much for being here today to celebrate!
+MEIKO: You've made this an unforgettable anniversary.
+MEIKO: I hope you'll all keep watching over Leo/need and me in the future.
+MEIKO: Anyway, until our next show! Bye bye!
+Saki: Bye bye!
+
+
+4 [mc_timeline] mc_bd_2025meiko_3
+
+(Enter: Miku)
+(Enter: Rin)
+MEIKO: This is about where Luka said to wait for her to come get me once the party's ready...
+Rin: MEIKO, over here!
+(Enter: MEIKO)
+MEIKO: Rin? Miku? What are you doing here?
+Miku: We're in charge of entertaining you until the party is ready♪
+Rin: We came up with a ton of fun games for us to play!
+MEIKO: Ah, I see. Alright, what kinds of games?
+Rin: Hehe. First, word-association! We pick a topic, like our outfits, then come up with a word that... Hm?!
+Miku: Wow, when did all these people show up?
+Miku: Are you all here to celebrate MEIKO's anniversary?
+MEIKO: My, thank you! It's so nice to see you all here!
+Rin: Oh, why don't we start the game with "celebrating together"?!
+Miku: Yeah! MEIKO, what does "celebrating together" mean?
+MEIKO: The answer is obvious... Doing a show!
+Rin: Huh?
+MEIKO: You said "together", right? That means we need to blow the roof off! Right, everyone?
+Miku: Hehe. I agree! Then, instead of our game, let's do a show!
+Rin: We'll support you from right here♪
+MEIKO: Thank you. Then, here I go. "My love is Hellfire"!
+
+
+5 [MUSIC] 301: My love is Hellfire
+
+6 [mc_timeline] mc_bd_2025meiko_4
+
+(Enter: KAITO)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: Miku)
+(Enter: Rin)
+MEIKO: Thank you all! I had so much fun singing just now!
+KAITO: That was a great show, MEIKO.
+MEIKO: Oh! You three were watching?
+Len: Yeah! We came to call you over to the party.
+Luka: That was when we heard you singing, MEIKO. We listened alongside everyone.
+Rin: I had no idea!
+Rin: Oh, since all six of us are here now, let's wish MEIKO a happy anniversary!
+Miku: Okay! Ready, everyone?
+Miku: One, two, three... Happy anniversary, MEIKO!
+Rin: Happy anniversary!
+Len: Happy anniversary!
+Luka: Happy anniversary!
+KAITO: Happy anniversary!
+MEIKO: Thank you! I feel genuinely celebrated.
+MEIKO: We promise to keep bringing you amazing songs, so don't look away from us, okay?
+KAITO: Hehe. That's so you, MEIKO.
+Len: Yeah! That really hit home!
+Luka: Anyway, let's get MEIKO's party started.
+Rin: Yeah! Let's go go go to the venue!
+(Exit: Rin)
+(Exit: Luka)
+(Exit: Miku)
+(Exit: Len)
+(Exit: KAITO)
+MEIKO: Oh...
+MEIKO: Thank you all again for coming to celebrate today.
+MEIKO: You're a huge source of strength for me. So, I'm counting on your continued support!
+Len: Hurry, MEIKO! We can't start without the star!
+MEIKO: Okay, coming!
+MEIKO: See you all later!
+(Exit: MEIKO)

@@ -5,10 +5,10 @@
 2 [mc_timeline] mc_ev_shuffle_51_1
 
 (Enter: Kohane)
-(Enter: Luka)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Luka)
 An: Oh, hey guys! Were you listening to our performance just now?
 Kohane: Hehe, it sounds like they were.
 Luka: That's great! I'm glad we all gave it our best!
@@ -44,8 +44,8 @@ Kohane: Yeah! Let's give it our best!
 3 [mc_timeline] mc_ev_shuffle_51_2
 
 (Enter: Emu)
-(Enter: Rin)
 (Enter: Rui)
+(Enter: Rin)
 Emu: So, we all made lanterns together!
 Rin: Whaaat?! Like, warm-and-cozy, super-sparkly lanterns? You can make those?!
 Rui: You can. We'll bring the materials over next time, so let's make some then.
@@ -76,11 +76,11 @@ Rui: Of course, you're more than welcome. Now then, let's begin...
 
 5 [mc_timeline] mc_ev_shuffle_51_3
 
-(Enter: Emu)
-(Enter: Rin)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Rin)
 Emu: Wow! You guys are all here☆
 Emu: Well, how was it? How was our show?
 Rin: Sounds like they had a super duper fun time♪

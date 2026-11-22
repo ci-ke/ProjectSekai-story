@@ -2,12 +2,12 @@
 
 1 [mc_timeline] mc_bd_2024meiko_1
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 MEIKO: Hello everyone! Thank you for coming to celebrate my anniversary today! I'm so glad to see so many of you!
 MEIKO: And thank you all too for setting this up. I can already tell today will be wonderful.
 Rin: Hehehe, happy anniversary, MEIKO! Let's celebrate as much as we can today!
@@ -21,11 +21,11 @@ Len: Hehe, looks like you all figured it out too! Let's all go together!
 
 2 [mc_timeline] mc_bd_2024meiko_2
 
-(Enter: MEIKO)
 (Enter: Kohane)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: MEIKO)
 MEIKO: Phew...
 MEIKO: The others told me to go for a walk until the party prep is done... But I can't help but worry.
 MEIKO: Especially all this talk of "sprucing up the cafe a little"... I hope everything is going to be okay.
@@ -57,11 +57,11 @@ MEIKO: Here we go! blender!
 
 4 [mc_timeline] mc_bd_2024meiko_3
 
-(Enter: MEIKO)
 (Enter: Kohane)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: MEIKO)
 MEIKO: Thank you so much for listening, everyone! It makes me happy to see you bring all that energy.
 An: But, you all are here to wish MEIKO a happy anniversary, right?
 Kohane: In that case, we should say it all together!
@@ -79,12 +79,12 @@ MEIKO: Yes. I'm really looking forward to this party!
 
 5 [mc_timeline] mc_bd_2024meiko_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 MEIKO: Hehe, it seems like the other me is having a wonderful celebration, too!
 Miku: I'm really curious how that party will turn out♪
 Luka: Me too. Why don't we take another look later?
@@ -99,11 +99,11 @@ MEIKO: Lost One's Weeping!
 
 7 [mc_timeline] mc_bd_2024meiko_5
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 (Enter: Miku)
 MEIKO: Thank you, everyone! Your cheers really helped me sing my best!
 Miku: We could all tell how great you were feeling! Couldn't we?

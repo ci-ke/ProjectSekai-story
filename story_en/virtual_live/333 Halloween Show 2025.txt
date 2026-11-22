@@ -3,15 +3,15 @@
 1 [mc_timeline] mc_2024halloween_1
 
 (Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Miku-MMJ)
 Airi: Happy Halloween, everyone!
 Minori: Happy Halloween!
-Miku (MMJ): Happy Halloween!
 Haruka: Happy Halloween!
 Shizuku: Happy Halloween!
+Miku (MMJ): Happy Halloween!
 Minori: Welcome to our Halloween show!
 Haruka: Are you all enjoying the holiday?
 Shizuku: We just finished having fun in costumes and spooky makeup.
@@ -61,9 +61,9 @@ Minori: Bye bye!
 
 4 [mc_timeline] mc_2024halloween_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Len)
+(Enter: MEIKO)
+(Enter: KAITO)
 KAITO: It looks like everyone in SEKAI is enjoying Halloween, too.
 MEIKO: Yes, their performance was spooky, but very cute! Very like them.
 Len: It really came through how much they wanted to give everyone a fun Halloween!

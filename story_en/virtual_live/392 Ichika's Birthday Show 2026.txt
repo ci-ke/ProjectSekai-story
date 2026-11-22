@@ -3,8 +3,8 @@
 1 [mc_timeline] mc_bd_2025ichika_1
 
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
 Saki: Hey, everyone! Thanks for coming to celebrate Ichi's birthday with us today!
 Saki: Guess what? We have a very special show prepared just for you for the celebration! A round of applause♪
 Shiho: You're weirdly hyper today.
@@ -20,8 +20,8 @@ Saki: Huh?!
 Honami: Hehe...
 Miku (Ln): Okay, let's all say her name. Ready? And...
 Saki: Ichi! Ichika!
-Shiho: Ichi! Ichika!
 Honami: Ichi! Ichika!
+Shiho: Ichi! Ichika!
 Miku (Ln): Ichi! Ichika!
 (Enter: Ichika)
 Ichika: Finally... I've been pacing backstage this whole time. Thanks, Miku.
@@ -52,11 +52,11 @@ Ichika: Thank you. Here we go... ray!
 
 3 [mc_timeline] mc_bd_2025ichika_2
 
-(Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
 Ichika: Thanks for listening! Did my feelings reach you all?
 Miku (Ln): It sounds like they did.
 Ichika: Yeah. I'm glad.

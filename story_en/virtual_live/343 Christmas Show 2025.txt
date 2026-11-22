@@ -2,16 +2,16 @@
 
 1 [mc_timeline] mc_2024christmas_1
 
-(Enter: MEIKO)
 (Enter: Minori)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: MEIKO)
 Minori: Merry Christmas, everyone!
-MEIKO: Merry Christmas!
-Airi: Merry Christmas!
 Haruka: Merry Christmas!
+Airi: Merry Christmas!
 Shizuku: Merry Christmas!
+MEIKO: Merry Christmas!
 Haruka: Thank you all for coming to our show today! Are you having a good holiday?
 Shizuku: It sounds like everyone is spending it differently. Actually, we were having a Christmas stream until just now.
 Airi: That was fun. And everyone really seemed to like our Santa outfits!
@@ -24,21 +24,21 @@ Airi: We're not dressed this way just to show off our outfits.
 Minori: That's right! We want to give you all the special present of a show from Santa MMJ!
 Haruka: So, here we go!
 Airi: DREAM PLACE!
-MEIKO: DREAM PLACE!
 Minori: DREAM PLACE!
 Haruka: DREAM PLACE!
 Shizuku: DREAM PLACE!
+MEIKO: DREAM PLACE!
 
 
 2 [MUSIC] 252: DREAM PLACE
 
 3 [mc_timeline] mc_2024christmas_2
 
-(Enter: MEIKO)
 (Enter: Minori)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: MEIKO)
 Minori: Thanks for listening, everyone!
 Shizuku: How did you like our Christmas present?
 Haruka: Hehe, that's a lot of cheering. I'm glad we got to have so much fun together.
@@ -55,12 +55,12 @@ Minori: See you! Bye bye!
 
 4 [mc_timeline] mc_2024christmas_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Miku: Welcome, everyone!
 Miku: I wonder how you've all been spending Christmas. Could you let us hear?
 Miku: Mhm, mhm. It sounds like you've all been enjoying the day in your own way! It makes me so happy that you've come to see us too!
@@ -83,20 +83,20 @@ Rin: I'm Mine!
 Miku: I'm Mine!
 Len: I'm Mine!
 MEIKO: I'm Mine!
-KAITO: I'm Mine!
 Luka: I'm Mine!
+KAITO: I'm Mine!
 
 
 5 [MUSIC] 368: I'm Mine
 
 6 [mc_timeline] mc_2024christmas_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 KAITO: Thanks for listening!
 Luka: It sounds like our present made it right where it belongs.
 MEIKO: Hehe. Did we do a good job as Santas?
@@ -107,11 +107,11 @@ Rin: Yeah! Everyone getting so excited made it tons of fun for us♪
 Luka: Oh my. I can hardly tell which of us ended up being the real Santas.
 Luka: With that, why don't we all give another Christmas cheer?
 KAITO: Are you ready? One, two, three...
-KAITO: Merry Christmas!
-MEIKO: Merry Christmas!
 Miku: Merry Christmas!
 Rin: Merry Christmas!
-Luka: Merry Christmas!
 Len: Merry Christmas!
+Luka: Merry Christmas!
+MEIKO: Merry Christmas!
+KAITO: Merry Christmas!
 MEIKO: Goodbye, everyone! Have a very merry Christmas!
 Rin: See you again!

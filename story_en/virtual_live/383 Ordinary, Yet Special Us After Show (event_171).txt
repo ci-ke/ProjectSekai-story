@@ -2,10 +2,10 @@
 
 1 [mc_timeline] mc_ev_band_wl_02_1
 
-(Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
+(Enter: Ichika)
 (Enter: Honami)
+(Enter: Shiho)
 (Enter: Miku-Ln)
 Miku (Ln): So this is where you all were.
 Ichika: We've been looking at the stars and thinking about our past.
@@ -47,8 +47,8 @@ Miku (Ln): Alright everyone, here we go!
 Saki: needLe!
 Shiho: needLe!
 Ichika: needLe!
-Miku (Ln): needLe!
 Honami: needLe!
+Miku (Ln): needLe!
 
 
 2 [MUSIC] 63: needLe
@@ -58,8 +58,8 @@ Honami: needLe!
 (Enter: Miku-Ln)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
 Ichika: What is this feeling?
 Ichika: We've played that song so many times, but somehow... It felt so fresh and different.
 Saki: Yeah, totally! It was like seeing a new side of one of your best friends!
@@ -76,5 +76,5 @@ Shiho: Can't argue with that.
 Honami: I'd like to keep on bringing our music to even more people.
 Ichika: Yeah! Let's all do our best!
 Saki: Right! Whoo!
-Shiho: Right! Whoo!
 Honami: Right! Whoo!
+Shiho: Right! Whoo!

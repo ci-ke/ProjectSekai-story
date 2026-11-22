@@ -2,9 +2,9 @@
 
 1 [mc_timeline] mc_bd_2026honami_1
 
+(Enter: 一歌)
 (Enter: 咲希)
 (Enter: 穂波)
-(Enter: 一歌)
 (Enter: 志歩)
 (Enter: ミク-Ln)
 穂波: みんな、今日は来てくれてありがとう
@@ -48,11 +48,11 @@
 
 3 [mc_timeline] mc_bd_2026honami_2
 
+(Enter: 一歌)
+(Enter: ミク-Ln)
+(Enter: 咲希)
 (Enter: 穂波)
 (Enter: 志歩)
-(Enter: 一歌)
-(Enter: 咲希)
-(Enter: ミク-Ln)
 穂波: みんな、聴いてくれてありがとう
 穂波: 一歌ちゃん達も、 一緒に演奏してくれてありがとう
 穂波: みんなといられる、こういう時間が—— わたしは大好きなんだって、改めて思ったよ

@@ -3,10 +3,10 @@
 1 [mc_timeline] mc_bd_2024shizuku_1
 
 (Enter: Minori)
-(Enter: Len)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Len)
 Minori: Everyone! Thanks for coming today!
 Haruka: Since you're all here, I think you know what day it is today. Isn't that right?
 Len: It sure sounds like you do. So let's get straight to celebrating!
@@ -72,10 +72,10 @@ Shizuku: I hope you all enjoy yourselves, too. Get ready— We are!
 3 [mc_timeline] mc_bd_2024shizuku_2
 
 (Enter: Minori)
-(Enter: Len)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Len)
 Shizuku: Thank you for listening, everyone! Your feelings certainly reached us!
 Shizuku: And once again, thank you for today. Things may be a little tough right now...
 Shizuku: But when I'm feeling discouraged, everyone's voices lift me back up and give me strength.

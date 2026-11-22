@@ -2,12 +2,12 @@
 
 1 [mc_timeline] mc_countdown_2024_1
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Rin: Oh, everyone! You're here!
 Luka: Perfect timing. We just finished our rehearsal.
 KAITO: It's our final show of the year, so we put a lot of effort into the setlist. I hope you like it!
@@ -26,10 +26,10 @@ Luka: Right! And with that, here it is. Happy Synthesizer!
 
 3 [mc_timeline] mc_countdown_2024_2
 
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
 (Enter: Luka)
+(Enter: MEIKO)
 (Enter: Len)
 (Enter: KAITO)
 Rin: Thanks, everyone! Did you like our performance?
@@ -47,12 +47,12 @@ Len: Here we go! ROKI!
 
 5 [mc_timeline] mc_countdown_2024_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Len: Great, everyone's all fired up! It felt so good to sing!
 Luka: Hehe. You really got into it, Len.
 Len: Yeah! This is the best New Year's Eve ever, thanks to all of you.
@@ -86,12 +86,12 @@ Rin: Six!
 Miku: Five!
 Rin: Four!
 Len: Four!
-KAITO: Three!
 MEIKO: Three!
+KAITO: Three!
 Miku: Two!
 Luka: Two!
-KAITO: One!
 MEIKO: One!
+KAITO: One!
 Rin: One!
 Luka: One!
 Miku: One!
@@ -100,8 +100,8 @@ KAITO: Happy New Year!
 Rin: Happy New Year!
 MEIKO: Happy New Year!
 Miku: Happy New Year!
-Luka: Happy New Year!
 Len: Happy New Year!
+Luka: Happy New Year!
 Miku: Happy New Year, everyone! It makes me so happy to start the new year alongside all of you!
 Miku: I know. Since it's New Year's Day now, why don't we all make our wishes?
 MEIKO: What a nice idea! As for what we're wishing for...
@@ -115,12 +115,12 @@ Miku: Here we go! hot wind!
 
 7 [mc_timeline] mc_countdown_2024_4
 
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
-(Enter: KAITO)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Luka: Thank you all for listening!
 Luka: Have our wishes reached you?
 KAITO: I see. Thank you!

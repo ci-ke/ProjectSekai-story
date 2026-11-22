@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_night_21_1
 
-(Enter: Mafuyu)
-(Enter: Len)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Len)
 Mafuyu: Here goes. Mx.Nihil.
 
 
@@ -14,11 +14,11 @@ Mafuyu: Here goes. Mx.Nihil.
 
 3 [mc_timeline] mc_ev_night_21_2
 
-(Enter: Mafuyu)
-(Enter: Len)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Len)
 Mafuyu: ...
 Mafuyu: Thank you, everyone.
 Kanade: Are you feeling any better, Mafuyu?
@@ -57,7 +57,7 @@ Len: Huh?
 Mafuyu: Thank you. For staying with me that time.
 Len: Oh...
 Len: No problem!
-(Exit: Mafuyu)
 (Exit: Kanade)
-(Exit: Mizuki)
+(Exit: Mafuyu)
 (Exit: Ena)
+(Exit: Mizuki)

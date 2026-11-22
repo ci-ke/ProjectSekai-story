@@ -29,18 +29,18 @@ Miku: Here we go! NEO!
 
 3 [mc_timeline] mc_2025tanabata_2
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Miku: Thank you all for listening!
-KAITO: Thanks! Thank you!
-MEIKO: Thanks! Thank you!
 Rin: Thanks! Thank you!
-Luka: Thanks! Thank you!
 Len: Thanks! Thank you!
+Luka: Thanks! Thank you!
+MEIKO: Thanks! Thank you!
+KAITO: Thanks! Thank you!
 Len: I hope our song gives you the push you need.
 KAITO: Me too. Our wish is that your wishes can come true.
 Miku: I hope everyone in SEKAI is having a good Star Festival too.
@@ -49,11 +49,11 @@ Miku: I hope everyone in SEKAI is having a good Star Festival too.
 4 [mc_timeline] mc_2025tanabata_3
 
 (Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
 (Enter: Miku-VBS)
 (Enter: Luka)
-(Enter: Toya)
-(Enter: Akito)
-(Enter: An)
 An: Howdy, pardners! Happy Star Festival, y'all!
 Akito: You can't brute-force everything to be American, you know.
 An: Aw, who cares? Don't sweat the small stuff!
@@ -74,8 +74,8 @@ Akito: And we've got a good-sized audience here too.
 An: Alrighty, let's raise the roof! Here we go!
 Kohane: Mirai!
 Toya: Mirai!
-Akito: Mirai!
 An: Mirai!
+Akito: Mirai!
 
 
 5 [MUSIC] 180: Mirai
@@ -83,11 +83,11 @@ An: Mirai!
 6 [mc_timeline] mc_2025tanabata_4
 
 (Enter: Kohane)
+(Enter: An)
+(Enter: Akito)
+(Enter: Toya)
 (Enter: Miku-VBS)
 (Enter: Luka)
-(Enter: Toya)
-(Enter: Akito)
-(Enter: An)
 An: How'd you like our Star Festival?
 Kohane: Hehe, it sounds like you enjoyed it. We had a great time, too.
 Luka: Now, after all that singing and dancing, why don't we go hang out at MEIKO's?

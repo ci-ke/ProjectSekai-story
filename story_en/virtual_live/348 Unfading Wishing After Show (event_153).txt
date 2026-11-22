@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_shuffle_52_1
 
-(Enter: KAITO)
 (Enter: Airi)
+(Enter: KAITO)
 KAITO: I see. That's quite an idea... I might make use of that.
 Airi: Hehe. I'm good at this kind of thing, so you can rely on me for idea work!
 (Enter: Haruka)
@@ -37,10 +37,10 @@ Airi: Kiss the Villain!
 4 [mc_timeline] mc_ev_shuffle_52_2
 
 (Enter: Kohane)
-(Enter: Miku-VBS)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku-VBS)
 Akito: Thanks for bringing the fire, everyone.
 Miku (VBS): Your performance was so powerful.
 Kohane: Thanks, Miku!

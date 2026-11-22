@@ -1,0 +1,85 @@
+437 Overcome One's Limits After Show (event_187)
+
+1 [mc_timeline] mc_ev_street_23_1
+
+(Enter: Toya)
+(Enter: An)
+(Enter: Kohane)
+(Enter: MEIKO)
+An: Len's not here either...
+MEIKO: No... Where could he be?
+Toya: Where haven't we looked yet? There's...
+Len: Hey, you guys!
+(Enter: Akito)
+(Enter: Len)
+Kohane: Ah, Len!
+MEIKO: I see Akito found you. Thank goodness.
+Akito: He got lost in the alleyways over there.
+Len: I was not lost! I just... Wasn't really sure how to get back...
+Akito: Yeah, we call that being lost.
+Akito: You had everyone worried, you know.
+Len: Yeah... I'm sorry, guys.
+Toya: I'm just glad we found you. But what were you doing to get so lost in the first place?
+Len: Well, Akito went to the US all by himself, right?
+Len: It sorta made me wonder what it was like, going far away all alone. So...
+Akito: And so you got yourself lost in an unfamiliar place.
+Len: It was going great at first!
+An: Hahaha. But that does sound kinda fun!
+Kohane: Going someplace you've never been can be scary, but it's exciting too.
+Toya: How did you feel while you were in the US?
+Akito: Kind of a broad question, isn't it?
+Akito: There was so much I had to think about and do that I couldn't really focus on all that...
+Akito: But I can say that I'm glad I went.
+Akito: I got all my inadequacies shoved in my face... But now I know where I stand.
+Akito: The world's full of musicians who are better than us.
+Akito: All we can do is use whatever we've got to show 'em who we are.
+Toya: True...
+Toya: The walls we have to surmount will keep growing higher. But that's no reason to quit.
+An: For sure! If anything, that just gets me fired up!
+Kohane: Yeah! Let's climb over them together!
+MEIKO: Hehe. Sounds like you're all very motivated.
+Akito: Yeah. I feel like I'm in good condition today.
+An: Me too! Let's sing, yeah?
+Toya: Yes, I'd like that.
+Kohane: MEIKO, Len, would you like to join us?
+MEIKO: Well, don't mind if I do. How about you, Len?
+Len: Hmm, I do want to sing... But I think I'll just listen today.
+Len: I wanna hear Akito sing from the best seat in the house!
+Akito: Alright then.
+Len: Hey, guys! Help me cheer them on!
+Akito: Here we go.
+Akito: "Kashika".
+(Exit: Len)
+
+
+2 [MUSIC] 267: Kashika
+
+3 [mc_timeline] mc_ev_street_23_2
+
+(Enter: Len)
+(Enter: An)
+(Enter: MEIKO)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Kohane)
+Len: You were all so cool! My heart was racing!
+Akito: Thanks.
+Akito: Thank you guys too. Stop by again sometime, and we'll light another fire in you.
+Toya: Yes, we promise that.
+MEIKO: Let's head back to the cafe, shall we?
+MEIKO: I'd like to treat you to a special meal, as thanks for helping us find Len.
+An: Wow, really?!
+Toya: Thank you.
+Kohane: Hehe. I can't wait.
+Len: Hey! Do I get a special meal too?!
+MEIKO: Hmm, I don't know.
+Len: Huh?! If I don't, then I'll get Akito and the others to sneak me bits of theirs!
+Akito: Sneak you bits of ours? Well, I don't mind.
+Akito: Kind of a weird place to end... But thanks for today, everyone.
+Akito: Come back again sometime.
+(Exit: Len)
+(Exit: An)
+(Exit: MEIKO)
+(Exit: Akito)
+(Exit: Toya)
+(Exit: Kohane)

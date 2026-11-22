@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_wonder_20_1
 
-（登场：KAITO）
-（登场：笑梦）
 （登场：司）
+（登场：笑梦）
 （登场：宁宁）
 （登场：类）
+（登场：KAITO）
 笑梦：以上就是我们的宣讲 谢谢大家
 类：真是太棒了 笑梦
 类：宣讲的内容就不说了 连说话时的语速 语气还有动作手势都无可挑剔
@@ -39,11 +39,11 @@ KAITO：现在的大家 也许能呈现和以往不一样的演出吧
 
 3 [mc_timeline] mc_ev_wonder_20_2
 
-（登场：KAITO）
-（登场：笑梦）
 （登场：司）
+（登场：笑梦）
 （登场：宁宁）
 （登场：类）
+（登场：KAITO）
 笑梦：谢谢大家
 类：大家看得开心就好
 笑梦：我也非常非常开心哦
@@ -62,8 +62,8 @@ KAITO：有的人靠自己的力量 挽回了差点失去的可能性
 笑梦：没问题
 笑梦：今后我们也要继续加油加油再加油哦
 笑梦：WonWon
-KAITO：Wonderho～i
-笑梦：Wonderho～i
 司：Wonderho～i
+笑梦：Wonderho～i
 宁宁：Wonderho～i
 类：Wonderho～i
+KAITO：Wonderho～i

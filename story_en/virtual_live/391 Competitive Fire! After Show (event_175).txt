@@ -3,9 +3,9 @@
 1 [mc_timeline] mc_ev_street_22_1
 
 (Enter: Kohane)
-(Enter: Luka)
-(Enter: Toya)
 (Enter: Akito)
+(Enter: Toya)
+(Enter: Luka)
 (Enter: An)
 An: Huff... Huff... Sorry for the wait!
 Luka: Oh, An's here too.
@@ -50,10 +50,10 @@ An: Alright then, let's go! Accelerate!
 3 [mc_timeline] mc_ev_street_22_2
 
 (Enter: Kohane)
-(Enter: Luka)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Luka)
 An: Whew, that was fun!
 Luka: It sure was! Wanna sing another?
 Akito: Nah... We have a practice schedule set up.

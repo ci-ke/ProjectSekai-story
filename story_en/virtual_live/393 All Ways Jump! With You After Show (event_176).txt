@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_idol_wl_02_1
 
-(Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
 (Enter: Shizuku)
+(Enter: Minori)
+(Enter: Airi)
+(Enter: Miku-MMJ)
 Minori: Ah... Ah... Alright, my voice is good to go!
 Minori: Hup! Hah! And I'm all warmed up too! Next...
 Miku (MMJ): You're so fired up, Minori!
@@ -16,8 +16,8 @@ Airi: Time passed normally while we were out, but it still feels like it's been 
 Shizuku: I agree. I'm just itching to sing with you all.
 Haruka: Let's give the best performance we can!
 Minori: Yeah!
-Miku (MMJ): Yeah!
 Airi: Yeah!
+Miku (MMJ): Yeah!
 Shizuku: Yeah!
 Miku (MMJ): Oh, you guys are here!
 Minori: Wow, and so many of you too!
@@ -46,10 +46,10 @@ Minori: We're gonna give it our all! Here we go: Newly Edgy Idols!
 3 [mc_timeline] mc_ev_idol_wl_02_2
 
 (Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Miku-MMJ)
 (Enter: Shizuku)
+(Enter: Airi)
 Shizuku: Thank you for listening!
 Airi: Could you feel what we were trying to convey?
 Minori: Hehe, that's good to hear!

@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_ev_idol_21_1
 
-(Enter: MEIKO)
+(Enter: Shizuku)
 (Enter: Minori)
 (Enter: Airi)
 (Enter: Haruka)
-(Enter: Shizuku)
+(Enter: MEIKO)
 Airi: Thanks for another great training session, MEIKO!
 Haruka: We really appreciate you helping us prepare a regimen.
 MEIKO: Don't mention it! For my part, it's fun to see you all improving so quickly.
@@ -47,11 +47,11 @@ Airi: Here we go! Eleventh!
 
 3 [mc_timeline] mc_ev_idol_21_2
 
-(Enter: MEIKO)
-(Enter: Minori)
-(Enter: Airi)
 (Enter: Haruka)
 (Enter: Shizuku)
+(Enter: Airi)
+(Enter: Minori)
+(Enter: MEIKO)
 Airi: Thanks for listening!
 Shizuku: Thank you!
 Airi: Is everyone feeling energized?

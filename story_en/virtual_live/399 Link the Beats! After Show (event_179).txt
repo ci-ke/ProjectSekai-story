@@ -1,0 +1,141 @@
+399 Link the Beats! After Show (event_179)
+
+1 [mc_timeline] mc_ev_piapro_wl_02_1
+
+(Enter: Miku-WxS)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku (WxS): Wow! So the SEKAI you went to was full of delicious foods, MEIKO?
+MEIKO: Yes! The me over there runs a cafe, and makes food and drinks for everyone!
+Rin: That's amazing♪ I wanna try lots of different dishes.
+Len: Me too! Me too! Make some for us, MEIKO!
+KAITO: Hmm, that's an idea. Why don't we talk to Tsukasa and the others about it later?
+MEIKO: Oh, that's a wonderful idea! I might just take this opportunity to run my own cafe for a day!
+Luka: Hehe. I can already see a delicious dream coming...
+
+
+2 [mc_timeline] mc_ev_piapro_wl_02_2
+
+(Enter: Miku-VBS)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku (VBS): Still, Luka, I can't believe that you were sent over to another SEKAI.
+MEIKO: Me neither. We figured you'd just wandered off somewhere.
+Luka: Wait, you don't believe me? How mean! I got to spread hope with a whole group of idols!
+Len: You, Luka? Spreading hope?
+KAITO: I can't even picture that.
+Luka: What?!
+Rin: But that'd be amazing if it were true. On the other hand, I really can't see you dancing with a bunch of idols...
+Luka: I'm telling the truth! Alright, how can I get you all to see that I have what it takes to be a dazzling idol?
+
+
+3 [mc_timeline] mc_ev_piapro_wl_02_3
+
+(Enter: Miku-Ln)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+MEIKO: A SEKAI with an amusement park and a stage for doing shows... That does sound like fun.
+Rin: That's because it was! There were talking plushies and even singing flowers!
+Len: Does a SEKAI like that really exist...?
+KAITO: I was also surprised, but... What probably stunned me the most was you, Miku.
+Miku (Ln): Me?
+Rin: Yeah, totally! She was so different from Miku-P!
+Luka: What was she like?
+KAITO: Umm... She was really upbeat, and had cat ears...
+Miku (Ln): Cat ears...
+KAITO: She could even do quadruple Axels.
+MEIKO: Wait, what?! That's incredible!
+Len: Miku, just as a thought...
+Miku (Ln): No way, seriously!
+Rin: Hahaha! Hehehe!
+Luka: Hahaha! Hehehe!
+MEIKO: Hahaha! Hehehe!
+
+
+4 [mc_timeline] mc_ev_piapro_wl_02_4
+
+(Enter: Miku-N25)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Len: ...and the stars were so pretty. Also, everyone was really nice.
+Luka: Hmm. A school SEKAI with a train station, where we're in a band... That does sound very interesting.
+Rin: School is that place where Mafuyu and the others go, right? I wish I could've gone.
+KAITO: But the next time something like this happens, there's no guarantee you'll be able to get home.
+Len: Huh...?
+MEIKO: He's right. We need to be careful since there's no telling what might happen.
+Luka: Honestly, you two have no imagination at all.
+Miku (N25): But I would like to meet the me from that other SEKAI again someday...
+
+
+5 [mc_timeline] mc_ev_piapro_wl_02_5
+
+(Enter: Miku-MMJ)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku (MMJ): So, the other Luka helped make these flowers of hope bloom?!
+MEIKO: Yes, Minori and the others were very happy about it.
+Rin: Yeah! She was really interesting and had a really powerful voice, so I'm glad we got to do a show with her♪
+Len: She also had a big impact on me.
+KAITO: What happened was really strange... But it sounds like you have a new goal now too, Miku.
+Miku (MMJ): I do...! I plan on working even harder now!
+Miku (MMJ): I'm going to keep growing and find a way to spread hope to the people I met over there.
+Luka: Hehe. You can do it, Miku!
+
+
+6 [mc_timeline] mc_ev_piapro_wl_02_6
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Oh, you guys all came!
+Rin: We were just talking a look at the other SEKAI together!
+Luka: The us in those other SEKAI seemed to be having some very fun conversations.
+Miku: Yes, and idol me seems to have a new goal now... I'd like to show my support by singing for her.
+KAITO: Oh, I also feel like singing.
+Len: Me too! I wanna give a big shoutout to the us in those other SEKAI!
+MEIKO: Then, let's all sing together!
+Miku: Alright, let's sing strongly enough to reach them in their own SEKAI.
+Miku: Here we go. Journey!
+
+
+7 [MUSIC] 235: Journey
+
+8 [mc_timeline] mc_ev_piapro_wl_02_7
+
+(Enter: Miku)
+(Enter: Rin)
+(Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
+Miku: Thank you all for listening! We were able to really put our hearts into it because of you.
+Luka: Yes, and I'm sure we were able to reach the us in those other SEKAI.
+Rin: Yeah! I think so too!
+Miku: Hehe. I sure hope we did.
+Miku: And thank you all for watching over us.
+Miku: Many more surprising things may happen moving forward...
+Miku: But I hope you'll all keep watching over those other SEKAI with us.
+Miku: Anyway, we'll meet again.
+Rin: Bye bye! See you! Let's meet again!
+Len: Bye bye! See you! Let's meet again!
+KAITO: Bye bye! See you! Let's meet again!
+Luka: Bye bye! See you! Let's meet again!
+MEIKO: Bye bye! See you! Let's meet again!

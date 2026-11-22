@@ -3,18 +3,18 @@
 1 [mc_timeline] mc_bd_2025kohane_1
 
 (Enter: Kohane)
-(Enter: Miku-VBS)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku-VBS)
 Kohane: Ah... Hello, everyone.
 Toya: Thank you all for coming.
 Akito: Everyone here knows what day it is, right?
 Miku (VBS): Right. Let's all celebrate together.
 An: Okay, let's get it started! Here we go! Happy birthday, Kohane!
-Miku (VBS): Happy birthday.
-Toya: Happy birthday.
 Akito: Happy birthday.
+Toya: Happy birthday.
+Miku (VBS): Happy birthday.
 Kohane: Thank you all so much!
 Kohane: And thank you all for coming, too!
 Kohane: It's sort of a relief getting to celebrate with everyone here. My birthday's been pretty different this year, after all.
@@ -47,10 +47,10 @@ Kohane: ULTRA C!
 3 [mc_timeline] mc_bd_2025kohane_2
 
 (Enter: Kohane)
-(Enter: Miku-VBS)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Miku-VBS)
 Kohane: Thanks for listening!
 Kohane: What did you all think?
 Miku (VBS): It sounds like your feelings made it to them, Kohane.

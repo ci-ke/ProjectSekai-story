@@ -2,9 +2,9 @@
 
 1 [mc_timeline] mc_ev_night_20_1
 
-(Enter: ミク-N25)
-(Enter: まふゆ)
 (Enter: 奏)
+(Enter: まふゆ)
+(Enter: ミク-N25)
 (Enter: 瑞希)
 (Enter: 絵名)
 (Enter: リン)
@@ -50,10 +50,10 @@
 
 3 [mc_timeline] mc_ev_night_20_2
 
-(Enter: ミク-N25)
 (Enter: リン)
-(Enter: 絵名)
 (Enter: まふゆ)
+(Enter: 絵名)
+(Enter: ミク-N25)
 (Enter: 瑞希)
 (Enter: 奏)
 奏: ……リン、どうだった？

@@ -12,11 +12,11 @@ Miku: Why don't we take a peek and see how they're doing right now?
 
 2 [mc_timeline] mc_ev_shuffle_49_2
 
-(Enter: KAITO)
 (Enter: Kohane)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
 KAITO: Great work, you two! Toya's songs and An's singing were both amazing!
 Kohane: You put so much emotion into it, I was really moved.
 An: Really? Wow, thanks! But really, that was all Toya.
@@ -30,12 +30,12 @@ Toya: Yes. It really was a special experience.
 
 3 [mc_timeline] mc_ev_shuffle_49_3
 
-(Enter: Miku-Ln)
-(Enter: Luka)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
+(Enter: Luka)
 Luka: Today's practice sure was intense.
 Miku (Ln): Yes.
 Miku (Ln): Especially you, Shiho. You were really into it.
@@ -49,12 +49,12 @@ Honami: Hehe. The band and the singers all did wonderfully.
 
 4 [mc_timeline] mc_ev_shuffle_49_4
 
+(Enter: Kanade)
 (Enter: Mafuyu)
+(Enter: Ena)
+(Enter: Mizuki)
 (Enter: Rin)
 (Enter: Len)
-(Enter: Kanade)
-(Enter: Mizuki)
-(Enter: Ena)
 Len: You and the others' painting really did become a town, Ena. It was amazing.
 Ena: Right? Even Mafuyu complimented it.
 Mafuyu: Did I?
@@ -68,10 +68,10 @@ Ena: I'm glad our work was able to make the show come to life.
 5 [mc_timeline] mc_ev_shuffle_49_5
 
 (Enter: Minori)
-(Enter: Miku-MMJ)
-(Enter: Airi)
 (Enter: Haruka)
+(Enter: Airi)
 (Enter: Shizuku)
+(Enter: Miku-MMJ)
 Miku (MMJ): Your acting was so good, Airi!
 Haruka: You were so lively and bold, and so natural.
 Airi: Well, I was pretty nervous beforehand.
@@ -112,11 +112,11 @@ Nene: Alright, here we go. It's showtime!
 
 8 [mc_timeline] mc_ev_shuffle_49_7
 
-(Enter: Emu)
-(Enter: Len)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Len)
 (Enter: MEIKO)
 Nene: Thank you for listening, everyone!
 Len: That was so much fun!
@@ -133,8 +133,8 @@ Miku: And they've built wonderful connections by standing on stage together.
 Miku: Hm? I can sense some feelings gathering...
 (Enter: Ichika)
 (Enter: Kanade)
-(Enter: Kohane)
 (Enter: Minori)
+(Enter: Kohane)
 (Enter: Tsukasa)
 Ichika: Ah, Miku!
 Tsukasa: Oh, we meet again!

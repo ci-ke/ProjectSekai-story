@@ -2,17 +2,17 @@
 
 1 [mc_timeline] mc_ev_band_19_1
 
-(Enter: Luka)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
 Saki: And without further ado... Great work at Jam Fest, everyone!
-Luka: Yay♪ Good work.
 Ichika: Yay♪ Good work.
 Saki: Yay♪ Good work.
-Shiho: Yay♪ Good work.
 Honami: Yay♪ Good work.
+Shiho: Yay♪ Good work.
+Luka: Yay♪ Good work.
 Saki: Hey, c'mon! This is supposed to be a celebration, but no one's getting hyped up!
 Shiho: It's just that you're too hyped up, Saki.
 Luka: But I understand how you feel. It must feel amazing to have played successfully on such a big stage.
@@ -46,11 +46,11 @@ Saki: Here we go, everyone! Weigh anchor!
 
 3 [mc_timeline] mc_ev_band_19_2
 
-(Enter: Luka)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Luka)
 Saki: Thanks, everyone!
 Saki: Maybe it's because everyone was here to listen, but we sounded even better than we did in practice!
 Shiho: It wasn't just Saki getting into it, either. Honami, Ichika, you were enjoying yourselves too.
@@ -72,5 +72,5 @@ Saki: Come see us play again sometime, everyone! You'll enjoy yourselves, we pro
 Saki: Bye bye!
 Ichika: See you. Goodbye!
 Shiho: See you. Goodbye!
-Luka: See you. Goodbye!
 Honami: See you. Goodbye!
+Luka: See you. Goodbye!

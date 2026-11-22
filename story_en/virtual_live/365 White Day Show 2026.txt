@@ -3,10 +3,10 @@
 1 [mc_timeline] mc_2025whiteday_1
 
 (Enter: Kohane)
-(Enter: Rin)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
 An: Hey there, everyone! Good to see you all again!
 Toya: Are you here to listen to us sing?
 Akito: Probably. Too bad, though. We just ended practice.
@@ -34,10 +34,10 @@ Rin: City!
 3 [mc_timeline] mc_2025whiteday_2
 
 (Enter: Kohane)
-(Enter: Rin)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Rin)
 Toya: Thank you for listening, everyone. Did our feelings reach you all?
 An: Good! It sure sounds like they did.
 Kohane: Do you think they reached all the way to Japan too?
@@ -50,12 +50,12 @@ Akito: It's up to you to make this White Day a good one. See you next time.
 
 4 [mc_timeline] mc_2025whiteday_3
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Len: Happy White Day, everyone!
 KAITO: Thanks for coming to see us in SEKAI! We've been excited to see you.
 Luka: You see, we have a show prepared for you all today.
@@ -63,34 +63,34 @@ MEIKO: It's a thank-you show for all of you out there!
 KAITO: You're always cheering us on, after all. So this one especially is for all of you.
 Rin: Come on, let's get this show on the road♪
 Miku: We'll be singing this one... All together now!
-KAITO: Journey!
-MEIKO: Journey!
 Miku: Journey!
 Rin: Journey!
-Luka: Journey!
 Len: Journey!
+Luka: Journey!
+MEIKO: Journey!
+KAITO: Journey!
 
 
 5 [MUSIC] 235: Journey
 
 6 [mc_timeline] mc_2025whiteday_4
 
-(Enter: KAITO)
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
-(Enter: Luka)
 (Enter: Len)
+(Enter: Luka)
+(Enter: MEIKO)
+(Enter: KAITO)
 Miku: Thank you all for listening!
 Len: Every time we sing this song, I can't help but feel like "Don't worry! You've got this!"
 Luka: I agree. Spring is on its way, and I'm sure there are plenty of people who need a boost of courage right now.
 MEIKO: That's true. In Japan, people are graduating, starting jobs, and entering new stages of their lives.
 KAITO: I hope our songs can bring courage to everyone who needs a little extra confidence.
-MEIKO: Yes.
 Miku: Yeah!
 Rin: Yeah!
-Luka: Yes.
 Len: Yeah!
+Luka: Yes.
+MEIKO: Yes.
 KAITO: Once again, thank you all for coming to hear us sing today.
 Len: Starting something new might be scary...
 Len: But I'm sure you all can do it!

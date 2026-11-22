@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_bd_2024honami_1
 
-(Enter: KAITO)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: KAITO)
 Saki: Hey there, everyone! Welcome to Hona's birthday show!
 Ichika: Hello.
 KAITO: Hello.
@@ -48,16 +48,16 @@ Honami: I hope you enjoy it. Regulus.
 
 3 [mc_timeline] mc_bd_2024honami_2
 
-(Enter: KAITO)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: KAITO)
 Honami: Thank you, everyone!
-KAITO: Thank you! Thank you! Thank you!
 Ichika: Thank you! Thank you! Thank you!
 Saki: Thank you! Thank you! Thank you!
 Shiho: Thank you! Thank you! Thank you!
+KAITO: Thank you! Thank you! Thank you!
 Ichika: I think everyone here could tell how far you've come, Honami.
 Shiho: Yeah. That was a good performance.
 Honami: Hehehe, that's good to hear!
@@ -66,8 +66,8 @@ Honami: And I'll keep on doing my best to support everyone, so they can shine as
 Saki: Okay, let's wrap things up with a big cheer!
 Saki: Are you all ready? Ready, and...!
 Saki: Happy birthday, Hona!
-KAITO: Happy birthday! Happy birthday!
 Ichika: Happy birthday! Happy birthday!
+KAITO: Happy birthday! Happy birthday!
 Shiho: Happy birthday! Happy birthday!
 Honami: Thank you, everyone!
 Honami: I hope you'll come see us perform again! We'll be waiting, right here in SEKAI!

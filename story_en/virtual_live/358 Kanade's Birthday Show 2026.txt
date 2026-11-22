@@ -2,16 +2,16 @@
 
 1 [mc_timeline] mc_bd_2025kanade_1
 
-(Enter: Mafuyu)
-(Enter: Miku-N25)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku-N25)
 Miku (N25): Hello, everyone.
 Ena: You're here for Kanade's birthday, right? Do you want to celebrate with us?
 Mizuki: Ooh, looks like everyone's on board! Okay, let's go!
-Mizuki: Happy birthday, Kanade!
 Ena: Happy birthday, Kanade!
+Mizuki: Happy birthday, Kanade!
 Mafuyu: Happy birthday.
 Miku (N25): Happy birthday.
 Kanade: Thank you.
@@ -48,11 +48,11 @@ Kanade: Meru.
 
 3 [mc_timeline] mc_bd_2025kanade_2
 
-(Enter: Mafuyu)
-(Enter: Miku-N25)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: Miku-N25)
 Kanade: Thank you all for listening.
 Kanade: I hope our feelings reached you.
 Ena: Of course they did! Right, everyone?

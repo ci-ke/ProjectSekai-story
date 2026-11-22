@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_countdown_2024_1
 
+(Enter: ミク)
+(Enter: リン)
+(Enter: レン)
 (Enter: ルカ)
 (Enter: MEIKO)
-(Enter: ミク)
-(Enter: レン)
-(Enter: リン)
 (Enter: KAITO)
 リン: あ、みんな！　来てくれたんだ！
 ルカ: いいタイミングね。 今、ちょうどリハーサルが終わったところなの
@@ -26,9 +26,9 @@ MEIKO: １年最後の日を、私たちの歌で ハッピーにできるよう
 
 3 [mc_timeline] mc_countdown_2024_2
 
-(Enter: ルカ)
 (Enter: ミク)
 (Enter: リン)
+(Enter: ルカ)
 (Enter: MEIKO)
 (Enter: レン)
 (Enter: KAITO)
@@ -48,10 +48,10 @@ KAITO: みんな、まだまだ体力は残っているかい？ 僕達も全力
 5 [mc_timeline] mc_countdown_2024_3
 
 (Enter: ミク)
-(Enter: MEIKO)
-(Enter: レン)
 (Enter: リン)
+(Enter: レン)
 (Enter: ルカ)
+(Enter: MEIKO)
 (Enter: KAITO)
 レン: んー！　めちゃくちゃ盛り上がったね！ 歌ってて、すっごく気持ちよかったよ
 ルカ: ふふ。レン、いつも以上にノリノリだったものね
@@ -86,21 +86,21 @@ MEIKO: ９！
 ミク: ５！
 リン: 『４！』
 レン: 『４！』
-KAITO: 『３！』
 MEIKO: 『３！』
+KAITO: 『３！』
 ミク: 『２！』
 ルカ: 『２！』
-KAITO: 『１！』
 MEIKO: 『１！』
+KAITO: 『１！』
 リン: 『１！』
 ルカ: 『１！』
-レン: 『１！』
 ミク: 『１！』
+レン: 『１！』
 KAITO: 『ハッピーニューイヤー！』
 リン: 『ハッピーニューイヤー！』
 MEIKO: 『ハッピーニューイヤー！』
-レン: 『ハッピーニューイヤー！』
 ミク: 『ハッピーニューイヤー！』
+レン: 『ハッピーニューイヤー！』
 ルカ: 『ハッピーニューイヤー！』
 ミク: みんな、あけましておめでとう！ １年の始まりをみんなと過ごせて、とっても嬉しいな
 ミク: そうだ。年も明けたことだし…… 元日らしく、みんなで何か願掛けをしない？
@@ -115,12 +115,12 @@ KAITO: じゃあ最後の曲は、その願いを込めて歌おうか
 
 7 [mc_timeline] mc_countdown_2024_4
 
-(Enter: リン)
-(Enter: KAITO)
-(Enter: MEIKO)
-(Enter: レン)
 (Enter: ミク)
+(Enter: リン)
+(Enter: レン)
 (Enter: ルカ)
+(Enter: MEIKO)
+(Enter: KAITO)
 ルカ: みんな、聴いてくれてありがとう！
 ルカ: 私達の願い、届いたかしら？
 KAITO: ……うん、ありがとう！

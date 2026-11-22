@@ -3,9 +3,9 @@
 1 [mc_timeline] mc_bd_2025toya_1
 
 (Enter: Kohane)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
 An: A thank-you song, huh? Sounds good! We're in!
 Toya: Thank you. Now I just need to decide what to sing.
 Kohane: What about that song we practiced earlier?
@@ -44,11 +44,11 @@ Toya: Here we go. HAVEN.
 
 3 [mc_timeline] mc_bd_2025toya_2
 
-(Enter: Kohane)
-(Enter: Len)
 (Enter: Toya)
+(Enter: Kohane)
 (Enter: Akito)
 (Enter: An)
+(Enter: Len)
 Toya: Hey, I didn't see you all there.
 Kohane: Oh, are you here to celebrate Aoyagi's birthday?
 Akito: Yeah, seems like it.
@@ -59,8 +59,8 @@ An: Okay! Here we go!
 An: Happy birthday, Toya!
 An: Happy birthday!
 Kohane: Happy birthday!
-Len: Happy birthday!
 Akito: Happy birthday!
+Len: Happy birthday!
 An: Nice! Great job, everyone!
 Len: It was so sudden, but you all nailed it!
 Toya: I didn't expect you all to cheer for me. I'm certainly surprised, but also happy.

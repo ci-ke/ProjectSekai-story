@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_shuffle_52_1
 
-(Enter: KAITO)
 (Enter: 愛莉)
+(Enter: KAITO)
 KAITO: なるほど。そういうアイディアもあるんだね…… 参考になるなあ
 愛莉: ふふ。こういうのは得意だからね。 任せてちょうだい！
 (Enter: 遥)
@@ -36,11 +36,11 @@ KAITO: あはは。わかるなあ、そのうずうずしちゃう気持ち！ 
 
 4 [mc_timeline] mc_ev_shuffle_52_2
 
-(Enter: ミク-VBS)
-(Enter: 杏)
-(Enter: 冬弥)
-(Enter: 彰人)
 (Enter: こはね)
+(Enter: 杏)
+(Enter: 彰人)
+(Enter: 冬弥)
+(Enter: ミク-VBS)
 彰人: 盛り上がってくれて、ありがとな
 ミク (VBS): みんな、力の込もったいいパフォーマンスだったね
 こはね: ありがとう、ミクちゃん！

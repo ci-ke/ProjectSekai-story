@@ -2,8 +2,8 @@
 
 1 [mc_timeline] mc_ev_street_19_1
 
-(Enter: Toya)
 (Enter: Akito)
+(Enter: Toya)
 Toya: Alright... Here we go, Akito.
 Akito: Got it. Bring it on.
 Toya: What's the purpose of your visit?
@@ -11,10 +11,10 @@ Akito: I came here for sightseeing.
 Akito: I'm going to a concert.
 Toya: Yes, that was perfect! We'll have no trouble at the airport.
 Akito: Yeah. Thanks for helping me out. I can understand a lot more now.
-(Enter: KAITO)
 (Enter: Kohane)
 (Enter: An)
 An: Hey, you two!
+(Enter: KAITO)
 Akito: Hey, you're finally here.
 An: "Finally"...? But we got here five minutes early, ya know?
 Kohane: Have you been here studying for a while?
@@ -49,11 +49,11 @@ Akito: FUEL!
 
 3 [mc_timeline] mc_ev_street_19_2
 
-(Enter: KAITO)
 (Enter: Kohane)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: KAITO)
 Akito: It's strange...
 Akito: Until recently, it felt like I was just spinning my wheels, no matter how much I sang.
 Akito: But now, it's like I can't get enough of it.

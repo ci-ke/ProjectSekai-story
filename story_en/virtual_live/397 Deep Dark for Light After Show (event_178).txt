@@ -5,10 +5,10 @@
 (Enter: Tsukasa)
 Tsukasa: Hmm...
 Tsukasa: Rivals, huh...
-(Enter: MEIKO)
 (Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: MEIKO)
 (Enter: Miku-WxS)
 Tsukasa: Rivals!!!
 Tsukasa: Perhaps, rivals...
@@ -57,12 +57,12 @@ Tsukasa: filament fever!
 
 3 [mc_timeline] mc_ev_wonder_22_2
 
-(Enter: MEIKO)
-(Enter: Emu)
-(Enter: Miku-WxS)
 (Enter: Tsukasa)
+(Enter: Emu)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Miku-WxS)
+(Enter: MEIKO)
 Tsukasa: Hah hah hah! Wasn't I just brilliant?!
 Miku (WxS): Wow, wow! You were so sparkly! What did you all think?
 Miku (WxS): Oooh! They think you were sparkly too!

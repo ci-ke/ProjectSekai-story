@@ -2,11 +2,11 @@
 
 1 [mc_timeline] mc_bd_2024rin_1
 
-(Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
 Rin: Okay! We're definitely gonna win today!
 Rin: Shih! Sakki! We're enemies today, so I won't be going easy on you!
 Shiho: I could say the same to you.
@@ -36,11 +36,11 @@ Rin: Everyone ready? purpose.
 
 3 [mc_timeline] mc_bd_2024rin_2
 
-(Enter: Rin)
 (Enter: Ichika)
 (Enter: Saki)
-(Enter: Shiho)
 (Enter: Honami)
+(Enter: Shiho)
+(Enter: Rin)
 Rin: Thank you for listening, everyone!
 Rin: Hehehe, I'm glad you all got so excited♪ Shows are the best☆
 Ichika: Oh, that reminds me...
@@ -49,8 +49,8 @@ Honami: Since everyone's here, shall we do it right?
 Shiho: "Right"...? Ah, I get it. Sure, let's do it.
 Saki: Hey, everyone! Are you ready? Let's all give Rin a big cheer! One, two!
 Saki: Happy anniversary, Rin!
-Shiho: Happy anniversary!
 Honami: Happy anniversary!
+Shiho: Happy anniversary!
 Ichika: Happy anniversary!
 Rin: Hehehe, thanks everyone!
 Rin: We'll be playing our hearts out for the show, so be sure to cheer us on! Len won't beat us!
@@ -60,15 +60,15 @@ Rin: Yeah! Okay, everyone, see ya!
 (Exit: Ichika)
 (Exit: Saki)
 (Exit: Rin)
-(Exit: Shiho)
 (Exit: Honami)
+(Exit: Shiho)
 
 
 4 [mc_timeline] mc_bd_2024rin_3
 
-(Enter: MEIKO)
 (Enter: Rin)
 (Enter: Luka)
+(Enter: MEIKO)
 MEIKO: Okay, all the chairs are set up... I think we're just about ready for the party!
 Rin: Yeah! Hehehe, I can't wait!
 Rin: And...of...course! I'm excited for you-know-what, too!
@@ -93,10 +93,10 @@ Rin: Thank you! Okay, here we go! Romeo & Cinderella!
 
 6 [mc_timeline] mc_bd_2024rin_4
 
-(Enter: MEIKO)
 (Enter: Miku)
 (Enter: Rin)
 (Enter: Luka)
+(Enter: MEIKO)
 Miku: That was great, you three! Len and KAITO are sure to be amazed!
 Rin: Hehehe, thanks! We're sure to nail the real thing, too!
 Rin: I would have liked to sing with you too...
@@ -111,17 +111,17 @@ Miku: Hey, everyone. Since we're here, why don't we give Rin a big cheer?
 Rin: Huh?!
 Luka: A good idea as always, Miku♪
 Miku: Hehe. Okay, here we go! Happy anniversary, Rin!
-MEIKO: Happy anniversary!
 Luka: Happy anniversary!
+MEIKO: Happy anniversary!
 Rin: Thank you all so much! Hehehe, I didn't expect to get cheers right here and now!
 Rin: But you're right, Miku! I'll enjoy today for myself, too!
 Rin: And with that, our rehearsal is all set! Let's go and call the boys!
 Miku: Right!
-MEIKO: Right!
 Luka: Right!
+MEIKO: Right!
 Rin: Thank you all for coming to see me today! I hope you'll support me for a long time to come♪
 Rin: Bye bye!
-(Exit: MEIKO)
 (Exit: Luka)
+(Exit: MEIKO)
 (Exit: Miku)
 (Exit: Rin)

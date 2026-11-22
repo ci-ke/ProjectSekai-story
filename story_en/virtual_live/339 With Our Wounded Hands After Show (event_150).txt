@@ -59,11 +59,11 @@ Ena: Alright, then let's sing. Yokanimitorete.
 
 3 [mc_timeline] mc_ev_night_19_2
 
-(Enter: MEIKO)
-(Enter: Mafuyu)
 (Enter: Kanade)
-(Enter: Mizuki)
+(Enter: Mafuyu)
 (Enter: Ena)
+(Enter: Mizuki)
+(Enter: MEIKO)
 Ena: *Exhale*
 Kanade: I feel kind of warm inside now.
 Mafuyu: Me too...
@@ -75,10 +75,10 @@ Ena: What?! Alright, fine.
 Mafuyu: By the way, Miku and the others are waiting for us over there.
 Mizuki: Oh, really? Then we better go!
 Kanade: Yeah, let's go.
-MEIKO: Ena...
-(Exit: Mafuyu)
 (Exit: Kanade)
+(Exit: Mafuyu)
 (Exit: Mizuki)
+MEIKO: Ena...
 Ena: Huh?
 MEIKO: Thank you. For not giving up.
 Ena: Oh...

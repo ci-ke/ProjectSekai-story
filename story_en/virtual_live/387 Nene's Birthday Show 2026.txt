@@ -4,9 +4,9 @@
 
 (Enter: MEIKO)
 (Enter: Emu)
-(Enter: Tsukasa)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Tsukasa)
 Nene: Oh...
 MEIKO: Look at that! So many people are here!
 Emu: Wow! Are you all here to see Nene?!
@@ -15,8 +15,8 @@ Rui: To start things off, why don't we share our feelings with Nene?
 Tsukasa: Let your feelings ring out across this stage!
 Tsukasa: Here we go! One, two, three!
 Tsukasa: Happy birthday!
-MEIKO: Happy birthday!
 Emu: Happy birthday!
+MEIKO: Happy birthday!
 Rui: Happy birthday!
 Nene: Th-Thanks...
 MEIKO: Hehe. Nene, you're turning pink.
@@ -24,8 +24,8 @@ Nene: I think anyone would blush to have this many people wishing them a happy b
 Nene: Thank you for coming to my special birthday performance, everyone.
 Nene: I hope we can all have a fun time together.
 Nene: But before that...can I say something first?
-MEIKO: You bet! Go right ahead!
 Emu: You bet! Go right ahead!
+MEIKO: You bet! Go right ahead!
 Nene: Oh, you two...
 Nene: Um... Really, thank you for all your support.
 Nene: Knowing you're all watching over me truly does help me keep going.
@@ -43,11 +43,11 @@ Nene: Here we go... Starry sky melody.
 
 3 [mc_timeline] mc_bd_2025nene_2
 
-(Enter: MEIKO)
 (Enter: Emu)
-(Enter: Tsukasa)
+(Enter: MEIKO)
 (Enter: Nene)
 (Enter: Rui)
+(Enter: Tsukasa)
 Nene: Phew...thank you.
 MEIKO: Hehe, it looks like everyone had a good time!
 Emu: Wooow! So many smiles here and there and everywhere!
@@ -64,6 +64,6 @@ Nene: We're going to keep on growing together, and bring smiles to more and more
 Nene: I hope you'll come see our performance again soon.
 Nene: Thank you. Alright, see you next time.
 Tsukasa: Let's meet again!
-MEIKO: See you soon!
 Emu: See you soon!
+MEIKO: See you soon!
 Rui: See you soon!

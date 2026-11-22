@@ -2,9 +2,9 @@
 
 1 [mc_timeline] mc_ev_street_20_1
 
-(Enter: Len)
-(Enter: Toya)
 (Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
 Len: Oh, then how about the sound eating a hamburger makes?
 Toya: I see. That certainly could be interesting.
 (Enter: An)
@@ -61,10 +61,10 @@ Toya: Then, let's begin. HAVEN.
 3 [mc_timeline] mc_ev_street_20_2
 
 (Enter: Kohane)
-(Enter: Len)
-(Enter: Toya)
-(Enter: Akito)
 (Enter: An)
+(Enter: Akito)
+(Enter: Toya)
+(Enter: Len)
 Toya: Music is endlessly free, and boundless. However, we're all searching for the same thing.
 Toya: Those are the feelings I put into this song. Did they come across to you all?
 Len: They super did!
