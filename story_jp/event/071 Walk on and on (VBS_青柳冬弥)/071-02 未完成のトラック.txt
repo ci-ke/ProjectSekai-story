@@ -39,7 +39,7 @@
 彰人: ……だから、未完成なのか
 新: ——でも、いい曲だったでしょ？ みんなに聴いてもらえて嬉しいよ
 冬弥: （……本当に、良いトラックだった。 颯真さんは、あんな曲を作れたのか……）
-(Black cut)
+(Black transition)
 (Background change)
 杏: うーん、疲れたね～！
 こはね: 杏ちゃん、朝から思いっきり歌ってたもんね
@@ -70,7 +70,7 @@
 こはね: ありがとう、私も頑張るよ！
 冬弥: （……俺も、いつまでも迷っているわけにはいかないな）
 冬弥: （今は、俺にできることをやろう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -86,21 +86,17 @@
 冬弥: それにしても—— いつもの練習場所が工事中だったのは想定外だったが、 馴染みのない場所での練習は新鮮だったな
 冬弥: たまにはこういう練習も、刺激になっていいかもしれない
 冬弥: ……ん？ そういえば、この辺りは颯真さんの病院が近かったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 新: 冬弥くんならいい話相手になってくれそうだし、 いつでもいいから、また行ってやってくれないかな？
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 颯真さんも次のイベントの話を 聞きたがっていたし——話しに行こう
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -170,4 +166,4 @@
 颯真: …………まさか、サンプリングを教えることになるなんてな
 颯真: ……でも、青柳くんに教えることで 新の役に立つことにつながるだろうし
 颯真: オレは、今のオレにできることをやるしかないんだ
-(Black cut)
+(Black transition)

@@ -14,7 +14,7 @@ Gacha phrase: 焼きたてのパンケーキも食べていってね
 こはね・杏: 『♪————！！』
 彰人・冬弥: 『♪————！！』
 彰人: ♪————————っ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -24,13 +24,13 @@ Gacha phrase: 焼きたてのパンケーキも食べていってね
 KAITO: 『うん。でもそれだけじゃない。 もっともっと高いところに、みんなを引き上げようとしてる』
 レン: 『もっと、高いところ？』
 KAITO: 『そうだよ。 彰人くん達が目指すのは“伝説の夜”だからね』
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ♪————————っ！！
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: 『…………』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -41,18 +41,14 @@ KAITO: 『…………』
 KAITO: あはは。ボクのアドバイスが効いたのかな～？
 ミク (VBS): はいはい。そうかもね
 KAITO: あれ！？　軽いなぁ。 ボク、結構いいアドバイスしたんだよ？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: いい材料をそろえただけじゃ、 美味しいパンケーキはできないって思うんだ
 KAITO: ふわふわのパンケーキを作るためには、 材料をよく混ぜて、いい感じに焼かないとね
 KAITO: イベントも同じで、お互いがちゃーんと混ざって ——理解しあうことで、 初めていいイベントになるんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): へえ。いつの間にか そんなアドバイスをしてたんだ
 MEIKO: ええ、全然気づかなかったわ。 イベントの準備でバタバタしちゃってたから……
@@ -97,7 +93,7 @@ KAITO: そうと決まれば、うっかり者のみんなでカフェに戻ろ�
 レン: はいはい。うっかり者はカイトだけだからね！
 リン・ルカ: 『そうだそうだー！』
 KAITO: あははっ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -141,7 +137,7 @@ KAITO: だからボク達も、全力で高め合ってみたいんだ。 彰人
 冬弥: ああ、もちろんだ
 杏: 私達も！
 彰人: よし！　いくぞ！
-(Black cut)
+(Black transition)
 KAITO: はあー！　イベント、最高だったね！
 レン: うん！　『そっちもやるじゃん、けど負けないぞ』って どんどん熱くなってったよね！
 リン: そうそう！　あそこまで夢中になって歌ったの すっごく久しぶりかも！？
@@ -176,4 +172,4 @@ KAITO: はいはい、了解！ ミクとメイコはどうする？
 MEIKO: 私はフルーツをたっぷりのせてもらおうかしら？
 レン: あ、いいなー！　オレもオレもー！
 KAITO: オーケー！　他のみんなも、 リクエスト言うなら今のうちだよー！
-(Black cut)
+(Black transition)

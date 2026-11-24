@@ -19,15 +19,11 @@ Gacha phrase: ……最後はやっぱり、こいつが残るんだ
 謙: ……こうして一息つくってんなら、本当はコーヒーでも いれてやれりゃいいんだが、水しかなくて悪いな
 彰人: いや……十分ありがたいです
 彰人: （謙さんのコーヒー、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……前はここで飯食って、コーヒー飲んで、 それからイベントの打ち上げなんかもやったりして……）
 謙: ……彰人？ ぼーっとしてどうかしたか
@@ -38,10 +34,8 @@ Gacha phrase: ……最後はやっぱり、こいつが残るんだ
 彰人: ……まあ、はい。RADderのKENが店開くなんて、 開店前から街中の噂になってたんで
 謙: ——ふ、懐かしいな
 彰人: ……そうですね。 たしか、あの日は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -66,10 +60,8 @@ Gacha phrase: ……最後はやっぱり、こいつが残るんだ
 中学生の彰人 (彰人): え！？　いいんですか？
 謙: もちろんだ。 決まったら、声かけてくれ
 中学生の彰人 (彰人): は、はい！ ありがとうございます！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: あの時のお前は面白かったぞ。 緊張しすぎてカチコチで、聞いてた噂とまるで別人だったからな
 彰人: ちょ、なんすかそれ……！ おもしろがんないでくださいよ！
@@ -82,7 +74,7 @@ Gacha phrase: ……最後はやっぱり、こいつが残るんだ
 謙: からかって悪かったな、彰人
 謙: 詫びってわけでもないが—— 全部が済んで店再開したら、また１杯飲んでくれ
 彰人: ……はい！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -111,15 +103,11 @@ Gacha phrase: ……最後はやっぱり、こいつが残るんだ
 彰人: え？
 洸太郎の友人: お前の歌のおかげで、三田がまたやる気になっただろ。 それが本当に嬉しいんだ
 洸太郎の友人: お前らが大河さんに負けたって話が流れ始めた頃だったかな。 あいつ、そりゃもうひでえ有様で……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あの時のあいつは……酷い顔してたな）
 洸太郎の友人: あいつほど歌えるやつが、 歌やめちまうなんてもったいないだろ？
@@ -137,4 +125,4 @@ Gacha phrase: ……最後はやっぱり、こいつが残るんだ
 洸太郎の友人: ……お前ら、頑張れよ！ RAD WEEKEND超え、見せてくれ！
 彰人: ああ！　任せろ
 彰人: 盛大に期待しとけ。 RAD WEEKENDを超えんのは、オレ達だ！
-(Black cut)
+(Black transition)

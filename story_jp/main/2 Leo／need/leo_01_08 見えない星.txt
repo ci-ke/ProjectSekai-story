@@ -14,33 +14,29 @@ leo_01_08 見えない星
 一歌: うん。また明日
 一歌: （咲希といると、昔に戻ったみたいで楽しいな。 ……でも）
 一歌: （……咲希に、どう言えばいいんだろう。私達のこと）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 一歌: 志歩、一緒にお昼食べよう。 今日は穂波も時間あるから３人で……
 一歌: （中学２年の時――志歩や穂波とクラスが離れ離れになって。 休み時間のたびに志歩達のクラスに行ってたけど……）
 志歩: 話しかけないで
 一歌: え……？
 志歩: これから昼は、ベースの練習したいからひとりで食べる。 もう来ないで
 一歌: し、志歩？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: （志歩は急に私達から離れていって……。 どんどん距離が開いていった）
 一歌: （……理由を聞いても、 ひとりでいたいってことしか言ってくれなかった……）
 一歌: （それに、穂波は――）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000010/bg_a000010.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000010/bg_a000010.webp)
 穂波: あ……！
 一歌: 穂波……？
 一歌: えっと……あ、それって、アップルパイ？ ていうかもしかして、その袋全部アップルパイ……？
 穂波: あ……え、えっと……その……！
 穂波: ……うん……。 は、恥ずかしいから、みんなには言わないでね……
-(White cut)
+(White transition)
 (Background change)
 一歌: アップルパイ、昔もよく買ってたけど、 今も好きなんだね
 穂波: ……うん。ここの美味しくて……
@@ -53,7 +49,7 @@ leo_01_08 見えない星
 一歌: ……そう、だよね
 穂波: あ……ご、ごめんね。 わたし買い物の途中だから、もう行くね
 一歌: あ……うん。 またね、穂波
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -63,26 +59,24 @@ leo_01_08 見えない星
 穂波: …………
 穂波: 星……今日はあんまり見えないな
 穂波: （隣にみんながいないから……なのかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [一歌の部屋]
 
 一歌: ……穂波
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 一歌: （あっ。５限数学なのに教科書忘れちゃった）
 一歌: （そうだ、穂波に貸してもらおう……あれ？）
-(Black cut)
+(Black transition)
 (Background change)
 穂波: …………
-(Black cut)
+(Black transition)
 (Background change)
 一歌: （穂波が、ひとりでお昼食べてる……？ いつもクラスの友達と一緒なのに）
-(Black cut)
+(Black transition)
 (Background change)
 かつてのクラスメイトA: ねえねえ、今日の放課後カラオケ行かない？ いつものメンバーで
 かつてのクラスメイトB: いつものって……あの子は呼ばないよね？
@@ -101,13 +95,11 @@ leo_01_08 見えない星
 穂波: ……あ、ごめんね。ちょっと考えごとしてて。 そろそろチャイム鳴っちゃうよ。 はい、数学の教科書
 一歌: でも、穂波……
 穂波: 大丈夫。心配しないで
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: （それから、大丈夫かって話しかけても、 穂波は逃げるみたいに離れていって……）
 一歌: （あれって、やっぱり……）
 一歌: …………
 一歌: あの時私が何かできてたら、 こんな風にはなってなかったのかな……
-(Black cut)
+(Black transition)

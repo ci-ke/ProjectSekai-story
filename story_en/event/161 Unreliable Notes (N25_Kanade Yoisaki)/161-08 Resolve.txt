@@ -5,22 +5,18 @@
 [Neighborhood]
 
 Mafuyu's Father: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu's Father: (Ms. Yoisaki has been so good to Mafuyu...)
 Mafuyu's Father: (On top of letting Mafuyu stay at her house, Ms. Yoisaki's been going so far to make her smile...)
 Mafuyu's Father: (And Mafuyu's been willing to talk a little more recently...)
 Mafuyu's Father: (It's been a slow process...)
 Mafuyu's Father: (But I hope this leads to the both of them talking soon.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -38,7 +34,7 @@ Mafuyu's Father: I see...
 Mafuyu's Father: The scarf you made looks very warm. I'm sure she's going to love it.
 Mafuyu's Mother: ...
 Mafuyu's Father: So, this is just an idea...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -55,7 +51,7 @@ Kanade: (Mafuyu's made up her mind...)
 Kanade: (That means I also have to push forward.)
 Kanade: (To learn more about her mom.)
 Kanade: Oh, be right there...!
-(Black cut)
+(Black transition)
 Mafuyu's Father: *Nod* You seem good again today. Any changes since we last met?
 Mafuyu: No news...
 Mafuyu's Father: Okay.
@@ -63,15 +59,11 @@ Mafuyu's Father: That reminds me. I have something for you, Mafuyu.
 Mafuyu: Huh...?
 Mafuyu's Father: It's from your mother.
 Mafuyu: Mom...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: A scarf...?
 Mafuyu's Father: Yes...
@@ -89,32 +81,24 @@ Mafuyu's Father: Of course, you don't have to if you're not comfortable. And you
 Mafuyu's Father: Whenever you feel ready...
 Mafuyu: ...
 Mafuyu: (With Mom...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Hehe. My, aren't we full of demands today.
 Mafuyu's Mother: Of course, dear. Now, lie down for me, and take my hand...
-(White cut)
+(White transition)
 Mafuyu's Mother: But I'm sure you'll understand, Mafuyu.
 Mafuyu's Mother: Because you're such a good, kind girl who I know will do the right thing.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I'm still scared...)
 Mafuyu: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I also need to start moving forward...)
 Mafuyu: (Kanade's making such a sincere effort to know.)
@@ -146,4 +130,4 @@ Kanade: (This is going to be a crucial conversation for Mafuyu. So, I want to be
 Kanade: (Also, this isn't quite how I was expecting to learn more about Mafuyu's mom, but this is going to be my chance.)
 Kanade: (I have to do whatever I can.)
 Kanade: (To save Mafuyu.)
-(Black cut)
+(Black transition)

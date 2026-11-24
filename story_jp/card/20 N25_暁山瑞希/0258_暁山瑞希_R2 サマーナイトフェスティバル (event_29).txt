@@ -8,26 +8,22 @@ Skill name: 諦めない強さを
 
 [瑞希の部屋]
 
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 絵名: えいっ……！ あ、外れた……！　もう、全然当たんない……！！
 瑞希: あはは、絵名ってば下手くそ〜
-(White cut)
+(White transition)
 瑞希: うわ、一番難易度高い景品まで当ててる！ まふゆ、もしかしてこういうの得意なの？
 まふゆ: ううん、射的は初めて。 でも狙って撃つだけだから、簡単だったよ
 絵名: ちょっと、それって私への当てつけ？
-(White cut)
+(White transition)
 奏: う……引き金を引くのも結構力がいるんだね……。 全然当たらないし、持ってるだけで重いし、疲れてきた……
-(White cut)
+(White transition)
 愛莉: ねえ、せっかく会ったんだし、 みんなで一緒にお祭りまわらない？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: …………
 瑞希: （あの瞬間は、ちゃんと楽しめてたのに）
 瑞希: （どうしてこんなに、 胸に穴があいたみたいな気持ちになってるんだろう）
@@ -40,7 +36,7 @@ Skill name: 諦めない強さを
 瑞希: はぁ……
 瑞希: （勉強なんてしたって……）
 瑞希: （どうせ、家にいたってつまんないし……。 気がまぎれるならもうなんでもいっか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -50,7 +46,7 @@ Skill name: 諦めない強さを
 瑞希: んふぁ……
 瑞希: （ちゃんと補習に間にあうように出てきたけど、 やっぱめんどくさいなぁ）
 瑞希: そーだ。ちょっとだけ寄り道しちゃおーっと
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -68,35 +64,27 @@ Skill name: 諦めない強さを
 瑞希: え、朝練？ こんなに朝早くから！？
 冬弥: ……？　ああ。朝練、だからな
 瑞希: いや、まあそうなんだけど……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: こんなに朝早くから練習するくらい、 歌、好きなんだね
 冬弥: ああ
 瑞希: あ……
 瑞希: （たまにしか学校行かないから、 全然話せてなかったけど……）
 瑞希: （冬弥くんって、こんなにちゃんと笑えるんだ）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 冬弥: 彰人は知っているだろうが……。 俺は小さい頃から、父親にクラシックの英才教育を施されていた
 冬弥: だが、父親の指導はとても厳しくて……
 冬弥: 平日は朝早く起きて練習。学校から帰るとまた寝るまで練習。 休日になると朝から晩までピアノとバイオリンを弾いていた
 冬弥: 俺は、中学に上がる頃、とうとうその生活に耐えられなくなって、 逃げだしたいと思うようになったんだ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: （昔の冬弥くんのことは全然わからないけど……）
 瑞希: そっか！
 瑞希: 好きなことができるって、いいよね！
@@ -116,18 +104,14 @@ Skill name: 諦めない強さを
 瑞希: すごいね、冬弥くん
 瑞希: （ケンカばっかりで、 絶対めちゃくちゃ険悪だったはずなのに、 そんなお父さんと、ちゃんと話しあったってことだよね）
 瑞希: （自分が好きなことを、 ちゃんとわかってほしくて、諦めずに……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 絵名: 描いてみるよ。 ……うまく描けるか、わかんないけどね
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: （『諦めない』って、強いな……）
 冬弥: ……暁山？
 瑞希: ……！　あ、うん、何？
@@ -141,7 +125,7 @@ Skill name: 諦めない強さを
 冬弥: あ、そうだったな。 引き留めて悪かった
 瑞希: ううん。いろいろ聞いちゃったのはボクのほうだから。 それじゃ、またね！
 冬弥: ああ
-(Black cut)
+(Black transition)
 瑞希: （最後の誤魔化しかた、だいぶ雑だったなぁ。 冬弥くん、気にしてないといいけど……）
 瑞希: （ていうか、そもそも好きなことなんて、 つまり趣味の話なんだし、服のアレンジとか、 適当にお茶濁せたのに……）
 瑞希: （……ううん、冬弥くん相手じゃムリか）
@@ -149,7 +133,7 @@ Skill name: 諦めない強さを
 瑞希: （だから……隠したり誤魔化したり、 したくなくなっちゃうんだよね）
 瑞希: はぁ～……
 瑞希: よし、切り替え切り替え！ とりあえず、学校行かなくっちゃ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -163,16 +147,16 @@ Skill name: 諦めない強さを
 瑞希: どっかその辺のカフェでおいしいスイーツでも……
 ？？？: ——♪　——♪
 瑞希: え……この声、冬弥くん？
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: ——！　——！
 瑞希: あ……もしかしなくても、歌の練習中っぽいな
 瑞希: ていうか、朝も練習したって言ってたのに、 また練習？
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 本当に……歌が好きで、真剣なんだね
 瑞希: 邪魔したくないし、勉強のし過ぎで疲れてるし、 帰ろ、帰ろ～
-(Black cut)
+(Black transition)
 瑞希: えっ！
 彰人: あ……。暁山？
 瑞希: や、やっほー、弟くん！
@@ -221,17 +205,13 @@ Skill name: 諦めない強さを
 彰人: お前も、迷惑かけられてる分、 思いっきり迷惑かけ返すみたいなことしたほうがいいぞ
 瑞希: あはは……
 瑞希: （……って、あれ？ なんか似たようなこと前にも言われたような……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 愛莉: 瑞希も困った時は、絵名を頼るといいんじゃないかしら。 あの子はきっと、瑞希を助けてくれるから
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: （そうだ、あの時の……）
 彰人: 暁山？　聞いてんのか？
 瑞希: うん、聞いてる聞いてる
@@ -242,9 +222,9 @@ Skill name: 諦めない強さを
 瑞希: それより、練習行かなくていいの？
 彰人: ん？　ああ、そうだな
 瑞希: じゃ、ボクはこのへんで！ ばいば～い♪
-(Black cut)
+(Black transition)
 瑞希: あ……メッセージ、絵名から？
 瑞希: ……『新作リップ買いに行くんだけど 一緒に行かない？』か
 瑞希: …………
 瑞希: ほんと、絵名って放っておいてくれないんだよね
-(Black cut)
+(Black transition)

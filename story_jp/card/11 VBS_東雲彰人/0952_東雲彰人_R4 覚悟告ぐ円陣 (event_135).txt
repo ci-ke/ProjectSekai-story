@@ -27,17 +27,13 @@ Gacha phrase: ……よし。全員手は出したな
 冬弥: ああ。この期待に応えなければと、気合いが入るな
 彰人: （それに、この感じ……）
 彰人: （まるで、あの時みてえな——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の彰人 (彰人): （……ここが会場か）
 中学生の彰人 (彰人): （結構、常連が多いみたいだな。 アウェイ感あるっつーか……なんか居心地悪いな）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ——彰人？ 突然黙り込んで、どうしたんだ
 彰人: ああ……べつに大したことじゃないんだが
@@ -58,7 +54,7 @@ Gacha phrase: ……よし。全員手は出したな
 冬弥: ああ
 彰人: 今日の遠征は、どんな相手でも負ける気がしねえ
 彰人: 絶対に勝つぞ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -96,17 +92,13 @@ Gacha phrase: ……よし。全員手は出したな
 彰人: おい、あんま押すんじゃ——
 彰人: ……ん？
 彰人: （……？　あいつ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 新: ……うん。 俺も、受け入れてもらえて嬉しいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: ——あの、謙さん。 ちょっと頼みがあるんすけど……
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -140,4 +132,4 @@ Gacha phrase: ……よし。全員手は出したな
 こはね: だから私達も、みんなのところに戻ろう
 彰人: ……なんだそりゃ
 彰人: ——せっかく作ってくれたんだし、食いに行くか
-(Black cut)
+(Black transition)

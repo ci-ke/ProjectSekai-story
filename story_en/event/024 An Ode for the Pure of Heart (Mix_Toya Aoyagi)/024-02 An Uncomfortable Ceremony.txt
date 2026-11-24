@@ -9,7 +9,7 @@ Hall Staff: Ah, I received a call about you just a little while ago. Everyone el
 Hall Staff: Your costume should be ready too. Please head in that direction once you've changed.
 Toya: Uh, yes. Thank you.
 Toya: (They even have a costume for me. It's probably standard procedure, but everything seems so well put together.)
-(Black cut)
+(Black transition)
 Toya: (I'm glad I was able to choose something that fit...)
 Toya: (But there's twenty of us. I'm really not sure what I should be doing...)
 Toya: (I have to think that something important is happening considering how many of us there are.)
@@ -69,7 +69,7 @@ Hall Staff: But the ceremony starts in three hours and there's no way we'll be a
 Hall Staff: At this rate, we'll have to cancel everything and I was about to tell the bride...
 Hall Staff: I'm so sorry. Please, just give us some time...
 Toya: ...
-(Black cut)
+(Black transition)
 Extras: So everything's gonna be cancelled?
 Extras: That's too bad, but we don't really have a choice. We can't do much without a director.
 Toya: Um...
@@ -77,12 +77,12 @@ Toya: Isn't there anything we can do on our own? Or is there anyone here that co
 Condescending Extra: You serious? Directing isn't easy, kid. Especially when this many people are involved...
 Condescending Extra: This won't get off the ground unless you have everything sorted from start to finish. Think about it a little.
 Toya: Yes, I see... Please excuse my ignorance.
-(Black cut)
+(Black transition)
 Len: <Wow! This is amazing! So this is what a wedding hall is like? It's so beautiful!>
 Rui: Yes, it is. The venue itself is designed to be naturally photogenic and quite a sight to behold, no? 
 Rui: Hm? Oh, is that...? Len, would you mind hiding for a moment?
 Len: <Yeah, no problem!>
-(Black cut)
+(Black transition)
 Toya: (*Sigh*... I managed to get out of there...)
 Toya: (Is everything actually going to be cancelled just like that?)
 Toya: If only Tsukasa were here. He might've been able to do something about this...
@@ -91,4 +91,4 @@ Rui's Voice (Rui): Very nice. I can see it already...
 Toya: This voice...
 Rui: Hello. How is your first show going, Aoyagi?
 Toya: Kamishiro...?
-(Black cut)
+(Black transition)

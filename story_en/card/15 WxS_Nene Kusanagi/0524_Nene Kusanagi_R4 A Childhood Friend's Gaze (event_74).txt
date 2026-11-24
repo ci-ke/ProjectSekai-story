@@ -16,10 +16,8 @@ Nene: Really? All I need are lemons and honey...? I shouldn't have any trouble m
 Nene: And I'll need a lidded jar to keep them in... Okay, I can grab one while I buy the other stuff.
 Nene: (It's a really simple recipe, so it should turn out pretty well... Right?)
 Nene: (And I hope we get to talk more next time.) 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: Okay, why don't we take a break here?
 Asahi: Sounds good. Everyone, let's all take a quick break!
@@ -51,16 +49,14 @@ Nene: (I should thank her...)
 Emu: Nene, this herbal tea's so yummy!
 Nene: Yeah, and she said it's good for your throat...
 Nene: (I really want to talk with everybody from ArcLand about this herbal tea, singing and how to rest and recover after practice.) 
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: (I had a few chances to talk to them after that, but we usually only ever discussed practice...)
 Nene: (*Sigh* I had so many chances to ask them about other stuff too...)
 Nene: (But next time's my chance...! I mean, that's why I'm making these honeyed lemons!)
 Nene: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -100,7 +96,7 @@ Nene: Yeah... Thanks, Emu. You gave me the push I needed.
 Emu: I was just wondering what you wanted to do, Nene. That's all.
 Nene: But you gave me the courage to speak up. So, thanks...
 Emu: You're super welcome♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,7 +117,7 @@ Nene: “You seem like a pain, robot...”
 Rui: Okay, stop there. Nene, let's try that scene again with Asahi in Tsukasa's place.
 Nene: Oh, okay. Let's do our best.
 Asahi: Yes, let's.
-(Black cut)
+(Black transition)
 Rui: Alright, let's take a short break.
 Nene: Interesting...
 Nene: (Asahi and Tsukasa interpret that scene so differently from one another.)
@@ -148,7 +144,7 @@ Rui: Nene, you seem concerned. Is something wrong?
 Nene: Oh, Rui, Asahi. There's something I want to ask you... Wait, where's Tsukasa?
 Asahi: He's talking to my castmates about the next scene.
 Nene: Oh, okay... For now, I'll ask you two...
-(Black cut)
+(Black transition)
 Rui: I see... You're worried that you could be doing a better job of interacting with Tsukasa and Asahi as they play Bartlett...
 Asahi: Really? I thought you were doing just fine.
 Rui: But you believe you could be doing better... Right, Nene?
@@ -181,4 +177,4 @@ Nene: (Asking is easy, and even though it's not like I did until now... Being mo
 Nene: Rui, Asahi, thank you both for taking the time to answer my question.
 Emu: Thank you very much!
 Rui & Asahi: You're welcome.
-(Black cut)
+(Black transition)

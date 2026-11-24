@@ -12,22 +12,18 @@ Gacha phrase: Maybe I can compose a song that saves someone.
 Kanade: Hmm... My stomach won't stop grumbling. I was so close to figuring out what I want to do for our next song too...
 Kanade: Oh, I almost forgot... Ms. Mochizuki made me some extra food that I just need to heat up.
 Kanade: I can keep working while I eat that.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: (She cooks, cleans, brews tea and brings flowers for me... It almost feels like I'm being waited on hand and foot...)
 Kanade: (She's even been saying that it's all a part of her job, and she's technically right...)
 Kanade: But I want to show her my appreciation somehow.
 Kanade: Oh, I know.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -42,7 +38,7 @@ Honami: I'm glad you liked it so much! That means I'll have to find a way to mak
 Kanade: Thank you. Oh, I also have another request...
 Honami: Yes, how can I help you?
 Kanade: Um... If you don't mind, could you brew the tea a little later than usual?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Kanade's Room)
 Kanade: (Oh, that must be the stew. It smells so nice...)
@@ -50,7 +46,7 @@ Kanade: (As excited as I am about her stew, I'm worried about what comes after t
 Kanade: (I should probably review what I need to do...)
 Honami's Voice (Honami): Ms. Yoisaki, your food's ready.
 Kanade: O-Oh, okay. I'll be right there.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Yoisaki Household - Kitchen)
 Kanade: That was delicious...
@@ -84,7 +80,7 @@ Kanade: Hot...!
 Honami: A-Are you okay?!
 Kanade: Yes, I was caught a little off guard when some boiled over.
 Kanade: All that's left is to pour it into the pot and wait for it to steep.
-(Black cut)
+(Black transition)
 Kanade: Now to serve them with the cups and...
 Kanade: Huh...? This looks darker compared to when you make this, Ms. Mochizuki... 
 Honami: (J-Just as I feared...)
@@ -93,7 +89,7 @@ Honami: M-Ms. Yoisaki! Why don't we have some milk tea this time?
 Kanade: Huh?
 Honami: Earl Grey and milk go very well together, so I recommend using that instead of hot water.
 Kanade: I see. Thank you. I'll do just that.
-(Black cut)
+(Black transition)
 Kanade: Phew... Here you are, Ms. Mochizuki.
 Honami: Oh, that smells nice. Without further ado...
 Kanade: Yes, let's have a taste.
@@ -109,7 +105,7 @@ Kanade: You're welcome.
 Kanade: And again, Ms. Mochizuki...
 Kanade: Thank you for always making such incredible food for me. I'm really looking forward to having more.
 Honami: Yes, of course! I'll be looking forward to that as well.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -127,7 +123,7 @@ Mafuyu: Noodles again?
 Kanade: Yes, because they're good and easy to eat. What are you going to get, Mafuyu?
 Mafuyu: I think I'll look for something light...
 Kanade: Sure, look as much as you like.
-(Black cut)
+(Black transition)
 Mizuki: Alright, all our drinks are here!
 Mizuki: Here's to another job well done! Cheers!
 Kanade, Mafuyu & Ena: Cheers.
@@ -141,33 +137,25 @@ Mafuyu: You were smiling just now.
 Kanade: Oh... Just a passing thought...
 Kanade: I was reminiscing a little about how we started out not knowing each others' names or faces, and comparing that to how meeting in real life like this has become a regular occurrence.
 Kanade: (In hindsight, a lot really has changed...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 <Yuki> (Mafuyu): <Nice to meet you. I'm Yuki...>
 Kanade: <Oh...>
 Kanade: <It's nice to meet you too, Ms. Yuki... I'm K...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (That day, I met “Yuki” for the first time, and we started making music together...)
 Kanade: (After that, “Enanan” and “Amia” joined us...)
 Kanade: (Back then, we could talk to each other through Nightcord, and we didn't seem to mind not being able to put names to faces.)
 Kanade: (That might've been because...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: Be honest, K, Enanan, Amia... You all want to disappear more than anyone.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Mafuyu was probably right. I think we did want to disappear somehow.)
 Kanade: (And yet, we were able to clearly communicate with one another without knowing each others' names and faces...)
@@ -198,4 +186,4 @@ Kanade: I know. I haven't forgotten our promise.
 Kanade: I'm looking forward to doing more with all of you.
 Mizuki & Ena: Same!
 Mafuyu: Same.
-(Black cut)
+(Black transition)

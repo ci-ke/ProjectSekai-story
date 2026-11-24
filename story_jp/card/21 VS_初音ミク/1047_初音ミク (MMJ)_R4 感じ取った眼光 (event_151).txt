@@ -28,7 +28,7 @@ Gacha phrase: この雫ちゃんも、雫ちゃんだよ
 ミク (MMJ): 『うん、バイバイ！』
 ミク (MMJ): （……みんな、雫ちゃんのことを信じて、 見守ってるんだ）
 ミク (MMJ): （だったら、わたしも——）
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -57,7 +57,7 @@ Gacha phrase: この雫ちゃんも、雫ちゃんだよ
 雫: 本当に——嬉しいわ
 ミク (MMJ): （大丈夫だよ、雫ちゃん）
 ミク (MMJ): （雫ちゃんには、みんながついてるからね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -68,22 +68,18 @@ Gacha phrase: この雫ちゃんも、雫ちゃんだよ
 
 ミク (MMJ): ふぅ……今日の練習、いい感じだったな♪
 ミク (MMJ): やっぱり、雫ちゃんの体の動きを 参考にしてみたのがよかったのかな？
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000387/bg_s000387.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000387/bg_s000387.webp)
+(White transition)
+(Flashback out)
 (Background change)
 ミク (MMJ): （撮影の時の雫ちゃん……すごかったな）
 ミク (MMJ): （……過去の自分と向き合って、 一生懸命、練習に打ち込んでた）
 ミク (MMJ): （CMの撮影もうまくいったみたいだし…… 雫ちゃんの努力が報われて、本当によかったな）
 ミク (MMJ): あ……そういえば、今日は雫ちゃん達と むこうで会う約束をしてるんだった
 ミク (MMJ): そろそろ行ってみようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -112,7 +108,7 @@ Gacha phrase: この雫ちゃんも、雫ちゃんだよ
 ミク (MMJ): 『そっか……じゃあ、お言葉に甘えさせてもらおうかな！』
 遥: うん。他にもいろんな和菓子があるから、 一緒に選んでもらっていいかな？
 ミク (MMJ): 『まかせて！ リンちゃん達にも喜んでもらえるように、がんばるね♪』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ　花畑]
@@ -134,7 +130,7 @@ KAITO (MMJ): 素敵なお土産を買ってくれたみんなにも、 あとで
 MEIKO (MMJ): ふふっ、ありがとう！ とっても嬉しいわ
 ミク (MMJ): レンくんとカイトくんの分もあるからね！ 一生懸命選んだから、喜んでもらえるといいな
 KAITO (MMJ): 僕達のために素敵なお土産を選んでくれてありがとう。 じゃあ、さっそくいただこうか
-(Black cut)
+(Black transition)
 KAITO (MMJ): それにしても——
 KAITO (MMJ): 雫ちゃんの撮影が成功して、本当によかったね
 ミク (MMJ): 見せてもらったCMも、本当に素敵だったもんね！
@@ -143,17 +139,13 @@ KAITO (MMJ): ……ミクちゃんは、特に嬉しかったんじゃないか�
 MEIKO (MMJ): ミク、よく雫ちゃんが練習してるところを見に行ってたものね
 ミク (MMJ): あっ……うん
 ミク (MMJ): そうだね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: ……悪くないわ。 でも、もっと——
 ミク (MMJ): …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (MMJ): （練習を重ねるたびに、 雫ちゃんの輝きがどんどん増していって……）
 ミク (MMJ): （あの時は、どこまでいくんだろうってすごくワクワクしたな）
@@ -166,4 +158,4 @@ KAITO (MMJ): えっ？　それは……嬉しいけど、ちょっと照れく�
 ミク (MMJ): ふふっ
 ミク (MMJ): （わたしも、今より素敵なアイドルになれるように——）
 ミク (MMJ): （もっともっと、自分を磨いていきたいな）
-(Black cut)
+(Black transition)

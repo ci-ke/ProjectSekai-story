@@ -33,32 +33,24 @@
 冬弥: はい。では、また
 (Background change)
 冬弥: 司先輩と咲希さんの家でパーティーか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……懐かしいな）
 冬弥: （……今でも思い出す。子供の頃、あの家に行くと なんだかとても、ほっとした）
 冬弥: （あの頃は、自分の家では、 気持ちが休まる暇がなかったからな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……今はもう、そんなことも少なくなってきたが……。 それでも、子供の頃はあの家に預けられるのを、 どこか心待ちにしていたものだった）
 冬弥: ……ふたりに会うのが、楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -74,20 +66,16 @@ MEIKO: ええ、リンのところにね。 歌の練習につきあうって約
 MEIKO: ああ、それなんだけど……。 実は今、お店をカイトとレンに貸し出してるの
 冬弥: 貸し出し？ どういうことでしょう
 MEIKO: それが、実はね……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: ねえ、メイコ！　 キッチン借りたいから、１日だけお店を使わせてくれない！？
 MEIKO: いいけど……キッチンだけなら、今からでも使っていいわよ
 レン: あ……その、それじゃあダメで……。 お店の中、他の誰も入らないようにしたいんだ。 貸し切りって感じで！
 MEIKO: あら、何に使うの？
 レン: そ、それはその……まだ秘密なんだ！ とにかく……お願い……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: ……ということがあったの
 冬弥: それは……不思議な話ですね。 何か、見られたくない物でもあるのでしょうか
@@ -101,4 +89,4 @@ MEIKO: ……けど、冬弥くんと彰人くんなら大丈夫じゃないか�
 MEIKO: きっと、行けばわかるわ。 ふふ、それじゃあ練習頑張ってね
 冬弥: メイコさん達には知られたくないこと、か
 冬弥: ……レンとカイトさんは、 一体何をしているんだ……？
-(Black cut)
+(Black transition)

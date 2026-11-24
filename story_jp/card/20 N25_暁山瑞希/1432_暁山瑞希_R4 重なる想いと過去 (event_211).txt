@@ -17,7 +17,7 @@ Gacha phrase: 先輩達の気持ち、わかるんだよね
 瑞希: （奏達が不思議なセカイで会ったのがミクで、 顔合わせにもミクを呼んだっていう流れでそうなったって）
 瑞希: （でもなあ……）
 瑞希: …………とりあえず、声かけるだけかけてみよっと
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -61,13 +61,13 @@ KAITO (N25): 期待するだけ無駄だぞ
 瑞希: 期待くらいしたっていいじゃんかー！
 瑞希: じゃあね、おやすみ……！
 KAITO (N25): ……相変わらず、うるさいやつだ
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: はあ……やっぱりダメだったなあ
 瑞希: いやでも、ものすご～～～い気まぐれを起こして、 来てくれる可能性だってきっと……
 瑞希: きっと……
 瑞希: ……本当にうちのカイトが来てくれなかったら、 他のセカイのカイトに慰めてもらおっと
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -91,16 +91,12 @@ KAITO (VBS): 『ひとり足りないけどね～』
 KAITO (WxS): 『それは……仕方がないと思うよ』
 KAITO (Ln): 『……ピクニック、来ると思えないし』
 瑞希: うん。一応、誘ったんだけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO (N25): ……木の異変はひとまず収まった。 あいつらにも用はないだろ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ——って、言われちゃった
 咲希: そっかー、残念……
@@ -140,4 +136,4 @@ KAITO (Ln): 『しいて言うならリン、かな……。 勢いで流され�
 瑞希: （ここにカイトがいてくれたら、言うことなしだったのに）
 瑞希: （ま、類も言ってたけど、チャンスはまだあるよね！）
 瑞希: （その時が来たら、次こそは連れてこなくっちゃ♪）
-(Black cut)
+(Black transition)

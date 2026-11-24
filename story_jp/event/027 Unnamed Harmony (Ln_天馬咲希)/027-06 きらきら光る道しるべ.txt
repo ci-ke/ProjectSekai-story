@@ -8,17 +8,13 @@
 
 咲希: ♪—————
 咲希: ……はぁ。これもダメだな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: やっぱり、音楽のことでも力になりたい。 自分ができることを増やしていきたいの
 咲希: だから、もうちょっとだけがんばらせて！ 体のことは、ちゃーんと気をつけるから！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （しほちゃんに、あんなこと言っちゃったけど……。 やっぱり今のアタシには難しいのかな……）
 リン: やっほー♪
@@ -35,8 +31,8 @@
 咲希: もちろんいいけど、えーっと……楽器は？
 リン: もちろん、サッキーと同じシンセで決まりでしょ！ じゃ、いっくよー☆
 咲希: う、うん！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000084/bg_a000084.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000084/bg_a000084.webp)
 リン: ……♪——
 咲希: ……あれ。リンちゃん、歌も歌ってる……？
 咲希: （もしかして、即興なのかな……？）
@@ -45,7 +41,7 @@
 咲希: （メロディーはしっちゃかめっちゃかだし、 突然転調するし、コード進行もばらばらなのに）
 咲希: （なのに、なんでだろう）
 咲希: （聴いてて楽しいな。 すっごくワクワクする……！）
-(White cut)
+(White transition)
 (Background change)
 リン: ——えへへっ。どうだった？　サッキー！
 咲希: すっごく良かったよ、リンちゃん！ とーっても楽しかった！
@@ -75,4 +71,4 @@
 リン: ほんと！？　よかったー！
 リン: サッキー、がんばって！ サッキーなら絶対、めっちゃイイ曲作れるよっ♪
 咲希: うんっ！！
-(Black cut)
+(Black transition)

@@ -21,7 +21,7 @@ Gacha phrase: アメリカに来て、よかったな
 こはね: （アメリカに着いたばっかりの時は…… ドキドキしてて、こんな風に景色を見てる余裕なかったな）
 こはね: （……でも、来てよかった。 大変なこともあったけど、楽しかったな）
 こはね: （SONIC NOTESが見られたのもだけど、 久しぶりに大河さんとも話ができたし——）
-(White cut)
+(White transition)
 (Background change)
 大河: ……ん？ どうしたんだ、嬢ちゃん
 こはね: ごちそうさまでしたって言いたくて……！ どの料理も、すっごく美味しかったです！
@@ -36,26 +36,18 @@ Gacha phrase: アメリカに来て、よかったな
 こはね: ……？　はい、なんでしょうか？
 大河: 俺は、あくまでスタートラインに立つ手伝いをしただけだ
 大河: 嬢ちゃんが今の実力を手に入れたのは、 謙の修行だとか——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: RUSTやGLaP dayの連中に揉まれながら、 必死で食らいついた結果だ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: ——要は、嬢ちゃんの努力の賜物ってことだな
 こはね: （あ……）
@@ -68,7 +60,7 @@ Gacha phrase: アメリカに来て、よかったな
 こはね: ……え……？
 こはね: えっと、それは……その……お父さんが、気を失っちゃうので……
 大河: はは、だろうな。さすがにうちのお袋も青筋立ててた。 ロクな相談もなしに決めてんじゃねえって、どやされたもんだ
-(White cut)
+(White transition)
 (Background change)
 こはね: （——やってみよう。 私なりに本気で、この道にぶつかってみるんだ！）
 こはね: （——うん。いい写真が撮れた。 やっぱりアメリカに来てすぐの時とは、ちょっと印象が違うな）
@@ -76,7 +68,7 @@ Gacha phrase: アメリカに来て、よかったな
 こはね: （またこの場所に来た時、 私はどんな風になってるんだろう）
 こはね: （今とは、違う気持ちになってたり、 今よりもっとうまくなってるかな？）
 こはね: （——もっと、成長しよう。 何倍も、何十倍も——！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,7 +98,7 @@ Gacha phrase: アメリカに来て、よかったな
 こはね: あ……！　そろそろ席につかないと
 一歌: それじゃ、またあとでね
 こはね: うん！
-(Black cut)
+(Black transition)
 
 [昼休み]
 
@@ -138,4 +130,4 @@ Gacha phrase: アメリカに来て、よかったな
 こはね: （朝はちょっと緊張してたけど…… こうやってみんなと話してると、 いつもの日常に戻ってきたって感じがする）
 こはね: （RUSH BEATSに出場したら、 また学校を休んだりもしなきゃいけないかもしれないけど……）
 こはね: （……こういう時間も、できるだけ大事にしていきたいな）
-(Black cut)
+(Black transition)

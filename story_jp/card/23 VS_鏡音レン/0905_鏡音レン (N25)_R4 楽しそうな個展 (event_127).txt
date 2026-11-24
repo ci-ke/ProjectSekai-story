@@ -13,16 +13,12 @@ Gacha phrase: 絵がいっぱいある……。すごいね
 
 ミク (N25): レン……すごくソワソワしてる……
 リン (N25): 絵名が個展の準備に行くって言ってたから…… 早く行きたいんじゃない
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: リンとレンも、当日は朝から準備してるし 適当に遊びに来てよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (N25): （絵名ちゃん、朝から準備するって言ってたけど……）
 レン (N25): （朝って何時だろう？ ……もう、行ってもいいかな……）
@@ -44,7 +40,7 @@ Gacha phrase: 絵がいっぱいある……。すごいね
 ミク (N25): 湖の絵を見てもらうんだっけ
 リン (N25): うん。……だから、わたしも描く
 レン (N25): そっか……。それじゃあ、一緒にやろう
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -68,15 +64,11 @@ Gacha phrase: 絵がいっぱいある……。すごいね
 リン (N25): 絵名のところ。 朝から行くって言ってたんだから、もう起きてると思う。 それに——
 リン (N25): 起きてなかったら、絵名が悪い
 レン (N25): じゃ、じゃあぼくも……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ミク (N25): ……絵名は多分、まだ起きてないと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 レン (N25): あ…………
 リン (N25): ……レン、行かないの？
 レン (N25): えっと……もし、本当に起きてなかったら 起こしちゃうの、かわいそうだなって……
@@ -88,7 +80,7 @@ Gacha phrase: 絵がいっぱいある……。すごいね
 レン (N25): ……わかった、行ってくるね……！
 レン (N25): （個展って、どんな感じなんだろう……）
 レン (N25): （たくさん絵が見られるの、楽しみだな……！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -113,15 +105,11 @@ Gacha phrase: 絵がいっぱいある……。すごいね
 リン (N25): ……わかんない
 レン (N25): …………難しいね……
 レン (N25): （こんなに難しいのに、絵名ちゃんは…… ずっと絵を描いてるんだ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (N25): 絵名ちゃん、すごいな……
 リン (N25): あ……誰か、来た？
@@ -157,4 +145,4 @@ Gacha phrase: 絵がいっぱいある……。すごいね
 レン (N25): ぼくも、ちょっとだけでも うまくなりたいなって……
 絵名: ……わかった。それじゃ、一緒に描こっか
 レン (N25): うん……！
-(Black cut)
+(Black transition)

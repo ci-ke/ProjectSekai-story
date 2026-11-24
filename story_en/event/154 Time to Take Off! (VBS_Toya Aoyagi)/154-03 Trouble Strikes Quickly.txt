@@ -41,7 +41,7 @@ Toya: We're too far away to hear what they're saying...
 An: Oh no! The manager put his hands on his head.
 Akito: I've got a bad feeling about this... Oh, here he comes.
 Manager: I'm so sorry, everyone... The thing is...
-(Black cut)
+(Black transition)
 Toya: We don't have a reservation?
 Manager: Yes, I'm incredibly sorry...
 Manager: Taiga said he'd book his favorite hotel, but he accidentally made a reservation for one month from now...
@@ -57,21 +57,17 @@ Toya: Taiga's event is happening soon.
 Toya: People from all over the world must be looking forward to seeing it. In other words, we're not alone, and finding a place to stay won't be easy.
 Toya: (The sun will be setting in a few hours... We should probably avoid wandering around after dark.)
 Toya: (But what do we do in this situation...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shuji: <I see... You let me know if you ever need anything.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: ...
 Toya: (He has his performance to worry about, so I'd rather not bother him.)
 Toya: (But...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -94,4 +90,4 @@ Kohane: The person coming to get us isn't your brother, is he?
 Toya: No, he's out of state for a performance at the moment.
 Toya: In his message, he said, “Someone I respect very much is coming to get you.”
 ???: “Ah, there you all are.”
-(Black cut)
+(Black transition)

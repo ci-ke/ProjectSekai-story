@@ -21,7 +21,7 @@ Gacha phrase: よしお前ら、紹介するぞ！！
 寧々: うわ……なんかさっきから ひとりでニヤニヤしてるヤツがいるんだけど
 類: 妹くん達が楽しそうで嬉しいんだろうねぇ
 えむ: うん！　この調子で、も～っと楽しんでもらわなくっちゃ☆
-(Black cut)
+(Black transition)
 穂波: ここが、司さんとえむちゃんが言ってた 笑顔で楽しめるっていうおばけ屋敷？
 えむ: うん！　すっごく楽しそうだよね♪
 司: （お……咲希は穂波と入るのか）
@@ -78,7 +78,7 @@ Gacha phrase: よしお前ら、紹介するぞ！！
 寧々: ちょっ、ちょっと司！？
 えむ: あ、ずるーい！　あたしも行くー！
 類: やれやれ。 妹くんに関しては思慮深いと言ったけど、 前言撤回するべきかな？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -90,35 +90,27 @@ Gacha phrase: よしお前ら、紹介するぞ！！
 司: 衣装に、台本……よし、忘れ物はないな！
 司: 今日も多くの観客が オレ達のショーを待っているに違いない！ 気合いを入れていかねばな！
 司: ……そういえば今日は、懐かしい夢を見たな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000003/bg_a000003.webp)
-
-(Memory cut-in)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000003/bg_a000003.webp)
+(Flashback in)
 幼い咲希 (咲希): お兄ちゃん、あの人、すっごくカッコいいね！ キラキラしてる！
 幼い司 (司): （咲希が笑ってる……！ こんなに笑ってるの、いつぶりだろう？）
 幼い司 (司): （ううん、咲希だけじゃない。父さんも母さんも、 あの主役の人が歌って踊るたびに、どんどん笑顔になって……。 まぶしくて、カッコいい……！）
 幼い咲希 (咲希): ……こんなに楽しいのに、終わっちゃうのさびしいな。 毎日ショーがみられたらいいのに
 幼い司 (司): 咲希……
 幼い司 (司): ……そうだ！　それなら――
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: （あれが、オレがスターを目指すきっかけになった日……）
 司: （あの日以来、よく咲希には即興劇を披露したり、 ミュージカルショーをマネして見せたりしたな……）
 司: （ん……考えてみると、 咲希にちゃんとしたステージでのショーを披露したのは 昨日が初めてか）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: （咲希も一歌達も、笑ってくれていたな……）
 司: フッ、あの日見たスターの姿に、 また一歩近づけた気がするな
 司: ま、オレが目指すのは世界一のスターだけどな！ フッフッフ……
@@ -128,7 +120,7 @@ Gacha phrase: よしお前ら、紹介するぞ！！
 咲希: ふふ、そっか！　それで、バイトに行く準備はできた？
 司: ん？　ああ、できているが……どうかしたのか？
 咲希: えへへ。アタシもバンドの練習に出かけるから、 途中まで一緒に行こうよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -166,4 +158,4 @@ Gacha phrase: よしお前ら、紹介するぞ！！
 咲希: でもお兄ちゃん達なら、できちゃうかもね
 司: ああ！　オレ達、ワンダーランズ×ショウタイムに 不可能はない！
 司: ハーハッハッハッハッ！
-(Black cut)
+(Black transition)

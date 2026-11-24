@@ -25,7 +25,7 @@ Miku (WxS): There are singing flowers everywhere around, right? Why don't we do 
 Miku (WxS): I'm gonna go ask them about this! KAITO, go ask around too and see if there's anyone else willing to take part in the show with us☆
 KAITO: Hey, wait, Miku!
 KAITO: Anyone else who may be willing to take part in the show with us, huh? In that case...
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: And that's why I'm here. Would all of you like to take part in our next show together?
 Plushie A: Yeah!
@@ -40,7 +40,7 @@ Plushie D: Is this a game?
 KAITO: Hey, you two. Would you like to be in the show too?
 Plushies: Yes!
 KAITO: Good! Then grab my arm and...
-(Black cut)
+(Black transition)
 KAITO: Huff... Huff...
 KAITO: I'm happy so many of you want to join the show, but... You guys are really starting to get heavy...
 KAITO: The stage is just ahead, though. I can do this!
@@ -63,7 +63,7 @@ Miku (WxS): I don't see why not☆
 KAITO: Okay then. Here goes! Huff!
 Plushies: Wow! So pretty!
 KAITO: A smile on everyone's face is the best kind of happiness.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -80,10 +80,8 @@ Emu: Can we?! I wanna see, I wanna see♪
 Nene: Yes, me too...
 KAITO: Both of you are here by yourselves today?
 Nene: All four of us came together, but...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (WxS): Heeey♪ Come join us in our show later☆
 Tsukasa: You're as random as always, but if you're saying that you need my star abilities, then...
@@ -96,10 +94,8 @@ Rui: No, wait. There has to be a good way to do this, Tsukasa! Let's think this 
 Tsukasa: And you're just hoping to get a kick out of this! Absolutely not!
 Rui: Oh dear, he ran away.
 Miku (WxS): Hahaha☆ Wait for meee♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: And then they all ran off somewhere together.
 Emu: That's so nice! I wanted to play chase with them too! I can't believe they just vanished while I was talking with the flowers.
@@ -130,4 +126,4 @@ Rui: I hope you can jump off the train successfully.
 Emu: Whoa! Good luck!
 Nene: KAITO... Don't you think you're giving him too much credit than he deserves?
 KAITO: Haha, maybe!
-(Black cut)
+(Black transition)

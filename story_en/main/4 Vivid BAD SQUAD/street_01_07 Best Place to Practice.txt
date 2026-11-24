@@ -10,7 +10,7 @@ Kohane: Yeah. It feels like I just woke up from a dream.
 Kohane: Oh, no! Look at the time! I need to get home!
 An: I guess it is pretty late. Thanks for hanging out. I'll message you later.
 Kohane: Okay, see you later!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kohane's Room]
@@ -24,7 +24,7 @@ Kohane: Oh, it's a message from An.
 An: <Kohane, are you free after school tomorrow? Want to come to Vivid Street to practice?>
 Kohane: <Sure, I'll be there.> Hehehe.
 Kohane: I'm so glad I worked up the courage to go.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -33,7 +33,7 @@ An: Kohane! Sorry to keep you waiting!
 Kohane: It's okay. I just got here.
 An: Let's head this way, then. I've got a special place I like to practice.
 Kohane: Sure!
-(Black cut)
+(Black transition)
 Clothing Store Manager: Oh, An! Rumor has it you finally found a singing partner.
 An: Hello! I sure did. We're gonna do our best!
 DJ: Hey there, An! I'm looking forward to the next event!
@@ -58,7 +58,7 @@ Passerby B: Wow, they're so in sync! They're pretty good, ay?
 Kohane: (Oh, but everyone seems like they're enjoying it. The crowd is starting to grow...)
 An & Kohane: ♪——!
 Kohane: (What is this feeling?)
-(Black cut)
+(Black transition)
 An: Nice job, Kohane. That was great considering it was your first time!
 Kohane: Thanks, An. I was really nervous, but it felt great when everyone started getting into it!
 An: Right? Everyone who comes to Vivid Street loves music, so they're always super supportive.
@@ -67,19 +67,15 @@ Kohane: ...For sure!
 An: Oh, that reminds me. I was thinking about what to call ourselves. I wanted to use the name of the street, so...
 Kohane: Uh huh, so...
 Toya: ...I remember when we were like that.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: Saying you're going to surpass RAD WEEKEND isn't something you can say half-heartedly.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Half-heartedly...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Live House]
@@ -95,4 +91,4 @@ Toya: Yeah...
 Akito: I'm counting on you tonight, bud.
 Toya: Akito, I...
 Toya: .....
-(Black cut)
+(Black transition)

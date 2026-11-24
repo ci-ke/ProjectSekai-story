@@ -16,7 +16,7 @@ Shiho: Let's see now, we turn here and...
 Shiho: Oh. I think that's the place.
 Shiho: Alright, let's go. Be careful not to be seen, okay?
 Miku (Ln): <Got it.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -72,12 +72,12 @@ Miku (Ln): <So it does. I think I'll listen in.>
 (Background change)
 An: Okay, here I go!
 An: ♪————! ——————!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000178/bg_s000178.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000178/bg_s000178.webp)
 Miku (Ln): (Wow, this girl's just like Shiho said. Her singing is so cool and powerful.)
 Miku (Ln): (And I think I can see how Ichika had so much to learn from her.)
 Miku (Ln): (Street music has a totally different kind of power from rock... This feels so new and exciting.)
-(White cut)
+(White transition)
 (Background change)
 An: ♪————~~~~!
 Customers: Way to go, An!
@@ -85,15 +85,11 @@ Customers: One more song!
 (Background change)
 Shiho: (The customers are so into it. I can tell how much they love her singing... There's a great atmosphere here.)
 Shiho: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: (It's not quite the same as that time.)
 Shiho: (I don't feel the same power that made my heart ache...)
@@ -105,43 +101,35 @@ Kohane: Thank you for waiting! Here are the flyer samples!
 Shiho: Oh, great. Thanks.
 Kohane: I drew up a few different samples based on my discussion with Honami. What do you think?
 Shiho: Wow, the overall feel changes a lot with just a tweak to the balance of the text. Which should we go for...?
-(Black cut)
+(Black transition)
 (Background change)
 An: Huff... Okay, it's time to wrap it up!
 Customer: Thanks An! You really got some pipes on you!
 An: Hehe, that's sweet of you!
 An: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (It's not enough... At this level, I'm still so far behind. I need to practice more.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (VBS): Since you want to be someone she can “respect and be proud of”, An, you want her to like and be excited by the way you sing.
 Miku (VBS): But...
 Akito: You're worried about not being able to do that if Kohane keeps improving at her current rate, right...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (I need to practice more, to sing more. Right now, that's...all I can do...)
-(Black cut)
+(Black transition)
 (Background change)
 An: See you later, Hinomori!
 Shiho: See you. And Kohane, thanks for all your help.
 Kohane: Of course! I'm glad to be of help. Good luck with your solo show!
-(Black cut)
+(Black transition)
 Shiho: It looks like the flyers will turn out well thanks to Kohane. And on top of that, I got to hear Shiraishi sing.
 Shiho: But...
 Miku (Ln): <Shiho, what's up?>
@@ -151,4 +139,4 @@ Shiho: Yeah. Her singing just now was incredible, but it was pretty different fr
 Miku (Ln): <Different? In what way?>
 Shiho: Last time, her singing was so powerful that my heart ached. But I didn't really get that from her today.
 Shiho: She was singing so well... So, why do I feel this way...?
-(Black cut)
+(Black transition)

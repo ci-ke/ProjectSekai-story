@@ -37,15 +37,11 @@
 部員達: 『おー！』
 顧問: そうそう。練習試合へ変更になったので、 部活の時間も通常より延びます。 各自、問題ないか予定の確認をしておいてくださいね
 咲希: （そ、そうだ……！　土曜日って——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （……どうしよう。 いっちゃん、楽しみにしてくれてたのに）
 咲希: （…………でも……）
@@ -54,7 +50,7 @@
 部長: 私も、友達との予定ズラしておかないと
 咲希: （……そうだよね。 せっかくのリベンジのチャンスだし）
 咲希: （ごめん、いっちゃん）
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -75,23 +71,19 @@
 司: 『ただいま』にあまり元気がなかったからな。 もしやと思って聞いたんだが……
 司: それで、どうしたんだ？ オレでよければ、話を聞くぞ
 咲希: えっと……。 実は——
-(Black cut)
+(Black transition)
 司: ……そうか。 一歌との約束がダメになってしまったのか
 司: 一歌には、もう伝えたのか？
 咲希: うん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: ホントにホントにごめん！ アタシから遊びに行こうって言って、予定空けてもらったのに！
 一歌: 『……ううん、気にしないで。それより相手の学校、 前の大会で負けちゃったところなんでしょ？』
 一歌: 『ここで勝って自信つければ、 次の大会であたっても絶対勝てるよ！』
 一歌: 『頑張れ、咲希』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: はあ。やっと予定が合った日だったのになあ
 司: ……元気を出せ、咲希。 一歌は応援してくれていたんだろう？
@@ -107,7 +99,7 @@
 咲希: お兄ちゃん、最初から飛ばしすぎだよ！ どうやって入ればいいの！？
 司: はーはっはっはっ！ ノリと勢いだ、咲希！
 咲希: もう！　ぐちゃぐちゃになっても知らないからね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [咲希の部屋]
@@ -120,15 +112,11 @@
 咲希: 頑張って合わせようとするんだけど、 みんなが今どこ弾いてるとか自分がどこ弾いてるかとか、 結局わかんなくなっちゃって——
 咲希: 今思うと、すっごく下手だったなあ
 咲希: でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……すっごく、楽しかったな
 咲希: みんなと、いつも以上に心で…… 音楽で繋がれてるっていう感じがあって
@@ -138,24 +126,20 @@
 咲希: ……みんなも忙しいし、アタシだって部活あるんだもんね
 咲希: それに、アタシはエースなんだから
 咲希: 元気に頑張ってるぞーってところ、 いっぱいいっちゃん達に——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 失ったものを、手に入れたいと強く願う。 それは当たり前のことよ
 ？？？: 咲希はただ、そう思うあまり、 焦ってしまっただけ
 ？？？: だから、次はゆっくり進んで行けば大丈夫じゃないかしら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: …………！
 咲希: 今、何か聞こえたような……
 咲希: ……って。そうだ！ いっちゃんに約束破っちゃったお詫びを考えないと
 咲希: んー……明日のお昼は練習ないし、 お昼ご飯かデザートをごちそうするのがいいかも
 咲希: あ！　いっちゃん、明日、放送当番じゃないよね！？ それだけ聞いておこーっと！
-(Black cut)
+(Black transition)
 (Video: link2_leoneed_ed2)
-(Black cut)
+(Black transition)

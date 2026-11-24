@@ -16,7 +16,7 @@
 雪平: 『！　——東雲さん、ですか？』
 絵名: えっ……！？ あ、え、えっと……その……！
 絵名: はい……お久しぶりです……東雲です。 ……東雲絵名です
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -72,7 +72,7 @@
 (Background change)
 絵名: 『うん、ありがと』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -88,16 +88,12 @@
 絵名: （……気持ち、悪い…………）
 ？？？: あれ？ そこにいるのって……絵名ちゃん？
 絵名: え？ あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 二葉: わぁ……！　絵名ちゃんの絵、すごいね……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……二葉？
 二葉: やっぱり絵名ちゃんだ。 ひさしぶりだね！
@@ -107,4 +103,4 @@
 二葉: あ、だったら一緒に行こう。 久しぶりだから、教室もちょっと入りかた変わってるしね
 絵名: え。あー……その……
 二葉: ほら、こっちだよ。絵名ちゃん！
-(Black cut)
+(Black transition)

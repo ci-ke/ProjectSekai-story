@@ -25,7 +25,7 @@ Mizuki: Okay, now I get it...
 Mizuki: Shizuku... This map won't get you to the store you're looking for. It's not even a map of Shibuya...
 Mizuki: It's a map of London, UK, you see...?
 Shizuku: Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Sewing Lounge]
@@ -45,7 +45,7 @@ Mizuki: Whoa, that's amazing...! The letters are so tiny! You even gave your gro
 Shizuku: Hehe. Thank you. It was worth the effort.
 Shizuku: I hope your alterations go well too, Mizuki.
 Mizuki: Thanks! It's time to give this thing a cute makeover!
-(Black cut)
+(Black transition)
 Mizuki: Shizuku, is my sewing machine being too loud?
 Shizuku: No, you're fine. I actually kind of like that sound.
 Shizuku: It reminds me of how my grandmother used to make clothes for me and my little sister. It's very nostalgic.
@@ -58,7 +58,7 @@ Shizuku: Hehe. Oh, by the way... Did you know that there's a nice, little handic
 Shizuku: One of my little sister's childhood friends told me about it, and I always seem to find myself completely immersed in all the threads and fabrics they have available.
 Mizuki: You mean the place on the second floor of that one building? Yeah, I go there all the time!
 Mizuki: (I didn't realize Shizuku and I had this much in common!)
-(Black cut)
+(Black transition)
 Mizuki: Phew... Finally, it's done!
 Shizuku: Oh, the lace on the midriff looks very nice. Almost as if a professional made it!
 Mizuki: Hehe. Replacing that bit was a challenge, but I'm glad that it turned out as cute as I hoped it would...♪
@@ -83,7 +83,7 @@ Shizuku: I really like little birdies and are probably my favorite thing to embr
 Shizuku: It's symbolizes my hope that you'll find your way to happiness, Mizuki.
 Mizuki: It does...
 Mizuki: I don't know what to say. Thank you so much, Shizuku. I promise to take good care of this...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -98,7 +98,7 @@ Mizuki: Worse if the teachers start coming after me about it... Hm?
 ???: *Whirr*...
 Mizuki: Hm? What was that sound...?
 Mizuki: (That's weird... I thought I heard Rui's drone flying around, but was it something else?)
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Finally, lunch...! Why do classes have to be so long?
 Mizuki: Anyways, I should go get something as a little reward... Oh!
@@ -125,7 +125,7 @@ Toya: Huh? A-Akito...?!
 Mizuki: What?! Don't leave me, li'l bro...!
 Rui: Hehehe. Shall we, Mizuki?
 Mizuki: Haha. Uh, sure...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - Rooftop]
@@ -151,7 +151,7 @@ Tsukasa's Voice (Tsukasa): <Razzle Dazzle Sunny Funny☆>
 Mizuki: Hahahaha!
 Mizuki: This is really him?! How many lines are there?!
 Mizuki: Now I have to hear all of them!
-(Black cut)
+(Black transition)
 Mizuki: No, my sides... You made me laugh so hard...! You still haven't answered my question. What is this thing...?
 Rui: It's an experimental prop for a show.
 Rui: I've been thinking about how to use it and one might be to emulate instant transmission...
@@ -166,16 +166,12 @@ Rui: It looks so innocent and pointless, but I believe that it can make people l
 Mizuki: Huh? Wait...
 Mizuki: (Did he make this for me...?)
 Mizuki: Rui...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: I'll be waiting on the rooftop again.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Have you been waiting all this time for me...?
 Rui: No, not at all. I've been flying a drone that tells me if you'd be coming up here.
@@ -184,4 +180,4 @@ Rui: If you ever feel the need to laugh for no reason whatsoever, I can lend thi
 Rui: I'm sure you'll feel better if you do.
 Mizuki: Yeah, you might be right...
 Mizuki: (Thanks, Rui.)
-(Black cut)
+(Black transition)

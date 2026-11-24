@@ -16,7 +16,7 @@
 アナウンス: 『５時半から後夜祭を行うので、 生徒の皆さんは後片づけをしたのち、 体育館に集まってください』
 こはね: あ……私、もう行かないと
 杏: ん、いってらっしゃい、こはね。 また明日、練習でね！
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ……ふう、教室の掃除はこんな感じかな。 あとどこか手伝えるところは——
 志歩: こはね、みのり。 手があいてるなら、この辺りの机運ぶの手伝ってくれる？
@@ -32,17 +32,13 @@
 みのり: アイドルのライブだって、 終わっちゃったら、寂しいなーって感じちゃうけど、 すてきな思い出になった！って気持ちのほうが大きいし！
 みのり: だからきっと、わたし達にも、お客さんにも—— 心の中には、ちゃんと思い出が残ってるよね！
 こはね: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: うん！　 でもやっぱり、こはねのクラスのお化け屋敷が良かったな！
 杏: こはね——誘ってくれて、本当にありがとう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……うん、そうだね！
 志歩: それにまだ後夜祭が残ってるし、 全部終わったわけじゃないよ
@@ -60,45 +56,33 @@
 こはね: うん！　私も本当にそう思ったよ
 こはね: ——今の私がいるのは、チームのみんなのおかげだから。 だから、ちょっとでも喜んでもらいたくて
 みのり: ……みんなのおかげ、かあ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……その気持ち、わかるなあ
 みのり: わたしも、MORE MORE JUMP！のみんなに いつも助けられてるから！
 みのり: 今回のデザインも、演技も、企画のアイディア出しも…… MORE MORE JUMP！のみんなにもらったものがあるから、 できたような気がする！
 みのり: だから——みんなのおかげで、 今の自分がいるって思うこはねちゃんの気持ち、 すっごくわかるな！
 志歩: ——そうだね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （私も、一歌達がいてくれたから、 少しずつ変われてる気がする）
 志歩: （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: とびっきりおもしろいお化け屋敷にしようね！
-(White cut)
+(White transition)
 クラスメイトC: 日野森さん、その木の描きかた教えてもらってもいい？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （クラスのみんなと、 こうして文化祭を楽しんでるなんて、 入学した頃は思ってもみなかったな）
 みのり: 志歩ちゃん？　どうしたの？
@@ -116,7 +100,7 @@
 志歩: わ。 ちょっとみのり、何急に変なテンションになってるわけ？
 こはね: ふふ、みのりちゃんってば。 でも、わかるなぁ
 志歩: ああもう、こはねも笑ってないで、 みのりを止めて……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -140,4 +124,4 @@
 生徒達: 小豆沢さんって、思ったより大胆な子だったんだ……
 こはね: え、あ、その……
 こはね: こ、これは……違うんです～！！
-(White cut)
+(White transition)

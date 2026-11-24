@@ -14,7 +14,7 @@ Rui: But... It's not as big as we initially expected. This may be just barely en
 Tsukasa: There's no wind or rain to speak of right now, so why don't we set up the living space next to our base camp instead?
 Rui: Yes, that sounds good, so let's return to where Nene and the others are. We should also keep an eye out for any flotsam that we can use as blankets and covers along the way.
 Tsukasa: Agreed! The cruiser also has some, but there's no harm in having more!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Coast]
@@ -29,7 +29,7 @@ Tsukasa: Hm...?
 (Background change)
 (Background change)
 Tsukasa: What's he doing with his face stuck in the bushes?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Desert Island - Jungle)
 Tsukasa: Rui, there you are. What are you doing snooping around in the bushes?
@@ -82,14 +82,14 @@ Tsukasa: Hm? Right... That does take priority... Still, why don't we keep talkin
 Tsukasa: I can see it now! A fantastic adventure about humans getting lost in a forest full of monkeys where they learn to work together despite not being able to communicate through speech!
 Rui: Yes, that does sound fantastic. Let's discuss that further!
 Tsukasa: Alright, first, the part about not being able to communicate seems like the most interesting part, since there could be instances where some wires get crossed...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro, Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Coast]
@@ -129,7 +129,7 @@ Miku's Voice (Miku-WxS): <Okay! See you then☆>
 Emu: Hehe. I'm so glad we got a chance to tell them that we're okay!
 Tsukasa: So am I! Let's make sure our ambassadorial performance goes well so that we have good news to report the next time we see them!
 Emu, Nene & Rui: Yeah! Yes.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -156,4 +156,4 @@ Emu: Oh, we even got to do some water skiing after our show was over♪
 Nene: I decided to give it a try too after working up enough courage, but it turned out to be pretty fun.
 KAITO: That's wonderful. We'd love to hear more.
 Tsukasa: Yes, we'll tell you all about it!
-(Black cut)
+(Black transition)

@@ -13,7 +13,7 @@ An: But let's take a short breather and think about this again later. Hmm...?
 An: More and more customers are coming in. We won't be able to dawdle much longer...
 Akito: Why don't we all go over there for a change?
 Kohane: Over there...? Oh, right! Over there!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Crase Cafe]
@@ -33,7 +33,7 @@ An: No, we just finished and wanted to have a little break. I'm so tired after t
 MEIKO: I see. Was it about coming up with a good set list for the event or something?
 Toya: Oh, no... We were actually talking about me today...
 Miku (VBS): About you...?
-(Black cut)
+(Black transition)
 Miku (VBS): Your dad, huh...?
 MEIKO: That does sound like a thorny issue. There's not much we can do about it either...
 An: We know... But we still want to find a way to help, you know?
@@ -52,21 +52,17 @@ Kohane: But maybe this is really more of a two-way street?
 Toya: How do you mean?
 Kohane: Basically, he's making you play classical music because he loves it and wants you to appreciate it more as well.
 Toya: Because he loves classical music...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Toya's Father: Remember, you were born to play classical music! Why can't you understand what I'm trying to do for you?
-(White cut)
+(White transition)
 Toya's Father: Get your head out of the clouds!
 Toya's Father: You know very well how much value and meaning classical music brings to peoples' lives. I thought I taught you that myself!
 Toya's Father: And yet you choose to get wrapped up in this...noise! Don't you realize your life is going to become empty because of it?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: My life is going to become empty...?
 Toya: I get it now. That's what he believes in...
 Akito: Huh? Believes in what?
@@ -91,4 +87,4 @@ An: Absolutely! I feel like what you just said should get through to even your f
 Kohane: You can do it Aoyagi!
 Toya: Y-You're right... Nothing will change unless I do something.
 Toya: I guess moving forward in life takes courage. The courage to keep trying again and again...
-(Black cut)
+(Black transition)

@@ -5,17 +5,17 @@
 [ストリートのセカイ]
 
 ミク (VBS): ……勝負あり、だね。 レンとリンのチームの勝ち！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000041/bg_a000041.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000041/bg_a000041.webp)
 レン: よーっし！　勝った！！
 リン: やったね、レン！
 レン: おう！　やっぱりリンは最高の相棒だな！
 リン: えへへっ♪　レンもねっ！
-(White cut)
+(White transition)
 (Background change)
 杏: あはは、負けちゃった。 ふたりとも強いなあ
 こはね: うん、レンくんもリンちゃんもすごかったね……！
-(Black cut)
+(Black transition)
 杏: ……ふふっ、こはね、すごい顔になってる！
 こはね: えっ？　でも、杏ちゃんだって……。 あははっ
 冬弥: すごかったな。 白石と小豆沢もいい勝負をしていた
@@ -30,7 +30,7 @@
 リン: ふふーん、どこからでもかかってこーい！
 彰人: ——いいか冬弥、やるからには勝つぞ！
 冬弥: ああ！
-(Black cut)
+(Black transition)
 レン: よっしゃー！　またオレ達の勝ち〜！
 彰人: くそ、１点差かよ……！
 冬弥: ……すまない。俺が足を引っ張ってしまったな
@@ -49,7 +49,7 @@ MEIKO: え、私も？
 レン: 今のところ、オレ達が最強なんだ！ メイコとミクにも勝って、いっちばん強いって証明するよ
 ミク (VBS): ふふ、いいね。戦いがいがあるよ
 MEIKO: そうね。さっそく始めましょうか！
-(Black cut)
+(Black transition)
 杏: じゃあ、私が審判やるね
 杏: ルールはさっきと一緒ね。５点先取制で、 どっちかのチームが打ち返せなかったら１点入るよ
 杏: ……それじゃあ羽根つきバトル、スタート！
@@ -60,13 +60,13 @@ MEIKO: そうね。さっそく始めましょうか！
 ミク (VBS): ……うん、いいところに打ってくれたね、レン
 ミク (VBS): えいっ！
 レン: うわっ！？ あんなの打ち返せないよ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000040/bg_a000040.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000040/bg_a000040.webp)
 ミク (VBS): ふふ、見学してた時に、レン達の動きはだいたいわかったから
 レン: そ、そんな～！
 MEIKO: さすがね、ミク
 ミク (VBS): どうする？ 顔を真っ黒にされる前に降参したほうがいいんじゃない？
-(White cut)
+(White transition)
 (Background change)
 リン: まだまだここから！ 次はわたしが打つよ！
 リン: えいっ！
@@ -81,7 +81,7 @@ MEIKO: ええ、そうみたい。 ミクと一緒に組んでるからかしら
 MEIKO: そうね。でも、手加減はしないわよ
 リン: 望むところだよ～！
 レン: よし、次いっくぞー！
-(Black cut)
+(Black transition)
 ミク (VBS): よし、私達の勝ち
 レン: うー、負けた……
 リン: 結局、１点しか取れなかったね……
@@ -102,4 +102,4 @@ MEIKO: ええ、私もよ
 MEIKO: ふふ、それがレンとリンのいいところよね
 ミク (VBS): まあね
 ミク (VBS): こんな風に、今年もみんなで競い合っていける年にしたいね
-(White cut)
+(White transition)

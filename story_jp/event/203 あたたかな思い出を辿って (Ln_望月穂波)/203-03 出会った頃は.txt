@@ -11,14 +11,14 @@
 穂波: （これで、心置きなくみんなと遊びに行けそう）
 ？？？: ——あれ？　誰かいるのか？
 穂波: え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000576/bg_s000576.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000576/bg_s000576.webp)
 穂波: あ……レンくん！
 レン (Ln): 穂波だったんだな。 悪い、邪魔したか？
 穂波: ううん、大丈夫だよ。 レンくんは……もしかしてギターの練習？
 レン (Ln): ああ。みんなのいるところでやってもいいんだけどな
 レン (Ln): どうせなら内緒で特訓して、 びっくりさせてやろうと思ってさ
-(White cut)
+(White transition)
 (Background change)
 穂波: ふふ、そうだったんだ
 レン (Ln): 穂波のほうは……もしかして、仕事してたのか？
@@ -60,7 +60,7 @@
 レン (Ln): 出会った頃は、どんな感じだったんだ？
 穂波: 出会った頃か……
 穂波: あの時はお互い、あんまり話したこともなかったんだ
-(White cut)
+(White transition)
 (Background change)
 
 [数年前]
@@ -78,14 +78,10 @@
 小学生の穂波 (穂波): あっ、うん！
 クラスメイト達: 天馬さんは……今日もお休みだよね。 机、借りちゃってもいいかな？
 小学生の穂波 (穂波): （天馬さん……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 小学生の穂波 (穂波): （いつもニコニコしてて、明るい子だよね）
 小学生の穂波 (穂波): （具合が悪くて、よくお休みしてるけど……大丈夫かな？）
 クラスメイト達: 穂波ちゃん、どうしたの？
@@ -102,4 +98,4 @@
 クラスメイト達: よかった、これでみんな座れるね！
 クラスメイト達: 折り紙の本も持ってきたんだ！ 動物とか、ハートもつくれるんだよ
 小学生の穂波 (穂波): そうなんだ！　楽しみだな
-(Black cut)
+(Black transition)

@@ -15,7 +15,7 @@ Emu: Umm... It's supposed to be about a girl who does her best to perform good d
 Emu: I'm really looking forward to seeing if she actually gets one...!
 Tsukasa: Me too. And we'll just have to watch the show to find out!
 Nene: Oh, I think it's starting...
-(Black cut)
+(Black transition)
 Girl (Miku-WxS): “Oh, someone must've dropped this pencil...!”
 Girl (Miku-WxS): “If I return this to its owner, then Santa will have to say that I performed a good deed!”
 Girl (Miku-WxS): “The owner's name is... Anna.”
@@ -27,12 +27,12 @@ Girl (Miku-WxS): “This could be your ticket to becoming friends with her...!�
 Emu: (Oh, she's giving him the pencil...! What a nice girl...)
 Emu: (But that also means...)
 Girl (Miku-WxS): *Sigh* “I didn't get to perform a good deed...”
-(Black cut)
+(Black transition)
 Young Lady (Luka-WxS): “Help! My cat's stuck in this tree...”
 Girl (Miku-WxS): “I'll help! It's okay, kitty. You'll be fine as long as you come down slowly...”
 Girl (Miku-WxS): “Huh?! It got down on its own...?!”
 Girl (Miku-WxS): “But it doesn't look hurt at all, and it's acting like nothing happened. Thank goodness...”
-(Black cut)
+(Black transition)
 Girl (Miku-WxS): *Sigh*
 Girl (Miku-WxS): “I couldn't return that pencil, get that cat down or help that old lady with her groceries. What am I doing...?”
 Girl (Miku-WxS): “At this rate, Santa's never going to come visit me... But...”
@@ -49,7 +49,7 @@ Girl (Miku-WxS): “What is this...? A sock...?”
 Girl (Miku-WxS): “Hey, mister, why did you...? Huh? He's gone...”
 Girl (Miku-WxS): “Wait, was he...?”
 Girl (Miku-WxS): “I see... Santa was watching the whole time.”
-(Black cut)
+(Black transition)
 Emu: That was such an amazingly beautiful story!
 Tsukasa: Yes, I was so moved by that girl's kindness!
 Nene: I'm just glad Santa Claus saw that she was doing her best to help everyone.
@@ -64,7 +64,7 @@ Emu: Thanks for putting on such an amazing show for us, you guys!
 Tsukasa: Yes, I think it was an excellent source of encouragement for all of us. We should be able to put on an especially wonderful performance over there now!
 Emu: Yeah! Let's do our best to make all the guests smile from ear to ear☆
 Nene, Rui & Tsukasa: Yeah. Yes!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -97,14 +97,14 @@ Miku (WxS): I wanna help build the candy town! Let's all work on it together☆
 Rin (WxS): Yeah, I wanna build one too♪
 KAITO (WxS): Then, why don't we celebrate the success of their show while building our candy town?
 Emu, Tsukasa, Nene & Rui: Yeah!
-(Black cut)
+(Black transition)
 Miku (WxS): I'll build my house... Right here in the middle☆
 Emu: Oh, right in the center of town☆ Then, I'm gonna build mine next to yours!
 Emu: I know! I bet it'd be even more fun if you built your house on the other side of mine, Nene!
 Miku (WxS): Yeah! It'd be such a fun neighborhood♪ Come build your house over here, Nene☆
 Nene: Huh? O-Okay, sure...
 Nene: Feels like it's going to be a boisterous neighborhood...
-(Black cut)
+(Black transition)
 Rui: Could you glue these two together for me, Len?
 Len (WxS): Sure thing! Just hold them right there!
 Emu: Whoa! Len, Rui, what are you two making?! It already looks massive...!
@@ -114,13 +114,13 @@ Tsukasa: Alright, I'm going for triple the pieces! MEIKO, Rin, will you help me 
 MEIKO (WxS): Yes, with three times the pieces, we could build something on the order of a castle!
 Tsukasa: A castle...! That's an excellent idea. After all, it's always best to dream big!
 Tsukasa: Alright, in that case...! It's time for the Tenma Construction Company to start designing the Tenma Castle!
-(Black cut)
+(Black transition)
 Luka (WxS): Oh, these biscuits just won't stay together... Nom nom...
 KAITO (WxS): Wait, you're still eating the pieces that you can't get to stick together...?
 Luka (WxS): Because they're so delicious. I could eat these endlessly...
 Emu: Hehe. Mr. Chef said he worked really hard to make sure they tasted good♪ We've got plenty, so it's okay to nibble on a few of them!
 KAITO (WxS): If that's the case, I might have one as well. Which do you recommend, Luka...?
-(Black cut)
+(Black transition)
 Emu: Wow...! Our town's complete! This is so cool!
 Tsukasa: Yes, we have a castle, apartments, roads and parks... It's a fully-fledged town with all the fixings!
 Rui: Yes, and this coating of powdered sugar makes it look like it just snowed.
@@ -138,4 +138,4 @@ Emu: Okay!
 Emu: Alright, you guys, we're gonna devour this town brick by brick!
 Emu: Let's eat!
 Everyone: Let's eat!
-(Black cut)
+(Black transition)

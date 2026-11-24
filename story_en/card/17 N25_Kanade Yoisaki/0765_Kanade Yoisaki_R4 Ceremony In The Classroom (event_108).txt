@@ -72,7 +72,7 @@ Kanade: <W-Wow. So, what am I going to need...? Wait, clothes. They probably won
 Ena: <Try to calm down, K! You still have time! Start by reading through the whole email!>
 (Background change)
 Kanade: <R-Right... Let's see...>
-(Black cut)
+(Black transition)
 Kanade: <Phew... Thank goodness. I should be okay as long as I start preparing for it now.>
 (Background change)
 Mizuki: <Man, I thought you were done for when you said it was tomorrow♪>
@@ -92,7 +92,7 @@ Kanade: <Hehe...>
 Kanade: (The opening ceremony... I didn't think I'd be attending another school event.)
 Kanade: (They might be a good source of inspiration once in a while.)
 Kanade: (I should set an alarm now since I'll probably forget between working and napping.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -106,7 +106,7 @@ Ena: Kanade, are you okay...? You look exhausted. It has been a while since we l
 Kanade: No, I'm okay... I can keep going for a bit longer.
 Ena: Alright. Then, let's keep going. Our goal's just up ahead.
 Kanade: *Nod*
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -120,22 +120,18 @@ Ena: No, don't be sorry. I'm just happy that you invited me.
 Ena: But what made you want to go for a walk? Are your shoulders bothering you again?
 Kanade: No, it just felt like too much time had passed since our last walk.
 Kanade: (Also...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Hey, look! There's a vending machine! Mind if I go see if they have any sports drinks...?
 Kanade: In that case, I'll go with you.
 Ena: I'll get one for you while I'm at it, so you just rest. There should be a park just around the corner.
 Kanade: Are you sure...? Well, if you don't mind.
 Ena: Of course. I'll be right back!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -167,18 +163,14 @@ Nene: ♪———— ♪————!
 Nene & Ichika: ♪————~~~!!
 Kanade: (They're harmonizing really well...)
 Kanade: (I can feel my mind and body being enveloped by this gentle warmth...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: They're all looking forward to making their dreams come true by overcoming any obstacles that come their way.
 Ichika: Seeing that made me want to do the same and try just as hard.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (It's like she said. Everyone's doing their best each day.)
 Kanade: (Thank you for giving me another boost of encouragement, Hoshino, Kusanagi.)
-(Black cut)
+(Black transition)

@@ -17,7 +17,7 @@ Littler Mermaid (Emu): Splishy-splishy-splash-splash! Big bro!
 Merprince (Tsukasa): Wah! Wh-What is it, my little sister? Is something the matter?
 Littler Mermaid (Emu): Heh heh heh! Something interesting just washed up on the shore!
 Merprince (Tsukasa): Something interesting...? Is that so...?
-(Black cut)
+(Black transition)
 Little Mermaid (Nene): Ah, another beautiful day... The waves are calm and there's even a nice breeze.
 Little Mermaid (Nene): All those humans have to work so hard while us merfolk just get to enjoy ourselves. Who could ask for a better...? Huh?
 Merprince (Tsukasa): Sister!!
@@ -41,19 +41,19 @@ Littler Mermaid (Emu): C'mon, let's go♪
 Little Mermaid (Nene): W-Wait..! Why aren't you listening to me?!
 Tourist: Haha! This is pretty good!
 Tourist: Yeah, let's stick around a bit longer!
-(Black cut)
+(Black transition)
 Meroctopus (Rui): Ah, welcome! It's been decades since anyone's come to visit me!
 Meroctopus (Rui): I hear that you seek a potion that will give you human legs. Here, drink this♪
 Merprince (Tsukasa): *Gulp*... *Gulp*...! It's not as bad as I imagined.
 Littler Mermaid (Emu): Whoa, look! My tail's glowing!
 Little Mermaid (Nene): Huh? This stuff actually works...?!
-(White cut)
+(White transition)
 Merprince (Tsukasa): What the...?! We've grown legs, but they're covered in scales!
 Little Mermaid (Nene): They're half fish...?
 Meroctopus (Rui): Ah, that didn't quite do it, I see. How about this one...? Wait, this may've been the one for octopus legs...
 Meroctopus (Rui): Oh, but you can have this. Drink it when you're in desperate trouble. I would refrain from using it otherwise.
 Merprince (Tsukasa): Are any of your potions actually safe to use?!
-(Black cut)
+(Black transition)
 Merprince (Tsukasa): Finally, we made it to a human settlement!
 Littler Mermaid (Emu): This is what they call a 'city'? There's so many big buildings!
 Little Mermaid (Nene): Hey, don't forget that we have to keep drinking these potions every hour to keep our legs, so be careful.
@@ -62,7 +62,7 @@ Merprince (Tsukasa): Hm? What's this? Is it edible? It's shaped like a fish, but
 Littler Mermaid (Emu): Nom... It's so yummy☆ It's so warm and sweet! I've never had anything like this before!
 Little Mermaid (Nene): Have you two forgotten that it's not safe out here...?
 Little Mermaid (Nene): But they seem to be enjoying themselves, so maybe it was worth the trip...
-(Black cut)
+(Black transition)
 Little Mermaid (Nene): Oh, these games look fun too. I didn't even know the humans have this many games in their city...
 Littler Mermaid's Voice (Emu): Eep!
 Merprince's Voice (Tsukasa): Wah!
@@ -72,7 +72,7 @@ Little Mermaid (Nene): The humans that took them away looked really scary too...
 Little Mermaid (Nene): Wait, I know!
 Little Mermaid (Nene): I still have that weird potion! The one for when we get into really big trouble...!
 Little Mermaid (Nene): This is terrifying... But I have to save them before something awful happens to them!
-(White cut)
+(White transition)
 Little Mermaid (Nene): Wait... Huh?
 Little Mermaid (Nene): Wh-What just happened to me?!
 Little Mermaid (Nene): No, I don't have time for that right now... I have to figure out a way to save them...!
@@ -80,7 +80,7 @@ Little Mermaid (Nene): Okay!! Let's go!!
 Audience: Whoa! Where'd this gust come from?! Was it that giant fan over there?
 Children: Look! It's like Mech Mermaid's really flying!
 Little Mermaid (Nene): Hang on, you guys...!!
-(White cut)
+(White transition)
 Tsukasa: Thank you for coming to see our show today!
 Tsukasa: We'll be eagerly awaiting your arrival at Phoenix Wonderland, so please make sure to come and visit sometime!
 Nene: N-Night tickets are also available!
@@ -94,7 +94,7 @@ Rui: Hehe. Looks like our first performance was a big success.
 Rui: I'm glad we decided to shorten the show and add in some effects that involve air and water.
 Tsukasa: So am I! Let's keep this up and knock our afternoon performance out of the park!
 Emu, Rui & Nene: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Beach]
@@ -108,25 +108,21 @@ Nene: Anyway, I should get back to the stage and... Huh?
 ???: ————♪
 Nene: Such a beautiful voice... My heart's starting to race for some reason...
 Nene: Wait... No, it can't be...
-(Black cut)
+(Black transition)
 ???: ♪————
 Nene: No way...!!
 ???: Hehe. The beach really never disappoints. I feel like I can sing forever here!
 ???: It'd be nice to go for a swim, but I forgot to bring a bathing suit. Maybe I can dry my clothes on the sand since it's so warm out...
 ???: Hm...? Oh, hello there. Can I help you?
 Nene: A-Are you...?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Little Mermaid: Diving into an unknown world is terrifying, but not being able to because of my own fears would be much worse!
 Little Mermaid: 'I'm going! I need to see him...!
 Little Mermaid: ♪————!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Nene: Yuka Kazamatsuri...?!
-(Black cut)
+(Black transition)

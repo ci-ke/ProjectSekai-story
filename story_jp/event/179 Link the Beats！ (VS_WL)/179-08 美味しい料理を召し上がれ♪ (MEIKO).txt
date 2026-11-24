@@ -3,7 +3,7 @@
 (Character: 初音ミク, 鏡音リン, 鏡音レン, MEIKO, KAITO)
 
 (Video: link2_ppr_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -12,13 +12,13 @@ MEIKO: ええと……ショーをしている私は、 このあたりに来て
 MEIKO: 見つからないわねえ。 あの私は声も大きいから、すぐ見つかると思ったのに
 ？？？: ——美味しい～～～～！
 MEIKO: えっ？　今の声って……
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000491/bg_s000491.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000491/bg_s000491.webp)
 MEIKO (WxS): んん～～～！ このピザ、チーズがとっても濃厚……！
 MEIKO (WxS): パンケーキも、ナポリタンも、ホットサンドも…… どれもぜ～んぶ、とっても美味しいわ！
 MEIKO: す、すごい量……！ まさかこれをひとりで食べるの！？
@@ -29,7 +29,7 @@ MEIKO (WxS): 本当！？　嬉しいわ！ じゃあお言葉に甘えて……
 MEIKO (VBS): もちろんよ。 プリンアラモードパフェはどう？
 MEIKO (WxS): すっごくオシャレな名前ね……！ ぜひ、いただくわ！
 MEIKO: し、しかもまだ食べるつもりだわ……！
-(White cut)
+(White transition)
 (Background change)
 MEIKO: すっごくパワフルだと思ってたけど ……まさかこれほどだなんて
 ミク (VBS): メイコ、ただいま。 レン達と練習してきた……って……
@@ -45,7 +45,7 @@ KAITO (VBS): なんかボク、おかしいこと言った？
 ミク (VBS): 言った、っていうか……
 レン・リン: 『メイコがふたりいる～！？』
 KAITO (VBS): えっ？　ええ～！？！？！？
-(Black cut)
+(Black transition)
 レン (VBS): へえ……！ じゃあメイコは、遊園地があるセカイから来たんだ！
 MEIKO (WxS): ええ！　大きな遊園地とショーステージがあって、 そこで、みんなでショーをしているの！
 リン (VBS): すごいすごーい！　面白そう！
@@ -89,7 +89,7 @@ MEIKO (VBS): ……あら、そういえばルカは？
 MEIKO (VBS): それもそうね。 まったく、こんな時に限っていないんだから
 KAITO (VBS): きっと、帰ってきた時かなり騒がれるよ。 いいなあ、もうひとりのメイコに会いたかった。 どうして呼んでくれないの！？って
 MEIKO (VBS): ふふ、目に浮かぶわね
-(Black cut)
+(Black transition)
 (Background change)
 
 [広場]
@@ -108,4 +108,4 @@ MEIKO (WxS): 世界？　それって——
 MEIKO (WxS): 今の、もしかして……
 レン (VBS): 噂をしたら、みんなが来たみたい！ メイコ、会いに行こうよ！
 MEIKO (WxS): ——ええ！
-(Black cut)
+(Black transition)

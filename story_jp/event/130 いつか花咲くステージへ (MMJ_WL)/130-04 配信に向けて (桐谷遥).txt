@@ -3,7 +3,7 @@
 (Character: 桐谷遥, MEIKO, KAITO)
 
 (Video: link_idol_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [遥の部屋]
@@ -35,10 +35,8 @@ KAITO (MMJ): 『遥ちゃんはすごいね。 今の忙しい状況で、そこ
 遥: そんな大げさなものじゃないです。 多分、これはお世話になってた プロデューサーの影響だと思います
 MEIKO (MMJ): 『プロデューサーの？』
 遥: うん、ASRUNの時のプロデューサー。 あの人は、プロデュースしてるアイドルに ちゃんと自分の考えかたを話してくれてたから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ASRUNのプロデューサー: 次に開催する記念ライブだが、 いつもやってる『SPRAY』から、別のライブハウスに変更する
 遥: えっ……！？
@@ -55,10 +53,8 @@ ASRUNのプロデューサー: 先日リリースした曲がヒットしたこ�
 遥: ……でも、今までその場所でやることを楽しみにしてたファンは がっかりするんじゃないですか？
 ASRUNのプロデューサー: もちろん、今までのASRUNを応援してくれたファンを 裏切るべきではない。だからこそ——
 ASRUNのプロデューサー: ファンクラブの加入歴が長いファンに向けては、 次の記念ライブは『招待』という形で完全無料とする
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: って感じで、自分達のスタンスをハッキリさせて、 それに沿ったやりかたを長期的な目線で考えてて……
 遥: 実際にそのあとプロデューサーのいうとおり いろんな層のお客さんが増えたから、 そういう考えかたが指標みたいになってるのかも
@@ -82,4 +78,4 @@ KAITO (MMJ): 『は——遥ちゃん、遥ちゃん！』
 KAITO (MMJ): 『じ、じ、実は——』
 MEIKO (MMJ): 『セカイが大変なの！ 今すぐこっちに来て！』
 遥: え……？
-(Black cut)
+(Black transition)

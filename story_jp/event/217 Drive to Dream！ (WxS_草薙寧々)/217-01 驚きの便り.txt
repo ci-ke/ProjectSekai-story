@@ -11,10 +11,8 @@
 寧々: （でも、ちゃんと効いてそうだし…… ちょっと休憩して、もう１セットやってみよう）
 寧々: （……もっと、成長しなくちゃ）
 寧々: （榊さんの提案のこともあるし——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: ——榊さんの舞台に、わたし達が？
 司: そ、それはつまり…… 榊さんが手掛ける作品に、出演できるということですか！？
@@ -34,24 +32,18 @@
 寧々: （……この舞台に上がれれば、 わたし達の夢に近づく大きなチャンスになる）
 寧々: （だったら——答えは、決まってる！）
 司: ——榊さん。 そのオーディション、是非受けさせてください！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （きっとわたし達以外にも、たくさんの役者が オーディションに参加してくる）
 寧々: （それこそ、トップレベルの人達が——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （勝ち抜くのは、正直かなり難しいと思うけど……）
 寧々: （夢のためにも、絶対受かりたい）
@@ -69,4 +61,4 @@
 寧々: え…………
 寧々: う、うそっ！？
 寧々: ブロードウェイのチケット……！？
-(Black cut)
+(Black transition)

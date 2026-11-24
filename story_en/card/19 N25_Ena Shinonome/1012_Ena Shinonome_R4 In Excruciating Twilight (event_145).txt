@@ -59,7 +59,7 @@ Ena: *Sigh* I guess I don't have a choice...
 Ena: Oh, right... I need to let Mizuki know that I'm going now.
 Ena: I'll send over a message later.
 Ena: *Sigh* Talk about bad luck...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,18 +93,14 @@ Kanade: But based on the conversations we've been having while working recently,
 Ena: Oh...
 Ena: (Come to think of it, Mizuki hasn't really been participating much in many of our recent conversations.)
 Ena: (Is it because of that...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki's Message (Mizuki): <Can we talk tomorrow during the night festival?>
 Mizuki's Message (Mizuki): <I want to tell you...>
 Mizuki's Message (Mizuki): <Everything that I couldn't until now.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I didn't get to hear Mizuki say that since it was over chat, but something seemed a little off for some reason...)
 Ena: (But I guess that's only natural...)
@@ -112,7 +108,7 @@ Ena: (Mizuki's been dealing with this issue for basically ever with no help from
 Ena: (After all that toiling and toiling and toiling, I'm being asked to hear what I'm guessing is gonna be the whole truth...)
 Ena: (I have no idea what I'm going to hear...)
 Ena: (But this is the school festival, so I'd rather have my friend enjoy it instead of worrying about all that.)
-(Black cut)
+(Black transition)
 Ena: Where's Mizuki...? It's been like ten minutes already...
 Kanade: Yes, it has been a while... Maybe there was a long line.
 Mafuyu: I'll go take a look.
@@ -121,7 +117,7 @@ Mafuyu: No, Mizuki's just over there. You two stay here.
 Ena: Huh? Where's “over there”...?
 Kanade: Oh, isn't that Mizuki over by the shaved ice stall...?
 Ena: Huh? Shaved ice?
-(Black cut)
+(Black transition)
 Mizuki: Thanks for lending me a hand, Mafuyu. I'm surprised a helpless look was all it took for you to notice.
 Mafuyu: I noticed that you left the drinks stall empty-handed...
 Mizuki: Oh, you did? Anyway, you're a lifesaver.
@@ -139,4 +135,4 @@ Mafuyu: What happened to not complaining...?
 Ena: N-No, that was a request!
 Mizuki: Haha!
 Ena: Alright, fine. Just give me whatever you recommend, Mizuki.
-(Black cut)
+(Black transition)

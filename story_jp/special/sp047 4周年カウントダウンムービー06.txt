@@ -9,16 +9,16 @@ sp47 4周年カウントダウンムービー06 (4th_countdown_06)
 ミク: ——こうやって、一緒にセカイを見守って どれくらいになるかな
 ミク: あの子達も、 見守り始めた頃と比べると全然違うね
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ひとつの夢を叶えて、 さらにその先へ進んでいこうとしている子達——
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 ミク: 目標に向かって、 一歩ずつ、進んでいく子達
 ミク: それから——
-(Black cut)
+(Black transition)
 (Background change)
 ミク: 自分の想いと向き合いながら、 行くべき道を探そうとしている子達——
 (Background change)
@@ -31,4 +31,4 @@ sp47 4周年カウントダウンムービー06 (4th_countdown_06)
 (Selection: 『もちろん！』/『自分でよければ』)
 ミク: ありがとう……！
 ミク: それじゃあ、これからもよろしくね♪
-(White cut)
+(White transition)

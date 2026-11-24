@@ -10,35 +10,27 @@ Gacha phrase: みんな、今日もお疲れさま！
 [住宅街]
 
 咲希: はあ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （仲良しなのに、お兄さんと妹さんが離れ離れ、か）
 咲希: （アタシ達のライブ、 ふたりで楽しそうに見てくれてたのに…）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 葉太: 花乃がいつまでも新しい家族と向きあえないのは、 前の家族が——俺がそばにいるせいじゃないかって
 葉太: 将来のことを考えたら、新しい家族と、 もっと心を開いて話せるようになったほうがいいと思うんです
 葉太: だから……今日、 『もう会うのはやめよう』と言いました
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （つらいけど、妹さんを想ってそう決めたんだろうな）
 咲希: （でも……）
 咲希: （離れ離れになるだけでもつらいのに、 お兄ちゃんからそんなこと言われたら……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -58,7 +50,7 @@ Gacha phrase: みんな、今日もお疲れさま！
 司: うおおお！？　ど、どどど、どうした咲希！？
 司: カレーならオレ達好みの 肉もジャガイモもニンジンもゴロゴロ入ってる甘口だぞ！？ 福神漬けもたっぷりだ！
 咲希: うぇえええん！　おいじぞう……！
-(Black cut)
+(Black transition)
 司: 咲希、落ち着いたか？
 咲希: 大丈夫……。びっくりさせてごめんね
 司: なあに、気にするな
@@ -73,16 +65,12 @@ Gacha phrase: みんな、今日もお疲れさま！
 司: それに……そのお兄さんが考えて考えて、 つらくなることも承知の上で出した結論でもあるからな
 咲希: そう、だよね……
 咲希: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 花乃: ……っ。お兄ちゃんとなんて、もう話したくない！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: もう会えないだけでもすごくつらいのに、 あんな風にケンカしたままなんて……
 咲希: ……アタシ達のファンだって、言ってくれたのに
@@ -94,7 +82,7 @@ Gacha phrase: みんな、今日もお疲れさま！
 咲希: ……うん、そうだよね
 咲希: ありがとう、お兄ちゃん！
 司: ああ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -103,22 +91,18 @@ Gacha phrase: みんな、今日もお疲れさま！
 
 [住宅街]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: あそこにいるのって……！
-(White cut)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
+(White transition)
 一歌: ……ふたりとも、笑ってた……
 一歌: ちゃんと届いた……のかな？
 咲希: ——うん、きっとそうだよ！ 絶対絶対そう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （きっと、仲直りもできたっていうことだよね）
 咲希: （えへへ。オリジナル曲、がんばって作ってよかったな！）
@@ -133,7 +117,7 @@ Gacha phrase: みんな、今日もお疲れさま！
 咲希: たぶんだけど、そうだったらいいなって！
 司: そうか……！ よかったな、咲希！
 咲希: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [咲希の部屋]
@@ -141,18 +125,14 @@ Gacha phrase: みんな、今日もお疲れさま！
 咲希: あと反省会で出たのは……。 あ、演奏にもっとメリハリをつける、だ
 咲希: 楽譜に書いてある強弱は大丈夫だけど、 曲全体のメリハリはまだまだって 志歩ちゃん言ってたっけ
 咲希: えっと、そのためにアタシがしないといけないのは——
-(Black cut)
+(Black transition)
 咲希: ——よし！ 反省会で話したこと、全部振り返れたかな
 咲希: （ライブ、まだまだ良くしていかないといけないけど、 今日は本当に——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: えへへ……
 咲希: （あの曲がふたりに届いたのは、 いっちゃんががんばって書いてくれた詞のおかげだな）
@@ -163,25 +143,21 @@ Gacha phrase: みんな、今日もお疲れさま！
 咲希: んー。作るとしたらどんな曲がいいかなぁ
 咲希: アタシだから届けられるような感じにできたらいいけど……
 咲希: うーん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 咲希: どうしてアタシのおひな様、新しいのに替えちゃったの……？
-(White cut)
+(White transition)
 咲希: ううん！　忘れてる！ 覚えてたらこんなことしないもん！
 咲希: お兄ちゃん、前から忘れっぽいって思ってたけど、 まさかこの人形のことまで忘れちゃうなんて……
 咲希: お兄ちゃんの……お兄ちゃんの……忘れんぼ！
 司: な、何ぃー！？　言ったな！？
-(White cut)
+(White transition)
 咲希・司: 『ふーんだっ！』 『ふんっ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: あ……
 咲希: そうだ！　大切な誰かとケンカしちゃった時に、 謝る勇気が出るような曲とか！
@@ -190,4 +166,4 @@ Gacha phrase: みんな、今日もお疲れさま！
 咲希: （それで、もっとたくさんの人にアタシ達のことを 知ってもらわないといけないって！）
 咲希: （いつか、アタシ達の作った曲で、 たくさんの人達を盛り上げられたら……！）
 咲希: よーし！　やるぞー！
-(Black cut)
+(Black transition)

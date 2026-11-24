@@ -21,23 +21,19 @@ KAITO: ……それでも、やらないといけないんだよね
 穂波: うん！
 穂波: 一緒に頑張ろう、みんなで！
 志歩: 穂波……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: わたしは、志歩ちゃんだけが 陰で苦しい思いをするのは、絶対に嫌なの！
 穂波: これはきっと、わたしのワガママなんだけど……
 穂波: 志歩ちゃんにわかってほしいの。 わたし達も志歩ちゃんを大切に思ってるって
 穂波: 大切な友達だから……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: そうだね。手分けして全部さばききろう
 一歌・咲希: 『おー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　１年Ａ組]
@@ -70,34 +66,30 @@ KAITO: ……それでも、やらないといけないんだよね
 志歩: それは、知ってる……
 志歩: （大声で『しぃちゃーん』なんて応援されたら 恥ずかしいな……）
 志歩: （けど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 雫: ……しぃちゃん。 最近、なんだか元気がないね
-(White cut)
+(White transition)
 雫: もしかして、バンドのことで何か悩んでる？
-(White cut)
+(White transition)
 雫: しぃちゃんも、穂波ちゃん達と ちゃんと話したほうがいいんじゃないかしら
-(White cut)
+(White transition)
 雫: 穂波ちゃん達なら、しぃちゃんの気持ちを 絶対、真剣に受け止めてくれるはずだから
-(White cut)
+(White transition)
 (Background change)
 志歩: 一歌達が、一緒にバンドがしたい、 プロを真剣に目指すって、言ってくれて……
-(White cut)
+(White transition)
 志歩: この先、どうなるかわからないけど…… でも……みんなの言葉がすごく嬉しかった
 志歩: だから、４人で頑張ろうと思う
-(White cut)
+(White transition)
 雫: ふぇ……しぃちゃん……っ！！
-(White cut)
+(White transition)
 雫: うっ、うっ……しぃちゃん、よかったね！ よかったね……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （いろいろ心配かけた時もあったしな）
 志歩: （ちゃんと演奏でも、感謝の気持ちを伝えたいし……）
@@ -106,14 +98,14 @@ KAITO: ……それでも、やらないといけないんだよね
 みのり: あ、志歩ちゃんが照れてる！
 志歩: どこが？　照れてないから
 こはね: ふふっ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 小豆沢こはね, 白石杏)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [雫の部屋]
@@ -133,7 +125,7 @@ KAITO: ……それでも、やらないといけないんだよね
 志歩: ……あ。 一応言っておくけど、アイドルのライブと違うから
 志歩: 見に来るなら、他の人の迷惑にならないようにしてね
 雫: は～い♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブ当日]
@@ -148,14 +140,14 @@ KAITO: ……それでも、やらないといけないんだよね
 雫: 『これから愛莉ちゃんとライブハウスに行くね。 ドキドキ♪』
 志歩: （『桃井先輩とはぐれないように、 気をつけて来てね』っと……）
 志歩: …………
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ♪————！
 志歩: （今日の演奏……みんな気持ちが乗ってる。 今までで一番、楽しそう）
 志歩: （なら私も、もっと……！）
 志歩: （ああ——楽しいな）
 志歩: （もっと、もっと弾いていたい）
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -176,32 +168,24 @@ KAITO: ……それでも、やらないといけないんだよね
 雫: しぃちゃん。演奏、とってもとっても良かったわ
 雫: それぞれの音が重なって、 ひとつになって体ごと心を揺さぶられて——
 雫: もっともっと、聴いていたいって思っちゃうくらい
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 志歩: （もっと、もっと弾いていたい）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: そっか……
 雫: それにね。私、嬉しいの
 雫: しぃちゃんが穂波ちゃん達と一緒にバンドができて、 ステージに立ってることが
 雫: それが、何より一番嬉しいわ
 志歩: お姉ちゃん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ……そうだね
 志歩: 私も、今日のライブすごく楽しかった
@@ -210,4 +194,4 @@ KAITO: ……それでも、やらないといけないんだよね
 雫: 私もまた誘ってほしいわ！ しぃちゃん、いいかしら？
 志歩: うん
 志歩: 次は今日よりももっといい演奏を聴いてもらえるように、 みんなと頑張るよ
-(Black cut)
+(Black transition)

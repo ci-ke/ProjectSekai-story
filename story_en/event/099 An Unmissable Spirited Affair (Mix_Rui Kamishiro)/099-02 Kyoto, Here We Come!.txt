@@ -11,7 +11,7 @@ Rui: Two and a half hours by bullet train... But we're finally here.
 Miyake: Guys! The bus for the temples and shrines tour is this way!
 Hayashi: Oh, we get to start with Kinkaku-ji Temple!
 Taniyama: I can't wait! Alright, let's go!
-(Black cut)
+(Black transition)
 Miyake: Whoa! I can't believe it's actually golden!
 Hayashi: Kinkaku-ji, the Temple of the Golden Pavilion. Its official name is apparently Hokuzan Rokuon Zenji Temple, and it's supposed to evoke a sort of paradise on earth...
 Taniyama: Yeah, I guess you'd only see a golden temple in a place like that...
@@ -42,14 +42,14 @@ Taniyama: How? Kamishiro's way too tall for that. We could maybe do that to Miya
 Miyake: What?! There's no way you could! Right, Kamishiro?!
 Rui: Hehehe... It may be fun to test that theory out later.
 Miyake: Whaaat?!
-(Black cut)
+(Black transition)
 Miyake: This is a shrine dedicated to a deity of education. Oh, one of the wish placards says, “I'm gonna get accepted!”
 Hayashi: *Sigh* Entrance exams are the last thing I wanna think about...
 Taniyama: In that sense, Kamishiro, you're really lucky since you always score super high on tests and stuff. I bet you won't have to work very hard to get into most schools.
 Rui: Yes, which means... I'll be able to focus on my shows instead of having to worry about exams.
 Taniyama: N-No fair! You could be a little more modest!
 Rui: Haha. I only speak the truth.
-(Black cut)
+(Black transition)
 Rui: Ah, this must be a traditional rock garden. It's much more beautiful than in the pictures.
 Rui: The boulders represent islands and the lines in the sand represent waves in the water. This must've been how the people of old depicted otherworldly realms.
 Miyake: Yeah, that's kinda cool when you put it that way. This place is so calm and sooth—
@@ -57,7 +57,7 @@ Taniyama: A-A-Achoo!!!
 Miyake: Whoa!
 Hayashi: Hey, so much for calm and soothing!
 Rui: Haha...! That did sort of turn this place's atmosphere on its head.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Inn]
@@ -82,7 +82,7 @@ Rui: Hehe. I agree. That does sound like fun.
 Miyake: You're on their side, Kamishiro...?!
 Hayashi: Alright, that settles that! You guys ready to play?
 Rui: Yeah, let's get started!
-(Black cut)
+(Black transition)
 Hayashi: A pair of kings! No one's gonna top that...!
 Rui: I can. A pair of aces. That's it for me.
 Miyake: Whaaat?! You're the president, Kamishiro?!
@@ -112,14 +112,14 @@ Rui: We have a bet in place where the person who finished last the most times af
 Tsukasa: Hah hah hah! I am a future star! “Last” is not a part of my vocabulary!
 Rui: Ah, I think I know where this is going.
 Tsukasa: So, let's begin!
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000205/bg_s000205.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000205/bg_s000205.webp)
 Tsukasa: Nooo! I'm the beggar again?! How?!
 Taniyama: Awesome! Not last! Alright, Tenma, you're getting juice for us!
 Hayashi: I can't believe how quickly that came back around...
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: Grr...! As frustrating as this is, I must admit defeat...! I'll go get them now!
 Rui: Would you like me to go with you, Tsukasa?
@@ -132,4 +132,4 @@ Tsukasa: Don't encourage him! Also, Rui, quit trying to follow me!
 Rui: Hehehehe...
 Tsukasa: No, stop laughing! And quit following me!
 Miyake: Hehe... Things really are fun when these two are together.
-(Black cut)
+(Black transition)

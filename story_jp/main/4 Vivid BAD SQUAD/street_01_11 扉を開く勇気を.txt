@@ -2,7 +2,7 @@ street_01_11 扉を開く勇気を
 
 (Character: 小豆沢こはね, 白石杏, 初音ミク, 鏡音レン, MEIKO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -26,17 +26,13 @@ MEIKO: 気にしないでいいのよ。 はい、今日はホットミルク。
 MEIKO: そうね。 悩んでるのは、このままじゃ嫌だって思って、 次の扉を開けようとしている証拠じゃない？
 こはね: ……扉を……？
 こはね: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: またあの歌を聴きに行くって……決めたんだから！
 こはね: だから……開けなくちゃ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 私……でも……
 ミク (VBS): ここで止まるか、次の扉を開けるかどうかは、 こはねが決めることなんじゃないかな
@@ -44,17 +40,13 @@ MEIKO: そうね。 悩んでるのは、このままじゃ嫌だって思って
 ミク (VBS): こはねは、自分の“本当の想い”ってなんだと思う？
 こはね: 私の“本当の想い”……
 こはね: わからない……でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ♪　――！　――！　――！！
 こはね: ……！　――♪　――♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 私……お店で初めて歌った時 すごくドキドキして、楽しかった
 こはね: あのドキドキした瞬間が忘れられなくて、 だから、杏ちゃんに誘ってもらえた時本当に嬉しかった
@@ -79,14 +71,14 @@ MEIKO: ええ。これで『Untitled』も 少し歌に近づいたみたい
 レン: へへっ、早く一緒に歌えるといいな！
 ミク (VBS): うん
 ミク (VBS): ……頑張ってね、こはね
-(Black cut)
+(Black transition)
 (Background change)
 
 [こはねの部屋]
 
 こはね: ……………
 こはね: もっと、変わるんだ……。 杏ちゃんと一緒に、最高のイベントをやるために
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -104,4 +96,4 @@ MEIKO: ええ。これで『Untitled』も 少し歌に近づいたみたい
 杏: ……ごめん父さん！ 私、今からこはねに会いに……
 こはねの声: ……杏ちゃん
 杏: え…………こはね！？
-(Black cut)
+(Black transition)

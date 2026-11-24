@@ -10,24 +10,20 @@ Gacha phrase: That was a surprisingly good year.
 [Ena's Room]
 
 Ena: A New Year's Countdown Party, huh...?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Mizuki: <It's simple! Let's do it in SEKAI!>
 Mizuki: <Yeah! We can meet up without having to go outside and we'll get to party together with Miku!>
 Mizuki: <I can take care of organizing it all...!>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: At least it won't be cold in SEKAI and I won't have to see anyone I don't want to. It's not a bad idea, actually.
 Ena: But there's still so much time to kill before evening...
 Ena: (Also... Mizuki volunteered to take care of everything, but it wouldn't feel right for me just to turn up empty-handed...)
 Ena: Oh, I know. I'll bring some of the sweets we got as year-end gifts. Hehe. I can sample a few first too.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -54,7 +50,7 @@ Ena: Excuse me?
 Akito: Come on, it's no effort. Just put more water in the kettle so there's enough for me too.
 Ena: I'll make you tea if you bring the gifts over to my room.
 Akito: Alright, fine.
-(Black cut)
+(Black transition)
 Akito: There. That's all of them.
 Ena: Whoa, we got a lot this year. Opening them one by one's gonna be a pain.
 Akito: Right? But picking out a few to eat in the meantime makes it less tedious.
@@ -86,24 +82,20 @@ Akito: What? We're not done checking the gifts.
 Ena: Mom asked you to take care of that, not me. Have fun.
 Akito: H-Hey!
 Akito: Fine... But don't count on me leaving you any of the best stuff!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Ena's Room)
 Ena: Phew... There. Two bottles of juice should be more than enough for the four of us.
 Ena: But we're really spending New Year's Eve together...
 Ena: So much has happened this year... The thing with Mafuyu, and us discovering SEKAI...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: You know, it was a surprisingly good year...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -130,7 +122,7 @@ Ena: No accessories?
 Mizuki: Yeah. It's not that I'm not interested, but it's no biggie. I could definitely use more cosmetics, so I'm going for those too.
 Ena: Okay. We still need to think about where each of us has to go after this one.
 Mizuki: Yeah. We gotta be efficient to get everything we want before it's all gone♪
-(Black cut)
+(Black transition)
 Mizuki: Oh, hey. They should be opening soon.
 Ena: You're right. Time really flies when you're strategizing.
 Mizuki: Everyone waiting looks so excited too. I'm starting to get pretty excited!
@@ -140,7 +132,7 @@ Ena: (Finally!)
 Ena: Got our first one♪
 Mizuki: Cool! I'll go to the next place on our list!
 Ena: Okay! Let me know if anything happens!
-(Black cut)
+(Black transition)
 Ena: The third store on our list is... Here! The one Mizuki wanted!
 Ena: Great, they still have their white outfit sets too!
 Ena: Okay, got it. Next is...
@@ -150,7 +142,7 @@ Ena: No way! They didn't sell this fast last year!
 Ena: <Forget the cosmetics! See if you can still get anything in M for me!>
 Mizuki: <You got it♪>
 Ena: Mizuki, you're my only hope. Alright, next for me is...!
-(Black cut)
+(Black transition)
 Ena: Oh, Mizuki...! I'm over here!
 Mizuki: Looks like we got everything we wanted! Now, let's check out the spoils♪
 Ena: Hold on. This is an M bag, right? Why is there L-sized stuff mixed in...?!
@@ -161,7 +153,7 @@ Ena: You're right... But do you think she'd want them?
 Mizuki: Who knows? Dang, this white dress would look better on Miku than me.
 Mizuki: Ena, can we go over to SEKAI for a bit? Mafuyu might just be there too.
 Ena: Now...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -186,7 +178,7 @@ Mafuyu: No thanks...
 Ena: But the M-sized grab bag had L-sized stuff mixed in. Can you believe it?
 Mafuyu: No need to show me.
 Ena: Come on, it won't hurt to take a look! Here!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -199,4 +191,4 @@ Airi: <A belated Happy New Year, Ena!>
 Ena: It's from Airi...!
 Ena: ...
 Ena: <And Happy New Year to you! I'm looking forward to our shopping trips this year too!>
-(Black cut)
+(Black transition)

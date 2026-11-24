@@ -3,7 +3,7 @@
 (Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro, Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
 (Video: link_wonder_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -30,7 +30,7 @@ MEIKO (WxS): We found that none of them knew anything about that phoenix, but th
 Emu: Apparently, lots of different plushies from all over gather there to talk about the rumors they've heard and stuff!
 Rui: Yes, which means one of them may've seen or heard something about that phoenix.
 Rui: Alright, let's try heading over there.
-(Black cut)
+(Black transition)
 
 [Outside the Inn]
 
@@ -48,7 +48,7 @@ Rui: Yes, but... Joining in on this celebration may actually make it easier for 
 Rui: People do tend to be more talkative when they're in a good mood.
 Tsukasa: Hmm... Good point...
 Tsukasa: Then, we can split up and ask around, while also enjoying this party!
-(Black cut)
+(Black transition)
 Plushies: I don't know anything about this phoenix of yours.
 Plushies: A phoenix? Like the mythical creature? Are you sure you saw one?
 Plushies: Sorry we can't help you.
@@ -101,14 +101,14 @@ Zombie Plushie: CHOMP CHOMP CHOMP!
 Rui: I'm okay. It doesn't hurt.
 Rui: (Oh, perhaps he's replying to my initial greeting with his own?)
 Rui: Alright, I should give a greeting in return.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000289/bg_s000289.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000289/bg_s000289.webp)
 Rui: Pardon me. CHOMP.
 Zombie Plushie: !!!
 Miku (WxS): Oh, I wanna chomp too! That looks like fun☆
 Rin (WxS): Me too☆ CHOMP.
 Zombie Plushie: Wh-What are you all doing...? Weirdos...
-(White cut)
+(White transition)
 (Background change)
 Miku (WxS): Anyway, there's something we wanna ask you zombies!
 Rin (WxS): We're looking for a phoenix☆
@@ -139,4 +139,4 @@ Rui: ...
 Rin (WxS): Is something wrong, Rui?
 Rui: Oh... Nothing's wrong. It's just...
 Rui: They reminded me of my own past...
-(Black cut)
+(Black transition)

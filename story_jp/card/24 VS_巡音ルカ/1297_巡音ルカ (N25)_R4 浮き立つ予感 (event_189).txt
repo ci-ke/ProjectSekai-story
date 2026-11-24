@@ -30,10 +30,8 @@ MEIKO (N25): でも……腑に落ちたわ
 MEIKO (N25): あの子が、あなたをじっと見ている理由がよ
 ルカ (N25): ああ、リンのこと
 ルカ (N25): 校外学習の話があったあたりから、 あんな感じなのよね……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 リン (N25): ——ルカ、何か企んでる
 ルカ (N25): あらあら、藪から棒ね。 いきなりどうしたの？
 リン (N25): まふゆが校外学習の話してる時、悪い顔してた
@@ -43,10 +41,8 @@ MEIKO (N25): あの子が、あなたをじっと見ている理由がよ
 ルカ (N25): まさか。私がそんなことすると思う？
 リン (N25): 思う
 ルカ (N25): 困ったわねえ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ルカ (N25): 本当に楽しんできてほしいと思っているのに、心外ね
 MEIKO (N25): リンがそう思うのも無理はないわ
 ルカ (N25): あら、メイコまで？
@@ -59,7 +55,7 @@ MEIKO (N25): ……そう。納得したわ。 そんな顔をしている理由
 ルカ (N25): リンも、メイコのように すぐ信じてくれればいいのに
 MEIKO (N25): 日頃の行いのせいでしょうね
 ルカ (N25): 本当に心外ねえ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -86,15 +82,11 @@ MEIKO (N25): 日頃の行いのせいでしょうね
 ルカ (N25): もっとも、外から見ているだけじゃ わからないものが多かったけれど
 ミク (N25): まふゆは楽しめてた？
 ルカ (N25): そうねえ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (N25): ……どうかしらね？
 リン (N25): それってどういう——
@@ -131,4 +123,4 @@ MEIKO (N25): 日頃の行いのせいでしょうね
 リン (N25): わたしも、聞きたい
 まふゆ: ……別にいいけど
 ルカ (N25): ふふ、ありがとう。嬉しいわ
-(Black cut)
+(Black transition)

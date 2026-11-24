@@ -21,7 +21,7 @@
 こはね: ……次から、私、もっと頑張るね
 こはね: ……あ、もうすぐイベント終わる頃だよね。 早く戻らないと
 杏: こはね……
-(Black cut)
+(Black transition)
 (Background change)
 
 [『STAY GOLD』会場]
@@ -32,7 +32,7 @@ MC: 最高にエネルギッシュな歌と パフォーマンスだったぜ！
 観客の女性: 前評判通り、EVERのひとり勝ちだったけどね
 MC: それじゃ、優勝チームはステージの上に——
 杏・こはね: 『…………』
-(Black cut)
+(Black transition)
 杏: ……あっという間だったね
 こはね: ……うん、そうだね
 彰人: 今日のことは、このあとちゃんと話しあったほうがいいな。 こんなミス、二度としねえぞ
@@ -56,23 +56,19 @@ MC: それじゃ、優勝チームはステージの上に——
 出演者の男性A: まーな
 出演者の男性B: それより、やっぱEVERは最高だったな！ 会場とステージの一体感が半端ないっつーか……
 杏: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
 
 杏: はあ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 彰人: お前は、こはねのことを相棒って 思えてなかったってことだろ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 杏: （私、最低だ……）
 遥: ……あれ、杏？
 杏: ……遥？
@@ -84,4 +80,4 @@ MC: それじゃ、優勝チームはステージの上に——
 遥: 大丈夫？　もしかして、体調が悪いとか……
 杏: あ、そういうんじゃないよ！ ただ……
 杏: 実は、さっき参加したイベントで——
-(Black cut)
+(Black transition)

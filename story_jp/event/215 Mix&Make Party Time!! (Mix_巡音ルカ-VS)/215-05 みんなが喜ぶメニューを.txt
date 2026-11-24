@@ -93,7 +93,7 @@ KAITO (N25): 『……要するに、ただ食いたくないだけだろ』
 KAITO (N25): 『ここで言い合ってる時間が勿体ない。 野菜を入れてもいいから先に進めろ』
 MEIKO (VBS): 『そうね。シンプルに、 爽やかな味で口直ししたい子もいるでしょうし』
 MEIKO (VBS): 『じゃあ、改めて 前菜のメニューについてだけど……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -128,18 +128,18 @@ KAITO (WxS): 『そうなんだ。 会えないのは残念だけど、きっと
 MEIKO (VBS): 『ふふ、そうね。　——さあ、カスタードベースと生クリームを 混ぜたら、あとは冷やすだけよ』
 MEIKO (VBS): 『生地をバットに流して、冷凍庫に入れてね』
 こはね: はい！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000632/bg_s000632.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000632/bg_s000632.webp)
 KAITO (WxS): 『これが、アイスの元なんだね……！』
 KAITO (WxS): 『完成したアイスしか見たことなかったから、 なんだか新鮮だな……』
 KAITO (WxS): 『どんなアイスになるんだろう。 楽しみだね……』
 KAITO (VBS): 『ていうか、これ全部がアイスになるんでしょ？ ボク食べきれるかなあ！？』
 KAITO (WxS): 『そっか……！ こんなにたくさん食べられるんだ……』
 KAITO (N25): 『………………』
-(White cut)
+(White transition)
 (Background change)
 愛莉: いろいろツッコミたいところはあるけど…… まあ、今日は夢に浸らせてあげましょ
-(Black cut)
+(Black transition)
 MEIKO (VBS): 『——うん、これでメニューの試作が全部できたわね』
 穂波: 唐揚げに生春巻き、ロールサンドイッチにミートボール…… あとはカットフルーツにマシュマロ、それにアイスですね
 MEIKO (WxS): 『いいんじゃないかしら？ とっても美味しそうだわ！』
@@ -171,4 +171,4 @@ MEIKO (VBS): 『もう、それ目当てで来たんじゃないの？』
 類: パーティー当日も、セカイにみんなの分の料理を持って行くから 期待していてほしいな
 ルカ (VBS): 『やった、役得役得～！』
 MEIKO (VBS): 『まったく……』
-(Black cut)
+(Black transition)

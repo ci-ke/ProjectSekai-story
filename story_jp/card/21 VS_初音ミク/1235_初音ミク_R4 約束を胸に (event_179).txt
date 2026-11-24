@@ -12,14 +12,14 @@ Gacha phrase: きっと、みんなに届いてるよ
 リン (Ln): あっ、そうだった！　腐っちゃうなんて絶対ダメダメ！ もうお水あげない！
 レン (Ln): ……二度とあげないみたいなテンションだけど、 あくまで今日はもういらないって話だからな？
 リン (Ln): わ、わかってるよー！
-(Black cut)
+(Black transition)
 (Background change)
 ルカ (MMJ): たくさんたくさん、おおきくな～れ～♪
 ミク (MMJ): ふふっ。ルカちゃん、最近木にお水あげる時 よく歌ってるね
 ルカ (MMJ): だって、相手が木でも 気持ちを言葉にするのって大事だと思うもの。 ミクちゃんも一緒にどう？
 ミク (MMJ): いいの？　じゃあ、一緒に歌っちゃおうかな
 ミク・ルカ: 『たくさんたくさん、おおきくな～れ～♪』
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -27,23 +27,19 @@ Gacha phrase: きっと、みんなに届いてるよ
 ミク: 一歌ちゃん達のセカイの木も、 みのりちゃん達のセカイの木もどっちも元気そうでよかった
 ミク: それに、あの黒い想いの欠片みたいな 異変も起きていないみたいだし
 ミク: ……でも本当にびっくりしちゃったな。 みんなのセカイで、あんなことがあるなんて
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): ……っ！　一歌、ストップ！
 (Background change)
 一歌: わっ！
-(White cut)
+(White transition)
 (Background change)
 ミク (MMJ): ……！　みのりちゃん、離れて！
 みのり: えっ？
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク: ……黒い想いの欠片、か
 ミク: 想いの欠片の色がくすんじゃったり、 欠けちゃったりすることがあるのは知っていたけど——
@@ -53,18 +49,14 @@ Gacha phrase: きっと、みんなに届いてるよ
 ミク: そういえば、あの想いの木自体も すごく不思議なんだよね
 ミク: あの子達のセカイは、 あの子達それぞれの想いから生まれているのに 同じような木が生えてくるなんて――
 ミク: きっと、あの時見た想いの欠片のセカイが 関係しているんだろうけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク: あそこは、一歌ちゃん達の 『セカイのわたし達に対する感謝の気持ち』と——
 ミク: セカイのわたし達の あの子達に『想いのままに成長してほしい』っていう 願いが重なって生まれたんだよね
 ミク: あの時は、想いの欠片の状態だったから セカイになることはなかったけど
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク: もしかして、あの想いの欠片に一歌ちゃん達が触れたから みんなのセカイに木が……
 ミク: （あの想いの欠片のセカイは すごく素敵な想いから生まれた場所だし——）
@@ -76,7 +68,7 @@ Gacha phrase: きっと、みんなに届いてるよ
 ミク: えっと……あと見に行っていないのは、 こはねちゃん達と司くん、まふゆちゃんのセカイだよね
 ミク: 木の様子だけでも見てこないと
 ミク: よし、行こう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -88,21 +80,17 @@ Gacha phrase: きっと、みんなに届いてるよ
 ？？？: 『————♪　————♪……』
 ミク: この声……。 アイドルのわたしかな？
 ミク: 歌っているのは、あの時の……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (MMJ): ————♪　————♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク: ……うん、きっとそうだ
 ミク: でも、なんでまたあの歌を？
 ミク: ……ちょっと様子を見に行ってみようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -144,4 +132,4 @@ Gacha phrase: きっと、みんなに届いてるよ
 ミク: もう次の瞬間には、どうしたらいいか考え始めていたもんね
 ミク: 本当に、素敵なアイドルだね
 ミク: ふふ。同じ“わたし”で、すごく誇らしいな
-(Black cut)
+(Black transition)

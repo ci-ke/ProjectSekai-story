@@ -16,7 +16,7 @@
 雫: （きっとそういったものを得るために、 これは——弓道はある）
 まふゆ: それじゃあ日野森さん、始めようか
 雫: ——ええ
-(Black cut)
+(Black transition)
 まふゆ: 先攻は私だね
 雫: （……さすが朝比奈さんね。 簡単にあててしまったわ）
 雫: （本当にすごいわ。 迷いなんてまるで見えない、ゆったりとした、 力みのない射法で……）
@@ -64,14 +64,14 @@
 雫: （一度試合を止めたほうがいいのかしら……。 でも……）
 雫: （……ダメ。さっき決めたでしょう。 朝比奈さんが本当に苦しくなる時がきたら、 その時力になろうって）
 雫: （なら、私にできることは——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000143/bg_s000143.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000143/bg_s000143.webp)
 雫: ——呼吸をして、朝比奈さん
 まふゆ: ……え？
 雫: 何が朝比奈さんの心を乱してるのか、 私にはわからないわ
 雫: でもきっと……朝比奈さんなら、 揺らいでも、自分の心を整えることができる
 雫: だから今はただ——この一射だけを考えて
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ……日野森さん……
 雫: きっと、できるわ
@@ -82,4 +82,4 @@
 まふゆ: ……ありがとう、日野森さん
 まふゆ: でも……勝負はまだ終わってないよ？ 頑張って
 雫: ……ええ！
-(Black cut)
+(Black transition)

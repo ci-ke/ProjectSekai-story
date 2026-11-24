@@ -11,16 +11,12 @@ Gacha phrase: 予定が大丈夫だったらライブに来てね？
 
 穂波: （感謝ライブの準備、順調だな）
 穂波: （宵崎さんも、招待できてよかった……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （咲希ちゃんや志歩ちゃんも招待したい人達に チケット渡せてるみたいだし——）
 穂波: （わたしも、しっかり渡さないと）
@@ -40,7 +36,7 @@ Gacha phrase: 予定が大丈夫だったらライブに来てね？
 えむ: わあ……！　ライブのチケット！？
 絵名: えっ、もらっちゃっていいの！？
 穂波: はい。実は、今度のライブは——
-(Black cut)
+(Black transition)
 絵名: ……感謝の気持ちを伝えるライブ、か
 絵名: けど、大丈夫？ 瑞希なんてつい最近知り合ったみたいなもんでしょ？
 絵名: 私だって、絵の描きかたを教えたくらいで、 穂波ちゃん達のバンドの役に立ったわけじゃないのに
@@ -66,7 +62,7 @@ Gacha phrase: 予定が大丈夫だったらライブに来てね？
 えむ: あっ、あたしも穂波ちゃんのイラスト見た～い♪
 穂波: えっと……持ってますけど……
 穂波: じゃあ、この前みたいに なんの絵か当ててみてくださいね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -150,4 +146,4 @@ KAITO: ……あ、このカップケーキ、 アップルパイの中身みた
 穂波: ふふ、いいよ
 一歌・志歩: 『えっ！？』
 みんな: 『ふふっ』 『あははっ！』
-(Black cut)
+(Black transition)

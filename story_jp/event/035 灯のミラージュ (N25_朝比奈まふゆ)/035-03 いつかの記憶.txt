@@ -39,9 +39,9 @@
 瑞希: ありがと、リン！ まふゆはどうかな？
 まふゆ: ……わかった
 瑞希: よし決まり！　それじゃ、 さっそく見せてもらお、リン！
-(Black cut)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000005/bg_s000005.webp)
+(Black transition)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000005/bg_s000005.webp)
 瑞希: おおっ、弓道着のまふゆだ！
 瑞希: カッコイイ～！ そういえば、弓道部だって前に言ってたもんね
 リン: この写真、いつの？
@@ -51,7 +51,7 @@
 瑞希: いや、頼まれたからって……。 はあ。つくづくすごいんだなー、まふゆは
 瑞希: ……あ！　小さい頃のまふゆ、 めちゃくちゃカワイイ～！
 まふゆ: ……そうかな
-(White cut)
+(White transition)
 (Background change)
 瑞希: そうだよ！　この写真とか、 ほっぺ真っ赤にしちゃって……
 瑞希: …………ん？
@@ -101,4 +101,4 @@
 瑞希: ……でも、そうだね
 瑞希: 『本当の自分』はあるのに、それをうまく見せられない人もいれば 『本当の自分』を見つけられなくて、苦しんでいる人もいる
 瑞希: ……まふゆは早く、『本当の自分』を 見つけられるといいね
-(Black cut)
+(Black transition)

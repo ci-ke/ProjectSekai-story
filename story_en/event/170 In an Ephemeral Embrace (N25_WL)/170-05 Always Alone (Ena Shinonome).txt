@@ -10,7 +10,7 @@ Ena: (But things were a lot worse in first year when I'd just returned to being 
 Ena: (After studying like crazy, I've finally reached a point where I can keep up during class...)
 Teacher: Alright, we'll continue this discussion during our next class. Please make sure to read ahead and review what we did today, everyone.
 Ena: Okay...
-(Black cut)
+(Black transition)
 Ena: *Sigh* That class was such a drag.
 Friend: I know, right? I'm so bad at English. I started getting sleepy partway through.
 Ena: You'd better study up, or you'll regret it during our next quiz.
@@ -30,7 +30,7 @@ Ena: No, you need to use it to study.
 Friend: Guys, you gotta see this! Ena drew it just now!
 Classmate: Wait, really?! I didn't know you were such a good artist, Ena!
 Ena: Stop exaggerating, you guys.
-(Black cut)
+(Black transition)
 Ena: (That's it for classes... I don't have any other plans today, so I think I'll go do some shopping.)
 Classmate A: Hey, Ena! Can I ask you for a tiny favor?
 Ena: Huh? Wh-What kind of favor?
@@ -45,7 +45,7 @@ Classmate B: I'm sure everyone will love whatever you draw, and you can take all
 Ena: You're really laying it on thick...
 Ena: Sure, I'm in. Can you start by telling me what this poster is for?
 Classmate B: Thank you! So...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -56,18 +56,14 @@ Ena: Alright, everything's done!
 Ena: Phew... That took longer than I expected.
 Ena: It's been so long since I did such a big piece. I honestly thought that I'd locked away my paints for good.
 Ena: But still...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate A: And when I saw your drawings the other day, I knew it just had to be you! Whatcha say?
-(White cut)
+(White transition)
 Classmate B: I'm sure everyone will love whatever you draw, and you can take all the time you need...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (They're expecting something good from me, so I have to hold up my end.)
 Ena: It's 25:00? I still don't feel like going to bed yet, but I've finished drawing everything I was asked to.
@@ -82,7 +78,7 @@ Ena: I don't know what that was...
 Ena: (But it felt a little nostalgic somehow...)
 Ena: Just a little bit.
 Ena: I'll draw just a little.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few months later]
@@ -112,6 +108,6 @@ Ena: (All by myself...)
 Ena: (True, when you spend all day every day drawing, you sort of end up emptied out of everything else.)
 Ena: (But...)
 Ena: That's what it means to make art. So, that's really just how it goes.
-(Black cut)
+(Black transition)
 (Video: link2_night_ed2)
-(Black cut)
+(Black transition)

@@ -40,15 +40,11 @@ MEIKO (MMJ): 咲いてる花がこんなに綺麗なのも、 みんなのあっ
 MEIKO (MMJ): でも、この花畑…… まだつぼみの花もたくさんあるわよね
 KAITO (MMJ): もしここが満開になったら、すごく綺麗だろうね。 辺り一面に、ぱっと色がついて
 みのり: 一面に、ぱっと色が……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: あ……！
 遥: みのり？
@@ -90,6 +86,6 @@ KAITO (MMJ): そう思うと…… どんな風に育っていくのか楽しみ
 みのり: もあもあ～っ……
 (Background change)
 雫・愛莉・遥: 『JUMP！』
-(White cut)
+(White transition)
 (Video: link_idol_bud)
-(Black cut)
+(Black transition)

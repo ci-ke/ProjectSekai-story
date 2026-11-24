@@ -15,10 +15,8 @@ Gacha phrase: ……本当に、綺麗だな
 絵名: （……まだまだ、勉強が足りないな）
 絵名: ——よし。帰ってデッサンしよう
 絵名: それに……今日は、楽しみもあるしね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『——チーズケーキ専門店？』
 (Background change)
@@ -38,14 +36,12 @@ Gacha phrase: ……本当に、綺麗だな
 瑞希: 『あ、食べたら感想教えてよ♪ えななんが気に入ったら、ボクも買いたいし』
 絵名: 『ちょっと、人を実験台にしないでよ』
 瑞希: 『いやいや、味覚を信頼してるんだよ〜！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 初日だし、人多いかもだけど…… チーズケーキのためだしね
 絵名: えっと、たしかこの角を曲がって——
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -75,7 +71,7 @@ Gacha phrase: ……本当に、綺麗だな
 母親: なら、お茶いれるわね。 ケーキと一緒に部屋に持っていってあげる
 絵名: はーい
 絵名: （しっかり息抜きもして……絵も頑張ろっと）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,4 +125,4 @@ Gacha phrase: ……本当に、綺麗だな
 奏: ただ——
 奏: できれば、もう少し涼しくなってからがいいな
 絵名: ……たしかに、そうだね
-(Black cut)
+(Black transition)

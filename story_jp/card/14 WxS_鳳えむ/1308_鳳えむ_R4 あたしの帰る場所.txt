@@ -24,30 +24,24 @@ Gacha phrase: 信じて待ってるからね！
 類: つまり、ワンダーステージは 他のステージのみんなにとって、いい挑戦の場になっていて それが成功しているということだね
 えむ: うんっ☆
 えむ: （……嬉しいな。 今も、ワンダーステージがお客さんでいっぱいなんて）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: （あの頃は、あたしや着ぐるみさんだけで頑張ってたけど……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （今は、みんながいる）
 えむ: （フェニックスワンダーランドのことも、 『みんなの笑顔が生まれる場所』として守ろうって、 みんなが同じ気持ちを持ってくれてて）
 えむ: （いっぱい外の世界を見てきなさいって、 あたしを送り出してくれた……）
 えむ: （みんなが信じてくれた分、 あたしもみんなを信じて、しっかり勉強しなくちゃ！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [えむの部屋]
@@ -57,7 +51,7 @@ Gacha phrase: 信じて待ってるからね！
 えむ: えっと、わかんなかったところはちゃんとメモしたし、 今度お兄ちゃん達に教えてもら……
 えむ: ……ふぁ。 遅くなっちゃったし、そろそろ寝なくちゃ
 えむ: ……おやすみなさ～い
-(White cut)
+(White transition)
 (Background change)
 えむ: …………ほへ？　セカイだ……
 えむ: ……アラームつける時に、間違って押しちゃったのかな？
@@ -73,7 +67,7 @@ MEIKO (WxS): ピカッと？
 MEIKO (WxS): ……ちょっと待って！ キラキラする落とし物ってまさか想いの欠片！？
 えむ: えっ？　でもこのキラキラ、 なんだか氷が割れたみたいな形してるよ？　ほら——
 えむ: わわわっ！　なになに！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -140,13 +134,13 @@ MEIKO (WxS): わかってるけど、床が……！
 ワンダーステージの怪人: 『どわーーーっはっはっはっはっ！』
 えむ: わわわっ！　こっち？ じゃなくて、こ——
 えむ・えむ？: 『あいた！』 『ふぎゅっ』
-(White cut)
+(White transition)
 えむ？ (えむ): お、お星さま、き～らきらで、ぐ～るぐる……
 えむ？ (えむ): きゅ～～～～
 ルカ (WxS): た、大変。ふたりともおめめがぐるぐるだわ
 MEIKO (WxS): もー！　あれもこれもそれもってされたら リアクションが追いつかないでしょー！
 MEIKO (WxS): とにかく、一度離れるわよ！ ルカ、小さい方のえむちゃんをお願いね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -165,7 +159,7 @@ MEIKO (WxS): ……しばらく私達を探してたんだけど、 少し前に
 えむ: あたしがもうひとりいるー！？
 ルカ (WxS): ……ねえ、めーちゃん。 もしかして——
 MEIKO (WxS): あはは……。 びっくりすることが起きすぎじゃない？　このセカイ……
-(Black cut)
+(Black transition)
 MEIKO (WxS): ——それじゃあ、今わかってることを整理するわよ！
 えむ・ルカ: 『はーい♪』
 MEIKO (WxS): まず、このセカイの想いの持ち主だけど、 えむちゃんで間違いないと思うわ
@@ -180,21 +174,15 @@ MEIKO (WxS): そういえば、あれはえむちゃんが小さい頃に 作っ
 ルカ (WxS): あら～、素敵なお話ね
 MEIKO (WxS): そうね。それが、どうしてこのセカイでは あんなに主張が激しい感じになったのかしら？
 えむ: うーん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 えむ？ (えむ): ——なんで、どっか行っちゃうの！？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 えむ: なんで、どっかやっちゃったの！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: そうだ、あの紙粘土のワンダーステージ……
 ルカ (WxS): 何か思い出したの～？
@@ -218,7 +206,7 @@ MEIKO (WxS): わからないわね。 もうひとりのえむちゃんが起き
 MEIKO (WxS): ……えむちゃんなら、きっとそう言うだろうなと思ったわ
 ルカ (WxS): ええ。もうひとりのえむちゃんは、わたしが見ているから 安心して行ってきて？
 えむ: うん！
-(Black cut)
+(Black transition)
 ワンダーステージの怪人: 『……わっはっはっ……』
 MEIKO (WxS): ……あらら。正座してうなだれてるわ……
 えむ: うん……。すごく落ち込んでるみたい
@@ -231,58 +219,42 @@ MEIKO (WxS): 笑ってるようにも見えるけど……
 えむ: ……あのね、あたしは大丈夫だよ！ 床のぽよんぽよんも、とっても面白かったし！
 ワンダーステージの怪人: 『わっはっはっはっ』
 えむ: うん！　これで仲直り——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 楽之介: ——このステージはね、 ショーのたびに、いろいろな世界になるんだ
 楽之介: ジャングルの世界になったり、雲の上の世界になったり、 原始人のいる世界になったり、宇宙人のいる世界になったり……
 楽之介: どんな世界にだってなれる、ワンダーランドなんだよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 えむ: とーーーーーーーーっ！！
-(White cut)
+(White transition)
 司: うわー！？　な、なんだ！？ 何か降ってきたぞ！？
 えむ: ようこそっ☆ 笑顔い～っぱいの、ワンダーステージへ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 司: 劇団名だ！ 公演をするなら劇団名が必要だろう？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 司: その名も……『劇団 ペガサス☆インザスカイ』！！
 ネネロボ: 『……ダサ』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: ……よし！ お前達の気持ちはよくわかった！
 司: ならば、ワンダーランズ×ショウタイム、続投だ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 司: 最後の挨拶は——このワンダーステージに送ろう
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 司: お前のおかげで、オレ達はとても楽しかったぞ！
 司: 本日まで——ありがとうございました！！
 類・えむ・寧々: 『ありがとうございました！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: 今のって……
 MEIKO (WxS): もしかして、ワンダーステージが見せた記憶？
@@ -298,7 +270,7 @@ MEIKO (WxS): もしかして、ワンダーステージが見せた記憶？
 えむ: ……大丈夫だよ
 えむ: 大事なステージのことも、 フェニックスワンダーランドのことも、絶対に忘れたりしない
 えむ: だって——
-(White cut)
+(White transition)
 えむ: あたしの夢は、フェニックスワンダーランドが 世界中の人、みーんな笑顔になれる場所にすることだから
 MEIKO (WxS): ……元に戻ったみたいね
 えむ: ……それにね。 みんなも、あたしと同じ気持ちなんだよ
@@ -315,7 +287,7 @@ MEIKO (WxS): ……元に戻ったみたいね
 ワンダーステージの怪人: 『ぐわーーーっはっはっはっはっ！！』
 ルカ (WxS): あら～。ワンダーステージも嬉しそうだわ
 MEIKO (WxS): 本当ね！
-(White cut)
+(White transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -328,4 +300,4 @@ MEIKO (WxS): あはは！　たしかに自分やステージと話す機会な�
 えむ: うんっ！　それに、約束も守らなくちゃ！
 えむ: そのためにも、いっぱいいっぱい勉強して、 フェニックスワンダーランドを守れるようになるぞー！
 MEIKO・えむ・ルカ: 『おー！』 『お～♪』
-(White cut)
+(White transition)

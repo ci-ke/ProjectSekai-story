@@ -3,7 +3,7 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
 : えむが、司達を笑顔で送り出すと決めた一方で—— 慶介達のはからいにより、ワンダーランズ×ショウタイムには 合同公演の話が持ち込まれていた
-(Black cut)
+(Black transition)
 (Background change)
 司: 右よし！ 左よし！ 正面よし！！
 司: 12000％天馬司ッ！ いざ、フェニックスステージに出陣だぁぁぁ！！
@@ -14,35 +14,31 @@
 司: フェニックスステージとの合同公演、 その顔合わせの日なのだからな！！
 司: せっかく成長の機会を与えてもらったのだ！ 必ずやこの公演、糧とさせてもらうぞ！
 司: （しかしまさか…… このような機会をもらえるとはな）
-(Black cut)
-
-(Memory cut-in)
-
+(Black transition)
+(Flashback in)
 晶介: ——この合同公演の話は、 お前達にとっても悪い話じゃないと思うぞ
 晶介: フェニックスステージは、 他のテーマパークやショーステージからも一目置かれる 実力派の舞台だからな。やりがいは保証する
 晶介: きっと——役者として学ぶことが大いにあるはずだ
 司: ……！
 司: （これは、もしかすると……）
-(White cut)
+(White transition)
 (Background change)
 司: だから——宣伝公演という形でなくても構わない。 この先も何か、様々な舞台に立つ機会を 設けてもらうことはできないだろうか？
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
 司: （あの時、他の舞台に立ちたいという 相談をしに行ったから……なのか）
-(Black cut)
-
-(Memory cut-out)
-
+(Black transition)
+(Flashback out)
 (Background change)
 櫻子: 一応伝えておくわ。 ワンダーランズ×ショウタイムの皆さん
 櫻子: うちは、あなた達が思っている以上に厳しいわよ。 全力でついてくることね
 司: ああ！ 望むところだ！
-(Black cut)
+(Black transition)
 (Background change)
 : 合同公演の演目は『ハッピーフェニックス』。 司は、ショーに憧れるきっかけとなった俳優が、 かつて演じていた役と、同じ役を演じることになる
 : 憧れの人との距離を痛感し、苦しみ抜きながらも 司は大きく成長を遂げる
-(Black cut)
+(Black transition)
 (Background change)
 司: （これがスター・天満星一……。 オレが憧れた、本物の……）
 司: （本物……の……）
@@ -52,17 +48,17 @@
 司: （10歩も歩けば手が届きそうな舞台だというのに）
 司: （あまりに——遠い）
 司: （……いいや……いいや、目を背けるな！）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
 司: （この感情を……もっと感じろ……！）
 司: （何よりほしいものを手に入れることができない—— 自分の非力さを感じろ！）
 司: （どれだけ練習しても……全力を振り絞っても、 オレは、周りの人間に劣る）
 司: （走っても、走っても、 どれだけ手を伸ばしても、追いつくことができない）
 司: （あの、遥か高い空を翔ける、火の鳥に——）
-(Black cut)
+(Black transition)
 (Background change)
 : そして寧々も、武器であるはずの『歌』の欠点を指摘され、 改めて向き合うことになり——
-(Black cut)
+(Black transition)
 (Background change)
 櫻子: 稽古の時にうちの演出家が言っていたことは間違いないわ。 あなたの歌は私達の劇から浮いている
 櫻子: そしてそれは、癖がついてしまっているせいね。 そう——
@@ -70,16 +66,16 @@
 寧々: っ！
 寧々: （わたしの癖が、経験者特有のもの……？）
 寧々: （ステージ経験があるのは、わたしの強みだと思ってたのに……）
-(Black cut)
+(Black transition)
 (Background change)
 : 寧々は勇気を振り絞り、 自分の憧れのミュージカル俳優・風祭にアドバイスを仰ぐ
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000194/bg_s000194.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000194/bg_s000194.webp)
 寧々: どんな小さなことでもいいんです。 アドバイスをもらえませんか
 寧々: このまま次の公演を中途半端なものにしてしまったら、 わたしは、わたしを許せない
 寧々: だから……お願いします。 わたしは——
 寧々: 世界で歌う、ミュージカル俳優になりたいんです……！
-(White cut)
+(White transition)
 (Background change)
 夕夏: ……そっか
 夕夏: それなら寧々ちゃんは、 私のライバルになるってことだね！
@@ -88,10 +84,10 @@
 夕夏: 私がこっちに滞在してるあいだに、 教えられるもの全部——寧々ちゃんに叩き込んであげる！
 寧々: あ……
 寧々: ありがとうございます！
-(Black cut)
+(Black transition)
 (Background change)
 : そして、それぞれが全力を尽くした合同公演が 好評のうちに幕を下ろし——
-(Black cut)
+(Black transition)
 (Background change)
 えむ: ……なんだか寧々ちゃん達、キリってしててカッコイイね
 類: ふたりとも、今回の公演が刺激になったんだろうね
@@ -112,4 +108,4 @@
 類: ……ああ。そうだったね
 類: （……これは、僕のエゴだ）
 類: （けれど……、もし、願うことが許されるのなら……）
-(Black cut)
+(Black transition)

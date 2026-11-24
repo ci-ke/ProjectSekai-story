@@ -10,7 +10,7 @@ Saki: But who would've known that this place had a keyboard and a drum kit!
 Honami: Yes, it's a little old, but they seem like more than enough for us.
 Kohane: Oh, I'll go grab some chairs and desks from one of the other classrooms. They might be nice to have while we're practicing...
 Emu: I'll help you get them!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lodge Classroom]
@@ -23,7 +23,7 @@ Kohane's Voice (Kohane): Emu, can you lend me a hand with this...?
 Emu: Yeah! Coming!
 Miku (WxS): <Anyway, good luck, Emu!>
 Emu: Yup! Thanks, Miku☆
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Lodge Gym)
 Emu: Honami, Saki, we're all ready over here!
@@ -48,7 +48,7 @@ Saki: Yeah. It's so clear and she's able to go across registers so effortlessly.
 Kohane: ————! ——♪
 Honami: (Her voice is like Ichika's, but something about it is a little different...)
 Honami: (It's cute, but also really cool...)
-(Black cut)
+(Black transition)
 Honami: Thank you for doing that, Kohane! I couldn't stop listening the minute you started singing.
 Kohane: R-Really...? I hope I didn't sound weird.
 Emu: No, you have such a pretty singing voice!
@@ -71,7 +71,7 @@ Kohane: (I can't put my finger on it, but it's like our voices don't match what 
 Emu: ——♪ ————!
 Emu: (Huh? This doesn't feel right...)
 Emu: (But why? I'm not sure how to describe it, but this doesn't feel like a musical for some reason...!)
-(Black cut)
+(Black transition)
 Honami: Um... Nice work, everyone.
 Honami: What did you think, Emu?
 Emu: Hmm... Hmmm...
@@ -94,7 +94,7 @@ Emu: Hehe. You're super welcome!
 Honami: Shall we try that once more while keeping Emu's advice in mind?
 Kohane & Saki: Yeah!
 Honami: Okay, I'll count us in again. One, two, three, four.
-(Black cut)
+(Black transition)
 Emu: That was amazing! It's really starting to feel like a musical now!
 Kohane: Thank goodness...! But I still feel like we could sync up with Honami and Saki better. I never realized it was so hard to sing while in character.
 Honami: Yes, we're singing and playing much better, but we're still not quite there yet.
@@ -107,7 +107,7 @@ Saki: Me too. There just wasn't enough time...
 Honami: Right... I suppose we can all try to think of ways to get better in a short amount of time.
 Emu: Yeah, let's do that☆ I'll go get the next group while I do.
 Kohane: Oh, okay...! Thanks, Emu!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Beach]
@@ -125,4 +125,4 @@ Emu: Thanks for everything today, Miku. I'm sure things will go better tomorrow.
 Emu: So will you come and watch us practice again?
 Miku (WxS): <Of course! I'll be cheering you on, Emu♪>
 Emu: Thanks, Miku.
-(Black cut)
+(Black transition)

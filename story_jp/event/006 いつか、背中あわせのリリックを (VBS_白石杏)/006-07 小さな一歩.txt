@@ -8,32 +8,24 @@
 
 こはね: （……HR思ったより早く終わったな）
 こはね: （まだ集合まで時間あるし、どうしよう……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 みのり: こはねちゃんもわたしも、まだまだ初心者だけど……。 でも、周りには頼りになる先輩がいるから
 みのり: だから、そういう先輩に練習の仕方を聞いて、 がんばっていけばいいと思うんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （先輩、か……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 MEIKO: 何か悩んでるなら、私でよければ相談に乗るわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （そうだ……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -45,7 +37,7 @@ MEIKO: あら、こはねちゃん。いらっしゃい
 MEIKO: イベントはどうだった？ うまくいったかしら？
 こはね: ……そのことなんですけど。 昨日のイベント、私のせいで失敗しちゃったんです
 MEIKO: え？
-(Black cut)
+(Black transition)
 こはね: 私が、あの時ちゃんと歌えてたら、 こんなことにはならなかったのにって思って……
 MEIKO: そうだったの……
 こはね: ……私のせいで、全部台無しにしちゃって
@@ -104,4 +96,4 @@ MEIKO: はい、ご注文のコーヒーよ
 MEIKO: ふふ、元気が出たみたいでよかったわ
 MEIKO: こはねちゃんは、紅茶のおかわりどうかしら？
 こはね: はい、いただきます！
-(Black cut)
+(Black transition)

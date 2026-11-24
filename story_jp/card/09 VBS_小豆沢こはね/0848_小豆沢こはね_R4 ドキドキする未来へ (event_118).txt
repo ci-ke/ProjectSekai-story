@@ -59,7 +59,7 @@ MEIKO (VBS): そうね。きっと素敵なお友達がたくさんいると思�
 こはね: じゃあ……セ、セカイ探検に、出発～！
 ルカ (VBS): おー！
 MEIKO (VBS): まったくもう……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -81,16 +81,12 @@ MEIKO (VBS): まったくもう……
 こはね: （場所はどこなんだろう。えっと……）
 こはね: （ロサンゼルス……。 そっか、アメリカにあるんだ）
 こはね: （あ……。アメリカって……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: 実はこのあいだ、全米ツアーをやらないかって誘いがあってな。 俺はもちろん、受けるつもりでいる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……大河さん……）
 こはね: （全米ツアーって言ってたから、 やっぱりロサンゼルスでも歌ったりするのかな……）
@@ -103,16 +99,12 @@ MEIKO (VBS): まったくもう……
 こはね: （…………今、大河さんには どんな景色が見えてるんだろう？）
 こはね: （多分……私とは、全然違う景色なんだろうな）
 こはね: （大河さんには——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （——あの壁の向こうに広がる景色が、全部見えてるんだ）
 こはね: （ううん。それだけじゃない。 多分、もっと先の世界まで知ってる）
@@ -130,4 +122,4 @@ MEIKO (VBS): まったくもう……
 こはね: （だから——）
 こはね: （だから今は…… この痛みを握り締めて——）
 こはね: （——私達が、RAD WEEKENDを超えるんだ！）
-(Black cut)
+(Black transition)

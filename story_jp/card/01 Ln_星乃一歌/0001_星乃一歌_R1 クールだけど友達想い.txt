@@ -52,7 +52,7 @@ Skill name: 足元の小さな花
 一歌: …………
 咲希: ……うん！　とにかくやってみないとだよね！ というわけで、放課後、 ほなちゃんとしほちゃんに声かけてみない？
 一歌: ……うん。そうしてみよっか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -63,16 +63,12 @@ Skill name: 足元の小さな花
 
 一歌: はぁ……
 一歌: （昼休み……あと15分か……。 ミクの歌を聴いてるとあっという間だな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): やっと会えたね、一歌
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （あのミクにまた会いたいな……）
 咲希: いっちゃん、なに聴いてるのー？
@@ -122,4 +118,4 @@ Skill name: 足元の小さな花
 咲希: だよね～
 咲希: ねえねえ。アタシも はるかちゃんが聴いてた曲、聴きた～い！
 一歌: はいはい。ちょっと待ってね
-(Black cut)
+(Black transition)

@@ -8,7 +8,7 @@ MEIKO: ここは……
 MEIKO: ……あの子達の想いが作ったお店みたいね
 MEIKO: でも、まだ誰もいないのかしら
 MEIKO: それなら——
-(Black cut)
+(Black transition)
 MEIKO: コーヒー豆に、茶葉もいろいろあるわね。 冷蔵庫には材料もたくさんあるし……料理も作れそう
 MEIKO: ……とりあえず、１杯淹れてみようかしら
 MEIKO: （これは……このセカイの私ね）
@@ -52,19 +52,19 @@ MEIKO: ふふ、ミクのお墨付きなら間違いないわね
 MEIKO: ええ、そのためにも…… みんなが喜んでくれるようなメニューを考えなきゃ
 MEIKO: まずは……オリジナルブレンドを作ってみようかしら
 ミク (VBS): へえ、どんなコーヒーになるんだろ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000343/bg_s000343.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000343/bg_s000343.webp)
 MEIKO: みんなのために——
 MEIKO: やっぱり……頼もしいわね
 MEIKO: あなたの言う通り、あの子達にとって ここはとても大切な居場所になるわ
 MEIKO: ……みんなをよろしくね、私
-(White cut)
+(White transition)
 (Background change)
 ミク (VBS): ねえ、メイコ。カフェにするなら コーヒーだけじゃなくて、食べ物もほしくない？
 MEIKO: たしかにそうね……。 練習で、お腹がすくこともあるでしょうし
 MEIKO: でも、うまくできるかしら
 ミク (VBS): やってみたら？ 味見は任せてよ
 MEIKO: あら、ミクがお腹すいてるだけじゃなくて？
-(Black cut)
+(Black transition)
 (Video: link_ppr_ed3)
-(Black cut)
+(Black transition)

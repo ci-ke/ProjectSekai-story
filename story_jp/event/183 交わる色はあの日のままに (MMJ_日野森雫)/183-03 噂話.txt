@@ -17,7 +17,7 @@
 みのり: は、はい！
 メンバー: まずはテンポ落として、アクセントの位置を確認しながら やってみよう。せーのっ
 みのり: ♪——！　♪——、——！
-(Black cut)
+(Black transition)
 メンバー達: 『♪——、♪————！』
 遥: うん、完璧。流石だね
 アリサ: ま、覚えやすいメロだからね
@@ -26,7 +26,7 @@
 真理奈: もっと抑揚つけても面白いかもしれませんね。 例えば——
 コメント: 『おお、チアデっぽくなった』 『なんか新鮮で面白い！』
 愛莉: アレンジ入れる余裕まであるなんて……。 わたし達も、負けてられないわね
-(Black cut)
+(Black transition)
 アリサ: １、２、３、４——ストップ
 アリサ: そこの移動はスライドステップで。 ギリギリまで足を残して優雅に見せて
 雫: ——はい！
@@ -39,7 +39,7 @@
 アリサ: それは、アンタの基礎が弱いからでしょ
 アリサ: （……でも、思ってた以上に踊れてる）
 アリサ: ——残す方の足、力が入って硬く見えてる。 もう１回！
-(Black cut)
+(Black transition)
 遥: ラスト！　移動して——ポーズ！
 みのり: す、すごい……！ もう全部覚えちゃった！
 愛莉: しかも、ひとつひとつの動きが綺麗ね……。 悔しいけど、流石だわ
@@ -50,7 +50,7 @@
 遥: わかった。じゃあまず、アウトロの振りなんだけど——
 雫: （みんなの妥協しない姿勢……相変わらずね）
 雫: （私も、もっと……！）
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -78,7 +78,7 @@
 雫: （Cheerful＊Daysのパフォーマンスの特徴や魅せ方なら、 私もよく知っているわ）
 雫: （きっと、力になれるはず——）
 雫: （MORE MORE JUMP！を引っ張っていけるように、 頑張らないと！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -103,12 +103,12 @@ MEIKO (MMJ): 『がんばってる雫ちゃん達を見てたら、 どうして
 MEIKO (MMJ): 『というわけで、めーちゃんのスペシャルエールを 贈らせてちょうだい！』
 雫: スペシャルエール？
 MEIKO (MMJ): 『いくわよ～！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000503/bg_s000503.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000503/bg_s000503.webp)
 MEIKO (MMJ): 『フレー、フレー、雫ちゃん！ L・O・V・E・雫ちゃん！』
 MEIKO (MMJ): 『一緒に！　ファイト～～～』
 雫・MEIKO: 『おー！』
-(White cut)
+(White transition)
 (Background change)
 雫: ふふ。ありがとう、めーちゃん！ とっても元気が出たわ
 MEIKO (MMJ): 『よかった♪』
@@ -143,4 +143,4 @@ MEIKO (MMJ): 『え……？』
 雫: そして、昔迷惑をかけてしまった分 今度は私が、少しでもみんなの力になれたら……嬉しいわ
 MEIKO (MMJ): 『……雫ちゃんなら、絶対できるわ』
 MEIKO (MMJ): 『みんなの合同ステージ、楽しみにしてるわね！』
-(Black cut)
+(Black transition)

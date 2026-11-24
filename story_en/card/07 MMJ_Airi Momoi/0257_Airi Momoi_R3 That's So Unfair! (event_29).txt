@@ -13,7 +13,7 @@ Airi: Wow, I was wondering why so many people were wearing yukatas and stuff...
 Shizuku: Hehe. They're having a festival today!
 Airi: Yeah, it could be fun! Wanna check it out since we're here?
 Shizuku: Sure!
-(Black cut)
+(Black transition)
 Shizuku: Oh, there's so many people. I wish Minori and Haruka were here to see this.
 Airi: Yeah, it's too bad they're off at the Seaside School.
 Airi: We can at least take some pictures and show them later.
@@ -40,7 +40,7 @@ Shizuku: But Shii would never let me hold her hand.
 Airi: Okay, okay. Just promise to be a little more careful. You're an idol, so you need to keep a low profile and not cause a fuss by getting mad.
 Shizuku: Yes, I understand. I'll make sure not to lose sight of you, Airi!
 Airi: You really shouldn't have to try so hard to do that... It's a festival, so let's just try to have fun, alright?
-(Black cut)
+(Black transition)
 Airi: Hey, Shizuku, they're selling caramel apples over there...
 Shizuku: Yes, I see. Hehe. I think I'll buy one for Shii.
 Airi: I don't see why not.
@@ -60,9 +60,9 @@ Airi: That was also just around the time I started thinking about becoming an id
 Shizuku: Hehe. I can see you up there already, Airi, dazzling everyone with your smile.
 Shizuku: By the way, that stage you mentioned... Did it look anything like that?
 Airi: Huh?
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Airi: Hey, you're right... I didn't realize that there was a stage there.
 Airi: And a pretty big one at that. It has all the equipment it could ever need too...
@@ -71,7 +71,7 @@ Shizuku: Airi, we still have quite a bit of time, so why don't we go see what's 
 Airi: Yeah, sure!
 Airi: First, let's get some drinks to stay hydrated. Then we can just sit back and enjoy the show.
 Shizuku: Sure!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -88,22 +88,18 @@ Shizuku: Yes, I agree! I'll try mine now...
 Shizuku: Oh, the syrup on this warabimochi parfait goes so well with the sweet soybean powder that it came with.
 Ena: Really? Hey, both of you, mind sharing a little since we have some extra plates?
 Airi: Sure, be my guest!
-(Black cut)
+(Black transition)
 Airi: Phew... That was delicious.
 Airi: Thanks for tagging along with me, Ena, Shizuku! I'm glad we got to try so many Japanese-styled desserts!
 Shizuku: Hehe. You're very welcome.
 Ena: I'm just glad I got to hang out with you two. That was a lot of fun.
 Airi: Yeah. Even though we bumped into each other during the festival, it sort of has been a while since we hung out together like this, huh?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: ...
 Airi: Um, Ena? About Mizuki... How have things been since, you know?
 Shizuku: Oh, I'd like to know too... You two looked like you were having quite a bit of fun during the festival.
@@ -171,4 +167,4 @@ Airi: (As much as I'm interested in her friends, we should introduce her to Mino
 Airi: (That makes four per group... Wow, eight when you put us all together...)
 Airi: (We've come a long way since having only each other to talk to...)
 Airi: (I'm glad we both found some people we really care about. It'd be fun to just chat without a care in the world with them all.)
-(Black cut)
+(Black transition)

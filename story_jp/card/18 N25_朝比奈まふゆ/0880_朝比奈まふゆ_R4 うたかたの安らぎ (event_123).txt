@@ -69,7 +69,7 @@ Gacha phrase: 高校生が遊ぶ物じゃない。けど……
 まふゆ: （こんなに賑やかなのに。うるさく感じない……）
 まふゆ: （たまには、いいかな……）
 まふゆ: ふー……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,17 +89,13 @@ Gacha phrase: 高校生が遊ぶ物じゃない。けど……
 ミク (N25): ……ぷかぷかする泡だよね
 まふゆ: この前のお茶会の時、持ってきた子がいて……。 余りをもらったの
 奏: あの時はびっくりしたな。 急にまふゆがシャボン玉を欲しいって言って——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 天馬さん、もしよかったらなんだけど、 余ったシャボン玉もらってもいいかな？
 まふゆ: 興味を持ちそうな子達がいるから、遊ばせてあげたくて
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ミク達、シャボン玉はやったことないでしょ
 ミク (N25): うん、ない……
@@ -146,4 +142,4 @@ Gacha phrase: 高校生が遊ぶ物じゃない。けど……
 瑞希: ねえ！　奏とまふゆも一緒にやろうよ！
 奏: ……やろうか
 まふゆ: ……そうだね
-(Black cut)
+(Black transition)

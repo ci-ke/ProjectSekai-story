@@ -3,19 +3,15 @@
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
 : こはねの課題は 『観客を熱狂させる一瞬を作り、風穴を開けること』——
-(Black cut)
+(Black transition)
 (Background change)
 こはね: （最高の瞬間に風穴を開けるほどの力を、つける……）
 こはね: （最高の瞬間って…… それは、つまり……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: まず前提として——
 謙: オレは、これまで伝えた全ての課題をお前達がクリアし、 本物の実力を身につけることができたら、 RAD WEEKENDに匹敵するイベントを作れると思っている
@@ -23,10 +19,10 @@
 謙: だが——
 謙: 『匹敵する』だけじゃ駄目だ。 お前達は、『超える』んだろう？
 こはね: あ……
-(Black cut)
+(Black transition)
 (Background change)
 : 課題を達成するために、こはねは RAD WEEKENDに参加していたミュージシャン達と 対決することになる
-(Black cut)
+(Black transition)
 (Background change)
 GLaP dayのメンバーA: というわけで……。 ——僕達を倒せるくらいになってよ
 GLaP dayのメンバーA: そうでなきゃあの夜の熱狂は、一瞬だって超えられない
@@ -37,10 +33,10 @@ GLaP dayのメンバーA: そうでなきゃあの夜の熱狂は、一瞬だっ
 謙: こいつらは凪ともほぼ互角の連中だ。 こいつらを倒せるだけの力がつきゃ、 風穴を開けられる可能性は格段に上がる
 こはね: （凪さんと互角の人達に、 私が——……）
 こはね: ——よろしくお願いします！！
-(Black cut)
+(Black transition)
 (Background change)
 : 何度も挑み続けて、ようやく合格したこはね。 そこへ、RAD WEEKENDの熱狂を知る ライブハウスのオーナーが声をかけてくる
-(Black cut)
+(Black transition)
 (Background change)
 COLオーナー: ——私は、 嬢ちゃんには、十分可能性があると踏んでいるよ
 COLオーナー: だがもし、あと一手足りないとするなら——
@@ -63,10 +59,10 @@ COLオーナー: そして……その無茶苦茶な姿が、その歌が作る
 COLオーナー: だから——まだ何か足りないと思うなら、 嬢ちゃんも探してみるといい
 COLオーナー: 嬢ちゃん自身の、エゴをね
 こはね: …………私の、エゴ…………
-(Black cut)
+(Black transition)
 (Background change)
 : それぞれの課題に向き合った４人は、 ついにイベント本番を迎える——
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……よし。全員手は出したな
 彰人: じゃ——オレからいくぞ
@@ -122,4 +118,4 @@ EVERのメンバーA: オレは——！
 杏: 今まで誰も見たことないくらい、最高の時間に！
 杏: さあみんな、RAD WEEKENDを超えて―― 新しい伝説を始めるよ！
 全員: 『うん！！』 『おう！！』 『ああ！！』
-(Black cut)
+(Black transition)

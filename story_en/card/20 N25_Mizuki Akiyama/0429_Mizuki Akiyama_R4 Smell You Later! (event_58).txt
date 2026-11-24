@@ -18,7 +18,7 @@ Mizuki: (The Sports Festival's one thing, but the cheer squad? I'd rather pass i
 Class Representative: Since no one put their name in during our last homeroom, our class will be drawing straws.
 Class Representative: Please say so if you draw a straw with “winner” in red letters written on it. Form a single-file line to the right and wait to draw your straw.
 Mizuki: Yikes... I've gotta get mine now!
-(Black cut)
+(Black transition)
 Mizuki: Okay...
 Mizuki: Please, not me... What...?!
 An: Mizuki? Does that mean...?
@@ -33,7 +33,7 @@ An: (Hmm... But it could be fun to be on the cheer squad with Mizuki during the 
 Classmate B: What...?!
 Classmate B: O-Oh no... I... I can't be on the cheer squad...
 An: Oh...
-(Black cut)
+(Black transition)
 Class Representative: That's all the straws. There should be one other winner out there. Who drew it?
 An: Oh, me! I'm the last one!
 Mizuki: A-An?!
@@ -50,7 +50,7 @@ Mizuki: (So An took their place.)
 Classmate B: Um... Thank you so much, Shiraishi.
 An: No, I should be the one thanking you! Now I get to enjoy the Sports Festival with Mizuki!
 Mizuki: Oh...
-(Black cut)
+(Black transition)
 Class Representative: Thank you for your cooperation, everyone.
 Class Representative: The representatives for our class have been decided, but the cheer squad is always looking for more recruits. Please feel free to ask to join at any time.
 An: Well, looks like we're both on the cheer squad now.
@@ -58,7 +58,7 @@ Mizuki: Yup. I guess the Sports Festival won't be as boring as having to sit thr
 An: Haha! I really doubt you'll be bored. I mean, our school's cheering competition's supposed to be pretty famous!
 An: So let's do our best to make the Sports Festival really fun this year!
 Mizuki: Okay, okay...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -69,11 +69,9 @@ Mizuki: Okay, okay...
 
 Mizuki: Hmm...
 Mizuki: (What to do about that thing Rui asked me to do...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Mizuki: Huh? A video of a fire?
 Rui: Yes. You saw that amongst the Captain's list of ideas, right? The one where we'd twirl weapons around as we jump into a fire.
 Rui: Then, you mentioned how it could be done using a video instead.
@@ -82,11 +80,9 @@ Mizuki: What if we jump out from behind whatever screen it's being shown on? No,
 Rui: I'll give that a little more thought. After all, it's a part of my job as the director.
 Rui: So, I'd like you to focus on making that video for us.
 Mizuki: Okay, got it♪
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Mizuki: Hmm... Fire... Flames...
 Mizuki: (My initial impression involved a flame that crackled away as its flames rose into the sky...)
 Mizuki: (But I get a whole screen to work with, so it might be better to have it twist and whirl.)
@@ -95,7 +91,7 @@ Mizuki: But it has to be a fire that we can jump into while twirling weapons aro
 Mizuki: Hang on... Why are we jumping into it at all? Do the weapons mean we're about to go into battle?
 Mizuki: *Sigh* I should've asked to borrow that sheet of paper when Rui came to talk to me.
 Mizuki: But for now, I'll just keep coming up with different patterns and ideas...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day - Lunch break]
@@ -110,14 +106,14 @@ Mizuki: Huh? I'm the one who forgot. You don't have to apologize.
 Mizuki: However, if you're still feeling guilty, you can help me come up with more ideas!
 Rui: Hehe. Of course. Speaking of which, have you come up with some already?
 Mizuki: Yup! First, we're the blue team, so I thought it'd be cool to have a blue flame...
-(Black cut)
+(Black transition)
 (Background change)
 
 [After School]
 
 Mizuki: Hey, Toya! Off to the library?
 Mizuki: I haven't been there much, so mind if I tag along? Also, there's this book I'm trying to find...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Mizuki's Room)
 Mizuki: Awesome! Now that I have all the info and materials I need, I can try putting a storyboard together.
@@ -127,7 +123,7 @@ Mizuki: Oh, the book about the Three Kingdoms that Toya recommended said more ab
 Mizuki: Based on what this book says... He wasn't much of a talker and didn't really smile or laugh much.
 Mizuki: Is that why Rui's script didn't include many lines?
 Mizuki: Hmm... I should probably keep reading to get a better idea of how to get this flame to look right.
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -154,4 +150,4 @@ Mizuki: (But this is actually getting to be pretty fun.)
 Mizuki: (I guess that straw was right about me being the “winner”.)
 Mizuki: Haha. That means I'm gonna need to produce a good video that helps us win the cheering competition♪
 Mizuki: Alright, let's do this!
-(Black cut)
+(Black transition)

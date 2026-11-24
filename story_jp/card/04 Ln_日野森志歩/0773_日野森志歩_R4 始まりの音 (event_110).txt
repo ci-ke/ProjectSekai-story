@@ -7,7 +7,7 @@ Gacha phrase: ……できた！
 
 (Character: 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数年前]
@@ -19,23 +19,19 @@ Gacha phrase: ……できた！
 小学生の志歩 (志歩): （……あ、中古売り場だ。 楽器がいろいろ置いてある）
 小学生の志歩 (志歩): あ……
 小学生の志歩 (志歩): （あれ、ベースだよね？ 色もサイズも、いろんな種類がある……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 すみれ: 私のベース、貸してあげるから。 少し演奏してみようよ
-(White cut)
+(White transition)
 すみれ: それじゃあ、さっき教えた順番に指で押さえて、 音を出していこうか。 ちゃんとしたフレーズになってるはずだよ
 小学生の志歩 (志歩): はい……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): …………
 小学生の志歩 (志歩): （ベース、欲しいな……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -70,18 +66,14 @@ Gacha phrase: ……できた！
 父親: そうか
 小学生の志歩 (志歩): うん
 小学生の志歩 (志歩): （もっと、もっと練習するんだ。 それで、いつか……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): （いつか私も、 お客さんの心が震えるくらいの、演奏をしたい——！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -94,7 +86,7 @@ Gacha phrase: ……できた！
 志歩: （Ioliteのライブ、チケット取れてよかったな）
 志歩: （新譜のリリース記念だから、 新曲が中心になるのかな）
 志歩: （……楽しみだな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -109,38 +101,30 @@ IoliteのメンバーA: みんな、まだ始まったばっかりなのに ヒ�
 すみれ: ——いくよ！
 すみれ: ♪————！！！
 志歩: （この曲……。懐かしいな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の志歩 (志歩): （今までも、いろんなライブに来たことはあるけど…… この人達の演奏……）
 小学生の志歩 (志歩): （何か……違う……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの時の曲だ。 叫びたくなるくらいドキドキして、心が震えた——）
 志歩: （お客さんみんな、叫んでる。 ……きっと私と同じ気持ちなんだろうな）
 志歩: （この爆音を、もっと、もっと浴びていたい——！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 すみれ: 自分のやりたいって想いをまっすぐ貫いて、 そのために真剣に、全力で頑張ってる人っていうのは、 まぶしくてキラキラして見えるんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （——かっこいいな）
 志歩: （演奏してる時のまぶしい姿も、 ベースの音も、あの頃と何も変わらない。でも……）
 志歩: （……あの頃と、何も変わってないわけじゃない）
 志歩: （昔と比べものにならないくらい、 すみれさん達はうまくなってる）
 志歩: ……私も……
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -154,4 +138,4 @@ IoliteのメンバーA: みんな、まだ始まったばっかりなのに ヒ�
 志歩: （私はまだ——技術も安定感も、足りない）
 志歩: もっと、うまくなろう
 志歩: あの姿に——追いつけるように
-(Black cut)
+(Black transition)

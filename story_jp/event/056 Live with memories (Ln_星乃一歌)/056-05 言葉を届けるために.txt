@@ -5,36 +5,32 @@
 [一歌の部屋]
 
 一歌: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 葉太: 会わない……ように……
-(White cut)
+(White transition)
 (Background change)
 花乃: いつかは絶対に離れなくちゃいけない時がきて……。 ……今がきっと、その時なんですよね……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……少しだけでもいい）
 一歌: （大事な人と、離れ離れになる……あのつらさを、 和らげられるように——）
 一歌: ……よし
-(Black cut)
+(Black transition)
 一歌: （……最後まで書けた……けど）
 一歌: （なんだろう……違う気がする……）
 一歌: （この言葉じゃ足りない……。 そんな気がする……）
 一歌: ……もう一度、最初から書いてみよう
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 一歌: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
@@ -59,7 +55,7 @@ KAITO: ……何か、アドバイスできたらいいんだけど
 レン: わ！ 急にそばで大声出すなよな！
 ミク (Ln): それでルカ、どうすればいいの？
 ルカ: ふふ。 それは——悩んでいる一歌に話さないとね
-(Black cut)
+(Black transition)
 一歌: ……駄目だ。 これも、違う……
 ルカ: ——お疲れさま、一歌
 穂波: 一歌ちゃん、大丈夫？
@@ -75,15 +71,11 @@ KAITO: ……何か、アドバイスできたらいいんだけど
 ルカ: 咲希や穂波や志歩と、 うまく話せなかった頃のことを——
 咲希: アタシ達と話せなかった頃……？
 一歌: ……あの頃は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 私は……よく、ミクの歌を聴いてたな
 ミク (Ln): ふふっ。前にもそう言ってたね
@@ -143,4 +135,4 @@ KAITO: ……あの感じが、昔の一歌なの？
 穂波: ……一歌ちゃんが頑張ってくれてるなら、 わたし達も、すぐ曲を作れるように用意しておきたいね
 咲希: だね！ 今からいっぱいアイディア出しておこう！
 穂波・志歩: 『うん！』
-(Black cut)
+(Black transition)

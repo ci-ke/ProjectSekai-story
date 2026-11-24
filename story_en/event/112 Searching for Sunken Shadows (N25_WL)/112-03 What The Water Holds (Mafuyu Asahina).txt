@@ -36,7 +36,7 @@ Len (N25): Hey, wait... K-KAITO!
 Len (N25): He's gone...
 Mafuyu: Let's go...
 Len (N25): Okay...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -73,15 +73,11 @@ Mafuyu: (It's so beautiful, but I can't see anything... And yet, it looks like t
 Miku (N25): Did you find something?
 Len (N25): Another book...?
 Mafuyu: A study guide for medical school...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...!
 Miku (N25): Mafuyu...!
@@ -103,6 +99,6 @@ Miku (N25): I'm sure this place was created for a reason. And I have a feeling t
 Miku (N25): That's my belief...
 Mafuyu: ...
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 (Video: link_night_ed1)
-(Black cut)
+(Black transition)

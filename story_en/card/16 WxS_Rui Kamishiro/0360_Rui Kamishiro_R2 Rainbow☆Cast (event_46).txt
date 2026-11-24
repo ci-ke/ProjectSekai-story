@@ -10,7 +10,7 @@ Skill name: Stimulating All Five Senses
 
 [“The Little Kingdom” show stage]
 
-(Black cut)
+(Black transition)
 (Background change)
 Rui: What a wonderful show! I wouldn't mind seeing it again right now!
 Nene: Yeah, me too. Right, Emu?
@@ -22,23 +22,19 @@ Nene: Oh, now that you mention it.
 Nene: In your case, Rui, you get this creepy grin on your face whenever you're trying to come up with new ideas.
 Rui: That's not very nice...
 Rui: (Still...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Right! I promise to learn as much as I can!
-(White cut)
+(White transition)
 (Background change)
 Riley: Keisuke, Shosuke, you'll be coming with me to headquarters. Emu, I'd like you and your friends to go around and enjoy the park for the rest of the day.
 Emu: What?!
-(White cut)
+(White transition)
 (Background change)
 Emu: I was really hoping to ask you some questions, Mr. Riley...! And maybe even see what your meeting with Keisuke and Shosuke's like...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: Hmm... It's almost like Emu's trying to be more organized and responsible today...
 Nene: Huh?
@@ -49,18 +45,14 @@ Rui: See what I mean? Her thought process is full of wonderfully creative and or
 Rui: But it's as if she's deliberately trying to suppress that today...
 Nene: Hmm... Doesn't it just mean she's trying to learn as much as she can for the sake of Phoenix Wonderland?
 Rui: That could very well be the case.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: I'm sorry for not telling you all sooner...
 Emu: I didn't want this to get in the way of trying to win the Show Contest...
 Emu: I would've felt awful if it made everyone sad and... I couldn't bear doing that to you...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (In my opinion, Emu's at her best whenever she's one with her emotions...)
 Rui: (But at times she'll show hints of absolute brilliance in terms of actively trying to make someone smile or laugh.)
@@ -69,7 +61,7 @@ Nene: What do you think? Should we go talk to her?
 Rui: No, we may want to sit back and observe for the time being...
 Rui: She seemed to genuinely enjoy the show, so she does appear to be having fun to some degree.
 Nene: Right. I wouldn't want to get in the way of her process or whatever it is she's doing.
-(Black cut)
+(Black transition)
 Emu: Sour face...!
 Lost Girl: !
 Emu: Spicy face!
@@ -77,7 +69,7 @@ Emu: Yummy face☆
 Nene: H-Hehe. There's our usual Emu.
 Rui: Yes, as bright as ever too.
 Rui: (Maybe I'm overthinking this...)
-(Black cut)
+(Black transition)
 Nene: I can't believe they made it so the water forms waves since it doesn't look like it's open to the public like a wave pool or something, you know?
 Rui: Yes, immersion must've been a top priority for them here. This beach alone lets you dive right into the story's narrative.
 Emu: How do you think they did all this, you guys?!
@@ -85,7 +77,7 @@ Rui: Yes, well...
 Rui: I suppose it begins with how realistic the prospects of building an ocean such as this are.
 Emu: How realistic?
 Rui: ...
-(Black cut)
+(Black transition)
 Nene: Hey, is it me or did Emu look really sad just now?
 Rui: No, I saw that too.
 Tsukasa: Rui! Nene! Quit dragging your feet or we'll lose Emu and our little friend!
@@ -97,7 +89,7 @@ Nene: Oh, you noticed too...?
 Rui: However, we'll need to get that girl to the Compass Center first before asking Emu if anything's going on...
 Nene: Right. I'm sure family's worried sick about her.
 Rui: Alright, let's catch up to them before we end up losing both Emu and our little friend.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -110,35 +102,27 @@ Rui: Alright, let's catch up to them before we end up losing both Emu and our li
 
 Rui: (I have to say, I learned quite a lot during our trip to Riley Dream Park.)
 Rui: (That show we saw clearly had the biggest impact on us, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [“Jungle Music” area]
 
 Rui: But these trees are imitations... And yet, it feels like we've wandered into a real jungle for some reason...
-(White cut)
+(White transition)
 (Background change)
 Riley: We consulted with some botanists regarding how we could simulate the real thing. Those trees may be manmade, but they help create a very jungle-like atmosphere.
 Riley: Thanks to them, we were able to come very close to what we wanted. After that, we just had to build some waterfalls and research what jungles sound and even smell like.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (I always wonder how I can stimulate all five senses when I'm working on a show.)
 Rui: (How things smell being one of them...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (However, the Wonder Stage is ultimately an outdoor stage. As such, I've been avoiding ideas and effects that can be affected by the weather.)
 Rui: (But rain and wind are natural to any jungle. The way they designed that area made it so the weather doesn't affect what people experience all that much.)
@@ -149,7 +133,7 @@ Rui: (It's not about avoiding bad weather. It's about having people experience t
 Rui: Hehe. How foolish of me. I've been closing doors to new opportunities this whole time...
 Rui: After all, it's the director's job to make the impossible a reality...
 Rui: Hehe...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -192,7 +176,7 @@ Emu: Hey, it's Rui!
 Rui: Hello, everyone. I apologize for not explaining things sooner, but my goal was to get some natural impressions of this.
 Nene: You mean from these smells?
 Rui: Yes, as it happens...
-(Black cut)
+(Black transition)
 Tsukasa: I see. An effect that stimulates a person's sense of smell...
 Rui: Yes. I'd been avoiding it all this time because of certain things that are out of our control, but I've decided to start experimenting with ideas like this.
 Rui: In this case, I'm sure you all noticed that you'll smell different things at varying times depending on where you sit.
@@ -215,4 +199,4 @@ Emu: I thought really hard about what I can do to make them happen, but I'd love
 Rui: Gladly. It's sort of my forte, so please feel free to ask me whenever.
 Emu: Yay! Can we take a look at some now?! Like... This one!
 Rui: Yes, let's have a look.
-(Black cut)
+(Black transition)

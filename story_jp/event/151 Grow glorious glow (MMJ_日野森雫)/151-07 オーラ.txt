@@ -16,7 +16,7 @@
 ミク (MMJ): （あ……）
 ミク (MMJ): （少しでも力になれたらって思ってたけど…… もう、大丈夫そうだね）
 ミク (MMJ): （雫ちゃん——頑張って！）
-(Black cut)
+(Black transition)
 スタッフ達: まず、寄りのカットから撮っていくので 萩山さん、スタンバイお願いします
 結雨: わかりました
 演出家: いい仕事期待してるよ、萩山さん
@@ -28,7 +28,7 @@
 雫: （オーディションの時よりも、気迫が増してる……！）
 雫: （……やっぱりすごいわ、萩山さん。 息をするのも、ためらわれてしまうくらい……強い眼差し）
 雫: （でも——）
-(Black cut)
+(Black transition)
 演出家: ——OK！　流石だね、萩山さん。 バッチリいい画が撮れたよ！
 結雨: ありがとうございます
 スタッフ達: では、日野森さん、スタンバイお願いします！
@@ -55,8 +55,8 @@
 雫: （MORE MORE JUMP！の——みんなの未来を！）
 撮影助手: では、カメラ回します！
 演出家: よーい——アクション！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000387/bg_s000387.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000387/bg_s000387.webp)
 結雨: …………！！
 雫: （——オーラ）
 雫: （そう呼ばれるものの正体は、私にはわからないわ）
@@ -64,7 +64,7 @@
 雫: （なら、もっといける）
 雫: （全てを背負うと覚悟して、努力を重ねた今なら、 もっと——）
 雫: （私は、誰よりも輝く！！）
-(White cut)
+(White transition)
 (Background change)
 結雨: あ……
 (Background change)
@@ -77,7 +77,7 @@
 及川: いや——
 及川: ありゃあ、俺が知っている以上だ
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -106,4 +106,4 @@
 結雨: ……いえ。また共演できるのを、楽しみにしていますね
 雫: ええ……！
 結雨: （……次は、負けませんからね）
-(Black cut)
+(Black transition)

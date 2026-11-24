@@ -9,40 +9,32 @@ Gacha phrase: わたしが……みんなを導くんだ！
 
 [宮益坂女子学園　２年Ａ組]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 一歌: ——穂波の好きなことや嬉しいことってなに？
-(White cut)
+(White transition)
 一歌: 吉崎さんと花乃ちゃんが ふたりで一緒にライブに来てくれたのを見て思ったんだ
 一歌: こんな風に、私達の音楽をきっかけに 『大切な人と一緒にいられるようになった』って人が 少しでも増えたら……すごく嬉しいなって
-(White cut)
+(White transition)
 一歌: それで私は『誰かと誰かがつながるきっかけになる音楽』 をやりたいって言ったんだ
 一歌: だから穂波も、自分が嬉しいって思うことや好きなこと、 やりたいって思うことから考えたら、 案外簡単に答えが出るんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 穂波: （……一歌ちゃんのおかげで、 ちょっと気持ちが楽になったな）
 穂波: （わたしの『目指す音楽』……）
 穂波: （まだどんなものかわからないけど、 やっぱり、ちゃんと見つけなくちゃ）
 一歌: ……そういえば、この前とは逆だね
 穂波: え、逆って……？
 一歌: ほら、花乃ちゃん達のために曲を作った時、 私が寝不足なの心配してくれたでしょ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: もしかして一歌ちゃん、徹夜したの？ 体調は大丈夫？
-(White cut)
+(White transition)
 (Background change)
 穂波: 一歌ちゃん、もうすっかり遅くなっちゃったけど、 帰ったらなるべく早く寝るようにしてね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: あ……。 ふふ、本当だね
 穂波: ……ねえ、一歌ちゃん。 クマ、結構目立つ？
@@ -66,16 +58,12 @@ Gacha phrase: わたしが……みんなを導くんだ！
 一歌: とっておきの方法があるんだけど——
 一歌: 手があったかい人に温めてもらうのはどう？
 穂波: それって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: １年中、ぬくぬくでーす♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: もしかして、咲希ちゃんのこと？
 一歌: うん。『ぽっかぽかにしてあげる♪』って ノリノリでやってくれそうだよ
@@ -83,7 +71,7 @@ Gacha phrase: わたしが……みんなを導くんだ！
 一歌: だよね。 あと良さそうなのは、マッサージかな
 一歌: 動画いくつか出てきたから、 ちょっと見てみよっか
 穂波: うん、お願い
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,7 +90,7 @@ Gacha phrase: わたしが……みんなを導くんだ！
 真堂: ですが、くれぐれも無理はしないようにしてください
 真堂: せっかくここまで頑張ったんですから、 最高の状態で演奏できるようにしましょう
 穂波: はい、お気づかいありがとうございます
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -118,7 +106,7 @@ KAITO (Ln): ……大丈夫？
 KAITO (Ln): それがいいと思う……
 KAITO (Ln): ……じゃあ、みんなのところに行こうか
 穂波: はい
-(Black cut)
+(Black transition)
 穂波: あ、演奏の音……。 みんな、もう練習始めてるんだ……
 穂波: （遅れそうっていう連絡はしてたし、 待ってる時間、もったいないもんね……）
 KAITO (Ln): …………
@@ -141,4 +129,4 @@ KAITO (Ln): ……穂波にだけ、頑張らせたくないからって
 咲希の声 (咲希): おー！
 穂波: ……うん。そうだね……
 穂波: 絶対に、最高の演奏にしようね！
-(Black cut)
+(Black transition)

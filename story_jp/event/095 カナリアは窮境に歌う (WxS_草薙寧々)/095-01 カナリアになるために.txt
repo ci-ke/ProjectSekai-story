@@ -16,32 +16,24 @@
 寧々: 『……ううん。言葉より、もっと大切なもの、かも……。 私は話すのが下手、だし——』
 寧々: ……やっぱり、なんか違う
 寧々: （30周年記念公演の稽古が始まってから、もう結構経つ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （ふたりの演技を見て、わたしもやらなくちゃって……、 できることは全部しなくちゃって思って……）
 寧々: （司がやってたみたいに、わたしも自分の役—— 『臆病なカナリア』になるために、いろんな練習をした）
 寧々: （公園で木にとまってる鳥を見てみたり、 気持ちを考えて歌ってみたり……）
 寧々: （おかげで、稽古が始まったばっかりの時よりは 役を自分の中に落とし込めた感じがする）
 寧々: でも……
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000173/bg_s000173.webp)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000173/bg_s000173.webp)
 寧々: （わたしはまだ、あんな風に演じられる気がしない）
 寧々: （あんな風に……見てる人に、 『この役は本当に生きてるんだ』って思わせられるようには……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ……だからって、落ち込んでてもしょうがないよね
 寧々: （明日からは、本格的に 『臆病なカナリア』が活躍するシーンの稽古が始まる）
@@ -49,18 +41,14 @@
 寧々: 今のわたしじゃ、まだまだだ。 だから……
 寧々: 明日からは、稽古をとおして役作りのヒントを探していこう
 寧々: それで、本番までには……必ず。 必ずわたしも、完璧な『臆病なカナリア』になってみせる
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: あのふたりに、並べるくらいの——
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -118,4 +106,4 @@
 寧々: あ……
 寧々: （……どういうこと？）
 寧々: （歌が『浮いてる』、って……）
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 花里みのり, 桐谷遥)
 
-(White cut)
+(White transition)
 (Background change)
 ASRUNのメンバー: みんなーっ、今日は来てくれてありがとーっ！
 ASRUNのメンバー: ASRUN全国ツアー『HONEY』in 東京！ まだまだガンガン盛り上げていくからね！
@@ -36,7 +36,7 @@ ASRUNのメンバー: ん～？ 声出てないぞー！？
 みのり: （この、好きって気持ち……。 遥ちゃんが大好きって気持ちを、遥ちゃんに届けたい——！）
 みのり: 遥ちゃん……
 みのり: 遥ちゃん、大好きだよ～～～～っ！！！
-(White cut)
+(White transition)
 ASRUNのメンバー: みんな、ここまでついてきてくれてありがとーっ！
 遥: それでは…… 悲しいけど、次が今日最後の曲です
 みのり: ええっ、もう終わりなの……！？
@@ -76,16 +76,12 @@ ASRUNのファン達: これからもついてくよ～～っ！！ ずっと、
 みのり: （そっか……そういうことなんだ）
 みのり: （……そっか。 この空間は、最初からそういう風に…… わたし達とアイドルが、ひとつになれるようにできてるんだ）
 みのり: （わたし達がASRUNに掛ける声も、 ASRUNが掛けてくれる声も……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 遥: 普段、悲しいことや苦しいこと…… いろんなことで悩んでいる人がいると思うけど
 遥: 今日この時だけは全部忘れて、 この時間を、一緒に楽しんでいこう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 みのり: （全部が全部、ひとつに混ざり合ってこの場所を…… この空気を作ってる）
 みのり: 悩んでることも、悲しいことも苦しいことも、 全部全部受け止めてもらって、 『がんばれ』って言ってもらって
 みのり: まるで、心の深いところで繋がって—— わたしが応援してもらってるみたい
@@ -95,49 +91,37 @@ ASRUNのファン達: これからもついてくよ～～っ！！ ずっと、
 遥: ♪————！
 みのり: （こんなに広いステージを端から端まで何度も走って、 汗びっしょりで……でも、それがすっごくキラキラしてて）
 みのり: （ずっと笑顔でわたし達の声に応えてくれて、 全力で歌とダンスを届けてくれる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 みのり: （遥ちゃんの笑顔に、歌う姿に…… すっごくすっごく、元気がもらえる）
-(White cut)
+(White transition)
 千尋: すっごく、かっこいいもん……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 みのり: …………
 みのり: ……わたし、わかってなかった
 みのり: これが——本当のアイドルなんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ASRUNの事務所だから絶対入りたいなって思って、 志望動機のとこにも『遥ちゃんみたいに歌もダンスもできる スーパーアイドルになりたいです！』って書いたんだけどなあ
-(White cut)
+(White transition)
 (Background change)
 みのり: この曲の振りも、もう覚えちゃったな！ 通しでも踊れちゃう気がするし
 みのり: もしかしてわたし、 思ってたよりアイドルの才能あるのかも……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……全然、違う
 みのり: ダンスが少し踊れるからって、アイドルになれるわけじゃない。 だって——
 遥: ♪————！
 みのり: わたしが真似してるだけのものとは、全然違う……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: だからわたしも、もっと前向きになって—— 遥ちゃんみたいなアイドルになるって決めたんだ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……そんな簡単に、なれるわけないよね……
 みのり: なれ、ないけど——……
@@ -152,8 +136,8 @@ ASRUNのファン達: これからもついてくよ～～っ！！ ずっと、
 みのり: え……
 みのり: あ……っ…… 遥ちゃんが、こんなに近くに——
 みのり: っ……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000125/bg_s000125.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000125/bg_s000125.webp)
 みのり: （遥ちゃんが、わたしを見てる……？）
 みのり: （遥ちゃんのキラキラの目の中に、わたしが映って——）
 遥: ——楽しんでる？
@@ -162,26 +146,22 @@ ASRUNのファン達: これからもついてくよ～～っ！！ ずっと、
 遥: だから—— 難しいことは考えないで
 遥: 一緒に歌おう！
 みのり: あ——
-(White cut)
+(White transition)
 (Background change)
 ASRUNのファン達: キャーッ！！　遥～～っ！！！
 ASRUNのファン達: 大好きだよ～～～っ！！
 千尋: っ……すごかったね！ こんなに近くで遥を——
 みのり: ……いっしょ、に……
 千尋: みのり？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 遥: 一緒に歌おう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 みのり: …………うん
 みのり: （わたしも、一緒に歌いたい。 遥ちゃんの隣で……）
 みのり: （歌って——、たくさんの人に、希望を届けたい……！）
 みのり: ——待ってて、遥ちゃん！！ わたし……わたし、絶対そこに行くから！！
 みのり: いつか必ず——、絶対に……！！
 遥: みんな、ありがとう！
-(White cut)
+(White transition)

@@ -30,20 +30,16 @@ Mizuki: <I mean, she's basing it off of that really warm and cozy memory Mafuyu 
 Ena: <Yeah, I'm also excited, but...>
 (Background change)
 Ena: <Warm, huh...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mafuyu's Mother: <Thank you for being friends with Mafuyu.>
 Mafuyu's Mother: <By the way...>
 Mafuyu's Mother: <How did you two meet exactly?>
 Mafuyu's Mother: <If you don't mind me asking...>
 Mafuyu's Mother: <Mafuyu mentioned a friend who plays music. Is that you?>
 Ena: Music...? No, I'm not sure what you're talking about...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ena: (I didn't feel a single ounce of warmth when I talked to her on the phone that time...)
 Ena: <Hey, Amia, when would you say you have warm feelings about your family?>
 (Background change)
@@ -62,26 +58,18 @@ Mizuki: <Hey, I gave you a proper answer, didn't I?>
 Mizuki: <So, it's your turn to answer. When do you feel that sort of warmth with your family?>
 (Background change)
 Ena: <...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Warm isn't the word I'd use...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Yeah, I remember my chest feeling hot when I told him what I wanted to do in the future...)
 Ena: (But that's probably altogether a different kind of emotion...)
@@ -105,7 +93,7 @@ Ena: <I might try asking Yuki more about the warmth she felt when she gets here.
 (Background change)
 Mizuki: <Yeah, that's a great idea! It should help us a lot with our work!>
 Ena: <Exactly. I hope she gets here soon.>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -125,7 +113,7 @@ Ena: (But she just got healthy... A part of me thinks she's gonna immediately pu
 Ena: Wait, I know!
 Ena: <Before you get started, Kanade, can we talk for a bit?>
 Ena: Alright, now I just need to...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -179,4 +167,4 @@ Kanade: I should be able to... I think...
 Ena: Oh, Mafuyu, you're also welcome to have whatever you like. Stuff like this is nice to have for when you're studying, right?
 Mafuyu: Yes... I'll have some if I feel the need.
 Ena: Alright, I've accomplished my mission! Let's return to our rooms and get back to work!
-(Black cut)
+(Black transition)

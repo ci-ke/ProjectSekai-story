@@ -12,7 +12,7 @@ Mafuyu: Ugh...
 Mafuyu: (My headache hasn't gotten any better.)
 Mafuyu: (As much as I want to get ready for cram school tomorrow, it really might be best if I just rested today.)
 Mafuyu: Go home, take some medicine and sleep...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -43,7 +43,7 @@ Mafuyu: (Medical school...)
 Mafuyu: I appreciate your support.
 Mafuyu: I promise to do my best.
 Mafuyu's Father: And we'll be expecting nothing short of great success.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -54,20 +54,16 @@ Mafuyu: (Seeing those photos... It's making my chest hurt...)
 Mafuyu: I should take this medicine and go to bed right away. Oh, I need to tell everyone that I can't make it today...
 Mafuyu: ...
 Mafuyu: But I think I have time to listen to Kanade's song...
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ???: *Cough* M-Mommy...
 ???: Mafuyu...
 ???: Hurry, do that thing...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Hm...?
 Mafuyu: (Was I dreaming...? What was that I just saw...?)
@@ -78,7 +74,7 @@ Mafuyu: ...
 Mafuyu: (But that pain I felt when I saw those photos of me when I was little still bothers me...)
 Mafuyu: (My chest definitely hurt... But it also reminded me of how I feel when I listen to Kanade's song.)
 Mafuyu: (Mom and dad should be asleep now too, so maybe I can go look through that album.)
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Asahina Household - Living Room)
 Mafuyu: (Okay, it should be in the back of this cupboard...)
@@ -95,10 +91,10 @@ Mafuyu's Mother: Of course, you don't need me to tell you that.
 Mafuyu: Yes, I'll head off to bed...
 Mafuyu: Good night, mom. I'll take this up to my room and look at it tomorrow.
 Mafuyu's Mother: Okay. Good night, Mafuyu.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Mafuyu's Room)
 Mafuyu: (*Sigh* I managed to get it up here...)
 Mafuyu: (But there are too many distractions here.)
 Mafuyu: (I need to go somewhere that's quiet... Like SEKAI...)
-(Black cut)
+(Black transition)

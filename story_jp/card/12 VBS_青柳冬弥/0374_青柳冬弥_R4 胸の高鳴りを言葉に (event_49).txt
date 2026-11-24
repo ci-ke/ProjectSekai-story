@@ -77,7 +77,7 @@ MEIKO: それだけ思い入れのあるイベントっていうことね
 冬弥: COLに行くのが楽しみで、ワクワクしている
 レン: あはは！　じゃあ、オレと同じだね！
 冬弥: そうだな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -99,20 +99,16 @@ MEIKO: それだけ思い入れのあるイベントっていうことね
 杏の父: あいよ
 杏の父: それにしても、休日丸１日練習とは、 相変わらず練習熱心だな
 杏: まあね！　それにあのDVDを見たあとなんだよ？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————っ！！
-(White cut)
+(White transition)
 凪: ♪————————！！ ♪————————！！
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: あの映像を見て、改めて４人でRAD WEEKENDを 超えたいという気持ちをひとつにできました
 彰人: だから余計に、気合いが入ってたって感じっすね
@@ -151,4 +147,4 @@ MEIKO: それだけ思い入れのあるイベントっていうことね
 こはね: うん！
 冬弥: その期待に応えられるように、 そして俺達自身の夢のために、頑張らなければな
 こはね・杏・彰人: 『うん！』 『おう！』
-(Black cut)
+(Black transition)

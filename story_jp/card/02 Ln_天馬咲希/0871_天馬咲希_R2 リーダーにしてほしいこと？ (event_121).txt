@@ -12,35 +12,27 @@ Skill name: あったかもしれない未来
 一歌: いろいろあったから、仕方ないよ
 志歩: たしかに、いろいろあったな……
 穂波: うん。 最初は、わたし達の目指す音楽の話をして——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: 音楽を響かせ……元気を与え……人と人をつなげる。 そして、そのすべての想いを叶えられるよう力になりたい
 真堂: ……それぞれ細部は違っていても、 『聴いてくれる人達の心に響く演奏がしたい』 その想いは変わらない……ですか
-(White cut)
+(White transition)
 真堂: なるほど。とても皆さんらしいですね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: リーダーを決めるっていう話もあったね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: ——皆さんはこれから、 プロとして様々な困難に直面することになると思います
-(White cut)
+(White transition)
 真堂: もちろん、何かあれば俺もサポートするつもりです。 皆さんが立ち上がり前に進むよう、力にはなる
 真堂: ですが、俺はあくまでレコード会社の人間です。 俺の仕事は、皆さんの音楽を できるだけ多くの人に売り出すことです
 真堂: ……自分達のバンドを守るのは、自分達にしかできません
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: しかも、ソリス・レコードの社長とも挨拶して、 生演奏を聴いてもらうことになったんだよね！
 一歌: 改めて思ったけど、 本当にいろいろありすぎたね……
@@ -53,18 +45,14 @@ Skill name: あったかもしれない未来
 咲希: だとしても、すごいよ！ だって、早速リーダーとしてかっこいいところ見せてくれたし！
 一歌: あ、もしかして生演奏を聴いてもらおうって 決めた時のこと？
 咲希: うん！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: たくさんの人にわたし達の音楽を聴いてほしい…… わたし達は、そう思ってプロになったんです
 穂波: そのためのチャンスがあるなら……やります
 穂波: ……いいよね、みんな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: 『いいかな？』じゃなくて『いいよね』って言うの、 リーダー！！！って感じだった！
 志歩: リーダーとしての自覚と覚悟を感じた気がする
@@ -81,7 +69,7 @@ Skill name: あったかもしれない未来
 咲希: わー！　ほなちゃん、ごめんなさい！ お願いだから、普通に怒ってー！
 志歩: 普通に怒ってって……
 一歌・穂波: 『あはは』 『ふふっ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -146,4 +134,4 @@ MEIKO (Ln): そこがしっかり固まってから リーダーを決めよう�
 穂波: それと、体も冷やさないように そろそろ汗も拭いておかないとね
 一歌: やっぱり、私達のリーダーは……
 咲希: ほなちゃんだね♪
-(Black cut)
+(Black transition)

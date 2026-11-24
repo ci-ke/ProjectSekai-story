@@ -22,7 +22,7 @@ MEIKO: 穂波も料理うまかったよね。 今日は何か作るの？
 志歩: …………
 一歌: ……志歩？　どうかした？
 志歩: ……ううん、なんでもない
-(Black cut)
+(Black transition)
 (Background change)
 志歩: …………
 ルカ: あら？　志歩、まだ残っていたの？
@@ -56,17 +56,17 @@ MEIKO: 穂波も料理うまかったよね。 今日は何か作るの？
 ミク (Ln): …………
 ミク (Ln): 私は、そんなことないって思うけど
 志歩: ……え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000001/bg_s000001.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000001/bg_s000001.webp)
 ミク (Ln): 志歩だって、今まで苦しい時があっても 頑張って乗り越えてきたでしょ？
 ミク (Ln): 志歩が頑張ってるお姉さんを見てすごいと思ったように、 お姉さんも、そんな頑張ってる志歩を見て 励まされてたんじゃないかな？
 志歩: ……どうしてそう思うの？
 ミク (Ln): うーん、普段の志歩を見てて、なんとなく？
 志歩: 何それ。適当すぎ
 志歩: でも……そっか。 ありがと、ミク
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -79,4 +79,4 @@ MEIKO: 穂波も料理うまかったよね。 今日は何か作るの？
 志歩: お月見の配信って言ってたな
 志歩: （……今まで、お姉ちゃん達の配信って あんまり見たことなかったけど……）
 志歩: …………ちょっと見てみようかな
-(Black cut)
+(Black transition)

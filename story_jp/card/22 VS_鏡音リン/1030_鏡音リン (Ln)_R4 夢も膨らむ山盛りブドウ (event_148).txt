@@ -26,10 +26,8 @@ KAITO (Ln): ……そっか。 お土産選びに、リンも参加してたん�
 リン (Ln): そのおかげで、紅葉仮面団子も見れたしね♪
 MEIKO (Ln): 紅葉仮面、団子？
 リン (Ln): えへへ。それはね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン (Ln): 『よいしょっと。 ……これくらいなら、顔出して大丈夫そう！』
 リン (Ln): 『たしかしほっちが、 最後は紅葉狩りって言ってたけど——』
@@ -85,10 +83,8 @@ MEIKO (Ln): 紅葉仮面、団子？
 (Background change)
 リン (Ln): （……っ！　な、なにあれ！ お、おかしくて……わ、笑い声が出ちゃうよ～！）
 リン (Ln): （だ、だめ～！　がまんできない！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (Ln): ——っていう感じで、慌てて帰ってきて お腹抱えて笑っちゃった♪
 咲希: あの時リンちゃんもいたんだね！ ていうか、しほちゃん！　撮る時笑ってたんだ！？
@@ -98,7 +94,7 @@ KAITO (Ln): あ、最近、何もしてないのに 急に笑い出したりし�
 リン (Ln): だって、本当におもしろくて……ふ、ふっ……あははっ！
 志歩: リン、私達が思ってるより 楽しんでくれてたみたいだね
 咲希: うん！　よかった♪
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -133,7 +129,7 @@ KAITO (Ln): ……ぶら下がってるのって、ブドウ？
 リン (Ln): だから、すっごく嬉しい！ サッキー、しほっち、本当にありがとう！
 ミク (Ln): じゃあさっそく、みんなでブドウ狩り体験しようか
 リン (Ln): うん！
-(Black cut)
+(Black transition)
 志歩: 本当は房ごととってもらうんだけど、 今回は、ここに粒をとってもらえる？
 レン (Ln): お、器も用意してくれてたんだな
 咲希: お手拭きもあるから、自由に使ってね～！
@@ -141,28 +137,24 @@ KAITO (Ln): ……ぶら下がってるのって、ブドウ？
 MEIKO (Ln): なるほどね。でもその前に……。 赤と白、２種類あるけどどっちからいこうかな
 リン (Ln): あたしは赤からにしよーっと♪ 下の方の……あ、この粒にしよー！
 リン (Ln): ……おおー、とれた！ サッキー、しほっち、とれたよ！
-(Black cut)
+(Black transition)
 KAITO (Ln): 思ってたより、ひと粒が大きい……。 これ、ひと口で食べられる？
 リン・レン: 『んー？』
 KAITO (Ln): ……ふたりとも、ほっぺもいっぱいみたいだけど、 何粒食べたの？
 リン・レン: 『２！』
 MEIKO (Ln): え、ふた粒いっきにいったってこと？ 私もやってみようかな
-(Black cut)
+(Black transition)
 ミク (Ln): 白いほうのブドウも、こんなに甘いんだね。 もっとさっぱりしてるのかなって思った
 ルカ (Ln): きっと品種によるんじゃないかしら。 逆に、この赤いブドウは甘いけど後味がさっぱりめよ
-(Black cut)
+(Black transition)
 KAITO (Ln): ……あ、房の上の方の粒、 本当に下のほうのより甘く感じる
 リン (Ln): でしょー！ あたしもそろそろ、上の方のヤツ食べよーっと♪
-(Black cut)
-(White cut)
-
-(Memory cut-in)
-
+(Black transition)
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (Ln): ……リン、嬉しそうだね
 リン (Ln): うん！　あの日、あたしが見てたサッキー達と一緒で、 みんなにこにこだなって思って
@@ -170,4 +162,4 @@ KAITO (Ln): ……リン、嬉しそうだね
 リン (Ln): サッキーやしほっちも、 あの時、こういう気持ちだったのかな！？
 KAITO (Ln): ……うん、きっと
 リン (Ln): そっか……！
-(Black cut)
+(Black transition)

@@ -6,10 +6,10 @@
 
 [？？？]
 
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 寧々: わぁ……
 寧々: （すごい劇場……！ まるで、おとぎ話の中の宮殿みたい……）
 寧々: これが……森ノ宮歌劇団なんだ……
@@ -36,13 +36,13 @@
 えむ: はいっ！ よろしくお願いしますっ！！
 有田: まずは当施設をご案内いたしますね。 どうぞ、こちらへ
 寧々: はい……！！
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 司: いやはや……素晴らしいな！ 劇場はもちろん、レッスンルームまでとても広かったぞ！
 類: 僕も、ここまで設備が整っているとは思っていなかったよ。 さすが、商業的にも大きな成功をしている劇団は違うね
 えむ: うんっ！ あたし、ここでもいっぱい運営の勉強したいな！
@@ -72,7 +72,7 @@
 寧々: ……わかりました！
 寧々: バラバラになるのはちょっと不安だけど——
 寧々: あの森ノ宮音楽学園でレッスンさせてもらえるなんて すごく大きな経験になりますし……楽しみです！
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -87,4 +87,4 @@
 寧々: （わたしだって役者として成長するんだ！！）
 担任教師: それでは、入りましょうか。草薙さん
 寧々: ——はいっ！
-(Black cut)
+(Black transition)

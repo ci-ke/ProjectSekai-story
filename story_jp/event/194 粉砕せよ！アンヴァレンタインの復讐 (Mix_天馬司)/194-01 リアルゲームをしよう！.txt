@@ -30,7 +30,7 @@
 司: ふむ、イベントを……
 司: ……類、少し覗きに行かないか？ 何やら面白そうだ！
 類: そう言うと思っていたよ。 じゃあ、早速向かおうか
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -130,4 +130,4 @@
 (Background change)
 ルカ (WxS): （勇者にゲーム……ふふ、なんだかとっても面白そうねえ）
 ルカ (WxS): （せっかくだし、ちょっと見ていってみようかしら～♪）
-(Black cut)
+(Black transition)

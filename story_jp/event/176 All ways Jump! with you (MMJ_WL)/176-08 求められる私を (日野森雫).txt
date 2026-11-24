@@ -3,19 +3,19 @@
 (Character: 日野森志歩, 日野森雫)
 
 (Video: link2_idol_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [撮影スタジオ]
 
 カメラマン: ——OK！ さすが雫ちゃん、いい表情撮れたよ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000479/bg_s000479.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000479/bg_s000479.webp)
 カメラマン: 今日もオーラ全開だったね！ いい表紙になりそうだ
 雫: ありがとうございます。 またよろしくお願いします
 雫: （……よかった。今日もやりきれたみたいね）
 雫: （——“日野森雫”を）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -63,4 +63,4 @@
 雫: （心配をかけてしまって、申し訳ないけど……）
 雫: （本当の私じゃ、何も届けられないから——）
 雫: （これからも、 みんなが求めてくれる私を生きていかないと）
-(Black cut)
+(Black transition)

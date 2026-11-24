@@ -11,17 +11,13 @@
 瑞希: （結構珍しいお菓子とかあるし こういうのだったら、 カイトとかも興味持ってくれるかも？）
 瑞希: ——そうだ！ ポップアップストア、ミク達も誘っちゃおうかな
 瑞希: お姉ちゃんがデザインした服、みんなにも見せたいし——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希の姉: 自分の作った服が、誰かの背中を押したって感じた時 ——たまらない気持ちになったんだ
 瑞希の姉: ああ、これは……すごく幸せなことだなって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （たまらない気持ち、か）
@@ -88,13 +84,13 @@
 瑞希: おお、お目が高い！
 瑞希: これ、お姉ちゃんおすすめのショコラトリーのやつなんだって。 ——はい、どーぞ！
 レン (N25): ありがとう……。 じゃあ、いただきます
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000483/bg_s000483.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000483/bg_s000483.webp)
 レン (N25): ……甘くて、おいしいね
 瑞希: ふふ、気に入ってくれたみたいでよかった！ ボクもクッキー食べちゃおっと♪
 絵名: じゃあ、私はマカロンもらおうかな
 レン (N25): えへへ……。 みんなで食べると、もっとおいしいね
-(White cut)
+(White transition)
 (Background change)
 絵名: 瑞希のお姉さん、デザイナーなだけあってセンスいいよね。 包装もかわいいの多いし
 絵名: そういえば…… お姉さんのブランドって、『Fleur Libre』ってとこだっけ？
@@ -108,4 +104,4 @@
 絵名: んー、そうだね。 実物がどんな感じなのか気になるし、行こっかな
 瑞希: よーし、決まり！ 今日の夜、奏とまふゆにも聞いてみようっと♪
 レン (N25): ……えへへ、楽しみだなあ
-(Black cut)
+(Black transition)

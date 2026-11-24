@@ -25,7 +25,7 @@ Gacha phrase: 思い出なら、十分作ったので
 咲希: アタシも～！
 一歌: 私は、もしかしたら委員会があるかもしれないんだ
 志歩: そっか。それなら、予定が合えばまた食べようか
-(Black cut)
+(Black transition)
 (Background change)
 志歩: ……どれにしようかな……
 一歌: あ、ふたりとも。 今日は購買なんだ
@@ -35,7 +35,7 @@ Gacha phrase: 思い出なら、十分作ったので
 咲希: あ、いいね！　せっかくだしアタシも賛成！
 一歌: よかった……！ じゃあ、急いで買わなきゃ
 一歌: それじゃあ、えっと……焼きそばパン３つください
-(Black cut)
+(Black transition)
 (Background change)
 
 [レッスンスタジオ]
@@ -48,7 +48,7 @@ Gacha phrase: 思い出なら、十分作ったので
 志歩: ——この曲、テスト勉強の息抜きによく弾いてたから、 結構なじんでるんだよね
 志歩: まあ息抜きのつもりが、 １時間ぐらいやっちゃってたりしたんだけど
 一歌: ふふ、あるあるだね。 じゃあ時間もそろそろだし、次で最後にしようか
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -83,7 +83,7 @@ Gacha phrase: 思い出なら、十分作ったので
 咲希: やったー！ しほちゃん、決まったら早く教えてね！
 一歌: ふふ。志歩って、なんだかんだ押しに弱いよね
 志歩: 変なこと言わないで。 それよりほら、早くパフェ食べるよ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -128,17 +128,13 @@ MEIKO (Ln): なんでもないよ
 MEIKO (Ln): ただ志歩は、Leo/needが——
 MEIKO (Ln): 一歌達のことが大好きなんだなって、思っただけだよ
 志歩: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ……どこでどんな風に過ごしていても やっぱりわたし達は『一緒にいたい』んだなって
 穂波: その気持ちだけは、絶対に変わらないんだって思えたから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ……まあ、バンド仲間なので……
 MEIKO (Ln): というか、さすがのたくましさだね。 夢で経験したことを、こっちで活かそうだなんて
@@ -154,4 +150,4 @@ MEIKO (Ln): いいね。私もドラムで参加させてもらおうかな
 志歩: ありがとうございます
 MEIKO (Ln): じゃあ、やってみようか。 カウント取るよ
 志歩・KAITO: 『はい！』 『……うん』
-(Black cut)
+(Black transition)

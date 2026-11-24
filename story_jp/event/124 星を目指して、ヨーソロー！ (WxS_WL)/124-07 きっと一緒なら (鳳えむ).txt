@@ -27,14 +27,14 @@
 MEIKO (WxS): それだけじゃないわ！ ４人で一緒に夢を追いかけたいって想いも、叶えられたわね
 リオン: ……そうだったんですね
 リオン: だけどボクには……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000291/bg_s000291.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000291/bg_s000291.webp)
 えむ: ——大丈夫！　あたしも協力するよ☆
 リオン: え……
 えむ: ひとりじゃできないことも 誰かと一緒だったら、できるかもしれない
 えむ: 誰かと一緒に考えれば、今まで思いつかなかった すてきなアイディアも出てくると思うから！
 えむ: だから、リオンくんの夢を現実にできるように、 あたしといっぱい考えよう！
-(White cut)
+(White transition)
 (Background change)
 リオン: えむさん……
 司: ——無論、オレ達も協力するぞ！ ここまで聞いて、放っておくことなどできるものか！
@@ -83,6 +83,6 @@ MEIKO (WxS): ……ええ、そうね！
 MEIKO (WxS): あら、急がなきゃ。 ……さあ、行きましょ！
 MEIKO (WxS): 頑張るえむちゃん達を、これからもそばで見守って 応援できるように！
 レン (WxS): うんっ！
-(Black cut)
+(Black transition)
 (Video: link_wonder_ed3)
-(Black cut)
+(Black transition)

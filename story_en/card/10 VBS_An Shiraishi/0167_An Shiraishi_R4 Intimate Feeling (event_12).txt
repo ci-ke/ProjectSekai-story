@@ -69,7 +69,7 @@ Kohane: Really?!
 An: Absolutely! Your future as a member of our team hinges on it, right?
 An's Father: Here we go again... An's back to her usual self.
 An's Father: Looks like I'll have to give her the rest of the day off.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -82,7 +82,7 @@ Kohane: ——♪ ——♪
 An: (Wow... She's modulating her voice beautifully! And the high notes she's been practicing seem totally fine now...)
 An: (I can't let her just leave me behind!)
 An: ——♪ ——♪
-(Black cut)
+(Black transition)
 An: Whew... Great work today, Kohane!
 Kohane: You too, An. That was a good session!
 An: You've pretty much mastered those high notes you were having trouble with the other day.
@@ -125,7 +125,7 @@ Kohane: Haha, well... Not exactly. She'd be happier with a dog or a cat... You k
 Kohane: But she's also a softie and has a hard time saying no to my dad.
 An: Haha. That's so cute!
 Kohane: It is. Oh, this other time, when dad wanted to get a new camera...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -137,7 +137,7 @@ An: Yeah, you're right! But I have a feeling Akito won't be very chatty.
 An: Okay, I've gotta get back to the cafe to help out.
 Kohane: Yeah! See you tomorrow, An!
 An: See you!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -154,4 +154,4 @@ An's Father: Oh, one more thing.
 An: Huh?
 An's Father: Welcome home.
 An: Thanks, dad...!
-(Black cut)
+(Black transition)

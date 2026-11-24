@@ -12,22 +12,18 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: あ……またお腹がうるさくなってきた。 もう少しで次の曲のイメージがかたまりそうなのに
 奏: そういえば……温めるだけで食べられるご飯を 望月さんが作っておいてくれたんだった
 奏: それ食べながら作業しようかな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: （掃除にご飯に、お茶や花—— 本当にいろいろ気づかってくれてるな……）
 奏: （それが仕事だからって望月さんは言ってるし、 たしかにそうなんだけど……）
 奏: 何か、お礼がしたいな
 奏: あ、そうだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -42,7 +38,7 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: うん。あ……でも、ひとつお願いがあって……
 穂波: はい、なんですか？
 奏: えっと……。食後のお茶の準備は、 ちょっと待ってほしいんだ
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: （……あ。シチューのいい匂い……）
@@ -50,7 +46,7 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: （手順とか、念のためおさらいして……）
 穂波の声 (穂波): 宵崎さーん。お食事の用意ができました
 奏: あ、う、うん。今行くね
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宵崎家　キッチン)
 奏: ——ごちそうさまでした
@@ -84,7 +80,7 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 穂波: だ、大丈夫ですか！？
 奏: うん。お湯がはねてびっくりしただけだから
 奏: あとは急須にお湯を入れて、待つだけかな
-(Black cut)
+(Black transition)
 奏: ——よし、あとはカップに注いで……
 奏: ……あれ？　望月さんがいれてくれる紅茶より、 ちょっと色が濃い？
 穂波: （や、やっぱり……）
@@ -93,7 +89,7 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: え？
 穂波: アールグレイとミルクは相性がいいので、 もし薄めるなら牛乳を入れるのがおすすめです
 奏: そうなんだ。 ありがとう、じゃあちょっと入れてみるね
-(Black cut)
+(Black transition)
 奏: ふぅ……。おまたせ、望月さん
 穂波: わ、いい香りですね。 いただきます
 奏: じゃ、わたしも
@@ -109,7 +105,7 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: 望月さん、改めてになるけど——
 奏: いつも美味しいご飯をありがとう。 よかったら、これからもよろしく
 穂波: はい！　こちらこそよろしくお願いします
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -127,7 +123,7 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: うん、なんか食べやすいし。 まふゆは何頼む？
 まふゆ: ……私は、もう少し軽めの物を探してみる
 奏: うん、それがいいと思う
-(Black cut)
+(Black transition)
 瑞希: みんな、飲み物はきてるね！
 瑞希: それじゃあ、今回もお疲れさま！ 乾杯！
 奏・まふゆ・絵名: 『乾杯』
@@ -141,33 +137,25 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: あ……たいしたことじゃないんだけど……
 奏: 顔も名前も知らずに活動してきたけど、 いつの間にか、こうやって一緒にご飯食べてるのが 当たり前になったなって思って
 奏: （これも、大きな変化かも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【雪】 (まふゆ): 『——はじめまして。雪です』
 奏: 『あ……』
 奏: 『……はじめまして、雪さん。 K、です……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの日、『雪』と初めて話して、 曲を一緒に作り始めて——）
 奏: （それから、『えななん』と『Amia』が加わって——）
 奏: （あの頃は、ナイトコードがあれば会話もできるし、 名前とか顔を知らなくても別にかまわないって思ってた）
 奏: （でも、それはきっと……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: だって本当は、 Kも、えななんも、Amiaも—— 誰よりも消えたがってるくせに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （まふゆが言ってたとおり、 消えたがってたから、なんだろうな）
 奏: （名前も顔も知らないのに、どこか通じ合ってるような、 そんな気がしてたのは——）
@@ -198,4 +186,4 @@ Gacha phrase: 誰かを救う曲を、作れるかもしれない
 奏: みんな、これからもよろしく
 瑞希・絵名: 『うん！』
 まふゆ: うん
-(Black cut)
+(Black transition)

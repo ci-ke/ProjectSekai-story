@@ -13,7 +13,7 @@ nightcode_01_02 White Miku
 (Background change)
 [K] (Kanade): <Alright. I think I'm going to work on it a bit longer.>
 [Amia] (Mizuki): <Good work today, Enanan! Yuki! Talk to you tomorrow!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -26,7 +26,7 @@ Mafuyu: Yeah. I should be back by five.
 Mafuyu's Mother: Make sure to let me know if you're going to be late.
 Mafuyu: Hehe. Don't worry, Mom. I will.
 Mafuyu: Alright, I'm off then!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Ena's Room)
 Ena: I just can't get this part to look right...
@@ -39,7 +39,7 @@ Social Media Comment: <You're beautiful! New follower right here!>
 Ena: Hehe. So many likes already♪ I'm getting more followers, too. I'll hit 7,000 soon.
 Ena: .....
 Ena: I wish my illustration account would get some more followers, though...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -51,7 +51,7 @@ Mizuki: Hello? Oh, hi Teach! Long time no see♪
 Mizuki: Ah, I see. My attendance numbers? Yeah yeah, I understand. I'll make sure I go to supplementary classes next week. See you then!
 Mizuki: Sigh... I guess I have to go to school again.
 Mizuki: Oh, I really like this one! It's so pretty!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -69,31 +69,27 @@ Comment: <It's scary how much this sucks you in.>
 Comment: <Kinda dark, but it's also somehow reassuring. I feel like I can finally get some sleep tonight thanks to this.>
 Kanade: (I'm glad.)
 Kanade: (As long as my songs can help someone... As long as people can relate to them...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Kanade's Father: Kanade, make sure you keep creating your own music.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: Dad...
 Kanade: I have to keep making songs that can save people.
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 Kanade: Huh? What was... My screen, it...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000017/bg_a000017.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000017/bg_a000017.webp)
 ??? (Miku-N25): ...ly...
 Kanade: What is this? Some kind of video? But I didn't click on anything.
 ??? (Miku-N25): Co...ly...
 Kanade: It sounds like it's trying to say something...
 ??? (Miku-N25): Come quickly...
-(White cut)
+(White transition)
 (Background change)
 Kanade: I-It's gone. What was that? 
 Kanade: Come quickly? What's that supposed to mean?
-(Black cut)
+(Black transition)

@@ -7,17 +7,13 @@
 まふゆ: （ふたりと話してる時は、あたたかくなる）
 まふゆ: （——ずっと、このままいられたら……）
 まふゆ: ……あ、メッセージ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: まふゆ、お母さん信じてるわ
 まふゆの母: まふゆは、夢を叶えるために必要なことを ちゃんとわかってるって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……どうしたの？
 まふゆ: ——そろそろ門限だから、帰らないと
@@ -26,7 +22,7 @@
 まふゆ: ……うん、少し楽になったから。 ふたりともありがとう
 絵名: ……じゃ、私達もそろそろ帰ろっか。 ちょうど食べ終わったところだし
 瑞希: だね、行こっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -43,31 +39,23 @@
 まふゆ: …………わかった
 まふゆ: （……嫌なことは、嫌だって言う……）
 まふゆ: （……嫌な、こと……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: （このまま、ニーゴで活動できなくなったら……）
 まふゆ: （一緒に音楽が作れなくなったら、私は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ——ねえ、まふゆ？ もう夜中まで勉強するのはやめたほうが いいんじゃないかしら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………そうだ、参考書買わなきゃ
 ？？？: ——まふゆ？
@@ -77,7 +65,7 @@
 まふゆの父: そうだったのか、まふゆは勉強熱心だな。 それならお父さんが買ってあげるから一緒に行こう
 まふゆ: あ……
 まふゆ: ——ありがとう、お父さん
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -94,16 +82,12 @@
 まふゆの母: 受験勉強を頑張るのは偉いけれど、夜は勉強を控えて ちゃんと眠るようにしましょうねって
 まふゆの母: ね、まふゆ？
 まふゆ: ……それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 嫌なことは、ちゃんと嫌だって言いなさいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆの父: まふゆ、どうしたんだ？
 まふゆ: あ、えっと……そのことなんだけど……
@@ -126,7 +110,7 @@
 まふゆ: でも、私、は……
 まふゆの母: あら——まだ、何かあるの？
 まふゆ: あ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -135,7 +119,7 @@
 まふゆ: （嫌って、言ったのに……）
 まふゆ: （このまま、もし本当にニーゴの活動が できなくなったら、私は……）
 まふゆ: …………もう、私は……
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -149,4 +133,4 @@
 ？？？: ……話に聞いたとおりだな
 KAITO: ——お前は本当に、それでいいのか？
 まふゆ: え……？
-(Black cut)
+(Black transition)

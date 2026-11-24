@@ -22,17 +22,13 @@
 ？？？: 『——あ、お兄ちゃん達来た！』
 ？？？: 『本当だ！　おーい！』
 杏: あ……あの子達って……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 子供達: 『お兄ちゃんとお姉ちゃん達、どこから来たの？』
 子供達: 『お姉ちゃん達も セディとスレイドみたいに歌を歌う人なの？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……この前、ここに来てたヤツらじゃねえか
 杏: 『やっほー、エマ！　久しぶり！』
@@ -46,7 +42,7 @@
 ウィル: 『スレイド達も中で待ってるよ。行こ！』
 彰人: 『おい、そんな引っ張んなって』
 冬弥: これは、賑やかなパーティーになりそうだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [秘密基地]
@@ -97,4 +93,4 @@
 レベッカ: あ……じゃあ、私も行こうかな
 杏: オッケー。 必要なものは、後でリストにして送るよ！
 彰人: 頼んだ。 じゃ、行くか
-(Black cut)
+(Black transition)

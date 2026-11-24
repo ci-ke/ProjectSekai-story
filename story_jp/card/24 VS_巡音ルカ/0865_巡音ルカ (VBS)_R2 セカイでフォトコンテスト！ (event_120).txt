@@ -30,20 +30,16 @@ MEIKO (VBS): それに、練習終わりの息抜きとか、 自主練習のた
 ルカ (VBS): そうだけど、圧倒的に娯楽不足なんだよ！
 MEIKO (VBS): 娯楽って……
 ルカ (VBS): あ～あ。バレンタインの時みたいに、 みんなでワイワイできることないかな……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (VBS): ……そっか！ 私達もやればいいんだよ！
 ミク・MEIKO: 『……え？』
-(Black cut)
+(Black transition)
 ルカ (VBS): ——というわけで、 フォトコンテスト、crase cafe杯を開催するよ～♪
 KAITO (VBS): crase cafe杯？　メイコが主催ってこと？
 MEIKO (VBS): いえ、『かっこいいから名前貸して』ってルカに言われて……
@@ -59,7 +55,7 @@ KAITO (VBS): それ、こはねちゃん達がやったフォトコンテスト�
 リン (VBS): もう、そうとしか言わないじゃん……
 ルカ (VBS): とにかく、まずはチーム分けをするよ。 はい、そこのあみだくじに名前書いて！ 場所は早い者勝ち！
 レン (VBS): そういうとこも適当なんだから
-(Black cut)
+(Black transition)
 ルカ (VBS): ——それじゃあ、チームを発表するよ
 ルカ (VBS): ひとつめのチームは、私、リン、それとミク！
 ルカ (VBS): ふたつめのチームは、レン・メイコ・カイト！
@@ -75,7 +71,7 @@ KAITO (VBS): へえ、準備いいね
 ルカ (VBS): まあね～
 ルカ (VBS): それじゃあみんな、 最高の１枚が撮れるように頑張ろう！
 リン・レン・KAITO: 『おおー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -88,7 +84,7 @@ KAITO (VBS): へえ、準備いいね
 ミク (VBS): 作戦って言っても、あと決めなきゃいけないのは メイクをどうするかくらいじゃない？
 リン (VBS): とりあえず、こはねちゃん達が貸してくれたメイクの 参考資料を見ながら話そうよ
 ルカ (VBS): オッケー♪
-(Black cut)
+(Black transition)
 ルカ (VBS): ——んー、『目元にビターチョコのカラーを入れて、 リップはつやのあるカシスで色っぽく』か……
 リン (VBS): わあ、大人っぽいメイクだね！ 色もルカに合いそう！
 ルカ (VBS): まあね。 でも、普通に似合うだけじゃインパクトがなあ……
@@ -106,7 +102,7 @@ KAITO (VBS): へえ、準備いいね
 ルカ (VBS): もちろん！　メイクしたあとに見せてあげる♪
 ルカ (VBS): だから、まずはメイクをビシッと決めちゃおう！
 ミク・リン: 『うん』 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [フォトコンテスト　審査当日]
@@ -145,7 +141,7 @@ KAITO (VBS): なんていうか、予想外……？
 KAITO (VBS): あはは……。 そういう意見も、あっていいよね
 MEIKO (VBS): そうね……。 向こうのチームはそれで満場一致みたいだし
 ルカ・ミク・リン: 『……？』
-(Black cut)
+(Black transition)
 レン・KAITO: 『いただきまーす！』
 MEIKO (VBS): はい、召し上がれ
 リン (VBS): 結局、勝負はカイト達の勝ちかあ……
@@ -161,4 +157,4 @@ MEIKO (VBS): はい、召し上がれ
 冬弥: たしかに
 ルカ (VBS): ねえ、ミク、リン。 もしリベンジ大会やる時は、また一緒に組もうよ！
 リン・ミク: 『もちろん！』 『もちろん』
-(Black cut)
+(Black transition)

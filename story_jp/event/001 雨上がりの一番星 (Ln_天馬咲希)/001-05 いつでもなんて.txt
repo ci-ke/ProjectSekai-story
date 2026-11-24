@@ -24,7 +24,7 @@
 穂波: 咲希ちゃんがそれでいいならいいんだけど……
 咲希: バッチリオッケーだよ！ ほらっ、やろやろ～！
 志歩: ……じゃあ、始めるよ
-(Black cut)
+(Black transition)
 一歌: うん。しっかり合わせられたね
 志歩: 今のは噛み合ってた。 最後までズレもなかったね
 志歩: 咲希も、すごく良くなってたよ
@@ -53,17 +53,13 @@
 志歩: え？
 咲希: いつでもなんて行けない！ ずっと……行けなかったもん！
 一歌: あ……！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: ……うん。またね
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: 咲希……
 咲希: う……
 穂波: 咲希ちゃん大丈夫？ 一歌ちゃん、そこの椅子持ってきてもらっていいかな
@@ -73,7 +69,7 @@
 穂波: ねえふたりとも、落ち着いたら家まで送ってあげたほうが いいかなって思うんだけど……どうかな？
 一歌: うん、そうしよう
 志歩: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [咲希の部屋]
@@ -92,4 +88,4 @@
 志歩: …………ううん。 とにかく、今はちゃんと休んで
 志歩: 話はそれから
 咲希: しほちゃん……
-(Black cut)
+(Black transition)

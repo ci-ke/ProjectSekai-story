@@ -13,7 +13,7 @@ KAITO (Ln): そうだったんだ……
 咲希: アタシも、早く聴きたいでーす！
 ミク (Ln): ねえ、一歌。 聴かせてくれる？
 一歌: わかった。今流すね——
-(Black cut)
+(Black transition)
 ミク (Ln): ………………
 一歌: えっと……どうだったかな？
 咲希: すっ………………
@@ -61,14 +61,14 @@ MEIKO (Ln): 『WITH』か……ぴったりだね！
 穂波: 一歌ちゃんがよければだけど…… わたしも、咲希ちゃんに賛成だな
 穂波: 本当に素敵な曲だと思うから
 一歌: あ、ありがとう……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000500/bg_s000500.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000500/bg_s000500.webp)
 MEIKO (Ln): ——きっとこの曲は、ミクが好きな人達に届くと思うよ
 MEIKO (Ln): この曲は、一歌の ミクが大好きって気持ちであふれてるし……
 MEIKO (Ln): 咲希達の言う通り、共感してくれる人が たくさんいると思う
 MEIKO (Ln): 私も、投稿してみていいんじゃないかって思うな
 一歌: メイコ……
-(White cut)
+(White transition)
 (Background change)
 レン (Ln): そうだな。 これだけ想いが詰まった曲なんだから
 一歌: みんな……
@@ -80,7 +80,7 @@ KAITO (Ln): たしか——『ichi』って名前で活動してるんだっけ
 一歌: 私も、ミクが好きな人に聴いてもらえたら嬉しいし…… 投稿してみるよ
 ルカ (Ln): ……たくさんの人に、届くといいわね
 MEIKO (Ln): ふふ、どんな反応が来るのか楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -107,7 +107,7 @@ MEIKO (Ln): ふふ、どんな反応が来るのか楽しみだな
 一歌: でも、今日はセトリの曲全部通すんでしょ？ だったら早めに始めないと
 咲希: たしかに……！ しっかりおやつ食べて、頑張らなくちゃ！
 穂波: じゃあ、みんなの準備ができたら始めようか。 今日が本番のつもりで、丁寧にやっていこうね
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -117,8 +117,8 @@ MEIKO (Ln): ふふ、どんな反応が来るのか楽しみだな
 一歌: ……今、何時だろう……？ スマホは……
 一歌: あった。えっと…………
 一歌: （あれ？   ichiのアカウントに、誰かからDMが来てる……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000501/bg_s000501.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000501/bg_s000501.webp)
 一歌: ………………え？
 一歌: この名前って、まさか——
-(Black cut)
+(Black transition)

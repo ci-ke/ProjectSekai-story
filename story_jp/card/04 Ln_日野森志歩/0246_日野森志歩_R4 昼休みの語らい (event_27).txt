@@ -15,19 +15,15 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 穂波: うん。 ワン、ツー、スリー、フォー
 志歩: （……みんなすごく集中できてる。 演奏のメリハリもついてきてるし、悪くない）
 志歩: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの時の演奏と比べると、もの足りない気がする。 どこか音が乗りきらないというか……）
 志歩: …………
-(Black cut)
+(Black transition)
 志歩: ——ごめん、私そろそろバイトに行かないと
 一歌: わかった。じゃあここからは個人練習しておくね
 志歩: うん。あ……そうだ
@@ -44,7 +40,7 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 [ライブハウス]
 
 ボーカル: みんな！　ありがとー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -59,15 +55,11 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 ボーカル: 本当！？　それならよかった……
 ボーカル: 練習集まれないのは仕方がないにしても、 下手な演奏、お客さんに聴かせたくないから
 志歩: （合わせる練習できてないのに、 本番であれだけしっかりした演奏ができるなんて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: あの、ちょっと聞いてもいいですか
 ボーカル: なあに？
@@ -85,7 +77,7 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 ボーカル: どういたしまして！
 ボーカル: 志歩ちゃんも、同級生の子達とバンドを組んでるのよね？ いつか、一緒にライブで演奏しようね！
 志歩: はい、その時がきたらぜひ
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ライブハウス)
 志歩: （……店長、いた。オーナーと話してる）
@@ -112,7 +104,7 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 志歩: それと、今度改めてメンバーを紹介させてください
 オーナー: うん、楽しみしてるよ
 志歩: はい！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -125,20 +117,16 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 志歩: （咲希が作ってくれたあのフレーズ、 弾いてみようかな）
 志歩: （やっぱり、いいな）
 志歩: （咲希がいろいろ悩みながら、 それでも頑張って見つけてくれたフレーズだもんね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 咲希は、自分のやりたいことをちゃんと見つけて、 そのために頑張れてるでしょ？ 私達はずっと、そんな咲希に助けられてきた
 志歩: だからきっと、私達の伝えたい想いは 咲希が一番最初に見つけられる気がする
-(White cut)
+(White transition)
 咲希: わ……わかったーーーー！！
 咲希: ありがとう！　ありがとう、しほちゃん！ アタシ、自分の伝えたい想い、わかったよー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの時、ちゃんと話をしに行ってよかったな）
 志歩: ……うん。こっちのアレンジもありだな。 忘れないうちにメモって……
@@ -187,4 +175,4 @@ Gacha phrase: 私達だから伝えられる何かがきっとある
 咲希: そんなー！　待ってよ、しほちゃーん！
 咲希の声 (咲希): なんの話してたのか教えてくれないと、 練習集中できないよー！
 一歌・穂波・リン: 『ふふっ』 『あはは！』
-(Black cut)
+(Black transition)

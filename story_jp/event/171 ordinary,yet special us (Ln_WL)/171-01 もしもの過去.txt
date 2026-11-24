@@ -10,7 +10,7 @@
 雑誌記者: 皆さんの魅力をしっかり書かせていただきますので、 原稿、楽しみにしていてください！
 穂波: こちらこそ、今日はありがとうございました！
 咲希・一歌・志歩: 『ありがとうございました！』 『ありがとうございました』
-(Black cut)
+(Black transition)
 真堂: ——皆さん。ロングインタビュー、お疲れさまでした
 咲希: き、緊張したぁ……！
 穂波: わたしも……。 質問される内容、あらかじめもらっておいてよかった
@@ -29,7 +29,7 @@
 真堂: ええ。Leo/needの音楽だけでなく、 それを生み出す皆さんのことを知ってもらうのも 大切なことなので
 真堂: 慣れない仕事で大変かもしれませんが、 今は必要なことだと考えています。 今後も積極的に受けていくつもりなので、ご協力お願いします
 穂波: いえ、こちらこそ。 引き続きよろしくお願いします
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -47,17 +47,13 @@
 咲希: 『小さな頃からずっと一緒で、 今でも変わらず仲がいいなんて羨ましい』って！
 穂波: でも、離れ離れになってた時期があるって話した時は、 記者さん、すごく驚いてたな
 一歌: そうだね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （あの頃は、咲希が入院してる病院は遠くて、 なかなかお見舞いにもいけなくて——）
 一歌: （志歩や穂波とも、距離ができちゃって）
@@ -80,7 +76,7 @@
 一歌: （……こんなこと考えても仕方ないよね）
 咲希: いっちゃーん！　信号変わっちゃうよ！ 早く早く！
 一歌: うん、今行く！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -91,7 +87,7 @@
 一歌: あ、ミク！　今日の練習もよろしく……
 一歌: …………ミク？
 ミク (Ln): ……みんな、一緒に来て。見てほしいものがあるの
-(Black cut)
+(Black transition)
 (Background change)
 
 [駅]
@@ -119,13 +115,13 @@ MEIKO (Ln): この木は想いで成長する木だから、 一歌達の世界�
 (Background change)
 一歌: わっ！
 ミク (Ln): みんな……っ！！
-(Black cut)
+(Black transition)
 
 [？？？]
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

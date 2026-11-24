@@ -12,7 +12,7 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 [ワンダーステージ]
 
 類: 本日もワンダーランズ×ショウタイムの ショーをご覧いただき、ありがとうございました！
-(Black cut)
+(Black transition)
 司: よし！　今回の通常公演も トラブル、事故なしでやりきったな！
 類: ああ。みんなの協力のおかげだね
 司: 何を言う。お前の安全策のおかげでもあるだろう？
@@ -30,11 +30,9 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 類: 少なくとも僕は、ふたり知っているしね
 寧々: ひとりはわかるかも。 類が尊敬してる演出家の人でしょ？
 類: フフ、正解
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 演出家: 『僕はできるだけ、形式に囚われないで、 常に新しいチャレンジをするようにしているけれど……』
 演出家: 『その中でもひとつ、必ず心がけていることがある』
 演出家: 『それは——垣根を超えるということだ』
@@ -43,11 +41,9 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 演出家: 『そうして見終わった瞬間には、 同じ感情でつながれる』
 演出家: 『そんなショーを作り続けていきたいと思っているんだ』
 演出家: 『すべての人がつながった先にはきっと——、 僕達のまだ見たことのない、素晴らしい世界が 広がっているだろうからね！』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 類: …………
 えむ: ねえねえ、類くん！ じゃあもうひとりってだあれ？
 類: ああ。そっちはフランスの小説家でね。 サイエンス・フィクション——SFの父と言われている人さ
@@ -68,7 +64,7 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 司: ……こいつは真剣な顔で何を言っているんだ？
 寧々: いつものことでしょ
 えむ: うんうんっ♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [類の部屋]
@@ -84,19 +80,15 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 類: 人間が必ず実現できる、か……
 類: （あの頃の僕にとっては、可能性を示唆する言葉であると同時に 孤独を知ることにもなった言葉だったな）
 類: （けれど——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 類: （今の僕なら——）
 類: ん？　これは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -107,7 +99,7 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 類: これは……光る、玉？ カイトさん達のショーの小道具かな？
 類: とりあえず、拾って届けて——
 類: ……っ！　これは！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -120,7 +112,7 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 ？？？: いーちっ、にーいっ！　いーちっ、にーいっ！
 類: ん……。人がいるのかな……
 類: え……。あれは……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -136,17 +128,17 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 ？？？ (寧々): そんなこと言われても……
 ？？？ (寧々): 人が乗れるサイズの大砲の弾とかあり得ない……。 こんなの３人で運べるわけないじゃん
 ？？？ (えむ): でもここまでだって来れたし、 あともうちょっとだよ♪
-(Black cut)
+(Black transition)
 類: どこからどう見ても 司くんにえむくんに寧々だけど……
 類: ……ずいぶん小さいな。 僕の手の平くらいの身長にまで縮んでいる？
 司？ (司): ん？　そこに誰かいるのか？ 暇なら、オレ達を手伝って……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000035/bg_s000035.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000035/bg_s000035.webp)
 司？ (司): って、ぎゃあああああっ！　きょ、巨人！？ まずいぞみんな、死んだふりだ！ 死んだふりしろ！
 えむ？ (えむ): わぁー！　あたし、巨人さん初めて見た！ こんにちはー！
 寧々？ (寧々): のんきに挨拶してる場合じゃないでしょ！ あと死んだふりしてる場合でもないから！ 逃げないと食べられちゃうから！
 類: フフ、大丈夫。食べたりしないよ。 それより、ちょっと話をさせてくれないかな？
-(Black cut)
+(Black transition)
 (Background change)
 類: ……つまり、君達は、 今運んでいた大砲の弾で、月に行きたいんだね？
 司？ (司): ああ、そうだ！　偉大なる挑戦だろう？
@@ -162,9 +154,9 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 寧々？ (寧々): 安全に……。 たしかに、それはすごく大事だよね……
 司？ (司): では決まりだな！ この４人で必ず成功させるぞ！
 えむ？・寧々？・類: 『おー！』
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
 類: ——じゃあみんな、用意はいいかい？
 司？ (司): ああ、バッチリだ！ お前のおかげで、いろいろ助かったぞ！
 類: ……君達が、すぐに僕を信じて、 指示どおりに準備をしてくれたからだよ
@@ -201,7 +193,7 @@ Gacha phrase: フフ、大丈夫。食べたりしないよ
 類: …………！
 類: ああ……。 ああ、そうとも！
 類: 僕達なら……、 たとえ月でも、ショーをしてみせるとも
-(White cut)
+(White transition)
 (Background change)
 類: ん……。ここは……
 KAITO: おかえり、類くん
@@ -217,18 +209,14 @@ KAITO: んー。僕はその欠片に触れていないからね……
 KAITO: そのセカイを形作っていた想いがわかれば、 持ち主もわかるかもしれないけど……
 類: なるほど……
 類: セカイを、形作っていた想い……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 司？の声 (司): お前が作ってくれたこの大砲は、どこまでもどこまでも 高く、遠くへ飛んでいく！
 司？の声 (司): オレ達に、できないことはないっ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 類: …………
 KAITO: ……ふふ。心当たりがある、という顔だね
 類: ああ
@@ -238,4 +226,4 @@ KAITO: そうか。よかった！
 類: （今なら……、司くんやえむくんや寧々となら、 あの言葉も信じられる）
 類: ああ……！ やりたい演出が次から次へとわいてくる！
 類: フフフっ！
-(White cut)
+(White transition)

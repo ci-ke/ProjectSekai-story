@@ -13,7 +13,7 @@ Rin: Where am I...?
 Rin: (It feels like I've always been here but I was asleep the entire time or something...)
 Rin: There's nothing here and it's so quiet...
 Rin: But it's a little brighter over there...
-(Black cut)
+(Black transition)
 Rin: Miku...?
 Miku (N25): Rin, you found me.
 Rin: Yes. It felt like someone was calling me here.
@@ -47,7 +47,7 @@ Rin: I think I know whose feelings it was that called me here. I know what I nee
 Miku (N25): Is that so...?
 Rin: Miku, take me to Kanade and the others. I have this feeling that's telling me that I must meet them.
 Miku (N25): Okay. Then let's go.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -61,19 +61,15 @@ Rin: I'm bored...
 Rin: How does Miku spend all her time here?
 Rin: *Sigh*...
 Rin: (Maybe Ena and the others will come here today...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Rin: Are you sure?
 Rin: You really can't draw unless someone appreciates your art?
 Ena: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Rin: (I wonder what kind of art Ena's been making after that.)
 Rin: Hm? Oh, it's...
 Ena: Hi, Rin...
@@ -127,4 +123,4 @@ Ena: So... Try not to disappear on me like a certain someone just did with her f
 Rin: Okay.
 Ena: Thank you.
 Rin: You're welcome.
-(Black cut)
+(Black transition)

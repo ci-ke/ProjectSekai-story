@@ -6,15 +6,11 @@
 
 杏: おじゃましまーす！ おじさーん、来たよ～！
 こはね: （……ここが、Crawl Greenなんだ。 COLより少し広いな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの伝説の始まりになった場所……。 あのステージで、あの３人が初めて歌ったんだ）
 冬弥: ……高校生の頃の謙さんが、 あそこに立って歌っていたんだな
@@ -24,21 +20,17 @@
 冬弥: ……彰人？
 彰人: ……昔来た時と全然変わんねえなって思ってな。 ま、内装なんかそう簡単に変わるもんでもねえか
 彰人: ……だが、変わってなくてよかった。 この場所じゃねえと、あの日の失敗を取り返せねえからな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の彰人 (彰人): （なんでオレはもっと、 あいつらみたいに歌えないんだ）
-(White cut)
+(White transition)
 中学生の彰人 (彰人): （憧れの場所に、泥なんか塗りたくなかったな……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ——同じ失敗はしねえ。 今度は全員わかせてやる
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -48,7 +40,7 @@ Crawl Greenオーナー: 新が来れなくなったとは聞いたが、 まさ
 Crawl Greenオーナー: ——懐かしい顔も、ちゃんと逃げずにいるようだな？
 Crawl Greenオーナー: お前がいるなら世間話とでもいきたいんだが……ま、時間もねえ。 ひとまず音響の話からしていこうか
 杏: うん！
-(Black cut)
+(Black transition)
 Crawl Greenオーナー: ……よし、これで問題ないな
 杏: 終わった～！ 細かいところまでありがとね、おじさん
 冬弥: それにしても、驚きました。 スタッフに任せずにオーナーさんご自身で ここまで機材の調整をされるというのも、珍しいですね
@@ -107,7 +99,7 @@ Crawl Greenオーナー: ……あの日のRADderを超えるってのは、 お
 Crawl Greenオーナー: そうか
 Crawl Greenオーナー: そこまでの覚悟があるなら、俺から言えるのはひとつだな。 俺に最高のイベントを見せてくれ
 こはね: ……はい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -129,18 +121,14 @@ Crawl Greenオーナー: そこまでの覚悟があるなら、俺から言え�
 こはね: （私が考えたこともないような、 すごく大切な思い出が、この街にはたくさんあって——）
 こはね: （……あのオーナーさんだけじゃない。 この街の人達はみんな、 いろんな気持ちで、この街の音楽に向き合ってきてるんだ）
 こはね: （それで、私もあの人達と——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レコード屋のお姉さん: 歌の練習で、写真を？ ……ああ、また大河さん直伝の変な練習か～
-(White cut)
+(White transition)
 クレープ屋のお姉さん: それから、こっちがいちごと生クリーム。 イベント頑張ってね、こはねちゃん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……今は、大河さんと杏ちゃんが、 この街の人達と、私をつないでくれてる）
 こはね: （——今は、私もこの街にいるんだ）
@@ -155,4 +143,4 @@ Crawl Greenオーナー: そこまでの覚悟があるなら、俺から言え�
 彰人: お前はクレープ食ったんじゃねえのかよ
 杏: うるっさいなー。 さっきの打ち合わせで頭使ったからいいの！
 こはね: ふふっ。でも、私も一息つきたいし、 よかったら、みんなであっちに行かない？
-(Black cut)
+(Black transition)

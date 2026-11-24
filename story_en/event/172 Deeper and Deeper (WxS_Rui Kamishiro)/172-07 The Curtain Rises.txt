@@ -24,11 +24,11 @@ Rui: Hehe. As the director, that makes me very happy to hear.
 Tsukasa: Your script and directing plan are both very you, but there are twists, as well.
 Tsukasa: We know you struggled quite a lot with this... But this is the answer you arrived upon.
 Rui: It is. I've put everything I can currently bring to bear into it.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000466/bg_s000466.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000466/bg_s000466.webp)
 Tsukasa: Alright. Let's go show them how our director, and Wonderlands×Showtime, break new ground.
 Tsukasa: We're going to make this the best show ever.
-(White cut)
+(White transition)
 (Background change)
 Emu, Rui & Nene: Yeah! Yes.
 (Background change)
@@ -38,7 +38,7 @@ Tom: <“Yes, I just gave him a small piece of advice. I believe that young man 
 Sakaki: “Oh? And that's not just lip service, is it?”
 Tom: <“Of course not. I think you'll understand soon enough.”>
 Sakaki: Alright, I guess it's okay for me to get my hopes up a little.
-(Black cut)
+(Black transition)
 Carriage Driver: “Eep...! H-Help me...!!”
 ??? (Tsukasa): “Hahaha! Crying for help already?”
 Monster (Tsukasa): “I know you can run faster than that. You do not want to bore me!”
@@ -47,7 +47,7 @@ Monster (Tsukasa): “Right down the embankment, huh? That means I win our game 
 Monster (Tsukasa): “*Sigh* How dull. Just when I thought you would help me pass the time...”
 Monster (Tsukasa): “I know! I could masquerade as a human in the city.”
 Monster (Tsukasa): “I may yet find something more interesting.”
-(Black cut)
+(Black transition)
 Tavernkeeper: “Alright, here's your ale. Haven't seen you around here before, son. Are you a traveler?”
 Young Traveler? (Tsukasa): “Yes, more or less!”
 Tavernkeeper: “Then, be careful. They say that there's a fearsome monster lurking in the woods nearby.”
@@ -76,13 +76,13 @@ Monster (Tsukasa): “Please, make me your apprentice!”
 Minstrel (Emu): “Hmm... I can't really turn you away after seeing that look on your face...”
 Minstrel (Emu): “It's settled, then. Starting today, you'll call me your master.”
 Monster (Tsukasa): “Yes, of course!”
-(Black cut)
+(Black transition)
 Monster (Tsukasa): “♪—————— ♪——————”
 Minstrel (Emu): “Hey, you're better than I was expecting.”
 Minstrel (Emu): “But don't you know any less bizarre verses? These sound like something right out of a drunkard's nightmare.”
 Monster (Tsukasa): “Then, what words should I sing instead?”
 Minstrel (Emu): “Well, something that resonates with everyone's hearts! For example...”
-(Black cut)
+(Black transition)
 Local Human A: “Young man, you're that minstrel's apprentice, yes? Can you sing a song for me?”
 Monster (Tsukasa): “I refuse. I'm not learning how to sing for the likes of you.”
 Minstrel (Emu): “Hey, how many times do I have to tell you not to talk to people like that?!”
@@ -92,7 +92,7 @@ Monster (Tsukasa): “♪———— ♪——————”
 Local Human A: “Oh, this is...”
 Local Human B: “Really good! I could listen to him sing all day.”
 Monster (Tsukasa): “Oh, I guess some humans do have good taste...”
-(Black cut)
+(Black transition)
 Local Human A: “Thank you, young man! I feel ready to do my best at work again tomorrow.”
 Monster (Tsukasa): “Sure! I might even be willing to sing for you again sometime.”
 Local Human A: “Really? Then, I think I'll bring my wife along next time.”
@@ -124,4 +124,4 @@ Local Humans: “That's terrifying...”
 Local Humans: “Yeah, and it's pretending to be human like us? How creepy.”
 Minstrel (Emu): “I don't like this mood in the square...”
 Monster (Tsukasa): “Me neither...”
-(Black cut)
+(Black transition)

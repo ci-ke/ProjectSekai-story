@@ -13,7 +13,7 @@
 奏: えっと、今日はどこへ行くんだっけ？
 咲希: 最近できたメイクアップルームです！
 咲希: 撮影の本番までに、メイクもいろいろ試してみたくて—— あ、ここですよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [メイクアップルーム]
@@ -27,7 +27,7 @@
 咲希: たしかに！ 店員さんに言えば触らせてくれたりしますけど、 あんまり長くは使えないですもんね
 奏: うん。 わたしが知らないだけで、もうあるのかもしれないけど……
 咲希: アタシも気になってきちゃいました！ あとで、一緒に調べてみましょう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [さらに数日後]
@@ -77,7 +77,7 @@
 (Background change)
 奏: 『掛け算？』
 こはね: 『はい。前に、バレンタインがテーマの フォトコンテストに参加したことがあるんですけど——』
-(Black cut)
+(Black transition)
 (Background change)
 咲希: 『——うん！ こはねちゃんのおかげで、撮影のコツがわかった気がする！』
 (Background change)
@@ -86,7 +86,7 @@
 (Background change)
 こはね: 『ふたりとも頑張ってください。 課題、応援してますね！』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -138,15 +138,11 @@
 咲希: いえ……！
 奏: （表現したいものはあるはずなのに、 表現しきれてない感覚、か……）
 奏: （……どうしてだろう？ わたしにも、少しわかる気がする）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あ……）
 奏: （そうだ、作曲してる時……。 わたしもそういう気持ちになることがある）
@@ -166,4 +162,4 @@
 咲希: かなでさん……ありがとうございます
 咲希: もう少しだけ、アタシに力を貸してください！
 奏: うん。 ……頑張ろう、天馬さん
-(Black cut)
+(Black transition)

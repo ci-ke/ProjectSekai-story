@@ -11,46 +11,38 @@
 遥: （……愛莉と話しあって、予算を上げる？ それとも——）
 遥: ……はぁ
 遥: （……どの選択が正しいのか、わからない。 ファンに喜んでもらうためには、一体……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: （——この企画書、良くできてる）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （ファンの子——斎藤さんが送ってくれた企画書、 本当によくできてたな）
 遥: （早川さんが見つけてくれた会場でやれば、 ファンのみんなも喜んでくれそう）
 遥: （だけど……あの人も、私達のイベントを 楽しみにしてくれているファンだから——）
 遥: ——もう一度。 視野を広くして、柔軟に考えていかなきゃ
 遥: フリーでやっていこうって言ってくれた時の 愛莉達みたいに、もっと柔らかく……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……そうだ。たしか愛莉はあの時、 リンに相談したって言ってたっけ
 遥: 私も、向こうでみんなに相談してみようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
 
 遥: あれ。ここ、ステージの舞台袖だ。 ミク達はどこに……
 遥: ——ライブの前奏？　それに照明も……
-(Black cut)
+(Black transition)
 ミク (MMJ): やっほー！　みんな、こんにちはーっ♪
 レン: 今日は僕達の合同ライブだよ。 みんなにとって最高の、忘れられないライブにするからね！
 MEIKO: それじゃあ、さっそく１曲目いくわよ～！ ミュージック、スタート！
-(Black cut)
+(Black transition)
 遥: これは……ミク達の合同ライブ？
 ルカ・リン: 『——♪　——♪』
 遥: （……すごいな。 ５人のフォーメーションと照明の演出がぴったり合ってる）
@@ -68,28 +60,24 @@ KAITO: うん、少しだけ手伝わせてもらってるよ。 今は演出を
 KAITO: ふふっ、半分正解かな！ 僕はアイドル兼マネージャー兼…… まあ、いろいろやってるんだ
 KAITO: ステージに立つのも、裏方として働くことも、 どっちも好きだから両方やろうって思ってね
 遥: なるほど……。 両立するのは、すごく大変そうだけど——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000028/bg_s000028.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000028/bg_s000028.webp)
 KAITO: あっ……！
 KAITO: 今のリンちゃんとレンくんのターン、決まったね！ うーん最高！
 KAITO: ターン練習、ふたりとも頑張ってたから。 こうして成功してるところを見ると、嬉しいなぁ……
 遥: ふふっ
-(White cut)
+(White transition)
 (Background change)
 遥: （カイトさん、ステージの上のみんなを 子供みたいにキラキラした目で見てる）
 遥: （きっと、本当に好きなんだろうな。 みんなが輝けるようにサポートをすることが）
 遥: （カイトさんみたいなスタッフが、 私達のイベントにもいてくれたら すごくありがたいけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: 『もちろんイベントに関して、特にお困りでないようであれば、 このメールは気にせずスルーしていただいて大丈夫です』
 愛莉: 『ただ、もしお困りのことがありましたら、 いつでも声をかけていただければと思います。 その際は、本当の本当に頑張らせていただきます！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……だけど……
 KAITO: ……遥ちゃん、もしかして何か悩んでる？
@@ -97,7 +85,7 @@ KAITO: ……遥ちゃん、もしかして何か悩んでる？
 KAITO: ふふ、僕はマネージャーでもあるからね。 アイドルの気持ちがわかっちゃうんだよ！ ……ほんのちょっとだけどね？
 遥: ……ふふっ。 さすがですね
 遥: ……実は今、イベントの方針のことで、 少し行き詰まってることがあるんです——
-(Black cut)
+(Black transition)
 KAITO: ファンにステージの裏側を見せてもいいのか……。 うーん、難しい問題だね
 KAITO: でも、僕も遥ちゃんが心配してる気持ち、 わかる気がするな
 遥: カイトさんも？
@@ -131,7 +119,7 @@ KAITO: 遥ちゃんが考えて出した答えなら、 きっとうまくいく
 ミク (MMJ): ♪————！
 遥: ……ふふっ
 遥: 本当に、素敵なステージだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -153,4 +141,4 @@ KAITO: 遥ちゃんが考えて出した答えなら、 きっとうまくいく
 みのり: あ、あの！ ええと……その……
 みのり: やっぱり——今度のイベントは、 ファンの人に手伝ってもらわない？
 遥: ……！
-(Black cut)
+(Black transition)

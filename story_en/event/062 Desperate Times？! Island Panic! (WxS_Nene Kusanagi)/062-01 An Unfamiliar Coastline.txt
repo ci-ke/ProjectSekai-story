@@ -10,12 +10,12 @@ Nene: (Ugh... My head hurts... Did I catch a cold or something?)
 Nene: (My body feels so heavy... No, hang on... It's my clothes... I feel like I got drenched in a rainstorm...)
 Nene: (And that sound... Am I hearing waves...?)
 Nene: (But why? Where am I right now...?)
-(Black cut)
+(Black transition)
 (Background change)
 Nene: Wh-What...?
 Nene: Wh-Where...?
 Nene: Where am I...?!
-(Black cut)
+(Black transition)
 Emu's Voice (Emu): Mhm... Sunny-sunny-fun-fun...
 Nene: Emu! Are you alright?!
 Emu: Oh, Nene, good morning. I'm hearing so many more birds than usual... Hm?
@@ -32,10 +32,8 @@ Rui: She took a good dunking in the ocean, so we should be careful not to ask to
 Tsukasa: But to think that we'd end up in a place like this. The cruiser seems to have run aground too...
 Nene: The cruiser...?
 Nene: Wait... That reminds me...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Keisuke: So, we have the details regarding your next ambassadorial performance.
 Emu: Woohoo! Where do we get to go next♪
@@ -79,9 +77,9 @@ Tsukasa: Fishing, huh? That does sound fun. We could even cook and eat them on t
 Tsukasa: Wait, no! We won't be on vacation! We're traveling south because we've been asked to put smiles on the locals' faces!
 Tsukasa: We're going to overwhelm them by putting on the best show imaginable and reaching new heights!
 Nene: (Reach new heights, huh...?)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Nene: (We were asked to do a performance because of how our show at the music hall went... But I have to think Tsukasa's the main reason.)
 Nene: (He usually plays boisterous characters with a bit of bravado to them, but playing a role that requires tact allowed him to grow some as an actor.)
@@ -95,10 +93,8 @@ Rui: Understood. So, what shall we do...?
 Emu: Let's start brainstorming right now! We're gonna be in Okinawa, so a show that involves lots and lots of fruits might be fun!
 Tsukasa: That alone won't make much sense to the audience... So, let's head backstage and start planning things in earnest!
 Emu: Yeah!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: Yeah, now I remember...
 Nene: We were all on the cruiser and it started raining and gusting really hard...
@@ -108,7 +104,7 @@ Tsukasa: That voice... Miku?
 Emu: Hey, look over there! The thing sticking out of the sand... Isn't that Tsukasa's phone?
 Tsukasa: What?! I thought I lost it...
 Rui: Miku's voice seems to be coming from there too. Let's head over to retrieve it.
-(Black cut)
+(Black transition)
 Miku (WxS): <Oh, you're together! Thank goodness!>
 KAITO: <Miku was very worried since we couldn't reach most of your phones, and because we couldn't see you even though we managed to reach yours, Tsukasa.>
 KAITO: <We came to take a look after we started fearing that something terrible had happened.>
@@ -131,7 +127,7 @@ Nene: What if...?
 Emu: Sho...
 Emu: Shosukeee!!
 Nene: Emu!
-(Black cut)
+(Black transition)
 Emu: *Sob* What do we do...? What if we can't find him...?
 Tsukasa: But I don't see him anywhere around here...
 Rui: We may want to go back to where the cruiser ran aground since I'm fairly certain he was still at the helm when it happened.
@@ -150,7 +146,7 @@ Tsukasa: What?!
 Shosuke's Voice: A-All of you... Hurry up and get this seaweed off... My mouth tastes so salty...
 Nene: O-Oh no... We need to help him fast!
 Tsukasa: Right! Everyone, let's get this seaweed off him!! 
-(Black cut)
+(Black transition)
 Shosuke: I thought I was a goner...
 Robo-Nene: Pulse and pupils normal. No fractures or cavities. You have very healthy teeth. I see that you brush them with care each day.
 Emu: Thank goodness!
@@ -166,4 +162,4 @@ Emu: Yeah...!
 Emu: Our fun and exciting desert island survival adventure's about to start!
 Tsukasa: This...
 Tsukasa's Voice (Tsukasa): This can't be happening!!
-(Black cut)
+(Black transition)

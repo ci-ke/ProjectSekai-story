@@ -36,7 +36,7 @@
 杏: ————私と戦って
 杏: 今、ここで
 こはね: …………え？
-(White cut)
+(White transition)
 (Background change)
 
 [数カ月前]
@@ -79,19 +79,15 @@
 杏: ……本気で……
 彰人: …………。 たしかに、謙さんの言ってることはわかるが……
 こはね: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ……どうして！？　どうしてっ！！？
 杏: どうしてそんなに大事なこと、私だけ知らされてないの！？
 杏: おかしいでしょそんなの！ みんな仲間だと思ってた、家族だと思ってた！！
 杏: なのに、なんで！？　なんで、私だけ……っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………
 こはね: 杏ちゃんじゃなきゃダメ……なんですよね……
@@ -109,10 +105,8 @@
 杏: ……それにね、 この前少し、みんなと話をしたんだ。 Crawl Greenのオーナーさんとか、来てくれてさ
 彰人: そうだったのか？
 杏: うん。それでね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Crawl Greenのオーナー: …………黙っていて、本当にすまなかった
 杏: …………
@@ -125,10 +119,8 @@ Crawl Greenのオーナー: ただ…………本当にすまない
 Crawl Greenのオーナー: ……そうだな。急に押しかけてすまなかった
 Crawl Greenのオーナー: ……会ってくれてありがとう。杏
 杏: …………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: あの時、私は みんなにちゃんと返事できなかったけど……
 杏: 今はもう、大丈夫
@@ -137,4 +129,4 @@ Crawl Greenのオーナー: ……会ってくれてありがとう。杏
 謙: ——頼んだぞ
 謙: お前達の想いは、オレ達にも負けねえくらい熱い。 それをあいつらにも、見せてやってくれ
 杏: ……うん！　任せて！
-(Black cut)
+(Black transition)

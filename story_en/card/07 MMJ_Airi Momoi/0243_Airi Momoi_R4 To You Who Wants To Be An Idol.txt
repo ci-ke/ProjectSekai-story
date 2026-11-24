@@ -17,7 +17,7 @@ Airi: (I guess that goes under work in progress...)
 Airi: (By themselves, Shizuku and Minori do great during segments, and our viewers seem to really like that.)
 Airi: (They even throw in their own quips and comebacks from time to time while they're talking.)
 Airi: (But that's something we have to take advantage of since livestreaming is what we've decided to do!)
-(Black cut)
+(Black transition)
 Airi: And...! There! That's every stream from this past week!
 Airi: All that's left is to fix whatever's still a work in progress...
 Airi: Hehe. The notebook of talking points that I made while I was still in QT helps so much for this.
@@ -30,11 +30,9 @@ Airi: Huh? Is this...?!
 Airi: Whoa! They're all pictures of idols and costumes that I drew when I was little!
 Airi: I knew I still had them somewhere, but I guess you ended up being stuck between these notebooks.
 Airi: Hehe. Talk about a blast from the past.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Little Airi (Airi): Idols sure are amazing... Singing, dancing, making all those people smile...
 Little Airi (Airi): They even do all those talk shows! I bet it's a lot of fun!
 Airi's Sister: You've been watching this girl a lot lately. Do you really like her that much?
@@ -46,11 +44,9 @@ Little Airi (Airi): Really...?
 Little Airi (Airi): Maybe I really can be an idol!
 Little Airi (Airi): I bet I could get up on a big stage like her and sing and dance and make everyone smile!
 Little Airi (Airi): Alright then...! I'm going to become an idol!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: ...
 Airi: A lot's happened since then, but here I am. Airi the idol.
 Airi: Hehe. I would love to see the look on little me's face when she saw that I'm an idol...
@@ -60,7 +56,7 @@ Airi: I'd better quit while I'm ahead. Staying up any later is gonna affect the 
 Airi: Huh?
 Airi: Did my phone flash just now...? Hm? It doesn't look like anyone sent me anything...
 Airi: Anyway, where's my alarm...? Good, it's all set. Now then, good night...
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 
@@ -73,7 +69,7 @@ Airi: (But it's so quiet... I don't see Miku or the others anywhere...)
 Airi: Oh, I see a light over there.
 Airi: What is this thing? It's too small for a stage light and it's perfectly round...
 Airi: Whoa! Now what...?!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -97,7 +93,7 @@ Airi: Wh-What a coincidence...?! My name's Airi too.
 Little Airi (Airi): Really?! That's so cool!
 Airi: Yeah, I guess it is... Haha...
 Airi: (S-Seriously, what in the world is going on here?!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -132,7 +128,7 @@ Airi: (I still have no idea where I am or what this place is...)
 Airi: (But I'm certain that this little girl is me.)
 Airi: I'm sorry for calling you a little tomboy. Please, tell me more about why you want to become an idol.
 Little Airi (Airi): *Gasp*...! Okay!
-(Black cut)
+(Black transition)
 Little Airi (Airi): But there are all these mean boys that keep teasing my little sister. I get mad and keep telling them to stop too...
 Little Airi (Airi): Then they said that a brat like me could never become an idol.
 Airi: I see...
@@ -143,22 +139,22 @@ Airi: Even though you're a girl in every sense of the word...
 Airi: Hm? Is someone there...?
 Little Airi (Airi): Oh! There's a TV over there too!
 Airi: Yes, I can see that. Wanna take a look?
-(Black cut)
+(Black transition)
 (Background change)
 Manager: <Airi, you received another request for a variety show appearance. The filming is next Saturday.>
 Airi: <What? Isn't that the day of the mini-concert?>
 Manager: <Yes, but the other members should be fine without you. We'll announce the change on our website.>
 Airi: <B-But...>
-(Black cut)
+(Black transition)
 (Background change)
 Airi: (Is this...?)
-(Black cut)
+(Black transition)
 (Background change)
 Manager: <Yes, that's right. I'd like Airi to start focusing on becoming more of a variety show personality...>
 Manager: <Honestly, as an idol, she's pretty run of the mill, so I'd like to shift her work away from that...>
 Airi: <Huh?>
 Airi: <Wait just a minute! What's that supposed to mean?!>
-(Black cut)
+(Black transition)
 (Background change)
 Airi: (Yeah, it's from back then...)
 Little Airi (Airi): You seem so angry...
@@ -196,8 +192,8 @@ Airi: Yes. As long as you don't give up, your dream will come true. I guarantee 
 Little Airi (Airi): ...!
 Airi: I mean, it's your dream! Don't ever let go of it...!
 Little Airi (Airi): I won't!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000091/bg_a000091.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000091/bg_a000091.webp)
 Little Airi (Airi): I promise that I'll become an idol! I'm gonna become an idol, make lots and lots of people really happy!
 Airi: Good, that's the spirit! And I promise to become the best idol that I can be!
 Little Airi (Airi): Hehe! Pinky promise!
@@ -205,29 +201,21 @@ Airi: Sure.
 Airi & Little Airi: I promise to become an idol! I promise to be the best idol that I can be.
 Airi & Little Airi: Haha!
 Airi: (I promise to never let go too.)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: (I'm so glad that I met Minori that day.)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: (I'm so glad that I got to form MORE MORE JUMP! with her, Shizuku and Haruka too.)
-(Black cut)
+(Black transition)
 (Background change)
 Airi: ...
 Airi: (I've had my lows. Sometimes it was really low, but I've had just as many highs.)
@@ -235,13 +223,13 @@ Airi: (Hehe. I'm so glad that I became an idol!)
 Airi: Huh? Was that...?
 Little Airi (Airi): It's time to say goodbye...
 Airi: Huh? Wait...!
-(White cut)
+(White transition)
 (Background change)
 Little Airi's Voice (Airi): I'm gonna try my best, Airi!
 Little Airi's Voice (Airi): So promise to do your best too!
 Airi: I will.
 Airi: I will! I promise!
-(White cut)
+(White transition)
 (Background change)
 Rin: Welcome back, Airi!
 Airi: R-Rin?!
@@ -256,34 +244,26 @@ Rin: In SEKAI, fragments of feelings that are yet to manifest as a SEKAI of thei
 Airi: Really...
 Rin: Did something happen when you touched that fragment, Airi?
 Airi: Me? Yes...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: I met someone I didn't expect to meet and made some wonderful discoveries!
-(White cut)
+(White transition)
 (Background change)
 
 [Airi's Room]
 
 Airi: Mhm... *Yawn*... Huh? I'm back in my room?
 Airi: Wow, I just had the strangest dream...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: ...
 Airi: No, that definitely wasn't a dream.
 Airi: I clearly remember making a promise with that little girl.
@@ -293,4 +273,4 @@ Airi: More and more energy!
 Airi: More and more hope!
 Airi: And we're gonna do everything we can to spread those to more and more people...!
 Airi: Starting by doing my best today!
-(White cut)
+(White transition)

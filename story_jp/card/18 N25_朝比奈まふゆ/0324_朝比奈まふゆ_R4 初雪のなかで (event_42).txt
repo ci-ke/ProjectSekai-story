@@ -16,7 +16,7 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 一歌: はい。それで、先輩の姿が見えたのでその……
 まふゆ: ふふ。追いかけて来てくれたんだね。 それじゃあ、途中まで一緒に帰る？
 一歌: ……！　はい！
-(Black cut)
+(Black transition)
 一歌: あ、そうだ。 さっきまでやってた委員会のことなんですけど……
 一歌: すみません。１年生の作業が遅かったせいで、 先輩にも手伝ってもらっちゃって。 そのせいで、弓道部に行く時間も……
 まふゆ: 気にしないで。私も学級委員のひとりとして、 任された仕事は最後までやりきりたかったから
@@ -57,18 +57,14 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 一歌: 本当に、ここまでこれたのもミク達のおかげなんです
 まふゆ: …………
 一歌: ミク達がいなかったら、バンドもやってなかったし、 今の自分もいなかっただろうな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ミク……
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -90,7 +86,7 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 まふゆ: …………
 まふゆ: バンドの先輩で、恩人か……
 まふゆ: ……私にとっては、なんなんだろう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -107,16 +103,12 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 ミク (N25): ……どうか、したの？　また苦しい？
 まふゆ: ううん、そうじゃない
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 私達バンドの先輩で、恩人です！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （私にとっての、ミク……）
 ミク (N25): …………？
@@ -130,16 +122,12 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 まふゆ: （まるで掴めない糸を、たぐり寄せているみたい……）
 まふゆ: （どうしたら……、わかるんだろう）
 まふゆ: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: あの時のわたし達みたいに、 まふゆにも笑ってほしいって思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （奏が思いださせてくれた時のように、 言葉にできたら……）
 まふゆ: ……ミク
@@ -153,7 +141,7 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 ミク (N25): ♪——　♪————
 ミク (N25): ♪————　♪——～～～～
 まふゆ: …………
-(Black cut)
+(Black transition)
 まふゆ: ……ありがとう、ミク
 ミク (N25): うん……
 ミク (N25): ……考えたいこと、考えられた？
@@ -172,4 +160,4 @@ Gacha phrase: 奏が、嬉しいのなら——よかった
 ミク (N25): ♪————　♪——～～～～
 まふゆ: （私のため……）
 まふゆ: ……ありがとう、ミク
-(Black cut)
+(Black transition)

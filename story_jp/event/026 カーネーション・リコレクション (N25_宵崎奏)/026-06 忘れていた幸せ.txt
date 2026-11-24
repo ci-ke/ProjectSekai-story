@@ -5,11 +5,9 @@
 [乃々木公園]
 
 奏: ここは——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い奏 (奏): ごちそうさまでしたー！
 奏の父: ん？　奏、ほっぺたにご飯つぶがついているよ？
 幼い奏 (奏): えっ？　どこどこ～？
@@ -32,7 +30,7 @@
 奏の母: そうね。お花の蜜がちょうちょのご飯だから、 ちょうちょもここでお弁当を食べてるのかしら
 幼い奏 (奏): お花がお弁当なの？ おいしいのかな～？
 奏の父: ……あ、そうだ
-(Black cut)
+(Black transition)
 幼い奏 (奏): これは、なんていうお花？
 奏の母: カーネーションっていうお花。 お母さん、この花が大好きなの
 幼い奏 (奏): かーねーちょん？
@@ -40,7 +38,7 @@
 幼い奏 (奏): おとうさん、ギターひいてる～！
 奏の母: あ、奏！　急に走ったらだめよ！
 奏の母: …………ふふっ
-(Black cut)
+(Black transition)
 幼い奏 (奏): おとうさん、じょうず！ パチパチパチー！
 幼い奏 (奏): 今のはなんていうおうたなの？
 奏の父: え？　うーん、今ぱっと思い浮かんで弾いただけだから、 曲名はないんだけど……
@@ -62,21 +60,19 @@
 奏の母: ……でも、そうね。 思わず笑顔になっちゃったわ
 奏の母: お父さんの曲を聴くと——いつも幸せな気分になれるから
 幼い奏 (奏): ……うん！　わたしも！ おとうさんの曲、だーいすき！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: ……ここだ
 瑞希: え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000082/bg_a000082.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000082/bg_a000082.webp)
 奏: ここが、お母さん達と一緒に来た花畑だ
 瑞希: え！？ でも、花畑っていうか、ちょっと大きめの 花壇ってくらいだけど……
 瑞希: あ、そっか！ 奏もすごく小さかったから、花畑だと思っちゃってたのか！
 奏: 多分、そうだと思う。 ……勘違いしててごめん
 瑞希: ううん！　それより見つかってよかったよ！ たしかにこの花壇、カーネーションがいっぱい咲いてるもんね
-(White cut)
+(White transition)
 (Background change)
 奏: うん……懐かしいな……
 奏: （あ……）
@@ -123,4 +119,4 @@
 瑞希: そんな、ボクは何も——
 瑞希: ——そっか
 瑞希: どういたしまして、奏
-(Black cut)
+(Black transition)

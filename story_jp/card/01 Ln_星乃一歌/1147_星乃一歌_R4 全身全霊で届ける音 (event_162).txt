@@ -33,16 +33,12 @@ Gacha phrase: もっと歌える！もっと鳴らせる！
 一歌: （みんなの言う通り、やることはたくさんあるけど……）
 一歌: （私達は前座として、Free Clusterのライブを見に来た お客さんを盛り上げないといけない）
 一歌: （そのためには——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 成瀬の声: 『♪————！！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （私も、あんな風に力強い演奏をして、 心に訴えかけるみたいな歌を、歌わないと）
 一歌: （お客さんの心に響かせて、会場を音楽でひとつにする。 そんなライブを、私も——）
@@ -66,7 +62,7 @@ Gacha phrase: もっと歌える！もっと鳴らせる！
 志歩: 私は……プリンにしようかな
 一歌: え、待って、そんなにのせたら落ちる……！
 咲希: ほらほら、早く食べて～！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -99,16 +95,12 @@ Gacha phrase: もっと歌える！もっと鳴らせる！
 一歌: うん！
 一歌: …………
 一歌: （ひとつになれた気がした、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ♪————～～～！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （私もあの時、会場にいるみんなと繋がれた気がしてたけど……）
 一歌: （お客さんにも、そんな風に思ってもらえてたなら——）
@@ -130,4 +122,4 @@ Gacha phrase: もっと歌える！もっと鳴らせる！
 穂波: そうだね。ライブは終わったばっかりだけど…… また早く、お客さんの前で演奏したくなっちゃうな
 穂波: 今日からまた頑張ろうね、一歌ちゃん
 一歌: うん！
-(Black cut)
+(Black transition)

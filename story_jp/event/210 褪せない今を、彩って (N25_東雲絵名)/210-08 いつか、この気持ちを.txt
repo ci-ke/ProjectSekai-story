@@ -5,8 +5,8 @@
 絵名: ——花火、全員持った？
 瑞希: バッチリ！ じゃあ絵名、お願いしまーす
 絵名: わかった。順番に火つけるから ちゃんと持っててよね——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000615/bg_s000615.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000615/bg_s000615.webp)
 瑞希: いえーい♪ 見て見て、二刀流で輝きも２倍！
 まふゆ: ……動きまわると、海に落ちるよ
 奏: 瑞希の持ってるやつ、眩しいな
@@ -15,7 +15,7 @@
 絵名: こういうのも、たまにはいいよね
 絵名: （水面に光が反射して——）
 絵名: ……綺麗だな
-(White cut)
+(White transition)
 (Background change)
 ルカ (N25): 『あら、もう始まっていたのね』
 絵名: あ、ルカ。 ちょうど声かけようと思ってたんだ
@@ -37,21 +37,17 @@ MEIKO (N25): 『回転しながら、ねずみのように走り回る花火み�
 絵名: あ……
 絵名: ……これで、最後のページだ
 絵名: （まさか、１冊全部使うなんて思わなかったな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （思ってたより、ずっと……）
 絵名: （描いて、残しておきたいことが たくさんあったもんね）
@@ -65,4 +61,4 @@ MEIKO (N25): 『回転しながら、ねずみのように走り回る花火み�
 絵名: うん、わかった
 絵名: （いつか、スケッチブックを見返した時……）
 絵名: （今のこの気持ちを、思い出せるように）
-(White cut)
+(White transition)

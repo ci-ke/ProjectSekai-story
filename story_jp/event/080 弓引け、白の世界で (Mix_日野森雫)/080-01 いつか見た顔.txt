@@ -30,7 +30,7 @@
 まふゆ: あ、呼ばれてるよ
 雫: ええ、それじゃあ行ってくるわね。 朝比奈さんも、個人戦の練習頑張ってね！
 まふゆ: うん。ありがとう
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -42,21 +42,17 @@
 雫: じゃあ、鍵は私が職員室に持っていくわ。 今日は私が当番だから
 まふゆ: ありがとう。あ……でも私も一緒に行くよ。 教室のほうに少し用事があるから
 雫: 本当？ ふふ、それじゃあ一緒に行きましょうか
-(Black cut)
+(Black transition)
 (Background change)
 雫: 少し見ないうちに、 １年生のみんなも堂々と引けるようになったわね
 まふゆ: うん。やっぱりこの前の新人大会が大きかったのかな
 まふゆ: 公式戦に出ると、やっぱり意識がずいぶん変わるみたい
 雫: そうね……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……私も１年生の頃は、新人大会のあたりで いろいろなアドバイスをもらったから、 自信をつけていくことができたものね）
 雫: （あの頃は、本当にいろんなことがあって——）
@@ -77,16 +73,12 @@
 雫: そんなことないわ。 お医者さんなんて、優しい朝比奈さんにぴったりよ
 雫: 頑張ってね、朝比奈さん
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: じゃあ——頑張ってね、まふゆ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………うん、そうだね
 まふゆ: ——頑張らないとね
@@ -98,15 +90,11 @@
 雫: （……でもさっきの朝比奈さんは、 いつもと少し雰囲気が違ったような……）
 雫: （それに、あの表情……）
 雫: （前にもどこかで見たことが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （あ……あの時の……）
 まふゆ: ——そういえば、日野森さんは１年生の頃、 姿勢をよくするために弓道を始めたって言ってたよね
@@ -119,7 +107,7 @@
 教師: ああ、それならちょうど戻るところだから、 代わりに返しておきましょうか
 まふゆ: 本当ですか？ ありがとうございます
 雫: あ…………
-(Black cut)
+(Black transition)
 (Background change)
 
 [雫の部屋]
@@ -141,17 +129,13 @@
 志歩: そういうことなら、母さんに お風呂は先に入っといてって言っておくよ
 志歩: ——頑張ってね、お姉ちゃん
 雫: ……ええ！ ありがとう、しぃちゃん
-(Black cut)
+(Black transition)
 雫: （…………今日のあの、朝比奈さんの顔）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （やっぱり……あの時に似ていたわ）
 雫: （あの時も朝比奈さんは、  何か悩んでいるように見えたのよね）
@@ -168,13 +152,13 @@ KAITO: 『実は、少し雫ちゃんにアドバイスをもらいたいこと�
 ミク (MMJ): 『うん！　実は次やるライブの衣装を ちょっとアレンジしようと思ってるの』
 ミク (MMJ): 『いつも衣装室にある衣装でやってるんだけど、 今回はちょっとだけ違う感じにしたいんだ』
 ミク (MMJ): 『それで、前に雫ちゃん達がやってたみたいに、 それぞれアレンジの方法を考えて、 持ち寄ることにしたんだけど……』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000145/bg_s000145.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000145/bg_s000145.webp)
 KAITO: 『僕、こういうアレンジをどうするかって 考えるのは得意じゃなくて』
 ミク (MMJ): 『そうなんだよね。 実はわたしも悩んじゃって』
 ミク (MMJ): 『だからふたりで、デザインの得意な雫ちゃんに 話を聞こうって思ったの』
 雫: そうだったのね。 得意っていうわけじゃないけれど…… そういうことなら、協力させてもらうわ
-(White cut)
+(White transition)
 (Background change)
 KAITO: 『ありがとう雫ちゃん！』
 KAITO: 『できればこの季節に合うような、 あたたかみのある感じにしたいんだけど……』
@@ -182,15 +166,11 @@ KAITO: 『できればこの季節に合うような、 あたたかみのある
 雫: それで、雪の結晶のモチーフを入れてみるの。 そうしたら冬らしくて綺麗な印象になりそうだわ
 KAITO: 『なるほど……！ たしかに合いそうだね！』
 雫: ライブの演出も衣装にあわせて、 雪かごを使って雪を降らせたりしたら——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （あ……。雪……）
 ミク (MMJ): 『雫ちゃん……？』
@@ -202,4 +182,4 @@ KAITO: 『別のこと？ もしかして……何か悩みごとでもあるの
 KAITO: 『もし、誰かに話したほうがスッキリするなら、 僕はいつでも聞くよ』
 雫: カイトさん……。ふふ、ありがとうございます
 雫: それじゃあ少し——聞いてもらおうかしら
-(Black cut)
+(Black transition)

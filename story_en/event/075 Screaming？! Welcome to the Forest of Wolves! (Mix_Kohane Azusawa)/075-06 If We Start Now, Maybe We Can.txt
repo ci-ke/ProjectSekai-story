@@ -10,7 +10,7 @@ An: Huff... Huff... Huff...
 Minori: Wait, was that An?!
 Minori: (It looked like Kohane was looking for An... So, if I chase after her, I might be able to find Kohane at the same time!)
 Minori: An! Wait!
-(Black cut)
+(Black transition)
 Minori: N-No...! She's too fast...!
 Minori: Hang on! I think Shiho went that way just now...!
 Minori: Hello? Shiho?!
@@ -21,7 +21,7 @@ Minori: Yeah, her! She has really long hair with lots of stars in it! Also, um..
 Minori: I'm pretty sure Kohane's been looking for An. So, if we somehow manage to catch her, Kohane should follow soon after!
 Minori: So if you see An, could you call out to her?
 Shiho: <Okay... Then, I'll try looking for her.>
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: Let's see... Someone with really long hair and lots of stars in it... And a spirited personality...
 Shiho: Wait, what did she mean by “spirited”...?
@@ -32,22 +32,18 @@ Shiho: Excuse me. You're An Shiraishi, right...?
 An: Wah?! Y-You scared me... Yes, I am... Wait, you're...
 Shiho: My name is Shiho Hinomori. I'm Kohane Azusawa's classmate.
 Shiho: Would you mind if we talked for a bit?
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: Hmm... I still can't find An...
 Rin: <Sorry, Kohane... I really wish I could help you more...>
 Kohane: No, Rin, don't blame yourself. I mean, it's a big festival with lots of people.
 (Background change)
 Kohane: Still... What am I supposed to do? I can't call An or anything since I'm the one with her phone...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (She looked terrified...)
 (Background change)
@@ -65,20 +61,16 @@ Kohane: Also, I'm sorry for interfering with your activity! Is this where your c
 Mafuyu: No, that's okay. Our last participants seemed a bit surprised, but they also seemed to enjoy themselves.
 Mafuyu: More importantly, your friends must be worried, so please feel free to go.
 Kohane: Okay, I'll be going now. Thank you again, Asahina...!
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: If Shiho's out looking for me, then I should probably head back to class for now.
 Kohane: Wait, now that I think about it... An might stop by my class again if she still hasn't realized that I'm the one dressed up as the wolf...
 Kohane: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: ...
 (Background change)
@@ -90,7 +82,7 @@ Kohane: I see... I'm sorry for causing you so much trouble, Minori.
 Minori: That's totally okay! More importantly! Here's that tool I borrowed from the teachers!
 Minori: This should let me get that zipper unstuck, so let's find an empty classroom where we can get this mask off!
 Kohane: Okay, thanks...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty Classroom]
@@ -101,15 +93,11 @@ Minori: Is something wrong, Kohane...?
 Minori: You don't have to worry about An now since you don't look like a wolf anymore! So, you should go see her...
 Kohane: No, it's not that...
 Kohane: I wanted her to enjoy the School Festival, but ended up really scaring her...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: I just wanted everyone to enjoy our haunted house...
 Minori: Kohane...
@@ -124,4 +112,4 @@ Shiho: A lot did happen and things probably didn't go exactly as planned.
 Shiho: But there's still plenty of time to enjoy the School Festival, so you guys should have as much fun as you can.
 Kohane: Thanks, Shiho...
 Kohane: Actually, I'm wondering if you could do a little favor for me. Would that be okay...?
-(Black cut)
+(Black transition)

@@ -9,7 +9,7 @@ Mother: Welcome home, Ena. How was art class? I know it's been a while.
 Ena: Same old, same old. I'll be in my room until dinner...
 Mother: E-Ena, wait!
 Father: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -26,19 +26,15 @@ Kanade's Message: <Please rest when you feel better. You don't have to worry abo
 Ena: ...
 Ena: I still have that rough draft to finish. I haven't even touched it for a few days now...
 Ena: But... What am I supposed to draw...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: It's happening again...
 Ena: But there's no point in worrying. I have to just keep drawing...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -50,7 +46,7 @@ Ena: (Day two is oil painting... I used to get praised for the way I chose color
 Futaba: Good morning, Ena. You're here early.
 Ena: Oh, um... Morning.
 Futaba: It looks like we're doing landscapes. Let's do our best today.
-(Black cut)
+(Black transition)
 Yukihira: Your underpainting needs more work. It looks very uneven right now.
 Student A: Okay, thank you.
 Ena: ...
@@ -60,7 +56,7 @@ Ena: (I sort of want to scrap it and start all over now...)
 Ena: (I wonder how Futaba's doing...)
 Ena: (Oh, she's already doing touch-ups... Her painting has so much presence to it...)
 Ena: (While mine...)
-(Black cut)
+(Black transition)
 Yukihira: That will be all for today. Good work, everyone.
 Students: Thank you very much.
 Ena: (Day two and still no results. Mr. Yukihira gave me his usual criticism too.)
@@ -70,7 +66,7 @@ Ena: Sorry, I'm pretty exhausted... I'm gonna head home. Bye bye.
 Futaba: Wait...!
 Futaba: Ena...
 Yukihira: ...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Shinonome Household - Living Room)
 Ena: I'm home... Oh, right. Mom's out today.
@@ -91,7 +87,7 @@ Ena: I don't have a choice, do I...? Also, there's only one day left so...
 Father: I'm not talking about the spring workshop. I'm saying that you'll keep feeling this pain if you choose to continue drawing...
 Father: You won't always be able to produce works that satisfy you. Can you deal with that pain moving forward?
 Ena: Well...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Ena's Room)
 Ena: (Can I deal with that pain...? How am I supposed to know...?)
@@ -100,7 +96,7 @@ Ena: (I've only gone two days... And I already feel like puking...)
 Ena: But...
 Ena: I don't want to run away anymore...
 Ena: Which means... I have to keep drawing...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -129,4 +125,4 @@ Kanade: ...
 Kanade: Mind telling us more about what you two talked about, Mizuki?
 Rin: I want to hear too...!
 Mizuki: O-Okay, sure. So...
-(Black cut)
+(Black transition)

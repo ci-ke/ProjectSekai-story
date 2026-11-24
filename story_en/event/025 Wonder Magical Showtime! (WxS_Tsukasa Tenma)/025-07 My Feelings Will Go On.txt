@@ -15,7 +15,7 @@ Shosuke: How have you not gained access to the control room yet?!
 Staff: I'm sorry! I've been entering in the correct password, but I think someone's changed it...!
 Shosuke: What?! Have we been hacked...?!
 Shosuke: Emu... I hope you know what's coming...
-(Black cut)
+(Black transition)
 Young Lady: “Excuse me! I received word that some kind of sorcerer has taken up residence here! Is that actually true?!”
 Girl (Nene): “Uh oh, it's the Ms. Windbag...”
 Shao (Emu): “Ms. Windbag?”
@@ -31,9 +31,9 @@ Keisuke: The Neo Phoenix Castle's all lit up...!
 Riley: Oh, this is just magnificent!
 Girl: Whoa! Hey, look! It's sparkling!
 Miles (Tsukasa): “And let's try this too...!”
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Keisuke: Fireworks... How are they able to launch so many at once...?
 Shosuke: Wait... They're drones! Countless drones are flying around the castle and launching fireworks at the same time!
@@ -50,7 +50,7 @@ Shao (Emu): “A long time had then passed since master and I first came to this
 Shao (Emu): “People from all over began gathering here as he made more and more stuff.”
 Shao (Emu): “And as the years went by, I grew up to become an adult while master became a little old grandpa.”
 Emu's Father: ...
-(Black cut)
+(Black transition)
 (Background change)
 Shao (Emu): “Master, do you need more water?”
 Miles (Tsukasa): “No, that's alright... I have plenty already.”
@@ -87,7 +87,7 @@ Shao (Emu): “This was the last thing master told me! Everybody here can use ma
 Shao (Emu): “I can't do this alone! I'm not as good at using magic like master was, so please, lend me your energy...!!”
 Shao (Emu): “Lend me your smiles, your joy, your magic...!!”
 Visitors: Lend you our energy...? L-Like this...? Whoa!
-(White cut)
+(White transition)
 Visitors: These bracelets light up when you raise your hands...?
 Keisuke: These bracelets...
 Keisuke: They have sensors built into them so that they glow when everyone raises their hands during the finale...
@@ -122,4 +122,4 @@ Luka: <We're about to make everything happier and more fun than before♪>
 Rin: <So let's smile, laugh and have a really good time☆ Starting... Now!>
 Riley: Incredible...!
 Keisuke: The lighting schemes for all the rides and attractions just changed completely...
-(Black cut)
+(Black transition)

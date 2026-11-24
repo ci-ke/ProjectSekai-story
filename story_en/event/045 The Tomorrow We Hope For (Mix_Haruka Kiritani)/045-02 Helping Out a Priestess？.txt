@@ -52,15 +52,15 @@ Shizuku: Have fun, everyone.
 Miku (MMJ): The cards are all set, Airi!
 Airi: Thanks! Then, let's get started!!
 Airi: “The autumn rice paddies...”
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000036/bg_s000036.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000036/bg_s000036.webp)
 Miku (MMJ): Got it!!
 Minori: A-Already?! How?!
 Len: That was so fast...! I couldn't even see what you just did, Miku.
 Miku (MMJ): Hehe. I just happened to remember that one, but I'm gonna get the next one too♪
 Haruka: Is that so...? I'll just have to put my serious face on then.
 Rin: Th-There's no way I'm gonna get any now...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [New Year's Eve]
@@ -76,7 +76,7 @@ Enomoto: *Sob*...
 Haruka: Ms. Enomoto?!
 Haruka: Are you okay? Y-You look pale...!
 Haruka: Please wait here! I'll head over to the shrine and find someone who can help!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shrine Hall]
@@ -94,21 +94,17 @@ Head Priest: Yes, we're always looking for help each year, but we're in some tro
 Head Priest: There's no way we'll be able to find anyone who can fill her shoes, so we have no choice but to try and persevere somehow...
 Haruka: Oh...
 Haruka: (Ms. Enomoto was looking forward to welcoming in the new year so much...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Enomoto: As busy as it gets, I actually have a lot of fun seeing all these people stop by to pray and make their wishes.
 Enomoto: They're all trying to make their futures as bright and prosperous as possible, so I'd like to help them achieve their goals in whatever way I can.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: Um...
 Haruka: Is it possible for me to help out somehow...?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Stage SEKAI)
 Minori: What?! You can't make our shrine visit...?!
@@ -136,4 +132,4 @@ Airi: I'm with them. If it means helping out your shrine maiden friend and her s
 Airi: We'd even be able to go through with our visit like we planned once our shift's over. Think of it as two birds with one stone!
 Haruka: You guys...
 Haruka: Thank you so much...
-(Black cut)
+(Black transition)

@@ -48,30 +48,22 @@ Luka (N25): Snacks that taste like New Year's brunch also seem like something yo
 Mizuki: They've got this strange but addictive taste to them! I can't stop eating them for some reason♪
 Kanade: We got so focused on eating them that other time that we stopped even talking.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Mafuyu: (At first, there was no one else here besides me and Miku...)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Miku (N25): Mafuyu...
 Mafuyu: Hm? Yes...?
 Miku (N25): Are you enjoying the party, Mafuyu?
 Mafuyu: I don't know if I'm enjoying it...
 Mafuyu: But I do like that we're spending time together...
 Miku (N25): Okay. That's good to hear...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -90,15 +82,11 @@ Kanade: Oh, New Year's greetings... Ms. Mochizuki and Hoshino also sent me some.
 Kanade: Greeting others during this time of year does feel kind of special...
 Mafuyu: ...
 Mafuyu: (Special? I suppose so...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Kanade: Mafuyu...?
@@ -120,7 +108,7 @@ Kanade: Th-The cold might help wake me up... So, I'll go with you.
 Kanade: I'm starting to run low on a few daily necessities too, so you'd probably have trouble carrying everything back all on your own.
 Mafuyu: Okay. Then, let's go together...
 Kanade: *Nod*
-(Black cut)
+(Black transition)
 (Background change)
 
 [Neighborhood]
@@ -133,17 +121,13 @@ Kanade: Yes, I thought the same thing.
 Kanade: Speaking of which... Mizuki gave you that really nice scrunchie.
 Kanade: I thought the modest color would suit you well, Mafuyu.
 Mafuyu: You think so...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: I thought it'd look great on you the second I saw it, Mafuyu! That's why I really wanna see you with it on!
 Mizuki: Plus, it's cute and fashionable... It could help change the way you feel a little.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: I'm not sure how it's going to look on me...
 Mafuyu: But I'll try it on later...
@@ -164,4 +148,4 @@ Mafuyu: It's okay. They're not actually that heavy.
 Mafuyu: Still, it may be a good idea to go to the store more often and reduce how many things you buy during each trip.
 Mafuyu: I'll go with you if you feel it's necessary...
 Kanade: *Nod* Thank you.
-(Black cut)
+(Black transition)

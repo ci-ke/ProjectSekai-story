@@ -58,7 +58,7 @@ Gacha phrase: 寧々、そっちは任せたよ
 司: それよりもだ！ そろそろ真面目に、ショーの話をするぞ！
 類: おや残念。 ——でも、そうだね
 類: それじゃあ、ショーの具体的な内容について、 話しあおうか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -75,7 +75,7 @@ Gacha phrase: 寧々、そっちは任せたよ
 寧々: ……うん
 類: さて、みんな疲れているだろうけれど、 大道具や小道具を片づけないとね
 司: ああ！
-(Black cut)
+(Black transition)
 司: よーし、これですべて片づけ終わったな！
 司: 全員、あとは各自家に帰って、ゆっくりと休むように！
 えむ: あたしとしては今から練習してもいいと思いまーす！
@@ -89,7 +89,7 @@ Gacha phrase: 寧々、そっちは任せたよ
 寧々: ふふ、ありがと
 類: それじゃあみんな、また明日。 寧々、帰ろうか
 寧々: うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -125,18 +125,14 @@ Gacha phrase: 寧々、そっちは任せたよ
 寧々: そうだね
 寧々: これから、もっとみんなに知ってもらえるといいね
 類: （これから、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: ……風祭さんと話して、少し考えてたの。 これから先の、未来のこと
-(White cut)
+(White transition)
 寧々: わたしは、わたしにとって一番いい答えをだせるように 考えていこうと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （変わってきているのは人々からの認識だけじゃなくて、 僕達自身もだ）
 類: （悩んでいる様子はなさそうだね）
@@ -149,17 +145,13 @@ Gacha phrase: 寧々、そっちは任せたよ
 類: （……いや、僕も司くんやえむくんと出会って、 ワンダーランズ×ショウタイムの演出家として、 やりたいことをやらせてもらっている）
 類: （『みんなを笑顔にするショー』だって、 みんなとなら作っていける）
 類: （そう思っているはずなのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 昔のクラスメイト達: こんなのおもしろそうってだけでやれないよ！
 昔のクラスメイト達: そうだよ！　類くん、おかしいよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: …………
 寧々: ……？　類、ため息なんてついてどうしたの？
@@ -168,4 +160,4 @@ Gacha phrase: 寧々、そっちは任せたよ
 寧々: 今すぐ寝ろって言われたら、 １秒もかからないで寝れる自信ある
 類: フフ。お互い、家に帰ったらゆっくり休むとしよう
 寧々: うん、そうだね
-(Black cut)
+(Black transition)

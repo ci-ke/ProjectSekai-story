@@ -19,7 +19,7 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 冬弥: こんにちは
 (Background change)
 大河: おう。お前らもいたのか
-(Black cut)
+(Black transition)
 (Background change)
 彰人: 練習終わって、ちょっと休憩してたとこです
 大河: お、休みの日にもちゃーんと練習してんのか。 偉いもんだ
@@ -33,19 +33,15 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 杏: あ、そういえばさ。ちょっといろいろあって、 昔私が家出した時のこと、みんなに話したんだけど——
 大河: ……ああ、あれか！ あん時は本当に大変だった。街中、大騒ぎだったしな
 杏: あはは……。 えっと、その話を思い出した時にね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: 謙と出会ったのもこの街だったんだよ。 謙と大河は最初、反りがあわなくて 大変だったんだよねー
-(White cut)
+(White transition)
 凪: でも……街のみんなが、 ふたりはいいライバルだって思ってくれて、 喧嘩とか止めてくれたから、だんだん距離が近づいていってさ
 凪: ……街のみんながいなかったら、 今頃チームを組めてなかったんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: ……凪がそんなことをねえ
 杏: うん。思い出したら、なんか気になっちゃってさ。 よかったら、その頃のこと聞きたいなーって
@@ -77,10 +73,8 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 杏: ……あっ、思いだした！ それ、母さんからの誕生日プレゼントでしょ！
 杏の父: 杏、なんでそれを……。 あいつと籍を入れる前の話だぞ
 杏: ふふ。昔、父さんの誕生日プレゼントを 母さんと一緒に買いに行った時に聞いたの
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の母: ——お母さん、お父さんと結婚する前に くつ下をあげたことがあるんだよ
 幼い杏 (杏): くつ下？　なんで？
@@ -94,10 +88,8 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 杏の母: 今はそうだね。 でも昔は甘い物ばっかり食べたり飲んだりしてたんだよ
 幼い杏 (杏): へえ～。それでお父さん、 クリームソーダのくつ下、大事にしてくれた？
 杏の母: ——うん。とっても！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ——だよね、父さん！
 杏の父: ……まあな
@@ -107,7 +99,7 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 大河: この顔で恋人からもらったくつ下はいて、 ゲン担ぎだなんてよ
 杏の父: やかましい……
 杏: あははっ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -120,21 +112,17 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 杏: ————！　——～～～！
 杏: （よし、今日もすっごくいい感じ！）
 杏: （——もっといける。もっと……！）
-(Black cut)
+(Black transition)
 杏: ふうっ……！
 杏: あ、ミク！ もしかして聴いててくれたの？
 ミク (VBS): うん。調子、かなりいいみたいだね
 杏: そうなの。このあいだみんなに 凪さんの話をしてから、特にね！
 杏: ……凪さんみたいにかっこよくなりたいって、 改めて思えたからかな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): なんとなく、誰かを想って歌っているような 感じがしてたんだけど……
 ミク (VBS): なるほど、凪さんか
@@ -151,20 +139,16 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 ミク (VBS): 憧れの人には、一番輝いていてほしいって 思ってしまうものだろうし
 杏: だね……
 杏: だけど、もうそれはやめないとね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　————～～～！！
-(White cut)
+(White transition)
 (Background change)
 凪: ♪————————！！
 大河・謙: 『♪————————！！』 『♪——！！　——！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ——まだまだいろんなものが、私には足りてない
 杏: こはねの隣で歌い続けるためにも
@@ -190,4 +174,4 @@ Gacha phrase: 一緒に、いてくれるんじゃないの？
 ミク (VBS): ——杏、まだ自主練続けるんでしょう？ 私も入れてよ
 杏: もちろん！　じゃあさっそくいくよ！
 杏・ミク: 『————！　——！　——！』
-(Black cut)
+(Black transition)

@@ -4,19 +4,15 @@
 
 [瑞希の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 老婦人: 昨日の夜……天国に行っちゃったんです
-(White cut)
+(White transition)
 (Background change)
 愛莉: …………っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……胸に、穴があいたみたいだな）
 瑞希: （でも……ボクにできることは、もう……）
@@ -37,7 +33,7 @@
 瑞希: 『……うん。 そうなんだけど……実は今日、また飼い主さんに会ってさ』
 (Background change)
 瑞希: 『そしたら——』
-(Black cut)
+(Black transition)
 (Background change)
 奏: 『……そっか。 そんなことがあったんだ』
 (Background change)
@@ -64,19 +60,15 @@
 瑞希: 『ううん！』
 瑞希: 『すごく助かったよ。 ありがとう、K』
 奏: 『……そっか。 それならよかった』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 形に、か……
 瑞希: それなら——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000592/bg_s000592.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000592/bg_s000592.webp)
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ——決めた
 瑞希: レース針は……８号のがいいかな。 できるだけ細かく編みたいし
@@ -89,7 +81,7 @@
 瑞希: （何年も何年も、あの羽をたくさん撫でてあげたり、 いろんな言葉を教えてあげたり……）
 瑞希: （……ムーちゃんの気持ちも、 柴山さんの気持ちも、ボクにはちゃんとわからない。 でも——）
 瑞希: （——幸せだったんじゃないかって、思うんだ）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌朝]
@@ -101,4 +93,4 @@
 瑞希: ……そっか……！ うん、すごくいいと思う
 瑞希: ——あのね。実はボクも、形にしてみたんだ
 瑞希: それで……今日、会いに行ってみようと思う
-(Black cut)
+(Black transition)

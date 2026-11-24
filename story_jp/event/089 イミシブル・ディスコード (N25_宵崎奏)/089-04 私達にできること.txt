@@ -19,15 +19,11 @@
 瑞希: たしかに、そうだよね。 ……ボクが前に、まふゆとお母さんの会話を聞いた時も そんな感じだったな
 瑞希: でも——きっとまふゆは……もっと、つらいよね
 絵名: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （この前も、家に帰りたくなさそうにしてたし…… ニーゴの活動ができなくなったら、 もっとしんどくなるんじゃ——）
 絵名: ……私達にできることって、ないのかな
@@ -46,7 +42,7 @@
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: と、いうことで……
 瑞希: じゃじゃーん！　特別ゲストのまふゆさんでーす！
@@ -67,7 +63,7 @@
 まふゆ: ……食べたいのなら、好きにすればいいと思う
 絵名: 言われなくてもそうするってば。 ていうか瑞希、早く注文してよ
 瑞希: はいはい、じゃあ店員さん呼ぶねー
-(Black cut)
+(Black transition)
 瑞希: ——でさー！　今日行ったお店の新作で、 奏とまふゆに絶対似合うのがあったんだ！
 まふゆ: ……そうなんだ
 瑞希: そう！　ふたりとも、普段は絶対 着なさそうなやつだったんだけど……。 でもイメージ合うし、試着だけでもしてほしいんだよね！
@@ -80,4 +76,4 @@
 絵名: （今、私達がまふゆにできることは——何もない）
 絵名: （……すごく悔しいし、ムカつくけど……）
 絵名: （でも……せめて、今この時間だけは 家のことを忘れられるといいな……）
-(Black cut)
+(Black transition)

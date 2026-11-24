@@ -93,44 +93,36 @@
 彰人: はい！　あの——
 彰人: ……絶対、最高のイベントにするんで。待ってます
 彰人: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 大河: あいつは、朝から晩まで路上で歌いながら、 ずっと先のものばかり見てやがる
 大河: 歌いすぎで声がかれても、悔しそうなツラでまだ歌おうとする。 ろくな声が出るはずねえのに、喉をおさえて声を絞り出してた
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: ……そうか、謙さんもそうだったんだな
 彰人: 行きたい場所に行くために、努力して、努力して——
 彰人: オレにできることはそれしかねえって、 そう決めて、走り続けてきた。でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 大河: よく見りゃお前の目も、謙と似たような目をしてる。 特に今日のライブなんか、あの頃の謙にそっくりだったぞ
 大河: 案外、いつかあいつみたいになれる器なのかもしれねえぞ。 ……その壁は高いが、な？
-(White cut)
+(White transition)
 謙: もうここまでかもしれない、 もうこれ以上先には何もないんじゃないか？ なんて、心は簡単に揺れ動くもんだ
 謙: だから、いざという時は心より、自分の心臓を信じろ。 お前の体が熱く、強く、脈打つほうに進め
-(White cut)
+(White transition)
 謙: ああ。もし気持ちがへこたれちまっても、 どんな苦しいことがあっても、 お前の体が歌い続けたいって言ってんなら——
 謙: その時は、歌うことをやめるな。 限界を超えたいなら、お前の手段はそれしかねえ
-(White cut)
-
-(Memory cut-out)
-
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000141/bg_s000141.webp)
+(White transition)
+(Flashback out)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000141/bg_s000141.webp)
 彰人: （——そうか。 だからあの時、謙さんはあんな風に言ったのか）
 彰人: （謙さんも……苦しみながら、それでも歌い続けて——）
 彰人: （それで、あの歌声は生まれたんだ。 ……最初からあったわけじゃない）
 彰人: （オレと、同じで——）
-(White cut)
+(White transition)
 (Background change)
 彰人: （…………よかった、これで……）
 彰人: （これで、オレがやってきたことを信じて、また前に進める）
 彰人: …………本当に、よかった……
-(Black cut)
+(Black transition)

@@ -15,7 +15,7 @@ Len: But for now, wanna head back to MEIKO's place? I'm parched...
 Miku (VBS): Mind going ahead without me, Len...?
 Len: Huh? Sure, but where are you gonna go?
 Miku (VBS): There's something I should probably take care of now.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -78,4 +78,4 @@ Miku (VBS): <She isn't completely out of the woods yet...>
 Miku (VBS): <But she's decided to face what's bothering her.>
 Miku (VBS): <You can do it, An...>
 Kohane & An: ♪ ————!
-(White cut)
+(White transition)

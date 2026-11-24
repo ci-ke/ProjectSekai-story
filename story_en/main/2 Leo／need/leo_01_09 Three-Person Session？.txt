@@ -7,7 +7,7 @@ leo_01_09 Three-Person Session?
 Saki: Ichiii! The weather's so perfect today, huh!
 Ichika: I see you're in a really good mood. Did something good happen?
 Saki: Heh heh heh! Not yet, but I'm going shopping after school. Wanna come with?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Musical Instrument Shop]
@@ -64,7 +64,7 @@ Saki: Hehe! I guess it takes someone as stubborn as me!
 Saki: We can't waste this chance. We've got to start practicing and master this song!
 Saki: But first, I'm buying a new keyboard!
 Ichika: Right. Excuse me, could you help us with something?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -72,19 +72,15 @@ Ichika: Right. Excuse me, could you help us with something?
 Shiho: They want me to play with them...
 Shiho: I thought it was best if I just kept my distance...
 Shiho: Huh? Was that a shooting star?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Little Saki (Saki): What was that? A shooting star? Oh no, I missed it! Where did it go?
 Little Honami (Honami): Saki, shooting stars disappear really quickly. You have to watch the sky carefully to see one.
 Little Saki (Saki): I'm trying but I can't see any!
 Little Ichika (Ichika): You have to be patient. Let's keep looking.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Shiho: .....
 Shiho: Oh... It was just a plane.
 Shiho: I guess there's no way you could see a shooting star from here.
-(Black cut)
+(Black transition)

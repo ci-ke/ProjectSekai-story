@@ -6,16 +6,12 @@
 
 奏: …………
 奏: 雪を救う曲、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: わたしが作り続ける
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの時はただ必死で、ああ言い切ったけど……）
 奏: （どんな曲なのかは、まだわからない）
@@ -23,7 +19,7 @@
 奏: そうじゃなきゃ、わたしは、ここにいる意味がないから
 奏: 誰が……あ、そうか
 奏: 今日は望月さんが掃除に来る日か
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -36,7 +32,7 @@
 奏: ……ありがとう。じゃあ、お願い
 穂波: それじゃあ、お掃除が終わって、 お茶を淹れたら、声をかけますね
 奏: うん
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: ベースのブラッシュアップはこんなところかな
@@ -46,7 +42,7 @@
 奏: （それにご飯も美味しくて……）
 穂波の声 (穂波): 宵崎さーん。お掃除終わりましたー。 お茶、いかがですか？
 奏: ……今行く
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宵崎家　キッチン)
 奏: いい匂い
@@ -98,4 +94,4 @@
 穂波: よかった。 それじゃあ、失礼します
 奏: うん。またね
 奏: ……人形展か
-(Black cut)
+(Black transition)

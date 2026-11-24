@@ -20,7 +20,7 @@
 ウィリアム (司): 『……こっちにおいで。話をしよう、アメリア』
 アメリア (寧々): 『うん……！』
 榊: …………
-(Black cut)
+(Black transition)
 アメリア (寧々): 『……どうして？』
 アメリア (寧々): 『どうしてここに…… 私が、お父さんを殺した場所に連れてきたの……？』
 アメリア (寧々): 『やっぱりお父さんは、私を恨んで……！』
@@ -30,15 +30,11 @@
 ウィリアム (司): 『だから……だから見守りたい。 お前を天国から見守っていたい』
 ウィリアム (司): 『だが——』
 ウィリアム (司): 『いずれお前は地獄の牢獄に囚われて、 オレのことも全て……忘れる』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （……そうだ）
 司: （みんなオレを忘れていく）
@@ -46,7 +42,7 @@
 司: （……無理だ……）
 司: （大切なお前が、オレを忘れるなんて）
 司: （本当の孤独に突き落とされるなんて……！）
-(Black cut)
+(Black transition)
 (Background change)
 ウィリアム (司): 『耐えられない……』
 ウィリアム (司): 『オレは……オレはそんなことに——』
@@ -55,14 +51,14 @@
 ウィリアム (司): 『……アメリア』
 ウィリアム (司): 『オレは……間違っている。 ……間違った父親だ』
 ウィリアム (司): 『お前の幸せを願い、祈りながらオレは——』
-(Black cut)
+(Black transition)
 (Background change)
 ウィリアム (司): 『オレは……お前を……！！』
-(Black cut)
+(Black transition)
 (Background change)
 司: …………っ
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000603/bg_s000603.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000603/bg_s000603.webp)
 司: （————……アメリア）
 司: （大切な大切な……オレの娘……！！）
 (Background change)
@@ -74,17 +70,17 @@
 アメリア (寧々): 『私、は……』
 アメリア (寧々): 『——忘れ……ないよ……』
 司: ……！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000612/bg_s000612.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000612/bg_s000612.webp)
+(White transition)
 (Background change)
 司: …………っ
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000603/bg_s000603.webp)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000602/bg_s000602.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000603/bg_s000603.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000602/bg_s000602.webp)
 司: あ…………
 司: （今の声は————）
-(White cut)
+(White transition)
 (Background change)
 アメリア (寧々): 『いつか、地獄に落ちても…… 絶対に……忘れないから……』
 アメリア (寧々): 『だから……、 お父さんは……天国に、いて……』
@@ -96,7 +92,7 @@
 榊: （……なるほど）
 榊: （落ち切りはしなかったけれど—— その分、目を覚ます方を際立たせた）
 榊: ——悪くないじゃん
-(Black cut)
+(Black transition)
 大神使 (類): 『は……羽が醜く……！ やめろ！　やめてくれ……！　うわあああ！』
 子供の神使 (えむ): 『——これで彼の裁きは終わりました』
 子供の神使 (えむ): 『そして……次はウィリアム。あなたです』
@@ -108,7 +104,7 @@
 子供の神使 (えむ): 『愛する家族と、幸せに過ごすように。 それが、導き手からのお言葉です』
 ウィリアム (司): 『……！ じゃあ、また、アメリアと……！』
 アメリア (寧々): 『お父さん……！！』
-(Black cut)
+(Black transition)
 (Background change)
 司の声 (司): ——本日はご来場、ありがとうございました！！
 えむ・寧々・類の声: 『ありがとうございました！！』
@@ -142,16 +138,16 @@
 司: ま、待て待て！ 両側から同時に話すんじゃない！ まだ調子が戻らんから——
 類: （……本当に、無事に終わってよかった）
 類: （ただ……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000601/bg_s000601.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000601/bg_s000601.webp)
 類: （……僕の演出では、 ここまでの高みに司くんを引き上げることはできなかった）
 類: （それがただ純粋に……悔しいね）
 類: （それに——）
 類: （司くんの状態は、かなり危うくもあった）
 類: （…………僕は、一体どこまで——）
-(Black cut)
+(Black transition)
 (Background change)
 榊: （まさか最後に、あそこまでいけるとはねえ）
 榊: （もう少し深く潜ってダメになる可能性もあったけど、 ともあれ——）
 榊: そろそろ、頃合いかな
-(Black cut)
+(Black transition)

@@ -20,20 +20,16 @@ Skill name: 脳裏をよぎる場所は……
 まふゆ: （部活に来ること、お母さんに止められなくて良かった……）
 まふゆ: …………
 まふゆ: （……心を整えて、静かに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ——あの詩も、課題だったのかしら？
 まふゆ: え……
-(White cut)
+(White transition)
 まふゆの母: まふゆ、お母さん信じてるわ
 まふゆの母: まふゆは、夢を叶えるために必要なことを ちゃんとわかってるって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: （……こころ、を……）
@@ -44,7 +40,7 @@ Skill name: 脳裏をよぎる場所は……
 まふゆ: …………。 …………
 まふゆ: …………
 まふゆ: （……ダメ。もっと、集中しないと……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -56,19 +52,15 @@ Skill name: 脳裏をよぎる場所は……
 まふゆ: （息抜きなら、いいよね……。でも……）
 まふゆ: どこに行けば……
 まふゆ: （この近くに、落ち着ける場所なんて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: あ……
 まふゆ: ……行こう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -78,47 +70,35 @@ Skill name: 脳裏をよぎる場所は……
 [まふゆの部屋]
 
 まふゆ: はあ……はあ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: ——聞いてもらえないくらいで諦めるなら、 お前の想いはその程度ってことだ
 KAITO: だが、違うだろ。 自分に嘘をつくな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: 私は……嘘、なんて……
 まふゆ: ——もう、寝ないと……。 夜の勉強はやめたほうがいいって、お母さんが……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 相手はお前を……お前の想いを殺そうとしてるのに、 情けをかける必要があるのか？
-(White cut)
+(White transition)
 KAITO: ……いい加減、目をそらすのはやめろ
 KAITO: 本当は、わかってんだろ。お前はただ——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………！
 まふゆ: ……っ、違う！
 まふゆ: （……寝よう、寝たら何も考えなくてよくなる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （考えたくない……）
 まふゆ: （もう何も考えたくないの……）
@@ -133,7 +113,7 @@ KAITO: 本当は、わかってんだろ。お前はただ——
 まふゆ: …………
 まふゆ: （……あったかい）
 まふゆ: （奏の曲は、どうしてこんなに……）
-(Black cut)
+(Black transition)
 まふゆ: （……終わっちゃった。 もう１回、聴こうかな——）
 まふゆ: ……あれ？　この曲……
 まふゆ: （奏がこのあいだ送ってくれた、新曲のデモ……。 スマホでも聴けるようにデータ入れたんだった）
@@ -153,4 +133,4 @@ KAITO: 本当は、わかってんだろ。お前はただ——
 まふゆ: …………
 まふゆ: （明かりはつけないほうがいい、かな……。 今日は、スマホにメモするだけにして……）
 まふゆ: （ここは、どんな言葉にしようかな……）
-(Black cut)
+(Black transition)

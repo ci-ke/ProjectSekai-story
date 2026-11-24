@@ -40,15 +40,11 @@
 女子高生Ａ: ……そうかもしれません。 ただの腐れ縁だって思ってたけど——
 女子高生Ａ: 今日までずっと離れずにいられたのは、 あっちが私と一緒にいようとしてくれたから……なのかも
 咲希: （一緒にいようとしてくれたから……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （アタシ達も一度、離れ離れになって……。 けど、またバンドのおかげで一緒にいられるようになって）
 咲希: （それだけで、すっごく嬉しくて幸せだなって 思ってたけど……）
@@ -64,7 +60,7 @@
 女子高生Ａ: ありがとうございます！ ……メッセージカード、作っていってもいいですか？
 咲希: はい、もちろん！
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール　館内]
@@ -82,7 +78,7 @@ MEIKO (WxS): 『それじゃあ、えむちゃん！ さっそく始めるわよ
 パペット (MEIKO-WxS): 『もちろん！　一緒に作ってみましょ！』
 買い物客: なんだろう、あれ？　人形劇かな？
 買い物客: ねえねえ、あっちで何かやってるよ！
-(Black cut)
+(Black transition)
 えむ: 『仕上げにシールをペタペタ～ってして…… 完成～☆』
 パペット (MEIKO-WxS): 『お疲れ様、えむちゃん！ とってもすてきなカードができたわね！』
 えむ: 『うん！　それじゃあ、このカードはパペットさんへ！』
@@ -121,17 +117,17 @@ MEIKO (WxS): 『やったわね、えむちゃん！』
 女子高生Ｂ: そうだよね。 言われた時は、うるさいなって思っちゃったりするけど……
 女子高生Ｂ: どうでもいい相手には、 いちいち注意したりしないもんね
 女子高生Ｂ: そう思うと…… ちょっとは感謝してもいいかもな、って気がしてきた
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000422/bg_s000422.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000422/bg_s000422.webp)
 えむ: それじゃあ……やっぱり作ってみませんか？ メッセージカード！
 女子高生Ｂ: え……？
 えむ: ドーナツと一緒に、お友達に渡したら……。 きっと、ふたりともにこにこになれちゃうと思うので！
 女子高生Ｂ: ……カードとか、うまく作れる気がしないんだけど。 相談乗ってくれたりするの？
 えむ: はいっ！　全全全力でお手伝いしちゃいます！
-(White cut)
+(White transition)
 (Background change)
 女子高生Ｂ: あはは、オッケー。 せっかくだからやってみるよ
 女子高生Ｂ: あ……先に連絡だけしておかないと。 えっと、『今日ってもう１回会えないかな』っと
 女子高生Ｂ: あ、もう返信きた……って、え！？
 えむ: ……ほえ？
-(Black cut)
+(Black transition)

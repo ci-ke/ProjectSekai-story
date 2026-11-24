@@ -3,7 +3,7 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク)
 
 (Video: link2_wonder_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -13,19 +13,15 @@
 類: ……もっと、だ…………
 類: もっと、観客の目を引くような…… 笑顔にできるような……
 類: そんな、演出を——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: だから……いっぱいいっぱいいっぱい考えたほうがいいって思う！ 今の類くんのためにも、未来の類くんのためにも！
 ？？？: そうじゃないときっと——笑顔になれないよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 類: …………っ！
 類: （…………僕は、今……何を…………）
@@ -47,7 +43,7 @@
 旭: やっぱり忘れてたのか。 今日は練習のあと、パーティーだって言われてただろ？
 類: パーティー……？
 類: ——————あ
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -88,8 +84,8 @@
 類: 僕の演出が、どこまで通用するかと思って
 類: でも——
 類: そんなメンバーの中で、 どういうショーができるか……今からとても楽しみだよ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000442/bg_s000442.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000442/bg_s000442.webp)
 旭: それなら——そこに俺達が加わるんだから、 もっと最高の劇団になるな！
 旭: 類と一緒なら、どんな場所でもきっと 最高のショーが作れる。だから——
 旭: アメリカでもよろしくな、類！
@@ -97,20 +93,16 @@
 類: ああ。世界でも指折りのショーをするというBrillia Stage…… そのステージを期待するお客さんは、たくさんいる
 類: THE CENTER THEATREで多くのお客さんに 笑顔を届けたように——
 類: アメリカでも、 共にいいショーをしよう
-(White cut)
+(White transition)
 (Background change)
 類: （アークランドは世界各地にあるけれど…… そのなかでも、やはり本国で上演されるショーのレベルは 頭ひとつ抜けている……）
 類: （僕の実力が、どこまで通用するかは未知数だ。 けれど——）
 類: （どんな垣根も越えられるショーを作る…… その夢を叶えるために、進んでいかなくては）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （あの時、僕を送り出してくれた みんなのためにも——）
-(Black cut)
+(Black transition)

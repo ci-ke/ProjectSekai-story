@@ -36,63 +36,47 @@ KAITO: え、『僕』？　リンじゃなくていいの？
 KAITO: そういうことなら……。 んー、じゃあバンドをやっている僕から考えてみようかな
 KAITO: バンドをやっている僕は、DJの僕がいるセカイなら 入れ替わってもすんなり馴染めそうな気がするよ
 レン: たしかに！　演奏もできちゃうから、きっと——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン (VBS): ねえねえ、カイト！　今日も何か弾いてー！
 レン (VBS): なんか気合いが入るやつがいいな！ 練習頑張るぞーっていう！
 ルカ (VBS): じゃあ、その次は私のリクエスト弾いてもらっちゃおうかな♪
 ミク (VBS): それが終わったら、私とメイコの分も頼んでいい？
 KAITO (Ln): ……いいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: ——っていう感じで、人気者になってそう！
 リン: わっ……！　そうやってイメージすればいいんだ！
 リン: それなら……。う～ん……
 リン: ……あっ！　もしアイドルをやってるカイトと 入れ替わっちゃったらすごく大変かも！
 KAITO: ああ……。バンドをやっている僕は口下手だから、 特にベテランアイドルのルカとメイコには 圧倒されてしまうかもしれないね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: だったら、ショーをやってるカイトと 入れ替わっちゃうのも大変そうじゃない？
 KAITO: あそこの僕は座長としてとてもしっかりしているし、 代わりを務めようとすると大変だね
 KAITO: あのセカイで上手くやれそうなのは、アイドルの僕と……
 リン: DJをやってるカイトじゃない？ 会ってすぐ仲良くなって、いろんなことできちゃいそう！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: そ、そうだね……
 KAITO: （でも止める役がいないから、 いろんなことができちゃうのはむしろちょっと怖いな）
 KAITO: えっと、あとは……
 リン: まふゆちゃんの想いのセカイのカイトじゃない？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: あのセカイの僕か……。 うーん、想像するのが一番難しいな
 レン: そう？　オレ、ストリートのみんなとは 意外と上手くやれそうな気がするけどな
@@ -102,7 +86,7 @@ KAITO: な、なるほど……
 リン: あとは……あ、ショーをやってるわたしとレンは あのセカイのカイトのこと最初は怖がっちゃいそうかも
 レン: いや、オレは気にしないで懐くと思うな！ だって、『カイト』だし！
 KAITO: ふふ、そうだといいな
-(Black cut)
+(Black transition)
 リン: レン、カイト、付き合ってくれてありがとう！
 リン: セカイのカイトやわたしのこと、 いろいろ考えられてすっごく楽しかった！
 レン: どういたしまして！
@@ -117,7 +101,7 @@ KAITO: ……話をしていたら、セカイの僕達に会いたくなって�
 リン: 賛成！　カイトもいい？
 KAITO: もちろんだよ。一緒に行こうか
 リン・レン: 『やったー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -128,24 +112,20 @@ KAITO: もちろんだよ。一緒に行こうか
 
 KAITO: ついこの前は、『セカイの自分達が入れ替わったら』なんて、 冗談のつもりで話していたけど
 KAITO: まさかあんな形で、答え合わせができるなんて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: 今回のこと、当たり前だけど セカイの『僕達』もおどろいていたな
 KAITO: 特に、バンドをやっている僕は ショーをやっているミク達にたじたじになっていたっけ
 KAITO: ……そういえばリンから、バンドをやっているリンが あの後どうしているかっていう話を聞いたな
 KAITO: たしか、あの日と同じことをして、 もう一度他のセカイに行こうとしていたみたいだけど……
 KAITO: 『僕』のことも気になるし、様子を見に行こうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -202,4 +182,4 @@ KAITO: せっかくだし、練習ものぞかせてもらおうかな
 穂波: ふふ。その時は、みんなで片付けを頑張らないと いけないかもしれないね
 咲希: それは考えてなかったかも！ 大変そうだし、やっぱりなしで！
 KAITO: ふふっ
-(Black cut)
+(Black transition)

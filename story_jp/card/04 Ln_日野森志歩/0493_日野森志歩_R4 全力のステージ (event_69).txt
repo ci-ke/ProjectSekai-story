@@ -13,7 +13,7 @@ Gacha phrase: この曲で、証明してみせる
 志歩: ——本番の日まで、全力で
 一歌: 志歩……
 咲希: うんっ、もちろんだよ！ 絶対にお客さんの心に響くライブにしようね！
-(Black cut)
+(Black transition)
 (Background change)
 志歩: （えっと、今日使わせてもらう教室は……）
 レン: ——待って、志歩！
@@ -22,20 +22,16 @@ Gacha phrase: この曲で、証明してみせる
 志歩: え？
 レン: うん。『やるしかない』って言葉、すごくよかった
 志歩: ああ、あれは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: （……やっぱり。咲希だけじゃない）
 志歩: （みんな、anemoneと同じステージに立つのは不安なんだ）
-(White cut)
+(White transition)
 志歩: 気持ちはわかるよ
 志歩: ——でも、やるしかない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: あれはただ、このままじゃダメだって思って、 言いたいことを言っただけだよ
 志歩: もともと、次こそあのライブハウスのお客さん達に 私達の曲を届けようって思ってたけど——
@@ -62,7 +58,7 @@ Gacha phrase: この曲で、証明してみせる
 レン・リン: 『どういたしまして』 『どういたしましてっ！』
 レン: 引き止めちゃってごめんな。 お互い、ここからの特訓も頑張ろう
 志歩: うん。こっちこそよろしく！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -124,18 +120,14 @@ MEIKO: 志歩も、今日は格別なんじゃない？
 志歩: そうですね……
 志歩: ……たしかに、今までで一番美味しいかもしれません
 志歩: （そう思えるのは——みんなのおかげで、 本当の意味での全力のライブができたからだろうな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: ……！
 志歩: （みんながついてきてくれてる。 音がぶつかって、混ざりあって——）
 志歩: （——楽しい！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （やっぱり、Leo/needとして演奏している時が、 一番幸せだな）
 ルカ: 志歩、いい顔しているわね
@@ -143,4 +135,4 @@ MEIKO: うん。本当によかった
 リン: みんなー！　すっぱっぱロシアンルーレットやるよー！ 好きなの選んでっ☆
 咲希: しほちゃんも、はやくはやくー
 志歩: はいはい
-(Black cut)
+(Black transition)

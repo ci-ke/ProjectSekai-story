@@ -46,8 +46,8 @@
 奏: そっか……
 奏: その人がどんな気持ちで聴いてくれるのか、 ……わたしも少し、興味あるな
 まふゆ: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000025/bg_s000025.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000025/bg_s000025.webp)
 ミク (N25): この人……どんな人かはわからないけど、 すごく真面目に音楽を作ってるんだね
 奏: うん。何度も消した跡が見える。 いろいろ悩みながら書いてる感じだね
 奏: 粗削りだし、もしかしたら曲のイメージも まだ掴めてないのかもしれない
@@ -56,7 +56,7 @@
 まふゆ: …………
 奏: まふゆの書くものとは違うけど、 言葉のひとつひとつが力強く感じる
 奏: ……わたしはこの詞、いいと思うな
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ……そうだね
 ミク (N25): ……まふゆも、そう思う？
@@ -69,4 +69,4 @@
 まふゆ: （……まっすぐ、か）
 まふゆ: （きっと星乃さんには、伝えたいことがあるんだろうな）
 まふゆ: （私と違って——）
-(Black cut)
+(Black transition)

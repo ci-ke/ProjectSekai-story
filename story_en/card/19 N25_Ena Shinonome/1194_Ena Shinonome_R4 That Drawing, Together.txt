@@ -32,7 +32,7 @@ Len (N25): <Um... A change of pace might help you come up with a good idea.>
 Ena: You're right. I'm struggling to focus right now, anyway.
 Ena: I think I'll go take a walk in SEKAI. Do you two want to join me?
 Len (N25): <Yeah...!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -48,7 +48,7 @@ Ena: Oh, it must have been this. See? This shard-looking thing.
 Rin (N25): Ena, that's...!
 Ena: What?
 Ena: Ah! What's going on? It's so bright!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -89,7 +89,7 @@ Rin (N25): Ena! Grab her!
 Ena: Huh?!
 Len (N25): O-Or grab her hand! That will work too!
 Ena: Ugh! I want a full explanation later!
-(White cut)
+(White transition)
 (Background change)
 Little Ena? (Ena): Phew...that was a shock. What is it with this place and all the flashing, anyway?
 Len (N25): E-Ena...?
@@ -98,7 +98,7 @@ Little Ena? (Ena): So, where'd the little me go? I made sure to hold her hand an
 Len (N25): Um, Rin... Does that mean...
 Rin (N25): Yes...
 Rin (N25): She looks like the little Ena, but I think this is our Ena on the inside.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -139,16 +139,16 @@ Rin (N25): Yes, but it probably won't be that easy...
 Ena: I don't care if it won't be easy. I'll do it!
 Ena: I don't need my own feelings vanishing off into nowhere before I can have a look at them.
 Len (N25): Okay, Ena. Let's go find those feelings.
-(Black cut)
+(Black transition)
 Rin (N25): What's this scribbly weird picture?
 Ena: It's a bunny, obviously.
 Ena: It looks like I drew it holding a crayon in my fist, so this must be from when I was really little.
-(Black cut)
+(Black transition)
 Len (N25): Oh, there's a photo of you and the others looking at cherry blossoms together.
 Ena: That's from the mystery tour Mizuki organized for us. The photo turned out so well I made sure to get a copy.
-(Black cut)
+(Black transition)
 Ena: Ugh, there are even pieces I did for Mr. Yukihira's assignments... And these are the awful ones...
-(Black cut)
+(Black transition)
 Len (N25): We've looked around a lot, but I still don't know what feelings this SEKAI is made from.
 Ena: There are pictures I drew when I was really little, but also stuff from junior high and even things I drew this year.
 Rin (N25): And it's not just pictures, but photos too.
@@ -157,15 +157,11 @@ Ena: It just feels like everything's slapped up on the wall looking for attentio
 Rin (N25): If that's how you see her, I feel bad for that little Ena.
 Ena: Why? I barely remember what I was like as a kid, but the one we talked to seemed like a little brat.
 Ena: (Well, if she's really going to disappear because I can't figure this feeling thing out, I guess I do feel a little bad for her.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Little Ena (Ena): Aww. I wanted to go see the picture together...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ena: Actually, I wonder what she meant by “the picture”?
 Len (N25): Oh, the one little Ena mentioned. She said she wanted to see it together...?
 Ena: Yeah. Maybe there's a hint there or something.
@@ -190,7 +186,7 @@ Ena: Oh...
 Ena: I never realized I used to be so honest with myself.
 Ena: Oh!
 Rin (N25): Ena?!
-(White cut)
+(White transition)
 Ena: I'm back...?
 ???: You found the picture.
 Little Ena (Ena): Good job to me. I knew I could do it.
@@ -203,7 +199,7 @@ Little Ena (Ena): You make the people around you worry just as much as I do, tho
 Little Ena (Ena): Really, there's a whole lot more I want you to realize...
 Little Ena (Ena): But I'm sure you'll be fine without my help. You're me, after all!
 Ena: You really are a little brat, huh.
-(White cut)
+(White transition)
 (Background change)
 Rin (N25): It looks like we made it back.
 Len (N25): Yeah... Ena, are you okay?
@@ -225,4 +221,4 @@ Ena: So I'm just going to empty my mind and face it with a pure heart.
 Rin (N25): I see. I hope it goes well.
 Len (N25): I'm sure it'll be great, Ena.
 Ena: Thanks, you two. Okay, I'm gonna get to work!
-(Black cut)
+(Black transition)

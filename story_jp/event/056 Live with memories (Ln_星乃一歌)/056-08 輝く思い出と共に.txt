@@ -32,7 +32,7 @@
 咲希: ——うん、きっとそうだよ！ 絶対絶対そう！
 志歩: 絶対とまでは言えるかわからないけど……。 ——そうならいいよね
 一歌: …………うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -68,17 +68,13 @@
 一歌: ……あ
 一歌: （でも……今ならアルバイトしてるから自分で買えるし、 作曲の練習にも使える）
 一歌: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): きっと向こうの私も、 一歌達のことを待ってるよ
 一歌: 私の世界の、ミクも——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……歌ってみたい）
 一歌: （こっちでも——ミクと、一緒に）
@@ -87,4 +83,4 @@
 一歌: え？ あ……うん！　行こう！
 一歌: （……やっぱり、これも一緒に持っていこう）
 一歌: （いつか、ミクと一緒に、歌えたらいいな——）
-(White cut)
+(White transition)

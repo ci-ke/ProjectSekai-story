@@ -24,7 +24,7 @@ Kohane: Oh, umm... This is just...
 Haruka: No, I'm sorry too. I was a little surprised is all since you don't usually wear any makeup.
 Kohane: I-It's okay, really.
 Kohane: It's just... One thing led to another and I'm having to do some research on the subject.
-(Black cut)
+(Black transition)
 Haruka: Now I see... You're learning more about makeup for your photo contest entry.
 Kohane: Yeah, and I'll be the one doing Aoyagi's makeup...
 Kohane: But on top of everything that I need to get, I have to figure out how to apply it. Which is why I'm starting to get a little worried...
@@ -43,7 +43,7 @@ Kohane: Then, if you don't mind spending part of your day off with us...
 Haruka: I'd love to. This is the least I can do since you've been nice enough to share your notes and stuff with me.
 Kohane: Haruka...
 Kohane: Thank you so much...! I promise to do what I can too.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the shoot]
@@ -83,7 +83,7 @@ Kohane: Yeah...! Only the top ten get prizes, so let's do our best...!
 Haruka: Alright, time is of the essence, so let's get started. First, we need to grab some makeup.
 Haruka: The cosmetics department on this floor has a unisex powder room, so we can apply everything there.
 Kohane: Okay!
-(Black cut)
+(Black transition)
 
 [Cosmetics Department]
 
@@ -99,16 +99,16 @@ Toya: I see...
 Kohane: Oh, Haruka... This eye shadow palette apparently includes some limited edition Valentine's Day colors.
 Haruka: Yeah, this chocolate-colored one's really cute. It goes perfectly with our theme, so why don't we get it?
 Toya: One is more brown and the other is more orange. Which should we choose...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000277/bg_s000277.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000277/bg_s000277.webp)
 Haruka: Well, you seem like the cool and collected type, so the brown one might help us achieve that dark chocolate look I mentioned earlier.
 Haruka: Plus, your skin tone calls for a more subdued color.
 Toya: My skin tone...? I didn't realize we had to take that into consideration. You really do know quite a lot about this subject.
 Haruka: Hehe. Only because of work. But I'm glad this has all come in handy.
-(White cut)
+(White transition)
 (Background change)
 Haruka: Anyway, let's start grabbing whatever else we need.
-(Black cut)
+(Black transition)
 
 [Powder Room]
 
@@ -120,14 +120,14 @@ Haruka: Huh?
 Toya: I don't know how I'll do, but I always like to try new things whenever possible...
 Haruka: Yes, of course. Then, I'll show you what to do and you can copy me.
 Toya: Thank you. I'll try my best.
-(Black cut)
+(Black transition)
 Haruka: Good... Your eye shadow has a nice gradation to it.
 Toya: Really? Thank goodness.
 Kohane: Wow... That eye shadow alone makes you look like a completely different person.
 Haruka: It's designed to make your eyes look more three-dimensional, and a bit of eyeliner should help reinforce that illusion.
 Toya: That involves literally drawing right around your eyes and eyelashes, right? I'm really not sure how I'm going to do with that...
 Haruka: Gel liners like these are pretty easy to use, so you don't have to worry. There's also a simple trick to getting the lines you want.
-(Black cut)
+(Black transition)
 Haruka: And finish by using the brush to put on a thin layer of lipgloss.
 Toya: Okay.
 Toya: How do I look...?
@@ -146,4 +146,4 @@ Kohane: (And he did an unbelievable job of doing his own makeup.)
 Kohane: (I can't let their efforts go to waste. I need to take the best photos I can...!)
 Toya: You already chose a site for us, right, Azusawa?
 Kohane: Yes! I had a few places in mind, but based on your makeup...
-(Black cut)
+(Black transition)

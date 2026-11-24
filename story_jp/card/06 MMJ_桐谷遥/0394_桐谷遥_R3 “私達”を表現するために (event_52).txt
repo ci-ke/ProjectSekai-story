@@ -27,11 +27,11 @@ Gacha phrase: どんなグループなのか表現できる衣装を
 愛莉: じゃあわたしも、アイドル好きとして、 ザ・アイドルって感じを目指してみようかしら
 遥: （私は……激しいダンスもできるような衣装を 考えてみようかな）
 遥: （グループを結成してから、みのりのダンスが どんどん良くなってきてるし）
-(Black cut)
+(Black transition)
 愛莉: 今聞いた感じなら、テーマがかぶる心配はないわね
 遥: うん。あとは個人でデザインを頑張ってみようか
 みのり・雫: 『はーい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [遥の部屋]
@@ -45,22 +45,18 @@ Gacha phrase: どんなグループなのか表現できる衣装を
 遥: あ、そっか。 ストーリー性とモチーフか……
 遥: 今、私が描きたいのは MORE MORE JUMP！がどんなグループなのかを 表現できる衣装だから……
 遥: MORE MORE JUMP！を……、 私達を表現する、ストーリーとモチーフ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 みのり: 遥ちゃん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……本当に、いろいろあったな
 遥: （今思えば……あの日、屋上でみのりと出会った時に、 何かが始まっていたのかもしれない）
@@ -70,7 +66,7 @@ Gacha phrase: どんなグループなのか表現できる衣装を
 遥: ——よし。制服をモチーフに取り入れてみようかな
 遥: あとは、やっぱりダンスがしやすいように、 機動性を重視して……
 遥: なんだか、イメージがわいてきたかも。 この調子でまず１枚描いてみよう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -85,7 +81,7 @@ Gacha phrase: どんなグループなのか表現できる衣装を
 愛莉: ちょうどよかったわ。 ミク達に話したいことがあったの
 ミク (MMJ): 話したいこと？
 遥: うん、実はね——
-(Black cut)
+(Black transition)
 ミク (MMJ): そっか！　雫ちゃんのデザインに決まったんだね！
 KAITO: おめでとう、雫ちゃん
 リン: デザイン考えてる時、すっごく悩んでたみたいだから 心配だったけど、うまく描けたんだね！
@@ -116,15 +112,11 @@ KAITO: いいね。またこうやって、ファンの人達と一緒に 何か
 遥: 前のリアルイベントでは、 アイドルの裏側を見せてしまうことに いろいろ不安があったんですが……
 遥: カイトさんが言っていたとおりでした
 遥: アイドルには、ステージに関わる人みんなに 希望を届ける力があるんですね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ASRUNとして活動してる時も、 ファンのみんなに支えてもらってるのを感じていたけど……
 遥: 今改めて、ファンの存在の大きさを感じてます
@@ -143,4 +135,4 @@ KAITO: アイドルとファンの関係って、本当に素敵だね
 遥: （“みんなに希望を届けられるアイドルでありたい” っていう想いだけは、二度となくしちゃいけない）
 遥: （ファンのみんなに、みんなからもらった以上の希望を ちゃんと返していけるように——）
 遥: （これからも頑張らなくちゃ）
-(Black cut)
+(Black transition)

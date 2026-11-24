@@ -12,24 +12,20 @@ Gacha phrase: あなたの想いを、私達に教えて……
 [花畑]
 
 遥: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ？？？: 『——ミク、——————！ 木の————おかしいって……』
 みのり: わっ！　ミクちゃんが言ってた通りだ！ 本当に木から人の声がしたよ！？
 遥: うん……。これって——
 ？？？: 『おーい！　そこに——いるのかー！ 聞こ————返事を————！』
 ？？？: 『あ、————声だ！ あの！　途切れ途切れだけど、——てます！』
 ？？？: 『もし——、他のセカイの————？』
-(White cut)
+(White transition)
 (Background change)
 ミク: …………えっ！
 一歌: ミ、ミク……！？　それに……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……いろいろ突然すぎて、まだ信じられないな
 遥: 一歌達も、セカイを持ってたなんて
@@ -81,7 +77,7 @@ Gacha phrase: あなたの想いを、私達に教えて……
 ミク (MMJ): みんなで相談するんだよね？ セカイを持ってるお友達と話すこと
 遥: うん。ミク達も一緒にいてくれないかな？ みんなにも、関係あることだし
 ミク (MMJ): 大丈夫だよ。じゃあ、行こうか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -119,7 +115,7 @@ Gacha phrase: あなたの想いを、私達に教えて……
 (Background change)
 遥: じゃあ、いただきますをして、 話し合いも始めようか
 一歌: うん！　皆さん、ご意見よろしくお願いします！
-(Black cut)
+(Black transition)
 遥: ……これで、歌詞はひと通り見れたかな
 (Background change)
 奏: 『細かい意見とか要望とか出させてもらっちゃったけど、 情感があって、かなりいい感じに仕上がりそうだね』
@@ -145,15 +141,11 @@ Gacha phrase: あなたの想いを、私達に教えて……
 一歌: みんなが初めてセカイに行った時のこととか、 どうやってミクと出会ったのかとか、聞きたいんだ
 えむ: わあ、おもしろそー！ あたしも知りたいなー！
 遥: 初めてセカイに行った時、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……あの時は本当に驚いたな。 急に知らない場所に来ちゃって、夢でも見てるのかなって
 遥: たしか、一緒にいた愛莉は『夢かも』って言って みのりの頬っぺたつねってたし
@@ -194,16 +186,12 @@ Gacha phrase: あなたの想いを、私達に教えて……
 遥: ……きっと、これから何度だって機会があると思うよ
 遥: （あの、大きな木があるセカイのミクも、 この出会いは偶然じゃないって、言ってたし——）
 遥: （どうして私達があの場所で出会ったのか、 まだよくわからないけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （私達だから、あの子に届けられるものがある）
 遥: （私は、そう信じてる）
-(Black cut)
+(Black transition)

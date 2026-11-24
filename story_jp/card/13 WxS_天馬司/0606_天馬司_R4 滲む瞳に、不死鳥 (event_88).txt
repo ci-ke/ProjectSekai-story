@@ -14,7 +14,7 @@ Gacha phrase: ……いいや……いいや、目を背けるな！
 司: （だが、空腹を水でしのぐしかない つらさはだいぶわかってきた。 この調子で、リオのことをもっと理解しなければ）
 司: おっと、考え事をしていたら もう家に着いてしまった
 司: （……こんな腑抜けた顔を、 咲希に見せるわけにはいかんからな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -34,7 +34,7 @@ Gacha phrase: ……いいや……いいや、目を背けるな！
 司: （ぬあー！　正直に言いすぎた……！）
 咲希: えへへ、アタシも信じてるよ！ お兄ちゃんなら、きっと大丈夫って♪
 司: ああ！　ありがとう、咲希！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -71,34 +71,26 @@ Gacha phrase: ……いいや……いいや、目を背けるな！
 冬弥: いえ。難しい役のようですが、 トルペの時も、先輩は最後には役になりきって 素晴らしい演技を見せてくれました
 冬弥: 俺は、司先輩ならきっと大丈夫だと信じています
 司: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: アタシも信じてるよ！ お兄ちゃんなら、きっと大丈夫って♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ああ！　お前達の信頼に応えられるよう、全力を尽くすぞ！
 冬弥: はい。では、失礼します
 司: さて、咲希にもメッセージを送らねばな
 司: （信じている、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （あいつらも、オレを信じて協力してくれている）
 司: （オーディションまでまだ数日ある。 信じてくれるみんなのためにも、リオのことを理解してみせる！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -160,4 +152,4 @@ Gacha phrase: ……いいや……いいや、目を背けるな！
 類: フフ、本当にお腹ぺこぺこみたいだね。 ——よし、僕も決まったよ
 司: では——
 司: すみません、注文をお願いします！
-(Black cut)
+(Black transition)

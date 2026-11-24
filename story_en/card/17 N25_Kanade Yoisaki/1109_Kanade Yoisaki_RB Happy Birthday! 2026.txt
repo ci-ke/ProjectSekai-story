@@ -56,7 +56,7 @@ Len (N25): Because, um... We also want to celebrate with you...
 Kanade: Got it. We'll all come by.
 Miku   (Miku-N25): There's still some time before it happens, but I hope you enjoy your party with everyone.
 Kanade: *Nod* Thanks.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the party]
@@ -84,7 +84,7 @@ Mafuyu: The light's turning green. We don't have a lot of time before our reserv
 Kanade: Oh, you're right. Let's go.
 ???: That was close. I thought she wouldn't notice us with all the people around...
 ???: It's okay, I don't think she realized. Come on, let's hurry after them.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A Certain Cafe]
@@ -100,7 +100,7 @@ Kanade: Wait, that voice...
 Saki: Thank you for your reservation! Welcome to carino/carina!
 Kanade: Wait...
 Kanade: Tenma...?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -133,7 +133,7 @@ Mafuyu: You're very welcome. I figured you two would want to give your birthday 
 Saki: Okay, everyone, if you take your seats I'll get your drink orders in! Then it'll be time for cake!
 Emu: Okay♪
 Nene: Um, hello...
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: I can hardly believe so many people are here for my birthday...
 Mafuyu: In truth, we almost had three more.
@@ -166,8 +166,8 @@ Saki: Think nothing of it! I'm really happy I was able to help with the party!
 Saki: And our cake is super delish, so make sure you have a lot!
 Kanade: I will. Really, thank you.
 Kanade: (I never thought it could be so lively.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000410/bg_s000410.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000410/bg_s000410.webp)
 Toya: Happy birthday, Yoisaki.
 Kohane & An: Happy birthday!
 Toya: Akiyama seemed quite excited for it, so I'm sure you've had a wonderful birthday already. Please let us extend our best wishes, as well.
@@ -194,7 +194,7 @@ Ena: You looked like you were having a lot of fun too, though. Should we do this
 Mizuki: Next year, huh...
 Mizuki: Works for me! Let's get everyone together and throw a real bash!
 Mafuyu: Sure.
-(White cut)
+(White transition)
 (Background change)
 Kanade: Thank you for all the birthday wishes.
 Kanade: It feels like every birthday I have, there are more people who want to celebrate it with me.
@@ -202,4 +202,4 @@ Kanade: I guess it goes to show how many people I've been lucky enough to meet..
 Kanade: I hope I can bring these experiences and feelings through in my music, too.
 Kanade: Yeah... To get closer to writing a song that can save someone.
 Kanade: I won't ever give up.
-(White cut)
+(White transition)

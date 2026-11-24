@@ -2,26 +2,22 @@ nightcode_01_10 The Missing Sound
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
 
 Kanade: No... This doesn't sound right at all.
 Kanade: This isn't good enough.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ??? (Mafuyu): But it wasn't enough. I wasn't able to find anything.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I can't save anyone...
-(Black cut)
+(Black transition)
 
 [One week later]
 
@@ -62,7 +58,7 @@ Kanade: <.....>
 Mizuki: <I don't think she's even listening any more.>
 Mizuki: <Talking about this now isn't going to get us anywhere. Let's leave it for later.>
 Ena: <You're probably right.>
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: (No, the guitar tone is too thin here. But it needs to sound subtle.)
 Kanade: (Huh? What's going on? I'm starting to feel dizzy even though I'm sitting down...)
@@ -72,17 +68,13 @@ Kanade: But I don't have time for that.
 Kanade: Huh? A new song from OWN?
 Kanade: .....
 Kanade: (It feels like being at the bottom of a black ocean, devoid of all light...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ??? (Mafuyu): K, the first time I heard your songs, I felt like they had saved me. A little bit.
 ??? (Mafuyu): But it wasn't enough. I wasn't able to find anything.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I guess in the end, she only thought she'd been saved.
 Kanade: And assuming I'd been able to save Yuki with my music made me feel as if I'd been saved too.
@@ -90,26 +82,20 @@ Kanade: Even so, I have to keep going. If I can't write songs that are able to s
 Kanade: I...
 Kanade: But...
 Kanade: Is there really any reason for me to keep going?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade's Father: You have such a gift, Kanade.
 Kanade's Father: You've really been blessed by music.
-(White cut)
+(White transition)
 Kanade's Father: Kanade, make sure you keep creating your own music.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: Dad...
 Kanade: I don't think I can keep going...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Elementary School Kanade (Kanade): Dad, this is my song! I made it on the computer!
 Kanade's Father: All by yourself? That's amazing! Can I hear it?
@@ -121,7 +107,7 @@ Elementary School Kanade (Kanade): That's why I want to write songs that make pe
 Kanade's Father: Kanade...
 Kanade's Father: I see. It makes me happy to hear that. I'll have to work even harder to write more songs that will make people happy too, then!
 Elementary School Kanade (Kanade): I'll make sure to work really hard so I can be as good of a song writer as you when I grow up!
-(Black cut)
+(Black transition)
 Kanade's Father: I see. Yes. Something more suited to today's music?
 Kanade's Father: I understand. Thank you for the feedback. Okay, goodbye.
 Kanade's Father: Too outdated, huh?
@@ -132,7 +118,7 @@ Young Kanade (Kanade): I messed up the cooking again, though, so today's just so
 Kanade's Father: That's more than enough, Kanade, thanks. Dad's got to eat if he's going to keep working hard. 
 Kanade's Father: I'd really like to enter this next song into a competition for a commercial spot. This could be my big break as a composer.
 Young Kanade (Kanade): That sounds great. I'll be cheering for you. Eat up so you can work hard, then.
-(Black cut)
+(Black transition)
 Kanade's Father: This is no good.
 Kanade's Father: Why can't I think of anything? It just needs a little something more.
 Young Kanade (Kanade): Dad, dinner's ready.
@@ -147,4 +133,4 @@ Kanade's Father: That's not true. This is great, Kanade. But what made you think
 Young Kanade (Kanade): Huh? I just thought it might work a little better this way.
 Kanade's Father: You're incredible, Kanade...
 Young Kanade (Kanade): Dad?
-(Black cut)
+(Black transition)

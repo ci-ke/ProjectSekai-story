@@ -60,7 +60,7 @@ KAITO: ありがとう、寧々ちゃん。 とっても素敵なプレゼント
 寧々: （アロマキャンドル作り、 最初は不安なことも多かったけど……）
 寧々: （宵崎さんや望月さんと少し仲良くなれたし……、 それに——こうやってみんなが喜んでくれる顔も見れた）
 寧々: （……やっぱり、やってみて本当によかったな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -81,7 +81,7 @@ MEIKO: はあ……。仕方ないわね
 ミク (N25): ……ありがとう、まふゆ。 すごく嬉しい
 まふゆ: ……それなら、よかった
 瑞希: ……よ～し！ それじゃあ、順番にプレゼントしていこっか！
-(Black cut)
+(Black transition)
 リン: すごい……プレゼントがこんなにたくさん……
 ルカ: 瑞希のが、いろんな動物の形をしたクッキー、 絵名はロリポップ型のチョコレートだったわね
 瑞希: えっへん！　カワイくできてるでしょ？
@@ -130,16 +130,12 @@ MEIKO: さっきから黙っているけど、どうかしたの
 奏: ううん……わたしのほうこそ、ありがとう
 レン: え？
 奏: レンが、気づかせてくれたから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 奏: 一緒にアロマキャンドルを作ったこと—— わたしも、すごく楽しかったんだって
-(Black cut)
+(Black transition)

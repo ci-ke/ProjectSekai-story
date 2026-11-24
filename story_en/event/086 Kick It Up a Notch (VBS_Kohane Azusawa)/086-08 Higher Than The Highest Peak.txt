@@ -7,7 +7,7 @@
 Tatsuya: (Wow, Azusawa's beyond legit... Now I feel embarrassed about saying that she might repeat what she did during STAY GOLDEN.)
 Tatsuya: (Still, what an atmosphere...! We can't let what she created go to waste!)
 Tatsuya: We're not letting her hog all the glory! Let's hear it, you guys! Show us what you got!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Backstage]
@@ -22,7 +22,7 @@ An: ...
 An: Kohane! That was awesome...!
 An: Here, take this! You need to stay hydrated!
 Kohane: Oh, thanks. I really appreciate it...
-(Black cut)
+(Black transition)
 (Background change)
 Tatsuya: Next is...this guy!
 Kotaro: (...?! Whoa, this place...! It's totally on fire!)
@@ -32,7 +32,7 @@ Kotaro: I know you guys can do better than that! Let's have some fun! It's time 
 Kotaro: ♪——————! ————!!
 Audience: When did Kotaro get this good?! I really love the way he sings! It's so easy to dance to!
 Kotaro: (I'm projecting my voice way better than usual! The crowd's totally into it and I'm nailing every word of the lyrics! This is amazing!)
-(Black cut)
+(Black transition)
 Kotaro: Tono! Take it away!
 Arata: (Haha. What a show. I've never experienced this kind of atmosphere before. It's so hot that just breathing is making my throat dry out.)
 Arata: (Still, I can't get what Kohane did out of my mind. I've been desperately wanting to sing after witnessing that...)
@@ -41,7 +41,7 @@ Arata: You can all still keep going, right? Let's keep this energy up!
 Arata: ♪————!! ————!! ————!!
 Audience: Whoa! Tono's gotten better too!
 Audience: Wait, has he always been this aggressive? His presence is almost overwhelming...!
-(Black cut)
+(Black transition)
 (Background change)
 Toya: Azusawa, we're up soon. How do you feel?
 Kohane: I'm all warmed up and ready to sing whenever!
@@ -89,18 +89,14 @@ Audience: This event's totally off the hook...!
 Audience: Yeah! Everyone has been so good!
 Owner of Crawl Green: (This event... It might actually be able to match RADder's...!)
 Owner of Crawl Green: (Also, that kid... He's come a long way to be able to put on something like this.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Owner of Crawl Green: When RADder debuted... When RAD WEEKEND happened...and became the stuff of legends...
 Owner of Crawl Green: I've become convinced that I'll never get to see an event like that again.
 An's Father: Actually, you may be in for a bit of a surprise...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Owner of Crawl Green: I think you were right, Ken...
 Taiga & An's Father: ...
@@ -110,26 +106,18 @@ An's Father: If anyone's going to surpass what happened that night, I'd have to 
 Taiga: ...
 Taiga: (I met that girl for the first time after she performed at STAY GOLDEN. I saw a tiny part of Nagi in her, but it was fragmented and incomplete...)
 Taiga: (Which caught my attention. This all began with me being curious.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: I have a feeling that the next generation of singers is going to help keep our dream alive...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Taiga: The next generation, huh...?
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Taiga: (Hah... I guess a part of me felt the same way as Nagi...)
 Taiga: (But...)
 Taiga: (Not all of me...)
@@ -142,7 +130,7 @@ Taiga: You know this all too well...
 Taiga: I don't like getting involved while not being able to fully commit myself. And there's one last thing that I need to do now.
 Taiga: So, I'm going to get that out of the way and return to what I was doing.
 An's Father: I see.
-(Black cut)
+(Black transition)
 (Background change)
 Akito: Huff... Huff...
 Kotaro: Wow, I'm parched...! I don't think I can even walk!
@@ -153,13 +141,13 @@ Toya: And we definitely have Azusawa to thank for that...
 Kohane: Huff... Huff... Huff...
 Akito: She seems the most exhausted out of all of us. But I guess she should be since she sang the most.
 An: You did so awesome, Kohane...!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000166/bg_s000166.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000166/bg_s000166.webp)
 Kohane: Oh. Hehe. An...
 Kohane: I did it... And it's because you guys all said that you believed in me.
 Kohane: Also, An, you telling me that you wanted to hear me at my best especially helped...
 Kohane: I was pretty afraid of singing all by myself, but I'm so glad that I did... Thanks for believing in me, An!
-(White cut)
+(White transition)
 (Background change)
 An: ...
 Kohane: An? Is something wrong...?
@@ -174,19 +162,15 @@ Toya: It sounds like we may actually succeed...
 Akito: Yeah, we've definitely made some progress, but we can't let up here...
 Kohane: But that's really nice to hear... I hope we can keep up this momentum.
 Kohane: (Oh, also... I hope Taiga and An's dad enjoyed the show.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (I can't say if we were able to surpass the first event Taiga and his team put on...)
 Kohane: (But for now, as long as everyone enjoyed our event...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -196,4 +180,4 @@ Kohane: (But for now, as long as everyone enjoyed our event...)
 Taiga: I only have a few days left before I leave.
 Taiga: Before that...
 Taiga: That girl needs to know. What was “most important” to us was nothing so cute.
-(Black cut)
+(Black transition)

@@ -59,10 +59,8 @@ Gacha phrase: まあ……すごいわね！
 雫: どういたしまして
 雫: （——さっきも感じたけれど、なんだか懐かしいわ）
 雫: （私も初めて自分の名前がグッズに入った時、 こんな風に——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [Cheerful＊Daysシアター]
@@ -79,10 +77,8 @@ Gacha phrase: まあ……すごいわね！
 リーダー: 他にも、『ふ』は間違えられやすかったりするの
 リーダー: ま、さすがにマネージャーさん達が チェックしてくれてると思うけど……。 念には念をって感じでね
 雫: なるほど……。 ありがとうございます、気をつけて見るようにします
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……あれ、雫ちゃん？ なんだかにっこにこだね
 愛莉: 本当ね。そんなにタオルのふわふわが気に入ったの？
@@ -97,7 +93,7 @@ Gacha phrase: まあ……すごいわね！
 雫: （あと１カ月後には、 このグッズがファンのみんなの手に渡るのね）
 雫: （みんな、喜んでくれるかしら？）
 雫: （ライブはもちろんだけど、 グッズも、いい物を届けられたら嬉しいわ）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -179,4 +175,4 @@ Gacha phrase: まあ……すごいわね！
 雫: （それがきっと、MORE MORE JUMP！なのね）
 斎藤: あ、MORE MORE JUMP！の皆さんも、 きっとお腹すいてますよね。 サンドイッチ、皆さんも食べてくださいね！
 雫: ええ、ありがとうございます
-(Black cut)
+(Black transition)

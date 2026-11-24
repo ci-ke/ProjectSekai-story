@@ -39,7 +39,7 @@ Ena: You could also go a little further by considering the height from which you
 Rin (N25): There's so much to think about...
 Ena: This is like the bare minimum. Anyway, if you don't hurry, I'm gonna find the better spot.
 Rin (N25): No, that's not happening...
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -53,11 +53,11 @@ Rin (N25): ...
 Rin (N25): Miku, Len, wanna try drawing something...?
 Miku (N25): Us?
 Len (N25): Wow... Thanks, Rin!
-(Black cut)
+(Black transition)
 Rin (N25): ...
 Luka (N25): ...
 Rin (N25): Luka, move...
-(Black cut)
+(Black transition)
 Rin (N25): Phew... My second one's finished.
 Rin (N25): It looks a lot better than the one I drew with Ena.
 Rin (N25): Still, the things up close and far away look kinda funny...
@@ -67,7 +67,7 @@ Rin (N25): Is that why she always looks so serious or like she's in pain...?
 Rin (N25): (Ena cares a lot more about what she draws compared to me.)
 Rin (N25): (But I think I understand how she feels a little better now...)
 Rin (N25): I'll try drawing a third one.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -107,16 +107,16 @@ Ena: Okay. I'll teach you what I can.
 Mizuki: Then, Ena, you help Rin. I'll lend Miku and Len a hand.
 Ena: You'd do that? Alright, I really appreciate it.
 Mizuki: Okay! Let's start coloring!
-(Black cut)
+(Black transition)
 Len (N25): Mizuki, how does this shade of blue look to you for the sky...?
 Mizuki: Oh, that looks good! It feels like a nice, warm sky in the spring.
 Miku (N25): Thank you for letting me borrow your phone, Mizuki. I'll try drawing this flower...
 Mizuki: Alright, lemme see.
-(Black cut)
+(Black transition)
 Ena: Color where there's light hitting the object, but leave places where light's reflecting off blank... It's perfectly okay to leave certain spots white.
 Rin (N25): Where the light hits... Which spots are those exactly?
 Ena: For example, with the beams sticking out of the ground...
-(Black cut)
+(Black transition)
 Ena: Alright, we'll go on three. One, two, three!
 Len (N25): Oh, Miku, you have a flower floating in your lake...!
 Rin (N25): Your sky is blue and has clouds in it, Len.
@@ -130,4 +130,4 @@ Rin (N25): Really...?
 Rin (N25): Ena...
 Rin (N25): That was fun... Thanks.
 Ena: You're welcome.
-(Black cut)
+(Black transition)

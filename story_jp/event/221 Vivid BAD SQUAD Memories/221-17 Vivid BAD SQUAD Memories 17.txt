@@ -3,7 +3,7 @@
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 鏡音レン, KAITO)
 
 : そして４人は、 再びチームを組んだ謙と大河のイベントを見るため アメリカを訪れて——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ニューヨーク音楽院　裏通り]
@@ -19,12 +19,12 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 彰人: ああ、そうじゃなくてジャンルのことだ
 彰人: クラシックとかポップスとか…… あとたまに民族音楽っぽいのも聞こえてくるだろ
 冬弥: 楽器もチェロにトランペット、 ギター、アコーディオン……あっちはハープか
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000398/bg_s000398.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000398/bg_s000398.webp)
 冬弥: （足を進める度に、いろいろな音が聞こえてくる）
 冬弥: （……父さんが、こういう場所に通っていたというのは意外だな）
 冬弥: （クラシック一筋だから、他の音楽には あまり興味がないと思いこんでしまっていたが……）
-(White cut)
+(White transition)
 (Background change)
 ミク (VBS): 『あのおじいさんのギター、かっこいいね』
 レン (VBS): 『うん。なんか、ギターが語りかけてくるみたいだ』
@@ -34,28 +34,24 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 冬弥: （楽しそう、か）
 冬弥: （目に映る景色も、演奏の内容も違う）
 冬弥: （しかし、この通りは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……少し、ビビッドストリートに似ているな
-(Black cut)
+(Black transition)
 (Background change)
 : アメリカで、偶然にも父の学生時代のことを知った冬弥は——
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: ……アメリカに来てわかった。 俺には、知らないことがたくさんある
 冬弥: 子供の頃に経験できなかったことだけではなく——
 冬弥: ずっと憧れていた父さんの演奏…… その裏にあるものすら、 本当の意味では理解できていなかった
 冬弥: だから、知りたい。 セッションを通して父さんが何を感じたのか……
 冬弥: どんな風に、音楽と向き合っていたのかを
-(Black cut)
+(Black transition)
 冬弥: ♪——————！
 冬弥: （……不思議だ）
 冬弥: （だんだん、頭の中が白くなってくる）
@@ -63,15 +59,15 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 冬弥: （扉が、開いていく）
 杏・こはね: 『————～～♪ 　——————♪』
 冬弥・彰人: 『♪——————！！』
-(Black cut)
+(Black transition)
 冬弥: （父さんも兄さんも、そしてここにいるみんなも。 『音楽』という道の先で見つけたいものは、 同じなのかもしれない）
 冬弥: （それに音楽は、きっと俺が考えていた以上に自由だ）
 冬弥: （だから……クラシックやストリートだけじゃなく、 他の音楽の良さも学んで、取り入れていこう）
 冬弥: （きっとそれが、俺の目指したいストリート音楽だから）
-(Black cut)
+(Black transition)
 (Background change)
 : 謙達のイベント当日。 ホテルを出発した４人の耳に、歌声が聞こえてくる
-(Black cut)
+(Black transition)
 (Background change)
 観客達: 『——おい、いたぞ！　あそこだ！』
 観客達: 『本当だ。まさか今日あいつらの—— illysの歌が聴けるなんてな……！』
@@ -87,13 +83,13 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 観客達: 『やっぱ息合ってるね！　さすが、姉妹だな〜！』
 観客達: 『ばーか。姉妹ってだけで、あんな芸当できるわけねえだろ。 エレナもレベッカも……とんでもねえバケモンなんだよ』
 彰人: ……すげえな
-(Black cut)
+(Black transition)
 (Background change)
 エレナ: 『ねえ、キミ！』
 こはね: 『え、私のことですか……？』
 エレナ: 『そうそう！ 朝、路上で歌ってた子だよね？』
 エレナ: 『——今から、アタシ達と一緒に歌わない？』
-(Black cut)
+(Black transition)
 (Background change)
 エレナ・レベッカ: 『♪————————！　♪————————！』
 こはね: （ふたりとも、すっごく楽しそう……！）
@@ -108,7 +104,7 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 杏: いけ、こはね〜〜〜！
 エレナ・レベッカ: 『♪————————！　♪————————！』
 こはね: ♪————————————————！
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -125,4 +121,4 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 レベッカ: 今度は、チームのみんなも一緒にさ
 こはね: はい！
 エレナ: それじゃ、今日はありがと！　またね！
-(Black cut)
+(Black transition)

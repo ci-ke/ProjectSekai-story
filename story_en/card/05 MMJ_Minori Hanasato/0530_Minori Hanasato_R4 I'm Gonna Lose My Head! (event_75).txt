@@ -55,7 +55,7 @@ Minori: Oh, yeah! If only opening my mouth meant cookies would magically fly int
 Shiho: What was that? That wasn't very wolflike, so take two.
 Shiho: Try to imagine being really hungry... You've got to look like you're famished or no cookie.
 Minori: What?! Shiho, that's mean!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -80,15 +80,11 @@ Honami: This may be just me, but... If I were to become scared and run off somew
 Minori: Oh, that makes a lot of sense! Hmm... One of the neighboring classrooms...
 Honami: And if I knew that someone there would help me, I'd be more inclined to seek them out.
 Minori: Someone who'd help...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: That's it!!!
 Honami: Huh...?!
@@ -97,7 +93,7 @@ Minori: You made a light bulb go off in my head, Honami! Someone from a neighbor
 Minori: I've gotta go! Thanks again, you two!
 Emu: Good luck, Minori!
 Honami: And we'll let you know if we see them!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-C]
@@ -108,7 +104,7 @@ Minori: Let's see... Haruka should be...
 Haruka: I believe that's everything you have ordered. Please enjoy.
 Minori: There she is! Haruka...!!!
 Haruka: Minori...?
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: An came just a second ago, but left right after.
 Minori: Wait, why?!
@@ -118,19 +114,15 @@ Minori: Oh no... We need to let her know as soon as possible that this is all ju
 Minori: Haruka, how did you know Kohane's the one who's dressed as the wolf?
 Haruka: Hehe. Based on her voice. I tried to ask her what was going on...
 Haruka: But our customers also became pretty startled. Some had their little children with them, so I had to...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Haruka: Hey, Wolfie! I think you're in the wrong forest!
 Haruka: Shouldn't you be at Class 1-A? Are you here to advertise your haunted house? It's called “Little Red Riding Hood and the Young Goats' Slightly Scary Forest Adventure”, right?
 Kohane: Huh...?! Y-Yes!
 Kohane: Class 1-A is doing a haunted house! I-It's really fun, so we hope you'll stop by later!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: Th-That's amazing, Haruka! You're so good at thinking on your feet!
 Haruka: No, I actually need to thank Kohane for picking up on what I was doing so quickly.
@@ -152,4 +144,4 @@ Minori: M-M-M-Meow?! M-Meow?! (Wh-Wh-Wh-What's going on?!)
 Haruka: Hehe. We decided against talking like cats because some people in class felt too embarrassed by it, but I hope that made you feel a little better.
 Minori: Better?! I thought my heart was going to burst out of my chest!!!
 Minori: Alright, Haruka! In the name of your meow, I vow to find Kohane and An!
-(Black cut)
+(Black transition)

@@ -26,7 +26,7 @@ Honami: I didn't know they had something like that. That's kind of romantic.
 Saki: Hehe, isn't it?!
 Ichika: Okay, then let's ring it. Which way do we go?
 Saki: It's right above the Wisdom Tree where my brother's doing his show! C'mon, let's go!
-(Black cut)
+(Black transition)
 Saki: No way... The line for the bell is crazy long!
 Saki: With this many people ahead of us, we'll be waiting forever...
 Ichika: Come on, Saki, let's line up too.
@@ -38,7 +38,7 @@ Shiho: ... Are you sure you don't mind?
 Saki: Yeah. But once Tsukasa and his troupe's show and MORE MORE JUMP!'s event are over, let's come back and give it another go♪
 Ichika: Sounds good. So, how about we go ride one of the attractions?
 Saki: Yeah!
-(Black cut)
+(Black transition)
 Honami: *Sigh* The Sanrio Character Boat Ride was so fun!
 Ichika: Yeah. Kitty and her friends baking sweets and partying together was adorable.
 Saki: When the white and brown bunnies came out, Shiho's eyes lit right up!
@@ -61,7 +61,7 @@ Shiho: Oh yeah, that's right...
 Honami: You were always sniffing it.
 Saki: Hehe, of course I was! It made me feel like I was having pudding.
 Saki: Alright, let's go meet Purin♪
-(Black cut)
+(Black transition)
 Saki: Whoa... Waaah! Purin's so cuuute!
 Saki: Look how his belly goes pom pom! Hehehe, lemme go pom pom too♪
 Honami: Hehe. I think he likes her imitation.
@@ -76,7 +76,7 @@ Saki: Okay! Thank you!
 Saki: Hehehe... Thanks for the picture, Purin! Let's meet again sometime!
 Ichika: Whoa, the time really flew by. We should head over to the stage for Tsukasa and his troupe's show soon.
 Saki: Okay! Can't wait to see them perform♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -90,7 +90,7 @@ Saki: We didn't get to ring Hello Kitty's Bell of Happiness... But next time, we
 Saki: I wanna see Purin again after all!
 Saki: Oh... That's right! Rin wanted to see Puroland too.
 Saki: I should go show her the pictures from today!
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -99,7 +99,7 @@ Saki: Hey! Rin!
 Saki: Maybe she went to bed already? Okay, I'll try again tomor—
 Saki: Hm? What was that bright light just now?
 Saki: Wha—?!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -133,17 +133,13 @@ Pompompurin: Oh! I remember! She said this is a SEKAI formed from a fragment of 
 Shiho: So then, this place is a SEKAI too?
 Pompompurin: Probably! She said it came about because of all the people who thought things like “Puroland was so fun!” and “I wanna go back again!”
 Saki: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Saki: We didn't get to ring Hello Kitty's Bell of Happiness... But next time, we're gonna ring that bell for sure! And not at a satellite park, but the actual Sanrio Puroland.
 Saki: I wanna see Purin again after all!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Maybe... We were brought here because I thought about wanting to see Purin again?
 Pompompurin: Huh? You wanted to see me again, Saki?
@@ -166,26 +162,26 @@ Ichika: Don't worry about it. We were all sad we didn't get to ring the bell bef
 Pompompurin: When you ring the Bell of Happiness, you become best buds for life! I wanna ring it with you guys too!
 Saki: Hehehe, thanks everyone!
 Saki: Then it's off to find the bell we go!
-(Black cut)
+(Black transition)
 Pompompurin: *Gasp*
 Pompompurin: Look! Look! The flowers growing here are sooo pretty!
 Ichika: Oh, wow. I've never seen this kind before. Maybe they only grow around here.
 Saki: If it's a flower Ichi's never heard of, then that must be why! Ooh ooh! Let's come up with a name for it!
 Pompompurin: Wow, that sounds fun! We should name it something yummy!
-(Black cut)
+(Black transition)
 Pompompurin: Teehee... We've been walking for a while, so my tummy's getting rumbly!
 Saki: Mine too! Oh! Over there. The fruits on that tree look like apples, don't they?
 Pompompurin: They do! *Sniff* They're so sweet smelling. Maybe I'll have a little taste.
 Shiho: ... You sure that's a good idea?
 Pompompurin: *Munch* Nom nom nom! So tasty!
-(Black cut)
+(Black transition)
 Pompompurin: *Yawn* Now that my tummy's full, I'm feeling sleepy.
 Ichika: How about we take a break for a bit?
 Pompompurin: Yaaay♪ But there're no good napping spots here by the Wisdom Tree.
 Honami: Oh, well you could rest on my lap if you'd like.
 Pompompurin: Really? Thank yooou!
 Saki: Whaaat? That looks so comfy! Hona, lemme in on that!
-(Black cut)
+(Black transition)
 Saki: We've climbed pretty far up the Wisdom Tree, but still no sight of the bell, huh?
 Pompompurin: Hmmm. In Puroland the bell would be right around here, but...
 Honami: Oh! Look everyone!
@@ -204,4 +200,4 @@ Saki: I'll treasure the memories we made today forever!
 Pompompurin: Me too, me too!
 Pompompurin: Let's be friends forever and ever!
 Saki: Yeah!
-(Black cut)
+(Black transition)

@@ -8,23 +8,19 @@ nightcode_01_12 ただひとつの歌
 奏: （……お父さん……わたし、頑張ったよ……）
 奏: （でも、わたしの音楽じゃ、誰も救えなかった……）
 奏: （お父さんを苦しめて……雪も救えなくて、 それでもまだ、わたしは作り続けなきゃいけないの……？）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ？？？ (まふゆ): 誰よりも消えたがってるくせに
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: ……雪
 奏: だから雪も、あそこにいたんだね
 奏: 静かで冷たい……あのセカイに
 奏: ……わたしも
 奏: もう、いいよね
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -32,7 +28,7 @@ nightcode_01_12 ただひとつの歌
 奏: （……何もない……）
 奏: （……地面、硬いけど、冷たくない）
 奏: （このまま……目を閉じて、ここにいれば……）
-(Black cut)
+(Black transition)
 (Background change)
 奏: （楽になれる……かな……）
 奏: …………？
@@ -40,7 +36,7 @@ nightcode_01_12 ただひとつの歌
 奏: （これは……ミクの歌声……？ それに、この曲……わたしが昔作った…………？）
 奏: どこから、聴こえてくるの……？
 ミク (N25): ……奏？
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……ミク……
 ミク (N25): また、来たんだね。 あの子を、見つけに来てくれたの？
@@ -58,15 +54,11 @@ nightcode_01_12 ただひとつの歌
 ミク (N25): だから……奏の作った曲は、 あの子の想いに届いていたんじゃないかな
 奏: 届いて……？
 奏: でも……でも！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ？？？ (まふゆ): でも……それじゃ足りなかった。 見つけられなかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 奏: でも、雪を救えなかった！
 奏: ……わたしの曲は……足りてなかった……！ 届いてたって、意味がなかった……！
 ミク (N25): 奏……
@@ -94,7 +86,7 @@ nightcode_01_12 ただひとつの歌
 奏: もし……そう、なら……
 奏: ……わたしは……わたしは、作らなくちゃ
 奏: 今度こそちゃんと——雪を、救わなくちゃ
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -106,4 +98,4 @@ nightcode_01_12 ただひとつの歌
 まふゆ: 私は…………本当の、私は……どこ……？
 まふゆ: …………
 まふゆ: いつから、見つからなくなったんだろう……
-(Black cut)
+(Black transition)

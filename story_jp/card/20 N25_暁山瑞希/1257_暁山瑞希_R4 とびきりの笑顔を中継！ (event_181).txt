@@ -51,22 +51,18 @@ Gacha phrase: どう？線香花火！
 瑞希: あははっ
 瑞希: （……楽しいな。ホント、来てよかった）
 瑞希: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （ニーゴのみんなとも花火できたら、もっと楽しかっただろうな）
 瑞希: （あ、そうだ……）
 瑞希: （みんな遅くまで作業してると思うし、あとで連絡してみよう。 少しだけでも花火、一緒に見れたらいいな……）
 杏: 瑞希ー！ まだ花火残ってるから、一緒にやろうよ！
 瑞希: あ、うん。今行くよー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -124,4 +120,4 @@ Gacha phrase: どう？線香花火！
 瑞希: ふふ、楽しみにしてて！
 瑞希: （島で思いっきり遊んだのも楽しかったけど——）
 瑞希: （みんなとも、たくさん思い出作っていきたいな）
-(Black cut)
+(Black transition)

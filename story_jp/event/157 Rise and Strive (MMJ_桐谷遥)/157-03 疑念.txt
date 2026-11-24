@@ -29,7 +29,7 @@
 遥: まだ本決定ではないみたいだけど…… 今日の打ち合わせ終わりに聞いてみてもいいかもね
 遥: そのためにも、まずは目の前の打ち合わせをしっかりやろう。 見てくれる人に、希望を届けるために！
 みのり・愛莉・雫: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -75,7 +75,7 @@
 遥: （たしかに、まだ本決定ではなかったけど、 中野さんはかなり前向きに検討してくれてるみたいだった……）
 遥: （やっぱり、何か引っかかる）
 遥: （……せっかくテレビ局まで来たんだし、 知り合いのスタッフの方に、少し話を聞いてみようかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -105,15 +105,11 @@
 テレビ局スタッフの声: まあ、仕方ないですよ。 正直、この業界じゃよくあることですし……
 テレビ局スタッフの声: 何より、柊さんからあんなに熱心に売り込まれちゃねえ
 遥: え……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: …………柊、さん……？
-(Black cut)
+(Black transition)

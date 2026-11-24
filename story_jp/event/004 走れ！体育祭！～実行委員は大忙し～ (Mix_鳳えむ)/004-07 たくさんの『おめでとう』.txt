@@ -10,15 +10,15 @@
 遥: （鳳さん、すごいな。 キラキラしてて、まるで——）
 えむの声 (えむ): 遥ちゃ～～～ん！！！！
 遥: えっ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000028/bg_a000028.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000028/bg_a000028.webp)
 えむ: 遥ちゃんっ！ やったよ、あたし達、１位だよー！
 遥: うん……！　ありがとう、鳳さん！ 鳳さんの最後の走り、本当にすごくて……
 えむ: えへへ～♪　 でもでも！　あたしが１位でゴールできたのは、 遥ちゃんや、みーんなのおかげだよっ♪
 咲希: はるかちゃん、すごかったね！ アタシ感動しちゃった！
 一歌: うん、本当にかっこよかった
 遥: 天馬さん、星乃さん……
-(White cut)
+(White transition)
 (Background change)
 クラスメイト: 桐谷さん！ 代わりに走ってくれてありがとう
 遥: あ……ケガはもう大丈夫なの？
@@ -40,7 +40,7 @@
 えむ: え？
 穂波: １位おめでとう、えむちゃん！ すごく素敵だったよ！
 えむ: えへへ、ありがとう、穂波ちゃん！
-(Black cut)
+(Black transition)
 ミク (WxS): 『えむちゃーん！ お疲れさま！』
 えむ: ミクちゃん！　リレーの時、応援してくれてたよね？ フレーフレーって
 ミク (WxS): 『うん！ ちゃんとミクの声、聞こえてたんだねっ！』
@@ -64,4 +64,4 @@
 ミク (WxS): 『ふふっ、じゃあミクはそろそろ帰るね！ 今日は呼んでくれてありがとう♪』
 ミク (WxS): 『またね、えむちゃん！』
 えむ: うん、またセカイで会おうねっ！
-(Black cut)
+(Black transition)

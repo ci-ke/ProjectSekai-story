@@ -12,7 +12,7 @@ Skill name: 一緒に楽しもうね！
 ミク: 今日は来てくれてありがとう！ 最後まで一緒に、楽しもうね！
 ミク: それじゃあ……ミュージック、スタート！
 ミク: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　1年Ｃ組]
@@ -23,22 +23,22 @@ Skill name: 一緒に楽しもうね！
 一歌: 期間限定だけど、ちょっとだけ見られるんだよ
 咲希: へぇ、続き一緒に見てもいい？
 一歌: もちろん
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ――――♪　――――♪
 ミク: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 咲希: すごいよね……本当にミクちゃんが ステージの上に立ってるみたい
 咲希: ３Dホログラムだなんて全然信じられないよ
 一歌: うん。動画で見ててもそう思うんだから 実際にステージ見に行ったらすごいんだろうな
 咲希: すっごい盛り上がってるもんね いいなぁ、楽しそう
-(Black cut)
+(Black transition)
 (Background change)
 ミク: まだまだ行くよー！
 ミク: 次の曲は……これだよ！
 ミク: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 咲希: わぁ！　この曲、アタシも知ってるよ
 咲希: ダンスかわいいね！ 衣装と髪がひらひらして……！
@@ -61,12 +61,12 @@ Skill name: 一緒に楽しもうね！
 一歌: それはあるかもね
 咲希: だよね！　いいなぁ、いつかみんなで ミクちゃんに会いに行きたい！
 一歌: そうだね
-(Black cut)
+(Black transition)
 (Background change)
 ミク: みんな、今日はありがとう
 ミク: 楽しんでもらえたかな？
 ミク: またみんなに歌を届けられる日を 楽しみにしてるね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -79,7 +79,7 @@ Skill name: 一緒に楽しもうね！
 奏: （……ここは、外した方がいいかな。 こっちのエフェクトを入れて……）
 奏: ……ん？
 奏: （動画？　雪からだ……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [バーチャル・シンガー　ステージ]
@@ -87,7 +87,7 @@ Skill name: 一緒に楽しもうね！
 ミク: 会場のみんな、こんにちはー！
 ミク: 今日は来てくれてありがとう！ 最後まで一緒に、楽しもうね！
 ミク: それじゃあ……ミュージック、スタート！
-(Black cut)
+(Black transition)
 (Background change)
 奏: （これ……初音ミクのイベントの動画……？）
 【K】 (奏): 『雪、これは？』
@@ -105,7 +105,7 @@ Skill name: 一緒に楽しもうね！
 【雪】 (まふゆ): 『つくった曲を、 ミクに歌ってもらおうって思ったことはないの？』
 【K】 (奏): 『……考えたことはあるよ。 今でも、選択肢のひとつには入ってる』
 【K】 (奏): 『たとえば……ちょっと、ここ聞いてみて』
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ――――♪　――――♪
 【K】 (奏): 『……このあたり』
@@ -114,7 +114,7 @@ Skill name: 一緒に楽しもうね！
 ミク: ――――♪　――――♪
 【K】 (奏): 『これだけ早口になっても、ちゃんと歌詞を聞き取れる』
 【雪】 (まふゆ): 『そうだね』
-(Black cut)
+(Black transition)
 (Background change)
 【K】 (奏): 『音域も広いし、声質も多彩。吐息もリアル』
 【K】 (奏): 『ミクにしか出来ない表現はたくさんある』
@@ -134,8 +134,8 @@ Skill name: 一緒に楽しもうね！
 【K】 (奏): 『……うん。そうする……』
 (Background change)
 奏: ミク、か……
-(Black cut)
+(Black transition)
 (Background change)
 ミク: みんな、聴いてくれてありがとう！
 ミク: これからもたくさん歌うから、 みんな、よろしくね♪
-(Black cut)
+(Black transition)

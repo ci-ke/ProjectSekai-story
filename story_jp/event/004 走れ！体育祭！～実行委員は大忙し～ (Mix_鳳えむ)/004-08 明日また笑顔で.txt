@@ -42,16 +42,12 @@
 えむ: だから、今日の楽しい時間は終わっちゃうけど——
 えむ: あたしは明日もショーをやるよ！ みんなが笑顔になれるようにっ！
 遥: あ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 遥: ふふっ
 遥: 鳳さんって、やっぱりちょっと似てるね
 えむ: え？
@@ -60,7 +56,7 @@
 遥: 明日からまた——希望を届けるんだから
 遥: 立つ場所は違うけど、 これからもお互い頑張ろうね、鳳さん
 えむ: うん！！　明日もがんばろーっ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -90,4 +86,4 @@
 遥: ……笑顔にさせてもらった分、 私も、みんなに届けなくちゃね
 みのり: え？
 遥: なんでもないよ。 行こう、みのり！
-(White cut)
+(White transition)

@@ -43,38 +43,34 @@
 絵名: （………………冗談じゃ、ない……？）
 絵名: （え…………。え…………？）
 絵名: （……じゃあ——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （じゃあ——）
 絵名: （話したい、ことって——）
 男子生徒A: あ……！！
 絵名: っ…………！？
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000363/bg_s000363.webp)
-(Black cut)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000363/bg_s000363.webp)
+(Black transition)
 (Background change)
 瑞希: …………あ…………
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000359/bg_s000359.webp)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000066/bg_a000066.webp)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000360/bg_s000360.webp)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000072/bg_a000072.webp)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000361/bg_s000361.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000359/bg_s000359.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000066/bg_a000066.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000360/bg_s000360.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000072/bg_a000072.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000361/bg_s000361.webp)
 (Background change)
 瑞希: …………あ……あ…………
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000363/bg_s000363.webp)
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000362/bg_s000362.webp)
-(Black cut)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000363/bg_s000363.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000362/bg_s000362.webp)
+(Black transition)
 (Background change)
 絵名: …………っ！！
 絵名: 待って——瑞希！！
-(Black cut)
+(Black transition)

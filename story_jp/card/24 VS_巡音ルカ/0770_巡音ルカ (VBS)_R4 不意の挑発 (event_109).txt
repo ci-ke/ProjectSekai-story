@@ -53,7 +53,7 @@ MEIKO (VBS): じゃあ、リンに忘れ物を届けたあとは、 いつもミ
 ルカ (VBS): いいね～！　行こ行こ！
 ルカ (VBS): それじゃ、出発進行！
 MEIKO (VBS): はいはい
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -107,17 +107,13 @@ MEIKO (VBS): ええ、まったくね……
 ルカ (VBS): 彰人くんと一対一で歌ったんだ！ やっぱ言葉で説明するより、歌ったほうがやりやすいと思って
 ミク (VBS): 一対一……それって、勝負ってこと？
 ルカ (VBS): 勝負？ ううん、特にそういうわけじゃ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ルカ (VBS): ん～じゃあ勝負ってことにしようよ！ それなら、ちょっとやる気が出るんじゃない？
-(White cut)
+(White transition)
 ルカ (VBS): これが私流なの！ あ、じゃあ勝負のジャッジはメイコ達にお願いしよっかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ルカ・MEIKO: 『あ』
 ルカ (VBS): ……そうじゃん！　そういえば私、 『勝負ってことにしようよ』って言ってた！！！
 MEIKO (VBS): あの時はルカが途中で止めたのよね。 ストップ！って
@@ -142,4 +138,4 @@ KAITO (VBS): あはは……
 ルカ (VBS): 私達の顔より大きいよ！？
 ルカ (VBS): 勝負の前にあれ食べに行こう、彰人くん！
 彰人: そうっすね。 ま、ここは共同戦線ってことで
-(Black cut)
+(Black transition)

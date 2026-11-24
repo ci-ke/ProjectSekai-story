@@ -12,7 +12,7 @@ Gacha phrase: This must be fate. Glad to be here.
 Ichika: Let's start with something simple. Honami, can you count us in.
 Honami: Here we go! One, two, three, four!
 MEIKO: (Good! They're all in sync. Their sound is getting much better too.)
-(Black cut)
+(Black transition)
 Shiho: Let's split up for individual practice now. Would you be okay with that, MEIKO?
 MEIKO: Sure, of course.
 Saki: Alright! Time to work on that part that was bugging me...!
@@ -59,7 +59,7 @@ Honami: But I think that also means there are a lot of other things we can learn
 MEIKO: Hehe. I think so too. The hesitation you're talking about really might not be a bad thing either, Honami.
 Honami: Thank you! I'll try not to worry about it so much.
 MEIKO: Okay, I'm glad that's sorted out. Good luck, Honami.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -74,7 +74,7 @@ Miku (Ln): What were you and Honami talking about, MEIKO?
 MEIKO: Oh, just some stuff about drumming!
 MEIKO: Speaking of drumming, I can still keep going. How about a session with just us three?
 Luka: Hehe. Sure, of course.
-(Black cut)
+(Black transition)
 MEIKO: Wow! That was fun!
 MEIKO: It's so nice to know I can go all out when we're playing together like this.
 MEIKO: You handle my improvisations so well too. It feels great to play each note!
@@ -115,4 +115,4 @@ MEIKO: Hehe. Okay, I can do that too!
 MEIKO: I only just met them, but I'm already looking forward to what they have in store for us!
 Luka: Hehe. Join the club.
 MEIKO: Gladly!
-(Black cut)
+(Black transition)

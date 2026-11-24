@@ -11,10 +11,8 @@ Gacha phrase: I've never given it so much...
 
 Kohane: (*Sigh* Taiga had me do a lot again during practice...)
 Kohane: (When he asked me to do animal impressions, I didn't expect to get so serious about it...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kohane: Grrr... Woof!
 Taiga: No, don't try to express yourself using words. Remember, humans and animals produce sounds in very different ways...
 Kohane: R-Right. Uh...
@@ -24,15 +22,13 @@ Kohane: GRRR... WOOF!
 Taiga: Hey, that was pretty good. Alright, now try doing an elephant.
 Kohane: A-An elephant?!
 Taiga: Tricky, right? So, how are you going to tackle this one?
-(Black cut)
+(Black transition)
 Taiga: Okay... Why don't we call it here for today?
 Taiga: Oh, aren't you heading over to Ken's place after this? In that case, your homework will be to keep doing animal impressions until you get there.
 Kohane: What...?!
 Taiga: You can choose any animal you like. However, you need to speak as them, not just impersonate their sounds.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kohane: (Speak? As an animal...?)
 Kohane: (This is really embarrassing... But this is practice, so I need to keep trying!)
 Vivi: Meow.
@@ -68,7 +64,7 @@ An: So, I'm also gonna try my best to decipher what you're saying! Would you min
 Kohane: (An...!)
 Kohane: Meow! (Okay!)
 Kohane: (Thank you so much, An! I'll try my best too...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -86,7 +82,7 @@ Akito: Toya... You just want to make animal noises, don't you?
 Toya: Yes, that's a part of it.
 An: Yeah, let's give it a try! Kohane, I'll try copying an animal this time, so can you give me some pointers on how?
 Kohane: Okay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,33 +92,25 @@ Kohane: Okay!
 [Kamiyama Street]
 
 Kohane: Here it is... I got lost in these back alleys the first time I visited this area.
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Kohane: This seems like a good place for me to start for a stroll down memory lane.
 Kohane: So, I'll choose this for my first photo...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: Um, Taiga? Can I try taking photos again for practice?
 Kohane: When I sang at Crawl Green the other day, I finally began to understand why you took me around to all those different places.
 Kohane: So, I want to return to the places I went to the first time I came here as a way of revisiting those memories.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (When I wandered into this place for the first time, I felt so scared because of all the graffiti on the walls. I didn't even have the courage to ask for directions...)
 Kohane: (But, it's thanks to getting lost that time that I found Weekend Garage and met An.)
 Kohane: Oh, that turned out really well! I'm going to keep taking more.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -134,18 +122,14 @@ Kohane: (I was so nervous that time, but An started singing first and everyone b
 Kohane: This city's full of people who love music...
 Kohane: (After I began performing in events by myself to gain experience, more and more people began recognizing me.)
 Kohane: (Which seems to mean that they've been watching over me since I first came here...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: (All the people he and An helped me meet and make personal connections with... As well as Taiga himself and An's dad...)
 Kohane: (They all want to hear me sing, and I want to them to hear me sing.)
 Kohane: (This feeling. I can see how important it is when it comes to singing...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (As I move forward, I need to keep everything that I experienced and realized in mind as I sing...)
 Store Clerk: Hm? Well, if isn't Kohane. Are you all by yourself, today?
@@ -153,7 +137,7 @@ Kohane: Oh, um. Yes. I was taking some photos as a part of singing practice...
 Store Clerk: For singing practice...? Oh, the lady from the record store mentioned that to me in passing!
 Store Clerk: You seem to be quite the photographer. Would you mind taking some pictures of me?
 Kohane: Really? Thank you very much!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -191,4 +175,4 @@ An: Then, lemme get started!
 Kohane: Okay...!
 Kohane: (I was able to change after discovering Vivid Street and meeting An and all those other people.)
 Kohane: (And I want to keep making music with them.)
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@
 まふゆ: （頭の痛み、なかなか治まらないな）
 まふゆ: （明日の予備校の予習したかったけど、 今日は、本当に休んだほうがよさそう）
 まふゆ: ……帰ったら、薬だけ飲んで寝よう
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -43,7 +43,7 @@
 まふゆ: いろいろありがとう。お父さん、お母さん
 まふゆ: 勉強も受験も、頑張るね
 まふゆの父: ああ。今度の模試も、期待しているぞ
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -54,20 +54,16 @@
 まふゆ: ……早く薬飲んで、寝なきゃ。 みんなにも、今日は行けないって連絡入れて……
 まふゆ: …………
 まふゆ: ……少しだけ、奏の曲を聴こうかな
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ？？？: ……け、ほ。 おかあ、さ……
 ？？？: ……まふゆ
 ？？？: 早く、いつもの——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……ん……
 まふゆ: （……今のは、夢？ なんだったんだろう、あの光景……）
@@ -78,7 +74,7 @@
 まふゆ: （なんでだろう。あのアルバムの、小さい頃の写真。 あれを見たときの気持ち……。やっぱり、気になる）
 まふゆ: （胸が苦しい気がするけど……。 奏の曲を聴いた時と、同じような感じもする）
 まふゆ: （もうお母さんもお父さんも寝てるだろうし。 今なら、あのアルバムもゆっくり見れるかも）
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 朝比奈家　リビング)
 まふゆ: （ええと、たしか戸棚の奥って言ってたっけ……）
@@ -95,10 +91,10 @@
 まふゆ: ……うん。もう寝るよ
 まふゆ: おやすみなさい、お母さん。 アルバムは明日、部屋でゆっくり見るね
 まふゆの母: ええ。おやすみなさい、まふゆ
-(Black cut)
+(Black transition)
 (Background change)
 (Place: まふゆの部屋)
 まふゆ: （……はぁ。 アルバムは持ってこれたけど……）
 まふゆ: （ここにいると、ゆっくり考えるのが難しそう）
 まふゆ: （どこか、静かな場所……。 ……セカイに、行こうかな）
-(Black cut)
+(Black transition)

@@ -44,18 +44,14 @@
 奏: うん。食べ物とか、日用品を買いに来たんだ
 奏: 家の近くのスーパーでもよかったんだけど……。 少し遠出したほうが運動になるし、息抜きもできるかなって……
 瑞希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『……じゃあ、息抜きにちょっと 出かけてみるといいんじゃない？ 引きこもってると健康にも良くないしさ！』
 (Background change)
 奏: 『健康……たしかに、最近寒くてあんまり外に出てないし、 散歩とかしてみようかな』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （奏、まふゆのこと気づかって外に連れ出したのかな）
 瑞希: （せっかくのお正月なのに、 いろいろ悩んじゃうのはつらいもんね……）
@@ -63,18 +59,14 @@
 瑞希: （ボクにも、何かできないかな）
 瑞希: （まふゆの心がちょっとでも軽くなるような、何か……）
 瑞希: （——あ！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: あ……小物はシュシュだ！
 瑞希: 色は紫で大人っぽい感じだけど、 フリルがついててカワイイ～！
 瑞希: （これ、まふゆに似合いそう……！ 今度、つけてみてってお願いしてみよっと！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: そういえばさ、今日初売りですっごくいいもの ゲットしちゃったんだよね～
 まふゆ: いいもの……？
@@ -102,4 +94,4 @@
 瑞希: ちょっとお姉ちゃん、恥ずかしいって！ 奏、困っちゃってるじゃん
 瑞希の姉: え～？　やっぱ、姉として言っておかないとって思って！
 瑞希: そういうのいいよ、も～
-(Black cut)
+(Black transition)

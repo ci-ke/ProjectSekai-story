@@ -52,7 +52,7 @@
 アリサ: ——じゃ、言いたいことは言えたし、もう行くね
 雫: ええ。お互いに、全力を尽くしましょう
 みのり: （ふたりとも、本気でぶつかるつもりなんだ……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -91,19 +91,15 @@ KAITO (MMJ): 『コホン……それで、グランプリ初日はどうだっ�
 ルカ (MMJ): 『……そうよね。 みんな配信に慣れてるとはいえ、 今回はとても長時間の撮影だし……』
 ルカ (MMJ): 『こんなにたくさんのアイドルの中で注目してもらうのは、 すごく難しいわよね』
 みのり: うん……。 でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ひかりん: ぴかぴか号は、ひかりんがこの星に来る時に乗ってた おーっきな流れ星だよっ☆
-(White cut)
+(White transition)
 (Background change)
 アリサ: これは世間話じゃなくて、番組なんだし
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……他のみんなは、ちゃんとできてたんだ
 みのり: 周りと一緒に盛り上げたり、ぶつかったりしながら、 しっかり自分をアピールできてて……
@@ -135,4 +131,4 @@ KAITO (MMJ): 『たとえ失敗しちゃったとしても、 一生懸命頑張
 みのり: へっ？　あっ、は、はいっ！！
 遥: ふふ、そうだね。 せっかくみんなが来てくれたんだし、 感想も聞きながら、振り返って明日につなげていこう！
 みのり: ——はい！　ダメ出し、よろしくお願いしますっ！
-(Black cut)
+(Black transition)

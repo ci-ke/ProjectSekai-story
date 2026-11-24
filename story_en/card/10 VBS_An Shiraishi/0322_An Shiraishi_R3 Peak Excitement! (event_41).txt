@@ -14,7 +14,7 @@ An: Yeah! See you then!
 An: Hehe. An entire day with Kohane, Haruka and Minori...
 An: (How long's it been since I last saw Minori? The Fan Festival?)
 An: (And I haven't seen Haruka since her birthday. I can't wait!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -43,7 +43,7 @@ An: Aww, you figured it out? I thought I had you guys going there...
 An's Father: How would I not? You're my daughter.
 An's Father: Also, what happened to lending me a hand?
 An: Be right there.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -86,7 +86,7 @@ Toya: See you again after school.
 An: Yeah, see you guys later...
 An: Hmm... I'm happy but feel conflicted for some reason...
 Mizuki: Haha. Don't worry so much about it. Come on, let's get back to class.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -125,14 +125,12 @@ Mizuki: All during lunch? Haha. You must be dying to tell me!
 Mizuki: Alright, I'll be back soon! I really want to hear more about you too!
 An: Great, I'll be waiting!
 An: (Wow, it's already been a week since that day too...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 An: Look! The center of the fountain under Phenny's feet! It's like there's something there, but not. Can you see it?
 Kohane: Oh, you're right...! Was there a Phenny hiding there this whole time?
@@ -141,29 +139,23 @@ Kohane: Ours...?
 An: Yeah, it'll be our special spot.
 Kohane: *Gasp*...!
 Kohane: Okay...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (The way she smiled was so priceless.)
 An: (I want to be by her side and keep seeing that smile...)
 An: (I hope I can keep being her partner too.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: ————! ——————!!
 Kohane: ————! ————~~~!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 An: (I have to keep trying my best to stay her partner. No, probably even harder than ever...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -171,4 +163,4 @@ An: (I have to keep trying my best to stay her partner. No, probably even harder
 Kohane: Hi, An!
 An: (Let's go...!)
 An: Thanks for waiting, Kohane!
-(Black cut)
+(Black transition)

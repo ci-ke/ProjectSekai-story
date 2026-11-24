@@ -9,7 +9,7 @@ Shiho: Hm? A message... It's from Mom.
 Shiho: Let's see... She wants me to stop by the store?
 Shiho: She must've forgotten to get something for dinner. Oh well, what're you gonna do...
 Shiho: Well, I don't have any other errands, so I can get this done quickly and go home.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Supermarket]
@@ -33,7 +33,7 @@ Shiho: Um... Honey, miso and...
 An: Oh, those'll be on the shelves at the back, I think.
 An: This way! Follow me!
 Shiho: Huh? Uh, okay.
-(Black cut)
+(Black transition)
 Shiho: Phew... That's everything. Thanks a lot, Shiraishi.
 Shiho: But also, sorry. I know you're busy helping your dad.
 An: Don't worry about it! He told me I can take my time as long as I'm back before the bar opens.
@@ -45,15 +45,11 @@ Shiho: Well, I work at a live house, so I'm around it all the time.
 An: I see! I don't really know much about that stuff. I'm a singing specialist!
 Shiho: “Singing specialist”? What's that supposed to mean? Well, you are a really great singer in any case.
 Shiho: (Oh yeah. Singing...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: (Why was she singing so differently the two times I heard her?)
 Shiho: (Why, when the first time she was so incredibly powerful that my heart ached?)
@@ -71,7 +67,7 @@ An: Yeah! I bet it'll be more fun than going alone.
 Shiho: (I guess a quick visit won't hurt. Mom's not in that big of a hurry.)
 Shiho: Okay. Let's go then.
 An: Woohoo! Off we go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Flower Viewing Goldfish Exhibit]
@@ -83,7 +79,7 @@ Shiho: You're right. Now that I smell that, it really feels like a flower viewin
 An: I know what you mean! I was just thinking how nice it feels.
 An: And there are all these types of goldfish. Hey, let's take a look at that big tank in the middle!
 Shiho: Sure, let's go.
-(Black cut)
+(Black transition)
 Shiho: ... Wow. I wonder how many fish are in here.
 An: This tank has a lot of different ones too. Some of them even have cool patterns!
 An: Oh, Hinomori! Those fish there, look at them!
@@ -103,4 +99,4 @@ Shiho: My name is Shiho Hinomori. Pleased to meet you.
 Ena: Hinomori...?
 Ena: You...wouldn't be Shizuku's sister, would you?
 Shiho: Huh?
-(Black cut)
+(Black transition)

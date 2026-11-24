@@ -70,7 +70,7 @@ Skill name: 初めての招待
 遥: ふふ、バレちゃった
 一歌: しょうがない、頑張ってみようかな
 遥: うん。ファイトだよ、一歌
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -88,7 +88,7 @@ Skill name: 初めての招待
 愛莉: そうだったのね。 じゃあ、みのりはまた誘うとして——
 愛莉: 先約がなければ一緒にお昼食べない？
 遥: うん、いいよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -115,18 +115,14 @@ Skill name: 初めての招待
 愛莉: まあそもそも、 元の場所に戻ったって感じだものね……
 遥: あ……でも、少しだけ嬉しいことがあったの
 遥: 始業式の日、新しいクラスに行ったら、 前に単位制で同じクラスだったみんながね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 クラスメイトA: 遥、おかえり！
 クラスメイトB: おかえり、桐谷さん！
 遥: ——うん。ただいま
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: おかえり、か……
 遥: うん……
@@ -139,4 +135,4 @@ Skill name: 初めての招待
 愛莉: 当然じゃない。仲間なんだから
 雫: ええ。困ったことがあったら、いつでも言ってね
 遥: うん、そうする
-(Black cut)
+(Black transition)

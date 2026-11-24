@@ -11,7 +11,7 @@ Gacha phrase: There's something I really need to tell you.
 
 Haruka: Thank you for watching, everyone!
 Minori: Stay tuned for our next stream! Bye bye!
-(Black cut)
+(Black transition)
 Haruka: Phew. Nice work, everyone.
 Shizuku: That went very well.
 Shizuku: Hehe. Everybody really seemed to enjoy your No Blushing - Smiling Staring Contest! segment, Airi.
@@ -45,7 +45,7 @@ Haruka: Oh, I have the one photo album that she released too, so I'd like you al
 Airi: You have her photo album? That's great!
 Minori: I can't wait to see what you bring, Haruka!
 Haruka: I hope you like them.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Haruka's Room]
@@ -70,7 +70,7 @@ Haruka: But it's time for bed...
 Haruka: Huh? Did my phone just...?
 Haruka: (I'm not seeing any new messages, but the way it flashed seemed like...)
 Haruka: Wait, could it be...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -81,14 +81,14 @@ Haruka: Huh...? My phone flashed again... Oh...
 Haruka: There's something on the floor. Is that...? A ball of light...?
 Haruka: Did it fall from one of the gantries? I should move it before someone...
 Haruka: Huh?! S-So bright...!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
 
 Haruka: Hm...?
 Haruka: Huh? Where am I...?!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -117,20 +117,16 @@ Haruka: No... Another dead-end?
 Haruka: ...!
 Haruka: (I need to tell her...! I have to tell her...!)
 Haruka: (I have to tell her how she gave me so much hope and that I was able to become an idol because of her...!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori: Haruka, you've given me so much.
-(White cut)
+(White transition)
 Minori: It was the first time I realized having feelings for someone else could make you so happy.
 Minori: And... And...
 Minori: Haruka, you gave me my dream of becoming an idol!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: *Huff*... *Huff*...
 Haruka: (I really wasn't sure if I was reaching anyone or spreading hope to them, but...!)
@@ -153,9 +149,9 @@ Haruka: Where did that pigeon go...?
 Haruka: Oh, it's stopped on that window sill. Is it peering into that house...?
 Haruka: Oh, there are so many of them here! It's so dark, but is this supposed to be their coop?
 Haruka: (Huh...? It's too dark to say for sure, but I feel like I've seen this room before...)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: ...
 Haruka: (This is so strange. It's like I'm being compelled to open this window...)
@@ -171,18 +167,18 @@ Haruka: Oh, wow...! They're all soaring towards the sky!
 Haruka: 10... 20...? Hehe. I didn't expect to see so many.
 Haruka: Don't forget to deliver your clovers, okay?!
 Haruka: Clovers as a symbol of hope! So...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000090/bg_a000090.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000090/bg_a000090.webp)
 ???: Hehe. You too!
 Haruka: ...!!
 Haruka: (Wait, this voice...!)
 Haruka: (It's so warm and nostalgic... It's her...)
 Haruka: (More importantly, I need to tell her...!)
 Haruka: Excuse me!!
-(White cut)
+(White transition)
 (Background change)
 Haruka: Huh...? Miku?!
-(White cut)
+(White transition)
 (Background change)
 Haruka: Wh-What happened...?
 Rin: Welcome back, Haruka!
@@ -202,19 +198,15 @@ Haruka: I see...
 Miku (MMJ): But I'm certain that what you saw and heard was all real, Haruka.
 Miku (MMJ): I was only there for a brief moment, but I suspect that place was...
 Haruka: Does that mean...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: Hehe. You too!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: (That voice. It was...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Haruka's Room]
@@ -225,4 +217,4 @@ Haruka: You too, huh...?
 Haruka: She gave me her support.
 Haruka: I promise to keep trying my best.
 Haruka: I'll keep doing everything I can so that I'll be able to tell you just how much hope you gave me, someday...
-(White cut)
+(White transition)

@@ -26,16 +26,12 @@ Nene: Huh...?
 Nene: You still see me as your rival...?
 Sakurako: No, that's not... What I meant... I didn't mean it that other time either...
 Nene: That other time...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Sakurako: You've proven that you may be worthy of being our rivals. But you'll need to maintain this standard for your next show!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: (Oh, right. That's what she meant... She didn't specifically say that we're rivals.)
 Nene: (I just convinced myself that we were somewhere along the way...)
@@ -58,7 +54,7 @@ Sakurako: However... The perfect teacher for this just happens to be in town.
 Nene: The perfect teacher...?
 Sakurako: Yes, and I believe you two have already met.
 Sakurako: You should take this opportunity to speak with her.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -82,15 +78,11 @@ Nene: Oh, would you mind if I asked what brings you back to Japan? I thought you
 Yuka: Oh, a friend of mine is putting on a show over here and invited me to come see it.
 Yuka: His name is Seiichi Amami... I'm sure you've heard of him, Nene.
 Nene: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: Yes, I have. He's currently performing at Tokyo Century Hall. I actually went to see his show just the other day.
 Yuka: Oh, you did?! As much as I'd like to tell Seiichi what you thought...
@@ -99,7 +91,7 @@ Nene: Yes...
 Nene: (You don't get many chances in life to ask for advice from a star like Ms. Kazamatsuri. No, almost never do...)
 Nene: (I need to tell her everything and absorb all the advice that she gives me...)
 Nene: So...
-(Black cut)
+(Black transition)
 Yuka: You're having trouble seeing your show's big picture...?
 Nene: Yes, and I've been looking into what this habit of mine is. Unfortunately, I haven't been able to find a clear answer...
 Yuka: I see. But we all have habits. Some have nothing to do with singing and are a vital part of who you are.
@@ -122,7 +114,7 @@ Nene: (No, don't run... That won't solve anything...)
 Nene: (Forget about feeling embarrassed. I have to accept where I'm currently at as a singer...)
 Nene: (I have to sing and hear what she thinks...! I want our show to succeed...!)
 Nene: ♪————!
-(Black cut)
+(Black transition)
 Yuka: Thank you, Nene.
 Nene: Thank you for listening...
 Nene: So, um... How did I do?
@@ -144,13 +136,13 @@ Nene: I know I have to do more. I know I have to practice even harder...
 Nene: And I only realized that recently... Just the other day actually.
 Yuka: Nene...
 Nene: So...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000194/bg_s000194.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000194/bg_s000194.webp)
 Nene: Please, tell me anything that comes to mind. Even the smallest piece of advice will do.
 Nene: If this goes on and I end up putting on a shoddy performance, I'll never forgive myself.
 Nene: Please, I beg of you... Because I...
 Nene: I want to become a world-class musical actress...!
-(White cut)
+(White transition)
 (Background change)
 Yuka: I see...
 Yuka: That means we're going to be rivals in the future, right, Nene?
@@ -159,4 +151,4 @@ Yuka: With that in mind, I'm only going to help you out this one time.
 Yuka: For the duration of my stay, Nene, I'm going to cram absolutely everything I have to offer into your head!
 Nene: Th...
 Nene: Thank you very much!
-(Black cut)
+(Black transition)

@@ -14,7 +14,7 @@ KAITO: It's been a while since I last came here...
 KAITO: And I don't see anyone... I was hoping to meet them all too...
 KAITO: No, that means MEIKO and Miku must be at the cafe...!
 KAITO: I'm parched. I could use something to drink too.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Crase Cafe]
@@ -63,7 +63,7 @@ KAITO: So I'd like to say...
 KAITO: I'm back, MEIKO, Miku!
 Miku (VBS): Yes, welcome back!
 MEIKO: Welcome home, KAITO!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -145,4 +145,4 @@ KAITO: Ahh, please...! I'm sorry! I'm sorry!
 Miku (VBS): See? That's probably his biggest fail.
 Kohane: Haha...
 Akito: Seriously, one minute he sounds cool and the next he just falls flat on his face...
-(Black cut)
+(Black transition)

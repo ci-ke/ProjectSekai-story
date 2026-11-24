@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク)
 
-(White cut)
+(White transition)
 (Background change)
 
 [神山通り]
@@ -13,15 +13,11 @@
 こはね: ……やっぱり、わからないな
 こはね: （……こうしたい、って思うことはたくさんあるんだけどな）
 こはね: （大河さんや、杏ちゃんに勝ちたいっていう気持ちもあるし、 この前も——）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000270/bg_s000270.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000270/bg_s000270.webp)
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （『あの壁の先を見たい』って思った）
 こはね: （でも……それがエゴなのかって言われると……わからない）
@@ -41,7 +37,7 @@
 ミク (VBS): 『何かあったの？』
 こはね: えっと……実は、 ちゃんと本番で成功できるように、 うまく歌えた時の感覚を掴みたいって思ってて……
 こはね: その話をCOLのオーナーさんにしたの。 そしたら——
-(Black cut)
+(Black transition)
 ミク (VBS): 『……エゴ、か』
 こはね: うん。 それを探してみるといいんじゃないかって
 こはね: でも……まだ、ピンとこないんだ
@@ -62,7 +58,7 @@
 ミク (VBS): 『……ねえ、こはね』
 ミク (VBS): 『考えすぎちゃうと体によくないし—— 少し、散歩でもしてみない？』
 こはね: え？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -88,16 +84,16 @@
 ミク (VBS): 『……うん。 これってもしかして——』
 ミク (VBS): 『……行ってみる？』
 こはね: ——うん！
-(Black cut)
+(Black transition)
 
 [WEEKEND GARAGE前]
 
 こはね: （……やっぱり、お店から……）
 こはね: （なんだか——あの時みたい）
 こはね: （あの時もこうやって、 扉を開けて——）
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 彰人: ♪————！！
 冬弥: ♪————！！　————！！
@@ -112,7 +108,7 @@
 こはね: （もっとドキドキさせたい）
 こはね: （この想いを大事にして——歌いたい）
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 謙: ……よし。 いい出来だ。今日はここまでにするか
 冬弥・杏・彰人: 『はい！』 『うん！』
@@ -134,10 +130,8 @@
 冬弥: ああ。せっかく小豆沢が来てくれたんだ
 彰人: んじゃ——今日最後だ。気合い入れて歌うぞ
 こはね: ——ありがとう、みんな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): 『こはねなら、きっとやれる』
 ミク (VBS): 『ここまでずっと、 自分の想いと向き合ってきたんだから』
@@ -147,15 +141,15 @@
 こはね: （たくさんのことを、乗り越えて……！）
 ミク (VBS): 『——あと１週間。頑張ってね』
 こはね: ——うん！
-(Black cut)
+(Black transition)
 (Background change)
 こはね・杏: 『♪————————！』
-(Black cut)
+(Black transition)
 彰人: ……よし。 その流れでもう１回やるぞ！
 冬弥: ああ！
-(Black cut)
+(Black transition)
 全員: 『♪————————————————————！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [本番前日]
@@ -172,15 +166,11 @@
 EVERのメンバーA: はは、おかげでこっちも腹が決まるな
 達也: ま——あとひとりいねえのは、やっぱり寂しいが……
 こはね: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………
 洸太郎: ……あいつが『一緒にやっときゃよかった！』って 後悔しちまうような、すげえイベントにしようぜ！
@@ -216,4 +206,4 @@ EVERのメンバーA: はは、おかげでこっちも腹が決まるな
 彰人: ……明日はやるぞ、お前ら
 彰人: ——RAD WEEKEND超えだ！！
 全員: 『うん！』 『ああ！』 『おう！』
-(Black cut)
+(Black transition)

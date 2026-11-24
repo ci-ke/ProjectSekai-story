@@ -22,7 +22,7 @@ Len: Got it!
 An: Hello!
 Len: Our first customer! Let's go greet her, Rin!
 Rin: Okay!
-(Black cut)
+(Black transition)
 Len & Rin: Welcome!
 Kohane: Hello, Len, Rin.
 Akito: Huh, this is pretty rare. You're helping out today instead of Miku?
@@ -43,7 +43,7 @@ Rin: Mmm, aren't those yummy! Hot chocolate with puffy marshmallows is heavenly!
 MEIKO: Hehe. Hey, you two... What do you do after taking orders?
 Len: Oh, shoot!
 Rin: We'll bring them to you right away!
-(Black cut)
+(Black transition)
 Len: Phew, I finished cleaning the tables. How are you doing, Rin?
 Rin: I'm done polishing the tableware, so I just need to put the cups and saucers away now!
 Len: Alright, let me help you with that. Pass them to me and I'll put them up.
@@ -67,7 +67,7 @@ MEIKO: I need to get ready for tomorrow now...
 Rin: R-Right. See you tomorrow...
 Len: The cup I handed MEIKO was in one piece...
 Rin: But I hope the other one on the shelf was okay...
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -89,7 +89,7 @@ Len: You know, Rin, helping out was pretty fun.
 Rin: Yeah! I see why Miku likes doing it too now.
 Len: You're right! We should do it again sometime.
 Rin: Totally!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -122,7 +122,7 @@ Len: Wait, cracked?!
 Miku (VBS): Yes, I noticed when I was tidying up earlier. It's such a pity, since MEIKO really liked it. She seemed pretty sad.
 Len: O-Oh, no...
 Rin: ...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Street SEKAI)
 Len & Rin: ...
@@ -143,7 +143,7 @@ Len: Haha! Rin, you're impossibly stubborn!
 Rin: What, me? Speak for yourself!
 Len: Okay, then...
 Rin: Let's go together.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Crase Cafe)
 Len: MEIKO...!
@@ -173,4 +173,4 @@ Miku (VBS): That's the plan, so stay tuned!
 Rin: Cool!
 Rin: Len, what do you think she's gonna do with it?
 Len: Beats me, but I'm curious to find out!
-(Black cut)
+(Black transition)

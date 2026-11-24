@@ -7,7 +7,7 @@ Gacha phrase: でも……ボクは……
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -32,44 +32,32 @@ Gacha phrase: でも……ボクは……
 瑞希: んー、せっかく送るんだし、 喜んでもらえるものがいいけど
 瑞希: （昨日、電話くれた時何か言ってたっけ？）
 瑞希: （送った服やリボン見た？って話と、 お菓子のお礼を言って、それから——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ……え？ 最近、どうかって？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （ボクが今ニーゴにいるのって、 お姉ちゃんが背中を押してくれたからなんだよね）
 瑞希: ……そういえば、サークル続けてるって話はしたけど それ以外は話しそびれちゃったなぁ
 瑞希: リアルでも会うようになったとか、 プチ旅行やピクニックに行ったとか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希の姉: 瑞希の好きなようにして、いいんだよ。 きっとどこかに、絶対、わかってくれる人がいるって、私は思う
 瑞希の姉: だって、こんなにカワイイ瑞希なんだから！
 瑞希の姉: だから、行きたい場所に—— 居心地のいい場所に行って、いいんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 居心地のいい場所、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: まずは、ミステリーツアーに行った時の写真から いいヤツ見繕ってみようかなー
 瑞希: えーっと、データはっと……。 あ、あったあった！
@@ -88,7 +76,7 @@ Gacha phrase: でも……ボクは……
 瑞希: ……ちょっと恥ずかしいけど、手紙もつけちゃおうかな
 瑞希: （昨日電話した時には、言えなかったけど——）
 瑞希: （『ありがとう』って、伝えたいから）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,7 +109,7 @@ Gacha phrase: でも……ボクは……
 (Background change)
 奏: 『……相談？』
 瑞希: 『うん。実は——』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: 『え？　Amiaのお姉さんに私達の写真を送る？』
 (Background change)
@@ -163,7 +151,7 @@ Gacha phrase: でも……ボクは……
 瑞希: （でもきっと、そんなのお姉ちゃんには なんの苦でもなかったんだろうなぁ）
 瑞希: （認めてもらうために自分が表現したいものを曲げて、 大事な何かをすり減らし続けることのほうが ずっとずっと嫌だったと思うから）
 瑞希: （だから、表現したかったことを見てくれる人達のところに—— もっと自由に心からがんばれる居場所に、行ったんだろうな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -179,4 +167,4 @@ Gacha phrase: でも……ボクは……
 瑞希: （でもお姉ちゃんなら、リボンのシールを見ただけで 今のボクの気持ちわかっちゃうかもな～）
 瑞希: さてと……
 瑞希の声 (瑞希): お母さーん！ これ、一緒にお姉ちゃんに送ってー！
-(Black cut)
+(Black transition)

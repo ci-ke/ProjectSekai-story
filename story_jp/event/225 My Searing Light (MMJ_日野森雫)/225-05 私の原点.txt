@@ -14,10 +14,8 @@
 アリサ: ほら、休憩終わり。私達もやるよ
 メンバー達: だね。ここまで来たら、絶対優勝したいし！
 メンバー達: うん。もっと完成度上げていかなきゃ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 メンバー達: 今日のライブ、お客さん少なかったね……
 メンバー達: ……うん……
@@ -40,15 +38,13 @@
 アリサ: できるかじゃなくて、やるんでしょ
 アリサ: ってことで、今日のライブの反省会やらないとね
 メンバー達: ……うん！　他のみんな呼んでくる！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 アリサ: （後悔がないっていえば、嘘になる。 ……でも、間違ってたとは思わない）
 アリサ: （だから——）
 アリサ: ——絶対、負けない
-(Black cut)
+(Black transition)
 (Background change)
 
 [雫の部屋]
@@ -57,21 +53,17 @@
 雫: （私が表現するのは、圧倒的で、揺るぎない強さ——）
 雫: （みんなを導いて、どんな壁も打ち砕いていけるような…… そんな存在だわ）
 雫: （だから……この怖さを抱えたままじゃ、きっと届かない）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: 参考になるかはわからないけど…… 悩んだ時は、自分の原点を振り返ってみるのも手だと思うよ
 遥: 私もそれで、気持ちを整理できたことがあるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （私の原点……）
 雫: （——それなら……）
-(Black cut)
+(Black transition)
 (Background change)
 ファンレター: 『雫ちゃんへ。 初めてこういう手紙を書くので、下手だったらごめんなさい』
 ファンレター: 『いつもたくさんの元気と勇気をありがとう。 これからも応援してます！』
@@ -89,7 +81,7 @@
 ファンレター: 『何かつらいことがあったとき、いつも思い出しています』
 雫: （……そうだわ）
 雫: （“アイドルとしての私”の原点なら……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [３日後]
@@ -115,7 +107,7 @@
 雫: ええ
 雫: ……そうだわ。 これから行くところがあるんだけれど——
 雫: よかったら、リンちゃんも一緒にどうかしら
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cheerful＊Days シアター]
@@ -155,16 +147,12 @@
 観客B: だよね……なんか、私まで泣きそう……！
 リン (MMJ): 『……そうだったんだね……！』
 リン (MMJ): 『えへへ。あのセンターの子も、雫ちゃんみたいに 頑張り屋だったのかな？』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （研究生の、ステージ……）
 雫: （あの頃、私は——）
-(Black cut)
+(Black transition)

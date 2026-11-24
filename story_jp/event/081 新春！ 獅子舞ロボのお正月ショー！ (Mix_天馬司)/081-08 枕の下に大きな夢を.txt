@@ -37,49 +37,33 @@ KAITO: あはは、枕の下に敷くんじゃなくて、 ベッドの下に敷
 司: ああ……いや。 改めて、昨日のことを思い返していただけだ
 ミク (WxS): 昨日のこと？
 司: ああ。 観客を巻き込むショーをしていったことで、 いろいろと発見があってな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （……一歌達の歌声は、背を押されるような歌声だった。 あんなまっすぐな歌が歌えたら、 きっと観客を励まし勇気づけることができるだろう）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （……花里達のパフォーマンスも素晴らしかったな。 あのように観客を全力で巻き込むことができれば、 ショーはより盛り上がるに違いない）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （白石達も素晴らしかった！ あの心震えるような歌と熱いパッション！ 観客を高みへと連れていく力があったな）
 司: （そして……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （あの人物……宵崎さんと言ったか。 彼女が即興で作り出してくれた曲にも深く心を打たれた）
 司: （ショーは役者だけで作り上げるものではない。 音響含め、総合的なものだ）
@@ -119,4 +103,4 @@ MEIKO: この紙いっぱいに絵を描いて、 みんなでお昼寝しまし
 えむ: おー！ 力を合わせて、司くんを助けよ～う！
 KAITO: ……ふふっ。 今年も賑やかな１年になりそうだね
 ミク (WxS): うんっ☆ 楽しみだねっ！
-(White cut)
+(White transition)

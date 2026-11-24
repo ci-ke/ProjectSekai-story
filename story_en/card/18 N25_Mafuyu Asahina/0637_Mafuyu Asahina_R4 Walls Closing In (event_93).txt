@@ -14,10 +14,8 @@ Mafuyu: *Sigh*
 Mafuyu: (That's all of my homework... I've reviewed everything else, so I just need to go to sleep now...)
 Mafuyu: Oh, it's 25:00...
 Mafuyu: (Normally, until recently...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: <Sorry I'm late...>
 (Background change)
@@ -28,10 +26,8 @@ Mizuki: <Yeah, I agree! Oh, also! What font do you wanna use for your lyrics?>
 Ena: <Slow down, Amia. Don't my illustrations come first?>
 Mizuki: <I know, but it's still good to ask, right?>
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: I should go to bed...
@@ -77,7 +73,7 @@ Mafuyu: Oh...
 Mafuyu: <Okay...>
 Mafuyu: <Then, I'll talk to you all tomorrow. We can talk again during lunch.>
 Mafuyu: (I'll need to keep my lunch free tomorrow.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,19 +89,15 @@ Mizuki: Hehe. Despite how I look, I'm actually pretty athletic!
 Mizuki: Anyway, what do you wanna do next? Anything catch your eye?
 Mafuyu: Not particularly...
 Mizuki: Really? Then, I'm just gonna pick something... Hmm... Eeny-meeny-miney...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki's Message (Mizuki): <Sorry, I know it's late. But I wanna talk to you about something.>
-(White cut)
+(White transition)
 Mizuki's Message (Mizuki): <We can meet whenever you're free by the way! Still, I do sorta want to see you sooner rather than later...>
 Mizuki's Message (Mizuki): <There's something I need to tell you.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What exactly does Mizuki want to tell me...?)
 Mafuyu: (It sounded important. Enough to be asked to meet in person.)
@@ -121,7 +113,7 @@ Mafuyu: We can play whatever you want, Mizuki...
 Mizuki: Haha. Thanks! But since we're both here...
 Mizuki: Why don't we do a lap of the place and see if anything catches your attention?
 Mafuyu: Sure...
-(Black cut)
+(Black transition)
 Mizuki: They have a futsal court over there and... Hey, check it out!
 Mizuki: Those people are wearing balloon-looking suits! That's probably the bubble sumo thing Kanade and Ena were talking about!
 Mafuyu: Yes, I can see. They're bigger than I thought...
@@ -130,7 +122,7 @@ Mizuki: Man, that looks like so much fun though...
 Mafuyu: Do you want to give it a try, Mizuki...?
 Mizuki: I do! But we'd have to sit around and wait until they're done, so let's keep looking in the meantime!
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 
 [Arcade]
 
@@ -160,4 +152,4 @@ Mafuyu: (But...)
 Mafuyu: (I guess that's fine for now...)
 Mizuki's Voice (Mizuki): Mafuyu! It's over here!
 Mafuyu: Okay, I'm coming.
-(Black cut)
+(Black transition)

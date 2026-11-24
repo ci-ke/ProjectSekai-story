@@ -28,7 +28,7 @@
 ミク (N25): 『……うん、一緒に見たいな』
 ミク (N25): 『瑞希、ありがとう』
 瑞希: どういたしまして！ じゃ、行こっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [東京ファッション造形学院]
@@ -39,15 +39,15 @@
 瑞希: あ！　あのドレス、コンテストで賞取ったんだって！ 一緒に飾られてる帽子もオシャレだな～
 瑞希: こっちのワンピース、スタイル画も展示してる！ へえ……めちゃくちゃ変わったシルエットだけど、 そのまま立体になっててすごいなあ
 ミク (N25): 『あ……』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000560/bg_s000560.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000560/bg_s000560.webp)
 ミク (N25): 『この服……』
 瑞希: え、なになに？ ミクはこの服がお気に入り？
 ミク (N25): 『……うん、かわいい』
 瑞希: 野菜柄がいい味出してるよね～！ ちょっとレトロな感じがいいっていうか
 瑞希: あ、今度ミクにも こういう野菜モチーフのアクセ作ろっか？
 ミク (N25): 『本当？　ありがとう』
-(White cut)
+(White transition)
 (Background change)
 瑞希: あ、隣の服……！
 瑞希: これ、魔法少女モチーフのゴスロリ服かな？
@@ -60,4 +60,4 @@
 瑞希: ミク、またあとで見に来よう！
 ミク (N25): 『うん』
 瑞希: よし、じゃあ行くよ～！
-(Black cut)
+(Black transition)

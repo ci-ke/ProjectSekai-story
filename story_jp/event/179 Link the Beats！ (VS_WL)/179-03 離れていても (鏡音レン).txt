@@ -19,14 +19,14 @@
 穂波: あ、みんなで食べようと思って アップルパイも焼いてきたんだ。 たくさんあるから、レンくんも一緒に食べよう？
 一歌: そういえば、私もお菓子持ってきてたな。 レンにもあげるね
 志歩: え、そういう流れ？　だったら——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000488/bg_s000488.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000488/bg_s000488.webp)
 レン: わ……！　すっごい量のお菓子！ いいなあ～！
 レン (N25): あの……こんなにいっぱい、もらっていいの？
 咲希: うん！　みんなで一緒に食べよ食べよ♪
 レン (N25): う、うん……！ ありがとう
 レン: えへへ、こっちのオレも嬉しそう！ よかったね！
-(White cut)
+(White transition)
 (Background change)
 ルカ (Ln): ふふ、さっそく大人気みたいね
 レン (Ln): まったく……
@@ -38,7 +38,7 @@
 穂波: レンくん、よかったら聴いていってくれる？
 レン (N25): あ……
 レン (N25): う、うん……！ 聴きたいな……
-(Black cut)
+(Black transition)
 一歌: それじゃあ、やろうか！ みんないくよ——
 一歌: ————♪　————♪
 一歌: ♪————！　♪————～～～！
@@ -56,7 +56,7 @@
 咲希: ——♪　——♪
 レン (N25): ……——♪　——♪
 レン・咲希: 『——♪　——♪』
-(Black cut)
+(Black transition)
 咲希: は～、楽しかった！
 志歩: 咲希、ちょっと暴走してなかった？
 咲希: えっそうだった？ でも、ああやってお客さんと一緒に歌うのって すっごく楽しくない！？
@@ -145,6 +145,6 @@
 穂波: （……気のせい、かな？）
 レン: ……優しくて、綺麗な歌だね
 レン: オレも、もっと聴いてたいな
-(Black cut)
+(Black transition)
 (Video: link2_ppr_ed1)
-(Black cut)
+(Black transition)

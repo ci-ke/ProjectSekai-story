@@ -7,10 +7,8 @@ Gacha phrase: I thought that it'd look great on you, Rin♪
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama, Hatsune Miku, Megurine Luka)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: ...
 Kanade: Mafuyu, what's wrong?!
@@ -18,10 +16,8 @@ Mizuki: Whoa, you're burning up...!
 Mafuyu: Yes. I'm just feeling a little lightheaded...
 Ena: That hardly counts as being okay. Ugh, there really aren't any dull moments when it comes to you...
 Kanade: Let's postpone this discussion until after Mafuyu's fever breaks...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [Mizuki's Room]
@@ -31,7 +27,7 @@ Mizuki: (But she has been staying later than me and Ena lately, so she might've 
 Mizuki: I hope she gets better soon.
 Mizuki: Also, I'm bored... I'm pretty much done with everything I needed to do today.
 Mizuki: Oh, I know...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -53,25 +49,21 @@ Mizuki: Okay, sure. Why not?
 Luka: Thank you. Now then...
 Luka: Before Mafuyu became ill, didn't you mention how you couldn't wait to see what kind of lyrics she writes for Kanade's song?
 Luka: Do you remember what we talked about?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mizuki: I mean, it was so good! Like K's reached a whole new level!
 Mizuki: I can't wait to see what kind of lyrics you write for this song, Mafuyu!
 Mafuyu: ...
-(White cut)
+(White transition)
 Luka: Oh, I see...
 Luka: She's found the key to the door that she's been searching for, but doesn't know where the keyhole is, maybe?
-(White cut)
+(White transition)
 Mafuyu: I just don't understand...
 Mafuyu: I kept running circles in my head thinking about why your song made me smile, Kanade...
 Mafuyu: Something welled up inside my chest that time. That's probably what made me smile.
 Mafuyu: But I don't understand why that happened... I just don't know.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mizuki: Yeah, I do...! I remember.
 Mizuki: Your analogy about finding a key but not knowing where the keyhole is really stuck with me.
 Luka: Hehe. Thank you.
@@ -112,7 +104,7 @@ Mizuki: (I'm already walking a tightrope as it is...)
 Mizuki: One bad push and that really might be it for me.
 Mizuki: ...
 Mizuki: Anyway, I need to find Rin...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -127,43 +119,35 @@ Mizuki: I'll find somewhere to sit over there.
 Mizuki: ...
 Mizuki: (I'm glad Mafuyu's all better now.)
 Mizuki: (Not only that...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mafuyu: I remembered...
 Mafuyu: Kanade's song reminded me that I'd felt what I did when I heard her song... A long time ago...
 Mafuyu: Like when I ate apples that time...
-(White cut)
+(White transition)
 Mafuyu: There's no way for me to verify that...
 Mafuyu: But what I felt...
 Mafuyu: I needed to write it down so I wouldn't forget.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mizuki: She kept saying, I don't know, like a broken record, but she felt compelled to find a way to not forget.
 Mizuki: She was able to move forward just like Ena and Kanade.
 Mizuki: I guess this also means that she was able to nudge open that door Luka was talking about a little.
 Mizuki: I'm glad...
 Mizuki: ...
 Mizuki: (They're so amazing...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: <Express anything I feel honestly... I don't know if I can actually do that, but I'll try...>
-(White cut)
+(White transition)
 (Background change)
 Ena: I'll try drawing something. I don't know if it'll be any good, but I'll try.
-(White cut)
+(White transition)
 (Background change)
 Kanade: <I was able to compose that song because you helped me open my eyes.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (They're all moving forward.)
 Mizuki: (But...)
@@ -204,4 +188,4 @@ Mizuki: Bingo!
 Ena: No, it's not what you think! Quit pulling my leg!
 Mizuki: Haha!
 Miku (N25): ...
-(Black cut)
+(Black transition)

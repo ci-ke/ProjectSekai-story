@@ -24,7 +24,7 @@ Emu: (That week went by so fast...)
 Emu: (Keisuke and Shosuke taught me how to become a better speaker, and I practiced a ton with Suzu.)
 Emu: (So, we should be fine. We'll convince them.)
 Emu: We've got this...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Meeting Room]
@@ -53,8 +53,8 @@ Emu: Currently, they're in a dire situation in terms of revenue and manpower.
 Emu: However, there is no arguing with the fact that they have succeeded in their primary goal of appealing to a new demographic.
 Byakkomachi: First, we'd like for you all to take a look at the data we've passed out, along with the following slide.
 Board Members: This looks like... The attendance data for the Suzurangumi and Kikyogumi troupes?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000436/bg_s000436.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000436/bg_s000436.webp)
 Emu: Yes. As I'm sure you're all already aware, when compared with Suzurangumi, Kikyogumi garners much more support from younger fans.
 Emu: That is partially due to the troupe members being much younger overall compared to Suzurangumi. And while they have their flaws, their passion and energy more than make up for it.
 Emu: Unfortunately, high ticket prices are preventing new and existing fans from attending.
@@ -63,7 +63,7 @@ Board Members: Yes, but... We can't just blindly lower ticket prices since that'
 Board Members: Right... I can't imagine that it'll lead to an increase in attendance when we're already hemorrhaging star-level talent.
 Emu: All true. However...
 Emu: We want you all to see this as an opportunity.
-(White cut)
+(White transition)
 (Background change)
 Board Members: An opportunity? Care to elaborate...?
 Emu: Of course. What we mean is...
@@ -112,4 +112,4 @@ Emu: (Oh...)
 Byakkomachi: They seem genuinely interested.
 Byakkomachi: I think we managed to get through to them...
 Emu: Y-Yeah...!
-(Black cut)
+(Black transition)

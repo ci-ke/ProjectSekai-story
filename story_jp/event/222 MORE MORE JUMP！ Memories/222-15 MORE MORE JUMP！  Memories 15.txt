@@ -3,11 +3,9 @@
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫)
 
 : アイドルラバーズで客席をおおいに盛り上げた MORE MORE JUMP！。しかし、その後から なぜか仕事の依頼が途絶えてしまう
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 遥: 正直……こんなに急に仕事が途絶えるのは、 やっぱり不自然だと思う
 愛莉: そうね……。 仕事が減るにしても、普通はもっと徐々に減るものだし……
 遥: うん。引き続き、原因は探していかなくちゃいけない。 けど——
@@ -17,13 +15,11 @@
 雫: （なら、やっぱり——）
 雫: まずは今回のオーディションを、全力で頑張ってくるわ
 雫: このCMに出演できたら、 また前みたいにお仕事へ繋がるかもしれないもの
-(Black cut)
-
-(Memory cut-out)
-
+(Black transition)
+(Flashback out)
 (Background change)
 : この状況を打破するため、有名化粧品メーカーの CM撮影に挑む雫。共演するライバルとの圧倒的な差に、 一度は心を打ちのめされるが——
-(Black cut)
+(Black transition)
 (Background change)
 雫: （——今の私は、あの頃とは違う）
 雫: （グループを背負わされてるわけじゃない）
@@ -33,8 +29,8 @@
 雫: （MORE MORE JUMP！の——みんなの未来を！）
 撮影助手: では、カメラ回します！
 演出家: よーい——アクション！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000387/bg_s000387.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000387/bg_s000387.webp)
 結雨: …………！！
 雫: （——オーラ）
 雫: （そう呼ばれるものの正体は、私にはわからないわ）
@@ -42,7 +38,7 @@
 雫: （なら、もっといける）
 雫: （全てを背負うと覚悟して、努力を重ねた今なら、 もっと——）
 雫: （私は、誰よりも輝く！！）
-(Black cut)
+(Black transition)
 (Background change)
 遥: ——見て、雫
 雫: え？
@@ -59,46 +55,38 @@
 みのり: うん！　雫ちゃんが、わたし達のために すっごくすーっごくがんばってくれたおかげだよ！
 みのり: 本当にありがとう、雫ちゃん！
 雫: ……ええ！
-(Black cut)
+(Black transition)
 (Background change)
 : 雫が出演したCMのおかげで、少しずつ仕事の依頼が 来るようになったものの——
-(Black cut)
+(Black transition)
 (Background change)
 遥: ……そういえば、 仕事がこなかった時期についての件なんですけど…… 斎藤さんの方で、何かわかったことはありましたか？
 斎藤: いえ……業界のいろんな人に話を聞いてみたんですが、 みんな、心当たりはないみたいで
 遥: そうですか……
 遥: （私も打ち合わせの合間に、お世話になったスタッフさんに 聞いてみたけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雑誌編集者: え……MORE MORE JUMP！についての噂？ う、うーん。心当たりはないかなあ
 ステージスタッフ: そうだね……制作側にも、 いろいろ都合があると思うし……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……みんな、何も知らないみたいだった）
 遥: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雑誌編集者: じゃ、じゃあ、ごめん。 俺はこれから打ち合わせあるから！
 ステージスタッフ: あ——僕もそろそろ次の現場の準備しなきゃ！ ごめんね遥ちゃん、またね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （なんだろう、何か様子がおかしかった気がする……）
-(Black cut)
+(Black transition)
 (Background change)
 : 仕事が激減した原因を探る遥は、テレビ局で偶然、 柊の『噂』について耳にする
-(Black cut)
+(Black transition)
 (Background change)
 遥: ——柊さん。ひとつ、質問してもいいですか？
 柊: ……構わないが。 随分と改まった様子だな
@@ -125,17 +113,13 @@
 遥: （どこまでが柊さんの意図だったか、 本当のところはわからないけど…… 少なくとも、嘘をついてる感じはしない）
 遥: （話を聞いて回った時、態度が不自然だった人達は—— きっと、その噂を耳にしてたんだ）
 遥: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 中野の声: MORE MORE JUMP！は すごくいいグループだと思っているし、 伸び代もあると思うけど……
 中野の声: より盤石な体制を組むなら、 ReLightを選ぶのが正しいと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: （仕事が途切れた理由は……それだけじゃない）
 遥: （私達が、ReLightを超える実力を持ってなかった……）
 遥: （だから——『選ばれなかった』んだ）
-(Black cut)
+(Black transition)

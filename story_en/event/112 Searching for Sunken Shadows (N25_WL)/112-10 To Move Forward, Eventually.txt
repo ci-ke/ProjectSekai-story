@@ -48,7 +48,7 @@ Mizuki: <Interesting... Then, let's go see if that's what you saw!>
 Kanade: <Yes, we should go...>
 (Background change)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -100,15 +100,11 @@ Luka (N25): Finding more of those things could be the key to uncovering your tru
 Mafuyu: My true self...?
 Mafuyu: But...
 Kanade: Mafuyu...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Girl: We're never gonna find her.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kanade: Don't worry.
 Mafuyu: Huh...?
 Kanade: Yes, you may find some things down there that you do not want to see again.
@@ -143,21 +139,17 @@ Ena: Try pulling it out, Mafuyu.
 Mafuyu: Okay...
 Mafuyu: ...! It's...
 Mafuyu: (An apple?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Can you sit up? You don't have to if you don't think you can.
-(White cut)
+(White transition)
 Mafuyu's Mother: Then why don't we do this...? Open up for the airplane...
-(White cut)
+(White transition)
 Mafuyu's Mother: Hehe. My, aren't we full of demands today.
 Mafuyu's Mother: Of course, dear. Now, lie down for me, and take my hand...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Mom...
 Mafuyu: (So warm...)
@@ -169,27 +161,23 @@ Mizuki: Looks like it. But what does it mean?
 Kanade: Come to think of it, Mafuyu, I think I made apple sauce for you that one time you caught a cold...
 Kanade: It took me a little while since I didn't really know how to then, but I felt much better after you ate it...
 Mafuyu: Oh...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000248/bg_s000248.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000248/bg_s000248.webp)
 Mafuyu: (I don't understand...)
 Mafuyu: (This pain...)
 Mafuyu: (I don't want to think about what happened...)
 Mafuyu: (But I can't seem to let go of this apple...)
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: (I'm not sure...)
 Mafuyu: (I'm not sure, but I think...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: I want to do more for others...
 Mafuyu: I want to be right by their side when they're in pain...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I... I think I need this to keep being me...)
 Mafuyu: (So...)
@@ -237,6 +225,6 @@ MEIKO (N25): A seedling of some sort...?
 Luka (N25): First this lake appears, and now we're seeing plants. Does this mean her feelings have undergone further changes?
 KAITO (N25): This could be a sign of things to come...
 Miku (N25): I hope it grows big and tall...
-(White cut)
+(White transition)
 (Video: link_night_bud)
-(Black cut)
+(Black transition)

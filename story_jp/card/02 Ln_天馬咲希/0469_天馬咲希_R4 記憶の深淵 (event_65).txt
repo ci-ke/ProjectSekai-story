@@ -7,7 +7,7 @@ Gacha phrase: 置いて、いかないでよ……
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [咲希の部屋]
@@ -15,25 +15,21 @@ Gacha phrase: 置いて、いかないでよ……
 咲希: ん～……
 母親: 咲希、夜ご飯できてるわよ。 お昼も食べてないし、お腹すいてるでしょ？
 咲希: あれ……夜……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 咲希は十分頑張ってくれた。 だからここからは——私達の番だよ
 咲希: しほちゃん……
-(White cut)
+(White transition)
 (Background change)
 咲希: じゃあみんな、あとはよろしくお願いします！ それから……ふぁぁ……
 咲希: おやしゅみなさ～い……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: そっか、アタシあれからずっと寝てて、 お昼ご飯も、眠くて起きられなかったからパスしたんだっけ
 咲希: ありがとう、お母さん。食べるー
-(Black cut)
+(Black transition)
 咲希: はあー、ご飯おいしかったー！ それに、い～っぱい寝たから気分もスッキリ♪
 咲希: ……って、油断してちゃダメダメ
 咲希: 今日はしっかり休んでっていっちゃん達にも言われてるし、 ちゃんと休まないと！
@@ -48,16 +44,12 @@ Gacha phrase: 置いて、いかないでよ……
 咲希: さすがに昼間、寝すぎちゃったのかな
 咲希: ちょっと練習しよっかなぁ。 曲も細かいところを詰めなきゃいけないし……
 咲希: あ、でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 咲希は十分頑張ってくれた。 だからここからは——私達の番だよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: 志歩ちゃん達だってああ言ってくれてたし、 今日のアタシの仕事は休むこと！
 咲希: よし、もう１回寝てみよう！
@@ -90,7 +82,7 @@ Gacha phrase: 置いて、いかないでよ……
 咲希: うわぁあん！　明日の１限目だよぉ
 咲希: でもでも！　まだ遅い時間じゃないし、大丈夫！
 咲希: これだけやって寝よーっと
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,20 +98,16 @@ Gacha phrase: 置いて、いかないでよ……
 咲希: うん！　期間限定のお店なんだけど……。 ソフトクリームだけじゃなくって、 持つところも全部真っ白なんだよ！
 一歌: 本当だ。こんなソフトクリームがあるんだね
 咲希: （それだけじゃないんだけど、いっちゃん覚えてるかな？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌のメッセージ (一歌): 『おもしろい形の雲があったから送るね。 これ、ちょっと美味しそうじゃない？』
 中学生の咲希 (咲希): （雲……？ あ、写真が来た……）
 中学生の咲希 (咲希): っ……ホントだ。 なんだか、ソフトクリームみたい
 一歌のメッセージ (一歌): 『まぁ……これだとコーンの部分まで白いから、 持ったらベタベタになっちゃうんだけど……』
 中学生の咲希 (咲希): ……あはは……。 いっちゃんってば、相変わらず変なトコでマジメだなぁ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ふふっ。これ、咲希が入院してた時に送った雲の写真と ちょっと似てるね
 咲希: ……！　いっちゃん、覚えててくれたんだ！
@@ -128,7 +116,7 @@ Gacha phrase: 置いて、いかないでよ……
 咲希: （やっぱり、覚えててくれた！ えへへ、嬉しい……！）
 一歌: 土曜日なら練習だけで、 みんなバイトも入ってなかったと思うし、 ４人で行けるんじゃないかな
 咲希: ありがとう！ ほなちゃんとしほちゃんも誘ってみるね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -138,7 +126,7 @@ Gacha phrase: 置いて、いかないでよ……
 咲希: だって、楽しみなんだもーん！
 穂波: あ、あの店かな？ 今ならすいてそうだよ
 咲希: すみませーん！ ソフトクリーム、６つくださーい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -184,4 +172,4 @@ KAITO: が、頑張って……！
 咲希: よっ……ほっ……。 ——セーフっ！
 レン: ふ、ふふっ……あはは！
 咲希・一歌・穂波・志歩: 『あははっ！』 『ふふっ』
-(Black cut)
+(Black transition)

@@ -22,7 +22,7 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 瑞希: あ……ナイトコードのほうにもメッセージ来てる
 絵名: 『みんな、ちょっと話したいことがあるんだけど、 いつもより１時間くらい早く集まれない？』
 瑞希: ……話したいこと？
-(Black cut)
+(Black transition)
 (Background change)
 
 [24時　数分前]
@@ -67,7 +67,7 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 瑞希: 『……えななん、なんかノリノリだね』
 (Background change)
 奏: 『ふふ。そうだね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -119,7 +119,7 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 ミク (N25): ……瑞希、嬉しそう
 瑞希: うん！　最高にね♪
 ミク (N25): そっか。よかった……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,20 +129,16 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 [神山高校　校門]
 
 瑞希: 来ちゃったなあ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: 『瑞希、明日誕生日でしょ。せっかくだし、 お祝いさせてほしいから、明日、学校に来てくれない？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 学校ってだけでうっかり身構えちゃったけど……。 ボクが気にすることなんて何もないもんね～
 瑞希: ——よし！
-(Black cut)
+(Black transition)
 (Background change)
 
 [１年Ａ組]
@@ -180,7 +176,7 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 遥: 『瑞希さんと一緒にいる皆さんにも、 楽しんでいただければ嬉しいです』
 愛莉: 『それでは—— 今日が瑞希にとって最高の１日になりますように！』
 雫: 『MORE MORE JUMP！から愛をこめて♪』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: おおーーーーっ！
 瑞希: さ……最高なんだけど！？ モモジャンがボクのために歌ってくれたんだけど！？
@@ -199,7 +195,7 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 司: では歌うぞ！　類、冬弥、彰人！ まずはハッピーバースデーの歌からだ！
 冬弥・類: 『はい！』 『ああ！』
 彰人: はいはい
-(Black cut)
+(Black transition)
 杏: はーい！　じゃあ最後に記念写真撮るよ！
 司: 暁山、当然お前が真ん中だぞ！
 瑞希: はいはーい♪
@@ -220,8 +216,8 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 瑞希: …………
 瑞希: ——うん。楽しかったよ、すごくね
 類: そうか。 それは、よかった
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000108/bg_s000108.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000108/bg_s000108.webp)
 愛莉: 瑞希、誕生日おめでとう！ ビデオレター、喜んでもらえたみたいね！
 雫: みのりちゃんや遥ちゃんにもお願いしてよかったわ。 ——瑞希ちゃん、またみんなで一緒にお出かけしましょ？
 愛莉: もう一度、景色のいい山に行くのもいいかもしれないわね。 それじゃあ、また連絡するわ！
@@ -241,7 +237,7 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 まふゆ: セカイでのお祝いの時、なんとなくそう見えたから……。 ……それじゃあまた、ナイトコードで
 絵名: 誕生日おめでと、瑞希。 学校でのパーティー、楽しめた？ まあ、彰人に聞けばわかるんだろうけど……
 絵名: こういうのはやっぱり本人に聞かなきゃね。 よかったら、どんな感じだったのか教えてよ。 じゃあ、ナイトコードで待ってるからね！
-(White cut)
+(White transition)
 (Background change)
 瑞希: 今日は、すごくいい１日になったなあ。 これも、お祝いしてくれたみんなのおかげだね
 瑞希: 絵名達にも、ちゃんとお礼言わないとなぁ
@@ -249,4 +245,4 @@ Gacha phrase: ……うん。楽しかったよ、すごくね
 瑞希: だって、今日はボクの誕生日なんだから♪
 瑞希: お祝いしてくれたみんなに、感謝しなくちゃ
 瑞希: みんな！　本当にありがとう！
-(White cut)
+(White transition)

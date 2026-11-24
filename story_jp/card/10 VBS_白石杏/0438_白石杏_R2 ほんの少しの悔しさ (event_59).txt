@@ -12,19 +12,15 @@ Skill name: 譲れない熱
 彰人: おう、また明日な
 杏: こはね、途中まで一緒に帰ろ！
 こはね: うん！
-(Black cut)
+(Black transition)
 杏: それにしても、私達がイベントを主催かぁ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: ボク達もイベントやるし、 この際みんなも、イベントを主催してみるっていうのはどう？
 レン: いいね！ 今ならこはね達もいるし、練習もいっぱいしてるし、 いいイベントができるんじゃない！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: レンくん達がイベントやるって話から、 『じゃあみんなもやってみたら？』なんて 急に言われてびっくりしたよね
 こはね: ふふ。私も突然のことでちょっと ビックリしちゃった
@@ -33,15 +29,11 @@ KAITO: ボク達もイベントやるし、 この際みんなも、イベント
 杏: あ。そうだ、こはね。 彰人が話してたこと、覚えてる？
 こはね: え？　えっと……RAD WEEKENDの空気、のこと？
 杏: そう、それ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: あの時感じた、胸がドキドキして、熱くて、 うまく言葉にできないけど、もうとにかくすごいって空気——
 杏: 彰人も言ってたけど、あの空気感を作れれば かなりRAD WEEKENDに 近づけるんじゃないかって思うんだよね！
@@ -70,33 +62,25 @@ KAITO: ボク達もイベントやるし、 この際みんなも、イベント
 こはね: ふふ。私達４人の中でもバチバチだね
 杏: うん！
 杏: （こうやって、仲間うちでぶつかり合うっていうのも きっとあの空気につながってくのかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （あの時感じた最高のドキドキを、 今度は私達の手で作ってみせる！）
 杏: （だって今の私には——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （最高の仲間と、最高の相棒がいるんだから！）
 こはね: ……杏ちゃん？ どうかしたの？
 杏: ううん、なんでもないよ！
 杏: よーっし！　明日から頑張るぞー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -109,10 +93,8 @@ KAITO: ボク達もイベントやるし、 この際みんなも、イベント
 こはね: ふふ。途中から私達も一緒に歌わせてもらっちゃったしね
 冬弥: ああ。それにしても、１曲目から勢いのある曲を使って、 高い熱を持ったまま最後まで駆け抜けたのはさすがだな
 彰人: そうだな。カイトさんの真面目なDJ姿も 久しぶりに見れたし
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン: ♪————！！
 レン: ♪————！！
@@ -124,10 +106,8 @@ MEIKO: ええ！
 ミク (VBS): ふふ。驚くのはまだ早いよ。 ——カイト！
 KAITO: オーケー！
 ミク・KAITO: 『♪——！　♪——～～～！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ほんっと最高だったなあ。 やっぱり、イベントっていいよね！
 杏: ねえ、私達のイベント、次はいつやろっか？
@@ -167,4 +147,4 @@ KAITO: オーケー！
 杏: はいはーい。 とりあえず都合がいい日を聞いてみないとね～
 杏: あ、こはね達もあとで予定教えてね！ ばっちり私が調整するから！
 こはね: うん！
-(Black cut)
+(Black transition)

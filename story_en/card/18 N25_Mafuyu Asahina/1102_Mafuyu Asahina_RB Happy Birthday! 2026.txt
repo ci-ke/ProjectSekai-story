@@ -67,7 +67,7 @@ Mizuki: <Have fun at the party at school!>
 (Background change)
 Mafuyu: <I will.>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's birthday]
@@ -106,7 +106,7 @@ Emu: Hehehe, are you curious about those?
 Shiho: Well, who wouldn't be, when there's a bunch of instruments placed in plain sight.
 Airi: Since Asahina has already noticed, let's move on to our special segment!
 Mafuyu: Special segment?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -124,7 +124,7 @@ Ichika: ♪——! ♪————!
 Mafuyu: (So those instruments were Hoshino's and the others... I had a feeling.)
 Mafuyu: ...
 Shizuku: Shall we start getting ready too, Airi?
-(Black cut)
+(Black transition)
 Ichika: Thank you!
 Mafuyu: I really didn't expect a performance from you all. Thank you. It was wonderful.
 Honami: We wanted to make sure our feelings came across in our performance. I'm glad you enjoyed it.
@@ -136,19 +136,15 @@ Airi: Feel free to join in the fun too, everyone! Let's have a great time!
 Airi: Alright, let's go!
 Shizuku & Airi: ♪——————!
 Mafuyu: (Everyone...looks like they're having fun.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Honami: We wanted to make sure our feelings came across in our performance. I'm glad you enjoyed it.
-(White cut)
+(White transition)
 Shizuku: We also wanted to sing and express our feelings for you today.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 Shizuku: Um... So Asahina, how did you find it?
 Mafuyu: It was great. I really enjoyed it.
 Mafuyu: I was a little surprised by the sudden show... But it made me happy to hear you all sing.
@@ -158,16 +154,12 @@ Mafuyu: Mizuki?
 Shizuku: Yes. I wanted to throw a party for your birthday, but I wasn't exactly sure about what to do...
 Shizuku: That's when Mizuki suggested singing, since music is so important to you.
 Mafuyu: I see. So Mizuki was the one...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: <Hehe. I'm sure there's a bunch of things planned for you behind the scenes.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (So that's what that was...)
 Mafuyu: Thank you for putting in so much thought just for me. It means a lot.
@@ -180,7 +172,7 @@ Mafuyu: Was that Tenma and Kamishiro?
 Emu: They helped me come up with a way to wish you a happy birthday☆ So we made you an original birthday song! Please listen!
 Mafuyu: An original birthday song? Hehe, I wonder what it sounds like.
 Emu: Hehehe♪ Then without further ado, I'll press play.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -220,8 +212,8 @@ MEIKO (N25): I'm fine to just listen.
 Ena: Birthday or not, they're the same as usual...
 Mizuki: Hahaha. If you ever feel like it, then join in whenever! Alright, I hope you enjoy this, Mafuyu!
 Mafuyu: Okay.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000405/bg_s000405.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000405/bg_s000405.webp)
 Toya: Happy birthday, Asahina. We heard from Akito it was your birthday, so we wanted to give you our well-wishes.
 An: Seriously, you could have told us sooner, Akito. We could've prepared a gift!
 Akito: Well this is how we're doing it, so stop complaining.
@@ -246,11 +238,11 @@ Ena: It was a rowdier party than I expected...
 Ena: But, looks like you enjoyed yourself. Happy birthday, Mafuyu.
 Kanade: It also makes me happy to celebrate your birthday like this with everyone, Mafuyu.
 Kanade: Once again, happy birthday. Also... I'm going to keep composing. So that I can save you one day. 
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: Thanks to everyone at school and in SEKAI, I got to listen to a lot of songs.
 Mafuyu: All songs full of feelings, huh...
 Mafuyu: I don't exactly know what feelings were in there, but...
 Mafuyu: They were all good songs, I think.
 Mafuyu: Thank you for wishing me a happy birthday.
-(White cut)
+(White transition)

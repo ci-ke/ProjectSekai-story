@@ -39,16 +39,12 @@
 エルの父: それに……
 エルの父: 遊園地建設は、お前が考えるべきことではない。 わが国には火急の問題が山積している。 そんな夢物語にかかずらっている暇はない
 えむ: ……！　でも……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エル: ですので……父に見破られないようにするためにも、 言われたことには、ただうなずいていてください
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: う……
 えむ: （しゃべったらきっとバレちゃう……！ だまってないと……）
@@ -57,54 +53,42 @@
 エルの父: 『分相応』という言葉が日本にはある。 意味は知っているか？
 エルの父: その人物の能力や地位にちょうどいいことを指す。 ……そう生きることが大切だ
 えむ: あ…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: 今あるアトラクションを壊さないまま お客さんを集める方法、他にもいっぱい考えてきたの！ だから——
 慶介: えむ。それは俺達の仕事だ。 お前が口を挟むことではない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………っ
 エルの父: ……エル。辛いだろうが、早く現実を見ろ
 エルの父: 無論、夢を見るのは悪いことではない。 が……お前も気づいているだろう
 エルの父: それは、目を向ければそれだけ苦しみが増す
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 晶介: いい加減にしろ！！
 晶介: 何が “みんなの笑顔”だ！！ そんなものにいつまでもこだわってるから、 どんどん客も寄りつかなくなってんだぞ！！
 慶介: ……ああ。結果が全てだ。 理想に固執するのはもうやめろ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………っ
 えむ: （エルちゃんのお父さんの言ってることは、 すっごくよくわかる……）
 えむ: （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: ——いいか、えむ
 司: 何を悩んでるか知らんが、前ここで話したことを忘れるな
 司: お前がみんなを笑顔にしたいように、 オレ達だって、お前を笑顔にしたい
-(White cut)
+(White transition)
 (Background change)
 エル: ですが——私は諦められないんです
 エル: 王族ならばこそ、あらゆる形で民を幸福にする方法を考えたい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ——嫌です
 エルの父: ……何？
@@ -129,4 +113,4 @@
 えむ: （あたしがエルちゃんの、味方になるんだ！！）
 (Background change)
 リン (WxS): 『……えむちゃん……』
-(Black cut)
+(Black transition)

@@ -54,7 +54,7 @@ Gacha phrase: たい焼きの妖精さんです！
 一歌: ふふ、バスの時間も楽しみになってきたよ
 えむ: どういたしまして♪
 えむ: 楽しい思い出、い〜〜っぱい作ろうね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -101,15 +101,11 @@ KAITO (WxS): お客さん達も声を出したり、体を動かしたり…… 
 えむ: そうなんだ…… どれも面白そうだけど、一緒にやろうとすると難しそうだもんね
 えむ: インパクトのあるキャラクターで、先が読めなくて…… 見るだけじゃないショー……むむむ……
 えむ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: そうだ……エイリアン！
 えむ: エイリアンのお話はどうかなっ！？
@@ -142,4 +138,4 @@ KAITO (WxS): なるほど。校外学習の経験がヒントになっていた�
 えむ: どういたしまして♪ あ、ねえねえ、あたしもお手伝いしていいかな！
 KAITO (WxS): もちろん、大歓迎だよ
 えむ: ありがとう！ 笑顔い～っぱいの、楽しいショーにしようね！
-(Black cut)
+(Black transition)

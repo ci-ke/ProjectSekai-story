@@ -2,7 +2,7 @@
 
 (Character: 星乃一歌, 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [１週間後　放課後]
@@ -11,7 +11,7 @@
 
 志歩: （今日も晴れてよかったな。 屋上、雨が降ると座れなくなるし）
 志歩: （……ん？ 屋上から何か聞こえてくる……？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園中等部　屋上]
@@ -28,26 +28,26 @@
 志歩: そう……
 ？？？: あ……でも、ここでギター弾いてると、うるさい？
 志歩: それは…………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000052/bg_s000052.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000052/bg_s000052.webp)
 志歩: ……まあ、別にいいよ。 好きに練習すれば
 ？？？: 本当？ ありがとう。助かる
 未羽: あ……そういえば、名前言ってなかったね。 私、２年の高木未羽
 志歩: ……２年の日野森志歩
 未羽: 日野森さんか。よろしくね
 志歩: うん……
-(White cut)
+(White transition)
 (Background change)
 生徒の声: 一歌～！　今から帰るの～？
 志歩: ……！
-(Black cut)
+(Black transition)
 (Background change)
 一歌: あ、うん。 そっちは部活どうだった？
 生徒: もうすぐ地区大会だから、先輩達気合い入っててさー！ すごいスパルタだよ！　一歌も１回練習出てみてよ！
 一歌: え……！ わ、私はそういうのちょっと……
 生徒: あはは！　冗談冗談！
 一歌: ふふっ。もう、驚かさないでよね
-(Black cut)
+(Black transition)
 (Background change)
 志歩: …………
 未羽: ……あの子、友達？
@@ -61,13 +61,13 @@
 志歩: それは……
 志歩: ……うん。そうだね
 志歩: ——弾くよ
-(Black cut)
+(Black transition)
 (Background change)
 未羽: ……う。指、痛……
 志歩: ……コード押さえる時は、 指の腹じゃなくて側面で押さえるといいよ
 未羽: あ、ほんとだ。さっきより押さえやすい。 ありがと
 志歩: ん
-(Black cut)
+(Black transition)
 (Background change)
 
 [１カ月後]
@@ -83,7 +83,7 @@
 軽音部部員B: つい最近立ち上げたんだ。 文化祭でバンド演奏したくって
 軽音部部員C: でも入るはずだったベースの子が都合悪くなっちゃって……。 今、経験者を探してるんだ
 軽音部部員A: そしたら噂で日野森さんが弾けるって聞いたんだよね。 私達と一緒にやってみない？
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宮益坂女子学園中等部　屋上)
 未羽: ……あ。 もう下校時間か。帰らないと
@@ -103,7 +103,7 @@
 未羽: …………
 未羽: ……ひとりで弾くと、 ギターの音がよく聴こえるな
 未羽: でもちょっと——静かすぎるかも
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -114,7 +114,7 @@
 志歩: ——じゃあ、早速合わせませんか。 文化祭まであと３カ月もないですし
 軽音部部員B: あ、そうだね。 とりあえずやってみよっか！
 軽音部部員A: はーい
-(Black cut)
+(Black transition)
 志歩: （……経験者って言ってただけあって、悪くないな）
 志歩: （今からしっかり詰めていけば、 文化祭当日にはもっと——）
 軽音部部員A: うん！ 日野森さんすっごくいいね！
@@ -131,7 +131,7 @@
 軽音部部員A: あー……まあ、たしかにそうかもね
 軽音部部員B: んー、じゃあとりあえずもう１回やってみる？
 志歩: はい。 お願いします
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
@@ -156,4 +156,4 @@
 志歩: （結局、まともに練習したのは初日ぐらいだ）
 志歩: （家で個人練習しようって提案しても、 全然改善されてないし……）
 志歩: （……どうすればいいんだろう）
-(Black cut)
+(Black transition)

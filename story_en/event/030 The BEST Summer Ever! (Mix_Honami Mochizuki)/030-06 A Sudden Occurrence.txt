@@ -33,7 +33,7 @@ Saki: What?! No! Does that mean we can't use it now...?!
 Student A: I... I'm so sorry...! I didn't mean to...
 Honami: No, really, it's okay! We'll figure something out. You two should go back to getting ready for your own presentation.
 Student A: Mochizuki...
-(Black cut)
+(Black transition)
 Saki: What do we do...?
 Kohane: There's only one set in the whole lodge, right...?
 Emu: No... Isn't there anything we can do? We won't be able to perform without that!
@@ -42,7 +42,7 @@ Honami: (We'd finally figured out what to do and practiced so much to get it jus
 Honami: (Wait, I know...)
 Honami: I'll go ask the teachers to see if we can borrow another drum kit. Please wait here in the meantime...!
 Saki: H-Hona?!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lodge Gym]
@@ -55,7 +55,7 @@ Honami: Luckily, nobody did. However, we heard that there was only one drum kit 
 Honami: Would that be possible?
 Teacher: Understood... I'll try talking to someone I know at one of the schools nearby. Would you mind waiting while I call them?
 Honami: Yes, of course. Thank you very much...!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Lodge Classroom)
 Honami: They said we could borrow another drum kit!
@@ -67,7 +67,7 @@ Emu: Wh-What do we do...?!
 Shiho: Hey, what are you all doing here? It's about to start, you know...?
 Saki: Oh, Shiho!
 Honami: We have a slight emergency on our hands...
-(Black cut)
+(Black transition)
 Shiho: And now you have no drums... But doesn't your group go last?
 Honami: Y-Yes...
 Saki: But we wouldn't make it back in time even if we went out and get it right now...
@@ -95,19 +95,19 @@ Miku (WxS): <Emu! Emu! Can I ask you something really quick?>
 Emu: M-Miku...?!
 Saki: Hm? Is something wrong, Emu?
 Emu: Oh, uh... I think someone's calling me...! Sorry, I'll be right back...!
-(Black cut)
+(Black transition)
 (Place: Lodge Classroom)
 Emu: Okay, we should be fine here. You want to ask me something, Miku...?
 Miku (WxS): <About that. *Whisper*>
 Emu: Oh, okay... Yeah, that sounds super fun! I might actually be able to if you're there to help me, Miku...!
 Emu: I'll go tell Saki right now!
-(Black cut)
+(Black transition)
 (Place: Lodge Classroom)
 Emu: Saki! Shiho! I got an amazing idea!
 Saki: You do?
 Emu: We just need to come up with a second performance!
 Saki & Shiho: Huh...?
-(Black cut)
+(Black transition)
 Saki: Emu, they gave us the green light!
 Saki: After I explained our situation to them, they said we could have a 10-minute break and a 5-minute slot for our second performance.
 Shiho: Also, here. That other group said that you could borrow their props, Otori.
@@ -118,4 +118,4 @@ Shiho: Oh, you're almost up...
 Saki: Okay, wish us luck!
 Emu: Thank you so much, Shiho! Here we go!
 Shiho: Break a leg, you two...
-(Black cut)
+(Black transition)

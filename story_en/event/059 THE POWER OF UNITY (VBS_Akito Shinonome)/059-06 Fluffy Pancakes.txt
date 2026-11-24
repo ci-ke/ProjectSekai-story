@@ -2,7 +2,7 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -31,15 +31,11 @@ Akito: But we're nowhere close to getting the atmosphere we want...
 KAITO: Atmosphere...? You mean that thing you mentioned the other day?
 Akito: Yeah. I know we're not gonna recreate it right off the bat, but we're so far from it... No hints as to what to do either...
 Akito: Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Is this about Tono...?
 Akito: Oh, you knew...?
@@ -82,8 +78,8 @@ KAITO: You may want to sit down and discuss that.
 KAITO: Once you reach an understanding... Yes, you'll all surely become a delicious batch of pancakes!
 Akito: Huh?
 Toya: P-Pancakes...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000079/bg_s000079.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000079/bg_s000079.webp)
 KAITO: That's right! You aren't guaranteed to end up with delicious pancakes just because you gathered up some good ingredients!
 KAITO: You have to mix the batter well and cook them right to get them to be nice and fluffy.
 KAITO: I believe events are no different. It can only become good after you've all mixed together and reach an understanding with one another.
@@ -92,7 +88,7 @@ Toya: We were convinced that we'd have to essentially compete against each other
 An: Now that you mention it, understanding one another would make it easier for us to all work together. That's the same for basketball or any other team sport!
 Kohane: Right. Getting to understand each other is bound to make our event even better.
 KAITO: Exactly! That's why I think it'd be good for all of you to get to know this Tono person and the other performers better.
-(White cut)
+(White transition)
 (Background change)
 Akito: Yeah, that's definitely worth giving a shot...
 Akito: Thanks, KAITO. We'll try everything that we can.
@@ -104,7 +100,7 @@ KAITO: Oh, that reminds me. MEIKO said how mixing the batter overzealously will 
 Kohane: Huh?
 KAITO: Luckily, these turned out beautifully! Hah hah hah!
 Akito: Why do I not feel reassured by that...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -124,21 +120,17 @@ Akito: Tono...?
 Arata: Okay. I'll head over now...
 Akito: (He's on his phone again...)
 Akito: (But with who...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: I believe events are no different. It can only become good after you've all mixed together and reach an understanding with one another.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: Toya, mind if I go over to talk to him...?
 Toya: Yes, of course. After all, I'd like to make some delicious pancakes too.
 Akito: Says the guy who doesn't like sweets...
-(Black cut)
+(Black transition)
 Akito: Tono...!
 Arata: Hm?
 Arata: Oh, Shinonome, Aoyagi. Were you both about to head home?
@@ -153,10 +145,8 @@ Akito: As fellow performers participating in the same event, we thought we shoul
 Arata: Was it that obvious? I guess I still have a long way to go.
 Arata: The truth is, I was about to go visit my partner at the hospital just over that way.
 Akito: Your partner? Hang on...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: What happened to this “partner” of yours?
 Arata: They're far away in a different city now...
@@ -165,10 +155,8 @@ Arata: They can't sing anymore. Not after the accident...
 Akito: Accident...?
 Arata: A traffic accident. This car ran through an intersection and...
 Arata: Well, they lived, but some parts of their body became paralyzed. Singing was no longer really possible.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: Wait, the hospital just over there...? What happened to them being somewhere far away?
 Arata: Originally, he was. But he was desperate to come back and started feeling a little better recently, so he got permission to transfer.
@@ -186,4 +174,4 @@ Toya: Yes, of course.
 Arata: Thank you. Alright, shall we?
 Akito: (Tono's partner...)
 Akito: (What's he gonna be like...?)
-(Black cut)
+(Black transition)

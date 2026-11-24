@@ -11,20 +11,16 @@ Gacha phrase: あいつ、今……想いを殺そうとしたな
 
 [湖]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO (N25): 『……お前は、いつもまふゆに言ってるだろ』
 KAITO (N25): 『想いを大切にしろと』
-(White cut)
+(White transition)
 KAITO (N25): 『お前自身の想いから目をそらすな』
 奏: 『わたしの、想い……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): どいつもこいつも、 どうして想いから目を背けるんだ
 KAITO (N25): ……ん？
@@ -47,7 +43,7 @@ MEIKO (N25): …………
 ルカ (N25): 何か言いたそうな顔ね、メイコ？
 MEIKO (N25): ……別に。 種をまいた人がどうにかするべきことだわ
 MEIKO (N25): はあ……
-(Black cut)
+(Black transition)
 (Background change)
 レン (N25): リン、絵はどこまで進んだの？
 リン (N25): ちょっとだけ。 近くも遠くも、ちゃんと描くの、難しくて
@@ -56,7 +52,7 @@ MEIKO (N25): はあ……
 レン (N25): え、リン？　どこに行くの？
 ミク (N25): ……カイト、リンと何かあった？
 KAITO (N25): 別に何も
-(Black cut)
+(Black transition)
 KAITO (N25): …………？
 ルカ (N25): こんにちは、カイト
 ルカ (N25): ——リン、ずいぶんいじけちゃっているわね？
@@ -73,7 +69,7 @@ KAITO (N25): ……ずいぶん楽しそうだな
 KAITO (N25): お前を楽しませるつもりはないからな
 ルカ (N25): そう。残念
 MEIKO (N25): …………
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,7 +94,7 @@ MEIKO (N25): 言葉どおりの意味ではないでしょうね
 MEIKO (N25): 種をまいたのはあなただから、 本当は傍観するつもりだったけれど……
 MEIKO (N25): 早めに対処することをお奨めするわ。 このままじゃ、ルカが楽しいだけだもの
 KAITO (N25): はあ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [湖]
@@ -109,51 +105,39 @@ KAITO (N25): ……待て
 KAITO (N25): ルカに何を吹き込まれたか知らないが、 どうせでたらめだぞ
 リン (N25): え……？
 KAITO (N25): とりあえず、言われたことを話せ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ルカ (N25): ——リン。そんな怖い顔をしてどうしたの？
-(White cut)
+(White transition)
 ルカ (N25): ……あら、それって盗み聞きじゃない？ カイトったら、ひどいわね
 ルカ (N25): でももしかしたら、 カイトはリンには荷が重いと思ったのかもしれないわ
 ルカ (N25): 奏が抱える罪の意識はとても重くて、複雑だから……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 リン (N25): ……だからそうやって、 わたしのこと子供扱いしてるんだって
 KAITO (N25): なるほど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): あなたから謝ってあげるのが 大人ってものじゃない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): （何が大人だ。 言うとおりにしていたら、火に油を注ぐところだった）
 KAITO (N25): お前……俺がそんな風に気をつかうヤツに見えるのか？
 リン (N25): え……
 KAITO (N25): 子供に背負わせるのはかわいそうだなんて、考えると思うか？ この俺が？
 リン (N25): それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 相手はお前を……お前の想いを殺そうとしてるのに、 情けをかける必要があるのか？
-(White cut)
+(White transition)
 KAITO: ……いい加減、目をそらすのはやめろ
 KAITO: 本当は、わかってんだろ。お前はただ——
 まふゆ: ……違う、……違う！　お母さんは……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (N25): ……気をつかうなんて変。 カイトは冷たいもん
 KAITO (N25): ……お前達みたいに甘くないだけだ
@@ -170,4 +154,4 @@ MEIKO (N25): 少なくとも、誤解は解けたようね
 ミク (N25): ……よかった
 KAITO (N25): はあ……
 KAITO (N25): （本当に、騒がしい連中だ……）
-(Black cut)
+(Black transition)

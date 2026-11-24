@@ -2,7 +2,7 @@
 
 (Character: Toya Aoyagi)
 
-(White cut)
+(White transition)
 (Background change)
 Toya: What are you...?
 Toya's Father: Keep your door closed. Your voice carried throughout the house.
@@ -67,15 +67,11 @@ Toya's Father: Twelve years.
 Toya's Father: That is how much time you spent living and breathing classical music.
 Toya's Father: From early in the morning to late at night, you spent hardly any time playing or sleeping.
 Toya: Oh...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000064/bg_s000064.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000064/bg_s000064.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I mean, that was because...
 Toya's Father: I know. It wasn't exactly the life you wanted.
@@ -84,10 +80,8 @@ Toya's Father: But the fact remains that you spent an enormous amount of time st
 Toya's Father: With serious intent.
 Toya: (The life I wanted...)
 Toya: (Yes, he's right. I just...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya's Father: No. Again.
 Little Toya (Toya): I'm sorry...
@@ -95,7 +89,7 @@ Toya's Father: Again.
 Little Toya (Toya): But my fingers...
 Toya's Father: No. Again. Until you get it right.
 Little Toya (Toya): Okay...
-(Black cut)
+(Black transition)
 Little Toya (Toya): *Sigh*
 Toya's Father: You finally got it right...
 Toya's Father: We'll stop here for today. It's time for dinner.
@@ -105,26 +99,20 @@ Little Toya (Toya): Yes, I was able to play it all the way through just now...
 Little Toya (Toya): But it didn't sound as pretty as I'd hoped... So, um...
 Little Toya (Toya): Can I try it one last time?
 Toya's Father: Alright...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (During that time of my life...)
 Toya: (I only cared about classical music.)
 Toya's Father: So, why?
 Toya's Father: Why do you keep dwelling on your decision to run?
 Toya: Because...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya's Father: Is this really it for you...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Because... I...
 Toya: I disappointed you... I completely dashed your hopes for me...
@@ -135,16 +123,12 @@ Toya: ...
 Toya's Father: But is that all you view that part of your life as?
 Toya's Father: Pain, suffering and disappointment? Don't you remember anything else from those days?
 Toya: I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Toya (Toya): Wow...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I...
 Toya's Father: As for me...
@@ -174,6 +158,6 @@ Toya: (I'd been studying how to play ever since I was very little...)
 Toya: (Nothing can change that...)
 Toya: (And my past is now going to allow me to do this...)
 Toya: To take on Ken, his team and their ironclad resolve.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000294/bg_s000294.webp)
-(Black cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000294/bg_s000294.webp)
+(Black transition)

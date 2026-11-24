@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -56,28 +56,24 @@
 ルカ: そうそう！ 杏ちゃんの感じてきた不安とか、これまでやってきたこととか
 杏: それは……まだ、ですけど……
 ルカ: そっか。なら——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000308/bg_s000308.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000308/bg_s000308.webp)
 ルカ: 思い切って話してみるのはどう？
 杏: え……！？
 ルカ: 杏ちゃんは自分だけの問題って思ってるかもしれないけど 私は、そんなことないんじゃないかなって思うんだ
 ルカ: もちろん、成長する姿が不安になる、なんて言ったら 困らせちゃうかもしれないけど……
 ルカ: でも私がこはねちゃんだったら、 杏ちゃんが悩んでることは教えてほしいし 一緒に解決したいって思うから
-(White cut)
+(White transition)
 (Background change)
 杏: こはねに……この気持ちを……
 杏: そんなこと、考えもつかなかったな……
 杏: （でも、たしかにルカさんの言うとおりかも）
 杏: （案外シンプルに、 素直にこはねに話して、一緒に考えてもらったほうが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………！
 杏: ……その、えっと……
@@ -95,4 +91,4 @@
 ミク (VBS): ……わかった。 必要だったら、いつでも相談に来て
 杏: うん！　ありがとう！
 冬弥: …………
-(Black cut)
+(Black transition)

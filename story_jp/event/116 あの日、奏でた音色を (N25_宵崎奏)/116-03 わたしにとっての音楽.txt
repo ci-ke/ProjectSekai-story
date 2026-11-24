@@ -30,32 +30,24 @@
 まふゆ: じゃあ、おやすみ。奏
 奏: おやすみ
 奏: ……わたしも、朝までに作業を終わらせないと
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の祖母: 『……ごめんなさいね、急にこんなこと言っちゃって』
 奏の祖母: 『でも……時間がある時に、少し考えてみて？ 奏ちゃん自身が、これからどうしたいのかっていうことを』
-(White cut)
+(White transition)
 (Background change)
 絵名: 『もっと、Kがやりたいこととか、 K自身が楽しいって思うことを考えてもいいんだからね？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: （……わたしがやりたいこと、 わたし自身が、楽しいって思うこと……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……そういえば、昔はあった気がする）
 奏: （お父さんが作るような、あたたかい曲を作りたくて……）
@@ -67,7 +59,7 @@
 奏: （わからない、けど…… 『やらなくちゃいけない』ってだけじゃ、ないような——）
 奏: ……わからないな……
 奏: 集中力も切れちゃったし、 ……少し、息抜きしよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -100,4 +92,4 @@ KAITO (N25): （……いや）
 KAITO (N25): （……あいつは、まふゆに届く曲を作るんだったな）
 KAITO (N25): （あいつが何を抱えているのか—— どうして、まふゆに届く曲を作れるのか）
 KAITO (N25): ……少し、見にいくか
-(Black cut)
+(Black transition)

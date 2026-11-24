@@ -13,15 +13,11 @@
 白鳥: 同じくらい、この夢も叶えたいって……そう思ったんです
 白鳥: だから——！
 えむ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 類: ——行ってくるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 えむ: …………うん、わかった
 白鳥: ……え？
 えむ: ……白鳥くんならきっと、たくさんの人を 笑顔にできる役者さんになれると思う！　ワンダーステージの お客さんも、白鳥くんのお芝居が大好きだから！
@@ -32,24 +28,20 @@
 えむ: …………
 えむ: （……ううん。これで、よかったんだ）
 えむ: （これで……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 大丈夫っ？ 困ってることがあったら、リンになーんでも言ってね？
-(White cut)
+(White transition)
 ？？？: ——ねえ、えむちゃん。 悲しい時は、笑顔でなくたっていいんだよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: え…………？
 えむ: （なんだったんだろう、今の……）
 えむ: って……わわ、もうこんな時間！？ 打ち合わせ始まっちゃう！
 えむ: 照明の資料を取りに行って、会議室も確認して…… う〜、やることいっぱいだよ〜！
-(Black cut)
+(Black transition)
 (Background change)
 
 [夜]
@@ -64,7 +56,7 @@
 晶介: 俺のほうから追加の議題は特にねえな。 えむはどうだ？
 えむ: あ、えっと……
 えむ: 実はちょっとだけ、相談したいことがあるんだ
-(Black cut)
+(Black transition)
 慶介: ……そうか。白鳥くんが
 えむ: うん……夢を叶えるために、 ワンダーステージを辞めたいんだって。 だから——
 えむ: 白鳥くんが抜けちゃう分、 新しいキャストさんのオーディションをしなくちゃいけないなって
@@ -117,15 +109,11 @@
 えむ: （迷惑かけたくなくて いっぱいいっぱい、隠さなくちゃって思ってたけど……）
 えむ: （この想いも、持ったままで——）
 えむ: （それで、いいんだ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （あの時の、胸がぎゅってする気持ちも……）
 えむ: うん……ありがとう、お兄ちゃん
@@ -138,7 +126,7 @@
 えむ: あたし、部屋に戻るね！ おやすみなさい、慶介お兄ちゃん、晶介お兄ちゃん！
 慶介: ああ、おやすみ
 晶介: …………送別会のしおりって、なんだ……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [週末]
@@ -157,6 +145,6 @@
 スタッフ: 実は、出張公演に行っていたキャスト達が、 悪天候のせいで 空港で足止めをくらっていて——
 スタッフ: このままだと、今日の午後公演に間に合わないんです！
 えむ: え……
-(Black cut)
+(Black transition)
 (Video: link2_wonder_ed4)
-(Black cut)
+(Black transition)

@@ -18,7 +18,7 @@
 愛莉: 多分、今のままでもバッチリだと思うわ！ こんなに綺麗にできてるんだもの
 瑞希: そう？ ふふっ、明日つけてもらえるの楽しみだなあ
 瑞希: あ、そうだ！ みのりちゃんと遥ちゃんにはお揃いのリボンを つけてもらうと思うんだけど——
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: は～！ ちゃんと衣装作りきれてよかったな！
 愛莉: ありがとう！ 瑞希のおかげで、 明日の配信はすごくいいものにできそうだわ！
@@ -32,15 +32,11 @@
 瑞希: でも、なんだろう……なんだか、ちょっと元気なさそう……
 愛莉: 本当ね……
 瑞希: あ——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 老婦人: この子はもうかなり歳で……。 以前病気していたこともあって、 いつ亡くなってもおかしくないんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: （もしかして……）
 瑞希: （でも……）
 瑞希: 愛莉ちゃん。 ちょっと行ってみてもいい？
@@ -68,22 +64,18 @@
 老婦人: 今日はお葬式の準備をしていて…… 明日、お見送りをする予定なの
 老婦人: もしよかったら…… 明日少しだけ、ムーちゃんのことを想ってくれたら嬉しいわ
 瑞希: ……はい
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: ……なんか、まだ信じられないな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ムーちゃん: ピピピーッ
-(White cut)
+(White transition)
 (Background change)
 ムーちゃん: ムーチャン！　大好キ！　ミズキ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……………………
 瑞希: （もう、ムーちゃんとは、会えないんだ…………）
@@ -98,7 +90,7 @@
 愛莉: 悲しい時も、嬉しい時も、 ずうっと一緒に過ごしてきて——
 愛莉: 柴山さんにとって…… かけがえのない存在だったんでしょうね……
 瑞希: …………うん…………
-(Black cut)
+(Black transition)
 (Background change)
 
 [愛莉の部屋]
@@ -106,15 +98,11 @@
 愛莉: はぁ……
 愛莉: ……ぼんやりしてちゃダメね。 明日は配信なんだから。段取りの確認しないと
 愛莉: えっと、オープニングは 遥と雫のコールで始めて——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000591/bg_s000591.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000591/bg_s000591.webp)
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: …………
 愛莉: あーもう……！
@@ -133,7 +121,7 @@
 雫のメッセージ (雫): 『ねえ愛莉ちゃん』
 雫のメッセージ (雫): 『今からセカイに来れないかな？ 少し、打ち合わせをしたくて』
 愛莉: え……セカイに？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -152,7 +140,7 @@ KAITO (MMJ): 聴いてください！ 『promise wedding』！
 愛莉: ……やっぱりこの曲、 わたしが好きなウェディングソングだわ……！
 愛莉: でも、なんでカイトさんがみんなと……
 愛莉: あ……。 もしかして——
-(Black cut)
+(Black transition)
 KAITO (MMJ): ——聴いてくれてありがとう！
 雫: 次は、愛莉ちゃんの大好きな曲メドレーよ！
 みのり: 思わずにっこりしちゃうような かわいいメドレーにしたんだ！
@@ -160,7 +148,7 @@ KAITO (MMJ): ——聴いてくれてありがとう！
 KAITO (MMJ): それじゃあみんな、準備はいいかな？
 雫・遥・みのり: 『はいっ！』
 愛莉: ……ホント、みんな、すぐ気づいちゃうんだから
-(Black cut)
+(Black transition)
 雫: ……愛莉ちゃん！ ライブ、どうだったかしら？
 愛莉: すっごく良かったわ！ いつの間に、こんなに振り入れしてたのよ
 みのり: えへへ……わたしが振りコピしたことのある曲が多かったから 結構早く覚えられたんだ
@@ -183,4 +171,4 @@ KAITO (MMJ): でも、やっぱり愛莉ちゃんを元気づけるならこれ�
 みのり: え？　どうしたの愛莉ちゃん
 愛莉: ……そうだわ……！
 愛莉: ねえみんな！ 明日の配信のことで、お願いがあるんだけど——
-(Black cut)
+(Black transition)

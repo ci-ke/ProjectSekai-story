@@ -8,14 +8,14 @@
 まふゆ: 思い切ってジャンプしたほうが、危なくないらしいよ
 奏: わ、わかった。 それじゃあ、いくね……
 奏: ——えいっ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000613/bg_s000613.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000613/bg_s000613.webp)
 奏: わ……！
 奏: お、思ったより速い——！
 瑞希: いい感じだよ、奏！
 絵名: そのまま、ちゃんと掴まってて！
 奏: うん……！
-(White cut)
+(White transition)
 (Background change)
 奏: ……ふう。 落ちなくてよかった……
 瑞希: お疲れさま、奏！ これで、ターザンロープも全員クリアだね！
@@ -27,7 +27,7 @@
 まふゆ: マップだと——
 まふゆ: 最後は、『水蜘蛛』らしいよ
 絵名: 水蜘蛛？
-(Black cut)
+(Black transition)
 絵名: え——何これ、落ちたら水！？
 瑞希: いやあ、初級コースでも 最後はやっぱり手加減なしなんだねえ
 絵名: 油断させておいていきなりとか、ちょっと卑怯じゃない？
@@ -41,7 +41,7 @@
 瑞希: まずはボクがやってみよっか？ もし無理そうなら、それでやめてもいいしさ
 奏: そうさせてもらおうかな……瑞希、お願いしてもいい？
 瑞希: はーい！
-(Black cut)
+(Black transition)
 瑞希: ——よいしょ、っと……。 とうちゃーっく！
 瑞希: うん、バランスさえ取れればそこまで難しくないよ。 近くまで来たらボクが引っ張るね！
 絵名: まあ、たしかに見てた感じ、そこまでじゃなさそうかも……
@@ -92,7 +92,7 @@
 瑞希: も〜、怖いなあ
 瑞希: じゃあ絵名がこっちまで来れたら、最後はまふゆの番ね！
 まふゆ: わかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [乃々木公園]
@@ -138,4 +138,4 @@
 まふゆ: 行きたいところ……
 まふゆ: …………海
 絵名: え？
-(Black cut)
+(Black transition)

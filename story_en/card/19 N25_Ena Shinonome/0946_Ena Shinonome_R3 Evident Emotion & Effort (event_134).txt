@@ -18,7 +18,7 @@ Ena: She's done working on that demo she told us about the other day? I'm guessi
 Ena: Let's see... We're meeting at... <Mizuki has work, so I'd like for us to meet in three hours or so.>
 Ena: Hmm... There isn't much N25 stuff for me to work on at the moment, so I guess I could draw something for practice to review what we did today.
 Ena: Alright!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -36,7 +36,7 @@ Rin (N25): (I could've sworn that someone came over to SEKAI just now... Was I i
 Rin (N25): (It's not like I have anything else to do, so I guess I'll draw something...)
 Rin (N25): Oh...
 Rin (N25): ...
-(Black cut)
+(Black transition)
 Ena: Phew...
 Ena: This is coming along pretty nicely. All that's left is...
 Ena: Whoa...!
@@ -75,7 +75,7 @@ Rin (N25): I wanna hear what's changed, so I'll come with you.
 Ena: Sure, why not? I'm sure Kanade will want to hear as many different opinions as she can.
 Ena: And it's just about time, so let's go look for them.
 Rin (N25): Okay...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -112,7 +112,7 @@ Elderly Lady: It was in my bag this whole time...! Now I feel terrible about mak
 Mafuyu: No, we're just glad that you were able to find it since it means so much to you.
 Mafuyu: Thank you, Ena. We wouldn't have been able to find it without you.
 Ena: Huh? Uhh... Y-You're welcome.
-(Black cut)
+(Black transition)
 Elderly Lady: Thank you so much. Now, if you'll excuse me.
 Ena: Okay, please stay safe.
 Ena: Phew... Thank goodness we were able to find it.
@@ -138,4 +138,4 @@ Ena: Nope. Take it.
 Ena: Anyway, I gotta go to school. See you on Nightcord later!
 Mafuyu: Okay... Stay safe.
 Ena: You too.
-(Black cut)
+(Black transition)

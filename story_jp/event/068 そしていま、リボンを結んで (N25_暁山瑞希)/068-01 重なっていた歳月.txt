@@ -4,7 +4,7 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [深夜]
@@ -71,15 +71,11 @@
 まふゆ: 『しばらくしたら、また模試もあるから』
 (Background change)
 瑞希: （模試……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 『……ねえ、雪。 最近、お母さんとはどうなの？』
 (Background change)
@@ -132,16 +128,12 @@
 まふゆ: 『……ここで作業してると、一番落ち着くから』
 (Background change)
 瑞希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (N25): まふゆは、奏達と曲を作ってる時は 安心した顔をしてるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Background change)
 奏: 『まふゆ……』
@@ -169,7 +161,7 @@
 絵名: 『わかった。またね、K』
 (Background change)
 瑞希: 『じゃあ、始めよっか！ えっと……』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: 『——了解！ それじゃあ今話した感じで絵コンテよろしくね』
 (Background change)
@@ -186,30 +178,22 @@
 瑞希: 『あ……』
 瑞希: （……長いつきあい、か）
 瑞希: （たしかに、あの頃からのつきあいだもんね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……あの頃は、 こんなに長いこと誰かと一緒にいるなんて、 想像つかなかったな）
 瑞希: （たぶん、ボクも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『……ここで作業してると、一番落ち着くから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……まふゆと同じなんだろうな）
 (Background change)
@@ -219,7 +203,7 @@
 瑞希: 『だからそれが嬉しいって話だよ！ いつもありがとね、えななん！』
 絵名: 『……はいはい、どういたしまして。 それじゃ、早速作業入ろっか』
 瑞希: 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -232,4 +216,4 @@
 瑞希の母: 『あと、お姉ちゃんから荷物届いてたから、 リビングに置いておいたよ』
 瑞希: え——
 瑞希: ……お姉ちゃんから？
-(Black cut)
+(Black transition)

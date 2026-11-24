@@ -2,7 +2,7 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -22,7 +22,7 @@
 瑞希: ううん、そこで偶然ばったり会ったんだ。 絵名が寝過ごさないなんてびっくりしちゃったよー
 絵名: 人を遅刻魔みたいに言わないでくれる？
 瑞希: ま、何はともあれ、みんなで人形展にレッツゴー！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [人形展会場]
@@ -48,7 +48,7 @@
 奏: （今、どうしてあんな顔をしてたんだろう）
 奏: （……まふゆが何を感じて、何を考えてるのか、 もっとわかったらいいのに）
 奏: どうすればいいんだろう……
-(Black cut)
+(Black transition)
 絵名: なんでこの人形、こんなに生きてるように見えるんだろ……。 血色感？
 瑞希: んー、目にもなんか工夫してるっぽいんだよね。 光が入った時のキラキラ感が……
 絵名: あ、あっちにも同じ人の作品あるみたい
@@ -58,24 +58,24 @@
 奏: そっか
 まふゆ: お手洗いに行ってくる
 奏: あ……うん
-(Black cut)
+(Black transition)
 まふゆ: ……？
 まふゆ: （こんなところにも人形が飾られてる）
 まふゆ: （でもこの人形、他の人形とちょっと違うような……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000025/bg_a000025.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000025/bg_a000025.webp)
 まふゆ: （……あ。糸で吊られてるんだ）
 まふゆ: （じゃあ、マリオネット？）
 まふゆ: （……なんだろう。 この人形なんだか――）
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: 本当にいい子ね
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: …………っ！
-(Black cut)
+(Black transition)
 奏: まふゆ、遅いな。どうしたんだろう
 奏: お手洗いはあっちだっけ……あれ？
 まふゆ: ハァ……ハァ……
 奏: まふゆ……！？
-(Black cut)
+(Black transition)

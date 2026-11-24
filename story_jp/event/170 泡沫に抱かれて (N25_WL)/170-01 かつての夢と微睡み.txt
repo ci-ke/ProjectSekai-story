@@ -10,7 +10,7 @@
 ？？？: ……で
 ？？？: ——奏
 幼い奏の声 (奏): おかあ、さん…………？
-(Black cut)
+(Black transition)
 (Background change)
 奏の母: 奏、もしかしてお昼寝してたの？
 奏の父: はは、今日は天気もいいし 気持ちいいからなあ
@@ -21,7 +21,7 @@
 幼い奏 (奏): ねえねえおとうさん、おとうさんの曲、聴きたいな！
 奏の父: いいよ。じゃあ—— 『奏とお母さんのニコニコ日曜日』はどうかな
 幼い奏 (奏): わーい！
-(White cut)
+(White transition)
 (Background change)
 奏: …………っ、あ……
 奏: 夢、か……
@@ -29,23 +29,19 @@
 奏: （お父さんとお母さんがいて、みんな笑ってて……）
 奏: ………………作業の続き、やろう
 奏: （まふゆのお母さんのことは、まだわからないけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆ: ……私も、知りたい
 まふゆ: ……怖いけど、それでも……
 まふゆ: 私の思ってることが、本当なのか、どうか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 奏: …………
 奏: （まふゆも、前に進もうとしてる）
 奏: （だからわたしも…… ちゃんと、まふゆを救えるような曲を作らなきゃ————）
 奏: ……あれ？　ナイトコード、誰もログインしてない
 奏: おかしいな、もう25時過ぎてるのに
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -76,13 +72,13 @@ MEIKO (N25): 正確には、黒い欠片のようなものが付着している�
 奏: え……？
 (Background change)
 ミク (N25): 奏……！
-(Black cut)
+(Black transition)
 
 [？？？]
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

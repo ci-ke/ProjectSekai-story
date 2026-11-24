@@ -10,7 +10,7 @@ Little Kanade's Voice (Kanade): Mm...
 ???: ...de.
 ???: Kanade.
 Little Kanade's Voice (Kanade): Mommy...?
-(Black cut)
+(Black transition)
 (Background change)
 Kanade's Mother: Were you taking a nap, Kanade?
 Kanade's Father: Haha. It is nice and sunny out today. She must have gotten comfy.
@@ -21,7 +21,7 @@ Little Kanade (Kanade): That's because it was so yummy!
 Little Kanade (Kanade): Oh, Daddy! I wanna hear one of your songs!
 Kanade's Father: Sure. How about I play “Kanade and Mommy's Happy Sunday”?
 Little Kanade (Kanade): Yay!
-(White cut)
+(White transition)
 (Background change)
 Kanade: Huh...?
 Kanade: I was dreaming...?
@@ -29,23 +29,19 @@ Kanade: (It's been a while since I had a dream like that.)
 Kanade: (Mom, Dad and I were all smiling and laughing...)
 Kanade: I should get back to work...
 Kanade: (I still don't know much about Mafuyu's mom, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mafuyu: I also want to know more.
 Mafuyu: I'm scared, but...
 Mafuyu: I want to see if what I felt was real.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kanade: ...
 Kanade: (Mafuyu's also trying to move forward.)
 Kanade: (That's why... I need to keep trying to compose a song which can save her.)
 Kanade: Huh...? Nobody else is on Nightcord right now.
 Kanade: That's odd. It's past 25:00.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -76,13 +72,13 @@ Kanade: For example, I can get this one...
 Kanade: Huh...?
 (Background change)
 Miku (N25): Kanade...!
-(Black cut)
+(Black transition)
 
 [???]
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

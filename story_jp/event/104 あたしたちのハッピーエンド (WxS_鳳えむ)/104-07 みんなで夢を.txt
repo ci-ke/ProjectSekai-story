@@ -22,39 +22,35 @@
 えむ: あ……
 えむ: どうしよう……
 えむ: ……止まんない……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: あたし、鳳えむ！ キラキラ笑顔がい～っぱいのワンダーステージへようこそ！
 えむ: いっしょにすばらしいショーをつくろうねっ☆　司くんっ♪
 司: ……ん？　んん？　んんんん？
 司: ど、ど、どういうことだーー！？
-(White cut)
+(White transition)
 司: というわけで演出家を連れて来たぞ！
 えむ: わあ～！　昨日のショーの人だ！ ようこそわんだほ～い☆
 類: へえ。こんなステージがあったなんて知らなかったな。 古いけど、しっかり手入れされているね
 類: 君が、司くんの言っていた子だね。 神代類だよ。よろしく
-(White cut)
+(White transition)
 えむ: ロボちゃん、お名前はあるの？　教えて！
 ロボット: 『……名前？　え、ええっと……』
 類: そういえば、ロボット自体に名前はつけていなかったね。 この際、君の名前を教えたらどうだい？
 ロボット: 『……草薙寧々』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000086/bg_s000086.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000079/bg_a000079.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000086/bg_s000086.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000079/bg_a000079.webp)
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……っ、ぅ……
 えむ: う……う……っ
-(Black cut)
+(Black transition)
 (Background change)
 司: ——今日のミク達のショーは、とても良かったな
 類: ああ、そうだね。 ミクくん達の優しさを、深く感じたよ
@@ -76,7 +72,7 @@
 司: 何？　ならば戻らねば！
 類: 幸いワンダーステージまでそう離れていないしね。 一度戻ろうか
 寧々: う、うん。 ごめん……ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 寧々: ちょっと待っててね。 すぐ取ってくるから
 司: ああ。焦らず行ってくるといい。 足元も暗いからな
@@ -181,18 +177,14 @@
 晶介: ああ。 ……で、それを勧めたのは誰だと思う？
 晶介: ——じいさんだ
 えむ: ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 楽之介: そして……ここで笑顔になれたなら、 えむの周りの世界を見渡してごらん
 楽之介: その世界はステージの上の世界のように 美しいものばかりではないだろうけれど——
 楽之介: きっと、そこで見たものは、えむの力になるからね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……あ……
 晶介: お前が本当にここを守りたいって思うなら—— 外で見聞を広めて……それで、必ず帰ってこい
@@ -238,4 +230,4 @@
 類: ああ、そうだね
 えむ: みんな——ありがとう！
 えむ: これからも、よろしくね！
-(Black cut)
+(Black transition)

@@ -29,10 +29,10 @@ Emu: We're back, Robo-Nene!
 MEIKO: <Thank goodness we're back at base camp...>
 MEIKO: <Hm? Is it just me or are things getting really dark all of a sudden...?>
 KAITO: <Uh oh... What if...?!>
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: Huh...?! W-Wait!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -54,15 +54,15 @@ Rin: Alright, I'm gonna do my best to help too!
 MEIKO: Okay, let's start gathering things that are edible in SEKAI and set up a sleeping area!
 KAITO: The mats we use during practices could work as substitute mattresses.
 MEIKO: Great idea! Let's split up and get gathering♪
-(Black cut)
+(Black transition)
 Miku (WxS): Guys, look! I brought over some snacks that I'd been saving for later!
-(Black cut)
+(Black transition)
 Rin: KAITO, mind if I use this adorable fabric as a cover for the mats?
 KAITO: Oh, like sheets? That's a good idea. Thank you for doing that.
 Rin: Awesome! Luka, Len, let's get the mats ready together!
 Luka: Hehe. Okay...
 Len: Yeah!
-(Black cut)
+(Black transition)
 MEIKO: Our camp's coming along really nicely♪
 KAITO: Yes, it is.
 KAITO: ...
@@ -75,7 +75,7 @@ MEIKO: Hehe. You're welcome♪ But I believe I deserve a little more praise than
 MEIKO: I mean, I've already come up with some different uses for our camping gear in the event that Tsukasa and the others tell us that they don't need to take shelter here.
 KAITO: Oh, mind telling me more?
 MEIKO: Not now. You'll just have to wait to find out♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -107,7 +107,7 @@ MEIKO: Yes, I felt it too!
 Len: Yeah, me too! Does that mean...?
 MEIKO: Oh, our connection may be back!
 KAITO: Yes, it might be! Hello?! Tsukasa?! Everyone?!
-(Black cut)
+(Black transition)
 MEIKO: Thank goodness they were able to call for help.
 KAITO: Not only that, they still get to do their show as ambassadors despite the change in schedule.
 Luka: Hehe. I'm so glad for them.
@@ -128,7 +128,7 @@ Rin: Yeah, me three!
 Miku (WxS): Hey, no fair! I wanna try it too!
 MEIKO: Haha! In that case, let's use everything we set up to have a little campout!
 Everyone: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): Plushies! Wanna be my bedding?!
 Plushies: Sure, just lie down on that bed for us! And... Here we go!
@@ -144,4 +144,4 @@ Len: Haha. You guys, that tickles...
 KAITO: Hehe. This is turning into a fun and lively campout already.
 MEIKO: Yes, it is! It just goes to show that SEKAI needs to be full of smiles and laughter♪
 MEIKO: So, let's join in on the fun!
-(Black cut)
+(Black transition)

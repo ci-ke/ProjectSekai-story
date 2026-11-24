@@ -3,9 +3,9 @@
 (Character: 宵崎奏, 朝比奈まふゆ, 初音ミク)
 
 まふゆ: ……え？ パソコンが勝手に……？
-(Black cut)
+(Black transition)
 まふゆ: 楽曲ファイル……？ でも誰から？
-(Black cut)
+(Black transition)
 まふゆ: え！？　この光は……！？
 (Background change)
 
@@ -22,7 +22,7 @@
 ミク: （この時のまふゆちゃんは、 本当の想いを見失ってて——）
 ミク: （このセカイのわたしも、 この時は、どうしたらまふゆちゃんを支えられるのか、 わからなかったと思うから）
 ミク: （だけど、それでも——）
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -48,7 +48,7 @@
 ミク: （……そうだね）
 ミク: （これから——このセカイが、 まふゆちゃんにとって大切な場所になるはずだよ）
 ミク: （もちろん……このセカイのわたしにとっても）
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 【K】 (奏): 『——雪、曲のミックスありがとう。 聴いてみたよ』
@@ -67,20 +67,20 @@
 まふゆ: （……Kが作ってくれたこの曲も……感じるものはあったけど まだ、見つからない）
 まふゆ: （でも、いつか——）
 まふゆ: （いつか、きっと……）
-(Black cut)
+(Black transition)
 (Background change)
 教師: ——朝比奈さん、いつもお手伝いしてくれてありがとう。 ごめんなさいね、お昼の時間なのに
 まふゆ: いえ、これくらい気にしないでください。 次はこの資料を教室に運んでおけばいいんですよね？
 教師: ええ！　すごく助かるわ
 教師: あと、もし時間があれば——
-(Black cut)
+(Black transition)
 (Background change)
 まふゆの母: まふゆ、先生に聞いたわよ。 学級委員をやるんですって？
 まふゆ: あ……うん。 みんなに推薦してもらったんだ
 まふゆの母: まあ、すごく立派だと思うわ。 頑張ってね、まふゆ
 まふゆの母: ただ、頼りにされすぎないように気をつけるのよ？ 助けすぎると、その人のためにもならないもの
 まふゆ: ふふ、気をつけるね。 ありがとう、お母さん
-(Black cut)
+(Black transition)
 (Background change)
 ミク (N25): ——まふゆ、大丈夫？
 まふゆ: ……ミク……
@@ -100,7 +100,7 @@
 まふゆ: ずっと、このセカイにいたい
 ミク (N25): あ……
 ミク: …………
-(Black cut)
+(Black transition)
 ミク (N25): …………
 ミク (N25): まふゆの本当の想いを……見つけてあげたい
 ミク (N25): でも、このままじゃ……見つけられない
@@ -113,8 +113,8 @@
 ミク (N25): この曲を作った子なら、まふゆを見つけてくれるかもしれない
 ミク (N25): ……会いに、行こう
 ミク (N25): まふゆのために——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000346/bg_s000346.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000346/bg_s000346.webp)
 ミク: ——ありがとう
 ミク: 何もないこのセカイで、たったひとりで—— あの子のために頑張ってくれて
 ミク: あの子の想いを、守ってくれて
@@ -124,10 +124,10 @@
 ミク: ずっと見守ってるよ
 ミク: これからも、ずっと——
 ミク (N25): ……あ……
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): ……なんだろう
 ミク (N25): さっき……あったかい、感じがした……
-(Black cut)
+(Black transition)
 (Video: link_ppr_ed6)
-(Black cut)
+(Black transition)

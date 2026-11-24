@@ -24,7 +24,7 @@ anemoneのメンバーA: それはそうだけどさあ……
 志歩: ……じゃあ私達、準備があるので
 朔: ……へえ。 この前会った時とは、結構違う感じだね
 朔: ……期待しちゃっていいのかな？
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -46,7 +46,7 @@ anemoneのメンバーA: それはそうだけどさあ……
 志歩: ……いよいよだね
 一歌: 大丈夫。 絶対に、私達の演奏はお客さんに届く
 一歌: だから——楽しもう！
-(Black cut)
+(Black transition)
 (Background change)
 一歌: こんばんは、Leo/needです！
 一歌: このステージに立つのは２回目です。 はじめましての人も、２回目のかたも、よろしくお願いします！
@@ -71,7 +71,7 @@ anemoneのメンバーA: それはそうだけどさあ……
 朔: へえ。この前よりうまいね
 朔: ……でも
 朔: こんなもんか
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ——……♪
 穂波: （２曲、全力でやりきった……！）
@@ -103,8 +103,8 @@ anemoneのメンバーA: それはそうだけどさあ……
 志歩: （私も、足りないものに気づいたり、悩んだり……。 いろんなことがあった）
 志歩: （……それでも、私がここまでやってこれたのは、 ミク達と、みんながいてくれたから）
 志歩: （——みんなと一緒に、Leo/needでいたいと思ったからだ）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000110/bg_s000110.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000110/bg_s000110.webp)
 志歩: （……お客さんが、音を感じてくれてる）
 志歩: （お客さんの想いも、みんなの音も——。 綺麗に重なって、自然と体が揺れてくる）
 志歩: （……ステージの上って、こんなに気持ちいいんだ。 音楽をやってもう長いのに、こんな感覚は初めてだな）
@@ -112,7 +112,7 @@ anemoneのメンバーA: それはそうだけどさあ……
 志歩: （だったら、いいな。 みんなと一緒に、この楽しさを感じられてたら）
 志歩: （——やっぱり、私は音楽が好き）
 志歩: （みんなと演奏してる、この瞬間が好き。 ……だから、みんなと一緒にやっていきたい。 これからも、ずっと——）
-(White cut)
+(White transition)
 (Background change)
 (Background change)
 anemoneのメンバーA: ……へえ、やるじゃん、あの子達。 この前とは別のバンドみたい
@@ -121,8 +121,8 @@ anemoneのメンバーA: 次出るの私達だけど……負けられないね�
 anemoneのメンバーA: 朔？ お～い、さ～く～
 anemoneのメンバーB: あー、ダメダメ。 こうなったら、しばらく戻ってこないって
 anemoneのメンバーA: え～！？ そんなこと言っても、出番次なんですけど！？
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 朔: …………。 やるじゃん
-(Black cut)
+(Black transition)

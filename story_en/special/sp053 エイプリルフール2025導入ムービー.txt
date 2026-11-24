@@ -21,14 +21,14 @@ Miku: But look over there. You should see for yourself.
 (Fullscreen text): Since then, many have sought to make Coda's power theirs.
 (Fullscreen text): A battle soon unfolded between those who wished to use it for themselves and those for the sake of others.
 (Fullscreen text): This is a record of what was surely a battle of epic proportions.
-(Black cut)
+(Black transition)
 (Background change)
 Commander Keisuke: My fellow heroes.
 Commander Keisuke: Your actions will dictate whether or not Shibuya remains a peaceful place. Do your best again today.
 Heroes: Roger!
 Heroes: Understood!
 Heroes: ...
-(Black cut)
+(Black transition)
 (Background change)
 ??? (Kanade): Thank you all for being here, my fellow villains...
 ??? (Kanade): There is no need to fear those heroes. Just go out there and wreak havoc.
@@ -37,4 +37,4 @@ Villains: To our heart's content...
 Villains: To our heart's content.
 Villains: To our heart's content. To our heart's content...!
 ??? (Kanade): Then, let's begin, shall we?
-(Black cut)
+(Black transition)

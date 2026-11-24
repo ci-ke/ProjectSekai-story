@@ -23,15 +23,11 @@ Kohane's Mother: Still, you got home so late today. You look exhausted. You must
 Kohane: No, we just went over to Kanagawa. But our spot in the event lineup was pretty late...
 Kohane's Mother: Really? So, how did it go?
 Kohane: Good. I think we all did our best and produced some nice results...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: It was a battle event, and just about managed to win. Everyone remembers who we are now.
 Kohane: I'm hoping we can keep improving like this...
@@ -58,7 +54,7 @@ Kohane: Oh, okay! I will!
 Kohane: (Hehe. I feel a little more awake after talking with Mom.)
 Kohane: (I'll take that bath, go to bed...)
 Kohane: (And do my best again tomorrow...!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,4 +117,4 @@ Kohane: Oh, we've taken a pretty long break now. Let's get back to practicing!
 Akito: Alright, we'll start again from the top while being mindful of what we discussed in the debrief.
 An: Okay! I'm all recharged and ready to go whenever!
 Kohane: Me too! Let's give it one last good effort!
-(Black cut)
+(Black transition)

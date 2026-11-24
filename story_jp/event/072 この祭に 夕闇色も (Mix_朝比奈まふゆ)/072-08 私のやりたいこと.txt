@@ -32,21 +32,17 @@
 類: ……どうして、そのように思うんですか？
 まふゆ: どうして…………どうしてかな。 ……なんとなく、ですかね
 まふゆ: なんとなく……周りを見ていて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: みんなで、希望を届けたい！って思って、 ここまで頑張ってきたから
-(White cut)
+(White transition)
 (Background change)
 穂波: みんなでプロになるために—— できることは全部やりたいって思ったんです
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……そう思ったんです
 まふゆ: 私には、本当にやりたいことなんて——ないって
@@ -59,8 +55,8 @@
 まふゆ: …………
 まふゆ: そうですか？ そんなことないと思いますけど……
 類: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000119/bg_s000119.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000119/bg_s000119.webp)
 類: もしかすると、気づけていないだけかもしれませんよ
 まふゆ: え……？
 類: 実は、僕は昔、自分のやりたいことがわからなかったんです
@@ -71,7 +67,7 @@
 まふゆ: …………
 類: 気づけなかったのは、諦めていたからです。 どうせ、自分のやりたいことを一緒にやってくれる人なんて いないだろうと
 類: でも、仲間に出会えて、本心を問われて、 ようやく本当の気持ちと向き合えました
-(White cut)
+(White transition)
 (Background change)
 えむ: 類くん……
 類: ——それで、思ったんです
@@ -97,22 +93,18 @@
 類: フフ、無茶を言ってしまってすみません。 ……よろしければ、ぜひ
 類: それじゃあ、僕達は失礼します。 手当て、本当にありがとうございました
 まふゆ: ……ショー、か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 類: 本当にやりたいことを自覚するのは 思った以上に難しい
 類: だから……もしかしたら朝比奈さんも そうなのではないかと思ったんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: ……やりたいこと……
 通行人: なあ、ステージエリア行こうぜ！ アマチュアだけど、すごい実力派なんだよ！
 まふゆ: （あ…………もうこんな時間なんだ）
 まふゆ: （ボランティアは、５時までだから——）
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージ裏]
@@ -122,7 +114,7 @@
 彰人: ——司センパイ！　草薙！
 司: 彰人！　類とえむを見なかったか！ 装置の調整をすると言っていたんだが、見当たらなくてな……
 彰人: それなんすけど、実は——
-(Black cut)
+(Black transition)
 司: なに～！　類がケガだと～！？
 寧々: 救護テントにいるって……。 わたし達も行ったほうがいいんじゃ……！
 司: うむ、こうしてはおれん！ さっそく類のところに——
@@ -145,7 +137,7 @@
 司: 類を救護テントに連れていってくれたこと、心から礼を言う！ ありがとう！
 寧々: それから……類のためにも落ちつけって言ってくれたことも。 すごく助かった
 彰人: ……どうも。ま、別に、大したことはしてねえよ。 じゃあな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージエリア]
@@ -161,7 +153,7 @@
 瑞希: 今からちょうど弟くん達のステージだよ！ 間にあってよかったね！
 絵名: そういえば、夏祭りの時は相棒くんと歌ってたけど、 ４人で歌うとどんな感じなんだろうね
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ステージ裏)
 こはね: いよいよだね。 お客さんも盛り上がってるみたい
@@ -190,7 +182,7 @@
 類: フフ……言うねえ
 彰人: よし。 それじゃあお前ら！ 全力でぶちかますぞ！
 杏・こはね・冬弥: 『うん！』 『ああ！』
-(Black cut)
+(Black transition)
 (Background change)
 杏: やっほー！　Vivid BAD SQUADだよー！ みんな、盛り上がってるー！？
 彰人: 全力でいくから、ついてこいよ！
@@ -211,4 +203,4 @@
 (Background change)
 まふゆ: （……すごい歌声。 耳が痛いくらい）
 まふゆ: （でも——）
-(Black cut)
+(Black transition)

@@ -29,7 +29,7 @@ Emu: Okay...!
 Hinata: Hehe...
 Hinata: (They're so optimistic about the park's future. Just like when we were little.)
 Hinata: (I couldn't be happier for them.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [That night]
@@ -49,7 +49,7 @@ Shosuke: Yes, I see... A prequel for the night show, huh?
 Keisuke: That's something our core visitors would really enjoy. We'll take it into consideration.
 Emu: Yay☆
 Emu: Alright, my next idea has to do with how to make the night show more fun while you're riding the Ferris wheel...
-(Black cut)
+(Black transition)
 Emu: Okay, that's everything!
 Shosuke: So many ideas... Where did you find the time to come up with all of these?
 Emu: Like when? After waking up, on my way to school, during class, on my way home and before I go to bed...?
@@ -92,28 +92,20 @@ Shosuke: Running a company like ours is indeed no small task, and with regards t
 Shosuke: Oh, I'm getting a call. Sorry, I'll also be right back.
 Emu: O-Okay...
 Emu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shosuke: But that's not really your department, is it, Emu?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: (Was he trying to say that I'm not really cut out for the business side of things...?)
 Emu: (But if I don't do something...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: (I'll just be stuck relying on everyone else.)
 Emu: (I couldn't do anything without them when I was just claiming to want to protect the Wonder Stage and Phoenix Wonderland...)
@@ -125,4 +117,4 @@ Emu: Eep! Y-You're back from your calls?
 Shosuke: You didn't hear any of that just now, huh? I'll say it once more, so listen carefully.
 Shosuke: How does visiting the United States sound...?
 Emu: What...?!
-(Black cut)
+(Black transition)

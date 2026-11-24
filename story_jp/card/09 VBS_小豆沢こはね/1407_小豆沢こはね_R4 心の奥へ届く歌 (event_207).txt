@@ -35,19 +35,15 @@ Gacha phrase: お願い、届いて……！
 ルカ (VBS): 『セカイを持ってる子達って、 こはねちゃんも知ってる子達なんでしょ？』
 ルカ (VBS): 『だったら、ちょっとくらい予想できたりするんじゃない？』
 こはね: えっと、そうですね……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: あ……
 こはね: 穂波ちゃんは学校のセカイって言ってたから、 ルカさんも生徒なのかもしれないですね
@@ -81,7 +77,7 @@ Gacha phrase: お願い、届いて……！
 こはね: 私もすごく楽しみです
 こはね: 他のルカさんの予想もあってるか気になっちゃいますね
 ルカ (VBS): 『だね。みんなで顔合わせ、ますます楽しみになってきたよ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,7 +98,7 @@ Gacha phrase: お願い、届いて……！
 雫: まあ！　私達も屋上に行くところだったのよ！ よければ、一緒にお昼どうかしら？
 穂波: せっかくだから、ご一緒させてもらおうか
 こはね: うん。一緒にお昼、嬉しいな
-(Black cut)
+(Black transition)
 (Background change)
 
 [屋上]
@@ -111,7 +107,7 @@ Gacha phrase: お願い、届いて……！
 雫: それじゃあ、周りを気にせず４人でお話できそうだし——
 雫: よかったら、朝比奈さんもゆっくり過ごしてね
 まふゆ: ……ありがとう
-(Black cut)
+(Black transition)
 こはね: ——改めて、皆さんのこともっと知れてよかったです
 こはね: 欠片のことは、ちょっと驚いちゃいましたけど……
 穂波: ふふ、そうだね。 あ、あとルカさん達とも仲良くなれて嬉しかったな
@@ -161,4 +157,4 @@ Gacha phrase: お願い、届いて……！
 ルカ (N25): 『ふふ、でも素敵な予想だったわよ』
 こはね: （みんな、優しくて素敵なルカさんだな……）
 こはね: （会えて、本当によかった……！）
-(Black cut)
+(Black transition)

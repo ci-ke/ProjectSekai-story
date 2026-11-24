@@ -40,14 +40,14 @@
 一歌: ストリートライブで演奏してる時、 聴いてくれてる人に、私の歌が届いてほしいって考えたんだ
 一歌: この気持ちが、志歩が言っていたことなのかもって……
 志歩: 一歌……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000068/bg_a000068.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000068/bg_a000068.webp)
 一歌: STANDOUTのライブに比べたら、全然足りないけど……。 でも私もいつか、こんな演奏がしたいって思った
 一歌: プロになる覚悟は、まだちゃんとできてないかもしれない
 一歌: でも、志歩と一緒にバンドがしたい。ライブがしたい。 一緒に……誰かの心を打つ演奏がしたい
 一歌: この想いの先に、プロって道があるのなら—— 私は、プロを目指したい！
 志歩: ……っ
-(White cut)
+(White transition)
 (Background change)
 志歩: ……ありがとう。 みんなの気持ちは、わかった
 咲希: しほちゃん……！
@@ -79,7 +79,7 @@
 イオリ: やるならやる、無理ならやめる。 今、決めてくれる？
 一歌: …………
 一歌: 私は——
-(Black cut)
+(Black transition)
 咲希: 楽器、貸してもらえてよかったね～
 穂波: うん、チューニングも終わってるみたい
 志歩: ……ライブで使う予定の楽器だからね
@@ -104,4 +104,4 @@
 志歩: 一歌……
 一歌: 最高の演奏をしよう、志歩
 志歩: ……そうだね
-(Black cut)
+(Black transition)

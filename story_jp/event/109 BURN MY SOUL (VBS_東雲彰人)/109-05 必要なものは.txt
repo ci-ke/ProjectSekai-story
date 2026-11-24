@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 鏡音レン, 巡音ルカ, MEIKO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数週間後]
@@ -23,7 +23,7 @@
 謙: …………。 なあ、彰人
 謙: ——今から、ドライブに行かないか？
 彰人: ……え？
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -45,18 +45,14 @@
 彰人: え？
 謙: 覚えてないか？ ビビッドストリートで初めて会った時のことだ
 彰人: ……あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: どうした、坊主
 中学生の彰人 (彰人): ……え、RADderの……なんで……
 謙: ——ほら、これでも飲め。 隣、座ってもいいか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: 謙さん、あの時のこと覚えてるんですか？
 謙: おう、しっかり覚えてるぞ。 お前の、今にも泣きそうな顔もな
@@ -66,18 +62,14 @@
 彰人: ……ありがとうございます
 謙: どうだ。 あの時からここまで、全力で走ってきた感想は
 彰人: 感想っすか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……なんつーか……
 彰人: いろいろありすぎて……うまく言えねえっす
@@ -92,7 +84,7 @@
 謙: ——さて、もう遅い。 そろそろ帰るとするか
 彰人: あ…………
 彰人: …………はい
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -100,38 +92,30 @@
 謙: 本当に駅でよかったのか？
 彰人: はい、電車はまだあるんで。 遅くまでありがとうございました
 謙: おう。 体はよく休ませろよ。じゃあな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: 心配するな。 お前はもう、必要なものを持ってる
 謙: あとはそれに気づいて、歌ってやればいい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: 気づいてやる……か
 彰人: （謙さんの言いかただと、 答えはすぐそこにある気がする）
 彰人: （あともう一歩…… 何か、見つけられれば——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ……みんなのおかげだね
 こはね: ミクちゃん達と、 東雲くん、青柳くん、杏ちゃん……
 こはね: みんながいたから、今の私があるんだって思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……そうだな）
 彰人: （何も、ひとりで考え続ける必要はねえんだ）
 彰人: ——向こうに行ってみるか
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -153,7 +137,7 @@ MEIKO (VBS): もう、前も言ったでしょルカ。 それはみんなの邪
 彰人: 学校終わったら車の中で作戦会議して、 ライブハウスで歌って、帰りに反省会してっての繰り返しで……
 彰人: まあ、そっちのほうは なんとかいい勝負させてもらってるんですけど…… …………
 彰人: ……あの、少し相談してもいいすか？
-(Black cut)
+(Black transition)
 レン (VBS): 彰人、杏のお父さんとそんな練習してたんだ……！
 彰人: ああ。 もう何週間かになる
 彰人: だが……正直、うまく進めてねえ
@@ -173,7 +157,7 @@ MEIKO (VBS): たしかにそれはそうね。 私達も聴かせてもらいた
 彰人: （それで何かわかるかもしれねえ……！）
 彰人: （オレが感じたことを……歌に乗せて……）
 彰人: ♪————！！
-(Black cut)
+(Black transition)
 彰人: ……はぁ。どうでした？
 MEIKO (VBS): すごく迫力があったわ。 鬼気迫る……って言うのかしら
 レン (VBS): うん……！　体がビリビリしたよ！ 彰人、すっごくうまくなってるじゃん！！
@@ -195,4 +179,4 @@ MEIKO (VBS): 言いたいことはわかるけれど……アドバイスとし�
 ルカ (VBS): ——ねえ、彰人くん！
 ルカ (VBS): 謙さんとやってるみたいに、私ともサシで歌わない？
 彰人: ……え？
-(Black cut)
+(Black transition)

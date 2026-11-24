@@ -13,19 +13,15 @@ Gacha phrase: ふたりとも、いつからそこに！？
 穂波・一歌・志歩: 『いただきます』
 一歌: …………
 一歌: （……タイミングを見て、例のリサーチをしないと）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: でも、来てよかったな。 花里さん達のおかげで、大事なことに気づけたし
 一歌: 相手のことをよく知る……ですよね シンプルですけど、大事なことを見落としてましたね
-(White cut)
+(White transition)
 一歌: 普段の会話の中でさりげなく、 何をもらったら嬉しいのか……最近困ってることはないか、 聞くほうがいいかもしれません
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （ホワイトデーのプレゼント、 みんなに喜んでもらえる物を見つけたいし、頑張らないと）
 穂波: 咲希ちゃん、今日お弁当なんだね
@@ -64,17 +60,13 @@ Gacha phrase: ふたりとも、いつからそこに！？
 一歌: （どんな風に切り出せば自然か、 あとでいろいろ考えてみよう）
 一歌: （……あ、さっき困ったことないかって聞かれた時に、 何か相談しておけばよかったのかも……）
 一歌: （そうすれば——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 一歌: みんな、話を聞いてくれてありがとう！
 一歌: そうだ！　相談にのってもらったお礼に、 今度は私がみんなの相談にのりたいな！
 一歌: ねえ、何か困ってることはない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 一歌: （——っていう感じで、 うまく聞けたかもしれないのに……）
 志歩: ……一歌、まだどこから食べるか決められないの？
 咲希: 焼きそばから全部食べちゃおうとか、 そういうパターンも考えてたりして！
@@ -83,7 +75,7 @@ Gacha phrase: ふたりとも、いつからそこに！？
 一歌: （……これ以上怪しまれるわけにいかないし、 とりあえず、焼きそばパン食べよう）
 一歌: いただきます
 一歌: ……ん、美味しい
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -99,15 +91,11 @@ Gacha phrase: ふたりとも、いつからそこに！？
 一歌: じゃあ、早速なんですけど ホワイトデーのお茶会について相談させてください
 奏: うん。今日は花里さんと桃井さんへのプレゼントの話だよね
 一歌: はい
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ふたりには今回のホワイトデーのことで たくさん助けてもらいましたし——
 一歌: お茶を楽しんでもらう以外にも 何かできないかなって思うんです
@@ -135,7 +123,7 @@ Gacha phrase: ふたりとも、いつからそこに！？
 奏: ……それって、得意なことを活かすっていうことでもあるよね
 奏: だったら、いいのがあるかも
 一歌: え？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ホワイトデー当日]
@@ -164,4 +152,4 @@ Gacha phrase: ふたりとも、いつからそこに！？
 みのり: わたしも！ ありがとう、一歌ちゃん、奏ちゃん！
 奏: ううん、わたし達のほうこそ……
 一歌: 協力してくれて、本当にありがとうございました
-(Black cut)
+(Black transition)

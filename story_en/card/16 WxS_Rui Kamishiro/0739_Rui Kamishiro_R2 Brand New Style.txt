@@ -40,15 +40,11 @@ Rui: Hehe. Yes, you're right.
 Rui: Still...
 Rui: We've both come such a long way...
 Nene: Rui...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: Remember how we used to play a lot and share books with each other?
 Rui: We were both so enthralled by that rendition of The Little Mermaid that we couldn't stop talking about it.
@@ -58,15 +54,11 @@ Rui: But now, we're finally pursuing our dreams from back them.
 Rui: How incredible is that?
 Nene: It is...
 Nene: The shows we did back then only involved the two of us...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: But now our numbers have grown.
 Rui: Yes. This past year ended up being a momentous turning point for us.
@@ -75,7 +67,7 @@ Rui: On that day, I hope we'll be able to shine as brightly as possible. I'm loo
 Nene: I don't know what you're going on about...
 Nene: Still...
 Nene: Whatever it is, I hope so too. Let's go make our dreams come true.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -107,7 +99,7 @@ First-Year Greening Committee Members: Y-You don't have to do that for us! We ca
 Rui: Understood. It would be my pleasure to teach you all about the committee.
 Rui: Everyone, would you mind coming with me?
 First-Year Greening Committee Members: O-Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -138,4 +130,4 @@ First-Year Greening Committee Members: Kamishiro...
 First-Year Greening Committee Members: ... I'm gonna do my best for this committee.
 First-Year Greening Committee Members: Please teach us all you can!
 Rui: Of course. Please feel free to ask me any questions you have during these meetings or even outside of them.
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@ Skill name: みんなで変身ＳＨＯＷ！
 絵名: 『やっぱみんな、待っててくれてるんだ。 私達のMV』
 (Background change)
 奏: 『……そうだね』
-(Black cut)
+(Black transition)
 (Background change)
 奏: 『——アップしたMV、特に問題なさそうだし、 今日は早いけど解散しようか』
 (Background change)
@@ -90,7 +90,7 @@ Skill name: みんなで変身ＳＨＯＷ！
 奏: そうだね。 そうしてもらえると助かるよ
 奏: まずは、新曲を頑張らないと
 奏: （まふゆのためにも—— わたし達のMVを待ってくれてる人達のためにも）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -147,4 +147,4 @@ Skill name: みんなで変身ＳＨＯＷ！
 奏: （わたしが、こんな風に誰かと 学校の文化祭を回ってるなんて）
 奏: （でも——）
 奏: （……みんなも、楽しんでるみたいだし。 たまには、こんな日もあっていいかな）
-(Black cut)
+(Black transition)

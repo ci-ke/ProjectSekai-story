@@ -21,15 +21,11 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: （昔、うまく描けなかったもの、か……）
 絵名: （そういえば私も、途中まで描いて、なんか違うって 描くのやめちゃった絵とかいっぱいあるな）
 絵名: （特に、あの頃は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （あいつを見返してやろうって思って、 ちょっと難しい構図やモチーフに挑戦したな……）
 絵名: （そうだ。海の中の絵とか、描こうとしたっけ。 泡とか光を幻想的に描ければ、技術を証明できるって思って）
@@ -41,21 +37,17 @@ Gacha phrase: なんで、私の絵がこんなところに……
 二葉: そっか……。 やっぱり、うまくいかない時ってあるよね
 二葉: でも、いろいろ気づけたり、 昔よりも成長したなって感じられるし、 描けなかった絵に挑戦するのは、練習としてオススメだよ！
 絵名: そうだね。教えてくれてありがとう、二葉。 私も、何かできないか考えてみる
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 二葉: でも、いろいろ気づけたり、 昔よりも成長したなって感じられるし、 描けなかった絵に挑戦するのは、練習としてオススメだよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 成長、か……
 絵名: （あの時描こうとした海の絵、 今の私が描いたらどんな絵になるんだろう……）
@@ -66,7 +58,7 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: …………
 絵名: ……とりあえず、今日はニーゴのイラストのラフあげたいし、 また今度、ゆっくり思い出せば——
 絵名: え、何？
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -77,7 +69,7 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: なんだろこれ、光る……玉？
 絵名: こんなのここにあったっけ？ なんか場違い感すごいし、ひとまず拾って——
 絵名: え！？　ちょっ、何！？ まぶしいっ……！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -92,18 +84,18 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: こっちはこっちでやらなきゃいけないことがあるのに、 なんで誰のかもわからない絵を片づけなくちゃいけないわけ？
 絵名: そうだ、絵にサインでも入ってればわかるかも。 拾ったキャンバスのどれかに入ってたり——
 絵名: …………あれ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000152/bg_s000152.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000152/bg_s000152.webp)
 絵名: ……この海の絵、なんか見覚えが……
 絵名: これ……私の絵だ。 あの時描こうとしてた、海の中の絵……
 絵名: ……そうだ。思い出した……
 絵名: この穴も、思ったとおりに描けなくてイラついて……。 私があけちゃった穴だ……
 絵名: ……なんで、私の絵がこんなところに……
-(White cut)
+(White transition)
 (Background change)
 絵名: まさか、さっき落ちてた紙……！
 絵名: ああもう！　こんなに細かく破らなくたっていいでしょ。 あ、こっちにも落ちてる！
-(Black cut)
+(Black transition)
 絵名: ふう……とりあえず拾って、 合わせられそうなところはパズルしてみたけど……
 絵名: やっぱり……全部、私が描こうとした絵だ
 絵名: （この森の絵は自分で破って捨てた覚えがあるけど……。 こっちの女の子を描こうとした絵は、 スケッチブックごと捨てたのに、なんでビリビリになってるの？）
@@ -118,21 +110,15 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: （この子が見ている先には憧れの街があって、 今からそこに自分も行くんだってキラキラしてて——）
 絵名: （瞳の中にうっすら街が映っているっていうのを やりたかったんだよね）
 絵名: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 父親: お前に、画家になれるほどの才能はない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 描かなきゃ……なんでもいいから描かなきゃ！
 絵名: このまま描けなかったら私は本当に——
@@ -140,10 +126,8 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: ……どうして？
 絵名: どうして……描けないの……？
 絵名: なんで描けないのよ……っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （あの頃は……本当に、何を描いてもダメで……。 ほとんどの絵を、泣きながら描いてたっけ）
 絵名: （この女の子を描いてる時も、そうだった……）
@@ -155,21 +139,17 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: ちゃんと、描いてほしい？
 絵名: （思ったとおりの表情には、ならないかもしれない……）
 絵名: （それでも、今の私なら——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ——やろう
 絵名: （ここがどこだとか、なんで私の絵があるのかなんて、 もうどうでもいい）
 絵名: （未完成の絵がこんなにある。だったら——）
 絵名: どの絵も、今度こそ描き切ってみせる
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -196,22 +176,18 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: （人物の全体は描かずに、腕だけを描こう）
 絵名: （今の私の実力じゃ、難しい構図かもしれないけど……）
 絵名: （それでも、沈んでなんかいられない。 『諦めない』、『立ち止まらない』——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （私の絵を必要としてくれる人がいる。 だから私は、描き続ける）
 絵名: あ……。そっか……
 絵名: この手は何かを掴みたいんじゃなくて、 もう掴んでいるのかも
 絵名: それを離したくなくて……
 絵名: ……うん！　いい感じにイメージわいてきた！
-(Black cut)
+(Black transition)
 絵名: ——……できた
 絵名: （水の質感とか光の感じとか、 やっぱり表現が甘くなっちゃってるところはあるけど……）
 絵名: それでも、描けた
@@ -220,28 +196,28 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: …………浸ってる場合じゃない
 絵名: ここには、完成させなくちゃいけない絵が まだたくさんある
 絵名: よし……！
-(Black cut)
+(Black transition)
 絵名: この森のデッサンは……うっ、そもそもパースが歪んでない？ 木の配置も、なんかちょっと違和感あるし
 絵名: 紙も破れちゃってるし、新しく描き直さないと。 えっと、まずこの絵で表現したかったことは——
-(Black cut)
+(Black transition)
 絵名: この空の絵は、塗りまでたどりついたけど、 空の色合いや雲が納得できなくて、途中でやめちゃったんだっけ
 絵名: ん、青空の透けるような感じも大事にしたいけど、 雲の質感も活かしたいし、ぼかしを入れてみようかな。 それから——
-(Black cut)
+(Black transition)
 絵名: ふう……。 拾った絵は、だいたい描けたかな
 絵名: なんかよくわかんないけど、すごく集中できた。 夢の中……だから？
 絵名: とにかく、あとは顔が描けなくてやめちゃった、 女の子の絵だけ
 絵名: ……ごめんね、最後になっちゃって
 絵名: （この子、どんな表情にしてあげようかな……。 今なら、いいイメージがわいてきそう）
 絵名: 待っててね、イメージが固まったらすぐに——
-(White cut)
+(White transition)
 (Background change)
 絵名: え……？　な、なに……！？
-(White cut)
+(White transition)
 (Background change)
 絵名: ……あれ？ セカイに戻ってきちゃった……
 リン: あ……絵名。 欠片のセカイから帰ってきたんだ
 絵名: リン……！
-(Black cut)
+(Black transition)
 絵名: ——じゃあ、私はついさっきまで、 想いの欠片のセカイにいたってわけ？
 リン: うん。セカイにはたまに、誰かの想いの欠片が 流れ着くことがあるんだって
 リン: それを通じて、欠片に込められた想いに 触れることができるって、ミクが言ってた
@@ -252,7 +228,7 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: うん、ちょっとね。 でも、いい経験させてもらっちゃったかも
 リン: ふうん。なら、いいけど……
 絵名: ふふ。心配してくれてありがと、リン
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -269,7 +245,7 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: ああ、これ？　昔描こうとした絵を、 思い出しながら描いてるんだけど……
 母親: 思い出した！　スケッチブックに描いてた絵よね？ ちょっと待ってて！
 絵名: え……？
-(Black cut)
+(Black transition)
 母親: 絵名、おまたせ。 ——はい、これ
 絵名: 嘘……。 それ、昔捨てたスケッチブック……！
 絵名: なんであるの？ まとめてゴミ箱に……
@@ -286,4 +262,4 @@ Gacha phrase: なんで、私の絵がこんなところに……
 絵名: …………また、会ったね
 絵名: 今度こそ、ちゃんと最後まで描いてあげる
 絵名: さて、どんな表情にしようかな
-(White cut)
+(White transition)

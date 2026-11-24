@@ -20,12 +20,12 @@
 咲希: （アタシ達も、負けてられない！）
 志歩: （一歌が作った、この流れのまま……！）
 穂波: （最後まで、駆け抜ける！）
-(Black cut)
+(Black transition)
 一歌: ……っ、はぁ、はぁ……
 一歌: ——ラストまでついてきてくれて、ありがとうございました！
 観客達: Leo/need、最っ高ー！
 観客達: もう１曲やってくれー！
-(Black cut)
+(Black transition)
 (Background change)
 真堂: ——皆さん、お疲れ様でした。 大盛況でしたね
 穂波: はい……！　ありがとうございます
@@ -55,7 +55,7 @@
 穂波: え？
 真堂: いえ、なんでもありませんよ
 真堂: 本当に……いいバンドになってきたと思っただけです
-(Black cut)
+(Black transition)
 (Background change)
 
 [ファミリーレストラン]
@@ -76,18 +76,18 @@
 穂波: ……わたしも、気になってたんだ
 穂波: 『両方をプロとしてやれるほど、器用じゃないから』って 一歌ちゃんは笑ってたけど
 穂波: 本当は、もっと自由に活動したかったんじゃないかな……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000618/bg_s000618.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000618/bg_s000618.webp)
 志歩: ………………
 志歩: ……一歌が、自分でそう決めたんでしょ
 志歩: なら……私達があれこれ言うのは、違うと思う
 穂波: 志歩ちゃん……
 咲希: ……そうだね
-(White cut)
+(White transition)
 (Background change)
 咲希: でも……なんか、気になっちゃって
 咲希: いっちゃん、あんなに楽しそうだったから
-(Black cut)
+(Black transition)
 (Background change)
 真堂: ふぅ……
 真堂: （Leo/needの、親会社への移籍——）
@@ -98,4 +98,4 @@
 真堂: ……今の状態で話すのは、気が進まねえな
 真堂: （——それでもここが、バンドとしての正念場だ）
 真堂: ……俺も、覚悟をしておくか
-(Black cut)
+(Black transition)

@@ -4,7 +4,7 @@
 
 : 伝説の夜を超える—— その夢に近づきつつあるVivid BAD SQUAD
 : しかし大河は、 このままではRAD WEEKENDを超える日は来ないと告げ、 ある『真実』を突きつける
-(Black cut)
+(Black transition)
 (Background change)
 大河: あの夜は——あるひとつの想いでできていた
 大河: そいつがなければRAD WEEKENDは あそこまでのイベントにはなってなかった
@@ -16,10 +16,8 @@
 彰人: 人生の、最期……？
 杏: あいつ、って…………？
 杏: ……あ…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 杏の父: ……おい、杏。 まだ拗ねてるのか
 中学生の杏 (杏): だって……だって！ 凪さんが、私に黙って行っちゃうから……！
 中学生の杏 (杏): アメリカに行くなら、 ちゃんと見送りたかったのに……
@@ -29,10 +27,8 @@
 中学生の杏 (杏): 戻ってきたら絶対に、 ごめんねって言わせるんだから！
 中学生の杏 (杏): ……？　どうしたの？
 杏の父: いや……。 大したことじゃない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 杏: …………まさか…………
 杏: でも……そんな、こと……え……？
 大河: あの夜は——あるミュージシャンの最期のイベントだった
@@ -43,7 +39,7 @@
 大河: RAD WEEKENDは、 俺の妹、古瀧凪の最期を飾るためのイベントだった
 大河: ……病気が見つかって、あと数カ月しか生きられない凪が、 この世を去っちまう前に、最期にこの街で開いたイベント
 大河: ——それが、RAD WEEKENDだ
-(Black cut)
+(Black transition)
 杏: ………………どうして？
 杏: どうして、私にだけ黙って……——！
 大河: 言ったはずだ。 『凪がそう望んだからだ』ってな
@@ -63,14 +59,14 @@
 大河: これで気つけになっただろ。 かかってこい、杏
 大河: 超えるんだろ？ 凪の最期——街中の人間の想いの果てに生まれた、あの夜……
 大河: ——RAD WEEKENDをな
-(Black cut)
+(Black transition)
 (Background change)
 : 大河のパフォーマンスに、深く打ちのめされた仲間達は 次々と去っていき——
-(Black cut)
+(Black transition)
 (Background change)
 大河: これが、お前達が超えようとしてる壁だ。 俺は、教えた
 大河: ——食らいついてくるなら、好きにしろ
-(Black cut)
+(Black transition)
 (Background change)
 杏の父: ——大河！！
 大河: …………よう、謙か
@@ -83,7 +79,7 @@
 大河: あいつらが“次の世代”だとしたら、 知る必要があるからな
 大河: だが……話したのは軽くだ。 あとはお前の仕事——だろ
 杏の父: ……ああ。そうだな
-(White cut)
+(White transition)
 (Background change)
 
 [約20年前]
@@ -117,7 +113,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 謙: 凪、お前なあ……
 凪: ふふ、頼りにしてるよ、謙！
 凪: ってわけで——ここから世界一目指して、頑張ろーう！
-(Black cut)
+(Black transition)
 
 [十数年後]
 
@@ -134,7 +130,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 謙: 最近、なにかと不調が続いてるみたいだが……大丈夫なのか？
 大河: そうだな……。あいつは軽い風邪だって言ってたが、 もういっぺん病院に行けって言ってみるか
 謙: ああ。オレからも言っておこう
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -149,7 +145,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 大河: ……？
 凪: 私……すい臓がんらしいんだ
 大河: …………は？
-(Black cut)
+(Black transition)
 (Background change)
 大河: （……凪が……死ぬ……）
 大河: （凪が……いなくなる……）
@@ -168,18 +164,14 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 大河: …………っ！
 大河: ……ふざけんな……ふざけんじゃねえ……！！
 大河: どうして——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ってわけで——ここから世界一目指して、頑張ろーう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: どうして……凪なんだよ…………！！ 他に……他にいるだろうが！！！！
 大河: どうして……どうして…………！
 大河: どうして、凪が…………ッ！！
-(Black cut)
+(Black transition)

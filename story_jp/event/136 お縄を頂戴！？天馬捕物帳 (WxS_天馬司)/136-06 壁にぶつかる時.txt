@@ -16,19 +16,19 @@
 司: あ……
 司: ……たしかに、そうですね。 ショーも、中途半端なコンディションでは いいパフォーマンスができませんし
 司: では、遠慮なくいただきます！
-(Black cut)
+(Black transition)
 
 [数分後]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000328/bg_s000328.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000328/bg_s000328.webp)
 司: ……うまい！！ うまいですね、このおにぎり！！
 鬼島: はっはっは！ いい食いっぷりだが、あんまり急いでのどに詰まらせるなよ？
 鬼島: お茶も買ってあるから、ここに置いておくぞ
 司: はい！　ありがとうございます！
 鬼島: よし！ ではそれを食べ終えたら、また捜索に戻るとしよう！
 司: わかりました！
-(White cut)
+(White transition)
 (Background change)
 司: その……改めて、ありがとうございます
 鬼島: ん？
@@ -38,16 +38,12 @@
 鬼島: だが——
 鬼島: 取り逃がしたこと以外も いろいろと考えているんじゃないか？
 司: え？ あ——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 司: （壁を蹴って、そのまま塀を登った……！！ あの技は——）
 司: 『壁登り』……！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 司: …………はい
 司: さっき、ヤツが壁登りをする姿を見て、思ったんです
 司: もっと速く走れないことが—— そして壁登りができないことが、歯がゆい……と
@@ -129,4 +125,4 @@
 司: ……いや……少し待ってください！
 鬼島: ん？　なんだ？
 司: オレに考えがあります！！
-(Black cut)
+(Black transition)

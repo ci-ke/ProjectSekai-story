@@ -9,7 +9,7 @@
 母親の声: 絵名～！　そろそろ夕飯よ！
 絵名: はーい！ 行くよ、まふゆ
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -33,7 +33,7 @@
 絵名: （まったく、ふたりして外面だけはいいんだから……）
 母親: ほら、ごはん冷めちゃうわよ。 みんな座って～！
 絵名: はーい
-(Black cut)
+(Black transition)
 母親: さあ、まふゆちゃんも食べてちょうだいね
 まふゆ: ありがとうございます
 まふゆ: ……でも、すみません。 突然、泊まることになってしまった上に 晩ごはんまでいただいて……
@@ -79,18 +79,14 @@
 母親: でも、私が言ったところでこの子の意志は変わらないし。 絵名には絵名の人生があるから、好きにやるのが一番よ
 まふゆ: え……
 まふゆ: （好きに、やるのが一番……？ でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ——ううん、いいのよ。 お母さんも、まふゆが本当にやりたいことなら応援するつもりよ
 まふゆの母: 心配だから、つい口うるさくなっちゃったけれど、 これはまふゆの人生だもの
 まふゆの母: だから——まふゆがしたいようにしていいわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （なんだか——お母さんとは、違う）
 まふゆ: （どうして……？）
@@ -117,10 +113,10 @@
 絵名: ほら彰人、だーい好きなにんじん 食べてないじゃん
 絵名: まだこっちにあるからあげるねー
 彰人: だからいらねえっつってんだろうが
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000137/bg_s000137.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000137/bg_s000137.webp)
 まふゆ: （……なんだろう……）
 まふゆ: （ここにいると、胸が軽くなる……）
 まふゆ: （私の家と変わらないはずなのに、何か違う——）
 まふゆ: （でも、何が違うんだろう……）
-(Black cut)
+(Black transition)

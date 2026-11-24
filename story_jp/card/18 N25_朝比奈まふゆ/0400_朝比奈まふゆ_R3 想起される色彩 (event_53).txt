@@ -103,7 +103,7 @@ Gacha phrase: 今頃、あの曲のラフを描いてるのかな
 奏: 『わたしも、セカイで聴いてもらったデモ曲を もう少し詰めてみるよ』
 (Background change)
 まふゆ: 『私も自分の作業に入る。 じゃあ、またあとで』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -209,4 +209,4 @@ Gacha phrase: 今頃、あの曲のラフを描いてるのかな
 (Background change)
 絵名: 『……？　ま、いっか。 じゃあ、雪。よろしく』
 まふゆ: 『うん……』
-(Black cut)
+(Black transition)

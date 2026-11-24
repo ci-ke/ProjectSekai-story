@@ -14,15 +14,11 @@
 まふゆ: （あの日の、こと……）
 まふゆ: （お父さんは、私が帰ってくることを—— 私が話すのを、待ってくれてる）
 まふゆ: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 クラスメイト達: まふゆー、今日って部活だっけ？ 予定なかったら一緒に宿題やらない？
@@ -33,7 +29,7 @@
 まふゆ: んー……そうだね……
 まふゆ: ……あ……
 まふゆ: （……メッセージ？　誰から……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [校門前]
@@ -46,7 +42,7 @@
 瑞希: で、どう？　一緒に帰る？
 まふゆ: ……ここまで来てるのに、追い返すわけにいかないし
 瑞希: あはは、まふゆは優しいな～。 じゃ行こっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -102,4 +98,4 @@
 瑞希: （自分は全然できてないのに、まふゆにあんなこと言うなんて）
 瑞希: （……でも……）
 瑞希: 味方……か
-(Black cut)
+(Black transition)

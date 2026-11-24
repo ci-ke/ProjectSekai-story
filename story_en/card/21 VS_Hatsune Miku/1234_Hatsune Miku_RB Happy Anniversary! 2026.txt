@@ -34,7 +34,7 @@ Shizuku: However, in order to make this happen, we're going to need your help se
 Miku (MMJ): <Yes, it sounds interesting, so I'd love to help!>
 Haruka: Then, that settles that. Let's start planning everything out, shall we?
 Miku, Minori, Airi & Shizuku: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: This cake shop is our second candidate, Miku.
 Miku (MMJ): <Wow...! This shop's cakes look so delicious too!>
@@ -42,7 +42,7 @@ Minori: Let's see... Their best one is apparently a shortcake loaded with strawb
 Miku (MMJ): <This looks amazing! Look at how many strawberries they managed to cram onto the top!>
 Shizuku: Yes. It says the cream is made with strawberries too.
 Miku (MMJ): <Even the cream?! That explains why it looks somewhat pink. I love how cute it is.>
-(Black cut)
+(Black transition)
 (Background change)
 Airi: Can you see the drinks on the shelf, Miku?
 Miku (MMJ): <Yes, I can see them! Some soft drinks would certainly be nice. Like barley tea and orange juice!>
@@ -52,7 +52,7 @@ Miku (MMJ): <In that case, tea. Oh, if possible, I'll probably want some lemon t
 Airi: Of course. We'll get some ready for you!
 Haruka: Then, next, snacks. Go ahead and pick out everything that catches your eye, Miku.
 Miku (MMJ): <Okay♪>
-(Black cut)
+(Black transition)
 (Background change)
 Len (MMJ): There we are...
 Miku (MMJ): Huh? Len? KAITO? That table...
@@ -61,7 +61,7 @@ Len (MMJ): The others are bringing over the chairs and stuff. See?
 Rin (MMJ): We're here to help, Miku!
 Miku (MMJ): All of you...!
 Miku (MMJ): Thank you so much! Let's make this venue look really spectacular!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miku's anniversary]
@@ -102,7 +102,7 @@ Airi: Yeah. All the snacks we prepared would also go to waste.
 Miku (MMJ): No, that'd be terrible! I've been looking forward to having them with all of you!
 MEIKO (MMJ): Hehe. We were just joking. Anyway, everyone, let's start eating!
 Miku (MMJ): Okay...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -142,24 +142,24 @@ MEIKO: Let's see... Everyone wants to see...
 MEIKO: B, “Cute Miku”!
 Rin: Yes! Let's do our best, Miku♪
 Miku: Yes, and I hope all of you also have fun!
-(Black cut)
+(Black transition)
 Luka: Our next song will be based on this question. “Which would you rather say right now?”
 Luka: A, “Thank you!” B, “Happy anniversary!”
 KAITO: I think it's pretty easy to guess which songs these choices involve...
 Len: Again, you gotta wait to find out!
 Len: You guys in the crowd and watching online also have to keep it a secret if you've already figured it out! So, shh!
-(Black cut)
+(Black transition)
 Rin: Our next one is... Oh, it's “Which Miku would you all like to see?” again!
 MEIKO: But this time, your choices are... A, “Happy Miku.” B, “Dark Miku.”
 Miku: Which would you choose, Rin?
 Rin: Hmm... I want to pick the one I'd be singing in, but I'm not involved in either of these...
 Len: No, Rin, stop! Saying that you're not gonna be singing might give it away!
-(Black cut)
+(Black transition)
 Miku: Thank you all for helping make this a wonderfully exciting concert!
 Miku: We only have a few minutes left together, but I hope you all enjoy the rest of our singing performances.
 MEIKO: But before we continue, we need to present our usual messages!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000487/bg_s000487.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000487/bg_s000487.webp)
 Rin: Happy anniversary, Miku! I'm so glad that we were able to celebrate with you again this year.
 Rin: Let's make sure everyone watching has fun as we sing and dance to the rest of our songs!
 Len: Happy anniversary, Miku! I got to help out with a bunch of your songs, and you really put everything you had into all of them.
@@ -171,7 +171,7 @@ MEIKO: There really is nothing like a concert that you built from the ground up 
 KAITO: Happy anniversary, Miku. The others more or less covered what I was going to say...
 KAITO: But I hope this concert will be an unforgettable memory. For you, for this audience and for everybody watching.
 KAITO: I promise to sing with everything I have! You all can still keep going, right?!
-(White cut)
+(White transition)
 (Background change)
 Miku: Thank you all for those thoughtful messages...!
 Miku: This wonderful concert wouldn't have been possible without the help of you and the others, KAITO. And all of you cheering for us.
@@ -188,4 +188,4 @@ Luka: The songs we're about to sing are all the ones for the answers which weren
 KAITO: Quite a lot of you have been wondering what they were, yes?
 Miku: We practiced them all, so we wanted to perform them for you no matter what.
 Miku: So, here we go! Our special medley starts now♪
-(White cut)
+(White transition)

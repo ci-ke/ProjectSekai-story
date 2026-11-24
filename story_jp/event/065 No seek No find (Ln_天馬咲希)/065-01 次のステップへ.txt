@@ -7,19 +7,19 @@
 [一歌の部屋]
 
 一歌: えっと……ボーカルメロディーを入力したら、 歌詞を入れて……
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ……♪　……♪
-(Black cut)
+(Black transition)
 (Background change)
 一歌: あ……！
 一歌: （ミクが、歌ってくれた……！）
 一歌: （まだベタ打ちだし、曲もみんなで作ったやつで 私がちゃんと作曲したものじゃないけど……。 やっぱり嬉しいな）
 一歌: （よし。次はパラメータをいじって……）
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ——♪　——♪
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ……うん、ちょっと自然な歌いかたになった気がする
 一歌: ふふ。頑張って調整すれば、 あっちのミクみたいにかっこよく歌ってくれそう
@@ -30,12 +30,12 @@
 一歌: （いつも私達らしい曲を作ってくれるし、 私が先に歌詞を作った時も、 ぴったりあうメロディーを乗せてくれる）
 一歌: ……早く私も、咲希みたいに Leo/needの曲を作れるようになりたいな
 一歌: ミク、練習……つきあってくれる？
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ——♪　——♪
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [休日]
@@ -47,7 +47,7 @@
 咲希: ……ん？
 咲希: あーっ！　もうこんな時間！？ セカイで練習する約束してたのに！
 咲希: わわわ……早く行かなくちゃ！ えーっと楽譜楽譜……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -121,7 +121,7 @@ MEIKO: へえ……。 眠らない街って感じで、おもしろそうだね
 咲希: よーし！ 気合い入れて、キラキラな曲にしちゃうぞ～！
 KAITO: ……咲希、楽しそうだね
 レン: 次のライブ、成功するといいな
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 咲希の部屋)
 咲希: ふんふんふ～ん♪ ここは、こうしてっと……
@@ -132,4 +132,4 @@ KAITO: ……咲希、楽しそうだね
 咲希: えへへ、なんだかワクワクしてきちゃった！
 咲希: ……あ、そうだ！ この気持ちも曲に乗せてみようっと！ えーっと、サビの音をもっと跳ねさせて……
 咲希: ——うん、いい感じ！ これはもしかしたら、 今までで一番いい曲ができちゃうかも～！？
-(Black cut)
+(Black transition)

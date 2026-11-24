@@ -13,19 +13,15 @@ Saki: Let's eat♪
 Honami, Ichika & Shiho: Let's eat.
 Ichika: ...
 Ichika: (I need to ask how they're doing. But very carefully...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: Still, I'm glad we did this. Hanasato and the others helped us realize something important.
 Ichika: We need to learn more about the people we're giving our gifts to. It's simple, but really important.
-(White cut)
+(White transition)
 Ichika: We might need to subtly ask during our regular conversations what they'd really enjoy receiving or if anything has been on their minds lately...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: (I want to get them gifts that they'll really enjoy, so I need to do my best here.)
 Honami: Oh, Saki, you brought a lunch today?
@@ -64,17 +60,13 @@ Ichika: (But I should still have plenty of opportunities to ask.)
 Ichika: (So, I should think a little more later about how to be more subtle.)
 Ichika: (No, wait... They just asked me if something was on my mind. That sort of opened the door for me...)
 Ichika: (If only I'd asked them then...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ichika: Thanks for listening to my problem, everyone!
 Ichika: So, in return, let me help you! I'll ask the same question back!
 Ichika: Has anything been on your minds lately?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ichika: (Yeah... That might've been the way to go...)
 Shiho: Ichika, are you still deciding where to start?
 Saki: Oh, are you thinking about eating all of the yakisoba first?!
@@ -83,7 +75,7 @@ Saki: Haha! True♪
 Ichika: (I should just eat for now... I'd rather not raise their suspicions any further.)
 Ichika: I'll start here.
 Ichika: Mmm. So good.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -99,15 +91,11 @@ Ichika: Again, I really appreciate it.
 Ichika: So, let's jump right in by discussing what we'll be doing during our White Day tea party.
 Kanade: Okay. Today we're talking about what we'll be getting Hanasato and Momoi, right?
 Ichika: Yes, that's right.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: Because they went out of their way to give us all the help we needed for White Day.
 Ichika: And I was hoping that we could do something extra for them besides pouring them a nice cup of tea.
@@ -135,7 +123,7 @@ Ichika: I know... It just seemed like the best representation of us is all...
 Kanade: Well, if your aim is to make use of our talents...
 Kanade: Then I think there's a good alternative.
 Ichika: Huh?
-(Black cut)
+(Black transition)
 (Background change)
 
 [White Day]
@@ -164,4 +152,4 @@ Airi: I had no idea you two had such a nice surprise in store for us!
 Minori: Me neither! Thank you so much, Ichika, Kanade!
 Kanade: No, we should be the ones thanking you...
 Ichika: Thank you both so much for all your help.
-(Black cut)
+(Black transition)

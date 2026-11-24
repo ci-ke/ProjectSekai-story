@@ -14,14 +14,14 @@
 司: ……雪？
 まふゆ: 雪を降らせるって、一体どういう……
 愛莉: あ……！！ あれって——雫！？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000206/bg_s000206.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000206/bg_s000206.webp)
 観光客達: なんだろう……。 白い着物を羽織ってるだけなのに、本物の雪女みたい……
 観光客達: あの、雪を降らせる仕掛けもすごいな！
 観光客達: ていうか、あの女の子どこかで見たことあるような……？
 類: ——よし、それじゃあいくよ、日野森さん
 雫: ……ええ！
-(White cut)
+(White transition)
 (Background change)
 雫: （神代さんに言われたとおり、右手を上にあげて——）
 類: （——今だ！　上方に最大出力！）
@@ -38,7 +38,7 @@
 類: ええ！　僕にも今見えました！
 愛莉: パレードのゴールで、待ってるわー！！
 雫: ——うん！
-(Black cut)
+(Black transition)
 司: いやあ、素晴らしいアイディアだったぞ、類！
 愛莉: まさか、あんな方法で見つけてもらおうとするなんてね
 まふゆ: うん、考えもしなかったな。 お客さん達もみんな注目してたよ
@@ -53,7 +53,7 @@
 司: お！ ちょうどいいタイミングだな！
 司: それでは全員で、百鬼夜行パレードを見に行こうではないか！
 まふゆ・雫・愛莉: 『ええ！』 『うん！』
-(Black cut)
+(Black transition)
 司: うおっ！　あれはもう仮装のレベルではないな！ 本物の妖怪のようだ！
 類: ナマハゲをモチーフにしているのかな。 とてもリアルだねえ
 三宅: 鬼の仮装、どれもすごくクオリティが高いよね！
@@ -79,7 +79,7 @@
 類: （修学旅行でもなければ、 こんなメンバーで何かを見ることもないだろうしねえ）
 類: （だから今は——）
 類: （この１回きりのショーを、楽しもう）
-(Black cut)
+(Black transition)
 類: ……さて、それじゃあここでお別れですね
 雫: ええ。いろんなことがあったけれど…… それも含めて、とても素敵な１日になったわ
 愛莉: みんな、今日は本当にありがとう！
@@ -100,6 +100,6 @@
 司: ああ、そうだな！
 愛莉: みんな並んで並んで！ 写真撮るわよ～！
 スタッフ: それじゃ皆さんいきますよ～！ ハイ、チーズ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000207/bg_s000207.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000207/bg_s000207.webp)
+(White transition)

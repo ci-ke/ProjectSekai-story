@@ -21,20 +21,20 @@ Elena: Leave it to us! After all, this is basically our backyard.
 Elena: So, come take a trip on the Special Manhattan Course!
 An: Special Manhattan Course...?!
 Akito: I guess let's follow them...
-(Black cut)
+(Black transition)
 Musician: ♪————! ♪————!!
 An: Wow, awesome! There's a ton of people singing here...!
 Elena: This is an avenue where street musicians like to gather!
 Cedric: You'll want to keep an eye on that team singing on that corner. They're pretty legit, and word is they're definitely going to sign up for RUSH BEATS.
 Kohane: I see...
 Akito: The other teams also sound pretty good. Wanna listen to them for a bit?
-(Black cut)
+(Black transition)
 Rebecca: This shop carries all sorts of super rare music goods. You guys come here pretty often, right, Slade?
 Slade: Yeah! We can't get enough of this place because they have so many hidden gems.
 An: Really...? Oh, hey! Isn't this shirt from a LAST DAYS concert?
 Rebecca: And it's signed by every member...! Where in the world did they get this?
 An: C-Can I take a picture...?!
-(Black cut)
+(Black transition)
 Elena: Even among professional musicians, this studio's super duper ludicrously popular!
 Akito: Hm? This building looks kinda familiar somehow.
 Toya: This place appears in quite a lot of films, so that may be why.
@@ -81,19 +81,19 @@ An: Thank you! Oh, since we're doing this, I was thinking of singing in English.
 An: So, would you mind telling us later if we sounded funny to you?
 Luka (VBS): <Yes, of course!>
 Luka (VBS): <But still...>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000474/bg_s000474.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000474/bg_s000474.webp)
 Luka (VBS): <You seem really happy, An.>
 An: Huh?
 Luka (VBS): <Oh, did I get the wrong impression?>
 Luka (VBS): <Your eyes are just twinkling so much.>
-(White cut)
+(White transition)
 (Background change)
 Elena's Voice: Huh? Are you on the phone with someone, An?
 An: Oh, uhh...! Sorry, we just finished our call!
 An: Anyway, let's go.
 Akito: Geez, don't scare us like that...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Live House]
@@ -118,4 +118,4 @@ An: (This person's voice... He isn't talking that loudly or anything, but I can 
 An: (Like Dad or Uncle Taiga...)
 ???: “Get away from An!”
 An: Elena...?
-(Black cut)
+(Black transition)

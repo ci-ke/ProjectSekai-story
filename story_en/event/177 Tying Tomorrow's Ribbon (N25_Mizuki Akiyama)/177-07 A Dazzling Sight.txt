@@ -6,15 +6,11 @@ Female Customer: ...
 Rin (N25): <What do you think is going on with her?>
 Len (N25): <Maybe she's interested in the dress that your sister designed?>
 Mizuki: Yeah, but...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Female Customer: No, even if I were to wear something like this...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mizuki: There might be more to it than just that.
 Miku (N25): <Huh?>
 Mizuki: Um, excuse me!
@@ -23,15 +19,11 @@ Mizuki: Are you interested in that dress over there? I'm sorry about us clumping
 Mizuki: We were just talking about how cute it is... But we're done looking at it now, so it's all yours!
 Female Customer: Oh... Th-That's okay!
 Female Customer: I'm happy just looking at it from over here...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Her eyes... They sorta remind me of...)
 Mizuki: (The way mine used to look.)
@@ -54,7 +46,7 @@ Female Customer: Umm...
 Female Customer: Then, would it be alright if I tried it on...?
 Mizuki: ...!
 Mizuki's Sister: Thank you very much. The fitting rooms are right this way.
-(Black cut)
+(Black transition)
 Mizuki: I'm so glad that she decided to try it on.
 Mizuki's Sister: Me too.
 Mizuki's Sister: Mizuki... Thanks for what you did back there.
@@ -116,17 +108,13 @@ Female Customer: I love cute things. And cute clothes...
 Female Customer: And this dress. I absolutely adore it...!
 Mizuki's Sister: It looks wonderful on you.
 Mizuki: (Yeah, now I see...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki's Sister: When I saw my clothes giving someone the push they needed... I felt this indescribable feeling welling up inside me.
 Mizuki's Sister: I realized... This is what true happiness must feel like.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (This must be one of those moments.)
 Ena: Your sister's such an amazing person...
@@ -134,4 +122,4 @@ Mizuki: *Nod*
 Mizuki: She's so dazzling.
 Mizuki: (I...)
 Mizuki: (I also wanna be able to do this someday.)
-(Black cut)
+(Black transition)

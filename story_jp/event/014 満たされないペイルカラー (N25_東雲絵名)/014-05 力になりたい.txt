@@ -26,16 +26,12 @@
 瑞希: 『でも、どこに行けばえななんに会えるんだろ……。 えななんちは知らないし、ファミレスで待ってても さすがに会えないよね』
 (Background change)
 奏: えななんに会えそうな、場所……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: 『セカイ——』
 (Background change)
 瑞希: 『えっ？』
@@ -51,7 +47,7 @@
 (Background change)
 瑞希: 『……うん、そうだね。 もしえななんがいたら、ボク達が説得してくるからさ！』
 まふゆ: 『…………』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -80,18 +76,14 @@
 まふゆ: ……でも、私は奏に見つけてもらった
 まふゆ: だから、ここにいる
 奏: ……！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 絵名: 『そ……そりゃ、たくさんの人に見てもらえたら嬉しいけど』
 絵名: 『でも私は単純に、絵を描くのが好きだから描いてるだけ』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: （絵名は……ひとりになりたいわけじゃない。 本当は、ただ……）
 奏: ……ミク、やっぱりわたし、絵名に会いたい
 奏: 絵名の力になりたい
@@ -113,4 +105,4 @@
 瑞希: あ、そっか……
 奏: それなら——
 奏: わたしにできることは、ひとつしかない
-(Black cut)
+(Black transition)

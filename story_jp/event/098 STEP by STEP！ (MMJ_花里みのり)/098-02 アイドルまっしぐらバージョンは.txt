@@ -2,7 +2,7 @@
 
 (Character: 日野森志歩, 花里みのり, 小豆沢こはね, 鏡音レン)
 
-(White cut)
+(White transition)
 (Background change)
 
 [みのりの部屋]
@@ -52,7 +52,7 @@
 レン: （みのりちゃんは、 みのりちゃんのやりかたで前に進もうとしてる）
 レン: （……だったら、今は余計なことを言う必要はないかな）
 レン: （頑張れ、みのりちゃん）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -70,15 +70,11 @@
 みのり: （——た、大変だなあ。愛莉ちゃんと雫ちゃんは、 今までずっとこれやってきてたんだ。……えらいなあ）
 みのり: （……遥ちゃんも、中学生の頃からついこの前まで、 ずっとそうだったんだよね）
 みのり: （体育祭も文化祭も、 あんまり出られなかったって言ってたし……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （……単位制にいったら、わたしも、そうなるんだよね）
 みのり: …………
@@ -92,4 +88,4 @@
 こはね: だ、大丈夫！？ 私も拾うの手伝うよ——って
 こはね: 『単位制への編入について』……？
 みのり: あっ……
-(Black cut)
+(Black transition)

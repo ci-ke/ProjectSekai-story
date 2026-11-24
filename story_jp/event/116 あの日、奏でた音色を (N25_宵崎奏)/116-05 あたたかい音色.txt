@@ -2,7 +2,7 @@
 
 (Character: 宵崎奏)
 
-(White cut)
+(White transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -22,18 +22,14 @@
 幼い奏 (奏): （さぷらいずぱーてぃー、 すっごく楽しみだなあ……！）
 幼い奏 (奏): （あ……！　そうだ！ おとうさんがびっくりしちゃうプレゼントもしたいな）
 幼い奏 (奏): （でも、何がいいんだろ……？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 幼い奏 (奏): （そうだ……！）
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -49,28 +45,28 @@
 幼い奏 (奏): わあ……
 幼い奏 (奏): これで、曲が作れるかも……！
 幼い奏 (奏): あれ？　でも、どうやったら おとうさんみたいに作れるんだろ……？
-(Black cut)
+(Black transition)
 (Background change)
 幼い奏 (奏): じー……
 奏の父: ……奏、そんな遠くでどうしたんだい？ いつもみたいに、近くで見てもいいんだよ
 幼い奏 (奏): ううん、大丈夫。 わたし、今はナイショだから！
 幼い奏 (奏): おとうさん、わたしのこと気にしないで お仕事してていいよ
 奏の父: わ、わかったよ
-(Black cut)
+(Black transition)
 (Background change)
 幼い奏 (奏): ここと、ここを押して……
 幼い奏 (奏): あ……。 おとうさんみたいにできたかも……！
 幼い奏 (奏): あれ？　今のってどこ押したんだっけ？
-(Black cut)
+(Black transition)
 幼い奏 (奏): ねえねえ、おかあさん！ おとうさんに言いたいこと、ない？
 奏の母: 言いたいこと？ そうねえ……今日のご飯は何が食べたいか——
 幼い奏 (奏): えっと、そういうのじゃなくて、 おたんじょうびの日に、言いたいこと！
 奏の母: ああ、そういうことね。 もしかして、お手紙を書いてくれるの？
 幼い奏 (奏): う、うん。 おとうさんのプレゼントに……
 奏の母: ふふ、それなら…… 『誕生日おめでとう。 お父さんの作ってくれる曲はいつも、とても優しくて』——
-(Black cut)
+(Black transition)
 幼い奏 (奏): ……——♪　……——♪
-(Black cut)
+(Black transition)
 
 [誕生日　当日]
 
@@ -105,8 +101,8 @@
 幼い奏 (奏): うん！ おとうさんみたいに、うまくできたか わかんないけど……
 幼い奏 (奏): でも、おうた歌ってる時のおとうさん、 すごく楽しそうだから……よろこんでくれるかなって
 奏の父: 奏……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000260/bg_s000260.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000260/bg_s000260.webp)
 奏の父: ——すごいじゃないか！
 奏の母: ええ！　まさか、奏が曲を作っていたなんて……！
 幼い奏 (奏): えへへ……びっくりした？
@@ -116,11 +112,11 @@
 奏の父: うん……とてもあたたかい、良い曲だ
 奏の父: 奏、またお父さんのために曲を作ってくれるかい？
 幼い奏 (奏): うんっ！
-(White cut)
+(White transition)
 (Background change)
 奏の父: いやあ、こんなに小さいのに、 曲が作れるなんて……奏は天才だな
 奏の母: ふふ、本当ね
 幼い奏 (奏): （よかったあ、おとうさんとおかあさん、 たくさんよろこんでくれた……！）
 幼い奏 (奏): （えへへ、うれしいなあ）
 幼い奏 (奏): （また、わたしが曲を作ったら よろこんでくれるかな……）
-(Black cut)
+(Black transition)

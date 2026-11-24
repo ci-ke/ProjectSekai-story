@@ -61,15 +61,15 @@ MEIKO (Ln): あ、本当だ。 星のシールがたくさん貼ってあるね
 穂波: 子供の頃、お気に入りのものにはなんでも シールを貼っちゃう癖があったのと……。 ワンちゃんに、星をあげたいなって思ったみたいで……
 一歌: そうだったんだ……
 穂波: あはは、ちょっと恥ずかしいな……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000411/bg_s000411.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000411/bg_s000411.webp)
 一歌: 恥ずかしがることないよ、穂波
 穂波: えっ？
 一歌: 私はこのシール、すごくいいと思う
 一歌: 穂波がどれだけこの絵本が好きで、 大切に思ってたかが伝わってくるよ
 一歌: きっと、星のシールをもらった犬も 嬉しかったんじゃないかな
 穂波: えっと……ありがとう、一歌ちゃん
-(White cut)
+(White transition)
 (Background change)
 MEIKO (Ln): そうだ！ 穂波の読み聞かせ、こっそり見に行ってもいい？
 穂波: えっ？
@@ -79,4 +79,4 @@ MEIKO (Ln): あ、もちろん他の人には見つからないようにする�
 MEIKO (Ln): ありがとう！　楽しみにしてるよ
 一歌: 読み聞かせ会、うまくいくといいね
 穂波: うん！　子供達に喜んでもらえるように、頑張るね
-(Black cut)
+(Black transition)

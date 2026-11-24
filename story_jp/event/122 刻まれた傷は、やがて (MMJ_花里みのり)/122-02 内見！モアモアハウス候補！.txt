@@ -28,7 +28,7 @@ MEIKO (MMJ): 『どんなおうちに出会えるのか楽しみね！』
 (Background change)
 ミク (MMJ): 『はあ、危なかったあ……』
 ルカ (MMJ): 『慣れてきた時が危険っていうから、 そういう時こそ気をつけなくちゃね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -73,4 +73,4 @@ MEIKO (MMJ): 『もしかして、幽霊が出たりするのかしら？』
 愛莉: ありがとうございます、よろしくお願いします！
 みのり: （特殊な物件、か……）
 みのり: （……それって、どんなのだろ？）
-(Black cut)
+(Black transition)

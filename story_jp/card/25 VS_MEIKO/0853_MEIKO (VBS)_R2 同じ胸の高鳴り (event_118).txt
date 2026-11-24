@@ -34,7 +34,7 @@ KAITO (VBS): そうだね。もし本当の話だったら大変なことだし�
 レン (VBS): え？　まあ……ふたりがそう言うなら……
 MEIKO (VBS): それじゃあ——ルカ、案内してもらえるかしら？
 ルカ (VBS): オッケー！　こっちだよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -67,7 +67,7 @@ MEIKO (VBS): （あちこちにびっくりするほどグラフィティがあ�
 MEIKO (VBS): （一体、どんな想いが反映されたのかしら）
 MEIKO (VBS): （……ふふ。リンにはああ言ってしまったけれど、 早く調べてみたいわね）
 MEIKO (VBS): （私も知りたいもの。 あの子達の想いの変化を——）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -95,20 +95,16 @@ MEIKO (VBS): ……そうね。 あの子達には、固くて強い決心があ
 MEIKO (VBS): だからこそ、この壁に大きなヒビが入って——
 MEIKO (VBS): ……こうやって、向こう側の音楽も聴こえるようになった
 MEIKO (VBS): ……あの時、ミクはいなかったけど このセカイについて、こはねちゃんはね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 こはね: もし私達がRAD WEEKENDを超えて、 それで、この壁が壊れたら——
 こはね: 世界中の音楽が通りにあふれて—— あの広場で、たくさんの音楽が出会うことになるんだなって
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 こはね: ……RAD WEEKENDを超えて、この壁が壊れて、 世界中の音楽とつながって、また成長できて……
 こはね: なんだか——すごくドキドキする場所になりそうですね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ミク (VBS): ——へえ、そんなこと言ってたんだ。 ドキドキっていうのはこはねらしいな
 MEIKO (VBS): ええ、本当に
 MEIKO (VBS): でもね……実は私も、 こはねちゃんと同じ気持ちなのよ
@@ -133,4 +129,4 @@ MEIKO (VBS): あ、だけど……ちょうど私も歌いたい気分だった�
 こはね: 嬉しいです！ 一緒に歌いましょう！
 ミク (VBS): それじゃ、広いところに行こっか
 杏: はーい！
-(Black cut)
+(Black transition)

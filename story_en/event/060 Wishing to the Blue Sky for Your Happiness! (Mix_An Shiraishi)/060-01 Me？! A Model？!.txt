@@ -21,14 +21,14 @@ Vivi: Meow!
 Truck Driver: Hm? Did something move by the bed just now...?
 Truck Driver: Or it could just be my imagination. Alright, I'm heading out!!
 Vivi: Meow...?
-(Black cut)
+(Black transition)
 
 [A few days later]
 
 An: Hey! Vivi!
 An: Hmm... Not here either. If she isn't on top of this AC unit, that just leaves...
 An: *Sigh* Seriously, where'd she run off to?
-(Black cut)
+(Black transition)
 Kohane: (I'm supposed to practice with Taiga today, but I ended up coming way earlier than the time we agreed to...)
 Kohane: (Since I have some time, I can warm up at the park... Oh, I know. I can try looking around Vivid Street like I did with him that other time.)
 Kohane: (I still don't really understand why I need to see the city to get better at singing...)
@@ -61,7 +61,7 @@ An: Hehe. Thanks, Kohane!
 An: Oh, also... If you still have time until you're supposed to practice with Uncle Taiga, wanna stop by my place? I bought this new CD and was wondering if we could listen to it together.
 Kohane: Really? In that case, I think I will.
 An: Okay! Let's head on over!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -84,7 +84,7 @@ An: I knew it was you! What's the matter? You sound like you're in trouble...
 Kawasaki: That's because I am... I'm supposed to do this big shoot the day after tomorrow...
 Kawasaki: But all of the models I had booked can't make it anymore...
 An: What?!
-(Black cut)
+(Black transition)
 An: A photography contest?
 Kawasaki: Yes... This year's theme is “happiness”, so my idea was to take photos of a wedding.
 An: Hey, a wedding sounds like a great idea! I helped out a little at one a while back, and really liked how the air was filled with so much warmth and kindness...!
@@ -95,15 +95,11 @@ Kawasaki: There were many guests there, including children and the elderly... Al
 Kawasaki: And I had this realization. “Everybody's there to wish for their happiness.”
 Kawasaki: That wonderfully miraculous moment is what brought us together...
 An: I see what you mean...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: A place where everyone wishes for somebody's happiness... That really is wonderful!
 Kawasaki: Hehe. I'm glad you understand!
@@ -149,4 +145,4 @@ Kawasaki: Why don't you join us for this shoot? I was also looking for people to
 Kawasaki: Also, you have this look about you, so, I'm sure I'll be able to take some wonderful photos! Think of it as creating some fun memories! C'mon, what do you say?!
 Kohane: U-Umm... W-Well...
 An: G-Go easy on her, Ms. Kawasaki! You're making her panic!
-(Black cut)
+(Black transition)

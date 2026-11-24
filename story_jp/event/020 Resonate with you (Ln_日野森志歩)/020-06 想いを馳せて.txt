@@ -5,22 +5,18 @@
 [咲希の部屋]
 
 咲希: ……しほちゃん……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: プロを目指すってことは、今まで以上に 自分の時間を練習に費やさなきゃいけない
 志歩: 放課後どこかに寄ったり、フェニラン行って遊んだりも あんまりできなくなる
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: （しほちゃん、アタシがやりたいことがたくさんあるから、 あんな風に言ったのかな……）
 咲希: （たしかに、入院しててできなかったことがいっぱいあって、 みんな、やりたいことだけど……）
 咲希: （でも、アタシはやっぱり——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -29,22 +25,18 @@
 穂波: （わからないな……。 これから先どう生きていくのかなんて、まだ……）
 穂波: （でも志歩ちゃんは、ずっと考えてたんだよね）
 穂波: （いつも、まっすぐ自分を曲げなくて。 あの時だって——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: 私は、何かを決めるっていうのは、 何かを切り捨てることだって思ってる
 志歩: だから、どうしたって恨まれることはある。 それが普通
 志歩: ……だから、穂波がいいって思うほうにしたらいいよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 穂波: （わたしが、いいって思うほうに……）
 穂波: わたしは——
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -54,22 +46,18 @@
 一歌: （そんな覚悟、私にできるのかな）
 一歌: （いつもなんとなく毎日すごして、 自分がプロになんてなれるわけがないって思ってた私が……）
 一歌: （でも——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: 私の演奏で誰かの心を揺さぶれたら……って
-(White cut)
+(White transition)
 (Background change)
 ミク (Ln): 音楽と、この先もずっと向きあおうと思えるか ……じゃないかな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: 音楽と、ずっと向きあう——
-(Black cut)
+(Black transition)
 (Background change)
 
 [STANDOUTワンマンライブ　当日]
@@ -79,17 +67,13 @@
 イオリ: ——うん、機材も問題なさそうだね。 スタッフさん、いつもありがとう
 イオリ: これでいいライブができそうだよ
 イオリ: （……あとは、メンバーが揃えば……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ミオ: イオリ、ちゃん……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 イオリ: …………
 イオリ: （本当は、あの子が覚悟を決めてくれれば——）
 イオリ: ——ううん、それは……もう諦めたはず
@@ -125,4 +109,4 @@
 一歌: 私達、志歩に話があるの
 一歌: 答えを決める前に、聞いてほしい……
 志歩: …………
-(Black cut)
+(Black transition)

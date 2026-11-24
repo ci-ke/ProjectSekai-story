@@ -56,19 +56,15 @@ Gacha phrase: きゃっ、水……冷たい
 寧々: （……本当に、恵まれた環境だな）
 寧々: （……プロの人達の演技を間近で見れたり、 何より一緒に演じることができるんだから）
 寧々: （今のこの時間を大切にして、 ひとつひとつ、いろんなことを学んで進んでいきたい。 それで……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （——それでいつか、風祭さんみたいに 世界で活躍できるようなミュージカル俳優になるために……）
 寧々: （これからも、成長していこう——！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -145,18 +141,14 @@ KAITO (WxS): あはは……。 でも、ネネロボちゃんがなんともな
 寧々: （……あの時、カメさんの力になれてよかったな）
 寧々: （おかげで、みんなで無事に川を渡れて、 こうしてネネロボ達と一緒に地図を取り返すこともできて……）
 寧々: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 寧々: ……怖い気持ちがあるのはわかるよ
 寧々: でも、勇気を持って踏み出したら、 その分、絶対夢に近づけるって思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （わたしも、自分の気持ちを改めて振り返ることができたし）
 寧々: （これからも、怖い気持ちが全部なくなるってことは、 きっとないんだろうけど……）
 寧々: （でも、進んでいこう……）
 寧々: （わたしの憧れに……夢に向かって——！）
-(Black cut)
+(Black transition)

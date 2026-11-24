@@ -3,7 +3,7 @@
 (Character: Hatsune Miku, Kagamine Rin, Kagamine Len, MEIKO, KAITO)
 
 (Video: link2_ppr_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -12,13 +12,13 @@ MEIKO: Let's see... The theater troupe me should be here somewhere...
 MEIKO: I'm not seeing her. I thought I'd find her immediately since her voice is so loud.
 ???: This is sooo good!
 MEIKO: Huh? That sounded like...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Crase Cafe]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000491/bg_s000491.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000491/bg_s000491.webp)
 MEIKO (WxS): Mmmm! The cheese on this pizza is so rich...!
 MEIKO (WxS): These pancakes, Napolitan pasta and sandwiches are also all wonderfully scrumptious!
 MEIKO: S-So much food...! Is she going to eat all this by herself?!
@@ -29,7 +29,7 @@ MEIKO (WxS): Really?! I really appreciate it! In that case... Could I order some
 MEIKO (VBS): Of course. How does pudding a la mode sound?
 MEIKO (WxS): What a chic name...! Yes, I'd love some!
 MEIKO: Sh-She's not even done ordering?!
-(White cut)
+(White transition)
 (Background change)
 MEIKO: I knew she had a powerful appetite, but not to this extent...
 Miku (VBS): We're back, MEIKO. I practiced with Len and... Huh...?
@@ -45,7 +45,7 @@ KAITO (VBS): Did I say something funny just now?
 Miku (VBS): I'm not sure it's what you said...
 Len & Rin: There are two MEIKOs?!
 KAITO (VBS): Wh-What?!?!?!?
-(Black cut)
+(Black transition)
 Len (VBS): Really...?! You're from a SEKAI with an amusement park, MEIKO?!
 MEIKO (WxS): Yes! A big amusement park with a stage where we all put on shows together!
 Rin (VBS): Wow, that sounds like so much fun!
@@ -89,7 +89,7 @@ Miku (VBS): No idea. Knowing her, she's probably wandering around somewhere by h
 MEIKO (VBS): Right. She's never around when these sorts of things happen.
 KAITO (VBS): I'm sure she'll make a big fuss when she gets back. All “I wish I got to meet that other MEIKO” and “Why didn't you tell me?!”
 MEIKO (VBS): Hehe. I can picture it now.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Plaza]
@@ -108,4 +108,4 @@ MEIKO (WxS): On top of the world? Does that mean...?
 MEIKO (WxS): Wait, just now...
 Len (VBS): Right on cue! That must be them! Let's go see them, MEIKO!
 MEIKO (WxS): Okay!
-(Black cut)
+(Black transition)

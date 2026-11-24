@@ -15,13 +15,13 @@ Toya: I appreciate the offer, but I'd like to go check on my friend and the danc
 Man B: Sure, go for it! We'll see you later!
 Toya: Okay.
 Toya: Now then...
-(Black cut)
+(Black transition)
 Rui: Stand more proudly! Be mindful of how you move your fingers as well! Imagine that each of your fingers has its own personality!
 Toya: (Kamishiro's really giving it everything he has. Our entire team's morale seems good too, so we should be able to pull this off.)
 Toya: (Now, how's Akito doing...?)
 Toya: (Oh, wow... They're not looking bad themselves. I can't really complain...)
 Toya: (I'm so glad that I asked Akito to do this...)
-(Black cut)
+(Black transition)
 Rui: Very good. The dance team is coming along nicely.
 Akito: Well, yeah. I wouldn't be showing you this if we weren't.
 Rui: Hehe. Indeed.
@@ -31,7 +31,7 @@ Rui: Oh, yes... I'll be right there...!
 Akito: Hm? Toya, what's up?
 Toya: Oh, hi. My team just decided to take a quick break.
 Akito: Then how about we go get some fresh air?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wedding Ceremony Hall]
@@ -46,24 +46,16 @@ Akito: Really? He did that with all of you guys...?
 Toya: Yes. I've never done any acting before either, so choosing teams couldn't have been easy. 
 Akito: That's got nothing to do with you. He's the one that agreed to take over, so it's all on him.
 Toya: Yes, I know. But...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Toya: (I think Akito has the wrong idea about Kamishiro...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (He'd understand if he heard what I did back there from Kamishiro...)
 Toya: ...
@@ -93,7 +85,7 @@ Toya: I see.
 Toya: (I think I was the one getting the wrong idea...)
 Toya: Akito, let's make sure this surprise succeeds.
 Akito: Don't worry, we will!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -163,17 +155,13 @@ Akito: You've probably never been anywhere like this, right?
 Toya: No, I haven't.
 Toya: (When is the last time I went anywhere with anyone from school...)
 Toya: (I hadn't thought about it since forming BAD DOGS after I met Akito...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: As students, you get to experience so many different things, right?
 MEIKO: It all contributes to the ways you express yourselves.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (MEIKO did say that...)
 Toya's Classmate: Oh, mind if I invite some other people too? It'd be fun to have enough for a game of futsal!
@@ -181,4 +169,4 @@ Toya: Sure, why not?
 Toya: And thank you for inviting me. I'll be looking forward to it.
 Toya's Classmate: Yeah! This is gonna be awesome!
 Akito: Haha! You're like a little kid!
-(Black cut)
+(Black transition)

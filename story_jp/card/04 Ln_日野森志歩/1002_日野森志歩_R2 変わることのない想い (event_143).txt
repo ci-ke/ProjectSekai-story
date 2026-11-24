@@ -10,27 +10,21 @@ Skill name: ザ・青春！？
 
 志歩: ……あ、もうこんな時間か
 志歩: まあ、今日はセカイでパーティーもあって、 帰りもちょっと遅かったし
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 私は……『ミクにも歌ってほしいな』って 自分が思った曲じゃないものを、世に出すのは嫌なのかも——
 一歌: 思い入れが……思い出が、たくさんあるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ……一歌、今頃タイアップのこと考えてるのかな
 志歩: （答えがどうなるかはわからないけど、 一歌が考えて出した答えなら、それでいい）
 志歩: （それにしても——）
 志歩: 今日は、懐かしい話をたくさんしたな
 志歩: ……そういえば、あの頃もこんな風に 部屋でよくベースの練習してたっけ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 幼い志歩 (志歩): ……ふう。 さっきよりも、詰まらずに弾けるようになってきたな
 幼い志歩 (志歩): ……もし、一歌達とバンドやったら この音にギターとかキーボードとか、ドラムの音が重なるんだ
 幼い志歩 (志歩): バンド、か……
@@ -47,9 +41,9 @@ Skill name: ザ・青春！？
 幼い志歩 (志歩): 全然合わなくて、思ってたより楽しくないってことだって……
 幼い志歩 (志歩): …………
 幼い志歩 (志歩): （でも……）
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 幼い志歩 (志歩): （もし、４人でやれたら——）
 幼い志歩 (志歩): （きっと……ううん、絶対楽しい……！）
@@ -57,16 +51,14 @@ Skill name: ザ・青春！？
 幼い志歩 (志歩): それに、ドラムのことも聞きに行かなきゃ
 幼い志歩 (志歩): …………
 幼い志歩 (志歩): 早く、明日にならないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 志歩: 変わんないな、私……
 志歩: いろいろあったりしたけど 結局、一歌達とバンドがやりたくて——
 志歩: ……今日は宿題もないし、 お風呂入ったら早めに休もうかな
 志歩: 一歌がどんな答えを出すとしても、練習はあるし
 志歩: いい練習にするためにも、休める時に休まないとね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -87,7 +79,7 @@ Skill name: ザ・青春！？
 アイドル: 『——キスみたいな、甘いしゅわしゅわ！？ ピュアラブサイダー♪』
 (Background change)
 志歩: ……タイアップきたの、しゅわデリサイダーでよかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -106,18 +98,14 @@ Skill name: ザ・青春！？
 咲希: 最後は、公式戦の打席と応援団の演奏で 練習の成果をばっちり発揮して、もうさいっこうに青春って感じ♪
 志歩: まあ、咲希はああいうの好きだろうね
 志歩: 青春か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: 今度のCMのテーマは『この一瞬を、一緒に！』というもので——
 真堂: 商品の特徴である喉ごしのさわやかさを、 学生の青春として表現するようです
 真堂: そのイメージがLeo/needにマッチしそうとのことで お話をいただきました
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （私が見たCMはちょっとキラキラしてたけど、 もらってるテーマの雰囲気なら、ムズムズしなくてすむかな）
 クラスメイト: ……あ、あの！
@@ -145,4 +133,4 @@ Skill name: ザ・青春！？
 志歩: いや、お昼ぐらい誘われたら 別に行くけど……
 志歩: （まったく……）
 志歩: （青春って、やっぱりちょっとムズムズするかも）
-(Black cut)
+(Black transition)

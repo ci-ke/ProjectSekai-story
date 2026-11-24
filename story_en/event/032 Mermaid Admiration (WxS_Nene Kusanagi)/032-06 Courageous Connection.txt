@@ -10,7 +10,7 @@ Tsukasa: (Wait, could she be in trouble...?!)
 Little Mermaid (Nene): *Huff*... *Huff*... *Huff*...
 Little Mermaid (Nene): Oh no, they got caught!! What do I do...?!
 Tsukasa: (Ah, there she is! Now to slowly exit the stage...)
-(Black cut)
+(Black transition)
 Emu: Hm? What's Robo-Nene doing back here? Isn't her scene coming up really soon...?
 Rui: Sadly, she ran into a bit of trouble. Some children decided to play rough with her, which caused her to malfunction.
 Tsukasa: What?!
@@ -21,7 +21,7 @@ Emu: Okie-dokie!
 Emu: B-But what should we do?! We're not supposed to go back out until after Nene's scene. If we go now, it'll ruin the whole story...!
 Tsukasa: Right... The next scene is where Nene transforms after drinking the strange potion.
 Tsukasa: But how can we help her during all that...?
-(Black cut)
+(Black transition)
 Little Mermaid (Nene): What do I do...? There's no way I can save them both...
 Nene: (Normally, this is when I'm supposed to drink my potion and save them...)
 Nene: (But I need to keep stalling until Robo-Nene's back on her feet...!)
@@ -39,19 +39,15 @@ Yuka: ...
 Nene: (Oh...! Ms. Kazamatsuri...!)
 Nene: (What would she do at a time like this...?)
 Nene: (If I were in her shoes when she was the Little Mermaid all those years ago...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Little Mermaid: Diving into an unknown world is terrifying, but not being able to because of my own fears would be much worse!
 Little Mermaid: 'I'm going! I need to see him...!
 Little Mermaid: ♪————!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Nene: (That's it...!)
 Nene: (I just have to sing!)
 Little Mermaid (Nene): The thought of standing up against humans terrifies me. Just thinking about all the terrible things that could happen to me because of that scares me so much...
@@ -65,7 +61,7 @@ Spectator: Whoa...! Such a beautiful song...!
 Rui: (She's ad-libbing a whole song...?!)
 Rui: (The melody and lyrics are a little different, but this sounds just like...)
 Yuka: It's like when I sang as the Little Mermaid...
-(Black cut)
+(Black transition)
 Rui: There! She's back online!
 Rui: Do you feel ready to go on stage?
 Robo-Nene: Beep... Yes, I am ready!
@@ -77,11 +73,11 @@ Little Mermaid (Nene): Okay, I feel much better. Now I need to go and save them 
 Little Mermaid (Nene): Wait, I know! I still have that weird potion! The one for when we get into really big trouble...!
 Little Mermaid (Nene): Please, I need a way to save them...!
 Little Mermaid (Nene): I don't care if I dissolve into foam like the Little Mermaid in the book...!
-(White cut)
+(White transition)
 Little Mermaid (Nene): Wait... Huh? Wh-What just happened to me?!
 Little Mermaid (Nene): No, I don't have time for that right now... I have to figure out a way to save them...!
 Yuka: ...
-(Black cut)
+(Black transition)
 (Background change)
 Nene: Geez... I thought my heart was literally going to explode...
 Emu: Neneee!!!
@@ -111,4 +107,4 @@ Nene: Th-Thanks...
 Yuka: I apologize for dropping in unannounced like that.
 Yuka: Anyway, shall we? How about we head towards the beach and get out of your friends' hair?
 Nene: Y-Yes! Thank you for being so considerate!
-(Black cut)
+(Black transition)

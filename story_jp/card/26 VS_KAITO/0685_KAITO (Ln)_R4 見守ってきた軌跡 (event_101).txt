@@ -18,17 +18,13 @@ KAITO: ……えっと、チケット？
 志歩: チケットのデザイン担当が迷走してるおかげでね
 咲希: だ、だって～いろいろアイディアが浮かんできちゃって まとまらないんだもーん！
 一歌: えっと、４人で話したんだけどまとまらなくて……。 たまに絵を描いてるし、レンの意見を聞いてみようって さっき相談しに行ったら——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: ——こういうのは、カイトのほうがセンスいいよ
 レン: オレが描いてる絵の構図とかも、 アドバイスしてくれるしさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……カイトさん、お願いします！
 KAITO: そこまで力になれるかわからないけど……
@@ -80,7 +76,7 @@ KAITO: えっと……。 そういうわけじゃないんだけど……
 KAITO: ……どういたしまして
 咲希: ホントにありがとうございました！ チケットできあがったら、見せにきますね！
 KAITO: うん……楽しみにしてる
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -123,17 +119,15 @@ KAITO: わっ……！
 ミク (Ln): わ……！　び、びっくりした……
 KAITO: ご、ごめん……。 えっと……どうしたの？
 ミク (Ln): ちょっとお願いしたいことがあって——
-(Black cut)
+(Black transition)
 (Background change)
 ミク (Ln): ……ごめん、急に頼んじゃって
 KAITO: ううん……。 伴奏するくらいなら、大丈夫
 KAITO: ……弾くのは、あの曲でいいんだよね。 ライブで、一歌と一緒に歌うっていう……
 ミク (Ln): うん……
 ミク (Ln): ……一歌が誘ってくれた時、本当にびっくりしたな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): ——え？ 一歌達のライブで、私も一緒に……？
 一歌: うん……！
@@ -142,10 +136,8 @@ KAITO: ……弾くのは、あの曲でいいんだよね。 ライブで、一
 ミク (Ln): …………！
 一歌: だから——
 一歌: 一緒に歌おう、ミク！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: あれは、一歌らしいまっすぐな誘いかただったね
 ミク (Ln): そうだね……
@@ -160,4 +152,4 @@ KAITO: ……セカイも、ミクを応援してるのかな
 ミク (Ln): そうだったら嬉しいな
 ミク (Ln): ——よし。 カイト、伴奏よろしく
 KAITO: わかった。 じゃあ、いくよ——
-(Black cut)
+(Black transition)

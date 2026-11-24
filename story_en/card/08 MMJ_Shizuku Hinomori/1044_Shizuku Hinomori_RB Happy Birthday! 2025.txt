@@ -21,7 +21,7 @@ Shizuku: My, you want my help...?
 Shizuku: I'm so happy you came to me, Shii. I'll do anything I can to help!
 Shiho: Um, maybe wait until you know what you're agreeing to...?
 Shiho: Well, whatever. So, I was hoping you could stop by...
-(Black cut)
+(Black transition)
 Shizuku: Let's see... First, I pick up your dry cleaning, then I buy a cake at the cafe. Is that right?
 Shiho: Yeah. I was going to do both myself, but something came up...
 Shizuku: That's perfectly fine. Please, leave it to me!
@@ -29,10 +29,10 @@ Shizuku: Still... It's quite unusual for you to ask for cake, Shii.
 Shiho: It's this one Honami told me about. It's supposed to be really good, so I've been wanting to try it.
 Shizuku: Hehe. Then I'll have to be sure to succeed. Look forward to it, Shii!
 Shiho: Thanks, I will. See you later, then.
-(Black cut)
+(Black transition)
 (Background change)
 Shiho's Voice (Shiho): Alright. Now to send Momoi a message...
-(Black cut)
+(Black transition)
 (Background change)
 Rin (MMJ): <Now you've got a mission, Shizuku!>
 Shizuku: I do. It's not often Shii asks me to do something for her... I want to handle this perfectly!
@@ -42,7 +42,7 @@ Shizuku: Huh?
 Rin (MMJ): <Yeah! There's no way it'll go wrong if we put our heads together! Let's all do our best on this mission♪>
 Shizuku: Both of you... Thank you. I'm going to do my best and make Shii's day!
 Shizuku: Now, I'll start by finding out where the cafe is...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Neighborhood]
@@ -74,7 +74,7 @@ Mizuki: Then, wanna walk together part of the way? We were just on our way to on
 Ena: I'd kind of worry if we left you on your own now.
 Ena: Let's stick together until you get to a street you recognize.
 Shizuku: Really? Thank you! Then, I'll happily take you up on the offer.
-(Black cut)
+(Black transition)
 Shizuku: Oh...
 Shizuku: I've been here before...! If I remember correctly, going straight here should take me to the correct street.
 Mizuki: Ooh, correct you are♪ Sounds like you'll be alright without us from here on out!
@@ -87,7 +87,7 @@ Ena: Well, you've got a point there. Anyway, guess I should message Airi.
 Mizuki: Oh, I'll send one too! Let's see...
 Mizuki: “Shizuku's headed that way! Make sure everything's ready♪”
 Ena: *Sigh* I just hope she actually makes it.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -101,7 +101,7 @@ Rin (MMJ): <Yeah! Look at you, you're doing great♪>
 Miku (MMJ): <That construction was definitely a surprise... But it sure was lucky that you ran into your friends, Shizuku!>
 Shizuku: It was. I'll need to thank them both properly once this is all done with.
 Shizuku: Alright then, let's get to our destination!
-(Black cut)
+(Black transition)
 Children: Thanks for talking to us, Shizuku! Bye bye!
 Shizuku: Of course. You be careful, now.
 Shizuku: (Hehe. It was so nice of them to come say hello to me.)
@@ -113,7 +113,7 @@ Honami: Y-Yes, we were. Um, Shizuku, were you...on your way somewhere?
 Shizuku: Yes. You see, Shii sent me on an errand, so I was just on my way to the dry cleaners.
 Honami: Dry cleaners... Shizuku, um... I think that's in the opposite direction.
 Shizuku: Huh?
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: You should reach the dry cleaners if you keep following this road.
 Shizuku: Thank you, Asahina, you've been a great help. I could have sworn I was nearly there, but I just couldn't seem to find my way...
@@ -123,7 +123,7 @@ Shizuku: Hehe... I'm happy we got to chat as well.
 Shizuku: I know. Would you like to spend our school lunch break together one of these days? I'd like another one of these leisurely chats.
 Mafuyu: That's a good idea. I'd be happy to do that the next time you're available. Just let me know.
 Shizuku: Okay! I'll send you a message then.
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: I made it...!
 Shizuku: This is the place Shii told me about, right?
@@ -133,10 +133,10 @@ Shizuku: I'm so glad...! Thank you both so much for supporting me along the way.
 Shizuku: I never would have made it if I were on my own... I'll need to thank everyone I ran into today.
 Shizuku: Well, Shii is waiting... First, I'll pick up her dry cleaning!
 Rin (MMJ): <Right! Good luck♪>
-(Black cut)
+(Black transition)
 Shizuku: I've got the dry cleaning, so now all that's left is to buy her cake at the cafe before heading home.
 Shizuku: Hehe... I hope Shii will be pleased.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cafe]
@@ -176,8 +176,8 @@ Kohane: Hehe. We have cake from this cafe and some Japanese sweets we brought fo
 Shizuku: Everyone...
 Shizuku: Thank you... Thank you so much!
 Shizuku: Then, since you've all been so kind... Let's enjoy this party together!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000386/bg_s000386.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000386/bg_s000386.webp)
 Mizuki: Happy birthday, Shizuku! We swooped in just in the nick of time out there, right?
 Mizuki: Even waiting around was fun, since it felt like a stakeout from one of those crime shows... It was all for your birthday, but we ended up being entertained too!
 Ena: Well, I was more worried than entertained... Still, I could tell how happy you were, Shizuku. I'm glad the surprise went so well.
@@ -204,7 +204,7 @@ Haruka: We got a bit antsy since you kept getting lost... It was such a relief t
 Haruka: Once again, Shizuku, happy birthday. Let's keep doing our best together to support everyone cheering us on.
 Airi: I was glad to see our surprise go so well! Y'know, everybody was more than happy to lend a hand when they heard we were doing something for your birthday. You sure have a magnetism to you.
 Airi: Let's keep delivering more hope together! I hope you have a great birthday, Shizuku!
-(White cut)
+(White transition)
 (Background change)
 Shizuku: Thank you for the birthday wishes, everyone.
 Shizuku: To have this many people celebrate my birthday... I'm so truly fortunate.
@@ -213,4 +213,4 @@ Shizuku: But of course, me receiving your support can't be the end. I need to gi
 Shizuku: And I think that feeling is best conveyed through my work with MORE MORE JUMP!, by shining as an idol...
 Shizuku: So I'll continue pushing forward with all my strength.
 Shizuku: I'm far from perfect... But I hope you'll all keep watching me.
-(White cut)
+(White transition)

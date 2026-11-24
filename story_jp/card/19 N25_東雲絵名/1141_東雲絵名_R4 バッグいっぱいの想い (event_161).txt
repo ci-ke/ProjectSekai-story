@@ -30,20 +30,16 @@ Gacha phrase: ダメ！体にいい物、しっかり食べて！
 絵名: 『まあ、それは私も楽しみだけど……』
 (Background change)
 絵名: 『“あたたかい”か……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆの母: 『いつもまふゆと仲良くしてくれてありがとう』
 まふゆの母: 『でも……』
 まふゆの母: 『まふゆとは、どういうつながりのお友達なのかしら？』
 まふゆの母: 『もしかして……』
 まふゆの母: 『——まふゆと一緒に、音楽をしている子？』
 絵名: 音楽……ですか？ なんのことか、ちょっとわからないんですけど……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 絵名: （前に電話で話した時は、 あったかいっていう感じは全然なかったけど……）
 絵名: 『……ねえ。Amiaはさ、 どんな時に家族のことをあったかいって思うの？』
 (Background change)
@@ -62,26 +58,18 @@ Gacha phrase: ダメ！体にいい物、しっかり食べて！
 瑞希: 『だから、えななんも教えてよ。 どんな時に、家族をあったかいって思うのか』
 (Background change)
 絵名: 『…………』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……ちょっと違うかも）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……あいつと話をして、自分がどうしたいのか見えた時 胸が熱くなったのを覚えてる）
 絵名: （でもあれは……多分また別の気持ちかも）
@@ -105,7 +93,7 @@ Gacha phrase: ダメ！体にいい物、しっかり食べて！
 (Background change)
 瑞希: 『いいじゃんいいじゃん！ ボク達の作業にも活かせそう！』
 絵名: 『うん。……雪、早く来ないかな』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -125,7 +113,7 @@ Gacha phrase: ダメ！体にいい物、しっかり食べて！
 絵名: ……あ、そうだ！
 絵名: ……『奏。作業の前に、 ちょっとだけ時間ちょうだい』っと
 絵名: ……よし！　あとは——
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -179,4 +167,4 @@ Gacha phrase: ダメ！体にいい物、しっかり食べて！
 絵名: あ、必要だったらまふゆも食べていいからね。 勉強の後とか部活の後とか便利でしょ？
 まふゆ: ……そうだね。 必要になったら、食べようかな
 絵名: すませたかった用事は終わったし、 部屋に戻って作業しよっか！
-(Black cut)
+(Black transition)

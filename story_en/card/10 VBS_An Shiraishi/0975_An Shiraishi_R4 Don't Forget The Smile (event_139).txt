@@ -12,19 +12,15 @@ Gacha phrase: C'mon, Toya, you've gotta smile!
 An: Hey, Akito, do you know how many people in our class are in the brass band?
 Akito: The brass band?
 An: Yeah, remember what we talked about?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: Shibuya Instrument Day?
 Akito: And you two are gonna go help out?
 Toya: Yes, due to a slight emergency.
 An: The manager of the shop who lends us the sound equipment we always use is gonna be there, but a few of his staff won't be able to make it, so he's shorthanded.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I wanted to learn a little more about trumpets before Shibuya Instrument Day.
 Akito: So, you wanna ask some people in the brass band about them?
@@ -38,10 +34,8 @@ An: Huh? With Makita?
 An: Umm... We say hi sometimes, and we also talked a bit during the meetings for that film we made...
 Akito: Then, you need to be careful not to scare her by getting all up in her face. Remember what happened with Kusanagi?
 An: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: You wish to have lunch with Kusanagi, but things haven't been going as planned?
 An: It's like my timing's been really bad, you know?
@@ -50,14 +44,12 @@ Akito: Assuming your aggressiveness hasn't scared her off already.
 An: What? I haven't scared...
 An: No! Nuh uh! I definitely haven't...!
 Toya & Akito: (She hesitated...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Yeah, that did happen...)
 An: Thanks, Akito. I'll try to be careful.
-(Black cut)
+(Black transition)
 
 [Lunch break]
 
@@ -85,7 +77,7 @@ An: Huh? Yeah, that's right...
 Makita: I knew it...! That place has also been really good to me.
 Makita: I go talk to the manager there whenever I'm having trouble playing something, because he loves trumpets and saxophones so much.
 An: What?! You know him?! Wait, does that also mean you know about Shibuya Instrument Day and...
-(Black cut)
+(Black transition)
 An: Thanks for giving me so much helpful info about trumpets, Makita!
 Makita: No, if anything, I'm sorry for only being able to talk about really basic stuff. I'm still just a beginner myself.
 Makita: I wish I could be there to help the manager since he's been so kind...
@@ -101,7 +93,7 @@ Makita: No, I was thinking about buying something at the school store or cafeter
 An: Really?! Then, let's go together!
 Makita: Okay! The store's probably run out of stuff already, so how does the cafeteria sound?
 An: Perfect! Hehe. I wonder what they're serving for lunch today.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -136,7 +128,7 @@ Toya: I don't mind. Especially since you all helped me practice.
 An: Okay! Then, let's tell them what happened!
 An: The first customers you helped were that elderly couple, right?
 Toya: Yes, they were hoping to enjoy their golden years by learning a new hobby together...
-(Black cut)
+(Black transition)
 Toya: And so, after they'd made their interest clear, I suggested that they demo some instruments. The manager took over from there.
 Luka (VBS): Really! Way to go, Toya♪ I can tell even from the story that you treated them very well.
 Toya: Thank you very much. But I was only able to do that because Shiraishi coached me so well.
@@ -168,4 +160,4 @@ Luka (VBS): Wow! That feels so natural!
 An: See what I mean?!
 MEIKO (VBS): Hehe. You look so happy, An.
 An: Well, he is my star pupil!
-(Black cut)
+(Black transition)

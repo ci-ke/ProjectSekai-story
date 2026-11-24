@@ -14,15 +14,11 @@ Gacha phrase: この曲は、きっと届くと思うよ
 レン (Ln): あれなら、ライブでもかなり盛り上がりそうだな
 MEIKO (Ln): だね！　初めて聴いたけど、ノリノリになっちゃったよ！
 MEIKO (Ln): それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (Ln): みんなの想いを、すごく感じるよね
 KAITO (Ln): ……『出会ってくれてありがとう』を テーマにしたんだよね
@@ -39,14 +35,10 @@ MEIKO (Ln): あはは。リンは、最初からアクセル全開だったよ�
 レン (Ln): そうだったのか。 まあ、リンらしいな
 レン (Ln): そういえば……メイコは初めて会った時どんな感じだったんだ？
 MEIKO (Ln): 私？　うーん、そうだな——
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (Ln): なんていうか……すごくびっくりされたよ
 MEIKO (Ln): どうしているの……！？って、 みんな目をまん丸にしててさ
 KAITO (Ln): ……ちょっと想像できるかも
@@ -65,7 +57,7 @@ MEIKO (Ln): ちょうど一歌達の演奏を見て、ライブしたくなっ�
 ルカ (Ln): あの時は、ミクがギターで、私がベース。 メイコがドラムだったかしら
 MEIKO (Ln): そうそう。じゃあ、軽く合わせてやっちゃおうか
 MEIKO (Ln): ——みんなで、思いっきり楽しんじゃおう！
-(Black cut)
+(Black transition)
 リン (Ln): ３人とも、めちゃかっこよかった……！ これ最前列で見れるなんて最高だよ〜！
 KAITO (Ln): ……いい演奏だった
 レン (Ln): ああ、この３人だからこその響きだったよな。 音も、いつもより弾んでた気がする
@@ -88,7 +80,7 @@ MEIKO (Ln): だから、あんなに心に響く音になってたんじゃな�
 MEIKO (Ln): お客さんがどんな反応するか、ますます楽しみになってきたな
 MEIKO (Ln): 一歌達が最高のライブをできるように、 私達もたくさん応援していこう！
 みんな: 『おー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -99,16 +91,12 @@ MEIKO (Ln): 一歌達が最高のライブをできるように、 私達もた�
 
 MEIKO (Ln): （300万再生か……。 一歌の曲、すごい勢いで広がってくな）
 MEIKO (Ln): （でも、あんなにいい曲なんだから納得かな。 初めて聴いた時も、いろんな人に響く曲だって思ったし）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: だから——本当にありがとう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (Ln): （あの曲がいろんな人の心に響いたのは、一歌の力だけど……）
 MEIKO (Ln): （少しでもその手助けができたなら、よかった）
@@ -118,7 +106,7 @@ MEIKO (Ln): 今の声……リン？　そこの教室からかな
 レンの声 (レン-Ln): 今の一歌達なら、これぐらいの方がいいだろ。 リンの方こそ、もっと考えろよな
 リンの声 (リン-Ln): 考えてるよー！ レンこそ、もっとちゃんと考えてよね！
 MEIKO (Ln): ……これは、話を聞きに行った方がよさそうだね
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO (Ln): ふたりともどうしたの？　大きな声出して。 廊下まで丸聞こえだったよ？
 リン (Ln): あっ、めーこ姉！
@@ -161,4 +149,4 @@ MEIKO (Ln): 改めて、どんなパーティーにするか考えない？ 私�
 リン (Ln): えっ、めーこ姉も一緒に考えてくれるの！？
 MEIKO (Ln): もちろん。一歌をお祝いしたいのは、私も一緒だからね
 MEIKO (Ln): 一歌が喜んでくれそうなこと、たくさん考えて…… みんなで素敵なパーティーにしちゃおう！
-(Black cut)
+(Black transition)

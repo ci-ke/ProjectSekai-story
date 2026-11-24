@@ -73,7 +73,7 @@ Skill name: ターゲット確認！　出動！
 (Background change)
 瑞希: 『K、当日楽しみにしてるね♪』
 奏: 『うん』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,13 +84,11 @@ Skill name: ターゲット確認！　出動！
 
 えむ: それじゃあ、またね！ 穂波ちゃん、奏ちゃん！
 穂波: うん！　またね。えむちゃん、瑞希さん
-(Black cut)
+(Black transition)
 瑞希: ——よし。 ここまでくれば、ボク達も帰ったと思うはず
 瑞希: （でも、まだ帰るわけにはいかないんだよねぇ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 奏は何か買いたいものとかある？
 奏: あ……
@@ -100,10 +98,8 @@ Skill name: ターゲット確認！　出動！
 えむ: それなら、ブーケが作れるところあるよ！ 教えてくれる人がちゃんといるから、誰でも作れるんだ♪
 瑞希: おー、いいじゃん！ ブライダルフェスタっぽいし！
 奏: そうだね……。 じゃあ、それやってみようかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 奏、すごくがんばってブーケ作ってたし、 ちゃんと穂波ちゃんに渡せるか見届けないとね！
 えむ: 作戦開始だね、瑞希ちゃん！
@@ -115,14 +111,14 @@ Skill name: ターゲット確認！　出動！
 えむ: おー！
 えむ: あっ！　瑞希ちゃん隊員、早速ターゲットに動きが！
 瑞希: 交差点を渡ってるね……。 よし、ボク達も追いかけよう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
 
 瑞希: 楽しそうだなぁ。 なんの話してるんだろう？
 えむ: えへへ、ブライダルフェスタのことだったら嬉しいなぁ
-(Black cut)
+(Black transition)
 
 [スーパーマーケット]
 
@@ -138,4 +134,4 @@ Skill name: ターゲット確認！　出動！
 瑞希: ……って、もうこれが寄り道みたいなものか
 えむ: えへへ、服のお店とか見に行っちゃう？
 瑞希: いいねえー！　行っちゃおう行っちゃおう♪
-(Black cut)
+(Black transition)

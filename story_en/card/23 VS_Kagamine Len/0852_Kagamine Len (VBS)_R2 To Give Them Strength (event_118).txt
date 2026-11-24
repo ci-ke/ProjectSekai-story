@@ -21,21 +21,17 @@ Len (VBS): I wanna be able to help Akito and the others more.
 Miku (VBS): What?
 Len (VBS): Compared to you and MEIKO, I feel like I haven't really done all that much.
 Len (VBS): When Akito came over to SEKAI to ask for advice the other day...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: ♪————!!
-(White cut)
+(White transition)
 Luka (VBS): Hmm...
 MEIKO (VBS): Luka...?
 Luka (VBS): You sounded really amazing just now, Akito...
 Luka (VBS): But I feel like you can do a lot more! Like, pow!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (VBS): I wasn't able to say anything, let alone give him good advice...
 Miku (VBS): Len...
@@ -58,14 +54,14 @@ Toya: Yes, he has. His cheerfulness and passion have been a great source of enco
 Toya: That includes the way he sang just now. I can't help but feel a little fired up.
 Akito: We can't really sit around and do nothing after witnessing that, can we?
 Toya: No, not really... We came to take a quick break, but we ended up getting a nice, little push.
-(Black cut)
+(Black transition)
 Len (VBS): Thanks, Miku... I feel a little better now.
 Len (VBS): But I still wanna sing that thing again from the beginning. How do you feel?
 Miku (VBS): You're so stubborn.
 Miku (VBS): But I'll join you. We can sing until you feel satisfied.
 Len (VBS): Yes! Thanks again, Miku!
 Len (VBS): I'm gonna get good and really learn to help them!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -83,11 +79,11 @@ Luka (VBS): I know, right?! Still, I wish MEIKO decided to join us.
 Miku (VBS): To be fair, she has her hands full testing out those new menu items. Anyway, let's get started. Count to a hundred for us.
 Luka (VBS): Everyone, hide♪
 Len (VBS): I'm gonna find you guys in no time...!
-(Black cut)
+(Black transition)
 Len (VBS): 97, 98, 99... 100!
 Len (VBS): Where should I begin looking...?
 Len (VBS): Alright, I'll try starting with the one that Kohane said reminded her of Mexico!
-(Black cut)
+(Black transition)
 
 [Alleyway]
 
@@ -96,12 +92,12 @@ Rin & Luka: What?! Already?!
 Len (VBS): You really thought I wouldn't find you two? Those drums seemed like a pretty obvious hiding place.
 Rin (VBS): Argh! That's why I said we should split up!
 Luka (VBS): But I didn't know where else to go! I ran out of time to find a different hiding spot!
-(Black cut)
+(Black transition)
 Len (VBS): Hmm... Would any of them actually go this far down to hide...? Huh? That sign...
 Len (VBS): Oh! Found you, Miku! Why'd you choose such a small sign to hide behind?
 Miku (VBS): Well, I thought I could contort myself just right.
 Miku (VBS): But I guess this is it. That's too bad.
-(Black cut)
+(Black transition)
 Miku (VBS): Anyway, that just leaves KAITO.
 Rin (VBS): Seriously, where is he?! Why can't we find him?!
 Luka (VBS): Do you think he's hiding in one of the alleys we haven't explored yet?
@@ -113,10 +109,8 @@ Miku (VBS): Just try putting yourself in his shoes for a second. For example...
 Miku (VBS): Try thinking about what he's like when he's teaching you how to be a good DJ.
 Len (VBS): When he's teaching me?
 Len (VBS): Well, he usually just...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Len (VBS): Um, KAITO? What should I do whenever I'm having trouble coming up with any good ideas?
 KAITO (VBS): Hmm... Well...
@@ -125,17 +119,15 @@ Len (VBS): In the past?
 KAITO (VBS): Yes! In other words, you can use the past to see things from a different perspective!
 KAITO (VBS): I mean, let's be honest... Good ideas don't grow on trees or anything.
 KAITO (VBS): So, if you're struggling to come up with one, I don't think you should be afraid of looking back on the past!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (VBS): I see... Then, I'll give that a try...
 Len (VBS): Wait, that means...!
 Rin (VBS): Len...?
 Len (VBS): I think I know where KAITO's hiding! This way!
 Rin (VBS): Huh?! W-Wait for us!
-(Black cut)
+(Black transition)
 KAITO (VBS): Well, you found me. I'm amazed that you were able to figure out my plan to hide in plain sight.
 Miku (VBS): Now I see... You decided to hide in a crate right by where Len was counting.
 Luka (VBS): I never would've thought to hide right under his nose. What a great idea!
@@ -146,4 +138,4 @@ Len (VBS): (Alright, to be fair, I probably wouldn't have found him if Miku hadn
 Len (VBS): (But he doesn't need to know that!)
 Len (VBS): Alright, let's play again! I'm definitely gonna hide this time!
 Rin (VBS): Rock, paper...
-(Black cut)
+(Black transition)

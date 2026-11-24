@@ -30,7 +30,7 @@ ArcLand Cast Member B: Really? Then, I guess there's nothing to worry about... P
 Nene: O-Okay. We really appreciate it.
 Nene: (He said he was fine when we made our way over here this morning...)
 Nene: (But maybe the four of us should set aside some time after the show to talk...)
-(Black cut)
+(Black transition)
 Rui: Alright, it's nearly showtime.
 Rui: We'll be doing three performances over two days for this. I know this still feels a bit strange since it's the first show we're doing together.
 Rui: However, I strongly believe we'll be able to really deliver.
@@ -38,7 +38,7 @@ Rui: So, let's all do our best.
 Tsukasa & Asahi: Yeah!
 Rui: Alright...
 Rui: Let's give them the best show they've ever seen.
-(Black cut)
+(Black transition)
 Major: “The laboratory is ours! However, we don't appear to be alone...”
 Audience: Wait, they're on top of the lamps! When did they get up there?!
 Audience: Cool!
@@ -56,17 +56,17 @@ Sergeant Willis (Nene): “He isn't here anymore... Sorry, but we'll just have t
 Sergeant Willis (Nene): “Hmm... Apologizing to an android feels a bit strange.”
 Rui: (Tsukasa and Nene have improved their acting quite a bit. They certainly seem to have absorbed as much as they could from ArcLand's cast members.)
 Rui: I couldn't be more blessed to have them...
-(Black cut)
+(Black transition)
 Alfred: “Wh-Where am I? I require positioning data for this area.”
 Emma (Emu): “Here? It's the farm my grandpa started out here on the frontier, Mr. Robot! We found you collapsed on the ground!”
 Alfred: “I am not a robot. I am an android. My name is Alfred Hawking.”
-(Black cut)
+(Black transition)
 Sergeant Willis (Nene): “Have you downloaded the map for where the next battle is going to take place?”
 Bartlett (Tsukasa): “Yes. I have also found the evacuation routes that the civilians will likely be using.”
 Sergeant Willis (Nene): “Were you ordered to do that...?”
 Bartlett (Tsukasa): “Yes. I was told that it would be absolutely necessary for this battle. Do you have any issues with that...?”
 Sergeant Willis (Nene): “Not really...”
-(Black cut)
+(Black transition)
 Emma (Emu): “Al, help! What do I do?! One of the calves ran away!”
 Alfred: “What?! No! We must go after it at once!”
 Emma (Emu): “Thanks, Al! Wait, watch out for the manure pit...”
@@ -76,7 +76,7 @@ Rui: (However, as the front lines near the peaceful farmland, Alfred is forced t
 Rui: (And our two androids are reunited on the battlefield...)
 Rui: (Now, here comes the show's climax.)
 Rui: (Break a leg, everyone...)
-(Black cut)
+(Black transition)
 Alfred: “...”
 Bartlett (Tsukasa): “Why...?”
 Bartlett (Tsukasa): “My systems have been augmented specifically for the battlefield. How are you able to stand your ground against me?”
@@ -91,7 +91,7 @@ Alfred: “We would not be doing this right now if you were not taught to kill!�
 Bartlett (Tsukasa): “But that is what I was taught. That is reality. So, I must defeat you.”
 Alfred: “Bartlett!”
 Rui: (Towards the end of the battle, Alfred somehow manages to damage Bartlett's power core...)
-(Black cut)
+(Black transition)
 Alfred: “Ba-Ba-Bartlett...!!”
 Bartlett (Tsukasa): “Why are you crying...? You are the victor.”
 Alfred: “How can you call this victory?! There are no winners here...!!”
@@ -152,14 +152,14 @@ Rui: (I really do love these moments...)
 Rui: (When everybody takes my direction on board and their hard work blooms into a wonderful spectacle. Also...)
 Rui: (When I get to see that my direction has moved everyone's dreams along and made them smile...)
 Rui: (I can't get enough of those moments...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
 
 Tsukasa: Thank you all very much for coming to see us!!
 Everyone: Thank you very much!!
-(Black cut)
+(Black transition)
 Tsukasa: Wow, we did it...! We managed to make it through both days without incident!
 Emu: Yeah! And the audience looked super happy!!
 Nene: They really did. Also, in comparison to our first performance, I think around double the people came to watch us.
@@ -177,7 +177,7 @@ Rui: After we finish cleaning up, can we talk?
 Asahi: ...! Yes, of course.
 Rui: Okay, until then...
 Nene: Rui...?
-(Black cut)
+(Black transition)
 
 [By the Fountain]
 
@@ -186,4 +186,4 @@ Asahi: No, I'm okay. I have triple the stamina of a normal person!
 Asahi: Anyway...
 Asahi: Have you reached a decision?
 Rui: Yes...
-(Black cut)
+(Black transition)

@@ -27,20 +27,20 @@
 リン (MMJ): た、たしかに気になるけど…… ちょっと怖いなあ……
 雫: ——じゃあ、私が触ってみるわ
 リン (MMJ): ええっ！？ ほ、ホントに！？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000313/bg_s000313.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000313/bg_s000313.webp)
 雫: ええ。この池、見た感じは普通の水に見えるけど、 底のほうがキラキラ輝いていて、なんだか悪い感じはしないし——
 雫: セカイが私達の想いでできているものなら、 危ないこともない……と思うわ！
 リン (MMJ): うーん……さっき雨に触った時、 わたしも嫌な感じはしなかったけど……
 リン (MMJ): でもでも、何かあったらすぐ言ってね！？
 ルカ (MMJ): もし落っこちちゃったら全力で助けるわ！
 雫: ありがとう。 それじゃあ、いくわよ——
-(White cut)
+(White transition)
 (Background change)
 ルカ (MMJ): えっ？　この光……
 リン (MMJ): わわっ、池の光が雫ちゃんに集まってる！？
 雫: な、何かしら……。 なんだか、すごくあたたかくて——
-(White cut)
+(White transition)
 (Background change)
 リンの声 (リン-MMJ): し、雫ちゃん！？
 (Background change)
@@ -64,15 +64,11 @@
 雫: （あの時は、劇場公演をおろそかにするつもりはなかったし、 あの人と劇場で会えることも楽しみにしていたわ）
 雫: （けれど、このあと……思った以上に人気が出て…… 仕事をこなすには、どうしても劇場公演を 犠牲にしなくちゃいけなくなって——）
 雫: （そうして気づいたら、あの人は…… たまにやる公演にも来てくれなくなってしまったのよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……そうだわ。この人みたいな人が、 グループが大きくなるたびに増えていって、 そのことが、ずっと引っかかっていて）
 雫: （だから私は、今のMORE MORE JUMP！でも、 同じことが起きるんじゃないかって——）
@@ -94,9 +90,9 @@
 雫: きっと何度も悲しい思いをさせてしまったのに、 また応援してくれるなんて……
 雫: ありがとう。 私達の想いを受け取ってくれて
 雫: 本当に……ありがとう
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 リン (MMJ): そっか……じゃあ雫ちゃんは光の中で、 ファンの人の想いを見たんだね
 雫: ……ええ
@@ -114,17 +110,13 @@
 リン (MMJ): そんな雫ちゃんのこと、 わたしも、とっても強いなって思うし——
 リン (MMJ): その気持ちのまま活動していけば、 これから先も大丈夫だって思うよ！
 雫: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 斎藤: 私は、大丈夫だと思いますよ
 斎藤: だって、MORE MORE JUMP！の皆さんもそうですが、 雫ちゃんは特に——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （そう……だったのね）
 雫: （斎藤さんが言おうとしてたこと…… わかったような気がするわ）
@@ -146,6 +138,6 @@ KAITO (MMJ): でも、みのりちゃんとミクちゃんは、 一緒じゃな
 ルカ (MMJ): あら、そういえば、ふたりの姿が見えないわね
 リン (MMJ): ふたりとも、何してるのかな？
 雫: う～ん……？
-(Black cut)
+(Black transition)
 (Video: link_idol_ed3)
-(Black cut)
+(Black transition)

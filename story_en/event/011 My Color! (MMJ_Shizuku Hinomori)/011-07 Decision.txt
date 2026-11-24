@@ -2,10 +2,8 @@
 
 (Character: Minori Hanasato, Haruka Kiritani, Airi Momoi, Shizuku Hinomori, Megurine Luka)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: I mean, nobody wants to see the real me...
 Luka: Are you sure about that?
@@ -13,10 +11,9 @@ Luka: I'm willing to bet there are plenty of people out there who would support 
 Shizuku: Support me for who I am...?
 Luka: Yes. Try taking a look around.
 Luka: I'm sure you'll find them.
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
+(Flashback out)
 
 [Miyamasuzaka Girls Academy - Class 2-D]
 
@@ -27,7 +24,7 @@ Shizuku: I'm sorry for not coming to practice.
 Airi: Don't worry about it. If your head's elsewhere, there's not much point in practicing.
 Airi: But I stopped by to see if you wanted to walk home together. What do you say?
 Shizuku: Sure. Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -64,20 +61,16 @@ Airi: Or like how you're terrible at directions, but you always enjoy going for 
 Shizuku: Hehe. Airi, you know me so well.
 Airi: Well, of course I do. We're both a part of MORE MORE JUMP!
 Shizuku: Airi...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Luka: I'm willing to bet there are plenty of people out there who would support you for who you are.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: I finally understand. It wouldn't be right to make those who support me every day worry so much.
 Shizuku: Thank you, Airi. I've made my decision.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Rooftop]
@@ -110,7 +103,7 @@ Shizuku: You... You did all of that for me? Thank you so much...
 Airi: We did! So you'd better give us the best version of yourself after making us wait so long!
 Shizuku: Right...
 Shizuku: I'll make sure to give the fans hope this time.
-(Black cut)
+(Black transition)
 Airi: Hello, everyone! Airi Momoi from MORE MORE JUMP! here!
 Airi: For our third stream, we'll be doing some Brutal Dance Training!
 Airi: We're gonna be learning an even harder dance routine than we did last time! And we're not stopping until we master it!
@@ -123,4 +116,4 @@ Shizuku: Yes, let's do our best!
 Comment: <Well, Shizuku's a great dancer so...> <I doubt Shizuku will have any trouble!> <Good luck, everyone!>
 Shizuku: Thank you, everyone... We appreciate your support.
 Shizuku: (I have to see this through. To give everyone hope!)
-(Black cut)
+(Black transition)

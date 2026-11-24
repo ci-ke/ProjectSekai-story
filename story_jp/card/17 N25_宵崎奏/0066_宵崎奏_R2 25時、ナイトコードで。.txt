@@ -67,7 +67,7 @@ Skill name: 運命共同体
 まふゆ: 『……ふふ。そうだね』
 まふゆ: 『たまにはいいね、こういうのも』
 奏: 『……そうだね』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -82,7 +82,7 @@ Skill name: 運命共同体
 (Background change)
 奏: 『…………』
 奏: 『みんな。落ちる前に、ちょっといい？』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -137,4 +137,4 @@ Skill name: 運命共同体
 奏: 絵名と瑞希には兄弟姉妹がいて、 まふゆの好きな食べ物は空欄、と……
 瑞希: 奏！　奏も食べようよ！ でも、熱いから気をつけてね
 奏: うん
-(Black cut)
+(Black transition)

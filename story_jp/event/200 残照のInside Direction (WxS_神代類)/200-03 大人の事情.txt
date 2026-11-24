@@ -36,13 +36,13 @@
 大原監督: お前がいれば、俺の意図をしっかり汲んで 相手役をリードできる。これで一歩前へ進めそうだ！
 大原監督: まあ……まだまだ道は険しいというか、 本番になってみないとわからんがな……
 司: ぬうう……心中お察しします。 が——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000575/bg_s000575.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000575/bg_s000575.webp)
 司: 監督ならばきっと、無事やりとげられますとも！
 司: 前回の撮影を見ていて感じました！ 監督の、何があっても作品を素晴らしいものにする、その情熱を！
 大原監督: くぅ……。 若者の熱いエールが、胸に響くぜ……
 大原監督: こうなったら最高のクオリティにしてみせようじゃねえか……！
-(White cut)
+(White transition)
 (Background change)
 えむ: フレッフレッ監督！ がんばれがんばれ監督～！
 寧々: ……大人って、大変だな……
@@ -74,15 +74,11 @@
 大原監督: ああ、ならさっき現場入りしたって連絡が来たから、 駐車場の方に行ってみるといい。いるはずだ
 類: わかりました。 それじゃあ、一度失礼しますね
 類: さてと……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 大原監督: 結果、演技ほぼ素人のアイドルを 主役として使うことになったってわけだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 類: ほぼ素人か……
 類: ——一体、どんな人物なんだろうねえ
-(Black cut)
+(Black transition)

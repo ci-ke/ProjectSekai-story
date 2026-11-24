@@ -38,10 +38,8 @@ Miku (N25): You didn't actually tell me much about the girl who wrote those lyri
 Miku (N25): But you spontaneously spoke about how it snowed on your way home, so I was wondering if that made you feel anything.
 Mafuyu: ...
 Mafuyu: Yes, I see... Actually...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I'd forgotten this entire time...
 Kanade: My mind's sole focus had become composing a song that's able to save many people.
@@ -50,10 +48,8 @@ Kanade: And I feel this way because you gave me this opportunity to meet her, Ma
 Kanade: So, thank you...
 Mafuyu: ...
 Mafuyu: (Oh, my chest...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (N25): Your chest felt warm...?
 Mafuyu: Yes...
@@ -68,7 +64,7 @@ Mafuyu: Sure... But I can't make it snow right now. Also, it doesn't snow much w
 Miku (N25): That's okay. I'll wait.
 Mafuyu: Okay... But I wouldn't expect too much.
 Miku (N25): Yes.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -83,7 +79,7 @@ Mafuyu: No, I'm here to talk to Kanade in more detail about our song.
 Miku (N25): I see...
 Mafuyu: Miku... I said this before, but it doesn't snow that often.
 Miku (N25): I know, so I'll keep waiting.
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -98,7 +94,7 @@ Miku (N25): It's really going to snow?
 Mafuyu: Probably. Well, as long as the forecast is correct.
 Miku (N25): The day after tomorrow. I'll be waiting.
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Two days later]
@@ -132,7 +128,7 @@ Kanade: <Sure, take your time.>
 Ena: <Yeah, it might not snow again for a while, so you should enjoy it while you can.>
 (Background change)
 Miku (N25): <I will. Thank you, everyone.>
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: Can you see it, Miku...?
 Miku (N25): <Yes, it's so white and fluffy...>
@@ -169,4 +165,4 @@ Mafuyu: Okay.
 Mafuyu: I'm glad I was able to keep my promise...
 Miku (N25): <Mafuyu...>
 Miku (N25): <I'm glad we got to see it snow.>
-(Black cut)
+(Black transition)

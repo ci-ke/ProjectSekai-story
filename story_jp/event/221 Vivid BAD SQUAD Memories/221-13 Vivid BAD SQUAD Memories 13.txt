@@ -4,10 +4,8 @@
 
 : 杏への課題は 『この街に昔からいる人々の心を動かし、 本気で夢を叶えてほしいと思わせること』
 : この街で育った杏にしかできないことではあったが、 杏には、課題とは別の悩みがあって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: お前、何か気にかけてることがあるんじゃねえか？
 杏: え…………
@@ -15,16 +13,14 @@
 謙: 街の連中のことが気にかかってんのかとも思ったが…… どうもそういう感じでもねえ
 謙: ……何かあるんじゃねえか。 お前の心に引っかかってるもんが
 杏: ……引っかかってるもの……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 杏: …………
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 杏: ——私、ずっと不安だったんだ
 杏: こはねが成長して、 どんどん歌がうまくなってくのが
 こはね: え……？
@@ -54,21 +50,17 @@
 杏: ……こんなわがままにつきあわせて、ごめん
 杏: でも……
 杏: 私と戦ってほしいの。お願い
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ♪————————！！
 杏: ……っ！
 杏: （やっぱり……すごい）
 杏: （声が伸びて——なのに突き刺さるみたい。 まるで、本当に……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （でも……！）
 杏: （負けるわけには、いかない——！！）
@@ -103,7 +95,7 @@
 杏: （だから……勝つんだ）
 杏: （胸を張って、こはねの隣に立つために）
 杏: （——絶対に勝つ！！）
-(Black cut)
+(Black transition)
 杏: ……っはぁ、はぁ、はぁ、はぁ……
 こはね: ————私の、負けだね
 杏: え……
@@ -121,4 +113,4 @@
 杏: （勝って、負けて……追い越して、追い越されて……）
 杏: （そうやってふたりで先へ行く）
 杏: （きっとそれが——私の一番ほしかった、“相棒”なんだ）
-(Black cut)
+(Black transition)

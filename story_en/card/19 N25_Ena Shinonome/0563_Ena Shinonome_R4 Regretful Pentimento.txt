@@ -21,15 +21,11 @@ Ena: Wow...
 Ena: (Things that didn't go well in the past...)
 Ena: (Come to think of it, I've given up on a lot of pieces halfway because I wasn't satisfied with them.)
 Ena: (Especially back then...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I attempted some difficult compositions and themes to try and prove him wrong...)
 Ena: (Oh yeah. Didn't I try to paint an undersea scene one time? I was going to prove myself with this ethereal depiction of bubbles and sunlight.)
@@ -41,21 +37,17 @@ Ena: Oh, sorry. It's nothing. I was just thinking how I also have pieces I never
 Futaba: Oh, I see... Things really don't go to plan sometimes, hey?
 Futaba: But I really do recommend giving old pieces another shot! You'll notice things you hadn't before, plus you can appreciate how far you've come since then!
 Ena: It sounds like it. Thanks for the advice, Futaba. I'm going to have a think what I could do.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Futaba: But I really do recommend giving old pieces another shot! You'll notice things you hadn't before, plus you can appreciate how far you've come since then!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: How far I've come...
 Ena: (I wonder how that undersea painting would turn out if I did it now...)
@@ -66,7 +58,7 @@ Ena: All I can remember is throwing my entire sketchbook in the trash in a fit o
 Ena: ...
 Ena: For now, I just want to get my rough draft for N25 finished today. I can try to remember again when I have more time.
 Ena: Wait, what?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -77,7 +69,7 @@ Ena: Anyway. I need to get back and finish my draft... Huh?
 Ena: What's this? A ball...of light?
 Ena: Was this always here? It feels really out of place... I'll just pick it up and—
 Ena: Huh?! Wh-What?! It's so bright...!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -92,18 +84,18 @@ Ena: Wait, no. Whose workshop is this?
 Ena: I've got enough on my plate right now without tidying up someone else's art.
 Ena: I know, I'll check the paintings I just picked up. One of them could be signed or something—
 Ena: ... What?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000152/bg_s000152.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000152/bg_s000152.webp)
 Ena: This painting of the sea... It's familiar...
 Ena: This is...my painting. The underwater scene I was trying to paint.
 Ena: Yeah... I remember now...
 Ena: This hole... I tore it out of frustration when I couldn't paint the scene how I imagined it...
 Ena: Why is my painting here...?
-(White cut)
+(White transition)
 (Background change)
 Ena: Wait, so that crumpled paper was...!
 Ena: Urgh, really? You didn't need to shred it so thoroughly. Oh, there's more here!
-(Black cut)
+(Black transition)
 Ena: Phew... Well, I put together any pieces that looked like they belonged together.
 Ena: And I was right... These are all mine.
 Ena: (I remember tearing up this sketch of a forest, but this one of a girl... I threw away the entire sketchbook, so how can she be in shreds too?)
@@ -118,21 +110,15 @@ Ena: (I remember blurring the background to make her the focal point, and trying
 Ena: (I imagined her looking out toward a town in the distance with a sparkle in her eye, as if to say, “That's where I'm headed!”)
 Ena: (I wanted to have that town faintly reflected in her eyes.)
 Ena: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Father: You don't have the talent to become an artist.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: I have to draw something... Anything!
 Ena: But if I lose my ability to draw, then I'd really...
@@ -140,10 +126,8 @@ Ena: ...
 Ena: Why...?
 Ena: Why can't I draw anything...?
 Ena: Why am I so bad at this...?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I really couldn't draw or paint anything back then... Every time I worked on something, I was crying.)
 Ena: (I was crying when I drew this girl, too...)
@@ -155,21 +139,17 @@ Ena: Hey.
 Ena: Want me to draw you properly?
 Ena: (Her expression might not be exactly what I imagine.)
 Ena: (But, I'm different now...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Let's do this.
 Ena: (I don't know what this place is or why my art is here. But I don't care anymore.)
 Ena: (There are so many unfinished pieces. And so...)
 Ena: This time, I'm going to complete every last one.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -196,22 +176,18 @@ Ena: (A hand outstretched toward the faint light above. Determination to go towa
 Ena: (I won't paint the whole person, just their arm.)
 Ena: (At my current level, that might be a difficult composition...)
 Ena: (But I don't want to sink into despair. I won't give up. I won't stop...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (There are people who need my art. They're the reason I keep doing this.)
 Ena: Oh... Yeah...
 Ena: Maybe this person isn't grasping at something, but already holding it?
 Ena: And they don't want to let go...
 Ena: Yes...! I have a good idea what to do!
-(Black cut)
+(Black transition)
 Ena: ... I finished it.
 Ena: (It's still not perfect. The texture of the water and the light have an amateurish feel.)
 Ena: But I finished it all the same.
@@ -220,28 +196,28 @@ Ena: (They gave me so much courage...)
 Ena: ... Now's not the time to get sentimental.
 Ena: There are still a lot of pictures left to finish.
 Ena: Let's get back to it!
-(Black cut)
+(Black transition)
 Ena: For this sketch of a forest, I can... Ah... The perspective is totally off. And the positioning of the trees looks kinda strange.
 Ena: The paper's torn anyway, so I'd better draw it again from scratch. Now, what did I want to express with this one...?
-(Black cut)
+(Black transition)
 Ena: I got as far as coloring this drawing of the sky, but then I gave up when it was the wrong shade of blue, and I wasn't satisfied with how the clouds looked.
 Ena: Hmm, the blue sky definitely needs to pop, but I also want the clouds to have an interesting texture, so I'll blur them a little. And then I'll...
-(Black cut)
+(Black transition)
 Ena: Phew... I think that's pretty much all of them.
 Ena: I don't know why, but I was incredibly focused... Is it because I'm dreaming?
 Ena: Anyway, all that's left is the girl whose face I never finished.
 Ena: Sorry you came last.
 Ena: (What kind of face should I give her...? I feel like I have so many good ideas now.)
 Ena: Hold on a little longer, I'll get started as soon as I've decided—
-(White cut)
+(White transition)
 (Background change)
 Ena: Huh...? Wh-What's happening...?!
-(White cut)
+(White transition)
 (Background change)
 Ena: Huh...? I'm back in SEKAI...
 Rin: Oh, Ena. You're back from that fragment SEKAI.
 Ena: Rin...!
-(Black cut)
+(Black transition)
 Ena: So you're saying that until just now, I was in a different SEKAI made by that fragment of a feeling?
 Rin: Yeah. Sometimes, fragments of people's feelings drift into SEKAI.
 Rin: Miku told me that a fragment can show you the feeling that it came from.
@@ -252,7 +228,7 @@ Rin: Ena...? Did something happen in the fragment SEKAI?
 Ena: Yeah, kinda. But, I think it was a good experience.
 Rin: Hmm... That's alright then, I guess...
 Ena: Hehe. Thank you for worrying, Rin.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -269,7 +245,7 @@ Mother: That drawing of a girl... Where have I seen it before...?
 Ena: Oh, this? I'm trying to redraw an old picture from memory...
 Mother: That's it! You drew her in your sketchbook, didn't you? Wait right there!
 Ena: Huh...?
-(Black cut)
+(Black transition)
 Mother: Ena, I'm back. Here it is.
 Ena: You're kidding... That's the sketchbook I threw out ages ago!
 Ena: How did you have this? I remember putting it in the trash...
@@ -286,4 +262,4 @@ Ena: There she is!
 Ena: We meet again.
 Ena: This time, I really will finish you.
 Ena: So, what expression will you have?
-(White cut)
+(White transition)

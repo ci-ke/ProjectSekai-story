@@ -22,34 +22,26 @@ Skill name: 『相棒』の先輩として
 彰人: え？　あー……
 彰人: 乗ったっつーか、様子が変だったから どうしたのか聞いただけっすけど……
 彰人: まあ、心当たりもあったんで
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　——————！！
 こはね: ————！　————～～～！！
 彰人: ……っ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （オレや冬弥も相当驚いたけど、 相棒のあいつが、きっと一番驚いただろうしな）
 彰人: （それに、相棒のすさまじさを突きつけられた時の衝撃は、 オレもよく知ってる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミュージシャン達: ……BAD DOGSねえ。彰人が拾ってきた相棒クンは、 なかなかのセンスしてんだけどな
 ミュージシャン達: だな。あの相棒クンがいれば、 彰人は口パクでもいいんじゃね？
 ミュージシャン達: ははは！　むしろそうするべきじゃねえの？
 ミュージシャン達: ホント。宝の持ち腐れならぬ、相棒の持ち腐れだな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……相棒がすごいってのは、 何よりも誇らしいことだが）
 彰人: （そいつの『相棒』で居続けるのは、楽じゃねえ）
@@ -85,7 +77,7 @@ Skill name: 『相棒』の先輩として
 杏の父: まっ、今回みたいにまた何かあったら お前と冬弥とで力になってやってくれ
 彰人: わかってます
 彰人: オレ達、チームなんでね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -158,4 +150,4 @@ Skill name: 『相棒』の先輩として
 こはね: わあ、いいの？　ありがとう、青柳くん！
 彰人: よし、全員そろったし。 今日の練習始めるぞ
 杏: おー！
-(Black cut)
+(Black transition)

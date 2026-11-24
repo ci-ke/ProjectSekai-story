@@ -25,22 +25,22 @@
 こはね: なるほど……勉強になります！
 雫: あ、そういえばそろそろ杏ちゃんも来るはずよ。 さっき髪をセットしていたみたいだから
 こはね: わあ、楽しみだな……！
-(Black cut)
+(Black transition)
 杏: （わ……！　雫さん、かっこいいな～……！ やっぱり本物のモデルの人は違うっていうか……）
 杏: （……んー。 私、ちゃんと雫さんの相手役に見えるかな？）
 絹谷: 杏ちゃん、どうして入口で立ち止まってるの？ ほら、行こう！
 杏: あ、は、はい……！
-(Black cut)
+(Black transition)
 杏の声 (杏): え、えっと……。 み、みんな、おまたせ……
 こはね: あ、杏ちゃん！ ドレスはどう——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000081/bg_s000081.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000081/bg_s000081.webp)
 こはね: ……！
 雫: まぁ、とっても綺麗ね……！
 愛莉: ええ！ ドレスもティアラもすっごく似合ってるわ！
 杏: 本当ですか？
 杏: こういうドレス着たことないんで、ちゃんと花嫁さんらしく なってるか心配だったんですけど……。 そう言ってもらえて安心できました
-(White cut)
+(White transition)
 (Background change)
 こはね: す……す……
 杏: ん？ どうしたの？　こはね
@@ -55,8 +55,8 @@
 杏: （ヤバ！　裾踏んじゃった！）
 こはね: あ、杏ちゃん……！
 杏: （ダメだ、このままじゃ転んじゃう……！）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000082/bg_s000082.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000082/bg_s000082.webp)
 杏: ……あれ？
 雫: ——杏ちゃん、大丈夫？
 杏: 雫さん！？ わ、ち、近い……！
@@ -68,7 +68,7 @@
 雫: ——杏ちゃんが無事で、本当によかったわ
 杏: （わ……わ～！）
 杏: あ……ありがとうございます……！
-(White cut)
+(White transition)
 (Background change)
 こはね: わぁ……！ 絵本の中の王子様とお姫様みたい……！
 愛莉: 雫はああやってナチュラルに距離詰めるから、 心臓に悪いのよね……
@@ -77,22 +77,18 @@
 こはね: （あれ？）
 こはね: （杏ちゃん、ドレスっていうのもあるけど、 なんだかいつもと雰囲気が違うような……）
 こはね: （あ……そういえば、杏ちゃん——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: メイコさんみたいに綺麗な人で、 大人っぽくて、落ち着いててさ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （じゃあ……そういうことなのかな。 ふふっ、杏ちゃんってば可愛い……）
 杏: （うわーびっくりした！ 雫さんすごく綺麗だから、至近距離だとドキドキしちゃうな）
 杏: （……やっぱり雫さんってすごいなぁ。 大人っぽくて、タキシードみたいな服まで着こなせて）
 杏: （よーし……私も、頑張らなくっちゃ！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [結婚式場前]
@@ -131,7 +127,7 @@
 愛莉: 遥から聞いたんだけど、ふたりってほんっとに仲がいいんでしょ？ それなら——
 愛莉: ……ってことをちょっと試してみたいの。 どうかしら？
 杏: なるほど……。 わかりました！　やってみましょう！
-(Black cut)
+(Black transition)
 川崎: んー、ひとりだと余計に緊張しちゃうみたいね。 無理させちゃってごめんなさい
 川崎: ちょっと撮りかたを変えてみようかしら。 ええと……
 こはね: （……うう、やっぱり顔がこわばっちゃうよ……！ 早くちゃんと笑えるようにならないと……！）
@@ -157,7 +153,7 @@
 雫: ふふっ、とっても素敵な笑顔になったわね。こはねちゃん
 川崎: ……みんな、いい笑顔だわ！ とっても幸せそう！
 川崎: この調子であと何枚かいくわよ～！
-(Black cut)
+(Black transition)
 杏: っあ～、楽しかった！ １年分くらい抱き着いてもらっちゃったなー♪
 こはね: う……ちょっと恥ずかしかったけど……
 雫: お疲れさま！ こはねちゃん、とってもいい表情になっていたわ！
@@ -175,4 +171,4 @@
 杏: そうなんですね……
 川崎: みんな！　次の撮影場所に移動するわよー！
 杏: あ、はーい！！
-(Black cut)
+(Black transition)

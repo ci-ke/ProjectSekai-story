@@ -28,16 +28,12 @@
 遥: 私は、アイドルとして…… たくさんの人に希望を届けると決めました
 遥: だから、私自身が希望を見失うわけにはいかない——
 遥: 自分が持っていないものを、誰かに届けることはできませんから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: 私、は……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……まだまだ未熟で、 簡単にグラついてしまうのが恥ずかしいんですけど
 遥: その覚悟が、今の私の支えです
@@ -47,7 +43,7 @@
 遥: え……？
 大家: 実はね、今日は４人に話があってお邪魔させてもらったの。 だから——
 大家: よければ、今からここに みんなを集めてもらってもいいかしら？
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -62,16 +58,12 @@
 大家: だから、私は——
 大家: MORE MORE JUMP！は 『夢を叶えられる人』達なんだと、改めて思ったの
 遥: （夢を叶えられる人……それって——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大家: みのりちゃんと話していて、 皆さんはこの物件の入居条件である、 『夢を叶えられる人』を満たしていると感じたの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大家: だからね。 私に、その夢を叶える後押しをさせてほしいのよ
 みのり: あ、後押し……
@@ -89,29 +81,21 @@
 みのり: えーっと…… 有澤さん、番組観覧が好きって言ってたし……その関係とか？
 みのり: でもでも、この招待状はわたし達宛だし…… うーん……？
 愛莉: （……もしかして）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: （この大家さん、 ずっと前にどこかで会ったような気がするのよね）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: （ずっと……思ってた）
 愛莉: （この大家さん、どこかで見たことがあるって……）
 愛莉: （今まで、それが何でなのか分からなかったけど、この人……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: 有澤、日菜子……
 雫: えっ？
@@ -128,4 +112,4 @@
 遥: ……じゃあもしかして、この招待状は——
 大家: ええ。私からみんなへの贈り物
 大家: 『LUMINAグランプリ』……この番組の、主催者からのね
-(Black cut)
+(Black transition)

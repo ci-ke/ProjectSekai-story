@@ -29,17 +29,13 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: ……多分、来ないんじゃないかな。 連絡先を知ってる人もいないだろうし
 リン (Ln): そうなんだ……
 志歩: まあ、高木さんは元気でやってると思うよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 未羽: ♪————
 志歩: …………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ……というか、みんな全然来ないな
 リン (Ln): 早く集合しなくちゃー！って慌てて 教室を間違えちゃってるとか？
@@ -54,18 +50,14 @@ Gacha phrase: 私の想いも、一緒に連れてって
 リン (Ln): えー！　本当にめーこ姉が言ってたやつと同じだったら、 めちゃくちゃ大変じゃん！
 リン (Ln): この破片がどんな想いからできてるかわからないと みんな、帰ってこれないよ！
 志歩: え……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ……ルカさん、リン。 お願いがあるんですけど
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -98,7 +90,7 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩？ (志歩): あれは、私達の思い出……記憶だよ
 志歩？ (志歩): ここは、私達の想いから生まれたセカイだから
 志歩: え……
-(White cut)
+(White transition)
 (Background change)
 リン (Ln): ……あれ！？　演奏してたしほっち達、消えちゃった！ それに、さっきいた場所に戻ってる！？
 志歩？ (志歩): だから言ったでしょ。 あれは記憶だって
@@ -113,11 +105,11 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: 想いを連れてくって、どうやって……
 志歩？ (志歩): こうするんだよ
 志歩: え、ちょ……！
-(White cut)
+(White transition)
 (Background change)
 リン (Ln): わっ！　まぶしっ！
 ルカ (Ln): ……志歩！　大丈夫？
-(White cut)
+(White transition)
 (Background change)
 志歩？ (志歩): ……はい。大丈夫です
 リン (Ln): あれ！？　しほっちは？ 小さいしほっちしかいない！
@@ -129,7 +121,7 @@ Gacha phrase: 私の想いも、一緒に連れてって
 リン (Ln): ち……違うよ、しほっち！
 リン (Ln): あたし達が大きくなったんじゃなくって、 しほっちが小さくなっちゃってるんだよーーーっ！
 志歩: …………え？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -153,21 +145,17 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: ……たしか、この破片のセカイって どんな想いから生まれてるのかを突き止めないと 出られないんだっけ？
 リン (Ln): うん！　めーこ姉はそう言ってた！
 志歩: あの私は、そのあたりのことも 知ってそうだったんだけどな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩？ (志歩): 私は……ちょっと違う。 もうひとりの私が心配で、ここにいただけだから
 志歩？ (志歩): あの『私』が待ってるのは、私じゃない
-(White cut)
+(White transition)
 (Background change)
 志歩？ (志歩): ……屋上に行って。 そこで、待ってると思う
 志歩？ (志歩): それと……私の想いも、一緒に連れてってほしいんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: 屋上、か……。 また別の『私』が待ってるらしいけど
 ルカ (Ln): 一歌達がいるかどうかもまだわかっていないし、 向かってみましょうか
@@ -178,7 +166,7 @@ Gacha phrase: 私の想いも、一緒に連れてって
 (Background change)
 志歩: ………………
 ルカ (Ln): ……簡単にはいかないみたいね
-(Black cut)
+(Black transition)
 リン (Ln): しほっち、疲れてない？
 志歩: 今のところはね
 志歩: それにしても、階段はあるのに全部途中で終わってるなんて……
@@ -199,19 +187,15 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: ……あれもきっと、記憶の再現ですよね
 ルカ (Ln): ええ。バンドの記憶もそうだけれど、 ここを作っている想いと何か関係があるんだと思うわ
 志歩: （あの頃って、たしか——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 未羽: ——ベース、弾けばいいんじゃない？
-(White cut)
+(White transition)
 (Background change)
 未羽: ベースを弾いてる時は、寂しくないって言ってたから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ——そうだったね
 志歩: （あの時は、ベースだけが支えだったから）
@@ -222,7 +206,7 @@ Gacha phrase: 私の想いも、一緒に連れてって
 リン (Ln): わっ！　まさか、最初の部屋に戻され……て、ない？
 ルカ (Ln): そこの階段が光ったように感じたわ。 もしかしたら……
 志歩: 行ってみましょう
-(Black cut)
+(Black transition)
 (Background change)
 リン (Ln): やった！　屋上に着いたー！
 ルカ (Ln): ええ。それに……
@@ -237,7 +221,7 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: だから『この姿の私』は、まだみんなでいられた頃の思い出を あなたに届けて慰めようとした
 志歩: ……違う？
 中学生の志歩 (志歩): …………
-(White cut)
+(White transition)
 志歩: ……戻った
 リン (Ln): やったね、しほっち！ きっと、正解ってことなんだよ！
 中学生の志歩 (志歩): ……やっぱり、今の私なら気づくか
@@ -266,7 +250,7 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: あなた達が寂しいって思わないように、 一歌達と一緒にいる
 志歩: だから、安心して
 中学生の志歩 (志歩): …………うん
-(White cut)
+(White transition)
 (Background change)
 
 [教室のセカイ]
@@ -286,4 +270,4 @@ Gacha phrase: 私の想いも、一緒に連れてって
 志歩: ……『ゆっくりでいいから、ちゃんと綺麗にしてきなよ』っと
 志歩: （……昔の私は、こういうなんでもない日に戻れる時を ずっと待ってたんだ）
 志歩: （——大切にしよう。 もう二度と、失わないように）
-(Black cut)
+(Black transition)

@@ -41,20 +41,16 @@
 類: （演出というものは……やっぱり面白い）
 類: （たくさんの手法がある。 僕の知らないことが、まだまだたくさん——）
 類: （これからも、知っていきたいな。 僕には、まだ見えていない世界を……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （……そういえば、あの人は何者だったんだろう）
 類: （あの人の言葉がなければ、 監督も僕も解決法を思いつくことができなかった）
 類: 名前だけでも、聞いておけばよかったな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数週間後]
@@ -98,7 +94,7 @@
 大原監督: ああ、そういや連絡くれってのが来てたな……。 今行く！
 類: （……機会を逃してしまったな）
 類: （彼の件は、また今度…… 連絡して聞いてみることにしよう）
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -139,4 +135,4 @@
 大原監督: そっちの分野がメインのお前とは、 いずれどっかでぶつかるかもしれないな
 ？？？: へえ……
 ？？？: ……そっか
-(Black cut)
+(Black transition)

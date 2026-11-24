@@ -2,7 +2,7 @@
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 鏡音リン)
 
-(Black cut)
+(Black transition)
 (Background change)
 ニド秘書官の声 (類): 『馬鹿な……。 私が、こんな手に……』
 妖精の声 (えむ): 『——やった！ ニドって人、眠り草で眠ったよ！』
@@ -14,21 +14,17 @@
 寧々: （あとは……ラストだけ）
 寧々: （……あの時と似てるな）
 寧々: （このショーが最高のものになるかどうかは、 主役のわたしにかかってて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……ううん。そうじゃない）
 寧々: （わたしは、このショーのラストを飾れるんだ）
 寧々: （みんなの心に、このショーがいつまでも輝き続けるように 魔法をかけられる。それが主役の特権で——使命）
 寧々: （だから——）
-(Black cut)
+(Black transition)
 (Background change)
 旭: （……驚いた）
 旭: （気づいたら引っ張り込まれて…… あっという間にラストシーンになった）
@@ -71,12 +67,12 @@
 ハート (寧々): 『——バカ！ 本当にバカ！』
 ハート (寧々): 『あなたが抱えてた辛さも、悩みも…… 最初からちゃんと、私に分けてくれたらよかったのに！』
 ブレス (司): 『ハート……』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000509/bg_s000509.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000509/bg_s000509.webp)
 ハート (寧々): 『……一緒に考えよう。 どうしたらみんなが、幸せに暮らしていけるのか』
 ハート (寧々): 『それで——本物のハッピーエンドを、私達の手で作るの』
 ハート (寧々): 『お姫様と王子様は、苦難を乗り越えて、 みんなと幸せに暮らしましたとさ、って！』
-(White cut)
+(White transition)
 (Background change)
 リン (WxS): 『あ……』
 リン (WxS): 『今……寧々ちゃん、ハート姫に……』
@@ -86,7 +82,7 @@
 旭: …………
 旭: （そうか、これが——）
 旭: （君達の力か）
-(Black cut)
+(Black transition)
 (Background change)
 
 [２週間後]
@@ -130,7 +126,7 @@
 寧々: だから——
 寧々: これからもよろしくね！
 司・えむ・類: 『ああ！』 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 旭: …………
 アークランドキャストB: ふぅ……。 今回も千秋楽までバッチリだったね！
@@ -148,32 +144,24 @@
 旭: （今回の公演も、たくさん実りがあった）
 旭: （初めて完全に若手だけでやった公演だけど、 みんなそれぞれ得意分野を活かせて……）
 旭: （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 旭: （……本当に俺は、このままでいいんだろうか）
 旭: （——今の環境も、仲間も、俺にはもったいないぐらいだ）
 旭: （ただ……）
 旭: （俺の目指す、『世界をひとつにするショー』は、 そう簡単に作れるものじゃない）
 旭: （まずは俺自身が、 それを体現できるほどの役者になる必要がある）
 旭: （そしてそれには——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 旭: （あんな仲間が必要なんじゃないか……？）
 旭: （ショーのために本気でぶつかって、 時に叱りつけてくれる——そんな仲間が）
@@ -186,4 +174,4 @@
 榊: それより……何か思い詰めている顔だね
 榊: ——よければ、相談に乗ろうか？
 旭: 実は——
-(Black cut)
+(Black transition)

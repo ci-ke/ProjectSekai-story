@@ -35,7 +35,7 @@ Shizuku: It's such a wonderful expression of how close you two are.
 Shiho: But does that really give you two the right to call yourselves “masters of picking grapes”?
 Tsukasa: Hah hah hah hah! Details, details!
 Tsukasa: We've taught you the essentials regarding this matter, so let's start picking ourselves some grapes!
-(Black cut)
+(Black transition)
 Shiho: (Alright... Which grapes should I pick?)
 Shiho: (The growers said how the ones with the most color are the best, since it's proof that they've received plenty of nutrients.)
 Shiho: These ones look good. Let's see... I'm supposed to cut...
@@ -87,8 +87,8 @@ Saki: Th-There they go...
 Rin (Ln): <Hiya! I've been watching from your pocket. Picking grapes together seems like so much fun!>
 Saki: Oh, Rin, nice timing! I was just about to call for you.
 Saki: Guess what? We've got enough grapes for everyone to have back in SEKAI! Check it out!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000377/bg_s000377.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000377/bg_s000377.webp)
 Rin (Ln): <Whoa! We really get to have these?!>
 Shiho: To be fair, I don't know if we'll be able to take all of these over, but get ready to have a bunch...
 Saki: I know! What if we used these to throw a grape party in SEKAI?
@@ -97,7 +97,7 @@ Rin (Ln): <Oh, we could work with Hona to make grape parfaits, grape cake and gr
 Rin (Ln): <And we can decorate a classroom with lots of grapes!>
 Shiho: With grapes...? I feel like that's going too far...
 Rin (Ln): <Haha! That's just one idea♪>
-(White cut)
+(White transition)
 (Background change)
 Saki: A grape party... Then, that means we need to keep harvesting more!
 Shiho: Wait, more?
@@ -109,4 +109,4 @@ Shiho: If it's a competition, then I definitely don't want to lose.
 Rin (Ln): <Oh, Shih, does this mean you're game?!>
 Saki: Hehe. There's no way I'm letting you win!
 Saki: Because I know I'm gonna pick the most delicious grapes in this vineyard!
-(Black cut)
+(Black transition)

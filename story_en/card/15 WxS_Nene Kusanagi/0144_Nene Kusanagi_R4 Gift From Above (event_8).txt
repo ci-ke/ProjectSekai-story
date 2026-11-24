@@ -38,7 +38,7 @@ Emu: Oh, yeah! I like your idea too! The better we all get, the more smiles we c
 Nene: Huh? Guys, you can't be serious...!
 Rui: Hehehe. Since most of us are for it, I'll go and get what we'll need. Wait here.
 Nene: (I tried stopping him... No one can blame me for what happens now.)
-(Black cut)
+(Black transition)
 Rui: Oof! There... Sorry for the wait.
 Tsukasa: That's a fairly hefty box... What's in it?
 Rui: A surprise. Why don't you see for yourself?
@@ -65,7 +65,7 @@ Nene: Get away from me, you idiot! You're the target here!
 Rui: I only brought something for Tsukasa this time, and I wouldn't want you to get bored, Emu. Would you mind helping me cure his phobia?
 Emu: Sure, I'm on it! Ready... Aim... Fire! It's raining creepy crawlies, Tsukasa!
 Tsukasa & Nene: Nooooo!!
-(Black cut)
+(Black transition)
 Nene: Huff... Huff... I can't take it... Anymore...
 Nene: You guys, we're high schoolers... Why are we playing dumb kiddie games like this?
 Emu: Hehehe! That was really fun!
@@ -77,7 +77,7 @@ Emu: I know! Let's put wings on these and fly them at Tsukasa like they're reall
 Tsukasa: NO! Stop making my trauma worse!
 Nene: (Sigh... These guys are so dumb...)
 Nene: (But maybe the crazy stuff they get up to is a little fun sometimes...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -98,50 +98,36 @@ Nene: Alright. Robo-Nene, you'll be my audience as usual...
 Robo-Nene: Beep! Roger.
 Nene: ...
 Nene: ――――♪
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Tsukasa: Our stage may look like something that could get blown away by a strong breeze, but our shows are the crème de la crème!
 Tsukasa: And you're wrong if you think Nene can't sing as well as you!!
 Nene: (After Tsukasa said that about me, I just had to prove him right.)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Rui: The only way we should get revenge is by putting on an amazing show that knocks her socks off!
 Emu: For show!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Emu: Grandpa took me to a play when I was little and it was like a really amazing dream!
 Tsukasa: I also saw my first play with my family. My sister was in poor health back then, but that day she felt well enough to go out. She was so happy.
 Tsukasa: She loved the play so much, I decided to become an actor so that I could cheer her up like that too.
 Nene: (All those memories are flooding back...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO: <I just came by to make sure you were okay, and I'm happy to see you're back in high spirits!>
 Miku (WxS): <Me too! It's a weight off my mind to see you've overcome your slump.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Nene: (Miku and MEIKO showed me that they really cared about me too...)
 Nene: ——♪ ——♪
 Nene: (I'm fine now. I have nothing to fear. I'm no longer all by myself.)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Nene: (I have this crazy troupe of troublemakers...)
 Nene: (At first, I couldn't really get myself to go along with their antics...)
 Nene: (But then I realized I'd be missing out if I didn't take part in their ridiculously weird shows.)
@@ -171,4 +157,4 @@ Nene: I don't care about being called a diva or whatever. But since we're all pe
 Tsukasa: What are you saying? Of course!
 Emu: Yeah! Let's all keep having fun doing shows together!
 Nene: For sure...!
-(Black cut)
+(Black transition)

@@ -3,12 +3,12 @@
 (Character: 花里みのり, 桐谷遥)
 
 (Video: link2_idol_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
 
-(Black cut)
+(Black transition)
 (Background change)
 みのり: （あれ……？　ここ、どこ……？）
 みのり: わあっ！？
@@ -54,10 +54,8 @@ Pop☆DropのメンバーA: よし！　残りのビラ配りもがんばろう�
 みのり: （わたしも、自分で言っててちょっと元気になっちゃった）
 みのり: （やっぱり、遥ちゃんの言葉はすごいなあ。 今でも、みんなにがんばるぞ！って気持ちを届けてて）
 みのり: （……遥ちゃんがアイドルを引退した時は、 ショックだったけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ……はぁ、なんとか間にあった。 でも、今日はギリギリになっちゃってもしょうがないよね
 みのり: （だって、だって……！ オーディションに合格したんだもん！）
@@ -65,19 +63,17 @@ Pop☆DropのメンバーA: よし！　残りのビラ配りもがんばろう�
 みのり: （諦めないでがんばれたのは、遥ちゃんのおかげだなあ。 ホントに、感謝してもしきれないよ！）
 生徒A: みのりー！ 今朝のニュース見た！？
 みのり: えっ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （——その分、遥ちゃんにもらった希望を 今度はわたしが届けるって決めたんだもん！）
 みのり: （少しでも、遥ちゃんみたいなアイドルに近づけるように——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000476/bg_s000476.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000476/bg_s000476.webp)
 みのり: こんにちは！　Pop☆Dropです！
 みのり: 絶対絶対すてきなライブにするので、 是非見に来てください！
 みのり: よろしくお願いします！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -95,7 +91,7 @@ Pop☆Dropのファン: 絶対また来るからなーーー！
 みのり: （——ううん。 １年もずっと応援してくれてる人がいるんだもん。 それって、すっごく嬉しいことだよね！）
 みのり: （これから、遥ちゃんみたいに たくさんの人に希望を届けられるように——）
 みのり: （もっともっともーっと、がんばらなくちゃ……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -106,15 +102,11 @@ Pop☆Dropのファン: 絶対また来るからなーーー！
 みのり: （うまくならなきゃ……！）
 みのり: （今のわたしじゃ、たくさんの人に振り向いてもらうことも、 遥ちゃんみたいに希望を届けることもできないけど……）
 みのり: （絶対なるって、決めたんだもん！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （ステージの上でキラキラ輝いて、 たくさんの人に“明日もがんばろう”って 気持ちをあげられるような）
 みのり: （そんな、アイドルに……！）
@@ -125,15 +117,11 @@ Pop☆Dropのファン: 絶対また来るからなーーー！
 みのり: …………ダメだなあ、わたし
 みのり: もっとがんばらなきゃいけないのに、 転んでケガして……
 みのり: 遥ちゃんなら、こんな風には……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: …………
 みのり: …………本当に、なれるのかな
@@ -147,4 +135,4 @@ Pop☆Dropのファン: 絶対また来るからなーーー！
 みのり: ……気のせいかな？
 みのり: （……でも、そうだよね。 一生懸命がんばれば、きっと……！）
 みのり: ——よし！　ダンスは明日にして、今日は歌の練習しよう！
-(Black cut)
+(Black transition)

@@ -18,12 +18,12 @@ Ena: Oh...
 Ena: (A “C”...)
 Ena: I see...
 Ena: I see.
-(Black cut)
+(Black transition)
 Yukihira: Natsuno, do you happen to know where Shinonome is...?
 Futaba: Huh? Ena? Umm...
 Futaba: That's weird. I'm not seeing her. She was here just a second ago...
 Yukihira: ...
-(Black cut)
+(Black transition)
 (Background change)
 Yukihira: Shinonome.
 Ena: Oh...
@@ -75,7 +75,7 @@ Yukihira: Then I'm willing to teach you everything you need to know to get accep
 Ena: Mr. Yukihira...
 Yukihira: So, what say you...?
 Ena: Yes, I gladly accept...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -118,4 +118,4 @@ Kanade: <Did something happen?>
 Ena: <Oh, yeah... It's nothing serious.>
 (Background change)
 Ena: <But I've decided that I'm gonna try to get into Tokyo Art University.>
-(White cut)
+(White transition)

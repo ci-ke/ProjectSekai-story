@@ -17,7 +17,7 @@
 こはね: （世界を獲るために、 あの景色の向こう側を見るために頑張らなくちゃ）
 こはね: ……きっと、あの壁の上から見た景色みたいに 綺麗なんだろうな
 こはね: ——早く練習行かなくっちゃ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [LUMINA FORUM　レッスンルーム]
@@ -36,7 +36,7 @@
 みのり: （今、カメラを通して、 日本中の——もしかしたら世界中の人が、 わたしを見てるかもしれない）
 みのり: （それなら——届けるんだ！）
 みのり: （世界中の人に希望を届けるつもりで、全力でやろう——！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -49,40 +49,32 @@
 司: ジェスチャーだけでやる即興劇の稽古も、またやってみるか。 できることは全てやらねばな！
 司: （次のショーを成功させれば、 また一歩先のステージへ進めるはずだ）
 司: 必ずや、成功させねば！
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
 
 奏: （……うん。次のデモ、形になってきた）
 奏: （だけど、この曲で今のまふゆを救えるのか、っていうと……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……わからない）
 奏: （向き合って、思いやって—— それでもうまくいかなかった）
 奏: （どうしたらいいんだろう……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……そういえば、あの歌は優しかったな）
 奏: （——まだ答えは出てない、けど……）
 奏: （せめて、まふゆに寄り添うような曲を作ってみよう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -100,7 +92,7 @@
 一歌: みんなもさっきの、見てたんだ
 一歌: ——うん、そうだよね
 一歌: 離れてても、繋がってるもんね
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -118,4 +110,4 @@ MEIKO: たしかにね……。 違うセカイの私達が、みんなにいい
 MEIKO: な、何！？
 ミク: この光……
 ミク: もしかして、セカイが——
-(Black cut)
+(Black transition)

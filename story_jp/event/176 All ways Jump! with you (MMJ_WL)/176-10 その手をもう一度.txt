@@ -25,15 +25,11 @@
 遥: （……眩しいな）
 遥: （下積みの期間が長いって言ってたから、 大変なことやつらいことも、いろいろ経験してきただろうし）
 遥: （これから大きな舞台に立てるかもってなったら、 気持ちも入るよね——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （グループを背負うことになったら、 もっとつらいことがあるかもしれない。でも——）
 遥: ……みのりなら、できるよ
@@ -43,7 +39,7 @@
 みのり: 遥ちゃん……
 みのり: は、遥ちゃんにそんな風に言ってもらえるなんて、 恐れ多いけど……
 みのり: ありがとう！　今日からもっともっと練習して、 絶対チャンスを掴んでみせるよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -101,7 +97,7 @@
 雫: 『そうね……。週末はお仕事があるから、 平日だとありがたいわ』
 (Background change)
 みのり: 『平日ですか……あ！　それなら練習場所は——』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　放課後]
@@ -114,15 +110,11 @@
 遥: ……あ、いたいた
 みのり: え……は、遥ちゃん！？
 みのり: ど、どうして遥ちゃんがここに！？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 みのり: ……は、遥ちゃん……！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: （……なんだろう？　今、懐かしい感じが……）
 遥: あ……屋上で練習するって言ってたから、 差し入れを持ってきたんだ
 遥: はい、これ。 購買で買ったものだけど、飲み物とクエン酸入りのゼリー
@@ -153,7 +145,7 @@
 雫: ふふ、よかったわね
 愛莉: それじゃあ、さっそく始めるわよ！
 みのり: はい！　よろしくお願いします！
-(Black cut)
+(Black transition)
 みのり: ご、ろく、しち——ポーズ！ ……って感じなんだけど、どうかな……？
 愛莉: そうね……振りは問題ないと思うけど、 魅せ方はまだまだ工夫できると思うわ
 みのり: 魅せ方……？
@@ -162,20 +154,16 @@
 愛莉: そうすれば、もっとお客さんの目をくぎ付けにできるはずよ！
 みのり: ほ、本当！？
 愛莉: ええ！　今からわたしが みのりが一番かわいく見える方法を教えてあげるわ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: （……あら？　わたし、前にも似たようなこと言った気が……）
 愛莉: （って、そんなわけないわよね。 みのりに教えるのは初めてなんだし）
 愛莉: まずは——
-(Black cut)
+(Black transition)
 雫: ここの振りは、もっと角度も意識したほうがいいと思うわ。 少し変えるだけで、シルエットの美しさが出るはずよ
 雫: 一緒に確認しながら、ゆっくりやってみましょう
 みのり: はい！
@@ -187,15 +175,11 @@
 雫: （ふふ。研究生の頃は いつも教えてもらうほうだったから、新鮮ね）
 雫: （でも、これまで積み上げてきたものが、 愛莉ちゃんやみのりちゃんの役に立って嬉しいわ）
 雫: （……あら？　この感覚、どこかで……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……！　今のは……）
 愛莉: 雫、どうしたの？
@@ -204,7 +188,7 @@
 遥: （……みんな、すごく真剣だな）
 遥: （私には、応援することしかできないけど——）
 遥: （——頑張ってね、みのり）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -270,70 +254,50 @@
 みのり: （一緒に踊ってるとドキドキして、気が引き締まって）
 みのり: （いつも、わたし達をもっと輝く方へ引っ張ってくれる——）
 みのり: （そんな、誰かが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: …………っ！
 みのり: 遥ちゃん！！！
 遥: えっ……
 みのり: ——一緒に踊ろう！
 遥: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ……ねえ、遥ちゃん！ ステージに上がらない？　今、すっごく綺麗な景色が見れるよ！
-(White cut)
+(White transition)
 みのり: それなら、わたしの手を掴んでっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （この、記憶は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: がんばろうね、遥ちゃん！ 今日のステージ——最後まで駆け抜けよう
 みのり: ……一緒に！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （でも……）
 遥: （でも、私は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……っ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (MMJ): 『遥ちゃんは——どうしたい？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （…………わからない）
 遥: （わからないけど……）
@@ -344,15 +308,15 @@
 遥: ……ううん。もう、無理だと思ってた
 遥: （でも……どうしてだろう）
 遥: （この４人でなら——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000047/bg_a000047.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000095/bg_a000095.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000070/bg_s000070.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000124/bg_s000124.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000047/bg_a000047.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000095/bg_a000095.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000070/bg_s000070.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000124/bg_s000124.webp)
+(White transition)
 (Background change)
 遥: （そっか……そうだよね）
 遥: ——４人でなら、何度でも…… いつまでも、ステージに立てるよね
@@ -372,4 +336,4 @@
 遥: お客さんはいないけど……最高のステージにしよう
 遥: この４人で！
 みのり: ——うん！
-(White cut)
+(White transition)

@@ -19,7 +19,7 @@
 奏: ……そっか。少しでも役に立てたなら、よかった
 咲希: えへへ♪　アタシも、改めてお礼が言えてよかったです！
 咲希: それで、作曲のことなんですけど——！
-(Black cut)
+(Black transition)
 咲希: ——なるほど、映画とかマンガから 作曲のインスピレーションをもらったりもするんですね！
 奏: うん。あとは、美術作品とかも
 奏: その作品全体の雰囲気だったり、 どうしてこの表現を選んだのかとか…… そこから感じる想いを、音にしてみたいって思うんだ
@@ -46,15 +46,11 @@
 一歌: 私も見せてもらったけど、すごく綺麗だったね。 本物のモデルさんみたいに決まってて……
 咲希: そうそう！ ああいうの、やってみたいな～って！
 奏: （……そういえば……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……天馬さんは、おしゃれに詳しいんだね
 咲希: そんな詳しいってほどじゃないですよ！ でも、ファッションとかメイク動画を見るのとか好きなので
@@ -87,12 +83,12 @@
 咲希: ほ、ホントにいいんですか！？
 奏: うん、うまくできるかはわからないけど……
 奏: がんばるよ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000400/bg_s000400.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000400/bg_s000400.webp)
 咲希: ありがとうございます、かなでさん！
 咲希: アタシ……！　かなでさんのいっちばん素敵な 『かがやき』を表現してみせますっ！！
 奏: う、うん。 お手柔らかに……
-(White cut)
+(White transition)
 (Background change)
 咲希: えへへ、よかったあ
 咲希: 衣装を選んだりとか、ヘアメイクの練習をしたりで 準備に時間がかかっちゃうと思うんですけど……
@@ -109,4 +105,4 @@
 咲希: アタシも～！
 奏: （わたしが、モデル……）
 奏: （…………本当に大丈夫かな……？）
-(Black cut)
+(Black transition)

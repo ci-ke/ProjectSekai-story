@@ -73,7 +73,7 @@ Gacha phrase: この写真、もしかして……！
 彰人: こっちのセリフだ。 ボロ負けして吠え面かくなよ
 こはね: ふたりとも、やる気いっぱいみたいだね
 冬弥: 今回のテストの結果には期待できそうだ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -90,19 +90,15 @@ Gacha phrase: この写真、もしかして……！
 杏: （声量も、熱量も…… 胸がビリビリ震えて、圧倒されそう）
 杏: （……でも、ここで負けたくない！）
 杏: （もっと、もっと熱く……！！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （そう……あの時の…… あのステージの冬弥みたいに！！）
 杏: ♪———————————————————————！！！！
-(Black cut)
+(Black transition)
 ミク (VBS): お疲れさま、杏
 ルカ (VBS): 杏ちゃん、気合い入ってたね〜！ 聴いててドキドキしちゃったよ
 杏: あはは、ありがとうございます！ 練習、付き合ってくれて助かりました！
@@ -135,4 +131,4 @@ Gacha phrase: この写真、もしかして……！
 杏: 私達で、もっと会場をわかせてみせるから！
 ミク (VBS): 応援してるよ
 ルカ (VBS): 頑張れ、杏ちゃん！
-(Black cut)
+(Black transition)

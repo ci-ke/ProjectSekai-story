@@ -7,7 +7,7 @@ street_01_13 Vivids!
 Toya: I'm home.
 Toya's Mother: You were out late again, Toya. I was starting to get worried. Your father was waiting for you.
 Toya: .....
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -26,19 +26,15 @@ Toya: Dad, Akito's got nothing to do with this!
 Toya: ......
 Toya: (Akito's been serious for a long time. He's been working towards his goal of surpassing RAD WEEKEND ever since he saw it.)
 Toya: (I'm nothing like him... I would have done anything as long as it wasn't classical...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: Saying you're going to surpass RAD WEEKEND isn't something you can say half-heartedly.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Akito... I'm the one with weak resolve. I...shouldn't be the one up there with you...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the event]
@@ -54,7 +50,7 @@ Toya: So bright...
 Akito: Bright? What is?
 Toya: ...It's nothing. Let's go, Akito.
 Musician: .....
-(Black cut)
+(Black transition)
 (Background change)
 
 [Live House]
@@ -67,7 +63,7 @@ Akito: Your turn. Not going to let us down now, are you?
 An: Just you watch. I expect you both to be in the front row.
 An: Come on, Kohane! Let's go give them a taste of our best song!
 Kohane: ...Yeah!
-(Black cut)
+(Black transition)
 Kohane: (So many people...)
 Kohane: (Way more than last time... The air is so thick with energy that it's hard to breathe...)
 Kohane: (I'd be lying if I said I wasn't scared. But right now...)
@@ -84,23 +80,19 @@ Spectator A: This is the first time I've heard these two. They're pretty good. W
 Spectator B: One of them is Ken's daughter, so I've heard of her, but the other one's got a voice on her too. What? They're still going?!
 Musician: Wh-What is this? They're amazing...
 Akito: This is...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An's Father: ♪!!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: You've gotta be kidding me...
 Toya: I thought so. Those two are the same as you.
 Akito: The same as me?
 Toya: Don't you think it's about time you just admitted it?
 Akito: .....
-(Black cut)
+(Black transition)
 An: We're the Vivids! Did everyone enjoy the show?!
 Kohane: U-Um... Thank you very much!
 An: We may be new at this, but one day we're going to throw an event that'll surpass even RAD WEEKEND! We hope you'll be there to support us!
@@ -109,7 +101,7 @@ Toya: .....
 Toya: (Akito, Shiraishi, and now Azusawa... They're all putting everything on the line to chase their dreams.)
 Toya: (But I'm... I'm the only one who's different...)
 Toya: This is as far as I go...
-(Black cut)
+(Black transition)
 An: Well? You finally convinced about Kohane's ability?
 Akito: Why do you sound so proud of yourself?
 Akito: .....
@@ -132,4 +124,4 @@ Toya: .....
 Akito: Toya? What's wrong?
 Toya: Akito, I...
 Toya: I can't perform with you anymore.
-(Black cut)
+(Black transition)

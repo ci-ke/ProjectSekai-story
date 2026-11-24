@@ -71,7 +71,7 @@ Kanade: (The disposable chopsticks should be somewhere here.)
 (Background change)
 [Enanan] (Ena): <I agree. Don't waste it.>
 [K] (Kanade): <Fine... I'll go get chopsticks from the kitchen for the noodles, as much of a hassle as it is...>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -125,4 +125,4 @@ Kanade: Huh?
 [Yuki] (Mafuyu): <Ah, sure.>
 (Background change)
 [Yuki] (Mafuyu): (She thinks we're alike, huh...)
-(Black cut)
+(Black transition)

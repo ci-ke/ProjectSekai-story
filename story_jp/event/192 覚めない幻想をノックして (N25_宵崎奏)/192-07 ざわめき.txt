@@ -28,21 +28,21 @@
 奏: …………ごめん、なんでもない
 奏: 今日はちゃんと休むから、安心して
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
 
 奏: （もし——）
 奏: （まふゆに曲を作らなくてよくなったら……）
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000531/bg_s000531.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000531/bg_s000531.webp)
 奏: （わたしの曲で、ちゃんとまふゆを救うことができて）
 奏: （家族みんなで、わかりあえて、幸せになって……）
 奏: （……まふゆが、心から笑顔で過ごせるようになって……）
 奏: （わたしは、まふゆに曲を作らなくてもよくなる）
 奏: （作らなく、ても——いいんだ）
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 奏: （……なんだろう、これ）
@@ -73,4 +73,4 @@
 (Background change)
 奏: 『——聞かせて』
 (Background change)
-(Black cut)
+(Black transition)

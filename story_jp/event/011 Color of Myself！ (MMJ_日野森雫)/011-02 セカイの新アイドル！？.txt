@@ -16,14 +16,14 @@
 リン: うん！　このセカイで、わたし達と一緒に アイドルをする新メンバーだよ♪
 みのり: えっ、それって……！
 ミク (MMJ): では、お披露目でーすっ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000046/bg_a000046.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000046/bg_a000046.webp)
 ルカ: はじめまして。 巡音ルカよ
 みのり: ル……ルカさん！？
 ルカ: ふふ、そうよ
 ルカ: これからミクちゃんやリンちゃんと一緒に、 素敵なステージを作っていこうと思うわ
 ルカ: みんな、よろしくね♪
-(White cut)
+(White transition)
 (Background change)
 みのり: わああ、アイドルオーラがすごい……！ キラキラしててまぶしいよぉ～！
 ルカ: ふふ、大げさよ。みのりちゃん
@@ -56,7 +56,7 @@
 雫: …………
 雫: それより、次の配信の打ち合わせをしない？ ルカちゃんも相談に乗ってくれると嬉しいわ
 ルカ: ええ、もちろんよ
-(Black cut)
+(Black transition)
 リン: わあ、動画配信始めたんだね！
 愛莉: ええ、まだ最初の挨拶をしただけだけど、 これからいろんな配信をしていこうと思うの
 リン: ねえねえ、生配信ってどうだった？
@@ -109,4 +109,4 @@
 雫: ……そうね
 雫: （ファンのみんなをがっかりさせないためにも、 私が頑張らないと——）
 愛莉: …………
-(Black cut)
+(Black transition)

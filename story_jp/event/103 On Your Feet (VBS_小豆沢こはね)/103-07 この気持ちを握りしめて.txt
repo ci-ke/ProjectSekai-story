@@ -28,7 +28,7 @@
 大河: おう。じゃあな、謙
 大河: ……ああ、そうだ。 お前のコーヒー、悪くなかったぜ
 杏の父: ——そりゃどうも
-(Black cut)
+(Black transition)
 大河: さて、手続きも終わったし……少し早いが行くとするか
 大河: あっちに戻ったら、 レコード会社の連中がうるせえだろうな
 大河: （……まったく。 それもこれも、あの嬢ちゃんのせいだな）
@@ -61,14 +61,14 @@
 こはね: 大河さんがたくさんのことを教えてくれたから、 サードイベントの熱さにもたどりつけました
 こはね: それから大河さんは、この気持ちに——
 こはね: この悔しさに、気づかせてくれました
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000220/bg_s000220.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000220/bg_s000220.webp)
 こはね: 私は…… この悔しさを握りしめて、進みます
 こはね: どんなに怖くても、足が固まっちゃっても、前に！
 こはね: それで私達は、大河さんの歌も想いも超えて——
 こはね: RAD WEEKENDを超えて、その先に行きます！
-(White cut)
+(White transition)
 (Background change)
 大河: ……やってみな
 こはね: ——はい！！
-(Black cut)
+(Black transition)

@@ -41,7 +41,7 @@ An: Yup, agreed!
 Kohane: Thanks, guys! Then, first...
 Kohane: Oh... S-Sorry.
 Ken: That event just ended, so no one's blaming you. Whatever comes next, first is filling our stomachs.
-(Black cut)
+(Black transition)
 
 [Seafood Restaurant]
 
@@ -51,18 +51,18 @@ Toya: Ken... Are you sure about treating us to such lavish seafood?
 Ken: Don't worry about it. It'd be wrong not to have some good food while you're here to see the sights.
 Kohane: Th-Thank you very much...! Then, if you don't mind!
 Kohane: Mm...! This scallop sashimi, it has such a sweet flavor to it!
-(Black cut)
+(Black transition)
 Akito: Huh, looks like this vintage clothing shop specializes in Americana. They've got some pretty unusual items, too.
 An: Oh, look here! This fleece jacket would totally look great on you, Kohane! It's big and baggy, but not that long, so it's got a cool/cute vibe to it!
 Kohane: Huh? A-Are you sure? I don't think I'm ready to start wearing vintage yet...
 Toya: We've come all this way. Shouldn't you take this chance to try something on?
 An: What he said! It's your birthday, so you get to act a little more grown up!
 An: Oh, there's one of the staff! Excuse me!
-(Black cut)
+(Black transition)
 Ken: Sorry about this, but I'll be stepping away for a bit to check something I've been curious about. You all go on without me.
 Kohane: Oh, sure! Understood.
 An: See you later, Dad! And thanks!
-(Black cut)
+(Black transition)
 An: It was pretty fun seeing all those trendy shops!
 Kohane: Yeah. And... It was also fun feeling like I was on a field trip with all of you today.
 Akito: Right... I mean, it's not like we've done much sightseeing together before.
@@ -80,7 +80,7 @@ Akito: So, we'll grab them some souvenirs real quick before we go... But we don'
 Kohane: Oh, um...
 Kohane: So, there's a place I really want to visit with all of you before we finish for today...
 Toya: A place you want to visit...?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -114,7 +114,7 @@ Kohane: Mm... My body's warm, the water is beautiful, and I even get to have my 
 An: Of course it is! Happy birthday, Kohane!
 Akito, Toya & Ken: Happy birthday.
 Kohane: Thanks, everyone...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [One hour later]
@@ -131,7 +131,7 @@ Toya: Right. We just heard about it as well, but this next bit is all Shiraishi.
 Toya: Have fun, Azusawa.
 Kohane: Uh... S-Sure thing...?
 An: Alright then, shall we?! I'll leave our destination as a surprise for when we get there!
-(Black cut)
+(Black transition)
 (Background change)
 Kohane's Voice (Kohane): Wait... This is—
 An's Voice (An): We're heeere!
@@ -159,8 +159,8 @@ Kohane: Thanks, everyone...!
 Kohane: (To think they'd set up a surprise for me like this... That makes me really happy.)
 Kohane: (I went sightseeing with everyone in Vivid BAD SQUAD, got a surprise from my school friends... This day has turned out to be a pretty special one.)
 Kohane: (I'm gonna relax to my heart's content for today, and then get back to working hard tomorrow!)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000288/bg_s000288.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000288/bg_s000288.webp)
 Saki: Happy birthday, Kohane! I was happy to see you enjoying the mini cakes I made with Minori and Hona!
 Honami: Hehe, I was too. You must have practiced hard today. I admire your daily efforts, Kohane!
 Minori: Happy birthday, Kohane! Shiho actually helped me pick out that towel I gave you! I hope you'll get lots of use out of it at different live houses!
@@ -184,11 +184,11 @@ Toya: Once again, happy birthday. Let's get back to doing our best tomorrow, so 
 Akito: We'll get refocused and go all out as usual.
 An: Yeah!
 An: I feel like nothing's impossible as long as we're together, Kohane. No matter how far, let's make it there. All this to say... I'll be counting on you, Kohane!
-(White cut)
+(White transition)
 (Background change)
 Kohane: It makes me really happy to know that An put in so much thought for my special day...
 Kohane: I have An by my side, and Shinonome and Aoyagi too...
 Kohane: Just remembering that makes me feel like I can go way above my limits!
 Kohane: That's why I'll keep singing my hardest. Because I want to surpass RAD WEEKEND...!
 Kohane: I hope you'll keep watching over me until that moment comes. Thanks so much for today! Um... See you later.
-(White cut)
+(White transition)

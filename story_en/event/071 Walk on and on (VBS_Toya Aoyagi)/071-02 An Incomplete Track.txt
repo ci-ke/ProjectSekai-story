@@ -39,7 +39,7 @@ Toya: Soma...?
 Akito: Which is why it's still incomplete...
 Arata: But it's good, no? I'm glad I got to share it with all of you.
 Toya: (It really was good... I didn't realize Soma was capable of writing something like this...)
-(Black cut)
+(Black transition)
 (Background change)
 An: Man, I'm beat!
 Kohane: You have been singing pretty hard since the morning, An.
@@ -70,7 +70,7 @@ Kohane: Okay, I understand...
 Kohane: Thank you! I promise to do my best!
 Toya: (I don't have time to be feeling lost either...)
 Toya: (I need to do everything I can right now.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -86,21 +86,17 @@ Toya: (Which means, if I want to help them, I'll have to practice even more.)
 Toya: But I definitely wasn't expecting the place where I usually practice to be undergoing construction. Practicing somewhere new honestly felt a bit strange.
 Toya: But it was also a nice change of pace.
 Toya: Hm...? Isn't the hospital where Soma's staying just nearby?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Arata: Toya, would you mind visiting him again sometime? I'm sure you'll both enjoy talking to each other again.
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Soma did say that he wanted to hear more about our next event. I think I'll pay him a visit.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Hospital]
@@ -170,4 +166,4 @@ Soma: Sure thing. I'll be waiting.
 Soma: I really didn't expect to offer him sampling lessons...
 Soma: But teaching Aoyagi could help me learn to support Arata better...
 Soma: Which means I also gotta do what I can right now.
-(Black cut)
+(Black transition)

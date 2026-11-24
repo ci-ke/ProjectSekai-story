@@ -3,7 +3,7 @@
 (Character: Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama, MEIKO)
 
 (Video: link_night_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -16,15 +16,11 @@ Mizuki: Hey, not bad...! I'll have Kanade and the others take a look at this.
 Mizuki: (Still, thank goodness...)
 Mizuki: (I'm so glad Mafuyu chose to run away...)
 Mizuki: (I was so worried since it really seemed like the walls were closing in on her.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (So, I'm really glad what I said ended up helping her a little.)
 Mizuki: (Unfortunately, running away doesn't do anything about solving the root cause of her problems...)
@@ -32,22 +28,18 @@ Mizuki: (I'm sure a lot of stuff's going through her mind right now...)
 Mizuki: (And I need to start thinking about what's gonna happen moving forward.)
 Mizuki: (After all, I'm partly responsible for her running since I was the one who suggested it to her...)
 Mizuki: Still...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 Mizuki: What more can I do for her? I mean, I still haven't been able to deal with my own problems after running away.
 Mizuki: I should take a quick break... My eyes are starting to hurt after staring at this screen for so long.
 Mizuki: I know! I can go see if that ribbon I found the other day looks good on Rin.
 Mizuki: (That should help take my mind off things...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -96,15 +88,11 @@ Mizuki: ...
 Mizuki: (Yeah, I was able to make that suggestion because of what I went through...)
 Mizuki: (So, now that we've both run... If there is something new I can learn by actually facing my problems...)
 Mizuki: (Plus, there's...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (I've been asking so much of Ena...)
 Mizuki: (She's been waiting for me ever since that day...)
@@ -113,4 +101,4 @@ Mizuki: (I really don't know, but...)
 Mizuki: Thanks, MEIKO...
 Mizuki: I feel a little better now after talking to you.
 MEIKO (N25): Really? Then, good for you...
-(Black cut)
+(Black transition)

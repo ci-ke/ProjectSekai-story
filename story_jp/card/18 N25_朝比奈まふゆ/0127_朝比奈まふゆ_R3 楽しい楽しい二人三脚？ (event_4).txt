@@ -23,7 +23,7 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 まふゆの友達A: へ～、そうなんだ！ １年生なのにすごいね
 まふゆ: うん。そうだね
 まふゆ: あ……私、委員会の集まりがあるから。 そろそろ行くね
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （集まる教室はたしかこっちの……）
 えむの声 (えむ): るんっるんるるる～ん♪
@@ -35,16 +35,12 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 えむ: あ、あわわ、朝比奈センパイ……！ こ、こんにちはっ！
 えむ: ほ、本日はお日柄もよく！ えっと、えーっと！？
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 弓道部の後輩A: 朝比奈先輩、おはようございます！ あの……えっと、アドバイスがほしいんですが、 放課後、練習の時お時間いただけますか？
 弓道部の後輩B: あ、ずるーい！ 朝比奈先輩、私もよろしくお願いします！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: （部活の子達はまぶしそうに私のことを見てくるけど、 鳳さんは全然違う……）
 まふゆ: ……ねえ、鳳さん
 えむ: はひっ！　な、なんでしょうか！
@@ -58,16 +54,12 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 まふゆ: そう？
 まふゆ: あ、そうだ。友達から聞いたよ。 この間の体育祭、みんなが楽しめるように 鳳さんがいろいろ提案してくれたって
 まふゆ: ありがとう。私も、とても楽しかったよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: 絶対勝ちますっ！ がんばりましょー！　朝比奈センパイっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （あれ……なんで今、思いだして……）
 えむ: …………
@@ -84,7 +76,7 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 まふゆ: （鳳さんは、私のことなんて何も知らないはずなのに）
 まふゆ: …………
 まふゆ: ……おかしな子
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -116,20 +108,16 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 (Background change)
 絵名: 『ふーん、やっぱそのあたりが定番なんだ？』
 まふゆ: 『知らない。でも……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 鳳さん、ペース大丈夫？
 えむ: うん！　もっとペース上げられますっ！
-(White cut)
+(White transition)
 まふゆ: このまま最後まで行くよ！
 えむ: おっけーですっ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『でも……？』
 まふゆ: 『二人三脚は学年の交流も兼ねて、１年生とペアになったの』
@@ -156,17 +144,13 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 まふゆ: 『…………』
 まふゆ: 『……別に、深い意味はないよ』
 奏: 『本当に？』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: やったー！　やったよー！
 まふゆ: お疲れさま、鳳さん。 １位を取れたのは鳳さんのおかげだよ、ありがとう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『……雪？』
 まふゆ: 『……ないよ、別に。深い意味なんて』
@@ -175,4 +159,4 @@ Gacha phrase: 素敵な先輩だなんて、嬉しいな
 (Background change)
 まふゆ: 『…………』
 まふゆ: 『そう、なのかな……』
-(Black cut)
+(Black transition)

@@ -18,24 +18,20 @@ Gacha phrase: 早く曲を作らなくちゃ。……え？
 穂波: そうだ、今日はデザートもあるんです。 アップルパイなんですけど、まだ食べられそうですか？
 奏: うん。 夜中まで作業するから、今のうちに食べておきたい
 穂波: それじゃあ、紅茶を用意しますね
-(Black cut)
+(Black transition)
 穂波: はい、どうぞ。 わたしもひと切れ、一緒にいただきますね
 奏: うん
 奏: ……おいしい
 穂波: ふふ、よかった
 奏: （望月さん、優しい笑い方だけど……。 目がなんだか寂しそうで……お父さんに似てる）
 奏: （もしかすると、望月さんも、 何か抱えてるのかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ミク。 このセカイに、この人達はいらない
 ミク (N25): ……うん
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……！
 穂波: 宵崎さん？ どうかしました？
@@ -63,7 +59,7 @@ Gacha phrase: 早く曲を作らなくちゃ。……え？
 奏: アップルパイも。 また食べたいな
 穂波: ……はい
 奏: ん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -137,4 +133,4 @@ Gacha phrase: 早く曲を作らなくちゃ。……え？
 (Background change)
 まふゆ: 『K？ 何か言った？』
 奏: 『……ううん、なんでもない』
-(Black cut)
+(Black transition)

@@ -24,24 +24,20 @@ Gacha phrase: お願い！私もそっち行くから！
 (Background change)
 瑞希: 『おっ！　えななん、やる気満々じゃん！』
 絵名: 『うまくやれば、明日のお昼には完成させられそうだしね』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆのメッセージ (まふゆ): 『明日は、来れるかどうかわからない』
-(White cut)
+(White transition)
 (Background change)
 瑞希: 『……でも、せっかくなら みんなで一緒にいる時に完成させたくない？』
 (Background change)
 絵名: 『アップする時呼ぶから、その時だけ顔出せたりしない？ ……せっかくみんなで作ったんだし』
-(White cut)
+(White transition)
 (Background change)
 まふゆのメッセージ (まふゆ): 『……それなら、少し考えてみる』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……４人で作った動画なんだから、 やっぱり、まふゆにもいてもらわないとね）
 (Background change)
@@ -61,7 +57,7 @@ Gacha phrase: お願い！私もそっち行くから！
 奏: 『——それじゃあ、作業を始めようか』
 (Background change)
 絵名・瑞希: 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: ……違う
 絵名: こんなピンと伸ばした指じゃない……。 これじゃ、『助ける』ほうの手になっちゃう
@@ -71,7 +67,7 @@ Gacha phrase: お願い！私もそっち行くから！
 絵名: （……『そんなこと言っていいのかな』とか、 『誰もこの手を取ってくれなかったら』とか そんな風に考えちゃって——）
 絵名: （しっかり表現するのは難しいけど、 まふゆの歌詞のおかげで、ちゃんとイメージが見えてる）
 絵名: （これなら、やれる—— ううん、やりきらないと）
-(Black cut)
+(Black transition)
 (Background change)
 絵名: ——ふぁ……
 絵名: 『ただいま……』
@@ -105,7 +101,7 @@ Gacha phrase: お願い！私もそっち行くから！
 瑞希: 『だからさ、ニーゴのMVを待ってくれてる人達だけじゃなくて 雪にも喜んでもらえたらいいなって思うんだ』
 (Background change)
 絵名: 『けど、雪は雪だから。 あんまり期待しないほうがいいと思うけどね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -117,7 +113,7 @@ Gacha phrase: お願い！私もそっち行くから！
 奏: 『おまたせ。データの最終調整、終わったよ』
 (Background change)
 絵名: 『あっ、K、おかえり！ じゃあ、雪にいつでもアップできるって連絡するね！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -146,7 +142,7 @@ Gacha phrase: お願い！私もそっち行くから！
 奏: 『そうだね。お願いしてみよう』
 (Background change)
 絵名: （ただの考えすぎだと、いいけど……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -194,7 +190,7 @@ Gacha phrase: お願い！私もそっち行くから！
 愛莉: ええ、大丈夫よ。 わたし達もこれからスタジオで練習だし
 雫: 今度ゆっくり話しましょうね、絵名ちゃん
 絵名: うん、それじゃあ！
-(Black cut)
+(Black transition)
 (Background change)
 絵名: （——もう帰ってるってことは、 瑞希が探してる駅前にいるかも！）
 絵名: ——瑞希！　そっちはどう？
@@ -206,7 +202,7 @@ Gacha phrase: お願い！私もそっち行くから！
 瑞希: 『一応、今からファミレスのほうにも行ってみるよ。 もしかしたら、帰り道で会うかもしれないし』
 絵名: うん、お願い！ 私もそっち行くから
 瑞希: 『わかった！』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: ふう……着いた、いつものファミレス
 絵名: （……のぞいた感じ、まふゆはいないな）
@@ -235,4 +231,4 @@ Gacha phrase: お願い！私もそっち行くから！
 絵名: ……ふう。私も、帰ろう……
 絵名: （まふゆ……）
 絵名: （ちゃんと、お母さんに気持ちを伝えられるといいけど……）
-(Black cut)
+(Black transition)

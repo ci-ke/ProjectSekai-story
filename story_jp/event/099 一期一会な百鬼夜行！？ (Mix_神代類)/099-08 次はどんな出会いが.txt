@@ -36,7 +36,7 @@
 教師: お前ら～！ もう就寝時間だぞ！！
 司・類: 『ぬあっ！？』 『おや』
 三宅: やっぱり、こうなるよね……
-(Black cut)
+(Black transition)
 
 [教師の部屋]
 
@@ -49,26 +49,18 @@
 類: でも……なんだか新鮮だったよ
 司: 新鮮？
 類: ああ、今の枕投げもそうだったけれど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: みんなでいろんな場所に行ったり
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: トラブルを乗り越えてパレードを見たり
 類: それがとても新鮮で、 ショーの準備をしている時のようにワクワクして……
@@ -77,10 +69,8 @@
 類: これもみんな、司くんのおかげだろうねえ
 司: オレの？
 類: うん。 実は今日の帰り道、三宅くんに言われたんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 三宅: はぁ……今日は楽しかったな。 神代くんと同じ班になれて、本当によかったよ！
 類: そうかい？ フフ、そう思ってもらえたのは喜ばしいね
@@ -88,10 +78,8 @@
 三宅: ……実はね
 三宅: 転校してきた時の神代くんって、 席でドローンを改造したりして、楽しそうだったけど——
 三宅: でも、たまに、 ちょっとつまらなさそうな顔をしてるなって思ってたんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ……彼はそれもあって、僕に話しかけないほうがいいと 思っていたらしいんだけれど——
 類: 司くんと一緒にいるようになってから、 よく笑うようになったらしくてね
@@ -99,18 +87,14 @@
 司: なんと……そういった経緯があったのか
 類: ああ
 類: ……実際、僕はずいぶん変わったと思うよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 最後に、集合写真を撮りませんか？
 司: 集合写真？
 類: ああ。 この思い出を残しておくのもいいんじゃないかと思ってね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （あれだって、司くんの言うとおり、 普段の僕ならしないことだからね）
 類: （ああ言ったのはきっと—— あの時間を、かけがえのないものだと思えたからなんだろうな）
@@ -153,4 +137,4 @@
 類: （本当に司くんは、僕にたくさんの笑顔をくれる）
 類: （……そうしてその笑顔が、 新しい友人や、新しい関係を作ってくれるんだね）
 類: さて次は——どんな出会いが待っているんだろうねえ
-(White cut)
+(White transition)

@@ -23,7 +23,7 @@
 類: フフ、お礼を言われるほどのことじゃないよ。 来年も、司くんとは同級生でいたいからね
 瑞希: それじゃあ、あとは弟くんと杏だね
 司: ああ。頑張れ！　ふたりとも！
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -42,13 +42,13 @@
 彰人: あ……まあ、はい。ありがとうございます
 瑞希: ——で、で？　杏はどうだったの？
 杏: 私は……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000232/bg_s000232.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000232/bg_s000232.webp)
 杏: バッチリ！　合格！
 杏: しかもこれ見て……！ 古典は満点だったんだ！
 瑞希: ホント！？　すごいじゃん！
 杏: うん！　先生にも褒められて花丸もらっちゃった！
-(White cut)
+(White transition)
 (Background change)
 彰人: へえ、やるじゃねえか
 冬弥: 頑張ったな、白石
@@ -82,4 +82,4 @@
 類: 白石くん……
 杏: 教えてくれたみんなだけじゃなくて、 一緒に頑張ってくれたみんなも……
 杏: 本当に……ありがとう！
-(Black cut)
+(Black transition)

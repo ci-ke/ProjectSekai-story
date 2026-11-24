@@ -14,21 +14,17 @@ An's Voice (An): Thank you! Take care!
 An: Okay. I've flipped the closed sign, so now I need to tidy up and help get us ready to open the bar.
 An: (I have plenty of time before practice with the team, but I'll be too busy to squeeze in solo practice before that...)
 An: (But I still need to practice more...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 An: (I've gotta sing...)
 An: (That's all I can do!)
 An's Voice (An): Dad! I need a favor!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -42,18 +38,14 @@ Passerby B: You're right there! There's no one closer than An and her team to su
 An: ♪————!! ————!!
 An: (It's not enough! It needs more passion!)
 An: (The kind of intense singing that drives people wild...!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ♪————!! ♪————~~~~!!
-(Black cut)
+(Black transition)
 An: Huff... Huff...
 Passerby A: Nice work, An! You were really singing like you meant it just now.
 An: Thank you. But...
@@ -89,7 +81,7 @@ An: (That's right. I'm Kohane's...)
 An: (I have to do it...!)
 An: (For now, all I can do is sing. Sing and sing as much as I can...)
 An: (Just wait, Kohane...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -111,7 +103,7 @@ An: Yeah, something like that! We're super busy lately.
 Akito: Don't overdo it. See you tomorrow.
 An: Got it! See you tomorrow!
 An: Now then...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -139,17 +131,15 @@ Miku (VBS): <Hey, is it okay if I listen to you for a while?>
 An: Of course! While you're at it, feel free to give me any pointers!
 Miku (VBS): <Hehe, got it. I'll be listening in then.>
 An: Sure, and thanks!
-(Black cut)
+(Black transition)
 An: Huff... Huff... How was I?
 Miku (VBS): <I could really feel the power behind your singing. And you sang with a lot of emotion.>
 Miku (VBS): <Also...>
 Miku (VBS): <It feels like your singing has changed from when I heard you recently.>
 An: Huh, recently? When?
 Miku (VBS): <Uh... About a week ago, maybe?>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (VBS): (Ah, it's pitch black... Well, of course it is. She must be practicing.)
 Miku (VBS): (I hope I get the chance to hear everyone sing... It's been so long.)
@@ -162,10 +152,8 @@ Miku (VBS): (Huh...? I can only hear An's voice. Maybe she's practicing solo aga
 Miku (VBS): (She's singing with even more force than usual. But, it's not just that...)
 Miku (VBS): (There's this desperation in her voice that's almost painful, like she's thrashing around trying to grab hold of something.)
 Miku (VBS): (An...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Oh... So you were there when I was practicing alone that time.
 Miku (VBS): <I didn't mean to eavesdrop... It's just that I didn't want to disturb you, and I thought there might be other people around.>
@@ -176,15 +164,11 @@ Miku (VBS): <How should I put it... It's like, before, you were thrashing under 
 Miku (VBS): <Sorry, that one got away from me.>
 An: It's okay. I think I got what you meant.
 An: (And the reason my singing changed has to be...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: But, I never intended to put any painful emotions into my singing.
 Miku (VBS): <Well, that can't be helped. When we sing, we throw out one big lump of our emotions.>
@@ -193,4 +177,4 @@ An: You know, I think you're right.
 An: Hey, Miku. I'm still in the mood to sing. Can you listen to me practice for a little longer?
 Miku (VBS): <I'll listen for as long as you want. I want to hear more of this new An.>
 An: Thanks!
-(Black cut)
+(Black transition)

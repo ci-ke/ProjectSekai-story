@@ -17,7 +17,7 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 リン: これ……欠片、だよね？ なのに、なんでこんなに強い想いを感じるんだろう……
 リン: こういう時は、感じるままに見にいってみるのがいいよね！
 リン: 想いの持ち主さん、ちょっとお邪魔しまーす
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -42,7 +42,7 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 少年: げほっ、げほっ……！
 リン: わっ！　だ、大丈夫？ とりあえず、ここ座ろ？
 少年: はあ……はあ……。 うん……
-(Black cut)
+(Black transition)
 少年: ……びっくりさせてごめんね。 ぼく、病気でここにずっと入院してて……
 リン: ここって……もしかして、病院なの？
 少年: うん……。あ、でも夢の中だからかな……。 なんだか、いつもの病院と違うなあ
@@ -84,7 +84,7 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 少年: え……。……いいの？
 リン: うん！　わたし達、そのために ここで会えたんじゃないかって思うんだ
 少年: リンちゃん……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -113,18 +113,14 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 少年: でも、病気全然よくならなくて……。 海外のお医者さんに診てもらうことになっちゃったんだ
 少年: あっちに行っちゃったら、 病気がよくなるまで戻ってこられないかもって……
 少年: ひーちゃんも、ひーちゃんのお母さんから聞いちゃって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ひーちゃん: 歌ったら元気になるって言ったくせに！
 ひーちゃん: 一緒に、学校も行きたかったのに……！
 ひーちゃん: ゆうくんのウソつき！ もう……歌なんて歌わない！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン: そうだったんだ……
 少年: うん……。 ひーちゃん、本当に来てくれなくなっちゃった……
@@ -165,8 +161,8 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 リン: まだ、心配？
 少年: うん……。 ごめん、いっぱい教えてくれてるのに……
 リン: 大丈夫だよ。大切な人とケンカしちゃったら、 すごく苦しいし、悲しいし、不安になっちゃうよね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000179/bg_s000179.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000179/bg_s000179.webp)
 リン: ——もしキミがよければ、 わたしに手伝わせてもらうっていうのはどうかな？
 リン: わたしって言っても、キミが作る『わたし』だけど
 少年: え？　ぼくが……作る？
@@ -177,7 +173,7 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 リン: 『ごめんね、仲直りしたい』っていう気持ちを たくさん込めてみて
 リン: その想いを、『わたし』がキミの代わりに ひーちゃんに届けるよ！
 少年: リンちゃん……
-(White cut)
+(White transition)
 (Background change)
 リン: ——さあ、もう起きる時間みたいだよ
 少年: え……！　ま、待ってリンちゃん！ ぼく……
@@ -185,7 +181,7 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 リン: フレー！　フレー！　ゆ・う・と！ がんばれ！　がんばれ！　ゆ・う・と！
 少年: あっ！　ぼくの、名前……！
 リン: ふふっ。わたしは、キミならできるって信じてる！ きっとできるよ、悠斗くん！
-(White cut)
+(White transition)
 (Background change)
 
 [病室]
@@ -196,33 +192,25 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 悠斗: うん……それで苦しくなって……。 夢の中でも、いっぱい泣いちゃった……
 父親: そっか……。ごめんな、お父さん達何も知らずに ひーちゃんのお母さんに転院のこと話してしまったから
 悠斗: ううん……ウソついてたぼくがいけないから……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: まず、ウソをついたことを謝らなきゃ。 それから、なんでウソをついちゃったのかも話そう？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 悠斗: あ……。 そうだ……ぼく、夢で……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 『ごめんね、仲直りしたい』っていう気持ちを たくさん込めてみて
 ？？？: その想いを、『わたし』がキミの代わりに ひーちゃんに届けるよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 悠斗: …………！ そうだ、やらなきゃ……
 悠斗: お父さん、ぼく曲を作りたいんだ！ だから、リンちゃんのやりかた教えて！
-(White cut)
+(White transition)
 (Background change)
 
 [セカイの狭間]
@@ -233,4 +221,4 @@ Gacha phrase: 『わたし』がキミの代わりに届けるよ！
 リン: ……がんばってほしいな
 リン: ううん。あの子なら大丈夫！ よーし、ここから応援しよーっと！
 リン: フレー！　フレー！
-(White cut)
+(White transition)

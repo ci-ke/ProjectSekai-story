@@ -58,7 +58,7 @@
 瑞希: （——そうしたらまふゆは、もっと苦しむことになる）
 瑞希: （だけど……奏の言うとおり、 今のまふゆが事実を受け入れることは難しいと思う）
 瑞希: （……一体、どうすればいいんだろう……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -74,29 +74,21 @@
 瑞希: （でもまふゆは、家でも外でも自分を出すことができなくて、 唯一の息抜きだったボク達との時間も奪われてて……）
 瑞希: （どこにも、逃げ場所がない）
 瑞希: （もし、そんな状況がずっと続いたら——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……そんなの、嫌だ
 瑞希: （なんとか……なんとかできないのかな）
 瑞希: （少しでもいい。 まふゆがありのままでいられる時間を、増やしてあげたい）
 瑞希: （まふゆが、まふゆらしくいられる時間を——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （ボクの家族が、ボクにしてくれたみたいに…… できない、かな）
@@ -107,4 +99,4 @@
 瑞希: あ……！
 瑞希: 『K、えななん！ 作業中悪いんだけど、ちょっと聞いてくれない？』
 瑞希: 『いいアイディアを思いついたんだ！』
-(Black cut)
+(Black transition)

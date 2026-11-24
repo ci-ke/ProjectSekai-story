@@ -18,54 +18,46 @@ Gacha phrase: 今は、空っぽじゃない
 こはね: 『シブヤ夏祭り』っていうお祭りでやってたライブイベントが、 今年は特設会場で単独開催するんだって
 冬弥: シブヤ夏祭りのライブイベントといえば、あの時のだな
 彰人: ああ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: ————！！　♪————……！
 彰人・冬弥: 『——！　————！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: そういえば、ふたりは出たことあったっけ。 じゃあ、今回は私達で出ちゃおっか、こはね！
 彰人: ちゃんとポスター見ろよ。 このイベント、今週末だぞ
 杏: あ、本当だ。 じゃあ、参加者の募集終わっちゃってるよね。残念……
 彰人: （……シブヤ夏祭りか）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の彰人 (彰人): （さっきの、マジですごかったな。 まだドキドキする……！）
 観客A: いやー、今日のイベント、レベル高かったな！
 観客B: ああ！　でも、KEN達のほうがやべえだろ
-(White cut)
+(White transition)
 小学生の彰人 (彰人): （——KEN？ さっきのヤツよりすげえのがいるのか……）
-(White cut)
+(White transition)
 中学生の絵名 (絵名): ……ねえ、彰人。 ああいうのやってみたら？
-(White cut)
+(White transition)
 中学生の絵名 (絵名): なんか、久しぶりに楽しそうだったしさ。 時間あるなら、試しにああいう音楽、 やってみたらいいんじゃない？
 小学生の彰人 (彰人): 試しに……？ いや、本気でやれるかもわかんねえのに、 そんな簡単に始められねえよ
 中学生の絵名 (絵名): なにそれ。気軽に始めたっていいじゃん
 小学生の彰人 (彰人): いや……だって、やってみて やっぱやめるってなったらダセえだろ
-(White cut)
+(White transition)
 中学生の絵名 (絵名): ま、細かいことは置いておいて。 彰人って器用だからなんでもできるでしょ。 だったら、いろいろやってみたらいいじゃん
 中学生の絵名 (絵名): 本気でやるかどうかは、 やってみてから決めたらいいんだし
 小学生の彰人 (彰人): （やってみてから、か……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……あの日、絵名にくつを届けに行ってなかったら、 オレはストリート音楽に出会ってなかったかもしれねえ）
 彰人: （謙さんにも、冬弥達にも……）
 彰人: （もしそうなってたら、サッカーをやめて空っぽのまま ただなんとなく毎日を過ごしてただろうな）
 洸太郎: おーい、待たせたな！ ここの席、使ってくれ！
 彰人: おう、ありがとな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -75,7 +67,7 @@ Gacha phrase: 今は、空っぽじゃない
 こはね・杏: 『♪————！　♪————！！』
 彰人・冬弥: 『♪————！　♪————！！』
 彰人達: 『♪——————！！　♪————！！』
-(Black cut)
+(Black transition)
 こはね: ——それじゃあ東雲くん、また明日！
 冬弥: 彰人、くれぐれもオーバーワークしないようにな
 彰人: わかってるよ
@@ -100,7 +92,7 @@ KAITO (VBS): 返事をしたのはルカだから、ボクは知～らない♪
 KAITO (VBS): 触っちゃダメだ！
 彰人: え？
 彰人: ……！　なんだ！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -132,10 +124,10 @@ KAITO (VBS): もしかして、こっちのよちよち歩きしてる可愛い�
 彰人？ (彰人): そうそう……
 彰人？ (彰人): ……バーカ
 彰人: は？
-(White cut)
+(White transition)
 (Background change)
 彰人: うわっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -165,7 +157,7 @@ KAITO (VBS): はいはーい、待つのはキミだよ。 一旦、状況を整
 彰人: うわっ、なにするんすか！ 急に持ち上げないでください！
 KAITO (VBS): だって、こうでもしないと 追いかけて行っちゃうでしょ？
 ルカ (VBS): そうそう。 カイトの言う通り、いろいろ確認しないとね
-(Black cut)
+(Black transition)
 KAITO (VBS): ——さて、ここまでの出来事や情報は ひと通り整理できたね
 KAITO (VBS): まず断言できるのは、想いの破片は彰人くんのもので、 ここもその想いでできてるってことだ
 ルカ (VBS): セカイにあるどの写真にも彰人くんが写ってるし、 なにより、想いが彰人くんの姿で現れたんだもんね
@@ -184,28 +176,24 @@ KAITO (VBS): でしょ～！　ボクも、『今のボクすごくない！？�
 KAITO (VBS): 彰人くんの記憶や感情から生まれたって、言ってたしね。 だから、印象的な記憶だったり、 何か感情が揺さぶられた経験とかを思い出すといいかも
 彰人: （オレの想い……印象的な記憶……）
 彰人: （そんなの——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の彰人 (彰人): オレは——やめる
-(White cut)
+(White transition)
 小学生の彰人 (彰人): 情けねえエースで悪かった。 ……じゃあな
-(White cut)
+(White transition)
 (Background change)
 彰人？ (彰人): ほんと、ダセえよ。 歌なんかに、出会っちまったせいで
-(White cut)
+(White transition)
 彰人？ (彰人): 夢？　覚悟？　全部くだらねえ。 そんなもん、なんの足しになるんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ルカ (VBS): ……彰人くん？
 彰人: ……あのオレがどんな想いから生まれたのか、 多分わかりました
 ルカ (VBS): え、本当！？
 彰人: それを確かめるために、 まず、あれを探さないとな
-(Black cut)
+(Black transition)
 もうひとりの彰人 (彰人): ………………
 彰人: ……よう。ずいぶん、しけたツラしてんじゃねえか
 彰人: 暇してるなら、こいつでも蹴ってろよ。 ……今のお前は、見たくもねえもんだろうけどな
@@ -229,7 +217,7 @@ KAITO (VBS): さすが本人！ されて嫌なこと、よくわかってるね
 彰人: けどそれは、それだけオレが本気だからだ！ “あいつら”と歌うことに、人生賭けてるからなんだよ！
 彰人: なのに……
 彰人: 『オレ』のくせに、オレの人生にケチつけてんじゃねえ！
-(White cut)
+(White transition)
 彰人: ……戻った
 小学生の彰人 (彰人): …………
 彰人: はっ。たしかに、その姿でにらまれても怖くねえな
@@ -242,15 +230,11 @@ KAITO (VBS): うわ～。今の顔、悪かったねえ
 彰人: ♪————！！　♪——————！！！！
 小学生の彰人 (彰人): …………っ！？
 彰人: （あの日——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （謙さん達はくすぶってたオレに、新しい火をくれた）
 彰人: （お前の中でも、くすぶってんだろ）
@@ -261,7 +245,7 @@ KAITO (VBS): うわ～。今の顔、悪かったねえ
 小学生の彰人 (彰人): （ただの歌だろ。なのに……）
 小学生の彰人 (彰人): （なんでこんなに、胸の奥が熱いんだ……！）
 KAITO (VBS): ……彰人くん。本当に、自分のことよくわかってるなあ
-(Black cut)
+(Black transition)
 彰人: ……どうだ？ これでもまだ『歌なんか』って言えるか？
 小学生の彰人 (彰人): …………悪かったよ
 小学生の彰人 (彰人): 歌、すごかった
@@ -275,9 +259,9 @@ KAITO (VBS): ……彰人くん。本当に、自分のことよくわかって�
 彰人: あ！？　てめえ、下手に出てやってんのに！
 KAITO・ルカ: 『あははっ！』
 ルカ (VBS): あ、破片のセカイが……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 彰人: ……戻ってきた？
 彰人: あの想いの破片は……
@@ -291,27 +275,19 @@ KAITO (VBS): にしても、小さい頃の彰人くんってあんな感じだ�
 ルカ (VBS): えっ！　今、大冒険を終えたばっかりなのに！？
 KAITO (VBS): そうそう！　もっと余韻に浸っててもいいんだよ？
 彰人: いや。そんなの、いらないんで
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あの日もらった火を——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あいつらと燃え上がらせた火を——）
 彰人: （これからも、燃やし続けていかねえとな）
-(Black cut)
+(Black transition)

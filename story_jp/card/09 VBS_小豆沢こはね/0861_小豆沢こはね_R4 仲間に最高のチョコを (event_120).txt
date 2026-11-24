@@ -22,7 +22,7 @@ Gacha phrase: コンテスト、全力で頑張ろう……！
 こはね: たしかに、気をつけないとバレちゃうかも……
 遥: じゃあ、センター街のほうから行こうか
 こはね: うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -75,7 +75,7 @@ Gacha phrase: コンテスト、全力で頑張ろう……！
 こはね: うん！　こっちだよ！
 こはね: （遥ちゃん、本当に頼りになるな）
 こはね: （協力してくれる人が遥ちゃんで、本当によかった！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -115,7 +115,7 @@ KAITO (VBS): こうやっておやつにありつけたのは、 冬弥くんの
 ルカ (VBS): たしかにそうじゃん！ メイコー！　私のも大きめでよろしく♪
 KAITO (VBS): えっ、それはズルいよ！
 こはね: ふふっ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -146,4 +146,4 @@ KAITO (VBS): えっ、それはズルいよ！
 こはね: うん！
 遥: それじゃあ——
 こはね・みのり・遥: 『いただきます！』
-(Black cut)
+(Black transition)

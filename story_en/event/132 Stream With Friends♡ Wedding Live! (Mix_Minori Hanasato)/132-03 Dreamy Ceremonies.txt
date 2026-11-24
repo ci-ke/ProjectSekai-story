@@ -22,7 +22,7 @@ Comments: <I wanna see the show!> <Does this mean you're gonna stream the show?>
 Minori: Hehe. They all sound really excited! Thanks again for doing this, Nene!
 Nene: R-Right. Of course...
 Minori: Alright, now that we're all set and ready to go, it's time to resume Minori's walk through the Phoenix Bridal Fair...!
-(Black cut)
+(Black transition)
 Nene: Alright, then... Let's start with the train wedding booth.
 Minori: Oh, the train wedding...! That was in the pamphlet! It takes place on a real one, right?!
 Minori: But how do you actually hold the ceremony...?
@@ -31,18 +31,14 @@ Nene: Apparently, the platform signs and line names are all specially designed f
 Minori: The platform signs...? Does that mean you can have the train headed for the “Paradise of Love” and stuff?! If so, that would be really memorable...!
 Nene: I-I'm not sure about that...
 Minori: Also, the wedding taking place on a train means...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Announcement: <The train carrying the bride will be arriving on this platform shortly. Please stand behind the yellow line for your own safety.>
 Haruka: Thank you all for coming today!
 Haruka: I hope you'll all give me a warm welcome when I arrive at the station of Eternal Happiness.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: H-Harukaaa...!
 Nene: Huh?! H-Hanasato?! Is something wrong?!
@@ -66,14 +62,14 @@ Minori: Hehe. Thanks for the praise. But I have Haruka to thank for this...
 Nene: I'm not sure how much credit Kiritani deserves...
 Nene: But she seems happy enough. I guess it doesn't matter.
 Minori: Anyway, next booth! Let's keep checking out as much as we can!
-(Black cut)
+(Black transition)
 Nene: So, for the aquarium wedding, you rent out a part of it in order to hold the ceremony.
 Nene: Like in the underwater tunnel. You can even have the dolphins jump out of the water when the bride and groom appear together. There really are a lot of fun options to choose from...
 Minori: Wow...! This picture of the underwater tunnel's so pretty!
 Minori: Just look at how the water's sparkling... This looks like the perfect place for someone like Shizuku to get married!
 Comments: <Shizuku under the sea?!> <She'd be like a mermaid or undine...> <I'd love to see that! Even if it means my eyes melting away!>
 Minori: You guys get it! Oh, I know! I should try to see if I can do a stream with Shizuku at the aquarium...!
-(Black cut)
+(Black transition)
 Nene: Next, we have the great outdoors. You can hold weddings at campground and forest spaces that you've rented out.
 Nene: You get to pitch tents, have a big barbeque and enjoy the things that only the natural world has to offer.
 Minori: A big barbeque...! That'd suit Airi so well!
@@ -100,4 +96,4 @@ Luka (WxS): (Zzz... Zzz...♪ I can probably sleep like a baby right now...)
 Nene: Anyway, where should we go next?
 Minori: I dunno. Every area looks like a lot of fun... No, wait!
 Minori: I've got it! We should totally go here next!
-(Black cut)
+(Black transition)

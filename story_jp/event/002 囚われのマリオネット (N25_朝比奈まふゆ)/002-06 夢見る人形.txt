@@ -6,7 +6,7 @@
 まふゆ: （ここは――どこ？）
 まふゆ: （どうして真っ暗なの？ たしか部屋で作業してたはずなのに……）
 まふゆ: （体が動かない……？ 声も出ないし、目も開かな――）
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （え？）
 まふゆ: （ここって、今日行った人形展の会場？ どうしてこんなところに……）
@@ -35,7 +35,7 @@
 まふゆ: それに、私が何か感じたって、そんなの誰も――
 奏: そんなことない
 奏: 教えてよ、まふゆ
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ……っ！
 まふゆ: あれ……？
@@ -66,16 +66,12 @@
 まふゆ: 『でも何かが決定的に足りてないことだけわかって……』
 まふゆ: 『こんなの、言葉になんてできない』
 奏: 『……あ』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: （会話するよりはずっと近く感じる）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 奏: （雪が、自分の感じてることを言葉にしたくても、 できないっていうなら――）
 奏: 『歌詞なら、どう？』
 (Background change)
@@ -85,4 +81,4 @@
 奏: 『説明なんていらない。 理解なんてちゃんとしなくたっていい』
 奏: 『ただ、今感じてることを、歌詞にしてほしいの』
 (Background change)
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@
 冬弥: なるほど……
 冬弥: わかった。 それじゃあ、少しここで待っていてくれ
 寧々: えっ……青柳くん！？
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -36,7 +36,7 @@
 冬弥: そうだ。このあいだ、玉結びのコツを教えてもらったんだ。 まだ習得するには至ってないが、きっとものにしてみせる
 寧々: ふふっ、そうだったんだ。 青柳くんも芸術祭の準備、頑張って
 冬弥: ああ。 お互い、いいものにできるといいな
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -54,7 +54,7 @@
 寧々: （話を考えるのって難しいな……。 いつも司達が作ってくれてるのに甘えちゃってたかも）
 寧々: （やっぱり、ひとりじゃ難しいか……）
 寧々: （ここで考えててもいいアイディア思い浮かびそうにないし…… ちょっとセカイで息抜きしようかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -70,24 +70,20 @@
 寧々: わたしのクラスは、映画を作るんだ。 ……ちょうどそのことで、いろいろ悩んでて
 MEIKO (WxS): あら、何かあったの？
 寧々: 実は——
-(Black cut)
+(Black transition)
 KAITO (WxS): へえ……寧々ちゃん、監督になったんだね
 レン (WxS): すごいなあ～！ 監督って、いろんなことを『これ！』って決める人でしょ？
 ルカ (WxS): みんなの意見をまとめて、引っ張って……。 とってもかっこいいわねえ
 ミク (WxS): うんうんっ☆ 寧々ちゃんはしっかりしてるから、 いい監督になれると思うな！
 寧々: ……どうかな……。 わたし、あんまりうまくやれてなくて
 寧々: このあいだも、映画の企画会議があったんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 男子生徒達: ならいっそ、全部やればいいんじゃないか！？
 寧々: へっ！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 全然、みんなをまとめられなくて…… 監督としてやっていけるのか不安になっちゃったんだ……
 KAITO (WxS): ……そ、そっか。大変だったんだね
@@ -118,15 +114,11 @@ MEIKO (WxS): ——ふふ、そうよね！ 信頼とか絆って、いつの間
 MEIKO (WxS): でも、寧々ちゃんがふたりと仲良くなった本当の理由は、 『一緒にショーをやったから』じゃなくて——
 MEIKO (WxS): 『一緒の時間を過ごすうちに、ふたりのことを深く知れたから』 なんじゃないかって思うの
 寧々: ふたりのことを……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ……たしかに初めて会った頃は 無茶苦茶な人達だなって思ってた
 寧々: でも、そのあとふたりが夢に向かって頑張ってることとか、 いつも一生懸命なところとかが知れて……
@@ -147,12 +139,12 @@ KAITO (WxS): ……きっとそれは クラスメイトのみんなも同じな
 レン (WxS): もちろん！　そのノート、見せて見せて！
 KAITO (WxS): へえ……すごくたくさん案が出てるんだね。 それに、アクションをやるってことは決まってるんだ
 レン (WxS): えっ、アクション！？　それなら……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000256/bg_s000256.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000256/bg_s000256.webp)
 レン (WxS): やっぱり、強くてかっこいい主人公がいいな！
 レン (WxS): 苦しんでる人を守るために、一生懸命戦って…… どんなに手ごわい相手でも、絶対に諦めない主人公！
 レン (WxS): そういうのって、やっぱり憧れるよね！
-(White cut)
+(White transition)
 (Background change)
 ルカ (WxS): あら～……。 レンは、そういうお話が好きなの？
 レン (WxS): うん！ 最近、司くんに借りた漫画でそういうのを見たんだけど、 すっごくかっこよかったんだ！
@@ -163,4 +155,4 @@ MEIKO (WxS): SF、それに実家の中華料理屋の宣伝？ それなら、�
 リン (WxS): わあ～楽しそう！ じゃあじゃあ、襲ってくるのも料理人で——
 寧々: （な、なんだかすごいことになってるけど……）
 寧々: （……みんなの力を借りれれば、 明日までに概要くらいは、まとめられそうかな）
-(Black cut)
+(Black transition)

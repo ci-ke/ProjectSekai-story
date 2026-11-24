@@ -14,22 +14,18 @@
 こはね: （ホテルの近くで歌えそうな場所、 大河さん達に教えてもらっておいてよかった）
 こはね: （……いつもと違う環境だと、新鮮な気持ちで歌えるし）
 こはね: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……まだ、足りない）
 こはね: （もっと私達の歌を……響かせられるように——！）
 こはね: ♪——————————〜〜〜！！
-(Black cut)
+(Black transition)
 彰人: じゃ、飲み物買いに行ってくる
 杏: 冬弥達の分も買ってくるから、ちょっと待っててね！
 冬弥: ああ。ありがとう、ふたりとも
@@ -61,33 +57,25 @@
 冬弥: いや……謙さんには 修行で歌をみてもらうことはあったが——
 冬弥: 大河さんの歌を聴くのは、 あの時以来なんだなと思ってな
 こはね: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪————————————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………そうだね
 こはね: （あの時は、大河さんがすごく大きな壁に見えた）
 こはね: （本当にこの先に行けるのか、 超えられるのかって、怖くなって。でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………なんだか、不思議だな
 ミク (VBS): 『え？』
@@ -129,4 +117,4 @@
 ？？？: 『でも、もう歌う気分になっちゃったよ〜！ アタシ達も、あとでちょっと歌わない？』
 ？？？: 『うーん……。じゃあ、帰ってアイス食べたら 久しぶりにあの場所でやろっか』
 ？？？: 『やった〜！　急いで食べよーっと♪』
-(Black cut)
+(Black transition)

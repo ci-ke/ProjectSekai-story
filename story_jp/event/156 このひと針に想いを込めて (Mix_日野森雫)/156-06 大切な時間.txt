@@ -2,7 +2,7 @@
 
 (Character: 日野森雫, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク)
 
-(White cut)
+(White transition)
 (Background change)
 
 [公民館]
@@ -17,7 +17,7 @@
 幼い雫 (雫): あ……上手にできたら、 しぃちゃんにあげようかしら
 祖母: ふふ。志歩ちゃん、うさぎさんが好きだからきっと喜ぶわね
 幼い雫 (雫): ほんと？　それなら、しぃちゃんのために、 とってもかわいいうさぎさんを作ろうっと！
-(Black cut)
+(Black transition)
 幼い雫 (雫): （あ……うさぎさんのお耳、少しずつできてきたわ）
 幼い雫 (雫): （ふふ。ピンク色の糸、かわいい……。 プレゼントしたら、しぃちゃん喜んでくれるかしら……？）
 幼い雫 (雫): （早く、しぃちゃんに見せたいなあ）
@@ -30,23 +30,17 @@
 幼い雫 (雫): うん！　線ができると嬉しいし…… なんだか、胸がぽかぽかするわ
 祖母: そう……それじゃあ、おばあちゃんと一緒ね
 幼い雫 (雫): 一緒……？　あっ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 祖母: 本当？　きっと、幸せだなって気持ちが溢れちゃってたのね
 祖母: 刺繍をしている時間は、おばあちゃんの宝物だから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 幼い雫 (雫): （おばあちゃんも、ぽかぽかしてたのかな……？）
 幼い雫 (雫): （まだ、ちゃんとはわからないけど……）
 幼い雫 (雫): （私も、ししゅうしてる時間、好きだな……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ——それで、うさぎさんのハンカチを しぃちゃんにプレゼントしたら、とっても喜んでもらえて……
 雫: もっと、刺繍が好きになったのよ
@@ -70,15 +64,11 @@
 まふゆ: （たしかに、作業をしてる静かな時間が好きっていうのは、 わからなくもない、かな……）
 まふゆ: （……こうして手を動かしてると、少し、落ち着く気がする）
 まふゆ: ……………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……………………
-(Black cut)
+(Black transition)

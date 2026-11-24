@@ -49,27 +49,23 @@
 (Background change)
 一歌: あ、噂をすれば……
 遥: ふふ、手を振ってる。元気だね
-(Black cut)
+(Black transition)
 (Background change)
 咲希: おかえり～、ふたりとも！
 一歌: ただいま、心配させてごめんね
 咲希: あははっ、ちょっとびっくりしちゃったけど大丈夫！ いっちゃんらしいな～って思ったし
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: さっき桐谷さん、はぐれちゃったって言ってたけど、 少しくらい離れてもどうってことないよ
 一歌: 私達、これでもう会えないってわけじゃないんだし。 また合流してから、時間いっぱいまでみんなで遊ぼう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （もう会えないわけじゃない、か。そのとおりだな……）
 遥: （それで、少し離れても……）
 遥: （——どうってことないんだ）
-(Black cut)
+(Black transition)
 咲希: 合流できてホントよかった～！ あのあと大丈夫だった？
 遥: うん、問題なかったよ。 特に声かけられたりもなかったから
 咲希: そっか、よかった！
@@ -89,4 +85,4 @@
 一歌: もう咲希ってば……
 一歌: でも、いいかもね
 遥: うん、せっかくだし——時間まで、みんなで歩こっか
-(Black cut)
+(Black transition)

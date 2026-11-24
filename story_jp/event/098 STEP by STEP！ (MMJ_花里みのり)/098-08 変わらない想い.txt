@@ -27,23 +27,19 @@ MEIKO: 『ふふっ、そんなこともあったわね』
 レン: 『……でも僕は、大丈夫だって思ったよ』
 レン: 『みんなに話を聞いた時から、 みんなが大事にしてる友達がどんな子なのか、 ずっと気になってたんだ』
 レン: 『それで今日、実際に みのりちゃんと遥ちゃんの友達を見て——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 レン: 『友達も、ふたりのことを すごく大切に想ってるって感じたよ』
 みのり: レンくん……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000203/bg_s000203.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000203/bg_s000203.webp)
 レン: 『だから僕は、大丈夫だなって思ったんだ。 みんなは、お互いに強い気持ちを持ってて、 その強さで結びついてる』
 レン: 『それは前にカイトくんが言ってたように、 簡単に消えるようなものじゃなくて——』
 レン: 『みのりちゃん達が、どこにいたって変わらないって』
@@ -51,7 +47,7 @@ MEIKO: 『ふふっ、そんなこともあったわね』
 みのり: ……そうだね
 みのり: わたしも今日、みんなと一緒にたくさん遊んで、 心のこもったプレゼントまでもらえて——
 みのり: 本当に、みんなと友達になれてよかったと思ったし、 みんなとなら、これからもずっと友達でいられるって——
-(White cut)
+(White transition)
 (Background change)
 ミク (MMJ): 『みのりちゃん……』
 みのり: だから、わたしも……大丈夫。 １年って、短いあいだだったけど…… わたしの普通の高校生活は、すっごく楽しかったから
@@ -116,6 +112,6 @@ KAITO: 『うん、すごく嬉しいよ！ ……今の言葉、大切にする
 みのり: もっともっと、も～っと！ たくさんの人に、希望を届けられるように！
 リン: 『……うん！』
 ミク (MMJ): 『楽しみにしてるね！』
-(White cut)
+(White transition)
 (Video: 02_idol_ed2)
-(Black cut)
+(Black transition)

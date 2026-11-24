@@ -35,7 +35,7 @@ Kohane: Huh? Where's this voice coming from...?
 Kohane: Down...
 Kohane: Oh!
 Memetchi: Nice to meet you! I'm Memetchi!
-(Black cut)
+(Black transition)
 (Background change)
 Memetchi: So yeah, I was listening to this wonderfully cool song, and before I knew it I was here.
 Akito: Think that needs more than a “so yeah”...
@@ -74,7 +74,7 @@ Memetchi: ...
 Miku (VBS): Hehe. Surprised? This is how they sing.
 Memetchi: I-It's amazing! How do they blow you away like that...?!
 Memetchi: Just listening to them has this intense feeling burning inside me!
-(Black cut)
+(Black transition)
 Kohane: Phew... Thanks for listening, Memetchi.
 Memetchi: Thanks for letting me listen!
 Memetchi: It was just as wonderfully cool as I remembered! I'd love it if you could teach me!
@@ -99,7 +99,7 @@ Memetchi: S-So...!
 Kohane: Yeah!
 Kohane: If you'll have us, we'd be happy to help with your singing practice.
 Memetchi: Thanks, everyone!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,7 +113,7 @@ Memetchi: Thanks, everyone!
 Kohane & Memetchi: ♪—— ♪————
 An, Akito & Toya: ♪—— ♪————
 Everyone: ♪—— ♪———— ♪—— ♪————~~~!
-(Black cut)
+(Black transition)
 Memetchi: Well, how was I?
 Memetchi: Don't hold back! I can take it!
 Kohane: Um... Then, I'll start with what stood out to me.
@@ -140,16 +140,12 @@ Kohane: It might not have been right for a choir recital, but your singing just 
 Kohane: So, it's all about dialing things back when you need to while holding on to that feeling!
 Memetchi: Bursting with drive...
 Memetchi: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Memetchi: There's no way I can let Makiko's group beat mine! I've gotta focus!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Memetchi: Look at me, totally spinning my wheels... All because I didn't want to lose to Makiko.
 Miku (VBS): ... Is this “Makiko” a rival of yours?
@@ -162,14 +158,14 @@ Memetchi: Yeah! That's exactly how I feel!
 MEIKO (VBS): (Everyone's hearts have become one. Now...)
 Memetchi: Alright, team! Until I get the hang of this, you're all stuck with me!
 Kohane, An, Akito & Toya: No problem! Sure thing. Of course.
-(Black cut)
+(Black transition)
 Kohane & Memetchi: ♪—— ♪————
 Memetchi: ♪—— ♪————
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
 Memetchi & Co.: ♪—— ♪———— ♪—— ♪————~~~!
-(Black cut)
+(Black transition)
 Memetchi: Huff... Huff... I'm not sure I've ever...sang for this long before...
 Kohane: Great job, Memetchi! It was amazing to hear you keep improving each time!
 Memetchi: It's because you're all such good teachers!
@@ -211,7 +207,7 @@ Kohane: (Oh... That light...)
 Kohane: (This really is goodbye...)
 Kohane: (I've gotta sing my heart out to the very end! I won't let this moment be sad for Memetchi!)
 Kohane & Memetchi: ♪—— ♪————~~~!
-(White cut)
+(White transition)
 Len (VBS): Memetchi's gone...
 Kohane: Yeah...
 An: Kohane...
@@ -223,4 +219,4 @@ Kohane: Right...!
 Kohane: (It was so much fun spending time with you, Memetchi...)
 Kohane: (I'll miss you, but...)
 Kohane: (When the chance comes... Let's all sing together again!)
-(Black cut)
+(Black transition)

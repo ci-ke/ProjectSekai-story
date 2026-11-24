@@ -7,15 +7,15 @@
 Ichika: ...
 Ichika: No...
 Ichika: I'm struggling to come up with a good melody. I thought writing the lyrics first would help, but these aren't turning out either...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000462/bg_s000462.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000462/bg_s000462.webp)
 Ichika: I finally found what I want to do, but...
 Ichika: ...
 Ichika: The others really are amazing...
 Ichika: Shiho's in a professional band, Saki's the ace of the soft tennis club and Honami's working towards getting into university.
 Ichika: (I really admire how they're all doing their very best.)
 Ichika: (I was so sure that I'd get to join them once I figured out what I want to do with myself.)
-(White cut)
+(White transition)
 (Background change)
 Ichika: I'm really sorry that I haven't been able to give you a chance to sing, Miku...
 Miku: ...
@@ -23,7 +23,7 @@ Ichika: In any case, I need to figure out what I want this song to be about.
 Ichika: At the very least, a theme... Hm?
 Ichika: It's a notification from that weather app. What is it about...?
 Ichika: It's...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -59,7 +59,7 @@ Ichika: (Saki and I haven't decided where we're going yet, but Honami and Shiho.
 Ichika: Thanks, Honami...
 Ichika: Then, in order to create that memory, let's go ask Saki and Shiho about all four of us seeing the meteor shower together!
 Honami: Okay!
-(Black cut)
+(Black transition)
 
 [Class 2-B]
 
@@ -82,7 +82,7 @@ Shiho: We'll probably still be in the studio...
 Saki: And I'll probably be on the bus...
 Ichika: Right...
 Ichika: I'm really sorry, you two...! Please forget what we just said.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -95,18 +95,14 @@ Honami: That's right. I'll usually go home, do my homework and spend the rest of
 Honami: And they ask you to write about very difficult topics with terminology unique to social welfare topics...
 Honami: Just writing one takes me such a long time.
 Ichika: So even you find it hard, Honami...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Wait, could you tell that I wasn't sure about whether or not to invite you...?
 Honami: No, this is how I genuinely feel.
 Honami: We'll probably have even less time once we're third-years, so I've been wanting to create another memory together while we still can.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: (Despite what Honami said...)
 Ichika: Um, Honami? About us seeing the Leonid meteor shower...
@@ -128,7 +124,7 @@ Honami: Ichika...
 Honami: Okay...
 Honami: Then, I promise to fill you in that Monday.
 Ichika: *Nod* I'm looking forward to it...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Ichika's Room)
 Ichika: I wish we could all see the Leonid meteor shower together...
@@ -140,7 +136,7 @@ Ichika: That's such a sad thought...
 Ichika: No, stop... That's all I've been thinking about since coming home.
 Ichika: I haven't been able to make any progress on my song.
 Ichika: Miku... What should I do in this kind of situation?
-(Black cut)
+(Black transition)
 (Background change)
 ???: ————...
 Ichika: (Huh...? What's that I'm hearing...?)
@@ -156,7 +152,7 @@ Ichika: (I've been listening to her ever since I was little...)
 Ichika: (Through all the fun times and all the bad times.)
 ???: Just keep cherishing those feelings.
 Ichika: (This voice! It's...)
-(White cut)
+(White transition)
 (Background change)
 Ichika: Miku!!
 Ichika: Huh...?
@@ -168,19 +164,15 @@ Ichika: That's it. I...
 Ichika: I saw how hard the others have been working, and decided I wanted to do something myself.
 Ichika: But that's not all there was to it.
 Ichika: I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: I wanted to support them.
 Ichika: I really do admire what they're doing. I think it's really cool how all three of them are working so hard, and I truly hope their dreams come true.
@@ -191,6 +183,6 @@ Ichika: (I believe that we'll keep being friends.)
 Ichika: My mind is made up.
 Ichika: I want Miku to sing what I'm feeling right now.
 Ichika: Alright, let's get to work!
-(Black cut)
+(Black transition)
 (Video: link2_leoneed_ed4)
-(Black cut)
+(Black transition)

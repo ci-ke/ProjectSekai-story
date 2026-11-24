@@ -51,7 +51,7 @@ Mafuyu: <Night.>
 Mafuyu: So, it's my birthday.
 Mafuyu: I should get some sleep. Time to log out of Nightcord...
 Mafuyu: Hm? A message from Kanade?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's birthday]
@@ -69,7 +69,7 @@ Junior Archery Club Members' Voices: Hey everyone! Asahina's already here!
 Junior Archery Club Members: Oh, Asahina, happy birthday! We got you a gift!
 Junior Archery Club Members: Um...please accept my birthday gift, too!
 Mafuyu: Thank you all so much for coming all the way to the second years' classrooms, and thank you so much for these gifts.
-(Black cut)
+(Black transition)
 Junior Archery Club Members: Our pleasure, Asahina! We'll see you at club after school!
 Mafuyu: Okay, see you then.
 Shizuku: Asahina, are you free to talk for a moment?
@@ -88,10 +88,8 @@ Ichika: You're welcome!
 Honami: I'm glad she likes what we got her!
 Ichika: Yes, it's all thanks to Kanade's advice.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: A message from Kanade?
 Kanade: <I'm sorry, Mafuyu. I need to apologize to you about something.>
@@ -99,21 +97,19 @@ Kanade: <A while ago, Hoshino and Mochizuki reached out to me asking what kinds 
 Kanade: <I ended up saying that it's probably best to not get you anything food-related.>
 Kanade: <Anyway, they seemed to understand it as your dedication to your physical fitness, given your commitment to archery...>
 Kanade: <...but I just wanted to apologize for having said too much. I'm sorry.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Hoshino, Mochizuki, it sounds like you put so much effort into this.
 Mafuyu: While I don't mind edible gifts, they disappear after I eat them, so I'm happy that I can keep this with me forever.
 Ichika: Really? That's great to hear!
 Honami: We should go thank Ms. Yoisaki, too!
 Ichika: Yeah!
-(Black cut)
+(Black transition)
 Mafuyu: I didn't expect to receive this many gifts. I should keep note of who gave me what before I forget—
 ???: Wait uuup!
 Mafuyu: Huh?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -144,7 +140,7 @@ Emu: *Gasp*
 Emu: Okay! See you!
 Mafuyu: I didn't know there was a book about funny stories in the library...
 Mafuyu: I should head back to class.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend]
@@ -193,8 +189,8 @@ Mafuyu: (But...)
 Kanade: Mafuyu? Is something the matter?
 Mafuyu: Nothing...
 Mafuyu: (For now... I guess I don't hate it.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000158/bg_s000158.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000158/bg_s000158.webp)
 Akito: Happy birthday, Asahina. Ena may be quite a handful to deal with, but I hope your friendship with her continues to grow.
 Emu: Asahina, happy birthday! I'll make sure to show you that book of short stories sometime! There are loads of good ones in there!
 Honami: Happy birthday, Asahina. I'm so glad you liked the present we got you!
@@ -205,9 +201,9 @@ Mizuki: Yeah! I know you've got a lot on your plate from school, but hit me up i
 Kanade: Um... I'll try, as long as it doesn't involve any strenuous activities.
 Kanade: Mafuyu. I promise to make a song that will save you.
 Kanade: So, I look forward to you hearing it someday. Wishing you a happy birthday.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: How strange... I didn't really feel anything because it was my birthday. And yet...
 Mafuyu: I don't know how to describe it...but it's not unpleasant.
 Mafuyu: Thank you, everyone.
-(White cut)
+(White transition)

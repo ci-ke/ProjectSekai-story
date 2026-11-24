@@ -19,59 +19,43 @@ Gacha phrase: にゃ～ん？
 愛莉: でしょうね。午前中あれだけみっちりやったんだから、 体を休めてもらいたいところだけど……
 遥: …………
 雫: ……遥ちゃん。 もしかしてみのりちゃんに言ったこと、気にしてる？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 遥: けど、見ている人を不安にさせちゃだめ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: ……アンタは間違ってないわ。 あれは、みのりに必要な言葉だったと思う
 愛莉: それに……遥が言ってなかったら、 きっとわたしが似たようなこと言ってたと思う
 遥: でも、厳しいコメントも流れてたし……。 私の一言で、余計に傷つけちゃったかもしれない
 雫: たしかに、厳しいコメントもあったわね……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 コメント: 『また失敗するかもなー』 『遥ちゃんが出るライブなんだから台無しにしないでよね』 『端っこで踊ってて』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: ……みのり、悔しいでしょうね。 みんなに応えようとして、あんなにがんばったのに
 遥: そうだね……
 雫: （悔しい、か……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 研究生仲間A: グランプリとったクセに、 あれくらいのダンスもできないなんて
 研究生仲間B: あーあ。私もあの子の顔で生まれてくればよかったなー
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 雫: （私は、悔しいと思うよりも、 自分が情けなくて、嫌なことを言われて悲しくて、 練習室からすぐに逃げだしちゃってたな……）
 雫: （でも、みのりちゃんは……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 雫: （みのりちゃんは、きっと……）
 遥: やっぱり、みのりのこと心配だから、 連絡して、少し様子を見てくる
 愛莉: そうね。落ちこむにしても、 ひとりじゃないほうがいいだろうし
@@ -117,7 +101,7 @@ Gacha phrase: にゃ～ん？
 雫: あら、首傾げてかわいいわね。 じゃあ、私も。にゃ～ん？
 遥: あっ！
 愛莉: あああっ、雫！　お茶！ 服にこぼれるーーーっ！！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -130,7 +114,7 @@ Gacha phrase: にゃ～ん？
 雫: おかしいわ。１年生の教室って、 この辺りだったと思うんだけど……
 雫: ……あっ！
 雫: ねえ、あなた１年生？ １年Ａ組に行きたいの。つれていってもらえないかしら？
-(Black cut)
+(Black transition)
 (Background change)
 
 [１年Ａ組]
@@ -189,4 +173,4 @@ Gacha phrase: にゃ～ん？
 志歩: はいはい。かわいそうだね
 みのり: ええ～っ！　志歩ちゃ～んっ！
 雫: ふふふっ
-(Black cut)
+(Black transition)

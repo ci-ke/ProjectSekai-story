@@ -19,21 +19,17 @@ Skill name: この街の思い出
 杏の父: 今はむしろ、嵐の前の静けさってやつだ。 イベントが終わったら、熱も冷めやらぬって感じで どっと来るだろうよ
 冬弥: …………
 冬弥: （熱も冷めやらぬ、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: ——ヒント、と言えるかはわからないが、 ひとつ感じたことがある
-(White cut)
+(White transition)
 冬弥: 気のせいかもしれないが……。 参加者全員の歌声の中にどこか—— 寂しさを感じたような気がした
 彰人: 寂しさ……？
-(White cut)
+(White transition)
 リン: えー？ みんなすっごく盛り上がってたのに？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （あの時感じたものは、なんだったんだろうか……）
 冬弥: （白石の言うとおり、謙さん達のチームが解散することを 知っていたからなのかもしれないが……）
@@ -77,14 +73,14 @@ Skill name: この街の思い出
 杏の父: その感覚は、大事にするんだぞ
 冬弥: ……！
 冬弥: はい。ありがとうございます、謙さん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 東雲彰人, 青柳冬弥)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -104,7 +100,7 @@ Skill name: この街の思い出
 新: ……え？
 少年A: あの兄ちゃん、ボールとってって言ったのに、 なんで地面にぶつけてるの？
 少年B: しらねー
-(Black cut)
+(Black transition)
 少年A: へたな兄ちゃん達、またなー！
 少年B: 次会う時は、教えるのも投げるのも、 うまくなってろよー！
 新: はあ……。つきあわせてごめんね、冬弥くん
@@ -124,16 +120,16 @@ Skill name: この街の思い出
 新: ……正直、わからないな
 冬弥: え……
 新: この街で、いろいろあったからね
-(White cut)
+(White transition)
 (Background change)
 新: 颯真と一緒に、あの夜を見たこととか
-(White cut)
+(White transition)
 (Background change)
 新: がむしゃらに練習して、毎日歌いまくってたこととか
-(White cut)
+(White transition)
 (Background change)
 新: 当たり前だと思っていたいろいろなものが、 突然壊されて、なくなってしまったこととか……。 ほんと、いろいろね
-(White cut)
+(White transition)
 (Background change)
 冬弥: ……すみません。軽率でした
 新: ああ、ごめんごめん。 しんみりさせちゃったね
@@ -170,4 +166,4 @@ Skill name: この街の思い出
 新: ふふ。さあ、声出ししよう、声出し
 彰人: あ、おい、無視するんじゃねえ
 冬弥: ふふ……
-(Black cut)
+(Black transition)

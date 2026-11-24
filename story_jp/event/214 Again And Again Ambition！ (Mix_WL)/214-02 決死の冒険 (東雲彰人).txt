@@ -50,22 +50,18 @@
 彰人: 今日は忙しかったみたいだな。 ま、連絡先は知ってるから、また今度話すか
 大輝: ……すみません。 せっかく待っててくれたのに……
 大輝: その、漫画……できたら、ぜひ読んでください！ また連絡します！
-(Black cut)
+(Black transition)
 (Background change)
 
 [彰人の部屋]
 
 彰人: …………ふぅ
 彰人: （まさか、大輝達に会えるとはな。 それにしても——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （気のせいかもしれねえが、 あいつら、妙な空気だったような——）
 ？？？: 『彰人くん！』
@@ -73,7 +69,7 @@
 MEIKO (VBS): 『また、あの木が光ってるの』
 MEIKO (VBS): 『だから、前に言っていたセカイに もう一度行けるんじゃないかって思って……！』
 彰人: ……！
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……まさか、こんなあっさり全員来れるとはな。 にしても、どうして——
 ？？？: 誰か——！
@@ -85,7 +81,7 @@ MEIKOの声 (MEIKO): 誰か、助けて！
 愛莉: じゃあ……メイコはあの中にいるってことかしら？
 彰人: けど、『助けて』ってどういう——
 彰人: な……！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -162,8 +158,8 @@ MEIKO: こんなことに巻き込んでしまってごめんなさい！ さあ
 絵名: わ、わかってる！ だけど……
 絵名: お、落ちたらって考えたら、足が……
 彰人: ……っ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000625/bg_s000625.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000625/bg_s000625.webp)
 彰人: ——絵名！　跳べ！
 彰人: なんでもいいから前に出ろ！
 絵名: で、でも……！
@@ -171,14 +167,14 @@ MEIKO: こんなことに巻き込んでしまってごめんなさい！ さあ
 彰人: こんなところで、ワケわかんねえまま終わっていいのか！？
 絵名: ……っ。 いいわけ、ないじゃない！
 彰人: だったら来い！ オレが受け止めてやる！
-(White cut)
+(White transition)
 (Background change)
 絵名: ……っ！
 彰人: そのまま——手ェ伸ばせ！！
 絵名: あ……ありがと……
 彰人: ……おう
 愛莉: まだほっとするには早いわよ！ あっちに逃げましょ！
-(Black cut)
+(Black transition)
 寧々: はぁ……ここまでくれば、大丈夫そうかな……
 絵名: あ～疲れた……。 ホントもう、どうなってるわけ？
 愛莉: そうね……よくわからないことばっかりだわ
@@ -200,4 +196,4 @@ MEIKO: こんなことに巻き込んでしまってごめんなさい！ さあ
 絵名: でも、ここでやるべきことって……？
 MEIKO: もしかしたら—— 声にヒントがあるかもしれないわ
 彰人: え？
-(Black cut)
+(Black transition)

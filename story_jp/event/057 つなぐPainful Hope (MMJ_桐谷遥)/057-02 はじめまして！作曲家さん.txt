@@ -19,10 +19,8 @@
 (Background change)
 愛莉: でも、びっくりしたわよね。 新曲をどうしようか話してたところに、 ちょうど長谷川さんから連絡がきたんだから
 みのり: うんうんっ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数日前]
@@ -46,10 +44,8 @@
 遥: あと、作曲の報酬についても案を考えたから、 少し相談に乗ってもらっていいかな
 雫: ええ！　授業が始まるまで、 みんなで話しあいましょう！
 愛莉・みのり: 『おーっ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Background change)
 遥: ——送ってもらった曲、すごく良かったです
@@ -90,7 +86,7 @@
 (Background change)
 (Background change)
 遥: ——はい！ こちらこそ、よろしくお願いします
-(Black cut)
+(Black transition)
 長谷川: 『……なるほど。 ここまで応援してくれたファンの皆さんへの 感謝をこめた曲にしたいんですね』
 (Background change)
 遥: はい。支えてくれるファンがいるからこそ、 私達はここまでやってこれたので
@@ -132,4 +128,4 @@
 遥: 助かります。 では、収録する場所を決めたら、改めて連絡しますね
 (Background change)
 長谷川: 『はい。よろしくお願いします！』
-(Black cut)
+(Black transition)

@@ -50,7 +50,7 @@
 類: そうですね……。 司くん達を探しながら、コンビニを探しましょう
 類: もしかしたらどこかで、 司くんの大声が聞こえるかもしれませんしね
 雫: ……ええ！
-(Black cut)
+(Black transition)
 司: 類～！！ 雫～！！ どこだ～！！！！
 三宅: 神代くーん！ 日野森さーん！
 林・谷山: 『どこだ～！！』
@@ -67,7 +67,7 @@
 司: せっかくの修学旅行だ。 最後にみんなでパレードを見てすごしたいではないか
 司: というわけで——もう一度、類達を探すぞ！
 まふゆ・愛莉: 『ええ！』 『うん！』
-(Black cut)
+(Black transition)
 雫: 愛莉ちゃーん！ 朝比奈さーん！ 司くーん！
 雫: 愛莉ちゃ……っ
 類: 大丈夫ですか？
@@ -78,19 +78,15 @@
 類: パレードが終わったら……
 類: （……たしかに、そうかもしれない）
 類: （けれど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: 高校での修学旅行は、人生でもう二度とないイベント！  いわば１回きりの公演だ！
-(White cut)
+(White transition)
 (Background change)
 三宅: でもその……神代くんと一緒に回れたら、嬉しいな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: もう少しだけ、頑張ってみませんか？
 雫: え？
@@ -113,4 +109,4 @@
 類: ……そうか！
 類: 日野森さん。 ひとつ、協力してもらってもいいですか？
 雫: ……え？
-(Black cut)
+(Black transition)

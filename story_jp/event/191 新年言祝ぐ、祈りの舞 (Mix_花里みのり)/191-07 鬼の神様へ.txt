@@ -14,10 +14,8 @@
 みのり: ここのお祭りが大好きで…… もう一度、演舞を見たいって言ってたので
 神主: ……女の子？
 みのり: はい！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: その演舞って——わたしにもできるかな！？
 女の子: え……あなたが？
@@ -31,10 +29,8 @@
 女の子: ……そっか
 女の子: じゃあ、わたしが教えるよ。 たくさん見てきたから、覚えてるんだ
 みのり: ……！　うん、ありがとう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 神主: ……なるほど。そういう経緯が……
 みのり: えへへ。来てくれたお客さんにも 喜んでもらえるようにがんばりますね！
@@ -42,7 +38,7 @@
 みのり: わ、いけない！　もう行かないと！
 神主: ああ、そうですね。 ——どうか、よろしくお願いします
 みのり: はい、それでは！
-(Black cut)
+(Black transition)
 年配の男性: まさか今年は、演舞までやるとはなあ
 年配の女性: またあの舞が見られるなんて……懐かしいねぇ
 司: おお、話に聞いていた通り、ついに花里の演舞だな！
@@ -76,16 +72,16 @@
 リン (VBS): （わ……）
 リン (VBS): （すごく、きれい……！）
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000528/bg_s000528.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000528/bg_s000528.webp)
 みのり: （——神様、見てくれてますか？）
 みのり: （今年も、ここに住んでる人達、 このお祭りに来てくれた人達、それにあの子が——）
 みのり: （幸せに、笑顔になれるように——）
 みのり: （新しい年も、みんなのことを見守っていてください）
-(White cut)
+(White transition)
 (Background change)
 女の子: …………
-(Black cut)
+(Black transition)
 みのり: はあぁ……なんとか、踊りきれた～……！
 神主: 本当にお疲れ様でした
 みのり: あ、ありがとうございます！ ちょっと緊張しちゃいましたけど——
@@ -126,4 +122,4 @@
 冬弥: 俺からも頼む。 きっと、今日の思い出になると思うんだ
 女の子: …………わかった
 みのり: えへへ、やった！　じゃあ、行こう！
-(Black cut)
+(Black transition)

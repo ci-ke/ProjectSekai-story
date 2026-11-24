@@ -11,10 +11,8 @@ Gacha phrase: ちゃんと自分と向き合って、描き切れた
 
 絵名: （またみんなに心配かけちゃった……）
 絵名: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: あそこに行って、サボってた時間の長さを実感しちゃった
 絵名: 周りの子達は、自分の描きたい物を 自分の力で表現してて——
@@ -23,46 +21,40 @@ Gacha phrase: ちゃんと自分と向き合って、描き切れた
 絵名: でも……体が、ついてこない。 本当は、あの場所に行くのがすごく怖くって、ずっと震えてる
 絵名: 周りの子達よりも描けないし、酷評されるのがわかってるし、 ——なにより、私が私を許してくれなくって
 絵名: なんであの時、逃げ出しちゃったんだろう……って、ずっと
-(White cut)
+(White transition)
 奏: 絵名は、逃げてたわけじゃないんじゃないかな
 奏: たしかに、ニーゴでイラストを描いてても、 何かの勉強になったり、技術を伸ばしたりは できなかったかもしれない
 奏: でも絵名の絵は、出会った時よりずっと良くなってる。 わたしとまふゆの曲を聴いてイメージしたものを 絶対に表現しきろうっていう気持ちが伝わってくるよ
-(White cut)
+(White transition)
 瑞希: ボクもね、最近の絵名の絵を見ると思うんだ。 絵名は絵が大好きで、表現したいものが たくさんたくさんあるんだろうなぁって
-(White cut)
+(White transition)
 まふゆ: 昔の絵名の絵は、 わざわざ汚い色を使ったり、歪んだ線を引いたり 何を表現したいのかわからないことがあった
-(White cut)
+(White transition)
 まふゆ: 伝えたいことが見えない時はあるけど、 昔よりはわかるから
-(White cut)
+(White transition)
 リン: 本当に絵名が逃げてるのなら、 こんなにたくさん描けないと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （みんなのおかげで、少し気持ちが楽になったな……）
 絵名: （やっぱり、みんなが信じてくれてるって思うと、 心強いな）
 絵名: （前に、私が自棄になっちゃった時だって……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『わっ、懐かしー！ この花飾りの女の子のイラスト、いつ見てもいいよね！』
 奏: 『うん。少女自身は後ろを向いてるけど、 背景や花の髪飾りの雰囲気で、 どんな表情をしているのか想像できてすごく良かった』
-(White cut)
+(White transition)
 (Background change)
 奏: 『この時作ってたのは、聴く人によって 受け止めかたが変わるだろうなって思ってた曲だった』
 奏: 『だから、イラストのほうも 想像の余地がある物に仕上げてもらえて、 楽曲的にもすごくマッチしてたと思う』
 絵名: 『けど、この構図にたどり着くのに時間かかっちゃって、 それで、予定よりアップが遅れちゃったんだよね』
 奏: 『でも、待つ意味も価値もあるイラストだった』
-(White cut)
+(White transition)
 奏: 『……どうしても、伝えておきたかったから』
 奏: 『えななんのイラストは、おまけなんかじゃないって』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （あの時も、本当に嬉しかったな……）
 絵名: …………
@@ -75,38 +67,30 @@ Gacha phrase: ちゃんと自分と向き合って、描き切れた
 絵名: （でも……）
 絵名: （そこから逃げたって 全然楽にならないってことも、もう知ってる）
 絵名: 私は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 父親: 絵を描き続ける限り—— お前が感じている苦しみは続くことになる
 父親: 納得できるものが描けない、何も生み出せないかもしれない。 その苦しみと、この先も向き合い続けることができるのか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 私は、もう逃げたくない——
 絵名: ……絵を描き続ける限り、 これからもずっとずっと続くのかあ
 絵名: あはは。めちゃくちゃしんどそう……
 絵名: （それでも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （みんなが信じてくれてる）
 絵名: （何より、“描きたい”って思ってるのは私なんだから）
 絵名: …………
 絵名: よし……
 絵名: また明日、頑張ろう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,24 +105,20 @@ Gacha phrase: ちゃんと自分と向き合って、描き切れた
 絵名: よし。筆とパレットと絵具、 それぞれの質感を意識しながらデッサンしてみよっと
 絵名: あとは雪平先生に言われた客観視と、陰影も気をつけないと
 絵名: （なんか、こういう基礎練習するのも すごく久しぶりだな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 私……まだ、うまくなれますか？
 絵名: ずっと——もう、間にあわないんじゃないかって……。 絵から逃げてきたこと、後悔してて……、 でも……
 雪平: ……うまくなれるかどうかは、私にはわかりません
 雪平: しかし、向きあおうとする意志がある限り、 可能性は消えません
 絵名: …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （——結局、全部自分次第。 私が行動しなきゃ前には進めないんだから）
 絵名: ……よし
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -169,25 +149,25 @@ Gacha phrase: ちゃんと自分と向き合って、描き切れた
 絵名: 『……全然、気持ちがこもってないんだけど？』
 (Background change)
 瑞希: 『あははっ！』
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 絵名の部屋)
 絵名: （構図、何度か切りなおしてみたけど、 もともとの構図が一番良さそう）
 絵名: （……よし、基本的なところに立ち返ってみよう）
 絵名: （奥行きや距離感を意識して……。 境界とかコントラストも、今よりもっとメリハリをつけて……）
-(Black cut)
+(Black transition)
 (Background change)
 絵名: もう、今日に限って授業長引くなんて！ すっかり遅くなっちゃったじゃない
 絵名: （着替えはいいや、昼の続きをやらないと！）
 絵名: （やっと見せたいイメージに 近づいてきたところだったんだよね）
 絵名: （でも、全体的にのっぺりした感じだから、 もっと奥行きをはっきりさせないといけなくて——）
-(Black cut)
+(Black transition)
 (Background change)
 絵名: （だいぶ形になってきた……）
 絵名: （ラフにしては ちょっと描きこみすぎな気もするけど……）
 絵名: （ううん。遅れちゃってる分、 細かいところのニュアンスも確かめたいし、 このままいこう）
 絵名: （あと必要なのは——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後　25時]
@@ -220,4 +200,4 @@ Gacha phrase: ちゃんと自分と向き合って、描き切れた
 絵名: （でもこれがきっと、今の私の限界なんだ）
 絵名: （雪平先生の言うとおり、基礎をもう一度見直して、 ちゃんと勉強しなくちゃ——）
 絵名: （奏やまふゆの曲の世界観を 私が思い描くとおりに、ちゃんと表現できるように！）
-(Black cut)
+(Black transition)

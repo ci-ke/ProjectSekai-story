@@ -22,7 +22,7 @@
 一歌: （３人とも、楽しそう）
 一歌: （去年の今頃は、こんな風にみんなと 初詣に行けるなんて思ってなかったから、嬉しいな）
 一歌: （……そうだ。私の願いごとは……）
-(Black cut)
+(Black transition)
 咲希: よーし、初詣も終わったことだし、 みんなでいろいろまわってみよー！
 志歩: 咲希、練習終わってからそればっかりだよね
 咲希: だって、ずーっと楽しみだったんだもん♪
@@ -50,13 +50,13 @@
 ミク (Ln): 『……あ、それもそっか。 じゃあ、お願いしようかな』
 志歩: うん、任せて
 穂波: じゃあ、ルカさんの分からいきますね！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000042/bg_a000042.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000042/bg_a000042.webp)
 穂波: ……って、あれ！？ だ……大凶……！？
 ルカ: 『あら……』
 志歩: 大凶なんて初めて見た……
 穂波: ご、ごめんなさい……！ わたしのせいで、ルカさんの今年の運勢が……っ！
-(White cut)
+(White transition)
 (Background change)
 ミク (Ln): 『大丈夫だよ、穂波。 おみくじなんだし、そこまで気にしなくてもいいって』
 ルカ: 『ミクの言うとおりよ。それに、ほら “努力すれば報われる”ってちゃんと書いてあるもの』
@@ -74,7 +74,7 @@
 咲希: え～！　おいしいのに～！
 一歌: ……ていうか、穂波どうしたの？ この世の終わりみたいな顔してるけど
 穂波: うう～……
-(Black cut)
+(Black transition)
 咲希: 初詣、すっごく楽しかったね！
 穂波: うん、そうだね。 いろいろあったけど……
 志歩: 穂波、気にしすぎだって
@@ -90,7 +90,7 @@
 咲希: すごいすごい！ こんなことってあるんだねー！
 ミク (Ln): 『ふふ。みんなの想いは、あの歌を見つけた時から 変わってないみたいだね』
 ルカ: 『ええ、そうみたいね』
-(Black cut)
+(Black transition)
 穂波: じゃあ、そろそろ帰ろっか
 一歌: うん、そうだね
 一歌: ……また来年も、みんなで初詣に来られたらいいな
@@ -105,6 +105,6 @@
 ルカ: 『そうね。今年もきっといろいろあるだろうけど——』
 ルカ: 『この子達の成長を、一緒に応援していきましょうね』
 ミク (Ln): 『——うん！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000043/bg_a000043.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000043/bg_a000043.webp)
+(White transition)

@@ -12,7 +12,7 @@ Kanade: <Yes. And I've made a decision.>
 Kanade: <I'm going to make a song for Yuki. I want to save her.>
 (Background change)
 Ena & Mizuki: <Huh?>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <I see. So you talked to Miku...>
 Mizuki: <And she says Yuki doesn't really want to disappear.>
@@ -44,7 +44,7 @@ Kanade: <Yeah.>
 Kanade: <Thank you for listening, Enanan.>
 (Background change)
 Ena: <.....>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -58,25 +58,21 @@ Kanade: (This song I'm writing for Yuki might end up doing the same thing to her
 Kanade: (If my music ends up hurting someone again...)
 Kanade: (No...)
 Kanade: (Miku told me herself.)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Miku (N25): However, I am sure that if anything is able to help her...it will be your music.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: (I put myself into my music—my desire to give happiness to others with my songs.)
 Kanade: (Maybe that kind of music doesn't really have the power to save anyone.)
 Kanade: (Even so, I still want to believe what Miku said is true.)
 Kanade: (I want to save Yuki with my music. For real this time.)
-(Black cut)
+(Black transition)
 Kanade: I'm done.
 Kanade: I need to let Amia know.
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <K! Have you really finished the song?!>
 Kanade: <Yeah.>
@@ -102,4 +98,4 @@ Ena: <Make sure you come back, okay?>
 Mizuki: <Of course! Alright, K! Let's go!>
 (Background change)
 Kanade: <Yeah. Let's go see Yuki.>
-(Black cut)
+(Black transition)

@@ -3,7 +3,7 @@
 (Character: Toya Aoyagi, KAITO)
 
 (Video: link_street_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -27,17 +27,13 @@ Toya: But what's their flyer doing here in SEKAI...?
 Toya: (On closer inspection, it seems only their team name is written here.)
 Toya: (There's no information regarding when or where it is, or who else is performing. Not only that, it's starting to fall off.)
 Toya: (What if this means...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (VBS): Is something wrong, Toya?
 Toya: “What if Tono isn't coming back...?”
@@ -57,19 +53,15 @@ Toya: A little while back, KAITO, you told me that we share some similarities wi
 Toya: You said you saw similarities in how he cares about his partner very much and seems very serious about surpassing RAD WEEKEND.
 KAITO (VBS): Yes, I remember saying that.
 Toya: That day, Tono...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: So, Arata, let me ask you this. Who are you really singing for?
 Taiga: You're not trying to make Soma's dreams come true. You can't face the pain of having lost him, so you're just clinging to his dreams.
 Taiga: Am I wrong...?
 Arata: ...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: After Taiga said that...Tono disappeared.
 Toya: But I've been thinking about that.
@@ -93,4 +85,4 @@ KAITO (VBS): A strange flyer? Huh...? No, this is...something else.
 Toya: Huh?
 KAITO (VBS): It's sheet music!
 Toya: Sheet music...?
-(Black cut)
+(Black transition)

@@ -22,7 +22,7 @@ Akito: I'm sorry, but I was asked to do something urgent so you'll have to ask s
 Tsukasa: Darn... There he goes. But did you see how fast he is? I mean, look at that acceleration!
 Red Squad Captain: Yes, his speed is tremendous! Isn't there a way for us to get him to join the red cheer squad?
 Tsukasa: Despite his outward appearance, he's a very understanding person. We'll just need to remain firm and keep trying!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -45,7 +45,7 @@ Tsukasa: Ah, I see. I'll have to come back later. Until then, farewell!
 Akito's Classmate B: He said he's gonna come back.
 Akito's Classmate A: Sounds like he isn't stopping until he gets a chance to talk to you.
 Akito: Grr... Why's this happening?
-(Black cut)
+(Black transition)
 
 [Lunch break]
 
@@ -59,7 +59,7 @@ Akito: Oh...
 Akito's Classmate A: Yikes... Busted!
 Akito's Classmate B: We'll be sure to clean up after you, Akito.
 Akito: Shut it!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -76,7 +76,7 @@ Akito: No, I'm not gonna...! Honestly, he never listens to what anyone says...!
 Toya: But why do you think he wants you to join so badly?
 Toya: There must be a reason behind him taking such a liking to you, Akito.
 Akito: Who knows?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -103,7 +103,7 @@ Akito: No running when push comes to shove, alright?
 Akito's Classmate A: We know!
 Akito's Classmate B: Okay, that settles that! Hey, the three of us would like to volunteer!
 Akito: *Sigh* Things are gonna settle down once I agree to this, right...?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -144,22 +144,18 @@ Mizuki: Haha. Yeah, I get what you mean.
 Mizuki: Unfortunately, Li'l Bro, I think you just jinxed yourself. Remember what happened at the Chocolate Factory?
 Akito: Yeah, yeah. Oh, Toya, mind lending me a hand with some stretches?
 Toya: Yes, of course.
-(Black cut)
+(Black transition)
 Announcer: The Kamiyama High School Sports Festival has begun! Our opening event is turning into a heated battle for first place between the red and blue teams!
 Akito: Alright, first one here...
 Announcer: Oh, Shinonome from the red team's got his assignment! Everyone, can you guess what it says?!
 Akito: Huh?!
 Assignment: “Someone with a very loud voice.”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Li'l Bro, I think you just jinxed yourself.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (You've gotta be kidding me...!)
 Mizuki: Someone! I need an accessory with a ribbon motif!
@@ -167,7 +163,7 @@ Akito: ...!
 Mizuki: Smell you later, Li'l Bro!
 Akito: Grr...! Why'd you have to go and do that, Ena...?!
 Akito: Ugh... Looks like I don't have a choice...
-(Black cut)
+(Black transition)
 Akito: *Sigh* It's only the first event and I already feel exhausted...
 Akito: (But I guess it all worked out in the end since I still somehow managed to get first...)
 Akito: Huh...?!
@@ -176,10 +172,10 @@ Akito: Hey, what are you taking a picture for? Also, why are you here?
 Ena: I left something here and came to get it. This one's to show Mom when I get home.
 Akito: What? She doesn't have to see that.
 Ena: Aww, but that scavenger hunt was so fun. I mean, look, my video turned out so well.
-(Black cut)
+(Black transition)
 Tsukasa: <Hah hah hah! We're cruising past everyone!>
 Akito: <I know! Please, just be quiet for a bit...!>
-(Black cut)
+(Black transition)
 Ena: What do you think? Outside of me shaking the camera by accident when Mizuki fell, it's pretty good, right?
 Akito: You had to go and take this too...?
 Ena: So? I got you basking in the limelight, didn't I? And you're in the cheering competition, right? I'm looking forward to seeing your performance.
@@ -194,4 +190,4 @@ Akito's Classmate B: Let's keep this up!
 Akito: Yeah, we're definitely in it to win it...
 Akito's Classmate A: Exactly! Let's go, red team!
 Akito's Classmate B: Yeah!
-(Black cut)
+(Black transition)

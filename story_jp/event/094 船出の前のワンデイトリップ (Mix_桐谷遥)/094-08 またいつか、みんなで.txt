@@ -59,7 +59,7 @@
 遥: （学校行事に出られるのは最後かもって、 そう思って、最初は少し寂しかったはずなのに……）
 遥: （そんなこと、すっかり忘れちゃうくらい楽しかった）
 遥: （——今日は、最高の思い出になったな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [夜]
@@ -89,8 +89,8 @@ KAITO: ありがとう、遥ちゃん。 美味しくいただくよ
 遥: ミク、よかったら写真見る？
 ミク (MMJ): いいの？　じゃあお願い！
 遥: うん。 これなんだけど——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000190/bg_s000190.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000190/bg_s000190.webp)
 ミク (MMJ): わあ、すてきな写真だね！ 海もきれいだし、遥ちゃん達のポーズもかわいい♪
 ミク (MMJ): 遥ちゃん、すっごく楽しそうだね。 写真からも伝わってくるよ
 遥: ふふ、そうだね。 すごく楽しかったよ
@@ -98,7 +98,7 @@ KAITO: ありがとう、遥ちゃん。 美味しくいただくよ
 遥: 仕事で忙しくなるかもって伝えたんだけど、 お互いさまだって
 遥: それが……すごく嬉しかったんだ
 ミク (MMJ): そっか……。 本当に、すてきな友達なんだね！
-(White cut)
+(White transition)
 (Background change)
 遥: うん、本当に
 遥: ……私、短いあいだでも普通科にいって、本当によかった
@@ -110,4 +110,4 @@ KAITO: ありがとう、遥ちゃん。 美味しくいただくよ
 遥: （今日の思い出を、大事にしよう）
 遥: （単位制に戻ったとしても……一歌や咲希と、みんなと、 これからも友達でいたいから——）
 遥: （だから今は、この大切な気持ちをなくさずにいよう）
-(White cut)
+(White transition)

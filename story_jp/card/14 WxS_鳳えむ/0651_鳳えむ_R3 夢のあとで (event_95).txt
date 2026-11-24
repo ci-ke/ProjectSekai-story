@@ -19,26 +19,24 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 類: 役作りの一環として、日常生活も なるべくアヒルとしてすごしていたようですよ
 鳥役のキャストB: え、日常生活も！？
 えむ: クワワ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: クワッ、グワワワ！
 お手伝いさん: はい、気をつけていってらっしゃいませ
-(Black cut)
+(Black transition)
 (Background change)
 えむ: グワグワ～ッ！
 クラスメイト: わ、今の腕の動きすごい！ なめらかっていうか、羽っぽく見えた！
 クラスメイト: 最初に見せてもらった時より、ずっと上手になってるね
 えむ: グワッ☆　グワッワッワッ～♪
-(Black cut)
+(Black transition)
 (Background change)
 えむ: クワワ……。 ——グワッ！
 えむ: クワ、クワワ～♪
 アヒル: クワッ！　グワグワ？
 えむ: グワワ、グワ～♪
-(Black cut)
+(Black transition)
 (Background change)
 えむ: グワッ！　グワッ！　グワッ！
 女の子: あー！ ワンダーステージのお姉ちゃん、アヒルさんになってる！
@@ -46,10 +44,8 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 えむ: グワ！　グワワ～ワワ～っ☆
 女の子: あはは！　いいよ、だって！
 男の子: やった！　グワッ！　グワッ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 鳥役のキャストA: そっか……役としてすごす時間をとにかく増やして、 アヒルに近づけるよう努力したんだね
 鳥役のキャストB: それで、うちの演出家も褒めてたのか……！
@@ -74,7 +70,7 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 鳥役のキャストA: うん、きっと大丈夫だよ！
 鳥役のキャストB: 楽しいショーにするために、今日からの稽古も頑張ろうね！ 神代くんもよろしく！
 えむ・類: 『はーいっ☆』 『はい』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -86,10 +82,8 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 えむ: えへへ……練習ないのに、来ちゃった
 えむ: すごかったな、昨日の千秋楽……。 お客さん達も、わんだほいなにこにこ笑顔になってくれて
 えむ: 司くんも櫻子ちゃんも寧々ちゃんも、 みーんな、キラキラしてて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 櫻子: もちろん、この舞台の話題の中心は私とリオよ。 だって私達は、この物語の主役だったのだから
 櫻子: けれど—— あなたの演技と歌は、私達の後押しをしてくれた
@@ -97,29 +91,23 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 櫻子: ええ。 リオがフェニックスを刺してしまいそうになる、あの場面——
 櫻子: 私は、観客と呼吸がひとつになるのを感じたの
 えむ: 呼吸がひとつに……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: 司くんも寧々ちゃんも、本当にすごいなあ……
 えむ: （そういえば、類くん言ってたな）
 えむ: （あたし達だけだとわからない専門的なことを 教えてもらえるから、外部で公演するのもいいねって）
 えむ: （外部って、ワンダーステージじゃないところ……だよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: えむくんは、もしもふたりが ワンダーステージを出たいと言ったら…… ついていこうとは思わないのかい？
 えむ: 思わないよ
 えむ: だって、あたしの夢は おじいちゃんの遊園地を守ることだから
 えむ: 守って……笑顔でいっぱいにすることだから！
 類: …………。 ……そう、だったね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……あの時、類くんに言ったことは、うそじゃない。 あたしの夢は……ずっとずっと、変わってないから）
 えむ: （でも……）
@@ -127,22 +115,18 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 えむ: （ふたりの夢は、世界で活躍する役者さんになることだから）
 えむ: （ちょっぴり寂しいけど……きっと大丈夫）
 えむ: （あ、だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: えむくんは、もしもふたりが ワンダーステージを出たいと言ったら…… ついていこうとは思わないのかい？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………
 えむ: （類くん、どうしてあんなこと聞いたんだろう？）
 えむ: （……あたし、ひょっとして寂しそうな顔しちゃってたかな？ だから、心配して聞いてくれたのかも……）
 えむ: えへへ。次の練習の時、ありがとうって言お～っと♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーステージ]
@@ -166,4 +150,4 @@ Gacha phrase: 守って……笑顔でいっぱいにしたいんだ！
 類: 昨日……お礼を言われるようなこと、したかな？
 えむ: えへへ。あたしが言いたかっただけだから、気にしないで♪
 えむ: よ～っし、練習、がんばるぞ～っ！
-(Black cut)
+(Black transition)

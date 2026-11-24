@@ -20,7 +20,7 @@ Nene: *Nod* I was also looking for books that include actual scripts, though. I 
 Toya: Ah...
 Toya: In that case... Please wait here for just a moment.
 Nene: Huh? Aoyagi...?!
-(Black cut)
+(Black transition)
 
 [A few minutes later]
 
@@ -36,7 +36,7 @@ Toya: I've never really sewed anything before... But my classmates have been tea
 Toya: That reminds me. They gave me some tips on how to tie thread knots. I'm still practicing, but I should be able to master it soon.
 Nene: Hehe. That's great. Best of luck with your prep, Aoyagi.
 Toya: Thank you. Let's make the festival a good one.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -54,7 +54,7 @@ Nene: *Sigh*
 Nene: (I didn't realize coming up with a story from scratch would be this difficult. I should've helped Tsukasa and the others more when they were writing theirs...)
 Nene: (I might not be able to do this all on my own...)
 Nene: (I think I'll head over to SEKAI. I'm not gonna come up with any good ideas while feeling stuck inside my room...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -70,24 +70,20 @@ Nene: Oh, okay. I didn't realize they already told you...
 Nene: My class is making a film. Which is giving me some trouble...
 MEIKO (WxS): Oh, did something happen?
 Nene: So...
-(Black cut)
+(Black transition)
 KAITO (WxS): Wow. With you as the director...?
 Len (WxS): Cool! That means you get to make all the decisions and stuff, right?
 Luka (WxS): You're in charge of bringing everyone's ideas together and leading them in the right direction... That's so wonderful.
 Miku (WxS): Yeah, it is☆ You've got a good head on those shoulders, Nene, so I'm sure you'll do an amazing job as the director!
 Nene: You think so...? I haven't been doing so well.
 Nene: I mean, when we were coming up with ideas for our film the other day...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Male Students: Wait, can't we just do all of them?!
 Nene: What?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: Things got really out of hand, which made me wonder how I'm going to do as the director...
 KAITO (WxS): Y-Yes, I see. That must've been very challenging...
@@ -118,15 +114,11 @@ MEIKO (WxS): Hehe. That's right! Sometimes, people form bonds and friendships wi
 MEIKO (WxS): But I don't think shows are the real reason why you were able to become friends with them.
 MEIKO (WxS): I believe it's because you got to know them better after spending time with them.
 Nene: Because I got to know them...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: When I first met them, I thought they were way too eccentric for their own good...
 Nene: But it didn't take long for me to realize that they both had dreams they were working hard to make come true...
@@ -147,12 +139,12 @@ Nene: I was hoping that you could all help me come up with a good story...
 Len (WxS): Yeah, of course! Can you show us your notebook?!
 KAITO (WxS): Wow, so many ideas... Oh, you've decided on an action film?
 Len (WxS): What?! Action?! That means...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000256/bg_s000256.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000256/bg_s000256.webp)
 Len (WxS): Your main character's gotta be cool and strong!
 Len (WxS): A hero who helps those in need and fights to protect them... A hero who doesn't give up! Even when fighting against a really tough opponent!
 Len (WxS): I really love those kinds of stories!
-(White cut)
+(White transition)
 (Background change)
 Luka (WxS): Really...? I didn't know that, Len.
 Len (WxS): Yup! This manga Tsukasa lent me recently was like that. It was so cool!
@@ -163,4 +155,4 @@ Nene: W-Wait, a cook...?
 Rin (WxS): Oh, that sounds fun! Then, the enemies could also be cooks, and...
 Nene: (I-I'm not sure how to feel about this...)
 Nene: (But with their help, I might be able to get a synopsis ready by tomorrow...)
-(Black cut)
+(Black transition)

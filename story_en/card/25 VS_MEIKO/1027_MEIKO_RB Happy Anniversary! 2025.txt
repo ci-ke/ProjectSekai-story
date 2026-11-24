@@ -16,7 +16,7 @@ Luka (WxS): Maybe one where there are suddenly a hundred MEIKOs?
 MEIKO (WxS): A hundred of me?! I feel like I'd be able to do anything, with that many of myself around!
 KAITO (WxS): Ah, look! It's starting!
 Miku, Rin & Len: Okay!
-(Black cut)
+(Black transition)
 Girl (Nene): “Oh no... What should I do? The sun's already done down.”
 Narrator (Rui): “For this young girl, a night all alone held nothing but terrors. Even the bustling town streets seemed like a parade of terrible giants.”
 MEIKO (WxS): (Poor thing...)
@@ -42,7 +42,7 @@ Girl (Nene): “Wow, you're right!”
 MEIKO (Emu): “Hehe, there's a smile. Okay, let's get your shopping done! I know a place nearby that sells cheese...”
 Luka (WxS): Hehehe... She's just like you, MEIKO.
 KAITO (WxS): Yes. Considerate, bright and cheerful, and kind.
-(Black cut)
+(Black transition)
 Girl (Nene): “MEIKO! Thank you for bringing me home!”
 MEIKO (Emu): “Hehe, it was no problem at all. I had fun, too! See you around!”
 Girl (Nene): “Oh, please wait a moment!”
@@ -53,7 +53,7 @@ Girl (Nene): “Yes. Thank you for rescuing me.”
 Girl (Nene): “You showed me not all scary things are scary, and taught me so much... I'm so glad I met you!”
 MEIKO (Emu): “I'm glad, too!”
 MEIKO (Emu): “Now, your parents must be waiting, so hurry on home. And wish them a happy anniversary from me!”
-(Black cut)
+(Black transition)
 Rui: Hehe. Did you enjoy our performance?
 MEIKO (WxS): I was so surprised to see myself appear in your show! Thank you for this wonderful present!
 Tsukasa: Oh, it's too early for thanks just yet! We have more presents for you!
@@ -80,14 +80,14 @@ Miku (WxS): Yay! I wanna see!
 Nene: Here, everyone get in close so you can all see.
 MEIKO (WxS): (I wonder if the me from their world has lots of people around her to celebrate, too.)
 MEIKO (WxS): (Hehe, not only do I get to see a show starring myself, I get to see a show from another me. This has already been so much fun!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [VIRTUAL SINGER Stage]
@@ -104,7 +104,7 @@ MEIKO: MEIKO's anniversary show starts now!
 Miku, MEIKO & Luka: ♪————!!! ————!!!
 Miku & Luka: ♪——————!!!
 MEIKO: ♪ーーーーーーーー!!!
-(Black cut)
+(Black transition)
 MEIKO: Phew. Thanks for getting pumped up, everybody!
 MEIKO: Thanks to you too, Miku, Luka.
 MEIKO: Now... Time to share today's concept with everyone!
@@ -120,7 +120,7 @@ Rin: Yeah! We're going nonstop from here, everyone!
 Len: Let's hype it up with MEIKO!
 MEIKO: Thank you! Let's heat this place up!
 MEIKO: Start the music!
-(Black cut)
+(Black transition)
 MEIKO & KAITO: ♪——————!!!
 MEIKO: KAITO! Thanks for joining me for the last song!
 KAITO: It was an honor to join you for the finale.
@@ -134,8 +134,8 @@ KAITO: But you should know, we have one more present for you today!
 MEIKO: Another present?
 Luka: Yes. We wanted to be sure our feelings came across properly, so we all prepared messages for you.
 Luka: MEIKO. I hope you accept these feelings of gratitude.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000373/bg_s000373.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000373/bg_s000373.webp)
 Miku: Happy anniversary, MEIKO!
 Miku: It's so amazing how you face each and every fan head-on to be the very best you can be for them. Let's do another show together soon!
 Rin: Happy anniversary, MEIKO! Your show today was the coolest!
@@ -147,7 +147,7 @@ Luka: Of course, that includes me too. I'm sure I'll keep leaning on you from ti
 KAITO: MEIKO, congratulations! Your anniversary show was amazing.
 KAITO: You always shine, but when you're on stage, you're even more brilliant than usual. I'm sure all your fans noticed it, too.
 KAITO: I'm so glad we were able to contribute to such an important show for you. Here's to many more!
-(White cut)
+(White transition)
 (Background change)
 MEIKO: Thank you for the wonderful messages, everyone. The show isn't even over, and I'm already tearing up.
 MEIKO: Thank you for coming to watch today's show, everyone! Personally, I think it came out great. What do you think?
@@ -162,4 +162,4 @@ MEIKO: I'm going to pay you all back plenty once we're done here, so be ready!
 MEIKO: That's the end of our show today, everyone. I hope you'll come listen to us again sometime soon!
 MEIKO: Thank you all so much! Let's meet again. Bye bye!
 Everyone: Bye bye!
-(White cut)
+(White transition)

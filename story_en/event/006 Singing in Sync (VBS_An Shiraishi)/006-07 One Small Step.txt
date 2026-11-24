@@ -8,32 +8,24 @@
 
 Kohane: (Homeroom ended earlier than I expected...)
 Kohane: (What should I do until our meetup time...?)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Minori: We're still rookies, but we have other group members that we can rely on.
 Minori: So let's keep asking them for advice! We just have to keep trying our best!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Should I really turn to them for help...?)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 MEIKO: If you're worried about something, maybe I can offer some advice?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Oh, right...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -45,7 +37,7 @@ MEIKO: Oh, Kohane. Welcome!
 MEIKO: Tell me about your event. How did it go?
 Kohane: That's exactly what I came here for... Yesterday was a disaster because of me.
 MEIKO: Huh?
-(Black cut)
+(Black transition)
 Kohane: We may've had a chance of winning if I only managed to sing properly...
 MEIKO: I see...
 Kohane: Everyone's hard work was all wasted because of me...
@@ -104,4 +96,4 @@ Kohane: (I have to catch up to the others as soon as possible... No, not just ca
 MEIKO: Hehe. It's good to see you in high spirits again.
 MEIKO: Would you like some more tea?
 Kohane: Yes, please!
-(Black cut)
+(Black transition)

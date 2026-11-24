@@ -22,17 +22,15 @@ Ena: (Which makes sense. It's the beginning of a new year and a chance for a fre
 Ena: (But it's like nothing's changed for us. We're also having the opening ceremony in the gym, but it's gonna be so dull since there's never anyone there.)
 Ena: (Honestly, it doesn't really feel like I've become a third-year.)
 Ena: (But griping like this won't change anything. I should just head over...)
-(Black cut)
+(Black transition)
 (Background change)
 Ena: Hm? Isn't that...?
 Ena: Hey, aren't these the new class rosters...? Did the teachers forget to take them down?
 Ena: And they're tiny. I'm guessing everyone had to crowd around these just to see which classes they were put in.
 Ena: (That takes me back...)
 Ena: (I remember crowding around these with friends to see where I was up through junior high.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate A: Hmm... Any luck, Ena?
 Junior High School Ena (Ena): Nope. How about you?
@@ -47,10 +45,8 @@ Classmate A: Haha! I get that you love to draw, Ena, but you really gotta exerci
 Junior High School Ena (Ena): Shut up. You can't show me a little sympathy?
 Classmate A: Based on that, I take it you're just fine now. Oh, there's our opening! Let's go!
 Junior High School Ena (Ena): Hey, wait!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Just seeing which classes we were in was a huge pain, but it was also pretty exciting at the same time.)
 Ena: (And it's always fun to see who your new classmates are. I remember talking on and on about being placed in the same class as certain people.)
@@ -67,7 +63,7 @@ Ena: Are they friends? I forget...
 Ena: (And Shiraishi's in a different class. That's a bit of a shame since Mizuki said they get along pretty well...)
 Ena: (But Toya's really nice and considerate... It's interesting how he can be a little absent-minded sometimes, so I'm sure they'll have fun together.)
 Ena: Hehe. I think I'll bring this up when I get home before we start working tonight.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -144,4 +140,4 @@ Ena: <Then, I'll also get started.>
 (Background change)
 Mizuki: <Alright, talk to you again at 25:00.>
 Ena: <Okay.>
-(Black cut)
+(Black transition)

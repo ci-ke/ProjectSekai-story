@@ -22,19 +22,15 @@ Skill name: だめだめDay
 先生: はい、授業始めますよ～。みなさん席について
 遥: あ……先生来ちゃった。 それじゃみのり、授業中は寝ないようにね
 みのり: うん！　心配してくれてありがとう、遥ちゃん！
-(Black cut)
+(Black transition)
 
 [30分後]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……ふふっ
 みのり: （ドルラバ、楽しかったなあ）
@@ -54,14 +50,14 @@ Skill name: だめだめDay
 みのり: ……すみません……わかりません……
 先生: ……そうですか。 ちゃんと集中するように
 みのり: はい……
-(Black cut)
+(Black transition)
 先生: それでは、先週出した宿題を回収します
 みのり: え、宿題……！？
 みのり: （はっ、そういえば古典の現代語訳の宿題が出てた気が……！）
 先生: ……花里くん、宿題は？
 みのり: あ、えっと……昨日やるつもりだったんです！ けど、そのぅ……
 みのり: …………わ、忘れました……
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -84,7 +80,7 @@ Skill name: だめだめDay
 クラスメイト達: はいはーい、私達も！ みのりのためにひと肌脱いであげる！
 みのり: みんな……ありがとう！
 みのり: よ～しっ、 午後からは気持ちを切り替えて、がんばるぞ～！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -97,7 +93,7 @@ Skill name: だめだめDay
 みのり: （しかも——モアモアハウスに 明日の宿題のプリントも忘れちゃってるなんて！）
 みのり: ……でも、ちゃんと家に帰る前に気づいたのはよかったな
 みのり: 明日提出だから、今度こそ忘れないようにしないと……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [モアモアハウス]
@@ -156,4 +152,4 @@ Skill name: だめだめDay
 みのり: （……がんばろう……！）
 みのり: （昨日の愛莉ちゃんみたいに…… 最高のアイドルを目指して！）
 みのり: （わたしも、もっともっと輝きたいから……！）
-(Black cut)
+(Black transition)

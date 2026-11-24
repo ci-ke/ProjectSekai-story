@@ -20,7 +20,7 @@ Haruka: Huh?
 Len (MMJ): MEIKO, KAITO was just looking for you! He wanted to make some changes to his workout routine.
 MEIKO (MMJ): Really? I'll go find him now! Thank you, Len!
 Len (MMJ): (Sorry, KAITO...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -41,7 +41,7 @@ Mizuki: <So, Yuki, have fun! We'll see you again tomorrow.>
 Mafuyu: <Okay, see you all tomorrow.>
 (Background change)
 Mizuki: (You've got this, Mafuyu...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -68,7 +68,7 @@ Shizuku: Actually, these are all things that my grandmother taught me.
 Mafuyu: Your grandmother?
 Shizuku: Yes, so... The truth is, I've always been a grandma's girl. Chiefly because my parents were away so much when Shii and I were little. She looked after us while they were gone.
 Shizuku: She taught me how to do quite a few of her many hobbies, and embroidery was one of them.
-(White cut)
+(White transition)
 (Background change)
 
 [Community Center]
@@ -88,13 +88,13 @@ Grandmother: Hehe. I'm making...
 Grandmother: New clothes for you and Shiho♪
 Little Shizuku (Shizuku): What?! You're making new clothes?
 Grandmother: Yes, I was just embroidering some flowers into the collars.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000404/bg_s000404.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000404/bg_s000404.webp)
 Little Shizuku (Shizuku): Wow, look at all the little flowers! They're so adorable...!
 Little Shizuku (Shizuku): Can I watch you while you work on these, Grandma?
 Grandmother: Of course. Just be careful not to get poked by my needle.
 Little Shizuku (Shizuku): Okay!
-(White cut)
+(White transition)
 (Background change)
 Little Shizuku (Shizuku): ...
 Little Shizuku (Shizuku): (Oh...)
@@ -110,4 +110,4 @@ Grandmother: So, this time is very precious to me.
 Little Shizuku (Shizuku): I didn't know that...
 Grandmother: Hehe. If you're interested, Shizuku, would you like to embroider with me?
 Little Shizuku (Shizuku): ...! Yes, I want to give it a try...!
-(Black cut)
+(Black transition)

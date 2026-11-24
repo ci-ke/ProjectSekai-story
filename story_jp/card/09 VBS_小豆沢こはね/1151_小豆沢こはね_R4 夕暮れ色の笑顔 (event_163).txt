@@ -59,7 +59,7 @@ Gacha phrase: ……もう、忘れないようにしよう
 杏: 冗談でしょ！ 相棒だけに危ない事させられないから！
 杏: ていうか、ひとりで置いてかれるのも怖い！
 彰人: 決め顔で言うことかよ
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -76,7 +76,7 @@ Gacha phrase: ……もう、忘れないようにしよう
 杏: うん！　これで安心して過ごせるよ！ こはねも彰人も冬弥もありがとね！
 杏: あ、そうだ！　昨日は幽霊のこと考えて ずっとそわそわしちゃったし、 今日の夜はパジャマパーティーして楽しもうよ！
 こはね: わ、いいね！ じゃあ、お菓子や飲み物を買ってこなくちゃ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -91,7 +91,7 @@ Gacha phrase: ……もう、忘れないようにしよう
 こはね: （でも——）
 こはね: （私だって、まだまだいける……！）
 こはね: ♪——～～～～！！　♪——————！！！！　
-(Black cut)
+(Black transition)
 こはね: はあ、はあ……。 ミクちゃん、練習に付き合ってくれてありがとう！
 ミク (VBS): こっちこそ、ありがとね。 まるでイベント本番みたいに歌えて、すごく楽しかったよ
 ミク (VBS): 特に、ワンフレーズずつ交代で歌ってたところとか、 こはねの勢いにあおられて、私もだいぶ熱くなっちゃった
@@ -99,15 +99,11 @@ Gacha phrase: ……もう、忘れないようにしよう
 こはね: （……本当に、ミクちゃんの歌って まっすぐ心に響いてくるな）
 こはね: （ううん。歌だけじゃなくて、言葉もだ）
 こはね: （何度助けてもらったか、わからないくらい——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: あ……
 ミク (VBS): ……こはね？ 頑張りすぎて、ちょっと疲れちゃった？
@@ -118,10 +114,8 @@ Gacha phrase: ……もう、忘れないようにしよう
 こはね: まだ私が、杏ちゃんと一緒に歌いたいっていう覚悟が できてなかった時に、ミクちゃんが言ってくれた言葉だよ
 ミク (VBS): ああ、あの時の——
 ミク (VBS): ねえ、実は私達、こはね達に呼び掛けてたんだけど それは聞こえた？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (VBS): ——こはね！　こはね、聞こえる？
 レン (VBS): どうなってるんだ！？　杏達、全然反応しない！
@@ -143,24 +137,18 @@ MEIKO (VBS): 落ち着いて、ふたりとも。 きっとあの想いの欠片
 ルカ (VBS): ……大丈夫。みんなは絶対に帰ってくる！
 KAITO (VBS): ボク達だってついてるからね！
 MEIKO (VBS): ええ！　ミクの言う通り、信じて待ちましょう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……私達が目を覚ますまで、 そうやって声をかけてくれてたんだね
 こはね: ……あ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 『—————……ね！』
 こはね: （え…………）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……そうだ！ ミクちゃんの声、聞こえたよ！
 こはね: なんだかすごく聞こえづらくて、 夢の中で聞いた時は思い出せなかったけど
@@ -172,4 +160,4 @@ MEIKO (VBS): ええ！　ミクの言う通り、信じて待ちましょう
 こはね: だから——
 こはね: 本当に、ありがとう……！
 ミク (VBS): どういたしまして
-(Black cut)
+(Black transition)

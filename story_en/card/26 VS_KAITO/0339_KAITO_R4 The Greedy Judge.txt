@@ -9,7 +9,7 @@ Gacha phrase: All rise...
 
 [Gates of the Hellish Yard]
 
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): I hear a gavel...
 Gallerian (KAITO): Does that mean a trial is about to start?
@@ -30,7 +30,7 @@ Gallerian (KAITO): (If there is anything that I am guilty of, it is for having t
 Gallerian (KAITO): (Or is it because I did not cherish my wife enough? Or for not going on that trip with her and Michelle?)
 Gallerian (KAITO): ...
 Gallerian (KAITO): (If I chose differently then, would my future also have turned out differently?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [One day, in life]
@@ -48,7 +48,7 @@ Gallerian (KAITO): ... Fair enough. That money came from her side of the family 
 Gallerian (KAITO): And I have more pressing matters to attend to...
 Gallerian (KAITO): I am at long last the Director of the USE Dark Star Bureau. Not only that, I still need to read through these court documents.
 Gallerian (KAITO): First, I need to...
-(Black cut)
+(Black transition)
 ???: Daddy, are you still working...?
 Gallerian (KAITO): Michelle...?
 Gallerian (KAITO): No, dear, come in.
@@ -65,7 +65,7 @@ Gallerian (KAITO): It will still feel lonely. Please, be careful not to let any 
 Michelle: Oh, daddy, you're such a worrywart.
 Michelle: I promise to bring back plenty of souvenirs!
 Gallerian (KAITO): Thank you, Michelle. Have fun. Enjoy yourself.
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): My wife and Michelle took their trip... Across the ocean to my old home...
 Gallerian (KAITO): Michelle even called me every day like she promised, and told me about what happened each day in that cheerful tone of hers.
@@ -73,7 +73,7 @@ Gallerian (KAITO): She also finished each call with, “Let's talk more once I g
 Gallerian (KAITO): She seemed so happy whenever she called me.
 Gallerian (KAITO): However...
 Gallerian (KAITO): She never came back...
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): ...
 Gallerian (KAITO): Who goes there...?
@@ -110,10 +110,10 @@ Gallerian (KAITO): I...
 Gallerian (KAITO): I... I...
 Ma: Make up your mind, Gallerian Marlon...!
 Gallerian (KAITO): Michelle...
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): (If it means getting to see you again, I will gladly submit myself to a demon.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -130,23 +130,23 @@ Gallerian (KAITO): You must be so bored not being able to go outside. These shou
 Michelle?: ...
 Gallerian (KAITO): With me? Yes, we can read some together later.
 Gallerian (KAITO): I promise to work hard to make sure that we can.
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): Afterwards, when the servants returned, they froze when they saw my daughter.
 Gallerian (KAITO): I suppose anybody would. The departed had returned. Not without some lower-limb issues, but returned no less.
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): Just you wait, Michelle. Daddy promises to make your legs all better.
 Gallerian (KAITO): And so, I must find them all... The “Vessels of Sin”...
 Gallerian (KAITO): In order to accomplish that... I require more funds.
 Gallerian (KAITO): Gathering information and actually buying them off from others will not be cheap. Bribes may become necessary as well...
 Gallerian (KAITO): Regardless, no half measures.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Gates of the Hellish Yard]
 
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): ...
 Master of the Hellish Yard: ——————...
@@ -163,7 +163,7 @@ Master of the Hellish Yard: ——————...
 Gallerian (KAITO): My friends turned their backs on me?
 Gallerian (KAITO): That is because of their selfishness!
 Gallerian (KAITO): They simply could not understand just how much Michelle meant to me...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [In life]
@@ -181,16 +181,16 @@ Old Subordinate B: No, you did this to yourself.
 Old Subordinate B: Gallerian... In time, you must face the music.
 Old Subordinate B: It would only be fitting considering who you are.
 Gallerian (KAITO): ...
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): Soon afterwards, the media would get wind of the skeletons my cronies and I were hiding...
 Gallerian (KAITO): The people would not stand for this. They saw it as a signal to rise up against all forms of injustice, be it legal, political, economic, or military.
 Gallerian (KAITO): Some of them even had their sights set squarely upon me.
 Gallerian (KAITO): And then, I...
-(Black cut)
+(Black transition)
 Citizens: The evil general? Lock 'em up!! The greedy judge? Lock 'em up!!
 Citizens: Who's going on trial? Them!! Where's the gavel falling? On them!!
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): Trapped, like a rat...
 Gallerian (KAITO): ...
@@ -206,10 +206,10 @@ Gallerian (KAITO): Regardless of what awaits me on the other side, everything wi
 Gallerian (KAITO): After all, they say, “Money is the best lawyer.” Especially where I may very well end up.
 Gallerian (KAITO): As long as I have my money, I can continue gathering the “Vessels of Sin” even on the other side. I will come back for you.
 Gallerian (KAITO): We will be together again... We can finally be happy. I'm sure of it.
-(Black cut)
+(Black transition)
 (Background change)
 Master of the Hellish Yard: ...
-(Black cut)
+(Black transition)
 (Background change)
 Gallerian (KAITO): That will be it for my defense...
 Gallerian (KAITO): However, Master of the Hellish Yard, this farce of a trial and your pithy verdict will no longer be necessary.
@@ -218,4 +218,4 @@ Gallerian (KAITO): I have no intention of being judged by the likes of you.
 Gallerian (KAITO): Just you wait, Michelle...
 Gallerian (KAITO): I will get you back...
 Gallerian (KAITO): H-Haha... Hahahaha!
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@ Gacha phrase: I didn't realize the world's so beautiful.
 Ichika: (So many people from the clubs were doing stuff outside, but it's very quiet in here...)
 Ichika: (I guess it's natural since it's the middle of summer vacation. Only the people who planned to have club activities and such during this time are here.)
 Ichika: (At the same time, it was suddenly decided yesterday that we'd have practice at school today. What led to that exactly?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-C]
@@ -79,7 +79,7 @@ Minori: Awesome! Saki and the others were right!
 Ichika: What?
 Haruka: Hehe. Don't mind that part. Anyway, would you mind if we stopped by to watch?
 Ichika: Of course. So, I'll be at...
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -107,7 +107,7 @@ Ichika: ...
 Ichika: (The thought that everyone, including Miku and the others, is here to celebrate my birthday makes me so...)
 Miku (Ln): Ichika, have you had a chance to try this yet? It's really yummy.
 Ichika: It is? Then, I think I'll give it a taste.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -128,7 +128,7 @@ Honami: Hehe. I'm sure you'll do fine, Ichika. Just sing the way you always do.
 Ichika: (Hm? I could've sworn that I saw Kohane just now... Or am I imagining things?)
 Ichika: Alright, I'll get started.
 Minori & Saki: Woohoo!
-(Black cut)
+(Black transition)
 Ichika: Thank you very much!
 Ichika: Um, so... How was it? Did you all enjoy it?
 Haruka: Yes, it was very enjoyable. I even got to hear you play some originals that you said you and your band made.
@@ -186,8 +186,8 @@ Ichika: Oh...
 Saki: Wow, it's a rainbow! It's kinda far away but you can still see it!
 Ichika: Yeah, it's beautiful...
 Ichika: (Just so beautiful...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000103/bg_s000103.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000103/bg_s000103.webp)
 Ena: Happy birthday, Ichika. I saw that video of your street performance. You were so amazing.
 Ena: Let me know when you plan on doing another one. I really want to see you perform live. Also, exercising. Kanade in particular seems to need a workout partner to get motivated.
 Kanade: Y-You didn't have to say it out loud...
@@ -220,7 +220,7 @@ Saki: So... U-Uh oh... I forgot what I was going to say! I had so many things pr
 Saki: I was gonna say something about school, about studying, about club stuff and work stuff, about our band! Everything!
 Saki: But I have to thank you for all of the above! I'm standing here today because you've always been there for me!
 Saki: Hehe. Let's be besties forever and ever until we're both old and gray♪
-(White cut)
+(White transition)
 (Background change)
 Ichika: So many people joined me to celebrate my birthday.
 Ichika: I don't want your kindness to go to waste, so I'll have to do my best to move forward and make real progress.
@@ -228,4 +228,4 @@ Ichika: Because I believe that showing you how I grow along the way is the best 
 Ichika: I have to do everything I can to make Leo/need a much better band, and I personally have to figure out a way to become a better songwriter.
 Ichika: Especially since I want to give Miku a good song to sing someday...
 Ichika: Anyway, I'll see you later. Thank you so much for today!
-(White cut)
+(White transition)

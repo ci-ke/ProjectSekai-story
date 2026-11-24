@@ -11,30 +11,26 @@ Plushies: ...
 Plushies: Hey, did something happen with Emu?
 Plushies: Yeah, she's been sitting on that bench and staring off into space for a really long time now.
 Plushies: I'm a little worried. Should we try and go talk to her...? Huh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000435/bg_s000435.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000435/bg_s000435.webp)
 KAITO (WxS): Emu, there you are.
 Emu: KAITO... What are you doing here?
 KAITO (WxS): I've been looking for you.
 KAITO (WxS): I kept wondering how you were doing after we spoke last, so I've been taking peeks here and there using your phone...
 Emu: Oh...
 KAITO (WxS): Mind if I sit next to you?
-(White cut)
+(White transition)
 (Background change)
 Emu: Sure, sit here!
 KAITO (WxS): I'm sorry for eavesdropping on your conversation with Byakkomachi.
 Emu: No, that's okay. I really appreciate you worrying about me.
 KAITO (WxS): Are you feeling okay...?
 Emu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Suzu told me that she's really scared...
 Emu: And I think I kinda understand what she's going through right now. Because I felt the same thing when we were trying to save Phoenix Wonderland...
@@ -50,20 +46,16 @@ Emu: Someone who went through the same experience?
 KAITO (WxS): Yes. When Phoenix Wonderland was in trouble...
 KAITO (WxS): Who were the first people that tried to turn things around for the park?
 Emu: Are you talking about...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (WxS): Those people...
 KAITO (WxS): They must've had to overcome the same sort of fear Byakkomachi is feeling right now, yes?
 Emu: Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Otori Household - Living Room]
@@ -109,7 +101,7 @@ Keisuke: So, I'm sure you'll find a solution that will make everyone happy.
 Emu: ...!
 Emu: Keisuke, Shosuke...
 Emu: Thanks, you guys!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -141,4 +133,4 @@ Emu: Huh?
 Byakkomachi: Before any ideas are presented to the board, they first need to be approved by the chairman.
 Byakkomachi: So, in order to convince my grandfather, I'd like to hash out the details with you.
 Emu: Yeah, of course!
-(Black cut)
+(Black transition)

@@ -57,15 +57,11 @@
 類: ですがそれでも、えむさんを誘いたいんです
 類: 一度だけ……一度だけでいいんです。 誘わせてもらえませんか
 類: えむさんは——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000054/bg_a000054.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000054/bg_a000054.webp)
+(White transition)
+(Flashback out)
 (Background change)
 類: 僕達にとって大事な……仲間なんです
 慶介: …………わかった
@@ -79,4 +75,4 @@
 晶介: ……そろそろ練習も終わる時間だろう。 えむが帰ってくるぞ
 類: ……そうですね。 それでは、僕はこれで
 類: お忙しい中時間を割いてくださって、 ありがとうございました
-(Black cut)
+(Black transition)

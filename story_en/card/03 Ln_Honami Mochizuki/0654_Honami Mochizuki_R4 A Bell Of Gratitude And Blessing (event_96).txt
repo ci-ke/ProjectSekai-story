@@ -14,7 +14,7 @@ Honami: (First, laundry detergent, that bathtub cleaner and...maybe some more ba
 Honami: (I brought a pack over a while ago hoping that it'll help give her a way to relax, but she's already gone through most of it.)
 Honami: (Hehe. I'm glad to see that she's using it so often.)
 Honami: (Oh, I should ask her about these bath salts when I give my work report.)
-(Black cut)
+(Black transition)
 (Background change)
 Honami's Voice (Honami): Ms. Yoisaki, do you have a minute?
 Kanade: Um, yes. Please come in...
@@ -30,7 +30,7 @@ Kanade: I'll leave that to you, Ms. Mochizuki. I've never bought any myself, and
 Honami: Understood. I'll think about whether to go with your current selection or a different assortment.
 Kanade: Okay, thank you.
 Honami: Of course. Then, I'll see you again next week.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -70,15 +70,11 @@ Rin: This Yoisaki person means a lot to Hona! That's why she's putting in so muc
 Honami: She's right...
 Honami: I've already seen Ms. Yoisaki collapse once, and she still pulls all-nighters from time to time.
 Honami: However, I also understand that she's doing her best to compose songs that can help the people who truly need them, including those closest to her.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: She pushes herself too hard sometimes... But I'm just her housekeeper, so I can only help by doing these sorts of things.
 Len: I see... But you genuinely want to be there for her.
@@ -88,7 +84,7 @@ Len: Yeah, it doesn't seem right to leave without doing anything after hearing t
 Honami: Hehe. Thank you both very much. Then, if you don't mind...
 Honami: I actually just found a few interesting candidates.
 Rin: Really?! Lemme see!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -99,7 +95,7 @@ Rin: Really?! Lemme see!
 
 Honami: Let's see... Oh, here it is. I need this book, and the other one must be over there...
 Honami: Hehe. I'm glad I was able to find both. That just leaves...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -129,24 +125,20 @@ Honami: You're welcome. I'm glad you all like them so much.
 Honami: I'm actually thinking about learning to make more of these types of soothing snacks.
 Shiho: But you already know how to make all kinds of stuff. What's gotten into you? Did something happen recently?
 Honami: Oh, um...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: There's something I felt spending time with you and the others today.
 Kanade: How do I put it...? Having someone next to me with my best interests in mind is such a nice thing.
-(White cut)
+(White transition)
 Kanade: I'm convinced now that I can keep composing songs because you're there to support me, Ms. Mochizuki.
 Kanade: So, thank you for everything you do.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: Hehe. I'll have to keep that a secret.
 Shiho: Oh...? Well, I guess I shouldn't complain if it means getting to have these delicious snacks.
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -159,7 +151,7 @@ Rin's Voice (Rin): Miku-P, where are you?!
 Miku (Ln): Oh, sorry. I need to go...
 Honami: Okay, have fun.
 Honami: Alright, let's begin by gathering up what's here and cleaning the walls!
-(Black cut)
+(Black transition)
 Miku (Ln): How are things going, Honami?
 Rin: Whoa! The walls, the windows and the floor are all spotless!
 Miku (Ln): That's incredible. This place used to be full of dust bunnies. I can't believe how clean it is now...
@@ -172,32 +164,24 @@ Miku (Ln): Says the person who always complains about having to clean things up.
 Rin's Voice (Rin): Whoa, this is so cool! And fun♪ It makes everything so shiny!
 Honami: Hehe.
 Honami: (That reminds me of what Ms. Yoisaki said the other day...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: All you have to do is line up the cucumbers that you just cut into strips and...
 Honami: Voila. You can julienne them fairly quickly without having to realign them each time.
 Kanade: Oh, I remember seeing my mom do this. So there was a reason behind what she was doing.
 Kanade: Hehe. Cooking becomes more fun after you learn tricks like this one.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (Ln): You seem more animated than usual lately, Honami.
 Honami: I do? If so, I have Rin to thank.
 Honami: There was something on my mind until just recently, but she helped encourage me...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (Ln): I see...
 Rin's Voice (Rin): Haha! Hey, check this out!
@@ -206,4 +190,4 @@ Honami: Yes... Where do you think she is now?
 Rin's Voice (Rin): ——! ——!
 Miku (Ln): Oh, she's shouting something again. But she's too far away. I don't understand what she's saying.
 Honami: Hehe. I suspect every corridor's going to be glowing by the time she returns.
-(Black cut)
+(Black transition)

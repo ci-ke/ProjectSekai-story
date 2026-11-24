@@ -7,18 +7,14 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 
 (Character: 星乃一歌, 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 小豆沢こはね)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: じゃあ……みのりと、こはねだね。 改めて、これからよろしく
 こはね: うん、よろしくね！
 みのり: えへへ、なんだか もっともっと仲良くなれたみたいで嬉しいな～！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [シブヤの公園]
@@ -37,7 +33,7 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 雫: そうね。私も今年はまだ、 お花見できてないから嬉しいわ
 愛莉: わたしも。じゃあ、ランニングの最後に寄りましょうか
 みのり: やったー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [乃々木公園]
@@ -55,7 +51,7 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 みのり: （よかった。みんな、喜んでくれてる！）
 遥: せっかくだし、桜を眺めながらクールダウンしない？
 みのり・愛莉・雫: 『賛成！』
-(Black cut)
+(Black transition)
 愛莉: ……それにしても、こんな風に ゆっくり桜を見るのは久しぶりかも
 みのり: あ……みんな今まで、 アイドルのお仕事で忙しかったから……
 愛莉: ま、番組の企画でした時もあったけどね
@@ -86,7 +82,7 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 愛莉: ま、そのうち、学校の屋上とか中庭でしましょ！
 みのり: うん！
 みのり: （和菓子パーティー、本当にできたらいいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -100,7 +96,7 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 雫: みのりちゃん、愛莉ちゃん、また明日
 愛莉: はいはい。じゃ、みのり行きましょ
 みのり: うん！
-(Black cut)
+(Black transition)
 みのり: えへへ。愛莉ちゃんと一緒に帰るの ちょっと不思議な気分♪
 愛莉: わたしとみのりじゃ、帰る方向違うしね
 みのり: うん。でも、今日はこっちのほうに用事があるんだよね！
@@ -111,7 +107,7 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 愛莉: ホントね。えっと……『本日と明日のみ、 おはぎなどの和菓子全品割引』……！？
 みのり: 愛莉ちゃん、これ……！
 愛莉: ええ、みのり！ ついに“あれ”をやる時がきたわ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日、昼休み]
@@ -144,32 +140,24 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 遥: そうだね。みのりがダンスの練習してるところに私が来て……
 愛莉: そこに、わたしと雫が言いあいしながら来たんだったわね
 みのり: うん。それから、ミクちゃんにも会って……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （初めてセカイに行った時は、 すごくステキなライブを見たのに、みんなつらそうで……）
 みのり: （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 みのり: 届けられるものがないなんて、そんなことないよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （うまく気持ちが伝えられなくて 苦しくなった時もあったけど……）
 みのり: （でも今は、４人でMORE MORE JUMP！として 一緒に活動してる！）
@@ -192,4 +180,4 @@ Gacha phrase: わたしも一緒に歌っていいかな？
 雫: ふふ。なんだか、頑張れって言ってくれているみたい
 みのり: えへへ、そうだね！
 みのり: よーし！　これからもみんなと一緒に、 もっともっともーっと、がんばるぞー！！
-(Black cut)
+(Black transition)

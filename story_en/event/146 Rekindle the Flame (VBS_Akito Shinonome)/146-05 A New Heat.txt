@@ -28,7 +28,7 @@ KAITO (VBS): You don't have to tell me if you're not comfortable, but it might f
 KAITO (VBS): So, why don't you tell me all about what's bothering you?
 Akito: Alright... Then, if you don't mind listening for a second...
 KAITO (VBS): Of course!
-(Black cut)
+(Black transition)
 KAITO (VBS): I see... You're not feeling as driven as before...
 Akito: My brain knows that I need to keep doing what I can to reach our next goal.
 Akito: But it's like my heart isn't keeping up with it...
@@ -49,28 +49,24 @@ Akito: (But... That doesn't really explain why I haven't been able to perform at
 KAITO (VBS): Hmm... Let's say MEIKO's right...
 KAITO (VBS): If seeing RAD WEEKEND is what lit that fire inside of you all those years ago, then you may just need something to help rekindle that flame, Akito.
 Akito: Something to rekindle the flame inside of me...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (But what are the odds of me seeing another event or anything like that again...)
 KAITO (VBS): It may actually be hiding right under your nose.
 Akito: Huh?
 KAITO (VBS): To be fair, I can't really say what that is yet...
 KAITO (VBS): But you understand how big the world is, yes, Akito?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000367/bg_s000367.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000367/bg_s000367.webp)
 KAITO (VBS): You began dreaming of surpassing RAD WEEKEND after just happening to come across it.
 KAITO (VBS): So, you might find something else that rekindles the flame inside of you.
 KAITO (VBS): The world is a big place. It's full of things that we don't know about and opportunities we can't imagine.
 KAITO (VBS): So, as long as you strive towards your goal of standing on top of the world, I'm sure you'll come across that special something eventually.
-(White cut)
+(White transition)
 (Background change)
 Akito: ...
 Akito: (The world is a big place, huh...?)
@@ -84,4 +80,4 @@ Akito: (Obviously, believing that isn't going to get me out of my current situat
 Akito: (It does beat feeling anxious and running around in circles.)
 Akito: (In any case, I just gotta keep moving forward.)
 Akito: (Like I've been doing until now.)
-(Black cut)
+(Black transition)

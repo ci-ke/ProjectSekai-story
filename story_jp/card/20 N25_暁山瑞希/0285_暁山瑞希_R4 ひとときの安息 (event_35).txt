@@ -7,10 +7,8 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク, 巡音ルカ)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……、っ……
 奏: まふゆ、どうしたの！？
@@ -18,10 +16,8 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 まふゆ: ……大丈夫。少しふらつくだけ
 絵名: 大丈夫じゃないから、ふらついてるんでしょ？ ったく、本当に手のかかるヤツ……
 奏: ……話しあいは、まふゆの体調が戻ってからにしよう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [瑞希の部屋]
@@ -31,7 +27,7 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 瑞希: 早く、よくなるといいな
 瑞希: にしても、暇だなぁ……。 今日の作業はだいたい終わっちゃったし
 瑞希: ……あ、そうだ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -53,25 +49,21 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 ルカ: ありがとう。じゃあ……、そうね……
 ルカ: まふゆが体調を崩す前に、 どんな歌詞になるのか楽しみっていう話を 瑞希がしていたでしょう？
 ルカ: あの時話していたこと、覚えているかしら？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 瑞希: だって、このあいだ奏が作った曲、ホント良かったもん！ Kの新境地！って感じでさ
 瑞希: だからボク、まふゆの歌詞がどんな風になるのか、 すっごく楽しみなんだ！
 まふゆ: ………………
-(White cut)
+(White transition)
 ルカ: ……ああ、そう
 ルカ: さしずめ、扉の鍵は手にしたけれど、 鍵穴が見つからない、というところかしら？
-(White cut)
+(White transition)
 まふゆ: …………どうしても、わからなくて
 まふゆ: ……あれから考えてみたの。 奏の曲を聴いて、どうして自分が笑ったのか
 まふゆ: あの時——胸のあたりがあたたかくなった。 多分それが影響して笑ったんだと思う
 まふゆ: でも、どうしてあたたかくなったのか、 その理由が……わからない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: ……ああ、したした！ うん、覚えてるよ
 瑞希: 扉の鍵は持ってるのに、鍵穴が見つからないっていうたとえ、 すごくわかりやすかったし
 ルカ: ふふ。ありがとう
@@ -112,7 +104,7 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 瑞希: これ以上刺激されたら、 ボク、どこかに落っこちちゃうよ
 瑞希: …………
 瑞希: ……リンを、探しに行こうかな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -127,43 +119,35 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 瑞希: …………
 瑞希: （まふゆの風邪、治ってよかったな）
 瑞希: （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆ: ……思いだしたの
 まふゆ: 奏の曲を聴いた時に感じた気持ちのこと。 昔の……思い出の中にあったの
 まふゆ: りんごを食べた時に感じた気持ちと、似てた
-(White cut)
+(White transition)
 まふゆ: それ以上は、 何を考えてもわからなかった
 まふゆ: ただ、この気持ちは……
 まふゆ: この言葉は、形にして残しておかなきゃ、って。 そう思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: 『わからない』が口癖みたいだったのに。 形にして、残しておかなきゃなんて
 瑞希: まふゆも、絵名や奏みたいに 一歩前に進めたってことだよね
 瑞希: ルカが言ってた“扉”も、少し開けられたってことかな
 瑞希: ……よかった
 瑞希: …………
 瑞希: （みんな、すごいな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『感じたことを、素直に……。 できるかはわからないけど、やってみる』
-(White cut)
+(White transition)
 (Background change)
 絵名: 描いてみるよ。 ……うまく描けるか、わかんないけどね
-(White cut)
+(White transition)
 (Background change)
 奏: 『Amiaがわたしの世界を広げてくれたから、 わたしはあの曲を作れたんだと思う』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （ちょっとずつだけど、前に進んでる）
 瑞希: （でも……）
@@ -204,4 +188,4 @@ Gacha phrase: これ、リンに合うと思ったんだ♪
 絵名: 違うってば！　適当なこと言わないでよね、もう
 瑞希: あはははっ！
 ミク (N25): …………
-(Black cut)
+(Black transition)

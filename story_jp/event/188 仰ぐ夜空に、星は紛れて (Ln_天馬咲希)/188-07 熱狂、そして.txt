@@ -15,15 +15,15 @@
 一歌: ……私達の力だけじゃ、 こんなに大きなステージに立つことはできませんでした
 一歌: このワンマンライブができたのは、 ここにいる皆さんが Leo/needを応援してくれたおかげです
 一歌: だから……絶対に、感謝の気持ちを伝えたいって思いました
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000516/bg_s000516.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000516/bg_s000516.webp)
 一歌: ……最後は、私達から皆さんへの想いを込めた曲です
 一歌: ずっと前から応援してくれてる人も、 最近私達を知ってくれた人も……
 一歌: ——私達に出会ってくれて、本当にありがとう
 お客さん達: ……っ
 お客さん達: こちらこそだよー！
 お客さん達: 最高の時間をありがとう！！
-(White cut)
+(White transition)
 (Background change)
 咲希: （……アタシも、たくさん想いを込めよう）
 咲希: （『そばにいるよ』って、みんなに届くように——）
@@ -51,7 +51,7 @@
 一歌・咲希・穂波・志歩: 『♪————————！　♪————————〜〜〜！』
 お客さん達: 『♪————————！　♪————————〜〜〜！』
 一歌: ——今日は本当に、ありがとうございました！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -110,4 +110,4 @@
 穂波: それじゃあ、そろそろ帰る準備しようか
 一歌: そうだね。あんまり遅くなっても、 スタッフさんに迷惑かかっちゃうし
 咲希: はーい！　ちゃちゃっと準備済ませちゃうぞー！
-(Black cut)
+(Black transition)

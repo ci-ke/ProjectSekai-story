@@ -31,7 +31,7 @@ Saki: This chord progression might help me with the song I've been working on!
 Saki: Alright, where's my music notebook?
 Saki: Here we are!
 Saki: If I throw some of these chords into the part I was working on yesterday...
-(Black cut)
+(Black transition)
 
 [One hour later]
 
@@ -56,7 +56,7 @@ Saki: Thanks, Tsukasa! You're a lifesaver.
 Tsukasa: Always!
 Saki: Then, let's get started...! We're gonna make my room spotless...
 Saki: And Ichi and I are gonna write the best song ever!!!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -81,7 +81,7 @@ Ichika: Alright, if you're willing to go that far, then please go right on ahead
 Saki: Yay! Thanks, Ichi!
 Ichika: So, what do you plan on doing exactly?
 Saki: That's a surprise! For now, let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cafe]
@@ -97,23 +97,23 @@ Saki: No, but...!
 Ichika: Alright, how about you just buy me a drink...? This fruit juice looks pretty decadent compared to the others.
 Saki: Okay, I'll buy you a drink...!
 Ichika: Thank you. Anyway, let's go order.
-(Black cut)
+(Black transition)
 Saki: Whoa! I didn't realize how crispy freshly fried churros are!
 Ichika: Yeah, and it's so good...!
 Ichika: Oh, Saki, be careful not to burn your tongue...
 Saki: Hehe. Don't worry. The sauce is doing a good job of cooling it down!
-(Black cut)
+(Black transition)
 Saki: This chocolate sauce is amazing♪
 Saki: Here, Ichi, try a bite! Open wide!
 Ichika: W-Wait, we're in public...
 Saki: Hehe. Then, at least try some of this chocolate sauce.
 Ichika: Thanks. In that case, you should try some of my caramel sauce...
-(Black cut)
+(Black transition)
 Saki: Hmm... I can't decide what to get next. Oh, Ichi, check it out!
 Saki: They've got sauces made from apples, blueberries and a mix of fruits. They all sound really good...
 Saki: Wanna order a few things off this part of the menu...?
 Ichika: Sure, but are you really still that hungry?
-(Black cut)
+(Black transition)
 Saki: Whew... I'm getting pretty full...
 Saki: Wait a second. I'm having all the fun here. We're here because I'm supposed to be repaying you for what you did...
 Saki: I-Ichi, you gotta have some more!
@@ -127,4 +127,4 @@ Saki: Hehe. Thanks.
 Saki: Then, to make you smile even more, I'm gonna keep enjoying these churros!
 Saki: Oh, Ichi, you gotta try this mixed-fruits sauce! It's really good!
 Ichika: Hehe. Thanks for offering. Then, if you don't mind...
-(Black cut)
+(Black transition)

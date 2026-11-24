@@ -36,7 +36,7 @@ Skill name: 成長の証
 咲希: 勉強の時とかに飲むと、集中力がアップするんだって！ クラスの友達が話してたんだ
 穂波: たしかに、作業に疲れたときに飲んだら 頭がすっきりしそうだね
 咲希: うん！　いっちゃんに喜んでもらえるといいね♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -58,7 +58,7 @@ Skill name: 成長の証
 一歌: ……すごく嬉しいよ。ありがとう、穂波
 一歌: おかげで、今夜は作業が捗りそう。 あとで咲希にもお礼を言わなきゃな
 穂波: ふふ、よかった。 頑張ってね、一歌ちゃん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -69,15 +69,11 @@ Skill name: 成長の証
 
 穂波: （対バンライブで演奏する曲のアレンジ……）
 穂波: （この前は、本当にいろんなアイディアが出たな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ……ふふっ
 ミク (Ln): 早いね穂波。もう来たんだ
@@ -125,4 +121,4 @@ Skill name: 成長の証
 穂波: ……そうだと嬉しいです
 穂波: （一歌ちゃんも、咲希ちゃんも志歩ちゃんも、 みんなどんどん成長していってる）
 穂波: （ならわたしも、みんなを支えられるように、 もっと成長していかなきゃ）
-(Black cut)
+(Black transition)

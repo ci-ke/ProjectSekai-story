@@ -2,15 +2,13 @@
 
 (Character: 神代類, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [瑞希の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【えななん】 (絵名): 『一緒に——ってそれ、 この４人で活動する……ってことですか？』
 (Background change)
@@ -48,45 +46,35 @@
 (Background change)
 瑞希: 『……！』
 【K】 (奏): 『だから、待ってます』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （……MV作るの、楽しかったな）
 瑞希: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【K】 (奏): 『……わたし達の曲を、たくさんの人に聴いてもらうために、 っていう考えは変わっていないんですけど』
 (Background change)
 【K】 (奏): 『ただわたしは……もう一度Amiaさんの作るものを 見てみたいと思っています』
 【K】 (奏): 『Amiaさんの作るものは、 すごく苦しくて——優しいから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………ああいうことサラっと言えちゃうの、すごいよな
 瑞希: （……学校にも行ってないから、 時間は嫌ってほどある）
 瑞希: （ああやって、いろんなこと話して何かを作るのも、 すごくおもしろかった）
 瑞希: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 変なの
-(White cut)
+(White transition)
 (Background change)
 類: ——瑞希
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……キツいんだよなぁ
 瑞希: （変なのって拒絶されるのも、 一緒にいられたらいいなって思ったヤツが……離れるのも）
@@ -146,8 +134,8 @@
 瑞希の姉: ——また前みたいに服を作りたいなって思ったら、 使ってもいいし
 瑞希: …………
 瑞希の姉: あと……はい、これ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000106/bg_s000106.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000106/bg_s000106.webp)
 瑞希: ……リボン？
 瑞希の姉: うん。一番お気に入りの生地で作ったの。 カワイイでしょ？
 瑞希の姉: いつかまた、必要になった時のためにね
@@ -160,29 +148,25 @@
 瑞希の姉: いろんな人に、いろんなこと言われるかもしれない。 でも——
 瑞希の姉: 忘れないで。 何があっても、私は瑞希の味方だよ
 瑞希の姉: 瑞希が進みたい道を歩いていけるように、 ずっと応援してるよ
-(White cut)
+(White transition)
 (Background change)
 瑞希: ……っ
 瑞希: （ボクの——）
 瑞希: （ボクの、進みたい道は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……ありがとう、お姉ちゃん
 瑞希: まだ怖い……怖いけど、でも…………
 瑞希: ボク……ちょっとだけ、頑張ってみるよ
 瑞希の姉: ——うん。頑張れ、瑞希
 瑞希: ……へへ、お姉ちゃんもね！
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: （もしかしたら、またダメかもしれない）
 瑞希: （やっぱり全部どうでもよくなって、 もう消えたほうがいいって思うようになるかもしれない）
@@ -202,7 +186,7 @@
 (Background change)
 (Background change)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): ……そんなことがあったんだ
 絵名: 瑞希のお姉さんが背中を押してくれたっていうのは、 私も初めて聞いたかも
@@ -235,7 +219,7 @@
 奏: え、絵名、落ち着いて……
 ミク (N25): みんな……仲良く……
 瑞希: ……あははっ！ 絵名、どうどう～！
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: はぁ。気づいたらこんな時間になっちゃった
 瑞希: ……ホントに懐かしい話、しちゃったなあ
@@ -246,7 +230,7 @@
 瑞希: お菓子もね、同じサークルの子達にあげたんだ。 みんな喜んでたよ。ありがとう
 瑞希: ……え？ 最近、どうかって？
 瑞希: ——楽しいよ、すごく
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -260,4 +244,4 @@
 瑞希: よーし……それじゃ、今日もがんばりますか！
 瑞希: （奏達の曲を、ボク達のMVで——たくさんの人に届けよう！）
 瑞希: 『——みんな！　お疲れ～！』
-(White cut)
+(White transition)

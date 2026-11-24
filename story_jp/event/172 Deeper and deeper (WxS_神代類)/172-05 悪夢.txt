@@ -15,7 +15,7 @@
 類: （言葉にするのが難しいけれど…… トムの舞台には“深み”があった）
 類: （問題は、どうすればそれを自分でも表現できるかだ）
 類: テーマの深堀りに、演出上の視点の見直し……。 まずは、いろいろと試してみるしかなさそうだね
-(Black cut)
+(Black transition)
 (Background change)
 数学教師: この公式は、今後もよく使うから覚えておけよー。 テストにも出すからな
 類: （深みのある描写をするには、 自分自身がその題材に深く精通している必要がある）
@@ -25,13 +25,13 @@
 数学教師: 神代。教科書の応用問題３、解いてみろ
 類: Xの２乗マイナス３です
 数学教師: ………………正解
-(Black cut)
+(Black transition)
 (Background change)
 類: （いくつか原案を練ってみたけれど、どれも決め手に欠けるな）
 類: （ショーとしては成立しているけれど…… 既存作品の要素を切り貼りして、 無理やりまとめ上げたようにも見える）
 類: （何より……僕自身が、面白いとは思えない）
 類: ——もう一度、やり直そう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -53,7 +53,7 @@
 類: 超えるべき壁が見えたからね。 もう少しだけ、頑張ってみたいんだ
 寧々: ……わかった。 でも、あんまり無理しすぎないでよ
 類: ああ
-(Black cut)
+(Black transition)
 (Background change)
 
 [夜]
@@ -68,7 +68,7 @@
 類: （それだけは、絶対に避けたい……）
 類: （……眠気のせいか、さっきから思考がまとまらない）
 類: （少しだけ、仮眠を取ろう）
-(Black cut)
+(Black transition)
 (Background change)
 類: （————体が、重い）
 類: （何かが、足に絡みついているみたいだ……）
@@ -78,18 +78,18 @@
 類: 目を……？　一体、何を言っているんだ？　
 ？？？: 『見ない振りをしても、消えはしないよ』
 ？？？: 『だって、僕は——』
-(Black cut)
+(Black transition)
 ？？？: …………類くん
 ？？？: 類くん、大丈夫？
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000465/bg_s000465.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000465/bg_s000465.webp)
 ルカ (WxS): ……ああ、よかった。目が覚めたのね
 類: ルカさん……？
 ルカ (WxS): 起こしてしまってごめんなさい
 ルカ (WxS): でも、眠っている類くんが、なんだか苦しそうだったから
-(White cut)
+(White transition)
 (Background change)
 類: 眠って……
 類: （ああ、そうか……。 さっきのは、夢だったのか）
@@ -126,4 +126,4 @@
 類: そうだね。いつまでも悪夢にうなされているわけにもいかない
 類: 上手くいくかはわからないけれど…… できる限りの方法を試してみるよ
 ルカ (WxS): ええ。頑張ってね、類くん
-(Black cut)
+(Black transition)

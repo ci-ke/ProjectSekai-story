@@ -16,20 +16,16 @@
 奏: ……わからない
 ミク (N25): え……？
 奏: …………自分でも、わからないんだ
-(Black cut)
+(Black transition)
 ミク (N25): ……そうだったんだ……
 奏: ……ルカの言葉が、頭から離れなくて
 奏: わたしは、まふゆ達を……信じられてないのかな……
 奏: それに——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000652/bg_s000652.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000652/bg_s000652.webp)
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): ……今、奏はきっと 本当の想いに向き合っているんだと思う
 奏: 本当の……想い？
@@ -48,17 +44,13 @@
 ミク (N25): …………
 ミク (N25): ……まふゆのために曲を作り続けてるのも、同じ？
 奏: え——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: どの道わたしは、 ずっと曲を作り続けなくちゃいけない
 奏: だから、雪の分が増えたってなんでもないよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 同じ…………だよ
 ミク (N25): …………。 そう、なの……？
@@ -67,17 +59,13 @@
 ミク (N25): はじめて、奏の言葉が遠く感じたから
 奏: え…………
 奏: っ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ルカ (N25): ——奏
 ルカ (N25): もし、あなたが願い通り、まふゆを救うことができたとして——
 ルカ (N25): まふゆに曲を作らなくてもよくなったら…… どうするの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ミク (N25): 奏……！
 奏: ……っ、はあ、はあ……っ！
 ミク (N25): 奏……大丈夫……？
@@ -97,4 +85,4 @@
 奏: ルカの、言った通りだな
 奏: ……この感情は…………
 奏: まふゆを救う曲を作るには、邪魔だ
-(Black cut)
+(Black transition)

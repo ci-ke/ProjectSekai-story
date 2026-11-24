@@ -14,10 +14,8 @@ MEIKO: うーん……
 レン: 何か考えてるみたいだったけど、どうしたの？
 MEIKO: それがね……
 MEIKO: 今、私がカフェのマスターをしているセカイに 行ってきたんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (VBS): はー、メイコがいれてくれるコーヒーって、 なんでこんなに美味しいんだろ
 KAITO (VBS): ほんとにね。 これだけで１日、幸せにすごせるよ
@@ -28,10 +26,8 @@ KAITO (VBS): ……遠慮がないなあ、ルカは
 KAITO (VBS): でも、いいよ。 全部あげる
 KAITO (VBS): ……ふう。 今日のコーヒーは、いつにもまして染みるなあ
 MEIKO (VBS): ふふ、楽しんでもらえてるみたいでよかったわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: １日を幸せにすごせるコーヒーなんて、すごいな！
 KAITO: どんな味なんだろう？ 一度でいいから飲んでみたいね
@@ -59,13 +55,13 @@ KAITO: そういえば、あのセカイの僕も 美味しいコーヒーをい
 MEIKO: そうなのよね
 MEIKO: でも、カイトの言う通り ふたりがいれてるところを見たり、 見比べたりしたらおもしろそうね
 KAITO: じゃあ、また少しセカイの様子をのぞかせてもらおうか
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: ……あら？
 ミク: ……カフェ、誰もいないみたいだね
 レン: でも、さっきまでメイコは ここにいるみんなを見てたんだよね？ どこに行っちゃったんだろ？
 MEIKOの歌 (MEIKO-VBS): ♪——　♪————
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: この歌——
 レン: あのセカイのメイコだよね！
@@ -82,7 +78,7 @@ KAITO: ははっ、あのセカイの僕なら言いそうだなあ
 ミク: ……料理の様子はしばらく見られなそうだね
 MEIKO: ええ。でも、こうやって見守っているんだもの。 見る機会はまだまだたくさんあると思うわ
 MEIKO: だから今は、この素敵な歌を楽しみましょ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -94,7 +90,7 @@ MEIKO: だから今は、この素敵な歌を楽しみましょ
 MEIKO: ……えっと、バンドをやってる私のところには行ったわね
 MEIKO: アイドルの私のところには あとでルカと一緒に行く約束してるから——
 MEIKO: ……じゃあ、あのセカイの様子を見てみようかしら
-(Black cut)
+(Black transition)
 (Background change)
 ミク (VBS): メイコ、カフェオレとクリームソーダよろしく。 レンのオレンジジュースと リンのミックスジュースは持っていくね
 MEIKO (VBS): ええ、お願い
@@ -106,7 +102,7 @@ KAITO (VBS): 自分から手伝おうとするなんて、偉いなあ
 レン (VBS): ほんとだよ。 いつも美味しい飲み物とご飯作ってもらってるくせに
 ミク (VBS): ふふ、レンやリンのほうが大人だね。 はい。オレンジジュースとミックスジュース
 リン・レン: 『ありがとう！』
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: ……今日は全員カフェにいるのね。 賑やかで楽しそうだわ
 ？？？: メイコー！
@@ -142,10 +138,10 @@ MEIKO: コーヒーをいれる腕だって、 あのセカイのカイトにこ
 リン: そういえば、何杯もコーヒーをいれて 練習してる時とかあったよね
 MEIKO: ええ
 MEIKO: あのセカイの私は、 そうやって誰かのために頑張るのが好きみたい
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: あの私にとって、マスターは天職ね
 MEIKO: （これからも、みんなに頼られる素敵なマスターでいてね）
-(Black cut)
+(Black transition)

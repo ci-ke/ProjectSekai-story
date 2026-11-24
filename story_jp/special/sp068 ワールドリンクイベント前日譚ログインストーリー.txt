@@ -25,21 +25,17 @@ KAITO: …………！　みんな、静かに！ 今、木から何か聞こえ
 ？？？: 『あ、別の人の声だ！ あの！　途切れ途切れだけど、聞こえてます！』
 ？？？: 『もしかして、他のセカイの……？』
 ミク: ……木に触れると、たまに不思議な音は聞こえてきていたけど
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク: もしかして、セカイとセカイが——
-(White cut)
+(White transition)
 (Background change)
 ミク: きゃっ……！
-(White cut)
+(White transition)
 (Background change)
 ミク: ……び、びっくりした……
 ミク: 今の光、なんだったんだろう？
@@ -48,4 +44,4 @@ KAITO: …………！　みんな、静かに！ 今、木から何か聞こえ
 一歌: ミ、ミク……！？　それに……
 えむ: なななななななな……！？
 一歌達: 『なんでみんながここに！？』
-(Black cut)
+(Black transition)

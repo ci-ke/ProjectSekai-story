@@ -16,16 +16,16 @@
 瑞希: 今でも、ギリギリだったのに……
 ？？？: ♪————……
 瑞希: あの声って……
-(Black cut)
+(Black transition)
 ミク (N25): ♪————　♪————……
 瑞希: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000561/bg_s000561.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000561/bg_s000561.webp)
 まふゆ: ……ん、この表現少し違うかも
 まふゆ: ミク、このフレーズ、『秒針』に変えて歌ってくれる？
 ミク (N25): わかった
 ミク (N25): ♪————……
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): 瑞希、どうしたの？
 瑞希: あ……ごめんね。 邪魔しちゃって
@@ -75,7 +75,7 @@
 ミク (N25): だったら、わたしも——手放してほしくないな
 瑞希: …………ボクも
 瑞希: ボクも、そうしたいな
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -112,4 +112,4 @@
 瑞希: （それまではできるだけ、みんなと一緒にいたい）
 瑞希: （だから——）
 瑞希: （夢も、ニーゴも、両方頑張ろう）
-(White cut)
+(White transition)

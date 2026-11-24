@@ -11,7 +11,7 @@ Gacha phrase: Can you hear me?!
 
 Rin (N25): It's time.
 Miku (N25): *Nod* Let's go.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -39,7 +39,7 @@ Miku (N25): <Mizuki and Ena did.>
 Len (N25): <Yeah, they want you to rest as much as possible right now...>
 Kanade: Oh...
 Kanade: Okay, I'll rest as much as I can today.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -68,7 +68,7 @@ Miku (N25): <What do we do now?>
 Rin (N25): <I'm staying here until Mafuyu gets back. You two can return without me.>
 Len (N25): <We'll stay here with you.>
 Rin (N25): <Okay.>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -90,7 +90,7 @@ Kanade: Yes. The others have been coming over in shifts, but you've been here fo
 Rin (N25): <I'm fine. It's not like I have anything else to do. Plus, I've been resting over there.>
 Kanade: I see. If you're sure...
 Rin (N25): <You don't have to worry about me. Anyway, I'm heading back...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -99,7 +99,7 @@ Rin (N25): (I'm glad that Kanade's feeling better now.)
 Rin (N25): (But I still want her to rest some more... I should go over again tomorrow to make sure she does.)
 Rin (N25): (I also need to rest to make sure she doesn't worry about me...)
 Rin (N25): Zzz... Zzz...
-(Black cut)
+(Black transition)
 (Background change)
 Rin (N25): (Hm...?)
 Rin (N25): (I feel hot all of a sudden... And my body feels really heavy for some reason...)
@@ -108,7 +108,7 @@ Rin (N25): (But we can't catch colds, can we?)
 ???: Look... Again...
 ???: Yes, why don't you put it on her?
 Rin (N25): (Hm...? Who's talking...?)
-(Black cut)
+(Black transition)
 (Background change)
 Miku (N25): Oh, Rin, you're awake...
 Luka (N25): Ah, good morning.
@@ -125,19 +125,15 @@ Len (N25): I also found a lot of covers for her...
 Rin (N25): Oh, I see...
 Luka (N25): By the way, KAITO's the one who told us about you, Rin.
 Rin (N25): What?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO (N25): Hey.
 Luka (N25): Oh, KAITO, you came over to talk to me of your own volition? Should I keep an eye out for flying pigs?
 KAITO (N25): Rin's on the ground over there.
 Luka (N25): What?
 KAITO (N25): Message delivered.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Rin (N25): I didn't fall over or anything. I was just resting.
 Luka (N25): Hehe. I see.
 Rin (N25): Oh, Miku, you can have your gloves and scarf back now.
@@ -146,4 +142,4 @@ Miku (N25): *Nod* They really are warm.
 MEIKO (N25): You can keep sleeping, Rin. We'll put away any blankets and such you don't need.
 Rin (N25): Okay...
 Rin (N25): (Thanks...)
-(Black cut)
+(Black transition)

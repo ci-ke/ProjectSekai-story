@@ -14,12 +14,12 @@ Ena: Ugh... It looks like a mess... Now I have to redraw it...
 Rin: (Ena... She's in so much pain...)
 Rin: (What do I do...?)
 Rin: (Isn't there anything I can do for her...?)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000060/bg_s000060.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000060/bg_s000060.webp)
 Rin: <♪————>
 Ena: Huh...?
 Ena: Rin...?
-(White cut)
+(White transition)
 (Background change)
 Rin: (Thank goodness... She seems a little better now.)
 Rin: <Are you okay, Ena...?>
@@ -36,7 +36,7 @@ Mizuki's Message: <Enanan, would it be possible for us to talk?>
 Ena: ...
 Rin: <They're all worried about you. They want to help...>
 Ena: Okay... Thanks, Rin.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -121,4 +121,4 @@ Ena: Thanks, all of you...
 Ena: I feel like trying a little bit more now...
 Rin: ...!
 Rin: Okay. Good luck, Ena.
-(Black cut)
+(Black transition)

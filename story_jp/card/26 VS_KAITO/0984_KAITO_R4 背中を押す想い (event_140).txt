@@ -9,7 +9,7 @@ Gacha phrase: 信じて進んでいけば、大丈夫だ
 
 [セカイの狭間]
 
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (WxS): ——みんな、準備はいいかい？
 みんな: 『おー！』
@@ -19,7 +19,7 @@ MEIKO (WxS): ルカも、今日はバッチリ起きてるわね♪
 リン・レン: 『はーい♪』 『はーい！』
 KAITO (WxS): それじゃあ——
 全員: 『イッツ・ショータイム！』
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: ……今日も、素敵なショーになりそうだね
 レン: ねえ、カイトー！
@@ -29,7 +29,7 @@ MEIKO: その話を、もっと詳しく聞きたいなって思って来たの�
 ミク: 他のセカイと比べても、早く生まれたセカイだし どんな様子だったのか気になって
 KAITO: それで、わざわざみんなで来てくれたんだね
 KAITO: そうだなあ。 あのセカイについて、どこから説明しようか——
-(Black cut)
+(Black transition)
 ミク: ——それじゃあ、妹の咲希ちゃんのために ショーを何度もやってるうちにあのセカイが生まれたんだね！
 KAITO: うん
 KAITO: ショーを見て咲希ちゃんが笑顔になったあの日から、 司くんはずっと、咲希ちゃんのためにショーをしていたからね
@@ -45,16 +45,14 @@ KAITO: あのセカイの僕とミクは、 本当に辛抱強く司くんを見
 KAITO: 想いは変わらなくても、 考え方や目指すものが変わっていってしまうのを見て、 かなり焦りはあったはずだけどね
 ルカ: そうね。そこで無理に声をかけたりせずに、 機会を待ち続けたんだもの
 KAITO: うん。だから、ようやく司くんに気づいてもらえた時、 あのセカイのミクはものすごく喜んでいたよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (WxS): 『ハロ～、えぶりわ～んっ♪』
 ミク (WxS): 『もうすぐ楽しいショーがはじまるよっ♪ みんな、ショーを見る準備はできたかな～っ？』
 司: 初音ミクの映像？ ここ、初音ミクをマスコットキャラに使ってるのか？
 ミク (WxS): 『…………！』
-(Black cut)
+(Black transition)
 (Background change)
 ミク (WxS): カイトカイトカイトカイトカイトーーーーー！！！！！
 KAITO: ミク、一体どこに行って——
@@ -64,10 +62,8 @@ KAITO: えっ！　なんだって！！
 ミク (WxS): えへへっ☆ 急いでお出迎えの準備しなくっちゃ♪
 KAITO: …………
 KAITO: ようやく、この日が来たんだね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク: ……嬉しかっただろうなあ、セカイのわたし
 リン: セカイが生まれてから、ずーっとそばにいたんだもんね！
@@ -78,12 +74,12 @@ KAITO: そうだね
 KAITO: それでもセカイの僕とミクは 司くんを本当の想いへ導いた
 KAITO: （似たような想いを持っていたえむちゃん達の存在も、 きっと大きかったんだろうけど……）
 KAITO: （僕は——）
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: （君を、誇りに思うよ）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -99,10 +95,8 @@ KAITO: 最近、ショーをやってる僕のところにはよく行ってる�
 KAITO: 何かあったのかい？
 レン: オレ達、さっきセカイの様子を見てきたんだ！ そしたら、カイトの珍しいところ見れちゃって！
 KAITO: 珍しいところ？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン (Ln): イエーイ♪　いっちばーん♪
 KAITO (Ln): ——わっ！？
@@ -113,19 +107,15 @@ KAITO (Ln): う、うん……
 リン (Ln): ていうか、カイト兄ってあんな大きな声出るんだね？ ほら、『わっ！』っていう声！
 KAITO (Ln): ……自分でも、ちょっとびっくりした
 リン (Ln): あははっ！　カイト兄、かわいい～♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: ふふ。自分でもびっくりするほどの声が出るなんて、 相当驚いたんだろうね
 リン: わたしも、あのセカイのわたしと同じで かわいいって思っちゃった！
 レン: それでさ、その後 他のセカイの様子も見に行ったんだ！
 レン: そっちのカイトもおもしろかったよ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (WxS): カイトー、マジ高い高い、なんでダメなの？
 KAITO (WxS): 本当にものすごく高く上がって、危ないからだよ。 雲まで突き抜けて飛んでいってしまうからね
@@ -138,10 +128,8 @@ KAITO (WxS): マジ高い高いを我慢してもらってるし、 代わりに
 KAITO (WxS): よし、いくよ？ せーのっ……！
 KAITO (WxS): 高いたかーい！
 ミク (WxS): わーいっ♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: ……ミクを高い高い、か
 KAITO: あのセカイの僕は、 そこまで力持ちじゃなかったと思うけど……
@@ -159,4 +147,4 @@ KAITO: ふふ、じゃあひとりずついこうか
 リン: あいこで……しょっ！
 KAITO: （セカイもこっちも、平和だなあ）
 KAITO: （ふふ。こういう日も、あっていいよね）
-(Black cut)
+(Black transition)

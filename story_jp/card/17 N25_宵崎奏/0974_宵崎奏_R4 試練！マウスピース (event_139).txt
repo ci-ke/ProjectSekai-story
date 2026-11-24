@@ -10,37 +10,29 @@ Gacha phrase: あ……あれ？な、鳴らない……
 [奏の部屋]
 
 奏: ……ふう。今日はいろいろあったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 少年: ……本当にごめんなさい。 お姉ちゃん達に迷惑かけちゃって……
-(White cut)
+(White transition)
 少年: いつも変な音しか鳴らなくて……。 そのせいで、合奏にも、僕だけ参加させてもらえなくて……
 少年: どうして僕はこんなに下手なんだろうって、 悔しくなっちゃったんです……
-(White cut)
+(White transition)
 冬弥: ——安定して音を出す、というところまでであれば、 教えられるかもしれない
-(White cut)
+(White transition)
 冬弥: 君が美しい音を奏でたいという想いを持っているなら、 どうか、諦めないでほしい
 冬弥: 音楽はきっといつか……応えてくれる
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 奏: 美しい音、か……
 奏: （わたしにとっての美しい音は、 あの日、お父さんが演奏してくれたような——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: どうやったらいい音が鳴るかとか大変だったけど……
 奏: あの男の子が、 トランペットを諦めなくてよかった
@@ -53,7 +45,7 @@ Gacha phrase: あ……あれ？な、鳴らない……
 奏: オシャレっていうよりは、純粋さとか幼さを前に出して 不安定さも見え隠れしてて、それから——
 まふゆ: ——奏、晩ご飯はどうする？
 まふゆ: ……もう作業してるんだ
-(Black cut)
+(Black transition)
 奏: 形にはなってきた、と思うけど……
 奏: （わたし達の曲にしては、 少し爽やかさを感じる気がする）
 奏: （ラフとして聴ける状態にはしたし、 このあたりでやめて——）
@@ -78,7 +70,7 @@ Gacha phrase: あ……あれ？な、鳴らない……
 奏: ……あ、そうだ。晩ご飯だっけ？
 まふゆ: 煮つけ、温めてあるから
 奏: ありがとう。じゃあ、晩ご飯食べようか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -120,7 +112,7 @@ Gacha phrase: あ……あれ？な、鳴らない……
 まふゆ: どっちでもいいよ。 福引き、当たらないと思うけど
 絵名: ちょっと！　引く前から決めつけないでよね
 絵名: まったく……。 見てなさいよ、絶対に当てるから！
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -153,4 +145,4 @@ Gacha phrase: あ……あれ？な、鳴らない……
 奏: 役に立てたかはわからないけど、 本当におめでとう、絵名
 絵名: 奏のおかげに決まってるでしょ。 お礼に、パーラーのお土産たくさん買ってくるからね！
 奏: ふふ、じゃあ楽しみにしてようかな。 たくさん楽しんできてね
-(Black cut)
+(Black transition)

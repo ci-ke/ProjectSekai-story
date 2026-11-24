@@ -11,7 +11,7 @@ An: Hey, Kohane! Over here!
 Kohane: Oh, An! You guys!
 An: Welcome back! How'd things on your end go?
 Kohane: Oh, I think we figured something out...! Mind listening for a bit while I explain?
-(Black cut)
+(Black transition)
 Akito: So, this place is where we're supposed to interact with music from all different countries, so we can stand on top of the world?
 Toya: Interesting... That didn't occur to me.
 Kohane: Me neither. I wouldn't have made that connection if it weren't for MEIKO...
@@ -40,18 +40,14 @@ Akito: Now I get it.
 Akito: Music from around the world all in one place...with the name of our event etched in here.
 Akito: And us standing on top of the world.
 Miku (VBS): (Which means...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 An: Can't you at least stop for me in SEKAI?!
 An: Please! Just wait for me!
 An: Huh...?
 An: She stopped...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (VBS): (Nagi departed this world before she could make her dream come true... Before she could etch her name into that wall.)
 Miku (VBS): (And the people carrying the torch for her now are...)
 An: We're going to succeed.
@@ -72,6 +68,6 @@ Len (VBS): If so, then what sorts of feelings?
 Miku (VBS): Who knows?
 Miku (VBS): But...
 Miku (VBS): I'm looking forward to seeing how it grows.
-(White cut)
+(White transition)
 (Video: link_street_bud)
-(Black cut)
+(Black transition)

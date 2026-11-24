@@ -14,7 +14,7 @@ leo_01_15 ごまかさないで
 咲希: ヤボ用って、ふふっ、なんかカッコイイね！ じゃ、部活行ってきまーす！　また明日ね〜
 志歩: うん。また明日
 志歩: …………
-(Black cut)
+(Black transition)
 (Background change)
 穂波: それじゃあ、先生にプリント出してくるね
 穂波のクラスメイトA: うん、あとでねー！
@@ -37,30 +37,22 @@ leo_01_15 ごまかさないで
 志歩: ……結局、穂波は自分が傷つきたくないだけでしょ
 志歩: 傷つくのが怖くて、ただ逃げてるだけ
 穂波: わたし、は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 かつてのクラスメイト: 誰にでもいい顔してさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ……っ。 わからないの。どうしたらいいのか……
 志歩: わからない？　ごまかさないでよ。 穂波は、咲希が泣いてていいの！？
 穂波: ……！　 それは……それはイヤだよ……！　でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 かつてのクラスメイト: いったい誰の味方なの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: もう……あの時みたいになっちゃうのは嫌なの……！
 志歩: ……じゃあやっぱり、私達のことはどうでもいいってことじゃない
@@ -72,7 +64,7 @@ leo_01_15 ごまかさないで
 穂波: ！！
 志歩: 結局、自分がかわいいだけ
 穂波: …………。 ……う……うっ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -108,4 +100,4 @@ leo_01_15 ごまかさないで
 志歩: ……ううん。こっちこそありがとう。 おかげでちょっと気が晴れた
 志歩: また明日ね、一歌
 一歌: うん。また明日ね、志歩
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@ Skill name: わたしとセカイは、いつまでも
 ミク (N25): 『うん。今日は、楽しかった』
 (Background change)
 瑞希: 『ミクもルカもおやすみー』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -30,7 +30,7 @@ MEIKO: …………
 リン: へえ……
 ルカ: ミク、せっかくだし教えてあげたら？
 ミク (N25): あ、うん。えっと……
-(Black cut)
+(Black transition)
 リン: ふうん、最初に奏とまふゆが奏の曲でつながったんだね
 ミク (N25): うん
 ミク (N25): はじめこのセカイは、 誰もいないし、何もないセカイだった
@@ -43,32 +43,28 @@ MEIKO: それだけ奏の曲が、まふゆの心を揺さぶったっていう�
 ミク (N25): ……話の中の奏もまふゆも、 すごく苦しそうだった
 ミク (N25): でも、今はちょっと違う
 ルカ: そうね。苦しいままではあるんだろうけど、 それだけじゃないわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……うまく、言えないけど……
 まふゆ: よかった、と思う
 奏: え……
 瑞希: まふゆ、笑って……！？
-(White cut)
+(White transition)
 (Background change)
 瑞希: それで？　新曲の歌詞、完成したんだって？
 まふゆ: うん
 まふゆ: ……多分、書きたい気持ちは書けてると思う
 絵名: ……『書きたい気持ちが書けた』なんてセリフ、 まふゆが言ってるの初めて聞いた
-(White cut)
+(White transition)
 (Background change)
 瑞希: ……これ……！
 絵名: いつもと全然違う……！
-(White cut)
+(White transition)
 (Background change)
 奏: いつもの悲痛な、叫んでるみたいな言葉もあるけど——、 その底に、誰かを想うような、あたたかい感じがある気がする
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): まふゆは、もうひとりじゃない
 ミク (N25): それぞれ持ってる苦しさは違うけど、 でも、わかってくれるみんながいる
@@ -81,7 +77,7 @@ MEIKO: ——ルカ
 ミク (N25): ルカに連れていかれた時はびっくりした。 でも、行ってよかった、と思う
 ミク (N25): だから……ありがとう、ルカ
 ルカ: ええ、どういたしまして
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -156,4 +152,4 @@ MEIKO: ——ルカ
 ミク (N25): うん。来てくれてありがとう、まふゆ
 まふゆ: ……また来るね、ミク
 ミク (N25): ——大丈夫だよ、まふゆ。 いつでも待ってるから
-(Black cut)
+(Black transition)

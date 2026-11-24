@@ -27,7 +27,7 @@ Friend B: Anyway, now that we're all here, let's head over to the diner, shall w
 Friend A: Yeah!
 Akito: What was that...?
 Akito: He's glad?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Diner]
@@ -52,35 +52,31 @@ Friend B: Does that mean you're going to a music school now?
 Akito: ...
 Toya: No, I'm attending a normal school.
 Toya: I've given up music.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000431/bg_s000431.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000431/bg_s000431.webp)
 Akito: (He quit playing music...?)
 Friend B: What?! Really? But you're such an amazing singer!
 Friend A: Yeah! You're giving it up for good? That seems like such a waste.
 Toya: I appreciate you saying that, and I'm sorry to disappoint you, but... I've made my decision.
 Friend B: Alright... But I guess that's only natural if you found something else you wanna do.
 Akito: (Is that true?)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: I can't keep going after this childish dream.
-(White cut)
+(White transition)
 (Background change)
 Toya: I'm glad to hear that.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (I've got no clue what he's thinking...)
 Akito: (But...)
 Friend A: Is something wrong, Akito?
 Akito: ... It's nothing.
-(Black cut)
+(Black transition)
 (Background change)
 Friend A: Man, that was great! It was so fun to hang out like this again!
 Akito: Yeah. Oh, it's already this late?
@@ -89,7 +85,7 @@ Friend A: We should do this again sometime! We'll make sure to invite you two ag
 Toya: Thank you. I'll make an effort to attend if I'm free.
 Akito: Sure, if I can make it.
 Friend A: That's a promise! Anyway, see you guys!
-(Black cut)
+(Black transition)
 (Background change)
 Akito: ...
 Toya: ...
@@ -104,6 +100,6 @@ Akito: ...!
 Akito: What is it...?
 Toya: Can we talk for a minute?
 Toya: There's something I need to tell you.
-(Black cut)
+(Black transition)
 (Video: link2_street_ed2)
-(Black cut)
+(Black transition)

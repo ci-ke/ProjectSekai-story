@@ -12,7 +12,7 @@ KAITO (Ln): えっと……本当に、音楽で木が成長するのかな
 リン (Ln): するって！ いっちーも、音楽を聴かせると 植物はたくさん成長するって言ってたし！
 リン (Ln): ほらほら、もう１曲やろ！
 KAITO (Ln): わ、わかった……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ　港]
@@ -21,7 +21,7 @@ MEIKO (WxS): ふふっ♪　こうやってお水をあげると、 葉っぱが
 MEIKO (WxS): それにしても大きくなったわねえ。 このまま育ったら、どうなっちゃうのかしら……
 MEIKO (WxS): もしかして、雲まで届いちゃったり！？
 MEIKO (WxS): そうなったら絶対楽しいわね！ ふふふっ、もっと大きくな～れ♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ　広場]
@@ -30,14 +30,14 @@ MEIKO (WxS): そうなったら絶対楽しいわね！ ふふふっ、もっと
 ルカ (VBS): メイコからもらったコーヒー豆の粉も撒いといたし もう完璧！　誰か褒めてくれてもいいんだけどな～
 ルカ (VBS): ……って、誰もいないんだけどねえ
 ルカ (VBS): ま、いっか！　帰ったらミクにドヤっちゃおっと♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ　湖]
 
 レン (N25): ……お水、飲んでくれてるかな……
 レン (N25): ……いっぱい、飲んでね
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ　花畑]
@@ -46,7 +46,7 @@ MEIKO (WxS): そうなったら絶対楽しいわね！ ふふふっ、もっと
 ミク (MMJ): この前みたいに黒い欠片もついてないし…… 元気そうでよかった
 ミク (MMJ): ——みんなの想いで育ってる木だもん
 ミク (MMJ): これからも、元気に育ってほしいな
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -68,14 +68,14 @@ KAITO: なんだろう。僕もわからないけれど……
 KAITO: もしかして……あの子達のセカイと関係あるのかな？
 MEIKO: え……！　セカイで何かあったってこと！？
 MEIKO: セカイのみんなは——
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(Black cut)
+(White transition)
+(Black transition)
 (Background change)
 リン: ええっ！？
 ルカ: セカイにいる私達が、消えた……！？
@@ -84,4 +84,4 @@ KAITO: ど、どうして……
 ミク: 何があったかはわからないけど…… もしかしたら、力になれることもあるかもしれないから
 リン・レン: 『——うん！』
 ミク: それじゃあ、行こう——！
-(Black cut)
+(Black transition)

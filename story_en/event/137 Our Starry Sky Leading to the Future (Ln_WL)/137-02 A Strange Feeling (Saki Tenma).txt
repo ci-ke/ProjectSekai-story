@@ -3,7 +3,7 @@
 (Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori, Kagamine Rin, Megurine Luka)
 
 (Video: link_leoneed_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -30,10 +30,8 @@ Rin (Ln): You were awesome and got things done really quick, right?!
 Saki: Oh, actually... Some things happened and...
 Rin (Ln): Wait, some things? What happened?!
 Saki: So, the truth is...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [Recording Studio]
@@ -57,10 +55,8 @@ Ichika: She's right. You've gone from frowning to looking a little more relaxed.
 Saki: Oh... W-Wow, I think you're right!
 Shiho: You should be able to play like normal now, so let's give it another try.
 Saki: Okay!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: So, I kept messing up when we first began recording...
 Saki: But we managed to nail it in the end!
@@ -91,4 +87,4 @@ Luka (Ln): What if something has changed about SEKAI...?
 Rin (Ln): What?! Changed how?
 Luka (Ln): I can't say for certain. So, why don't we all go take a look?
 Saki: Okay...!
-(Black cut)
+(Black transition)

@@ -60,7 +60,7 @@ MEIKO (Ln): 『Leo/needらしく、思いっきり楽しんできて！』
 穂波: はい……！　ありがとうございます
 真堂: ……では、そろそろ袖に移動しましょうか
 真堂: ちなみに——客席は、すでに満員ですよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -93,4 +93,4 @@ MEIKO (Ln): 『Leo/needらしく、思いっきり楽しんできて！』
 一歌・咲希・志歩: 『おー！』
 咲希: （ついに……始まるんだ）
 咲希: （アタシ達の、ワンマンライブが——！）
-(Black cut)
+(Black transition)

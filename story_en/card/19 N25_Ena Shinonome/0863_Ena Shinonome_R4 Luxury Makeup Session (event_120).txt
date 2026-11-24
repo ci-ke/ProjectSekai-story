@@ -20,7 +20,7 @@ Ena: I might get a dessert. I'm really craving sugar right now.
 Airi: You're getting dessert instead of real food? Don't come crying to me if you end up gaining weight.
 Ena: No, don't say stuff like that!
 Shizuku & Kohane: Hehe.
-(Black cut)
+(Black transition)
 Ena: Mmm! There's really nothing better than having something sweet after a hard day's work!
 Kohane: Mmm...! The chocolate parfait you recommended is so yummy, Ena!
 Ena: Isn't it? Pretty good for a diner, right?
@@ -63,7 +63,7 @@ Ena: Haha...
 Ena: Why don't I take this opportunity to show you what I can? I know some neat tricks for taking pics with friends and stuff.
 Kohane: You'd do that?! Thank you so much!
 Ena: Okay! Let's start with the basics!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -76,10 +76,8 @@ Ena: Let's see... Photography... Composition...
 Ena: Oh, this site looks helpful.
 Ena: The rule of thirds... Frame within a frame...
 Ena: Again, it's so interesting how you can apply the same composition techniques for both art and photography...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: I learned from one of the photography books I bought that taking photos and drawing pictures involve similar techniques.
 Toya: Really?
@@ -91,17 +89,15 @@ Kohane: Oh, is that why you take so many selfies? Do they help improve the compo
 Ena: Oh, about those...
 Airi: They're just for fun. Ena here craves attention.
 Ena: What? Yeah, they're for fun, but I do not crave attention!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Still, photos, huh...
 Ena: I've taken some of the buildings or scenery I want to use later as references.
 Ena: But I've never really thought about using photos to study composition.
 Ena: You know what, maybe I'll try it out.
 Ena: Especially if it'll help improve my art.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Nonogi Park]
@@ -122,4 +118,4 @@ Ena: Wait, this was only meant to be a quick test, but it's actually helping a l
 Ena: Alright! Let's try to find some similar trees.
 Ena: Oh, there was also a pond somewhere around here. I'll snap a few photos of that while I'm here too.
 Ena: I came all this way, so I should take as many as I can to get some good references for composition!
-(Black cut)
+(Black transition)

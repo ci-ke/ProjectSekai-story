@@ -27,7 +27,7 @@ Gacha phrase: 大切な人に感謝、か……
 まふゆ: うん。静かだから集中できるし、勉強の息抜きにもなったよ
 まふゆ: でも、時間がないから もっとペースを上げて頑張らないとね
 雫: ええ、一緒に頑張りましょう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ミシンラウンジ]
@@ -39,10 +39,8 @@ Gacha phrase: 大切な人に感謝、か……
 雫: ええと……そこまで進んだのね。 ここからは別のステッチで進めるの——
 瑞希: グラデーション、もうちょっと細かく入れてみようかな。 ……うん、そのほうがいい感じに仕上がりそう！
 まふゆ: （みんな、すごく真剣だな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆ: ——プレゼントを贈る相手？
 瑞希: うん。みんな、誰にあげるのかなって思ってさ
 遥: 私はメンバーと、マネージャーさん。 それと、お世話になってるアイドルの先輩達に プレゼントするつもりだよ
@@ -53,40 +51,30 @@ Gacha phrase: 大切な人に感謝、か……
 瑞希: ボクはサークルのみんなと……。 いつも気にかけてくれる大事な友達に贈るつもりだよ
 瑞希: みんなには、感謝してもしきれないくらい 助けてもらっちゃったから
 まふゆ: ……うん。きっと、みんな喜んでくれるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: （大切な人に感謝、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 刺繍か……。たしかに、手作りの贈り物って、 なんだか特別な感じがするよね
 雫: でしょう？　それに、これはあくまで私の感覚なんだけど…… 刺繍って、たくさん想いを込められる気がするの
 まふゆ: 想いを……？
 雫: ええ。相手のことを考えながら図案を練ったり、 ぬい進めたりすると、 その分想いものせられるんじゃないかって
 雫: だから昔から、特別なプレゼントをしたい時は、 刺繍をすることが多いのよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……みんな、贈る相手のことを思いながらぬってるのかな）
 まふゆ: （ミクに贈るハンカチ——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （ありがとう……って、想いながらぬってみよう）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -159,4 +147,4 @@ KAITO (N25): ……これで用は済んだな
 まふゆ: 本当は今日、学校で渡そうと思ったんだけど……。 なんとなく、奏の家で渡したいと思って
 奏: じゃあ、次に家に来てくれた時に渡そう。 ……きっと、すごく喜んでくれるよ
 まふゆ: うん
-(Black cut)
+(Black transition)

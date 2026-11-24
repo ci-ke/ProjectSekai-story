@@ -11,7 +11,7 @@ Gacha phrase: Thanks for worrying about me.
 
 Shiho: (Halfway there with the tickets...)
 Shiho: (But there isn't much time left until our show, so I need to hurry.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-A]
@@ -75,7 +75,7 @@ Kohane: Thank you so much, Shiho. It's sad that I can't go this time, but I'm re
 Minori: Me too! We're absolutely 100% gonna go see your next show! We wouldn't be your friends otherwise!
 Shiho: Thanks. I'll be waiting.
 Shiho: (Thanks, you two. Thank you so much...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -94,16 +94,12 @@ Kohane: Uh, well... We just heard this rumor about you, Shiho...
 Shiho: What rumor?
 Minori: So... We heard that you and Homani had a fight...
 Shiho: Oh, that...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: Shiho, wait...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: (It was right after school got out and club activities were about to begin, so I was pretty sure that only some people from the indoor clubs would be around...)
 Shiho: (But I guess we were louder than I thought...)
@@ -141,7 +137,7 @@ Minori: Yeah, because she's on the Cleanup Committee!
 Shiho: That's true but...
 Shiho: What kind of person do you think I am, Minori?
 Kohane: Hehehe.
-(Black cut)
+(Black transition)
 (Background change)
 
 [After School]
@@ -167,4 +163,4 @@ Shiho: Yeah.
 Shiho: I'll be more careful from now on.
 Honami: Yes, please do.
 Honami & Shiho: Hehe.
-(Black cut)
+(Black transition)

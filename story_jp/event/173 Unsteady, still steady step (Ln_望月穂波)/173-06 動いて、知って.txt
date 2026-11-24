@@ -26,7 +26,7 @@
 咲希: ほなちゃん……
 志歩: 他にも、何かできることがあれば言ってよ。 知ってるハコのスタッフとかなら、話通せると思うし
 穂波: うん……ありがとう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -37,18 +37,14 @@
 店長: いやいや、僕も久しぶりに顔が見られてよかったよ。 ワンマン開催、本当におめでとう
 店長: またうちのライブハウスでも演奏してくれたら嬉しいな。 それじゃ、これからも頑張ってね
 穂波: はい、ありがとうございます
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 店長: ライブでの新曲の反応？ そうだなあ……
 店長: 主観にはなっちゃうけど、 熱心なファンほど喜んでるイメージはあるかな
 店長: 好きなバンドの新しい曲を、一番最初に生で聴けるなんて ファンにとっては最高の体験だからさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （最高の体験、か……）
 穂波: （わかる気がするな。 プロデビュー前も、新しい曲をライブでやったら、 すごく良い反応をもらったこともあるし……）
@@ -58,19 +54,15 @@
 穂波: （バーチャル・シンガーが好きな人が集まるサイトとか、 SNSは見てみたけど……わたしがそこまで詳しくないせいで 理解しきれなかったりしてるし）
 穂波: （何か、他に調べられることは——）
 穂波: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 一歌はそういうところ、アクティブだよね。 今度もミクのライブにも行くんでしょ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （そういえば一歌ちゃん、 今度ミクちゃんのライブに行くって言ってたっけ……）
 穂波: …………
 穂波: （ライブに来てる人達を見れば もっとイメージができるかもしれない）
 穂波: （一緒に行けないか、相談してみようかな）
-(Black cut)
+(Black transition)

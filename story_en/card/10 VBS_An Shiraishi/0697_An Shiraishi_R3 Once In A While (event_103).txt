@@ -28,7 +28,7 @@ An: (It's been awkward serving them at the cafe too...)
 An: (No, stop...! Things feel awkward because you make them awkward!)
 An: (You just have to treat everyone the way you always have. I know you can do that much.)
 An: So...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -54,7 +54,7 @@ An's Father: Yes. You should focus on what you want to do right now.
 An's Father: You can think about all this other stuff when you feel the time is right.
 An: Then, I'll do that...
 An: Thanks, Dad.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -72,18 +72,14 @@ Rin: Is he still cleaning and packing everything up?
 An: There's that, but also something else.
 Akito: He needs time to come up with what we should do when we practice and all that.
 Kohane: Yeah. He even said that...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An's Father: I'm going to take this opportunity to teach you all everything I can.
 An's Father: In other words, I'm betting on you using all that I have at my disposal.
 An's Father: However, you're going to have to fully commit yourselves to singing and staying in shape. I'll be running you all ragged until you can't stand any longer, every single day.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin: Y-You're not gonna be able to stand?!
 An: He didn't mean that literally. He was just making a point.
@@ -123,4 +119,4 @@ An: Um... Can we chat or listen to music while we do it?
 Toya: You're more concerned about that? I thought you'd be worrying more about completing such a grueling workout.
 Miku (VBS): Hehe. Oh, An.
 An: Haha.
-(Black cut)
+(Black transition)

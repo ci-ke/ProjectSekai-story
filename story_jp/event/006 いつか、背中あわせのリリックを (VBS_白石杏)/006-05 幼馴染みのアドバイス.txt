@@ -30,7 +30,7 @@
 遥: じゃあ、またね、杏
 杏: うん、またね
 杏: ……私の本当の気持ちか
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -38,20 +38,16 @@
 杏: ただいま……って、父さん出かけてるのか
 杏: バータイムまで時間あるし、簡単に掃除して……、 そのあと、少しだけ歌の練習を——
 杏: ……ここで、初めてこはねと歌ったんだっけ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ねえ、こはね！　私と組もう！
 杏: 私と組んで、 一緒に最高のイベントをやろうよ！
-(White cut)
+(White transition)
 (Background change)
 こはね: 私……まだ全然力不足だけど……。 それでも、杏ちゃんと一緒に、最高のイベントを目指したい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （こはねに相棒になってって言って、それから 一緒にライブに出て——）
 杏: （あの時、こはねの歌はやっぱり 最高だって思ったんだ）
@@ -67,19 +63,15 @@
 杏: 相棒、失格だよ……
 杏: 相棒は、信頼して、背中を預けられる存在なのに。 私は……
 杏: こんなの、こはねのこと信じられてないのと一緒だよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 こはね: ううん。杏ちゃんは何も悪くないよ。 せっかく盛り上がってたのに……本当にごめんね、みんな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……もう、こはねに 二度とあんな顔させたくない
 杏: こはねと、ちゃんと肩を並べて、歌っていきたい
 杏: だから、ちゃんと伝えないと。 本当の相棒になるために
 杏: じゃないと、私は……、 いつまでもこはねの隣に立つ資格がないから
-(Black cut)
+(Black transition)

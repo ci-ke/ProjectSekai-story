@@ -15,35 +15,31 @@ Gacha phrase: 一緒に歌おう！
 遥: ふう……。 ストレッチはこれくらいでいいかな
 遥: それにしても、あっという間だな。 私達のワンマンライブまで、あと１週間だなんて
 遥: ……みのり、だいぶ緊張してるみたいだったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 人生初めてのワンマンだし、仕方ないよね
 遥: ……ワンマンか
 遥: セカイでみんなに話した時も感じたけど、 懐かしいな……
 遥: ふふ。いい機会だし、ASRUNのライブを見返して、 初心に帰るのもいいかも
 遥: どれから見ようかな……
-(Black cut)
+(Black transition)
 遥: ——あ。このライブ……。 たしか、ダンスにすごく苦戦した曲があったなぁ
 遥: 一番大事なサビのところが、みんな息合わないまま ライブ当日になっちゃって……
 遥: でも本番では不思議なくらいうまくいって、裏に戻った時、 思わずみんなでハイタッチしたっけ
-(Black cut)
+(Black transition)
 遥: これは……あ、そうそう！　テンポのいいダンスナンバーが セトリにたくさん入ってたライブだ
 遥: 挨拶の時、もう体力の限界で、足が震えちゃってたなあ。 それで、声まで震えてないかなって心配で
 遥: 筋力も持久力もまだまだ足りてないって痛感して、 本格的な走りこみもやるようになったんだっけ
-(Black cut)
+(Black transition)
 遥: ……もうこんな時間か。 懐かしくて、ついいろいろ見ちゃったな
 遥: そろそろ切り上げて……あっ……
 遥: 『HONEY』……。 『乙女なハニーマスタード』をリリースした時の……
 遥: このツアーも楽しかったなぁ。 ……ふふ、最後にこれを見て終わりにしようかな
-(Black cut)
+(Black transition)
 遥の声 (遥): 『みんなの気持ち、心に届いたよ！』
 遥の声 (遥): 『♪————！』
 遥: そういえば、このツアーから トロッコの演出も取り入れたんだっけ
@@ -59,38 +55,30 @@ Gacha phrase: 一緒に歌おう！
 遥: ……このカメラだと、後ろからしか映ってないけど
 遥: もしかして、ここに映ってる子って、みのり？
 遥: みのりが、ASRUNのライブやファンミーティングに 何度か来てくれてたって話は聞いてたけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ——あのね、遥ちゃんはわたしに、たくさんのものをくれたんだよ
-(White cut)
+(White transition)
 みのり: 遥ちゃんはわたしに、アイドルになるっていう夢をくれたよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: そっか……みのり、こんなところにいたんだ
 遥: こんなに近くで会ってたんだね
 遥: ……はぁ。トロッコに乗ってはしゃいでたことは覚えてたけど、 この時のことは怒られた印象が強くて、 ファンひとりひとりの顔まで覚えきれてなかったな……
 遥: ……覚えられてたらよかったのに
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: でも——
 遥: 今は本当に……隣で、一緒に歌えるんだね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -104,33 +92,29 @@ Gacha phrase: 一緒に歌おう！
 みのり: がんばろうね、遥ちゃん！ 今日のステージ——最後まで駆け抜けよう
 みのり: ……一緒に！
 遥: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥の声 (遥): 『一緒に歌おう！』
 遥: …………！ 今のところ！
-(White cut)
+(White transition)
 遥: もしかして、ここに映ってる子って、みのり？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: そうだね、頑張ろう
 遥: （ふふ。一緒に、か……）
 遥: （もしかして、あのツアーのことを覚えてて、 そう言ってくれたのかな？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージ]
 
-(Black cut)
+(Black transition)
 愛莉: ……さあっ、まだまだいくわよ！ 遅れないようについてきて！
 雫: みんなの声、もっと聞きたいわ！
 遥: 声がかれちゃうくらい、いっぱい叫んでね！
-(Black cut)
+(Black transition)
 (Background change)
 みのり: ——聞いてください！
 みのり: わたしは、あるアイドルに憧れて……、 小さい頃から、その人みたいになりたいと思って アイドルを目指してきました……！
@@ -138,18 +122,14 @@ Gacha phrase: 一緒に歌おう！
 遥: （……みのりは、すごいね）
 遥: （活動を始めてすぐは、ファンの人達に認めてもらえなくて……。 素人っぽいとか、オーラがないとか、心ない言葉も たくさん言われて）
 遥: （それでも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: わたし、アイドルとしてはまだまだだし、 遥ちゃん達の足を引っ張っちゃうかもしれない。 みんなに心配かけちゃうかもしれない……
 みのり: でも……！
 みのり: こんなわたしでも、ちゃんと踊りきれたよ！ みんなと一緒に前へ進めたよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （みのりが、自分の気持ちをまっすぐ伝えてきた姿を、 私達はずっと隣で見てきた）
 遥: （あの時……アイドルを引退した私を もう一度ステージに引き上げてくれた時と同じように、 ファンのひとりひとりと大切に向き合って——）
@@ -159,19 +139,15 @@ Gacha phrase: 一緒に歌おう！
 遥: それでも、がむしゃらで一生懸命だったみのりに、 私もすごく勇気を——希望をもらってたよ
 みのり: 遥ちゃん……
 遥: だから、今日こうして、ワンマンライブっていう、 アイドルとして大切なステージに みのりと立ててることが嬉しいんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: これからも頑張ろうね。 ……一緒に！
 遥: （……みのり、意味に気づいてくれるかな？）
-(Black cut)
+(Black transition)
 (Background change)
 (Place: バックステージ)
 雫: ふう。これで片づけも終わったかしら？
@@ -207,4 +183,4 @@ Gacha phrase: 一緒に歌おう！
 みのり: あれ？　その笑顔はどっち？ 気になるよ～っ！
 愛莉: まったく……。何やってんだか……
 雫: ふふふっ
-(Black cut)
+(Black transition)

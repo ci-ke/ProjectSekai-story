@@ -2,7 +2,7 @@
 
 (Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Ichika's Room]
@@ -11,15 +11,11 @@ Little Ichika (Ichika): *Sigh* Shiho just wouldn't budge. I didn't think she'd m
 Little Ichika (Ichika): But... Playing together as a band was really fun.
 Little Ichika (Ichika): Honami even said that she wanted to join the brass band or something someday.
 Little Ichika (Ichika): Also...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000005/bg_a000005.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000005/bg_a000005.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Little Ichika (Ichika): ...
 Little Ichika (Ichika): We promised to do this again, so I gotta find the next song we're going to play!
@@ -29,7 +25,7 @@ Little Ichika (Ichika): Oh, this song's really cool...!
 Little Ichika (Ichika): Huh? It's by the same person as the one we played today...!
 Little Ichika (Ichika): That's incredible. The one we played today was really cool, but so are all these other ones...!
 Little Ichika (Ichika): I know. I'll try listening to more of this person's songs. Let's see... I just have to click their name and...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -46,7 +42,7 @@ Little Ichika (Ichika): Smile Videos...? I've never seen this site before...
 Classmate: Oh, they only upload their videos to this site! A few other people do the same thing, so I recommend that you check it out!
 Little Ichika (Ichika): Really...?!
 Little Ichika (Ichika): (I didn't know about this site. I'll take a closer look at it when I get home...!)
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Ichika's Room)
 Little Ichika (Ichika): Wow...
@@ -58,19 +54,19 @@ Little Ichika (Ichika): “Cool Miku Songs”, “Original Miku Songs”, “VIR
 Little Ichika (Ichika): Oh...! It's giving me more videos!
 Little Ichika (Ichika): Wow... All these songs that I've never heard of...
 Little Ichika (Ichika): Hehe. I think I'll go in order starting from the top. This is so exciting...!
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: After that, I learned about all these different Miku songs, and came to love you even more.
 Ichika: You made me want to form a band with the others, and every day became so exciting. Things became really fun...
 Ichika: But fun and excitement weren't the only things that you gave me, Miku...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Hospital]
 
 Junior High School Saki (Saki): See you later, Ichi!
 Junior High School Ichika (Ichika): *Nod* See you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Aboard a Train]
@@ -83,15 +79,11 @@ Junior High School Ichika (Ichika): (Ever since we were little, she's gotten sic
 Junior High School Ichika (Ichika): (Shiho and Honami have also been too busy to hang out. We really haven't spoken much recently.)
 Junior High School Ichika (Ichika): (What's going to happen to us moving forward...?)
 Junior High School Ichika (Ichika): Are things ever going to be like they were?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Junior High School Ichika (Ichika): We'll all get back together again, right...?
 Miku Singing (Miku): <♪——! ♪————!>
@@ -104,4 +96,4 @@ Junior High School Ichika (Ichika): (It's like Miku's trying to tell me that eve
 Junior High School Ichika (Ichika): (Yeah, she's right... The four of us will be friends again someday.)
 Junior High School Ichika (Ichika): (So, for now... I should keep giving Saki all the support she needs.)
 Junior High School Ichika (Ichika): (To get ready for that day...)
-(Black cut)
+(Black transition)

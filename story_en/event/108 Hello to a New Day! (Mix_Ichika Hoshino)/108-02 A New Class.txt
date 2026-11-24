@@ -43,7 +43,7 @@ Kohane: Oh, sorry... The teacher actually just asked me to help with something. 
 Honami: Oh, I see. Well, we can always go see them some other time.
 Kohane: Yeah, let's!
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 2-B]
@@ -83,4 +83,4 @@ Emu: But let's keep hanging out like we always have!
 Honami: Of course. We can even draw with Ena or spend more time with Mizuki and Ms. Yoisaki.
 ???: Oh! Hi, everyone!!!
 Ichika: Wait, that voice...!
-(Black cut)
+(Black transition)

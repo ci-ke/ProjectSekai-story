@@ -37,18 +37,14 @@ Gacha phrase: あ……あっち行けよ！
 杏: でも、彰人が出ようって決めた理由、 ちょっとわかる気がするな
 杏: そのマックスくんと飼い主さん、相棒なんでしょ？
 彰人: ……ああ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 飼い主: いつかそこで優勝して、 日本一のチームになるのが僕達の夢なんです！
 飼い主: な、相棒！
 マックス: ワンッ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: あいつらにも叶えたい夢があって、 そのために頑張ってたのも見てたしな
 彰人: 他人事には思えなかったんだよ
@@ -73,7 +69,7 @@ Gacha phrase: あ……あっち行けよ！
 冬弥: そうだな
 こはね・杏: 『うん！』 『オッケー！』
 彰人: ——よし、やるぞ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -108,17 +104,13 @@ Gacha phrase: あ……あっち行けよ！
 彰人: ……ん？　オレ、その話お前にしたか？
 石原: 花里さんや神代さんから聞いたんだ。 東雲くんも夢に向かって頑張ってるって
 石原: 実は大会のあと、東雲くん達の歌が聴きたくて、 知り合いにライブハウスに連れていってもらったんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 石原: …………！
 石原: す……すごい……！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ——ああ、隣町のイベントか。 なんだ、いたのかよ
 石原: うん！　僕も知り合いもものすごく熱くなって……！ イベントが終わったあとも、 ずっと東雲くん達の話をしたくらいだよ！
@@ -148,4 +140,4 @@ Gacha phrase: あ……あっち行けよ！
 石原: 東雲くん達も、夢に向かって頑張ってね！ 僕達も応援するよ！
 彰人: おう。お前も、お前の手でマックスを優勝させてやれ！
 石原: うん、次こそ頑張るよ！
-(Black cut)
+(Black transition)

@@ -16,14 +16,14 @@
 レン (Ln): まあ、一番挙動不審だったのもリンだけどな
 リン (Ln): え〜、そんなことないって！ お楽しみ委員として、ちゃーんとクールに振る舞ってたよ！
 ミク (Ln): そうだったっけ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000467/bg_s000467.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000467/bg_s000467.webp)
 リン (Ln): とにかく——今日のパーティーは あたしがめちゃ盛り上げちゃうよ〜♪
 リン (Ln): ここからの進行も、リンにおまかせ！ みんな、思いっきり楽しんでいってね♪
 リン (Ln): じゃあ早速—— カイト兄とレンのセッションから、いってみよー！
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 
 [１時間後]
 
@@ -79,4 +79,4 @@ MEIKO (Ln): 私達にできることがあれば、なんでも言ってよ。 �
 リン (Ln): とーぜん！ まだまだ半分くらいだよ！
 リン (Ln): 次は、レンと考えた ババ抜きのアレンジで——
 穂波: （けど、本当に……なんの話なんだろう？）
-(Black cut)
+(Black transition)

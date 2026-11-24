@@ -8,11 +8,9 @@ leo_01_00 オープニング
 (Fullscreen text): 　  性格はバラバラだけど、 ４人で一緒にいると楽しくて、 　  すごく気が合って……
 (Fullscreen text): だから、私が『バンドをやってみたい』 　　　　　って言った時も、  みんなすぐにいいよって言ってくれて
 (Fullscreen text): 初めて練習した帰りに見た星空は 　　 ――すごく綺麗だった
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い咲希 (咲希): はー！　バンドって初めてだったけど、 みんなと演奏できてすっごく楽しかったー！
 幼い志歩 (志歩): ……まあ、結構やりがいあったね
 幼い穂波 (穂波): ふふっ。そうだね。 最後はヘトヘトになっちゃったけど、楽しかったね
@@ -22,11 +20,9 @@ leo_01_00 オープニング
 幼い咲希 (咲希): うん！　またやろうよ！ 明日も、あさっても、４人でバンドの練習しようね！
 幼い一歌 (一歌): うん……！ ……あれ、今、流れ星……？
 幼い咲希 (咲希): え！　どこどこ？ ねえ、公園のジャングルジムに登って見てみようよ！
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000005/bg_a000005.webp)
-
-(Memory cut-out)
-
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000005/bg_a000005.webp)
+(Flashback out)
 幼い一歌 (一歌): あ、また……流れた！
 幼い穂波 (穂波): わぁ、きれい……！ あ、そういえば今日って、流星群が見られる日だったね。 朝ニュースでやってたよ
 幼い志歩 (志歩): へえ、そうなんだ。 じゃあもう少し待ってたら、もっとたくさん見られるのかな
@@ -43,12 +39,12 @@ leo_01_00 オープニング
 幼い志歩 (志歩): そんなのあるんだ。おもしろそう
 幼い咲希 (咲希): じゃあ帰って楽器置いてから、 またここに集合しよう！
 幼い一歌 (一歌): うん！
-(Black cut)
+(Black transition)
 (Fullscreen text): 私達はずっと友達なんだって思ってた
-(Black cut)
+(Black transition)
 (Fullscreen text): ずっと一緒にいられるって――そう思ってた
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 (Background change)
 
 [数年後]
@@ -60,7 +56,7 @@ leo_01_00 オープニング
 一歌: （あれ？　中庭にいるの……穂波？）
 一歌: （スケッチブック持ってるし、 ５限、美術の写生なのかな）
 一歌: （あっ……こっち見た）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　中庭]
@@ -68,10 +64,10 @@ leo_01_00 オープニング
 穂波: ……一歌ちゃん
 穂波のクラスメイト: 穂波？　どうしたの？
 穂波: ……ううん、なんでもないよ
-(Black cut)
+(Black transition)
 (Background change)
 一歌: 穂波……
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -84,17 +80,17 @@ leo_01_00 オープニング
 一歌: そうなんだね……えっと……
 志歩: ……私、もう行くから
 一歌: あ、志歩……
-(Black cut)
+(Black transition)
 一歌: （……今日も、上手く話せなかった）
 一歌: （いつからこうなっちゃったんだろう？ 穂波と志歩とギクシャクして、咲希も――）
 一歌: ……ずっとこのままなのかな。 話せないまま卒業して、バラバラになって……そんなの……
 ？？？: 『♪――――　♪――――』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000006/bg_a000006.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000006/bg_a000006.webp)
 一歌: ……これ、ミクが歌ってるMVだ
 一歌: すごいな、ミクは。 昔からずっと、どんな風にでもなれて、すごく――自由で
 一歌: 私とは、全然違うな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [一歌の部屋]
@@ -128,23 +124,19 @@ leo_01_00 オープニング
 一歌: 私と、みんな……って
 ミク (Ln): うん。いるでしょ？　一歌には、大切な友達が
 一歌: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000005/bg_a000005.webp)
-
-(Memory cut-in)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000005/bg_a000005.webp)
+(Flashback in)
 幼い咲希 (咲希): みんなで遊んで、たっくさんおしゃべりして、 帰り道に星見たりして……
 幼い咲希 (咲希): そんな風に、ずーっと みんなと一緒にいられたらいいなあって
-(White cut)
+(White transition)
 (Background change)
 穂波: ……ううん、なんでもないよ
-(White cut)
+(White transition)
 (Background change)
 志歩: ……私、もう行くから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: でも、もう、みんなは……。 それに咲希も……
 ミク (Ln): 大丈夫だよ、一歌
@@ -161,15 +153,15 @@ leo_01_00 オープニング
 一歌: もう、外暗くなってる。 ずいぶん寝ちゃってたんだ……
 一歌: あ……
 一歌: 今日は星がよく見えるな……
-(Black cut)
+(Black transition)
 (Background change)
 穂波: ……あ
 穂波: 星、綺麗……
-(Black cut)
+(Black transition)
 (Background change)
 志歩: …………？ 今日は、やけによく見えるな
 志歩: 星なんて……久しぶりに見た
-(Black cut)
+(Black transition)
 (Background change)
 咲希: ふんふふーん♪　ふんふふーん♪
 咲希: 新色のリップ買えてよかったー！ 明日からつけていこうっと
@@ -178,6 +170,6 @@ leo_01_00 オープニング
 咲希: 昔みんなで見たなあ、流星群。 あの時の空、すっごくキレイだったな……
 咲希: あ……また流れた！ じゃあ、せっかくだし、お願いしておこうかな？
 咲希: また４人で一緒に、 キレイな流星群が見られますように――
-(Black cut)
+(Black transition)
 (Video: light_sound_opening)
-(Black cut)
+(Black transition)

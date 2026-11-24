@@ -2,7 +2,7 @@
 
 (Character: Akito Shinonome, Kagamine Len, Megurine Luka, MEIKO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Street SEKAI]
@@ -12,13 +12,13 @@
 Akito: You and me singing together, Luka...?
 Luka (VBS): Yes!
 Akito: But why...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000240/bg_s000240.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000240/bg_s000240.webp)
 Luka (VBS): To get you to let your feelings out all at once, of course!
 Akito: You're talking about singing from my heart like Ken said, right? But just singing together doesn't seem like...
 Luka (VBS): Fine, then let's make it a battle! That should be more enticing, no?
 Luka (VBS): You're not going to run, are you?
-(White cut)
+(White transition)
 (Background change)
 Akito: I know what you're doing, and I'd really rather not take the bait...
 Akito: (But...)
@@ -62,17 +62,13 @@ Luka (VBS): Tell me what you're feeling! Give me everything you have!
 Akito: What I'm feeling...?
 Luka (VBS): Yes! You've felt and experienced a lot of different emotions up until now. So, let's throw everything we have at each other!
 Akito: What I've felt...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (What I...felt just now...)
 Akito: ♪...————
@@ -99,16 +95,12 @@ Luka (VBS): ♪————————————!!
 Akito: (This is so strange...)
 Akito: (I can feel all these emotions rising to the surface...)
 Akito: (Fun, excitement, regret...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ken: Don't worry. You already have everything you need.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: ...! That's it...!
 Akito: If I can turn these feelings into song, then...
@@ -124,4 +116,4 @@ Akito: Okay, understood.
 Akito: I really appreciate it, Luka. I have a much better idea of what I need to do now thanks to you.
 Luka (VBS): Hehe. I'm glad to hear that!
 Luka (VBS): Now, go unleash everything you just felt! Pow!
-(Black cut)
+(Black transition)

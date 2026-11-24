@@ -11,7 +11,7 @@ Skill name: I'll Find It Again And Again
 Mizuki: Wow! The night show was so good!
 Kanade: Yes, it was. The story and effects were very good, so I'm glad we came to see it.
 Ena: But the park's about to close, so I guess we should head out soon.
-(Black cut)
+(Black transition)
 Mafuyu: So many people...
 Mizuki: Looks like everyone's also getting ready to leave now that the night show's over.
 Ena: Yeah, we're all going home now, so worst case scenario, we can just call it a day if we get separated.
@@ -51,7 +51,7 @@ Kanade: (That look... Is it just me, or did she sound a little happy just now?)
 Kanade: Mafuyu, if you're okay with that person being me, I'll keep finding you as many times as you need...
 Mafuyu: Okay...
 Kanade: Alright, let's go. The others are waiting for us.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -69,7 +69,7 @@ Kanade: Oh, but before I do...
 Kanade: (I hope Mafuyu's okay. And I really hope that her mom didn't scold her...)
 Kanade: (<Were things okay at home after you got back?>...)
 Kanade: Okay, time to get to work.
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: (Okay, I have a few different concepts to work with now...)
 Kanade: (I was having so much trouble coming up with anything before too. I guess this means our trip was worth it.)
@@ -125,4 +125,4 @@ Mafuyu: <Okay. Bye...>
 Kanade: (Mafuyu's in a tough spot... But...)
 Kanade: (She still wants to write lyrics and is also waiting for me to compose that song.)
 Kanade: (Which means I'll just have to keep composing more and more songs.)
-(Black cut)
+(Black transition)

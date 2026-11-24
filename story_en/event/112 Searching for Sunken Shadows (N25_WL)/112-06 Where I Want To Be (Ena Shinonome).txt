@@ -3,7 +3,7 @@
 (Character: Ena Shinonome, Kagamine Rin, Kagamine Len)
 
 (Video: link_night_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Art Class]
@@ -31,7 +31,7 @@ Len (N25): <Huh?>
 Rin (N25): <She always looked like she was in pain whenever she was drawing anything...>
 Rin (N25): <But things seem different today.>
 (Background change)
-(Black cut)
+(Black transition)
 Ena: *Sigh*
 Ena: (He bit my head off again today... To be fair, that's a pretty normal occurrence now.)
 Ena: (But I feel like he's been making comments about the finer details lately...)
@@ -49,7 +49,7 @@ Futaba: Really?! Then, let's go!
 (Background change)
 Len (N25): <Is she Ena's friend...?>
 Rin (N25): <I think so. Let's stick around to see what happens.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cafe]
@@ -74,8 +74,8 @@ Futaba: So, Ena, where do you want to go for university?
 Ena: Huh? Me?
 Futaba: Yeah, because I really like your art... I feel that it'd be a huge shame if you didn't try to get accepted somewhere.
 Ena: Oh, uhh...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000249/bg_s000249.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000249/bg_s000249.webp)
 Ena: (Art school, huh?)
 Ena: (I still can't really see myself getting accepted into one.)
 Ena: (I mean, I want to go. I want to keep studying art...)
@@ -84,13 +84,13 @@ Ena: (I wasn't able to commit to my art before. Yeah, I'm back in class now, but
 Ena: (How am I supposed to get accepted anywhere? I know I have to get a lot better in order to...)
 Futaba: Oh, Ena, I'm sorry... Were you still undecided?
 Ena: Oh, umm... Yeah, kinda. Or rather, I haven't had time to think about that lately.
-(White cut)
+(White transition)
 (Background change)
 Ena: Anyway, let's get another dessert! This seasonal cake looks way too good.
 Ena: We can split it!
 Futaba: Hehe. Okay. Then, let's get it.
 Futaba: Excuse me. We'd like to make an order.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Neighborhood]
@@ -129,4 +129,4 @@ Rin (N25): <Where's that coming from?>
 Ena: So... I'm better now compared to before, but I'm nowhere near the level of Futaba and the others. Plus, my illustrations still aren't doing N25's songs justice.
 Ena: Which is why I'm wondering if it's really okay for me to try to go where they're going, to study art and to work towards the same goal...
 Rin (N25): <Ena...>
-(Black cut)
+(Black transition)

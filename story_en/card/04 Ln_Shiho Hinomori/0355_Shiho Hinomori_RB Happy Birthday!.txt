@@ -26,20 +26,16 @@ Shizuku: Remember how you used to invite Honami and the others over each year to
 Shizuku: The moon viewing party we had with Airi and everyone else was really a lot of fun, so I was wondering if you'd like it if we threw something like that...
 Shizuku: Would you be against that...?
 Shiho: ...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Shiho: (Yeah, that was pretty fun... Also...)
 Shiho: I won't stop you. I mean, you've already started working on it, right?
 Shizuku: Shii...! Thank you so much! I promise to make it as wonderful a birthday party as I can!
 Shiho: Alright, alright, I get it. Now, go take your bath.
 Shizuku: Okay♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [One week later]
@@ -54,24 +50,20 @@ Shiho: I don't see a problem since you'll have Minori there with you. Also, I'm 
 Kohane: Okay! Thanks, Shiho. I'll make sure to get you something good!
 Shiho: (When's the last time I had a birthday party like this... Come to think of it, Shizuku used to celebrate with her friends...)
 Shiho: (In retrospect, I feel like I should've made a bigger deal out of her birthday...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Shizuku: I-Is this...? My birthday present?
-(White cut)
+(White transition)
 Shizuku: Oh, this is so cute! A pass case in the shape of a sparrow! I was just thinking about getting a new one too!
 Shiho: You mentioned it during dinner the other day, remember? The one you have right now is starting to come apart, right...?
 Shizuku: Sh-Shii...!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Shiho: (I'm glad she liked it, but that present was all I really did for her...)
 Shiho: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day before Shiho's birthday]
@@ -89,21 +81,17 @@ Shiho: Thank you too, KAITO. I know parties aren't really your thing.
 KAITO: Yes, but your special day only comes once a year so...
 Len: He's right! You're having a party tomorrow to celebrate too, right? You should be having as much fun as you can!
 Shiho: Oh...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Shiho: Yeah, she's going through the trouble of throwing a party for me, so I will...
 Luka: ...?
 Miku (Ln): Um, Luka? Is it me or does Shiho seem a little down today...?
 Luka: Yes, I noticed that as well.
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: I'm gonna stay to practice a little more, so I'll see you tomorrow.
 Ichika: Okay, see you tomorrow.
@@ -118,7 +106,7 @@ Shiho: No, not really... I was just going over some things we went over during p
 Miku (Ln): Are you sure about that, Shiho...? You can always ask us if something is bothering you.
 Luka: We just want you to wholeheartedly enjoy your birthday. Why not take this opportunity to discuss what's on your mind?
 Shiho: ... So...
-(Black cut)
+(Black transition)
 Miku (Ln): So you feel a little guilty about your sister putting a whole party together for you compared to the present you gave her on her birthday...?
 Shiho: Yeah, pretty much...
 Shiho: In hindsight, I can't help but wonder if I should've thrown one for her considering how many more friends she has than me...
@@ -128,7 +116,7 @@ Shiho: Whether or not that feeling's genuine...?
 Luka: Yes. And if it still bothers you, why not ask your sister yourself?
 Miku (Ln): Right. You should enjoy the party she's throwing for you, so I recommend doing so as well.
 Shiho: ...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -153,16 +141,12 @@ Shizuku: I see... But you don't have to feel that way. This party's not actually
 Shiho: Huh?
 Shizuku: Remember how you sort of preferred to play all by yourself when we were little?
 Shizuku: I absolutely admire how you're such a strong girl, but you also seem so lonely at times looking in from the outside...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Shizuku: However, seeing you have Ichika and Minori along with so many other friends and classmates around you now puts such a big smile on my face.
 Shiho: Shizuku...
 Shizuku: Of course, this birthday party is meant to celebrate you, Shii, but...
@@ -172,7 +156,7 @@ Shiho: Still, point taken...
 Shizuku: Thank you. So please, let me celebrate your special day by throwing you this party. Are you still okay with that?
 Shiho: Yeah, I'm okay with it...
 Shizuku: Hehe. Thank you, Shii!
-(Black cut)
+(Black transition)
 Shizuku: Thank you all for gathering today to celebrate Shii's birthday!
 Shizuku: Here's to her having so many friends to look after her now! Cheers!
 Airi: Shizuku! You couldn't just go with “Happy birthday”?!
@@ -212,8 +196,8 @@ Airi: I could say the same for you, Shizuku.
 Shizuku: Hehe. That's because I'm happy as long as I know that she's smiling.
 Airi: Yeah, I can tell. That means we should help give her the celebration that she really deserves!
 Shizuku: Great!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000039/bg_s000039.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000039/bg_s000039.webp)
 Tsukasa: <Is it recording...? Ahem...! Shiho, we won't be able to make your party, but we hope you'll get a chance to hear this! Happy birthday!>
 Saki: <Oh, Tsukasa, me next! Shiho, I know that we have to keep practicing really hard, but I wanna get better so I promise to do my best!>
 Ichika: <Happy birthday, Shiho. I promise to keep doing my best so that the songs we write and play do well during shows... Some words of encouragement might be nice every so often too. Anyway, Honami, you're next...>
@@ -229,7 +213,7 @@ Airi: <Happy birthday, Shiho! It's incredible how mature you are. Honestly, I so
 Airi: <Still, Shizuku really is a wonderful big sister, so please throw her a bone every once in a while.>
 Shizuku: <Are you enjoying your birthday party, Shii? I know that I certainly am!>
 Shizuku: <I'm sure that you are, but I'm also sure that your friends are as well. Hehe. I'd like to do this again if possible.>
-(White cut)
+(White transition)
 (Background change)
 Shiho: Thanks for celebrating my birthday with me today...
 Shiho: Leo/need's still pretty rough around the edges since we're still just getting started as a band...
@@ -237,4 +221,4 @@ Shiho: But Ichika and the others showed me that they're serious about going pro 
 Shiho: Which is why I've gotta keep doing my best too.
 Shiho: I hope you'll stick around to see what happens.
 Shiho: Anyway, I'll see you later.
-(White cut)
+(White transition)

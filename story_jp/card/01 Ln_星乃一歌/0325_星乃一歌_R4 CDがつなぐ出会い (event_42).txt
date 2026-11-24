@@ -35,15 +35,11 @@ Gacha phrase: 最後の１枚……あっ！
 穂波: ううん、聞いちゃったのわたしだし、気にしないで
 一歌: ……うん。ありがとう
 一歌: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……聴きたかっただろうな、あの人も）
 咲希: …………
@@ -81,7 +77,7 @@ Gacha phrase: 最後の１枚……あっ！
 咲希: おおー！ もし出会えたら、奇跡……ううん、運命だね！
 志歩: ふふ。だってさ
 一歌: もう、大げさだなあ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,21 +98,17 @@ Gacha phrase: 最後の１枚……あっ！
 一歌: もう１回聴いてみよう
 一歌: （……言い回しとか、比喩もすごく凝ってる。 でも比喩なのにわかりやすかったり、鋭かったり……）
 一歌: この詞を、あの朝比奈先輩が……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （優しくて頼もしいっていう感じだし、 こういうダークな歌詞を書いてるイメージないけど……）
 一歌: （それだけ、想像力がすごいってことかな？）
 一歌: 本当に、すごいな……
 一歌: よし！　私も頑張って、 もっとしっかり想いを伝えられる詞を書かないと
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -172,4 +164,4 @@ Gacha phrase: 最後の１枚……あっ！
 一歌: これから詞を書く時、参考にします！
 まふゆ: ふふ、力になれたのならよかった。 歌詞、頑張ってね
 一歌: はい！
-(Black cut)
+(Black transition)

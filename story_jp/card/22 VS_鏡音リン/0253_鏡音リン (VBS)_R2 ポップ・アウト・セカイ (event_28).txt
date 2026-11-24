@@ -36,7 +36,7 @@ KAITO: いろんな人達で集まって一緒に歌ったり、 どこのチー
 KAITO: あ、ちょ、ちょっと！ ボクの質問、結局答えてもらってないんだけど……
 ミク (VBS): まあね……。でも、それより……
 MEIKO: みんなのところ行くって言ってたけど、 あの子達、今学校じゃないのかしら？
-(Black cut)
+(Black transition)
 (Background change)
 
 [昼休み]
@@ -49,7 +49,7 @@ MEIKO: みんなのところ行くって言ってたけど、 あの子達、今
 彰人: ん？　なんだ、スマホが光って——
 リン: 『やっほー！　遊びに来たよー！』
 彰人: …………はあ！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　中庭]
@@ -79,7 +79,7 @@ MEIKO: みんなのところ行くって言ってたけど、 あの子達、今
 リン・レン: 『やったー！』
 リン: 『ありがとう、彰人くん！ イベント楽しみにしてるね！』
 彰人: おう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -90,7 +90,7 @@ MEIKO: みんなのところ行くって言ってたけど、 あの子達、今
 
 リン: ねえねえ、そろそろじゃない？
 レン: そうだね、行こっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス前]
@@ -109,16 +109,16 @@ MEIKO: みんなのところ行くって言ってたけど、 あの子達、今
 彰人: まあな
 彰人: じゃ、そろそろ中に入るか。 リン、レン、しばらく隠れてろよ
 リン・レン: 『はーい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [小さめのライブハウス]
 
 彰人: ふたりとも、出てきていいぞ。 この辺りでどうだ？
 リン: 『わぁ……！』
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 リン: 『お客さん、いっぱいだね！』
 杏: ふふっ、でもこのハコはまだ小さいほうなんだよ
@@ -129,27 +129,27 @@ MEIKO: みんなのところ行くって言ってたけど、 あの子達、今
 彰人: けど、はしゃぎすぎてスタッフの人にバレんなよ？
 彰人: 一応、見つかりにくいように 予備のスピーカーの裏とかに置くつもりだけどな
 リン: 『はーい！』
-(Black cut)
+(Black transition)
 (Background change)
 ミュージシャン: ——！　——！！
 MC: いいパフォーマンスだったぜ、サンキュー！
-(Black cut)
+(Black transition)
 (Background change)
 リン: 『他のチームの人達もすごいね！』
 レン: 『うん。……あ、見て！』
-(Black cut)
+(Black transition)
 (Background change)
 MC: さて、次はみんなお待ちかね！ Vivid BAD SQUADの登場だ！
 リンの声 (リン): 『わっ……！ 今までの人達よりも、すっごい歓声！』
 レンの声 (レン): 『みんなが彰人達を待ってたって感じだね！』
-(Black cut)
+(Black transition)
 (Background change)
 リン・レン: 『わぁ……！』
-(Black cut)
+(Black transition)
 (Background change)
 こはね・杏: 『————！　——————！！』
 彰人・冬弥: 『————！　——————！！』
-(Black cut)
+(Black transition)
 (Background change)
 リン: 『す……すごいね！　みんな！』
 レン: 『うん！　やっぱ、練習とイベントじゃ全然違うし、 それに……』
@@ -170,4 +170,4 @@ MC: さて、次はみんなお待ちかね！ Vivid BAD SQUADの登場だ！
 リン: 『バレそうになったこと、みんなには内緒ね』
 レン: 『もちろん』
 リン・レン: 『あははっ！』
-(Black cut)
+(Black transition)

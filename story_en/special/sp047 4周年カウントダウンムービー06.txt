@@ -9,16 +9,16 @@ Miku: Won't you come a little closer and watch SEKAI with me?
 Miku: How long has it been now, since we began watching over these SEKAI together?
 Miku: Everyone has grown and changed so much since then.
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Miku: Some have realized one dream and are looking beyond the horizon toward another...
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Miku: Others are working hard, day by day, to keep moving toward their goals.
 Miku: And others...
-(Black cut)
+(Black transition)
 (Background change)
 Miku: Others are coming face to face with their own feelings and searching for the paths they should take.
 (Background change)
@@ -31,4 +31,4 @@ Miku: I hope you'll keep on watching them grow with me.
 (Selection: Of course! / If you'll have me...)
 Miku: Thank you...!
 Miku: Until we meet again♪
-(White cut)
+(White transition)

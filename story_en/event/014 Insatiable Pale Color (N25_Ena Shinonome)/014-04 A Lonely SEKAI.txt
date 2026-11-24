@@ -37,7 +37,7 @@ Mizuki: <E-Enanan, wait!>
 Kanade: <What happened to Enanan...?>
 (Background change)
 Mafuyu: <...>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: I'm such an idiot. Taking my anger out on them even though it's pointless...
 Ena: It's not like it'll change anything...
@@ -62,18 +62,14 @@ Ena: Get out!! Don't bother talking to me anymore!!
 Akito: E-Ena...!
 Ena: Leave me alone! Don't tell me how much something means to me or that I'll regret it...!
 Ena: I just want to be by myself...!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: Wait, if I go there...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -100,4 +96,4 @@ Miku (N25): Okay...
 Ena: I'm sorry, Miku...
 Ena: But nothing matters to me now. Nothing at all...
 Ena: I want to forget everything...
-(Black cut)
+(Black transition)

@@ -39,15 +39,15 @@ MEIKO: アイドルをしていると贈り物をもらう機会も多いけど�
 リン: あれ？　まだ用意してくれてたの？
 愛莉: ふふ、実はそうなの！ それはね……
 愛莉: これよっ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000046/bg_s000046.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000046/bg_s000046.webp)
 ミク・リン: 『わあ……！』
 リン: わたし達の人形だ！ すごーいっ！！
 雫: まあ……
 ルカ: 本当にすごいわね！ ほら、みんなそっくりだわ♪
 レン: 衣装もこだわって作ってるのがわかるね。 このまま動き出しそうだよ
 愛莉: ふふっ、喜んでもらえたみたいでよかったわ！
-(White cut)
+(White transition)
 (Background change)
 リン: でも愛莉ちゃん。 わたしがお邪魔した時には、こんなのなかったよね？
 愛莉: 実はこっそり作ってたのよ。 セカイのみんなにも、バレンタインのステージに 来てほしかったからね♪
@@ -66,4 +66,4 @@ KAITO: ふふ。 僕もこのステージに参加させてもらえて嬉しい
 雫: ふふっ。みんなをこんなに幸せにできるだなんて…… さすが愛莉ちゃんね！
 愛莉: これくらい、当然よ！
 愛莉: だって…… わたしはアイドルで、みんなのことが大好きだもの！
-(White cut)
+(White transition)

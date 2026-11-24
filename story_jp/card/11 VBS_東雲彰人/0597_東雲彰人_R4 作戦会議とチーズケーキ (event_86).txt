@@ -9,10 +9,8 @@ Gacha phrase: ん、いいんじゃねえか？
 
 [センター街]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ねえこはね、明日時間ある？ それから彰人と冬弥も！
 こはね: うん。明日は飼育委員も当番じゃないし、 早く帰って、どこかで練習しようかなって思ってたけど……
@@ -20,21 +18,15 @@ Gacha phrase: ん、いいんじゃねえか？
 彰人: オレも大丈夫だ。バイトも入ってねえから、 いつものトレーニングをやる予定だったが
 杏: じゃあ、私達でCrawl Greenに行こうよ！
 こはね: え？　Crawl Greenに……？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （Crawl Green……行くのはあの時以来か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……ちょっと前のオレなら、あそこに行くってだけで 無駄に力が入ったり、気負ったりもしたんだろうが……）
 彰人: （けど、今は——）
@@ -66,7 +58,7 @@ Gacha phrase: ん、いいんじゃねえか？
 彰人・冬弥: 『——！！　————！！』
 通行人A: おい、あいつら！　Vivid BAD SQUADの！
 通行人B: ああ、BAD DOGSだ！ ふたりだけで歌ってるのなんて、最近じゃ結構レアだぞ！
-(Black cut)
+(Black transition)
 彰人: はあ……はあ……
 彰人: 軽くのつもりが、いつの間にか全力で歌っちまったな
 冬弥: はあ……最初からあれだけ気合いの入った歌い出しをしたんだ。 こうなるのは当然だ
@@ -88,7 +80,7 @@ Gacha phrase: ん、いいんじゃねえか？
 冬弥: そうだな
 彰人: ——まずは、しっかり打ち合わせしねえとな。 行くぞ、冬弥
 冬弥: ああ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -109,27 +101,19 @@ EVERのメンバー: 打ち上げはいつもどおり、WEEKEND GARAGEだよな
 新: なら、料理が冷めないうちに行かなくちゃね。 けどその前に、オーナーに挨拶しておかないと
 杏: あ、それならさっき外に空気吸いに行った時に バッタリ会って、一応お礼は伝えておいたよ
 彰人: （なんだ、遠野か杏が挨拶しに行く時に、 ついて行こうと思ってたんだが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 彰人: あの日の失敗があったから、覚悟が固まりました。 オレは……もう二度と、客を冷めさせたりはしねえ
 Crawl Greenオーナー: ……そうか。 なら——キッチリ結果で示せよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: （……オレは、今度こそちゃんとやれたのか）
 彰人: （いや……イベント自体は成功した。 オレも、いつも以上の力で歌えた）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……オレの実力っつーよりは、 こはねに引っ張り上げられたって感じだったが……）
 彰人: （『結果で示せ』ってあの人の言葉に、オレは——）
@@ -139,7 +123,7 @@ Crawl Greenオーナー: ……そうか。 なら——キッチリ結果で示
 冬弥: ……わかった。 何かあったら、連絡してくれ
 彰人: おう
 彰人: さて……
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ——オーナー
 Crawl Greenオーナー: ああ、お前か。 お疲れさん
@@ -162,7 +146,7 @@ Crawl Greenオーナー: 今後に期待だな
 彰人: はい。オレ達は必ず、謙さん達を—— RAD WEEKENDを超えてみせます
 Crawl Greenオーナー: ああ。せいぜい頑張ってみせろ
 彰人: はい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -180,4 +164,4 @@ Crawl Greenオーナー: ああ。せいぜい頑張ってみせろ
 洸太郎: よっしゃー！　もう、腹ペコペコだー！
 冬弥: ……彰人
 彰人: ああ、行くか
-(Black cut)
+(Black transition)

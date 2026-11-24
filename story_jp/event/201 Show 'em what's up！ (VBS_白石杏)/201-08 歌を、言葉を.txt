@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -98,7 +98,7 @@ MC: 『…………おいおい。こんな結果、誰が予想できた！？�
 MC: 『聞くまでもねえ！　そうだろ、お前ら！！』
 MC: 『このグループ、勝者は————』
 MC: 『Vivid BAD SQUAD！！！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [終演後]
@@ -136,30 +136,22 @@ Waysのリーダー: 『はっ。——次は、負けねえぞ』
 杏: え？
 彰人: お互いに譲れねえもん賭けて歌って…… 高め合ってくっつーか
 杏: そっか。それって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……こういうのって、どんな場所に行っても同じなんだね
 杏: なんか、ちょっと嬉しいかも
 こはね: ふふ、そうだね
 杏: （……楽しかったな）
 杏: （自分の歌が……言葉が。 まっすぐ観客に伝わった気がして）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……ふふっ
 こはね: 杏ちゃん、どうしたの？
@@ -169,20 +161,16 @@ Waysのリーダー: 『はっ。——次は、負けねえぞ』
 杏: でしょでしょ！ この調子で、全員倒しまくっちゃおう！
 彰人: お前……まだちょくちょく勢いで誤魔化してるくせに、 調子に乗んじゃねえよ
 杏: あ、バレた？ でもいいじゃん！　通じてるんだしさ！
-(Black cut)
+(Black transition)
 (Background change)
 ダグラス: ………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏・こはね: 『♪————————！！　♪——————〜〜〜〜！！』
 彰人・冬弥: 『♪——————————————！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ダグラス: ……Vivid BAD SQUAD、か
-(Black cut)
+(Black transition)

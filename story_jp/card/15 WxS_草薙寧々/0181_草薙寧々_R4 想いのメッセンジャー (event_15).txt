@@ -10,43 +10,35 @@ Gacha phrase: 話したくなったら、話してよね……
 [フェニックスワンダーランド]
 
 寧々: ……えむ、帰っちゃったけど、 本当に大丈夫かな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 えむ: ……みんな、お兄ちゃん達がごめんね……
-(White cut)
+(White transition)
 えむ: ……えへへ、全然大変なことじゃないよ～！
 えむ: ちょっとケンカしちゃったの！ でも、大丈夫！　ちゃーんと仲直りできるから！
-(White cut)
+(White transition)
 えむ: ほんとのほんとに大丈夫だからっ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: 本人が帰ってしまっては、 話すものも話せんな
 類: ……そうだね。 では、今日のところは僕達も解散としよう
 寧々: うん……
 類: ……っと、すまない。 ワンダーステージに忘れ物をしてしまったようだ
 類: 寧々、先に帰っていてくれるかい？
 寧々: ……？　別にひとりで帰れるし。 じゃあね
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
 
 寧々: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （あれのどこが大丈夫だっていうの）
 寧々: （どうして、わたし達に何も話してくれないわけ……）
 寧々: はぁ……
@@ -61,7 +53,7 @@ Gacha phrase: 話したくなったら、話してよね……
 一歌: えっと、勘違いかもしれないんだけど……。 何か、あった？
 寧々: それは……。 …………
 一歌: えっと……。 よかったら、そこの公園で座って話さない？
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -98,23 +90,17 @@ Gacha phrase: 話したくなったら、話してよね……
 一歌: 迷って、何もしないままで……。 それで本当に、後悔しないのかな
 寧々: …………！
 寧々: （えむ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 えむ: 寧々ちゃん！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 えむ: ねーねーちゃ～ん♪
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （いつも急に変なことを言いだしたり、 人のこと勝手に巻きこんだり……）
 寧々: （でも……イヤだって感じたことは、一度だってなかった）
 寧々: （えむには、司とバカなことやっててほしい。 類と何か変なこと企んでてほしい。 それから……）
@@ -124,7 +110,7 @@ Gacha phrase: 話したくなったら、話してよね……
 一歌: どういたしまして
 一歌: その友達のこと、助けてあげられるといいね
 寧々: うん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -138,18 +124,14 @@ Gacha phrase: 話したくなったら、話してよね……
 寧々: （今日は、みんなでセカイに行って作戦会議する日か……）
 寧々: （他の会社と提携しなくてすめば、 えむが残したい今のフェニックスワンダーランドを守れる）
 寧々: （経営がどうとか、難しい話だけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 類: 経営が苦しいのも事実だろうし、今の状態を守った結果、 フェニックスワンダーランドがなくなってしまっては意味がない
 司: フェニックスワンダーランドでありながら、 存続のために、何かを変える必要はある……ということか
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （えむのためにも、わたし達にできることをしないと……！）
 寧々: そういえばえむ、学校が終わったら こっちに来るって言ってたっけ
 寧々: （校門で待ってろって司が伝えてたけど、 たぶんいつもどおり、普通に入ってきちゃうんだろうな）
@@ -162,10 +144,10 @@ Gacha phrase: 話したくなったら、話してよね……
 ？？？: おじゃましまーす！
 寧々: えっ！　この声って……
 類: えむくんのようだね。 もう来てしまったのかな？
-(Black cut)
+(Black transition)
 (Background change)
 寧々: ん？　でも、校門のほうには それっぽい姿は見えないけど……
-(Black cut)
+(Black transition)
 (Background change)
 類: おじゃましまーすと言っていたから、 お邪魔しちゃったんだろうねぇ
 寧々: ちょっと、何のんきなこと言ってるの？ えむが先生に見つかったら面倒でしょ
@@ -176,7 +158,7 @@ Gacha phrase: 話したくなったら、話してよね……
 類: そうだね。けど、司くんのクラスの隣だから、 わざわざ選択肢にする必要はないと思ってね
 寧々: あ、なるほど
 類: じゃあ、すれ違わないように気をつけながら、 司くんのクラスに行ってみようか
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　廊下]
@@ -185,17 +167,17 @@ Gacha phrase: 話したくなったら、話してよね……
 男性教師の声: ……ん。なんだ、お前達。 まだ帰ってなかったのか？
 寧々: え？　先生？
 類: おっと……。これは思わぬ先客だね。 少し様子を覗いてみようか
-(Black cut)
+(Black transition)
 (Background change)
 寧々: （あ！　司の後ろの机に、えむが隠れてる）
 寧々: （けど先生、えむには気づいてないみたいだし、 司がこのままうまく誤魔化せば……）
 司: ……！？
 寧々: （な、何してんのえむ！ 司がいい感じに誤魔化そうとしてたのに！）
-(Black cut)
+(Black transition)
 (Background change)
 類: これは僕らの出番のようだね。 寧々、ちょっとこっちに
 寧々: えっ？
-(Black cut)
+(Black transition)
 (Background change)
 類: ……ここならうまく身を隠せるかな
 寧々: ちょっと、何する気？
@@ -220,4 +202,4 @@ Gacha phrase: 話したくなったら、話してよね……
 類: …………
 類: さて、先生が戻ってくる前に 司くん達とセカイに行かないとね
 寧々: うん。そうだね
-(Black cut)
+(Black transition)

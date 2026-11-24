@@ -29,7 +29,7 @@ Nene: I know going over might just mean us getting in the way. But...
 Rui: I agree. We may not know exactly what's happening, but there's a chance we'll be able to provide her with some assistance.
 Rui: So, let's go over to where Emu is.
 Tsukasa: Yes, let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonder Stage]
@@ -78,7 +78,7 @@ Robo-Nene: I will also help.
 Emu: You guys...
 Emu: Okay, thanks...!
 Tsukasa: Alright, that settles that! Let's start getting everything ready!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -91,17 +91,13 @@ Rui: Me neither...
 Emu: Hehe. I'm so excited...!
 Emu: Let's go out there and make them all smile from ear to ear☆
 Tsukasa: Okay, it's almost time for us to go on. Take your places, and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: Hello, everyone! Tonight we have a special performance guaranteed to put a smile on your face♪
 ???: Are you ready to put on a good show for the audience?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: Huh? What was that just now...?
 Rui: Did you also hear it, Nene? Who said those things just now...?
@@ -110,7 +106,7 @@ Tsukasa: Yes, there is no doubt that they were here to give us all a boost of en
 Tsukasa: Let us take this strange phenomenon, go out there and put on an incredible show!
 Tsukasa: Alright, without further ado...
 Tsukasa: It's time for Wonderlands×Showtime's performance to start!
-(Black cut)
+(Black transition)
 Robo-Nene: “Once upon a time, there was an eccentric traveling theatre troupe. The troupe consists of a show-offy troupe leader...”
 Robo-Nene: “A clown who won't listen...”
 Robo-Nene: “And a songstress who can't sing in public.”
@@ -118,7 +114,7 @@ Robo-Nene: “The oddball group staged many shows, but they never managed to att
 Robo-Nene: “Then one day, as they were traveling through a forest, they encountered an alchemist who was performing a show all alone.”
 Children: Haha. They really are all oddballs!
 Children: What do you think is gonna happen...?!
-(Black cut)
+(Black transition)
 Tsukasa: (This show is where everything began for us.)
 Tsukasa: (It let us truly get to know each other, and because of that, we were able to grow and perform on stage together...)
 Tsukasa: (Now, we just need to do what we did back then. Act, sing and make everybody smile.)
@@ -139,7 +135,7 @@ Rui: (I can tell just how much she's been working on her singing.)
 Rui: (And it's not just Nene. Tsukasa's acting skills have also improved quite a bit. They've both grown so much as actors...)
 Rui: (Hehe. So...)
 Rui: (As the director, I need to respond to my actors in kind!)
-(Black cut)
+(Black transition)
 Alchemist (Rui): “At this rate, nobody is going to hear her singing. For our songstress, I'll put together a useful contraption...”
 Alchemist (Rui): “And how about you? You said you're the leader of your troupe. That must mean you're good at one or two things, no...?”
 Alchemist (Rui): “How would you feel about doing a scene that involves battling against this dragon contraption? It should make for an excellent show.”
@@ -154,7 +150,7 @@ Emu: (Hehe. The Wonder Stage is full of smiles and laughter...!)
 Emu: (Nene's singing, Tsukasa's acting and Rui's directing are just like old times.)
 Emu: (No, they're better and more exciting than ever...)
 Emu: (This is so much fun...!)
-(Black cut)
+(Black transition)
 Troupe Leader (Tsukasa): “Noooooooo!!!”
 Children: Oh no...! Did he fall...?
 Troupe Leader (Tsukasa): “Darn it! How long has this hole been here...?”
@@ -162,18 +158,14 @@ Troupe Leader (Tsukasa): “However, as the leader of the Pegasus Troupe, I am n
 Children: Oh, he's back! Wait, he has wings now?!
 Rui: (Hehe. Thankfully, there's plenty of space beneath the stage.)
 Rui: (Despite this stunt being a last-minute addition, Tsukasa did a nice job of falling in... We couldn't have asked for a better reaction from the audience.)
-(Black cut)
+(Black transition)
 Troupe Leader (Tsukasa): “Please, believe me this time! With our next show, we can spread joy to everyone around us!”
 Troupe Leader (Tsukasa): “So... Won't you join my troupe again?”
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
-(Black cut)
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
+(Black transition)
 Clown (Emu): “Then, let's do a show together!”
 Clown (Emu): “You can sing for us, Songstress, you can dance for us, Troupe Leader, and you can come up with lots of fun ideas for us as the director, Alchemist.”
 Songstress (Nene): “Spread joy to everyone around us, huh...? We don't really have a choice at this point, do we?”
@@ -195,21 +187,21 @@ Emu: (No, I don't want it to end...)
 Emu: (But...!)
 Rui: (That also means I need to enjoy every second of this...)
 Rui: (And make the entire crowd here smile from ear to ear...!)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000126/bg_s000126.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000172/bg_s000172.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000222/bg_s000222.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000448/bg_s000448.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000126/bg_s000126.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000172/bg_s000172.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000222/bg_s000222.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000448/bg_s000448.webp)
+(White transition)
 (Background change)
 Rui: (Oh, that's right. We're...)
 Nene: (The four of us are chasing after our dreams together...)
 Tsukasa: (Alright, there are far too many questions that require answering here... But for now, we need to focus on finishing this show...!)
 Emu: (Let's all have fun until the very end!)
-(Black cut)
+(Black transition)
 Robo-Nene: “And they made shows together forever after...”
 Robo-Nene: “The end.”
 Tsukasa: (That's right...)
@@ -224,4 +216,4 @@ Shosuke: Keisuke?
 Keisuke: Oh, it's just... I hadn't seen them do a show in so long...
 Keisuke: I couldn't help but feel moved by their performance...
 Shosuke: Yeah, me too...
-(White cut)
+(White transition)

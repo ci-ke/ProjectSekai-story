@@ -18,13 +18,13 @@
 類: アークランドに移籍する道が、 演出家としての僕にとって正しい道です
 旭: それじゃあ——
 旭: ……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000126/bg_s000126.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000126/bg_s000126.webp)
 旭: …………なんて顔してるんだよ
 類: ……え？
 類: なんて顔……とは、どういう意味ですか？
 旭: そのままの意味だよ。 ここに鏡があればよかったのにな
-(White cut)
+(White transition)
 (Background change)
 旭: ……類くん。 俺達の仲間になることを考えてくれてありがとう。 すごく嬉しいよ
 旭: でも…… 君の本当の答えは、きっと、別の場所にあるんだろうね
@@ -56,7 +56,7 @@
 類: ——ええ、必ず
 旭: それじゃあ、戻ろうか類くん。 俺達の仲間のところに！
 類: はい
-(Black cut)
+(Black transition)
 
 [近未来博物館　正面玄関前広場]
 
@@ -79,7 +79,7 @@
 えむ: あ……ねえねえ寧々ちゃん！
 寧々: ……うん
 寧々: 何があったかわからないけど……。 ちょっとスッキリしたみたい
-(Black cut)
+(Black transition)
 (Background change)
 
 [電車内]
@@ -114,7 +114,7 @@
 司: ふぁ……。急に眠くなってきたな
 類: 今日は２公演もやって疲れているんだから、 休んだほうがいい。 到着したら起こすよ
 司: そうか。助かる。 それじゃあしばらく寝るとするか……
-(Black cut)
+(Black transition)
 司: …………。 んごーー
 類: フフ。 こちらも元気ないびきだねえ
 類: ……司くんも、これからの道について、 考えているんだね
@@ -131,4 +131,4 @@
 類: （……フフ、なんて欲張りなんだろうね）
 類: （でも僕は、そんな未来を見てみたい）
 類: （だから僕は、今、 僕にできる限りのことをしていこう——）
-(White cut)
+(White transition)

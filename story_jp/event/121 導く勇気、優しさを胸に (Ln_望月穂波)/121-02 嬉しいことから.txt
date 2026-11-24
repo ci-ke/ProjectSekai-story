@@ -34,7 +34,7 @@
 穂波: ……ありがとう、一歌ちゃん。 もう少し考えてみるね
 一歌: うん。何かあったらすぐに言ってね。 いつでも力になるから
 穂波: ありがとう。そうするね
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -50,15 +50,15 @@
 咲希: アタシは、いろんな楽器を目立たせて もっと賑やかにしたいなって思ったけど……
 咲希: ——カイトさんはどっちがいいと思います？
 KAITO (Ln): ……俺は……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000283/bg_s000283.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000283/bg_s000283.webp)
 リン (Ln): カイト兄は、あたしの意見に賛成だよね！？
 KAITO (Ln): ……え
 咲希: あっ、それはなしだよリンちゃん！ カイトさんの素直な意見が聞きたいんだから！
 リン (Ln): わかった！ じゃあカイト兄の正直な意見を聞かせて！
 リン (Ln): 落ち着いた雰囲気か、賑やかな感じ……どっちにするのか！
 KAITO (Ln): え、えっと、俺は……
-(White cut)
+(White transition)
 (Background change)
 穂波: ふたりとも……カイトさん、困ってるみたいだよ？
 リン (Ln): え？　あれ、ほなっちじゃん！ いつからそこにいたの！？
@@ -99,7 +99,7 @@ KAITO (Ln): だから……まずはこのアレンジで、お客さんに 『�
 咲希: そうだ……！　寄り添うだけじゃなくて『こっちだよ！』 って前に引っ張っていってあげられるような、 そんな曲にできたら……！
 リン (Ln): わ～☆　それすっごくいいじゃん！ よーし、もう１回イントロから一緒に考え直そ～！
 咲希: うん！
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -114,16 +114,12 @@ KAITO (Ln): だから……まずはこのアレンジで、お客さんに 『�
 穂波: （よかった……。咲希ちゃんの力になれて）
 穂波: （なんだかすごく……嬉しいな）
 穂波: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: だから穂波も、自分が嬉しいって思うことや好きなこと、 やりたいって思うことから考えたら、 案外簡単に答えが出るんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （もしかして……わたしのやりたいことって……）
 咲希: ほなちゃん？ 急にぼーっとして、どうしたの？
@@ -135,4 +131,4 @@ KAITO (Ln): ……わかった？
 志歩: ——みんな、おまたせ
 レン (Ln): って、あれ？ なんか盛り上がってた？
 咲希: あ、みんな！　ちょうどいいところに！ みんなも一緒に、ほなちゃんの話を聞こう！
-(Black cut)
+(Black transition)

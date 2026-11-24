@@ -38,25 +38,21 @@ mmj_01_07 アイドル達の葛藤
 ミク (MMJ): わたし達は、いつだってとっておきのライブを見せるから！
 リン: うん！　元気をお届けしちゃうよーっ♪
 みのり: ……うん！　今日は本当にありがとう！ また来るね。ミクちゃん！　リンちゃん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
 
 遥: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ？？？: 私の時間を……アイドルを！　返してよ！！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 遥: 私に……アイドルをやる資格なんて……ない
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -77,28 +73,22 @@ mmj_01_07 アイドル達の葛藤
 愛莉: …………
 愛莉: ……やりたいって気持ちだけで、 どうにかなるわけないじゃない
 愛莉: 雫だって、知ってるでしょ。 わたしがどうして、アイドルを辞めたのか
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 マネージャー: 愛莉！　 バラエティ番組のオファーが来たわ！　しかも、ゴールデン！
 愛莉: えええっ！？　ほ、本当！？
 マネージャー: たまたまライブを見た局のお偉いさんが気に入ってくれたのよ。 トークが上手くておもしろい子がいるって
 愛莉: ……！　ついにわたしにツキが回ってきたわね！ 精一杯がんばらなくっちゃ！！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: ……チャンスをもらって、必死でがんばったわ。 トークも……漫才だって勉強して……
 愛莉: それが受け入れられて、 みんなに喜んでもらえた時はとっても嬉しかったわ
 愛莉: でも……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 マネージャー: 愛莉、またバラエティの仕事が入ったわ。 今回はドッキリの企画で、収録は来週の土曜日よ
 愛莉: え？　でもその日って、ミニライブの日じゃ……
 マネージャー: ええ。でも、今回は他のメンバーに行ってもらおうと思ってるの。 メンバー変更は、HPで告知しましょう
@@ -108,6 +98,5 @@ mmj_01_07 アイドル達の葛藤
 愛莉: （そうよね。わたしが注目されるようになれば、 グループの活動の幅も広がるし、 もっとたくさんの人にライブを見てもらえるものね）
 愛莉: （楽しみにしてくれるファンをがっかりさせるのは、 すごく……申し訳ないけど……）
 愛莉: （アイドルとして、もらった仕事は全力でやらなくっちゃ！）
-(Black cut)
-
-(Memory cut-out)
+(Black transition)
+(Flashback out)

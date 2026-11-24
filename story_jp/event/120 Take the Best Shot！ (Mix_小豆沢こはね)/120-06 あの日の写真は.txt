@@ -92,15 +92,11 @@ KAITO (VBS): 『いいんじゃない？ こはねちゃんらしい、いい写
 ルカ (VBS): 『うん！　まずは自分がいい写真だな～って思わないと、 見てくれた人もそう思ってくれないだろうし！』
 KAITO (VBS): 『でも……そうなると、 こはねちゃんが“いいな”って感じる冬弥くんの瞬間を 撮るってことになるよね』
 ルカ (VBS): 『う～ん。それって、どんな冬弥くんなんだろう？』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……あ……
 ルカ (VBS): 『なになに？　何か思いついた？』
@@ -114,4 +110,4 @@ KAITO (VBS): 『笑ってるところ？』
 ルカ (VBS): 『……じゃあ、最後は冬弥くんの笑顔の写真で決まりかな？』
 こはね: はい……！
 こはね: 笑ってる青柳くんを撮って、 今日で一番いい写真にしてみせます！
-(Black cut)
+(Black transition)

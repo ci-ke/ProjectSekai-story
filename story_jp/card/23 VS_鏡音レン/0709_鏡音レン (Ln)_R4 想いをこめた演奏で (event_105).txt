@@ -15,15 +15,11 @@ MEIKO: うん。音にもしっかり気持ちがのってて、 聴いてるこ
 リン: ていうか、最近本当に めちゃくちゃ気合い入ってない？
 KAITO: ……練習も、ひとりで遅くまでやってる時があるよね
 レン: そりゃ、あんなライブを見せられたら 気合いも入るって
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: ミクの歌や一歌達の演奏、ホントすごかったからな。 オレも負けてられないって思うのは当たり前だろ
 ミク (Ln): ふふ、なるほどね
@@ -66,7 +62,7 @@ MEIKO: ちょっとちょっと、本音が漏れてるけど？
 レン: ——じゃあ、決まりだな！
 レン: 一歌達がこれからも突っ走っていけるように、 めちゃくちゃ熱いライブをしよう！
 みんな: 『おー！』 『おー』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -78,21 +74,17 @@ MEIKO: ちょっとちょっと、本音が漏れてるけど？
 レン (Ln): ……あれ？
 レン (Ln): 元のセカイに戻ってきちゃったのか……
 レン (Ln): なんだ……。 いい感じで、話も盛り上がってたのに
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: オレ、一度キミと話してみたかったんだ！ 演奏もすっごくうまいし、ちょっと大人っぽくて かっこいいしさ！
 レン (Ln): かっこいい？　オレが……？
 レン: うん！　さっきもギターの練習してたでしょ？ 歌と演奏でみんな引っ張っていくって、 すっごくかっこいいじゃん！
-(White cut)
+(White transition)
 レン: オレも、負けられないなって思ったんだ！
 レン: だから、お互いがんばろうよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (Ln): かっこいい、か
 レン (Ln): かっこよくいたいっていうのは自分でも思ってたし、 ちゃんとそう感じてもらえてるのって、やっぱいいな
@@ -107,15 +99,11 @@ KAITO: みんなで食べようってなったんだけど、 さっきまで教
 KAITO: …………
 KAITO: ……レン、もしかして何かいいことでもあった？
 レン (Ln): え？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (Ln): ——うん。ちょっとね
 リン: もー、レン！　ひとりでフラフラしないでよねー！
@@ -128,16 +116,12 @@ MEIKO: さて！　これで全員そろったし、みんなで食べよっか�
 レン (Ln): どんなのがあるんだ？
 ミク (Ln): 全部、棒のアイスだよ。 『当たりがでたらもう１本オマケ』 っていうくじがついているみたい
 レン (Ln): あはは。誰が選んだのか、わかる気がするな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: 当たったらもう１本食べられるんだよ！ すっごくわくわくするし、楽しいじゃん♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (Ln): （——当たりつきのやつにしようって言ったの 絶対、咲希だな）
 レン (Ln): そういえば、一歌達がアイス持ってきてくれたんだよな？ 本人達はどうしたんだ？
@@ -147,4 +131,4 @@ KAITO: ……向こうにすぐ戻った。 今日はスタジオを借りてる
 レン (Ln): ああ！
 レン (Ln): （今回のライブのボーカルとして、 かっこいいところを見せないとな）
 レン (Ln): （一歌達にも、見守ってくれてる『オレ』にもな——）
-(Black cut)
+(Black transition)

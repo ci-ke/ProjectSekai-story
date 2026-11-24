@@ -30,10 +30,8 @@
 寧々: ……っ！
 寧々: （すごい、真剣な顔……。 わたしの答えを待ってるんだ）
 寧々: （どうしてそんなこと聞くのかわからないけど、 ……わたしの答えが、何かの助けになるなら）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: みんな……ありがとう
 寧々: みんなのおかげで、昔みたいに、 思いっきり歌えるようになれたの
@@ -42,33 +40,27 @@
 司: ああ、そうだな！
 えむ: こ～んなにニッコリ笑ってる寧々ちゃん、 初めて見れたよ～！
 寧々: あ……。 ……えへへ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ——わたしも、よくわかんない
 志歩: えっ……？
 寧々: でも、ここでショーをやるの、 ……まあまあ好きなんだ
 志歩: そう、なんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: うんっ！　演奏しようよ！　みんなで！
 志歩: いいね。何やる？
-(White cut)
+(White transition)
 (Background change)
 一歌: 歌詞、書いてきたんだ。 前に咲希が作ってくれたメロディに
 志歩: 歌詞？　ふたりとも、曲作ってたの？ やるじゃん
 穂波: ふたりで曲作ってるなんてすごいね！ 歌詞、見てもいい？
 一歌: あっ、ちょっと、あとで……！ 目の前で見られるのは、恥ずかしいから……！
 一歌: ……でも、みんなでこの曲、演奏できたらいいな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: ……それ、なんとなくわかるかも
 志歩: （プロになって、もっとうまくなりたい）
@@ -76,7 +68,7 @@
 志歩: （でも……）
 志歩: ——私、みんなと演奏するの、好きなんだ
 寧々: ……そうなんだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -90,7 +82,7 @@
 咲希: いっちゃん、どうしたの？
 一歌: ……ごめん。私、忘れ物しちゃった。 ちょっと探してくる！
 咲希: あっ、いっちゃん！
-(Black cut)
+(Black transition)
 一歌: （このまま帰ったら、絶対に後悔する。 今、草薙さんに話を聞かないと……っ）
 志歩: あっ……
 一歌: あ、志歩……！
@@ -98,4 +90,4 @@
 志歩: うん、一歌は？
 一歌: ちょっと忘れ物しちゃって。 ごめん、すぐに合流するから
 志歩: ……わかった
-(Black cut)
+(Black transition)

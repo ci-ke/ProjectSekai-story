@@ -35,7 +35,7 @@
 愛莉: えっ！？
 絵名: きゃああああああああっ！
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 寧々: ふぅ……もう少しで目的地かな
 類: そうだ、寧々。ラムネを持ってきたんだ。 よかったら食べないかい？
@@ -46,7 +46,7 @@
 類: ……ところで、寧々。もうすぐ雨がきそうだ。 どこか雨宿りできる場所を探しておいたほうが いいかもしれないよ
 寧々: あ、本当だ。黒い雲のかたまりが近づいてきてる
 寧々: ……なんだか嫌な感じ
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: いったたた……
 絵名: 愛莉！　大丈夫！？
@@ -62,10 +62,10 @@
 愛莉: そうね！　さっさと登って、泥を落としましょう！
 愛莉: 雫、瑞希！！　今からわたし達で登ってみるわ！ 近くまで行ったら、引っ張り上げてほしいの！！
 雫の声 (雫): わかったわ！
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: ボク達のほうは、いつでもオーケーだよ！
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: よーし、今こそバラエティ番組で鍛えた脚力、 見せてやろうじゃない！！
 愛莉: この岩を足掛かりにすれば、どうにか上まで……きゃっ！？
@@ -73,9 +73,9 @@
 愛莉: ……だめね、苔に足をとられて滑っちゃうわ
 愛莉: でも、こんなところで諦めたら、アイドル失格だもの！！ 絶対登り切ってやるわ！
 愛莉: せーのっ……！ モアモアジャーンプ！！！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000071/bg_a000071.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000071/bg_a000071.webp)
+(White transition)
 (Background change)
 瑞希の声 (瑞希): すごい！！　これなら一気に上まで——
 愛莉: ひゃーっ！？
@@ -83,7 +83,7 @@
 絵名: 大丈夫！？　ケガは？
 愛莉: 平気よ……。 でもまさか全然登れないなんて……アイドルとして情けないわ！
 絵名: ……いや、これはアイドルの仕事関係ないでしょ
-(Black cut)
+(Black transition)
 (Background change)
 雫: 登るのは難しいみたいね……。 もう少し身を乗り出せば届きそうだし、 私達ふたりでなら、引っ張り上げられるかしら？
 瑞希: 頑張ればできると思うけど……でも、絵名達が足を滑らせて、 雫ちゃんまで落ちたら大変だよ
@@ -99,44 +99,36 @@
 瑞希: 雫ちゃんは、ここで待っててくれないかな？ もしボクが助けを呼びに行ってるあいだに、 絵名達に何かあったら大変だからさ
 雫: ……わかったわ。 よろしくね、瑞希ちゃん！
 瑞希: うん！　行ってくる！
-(Black cut)
+(Black transition)
 瑞希: （……っ、急がなくちゃ……！）
 瑞希: （あれ、雨？　さっきまで晴れてたのに……！）
-(Black cut)
+(Black transition)
 瑞希: （どうしよう、どんどん強くなってくる……。 早く助けを呼ばないと、絵名達が……）
 瑞希: （電波は……あ、もう少しで繋がりそう。 早く絵名達を助けないと……！！）
 瑞希: わっ！？
 瑞希: いったた……
 瑞希: （あーあ、この服、気に入ってたのになあ……。 最悪……）
 瑞希: （ホント、何してんだろ、ボク。 こんな泥まみれで……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 瑞希: （これからも一緒にいるなら、 ボクは……伝えるのかな）
-(White cut)
+(White transition)
 瑞希: （来年も一緒にいたいのに、ボクは、 『どうせまた無駄になる』って、どこかで思ってるんだ）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: そんなの、わかってるよ。 だけど、ボクは……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 絵名: 『……みんなで桜を見たあと、何かあった？ Amia、あのあとから、いつもと少し違うっていうか……』
-(White cut)
+(White transition)
 (Background change)
 愛莉: 瑞希も困った時は、絵名を頼るといいんじゃないかしら。 あの子はきっと、瑞希を助けてくれるから
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: （今は、走らないと……！）
 瑞希: （服なんて、また買えばいい。来年がどうとか、 一緒にいられるかとか、そんなのだって、今はどうでもいい！）
 瑞希: （ボクは、みんなを助けたいんだ）
@@ -148,4 +140,4 @@
 ？？？: え？
 瑞希: 助けてほしいんです！！ 友達が斜面の下に落ちて——
 瑞希: ……え？
-(Black cut)
+(Black transition)

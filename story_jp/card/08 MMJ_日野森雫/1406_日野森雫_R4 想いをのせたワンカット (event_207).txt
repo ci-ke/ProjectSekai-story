@@ -23,10 +23,8 @@ Gacha phrase: 全身で、視線で、笑顔で……表現するの
 ルカ (MMJ): そんなに身近にいる人だと、驚いてしまうわね
 ルカ (MMJ): もう志歩ちゃんとは話したの？
 雫: ええ、でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: しぃちゃん。 あのね、少しお話してもいいかしら
 志歩: ……なに、改まって？
@@ -46,10 +44,8 @@ Gacha phrase: 全身で、視線で、笑顔で……表現するの
 雫: しぃちゃんのいるセカイなんだもの、 きっと可愛いところでしょうね
 雫: あ、もしかして可愛い動物さんが いっぱいいたりするのかしら……！
 志歩: いないし……！ ていうか、その前に離れてってば……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (MMJ): ……そんなことがあったのね
 ルカ (MMJ): 雫ちゃんらしいといえばらしいけど…… それでセカイの話は？
@@ -72,7 +68,7 @@ Gacha phrase: 全身で、視線で、笑顔で……表現するの
 雫: そのことを忘れないように、気をつけないと
 ルカ (MMJ): 充実した時間になるといいわね
 雫: ええ、そうなるように頑張るわ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,19 +94,15 @@ Gacha phrase: 全身で、視線で、笑顔で……表現するの
 ルカ (N25): 『ええ、様子を見に来ただけよ。 あれから、まふゆとあなた達がどうなったのか——』
 ルカ (N25): 『あなた達はまふゆの別の一面を知ったわけでしょう？』
 雫: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 私はいつも、みんなの前では違う自分を見せてたから
 穂波: 朝比奈先輩……
 雫: 違う、自分——
 雫: じゃあ、さっきの朝比奈さんは……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……そうね。正直、驚いたわ
 ルカ (N25): 『そうでしょうね』
@@ -136,4 +128,4 @@ Gacha phrase: 全身で、視線で、笑顔で……表現するの
 雫: それじゃあ、そろそろ私達も行きましょうか
 雫: ……あ、帰りにちょっと寄り道してもいいかしら。 朝比奈さんと一緒に行きたいお店があるの
 まふゆ: お店……？ うん、大丈夫だよ
-(Black cut)
+(Black transition)

@@ -21,35 +21,27 @@
 杏: （たしかに、本当にいろんなことがあったな……）
 杏: （ずっと、相棒を探してた。 RAD WEEKENDを一緒に超えようって思える相手を——）
 杏: （なかなか見つからなかったけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （すっごくドキドキできる最高の相棒に出会えて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （ミク達にも出会って……冬弥と彰人とも、 ぶつかることはあったけど……最高の仲間になれた）
 杏: （それに——）
 杏: （今は、凪さんの想いもちゃんと知ってる）
 杏: （……RAD WEEKENDを超える。 この想いは、前よりずっと強くなってる）
 杏: （だから……これから先も、みんなと一緒に進んでいこう……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -83,7 +75,7 @@
 瑞希: やった～！ 全然OKだよ♪
 瑞希: それじゃあ、校門のところで待ち合わせしてるから 帰りの支度終わったら、一緒に行こ！
 杏: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [校門]
@@ -105,4 +97,4 @@
 杏: （みんなを大切にして……）
 杏: （これからも、目標に向かって進んでいこう）
 杏: ——今行く！
-(White cut)
+(White transition)

@@ -10,7 +10,7 @@ Hamano: H-Here.
 Employee: We'll be having both of you perform in the show for our guests as they prepare their own chocolates.
 Employee: There will be a period when everyone will have to wait for their chocolates to cool.
 Employee: During that time, you'll be making your appearance and putting on a show for them. In terms of what you'll be performing...
-(Black cut)
+(Black transition)
 Tsukasa: (I see. It seems fairly straightforward.)
 Tsukasa: (The chocolate-loving “Choco Maniac” will be appearing alongside the mascot, “Chocota” the chocolate fairy, to start things off...)
 Tsukasa: (The Choco Maniac catches a glimpse of the chocolates that the guests are making and feels compelled to steal them because “they look so delicious.”)
@@ -44,7 +44,7 @@ Tsukasa: Ah, I see... I appreciate the concern.
 Len: <No problem! More importantly, your friend there really didn't seem well...>
 Tsukasa: I agree. He may be in rougher shape than we realize... I'll try asking him after he gets back and we start practicing.
 Len: <Okay!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Chocolate Factory]
@@ -66,7 +66,7 @@ Haruka: I'm thinking about some clovers as a return gift, and some penguins for 
 Shiho: Penguins... You really can't get enough of them, huh?
 Haruka: Hehe. I really can't. Anyway, let's make the cutest creations we can.
 Shiho: Yeah, let's do it.
-(Black cut)
+(Black transition)
 Mizuki: Man, that was so much fun! I wasn't expecting to see a show like that in a place like this!
 Akito: Same. I was worried that a certain someone would be making a surprise appearance...
 Akito: Anyway, let's get to making our chocolates.
@@ -81,7 +81,7 @@ Akito: What? No way.
 Mizuki: Aww, come on! Not even a little nibble?
 Akito: Quit bugging me and focus on your own stuff. It's not like we get to be here forever.
 Mizuki: Wait, you're right! I'll start with... A bow!
-(Black cut)
+(Black transition)
 Staff: You've all been doing great so far! Next, we'll start decorating our creations!
 Staff: You have quite a bit to choose from, so feel free to use all the toppings you like!
 Shiho: (What can I use for my rabbits' eyes...? The pink chocolate pen could work, but we have all these toppings at our disposal so...)
@@ -94,7 +94,7 @@ Haruka: Which means I should do the same.
 Haruka: (Minori's clover is milk chocolate so I'll use the pink pen, and a white pen for Airi's since hers is strawberry flavored.)
 Haruka: (Shizuku's uses white chocolate, so a brown pen should do nicely.)
 Haruka: (Hehe. I hope they like these...)
-(Black cut)
+(Black transition)
 Mizuki: Whoa, they have pink dragees! These are so cute! They'll be perfect for my bow's knot!
 Mizuki: Oh, but these star-shaped toppings are really good too! I'll sprinkle some onto my apple chocolates... No, wait. Powder might work better!
 Akito: Aren't you going a little overboard...? They're not gonna taste like chocolate if you keep piling on that stuff.
@@ -108,4 +108,4 @@ Akito: That's more people than I expected...
 Mizuki: Yeah...! I do have a ton of friends!
 Akito: That means you've got a lot of work to do.
 Mizuki: Yup! So let's kick it up a notch!
-(Black cut)
+(Black transition)

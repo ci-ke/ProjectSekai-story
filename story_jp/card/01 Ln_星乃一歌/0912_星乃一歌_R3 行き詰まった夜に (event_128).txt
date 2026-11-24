@@ -10,19 +10,15 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 [路地]
 
 一歌: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ——ごめん、咲希
 一歌: 全体の展開も考えると、それでもまだ駄目だと思う
 咲希: それって……
 咲希: ……アタシの考えたメロディーだと、駄目ってこと？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ……はぁ
 一歌: 私……咲希に、嫌な言いかたしちゃったな……
@@ -39,15 +35,11 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 一歌: メロディーから作る方法も、 コードを交換する方法も駄目なら……
 一歌: ……あ。 いっそ、歌詞から作ってみるとか……？
 一歌: 意外と、スムーズにいくかも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （あ……）
 一歌: （……そうだよね……）
@@ -77,7 +69,7 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 一歌: （……帰ったらちゃんと冷静になって、 もう１回、曲のことで咲希と話し合おう）
 一歌: また、うまくいかないかもしれないけど……
 一歌: ……ちゃんと、咲希と話し合わなきゃ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,7 +98,7 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 志歩: なるほどね。 わかった、そういうことなら教えるよ
 志歩: えっと、場所は……って、ちょっと入り組んでるから難しいな。 ……じゃあ、一緒に行こうか。 どうせ今日は時間あるし
 一歌: 本当？　ありがとう志歩
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -131,7 +123,7 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 志歩: うん。なんか私も気になってきたし
 志歩: そこまで人気なら、ちょっと食べてみたくなってきた
 一歌: ……ふふっ。それなら一緒に探してみようか
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -141,7 +133,7 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 一歌: うん！ 志歩が一緒に探してくれたおかげだよ
 志歩: 別にいいよ。その代わり、１個食べさせてよ
 一歌: いいよ。じゃあ、そこの公園で食べていこうか
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -156,4 +148,4 @@ Gacha phrase: ……どうして、うまくいかないんだろ
 志歩: ……なんか、一歌の話聞いてたら食べたくなってきたな。 もう１個もらっていい？
 一歌: うん、たくさん食べていいよ
 一歌: はい！
-(Black cut)
+(Black transition)

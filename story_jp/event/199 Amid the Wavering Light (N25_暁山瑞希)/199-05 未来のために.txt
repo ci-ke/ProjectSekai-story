@@ -80,7 +80,7 @@
 (Background change)
 瑞希の姉: 『オッケー、任せてよ。 他にも何かわかんないことあったら いつでも聞いてくれていいから』
 瑞希: うん！　ありがとう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -111,4 +111,4 @@
 リン (N25): 瑞希、楽しそう
 ミク (N25): ……うん
 ミク (N25): 頑張ってね、瑞希
-(Black cut)
+(Black transition)

@@ -27,7 +27,7 @@
 こはね: じゃあ、私も手伝うよ
 冬弥: 俺も、やってみていいだろうか
 彰人: ……はぁ。 ま、いいか
-(Black cut)
+(Black transition)
 杏: ……よーし、いっぱい採れたね！
 彰人: まさかこんなに採れるとはな。 食いきれるか？
 杏: 大丈夫、大丈夫！ ４人いるし、火をとおせばちょうどいい量になると思うよ
@@ -54,7 +54,7 @@
 彰人: ……そうだな。 もしかしたら見覚えのある場所に出られるかもしれねえ
 彰人: よし、少し戻って、知った景色がないか見て回るぞ
 杏・こはね: 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 こはね: あ……だんだん暗くなってきてる……
 彰人: ……まずいな。 暗くなると余計に、来た道がわからなくなる
@@ -68,26 +68,22 @@
 杏: ん～……
 冬弥: …………
 冬弥: （……何か、この状況を打開できる方法はないだろうか）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 『どんな人にも、“その人だからできること”が あるものだからね』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （今、俺にできることは——）
 杏: あ——。 みんな、上見て！
-(Black cut)
+(Black transition)
 (Background change)
 こはね: あ、星が…………！
 彰人: ……すげえな。一面じゃねえか
 冬弥: まさか、こんなに星が見えるとは……
 冬弥: ——とても、綺麗だな
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ……道に迷ってなかったら、 もっとちゃんと感動できたのにね……
 杏: それは仕方ないよ。 今は、できることをしていこう、こはね
@@ -129,4 +125,4 @@
 杏: が、頑張れ冬弥～！
 彰人: しっかりしろ冬弥！ 一緒に帰るぞ！
 冬弥: 大丈夫だ……俺は……お、下りられる……
-(Black cut)
+(Black transition)

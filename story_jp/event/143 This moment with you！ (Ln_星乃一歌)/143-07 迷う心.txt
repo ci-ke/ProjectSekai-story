@@ -5,17 +5,13 @@
 [教室のセカイ　屋上]
 
 一歌: ……はあ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 私は……『ミクにも歌ってほしいな』って 自分が思った曲じゃないものを、世に出すのは嫌なのかも——
 一歌: 思い入れが……思い出が、たくさんあるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: …………
 一歌: （……私、そんなこと思ってたんだ）
@@ -35,7 +31,7 @@
 一歌: （でも……タイアップは、Leo/needにとって きっと大きなチャンスになるし）
 一歌: （今後のことを考えると、受けたほうがいい……って思う）
 一歌: （思う、けど……）
-(Black cut)
+(Black transition)
 (Background change)
 リン (Ln): いっちー、大丈夫かなあ？
 MEIKO (Ln): みんなが帰ってから、屋上でずっと考えこんでるね
@@ -69,4 +65,4 @@ MEIKO (Ln): ……そうだね
 MEIKO (Ln): お願いね、ミク
 ミク (Ln): ……うん
 ミク (Ln): それじゃあ、いってくるね
-(Black cut)
+(Black transition)

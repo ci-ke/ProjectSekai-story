@@ -23,15 +23,11 @@ MEIKO (N25): ……瑞希の姿を見かけなくなってから、 何度かは
 MEIKO (N25): もう今はスマホをどこかにしまっているのか、 会いに行っても真っ暗なの
 絵名: そっか……
 絵名: …………
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000017/bg_s000017.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000017/bg_s000017.webp)
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ねえ、メイコ
 絵名: メイコは、あの時——こうなるってわかってたの？
@@ -41,19 +37,15 @@ MEIKO (N25): けれど——
 MEIKO (N25): 少なくとも、瑞希は こんな結末は望んでいなかったはずよ
 絵名: ……そう、だよね
 絵名: （……瑞希が望んでたのは、ただ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ただの、いつもの——私達だ
 絵名: くだらないことを話したり、笑ったり…… そんな、いつもどおりの——
@@ -100,4 +92,4 @@ MEIKO (N25): あなたがしたいと思うことを、すればいいわ
 絵名: だから、メイコ—— 何かわかったら教えてくれる？
 MEIKO (N25): ——ええ、わかったわ
 絵名: ……ありがとう
-(Black cut)
+(Black transition)

@@ -34,7 +34,7 @@ Skill name: 最後の朝
 司: おお、本当か！？
 えむ: うんっ！　あたしも話したい人、いっぱいいるんだ♪
 司: よし！　ではそのお知らせとやらが出たら、 みんなで挨拶にいくか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [後日]
@@ -46,20 +46,20 @@ Skill name: 最後の朝
 キャストA: あら、えむちゃん！　みんなも！
 キャストB: 聞いたよ！ フリーランスになって、いろいろ勉強してくるんだって？
 類: はい。そのことで、改めて挨拶をさせてもらいにきました
-(Black cut)
+(Black transition)
 (Place: フェニックスコースター前)
 寧々: ——突然のお知らせで、 驚かせてしまったかもしれないんですけど……
 えむ: あたし達、いろんなものを見て、経験をして、 でっかくなってきます！
 キャストC: はははっ！　いいね！ やっぱり若いうちの経験って大事だもんな
 キャストD: ええ。うちの経営陣が そういう決断をしてくれたっていうことも、なんだか嬉しいわ
-(Black cut)
+(Black transition)
 (Place: おさかなコースター前)
 キャストE: 行っておいで！　みんなが有名になればなるほど、 一緒に働いてたんだって自慢できるしね！
 キャストF: 私達が働いているおさかなコースターがなくならずにすんだのも あなた達のおかげよ
 キャストF: 本当にありがとう！ みんなの夢が叶うことを祈っているわ！
 司: こちらこそ、お世話になりました！
 えむ・寧々・類: 『お世話になりました！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスステージ]
@@ -83,7 +83,7 @@ Skill name: 最後の朝
 櫻子: まあそのためにも、キャストとして最後のショーになる 記念公演はやり切ってもらわないと困るけど
 司: ああ、もちろんだ！
 司: 送り出してくれるみんなの理解を無駄にしないよう、 しっかりやり遂げてみせるぞ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -100,37 +100,33 @@ Skill name: 最後の朝
 司: （きっといつもの公演のように、 始まったと思ったら、あっという間に千秋楽になるんだろうな）
 司: （——いや）
 司: （改めて考えると、ここでえむと出会ったあの日から、 毎日があっという間だったな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 えむ: とーーーーーーーーっ！！
-(White cut)
+(White transition)
 司: うわー！？　な、なんだ！？ 何か降ってきたぞ！？
 えむ: ようこそっ☆ 笑顔い～っぱいの、ワンダーステージへ！
 えむ: じゃあみんなでいくよー！！ せーのっ、わんだほーいっ☆
 司: …………は？
-(White cut)
+(White transition)
 司: というわけで演出家を連れて来たぞ！
-(White cut)
+(White transition)
 類: ふたりともお待たせ。連れてきたよ
 司・えむ: 『ロボット！！？？』
-(White cut)
+(White transition)
 (Background change)
 司: ならば、ワンダーランズ×ショウタイム、続投だ！
-(White cut)
+(White transition)
 えむ・司: 『ハーッハッハッハッハッハッ！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: 連れてこられた時は、 ただのボロステージとしか思わなかったが——
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 司: ……えむの言うとおり、さまざまな世界に変化し、 オレ達と共に観客に笑顔を届けてきた
 司: ——ボロステージだなんて言って悪かったな
@@ -155,4 +151,4 @@ Skill name: 最後の朝
 えむ: うんっ！
 司: ——おっと、そうだ！ 実は、観客に向けて挨拶をしようと考えていてな
 司: 感謝の気持ちをしたためてきたんだが、 ちょっと聞いてくれないか？
-(Black cut)
+(Black transition)

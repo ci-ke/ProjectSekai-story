@@ -3,7 +3,7 @@
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 初音ミク, 鏡音リン)
 
 : ライブを計画した３人は、遥をセカイへ連れていく。 そして——
-(Black cut)
+(Black transition)
 (Background change)
 遥: え？　ステージの上に、みのり達が……？
 みのり: こんにちは！　花里みのりです！
@@ -17,7 +17,7 @@
 雫: 最後まで聴いていってね
 愛莉: 最っ高のライブ、見せてあげるわ！
 みのり: 心をこめて、歌います！！ 聴いてください！！
-(White cut)
+(White transition)
 (Background change)
 みのり: ――――♪　――――♪
 雫: （歌い出しはバッチリね！ 今までで一番、遠くまで声が届いているわ！）
@@ -26,7 +26,7 @@
 みのり: （……動きを大きく、指先まで気を抜かない。 呼吸はゆっくり、ペースを乱さない！）
 みのり: （わたしの持ってる、全部の力で届けなくちゃ！）
 みのり: （遥ちゃんにあの景色を見てもらうために！！）
-(Black cut)
+(Black transition)
 ミク (MMJ): 遥ちゃん、ライブは楽しめてる？ みんな、たっくさん練習してたんだよ！
 リン: それに、見て！　青い光があんなに遠くまで見えるよ！
 遥: ミク、リン……
@@ -51,21 +51,17 @@
 遥: …………。 みのり……
 ミク (MMJ): 遥ちゃんは――どうしたい？
 遥: 私……私は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……ステージに上がりたい……！ もう一度、あの景色が見たいよ……！
 みのり: 遥ちゃん……！
 リン: ほら、みのりちゃんの手をとってあげて！ きっと大丈夫！ わたしたちも、遥ちゃんがステージに上がるのを手伝うから！　
 ミク・リン: 『せーのっ！』
-(Black cut)
+(Black transition)
 遥: あ………
 遥: …………綺麗
 みのり: この光は全部、遥ちゃんがくれた、希望の光なんだよ
@@ -75,11 +71,11 @@
 遥: 私が……希望を……
 遥: …………そっか。 ちゃんと、届けられてたんだね……
 みのり: 遥ちゃん……！
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 みのり: ……！
 みのり: あれ……？ スマホが……ううん、『Untitled』が光ってる……！？
-(Black cut)
+(Black transition)
 愛莉: みのりのだけじゃない……。 わたし達の『Untitled』も、光ってる……！
 ミク (MMJ): 本当の想いを見つけられたから、 みんなの想いから歌が生まれようとしてるんだよ
 ミク (MMJ): 歌は、人の心の中にある本当の想いでできてるから
@@ -102,11 +98,11 @@
 みのり: ミクちゃんと一緒に歌えるなんて……すごく嬉しいよ！！
 リン: よーし！　それじゃわたしは、MCで盛り上げちゃおーっと！ みんな、最高のステージにしようね！！
 ミク (MMJ): 一緒に歌おう！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000011/bg_a000011.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000011/bg_a000011.webp)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 遥: ——ねえ、ひとつ提案があるの
 雫: 提案？
@@ -146,7 +142,7 @@
 みのり: みんな……
 みのり: （できるって、みんなが信じてくれてる。 みんなと一緒ならきっと——たくさん希望を届けられる！）
 みのり: ……よろしくお願いします！！ みんなに追いつけるように、もっともっとがんばります！！
-(Black cut)
+(Black transition)
 (Background change)
 : こうして、異色のアイドルグループ—— MORE MORE JUMP！は始まった
-(Black cut)
+(Black transition)

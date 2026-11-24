@@ -2,23 +2,19 @@
 
 (Character: 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [宮益坂]
 
 小学生の志歩 (志歩): ………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 クラスメイトCの声: ……そっか。 でも、前から約束してたんだから、 こっちを優先してくれたってよかったのにね
 クラスメイトAの声: うん……。 でも、どうしてもって言うなら仕方ないよね……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): （やっぱり、行ったほうがよかったかな……）
 小学生の志歩 (志歩): （でも、それじゃあ……習字は終わらなかったし……）
@@ -61,7 +57,7 @@
 小学生の志歩 (志歩): ヒントが……
 父親: ああ。……どうだ？
 小学生の志歩 (志歩): うん……。 わかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -105,4 +101,4 @@ IoliteのメンバーA: どっちにしろ美人さんってことだよね！ �
 ？？？: ほんとにごめんね。 みんな、悪気はないんだけど……
 小学生の志歩 (志歩): いえ……
 すみれ: ——あ、私、久野すみれ。 ベースやってるの。よろしくね
-(Black cut)
+(Black transition)

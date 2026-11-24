@@ -35,7 +35,7 @@ Ena: Airi, wait! This rock under my foot's about to...!
 Airi: Huh?!
 Ena: Noooooo!
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Nene: Phew... Almost there...
 Rui: Oh, Nene, I brought some candy with me. Would you like a piece?
@@ -46,7 +46,7 @@ Rui: Hm? There are plenty of wild animals around here. Someone could've just com
 Rui: And it looks like it's about to start raining too, Nene. We may want to find some shelter before it's too late...
 Nene: Oh, you're right. Those definitely look like rain clouds...
 Nene: I'm getting a bad feeling about this...
-(Black cut)
+(Black transition)
 (Background change)
 Airi: Ow, that hurt...
 Ena: Airi! Are you okay?!
@@ -62,10 +62,10 @@ Ena: We'll just have to climb our way back up! Let's go, Airi!
 Airi: Yeah! Let's get out of here and get cleaned up!
 Airi: Shizuku! Mizuki! We're gonna try climbing back up! Can you pull us up when we get close?
 Shizuku's Voice (Shizuku): Okay!
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Yeah, we should be able to!
-(Black cut)
+(Black transition)
 (Background change)
 Airi: Alright, it's time to put my legs to the test! Those shows all prepared me for something like this!!
 Airi: I can use this rock to jump up and... Whoa...!!
@@ -73,9 +73,9 @@ Ena: Airi?!
 Airi: No good. The moss is too slippery...
 Airi: But I can't give up here. I wouldn't be able to call myself an idol if I did! We're getting out of here!!
 Airi: One, two...! MORE MORE JUMP!!!!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000071/bg_a000071.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000071/bg_a000071.webp)
+(White transition)
 (Background change)
 Mizuki's Voice (Mizuki): Nice! You're almost there...!
 Airi: Wah...!
@@ -83,7 +83,7 @@ Shizuku's Voice (Shizuku): Airi!!
 Ena: Are you okay?! Are you hurt?!
 Airi: I'm fine... But I can't get back up at all. I feel like a disgrace as an idol...!
 Ena: What does being an idol have to do with this...?!
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: They're having quite a bit of trouble... It feels like they're just out of our reach. Maybe we can pull them up if we go out a little further...?
 Mizuki: Maybe, but if they slip while you're doing that, you'd fall down there with them...
@@ -99,44 +99,36 @@ Ena's Voice (Ena): But...
 Mizuki: Shizuku, can you wait with them here? We need to make sure nothing happens to them while we try to get help...
 Shizuku: I understand... Good luck, Mizuki!
 Mizuki: Thanks! Be back soon!
-(Black cut)
+(Black transition)
 Mizuki: (I have to hurry...!)
 Mizuki: (Hm? Rain? But it was sunny a second ago...!)
-(Black cut)
+(Black transition)
 Mizuki: (No, it's really starting to come down... If I don't get help soon, Ena and Airi are gonna be in trouble...)
 Mizuki: (And no signal yet, but I think I'm getting close... I just gotta keep trying...!!)
 Mizuki: Wah!!
 Mizuki: Ow...
 Mizuki: (*Sigh*... They're ruined... I really liked this outfit too...)
 Mizuki: (Seriously, what am I doing? Getting all muddy in a place like this...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Mizuki: (If I want to keep hanging out with everyone, does that mean I have to tell them...?)
-(White cut)
+(White transition)
 Mizuki: (I want things to stay like this next year and the year after, but a part of me still thinks it's pointless...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Mizuki: I know that... I get it, but...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ena: <After we saw those cherry blossoms together, did something happen? You seem a little different, you know...?>
-(White cut)
+(White transition)
 (Background change)
 Airi: If there's something bothering you, Mizuki, I think you should talk to Ena about it. I'm sure she can help you.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Mizuki: (For now, I need to keep going...!)
 Mizuki: (I can just buy new clothes to replace these. What happens next year or the year after doesn't matter right now either...!)
 Mizuki: (I have to help them...!)
@@ -148,4 +140,4 @@ Mizuki: Excuse me!!
 ???: Huh?
 Mizuki: I really need your help!! My friends fell off a ledge...!
 Mizuki: Huh...?
-(Black cut)
+(Black transition)

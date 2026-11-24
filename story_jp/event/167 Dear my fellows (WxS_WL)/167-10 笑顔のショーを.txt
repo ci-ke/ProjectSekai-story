@@ -29,7 +29,7 @@
 類: ……そうだね。詳しい内容はわからないけれど、 もしかしたら、僕達に手伝えることもあるかもしれない
 類: 一度、えむくんのところに行ってみようか
 司: ああ、そうだな！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーステージ]
@@ -78,7 +78,7 @@
 えむ: みんな……
 えむ: うんっ。ありがとう……！
 司: よーし！ そうと決まれば早速、準備開始だっ！
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -91,17 +91,13 @@
 えむ: えへへ、楽しみだなあ……！
 えむ: みんなで、 お客さんをいーっぱい笑顔にしちゃおうね☆
 司: よし、そろそろ開演の時間だな。 各々スタンバイを——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ハロー、えぶりわ～ん♪ 今夜のショーは、みんなが笑顔になるスペシャルショーだよ～♪
 ？？？: さあみんな、お客さんを笑顔にする準備はいいかい？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: え、今……
 類: 寧々にも聞こえたかい。 さっきのは一体……
@@ -110,7 +106,7 @@
 司: この不思議な現象も、 最高のショーのための力にしようではないか！
 司: よーし、それでは改めて——
 司: ワンダーランズ×ショウタイムの公演、スタートだ！
-(Black cut)
+(Black transition)
 ネネロボ: 『アルトコロに、ヘンテコな旅の一座がイマシタ。 一座にイルノハ、目立チタガリヤな座長に』
 ネネロボ: 『話を聞カナイ道化役者』
 ネネロボ: 『人前で歌が歌エナイ歌姫』
@@ -118,7 +114,7 @@
 ネネロボ: 『……ケレドソンナアル日、一座は偶然、 森の中で一人ショーをスル錬金術師に出会イマシタ』
 子供達: あはは。本当にヘンテコな人ばっかりだ！
 子供達: どんなお話になるんだろう……！
-(Black cut)
+(Black transition)
 司: （これは、オレ達にとって始まりのショーだ）
 司: （このショーで互いの想いをたしかめ合えたからこそ、 オレ達はともに成長し、ステージに立つことができた……）
 司: （今だけは、あの時のように。 演じて、歌って——笑顔でいっぱいにしようではないか）
@@ -139,7 +135,7 @@
 類: （寧々だけじゃない。司くんの演技も研ぎ澄まされていて…… ふたりの、役者としての成長には本当に目を見張る）
 類: （フフ。それなら——）
 類: （演出家である僕が、役者に応えないわけにはいかないね——！）
-(Black cut)
+(Black transition)
 錬金術師 (類): 『このままじゃ、遠くまで歌を響かせるのは難しそうだ。 歌姫には、何かカラクリを作るとして……』
 錬金術師 (類): 『君のほうはどうなんだい？ 座長ということなら、得意分野のひとつやふたつあるだろう。 たとえば……』
 錬金術師 (類): 『このドラゴンのカラクリと戦うシーンを やってみるのはどうだい？ 面白いショーが作れるかもしれないよ』
@@ -154,7 +150,7 @@
 えむ: （寧々ちゃんの歌も、司くんの演技も 類くんの演出も、あの頃みたいで——）
 えむ: （ううん。あの頃よりも〜〜っとワクワクで……）
 えむ: （——すごく、楽しいな……！）
-(Black cut)
+(Black transition)
 座長 (司): 『ぬおおおおおおおお！！！』
 子供達: え……お兄ちゃん、落っこちちゃった……！？
 座長 (司): 『くそ〜〜！　こんなところに落とし穴があったとは……』
@@ -162,18 +158,14 @@
 子供達: あ、戻ってきた〜！ 背中につけてるの、羽かなあ！？
 類: （フフ。床下の奈落もどきも健在で助かったね）
 類: （司くんも、直前で追加した 落ちる演出を見事やってのけてくれたし…… 観客の反応も上々だ）
-(Black cut)
+(Black transition)
 座長 (司): 『信じてほしい！ 今度こそ、みんなをショーで笑顔にする！』
 座長 (司): 『……だからもう一度、 オレと一緒にショーをやってくれないか？』
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
-(Black cut)
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
+(Black transition)
 道化 (えむ): 『それなら、みんなでショーをしようよ！』
 道化 (えむ): 『歌姫さんが歌って、座長さんが踊って 錬金術師さんがぱんぱかぱーんって演出をするの』
 歌姫 (寧々): 『みんなが笑顔に、か……。 それなら、やらない手はないんじゃない？』
@@ -195,21 +187,21 @@
 えむ: （でも——！）
 類: （だからこそ……今この瞬間を、全力で楽しもうじゃないか）
 類: （そして——ここにいるお客さん全員に、 笑顔を届けるんだ……！）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000126/bg_s000126.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000222/bg_s000222.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000448/bg_s000448.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000126/bg_s000126.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000222/bg_s000222.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000448/bg_s000448.webp)
+(White transition)
 (Background change)
 類: （…………ああ、そうだったじゃないか。僕達は——）
 寧々: （４人で一緒に……夢を追ってたんだ）
 司: （ええい。いろいろと わからんことだらけだが……今大事なのは、 目の前のショーを完遂すること……！）
 えむ: （みんな、最後まで——楽しもうね！）
-(Black cut)
+(Black transition)
 ネネロボ: 『——ソレカラ４人は、ズウット仲良クショーを続ケマシタトサ』
 ネネロボ: 『オシマイ』
 司: （…………ああ）
@@ -224,4 +216,4 @@
 慶介: ……いや。久しぶりに彼らのショーを見たが——
 慶介: やはり……あの４人のショーは素晴らしいと思ってな
 晶介: ……ああ。そうだな
-(White cut)
+(White transition)

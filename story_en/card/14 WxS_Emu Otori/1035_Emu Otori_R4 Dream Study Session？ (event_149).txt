@@ -10,36 +10,28 @@ Gacha phrase: Everyone... It's study time...
 [Emu's Room]
 
 Emu: The Morinomiya Revue was so cool!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Their theatre was so big and sparkly, and their rehearsal rooms were put together just right♪
 Emu: And then there's the Morinomiya Music Academy!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Arita: So, during this visit, you'll all be training with the Morinomiya Music Academy.
 Tsukasa: What...?! We get to take lessons at the Morinomiya Music Academy?!
 Emu: Hey, I've heard of that school! It's where everyone studies to become members of the Morinomiya Revue, right?
 Rui: That's right. Several hundred apply to enroll each year, but they're competing for around thirty spots.
 Rui: Only those who are accepted can apply to become members of the Morinomiya Revue. In other words, they're the best of the best.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: I knew that you had to enroll in their school in order to become a full member, but getting to study there is so cool.
 Emu: It would've been great to learn more about singing and acting with the others!
@@ -51,10 +43,10 @@ Emu: I'll return to their website! And continue reading about the history of the
 Emu: (My plan was to learn all about them before we went...)
 Emu: (But a hundred years of history is a ton of stuff, and I couldn't get through it all in time.)
 Emu: But I'm halfway through, so I've gotta do my best to read the rest today! Yeah!
-(Black cut)
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
+(Black transition)
 Emu: Phew... I'm finally done...
 Emu: Oh, but I crammed a lot of information into my head today, so I should probably start again from the beginning and... Yawn...
 Emu: Huh...? I'm starting to feel really sleepy all of a sudden... What time is it...?
@@ -64,10 +56,8 @@ Emu: Hehe. I feel like ice cream that's melting away...
 Emu: Then... Oh, I'll try holding my notebook while I sleep. That might help me dream about what I learned today.
 Emu: But does that mean I'm gonna be learning alone in my dream...?
 Emu: It'd be great to have Nene and the others there with me...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Huh...? When did I get back to Morinomiya?
 Nene: Oh, Emu. I know it's early, but you gotta wake up.
@@ -79,15 +69,13 @@ Emu: Really?! That's perfect! I really wanna learn with you guys!
 Tsukasa: Again, that's why we're here.
 Nene: Yeah, we gotta go, or we're gonna be late.
 Emu: Right...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Hehe... Mhm...
 Emu: Everyone... It's study time...
 Emu: Zzz... Zzz...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -146,4 +134,4 @@ Nene: Alright, can you guys stop saying that now?
 Emu: Hehe...!
 Emu: (I've gotta keep learning more and more!)
 Emu: (In order to make it so Phoenix Wonderland is loved by as many people as the Morinomiya Revue!)
-(Black cut)
+(Black transition)

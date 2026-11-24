@@ -15,26 +15,22 @@ Skill name: 少しでも優しく……
 穂波: あっ！ ご、ごめんね。ちょっとボーッとしちゃって……！
 志歩: …………
 志歩: （穂波、練習に集中できてない。 たぶん、昼間の合唱祭の話のせいだろうけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 一歌: そっか……合唱祭の話しあい、揉めちゃったんだ
-(White cut)
+(White transition)
 穂波: うん。一生懸命やりたいっていう人の気持ちも、 他のことに時間を使いたいっていう人の気持ちも、 どっちもわかるから……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 穂波: じゃあいくよ。 ワン、ツー、スリー、フォー……
 穂波: …………あっ！
 穂波: ごめん。１小節、飛ばしちゃったみたい
 一歌: ううん。私も、今のところは入りがちょっと怪しかった。 もう１回やろう
 穂波: うん……
 志歩: …………
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -59,19 +55,15 @@ MEIKO: でも？
 志歩: ……最初に穂波から話を聞いた時、 ちょっと……ううん、結構キツい言いかたしたかもしれない
 MEIKO: たとえば、どんな言いかた？
 志歩: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: 穂波が悩んでるのって、怖いからじゃない？
-(White cut)
+(White transition)
 志歩: どっちかを選ばないことで、 そっちの意見の人に嫌われるのが怖いんじゃない？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: ……言った内容自体は、後悔してないんだけどね
 志歩: （中学の時は、私が何も言わないで勝手に離れたせいで、 穂波が大変な時に一緒に考えてあげられなかった）
 志歩: （でも今は違う。穂波だって抱えこまずに 私達に相談してくれるようになった）
@@ -93,7 +85,7 @@ MEIKO: さて。引き留めてごめんね。 今度は、一緒にセッショ
 MEIKO: じゃあね！
 志歩: あっ……
 志歩: ……ありがとう、メイコさん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -105,19 +97,15 @@ MEIKO: じゃあね！
 志歩: ふぅ。合唱祭も無事に終わったし、 これでバンド練習に集中できる
 志歩: 一歌達が来たら、練習について話さないと……
 志歩: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: 穂波が悩んでるのって、怖いからじゃない？
-(White cut)
+(White transition)
 志歩: どっちかを選ばないことで、 そっちの意見の人に嫌われるのが怖いんじゃない？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （前にメイコさんは、 『穂波はわかってくれてる』って言ってたけど……）
 志歩: はぁ……やっぱり。謝らないと
 穂波の声 (穂波): ……志歩ちゃん
@@ -166,4 +154,4 @@ MEIKO: じゃあね！
 穂波: うん。わたしお腹ペコペコ
 志歩: じゃあ、食べちゃおう
 志歩・穂波: 『いただきます！』
-(Black cut)
+(Black transition)

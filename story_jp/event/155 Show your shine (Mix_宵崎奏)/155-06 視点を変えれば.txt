@@ -22,35 +22,27 @@
 奏: ふぅ……
 奏: あ……メッセージ？
 奏: （……メールマガジンか。てっきり……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あれから、連絡がないけど……）
 奏: ——天馬さん、大丈夫かな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: アタシが感じた、かなでさんの『かがやき』を、 もう一度ちゃんと考えてみます！
 咲希: そうしたら、表現できる方法も見えてくるかもしれないので！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （答えが見つからなくて、悩んでるのかもしれない）
 奏: （最後まで力になるって言ったけど、 結局わたしは、何もできてないし……）
 奏: ……駄目だな。全然、作業に集中できてない
 奏: 気分転換に……セカイに行ってみようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -65,13 +57,13 @@
 リン (N25): ちょうどよかった
 奏: え？
 リン (N25): …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000401/bg_s000401.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000401/bg_s000401.webp)
 リン (N25): ……ブローチ、曲がってない？
 リン (N25): 湖で見ようと思ったけど、よく見えなかったから
 奏: えっと……ちゃんとつけられてると思うよ
 リン (N25): そう。なら、いい
-(White cut)
+(White transition)
 (Background change)
 奏: 綺麗なブローチだね
 リン (N25): 瑞希が持ってきた。 お店で見つけて、似合いそうだからって
@@ -89,7 +81,7 @@
 奏: ちょっと、うまくいってなくて
 リン (N25): ……そうなの？
 奏: うん。この前、撮影をしてきたんだけど——
-(Black cut)
+(Black transition)
 奏: ——天馬さんは、わたしに『かがやき』を 感じてくれてるらしいんだ
 奏: けど、それを作品にうまく表現しきれてなくて…… 困ってるみたいで
 リン (N25): 『かがやき』……
@@ -123,4 +115,4 @@
 リン (N25): ……いい写真撮れたら、今度見てみたい
 奏: わかった。 完成したら、見せに来るね
 リン (N25): ……待ってる
-(Black cut)
+(Black transition)

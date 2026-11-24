@@ -2,37 +2,29 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, MEIKO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [冬弥の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO (VBS): 誰かに話すことが難しい、 冬弥くんの想い——
 MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかもしれないわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……振り返るんだ。これまでの日々を）
 冬弥: （この曲を、作り上げるためにも）
 冬弥: （——３歳の時、 初めてピアノに触れた）
 冬弥: （記憶はおぼろげだ。 けれど……あの時の音は覚えている）
 冬弥: （俺が鍵盤を押すと、ただ平坦な音がした。 けれど父さんが、ひとつ優しく押すと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……生涯忘れられないような、美しい音がした。 静かに輝く木漏れ日のような、穏やかに吹く風のような……）
 冬弥: （……あの時は、どうしてなのか不思議に思ったものだ。 同じものに触れているのに、 なぜこんなにも違う音がするのだろうと）
@@ -40,12 +32,10 @@ MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかも
 冬弥: （そしていつか父さんのように、 美しい音を弾いてみようと——）
 冬弥: （それが、俺と音楽との出会いだった）
 冬弥: （そしてこの日から……苦難の日々も始まった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 冬弥の父: ——違う。 もう一度だ。……できるまで寝られると思うな
 冬弥: （父さんは本当に厳しい人だった）
@@ -54,7 +44,7 @@ MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかも
 冬弥: （……けれど……）
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 冬弥の父: ——冬弥
 冬弥の父: 今日の演奏は、悪くなかった
@@ -69,7 +59,7 @@ MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかも
 冬弥: （けれど、そう思えば思うほど、 指は重くなっていった）
 冬弥: （終わりの見えない練習の日々。 強いプレッシャーに押しつぶされそうになるコンクール。 そして……）
 冬弥: （ついに——限界がきた）
-(Black cut)
+(Black transition)
 (Background change)
 冬弥の父: ……もうできない、だと？
 (Background change)
@@ -87,13 +77,11 @@ MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかも
 中学生の冬弥 (冬弥): 俺は、俺の人生を生きたいだけだ！
 中学生の冬弥 (冬弥): 普通の人達と同じように、 まだ触れたことのない多くのことを経験したい……！ ただ、それだけなのに——
 中学生の冬弥 (冬弥): ……縛られて生きるのは、もう嫌なんだ！！
-(Black cut)
+(Black transition)
 (Background change)
 冬弥の父: 冬弥——！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （俺は……逃げた）
 冬弥: （父さん達の期待を裏切って…………逃げたんだ）
@@ -106,31 +94,23 @@ MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかも
 冬弥: 大切なものを捨てて、逃げて、 諦めてしまった自分では——謙さん達の覚悟に、敵わないと……
 冬弥: そう……無意識に思ってしまっている……？
 冬弥: ……そう考えると、父さんの言葉の意味も——わかる
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥の父: お前の曲からは、誇りを感じない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （…………当然だ）
 冬弥: （俺は……俺自身を逃げた人間だと思っている。 誇ることができていない）
 冬弥: （いい曲になど、なるはずがない……）
 冬弥: （謙さん達のように、覚悟を持って曲を作ることが できないのだから……）
 冬弥: （……いや！ いや、だがそれでも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （それでも俺は、作らなければならないんだ……！ みんなと、RAD WEEKENDを超えるために）
 冬弥: （けれど、どうすればいい？）
@@ -144,4 +124,4 @@ MEIKO (VBS): もしかしたら、 それが曲作りに関係しているかも
 冬弥: ……！
 ？？？: ——入るぞ
 冬弥: …………父さん…………
-(Black cut)
+(Black transition)

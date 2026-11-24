@@ -43,7 +43,7 @@
 穂波: うん！
 穂波: （……こうやって、クラスのみんなと素直な気持ちで話せるのも、 一歌ちゃん達のおかげだな）
 穂波: （本当にありがとう、みんな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -68,23 +68,23 @@
 穂波: ちょっと心配だね。何かあったのかな？
 咲希: んー。じゃあ、みんなで探しに行ってみる？
 志歩: そうだね。 他の教室にいるかもしれないし、行ってみよ
-(Black cut)
+(Black transition)
 (Background change)
 咲希: おーい！　ミクちゃーん！　ルカさーん！
 一歌: こっちの教室にもいない……。 本当に、何かあったんじゃ——
 穂波: あれ、この音……ドラム？
 志歩: 一番端の教室からみたい
 一歌: ミク達が叩いてるのかも。 行ってみよう！
-(Black cut)
+(Black transition)
 (Background change)
 穂波: ここの教室、だよね？
 穂波: あの、ミクちゃん、ルカさん——。 え？
 ？？？: みんな、よく来たね。いらっしゃい
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000044/bg_a000044.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000044/bg_a000044.webp)
 MEIKO: ……っていうのも変かな。 私のほうがあとから来たんだし
 MEIKO: あなた達が、このセカイの想いの持ち主なんでしょ？
 一歌: まさか……あなた、もしかして——
 MEIKO: うん、メイコだよ。 みんな、これからよろしく
 咲希: え……ええ〜〜〜〜！？
-(Black cut)
+(Black transition)

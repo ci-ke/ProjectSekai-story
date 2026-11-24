@@ -2,10 +2,8 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [Several years earlier]
@@ -19,8 +17,8 @@ Rui's Mother: Rui? It's almost time for lunch... Wait, this place is a mess. I j
 Rui's Father: Oh, did you make another fun device?!
 Little Rui (Rui): Mom, Dad!
 Rui's Father: The thing in your hand... Is that a motion detector? How do you plan on using it?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000391/bg_s000391.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000391/bg_s000391.webp)
 Little Rui (Rui): I'm thinking about having it light up whenever it detects a person.
 Rui's Mother: Light up when it detects a person...? What made you want to make something like that?
 Little Rui (Rui): I'm hoping to meet Santa.
@@ -28,7 +26,7 @@ Little Rui (Rui): He stops by each year to deliver presents, right?
 Little Rui (Rui): I want to thank him for being so kind, but I've never been able to meet him...
 Little Rui (Rui): That's why I've been making all these different devices.
 Little Rui (Rui): And when I do meet him, I'm going to give him a present.
-(White cut)
+(White transition)
 (Background change)
 Rui's Mother: I see. Now I understand.
 Rui's Father: Then, are the toys in this box for him? Did you make all these, Rui...?
@@ -75,7 +73,7 @@ Little Rui (Rui): Really?
 Rui's Father: Really! I'd like to use them for reference, so would you mind telling me more?
 Little Rui (Rui): Sure. Then, I'll start with the one by the entrance.
 Rui's Father: Thank you. Don't spare any details...!
-(Black cut)
+(Black transition)
 
 [Christmas Day]
 
@@ -92,10 +90,8 @@ Little Rui (Rui): Huh? There's a letter next to my present...
 Little Rui (Rui): “Your parents told me that you wished to thank me. I promise to treasure the toys you've given me.”
 Little Rui (Rui): Oh... He took the toys I made for him.
 Little Rui (Rui): I didn't get to thank him in person, but he seems to understand what I was trying to do.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: And that experience ended up becoming the inspiration for this show.
 Toya: That really happened...?
@@ -121,7 +117,7 @@ Akito: Huh?!
 An: Haha! Your hair's gone all white, Akito. You're not gonna just let him get away with this, are you...?
 Akito: Not a chance... Huddle up, you guys.
 Akito: We're going to cover them all in snow.
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -145,4 +141,4 @@ Rui: An emergency?
 Staff Member: Yes, the thing is...
 Staff Member: Some of the equipment for the show might not arrive on time...!
 Rui: What...?
-(Black cut)
+(Black transition)

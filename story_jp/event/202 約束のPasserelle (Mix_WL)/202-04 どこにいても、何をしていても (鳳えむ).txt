@@ -28,21 +28,17 @@
 えむ: ……あたしね
 えむ: もしまたあの子に会えたら、おじいちゃんとお別れした時、 どうやって悲しい気持ちとバイバイできたか 話そうって思ってたんだ
 えむ: でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: あたしが一番しょぼぼんってしてた時のことも 話さなくちゃいけないから……
 えむ: 今あの子に話しても、もっと苦しくさせちゃうかも
 ミク (WxS): 『うー、そっか……』
 えむ: （せっかく会えそうなのに……。 どうしたら、元気になってもらえるんだろ）
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -66,7 +62,7 @@
 えむ: あ……
 えむ: えへへ……。 わかっちゃった？
 えむ: 実はね——
-(Black cut)
+(Black transition)
 着ぐるみ: ——なるほど
 着ぐるみ: 数年前のお嬢様と同じような境遇にいらっしゃる方と 出会われた、と……
 えむ: うん。それでね、あたしが悲しい気持ちと バイバイした時のことを話したら 役に立つかなーって思ってたんだけど……
@@ -87,15 +83,11 @@
 着ぐるみ: ……何よりお嬢様に かっこ悪いところなどお見せできません
 着ぐるみ: ですが、表面上は取り繕えていた私よりも お嬢様の方が先に立ち直られた
 着ぐるみ: あの日——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 着ぐるみ: 目を真っ赤にしながら それでも笑顔で部屋から出てこられたお嬢様を見て、 私は奮い立ったのです
 着ぐるみ: 私も、前に進まねばと
@@ -107,20 +99,20 @@
 着ぐるみ: 『悲しみは乗り越えられる』、 『乗り越える方法がどこかにある』——
 着ぐるみ: 『だったら探してみよう』『あと少し、頑張ってみよう』と
 えむ: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000571/bg_s000571.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000571/bg_s000571.webp)
 えむ: そっか……。あの子が前に進むためのお手伝いが できるかもしれないんだ
 着ぐるみ: あの時のことを話すのは、 お嬢様にとってもつらいかと思いますが……
 えむ: ……心配してくれてありがとう、着ぐるみさん
 えむ: でも—— あの子に勇気をお届けできるなら、あたしやる！
-(White cut)
+(White transition)
 (Background change)
 着ぐるみ: ……『人というのは、後ろ向きよりも前向きに歩く方が得意だ』
 えむ: え？
 着ぐるみ: 昔、楽之介様がおっしゃっていた言葉です
 えむ: えへへ！ あたしも、前を向いて歩くの大・大・大・大得意だよっ♪
 着ぐるみ: ……ええ。存じておりますとも
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -174,19 +166,15 @@
 えむ: お母さん達も、すごくびっくりしたと思う。 おじいちゃんとお別れして、ちょっと経ってたから
 少女: ……どうやって、立ち直れたんですか
 えむ: きっかけは、棚から落ちてきたフェニーくんだったんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: あたしの部屋、おじいちゃんからもらったぬいぐるみとか おじいちゃんと撮った写真がいっぱいあって……
 えむ: ずっと見ないようにしてたのに、 フェニーくんが落っこちてきてから 急に目に入るようになっちゃったんだ
 えむ: それで、もう全部どっかいっちゃえって、 クローゼットにしまっちゃおうとしたの
 えむ: でも……思い出がある物が多すぎて 全然、クローゼットに入りきらなかったんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: おじいちゃんと関係ない物を探す方が ずっとずっと大変だったよ
 えむ: でもね、それで気づいたんだ
@@ -225,19 +213,15 @@
 少女: え……
 一歌: 悲しみを受け止めてくれたり、元気をくれたりする曲が—— あなたに寄り添ってくれる曲が、きっとあると思うんだ
 少女: ………………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 少女のおばあちゃん: ……音楽って、とっても不思議よね
 少女のおばあちゃん: 悲しさを和らげてくれる曲もあれば 楽しさをわけてくれる曲もあって…… いつでも、そばに寄り添ってくれているわ
 少女のおばあちゃん: ばあばにとっては、ミミちゃんの曲ね
 少女のおばあちゃん: ミミちゃんの曲がたくさん元気をくれるから、 １日でも長く生きたいって、頑張れるのよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 少女: おばあちゃん……
 一歌: え？
@@ -247,4 +231,4 @@
 少女: ……わたしも、少しだけ試したんですけど、 全然、そんな曲と出会えなくて……
 奏: …………出会えるよ、きっと
 奏: ——わたしが、あなたのための曲を作るから
-(Black cut)
+(Black transition)

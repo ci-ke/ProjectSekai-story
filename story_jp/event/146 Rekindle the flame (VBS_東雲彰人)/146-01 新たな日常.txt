@@ -45,13 +45,13 @@ RAD WEEKENDを超え、『世界を獲る』という次なる目標のために
 ビビッドストリートの若者達: あ、ありがとうございます……！
 ビビッドストリートの若者達: まだまだ、全然下手くそですけど…… 皆さんみたいに熱い歌が歌えるように、 チームでがんばりたいって思ってます……！
 こはね: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000364/bg_s000364.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000364/bg_s000364.webp)
 こはね: そう言ってもらえて、すごく嬉しいです！
 こはね: 私も、仲間に支えられてずっと歌ってきたので…… チームで頑張りたいって気持ち、すごくわかります
 こはね: えっと……よければ今度、おふたりの歌も聴かせてください。 お互い、頑張りましょう！
 ビビッドストリートの若者達: は、はい……！
-(White cut)
+(White transition)
 (Background change)
 洸太郎: おいおい！ あの子達、オレと話した時はあんな感じじゃなかったぞ！？
 常連客B: ははっ、お前のコーヒー目当てじゃなかったみたいだな！
@@ -66,7 +66,7 @@ RAD WEEKENDを超え、『世界を獲る』という次なる目標のために
 常連客B: 世界……か。 とんでもない夢だが、 お前らが言うとできそうな気がしちまうからすげえな！
 常連客A: はは！　だな！ それで、世界を目指すあとのふたりは、今どうしてんだ？
 冬弥: 今頃、頑張ってくれていると思います。 ——とても頭を悩ませながら
-(Black cut)
+(Black transition)
 (Background change)
 
 [英会話教室]
@@ -76,15 +76,15 @@ RAD WEEKENDを超え、『世界を獲る』という次なる目標のために
 杏: えっと……Pretty good！
 英会話の先生: OK！　挨拶はスムーズに返せるようになってますね！ それじゃあ、どんどんいきましょう！
 英会話の先生: What did you do on your day off？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000365/bg_s000365.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000365/bg_s000365.webp)
 杏: わ、わっとでぃじゅーまでは聞き取れたけど……後半何！？
 彰人: ……オンユアなんちゃらっつってた気がするが……
 杏: も、もう１回お願いします！
 英会話の先生: OK.  What did you do on your day off？
 杏: …………えーっと……
 杏: ……な、なんて？
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -101,7 +101,7 @@ RAD WEEKENDを超え、『世界を獲る』という次なる目標のために
 杏: ……でも、そうだよね！ 世界を獲るなら、やるしかないよね……！
 杏: 頑張ろう、彰人！
 彰人: ……おう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -127,4 +127,4 @@ RAD WEEKENDを超え、『世界を獲る』という次なる目標のために
 こはね: うん！ ……すごく大きな目標だけど、 少しずつ近づいていきたいな！
 こはね: ——みんな、頑張ろうね！
 彰人・冬弥・杏: 『ああ！』 『うん！』
-(Black cut)
+(Black transition)

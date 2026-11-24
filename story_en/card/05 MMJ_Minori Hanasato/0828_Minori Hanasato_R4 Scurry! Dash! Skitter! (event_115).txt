@@ -16,7 +16,7 @@ Haruka: Oh, they have different routes for large and small animals. Which should
 Shiho: Based on the map, the one for smaller animals looks shorter.
 Ichika: You two have to go back to work, so why don't we go see the smaller animals?
 Minori: Right! Then, let's go!
-(Black cut)
+(Black transition)
 Minori: So, this is apparently the section for the Tsushima leopard cats! What do you think they're like?
 Haruka: I'm also curious... But I'm not seeing them anywhere.
 Shiho: No, I'm pretty sure they're in here...
@@ -44,7 +44,7 @@ Ichika: What are they like?
 Haruka: I'm not sure, but I've definitely heard of them before.
 Minori: They must be really cute if all these people are going over to see them! Wanna head over?!
 Shiho: Yeah, let's go.
-(Black cut)
+(Black transition)
 Minori: Wow! This place is packed...!
 Ichika: There's way more people here now. I didn't realize they were so popular...
 Haruka: But I can see why. I mean, look how cute they are.
@@ -62,7 +62,7 @@ Guests: Whoa! It just banged its paws against the window!
 Guests: Wow, they're more ferocious than I thought. Is this one in hunting mode?
 Haruka: Sounds like it's stalking you, Minori.
 Minori: Again, why only me?!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -98,7 +98,7 @@ Ichika: Okay, we can rendezvous somewhere later.
 Minori: Thanks, you two!
 Minori: Haruka, let's go this way!
 Haruka: Okay.
-(Black cut)
+(Black transition)
 
 [A few minutes later]
 
@@ -121,4 +121,4 @@ Minori: Y-You're here for me?
 Guests: Would that be possible? The way you're always doing your best fills me with so much encouragement!
 Minori: Y-Yes, I'd be honored! I'll be more than happy to do those things for you!
 Haruka: (I'm so happy for you, Minori.)
-(Black cut)
+(Black transition)

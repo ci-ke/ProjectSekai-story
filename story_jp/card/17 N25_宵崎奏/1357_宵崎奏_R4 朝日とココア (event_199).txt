@@ -9,48 +9,36 @@ Gacha phrase: ……飲み物飲んで、また頑張ろうかな
 
 [奏の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『“距離を置く”っていう選択肢も、 あるんじゃないかな……って』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): ……驚いたわ。 随分、自分を見ないようにしているのね
 ルカ (N25): 奏だからこそ、まふゆを救える唯一の可能性があるのに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （わたし、だから……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): もし、あなたが願い通り、まふゆを救うことができたとして——
 ルカ (N25): まふゆに曲を作らなくてもよくなったら…… どうするの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （わたしは……）
 奏: …………駄目だ、わからない
 奏: （どうすれば、まふゆは救われるんだろう）
 奏: （わたしは、どうすれば——）
-(Black cut)
+(Black transition)
 (Background change)
 奏: …………もう、朝か
 奏: 結局、答えは出せなかったな……
@@ -63,7 +51,7 @@ Gacha phrase: ……飲み物飲んで、また頑張ろうかな
 奏: あ……
 奏: （ちょっと、お腹空いたかも……）
 奏: ……飲み物飲んで、また頑張ろうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -90,7 +78,7 @@ Gacha phrase: ……飲み物飲んで、また頑張ろうかな
 奏: （……まだ目は冴えてるけど、 ごはん食べたら眠くなるかもな）
 奏: （……たしかに、一度寝たほうが 頭の中も整理できるかもしれないし——）
 奏: （起きたらもう一度、考えてみよう）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -150,4 +138,4 @@ Gacha phrase: ……飲み物飲んで、また頑張ろうかな
 瑞希: 楽しみにしててね♪
 奏: ……ありがとう
 奏: よろしく、瑞希
-(Black cut)
+(Black transition)

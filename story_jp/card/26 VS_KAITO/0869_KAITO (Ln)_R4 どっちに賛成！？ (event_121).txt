@@ -61,7 +61,7 @@ KAITO (Ln): そう、かな……
 MEIKO (Ln): 今度からわかりやすく説明したい時は カイトに例えをお願いしようかな
 KAITO (Ln): え……。 それは……自分で頑張ってほしい
 みんな: 『あははっ』 『ふふっ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -91,7 +91,7 @@ KAITO (Ln): （……いい調子だな。 練習で苦戦していたところ�
 レン (Ln): 『みんなの音に、全然迷いがないな』
 ルカ (Ln): 『ええ。いい演奏ね』
 KAITO (Ln): 『うん……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -131,4 +131,4 @@ MEIKO (Ln): でも、リン達が書き終わるまでのあいだ、 みんな�
 KAITO (Ln): たしかに……。でも、あれだけたくさん書いてるし、 そこまで気にしなくても大丈夫じゃないかな……
 MEIKO (Ln): それもそっか。じゃあ、行こう
 KAITO (Ln): ……うん
-(Black cut)
+(Black transition)

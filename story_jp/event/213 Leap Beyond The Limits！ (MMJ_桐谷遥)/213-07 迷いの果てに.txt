@@ -36,7 +36,7 @@
 遥: 椿木さんがどんな気持ちで夢を目指してるのか、 知れてよかったよ
 千晴: ふふ。今度、桐谷さんの話も聞かせてください
 遥: うん、わかった
-(Black cut)
+(Black transition)
 (Background change)
 千晴: ——今日はありがとうございました！ おやすみなさい
 遥: （一緒にトレーニングできてよかったな。 椿木さんとも、前より仲良くなれた気がするし）
@@ -53,17 +53,13 @@
 遥: ——そっか
 遥: （ひとつだけあった、私達が勝つ方法が）
 遥: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -74,4 +70,4 @@
 遥: 準決勝のステージについて考えたんだけど……
 遥: 今回のステージは、私と雫—— 特に雫を中心に組み立てたいと思う
 雫: え……
-(Black cut)
+(Black transition)

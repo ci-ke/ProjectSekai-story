@@ -35,7 +35,7 @@ Gacha phrase: ホント、すっごくお似合いですよ！
 絵名: いいんじゃない？ そのクーポン、結構期間短いみたいだし
 絵名: じゃあ、私はそろそろ行こっかな。 ——また、ナイトコードでね
 瑞希: うん。ばいばーい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -67,7 +67,7 @@ Gacha phrase: ホント、すっごくお似合いですよ！
 瑞希: ……まさか、みんなに会えるなんて思わなかったな
 瑞希: （こんな日があるなら……）
 瑞希: （学校に行くのも、たまには悪くないかもね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -85,7 +85,7 @@ MEIKO (N25): ええ
 瑞希: ちょうどよかった！ ボクも同じだから、一緒に行かない？
 MEIKO (N25): 勝手についてくる分には、構わないわ
 瑞希: おっけー。 それじゃ、レッツゴー♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [湖]
@@ -122,15 +122,11 @@ MEIKO (N25): まふゆも、一緒のようね
 瑞希: え？
 MEIKO (N25): ……そうね。 だから、夢の中でも探していたんじゃないかしら
 瑞希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （安心できる場所、か……）
 MEIKO (N25): 瑞希？
@@ -147,4 +143,4 @@ MEIKO (N25): 瑞希？
 瑞希: あ……ねえ、まふゆ
 瑞希: ——また、ナイトコードでね！
 まふゆ: ……うん。また、あとで
-(Black cut)
+(Black transition)

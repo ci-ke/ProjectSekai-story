@@ -41,7 +41,7 @@
 レン (N25): 『で、でも……無理、しないでね』
 絵名: うん、大丈夫
 絵名: じゃあ、最初のほうから見ていこっかな。 向こうに行こうか
-(Black cut)
+(Black transition)
 リン (N25): 『この絵も、きれいだね』
 レン (N25): 『うん……。 それに、すごく迫力があるな……』
 絵名: ……うん
@@ -100,10 +100,8 @@
 レン (N25): 『追い詰められてる……』
 リン (N25): 『前の絵名みたいに？』
 絵名: え……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 描かなきゃ……なんでもいいから描かなきゃ！
 絵名: このまま描けなかったら私は本当に——
@@ -111,10 +109,8 @@
 絵名: ……どうして？
 絵名: どうして……描けないの……？
 絵名: なんで描けないのよ……っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……そういえば……）
 絵名: （私も、あの時はこういう絵を描いてた気がする）
@@ -133,17 +129,13 @@
 リン (N25): 『——絵名、次の絵……さっきの』
 絵名: ……！
 絵名: （牡丹の絵……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 雪平: １枚１枚、自分自身の目で見て、感じ取ってください
 雪平: その絵に何が描かれているのかを
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 絵名: （わかんない。わかんない、けど……）
 絵名: （私の目で見て、感じてみよう。 思い込みとか、今までの記憶とか抜きで）
 絵名: （そこに……答えが、あるのかもしれない）
-(Black cut)
+(Black transition)

@@ -42,7 +42,7 @@ Rin: <When it's a bigger fight, I talk to Miku and the others about it...>
 Rin: <If I was in the wrong, they always tell me exactly what I did wrong, which really helps.>
 Host: It's wonderful that you have friends who'll talk things out with you so earnestly.
 Rin: <Hehe, I think so too!>
-(Black cut)
+(Black transition)
 Host: Well, that's about all the time we have.
 Host: Thank you for speaking with us today, Rin.
 Rin: <No, thank you! This was fun!>
@@ -54,7 +54,7 @@ Rin: <So, please come see us if you can!>
 Host: Rin, thank you very much for today!
 Host: We'll be continuing with the next in our series of VIRTUAL SINGER interviews tomorrow! And with that...
 Rin & Host: <Goodbye!> Goodbye!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -66,7 +66,7 @@ Rin & Host: <Goodbye!> Goodbye!
 Miku, Rin & Luka: ♪————! ♪————!
 Len, MEIKO & KAITO: ♪————! ♪————!
 Rin: Come on everybody, let's raise the roof♪
-(Black cut)
+(Black transition)
 Rin: See you three later!
 Rin: Hey guys! Is everybody enjoying the VIRTUAL SINGERS Show?
 Len: Everyone here at the venue is having fun! How about all of you at the remote screenings and everybody watching the stream?
@@ -123,4 +123,4 @@ KAITO: Hahaha... There's no way they did.
 Rin: But we just warned them, so we'll call it good♪
 Rin: Okay everyone, ready to catch a cold?
 KAITO, Rin & Len: Start the music!
-(Black cut)
+(Black transition)

@@ -9,7 +9,7 @@ Ena: We already went to the art exhibit, so I'm good with whatever...
 Kanade: Mafuyu, why don't we go take a look at the stalls since you've been around the stage all day?
 Mafuyu: Sure.
 Mizuki: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Oh, there's a little less people now... This should make it easier to walk around.
 Ena: Yeah, way less than during the day. We can go for a nice little stroll.
@@ -19,17 +19,13 @@ Mafuyu: No, it's not that... I was just thinking about what happened today.
 Kanade: About what happened today?
 Mafuyu: Yes. I saw Hinomori and her group perform, met Hoshino and her band... And I treated Kamishiro...
 Mafuyu: (Also...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: I'm inclined to believe otherwise...
 Rui: This is just my hunch, but I got the sense that there is something that you want to do, Asahina.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What I want to do...)
 Mafuyu: (I don't think I actually want to do...)
@@ -48,17 +44,13 @@ Mafuyu: ...
 Mizuki: I know! We can bring someone over from the first aid tent! Let's see... It was...
 Girl: *Sob* M-Mommy, it hurts...
 Mafuyu: (I...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: Our shows mean quite a lot to me, so I can't even begin to express how grateful I am for your help.
 Emu: Thank you so very much, Asahina!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I...)
 Kanade: Mafuyu...?
@@ -75,15 +67,15 @@ Mafuyu: Thank you.
 Mafuyu: (First, I need to clean out her wound.)
 Mafuyu: (Then, I'll dry it off using a handkerchief and place a bandage on it...)
 Mafuyu: (And finally...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000118/bg_s000118.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000118/bg_s000118.webp)
 Mafuyu: Pain, pain, go away...
 Ena: Huh...?
 Mafuyu: Does it still hurt?
 Girl: *Sob* Huh...? It doesn't hurt anymore...
 Mafuyu: That's good to hear...
 Girl: That was amazing! Thank you so much!
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: Oh...
 Mafuyu: Of course. You're very welcome.
@@ -104,15 +96,11 @@ Kanade: You smiled ever so slightly when that little girl thanked you...
 Mafuyu: What...?
 Mafuyu: (I smiled... Why...?)
 Mafuyu: (Hang on...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (When Kamishiro and Otori thanked me just earlier...)
 Mafuyu: (My chest felt light for some reason...)
@@ -142,18 +130,14 @@ Mafuyu: Is somebody playing the piano...?
 Kanade: Oh, you're right. Where's it coming from?
 Ena: Hey, isn't it that? There's a piano sitting in the middle of the street, and I see someone playing it.
 Mafuyu: A piano...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: I'll give up on music...
-(White cut)
+(White transition)
 Mafuyu's Mother: That means you don't need this synthesizer anymore, right? I'll hold onto it for now.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I haven't touched any musical instruments since then...)
 Mafuyu: (I wonder what happened to that synthesizer. Did she throw it out already...?)
@@ -186,7 +170,7 @@ Emu: Oh, Rui...
 Rui: Hm? Yes, Emu?
 Emu: I hope she discovers what she truly wants to do someday.
 Rui: Yes, so do I.
-(Black cut)
+(Black transition)
 Kanade: Mafuyu...
 Mafuyu: Yes?
 Kanade: Are you having fun right now?
@@ -195,4 +179,4 @@ Mafuyu: But I'd like to keep doing this for a little bit longer.
 Kanade: I see...
 Kanade: Then, let's keep playing a bit more.
 Mafuyu: Okay.
-(White cut)
+(White transition)

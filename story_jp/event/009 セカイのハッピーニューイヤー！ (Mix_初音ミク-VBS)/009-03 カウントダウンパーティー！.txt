@@ -26,7 +26,7 @@
 (Background change)
 瑞希: 『よかったー！　みんなありがと！』
 瑞希: 『じゃあ準備できたら、またナイトコードで連絡するから、 みんなでセカイに集まろうね！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -34,14 +34,10 @@
 ミク (N25): …………
 ミク (N25): 最近、みんな来ないな
 ミク (N25): ……でも、ここに来ないのは いいことなのかも
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 ミク (N25): ———みんな、楽しくすごせてるといいな
 瑞希: やっほー、ミク！
 ミク (N25): あ……
@@ -70,10 +66,10 @@
 瑞希: すっごく助かるよ！ みんな、ありがとう！
 ミク (N25): ……みんな、楽しそう
 ミク (N25): ——よかった
-(Black cut)
+(Black transition)
 絵名: 瑞希、このお菓子、まふゆが持ってきてくれた 紙皿に盛っていい？
 瑞希: うん、それでよろしく！
-(Black cut)
+(Black transition)
 絵名: ふう……準備終わったよ
 まふゆ: こっちも終わった
 奏: ……お菓子が並ぶと、パーティーって感じがするね
@@ -98,4 +94,4 @@
 ミク (N25): （だけど、わたしは——）
 ミク (N25): （いつでもここで、みんなを待ってるね）
 ミク (N25): 新しい年もよろしくね、みんな
-(White cut)
+(White transition)

@@ -2,7 +2,7 @@
 
 (Character: Ichika Hoshino, Shiho Hinomori)
 
-(White cut)
+(White transition)
 (Background change)
 
 [One week later after school]
@@ -11,7 +11,7 @@
 
 Shiho: (I'm glad it's sunny again today. Rain would've kept me from going up to the rooftop.)
 Shiho: (Hm...? It sounds like someone's already up there...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy JHS - Rooftop]
@@ -28,26 +28,26 @@ Shiho: You're lonely...?
 Shiho: I see...
 ???: Oh, would I be making too much of a racket...?
 Shiho: Um...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000052/bg_s000052.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000052/bg_s000052.webp)
 Shiho: No, I won't mind... Feel free to practice as you like.
 ???: Really? Thanks, I really appreciate it.
 Miu: Oh, I forgot to introduce myself to you... My name's Miu Takagi, a second-year.
 Shiho: I'm Shiho Hinomori. Also a second-year...
 Miu: Nice to meet you, Hinomori.
 Shiho: Likewise...
-(White cut)
+(White transition)
 (Background change)
 Student's Voice: Ichika! Are you heading home now...?
 Shiho: ...!
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: Uh, yes. How did club activities go for you today?
 Student: The seniors are all hyped up for regionals, so they're making us practice extra hard! You should stop by for a change!
 Ichika: Me...?! I-I'd really rather not...
 Student: Haha! I was kidding!
 Ichika: Hehe. You had me going there for a second.
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: ...
 Miu: Is she your friend...?
@@ -61,13 +61,13 @@ Miu: It's just, you don't seem as lonely whenever you are...
 Shiho: That's because...
 Shiho: No, you're right.
 Shiho: I'll start practicing...
-(Black cut)
+(Black transition)
 (Background change)
 Miu: Ow, my fingers...
 Shiho: You should try using your fingertips more when fretting, especially for chords...
 Miu: Oh, you're right. That makes things so much easier. Thanks.
 Shiho: Sure thing.
-(Black cut)
+(Black transition)
 (Background change)
 
 [One month later]
@@ -83,7 +83,7 @@ Shiho: Light Music Club? I didn't realize our school had one of those...
 Light Music Club Member B: We literally just started it. Our goal's to play during the School Festival.
 Light Music Club Member C: But our bassist has some conflicts to deal with, so we're looking for someone experienced to replace her...
 Light Music Club Member A: That's when we heard about you, Hinomori. Wanna try playing bass for us?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Miyamasuzaka Girls Academy JHS - Rooftop)
 Miu: Oh... It's already this late. We should head home soon.
@@ -103,7 +103,7 @@ Shiho: Right. Thanks...
 Miu: ...
 Miu: I can hear my guitar so clearly when it's just me playing...
 Miu: At the same time, everything's so quiet...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -114,7 +114,7 @@ Shiho: Same. I've been looking forward to this.
 Shiho: Alright, why don't we jump right in? We only have three months until the School Festival.
 Light Music Club Member B: Yeah, you're right. Let's give it a quick run!
 Light Music Club Member A: Okay.
-(Black cut)
+(Black transition)
 Shiho: (They're pretty good. They might be more experienced than I realized...)
 Shiho: (If we really work at it starting now, we should be able to put on a great show for the School Festival...)
 Light Music Club Member A: Yeah! You're doing great, Hinomori!
@@ -131,7 +131,7 @@ Shiho: Would it be alright if we gave that a try?
 Light Music Club Member A: Yeah, I guess you're right...
 Light Music Club Member B: Okay, let's give it another shot.
 Shiho: Great. Thanks.
-(Black cut)
+(Black transition)
 (Background change)
 
 [One week later]
@@ -156,4 +156,4 @@ Shiho: ...
 Shiho: (The only good practice we've had so far was during our first day.)
 Shiho: (Even asking them to practice on their own at home got tabled...)
 Shiho: (What am I supposed to do in this situation...?)
-(Black cut)
+(Black transition)

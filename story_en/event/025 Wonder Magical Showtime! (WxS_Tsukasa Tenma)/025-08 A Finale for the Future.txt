@@ -6,11 +6,11 @@
 
 Miku (WxS): <Now, we'll be using your magical smiles to give Phoenix Wonderland a little makeover! Let's kick off our Smiling Nighttime event!>
 KAITO: <The night is still young! It's showtime!>
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000080/bg_a000080.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000080/bg_a000080.webp)
+(White transition)
 (Background change)
 Visitors: Hey, we should go on the Ferris wheel! I bet everything looks amazing from up there right now!
 Visitors: The roller coaster's effects are different now compared to during the day! Let's check it out!
@@ -30,14 +30,14 @@ Shosuke: What?! That show did all of that?!
 Keisuke: It seems like it...
 Keisuke: It's doing particularly well among middle and high schoolers it seems. They appear to be the ones buying up all the weeknight tickets.
 Shosuke: Y-You can't be serious...
-(White cut)
+(White transition)
 KAITO: <Unfortunately, it's almost time for us to say farewell...>
 Miku (WxS): <Yeah, I hate to say goodbye at a time like this, but we hope to see all your smiling faces again!>
 Tsukasa: <Everyone! Thank you for coming!>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000079/bg_a000079.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000079/bg_a000079.webp)
 Everyone: <Thank you!!>
-(White cut)
+(White transition)
 (Background change)
 Riley: Bravo! Bravo!!
 Keisuke: Emu...
@@ -102,7 +102,7 @@ Emu: Yeah! This really is sooo...
 Tsukasa, Emu, Nene & Rui: Wonderhoy!
 Emu: Right♪
 Tsukasa, Emu, Nene & Rui: Hahaha!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -163,6 +163,6 @@ Emu: Nooo! Why didn't you say it, Shosuke?!
 Shosuke: Are you serious?! Why would I do something like that?!
 Keisuke: Hahaha! This reminds me of when we were kids, Shosuke!
 Tsukasa: So begins the act two of Wonderlands×Showtime's magnificent spectacle!!
-(Black cut)
+(Black transition)
 (Video: 04_wonder_ed1)
-(Black cut)
+(Black transition)

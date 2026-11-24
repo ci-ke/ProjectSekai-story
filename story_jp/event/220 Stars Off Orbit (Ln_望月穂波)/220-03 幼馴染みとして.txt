@@ -9,29 +9,21 @@
 穂波: （……単位制にするなら、 お父さん達にも相談する必要があるよね）
 穂波: （プロになる時には、わたし達の夢を 応援してくれるって言ってたから大丈夫だと思うけど）
 穂波: （あとは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: …………
 穂波: （……わたしの、勘違いかもしれない）
 穂波: （だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: ほなちゃんには、 今の友達を大事にしてほしいなって思ったの！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （……なんだか、あの時みたいで……）
 穂波: （咲希ちゃんに、ちゃんと聞いてみたいけど）
@@ -64,7 +56,7 @@ MEIKO (Ln): でも、もし頼ってもらえたら—— その先輩は、す�
 穂波: じゃあ……先輩。 少し、話を聞いてもらってもいいですか？
 MEIKO (Ln): うん！　遠慮なくどーぞ！
 穂波: 実は、事務所で移籍の話を聞いた時に——
-(Black cut)
+(Black transition)
 MEIKO (Ln): ……なるほどね。咲希が何か引っかかってるように見えた、か
 穂波: わたしの勘違いかもしれないんですけど…… どうしても、気になってしまって
 MEIKO (Ln): ……リーダーとしては気になるよね。 大事なメンバーが、本音を隠してるかもしれないのは
@@ -77,8 +69,8 @@ MEIKO (Ln): もし、あえて外に出さないようにしてるってこと�
 穂波: ……なんとなく、話してくれない気がするんです
 穂波: わたし達に話せない理由があるから…… 黙ってるんじゃないかって
 MEIKO (Ln): ……そっか。幼馴染みの勘ってやつかな？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000641/bg_s000641.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000641/bg_s000641.webp)
 MEIKO (Ln): でも、それなら——
 MEIKO (Ln): ただの幼馴染みとして、聞いてみたらどう？
 穂波: 幼馴染み、として……？
@@ -86,7 +78,7 @@ MEIKO (Ln): そう
 MEIKO (Ln): ……咲希も、同じ道を進む仲間には 言いづらいかもしれないけどさ
 MEIKO (Ln): 純粋な、昔からの友達になら—— 本当の気持ちを言えるかもしれないよ
 MEIKO (Ln): だから穂波が、“友達として心配だよ”って気持ちを 伝えてあげたらどうかな
-(White cut)
+(White transition)
 (Background change)
 MEIKO (Ln): あとは……少しでも咲希が話しやすいように してあげるといいかもね
 MEIKO (Ln): いかにも『相談して！』って感じじゃなくて、 友達として遊ぶ延長線で話してみるとかさ
@@ -95,4 +87,4 @@ MEIKO (Ln): ってことで、お節介な先輩からのアドバイスは以�
 穂波: …………。 ありがとうございます、メイコさん
 穂波: わたし、咲希ちゃんと話してみます
 MEIKO (Ln): うん、応援してるよ
-(Black cut)
+(Black transition)

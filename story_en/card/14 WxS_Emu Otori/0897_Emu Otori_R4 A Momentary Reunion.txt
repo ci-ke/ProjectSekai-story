@@ -46,7 +46,7 @@ Emu's Father: No, never mind that.
 Emu's Father: My father wasn't able to make those ideas a reality himself, but I'm sure he'll be happy to know that someone has taken up the torch in one sense or another.
 Emu's Father: Treat that with care. Both the notebook, and your grandfather's wishes...
 Emu: Right! I'll take super good care of them! Thanks, Dad!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Emu's Room]
@@ -67,7 +67,7 @@ Emu: I wish I could've asked him lots about his work too...
 Emu: I don't get to talk to him anymore, but he's left this notebook behind!
 Emu: Alrighty! I'm gonna read every line and study up♪
 Emu: Huh? My phone just...
-(White cut)
+(White transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -78,7 +78,7 @@ Emu: Oh! Something's flashing over there! Could it be a star?!
 Emu: Fooound ya☆ So this round ball thing here is where the light's coming from!
 Emu: Is this a prop for a show? I'm gonna go show everybody♪
 Emu: Wah! What's going on? It's so bright!!!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -91,7 +91,7 @@ Emu: I...think I recognize this place...
 Emu: Hwah?
 Emu: G-GGGGGGGGG...!
 Emu: GRANDPA?!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -142,12 +142,12 @@ Emu: Okie dokie! Whoa...! There are even little dolls of us!
 Rakunosuke: Cute, aren't they? They're my pride and joy, made to order.
 Rakunosuke: Okay then, are we all set for our brainstorming battle? Ready... Go!
 Emu: Gooo!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000300/bg_s000300.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000300/bg_s000300.webp)
 Emu: (Hmm, what to do. Grandpa already came up with ideas to make the place feel like a playground or an aquarium...)
 Emu: (That reminds me, he wrote in his notebook about how difficult it was to climb the stairs and how many memories are packed in here.)
 Emu: (Trouble climbing the stairs... Then...!)
-(White cut)
+(White transition)
 (Background change)
 Emu: (Oh... But I think this idea would mean making really big changes to the lodge...)
 Rakunosuke: Emu, that's the face of somebody with an idea! Keeping all the fun to yourself is no fair. Could you let Grandpa in on it?
@@ -167,15 +167,11 @@ Rakunosuke: After all, a thought that seems obvious to you could feel like an in
 Rakunosuke: And even when it's an idea you're not sure how to execute, maybe someone out there has the answer.
 Rakunosuke: Haven't you experienced that before, Emu? Moments when something you thought impossible came to fruition with the help of those around you.
 Emu: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Yeah. Lots of times...!
 Rakunosuke: Of course, of course you have!
@@ -188,7 +184,7 @@ Rakunosuke: I like that! And planting some flowers along the tracks would surely
 Emu: Also, about the inside of the lodge... Oh, can I use the dollhouse?
 Rakunosuke: Of course! Which part are you thinking of changing up?
 Emu: Hehehe, well...!
-(White cut)
+(White transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -224,4 +220,4 @@ Emu: So...
 Emu: So, I'm gonna write it all down before I forget!
 MEIKO (WxS): That's a wonderful plan! I'd love to hear what you two talked about.
 Emu: Sure♪ I'll tell you all about it!
-(White cut)
+(White transition)

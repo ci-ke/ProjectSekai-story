@@ -12,7 +12,7 @@
 瑞希: 向こうに絵名と、えむちゃんもいるよ。 ふたりも穂波ちゃんに誘われたんだって
 瑞希: せっかくだし、みんなで見に行こ！
 奏: うん。星乃さん達のライブ、楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブ会場　ステージ裏]
@@ -59,7 +59,7 @@
 (Background change)
 一歌: だから——お世話になったみんなへ感謝を伝えるために、 最高のライブにしよう！
 志歩・穂波・咲希: 『うん……！』
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ライブ会場)
 寧々: （そろそろ、かな……）
@@ -68,4 +68,4 @@
 一歌: ——皆さん、今日は来てくれてありがとうございます！
 一歌: 私達……
 一歌: Leo/needです！
-(Black cut)
+(Black transition)

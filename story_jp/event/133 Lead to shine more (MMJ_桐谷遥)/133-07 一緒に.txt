@@ -11,15 +11,11 @@
 会長: ……できれば全員に配りたかったけど、 参加賞は先着順にするしかないかな……
 運営委員: ……そうですね。 この町に来てくれたいい記念になると思ったんですが
 遥: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 会長: ……だから、マラソン大会を開いて その美しさを知ってもらえれば、 観光客や移住者が増えるんじゃないかと思ったんですけど……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: ……あの！
 運営委員: え？
 遥: 栞って、あとどれくらい必要になりそうですか？
@@ -45,7 +41,7 @@
 斎藤: 私も荷物持ち手伝います！
 番組ディレクター: …………。 このまま、カメラ回しておいてください
 スタッフ: は、はい……！
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -60,16 +56,12 @@
 愛莉: 皆さん！？ どうして……
 町人A: それはこっちのセリフよ
 遥: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 町人A: ——本当に大丈夫かしら？ あの子達、アイドルなんでしょ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: すみません、勝手に進めてしまって。ですが——
 町人A: 会長さんが声をかけてくれなかったら、 みんなだけに頑張らせることになってたわ
@@ -88,25 +80,21 @@
 町人A: 一緒に、頑張りましょう
 遥: ……！　ありがとうございます
 遥: （……嬉しいな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: 町が大切だからこそ、頼りない人がきたら不安になる。 それはしょうがないと思う
 遥: だから、その不安がなくなるように全力を尽くそう
-(White cut)
+(White transition)
 雫: マラソン大会にも、町の皆さんにも真剣に向き合って…… 私達の本気が伝わるように、頑張りましょう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （私達の気持ち、ちゃんと伝わってたんだ）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000322/bg_s000322.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000322/bg_s000322.webp)
 運営委員達: あら。遥ちゃん、花並べるの上手ねえ。 どうやってるの？
 遥: ありがとうございます。 枠内からわざとはみ出させて並べると、 お花がぎゅって、敷き詰められてるみたいになるんです
 運営委員達: そっか、はみ出してもいいのね
 遥: あとは、規則的に並べるんじゃなくて こんな風にわざと重ねてみたり——
-(White cut)
+(White transition)

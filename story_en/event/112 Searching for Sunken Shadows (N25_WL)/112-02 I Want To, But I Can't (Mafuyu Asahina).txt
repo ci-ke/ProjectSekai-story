@@ -3,7 +3,7 @@
 (Character: Kanade Yoisaki, Mafuyu Asahina)
 
 (Video: link_night_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -18,7 +18,7 @@ Mafuyu's Father: Ms. Yoisaki, if you don't mind looking after Mafuyu for a littl
 Kanade: Yes, of course.
 Mafuyu's Father: I'll come visit again next week, so let me know if anything changes.
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 Kanade: Here you are, Mafuyu. I made you some tea.
 Mafuyu: Thank you...
 Mafuyu: It smells nice...
@@ -33,29 +33,24 @@ Mafuyu: I'll get back to work now...
 Kanade: Okay...
 Kanade: I'm going to go visit my dad. I'll be back in a little bit.
 Mafuyu: Okay, see you later.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
 
 Mafuyu: (If the melody here goes like this, then...)
 Mafuyu: Stumbling over the string that's tangled around your foot...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: Stumbling... My foot…
 Mafuyu: (I'm stuck...)
-(White cut)
-
-(Memory cut-in)
+(White transition)
+(Flashback in)
 
 [A few weeks earlier]
 
@@ -64,7 +59,7 @@ Kanade: Mafuyu... Are you okay?
 Mafuyu: I'm okay...
 Kanade: I'll step in to help if anything happens...
 Mafuyu: Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Nice to meet you. My name is Kanade Yoisaki...
 Mafuyu's Father: Nice to meet you, Ms. Yoisaki. I'm Mafuyu Asahina's father.
@@ -82,9 +77,9 @@ Mafuyu's Father: However, I'm sure she had your best interests in mind.
 Mafuyu: ...
 Mafuyu's Father: We can discuss this further when we get home. I'm sure we'll be able to figure something out after we sit down and talk it all out.
 Mafuyu: I...
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: ...!
 Mafuyu: I'm sorry...
@@ -115,10 +110,8 @@ Mafuyu's Father: Thank you very much... I'll have Mafuyu's things and other dail
 Mafuyu's Father: Mafuyu.
 Mafuyu's Father: I'll come visit again. When you feel ready, would you mind telling me what happened...?
 Mafuyu: Okay...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (Dad's been so worried.)
 Mafuyu: (Ever since then... And including today.)
@@ -127,23 +120,19 @@ Mafuyu: (And for as long as I keep staying at Kanade's house...)
 Mafuyu: (I also have school and my exams to think about...)
 Mafuyu: (I have to go home eventually...)
 Mafuyu: (I have to, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Mafuyu, please. I was wrong, so... Let's go home and talk about this together.
 Mafuyu's Mother: Please, Mafuyu!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...!!!
 Mafuyu: (My chest... It feels so cold...)
 Mafuyu: (It hurts so much...)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -153,4 +142,4 @@ Mafuyu: (This pain... I need someone to...)
 Mafuyu: ...
 ???: Mafuyu...?
 Mafuyu: Huh...?
-(Black cut)
+(Black transition)

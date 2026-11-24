@@ -15,23 +15,19 @@ Ena: <Night.>
 (Background change)
 Ena: *Sigh* I couldn't focus at all today despite knowing that I'm behind schedule.
 Ena: Ugh... This is all Mizuki's fault.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Luka: So Mizuki's...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: I wonder what Luka and MEIKO were talking about...
 Ena: Maybe tomorrow... Oh, I guess today... Anyway, I could ask before we start working...
 Ena: Oh, what if I'm told, “I'm busy”...?
 Ena: And I might get an, “I'm sleepy,” and miss my chance if I ask after we're done...
 Ena: Okay, I guess I don't have any other choice...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -55,15 +51,11 @@ Akito: After refusing my offer to ask them for you too. You're really that bothe
 Ena: Why do you care? It's my business, not yours...
 Akito: Okay...?
 Ena: (But that does remind me. Mizuki's friends with someone on his team.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Yeah, it's her.)
 Ena: That's right. Mom, you've gotta hear this!
@@ -94,20 +86,16 @@ Akito: Like I said, good luck. And thanks for dinner.
 Ena: Hey, wait...!
 Ena: Seriously, what was that just now...?
 Ena: (But he might be right. Airi and Mizuki might be the only people I've ever cared about this much.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: (I'm almost never able to get a straight answer, but I can't just leave things the way they are...)
 Ena: (Okay...!)
 Ena: (Once I'm on Nightcord, I'll try talking to Mizuki about doing something this Sunday!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -122,40 +110,32 @@ Ena: Ugh, who is it? Don't they know what time it is...?
 Ena: Huh? Mizuki? Did something happen?
 Mizuki: <I want to make up for what I did the other day. Are you free this weekend?>
 Ena: The other day...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Sorry, I guess I'm not as well as I thought I was! I'm fine otherwise, honest...!
 Mizuki: So I'm gonna head home!
 Ena: Mizuki, wait...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Does this mean Mizuki feels a little better now?
 Ena: Oh, maybe what I said is starting to take effect.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: So please, tell me when you feel you're ready. I'll be waiting until then.
-(White cut)
+(White transition)
 Mizuki: Thanks, Ena...
 Mizuki: Thank you so much. I feel a lot better now.
 Mizuki: I can't tell you right now, but when I feel ready... I hope you'll be willing to hear me out...
 Mizuki: Would that work...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Maybe Mizuki is actually starting to feel better. Thank goodness.)
 Ena: Hehe. Alright, let's send a reply!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The weekend]
@@ -170,9 +150,9 @@ Mizuki: I was the one who invited you. Also, I couldn't wait for today♪
 Ena: Oh...
 Ena: Hehe. I'm glad that you're excited, but don't forget that you owe me a nice day out, okay?
 Mizuki: I know♪ Anyway, shall we?
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
 Ena: *Sigh* We got so much!
 Mizuki: I know, right♪ That concealer we just bought seemed really good too! I can't wait to try it out!
 Mizuki: It might even be able to cover up those bags under your eyes, Ena.
@@ -202,7 +182,7 @@ Mizuki: Thanks! Pink it is!
 Ena: Wait, just like that?
 Mizuki: Yup! I'm gonna go take this up front!
 Ena: *Sigh* After spending so much time on this the other day.
-(Black cut)
+(Black transition)
 Mizuki: I'm back! It's all squared away.
 Ena: There you are... What's with this frilly lace getup?
 Mizuki: Hehe♪ It caught my eye while I was in line for check out...
@@ -221,4 +201,4 @@ Ena: Hey, what are you doing?! Don't pile on just because you think you can!
 Mizuki: Aww, come on! You're just trying them on, right? What's the harm in a few more?
 Mizuki: I mean, look at this one piece! It's so cute!
 Ena: Okay, fine. After I'm done trying this one.
-(Black cut)
+(Black transition)

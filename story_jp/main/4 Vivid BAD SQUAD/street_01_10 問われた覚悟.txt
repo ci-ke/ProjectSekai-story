@@ -2,7 +2,7 @@ street_01_10 問われた覚悟
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 鏡音レン, MEIKO)
 
-(Black cut)
+(Black transition)
 
 [神山通り]
 
@@ -43,7 +43,7 @@ street_01_10 問われた覚悟
 彰人: …………
 彰人: いくぞ冬弥。もうすぐオレ達の番だ。 ……盛り上げるぞ
 冬弥: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [こはねの部屋]
@@ -52,24 +52,20 @@ street_01_10 問われた覚悟
 こはね: （……返事しなくちゃ……。 でも、なんて……？）
 こはね: （東雲くんの言う通りだ……。 私、心のどこかで、杏ちゃんと一緒だったら大丈夫って……）
 こはね: （……だからあの時だって歌えなくて……。 それで、杏ちゃんにも迷惑かけて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: 今日こはねと歌った瞬間が、一番ドキドキした！ だから、こはねと一緒にもっといろんな歌を歌いたいの！
-(White cut)
+(White transition)
 杏: うん！　やろうよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……………………っ
 こはね: ……う……ぐすっ……
 こはね: あっ、スマホが……
 こはね: ……『Untitled』……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -96,4 +92,4 @@ MEIKO: あら、こはねちゃん。　 どうしたの？　しょんぼりし
 レン: 何かイヤなことでもあった？
 こはね: メイコさん、レンくん……
 こはね: ……その……わ、私………
-(Black cut)
+(Black transition)

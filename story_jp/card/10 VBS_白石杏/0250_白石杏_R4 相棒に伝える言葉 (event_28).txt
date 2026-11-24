@@ -21,24 +21,18 @@ Gacha phrase: やっと笑ってくれた
 彰人: だろ。 リベンジに関しちゃ、お前もこはねも得意そうだしな
 彰人: オレも、一度それで驚かされてるしな
 杏: え？　……あ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: してるよ、覚悟
 こはね: だから絶対、もう逃げない！！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: Vividsだよ！　みんな、盛り上がってくれたー！？
 杏: 私達は走りだしたばっかりだけど、いつか絶対、 RAD WEEKENDを超えるイベントをやってみせる！ みんな、応援よろしくねー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ああ、あの時の……！
 冬弥: あの時も感じたが、 小豆沢は驚くほどの速さで成長しているな
@@ -85,7 +79,7 @@ Gacha phrase: やっと笑ってくれた
 杏: うん！
 杏: （よし！　私にとってもリベンジしたいイベントだし、 何より……）
 杏: （私はこはねの相棒なんだから、 今度こそ、ちゃんと支えてあげなくちゃ！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,15 +96,11 @@ Gacha phrase: やっと笑ってくれた
 杏: ……あ、そうだミク！
 杏: 例のSTAY GOLDだけど、ばっちりリベンジしてきたよ！
 杏: 見せてあげたかったなぁ、こはねの活躍！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: えっと、本当にすごかったんだよ。 見とれて思わず、自分のパート忘れちゃいそうになるくらい！
 ミク (VBS): そう。そんなに
@@ -174,4 +164,4 @@ Gacha phrase: やっと笑ってくれた
 杏: 『急いでるけど、あともうちょっとかかっちゃう』だって だから、先に始めててって
 冬弥: では、そうするか
 杏: うん。こはねにも慌てなくていいよって伝えておくね！
-(Black cut)
+(Black transition)

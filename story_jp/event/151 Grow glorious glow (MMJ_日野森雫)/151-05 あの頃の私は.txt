@@ -6,16 +6,12 @@
 
 [雫の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 及川: 昔の日野森ちゃんは、本当にすごかったんだよねぇ。 それこそ、萩山ちゃん……いや、それ以上だったな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……及川さんは、Cheerful＊Daysの頃の私には オーラがあったと言っていたわ）
 雫: （それで今回、私にオファーを出してくれたって）
@@ -36,7 +32,7 @@
 雫: それに——
 雫: もうひとつ、わかったことがあるの
 ミク (MMJ): 『……？』
-(Black cut)
+(Black transition)
 ミク (MMJ): 『そっか……。 及川さんっていう人、そんなこと言ってたんだ……』
 雫: ええ
 雫: それで……以前の私について調べれば、 今の私が持っていない——オーラの正体が わかるんじゃないかと思って、映像を見ようと思っていたの
@@ -50,7 +46,7 @@
 雫: あら？　つかないわ……
 ミク (MMJ): 『……あ。 もしかしたら、充電が切れてるとか……？』
 雫: あ、そうかもしれないわ！ ええと、充電器、充電器……
-(Black cut)
+(Black transition)
 雫: お待たせ、ミクちゃん。 今度こそ再生するわね
 ミク (MMJ): 『うん……！』
 ミク (MMJ): 『——これ、ダンスの練習をしてるところかな？』
@@ -76,8 +72,8 @@
 雫: 何かしら、今——
 雫: 私じゃないような感じが……
 ミク (MMJ): 『うん、だけど——』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000388/bg_s000388.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000388/bg_s000388.webp)
 ミク (MMJ): 『この雫ちゃんも、雫ちゃんだよ』
 雫: え……？
 ミク (MMJ): 『ねえ雫ちゃん。 この時は、どういうことを考えてたの？』
@@ -87,7 +83,7 @@
 ミク (MMJ): 『やっぱり、そうなんだね』
 ミク (MMJ): 『この雫ちゃんの目からは—— そういう、すごく強い覚悟みたいなものが伝わってくるなって』
 雫: 強い、覚悟……
-(White cut)
+(White transition)
 (Background change)
 雫: あ……
 雫: （……そうだったわ）
@@ -96,10 +92,8 @@
 雫: ミクちゃんと話していたら、 あの時の私がどんな想いでいたか、思い出せたわ
 雫: あの頃の私は、 センターを背負えているのかいつも不安で、でも——
 雫: だからこそ、必死だったわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: ……はぁ
 マネージャー: 雫、もうすぐ次の仕事だけど…… 体調は大丈夫？
@@ -129,10 +123,8 @@
 雫: （怖いなら——練習するしかない）
 雫: （もっと、自分を磨くしかない……！）
 雫: （Cheerful＊Daysをトップに導いて—— みんなの未来を切り拓かなくちゃ！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (MMJ): 『そんなことがあったんだ……』
 雫: ええ。責任の重さや、求められるレベルの高さに 苦しむことも多かったけれど……
@@ -158,4 +150,4 @@
 ミク (MMJ): 『それならよかった！』
 ミク (MMJ): 『雫ちゃんのCM、楽しみにしてるね！』
 雫: ——ええ！
-(Black cut)
+(Black transition)

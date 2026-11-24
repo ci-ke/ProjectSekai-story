@@ -34,7 +34,7 @@ Dad: Which is...?
 Akito: She's just like you, Dad. She loves art. Of course she'd be hurt if you told her what you did.
 Akito: What if you saw your daughter's art just as a father and not as an artist...?
 Dad: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -49,41 +49,37 @@ Ena: (With no words either, just a melody. But it's so soothing...)
 Ena: It's a gentle but sort of sad tone...
 Ena: No... I just want to forget it all...
 Ena: But...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Mafuyu: <The coloring makes this illustration look filthy.>
 (Background change)
 Ena: <Now look here! I deliberately chose that color theme because the picture's supposed to portray a messy sort of atmosphere!>
 Mafuyu: <Oh. I couldn't tell.>
-(White cut)
+(White transition)
 (Background change)
 Ena: <Sigh... I think I'll log off now. There's only a few minor adjustments left to make so...>
 Mizuki: <Then I'll log off after I get a look at it♪>
 Ena: <No way. Not until it's completely done.>
-(White cut)
+(White transition)
 (Background change)
 Kanade: I don't know much about actual art, but I can tell you this at least...
 Kanade: I like your art, Ena.
 Kanade: So please give it your best shot.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: ...
-(Black cut)
+(Black transition)
 Ena: That voice is coming from this way...?
 Ena: Oh...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000052/bg_a000052.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000052/bg_a000052.webp)
 Rin: <——♪　——♪>
 Ena: (Is that the VIRTUAL SINGER, Rin...? But what's she doing here?)
 Ena: (No one else besides Miku's supposed to be here, right?)
 Rin: <——♪　——♪>
-(White cut)
+(White transition)
 (Background change)
 Ena: Rin...?
 Rin: Are you Ena...? Nice to meet you. I'm Rin.
@@ -101,18 +97,14 @@ Ena: No one looks. They don't even care when they do.
 Miku (N25): Ena...
 Ena: So I want to forget it all... That's why I came here.
 Ena: But then... I heard you singing, Rin...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: Are you sure? Doesn't it mean a lot to you?
 Akito: I feel like you'll regret doing this...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: Ugh...
 Ena: I...
 Ena: Of course I don't want to quit...! I don't want to give up!
@@ -134,4 +126,4 @@ Ena: But...
 Miku (N25): If you felt something real after hearing this song, you should go and talk to them.
 Rin: They'll wait for you as long as they have to.
 Ena: ...
-(Black cut)
+(Black transition)

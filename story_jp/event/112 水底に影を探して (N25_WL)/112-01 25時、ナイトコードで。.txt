@@ -11,7 +11,7 @@
 絵名: 『もう作業してるよ。雪は？』
 まふゆ: 『いる』
 奏: 『じゃあ、今日も始めようか』
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 まふゆ: 『……ミックスが終わったから、共有するね』
@@ -55,19 +55,15 @@
 (Background change)
 ミク (N25): （まふゆ……。 まだ、苦しそう）
 ミク (N25): （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （……あの時のまふゆは、もう少しで心が壊れそうだった）
 ミク (N25): （今は奏と——みんなのおかげで、 前よりは少し落ちついてきてるみたい）
 ミク (N25): （きっと、……いつまでも このままじゃいられないけど）
 ミク (N25): （今は、この時間だけは——）
 ミク (N25): （まふゆが、穏やかにいられるといいな……）
-(Black cut)
+(Black transition)

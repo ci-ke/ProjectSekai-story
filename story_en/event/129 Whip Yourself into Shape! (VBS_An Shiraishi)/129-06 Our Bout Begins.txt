@@ -2,24 +2,20 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
 
-(White cut)
+(White transition)
 (Background change)
 
 [An's Room]
 
 An: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: Yes, the thought of disappointing someone is scary.
 Toya: But telling them the truth can lead to new doors opening.
 Toya: At least, that's what I believe.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Telling her the truth might help me figure out what to do about the way I've been feeling.)
 An: (Actually, it probably won't be the end of all that. I honestly have no idea what's going to happen afterwards.)
@@ -29,16 +25,12 @@ An: (Man, I'm such a lame person.)
 An: (I'm down to my last card, but I'm too scared to play it...)
 An: What would Aunt Nagi do in this situation...?
 An: (What would she have done if she saw Dad or Uncle Taiga turning into superstars or something...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: ——————
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Oh...
 An: Hehe.
@@ -49,7 +41,7 @@ An: Battle it out...
 An: Yeah. That is an option.
 An: Alright, let's go with that.
 An: So that I can finally become her real partner.
-(White cut)
+(White transition)
 (Background change)
 Kohane: You want me...to battle against you, An...?
 An: I've been feeling so uncertain.
@@ -91,7 +83,7 @@ Kohane: This is probably going to sound really weird, so sorry...
 Kohane: But I'm happy to hear that you want to win against me so badly.
 Kohane: So, An, I accept.
 An: Thanks, Kohane.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Thirty minutes later]
@@ -146,4 +138,4 @@ Tatsuya: What...?
 Akito: Anyway, let's go!
 Kotaro: Huh...?! Hey, wait for me!!
 Tatsuya: ...
-(Black cut)
+(Black transition)

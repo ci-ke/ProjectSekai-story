@@ -11,7 +11,7 @@ MC: おーっと、こりゃ予想外の展開だな。 BAD DOGSのふたりは�
 彰人: いいんじゃねえか。 オレもちょうど歌い足りねえなって思ってたところだ
 冬弥: ああ、俺も問題ない。 時間の許す限り歌おう
 MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り ]
@@ -30,17 +30,13 @@ MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
 彰人: お前は——
 ？？？: 覚えてるかな。 俺、小学校のサッカーチームで一緒だった林翔太だよ
 彰人: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の彰人 (彰人): 情けねえエースで悪かった。 ……じゃあな
 翔太: ま、待って！ やめないでよ、彰人くん……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 彰人？
 彰人: ……覚えてる。久しぶりだな
@@ -87,17 +83,13 @@ MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
 彰人: …………
 彰人: （たしかに、歌以外ってとこもそうだが……。 普段とは違う場所でやんのもいいかもしれねえな）
 彰人: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……わかった。そのイベント、出てやるよ
 翔太: えっ、本当！？ ありがとう、助かるよ……！
@@ -106,7 +98,7 @@ MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
 翔太: ……やっぱり、彰人くんは頼もしいな。 あの時から全然変わってないや
 翔太: ありがとう、俺もサポートできることがあれば なんでもやるから言ってね！
 彰人: おう、とりあえず詳細決まったらあとで連絡しろよ
-(Black cut)
+(Black transition)
 彰人: まさか、夏祭りのイベントに出ることになるとはな……
 冬弥: ああ、楽しみだな
 彰人: 楽しみ？ 冬弥、お前……
@@ -124,13 +116,13 @@ MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
 レン: 『じゃあさ、オレも練習まぜてくれない？ 新しいくつをもらったんだよね』
 レン: 『すっごく履き心地がいいから、 オレのダンスシューズにしようと思ってるんだ！』
 彰人: ダンスシューズ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000089/bg_a000089.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000089/bg_a000089.webp)
 レン: 『うん、難しいステップとか踊る時は いいくつを履いたほうがいいんだって！』
 レン: 『ほら、これだよ！』
 冬弥: なるほど、かっこいいな
 レン: 『でしょでしょ！ 前に履いてたやつが古くなったって言ったら、 カイトがかっこいいのをくれてさ！』
-(White cut)
+(White transition)
 (Background change)
 彰人: そういうことか
 冬弥: じゃあ、練習する時はセカイでやろう
@@ -143,7 +135,7 @@ MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
 彰人: そうだな……。 レンじゃねえけど、かっこいいくつだと それだけでテンション上がるしな
 彰人: 練習終わったら見に行ってみるか
 レン: 『やったー！ ふたりとも、買ったら見せてよ？ 楽しみに待ってるからね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -169,4 +161,4 @@ MC: オーケー、 そんじゃBAD DOGS、もう１曲頼んだぜ！
 瑞希: どうせ、絵名も奏も運動不足でしょ？ ちょうどいいじゃん
 絵名: 瑞希だってそこまで変わんないでしょ？ 自分だけ健康ぶらないでよね
 瑞希: はいはい。 それじゃ、行こっか！
-(Black cut)
+(Black transition)

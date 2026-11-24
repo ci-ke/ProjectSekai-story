@@ -27,7 +27,7 @@
 友人A: 賛成～！
 彰人: ……なんだよ
 彰人: よかった、って
-(Black cut)
+(Black transition)
 (Background change)
 
 [ファミリーレストラン]
@@ -52,35 +52,31 @@
 彰人: ………………
 冬弥: ……いや。俺は一般的な学校に通っている
 冬弥: 音楽は、もうやめたんだ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000431/bg_s000431.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000431/bg_s000431.webp)
 彰人: （音楽はやめた、って……）
 友人B: え！？　そうなのか？　お前、めちゃめちゃ歌うまいのに！
 友人A: そうだよ！　もったいないな～。もうやらないのか？
 冬弥: すまない。そう言ってくれるのは嬉しいが…… もう決めたことだからな
 友人B: そっか～……。まあ、やりたいことが変わったんなら しょうがないよな
 彰人: （——本当に、そうなのか？）
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: ——これ以上、子供の遊びに付き合っていられない
-(White cut)
+(White transition)
 (Background change)
 冬弥: …………よかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……何考えてんのか、全然わかんねえ）
 彰人: （……けど……）
 友人A: 彰人、どうした？
 彰人: …………なんでもねえよ
-(Black cut)
+(Black transition)
 (Background change)
 友人A: いやー、騒いだ騒いだ！ ひっさびさに集まって楽しかったなー！
 彰人: だな。つうか、もうこんな時間か
@@ -89,7 +85,7 @@
 冬弥: ああ。予定が合えば、ぜひ参加させてもらう
 彰人: ……ま、行けたらな
 友人A: 絶対だぞ～！　んじゃ、またな！
-(Black cut)
+(Black transition)
 (Background change)
 彰人: …………
 冬弥: …………
@@ -104,6 +100,6 @@
 彰人: ……なんだよ
 冬弥: 少しだけ、いいだろうか？
 冬弥: ……話がしたいんだ
-(Black cut)
+(Black transition)
 (Video: link2_street_ed2)
-(Black cut)
+(Black transition)

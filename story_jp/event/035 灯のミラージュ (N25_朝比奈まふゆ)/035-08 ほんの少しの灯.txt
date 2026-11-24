@@ -70,7 +70,7 @@ MEIKO: だから互いに、自分のやりかたを貫けばいいわ
 奏: メイコ、ルカ……
 奏: （……そっか。正しいやりかたは、 ふたりにだってわからない）
 奏: （それでもわたし達は、手探りで、 一歩ずつ進んでいくんだ——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌朝]
@@ -86,23 +86,19 @@ MEIKO: だから互いに、自分のやりかたを貫けばいいわ
 まふゆ: ……うさぎ……
 まふゆの母: どうしたのまふゆ？ 何か言った？
 まふゆ: ……ううん。 いただきます
-(Black cut)
+(Black transition)
 まふゆの母: はい、まふゆ。りんごよ
 まふゆ: ありがとう、お母さん。 …………
 まふゆ: （……。やっぱり、味は、しない）
 まふゆ: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: わたしが作り続ける
 奏: 雪が自分を見つけられるまで——ずっと作る
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （まだ、あの気持ちの名前もわからないけど……）
 まふゆ: 私、もう少し……前に進めるかな。奏
-(White cut)
+(White transition)

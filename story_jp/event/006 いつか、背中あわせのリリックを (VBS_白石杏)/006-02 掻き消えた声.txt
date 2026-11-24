@@ -24,7 +24,7 @@ MC: さあ、もうすぐ『STAY GOLD』のスタートだ！ 全員、盛り上
 杏: あ、そろそろ始まるね
 杏: 今日は思いっきり楽しもう。 私達が楽しめたら、きっと会場も盛り上げられるはず！
 こはね: うん……！
-(Black cut)
+(Black transition)
 MC: さあ、お次は『EVER』！　実力十分の優勝候補！
 EVERリーダー: ♪　――――！
 冬弥: ……会場の雰囲気が急に変わったな
@@ -43,7 +43,7 @@ EVERリーダー: 期待してるぜ！
 彰人: おい、そろそろオレ達も準備するぞ
 こはね: うん……！ 今日のイベント、頑張ろうね、杏ちゃん！
 杏: そうだね、絶対勝とう！
-(Black cut)
+(Black transition)
 MC: お次はVivid BAD SQUAD！ 高校生４人で結成された期待の新星だ！
 杏: みんな、今日は来てくれてありがとう！ Vivid BAD SQUADだよ！
 彰人: 全員、声出す準備はできてるだろうな？
@@ -86,23 +86,19 @@ MC: お次はVivid BAD SQUAD！ 高校生４人で結成された期待の新星
 杏・こはね: 『♪　――！　――！』
 彰人・冬弥: 『♪　――！　――！！　――！』
 杏: （……っ！　もう曲が終わっちゃう……！）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 杏: 大丈夫だよ、こはね
 杏: もし、明日の本番中に何かハプニングが起きても、 私がこはねをリードするから、安心してね
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 杏: （どうしよう、私……！）
-(Black cut)
+(Black transition)
 MC: 以上——Vivid BAD SQUADだ！
 観客の男性: なーんか、拍子抜けだったな。 最後、全員バラバラだったじゃん
 観客の女性: 途中までは良かったんだけどねー
 MC: さあ、次のグループはEVERの 盛り上がりを超えられるのか！？
 杏: …………
-(Black cut)
+(Black transition)

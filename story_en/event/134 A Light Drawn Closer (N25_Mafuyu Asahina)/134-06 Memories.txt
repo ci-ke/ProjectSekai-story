@@ -5,31 +5,23 @@
 [Bedroom]
 
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: There are more people who will accept me for who I am than I realized.
 Mizuki: Now, I have a feeling that there'll be more people that'll say, “Thanks for telling me,” and, “No matter what, I'm on your side,” after breaking some big news to them...
 Mizuki: That's how I feel now...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (Would he..?)
 Mafuyu: (Would he say that...?)
 Mafuyu: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 ???: <Mafuyu...>
@@ -45,15 +37,11 @@ Mafuyu: But...
 Rin (N25): <...>
 Mafuyu: My dad's been coming over to see me every week... And I've done nothing in return...
 Mafuyu: Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: I made him make that face...
 Mafuyu: So...
@@ -73,10 +61,8 @@ Mafuyu: I don't know... Even when I was little, he was rarely at home because he
 Mafuyu: But...
 Mafuyu: My mom always said, “Your father is working very hard for both of us,” and, “You need to do your best to be a good girl for your father's sake.”
 Mafuyu: Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [A few years earlier]
@@ -91,7 +77,7 @@ Little Mafuyu (Mafuyu): But I still wish Daddy could come to sports day...
 Mafuyu's Mother: There isn't much we can do since work is keeping him very busy. But I promise to take as many pictures I can of you.
 Mafuyu's Mother: And then, I'll show them to your father.
 Little Mafuyu (Mafuyu): Okay...! I'm gonna run as fast as I can!
-(White cut)
+(White transition)
 (Background change)
 Mafuyu's Mother: Happy birthday, Mafuyu!
 Mafuyu's Mother: Let me see you blow out all the candles.
@@ -107,7 +93,7 @@ Little Mafuyu (Mafuyu): I still wish he were here, but I guess there isn't anyth
 Little Mafuyu (Mafuyu): Because he's working really hard for us, right?
 Mafuyu's Mother: Hehe. Yes, that's right. He said he should be able to come home early tomorrow, so you should thank him then.
 Little Mafuyu (Mafuyu): Okay!
-(White cut)
+(White transition)
 Junior High School Mafuyu (Mafuyu): (The entrance ceremony for high schoolers is tomorrow...)
 Junior High School Mafuyu (Mafuyu): (But not much is really changing since I'll still be attending the same academy.)
 Junior High School Mafuyu (Mafuyu): Oh...
@@ -120,10 +106,8 @@ Mafuyu's Father: Oh, that's not good... Okay, I'll be right over.
 Mafuyu's Father: Sorry, Mafuyu. Looks like sushi will have to wait until after my trip.
 Junior High School Mafuyu (Mafuyu): Sure, that's fine.
 Junior High School Mafuyu (Mafuyu): Good luck with work, Dad.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: That's how things always were...
 Rin (N25): <...>
@@ -134,8 +118,8 @@ Rin (N25): <Don't you have any other memories of him?>
 Mafuyu: Other memories...?
 Mafuyu: What else is there...?
 Rin (N25): <...!!!>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000323/bg_s000323.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000323/bg_s000323.webp)
 Rin (N25): <Wh-What was that sound just now...?>
 Mafuyu: Just now?
 Mafuyu: Oh, that was thunder.
@@ -143,7 +127,7 @@ Rin (N25): <Thunder...?>
 Rin (N25): <...!!!>
 Mafuyu: Are you okay?
 Rin (N25): <I-I'm fine... But...>
-(White cut)
+(White transition)
 (Background change)
 Rin (N25): <M-Mafuyu, aren't you scared...?>
 Mafuyu: I'm...
@@ -151,16 +135,12 @@ Mafuyu: ...? A message...?
 Mafuyu: From who?
 Mafuyu's Father's Message: <Are you okay? This thunderstorm's massive.>
 Mafuyu: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin (N25): <Mafuyu?>
 Mafuyu: There was this one time...
-(Black cut)
+(Black transition)

@@ -60,21 +60,21 @@
 咲希: （ここにいるみんなと、音楽で繋がれてるって感じがする）
 咲希: （——楽しい……！）
 イオリ: 天馬さん……
-(Black cut)
+(Black transition)
 咲希: ————♪　————……♪
 常連客達: いいぞ、姉ちゃん！
 常連客達: もう１曲やってよ！
 咲希: あははっ……！ ありがとうございます！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000370/bg_s000370.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000370/bg_s000370.webp)
 咲希: （……なんだろう、これ。なんか、すっごく……）
 咲希: （——すっごく、楽しかったなあ……！）
 咲希: （目の前のお客さんの笑顔が見えて、 音楽で、心が繋がってるって感じがして——）
 咲希: （こういうのって……アタシ……）
 咲希: （……好きだなあ）
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 咲希: ——今日はありがとうございました！
 朔: え、もう解散？
@@ -107,4 +107,4 @@
 咲希の声 (咲希): だね！　次はどんなところでライブできるんだろ～！
 穂波の声 (穂波): ふふっ、今度真堂さんに聞いてみよっか
 咲希の声 (咲希): うんっ！
-(Black cut)
+(Black transition)

@@ -35,7 +35,7 @@
 まふゆ: 特にやりたいことは——ないので
 ボランティアリーダー: では、朝比奈さんにはステージエリアの 会場案内をお願いしようと思います。 詳しい動きは移動がてら説明しますね
 まふゆ: はい。わかりました
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤ・フェスタ　ステージエリア]
@@ -65,7 +65,7 @@
 雫: え？　すごく助かるけれど……いいのかしら？
 まふゆ: うん。実は今日、ボランティアで会場の案内をしてて。 だからちょうど私の仕事なんだ
 まふゆ: ステージ裏はこっちだよ。ついてきて
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージ裏]
@@ -108,7 +108,7 @@
 まふゆ: ……うん。仕事があるから難しいけど……もし見れたら
 みのり: 雫ちゃーん！　もうすぐだよー！
 雫: はーい！ それじゃあまたね、朝比奈さん！
-(Black cut)
+(Black transition)
 (Background change)
 観客A: ななみん生で見られるの、すっごい楽しみー！
 観客B: 今日ってモモジャンも出るんでしょ？ ななみんとコラボ配信した時から、一緒にライブ出てくれないかな って思ってたから嬉しい～！
@@ -143,7 +143,7 @@
 愛莉: 実は今度、ワンマンライブもやる予定なの！ 今日のライブが気に入ったらそっちのほうも来てくれると すーっごく嬉しいわ♪
 ななみん: MORE MORE JUMP！のみんな、ありがとう！ みんなでオープニング、楽しんじゃおうねっ！
 ななみん: それじゃあ、シブヤ・フェスタステージ！ １発目、スタートだよーっ！
-(Black cut)
+(Black transition)
 雫・愛莉: 『♪————！』
 みのり・遥: 『♪————！　♪————！』
 まふゆ: …………
@@ -158,38 +158,30 @@
 まふゆ: （今、目が……）
 まふゆ: ……！
 まふゆ: （……ステージからかなり遠い場所にいるのに……すごいな。 そこまで見てるんだ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: みんなで、希望を届けたい！って思って、 ここまで頑張ってきたから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……日野森さん、アイドルの活動、 すごく頑張ってるんだな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 私は……やってみたいの。音楽を
-(White cut)
+(White transition)
 まふゆの母: ……後悔、しないようにね？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: （……なんだろう、この感じ）
 まふゆ: （なんだか……胸がモヤモヤする……）
-(Black cut)
+(Black transition)
 ななみん: 以上、MORE MORE JUMP！の皆さんでした～！
 みのり・遥・愛莉・雫: 『ありがとうございました！』
-(Black cut)
+(Black transition)
 (Background change)
 みのり: は～……！ ちゃんとやりきれてよかった～！！
 愛莉: お疲れさま！ みのり、すごくよかったわよ～！　このこの～！
@@ -201,4 +193,4 @@
 遥: ——次はついに、ワンマンだね
 愛莉: ええ。 絶対に絶対に成功させましょう！
 みのり・雫・遥: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)

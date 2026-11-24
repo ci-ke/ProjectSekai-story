@@ -12,16 +12,12 @@
 絵名: 『うん、そうだね』
 (Background change)
 絵名: （瑞希、いつもどおりだよね……。 やっぱり私の気にしすぎってこと？　でも——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: 『……ねえ、Amia。 ちょっと聞いてもいい？』
 瑞希: 『んー、なに？』
 絵名: 『このあいだのミステリーツアーのことなんだけどさ……』
@@ -36,25 +32,21 @@
 瑞希: 『あ、K！　お疲れー。今、MVのイラスト差し替えしたとこを 見てもらおうって話してたんだよ。ね、えななん』
 (Background change)
 絵名: 『あ……う、うん。今から送るね』
-(Black cut)
+(Black transition)
 絵名: はあ……
 絵名: （結局はぐらかされて、何も聞けなかった……。 瑞希はいつもどおり、なんて言ってたけど——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: （あの顔が、いつもどおりなわけないでしょ）
 絵名: （前までは曲が完成したら、みんなで打ち上げに行こうって 言いだしてたのに、最近はすぐに落ちちゃうし）
 絵名: （……もしかして、私達に言いづらいことでもあるのかな。 でも、瑞希って隠しごととかする タイプじゃなさそうだけど……）
 絵名: （それとなく聞いても答えてくれないし……、 どうしたらいいわけ？）
 絵名: あーもう、イライラする！！
-(Black cut)
+(Black transition)
 (Background change)
 絵名: （あれ、電話？ ……愛莉から？）
 絵名: 『もしもし。 どうしたの、愛莉』
@@ -78,7 +70,7 @@
 絵名: 『わかった。じゃあまたね』
 (Background change)
 絵名: ……愛莉、ちょうどいい時に誘ってくれたな。 よーし、週末は思いっきり買い物しちゃおっと！
-(Black cut)
+(Black transition)
 (Background change)
 
 [週末]
@@ -108,7 +100,7 @@
 絵名: （愛莉から、ちょっと天然とは聞いてたし、 前少し見た配信でもそんな感じしたけど……）
 絵名: （もしかして日野森さんって、私の想像以上に、天然？）
 愛莉: ま、雫も来たことだし、 ショッピングでも行きましょっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -129,7 +121,7 @@
 愛莉: 悩んでる時は、誰かに話すだけでもスッキリするものよ♪
 絵名: ……ま、それもそうかもね
 絵名: えっと、私のことじゃないんだけどね。 実は——
-(Black cut)
+(Black transition)
 愛莉: ……なるほど。 その暁山さんって子の様子が変わったから、気になってるのね
 絵名: うん。普通に話してる分には何も変わったことはないんだけどね。 話してても、いつもどおり明るいし……
 絵名: でも、ちょっと前までは遊ぼうって誘ってくれたのに、 最近はそういうのも減ってるし。 嫌われてるわけじゃないけど、ちょっと避けられてるみたいな……
@@ -155,7 +147,7 @@
 絵名: でも、どこに誘うの？ ショッピングは前もふたりで行ったし……
 愛莉: あ、これなんてどう？ さっきチラシをもらったのよ
 絵名: ——『日帰り高原ハイキング』？
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -177,4 +169,4 @@
 寧々: ちょっとショーの練習のことで相談したくて。 いい？
 類: ああ、もちろんだよ
 類: …………
-(Black cut)
+(Black transition)

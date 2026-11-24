@@ -3,7 +3,7 @@
 (Character: 東雲絵名, 鏡音リン, 鏡音レン)
 
 (Video: link_night_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵画教室]
@@ -31,7 +31,7 @@
 リン (N25): 『前までは、いつも苦しそうに絵を描いてたけど……』
 リン (N25): 『今日は少し違うみたい』
 (Background change)
-(Black cut)
+(Black transition)
 絵名: ……はあ……
 絵名: （今日も酷評されちゃったな……。 まあ、いつものことだけど）
 絵名: （……でも、細かい部分を指摘してくれるように なってる気がする）
@@ -49,7 +49,7 @@
 (Background change)
 レン (N25): 『……絵名ちゃんの友達、かな？』
 リン (N25): 『たぶん。少し、様子を見てみようか』
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -74,8 +74,8 @@
 絵名: え、私？
 二葉: うん。私……絵名ちゃんの絵好きだから。 いかないのはもったいないなあって思って
 絵名: あー……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000249/bg_s000249.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000249/bg_s000249.webp)
 絵名: （美大、か——）
 絵名: （正直、まだいける未来が見えないな……）
 絵名: （絵の勉強はしていきたいし、……いけるならいきたい）
@@ -84,13 +84,13 @@
 絵名: （そもそも、私に受かるの？ 合格するためには、もっとうまくならなきゃいけないのに……）
 二葉: あ……ごめんね、絵名ちゃん。 まだ考えてる途中だった？
 絵名: ああ……まあ、そんな感じ。 ていうか、今はまだちゃんと考えられてなくてさ
-(White cut)
+(White transition)
 (Background change)
 絵名: それより、デザートも注文しない？ 季節のケーキって何か気になるんだよね
 絵名: ふたりでシェアしようよ！
 二葉: ふふ、そうだね。 じゃあ注文しよっか
 二葉: すみません、注文いいですか？
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -129,4 +129,4 @@
 絵名: んー……前よりマシになったとはいえ、 二葉や周りの子達に比べると、全然だし ニーゴの絵も、納得できるものはまだ描けてないからさ
 絵名: 今のままの私が、みんなと同じ場所にいって、勉強して—— その先の夢を目指すなんて……いいのかなって
 リン (N25): 『絵名……』
-(Black cut)
+(Black transition)

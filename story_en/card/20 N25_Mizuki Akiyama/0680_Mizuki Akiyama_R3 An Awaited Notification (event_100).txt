@@ -71,7 +71,7 @@ Mizuki: (Despite her gripes, I have a feeling that Ena's gonna finish in time...
 Mizuki: Alright... I should also do what I can since I might've pressed a few too many buttons just now.
 Mizuki: Let's see... The new cut's gonna start when the chorus does... So, around here...?
 Mizuki: I'll try dropping in Ena's sketch to see how it's all gonna work. After that...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -82,21 +82,17 @@ Mizuki: I'll try dropping in Ena's sketch to see how it's all gonna work. After 
 
 Mizuki: (I came just in case, but I guess she isn't here...)
 Mizuki: (Mafuyu...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (N25): I couldn't reach her phone.
-(White cut)
+(White transition)
 MEIKO: Something may've happened to her phone.
 MEIKO: We're able to see what's going on over in your world by using the functionality of your phones.
 Ena: So, does this mean her phone's broken?
 Mizuki: B-But, I mean... Now? That seems like way too big a coincidence.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (I really hope that her phone just happened to run out of battery or something...)
 Mizuki: (But she also said that she'd let us know if she couldn't make it...)
@@ -112,12 +108,12 @@ Waiter: Yes, that's her...
 Mizuki: (She was here...!)
 Mizuki: Th-Thank you very much! I just missed her! We'll be back again soon!
 Waiter: Yes, come again anytime.
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: (Mafuyu was there...!)
 Mizuki: (Then... She probably wants to see us really badly!)
 Mizuki: (Which means I should check that place too...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [SpoJoy Park]
@@ -157,4 +153,4 @@ Mizuki: Thanks for letting me know, MEIKO...
 Mizuki: (Mafuyu...)
 Mizuki: (I hate not being able to help you right now...)
 Mizuki: But for now, I should head home and charge my phone...
-(Black cut)
+(Black transition)

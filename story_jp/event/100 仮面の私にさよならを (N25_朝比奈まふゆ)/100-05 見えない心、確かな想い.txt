@@ -13,22 +13,18 @@
 まふゆ: （…………どうしよう……）
 まふゆ: （お母さんの言うとおり、 音楽を——ニーゴを、やめる……？）
 まふゆ: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……そうしたら、みんなと一緒にいれなくなって セカイにも、行けなくなって——）
 まふゆ: （もう、ミク達にも会えなくなって——）
 教師: ——では、この問題を朝比奈さんお願いします
 まふゆ: あ……
 まふゆ: はい
-(Black cut)
+(Black transition)
 クラスメイトA: ねえ、まふゆ～！ 中庭でお昼食べようと思ってるんだけど、一緒に行かない？
 まふゆ: あ……
 まふゆ: ごめんね。 今日はやることがあるから、ひとりで食べようと思ってるんだ
@@ -41,51 +37,39 @@
 まふゆ: （……スマホ、やっぱり動かないな）
 まふゆ: （今朝から、電源はつくようになったけど ホーム画面から動かない）
 まふゆ: （これじゃあ、ナイトコードも起動できない……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: 今のあなたには、これが毒になっているのよ。 それがわからないの……！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: お母さんはただ、まふゆの将来のためにと 思っているだけなのに……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 私の……ため……
 まふゆ: ……そう、だよね……？
 まふゆ: （……本当に……本当に、そう、なの？）
 まふゆ: （勉強は、大切）
 まふゆ: （でも……でも、今の私には、ニーゴのみんなが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 相手はお前を……お前の想いを殺そうとしてるのに、 情けをかける必要があるのか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （想いを、殺す……）
 まふゆ: （……違う、お母さんはそんなこと……）
 まふゆ: （…………でも……）
 まふゆ: （それなら、どうして私からいろんなものを取り上げるの？）
 まふゆ: （どうして…………）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -128,4 +112,4 @@ KAITO: …………
 KAITO: ——待て
 奏: え……
 KAITO: 俺も行く
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 鏡音レン)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [土曜日]
@@ -29,7 +29,7 @@
 大河: ……フ。そりゃよかった。 俺が見せてやれるのはこれくらいだがな
 大河: さて、オーナーは現地で待ってる。 待たせたらどやされるからそろそろ行くぞ
 こはね: はいっ！
-(Black cut)
+(Black transition)
 大河: 着いたぞ。 COLはこのビルの地下１階だ
 杏: わ……懐かしいなぁ……。 ここの階段に、他のお客さんと一緒に並んでたんだよね。 とおりの端まで、すごい行列ができてたっけ
 彰人: ああ。あれから３年になるのか……
@@ -59,7 +59,7 @@
 オーナー: それじゃ、開けるよ
 こはね: はいっ！
 こはね: （——RAD WEEKENDの会場、 ちゃんと目に焼き付けなくっちゃ……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス『COL』]
@@ -70,11 +70,11 @@
 杏: そうだね。 みんな足下気をつけて
 オーナー: 今予備灯をつけるから待ってな
 オーナー: ——つけるよ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000048/bg_s000048.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000048/bg_s000048.webp)
 こはね: わぁ……！
 冬弥: ここがRAD WEEKENDが開かれた……
-(White cut)
+(White transition)
 (Background change)
 杏: でも、なんだか昔見た時より小さく感じる気がする
 彰人: まだガキだったからだろ。 身長も低かっただろうしな
@@ -96,4 +96,4 @@
 冬弥: まあ、小豆沢のポケットから見ている分には そこまで目立たないかもしれないな
 こはね: うん。じゃあミクちゃんとレンくんにも 見えるように回っていくね
 レン: 『うん！ ありがと、こはね！』
-(Black cut)
+(Black transition)

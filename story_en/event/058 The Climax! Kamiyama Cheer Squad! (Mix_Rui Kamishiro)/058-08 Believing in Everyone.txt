@@ -68,7 +68,7 @@ Blue Team Students: You guys gave us so much energy!
 Blue Team Students: We might be in last right now... But it's not over until it's over!
 Red Squad Captain: I see...
 Red Squad Captain: So this is the culmination of all his hard work.
-(Black cut)
+(Black transition)
 (Background change)
 Announcer: This concludes the Kamiyama High School Sports Festival.
 Mizuki: *Sigh*
@@ -78,8 +78,8 @@ Blue Squad Captain: Shiraishi's right. We didn't win the Sports Festival itself.
 Blue Squad Captain: But we won the cheering competition. With the most votes ever recorded no less.
 Blue Squad Captain: Everyone felt our determination. I have all of you to thank for getting us to this day... You above all else, Kamishiro.
 Rui: Captain...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000074/bg_s000074.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000074/bg_s000074.webp)
 Blue Squad Captain: Today's cheering competition will surely be raised to legendary status.
 Blue Squad Captain: So thank you for giving me the best send-off anyone could ask for...
 Rui: No... I really don't deserve all the credit.
@@ -89,7 +89,7 @@ Blue Squad Members: You're absolutely the MVP! Thank you very much!
 Mizuki: There. See what I mean...?
 Rui: I see...
 Rui: Thank you.
-(White cut)
+(White transition)
 (Background change)
 Blue Squad Captain: Ah, what a wonderful feeling... To actually be able to end my last high school cheering competition on such a high note! With this sensation in mind...
 Blue Squad Captain: Next, I'll have to do my best during my university's cheering competitions!
@@ -124,17 +124,13 @@ Rui: I'd also like you to be there as well, Mizuki.
 Mizuki: Huh...?
 Rui: If you didn't convince me to go through with my idea that time, the cheering competition may not have gone so well for us.
 Mizuki: That time...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: I'll be looking forward to hearing your idea, Mr. Directing Genius♪
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Yeah, I guess that did happen...
 Mizuki: Alright, let's get this stuff all cleaned up and get him to buy some barbeque for us!
@@ -147,4 +143,4 @@ Mizuki: Thanks, Rui...
 Rui: Hm? Did I do something that warrants you thanking me?
 Rui: Still...
 Rui: The Sports Festival wasn't so bad after all.
-(White cut)
+(White transition)

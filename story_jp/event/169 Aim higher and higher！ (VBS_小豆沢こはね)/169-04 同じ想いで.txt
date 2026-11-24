@@ -54,15 +54,11 @@
 セドリック: そこで聴いたあの人達の歌に—— 人生を変えられたんだ
 スレイド: ……大袈裟に聞こえるかもしれないけど、本当だよ
 スレイド: それまで、街でいろんな音が鳴ってても 耳障りとしか思わなかった。でも、あの人達の歌は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 スレイド: …………すごかったんだ
 スレイド: 心が揺さぶられるって、 こういうことなんだと思ったよ
@@ -70,15 +66,11 @@
 スレイド: ……あの瞬間、オレ達の人生は変わったんだ
 こはね: （音楽が、自分の人生を変えた）
 こはね: （それって——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……そうか
 彰人: お前らも、RADderの歌に火をつけられたんだな
@@ -110,17 +102,13 @@
 スレイド: だからこそ、オレ達は ナギさんの夢の先に行きたいと思ってる
 スレイド: キミ達と、同じようにね！
 彰人: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 スレイド: RAD BLASTで聴いたキミ達の歌は、本当にすごかった。 でも——
 スレイド: ナギさんの夢の先に行くのは、オレ達だからね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: あれは、そういうことだったのか……
 杏: なんていうか、点と点が繋がったって感じだね
@@ -139,4 +127,4 @@
 スレイド: なんか話したら、ここでバイバイっていうのも 寂しいなって思ってさ
 こはね: ふふ、そうですね
 杏: じゃあ、これ飲み終わったら みんなでお店見に行こっか！
-(Black cut)
+(Black transition)

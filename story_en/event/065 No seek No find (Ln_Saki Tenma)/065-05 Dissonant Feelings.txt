@@ -9,7 +9,7 @@
 Saki: “It's okay because we're together now”...
 Saki: “Things might seem hard now, but things will be much better since you have a fun future ahead of you”... Yeah, this is what I was looking for...!
 Saki: It's so much better than what I had yesterday! Alright...!
-(Black cut)
+(Black transition)
 Saki: Huh...?
 Saki: This still isn't what I was hoping for... Why is that...?
 Saki: Even after I worked in how lonely I felt back then and how I'm trying to say, “It's gonna be okay,” to my old self...
@@ -18,7 +18,7 @@ Saki: *Sigh* Maybe I just don't have what it takes to write a song that resonate
 Saki: No, I can't give up... I can't stop here!
 Saki: I have to keep going. I have to keep trying. I have to write a song that really hits home with them...
 Saki: Alright, one more time...!
-(Black cut)
+(Black transition)
 Saki: ...
 Saki: (This isn't right either...)
 Saki: (I've written so many now... But it's obvious that no one will think much of them.)
@@ -26,7 +26,7 @@ Saki: (I mean, I don't even think they're good...)
 Saki: (They feel so superficial... Like I'm just tracing over something.)
 Saki: (Why is that? I have a clear picture in my head...)
 Saki: What am I supposed to do...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -42,8 +42,8 @@ Len: Anyway, break time's over! We gotta keep practicing so we don't get left be
 KAITO: W-Wait, I'm still eating...
 Saki's Voice (Saki): Oh, it's you two...
 KAITO: Hm?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000098/bg_s000098.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000098/bg_s000098.webp)
 Len: Oh, hey, Saki!
 KAITO: I didn't notice at all.
 Saki: Oh, sorry... Did I interrupt your meal?
@@ -52,7 +52,7 @@ Len: Actually, we were wondering how that show you were talking about went.
 Saki: Oh, okay...
 Len: Hm...? Is it just me, or do you seem kinda tired, Saki?
 Saki: Yeah... A lot happened and...
-(Black cut)
+(Black transition)
 (Background change)
 Len: Hmm... I see...
 Len: You have a good idea of what you want to do but can't seem to turn it into music...
@@ -64,15 +64,11 @@ Saki: So, I'm trying to write a song that tells people who are feeling lonely th
 Saki: Which is why I've been thinking a lot about what I felt back then...
 KAITO: What you felt back then...?
 Saki: So, I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Oh...
 Len: You don't have to tell us if you feel uncomfortable. It's not like we're here to interrogate you or anything.
@@ -82,7 +78,7 @@ KAITO: When you were in the hospital...?
 Len: If you have such a clear picture in your mind, I figure you'd be able to let your feelings flow forth and write a really good song...
 Len: Since we're on the topic, Saki, mind letting us hear your song? Maybe we can pick up some clues from it...
 Saki: Yeah, good idea...! I'll try playing it for you guys.
-(Black cut)
+(Black transition)
 Saki: S-So, how was it...?
 Len: Your song definitely seems to cover what you mentioned just now, Saki.
 KAITO: Yes, I thought the same...
@@ -98,15 +94,11 @@ Saki: Something I'm not remembering...?
 Saki: Hmm... Am I forgetting something...?
 Saki: I hated getting tested because it always hurt so much, and I felt really jealous when I saw those girls around my age having fun talking...
 Saki: Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: (Wait... What else happened?)
 Saki: (That's so weird... More definitely happened...)
@@ -122,4 +114,4 @@ Saki: Same! And thank you too, KAITO!
 Saki: I'll see you two later!
 Len: Okay, good luck!
 Len: ...
-(Black cut)
+(Black transition)

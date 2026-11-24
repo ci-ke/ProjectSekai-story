@@ -21,10 +21,8 @@ Gacha phrase: どれにしようか、迷っちゃうな
 ミク (N25): 『昨日は、よく眠れた？』
 まふゆ: うん。作業もあまりしなかったから
 ミク (N25): 『あ……そうだったね』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: ——さてと、新曲のMVは見てもらったし帰ろっか
 瑞希: だね。みんな、感想ありがと！
@@ -39,10 +37,8 @@ Gacha phrase: どれにしようか、迷っちゃうな
 瑞希: そうそう。VRって結構目が疲れるし、 思いっきり楽しむためにも睡眠は大事だよ！
 奏: うん、キリもいいしね
 まふゆ: ……わかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……別に、校外学習なんて特別なことじゃないのに）
 まふゆ: （でも、早く寝たおかげで頭はすっきりしてるかも）
@@ -61,21 +57,17 @@ Gacha phrase: どれにしようか、迷っちゃうな
 まふゆ: それじゃあ、そろそろ出るね
 奏: うん、いってらっしゃい
 まふゆ: いってきます
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （……なんだか、いつもよりも 苦しくない気がする）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……みんなの、おかげかな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -145,4 +137,4 @@ Gacha phrase: どれにしようか、迷っちゃうな
 まふゆ: あ……
 まふゆ: そうだね——
 まふゆ: 私もお揃いにするなら、この子達がいいな
-(Black cut)
+(Black transition)

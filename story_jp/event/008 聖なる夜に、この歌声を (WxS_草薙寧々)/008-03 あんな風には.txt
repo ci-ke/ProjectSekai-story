@@ -23,7 +23,7 @@
 寧々: ……ふふっ。そんなの自慢気に言わないでよね
 司: よし！　それじゃあ気分を入れ替えて、練習を始めるぞ！！
 えむ: お～っ！
-(Black cut)
+(Black transition)
 寧々: ♪～～～～
 寧々: ……どう？
 類: うん、いいね。 少女の寂しさがよく表れていると思うよ
@@ -38,20 +38,16 @@
 えむ: ふわわ……キレイな声～……
 寧々: （……ちゃんと歌えてる。 もう、前みたいにあがったりしない）
 寧々: （でも……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 櫻子: ♪――――！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （あの歌はもっと力強くて、のびのびしてて……）
 寧々: （わたしは……あんな風には歌えない……）
-(Black cut)
+(Black transition)
 (Background change)
 司: それでは今日の練習はここまでだ！ 全員、解散！
 えむ: らじゃーっ♪
@@ -74,7 +70,7 @@
 えむ: 寧々ちゃん……
 類: …………
 類: （これは演出家として、本格的に 対策を考えたほうがよさそうだね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [寧々の部屋]
@@ -84,22 +80,18 @@
 寧々: （ミュージカルなのに歌が良くなかったら、 ショーそのものがダメになっちゃう）
 寧々: （そうしたらわたしのせいで、 コンテストに優勝もできなくなる）
 寧々: （わたしのせいで……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 劇団員: 草薙さん、よく今日の練習来られたよね。 あんな失敗したのに……
-(White cut)
+(White transition)
 劇団員: 誰も話しかけてないみたい。当然だよね
-(White cut)
+(White transition)
 劇団員: みんなで練習したのに、あんな酷い失敗されたら――
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: ……そんなの、絶対にイヤ……！
 寧々: もっと練習しなくちゃ
 寧々: 絶対にアイツよりいい歌を歌って、 ショーを成功させなくちゃ……！
-(Black cut)
+(Black transition)

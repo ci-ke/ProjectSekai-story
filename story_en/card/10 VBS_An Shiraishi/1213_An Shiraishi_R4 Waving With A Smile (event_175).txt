@@ -16,7 +16,7 @@ Elena: Oh, hey! Since we're here, why don't we all take a look around?
 Cedric: That sounds nice. We probably don't have time to see everything, but we can probably split up and cover one or two areas.
 An: I'm game!
 Kohane: I saw a map of the park over there. Let's go see what it has to offer!
-(Black cut)
+(Black transition)
 
 [A few minutes later]
 
@@ -33,7 +33,7 @@ An: “Come listen to us if you ever get a chance. We guarantee you'll be amazed
 Basketball Player A: “Hey, wait a second. There's three of them...”
 Basketball Player A: “Hey! Wanna play some three-on-three with us?”
 An: Huh...?
-(Black cut)
+(Black transition)
 An: I definitely wasn't expecting this. Who'd guess the three of us would end up playing basketball?
 Rebecca: I know, right? Anyway, let's just have fun with it.
 Slade: I promise not to miss, so don't be afraid to pass me the ball from wherever! The first team to lead by two buckets wins, so let's try to close things out fast!
@@ -53,7 +53,7 @@ Slade: That fake you did to get by was so cool! Did you used to play basketball 
 An: A little bit. I used to play one-on-one a lot against this one girl.
 Rebecca: Oh, you had a rival? I bet she could really move too.
 Basketball Player B: “Nice one...! But we'll stop you guys next time!”
-(Black cut)
+(Black transition)
 An: Huff... Huff... This isn't good. I can't find a way past them.
 Rebecca: They've all been keeping a really close eye on you, An.
 Slade: After seeing what she can do, it's no wonder they're locking her down. They've locked in now too.
@@ -61,7 +61,7 @@ Rebecca: Yeah. They've tied our score now too... We might be in trouble.
 An: Yeah...
 An: Oh, that's it! I think I've got a good play!
 An: Huddle up, you guys.
-(Black cut)
+(Black transition)
 An: (Great, time to start the play! Slade's got the ball, so he'll draw their attention...)
 An: (I'll slip away while they're all focused on Slade!)
 Basketball Player A: “No, don't let her go free!”
@@ -77,7 +77,7 @@ Basketball Player A: “This is so frustrating! I want a rematch, but...”
 An: “Sorry, we need to go meet back up with the others!”
 Rebecca: As for our rematch, it'll have to wait until the next time you visit the US, An.
 An: Yeah! I'll be looking forward to that!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,32 +115,24 @@ Ken: Wait, why are you snickering?
 An: No reason. Don't mind me.
 An: (Dad hasn't changed at all.)
 An: (He even put on an amazing performance during SONIC NOTES.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (He's still who I thought was the coolest person in the world when I was little. No, he sang better than he did back then...)
 An: (Now I see. This has to be why Mom was able to see him off with a smile when he stepped back onto the stage.)
 An: (They must be feeling pretty lonely since they don't get to be together, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: What? You and Uncle Taiga are gonna start singing over in the US as a team?!
 Ken: Yeah, that's the plan. But that does mean being away from home...
 An: Hmm...
 An: I guess this means we're rivals now, Dad.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (That probably made Mom really happy as well. I mean, she loves how cool Dad looks whenever he sings...)
 An: Make sure to show Mom just how much you appreciate her for letting you come over to the United States like this, okay?
@@ -148,4 +140,4 @@ Ken: Haha. I will. Especially since she told me not to come back home until I've
 Ken: So, I have some souvenirs that I need you to take back to her. I'll give them to you a little later.
 An: Okay, got it!
 An: I also need to figure out what to get her. And there's so much I wanna talk about...
-(Black cut)
+(Black transition)

@@ -25,7 +25,7 @@ Toya: I'll never forget how well you understand me, Akito. Not ever.
 Akito: Got it...
 Akito: Now, go home and sock it to your dad. And don't stop until you're satisfied.
 Toya: I will.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Aoyagi Household - Living Room]
@@ -54,8 +54,8 @@ Toya's Father: I thought as much... I figured it was something foolish like that
 Toya: But then I met some friends who showed me the music I truly wanted to play.
 Toya: And the more I sang, the more I came to love street music...
 Toya's Father: ...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000048/bg_a000048.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000048/bg_a000048.webp)
 Toya: This is a ticket to our next event.
 Toya: Please come and listen to my resolve with your own ears.
 Toya's Father: Hearing something like this isn't going to...
@@ -63,7 +63,7 @@ Toya: I know it may seem it's beneath you. But that's not how I see it.
 Toya: This music is as important to me as classical music is to you.
 Toya: I've never wanted to hold on to something so much before...
 Toya: And I really want you to understand that... Because you're the one who introduced me to the joy of music.
-(White cut)
+(White transition)
 (Background change)
 Toya's Father: ...
 Toya: I'll be waiting for you...
@@ -72,7 +72,7 @@ Toya: If it weren't for you, I would never have met Akito and the others, or eve
 Toya: So... Thank you, dad.
 Toya: That's all I wanted to say. Good night...
 Toya's Father: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -81,4 +81,4 @@ Toya: ...
 Toya: Sigh...
 Toya: (I said everything that I needed to.)
 Toya: (Now to focus on giving tomorrow everything I've got...)
-(Black cut)
+(Black transition)

@@ -45,7 +45,7 @@ Mafuyu: Thank you very much...
 An: Hehe. In that case, let's get you set up right away!
 An: Just gimme a second to go grab you a chair!
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Toya: Alright, to start... Could you try playing the way you usually do?
 Boy: O-Okay!
@@ -86,16 +86,16 @@ An: Okay! Then, if I...
 An: Oh...! I got it to make a small peep!
 Kanade: That's really impressive, you two.
 Kanade: Then, I'll also...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000339/bg_s000339.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000339/bg_s000339.webp)
 Kanade: H-Huh...? Th-There's no sound coming out... Let me try again...
 Kanade: ...! Am I not buzzing my lips enough? Uhh...
 Kanade: Huff... Huff... Still no sound...
 Kanade: Wh-What am I doing different from those two?
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 Boy: ... I still can't get it to sound right...
 Toya: Don't worry. Just take your time and keep trying.
 Toya: You may want to change the way you use your lips a little. Try to push them out a little; that may make it easier to buzz them.
@@ -108,4 +108,4 @@ Announcement: <Thank you all very much for visiting today's convention.>
 Announcement: <Unfortunately, we have reached the final thirty minutes of this event. We ask that all customers finish making their selections as soon as possible.>
 An: What...?! It's already that late?!
 Toya: ...
-(Black cut)
+(Black transition)

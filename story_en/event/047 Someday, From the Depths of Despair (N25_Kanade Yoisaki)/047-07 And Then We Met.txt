@@ -2,7 +2,7 @@
 
 (Character: Kanade Yoisaki, Mafuyu Asahina)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Kanade's Room]
@@ -41,12 +41,12 @@ Kanade: <A song that can shine even a tiny amount of light upon that deep, dark 
 Kanade: <I became convinced that I could achieve what I was after by working with you because you seem to already know how to express this feeling through sound...>
 (Background change)
 <Yuki> (Mafuyu): <...>
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (She knows it too. That deep sense of despair...)
 Mafuyu: (And she's trying to shine a light on that darkness.)
 Mafuyu: (With her, I just might be able to...)
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: <Um... Ms. Yuki?>
 (Background change)
@@ -55,7 +55,7 @@ Kanade: <Um... Ms. Yuki?>
 <Yuki> (Mafuyu): <But I'm really happy. Again, thank you for inviting me to work with you.>
 Kanade: <Th-Thank you as well...>
 Kanade: <Anyway, shall we start discussing how we'll actually go about making music together?>
-(Black cut)
+(Black transition)
 <Yuki> (Mafuyu): <So my job will be to mix your songs, Ms. K...?>
 Kanade: <Yes. Eventually, I'd like to add lyrics to our songs, but we'll start with this for now.>
 <Yuki> (Mafuyu): <Understood. I hope we get to make some wonderful music together.>
@@ -71,7 +71,7 @@ Kanade: <Then, why don't we meet on Nightcord at 25:00? You can always let me kn
 Kanade: <For now, let's call it a day. We can start working in earnest tomorrow.>
 (Background change)
 <Yuki> (Mafuyu): <Okay. I'll see you tomorrow on Nightcord at 25:00.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -79,7 +79,7 @@ Kanade: <For now, let's call it a day. We can start working in earnest tomorrow.
 Kanade: <Alright, let's get to work.>
 <Yuki> (Mafuyu): <Yes, let's. I'll start mixing your new song. Please let me know if anything comes up.>
 Kanade: <Okay.>
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: <...>
 Kanade: (We'll do things like this for now, but I feel like something's missing from this equation...)
@@ -89,7 +89,7 @@ Kanade: (If Ms. Yuki's the type of person who prefers to focus on their work, th
 (Background change)
 Kanade: (No, I should just let her mix this song...)
 Kanade: (I want to see up close how she actually goes about what she does.)
-(Black cut)
+(Black transition)
 Kanade: (Okay, my rough draft up through the first chorus section's done...)
 Kanade: (But the intro could be stronger... It needs to be able to draw the listener in more.)
 Kanade: (Maybe I should ask what Ms. Yuki thinks. But...)
@@ -110,12 +110,12 @@ Kanade: (It's like she could sense that something was on my mind.)
 (Background change)
 <Yuki> (Mafuyu): <Another masterpiece... I'd expect nothing less from you, Ms. K.>
 Kanade: <Th-Thank you...>
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (This song's having the same effect on me...)
 Mafuyu: (It's like each note's finding its way straight into my heart and shaking me from my core...)
 Mafuyu: (But if it felt more...)
-(Black cut)
+(Black transition)
 (Background change)
 <Yuki> (Mafuyu): <If I had to say, I think it needs to feel more stagnant...>
 Kanade: <More stagnant?>
@@ -123,9 +123,9 @@ Kanade: <More stagnant?>
 (Background change)
 <Yuki> (Mafuyu): <There's nowhere to else to go. Nowhere to run...>
 <Yuki> (Mafuyu): <But by making it feel more stagnant, you could enhance that sense of being trapped. It'd be as if there's nothing left to do expect silently watch as your limbs rot away...>
-(Black cut)
+(Black transition)
 Mafuyu: (By doing so, I have a feeling that this song will have an even greater impact.)
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: <Nowhere to go... Nowhere to run...>
 Kanade: <Thank you. I'll take that into consideration...>
@@ -166,4 +166,4 @@ Kanade: (We may be the same age, but she's so much more mature...)
 Kanade: (But based on that arrangement she made, it felt like...)
 Kanade: No... I need to focus.
 Kanade: Right now, I have to keep composing...
-(Black cut)
+(Black transition)

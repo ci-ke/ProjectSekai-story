@@ -64,7 +64,7 @@ Gacha phrase: みんなと共に、成長していくよ
 ミク (WxS): 『わかった……！　ミク、ぜーったいに言わないよ！』
 リン (WxS): 『リンも！　ちゃ～んとお口チャックしてるね☆』
 類: ああ、ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [土曜日]
@@ -86,7 +86,7 @@ Gacha phrase: みんなと共に、成長していくよ
 寧々: ……そっか
 司: では、思いっきり楽しみつくすぞ！
 えむ: お～っ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -104,17 +104,17 @@ Gacha phrase: みんなと共に、成長していくよ
 ミライくんのロボット: エーット……
 寧々: ちょっと類、ミライくん困ってるから
 類: フフフ……入口からこんなに楽しませてもらえるとは。 中を見るのが楽しみだな
-(Black cut)
+(Black transition)
 司: ぬおっ！？　板が浮いて……しかも平行移動しているぞ！
 類: これは、作業用の運搬ロボットだね。 裏面にある無数の穴から空気を噴射して、 浮いたり進んだりしているんだ
 類: しかし、この技術……舞台にも無限の活用法があるな。 場面転換、回り舞台、宙を舞うアクション…… ああ、あえて不安定に揺らすような使い方も——
 えむ: お～！　類くん、ギラギラだー！
-(Black cut)
+(Black transition)
 寧々: えっと、右腕と左腕を上げるのは…… このレバーかな？
 司: おお！　なんと見事なバンザイだ！ 巨大ロボだと迫力があるな……！
 類: では僕は、このレバーとボタンを押して……
 えむ: わわ！　わんだほいした……！ 類くんすごーい！
-(Black cut)
+(Black transition)
 えむ: あ、ここのエリアは撮影オッケーなんだって！ 類くん、こっち向いてー！
 司: このロボットと撮るのもよさそうだな！ 類、隣に並べ！
 類: みんな、僕ばかり撮っているねえ
@@ -122,7 +122,7 @@ Gacha phrase: みんなと共に、成長していくよ
 類: 思い出か……
 類: そういうことなら、みんなで撮らないかい？ せっかく一緒に来たからね
 寧々: ……そうだね。 じゃあわたし、スタッフさん呼んでくる
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -139,7 +139,7 @@ Gacha phrase: みんなと共に、成長していくよ
 類: 僕は賛成だよ。このあと予定もないしね
 司: そうか、よかった！ 実は行きたい場所があったんだ！
 司: ——このスマホを使ってな
-(Black cut)
+(Black transition)
 (Background change)
 類: 行きたい場所というのは……セカイのことだったのかい？
 司: ハッハッハ！　ファミレスではなくて驚いたか？
@@ -155,17 +155,13 @@ KAITO (WxS): 今朝、えむちゃん達が持ってきてくれたんだ
 類: ネネロボまで来ていたんだね
 ミク (WxS): えへへ、びっくりしたー？
 類: ああ、まさか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ネネロボ: ——ピ、ピピッ……
 ミク (WxS): 『あれ？　類くん、ネネロボちゃんの あそこのランプ、光ってない？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ネネロボやミクくん達も、一枚噛んでいたとはね
 類: 僕が録音を聞いてしまったのも、 サプライズのための布石だった、ということか
@@ -179,18 +175,18 @@ KAITO (WxS): 今朝、えむちゃん達が持ってきてくれたんだ
 ネネロボ: ネネロボも、精一杯盛リ上ゲマス！
 寧々: うん、驚くのはまだこれからだよ、類
 類: ありがとう。最後まで楽しませてもらうよ
-(White cut)
+(White transition)
 (Background change)
 ？？？: ——やあ、来てくれたんだね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000598/bg_s000598.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000598/bg_s000598.webp)
 類: 今日はお祝いしてくれてありがとう。 おかげで、心に残る誕生日になったよ
 類: この素晴らしい思い出を糧に、 次の１年も全力で挑まなくてはね
 類: どうかこれからも、 僕達のショーを観に来てくれたら嬉しいな
 類: 決して、君の期待は裏切らないと約束しよう
-(White cut)
+(White transition)
 (Background change)
 類: 僕達が次に立つ舞台がどんな場所かは、 まだわからない。けれど……
 類: ワンダーランズ×ショウタイムを更に輝かせるために。 僕自身の夢を叶えるために
 類: みんなと共に、成長していくよ
-(Black cut)
+(Black transition)

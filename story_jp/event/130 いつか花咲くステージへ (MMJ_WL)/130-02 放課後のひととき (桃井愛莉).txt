@@ -3,7 +3,7 @@
 (Character: 桃井愛莉, 鏡音レン, MEIKO)
 
 (Video: link_idol_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -13,8 +13,8 @@
 愛莉: 今日は久しぶりの登校だったけど……
 愛莉: まさか、あゆみと帰りが一緒になるなんてね。 今日学校に来てよかったわ！
 あゆみ: ふふっ、わたしも！ 部活終わった時間がタイミングぴったりでよかった！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000311/bg_s000311.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000311/bg_s000311.webp)
 あゆみ: ちょうど愛莉ちゃんに話したいこともあったんだよね。 ほら、この前の『アリナシ』出てたでしょ？
 あゆみ: あれ、すっごくおもしろかったよ！
 愛莉: 本当！？ 身近な人にそう言ってもらえると嬉しいわ
@@ -24,7 +24,7 @@
 愛莉: そういう人達のプロフィールを見ると、 普段アイドルに関心がなさそうな人が多いの
 愛莉: そんな人達にまでわたし達のことを知ってもらって、 しかも興味を持ってもらえるなんて…… テレビの影響力はすごいって、改めて思ったわ
 あゆみ: たしかに……。 テレビがきっかけで一気に人気が出る芸能人も多いもんね
-(White cut)
+(White transition)
 (Background change)
 あゆみ: でも、興味を持ってもらえたのは 愛莉ちゃん達が頑張ったからだと思うよ
 あゆみ: わたしもファッションチェックのコーナーで 生き生きしてる愛莉ちゃん見て、 こういうのもっと見たいなって思っちゃったし！
@@ -84,7 +84,7 @@
 愛莉: ええ、必ず！
 愛莉: （そういえば、あゆみ…… さっき何か言いたそうにしてたけど、聞きそびれちゃったわね）
 愛莉: （……次に会った時に聞いてみようかしら）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -99,20 +99,16 @@
 愛莉: 動画の構成をがつっと前後半でわけちゃうとか？ 前半は新規のお客さん、後半は今までのお客さん用にして——
 愛莉: いや、それじゃあ別にひとつの配信にする必要ないわよね。 どちらかのお客さんを飽きさせる時間ができちゃうだろうし
 愛莉: どうしたらいいのかしら……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: ……そういえば、バーチャル・シンガーのみんなは どんな時だって、いいステージを見せてくれるわよね
 愛莉: あれって、何かコツがあったりするのかしら……
 愛莉: ひとりで考えても仕方ないわ。 セカイに行って聞いてみましょ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数分後]
@@ -124,8 +120,8 @@
 愛莉: ……あら？ こんなところに道なんてあったかしら？
 愛莉: ……そんなはずないわよね。 こんなわかりやすい場所にあったら絶対気づくもの。 一体どこに続いて——
 愛莉: えっ、これって……
-(White cut)
+(White transition)
 (Background change)
 愛莉: な——……
 愛莉: こ、ここは……！？
-(Black cut)
+(Black transition)

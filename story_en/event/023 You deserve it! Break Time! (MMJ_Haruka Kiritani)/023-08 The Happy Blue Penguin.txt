@@ -33,7 +33,7 @@ Minori: I'm completely okay with that! I'll go where you go, Haruka!
 Airi: Yeah, me too.
 Haruka: Is that okay with you, Shizuku?
 Shizuku: Yes, of course!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Penguin Cafe]
@@ -43,15 +43,15 @@ Minori: Wow! So many penguin-themed goods!
 Airi: Yeah, you're right...! Penguin cushions, penguin piggy banks, penguin-themed curtains... So much stuff...!
 Minori: And the menu's filled with penguins too! This penguin macaron looks so cute♪
 Shizuku: I never knew this place existed... Oh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000073/bg_a000073.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000073/bg_a000073.webp)
 Haruka: So cute...!
 Shizuku: Hehe...
 Shizuku: Is this your first time coming here too, Haruka?
 Haruka: Y-Yes... A girl in my class told me about this place...
 Haruka: I've been meaning to go, but I haven't had the chance to because of other things I've also been wanting to do...
 Haruka: I need to thank you, Shizuku, for giving me this opportunity...
-(White cut)
+(White transition)
 (Background change)
 Shizuku: Haruka...
 Minori: H-Haruka! You have to see this menu!
@@ -68,7 +68,7 @@ Shizuku: I'd like to try it too. Would you two like to as well...?
 Airi: If you want to get it, Haruka, I'm in too!
 Minori: Yeah! Let's get it♪
 Haruka: Thank you. I really appreciate it.
-(Black cut)
+(Black transition)
 Staff: Here you are! The Deluxe Emperor Penguin Parfait!
 Haruka: ...!
 Airi: Whoa! It's bigger than I thought it would be!
@@ -92,4 +92,4 @@ Minori: B-But...!
 Airi & Shizuku: Hehe...
 Haruka: Okay... Let's eat!
 Minori & Airi & Shizuku: Yeah!
-(White cut)
+(White transition)

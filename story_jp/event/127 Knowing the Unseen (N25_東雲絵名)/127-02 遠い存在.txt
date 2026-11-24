@@ -32,7 +32,7 @@
 母親: 絵名、どうしたの？
 絵名: あ……なんでもない。 着替えてくる
 父親: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -43,21 +43,17 @@
 絵名: （でも、前に指摘されたバランスの悪さが 今回の絵にも出てる気がする）
 絵名: （……パーツの長さに少しバラつきがあるから、 バランスがとれてないんだ）
 絵名: （指摘されてから、結構練習してるのに……。 どうすればもっと自然に描けるようになるんだろ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 雪平: ——今年も例年と同じく、 美大受験のための実技指導コースを開設します
-(White cut)
+(White transition)
 (Background change)
 絵名: （————遠い、な）
-(White cut)
+(White transition)
 絵名: （——こんな私が、本当に画家になれるの？）
 絵名: （……こんな気持ちで、美大を受けていいの……？）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: …………っ
 絵名: （……頭の中がぐちゃぐちゃで、集中できない……）
@@ -67,7 +63,7 @@
 絵名: あっ、す、すみません……！
 絵名: （……ダメだ、集中しないと。 集中して——）
 雪平: …………
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -92,4 +88,4 @@
 雪平: 東雲さん、ひとつ提案があります
 雪平: 来週末——課外授業をしましょう
 絵名: …………え？
-(Black cut)
+(Black transition)

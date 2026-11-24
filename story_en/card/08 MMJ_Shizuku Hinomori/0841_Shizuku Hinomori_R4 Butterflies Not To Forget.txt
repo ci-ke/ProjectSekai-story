@@ -20,7 +20,7 @@ Minori: Yeah! I saw the questions from last week, and there were lots of interes
 Haruka: How we answer them is going to be key to making the most of those interesting questions.
 Airi: Ahh, my variety show heart is on fire! Let's get started!
 Shizuku: Yes!
-(Black cut)
+(Black transition)
 Shizuku: (“What animal would you want to be if you were going to be kept as a pet?”)
 Shizuku: (If I were to be a pet... Maybe a cat? But then I couldn't play with Airi, since she's allergic.)
 Shizuku: (An animal that doesn't easily trigger allergies, is easy to take care of, and can go on walks...)
@@ -29,15 +29,11 @@ Shizuku: (Let's see, next is...)
 Question 5: “If you could go back to any point in the past, when would you choose?”
 Shizuku: Oh...
 Shizuku: (The past...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: Is something wrong, Shizuku?
 Shizuku: Oh... Well, I was feeling a bit lost on how I should answer the “If you could go back to any point in the past, when would you choose?” question.
@@ -65,7 +61,7 @@ Shizuku: Thank you, Minori. With your help, I've figured out how I should answer
 Minori: Hehe, you're welcome! And I'm glad I got to have you all check my response!
 Airi: Haruka... Do you have a copy of that secret bonus photo? If we hand it to her during the show, we could make a great moment happen...
 Haruka: I was thinking the same thing. I'll look and see.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shizuku's Room]
@@ -75,22 +71,18 @@ Shizuku: Oh, right. Airi said she was going to, um...scan our responses and send
 Shizuku: If I could go back to the past...
 Shizuku: (For the survey, I ended up writing about the time Shii and I got lost back in preschool.)
 Shizuku: (I'd appreciate the chance to redo all that since I put Shii in a situation that made her feel so helpless, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: Oh...
 Shizuku: (But if I really could go back to the past, I'd...)
 Shizuku: (If I start thinking about all the “ifs”, there'll be no end to it.)
 Shizuku: (Besides, as I am now, I'm...)
 Shizuku: Huh...?
-(White cut)
+(White transition)
 (Background change)
 
 [Stage SEKAI]
@@ -100,14 +92,14 @@ Shizuku: How strange. I don't think I was touching it or anything...
 Shizuku: That light was the same as...
 Shizuku: Oh, someone's dropped something here. It's glowing bright... Could this ball be some sort of decoration?
 Shizuku: Ah, again...?!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
 
 Shizuku: Um...
 Shizuku: Where am I?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -140,79 +132,59 @@ Arisa: Well, this is all assuming...that you're capable of putting it back toget
 Shizuku: ...
 Shizuku: (There aren't too many pieces, so it doesn't look like a difficult puzzle...)
 Shizuku: At any rate, I need to pick up the scattered pieces. There's one here—
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 TV Producer: Shizuku, excellent work! Your aura was as brilliant as ever today! I can see why everyone admires you so much!
 Shizuku: (They admire me...?)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: ...!
 Arisa: You look surprised. Did something happen?
 Shizuku: No, nothing at all.
 Shizuku: (There's another piece here...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: We ended up going off-script today and I didn't know what to talk about... Thank you for always being there to help me.
 Group Members: You're welcome...? Seriously, when are you gonna learn to do things yourself? We're getting sick of having to play defense for you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: ...!
 Shizuku: (There it is again, something from back then just suddenly... Could these puzzle pieces be...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Group Members: Shizuku, is it true that you're not gonna be in our next show...?
 Arisa: You have the most fans out of all of us, Shizuku, and many of them were looking forward to seeing you during our next show.
 Arisa: How do you think they're going to feel when they find out that you're not going to be there? They can't refund their tickets, you know?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: ...
 Shizuku: (I knew it... Every time I pick one of these up, something from back then pops into my mind.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Arisa: Well, this is all assuming...that you're capable of putting it back together.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Shizuku: (Is this what Arisa was talking about?)
 Shizuku: (It's true that a short while ago, I may have run away from the pain.)
 Shizuku: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (As I am now, I'm able to accept all of those past failings and regrets, all that pain.)
 Arisa: ... Why not throw away the pieces you don't need?
@@ -225,18 +197,18 @@ Arisa: ...
 Arisa: Well, do as you see fit then.
 Shizuku: Yes, that's what I'll do.
 Shizuku: Let's see... It's best to start from the corners and edges.
-(Black cut)
+(Black transition)
 Shizuku: *Sigh* It's finally done. Now to just put the frame back on the wall...
 Shizuku: Great! Now it's back the way it was!
 Arisa: ...
 Shizuku: ...! Arisa?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000268/bg_s000268.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000268/bg_s000268.webp)
 Shizuku: (So, you kept watching to see if I managed to put it back together...)
 Shizuku: I still end up making mistakes sometimes, but I no longer allow myself to be entirely reliant on those around me.
 Shizuku: As Shizuku Hinomori, member of MORE MORE JUMP!, I'm going to keep at my work with pride and confidence in the fact that I am an idol.
 Shizuku: So, let's have another appearance together someday.
-(White cut)
+(White transition)
 (Background change)
 
 [Stage SEKAI]
@@ -249,15 +221,11 @@ Luka (MMJ): I believe it showed up here because the feeling behind it resonated 
 Luka (MMJ): But with only a fragment of a feeling, a SEKAI can only maintain its form for a short while... So after a bit of time passes, you naturally end up back outside of it.
 Shizuku: So that's how I made it back...
 Shizuku: (A fragment of a feeling...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: It was quite a strange place...
 Shizuku: This beautiful garden had a puzzle with me on it, and Arisa was there...
@@ -265,4 +233,4 @@ Luka (MMJ): It's not every day you get to go to a SEKAI formed from a fragment o
 Shizuku: Yes, I will.
 Shizuku: (I want to accept my past failures, regrets, everything... And make my future work all the better for it.)
 Shizuku: (I think that's how I can take responsibility for my actions, and be different from how I was back then.)
-(Black cut)
+(Black transition)

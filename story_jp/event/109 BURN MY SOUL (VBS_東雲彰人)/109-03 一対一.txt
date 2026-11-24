@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ライブハウス]
@@ -23,7 +23,7 @@
 謙: （……彰人は、この特訓の中でかなり伸びている。 だが……）
 彰人: ♪——————！！
 謙: ——枷をかけちまってるみたいだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [イベント終了後]
@@ -49,19 +49,15 @@
 彰人: （……全員、だいぶ疲れが溜まってんな）
 彰人: （それも仕方ねえか。 特訓と、それぞれの担当分で、毎日体力使い果たしてるからな）
 彰人: （今日もなんとか勝ちはしたが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 街の若いミュージシャン達: ——なあ、おい。 あいつら……Vivid BAD SQUADじゃねえか？
 街の若いミュージシャン達: あいつらこの前、 大河さんにこてんぱんにされたんだって？
 街の若いミュージシャン達: ああ、そこらで噂になってるぜ。 派手に潰されちまって……大河さんも鬼だよな
 街の若いミュージシャン達: いい線いくと思ってたんだけど、やっぱ駄目だったか。 やっぱRAD WEEKENDは、誰も超えらんねえよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （このままじゃ、まだ駄目だ）
 彰人: （もっと力をつけねえと、 あいつらに火をつけることなんて——）
@@ -94,18 +90,14 @@
 謙: おいおい、そう声を上げると 杏達が起きちまうぞ
 彰人: あ……すんません
 彰人: （……マジかよ。 謙さんが、オレに直接……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （謙さんは、オレに夢をくれた人のひとりで—— オレの、憧れの人だ）
 彰人: （その人がオレのことを、 わざわざ一対一で鍛えてくれる）
 彰人: （……ここでやらないわけには、いかねえだろ！）
 彰人: 謙さん、よろしくお願いします！
-(Black cut)
+(Black transition)

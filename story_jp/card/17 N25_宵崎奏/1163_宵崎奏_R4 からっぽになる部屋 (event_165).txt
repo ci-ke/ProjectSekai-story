@@ -21,7 +21,7 @@ Gacha phrase: ……寂しくなるな
 奏: あ、煮物の汁がたれちゃって、 そこのふきん取ってほしかったんだけど……
 まふゆ: ……はい
 奏: ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -43,10 +43,8 @@ Gacha phrase: ……寂しくなるな
 奏: （でも……きっと、不安だろうな）
 奏: （お母さんと話す日も近いし……）
 奏: （わたしも、緊張してないっていったら嘘になるから）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ２年間もまふゆと一緒に音楽を作ってきたんだもの。 あなたも、まふゆも——離れ離れになってしまうのは とてもつらいと思うわ
 まふゆの母: だけどこの際、率直に言うとね
@@ -54,10 +52,8 @@ Gacha phrase: ……寂しくなるな
 奏: …………！
 まふゆの母: だから、まふゆのことを想うのなら—— あの子にサークルをやめるよう勧めてもらえないかしら
 まふゆの母: あなたの口から聞いたなら、 きっと、あの子も——納得してくれるはずよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの時は、『このままじゃ、まふゆはこの人に壊される』 って感じて、どうにかしなくちゃって思ったけど……）
 奏: （でも、まふゆにもお母さんとのあたたかい思い出がある）
@@ -66,7 +62,7 @@ Gacha phrase: ……寂しくなるな
 奏: （それで————見守ろう）
 奏: （まふゆの気持ちが、ちゃんと伝わるように）
 奏: （わたしに、できることをするんだ）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,10 +79,8 @@ Gacha phrase: ……寂しくなるな
 まふゆ: 『……ごめん。作業、全然できなくて』
 奏: 『気にしないで。雪のほうが大事だから』
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『……雪、行きたい学校って……？』
 (Background change)
@@ -98,10 +92,8 @@ Gacha phrase: ……寂しくなるな
 (Background change)
 まふゆ: 『……私、は……』
 まふゆ: 『…………』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （まふゆのあの感じ、やっぱり——）
 (Background change)
@@ -134,7 +126,7 @@ Gacha phrase: ……寂しくなるな
 レン (N25): 『うん……』
 レン (N25): 『あの……まふゆちゃんを、お願い……』
 奏: 『うん。わかった』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -151,4 +143,4 @@ Gacha phrase: ……寂しくなるな
 奏: 『わたしもお話したいことがあったので、 ぜひよろしくお願いします』
 奏: ——よし
 奏: （まふゆがどうして苦しそうにしてるのか、 わかるといいけど……）
-(Black cut)
+(Black transition)

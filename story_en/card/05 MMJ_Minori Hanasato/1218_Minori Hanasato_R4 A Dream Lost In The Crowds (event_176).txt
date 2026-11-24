@@ -13,7 +13,7 @@ Minori: Five, six, seven, eight!
 Minori: (Hmm... I still keep getting stuck on this hand motion...)
 Minori: (But we're doing that show stream this weekend, so I've gotta keep trying until I get it right!)
 Minori: Again. I'll try going a little slower this time!
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -36,7 +36,7 @@ Comments: <Oh, it's Akarin!> <They cut away from Minori lol.> <Akari!!>
 Minori: H-Huh...?! They changed cameras?
 Minori: I wish they could've watched me practice some more.
 Minori: I've got a great idea!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -50,18 +50,18 @@ Minori: Hehe. I thought our show would be more fun if everyone had a chance to w
 Minori: Because you guys watching is a huge source of encouragement for us!
 Comments: <I'm gonna root for you like crazy!> <Sounds like a win-win idea.> <Thanks so much for letting us watch you practice!>
 Haruka: Today, we're gonna practice the dance for a song we'll be performing during our show. We hope you watch until the end.
-(Black cut)
+(Black transition)
 Airi: You're falling behind a bit, Shizuku. And Minori, you're rushing ahead slightly.
 Airi: Listen to the music and get a good grasp of the rhythm!
 Minori & Shizuku: Got it! Okay!
 Comments: <You all coach each other as you practice?> <You can do it!>
-(Black cut)
+(Black transition)
 Haruka: That hand motion looks much better now compared with last time.
 Minori: Thanks! I practiced a ton on my own.
 Minori: But I feel like I'm not staying completely on-axis while I turn. Can we try doing that part again...?
 Haruka: Okay, I'll focus on that this time.
 Comments: <I thought you did really well just now.> <You girls work so hard.> <They're super serious...>
-(Black cut)
+(Black transition)
 Minori: Oh, I think I nailed it just now!
 Comments: <You were all in perfect sync!> <This is on the level of a real show.> <Great performance!>
 Haruka: We were able to put on a good performance because of all your cheering and support.
@@ -74,7 +74,7 @@ Airi: We're gonna maintain this momentum and turn our mini-concert into the best
 Comments: <I will!!> <Good luck with practice after this!> <I have no choice but to come and watch!>
 Haruka: Hehe. Thanks. Anyway, let's call things here.
 Minori: Thanks for watching until the very end! See you again during the show! Bye bye♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -100,15 +100,11 @@ KAITO (MMJ): Oh...
 KAITO (MMJ): Are you talking about when you touched those black fragments?
 Minori: Even in that dream, I wanted to become an idol like Haruka and the others. I was willing to do anything to achieve that goal.
 Minori: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: Only a few people were looking my way...
 Minori: I was worried that I'd never become an idol who could give people hope like Haruka.
@@ -138,4 +134,4 @@ KAITO (MMJ): Let's work together to produce the best performance we can!
 Minori: Yes, thank you very much!
 Minori: Okay, let me get to my position...
 Minori: I'm ready, KAITO! Start the music!
-(Black cut)
+(Black transition)

@@ -27,7 +27,7 @@
 絵名: 『うん、おやすみ』
 (Background change)
 絵名: ……私も歯磨きして寝よ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -56,7 +56,7 @@
 父親: それでもいいのなら、応募すればいい
 絵名: ……っ
 彰人: あ、おい——！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 絵名の部屋)
 絵名: （私とはレベルが違う？　賞はとれない？ そんなの……やってみなくちゃわからないじゃない！）
@@ -64,7 +64,7 @@
 絵名: （でも、賞をもらえたらきっと、みんな認めてくれる）
 絵名: （あいつのことだって見返せる……！）
 絵名: ……決めた。 私、このコンクールで、絶対に最優秀賞をとってやる
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -72,7 +72,7 @@
 絵名: ええと、絵の具は……あった
 絵名: （コンクールに応募するって決めたのはいいけど、 まさか徹夜明けで画材買いに行くことになるなんて……）
 絵名: （ま、絵の具なんてずっと使ってなかったし、 硬化しちゃったのは仕方ないんだけど）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -82,7 +82,7 @@
 奏: お父さんのお見舞いに行ってたの。 絵名は？
 絵名: あ……そっか。 私は、画材を買いに来たの
 奏: 画材？
-(Black cut)
+(Black transition)
 奏: へえ、絵のコンクールに応募するんだ
 絵名: うん、結構本格的なコンクールなんだ。 プロレベルの人もいるみたい
 奏: そうなんだ。すごいね
@@ -97,24 +97,20 @@
 奏: だから、頑張って
 絵名: ……ありがと、奏
 絵名: 私、頑張って描くね
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 東雲家　リビング)
 絵名: ——ただいまー。 ……って言っても、誰もいないけど
 絵名: ふふ。今日、奏に会えてよかったな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏: 絵名の描く絵は好きだよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: ——よし、頑張ろうっと！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 絵名の部屋)
 絵名: （あとは、ここに影を入れて……。 うん、いい感じ）
@@ -123,8 +119,8 @@
 絵名: （全体がぼやけて見えると目を引かないし、 印象がよくないって聞いたことがある）
 絵名: （賞を狙うなら、これじゃあ……）
 絵名: ——もう１回、描き直そう。 大丈夫、まだ時間はあるし
-(Black cut)
+(Black transition)
 絵名: ……ダメ！
 絵名: 全然インパクトがない。 もっと構図から目立たせていかないと……
 絵名: （もっとみんなが見てくれるような—— 認めてくれるような絵にしなくちゃ……！）
-(Black cut)
+(Black transition)

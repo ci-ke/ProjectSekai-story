@@ -6,7 +6,7 @@ Mafuyu: (What...?)
 Mafuyu: (Where am I...?)
 Mafuyu: (Why is it all dark? I thought I was doing some work in my room...)
 Mafuyu: (I can't move...? Or talk, or open my eyes...)
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (Huh?)
 Mafuyu: (Isn't this the doll exhibit we visited today? What am I doing here?)
@@ -35,7 +35,7 @@ Mafuyu: I can't feel anything. How many times do I have to say it?
 Mafuyu: And even if I did feel something, nobody would care...
 Kanade: That's not true.
 Kanade: Tell me what you're feeling, Mafuyu.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: Gasp!
 Mafuyu: Huh...?
@@ -66,16 +66,12 @@ Mafuyu: <Everything feels detached or impersonal.>
 Mafuyu: <Yet I can sense that something vital is missing.>
 Mafuyu: <How do I even put this into words?>
 Kanade: <Oh...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: (I feel closer to her this way than when we're having a conversation.)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kanade: (If she can't put her feelings into words properly, then...)
 Kanade: <How about you put it into lyrics?>
 (Background change)
@@ -85,4 +81,4 @@ Kanade: <Lyrics are words too, but I also believe they're a little different.>
 Kanade: <You don't have to explain yourself or try to understand them.>
 Kanade: <Just turn what you're feeling now into song lyrics.>
 (Background change)
-(Black cut)
+(Black transition)

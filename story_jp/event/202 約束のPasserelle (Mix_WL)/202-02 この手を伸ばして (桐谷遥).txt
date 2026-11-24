@@ -7,10 +7,8 @@
 遥: （……今日は、一歌達といろいろ話せて楽しかったな）
 遥: （でも——）
 遥: ……帰りに会ったあの子、どうしてるかな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ……あの子が置いていったノート、どうしよう？ もういらないって言ってたけど……
 遥: そうだね……
@@ -34,10 +32,8 @@
 一歌: あ、いえ……。 ノートの表紙にも『作曲用』って書いてあるだけです
 遥: 作曲用……。 そんな大事なノートを、もういらないなんて
 遥: ……何があったんだろう？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （置いておいたらゴミとして回収されるかもって、 一歌がノートを預かってくれてるけど……）
 ？？？: ♪——……　♪————……
@@ -45,7 +41,7 @@
 遥: あの子と会う前に聞こえた曲と、似てるような……。 でも、どうして私のスマホから？
 遥: それに……今の声ってミクの——
 遥: えっ……！
-(White cut)
+(White transition)
 (Background change)
 遥: …………あれ、セカイ？ Untitled、再生してないのに……
 ？？？: ♪——……　♪————……
@@ -55,7 +51,7 @@
 遥: なんだか、呼ばれてるような——
 遥: 木に、触ったらいいのかな……
 遥: …………あっ！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？のセカイ]
@@ -101,15 +97,11 @@
 ミク: ……本当の想いを否定されたり、押し殺したりしすぎると、 こうやって、想いの欠片に影響してしまうの
 ミク: わたしが見つけた時は、素敵な歌が聞こえたんだけど……
 ミク: 急に聞こえなくなったと思ったら、ヒビが入っちゃって
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （あの時、泣いてたのも何か事情があったんだ……）
 ミク: ……もともと、この想いの欠片は限界が近かったんだと思う
@@ -130,21 +122,17 @@
 (Background change)
 遥: ………………っ！
 一歌: 遥……！！
-(Black cut)
+(Black transition)
 遥: え……
 遥: 真っ暗……ここは、どこ……？ みんなは——
 遥: …………っ！
 遥: （胸の奥が……痛い……苦しい……）
 遥: （体も、鉛みたいに重くて……息も……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （あ…………）
 遥: （……知ってる、かもしれない）
@@ -184,16 +172,12 @@
 遥: でも——
 遥: 今、あの子の想いの欠片を守れるのは、 ここにいる私達しかいない
 遥: 私は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 少女: ……っ、ごめんなさい……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 私は、あの子にも想いの欠片にも、 これ以上傷ついてほしくない
 遥: どれだけ苦しい想いをしていても、 希望を届けたいんだ
@@ -216,8 +200,8 @@
 遥: （……ありがとう、支えてくれて）
 遥: …………っ、お願い……
 遥: ひとりで泣かないで……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000570/bg_s000570.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000570/bg_s000570.webp)
 遥: どうして、そんなに悲しんでるのか、 どうして、そんなに苦しそうなのか——
 遥: ほんの少しでもいい、私達に教えて……
 遥: あなたの想いを—— あなたが抱えている気持ちを
@@ -228,10 +212,10 @@
 遥: あなたが手を伸ばしてくれれば——
 遥: 私は、あなたがどんな暗い場所にいても、 どんなに苦しい想いを抱えていても、その手をつかむよ
 遥: あなたに希望を、届けるために
-(White cut)
+(White transition)
 (Background change)
 ミク: あっ！　想いの欠片が……！
-(White cut)
+(White transition)
 (Background change)
 遥: ここって……
 幼い少女の声: 『——ばあば、今日もお歌作って！』
@@ -243,13 +227,13 @@
 少女の声: 『あ、そうだ…………！』
 一歌: この声って……
 奏: わたし達が会った子だ……
-(White cut)
+(White transition)
 (Background change)
 少女: 『………………………………』
 少女: 『……おばあちゃん。 曲の作り方、たくさん教えてくれてありがとう……』
 少女: 『………………っ。おやすみ、なさい……』
 えむ: あ……
-(White cut)
+(White transition)
 (Background change)
 ミク: ……みんな、大丈夫？
 遥: ミク……
@@ -266,4 +250,4 @@
 ミク: あ、これ……！
 えむ: 戻っちゃうピカピカだ！！
 遥: 待って！　まだみんなと話したいことが——
-(White cut)
+(White transition)

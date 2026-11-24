@@ -44,10 +44,8 @@ Rin (N25): They might not want to have them.
 Len (N25): Yeah... I know...
 Len (N25): But they still haven't had any of the other snacks Mizuki brought over, either.
 Rin (N25): Come to think of it...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Rin (N25): Did you really leave them here, Len?
 Len (N25): *Nod* I put them all back in the big bag...
 Luka (N25): Oh, what's wrong, you three? Are you looking for something?
@@ -56,10 +54,8 @@ Len (N25): They were from Mizuki's sister, and those were MEIKO and KAITO's shar
 Luka (N25): Uh oh...
 Luka (N25): I'm sorry. I thought they were leftovers, so I ate them all.
 Len (N25): Oh...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (N25): Yes, Luka ended up eating them by accident.
 Len (N25): Yeah... That's why I want to have these prechels with MEIKO and KAITO...
 Miku (N25): In that case, we shouldn't eat these until we find them.
@@ -68,7 +64,7 @@ Len (N25): Thanks, Miku, Rin...
 Rin (N25): *Sigh* Why does it feel like we're always looking for them...?
 Miku (N25): Hehe. Let's do our best to find them...
 Len (N25): Yeah...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -83,7 +79,7 @@ Miku (N25): Len, Rin, have you found them yet?
 Rin (N25): Not yet.
 Len (N25): I haven't seen them either. That includes Luka...
 Miku (N25): Then, they may be by the lake.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lake]
@@ -100,11 +96,11 @@ Miku (N25): You seem sleepy, Rin.
 Rin (N25): I'm not. I'm just resting my eyes...
 Len (N25): (Sh-She seems really sleepy.)
 Len (N25): (But I'm also about to...)
-(Black cut)
+(Black transition)
 (Background change)
 ???: ...n. Len, wake up...
 ???: You too, Miku, Rin. Wake up.
-(Black cut)
+(Black transition)
 (Background change)
 Len (N25): Hm...
 Luka (N25): You're finally awake.
@@ -152,4 +148,4 @@ Len (N25): Thank goodness. I was able to keep my promise to Mizuki...
 Rin (N25): Even though he didn't have them with us? He went and ate these on his own.
 Len (N25): But he had some...
 Len (N25): Anyway, why don't we split up the rest amongst ourselves?
-(Black cut)
+(Black transition)

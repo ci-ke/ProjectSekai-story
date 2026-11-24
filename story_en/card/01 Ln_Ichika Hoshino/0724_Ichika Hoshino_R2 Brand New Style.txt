@@ -9,7 +9,7 @@ Skill name: Committee Candidate
 [Miyamasuzaka Girls Academy]
 
 Ichika: (Phew... Thank goodness I managed to get to the school store before it got too crowded.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 2-A]
@@ -19,7 +19,7 @@ Ichika: Honami? Oh, Kohane, you're here too. Were you two waiting for me?
 Kohane: Yes. We thought it'd be nice to have lunch together now that we're in the same class.
 Ichika: Thanks. Then, since it's so nice out, why don't we have lunch in the courtyard...?
 Kohane: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -40,15 +40,11 @@ Honami: Here, I'll share some of my tomatoes with you.
 Ichika: Oh, um... Thanks, you two.
 Ichika: Still, is it that weird to have yakisoba buns without anything else on the side...?
 Ichika: Haruka sort of said the same thing when I had lunch with her for the first time...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Haruka: Hoshino, are you only having yakisoba buns for lunch?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ichika: She basically had the same reaction as you, Kohane.
 Kohane: Hehe. I understand how she feels.
 Kohane: Yes, I was a little surprised. But I don't think it's weird or anything...
@@ -67,7 +63,7 @@ Ichika: Oh, really?
 Ichika: I can still eat... More to the point, I'm going to eat these. They're yakisoba buns, after all.
 Honami: I'd probably say the same thing if I were having apple pies for lunch.
 Kohane: I guess we all love what we love.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -128,4 +124,4 @@ Ichika: Okay.
 Ichika: You're both right. I'll try joining.
 Kohane: We know you'll do great!
 Honami: Good luck, Ichika!
-(Black cut)
+(Black transition)

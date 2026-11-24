@@ -27,7 +27,7 @@ Minori: Now, you'll be wearing this gray hoodie and these gray sweatpants! We ma
 Minori: We'll give you the signal for when to move. All you have to do is slowly come out of the shadows!
 Kohane: O-Okay! Got it!
 Minori: Great! Then, let's start getting ready!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Inside the Haunted House]
@@ -51,7 +51,7 @@ Guest B's Voice: I know, right?! It was straight out of one of those jump scare 
 Kohane: (Oh, that sounds like them in the corridor... The ones that just went through our haunted house...)
 Guest A's Voice: Wanna go again? We can try being hunters this time!
 Kohane: Thank goodness. They seemed to have enjoyed it...
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -71,7 +71,7 @@ Minori: No...! It's not coming undone...!
 Kohane: Wh-What do I do...?! An and the others are going to be here soon...
 Minori: Wait, I know! Let's temporarily move out into the corridor! We should be able to see better there!
 Kohane: R-Right!
-(Black cut)
+(Black transition)
 (Background change)
 Minori: Wow, this thing's really stuck... We might need to find a tool to undo this...
 Kohane: W-Wait, but... I promised to meet up with everyone soon...
@@ -79,7 +79,7 @@ Minori: I know... Okay, sit tight for a second! I'm gonna try finding a tool tha
 (Background change)
 Kohane: Thanks, Minori!
 Kohane: Oh, I should let the others know that I'll be a little late! Let's see... Where did I put my bag...? The class next door...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - School Gate]
@@ -99,7 +99,7 @@ An: I appreciate your concern, Rin. I'd be lying if I said that I wasn't scared,
 An: Also, Kohane helped put this haunted house together, so I don't mind checking it out! Yeah, I'll be fine!
 Akito: How'd you land on that?
 An: That's not important! So, let's start heading over towards Kohane's class!
-(Black cut)
+(Black transition)
 (Background change)
 Toya: This pamphlet says that the haunted house Azusawa's class made is supposed to be based on a fairytale...
 An: “Little Red Riding Hood and the Young Goats' Slightly Scary Forest Adventure”...? That actually sounds kinda cute.
@@ -151,4 +151,4 @@ Akito: Seriously, how far did she run...?
 Minori: In that direction? Okay! Thank you guys so much!
 Akito: I guess we should help find her too...
 Toya: Okay, let's go.
-(Black cut)
+(Black transition)

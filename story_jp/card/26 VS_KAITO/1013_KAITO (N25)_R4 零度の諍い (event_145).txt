@@ -12,19 +12,15 @@ Gacha phrase: お前があいつをどうにかできるのか？
 MEIKO (N25): …………カイト
 MEIKO (N25): ……さっきも言ったけど、 私はあなたのやり方を認めないわ
 KAITO (N25): …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (N25): ——自分のやり方が常に正解だと思わないで
-(White cut)
+(White transition)
 (Background change)
 MEIKO (N25): 『……いい加減にしなさい、カイト……！』
 MEIKO (N25): 『あなたにそこまで立ち入る権利はないわ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): ふん……
 KAITO (N25): 俺も、お前に認められようとは思ってない
@@ -69,19 +65,15 @@ MEIKO (N25): 私が言ったこと、くれぐれも忘れないでちょうだ�
 KAITO (N25): …………
 MEIKO (N25): …………
 KAITO (N25): （まったく、面倒だな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): …………
 KAITO (N25): またしばらくは、待つことになるか……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -92,16 +84,12 @@ KAITO (N25): またしばらくは、待つことになるか……
 
 [湖]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: もう少しだけ……もう少しだけ、時間がほしいんだ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): （もう少しだけ、か……）
 KAITO (N25): （時間をかければかけただけ、苦しむ時間が長くなるだけだ。 なのに——）
@@ -137,15 +125,11 @@ MEIKO (N25): そうね……
 MEIKO (N25): ……リン？
 リン (N25): …………花が、落ちた……
 ミク (N25): えっと……リンが服につけ直そうとしたら、 ポロって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): （なぜ、今……）
 KAITO (N25): （虫の報せ、というやつか？）
@@ -163,4 +147,4 @@ MEIKO (N25): ええ
 ミク (N25): ……メイコ？　どうしたの？
 MEIKO (N25): いえ……
 MEIKO (N25): （瑞希……）
-(Black cut)
+(Black transition)

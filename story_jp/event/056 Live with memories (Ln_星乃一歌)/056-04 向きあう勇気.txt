@@ -14,16 +14,12 @@
 花乃: そうだったんですか……。 あ、あの、皆さんも心配して下さってありがとうございます！
 花乃: それから星乃さんも……。 この前は、ぶつかっちゃってすみませんでした……
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 花乃: ……！ す、すみません！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: あの時、私だって気づいてたんだ。 えっと……花乃ちゃん、だよね
 花乃: え？　どうして名前を……
@@ -53,12 +49,12 @@
 花乃: 家族のことだって……お兄ちゃんがいるから 向きあえないわけじゃないんです
 花乃: ただ、受け入れちゃったら、お兄ちゃんと どんどん離れていっちゃうような気がして……、 怖くて……！
 穂波: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000069/bg_s000069.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000069/bg_s000069.webp)
 穂波: ——はい、ハンカチだよ。使って
 花乃: ……っ。 すみません……洗って返します……
 穂波: ううん、大丈夫だよ。 気にしないで
-(White cut)
+(White transition)
 (Background change)
 花乃: ……本当は、わかってるんです
 花乃: お兄ちゃんは私のためを思って、 会うのをやめようって言ってくれてるんだって
@@ -94,7 +90,7 @@
 花乃: ……わかりました。 まだ会ってくれるかわからないですけど……。 兄に、聞いてみようと思います
 一歌: ……！　ありがとう！
 花乃: いえ、こちらこそありがとうございます。 では……さようなら
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ……みんなありがとう。 突然ライブに来てなんて言い出しちゃったのに、 フォローしてくれて……
 咲希: えへへっ！ アタシもいっちゃんと同じ気持ちだったから！
@@ -116,4 +112,4 @@
 穂波: じゃあわたしは、 これから先のスケジュールを立ててみるね！
 一歌: ありがとう、みんな
 一歌: 次のライブ——頑張ろう！
-(Black cut)
+(Black transition)

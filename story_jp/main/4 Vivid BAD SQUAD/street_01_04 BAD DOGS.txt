@@ -24,7 +24,7 @@ street_01_04 BAD DOGS
 ミュージシャン: そういや、謙さんの娘も 『RAD WEEKEND』を超えたいって、ずっと言ってるな。 なんならお前ら、組んでみたらどうだ？
 彰人: ……白石か。 あいつはたしかに、できる
 彰人: 実力と覚悟があるなら、オレは歓迎するさ。 ……本当に、実力と覚悟があるなら、な
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -95,4 +95,4 @@ street_01_04 BAD DOGS
 彰人: ………………
 彰人: ……じゃあさ、ちょっと提案なんだけど。 ふたりとも、イベントに出てみない？
 こはね: ……え！？
-(Black cut)
+(Black transition)

@@ -21,19 +21,15 @@
 杏: 『クラスの準備は終わっちゃってるからやることないけど、 出し物とか模擬店たくさんあるし、顔出してみたら？』
 瑞希: へー、それじゃあボクも……
 瑞希: （あ、でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 生徒A: ……あの子、うわさの子だよね？
-(White cut)
+(White transition)
 (Background change)
 生徒B: 暁山ってなんでそんな格好してるわけ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……また変に注目されて いろいろ言われたら面倒だな）
 瑞希: （せっかく誘ってくれた杏には悪いけど、今日は……）
@@ -47,18 +43,14 @@
 瑞希: わかった。 じゃあ、またあとでねー。ありがと、杏
 瑞希: ……文化祭か……
 瑞希: ちゃんと行くのは——あの時以来かな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……ってボーっとしてたらお昼になっちゃうよね。 早く行く準備しようっと！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　文化祭当日]
@@ -72,7 +64,7 @@
 瑞希: 人多いから、着替えるところ探すのもメンドくさいしね～
 杏: そう？ ま、別にいいけど
 杏: それじゃ、さっそく文化祭まわろ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　中庭]
@@ -81,7 +73,7 @@
 杏: うん！　うちの学校の文化祭って、 一般の来場者も多いみたいだよ？
 瑞希: あ、あそこで売ってるわたあめ、すっごくカワイイ～！ 買おうよ、杏！
 杏: いいね！　行こっか！
-(Black cut)
+(Black transition)
 瑞希: は～。模擬店、たくさんまわれたね〜。 お腹いっぱい！
 杏: そうだね。 さて、そろそろクラスのほうにも——
 こはね: あっ、杏ちゃん……！
@@ -102,7 +94,7 @@
 瑞希: ボクしばらく隠れてるから、ふたりでまわっててよ！ 杏、またあとでね！
 杏: え、ちょっと、瑞希！？
 こはね: 行っちゃった……
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: ん、追いかけてこないみたいだね。 そんじゃ、ひとりでブラブラしよーっと♪
 瑞希: （演劇に、映画に……。 クラスの出し物もいろいろあるんだなあ。 ん～。どれから見てみよっかな）
@@ -113,4 +105,4 @@
 瑞希: え！？ 何今の。笑い声？
 瑞希: 上にある空き教室からっぽいけど……
 瑞希: うん。どーせヒマだし、見に行ってみようっと！
-(Black cut)
+(Black transition)

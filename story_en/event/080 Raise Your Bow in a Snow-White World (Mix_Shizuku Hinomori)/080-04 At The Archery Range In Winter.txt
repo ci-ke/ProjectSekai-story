@@ -2,7 +2,7 @@
 
 (Character: Shizuku Hinomori, Mafuyu Asahina, Hatsune Miku, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Newcomer Tournament Venue]
@@ -20,7 +20,7 @@ Shizuku: *Gasp* She hit the bullseye...!
 Archery Club Captain: She's so focused, and her accuracy is remarkable... She might be in the running to win it all.
 Shizuku: What? She has a chance to win...?!
 Shizuku: (I believe in you, Asahina...!)
-(Black cut)
+(Black transition)
 MC: That concludes the award ceremony.
 Second Years: Man, Asahina, you were so close!
 Archery Club Captain: Fourth place is more than respectable! It's hard to believe that you were just a novice not too long ago.
@@ -34,7 +34,7 @@ First Years: Wait a second. I haven't seen Asahina at all since the award ceremo
 Second Years: She said she needed to use the restroom, but it's been quite some time now. We need to start heading out soon...
 Shizuku: Oh, then... I'll try finding her.
 Archery Club Captain: You will? Thanks, Hinomori!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Changing Room]
@@ -51,7 +51,7 @@ Mafuyu: Yes, it was. My heart raced the entire time since I was competing agains
 Mafuyu: But I feel much better now. Let's return to where the others are, shall we?
 Shizuku: Yes, let's...
 Shizuku: (She must've been more tired than I realized...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [One month later]
@@ -66,7 +66,7 @@ Shizuku: Yes, I do. I apologize for not being able to help clean up...
 Mafuyu: That's okay. You always do more than enough when you are available, so I wouldn't worry too much.
 Mafuyu: Oh, the weather forecast said that it might snow today, so please be careful, Hinomori.
 Shizuku: Yes, I will. Thank you, Asahina.
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: It took longer than expected to change. I need to hurry...
 Shizuku: My manager's calling? Hello, this is Hinomori.
@@ -78,50 +78,42 @@ Shizuku: Achoo... And so cold.
 Shizuku: (Oh, that's right. I asked Asahina to clean up in my place. If I go back now, I might still be able to lend her a hand.)
 Shizuku: (I wouldn't want her to catch a cold since the archery range is exposed to the open air.)
 Shizuku: So, I should go help.
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: (Oh, it's so quiet...)
 Shizuku: (Did everyone already go home...? But the door was unlocked...)
 Shizuku: Wait, that sound...
 Shizuku: Asahina...
 Shizuku: (Asahina...?)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000144/bg_s000144.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000144/bg_s000144.webp)
 Shizuku: (That's all four...! And no misses...!)
 Shizuku: (That's incredible... But at the same time...)
 Shizuku: (It's a bit scary...)
-(White cut)
+(White transition)
 (Background change)
 Shizuku: (And she seems to be mumbling something to herself...)
 Mafuyu: I have to...
 Mafuyu: I have to hurry and...
 Shizuku: (I can't quite make out what she's saying...)
 Shizuku: (It's as if she's an entirely different person...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: Whenever that happens, it can feel like the walls are closing in on you, and you hate everything...
 Mafuyu: However, I think you'll be fine now that you've learned to calm your mind.
 Mafuyu: I have a feeling that you'll be able to push much further ahead now.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (By calming yourself...)
 Shizuku: (But she's already very good at that... And yet, it's almost as if...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: I'm not perfect...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (Oh...)
 Shizuku: (Does this mean something's bothering her?)
@@ -139,7 +131,7 @@ Mafuyu: Did something happen at work...? Are you not feeling well by chance...?
 Shizuku: N-No, I feel fine! It's just...
 Shizuku: (She's back to being her usual self...)
 Shizuku: (Did I imagine what I saw just now...?)
-(White cut)
+(White transition)
 (Background change)
 KAITO: <So, what happened after that...?>
 Shizuku: Nothing of particular note...
@@ -149,15 +141,11 @@ Shizuku: Then, I became so busy with work that I didn't have much time to think 
 Shizuku: However, what I saw today... That expression was so similar to the one she had back then. It really seemed like something was bothering her...
 Miku (MMJ): <Hmm... What could be bothering her so much...?>
 Shizuku: I can't say... But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: If something really is bothering her right now...
 Shizuku: I'd like to help.
@@ -176,4 +164,4 @@ Miku (MMJ): <Hehe. You always seem to know exactly what to say, KAITO!>
 KAITO: <Hm? I do? I was just stating what came to mind...>
 Shizuku: Thank you very much, KAITO...
 Shizuku: I'll do my best to tell Asahina that I want to help and that I'm there for her.
-(Black cut)
+(Black transition)

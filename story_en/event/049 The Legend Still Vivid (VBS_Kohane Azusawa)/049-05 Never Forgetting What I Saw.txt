@@ -18,7 +18,7 @@ An: Oh, Granny, what's it like backstage here?
 An: There were a ton of people performing that night, so I'm wondering how you got them to all fit back there.
 Owner: You want to see? Come with me.
 An: Awesome! Thank you so much!
-(Black cut)
+(Black transition)
 An's Voice (An): Geez, this place is tiny...!
 Akito's Voice (Akito): Were they all sardine-canned in here...?
 Taiga's Voice: Yeah, it was pretty tight. Hah hah hah.
@@ -42,7 +42,7 @@ Kohane: ...!
 Taiga: How about it, Granny? Mind letting them on stage?
 Owner: Fine, do whatever you like...
 An: R-Really...?! Thank you very much!
-(Black cut)
+(Black transition)
 Akito: This feels weird... We actually get to stand on that stage.
 Toya: Pardon us.
 An: Up we go!
@@ -81,4 +81,4 @@ Everyone: ♪————————!!
 Taiga: How about them apples, Granny...?
 Owner: Hah. I was planning on kicking them out if they ended up being no good...
 Owner: But for now, let's keep listening.
-(Black cut)
+(Black transition)

@@ -31,32 +31,32 @@
 洸太郎: よっしゃ～！！ 最後まで食らいつくぞ！！
 彰人・新: 『ああ！』
 彰人: ファーストイベント——『Break』 ぶちかますぞ！
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 彰人: （さあ、最初はEVERだ……！ ここで一発上げてくれよ……！）
-(Black cut)
+(Black transition)
 (Background change)
 達也: ——お前ら、置いてかれるんじゃねえぞ！！
 EVER: 『♪————！！』
-(Black cut)
+(Black transition)
 (Background change)
 こはね: わぁ……！
 リン: 『うっわ～！ この人達の歌、カッコイイ～！』
 ミク (VBS): 『前にこはね達に勝ったことのあるチームだって聞いたけど……。 さすがだね。イベントが始まったばかりなのに、 一瞬で空気が変わった』
 彰人: よし……！
-(Black cut)
+(Black transition)
 (Background change)
 洸太郎: ♪————！！
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: 『お！ この子、勢いあっていいね～♪』
 KAITO: 『自分の持ち味がわかってるって感じだねぇ！ 聴いてて楽しいし、お客さんもすごくノってくれてるよ』
-(Black cut)
+(Black transition)
 (Background change)
 洸太郎: みんなありがとな～！ だけど、こっからまだまだいくぞー！？
-(Black cut)
+(Black transition)
 (Background change)
 新: ……ここまでで、だいぶあったまったね。 普通のイベントのトリくらいにはなってる
 新: でもまだ——“あの空気”には、届いてない
@@ -67,35 +67,31 @@ KAITO: 『自分の持ち味がわかってるって感じだねぇ！ 聴いて
 新: ん？　何？
 彰人: ——続けよ！ オレ達も、お前に続くからな！
 新: ああ、任せて
-(Black cut)
+(Black transition)
 (Background change)
 新: ♪——！！　——！！　——！！
 新: （……すごいな。 いつものイベントよりずっと盛り上がってる）
 新: （EVERと三田くんが繋いでくれたからこそ、 お客さんが一段階上に来てくれてる……そんな気がするな）
 新: （……街を見るっていうことは、 まだ、俺にはわからないけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 新: （この昂ぶりを——もっと熱くしたい）
 新: （颯真のためにも……このメンバーで——！）
 新: ♪————っ！！
-(Black cut)
+(Black transition)
 新: はぁ……はぁ……。 こんなに疲れたのは、大河さんとやった時以来だな
 新: ——それじゃあ、ラストは頼むよ！ Vivid BAD SQUAD！
 彰人: ——ああ。任せとけ！
 洸太郎: さあ！　今日のラストを飾るのは—— Vivid BAD SQUADだ～！！
-(Black cut)
+(Black transition)
 (Background change)
 達也: ラスト、決めろよ……！
 新: …………
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……！
 こはね: ……なんだろう。いつものイベントと、全然違う……！
@@ -108,21 +104,21 @@ KAITO: 『自分の持ち味がわかってるって感じだねぇ！ 聴いて
 こはね・杏: 『♪————！！』
 彰人・冬弥: 『♪————！！』
 彰人: ♪————————っ！！
-(White cut)
+(White transition)
 (Background change)
 洸太郎: あ～……燃え尽きた……
 杏: わかる……。 いつもならすぐ片づけに入るけど、 今日は休憩してからやらない？
 達也: ……そうだな。 正直、ここまで力が入ったのは初めてかもしれない
 こはね: わかります。 もちろん今までも、本気で歌ってきましたけど——
 冬弥: 今日はいつもと違う……新しい感覚があったな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
 彰人: ——それで、お前らはどう感じた？
 彰人: 今日の、“空気”を
 新: ふふっ。 わざわざ聞くの？
 彰人: …………ま、その顔なら全員、 ちゃんと感じられたみたいだな
 彰人: まだRAD WEEKENDまでは遠いにせよ……。 それでもオレ達は、一歩進んだ
-(White cut)
+(White transition)
 (Background change)
 杏: ——うんっ！ それにさ、ほんっと楽しかったよね！ 私、歌ってて飛んでいっちゃいそうだったよ！
 こはね: うん……！ あ、その、それで思ったんだけど……
@@ -147,7 +143,7 @@ KAITO: 『自分の持ち味がわかってるって感じだねぇ！ 聴いて
 彰人: ……たく、いちいちもったいぶった言いかたすんなよな
 彰人: んじゃ——次のイベント考えるぞ！　お前ら！
 杏・洸太郎: 『おーっ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -170,5 +166,5 @@ MEIKO: そっちのイベントの成功のお祝いになるのかしらね？ 
 杏: いいね～！！ それじゃ第２ラウンド、いってみようかっ！！
 こはね: うんっ！
 レン: それじゃ、いくよ！ ミュージック——スタート！！
-(White cut)
+(White transition)
 (Video: 03_street_ed1)

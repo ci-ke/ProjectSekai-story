@@ -19,20 +19,16 @@ Gacha phrase: ほら、撮るよー？
 (Background change)
 瑞希: 『ちょっと心配だよね～。 昨日もなんか様子おかしかったし』
 絵名: 『まあね……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……でも、お母さんは、 私の将来を考えて言ってくれてる……と、思う
 まふゆ: 音楽に時間を使うより……、 受験勉強につながることをしたほうが、いいはずだって。 それが……将来のためになるから……
 まふゆ: だから、……私は、……音楽を……
 まふゆ: 音楽を……
 まふゆ: …………っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 『雪……まふゆ、苦しそうだったね』
 (Background change)
@@ -52,33 +48,25 @@ Gacha phrase: ほら、撮るよー？
 絵名: 『やりたいことがあるなら、言えばいいじゃない』
 絵名: 『ていうか、まふゆがやりたいことなんだから、 自分以外に、誰がお母さんに言えるわけ？』
 絵名: 『そりゃ、私達は養われてる立場だし、 生意気かもしれないけど……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 『親の言いなりにならなきゃいけないなんて、 私は絶対にイヤ』
 (Background change)
 (Background change)
 絵名: 『……考えてること、全部言ってくれればいいのに』
 絵名: 『あの時みたいに——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: もう疲れたの！！ 探しても、探しても、探しても探しても探しても！！！
 まふゆ: 見つからなくって……っ、 また探して、違うって、絶望して…………
 まふゆ: ——もう、これ以上……どうしようもないじゃない……っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『ああ……あの時ね』
 絵名: 『少なくとも、まふゆの言葉に嘘はなかったし、 まふゆ自身の意思だってあったと思う』
@@ -104,7 +92,7 @@ Gacha phrase: ほら、撮るよー？
 (Background change)
 絵名: 『……ありがとう』
 絵名: 『じゃあ、そろそろ真面目に今日の作業するね！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -134,7 +122,7 @@ Gacha phrase: ほら、撮るよー？
 瑞希: 『オッケー！　じゃあ、その感じで 雪に連絡してみるよ』
 (Background change)
 絵名: 『うん。よろしく』
-(Black cut)
+(Black transition)
 (Background change)
 
 [打ち上げ当日]
@@ -162,7 +150,7 @@ Gacha phrase: ほら、撮るよー？
 絵名: それもそっか……
 店員: おまたせしました！ ドリンクとお食事をお持ちいたしました
 奏: あ、はい
-(Black cut)
+(Black transition)
 瑞希: ん～！　この、熱々チーズインハンバーグ、いい匂い！
 絵名: 相変わらず、瑞希はガッツリだね
 瑞希: えへへ。ボク、食べ盛りなんだ～♪ あ、ポテトは真ん中に置くから、 奏も絵名も食べてね！
@@ -180,4 +168,4 @@ Gacha phrase: ほら、撮るよー？
 瑞希: でもさ、息抜きがてら打ち上げ気分を ちょっとでも味わってほしくない？ ほら、絵名もいい感じのポーズしてみて！
 絵名: 何それ……。 やらせるなら、せめてもうちょっとイメージを言ってよ
 瑞希: お、言ったねー！ それじゃあまずふたりとも飲み物を持って、それから——
-(Black cut)
+(Black transition)

@@ -9,34 +9,26 @@ Skill name: A Message For Your Efforts
 [Saki's Room]
 
 Saki: I really hope Ichi's okay...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: You're the one writing these, so I don't see any problems with you doing that.
 Ichika: Sure, that may be true but...
 Saki: Yeah, I think I like these lyrics more, you know?
 Ichika: Again, I'm so sorry... I'll keep trying.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: I went through the same thing while I was writing my song...
 Saki: I tried and tried, but couldn't get anywhere for so long. I even started to doubt myself the more I thought about it.
 Saki: As a result, I began to lose confidence in what I was doing.
 Saki: Isn't there anything I can do for Ichi...?
 Saki: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: So this is how everyone felt while I was writing my song.
 Saki: That's why they kept telling me to relax and not feel rushed.
@@ -53,7 +45,7 @@ Rin: <Hehe. It's my pleasure♪ I mean, we're all friends, right?>
 Saki: Yeah, that's right!
 Rin: <So, is what's going on with Ichi bothering you? How her lyrics are going and stuff...>
 Saki: Yeah, about that...
-(Black cut)
+(Black transition)
 Rin: <Oh, I see. Ichi's really struggling, huh?>
 Rin: <Is that why she's been coming to SEKAI at night lately?>
 Saki: Huh? What are you talking about?
@@ -73,7 +65,7 @@ Rin: <Yeah, I'm not sure I can help her much either...>
 Rin: <Oh, I know! What if we brought her snacks and stuff?>
 Saki: Yeah, that might be good! Sweets are really the best cure for being tired!
 Saki: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tenma Household - Living Room]
@@ -88,7 +80,7 @@ Saki: You will? That'd help heaps!
 Saki: Oh, here it is! Alright, Rin, you're up!
 Rin: <Okay♪ Time to bake us some cookies♪>
 Saki: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 
 [That night]
@@ -100,32 +92,28 @@ Saki: Yeah, they really were!
 Saki: (They're a little bur... Well done with a nice aroma.)
 Saki: Oh, this song...
 Rin: Ichi's here! Let's go, Sakki!
-(Black cut)
+(Black transition)
 (Background change)
 Rin: Oh, she looks so focused...
 Saki: Yeah. Let's just leave these here for her.
-(Black cut)
+(Black transition)
 (Background change)
 Saki: (I believe in you, Ichi. I know you're gonna write something amazing for us.)
 Saki: (You can do it!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Ichika Hoshino, Saki Tenma, Kagamine Rin)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Our first song...
 Ichika: Thank you for hearing our very first song! Thank you all very much!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [Saki's Room]
@@ -139,7 +127,7 @@ Saki: Even though I can't wait to keep practicing!
 Saki: Hm? A message from Ichi? Directly to me too.
 Saki: Let's see... <Can you come to SEKAI now?>
 Saki: Did I forget something? I don't have anything else to do right now, so why not♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -184,4 +172,4 @@ Rin: Thank you so much, Ichi♪
 Saki: I don't know what to say! Thanks, Ichi, you're the best!
 Ichika: Wah! Oh, Saki.
 Saki: Hehe♪
-(Black cut)
+(Black transition)

@@ -23,15 +23,11 @@ Gacha phrase: ……遅くなっちゃったな
 こはね: ううん、出かけたのは神奈川のほうだよ。 ただ、イベントの出番がうしろのほうだったから……
 こはねの母: そう。うまくできた？
 こはね: ……うん。みんなで頑張って、 結果はちゃんと残せた気がする
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 対戦形式のイベントだったんだけど、 なんとか勝てたし、チームの名前も覚えてもらえたの
 こはね: ……この調子で、どんどんうまくなりたいな
@@ -58,7 +54,7 @@ Gacha phrase: ……遅くなっちゃったな
 こはね: （……ふふっ。 お母さんと話してたら、ちょっと目が覚めてきたな）
 こはね: （お風呂入って、ぐっすり眠って——）
 こはね: （また明日も頑張ろう……！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,4 +117,4 @@ Gacha phrase: ……遅くなっちゃったな
 彰人: よし、じゃあイベントの反省会もふまえて、 頭から合わせてみるぞ
 杏: オッケー！ ガッツリ休憩したし、いつでもいけるよ！
 こはね: うん！　あともうひと頑張り——やろう！
-(Black cut)
+(Black transition)

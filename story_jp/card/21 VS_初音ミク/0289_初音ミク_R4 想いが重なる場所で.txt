@@ -19,18 +19,14 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 一歌: んー。せっかくバンド始めたんだし、 何かできたらいいけど……
 一歌: （いくらアマチュアでもオッケーとはいえ、 最近ライブをやり始めたバンドじゃさすがに厳しいかな）
 一歌: ……ミク、か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -42,26 +38,18 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 こはね: うーん、ここからじゃよく見えないけど……。 何かイベントがあるのかな？
 みのり: あ、そうかも！
 みのり: それにしても、ステージで歌って踊るミクちゃんって キラキラしてて、すっごくかわいいよねー
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ふふ。私は、ちょっと激しめな曲を クールにかっこよく歌うミクちゃんも好きだなぁ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり・こはね: 『えへへっ』 『ふふっ』
 奏: （今日はちょっとだけだけど、お父さんと話せた……）
@@ -71,19 +59,15 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 奏: あ、そうだ。あのCD、そろそろ出てるかも
 奏: なんだったっけ……バーチャル・シンガーバージョンの アルバムっていうのは覚えてるんだけど……
 奏: （……それにしても、 こんなにミクの歌を聴くようになるなんて思わなかったな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: あとで時間作って、会いに行こうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -92,30 +76,26 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 ミク: ——～～～♪ ……あっ
 ミク: なんだろう？ なんだか、ぽかぽかして優しい想いが集まってきてる
 ミク: この想いは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
 
 司: さてと、ミクはどこだ？ ショーの相手役として 練習につきあってくれる約束をしたはずだが……
 司: それにしても——
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 司: あんな衝撃的な出会いをしたミクと、 今では普通にショーの練習をしているとは
 司: もう当たり前のようにセカイに来ているが、 本当にいろいろ助けられているな
 司: よし！　今度改めて、感謝の意を伝えねば……！
 司: ん？　今、何か足元で光ったな
 司: これは……、玉？ 光っているようだが……一体……
-(White cut)
+(White transition)
 (Background change)
 司: ぬおっ！？　な、なんだ！？　まぶしい！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -124,13 +104,13 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 一歌: たしか、スタジオに入って『先に練習始めてるよ』って、 咲希達にメッセージ送ろうとしてて……。 そしたらスマホが急に……
 ？？？: なんっっっだここはーーーーーっ！？
 一歌: えっ！　今の声って……！
-(Black cut)
+(Black transition)
 みのり: こはねちゃん、今の聞こえた？
 こはね: うん。私達の他にも誰かいるみたいだね
-(Black cut)
+(Black transition)
 奏: 人の声……。 ふらふら歩くより、合流したほうがいいかも
 奏: 声が聞こえたのは……。 あの木のほうから、かな
-(Black cut)
+(Black transition)
 一歌: あ……！
 みのり・こはね: 『あっ！！』
 司: ん？
@@ -144,7 +124,7 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 一歌: え……
 ミク: ふふ、そっか。 ここは、キミ達の想いが重なりあって生まれた場所なんだね
 一歌: ミ……ミク！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -162,15 +142,11 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 ミク: セカイになるほど強い想いじゃないけど、 でも、はっきりと誰かに向けられた、温かな想い——
 ミク: ここへ来る前、 みんな何かを考えていたんじゃない？
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ミクのこと、考えてた
 こはね: あ、それ、私も……
@@ -198,31 +174,27 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 ミク: ううん、すっごく関係あるよ
 ミク: キミ達が、 キミ達自身の想いのままに成長していってくれるのを、 “わたし”達も望んでいるから
 司: わたし、達？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000006/bg_s000006.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000006/bg_s000006.webp)
 ミク: そう。みんながよく知っている『ミク』のことだよ
 ミク: だからこの木はね。 みんなのウィッシュツリーとしてだけじゃなくて——
 ミク: みんなに寄りそう“わたし”達の、 願いと夢と祈りの、ウィッシュツリーでもあるんだよ
-(White cut)
+(White transition)
 (Background change)
 奏: え……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ミク……
 ミク: キミ達が“本当の想い”を見つけてくれて、 セカイの“わたし”達のこともすごく大切にしてくれて……
@@ -256,29 +228,29 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 ミク: 完全になくなっちゃうわけじゃなくて、 元の、想いの欠片に戻るだけ
 ミク: みんなの心には、ちゃんと残り続けるよ
 ミク: いつか……
-(White cut)
+(White transition)
 (Background change)
 ミク: この想いの木が キミ達の想いでもっともっと大きく育ったら、 その時は、もしかしたら——
 一歌: ミク……！
 ミク: ふふ。これからも、 セカイの“わたし”と仲良くしてね
 ミク: またね——、みんな！
-(Black cut)
+(Black transition)
 (Background change)
 司: ん？　ここは……
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……戻って、来た？
-(Black cut)
+(Black transition)
 みのり: でも……どこに行ってたんだっけ？
 こはね: なんとなくは覚えてるけど……
-(Black cut)
+(Black transition)
 (Background change)
 一歌: …………
 一歌: えっと……どこかに行って、 誰かと話して……もっと話したいって思って……
 一歌: 嬉しかったり、寂しかったり……
 一歌: …………
 一歌: なんでかな、 すごくミクに会いたくなってきた
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -288,4 +260,4 @@ Gacha phrase: 本当の想いを見つけてくれてありがとう
 ミク: わたし達は、いつでも想いでつながっているから
 ミク: 次に会えた時は、 またみんなで歌おうね
 ミク: 新しい歌と一緒に、待ってるよ
-(White cut)
+(White transition)

@@ -23,7 +23,7 @@ Len (VBS): <Plus, we could get some inspiration for the events we put on!>
 Akito: Well... Guess it's fine, if that's what you guys want.
 An: Haha, yeah! Okay, let's hurry up and head over.
 Kohane: Right! We actually picked out some promising events yesterday. Um, first up was...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Live House]
@@ -46,23 +46,23 @@ Len & Rin: <Yeah!!!>
 Len (VBS): <Yes...! Nobody caught on!>
 Rin (VBS): <Woohoo! We totally did it!>
 Len (VBS): <Hehe, shouting out loud definitely makes a show more fun!>
-(Black cut)
+(Black transition)
 An: *Sigh* That was a great event, huh! Everybody was super into it!
 An: But... The day's not even close to over! We're gonna keep hitting up these live houses back to back!
 Rin (VBS): <Woo!>
-(Black cut)
+(Black transition)
 Len (VBS): <Whoa! This team's vocals really give you goosebumps!>
 Toya: I seem to recall that they're already working with a major label. I'm a little surprised that they're doing another event in this neighborhood.
 Rin (VBS): <Wow...! Alright, let's try that singing style later!>
 Len (VBS): <Yeah! Gotta make sure it sticks in our heads!>
-(Black cut)
+(Black transition)
 (Background change)
 Len (VBS): <Hahaha! This MC is hilarious!>
 Rin (VBS): <Right?! I can't believe this is the same person who was just singing!>
 Rin (VBS): <Oh, hey, Len! Why don't we try doing some funny MCing too?!>
 Len (VBS): <Huh, you wanna try? Hmm... I guess our first step would be to ask Luka for help...>
 Kohane: Hehe, she does seem like she'd be a really fun MC!
-(Black cut)
+(Black transition)
 (Background change)
 Len & Rin: <Man, that was great!>
 Rin (VBS): <Spending our whole anniversary going to shows was just the best! Thanks, guys!>
@@ -89,7 +89,7 @@ Rin (VBS): <Yeah! I wanna see!>
 An: That settles that! Let's watch it together at MEIKO's cafe where we can relax!
 An: C'mon, time for a trip to SEKAI!
 Len & Rin: <Woo!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,7 +105,7 @@ Len: That means it's time to start my half of the show! Let's go all out!
 Len: Alright, I'll kick things off with my medley!
 Len: ♪————————!!
 Len: ♪——————!!! ♪——————!!!
-(Black cut)
+(Black transition)
 Len: Thanks, guys!!!
 Rin: That was awesome, Len! Great job♪
 MEIKO: You put on a cool performance. We enjoyed it just as much as the audience.
@@ -162,8 +162,8 @@ Len: Thanks for always being by my side!
 MEIKO: Okay... Now that our special segment is over, it's time to celebrate your anniversary!
 Len: Huh?
 MEIKO: We prepared a message from us to you, so we hope you'll listen♪
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000394/bg_s000394.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000394/bg_s000394.webp)
 MEIKO: Happy anniversary, Len! You've got this power to you that always fills me with cheer♪ It gives me the determination to work just as hard as you do.
 MEIKO: Keep using that power to bring people more amazing music, okay?
 KAITO: The energy you bring always makes me smile, Len. Well, sometimes you have so much that you start using it to pull pranks on me...
@@ -174,7 +174,7 @@ Miku: I hope you're having a great anniversary, Len! Singing with you and chatti
 Miku: Let's keep singing all kinds of songs together!
 Rin: Hey, Len! Happy anniversary! The two of us are always talking and hanging out together, so don't you think it's weird how we never get bored of it?
 Rin: But... I guess that's 'cause you're you! You and me, we're together forever!
-(White cut)
+(White transition)
 (Background change)
 MEIKO: We all wish you a very happy anniversary, Len!
 MEIKO: Plus... Just look! All these people in the audience are just itching to send you good wishes too!
@@ -190,4 +190,4 @@ Len: Sounds good! Alright... Rin, let's go! We're gonna keep showing them just h
 Rin: For sure! Let's get everybody fired up!
 Miku: Hehe, give it your best, you two!
 Len & Rin: We will!
-(White cut)
+(White transition)

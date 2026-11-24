@@ -6,13 +6,13 @@
 
 An: I'm finally done with everything dad asked me to do, so maybe I'll go to MEIKO's place and... Huh?
 An: What's with all those people gathering over there? I wonder what's going on...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wedding Ceremony Hall]
 
 An: Hmm... Oh, it's a wedding...! Maybe I can get a peek at the bride... Hm?
-(Black cut)
+(Black transition)
 Male Extra: I'm so sorry. I can't believe that I got hurt just 30 minutes before the ceremony...
 Akito: Yeah, you're gonna have a tough time dancing. For now, please sit down...
 Akito: *Sigh*... Now what...? If only we could find a replacement...
@@ -22,7 +22,7 @@ Akito: Hang on, you might work. Pretty sure there was an extra costume lying aro
 An: Huh? What are you talking about?
 Akito: Forget it, I'll explain later. Just put this on for now! You have five minutes!
 An: What? I still don't know what's going on! Hey, answer me...!
-(Black cut)
+(Black transition)
 An: So this outfit's...?
 Akito: For a little performance we're gonna do during the wedding, but one of our dancers got hurt.
 Akito: Luckily, you're here. You of all people should be able to learn everything and pull it off when it counts.
@@ -38,7 +38,7 @@ Rui: All that's left is to have fun under this beautiful sun!
 Extras: Yeah!
 An: I still don't really have the full picture yet, but it sounds fun! Let's do this...!
 Akito: Sometimes I'm glad you're such a good sport. Anyways, we don't have time. Let's start from the top.
-(Black cut)
+(Black transition)
 MC: Now, minister, if you will...
 Toya: (We're almost up...)
 Toya: (This feels pretty different from the events we usually do...)
@@ -50,7 +50,7 @@ Rui: I believe in one thing when it comes to all shows...
 Rui: That the ones who have the most fun are the winners...!
 Toya: Right...!
 Rui: Now, it's showtime!
-(Black cut)
+(Black transition)
 Minister: Do you take each other as lawfully wedded spouses to have and to hold, for better or for worse, in sickness and in health, to love and cherish, till death do you part?
 Groom: I do...
 Bride: I...
@@ -74,39 +74,35 @@ Bride: Oh, you're so wonderfully talented...
 Groom: You're kidding, right?!
 Akito: Okay...?
 An: Oh, I think I get it now... Are they all people that can do things the bride likes...? That means Toya's gonna...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Rui: You're not sure about how you should feel here?
 Toya: Yes... I've never acted before and don't have a good sense of what to do.
 Rui: Yes, I see... Then let's imagine the thing you desire the most is sitting right in front of you...
 Rui: But that very thing is about to be taken away from you by someone else.
 Rui: And there's only one way for you to take it back, which is to sing for it.
 Toya: Win it back by singing...
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Toya: I think I have a better idea now...
 Rui: Ah, good. Now, go sing your heart out!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: I... I'll sing with every fiber of my being for you...!
 Toya: Please, listen...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000076/bg_a000076.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000076/bg_a000076.webp)
 Toya: ♪ ————————!!
 Guests: Whoa...!! His voice...!!
 Guests: Is he a pro...? This is amazing...!
 An: Way to go, Toya!
 Akito: Believe the hype with him...
 Toya: I will keep singing for you from now on! Please, take my hand...!
-(White cut)
+(White transition)
 (Background change)
 Bride: ...
 Groom: S-Stop...!!
@@ -117,19 +113,19 @@ Bride: But none of that matters in the end. I still choose my husband...
 Bride: I want to spend the rest of my life with him.
 Bride: I vow to stay true to him no matter what, forever...!
 Rui: Fantastic...! Get ready, dancers... Hm?
-(Black cut)
+(Black transition)
 Passersby: What's going on there? Looks like they're having an outdoor wedding.
 Passersby: The bouquet toss maybe? I think this is supposed to be some kind of show, so it might be pretty fun!
-(Black cut)
+(Black transition)
 Rui: Ah, yes. I see...!
 Rui: Shinonome! Shiraishi! A slight change of plans!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000077/bg_a000077.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000077/bg_a000077.webp)
 Rui: We can get everybody just passing by involved along with the guests! We have a small window of opportunity right now!
 Akito: What? There's no way we can do that...
 An: Yeah, let's try it! We should make this as fun as possible while we're at it! Let's go, Akito!
 Akito: Wait, An! Ugh... Fine...!
-(White cut)
+(White transition)
 (Background change)
 Passersby: Whoa, they're all dancing! They're a part of this too...?!
 An: Everybody! Come join in on the fun!
@@ -140,4 +136,4 @@ Guests: Wow...! Raining flower petals...! It's a real flower shower!
 Passersby: It's so pretty...!!
 Toya: Hehe...
 Toya: Such wonderful smiles, aren't they, Kamishiro...?
-(Black cut)
+(Black transition)

@@ -23,7 +23,7 @@ Gacha phrase: ブラウン系でまとめましょうか
 遥: （青柳くん、慣れないことばかりで大変なはずなのに……。 それだけ、仲間のためのチョコに真剣なんだな）
 こはね: ——遥ちゃん、少し見てもらってもいいかな？
 遥: うん、わかった
-(Black cut)
+(Black transition)
 遥: こはね、青柳くん、 荷物見ていてくれてありがとうございます。 ケバブ、買ってきたよ
 冬弥: いえ、こちらこそありがとうございます
 こはね: 遥ちゃん、隣どうぞ
@@ -67,19 +67,15 @@ Gacha phrase: ブラウン系でまとめましょうか
 こはね: ふふ。もしそうなら、本当にすごく賢い猫さんだね
 遥: そうだね
 遥: （そういえば、前に同じようなことがあったな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 猫: にゃーん？
 雫: あら、首傾げて可愛いわね。 じゃあ、私も。にゃ～ん？
 遥: あっ！
 愛莉: あああっ、雫！　お茶！ 服にこぼれるーーーっ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （なんだか青柳くんって、雫と似てるな）
 遥: （一見クールに見えるけど、 実はおっとりしていて、ちょっと天然なところとか）
@@ -88,7 +84,7 @@ Gacha phrase: ブラウン系でまとめましょうか
 冬弥: ダメだと言っているだろう？ どれだけお願いされても、あげられないんだ
 遥: このままじゃ猫もかわいそうだし、 諦めてくれるように、早く食べちゃおうか
 冬弥・こはね: 『そうですね』 『そうだね』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -111,15 +107,11 @@ Gacha phrase: ブラウン系でまとめましょうか
 杏: 『バレンタインのこと話したくってさ。 こはねのこと助けてくれたんでしょ？』
 杏: 『冬弥にもメイクの仕方とかポージングとか いろいろ教えてくれたって聞いたよ』
 遥: 『ああ、そのこと？』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 『こはねが、杏のために頑張りたいって言ってたから、 ちょっと手伝っただけだよ』
 (Background change)
@@ -127,17 +119,13 @@ Gacha phrase: ブラウン系でまとめましょうか
 遥: 『入賞できたのは、私だけの力じゃないよ』
 (Background change)
 遥: 『青柳くんもこはねも、本当に頑張ってたから……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: 『青柳くんは初めてのメイクだったから、 最初は本当に、何をどうしたらって困ってたけど——』
 遥: 『真剣に話を聞いてくれて、 手つきもどんどんよくなっていってたな』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 『撮影の時のポージングも、 アドバイスをすぐに実践してくれて』
 遥: 『最後には、ちょっと応用したポーズを 自分で提案してくれたりもしたんだよ』
@@ -159,7 +147,7 @@ Gacha phrase: ブラウン系でまとめましょうか
 杏: 『だね！ 特に写真と歌に関しては、もうすごいんだから！』
 杏: 『ほらあれ！　“好きこそものの上手なれ”って感じ？』
 遥: 『たしかにそうだね。 あとは——』
-(Black cut)
+(Black transition)
 (Background change)
 遥: 『——私が話せるのはこれくらいかな。 満足した？』
 (Background change)
@@ -191,4 +179,4 @@ Gacha phrase: ブラウン系でまとめましょうか
 (Background change)
 遥: （杏からお礼の電話がかかってくるなんて、思わなかったな。 それだけ、喜んでもらえたってことなんだろうけど）
 遥: 私も楽しかったし、手伝ってよかった
-(Black cut)
+(Black transition)

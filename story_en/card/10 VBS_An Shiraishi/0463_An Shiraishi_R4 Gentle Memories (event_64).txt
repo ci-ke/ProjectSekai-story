@@ -19,7 +19,7 @@ An: Hi, Uncle Taiga!
 Toya: Hello.
 (Background change)
 Taiga: Hey, I didn't know you guys were here.
-(Black cut)
+(Black transition)
 (Background change)
 Akito: We just finished practicing, so we're here to take a break.
 Taiga: You guys practice during your days off? Aren't you all hard-working!
@@ -33,19 +33,15 @@ An: Really...?
 An: Oh, that reminds me. Some stuff came up and I ended up telling everyone about how I ran away when I was little...
 Taiga: Oh, that story...?! You really had the entire town in a panic that time.
 An: Haha... So, when I started looking back on what happened...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: This is where we met Ken. Things weren't easy back then since he and Taiga didn't really get along at first...
-(White cut)
+(White transition)
 Nagi: But everyone around town thought that they were good rivals and helped stop them from fighting. As a result, they began to understand each other better.
 Nagi: Without them, we probably wouldn't be a team right now...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Taiga: Nagi said that...?
 An: Yeah. That really stuck out in my mind and kinda want to hear more about what you guys were like back then.
@@ -77,10 +73,8 @@ An: Cream soda embroidery...? Wait, I've heard that before somewhere...
 An: Oh, I remember now...! Mom gave them to you for your birthday!
 An's Father: An, how...? That happened before we got married.
 An: Hehe. I heard from Mom when I was little. We went out shopping together to get you a birthday present...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An's Mother: Before we were married, I gave your father socks this one time for his birthday.
 Little An (An): Socks? Why?
@@ -94,10 +88,8 @@ Little An (An): Daddy likes cream soda? I thought he only drank really bitter co
 An's Mother: That's true now, but he couldn't get enough of sweets and sugary drinks back then.
 Little An (An): Really? And did he take good care of those cream soda socks you gave him?
 An's Mother: Yes, very!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Right, Dad?
 An's Father: Yes...
@@ -107,7 +99,7 @@ Taiga: Hahaha! But they still look terrible on you.
 Taiga: I mean, you're so superstitious that you felt compelled to wear the socks that your then girlfriend got for you.
 An's Father: Quiet, you...
 An: Haha.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,21 +112,17 @@ An: ————! ——! ——!
 An: ————! ——~~~!
 An: (Alright, I'm on a roll again today!) 
 An: (But I can do better... Much better...!)
-(Black cut)
+(Black transition)
 An: Whew...!
 An: Hey, Miku! Were you listening just now?
 Miku (VBS): Yes, you seem to be doing very well today.
 An: That's because I am. Ever since I told that story about Aunt Nagi, I've been feeling great!
 An: It might have to do with how I was reminded of just how much I admire her...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (VBS): I had a feeling that you were singing with somebody in mind...
 Miku (VBS): But now I understand. You were thinking about her.
@@ -151,20 +139,16 @@ Miku (VBS): I can see why.
 Miku (VBS): She's your role model. It only seems natural for you to want her to outshine everyone.
 An: Yeah...
 An: But it might be time for me to grow out of that.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: ————! ————~~~!!
-(White cut)
+(White transition)
 (Background change)
 Nagi: ♪————————!!
 Taiga & Ken: ♪————————!! ♪——!! ——!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I still have a long ways to go...
 An: If I want to keep singing alongside Kohane...
@@ -190,4 +174,4 @@ Miku (VBS): Hehe.
 Miku (VBS): Also, An, you still plan on practicing on your own for a bit, right? Mind if I join you?
 An: Of course! Here we go!
 An & Miku: ————! ——! ——!
-(Black cut)
+(Black transition)

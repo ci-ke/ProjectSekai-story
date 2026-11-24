@@ -2,7 +2,7 @@
 
 (Character: 東雲絵名, 暁山瑞希, 初音ミク, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [瑞希の部屋]
@@ -25,7 +25,7 @@
 瑞希: （イントロで、絵の真ん中の月が浮かび上がる感じにして……。 あ、最初はカラー補正してレトロ感出すとか……）
 瑞希: （少し手間かかるけど、パーツわければ アニメーションも作れそうだな……あとは——）
 瑞希: ……ちょっとエフェクト乗っけてみようかな。 ちょっとだけ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌朝]
@@ -41,10 +41,8 @@
 瑞希: （えっと、あの絵を描いた人のアカウントは……）
 瑞希: （——えななんさん、か。 名前見てなかったけど…… 絵の雰囲気と違って、結構ポップな名前だな）
 瑞希: （DM、何から書こう。 ……とりあえず自己紹介からかな。ええと——）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ——それが、ボクが初めて作ったMVだったんだよね
 ミク (N25): そうだったんだ……
@@ -87,7 +85,7 @@
 絵名: うん。でも、私は夜間なんだ
 絵名: ……そこに入るまでにもいろいろあってさ。 ま、簡単に言うと——
 絵名: ……私は、どうしても入りたかった絵の学校に、 落ちちゃったんだよね……
-(White cut)
+(White transition)
 (Background change)
 
 [約１年前]
@@ -100,20 +98,16 @@
 絵名: ……はぁ……
 絵名: （……大丈夫。落ちついて。 ここまでずっと描いてきたんだから……）
 絵名: （小さい頃からたくさん描いて……、 教室にだって、前までずっとずっと通って——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 父親: お前に、画家になれるほどの才能はない
-(White cut)
+(White transition)
 (Background change)
 雪平: ……今の東雲さんに言うことは、何もありません
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: …………！
 絵名: （……違う！　そんなことない！ 私はちゃんと……私は——）
 試験監督: ——開始時刻になりました
@@ -122,32 +116,24 @@
 絵名: （まずい、集中しきれてなかった……！ 試験課題の紙は——これだ。内容は……）
 絵名: （鉛筆デッサンのガラス瓶……！　やった……！ それなら得意なほう！）
 絵名: （……完璧に仕上げて、絶対に、見返してやる……！）
-(Black cut)
+(Black transition)
 絵名: （…………ダメだ）
 絵名: （バランスがとれてない……。 もう１回……もう１回描かなくちゃ……！）
 絵名: （嘘でしょ……なんでこんなに描けないの？ 絵画教室に行ってた時は、ちゃんと描けてたのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雪平: ……今の東雲さんに言うことは、何もありません
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: （……やっぱりダメだ。 どうしよう……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 父親: お前に、画家になれるほどの才能はない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （——私がちゃんとできてるって思ってただけで、 実は、全然……）
 試験監督: ——試験終了５分前です
@@ -157,10 +143,10 @@
 絵名: （嫌！　そんなの絶対嫌！ だって、落ちたら……落ちちゃったら——）
 絵名: う……う……！
 絵名: う————
-(Black cut)
+(Black transition)
 (Background change)
 父親: お前に、画家になれるほどの才能はない
-(Black cut)
+(Black transition)
 (Background change)
 絵名: ——うるさい！！
 絵名: うるさい……！ うるさい！　うるさい！！　黙れ！！
@@ -178,4 +164,4 @@
 絵名: 画家に——
 絵名: （なら……描かなくちゃ……）
 絵名: 描いて……あんたが言ったことは間違ってるって、 証明しなくちゃ……
-(Black cut)
+(Black transition)

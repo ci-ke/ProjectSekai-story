@@ -9,14 +9,14 @@ Haruka: Yeah, you're right. She did mention something about Tenma's group needin
 Minori: Oh, right... I've been meaning to ask Kohane about that since she's in Saki's group, but I haven't seen her for a while now either...
 Haruka: Oh, there go the lights. Does this mean that they're about to start...?
 Haruka: Huh? Wait, is that...?
-(Black cut)
+(Black transition)
 Saki: Hello, everyone♪ Welcome to Saki and Emu's magic show!
 Saki: We were actually supposed to do our real performance now, but we ran into some trouble and need a little more time to get ready...
 Saki: We apologize for making you all wait like this! But in the meantime, we'd like to do a magic show for you! We hope you like it♪
 Minori: They ran into some trouble? So they're doing a magic show instead...?
 Haruka: I don't really understand either, but I guess they're buying time for their other group members...?
 Saki: Alright, I hope you're ready. Presenting our great magician, Emu!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage Wing]
@@ -28,7 +28,7 @@ Emu: Hehe. Especially since we're the same height in SEKAI!
 Emu: Anyway, Miku, I'll be counting on your help...!
 Miku's Voice (Miku-WxS): <You got it! I'll tell you exactly what you need to do, so don't worry☆>
 Emu: Thanks! Alright, let's use our magic to make everyone smile!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Lodge Gym)
 Saki: Let's give our star a big round of applause!!
@@ -47,11 +47,11 @@ Emu: (Shiho said that she'll give us a signal when they did...)
 Emu: (I'm sure they're doing their best. That means Saki and I need to keep trying too...!)
 Emu: Next, these cards will magically turn into... Mr. Fishy!
 Saki: What? Mr. Fishy?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000093/bg_a000093.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000093/bg_a000093.webp)
 Emu: Three, two, one... Wonderhoy!!
 Saki: Whoa, they turned into a fish plushie!
-(White cut)
+(White transition)
 (Background change)
 Minori: Haruka, that was so cool! How on earth did she just do that?!
 Haruka: I don't know either. It's also incredible how they had time to work on this alongside their actual performance...
@@ -68,7 +68,7 @@ Emu: (Thank goodness, they made it back! We did it, Saki! We can do our real per
 Emu: And Mr. Fishy being back home in the ocean means our magic show must sadly come to an end!
 Saki: Thanks, everyone! We hope you enjoyed it!
 Emu: Bye bye!!
-(Black cut)
+(Black transition)
 (Background change)
 Honami: Thank you for being so patient!
 Kohane: Yes, thank you both. How did you come up with that act so fast...?
@@ -84,7 +84,7 @@ Emu: Thanks, Miku. That magic show was so much fun!
 Miku (WxS): <You're very welcome! I'm glad everyone liked it♪>
 Miku (WxS): <I hope your song goes just as well! I'll be cheering for you, Emu!>
 Emu: Yeah!! It's gonna be amazing!
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: Hey, I'm back.
 Minori: Shiho! Where were you?
@@ -120,4 +120,4 @@ Kohane: ——! ——♪
 Kohane & Emu: ——♪ ————♪
 Honami: (Let's keep this up until the end...!)
 Kohane & Emu: ——! ————♪
-(Black cut)
+(Black transition)

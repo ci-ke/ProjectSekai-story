@@ -19,7 +19,7 @@ MEIKO: ……誰か、泣いてるわ
 MEIKO: この声……。 もしかして、この欠片から……？
 MEIKO: 欠片だからって、このまま放っておけないわね！
 MEIKO: ——あなたの想いに、少し触れさせてちょうだい
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -70,22 +70,18 @@ MEIKO: あなたも泣いてるじゃない……
 名前のない少女: あ……これ？
 名前のない少女: 大丈夫。わたしの半分はあの子でできているから、 勝手にこうなっちゃうみたい
 MEIKO: 半分は、あの子で……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 名前のない少女: あの子は、自分が創る『主人公』と 自分のことが嫌いみたいなの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: （もしかしてこの子……想いの持ち主が、 自分を投影しながら創った主人公なのかしら）
 MEIKO: （きっと、いろいろな想いや願いを託して生み出した 主人公なんだと思うんだけど……）
 MEIKO: （でも、想いの持ち主は自分のことが嫌いだから、 自分と似ている主人公のことも好きになれない……？）
 MEIKO: （もしそうなら、そんなのって……）
 MEIKO: （なんだか、このままじゃいけない気がする……）
 MEIKO: （何か、私にできることはないかしら？）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -94,17 +90,13 @@ MEIKO: （何か、私にできることはないかしら？）
 
 [？？？]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 名前のない少女: まだ誰でもない、名前すらもらえていない“主人公”なの
 名前のない少女: わたしはどうせすぐに捨てられる。 他の主人公達もそうだったから
 名前のない少女: あの子は、自分が創る『主人公』と 自分のことが嫌いみたいなの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: （このままずっと自分を嫌い続けて——）
 MEIKO: （もうひとりの自分ともいえる『主人公』達まで 否定し続けたら……）
 MEIKO: （この子達だけじゃなくて、 自分の想いさえも捨ててしまうかもしれない）
@@ -128,7 +120,7 @@ MEIKO: この世にどれだけの人がいて、 どれだけの物語があっ
 MEIKO: あなただけが、あなたの物語の主人公なの
 名前のない少女: …………！
 MEIKO: さあ！　あなたについて書いてある原稿用紙を探しましょ！
-(Black cut)
+(Black transition)
 MEIKO: ……えっと、これは……。 ファンタジーの設定っぽいから、さすがに違いそうね
 MEIKO: あなたのほうはどう？
 名前のない少女: ない……
@@ -188,8 +180,8 @@ MEIKO: これからも、私はそばで見守っているわ。 想いの持ち
 名前のない少女: あ……、あのっ……！　待って……！
 名前のない少女: 名前……
 名前のない少女: あなたは、あるんでしょ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000237/bg_s000237.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000237/bg_s000237.webp)
 MEIKO: 私は『MEIKO』よ
 名前のない少女: 『MEIKO』……
 MEIKO: ええ。 自分で言うのもなんだけど……
@@ -198,12 +190,12 @@ MEIKO: たくさんの人に大切にしてもらって、愛されてる—— 
 名前のない少女: いつか、わたしも……。 そんな素敵な名前がもらえるかな
 MEIKO: 大丈夫。 想いの持ち主が、あなたにピッタリな名前をくれるわ
 MEIKO: とびきり素敵な物語と一緒にね
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 名前のない少女: 行っちゃった……
 名前のない少女: ……そういえば、 設定が書いてある原稿用紙を探してたんだっけ
 名前のない少女: ……あの子は、わたしにどうなってほしかったんだろう
 名前のない少女: …………
 名前のない少女: ……探そう。 ——ちゃんと、自分で見つけなくちゃ
-(White cut)
+(White transition)

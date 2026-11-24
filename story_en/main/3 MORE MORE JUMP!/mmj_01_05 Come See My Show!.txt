@@ -4,13 +4,13 @@ mmj_01_05 Come See My Show!
 
 [Miyamasuzaka]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000012/bg_a000012.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000012/bg_a000012.webp)
 Photographer: Great! That's perfect! I hope we get the chance to work together again soon!
 Shizuku: Thank you for today. I look forward to the next shoot.
 Manager: Shizuku, your dance lessons for the new song are going to start soon. We should get going.
 Shizuku: Right.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cheerful*Days Theater]
@@ -19,7 +19,7 @@ Trainer: All right, that's enough for today!
 Member: Thank you!
 Shizuku: Next up I've got the radio recording, then it's...
 Shizuku: Oh, where's my towel? Did I leave it in the locker room?
-(Black cut)
+(Black transition)
 Shizuku: (Hm? Sounds like somebody's inside.)
 Member A: Shizuku got another solo photo shoot for a magazine cover. This is clearly favoritism.
 Member B: Yeah, I guess a pretty face is all they care about. We're clearly better at singing and dancing than she is.
@@ -27,7 +27,7 @@ Shizuku: (Not this again...)
 Shizuku: Sorry, have you seen my towel around anywhere?
 Member A: Oh!
 Shizuku: Oh, there it is. Well, see you later. I hope our next show goes well.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -53,7 +53,7 @@ Shizuku: At least, that's what someone taught me a long time ago.
 Shizuku: Heh. Sorry for getting so serious all of a sudden.
 Shizuku: I think you're wonderful just the way you are, Minori. All you have to do is believe in yourself.
 Minori: Right! Thank you!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -72,7 +72,7 @@ Minori: R-Right! Thanks, Haruka.
 Minori: (Haruka is so amazing. Not only is she pretty, but she's kind as well.)
 Minori: (The more I get to know her, the more I want to be an idol just like her!)
 Minori: Wah! Wh-What the?!
-(White cut)
+(White transition)
 Miku (MMJ): <Hi, Minori!>
 Minori: M-Miku?! Again?
 Miku (MMJ): <Sorry for startling you like that.>
@@ -82,7 +82,7 @@ Haruka: .....
 Miku (MMJ): <I'd love for all of you to come watch our show! I'm sure you'll feel better afterward!>
 Minori: Your show?
 Miku (MMJ): <Just take a look at your playlist! SEKAI will be waiting for you!>
-(White cut)
+(White transition)
 Minori: Ah, she disappeared again.
 Airi: That's GOTTA be some new kind of advertisement. Sure seems real.
 Shizuku: She mentioned SEKAI. I'm pretty sure she said the same thing last time, too.
@@ -92,4 +92,4 @@ Airi: Untitled? As in, it doesn't have a name?
 Minori: You think she meant for us to listen to this?
 Haruka: ?!
 Minori: Wahh?! My phone is lighting up!
-(White cut)
+(White transition)

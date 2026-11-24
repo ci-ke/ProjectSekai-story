@@ -24,7 +24,7 @@ KAITO (WxS): Yes, I like your thinking! Count me in.
 Luka (WxS): Hehe. Me too. It sounds like fun.
 Miku (WxS): Alright, that settles that☆ Let's start by deciding what kind of story we're gonna do♪
 Len (WxS): Awesome! Thanks, you guys!
-(Black cut)
+(Black transition)
 Len (WxS): The samurai help people along the way and battle against the big, bad ogre... Sounds like a fun and exciting show!
 Rin (WxS): Good luck as the hero, Len☆
 Len (WxS): Thanks, but I'm gonna need to practice a lot!
@@ -32,7 +32,7 @@ KAITO (WxS): Then, let's start practicing our sword fighting.
 KAITO (WxS): The three of us will be the ones primarily involved in those scenes, MEIKO, Len, so let's try practicing together.
 Luka (WxS): Then, the rest of us will watch.
 Len (WxS): Okay, I'll go grab the practice swords!
-(Black cut)
+(Black transition)
 Len (WxS): “Hiyah!”
 Miku (WxS): Whoa!
 KAITO (WxS): That last one felt very powerful. Your step and swing occurred simultaneously.
@@ -41,7 +41,7 @@ Len (WxS): Really? Thanks!
 Luka (WxS): Hehe. Good for you, Len.
 MEIKO (WxS): Next, KAITO, it's you and me! Which scene would you like to do?
 KAITO (WxS): Well, how about the scene where my character comes face to face with the ogre for the very first time...?
-(Black cut)
+(Black transition)
 KAITO (WxS): “...”
 MEIKO (WxS): “...”
 Rin (WxS): Wh-Whoa, this tension...
@@ -49,7 +49,7 @@ Len (WxS): Yeah, everything's at a standstill... This is nothing like the stunts
 Len (WxS): (And nothing like what I just did... Is this what a sword fight in a historical drama's supposed to feel like?)
 Len (WxS): (I...)
 Len (WxS): (I wanna learn how to do that.)
-(Black cut)
+(Black transition)
 KAITO (WxS): Phew... Nice work. The tension we created was good, but I feel like we can make things feel more dynamic by using more space...
 MEIKO (WxS): Agreed! Let's try doing that next!
 Len (WxS): Uh, hey... MEIKO! KAITO!
@@ -74,19 +74,15 @@ Len (WxS): Boring? What do you mean...?
 MEIKO (WxS): For example, practicing your downswing over and over or learning how to change your stance based on what your opponent does. Also, meditating while sitting in the correct position!
 MEIKO (WxS): As you get used to holding a sword and learn what to do during the periods of brief calm, your sword fighting skills should start naturally improving.
 KAITO (WxS): Although, I feel that he should be allowed to sit however he wants when he meditates...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: So, in order to make our dreams come true, let's make our play about Ushiwakamaru a good one.
 Emu: Yeah!
 Emu: Alright, let's all do some of those exercises again together!
 Emu: Starting from the top of the Kijima Special! Sprinting at full speed! Let's go!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (WxS): (Emu and the others are doing their best right now, so I...)
 Len (WxS): (I should also be doing what I can to put on the performances that I want!)
@@ -99,7 +95,7 @@ KAITO (WxS): So, I'll join you. Let's learn together...
 Len (WxS): KAITO...!
 Len (WxS): *Nod* Thanks!
 MEIKO (WxS): Hehe. Then, let's get started and do what we can until our show!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -116,7 +112,7 @@ MEIKO (WxS): Hehe. You seem so excited, Len!
 KAITO (WxS): I thought you might be nervous, but it looks like you'll be just fine.
 Len (WxS): Yeah. All that's left is for me to do what I did during practice!
 KAITO (WxS): I'm glad you're the protagonist. Anyway, let's get started!
-(Black cut)
+(Black transition)
 (Background change)
 Narrator (Luka-WxS): “We find a kind boy working hard on his sword fighting skills, but his timid nature prevents him from improving.”
 Narrator (Luka-WxS): “Then, his older brother, a swordsman confident in his own skills, sees this and makes a declaration.”
@@ -135,7 +131,7 @@ Big Brother (KAITO-WxS): “We have to create our own exit...! Like this!”
 Emu: Wow! He just took out all those bandits while dodging their attacks!
 Rui: Hehe. That's quite the physical feat.
 Little Brother (Len-WxS): “Whoa...!”
-(Black cut)
+(Black transition)
 Narrator (Luka-WxS): “Our two brothers continue their journey as the villagers thank them for their heroism along the way.”
 Narrator (Luka-WxS): “And the boy, who started out so timid, began to feel all this courage welling up inside of him.”
 Narrator (Luka-WxS): “Finally, they arrive at their destination. The mountain where the ogre is rumored to dwell...”
@@ -143,7 +139,7 @@ Burly Ogre (MEIKO-WxS): “Well met. I have been watching what you have both bee
 Both Brothers: “...”
 Tsukasa: She looks so powerful...
 Nene: Yeah... She hasn't moved an inch, but she's exuding this terrifying aura...
-(Black cut)
+(Black transition)
 Burly Ogre (MEIKO-WxS): “Hah! Looks like your bark was worse than your bite!”
 Big Brother (KAITO-WxS): “No! My sword...!”
 Burly Ogre (MEIKO-WxS): “What hope do you have now that your sword is broken? Try this on for size!”
@@ -163,7 +159,7 @@ Len (WxS): (Now!)
 Len (WxS): (Our swords clash and clang loudly! Okay, our audience is watching us very closely.)
 Len (WxS): (MEIKO and I just need to keep this up and stay in lockstep with each other until the end!)
 Little Brother & Burly Ogre: “...!”
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ten minutes later]
@@ -183,4 +179,4 @@ Len (WxS): (I was worried at first whether I could do what I saw them do...)
 Len (WxS): (The staredowns, the buildup of anticipation, the sense that it'll all be over in a split second...)
 Len (WxS): (But I feel like our sword fight was something out of an actual historical drama.)
 Len (WxS): (So, I should keep finding ways to grow like this...!)
-(Black cut)
+(Black transition)

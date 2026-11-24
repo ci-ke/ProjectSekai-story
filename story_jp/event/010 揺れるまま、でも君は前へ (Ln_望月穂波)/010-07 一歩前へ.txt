@@ -21,19 +21,15 @@
 穂波: （どうしよう、声が震えそう……）
 穂波: （やっぱり、怖い……。 これでみんなに嫌われたらって思ったら……）
 穂波: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （これが、今、わたしがみんなにできる 一番のことだって——信じてるから）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000045/bg_a000045.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000045/bg_a000045.webp)
 穂波: ……わたしは
 穂波: みんなが納得いく形で合唱祭に参加したいと思っています
 穂波: ですが、全員が納得できる形にするのは、 とても大変なことだとも思っています
@@ -44,7 +40,7 @@
 穂波: 自分とは違う意見にも耳を傾けて、 どうすればその人も納得できるのか、 もっと考えていきたいんです
 穂波: わたしはそのために、全力をつくします。 だからどうか——わたしに協力してください
 穂波: お願いします！
-(White cut)
+(White transition)
 (Background change)
 クラスメイトA: …………
 クラスメイトB: …………
@@ -74,7 +70,7 @@
 えむ: すごいすごーい！ 穂波ちゃん、頭いいね〜！！
 穂波: そんなことないよ。 これは、わたしだけじゃ考えられなかったし
 穂波: （みんなが、いろいろ相談に乗ってくれたから）
-(Black cut)
+(Black transition)
 穂波: ……じゃあ、曲は少し難しいですが『明日も笑って』で。 練習日は調整させて下さい。それでいいですか？
 えむ: あたしはさんせーい！
 クラスメイトA: 私も
@@ -84,4 +80,4 @@
 えむ: えへへっ♪ よかったね、穂波ちゃん！
 穂波: ……うん！
 穂波: みんな、大変だろうけど、一緒にがんばろうね！
-(Black cut)
+(Black transition)

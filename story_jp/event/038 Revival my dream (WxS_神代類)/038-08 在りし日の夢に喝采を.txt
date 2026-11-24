@@ -3,9 +3,9 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
 森の少女 (えむ): 『えーいっ！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000015/bg_s000015.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000015/bg_s000015.webp)
+(White transition)
 (Background change)
 将校 (司): 『よし……！！』
 森の少女 (えむ): 『で、できた～！　できたよ将校さん！ あたし跳んじゃった！』
@@ -24,12 +24,12 @@
 観客達: こっちまでドキドキしたね
 類: （……ああ。 僕達のショーで、客席が笑顔に染まっていく）
 類: （僕は、なんて——）
-(Black cut)
+(Black transition)
 大臣の部下 (類): 『……なぜ、森の人間と町の人間が、手を取り合って……？』
 森の少女 (えむ): 『あたし達はもう、ケンカするのはやめたの！』
 将校 (司): 『本当の敵は誰なのか、私達は知った。 それは——私達を憎みあわせようとする、お前だ！』
 大臣の部下 (類): 『く……うわあ！』
-(Black cut)
+(Black transition)
 司: 本日はご来場いただき、 まことにありがとうございました！
 えむ・寧々・類: 『ありがとうございました！』
 観客達: 楽しかったわね！
@@ -48,7 +48,7 @@
 えむ: あっ！ もしかして、あたしどこか間違えちゃったかな！？
 えむ: それで怒ってたらどうしよう……！ 類くんに聞いてくるー！
 寧々: あ、えむ！
-(Black cut)
+(Black transition)
 類: よし。この金具を外して……
 えむ: 類く～ん！！
 類: ん？ どうしたんだい、えむくん
@@ -101,4 +101,4 @@
 寧々: わたしが歌うシーンも、いい演出つけてよね？
 類: ……フフフ。 そうだねえ。それじゃあ次は——
 類: ——こんな演出はどうだい？
-(White cut)
+(White transition)

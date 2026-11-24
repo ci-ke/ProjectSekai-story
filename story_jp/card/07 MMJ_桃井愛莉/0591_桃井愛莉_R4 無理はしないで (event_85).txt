@@ -16,20 +16,16 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 愛莉: トークの雰囲気を掴むためにも、 ふたりが出てる番組をいくつか見ておかなくちゃ
 愛莉: たしか、この前録画した音楽番組がそうだったはず……
 愛莉: （それにしても、MORE MORE JUMP！の 最初のテレビ出演でチアデと共演って、なんなのよ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 メンバーA: 本当、見た目がいいって得だよね。 こっちは必死で頑張ってるのに……
 雫: …………
-(White cut)
+(White transition)
 アリサ: あーあ、本当……
 アリサ: 雫がいなくなってくれてよかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: ……はー、ダメダメ。 Cheerful＊Daysの情報収集に集中しないと！
 愛莉: 録画は——あった、これだわ
@@ -50,16 +46,12 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 アリサ: 『♪——！！　♪————！！』
 (Background change)
 愛莉: ……チアデってこんなに歌もダンスも、うまかったのね。 息もしっかりあってるし……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: 雫がいなくなってくれてよかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: …………
 愛莉: （……雫も言ってたけど、あの子達も最初は お互いに支えあって切磋琢磨していたのよね）
@@ -71,20 +63,16 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 愛莉: でも……雫の脱退については、 向こうにとってもいい話じゃないわ
 愛莉: ていうかそんな話、番組側は喜ぶだろうけど、 さすがに事務所が止めるわよね……？
 愛莉: うーん。相手の出方がわからないっていうのは 不安ではあるけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: （誰よりもいろいろ思うところがあるはずの雫が 気合い入れてがんばろうとしてるんだもの）
 愛莉: ——よし
 愛莉: 他の番組もチェックして、どんな質問されそうか 対策でも立てておこうかしらね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -95,7 +83,7 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 
 [宮益坂女子学園　屋上]
 
-(Black cut)
+(Black transition)
 愛莉: ——さて、みんな振りは覚えられたみたいだし。 ひと休みしたあと、動画を撮って確認してみましょうか
 雫: それじゃあ、今日は私が録画係をするわ。 ええと、まずスマホのカメラを起動して……
 愛莉: え、ちょっと大丈夫なの？
@@ -114,19 +102,15 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 雫: それをどう受け取ってもらえるかは、 見てくれた人次第だから
 愛莉: ……まあ、心配なのはわかるけど、 わたしはきっと大丈夫だと思うわ
 愛莉: あの時の雫の言葉、すごく胸に響いたもの
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: みんなは、私が思っていた以上に、 ありのままの私を受け入れてくれたの
 雫: そうしてみんなの温かさに恵まれて、 緊張しながら少しずつ……
 雫: 私も……私も、見てくれているみんなと同じように、 素の自分を——アイドルとして認められるようになって
 雫: ああ、このままでいていいんだって思えた時に、ふと気づいたわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: ……もちろん、その場にいたからっていうのも、 悩んできた雫を知ってるからっていうのもあるんだろうけど……
 愛莉: でも、あの時のアンタの表情を見れば、 うそを言ってるなんて誰も思わないわ
@@ -137,7 +121,7 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 みのり: さんせーい！　この前は始まる前に寝ちゃったから、 リベンジしたいと思ってたんだ！
 愛莉: ほんと、爆睡だったものね～。 寝言まで聞こえてきてたし
 愛莉・みのり・遥・雫: 『ふふっ』 『あはは……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -154,15 +138,11 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 雫: ありがとう、愛莉ちゃん。 でも、特に愛莉ちゃんには感謝したいな
 愛莉: え、どうして？
 雫: ……前に、小学校でやったイベントのこと覚えてる？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 愛莉: ちゃんと届けられていたのね。 ——あの時のわたしも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 雫: 私は、ハッピーエブリデイの愛莉ちゃんからも たくさんの希望をもらっていたから
 雫: 愛莉ちゃんにその想いが伝わった気がして、 すごく嬉しくなったの
 雫: それにね、『じゃあ私はどうなんだろう？』 『Cheerful＊Daysの頃の私を認めてあげられるのかな』 って、少し考えるようになったんだよ
@@ -181,4 +161,4 @@ Gacha phrase: アンタ、本当に大丈夫なの？
 雫: ……！ うん、すごく素敵だと思う！
 雫: 私も、一緒に頑張っていいかな？
 愛莉: 当たり前でしょ。 アンタだってMORE MORE JUMP！のひとりなんだから
-(Black cut)
+(Black transition)

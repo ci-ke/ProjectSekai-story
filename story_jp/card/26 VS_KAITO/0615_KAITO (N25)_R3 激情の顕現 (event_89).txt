@@ -57,10 +57,10 @@ KAITO: ……これか。 俺が、ここに呼ばれた理由は……
 ミク (N25): え……？
 ミク (N25): あ、カイ——
 KAITO: ついて来るな
-(Black cut)
+(Black transition)
 KAITO: （想いの持ち主……まふゆ、だったな）
 KAITO: （他の誰も言わないなら、俺が現実を突きつけてやる）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -93,16 +93,12 @@ KAITO: 好きにしろ。 聞く聞かないは俺の好きにさせてもらう
 絵名: ちょっと、盛りすぎってなに？ ひとこと余計なんですけど？
 KAITO: …………
 KAITO: （こうして話してるだけだと、 いたって普通の連中に見えるな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ミク (N25): ……まふゆと同じように『消えてしまいたい』って 思ったことがあるみたい
 ミク (N25): だから、まふゆのつらさをすごくよくわかってくれる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 KAITO: ……お前達は、あいつをどう思ってるんだ？
 奏: え……
 絵名: あいつって、まふゆのこと？
@@ -118,17 +114,13 @@ KAITO: 俺があいつと話している時、お前もいただろう。 あい
 絵名: だね……
 KAITO: ……そうか
 KAITO: （元凶と戦うのが一番手っ取り早いんだがな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆ: 私は『嫌』って言ったの……！ 音楽をやりたいっていうことも、伝えたの！
 まふゆ: でも……！　それでも、聞いてもらえなかった……
 まふゆ: これ以上、どうすればいいって言うの……！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 KAITO: （あの様子じゃ、別のアプローチも考えないとな……）
 KAITO: ……話は、これで終わりか？
 奏: え？　あ……うん、自己紹介はさせてもらったし。 カイトが、わたし達に聞きたいことがなければ……
@@ -141,4 +133,4 @@ KAITO: ……見てたのか
 KAITO: ——さあな
 ルカ: あら、そう？
 ルカ: じゃあ、その感想がどう変わっていくのか 楽しみにしているわ
-(Black cut)
+(Black transition)

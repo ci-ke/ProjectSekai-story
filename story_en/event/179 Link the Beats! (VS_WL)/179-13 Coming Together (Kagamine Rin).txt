@@ -41,7 +41,7 @@ Nene: We don't do it often... But we should be able to. We do a lot of improv du
 Rin (Ln): Really...? Then, I wanna give it a try!
 Len (WxS): Woohoo! Alright, what kind of show are we gonna do?!
 Emu: Let's see... Oh, how about this kind of story?
-(Black cut)
+(Black transition)
 Girl (Rin-Ln): “Wow! So this is the magic amusement park?! It looks really fun!”
 Girl (Rin-Ln): “I wanna go on the Ferris wheel and the roller coaster... Oh, but I'm gonna ride the merry-go-round first!”
 ???: “No, I don't wanna!”
@@ -56,7 +56,7 @@ Sorceress (Nene): “That's terrible... If you don't get it back before the sun 
 Girl (Rin-Ln): “B-Before the sun goes down...?”
 Sorceress (Nene): “You won't be able to go home.”
 Girl (Rin-Ln): “Huh...? Whaaat?!”
-(Black cut)
+(Black transition)
 Girl (Rin-Ln): “Wait! If you don't come back, then I'm gonna be in trouble!”
 Girl's Shadow (Rin-WxS): “No way☆ I'm gonna go have lots and lots of fun.”
 Girl (Rin-Ln): “Argh! She's so slippery! What do I do...?”
@@ -76,7 +76,7 @@ Rin (Ln): (Hey, I'm doing pretty well, aren't I?! Maybe I could even be a real a
 Rin (Ln): (No, I know that the others are giving me a ton of support! Hehe. But this is still really fun.)
 Rin (Ln): (Anyway, I need to think of what to say next. What would my shadow think of as fun?)
 Rin (Ln): Oh, I know...!
-(Black cut)
+(Black transition)
 Girl's Shadow (Rin-WxS): “Humhumm♪ What should I do next?”
 Girl's Shadow (Rin-WxS): “Since I'm free, I should do all the things I can't do while I'm stuck as her shadow☆”
 Girl's Shadow (Rin-WxS): “I've ridden the Ferris wheel, played tag with everyone... Hmm... What else is there...?”
@@ -99,7 +99,7 @@ Rin (Ln): (My performance is part of their show, and their show is part of my pe
 Rin (Ln): (It's like two different SEKAI being connected together!)
 Boy Cast Member (Len-WxS): “Alright, let's dance to their singing!”
 Female Cast Member (Luka-WxS): “Hehe. This is so much fun.”
-(Black cut)
+(Black transition)
 Girl's Shadow (Rin-WxS): “Phew... We sang and danced so much... That was a lot of fun.”
 Girl (Rin-Ln): “Hehe. Do you feel satisfied?”
 Girl's Shadow (Rin-WxS): “Yeah! I really just wanted to do something fun for myself. I've always just been stuck to you, after all...”
@@ -108,7 +108,7 @@ Girl's Shadow (Rin-WxS): “I had a lot of fun singing and dancing together...�
 Girl (Rin-Ln): “Me too! I'm so glad I got to play with you!”
 Girl's Shadow (Rin-WxS): “Then, I guess this counts as us making up☆”
 Girl (Rin-Ln): “Yeah. Let's do this again sometime!”
-(Black cut)
+(Black transition)
 Rin (Ln): *Sigh* Doing a show was so much fun!
 Rin (WxS): See what we mean♪ Also, Rin, you put on such a cool performance!
 Nene: Yeah, I had a lot of fun singing along.
@@ -145,17 +145,13 @@ Emu: Yeah! Let's keep doing our best! Wonderhoy!
 Rin (Ln): Wonderhoy!
 Rin: Hehe♪ Meeting a different me from another SEKAI seems like so much fun!
 Rin: Plus...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Rin: That feeling of SEKAI and SEKAI connecting together...was really exciting!
 Rin: It feels a little strange... But I'm so happy, too!
 Rin: Good for you, “me”!
-(Black cut)
+(Black transition)
 (Video: link2_ppr_ed6)
-(Black cut)
+(Black transition)

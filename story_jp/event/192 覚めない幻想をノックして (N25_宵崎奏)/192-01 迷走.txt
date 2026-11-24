@@ -12,15 +12,11 @@
 奏: （この前から、ずっと違和感がある）
 奏: （……本当に、このままで救えるの？）
 奏: （だって、まふゆは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ？？？: 『——奏』
 奏: ルカ、どうしたの？
@@ -35,15 +31,11 @@
 奏: まふゆが『あたたかい』って言ってくれる曲は、 お母さんの愛情を感じた記憶と似てるからって
 ルカ (N25): 『ええ、そうだったわね』
 奏: うん、でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……まふゆのお母さんと会って、あたたかさを感じたんだ
 奏: 今でも——まふゆを心から愛してるんだなって
@@ -65,4 +57,4 @@
 奏: え？　あ……
 奏: ——うん、……うん
 奏: ……わかった、じゃあ今週末に
-(Black cut)
+(Black transition)

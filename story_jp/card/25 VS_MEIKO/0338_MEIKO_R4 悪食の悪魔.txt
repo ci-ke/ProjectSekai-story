@@ -20,22 +20,20 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): 本当にいろいろな物を味わってきたから、 きっと楽しい話ができると思うわ♥
 バニカ (MEIKO): ——そう、聞いてくれるのね。 フフ、ありがとう
 バニカ (MEIKO): それじゃあ……、前菜代わりにまずは子供の頃のことを 聞いてもらっちゃおうかしら
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 幼いバニカ (MEIKO): 私、もうこれ以上いらない
 母: ……食べなさい。残してはいけません
 幼いバニカ (MEIKO): でも……
 母: 食べなさい！！ さあ、口を開けて！！
 幼いバニカ (MEIKO): やだっ！　やめてよ、お母さま……！！
 母: 私がこんなにも苦しい思いをしているのに！ どうして……！！　どうしてあなただけ……！！
-(White cut)
+(White transition)
 (Background change)
 バニカ (MEIKO): 子供の頃の食事は自由がなかったわ。 ただ、食べて食べて……そして、また食べて食べての繰り返し
 バニカ (MEIKO): すべてはグーラ病のせいよ。 私はかかっていなかったけれど……
 バニカ (MEIKO): ああ、グーラ病はご存知かしら？
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): 悪食の悪魔が宿るグラスによってもたらされる病……、 いえ、呪いよ
 バニカ (MEIKO): その呪いにかかると、あらゆる物に対して 『食べてみたい』という気持ちがあふれてくるの
@@ -43,10 +41,8 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): そうならないためには、 『食べたい』という気持ちがおきないように 胃袋を常に満たしておかなければいけない
 バニカ (MEIKO): 味を楽しむ余裕なんてない。 死にたくない一心で食べ続けるのよ
 バニカ (MEIKO): ……屋敷のほとんどの者が命を落としたわ。 そしてお母さまも……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 バニカ (MEIKO): フフ。前菜にしてはちょっと濃い味つけだったかしら？
 バニカ (MEIKO): それじゃあ口直しに、甘酸っぱい初恋の話はいかが？
@@ -55,22 +51,18 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): 彼と一緒に街を歩いたり、 食事の話をしたりするのは楽しかったわ
 バニカ (MEIKO): いろいろあって、 婚約は白紙になってしまったけれど……
 バニカ (MEIKO): でも、私には『食事』の楽しみがあったわ
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 バニカ (MEIKO): 食べたいものを自由に選んで、 生きるためだけじゃなく、食材を味わい楽しむ——
 バニカ (MEIKO): それを、国の人達にも知ってほしかった。 貴族も平民も関係なく……
 バニカ (MEIKO): だから婚約が白紙になった時も、 父を亡くした時も、食の探求に没頭したわ
 バニカ (MEIKO): 美味しい食事でお腹がいっぱいになると、 胸にあいた穴が少しずつ埋まっていくような、 そんな気がしたの……
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 バニカ (MEIKO): フフ。だからかしらね、 悪魔が私に囁いたのは——
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): はぁ……はぁ……
 バニカ (MEIKO): （……息をするのって、こんなに苦しかったかしら）
@@ -91,16 +83,16 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): 悪魔に魂を売れと言うのね……。 母やこの屋敷の使用人達を殺した悪魔に……
 バニカ (MEIKO): ——お断りよ。 お前と交渉する気はないわ
 悪魔: ……まあよい。だがひとつ、置き土産をしてやろう
-(Black cut)
+(Black transition)
 (Background change)
 悪魔: グラスの中身——それは我の体の一部でもあり、 お前が望んだ物でもある
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): ……私が、望んだ物？
 悪魔: 口にすれば、契約は完了する
 悪魔: ——もう一度言っておくぞ、バニカ＝コンチータ
 悪魔: お前から『食』をとって、何が残るというのだ？
-(Black cut)
+(Black transition)
 バニカ (MEIKO): ……なん、だったの？
 バニカ (MEIKO): ……新しい、『食』の世界……
 バニカ (MEIKO): （でも、私が食べていない物なんて…… 知らない『食』なんて、本当にあるのかしら）
@@ -108,11 +100,11 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): ——いえ、ひとつだけ……
 バニカ (MEIKO): 伝説の赤豚『バエム』だけは 世界中どこを探しても見つけられなくて……
 バニカ (MEIKO): まさか、置き土産って……！
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): この赤黒い色合い、ねっとりとしたとろみ、 そして……鉄の臭い
 バニカ (MEIKO): これは……、これは……あの『バエム』の生き血！？
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): …………
 バニカ (MEIKO): ……駄目よ……これを飲んだら、私は……
@@ -120,13 +112,13 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): …………
 バニカ (MEIKO): （……『食』への探求心）
 バニカ (MEIKO): （私から『食』をとって 一体、何が残るというの……？）
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): ——ああ。とても……とても懐かしい食事の話ができたわ
 バニカ (MEIKO): フフ。でも、まだ聞いてほしい話があるの
 バニカ (MEIKO): 次は、涙が出るほど美味しかった食事について、 話をしましょうか
 バニカ (MEIKO): フフ……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -137,22 +129,20 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): ああ、そういえば……。 私の話しかしていなかったわね
 バニカ (MEIKO): フフ、双子の侍従とコックの話をしようかしら。 きっといいスパイスになるわ♥
 バニカ (MEIKO): それじゃあ、まずは双子の——アルテとポロから
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): 姉のアルテは、短気ですぐ『戦争よ、戦争！！』って 騒ぎだすけど、仕事はできるし、料理もできるわ
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): 弟のポロはちょっと単純だし、礼儀作法も苦手だけれど、 性格は多分、アルテよりはいいんじゃないかしら？
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): ふたりとも、私が生まれた頃からずっとそばにいて、 ずっと出会った頃のままの姿で、成長しないのよね
 バニカ (MEIKO): 私と同じくらい、しっかり食事はしていたはずなのに 不思議よね？　フフ……
 バニカ (MEIKO): ——あと紹介が必要なのは、コックのヨーゼフね
 バニカ (MEIKO): ……４人で屋敷で過ごした日々は、 なかなか楽しかったわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [バニカの部屋]
@@ -169,10 +159,8 @@ Gacha phrase: さあ、残さず食べなさい
 ポロの声: ゲヒヒ
 アルテの声: 何度も引っかかってバカよ、バカ！！ バ～カ！
 バニカ (MEIKO): ……まったく、あの子達は
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 バニカ (MEIKO): ——ヨーゼフが作る料理は斬新で、 とても美味しかったわ
 バニカ (MEIKO): それに……とびきりの隠し味を、 彼は持っていたの
@@ -180,10 +168,8 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): 最初はわからなかったけれど、 彼は、私がかつて叶わぬ恋をしたあの人だったのよ
 バニカ (MEIKO): 会いに来てくれたのよ、私に
 バニカ (MEIKO): ああ……。思いだすわ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 バニカ (MEIKO): ふたりで過ごした夜のことも、 部屋で一緒に食事をした時のことも——
 バニカ (MEIKO): 悪魔と契約した私すら、意識が遠のきかけるほどの 猛毒のスープは、本当に刺激的だったわ
@@ -191,10 +177,8 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): でも悪魔と契約していた私は死なず、 彼だけが、私をおいて遠くへ行ってしまったわ
 バニカ (MEIKO): それでも彼は、最高の食材を残してくれたのよ
 バニカ (MEIKO): 『最愛の人』という食材を……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 バニカ (MEIKO): ああ……。ああ、ああああ、ああああ……
 バニカ (MEIKO): ああ……。本当に、本当に……
@@ -206,7 +190,7 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): きっと“あの子”も 食べたら美味しかったでしょうね……
 バニカ (MEIKO): フフ。アルテとポロじゃないわよ？ あのふたりは、ちゃんと美味しかったもの
 バニカ (MEIKO): 気がついたら、屋敷には誰もいなくなっていたわ。 残されたのは空腹の私と——
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): よしよし……。 しばらく、ここで眠っていなさい
 バニカ (MEIKO): いい子ね……
@@ -239,7 +223,7 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): 食べてやるわよ、私自身を。 『悪魔』、あなたと一緒にね
 悪魔: や、やめろーーーっ！！
 バニカ (MEIKO): フフ。私は、どんな味がするのかしら♥
-(Black cut)
+(Black transition)
 (Background change)
 バニカ (MEIKO): ——これが、これまでの私の『食事』よ
 バニカ (MEIKO): 存分に味わってもらえたみたいで、よかったわ
@@ -251,4 +235,4 @@ Gacha phrase: さあ、残さず食べなさい
 バニカ (MEIKO): これからする食事の話をしようと思うのだけど、 どうかしら？
 バニカ (MEIKO): フフ。心配しないで、きっと美味しいわ♥
 バニカ (MEIKO): フフフ……
-(Black cut)
+(Black transition)

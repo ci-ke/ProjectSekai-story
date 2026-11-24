@@ -9,17 +9,13 @@ Gacha phrase: ……本当に、いいの？
 
 [誰もいないセカイ]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 絵名: ——会って、もう１回話がしたいって
 絵名: 瑞希と、友達でいたいって——
 絵名: そう、思うことも、 瑞希を苦しませることなのかな……？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (N25): （……何をするにも、まず瑞希に会う必要がある）
 MEIKO (N25): （だけど……）
 ？？？: ——メイコ
@@ -29,14 +25,10 @@ KAITO (N25): 他の連中が言っていた、 『忙しいから来られない
 MEIKO (N25): ええ……
 KAITO (N25): ……何があった？
 MEIKO (N25): 詳しくはわからないわ。 ただ……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): 絵名の様子を見るに、 瑞希が秘密にしていたことが、何か望まない形で 絵名に伝わってしまったんじゃないかしら
 MEIKO (N25): それで瑞希が——
 KAITO (N25): 逃げたのか
@@ -72,14 +64,10 @@ MEIKO (N25): そう、ね……
 KAITO (N25): ……で、どうするつもりだ？
 KAITO (N25): 仮に瑞希と会えたとして—— 重要なのはその後だろ
 MEIKO (N25): 私は……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): 私は、『想いの行く先』を見届けたい
 ルカ (N25): 想いの、行く先？
 MEIKO (N25): 私は——絵名に、瑞希と話してほしいと思っている
@@ -92,7 +80,7 @@ MEIKO (N25): ええ
 MEIKO (N25): （『その時』が、たった一度きりだとしても 絵名なら必ず掴みとってくれる）
 MEIKO (N25): （だからこそ、私も届かせてみせる）
 MEIKO (N25): （絵名の言葉を、瑞希に——）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,34 +117,30 @@ MEIKO (N25): …………
 レン (N25): 瑞希ちゃんを、お願い……
 MEIKO (N25): ……ええ
 MEIKO (N25): いってくるわ
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO (N25): （出られた……）
 MEIKO (N25): （スマホの電源は入っているみたいだけど……。 真っ暗ね）
 MEIKO (N25): （……補習は放課後。しばらく様子を見ましょ）
-(Black cut)
+(Black transition)
 MEIKO (N25): （…………！）
 瑞希: はあ…………。 行かないと……
 MEIKO (N25): （……出かける準備をしているみたいね）
 MEIKO (N25): （ルカ達に知らせて、絵名達にも伝えないと）
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 MEIKO (N25): （交差点で急に行き先を変えたと思ったら、 どこかで立ち止まった……）
 MEIKO (N25): （動く気配がない……。 まさか、学校に行かないつもりかしら）
 MEIKO (N25): （……このままじゃ、絵名が瑞希を見つけられない）
 MEIKO (N25): （今が、『その時』なのかしら——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (N25): メイコは、ずっとずっと瑞希のことを 見守ってきたから……
 ミク (N25): メイコの想いと言葉なら—— わたし達の中で一番、瑞希に届くと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): （私の、想い……言葉……）
 MEIKO (N25): （私は……）
@@ -178,4 +162,4 @@ MEIKO (N25): （止めないと！）
 MEIKO (N25): （絵名の想いを、届かせるために……！）
 (Background change)
 MEIKO (N25): 『——瑞希！』
-(Black cut)
+(Black transition)

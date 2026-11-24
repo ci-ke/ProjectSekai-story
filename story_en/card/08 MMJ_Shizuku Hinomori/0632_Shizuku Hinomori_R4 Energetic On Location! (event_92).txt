@@ -33,7 +33,7 @@ Shizuku: See? So, why don't we stop by this shop? They even seem to have a seate
 Airi: Grr... I was trying to resist that temptation...
 Airi: Thanks, Shizuku. Then, let's look through your notes over some Japanese sweets.
 Shizuku: Great!
-(Black cut)
+(Black transition)
 Waiter: Thank you for your patience. Here is your matcha and sweets set.
 Airi: Thank you very much.
 Shizuku: Oh, Airi, the kitten manju you got looks so cute.
@@ -72,7 +72,7 @@ Shizuku: Exactly!
 Airi: Hehe. Then, let's buy some that we think they'll really enjoy on our way back.
 Airi: But first, we're taking a look at those notes you just took!
 Shizuku: Okay♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -92,27 +92,23 @@ Airi: Huh? No, that's totally fine. I like doing this sort of stuff, so it seems
 Airi: I mean, Shizuku, you've been helping plenty by taking minutes for our meetings and sharing them with everyone.
 Shizuku: Right...
 Shizuku: (As much as I appreciate Airi saying that...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: I'm sorry for being late! My other shoot went on longer than I was expecting.
 Group Members: How many times is that now...? I thought you asked the manager to keep this from happening.
-(White cut)
+(White transition)
 (Background change)
 Group Members: Shizuku, is it true that you're not gonna be in our next show...?
 Shizuku: I'm so sorry... It just happens to conflict with this live broadcast I'll be doing...
 Shizuku: As much as I want to prioritize our shows, they told me that they couldn't make any casting changes after they set this date.
 Group Members: We get that work is work. Still...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (I can't keep asking Airi to do everything...)
 Shizuku: (I want to do more for us.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shizuku's Room]
@@ -129,7 +125,7 @@ Shizuku: Leaving afternoons open is another trick for securing dedicated work or
 Shizuku: And this chapter goes into actually putting these ideas into practice... Starting by “writing down all of your plans for this week”...
 Shizuku: Hehe. For this, I can just use the schedule Airi put together for us...
 Shizuku: Oh, wait... That would be the same as looking at the answers in the back of a textbook...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -164,4 +160,4 @@ Shizuku, Len & Rin: Okay! Sure. Yeah♪
 Luka: Good luck, everyone♪
 Shizuku: Hehe. Thank you, Luka.
 Shizuku: (I need to learn as much as I can so that I'll be able to help Airi and the others more...)
-(Black cut)
+(Black transition)

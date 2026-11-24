@@ -2,7 +2,7 @@
 
 (Character: Shiho Hinomori)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Backstage]
@@ -78,29 +78,29 @@ Sumire: What?
 Elementary School Shiho (Shiho): I wanna learn how to play better.
 Sumire: Shiho...
 Sumire: Hehe. Okay, I'll teach you how...
-(Black cut)
+(Black transition)
 Sumire: Good. It's okay to take it slow since you're just starting out. Keep strumming alternately between your middle and index fingers, and speed things up when you feel you've got the hang of it.
 Elementary School Shiho (Shiho): Like this...?
 Sumire: Yes! You're doing great!
-(Black cut)
+(Black transition)
 Sumire: For your left hand, keep your fingers pressed down right next to the fret. That should allow you to produce nice, clean sounds with ease.
 Elementary School Shiho (Shiho): Okay. ...!
 Elementary School Shiho (Shiho): (My left hand...can't reach it...)
 Sumire: Yeah, electric basses are pretty big... But you might be able to reach if you tilt it up a little. Why don't you give that a try?
 Elementary School Shiho (Shiho): Oh, I got it... I'll try playing like this.
 Sumire: Sure, give it a go.
-(Black cut)
+(Black transition)
 Sumire: Okay, if you move your fingers in the order I just showed you, then you should be able to play this riff now. Give it a try for me.
 Elementary School Shiho (Shiho): Okay...
 Elementary School Shiho (Shiho): (Press down next to each fret with my left hand...)
 Elementary School Shiho (Shiho): (Try not to yank the strings. Just let them roll off your fingers.)
 Elementary School Shiho (Shiho): (And move your fingers in the order she just showed you. Then, you should be able to play that...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000241/bg_s000241.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000241/bg_s000241.webp)
 Elementary School Shiho (Shiho): I did it...!
 Sumire: I know! That was perfect!
 Elementary School Shiho (Shiho): Th-Thank you very much.
-(White cut)
+(White transition)
 (Background change)
 Sumire: Hehe. Still, Shiho, your focus is so impressive.
 Sumire: Everyone's been making so much noise while getting ready for the show, but you basically blocked all that out.
@@ -109,15 +109,11 @@ Elementary School Shiho (Shiho): (Yeah, come to think of it... I became so focus
 Elementary School Shiho (Shiho): (The way time flies while concentrating on accomplishing one thing...)
 Elementary School Shiho (Shiho): (I really like it...)
 Elementary School Shiho (Shiho): (Wait, this is like...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Elementary School Shiho (Shiho): (That time...)
 Sumire: I know! Shiho, why don't you take this opportunity to start playing the bass?
@@ -129,17 +125,13 @@ Elementary School Shiho (Shiho): (But is it okay for me to...?)
 Elementary School Shiho (Shiho): (When I was playing her bass just now, it felt the same as what happened then.)
 Elementary School Shiho (Shiho): (I got so caught up in what I was doing that I couldn't see anything else that was going on.)
 Elementary School Shiho (Shiho): (Which means the same thing might happen again.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate C's Voice: Right... But she promised ages ago that she'd come. Shouldn't this party take priority?
 Classmate A's Voice: Yeah... But if it didn't sound like she was gonna budge...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Elementary School Shiho (Shiho): (I made things so awkward for them...)
 Sumire: Oh, we still have some time, so why not...?!
@@ -151,4 +143,4 @@ Sumire: Wait, but...
 Sumire: Are you sure...?
 Elementary School Shiho (Shiho): Yes...
 Elementary School Shiho (Shiho): I don't wanna play anymore.
-(Black cut)
+(Black transition)

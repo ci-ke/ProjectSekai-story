@@ -31,7 +31,7 @@ Mafuyu: You should've gotten something other than the skillet steak...
 Mizuki: But I really wanted to try it♪ *Blow*... *Blow*...
 Ena: ...
 Ena: (We're all having fun but... Something still doesn't feel right...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -50,7 +50,7 @@ Akito: If that's the case, I have a teammate who's pretty close with Akiyama too
 Ena: Oh... No, I don't want to do that to you. It's not that serious or urgent so...
 Ena: I'm heading up to my room...
 Akito: Uh, alright...
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -65,7 +65,7 @@ Akito: *Sigh*... You really can't just wake up on your own?
 Ena: I will. I just want some insurance just in case too...
 Akito: Fine, whatever... Just don't cause trouble for anyone else, okay...?
 Ena: Good boy! Thanks, Akito!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -88,7 +88,7 @@ Airi's Voice (Airi): There she is! Ena, over here!
 Ena: Oh, Airi's here! Akito, you should at least say hi...
 Ena: Huh? Where'd he go? Whatever, his loss...
 Ena: Be right there, Airi!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -106,7 +106,7 @@ Ena: Oh, Airi... I just got here... *Yawn*...
 Airi: Yawning like that in the middle of the afternoon. Still a night owl, huh?
 Ena: Hehe. Yeah.
 Airi: But since you're so tired, why don't we hit up a cafe or something first?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cafe]
@@ -122,7 +122,7 @@ Airi: Oh, she even recommended me this special parfait they make here too. This 
 Ena: Whoa, that looks amazing! I bet it's a like magnet too!
 Airi: It apparently tastes as good as it looks. I think I'll get the green tea version of it.
 Ena: Then I'll get the strawberry one! Excuse me...!
-(Black cut)
+(Black transition)
 Airi: So, it's been a week since then... Has anything happened on your end?
 Ena: With Mizuki? Not really, unfortunately.
 Airi: I see. At least things haven't gotten worse, right?
@@ -135,29 +135,21 @@ Ena: But I'll make Mizuki regret not telling me sooner.
 Airi: Hehe. And I don't expect you to give up anytime soon!
 Ena: Yeah. I just want to move past this already.
 Ena: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I don't know what made Mizuki feel that way...)
 Ena: (What am I supposed to do...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: Even if this song isn't able to save you, I'll keep composing until I find the one that does.
 Kanade: I'll keep composing...until you can find yourself.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I need that sort of resolve...)
 Ena: (Kanade showed Mafuyu how determined she is...)
@@ -175,4 +167,4 @@ Airi: And look at that. Our parfaits are finally here!
 Ena: Wow, they're even better than what we saw in the pictures. Okay, which angle works best...?
 Airi: Mind giving me a few tips on how to take good pics? It's sort of been a while since we last did this.
 Ena: Hehe. No problem! For something like this, it might be best to...
-(Black cut)
+(Black transition)

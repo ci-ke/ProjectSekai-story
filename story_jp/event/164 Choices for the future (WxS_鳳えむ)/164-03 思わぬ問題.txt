@@ -17,15 +17,11 @@
 えむ: （総務のお仕事って、本当にいろいろあるんだなあ）
 えむ: （会議のお手伝いとか、施設の備品の管理とか、 会社によっても違うみたいだけど……）
 えむ: （よーし、家に帰ったら、今日メモしたことを もう一回読み直そうっと！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……涼ちゃんは、どんな風に経営の勉強をしたんだろう）
 えむ: （今度会ったら、聞いてみようかな）
@@ -55,7 +51,7 @@
 えむ: えっとね、備品の片づけしてたら、 迷子になっちゃって
 えむ: それでね、さっきの……！　えっと……
 白虎町: ……少し、場所を変えようか
-(Black cut)
+(Black transition)
 (Background change)
 白虎町: ちょうど今の時間、ここのレッスンルームは使われていないんだ
 白虎町: それで……鳳さんには、先ほどの会話が聞こえていたんだね？
@@ -70,15 +66,11 @@
 えむ: 気になること？
 白虎町: ああ。たとえば——空席の多さだ
 えむ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……うん
 えむ: こんなにおもしろい舞台なのに、 どうしてだろう？って思ったよ
@@ -132,4 +124,4 @@
 白虎町: ……仲間がいるというのは、心強いな
 白虎町: ありがとう。こちらこそ、よろしく頼むよ
 えむ: ……！　うんっ！
-(Black cut)
+(Black transition)

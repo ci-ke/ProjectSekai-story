@@ -37,7 +37,7 @@ Shizuku: Then, that's perfect. Why don't we have lunch together?
 Shizuku: How does that sound, Airi?
 Airi: Yeah, please join us!
 Mafuyu: Then, if you don't mind...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -62,7 +62,7 @@ Airi: Haha! I guess Grandma here can't really help it.
 Mafuyu: Hehe. I guess so.
 Shizuku: Why are you two laughing? Please tell me. I don't want to be left out.
 Airi: How do we explain this?
-(Black cut)
+(Black transition)
 Mafuyu: Oh, there's the bell...
 Shizuku: Yes, we should head back to our classrooms.
 Airi: Thank you for joining us for lunch, Asahina. That was really fun.
@@ -71,7 +71,7 @@ Mafuyu: I really appreciate it.
 Shizuku: You're welcome.
 Airi: Let's have lunch together again sometime!
 Mafuyu: Yes, let's.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -84,7 +84,7 @@ Mafuyu: Yes, let's.
 
 Mafuyu: (The student council starts back up again today. I ended up becoming a class representative after the teacher and my classmates fervently asked me to...)
 Mafuyu: (I guess the one positive about this is that I don't have to get used to a new committee or anything...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty Classroom]
@@ -130,4 +130,4 @@ Mafuyu: Yes?
 Emu: Eep...
 Emu: I... I...! I'm going to do everything I can to make it happen!
 Mafuyu: *Nod* Yes, let's do our best together.
-(Black cut)
+(Black transition)

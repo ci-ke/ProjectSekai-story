@@ -3,7 +3,7 @@
 (Character: Honami Mochizuki, MEIKO)
 
 (Video: link_leoneed_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [CD Shop]
@@ -22,16 +22,12 @@ Honami: ...!
 Honami: (Those voices. They sounded like...)
 Honami's Former Classmate C: But I haven't been listening to much music lately because I'm spending so much time studying...
 Honami: (It is them...!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami's Classmate C: You act chummy with just about anyone. Whose side are you on?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: ...
 Honami: (Oh... I couldn't help but hide from them...)
@@ -54,24 +50,20 @@ Honami's Former Classmate A: Yeah, true. It is a good song.
 Honami's Former Classmate B: Do you know who else is in Leo/need besides Honami?
 Honami's Former Classmate C: Pretty sure they're all Honami's childhood friends. Like Hoshino and...
 Honami: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
 
 Honami: (I...)
 Honami: (I... In that moment...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: (What do I do...?)
 Honami: (I'm afraid that they're going to say some really mean things about me again...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: ...!
 Honami: Huff... Huff...
@@ -126,4 +118,4 @@ MEIKO (Ln): Hehe. I'm glad I could help a little.
 MEIKO (Ln): Oh, that's right... This seems like a nice place to stop and get a change of scenery. Would you like to join me?
 Honami: Huh? A change of scenery?
 MEIKO (Ln): Yes! A rather interesting place just appeared in SEKAI...
-(Black cut)
+(Black transition)

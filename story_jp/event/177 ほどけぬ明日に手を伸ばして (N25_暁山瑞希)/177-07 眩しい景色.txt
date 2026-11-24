@@ -6,15 +6,11 @@
 リン (N25): 『あの人、どうしたんだろう』
 レン (N25): 『瑞希ちゃんのお姉さんのワンピースが、 気になってるのかな……？』
 瑞希: ……そうだね。でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 女性客: ——やっぱり、私がこんなの着てもな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: ……もしかしたら、それだけじゃないのかも
 ミク (N25): 『え？』
 瑞希: ……あの、すみません！
@@ -23,15 +19,11 @@
 瑞希: すっごくカワイイねって話してたら、 つい盛り上がっちゃって…… ボク達はもう見終わったので、どうぞ！
 女性客: あ……だ、大丈夫です！
 女性客: 私は、ここで見てるだけで十分なので……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （この目……なんだか、似てる気がする）
 瑞希: （昔のボクに————）
@@ -54,7 +46,7 @@
 女性客: 一度、着てみてもいいですか……？
 瑞希: ……！
 瑞希の姉: ありがとうございます。 では、試着室にご案内しますね
-(Black cut)
+(Black transition)
 瑞希: ——あのお客さん、試着してくれることになってよかったね
 瑞希の姉: そうだね
 瑞希の姉: ……瑞希、さっきはありがとう
@@ -116,17 +108,13 @@
 女性客: このワンピース——本当に、可愛いです……！
 瑞希の姉: ……よくお似合いですよ
 瑞希: （…………ああ、そっか）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希の姉: 自分の作った服が、誰かの背中を押したって感じた時 ——たまらない気持ちになったんだ
 瑞希の姉: ああ、これは……すごく幸せなことだなって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （きっと——この瞬間のことなんだ）
 絵名: ……お姉さん、すごいね
@@ -134,4 +122,4 @@
 瑞希: 本当に——眩しい、な
 瑞希: （……ボクも）
 瑞希: （ボクもいつか、こんな風にできたら——）
-(Black cut)
+(Black transition)

@@ -35,7 +35,7 @@ Rui: During the dance scene, I was planning to simply change the background behi
 Rui: But since it's representing a perilous trek, it might help to include wind and lighting effects...
 Miku (WxS): <Um, Rui?>
 Rui: Ah, yes, I did see something that seemed useful earlier...
-(Black cut)
+(Black transition)
 Rui: Phew. That ought to do it.
 Miku (WxS): <Wow! Your cart is filled all the way up to the top!>
 MEIKO (WxS): <You just suddenly switched into materials mode. That was a bit surprising.>
@@ -49,7 +49,7 @@ Rui: Actually, maybe I could tweak that idea. Perhaps if I... Yes...
 Rui: I could also do something for the curtain call. Considering the dimensions of the stage, I'll need...
 Miku (WxS): <Rui's eyes are sparkling!>
 MEIKO (WxS): <I wonder what he'll buy this time.>
-(Black cut)
+(Black transition)
 Rui: There, that should be everything. I'm sorry, you two. I hope you haven't been bored?
 Miku (WxS): <Not at all☆>
 MEIKO (WxS): <You just kept having new ideas. Shopping with you is very exciting!>
@@ -62,7 +62,7 @@ Rui: There's nothing that makes me happier than new ideas for effects.
 Rui: And to make those ideas into reality as fast as possible, I'll buckle down and get everything home.
 MEIKO (WxS): <You've got this, Rui!>
 Miku (WxS): <You can do it! You can do it!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,4 +120,4 @@ Rui: Hmm, next... Why don't you sing?
 Nene: Do you think she'll be as impressive at singing as she is at dancing?
 Rui: Hehe. We'll have to see.
 Robo-Nene: Leave it to me! I won't let you down!
-(Black cut)
+(Black transition)

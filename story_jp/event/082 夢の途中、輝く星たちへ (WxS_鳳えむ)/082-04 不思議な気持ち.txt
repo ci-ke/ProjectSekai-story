@@ -11,29 +11,21 @@
 寧々: 司は、これからまたワークショップの宿題？
 司: いや、宿題はないのだが……、 ワークショップ最終日の公演に向けて 練習をしようと思っているんだ
 えむ: 最後の公演……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: そうだ、そういえば、ワークショップの最終日は 小さめのホールを貸し切りにして公演を行うらしい
 司: 関係者だけ招待できることになっているから、 その時はぜひ見に来てくれ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （そういえば、最後に公演やるって言ってたっけ。 それで、その時、あたし……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: わあっ、あたし達も見に行っていいの！？ 楽しみだな～っ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……でも、今は……）
 類: もう練習に入っているということは、演目は決まったのかい？
@@ -55,7 +47,7 @@
 えむ: （…………、来るん、だから……）
 えむ: （ダメだなあ……）
 えむ: （いいことなんだから、って……、 わかってる、って思いたいのに……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -95,4 +87,4 @@
 類: よかったら、みんなにも話を聞いてもらえないかな。 ……もちろん、カイトさんの相談にも喜んで乗らせていただくよ
 レン: 『わかった！ じゃあ、みんなにもそう伝えておくよ！』
 レン: 『セカイで待ってるね！』
-(Black cut)
+(Black transition)

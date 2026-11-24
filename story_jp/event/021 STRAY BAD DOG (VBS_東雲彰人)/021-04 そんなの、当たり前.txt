@@ -19,15 +19,11 @@
 彰人: …………
 彰人: （……知ってる。 いや、感じたことがある）
 彰人: （この感覚は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: …………クソ……っ
 観客達: 新ー！！　最高！！
@@ -100,4 +96,4 @@
 冬弥: ……彰人
 彰人: クソ……
 彰人: クソッ！！
-(Black cut)
+(Black transition)

@@ -2,37 +2,29 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, MEIKO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Toya's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO (VBS): You don't seem like you want to talk about whatever this subject matter is.
 MEIKO (VBS): What if that's what's keeping you from completing your song?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Think about everything that I've experienced until now...)
 Toya: (For the sake of this song.)
 Toya: (I started playing the piano when I was three.)
 Toya: (I don't have many clear memories from back then, but I do remember the sounds I heard...)
 Toya: (I could only play simple notes using the keys, but Dad just gently pressed down on one and...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I don't think I'm ever going to forget what I heard for as long as I live. It was such a beautiful sound. Like a gentle breeze causing light to poke through the leaves of a tree...)
 Toya: (It was such a strange sensation... We were playing the same piano, but producing such different sounds.)
@@ -40,12 +32,10 @@ Toya: (So strange that I wanted to keep playing it.)
 Toya: (I wanted to learn how to do what Dad did.)
 Toya: (That was how I first began playing music.)
 Toya: (It was also the beginning of some very difficult times...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Toya's Father: No, again. Don't think you're going to bed before you get it right...
 Toya: (Dad was so harsh.)
@@ -54,7 +44,7 @@ Toya: (But I wasn't expecting him to be that hard on me. Even now, whenever I fi
 Toya: (Still...)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Toya's Father: Toya.
 Toya's Father: You weren't bad today.
@@ -69,7 +59,7 @@ Toya: (I didn't want to disappoint him...)
 Toya: (But as time went on, my fingers started feeling heavier and heavier.)
 Toya: (Endless practices day after day. The immense pressure of having to perform well during contests. And...)
 Toya: (I finally reached my limit.)
-(Black cut)
+(Black transition)
 (Background change)
 Toya's Father: You're done...?
 (Background change)
@@ -87,13 +77,11 @@ Junior High School Toya (Toya): What...? What do you know about me?!
 Junior High School Toya (Toya): It's my life! I want to live it the way I want!
 Junior High School Toya (Toya): I want to do what other people do! I want to experience as many new things as I can! That's all...
 Junior High School Toya (Toya): I'm sick of being stuck in this room...!!!
-(Black cut)
+(Black transition)
 (Background change)
 Toya's Father: Toya!!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I ran...)
 Toya: (I ran and dashed all of Dad's hopes for me...)
@@ -106,31 +94,23 @@ Toya: Is it causing me to think, “I can't”...?
 Toya: I ran and tossed aside something that meant everything to me... I've given up once already, so there's no reason I'd ever be able to match Ken and his team's resolve...?
 Toya: Have I been feeling that subconsciously...?
 Toya: That would give Dad's words so much more meaning...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya's Father: Your song lacks pride...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Of course it does...)
 Toya: (I... I've been viewing myself as someone who ran away. Someone who lacks pride....)
 Toya: (Which is why I'm struggling to write a good song...)
 Toya: (It's why I can't commit to it like Ken and his team did with theirs...)
 Toya: (No...! No, I still have to...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I still have to do this...! I have to make these songs so that we can surpass RAD WEEKEND together!)
 Toya: (But how do I do that?)
@@ -144,4 +124,4 @@ Toya: I'm such a...!!!
 Toya: ...!
 ???: I'm coming in.
 Toya: Dad...
-(Black cut)
+(Black transition)

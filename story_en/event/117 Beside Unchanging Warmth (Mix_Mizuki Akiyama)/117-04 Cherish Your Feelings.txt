@@ -2,7 +2,7 @@
 
 (Character: Mizuki Akiyama)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Shopping Mall]
@@ -13,16 +13,12 @@ Elementary School Mizuki (Mizuki): ...
 Mizuki's Sister: How about the decor shop we always go to? Oh, a new jewelry store seems to have opened up on the second floor. Why don't we go check that out?
 Elementary School Mizuki (Mizuki): Huh? A jewelry store...?
 Elementary School Mizuki (Mizuki): (I wonder what it's like... Maybe they have some cute stuff.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate B: But it's kinda weird that you're wearing it.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Elementary School Mizuki (Mizuki): Oh...
 Elementary School Mizuki (Mizuki): No, I'll pass.
@@ -43,16 +39,12 @@ Elementary School Mizuki (Mizuki): Oh...
 Elementary School Mizuki (Mizuki): (The one-piece in that shop's window... Is it new? It wasn't there when Sis and I went the other day.)
 Elementary School Mizuki (Mizuki): (It's got so many bows and frills too...)
 Elementary School Mizuki (Mizuki): It's really cute...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 Elementary School Mizuki (Mizuki): This is so cool! These shoes and this ribbon are so adorable, and they even go perfectly with the blouse you made for me...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Elementary School Mizuki (Mizuki): (No...)
 Elementary School Mizuki (Mizuki): (What I really want is...)
 Mizuki's Sister: I'm back with the crepes! I got you a strawberry one, Mizuki! I know it's your favorite!
@@ -81,14 +73,14 @@ Mizuki's Sister: That's what makes up who you are, right...?
 Elementary School Mizuki (Mizuki): But... Then they'll...
 Mizuki's Sister: I know... They'll keep saying all those terrible things to you.
 Mizuki's Sister: And to prevent that from happening, you might start to feel like you can't talk about the things you like as much...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000264/bg_s000264.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000264/bg_s000264.webp)
 Mizuki's Sister: But I don't think you should stop liking what you like to fit in with everyone else...
 Mizuki's Sister: Because you're not weird at all, Mizuki...
 Mizuki's Sister: I love how you love things that are cute.
 Elementary School Mizuki (Mizuki): Sis...
 Mizuki's Sister: Which is why, Mizuki... I want you to cherish your true feelings.
-(White cut)
+(White transition)
 (Background change)
 Elementary School Mizuki (Mizuki): (So, it's okay...?)
 Elementary School Mizuki (Mizuki): (I can keep liking the things that I think are cute...?)
@@ -102,7 +94,7 @@ Mizuki's Sister: Yes, it's going to be for myself... But I also want to make it 
 Mizuki's Sister: Which is why I need you to tell me more about all the things you like.
 Elementary School Mizuki (Mizuki): Oh...
 Elementary School Mizuki (Mizuki): Okay...!
-(White cut)
+(White transition)
 (Background change)
 Mizuki: (Some really awful things happened to me after that...)
 Mizuki: (I even tried not being myself because they just kept sapping away at my energy.)
@@ -118,4 +110,4 @@ Mizuki's Sister: Of course I remember! You made me so happy every time you told 
 Mizuki: Well... That's enough about me. Lemme hear more about what you've been up to, Sis!
 Mizuki: I have so many questions that I wanna ask you! How have things been over there? What's work been like?
 Mizuki's Sister: Hehe. Okay. Where should I start?
-(Black cut)
+(Black transition)

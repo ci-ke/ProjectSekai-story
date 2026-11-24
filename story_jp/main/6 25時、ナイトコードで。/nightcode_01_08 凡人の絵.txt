@@ -18,16 +18,12 @@ nightcode_01_08 凡人の絵
 瑞希: 『はぁ……。とりあえず、みんな無事に帰ってこれたんだね。 よかった～』
 絵名: 『でも、私達一体何されたの？ ミクに触られたら、いつの間にかここに戻ってたけど……』
 瑞希: 『うん。それになんだったんだろう、あのセカイって場所。 ミクは変なこと言うし、雪も……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): だって本当は、 Kも、えななんも、Amiaも—— 誰よりも消えたがってるくせに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 『……ほんと、なんなの？　雪のヤツ』
 絵名: 『自分がOWNだってこと隠して、 こっちのこと馬鹿にして……！』
@@ -51,60 +47,48 @@ nightcode_01_08 凡人の絵
 瑞希: 『まあまあ。そのへんもまた明日、冷静になったら話そ！ それじゃ、じゃーねー♪』
 (Background change)
 奏: 『………………』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): 初めてKの曲を聴いた時は、少しだけ、救われたような気がした
 ？？？ (まふゆ): でも……それじゃ足りなかった。 見つけられなかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『………………ごめん、私も落ちる』
 (Background change)
 絵名: 『あ……』
-(Black cut)
+(Black transition)
 
 [絵名の部屋]
 
 絵名: ………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): ……別に。言う必要がなかったから、言わなかっただけ
 ？？？ (まふゆ): 雪じゃない私は、あなたと話したいことなんてないから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……はっ。何なの、それ……
 絵名: ……あんな曲が書ける才能があれば、 凡人には興味ないってわけ？
 絵名: たったひとりで20万再生稼げるから、 もう、私達はいらないってこと？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【雪】 (まふゆ): 『優しくて、繊細で、でもちょっぴり寂しそうで……。 素敵な絵だなって思った』
 【えななん】 (絵名): 『……ほんと？』
 【雪】 (まふゆ): 『うん。私はえななんの絵、好きだよ』
 【えななん】 (絵名): 『……そう。ありがと、雪』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……馬鹿に……しやがって……
 絵名: 私の……私の絵になんか…… 本当は興味、なかったくせに……！！
 絵名: …………っ
 絵名: 描いてやる……。描いて……追いついて…… 馬鹿にされた分、見返してやる…………絶対に……！
-(Black cut)
+(Black transition)
 絵名: ……ダメ。 パースはとれてるし、デッサンも破綻してないはずなのに……
 絵名: 全然、良い絵にならない……
 絵名: 違う……こんなんじゃない……。 違う、違う……！
@@ -125,7 +109,7 @@ nightcode_01_08 凡人の絵
 絵名: うるさい！ 彰人は関係ないでしょ！？　出てって！
 彰人: あーはいはい。 ったく、どっちがうるせえんだよ
 彰人: ……描くのもいいけど、ちゃんと寝ろよ
-(Black cut)
+(Black transition)
 絵名: …………はぁっ……はぁっ
 絵名: ……描かなきゃ。描いて、描いて、描いたら、私だって……
 絵名: 私だって……私だって……！！
@@ -142,17 +126,13 @@ SNSのコメント: 『可愛すぎて変な声出た』
 絵名: もういや……どうして私……
 絵名: ……描かなきゃ……描かなくちゃいけないのに……
 絵名: どうして、こんなんになっちゃうんだろう……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): 誰よりも消えたがってるくせに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……そう。そうだよ。もう、ずっと消えたいよ……
 絵名: なんで、あんたがわかっちゃうの……？
-(Black cut)
+(Black transition)

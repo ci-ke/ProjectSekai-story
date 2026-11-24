@@ -18,18 +18,14 @@
 奏: （このキャンドルからは、星乃さんと同じ、 お花みたいな……優しくてほっとする香りがするな）
 奏: ……アロマキャンドル、いいものが作れてよかった。 これでミクやレン達にも喜んでもらえるかな
 奏: （あ——そういえば……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの時のレン…… ちょっと元気がなかったようにも見えたけど…… なんだったんだろう……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -44,15 +40,11 @@
 奏: えっと……今更なんだけど、前に会った時に 何か言ってたのが気になって……
 奏: それに、ちょっと元気がない気もしたから
 レン: 前に会った時……？　あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 レン: ……ぼくも、瑞希ちゃん達みたいに 何かできたらいいんだけど……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 レン: あ……えっと、その……大丈夫。 たいしたことじゃないよ
 奏: そう……なの？
 奏: ……たいしたことじゃなくても、 もし困ってることがあるなら聞かせてほしいな。 わたしにも何か手伝えるかもしれないし
@@ -71,7 +63,7 @@
 奏: うん
 レン: それじゃあ、お、お願い……！ ぼく、みんなにバレンタインのプレゼント、贈ってみたい！
 奏: わかった。一緒にやってみようか
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -84,7 +76,7 @@
 レン: 『う、ううん。気にしないで。 一緒に作れるだけでも嬉しいから』
 奏: ……そっか。そしたらわたしも、 できるだけレンが作りたいものを作れるよう頑張るから…… 気になることがあったら、なんでも言ってね
 奏: じゃあ……早速始めていこっか
-(Black cut)
+(Black transition)
 奏: ——うん、いい色になってきたね。 このロウをもう少しかき混ぜたら……次は……
 レン: 『えっと……少し冷まして、 アロマオイルを入れるんだよね……！』
 奏: あ……そうそう。 レン、よく覚えてたね
@@ -94,28 +86,24 @@
 奏: ……そんなに深く考えなくても大丈夫だよ。 なんとなく好きな香りを言ってくれるだけでもいいから
 レン: 『そう……なの？』
 奏: うん。——でも、迷っちゃうなら……そうだな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ふふっ、それなら……気に入った香りとか、 贈りたい相手のイメージに合うものを選ぶといいと思うよ
-(White cut)
+(White transition)
 (Background change)
 一歌: あ、その、みんなのことを考えてたんです。 どんな色にしようかとか、どんな花が似合うかなとか……
-(White cut)
-
-(Memory cut-out)
-
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000161/bg_s000161.webp)
+(White transition)
+(Flashback out)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000161/bg_s000161.webp)
 奏: 贈りたい相手のことを考えるといいかもね
 レン: 『相手のこと？』
 奏: うん……。相手のことを想って、どんなのだったら 似合うかなとか、喜んでくれるだろうってことを 考えていけば、答えが出るんじゃないかな
 レン: 『そっか……』
 奏: ……もし、まだ難しかったら、 まずはみんなのことを思い出してみるといいかもね
 レン: 『うん……。わかった……！』
-(White cut)
+(White transition)
 (Background change)
 レン: 『えっと、ミクやリン、ルカさん、メイコさん、 それに、奏ちゃん達みんな……』
 レン: 『……ミク達はいつも一緒にいるわけじゃなくて、バラバラで、 それでも、ぼくが困ってるといつも手助けしてくれるんだ』
@@ -129,23 +117,19 @@
 レン: 『あ……！　ごめんね、ぼんやりしたこと言っちゃって……』
 奏: ううん……大丈夫
 奏: でも……そっか……。あたたかくて……優しい……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: ——甘い、果物の香り……？　りんごかな……
 一歌: ですよね！　私もそう思ったんですけど、 カモミールみたいです。 りんごみたいな、甘くて優しい香りがしますよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……そうだ、これなんかどうかな。 カモミールっていうんだけど、りんごみたいな香りがするんだ
 奏: 果物みたいな、甘くて優しい香りがして……、 わたしもなんとなくだけど、あったかいなって感じがするし
 レン: 『あ……う、うん……！　ぴったりだと思う……！ ぼくも、これがいいな……』
 奏: ふふ、じゃあそうしよっか
-(Black cut)
+(Black transition)
 奏: うん——ちゃんと固まったみたい。これで完成だよ、レン
 奏: レン？　どうかした？
 レン: 『あ……その、すごく綺麗で……それに、 ちゃんとできてるって思ったら、なんだか感動しちゃって……』
@@ -160,18 +144,14 @@
 奏: わたしと、一緒に……？
 レン: 『うん。誰かと一緒に何かをするのって、 それだけでも、すごく楽しいんだね』
 奏: （楽しい、か……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 奏: ……うん。そうだね
 レン: 『あ……そうだ、奏ちゃん！ 今日のことは、秘密にしてもらってもいいかな』
 レン: 『その……バレンタインにサプライズでプレゼントして、 みんなをびっくりさせたいから』
 奏: わかった。……あ、それなら、 わたしがアロマキャンドルを作ってることも、 秘密にしてもらえるかな
 奏: わたしも、みんなをびっくりさせたいから
 レン: 『う、うん……！　それじゃあ、ふたりだけの秘密だね』
-(Black cut)
+(Black transition)

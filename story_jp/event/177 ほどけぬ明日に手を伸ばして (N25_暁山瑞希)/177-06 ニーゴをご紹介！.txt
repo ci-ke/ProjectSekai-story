@@ -47,14 +47,14 @@
 瑞希の姉: ふふ。みんな、すごく似合ってたよ
 瑞希の姉: 今日は、サークルのみんなで来てくれてるんだよね。 じゃあ——
 絵名: はじめまして。 イラスト担当の、東雲絵名です
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000481/bg_s000481.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000481/bg_s000481.webp)
 瑞希の姉: やっぱり、あなたが絵名ちゃんだったんだね！ やっと会えた！
 絵名: へっ？
 瑞希の姉: 瑞希から、みんなの話はよく聞くからさ。 もうひとりはどんな子なんだろうって ずっと思ってたんだよね！
 瑞希の姉: 会えて嬉しいなあ……！ 瑞希がいつもお世話になってます！
 絵名: あ、えーっと……こ、こちらこそ……？
-(White cut)
+(White transition)
 (Background change)
 瑞希: ちょっとお姉ちゃん。 絵名、めちゃくちゃ戸惑ってるじゃん
 瑞希の姉: あ、ごめんね。 いきなりグイグイいっちゃって
@@ -98,15 +98,11 @@
 瑞希: ん？
 女性客: ………………
 瑞希: あれ、あそこにいる人って……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 女性客: ——やっぱり、私がこんなの着てもな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: （さっきの人だ……！）
 瑞希: （もしかして—— このワンピースを見てる……？）
-(Black cut)
+(Black transition)

@@ -11,7 +11,7 @@ RAD WEEKEND超えを目指し、謙の出した課題と向き合うVivid BAD SQ
 冬弥: （もっとだ）
 冬弥: （もっと研ぎ澄ませて——熱くしろ）
 冬弥: （RAD WEEKENDを超えるための曲を、作るんだ……！）
-(White cut)
+(White transition)
 (Background change)
 
 [数カ月前]
@@ -63,17 +63,13 @@ RAD WEEKEND超えを目指し、謙の出した課題と向き合うVivid BAD SQ
 謙: 子供の頃から、 他の人間とは違う特別な形で、音楽に触れてきたからだろう
 謙: その経験が、 こういった曲につながっている……オレはそう見た
 冬弥: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥の父: ——決して漫然と弾くな
 冬弥の父: 作曲した人間の背景、意図、その感情まで想像して演奏しろ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: もちろん、冬弥だけじゃない。 各々曲に想いを込めることはできている
 謙: だが冬弥なら、お前達全員の想いを—— 例えそれがとてつもなく大きく複雑なものだったとしても、 ひとつの音楽としてまとめられる可能性が高い
@@ -88,4 +84,4 @@ RAD WEEKEND超えを目指し、謙の出した課題と向き合うVivid BAD SQ
 彰人: 任せたぞ、冬弥！
 こはね: 頑張って、青柳くん！
 冬弥: ああ！
-(Black cut)
+(Black transition)

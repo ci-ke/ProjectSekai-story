@@ -36,7 +36,7 @@ KAITO: ふふ。 ……それで、どうやって検証していくんだい？
 KAITO: そういえば、セカイの僕達は そうやってみんなに会いに行ってるんだったね
 類: ああ。 ——では早速だけれど、検証開始だ
 KAITO: うん！
-(Black cut)
+(Black transition)
 (Background change)
 咲希: ……うーん、呼び出し音がずーっと続いてるなあ
 (Background change)
@@ -44,20 +44,20 @@ KAITO: うん！
 (Background change)
 類: ……ほんの一瞬繋がりかけたが、切れてしまった
 冬弥: あまりに一瞬すぎて、 俺は咲希さんからの着信に出られませんでした
-(Black cut)
+(Black transition)
 KAITO: ……次はそれぞれのおうちからの電話だね。 どうかな……
 冬弥: ……こちらは特に反応なしです
 類: こっちもだよ。……今のところ、セカイからも現実からも 電話やメッセージは不通のようだ
 KAITO: そうか……
 KAITO: でもこれだけだと、ここがまだセカイとして不安定だからなのか そもそも無理なのか判断つかないね
 類: ああ。残念だけど、この件は保留するしかなさそうだよ
-(Black cut)
+(Black transition)
 冬弥: 次は、スマホから出てこられるかどうかですね
 類: ああ。僕達のセカイのカイトさんに呼び掛けてみよう
-(Black cut)
+(Black transition)
 KAITO: 次は僕がスマホから顔を出せるか、だけど……
 KAITO: あれ、どうやってやってるんだろう？ みんなのことを思い浮かべてみればいいのかな……
-(Black cut)
+(Black transition)
 類: ……カイトさん、青柳くんお疲れさま。 これで今できそうな検証はひと通り完了だよ
 KAITO: うん、お疲れさま
 KAITO: でも……いい結果は得られなかったね。 咲希ちゃんと瑞希ちゃんも、戻ってこられなくなったみたいだし
@@ -74,17 +74,17 @@ KAITO: きっと、みんな自身思うところがあって、 なんとかし
 冬弥: じゃあここへ来るためには、そういう気持ちを強く持って——
 類: おっと……時間切れのようだね
 冬弥: あっ、カイトさん！ またきっと会いましょう……！
-(White cut)
+(White transition)
 (Background change)
 KAITO: うん、またね……！
-(White cut)
+(White transition)
 (Background change)
 KAITO: ……今回のお別れも唐突だったなあ
 KAITO: でも——
 KAITO: ……本当に、ここでならみんなに協力できるんだね
 KAITO: すごくもどかしかった時もあったけれど……やっと……
 KAITO: みんなの力になれるように、僕も頑張らないとね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -93,26 +93,18 @@ KAITO: みんなの力になれるように、僕も頑張らないとね！
 
 [？？？のセカイ]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO: あのふたつの欠片は、 想いが重なり合って、ひとつのセカイになったんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 KAITO: （……想いの欠片が砕けてしまわないで、本当によかった。 これも類くん達のおかげだな）
 KAITO: （それに——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(White transition)
+(Flashback out)
 KAITO: ……ほんの少しだけだったけれど、話せたなんて
 咲希: ……カイトさん？　どうしたんですか？
 KAITO: ふふ。さっきセカイの僕達に会えたよね？ それを思い出していたんだ
@@ -131,10 +123,10 @@ KAITO: え……むしろいいのかい？ みんなだっていろいろ忙し
 KAITO: …………
 KAITO: ……うん。実は僕も、もっとみんなと話したかったんだ
 咲希: ホントですか！？ じゃあ、みんなで質問タイムですねっ♪
-(Black cut)
+(Black transition)
 咲希: じゃあまずは……。 カイトさん、好きな色はなんですか？
 KAITO: ……青、かな。 トレードマークみたいなものだから
-(Black cut)
+(Black transition)
 瑞希: えーっ！　じゃあ、ボク達がセカイで 誕生日のお祝いしてる時とかも、様子見に来てくれてたんだ！？
 KAITO: うん。毎回っていうわけじゃないけど、 こっそりお祝いしにね
 KAITO: それに、みんながいない間のセカイの様子も よく見に行くよ
@@ -142,7 +134,7 @@ KAITO: この前も、冬弥くん達のセカイに行ったら、 僕がアイ
 類: フフ、あのカイトさんなら たしかにありそうだね
 冬弥: ……そう、ですね。初めてセカイで会った時も リンとレンに冷蔵庫のアイスを食べたことを怒られていました
 瑞希: いやそれ、常習犯じゃん……
-(Black cut)
+(Black transition)
 冬弥: ……思いのほか、いろいろな話ができたな
 瑞希: うん！　もしかしたら『お疲れさまーっ！』って感じで セカイものんびりする時間をくれたのかも！
 KAITO: ふふ、そうかもしれないね
@@ -158,6 +150,6 @@ KAITO: うん……
 KAITO: その時は、またみんなの元気な顔が見たいな
 冬弥: はい。きっと……
 瑞希: またね、カイトー！
-(White cut)
+(White transition)
 KAITO: ……次に会えるのを、楽しみにしているよ
-(Black cut)
+(Black transition)

@@ -35,15 +35,13 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 奏: あ……いろんな音がしすぎて、うるさいとか……？
 まふゆ: ……ううん。そうじゃない
 まふゆ: （これは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ——ごめんね、お母さん
 まふゆ: …………私、音楽は、もうやめるよ
 まふゆの母親: じゃあ、このシンセはもういらないわね。 お母さんが預かっておくわ
-(White cut)
+(White transition)
 (Background change)
 まふゆ: 『今日、お父さんが……私のパソコンを持ってきてくれたの』
 (Background change)
@@ -52,10 +50,8 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 絵名: 『これで、またパソコンで詞も作れるし Kに借りなくてもミックスできるしね』
 (Background change)
 まふゆ: 『……うん……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （胸の奥がそわそわしてるように感じるのは、なんでだろう）
 まふゆ: よく、わからないけど……。 うるさくは、感じない
@@ -74,12 +70,12 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 まふゆ: （こうやって楽器に触れてると、落ち着く気がする……）
 来場客達: 見て、ピアノ弾いてるよ
 来場客達: 綺麗な曲……。なんていう曲かな？
-(Black cut)
+(Black transition)
 奏: ふう……。 久しぶりにこの曲弾いたけど、ちゃんと覚えて——
 奏: わ……！　いつの間に、こんなに集まって……
 少女: お姉ちゃん達、じょうずだったー！
 まふゆ: ふふ。ありがとう
-(Black cut)
+(Black transition)
 奏: びっくりした……。 あんなに集まるなんて思ってなかった
 まふゆ: …………
 まふゆ: ……奏
@@ -88,7 +84,7 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 奏: どういたしまして
 奏: 時間もちょうど良さそうだし、 このまま演奏会の待機列のところに行こうか
 まふゆ: うん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -155,7 +151,7 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 (Background change)
 絵名: 『え、なんで？　お腹すいてなかったとか？』
 奏: 『えっと……。演奏会が終わった後、 トランペットが好きな男の子に会って——』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: 『いい音が出ない、か……』
 絵名: 『トランペットじゃなくても 管楽器系って、吹くのにコツがいるって話よく聞くしね』
@@ -182,7 +178,7 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 瑞希: 『テストに出るって先生が言ってたっていうのも 共有してくれるし、めちゃくちゃ助かってるよ』
 (Background change)
 絵名: 『Amiaは頼りすぎな気もするけど？』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『——いやー。ホントにいろいろあったんだね！ イベントの話、すっごくおもしろかったよ♪』
 (Background change)
@@ -201,4 +197,4 @@ Gacha phrase: ……予定もないし、奏が行きたいなら
 まふゆ: 『……そうだね。 話せたら、話してみようかな……』
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

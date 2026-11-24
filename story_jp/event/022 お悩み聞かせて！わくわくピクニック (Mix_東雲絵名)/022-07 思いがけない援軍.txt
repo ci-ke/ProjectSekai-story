@@ -27,7 +27,7 @@
 雫: ええ、前に教育番組のロケに行った話をしたでしょう？ あの時にやったことがあるの。 でも、少し難しくて……できるかしら？
 ルカ: 『大丈夫よ、 雫ちゃんなら、きっとできるはずだわ！』
 雫: ……ありがとう、ルカちゃん！ 私、やってみるわ！
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: ……雨が強くなってきたわ。 これだけ斜面が濡れちゃうと、足を掛けるのは ちょっと難しそうね……
 絵名: どうしよう、このままじゃ夜になっちゃう……！ このまま上に登れなかったら、私達……
@@ -42,21 +42,17 @@
 愛莉: 苦しいことばっかりでも、絶対に諦めない！ それが絵名でしょ！
 絵名: 愛莉……
 愛莉: ほら、しゃんとしなさい！ 瑞希を信じて待ちましょ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 瑞希: 大丈夫！　すぐ誰か呼んで戻って来るから、安心して！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: ……信じて、か。 そうだね。瑞希なら、きっと——
 瑞希の声 (瑞希): ふたりともー！！
 絵名: この声、瑞希……？
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: お待たせ！！　助けを呼んで来たよ！！
 雫: 瑞希ちゃん！
@@ -75,7 +71,7 @@
 類: 結び目もしっかりしてる。 これなら使えるね
 寧々: あ、じゃあロープの先をこっちにくくりつけて——
 類: ああ、全員で引っ張り上げよう！
-(Black cut)
+(Black transition)
 絵名: た、助かった……。もうだめかと思った……！
 愛莉: 雨が降ってきた時は、さすがに不安になったけど、 よくがんばったわね、絵名！
 絵名: そういう愛莉もね。瑞希と雫達が いなかったらって思うと、ぞっとする
@@ -100,11 +96,11 @@
 瑞希: どうしたの？
 絵名: その服、気に入ってたやつでしょ。 なのに泥だらけになってて……。私のせいで、ごめん
 瑞希: ああ、これ？　たしかに気に入ってたけど、 服なんてまた買えばいいよ。それに——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000072/bg_a000072.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000072/bg_a000072.webp)
 瑞希: 絵名達が無事だったんだから、ボクはそれで十分だよ
 絵名: 瑞希……
-(White cut)
+(White transition)
 (Background change)
 瑞希: そんなことより、ふたりともケガは本当に大丈夫？
 絵名: 私は大丈夫だけど……
@@ -116,4 +112,4 @@
 絵名: （……私、やっぱり瑞希の力になりたい）
 絵名: （瑞希が私に話したくないって思ってても、 やっぱり、あんな顔見ちゃったら、放っておけないよ）
 絵名: （だって瑞希は、私の——）
-(Black cut)
+(Black transition)

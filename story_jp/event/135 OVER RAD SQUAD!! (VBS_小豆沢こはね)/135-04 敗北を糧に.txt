@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数週間後]
@@ -14,10 +14,8 @@
 レン (VBS): ほとんど毎日戦ってるみたいだけど—— どう？　勝ててる？
 こはね: ……ううん。 まだひとりも……
 こはね: それに今日は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ♪——————————————～～～～～！！
 RUSTのメンバーA: お、今のはなかなかヤバかったんじゃねえか？
@@ -37,10 +35,8 @@ GLaP dayのメンバーA: あいつらは、今も歌で現役だからね。 �
 こはね: ……………………
 こはね: （そんな……）
 こはね: （もっと強い人が……こんなに……！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……勝たなきゃいけない人が、 もっと増えちゃって……
 冬弥: そうか……。 それはかなり過酷な状況だな……
@@ -57,7 +53,7 @@ MEIKO (VBS): そうね。 大変でしょうけど……頑張って、こはね
 杏: …………うん。 そうだね
 杏: ……って言っても、私もまだ自分の課題クリアできてないし、 こっから気合い入れて頑張らないとな
 こはね: うん……！ 一緒に頑張ろうね、杏ちゃん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [１カ月後]
@@ -66,44 +62,36 @@ MEIKO (VBS): そうね。 大変でしょうけど……頑張って、こはね
 こはね: （また、今日も勝てなかった……）
 こはね: （……どうすればいいんだろう。 もっと体力もつけないといけないし、 歌の技術だって足りてない——）
 こはね: （とにかく……どんなことをしても、もっとうまくならなきゃ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの時のRADderみたいに）
 こはね: （……ううん。あの時のRADderみたいな、 突き刺さるような歌を、超えられるくらい——）
 こはね: ……あれ？ こんな時間にメッセージ……？
 こはね: 杏ちゃんから——？
-(Black cut)
+(Black transition)
 (Background change)
 杏: ————私と戦って
 杏: 今、ここで
 こはね: …………え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000307/bg_s000307.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000307/bg_s000307.webp)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 こはね: （……負けちゃった……）
 こはね: （——全力で、歌った。 修行で歌ってる時より、声も出た）
 こはね: （なのに、私は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ♪————————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………
 こはね: …………悔しい
@@ -118,19 +106,15 @@ MEIKO (VBS): そうね。 大変でしょうけど……頑張って、こはね
 こはね: （私も、ドキドキを返したい。 杏ちゃんをびっくりさせて——笑わせて）
 こはね: （そんな歌を歌いたい。 だから——）
 こはね: ……もっと、力をつけるんだ……！！
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ♪————————！！
 こはね: （もっと……もっと……！！）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000307/bg_s000307.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000307/bg_s000307.webp)
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの時の杏ちゃんより——もっとドキドキする歌を……！）
 こはね: ♪————————————————～～～～！！
@@ -138,7 +122,7 @@ GLaP dayのメンバーB: ……っ
 GLaP dayのメンバーB: …………今のはやられた。 一本取られたよ
 GLaP dayのメンバーB: お嬢ちゃんの勝ちだ
 こはね: ……！ ありがとうございます！
-(Black cut)
+(Black transition)
 こはね: ♪————————————————～～～～！！
 RUSTのメンバーC: ♪———！！　————！！　————！！
 こはね: ……っ
@@ -147,7 +131,7 @@ RUSTのメンバーC: ♪———！！　————！！　————！�
 こはね: ♪————！！　————！！　————！！
 RUSTのメンバーC: ……っ。 ……なるほど、たしかに大河も育てたくなるわけだ
 RUSTのメンバーC: ——そっちの勝ちだ。 よくやったな
-(Black cut)
+(Black transition)
 GLaP dayのメンバーD: ５回に１回くらい勝てるようになってきてんじゃねえか？ ……まさか、急にここまで伸びるとはな
 GLaP dayのメンバーD: ……なんつーか、お前や大河の気持ちもわかってきたわ。 打てば響くってのは嬉しいもんだ
 RUSTのメンバーD: こうやってまた歌で熱くなれんのも、久しぶりだしな。 嬢ちゃん様様だ
@@ -161,31 +145,23 @@ RUSTのリーダー: ……それじゃあ、俺が最後のひとりだ。 先�
 RUSTのメンバーD: 心してかかれよ！ うちのリーダーは、RADderに勝ってる回数が一番多いからな
 こはね: ——はい！
 こはね: ♪——————————————————————！！
-(Black cut)
+(Black transition)
 こはね: はぁ、はぁ、はぁ、はぁ…………
 こはね: （——勝てない。 今度こそ、本当に……）
 こはね: （でも——）
 こはね: （……集中するんだ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……進むんだ！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （私だって——）
 こはね: （私だってあんな風に、私の歌で————！！）
@@ -238,7 +214,7 @@ COLオーナー: ああ、いつものことだし任せな。 遅くなりそ�
 RUSTのメンバーA: じゃあまたな、嬢ちゃん
 GLaP dayのメンバーA: 期待してるよ！
 こはね: あ……はい！ 皆さん、お元気で！
-(Black cut)
+(Black transition)
 こはね: ♪————————！！
 こはね: （……ふたつ目の課題がなんなのか、 気になるけど——）
 こはね: （でも今は、もっとさっきの感覚を掴めるようにならなくちゃ）
@@ -291,4 +267,4 @@ COLオーナー: ただ私が見る限り……嬢ちゃんの場合は、 も�
 COLオーナー: 『誰に迷惑かけても、何がなんでもこうしてみせる』。 そう嬢ちゃんが言い切れるもの
 COLオーナー: それがエゴなんじゃないかと、私は思うよ
 こはね: …………
-(Black cut)
+(Black transition)

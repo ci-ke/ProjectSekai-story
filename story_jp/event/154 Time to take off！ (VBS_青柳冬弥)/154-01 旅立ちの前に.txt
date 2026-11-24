@@ -63,20 +63,16 @@ MEIKO (VBS): そうねえ……。 あとで、じゃんけんでもしてもら
 冬弥: （父さんのコンサートや、伝統のある音楽祭…… これまでにも海外に行ったことはあるが、 普段と違う環境で触れた音色は、どれも美しかった）
 冬弥: （今回はどんな音楽に出会えるのか、楽しみだ）
 冬弥: （……そういえば……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 スレイド: それじゃあ——アメリカで、待ってるよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （今考えれば……まるで俺達がアメリカに行くことを 知っていたかのような口ぶりだったな）
 冬弥: （気になることはあるが…… まずは目の前のことに、ひとつひとつ向き合っていこう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
@@ -86,4 +82,4 @@ MEIKO (VBS): そうねえ……。 あとで、じゃんけんでもしてもら
 冬弥: （あとは、貴重品を機内持ち込みの鞄に——）
 冬弥: ……ん？　メッセージか。 一体誰から——
 冬弥: …………！
-(Black cut)
+(Black transition)

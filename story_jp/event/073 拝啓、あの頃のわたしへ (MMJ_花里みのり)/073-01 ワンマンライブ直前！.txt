@@ -28,15 +28,11 @@
 斎藤: はい。前に、大学に通いながら 制作スタッフのアルバイトをしてるってことは、 お話ししたと思うんですけど……
 斎藤: 実は、前のイベントを手伝わせてもらってから、 将来はアイドルをお手伝いする仕事をしたいって 強く思うようになりまして……
 みのり: 前のイベント、って……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: クリスマスにやった、ファンイベントのことかしら？
 斎藤: はい、それです！ もともと、そういう仕事には興味があったんですけど……
@@ -46,15 +42,11 @@
 雫: まあ……！ そうだったんですね
 みのり: （わたし達のイベントがきっかけで、夢を……）
 みのり: （それって——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: なんだか嬉しいね。 そんな風に言ってもらえるなんて
 みのり: あ……う、うん！
@@ -67,7 +59,7 @@
 愛莉: MORE MORE JUMP！初のワンマンライブ…… お客さんはもちろんだけど、それだけじゃなくて わたし達もスタッフも、みんな——
 愛莉: その場にいる人達全員が楽しめるような、 最高のライブにしましょ！
 遥・雫・みのり: 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -98,10 +90,8 @@ KAITO: うん、僕もそう思うよ。 ……みのりちゃんだけじゃな
 遥: うん
 遥: ——って言っても、私は当日まで ワンマンライブの持つ力に気づけてなかったんだけどね
 みのり: ワンマンライブの持つ力……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: ASRUNでデビューシングルを出したあと、 私達はしばらく合同ライブをメインに活動してたの
 遥: でもある時、急にワンマンが決まったんだ。 本当に突然のことだったし、びっくりはしたんだけど……
@@ -125,23 +115,17 @@ ASRUNのファン達: 今日のこと、ずっと夢見てた！ ワンマンや
 遥: （合同ライブとは違って、ここにいる全員が私達を見て、心を—— 気持ちをひとつにしてくれてるから、 深いところで繋がってる気がするんだ）
 遥: （……そう、なんだ）
 遥: （これが……ワンマンライブなんだ）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ——私の初めてのワンマンは、そんな感じだった
 遥: あの感覚は、すごく特別だから…… みのりにも早く味わってほしいな
 みのり: お客さんと、心の深いところで繋がる……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （そういえば、あの時わたしも……）
 レン: いいな、みんなのワンマンライブ。 僕も客席で見たかったよ
@@ -156,4 +140,4 @@ MEIKO: でも、平気なの？ 誰かに見つかったりしたら……
 KAITO: みのりちゃんも、緊張も全部含めて、 最初のワンマンライブ、思いきり楽しんでね
 みのり: は、はい！ ありがとうございます、カイトさん！
 みのり: ——わたし、一生懸命がんばるよ！ 人生で１回しかない最初のワンマンライブ、後悔しないように！
-(Black cut)
+(Black transition)

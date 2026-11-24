@@ -12,7 +12,7 @@ Toya: I'd like to follow the procedure described in the recipe as closely as we 
 Toya: If that happens again, Miku, I'd like you to give me some advice.
 Miku (VBS): <Okay. Then, mind if I have a look at the recipe?>
 Toya: Of course, here it is...
-(Black cut)
+(Black transition)
 Miku (VBS): <I see. Very interesting. So this is how you bake cupcakes. >
 Miku (VBS): <So, how did the ones you made yesterday turn out?>
 Toya: Well, when they came out of the oven, they didn't quite rise the way they appeared in the recipe.
@@ -24,15 +24,11 @@ Toya: I didn't mix them properly?
 Miku (VBS): <Yes. Apparently, these sorts of sweets rise differently based on how their batter is mixed.>
 Miku (VBS): <But they may also have trouble rising if you go a bit overboard.>
 Toya: I see... I didn't know that...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Toya: Just how much mixing is this going to make me do...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Toya: Yes, now that you mention it... I did mix the batter for a very long time.
 Miku (VBS): <Oh, in that case, you can try not mixing it so much this time.>
 Miku (VBS): <You have a tendency to be too careful or follow instructions too strictly. So, why not mix it only a little bit for this batch?>
@@ -56,15 +52,13 @@ Toya: (Plus, I have Miku here to teach me.)
 Toya: Okay, then... Let's give it a try.
 Toya: So, Miku, please tell me right away if you see me doing something wrong...
 Miku (VBS): <Okay, I will.>
-(Black cut)
+(Black transition)
 (Background change)
 Rui: Based on the address Aoyagi gave me, his house should be just up ahead...
 Rui: (Hehe... I hope his creations are coming along well. I'm looking forward to seeing how they turn out...)
 Rui: (Still...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: Excellent! Thank you, Rui! The menu for our dinner party is all set now!
 Rui: You're welcome. I'm glad I could help. I hope Aoyagi enjoys everything.
@@ -76,16 +70,14 @@ Tsukasa: He's changed quite a bit since then, but as an older brother figure, I'
 Rui: I see. That explains why you're showing so much concern for him...
 Tsukasa: *Nod* That is exactly why!
 Tsukasa: So, I'd like to prepare a party for him with such spectacular dishes that he won't have any choice but to enjoy himself!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (It's interesting how Tsukasa and Aoyagi are trying to do so much for each other.)
 Rui: (Still, this is their show... There isn't much that I can do for them...)
 Rui: (But I hope things go well for them...)
 Rui: Ah, this must be his condo...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Aoyagi Household - Living Room]
@@ -96,11 +88,11 @@ Toya: Oh, yes... They should be ready soon.
 Toya: Let me get you something to drink. Please, have a seat.
 Rui: Okay, thank you.
 Rui: (Now, let's see what he made....)
-(Black cut)
+(Black transition)
 (Background change)
 Miku (VBS): <The cupcakes seem just about done. I wonder how it turned out.>
 Miku (VBS): (Toya had such a serious look on his face... Probably because he wants the recipient of his gift to really enjoy what he made.)
 Miku (VBS): (I hope they end up being delicious.)
 Miku (VBS): <Wait, it sounded like the cupcakes just burst...>
 Miku (VBS): <It must be because they're full of so much energy. I'm sure they're going to be yummy and fun to eat.>
-(Black cut)
+(Black transition)

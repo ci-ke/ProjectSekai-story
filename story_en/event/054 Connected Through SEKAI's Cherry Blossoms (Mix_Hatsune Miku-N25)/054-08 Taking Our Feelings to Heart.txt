@@ -2,7 +2,7 @@
 
 (Character: Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -20,7 +20,7 @@ Len: What?
 MEIKO: Oh, could it be that you saw the versions of us from different SEKAI...?
 MEIKO: But nothing like that has ever happened before...
 Rin: Hmm... So was I just seeing things...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -45,7 +45,7 @@ MEIKO: Hehe. Yes, they were certainly beautiful. Let's hope next time that we al
 Luka: Oh, MEIKO? Len? What are you two doing here?
 Luka: Wait, I know! You're both lost, right? Looks like I have no choice but to lead you back to the cafe.
 Len & MEIKO: No, we're not. We're not lost.
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI - Rooftop]
@@ -64,7 +64,7 @@ Luka: Ah, I see... Alright, let's go practice.
 KAITO: Luka...? Did something nice happen to you just now?
 Luka: Yes, I'd say so...
 Luka: (I can't show everyone the cherry blossoms I saw, but I at least have a nice story to tell them...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -76,15 +76,11 @@ Bunny Plushie: We're so glad you're back! Especially since our present made you 
 KAITO: Oh, I'm sorry about causing such a stir. There, there now. I'm back safe and sound...
 Kitty Plushie: KAITOOO!
 KAITO: (Still...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: (I thought I saw Miku and the others... But from different SEKAI...)
 KAITO: (However, I've never been able to meet anyone from another SEKAI before... What happened...?)
@@ -93,21 +89,17 @@ KAITO: (Our feelings all came together to bring about that place...?)
 KAITO: (I can't honestly explain how that works, but it could be similar to when everyone showed up here...)
 KAITO: (Just as their feelings brought them here, my feelings aligning with the others' allowed me to see them.)
 KAITO: But... What kind of feelings...? Oh, wait...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: I see. Us all gathering at that tree means...
 KAITO: The ones from the other SEKAI also want to “help everyone somehow” very much.
 Miku (WxS): KAITO! Everyone gathered up some cherry blossom petals for us!
 KAITO: Ah, I'll be right there!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -130,4 +122,4 @@ Miku (N25): Hehe...
 Miku (N25): I guess I managed to find myself a cherry blossom petal.
 Rin: Wait, where?
 Miku (N25): Hehe. About that...
-(White cut)
+(White transition)

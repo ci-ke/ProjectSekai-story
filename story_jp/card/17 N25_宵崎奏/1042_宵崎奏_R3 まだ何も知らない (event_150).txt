@@ -13,7 +13,7 @@ Gacha phrase: 瑞希、どうしてるかな……
 絵名: うん……
 絵名: みんな、よろしく
 奏: みんなで、瑞希を見つけよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -30,10 +30,8 @@ Gacha phrase: 瑞希、どうしてるかな……
 まふゆ: でも最近、絵名の様子がいつもと少し違ったから
 奏: ……うん。今更だけど、『そういえば』って、 いろいろ思い当たることあったなって
 奏: この前も——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 奏: 『本当はAmiaに動画を作ってもらいたいけど…… 忙しそうだし、静止画で上げようか』
 まふゆ: 『うん』
 奏: 『……でも、こんなに長い期間来れないのって珍しいね。 作業中は毎日Amiaの声が聞こえてたから、 なんだかさみしいな』
@@ -46,10 +44,8 @@ Gacha phrase: 瑞希、どうしてるかな……
 (Background change)
 奏: 『今、何か言いたそうだったけど……』
 絵名: 『あ……ごめん。なんでもない』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……あの時からずっと、 絵名はいろいろ悩んでたんだろうな）
 奏: （わたしが、もう少し早く気づけてれば……）
@@ -65,23 +61,19 @@ Gacha phrase: 瑞希、どうしてるかな……
 まふゆ: それ以外のところで、何かあったんじゃないかって
 奏: ……それが、瑞希？
 まふゆ: ……かもしれない、とは思った
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: ……お願い、ふたりとも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……絵名と瑞希に何があったのか、 結局、わたし達は何もわかってないけど）
 奏: （絵名があんな顔をするんだから、 きっと、すごく大事なことなんだ）
 奏: ——まふゆ
 奏: 瑞希を見つけよう。 絵名が、瑞希と話せるように
 まふゆ: うん……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -100,7 +92,7 @@ MEIKO (N25): 『ええ。——ほら、あそこよ』
 奏: メイコ、もう少しだけ ふたりのそばにいてもらってもいいかな？
 奏: ミク達も心配してると思うし、 わたし達で知らせに行って、そのままセカイで待ってるよ
 MEIKO (N25): 『わかったわ』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -119,7 +111,7 @@ KAITO (N25): …………来たぞ
 瑞希: みんなに、話したいことがあるんだ
 瑞希: ……ずっと、言わなきゃって思ってたことと——
 瑞希: 言いたいこと
-(Black cut)
+(Black transition)
 奏: ……そうだったんだ
 瑞希: 今まで、黙っててごめん
 瑞希: ホントはもっと早く言わなきゃって、思ってたんだけど……
@@ -152,4 +144,4 @@ KAITO (N25): …………来たぞ
 瑞希: うん、よろしく
 瑞希: それと——
 瑞希: ただいま！
-(Black cut)
+(Black transition)

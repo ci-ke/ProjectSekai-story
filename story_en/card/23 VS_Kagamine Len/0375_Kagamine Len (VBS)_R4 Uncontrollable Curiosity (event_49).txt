@@ -32,21 +32,15 @@ Len: Huh? What do you mean?
 Miku (VBS): You've seen what the events Kohane and the others usually perform at are like, haven't you? Try starting there.
 Miku (VBS): An event isn't just about singers. You need something else to really make it happen.
 Len: Hmm...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Len: Oh, are you talking about the staff and crowd...?
 Miku (VBS): Bingo.
 MEIKO: We have no way of knowing just what kind of event RAD WEEKEND really was...
@@ -80,7 +74,7 @@ Len: I get to see a legendary place, so I need to put myself in the right state 
 Miku (VBS): Mind if I join you?
 Len: You will?! Thanks, Miku!
 Miku (VBS): You're welcome. Shall we?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,11 +87,11 @@ Rin: Len, do you know where KAITO is?
 Len: Nope. Ugh... Why's he gone at a time like this?
 Len: Alright, wanna try taking another look around?
 Rin: Yeah, let's try searching together this time!
-(Black cut)
+(Black transition)
 Len: Based on what MEIKO said, he's been spending time here lately to work on some mixes.
 Len: Wait, this song!
 Rin: It's coming from over there! Let's go!
-(Black cut)
+(Black transition)
 KAITO: ————♪ ————~♪
 Rin: There he is!
 Len: KAITO!
@@ -107,7 +101,7 @@ KAITO: For me? Oh, does this mean the new dessert MEIKO was working on is finall
 Rin: No! Tell him, Len!
 Len: Okay. The thing is, I saw this unbelievable show the other day!
 KAITO: An unbelievable show?
-(Black cut)
+(Black transition)
 KAITO: I see... So you actually got to see a video of the very event that Akito and the others are trying to surpass.
 KAITO: I wish I could've also seen it. Why didn't you tell me sooner?
 Len: Finding Rin's one thing, but you're like a needle in a haystack.
@@ -155,4 +149,4 @@ Rin: The cafe can wait until after we're done!
 KAITO: Haha... It's like I'm the student now.
 Len: Enough talk! Let's do this!
 KAITO: Okay, okay. We can start right now.
-(Black cut)
+(Black transition)

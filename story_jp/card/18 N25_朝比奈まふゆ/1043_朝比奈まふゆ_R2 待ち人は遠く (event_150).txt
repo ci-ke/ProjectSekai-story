@@ -54,21 +54,17 @@ Skill name: 生存逃走の末に
 まふゆ: 瑞希はサボりがちだけど神高生だし、 地の利は向こうにあるから、それくらいはしておかないとって
 奏: す、すごいね……。 そこまでしてたなんて……
 まふゆ: ……必要だと思ったから、しただけ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: ……お願い、ふたりとも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: あとは、瑞希が来てくれれば……
 奏: うん
 奏: ……瑞希、待ってるからね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -95,10 +91,8 @@ Skill name: 生存逃走の末に
 瑞希: ……そういえばさ、覚えてるかな
 瑞希: 自分を否定されるかもって思ったら、怖い—— みたいな話を、まふゆにしたよね
 まふゆ: ……うん。覚えてるよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ……自分のことを否定されるかもって思うと、怖いよね
 瑞希: 特に……相手が、すごく大事な人だと
@@ -107,10 +101,8 @@ Skill name: 生存逃走の末に
 瑞希: だからボクも、全然進めないままなんだけどさ
 瑞希: ……でもね、思うんだ
 瑞希: この世界に、味方になってくれる人は 思ったよりいるんじゃないかなって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: いやあ、今思い返してもひどいなあ。 自分のこと棚に上げて、あんな話するなんて
 瑞希: ……あれは、さ。 自分に向けた言葉でもあったんだよね
@@ -149,4 +141,4 @@ Skill name: 生存逃走の末に
 まふゆ: ……覚えてたんだ
 瑞希: まあね♪
 瑞希: おーい、奏！　絵名！　ここだよー！
-(Black cut)
+(Black transition)

@@ -24,7 +24,7 @@ Mizuki: Yeah. Sorry I'm being so cheap, but I'm kind of broke until my payday ne
 Ena: I wasn't expecting you to book a studio just for us...
 Mizuki: Karaoke's convenient, and the booths are cozy! Come on, let's go♪
 Ena: H-Hey, don't leave me behind!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Main Street]
@@ -34,7 +34,7 @@ Ena: We've always been recording our parts separately, so it was hard to get the
 Mizuki: Right?
 Ena: So, are we going home now? I think we both have had enough singing for the day.
 Mizuki: I don't wanna go home just yet! Since we're out here anyway, let's go shopping!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -77,7 +77,7 @@ Mizuki: Hmm... I haven't thought about it.
 Ena: What? You got me to talk but you won't?
 Mizuki: More importantly, there's a cool-looking store there!
 Ena: Hey, don't change the subject!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -149,4 +149,4 @@ Ena: ...
 Ena: (I can't get my illustrations to trend, but at least these guys view them.)
 Ena: (They're actually interested in my art...)
 Ena: <Sure. It'll knock your socks off when I'm done!>
-(Black cut)
+(Black transition)

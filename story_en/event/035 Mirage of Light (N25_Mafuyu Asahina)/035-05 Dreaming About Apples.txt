@@ -2,7 +2,7 @@
 
 (Character: Kanade Yoisaki, Mafuyu Asahina)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -17,7 +17,7 @@ Kanade: Let me get you some blankets... Also...
 Kanade: Oh, right. Something to help cool your head.
 Kanade: What did mom used to do? She used water... No, ice...
 Kanade: Wait, I don't even know if there's any ice in the freezer...
-(Black cut)
+(Black transition)
 Kanade: ...
 Kanade: Hmm... Wringing out a wet towel is harder than I expected... My arms are getting tired already...!
 Kanade: Hopefully, this will do for now. Just place it over her forehead and...
@@ -26,27 +26,23 @@ Kanade: Phew...
 Kanade: Okay, next is...
 Kanade: Right, food. I remember Ms. Mochizuki saying that easily digestible foods, such as apples, work best for someone with a cold.
 Kanade: Apples. I should check the supermarket down the street...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
 
 Kanade: Okay, I managed to get some...
 Kanade: But Mafuyu won't be able to eat these as is in her current state. How do I make it easier for her?
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Kanade: That's right. Mom used to make apple sauce for me whenever I caught a cold...
 Kanade: But how do I do that...? Do I use a knife...? No, a grater...
 Kanade: ...
 Kanade: Ow...! My finger...
 Kanade: Mom used to make it look so easy too...
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: *Groan*
 Mafuyu: Huh...? Where am I...?
@@ -69,12 +65,10 @@ Kanade: Here, hold my hand. I won't let you be all alone.
 Mafuyu: Thank... You...
 Mafuyu: ...
 Kanade: I won't go anywhere...
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Mafuyu (Mafuyu): *Cough*
 Mafuyu's Mother: How do you feel, Mafuyu?
@@ -96,15 +90,15 @@ Little Mafuyu (Mafuyu): Bunnies... Make them look like bunnies.
 Mafuyu's Mother: Hehe. You really do love bunnies, don't you, Mafuyu?
 Mafuyu's Mother: Just one moment, dear. There we are...
 Little Mafuyu (Mafuyu): Thank you...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000004/bg_s000004.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000004/bg_s000004.webp)
 Mafuyu's Mother: Can you sit up? You don't have to if you don't think you can.
 Little Mafuyu (Mafuyu): Maybe... I don't know...
 Mafuyu's Mother: Then why don't we do this...? Open up for the airplane...
 Little Mafuyu (Mafuyu): Ahh...
 Little Mafuyu (Mafuyu): Mmm... They're yummy... Thank you, mommy.
 Mafuyu's Mother: Hehe. You're very welcome.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu's Mother: Now, mommy needs to go hoist the laundry on the patio, so try to get some sleep, okay, honey?
 Little Mafuyu (Mafuyu): Um... Mommy...?
@@ -113,10 +107,8 @@ Little Mafuyu (Mafuyu): Can you stay and hold my hand...? Until I fall asleep...
 Mafuyu's Mother: Hehe. My, aren't we full of demands today.
 Mafuyu's Mother: Of course, dear. Now, lie down for me, and take my hand...
 Little Mafuyu (Mafuyu): Hehe...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Hm...?
 Mafuyu: (Was that me...? When I was little...?)
@@ -125,4 +117,4 @@ Mafuyu: (I think I'm starting to understand why my chest begins to hurt whenever
 Mafuyu: (It's the same reason why Kanade's song feels so warm...)
 Mafuyu: (I felt the same thing back then...)
 Mafuyu: (When I put that apple slice in my mouth...)
-(Black cut)
+(Black transition)

@@ -24,7 +24,7 @@ Rin (N25): I don't think talking to them is going to fix that.
 Len (N25): But it might help take our mind off of things...
 Miku (N25): Would you like to come with us, Rin?
 Rin (N25): Alright...
-(Black cut)
+(Black transition)
 MEIKO (N25): ...Which is why you three came looking for us.
 Len (N25): Yes...
 Len (N25): Um, MEIKO, how do you feel about Mafuyu going over to talk to her mom?
@@ -38,7 +38,7 @@ Rin (N25): I don't think there's any point in worrying.
 Rin (N25): She is on my mind, but...
 MEIKO (N25): That's perfect, then.
 MEIKO (N25): Let's go find Luka and KAITO. There's something I need to say to them.
-(Black cut)
+(Black transition)
 KAITO (N25): Hm...?
 KAITO (N25): What do you all want?
 MEIKO (N25): We're here to make a statement.
@@ -73,7 +73,7 @@ Rin (N25): Looks like all we can do is pray that things go well.
 Miku (N25): Yes...
 Miku (N25): Please make it so Mafuyu's mom understands what her daughter has to say...
 Len (N25): Please...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -85,18 +85,14 @@ Len (N25): Please...
 [Lake]
 
 Len (N25): (Mafuyu...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 Mafuyu: I want to stay here for a little while...
 Len (N25): Oh...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (N25): (Kanade said that she'd try talking with Mafuyu's dad, but...)
 Len (N25): Oh... Luka, MEIKO...
@@ -107,7 +103,7 @@ Luka (N25): Hehe. I was just waiting for the opportune moment to speak to him.
 Luka (N25): Anyway, Len, what's bothering you so much?
 Len (N25): So...
 Len (N25): The thing is, Mafuyu's...
-(Black cut)
+(Black transition)
 Luka (N25): You wondered who'd come over to SEKAI, and it turned out to be Mafuyu. Still, I wasn't expecting to hear that things had gotten so bad.
 MEIKO (N25): Because she hasn't been able to express her true thoughts and feelings, she's being compelled to accept her mother's ideas.
 MEIKO (N25): She's basically back to where she was before she left home.
@@ -134,13 +130,13 @@ Len (N25): I know. We're not allowed to be seen by anyone besides Mafuyu and the
 MEIKO (N25): Maybe, just maybe, things would be alright if they learned that we exist...
 MEIKO (N25): But they can never know about SEKAI.
 Luka (N25): Right. I mean, this place is...
-(White cut)
+(White transition)
 (Background change)
 Luka (N25): One of the few places where Mafuyu can take refuge.
 (Background change)
 Luka (N25): A place where she can feel at ease.
 Luka (N25): If Mafuyu were to lose this place, then she'd probably...
-(White cut)
+(White transition)
 Len (N25): I...
 Len (N25): I... I want to help Mafuyu somehow...
 Len (N25): But I can't do anything...
@@ -149,4 +145,4 @@ Luka (N25): If you want to help her, then there's no time for tears.
 MEIKO (N25): She's right. Every second is precious right now. We should be spending that time thinking of ways to help her.
 Len (N25): Right...!
 Len (N25): (MEIKO and Luka are both so warm today for some reason...)
-(Black cut)
+(Black transition)

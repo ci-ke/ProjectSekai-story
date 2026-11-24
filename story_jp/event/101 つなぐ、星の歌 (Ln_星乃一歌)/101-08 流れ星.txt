@@ -56,12 +56,12 @@
 一歌: （ミクみたいに、みんなをつなげていくんだ……！）
 一歌: ♪————～～～～！
 一歌・ミク: 『♪————！！』
-(Black cut)
+(Black transition)
 一歌: ——聴いてくれて、ありがとうございました……！
 一歌: 今日のライブで、私達の感謝の気持ち…… 少しでも届いていたら嬉しいです
 一歌: 私達は、これからも皆さんに 想いを届けられるよう演奏し続けます
 一歌: 本当に、ありがとうございました！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブ後]
@@ -78,16 +78,16 @@ MEIKO: 最高のライブだったよ
 レン: でも、本当にすごかったな。一歌達とミクのライブ
 ミク (Ln): ……そうだね。 途中から、私も一歌に引っ張られるみたいに歌ってた
 ミク (Ln): それに……歌から、一歌の決意が伝わってきた気がする
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000214/bg_s000214.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000214/bg_s000214.webp)
 KAITO: ……俺も感じた
 KAITO: 自分の歌で、たくさんの人の心をつなげたいっていう、 一歌の決意を
 KAITO: ……あの想いがあれば、一歌達は もっと先にいけると思う
-(White cut)
+(White transition)
 (Background change)
 ミク (Ln): ……うん。私もそう思う
 ミク (Ln): これからのみんなが、楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -132,7 +132,7 @@ KAITO: ……あの想いがあれば、一歌達は もっと先にいけると
 穂波: あ……もしかしてここからなら、 あの場所が近いんじゃないかな
 咲希: あの場所……あ！　あそこだね！
 咲希: ナイスほなちゃん！　 じゃあみんな、レッツゴー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [公園]
@@ -160,25 +160,21 @@ KAITO: ……あの想いがあれば、一歌達は もっと先にいけると
 (Background change)
 一歌: （私も——）
 一歌: （これからも、みんなと一緒にいられるように……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （あ……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000213/bg_s000213.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000213/bg_s000213.webp)
 一歌: （——ううん。お願いするだけじゃない）
 一歌: （ミクが……たくさんの人をつなげて……）
 一歌: （私達がまた一緒にいるための きっかけと助けを与えてくれたみたいに……）
 一歌: （私も、Leo/needのみんなをつなげていきたい）
 一歌: （そのためにも……）
 一歌: （私はこれからも——歌を歌い続けよう）
-(White cut)
+(White transition)
 (Video: 01_leoneed_ed2)
-(Black cut)
+(Black transition)

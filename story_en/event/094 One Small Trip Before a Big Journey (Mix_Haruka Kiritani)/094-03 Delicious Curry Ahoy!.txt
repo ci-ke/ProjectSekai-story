@@ -30,7 +30,7 @@ Saki: Okie dokie, everybody! Off we go!
 Haruka: I think we have the ship tour first on our itinerary.
 Saki: Yup! I know the view from the deck is supposed to be really nice, but I can't wait to see the captain's cabin and stuff either!
 Haruka: I feel the same way. We should make the most of this opportunity, so let's take our time looking around.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ship Deck]
@@ -53,7 +53,7 @@ Haruka: Um... It's a little embarrassing when you put it like that...
 Haruka: Anyway, we've had a look around inside the ship, so shall we head over for lunch? I'm starting to feel a little hungry.
 Saki: Me too, me too! I feel like it's only a matter of seconds before my stomach growls.
 Haruka: Hehe, then we'd better hurry.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Curry Restaurant]
@@ -84,7 +84,7 @@ Ichika: Amazing... Haruka really is famous...
 Haruka: Could you all please stop staring at it? Besides, that's from back when I was in ASRUN.
 Haruka: Also, we should probably order soon so this doesn't eat into our schedule.
 Saki: You got it! Alright, I think I'll order...
-(Black cut)
+(Black transition)
 Saki: Yummm!!!
 Saki: The guidebook did say it was authentic, but the spiciness makes it so delicious! I think I'm starting to feel kinda hot...!
 Ichika: Haha. I'm glad that the chicken curry isn't so spicy. I went with rice, but the naan looks really good too.
@@ -108,7 +108,7 @@ Haruka: Oh, yes. It's nothing to worry about.
 Haruka: The curry I got was just spicier than I expected.
 Haruka: I guess since everyone's done, shall we head out?
 Saki: Let's!
-(Black cut)
+(Black transition)
 (Background change)
 
 [In front of the Red Brick Center]
@@ -121,4 +121,4 @@ Ichika: Oh, I just remembered. Would it be alright if I went to buy some souveni
 Ichika: Since we're already here, I was hoping to get some while we still have time.
 Inoue: Yeah, sounds good. I was thinking the same thing!
 Saki: Okie dokie! First stop is the souvenir shops, then! Let's go♪
-(Black cut)
+(Black transition)

@@ -15,21 +15,17 @@
 まふゆ: うん
 奏: それじゃあ——いただきます
 まふゆ: いただきます
-(Black cut)
+(Black transition)
 奏: ごちそうさまでした
 奏: 目玉焼き、ベーコンがカリカリしてて美味しかったよ
 まふゆ: ……よかった
 まふゆ: （……やっぱり、ここにいると落ち着く気がする）
 まふゆ: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （お母さんは、きっと今も……）
 奏: ……まふゆ。学校に行くまで、少し時間ある？
@@ -48,7 +44,7 @@
 奏: あ……お茶、そろそろいいかな
 奏: ——はい。熱いから気をつけてね
 まふゆ: ……ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -85,4 +81,4 @@
 まふゆ: ——先生。私、近未来博物館にします
 教師: 本当？　ありがとう、助かるわ
 教師: それじゃあ、次は——
-(Black cut)
+(Black transition)

@@ -38,10 +38,8 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 ミク (N25): でも、雪の話はまふゆからしてくれた。 だから、何か感じたのかなって
 まふゆ: …………
 まふゆ: そう、だね……。 実は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: ……ずっと、忘れてた
 奏: たくさんの人を救えるような曲を作らないといけないって、 そればかり考えてた
@@ -50,10 +48,8 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 奏: ……だから、ありがとう
 まふゆ: …………
 まふゆ: （また、胸が——）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): 胸が、あたたかく……？
 まふゆ: うん……
@@ -68,7 +64,7 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 ミク (N25): それでもいい。待つ
 まふゆ: ……わかった。 じゃあ、あんまり期待しないで待ってて
 ミク (N25): うん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,7 +79,7 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 ミク (N25): そっか……
 まふゆ: ……ミク。 前も言ったけど、そんなすぐに雪は降らないよ
 ミク (N25): うん。でも、待ってる
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -98,7 +94,7 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 まふゆ: 多分。天気予報が外れなければ
 ミク (N25): あさって、待ってる
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [２日後]
@@ -132,7 +128,7 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 絵名: 『次はいつ降るかわからないし、 ゆっくり楽しんでね』
 (Background change)
 ミク (N25): 『うん。みんな、ありがとう』
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……どう、ミク？　見える？
 ミク (N25): 『うん、見える。白いふわふわ……』
@@ -169,4 +165,4 @@ Gacha phrase: すごく、真剣に書かれた歌詞だね
 まふゆ: ……約束、守れてよかった
 ミク (N25): 『まふゆ……』
 ミク (N25): 『わたしも、まふゆと雪を見られてよかった』
-(Black cut)
+(Black transition)

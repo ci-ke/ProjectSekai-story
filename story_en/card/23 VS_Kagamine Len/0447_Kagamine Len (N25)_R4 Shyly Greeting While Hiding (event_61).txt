@@ -22,7 +22,7 @@ Len: ...
 Len: I might have to explore a little...
 Len: (Some paths would be really helpful...)
 Len: But I suppose I just have to keep going for now...
-(Black cut)
+(Black transition)
 Len: Miku...? Is anybody there...?
 Len: (I've been walking for a while now, but I haven't seen anyone...)
 Len: Miku...? You're here, right...? I... I mean, the thoughts and feelings that created this SEKAI have already produced a song...
@@ -36,7 +36,7 @@ Len: Was that...?! Did I hear someone's voice just now...?
 ???: ...someone...there?
 Len: There it is again... I'm not imagining things.
 Len: Wait... This way?
-(Black cut)
+(Black transition)
 Miku (N25): Oh...
 Len: ...
 Miku (N25): Len... I'm sorry for being late. I came to get you...
@@ -48,7 +48,7 @@ Miku (N25): You seemed cold... But you'll feel warmer if we clasp our hands toge
 Len: ...
 Miku (N25): I'm sure you were very lonely.
 Miku (N25): But you'll be okay now. You're not alone anymore...
-(Black cut)
+(Black transition)
 Luka: Hm...?
 Rin: Hey, Miku. Where'd you run off to...?
 Rin: Oh...
@@ -69,7 +69,7 @@ Len: O-Okay...
 Len: (I don't actually know anything about them, but I'm really glad that I'm not alone anymore...)
 Len: (And I'm not as scared as I was before... Also...)
 Len: (This place feels kind of... Warm...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -142,4 +142,4 @@ Miku (N25): Len, thank you for coming to SEKAI. We're looking forward to getting
 Len: Th-Thanks...!
 Miku (N25): So... Cheers.
 Everyone: Cheers. Cheers!
-(Black cut)
+(Black transition)

@@ -24,10 +24,8 @@ Gacha phrase: はぁ……なぜこんなことに……
 咲希: お兄ちゃんの部屋の明かりが見えて……。 本当にいるかなって、のぞいてみたくなっちゃった
 咲希: あはは。もうひとりじゃないのにね
 司: 咲希……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い咲希 (咲希): そろそろ、お兄ちゃん帰らないといけない時間だね
 幼い司 (司): うん。そうだな……
@@ -39,10 +37,8 @@ Gacha phrase: はぁ……なぜこんなことに……
 幼い咲希 (咲希): ……うん！ お兄ちゃん、明日も来てくれるんだよね
 幼い司 (司): 当然だ！　明日こそ、人探しゲームは オレが大勝利をおさめてやるぞ！
 幼い咲希 (咲希): えへへ。わたしだって、 あの本大好きだから、負けないよー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （咲希はいつも元気にふるまっていたが、 本当は病院でひとり、心細い夜を過ごしていた）
 司: （この家に帰ってきてからは もう大丈夫だと思っていたが……）
@@ -57,15 +53,11 @@ Gacha phrase: はぁ……なぜこんなことに……
 咲希: それにね！　今は『今日も楽しかったな』って思いながら、 すっごく幸せな気分でベッドに入れるんだ
 咲希: それで、早く明日にならないかなーって、 ワクワク気分でぐっすり眠れちゃうの！
 司: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ……覚えてたのか、咲希
 咲希: うん。お兄ちゃんに言われたとおり、 その日楽しかったことを考えて 明日を楽しみにしながら寝るようにしたの
@@ -79,7 +71,7 @@ Gacha phrase: はぁ……なぜこんなことに……
 司: ん、どうした？
 咲希: 今度のひな祭り、い～～～っぱい楽しもうね！
 司: ああ、そうだな！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,17 +81,13 @@ Gacha phrase: はぁ……なぜこんなことに……
 [ワンダーランドのセカイ]
 
 司: ここに来るのは、あのひな祭りの日以来か
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 司: （ルカの言葉にはいろいろ考えさせられた。 そのおかげで、咲希とも仲直りして 無事にひな祭りパーティーもしてやれた）
 司: （スターたるもの、 世話になった者にはしっかり礼を言わねばな！）
-(Black cut)
+(Black transition)
 司: ……この辺りにはいないか。 よし、次はステージのほうへ行って……ん？
 司: お、いたいた！ おーい、ル——
 ルカ: …………
@@ -144,4 +132,4 @@ KAITO: またいつでもおいで。 ミクやレン達も司くん達に会い
 ルカの声 (ルカ): ……素敵な、笑顔が見られて……よかったわねぇ
 司: …………！
 司: ああ。そうだな！
-(Black cut)
+(Black transition)

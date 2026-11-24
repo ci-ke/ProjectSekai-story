@@ -7,15 +7,11 @@ Gacha phrase: 僕は、弾くより他にないんだ
 
 (Character: 天馬咲希, 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [司の部屋]
@@ -25,7 +21,7 @@ Gacha phrase: 僕は、弾くより他にないんだ
 司: ハーハッハッハッ！
 咲希の声 (咲希): ねえ、お兄ちゃん。 今いい？　少しつきあってほしいことがあるんだけど……　
 司: ん、咲希？
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -45,7 +41,7 @@ Gacha phrase: 僕は、弾くより他にないんだ
 司: （それにしても……）
 司: （昔は手も小さくて、どこかおぼつかない演奏だったが、 今はもう、オレよりもずっとうまくなっている）
 司: （毎日、真剣にバンドの練習に取り組んでいるからこそだな。 さすがはオレの妹だ）
-(Black cut)
+(Black transition)
 咲希: はあー、楽しかったー！ つきあってくれてありがとう、お兄ちゃん！
 司: なに、これくらいお安い御用だ。 また弾きたくなったらいつでも言ってくれ！
 咲希: うん！　あ、そういえば……
@@ -83,7 +79,7 @@ Gacha phrase: 僕は、弾くより他にないんだ
 咲希: もー、そういうところいい加減なんだから～
 咲希: でも、ありがとう、お兄ちゃん！
 司: ああ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -141,4 +137,4 @@ KAITO: ふふ。みんな息ぴったりだ。 ますますいいショーユニ
 えむ・寧々・類: 『おおー！』
 ミク (WxS): ミクも！　おおー！
 KAITO: 頑張ってね、みんな！
-(Black cut)
+(Black transition)

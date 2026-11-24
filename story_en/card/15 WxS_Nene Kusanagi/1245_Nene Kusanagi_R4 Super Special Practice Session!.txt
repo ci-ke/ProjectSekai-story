@@ -51,7 +51,7 @@ Rui: By the way, why were you plummeting from the sky?
 KAITO (WxS): You're not one of the plushies from this SEKAI, so I assume you wandered in from somewhere else...
 Kuchipatchi: Oh, right! I came here 'cause I heard some really pretty singing!
 Nene: Wait, singing?
-(Black cut)
+(Black transition)
 Rui: Hm... I'll attempt to summarize what you've told us, Kuchipatchi...
 Rui: Firstly, you've come here from a place called Tamagotchi Planet, which exists somewhere in our universe, or perhaps another one.
 Rui: I say you've “come here”, but it seems you're actually in a dream under the effects of the sleep-learning machine your tama friend Mametchi invented.
@@ -106,7 +106,7 @@ Kuchipatchi: ...! Y-You'll really teach me?!
 Nene: Yeah. I can definitely relate to wanting to do your best for your friends.
 Nene: So let's do it together, Kuchipatchi!
 Kuchipatchi: Thanks, you guys! I'm ready to learn!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -125,28 +125,24 @@ Kuchipatchi: Thanks for doing this, Nene! I've got my serious face on!
 Nene: No problem. I'm looking forward to it too.
 Tsukasa: Ahh, what a dignified expression! Our friend is overflowing with motivation!
 Nene: Uhh... I guess I can see it...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kuchipatchi: Everybody's been practicing so hard. I'll be a real bother if I'm still bad tomorrow.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Nene: (I need to do my best to honor Kuchipatchi's feelings.)
 Nene: Okay, let's get started. First, the basics!
 Kuchipatchi: Yes, ma'am!
-(Black cut)
+(Black transition)
 Nene: Put your hands over your belly button... If you have one... Then breathe in slowly through your nose. Try to imagine filling your belly up with air so it sticks out.
 Kuchipatchi & Miku: *Inhale*
 Nene: When you breathe out, take about twice the time it took to breathe in. While you're doing that, your belly should shrink back down.
 Kuchipatchi & Miku: *Exhale*
-(Black cut)
+(Black transition)
 Kuchipatchi: P-Pbbbt... Pbbt... Pbbbbbbt...
 Emu: Ooh! You've got it, you've got it!
 Nene: You just did a lip trill. Once you've got the hang of it, let's try changing your pitch during it.
-(Black cut)
+(Black transition)
 Nene: We'll practice humming next. There's a bit of a trick to this... Tsukasa, can you demonstrate?
 Tsukasa: Leave it to me! Ahem...
 Tsukasa: Hummmm...
@@ -154,7 +150,7 @@ Kuchipatchi: It sounds like he's just saying “hmmm”.
 Nene: Actually, he isn't using his throat, but his nasal cavity... That sound is coming from inside his nose.
 Kuchipatchi: Huh?! His nose?!
 Nene: Yeah. Kuchipatchi, can you put one hand on your neck...area, and one by your nose? You'll be able to feel the vibrations better, which should make it easier to practice.
-(Black cut)
+(Black transition)
 Rui: Next up may be our main challenge... We're going to work on your rhythm.
 Robo-Nene: The Nenetronome is at the ready. Set the time signature and tempo, and it will sound automatically.
 KAITO (WxS): Nenetronome...? Is that a metronome? I didn't realize she had that function.
@@ -163,7 +159,7 @@ Nene: Robo-Nene, let's hear 4/4 at sixty bpm.
 Robo-Nene: Understood.
 Nene: I want to get a grasp of your rhythm sense, so let's start with clapping practice.
 Kuchipatchi: Alright! I'll do my best!
-(Black cut)
+(Black transition)
 Emu: Great job, Kuchipatchi! You practiced so much!
 Tsukasa: Now, let's see the results of our Super Special Practice Session!
 Kuchipatchi: I-I'm so nervous...
@@ -225,7 +221,7 @@ Kuchipatchi: ♪—— ♪————
 Nene: (I can tell you're having fun.)
 Nene: (I need to say my goodbye with a smile too.)
 Nene & Kuchipatchi: ♪—— ♪————~~~!
-(White cut)
+(White transition)
 Emu: Oh...! Kuchipatchi...!
 Miku (WxS): Bye bye, Kuchipatchi!!! I had so so sooo much fun singing with you!
 Nene: Are we never gonna see each other again...?
@@ -240,4 +236,4 @@ Rui: Hehe. Now I see. Our chances sound quite high indeed.
 Emu: Woohoo! Nene, we might get to see Kuchipatchi again!
 Nene: Yeah...
 Nene: (When we do, Kuchipatchi, let's sing more together!)
-(Black cut)
+(Black transition)

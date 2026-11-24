@@ -70,7 +70,7 @@ KAITO (VBS): <You do...? Then, I'm glad to hear that!>
 KAITO (VBS): <Anyway, Toya, good night! Make sure to stay warm, and don't forget to set your alarm!!!>
 Toya: Thank you. I appreciate the concern.
 Toya: I plan on getting a good night's rest so that I'm ready to do my best again tomorrow.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -85,10 +85,8 @@ Luka (VBS): Let's see...
 Luka (VBS): Ah, here! It's this one!
 Rin (VBS): Wow, you were right! This looks just like the place in the picture you brought over, Toya!
 Toya: Yes... I remember going to Vienna when I was little, and this place closely resembles it.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin (VBS): Whoa! So many travel magazines...! Oh, there's even a photobook!
 Miku (VBS): You brought all of these over, Toya?
@@ -118,10 +116,8 @@ Toya: You did...? I'd like to see it sometime if possible.
 Luka (VBS): Then, why don't we go right now?
 Toya: Now?
 Luka (VBS): Yes, because how fun would it be to compare it with the photo?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (This really does look just like the Vienna I saw when I was little...)
 Toya: (I remember seeing so many resounding performances in this city. And the expectation was that I'd be able to do the same someday...)
@@ -141,4 +137,4 @@ Toya: (Back then, I never would've thought to go near any places like this. But 
 Toya: (Dad trained me in classical music, but I've met new people who've shared a dream with me through street music. They're both important parts of who I am now.)
 Toya: (And I plan on using everything I've experienced...to propel myself forward.)
 Toya: (As well as my dear friends. We're going to see what it's like from on top of the world!)
-(Black cut)
+(Black transition)

@@ -5,7 +5,7 @@
 [住宅街]
 
 司: 咲希ー！ チェーンを外して、早くドアを開けてくれ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -13,7 +13,7 @@
 咲希: お兄ちゃん、帰ってきちゃった！
 えむ: どどど、どうしよう～！
 愛莉: 大丈夫。 ふたりとも、ここはまかせて！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 住宅街)
 愛莉: すいません、待たせちゃって！
@@ -79,23 +79,23 @@
 雫: みんな、レッスン頑張ってね。 それじゃあ、おじゃましました
 一歌: 私も行くね。じゃあ
 司: 咲希、絶対無理はするなよ？ えむもまたワンダーステージでな！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 天馬家　リビング)
 咲希: ……よ、よかったー！
 咲希: あいり先輩、すごーい！
 えむ: うん！　もうどうなっちゃうかと思ったよー！ 愛莉ちゃんセンパイ、ありがとう〜っ！！
 愛莉: なんとかごまかせたわね……
-(Black cut)
+(Black transition)
 (Background change)
 リン: （よかったね、愛莉ちゃん！）
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: ふふ、リンもありがとね
 愛莉: まさか本当に信じてもらえるとは思わなかったけど。 みんな人を疑わない人ばかりでよかったわ……
 愛莉: なんにせよバレずに済んだことだし、 最後の仕上げをしちゃいましょ！
 えむ・咲希: 『おーっ！』
-(Black cut)
+(Black transition)
 (Background change)
 リン: （お～っ！）
-(Black cut)
+(Black transition)

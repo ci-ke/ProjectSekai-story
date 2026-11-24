@@ -24,7 +24,7 @@
 司: （裏切ってカッコいい技を使うか、 このままこいつらと世界平和をもぎ取るか……）
 司: （どうする、どうする天馬司……！！）
 瑞希: それじゃあ魔王城、行ってみよ～う！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [体育館]
@@ -127,14 +127,14 @@
 瑞希: ってあれ？　そっちは魔王……
 司: 喰らえ、魔王！！！！
 司: 超必殺攻撃—— 『ダークペガサスフォースブレイド』ーーーーーーーーーー！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000543/bg_s000543.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000543/bg_s000543.webp)
 魔王アンヴァレンタイン: ぐわあああーーーーーーーーーーーー！？
 瑞希: ええええ～！？
 冬弥: ま、魔王を、斬った……！？
 彰人: なんでだよ……
 類: フフフ、面白い展開だねえ
-(White cut)
+(White transition)
 (Background change)
 類: おや……討ち取ったかと思ったけれど、 まだ少しHPがあるようだね
 魔王アンヴァレンタイン: グッ……ガハッ……！
@@ -172,4 +172,4 @@
 彰人: え？
 ？？？: ——素晴らしいショーを見させていただきましたよ。 勇者ペガサス一行
 司: お……お前は！？
-(Black cut)
+(Black transition)

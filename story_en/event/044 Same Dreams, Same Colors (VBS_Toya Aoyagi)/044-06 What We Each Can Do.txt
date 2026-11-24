@@ -9,7 +9,7 @@ Kohane: A lighter's usually faster, but I'd like to use matches this time around
 Akito: Alright, then let's start gathering up some firewood.
 Toya: You're supposed to look for very dry wood, yes?
 An: Yup! Let's see what we can find!
-(Black cut)
+(Black transition)
 Toya: We've gathered quite a lot. What comes next?
 Kohane: We'll need to separate these branches by size. Then, you stack them like this and...
 Kohane: There, all done. Wanna try lighting it, Aoyagi?
@@ -24,7 +24,7 @@ Kohane: Oh, the wind may be too much for it.
 Kohane: Why don't we do this...? Can you guys help me find some rocks? They'll need to be more or less the size of your fist.
 Akito: Rocks?
 An: Oh, right!
-(Black cut)
+(Black transition)
 Kohane: Okay, that should be enough to line our pit... Aoyagi, mind giving it another try?
 Toya: I can't make any guarantees. Light the tinder and...
 Toya: Oh...! Everything lit properly this time.
@@ -33,7 +33,7 @@ Kohane: All that's left is to give it some air... Try blowing on it like this...
 Akito: Oh, it grew. That's incredible.
 Kohane: Hehe...
 Toya: (Now I see. You need to be able to think on your feet. I definitely stand to learn quite a lot from this experience.)
-(Black cut)
+(Black transition)
 An: Next, it's my turn!
 An: Camping equals barbeque! So let's chop everything up and put them on skewers!
 Toya: Do we need to rinse the vegetables before we chop them?
@@ -47,12 +47,12 @@ Toya: Quarters...
 Akito: Dude, chill.
 Kohane: Yeah, Aoyagi, just try to relax...! As long as you curl your fingers in while you chop, your fingers will be fine.
 Toya: Grr... That's easier said than done in my case... I can't get as good a grip on them...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000031/bg_s000031.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000031/bg_s000031.webp)
 Toya: I did it...! Shiraishi, I did it!
 An: Yeah, nice job! You're actually pretty good at this, Toya!
 An: Keep up the good work and chop away!
-(White cut)
+(White transition)
 (Background change)
 An: Oh, Akito, mind making me some bowls out of foil? I wanna try sauteing the end piece of the veggies in garlic oil.
 Akito: That sounds amazing. Just gimme a sec.
@@ -62,7 +62,7 @@ An: Kohane, can you start putting Toya's veggies onto skewers for us?
 Kohane: Okay! Oh...
 Toya: Quarters... Quarters...
 Kohane: Aoyagi! Your onion's gonna fall apart if you chop it like that!
-(Black cut)
+(Black transition)
 Toya: *Sigh*... Finally, we're done prepping for dinner...
 An: Yup! The last step is for us to cook everything, so we can relax and have fun until dinnertime!
 An: Thank goodness too. For a second there, I was worried that it'd get dark before we could finish pitching our tents and getting ready for dinner!
@@ -100,4 +100,4 @@ Toya: S-Sorry...! Luka just...
 Luka: <Oh, don't mind me. Go have fun with your friends.>
 Luka: <You should be enjoying every second of this moment!>
 Toya: Right... Again, thank you.
-(Black cut)
+(Black transition)

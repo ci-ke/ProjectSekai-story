@@ -18,7 +18,7 @@
 (Background change)
 奏: ミクのところへ連れて行って
 奏: メッセージの、最後のピースを埋めるために
-(White cut)
+(White transition)
 (Background change)
 
 [？？？のセカイ]
@@ -58,7 +58,7 @@
 ミク: ねえ、みんな。 試してみたいことがあるんだけど、いいかな？
 ミク: 上手くいけば、わたし達の歌を あの子に直接届けられるかもしれないよ
 奏: え？
-(Black cut)
+(Black transition)
 ミク: ……あの子の想いの欠片を、 わたし達の真ん中に置いて——
 ミク: はい、準備できたよ
 一歌: 想いの欠片を囲んで歌うだけで、 本当にあの子に届くの？
@@ -82,49 +82,41 @@
 ミク: （きっと今頃、想いの欠片は砕けてしまっていたと思う）
 ミク: （……みんなの想いを、無駄にしたくない）
 ミク: （だからわたしも、みんなの想いをあの子に——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ミク: このセカイは、５つのセカイと繋がっていて 想いの持ち主以外の子達の想いも ひとつになっているみたいだし
 ミク: そうやって、人と人—— 想いと想いを繋げることができるセカイなのかも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ミク: （……みんながここで出会った理由がわかった気がする）
 一歌: （……え、手？）
 奏: （……わたし達も？）
 えむ: （繋ご、繋ご～っ♪）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000573/bg_s000573.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000573/bg_s000573.webp)
 ミク: （みんなの歌から、この手から——強い想いを感じる）
 ミク: （この想いをこのまま、あの子まで届けたい……！）
 ミク: ♪————……　♪——————
-(White cut)
+(White transition)
 (Background change)
 
 [乃々木公園]
 
 少女: （……この公園、久しぶりに来たな。 昔は、おばあちゃんとよく来てたっけ……）
 少女: （ここに来たら、また苦しくなるかなって ちょっと怖かったけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 少女: （あの人達のおかげだな……）
 少女: …………曲、か
 少女: ……え？
 少女: なに、これ……スマホが、光って——
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 奏: うっ……目がつぶれるかと思った
 えむ: わー、見て見て！ あたし達、空に浮いてるよー！
@@ -156,15 +148,11 @@
 少女: （すごく、悲しいメロディー…… でも、胸の奥に自然と入ってくる）
 少女: （あ……そっか……）
 少女: （この悲しい気持ち、わたし——知ってるんだ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 少女: おばあちゃん……っ
 誰かの歌声: 『♪——————　♪————』
@@ -175,24 +163,20 @@
 誰かの歌声: 『でも歌おう　歌を 奏でよう　あの空に』
 誰かの歌声: 『届けたかった　想いがある限り 約束が　そこに在る限り』
 少女: ……………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: 今はまだ、思い出が悲しい気持ちを 大きくしちゃってるかもしれないけど
 えむ: いつか、今までたくさん感じてた幸せな気持ちも 一緒に連れてきてくれるよ
-(White cut)
+(White transition)
 遥: ……そんなに、自分を追い詰めないで
-(White cut)
+(White transition)
 一歌: 作曲が難しいなら…… しばらく、聴く側になってみるのはどうかな
 一歌: 悲しみを受け止めてくれたり、元気をくれたりする曲が—— あなたに寄り添ってくれる曲が、きっとあると思うんだ
-(White cut)
+(White transition)
 奏: ——わたしが、あなたのための曲を作るから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 少女: こんなに……
 少女: こんなに、心に響く音楽があるんだ
@@ -200,8 +184,8 @@
 少女: …………届く、かな
 少女: この曲くらい、すごいのを作ったら—— 天国にいるおばあちゃんにも、届けられるかな？
 少女: え……！　またスマホが……
-(White cut)
+(White transition)
 (Background change)
 ？？？: 大丈夫。ひとりじゃないよ
 ？？？: ——ようこそ。あなたのセカイへ
-(Black cut)
+(Black transition)

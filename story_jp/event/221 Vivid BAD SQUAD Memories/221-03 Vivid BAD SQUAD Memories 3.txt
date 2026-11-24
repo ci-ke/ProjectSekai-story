@@ -8,42 +8,34 @@
 こはね: （……返事しなくちゃ……。 でも、なんて……？）
 こはね: （東雲くんの言う通りだ……。 私、心のどこかで、杏ちゃんと一緒だったら大丈夫って……）
 こはね: （……だからあの時だって歌えなくて……。 それで、杏ちゃんにも迷惑かけて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: 今日こはねと歌った瞬間が、一番ドキドキした！ だから、こはねと一緒にもっといろんな歌を歌いたいの！
-(White cut)
+(White transition)
 杏: うん！　やろうよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……………………っ
 こはね: ……う……ぐすっ……
 こはね: あっ、スマホが……
 こはね: ……『Untitled』……
-(Black cut)
+(Black transition)
 (Background change)
 : 落ち込むこはねは再びセカイに導かれ、 バーチャル・シンガー達に不安や悩みを打ち明けた
-(Black cut)
+(Black transition)
 (Background change)
 ミク (VBS): こはねは、自分の“本当の想い”ってなんだと思う？
 こはね: 私の“本当の想い”……
 こはね: わからない……でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ♪　――！　――！　――！！
 こはね: ……！　――♪　――♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 私……お店で初めて歌った時 すごくドキドキして、楽しかった
 こはね: あのドキドキした瞬間が忘れられなくて、 だから、杏ちゃんに誘ってもらえた時本当に嬉しかった
@@ -56,7 +48,7 @@
 ミク (VBS): それはこはねの、こはねだけの、大切な想いだから。 きっと、大事にしていいと思うよ
 こはね: ……………………
 こはね: ……私は……私の本当の想いは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -64,7 +56,7 @@
 こはね: 杏ちゃん、心配してくれたのに 全然返事できなくて、ごめんね
 杏: そんなの全然いいよ！ それより、その髪、どうしたの！？　メガネも……！
 こはね: うん。実は昨日ね……
-(Black cut)
+(Black transition)
 杏: そっか、ミク達に会ったんだ
 こはね: うん。 それで、私決めたの
 杏: 決めた？
@@ -77,10 +69,10 @@
 杏: ……やっぱり思った通りだった
 杏: こはねは私の、最高の相棒だね！
 こはね: えへへ……ありがとう、杏ちゃん
-(Black cut)
+(Black transition)
 (Background change)
 : 決意を新たにしたこはね達の前に、 彰人と冬弥がやってきて——
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……おい、まだウロウロしてるのか。 聞こえなかったのか？　この店は、お前みたいな中途半端な……
 こはね: ……中途半端じゃないよ
@@ -96,7 +88,7 @@
 こはね: 『RAD WEEKEND』のことも、ここで歌う人達の気持ちも まだまだ全然わかってないかもしれない。でも……
 こはね: 私は、ここで杏ちゃんと一緒に、 みんながドキドキする、最高のイベントを作りたい！
 こはね: だから絶対、もう逃げない！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -109,4 +101,4 @@
 冬弥: ……いや、なんでもない
 彰人: なら次のセトリ考えるぞ。 今度こそあいつらを潰してやる
 冬弥: …………。 彰人、俺は……
-(Black cut)
+(Black transition)

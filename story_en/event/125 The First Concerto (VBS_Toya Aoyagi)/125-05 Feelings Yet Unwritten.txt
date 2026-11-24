@@ -2,7 +2,7 @@
 
 (Character: Toya Aoyagi, MEIKO)
 
-(White cut)
+(White transition)
 ???: (Again...)
 ???: (Again, from the beginning.)
 ???: (Until you get it right.)
@@ -15,7 +15,7 @@
 ???: (I...don't think I ever can...)
 ???: ...
 ???: Is this really it for you...?
-(White cut)
+(White transition)
 (Background change)
 Toya: *Gasp*
 Toya: It was a dream...?
@@ -35,12 +35,12 @@ Toya: But...
 Toya: Yes, you're right... Then, I'll try going for a walk.
 Toya's Mother: You will...? Please be careful, okay?
 Toya: I will.
-(Black cut)
+(Black transition)
 (Background change)
 Toya: (I feel terrible about making her worry so much...)
 Toya: (But I don't have a second to spare. I need to keep working on this song.)
 Toya: (So, if I can't work at home, then I should go to...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -55,16 +55,16 @@ Toya: That voice...
 Toya: MEIKO...
 MEIKO (VBS): Why are you squatted down like that? Are you by chance not feeling well?
 Toya: No, this is nothing... I just need to take a short break and... *Wince*
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000295/bg_s000295.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000295/bg_s000295.webp)
 MEIKO (VBS): No. I can't just let you wallow in pain.
 MEIKO (VBS): Sit tight. I'll go get you a drink from the cafe.
 Toya: No, you don't have to...
 MEIKO (VBS): Toya, do as I say.
-(White cut)
+(White transition)
 (Background change)
 Toya: Okay, I'll sit tight...
-(Black cut)
+(Black transition)
 Toya: Phew...
 Toya: Thank you very much. I feel much better after having some of your tea and snacks.
 MEIKO (VBS): Thank goodness. Looks like you were just sleep-deprived.
@@ -92,7 +92,7 @@ MEIKO (VBS): Also, Toya, would you mind if I had a look at your notes?
 Toya: What?
 MEIKO (VBS): You showed them to KAITO already, right? I'm actually a little curious myself as to what you wrote...
 Toya: Yes, of course. I'm sure the others would also be okay with it.
-(Black cut)
+(Black transition)
 MEIKO (VBS): So, when you all performed in STAY GOLDEN that second time, Kohane decided to believe in herself because An believed in her.
 Toya: Yes, that was what stood out to her the most. And I'd like to weave what she felt that time into my song...
 MEIKO (VBS): Hehe. I'm looking forward to hearing what that sounds like.
@@ -107,17 +107,13 @@ Toya: But I already know how I feel, so I don't think I need to spell it all out
 MEIKO (VBS): Are you sure? Your feelings are also going to play a major role in your song, no?
 MEIKO (VBS): So, what if you do for yourself what you did for the others? Try writing down everything that you've felt until now.
 Toya: Everything I've felt...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: (I...)
 ???: (I...don't think I ever can...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: *Wince*
 MEIKO (VBS): Toya?
@@ -137,4 +133,4 @@ Toya: I'll try doing that today after I get back.
 MEIKO (VBS): Okay. Good luck, Toya!
 MEIKO (VBS): But please try to get some rest first. I wouldn't want you to start feeling dizzy again.
 Toya: I will. And thank you for the concern.
-(Black cut)
+(Black transition)

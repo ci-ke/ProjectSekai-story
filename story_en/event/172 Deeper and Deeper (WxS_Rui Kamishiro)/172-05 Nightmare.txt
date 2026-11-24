@@ -15,7 +15,7 @@ Rui: The fact of the matter is that “Goodbye Ghosts” is miles ahead of anyth
 Rui: (It's difficult to put into words... But Tom's shows have “depth”.)
 Rui: (The problem is, I have no idea how to capture that.)
 Rui: Digging deeper into the themes, adjusting the direction... All I can do right now is explore my options and see what sticks.
-(Black cut)
+(Black transition)
 (Background change)
 Math Teacher: Remember this formula, because you'll be using it a lot moving forward. And yes, it will be on the test.
 Rui: (If I'm going to achieve that level of depth, then I'll need to find a theme I'm intimately familiar with.)
@@ -25,13 +25,13 @@ Math Teacher: ...
 Math Teacher: Kamishiro, try solving problem three in the textbook for us.
 Rui: X-squared minus three.
 Math Teacher: Correct.
-(Black cut)
+(Black transition)
 (Background change)
 Rui: (I've come up with a number of ideas, but none of them seem to fit the bill.)
 Rui: (It works as a show... But it also feels like it's been jury-rigged together using things taken from existing works.)
 Rui: (More to the point, I don't find it interesting.)
 Rui: I should start over.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -53,7 +53,7 @@ Rui: Yes, I have had quite a lot to think about regarding the assignment. I am a
 Rui: Because I see the wall which I need to overcome now. So, please bear with me for a little bit longer.
 Nene: Okay... But don't overdo it.
 Rui: I won't.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Evening]
@@ -68,7 +68,7 @@ Rui: (The longer I delay my staging and script, the less time they'll have to re
 Rui: (I need to avoid that at all costs...)
 Rui: (But this lack of sleep is hindering my thought process...)
 Rui: (I should take a quick nap.)
-(Black cut)
+(Black transition)
 (Background change)
 Rui: (My body feels so heavy.)
 Rui: (It's like something is tangled around my feet...)
@@ -78,18 +78,18 @@ Rui: Huh? Who said that just now?
 Rui: In the eye...? What are you talking about?
 ???: <Pretending that I'm not here won't help. I'm not going anywhere.>
 ???: <Because I'm...>
-(Black cut)
+(Black transition)
 ???: Rui...
 ???: Rui, are you okay?
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000465/bg_s000465.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000465/bg_s000465.webp)
 Luka (WxS): Oh, thank goodness. You're finally awake.
 Rui: Luka...?
 Luka (WxS): I'm sorry for waking you.
 Luka (WxS): But you seemed to be suffering in your sleep.
-(White cut)
+(White transition)
 (Background change)
 Rui: In my sleep...
 Rui: (Ah, of course... That was all a dream.)
@@ -126,4 +126,4 @@ Rui: (Then I should try to solve this puzzle a different way.)
 Rui: You're right. I can't stay stuck in this nightmare forever.
 Rui: I don't know how well things are going to go, but I'll try what I can.
 Luka (WxS): Good. I believe in you, Rui.
-(Black cut)
+(Black transition)

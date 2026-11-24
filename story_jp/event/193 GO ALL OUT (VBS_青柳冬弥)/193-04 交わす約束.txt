@@ -54,25 +54,21 @@
 スレイド: トーヤは優しいから、きっと……オレに気を遣っちゃうと思う
 スレイド: だけど、オレは——嫌なんだ。 本気で戦いたい相手に、気を遣われるのは
 スレイド: ……今までも、そういうことはあったから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミュージシャンA: 『——聞いたか？　スレイドの噂……』
 ミュージシャンB: 『ああ……気の毒にな。 俺達も、次のイベントの曲は あいつらがやりやすいように調整するか』
-(White cut)
+(White transition)
 (Background change)
 対戦相手A: 『スレイド、あんま無理すんなよ』
 対戦相手A: 『片耳が聴こえないと、前と同じように 音は取れないだろ？』
-(White cut)
+(White transition)
 (Background change)
 対戦相手B: 『その……いろいろ、大変だったな』
 対戦相手B: 『もし何かあったら、その分俺達が盛り返すからさ。 あんまり気負わないで歌ってよ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 スレイド: 相手に悪気がないのは、わかってるよ。 本気で心配してくれてるってことも
 スレイド: それでも……優しさも、気遣いも、オレは欲しくないんだ
@@ -92,4 +88,4 @@
 スレイド: 全力で、トーヤ達に勝ちにいくからさ
 冬弥: ……こちらこそ、よろしく
 (Background change)
-(Black cut)
+(Black transition)

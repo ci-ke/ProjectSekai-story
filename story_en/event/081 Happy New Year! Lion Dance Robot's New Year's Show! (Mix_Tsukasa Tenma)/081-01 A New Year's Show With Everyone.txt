@@ -12,10 +12,10 @@ Tsukasa: “However, this box is enormous... If it is filled with gold, then I w
 Tsukasa: “Heh heh heh. So, let us see what is inside!”
 MEIKO: Now, Robo-Nene! Flash your lights!
 Robo-Nene: Engaging.
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: “Ah, such a heavenly light...! This must be a treasure of immeasurable wealth!”
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: “Oh, my eyes... I was afraid that I had gone blind... Hm?”
 Tsukasa: “Waaaaaaaaah!!! Wh-What is this?!”
@@ -35,23 +35,23 @@ Lion Dance Robot: “CHOMP.”
 Tsukasa: “A-Anything...? Including gold, money and giant castles...?!”
 Lion Dance Robot: “CHOMP! CHOMP...!”
 MEIKO: One more time, Robo-Nene!
-(White cut)
+(White transition)
 (Background change)
 KAITO: Miku, Len, just like we practiced! Get ready to raise the castle backdrop on three! One, two, three!
 Miku & Len: Now!
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: “Wh-What?! A castle just appeared in the distance?! You truly are a deity...?”
 Tsukasa: “Then, I know! To make my dream of having a castle of my own a reality, I shall make the people of this land smile...”
 Lion Dance Robot: “CHOMP!”
 Luka: And so, Tsukasanosuke embarked on a journey with the Lion Dance Deity to perform for people all across Japan♪
-(Black cut)
+(Black transition)
 Emu: “Woof woof woof! It's great to see so many people visiting the shrine today♪”
 Emu: “But this Lion-Dog's starting to get bored of being stuck here working. It'd be great to go out for a walk and go somewhere else for a change...”
 Tsukasa: “Come one, come all! All are welcome to see the traveling performer!”
 Emu: “Hm? Is he a traveling performer? Does that mean he's gonna do something for all of us?”
 Emu: “That sounds fun! Oh, I know! I should ask to see if I can join him...!”
-(Black cut)
+(Black transition)
 Nene: “*Yawn* Another beautiful day...”
 Nene: “I am so glad that I was born a Snake Deity. All these humans bring me offerings without me having to lift a finger.”
 Nene: “However, they are all so scared of me that they refuse to stay to listen to my singing... *Sigh*”
@@ -62,7 +62,7 @@ Tsukasa: “A Snake Deity?! That is quite a rare find... Hm...?”
 Tsukasa: “Hehehe... If she were to join us, our performance should attract just that much more attention! Lion-Dog, we must capture her!”
 Emu: “Yeah!”
 Nene: “Wh-What?! Capture?! N-No, stay away!”
-(Black cut)
+(Black transition)
 Rui: “Oh, what is this? I exited the shrine to see what was going on with the village...”
 Emu: “Come one, come all! See the traveling performer's amazing show!”
 Nene: “S-Singing is all I promised to do...!”
@@ -70,7 +70,7 @@ Rui: “Well, it is nice to see a troupe like this for a change.”
 Rui: “It may actually be worth this shapeshifting fox's time to join in on the festivities.”
 Rui: “Let us see how it goes... Hello there, traveling performer. Do you have a moment?”
 Tsukasa: “Hm?”
-(Black cut)
+(Black transition)
 Luka: The Lion Dance Deity led the human, Lion-Dog, Snake and Fox as they set out to put smiles on the faces of people all across Japan, from north to south, by performing a show that they had never seen before.
 Luka: Before they knew it, ten years had passed, and they were able to put on a New Year's performance that made the entire audience smile from ear to ear.
 Tsukasa: “We... We finally did it...!”
@@ -88,7 +88,7 @@ Lion Dance Robot: “CHOMP...”
 Tsukasa: “Bah... You liar! Begone with you...!”
 Emu: “Wait, no! Don't go!”
 Lion Dance Robot: “CHOMP...”
-(Black cut)
+(Black transition)
 Tsukasa: “*Sob* Were these past ten years all for naught...?”
 Emu: “Please cheer up, Tsukasanosuke! Your castle... I can't really do anything about that...”
 Emu: “But I had a lot of fun these past ten years thanks to you.”
@@ -107,12 +107,12 @@ Tsukasa: “... I apologize for calling you a liar, my friend.”
 Tsukasa: “I could not have attained this treasure on my own. You were the one who made it possible.”
 Tsukasa: “So, thank you for these past ten years.”
 Lion Dance Robot: “...! CHOMP!”
-(White cut)
+(White transition)
 Tsukasa: “Huh?! Why are you glowing...?!”
 Lion Dance Robot: “CHOMP! CHOMP CHOMP!”
 Rui: “I see. I do not fully understand what is happening, but by bringing back the smiles on everyone's faces, you seem to have regained your powers...”
 Nene: “So much power...! More power than even the Great Snake Deity!”
-(White cut)
+(White transition)
 Tsukasa: “W-Wait! A real castle...?! My wish came true...?”
 Emu: “That's great, Tsukasanosuke! You finally got the castle you wanted!”
 Tsukasa: “How would you all feel about using this place as a theatre for our performances...?”
@@ -121,7 +121,7 @@ Emu: “Yeah! I wanna do that! Let's keep doing shows together!”
 Lion Dance Robot: “CHOMP!”
 Tsukasa: “Whoa! Give me a little warning before throwing yourselves at me like that! Hahaha...!”
 Luka: And so, Tsukasanosuke and his merry group of friends continued to make everybody all across the land smile. The end.
-(Black cut)
+(Black transition)
 KAITO: Yes, excellent dress rehearsal...! And a wonderful New Year's spectacle!
 Tsukasa: Hah hah hah! Of course it is!
 Rui: We plan to have some members of the audience participate during the day of, so things should become even more fun.
@@ -141,7 +141,7 @@ Rui: Don't worry. I made it so his fans automatically cool him while he runs aro
 Tsukasa: Wait, so I have to keep running until he does?!
 Rin: Oh, they're playing tag♪ We wanna join!
 Len: Alright, let's jump right into it!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000149/bg_s000149.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000149/bg_s000149.webp)
 Tsukasa: W-Wait! We aren't playing tag!!!
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 桃井愛莉)
 
-(White cut)
+(White transition)
 (Background change)
 
 [１年前]
@@ -14,7 +14,7 @@
 愛莉: 雫は……いないか。 たしか今日は、雑誌の撮影があるって言ってたものね
 愛莉: うーん、どうしようかしら……
 愛莉: ——あ、そうだわ……！
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: ええっと、A組は……
 ？？？: あれ、愛莉ちゃん？
@@ -25,7 +25,7 @@
 あゆみ: あ、そうだ。他にも何人か誘っていいかな？ ほら、前にも紹介したクラスの子達なんだけど…… いつも一緒に食べてるから
 愛莉: ええ、いいわよ！ 向こうがよければだけど
 あゆみ: じゃあ、みんな呼んでくるね。 愛莉ちゃんは中庭で待ってて！
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -45,17 +45,13 @@
 あゆみ: え？　わたし、何かしたっけ？
 愛莉: ふふ、そうね。そっちからしたら、 たいしたことじゃなかったかもしれないけど……
 愛莉: でも、あゆみはね、わたしがアイドルを目指してるってこと、 笑わずに聞いてくれたの
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生のあゆみ: え……アイドルになりたい？
 中学生のあゆみ: わっ……す、すごい……！ なれるよ！　愛莉ちゃんなら絶対……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: あの言葉が、なんだかすごく嬉しかったのよ。 アイドルになりたいなんて言うと、 みんなに笑われることが多かったから
 愛莉: だから……応援してくれる人もちゃんといるんだって、 すごく励まされたの
@@ -82,7 +78,7 @@
 愛莉: そうだ。せっかくだし、愛莉って呼んでちょうだい。 そのほうが早く仲良くなれると思うし
 生徒A: いいの！？　じゃあ……愛莉！ これからよろしくね！
 愛莉: ええ、よろしくね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数週間後]
@@ -108,7 +104,7 @@
 愛莉: 『ええ。いつか必ずね』
 愛莉: ……いつか、ね
 愛莉: （そんな日、本当に来るのかしら……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -141,17 +137,13 @@
 あゆみ: ふふっ、次行った時、買ってみよう！
 あゆみ: 愛莉ちゃんも、次は一緒に行こうね！
 愛莉: え？　あ……そうね！ 次は一緒に——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: ……いつか、ね
 愛莉: （そんな日、本当に来るのかしら……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: …………
 愛莉: （今回も、期待させるようなことを言って…… 結局断ることになったら……）
@@ -178,14 +170,14 @@
 愛莉: （けど——）
 生徒B: あゆみ、スマホ貸して！　絶対見られる前に削除するから！
 あゆみ: ああ、ちょっと！　わたしのスマホ、返してよ～
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000184/bg_s000184.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000184/bg_s000184.webp)
 愛莉: （……そうよね。きっと、仕方ないのよね）
 愛莉: （みんなと遊ぶ時間よりも、仕事を優先してきたのはわたしだし。 あゆみに……ああ言われるのも……）
 愛莉: （——これはわたしが……選んだ道なんだから）
 愛莉: （でも……）
 あゆみ: あ、これ、最後にみんなで撮った写真！ 結構綺麗に撮れてるね！
-(White cut)
+(White transition)
 (Background change)
 愛莉: （……あの中にいられないことが、 こんなにも寂しいのね）
-(Black cut)
+(Black transition)

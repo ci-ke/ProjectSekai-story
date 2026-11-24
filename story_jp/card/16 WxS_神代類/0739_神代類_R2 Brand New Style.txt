@@ -40,15 +40,11 @@ Skill name: 委員長の気づかい
 類: けれど……
 類: ……振り返ってみれば、ずいぶん遠くにきたものだと思ってね
 寧々: 類……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 互いの本を持ちよって遊んでいた、あの頃——
 類: 人魚姫の舞台を見たあとの僕達は、 飽きずに何度もその話をしていたね
@@ -58,15 +54,11 @@ Skill name: 委員長の気づかい
 類: それは——とても素敵なことだとは思わないかい？
 寧々: ……そうだね
 寧々: それに、あの頃のわたし達のショーは、 ふたりだけだったけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 今は、大切な仲間も増えたもんね
 類: ああ。 この１年は僕達の転機となる、大きな年だったね
@@ -75,7 +67,7 @@ Skill name: 委員長の気づかい
 寧々: ……今更何言ってんだか
 寧々: でも……
 寧々: こちらこそ、よろしく。 これからも一緒に、夢をかなえていこうね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -107,7 +99,7 @@ Skill name: 委員長の気づかい
 類: わかったよ。 それなら僭越ながら、僕から活動内容を話させてもらおう
 類: みんな、ついてきてくれるかい？
 新入生の緑化委員達: わ……、わかりました……
-(Black cut)
+(Black transition)
 (Background change)
 
 [校庭]
@@ -138,4 +130,4 @@ Skill name: 委員長の気づかい
 新入生の緑化委員達: …………。 僕、緑化委員がんばります
 新入生の緑化委員達: 先輩、いろいろ教えてください！
 類: ああ、なんでも聞いてくれて構わないよ。 委員会の時間でも、それ以外でもね
-(Black cut)
+(Black transition)

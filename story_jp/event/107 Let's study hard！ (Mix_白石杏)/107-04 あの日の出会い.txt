@@ -18,7 +18,7 @@
 瑞希: ん～
 瑞希: あんまり人入れなさそうだし、ボクだけで買ってくるよ。 杏はここで待ってて
 杏: あ、いいの？　ありがと瑞希！
-(Black cut)
+(Black transition)
 
 [十数分後]
 
@@ -82,10 +82,8 @@
 瑞希: （けど……）
 瑞希: （すごいな、杏は。……どんな相手とだって、 仲良くなったり認め合えるって思えるなんて）
 瑞希: （きっと、だからあの時も——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: （ふう……。やっとお昼か）
 瑞希: （あーあ、午後の授業めんどくさ……。 お昼食べたらサボっちゃおっかなー）
@@ -97,10 +95,8 @@
 杏: でも……せっかく同じクラスになったんだし、 仲良くしたいなって思って！
 瑞希: ……あははっ。 まあ、ちょっとびっくりしたけど大丈夫
 瑞希: ……ボクも瑞希でいいよ！ よろしくね、杏
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （入学したばっかりの時、 みんなボクのことを遠巻きにしてたのに 杏は普通に話しかけてくれた）
 瑞希: （それができたのは……）
@@ -109,18 +105,18 @@
 瑞希: あ……ううん。なんでもない！
 瑞希: ——そろそろ行こっか！　だんだん寒くなってきたし
 杏: うん！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000233/bg_s000233.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000233/bg_s000233.webp)
 瑞希: っていうかアップルパイ！ せっかく買ったのに冷めちゃうよ！
 瑞希: ほら、杏も食べて食べて！
 杏: あ、そうだった！　いただきま～す！
 杏: ん～っ！　なにこれ、すっごい美味しい！
 瑞希: 疲れた頭には、やっぱり甘いものが一番だね～
-(White cut)
+(White transition)
 (Background change)
 杏: だね！ 瑞希、買ってきてくれてありがと！
 瑞希: どーいたしまして！
 瑞希: そうだ！　このアップルパイ、 メープルシロップとかシナモンとか 他にもいろんな味があったんだ！
 瑞希: だから、また今度一緒に行こうよ！
 杏: 行く行く！ いつにしよっか、あいてる日ある？
-(Black cut)
+(Black transition)

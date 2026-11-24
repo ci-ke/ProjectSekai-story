@@ -6,10 +6,10 @@
 
 [New York City - Park]
 
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 An: Wow...! This place is huge!
 Kohane: It's such a beautiful park...!
 Elena: Hehe. The weather's really nice, so it's the perfect time to talk about our little show!
@@ -17,7 +17,7 @@ Rebecca: The locals have picnics and stuff here a lot.
 Slade: Why don't we grab some grub at the food trucks and munch while we talk?
 Akito: Sure. How does that patch of grass sound?
 Toya: Yes, that looks good. It even has benches. Let's go claim them now, shall we?
-(Black cut)
+(Black transition)
 
 [Thirty minutes later]
 
@@ -31,15 +31,11 @@ Kohane: Does Elena write all the songs for illys?
 Rebecca: *Nod* I'll help arrange things from time to time, but she does most of the work.
 An: That was such an amazing song!
 An: That street performance you did was really powerful, but the way you sang this time was—
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: An?
 An: Umm...
@@ -68,16 +64,12 @@ Elena: The thing is, our dad... He's one of the sponsors for RUSH BEATS.
 Elena: A big one at that.
 Kohane: What...?
 Toya: For RUSH BEATS...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Cedric: Yeah. And just last year, they got a big-name sponsor on board.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Come to think of it, Cedric did mention something about that...)
 Elena: When you're competing at RUSH BEATS, you're probably gonna hear all sorts of rumors...
@@ -86,4 +78,4 @@ Elena: So, before you're exposed to them, we need to tell you the real story our
 Elena: Would you mind listening for a bit? About us and our dad, DG...
 An: Elena...
 An: Yes, please tell us.
-(Black cut)
+(Black transition)

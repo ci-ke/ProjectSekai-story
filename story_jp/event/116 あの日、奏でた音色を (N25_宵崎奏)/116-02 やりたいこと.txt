@@ -8,19 +8,15 @@
 (Background change)
 奏: …………
 奏: （わたしの今後、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の祖母: 『おばあちゃん、そろそろ奏ちゃん自身のことを 考えてもいいと思うの』
 奏: わたしの、こと……？
 奏の祖母: 『ええ。今の学校を卒業したらどうするか、とか 進路のことも考えなくちゃいけないでしょうし』
 奏の祖母: 『だから……これからどうしたいのか、 奏ちゃんの気持ちを知りたいと思って』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （今まで、ちゃんと考えられてなかったな）
 奏: （誰かを救う曲を作らなきゃって、そればっかりで……）
@@ -107,4 +103,4 @@
 (Background change)
 奏: 『わたしがやりたいこと、か……』
 奏: 『……わかった。 ありがとう、ふたりとも』
-(Black cut)
+(Black transition)

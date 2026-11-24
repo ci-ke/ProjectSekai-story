@@ -40,7 +40,7 @@ Luka: This SEKAI is made from your feelings. Honami's feelings and wishes must m
 Ichika: I can find them here?
 Ichika: Oh... The star map. Is this it?
 Ichika: Is this the clue to what Honami's really thinking?
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -61,16 +61,12 @@ Honami: Huh?
 Honami's Classmate A: You're kind of gloomy lately. What's eating you?
 Honami: It's nothing! Sorry to make you worry.
 Honami's Classmate B: Uh-oh, is it something you can't talk about with your friends?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: You're making it pretty obvious you think your current friends would turn on you given half a chance.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: .....
 Honami's Classmate A: ...You sure you're okay?
@@ -82,4 +78,4 @@ Honami's Classmate A: I've got my club today, so don't worry about me.
 Honami's Classmate B: And I've got work!
 Honami: I... I guess I'll be free then.
 Ichika: Thanks. I need to talk to you about something. It's really important.
-(Black cut)
+(Black transition)

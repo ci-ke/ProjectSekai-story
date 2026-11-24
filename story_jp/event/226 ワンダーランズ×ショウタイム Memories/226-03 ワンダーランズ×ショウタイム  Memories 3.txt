@@ -3,16 +3,16 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, KAITO)
 
 : ついに迎えた、ワンダーランズ×ショウタイムの初公演。 最初は順調に進んでいくが、ショーの山場でトラブルが起き——
-(Black cut)
+(Black transition)
 (Background change)
 エムム (えむ): 『あたしは魔王様のドラゴンのお世話係・エムム！ 王子なんて、ぺっちゃんこにしちゃうぞ～！』　
 ペガサス (司): 『くっ！　あんな巨大なドラゴン、どう倒せばいい！？』
 類: ……うん、いい調子だね
 類: この後は――寧々のソロパートだ
-(Black cut)
+(Black transition)
 寧々: （……あの時からずっと、ステージに立つのが怖かった）
 寧々: （でも、このステージがうまくいけば、もしかしたら……）
-(Black cut)
+(Black transition)
 ペガサス (司): 『そうか！　あのドラゴンは、歌で眠りにつくのか！ 何か歌を歌って……』
 ネ・ネー: 『……ココは、ワタシにマカセテクダサイ。 ウタを、ウタイマショウ』
 寧々: ……できる……！
@@ -55,7 +55,7 @@
 母親: なんだかよくわからないショーだったわね……
 父親: 最初はよかったのに、急につまらなくなったなあ。 まあ、他のアトラクションに乗ろうか
 司: ……っ！！
-(Black cut)
+(Black transition)
 司: ……お前が、あのロボットを操作していた寧々か
 寧々: …………
 えむ: 寧々ちゃん……。 そんなにしょんぼりしないで。ね？
@@ -102,28 +102,24 @@
 類: それと――
 類: 君はスターになんてなれない
 司: ……！！
-(Black cut)
+(Black transition)
 (Background change)
 : 初公演が失敗に終わり、ワンダーランズ×ショウタイムは バラバラになってしまう
-(Black cut)
+(Black transition)
 (Background change)
 司: クソッ……！ なんでこんな……！
 司: ……オレは、ただショーを……
 司: ……？ 今、何かが光って……スマホか？
 司: 『Untitled』……？ どうして今……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 KAITO: また困った時は、いつでも来てほしいな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -132,17 +128,17 @@ KAITO: また困った時は、いつでも来てほしいな
 ？？？: グス……
 司: ……？　……泣き声……？ いったい誰が……
 うさぎのぬいぐるみ: グス……グス……
-(Black cut)
+(Black transition)
 (Background change)
 : セカイで泣いていたぬいぐるみを元気づけようと、 司は即興のショーを始めて——
-(Black cut)
+(Black transition)
 (Background change)
 司: 気をつけろ！　嵐が来る！ こんな小舟ではさらわれてしまうぞ！！
 うさぎのぬいぐるみ: ウン！　ツカサクンモ、ツカマッテ！
-(Black cut)
+(Black transition)
 司: 強いモンスターが出たぞ！ うーん、どうやって倒すか……
 うさぎのぬいぐるみ: キット、コノケンをツカウンダヨ！
-(Black cut)
+(Black transition)
 司: ハッハッハ！　かなりの大冒険ができたな！ それに……なんだか、妙に懐かしい気分だ
 うさぎのぬいぐるみ: ワタシもダヨ。ツカサクン
 司: ……あれ？　 お前、足の裏に何か書いてあるぞ？
@@ -158,11 +154,9 @@ KAITO: とてもキラキラしていたよ。 あれこそまさに、スター
 司: ……スター？ あんな、ただの遊びが……？
 ミク (WxS): そうだよ～☆ だって、泣いてた子が、あ～んなに笑ってくれたんだよ？
 司: …………。 笑って……あ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い咲希 (咲希): ……お兄ちゃん。なんでアタシだけ みんなと一緒に学校に行けないのかなぁ……
 幼い咲希 (咲希): 学校で、いっちゃん達と遊びたいな……
 幼い司 (司): …………
@@ -172,34 +166,28 @@ KAITO: とてもキラキラしていたよ。 あれこそまさに、スター
 幼い司 (司): オレが、咲希を苦しめる病気をこらしめてやる！ さあ出てこい出てこい！　……出てこないだと！？ 咲希、敵はかなりおくびょうなヤツだ！
 幼い咲希 (咲希): ……ぷっ、あはははは！ なあに、ペガサスマンって！
 幼い咲希 (咲希): もっと見せて！　お兄ちゃん！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: ……そうだ
 司: オレはただ、咲希のことを笑わせたかったんだ……
 司: あの日咲希と見たショーの、スターのように
 司: スターになりたいって思ったのも、 オレも……咲希も……あの時、最高の笑顔をもらったからだ……
 司: それなのにいつの間にか、 ショーを成功させて、スターになることばかりにこだわって……
 司: オレは……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ネネロボ: 『みんな喜んでくれるといいな……』
-(White cut)
+(White transition)
 (Background change)
 類: 一緒にみんなが笑顔になるショーを作ろう、天馬くん
-(White cut)
+(White transition)
 (Background change)
 えむ: あたし、このステージにショーを見に来てくれる人が、 みーんなニコニコ笑顔になってくれることが夢だったの
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: …………っ
 司: ……オレよりあいつらの方が、 よっぽどスターじゃないか……
 KAITO: 司くん、そんなことはないよ
@@ -211,4 +199,4 @@ KAITO: きっとできるよ。だって君は、 "みんなに笑顔をあげ�
 司: ……！
 司: ……ははっ
 司: ああ、そうさ。……その通りだ！ ありがとう、ふたりとも！
-(Black cut)
+(Black transition)

@@ -13,7 +13,7 @@ Teacher: I'll pass out the scripts now, so please take this time to flip through
 Teacher: And don't forget to think about which roles you'd like to try auditioning for.
 Students: Understood!
 Nene: (“Luca”... I wonder what it's about.)
-(Black cut)
+(Black transition)
 Nene: (Interesting...)
 Nene: (The protagonist, Luca Roussel, is a kind boy from a family of nobles.)
 Nene: (He falls in love with the princess he meets in the rose garden, and he decides to try to become a suitable partner for her.)
@@ -63,7 +63,7 @@ Teacher: Now, we'll be doing a read-through.
 Teacher: We'll be holding rehearsal-style auditions starting tomorrow, so please have your lines memorized by then.
 Students: Understood!
 Nene: Understood!!
-(Black cut)
+(Black transition)
 
 [Afterwards]
 
@@ -74,15 +74,11 @@ Nene: (Oh, that reminds me...)
 Nene: (We're free to do whatever we want after this, so I might see if any of the others want to practice as a group. That should make it easier for me to learn my character.)
 Nene: Let's see...
 Nene: Oh, she's...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mori: Come to think of it, have you already received today's schedule? You're going to need it, so I can have a copy made if you don't have one.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Nene: Oh, excuse me. Would you like to practice together?
 Mori: Huh? Together...?
 Mori: I appreciate the invitation... But I'm sorry. I'd like to practice on my own.
@@ -122,4 +118,4 @@ Nene: (No...! The kind of environment I've been tossed into doesn't matter!)
 Nene: (I've never auditioned for a character like Luca before. Not only is he challenging to play, there's fierce competition.)
 Nene: (Which is why I'm sure to grow if I do somehow manage to win the role.)
 Nene: (So, for the sake of my dream, I have to do absolutely everything in my power to play him!)
-(Black cut)
+(Black transition)

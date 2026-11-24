@@ -7,7 +7,7 @@ Gacha phrase: Kappas like green foods...
 
 (Character: Rui Kamishiro, Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -26,18 +26,14 @@ MEIKO: A strange feeling...? Hmm... You certainly don't seem sick or unwell...
 MEIKO: Is something on your mind by chance?
 Luka: On my mind?
 Luka: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Luka: Hmm... Something you want to say, but can't... That's a tricky one...
 Luka: But you told us about it, didn't you, Rui...?
 Rui: Well...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: I see... You're worried about Rui.
 Luka: That time, Rui said that he was able to tell us about what was going on because we're fellow show performers.
@@ -47,7 +43,7 @@ MEIKO: Me too... Wait, hang on! The Sports Festival's today!
 Luka: Oh, it is?
 MEIKO: KAITO and the others must be getting ready to head over now, so we're going to see if this so-called spell's been broken too!
 Luka: Okay! Thank you, MEIKO.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - Campus]
@@ -78,7 +74,7 @@ Luka: <Hehe. But it looks like everybody's having so much fun.>
 Luka: (Also...)
 Rui: Hehe. Thank you. I promise to do what I can to meet your expectations.
 Luka: (Has Rui...?)
-(Black cut)
+(Black transition)
 Announcer: Here are the current standings...
 Rin: <Okay...>
 Announcer: The red team is in the lead by a large margin with the green team trailing behind and the blue team in last.
@@ -90,7 +86,7 @@ MEIKO: <Hehe. You seem just as happy, Luka.>
 Luka: <Yes, that's because...>
 Luka: <It looks like Rui found a way to break that spell.>
 Luka: (Hehe. I can't wait to see what kind of performance Rui and his friends have in store for us.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -106,7 +102,7 @@ Tsukasa: Ah, Luka! Hello!
 Emu: Hi, Luka! We came to visit☆
 Luka: Hello, everyone... Zzz...
 Tsukasa: What?! She fell asleep while standing!
-(Black cut)
+(Black transition)
 Luka: Huh? You're going to watch the Sports Festival?
 Nene: Yeah. The broadcasting club took a commemorative video, so we decided to have a watch party.
 Rui: Also, Emu wasn't able to make it because of her own club activities.
@@ -120,27 +116,27 @@ Miku (WxS): Thanks for waiting! We're all set for the watch party♪
 Rin: Yay. I can't wait to see it.
 Emu: Me neither♪
 KAITO: Hehe. In that case, let's play it!
-(Black cut)
+(Black transition)
 (Background change)
 Announcer: The Kamiyama High School Sports Festival has begun! Our opening event is turning into a heated battle for first place between the red and blue teams!
 An: You can do it, Mizuki!
 Tsukasa: You've got this, Akito!
-(Black cut)
+(Black transition)
 (Background change)
 Len: Hey, I know him! He was in the flash mob for that wedding!
 MEIKO: Oh, he was? He's such a fast runner!
 Luka: Yes. My legs would get all twisted and tangled if I tried to run like that.
-(Black cut)
+(Black transition)
 (Background change)
 Announcer: Alright, the mixed ball toss is usually a drama-filled event each year, and it looks like the green team's having a bit of a tough go at it!
 An: Yeah! That's another!
-(Black cut)
+(Black transition)
 (Background change)
 Len: Wait, they were in the flash mob too!
 KAITO: Huh? Who are they?
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): Look, it's Nene! You can do it!
 Emu: That one was so close! I'm sure you'll get the next one!
@@ -148,17 +144,17 @@ Nene: Thanks, you two. But you know this is a video, right...?
 Emu: You're right! I forgot!
 Luka & MEIKO: Hehe.
 Luka: (That's so strange. It's not like Emu, the others or I participated in the Sports Festival, but we're all getting really excited.)
-(Black cut)
+(Black transition)
 Emu: Wow...! You guys' performance was so good, Tsukasa!
 KAITO: Yes. Despite being a video, it still felt incredibly powerful.
 MEIKO: I agree. And the green team had to follow that up... Pretty tough break, huh?
 Rin: Hey, look! The blue team's performance is about to start!
-(Black cut)
+(Black transition)
 (Background change)
 Blue Squad Captain: For the blue teeeaaam!!
 Students: What?! Wait... The rooftop?!
 Students: It's the Captain of the blue team! The other squad members are by the classroom windows too... What are they all doing there...?
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Th-They jumped! Cool!
 Tsukasa: Yes, that part really caught everyone by surprise. Not only that, they used the building as a projection screen.
@@ -166,9 +162,9 @@ Nene: Pulling out all the stops to make sure they were able to put on the best p
 Rui: Hehe. All I did was think of this idea. I have my fellow squad members to thank for actually going through with it.
 Luka: Rui...
 Luka: Oh...
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Luka: (Hehe. The Rui in the video has such a beautiful smile on his face.)
 Luka: *Yawn*
@@ -181,4 +177,4 @@ MEIKO: Yes, but...
 Luka: Hehehe...
 MEIKO: She seems very happy, so why don't we just let her be?
 Miku (WxS): Yeah, okay☆
-(Black cut)
+(Black transition)

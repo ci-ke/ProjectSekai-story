@@ -22,7 +22,7 @@
 瑞希: （あ、そういえば……。 前にミク達に飴あげたら、すごく嬉しそうだったな）
 瑞希: うん！　このお菓子もミク達にあげよっと！ 海外のお菓子なら、珍しいからきっと喜んでくれるよね♪
 瑞希: そうと決まれば、しゅっぱーつ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -64,7 +64,7 @@
 ミク (N25): いろいろ、って？
 瑞希: んーまぁ……ホントにいろいろだね～
 瑞希: （あの時は——本当に苦しかったな）
-(White cut)
+(White transition)
 (Background change)
 
 [約１年前]
@@ -80,22 +80,18 @@
 瑞希: （あーあ、先生に見つからなかったらサボれたのにな）
 瑞希: （終わったら屋上でぼーっとしよ……。 類もきっと退屈してるだろうし——）
 瑞希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……そっか、類、もう卒業したんだ）
 校長: 『——それでは、これで話を終わります。 皆さん、良い１年になるよう、全力を尽くしていきましょう』
 生徒A: なあなあ、あの人に話しかけてみようよ！
 生徒B: うん。なんかおもしろそうだもんね
 瑞希: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [屋上]
@@ -103,22 +99,18 @@
 瑞希: …………やっとひとりになれた
 瑞希: やっぱりここは静かでいいな。 …………
 瑞希: （静かで、いいはずなのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 類: ——やあ、瑞希！
 類: フフフ。今、とても素晴らしい演出を考えついてね。 ちょっと聞いていかないかい？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: …………
 瑞希: ……うるさいのも、悪くなかったのかもな……
 瑞希: （……でも、類がここに来る前は、これが普通だったんだ）
 瑞希: （なら別に……なんてことないよね）
 瑞希: 元に戻っただけなんだから
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 瑞希の部屋)
 瑞希: はー……。 今日もダルかったな、学校
@@ -172,4 +164,4 @@
 瑞希の母の声: ふたりとも～、ケーキ買ってきたけど、食べる？
 瑞希: え、ホント？　食べる食べる～！ お姉ちゃん、行こう！
 瑞希の姉: …………
-(Black cut)
+(Black transition)

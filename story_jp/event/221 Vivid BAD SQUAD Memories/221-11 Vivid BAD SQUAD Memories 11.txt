@@ -9,7 +9,7 @@
 謙: ……もう、答えがでたのか？
 凪: うん。 なんか、思ったよりサラっと決まっちゃった
 凪: ——私、最期に、この街でイベントをやりたい
-(Black cut)
+(Black transition)
 (Background change)
 凪: ……みんな、今日までつきあってくれて、本当にありがとう
 凪: ……本当は、もうすぐ死ぬんだって思うと、眠るのも怖かった
@@ -20,7 +20,7 @@ RUSTのメンバー: …………
 凪: ——今日を、最高の夜にしよう。 いつかこの日を振り返った時、少しも後悔なんてないように…… 今まで誰も体験したことないくらい、人生最高の時間に！
 凪: 『RAD WEEKEND』——全力でいくよ！
 全員: 『おう！！』
-(Black cut)
+(Black transition)
 (Background change)
 大河: …………
 謙: ……大河、どうした
@@ -35,7 +35,7 @@ RUSTのメンバー: …………
 謙: …………いずれ、知るだろうさ
 謙: ……否が応でも、痛みと共にな
 大河: …………
-(Black cut)
+(Black transition)
 (Background change)
 凪: ——私、信じてるんだ
 凪: 次の世代が本当にいるなら、 その中のひとりは、絶対に、絶対に杏だって
@@ -72,11 +72,11 @@ RUSTのメンバー: …………
 凪: 最高で、楽しい人生だったよ
 大河: …………
 大河: ………………ああ……俺もだ…………
-(Black cut)
+(Black transition)
 (Background change)
 杏の父: ——そして、その１週間後
 杏の父: 凪は、静かに息を引き取った
-(Black cut)
+(Black transition)
 (Background change)
 杏: ……っ、う……！
 杏: 言いたいこと……いっぱい、あったのに……っ
@@ -85,16 +85,16 @@ RUSTのメンバー: …………
 杏: なのに……！
 杏: もう、いないなんて…………！
 杏: そんなの……酷いよ…………！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
 杏: ……う、うええ、うああああん……っ！！
 杏: 凪さん……！　凪さんっ……！
 杏: ステージ、一緒に立とうって……っ言ったじゃん……！！
 杏: 凪さん……………………！！
-(Black cut)
+(Black transition)
 (Background change)
 : RAD WEEKENDに込められた、凪の想い。 それを知った杏達は——
-(Black cut)
+(Black transition)
 (Background change)
 杏: …………決めた
 杏: 私もう————迷わない
@@ -133,4 +133,4 @@ RUSTのメンバー: …………
 杏: もっと力つけて、 新も、洸太郎も、EVERも、もう一度集めて……！
 杏: RAD WEEKENDを——超えよう！！
 彰人・こはね・冬弥: 『おう！』 『うん！』 『ああ！』
-(Black cut)
+(Black transition)

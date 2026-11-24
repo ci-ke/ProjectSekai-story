@@ -25,13 +25,13 @@ Classmate A: Hold on, cough drops?! I'd be laughing if I didn't know you sang.
 Classmate B: Don't they sell molasses candy at the school store? Wanna just get those?
 Akito: Again, lozenges.
 Friends: Haha!
-(Black cut)
+(Black transition)
 
 [Lunch Break]
 
 Toya: Akito...
 Akito: Yeah, be right there.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - Corridor]
@@ -46,9 +46,9 @@ Akito: Sure, but why...?
 Toya: I don't know any details, but they wanted me to ask how free you were...
 Akito: Huh? Who's “they”...?
 Akito: Ohh...
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Akito: (Yeah, it's definitely them...)
 Akito: (Just one of them if I'm lucky, but both if I'm not. Either way, I've got a bad feeling about this...)
@@ -91,7 +91,7 @@ Rui: Hehe. See you later.
 Toya: That was nice of them, Akito.
 Akito: Yeah...
 Akito: (But what am I supposed to do with this thing...?)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -126,16 +126,12 @@ An: What?! K-Kohane, give that thing back to Akito right now!
 Kohane: Huh? Sure, but I really don't think it's supposed to be that dangerous...
 Toya: I thought the same. Kamishiro always puts making others smile a priority so...
 Akito: Making others smile, huh?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Akito: Alright, wanna try opening it...?
 An: Wait, are you sure?!
 Akito: Yeah. Not opening it is just gonna make us feel worse, so if you guys are all okay with it, we can try opening it...
@@ -151,17 +147,13 @@ Toya: Yeah, I can see that... I also saw something else fly out when I opened th
 An: You mean this? I see one, two, three... Four bags! There's something in all of them too...
 Akito: Hold on, I see names written on them.
 An: Huh? Oh, you're right! This one's for Toya... This one's for Kohane... This one's mine, and here's yours, Akito!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Rui: It may be fun to wait and open it with your friends later.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Akito: (So that's what he meant.)
 Akito: Anyway, those seem to be your guys', so they're yours now.
 Kohane: Really? Thank you, Shinonome! Hehe. I wonder what's inside?
@@ -172,7 +164,7 @@ Toya: See? It wasn't anything dangerous.
 Akito: Yeah. It ended up being a regular present, except...
 Tsukasa-In-The-Box (Tsukasa): Happy birthday! Happy birthday!
 Akito: What do we do with this thing?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -189,23 +181,19 @@ Ena's Voice (Ena): I mean, how would you feel if you were served cheesecake that
 Akito: *Sigh* Is that all you care about?
 Mother's Voice: Anyway, Akito, it's time for dinner so go get changed!
 Akito: Okay, okay.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Akito: (All things considered, another pretty good birthday...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000021/bg_s000021.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000021/bg_s000021.webp)
 Airi: Happy birthday, Akito. It's nice to see you after so long. We should chat again sometime, and feel free to complain about Ena all you want, alright?
 Shizuku: Airi told me that it's your birthday today, Akito. Happy birthday! Hehe. I know what it's like to have a sibling, so let's both do our best to stay close with them.
 Mizuki: Nooo! Why didn't Ena tell me that it's your birthday sooner?! Anyway, Li'l Bro, happy birthday! I'll get you lunch next time we meet at school♪
@@ -215,7 +203,7 @@ Tsukasa: Happy birthday, Akito! I'm not too worried about you not doing this, bu
 Kohane: Your stoic personality's already given me so much courage, Shinonome. Hehe. I'm really looking forward to seeing what the future has in store for us!
 An: Thanks for being such a great teammate and source of advice when it comes to having a partner. I'll be counting on you moving forward!
 Toya: Happy birthday, Akito. I promise to pay you back for everything you've done for me, so please, promise to ask me for help whenever you need it.
-(White cut)
+(White transition)
 (Background change)
 Akito: Thanks for celebrating my birthday like this today.
 Akito: Outside of my family and everyone at school, Toya and Ken are the only ones who'd wish me a happy birthday until just recently...
@@ -224,4 +212,4 @@ Akito: Anyway, I'm gonna spend this year doing everything I can to surpass “RA
 Akito: I know it won't be easy, but I'm not letting anyone take my dream away from me.
 Akito: And don't forget to drop by to check us out.
 Akito: See you then.
-(White cut)
+(White transition)

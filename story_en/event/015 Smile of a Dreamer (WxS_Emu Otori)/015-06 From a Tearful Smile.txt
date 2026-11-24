@@ -13,7 +13,7 @@ MEIKO: Oh, that sounds very serious...
 Miku (WxS): Where is Emu anyway? She didn't come with you?
 Nene: We were together until a second ago, but then she said, If we can't make a decision, let's try some out and make a choice! She's getting props for everything now...
 Nene: I asked her if she needed any help, but she just said she'd be fine and ran off. I think she's trying to avoid us...
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Hmm... We can use this sword for the fight scene and...
 Emu: ...
@@ -38,8 +38,8 @@ Emu: Wha...? Why...?
 Len: You're not smiling the same way you usually do.
 Rin: Yeah! Something feels off...!
 Emu: Oh...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000055/bg_a000055.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000055/bg_a000055.webp)
 Len: Um, Emu... You don't have to make yourself smile if something is making you feel sad!
 Emu: Huh?
 Rin: Yeah! Len's right!
@@ -48,27 +48,23 @@ Rin: And thanks to that, we're all able to help each other out!
 Len: So if there is something that's not making you smile, we want to be there to help you!
 Len: You don't have to force yourself to smile!
 Plushies: <Yeah!>
-(White cut)
+(White transition)
 (Background change)
 Emu: Help...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nene's Voice (Nene): <I want to help Emu...>
 Nene's Voice (Nene): <If something's bothering her, I want to be there for her.>
 Nene: That's the truth...
 Nene: I get that something might be keeping you from telling us...
 Nene: But when you feel like talking, please tell us everything...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: (This is what Nene was trying to say too...)
 Emu: (Then... Yeah, I should tell everyone...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -80,7 +76,7 @@ Tsukasa: I mean, she has a future star like me to talk to! What is she afraid of
 Tsukasa: Even that one time, it all came down to the last few seconds and...
 Tsukasa: That time...?
 Tsukasa: Oh, right. There's that!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -91,16 +87,12 @@ Emu: Okay...
 Emu: I need to tell everyone...!
 Emu: I need them to help come up with ideas that are different from what Keisuke and Shosuke want to do...!
 Emu: I'm sure we can...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shosuke: Emu. Keep your dreams to yourself. We're through dealing with you!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: But...
 Emu: I want everyone to smile...
@@ -112,7 +104,7 @@ Rui's Voice (Rui): <Ah, excuse me for that. I figured that this would be the bes
 Emu: What? You were looking for me?
 Rui's Voice (Rui): <Yes. I was hoping to show you something. If you don't mind, would you kindly follow the drone?>
 Emu: ...?
-(Black cut)
+(Black transition)
 Emu: (This way? Does that mean?)
 Emu: (Yeah, it's heading towards the Ferris wheel...!)
 Tsukasa: Finally, you're here! You really kept us waiting!
@@ -127,4 +119,4 @@ Robo-Nene: Let's go! Let's go!
 Emu: O-Okay...
 Tsukasa: Great! Then let's all go together!
 Emu: ...?
-(Black cut)
+(Black transition)

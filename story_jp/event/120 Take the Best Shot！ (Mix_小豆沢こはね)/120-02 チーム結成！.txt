@@ -38,7 +38,7 @@ KAITO (VBS): え、ボク達にもくれるの？　楽しみだな～
 冬弥: 小豆沢？
 MEIKO (VBS): 何かあったの？
 こはね: あ、えっと……。 実は——
-(Black cut)
+(Black transition)
 KAITO (VBS): なるほど……杏ちゃんに贈りたいチョコが、 フォトコンテストの賞品になってるんだね
 冬弥: 『クロレ・ショコラ』か……。 そこのチョコレートはとても美味しいらしいな。 前に彰人が話していた
 ルカ (VBS): それに、これすっごく可愛いね！ 杏ちゃんにあげたくなるのわかるな～
@@ -73,12 +73,12 @@ KAITO (VBS): いいね！　冬弥くんかっこいいし、写真映えしそ�
 ルカ (VBS): おー、チーム結成だね！
 KAITO (VBS): 頑張ってね、ふたりとも！
 こはね・冬弥: 『はい！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000276/bg_s000276.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000276/bg_s000276.webp)
 こはね: （メイクはあんまりしたことがないし、不安もあるけど……）
 こはね: （協力してくれる青柳くんのためにも、 杏ちゃんと東雲くんに美味しいチョコを プレゼントできるように——）
 こはね: （全力で頑張ろう……！）
-(White cut)
+(White transition)
 (Background change)
 冬弥: 撮影はいつがいいだろうか？ 投稿の締め切りにもよるだろうが……
 こはね: えっと……締め切りは来週の土曜日みたい
@@ -86,7 +86,7 @@ KAITO (VBS): 頑張ってね、ふたりとも！
 冬弥: ……ギリギリになってしまうが、 締め切り当日に撮影するしかなさそうだな
 冬弥: では、俺もいろいろと調べておこう
 こはね: うん！　一緒に頑張ろうね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -101,4 +101,4 @@ KAITO (VBS): 頑張ってね、ふたりとも！
 絵名: チョコレート柄のアイシャドウとか、 ハート型のチークとか、絶対映えたのに……
 絵名: ……ん？
 絵名: フォトコンテスト——？
-(Black cut)
+(Black transition)

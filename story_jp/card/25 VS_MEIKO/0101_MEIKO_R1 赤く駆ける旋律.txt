@@ -12,7 +12,7 @@ MEIKO: 会場のみんな、盛り上がってる？
 MEIKO: 今日は最後まで楽しみましょうね！
 MEIKO: それじゃあ、行くわよ！
 MEIKO: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -20,22 +20,22 @@ MEIKO: ――――♪　――――♪
 杏: あ……ねえ、あれ見て
 杏: あそこのビジョンに映ってるの、 前にこはねが見せてくれたやつじゃない？
 こはね: あっ……ほんとだ。 メイコさんのライブシーンも配信されたのかも
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: うん、いい感じ！ この勢いで、次の曲もついてきて！
 MEIKO: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 こはね: メイコさん、かっこいいね
 杏: 赤い服っていうのも、いいよね。 かっこいい大人の女の人が着る衣装って感じで
 こはね: うん。ああいうレザーっぽい服は、 私、着たことないなぁ……
 杏: うーん。私は持ってなくはないけど……
 杏: 着こなすには、ちょっとハードルが高そうだなぁ
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: みんな、まだまだいけるでしょう！？
 MEIKO: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ずっと見てられちゃうね……
 杏: だね！
@@ -58,11 +58,11 @@ MEIKO: ――――♪　――――♪
 杏: 父さんも店の仕込みがあるから店に行っちゃうし、 誰かが作ってくれたらいいなーって
 こはね: ふふふっ
 杏: わ、笑わないでよこはねー
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: さあみんな、一緒に歌って！　手拍子も大歓迎！
 MEIKO: 一緒に盛り上がりましょうっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -80,14 +80,14 @@ MEIKO: 一緒に盛り上がりましょうっ！
 雫: …………？
 雫: なんだかみんな、あの大きなテレビを見てるわね
 穂波: あ……あれ、バーチャル・シンガーの イベントの動画ですね
-(Black cut)
+(Black transition)
 (Background change)
 
 [バーチャル・シンガー　ステージ]
 
 MEIKO: ――――♪　――――♪
 MEIKO: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 穂波: 私のクラスでも、ちょっと話題になってましたよ。 期間限定で今しか見れないって
 雫: そういえば……この前、しぃちゃんが 巡音ルカさんが映ってる動画を見ていた気がするけど……
@@ -103,13 +103,13 @@ MEIKO: ――――♪　――――♪
 ？？？ (杏): えっ、ち、違うよ。 メイコさんならそうしてくれそうっていうか……
 ？？？ (杏): ほら、頼れそうだし、包容力ありそうっていうか？
 雫: …………
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: ……さて！ そろそろまた、次の曲を歌いたくなってきちゃった
 MEIKO: みんなもそろそろ、そう思ってたんじゃない？
 MEIKO: ……やっぱり！　そうこなくっちゃね！
 MEIKO: それじゃあ、次の歌！ いくわよ！
-(Black cut)
+(Black transition)
 (Background change)
 雫: 本当に、メイコさんてかっこいいのね
 穂波: え……？
@@ -126,8 +126,8 @@ MEIKO: それじゃあ、次の歌！ いくわよ！
 穂波: え……？
 穂波: ふふ。ありがとうございます
 穂波: （お姉さん、か……）
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: みんな、一緒に盛り上げてくれてありがとね！ おかげですっごく気持ちよく歌えたよ！
 MEIKO: この後も、最後まで元気に楽しんでね！
-(Black cut)
+(Black transition)

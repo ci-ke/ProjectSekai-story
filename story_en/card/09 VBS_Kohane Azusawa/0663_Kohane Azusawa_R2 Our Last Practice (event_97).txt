@@ -10,7 +10,7 @@ Skill name: An Unusual Morning
 
 Kohane: (My practices with Taiga end today...)
 Kohane: (I don't know when I'll get to see him again next, so I need to show him how much I've improved with his help!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -20,30 +20,26 @@ Taiga: Just show me what you've got, plain and simple. Sing with everything you 
 Kohane: Okay!
 Kohane: (Only Taiga's here to listen, but I'll sing like I did at Crawl Green and...)
 Kohane: (I...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: You said that you wanted to get better. Do you still feel the same way?
 Kohane: Y-Yes...! I still want to get better at singing!
 Taiga: Okay. Then, wanna give it a try with me?
 Kohane: Huh? Give what a try?
 Taiga: Well, singing, of course.
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (I want him to hear me.)
 Kohane: (He's taught me so much, and I want him to hear how I sound now...!)
 Kohane: (This is everything I have...!)
 Kohane: ————! ————~~~~!!
-(Black cut)
+(Black transition)
 Kohane: Huff... Huff... H-How did I do...?
 Taiga: Hey, not bad. Nice performance!
 Taiga: It made me think about...STAY GOLDEN, was it? You sang like there was no tomorrow that time.
@@ -52,7 +48,7 @@ Kohane: Thank you very much!
 Taiga: But from where I'm standing, you've still got a lot of work to do.
 Taiga: So, try singing that again for me. Since this is our last practice together, I'll be as detailed as I can with my criticism.
 Kohane: Please do!
-(Black cut)
+(Black transition)
 (Background change)
 Taiga: Alright, it's nearly dusk, so let's call things here...
 Kohane: Oh...
@@ -76,7 +72,7 @@ Kohane: Oh, a message... It's from An!
 Kohane: Let's see... Oh, Shinonome and the others are at her place already.
 Kohane: I'll let her know that we just finished practicing and that I'm heading over now.
 Kohane: Sent!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -87,24 +83,20 @@ Kohane: Sent!
 
 Kohane: There's nothing to do...
 Kohane: (Normally, we'd all be practicing somewhere together...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: ♪————————————!!
 An: ...!
-(White cut)
+(White transition)
 (Background change)
 An: There's so much I wanted to tell you...
 An: You were supposed to meet Kohane...! And Akito and Toya...! You were supposed to tell me I'd found the best team ever...!
 An: And you were supposed to see the moment we did it...! When we surpassed RAD WEEKEND...!
-(White cut)
+(White transition)
 An: *Tears of sorrow*
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (We decided to not give up and keep going, but An... I hope she's okay...)
 Kohane: (The person she loved and looked up to...is gone...)
@@ -147,4 +139,4 @@ An: <Wait, no. I need to thank Toya first!>
 (Background change)
 Kohane: Hehe. Take your time. I'm not going anywhere.
 Kohane: (I hope I can help take her mind off things even just a little.)
-(Black cut)
+(Black transition)

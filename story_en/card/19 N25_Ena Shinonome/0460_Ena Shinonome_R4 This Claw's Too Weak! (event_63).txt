@@ -20,7 +20,7 @@ Kanade: <Right. Once a I reach a good place to stop, I'll probably got to bed fo
 Ena: <Yeah, me too. So, I'll be getting back to work now.> 
 (Background change)
 Mizuki: <Okie dokie♪>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: Finished...! Hehe. I got a lot more done than I was expecting.
 Ena: Now to send it off to Kanade and the others...
@@ -77,7 +77,7 @@ Kanade: <It's okay. Actually, I'd like to thank you for finding that video. If y
 Ena: <Yeah, of course.>
 Ena: <Let's learn everything we can from this video and make sure we get in a good walk, K.>
 Kanade: <Yes, let's.>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -100,7 +100,7 @@ Ichika: Sounds good. Also, I'm pretty sweaty, so I'd like to take this opportuni
 Ena: I'm gonna fix my makeup. Also, my hair's probably a mess right now because of all this sweat.
 Minori: Oh, there's a makeup area over there.
 Ena: Seriously? That's perfect! Let's go, now!
-(Black cut)
+(Black transition)
 Ichika: Oh, it was right next to the basketball courts this entire time...
 Kanade: Interesting. I didn't notice either.
 Ena: Alright, we're gonna go fix our makeup.
@@ -122,7 +122,7 @@ Minori: Y-You did?! Then, is my technique just that bad...?
 Minori: Airi's been teaching me a lot of things and I've been trying to put them into practice...
 Ena: But you need time to get used to doing it, right? I could also try teaching you a few tricks I know...
 Minori: Oh! Yes, please!
-(Black cut)
+(Black transition)
 Minori: Thank you so much, Ena. That was really helpful!
 Ena: You're welcome.
 Ena: I mean, Minori, you're an idol, so you'll want to figure out what sort of makeup is best for you.
@@ -150,4 +150,4 @@ Ena: Yeah?
 Minori: Can we talk more later about makeup, clothes and other stuff later?!
 Ena: Sure, I'd love to.
 Minori: Yay! I can't wait!
-(Black cut)
+(Black transition)

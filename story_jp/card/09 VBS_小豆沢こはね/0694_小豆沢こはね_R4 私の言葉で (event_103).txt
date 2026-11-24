@@ -68,7 +68,7 @@ Gacha phrase: この気持ちを握りしめて、進みます
 志歩: ふふ。今のこはね、いい顔してた
 志歩: 壁なんて、殴って粉々にできるんじゃない？ そこの壁で試してみてよ
 こはね: えっ！？　そ、そんな乱暴なことしないよ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -79,21 +79,17 @@ Gacha phrase: この気持ちを握りしめて、進みます
 
 こはね: （……眠れなくて、来ちゃった）
 こはね: （まさか、杏ちゃんのお父さんに 練習見てもらえるようになるなんて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: 店を整理しててな。 今、カップをまとめてたところだ
 こはね: 整理、ですか……？
 杏の父: そうだ。——この店を、一時休業することにした
-(White cut)
+(White transition)
 杏の父: お前達が覚悟を決めたんだ。 ならこっちも、本腰入れるのが筋ってもんだろう
 杏の父: それが……これまで真実を隠してきたオレなりの、ケジメだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: どんな練習になるかわからないけど、 絶対にやり切らなくちゃ
 こはね: RAD WEEKENDを超えて、その先に行ってみせるって、 大河さんにも宣言したんだから！
@@ -107,15 +103,11 @@ Gacha phrase: この気持ちを握りしめて、進みます
 ミク (VBS): それに、慌てたり恥ずかしがる姿は 前のこはねと変わってないっていう発見があったよ？
 こはね: あはは……
 こはね: ……前の私、か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: あの頃の私は全然自分に自信が持てなくて、 やりたいこともなくて……
 こはね: ただなんとなく、変わりたいっていう気持ちはあったけど でもそれだけで、全然行動に移せなかったな
@@ -158,4 +150,4 @@ Gacha phrase: この気持ちを握りしめて、進みます
 こはね: （よかった……！）
 こはね: （やっぱり、歌って楽しいな）
 こはね・ミク: 『——～～～！　——————！！』
-(Black cut)
+(Black transition)

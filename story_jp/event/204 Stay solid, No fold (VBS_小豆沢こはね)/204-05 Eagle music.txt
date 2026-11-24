@@ -48,21 +48,21 @@
 ダグラス: ああ、それはよかった。 貴重な時間をくれたこと、感謝するよ
 ダグラス: すぐに車を手配しよう。少し待っていてくれるかな？
 こはね: はい、わかりました
-(Black cut)
+(Black transition)
 (Background change)
 
 [Eagle music前]
 
 ダグラス: さあ、着いた
 ダグラス: ——ようこそ、Eagle musicへ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000580/bg_s000580.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000580/bg_s000580.webp)
 杏: た、たっか〜………………
 杏: これ、何階まであるの……？
 彰人: わかんねえ……数えるとか無理だろ
 こはね: く、首が痛いね……
 冬弥: ああ。これはあまり見上げ続けない方がよさそうだ
-(White cut)
+(White transition)
 (Background change)
 ダグラス: はは。アーティストのために、 あらゆる設備をひとつの施設にまとめたら、 縦に長くなってしまってね
 ダグラス: 少し待っていてくれるかい。 ゲストの手続きを秘書に任せているから、確認を——
@@ -85,7 +85,7 @@
 サラ: 『ここからは、私が案内させていただきます。 まずは……レコーディングの見学ですね。こちらへどうぞ』
 彰人: ……案内してもらえるってんなら、行くしかねえか
 杏: そうだね……。 ——っていうか、エントランスもすご！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [レコーディングスタジオ]
@@ -114,19 +114,15 @@
 ミュージシャン: 『よし、今のはいい感じだったんじゃないか？ 一度返してくれ！』
 こはね: （……たしかに、その想いは感じるな）
 こはね: （まだ少し話しただけだけど……音楽と、音楽をやる人を 大事に思ってるって伝わってくる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 ミュージシャン: 『——よし。おかげで今日もいい音が録れたよ』
 録音スタッフ: 『ああ。あとはまかせとけ。 俺の超絶テクニックで綺麗～にバランス調整してやるよ』
 ミュージシャン: 『はは。じゃあ、よろしくな』
@@ -147,4 +143,4 @@
 こはね: （な、なんだろう……見られてる……？）
 スタッフ: 『君達、もしかして——』
 スタッフ: 『Vivid BAD SQUADじゃないか！？』
-(Black cut)
+(Black transition)

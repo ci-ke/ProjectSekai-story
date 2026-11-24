@@ -59,7 +59,7 @@
 アイハザプロデューサー: ……では、また来てもらうのも悪いので こちらから出向きましょうか
 アイハザプロデューサー: スタジオにいらっしゃるようなので、ご案内しますね
 雫: はい、よろしくお願いします
-(Black cut)
+(Black transition)
 (Background change)
 
 [撮影スタジオ]
@@ -73,15 +73,11 @@
 雫: あ……
 ？？？: 忙しそうだったから出直そうってみんなで話してたんですけど…… わざわざ、ありがとうございます
 雫: （アリサちゃん……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: …………
 アイハザプロデューサー: ああ、みんなお疲れさま。 ２度も足を運んでもらうわけにはいかないよ。 そもそも、今回は急にMCに入ってもらうことになったのに……
@@ -112,4 +108,4 @@
 遥・みのり: 『うん……！』
 雫: （みんな、本気で収録に臨もうとしてる）
 雫: （——私も頑張らなくちゃ）
-(Black cut)
+(Black transition)

@@ -7,33 +7,25 @@ vsmmj_01_02 元気を出して
 リン: みんな、元気がないまま帰っちゃったね……
 ミク (MMJ): うん……。でも、本当の想いを見つけてもらう『きっかけ』は あげられたんじゃないかな
 リン: そうだね。特にみのりちゃんは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 みのり: （かわいくて、楽しくて、キラキラしてて……。 いいなぁ。わたしもいつかこんな風にライブしたいなぁ）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ミク (MMJ): ライブ中、わたし達のことキラキラした目で見てくれてたね
 リン: うん！　嬉しかったね！
 リン: でも、ほかのみんなは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 雫: ふたりとも息がピッタリ……。 きっと、お互いのことをとても信頼しているのね
-(White cut)
+(White transition)
 愛莉: …………。 ……わたしも、こんなステージ……やってみたかったな
-(White cut)
+(White transition)
 (Background change)
 遥: …………もう、あの景色は見られないけど
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 ミク (MMJ): ……３人とも、本当の想いを見つけるには少し時間がかかるかもね
 リン: そうだね……
 ミク (MMJ): でも時間がかかっても、アイドルへの キラキラした想いを、また思い出してほしいな
@@ -64,4 +56,4 @@ vsmmj_01_02 元気を出して
 リン: うん！
 リン: よーし、みのりちゃん達に 元気を出してもらえるようにがんばるぞー！
 ミク (MMJ): おー！
-(Black cut)
+(Black transition)

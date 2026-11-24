@@ -7,18 +7,14 @@
 [Kanade's Room]
 
 Kanade: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Message: <Because she's preparing for entrance exams.>
 Message: <She is in pursuit of a different dream that doesn't involve music. If you truly are her friend, I'm sure you'd want her to focus on her studies.>
-(White cut)
+(White transition)
 Message: <Even if there's a chance that it places her future in jeopardy?>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kanade: (I can't honestly say if N25 will help her achieve her dream...)
 Kanade: (But Mafuyu currently seems to want to keep making music with us...)
 Kanade: (Not only that, but I'm sure our work will help lead us to discovering who the real Mafuyu is.)
@@ -131,15 +127,11 @@ Mizuki: <But Mafuyu's mom...? What's going on here? Can you tell us what she sai
 Kanade: <So... She asked me to stop working on music with Mafuyu.>
 (Background change)
 Kanade: <Also...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Message: <She is in pursuit of a different dream that doesn't involve music. If you truly are her friend, I'm sure you'd want her to focus on her studies.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: <Wait, what's wrong...?>
 Kanade: <Oh, um... It's nothing...>
@@ -158,18 +150,14 @@ Ena: <The day after tomorrow... That's so soon! I mean, are you gonna be okay?>
 Mizuki: <I doubt she's going to harm you in any way, but she's been trying to dig up a ton of info on us. Who knows what she's gonna say...>
 Kanade: <Yes, I understand that...>
 Kanade: <I wasn't sure about meeting her until just now...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: <I won't be able to join you all for a while.>
 Mafuyu: <But...>
 Mafuyu: <I promise to come back...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <But I feel that I need to meet her since this directly concerns Mafuyu...>
 Kanade: <Also, I want to hear what she has to say about us...>
@@ -199,4 +187,4 @@ Mizuki: <Yeah, because we all want what's best for Mafuyu...>
 (Background change)
 Kanade: <Thank you. I will...>
 (Background change)
-(Black cut)
+(Black transition)

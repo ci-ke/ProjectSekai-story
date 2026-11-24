@@ -39,14 +39,14 @@
 えむ: 多分、誘導スタッフさんの立ってる位置が すっごくいいのかも！ 駅から来た人が迷わないで並べるようになってて——
 類: フフ、今日は楽しい１日になりそうだね
 寧々: うん
-(Black cut)
+(Black transition)
 (Background change)
 えむ: わあ～！ あたし達、飛んでるよ～！
 寧々: スカイクルーズアトラクションってよく聞くけど、 アークランドのは特にリアルだよね。 ……ちょっと怖いかも……
 類: この風、この浮遊感……実に気持ちがいいねえ……
 司: ハッハッハ！　オレは今！　風になっているぞ～！！
 リン (WxS): 『リンも風になってるよ～☆』
-(Black cut)
+(Black transition)
 (Background change)
 寧々: わ。あそこの茂みから、 動物のキャラクターが顔だしてる……！
 司: おお、本当だな！ たしかあれはアークランドのキャラクター……？
@@ -55,7 +55,7 @@
 類: フフ、なかなかホスピタリティの高いクマだねえ
 リン (WxS): 『あ！　あっちからも顔出してる～！』
 司: ぬお！　一体何匹いるんだ……！？
-(Black cut)
+(Black transition)
 リン (WxS): 『はあ～！　と～っても楽しいねっ♪』
 寧々: 本当に、すごい満足感だな……。 まだ午前中なのに
 類: 帰る時間になる頃には 夢心地になっていそうだねえ
@@ -101,12 +101,12 @@
 えむ: あれ？
 えむ: あれれ！？
 えむ: あれれれれれ～！？！？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000550/bg_s000550.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000550/bg_s000550.webp)
 えむ: あたしとそっくりだ～！！！！
 少女: え？　ええ……！？
 司: こ、これは一体……！
 えむ: どどどどどどど……どういうこと〜〜〜〜！？
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)

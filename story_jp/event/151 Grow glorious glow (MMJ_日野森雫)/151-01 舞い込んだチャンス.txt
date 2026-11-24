@@ -13,10 +13,8 @@
 雫: （……大丈夫。 今日まで、やれることはやってきたわ）
 雫: （きちんと練習の成果を出し切って、 絶対にこのオーディションを通過しなくちゃ）
 雫: （MORE MORE JUMP！の、みんなのためにも——！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数週間前]
@@ -69,10 +67,8 @@
 遥: ありがとう。 でも、気負い過ぎないでね。 これは、みんなで解決していくべき問題だから
 遥: 一歩ずつ前に進んで—— みんなで武闘館ライブに近づいていこう！
 雫: ええ……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （大きなお仕事なだけあって、 ひとりで挑戦するのは、少し心細いけど……）
 雫: （今日はみんなの分まで、頑張りましょう）
@@ -82,15 +78,11 @@
 ？？？: 日野森さん？
 雫: えっ？
 雫: あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ReLightの萩山さん……よね？ あなたもオーディションに参加していたのね
 結雨: はい。 まさか日野森さんもいるだなんて……驚きました
@@ -104,4 +96,4 @@
 結雨: お互い頑張りましょう。 今回は共演者ではなく——ライバルとして
 雫: あ……
 雫: ……ええ！
-(Black cut)
+(Black transition)

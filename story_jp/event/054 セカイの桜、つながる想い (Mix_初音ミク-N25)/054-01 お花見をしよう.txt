@@ -52,7 +52,7 @@ MEIKO: ……それなりに興味深かったわ
 まふゆ: ……早く新しいデモを聴きたいんだけど
 瑞希: あ、そうだね！ それじゃ、早速聴こーう！
 奏: うん、流すね
-(Black cut)
+(Black transition)
 絵名: 今回のもすごくいいんじゃない？ 静かだけど、胸にググッと迫ってくる感じっていうか……
 瑞希: うんうん！ こう、ジワジワーっとしみる曲だよね！
 まふゆ: …………
@@ -95,15 +95,11 @@ MEIKO: ……いつもどおり、ノーコメントよ
 ルカ: 花びらを捕まえるのは難しそうだけれど、 それはそれで面白そうね
 まふゆ: 花びら……
 まふゆ: ……そういえば、ミステリーツアーで見た桜も、 雨みたいに降ってたね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: そうだね。 まふゆもきれいだって言ってたのが印象的だったな～
 ルカ: …………
@@ -118,18 +114,14 @@ MEIKO: だからって、都合よく桜が 生えてくることはないでし
 ルカ: また静かになっちゃったわね。 でも、桜は楽しみだわ
 MEIKO: まったく……
 ミク (N25): （……みんなとお花見か）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 前、ここに人形が見つかったって言ってたでしょ？ 桜も生えてこないかしら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （まふゆ……前に桜、綺麗だったって言ってた）
 ミク (N25): （あの人形も、まふゆの想いから見つかった……。 それなら……）
 ミク (N25): 少しだけ……探してみようかな……
-(Black cut)
+(Black transition)

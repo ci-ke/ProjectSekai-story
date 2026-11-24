@@ -19,7 +19,7 @@ Nene: Um, Puyo Puyo...
 Manager: Did you make sure to bring your special champion's card? It'll give you access to every game, so please enjoy!
 Nene: Thank you.
 Nene: (W-Wow... I really get to play for free...)
-(Black cut)
+(Black transition)
 Nene: Okay, lemme look at the play modes... Pretty sure “Puzzle League” is the one for ranked matches.
 Nene: Ah, they're rated matches. 
 Nene: As for my player name... I'll just go with “pomelo” as usual. Now, for my first match...!
@@ -27,7 +27,7 @@ Nene: (Oh, they made another mistake... I guess it is my first match. It probabl
 Nene: (Alright, let's finish this!)
 Nene: I won...! I'm glad I put in the effort to work on my building skills.
 Nene: There doesn't seem to be anyone else here, so I might just keep playing and see how many wins I can stack up...
-(Black cut)
+(Black transition)
 Nene: (Oh, they're building from the bottom left... They seem to know what they're doing. I may be in for a tough battle...)
 Nene: (They're fast, but I've also improved a lot. I should be able to keep up.)
 Nene: (I just need to keep building chains while popping things along the way, and send over some Garbage Puyos to keep my opponent from completing their chains!)
@@ -65,7 +65,7 @@ Nene: Sure. Thank you as well.
 Nene: (I initially wanted to enter that tournament to win the tickets for that show...)
 Nene: (But to think that I'd end up meeting a new gamer buddy...)
 Nene: (I might try entering another tournament...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -135,4 +135,4 @@ Nene: Me neither.
 Nene: (Despite this game being really good, I didn't really know anybody my age who knew much about it...)
 Nene: (But now, I'm gonna get a chance to talk with everyone about it.)
 Nene: (Oh, why can't it be the day of the show already?)
-(Black cut)
+(Black transition)

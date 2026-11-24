@@ -30,7 +30,7 @@
 (Background change)
 瑞希: 『もう、相変わらずだなあ』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『ふあ……。 もうこんな時間かあ、そろそろ落ちよっかなあ』
 (Background change)
@@ -47,16 +47,12 @@
 奏: 『うん、おやすみ』
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『“距離を置く”っていう選択肢も、 あるんじゃないかな……って』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: （絵名達が言ってること……理解は、できる）
@@ -68,7 +64,7 @@
 奏: （……一度離れたあとで、 本当に、また元に戻れるのかな）
 奏: （たくさんあったはずの選択肢が、 そこで消えちゃうかもしれない）
 奏: …………どうすれば、いいんだろう
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -83,12 +79,12 @@
 まふゆ: ……椅子で寝てる
 まふゆ: （作業しながら、寝落ちしたのかな）
 奏: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000651/bg_s000651.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000651/bg_s000651.webp)
 まふゆ: （……最近、寒くなってきたし 風邪引くかもしれないから）
 まふゆ: （本当は、布団で寝たほうがいいんだけど……）
 奏: ……ん……
-(White cut)
+(White transition)
 (Background change)
 奏: ……あれ？　まふゆ……
 まふゆ: あ……
@@ -107,15 +103,11 @@
 まふゆ: ……そろそろお父さんが来るから、 紅茶を用意しようと思ったんだけど……
 まふゆ: 自分で買ってきた方が、いいと思ったから
 奏: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………わかった
 まふゆ: じゃあ、いってくるね
@@ -123,4 +115,4 @@
 奏: （……まふゆのお父さんも、あれから 時々まふゆのことを見に来てくれてる）
 奏: （やっぱり……ずっとこのまま、ってわけにはいかない）
 奏: 早く——答えを出さなきゃ
-(Black cut)
+(Black transition)

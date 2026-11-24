@@ -2,7 +2,7 @@
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 初音ミク, 鏡音リン, 巡音ルカ, MEIKO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数カ月後]
@@ -22,7 +22,7 @@
 雫: （……最近目まぐるしいと思ってはいたけれど、 スケジュールが埋まってしまうほどだったのね）
 雫: （少し前では考えられないことだったわ。 これもきっと、プロデューサーさんの……）
 雫: ——って、いけない、もうこんな時間！ 早くレッスン場に行かなくちゃ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [レッスン場]
@@ -49,29 +49,29 @@
 メンバー達: うんうん。だからもし雫がボロを出しそうになっても、 私達が全力でカバーするから安心して！
 雫: みんな……
 雫: ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 雫: そのあとも、みんなが言ってくれていたとおり—— 私が失敗しそうになったら、 いつも必ず、みんなが助けてくれた
-(Black cut)
+(Black transition)
 (Background change)
 雫: 私は、それにとても安心したし、ありがたいと思って……、 でも同時に、とても申し訳なかったから、 自分だけで完璧に立ち回れるように頑張ってみたんだけど
-(Black cut)
+(Black transition)
 (Background change)
 雫: ……どうしてもうまくいかなくて、 みんなには、ずっと私のフォローをさせてしまっていた
-(Black cut)
+(Black transition)
 (Background change)
 雫: それなのに、私の仕事だけはどんどん増えていって、 ついにセンターまで担うことになって……
-(Black cut)
+(Black transition)
 雫: ——そのあとくらいから、 みんなの態度が、少しずつ変わり始めたの
-(Black cut)
+(Black transition)
 (Background change)
 雫: 遅れてごめんなさい！ 撮影の仕事がおしてしまって……
 メンバー達: ……最近そういうの続きすぎじゃない？ マネージャーに他の仕事との調整、頼んでないの？
-(Black cut)
+(Black transition)
 (Background change)
 雫: 今日の収録、台本にない流れになってしまったから、 どう話していいかわからなくて……。 いつもフォローしてくれて、本当にありがとう
 メンバー達: お礼はいいんだけど……いい加減慣れてよ。 いつまでも私達を頼りにされても困るんだよね
-(Black cut)
+(Black transition)
 (Background change)
 雫: そして、決定的だったのは……
 メンバー達: 雫……次の劇場公演に出られないって、ホント？
@@ -111,38 +111,30 @@
 アリサ: それなのに——……！
 アリサ: ……だから私は、私達の気持ちを踏みにじって、 一番大事な劇場公演に出ないアンタを——
 アリサ: 絶対に、許さないから
-(White cut)
+(White transition)
 (Background change)
 雫: ……私の仕事が私の実力じゃなくて、 みんなのおかげで与えられているものだっていうことは、 わかってるつもりだったわ
 雫: だから、どんな仕事もCheerful＊Daysに還元できるように 精一杯やろうって……そう思ってた
 雫: けれど、そのあとも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: ——あ、あら？　私の衣装は……
 メンバー達: あれ、衣装ないの？ もしかして、公演出なすぎて忘れられてるんじゃない？
 メンバー達: あはは、ありえる。 ちゃんとスタイリストさんに報告したほうがいいよ？ 『今日はCheerful＊Daysの日野森雫の日です』ってさ！
 雫: …………っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: みんなとの関係は、ますます悪くなってしまったわ
 雫: きっと私が自分のことに手一杯で、 みんなへのお返しが、ひとつもできていなかったからね
 雫: それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: アンタに与えられるのは、 誰かにとって死ぬほど欲しいチャンスなのに、 それを自分のものにしようって気もまるでないし
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (MMJ): 雫ちゃん？
 雫: ……ううん
@@ -164,4 +156,4 @@ MEIKO: 今回の番組収録で、雫ちゃんが抱いている気持ちも Che
 愛莉: ……今の雫の話聞いて、一番に出てくる質問がそれ？
 遥: みのりは回答役をやったほうがいいかもね
 みのり: え～っ！ わたしは絶対聞かれると思うけどな～！？
-(Black cut)
+(Black transition)

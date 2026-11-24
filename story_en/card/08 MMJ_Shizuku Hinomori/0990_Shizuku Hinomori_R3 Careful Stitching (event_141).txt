@@ -29,7 +29,7 @@ KAITO (MMJ): I'm just curious as to what this sewing lounge you speak of is actu
 Shizuku: Yes, well... It shouldn't be a problem as long as you stay hidden.
 Shizuku: I'll call you over when I think it's safe, so if you don't mind waiting until then...
 KAITO (MMJ): Thank you! I'll be looking forward to hearing from you!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Sewing Lounge]
@@ -45,7 +45,7 @@ Shizuku: Okay, it seems well hidden. Can you two see me okay...?
 KAITO (MMJ): <Yes, we can see you just fine!>
 Mizuki: Okay, there we are... It's all set up! Now, let's get started!
 Shizuku: Then, let's both do our best to make some cute creations, shall we?
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -58,7 +58,7 @@ Mizuki: I'm having trouble getting it to look just right. I wanted to give it mo
 Shizuku: More of a cartoonish feel...? Then, what if you paired it with some of the fabrics over here that you brought over?
 KAITO (MMJ): <I see... That would help make it look more colorful. I'm impressed, Shizuku!>
 Miku (MMJ): <KAITO! Shh!>
-(Black cut)
+(Black transition)
 Shizuku & Mizuki: It's finished!
 Mizuki: Whoa...! Your embroidery's so cute, Shizuku!
 Shizuku: Your ribbon is also lovely, Mizuki.
@@ -81,7 +81,7 @@ Shizuku: Oh, that sounds wonderful! I'd love to go.
 Mizuki: Great! In that case... Let's go♪
 Shizuku: (It feels like it's been so long since I had a chance to go shopping with a friend...)
 Shizuku: (Thanks to Mizuki, I'm getting to have such a wonderful time on my day off.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -103,7 +103,7 @@ Shizuku: Oh, is it time already?
 Shizuku: I have to go now, but please keep doing your best to pull as many weeds as you can for me, okay?
 Local Elementary Schooler A: Okay, bye bye!
 Shizuku: (I want them all to keep having fun, so I'll need to do my best as a scarer.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -115,7 +115,7 @@ Local A: Eep! A spirit...!
 Local B: Wait a second... You're Shizuku, aren't you?
 Shizuku: I'm playing a yuki-onna right now. Look, I can make it snow... Huh? Nothing's coming out...
 Shizuku: Oh, I pressed the wrong button... Let me try that again... I'm going to make it snow now, so please take this opportunity to cool off if you like.
-(Black cut)
+(Black transition)
 Shizuku: *Blow*
 Local Elementary Schooler A: Whoa, it's so cold!
 Local Elementary Schooler B: That breeze... Huh?! Oh, it's you, nice lady!
@@ -155,4 +155,4 @@ Shizuku: Me too. I got a little lost, but this little girl kindly showed me wher
 Shizuku: Huh?
 Shizuku: (She's gone. Did she go home...?)
 Shizuku: (I hope I get to see her again someday. I really need to thank her again for what she did...)
-(Black cut)
+(Black transition)

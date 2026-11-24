@@ -81,7 +81,7 @@ Tsukasa: That's everything we need for the party. Let's have a great day today, 
 Rui: Hehe. I can hardly contain myself already.
 Rui: (They planned this party for me, got these things together, and even made a cake...)
 Rui: (I would be satisfied enough with this, but it seems the fun will continue.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -111,15 +111,11 @@ Mizuki: Here! Happy birthday, Rui.
 Rui: Oh, is this soda candy?
 Mizuki: I got it at the school store! I splurged a bit and got every bag they had♪
 Rui: You certainly don't do things by half-measures. Still...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: It seems like quite a few people have a very strong impression that I like soda candy.
 Mizuki: I mean, you do, don't you?
@@ -144,7 +140,7 @@ Mizuki: They obviously did! Go on, go and see them.
 Mizuki: They're all waiting for you.
 Rui: You're right.
 Rui: I'll see you later.
-(Black cut)
+(Black transition)
 (Background change)
 Rui: What a surprise.
 Rui: I thought you all had things to take care of today, so I wasn't prepared for this at all.
@@ -168,8 +164,8 @@ Tsukasa: In that case, why don't we get something with a lot of meat? Hold the v
 Rui: (They showed up for me and thought of things for me to enjoy...)
 Rui: (I truly can never thank them enough.)
 Rui: A second party, you say? This will be a birthday to remember.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000463/bg_s000463.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000463/bg_s000463.webp)
 Minori: Happy birthday! We heard all about your party from Emu!
 Airi: She mentioned shows, games and magic... I was having fun just listening to her.
 Shizuku: Hehe. Tsukasa and the others must have wanted very much for you to enjoy yourself, Kamishiro.
@@ -197,10 +193,10 @@ Emu: And birthday parties are fun no matter how many you have, too! They make ev
 Nene: We got carried away and ended up getting home pretty late... But Rui seemed happy, so I'm glad we all got together on the day of.
 Tsukasa: Indeed. And with our spirits revitalized by that fun time together, let us continue our shared march forward!
 Tsukasa: We couldn't do this without you, Rui!
-(White cut)
+(White transition)
 (Background change)
 Rui: To think I could be caught so off-guard by a surprise...
 Rui: I truly am blessed with fine companions. And, of course, with everyone else who has supported me all this time.
 Rui: Thank you all for your kind wishes. I'll use my shows to convey my gratitude.
 Rui: I hope you'll continue to support Wonderlands×Showtime. And we'll keep on bringing you smiles and joy.
-(Black cut)
+(Black transition)

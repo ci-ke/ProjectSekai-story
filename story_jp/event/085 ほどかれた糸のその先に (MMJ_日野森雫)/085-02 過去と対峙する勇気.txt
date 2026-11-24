@@ -12,8 +12,8 @@
 雫: ……私も、気を引き締めなくちゃ
 愛莉: ……そうね。 わたしも、何かあった時には フォローに回れるようにしようと思ってるわ
 愛莉: でも——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000164/bg_s000164.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000164/bg_s000164.webp)
 愛莉: アンタ、本当に大丈夫なの？
 雫: え……？
 愛莉: チアデのことよ。 みのりと遥の前では平気って顔してたけど……
@@ -25,7 +25,7 @@
 雫: 愛莉ちゃん……
 愛莉: ……だから、本当は嫌だと思ってるのなら言ってほしいの
 愛莉: もし自分のせいでテレビ出演が駄目になるとか考えてるのなら…… そんな心配はしなくてもいいから
-(White cut)
+(White transition)
 (Background change)
 雫: ……愛莉ちゃんは優しいね
 愛莉: な……
@@ -48,7 +48,7 @@
 雫: えっ？
 愛莉: MORE MORE JUMP！のテレビ初出演…… 小さいコーナーだけど、爪痕残していきましょ！
 雫: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -95,4 +95,4 @@
 愛莉: みのり……
 アイハザプロデューサー: ははは、元気があっていいですねえ。 メールでも書きましたが、皆さんのことは存じていますよ
 アイハザプロデューサー: どうぞ座ってください。 今、お茶をいれさせますので、 お菓子でもつまみながらお話しましょう
-(Black cut)
+(Black transition)

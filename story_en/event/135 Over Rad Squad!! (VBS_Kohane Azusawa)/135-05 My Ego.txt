@@ -2,7 +2,7 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, Hatsune Miku)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Kamiyama Street]
@@ -13,15 +13,11 @@ Kohane: (What do I want to do no matter the cost, no matter how much trouble it 
 Kohane: I really don't know.
 Kohane: (There are plenty of things that I want to do.)
 Kohane: (Win against Taiga and An just to list a couple of examples. And just the other day...)
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000270/bg_s000270.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000270/bg_s000270.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (I thought, “I want to see what it's like on the other side of that wall.”)
 Kohane: (But I'm not sure if those things really count as having an ego.)
@@ -41,7 +37,7 @@ Miku (VBS): <But you don't seem all that happy despite such a big accomplishment
 Miku (VBS): <Did something happen?>
 Kohane: So, the thing is... I'm trying to master the way I sang while training to make sure that our event actually succeeds...
 Kohane: I told the owner of COL about what I was feeling, and she said...
-(Black cut)
+(Black transition)
 Miku (VBS): <Your ego...>
 Kohane: Yeah, she said that I should try looking for what drives mine.
 Kohane: But, I'm having a lot of trouble.
@@ -62,7 +58,7 @@ Kohane: What is that...?
 Miku (VBS): <Hey, Kohane.>
 Miku (VBS): <Stressing yourself out like this isn't good for you, so why don't we go for a quick walk?>
 Kohane: Huh?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -88,16 +84,16 @@ Kohane: I hear people singing...
 Miku (VBS): <Me too... Could it be...?>
 Miku (VBS): <Why don't we go see...?>
 Kohane: Okay!
-(Black cut)
+(Black transition)
 
 [Outside Weekend Garage]
 
 Kohane: (Yeah, it's coming from inside...)
 Kohane: (It's just like that time.)
 Kohane: (I went up to the door, opened it and...)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Akito: ♪ーーーー!!
 Toya: ♪————!! ————!!
@@ -112,7 +108,7 @@ Kohane: (I want to feel even more excited.)
 Kohane: (I want to make everyone else feel more excited.)
 Kohane: (I want to sing with that feeling at my core.)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Ken: Alright, you all seem to be coming along nicely, so let's call things here for today.
 Toya, An & Akito: *Nod* Okay!
@@ -134,10 +130,8 @@ An: Okay! Then, let's do one more!
 Toya: Yes, since Azusawa's here.
 Akito: Alright, this'll be our last song for today. Let's give it everything we've got.
 Kohane: Thanks, you guys!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (VBS): <I'm sure you'll do just fine.>
 Miku (VBS): <Because you've never once run away from your feelings.>
@@ -147,15 +141,15 @@ Kohane: (She's right... I was put to the test over and over along the way, but I
 Kohane: (I mean, I've overcome so much...!)
 Miku (VBS): <Just one week to go. Do your best.>
 Kohane: I will!
-(Black cut)
+(Black transition)
 (Background change)
 Kohane & An: ♪————————!
-(Black cut)
+(Black transition)
 Akito: Alright, now we're on the same page, let's do one more!
 Toya: Okay!
-(Black cut)
+(Black transition)
 Everyone: ♪————————————————————!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day before the event]
@@ -172,15 +166,11 @@ Kotaro: Excited? Not nervous or anxious...?
 EVER Member A: Haha. But we feel ready now thanks to you guys.
 Tatsuya: Still, it's sad that we're down one person...
 Kohane: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: ...
 Kotaro: We gotta make this event so good that he's gonna really regret not coming back to do it with us!
@@ -216,4 +206,4 @@ Toya: I'm excited just thinking about tomorrow.
 Akito: It's happening tomorrow, guys.
 Akito: We're gonna surpass RAD WEEKEND!!
 Everyone: Yeah! Yes! Okay!
-(Black cut)
+(Black transition)

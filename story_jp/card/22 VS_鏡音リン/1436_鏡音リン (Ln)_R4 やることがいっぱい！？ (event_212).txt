@@ -50,7 +50,7 @@ Gacha phrase: いっちー、めちゃ大変そう……！
 リン (Ln): さっそくミクぴょん達にも相談しなくっちゃね♪ 行くよ、レン！
 レン (Ln): お、おい、待てってば！
 リンの声 (リン-Ln): お楽しみ委員会、出動ーっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -64,19 +64,15 @@ Gacha phrase: いっちー、めちゃ大変そう……！
 リン (Ln): ……いっちーのこと考えてたんだ
 レン (Ln): 個人で契約はしない、ってやつか
 リン (Ln): うん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ……嫌なんだ。みんなと全力で活動できなくなるのが
-(White cut)
+(White transition)
 一歌: 私は……Leo/needを大事にしたい
 一歌: ４人で力を合わせて、一生懸命築き上げてきた場所だから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (Ln): いっちー、すごく悩んでたけど……
 リン (Ln): それでも、バンド活動を大事にしたいって決めたんだよね
@@ -97,7 +93,7 @@ MEIKO (Ln): 準備をしてて、ちょっと確認したいことが出てき�
 ミク・MEIKO: 『えっ？』
 ミク (Ln): 何かあったの？
 リン (Ln): うん。実はね——
-(Black cut)
+(Black transition)
 ミク (Ln): ——そっか。一歌が……
 MEIKO (Ln): たしかに、その状況だと ライブを楽しむのはちょっと難しいかもしれないね
 リン (Ln): ……やっぱり、そうだよね
@@ -122,4 +118,4 @@ MEIKO (Ln): 任せて。 私達にできることなら、何でも手伝うよ
 リン (Ln): さっすが、めーこ姉！　頼りになる～っ♪
 リン (Ln): よーし、それじゃあ気を取り直して、 また企画会議から始めるよー！
 ミク・レン・MEIKO: 『うん！』 『ああ！』
-(Black cut)
+(Black transition)

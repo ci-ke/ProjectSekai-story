@@ -2,7 +2,7 @@
 
 (Character: 望月穂波, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -15,7 +15,7 @@
 (Background change)
 まふゆ: 『私も何パターンか書いたから、見てほしい』
 奏: 『じゃあ、ふたりともちょっと待ってて』
-(Black cut)
+(Black transition)
 (Background change)
 奏: （えななんのイラストは……。 うん、いい）
 奏: （曲をえななんなりに解釈して、絵に落とし込んでくれてる）
@@ -26,7 +26,7 @@
 奏: （今、この歌詞だとわからない）
 奏: （会話するよりはずっと近く感じる。 けど、雪の心が……見えそうで見えない）
 奏: （もっと雪の心に近づきたいのに……）
-(Black cut)
+(Black transition)
 (Background change)
 絵名: 『あー、肩こってきちゃった。 ねえ、そろそろ休憩にしない？』
 瑞希: 『そだねー。Kと雪もいい？』
@@ -71,16 +71,12 @@
 瑞希: 『作詞のヒントになるかもしれないし、 あと……意外と楽しいって思えるかもよ！』
 (Background change)
 奏: 『あ……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ……なら、もっとたくさん話して、 相手のことを深く知るほうがいいような気がしました
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『…………』
 (Background change)
@@ -97,7 +93,7 @@
 (Background change)
 奏: 『…………』
 奏: （これが、もっと雪のことを知るきっかけになったら――）
-(Black cut)
+(Black transition)
 (Background change)
 
 [土曜日]
@@ -118,19 +114,15 @@
 まふゆの母: ええ、そうね。 今日はせっかくお友達に誘ってもらったんだものね
 まふゆの母: 気をつけて行ってらっしゃい。予備校も頑張ってね
 まふゆ: うん。行ってきます
-(Black cut)
+(Black transition)
 まふゆ: …………感性、ね
 まふゆ: 別に何を見ても変わらないのに。 どうせ何も感じないんだから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 『この曲、どういうふうに感じた？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: そんなの――わからない
-(Black cut)
+(Black transition)

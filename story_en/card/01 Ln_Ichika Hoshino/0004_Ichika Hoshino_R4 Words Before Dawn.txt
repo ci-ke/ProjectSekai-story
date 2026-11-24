@@ -28,7 +28,7 @@ Saki: Come on, Shiho! That's enough! I'm looking forward to having an apple pie,
 Ichika: See ya.
 Ichika: (I'm glad we're all speaking again. It's almost like things never changed. Every day is so much fun.)
 Ichika: (But still... I can't get rid of this strange feeling...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ichika's Room]
@@ -37,7 +37,7 @@ Ichika: I can't sleep...
 Ichika: (I keep thinking about that feeling I had earlier today.)
 Ichika: (Why is it bothering me so much? Maybe I should talk to somebody about it. But who...?)
 Ichika: Oh, I know. Maybe Miku can help me.
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -58,7 +58,7 @@ Ichika: Oh, I know this one. It's a bit sad, but it's such a beautiful ballad.
 Miku (Ln): Yeah. Happy songs can be good when your spirits are low, but I get the feeling this might be better for you right now.
 Miku (Ln): Here, grab your guitar and I'll teach you the chords.
 Ichika: Okay.
-(Black cut)
+(Black transition)
 Ichika: Phew!
 Miku (Ln): That was great. I think you've got it.
 Ichika: Thanks. You're a great teacher, Miku.
@@ -83,7 +83,7 @@ Miku (Ln): So don't ever hesitate to ask for help.
 Ichika: Right!
 Ichika: Thanks for today, Miku. Good night.
 Miku (Ln): Of course. Good night, Ichika.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,7 +105,7 @@ Ichika: Of course. Well, I'll see you two later.
 Luka: What do you think?
 Miku (Ln): I wonder if something happened.
 Luka: It didn't feel like it, but I'm still a little worried.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rehearsal Studio]
@@ -122,7 +122,7 @@ Ichika: I want to show them how good we've become thanks to all their help and s
 Saki: Yeah! I can't wait to surprise them with a great performance of our own!
 Shiho: Let's get to it, then. Get ready for some tough practices.
 Ichika, Saki, & Honami: Right!
-(Black cut)
+(Black transition)
 
 [Two weeks later]
 
@@ -139,7 +139,7 @@ Saki: And this way, we can get an honest assessment of whatever it is we're miss
 Honami: She's right. I think it's a good idea.
 Shiho: I guess you're right. I would have liked to perfect it on our own, but that's probably not the best use of our time.
 Ichika: Alright! Let's go show them what we can do!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: School SEKAI)
 Ichika: Huff... Huff...
@@ -167,4 +167,4 @@ Shiho: We're all finished setting up. Let's do this.
 Honami: I want to keep improving as well!
 Miku (Ln): Hehe. Alright, shall we get started, then? Let's take it from the top.
 Ichika: Right!
-(Black cut)
+(Black transition)

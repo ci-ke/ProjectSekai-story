@@ -27,7 +27,7 @@
 奏: たしかに、いいかも
 奏: じゃあ今日からよろしく、星乃さん
 一歌: はい！　一緒に頑張りましょう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -75,7 +75,7 @@
 奏: 『え？　あ、う、うん』
 (Background change)
 奏: （なんとか……聞けてよかった……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -91,7 +91,7 @@
 穂波: 世間話……ですか……？
 穂波: そう、ですね……。最近は練習を増やしてるせいか、 ちょっと肩が凝ってる感じがしますね
 奏: 肩こり……なるほど。つらそうだね……
-(Black cut)
+(Black transition)
 (Background change)
 奏: もしもし、花里さん？　急に電話しちゃってごめん
 (Background change)
@@ -109,7 +109,7 @@
 奏: それで、困ってることとかある？
 (Background change)
 みのり: 『んーそうだなあ……。 ありがたいことなんだけど、最近すっごく忙しくて——』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -124,7 +124,7 @@
 奏: そうだ、わたしがリサーチしたこと共有するね
 (Background change)
 一歌: 『はい、お願いします！』
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……わたしからは、こんなところかな
 (Background change)
@@ -133,4 +133,4 @@
 奏: うん、頑張ろうね
 (Background change)
 奏: ……じゃあ、プレゼント選びの前に—— 最後のリサーチをしようかな
-(Black cut)
+(Black transition)

@@ -53,7 +53,7 @@ Skill name: 吉凶占う花模様
 絵名: 『……あ、私も見る。 イラストに影響ありそうだし！』
 (Background change)
 瑞希: 『あはは、今年も通常運転って感じだな〜』
-(Black cut)
+(Black transition)
 (Background change)
 
 [２時間後]
@@ -67,23 +67,19 @@ Skill name: 吉凶占う花模様
 瑞希: 『寝坊して、愛莉ちゃん待たせないようにしなよ〜？』
 (Background change)
 絵名: 『はいはい。みんなもほどほどにね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [30分後]
 
 絵名: ——よし。明日の準備はこんなもんでいいかな
 絵名: 着ていく服も選んだし、そろそろ寝ないと
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『寝坊して、愛莉ちゃん待たせないようにしなよ〜？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ったく、瑞希のやつ
 絵名: せっかく愛莉と丸一日遊べるんだから、 寝坊なんてするわけないでしょ
@@ -92,7 +88,7 @@ Skill name: 吉凶占う花模様
 絵名: これなら絶対起きられるでしょ
 絵名: って、やば。もうこんな時間じゃん。 明日のためにも、早く寝ないと
 絵名: （……大丈夫。絶対寝坊なんてしないんだから）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -113,7 +109,7 @@ Skill name: 吉凶占う花模様
 奏: わ、わたしも、あんまり人のことは言えないかな……
 まふゆ: おみくじ、早く行かなくていいの？
 絵名: そうだった！ えーと、おみくじは……あ、あっちみたい！
-(Black cut)
+(Black transition)
 絵名: うわ、最悪。すっごい並んでる……
 瑞希: まあまあ。今更焦っても仕方ないし、のんびり並ぼうよ
 奏: 絵名が欲しいおみくじって、 ちょっと変わったおみくじなんだよね？
@@ -139,7 +135,7 @@ Skill name: 吉凶占う花模様
 絵名: あれって……追加分？　よかった〜！
 瑞希: あれだけあれば、ボク達まで回ってきそうだね！
 絵名: だね。あと少し、頑張って並ぼう
-(Black cut)
+(Black transition)
 
 [30分後]
 
@@ -166,4 +162,4 @@ Skill name: 吉凶占う花模様
 絵名: はいはい。なんとでも言って。 何言われても大吉は揺るがないし
 絵名: あ、ねえ、せっかくだしお守りも見てこうよ。 結構かわいいデザインのやつもあるみたい
 瑞希: あはは、嬉しそうにしちゃって……。 じゃ、ボク達も行こうか
-(Black cut)
+(Black transition)

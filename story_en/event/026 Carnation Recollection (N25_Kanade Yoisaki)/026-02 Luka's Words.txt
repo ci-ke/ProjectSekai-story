@@ -43,7 +43,7 @@ Kanade: <Oh...>
 Kanade: (I was so determined while making that song for Yuki after I found her in SEKAI. It was the same when I made that song for Enanan too.)
 Kanade: (Maybe that's it. I have to become completely immersed in the songwriting like I was back then...)
 Kanade: (But...)
-(Black cut)
+(Black transition)
 
 [Early the next day]
 
@@ -63,7 +63,7 @@ Kanade: For now, yes. I made a new demo...
 Kanade: Um, Luka... Would you mind listening to it for me?
 Kanade: I can't really reach anyone else right now so...
 Luka: <Yes, of course. I'd love to hear it.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -71,12 +71,12 @@ Luka: <Yes, of course. I'd love to hear it.>
 Luka: Welcome, Kanade.
 Luka: Shall we get started?
 Kanade: Yes, please...
-(Black cut)
+(Black transition)
 Luka: ...
 Kanade: What do you think?
 Luka: It's very you, Kanade. But...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000081/bg_a000081.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000081/bg_a000081.webp)
 Luka: I'm not sure this song will be able to clear up what's on that girl's mind...
 Kanade: Huh...?
 Luka: I also suspect that you're still not sure where you're going with this song.
@@ -85,7 +85,7 @@ Luka: What is it that you want people to see or realize by hearing this?
 Luka: You don't seem to have considered that and it'll end up meaningless if there's no goal to reach.
 Luka: This will just leave everyone wandering endlessly in the darkness...
 Luka: That's what I thought.
-(White cut)
+(White transition)
 (Background change)
 Kanade: Does that mean...?
 Luka: That is all I have to say regarding this...
@@ -107,7 +107,7 @@ Luka: I believe that is why I'm here.
 MEIKO: Break it down...?
 Luka: Out of curiosity, MEIKO, what kind of song do you think she'll come to us with next?
 MEIKO: Huh...?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Kanade's Room)
 Kanade: What do I want her to see or realize...?
@@ -117,4 +117,4 @@ Kanade: Oh, right... I need to go visit dad at the hospital today.
 Kanade: I have to start getting ready and... Huh?
 Kanade: It's raining again... The weather's been so bad lately...
 Kanade: No, I don't have time for that. I need to hurry...
-(Black cut)
+(Black transition)

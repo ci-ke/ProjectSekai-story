@@ -26,7 +26,7 @@ Skill name: 特別なお茶
 リン (N25): ……奏、来たよ
 ミク (N25): ……まふゆは？
 奏: あ、それが——
-(Black cut)
+(Black transition)
 ミク (N25): ……そう。具合、悪いんだね……
 奏: うん……。 ちゃんと眠れてるといいけど……
 ミク (N25): まふゆ……
@@ -49,7 +49,7 @@ Skill name: 特別なお茶
 絵名: これでひと安心……かな……
 奏: そうだね
 奏: （まふゆ、ちゃんと休めてるといいな……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -71,7 +71,7 @@ Skill name: 特別なお茶
 奏: ……言われてみれば、ちょっと窮屈になってきてるね
 奏: 大変じゃなければ、お願いしたいな
 穂波: わかりました。 なるべく使いやすく、整理しますね
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -79,7 +79,7 @@ Skill name: 特別なお茶
 奏: （……まふゆが作ってくれた歌詞よかったし、 あの言葉の響きともっと合うように……）
 穂波の声 (穂波): ——宵崎さん、晩ご飯の準備ができました
 奏: あ、うん。今、行くね
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……あ、まふゆ。 帰ってたんだ
 まふゆ: ……うん。少し前に……
@@ -110,21 +110,17 @@ Skill name: 特別なお茶
 穂波: そうなんですね……
 穂波: じゃあ、あらかじめいいお店を調べて 買いに行ってくださったのかもしれませんね
 まふゆ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの父: リラックスできる香りらしいので、 作業の合間にでも飲んでください
 奏: ありがとうございます
 まふゆ: …………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （まふゆを見るあの時の目、すごく優しかった……）
 奏: （望月さんの言うとおり、まふゆのことをいろいろ考えて あのお茶を用意してくれたんだろうな）
 奏: ……まふゆ。 あのお茶、大切に飲もうね
 まふゆ: ……うん
-(Black cut)
+(Black transition)

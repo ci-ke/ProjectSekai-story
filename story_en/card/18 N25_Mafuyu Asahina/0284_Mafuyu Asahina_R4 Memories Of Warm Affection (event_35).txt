@@ -24,7 +24,7 @@ Kanade: <I'd like to talk as a group about the video and lyrics for this song...
 Mafuyu: <Okay, but I have to do homework so I'll probably be running late...>
 Kanade: <Thank you. Good night, Yuki.>
 Mafuyu: <Okay, good night...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -68,15 +68,11 @@ Mafuyu: Time to relax?
 Shizuku: For example, surrounding yourself with the things you like or investing time in a hobby.
 Shizuku: Or just finding time to let you be yourself and genuinely relax.
 Mafuyu: Time where I can be myself...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: Asahina...?
 Mafuyu: Again, I appreciate your concern, but I think I'm okay.
@@ -84,7 +80,7 @@ Mafuyu: I'm surrounded by friends who will listen to me as well as teachers I ca
 Mafuyu: Hehe. That includes you too, Hinomori. My friend and valued clubmate.
 Shizuku: And I'd be glad to assist you in any way.
 Mafuyu: Thank you, Hinomori.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,33 +111,29 @@ Mafuyu: ...
 Miku (N25): Is this what you were trying to express?
 Mafuyu: Not quite...
 Mafuyu: I'll try changing the words for that part...
-(Black cut)
+(Black transition)
 Miku (N25): Okay, let's try that again...
 Miku (N25): ♪——— ♪———
 Miku (N25): ♪——— ♪———
 Mafuyu: Oh...
 Mafuyu: (Good, I think this is it...)
 Mafuyu: (This matches the warmth that I felt when I heard Kanade's song...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Mafuyu (Mafuyu): Um... Mommy...?
 Little Mafuyu (Mafuyu): Can you stay and hold my hand...? Until I fall asleep...?
 Mafuyu's Mother: Hehe. My, aren't we full of demands today.
 Mafuyu's Mother: Of course, dear. Now, lie down for me, and take my hand...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: (My chest still tightens up when I remind myself of that...)
 Mafuyu: (But I'm feeling and remembering.)
 Mafuyu: (That warmth... I don't ever want to forget it...)
 Miku (N25): ——♪ ————♪
-(Black cut)
+(Black transition)
 Mafuyu: Thank you, Miku.
 Miku (N25): Sure.
 Miku (N25): How was it...?
@@ -153,4 +145,4 @@ Mafuyu: Huh?
 Miku (N25): I'll remember too, so you'll never forget.
 Mafuyu: Oh...
 Mafuyu: Thank you, Miku.
-(Black cut)
+(Black transition)

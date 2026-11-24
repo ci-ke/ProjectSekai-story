@@ -55,7 +55,7 @@ Ena: <Um, K? I know we just mentioned this, but don't push yourself too hard, ok
 Ena: <I get that you want to make a song that can save Yuki, but I don't think rushing like this is the right answer.>
 Kanade: <Thanks, Enanan...>
 Ena: <Sure...>
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: This one didn't work either...
 Kanade: (It seems like she's been able to feel more lately, but it's still not enough...)
@@ -63,7 +63,7 @@ Kanade: (How do I actually make a song that can save Yuki...?)
 Kanade: ...
 Kanade: No, thinking about it won't get me anywhere...
 Kanade: I just have to keep composing...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -73,25 +73,21 @@ Kanade: I just have to keep composing...
 Mafuyu's Friend: Bye, Mafuyu! See you tomorrow!
 Mafuyu: See you at school.
 Mafuyu: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Kanade: <How is it, Yuki?>
 Mafuyu: <...>
 Mafuyu: <I don't know...>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Mafuyu: (Until now, Kanade's songs made my chest ache or helped me relax when I listened to them.)
 Mafuyu: (Even now, I feel something there... A part of me that isn't at ease...)
 Mafuyu: (But I don't know why that is...)
 Mafuyu: (What's doing this to me...?)
 Mafuyu: I just don't know...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -99,7 +95,7 @@ Mafuyu: I just don't know...
 Kanade: Done...
 Kanade: (Yeah. I like how this song's coming along...)
 Kanade: (This one might just...)
-(Black cut)
+(Black transition)
 Kanade: <Thanks for waiting, everyone. The new demo's done.>
 (Background change)
 Ena: <You're done already, K? That was really fast...>
@@ -111,20 +107,16 @@ Mafuyu: <...>
 Kanade: <Yuki?>
 Mafuyu: <It's nothing. Can I listen to it now?>
 Kanade: <Sure. I'll upload it to Nightcord... Oh...>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: <Would it be okay with everyone if we listened to this together in SEKAI...?>
 Mafuyu: <Huh?>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -162,7 +154,7 @@ Kanade: Thanks.
 Kanade: (I wonder what Mafuyu thinks. I hope she feels something.)
 Mafuyu: ...
 Kanade: Oh...
-(Black cut)
+(Black transition)
 Miku (N25): That was a beautiful song.
 Luka: Yes, it was very nice...
 Kanade: No, I'm not sure it actually was...
@@ -173,7 +165,7 @@ Kanade: (This song didn't reach Mafuyu either...)
 Luka: ...
 Luka: Well, when you're finished, I'd love to hear it again.
 Kanade: Sure...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Kanade's Room)
 Kanade: (Nothing's working...)
@@ -181,4 +173,4 @@ Kanade: (I've been trying to compose songs around what Mafuyu seems to be thinki
 Kanade: (But lately, songs that I've been making this way haven't been striking a chord with her...)
 Kanade: (I want to make something that really resonates with what she's feeling but...)
 Kanade: How do I do that...?
-(Black cut)
+(Black transition)

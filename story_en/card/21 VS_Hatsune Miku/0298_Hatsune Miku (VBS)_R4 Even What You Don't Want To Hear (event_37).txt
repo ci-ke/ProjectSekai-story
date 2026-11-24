@@ -18,15 +18,11 @@ Miku (VBS): Yes, iced, please.
 MEIKO: Coming right up.
 Miku (VBS): ...
 Miku (VBS): (Practice went just fine but... I can't help, but wonder...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (VBS): (For a while now, it seems like An hasn't been at 100%.)
 Miku (VBS): (But they did just perform in a big event. I suppose anyone would want to relax a little after something like that.)
@@ -66,15 +62,11 @@ Miku (VBS): Oh, I see...
 MEIKO: But the possibility that An wants to resolve this on her own isn't zero.
 Miku (VBS): Hehe. That's still my expectation.
 Miku (VBS): (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: If you're that worried about her, why not just ask her yourself?
 Miku (VBS): I mean...
@@ -86,7 +78,7 @@ MEIKO: Okay...
 MEIKO: Since what one of them does affects the entire team, this may've just been an inevitability.
 Miku (VBS): Maybe...
 Miku (VBS): (I really can't say what's bothering An, but I sure hope she finds a good way to get through this.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,15 +107,11 @@ An: I want to be a partner that she can respect and be proud of!
 Miku (VBS): And this is how you truly feel, An?
 An: It is, and I'm gonna do everything I can to make it happen.
 Miku (VBS): If that's the case, good for you.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (VBS): (I had a feeling that she'd figure out what to do when An was singing with her, but...)
 Miku (VBS): I wasn't expecting to hear you make such a clear declaration. I may have to hold you to your word if you really mean it.
@@ -169,4 +157,4 @@ Miku (VBS): But you guys will always have to make the final decision, which I kn
 Miku (VBS): So feel free to ask me about everything else.
 An: Miku...
 An: Hehe. You're way too cool!
-(Black cut)
+(Black transition)

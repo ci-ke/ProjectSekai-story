@@ -24,7 +24,7 @@ Gacha phrase: ありがとう、おかあさん
 まふゆ: 『……学校の宿題があるから、 少し遅くなるかもしれないけど、行けると思う』
 奏: 『よかった。 じゃあ、また明日』
 まふゆ: 『……うん。おやすみ』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌朝]
@@ -68,15 +68,11 @@ Gacha phrase: ありがとう、おかあさん
 雫: たとえば、好きなものに囲まれたり、 趣味に時間を使ったり、そういう時間よ
 雫: あとは、ほっと肩の力を抜ける時間とか、 素の自分でいられる場所とか
 まふゆ: 素の自分で、いられる時間…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……朝比奈さん？
 まふゆ: 心配してくれてありがとう。でも大丈夫だよ
@@ -84,7 +80,7 @@ Gacha phrase: ありがとう、おかあさん
 まふゆ: ふふ。それに日野森さんっていう 部活でも頼りになる友達もいるから
 雫: ええ、私でよければいつでも話してくれると嬉しいわ
 まふゆ: うん。ありがとう、日野森さん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -115,33 +111,29 @@ Gacha phrase: ありがとう、おかあさん
 ミク (N25): まふゆが伝えたいことと、合ってる？
 まふゆ: ……違う気がする
 まふゆ: そこ、少し言葉を変えて——
-(Black cut)
+(Black transition)
 ミク (N25): ——じゃあ、歌うね
 ミク (N25): ♪———　♪———
 ミク (N25): ♪———　♪———
 まふゆ: あ……
 まふゆ: （……よかった。ようやく、表現できた）
 まふゆ: （奏の曲を聴いて感じた、あのあたたかい気持ちを——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼いまふゆ (まふゆ): …………、ねえ。おかあ、さん
 幼いまふゆ (まふゆ): ねるまで、そばにいて……。 おてて、ぎゅってしてて
 まふゆの母: ……ふふっ。今日のまふゆは甘えん坊さんね
 まふゆの母: いいわよ。ほら、ねーんね……。 まふゆは、いいこ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: （思いだすと、やっぱり少し胸が痛い……）
 まふゆ: （でも、“感じられる”）
 まふゆ: （あたたかさも…… この気持ちを、忘れたくないと思ったことも……）
 ミク (N25): ——♪　————♪
-(Black cut)
+(Black transition)
 まふゆ: ミク、ありがとう
 ミク (N25): うん
 ミク (N25): ……どうだった？
@@ -153,4 +145,4 @@ Gacha phrase: ありがとう、おかあさん
 ミク (N25): わたしも、一緒に覚えてる。 だから、忘れない
 まふゆ: あ……
 まふゆ: ……ありがとう、ミク
-(Black cut)
+(Black transition)

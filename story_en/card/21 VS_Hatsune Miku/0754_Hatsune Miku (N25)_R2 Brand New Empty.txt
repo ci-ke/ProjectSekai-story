@@ -12,7 +12,7 @@ Miku (N25): Um, so next you...take the string from your middle left finger using
 Len (N25): Like...this?
 Miku (N25): Yes, good job.
 Miku (N25): So... I'll say the next step. Now you need to use your other pinkie to...
-(Black cut)
+(Black transition)
 Miku (N25): You're getting good at cat's cradle, Len.
 Len (N25): Thanks... But, since you taught me so much...
 Len (N25): I'd like Mafuyu and everyone to see it.
@@ -40,15 +40,11 @@ Len (N25): Uh...
 Len (N25): ...
 Len (N25): I don't know. Change seems so difficult and painful, you know...?
 Len (N25): Like with Mafuyu recently...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (N25): Yes. For Mafuyu and the others, I think change can be very painful.
 Miku (N25): But...
@@ -65,7 +61,7 @@ Len (N25): I'm going to think hard about what I can do for them...
 Miku (N25): Me too...
 Miku (N25): Do you want to think together?
 Len (N25): Okay.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -86,7 +82,7 @@ Len (N25): Oh... I saw MEIKO before I met you Rin. I showed her my cat's cradle.
 Miku (N25): Really...? I wonder if she's still there. I want to ask her about KAITO.
 Len (N25): Um... Are you gonna go look for her?
 Miku (N25): Yes...
-(Black cut)
+(Black transition)
 Len (N25): Oh, MEIKO, and also...
 Luka (N25): My, what brings you three together at once?
 Rin (N25): I didn't know you were here too, Luka.
@@ -127,4 +123,4 @@ Miku (N25): Still, I'm happy...
 Miku (N25): KAITO, are you going to keep watching over Mafuyu and the others with us?
 KAITO (N25): If it is called for, yes.
 Miku (N25): Great.
-(Black cut)
+(Black transition)

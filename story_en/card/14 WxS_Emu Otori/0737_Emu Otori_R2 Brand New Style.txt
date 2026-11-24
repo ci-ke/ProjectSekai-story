@@ -16,7 +16,7 @@ Emu: Hehe. You saying wonderhoy puts such a big smile on my face☆
 Saki: Heehee! I am the little sister of Tsukasa Tenma, the Wonder Stage's big superstar, after all!
 Saki: Since we ran into each other, let's head to the classroom together!
 Emu: Yeah! Let's GO GO☆
-(Black cut)
+(Black transition)
 (Background change)
 Saki: I guess a bit of time has passed since we all changed classes... Have you been able to settle in yet, Emu?
 Emu: Yup! I wasn't sure how I'd feel this year since I really loved my class last year...
@@ -38,7 +38,7 @@ Saki: I can't wait to see how the class will turn out if you do manage to get ch
 Emu: Hehe. Thanks, Saki!
 Saki: Oh, there's the bell! We gotta get to class now!
 Emu: Oh no! Let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 2-B]
@@ -48,17 +48,15 @@ Teacher: I will start by listing off the different committees, so please raise y
 Emu: (This is it! My chance has finally come.)
 Teacher: First, class representative—
 Emu: Me! I'd like to do that!
-(Black cut)
+(Black transition)
 
 [During break]
 
 Shiho: I didn't realize you were that set on becoming the class representative, Otori...
 Classmates: I was surprised too. I thought you were gonna join the planning committee for the Sports Festival since you worked so hard on it last year.
 Emu: I thought about that too! But the other day...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Shosuke! Which committee do you think I should be on this year?!
 Shosuke: Huh? Just join whichever one you like. You don't have to ask me every time.
@@ -76,10 +74,8 @@ Emu: ...! That means...
 Keisuke: Yes. It is the perfect job for those who are “destined to lead”.
 Keisuke: If you truly wish to carry Phoenix Wonderland into the future, then wouldn't you say this is a great place to start?
 Emu: Right...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Which is why I decided to become the class representative.
 Saki: Emu...
@@ -90,7 +86,7 @@ Emu: Shiho...!
 Classmates: Yeah. It's gonna be a blast with you representing us, Otori. I'm pretty excited.
 Emu: Hehe. Thanks, everyone!
 Emu: I'm gonna do my very best to make our class as fun and smile-filled as I can!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -155,4 +151,4 @@ Emu: Then, I'm gonna do my best to become a reliable class rep just like Tsukasa
 Emu: Class 2-B's gonna be so wonderhoy and full of smiles! I'll work hard to make this the most fun year ever☆
 Nene: Hehe. Break a leg.
 Rui: That's our Emu for you. I'll also be cheering you on.
-(Black cut)
+(Black transition)

@@ -10,31 +10,23 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 [類の部屋]
 
 類: さて、どうしたものか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: ……すまない。 実は今、青龍院に役の作りかたを教えてもらっていてな
-(White cut)
+(White transition)
 司: ああ。正確には青龍院のやりかたではなく、 知り合いのやりかたのようだが……
 司: ……その方法で役を作りきるには、 時間が足りないのではないかと思っていてな……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （残り数日で青龍院くんに 匹敵する演技を作り上げることは、正直難しいだろう……）
 類: （けれど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: フフ……
 類: あんな顔をされては、応えないわけにはいかないからね
@@ -50,7 +42,7 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 類: ご名答。司くんが電話してきてくれたのも、 その件だったかな？
 司: 『ああ！　残りの日数で何をどこまでやれるのか 自分でも考えてみたんだが、まとまらなくてな』
 類: フフ。では、僕の提案を聞いてもらってもいいかい？ と言っても、至極単純なものだけどね
-(Black cut)
+(Black transition)
 (Background change)
 司: 『何！？　練習するシーンを絞る？』
 (Background change)
@@ -108,7 +100,7 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 類: これでトリ型ロボットに吹き込む フェニックスの声はよし
 類: あとは、僕が朝までに間に合わせるだけだ
 類: さあ、始めようか！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,19 +113,15 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 類: ——内部データのログによると…… うん。かなりうまく逃げ回ってくれたようだね
 類: 寧々に声を吹き込んでもらったのもよかった。 あるのとないのとでは、イメージのしやすさが かなり違っただろうし
 類: しかし……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: ……もしかすると、厳密にリンクしていないからかもしれない。 ここは森ではないし、気温や湿度も違う
 司: だが、それを似せることは難しい……。 練習もあるから、森に行く時間もない。ならば——
 司: ……リオは３日３晩、水しか飲まずにすごしていたな
 司: ならばオレも——同じことをしようと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （……あの時は、司くんの真剣さと リオ役に掛ける想いを尊重してOKしたけれど……）
 類: （司くんは役との共通点を見つけて その役にシンクロしていくタイプの役者だ）
@@ -142,7 +130,7 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 類: せめて、もう少し負担を減らせれば……
 類: 自身の肉体を追い詰めることなく、 疑似的な体験ができる何か……
 類: ……！　そうだ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -183,7 +171,7 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 寧々: なんなのその、変な映像……
 類: フリー動画をつなぎ合わせて作ったものだよ。 編集の粗さが見えるのは許してもらいたいね
 寧々: そこじゃなくって……
-(Black cut)
+(Black transition)
 えむ: はぁ……！　とってもおもしろかった～っ☆
 類: フフ、それはよかった
 類: 今回は映像だけしか用意できなかったけど、 ここに音が入れば、もっと臨場感が出るだろうね
@@ -198,4 +186,4 @@ Gacha phrase: フフフ……これが捕まえられるかな？
 えむ: ねえねえ、類くん。 あたし、もう１回見たいな！
 えむ: あの空を飛んでるところ、アヒルさん達が飛んでるところを イメージできる気がするんだ♪
 類: ああ、もちろんいいとも！
-(Black cut)
+(Black transition)

@@ -68,15 +68,11 @@
 奏: （……たしかに、まふゆのお母さんは最初に会った時と この前会った時だと、印象が違った）
 奏: （……離れてる時間の中で、心境に変化があったのかも）
 奏: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『……一緒にいられる方法は、ないのかな……？』
 奏: 『ふたりはお互いに一緒にいたくて、愛し合ってるから……』
@@ -95,15 +91,11 @@
 瑞希: 『向き合うたびに、 傷が深くなることもあるかもって思って』
 (Background change)
 奏: 『あ……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Background change)
 瑞希: 『……もしかしたら、向き合うことで 変わっていくこともあるのかもしれないけどね』
@@ -157,29 +149,21 @@
 絵名: 『何かあったら、いつでも話は聞くから。 ……それだけ』
 絵名: 『じゃあね』
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の祖母: いつか、奏ちゃんも自分自身の人生を歩むのよ
 奏の祖母: 誰にも縛られない、奏ちゃんだけの人生を
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……わたしは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): まふゆに曲を作らなくてもよくなったら…… どうするの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……わたしと、まふゆは……）
 奏: …………ちゃんと、考えなきゃ
@@ -187,4 +171,4 @@
 奏: （絵名が言ったことも、瑞希が言ったことも——）
 奏: （それに、ルカが言ったことも）
 奏: （ちゃんと考えて……答えを出さなきゃ）
-(Black cut)
+(Black transition)

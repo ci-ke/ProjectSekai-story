@@ -3,7 +3,7 @@
 (Character: 小豆沢こはね, 白石杏)
 
 (Video: link2_street_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -13,7 +13,7 @@
 観客A: 今日も杏ちゃんの歌はすげえな！
 観客B: ああ！　やっぱ若い連中のなかじゃ 頭ひとつ抜けてるよ
 観客B: けど……なんか、前より勢いが落ちた気がするんだよな
-(Black cut)
+(Black transition)
 (Background change)
 
 [イベント後]
@@ -25,10 +25,8 @@
 杏: （今日も、ちゃんと歌えてた感じがしない）
 杏: （最近、ずっとこうだ。 歌っても歌っても、なにか足りない）
 杏: （理由は、わかってる。でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ごめん、ごめんね、杏ちゃん……！
 杏: 大丈夫だよ、こはね。 謝らないで……！
@@ -61,33 +59,27 @@
 こはね: 杏ちゃんの歌、すごく好きだから——
 こはね: きっと、杏ちゃんだったら…… 伝説のイベントを超えられるって思うの
 杏: こはね……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000430/bg_s000430.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000430/bg_s000430.webp)
 杏: ————うん、任せて
 杏: 絶対に、叶えてみせるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （あれから、こはねと会ってない……）
 杏: （メッセージを送るのも、もうやめた）
 杏: （いつかステージに立てるかも、なんて期待は ……私のわがままだ）
 杏: （巻き込んだのは私で…… 私が誘わなければ、こはねが傷つくこともなかった）
 杏: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: こはねと一緒に歌うの…………楽しかったなあ
 杏: ……なんて、ダメだよね。 イベントの後なのに、こんな気分になってたら
 杏: ステージの件は、もう済んだことなんだし。 もうこれ以上、なにか変わることなんてない
 杏: 私はこはねと約束したんだから。 夢を叶えるって
 杏: ……前に進まなきゃ
-(Black cut)
+(Black transition)

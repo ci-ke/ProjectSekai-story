@@ -82,7 +82,7 @@ Kanade: <Again, Enanan, I really appreciate it. And I'm sure she's going to as w
 (Background change)
 Ena: (Hehe. Kanade sounds really happy. I'm glad...)
 Ena: (I'm not sure I have the artistic skills necessary to teach someone else, but I want to do what I can to help...)
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -103,7 +103,7 @@ Ena: <Would it be possible for you to send me a picture of one of your drawings?
 Ena: ...
 Ena: ... Hm...? No reply...?
 Ena: I guess I should give her a minute. She might be taking a picture of one of her drawings.
-(Black cut)
+(Black transition)
 Ena: Still no reply after thirty minutes...
 Ena: It is getting pretty late. Maybe she fell asleep. I suppose we can pick this up...
 Ena: Oh, she replied! What did she say...?
@@ -133,15 +133,11 @@ Ena: ...
 Ena: (She seems like the hard-working type too...)
 Ena: (But you usually spend only a day or so for a shadowing. I really don't think she has to go this far...)
 Ena: (Maybe she likes doing what she can for others...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Hehe...
 Ena: <How about I teach you in person?>
@@ -153,4 +149,4 @@ Honami: <No, that'd be wonderful! I'll gladly accept your help, Shinonome!>
 Ena: <Okay, that settles that.>
 Ena: <But it's getting pretty late, so let's discuss when and where to meet some other time.>
 Honami: <Yes, thank you very much!!>
-(Black cut)
+(Black transition)

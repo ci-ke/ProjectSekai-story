@@ -12,19 +12,15 @@ Gacha phrase: Are you saying you know how to solve this?
 MEIKO (N25): KAITO...
 MEIKO (N25): I know I told you this just before, but I don't approve of your way of doing things...
 KAITO (N25): ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (N25): Don't think that your solution is always the best one.
-(White cut)
+(White transition)
 (Background change)
 MEIKO (N25): <Didn't I tell you to stop...?!>
 MEIKO (N25): <You have no right asking such a question!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): Hmph...
 KAITO (N25): I never intended on seeking your approval.
@@ -69,19 +65,15 @@ MEIKO (N25): Please don't forget what I just said.
 KAITO (N25): ...
 MEIKO (N25): ...
 KAITO (N25): (What a pain...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): ...
 KAITO (N25): Looks like I'll be waiting for a while longer...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -92,16 +84,12 @@ KAITO (N25): Looks like I'll be waiting for a while longer...
 
 [Lake]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: I... I just need a little bit more time...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): (A little bit more time, huh...?)
 KAITO (N25): (This is a situation where you suffer more the longer you let this linger. And yet...)
@@ -137,15 +125,11 @@ Rin's Voice (Rin-N25): Oh no...!
 MEIKO (N25): Rin...?
 Rin (N25): The flower fell off...
 Miku (N25): So... When Rin tried to put the corsage back on, it suddenly fell off...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): (Why did I just...?)
 KAITO (N25): (I have a bad feeling...)
@@ -163,4 +147,4 @@ MEIKO (N25): You're welcome.
 Miku (N25): MEIKO? What's wrong...?
 MEIKO (N25): Nothing...
 MEIKO (N25): (Mizuki...)
-(Black cut)
+(Black transition)

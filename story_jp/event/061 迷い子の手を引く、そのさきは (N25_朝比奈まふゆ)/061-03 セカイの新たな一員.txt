@@ -17,13 +17,13 @@ MEIKO: …………
 ミク (N25): えっと……。 挨拶、できる？
 ？？？: ……うん
 まふゆ: え……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000085/bg_s000085.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000085/bg_s000085.webp)
 レン: あ……。 えっと、その……
 レン: ……は、はじめ、まして
 瑞希: よろしくね、レン！
 レン: う、うん……
-(White cut)
+(White transition)
 (Background change)
 瑞希: うーん、なかなかミクの後ろから 出てきてくれないな～
 奏: 人見知り……いや、恥ずかしがりやなのかな
@@ -51,16 +51,12 @@ MEIKO: ——レンを見つけて、私達のところまで 連れてきたの
 まふゆ: …………
 まふゆ: （……少しだけ、楽になってきた気がする）
 まふゆ: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母親: ……後悔、しないようにね？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 奏: まふゆ？
@@ -99,4 +95,4 @@ MEIKO: ——レンを見つけて、私達のところまで 連れてきたの
 瑞希: でも——話して楽になることなら、 聞かせてくれたら嬉しいなってさ
 まふゆ: 話せば……
 まふゆ: …………わかった
-(Black cut)
+(Black transition)

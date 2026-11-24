@@ -21,16 +21,12 @@ Gacha phrase: みのりは、もうずっとアイドルだよ
 愛莉: でも、ダンスや歌を見ててもかなり調子よさそうだし、 ここまできてがんばるなとは言えないわ
 遥: ——みのりなら、きっと大丈夫
 遥: この前一緒に帰った時に言われたの。 信じてって
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 遥: だから、私はみのりを信じようと思う
 愛莉: 信じて、か
 遥: そうだ、このあと少し時間ある？
@@ -55,7 +51,7 @@ Gacha phrase: みのりは、もうずっとアイドルだよ
 遥: なるほど。いいね、睡眠の質があがれば、 疲労回復にもいいし
 愛莉: よし、これでだいたいの目星はついたわね！ 早速買いに行きましょ！
 遥: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -84,7 +80,7 @@ Gacha phrase: みのりは、もうずっとアイドルだよ
 みのり: 遥ちゃん……！
 愛莉: それじゃあ、今日も気合い入れてがんばりましょ！
 みのり・遥・雫: 『おー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -150,4 +146,4 @@ Gacha phrase: みのりは、もうずっとアイドルだよ
 愛莉: そうだ！　証拠写真としてみのりの寝顔を撮っておかなくちゃ
 雫: ふふ、愛莉ちゃんたら
 遥: 撮るのはともかく、起こさないようにね
-(Black cut)
+(Black transition)

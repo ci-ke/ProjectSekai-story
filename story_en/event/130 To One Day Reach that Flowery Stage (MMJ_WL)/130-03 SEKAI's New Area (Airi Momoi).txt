@@ -20,7 +20,7 @@ Len (MMJ): So why don't we try exploring this place to see if we can learn more 
 Len (MMJ): There might be some clues scattered around as to why it appeared.
 Airi: True...
 Airi: Then, let's try going for a little walk.
-(Black cut)
+(Black transition)
 Airi: We've been walking for a while now... But it's like there's no end to this field of flowers.
 Len (MMJ): It's like there's no other side.
 Airi: Regardless, this place is beautiful. A lot of these flowers are still just buds, some are starting to bloom. And the air feels great.
@@ -42,10 +42,10 @@ Len (MMJ): But there are plenty of other ones that are blooming. Why only this o
 Airi: I don't understand either. But what if I touched it...?
 Airi: Huh...?!
 Len (MMJ): ...?! The light from this flower's...
-(White cut)
+(White transition)
 (Background change)
 Len's Voice (Len-MMJ): A-Airi?!
-(White cut)
+(White transition)
 (Background change)
 Airi: Huh? Where am I...?
 Airi: That's weird. I was with Len just a second ago...
@@ -84,7 +84,7 @@ Airi: I forgot...
 Airi: (I was so happy when people said that they like me as both Happy Everyday and an idol...)
 Airi: (Which is why... I made the decision to accept both sides of who I am as an idol, and do my best...)
 Airi: (But somewhere along the way, I must've convinced myself that I had to choose one or the other...)
-(White cut)
+(White transition)
 (Background change)
 Len (MMJ): Oh...! The light's starting to fade...
 Len (MMJ): Are you okay, Airi? You were engulfed by that light and...
@@ -106,16 +106,12 @@ Len (MMJ): You're always doing your best as a singer, dancer and an enthusiastic
 Len (MMJ): That's why I admire you so much as an idol.
 Airi: Oh...
 Airi: (Come to think of it, Ayumi said...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ayumi: But what you just said about not being a pure idol...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: (She might've been trying to tell me that I was getting the wrong idea.)
 Airi: Thanks, Len. I feel a lot better now after hearing what you just said. Also...
@@ -128,6 +124,6 @@ Len (MMJ): Hearing you say that puts such a big smile on my face, Airi.
 Len (MMJ): Good luck. I'll be right here cheering you on!
 Airi: Alright...
 Airi: Thanks, Len!
-(Black cut)
+(Black transition)
 (Video: link_idol_ed1)
-(Black cut)
+(Black transition)

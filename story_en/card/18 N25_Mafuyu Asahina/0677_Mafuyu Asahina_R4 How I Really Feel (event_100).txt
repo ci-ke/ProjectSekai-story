@@ -10,16 +10,12 @@ Gacha phrase: I need you to understand how I feel...!
 [Mafuyu's Room]
 
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Welcome home, Mafuyu. Do you get your finals back?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I'm afraid of what she's going to say when she sees that my grades are starting to slip.)
 Mafuyu: (Not just say... What she might do...)
@@ -30,14 +26,12 @@ Mafuyu: I need to study...
 Mafuyu: (But Mom might worry if I don't get enough sleep... Then, my only other choice is to study at school during my breaks...)
 Mafuyu: Oh...
 Mafuyu: (If I do that, my lunch break will...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: <Mafuyu! I just had an idea...>
 Mizuki: <What if you logged onto Nightcord to work on stuff while you're at school during lunch?>
-(White cut)
+(White transition)
 (Background change)
 Mizuki: <I know not being able to talk is gonna be tough, Yuki, but let's try to get as much done as we can!>
 (Background change)
@@ -45,23 +39,17 @@ Ena: <She'll be fine. I mean, she doesn't talk much to begin with.>
 Mafuyu's Message (Mafuyu): <Conversely, Enanan, you don't know when to stop.>
 (Background change)
 Ena: <Hey, what's that supposed to mean?! We need to communicate if we want to produce good content, right?!>
-(White cut)
+(White transition)
 (Background change)
 Kanade: <Hehe...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Mafuyu: (If I don't do well on my next exam...)
 Mafuyu: (That means I need to study during lunch...)
 Mafuyu: (And I should let the others know...)
@@ -99,7 +87,7 @@ Mafuyu: ...
 Mafuyu's Message (Mafuyu): <Thank you. I'll try to log on if I have time.>
 Mafuyu: ...
 Mafuyu: I should get changed...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -108,34 +96,26 @@ Mafuyu: I should get changed...
 
 [Neighborhood]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: <Mafuyu... If you don't fight back now, this is probably going to be it for you.>
-(White cut)
+(White transition)
 KAITO: <Fight back. Tell her how you really feel.>
 KAITO: <No one can predict what's going to happen, but this is the only option you have right now.>
 Mafuyu: How I really feel...?
-(White cut)
+(White transition)
 Miku (N25): <We'll be here for you...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I have to tell her... She needs to know how I feel...)
 Mafuyu: (I need to tell her...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: (No, I'm still scared...)
@@ -171,4 +151,4 @@ Miku (N25): <Don't worry... We'll be with you every step of the way...>
 Mafuyu: Okay...
 Mafuyu: (I have to tell Mom...)
 Mafuyu: (She needs to hear how I really feel...)
-(Black cut)
+(Black transition)

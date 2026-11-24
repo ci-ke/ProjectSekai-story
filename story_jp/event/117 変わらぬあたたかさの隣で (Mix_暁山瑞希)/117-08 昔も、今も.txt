@@ -43,7 +43,7 @@
 志歩: （普段の私なら、絶対買わないデザインだけど…… 瑞希さんに教えてもらったみたいに、 キーホルダーにすれば使いやすいし）
 志歩: （……実際、すごく可愛いし…… 持ち歩いたらすごく癒されそう）
 志歩: （瑞希さんと……それに、一緒に選んでくれたみんなにも。 今度、改めてお礼を言わないとな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -80,24 +80,20 @@
 瑞希: 学校でイヤなこと言われて落ち込んでた時、 お姉ちゃんが励ましてくれて……
 瑞希: そのおかげでボクは、『カワイイものが好き』って気持ちを ずっと手放さずにいられたんだって
 瑞希: ……ううん。あの時だけじゃなくって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希の姉: ねえ——瑞希は、どうしたい？
 瑞希: え？
 瑞希の姉: 私はさ、瑞希が、瑞希の気持ちを大事にできたら 嬉しいなって、ずっと思ってる
 瑞希の姉: 周りがどうだって……瑞希の気持ちが、一番大事なんだ。 だから、それを聞きたいなって
-(White cut)
+(White transition)
 (Background change)
 瑞希の姉: それに……瑞希は志歩ちゃんに、 好きなものをもっと楽しんでほしいって思ってるんだよね？
-(White cut)
+(White transition)
 瑞希の姉: だったら、こうしたらどうかな？ってことだけでも 提案したらいいんじゃない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 一番苦しかった時も、今も——
 瑞希: いつも、お姉ちゃんは ボクの気持ちを大事にしてくれて……
@@ -119,17 +115,13 @@
 瑞希の姉: えへへ……ありがと！
 瑞希の姉: ……私も、応援してるからね。 瑞希がこれからも、自分の気持ちを大事にして進めるように
 瑞希: ……そうだね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （やっぱり、まだ怖いけど、でも……）
 瑞希: ——ありがとう、お姉ちゃん
 瑞希: ボク、頑張ってみるよ
-(White cut)
+(White transition)

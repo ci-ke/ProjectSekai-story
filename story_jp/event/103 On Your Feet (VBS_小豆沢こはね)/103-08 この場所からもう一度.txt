@@ -6,8 +6,8 @@
 
 [空港]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000221/bg_s000221.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000221/bg_s000221.webp)
 杏: ……行っちゃったね
 こはね: うん……
 こはね: ……やっぱり、見送りに来てよかったな。 言いたいことも全部言えて、スッキリした気がする
@@ -17,7 +17,7 @@
 冬弥: ああ。 ……言ったからには、超えなければな
 杏: だね！　よーっし、頑張ろう！！
 こはね: うんっ！
-(White cut)
+(White transition)
 (Background change)
 杏: にしても、学校サボっちゃったね～
 冬弥: ああ……。 今頃は……英語の小テストをやっている頃だろうか……？
@@ -45,7 +45,7 @@
 杏: うん。おじさんにズバっと言ったこと、 ちょっと父さんにも話したいしね
 冬弥: ……そういえば、最近はセカイで集まってばかりで、 謙さんのところにも顔を出せていなかったしな
 こはね: うん！ それじゃあ……行こう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -110,36 +110,28 @@
 こはね: （杏ちゃんのお父さんがあんなこと言うくらいだから、 練習、きっとすごく厳しいんだろうな）
 こはね: （もしかしたら、 怖くて、逃げ出したくなっちゃうくらい……）
 こはね: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 こはね: （私……このお店に入って、本当にいいのかな……）
 こはね: …………
 こはね: ううん。 またあの歌を聴きに行くって、決めたんだから！
 こはね: だから……開けなくちゃ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 こはね: （今までも、怖いって思うことは、たくさんあった）
 こはね: （それでも……）
 こはね: （勇気を出して扉を開けてみたら、 見たことのない景色がたくさんあって——）
 こはね: （——その先にはいつも、嬉しいことがあった。 だから怖くても、前に進んでよかったって思えたんだ）
 こはね: （だから……大丈夫）
 こはね: （だって、ミクちゃん達が教えてくれた——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (VBS): ——こはねは本当に、変わったね
-(White cut)
+(White transition)
 ミク (VBS): こはねには——シンガーとしてのプライドが生まれてたんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （今はこの悔しさが……私を、支えてくれる）
 こはね: （私は——前に、進める！）
@@ -153,6 +145,6 @@
 こはね: （あの日……この通りで迷った日、 このお店に来て、本当によかった）
 こはね: （……杏ちゃんの歌を聴いてドキドキした この場所から——もう一度、始めよう！）
 こはね: みんな、頑張ろうね！
-(White cut)
+(White transition)
 (Video: 03_street_ed2)
-(Black cut)
+(Black transition)

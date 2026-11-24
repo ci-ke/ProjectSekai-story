@@ -9,7 +9,7 @@
 奏: まふゆはずっとステージの近くにいたみたいだし、 屋台のほうに行ってみたらいいんじゃないかな
 まふゆ: それでいいよ
 瑞希: オッケー！
-(Black cut)
+(Black transition)
 (Background change)
 奏: あ……人が少し減ってきた。 これなら歩きやすいな
 絵名: 昼はうじゃうじゃいたもんね。 ゆっくり回れそうでよかったな
@@ -19,17 +19,13 @@
 奏: 今日のこと？
 まふゆ: そう。 日野森さん達のステージを見て、星乃さん達と会って、 神代さんの手当てをして……
 まふゆ: （それから——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: ——ない、ということも、ないんじゃないですか？
 類: なんとなくで恐縮ですが、 朝比奈さんには、やりたいことがあるのではないかと思って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （私の、やりたいこと……）
 まふゆ: （私には……そんなもの——）
@@ -48,17 +44,13 @@
 瑞希: そうだ！　救護テントから誰か連れてくるのがいいかも！ えーっと場所は……
 女の子: うっ、うっ……お母さん……いたいよ……
 まふゆ: （私は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 僕にとってショーはとても大切なものです。 だから、助けてくれたあなたには感謝してもしきれない
 えむ: センパイ、本当にありがとうございましたっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （私は——）
 奏: ……まふゆ？
@@ -75,15 +67,15 @@
 まふゆ: （——まずは水で傷を洗い流す）
 まふゆ: （それからハンカチで軽く拭いて……絆創膏）
 まふゆ: （あとは——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000118/bg_s000118.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000118/bg_s000118.webp)
 まふゆ: ……痛いの痛いの、飛んでけ
 絵名: え……
 まふゆ: ——まだ痛い？
 女の子: う、ぐす……あれ……？ 痛くない……
 まふゆ: ……よかった
 女の子: お姉ちゃん、すごいね！ ありがとう！
-(White cut)
+(White transition)
 (Background change)
 まふゆ: あ……
 まふゆ: ——うん。どういたしまして
@@ -104,15 +96,11 @@
 まふゆ: え……
 まふゆ: （笑ってた……。 どうして……？）
 まふゆ: （……そういえば……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （さっき、神代さんや鳳さんに 『ありがとう』って言われた時も——）
 まふゆ: （少し……胸がすっと軽くなった）
@@ -142,18 +130,14 @@
 奏: 本当だ。 どこからだろう
 絵名: あ、あれじゃない？ あそこにあるストリートピアノ。 ほら、ちょうど今弾いてるし
 まふゆ: ピアノ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: …………私、音楽は、もうやめるよ
-(White cut)
+(White transition)
 まふゆの母: じゃあ、このシンセはもういらないわね。 お母さんが預かっておくわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……あれから、楽器らしい楽器に触れてなかったな）
 まふゆ: （あのシンセサイザー、どうなったんだろう。 やっぱり、もう捨てられたのかな）
@@ -186,7 +170,7 @@
 類: ん？　なんだいえむくん
 えむ: センパイもいつか、 いっちばんやりたいこと、見つけられるといいね
 類: ——ああ、そうだね
-(Black cut)
+(Black transition)
 奏: ……まふゆ
 まふゆ: 何？
 奏: 今、楽しい？
@@ -195,4 +179,4 @@
 奏: ……そっか
 奏: それじゃあ、もう少しだけ弾いていこうか
 まふゆ: うん
-(White cut)
+(White transition)

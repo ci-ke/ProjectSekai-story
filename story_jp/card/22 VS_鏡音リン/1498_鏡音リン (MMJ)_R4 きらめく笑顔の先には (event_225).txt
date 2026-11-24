@@ -54,7 +54,7 @@ Gacha phrase: すっごく、かっこよかった～～！！
 ミク (MMJ): そうだね！　わくわくした気持ちを、あっためておかなくちゃ
 リン (MMJ): うん！
 リン (MMJ): えへへ、みんなのステージ楽しみだな～！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -92,15 +92,11 @@ MEIKO (MMJ): それじゃあ、今回のお祝いはサプライズライブで�
 レン (MMJ): その気持ちはわかるよ
 レン (MMJ): 全員、本当にかっこよくてキラキラしてたからね
 リン (MMJ): うん！　それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (MMJ): ……センターの雫ちゃん、とってもかっこよかったな
 リン (MMJ): いっぱい悩んでたところを見てたから…… なんだか余計に感動しちゃった
@@ -123,4 +119,4 @@ KAITO (MMJ): この曲はメイコさん、その次の曲はリンちゃんっ�
 ミク (MMJ): それに、リンちゃんの目標にも繋がりそうだね♪
 リン (MMJ): うん！　ありがとう、カイトくん！
 リン (MMJ): よーし、次のライブに向けて もっと練習がんばるぞー！
-(Black cut)
+(Black transition)

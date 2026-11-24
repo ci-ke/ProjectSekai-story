@@ -14,16 +14,12 @@
 奏: あと、なんだっけ……。 ボールを投げて、的に当てるやつ……
 奏: そうだ、ストラックアウト。 たしかお父さんに教えてもらったんだ
 奏: （あんまりうまく投げられなかったわたしに、 お父さんが投げかたを教えてくれて…… ふふ、懐かしいな——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ——あ……
 奏: （……そうだ、わたしは曲作りの体力をつけるために ここに来たんだ）
@@ -92,18 +88,14 @@
 みのり: うまく言えないんだけど、 きっと奏ちゃんは、誰かのために すっごくがんばってるんだろうなって感じたから……
 みのり: だから——今だけでも、 笑ってほしいなって思ったの！
 奏: 笑って……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: （……うまく言えない。 言えないけど——）
 奏: （いつか、たくさんのことを感じられるようになったまふゆに、 あの場所にいたお母さんみたいに——）
 奏: ……笑ってほしいんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: 奏ちゃん？
 奏: あ——ごめん。 そんなこと言われるなんて、思わなくて
@@ -115,13 +107,9 @@
 絵名: ——あ、いた！ 奏、みのりちゃん！
 一歌: そろそろ次に行こうと思うんですけど、 何かやりたいものありますか？
 奏: やりたいもの……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 奏: じゃあ、最後にひとつだけ……いいかな？
-(Black cut)
+(Black transition)

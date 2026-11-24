@@ -27,7 +27,7 @@
 一歌: ……なんか、マジロちゃんの体……
 一歌: ざらざらしてて……すごかった
 志歩: だから、感動してる場合じゃないでしょ
-(Black cut)
+(Black transition)
 みのり: はあ……はあ……
 みのり: ……あれから、結構走ってるけど……
 みのり: マジロちゃん、全然捕まってくれないね……
@@ -60,14 +60,14 @@
 ルカ (MMJ): 『まだ遠いわね。 あと少し……もう少しだけ引きつけて……』
 ルカ (MMJ): 『——今よ！』
 みのり: え～～～～～～～いっ！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000259/bg_s000259.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000259/bg_s000259.webp)
 一歌: あっ
 志歩: 避けられた……！？
 みのり: うううう、タイミングはぴったりだったのに……！
 遥: ……なかなか手ごわいね。 スタッフさんも、もっと呼んできたほうが——
 ハシビロくん: ………………
-(White cut)
+(White transition)
 (Background change)
 一歌: えっ、今の何！？
 みのり: じゅ、銃撃戦みたいな音が……
@@ -102,4 +102,4 @@
 志歩: へえ……。 そんなに仲良くなってたんだ
 みのり: うん——
 みのり: ハシビロくんは、わたしの大親友ですからっ！
-(Black cut)
+(Black transition)

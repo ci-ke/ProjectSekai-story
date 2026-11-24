@@ -11,14 +11,14 @@
 まふゆ: 私も、嬉しいなって思ったんだ
 まふゆの父: そうか……。 まふゆは友達思いだな
 まふゆの母: ええ。優しい子に育ってくれて お母さんも嬉しいわ
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
 
 まふゆ: ……みんな、楽しそうだったな
 まふゆ: …………よかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -41,22 +41,18 @@
 奏: なんとなく、だけど…… 朝比奈さんの好みじゃなかったのかもって
 奏: ごめんね。もう１回作ってくるよ。 朝比奈さんに、ちゃんといいなって思ってほしいから
 まふゆ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 朝比奈さん……？
 まふゆ: ううん、なんでもない。 ……本当にいい曲だと思ったよ
 まふゆ: だから——
 まふゆ: 私のために、曲を作らなくてもいいんだよ
 奏: え……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -88,72 +84,56 @@
 奏: ありがとう、お父さん
 奏: わたし……また作ってみる
 奏の父: ああ。奏なら——きっと出来るよ
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……この音じゃない
 奏: もっと深くて、冷たくて……でも少しだけ光が差すような……
 奏: （——どうして、あの時苦しそうに見えたのかはわからない）
 奏: （もしかしたら、わたしの勘違いかもしれない）
 奏: （だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……せめて、ほんの少しだけでも笑顔になってほしい）
 奏: （わたしの、曲で————）
 ？？？: ……————♪
 奏: あれ？　今の……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: この曲じゃ、あの子を迷路から救い出すことはできないでしょうね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: え……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: この曲は、聴いた人をどこに辿り着かせてくれるの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: わたしの、曲は…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 奏の作る歌は、やっぱり優しいね
-(White cut)
+(White transition)
 ？？？: 『K。きっと届くよ、この曲』
-(White cut)
+(White transition)
 ？？？: 本当に——ずっと作り続けてくれるんだよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……そっか……
 奏: そう、だった
 奏: わたしは、ずっとそのために——曲を作ってたんだ
 奏: …………この曲が、届くといいな
 奏: みんなに——
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -179,7 +159,7 @@
 絵名: （胸の奥がぎゅっとなって、苦しくて、あったかくて——）
 絵名: （なんだろう、この気持ち……）
 絵名: （うまく言えないけど……この気持ちを、 今すぐ表現したい——！）
-(Black cut)
+(Black transition)
 絵名: ——ここは、もっと暗い色を塗り重ねて……
 絵名: ……違うな。それだとただ沈んだ感じになっちゃう
 絵名: もっと光を入れて、影の部分が引き立つように——
@@ -193,23 +173,19 @@
 絵名: え、DM？　な、なんで……誰から？
 【K】 (奏): 『えななん、ありがとう。 ナイトコードで待ってる』
 絵名: ……ナイトコード……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: あ、そっか。私——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000456/bg_s000456.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000456/bg_s000456.webp)
 絵名: ——ありがとう、K
 絵名: Kは、どこでも——私を見つけてくれるんだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -224,43 +200,35 @@
 瑞希: この曲……前に聴いたKさんのか。 ちょっと息抜きに聴いてみよっかな
 瑞希: さてさて、今回はどんな——
 瑞希: この、曲……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 『Amiaがわたしの世界を広げてくれたから、 わたしはあの曲を作れたんだと思う』
-(White cut)
+(White transition)
 ？？？: 久しぶりに会えて……よかった
-(White cut)
+(White transition)
 ？？？: 一緒にいようよ、瑞希
 ？？？: ニーゴのみんなも、待ってるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: そっか——
 瑞希: そうだったよね
 瑞希: みんなと一緒に作るのが—— ボクは、すごく好きだったんだ
 瑞希: え、DM？　誰から……
 瑞希: ……K……
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （……いつまで、続くんだろう……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの父: 誰かに寄り添う、か……まふゆらしいな
 まふゆの母: ふふっ、どんな道に進んでも きっとまふゆなら大丈夫ね
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （奏から、メッセージが来てる）
 まふゆ: （昨日から学校に来てなかったけど…… やっぱり曲、作ってたんだ）
@@ -288,7 +256,7 @@
 奏: ナイトコードに集まろう。 絵名と瑞希にも声かけてるんだ
 まふゆ: そうなんだ……
 まふゆ: ……わかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -353,4 +321,4 @@
 奏: 久しぶりに——お父さんの曲、聴きたいんだ
 奏の父: ——じゃあ、頑張る奏への応援歌だな。 ギターを持ってくるよ
 奏: ……ありがとう、お父さん
-(White cut)
+(White transition)

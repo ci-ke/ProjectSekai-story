@@ -26,16 +26,12 @@
 寧々: でも……昔、わたしにはできないって思っちゃったことがあるんだ
 カメのぬいぐるみ: できないって……どうして？
 寧々: それは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: （次のセリフが、出てこない……！ どうしよう、どうしよう、どうしよう……！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 自分のせいでショーが台無しになっちゃって…… みんなをがっかりさせたり、悲しませちゃったことがあったから
 寧々: それで……舞台に立つのが 怖くなっちゃった時があったんだけど……
@@ -48,30 +44,22 @@
 カメのぬいぐるみ: 勇気……
 カメのぬいぐるみ: 君は、そういう時どうやって勇気を出したの？
 寧々: えっと、いろいろあるけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 一緒に頑張ってる仲間に背中を押してもらったな。 それだけじゃなくて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 人魚姫: 『♪————！』
 幼い寧々 (寧々): …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 夢を……『こうなりたい』っていう、 憧れの人の姿を思い出すの
 寧々: そしたら、怖くても前に進めたから
@@ -98,7 +86,7 @@
 カメのぬいぐるみ: がんばってみたい……！
 寧々: ……！
 寧々: ……うん。頑張って、カメさん
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -117,17 +105,17 @@
 ルカ (WxS): お願い？
 カメのぬいぐるみ: あの……誰かを乗せて運んでみたいんだ。 だから、もしよかったら、背中に乗ってほしくて……
 寧々: わかった。 じゃあ、やってみようか
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000290/bg_s000290.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000290/bg_s000290.webp)
 寧々: わ……すごい……。 本当に水の上を進んでる……！
 寧々: きゃっ、水……冷たい——
 カメのぬいぐるみ: うん！　でも、とっても気持ちいいな……！
 カメのぬいぐるみ: 思いっきり泳ぐのも、誰かを乗せて運ぶのも—— こんなに楽しいんだ……！
 寧々: ふふ、よかったね
 カメのぬいぐるみ: うん！　……しっかりつかまっててね！ どこまでだって運んでみせるから！
-(Black cut)
+(Black transition)
 (Background change)
 ネネロボ: オカエリナサイ、寧々、カメサン。 フタリトモ、トテモ楽シソウデシタネ
 寧々: うん。カメの背中に乗るなんて初めてだったけど すごく楽しかったな……
@@ -162,18 +150,14 @@
 寧々: （これからも、怖いことや苦しいことはきっとある……）
 寧々: （カメさんだけじゃない……わたしにも……）
 寧々: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （自分の夢と……憧れの姿を何度でも思い出して——）
 寧々: （勇気を出して、夢に向かって進んでいこう）
-(Black cut)
+(Black transition)
 (Video: link_wonder_ed2)
-(Black cut)
+(Black transition)

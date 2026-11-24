@@ -48,30 +48,22 @@ MEIKO (N25): それはあなた達で勝手にやってちょうだい。 私も
 瑞希: 不思議な味だけど、なんかクセになるんだよね〜！ 手が止まらないっていうか♪
 奏: 前に持ってきた時も、みんな黙々と食べてたね
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 まふゆ: （……最初は、私とミク以外、誰もいなかったのに）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 ミク (N25): ……まふゆ
 まふゆ: ん……なに？
 ミク (N25): まふゆも、年越しパーティー、楽しめてる？
 まふゆ: 楽しいかは、わからないけど……
 まふゆ: みんなと過ごせて、よかった、と思う
 ミク (N25): ……そう。なら、よかった
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -90,15 +82,11 @@ MEIKO (N25): それはあなた達で勝手にやってちょうだい。 私も
 奏: やっぱり、こういう節目の挨拶って特別な感じがするな
 まふゆ: …………
 まふゆ: （特別、か。たしかにいつもは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 奏: まふゆ……？
@@ -120,7 +108,7 @@ MEIKO (N25): それはあなた達で勝手にやってちょうだい。 私も
 奏: ちょうど、足りない日用品もあるし。 ひとりだと持って帰るのが大変だと思うから
 まふゆ: ……わかった。じゃあ、一緒に行こう
 奏: うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -133,17 +121,13 @@ MEIKO (N25): それはあなた達で勝手にやってちょうだい。 私も
 奏: そういえば…… 瑞希にもらったシュシュも素敵だったね
 奏: 落ち着いた色で、まふゆに似合いそうだったな
 まふゆ: …………そう、かな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 見た瞬間、まふゆに似合いそうだな～、 つけてほしいな～って思ったんだよね！
 瑞希: それに……カワイくオシャレしたら、 気分もちょっと変わるかもしれないからさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……似合うかどうかは、わからないけど……
 まふゆ: ……今度、つけてみる
@@ -164,4 +148,4 @@ MEIKO (N25): それはあなた達で勝手にやってちょうだい。 私も
 まふゆ: でも——これからは、一度に買う量を減らして、 買い物の回数を増やしてもいいんじゃない
 まふゆ: ……必要なら、私も一緒に行く
 奏: うん、ありがとう
-(Black cut)
+(Black transition)

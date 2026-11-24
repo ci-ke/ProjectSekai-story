@@ -24,7 +24,7 @@ Kohane: (I don't want to fall asleep again like I just did, so maybe I should he
 Kohane: (Then, I should let the others know that...)
 Kohane: Huh...? An sent me a message. I wonder why...
 Kohane: What...?!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - School Gate]
@@ -49,21 +49,21 @@ An: Like when I'm listening to Dad's CDs... That feeling just starts welling up 
 Kohane: Hehe. That's so like you, An...
 Kohane: Anyway, where do you want to go today...?
 An: I've already come up with a plan! There's somewhere I really wanna check out today!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
 
 Kohane: Oh, didn't this clothing store just open up recently?
 An: Yeah! They seem to have cute stuff that you'd probably look really good in, so let's check it out!
-(Black cut)
+(Black transition)
 An: Kohane, you've gotta try that on with this one-shoulder dress! I bet you're gonna look amazing in it!
 Kohane: O-Okay! A-An... The thing is... I found something that I think would look really good on you...
 An: What?! You found something for me?! That's so sweet of you! Lemme see!
 Kohane: It was over... Oh, here it is! It's this jacket...
 An: Hey, it's adorable! And super fluffy! Oh, there's even one in a different color that might look really good on you! We could try wearing matching outfits with them sometime!
 Kohane: *Gasp* Yeah!
-(Black cut)
+(Black transition)
 An: Man, we walked a ton. Let's sit for a bit longer and head to our next...
 Kohane: M-Mhm...
 An: Kohane...? Oh, she fell asleep...
@@ -71,22 +71,18 @@ An: I kinda don't want to wake her since she stayed up so late last night. I'll 
 Kohane: Mhm... An...
 An: Oh, she's leaning on me... There, there. You're such an amazingly hard worker, Kohane... Hehe...
 An: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: ————! ————~~~!!
 An: This is the real Kohane...
-(White cut)
+(White transition)
 (Background change)
 Akito: Alright, I'm for it...
-(White cut)
+(White transition)
 Akito: Also, I think it's worth a shot since you might strike it rich again like you did during STAY GOLDEN.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Just how high is Kohane's ceiling...?
 An: Every time she sings, she makes my heart race and it's the greatest feeling in the world... And I'm sure she's gonna knock everyone's socks off during our next event.
@@ -94,7 +90,7 @@ An: I wanna hear her sing more. And I...
 An: ...
 An: I... No, us... Akito, Toya... We're going to put on the best event ever.
 An: So, Kohane, you don't need to worry about anything.
-(Black cut)
+(Black transition)
 Kohane: Sorry for falling asleep on you like that, An... I had a lot of fun today. I really did. So thanks for inviting me out!
 An: No, thanks for joining me.
 An: I actually wanted to hang out with you a little more, but we need to head over to Crawl Green soon...
@@ -128,7 +124,7 @@ Locals: An's gonna sing for us?! Then, I'm gonna listen too.
 An: Just one song, okay? Get ready!
 An: ♪——! ——! ——!
 Kohane: (An really is such a cool person...)
-(Black cut)
+(Black transition)
 An: Whew... Okay, that's all I have time for today!
 Locals: Thanks, An!
 Locals: That was awesome!
@@ -139,27 +135,19 @@ An: Haha. Of course I have. Honestly, how long ago are you talking about?
 Kohane: (...? Huh...?)
 Kohane: (Why did what they said just now sound so familiar...?)
 Kohane: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Cranky Old Lady: Don't forget that I've been watching you since you were just a kid. It's only natural for me to want to see you become a fully-fledged artist.
 Cranky Old Lady: So, Taiga, good luck over there.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kohane: (Right... That old lady said something similar about Taiga.)
 Kohane: (An and Taiga were both born and raised in this city...)
 Kohane: (Everyone here watched over them and showered them with warmth as they grew up.)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Kohane: (The idea of all these nice people rooting for you as you try to make your dreams come true... It's so heartwarming.)
 Kohane: (And if I...)
 Kohane: (It'd be really nice if I were to also make those kinds of connections.)
@@ -167,7 +155,7 @@ Crepe Shop Lady: Alright, everyone, settle down! An, here's your crepe with bana
 An: Whoa! So much whipped cream! Your crepes always look amazing!
 Crepe Shop Lady: And here's yours Kohane! Strawberries with whipped cream! Good luck with your event!
 Kohane: Th-Thank you very much! We promise to do our best!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Outside Crawl Green]
@@ -181,4 +169,4 @@ An: Oh...? Does that mean you're nervous about meeting the owner? Is it because 
 Kohane: (Oh, that's right... Shinonome has some history with this place...)
 Akito: Enough with that already. Let's head in and talk business.
 Kohane, An & Toya: Yeah. Okay.
-(Black cut)
+(Black transition)

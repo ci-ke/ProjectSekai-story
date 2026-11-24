@@ -64,7 +64,7 @@ Gacha phrase: お前は……！どうして邪魔をする！
 類: フフ、では司くんの言うとおり、 ひとまず全員、虫よけスプレーをしておこうか
 司: ああ。それが終わり次第、リハーサル開始だ！
 えむ: はーい！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -86,57 +86,45 @@ Gacha phrase: お前は……！どうして邪魔をする！
 司: まあ、たしかにそうだな
 司: （しかし……）
 司: （類のヤツ、さっきあんなことがあったばかりで、 大丈夫か？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 えむ: わっ！　小鳥さんが急に……！
 えむ: きゃ…………！
 類: ————！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 司: （類がしっかり準備をしてくれていたおかげで、 えむはケガをしなかったが……）
 司: （どうしても、あの時のことがよぎってしまうな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ゾンビロボット: あう……あう……
 司: うわっ！　服を掴むな！ バランスが崩れて……！
 司: うわーっ！！
 えむ: あっ、司くんっ！？ 穴に落っこちちゃった！
 類: ……！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （しかもあの時は、類がオレ達に遠慮してしまって 不調になるという事態になってしまった……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: ……ここで司くんが舞台から客席の中央へ。 観客に向かって呼び掛ける
 類: そしてここで、死者の群れに向かって……
 類: ……いや、ここではそのまま司くんは舞台へ 戻ってもらおう。そこで次のセリフに——
 司: んん？ そんなに地味でいいのか？
-(White cut)
+(White transition)
 司: おお！　ワイヤーアクションだな！
 類: 空中で大回転したあと、 死者達の上空を飛び越えて——
 類: いや……このあとのテンポを考えると 今の流れはあまり良くないかな
 司: へ？
-(White cut)
+(White transition)
 (Background change)
 司: ……本当に、それでいいのか？
 司: お前、本当にそれが一番やりたい演出なのか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （こういったショーをやり続けていく以上、 事故はついて回るものだが……）
 司: （そのたびに演出家に遠慮させてしまっては、 いいショーは作れん）
@@ -176,4 +164,4 @@ Gacha phrase: お前は……！どうして邪魔をする！
 司: いいか、楽しいショーにするためにも、 安全が第一だ！
 司: このあとも、 お互いに注意をしながら練習を進めるぞ！
 全員: 『おー！』
-(Black cut)
+(Black transition)

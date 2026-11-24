@@ -43,7 +43,7 @@
 志歩: うん、よろしく
 咲希: ちぇ～。いっちゃんがしてること、聞きたかったなあ
 志歩: そのうち聞けるでしょ
-(Black cut)
+(Black transition)
 (Background change)
 数学教師: えー、三角関数は公式がいくつも出てくるが、 問題を解きながら覚えていけば、自然となじんでくるだろう
 数学教師: では、次の練習問題だが……天馬、いけるか？
@@ -65,7 +65,7 @@
 志歩: （……お互いやりたいことがあるんだから、 付き合い方も変わるよね）
 志歩: （最近、４人で遊んだり話したりできてないけど、 別に仲が悪くなったとかじゃないし）
 志歩: （私はプロとして、私のやるべきことをやらないと）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -96,8 +96,8 @@
 イオリ: そっちじゃなくて、 友達とか学校行事のことを言ってるんじゃない？
 ミオ: そうだね。志歩ちゃんには大事な幼馴染みもいるし。 高校生のうちにたくさん思い出作らないと
 志歩: それは、そうですけど……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000459/bg_s000459.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000459/bg_s000459.webp)
 志歩: 思い出なら、中学の頃に十分作ったので
 ミオ: でも、今しか作れない思い出もあるんじゃないかな？ あ……この時期なら、文化祭とか！
 イオリ: うわ、懐かしい……。 体育館のステージでバンドやったな
@@ -106,21 +106,17 @@
 志歩: そもそも、私はこっちの練習があるし、 他のみんなも部活とかあって忙しいので……
 イオリ: あー、部活ね。 やってる子は確かに忙しいかも
 ミオ: 私の高校時代の友達も、 全然遊びに行けないって、よく言ってたなあ
-(White cut)
+(White transition)
 (Background change)
 志歩: （……高校の文化祭って言っても、 プロとして中途半端な演奏はしたくない）
 志歩: （だけど、納得いく演奏にするには 一歌達に相当練習してもらわないといけないだろうし）
 志歩: （そんなの、さすがにみんなもしんどいよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 音楽に——みんなに出会えてよかったね。志歩
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （……なんだろ。今、頭の中で、何か……）
 イオリ: ……志歩？　どうかした？
@@ -128,7 +124,7 @@
 イオリ: まあとにかく、学校とか友達は大事にしなよ
 イオリ: 私達の活動はこれからも続いていくけど、 高校生活には終わりがあるからね
 志歩: ……はい。できる範囲で楽しみます
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -140,6 +136,6 @@
 教師: えー、今日のLHRですが—— 文化祭に向けて、準備を始めようかと思います
 教師: まずはクラスの出し物について話し合いましょう
 志歩: 文化祭か……
-(Black cut)
+(Black transition)
 (Video: link2_leoneed_ed1)
-(Black cut)
+(Black transition)

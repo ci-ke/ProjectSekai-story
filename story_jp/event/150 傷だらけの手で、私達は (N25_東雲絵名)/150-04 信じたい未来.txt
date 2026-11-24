@@ -44,15 +44,11 @@
 類: ああ、きっと僕らは似た者同士なのだな、と
 類: ——どこにいても心の内で、孤独を抱えているのだな、と
 絵名: 瑞希が……孤独を……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 男子生徒A: 君も男だったりする感じ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 絵名: （もしも——）
 絵名: （瑞希が、昔から、ああいう目を向けられてたら……）
 絵名: （周りからひどい態度をとられて、 あんな言葉を投げかけられてたら——）
@@ -67,28 +63,20 @@
 類: 一緒にいたいと思えるような人達を—— 居場所を見つけられたと
 絵名: …………！
 類: きっと、瑞希は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 皆さんといる未来を、望んでいた
 絵名: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO (N25): 少なくとも、瑞希は こんな結末は望んでいなかったはずよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: …………っ
 類: その願いが、もう過去のことなのか、 今も続いているのかは、僕にはわかりません
@@ -101,4 +89,4 @@ MEIKO (N25): 少なくとも、瑞希は こんな結末は望んでいなかっ
 絵名: （どこかで、まだ、重なってる部分があるなら……）
 絵名: （このまま……終わりになんてしたくない——！）
 絵名: （瑞希と、友達でいたいから——！）
-(Black cut)
+(Black transition)

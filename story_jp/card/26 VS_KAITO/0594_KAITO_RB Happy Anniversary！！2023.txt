@@ -13,7 +13,7 @@ Gacha phrase: 胸を張れるのは、みんながいるからだよ
 リン: おっかしいなぁ。 だいたいいつも、どこかの教室で練習してるのに
 MEIKOの声 (MEIKO): リン、そっちはどう？
 リン: もう、全然ダメだよー！　ギターの音もしないし～
-(Black cut)
+(Black transition)
 
 [隣の教室]
 
@@ -50,7 +50,7 @@ KAITO: う、うん……
 KAITO: いやでも……祝うとか、別にいいよ。 恥ずかしいし……
 志歩: そういうわけにはいかないですよ。 みんなお祝いしたくて、 あちこちカイトさんを探し回ってるんですから
 志歩: さあ、行きますよ
-(Black cut)
+(Black transition)
 ミク (Ln): ——それじゃあみんな、パーティーの準備が終わるまで カイトがどこかに行かないように見張っててね
 咲希: はーい♪
 レン: カイト、すぐ準備終わらせてくるから ちょっと待っててくれよな
@@ -60,47 +60,35 @@ KAITO: 見張りなんてなくても、どこにも行かないのに……
 一歌: カイトに伝えたいこともあったから、ちょうどよかった
 KAITO: ……伝えたいこと？
 一歌: うん。覚えてるかな、私が歌詞作りで悩んでた時に かけてくれた言葉——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 大丈夫
 KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……これは、大事な一歌の想いだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: あの言葉のおかげで、自分の想いを信じて、 恥ずかしがらずに表現できるようになったんだ
 一歌: だから……ありがとう、カイト
 KAITO: いや……あれは本当に、 思ったことを言っただけで……
 志歩: そうだとしても、言葉をかけてもらった私達にとっては すごく大切なことなんです
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 音楽に——みんなに出会えてよかったね。志歩
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: そうですよ！ アタシだって、カイトさんやレンくんのおかげで すごく大切なことに気づけました！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO: ただ……なんていうのかな。 気持ちが乗りきってないような気は、した
-(White cut)
+(White transition)
 レン: うん。咲希の中にまだ、だせてない答えが あるんじゃないかってオレは思うんだよな
-(White cut)
+(White transition)
 KAITO: 何かヒントが見つかるといいね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 咲希: ほんとにほんとーーーに感謝してます！
 穂波: カイトさん、いつもわたし達を見守っていてくれて ありがとうございます
 一歌: それから—— 記念日、おめでとう
@@ -123,7 +111,7 @@ KAITO: わ……すごく盛り上がってる
 KAITO: ほどほどで全然いいよ……
 咲希: ダメで～す！ 全力でお祝いさせてもらうので、覚悟しててくださいね♪
 KAITO: ……ありがとう、みんな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -156,26 +144,26 @@ MEIKO: いいわね！　じゃあさっそくだけど、 肩慣らしに１曲
 KAITO: 配信を見てるみんなも、 よかったらおうちでやってみて！
 KAITO: あ、ご近所迷惑にならないように気をつけようね！
 レン: そういう心配してくれるの、なんかカイトらしいな～
-(Black cut)
+(Black transition)
 リン: みんなー！　さっきの練習を思い出して♪ いくよー！
 レン・KAITO: 『————♪　————！　————！』
 レン: みんな、すごいよ！ きれいに声がそろってた！
 KAITO: 配信を見てくれてるみんなも、 コメントのタイミングばっちりだね！
-(Black cut)
+(Black transition)
 KAITO: ♪————！　♪——～～～！！
 ミク: みんな、その調子♪ さあ、次の振り付けは覚えてるかな？
 MEIKO: ワン・ツー・スリー・フォー！ 右手、左手、くるくるくる～！
 ルカ: もう１回よ！ みんな一緒に、ワン・ツー・スリー・フォー！
 KAITO・リン・レン: 『右手、左手、くるくるくる～！』
-(Black cut)
+(Black transition)
 KAITO: ——みんな、改めてになるけど 今日は僕の記念日ライブに来てくれてありがとう
 KAITO: 一緒にコールをしたり、手拍子したり、踊ったり—— 本当に楽しかったよ！
 KAITO: みんなは、楽しんでもらえたかな？
 リン・レン: 『すっごく楽しかったー！』
 MEIKO: も～、ふたりが答えてどうするの？
 ミク: それじゃあ、カイト。 最後に、わたし達からのメッセージを受け取ってね！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000165/bg_s000165.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000165/bg_s000165.webp)
 ミク: カイト、記念日おめでとう！ わたし達のことを見守ってくれたり、引っ張ってくれたり、 いろいろ助けてくれてありがとう！
 ミク: これからも一緒に歌ったり、遊んだり、 楽しい時間をいっぱいすごせたら嬉しいな！
 リン・レン: 『カイト、記念日おめでとー！』
@@ -186,11 +174,11 @@ MEIKO: カイトって、自分より他の人のことを優先しがちだも�
 ルカ: ええ。でも、自分のやりたいことが 他の誰かの笑顔につながっているところが、 やっぱりカイトらしいわ
 MEIKO: そうそう。そんなカイトだからこそ、 こんなにたくさんのみんなが祝福してくれるのよね
 MEIKO: カイト、たまにはもっと羽目はずしていいんだからね！ 記念日、本当におめでと！
-(White cut)
+(White transition)
 (Background change)
 KAITO: ……みんな、本当にありがとう。 心のこもったメッセージ、すごく嬉しいよ
 KAITO: 僕がみんなのことを引っ張ってるって、言ってくれたけど——
 KAITO: 胸を張って進めているのは、 支えてくれるみんながいるからだよ
 KAITO: 僕のほうこそ、みんなを頼りにしてるよ。 これからもよろしくね！
 ミク: うん！
-(White cut)
+(White transition)

@@ -54,7 +54,7 @@ KAITO: 中に入ってるのは……ロウソク？ なんだかいい香りが
 穂波: 本当だね。……一歌ちゃん、すごく頑張ってたから……。 きっと、それがみんなにも伝わってるんだね
 ミク (Ln): うん……そうだね。 ありがとう、一歌。大切に使わせてもらうよ
 一歌: あ……。う、うん……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [一歌の部屋]
@@ -65,20 +65,16 @@ KAITO: 中に入ってるのは……ロウソク？ なんだかいい香りが
 一歌: あ——そうだ
 一歌: （こういう時こそ、 アロマキャンドルでリラックスすればいいんだ）
 一歌: （草薙さんからもらったの……また使ってみよう）
-(Black cut)
+(Black transition)
 一歌: （やっぱり、すごくいい香り……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （ふふっ……キャンドル作り、本当に楽しかったな……）
 一歌: （そういえば……匂いと記憶って、 深く関係してるって聞いたことがあるな）
@@ -89,4 +85,4 @@ KAITO: 中に入ってるのは……ロウソク？ なんだかいい香りが
 一歌: （いつか私の記憶は、少しずつ薄れて 消えていっちゃうかもしれないけど……）
 一歌: （でも……この香りを嗅ぐたびに、 みんなと過ごした時間を思い出すんだよね）
 一歌: （きっと……何度でも——）
-(White cut)
+(White transition)

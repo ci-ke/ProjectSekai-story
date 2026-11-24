@@ -68,7 +68,7 @@
 瑞希: 『なになに、どうしたの！？』
 (Background change)
 まふゆ: 『……ちょっと見てくる』
-(Black cut)
+(Black transition)
 (Background change)
 奏: ——どの音なら……
 奏: まふゆが感じた、あたたかさを表現できるんだろう
@@ -98,15 +98,15 @@
 奏: だめだよ、まふゆ……！
 奏: そっちに行ったらだめ——！
 奏: まふゆ！
-(Black cut)
+(Black transition)
 ？？？: 『——奏！』
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000423/bg_s000423.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000423/bg_s000423.webp)
 リン (N25): 『奏、大丈夫……！？』
 リン (N25): 『わたしの声、聞こえる！？』
 奏: ……っぅ、……
 奏: あ……れ？　なんで……体、動かな……
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……奏、動かないで
 奏: っ、でも……
@@ -148,4 +148,4 @@
 瑞希: 『そのあいだに、少しだけ話さない？』
 (Background change)
 奏: え……
-(Black cut)
+(Black transition)

@@ -7,7 +7,7 @@ Gacha phrase: なぞるのは上手にできたのに……
 
 (Character: 天馬咲希, 望月穂波, 鳳えむ)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [幼稚園]
@@ -18,16 +18,12 @@ Gacha phrase: なぞるのは上手にできたのに……
 園児: 先生、本読むの上手だね！
 園児: うん！　先生の声、優しくて好きー！
 穂波: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い咲希 (咲希): ほなちゃんの声、優しくて好きだなー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ——ふふっ。 どうもありがとう！
 穂波: （絵本の読み聞かせなんて、懐かしいな。 昔、入院してた咲希ちゃんのためにしてあげたっけ）
@@ -68,7 +64,7 @@ Gacha phrase: なぞるのは上手にできたのに……
 穂波: すごい……！　先生、ありがとうございます！
 セクシーな幼稚園の先生: ふふ、どういたしまして。 それじゃあ、あとはお願いしますね
 穂波: はい！
-(Black cut)
+(Black transition)
 穂波: （そろそろ、一緒に遊ぶ時間も終わりかな。 このあとはいよいよ絵の時間……）
 穂波: （……大丈夫。絵名さんとも練習したんだから）
 セクシーな幼稚園の先生: 穂波先生、子供達みんなと遊べましたか？
@@ -87,7 +83,7 @@ Gacha phrase: なぞるのは上手にできたのに……
 セクシーな幼稚園の先生: その意気ですよ。 それじゃあ、私はえむ先生達を呼んできますね
 穂波: （……先生って、すごいなぁ）
 穂波: （わたしも、今日は穂波先生なんだから、 精一杯頑張らなくちゃ！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,7 +94,7 @@ Gacha phrase: なぞるのは上手にできたのに……
 
 咲希: ほーなーちゃん！ 一緒に帰ろ〜！
 穂波: あ、みんな！ うん、帰ろう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -134,21 +130,17 @@ Gacha phrase: なぞるのは上手にできたのに……
 咲希: うんうんっ♪　アタシもほなちゃんの絵、だーいすき！
 穂波: みんな……
 穂波: （……職場体験、最初は絵を描くのが 嫌で嫌で仕方なかったけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 絵名: ……ねえ穂波ちゃん。 穂波ちゃんのワニを描いてみてよ
 穂波: え？ でも……
 絵名: 大丈夫だって。 そりゃ、本物に似てないって笑う人も いるかもしれないけど——
 絵名: 穂波ちゃんが素敵だなって思って一生懸命描いた絵なら、 きっと、誰かに届くからさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （絵名さんの言ったとおりだったな。 子供達も喜んでくれたし、それに——）
 咲希: あ……！　ねえねえ、ほなちゃん！ このマフラーしてる猫ちゃん、 もしかして昔アタシに読んでくれた絵本の猫！？
@@ -168,4 +160,4 @@ Gacha phrase: なぞるのは上手にできたのに……
 一歌: うん
 穂波: （わたしの絵を見て、みんなが笑ってくれてる）
 穂波: （ふふ。職場体験、頑張ってよかったな）
-(Black cut)
+(Black transition)

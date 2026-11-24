@@ -22,24 +22,20 @@ Gacha phrase: ふふ。なんだか不思議な音だね！
 こはね: うん！
 こはね: それじゃあ、また明日！
 こはね: （よし。私も、Vivid BAD SQUADのひとりとして 頑張らないと！）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 彰人: オレは、４人でRAD WEEKENDを超えるためには、 オレ自身が一線級にならなきゃならねえって思って、焦りすぎた
-(White cut)
+(White transition)
 彰人: だが、RAD WEEKENDを超えるためには オレ自身が力をつける必要があるって考えは変わらねえ
 彰人: だからこれからは、そのためにも……お前らを頼らせてもらうぞ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 こはね: （東雲くんもああ言ってたし、 私も、みんなに置いていかれないように もっと実力をつけないと！）
 こはね: （あ、でも……）
 こはね: （経験を積むために、ひとりでイベントにも出てるけど、 私は、それを続ければいいのかな？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -48,45 +44,37 @@ Gacha phrase: ふふ。なんだか不思議な音だね！
 
 こはね: （うーん。結局、昨日はいい案思いつかなかったなぁ）
 こはね: （できれば、自分で考えたいけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 こはね: （こういうことは、 やっぱりみんなに相談するのがいいよね）
 こはね: （……よし。気分を変えるために、 あの動画でも見ようかな）
-(White cut)
+(White transition)
 (Background change)
 愛莉: 『みんなー！ まだまだライブは終わらないわよ！』
 雫: 『私達の歌も、聴いていってくれたら嬉しいわ』
 みのり・遥: 『ミュージック・スタート！』
-(White cut)
+(White transition)
 (Background change)
 こはね: ……何度見てもすごいな！ みのりちゃん達のライブ！
 こはね: リアルタイムでコメントしながら見てた人は、 きっとすごくワクワクしたんだろうなぁ
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 こはね: （あ、このダンスのところ、うまくステップが踏めなくて どうしても遅れちゃうって前にみのりちゃん言ってたな……）
 こはね: （でも……ライブの本番では、 他のみんなと同じくらいキレキレで、 ソロのところもかっこいい……！）
 こはね: （みのりちゃん、自分はまだファンのみんなにメンバーだって 認めてもらえてないって気にしてるみたいだったけど……）
 こはね: （きっとこのライブでみんなに伝わったはずだよ）
 こはね: （だって、みのりちゃんは……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 こはね: （初めておしゃべりして、夢の話を聞かせてもらった時から、 ずっとずっとキラキラしてた）
 こはね: やっぱり、みのりちゃんはすごいな
 こはね: （私も早く、杏ちゃん達と仲間として、 胸を張って歌えたら……）
@@ -116,7 +104,7 @@ Gacha phrase: ふふ。なんだか不思議な音だね！
 こはね: うん！　やっぱりうまくなる近道は 練習なんだなって思った！
 こはね: だから私も、私のチームのみんなに負けないくらい、 しっかり練習するね！
 みのり: うん！　わたしも応援するよ！ がんばれ、こはねちゃん！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -133,7 +121,7 @@ Gacha phrase: ふふ。なんだか不思議な音だね！
 こはね: えっと……。 杏ちゃんと東雲くん、何かあったの？
 冬弥: ……実はそのことで、小豆沢に頼みがある
 こはね: ……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [週末]
@@ -185,7 +173,7 @@ MEIKO: じゃあ、私も何か飲み物をサービスしてあげる。 だか
 こはね: ふふっ
 こはね: 杏ちゃん、私達も始めよっか
 杏: はーい
-(Black cut)
+(Black transition)
 杏: うーん…… 『いとをかし』はたしか……
 こはね: 興味深いとか、趣があるとか、かわいいとか、 心が強く動かされた時によく使われる言葉だよ
 杏: あ、そうそう！　で、次の『さぶらいたまう』は……。 えっと……
@@ -200,20 +188,16 @@ MEIKO: じゃあ、私も何か飲み物をサービスしてあげる。 だか
 こはね: じゃ、じゃあ……、 本当にあるかもしれないってことだよね？
 こはね: （どうしよう……。 もしも、杏ちゃんがブラックリストにのっちゃったら……）
 こはね: （あっ！　そのせいでクラスの子から からかわれちゃったりするんじゃ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 クラスメイトA: 見て、追試験だけじゃ飽き足らず 再追試験までおかわりしちゃった白石さんよ
 クラスメイトB: あ～ら、本当だわ
 クラスメイトB: ねえ、みんな。白石さんがもっともっとお勉強できるように、 全員分の宿題をやってもらうのはどうかしら？
 杏: こはねー！！　助けてーっ！！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 こはね: あ、杏ちゃんが……杏ちゃんがっ！
 杏: ん？　こはね……？
 こはね: 杏ちゃん！ クラスの子達の宿題までやらなくてすむように、 ふたりで頑張ろうね！
@@ -227,4 +211,4 @@ MEIKO: じゃあ、私も何か飲み物をサービスしてあげる。 だか
 彰人: う……。か、考えてるとこだって……
 MEIKO: これは、結構長丁場になりそうね
 KAITO: みたいだね
-(Black cut)
+(Black transition)

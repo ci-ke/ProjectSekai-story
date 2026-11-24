@@ -60,16 +60,12 @@ mmj_01_12 アイドルの資格
 遥: ……ごめんなさい、私はいいです
 雫: 私からもお願いよ。 遥ちゃんが教えてくれたら、きっと……
 遥: ……っ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: お願い！ 遥ちゃんが教えてくれたら、きっともっと上手くなれるから！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……やめて！ 私にはアイドルをやる資格はないの！
 みのり: え……？
@@ -84,4 +80,4 @@ mmj_01_12 アイドルの資格
 雫: 遥ちゃん……何かあったのかしら……
 みのり: （遥ちゃんが、アイドルをやる資格がない……？）
 みのり: （どうしてそんなこと……）
-(Black cut)
+(Black transition)

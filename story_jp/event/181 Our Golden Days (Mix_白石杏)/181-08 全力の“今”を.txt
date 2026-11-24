@@ -46,9 +46,9 @@
 杏: でもね——まだまだ上があるの！
 杏: 今だけじゃない、この先もずうっと！ 私達が手を伸ばし続ける限り！
 杏: 最高のその先まで突き抜けてくから—— ついてきて！
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [浜辺]
@@ -85,8 +85,8 @@
 杏: それに——今日は本っ当に楽しかったから！
 杏: こんなの、まだまだ歌いたくなっちゃっても当然でしょ？
 こはね: ふふっ……そうかもしれないね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000495/bg_s000495.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000495/bg_s000495.webp)
 杏: （今日はほんとに最高だったな）
 杏: （みんなの歌が聴けて、お客さんとも盛り上がれて……）
 杏: ——きっとこれからも、 こんな風に楽しくって最高の毎日にできるよね
@@ -94,4 +94,4 @@
 杏: （それで——）
 杏: （いつか今日のことを、 みんなで笑いながら思い出せるといいな）
 杏: （この時も楽しかったけど——『今』はそれよりも、 もっともっと最高だ！って）
-(White cut)
+(White transition)

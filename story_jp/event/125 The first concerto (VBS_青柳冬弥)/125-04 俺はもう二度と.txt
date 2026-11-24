@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 彰人: あの熱さに届かない……か
 冬弥: ああ
@@ -14,7 +14,7 @@
 杏: あ、それならサビ前に、段々上がってくような フレーズ入れるのはどう？
 冬弥: なるほど……たしかにその手はあるな
 彰人: あとは、Aメロからテンポ上げちまうのもいいかもな。 前半は勢いつけて、調子あげてく感じにして——
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (VBS): …………
 KAITO (VBS): 曲全体のクオリティはかなり上がってきてるし、 冬弥くんが表現したいことも伝わってはくる……
@@ -24,7 +24,7 @@ KAITO (VBS): でもやっぱり、RAD WEEKENDの曲と比べると まだ聴く�
 冬弥: 分析して、謙さん達の曲の強みがわかれば、 自分の曲にも活かせるかもしれない
 KAITO (VBS): お、そういうことならボクも手伝うよ！
 冬弥: え……本当ですか？ ありがとうございます
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: （……音をいちから変えても駄目だったか）
 冬弥: （思い浮かぶ手はもう……。 しかし……）
@@ -38,7 +38,7 @@ KAITO (VBS): お、そういうことならボクも手伝うよ！
 彰人: だが……やるしかねえ
 彰人: どんなに先が見えなくても進むしかねえんだ。 ……そうだろ
 冬弥: ……ああ。 そうだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [１カ月後]
@@ -51,31 +51,23 @@ KAITO (VBS): お、そういうことならボクも手伝うよ！
 冬弥: （なぜ届かない。 一体、何が原因なんだ？）
 冬弥: （……まるで、暗闇の中だ。 手を伸ばしても、どこにも手ごたえがない）
 冬弥: （このままでは…………）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……応えることができない）
 冬弥: （俺に曲作りを任せてくれた、みんなの想いに応えることが）
 冬弥: （……もしそうなってしまったら……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の冬弥 (冬弥): ……もう無理だ
 中学生の冬弥 (冬弥): 俺には……できない
 中学生の冬弥 (冬弥): 父さん達の期待に応えることは——できないんだ……！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: …………っ
 冬弥: ……そんなことには、しない
@@ -83,13 +75,13 @@ KAITO (VBS): お、そういうことならボクも手伝うよ！
 冬弥: なんとしてもみんなの期待に応え、 作り上げてみせる……！
 冬弥: （原因がわからないなら、 もっと深くまで探ればいい）
 冬弥: （あらゆる可能性を考えろ……！ 必ず、まだ試していないことがあるはずだ……！！）
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [１カ月後]
@@ -114,4 +106,4 @@ KAITO (VBS): お、そういうことならボクも手伝うよ！
 冬弥: …………わかった
 冬弥の母: ……冬弥さん……大丈夫かしら……
 冬弥の父: ……………………
-(Black cut)
+(Black transition)

@@ -14,16 +14,12 @@ Gacha phrase: I should have done this sooner.
 Toya: (I've submitted all my work, and I don't think I've forgotten to do anything...)
 Classmate: Aoyagi? You're not with Shinonome today?
 Toya: Akito...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: I can't perform with you anymore.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: He went back first because he had something on.
 Classmate: Oh. It just feels weird when you're not together, you know?
@@ -40,7 +36,7 @@ Tsukasa: Huh? What's the matter? You look like an abandoned puppy.
 Toya: ...
 Tsukasa: Hm...
 Tsukasa: Very well, if you have some time after this, come with me!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -58,7 +54,7 @@ Saki: Hehe, thanks! But sorry too. Tsukasa must have dragged you along with him 
 Toya: Yes, but I'm grateful for that. I didn't have anything to do later, anyway...
 Saki: Hm?
 Tsukasa: Toya, Saki! If you're done updating each other, let's go! Our first destination is the arcade!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Arcade]
@@ -69,7 +65,7 @@ Saki: Haha, Tsukasa you're terrible with video games. I think even I could beat 
 Tsukasa: Hehehe, my dear sister Saki... Do you really think you can beat me? Your most excellent older brother?
 Saki: Of course I can! You heard that, Toya. Change places with me!
 Toya: Yes, here you go.
-(Black cut)
+(Black transition)
 Tsukasa: Hahaha! I must applaud you for tying with me!
 Saki: Ugh... I was so close...
 Toya: Saki. You just need to pay closer attention to the interval between the notes and the song itself.
@@ -85,7 +81,7 @@ Toya: Hehe...
 Saki: Oh, stop being such a drama queen. Look, even Toya's laughing at you.
 Toya: (What? I was laughing?)
 Tsukasa: Grr... Saki, Toya! Our next combat shall be held on the battlefield of fighting games!
-(Black cut)
+(Black transition)
 (Background change)
 Saki: Ahh... I haven't had so much fun in ages! Thanks for hanging out with me today, Tsukasa, Toya.
 Toya: No, thank you for allowing me to join you.
@@ -94,7 +90,7 @@ Tsukasa: Your face looks much better now, Toya.
 Toya: What?
 Tsukasa: I don't know what exactly happened, but I'm always here for you. I'll never leave my junior classman in a lurch!
 Toya: I know. Thank you for today, Tsukasa.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -110,11 +106,9 @@ Akito: Hm?
 Toya: Some other musicians came up to talk to me the other day, when I was heading home from a show.
 Akito: Why? Did they say something bad to you?
 Toya: No... It was more of a...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Toya: (We did pretty well in today's show, generally speaking. The last chorus part, though...)
 Musician: Hey, aren't you Toya from BAD DOGS?
 Musician: You performed today too, right?
@@ -132,11 +126,9 @@ Toya: Yes...
 Musician: Can't wait to see your performance as Vivid BAD SQUAD together with An and Kohane, too!
 Musician: We won't just be watching wistfully from the audience stand, though. Let's perform together again in another event if we ever get the chance!
 Toya: Yes, absolutely.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: We had a normal conversation, and then they left.
 Akito: I see... They may be people that I know.
 Akito: While you were on your way back from that show... Did they approach you near the shops?
@@ -161,4 +153,4 @@ Toya: Miku, MEIKO, and Len from that mysterious SEKAI, I've come to realize many
 Akito: Okay...
 Toya: I'll be counting on your support in the future too, Akito.
 Akito: You got it, partner.
-(Black cut)
+(Black transition)

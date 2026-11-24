@@ -4,15 +4,15 @@
 
 [電車の中]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000375/bg_s000375.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000375/bg_s000375.webp)
 司: すう……すう……
 咲希: ん……おにいちゃん……ブドウ、食べる〜……？
 司: まだまだ……食べる、ぞー……ぐぅ…………
 志歩: 寝言で会話してる……
 雫: 夢の中でも仲良しね。 それにふたりとも、とっても気持ちよさそうだわ
 咲希: むにゃむにゃ……。 もう食べられないよ、お兄ちゃん～……
-(White cut)
+(White transition)
 (Background change)
 志歩: ——お姉ちゃんも、眠かったら寝ていいよ。 駅に着いたら起こすし
 雫: 私は大丈夫よ。 しぃちゃんこそ、眠くなったらいつでも私の肩を使っていいからね
@@ -59,4 +59,4 @@
 志歩: （次、か……）
 志歩: （きっとまた、プラン考えるところから 手伝うことになるんだろうけど……）
 志歩: （今回みたいな旅行になるなら…… まあ、それはそれでいっか）
-(White cut)
+(White transition)

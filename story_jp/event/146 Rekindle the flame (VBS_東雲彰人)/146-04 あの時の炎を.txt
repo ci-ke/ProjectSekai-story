@@ -27,30 +27,22 @@
 彰人: そうか。 ……ま、そうだよな
 彰人: ——RAD BLASTが終わってから、 どうにも、歌に力が乗り切らねえ
 彰人: ……足りねえんだ。 あの時みてえな、あの……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: …………
 彰人: ……歌に出てるってことは、 あいつらにもバレてるだろうな
 冬弥: ああ、おそらく
 彰人: ……そうか
 彰人: （それでも、何も言ってこねえってことは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……なら、なおさら早く元の調子に戻さねえとな
 冬弥: 彰人……
@@ -58,48 +50,40 @@
 冬弥: ……そうか
 冬弥: それなら、俺達は——待つとしよう
 彰人: おう
-(Black cut)
+(Black transition)
 (Background change)
 
 [彰人の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: わずかだが……歌に出ている
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （歌に出てる、か……）
 彰人: （……『世界を獲る』って目標に嘘はねえ。 そのためにできることも、全力でやってるつもりだ）
 彰人: （だが、やっぱり——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あの時みてえな…… 何かに突き動かされるような感じがあるかっつうと——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000366/bg_s000366.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000366/bg_s000366.webp)
 彰人: ……燃え尽きちまったのか……？
 彰人: （……いや、理由はなんだって構わねえ）
 彰人: （とにかく、なんとかしねえとな。 今のオレじゃ……あいつらの足を引っ張るだけだ）
 彰人: （……だが、どうすればいい？）
 彰人: （あの時の、 燃えてるみてえな感覚を取り戻すためには……）
-(White cut)
+(White transition)
 (Background change)
 彰人: はあ……
 彰人: 部屋で考え込んでたって、なんにもならねえ
 彰人: ……気分転換にあっち行ってみるか
-(Black cut)
+(Black transition)

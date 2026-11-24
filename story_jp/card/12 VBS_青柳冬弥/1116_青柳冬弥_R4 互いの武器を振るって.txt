@@ -28,7 +28,7 @@ Gacha phrase: 取って食われるつもりはありませんよ
 冬弥: ～～♪　～～♪
 泉: ……へえ、いい歌だね
 泉: でも……
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -81,7 +81,7 @@ Gacha phrase: 取って食われるつもりはありませんよ
 冬弥: ……！　はい！
 泉: それじゃ、お互い仕上がってきたし、 次は一緒にやってみようか。 本番の流れも確認しておいたほうがいいでしょ？
 冬弥: わかりました。 よろしくお願いします
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,7 +98,7 @@ Gacha phrase: 取って食われるつもりはありませんよ
 冬弥: （……次は、俺と瀬名さん—— 『美しき歌い手』が対決するシーンだ）
 冬弥: （俺の『美しさ』が瀬名さんに匹敵するかはわからないが…… 練習の成果を出して、皆さんに続けるよう全力を尽くそう）
 泉: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -106,16 +106,12 @@ Gacha phrase: 取って食われるつもりはありませんよ
 [控室]
 
 冬弥: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥・泉: 『～～♪　～～♪』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: …………っ
 冬弥: （本番に近い環境で対峙して、実感した）
@@ -171,7 +167,7 @@ KAITO (VBS): 『なるほど……』
 (Background change)
 KAITO (VBS): 『冬弥くん、いいコラボ相手と出会えたみたいだね』
 レン (VBS): 『うん！　本番のステージ、楽しみだな』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後　本番前]
@@ -184,4 +180,4 @@ KAITO (VBS): 『冬弥くん、いいコラボ相手と出会えたみたいだ�
 泉: あはは。生意気……と言いたいとこだけど、 俺のライバル役ならそれぐらいは言ってくれないとねぇ？
 冬弥: 一緒に、いいパフォーマンスをしましょう
 泉: うん
-(Black cut)
+(Black transition)

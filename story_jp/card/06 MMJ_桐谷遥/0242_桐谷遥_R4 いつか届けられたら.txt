@@ -11,7 +11,7 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 
 遥: みんな、今日も私達の配信を見てくれてありがとう！
 みのり: 次もまた見てね！　ばいばーい！
-(Black cut)
+(Black transition)
 遥: ふぅ。みんな、お疲れさま
 雫: お疲れさま
 雫: ふふ。愛莉ちゃんが考えてくれた今日の企画—— 『照れたら負けよ！　笑顔でにらめっこ勝負』、 すごく盛り上がったわね
@@ -45,7 +45,7 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 愛莉: いいわね、写真集！　ぜひお願いしたいわ
 みのり: 遥ちゃん、楽しみにしてるね！
 遥: うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [遥の部屋]
@@ -70,7 +70,7 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 遥: あれ？　今スマホが……
 遥: （メッセージが届いたのかと思ったけど、違うみたい。 それに、さっきの光の感じって……）
 遥: もしかして——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -81,14 +81,14 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 遥: 何か、落ちてる。 光る……玉？
 遥: どこかの照明が外れて落ちちゃったのかな？ とりあえず、誰かが踏まないように拾って——
 遥: えっ！　ま、まぶしい……！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
 
 遥: ん……
 遥: えっ。ここって……！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -117,20 +117,16 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 遥: ……っ！
 遥: （伝えたい……！　伝えなきゃ……！）
 遥: （あなたから希望をもらって、 私はアイドルになったんですって……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ——あのね、遥ちゃんはわたしに、たくさんのものをくれたんだよ
-(White cut)
+(White transition)
 みのり: 誰かを好きになることが、こんなに嬉しいことなんだって 初めて気づけたんだよ
 みのり: それから……それから……！
 みのり: 遥ちゃんはわたしに、アイドルになるっていう夢をくれたよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: はぁ、はぁ……！
 遥: （誰かに希望を届けられているか不安だった、 でも……！）
@@ -153,9 +149,9 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 遥: あっ、窓のところにとまった。 家の中を見てるみたいだけど……
 遥: わっ……この部屋、鳩がいっぱいいる！ なんか暗いけど、この子達用の部屋なのかな？
 遥: （……あれ？　暗いからよく見えないけど、 なんだかこの部屋、見覚えがあるような……）
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 遥: …………
 遥: （どうしてだろう。不思議と、 この窓を開けなくちゃ！っていう気持ちがわいてくる）
@@ -171,18 +167,18 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 遥: 10……20……？ ふふ、こんなにいるなんて思わなかった
 遥: 鳩さん！　クローバー、ちゃんと届けてあげてね！
 遥: クローバーは希望の象徴なの！ だから——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000090/bg_a000090.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000090/bg_a000090.webp)
 ？？？: ふふっ。あなたもね！
 遥: ……！！
 遥: （この、声……！）
 遥: （そう、この声だ。温かくて、懐かしくて……）
 遥: （……！　そうだ、伝えなくちゃ！）
 遥: あのっ！！
-(White cut)
+(White transition)
 (Background change)
 遥: えっ……ミク！？
-(White cut)
+(White transition)
 (Background change)
 遥: ……あ、あれ？
 リン: おかえり、遥ちゃん！
@@ -202,19 +198,15 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 ミク (MMJ): でも、遥ちゃんが見たり、聞いたり、感じたりしたことは、 信じていいと思うよ
 ミク (MMJ): わたしはほんの一瞬しか触れられなかったけど、 あそこはきっと……
 遥: それって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ふふっ。あなたもね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （じゃああの声は、本当に……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [遥の部屋]
@@ -225,4 +217,4 @@ Gacha phrase: どうしても、伝えたいことがあるんです
 遥: また応援されちゃったな
 遥: 私、これからも頑張ります
 遥: あなたからたくさんの希望をもらったんだって、 いつか、胸を張って伝えられるように——
-(White cut)
+(White transition)

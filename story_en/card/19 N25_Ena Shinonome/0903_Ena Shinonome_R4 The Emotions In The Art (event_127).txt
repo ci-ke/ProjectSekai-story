@@ -10,48 +10,34 @@ Gacha phrase: What was he feeling...?
 [Neighborhood]
 
 Ena: *Sigh*
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Yukihira: I have a proposal for you.
 Yukihira: Next weekend, let's have a special lesson outside of class.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (A special lesson, huh...?)
 Ena: (I was startled when Mr. Yukihira made that offer...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (But to think it'd be to help out at my dad's exhibit...)
 Ena: I mean, why his exhibit of all things...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Do I really have to help...?
 Ena: (Come to think of it, I used to do that a lot.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [A few years earlier]
@@ -84,10 +70,8 @@ Exhibit Staff Member: I'm sure you'll also become a famous artist just like your
 Junior High School Ena (Ena): Yes, I promise to become one!
 Junior High School Ena (Ena): (Yeah. Dad's been able to make it big like this...)
 Junior High School Ena (Ena): (There's no way I'm not going to also become a famous artist in the future.)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I was so naive...)
 Ena: Also, am I gonna have to tell him about that when I go to help out with his exhibit...?
@@ -97,7 +81,7 @@ Ena: (Now I'm starting to wonder what I should and shouldn't say.)
 Ena: Is there even any point to this special lesson...?
 Ena: (I honestly don't know what Mr. Yukihira's thinking, but...)
 Ena: For now, I should go...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -109,47 +93,35 @@ Ena: For now, I should go...
 Ena: *Sigh*
 Ena: I'm so exhausted... It's been a long time since I last moved a bunch of heavy paintings around.
 Ena: Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I really had no idea... I mean, he used to be an actual starving artist. Him.)
 Ena: (No one ever told me... But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Father: That was when I finally realized...
 Father: I can't escape it.
 Father: I can't live without art in my life.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: He can't live without art in his life...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ena: I have to keep drawing! I have to keep drawing! If I keep drawing, then even I could...
-(White cut)
+(White transition)
 Ena: I mean, look at me... I don't have anything...
 Ena: No talent... Nothing... Not like you...
-(White cut)
+(White transition)
 (Background change)
 Ena: I'll try drawing something. I don't know if it'll be any good, but I'll try.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Yeah...
 Ena: (The same thing happened to me. No matter how much pain I suffered as my art when unnoticed...)
@@ -161,7 +133,7 @@ Ena: Alright.
 Ena: I'll start by doing a sketch. Then, I'll get to work on my stuff for N25. There's still some time until 25:00, so I'll log in first and—
 Ena: A message? From who...?
 Ena: Mizuki...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -210,4 +182,4 @@ Ena: Mizuki?
 Mizuki: Hm?
 Ena: Thanks. For this cake, and everything else...
 Mizuki: Hehe. You're welcome...!
-(Black cut)
+(Black transition)

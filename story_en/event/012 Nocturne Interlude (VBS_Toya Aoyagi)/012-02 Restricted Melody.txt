@@ -13,7 +13,7 @@ Kohane: Hm? Is that customer looking our way?
 An: Huh? Hey, isn't that...
 Customer: You're Vivid BAD SQUAD, right? Mind if I request a song?
 Kohane: Huh?
-(Black cut)
+(Black transition)
 Akito: Old friend of yours?
 An's Father: Yeah. He worked as sound technician in a live house nearby and we often went for drinks after a show.
 An's Father: He helped me with a lot of stuff when I opened this shop too, like the sound system for the stage area.
@@ -35,7 +35,7 @@ An: Yeah! Maybe we should film it too... This'll be the first time we actually p
 An: Dad, can you film us with my phone? Just press this button once we start.
 An's Father: No problem.
 An: Awesome! Let's make it a good one, guys!
-(Black cut)
+(Black transition)
 Old Regular: Bravo! Bravo! That was fantastic! Thank you! You've made my day!
 An: Haha. You're more than welcome!
 Old Regular: Your voice is so much more powerful than before too, An. Not to mention your stage presence! I couldn't look away!
@@ -45,7 +45,7 @@ Old Regular: And you... Your voice never wavered even during the difficult parts
 Old Regular: Each member shines in their own way and that's exactly why I'm excited to see how far you can go as a group!
 An: Thanks so much! And we won't disappoint you because we're gonna be the ones to surpass RAD WEEKEND one day. Just you wait!
 Old Regular: Great! You have my support!
-(Black cut)
+(Black transition)
 Akito: Alright, that's all for today. Remember to meet here instead of at the park tomorrow because we'll be rehearsing with actual equipment.
 An: Got it. Kohane, tell your dad we can't wait to meet him!
 Kohane: I will! I'll be sure to give him the tickets and event flyer too.
@@ -67,7 +67,7 @@ Toya: (My singing feels rigid...)
 Toya: Excuse me, Shiraishi. Can I see the video you just took?
 An: Sure, of course! I'll send it to you later.
 Toya: Great, thanks.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -79,19 +79,15 @@ Toya: <♪————>
 Toya: (He's right...)
 Toya: (Akito, Shiraishi, and Azusawa's singing is more free-form and expressive.)
 Toya: (But mine is...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Toya's Father: That's not the right rhythm. Do it again.
 Toya's Father: Read the sheet music more carefully and stick to it. How many times do I have to tell you this?
 Toya's Father: No deviations whatsoever!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: Am I...
 Toya: Am I being held back by classical music...?
-(Black cut)
+(Black transition)

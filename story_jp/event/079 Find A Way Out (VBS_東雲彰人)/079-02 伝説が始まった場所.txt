@@ -32,15 +32,11 @@ EVERのメンバーB: たしか遠野は、前に出演してなかったっけ�
 こはね: 私も、やってみたいな……！
 達也: ああ。俺達も異論はねえ
 彰人: ……そうか。あそこで……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……彰人、どうした？
 彰人: ……ああ、なんでもねえよ。 オレも賛成だ
@@ -51,7 +47,7 @@ EVERのメンバーB: たしか遠野は、前に出演してなかったっけ�
 新: 本当？　助かるよ。 それじゃ、今度挨拶しに行く時、連絡するね
 こはね: 頑張ってね、杏ちゃん！
 杏: うん、任せて！
-(Black cut)
+(Black transition)
 新: じゃあ、お疲れさま
 杏: お疲れー！
 こはね: ……打ち上げだったのに、 次のイベントの話になっちゃったね
@@ -68,7 +64,7 @@ EVERのメンバーB: たしか遠野は、前に出演してなかったっけ�
 彰人: ああ、いつものメニューはやっとかねえと 落ち着かねえからな
 杏: もう暗いんだから、気をつけなねー
 彰人: わかってるよ。んじゃな
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -80,30 +76,22 @@ EVERのメンバーB: たしか遠野は、前に出演してなかったっけ�
 彰人: （まさか、あの名前をまた聞くことになるとはな……）
 彰人: （いや、当然か。RAD WEEKENDを超えるんだ、 あの場所でやりてえって思うのは——）
 彰人: （……オレも、そうだったからな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （いや、今は違う。今度は泥を塗るような真似はしねえ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （——オレには、あいつらがいる）
 彰人: （あいつらと一緒に次のイベントも成功させるんだ）
 彰人: （そのために—— 今は１分、１秒だって無駄にしてる余裕はねえ）
-(Black cut)
+(Black transition)

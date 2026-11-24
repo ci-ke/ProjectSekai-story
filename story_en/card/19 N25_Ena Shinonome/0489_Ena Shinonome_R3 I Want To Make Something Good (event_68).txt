@@ -16,7 +16,7 @@ Ena: Oh, right... I uploaded a selfie earlier, huh?
 Ena: Okay, geez. You get to be on silent for a while.
 Ena: *Sigh* I guess I can pick up where I left off and keep working on that drawing from before.
 Ena: It became such a mess too... I should rethink its layout and...
-(Black cut)
+(Black transition)
 Ena: No. I've tried so many different layouts, but none of them seem right...
 Ena: When did I become such a bad artist...?
 Ena: No, I'm not...! I can...
@@ -69,7 +69,7 @@ Ena: I'm not really sure what Nightcord is, but I guess I should download it and
 Ena: Actually, I'm gonna do that right now!
 Ena: Hehe. I get to talk to K... And Amia.
 Ena: (I wonder what they're like. I can't wait to talk to them.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -87,7 +87,7 @@ Kanade: It's nice to see that our song's reaching so many people.
 Mafuyu: Yes, it is...
 Ena: You don't seem to mean that at all...
 Mizuki: Haha. Anyway, let's all have some of these fries before they get cold...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Main Street]
@@ -105,7 +105,7 @@ Kanade: I suppose. Anyway, I'm this way.
 Ena: Get home safe, okay?
 Mizuki: Well, we've got some time on our hands, so wanna do some shopping?
 Ena: Sure.
-(Black cut)
+(Black transition)
 Ena: Oh, wanna check out that sportswear shop?
 Mizuki: Hm? A sportswear shop? Are you getting something for your workouts?
 Ena: No, I saw some cute sneakers in the window, so I wanna take a look.
@@ -129,22 +129,18 @@ Mizuki: Really. Going it alone isn't easy, so it's definitely nice to have someo
 Ena: Yeah, true.
 Ena: (Mizuki's right... I want to help out in some way other than by drawing.)
 Ena: (Still, this is so strange.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: (Hang on... This song... It feels really dark, but it's having this weird effect on me...)
-(White cut)
+(White transition)
 Ena: Huh...?
 Ena: Tears...?
-(White cut)
+(White transition)
 Ena: And it's right... I don't want to disappear yet...
 Ena: I don't care if I lose my ability to draw... I'll keep drawing...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I discovered Kanade's song and felt compelled to draw an illustration for it. Then, Mizuki made that music video, and Kanade and Mafuyu found it...)
 Ena: (Now, we're making music together.)
@@ -155,4 +151,4 @@ Mizuki: Yeah, sure. Oh, did you hear about that shop by the station? It's suppos
 Ena: Yeah, I know what you're talking about! I tried to go last week but I decided against it because it was raining out.
 Mizuki: Hmm... Sounds like someone was feeling lazy that day.
 Ena & Mizuki: Haha.
-(Black cut)
+(Black transition)

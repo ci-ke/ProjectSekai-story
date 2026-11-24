@@ -22,11 +22,9 @@ Akito: I remember the time we went camping when I was in sixth grade the best. W
 An: Really? Not during summer?
 Akito: Yeah, according to him, it gets too crowded because of all the tourists.
 Akito: We went for three days and two nights that time...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: We started by pitching a tent together... After that, we played around until it was time to eat.
 Akito: Well, by we I mean, Ena, my mom and myself.
 Kohane: Wait, what about your dad?
@@ -35,11 +33,9 @@ Akito: He even drew pictures of us while we went fishing down by this river that
 Toya: To be fair, he's a professional artist. I'm guessing that he was looking for some sort of inspiration for his work.
 Akito: Who knows? Oh, but Ena did throw him into the river for not giving her enough attention.
 An: I can sympathize with her there. You were there as a family, so it's normal to want to spend time together.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kohane: Hehe. By the way, did you manage to catch any fish?
 Akito: Not even a nibble.
 Akito: The worst part was how I could see them in the water. After a while, I thought that it'd be faster to just use my hands to catch them, but that didn't work either...
@@ -51,16 +47,12 @@ An: Yeah! You can dunk them in the river to get them all nice and cold!
 Toya: I see... So it's a different way of enjoying the same activity.
 Akito: Yup.
 Akito: (Also, I guess that was the last time we went camping as a family...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Akito: ...
 Toya: Is something wrong, Akito?
 Akito: No, I was just trying to remember what else we did that time...
@@ -88,7 +80,7 @@ Toya: Akito...
 Akito: Hm?
 Toya: I'm really looking forward to this trip.
 Akito: Yeah, so am I...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -129,7 +121,7 @@ Toya: Yes, I'd like some as well.
 An: Awesome! Oh, I think some molten chocolate is in order as well.
 Kohane: Just after brushing your teeth?
 An: I'll just brush them again! C'mon, let's go!
-(Black cut)
+(Black transition)
 Kohane: Oh wow, the milk's starting to smell really sweet...
 Akito: That should do it... Careful, it's pretty hot.
 Toya: Yes, thank you.
@@ -159,4 +151,4 @@ Toya: Okay. Night, Shiraishi, Azusawa.
 An: Night.
 Kohane: Good night, Shinonome.
 Akito: Night. Try not to oversleep, okay?
-(Black cut)
+(Black transition)

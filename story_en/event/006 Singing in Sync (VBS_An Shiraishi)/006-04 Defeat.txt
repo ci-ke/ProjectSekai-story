@@ -21,7 +21,7 @@ An: Like...
 Kohane: An, I promise to do better next time...
 Kohane: The event is almost over... We should go back inside for the results.
 An: Kohane...
-(Black cut)
+(Black transition)
 (Background change)
 
 [STAY GOLDEN Venue]
@@ -32,7 +32,7 @@ Male Audience Member: The last time we did this with RUST was awesome too, but t
 Female Audience Member: Everyone knew EVER would win right from the start.
 MC: Let's invite the winners onto the stage...!
 An & Kohane: ...
-(Black cut)
+(Black transition)
 An: It's all over so quickly...
 Kohane: Yeah, it really is...
 Akito: We have to talk about what happened today and make sure it never does again.
@@ -56,23 +56,19 @@ Male Singer B: Yeah. I don't see them ever getting anywhere near what RAD WEEKEN
 Male Singer A: I guess.
 Male Singer B: Anyway, I'm glad I got to see EVER live. They were unreal! They blurred the line between the stage and the audience, and got everyone involved!
 An: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
 
 An: Sigh...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: You don't see Kohane as a full-fledged member of our squad.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 An: (I... I feel awful...)
 Haruka: Hm? An?
 An: Haruka...?
@@ -84,4 +80,4 @@ An: Uh...
 Haruka: So, what's wrong? Are you sick or something...?
 An: No, it's nothing like that! Just...
 An: It's because of something that happened today...
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [バックステージ]
@@ -78,29 +78,29 @@ IoliteのメンバーA: え～～！！　すみれだけずるい～！ あと�
 小学生の志歩 (志歩): もっとちゃんと、いい音が出せるようになりたいから
 すみれ: 志歩ちゃん……
 すみれ: ……ふふっ、わかった。任せて
-(Black cut)
+(Black transition)
 すみれ: ——そう、最初はゆっくりでいいからね。 ２本の指で順番に弦を弾いて……慣れてきたと思ったら、 ちょっとずつ早くしていって
 小学生の志歩 (志歩): ……こう、ですか？
 すみれ: うん！　上手上手！
-(Black cut)
+(Black transition)
 すみれ: 左手の指は、フレットのすぐそばを押さえるといいよ。 そうすると、無理に力を込めなくても綺麗な音が出せるから
 小学生の志歩 (志歩): はい。 ……っ……！
 小学生の志歩 (志歩): （左手……、届かない……）
 すみれ: あー……ベース、大きいもんね……。 もう少し傾けてみたら 手、楽に届かないかな？
 小学生の志歩 (志歩): あ……本当だ。 これでやってみます
 すみれ: うん、頑張れ～
-(Black cut)
+(Black transition)
 すみれ: それじゃあ、さっき教えた順番に指で押さえて、 音を出していこうか。 ちゃんとしたフレーズになってるはずだよ
 小学生の志歩 (志歩): はい……
 小学生の志歩 (志歩): （左手は、フレットのそばを押さえる……）
 小学生の志歩 (志歩): （弾く時は、強くはじくんじゃなくて、 弦を揺らすように指を動かす）
 小学生の志歩 (志歩): （あとは、弦を順番に押さえながら、音を出して——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000241/bg_s000241.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000241/bg_s000241.webp)
 小学生の志歩 (志歩): ……できた！
 すみれ: やったね！　バッチリだったよ
 小学生の志歩 (志歩): あ、ありがとうございます
-(White cut)
+(White transition)
 (Background change)
 すみれ: ふふ、それにしても志歩ちゃん、 すごい集中力だったね
 すみれ: 準備で周りも騒がしかったのに、 全然耳に入ってなかったみたいだし
@@ -109,15 +109,11 @@ IoliteのメンバーA: え～～！！　すみれだけずるい～！ あと�
 小学生の志歩 (志歩): （目の前のことだけに集中して、 時間があっという間に過ぎてくこの感じ）
 小学生の志歩 (志歩): （……楽しいな）
 小学生の志歩 (志歩): （でも、これって……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): （……あの時と……）
 すみれ: そうだ、志歩ちゃん！ ベース、本当に始めてみたら？
@@ -129,17 +125,13 @@ IoliteのメンバーA: え～～！！　すみれだけずるい～！ あと�
 小学生の志歩 (志歩): （ベースを触ってた時の感じ、 あの時とそっくりだった）
 小学生の志歩 (志歩): （集中すると、それ以外見えなくなる）
 小学生の志歩 (志歩): （また、あんな風に——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 クラスメイトCの声: ……そっか。 でも、前から約束してたんだから、 こっちを優先してくれたってよかったのにね
 クラスメイトAの声: うん……。 でも、どうしてもって言うなら仕方ないよね……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): （みんなに、いやな思いをさせちゃったら……）
 すみれ: そうだ！　まだ時間あるし、次は——
@@ -151,4 +143,4 @@ IoliteのメンバーA: え～～！！　すみれだけずるい～！ あと�
 すみれ: ……本当に、いいの？
 小学生の志歩 (志歩): はい……
 小学生の志歩 (志歩): もう、やりたくないから
-(Black cut)
+(Black transition)

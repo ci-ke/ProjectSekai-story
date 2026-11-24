@@ -14,16 +14,12 @@
 寧々: （演技だけじゃなくて歌唱にも力をいれてる フェニックスステージらしい脚本で……）
 寧々: （だからこそ今回の記念公演の演目にも選ばれて—— お客さんも、キャストの歌を期待してきてる）
 寧々: （……それなのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 寧々: わたしの歌が、 この劇を壊すかもしれないってことですか……？
 演出家: そういうことだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （わたしの歌で、駄目にするわけにはいかない）
 寧々: （……向き合わなきゃ。向き合って、勉強しなきゃ）
 寧々: （癖を直さなきゃいけないのもそうだけど、 大森さんみたいな、うまい人達の歌を聴いて どんな小さなことでもいいから気づいて、勉強して）
@@ -42,16 +38,12 @@
 寧々: （高飛車なフェニックスがリオとの交流をとおして、 周りの鳥達にもほんの少しだけ心を開いてきてるのがわかる）
 寧々: （すごく繊細な表現……なのに、すごく自然。 心にすっと入ってくる——）
 寧々: （すっ、と——……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 櫻子: とにかく、私達のライバルとしては認めてあげないこともないわ！ 次もいいショーを作ることねっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （あの時、あんな風に言われて……、 『わたしは、あの青龍院櫻子に並べたんだ』なんて……思ってた）
 寧々: （でも……気づいたら、 いつの間にか、背中さえ見えなくなってて——）
@@ -62,30 +54,22 @@
 寧々: ……本当に、馬鹿だ……
 櫻子: 『♪————』
 寧々: …………でも
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 人魚姫: 『未知の世界へ飛びこむのはとても怖いけれど、 恐怖に負けてどこにも行けないのは、もっと嫌！』
 人魚姫: 『私は、陸に行くわ！　あの人に会いに——！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: それでも……、それでも、わたしは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 人魚姫: 『♪————！』
 幼い寧々 (寧々): …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （諦めたくない……！）
 寧々: （……青龍院さんの歌を聴いてると、 わたしの実力を思い知らされてるみたいで……すごく、苦しい）
@@ -96,4 +80,4 @@
 寧々: （わたしも—— わたしも全力で向き合って、この舞台を成功させる）
 寧々: （みんなの実力に追いついて——、 絶対に、『臆病なカナリア』をやりきってみせる……！）
 櫻子: 『♪————！』
-(Black cut)
+(Black transition)

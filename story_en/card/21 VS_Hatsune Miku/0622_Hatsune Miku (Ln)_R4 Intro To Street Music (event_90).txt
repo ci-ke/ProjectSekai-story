@@ -12,14 +12,10 @@ Gacha phrase: Wow, it's all so new and exciting.
 Miku (Ln): The girls are improving so much.
 Miku (Ln): Even just from the backing track they recorded, I can feel how strongly they want to make the solo show a success.
 Miku (Ln): Hehe. Shiho is especially on her game.
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Miku (Ln): (The way things are going, I'm sure they're on track for a great solo show.)
 Miku (Ln): (But even then, I know they won't stop there.)
 Miku (Ln): (They're going to keep perfecting their performance until the last second.)
@@ -29,12 +25,12 @@ Miku (Ln): (I'll note down any comments or points for improvement and tell the g
 Miku (Ln): (Oh... This part here. Ichika said she felt like it lacked cohesion somehow.)
 Miku (Ln): (Could it be that it's slightly off-beat? Or is the sound muddy?)
 Miku (Ln): Let's listen one more time.
-(Black cut)
+(Black transition)
 Miku (Ln): (Honami's drum beat is steady.)
 Miku (Ln): (She's drumming with power and confidence... And it feels as if she's adding her own personality to it.)
 Miku (Ln): (Although, she could probably hit the kick drum with more strength for this part...)
 Miku (Ln): I know! I'll ask MEIKO and Luka what they think.
-(Black cut)
+(Black transition)
 Luka: Yes, I agree. It wouldn't hurt to hit the kick harder during that part.
 MEIKO: Also, I think she could polish up the syncopated beat just before that.
 MEIKO: That way, she'll create a nice contrast when the kick comes in.
@@ -49,7 +45,7 @@ Miku (Ln): (I'm glad I got their input. It makes sense that someone who plays an
 Miku (Ln): Oh, that sound... It's Rin and the others.
 Miku (Ln): Oh yeah. They might also have some insight on today's practice...
 Miku (Ln): While I'm here, I should go ask them!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (Ln): Phew... I got so much good input from Rin and the others.
 Miku (Ln): They were saying that Saki is rushing ahead in places, and...
@@ -79,7 +75,7 @@ Miku (Ln): There's no helping it. Well then, I guess we can all work on this tog
 Rin: Woohoo!
 Rin: Hey, Len and KAITO! Let's share what we talked about just now♪
 Miku (Ln): I have a pen and paper ready. Tell me everything.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,16 +89,12 @@ Miku (Ln): Oh... There it is!
 Miku (Ln): Hehe. The day of the solo show is circled over and over again in all different colors.
 Miku (Ln): Come to think of it, didn't Saki and Rin start drawing flowers and animals to “brighten it up”?
 Miku (Ln): But then...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Shiho & Len: Now no one can read it...
 Saki & Rin: Teehee♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (Ln): Hehe...
 Miku (Ln): Anyway, there are just a few days left until the show now.
 Miku (Ln): It being their first solo show is exciting enough, but it's also a big step toward their debut.
@@ -112,16 +104,14 @@ Miku (Ln): Hehe. And after that, they really might be putting all their energy i
 Miku (Ln): Come to think of it, I wonder what it'll be like once they go pro.
 Miku (Ln): Maybe they'll do a debut show on a stage much bigger than at their usual live houses?
 Miku (Ln): Oh, and then their videos will get a huge number of views. And then they'll release CDs, and then...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Hello, everyone! We're Leo/need!
 Ichika: Thanks to all of your support, we're finally making our debut!
 Ichika: We hope this show conveys our gratitude for what it took to get us here and our passion for what lies ahead!
 Ichika: So, here it is... Our debut song!
-(White cut)
+(White transition)
 (Background change)
 Saki: Look, Miku! Our debut song already has two million views!
 Honami: And the Miku cover of our original song that we posted early on is about to hit five million!
@@ -130,10 +120,8 @@ Shiho: That's true. But this is just the beginning.
 Ichika: Yes. Let's keep sharing our music with the world!
 Ichika: Miku, I hope you'll keep watching over us for a long— I mean, I hope you'll watch over us forever.
 Miku (Ln): Of course. As long as SEKAI is around, I'll be there by your side.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (Ln): Please bring us a CD of your debut song, if you could. We'll give it pride of place.
 Luka: We should ask them to sign it too.
 Miku (Ln): Good idea. That will be a good way to mark the—
@@ -155,4 +143,4 @@ Luka: Hehe. I'm kidding, Miku. Sorry.
 Miku (Ln): What the...?
 Miku (Ln): Luka! Don't be so mean!
 Luka: Hehe.
-(Black cut)
+(Black transition)

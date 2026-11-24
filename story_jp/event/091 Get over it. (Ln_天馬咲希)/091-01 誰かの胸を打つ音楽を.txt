@@ -57,22 +57,18 @@ KAITO: 『……みんな、楽しんで』
 咲希: （アタシ達の音楽を好きって言ってくれる人達がいたから、 ここまでこれた）
 咲希: （……だからこそ、今日はそんな人達に、 アタシ達の気持ちがいっぱい詰まったステージを楽しんでほしい）
 咲希: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: はい。これからも皆さんの活動を見ていって——、 もしいい機会があれば、一緒に仕事ができたらと思っています
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （このライブを成功させたら、 アタシ達はプロになれるかもしれない）
 咲希: （みんなが、ずっと憧れてた……、 ずっと夢だった、『プロ』に——！）
 志歩: ——行くよ
 咲希: うん……！
-(Black cut)
+(Black transition)
 (Background change)
 一歌: 皆さん、こんばんは！ Leo/needで——
 咲希: （す、すごい歓声……。 こんなの、聞いたことない……！）
@@ -86,4 +82,4 @@ KAITO: 『……みんな、楽しんで』
 一歌: それでは、１曲目……聴いてください。 このライブのために書き下ろしてきた——
 一歌: 私達の、新曲——！
 (Background change)
-(Black cut)
+(Black transition)

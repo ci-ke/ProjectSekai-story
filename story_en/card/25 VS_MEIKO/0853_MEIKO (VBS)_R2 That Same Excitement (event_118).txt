@@ -34,7 +34,7 @@ KAITO (VBS): True. And if she is telling the truth... Len, Rin, we need to go se
 Len (VBS): What? Well, if you two are willing to believe her...
 MEIKO (VBS): Alright, Luka, mind showing us the way?
 Luka (VBS): Okay! Follow me!
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -67,7 +67,7 @@ MEIKO (VBS): (I'm seeing graffiti everywhere, and each alleyway feels completely
 MEIKO (VBS): (What feelings can cause all this?)
 MEIKO (VBS): (Hehe. I know I just told Rin to be patient, but I can't wait to start exploring...)
 MEIKO (VBS): (Something's changed in the others, and I want to find out what.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -95,20 +95,16 @@ MEIKO (VBS): Me too... Especially considering how ironclad their dedication is.
 MEIKO (VBS): It's thanks to that that the wall cracked.
 MEIKO (VBS): We even get to hear music coming from the other side now.
 MEIKO (VBS): Miku, you weren't there when Kohane said this, but...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kohane: If we do end up surpassing RAD WEEKEND and cause this wall to come crumbling down...
 Kohane: I have a feeling that music from all around the world will come together in the plaza back there.
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 Kohane: We're going to surpass RAD WEEKEND, this wall will come down, we'll get to learn about all this music from around the world and keep growing...
 Kohane: It's such an exciting thought! This place is going to be so incredible!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (VBS): She said that? But I understand Kohane's excitement.
 MEIKO (VBS): Yes, me too.
 MEIKO (VBS): Actually, I feel just as excited as she does...
@@ -133,4 +129,4 @@ An: What?! You wanna sing with us...?! Yes, you're more than welcome to!
 Kohane: Yes, please do! We'd love to sing with you!
 Miku (VBS): Then, let's head over to the plaza.
 An: Okay!
-(Black cut)
+(Black transition)

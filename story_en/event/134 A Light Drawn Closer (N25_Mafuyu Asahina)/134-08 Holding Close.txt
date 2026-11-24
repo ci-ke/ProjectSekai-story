@@ -25,18 +25,14 @@ Mafuyu: But... Thank you...
 Mafuyu's Father: I see...
 Mafuyu's Father: I'm glad to hear that.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000324/bg_s000324.webp)
-(White cut)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000324/bg_s000324.webp)
+(White transition)
 (Background change)
 Mizuki: If you believe that there is even the slightest chance that your dad will understand... Then I think you two should talk...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Umm... So...
 Mafuyu's Father: Hm?
@@ -73,15 +69,11 @@ Mafuyu's Father: What...?
 Mafuyu's Father: Is that true...?
 Mafuyu: Oh...
 Mafuyu's Father: For the longest time, I thought your goal was to become a doctor...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu's Father: Now I see...
@@ -110,15 +102,11 @@ Mafuyu's Father: Don't worry. I'm sure she'll come around.
 Mafuyu's Father: Also...
 Mafuyu's Father: No matter what happens, I won't turn my back on you.
 Mafuyu: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu's Father: Mafuyu...?
@@ -128,18 +116,14 @@ Mafuyu's Father: My hand? Yes, of course.
 Mafuyu: Oh...
 Mafuyu: (It's just like back then.)
 Mafuyu: (It's so warm...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin (N25): <But I get the feeling that your dad is still just as kind as he was back then.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -163,7 +147,7 @@ Mizuki: (She's already found a way to move forward.)
 Mizuki: And her dad understood...
 Mizuki: I want to do the same.
 Mizuki: I will. This time.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School]
@@ -174,4 +158,4 @@ Ena: On top of the sauce smelling really gross, our class t-shirt's unbelievably
 Ena: Still, Mizuki seemed excited, so I guess I should try to actually participate this time...
 Ena: Come to think of it, Mizuki's class is doing something that sounded fun...
 Ena: I should check out what they're doing. Hehe. This should make for a nice surprise.
-(Black cut)
+(Black transition)

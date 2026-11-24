@@ -13,24 +13,20 @@ Gacha phrase: そ、そこにいるの……誰……？
 絵名: これとか、ポケット多めでいろいろ入って便利だけど、 春らしくないっていうか
 絵名: んー。ちょっと小さめだけど、 やっぱり春っぽい色にしよっと。 あ、それなら服もあわせて……
 絵名: ……って、そうだ。 行き先、まだわからないんだった
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ボクがコースを考えるから、 みんなはついてくるだけでオッケー！
 瑞希: どこに行くかは、着いてのお楽しみ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: もう、行き先のことも考えてコーデ決めたいのに
 絵名: まあ、ミステリーツアーだって言ってたし、 どうせ教えてくれないんだろうな
 絵名: はぁ。ひとりだけ気合い入れていくのもなんか違うし。 もういっそ、いつもどおりに……
 母親の声: 絵名ー！　ごはんよー！
 絵名: あ……はーい！　今行く！
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -63,7 +59,7 @@ Gacha phrase: そ、そこにいるの……誰……？
 彰人: ウソつけ！
 母親: はいはい、ふたりとも。 冷める前に食べちゃいなさいね
 絵名: は～い
-(Black cut)
+(Black transition)
 (Background change)
 
 [旅行当日]
@@ -75,7 +71,7 @@ Gacha phrase: そ、そこにいるの……誰……？
 絵名: 見なさい、バカ彰人。 私だって起きようと思えばちゃーんと起きられるんだから
 絵名: えっと……スマホに、ポーチにハンカチに……。 うん、忘れ物もなさそう
 絵名: よし。そろそろ行こうかな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -87,15 +83,11 @@ Gacha phrase: そ、そこにいるの……誰……？
 [絵名の部屋]
 
 絵名: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （帰りの電車で見た、瑞希の表情……。 気のせいじゃなかったはず……）
 絵名: （でも、どうして……）
@@ -121,7 +113,7 @@ Gacha phrase: そ、そこにいるの……誰……？
 (Background change)
 絵名: （声の感じは、いつもどおりだったけど……）
 絵名: （でも……じゃあ、あの時の顔はなんだったの？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -144,7 +136,7 @@ Gacha phrase: そ、そこにいるの……誰……？
 絵名: （学校にあんまり行ってないのは いつものことだけど……）
 絵名: （でも、なんか気になるし……）
 絵名: ……よし
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -161,26 +153,22 @@ Gacha phrase: そ、そこにいるの……誰……？
 瑞希: あ、いいじゃん！　ボクもそろそろだな～って 思ってたところなんだよね
 瑞希: じゃ、行こっか♪
 絵名: うん
-(Black cut)
+(Black transition)
 絵名: あ、またボタニカル柄。さっきの店にもあったし、 ひょっとして、今年はこれがくるってこと？
 瑞希: んー。一定の人気はあるんだろうけど、 流行りとしてはどうかなぁ
 瑞希: それより、サテン生地系の服とか、 くすみカラー系が妥当なんじゃない？
 絵名: んー、たしかにそうかも
 瑞希: あっ！　あっちの服もイイ感じじゃない？ ちょっと見に行こうよ！
-(Black cut)
+(Black transition)
 絵名: はー……思ったより買っちゃった
 瑞希: カワイイ服に出会えて、ボクも満足満足♪
 絵名: …………
 絵名: （別に変わった様子はなかった、かな。 でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （だったら、あれはなんだったの……？）
 瑞希: あ、そうだ！　帰る前に寄り道してかない？
@@ -191,4 +179,4 @@ Gacha phrase: そ、そこにいるの……誰……？
 瑞希: でしょ～！ じゃあ、さっそくレッツゴー♪
 絵名: あ、もう！　ちょっと待ってよ！
 絵名: （きっと大丈夫……だよね、瑞希……）
-(Black cut)
+(Black transition)

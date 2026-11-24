@@ -2,11 +2,9 @@
 
 (Character: Akito Shinonome, Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
 
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ena's friend A: Hey, Ena. Did you decide what you want to do yet?
 Junior High School Ena (Ena): No, but I think I'll try for a fine arts school.
 Ena's friend B: Oh, right. You're always saying that you want to become an artist.
@@ -14,12 +12,12 @@ Junior High School Ena (Ena): Yeah. My dad's an artist too, and his art's what a
 Junior High School Ena (Ena): I want to become an even better artist than him, and thought I should learn as much as I can as soon as possible.
 Ena's friend A: That's great! Maybe I should get your autograph now while I still can.
 Junior High School Ena (Ena): Really? Now? Well, just you wait! I'm definitely gonna be famous one day!
-(Black cut)
+(Black transition)
 (Background change)
 Junior High School Ena (Ena): So only these two high schools have fine arts programs... This one focuses on the fundamentals, but this one let's you learn from an actual pro...
 Junior High School Ena (Ena): Learn the basics or learn from a pro. My fundamentals should be pretty good, but I live with a pro too so...
 Junior High School Ena (Ena): I wonder which would be better. I'll ask dad. He might know.
-(Black cut)
+(Black transition)
 (Background change)
 Junior High School Ena (Ena): Hey, Dad.
 Junior High School Ena (Ena): I want to go to a school with a fine arts program but can't decide between these two. They both sound really great but...
@@ -50,18 +48,16 @@ Junior High School Ena (Ena): You have no right to decide that...!
 Junior High School Ena (Ena): It's my future, so stay out of it!!
 Dad: ...
 Junior High School Ena (Ena): I get that you're not gonna be of any help now...! I'll become an even greater artist than you on my own!
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000053/bg_a000053.webp)
-
-(Memory cut-out)
-
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000053/bg_a000053.webp)
+(Flashback out)
 Ena: (And I couldn't even get into the school I wanted to go to and nobody gave me a second thought...)
 Ena: (The people listening to N25, the judges form the contest, even him...)
 Ena: (I have no talent. I knew that even before I sent in my submission to that contest.)
 Ena: (But the others... They said they need my art...)
 Ena: (Which is why I can't give up just yet.)
 Ena: (Kanade made that song for me, so I have to do everything I can in return...!)
-(Black cut)
+(Black transition)
 (Background change)
 Ena: It's finished...
 Ena: It blew up into a huge piece and... Wait, it's night already? No wonder I'm tired...
@@ -100,7 +96,7 @@ Ena: <...!>
 Ena: <Y-You understand what I was trying to draw...?>
 (Background change)
 Kanade: <Hehe.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -108,7 +104,7 @@ Kanade: <Hehe.>
 Ena: Yawn... Huh? It's morning already? I guess I passed out from exhaustion.
 Ena: Wait, I almost forgot... I need to apologize to Akito.
 Ena: He should still be home so...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -128,10 +124,10 @@ Akito: He isn't trying to be mean or anything. He was worried about you, but not
 Akito: I don't like how he said what he did either, so Ena...
 Ena: Sorry, I'm heading back to my room now...
 Akito: Sigh... I guess things won't go that easy, huh?
-(Black cut)
+(Black transition)
 Ena: (He's worried about me...?)
 Ena: (He's saying this now? Honestly, the nerve on that...)
-(Black cut)
+(Black transition)
 (Background change)
 Dad: ...
 Ena: Hey! Who said you could look at my art?! Give it back...!
@@ -147,4 +143,4 @@ Ena: What was that?! And that jab at the end!
 Ena: But now that he mentioned it, the colors do seem sort of unbalanced...
 Ena: It's not like I'm sending this in anywhere but...
 Ena: I guess I can touch it up a little more.
-(White cut)
+(White transition)

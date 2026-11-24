@@ -12,15 +12,11 @@ Miku (VBS): <Are you feeling excited right now, Kohane?>
 Kohane: Huh?
 Miku (VBS): <What's your heart telling you? Is it beating the same way it did that day?>
 Kohane: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (The way it raced that day...)
 Kohane: Yeah, it is beating really hard.
@@ -30,8 +26,8 @@ Kohane: And what I want is taking a back seat to that.
 Kohane: Which isn't good, right? After figuring out what it is I really want to do.
 Miku (VBS): <There's nothing you can do about that. After all, this place is a whirlpool of emotions. It's easy to lose sight of what you're feeling.>
 Miku (VBS): <But, just try to remember.>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000327/bg_s000327.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000327/bg_s000327.webp)
 Miku (VBS): <Right now, Kohane, you're in front of a big wall that's standing between you and a brand-new world.>
 Miku (VBS): <There's no telling what's waiting for you on the other side. Nobody knows.>
 Kohane: Nobody...
@@ -42,7 +38,7 @@ Kohane: With everyone from Vivid BAD SQUAD. With all of the friends who've been 
 Miku (VBS): <Hehe. There's more to it than that though, isn't there?>
 Kohane: Huh?
 Miku (VBS): <Don't worry. You'll realize when you're on the stage.>
-(White cut)
+(White transition)
 (Background change)
 Kohane: Okay!
 Miku (VBS): <Looks like you're up soon.>
@@ -61,11 +57,11 @@ MEIKO (VBS): <We're looking forward to hearing the best performance you've ever 
 An: KAITO, Rin, MEIKO...
 Miku (VBS): <Let's go see what's waiting for us in the new world. Together.>
 Kohane, An, Akito & Toya: Yeah! Okay! Yes!
-(White cut)
+(White transition)
 (Background change)
 Arata: Alright, last but not least! It's Vivid BAD SQUAD!!
 Arata: It's time to surpass that legendary night!!
-(White cut)
+(White transition)
 (Background change)
 Audience: There they are! Vivid BAD SQUAD!
 Audience: Give us the best finale ever!!
@@ -143,15 +139,11 @@ Kohane: (Shinonome and Aoyagi are leading the way.)
 An: ♪——————————————————————~~~!!
 Kohane: (And An's raising the temperature even higher.)
 Kohane: (They're setting the stage perfectly for me.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (It's time for us to see what's waiting for us beyond RAD WEEKEND!!)
 Akito: (Let's go, Kohane!)
@@ -184,32 +176,24 @@ Kohane: (So, everyone, let's go... Actually, no. You're coming with me whether y
 Kohane: (Wow... I didn't realize how self-centered I really was...)
 Kohane: (I'm going to take this entire neighborhood with me.)
 Kohane: (Taking that first step is always scary...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (We get to experience a brand-new world.)
 Kohane: (I mean, just think about it...)
@@ -226,33 +210,25 @@ Ken: (The resolve to carry on a legacy.)
 Ken: (The determination to surpass that night.)
 Ken: (Those mean absolutely everything.)
 Ken: (But that night... That place... There was something much simpler at work.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: Let's just try to have fun today, alright?
 Nagi: And make this an unforgettable day.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ken: (What it boiled down to was this.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ken: (When we were kids, we spent entire weekends at COL singing until we dropped. We weren't weighed down by having to think about record companies, our target audience or anything else.)
 Ken: (We sang the way we wanted like there was no tomorrow. Haha. Pretty simple when you lay it out like that.)
 Ken: (We just did what we wanted to...!!)
-(White cut)
+(White transition)
 Ken, Nagi & Taiga: ♪————~~!! ♪————~~~~!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ken: (We just wanted to have fun.)
 Ken: (You remind us of that, Kohane. You remind everyone of that.)
@@ -296,8 +272,8 @@ An: It's okay.
 An: You did an amazing job.
 Kohane: Thanks...
 An: Look at the audience, Kohane.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000326/bg_s000326.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000326/bg_s000326.webp)
 Kohane: Oh...
 Kohane: What an incredible view...
 Akito: Yeah...
@@ -306,7 +282,7 @@ Toya: Everyone's going wild...
 Kohane: Yeah...
 Kohane: (It's so pretty, and...)
 Kohane: So exhilarating.
-(White cut)
+(White transition)
 (Background change)
 Audience: You guys were awesome!!!
 Record Shop Owner: Incredible...! An, all of you, you were absolutely incredible!!!
@@ -331,4 +307,4 @@ An: But so are you guys! You all did such an amazing job today!
 Akito: Yeah, I agree.
 Kohane: Thank you all so much...!!
 Kohane: Thank you for everything!!
-(Black cut)
+(Black transition)

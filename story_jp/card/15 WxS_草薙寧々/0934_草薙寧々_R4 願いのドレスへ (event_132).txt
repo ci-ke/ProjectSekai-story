@@ -25,7 +25,7 @@ Gacha phrase: わ、わたし……ドレスに……！？
 寧々: 『劇団フェルンベー　傑作選』……！？
 寧々: な……
 寧々: なんで今、再販されるのーーーっ！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -66,7 +66,7 @@ Gacha phrase: わ、わたし……ドレスに……！？
 えむ: そうなんだ♪　そのショーのキャストさんを 募集してるってお兄ちゃんが言ってたから、 寧々ちゃんどうかなって！
 寧々: ……ありかも。 ねえ、えむ。その話もうちょっと聞いてもいい？
 えむ: いいよー☆
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -95,19 +95,15 @@ Gacha phrase: わ、わたし……ドレスに……！？
 寧々: わたしから、ですか？
 野崎: ええ。お友達から渡してもらったほうが 喜んでもらえるんじゃないかと思って
 寧々: （友達……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 みのり: それじゃあ——わたし達も着替えて帰ろうか！
 寧々: あ……えっと、一緒に……？ わたし、多分片づけとかあるかもしれないけど……
 みのり: うん、待ってるよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: ——野崎さん。 花里さんの写真とミニアルバム、預からせてください
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -144,4 +140,4 @@ Gacha phrase: わ、わたし……ドレスに……！？
 寧々: ふふっ。そんなに一気に答えられないよ
 みのり: あっ、そうだよね！ ごめん、つい……
 寧々: ううん、気にしないで。 じゃあまず、どんな劇団だったか話すね
-(Black cut)
+(Black transition)

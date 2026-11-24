@@ -12,15 +12,11 @@
 こはね: え？
 ミク (VBS): 『あの日みたいなドキドキは、今、胸の中にある？』
 こはね: ……あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの日の、ドキドキ……）
 こはね: …………ドキドキは、してると思う
@@ -30,8 +26,8 @@
 こはね: 駄目だね。 せっかく私の想いを見つけられたのに
 ミク (VBS): 『仕方ないよ。 ここは想いが渦巻く場所だから、 見失いかける時もある』
 ミク (VBS): 『でも——思い出して』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000327/bg_s000327.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000327/bg_s000327.webp)
 ミク (VBS): 『こはねは今、新しい世界につながる大きな壁の前に立ってる』
 ミク (VBS): 『その向こうに何があるかはわからない。 まだ誰も知らない』
 こはね: 誰も——
@@ -42,7 +38,7 @@
 ミク (VBS): 『ふふっ。 それだけじゃないんじゃない？』
 こはね: え？
 ミク (VBS): 『大丈夫。あとはきっと——ステージでわかるから』
-(White cut)
+(White transition)
 (Background change)
 こはね: ——うん！
 ミク (VBS): 『……そろそろ出番みたいだね』
@@ -61,11 +57,11 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 杏: カイトさん、リンちゃん、メイコさん……
 ミク (VBS): 『——一緒に新しい世界を、見に行こう』
 こはね・杏・彰人・冬弥: 『うん！』 『おう！』 『ああ！』
-(White cut)
+(White transition)
 (Background change)
 新: さあ、最後は——Vivid BAD SQUADだ！！
 新: 伝説を超える時が——来るぞ！！
-(White cut)
+(White transition)
 (Background change)
 観客達: 来たな！　Vivid BAD SQUAD！
 観客達: 最高のラストにしてくれ！！
@@ -143,15 +139,11 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 杏: ♪——————————————————————～～～っ！！
 こはね: （杏ちゃんが押し上げてくれる）
 こはね: （私を高い所に、飛ばせてくれる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （RAD WEEKENDの————その向こうに！！）
 こはね: ♪——————————————————————————！！
@@ -181,32 +173,24 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 こはね: （……そっか。私って、こんなにわがままだったんだな）
 こはね: （——この街ごと連れて行こう）
 こはね: （最初の一歩を踏み出すのは怖いかもしれない——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （新しい世界に出会える）
 こはね: （その方がきっと——）
@@ -223,33 +207,25 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 謙: （超える決意）
 謙: （全て、かけがえのない大切なものだ）
 謙: （だが——あの日あの場所には、 もっと単純なもんがあった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ねえ、今日は、思いっきり楽しもうよ
 凪: それで——忘れられない日にしよう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: （あの日、もうひとつあったもんは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: （昔——週末COLでバカみたいに歌ってたオレらは、 レーベルとか、誰に届けるとか、そんな荷物はひとつもなかった）
 謙: （オレ達の音楽を、思うまま、必死で歌ってた。 ……はは、結局むき出しになりゃシンプルだ）
 謙: （オレ達はただ——これがやりてえだけだ……！！）
-(White cut)
+(White transition)
 謙・凪・大河: 『♪————～～！！　♪————～～～～！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: （ただの——楽しさだ）
 謙: （嬢ちゃんの想いは、それを思い出させる。 あらゆる連中に）
@@ -293,8 +269,8 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 杏: ——お疲れさま、こはね
 こはね: ……うん……
 杏: ——見て、こはね。客席のほう
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
 こはね: あ……
 こはね: すごい、景色……
 彰人: …………ああ
@@ -303,7 +279,7 @@ MEIKO (VBS): 『みんなの、最高の歌を聴かせてちょうだい。 期
 こはね: …………うん
 こはね: （すっごく綺麗で……）
 こはね: ドキドキする——
-(White cut)
+(White transition)
 (Background change)
 観客達: お前ら——！！　最高だったぞ——！！
 レコード屋の店主: 本当に……！ 本当によかったぞ！　杏ちゃん達～！！
@@ -328,4 +304,4 @@ COLオーナー: ……凪も、きっとどっかで見てるだろうね。 �
 彰人: ……ああ、そうだな
 こはね: ……みんな、ありがとう……！！
 こはね: 今日まで本当に——ありがとう！！
-(Black cut)
+(Black transition)

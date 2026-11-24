@@ -19,7 +19,7 @@ street_01_05 ストリートのセカイ
 杏: オッケー！　 誘ってくれてありがとね、彰人
 彰人: どういたしまして。 同じイベントに出るのは初めてだし、楽しみだな
 冬弥: ………………
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -42,26 +42,22 @@ street_01_05 ストリートのセカイ
 彰人: じゃあお前はあのチビが本気に見えたのかよ
 彰人: 『音楽の授業くらいでしか』だぞ？ そんなぬるいヤツには『RAD WEEKEND』を 口にする資格すらねえ
 彰人: あの夜を超えるってことは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: ♪　――！　――！　――！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000013/bg_a000013.webp)
-
-(Memory cut-out)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000013/bg_a000013.webp)
+(Flashback out)
 彰人: ……半端な覚悟で言っていいことじゃない
 彰人: だからあいつらは、オレ達の歌でぶっ潰す
 冬弥: …………
-(Black cut)
+(Black transition)
 (Background change)
 (Place: WEEKEND GARAGE)
 杏: よーし！　イベントに出ることになったわけだし、 まずは急いで歌う曲決めよっか！
 こはね: ……うん！　そうだね！
-(Black cut)
+(Black transition)
 こはね・杏: 『♪　――！』
 杏: いい感じ！　難しい曲でも問題なく歌えそうだね。 やっぱり、こはねはすごいよ！
 こはね: そ、そんな……
@@ -94,4 +90,4 @@ street_01_05 ストリートのセカイ
 杏: すみませーん！　誰かいますか？
 ？？？: いらっしゃい。……ああ、キミ達か。 やっと来てくれたんだね
 こはね: え……ミクちゃん！？
-(Black cut)
+(Black transition)

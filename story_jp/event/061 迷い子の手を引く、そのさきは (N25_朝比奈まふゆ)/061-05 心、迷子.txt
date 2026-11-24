@@ -11,14 +11,14 @@
 まふゆ: あ、終わったら自己採点して帰ってくるから、 少し遅くなるかも。 帰る時にまた連絡するね
 まふゆの母親: わかったわ、気をつけて行ってくるのよ。 頑張ってね
 まふゆ: ——ありがとう。いってきます
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
 
 まふゆ: 模試会場は……あっち、だっけ
 まふゆ: ……。 …………行かなきゃ
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -29,28 +29,20 @@
 まふゆ: （——でも……）
 まふゆ: （……胸が、冷たい……）
 まふゆ: （お母さんが喜んでくれるのに、どうして……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母親: お母さん、今度の結果も楽しみにしてるわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （——期待に、応えないと）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: でも——、 本当にそう思ってるのなら、ここには来てないんじゃないの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （…………期待に——……）
 まふゆ: ……メッセージ。誰から……
@@ -62,40 +54,32 @@
 まふゆ: （……体の内側がぐるぐるしてるみたいで、 すごく気持ち悪い。それに息苦しい……）
 まふゆ: （でも……早く、行かないと）
 まふゆ: （模試を受けないと、お母さんが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母親: まふゆが、本当にやりたいことをしなさい。 でも——
 まふゆの母親: ……後悔、しないようにね？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: っ…………
 まふゆ: ——私、は……
 まふゆ: あ……、誰……？
 瑞希: 『やっほー！　まふゆ、もうすぐ模試かな？ ボク達は今フェニランに集合したところ！』
 瑞希: 『行けないって言ってたけど、自己採点とか全部済んで、 早く終わったら、いつでも来ていいからね！』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ………………行かなきゃ
-(Black cut)
+(Black transition)
 (Background change)
 スタッフ: 学生１枚ですね
 まふゆ: …………はい
 スタッフ: ありがとうございます。 では、フェニックスワンダーランドをお楽しみください！
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -134,4 +118,4 @@
 瑞希: よっし、決まり！ じゃあみんな、行こっか！
 瑞希: ミク達も、フェニランって初めてでしょ？ 一緒に回ろうよ
 ミク (N25): 『うん』
-(Black cut)
+(Black transition)

@@ -23,7 +23,7 @@ Chairman: Of course. The Otori children have always been a studious and hardwork
 Chairman: So, I couldn't feel more honored that you chose Morinomiya as your place of study.
 Chairman: Now... You're here to discuss the Kikyogumi matter today, yes?
 Byakkomachi: Yes. First, we ask that you take a look at this.
-(Black cut)
+(Black transition)
 Chairman: Hmm...
 Chairman: Did you put this together with Emu here, Suzu?
 Byakkomachi: Yes. Otori came up with the base idea, and we worked out the details together.
@@ -52,21 +52,17 @@ Chairman: ...
 Chairman: Good. I'll be looking forward to your presentation.
 Emu: (We're going to present our idea to the board...)
 Emu: (We have to explain our idea to them and convince them that it's a good one.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kijima: Have you ever encountered situations where you had trouble conveying what you were thinking or feeling to someone else?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: (Just trying my absolute best won't be enough...)
 Emu: (So...)
 Emu: (I have to practice communicating my ideas!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Otori Household - Living Room]
@@ -90,4 +86,4 @@ Shosuke: We'll teach you everything you need to know, and you'll be giving prese
 Emu: Really...?
 Keisuke: Yes. So, let's get started.
 Emu: Okay! Thanks, you guys!
-(Black cut)
+(Black transition)

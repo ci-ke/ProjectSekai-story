@@ -46,23 +46,17 @@
 えむ: （きっと……もっと広い世界に行って——）
 えむ: （……もうすぐ、みんなとお別れになるかもなんだよね）
 えむ: （やっぱり……寂しいな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: ——ねえ、えむちゃん。 悲しい時は、笑顔でなくたっていいんだよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……レンくんは、ああ言ってくれたけど……）
 えむ: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: ——た、たしかに、みんなが夢を追いかけたら、 いつか離れ離れになるかもしれない……
 寧々: わたしも、その時のことを考えるとすごく寂しくて…… 胸がぎゅっとなるよ。でも……
@@ -70,15 +64,13 @@
 えむ: 寧々ちゃん……
 寧々: だから……だから……っ！
 寧々: だから……わたし、その時はみんなで 『よかったね』って笑いあいたい……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……やっぱりあたしは、 ちゃんと笑顔でバイバイしたい）
 えむ: （『よかった！　みんな、がんばってね！』って）
 えむ: （だから——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーステージ]
@@ -115,17 +107,13 @@
 司: あとは、そうだな……。 個人で短期のワークショップ程度なら参加できるが……
 司: 長期のものや、今回のような合同公演は難しいな。 ……どうしてもこちらの公演と重なってしまう
 司: だが……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: やはり、もっと…………
 えむ: …………
@@ -137,30 +125,22 @@
 司: そうだな。日々の鍛錬は欠かせん！ この件はまた日を改めて、考えるとしよう！
 えむ: うんっ！！
 類: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: えむくんは、もしもふたりが ワンダーステージを出たいと言ったら…… ついていこうとは思わないのかい？
 えむ: 思わないよ
 えむ: だって、あたしの夢は おじいちゃんの遊園地を守ることだから
 えむ: 守って……笑顔でいっぱいにすることだから！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （……えむくんはもう、覚悟を決めている）
 類: （けれど——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 類: 僕はやっぱり——諦めきれないんだ
 類: ……すまない、みんな。 少しいいかな？
 司: ん？　どうした類
@@ -168,4 +148,4 @@
 寧々: そうなの？　それは別にいいけど……予定？
 類: ああ
 類: ——とても大事な用事があるんだ
-(Black cut)
+(Black transition)

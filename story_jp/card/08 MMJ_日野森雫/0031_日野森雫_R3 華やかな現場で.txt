@@ -41,7 +41,7 @@ Gacha phrase: このお仕事は楽しいわ。でも……
 みのり: いえ、お仕事頑張ってくださいね、日野森先輩！
 愛莉: ……しっかりやりなさいよ、雫
 雫: ……ええ。それじゃあまた明日
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -57,7 +57,7 @@ Gacha phrase: このお仕事は楽しいわ。でも……
 雫: （でも、見た目の話ばかり……）
 雫: （それもアイドルには必要なことだってわかってる。 でも……）
 雫: 私がなりたいアイドルは……
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宮益坂女子学園　屋上)
 みのり: ワン、ツー、スリー、フォー……
@@ -70,7 +70,7 @@ Gacha phrase: このお仕事は楽しいわ。でも……
 雫: …………
 雫: （でも、なんでかしら。 みのりちゃんを見ていると……やっぱり、応援したくなる）
 雫: ふふ。今日も頑張りましょうね、みのりちゃん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,7 +89,7 @@ Gacha phrase: このお仕事は楽しいわ。でも……
 雫: 夢中になると、時間って過ぎるのが早いわね……
 遥: 今日はここまでにして、そろそろ帰る準備をしましょうか
 みのり: はーい
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -120,7 +120,7 @@ Gacha phrase: このお仕事は楽しいわ。でも……
 みのり: 雫ちゃんは、こうありたいって思える アイドル像はあるの？
 雫: 私？
 雫: 私のなりたいアイドル像は……
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宮益坂女子学園)
 雫: ……今日の練習内容、どうしようかしら
@@ -145,15 +145,11 @@ Gacha phrase: このお仕事は楽しいわ。でも……
 まふゆ: ……そっか、色々あったんだね。日野森さんにも
 雫: でも、今はもう大丈夫
 雫: 私のなりたいアイドル像は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: もう、見失わないわ
-(Black cut)
+(Black transition)

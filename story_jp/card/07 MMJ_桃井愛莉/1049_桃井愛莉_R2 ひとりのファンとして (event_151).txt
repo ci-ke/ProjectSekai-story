@@ -15,15 +15,11 @@ Skill name: わたし達だけの秘密
 レン (MMJ): ——愛莉ちゃん！　いらっしゃい
 MEIKO (MMJ): 雫ちゃんの様子を見に行っていたのよね。 ……どうだった？
 愛莉: そうね、真剣にがんばってたわよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: ……今日も、かなり集中してたわ。 見てるだけで、肌がピリピリしてきて——
 愛莉: ……あの空気、やっぱりちょっと懐かしいわね
@@ -56,7 +52,7 @@ MEIKO (MMJ): こんな風に想ってくれているファンがいて、 雫ち
 愛莉: ちょっと、絶対言わないでよ！？
 愛莉: と、とにかく、こっちも早く練習始めましょ！ レンとメイコにもつきあってもらうからね
 MEIKO (MMJ): ふふっ、はーい！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,10 +94,8 @@ MEIKO (MMJ): あのまなざしには勝てないって、愛莉ちゃんなら�
 愛莉: いいから。あれはふたりだけの秘密よ！
 雫: 私達だけの……ふふ、そうね
 愛莉: （……危なかったわ。あの話までされたら——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: はい、これ差し入れのおにぎりよ
 雫: わ……ありがとう、愛莉ちゃん！ ちょうどお腹がすいてたんだ
@@ -120,14 +114,12 @@ MEIKO (MMJ): あのまなざしには勝てないって、愛莉ちゃんなら�
 雫: ……うん！　ありがとう
 雫: MORE MORE JUMP！のためにも、 撮影、絶対に成功させてみせる
 愛莉: ええ。信じてるわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (MMJ): ねえねえ、雫ちゃん？ 何があったのか教えて！
 MEIKO (MMJ): 秘密って言われると、もっと気になっちゃうわ
 愛莉: だめったらだめよ！
 愛莉: ほら、今日は練習するために集まったんでしょ？ とっておきのあざとかわいいフリ、教えてほしいんじゃなかった？
 リン (MMJ): あ、そうだった！ よろしくお願いします、愛莉先生！
-(Black cut)
+(Black transition)

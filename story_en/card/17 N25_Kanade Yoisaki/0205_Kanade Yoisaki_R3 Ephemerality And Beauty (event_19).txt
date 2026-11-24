@@ -26,14 +26,14 @@ Ena: <But there's still a bunch of time until our deadline, so you don't need to
 Kanade: <Right...>
 (Background change)
 Kanade: *Sigh*...
-(Black cut)
+(Black transition)
 Kanade: Oh...
 Kanade: No, that won't work. This won't reach anyone. I need to dig deeper, it needs to be stronger...
 Kanade: *Sigh*... Still nothing. I was hoping to have a demo track done today...
 Kanade: Oh, right...!
 Kanade: Logic trees, brainstorming, more efficient ways of coming up with ideas...
 Kanade: But this won't help me now... How about...?
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Not this... This either...! Next is...
 Kanade: I'm starting to get hungry... Wait, I just had dinner...
@@ -47,7 +47,7 @@ Kanade: M-Ms. Mochizuki, be right there!
 Kanade: Oww...! My foot... Argh...!
 Kanade: (My sheet music's all over the floor now...)
 Kanade: *Sigh*...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -69,7 +69,7 @@ Kanade: Thank you for coming today, Ms. Mochizuki.
 Honami: Thank you too. I'll see you again next week.
 Kanade: (Cleaning the air conditioner... I've never even thought about doing that...)
 Kanade: But I need to work on my song first...
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: ...
 Kanade: No, I'm still hitting a wall. I can't think of a good melody...
@@ -78,7 +78,7 @@ Kanade: ...
 Kanade: Oh, what if I went to SEKAI...?
 Kanade: (I should tell everyone that's where I'll be...)
 Kanade: Okay, let's go...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -189,4 +189,4 @@ Mizuki: <What are you talking about?>
 Mafuyu: <Oh, K just...>
 (Background change)
 Kanade: <N-No, Yuki! Please don't say...!>
-(Black cut)
+(Black transition)

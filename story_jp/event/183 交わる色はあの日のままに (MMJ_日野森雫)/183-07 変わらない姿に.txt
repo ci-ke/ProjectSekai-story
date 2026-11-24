@@ -43,18 +43,14 @@
 アリサ: （……アンタに、借りを作るなんてね）
 アリサ: （まあ、雫は気にしないだろうけど）
 アリサ: （何の見返りもなく助けに来て。 そういうとこ——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 アリサ: （…………変わらないな）
-(White cut)
+(White transition)
 (Background change)
 
 [数年前]
@@ -87,12 +83,12 @@
 雫: みんなの期待に……
 雫: ……わかりました。 精一杯頑張ります
 アリサ: …………
-(Black cut)
+(Black transition)
 (Background change)
 アリサ: （絶対に、このチャンスを掴んでみせる！）
 アリサ: （３期のトップになって、選抜入りして、 そしていつか……）
 アリサ: （Cheerful＊Daysのセンターに——！）
-(Black cut)
+(Black transition)
 アリサ: ふぅ……もうこんな時間か
 アリサ: 明日早いし、いい加減帰らないとな……あれ？
 アリサ: ……雫……
@@ -101,7 +97,7 @@
 雫: あっ……ええ。 まだ全然踊れてないから
 アリサ: 頑張るのはいいけど、もう遅いんだから 無理しすぎないでね！
 雫: ありがとう。 私も、もうちょっとしたら帰るわ
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -111,7 +107,7 @@
 アリサ: 雫、今朝も早く来て自主練してたのに……
 アリサ: …………
 アリサ: ……私も、もう少しやってこっかな
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -126,7 +122,7 @@
 アリサ: ま、ダブルセンターなんだから、 雫にもちゃんとしてもらわなきゃ困るしね
 アリサ: やるからには、一緒に最高のステージにしよ！
 雫: ……！　ええ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数週間後]
@@ -139,19 +135,15 @@
 アリサ: ——さすが雫だね
 アリサ: 私も、もっと頑張らないと
 雫: あ……
-(Black cut)
+(Black transition)
 (Background change)
 アリサ: （……私、何やってんだろ）
 アリサ: （もっと自分に集中してれば……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 アリサ: （……いや……）
 アリサ: （……本当は、わかってる）
@@ -184,7 +176,7 @@
 雫: えっ？　それは、えっと……
 アリサ: ふふ、冗談だって
 アリサ: 今日はとことん、つきあってもらうからね！
-(White cut)
+(White transition)
 (Background change)
 アリサ: （あの頃からずっと、ムカつくくらいまっすぐだった）
 アリサ: （でも……そういうところに——）
@@ -198,19 +190,19 @@
 アリサ: ……ホント、言うようになったね
 アリサ: それで——サビ前だっけ？ 合わせるよ
 雫: ええ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000502/bg_s000502.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000502/bg_s000502.webp)
 アリサ: ——１、２、３、４！
 雫・アリサ: 『——♪！　——♪！』
 真理奈: わ……あのふたり、息ぴったりですね！
 メンバーA: …………そうだね
 メンバーA: ほら真理奈、よそ見してないで私達もやるよ！
 真理奈: あ、はいー！
-(White cut)
+(White transition)
 (Background change)
 (Background change)
 MEIKO (MMJ): （——よかったわね、雫ちゃん）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　本番前]
@@ -229,4 +221,4 @@ MEIKO (MMJ): （——よかったわね、雫ちゃん）
 愛莉: そっちこそ、コケるんじゃないわよ
 雫: ふふ。それじゃあ——
 雫: 一緒に、最高のライブをしにいきましょう！
-(Black cut)
+(Black transition)

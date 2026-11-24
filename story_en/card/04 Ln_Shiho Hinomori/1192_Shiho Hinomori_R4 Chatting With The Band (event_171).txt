@@ -25,7 +25,7 @@ Shiho: I am.
 Saki: Me too!
 Ichika: I may have to attend a committee meeting.
 Shiho: Okay. Then, let's have lunch together if we all can.
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: Which should I get...?
 Ichika: Oh, there you two are. Buying from the school store today?
@@ -35,7 +35,7 @@ Honami: So, were you two about to eat? How do you feel about us having lunch tog
 Saki: Yeah, let's do it! We should since we can!
 Ichika: I'm glad you said that...! I'll buy my food right away.
 Ichika: Alright, let's see... Three yakisoba buns, please.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rehearsal Studio]
@@ -48,7 +48,7 @@ Shiho: Not exactly...
 Shiho: I played this song a lot during the breaks I took from studying, so I know it all by heart.
 Shiho: Although, those breaks did sometimes end up lasting for an hour.
 Ichika: Hehe. I know what you mean. Anyway, we need to get going in a bit, so why don't we call our next one our last?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -83,7 +83,7 @@ Shiho: But I have to think about it first. I mean, we're all really busy, so we 
 Saki: Woohoo! Let us know when you think we can go, Shiho!
 Ichika: Hehe. It's pretty easy to get you to change your mind when we really try.
 Shiho: Quit saying stuff like that. Anyway, we gotta eat our parfaits before they melt.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -128,17 +128,13 @@ MEIKO (Ln): No, you didn't.
 MEIKO (Ln): You care so much about Leo/need...
 MEIKO (Ln): About Ichika and the others.
 Shiho: I mean...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: Because we clearly wanted to be with each other regardless of where we were or what we were doing...
 Honami: I don't think that's ever going to change for us.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: I mean, we are bandmates...
 MEIKO (Ln): Also, I'm impressed by your drive. It's amazing how you're trying to put what you experienced during that dream into practice.
@@ -154,4 +150,4 @@ MEIKO (Ln): That sounds fun. Why don't I take the drums?
 Shiho: Thank you both.
 MEIKO (Ln): Then, let's give it a try. I'll count us in.
 Shiho & KAITO: Okay! Okay...
-(Black cut)
+(Black transition)

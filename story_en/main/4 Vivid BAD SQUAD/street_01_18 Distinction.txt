@@ -2,16 +2,14 @@ street_01_18 Distinction
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya's Father: Toya, where have you been?
 Little Toya (Toya): Huh? I was out playing with a friend.
 Toya's Father: Stop wasting your time on such trivial things. Now go get ready. You're going to practice late again today.
 Little Toya (Toya): Okay...
-(Black cut)
+(Black transition)
 (Background change)
 Toya's Father: No. Do it again.
 Little Toya (Toya): Sorry...
@@ -19,17 +17,15 @@ Toya's Father: Again.
 Little Toya (Toya): But my fingers are tired...
 Toya's Father: Doesn't matter. You're not stopping until you can play it.
 Little Toya (Toya): Okay...
-(Black cut)
+(Black transition)
 Little Toya (Toya): Mom?
 Little Toya (Toya): Why am I not allowed to go play with my friends? Why do I have to practice piano and violin even on the weekends?
 Toya's Mother: You're actually very lucky, Toya. There aren't many people who are able to take private lessons on a daily basis from a top class musician like your father.
 Toya's Mother: He taught your brothers as well, and they've all been getting top marks in their competitions.
 Toya's Mother: Your father turned down an offer from overseas so he could stay here and teach you, you know. You have to work extra hard to thank him.
 Little Toya (Toya): .....
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Place: Weekend Garage)
 Toya: Before I realized it, I started hating everything about music.
@@ -38,21 +34,17 @@ Toya: And to get back at my dad, I quit playing both the piano and the violin.
 Toya: To be honest, I would have been fine with anything, as long as he was against it.
 Toya: The only reason I started playing non-classical music here was because I thought it would be the best way to make him angry. It was childish of me.
 Toya: But Akito, he...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: Now I'm really interested. Hey, how would you like to try singing together?
-(White cut)
+(White transition)
 (Background change)
 Akito: This is Ken. He's one of the guys who helped organize RAD WEEKEND!
-(White cut)
+(White transition)
 Akito: One of these days we're going to put on an event as amazing as that one, Toya!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Toya: He taught me all about this town and how to enjoy music again. He even...shared his dream with me.
 Toya: Akito was my first true friend.
 Toya: But he's always got his sights set straight ahead...
@@ -80,4 +72,4 @@ An's Father: I think this is my cue to make myself scarce. An, would you keep an
 An: What? Dad?
 Akito: .....
 Toya: .....
-(Black cut)
+(Black transition)

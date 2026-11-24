@@ -3,7 +3,7 @@
 (Character: 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
 (Video: link2_ppr_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -33,15 +33,11 @@
 ルカ (VBS): えっ！？　なんでなんでなんで！？ どうして私がふたりも……
 ルカ (MMJ): もうひとりの、私……
 ルカ (MMJ): （このセカイに、違うセカイの私がいるなんて 本来はありえないことだけれど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (MMJ): （……前に、想いの欠片のセカイへ飛ばされた時 違うセカイの私と出会ったわ）
 ルカ (MMJ): （あの時のように、なにか不思議な力が働いたのなら——）
@@ -79,7 +75,7 @@
 KAITO (MMJ): えっ？　あそこにいるのって……
 ルカ (VBS): お、やっほー！ こっちのセカイのみんな♪
 リン・KAITO・MEIKO: 『ええ～～～～！？』
-(Black cut)
+(Black transition)
 KAITO (MMJ): じゃあ、えっと…… 君は他のセカイから来たルカちゃんってこと？
 ルカ (VBS): そうだよ～。 ていうか、ルカちゃんって呼ばれるのくすぐったいなあ
 ルカ (VBS): 普通にルカって呼んでいいよ？ 私、そんなガラじゃないしさ
@@ -110,4 +106,4 @@ KAITO (MMJ): そうみたいだね。 ルカちゃんのこと、みんなに紹
 MEIKO (MMJ): ええ、行きましょう！
 ルカ (VBS): あ！　ちょっと待って！
 ルカ (VBS): せっかくだから—— 最高の挨拶がしたいんだ！
-(Black cut)
+(Black transition)

@@ -21,25 +21,21 @@ Gacha phrase: あ……どうも。宵崎奏です
 (Background change)
 奏: ふぅ……。 無事にアップできてよかった
 奏: それに今回の曲は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……うまく、言えないけど……
 まふゆ: よかった、と思う
-(White cut)
+(White transition)
 まふゆ: 少し——あたたかかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: たくさんの人に、聴いてもらえるといいな……
 奏: ……ふぁ
 奏: 今日は、ちゃんとベッドで寝ようかな
-(Black cut)
+(Black transition)
 (Background change)
 奏: ん……。 あれ、もう朝……？
 奏: ……そうだ、病院
@@ -59,7 +55,7 @@ Gacha phrase: あ……どうも。宵崎奏です
 奏: よかった……
 奏: （まふゆに少しだけ届いたみたいに、 聴いてくれた人達にもこの曲が届いたって、 思っていいのかな）
 奏: （そうだったら、いいな……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -74,23 +70,19 @@ Gacha phrase: あ……どうも。宵崎奏です
 奏: …………
 奏: お父さん、覚えてるかな
 奏: 小さい頃、お母さんとお父さんと一緒に、 公園でピクニックしたこと……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: あの場所がどこだったのか、 わたしは忘れちゃってたんだけど、 サークルの仲間が一緒に探してくれたの
 奏: そのおかげで、 お母さんやお父さんとの幸せな時間を思いだせたよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: それに、自分の曲を聴いて、 まふゆに笑ってほしかったんだって気づけた
 奏: そうして作った曲が、この曲だよ
 奏の父: …………
 奏: …………
-(Black cut)
+(Black transition)
 奏: 聴いてくれてありがとう、お父さん。 じゃあ、わたしはそろそろ——
 奏の父: …………
 奏: ……え？　お父さん、笑って……
@@ -102,7 +94,7 @@ Gacha phrase: あ……どうも。宵崎奏です
 奏: 誰かを……みんなを、幸せにできる曲を……
 奏の父: …………
 奏: ……またね、お父さん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -215,4 +207,4 @@ Gacha phrase: あ……どうも。宵崎奏です
 (Background change)
 奏: （わたしも、ちょっと休憩できたな）
 奏: （作業のペースもいいし、 このままラフを完成させよう）
-(Black cut)
+(Black transition)

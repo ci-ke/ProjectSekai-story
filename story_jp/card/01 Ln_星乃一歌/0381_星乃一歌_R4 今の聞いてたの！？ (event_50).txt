@@ -7,7 +7,7 @@ Gacha phrase: えっ、あ……し、志歩！？
 
 (Character: 星乃一歌, 天馬咲希, 花里みのり, 桐谷遥)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　１年Ｃ組]
@@ -46,16 +46,12 @@ Gacha phrase: えっ、あ……し、志歩！？
 遥: でも、歌いだしたらだんだん楽しくなってきて、 足を止めて、ステージのほうに寄ってきてくれる人もいて——
 遥: それが嬉しくって、いつの間にか夢中で歌って踊ってた
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ♪————！　♪————！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 自分の歌が届いてるってわかると、すごく嬉しいよね
 一歌: それに勇気もわいてきて、 どんどん気持ちが歌に乗るっていうか
@@ -73,7 +69,7 @@ Gacha phrase: えっ、あ……し、志歩！？
 咲希: うん、アタシも！ ありがとう、はるかちゃん
 遥: ふふ、私はただちょっと懐かしいなあって、 昔の話をしただけだよ
 遥: でも、そう言ってもらえるとすごく嬉しいな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -92,20 +88,16 @@ KAITO: ……ん？　志歩が、いない
 KAITO: ……なんだか、気合い入ってるね
 ミク (Ln): その気持ち、なんとなくわかるな。 志歩が中学の頃の話をしてくれたばっかりだしね
 一歌: うん。ちょっとでも、志歩の気持ちに応えたいんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: あの日の私は、どうしても諦められなかった
 志歩: みんなから離れなくちゃって思ってたのに、 みんなと一緒にいることを、どこかで諦められなかった
 志歩: そのせいでずっと苦しかったし、 また迷惑をかけちゃうんじゃないかって怖かった。 でも——
 志歩: その苦しみをちゃんと抱えて、諦めなかったから 一歌と咲希にバンドに誘ってもらえて……。 こうやって今、みんなとバンドを組めたんだと思う
 志歩: だから——音楽も、みんなのことも、 諦めなくてよかったなって思うんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: でも……バンド以外でも、何か志歩ちゃんのために できることがあるといいよね
 一歌: うん。バンドを頑張りたいっていうのは、 志歩のためっていうよりは、私達がそうしたいからだしね
@@ -129,10 +121,10 @@ KAITO: ……志歩にしてもらって嬉しかったことを、 今度は一
 ミク (Ln): 日頃、面と向かって言えないこともあるだろうし、 そういう機会に伝えるのもいいんじゃない？
 ミク (Ln): 試しに、軽くやってみたら？
 一歌: えっ、今！？
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: …………
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: ……あ。 ねえ、ミク。廊下に……
 ミク (Ln): しー……
@@ -164,4 +156,4 @@ KAITO: でも、そのあたりにしておかないと……。 入りづらさ
 志歩: じゃあ、やろうか
 一歌: うん！　ミクとカイトも、よろしく！
 ミク (Ln): もちろん！
-(Black cut)
+(Black transition)

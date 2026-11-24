@@ -23,7 +23,7 @@ Kohane: Yeah, that's perfect! As for your expression...
 Haruka: (I thought this would be tough on Aoyagi since he's never really done anything like this before, but he's really doing his best to win the others those chocolates...)
 Kohane: Haruka, can you take a look at this for me?
 Haruka: Yeah, sure.
-(Black cut)
+(Black transition)
 Haruka: Kohane, Aoyagi, thank you for keeping an eye on our things. Here, I bought us some kebabs.
 Toya: No, we should be the ones thanking you.
 Kohane: Here, Haruka, you can sit next to me.
@@ -67,19 +67,15 @@ Cat: Meow?
 Kohane: Hehe. If so, then it's a lot smarter than we thought.
 Haruka: Yeah.
 Haruka: (Hang on. Where have I seen this before?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Cat: Meow?
 Shizuku: Oh, it tilted its head. Then how about I... Meeoow?
 Haruka: *Gasp*
 Airi: S-S-Shizuku! Your tea! It's gonna get all over your clothes...!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: (Aoyagi's a lot like Shizuku.)
 Haruka: (They both seem cool and collected at first, but they can be a little clumsy.)
@@ -88,7 +84,7 @@ Cat: Meow. Meow.
 Toya: Again, we're sorry. No matter how many times you try, we can't give you any of our food.
 Haruka: I'm guessing we all feel bad about our furry friend here, so let's try to finish these as quickly as we can.
 Toya & Kohane: I agree. Okay.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -111,15 +107,11 @@ Haruka: <No, that's okay. So, what did you want to talk about?>
 An: <Valentine's Day. I heard about how you helped Kohane.>
 An: <Including how you taught Toya how to put on makeup and how to pose for a photo shoot.>
 Haruka: <Oh, that?>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: <I decided to help her a little after she told me what she was doing for you.>
 (Background change)
@@ -127,17 +119,13 @@ An: <A little? You guys placed in the top ten for that contest, right?>
 Haruka: <I don't deserve all the credit.>
 (Background change)
 Haruka: <Aoyagi and Kohane both did an amazing job...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Haruka: <When he went to put on makeup for the first time in his life, he really didn't know what to do.>
 Haruka: <But he learned really quickly after listening very carefully to my instructions.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: <Not only that, he was able to do basically all the things I told him about posing in one try.>
 Haruka: <He even started to take my advice towards the end and used it to come up with his own poses.>
@@ -159,7 +147,7 @@ Haruka: <I'd seen signs of it before, but Kohane's more of a perfectionist than 
 An: <I know, right?! Especially when it comes to photography and singing!>
 An: <She becomes good at whatever she loves doing, you know?>
 Haruka: <Yeah, I see. Also...>
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: <I think that's all I have to tell you. Satisfied?>
 (Background change)
@@ -191,4 +179,4 @@ Haruka: <Night, An.>
 (Background change)
 Haruka: (I wasn't expecting her to call me like this, but I guess she was just that happy.)
 Haruka: And it ended up being pretty fun, so I'm glad I decided to help.
-(Black cut)
+(Black transition)

@@ -13,7 +13,7 @@ An's Father: Hey, you all done practicing today?
 Kohane: Yes, and we decided to stop by.
 An's Father: Alright, the back should be open right now, so feel free to take it.
 Toya: Thank you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage Stage]
@@ -26,7 +26,7 @@ An's Father: Hahaha. Are you saying that she won't fit into her dress?
 An: Hey, there's no way I can possibly gain that much weight overnight.
 An: But I see your guys' point, I'll hold off for now... I mean, I wanna go into that shoot in the best condition possible!
 Kohane: Hehe.
-(Black cut)
+(Black transition)
 An's Father: Alright, here are the drinks you ordered. It's important to rest, but don't stay out too late, okay?
 Kohane: Okay.
 Toya: By the way, do you have to get up early tomorrow?
@@ -76,7 +76,7 @@ Akito: This Ms. Kawasaki's a professional photographer, right? I'm sure she'll f
 An: Exactly! We can just do our best and learn what we can from her while making sure not to cause too much trouble!
 Kohane: An...
 Kohane: Okay! Let's give it our best shot!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,7 +93,7 @@ Airi: Alright, Kohane, go get her! This might be your last chance ever to hug he
 Kohane: M-My last chance...?!
 Kohane: B-But... Noooo!
 An: Wah! Ko-Kohane... You're crushing me!
-(Black cut)
+(Black transition)
 Kawasaki: Everyone, let's move to our next location!
 Kohane: Okay!
 Kohane: (I was nervous at first, things went really well because of Airi and An...!)
@@ -122,17 +122,13 @@ Kohane: Hehe. I'm sure it will.
 Airi: Oh, speaking of which... There's something I've been meaning to ask...
 Airi: Kohane, you go to Miya Girls, but you and the others go to Kamiyama High, right, An? How did you all meet in the first place?
 Kohane: Oh, so...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: Wow. So you got a little lost, found the cafe An's dad runs totally by accident and that was when you two met?
 An: Yes, and I asked Kohane to sing with me after I felt this big jolt run through me when I heard her sing!
@@ -164,4 +160,4 @@ An: Deep breath... Okay! Let's pick back up where we left off!
 Kohane: Right! Let's do our best, An!
 Airi: Alright, everyone ready?
 Kohane & An: Yeah!
-(Black cut)
+(Black transition)

@@ -18,7 +18,7 @@ Toya: If you're this determined, I'm sure it'll be fine. You'll do great at our 
 Kohane: Thanks, Aoyagi.
 An: Kohane and I are this way, so we'll see you later!
 Akito: Yeah. See ya.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -31,7 +31,7 @@ An: So again, thanks for everything.
 Kohane: Same here, An! Let's do our best!
 An: I'm glad we could talk, but now I've gotta get back to the cafe. See you tomorrow, Kohane!
 Kohane: Okay! See you at practice!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -61,23 +61,19 @@ An's Father: We all had a lot of respect for each other as musicians. That was h
 An: I see. In your case, being partners didn't equal being friends.
 An's Father: Yeah. I wish we could've been friends too...
 An: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: You feel like you have to protect her... “Look after” her.
-(White cut)
+(White transition)
 (Background change)
 An: I want you to believe in us too! Because I really believe in you, Kohane!
-(White cut)
+(White transition)
 (Background change)
 Kohane: But I want nothing more than to keep singing with you, An!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 An: I think I get what you're saying, Dad...
 An's Father: Ah, good...
 An: But why mention all this now? You never talked about this stuff before...
@@ -87,7 +83,7 @@ An's Father: Give it your best, An.
 An: Yeah!
 An: (Kohane, I may still be lacking as a partner...)
 An: (But I promise that I'll become your partner in every sense of the word!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -118,18 +114,14 @@ An & Kohane: ♪――! ――! ――!
 An: ♪——!
 Kohane: ♪――! ――! ...!
 An: (Kohane's struggling to keep up...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kohane: Which is why I want to test myself. By singing with you as best I can.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 An: (I'm not gonna go easy on her!)
 An: (She needs to know I recognize her as a singer that's on the same level as me!)
-(Black cut)
+(Black transition)
 Kohane: Huff... Huff...
 Kohane: An, you're so amazing. I couldn't keep up at all. I guess I still have a long way to go.
 An: But you're gonna be just as amazing too, right?
@@ -160,4 +152,4 @@ An: Why don't we sing that song again in SEKAI?
 An: With everything we've got!
 Kohane: Sure! I'm up for that!
 An: Alright then! Let's go, partner!
-(Black cut)
+(Black transition)

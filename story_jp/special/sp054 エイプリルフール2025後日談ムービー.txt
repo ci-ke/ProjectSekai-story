@@ -18,11 +18,11 @@ sp54 エイプリルフール2025後日談ムービー (aprilfool_2025_02)
 ヴィラン達の応援: 『やっちゃえー！　ハカイスンゼー！』
 ヴィラン達の応援: 『頑張れー！』 『頑張れ！』
 ヴィラン達の応援: 『いけー！』 『そこだー！』
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 サーモンピンク (みのり): はあ、はあ……
 コードネーム【Ｅ】 (絵名): 喉、かれちゃいそうなんだけど……
@@ -58,11 +58,11 @@ sp54 エイプリルフール2025後日談ムービー (aprilfool_2025_02)
 ペガサスマンレッド (司): そんなもの——
 ヒーロー達: 『自分で！』
 ヴィラン達: 『叶える！』
-(White cut)
+(White transition)
 (Background change)
 ピーキー (リン-N25): う、まぶしい……
 ファニーハート (ルカ-MMJ): まさか、ロボちゃん達が花火に！？
-(White cut)
+(White transition)
 (Background change)
 ハカイスンゼー: イイエ。我々は、ココにイマス
 コードネーム【Ｌ】 (レン-N25): ……この光、あったかい……
@@ -70,7 +70,7 @@ sp54 エイプリルフール2025後日談ムービー (aprilfool_2025_02)
 カフェマスター (MEIKO-VBS): ええ……。みんなの願いが、叶ったんだわ
 ピコピコレインボー (ミク-WxS): …………うん！
 ピコピコレインボー (ミク-WxS): ミク達、ずっとここにいていいんだ……！
-(White cut)
+(White transition)
 (Background change)
 ミク: あれ……。 あの不思議なシブヤから、戻ってきちゃったみたいだね
 (Selection: 『あの世界はどうなる？』/『みんなは大丈夫かな？』)
@@ -78,4 +78,4 @@ sp54 エイプリルフール2025後日談ムービー (aprilfool_2025_02)
 ミク: でも、あんなに強い想いがあるんだもん
 ミク: 言葉の通り—— きっと自分達の力で、願いを叶えてくれると思うな
 ミク: ——さあ、帰ろう。 わたし達がよく知っている、あの子達のところへ！
-(White cut)
+(White transition)

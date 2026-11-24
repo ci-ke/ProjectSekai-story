@@ -5,7 +5,7 @@
 ???: ...nade! Kanade...!
 Kanade: Mm... Dad...
 ???: Kanade...!
-(White cut)
+(White transition)
 (Background change)
 Kanade: ...!
 Rin (N25): You're finally awake. Thank goodness...
@@ -26,7 +26,7 @@ Ena: The three of us were able to regain our memories after listening to your so
 Kanade: Oh...
 Kanade: Yes, I remember that.
 Kanade: In my dream...
-(Black cut)
+(Black transition)
 Miku (N25): A dream where N25 never existed...
 Mizuki: I know, right?! And I dropped out of school.
 Ena: Me too. I spent all my time drawing, all on my own...
@@ -43,17 +43,13 @@ MEIKO (N25): Along with wishes that can never be granted.
 Luka (N25): But those fragments of feelings may be even more complicated than just that.
 Luka (N25): All of those messy feelings got mixed around with each other, and made one especially messy dream.
 Kanade: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: Wishes that can never be granted...
 Ena: Yeah, that's a good way to describe that dream. I mean, there's no way things would just go that well.
@@ -83,6 +79,6 @@ Mizuki: I believe in you too, Kanade.
 Mafuyu: Me too...
 Kanade: Thank you.
 Kanade: Let's keep on making music together. Our music.
-(White cut)
+(White transition)
 (Video: link2_night_sapling)
-(Black cut)
+(Black transition)

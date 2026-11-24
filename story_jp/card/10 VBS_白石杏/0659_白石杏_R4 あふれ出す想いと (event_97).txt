@@ -23,7 +23,7 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 杏: わっ、ダメダメ！　凪さん、容赦なく恥ずかしいこととか バラしそうだもん！
 彰人: へえ？　つまり、バレちゃまずいことが いろいろあったってことだよな？
 杏: は？　ないない！　全然ないから！ ほら、早く行くよー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -35,10 +35,8 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 彰人: 言っとくが、寄り道してる時間はねえぞ
 杏: わかってるって
 杏: （……今でもたまに遊びに行くけど、 行くたびに懐かしい気持ちになるんだよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 お店のおばさん: あら、凪ちゃん、杏ちゃん。 いらっしゃい
 凪: ねえ、おじさんケガしたって本当？　大丈夫？
@@ -70,17 +68,15 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 幼い杏 (杏): もうひっかからないもんね～
 幼い杏・凪: 『……ふふっ』
 幼い杏・凪: 『あははっ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ——……杏ちゃん？
 彰人: いつまでボーっとしてんだ。置いてくぞ
 杏: ああ、ごめんごめん。 なんかいろいろ思い出しちゃって！
 冬弥: 凪さんとの思い出か？
 杏: うん。あ、聞いてよ！ 凪さんてばね——
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -96,20 +92,16 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 冬弥: それでは失礼します
 こはね: またね、杏ちゃん！
 杏: ……うん！　また！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪————————————！！
 杏: …………っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （——みんなで、這い上がらなくちゃ！）
-(Black cut)
+(Black transition)
 杏の父: ……ほれ、コーヒーはいったぞ
 杏: うん、ありがと
 杏の父: 紅茶じゃなくてよかったのか？
@@ -130,17 +122,13 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 杏の母: ええ……。ごめんね、ずっと黙っていて……
 杏: ……いいよ。 なんで黙ってたのか、父さんから聞いた
 杏: 凪さんの、想いも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ——私、信じてるんだ
 凪: 次の世代が本当にいるなら、 その中のひとりは、絶対に、絶対に杏だって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: だから……
 杏: だから、大丈夫……！
@@ -148,37 +136,29 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 杏の母: 凪ちゃんね、『杏がみんなに自慢できるような、 かっこいいお姉さんでいたい』って、よく言ってくれてたの
 杏: え……
 杏の母: 大河さんには、歳の差を考えたら娘だろって からかわれてたけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: 娘だと、ちゃんと保護者しなくちゃいけなくなるでしょ？ けど、杏とはそういうんじゃないほうがいいと思うんだよね
 凪: 友達とか仲間とか……、 あ、一緒に悪いことする兄弟分みたいな？
 凪: この街を愛する者同士、同じ場所に立って 同じ景色を見ていたいっていう気持ちもあるからさ
 凪: 杏となら、同じ景色が見られる気がするんだよね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………凪、さん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 お店のおばさん: それにしてもふたりとも仲良しだし、よく一緒にいるよねえ。 まるで姉妹みたいだよ
 凪: 姉妹って……歳離れすぎてるし、さすがに無理があるでしょ
-(White cut)
+(White transition)
 凪: つれないこと言わないでよ。 じゃんけんで私に勝ったら、倍にしてあげちゃうよ？
 幼い杏 (杏): もうひっかからないもんね～
 幼い杏・凪: 『……ふふっ』
 幼い杏・凪: 『あははっ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………っ
 杏の母: …………。 ……杏、我慢しないで？
@@ -192,28 +172,20 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 杏: …………
 杏の母: ……だから、杏。 あなたは、ちゃんと泣いてあげて？
 杏の母: その涙は、悪いものじゃない。 『大好き』っていう気持ちだもの
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: おーい！　杏ー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: うっ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い杏・凪: 『あははっ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ううっ……
 杏: ……う、うあああああん……っ！！
@@ -224,4 +196,4 @@ Gacha phrase: ……う、うええ、うああああん……っ！
 杏の父: …………
 杏の父: （思う存分泣いてやってくれ……。 オレ達の分も……）
 杏: うあああああん……っ！！
-(Black cut)
+(Black transition)

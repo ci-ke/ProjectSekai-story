@@ -12,15 +12,11 @@
 遥: （まさか今、柊さんに会うなんて……）
 遥: （——冷静になろう。感情のままに動いちゃダメだ）
 遥: （誰の目から見るかで、物事の印象は変わる。 さっきの話だって……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 テレビ局スタッフの声: 柊さんの場合は、『例の噂』もあるじゃないですか？ ほんとなら怖いし、変に波風立てたくないですねえ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: （まずは、ちゃんと確かめないといけない）
 遥: ——柊さん。ひとつ、質問してもいいですか？
 柊: ……構わないが。 随分と改まった様子だな
@@ -47,16 +43,12 @@
 遥: （どこまでが柊さんの意図だったか、 本当のところはわからないけど…… 少なくとも、嘘をついてる感じはしない）
 遥: （話を聞いて回った時、態度が不自然だった人達は—— きっと、その噂を耳にしてたんだ）
 遥: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 中野の声: MORE MORE JUMP！は すごくいいグループだと思っているし、 伸び代もあると思うけど……
 中野の声: より盤石な体制を組むなら、 ReLightを選ぶのが正しいと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: （仕事が途切れた理由は……それだけじゃない）
 遥: （私達が、ReLightを超える実力を持ってなかった……）
 遥: （だから——『選ばれなかった』んだ）
@@ -77,15 +69,11 @@
 柊: 折れて、ファンを暗闇に突き落とすようなことは、 あってはならないんだ
 柊: たとえ折れた先で再び輝けたとしても…… 輝き続けられる保証は、どこにもない
 遥: …………っ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……たしかに、そうだ）
 遥: （私は……私はあの時、一度折れて——）
@@ -98,20 +86,16 @@
 柊: ……お前達と私が目指す場所は、重なっている。 だからこそ、この先もどこかでぶつかり合うだろう
 柊: お前達の努力も、志も、否定はしない
 柊: ——ただ、決して道を譲ることもない。 それだけは伝えておく
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 柊: たとえ折れた先で再び輝けたとしても…… 輝き続けられる保証は、どこにもない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000407/bg_s000407.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000407/bg_s000407.webp)
 遥: （……何も、言葉が出なかった）
 遥: （柊さんの、言う通りだ）
 遥: （あの時、アイドルとして一度折れた私は……）
 遥: 私、は……
-(Black cut)
+(Black transition)

@@ -13,18 +13,14 @@ Gacha phrase: あとから後悔しても、知らないよ
 志歩: （まさか、スカウトされてるところを 咲希達に見られるなんて……）
 志歩: （……みんなは、 私と一緒に演奏をしたいって言ってくれた）
 志歩: （けど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: ……一緒にやりたいって思ってくれるのは嬉しい。 けど、その気持ちだけじゃ、絶対にダメになる
 志歩: プロになる覚悟ができないと、難しい
 志歩: みんなには、その覚悟ができるの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （みんな、戸惑ってた……）
 志歩: （当たり前だよね……。 プロになりたいと思っているのは、私だけ……）
@@ -52,7 +48,7 @@ Gacha phrase: あとから後悔しても、知らないよ
 志歩: お姉ちゃん……
 雫: しぃちゃん！　やっと気づいてくれたのね！
 志歩: ああ、はいはい。 ここじゃ目立つから、他の場所行くよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -74,16 +70,12 @@ Gacha phrase: あとから後悔しても、知らないよ
 志歩: …………
 雫: ねえ、しぃちゃん。前にここで話したこと覚えてる？
 志歩: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 雫: しぃちゃんも、穂波ちゃん達と ちゃんと話したほうがいいんじゃないかしら
 雫: 穂波ちゃん達なら、しぃちゃんの気持ちを 絶対、真剣に受け止めてくれるはずだから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 志歩: ……うん。覚えてる……
 志歩: 穂波達には……タイミング、あんまりよくなかったけど……。 でも、話さないといけないことは、たぶん言えた
 志歩: （そのせいで、傷つけたかもしれないけど……）
@@ -92,7 +84,7 @@ Gacha phrase: あとから後悔しても、知らないよ
 志歩: え？
 雫: 穂波ちゃん達となら、 きっとみんなが納得できる答えが、見つけられるわ
 志歩: ……そうだね。 そうだと、いいな……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,15 +94,11 @@ Gacha phrase: あとから後悔しても、知らないよ
 [スクランブル交差点]
 
 志歩: （胸の奥が、まだドキドキしてるような気がする）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの時……歌と演奏から、 一歌達の本気が伝わってきた……）
 志歩: …………
@@ -118,7 +106,7 @@ Gacha phrase: あとから後悔しても、知らないよ
 志歩: 夢じゃ、ないんだよね
 志歩: あ、そうだ……
 志歩: いろいろ心配かけちゃったし、 お姉ちゃんにも、ちゃんと報告しないとな
-(Black cut)
+(Black transition)
 (Background change)
 
 [雫の部屋]
@@ -135,7 +123,7 @@ Gacha phrase: あとから後悔しても、知らないよ
 雫: それはもちろん……あっ、でも先に目を冷やさなきゃ！ ちょっと待っててね、しぃちゃん！
 志歩: ちょっと腫れたぐらいなのに、おおげさ……
 志歩: 本当、お姉ちゃんって——
-(Black cut)
+(Black transition)
 雫: 目の腫れ、だいぶおさまったわね
 志歩: こんなの放っておけば勝手にどうにかなるのに
 志歩: ……で、そろそろ本題に入っていい？
@@ -175,4 +163,4 @@ Gacha phrase: あとから後悔しても、知らないよ
 志歩: ……心配してくれて、ありがとう
 雫: うふふ、いいのよ。 だって私は、しぃちゃんのお姉ちゃんだもの
 志歩: ……うん。そうだね
-(Black cut)
+(Black transition)

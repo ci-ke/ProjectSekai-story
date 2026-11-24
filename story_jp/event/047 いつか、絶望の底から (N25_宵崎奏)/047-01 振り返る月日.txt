@@ -39,7 +39,7 @@
 (Background change)
 まふゆ: 『……じゃあK、ここの歌詞なんだけど……』
 奏: 『うん』
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: 『——わかった。 じゃあ今言った箇所は言い回しを調整してみる』
 (Background change)
@@ -54,20 +54,16 @@
 奏: （もうそんな時期なんだな）
 奏: （そういえば、お父さんが倒れたのも これくらいの時期だっけ）
 奏: （……お父さん……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の父: 奏はこれからも、奏の音楽を作り続けるんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: あれからもう、２年たったんだ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -79,13 +75,13 @@
 奏: うん、ありがとう
 奏: わたしは部屋で作業してるから、 よろしくね、望月さん
 穂波: はい！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: ……ふう。完成した
 奏: あ、キッチンからいい匂いがする。 ……今日はシチューなんだっけ
 奏: ちょっと見に行ってみようかな
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宵崎家　キッチン)
 穂波: お疲れさまです、宵崎さん。 今、ちょうどシチューができあがったところですよ
@@ -103,15 +99,11 @@
 奏: （今思うと、ものすごく不愛想だっただろうな）
 穂波: ……宵崎さんと会ってから、 もう２年も経つんですね
 奏: ……２年……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの頃はずっと必死だったな。 ひたすら曲を作ってアップして、その繰り返し）
 奏: （ご飯だって、ロクなもの食べてなかったし。 そう考えると……）
@@ -123,18 +115,14 @@
 奏: え？
 穂波: ほら、気持ちを打ち明けられる人達が近くにいてくれると、 穏やかになれませんか？
 奏: 気持ちを……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……たしかに、そうだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -153,4 +141,4 @@
 ミク (N25): ……え？
 ルカ: ふふ、我ながらとってもいいアイディアだわ。 さあ、行きましょうミク！
 ミク (N25): え……わわわ……
-(Black cut)
+(Black transition)

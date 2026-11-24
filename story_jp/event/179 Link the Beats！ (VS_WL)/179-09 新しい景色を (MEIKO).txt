@@ -15,7 +15,7 @@ MEIKO (WxS): す、すごい歌ね……！ 肌がビリビリしちゃう！
 MEIKO (WxS): そうなのね……！
 MEIKO (WxS): （世界……ふふっ）
 MEIKO (WxS): （——この子達も、司くん達と同じなのね）
-(Black cut)
+(Black transition)
 彰人: ……ふう……
 MEIKO (WxS): ブラボ～！！
 彰人: え……
@@ -50,15 +50,11 @@ MEIKO (WxS): ふふ、頑張って！
 こはね: 世界の壁は、きっと…… 私達が思ってるよりも高いと思います
 こはね: これから学んでいかなくちゃいけないことや、 解決しなくちゃいけないことも、たくさんあるだろうし きっと、簡単にはいかないだろうなって……
 こはね: でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: いつか、世界中の人を熱くさせられるような—— そんなイベントをやるために
 こはね: 次の大会は、絶対に勝ち抜きたいんです！
@@ -132,7 +128,7 @@ MEIKOの声 (MEIKO-WxS): もうちょっとよ～、みんな！ ファイ、オ
 冬弥: あ、ああ……
 彰人の声 (彰人): 大丈夫だ、引き上げてやるから 登ってこい
 冬弥: わかった……！
-(Black cut)
+(Black transition)
 冬弥: ——っと……
 MEIKO (WxS): これで４人全員ね。 みんな、お疲れさま！
 彰人: いや、マジで疲れた……
@@ -162,6 +158,6 @@ MEIKO: （……みんなの顔が、また輝きを増しているわ）
 MEIKO: （ショーをしている私は、 ほんのちょっとだけ破天荒だから少し心配だったけれど……）
 MEIKO: （この私だからこそ、 見せてあげられる景色があったんでしょうね）
 MEIKO: ……ありがとう、私！
-(Black cut)
+(Black transition)
 (Video: link2_ppr_ed4)
-(Black cut)
+(Black transition)

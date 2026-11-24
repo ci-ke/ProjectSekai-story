@@ -27,7 +27,7 @@ An: They're edible. Honest! Oh, I think I see some more over there. Why don't we
 Kohane: Sure, I'll help.
 Toya: I'd like to as well.
 Akito: *Sigh* Okay, fine...
-(Black cut)
+(Black transition)
 An: Wow, we got a bunch...!
 Akito: That's great, but are you sure we can get through all of these?
 An: We'll be fine! Between the four of us and our campfire, this should be just enough.
@@ -54,7 +54,7 @@ Toya: Based on what I've read, you're supposed to retrace your steps by looking 
 Akito: Right... We might be able to find somewhere that looks familiar.
 Akito: Alright, let's head back a little and see if anything jogs our memories.
 An & Kohane: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: Oh no... It's starting to get really dark...
 Akito: This is bad... We won't be able to see anything once it's pitch black.
@@ -68,26 +68,22 @@ Kohane: Yeah... Also, this fog is going to make it hard to find any dry branches
 An: No...
 Toya: ...
 Toya: (Isn't there anything we can do...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Luka: <I believe everyone possesses some sort of “unique talent”.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (What can I do right now...?)
 An: Oh... Guys, look up!
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: Oh, all those stars...!
 Akito: Whoa... The whole sky's lit up.
 Toya: So many... This is incredible...
 Toya: They're beautiful...
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: If only we hadn't gotten lost... We would've been able to enjoy them more...
 An: But we don't have a choice right now. Let's just keep trying whatever we can, Kohane.
@@ -129,4 +125,4 @@ Kohane: Y-You can do it, Aoyagi...!
 An: H-Hang in there, Toya!
 Akito: Get it together, Toya! We're all heading back together!
 Toya: I'll be fine... I... I can get down...
-(Black cut)
+(Black transition)

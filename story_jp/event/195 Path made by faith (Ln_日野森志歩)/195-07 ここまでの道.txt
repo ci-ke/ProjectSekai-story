@@ -27,33 +27,29 @@ HAYASE: ……！　これは……
 すみれ: そう簡単には、負けられないんだよね
 志歩: （……っ！　今、一瞬……息をするのも忘れてた）
 志歩: （全身が熱くなって、 体の中から直接揺さぶられてるみたいな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの時の……ううん、それ以上の音——）
 志歩: （すごい……）
 志歩: （やっぱり、すみれさんはすごい……！）
 志歩: （でも、私だって——！）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000545/bg_s000545.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000545/bg_s000545.webp)
 志歩: （……あの時とは違う）
 志歩: （ずっと、どんな時も……ベースだけは手放さなかった）
 志歩: （絶対、自分の想いを貫くって決めたから）
 志歩: （——だから、今、ここにいるんだ！）
-(White cut)
+(White transition)
 (Background change)
 IoliteのメンバーA: さらにギアが上がった……！
 咲希: しほちゃん、すごい……！
 すみれ: …………
 すみれ: 本当に、想像以上だな
-(Black cut)
+(Black transition)
 HAYASE: ——ふたりとも、素晴らしい演奏をありがとうございました！
 HAYASE: こんなに熱い音が聴けるなんて…… 途中から、司会の仕事も忘れてたよ！
 IoliteのメンバーA: あはは。みんな、完全に釘付けでしたね！
@@ -93,4 +89,4 @@ HAYASE: じゃあ、久野さんが思った通りになったってわけだ
 志歩: （演奏の技術も、自分が届けられるものも）
 志歩: （だけど——）
 志歩: （……少しは、夢に近づけてるのかな）
-(Black cut)
+(Black transition)

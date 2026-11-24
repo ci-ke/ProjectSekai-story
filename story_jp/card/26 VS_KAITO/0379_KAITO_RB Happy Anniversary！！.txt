@@ -10,7 +10,7 @@ Gacha phrase: 頭を悩ませて考えた甲斐があったよ
 [宮益坂女子学園　屋上]
 
 遥: ——１、２、３、４！
-(Black cut)
+(Black transition)
 愛莉: ——よし！　歌もダンスもバッチリあってたし、 本番前の練習はこれでオッケーね！
 みのり: や、やったぁ……！
 遥: ひとまずお疲れさま、かな
@@ -37,23 +37,23 @@ Gacha phrase: 頭を悩ませて考えた甲斐があったよ
 みのり: ちょっと待ってね。えっと……
 みのり: はっ！　あ、あと10分で始まっちゃう！
 愛莉: ちょ……それを早く言いなさいよー！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [バーチャル・シンガー　ステージ]
 
 ミク: 『みんな、カイトの記念日ライブにようこそ♪』
-(Black cut)
+(Black transition)
 (Background change)
 みのり: よかった。間に合った！
 愛莉: まあ最悪、着替えながらでも 見ようと思えば見れるけど……
 みのり: そ、それはダメだよ！
 みのり: 大事な記念日のライブだもん！ きれいな服やかわいい服を着て、 正座して見るくらいじゃないと！
 愛莉: 正座って……それはさすがにかしこまりすぎでしょ
-(Black cut)
+(Black transition)
 (Background change)
 ミク: 『配信を見てるみんな、聞こえてるかな？ みんなも一緒に、カイトのお祝いをしようね！』
-(Black cut)
+(Black transition)
 (Background change)
 みのり: おー！
 遥: みのり、コメントでは返事しないの？
@@ -61,7 +61,7 @@ Gacha phrase: 頭を悩ませて考えた甲斐があったよ
 みのり: えっと……。 『友達と一緒にたくさんお祝いします！』っと
 みのり: そうだ。学校の屋上で見てるってことも 送っちゃおうかなぁ
 遥: あ。みのり、カイトさんが出てきたよ
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: 『みんな、今日は僕の記念日ライブに 来てくれてありがとう』
 KAITO: 『配信を見てくれているみんなも、一緒に楽しもうね』
@@ -69,7 +69,7 @@ KAITO: 『配信を見てくれているみんなも、一緒に楽しもうね�
 レン: 『一緒にステージをぐるーっと回ってから、 ミク達のところに行こうよ！』
 リン: 『ほら、早く早く～！』
 KAITO: 『はは。今行くよ』
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: あら。リンとレンがエスコート役なのね
 雫: ふふ。ふたりともお祝いしたくて仕方がないっていう感じだわ
@@ -80,34 +80,34 @@ KAITO: 『はは。今行くよ』
 遥: 言われてみれば、そういう風に見えるかも
 雫: それだけミクちゃん達のことを 信頼しているっていうことなのかもしれないわ
 みのり: あっ！　ライブが始まるよ！
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO・KAITO: ♪——　♪——
-(Black cut)
+(Black transition)
 (Background change)
 みのり: わあ！　いきなりメイコさんとのデュエットからだ！
 雫: 曲も大人っぽくて、ふたりともかっこいいわ
 遥: うん、それに……。記念日のお祝いムードから、 一気にライブの空気になった
 愛莉: ええ。こういうメリハリのつけかた、難しいのよね
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 みのり: おおー……！
 みのり: まだ１曲聴いただけなのに、 すっごい満足感があるね！
 遥: それだけカイトさん達の 歌がすごかったっていうことだね
 愛莉: ええ。サビのところとか、ちょっと鳥肌立っちゃったわ
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 雫: ふふ。カイトさん、とっても幸せそう
 遥: そうだね
 遥: 私達も、今日のライブをしっかり盛り上げて、 セカイのカイトさんにも 同じくらい幸せになってもらわないと
 みのり・愛莉: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -151,7 +151,7 @@ KAITO: 実は僕も、早く歌いたくて仕方がないんだ
 MEIKO: じゃあ、お待ちかねのライブを始めましょうか
 KAITO: うん。メイコ、よろしく！
 MEIKO: ええ！ まずはこの曲からよ！
-(Black cut)
+(Black transition)
 KAITO: みんな、改めてになるけど、 今日は僕の記念日ライブに来てくれてありがとう！
 ミク: デュエット曲があったり、ソロ曲もいろいろ聴けて 楽しかったっていうコメントが、たくさんきてるね
 レン: セトリがおもしろかったっていうコメントも さっきあったよ！
@@ -166,8 +166,8 @@ KAITO: うん。頭を悩ませて考えた甲斐があったよ
 KAITO: さて。名残惜しいけど、そろそろ最後の曲にいこうか
 ミク: そうだね……。 でも、その前に——
 ミク: カイト、わたし達から メッセージをプレゼントさせてね♪
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000050/bg_s000050.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000050/bg_s000050.webp)
 ミク: カイト、記念日おめでとう！ カイトは優しくて、相談もしやすいから ついつい頼っちゃうんだよね
 ミク: でも、カイトだってわたし達を頼ってくれていいんだよ！ なんでも相談に乗るからね
 リン: カイト、記念日おめでとう！ わたしも、いたずらとかわがままを 笑って許してもらっちゃってて、甘えてばっかりだなあ
@@ -184,7 +184,7 @@ MEIKO: どうせならドーンとやってみてほしいわ！ あ、私もこ
 ルカ: カイト、記念日おめでとう。 もし誰かがケンカをしていても、カイトがきてくれると 不思議と空気が和むのよね
 ルカ: きっとカイトの持つ、あったかくて思いやりのある空気が そうさせてくれるのね
 ルカ: それはカイトしか持っていないものだと思うから、 これからも大事にしてほしいわ
-(White cut)
+(White transition)
 (Background change)
 KAITO: みんな……。 ありがとう
 KAITO: 僕としてはどんどん頼りにしてほしいし、 たくさん甘えてくれてもいいからね
@@ -194,4 +194,4 @@ KAITO: ——うん。それをこれからの１年の 目標にするのもい
 KAITO: はは、なんてね！
 ミク・リン・レン: 『あははっ！』
 ルカ・MEIKO・KAITO: 『ふふっ』
-(White cut)
+(White transition)

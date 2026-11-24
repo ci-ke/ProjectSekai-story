@@ -17,18 +17,14 @@
 みのり: 遥ちゃーーーーんっ！！
 みのり: あ、朝、このダンス見て……！ きょ、曲が……！
 遥: ……やっぱり、そうだよね。 この曲——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: すごい……！ この曲、すっごくキラキラしてる……！
 雫: ええ！　明るくて、元気な気持ちになれる曲だわ
 愛莉: 粗削りなところもあるけど、すごくいい曲ね！ それに、わたし達のカラーに合ってる感じがするわ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ——長谷川さんが作った曲だよね
 みのり: だよねだよね！　すごいよ長谷川さん！ ゆぽりんに曲を使ってもらえるなんて！
@@ -45,20 +41,16 @@
 生徒達: でも楽しい感じしてよくない？ 今朝寝癖できて凹んでたけど、ちょっと楽しくなってきた！
 生徒達: わかる～！ ちょっと中毒性あるよね！
 遥: ……ふふ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 長谷川: 私も、誰かに希望を届けられる曲を作りたいなと思って……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （みんな、長谷川さんの曲を聴いて、 前向きになれてるみたい）
 遥: （よかったね、長谷川さん）
-(Black cut)
+(Black transition)
 (Background change)
 
 [昼休み]
@@ -102,7 +94,7 @@
 みのり: よーし、今作ってもらってる曲も、 わたし達でバズらせちゃおう！
 愛莉: いいわね！ それじゃ、ゆぽりんダンスに負けない、 かわいいダンスを作りましょ！
 みのり・雫: 『おー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -124,4 +116,4 @@
 長谷川: ……私……私は……
 長谷川: ……私はただ、みんなに希望を届けようと思って……
 長谷川: 思ってた、だけなのに——
-(Black cut)
+(Black transition)

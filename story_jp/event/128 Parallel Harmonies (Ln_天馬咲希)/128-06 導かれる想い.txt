@@ -9,7 +9,7 @@ MEIKO (Ln): 『だから、調子はどうか見に来たんだけど——』
 MEIKO (Ln): 『……あんまり良くないみたいだね』
 咲希: …………っ
 咲希: メイコさん、アタシ……
-(Black cut)
+(Black transition)
 MEIKO (Ln): 『……そっか、一歌とそんなことがあったんだ』
 咲希: ……はい……
 咲希: アタシ、もう……どうすればいいのかわかんなくって
@@ -32,7 +32,7 @@ MEIKO (Ln): 『だから、きっと大丈夫』
 一歌: ——咲希、ごめんおまたせ
 一歌: ……あれ、メイコ？
 MEIKO (Ln): 『ちょうど、一歌も来たみたいだね。 じゃあ一緒に行こうか』
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -49,7 +49,7 @@ MEIKO (Ln): ねえ、よかったらふたりの作ってる曲を 聴かせて�
 ミク (Ln): いいよ、途中でも。 ふたりが作ってる曲を聴いてみたいんだ
 咲希・一歌: 『…………』
 一歌: それなら——
-(Black cut)
+(Black transition)
 ルカ (Ln): ——なるほど。 これがふたりの作った曲なのね
 一歌: うん……１曲目は私がコードを書いて、 咲希にメロディーを作ってもらった曲で…… ２曲目はその逆なんだけど……
 咲希: …………
@@ -97,15 +97,11 @@ MEIKO (Ln): うん、どんな感じになるか聴いてみたいな
 一歌: （それに……どんどんアイディアが出てきてる。 これって——）
 一歌: （ミク達が、受け止めて導いてくれてるから……？）
 一歌: （私達も……ちゃんと話し合ってるつもりだったけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: …………
-(Black cut)
+(Black transition)

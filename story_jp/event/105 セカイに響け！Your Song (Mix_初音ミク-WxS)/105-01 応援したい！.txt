@@ -48,7 +48,7 @@ MEIKO: いいわね！　私も賛成よ！
 ミク (WxS): みんなを応援、かあ……
 ミク (WxS): ——それなら、ショーをやろうよっ☆
 ミク (WxS): 司くん達を応援する、とびっきりのショーを！
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: みのりちゃん達を応援するライブ？
 ミク (MMJ): うん！　今よりもっとがんばろうとしてる みんなを応援するなら……やっぱりライブが一番だって思うの！
@@ -70,7 +70,7 @@ MEIKO: そうね！ あの様子だと、もっとヒートアップしそうだ
 ルカ: でも……それくらい熱い気持ちでやりたいわね。 みんなの背中を押すためにも——
 ルカ: ——素敵なライブをやりましょう！
 みんな: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -83,15 +83,11 @@ MEIKO: そんな顔でどうしたの？
 リン: ……この前、まふゆから お母さんと話した時のことを聞いたの
 リン: ミクが歌った奏の曲を聴いたら、心が落ち着いたって
 MEIKO: ……ああ、あの時の……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: …………
 リン: ……前に絵名も、歌を聴いて元気になってくれた
@@ -99,10 +95,10 @@ MEIKO: …………
 MEIKO: ……そう
 リン: ……うん……
 リン: ♪————　♪————……
-(Black cut)
+(Black transition)
 (Background change)
 (Place: セカイの狭間)
 ミク: いろんなセカイで みんながあの子達を応援しようって頑張ってるみたいだね
 ミク: 他のセカイのみんなはどうしてるんだろう？
 ミク: ……もうちょっとだけ見てみようか！
-(Black cut)
+(Black transition)

@@ -49,7 +49,7 @@ Kohane: Congratulations, Aoyagi!
 Kotaro: That was amazing! Alright, now I've gotta get my order right...!
 Kotaro: Mind lending me a hand, Azusawa...?!
 Kohane: Sure. So, Mita, since you like strawberries so much...
-(Black cut)
+(Black transition)
 Toya: Oh, this is very good.
 Toya: On top of it being not too sweet, the rich taste of this coffee matches these strawberries incredibly well.
 Kotaro: Yeah, and these strawberries are so fresh! Thanks for letting us know about this place, Azusawa!!
@@ -58,7 +58,7 @@ Toya: (I feel like I've taken another step forward by experiencing something new
 Kohane: Hehe... I'm glad you guys are enjoying this so much.
 Kohane: Oh, but our break's almost over.
 Toya: You're right. We can finish these once we've met back up with the others.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -80,7 +80,7 @@ Toya: Yes, you're right... We need to keep our wits sharp.
 Kohane: I believe in you, Aoyagi, Mita!
 Toya: Thank you!
 Akito: Aren't you guys blowing things a bit out of proportion?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,7 +96,7 @@ Local Musicians: Same here. I can't wait for their next event...!
 Toya: (The entire city's been talking about us following their battle...)
 Toya: (I'm sensing this mix of excitement and tension in the air.)
 Toya: (The fire we lit that day has clearly grown much bigger...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -127,36 +127,28 @@ Toya: That's good to hear. I'll make sure to be ready for when that happens.
 Toya: (Thank goodness... I'm so glad that Shiraishi's been able to find a way to move forward.)
 Toya: (Come to think of it...)
 Toya: (Does this mean I've finally been able to repay them for what they did for me back then?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: But that's not the case when you're up there with Akito. I can always tell you're having fun.
-(White cut)
+(White transition)
 Kohane: What is it that you really want, Aoyagi?
 Toya: ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Because they went out of their way that time to ask me how I really felt...)
 Toya: (I feel like I was finally able to become the partner that Akito deserves.)
 Toya: (Despite how poorly we treated them back then... They were still willing to show concern for us.)
 Toya: (I can't thank them enough for that.)
 Toya: (I was finally able to give back a little. But more importantly...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 Kohane: I still have a long way to go, but it makes me really happy to be able to work so hard toward something with her.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I remember being stunned by the deep trust they placed in one another, as well as their determination to keep moving forward...)
 Toya: (Which is why I'm glad I've been able to help them become even better partners.)
@@ -165,4 +157,4 @@ Akito: Hey, you guys are here pretty early.
 An: Hehe. We couldn't wait to start practicing! Right, Toya?
 Toya: Yes, that's right.
 Toya: So, let's get started.
-(Black cut)
+(Black transition)

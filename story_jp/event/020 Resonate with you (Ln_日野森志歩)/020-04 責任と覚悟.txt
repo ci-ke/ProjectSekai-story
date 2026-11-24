@@ -19,7 +19,7 @@
 一歌: 志歩、あのさ……
 志歩: 行こう、遅刻するよ
 一歌: う、うん……っ
-(Black cut)
+(Black transition)
 (Background change)
 
 [１年Ａ組]
@@ -28,11 +28,9 @@
 志歩: （一歌、最近頑張ってたな。 歌も演奏もうまくなってた）
 志歩: （一歌だけじゃない。 みんな、厳しい練習にもついてきてくれてる）
 志歩: （だけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: ……一緒にやりたいって思ってくれるのは嬉しい。 けど、その気持ちだけじゃ、絶対にダメになる
 志歩: プロになる覚悟ができないと、難しい
 志歩: みんなには、その覚悟ができるの？
@@ -40,29 +38,23 @@
 咲希: アタシは……
 咲希: アタシは……っ
 咲希: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （……咲希のこと、困らせちゃったな）
 志歩: （あのまま答えを聞いてたら、咲希はきっと 勢いで『プロになる』って答えてただろうな）
 志歩: （……でも、それじゃ絶対につらい思いをさせる。 本当にプロになる覚悟がなくちゃ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: ……っ
 志歩: （あんな顔……もう、させたくない）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -97,16 +89,12 @@
 ミオ: 私……自分のことしか考えてなかった
 ミオ: 今までと同じじゃだめなんだって考えたら、怖くて……。 イオリちゃん達と、音楽と向きあうのが怖くて、私……
 志歩: ……！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （……やっぱり似てる。 このままだときっと……みんなも、この人みたいになる）
 志歩: （楽しくバンドをしたかっただけなのに、 急にプロになる覚悟をしろなんて言われたら……）
 ミオ: ……だけど……
@@ -114,20 +102,16 @@
 ミオ: それでもやっぱり、私はみんなとバンドがしたい……。 イオリちゃん達と一緒の道に進みたいんです……！
 ミオ: 今まで逃げてばっかりだったから、 イオリちゃんには、見放されちゃってるかもしれないけど……
 志歩: あ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: （プロになって、もっとうまくなりたい）
 志歩: （あのバンドみたいに、音楽で誰かの心を揺さぶるような—— そんな演奏をしたい）
 志歩: （でも……）
 志歩: ——私、みんなと演奏するの、好きなんだ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （……この人は、私でもあるんだ）
 志歩: （みんなと一緒に演奏し続けていたい——。 そう考えてる私と、同じ）
 志歩: ……これ、返します
@@ -146,4 +130,4 @@
 志歩: 頑張ってください
 志歩: （……うまくいくといいな）
 志歩: 私も……答えを出さなきゃ
-(Black cut)
+(Black transition)

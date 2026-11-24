@@ -2,7 +2,7 @@
 
 (Character: 白石杏)
 
-(Black cut)
+(Black transition)
 (Background change)
 幼い杏 (杏): ……っ！
 ？？？: ——やっぱりここにいた
@@ -17,7 +17,7 @@
 幼い杏 (杏): ……凪さーん！！
 凪: もう大丈夫だよ、杏
 幼い杏 (杏): う……う……怖かったよぅ、凪さん……！！
-(Black cut)
+(Black transition)
 幼い杏 (杏): はぁ……
 凪: ふふ、落ちついたみたいでよかった
 凪: 雨もあがったみたいだし……一緒に帰ろうか。 謙達も心配してるよ
@@ -36,8 +36,8 @@
 凪: それで、杏が飛び出して行っちゃったって聞いて、 もう顔真っ青にして、すごい勢いで走って行ったんだ
 凪: 謙は、本当に本当に、杏のことが大事で、大好きなんだ。 それだけはわかってあげてほしいな
 幼い杏 (杏): …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000093/bg_s000093.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000093/bg_s000093.webp)
 幼い杏 (杏): でも…… 本当に大事で大好きなら……約束だって破らないんじゃないの？
 幼い杏 (杏): 一緒に、いてくれるんじゃないの……？
 凪: ……うん……
@@ -46,7 +46,7 @@
 凪: もちろん、みんな杏が一番大好きだよ。 だけど……
 凪: 私達は、この街のみんなも、大好きなんだ
 幼い杏 (杏): …………
-(White cut)
+(White transition)
 (Background change)
 幼い杏 (杏): ……どうして凪さんもお父さんも大河おじさんも、 街のみんながそんなに好きなの？
 凪: ふふ。 それはね……
@@ -60,16 +60,12 @@
 凪: たまにヘタクソ！なんて言ってくる人もいたけど、 そういう時は、見返してやる！って思えて頑張れたんだ
 凪: そういう支えがあったから、 私はここまでこれたんだと思ってる
 幼い杏 (杏): あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: ああ。俺も凪も大河も、 この街のおかげで、ここまで成長できた
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 幼い杏 (杏): ……お父さんが言ってたのは、 そういうことだったのかな……？
 凪: それから——謙と出会ったのもこの街だったんだよ。 謙と大河は最初、反りがあわなくて 大変だったんだよねー
@@ -87,17 +83,13 @@
 幼い杏 (杏): え……？
 凪: ほら、杏が練習してるといつも声かけてくれる、 近所のライブハウスの店長いるじゃん？
 幼い杏 (杏): 店長さん？　あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い杏 (杏): ん？　あ、おじさーん！ おはよ！　元気？
 ライブハウス店長: おう！　元気すぎるくらいだ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 凪: あの人ね、杏がお母さんのお腹にいる頃から、 産まれるのをすっごく楽しみにしてくれてたんだよ
 凪: 妊娠中の杏のお母さんのために、 病院に行く時車出してくれたりさ
@@ -115,32 +107,24 @@
 凪: 他にも、いっぱいいっぱい——本当にたくさんの人が、 杏のことを大事に思ってくれてるんだよ
 凪: だから杏には、この街の人を嫌いになってほしくないんだ。 ……勝手な、私の気持ちだけどね
 幼い杏 (杏): …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ライブハウス店長: 杏ちゃん！　今日も練習がんばれよ！
 セクシーなお姉さん: 杏ちゃんの歌、大好きなの♪
 くせっ毛のレコード屋店員: ……おすすめの曲あるんだ。聴かない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 幼い杏 (杏): （……そうだ。 みんないつも、声をかけてくれて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 くせっ毛のレコード屋店員: ……杏ちゃん、今日元気ないけど、大丈夫？ 喉の調子、悪い？
 ライブハウス店長: もしかして……親父さんが忙しくて 練習見てもらえないのか？
 セクシーなお姉さん: 大丈夫よ、杏ちゃん。 時間ができたら、きっと――ううん絶対、練習見てくれるわよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 幼い杏 (杏): （心配してくれたり、歌を聴いてくれたり……）
 幼い杏 (杏): （とっても……優しいんだよね……）
@@ -153,7 +137,7 @@
 幼い杏 (杏): え、着いたって……
 凪: 行けばわかるよ。行こう！
 幼い杏 (杏): わっ……！
-(Black cut)
+(Black transition)
 (Background change)
 凪: おーい！　みんな、こっちだよー！！
 幼い杏 (杏): え……！？ 夜なのに、なんでこんなにいっぱい……！！
@@ -199,4 +183,4 @@
 幼い杏 (杏): えへへ……お腹すいちゃった。 お父さんのカレー食べたいな！
 杏の父: じゃ、そろそろ帰るか。 うまいカレー、期待してろよ
 幼い杏 (杏): ——うん！！
-(White cut)
+(White transition)

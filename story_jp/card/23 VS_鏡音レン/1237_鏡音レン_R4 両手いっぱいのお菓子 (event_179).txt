@@ -17,17 +17,15 @@ Gacha phrase: わ……！すっごい量のお菓子！
 レン: それで、ちょっとおもしろい発見があって！
 KAITO: おもしろい発見？
 レン: どっちのオレも、カイトと話してたんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン (MMJ): ここの照明は、もう少し抑えたほうが サビの盛り上がりを演出できるんじゃないかな？
 KAITO (MMJ): たしかに……ありがとう、レンくん。 サビの前後でメリハリがつくように調整してみるよ
 レン (MMJ): それと、デュエットならではの特別感を 出したいなって思うんだけど……
 KAITO (MMJ): それなら、イントロ中のMCに 掛け合いを入れてみるっていうのはどうかな？
 レン (MMJ): そっか。あの曲、少しイントロも長めだもんね。 うん、すごくいいと思うよ
-(White cut)
+(White transition)
 (Background change)
 レン (WxS): ねえ、カイト！　最後の主人公と恐竜のバトルなんだけど、 剣から炎を出したらかっこよくならないかな？
 KAITO (WxS): 炎か……ライティングと音響効果で表現できるかもしれないな
@@ -35,10 +33,8 @@ KAITO (WxS): 炎か……ライティングと音響効果で表現できるか�
 KAITO (WxS): え……恐竜も！？
 レン (WxS): うん！　今のカイトみたいに、みんなきっとびっくりするよ！ それでね、炎と炎が衝突して爆発も起きちゃって——
 KAITO (WxS): ちょ、ちょっと待って！ メモするから、ゆっくり話してくれる？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: ——って感じでさ！ 話し合いの仕方が全然違ったんだ
 ルカ: アイドルのレンとカイトは、ふたりで意見を出し合って いいライブにしようとしていて……
@@ -50,46 +46,34 @@ KAITO: そうだな……
 KAITO: ……アイドルの僕も、ショーをやっている僕も、 最初はびっくりするだろうけど、 すぐに仲良くなれるんじゃないかな
 ルカ: そうね。ふたりとも、とっても面倒見がいいもの
 ルカ: それにレン達も、それぞれアイドルとショーに興味を持って カイトに教えてってお願いしそうだわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: おおー！　たしかにそうなりそうな感じする！
 レン: あっ！　じゃあ、他のセカイのオレならどう？ DJをやってるオレとか、ちょっと内気な感じのオレとか！
 ルカ: そうね……
 ルカ: DJをしているレンはどのセカイでも上手くやれそうだけど、 一番相性がよさそうなのは バンドをやっている私達がいるセカイかしら？
 KAITO: そうだね。あのセカイの僕は ぐいぐい来るレンにちょっと困りそうではあるけど、 音楽でなら打ち解けられると思うし
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: うんうん、すっごくイメージわくかも！
 ルカ: ……そうだ。バンドをやっているカイトとなら、 あの内気なレンもなじめるんじゃないかしら？
 レン: たしかに、なんていうか波長が合いそうな感じあるね！
 KAITO: 逆に、DJをやっている僕は、 あのレンのことを戸惑わせちゃいそうだな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: あら、DJのカイトは距離感をはかるの上手そうだし 意外とすんなり仲良くなるかもしれないわよ
 レン: ね！　DJに興味持ちそうだし、そこから仲良くなれそう！
@@ -105,22 +89,18 @@ KAITO: なるほど……。 その線は実際ありそうだね
 KAITO: ……そうだね。 僕も、他のセカイの僕達と話してみたいな
 ルカ: ええ。前に少しだけ、そういう機会もあったけれどね
 レン: あ……そっか、あの時の——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: ……あの時みたいに、今度は全員大集合して たくさん話せたりしないかな？
 ルカ: ふふ、とっても賑やかになりそうね
 レン: でしょ！？
 レン: （そんな不思議なことが起きるかはわからないけど……）
 レン: （いつか、みんなで話せる日がきたらいいな！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -131,19 +111,15 @@ KAITO: ……そうだね。 僕も、他のセカイの僕達と話してみた
 
 レン: ……DJのオレもアイドルのオレも元気そうだったな
 レン: あとは、バンドやってるオレとショーをやってるオレと……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: ……そういえば、あれからどうしてるかな？ あの時は無事に帰れたけど
 レン: よし！　ちょっと様子を見に行ってみよう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -214,4 +190,4 @@ KAITO: ……そうだね。 僕も、他のセカイの僕達と話してみた
 レン: ミクも、『何が起こっても不思議じゃない』って言ってたし、 また何か起こるのかな？
 レン: もしそうなら……
 レン: せっかくだし、なんか楽しいことが起きてくれたらいいな！
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@ MEIKO: わからないけど……見て。 たくさんの欠片の中に、あ
 ルカ: どうかしらね。 とりあえず、ここがどんな場所なのか調べてみましょう
 KAITO: そうだね。 すごく広いみたいだし……みんなでわかれて見て回ろうか
 リン: はーい！ じゃあまたあとでね！
-(Black cut)
+(Black transition)
 MEIKO (N25): ……本当に不思議なセカイね
 MEIKO (N25): 私達のセカイだけじゃなくて、 いろんなセカイが欠片の中に見えるなんて
 リン (N25): ……うん……
@@ -24,15 +24,15 @@ MEIKO (N25): どうして違うって思うの？
 リン: わあ、やっぱりわたしだ！ こんにちは！
 リン (N25): あ……え、っと……
 リン: 嬉しいなあ～！ 本当に会えるなんて！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000225/bg_s000225.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000225/bg_s000225.webp)
 リン: わたしね、キミのことずっと見てたんだ！
 リン (N25): わたしの、こと……？
 リン: うんっ！　想いがこもった、 とってもきれいな歌を歌うわたしだなあって！
 リン (N25): 別に、そんなことないと思うけど……
 リン: ううん、みんなを想ってがんばるキミはすごいと思うよ。 わたしも、応援してるから！
 リン (N25): ……あ……
-(White cut)
+(White transition)
 (Background change)
 リン: ねえねえ、せっかく会えたんだし 一緒に歌おうよ！
 リン: わたしとわたしで一緒に歌ったら きっとすごい歌が歌えると思うんだ！
@@ -97,4 +97,4 @@ KAITO: ——いつも、本当にありがとう
 ミク: ……うん！　わたしだよ！
 ミク: あの子達のために頑張ってる、キミ達に！
 ミク (WxS): ——ありがとう！
-(Black cut)
+(Black transition)

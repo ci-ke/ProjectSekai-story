@@ -25,7 +25,7 @@ Airi: Hehe. The rest you'll just have to find out by watching, so I hope you get
 MEIKO: <Oh, that's just making me even more curious!>
 MEIKO: <Now I'm really looking forward to seeing what you have planned♪>
 Airi: Alright, the camera's all set, so let's... Start!
-(Black cut)
+(Black transition)
 Airi: Good morning, everyone! Do we have any early birds in the house?
 Comments: <Yes! An early-morning stream!> <I didn't know when you'd be back, so I've been waiting this entire time.> <Is it just you, Airi? Are the others still asleep?>
 Airi: Hehe. Thanks, you guys. I really appreciate you joining me at this time.
@@ -51,7 +51,7 @@ Airi: Some of you already seem to know what's going on. I'll need you guys to wr
 Airi: I'll throw the four most popular ones, along with three of my choosing, into the blender! After it's all mixed up, we'll all drink it together!
 Comments: <Yay! We get to choose!> <Wait, there's no guarantee that our choices will mix well...> <Fruits, vegetables, tofu... There's a lot to choose from...>
 Airi: Hehe. It's more fun when you spice up a cooking segment like this, right? So, let's start by choosing our first ingredient!
-(Black cut)
+(Black transition)
 Airi: Okay... That should do it...
 Airi: This looks...interesting. I sorta regret buying the things I did now that I'm seeing what I'll actually be drinking...
 Comments: <You'll be fine! It's full of healthy ingredients!> <You can do it, Airi!> <I can't wait to see how you all react lol>
@@ -119,15 +119,11 @@ Airi: Don't thank me just yet... We still haven't had breakfast.
 Airi: So, let's get going! Shizuku, serve the rice into the bowl. Haruka, you're on tea duty. And you carry everything out, Minori. This is a team-building exercise! We gotta move as a unit!
 Minori: Whoa, Airi's in drill instructor mode!
 Airi: (Until just recently, I was certain that I'd never be able to be an idol and do stuff like this ever again.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: (If the girl from back then were to see me now, she'd probably feel pretty disillusioned and say, “This isn't what I wanted!”)
 Airi: (But I couldn't be happier with what I have now because I have true friends by my side. Friends who recognize me for who I am...)
@@ -145,4 +141,4 @@ Minori: Yeah! Let's keep doing our best until then!
 Airi: Hehe. Anyway, let's have breakfast. We need to work as a team here too, so stay focused until the end.
 Airi: Put your hands together and get ready to...
 Minori, Shizuku, Airi & Haruka: Dig in!
-(White cut)
+(White transition)

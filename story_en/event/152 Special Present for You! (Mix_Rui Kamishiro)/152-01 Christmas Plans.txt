@@ -23,7 +23,7 @@ Emu: That means I need to keep learning as much as I can too!
 Rui: Hehe. And I'm sure you will.
 Rui: By the way, Emu, what have you been learning about recently?
 Emu: Oh, so they showed me around the theatre and...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -35,10 +35,8 @@ Emu: Our next show...? Oh, the one we're gonna do at the ski resort?! I really l
 Emu: I can't wait since it's been so long since the last time we did a show together♪
 Rui: Hehe. Yes, it has.
 Rui: We'll need to thank your brothers once again for giving us this wonderful opportunity.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: A show on the slope of a ski resort...?
 Keisuke: Yes, it's a subsidiary of the Otori Group, and they're apparently going to put on a Christmas show for children.
@@ -62,10 +60,8 @@ Keisuke: Understood. Then, I'll see what they say about it.
 Keisuke: They'll likely need some time to respond, so we'll let you know when we hear back from them.
 Rui: Of course. Thank you very much.
 Rui: I promise to make the most of this wonderful opportunity I've been given.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: Now that Tsukasa and Nene have also agreed to be in it, I'm looking forward to this show even more...
 Rui: Not to mention that it's been quite a while since I last directed a show, so there's a long list of things I've been wanting to try... Hehe. Think about all the possibilities.
@@ -79,4 +75,4 @@ Emu: Let me know if you need me to help you with anything! I promise to work sup
 Rui: Thank you. I appreciate the offer.
 Rui: Let's all do our best to make our show a wonderful Christmas present for our audience.
 Emu: Yeah!
-(Black cut)
+(Black transition)

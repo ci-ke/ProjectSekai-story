@@ -18,7 +18,7 @@ Kanade: Okay... I was hoping that we could listen to this demo together, but I g
 Kanade: Huh...?
 Kanade: Luka...! Wait, what do you mean by interesting?
 Luka (N25): Hehe. You'll know when you see. They're this way.
-(Black cut)
+(Black transition)
 Ena: Alright, I've gathered up all the edge pieces... What do we do next?
 Mizuki: Hmm... Wanna start by connecting them all together? There aren't that many, so we should be able to tackle that part pretty quickly if we all work together.
 Rin (N25): That sounds really hard...
@@ -40,7 +40,7 @@ Mizuki: Haha... Yeah, that's right...
 Ena: Well, this seems really hard anyway, so we can pick away at it little by little.
 Luka (N25): Hehe. Good luck, all of you. I hope you manage to finish it someday.
 Rin (N25): Oh, we will...
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -54,7 +54,7 @@ Ena: That right there is called getting worked up.
 Ena: Anyway, Mafuyu, wanna help us?
 Mafuyu: ...
 Mafuyu: Sure.
-(Black cut)
+(Black transition)
 KAITO & MEIKO: ...
 KAITO (N25): Hey. Explain to me why I have to do this.
 Mafuyu: Because Rin wants to finish it.
@@ -65,7 +65,7 @@ Rin (N25): Wow, MEIKO, how did you do that?
 MEIKO (N25): I've fulfilled my duty. The rest is up to you.
 Mafuyu: Wouldn't it be easier just to do it, KAITO? You'll be free to go once you've finished.
 KAITO (N25): I'll be done in no time...
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -88,7 +88,7 @@ Ena: Y-You're joking, right?! We worked so hard on it...!
 Mafuyu: (Everyone's so loud...)
 Mafuyu: (But...)
 Mafuyu: (I didn't dislike the puzzle... Or the way it brought us together like this.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -110,10 +110,8 @@ Mafuyu: Come to think of it, what did you and others do while we were stuck in t
 Miku (N25): We sang.
 Mafuyu: You sang?
 Miku (N25): Yes, the thing is...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Miku (N25): Kanade, Mafuyu...!
 Rin (N25): Wake up, Ena, Mizuki...!
 Rin (N25): They won't wake up...
@@ -141,10 +139,8 @@ Miku (N25): KAITO...
 KAITO (N25): Fine...
 KAITO (N25): ♪———— ♪————...
 Miku (N25): ♪———— ♪————...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mafuyu: I had no idea...
 Mafuyu: Thank you, Miku.
 Mafuyu: Your singing did reach us.
@@ -153,4 +149,4 @@ Mafuyu: Miku? Could you sing for me again?
 Miku (N25): Yes, of course.
 Miku (N25): ...————♪ ————♪
 Miku (N25): ♪———— ♪——————...
-(Black cut)
+(Black transition)

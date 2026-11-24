@@ -22,7 +22,7 @@ Honami: W-Was I?! Oh no. At someone else's house no less...
 Honami: I'm sorry. I think I just made myself at home and...
 Kanade: That's okay. I'm happy to hear that you feel so at ease.
 Honami: Th-Thank you...
-(Black cut)
+(Black transition)
 Honami: Here you are. It's very hot, so please be careful.
 Kanade: Thank you. I will.
 Kanade: Mmm... Delicious. I've always imagined tomatoes as being sour, but this is so good.
@@ -53,20 +53,16 @@ Honami: But she also said that she wanted to see me draw the way I normally do.
 Honami: That helped me quite a bit. As a result, I went from disliking my art to embracing it.
 Kanade: I see...
 Kanade: (Wait, Ena mentioned that as well...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: <It sounds like you really enjoyed that shadowing as well, Ena.>
 Ena: <Yeah, I did. Plus...>
 (Background change)
 Ena: <Honami said that she learned to embrace her art.>
 Ena: <Hearing that made me so happy!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: (All I did was introduce them to each other...)
@@ -84,7 +80,7 @@ Kanade: So this is what meatballs look like when you draw them, Ms. Mochizuki?
 Honami: Yes...
 Kanade: I'd like it if you could draw more illustrations for me. I really want to see more of your art.
 Honami: Are you sure? Then, I'll try drawing some more next time.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -182,4 +178,4 @@ Ena: <Hey, I haven't actually agreed to anything yet!>
 (Background change)
 Kanade: Hehe...
 Kanade: (This also ended up being a good experience for Ena. I'm really glad for her.)
-(Black cut)
+(Black transition)

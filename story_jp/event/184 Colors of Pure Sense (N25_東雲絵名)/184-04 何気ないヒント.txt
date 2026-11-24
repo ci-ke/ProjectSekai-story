@@ -18,14 +18,14 @@
 奏: でも——
 奏: ……ちょっと面白そうだな、その課題
 絵名: えっ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000505/bg_s000505.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000505/bg_s000505.webp)
 奏: たしかに、失敗でしか見えないものがあるなって思ったんだ
 奏: わたしはうまくいかなかった時、 どうしてこの音じゃ駄目なのか、 どの表現ならいいのかって考えるんだけど——
 奏: そうやって正解を探してると、 何が正しいのかわからなくなってくるんだよね
 奏: そういう時に、そのやり方は役立ちそうだなって
 絵名: 役立ちそう……？
-(White cut)
+(White transition)
 (Background change)
 絵名: ……ねえ、それってどういう——
 ？？？: 『——奏』
@@ -66,4 +66,4 @@ KAITO (N25): 『お前なら、誰よりもわかっていると思っていた�
 KAITO (N25): 『——お前が一番嫌なことはなんだ？』
 KAITO (N25): 『それが、お前にとっての失敗だろ』
 絵名: 私が、嫌なこと……？
-(Black cut)
+(Black transition)

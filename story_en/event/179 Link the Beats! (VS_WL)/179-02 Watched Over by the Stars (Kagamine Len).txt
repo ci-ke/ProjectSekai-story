@@ -3,7 +3,7 @@
 (Character: Hatsune Miku, Kagamine Len, Megurine Luka, MEIKO)
 
 (Video: link2_ppr_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -45,7 +45,7 @@ Len (Ln): I don't know why you're here, but I can't just leave you all by yourse
 Len (Ln): Miku and the others are in that classroom, so I'll take you to them. Follow me.
 Len (N25): Miku...?
 Len (N25): O-Okay...! Thanks...
-(Black cut)
+(Black transition)
 (Background change)
 Miku (Ln): You found another Len...?!
 Len (Ln): Yeah, at the station.
@@ -90,7 +90,7 @@ Len (N25): S-Sorry...
 Len: It's true, the KAITO from his original SEKAI doesn't seem like the type to play with anyone...
 Len: But...
 Len: It seems like the two from this SEKAI get along pretty well!
-(Black cut)
+(Black transition)
 MEIKO (Ln): Still, it's not every day that you get to visit a different SEKAI, so you should take a good look around.
 Len (N25): O-Okay...
 Len (N25): This photo...
@@ -120,4 +120,4 @@ Len (Ln): You don't have to do anything. They're not going to hurt you.
 MEIKO (Ln): He's right. Since you're here, let us introduce you!
 Luka (Ln): Don't worry. They're all very nice.
 Len (N25): *Nod* O-Okay...
-(Black cut)
+(Black transition)

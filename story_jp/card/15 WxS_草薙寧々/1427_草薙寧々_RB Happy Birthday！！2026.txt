@@ -23,16 +23,12 @@ Gacha phrase: これからも、成長していきたいな
 寧々: これ、答えないと帰れない感じ？
 司: 思い入れがある役でも構わんぞ！
 寧々: はいはい。そうだな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 人魚姫 (寧々): 『♪————————……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ……マーメイド、かな
 寧々: 宣伝大使のショーで一度やってるけど……。 大好きなモチーフだし、やれるなら何度でもやりたい
@@ -41,7 +37,7 @@ Gacha phrase: これからも、成長していきたいな
 えむ: わあっ☆　じゃあ、サメさんとエイヤー！って 戦うお話はどうかな！？
 寧々: ……ねえ、さっきから勝手に盛り上がってるけど 本当になんなの？
 類: おや、さっきも言っただろう？ なんてことない世間話さ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -62,7 +58,7 @@ Gacha phrase: これからも、成長していきたいな
 寧々: （なんか、星乃さんまで変な感じだった気がしたけど……）
 寧々: （気のせい……だよね？）
 寧々: （……遊びに行くの、楽しみだな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誕生日　当日]
@@ -75,7 +71,7 @@ Gacha phrase: これからも、成長していきたいな
 寧々: 望月さん達も、今日は来てくれてありがとう
 穂波: こちらこそ！　一緒にお祝いできて嬉しいな
 咲希: 思いっきり遊ぼうね！ というわけで、最初の目的地にレッツゴー♪
-(Black cut)
+(Black transition)
 (Background change)
 咲希: じゃじゃーん！　これがうちのカフェの名物！ チョモランマ盛り・誕生日特別バージョンでーす！
 寧々: す、すご……！　やっぱり目の前で見ると迫力違うな
@@ -84,20 +80,20 @@ Gacha phrase: これからも、成長していきたいな
 穂波: 草薙さん、最初のひと口どうぞ
 寧々: ありがとう。じゃあ……いただきます
 寧々: お……美味しい……！
-(Black cut)
+(Black transition)
 (Background change)
 穂波: この『明日へのララバイ』っていうのが 草薙さんが見たい映画？
 寧々: うん。作曲家の卵が主人公なんだけど、 コメディタッチで面白そうなんだ
 寧々: あ、予告編にはミクを使ってる場面もあったよ
 一歌: え、本当！？ それは絶対見なきゃ……！
-(Black cut)
+(Black transition)
 えむ: 寧々ちゃーん、この服どうかな！？ リボンいっぱいで、すっごくかわいいよ！
 咲希: アタシが選んだのも見てほしいな♪ ほら、このブラウス！　レースもついててお嬢様って感じ！
 寧々: えっと……たしかに服は可愛いけど、 わたしが着るには派手かも……
 穂波: ふふ。こういう服を着てる草薙さんも見てみたいけどね
 志歩: まあね。でも普段使いするなら……。 こっちのカジュアルなワンピースのほうがいいんじゃない？
 一歌: うん！　草薙さん、ワンピースよく着てるイメージあるし、 似合いそうだな
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ……それじゃあ、草薙さん。 私達はここで
 寧々: うん。今日は誘ってくれて、本当にありがとう
@@ -111,14 +107,14 @@ Gacha phrase: これからも、成長していきたいな
 志歩: 決まりだね
 えむ: うんっ☆ では、寧々ちゃんをとっておきの場所へごあんな～～～い♪
 寧々: ……とっておきの場所？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [レンタルスペース]
@@ -212,18 +208,18 @@ Gacha phrase: これからも、成長していきたいな
 寧々: え？
 えむ: サンドイッチにお肉にお菓子～♪ 盛り盛りぜ～～～んぶのせまして～っ☆
 寧々: ちょ、ちょっとえむ！ いくらなんでも、そんなに食べられないってば！
-(White cut)
+(White transition)
 (Background change)
 ？？？ (寧々): ——ねえ。わたしの声、聞こえる？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000616/bg_s000616.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000616/bg_s000616.webp)
 寧々: ……今日は、わたしの誕生日をお祝いしてくれてありがとう
 寧々: ショーの稽古とかいろいろ大変なこともあるけど、 これからも舞台俳優として成長していきたいな
 寧々: そのためにも、毎日の稽古頑張らないとね
-(White cut)
+(White transition)
 (Background change)
 寧々: あの……本当に、もしよかったらなんだけど、 これからも応援してもらえると嬉しいな
 寧々: ショーは好きだけど、やっぱり大変なこともあるから
 寧々: そういう時に、応援を思い出せたら きっと踏ん張れると思うんだ
 寧々: ふふ、よろしくね
-(Black cut)
+(Black transition)

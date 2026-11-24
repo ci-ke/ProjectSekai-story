@@ -22,19 +22,15 @@
 雫: ふふっ、本当にみのりちゃんはいつも元気で可愛いわね
 愛莉: そうね。でも…… まさかあんなことを言い出すなんて、意外だったわ
 遥: うん——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ファンのみんなは、 わたし達がもっとたくさんの人に希望を届けられるような 大きな場所に立つことを、望んでくれてるって思ったの！
-(White cut)
+(White transition)
 みのり: だから、みんなと……本気で、 日本で一番大きな場所で、ドームみたいな場所で ライブができるアイドルを——
 みのり: トップアイドルを、目指したいの！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……実は昨日読んでた手紙の中に、 『武闘館でライブをやってほしい』って 書かれてたのがあったんだ
 雫: 武闘館で……
@@ -72,7 +68,7 @@
 愛莉: 今のわたし達の勢いなら、きっと届くはず。 だから——
 愛莉: 行けるところまで、駆け抜けましょ！
 遥: ——うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -112,4 +108,4 @@
 みのり: ——絶対、トップアイドルになろうね！ みんなで一緒に！
 (Background change)
 遥・雫・愛莉: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)

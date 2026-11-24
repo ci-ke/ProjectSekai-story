@@ -22,7 +22,7 @@ Classmate A: Catch ya later!
 Akito: (I'm surprised they remembered. Also...)
 Akito: I don't like how quiet it feels today... The corridor's usually noisier than this.
 Akito: Anyway, I've gotta get going to practice. No time to stare into space.
-(Black cut)
+(Black transition)
 (Background change)
 Akito: (Okay, gotta hurry...)
 Akito: Hm?
@@ -64,7 +64,7 @@ Rui: I'm Toya Aoyagi♪ Do I even...have the right to sing with you?
 Nene: S-Surely I'm too unbelievable as Shiraishi?! Someone switch with me!
 Emu: You can do it, Nene! Have confidence!
 Akito: What the heck am I being made to watch...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -96,7 +96,7 @@ Akito: I'd better be going now, if you'll excuse me!
 Akito: (Come to think of it, I haven't heard anything from the others today.)
 Akito: (Also, we're warming up in SEKAI, which we never do... I wonder...)
 Akito: Geez, so much for having no time to mess around.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -127,7 +127,7 @@ Toya: I have to admit though, it was just intuition... I'm glad they were the on
 Akito: You guys... Thank you.
 An: So, happy birthday Akito! I'm excited to see where we go from here!
 Akito: Likewise. Thanks, everyone.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -143,7 +143,7 @@ An: Well, I get what you mean, but... Do you want to come over to Dad's place fo
 Akito: Ken did? Why didn't you say sooner? I have to go now.
 Kohane: Hehe, Shinonome looks so happy.
 Toya: He does, doesn't he?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -171,8 +171,8 @@ Akito: Oh, give it a rest. Anyway, I'll be digging in now.
 Ena: Hey, you should use a fork! Just wait, I'll go get one!
 Akito: Geez, the cake's not going anywhere...
 Akito: Honestly, with all these people celebrating with me, this hasn't been a bad birthday.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000135/bg_s000135.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000135/bg_s000135.webp)
 Ena: The cake we made was good, right? Make sure you get something tasty for my birthday too!
 Mizuki: Happy birthday, Li'l Bro! Hehehe, wasn't the decoration for your cake the cutest? Let me know how it tasted when I see you♪
 Airi: Happy birthday, Akito! I sneakily snapped some photos of Ena hard at work making your cake. I'll send you them later♪
@@ -185,7 +185,7 @@ Emu: Happy wonderhoy birthday, Akito☆ Thank you for watching our birthday show
 Kohane: Happy birthday, Shinonome! I couldn't help but smile seeing how much you enjoyed the cakes that MEIKO and An's dad made.
 An: Happy birthday, Akito! It was so fun getting to celebrate both in SEKAI and over here! Oh, why don't we do a birthday show here too while we're at it?
 Toya: I'm glad we were able to celebrate with so many people today. Once again, happy birthday, Akito.
-(White cut)
+(White transition)
 (Background change)
 Akito: I have more friends and I do more events now... And I guess that means I now have more people to wish me happy birthday too. I'm grateful.
 Akito: I'm not the type to get caught up in a celebration, but this is pretty nice once in a while.
@@ -193,4 +193,4 @@ Akito: But as soon as this break's over, you bet I'm gonna start running again, 
 Akito: We're gonna keep on pushing forward... We have to.
 Akito: And that's why I'm going to keep running, more than anyone else.
 Akito: So, I hope you'll stick around.
-(White cut)
+(White transition)

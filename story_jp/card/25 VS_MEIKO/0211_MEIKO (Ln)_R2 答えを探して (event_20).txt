@@ -10,28 +10,24 @@ Skill name: 先輩のひとりとして
 
 MEIKO: うーん。 このパターンで叩くと単調になりすぎるかな。 さっきの３連符を、もう少し……
 MEIKO: ……ん？
-(Black cut)
+(Black transition)
 (Background change)
 一歌: …………
 MEIKO: 一歌じゃない。どうしたの？ 今日はひとり？
 一歌: うん……。 ごめん、メイコ。練習の邪魔しちゃって……
 MEIKO: 気にしない気にしない！ ほら、入って
 一歌: ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: それで、どうしたの？ そんな不安そうな顔しちゃって
 一歌: …………
 一歌: 実は、明日……すごく大事な日なんだ
 MEIKO: 大事な日？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 一歌: ミクは、わかる……？ プロになる覚悟をするって、どういうものなのか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: ……志歩とのこと？
 一歌: うん……
 MEIKO: そう。それで、自分が納得できる答えは出た？
@@ -80,7 +76,7 @@ MEIKO: さあ、明日は大事な日なんでしょ？ 寝坊したら格好つ
 一歌: うん。 メイコもありがとう。おやすみ
 MEIKO: はいはーい。おやすみ！
 MEIKO: ……みんななら、きっと大丈夫だよ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -111,20 +107,16 @@ MEIKO: ふふっ、そうだね
 ルカ: ううん、そうじゃないわ
 MEIKO: もどかしそうにしてたあの時とは、 大違いだな、って思ったんだよ
 ミク (Ln): あの時って——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ミク (Ln): プロになったことがないから わからないけど……
 ミク (Ln): 音楽と、この先もずっと向きあおうと思えるか ……じゃないかな
 咲希: えっと……もっと、何かが必要なんじゃないの？ やりたいこと全部我慢するぞ！って気持ちとか……
 ミク (Ln): さあ、わかんないな
 一歌: ミクでも、わからないことってあるんだ
 ミク (Ln): そりゃ、もちろんあるよ。 プロになるとかならないとか、考えたこともないしね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: あの時、本当はもっといろいろ、 言ってあげたかったんじゃない？
 ミク (Ln): そっ、そんなことないよ？
 ルカ: そう？　でも、あれからしばらく、 なんだかソワソワしてなかった？
@@ -148,4 +140,4 @@ MEIKO: 志歩の夢を４人で叶えるには、 きっといろんな困難に
 MEIKO: あの子達なら、 乗り越えてくれるとは思うけど——
 MEIKO: だからこそ これからも、私達で見守っていかないとね！
 ミク (Ln): うん！　もちろん！
-(Black cut)
+(Black transition)

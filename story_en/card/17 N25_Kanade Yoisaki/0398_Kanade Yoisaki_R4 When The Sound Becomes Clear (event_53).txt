@@ -14,7 +14,7 @@ Kanade: Unsure...?
 Mizuki: Yeah, I'm not sure if it's okay for me to say this right now.
 Kanade: ...
 Kanade: Can you tell us more about what you two talked about, Mizuki?
-(Black cut)
+(Black transition)
 Kanade: She doesn't think she's good enough...?
 Mizuki: Yeah. She's convinced that you and Mafuyu keep finding new ways to express yourselves while she hasn't.
 Rin: And she's worried that her illustrations won't be able to do your songs justice...
@@ -43,17 +43,13 @@ Kanade: ...
 Kanade: Thank you, Mafuyu. You as well, Mizuki.
 Kanade: I understand now that Ena wasn't forced into a corner. She made this choice herself.
 Kanade: Not fully appreciating her situation only served to belittle her.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ena: <In my current state, I feel like I won't be able to draw anything decent for this song or anything that comes after it...>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: (That one sentence encapsulates what Ena's going through right now.)
 Kanade: Thank you for sharing this information with us, Mizuki.
 Kanade: I'll be sure to apologize to her later.
@@ -66,7 +62,7 @@ Kanade: Also, I want to tell her that we're willing to wait for her.
 Mizuki: Me too...!
 Mizuki: I'll let you guys know if I hear anything more from her.
 Kanade: Okay, thank you.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -86,19 +82,15 @@ Ena: Just buying some art supplies for some practice drawings. Some of my stuff'
 Kanade: I see. It sounds like you're hard at work.
 Ena: Not really. I'm just getting started...
 Ena: Especially since I was given an earful during the last day of the workshop.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Yukihira: First, I do not understand the message you're trying to convey.
 Yukihira: I cannot tell what this person's feeling is aside from having no real interest in facing their art. There seems to be no point of focus either.
 Yukihira: You appear to have put quite a bit of effort into these shadows to illustrate that it's nighttime, but it has become too dark as a result. Ideas are important, but so is presentation.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: ...is what I was told.
 Kanade: Wow... That's worse than I initially imagined... Your teacher's very... Honest.
 Ena: Yeah. At the same time, he'll tell you what he thinks is wrong and what needs fixing.
@@ -140,4 +132,4 @@ Kanade: Okay, I will...
 Ena: Sorry. I think I've kept you long enough, but I'm glad we had this chat.
 Ena: See you tonight on Nightcord!
 Kanade: Okay, see you then.
-(Black cut)
+(Black transition)

@@ -39,7 +39,7 @@ Akito: Who're you calling Mom...?
 Akito: But I kinda like how this chair's been designed.
 Toya: This looks just like a tuning fork... Oh, it's a barbeque fork... And this cup doubles as a bowl...
 Toya: I never knew that camping equipment could be so interesting...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -47,7 +47,7 @@ Toya: I never knew that camping equipment could be so interesting...!
 Toya: Phew...
 Toya: (Tomorrow's finally the day when we go camping. But I need to be up early for it, so I should go to bed soon.)
 Toya: (I've already packed everything I need in my backpack and set my alarm. All that's left is to sleep.)
-(Black cut)
+(Black transition)
 Toya: ...
 Toya: (I can't fall asleep...)
 Toya: (This is so strange. I've never been so anxious and excited at the same time before.)
@@ -56,7 +56,7 @@ Toya: (But something about this feels different.)
 Toya: Oh, I see...
 Toya: This is what people mean by being “excited for a field trip”.
 Toya: Hehe... This'll also be a good experience for me.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the camping trip]
@@ -74,4 +74,4 @@ Kohane: I'm glad we made it here on time too. It was so hard to tell how long th
 Akito: Yeah. Luckily, we don't have to deal with anyone who always oversleeps and runs late this time around.
 An: Hehe! Anyway, let's find a place to pitch our tents!
 Toya: Yes, let's!
-(Black cut)
+(Black transition)

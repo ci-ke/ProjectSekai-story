@@ -2,7 +2,7 @@
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブ会場]
@@ -57,7 +57,7 @@
 穂波: （もっともっと、楽しもう！）
 一歌: （この一瞬を——一緒に！）
 一歌: ♪————！
-(Black cut)
+(Black transition)
 一歌: ♪————
 (Background change)
 ルカ (Ln): 『一歌の歌いだし、ばっちりね』
@@ -78,57 +78,53 @@ KAITO (Ln): 『うん……１曲目の勢いを殺さずに、 うまくつな�
 ミク (Ln): （照明、演奏、歌——全部がひとつになって、 みんなの想いに包み込まれてるみたい）
 (Background change)
 志歩: （音を、想いを、鳴らそう。 私達の——全部で！）
-(White cut)
+(White transition)
 (Background change)
 一歌: ——一緒に行こう！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000425/bg_s000425.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000425/bg_s000425.webp)
 一歌: ♪————！
 一歌: （もっと歌える！　もっと鳴らせる！）
 一歌: （会場中に響くように。 全身全霊を込めて——）
 穂波: （届いて……！　もっと、もっと……！）
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000428/bg_s000428.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000428/bg_s000428.webp)
 咲希: （今この瞬間は、全部忘れて—— 一緒に、夢みたいに楽しい時間を過ごそう！）
 咲希: （その感動が、前に進む力になるように…… この１音に、瞬間に、アタシの全部を込めるから——！）
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000426/bg_s000426.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000426/bg_s000426.webp)
 志歩: （……体が、熱い）
 志歩: （歓声と音が混ざりあって、 全身が震えて、熱が押し寄せてきて——）
 志歩: （この衝動を、ぶつけよう）
 志歩: （まだまだ、こんなもんじゃない——！）
-(White cut)
+(White transition)
 (Background change)
 志歩: ……！
 志歩: （……感じる）
 志歩: （お客さんに、私達の音楽が届いて…… 全力で応えてくれてるって）
 志歩: （お客さんが、波みたいに動いて…… 会場が揺れてるみたい）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 成瀬: １万人以上のお客さんがいて、３階の一番後ろの席まで、 みんな君達の演奏に熱狂してる
 成瀬: その光景が、ステージから見えたら——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （——本当だ）
 志歩: （熱くて、ドキドキして——最高に、楽しい……！）
 志歩: （もっと、届けたい。響かせたい）
 志歩: （Leo/needの音楽を——！）
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000427/bg_s000427.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000427/bg_s000427.webp)
 ミク (Ln): （みんなの想いを、すぐそばに感じる）
 ミク (Ln): （今までで、一番近くに）
 ミク (Ln): （どうしようもなく心を掴まれて、 引き出されて、揺さぶられて……）
 ミク (Ln): 『……これが、Leo/needのステージなんだね』
-(White cut)
+(White transition)
 (Background change)
 一歌: ♪————！
 (Background change)
 成瀬: これは……前座の盛り上がり方じゃないな
 成瀬: さすが、真堂さんが見つけた子達だね
 (Background change)
-(Black cut)
+(Black transition)

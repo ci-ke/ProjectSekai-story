@@ -28,7 +28,7 @@ Nene: (A trailer for an event...? <Kagamine Rin and Kagamine Len's Anniversary S
 Nene: That's it!
 Tsukasa: Wah?! Wh-What is it?!
 Nene: This! Look!
-(Black cut)
+(Black transition)
 (Background change)
 
 [VIRTUAL SINGER Stage]
@@ -46,7 +46,7 @@ Len: <You'll get to join in on the fun even if you can't make it to the actual s
 Rin: <Hehe. Miku and the others are gonna be there to celebrate too, so let's all have some fun together♪>
 Rin: <Oh, also! Our show's gonna be divided into two parts: my part and Len's part.>
 Len: <They're gonna be totally different from each other, so stay tuned and be sure to check them both out!>
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Wow, they're streaming their anniversary show! I'm totally gonna watch!
 Tsukasa: I think I will too. They've both been great friends to us, so we should celebrate by also posting comments!
@@ -69,34 +69,30 @@ Emu: And while they do that, Nene, let's pick out some songs to sing♪ Oh, I wa
 Nene: All of them? If we do that, we won't have any time for cake or snacks.
 Nene: (Rin and Len's anniversary...)
 Nene: (Until just recently, I never would've seen myself celebrating VIRTUAL SINGER anniversaries like this.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin: <Aww, Nene! What's with the long face?>
 Rin: <This is a great chance to make new friends, isn't it? Bring your smiley face and have some fun☆>
-(White cut)
+(White transition)
 (Background change)
 Rin: <Nene! Are you sure you want to end the day like this?>
-(White cut)
+(White transition)
 Rin: <It's so sad to just say goodbye like this! Why not arrange to meet again?>
-(White cut)
+(White transition)
 Rin: <You'll be fine♪ And I'll be there to help you too☆>
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Nene: They gave me a great celebration, so...
 Nene: Okay!
 Nene: Let's do our best to make their celebration a good one.
 Emu: Yeah♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -109,8 +105,8 @@ Rin: Everyone, are you ready?!
 Len: How about everybody watching the stream? Are you ready?
 Len: Let's see... “Good to go!” And... “Let's do this!” Alright, I think we're set!
 Rin: Let's get Kagamine Rin & Kagamine Len's Special Anniversary Show started♪
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 Rin: Thanks for listening, everyone!
 MEIKO: That was incredible! You two were more in sync than usual!
 Rin: Hehe. Thank goodness! We practiced a lot just for today!
@@ -137,7 +133,7 @@ Rin: Haha. Great idea! That'll be more fun anyway!
 Len: Alright, Rin, you ready?
 Rin: Yeah!
 Rin: Here we go! My special anniversary show medley♪
-(Black cut)
+(Black transition)
 Rin: Phew... We sang so much...
 Luka: Hehe. You seem happy, Rin.
 Rin: Yeah! I'm super duper extra happy♪
@@ -150,8 +146,8 @@ Rin: And that concludes my part of the show! Next, we have...
 Len: Oh, Rin, actually... Your part isn't over yet.
 Rin: Huh?
 Luka: We've prepared some special messages for you. Would you mind hearing them?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000032/bg_s000032.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000032/bg_s000032.webp)
 Luka: Happy anniversary, Rin. I can't help but smile every time I see you and Len singing together the way you do.
 Luka: I hope you two stay as close as you are now.
 MEIKO: Great show, Rin! It was really worth helping out with it considering how much fun it ended up being.
@@ -165,7 +161,7 @@ Len: Last but not least, me!
 Len: Happy anniversary, Rin!
 Len: We share the same anniversary, but it always feels like we get twice the celebration with you and everyone else around!
 Len: Hehe. So let's keep this party going and make everything as fun as possible!
-(White cut)
+(White transition)
 (Background change)
 Rin: You guys...
 Rin: Th-That's not fair... No one told me about this...
@@ -178,4 +174,4 @@ Rin: I promise to keep putting on fun shows and singing all sorts of different s
 Rin: I can sing these songs because of you, so I want everyone out there to hear them.
 Rin: Now, let's move to Len's part of the show!
 Len: Enjoy and don't forget to stick around until the end!
-(White cut)
+(White transition)

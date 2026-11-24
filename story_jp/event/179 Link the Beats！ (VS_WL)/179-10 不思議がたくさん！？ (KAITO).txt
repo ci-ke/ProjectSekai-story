@@ -3,7 +3,7 @@
 (Character: 初音ミク, 鏡音リン, KAITO)
 
 (Video: link2_ppr_op5)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -38,7 +38,7 @@ KAITO (Ln): お、起きない……。 この状況で寝られるの、逆に�
 KAITO (Ln): でもこのままじゃ……
 KAITO (Ln): ——逃げよう。 リン、ちょっとごめん
 岡っ引きのぬいぐるみ: オイ、待テ～！
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (Ln): はあ、はあ……。 ここまで来れば、さすがに……
 岡っ引きのぬいぐるみ: ドコに行ッタ～～～～！？
@@ -52,7 +52,7 @@ KAITO (WxS): 港の木に水やりに行くって言ってたけど…… メイ
 KAITO (Ln): あ、あの……！　助けて——
 KAITO (WxS): え……？
 KAITO・KAITO: 『俺……？』 『僕……？』
-(Black cut)
+(Black transition)
 KAITO (WxS): ——うん、もう大丈夫。 あのぬいぐるみくんも、わかってくれたみたいでよかった
 KAITO (Ln): ……ごめん、助かった。 説得してくれてありがとう
 KAITO (WxS): ううん、気にしないで。 それより——
@@ -118,14 +118,14 @@ KAITO (Ln): わ、わんだほい……？
 KAITO (WxS): ふふ、このセカイの想いの持ち主の子達が よく使っている魔法の言葉なんだ
 KAITO (WxS): さあ、行こう。こっちだよ
 KAITO: 一時はどうなるかと思ったけど…… なんとか馴染めそう、かな？
-(Black cut)
+(Black transition)
 (Background change)
 ミク (WxS): カイト～！ こっちが遊園地だよ♪
 KAITO (Ln): い、いろんなものが浮いてる……
 ミク (WxS): えっへん☆　すっごいでしょ～！
 ミク (WxS): こっちこっち！ 他にもすごいところいっぱいあるんだ♪
 KAITO (Ln): あ、ちょ、待って……！
-(Black cut)
+(Black transition)
 歌う花: ——♪　——♪
 KAITO (Ln): ひっ！？
 ミク (WxS): なになになになにっ？ カイト、どうしたの？
@@ -134,7 +134,7 @@ KAITO (Ln): い、今……この花が、歌ってて……
 KAITO (Ln): えっ？　そ、そうなの……？
 KAITO (WxS): びっくりするかもしれないけど、 僕達のセカイでは、それが当たり前なんだよね
 KAITO (Ln): あ、当たり前に……歌うんだ……
-(Black cut)
+(Black transition)
 ミク (WxS): カイト、次はあのお城まで競走だよ～！
 KAITO (WxS): あはは……。 ミク、本当に楽しそうだな
 KAITO (Ln): ここのミクは、すごくテンションが高いんだね……
@@ -145,22 +145,22 @@ KAITO (WxS): へえ、どんな感じなんだろう。会ってみたいな
 KAITO (Ln): あ……
 KAITO (WxS): ふふ、ふたりで追いかけよう
 KAITO (Ln): ……うん
-(Black cut)
+(Black transition)
 ミク (WxS): いえーい！　ミクの勝ち～☆
 KAITO (Ln): す、すごいスピードだった……
 KAITO (WxS): 全然追いつけなかったね。 もう少し、ハンデをくれてもよかったんじゃないかな
 ミク (WxS): わかった☆　次はちょこっとだけ亀さんになるね♪ それじゃあヨ～イ……
 KAITO (Ln): え、いや俺はもう——
 ？？？: ア！　コッチダゾ～！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000492/bg_s000492.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000492/bg_s000492.webp)
 KAITO (Ln): わっ！？　な、何……！？
 ねこのぬいぐるみ: カイトがモウヒトリイルって聞イタケド、オ前ダナ！？
 KAITO (Ln): また喋るぬいぐるみ……
 ねこのぬいぐるみ: フーン、タシカにカイトとハ違ウが、 コイツもカイトダナ！ 遊ンデヤッテモイイゾ！
 KAITO (Ln): え、えっと……
 KAITO: （なんだか振り回されてばかりだけど……大丈夫かな？）
-(White cut)
+(White transition)
 (Background change)
 KAITO: でも——こういう、普段はしない体験も 貴重かもしれないね
 ？？？: おーい、ミク、カイトー！
@@ -174,4 +174,4 @@ KAITO (Ln): う……
 KAITO: （バンドをしている僕はシャイだからな……。 ちょっと心配だけど……）
 KAITO: （……彼にとっても、いい経験になりそうだし ここは僕も応援しよう）
 KAITO: ——頑張れ、僕！
-(Black cut)
+(Black transition)

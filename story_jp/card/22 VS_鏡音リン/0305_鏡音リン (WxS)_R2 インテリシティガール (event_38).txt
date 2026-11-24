@@ -22,22 +22,18 @@ Skill name: セカイで大ジャンプ♪
 リン: 『あっ、始まるみたい！』
 レン: 『ボク、ショーの練習見に行けなかったから 楽しみだなぁー！』
 リン: 『絶対楽しいよー！ みんな、すっごくたくさん練習してたもんっ☆』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: ずっと昔のことだから、 今はもう気にしていないけれどね
 類: ただ——自分がやりたいことは、 多くの人の嫌がる、理解されないものだということは、 その時強く実感したよ
 類: でも今は、あの日夢見たショーをもっといい形にすることが できると思うんだ
 類: ここにいるのはみんな、面白いショーのためなら どんなことでもやってやろうと思っているメンバーだからね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン: （類くんのためにも、成功してほしいな……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -49,15 +45,11 @@ KAITO: それだけショーが楽しかったということかな？
 リン: うん！　ほんとにほんとにすごかったよー！
 レン: えむちゃんがやったジャンプが特にねっ！ 見に来てた人達も、わぁーって盛り上がってた！
 リン: えへへ、それにねっ♪
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: 戸惑うほど喜んでたなんて、 よっぽど嬉しかったのね！
 ルカ: ……そうねぇ～。 やりたかったのに、できなかったショーだもの～
@@ -76,7 +68,7 @@ KAITO: 昔は受け入れられなかったショーを、 みんなと成功さ
 リン: ねえカイト、何かいい方法ないかな？
 KAITO: そうだね。類くんにそのまま伝えてあげるっていうのが、 一番簡単ではあるけど……
 KAITO: ふたりが頑張れるなら、こんな方法もあるよ
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -104,14 +96,14 @@ KAITO: ふたりが頑張れるなら、こんな方法もあるよ
 類: ああ。楽しみにしているよ
 リン: よーし！　リン達も大成功させて、 ぬいぐるみのみんなを笑顔にしちゃうぞー♪
 レン: おーっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -145,15 +137,11 @@ KAITO: …………
 MEIKO: 今日は空っぽだけど、ショーの本番は 席が足りなくなるくらい い～っぱいのぬいぐるみ達を招待しなくっちゃね♪
 ミク (WxS): うんっ☆ それで、みんなみ～んなっ笑顔にしちゃおーうっ☆
 リン: （そうだ……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン: （リン達も、えむちゃん達みたいなショーがしたい）
 リン: （類くんが考えた、このドキドキワクワクするショーを、 レン達と一緒にしたい！）
@@ -164,7 +152,7 @@ KAITO: ルカ！？　いつの間に起きたんだい？
 リン: レーン、お待たせーっ！ いくよっ！
 レン: うん！　がんばれ、リン！
 リン: …………っ！
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -174,7 +162,7 @@ KAITO: ルカ！？　いつの間に起きたんだい？
 類: ああ。僕もとても楽しみだ
 えむ: わっ！　始まるよっ！
 司: ああ！ 頑張れ、リン、レン！
-(Black cut)
+(Black transition)
 レン: 『こっちに——？　まさか、跳びうつる気か！？ 落ちたら大ケガをするうえに、見回りの兵士につかまるぞ！』
 リン: 『絶対落ちない！ わたしを信じて！』
 リン: 『わたしは絶対——跳び越えてみせる！』
@@ -191,7 +179,7 @@ KAITO: ルカ！？　いつの間に起きたんだい？
 ぬいぐるみ達: スゴーイッ！
 リン: 『宝を届けて、そのことを一緒に伝えに行こう！』
 レン: 『ああ！　共に行こう！』
-(Black cut)
+(Black transition)
 リン・レン: 『本日は、ありがとうございましたっ！』
 ぬいぐるみ達: リンチャン、スゴカッタッ！
 ぬいぐるみ達: ウン！　本当に跳ブナンテ思ワナカッタ！
@@ -202,4 +190,4 @@ KAITO: ルカ！？　いつの間に起きたんだい？
 KAITO: うん。十分伝わってると思うよ
 KAITO: ふたりとも、お疲れさま
 リン・レン: 『うんっ！』
-(Black cut)
+(Black transition)

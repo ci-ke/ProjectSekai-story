@@ -14,7 +14,7 @@ Gacha phrase: あっはははっ！　最っ高ー！
 杏: ふふ。日曜日に、 こはねと遥とみのりちゃんとお出かけか……
 杏: （みのりちゃんとはこのあいだのファンフェスタで 会ったきりだったよね）
 杏: （遥とも誕生日のお祝いして以来だし、 本当に楽しみ！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -43,7 +43,7 @@ Gacha phrase: あっはははっ！　最っ高ー！
 杏の父: 当たり前だろ。娘のことだしな？
 杏の父: それより、すぐ手伝ってくれるんじゃなかったのか？
 杏: は～い
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -86,7 +86,7 @@ Gacha phrase: あっはははっ！　最っ高ー！
 杏: あ、うん。またあとで……
 杏: うーん。嬉しいような、 なんか釈然としないような……
 瑞希: あははっ。いいからいいから、ボク達も教室行こうよ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -125,14 +125,12 @@ Gacha phrase: あっはははっ！　最っ高ー！
 瑞希: オッケー！　じゃあ、そのうちまた学校行くよ！ ボクも杏の話、めちゃくちゃ聞きたいしね！
 杏: うん、待ってるよ！
 杏: （そういえば、こはね達と遊んでから１週間経つんだ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 杏: ほら、噴水の真ん中にあるフェニーくんの足元！ ちょっと影になってるところ、模様に見えない？
 こはね: あ、本当だ……！ もしかして隠れフェニーくん？
@@ -141,29 +139,23 @@ Gacha phrase: あっはははっ！　最っ高ー！
 杏: そう、今日の思い出にさ
 こはね: ……！
 こはね: ……うんっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （あの時のこはねの笑顔、嬉しかったな）
 杏: （これからも、あの笑顔の隣に——）
 杏: （こはねの相棒として、いられるといいな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　——————！！
 こはね: ————！　————～～～！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………
 杏: （あの笑顔の隣にいるために、相棒でいるために、 私は、今よりもっと……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -171,4 +163,4 @@ Gacha phrase: あっはははっ！　最っ高ー！
 こはね: あ、杏ちゃーん！
 杏: （よし……！）
 杏: ごめん！　おまたせー！
-(Black cut)
+(Black transition)

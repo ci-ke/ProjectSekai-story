@@ -20,7 +20,7 @@ Kohane: Right...
 An: We're definitely in a tough pickle... Even just today, we've been through a lot.
 An: Hey, what if we stopped somewhere to take a break? Something sweet might help take our mind off things.
 Akito: Yeah... I agree.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -33,19 +33,15 @@ Miku (VBS): None of you look very happy...
 Miku (VBS): You just went to visit Soma at the hospital, right? What did you all talk about?
 An: Oh, um... We talked about Arata.
 An: According to Soma...
-(Black cut)
+(Black transition)
 MEIKO: I see... It's unfortunate to hear that he's left the city.
 KAITO: Yes, it's sad since we all thought your greater group was doing so well...
 Kohane: Our group...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: ...
 Kohane: This is so frustrating...
@@ -56,15 +52,11 @@ Kohane: I agree with KAITO... I thought we had a good thing going with Tono and 
 Kohane: We all worked so hard... And our third event ended up becoming a big success.
 Kohane: I really thought we could surpass RAD WEEKEND with them by our side.
 Kohane: And yet, I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: I couldn't do anything that time...
 Kohane: My legs collapsed under me. I felt so powerless...
@@ -80,4 +72,4 @@ Kohane: At the same time, I know there's no use crying over spilled milk...
 Miku (VBS): (I see. Kohane's...)
 Miku (VBS): You've changed so much, Kohane.
 Kohane: What...?
-(Black cut)
+(Black transition)

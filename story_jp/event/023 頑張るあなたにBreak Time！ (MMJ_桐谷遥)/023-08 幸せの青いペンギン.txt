@@ -33,7 +33,7 @@
 愛莉: ええ、わたしも
 遥: ——雫も、いいかな？
 雫: ええ！　もちろん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ペンギンカフェ]
@@ -43,15 +43,15 @@
 愛莉: すごいわね……！ ペンギンのぬいぐるみにクッションに貯金箱に……。 ペンギン柄のカーテンなんてのも売ってるわ
 みのり: メニューもペンギンでいっぱいだよ！ ペンギンマカロン、かわいい～♪
 雫: こんなお店があったのね……あら？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000073/bg_a000073.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000073/bg_a000073.webp)
 遥: かわいい……！
 雫: ……ふふっ
 雫: 遥ちゃんも、ここに来るのは初めてなの？
 遥: あ……うん。 クラスの子に教えてもらったの
 遥: 行きたいけど、他にやりたいことがいっぱいあったから、 いつかにしようと思ってたんだけど……
 遥: ……雫のおかげできっかけができたよ。 ありがとう
-(White cut)
+(White transition)
 (Background change)
 雫: 遥ちゃん……
 みのり: こ、このメニューすっごいよ！　遥ちゃん！
@@ -68,7 +68,7 @@
 愛莉: 遥がそうしたいなら、もちろんいいわよ！
 みのり: うんっ！　みんなで食べようっ♪
 遥: ありがとう、みんな
-(Black cut)
+(Black transition)
 店員: おまたせしました！ コウテイペンギンデラックスパフェです！
 遥: ……っ！
 愛莉: うわっ！　思ったより大きいわね！
@@ -92,4 +92,4 @@
 愛莉・雫: 『ふふっ……』
 遥: それじゃあ……いただきます！
 みのり・愛莉・雫: 『いただきます！』
-(White cut)
+(White transition)

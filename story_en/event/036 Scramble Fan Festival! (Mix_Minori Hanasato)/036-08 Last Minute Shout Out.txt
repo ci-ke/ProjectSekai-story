@@ -12,7 +12,7 @@ Nene: It is her first solo performance. She said was just going outside for a bi
 Kohane: Me too...
 Kohane: Oh, someone's coming. Could it be Minori?
 Kohane: Huh...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Backstage]
@@ -34,8 +34,8 @@ Minori: I thought that I'd made some progress after doing all those streams and 
 Minori: There's just no way I can go up there all alone and spread hope to everyone...
 Tsukasa: ...
 Tsukasa: I'm no expert when it comes to idols, Hanasato, but...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000009/bg_s000009.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000009/bg_s000009.webp)
 Tsukasa: The stage is a magnificent place where the masses can gather and see you standing in the spotlight!
 Tsukasa: It's a place where you can show the audience just how hard you worked on your singing and dancing!
 Minori: Huh...?
@@ -43,7 +43,7 @@ Tsukasa: You mentioned how you wish to “spread hope to everyone”, yes?
 Tsukasa: I admit it's natural to feel a little nervous about going up there.
 Tsukasa: However, if you succeed, you'll be able to inspire hope in all these people!
 Minori: *Gasp*
-(White cut)
+(White transition)
 (Background change)
 Minori: (He's right...! I was so worried about everything not going right that I forgot about this being a chance to spread hope!)
 Minori: (I can do it... Just like Haruka that one time...)
@@ -57,18 +57,18 @@ Tsukasa: Ah, pardon me...! Anyway, Hanasato, keep warming up! Quietly...!
 Staff: Please keep it down!
 Tsukasa: Hmm... This is quite the predicament...
 Minori: Haha.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Green Room)
 Nene: (I hope Hanasato's okay...)
 Emu: Neneee! Wonderhoy dive!
-(White cut)
+(White transition)
 Nene: ...?! E-Emu, please don't try to tackle me like that. You really startled me...
 Nene: Also, did you just jump down from the ceiling? How did you even get up there?
 Emu: Hehe♪ I went all slithy-slither through the ceiling and went for a dive after I saw you, Nene!
 Nene: That doesn't really answer either of my questions...
 Nene: But it is nice to see a familiar face. Thanks for stopping by...
-(Black cut)
+(Black transition)
 Ichika: It's almost time...
 Ichika: (I never imagined being here performing at the Fan Festival like this.)
 Ichika: (This feels so strange. Until last year, I was watching from the other side.)
@@ -111,4 +111,4 @@ Haruka: So whatever happens, you'll be fine. Just keep smiling like you always d
 Minori: Haruka...
 Minori: Thank you so much! I promise to do my best!
 Minori: I'm gonna go up there and spread as much hope as I can!
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@ MEIKO (MMJ): あ、みんなー！　来てたのね！
 レン (MMJ): めーちゃん！　さっき、カイトくんが探してたよ。 トレーニングのメニューを見直したいんだって
 MEIKO (MMJ): 本当？　それは急いで行かなくっちゃね！ ありがとう、レン！
 レン (MMJ): （……ごめんね、カイトくん……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -41,7 +41,7 @@ MEIKO (MMJ): 本当？　それは急いで行かなくっちゃね！ ありが
 まふゆ: 『……うん。お疲れさま』
 (Background change)
 瑞希: （……がんばれ、まふゆ！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -68,7 +68,7 @@ MEIKO (MMJ): 本当？　それは急いで行かなくっちゃね！ ありが
 まふゆ: おばあさんに？
 雫: ええ。……実は私、おばあちゃん子なの。 お父さんもお母さんも忙しかったから、 小さい頃はよく面倒を見てもらっていたのよ
 雫: とっても趣味が多い人でね。 いろんなことを教えてもらったんだけど、 刺繍もそのひとつで——
-(White cut)
+(White transition)
 (Background change)
 
 [公民館]
@@ -88,13 +88,13 @@ MEIKO (MMJ): 本当？　それは急いで行かなくっちゃね！ ありが
 祖母: 雫ちゃんと志歩ちゃんの、新しいお洋服よ♪
 幼い雫 (雫): えっ！　お洋服……？
 祖母: ええ。今は、襟元にお花の刺繍を入れていたの
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000404/bg_s000404.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000404/bg_s000404.webp)
 幼い雫 (雫): わあ、小さいお花がいっぱいで、かわいい……！
 幼い雫 (雫): ねえ、おばあちゃん。 作ってるところ、見ててもいい？
 祖母: いいわよ。でも、針が当たらないように近づきすぎないでね
 幼い雫 (雫): はーいっ！
-(White cut)
+(White transition)
 (Background change)
 幼い雫 (雫): …………
 幼い雫 (雫): （あ……）
@@ -110,4 +110,4 @@ MEIKO (MMJ): 本当？　それは急いで行かなくっちゃね！ ありが
 幼い雫 (雫): そうなんだ……
 祖母: ふふ。興味があるなら、 雫ちゃんも一緒にやってみる？
 幼い雫 (雫): ……！　うん、やってみたい……！
-(Black cut)
+(Black transition)

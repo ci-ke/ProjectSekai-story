@@ -3,7 +3,7 @@
 (Character: 白石杏, 初音ミク)
 
 (Video: link_street_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -32,15 +32,11 @@
 杏: ……絶対にRAD WEEKENDを超えて 凪さんが行けなかった『夢の先』に行く。 そのことにはもう、迷いはないよ
 杏: でも、こはねのことについては……、 まだ、どうしたらいいかわかってなくて
 杏: ……こはねは私にとって、 誰より大事な相棒で——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000167/bg_s000167.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000167/bg_s000167.webp)
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……ずっと肩を並べてたいから
 杏: だけど——
@@ -77,4 +73,4 @@
 杏: （……だとしたら、 あの凪さんは、オバケみたいなものなのかもしれないけど……）
 杏: （でも——！）
 杏: ——凪さん！！　待って！！
-(Black cut)
+(Black transition)

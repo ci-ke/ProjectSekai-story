@@ -36,34 +36,30 @@ Mizuki: <Then we should have our party some other time...>
 Ena: <Yeah, I agree...>
 (Background change)
 Kanade: <Thank you. Good night, everyone...>
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: (Oh, I need to get everything ready for tomorrow...)
 Kanade: (Incense, a lighter and... Gloves, garbage bags and cleaning supplies...)
 Kanade: (And mom's music box.)
 Kanade: (Such a gentle song...)
 Kanade: (That reminds me, back then...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade's Mother: You know, Kanade, this song...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Dad supposedly made this song because what he saw with mom on one their trips was too beautiful to forget...)
 Kanade: (They showed me some photos when I was little, but I can't really remember what they were of...)
 Kanade: (I wonder what they really say...)
 Kanade: (Those photos could still be in an album somewhere...)
-(Black cut)
+(Black transition)
 Kanade: (I found some albums, but no luck. They could still be hidden away somewhere else...)
 Kanade: (Looking for them might take a while...)
 Kanade: (I should wrap things up with our song first. I need to come up with a demo for the next song too...)
 Kanade: (I probably only have until morning at the latest.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next morning]
@@ -73,7 +69,7 @@ Kanade: (It's exactly as I imagined it too. Except the outro. I still have a few
 Kanade: (I'd like to ask everyone what they think, but I really doubt any of them will be up at this time...)
 Kanade: Is there anyone else that I can...?
 Kanade: (Oh, right...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -82,7 +78,7 @@ Kanade: I'm here...
 Kanade: Now, is Miku here...?
 Kanade: Hm?
 Kanade: (There's something bright over there. I wonder if that's Miku and the others...)
-(Black cut)
+(Black transition)
 Kanade: Not here either...
 Kanade: But what's this? A ball of light...?
 Kanade: (It's about the size of an apple. Where did this come from? It's too bright and hard to tell what's actually creating this light...)
@@ -91,7 +87,7 @@ Kanade: (This place is made out of Mafuyu's feelings, so this could be another p
 Kanade: ...
 Kanade: (It doesn't seem hot. Maybe I can touch it...)
 Kanade: Gasp...?!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -106,7 +102,7 @@ Kanade: Hold on... If I stop Untitled, maybe it'll send me back to my room...
 Kanade: No, it's not working...
 Kanade: I guess I don't have a choice. I'll just have to keep looking for everyone here...
 Kanade: (I don't know where this is, but I hope I can get back somehow...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,15 +117,11 @@ Kanade: (It's like the first time I came to SEKAI...)
 Kanade: (It's beautiful, but so lonely and quiet...)
 Kanade: (As if I'm the only one left on this planet...)
 Kanade: (Me, all alone...)
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (No, now's not the time for that...)
 Kanade: (I need to find a way back soon. I need to visit mom's grave and work on our new song.)
@@ -138,10 +130,8 @@ Kanade: (Just white flowers as far as the eye can see... Huh?)
 Kanade: These flowers...
 Kanade: (They're carnations...)
 Kanade: (Mom loved these so much...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Kanade (Kanade): Look mommy, flowers...!
 Kanade's Mother: Oh! Did you buy these for me?
@@ -151,10 +141,8 @@ Little Kanade (Kanade): Hm? You're listening to daddy's music box again?
 Kanade's Mother: Hehe. I really like looking at flowers while listening to the music box that your father made.
 Kanade's Mother: That way, even when I'm at the hospital, it feels like you and your father are right here with me.
 Kanade's Mother: I love you, Kanade.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Was it carnations that we put in mom's casket during her funeral...?)
 Kanade: (I barely remember any of it since I was so little...)
@@ -168,17 +156,15 @@ Kanade: (My music still can't do that...)
 Kanade: (But it will be able to. Someday, I'll compose a song that can save someone.)
 Kanade: (Just like dad was able to do with mom, I will find a way...)
 Kanade: Hm...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000063/bg_a000063.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000063/bg_a000063.webp)
 Kanade: (A light in the sky...? But it looks too big for a star...)
 Kanade: Huh...?
 Kanade: (They're multiplying...! One by one, all over the place...!)
 Kanade: Wait, are those lanterns...?
 Kanade: Oh...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade's Mother: You know, Kanade, this song...
 Kanade's Mother: It's something your father made when we went on a trip together for the very first time.
@@ -191,10 +177,8 @@ Kanade's Mother: Your father and I even wrote down our wishes and sent them up o
 Little Kanade (Kanade): Your wishes went up and up and up? That sounds so cool! I wanna try too!
 Kanade's Mother: Hehe. Maybe someday.
 Kanade's Mother: We can all go send our wishes on these lanterns together.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Right, this is what mom saw... This scene...)
 Kanade: (So many lanterns floating up into the sky...)
@@ -214,13 +198,13 @@ Kanade: They've gone up so high...
 Miku (N25): They have.
 Kanade: I hope they can keep going up and up.
 Kanade: All the way up into the heavens...
-(White cut)
+(White transition)
 (Background change)
 Kanade: Hm...?
 Kanade: Did I fall asleep..?
 Kanade: No, it's already this late... I need to visit mom's grave...!
 Kanade: I have to take mom's music box... Oh, and go there first too...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Hospital]
@@ -233,4 +217,4 @@ Kanade's Father: ...
 Kanade: (I may not be able to now...)
 Kanade: (But someday, I will compose a song that can save someone. I'll compose a song that can save dad...)
 Kanade: (So please wait until then, okay...?)
-(Black cut)
+(Black transition)

@@ -28,7 +28,7 @@ KAITO (VBS): まあもちろん、無理にとは言わないけど、 話せば
 KAITO (VBS): というわけで、頼れるカイトお兄さんに、 ぜひ話してほしいな！
 彰人: ……そっすね。 んじゃ、ちょっとだけ聞いてもらってもいいですか
 KAITO (VBS): もっちろん！
-(Black cut)
+(Black transition)
 KAITO (VBS): ……なるほど。 熱くなりきれない、か……
 彰人: ……頭ではわかってるんです。 次の目標のために走り続けなきゃなんねえって
 彰人: でも……どうしても、心がついてこねえ感じがして……
@@ -49,28 +49,24 @@ MEIKO (VBS): 最初の火のつき方が違うんだもの。 同じ気持ちで
 KAITO (VBS): んー……メイコの言うとおりだとしたら……
 KAITO (VBS): RAD WEEKENDを見た時みたいに 『心が熱くなるもの』に出会ったら、 彰人くんはもっと燃えられるのかもしれないね
 彰人: ……心が、熱くなるもの……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……だが、あれくらいすげえもんに そう簡単に出会えるかっつーと……）
 KAITO (VBS): ……案外、すぐに見つかるんじゃないかな？
 彰人: え？
 KAITO (VBS): まあ、ボクもあんまり詳しくは知らないけど……
 KAITO (VBS): ——彰人くん達の世界ってさ、とっても広いんでしょ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000367/bg_s000367.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000367/bg_s000367.webp)
 KAITO (VBS): 彰人くんが『RAD WEEKENDを超える』っていう大きな夢を 見つけられたのは、偶然あのイベントに出会ったからだよね
 KAITO (VBS): だったら、また彰人くんの心を燃やすものにも、 偶然出会えるんじゃないかって思うんだ
 KAITO (VBS): 世界は広いから——ボク達が知らないものとか、 想像できないような『偶然』も、きっとたくさんある
 KAITO (VBS): だから、世界に向かってまっすぐ進んで行けば、 いつか彰人くんが熱くなれるものも、見つかるんじゃないかなあ
-(White cut)
+(White transition)
 (Background change)
 彰人: …………
 彰人: （世界は広い……か……）
@@ -84,4 +80,4 @@ KAITO (VBS): ええ、メイコまで！？
 彰人: （それでも無闇に焦って空回るよりはいいかもしれねえ）
 彰人: （……ともかく、今はただ前に進むとするか）
 彰人: （今まで、そうしてきたみたいに）
-(Black cut)
+(Black transition)

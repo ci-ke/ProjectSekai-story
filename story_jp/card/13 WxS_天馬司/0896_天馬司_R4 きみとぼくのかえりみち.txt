@@ -27,34 +27,24 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: いや……。それも重要な課題なんだが……
 司: もうひとつの、役への理解を深めるために、 その役の物語を考えられるようにする、のほうだ
 司: あれは、長期的にしっかり取り組まねばならんからな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 春名座演出家: あなたの演技は、観客の胸に迫る。 これから役者として大きく羽ばたく可能性がある…… そう感じています
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 春名座演出家: ただ、その一方で——
 春名座演出家: 特定の役——感情が大きく変化する役でなければ、 演技が凡庸なものになるのではないか、とも感じました
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 歴: 寂しさをまぎらわすために、 自分で話し相手を『作る』ようになったんです
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 歴: 最初は、物語の登場人物と話せたらいいなって思って…… 本の中の彼らと会話をしていました
 歴: そうやって、シンドバッドや、アリスや—— 本に出てくるいろんな人間……人間以外のものとも、 たくさん、たくさん話しました
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: 獏野さんのようにしっかりと想像力を身につけて、 その人の人生の『物語』を考える——
 司: その第一歩として、今まであまり読んだことのない 純文学系の小説を読んでみているんだが……
@@ -68,38 +58,30 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: シンプルなお話？
 類: ああ。シンプルでいて行間があり、 最低限の情報しか描かれておらず、 しかし絵があって想像で補いやすい物語——
 類: 絵本だよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [司の部屋]
 
 司: たしか、この辺りにしまったと思ったが……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: たくさんの情報を処理するためには、 情報の整理ができるようになる必要がある
 類: 絵本なら、純文学ほど人間模様も複雑ではないだろうし 情報処理の練習としてもちょうどいいんじゃないかな
 類: 司くんもさっき言ったとおり、これは長期的な取り組みだ。 いずれ、君なりのやりかたが見つかると思うけど……
 類: それまでは焦らず、じっくり、 丁寧にいこうじゃないか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （まったくもって類の言うとおりだ。 いきなり上級者レベルに挑戦するのではなく、 一歩一歩、着実に進んでいかなければ）
 司: そのためにも……お、あった！
 司: 『きみとぼくのかえりみち』……。 またこの絵本を読むことになるとはな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ……懐かしいな。 昔、咲希に読んでやった以来か
 司: （主人公は、妹をもつ小学生の少年だったな）
@@ -113,7 +95,7 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: 今こそ、その答えを見つける時かもしれん！
 司: よし！　まずは最初から読み直して——
 司: ……おわっ、なんだ！？　スマホが光って——
-(White cut)
+(White transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -129,7 +111,7 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: しかたない、先にこいつを届けに行くか
 司: なに！？　また光った！
 司: うおっ、まぶしい……！！！
-(White cut)
+(White transition)
 
 
 <サイドストーリー（後編）>
@@ -175,7 +157,7 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: （……だが力になると言っても、手伝いすぎては 本来の物語の邪魔になってしまうだろうな）
 司: （物語どおりにいけば、ヒロは自力で 目的地である、引っ越した友達の家まで辿り着くはず……）
 司: （ならば、オレはなるべく手を出さず 信じて見守るとしよう！）
-(Black cut)
+(Black transition)
 司: （……信じる、とは言ったが……）
 ヒロ: …………
 メグ: …………
@@ -207,24 +189,22 @@ Gacha phrase: あともう少しだ。頑張れるか？
 ヒロ: えっと、フウちゃんの新しいおうちは５丁目だから……
 ヒロ: ……あ、見て！　あそこの電柱に、ここ５丁目って！ その下の数字も一緒だ！
 司: おお、本当だな！ でかした、ヒロ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000299/bg_s000299.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000299/bg_s000299.webp)
 司: フウちゃんの家まであともう少しだ。 最後まで頑張れるか？
 ヒロ: うん！
 司: よし、じゃあ出発だ！
 司: （……これでいい。 あんなにもつらい顔をさせ続けるなんて、できないからな）
 司: （もし『変な顔』が見られなかったとしても、悔いはない）
 司: （余計なことは考えず、 ふたりを大切な友人のところまで、送り届けよう）
-(White cut)
+(White transition)
 (Background change)
 
 [ワンダーランドのセカイ]
 
 司: ……無事に辿り着けて、よかった
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 フウ: メグちゃん、ヒロくん！ 本当に会いに来てくれたの！？
 メグ: うんっ！　おにいちゃんが、いっしょうけんめい フウちゃんのおうち探してくれたんだよ！
@@ -237,10 +217,8 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: だからこそ、涙はもう少しだけしまっておくんだ。 友達も、妹も見ているぞ
 ヒロ: ……ぐすっ。 ………………うん！
 司: よし！　さあ、胸を張って行ってこい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （『変な顔』か……）
 司: （メグは、妹だからこそあの顔を 見たことがなかったのかもしれないな）
@@ -260,4 +238,4 @@ Gacha phrase: あともう少しだ。頑張れるか？
 司: いや、そんなことはないぞ
 司: むしろ、感謝している！ おかげで、欲しかった答えを見つけられたからな
 ミク (WxS): 本当！？ えへへ、よかったね♪
-(White cut)
+(White transition)

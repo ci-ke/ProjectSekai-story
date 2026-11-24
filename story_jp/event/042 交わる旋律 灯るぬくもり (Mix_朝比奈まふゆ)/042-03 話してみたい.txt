@@ -31,7 +31,7 @@ KAITO: ……曲？
 咲希: アタシも気になる！ ねえねえ、その人ってどんな曲作ってるの？
 一歌: えっと、動画のURL教えてもらったんだ。 みんなで聴いてみようか
 咲希: うんっ！
-(Black cut)
+(Black transition)
 咲希: なんていうか、すごいね……！
 志歩: うん。ひとつひとつの音が、すごくよく作り込まれてる。 メロディーや歌詞からも訴えるような想いが伝わってくる
 穂波: ……この曲って、もしかして……
@@ -48,15 +48,11 @@ KAITO: ……曲？
 咲希: たしかにLeo/needとは全然違うよね。 作曲のコツとか聞きたいな～って思ったんだけど……
 一歌: うん、そうだね
 一歌: ……でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （あの人も、同じCDが欲しかったってことは……。 ミクの曲が好きなのかな？）
 一歌: （もしそうなら……友達になりたいな）
@@ -71,7 +67,7 @@ KAITO: ……曲？
 一歌: ……そうだね
 一歌: みんな、ありがとう。 やっぱりその人のこと少し気になるし……。 頼めそうだったら、朝比奈先輩に言ってみるよ
 咲希: わあ、がんばってね！　いっちゃん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -95,4 +91,4 @@ KAITO: ……曲？
 一歌: ……はあ、タイミング悪いな……
 一歌: （こんなチャンス、滅多にないってわかってたのに……）
 一歌: …………
-(Black cut)
+(Black transition)

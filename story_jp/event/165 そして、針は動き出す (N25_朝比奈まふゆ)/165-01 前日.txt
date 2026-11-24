@@ -20,15 +20,15 @@ KAITO (N25): ようやく前へ進もうとしているのに水を差すな
 奏: まふゆ……
 瑞希: ——実は、まふゆにあげたいものがあるんだよね！ 手、出してくれる？
 まふゆ: え……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000437/bg_s000437.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000437/bg_s000437.webp)
 まふゆ: これ、ブレスレット……？
 瑞希: そうそう！　この前作ったんだ。 みんなでつけられたらいいな～って
 瑞希: ……ほら、ボク達は奏みたいに 直接そばにいることって出来ないじゃん？
 瑞希: だから……こういうのつけたら、 そばにいるって感じしないかな～ってさ
 まふゆ: …………
 まふゆ: ……うん、ありがとう
-(White cut)
+(White transition)
 (Background change)
 リン (N25): ……ねえ、まふゆ
 まふゆ: ……どうしたの？
@@ -40,15 +40,11 @@ KAITO (N25): ようやく前へ進もうとしているのに水を差すな
 MEIKO (N25): ——もしかしたら、湖にあるドアの鍵かもしれないわ
 瑞希: 湖の……
 瑞希: あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……そういえば、あのドアずっと開かなかったよね
 絵名: もし、それが本当にあのドアの鍵なら…… 今なら開けられるってこと？
@@ -60,15 +56,11 @@ MEIKO (N25): ——もしかしたら、湖にあるドアの鍵かもしれな�
 まふゆ: （どんな——）
 まふゆ: …………
 まふゆ: （もし……ドアを開けて、見えた景色が——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………今は、いい
 奏: ……うん、それでいいと思う
@@ -76,7 +68,7 @@ MEIKO (N25): ——もしかしたら、湖にあるドアの鍵かもしれな�
 瑞希: 今じゃなきゃ見れないってわけじゃないと思うしね。 落ち着いたら、改めて考えるって感じでもさ
 まふゆ: ……うん
 まふゆ: 今は……明日のことだけを考えようと思う
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -90,4 +82,4 @@ MEIKO (N25): ——もしかしたら、湖にあるドアの鍵かもしれな�
 まふゆの母: …………そうね
 まふゆの母: 私も、ちゃんとまふゆの心に寄り添いたい
 まふゆの母: まふゆ————
-(Black cut)
+(Black transition)

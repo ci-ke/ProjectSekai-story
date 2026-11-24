@@ -2,18 +2,18 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(Black cut)
+(Black transition)
 (Background change)
 謎の男: あの歌声は——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000085/bg_a000085.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000085/bg_a000085.webp)
 こはね: ————！　——————！！
 観客達: すげえ……！ あの子、あんな歌えたのか！？
 観客達: この前とは全然違うぞ！？
 こはね: （もっと……！）
 こはね: （もっと、もっといける——！！）
 こはね: ————！　————～～～！！
-(White cut)
+(White transition)
 (Background change)
 彰人: ……っ！
 冬弥: （一瞬で、空気が——）
@@ -26,7 +26,7 @@
 杏: （あ——う、うん！）
 杏: ♪ ————！　————！
 全員: 『♪ ————————！』
-(Black cut)
+(Black transition)
 (Background change)
 こはね: はぁ……はぁ……
 こはね: あれ……？ もう、終わったの……？
@@ -50,7 +50,7 @@ MCの声: ——奇跡を見せたVivid BAD SQUAD！ さあここで前回の優
 彰人: ……お、おう
 こはね: 行こう、杏ちゃん！
 杏: …………うん
-(Black cut)
+(Black transition)
 (Background change)
 EVERリーダー: ♪ ————！　————！
 観客達: さすがEVERだな。 相変わらず聴かせてくれる
@@ -64,7 +64,7 @@ EVERリーダー: ♪ ————！　————！
 ライブハウス店長: あいつらはRAD WEEKENDを超えるのが目標だと 聞いてたが——こりゃ、超えられちまうかもしれないな？
 謎の男: ああ。可能性は十分あるだろうな
 謎の男: だが——今の力を自分のものにするには、 まだ時間が必要そうだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -94,7 +94,7 @@ EVERリーダー: ♪ ————！　————！
 杏: えー、父さんのケチー
 こはね: あ、私もおかわりしたいから、一緒に行かない？
 杏: 本当？　じゃあカウンターに行こっか！
-(Black cut)
+(Black transition)
 杏: うん。ご飯はこれくらいかな。 ルーはじゃがいもたっぷり入れて……っと
 こはね: ……杏ちゃん、ありがとう
 杏: え？
@@ -121,4 +121,4 @@ EVERリーダー: ♪ ————！　————！
 杏: あはは、冗談冗談！　はい、こはねの分。 それじゃあ戻ろっか
 こはね: うん！
 彰人: ……？
-(Black cut)
+(Black transition)

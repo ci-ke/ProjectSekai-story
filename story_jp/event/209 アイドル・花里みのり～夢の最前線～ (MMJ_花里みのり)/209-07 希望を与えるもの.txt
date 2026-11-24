@@ -29,8 +29,8 @@
 みのり: ええ～！？　わたしのファン！？
 みのり: え、えっと……！ それじゃあ、危なくないようにこっち側で——
 女の子: うん！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000605/bg_s000605.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000605/bg_s000605.webp)
 みのり: ——いつも応援してくれてありがとう！
 みのり: もしかして、配信とかも見てくれてるの？
 女の子: う、うん……！ あのね、みのりちゃんのダンスのコーナーが大好きなんだ
@@ -39,7 +39,7 @@
 女の子: ありがとう……！
 女の子: あのね、アイドルがいっぱい出る番組のダンスも とってもかっこよかったよ！
 みのり: えへへ、ありがとう！ じゃああなたのためにも、次のダンスもがんばるね！
-(White cut)
+(White transition)
 (Background change)
 みのり: 今日は声をかけてくれてありがとう！ 横断歩道を渡るときは、気をつけて渡ってね！
 女の子: わかった！ バイバイ、みのりちゃん！
@@ -70,7 +70,7 @@
 警察官: 頼もしいです。 後はこちらが誘導しますので、お任せください
 警察官: では、引き続き交通安全の声かけ、 よろしくお願いしますね
 みのり: ——はい！
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -91,27 +91,19 @@
 みのり: （わたしが、みんなに希望を……）
 みのり: （そう……なのかな）
 みのり: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 女の子: あ、あの……！ 握手しても、いいですか……？
-(White cut)
+(White transition)
 通行人: いつも応援してるよ～！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 みのり: （みんな……すごく楽しそうで、キラキラしてたな）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000001/bg_a000001.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000001/bg_a000001.webp)
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （あの時の、わたしみたいに——）
 みのり: （もしも……今日のみんなが、わたしのことを、 昔のわたしと同じ気持ちで見てくれてるんだったら……）
@@ -123,4 +115,4 @@
 みのり: えへへ…… すっごくうれしいです！
 警察官: 花里さん、この後最後は交通安全パレードです。 よろしくお願いします！
 みのり: はいっ！
-(Black cut)
+(Black transition)

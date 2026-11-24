@@ -28,21 +28,17 @@
 雫: ええ、いつもはメンバーの子に 企画を考えてもらってばかりだから……
 雫: みんなみたいにうまくできるかわからないけれど、 配信を見にきてくれているファンの子達のために 私ができることを頑張りたいの
 志歩: ファンのために……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミオ: プロになったら、“好き”だけじゃ通用しなくなるって、 イオリちゃんに言われたんです
 ミオ: どんな時も音楽と、聴いてくれるファンを優先しなきゃいけない。 自分達の作る音楽に、責任を持たなきゃいけないって
 志歩: ……そうですね
-(White cut)
+(White transition)
 志歩: ……私が思う“責任”は、ステージの上で 常にベストな音楽を届けていくことだと思う
 志歩: その時落ちこんでいても、体調が悪くても、 ライブに来てくれたお客さんには関係ないから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………
 志歩: （お姉ちゃんも、夢に向かって頑張ってるんだ。 私と同じように——）
@@ -61,15 +57,11 @@
 雫: 大好きなしぃちゃんに応援してもらえたなら、 私、どれだけでも頑張れるわ！
 志歩: もう、わかったってば……。 ほんと大げさすぎ
 志歩: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （……小さい頃の私は、 お姉ちゃんのこれに、いつも支えてもらってたんだよね）
 志歩: （…………もしかしたら、小さい頃だけじゃなくて——）
@@ -88,4 +80,4 @@
 雫: しぃちゃん……
 雫: ……ええ、ありがとう！
 雫: ふふ、しぃちゃんに応援してもらったんだから、 もっともっと頑張らないとね
-(Black cut)
+(Black transition)

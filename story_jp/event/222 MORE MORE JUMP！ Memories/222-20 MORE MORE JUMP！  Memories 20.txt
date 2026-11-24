@@ -3,7 +3,7 @@
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫)
 
 : ついに、決勝ステージへ進出したMORE MORE JUMP！ 準決勝で対戦するのは、因縁のCheerful＊Daysで——
-(Black cut)
+(Black transition)
 (Background change)
 遥: （問題は、準決勝がどんなルールなのか。 それ次第で……私達の戦い方が決まる）
 遥: （予選ステージよりもグループの数が絞られてるし、 ファンからの投票の仕組みも変わる可能性が高いけど……）
@@ -20,11 +20,11 @@
 千晴: もとの知名度とか人気は関係なくってことなんだろうけど…… まあ、そこまで単純な話じゃないよね
 遥: （——椿木さんの言うとおりだ。 人気があるグループには、それだけの実力がある）
 遥: （そして、その差をひっくり返すのは……簡単なことじゃない）
-(Black cut)
+(Black transition)
 (Background change)
 : 全員でアイディアを出し合い、 Cheerful＊Daysに勝つための道を探すものの、 納得のいく答えが出ないことに悩む遥
 : そんな中、偶然ReLightの千晴と話をする機会があり——
-(Black cut)
+(Black transition)
 (Background change)
 千晴: 上を目指すためにパフォーマンスを磨いていこうとするほど、 グループの中でも、実力の差が開いていって……
 千晴: 今のグループのまま、夢は叶えられない。 そう思ったんです
@@ -44,10 +44,10 @@
 遥: 全部は、取れない……
 千晴: はい。それに——
 千晴: それぐらい思い切って突き抜けないと、 手に入らないものってあると思うんです
-(Black cut)
+(Black transition)
 (Background change)
 : 遥は千晴との会話をきっかけに、ある作戦を思いつく
-(Black cut)
+(Black transition)
 (Background change)
 遥: 全部取れないなら、思い切って突き抜ける、か……
 遥: （私には、椿木さんみたいな経験はないし…… 今まで考えたことがなかったな）
@@ -61,23 +61,19 @@
 遥: ——そっか
 遥: （ひとつだけあった、私達が勝つ方法が）
 遥: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 遥: みんなに、聞いてほしいことがあるんだ
 遥: 準決勝のステージについて考えたんだけど……
 遥: 今回のステージは、私と雫—— 特に雫を中心に組み立てたいと思う
 雫: え……
-(Black cut)
+(Black transition)
 遥: 私達が考えたステージ案は、今までの自分達の延長線で……
 遥: 純粋なパフォーマンス勝負で、 チアデを超えられる要素が足りない
 遥: だから、ステージ上で比べたとき、 どうしてもこっちが霞んでしまうと思うんだ
@@ -91,7 +87,7 @@
 遥: これで、ステージとしての見え方は全然変わってくると思う
 愛莉: ……たしかに……
 愛莉: 遥はASRUN、雫はチアデの元センターだし…… 実力的には文句なしだわ
-(Black cut)
+(Black transition)
 遥: 本当は……もっといろいろ反対があると思ってたんだ
 みのり: 反対って、どうして？
 遥: え……？
@@ -107,7 +103,7 @@
 遥: （……ここまで、信じてくれてるんだ）
 遥: （なら、私は——）
 遥: ありがとう。 必ず、その信頼に応えてみせるよ
-(Black cut)
+(Black transition)
 (Background change)
 : 準決勝に向けて動き出すMORE MORE JUMP！ 波乱の勝負の行方は——？
-(Black cut)
+(Black transition)

@@ -15,7 +15,7 @@ Skill name: ひと手間かける理由
 奏: ……そういえば、イントロからAメロの入り、 少し調整しようと思ってたんだった
 奏: サビにも影響するし、先にそっちを調整して……
 まふゆ: （……ご飯、気管に入らないといいけど）
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -29,26 +29,26 @@ Skill name: ひと手間かける理由
 まふゆ: ……そう
 まふゆ: ……睡眠はちゃんととらないと。 作業効率、落ちると思う
 奏: わかってる。ご飯食べたら、少し休むよ
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ——奏、晩ご飯の準備できたよ
 奏: ……ありがとう。 今、打ち込んでる分が終わったら行くね
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: 奏、朝だよ。ご飯も用意できてる
 奏: あ、うん。いつもごめん
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……奏、お風呂ありがとう。 いつでも入れるよ
 奏: うん。あれ、そういえば昨日の洗濯物って……
 まふゆ: たたんでおいてあるよ。奏の分はそこ
 奏: あ、本当だ。 ごめん、ありがとう
-(Black cut)
+(Black transition)
 奏: ——やっぱり、この音じゃないかも
 奏: どう展開させたら……
 まふゆ: （またぶつぶつ言いながらご飯食べてる）
 まふゆ: （煮物の里芋、望月さんが食べやすいサイズに カットしてくれてなかったら、のどに詰まらせてたかも）
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……奏、来ないな。 また作業してるのかな
 まふゆの声 (まふゆ): ……奏、起きてる？ 朝ご飯の準備できてるよ
@@ -58,7 +58,7 @@ Skill name: ひと手間かける理由
 まふゆ: ……ご飯とおかず、ラップをかけて冷蔵庫に入れよう。 朝ご飯あるってメモを書いておけば——
 まふゆ: ……ちゃんと、食べてくれるかな
 まふゆ: ……メモ、冷蔵庫と部屋の扉にも貼っておこう
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……ただいま
 まふゆ: （……奏は、作業中かな）
@@ -72,7 +72,7 @@ Skill name: ひと手間かける理由
 まふゆ: ……飲み物取りに来たの？ だったら、紅茶いれるけど
 奏: いいの？　じゃあ、お願いしようかな
 まふゆ: うん……。座って待ってて
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -97,35 +97,27 @@ Skill name: ひと手間かける理由
 奏: そう、だね……。 すごく難しいよ
 まふゆ: ……無理してまで急がなくていいから
 奏: …………うん。わかってるよ
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……そろそろかな
 まふゆの声 (まふゆ): どうぞ……
 穂波: おじゃまします。 ……宵崎さんは、作業中ですか？
 まふゆ: うん……。 いつも通り、掃除と食事の用意をお願いしたいって
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: わかりました。 では、いつも通り——
 穂波: ……朝比奈先輩？ なにか、心配事ですか？
 まふゆ: あ……
 まふゆ: ううん、なんでも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ………………
 まふゆ: …………いつものことなんだけど、 奏が、また根を詰めてる気がして
@@ -139,16 +131,14 @@ Skill name: ひと手間かける理由
 穂波: ……あの。これをしたからって、 どうっていうことはないんですけど——
 穂波: ひとつ、ご提案してもいいですか？
 まふゆ: ……提案？
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……ごめん、まふゆ。 今日もご飯の準備してもらっちゃって
 まふゆ: ううん。ほとんど望月さんがしてくれたから
 奏: あ、望月さんにも挨拶できなかったな……。 望月さん、何か言ってた？
 まふゆ: …………ううん、何も
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……提案？
 穂波: 本当になんてことない、 ちょっとしたお遊びみたいなものなんですけど……
@@ -162,10 +152,8 @@ Skill name: ひと手間かける理由
 まふゆ: 笑顔……
 穂波: ……宵崎さんが気づいてくれるかはわかりませんが、 でも、わたし達の気持ちは込めることができます
 穂波: よければ、やってみませんか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: いただきます
 まふゆ: ……いただきます
@@ -179,4 +167,4 @@ Skill name: ひと手間かける理由
 奏: ……あったかいね
 まふゆ: ……………………
 まふゆ: ……うん
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@
 志歩: ありがとう、リン
 リン (Ln): え？
 志歩: おかげで、わかったよ。 私の目指す音楽が、なんなのか
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -81,22 +81,18 @@ MEIKO (Ln): 昔の話？
 志歩: （——いろいろ悩んだけど、 ちゃんと答えが見つかってよかった）
 志歩: （それに、なんだかすっきりしたな。 自分の大事な想いがなんなのか、はっきりして）
 志歩: （プロとしての活動が始まる前に、気づけてよかった。 おかげでこれからも、迷わないで進んでいけそう）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （少しは私も、あの姿に近づけてるかな）
 志歩: （……わからないけど、でも……）
 志歩: （少しずつ、進んでいこう。 そのためにも——）
 志歩: （これからも……演奏で、 聴いてくれるみんなの心を震わせていく）
 志歩: （それでいつか、あの日の姿に届くように）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ソリス・レコード事務所]
@@ -107,4 +103,4 @@ MEIKO (Ln): 昔の話？
 真堂: そろそろ、リーダーを決めてもらわないとな
 真堂: これから何があっても、倒れずに進んでいけるように…… バンドの柱になるようなやつを
 真堂: ——なら、やはり……彼女しかいないだろうな
-(Black cut)
+(Black transition)

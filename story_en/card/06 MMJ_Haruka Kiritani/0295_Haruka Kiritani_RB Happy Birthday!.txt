@@ -12,7 +12,7 @@ Gacha phrase: I can't carry all these presents.
 [Class 1-C - Doorway]
 
 Haruka: (Hm...? Why do things seem so lively this morning? Not many students are usually here this early.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-C]
@@ -54,7 +54,7 @@ Haruka: (Hehe. They gave me so many presents that I'm having a hard time holding
 Haruka: (My fans were always there to celebrate my birthday when I was still in ASRUN...)
 Haruka: (But I didn't expect so many people to celebrate me for who I am instead of Haruka Kiritani “the idol”.)
 Haruka: (I had the same thought during the Sports Festival, but going back to school was a great decision...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lunch Break]
@@ -83,7 +83,7 @@ Kohane: Really?! Thank goodness! I'll stop by your class once school's out!
 Haruka: Okay, I'll be waiting.
 Haruka: Now, Minori, shall we head up to the rooftop?
 Minori: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Rooftop]
@@ -103,7 +103,7 @@ Haruka: ...
 Airi: Anyway, let's move on to our first segment!
 Shizuku: Ready, Haruka?
 Haruka: I'm ready. Leave it to me!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,7 +120,7 @@ Kohane: No, I should be thanking you since I was the one who asked first...
 Haruka: But is there something you wanted to talk to me about?
 Kohane: Hehe. There's actually someone I'd like you to meet. Would you mind following me to the school gate?
 Haruka: Someone you'd like me to meet?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Main Gate]
@@ -165,7 +165,7 @@ Haruka: And thank you for visiting me at school like this, An. It was really fun
 An: You're welcome!
 An: Anyway, I'll see you later! Don't forget to stop by my place when you can!
 Haruka: Right, I promise to go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -189,8 +189,8 @@ Haruka: (Those bags are from that Penguin Cafe we all went to the other day...)
 Haruka: (Hehe. I probably shouldn't say anything for now.)
 Haruka: I'm sure Airi and the others are busy preparing, Minori, so I'll help out too.
 Minori: Okay!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000010/bg_s000010.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000010/bg_s000010.webp)
 Minori: “We will now be presenting the wonderful birthday greetings that Haruka has received! Take it away!”
 Ichika: “Kiritani, thank you for letting me and my friends talk to you about our band. You've been a great role model in terms of us becoming professional musicians.”
 Saki: “Haruka! Did you hear about the new stuff they put on the menu at the Penguin Cafe?! We should definitely go check it out together sometime♪”
@@ -202,7 +202,7 @@ Airi: “Haruka, you've been so reliable and such a huge help! Along with Minori
 Shizuku: “Haruka, we weren't able to visit that cafe with the low-sugar desserts, but I promise to find it again and I hope you'll join me when I do!”
 Minori: “Happy haaappy birthday, Haruka! You being brought into this world was the greatest thing that's ever happened to me!”
 Minori: “So is standing alongside you as an idol! I still can't believe it and I'm still really new to this, but I'm really looking forward to doing more with you!”
-(White cut)
+(White transition)
 (Background change)
 Haruka: Thank you for joining me in celebrating my birthday today.
 Haruka: I can't express how happy I am to return to the stage as an idol and sing for all of my fans.
@@ -211,4 +211,4 @@ Haruka: Promise to cheer us on?
 Haruka: I'll do everything I can... No, if I say that, I'll make Shizuku and the others worry about me again...
 Haruka: I promise to do my best while taking proper breaks from time to time and make this year count.
 Haruka: And we'll be looking forward to all of your support moving forward!
-(White cut)
+(White transition)

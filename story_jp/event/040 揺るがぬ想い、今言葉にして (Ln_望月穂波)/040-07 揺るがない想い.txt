@@ -9,24 +9,20 @@
 志歩: （でも、みんなは新曲とライブの練習で 手一杯なはずだし……今回は私が頑張らないと）
 志歩: （もし、さばききれなかったら——）
 志歩: （いざとなったら、私がバイト代から出すしかないか……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 店長: メンバーの中でひとりだけに負担がかかる形で 成り立ってるバンドは、あまり長続きしないよ
-(White cut)
+(White transition)
 (Background change)
 穂波: でもそれじゃあ、志歩ちゃんの負担が大きすぎるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………
 志歩: ん、……穂波からメッセージ？
 志歩: 明日、練習前に話したいことがある、か……。 チケットの話かな
 志歩: （穂波が心配してくれるのは嬉しいけど……、 今はきっと、これが一番いい方法だから）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　放課後]
@@ -37,19 +33,15 @@
 穂波: （緊張するな……。 志歩ちゃん、昔から一度決めたことは曲げないから）
 穂波: （……本当にケンカしちゃうことになったら、どうしよう）
 穂波: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: オレだって、リンとケンカする時もあるけどさ、 伝えなきゃいけない時は、ちゃんと言葉にするようにしてるよ
 レン: それに穂波達はプロを目指していくんだろ？ これから一緒にやっていくなら、いいことも悪いことも ぶつけあっていったほうがいいと思うけどな
-(White cut)
+(White transition)
 MEIKO: 穂波達なら大丈夫。 向きあって話しあえば、きっとわかりあえるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （わたしの想いを伝えて、 ちゃんとふたりとも納得できる方法を探さなきゃ……！）
 志歩: 穂波、遅れてごめん
@@ -94,15 +86,15 @@ MEIKO: 穂波達なら大丈夫。 向きあって話しあえば、きっとわ
 穂波: （このまま誰にも言わないで、志歩ちゃんが ひとりで頑張ることが本当に正しいの？）
 穂波: （わたしは……）
 志歩: じゃあ私、行くから
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000020/bg_s000020.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000020/bg_s000020.webp)
 穂波: ……待って、志歩ちゃん！
 穂波: 志歩ちゃんがひとりで頑張るなんて、 やっぱり嫌だよ……！
 志歩: ……っ
 穂波: 志歩ちゃんが言ってることが正しいのはわかるよ。 バンドにとっては、それが一番なんだってことも……！
 穂波: でも……！
 穂波: わたしは、志歩ちゃんだけが 陰で苦しい思いをするのは、絶対に嫌なの！
-(White cut)
+(White transition)
 (Background change)
 穂波: これはきっと、わたしのワガママなんだけど……
 穂波: 志歩ちゃんにわかってほしいの。 わたし達も志歩ちゃんを大切に思ってるって
@@ -111,18 +103,14 @@ MEIKO: 穂波達なら大丈夫。 向きあって話しあえば、きっとわ
 穂波: 志歩ちゃんだって、咲希ちゃんや一歌ちゃんが 無理をしてたら心配になるでしょう？
 穂波: わたしだって同じだよ
 穂波: 志歩ちゃんがひとりで抱えこもうとしているのを、 黙って見ているのは嫌なの……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 店長: メンバーの中でひとりだけに負担がかかる形で 成り立ってるバンドは、あまり長続きしないよ
 店長: 今回は事情があるとはいえ、 こういうことが積み重なってくると 不和が生まれてくる
 店長: それはきっと、音楽にも影響してくると思うんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………
 志歩: （私が少し頑張れば、みんなは練習に集中できるし 新曲もちゃんと仕上がって、次のライブで演奏できる——）
@@ -148,4 +136,4 @@ MEIKO: 穂波達なら大丈夫。 向きあって話しあえば、きっとわ
 志歩: ……だから……
 志歩: 今回だけ、私と一緒に——チケットノルマ、やってくれる？
 穂波: ——うん……！
-(Black cut)
+(Black transition)

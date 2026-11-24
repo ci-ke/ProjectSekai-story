@@ -48,25 +48,25 @@ Asahi: Okay, Rui, that should allow us to implement your idea!
 Rui: Thank you very much. With regards to this stunt, I'd like to keep polishing it while receiving input from all of you.
 Asahi: Alright, sounds like a plan!
 Tsukasa: Then, let's begin practicing!
-(Black cut)
+(Black transition)
 Tsukasa: “What is the meaning of this? Where are the laboratory's security guards?”
 Rui: Again, Tsukasa, you're an android! You sound far too shaken! Act more robotic!
 Asahi: I understand that it's an emotional scene, but it may be better to not give each word so much weight. Try saying your lines like you're saying A-E-I-O-U.
 Tsukasa: I see... Let me try that again.
-(Black cut)
+(Black transition)
 ArcLand Cast Member A: “Sergeant Willis! Have you apprehended the Professor?!”
 Nene: “We still can't find him... There's no sign of him in the lab!”
 ArcLand Cast Member B: Hmm... Am I right in saying that you're more the stationary type, Nene?
 Nene: Huh? Y-Yes... Compared to the others, I don't tend to move around all that much...
 ArcLand Cast Member B: I see. Then, let's try going over the scene where we're looking for the Professor together. We're soldiers, so we need to look the part.
 Nene: O-Okay! I really appreciate it!
-(Black cut)
+(Black transition)
 Emu: Oh, what if we did something like this when we burst in through the doors?! Ka-pow!
 ArcLand Cast Member A: Hey, that looks fun! Lemme try it too! Ka-pow!!
 Emu: Whoa! That was so cool!! How did you manage to go all twirly-whirly?!
 ArcLand Cast Member A: Heh heh heh. It's supposed to be a trade secret... But if you really wanna know...
 Emu: Yeah, I do! Please teach me!!
-(Black cut)
+(Black transition)
 (Background change)
 Nene: Huff... Huff... I'm exhausted...
 Rui: Nice work, Nene. How do you feel?
@@ -77,7 +77,7 @@ Rui: (ArcLand's cast members are certainly very skilled.)
 Rui: (Some are definitely as good as Seiryuin, the prima donna of the Phoenix Stage. On top of that, they have Asahi, who's in a league of his own.)
 Rui: (I was afraid that the others would feel somewhat dejected when faced with such a skill gap...)
 Rui: (But they seem to be taking it in stride...)
-(Black cut)
+(Black transition)
 Asahi: Hmm...
 Tsukasa: Is something wrong, Asahi?
 Asahi: Oh, I was just thinking about how to act out this part.
@@ -94,7 +94,7 @@ Tsukasa: (Not only do they have a deep understanding of their roles, but they ca
 Tsukasa: (Furthermore, despite being an emotionless android, he's able to make each scene incredibly impactful.)
 Tsukasa: (It's as if we're on a real battlefield...)
 Tsukasa: Such acting talent...
-(Black cut)
+(Black transition)
 Rui: Okay, that should be enough practice for today.
 Everyone: Nice work, everyone!
 Emu: Wow, we practiced so much today! I'm super tired!
@@ -122,7 +122,7 @@ Nene: R-Right... We don't get many chances like this...
 Emu: I wanna go too! Let's have a big feast!!
 Asahi: How about you, Rui? Will you be able to join us?
 Rui: Yes... I'd also like to go.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Diner]
@@ -171,29 +171,21 @@ Tsukasa: A conflict...?!
 Asahi: This may be hard to believe, but we suddenly began hearing gunfire. Before long, my windows were being shot out...
 Asahi: It was so scary. My heart still races every time I think about what happened.
 Rui: (That reminds me of...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Asahi: It's a hidden gem in terms of science-fiction stories. A friend of mine recommended it to me and read it for the first time at a library in Japan when I was in sixth grade.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (Now I see. What he really meant was...)
 Tsukasa: (Oh...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: (It's as if we're on a real battlefield...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: (That's his lived experience...)
 Asahi: Then, as my parents and I were trying to flee, I got separated from them...
@@ -247,4 +239,4 @@ Emu: You really had us going there!
 Rui: Hehe... This sort of banter is nice every once in a while.
 Asahi: (It is meant in jest...)
 Asahi: But I think it'd be really fun if you did join us.
-(Black cut)
+(Black transition)

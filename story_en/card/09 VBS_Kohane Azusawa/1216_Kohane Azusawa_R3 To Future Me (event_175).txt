@@ -21,7 +21,7 @@ Kohane: This trip was so much fun...
 Kohane: (When we first arrived in the United States, I was so anxious and excited I could barely stop and see what was around me.)
 Kohane: (But I'm really glad we came... We had our share of troubles, but this trip ended up being really fun.)
 Kohane: (We got to see SONIC NOTES, and I got to talk to Taiga for the first time in a while.)
-(White cut)
+(White transition)
 (Background change)
 Taiga: Hm...? What's up, missy?
 Kohane: I wanted to thank you for that meal...! Every dish was just so good!
@@ -36,26 +36,18 @@ Taiga: But let me just say this...
 Kohane: ...? Yes, what is it that you'd like to tell me?
 Taiga: All I did was help you get to the starting line.
 Taiga: Sure, Ken's training might have helped a little.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Taiga: But you're standing here now because you struggled against RUST and GLaP day, hung on for dear life and clawed your way to victory.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Taiga: In other words, this is the result of your hard work.
 Kohane: (Oh...)
@@ -68,7 +60,7 @@ Taiga: Come to think of it, when I decided to pursue this seriously, I quit high
 Kohane: What...?
 Kohane: Umm... Well... M-My dad might collapse if I did anything like that...
 Taiga: Haha. I wouldn't be surprised. You should've seen the look on my mom's face. I got an earful for making such a huge decision without asking anyone.
-(White cut)
+(White transition)
 (Background change)
 Kohane: (I have to do my best. I need to give this journey everything that I have!)
 Kohane: (Okay, this photo looks nice. Things do look a little different compared to when we first got here.)
@@ -76,7 +68,7 @@ Kohane: (I wonder if things will look even more different next time.)
 Kohane: (How will I have changed between now and the next time I come back?)
 Kohane: (Will I feel any different? Will I have gotten better by then?)
 Kohane: (I have to keep growing. I have to become twice as good. No, tenfold!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -106,7 +98,7 @@ Kohane: It's really sinking in that I'm back home.
 Kohane: Oh, I need to get to my seat...
 Ichika: Alright, we'll see you later.
 Kohane: See you!
-(Black cut)
+(Black transition)
 
 [Lunch break]
 
@@ -138,4 +130,4 @@ Kohane: In that case, I'll try talking to her after school.
 Kohane: (I felt a little nervous this morning... But talking with everyone like this makes it feel like I'm back to my usual life.)
 Kohane: (I'll have to take time off from school again in order to compete in RUSH BEATS...)
 Kohane: (...So I want to cherish every second of this time.)
-(Black cut)
+(Black transition)

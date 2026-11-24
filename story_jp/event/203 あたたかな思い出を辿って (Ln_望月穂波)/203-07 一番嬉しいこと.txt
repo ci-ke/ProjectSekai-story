@@ -21,7 +21,7 @@
 咲希: うん！ 早く見たいし、みんなで走っていっちゃおうか！？
 一歌: えっ？
 穂波: た、食べたばっかりだし、 早歩きくらいにしよう……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -59,16 +59,12 @@
 咲希: あの頃も、今も…… たくさんたくさん、助けてもらってるよ！
 穂波: ……ううん。 お礼を言ってもらうようなことじゃないよ
 穂波: だって、わたしがやりたくてやってるんだもん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （みんなが笑顔で、一緒にいられる——）
 穂波: （それが……わたしには、一番嬉しいことだから）
-(Black cut)
+(Black transition)

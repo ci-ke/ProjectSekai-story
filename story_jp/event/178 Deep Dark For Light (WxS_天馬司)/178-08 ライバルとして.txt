@@ -2,7 +2,7 @@
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [THE CENTER THEATRE]
@@ -86,7 +86,7 @@
 ハート (寧々): 『……一緒に考えよう。 どうしたらみんなが、幸せに暮らしていけるのか』
 ハート (寧々): 『それで——本物のハッピーエンドを、私達の手で作るの』
 ハート (寧々): 『お姫様と王子様は、苦難を乗り越えて、 みんなと幸せに暮らしましたとさ、って！』
-(Black cut)
+(Black transition)
 
 [１時間後]
 
@@ -144,7 +144,7 @@
 司: ——コホン。 いいか？　お前達
 司: 本番の公演も、オレ達の持てる力すべてでやりきるぞ！！
 類・えむ・寧々: 『ああ！』 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 えむ: それじゃあみんな、バイバーイ！
 類: 明日からもハードな練習になる。 今日くらいは全員、きちんと休息をとるようにね
@@ -191,14 +191,10 @@
 司: （彼のライバルとして、高め合うためにも……！！）
 旭: （……きっと、彼はまだまだ伸びる。 そう感じる）
 旭: （なぜだろう。 今まさに成長してるからか？　それとも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 司: そしてオレはこれからも、 仲間と共に、全力で駆け上がっていきます
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 旭: 仲間……か
-(Black cut)
+(Black transition)

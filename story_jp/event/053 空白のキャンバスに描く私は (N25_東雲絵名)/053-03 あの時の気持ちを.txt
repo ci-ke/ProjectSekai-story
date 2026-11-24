@@ -6,16 +6,12 @@
 
 絵名: （——絵画教室は、あの日が最後）
 絵名: （挨拶もなしに辞めたから、 お母さんにすごく怒られたな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雪平: ……今の東雲さんに言うことは、何もありません
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: …………
 絵名: （ううん、もう関係ない。 えっと……たしかこの辺りに参考書があったような……）
@@ -30,16 +26,12 @@
 絵名: （またあの教室に行けば——もっとうまくなれるかもしれない）
 絵名: （雪平先生はすごい先生だし、あの教室から 東美に受かる人もたくさんいたから……）
 絵名: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……周りのレベルだって、絶対上がってる。 きっと、前とは比べものにならないくらい）
 絵名: （急に辞めたから、みんなにも変な目で見られて——）
@@ -48,14 +40,14 @@
 絵名: …………
 絵名: （行ったほうがいいのはわかってる。 わかってるけど…………）
 絵名: 惨めすぎるよ……そんなの…………
-(Black cut)
+(Black transition)
 
 [翌日]
 
 絵名: はあ……
 絵名: （そろそろ新曲のラフのパターン、出さないと。 だいぶ待たせちゃってるし）
 絵名: （でも、今の私が描いたってきっと……）
-(Black cut)
+(Black transition)
 絵名: …………
 絵名: （……やっぱり、描けない。 むしろ、描けば描くほどイメージから遠くなって……）
 絵名: ……頭、冷やそう
@@ -77,15 +69,11 @@
 瑞希: 『でも、もし話したほうが楽になることなら、 いつでも話していいからさ！』
 (Background change)
 絵名: 『瑞希……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……そうだね）
 絵名: （……友達だからいつか話してほしいって言ったくせに 自分は黙っちゃうなんて、筋がとおってないよね）
@@ -93,7 +81,7 @@
 (Background change)
 絵名: 『じゃあ……ちょっと聞いてもらっていい？』
 瑞希: 『……！　うん！』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『——え？　実力が追いついてない？』
 (Background change)
@@ -160,15 +148,11 @@
 (Background change)
 瑞希: 『うん、あんまりいい思い出ないって言ってたけど、 学校の授業じゃできないようなことも たくさんやってたみたいだし』
 絵名: 『……まあ、たしかにそういう時も——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （あ——）
 絵名: （そっか。楽しんでやれてた時も、あったんだ）
@@ -188,4 +172,4 @@
 (Background change)
 瑞希: 『いえいえ。困った時はお互いさま、だからね♪』
 (Background change)
-(Black cut)
+(Black transition)

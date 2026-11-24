@@ -11,19 +11,15 @@
 愛莉: 気分が上がる曲は、っと……
 愛莉: ……ふふっ
 愛莉: やっぱり落ちこんだ時は、このグループの曲ね！ 自然と笑顔になれるっていうか――
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い愛莉 (愛莉): アイドルってすごいな……。 歌って踊れて、みんなを笑顔にできて……
 愛莉の妹: お姉ちゃん、最近いつもその子見てるね。 そんなに好きなの？
 幼い愛莉 (愛莉): うんっ！　だって、見てると元気が出るっていうか なんだかニコニコしちゃうんだもん
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: あ……
 愛莉: ……そうだったわね
 愛莉: テレビの前で見るアイドルは、 いつもキラキラして、見てると笑顔になって……
@@ -32,21 +28,17 @@
 愛莉: ……それなのに……
 愛莉: ……現実的じゃ、ないのかしら
 愛莉: だけど……。 あ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ミク (MMJ): ここはみんなのセカイだし、 またいつでも来てね
 リン: あ、落ちこんじゃった時も来てね！ 絶対にわたしが元気にするから♪
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: セカイ……
 愛莉: あそこに行けば、何かヒントをもらえるかしら
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -78,15 +70,15 @@
 愛莉: あのね、リンにお願いがあるの
 リン: わたしに？　なになにっ？
 愛莉: とびっきり笑顔になれる曲を歌ってくれない？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000032/bg_a000032.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000032/bg_a000032.webp)
 リン: なーんだ、それなら任せて！！
 リン: 愛莉ちゃんが、いつもの元気な愛莉ちゃんになれるように
 リン: めいっぱい笑顔になれるように、 とっておきの曲を歌っちゃうから！
 愛莉: リン……
 愛莉: うん……ありがとう
-(White cut)
+(White transition)
 (Background change)
 リン: よーしっ！ それじゃ、最後まで楽しんでいってね♪
 リン: ミュージックスタート！
-(Black cut)
+(Black transition)

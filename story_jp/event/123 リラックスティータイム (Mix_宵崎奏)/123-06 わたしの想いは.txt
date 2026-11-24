@@ -51,20 +51,16 @@
 ミク (N25): ……うん、わたしもそう思う
 ミク (N25): 奏は、みんなにどんな気持ちになってほしいの？
 奏: どんな気持ちに……なってほしいか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （みんな、一生懸命頑張ってる）
 奏: （そんなみんなに、わたしは……）
@@ -74,7 +70,7 @@
 ルカ (N25): そう……。 よかったわね
 ミク (N25): みんなに、喜んでもらえるといいね
 奏: うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -87,4 +83,4 @@
 一歌: 『それで、何にしたんですか？』
 (Background change)
 奏: うん。わたしはね——
-(Black cut)
+(Black transition)

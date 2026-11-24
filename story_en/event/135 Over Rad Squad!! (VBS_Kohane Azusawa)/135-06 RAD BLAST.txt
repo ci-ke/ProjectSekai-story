@@ -32,7 +32,7 @@ Ken: You made them taste bitter defeat that night.
 Taiga: I wasn't trying to motivate them. I was just putting them in their place.
 Taiga: That being said... They've come this far, so I need to how strong they are.
 Taiga: How strong their resolve is.
-(Black cut)
+(Black transition)
 (Background change)
 
 [COL]
@@ -127,7 +127,7 @@ Toya: Alright, you two are kicking things off for us, Azusawa, Shiraishi.
 Toya: Give them everything you've both got.
 An: Oh, we will! Let's do this, Kohane!
 Kohane: Yeah, let's go!
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: (The first act's job is to set the stage for the entire event. So... Failure is not an option.)
 Kohane: (Just a second ago, the thought of not succeeding almost overwhelmed my mind...)
@@ -159,7 +159,7 @@ Kohane & An: ♪——————————————————!!
 Audience: Th-This is awesome...!
 Audience: I'm getting goosebumps. Their singing's amazing...!
 Taiga: Not bad...
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: Huff... Huff... Huff...
 An: Huff... Huff...! Nice work, Kohane!
@@ -185,7 +185,7 @@ Akito: I left any nerves behind long ago. All I care about now is...
 Akito: Surpassing that night. End of story.
 Toya: Yes, I feel the same way.
 Toya: Let's go out there and make our dream a reality, Akito.
-(Black cut)
+(Black transition)
 (Background change)
 Akito & Toya: ♪——————————————————!!
 Audience: ...!!
@@ -205,7 +205,7 @@ Kohane: ...
 An: Those two really are amazing.
 An: I mean, my heart's pounding like crazy...!
 Kohane: Mine too...!!
-(Black cut)
+(Black transition)
 An: That was awesome, you two! They're bouncing off the walls now!
 Tatsuya: Alright, Mita! You're up next!
 Kohane: Make them go even crazier for us!
@@ -232,22 +232,18 @@ Kotaro: ♪————!! ————!! ————!!
 Audience: Seriously, when did he get so—
 Audience: Who cares...?! You're doing awesome, Kotaro!!!
 Taiga: ...
-(Black cut)
+(Black transition)
 Tatsuya: Ready, everyone! Hang on tight!
 Tatsuya: ♪————————————!!
 Audience: This is incredible...!
 Audience: They sound amazing! I'm being shaken to the core...!!
 Taiga: (Even these guys found a way to get good.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 Taiga: They all feel the same way...
 Taiga: (But this still isn't enough to—)
@@ -256,7 +252,7 @@ Taiga: (Hm...? That kid's in a wheelchair... Maneuvering around in this crowd ca
 Taiga: Hey, kid, you okay? You look like you're not feeling well...
 ???: I'm okay, thank you. This pain's manageable...
 Taiga: ...! You're...
-(Black cut)
+(Black transition)
 (Background change)
 An: Nice...! EVER's in good form too!
 Toya: All that's left is for us to push the door fully open.
@@ -312,7 +308,7 @@ Toya: I think Soma was able to write his song because of how he felt about you.
 Arata: I see...
 Arata: Then, I'll sing with those feelings in mind.
 Arata: I'm going to show them what Soma and I are all about.
-(Black cut)
+(Black transition)
 (Background change)
 Audience: EVER was off the hook...! No other team can sing the way they do!
 Audience: Yeah! And I'm getting drenched in sweat! It's so hot in here!
@@ -338,7 +334,7 @@ Soma: Arata! You can do it!!!
 Soma: ...
 Soma: I'm right there with you, Arata!
 Soma: By your side... With my song...!
-(Black cut)
+(Black transition)
 Audience: Whoa... This feels like a dream...
 Audience: Yeah...
 Audience: I think we're witnessing history here...!
@@ -354,23 +350,19 @@ Toya: Whether or not we do now depends entirely on us.
 Kohane: Right...
 Kohane: Sorry, everyone... I'm going to get a quick drink of water.
 An: Yeah. I'll try to stay focused until we go on too.
-(Black cut)
+(Black transition)
 Kohane: *Gulp* *Sigh*
 Kohane: (We're going to surpass it.)
 Kohane: (No matter what, we're going to do it!)
 Kohane: (And I'm going to complete that task...!!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ken: Kohane. As discussed, you'll be doing your thing during the final song.
 Ken: When you do...
 Ken: You need to throw everything you're feeling in that moment into the song.
 Ken: That's your second task... Your final one.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kohane: (Everything I'm feeling...)
 Kohane: (My thoughts, my ego, everything...!)
 Kohane: (If I can't do that, then we'll...)
@@ -379,4 +371,4 @@ Kohane: (My hands are shaking...)
 Kohane: (No, now's not the time...! I have to go...! I have to go out there and—)
 ???: <Kohane.>
 Kohane: ...!
-(Black cut)
+(Black transition)

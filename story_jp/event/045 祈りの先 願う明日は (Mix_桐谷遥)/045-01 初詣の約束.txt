@@ -10,14 +10,14 @@
 
 遥: うん。 今朝も寒いけど、いい天気だな
 遥: よし——行こう
-(Black cut)
+(Black transition)
 (Background change)
 遥: はっ、はっ、はっ、はっ……
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [神社の境内]
@@ -42,7 +42,7 @@
 遥: 今年もお仕事頑張ってください
 榎本: ええ、ありがとう遥ちゃん
 遥: それじゃあ、私はこれで失礼します。 よいお年を
-(Black cut)
+(Black transition)
 (Background change)
 
 [遥の部屋]
@@ -68,4 +68,4 @@
 遥: ふふっ。 楽しみだな、みんなで初詣
 遥: （……難しいだろうけど、もし時間があったら、 榎本さんにみんなのことを紹介したいな）
 遥: （私は今も、みんなと一緒にアイドルを頑張ってます——って）
-(Black cut)
+(Black transition)

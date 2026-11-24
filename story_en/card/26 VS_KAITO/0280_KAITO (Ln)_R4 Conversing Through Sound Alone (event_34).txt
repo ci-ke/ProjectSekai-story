@@ -61,7 +61,7 @@ MEIKO: Alright, we'll introduce you to them just before the start of practice to
 KAITO: ...
 KAITO: (Th-There's no escape now...)
 KAITO: (No, it's time...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -84,17 +84,13 @@ KAITO: Yes, of course. If you're okay with me that is...
 Ichika: Thank you so much...!
 KAITO: There's no need to thank me that much...
 Ichika: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: They seemed fine.
 KAITO: How interesting these lyrics sound isn't what's important. How you feel should take priority, Ichika...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: Those words really helped me move forward.
 KAITO: They did? Then, I'm glad...
@@ -125,4 +121,4 @@ KAITO: Me too.
 KAITO: (You girls are really something else.)
 KAITO: (Someday...)
 KAITO: (I'll be there singing with you.)
-(Black cut)
+(Black transition)

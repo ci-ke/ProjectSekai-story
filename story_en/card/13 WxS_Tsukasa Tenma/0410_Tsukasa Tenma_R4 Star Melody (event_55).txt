@@ -7,15 +7,11 @@ Gacha phrase: I have no choice but to keep playing.
 
 (Character: Saki Tenma, Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [Tsukasa's Room]
@@ -25,7 +21,7 @@ Tsukasa: However! I was able to expand my acting range and take a big step towar
 Tsukasa: Hah hah hah hah!
 Saki's Voice (Saki): Um, Tsukasa. Are you free right now? There's something I want you to do for me...
 Tsukasa: Hm? Saki?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tenma Household - Living Room]
@@ -45,7 +41,7 @@ Tsukasa: (It's been so long since we last played “Twinkle, Twinkle, Little Sta
 Tsukasa: (Still...)
 Tsukasa: (She used to have so much trouble playing when she was little, but now, she's far better than I am.)
 Tsukasa: (To be fair, she's been practicing every day with her band. I'm so proud of you, Saki.)
-(Black cut)
+(Black transition)
 Saki: Man, that was so much fun! Thanks for playing with me, Tsukasa!
 Tsukasa: The pleasure was all mine. Don't hesitate to ask if you ever feel like playing together again!
 Saki: Okay! Oh, also...
@@ -83,7 +79,7 @@ Tsukasa: Hm? Yes, point taken, but it works either way since they're essentially
 Saki: And you still just gloss over the details...
 Saki: But in any case. Thanks, Tsukasa!
 Tsukasa: You're very welcome!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -141,4 +137,4 @@ Tsukasa: Alright, we'll be going back to putting on shows as usual until our nex
 Emu, Nene & Rui: Yeah!
 Miku (WxS): I'm in too!
 KAITO: Break a leg, everyone!
-(Black cut)
+(Black transition)

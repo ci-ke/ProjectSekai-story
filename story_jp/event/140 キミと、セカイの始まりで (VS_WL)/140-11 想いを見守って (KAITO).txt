@@ -2,7 +2,7 @@
 
 (Character: 天馬咲希, 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -25,7 +25,7 @@ KAITO: ああ。それじゃあ僕が上手に立つから、 ミクは下手か
 KAITO: （……やっぱり、このセカイの僕達はショーが好きなんだね）
 KAITO: （ふふ、これも—— 想いの持ち主である司くんの影響かな）
 KAITO: （どんなショーを見られるのか、僕も楽しみだな）
-(Black cut)
+(Black transition)
 ミク (WxS): こうして、ひとつの星を救ったペガサス冒険団は、 宇宙へと旅立ったのであった！
 うさぎのぬいぐるみ: パチパチパチ！ オ疲レサマー！
 ねこのぬいぐるみ: ワー！　楽シカッタ～！
@@ -41,7 +41,7 @@ KAITO: それに何より—— 本当の想いに気づいてもらって、 �
 ミク (WxS): カイト、早く呼びに行こ～っ！
 KAITO: ふふ、いよいよ司くんと出会うんだね
 KAITO: ……あれ？ でも、司くんがセカイにきたのはたしか、 もっと後だったような——
-(Black cut)
+(Black transition)
 (Background change)
 幼い司 (司): んー、次のショーはどんな話にしようかな……
 ミクの声 (ミク-WxS): 『司くん、司く～ん！』
@@ -53,7 +53,7 @@ KAITO: ……あれ？ でも、司くんがセカイにきたのはたしか、
 KAITO: 『あ……』
 ミク (WxS): 『うーん！　タイミング悪かったかなあ……』
 ミク (WxS): 『でもでも大丈夫！ 次は気づいてもらえるようにがんばろ～☆』
-(Black cut)
+(Black transition)
 (Background change)
 幼い司 (司): あはは！　この番組面白いな～！
 幼い司 (司): あっ今の、ショーのネタに使えるかも！ えーっと……
@@ -65,13 +65,13 @@ KAITO: 『あ……』
 幼い司 (司): そうだ、冬弥！ 次のショーなんだけど、冬弥も一緒に——
 ミク (WxS): 『あ、あれ……』
 ミク (WxS): 『ううん、まだまだ！！』
-(Black cut)
+(Black transition)
 (Background change)
 ミク (WxS): 『司くん、Untitledに気づいて～！』
 幼い司 (司): わっ、あー！！！！！
 幼い司 (司): さっきの、なんだったんだろ……って、うわ！
 幼い司 (司): ス、スマホが水たまりに……！　壊れちゃったかな……
-(Black cut)
+(Black transition)
 (Background change)
 ミク (WxS): うーーーーん！ 司くん、全然気づいてくれないよ～！
 KAITO: スマホを修理してもらえるまで、しばらく会いにいけないね……
@@ -84,15 +84,15 @@ KAITO: しばらくは想いが育つのを見守っていよう
 ミク (WxS): うん……！
 KAITO: （……ふたりは、司くんが小さい頃から 想いを見守ってくれていたんだね）
 KAITO: （なかなかタイミングが合わなくて大変そうだけど……）
-(Black cut)
+(Black transition)
 (Background change)
 幼い司 (司): 前に作ったショー、すっごく笑ってもらえたな！ よーし！　じゃあ続編を——
-(Black cut)
+(Black transition)
 中学生の司 (司): ……はぁ。咲希も遠くの病院に行って…… ショーを見せる機会が少なくなってしまったな
 中学生の司 (司): ……いや、落ち込んでいないで、 これを機に演技をもっと学んでみるとするか
 中学生の司 (司): それに……もう咲希には、一歌達もいる
 中学生の司 (司): ならばオレは、これを機に世界一のスターとなろうではないか！
-(Black cut)
+(Black transition)
 (Background change)
 司: ——うむ、今のは素晴らしい演技ではなかったか！？
 司: フフフ、オレが世界一のスターとなる日も近いな！ ハーハッハッハ！
@@ -104,7 +104,7 @@ KAITO: 『スターのようになろうと演技に熱中するあまり、 そ
 ミク (WxS): 『司くんの本当の想いを思い出して——』
 司: あめんぼ赤いなあいうえお～！
 ミク (WxS): 『うう～！　やっぱり気づいてもらえないよ～！』
-(Black cut)
+(Black transition)
 (Background change)
 うさぎのぬいぐるみ: エーン！　ツカサクン、本当の想いを忘レチャッタ……！
 ミク (WxS): このセカイも、このままずっと 気づいてもらえないのかなあ？
@@ -124,14 +124,10 @@ KAITO: そのために僕達がいるんだろう？
 ミク (WxS): そういう子達を探しに行けばいいんじゃないかなっ？
 KAITO: （司くんと同じ想いを持っている子……）
 KAITO: あ……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 KAITO: （——そうか……。 こうして、えむちゃん達と出会うんだ）
 うさぎのぬいぐるみ: デモ、探スってドウヤって？
 ミク (WxS): むむむ……。 スマホからちょろっと顔出して、近くを探してみるとか……？
@@ -143,20 +139,16 @@ KAITO: ああ、もう少ししたら行くよ。 ふたりは先に向かって
 KAITO: …………
 KAITO: ——きっと、大丈夫だ
 KAITO: “ショーで誰かを笑顔にしたい”…… そんな司くんの想いで、このセカイは生まれた
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: 今は、忘れてしまったみたいだけれど…… きっと思い出せる
 KAITO: だって、こんなに素敵なセカイを生んでくれた 司くんなんだから
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000345/bg_s000345.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000345/bg_s000345.webp)
 KAITO: ——大丈夫だよ
 KAITO: きっとまた思い出してもらえる。 それに……
 KAITO: ミクの言っていた通り、 司くんと同じ想いを持った子達も、ここへ来てくれるよ
@@ -164,11 +156,11 @@ KAITO: えむちゃん、寧々ちゃん、類くん—— みんなとても純
 KAITO: きっとみんなが、助けになってくれる
 KAITO: 司くんの本当の想いを見つけて、 一緒に歩んでくれるはずだから
 KAITO: 彼らを信じて進んでいけば、大丈夫だ
-(White cut)
+(White transition)
 (Background change)
 KAITO: …………
 KAITO: ——頑張ろう
 KAITO: 司くんに、本当の想いを見つけてもらうために
-(Black cut)
+(Black transition)
 (Video: link_ppr_ed5)
-(Black cut)
+(Black transition)

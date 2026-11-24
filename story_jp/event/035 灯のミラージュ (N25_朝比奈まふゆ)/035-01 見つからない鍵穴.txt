@@ -14,10 +14,8 @@
 まふゆ: ……あ。そういえば、 今日はセカイに集まる約束だったっけ
 まふゆ: たしか、新曲のMVや歌詞について 直接話しあいたいって奏が言ってた
 まふゆ: （…………。 あの時の、奏の曲……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……うまく、言えないけど……
 まふゆ: よかった、と思う
@@ -27,31 +25,25 @@
 絵名: え、あんた気づいてないわけ？
 瑞希: まふゆ、笑ってたんだよ！　奏の曲聴いて！
 まふゆ: 私が……？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……あの曲……）
 まふゆ: （最初は、いつもと同じだと思った。 ただなんとなく、胸の奥がもやもやするだけ）
 まふゆ: （でも、いつもと少しだけ違ったのは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 少し——あたたかかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: どうしてそう感じたんだろう
 まふゆ: なんであの曲だけ、あたたかいって感じたんだろう
 まふゆ: どうして——笑ったんだろう
 まふゆ: ………………。 頭、痛い……
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -134,11 +126,11 @@
 絵名: 水分摂って、あったかくして寝なさいよ
 ミク (N25): ……まふゆ……
 まふゆ: ……みんな、ありがとう。 ただの風邪だと思うから、すぐ治すよ
-(Black cut)
+(Black transition)
 (Background change)
 (Place: まふゆの部屋)
 まふゆ: ………………
 まふゆ: （そっか。今朝から頭が重いと思ってたけど 熱があったんだ……）
 まふゆ: （体を休めなくちゃ。 でも……）
 まふゆ: （どうしてあの曲で笑ったのか——、 早く知りたい……）
-(Black cut)
+(Black transition)

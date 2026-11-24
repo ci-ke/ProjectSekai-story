@@ -51,17 +51,13 @@ Skill name: 居心地のいい空気
 彰人: ……いつの話してんだよ
 彰人: あれはもう気にしてねえ。 それに、お互いさまだっただろ？
 彰人: あの時——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: ……勝手にしろ！！
 彰人: その代わり、その顔二度と見せんな！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ——オレだって、 頭に血がのぼって冷静になれなかった
 彰人: だから、お前の言葉を鵜呑みにしちまった
@@ -78,7 +74,7 @@ Skill name: 居心地のいい空気
 彰人: ——杏がどうしようもねえ時は、オレ達で支えるぞ
 彰人: 仲間を信じて、やれることをやらねえとな
 冬弥: ……ああ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -135,15 +131,11 @@ Skill name: 居心地のいい空気
 達也: 甘いもん好きじゃねえんだよ。 青柳もどっちかっていうと肉のほうがいいだろ？
 冬弥: ……はい。 そちらのほうが助かります
 達也: ほらな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……まだ全部じゃねえ。けど——）
 彰人: （一度失っちまったものを、取り戻すことができた）
@@ -156,4 +148,4 @@ Skill name: 居心地のいい空気
 彰人: （三田と、岡崎さん達の想いは本物だ。 だからこそ——）
 彰人: （こいつらと一緒なら、 オレ達はもっといいイベントができる！）
 彰人: （——見てろ。もうあの時とは違う。 何もかも失っちまった時みたいにはいかねえ）
-(Black cut)
+(Black transition)

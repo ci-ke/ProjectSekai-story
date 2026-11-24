@@ -3,7 +3,7 @@
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
 : ある日突然、４人の前に現れた謎の男。 圧倒的な歌声で観客を沸かせる彼を、 杏と彰人は知っているようで——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -12,13 +12,13 @@
 こはね: ………………っ
 こはね: （すごい……！）
 こはね: （聴いてるだけなのに、 体が、どんどん熱くなって……！！）
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 冬弥: 白石、彰人、あの人は何者なんだ？
 杏: あの人は——古瀧大河さん
 杏: 父さんの元相棒で、RAD WEEKENDをやった——ううん、 伝説の夜を作ったひとりだよ
 こはね: え……ええ～っ！？
-(Black cut)
+(Black transition)
 (Background change)
 杏: そういえば、凪さんはどうしてるの？ おじさんと一緒にアメリカに行ったんだよね
 こはね: 凪さん？
@@ -30,10 +30,10 @@
 大河: ……ああ。あいつなら、変わりねえよ
 大河: 今もどこかのストリートで歌ってるさ
 杏の父: …………
-(Black cut)
+(Black transition)
 (Background change)
 : しばらくして、 RAD WEEKENDの動画があると聞いた４人は、 杏の父・謙に映像を見せてもらうことになる
-(Black cut)
+(Black transition)
 (Background change)
 凪: ——あのね、実は私、 今日を人生で一番特別な日にしたいんだ
 凪: 私達は今までもずっと、 私達の持てる精一杯の力で歌ってきた。けど——
@@ -42,13 +42,13 @@
 中学生の杏 (杏): 凪さん……
 凪: だからみんな、今日はいっちばんいい顔見せて！
 凪: 一緒に——伝説を作るよ！！
-(Black cut)
+(Black transition)
 凪: さあラストを飾るのは、もちろん私達——
 凪: RADder！！
-(Black cut)
+(Black transition)
 (Background change)
 : その熱量を浴びた４人は、 伝説の夜を超えるため、必要なものに気づき——
-(Black cut)
+(Black transition)
 (Background change)
 彰人: （RAD WEEKENDを超えるなら、 あの熱狂を上回らなきゃならねえ）
 彰人: （だが……あれは簡単に生み出せるもんじゃない）
@@ -56,7 +56,7 @@
 彰人: （あの時、RAD WEEKENDに参加してる全部のチームが、 ぶつかって……ひとつになって、てっぺんを目指してた）
 彰人: （あれはただの熱気じゃなくて、 チーム同士がぶつかって生まれた…… ……“高めあう空気”、だったんじゃねえか）
 彰人: （だとすると、RAD WEEKENDを超えるには——）
-(Black cut)
+(Black transition)
 (Background change)
 彰人: まず、出演者から決めていくべきだと思う
 彰人: 一緒にやるメンバーが半端なヤツじゃ、 あの空気は生めないだろうしな
@@ -65,18 +65,18 @@
 杏: それならもちろん、RAD WEEKENDを超えてやる！ って気持ちがある人でしょ
 杏: それであとは——魂こめて、本気で歌える人！ ここは外せないよね
 冬弥: ずいぶんと概念的だが……、 その条件が満たせる人物となると——
-(Black cut)
+(Black transition)
 (Background change)
 新: そのイベント——俺も出させてくれないかな？
-(Black cut)
+(Black transition)
 (Background change)
 達也: 改めて——俺はEVERの岡崎達也だ。 よろしくな、Vivid BAD SQUAD
-(Black cut)
+(Black transition)
 (Background change)
 洸太郎: あのイベントはオレにとっても本当にすげえイベントなんだ。 すごすぎて、超えるなんて言うのも怖えくらいで……
 洸太郎: だけど……今はオレも本気で、 RAD WEEKENDを超えてみたい—— いや、ぜってー超えてみせる！
 洸太郎: そうしたらオレは—— 自分を誇れるようになると思うんだ
-(Black cut)
+(Black transition)
 (Background change)
 彰人: オレは、ここにいる全員が本気だって思ってる
 彰人: 何がなんでもRAD WEEKENDを超えたい。 そういう気持ちがあるから、ここにいるんだろ？
@@ -87,24 +87,24 @@
 新: ——東雲くんの言うとおりだ
 新: できるかどうかなんて、考えてる暇はない。 俺達は俺達の夢のために、最高のイベントをやろう
 彰人: ああ。——あの夜を、超えるぞ！
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……！
 こはね: ……なんだろう。いつものイベントと、全然違う……！
 杏: うん……！ ステージも客席も熱くなってて——気持ちいい！
 冬弥: これが……“フロアが沸く”ということなんだろうか
 彰人: ——ああ、きっとそうだな
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
 彰人: ——それで、お前らはどう感じた？
 彰人: 今日の、“空気”を
 新: ふふっ。 わざわざ聞くの？
 彰人: …………ま、その顔なら全員、 ちゃんと感じられたみたいだな
 彰人: まだRAD WEEKENDまでは遠いにせよ……。 それでもオレ達は、一歩進んだ
-(White cut)
+(White transition)
 (Background change)
 彰人: んじゃ——次のイベント考えるぞ！　お前ら！
 杏・洸太郎: 『おーっ！』
-(Black cut)
+(Black transition)

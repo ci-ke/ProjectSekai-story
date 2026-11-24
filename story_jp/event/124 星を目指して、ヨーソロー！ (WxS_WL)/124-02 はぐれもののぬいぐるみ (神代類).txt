@@ -3,7 +3,7 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
 (Video: link_wonder_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -30,7 +30,7 @@ MEIKO (WxS): フェニックスについて知ってる子はいなかったけ�
 えむ: 宿屋にはいろんな場所からぬいぐるみさん達が来るから 噂話がたくさん集まるんだって！
 類: たしかに、それならフェニックスの目撃情報もあるかもしれないね
 類: それじゃあ、さっそく行ってみよう
-(Black cut)
+(Black transition)
 
 [宿屋前]
 
@@ -48,7 +48,7 @@ MEIKO (WxS): フェニックスについて知ってる子はいなかったけ�
 類: 楽しい雰囲気のほうが、 おしゃべりも進むだろうからね
 司: む、なるほどな
 司: ……では、パーティーを楽しみつつ、 手分けして聞き込みをするか！
-(Black cut)
+(Black transition)
 ぬいぐるみ達: ——フェニックスのコトはワカラナイヤ
 ぬいぐるみ達: フェニックスッテ、伝説の生キ物ダヨネ？ 本当にイルノ？
 ぬいぐるみ達: チカラにナレナクテゴメンネ
@@ -101,14 +101,14 @@ MEIKO (WxS): フェニックスについて知ってる子はいなかったけ�
 類: ……大丈夫。痛みはないよ
 類: （これは……僕がはじめましてと言ったから、 挨拶を返してくれているのかな？）
 類: では、僕も応えなくてはね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000289/bg_s000289.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000289/bg_s000289.webp)
 類: 失礼。 ——がぶっ
 ゾンビのぬいぐるみ: ——！！！
 ミク (WxS): わあ、楽しそう～☆ ミクもミクも～！
 リン (WxS): リンもやる～☆　がぶっ！
 ゾンビのぬいぐるみ: な、なんだお前ラ……。 変な奴らだナ……
-(White cut)
+(White transition)
 (Background change)
 ミク (WxS): ねえねえ！ ゾンビさん達に聞きたいことがあるの！
 リン (WxS): リン達、フェニックスを探してるんだ☆
@@ -139,4 +139,4 @@ MEIKO (WxS): フェニックスについて知ってる子はいなかったけ�
 リン (WxS): 類くん、どうしたの？
 類: ああ……。 なんでもないよ。ただ——
 類: 彼らを見ていたら……昔のことを思い出してね
-(Black cut)
+(Black transition)

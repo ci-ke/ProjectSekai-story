@@ -27,24 +27,20 @@
 類: ……わかりました。 みんなにも相談してみます
 慶介: ああ、よろしく頼む
 類: お忙しい中、時間を割いていただき 本当にありがとうございました。 ……失礼します
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 慶介・晶介: 『…………』
-(Black cut)
+(Black transition)
 (Background change)
 類: （相談するとは言ったけれど——）
 類: （大事なオープン記念公演だ。 きっとみんな、この公演はやりたいと言うだろう）
 類: （そうするときっと……その公演が、 ワンダーステージのキャストとして最後の公演になる）
 類: （なら……最高のショーにしなくてはね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -74,7 +70,7 @@
 司: あのショー……？
 えむ: うんっ！
 えむ: ミクちゃん達と一緒にやった——あのショーだよ！
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: ええと、たしか台本がこの辺りに——
 KAITO: ああ、あった。 ふふ、なんだかずいぶん昔のことのように思えるな
@@ -132,4 +128,4 @@ MEIKO: えむちゃん達がやる——『旅の一座の物語』をやりま�
 ルカ: え？ でもそれは……さっきカイトくんが言ってたように、終わりが……
 MEIKO: そうね。 でも……
 MEIKO: だったら……あの子達にぴったりの、 そんなハッピーエンドにしてみない？
-(Black cut)
+(Black transition)

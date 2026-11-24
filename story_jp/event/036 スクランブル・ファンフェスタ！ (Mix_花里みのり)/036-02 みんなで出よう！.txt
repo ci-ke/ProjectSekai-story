@@ -37,7 +37,7 @@
 MEIKO: 応援してるわよ！
 みのり: うんっ！
 みのり: よーし、イベントに向けて もっともーっとがんばるぞー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -70,7 +70,7 @@ KAITO: ふふ、ふたりはオッケー、っと！ よかったね、こはね
 杏: え？　あ……
 杏: ——もっちろん、いいよ！ ファンフェスタでも最高の歌、期待してるからね！
 こはね: うん！　ありがとう、杏ちゃん！ 私、頑張るね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -79,15 +79,11 @@ KAITO: ふふ、ふたりはオッケー、っと！ よかったね、こはね
 一歌: うん。今回は私と、グループは違うけど 歌をやってる学校の友達と３人で出ようって話してるんだ
 寧々: そうだったんだ
 寧々: ……ファンフェスタ、か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……わたしも、夢のために もっと歌の練習をしないと——）
 寧々: ねえ、星乃さん。 それって、まだ空きがあったりする？
@@ -101,4 +97,4 @@ KAITO: ふふ、ふたりはオッケー、っと！ よかったね、こはね
 寧々: わ、わかった……。 じゃあ、お願い
 寧々: （星乃さんの友達か……。どんな子なんだろう）
 寧々: （会うの、少し楽しみだな）
-(Black cut)
+(Black transition)

@@ -80,7 +80,7 @@ Airi: Okay, everyone! There's still lots of party left to enjoy!
 Shizuku: We have low-sugar cake and plenty of snacks you can enjoy, Haruka.
 Minori: Let's all eat them together!
 Haruka: Yes!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -133,17 +133,17 @@ Airi: Okay, Minori. Can you tell us what games we'll play?
 Minori: Yeah! To start, we have High or Low!
 Minori: Huh?
 Minori: Aaah!!!
-(Black cut)
+(Black transition)
 Shizuku: Okay, the next card's a Queen.
 Airi: Well, that should be an easy call. Haruka, what cards are above the Queen? Do you remember?
 Haruka: Mm. The father card and the ace.
 Airi: Father card? You mean the King?
 Airi: Ah... Whoops! Hey, you set me up!
 Haruka: Hehe. Too bad.
-(Black cut)
+(Black transition)
 Minori: Wow, Shizuku, you're so good! You're on a streak!
 Shizuku: Hehe. Up or Down's so much fun♪
-(Black cut)
+(Black transition)
 Minori: Okay, that's the last game finished! No more forbidden words, either!
 Airi: Phew... That was harder than I expected.
 Haruka: You usually never have to think about it when you're talking, after all.
@@ -173,8 +173,8 @@ Haruka: For what, you might ask?
 Comments: <Here we go!> <Showtime!> <The games were so fun I totally forgot!>
 Haruka: Today, we're putting on a special show to thank you all for always supporting us.
 Haruka: I hope you'll stay with us to the end.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000358/bg_s000358.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000358/bg_s000358.webp)
 An: Haruka! Happy birthday!
 Kohane, Akito & Toya: Happy birthday! Happy birthday.
 Akito: It's a weird feeling, knowing my whole team knows THE Haruka Kiritani.
@@ -207,7 +207,7 @@ Minori: Actually, I haven't said it enough yet. Haruka, happy, happy, happy, hap
 Shizuku: Hehe. I won't fall behind, then. Haruka, happy, happy, happy, happy—
 Airi: Hey, don't go along with it! Besides, you can just do this in person! Come on, let's go!
 Minori & Shizuku: Okay!
-(White cut)
+(White transition)
 (Background change)
 Haruka: Thank you for all the birthday wishes.
 Haruka: Your support does reach me. It gives me strength every day.
@@ -215,4 +215,4 @@ Haruka: Even now, when I close my eyes, I can feel your warm wishes.
 Haruka: This SEKAI is overflowing with feelings, after all.
 Haruka: With these warm feelings supporting me, I promise to keep bringing you the courage to try your best, and to treasure every single day.
 Haruka: Hehe. Haruka Kiritani, signing out♪ See you again!
-(Black cut)
+(Black transition)

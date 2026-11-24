@@ -75,7 +75,7 @@
 ファン達: ホントにずっと——楽しみにしてるから！
 みのり: みんな——
 みのり: ……うん、ありがとう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [みのりの部屋]
@@ -83,18 +83,14 @@
 みのり: う～ん、サッパリした～！ ライブ後のお風呂ってなんかいつもと違う気持ちよさあるな～！
 みのり: ……なんだか、まだ胸がポカポカしてる。 これって、お風呂のおかげだけじゃないよね
 みのり: それに……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ファン達: ホントにずっと——楽しみにしてるから！
-(White cut)
+(White transition)
 小さな女の子: みのりちゃんみたいなアイドルになる！ いつか、いっしょに歌お！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……えへへ
 みのり: 本当に楽しかったなあ、今日のライブ。 お客さんも、同じような気持ちでいてくれたらいいな……
@@ -111,32 +107,24 @@
 みのり: …………。 みんな、こんなに期待してくれてるんだ
 みのり: わたし達は今日が初めてのワンマンで、 まだまだ小さなグループなのに…… もっと大きくなってほしいって言ってくれてる
 みのり: わたし達の活動に、みんなも夢を見てくれてて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ファン達: ——ううっ……。 思い出すと、涙が……、涙が出てきて……
 ファン達: すみません、うまく言えなくて…… でも、本当に、本当に、最高でした
 ファン達: もっとみのりちゃんのことを、 たくさんの人に知ってほしいと思いました……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ——わたしのことで、泣いてくれる人がいた
 みのり: ……嬉しかったなあ。 届いたんだなって……、こんなまだまだのわたしでも、 お客さんと心を繋げることができたんだ、って……
 みのり: あの時……ASRUNのライブで感じた、 応援して、応援されて、心を繋げるアイドルに…… わたしも、なれたのかなって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ファン達: もっとみのりちゃんのことを、 たくさんの人に知ってほしいと思いました……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: …………
 みのり: （今までは、配信を見てくれてる人や、 イベントに来てくれるお客さん達に 希望を届けることができればいいなって思ってた）
@@ -147,4 +135,4 @@
 みのり: それで、わたしはアイドルとして、 わたしをアイドルにしてくれた人達に——
 みのり: これから、わたしを応援してくれるすべての人に 希望を届けたい……！
 みのり: この先も、ずっと—— わたしが、アイドルでいる限り……！
-(White cut)
+(White transition)

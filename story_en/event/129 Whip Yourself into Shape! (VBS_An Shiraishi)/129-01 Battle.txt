@@ -36,7 +36,7 @@ An: Thanks, Kohane.
 An: I need you to battle against me.
 An: Right here. Right now.
 Kohane: What?
-(White cut)
+(White transition)
 (Background change)
 
 [A few months earlier]
@@ -79,19 +79,15 @@ Ken: You need to get them to truly want to see the moment you achieve your goal.
 An: Get them to truly want that...
 Akito: ... I get what you're saying, Ken, but...
 Kohane: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: Why?! Why?!
 An: Why was I the only one who didn't know something this important?!
 An: None of this makes any sense! I thought everybody was on my side! We were all like family!
 An: Seriously, why?! I don't get it! Why only me...?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: ...
 Kohane: An's the one who has to do this, yes...?
@@ -109,10 +105,8 @@ Toya: Shiraishi...
 An: I actually had a chance to talk to them a little while back. A few of them came to me, including the owner of Crawl Green.
 Akito: Really?
 An: Yeah, and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Owner of Crawl Green: ... We're sorry for staying quiet about her.
 An: ...
@@ -125,10 +119,8 @@ An: Sorry... I'm not...sure what to say right now...
 Owner of Crawl Green: Right. We're sorry for ambushing you like this.
 Owner of Crawl Green: Thank you for letting us talk to you, An.
 An: ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I wasn't able to say anything to them that time...
 An: But I feel a lot better now.
@@ -137,4 +129,4 @@ Ken: An...
 Ken: Then, the rest is up to you.
 Ken: Go show them that you're just as passionate about what you're doing as we were.
 An: Oh, I will!
-(Black cut)
+(Black transition)

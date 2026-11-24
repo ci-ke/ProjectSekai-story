@@ -24,7 +24,7 @@ Kohane: Oh, good! It just started!
 An: Kohane, lemme see too!
 Toya: Now that I think about it, I'm not sure I've actually seen one of this MEIKO's shows before.
 Akito: Yeah. Since we're here, wanna check it out?
-(Black cut)
+(Black transition)
 (Background change)
 
 [VIRTUAL SINGER Stage]
@@ -32,7 +32,7 @@ Akito: Yeah. Since we're here, wanna check it out?
 MEIKO: <Hello, everyone in the audience! And hello to everyone watching the stream!>
 MEIKO: <Thank you for coming to my anniversary show!>
 MEIKO: <I'd like to start with this song...!>
-(Black cut)
+(Black transition)
 (Background change)
 An: This MEIKO's really cheerful, but it has so much power too! Like a big sister you can really count on!
 Kohane: Yeah, her energy's so infectious. Also, songs with a more mature theme to them really suit her.
@@ -53,14 +53,14 @@ An: We've become familiar with MEIKO from SEKAI and she's probably a little diff
 An: But MEIKO's still MEIKO wherever you go, so it's hard not to cheer for her!
 Akito: Yeah, true.
 Toya: I agree. She really has been a great friend to us.
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: <Look at all the comments everybody left while watching the stream, MEIKO.>
 MEIKO: <Oh wow! So many comments...>
 Rin: <Whoa! There's too many to look at all at once!>
 Miku: <Yeah... Oh, “MEIKO's so pretty!” And... “Does she ever not look good in red?!”>
 MEIKO: <Really? That's so sweet of them! Please, feel free to keep posting more!>
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: Oh, I think I'll write one too!
 An: Great idea! Can you write one for me too, Kohane?
@@ -72,15 +72,15 @@ An: You mean our frying pan fundraiser? Way ahead of you! We got that thing ages
 Kohane: I hope she likes it since she's been saying how her current one's been developing some burnt spots.
 Toya: Right. It's the same one Ken likes to use, so I'm sure we made a good choice...
 An: But it's hard not to feel anxious when you're about to give a gift to someone.
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Toya: That was a great show...
 Akito: Yeah, but the party hasn't even gotten started for us.
 An: Right! So, shall we?
 Kohane: Yeah! Let's give MEIKO the best celebration we can today!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,7 +105,7 @@ Miku: Happy anniversary, MEIKO!!
 MEIKO: Hello, everyone in the audience! And hello to everyone watching the stream!
 MEIKO: Thank you for coming to my anniversary show!
 MEIKO: I'd like to start with this song...!
-(Black cut)
+(Black transition)
 MEIKO: Thank you all again for coming to see my anniversary show...
 KAITO: Look at all the comments everybody left while watching the stream, MEIKO.
 MEIKO: Oh wow! So many comments...
@@ -127,7 +127,7 @@ MEIKO: H-Hold on, you guys...! All these expectations are starting to make me ne
 MEIKO: But I appreciate the thought, so again, I'd like to show everyone just how much I've grown.
 MEIKO: So without further ado!
 MEIKO: Here we go!
-(Black cut)
+(Black transition)
 Len: That was so much fun!
 Rin: Yeah! How about you guys? Did you have fun too?
 MEIKO: Hehe. Thank you all so much! This wouldn't have been possible without you!
@@ -135,8 +135,8 @@ MEIKO: But sadly, this will be our last song...
 KAITO: Oh, before you do that, there's something we need to do.
 MEIKO: Huh?
 Miku: Hehe. We've prepared some pre-finale messages for you as a little surprise.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000018/bg_s000018.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000018/bg_s000018.webp)
 Miku: Happy anniversary, MEIKO. Your voice always finds a way to cheer me up and give me courage.
 Miku: And you've done so much for me outside of shows, so please feel free to ask me for help if you ever need it.
 Rin: Happy anniversary, MEIKO!
@@ -150,7 +150,7 @@ Luka: I hope you'll keep being the big sister I can rely on♪
 KAITO: Doing an anniversary show like this with you, MEIKO, just makes me so happy.
 KAITO: Not only are you always incredibly cheerful, you're also very thoughtful of others. I'm sure that's why everyone is here celebrating with you today.
 KAITO: So I hope you'll keep being the wonderful person you are.
-(White cut)
+(White transition)
 (Background change)
 Miku: Alright, everybody, one last time...
 Miku: One, two...!
@@ -164,4 +164,4 @@ MEIKO: Thank you again for today, everyone!
 MEIKO: I promise to make this year a good one and plan to sing as much as I can.
 MEIKO: And I'll start by singing a song that shows just how happy I feel right now...!
 MEIKO: I hope you enjoy the show and don't forget to stick around until the end!
-(White cut)
+(White transition)

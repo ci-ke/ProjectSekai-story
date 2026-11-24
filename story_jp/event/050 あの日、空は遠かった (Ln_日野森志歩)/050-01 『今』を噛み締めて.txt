@@ -15,18 +15,18 @@
 咲希: みんな、もう来てるかな？
 穂波: 道に迷ったりしてなければ、 もう着いてるんじゃないかなって思うけど……
 一歌: あ……いた！ あそこ——客席の真ん中辺りにいるよ！
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 咲希: 本当だ！ はるかちゃん達、迷わないで来れてよかった～！
 一歌: みのりに、こはねに——白石さんも。 一緒に来てくれたんだ
 志歩: あ……
-(Black cut)
+(Black transition)
 (Background change)
 雫: ここがしぃちゃん達が出るライブハウスね！ ちゃんと間に合ってよかったわ
 愛莉: そうね……。 時間に余裕持って待ち合わせしておいてよかったわね
-(Black cut)
+(Black transition)
 (Background change)
 志歩: お姉ちゃん達も来てくれたみたい
 穂波: ふふ、これで安心して演奏できるね
@@ -40,7 +40,7 @@
 みんな: 『うんっ！』
 スタッフ: Leo/needの皆さん、準備お願いします！
 志歩: ……私達の出番だね。 ——いこう！
-(Black cut)
+(Black transition)
 (Background change)
 杏: あ！　そろそろ始まるみたいだよ！
 みのり: うう……！ やっと志歩ちゃん達のライブが見られるよ～！
@@ -64,27 +64,23 @@
 一歌: ♪————！
 志歩: （……昔の私が見たら、 きっと、驚くだろうな）
 志歩: （昔の私は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 ？？？: ……あーあ。 こんな空気になるなら誘うんじゃなかった
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （……誰かと一緒に——この４人でまた一緒に バンドをやれるようになるなんて思えなかった）
 志歩: （でも、今は——）
 志歩: （すごく——幸せだ）
-(White cut)
+(White transition)
 (Background change)
 志歩: ……はぁ……はぁ……
 一歌: ……ねえみんな！ 今日の演奏、いつもとちょっと違った……よね？
@@ -98,14 +94,14 @@
 志歩: あ、はい！ すみません、今片づけます
 志歩: みんな、片づけたら客席のほう行くよ。 他のバンドからも勉強しなくちゃね
 志歩: ……ん？
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 志歩: …………えっ？
 穂波: え？　志歩ちゃん？
 咲希: わ！　どこ行くのー？
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -115,17 +111,13 @@
 咲希: しほちゃーん！ 急に飛び出して、どうしたの？
 一歌: 誰か知ってる人でもいたの？
 志歩: あ……そうかなって思ったんだけど……。 単に似た誰かだったのかも
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （さっき昔のこと思いだしてたから、 そのせいで見間違えたのかもな）
 志歩: 急にごめん。 もうすぐ次のバンドも始まるし、戻ろうか
 一歌: あ、うん……
-(Black cut)
+(Black transition)

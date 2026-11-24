@@ -2,10 +2,8 @@
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 巡音ルカ)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: でも、今の私は、みんなに望まれていないわ……
 ルカ: そうかしら？
@@ -13,10 +11,9 @@
 雫: 今の私を、応援してくれる人……？
 ルカ: ええ、もっと周りに目を向けてみて
 ルカ: きっと見つかるはずだから
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
+(Flashback out)
 
 [宮益坂女子学園　２年Ｄ組]
 
@@ -27,7 +24,7 @@
 愛莉: いいのよ、気持ちがまとまらないと 練習しても身が入らないでしょうし
 愛莉: で、今日は雫と一緒に帰ろうと思って。 予定がなければ、どう？
 雫: ……うん、ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -64,20 +61,16 @@
 雫: ふふ。愛莉ちゃん、私のことたくさん知ってるんだね
 愛莉: 当たり前でしょ？ わたし達はMORE MORE JUMP！の仲間なんだから
 雫: 愛莉ちゃん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 今のあなたを応援してくれる人は、 きっといるはずよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……そうね。一番近くで応援してくれる人達を、 心配させちゃだめよね
 雫: ありがとう、愛莉ちゃん。 私——決めたわ
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　屋上]
@@ -110,7 +103,7 @@
 愛莉: 本当よ！　ここまで待たせたんだから、 次の配信は、最高の雫を見せなさいよね
 雫: うん……っ
 雫: 今度こそ、ファンのみんなに希望を届けるわ
-(Black cut)
+(Black transition)
 愛莉: みんな、こんにちは！ MORE MORE JUMP！の桃井愛莉よ！
 愛莉: ３回目の配信は——ズバリ！　『地獄のダンス特訓』っ！
 愛莉: このあいだより難しいダンスにみんなで挑戦！ マスターするまで踊り続けるわよ～！
@@ -123,4 +116,4 @@
 コメント: 『雫ちゃんダンス得意だからね』 『雫ちゃんなら余裕でしょ！』 『みんな頑張れ～！』
 雫: ……ええ、ありがとう。 頑張るから応援していてね、みんな
 雫: （やり切らなくちゃ、今度こそ。 みんなに希望を届けるために——！）
-(Black cut)
+(Black transition)

@@ -18,33 +18,25 @@
 一歌: 『日本三大流星群、 ペルセウス座流星群の時期がもうすぐやってくる。 出現期間はひと月ほどで、そのうち一番見ごろとなる日は——』
 一歌: 流星群か……
 一歌: 懐かしいな……。昔、みんなで見たっけ
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000005/bg_a000005.webp)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000005/bg_a000005.webp)
 幼い一歌 (一歌): あ、また……流れた！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: みんなで、一緒にミクの曲を練習して…… その帰りにたまたま見たんだよね
 一歌: すごく、綺麗だったな……
 一歌: （でも、中学生になってから、 みんなとはだんだん離れ離れになっちゃって……）
 一歌: （……もしかしたら、もう二度とみんなで一緒に 見ることなんてできないかもって思ってたけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: また、みんなで一緒に見たいな
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -58,7 +50,7 @@
 咲希: ええ～！　しほちゃんひど～い！
 穂波: ……それじゃあ、そろそろ移動しよっか。 真堂さんとの待ち合わせ、遅刻するわけにはいかないもんね
 一歌: うん……行こう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ソリス・レコード事務所]
@@ -75,18 +67,14 @@
 志歩: こ、これは……。まあ、嬉しいかって言われたら嬉しいし……
 穂波: ふふ……わたし達、ここまで来れたんだね……！
 一歌: うん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: プロになる覚悟は、まだちゃんとできてないかもしれない
 一歌: でも、志歩と一緒にバンドがしたい。ライブがしたい。 一緒に……誰かの心を打つ演奏がしたい
 一歌: この想いの先に、プロって道があるのなら—— 私は、プロを目指したい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （あの時、みんなでプロになるって決めて——）
 一歌: （本当になれるかなんてわからないし、 不安なこともあったけど……）
@@ -110,4 +98,4 @@
 真堂: それじゃ、また何かあったら連絡してくださいね
 一歌: は、はい
 一歌: 今日は——ありがとうございました！
-(Black cut)
+(Black transition)

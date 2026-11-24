@@ -28,10 +28,8 @@ MEIKO (Ln): Oh, you think so?
 Miku (Ln): Yes. Even though you struggled just as much when we started working on our New Year's resolutions...
 Miku (Ln): Did you practice in secret or something?
 MEIKO (Ln): Yes, you could say that...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (Ln): Thank you for giving me another lesson today, Shiho. I think I have a better idea of what to do now!
 Shiho: I'm glad to hear that. How are the others doing...?
 MEIKO (Ln): They've been improving at a steady rate. We also have you to thank for that, Shiho!
@@ -54,19 +52,17 @@ MEIKO (Ln): Still, this really is written up so clearly...
 MEIKO (Ln): (This notebook is sure to help us improve.)
 MEIKO (Ln): (We'll need to do our best to make the most of the gift Shiho's given us.)
 MEIKO (Ln): Now then... I'll put this notebook to use right away!
-(Black cut)
+(Black transition)
 MEIKO (Ln): Oh, I got the flick wrong again. It needs to look more like a clean triangle...
 MEIKO (Ln): This situation calls for...
 MEIKO (Ln): Yes, this page! Let's see... “Before you flick, bring your brush to a halt and...”
-(Black cut)
+(Black transition)
 MEIKO (Ln): Hmm... I'm struggling to keep these lines straight. But I'm being so careful...
 MEIKO (Ln): I'm pretty sure Shiho also mentioned something about this in her notebook... What do we have here... “Straight lines require momentum”?
 MEIKO (Ln): Hehe. Momentum? I'm good at creating that.
 MEIKO (Ln): Alright, I'll try giving it a little extra push...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (Ln): (I'm still nowhere near as good as Shiho...)
 MEIKO (Ln): (But I'm able to teach the others now when Shiho isn't here... I suppose that's all my training paying off.)
 Luka (Ln): MEIKO, would you mind teaching me next after Rin's had her turn? My left-hand radicals are throwing everything off balance because they're turning out so big.
@@ -77,7 +73,7 @@ Miku (Ln): Oh, KAITO, can I see it once you're done? There's something I'd like 
 KAITO (Ln): Okay.
 MEIKO (Ln): (Shiho's notebook is helping everyone improve at a dramatic rate...)
 MEIKO (Ln): (That means we'll need to make our New Year's resolutions look absolutely spectacular!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -89,7 +85,7 @@ MEIKO (Ln): (That means we'll need to make our New Year's resolutions look absol
 MEIKO (Ln): Hnng! Okay, that's enough drumming for now! Time for a break.
 MEIKO (Ln): (Hm? This sounds like... Is someone else practicing?)
 MEIKO (Ln): (If so, I might go have a quick peek while I take my break...)
-(Black cut)
+(Black transition)
 Saki: Oh! Hi, MEIKO!
 MEIKO (Ln): Hello. I heard someone playing, so I decided to come take a look. Is it just you two here...?
 Saki: Yes! Ichi and Hona both had family business to take care of. So, Shiho and I decided to have our own practice session...!
@@ -148,4 +144,4 @@ Saki: Oh, right! I need them to try these!
 Saki: I'm sure they're gonna love them! So much that they're gonna forget all about practicing with their tops!
 Shiho: Yeah, yeah.
 MEIKO (Ln): Haha. I'm looking forward to seeing what they think.
-(Black cut)
+(Black transition)

@@ -22,8 +22,8 @@ Len: Well, I'm looking forward to meeting them and all, but part of me wonders i
 MEIKO: You don't think you'll get the chance? Why is that?
 Len: Oh, it's just... Haha, never mind!
 Len: O-Oh, MEIKO. Today's the day I finally want to try a black coffee!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000022/bg_a000022.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000022/bg_a000022.webp)
 MEIKO: Are you sure you don't want milk and sugar? You've always used it before.
 Len: Yep, I don't need it. I'm an adult, after all.
 Miku (VBS): Hehe. There's no need to force yourself.
@@ -31,7 +31,7 @@ Len: What's that supposed to mean?
 Miku (VBS): I'm just saying there's no need to push yourself just because you don't want those two we haven't met yet to think you're too childish.
 Len: Ngh! Th-That's not what I'm doing!
 Miku (VBS): It's your choice, of course.
-(White cut)
+(White transition)
 (Background change)
 Miku (VBS): All you've had so far are café au lait with plenty of milk and sugar. Are you sure you're okay going straight to black?
 Len: Of course! Up until now, I was just...uh... I was just drinking café au lait because that's what Rin was drinking.
@@ -64,7 +64,7 @@ Miku (VBS): Yeah, I don't see anything wrong with that.
 MEIKO: I agree. I think that way of thinking suits you, Len.
 Len: Hehe. Thanks.
 Len: Yeah, this is better. I guess I just prefer café au lait.
-(Black cut)
+(Black transition)
 Len: Mm... It really does taste better with milk and sugar. I already finished it.
 Len: All right, I'm going to go introduce myself to those two.
 Miku (VBS): All right. Be careful.
@@ -76,4 +76,4 @@ Len: All right, I'm off!
 Miku (VBS): I think Len would be better off just being himself instead of always trying so hard to act like an adult.
 MEIKO: Hehe. I'm sure he'll realize the same thing soon enough.
 Miku (VBS): Yeah, you're probably right.
-(Black cut)
+(Black transition)

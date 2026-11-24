@@ -10,17 +10,13 @@ Gacha phrase: これでうまくやれてきたのにな……
 [瑞希の部屋]
 
 瑞希: はぁ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ——ないよ
 瑞希: 話せることなんてない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: なんで、あんな言いかたしちゃったんだろ……
 瑞希: 絵名はただ、ボクの力になりたいって 言ってくれただけなのに
@@ -33,7 +29,7 @@ Gacha phrase: これでうまくやれてきたのにな……
 瑞希: 問題はボクのほうかな。 ちゃんと、いつもの調子で答えられるといいけど……
 瑞希: …………
 瑞希: ……明日、学校行こうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -46,15 +42,11 @@ Gacha phrase: これでうまくやれてきたのにな……
 杏: あはは！　明日とかあさってとか 連続で登校できたら考えてあげる
 瑞希: ちぇー
 杏: そういえば、この前はびっくりしたね！ まさかあんなところでばったり会うなんてさ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ああ、あれね～！
 杏: あのあと、こはねから聞いたんだけど、 メンバーのひとりって宮女の先輩だったんだね
@@ -81,16 +73,12 @@ Gacha phrase: これでうまくやれてきたのにな……
 杏: ああ、ごめんごめん
 杏: ……そういえば、お姉さんに聞かれたアレ、 大丈夫だったかなーって思って
 瑞希: アレって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 白石さんって、瑞希のクラスメイトなんだよね。 だったら、学校での瑞希がどんな感じか教えてくれない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……ああ！　ボクが学校でどんな感じかってやつ？
 瑞希: いやー、成績がいいってことはともかく、 先生達にこってり絞られてる～なんてのは バラさないでほしかったなぁ～
@@ -103,7 +91,7 @@ Gacha phrase: これでうまくやれてきたのにな……
 瑞希: （杏は、本当に優しいね……）
 瑞希: （……絵名に答える前にちょっとだけボクを見たのは、 きっと、絵名達が知ってるかどうかを 気にしてくれたんだよね）
 瑞希: （……ありがとね、杏）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -113,30 +101,22 @@ Gacha phrase: これでうまくやれてきたのにな……
 [神山高校　屋上]
 
 瑞希: ……絵名、授業間に合ったかな？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 絵名: 瑞希が暗い顔してると嫌なの。 そういう顔見るたびモヤモヤしちゃうっていうか……
 絵名: っていうか、瑞希だってそうでしょ
 絵名: 奏やまふゆが苦しそうな時、 力になりたいって思うでしょ？
 絵名: 友達が何かに困ってたら、力になりたいのは当然でしょ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: 友達、か……
 瑞希: （絵名にそう言ってもらえたの、すごく嬉しかったな）
 瑞希: （なのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 瑞希: ボクの悩んでることは……今はまだ話せないけど。 でもいつか話せるようになったら、聞いてほしい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: （ボクは、嘘をついた……）
 瑞希: （話したくなるまで待つって言ってくれた、 絵名に甘えて……）
 瑞希: はぁ……
@@ -172,21 +152,17 @@ Gacha phrase: これでうまくやれてきたのにな……
 類: ……それで、そちらはどうなんだい？
 瑞希: え？
 瑞希: ボクは、そうだなぁ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 絵名: ——話すのがしんどいなら 別に話さなくていいって言ってるの
 絵名: でも、だからって諦めたわけじゃないから！
 絵名: 瑞希が暗い顔してるのが嫌なのは変わらないし、 力になりたいのも変わらない。だから……
 絵名: いつか——話してもいいって思ったら、話して それまで待ってるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: ボクは……
 瑞希: たぶん、待たれる側になったのかも……
 類: ……そうか
@@ -202,4 +178,4 @@ Gacha phrase: これでうまくやれてきたのにな……
 瑞希: 類……
 瑞希: 孤独は悪くないって言ってたくせに……
 瑞希: なんだかんだ、 類もボクをひとりにしてくれないよね
-(Black cut)
+(Black transition)

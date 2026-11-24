@@ -7,7 +7,7 @@ Minori: Oh, me! Pick me! Pleeease! I can do it!
 Teacher: Oh, uhh... You're awfully peppy today, Hanasato. Then, please come to the front and solve this one for us.
 Minori: Yes, got it!
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Yamada: *Sigh* The teacher just asked me to help set up their experiment. This is not how I wanted to spend the break...
 Minori: Are you in need of assistance?!
@@ -16,7 +16,7 @@ Minori: If it's an experiment that needs setting up, I can do that for you!
 Minori: Yamada, you go enjoy your break!
 Yamada: But... I-I'm not sure what's going on, but...thanks?
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Minori: Wow, school's already over...
 Minori: I got so much done today! I even took over cleaning duties and made our classroom spotless♪
@@ -61,7 +61,7 @@ Shiho: What if she's planning on being an “active participant” at work and n
 Saki: What do you mean? Is she really fired up today or something?
 Kohane: U-Umm...
 Shiho: The thing is...
-(Black cut)
+(Black transition)
 Saki: I didn't know that... So, Minori's really switching over to the credit-based course?
 Saki: And she has to quit her job. I'm really gonna miss her. We had so much fun working together.
 Kohane: I know how you feel...
@@ -76,7 +76,7 @@ Kohane: Surprise?
 Saki: Heh heh heh. We actually need two more for my plan to work. So...
 Saki: Hello?! Hehehe. I need to ask you for a favor...
 Shiho: What's she planning now...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -98,4 +98,4 @@ Minori: S-Saki?!
 Saki: So...
 Saki: If you'll excuse us, boss! Minori, you're coming with me!
 Minori: Wait, what?! Where?! But I still need to get changed!
-(Black cut)
+(Black transition)

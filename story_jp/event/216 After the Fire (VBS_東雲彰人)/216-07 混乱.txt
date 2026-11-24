@@ -9,7 +9,7 @@
 エレナ: みんな、ごめん！ 今日、帰る日なのに……
 こはね: 大丈夫です！　それより、秘密基地は——
 こはね: ……っ！
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……なんだよ、これ……
 杏: 何があったの……！？
@@ -37,18 +37,14 @@
 セドリック: クラウドにあげていた昔のデータは無事だが……
 セドリック: あの様子だと、 RUSH BEATSのために作っていた曲は、おそらく……
 彰人: ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 スレイド: 『めちゃくちゃ期待してくれていいよ！ セディ、かなり気合い入ってるからさ！』
 セドリック: 『ああ。本戦は、俺の全てを注ぎ込んだ曲で 勝負するつもりだ』
 セドリック: 『——世界を獲るという夢を、叶えるために』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……っ
 セドリック: …………どうして
@@ -71,9 +67,9 @@
 エレナ: 『これって……キーリング？』
 冬弥: 『……！　それは、まさか——！』
 セドリック: 『…………革の、キーリング』
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000637/bg_s000637.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000637/bg_s000637.webp)
 セドリック: 『……見覚えがある』
 セドリック: 『これは…………彰人のじゃないか？』
 彰人: …………は？
-(Black cut)
+(Black transition)

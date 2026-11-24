@@ -15,7 +15,7 @@
 ミク (VBS): ……レン、ちょっと先に行っててくれる？
 レン: え？　いいけど、どこ行くの？
 ミク (VBS): ちょっとね。 気になることがあるんだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -78,4 +78,4 @@
 ミク (VBS): 『だけど、向きあうって決めたんだね』
 ミク (VBS): 『——頑張れ、杏』
 こはね・杏: 『♪ ————！』
-(White cut)
+(White transition)

@@ -23,7 +23,7 @@ Mary: That was a fun adventure!
 Tsukasa: Wait, did she just...?
 Rui: Yes, she thanked Emu for taking her on such a fun adventure.
 Emu: Hehe...! I had fun too!
-(Black cut)
+(Black transition)
 Miku (WxS): <That was beautiful! She was all smiley in the end!>
 Luka: <Yes, she was. She must've been so happy to see her parents.>
 Rin: <Yeah! A happy ending for everyone♪>
@@ -38,7 +38,7 @@ Rui: “Smiley”... As famous as it is, I didn't realize it was one of Riley En
 Emu: Let's go, you guys! Hurry!
 Emu: I wanna get there as fast as we can and ask him lots and lots of questions!
 Nene: Huh...?! Emu, wait...!
-(Black cut)
+(Black transition)
 
 [“Smiley” area]
 
@@ -75,15 +75,11 @@ Rui: How do you mean...?
 Riley: We consulted with some botanists regarding how we could simulate the real thing. Those trees may be manmade, but they help create a very jungle-like atmosphere.
 Riley: Thanks to them, we were able to come very close to what we wanted. After that, we just had to build some waterfalls and research what jungles sound and even smell like.
 Rui: What they smell like...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Rui: But these trees are imitations... And yet, it feels like we've wandered into a real jungle for some reason...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Rui: Now I understand...
 Riley: We've been fortunate enough to be able to construct an artificial jungle that all of our visitors can safely enjoy.
 Riley: We had to perform a balancing act between our goals and what was actually possible. By doing so, we were able to create this wonderful place.
@@ -126,4 +122,4 @@ Riley: Are you sure? Well, if you say so...
 Riley: Anyway, I had you all meet me here today because of what I've been meaning to show you.
 Emu: Show us?
 Riley: Yes, it's this...
-(Black cut)
+(Black transition)

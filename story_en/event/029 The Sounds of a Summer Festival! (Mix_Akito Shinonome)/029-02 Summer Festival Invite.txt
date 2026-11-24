@@ -11,7 +11,7 @@ MC: Looks like you've made some friends, BAD DOGS. What do you say, you two?
 Akito: Why not? We've still got plenty left in the tank too.
 Toya: I see no problem with that. Let's keep singing for as long as we can.
 MC: Alright, BAD DOGS, give us an encore!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -30,17 +30,13 @@ Len: <Okay!>
 Akito: You're...
 ???: Remember me? I'm Shota Hayashi. We used to play on the same soccer team in elementary school.
 Akito: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Elementary School Akito (Akito): Sorry for being such a useless Ace. Bye...
 Shota: W-Wait! Akito, please don't quit...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Akito?
 Akito: Yeah, I remember. It's been a while...
@@ -87,17 +83,13 @@ Toya: We won't be able to practice singing as much, but it may help us down the 
 Akito: ...
 Akito: (Something new. Something other than singing... Somewhere new might be a nice change of pace too...)
 Akito: (And...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: Alright, we'll do it...
 Shota: What?! You will?! Thanks! You're a lifesaver...!
@@ -106,7 +98,7 @@ Akito: But again, we're not shortchanging the crowd. If we're gonna be the headl
 Shota: Reliable ol' Akito... You haven't changed one bit since then.
 Shota: Again, thanks. I'll do whatever I can to support you guys along the way too!
 Akito: Alright, just make sure to tell us once you've got all the details worked out.
-(Black cut)
+(Black transition)
 Akito: And now we're performing in the Summer Festival...
 Toya: Yes, I'm looking forward to it.
 Akito: You are? Toya, does that mean you've...?
@@ -124,13 +116,13 @@ Akito: Yup.
 Len: <Then, can I help you with that? I even just got a new pair of shoes.>
 Len: <They fit really nicely, so I'm thinking about turning them into my dancing shoes!>
 Akito: Dancing shoes?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000089/bg_a000089.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000089/bg_a000089.webp)
 Len: <Yeah, I was told that it's good to have several pairs of shoes for when you're working on complicated dance sequences!>
 Len: <Like this!>
 Toya: Yes, I see. That's very cool.
 Len: <I know, right?! I was saying how my old shoes were getting worn out, and KAITO just ended up giving me a brand-new pair!>
-(White cut)
+(White transition)
 (Background change)
 Akito: So that's what happened, huh?
 Toya: Then why don't we practice in SEKAI?
@@ -143,7 +135,7 @@ Toya: I doubt our current shoes will hinder us in any way, but it may be good to
 Akito: Maybe... I'm not trying to copy Len, but it would be a source of motivation too.
 Akito: Wanna go check some out after practice?
 Len: <Yay! Tell me once you're done, alright? I can't wait to see what you get!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -169,4 +161,4 @@ Ena: That's pretty far and it's still hot out, but I guess we don't have much of
 Mizuki: I mean, you and Kanade don't get enough exercise anyway, right? It'll be good for you two.
 Ena: You hardly look all that different from me, Mizuki. Don't put yourself up on a pedestal, alright?
 Mizuki: Alright, alright. Anyway, let's go!
-(Black cut)
+(Black transition)

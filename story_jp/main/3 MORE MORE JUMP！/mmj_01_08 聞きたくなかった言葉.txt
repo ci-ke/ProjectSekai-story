@@ -2,11 +2,9 @@ mmj_01_08 聞きたくなかった言葉
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫)
 
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 愛莉: はぁ……
 愛莉: 仕事が増えるのは嬉しいけど、 最近全然ライブできてないな……ファンミも出られないし……
 愛莉: ……あ、マネージャー。 次のスケジュール聞かなくっちゃ
@@ -14,10 +12,8 @@ mmj_01_08 聞きたくなかった言葉
 マネージャー: 正直、アイドルとしては十人並みですし。 これからそちらの仕事は減らして……
 愛莉: ……え？
 愛莉: ちょっと待って！ それってどういうことなの！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [宮益坂女子学園　中庭]
@@ -40,17 +36,15 @@ mmj_01_08 聞きたくなかった言葉
 愛莉: ご、ごめ……っ！
 雫: …………っ
 愛莉: 雫……！　待って！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
 
 雫: ……っ！
 雫: 愛莉ちゃんまで……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: 見つけたわ！　アンタね！ 今回のオーディションでグランプリとった、日野森雫ってのは！
 愛莉: わたしは桃井愛莉！　アンタのライバルだから覚えておきなさい！ せいぜい寝首かかれないように……って
@@ -70,28 +64,22 @@ mmj_01_08 聞きたくなかった言葉
 愛莉: ……ほら、タオル。顔ふきなさいよ。 せっかくキレイな顔してるんだから、笑わなくっちゃ
 愛莉: 一緒にアイドル、がんばりましょうね。 負けないわよ！　雫！
 雫: ……うん。ありがとう、愛莉ちゃん
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……愛莉ちゃんの言葉があったから、ずっと頑張ってこれた）
 雫: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 メンバーA: ……また雫だけ雑誌の表紙の仕事入ってる。 あれ絶対にひいきされてるでしょ
 メンバーB: ほんと、顔が綺麗ってだけで得だよね。 歌もダンスも私達の方が上手いのに……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （みんな変わって……愛莉ちゃんも変わっちゃって……）
 雫: （私は……もう……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　屋上]
@@ -119,8 +107,8 @@ mmj_01_08 聞きたくなかった言葉
 みのり: 見てくれた人たちに、明日をがんばる希望を あげられるような……そんなアイドルに！
 遥: …………
 遥: ……うん、頑張ってね
-(Black cut)
+(Black transition)
 (Background change)
 遥: ……そんな……素敵なものじゃない……
 遥: アイドルは、そんな素敵なものじゃないの……
-(Black cut)
+(Black transition)

@@ -15,7 +15,7 @@
 奏: ……それで、星乃さんは何に悩んでるの？ メロディーの作りかた？　それともソフトの使いかたかな
 一歌: あっ、そうだ、ええと、問題は山積みなんですけど、 まずは、私の曲を聴いてみてほしくて……
 一歌: ちょっと待ってくださいね！ えっと、パソコンを今——
-(Black cut)
+(Black transition)
 ミク: ♪————
 一歌: ……って感じなんですけど、どんなにいじってみても、 私の頭の中にあるイメージに近づかなくて……
 一歌: それにこの前、レンタルスタジオのスピーカーで再生したら 音に臨場感がないことに気づいちゃって、 もう、どこから手をつけたらいいのか……
@@ -41,50 +41,36 @@
 奏: ってことは、ちゃんと形にしたいものはあるってことだから、 そこに近づければいいだけだと思う
 奏: だから……星乃さんがどんな曲を作ろうと思ってるのか、 具体的に聞いてもいいかな？
 一歌: どんな曲——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ……実はこの曲は、 私の大切な人達に聴いてもらいたいって気持ちで作ってたんです
 奏: 大切な人達に……？
 一歌: はい。その人達に聴いてもらうなら、 どんな曲がいいかなって考えて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 自分を変えるために、一歩踏み出す勇気を持とうとしている人の 背中を押せるような——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: つらかったことに向き合って、 自分の限界を越えようと頑張ってる人を、応援できるような——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 本当はもっと早く走れるはずなのに、 遠慮してずっと私の隣を走ってくれてる優しい人に 絶対に追いつくから大丈夫だよ、って言えるような——
-(White cut)
+(White transition)
 (Background change)
 一歌: そんな——そんな大切な人達を、 隣でそっと支えるような曲を作ろう、って……
 奏: …………。 大切な人を、隣で支える……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……そういう救いかたも、あるのかもね
 一歌: え？
@@ -101,13 +87,13 @@
 奏: ……だからまずは、 どうやったら全体のバランスが取れるか探っていこうか
 一歌: ……！ ありがとうございます！
 奏: それじゃあ、具体的に見ていくね。 わたしのパソコンで見たほうが画面が大きくて見やすいと思うから プロジェクトファイルを転送して——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000133/bg_s000133.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000133/bg_s000133.webp)
 奏: ——よし、こっちでも開けた。 いったん、ドラム以外のトラックはミュートするね
 一歌: わ、すごい……！ やっぱり、作業手慣れてる感じがしますね
 奏: そんなに大したことじゃないよ。 画面操作しただけだし
 奏: ……曲作りはここからだから。 まずは、ドラムの音だけ頭から再生して——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -133,4 +119,4 @@
 一歌: （す、すごいな。まさに作曲家って感じ……）
 一歌: （私の曲も、土台は奏さんのおかげで整えられたし……）
 一歌: （——あとは自分のパソコンで詰めるの、頑張っていこう！）
-(Black cut)
+(Black transition)

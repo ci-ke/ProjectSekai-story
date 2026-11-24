@@ -8,17 +8,13 @@
 
 遥: （……ドルラバのあとから、 仕事の依頼がこなくなった理由はわかった）
 遥: （けど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 柊: その光は、決して消えてはいけない。 常に輝き、ファンを照らし続ける責任がある
 柊: 折れて、ファンを暗闇に突き落とすようなことは、 あってはならないんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……どうすれば、いいんだろう）
 遥: （過去は、どうしたって変えられない）
@@ -38,7 +34,7 @@
 ルカ (MMJ): 『話せば少しは気持ちが楽になるかもしれないし…… どうかしら？』
 遥: ルカ……
 遥: ありがとう。 じゃあ……ちょっとだけ、聞いてくれるかな
-(Black cut)
+(Black transition)
 ルカ (MMJ): 『そう。柊さんと、そんな話を……』
 遥: うん……
 遥: アイドルは、ファンを照らし続ける責任がある—— あのときの柊さんの言葉が、頭から離れないんだ
@@ -56,19 +52,15 @@
 ルカ (MMJ): 『ええ、私が知ってる人にもいるのよ。 遥ちゃんから希望をもらって、 その希望で今も元気に走り続けてる人がね』
 遥: それって……
 ルカ (MMJ): 『ふふ。遥ちゃんもわかるんじゃないかしら』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: わたし、アイドルを目指してまして……！ は、は、遥ちゃん、みたいな……！
-(White cut)
+(White transition)
 (Background change)
 みのり: 遥ちゃんはわたしに、アイドルになるっていう夢をくれたよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (MMJ): 『たしかに、遥ちゃんが一度ステージに立てなくなったことで 傷ついてしまった人がいるのは事実……』
 ルカ (MMJ): 『でも、それまでの遥ちゃんが本気でお客さんに向き合って、 今につながる希望を届けたのも——』
@@ -76,32 +68,28 @@
 ルカ (MMJ): 『だから……それを受け取った人がいる限り、 遥ちゃんが希望を届けた事実は、揺らぐことはないわ』
 遥: ルカ……
 遥: でも、私は……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000408/bg_s000408.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000408/bg_s000408.webp)
 ルカ (MMJ): 『それにね……たとえ折れてしまった過去があったからって、 アイドルとしてダメだなんて、私は思わない』
 ルカ (MMJ): 『だって——』
 ルカ (MMJ): 『そんな遥ちゃんだからこそ 届けられた希望が、絶対にあったはずだもの』
 遥: 私だから、届けられた希望……
 ルカ (MMJ): 『ええ、思い出してみて』
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: 想いとどう向きあうかは長谷川さん次第だと思います。 だけど……だからといって、ひとりで苦しむ必要はないんです
 遥: 苦しい時は、いつでも頼ってください。 私にできることは全力でやります
-(White cut)
+(White transition)
 (Background change)
 長谷川: 『遥ちゃんが話しに来てくれた日から、 ひとりでたくさん考えてみました』
 長谷川: 『私の曲で誰かを傷つけてしまうことが怖くて、 曲を作ること自体が苦しくなってしまいました。でも……』
 長谷川: 『考えて考えて……私は、どんなに苦しくても、 曲を作ることだけは諦めたくないと思えました』
 長谷川: 『本当に、ありがとうございます。遥ちゃん』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……そうだ……）
 遥: （あの時、私が長谷川さんにかけた言葉は 一度折れた私だったからこそ、伝えられた言葉だった）
@@ -125,4 +113,4 @@
 遥: まだ、具体的にどうすればいいかはわからないけど…… まずはみのり達に話してみるよ
 ルカ (MMJ): 『ええ、それがいいと思うわ』
 ルカ (MMJ): 『私達も、そばで応援しているから…… 頑張ってね』
-(Black cut)
+(Black transition)

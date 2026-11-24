@@ -9,19 +9,15 @@ Gacha phrase: The apple pies are gonna get cold!
 
 [Mizuki's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: Nice to meet you! I'm An Shiraishi. You can call me An.
-(White cut)
+(White transition)
 An: Oh, did I startle you? Sorry about that!
 An: I just wanted to get to know you since we're classmates and all!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (An's been such a good friend to me this past year... I want to pay her back somehow.)
 Mizuki: (The only thing is...)
@@ -31,19 +27,19 @@ Mizuki: It's already tiring enough to write by hand!
 Mizuki: *Sigh* Maybe I should just type it up? I'd be done a lot quicker that way.
 Mizuki: But writing by hand is helping organize my thoughts, and it's going to make it easier to teach An tomorrow...
 Mizuki: *Sigh* Oh well. I already got this far, so I guess I'll stick to making it by hand.
-(Black cut)
+(Black transition)
 Mizuki: Oh, this part here has a lot of similar words bunched up together. It's already complicated, so it'll be bamboozling for someone who understands none of it.
 Mizuki: I'll use colored pens and markers to break it up and... Whoa, that made it so much easier to read!
 Mizuki: It's turning out so cute! I gotta keep this up!
-(Black cut)
+(Black transition)
 Mizuki: There's just no way to explain this part in simple terms. If I simplify it any more, I'll be changing the meaning...
 Mizuki: Hmm...
 Mizuki: *Sigh* I might have to give up on this one. For now, I guess I'll make some tea and work on an illustration...
-(Black cut)
+(Black transition)
 Mizuki: Urgh, the text looks skewed to one side like this!
 Mizuki: I could swap the sections around... It wouldn't match the order of the textbook anymore, but it'd look better visually.
 Mizuki: Alright! On this occasion I'm prioritizing aesthetics!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -68,7 +64,7 @@ Ena's Message (Ena): <You have only yourself to blame for being put in those cla
 Kanade's Message (Kanade): <Well done for working so hard, Amia. Just don't fall asleep at school.>
 Mizuki's Message (Mizuki): <I can't make any promises.>
 Mizuki: Argh, what am I doing? I've gotta stop dawdling and get back to work!
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Ahh! It's done!
 Mizuki: It's nearly morning! That took longer than I thought.
@@ -76,7 +72,7 @@ Mizuki: I'm barely gonna get any sleep in. Hmm... I could skip the morning?
 Mizuki: But I guess that's not an option right now. I don't want to draw attention to myself while I'm already taking supplementary classes.
 Mizuki: I'll just message the others before I go to bed. “Good night!” Okay, now let's hit the hay!
 Mizuki: (I wonder how An's gonna react when I give her this notebook... I hope she likes it.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -99,7 +95,7 @@ Mizuki: Here's to another year in school together, you guys!
 An, Akito & Toya: Yup! Yeah. Yes.
 Mizuki: Well, I'm headed this way! See you!
 Rui: Yes, see you!
-(Black cut)
+(Black transition)
 Mizuki: *Sigh*
 Mizuki: (I was really annoyed when I got told I had to take supplementary classes, but the study sessions ended up being really fun thanks to the others.)
 Mizuki: (I hesitated when Rui invited me, but I'm glad I agreed to help out.)
@@ -132,7 +128,7 @@ Mizuki: Thanks, An! I'll treasure this!
 An: You're welcome!
 An: Oh yeah. Since we're nearly there anyway, let me walk you to the station.
 Mizuki: Okay! Let's go♪
-(Black cut)
+(Black transition)
 An: Oh! Look, it's that shop!
 Mizuki: The apple pie place we went to the other day?
 An: Wanna stop by? Remember, we promised we'd go again sometime!
@@ -144,4 +140,4 @@ An: Woohoo! Let's go in!
 Mizuki: While we're at it, let's go check out some other places! After all, it feels like a waste to cut our last day as first-years short.
 An: I was thinking that too! Alright, let's have as much fun as we can today!
 Mizuki & An: Yeah!
-(Black cut)
+(Black transition)

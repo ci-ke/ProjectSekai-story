@@ -16,7 +16,7 @@ An: Oh, how does this grove sound? It's still pretty green even though it's wint
 Akito: Looks good. Alright, let's claim this area.
 Toya: Akito and I will pitch our tent here. Why don't you two pitch yours right next door, Azusawa, Shiraishi?
 An: Okay! Let's get right to it!
-(Black cut)
+(Black transition)
 Kohane: Um... We start by rolling out the tent, right?
 An: Wait, were there always this many poles? Let's start with one and work our way up from there...
 Kohane: Hm? Doesn't this tent belong to your family, An? You've put it together before, right...?
@@ -26,7 +26,7 @@ Kohane: Yeah, I went to this local summer camp one time when I was little, so I 
 Kohane: But I think I'm having trouble now because your tent seems a bit different from the ones we used...
 An: Right... Well, let's just keep trying! I'm sure we'll figure something out!
 Kohane: Okay!
-(Black cut)
+(Black transition)
 Akito: Alright, that should be every pole. Mind sliding this one through, Toya?
 Toya: Sure... So, like this...?
 Toya: ...! It's really a tent now.
@@ -75,11 +75,11 @@ Toya: Okay.
 Akito: An, Kohane, you two are in charge of sticking them in. Once that's done, we can try standing it up together.
 An: Okay!
 Kohane: Okay!
-(Black cut)
+(Black transition)
 An: We did it...! That was so much quicker when we all worked together!
 Akito: That means our tent should be a cinch. Let's keep going while we still have momentum.
 Toya: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -93,4 +93,4 @@ Luka: Hmm... Maybe I am forgetting to do something...
 MEIKO: Sure... Always with the excuses.
 Luka: Oh, that reminds me... Aren't Toya and the others supposed to be going on their camping trip today?
 Luka: I think I'll go pay them a visit!
-(Black cut)
+(Black transition)

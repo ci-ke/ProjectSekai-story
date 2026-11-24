@@ -38,7 +38,7 @@ Shizuku: Your design may take quite some time to complete, since it's a little c
 Mafuyu: I know. My goal is to get as much done as I can. Oh, but before I get started, I'm going to get myself a drink.
 Mizuki: Oh, then... I'll go with you and grab a refill! Want me to do the same for your drinks, you two?
 Shizuku: Thank you, but I'm okay for now. Have fun, you two.
-(Black cut)
+(Black transition)
 Mizuki: Isn't it great that this place has a drink station?
 Mizuki: I think I'll have some hot cafe au lait.
 Mafuyu: If you want it hot, then why are you putting ice cubes in?
@@ -66,7 +66,7 @@ Mizuki: Oh, okay. Thanks.
 Mizuki: Her too, huh...?
 Mizuki: (Does that mean she also enjoys spending time here as a group like this?)
 Mizuki: (If so, that'd make me really happy...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -149,4 +149,4 @@ Kanade: <Is something wrong?>
 Mizuki: <No, nothing's wrong. I was just thinking that it'll probably go well with chocolate!>
 (Background change)
 Mizuki: <I'm really looking forward to your gift now, K!>
-(Black cut)
+(Black transition)

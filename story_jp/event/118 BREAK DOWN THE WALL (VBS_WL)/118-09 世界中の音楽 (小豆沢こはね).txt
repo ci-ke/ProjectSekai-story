@@ -48,28 +48,24 @@ MEIKO (VBS): そうやって進んだ先で—— 『世界を獲る』ための
 ルカ (VBS): あはは！ こはねちゃんって結構、度胸あるよね～。 知らない世界にどんどん飛び込んじゃうタイプっていうか
 こはね: そ、そうですか？
 こはね: でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: たしかに……ちょっとそうかもしれません
 ルカ (VBS): おっと、それじゃそろそろ時間だし、 今度こそ広場に戻ろっか！
 こはね: はい！ 行きましょう、メイコさん、ルカさん！　みんなのところへ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000270/bg_s000270.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000270/bg_s000270.webp)
 こはね: （……ここに来れて、よかったな）
 こはね: （RAD WEEKENDは、 やっぱりすごく高いなって思ったけど——）
 こはね: （この壁を壊したあとの…… その先のドキドキする未来が少し見えたから）
 こはね: （……あとは、やるだけだ）
 こはね: （みんなと一緒に——この壁を、壊すんだ！）
-(White cut)
+(White transition)
 (Video: link_street_ed4)
-(Black cut)
+(Black transition)

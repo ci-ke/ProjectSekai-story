@@ -60,7 +60,7 @@ MEIKO: いいわね！　ちょっとわくわくするわ
 KAITO: そうだね。 音をたどった先にみんながいるなんて、素敵——
 KAITO: って、あれ？　なんだか主旨が変わっているような……
 MEIKO: あっ！　私もまたひとつ思いついたわ！
-(Black cut)
+(Black transition)
 MEIKO: いろんな想像ができたわね！ すっごくおもしろかったわ！
 KAITO: あはは……耐性をつけるっていう話だったのに、 途中から大喜利っぽくなってしまったね
 ルカ: でも、実際に起きたらすごく楽しそうなこともたくさん出て、 これからが楽しみになったわ
@@ -73,7 +73,7 @@ MEIKO: だから、私達の想像を超えることが起きたとしても、 
 ルカ: あの子達の想いの力の強さは、 私達の想像なんて、とうの昔に超えているんだもの
 KAITO: うん。僕達は、あの子達の想いの力を信じて これからも、みんなのことを見守っていこう
 MEIKO: ええ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,19 +84,15 @@ MEIKO: ええ！
 
 MEIKO: ——さて、今日はどのセカイを見に行こうかしら
 MEIKO: あ、そういえば……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: ふふ、あのふたりに会いに行くのもいいわね
 MEIKO: じゃあまずは——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -124,7 +120,7 @@ MEIKO (VBS): ……ごめんなさい。 作ってる時、別のセカイの私
 MEIKO (VBS): 美味しそうに食べてくれて、嬉しかったなって思ってたら つい作りすぎちゃったの
 MEIKO: たしかに、あれだけ美味しそうに食べてくれたら 料理人冥利に尽きるわよね
 MEIKO: でもあの量を食べきるのは、 ちょっとしたフードファイトになりそうね
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -172,4 +168,4 @@ MEIKO (WxS): ……だから、スイカの海ってなんなの？ 泳ぐより
 MEIKO: ——ありがとう、みんな
 MEIKO: じゃあ、私も邪魔にならないように帰るわ
 MEIKO: いい夢を、『私』
-(Black cut)
+(Black transition)

@@ -44,26 +44,26 @@ Skill name: 集中できない…
 冬弥: わかった。ありがとう
 彰人: おーい、冬弥。昼買いに行かないのか？
 冬弥: 今行く
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: 悪い。待たせた
 彰人: いいけど……お前、さっき女子に ゴミ投げられてなかったか？
 冬弥: ああ、違うんだ。あれは……
-(Black cut)
+(Black transition)
 (Background change)
 寧々: ……ふう
 寧々: （これで邪魔者はいなくなった……はず……）
 寧々: …………
 寧々: イヤホンつけてこっそり見よう……
 寧々: はあ。最初からそうすればよかった……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 天馬司, 草薙寧々, 神代類)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　中庭]
@@ -91,10 +91,10 @@ Skill name: 集中できない…
 寧々: ……それ、誰がやるの？
 類: 主役は司くんだから、司くんだろうね
 寧々: （……ご愁傷様）
-(Black cut)
+(Black transition)
 (Background change)
 司: ……は……はっくしゅ！
-(Black cut)
+(Black transition)
 (Background change)
 類: それと、王子がドラゴンを歌で眠らせるシーンがあるだろう？
 寧々: うん。あいつのうるさい歌で眠る生き物なんて、 どこにもいなさそうだけどね……
@@ -118,4 +118,4 @@ Skill name: 集中できない…
 類: おや、そう見えるかい？ ……と、あれは……
 類: ふふ、ちょうどいいところに。 司くん！　ちょっといいかな？
 寧々: …………ふふ
-(Black cut)
+(Black transition)

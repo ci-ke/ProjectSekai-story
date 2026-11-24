@@ -59,17 +59,13 @@ Mafuyu: I'd also be able to live very comfortably and not have to worry about my
 Mafuyu: So, I understand why someone would want to become a doctor.
 Mafuyu: But...
 Mafuyu: But I...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000118/bg_s000118.webp)
-(White cut)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000118/bg_s000118.webp)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: I want to do more for others...
 Mafuyu: I want to be right by their side when they're in pain...
@@ -110,15 +106,11 @@ Mafuyu's Mother: However, I did it all for your sake...
 Mafuyu's Mother: I was only thinking about you having a happy and fulfilling future...
 Mafuyu's Mother: Because... That's what will make me happy...
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: I'm sorry...!
 Mafuyu: Mom, please... Don't cry...
@@ -142,4 +134,4 @@ Miku (N25): <We're right here with you...>
 Miku (N25): <Just believe in how you feel.>
 (Background change)
 Mafuyu: (Miku...)
-(Black cut)
+(Black transition)

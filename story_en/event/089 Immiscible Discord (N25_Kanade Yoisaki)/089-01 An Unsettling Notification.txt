@@ -29,16 +29,12 @@ Kanade: <Yes, I just have a few adjustments left to make.>
 Mafuyu: <Okay, I'll be looking forward to hearing it...>
 (Background change)
 Kanade: <Oh...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (N25): Mafuyu seems to be most at ease whenever she's creating music with all of you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <Okay.>
 (Background change)
@@ -51,7 +47,7 @@ Kanade: ...
 Kanade: (I still haven't been able to compose a song that can save Mafuyu.)
 Kanade: (But if the time we spend together creating music really does put her at ease...)
 Kanade: (I'll keep trying. Because I'm definitely going to someday...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -65,19 +61,15 @@ Mafuyu: Oh, um... Time really flew by since I had so much fun solving all those 
 Mafuyu: I promise to get some rest tonight. Anyway, I need to get going.
 Mafuyu's Mother: She's such a hard-working girl...
 Mafuyu's Mother: Still...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: But I want to try my hand at music...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu's Mother: (It'll be too late by the time she begins regretting her decision...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -86,7 +78,7 @@ Mafuyu's Mother: It's not in this folder either...
 Mafuyu's Mother: I was sure that she'd have all of her music data saved somewhere, but I'm not seeing anything...
 Mafuyu's Mother: But Mafuyu's a clever girl... She may've hidden it somehow.
 Mafuyu's Mother: From what I remember, there's a way to hide folders and such. So, I'll keep looking a little more...
-(Black cut)
+(Black transition)
 Mafuyu's Mother: Aha...
 Mafuyu's Mother: This folder contains... Illustrations and... Lyrics? Oh...?
 Mafuyu's Mother: Nightcord...?
@@ -96,23 +88,19 @@ Mafuyu's Mother: (I didn't know she was using anything like this... Is she using
 Yuki (Mafuyu): <I'll send over my lyrics now.>
 Mafuyu's Mother: Yuki? This must be Mafuyu...
 Mafuyu's Mother: She sent this message at... One in the morning?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Did you stay up late studying last night? Please don't push yourself too hard, okay?
 Mafuyu: Oh, um... Time really flew by since I had so much fun solving all those problems.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu's Mother: ...
 K (Kanade): <The new demo's done. Let us know if you think you can work today, Yuki.>
 Mafuyu's Mother: K...
 Mafuyu's Mother: I see. This person must be the songwriter...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -124,4 +112,4 @@ Kanade: Anyway, I'll continue working on that song when I get home...
 Kanade: (It's nice that I got the demo out of the way too. Mafuyu should be home soon and...)
 Kanade: Hm? What's this notification for...?
 Kanade: A friend request for Nightcord...?
-(Black cut)
+(Black transition)

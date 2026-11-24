@@ -26,7 +26,7 @@ MEIKO (Ln): Oh, I see!
 Len (Ln): But, she's acting as if it's the night before a big show.
 KAITO (Ln): You're right...
 Rin (Ln): Look at it this way. We should follow her example! Let's practice before Ichi and the others get here!
-(Black cut)
+(Black transition)
 
 [Empty Classroom]
 
@@ -36,14 +36,14 @@ Miku (Ln): (But there's still room for improvement...)
 Miku (Ln): (Tomorrow's the big day...)
 Miku (Ln): (The girls are going to be second-years starting tomorrow. I need to do my best to give them an inspiring performance today.)
 Miku (Ln): Again!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
 Miku (Ln): (Yes! I'm playing like I did during practice. I'm going to keep this up and push them all forward!)
 Ichika: (Whoa...! Miku's on fire today!)
 Shiho: (It's like she's leading a charge... We need to keep up.)
-(Black cut)
+(Black transition)
 Rin (Ln): Nice work, everyone! You all played awesomely♪
 Len (Ln): Yeah. I felt fired up just listening!
 Honami: It was thanks to Miku leading us on with her enthusiasm.
@@ -74,7 +74,7 @@ Luka (Ln): Hehe. You're lucky to have such nice juniors, Miku.
 Miku (Ln): I am.
 Miku (Ln): (That wasn't the coolest thing I could've done, but...)
 Miku (Ln): (I'm going to keep trying to be the best senior I can be.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -98,7 +98,7 @@ Miku (Ln): Then they'll all fall in love with their music and—
 Miku (Ln): Oh...
 Luka (Ln): Miku? Is something the matter?
 Miku (Ln): No, it's nothing.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rooftop]
@@ -130,4 +130,4 @@ Luka (Ln): Let's keep it up watching over our girls.
 Miku (Ln): Yeah.
 Miku (Ln): We'll all keep watching over their path ahead, together.
 Luka (Ln): Yes.
-(Black cut)
+(Black transition)

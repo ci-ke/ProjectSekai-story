@@ -2,7 +2,7 @@
 
 (Character: 桃井愛莉)
 
-(White cut)
+(White transition)
 (Background change)
 
 [１週間後]
@@ -16,7 +16,7 @@
 受験生: ♪————～～！
 小学生の愛莉 (愛莉): （じょ、上手……！）
 小学生の愛莉 (愛莉): （でも……、でも、わたしだって……！）
-(Black cut)
+(Black transition)
 審査員: 武田さん、ありがとうございました
 審査員: 次は——12番、桃井さん
 小学生の愛莉 (愛莉): ……はい！
@@ -27,7 +27,7 @@
 審査員: では、課題曲お願いします
 小学生の愛莉 (愛莉): はい！
 小学生の愛莉 (愛莉): ♪————～～！
-(Black cut)
+(Black transition)
 
 [２時間後]
 
@@ -50,20 +50,20 @@
 審査員: ——15番、小泉めぐみさん
 受験生: はい！
 小学生の愛莉 (愛莉): あっ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
 
 [住宅街]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000449/bg_s000449.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000449/bg_s000449.webp)
 小学生の愛莉 (愛莉): ……っ、…………
 小学生の愛莉 (愛莉): （…………知らなかった）
 小学生の愛莉 (愛莉): （いっぱい、いっぱい練習して。 今やれること、全部やって……）
 小学生の愛莉 (愛莉): （それでもダメだったら…………こんなに、苦しいんだ）
-(White cut)
+(White transition)
 (Background change)
 愛莉の母: ——愛莉は、頑張ってたよ
 小学生の愛莉 (愛莉): お母さん……
@@ -94,4 +94,4 @@
 小学生の愛莉 (愛莉): （……でも……）
 小学生の愛莉 (愛莉): （でも、わたし——）
 小学生の愛莉 (愛莉): ——がんばって、よかったかも
-(Black cut)
+(Black transition)

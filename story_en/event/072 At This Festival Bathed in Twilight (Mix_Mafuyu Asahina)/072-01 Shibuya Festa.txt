@@ -37,7 +37,7 @@ Mafuyu's Mother: <Come home soon.>
 Mafuyu: Okay, I will.
 Mafuyu: ...
 Mafuyu: I really need to get home...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -77,7 +77,7 @@ Mafuyu: Okay, see you.
 Mafuyu: Shibuya Festa...
 Mafuyu: (I had no idea that it was happening.)
 Mafuyu: (But it's not like I'll have anything to do with it...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [25:00:00]
@@ -125,19 +125,15 @@ Mizuki: Yeah, totally! We should see as much stuff as we can♪
 Mafuyu: ...
 Mizuki: How do you feel, Mafuyu? Are you gonna be too busy studying during the weekend?
 Mafuyu: I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: <Hehe. That study guide should keep you busy this weekend... So, why don't I make you some of your favorite stew this Saturday?>
-(White cut)
+(White transition)
 (Background change)
 Mafuyu's Mother: Just don't regret your decision, okay...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ... I'll need some time to think about it.
 Miku (N25): ...
@@ -145,4 +141,4 @@ Ena: Okay, but... You're always free to let us know if you think you can go.
 Mizuki: Yeah, we'll wait as long as you need!
 Kanade: I'd like it if you could join us, but you don't need to force yourself...
 Mafuyu: Okay...
-(Black cut)
+(Black transition)

@@ -2,10 +2,8 @@
 
 (Character: 望月穂波, 花里みのり, 東雲彰人, 神代類, KAITO)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [十数年前]
@@ -35,14 +33,14 @@
 幼い彰人 (彰人): （——よし！　これでだいじょ……）
 犬: ワンッ！
 幼い彰人 (彰人): えっ——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000296/bg_s000296.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000296/bg_s000296.webp)
 幼い彰人 (彰人): （す、すっげえこっち見てる……！）
 幼い彰人 (彰人): （もしかして、おれがおりるまで待ってるつもりか！？）
 幼い彰人 (彰人): あ……あっち行けよ！
 犬: ワンッ！
 幼い彰人 (彰人): うわっ！
-(White cut)
+(White transition)
 (Background change)
 幼い彰人 (彰人): っ！　やべ、バランスが……！
 幼い彰人 (彰人): ……と、とと……うわあっ！
@@ -51,10 +49,8 @@
 幼い彰人 (彰人): わあっ！　く、来るな！
 犬: わふんっ！
 幼い彰人 (彰人): あ……う、うわああああ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: ……ってことがあってな
 彰人: あとから聞いた話じゃ、走って逃げるオレを見て 遊んでもらえるって勘違いした、らしい
 彰人: だが……あれ以来、 犬を見ると反射的に身構えるようになっちまったんだ
@@ -72,7 +68,7 @@
 穂波: ふふ、そうだね。 近くに食べ物の屋台もあったし、みんなでお昼にしよっか
 彰人: ……ああ。 んじゃ、ちょっと休憩入れるか
 みのり: はい！
-(Black cut)
+(Black transition)
 サモちゃん: わふんっ！
 みのり: わわっ！　サモちゃん、 このホットドッグは食べちゃダメだよ～！　めっ！
 サモちゃん: く～ん……
@@ -85,13 +81,13 @@
 穂波: しばお？　どうしたの？
 穂波: （あ……わたしのカバンをつついてる。 おやつが入ってると思ってるのかな？）
 穂波: しばお、おやつは帰ってからだよ……って——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000297/bg_s000297.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000297/bg_s000297.webp)
 しばお: ハッ、ハッ、ハッ……ヴァフッ！
 KAITO (Ln): し、しばお、静かに……
 穂波: カイトさん……！
 KAITO (Ln): あ、穂波……
-(White cut)
+(White transition)
 (Background change)
 みのり: どうしたの？　穂波ちゃん
 穂波: あ！　え、えっと……！
@@ -99,7 +95,7 @@ KAITO (Ln): あ、穂波……
 みのり: そっか！　しばお、食いしん坊だって言ってたもんね！
 穂波: う、うん……
 穂波: （今はちゃんとおやつ我慢してくれてるんだけど……。 ごめんね、しばお……！）
-(Black cut)
+(Black transition)
 KAITO (Ln): ……ごめん。しばおに会いに来たんだけど、 タイミング悪かったね
 穂波: いえ、わざわざありがとうございます
 穂波: 今はあまりゆっくりはお話できないんですけど…… でも、来てもらえてよかったね、しばお
@@ -124,10 +120,8 @@ KAITO (Ln): 俺も、知らない人が家にいたら警戒するだろうし�
 KAITO (Ln): だから、しばおに見つからないように、 画面の中から様子を見てたんだけど……
 KAITO (Ln): そうしたら——しばおのこと、誤解してたって気づいた
 穂波: 誤解？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
 しばお: く～ん……
@@ -154,10 +148,8 @@ KAITO (Ln): （でも……どうしよう。 ボールでは遊んであげら�
 KAITO (Ln): あ……そうだ
 KAITO (Ln): （しばおに喜んでもらえそうな歌は……あ。 穂波が好きって言ってた曲なら、聴いたことあるかな）
 しばお: ！　ヴァンッ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (Ln): ——そんな風にしばおのことを知ってからは、 吠えられても怖くなくなったんだ
 KAITO (Ln): 多分、しばおは俺を襲ってきたりしないって、 信じられるようになったからだと思う
@@ -169,4 +161,4 @@ KAITO (Ln): え？
 穂波: 実は、ちょっと悩んでいたことがあって……。 でも、カイトさんのお話を聞いて、 どうすればいいか分かった気がするんです
 KAITO (Ln): ……そっか。事情はわからないけど……
 KAITO (Ln): ——力になれたなら、よかった
-(Black cut)
+(Black transition)

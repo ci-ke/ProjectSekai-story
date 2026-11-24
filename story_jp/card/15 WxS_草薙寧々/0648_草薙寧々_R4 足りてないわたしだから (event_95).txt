@@ -14,17 +14,13 @@ Gacha phrase: だから……お願いします
 寧々: 『こっ……こないでっ！』
 寧々: なんか、これじゃないっていう感じがする……
 寧々: （人間を怖がってるっていう気持ちは、 込められてると思うけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 櫻子: 『——まったく、毎日毎日、 狂ったみたいにうるさい森ね』
 櫻子: 『ゆっくり寝てもいられないなんて、本当に最悪だわ。 ああ……揺れる木々の枝葉も鬱陶しい……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （仕草はまだ、『臆病なカナリア』になれてない……）
 寧々: （このままじゃダメ。カナリアが登場するシーンの稽古が 始まる前に、もっと役を掴まないと……！）
@@ -44,7 +40,7 @@ Gacha phrase: だから……お願いします
 寧々: 動画は……う、ピンボケしてる……
 寧々: でも今のシチュエーション、リオとカナリアが出会うシーンに 似てたし、頑張ったら参考になる映像撮れるかも……
 寧々: ……うん。やってみよう……！
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -80,7 +76,7 @@ Gacha phrase: だから……お願いします
 えむ: うんっ☆　あ、じゃあじゃあ！ 寧々ちゃん、あたしの歌聴いてくれる？ ちゃんと歌えてるか心配なんだ～
 寧々: いいよ。任せて
 えむ: わーい！　教え合いっこだー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -93,10 +89,8 @@ Gacha phrase: だから……お願いします
 寧々: つ、疲れた……
 寧々: （風祭さんの指導、すごく厳しかったな……）
 寧々: （でも、まさか直接教えてもらえることになるなんて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [シブヤの公園]
@@ -110,7 +104,7 @@ Gacha phrase: だから……お願いします
 夕夏: うん、いい返事！
 夕夏: じゃあ、始めようか。 まず、カナリアの歌を全力で歌ってみて
 寧々: はい！
-(Black cut)
+(Black transition)
 寧々: ……はあ、はあ……。 どう、でしたか？
 夕夏: カフェでも言ったけど、よかったよ。 私、寧々ちゃんの歌、結構好きだな
 寧々: えっ！？　あ、ありがとう、ございます……
@@ -130,22 +124,16 @@ Gacha phrase: だから……お願いします
 夕夏: それを全部なかったことにしちゃうなんて、 もったいないよ
 寧々: あ……
 寧々: ……はい。ありがとうございます……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……駄目なところがたくさんあったのは、 やっぱりつらかったけど……）
 寧々: （でも……風祭さんとの練習をやりきれれば——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……やらなくちゃ。 絶対、やりきらなくちゃ……！）
 寧々: よし、今日メモさせてもらった課題点を おさらいして——
@@ -162,4 +150,4 @@ Gacha phrase: だから……お願いします
 寧々: そうだ、風祭さんに教えてもらえるようになったことも、 みんなに伝えておこっと……
 みんな: 『頑張れ～、寧々～っ！』 『がんばれ～っ、寧々ちゃ～んっ！』
 寧々: ……うん。 最後まで、全力で頑張るよ
-(Black cut)
+(Black transition)

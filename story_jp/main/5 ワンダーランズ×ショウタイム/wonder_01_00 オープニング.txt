@@ -9,8 +9,8 @@ wonder_01_00 オープニング
 (Fullscreen text): 　　 でも、小さかったオレは、 どうしたらいいかわからなかったんだ
 (Fullscreen text): そんな時、父さんと母さんが、オレと咲希を 　　  ショーに連れて行ってくれて……
 (Fullscreen text): その日は、忘れられない日になった
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000003/bg_a000003.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000003/bg_a000003.webp)
 幼い咲希 (咲希): わあ……！　すごいすごい！
 幼い咲希 (咲希): お兄ちゃん、あの人、すっごくカッコいいね！ キラキラしてる！
 幼い司 (司): うん……！　すごい！ 本当にすごいね！
@@ -21,7 +21,7 @@ wonder_01_00 オープニング
 幼い咲希 (咲希): でも……わたし、そんなにお外出られないから…… きっとむりだよね……
 幼い司 (司): 咲希……
 幼い司 (司): ……そうだ！　それなら——
-(White cut)
+(White transition)
 (Background change)
 
 [数年後]
@@ -103,7 +103,7 @@ KAITO: でも……。このセカイに来て、もし懐かしいって思っ�
 司: おい、みんなって誰だ？ さっきから疑問しかないんだが！
 KAITO: きっとすぐ会えるよ。 司くんが本当の想いを見つけたいって思っていれば、ね
 ミク (WxS): それじゃあ、司くん！ また会おうね、バイバーイ☆
-(White cut)
+(White transition)
 司: え、え！？ ま、また会うって、お、おい……！？
 (Background change)
 (Place: 司の部屋)
@@ -112,7 +112,7 @@ KAITO: きっとすぐ会えるよ。 司くんが本当の想いを見つけた
 咲希: お兄ちゃん！　バイトの面接行かないの？ 早くしないと遅刻するよー！
 司: わっ、わかってる！ あと面接じゃない、オーディションだ！
 咲希: もー、どっちでもいいってば！ ほらほら、いってらっしゃーい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -120,6 +120,6 @@ KAITO: きっとすぐ会えるよ。 司くんが本当の想いを見つけた
 司: ……ふう、ギリギリになるかと思ったが オレの俊足なら予定通りの時間に着きそうだな。さすがオレ！
 司: ふふん、今日はオレがスターへの第一歩を踏み出す日。 まずは、オーディションで一番目立ってやるからな
 司: よーし、待ってろよ！　オレのショーステージ！！
-(White cut)
+(White transition)
 (Video: theme_park_opening)
-(Black cut)
+(Black transition)

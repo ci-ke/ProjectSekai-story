@@ -14,10 +14,8 @@ Gacha phrase: ……どうすれば、いいの……？
 まふゆ: （……宿題は、これで終わり。 予習も終わってるし、あとは寝るだけ……か）
 まふゆ: あ……。25時……
 まふゆ: （……今までなら）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『……遅れてごめん』
 (Background change)
@@ -28,10 +26,8 @@ Gacha phrase: ……どうすれば、いいの……？
 絵名: 『ちょっとAmia、先にイラストとすり合わせてからでしょ』
 瑞希: 『わかってるって。でも希望は聞いときたいじゃん？』
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: 寝ないと……
@@ -77,7 +73,7 @@ Gacha phrase: ……どうすれば、いいの……？
 まふゆ: 『……わかった』
 まふゆ: 『それじゃあ、また明日。 昼休みになったら連絡する』
 まふゆ: （明日のお昼、あけておかないと）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -93,19 +89,15 @@ Gacha phrase: ……どうすれば、いいの……？
 瑞希: さーて、次は何やろっか！ まふゆは何かやってみたいのとかある？
 まふゆ: ……特にない
 瑞希: え、じゃあボクが勝手に選んじゃうよ～？ んー、どれにしよっかなー……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希のメッセージ (瑞希): 『急にごめん。 実は、ふたりで話したいことがあるんだ』
-(White cut)
+(White transition)
 瑞希のメッセージ (瑞希): 『タイミングは雪の都合のいい時で大丈夫！ ただ……もしよかったら、早めに話せるといいな』
 瑞希のメッセージ (瑞希): 『伝えたいことがあるんだ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （『伝えたいこと』ってなんだろう……）
 まふゆ: （できれば直接話したいとも書いてたから、 大事なことなんだろうけど）
@@ -121,7 +113,7 @@ Gacha phrase: ……どうすれば、いいの……？
 瑞希: あはは、ありがと！ けど、せっかく一緒にやるんだしね～
 瑞希: 何かいいの見つかるかもだし、 この辺ぐるっと回ってみる？
 まふゆ: ……そうだね
-(Black cut)
+(Black transition)
 瑞希: あっちにはフットサルコートがあってー…… あ！　見て見て！
 瑞希: 風船みたいのを被ってる人達がいるー！ あれって奏と絵名がやったって言ってたバブル相撲じゃない！？
 まふゆ: そうだね。思ってたより、風船大きいな……
@@ -130,7 +122,7 @@ Gacha phrase: ……どうすれば、いいの……？
 まふゆ: ……瑞希、あれやりたいの？
 瑞希: まあね！　でも終わるまで待ってないといけないし、 時間もったいないからもっと回ってみようよ！
 まふゆ: ……わかった
-(Black cut)
+(Black transition)
 
 [ゲームコーナー]
 
@@ -160,4 +152,4 @@ Gacha phrase: ……どうすれば、いいの……？
 まふゆ: （まだいい、かな……）
 瑞希の声 (瑞希): まふゆー！　こっちこっちー！
 まふゆ: うん。今、行く
-(Black cut)
+(Black transition)

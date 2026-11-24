@@ -13,24 +13,20 @@ Ena: Hmm... Which bag should I take?
 Ena: This one would probably be the most useful since it has so many pockets, but it doesn't have a spring vibe to it.
 Ena: It's on the small side, but this one's a nice, spring-like color. Now, what clothes match this...?
 Ena: Oh, right. We don't even know where we're going yet...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: I'll come up with where we'll be going, so all you have to do is follow me!
 Mizuki: I promise that it'll be jam-packed with fun surprises! How's that sound?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Ugh. It'd be so much easier to pick out something if I knew where we're going.
 Ena: But I guess it is a mystery tour, and we won't know until we get there.
 Ena: *Sigh*... It'd also feel weird if I end up being the one that shows up overdressed too...
 Mother's Voice: Ena! Dinner's ready!
 Ena: Oh, yeah... Coming!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -63,7 +59,7 @@ Ena: I totally would've woken up a few seconds later if you gave me the chance!
 Akito: There's no way!
 Mom: Okay, you two. Let's finish up before everything gets cold.
 Ena: Fine.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the trip]
@@ -75,7 +71,7 @@ Ena: Mhm... Still pretty sleepy...
 Ena: See, Akito. I can wake up when I actually mean to.
 Ena: Got my phone, my pouch, my handkerchief and... That should be it...
 Ena: Okay. I should get going.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -87,15 +83,11 @@ Ena: Okay. I should get going.
 [Ena's Room]
 
 Ena: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (That look on Mizuki's face on the train back. I wasn't just seeing things, right...?)
 Ena: (But why...?)
@@ -121,7 +113,7 @@ Ena: <Yeah. Bye...>
 (Background change)
 Ena: (Mizuki sounded fine...)
 Ena: (But was what I saw on the train real...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -144,7 +136,7 @@ Ena: Okay, bye.
 Ena: (It's true that Mizuki hardly ever goes to school...)
 Ena: (But even then, something feels off...)
 Ena: Alright...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -161,26 +153,22 @@ Ena: Summer clothes. Some places usually start selling stuff early so...
 Mizuki: Oh, nice! I was just thinking that it's about time they did too.
 Mizuki: Shall we♪
 Ena: Yeah.
-(Black cut)
+(Black transition)
 Ena: Hm, another botanical pattern? The other store had this too. Is this what's gonna be in this year?
 Mizuki: Dunno. It might sell a little, but I doubt something like this'll catch on.
 Mizuki: But the dull-colored ones made of satin were pretty good, right?
 Ena: Yeah, I think I have to agree.
 Mizuki: Hey! That looks nice too! Let's take a look!
-(Black cut)
+(Black transition)
 Ena: *Sigh*... I think I went a little overboard...
 Mizuki: But we found some really cute stuff, so it's all good♪
 Ena: ...
 Ena: (Maybe I was wrong... But I'm still not sure...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (So what was that then...?)
 Mizuki: Oh, hey! Wanna take a little detour before we split?
@@ -191,4 +179,4 @@ Ena: What?! I need to see this!
 Mizuki: Right?! Let's go♪
 Ena: H-Hold on! Wait for me!
 Ena: (I guess everything's okay... Right, Mizuki...?)
-(Black cut)
+(Black transition)

@@ -45,7 +45,7 @@
 杏: ふふっ、それじゃあ早速 チャレンジしてみよっか！
 杏: 椅子持ってくるから、 ちょっと待ってて！
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: ——よし。 それではまず、自分なりに吹いてみてくれないか？
 少年: は、はい！
@@ -86,16 +86,16 @@
 杏: あ……！ ちょっとだけだけど、鳴りました！
 奏: ……すごいな、ふたりとも
 奏: わたしも……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000339/bg_s000339.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000339/bg_s000339.webp)
 奏: あ……あれ？　な、鳴らない……。 もう一度……
 奏: ……っ！ 唇を震わせる感じが足りないのかな……えっと……
 奏: …………っ。はぁ、はぁ……。 だめだ、全然音が出ない……
 奏: み、みんなと何が違うんだろう……？
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 少年: …………。 ……ダメだ、やっぱりちゃんと鳴らない……
 冬弥: 大丈夫だ。焦らずやっていこう
 冬弥: もう少し、口の形を意識するといいかもしれないな。 唇が振動しやすくなるよう、 少しだけ突き出すようにしてみるのはどうだろうか
@@ -108,4 +108,4 @@
 館内アナウンス: 『本イベントの終了時刻まで、残り30分となりました。 お買い物をご検討のお客様は、お早めに——』
 杏: え……！ もうそんな時間なの……！？
 冬弥: …………
-(Black cut)
+(Black transition)

@@ -23,7 +23,7 @@ Magistrate: Anything further...?
 Kayo (Luka): No, your honor.
 Kayo (Luka): (No matter how many times anybody asks, my answer will not change...)
 Kayo (Luka): (The rest of what I know will go with me to the grave...)
-(White cut)
+(White transition)
 (Background change)
 
 [One year earlier]
@@ -44,7 +44,7 @@ Female Commoner  : I even heard that she'd finally lost it. Rumor has it that sh
 Male Commoner B: I heard that too... Something about her kid working for that Perrié guy at his shop, right?
 Female Commoner  : Yes, that. And how her husband is always out and never home.
 Male Commoner  : Poor thing... If only that fire had never happened...
-(Black cut)
+(Black transition)
 (Background change)
 Kayo (Luka): Phew. Delivered as ordered.
 Kayo (Luka): (But I still have plenty of other orders still unfinished. I should head home and...)
@@ -70,14 +70,14 @@ Mei: I suppose so...
 Oyuka: He got caught up in that fire too...
 Kayo (Luka): Oyuka... Please, excuse me.
 Oyuka's Voice: Sure. Come visit again soon.
-(Black cut)
+(Black transition)
 Kayo (Luka): ...
 Kayo (Luka): ......
 Kayo (Luka): .........
-(Black cut)
+(Black transition)
 (Background change)
 Kayo (Luka): Back to work...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -93,7 +93,7 @@ Kayo (Luka): Thank you for this, Oyuka. Please, stay safe.
 Oyuka: I will. Wait... I left my shop wide open! See you later, Kayo!
 Kayo (Luka): Anyway, back to work.
 Kayo (Luka): I should start by doing something about this hole in the breast area.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -103,7 +103,7 @@ Kayo (Luka): I should start by doing something about this hole in the breast are
 [???]
 
 Kayo (Luka): *Groan*
-(Black cut)
+(Black transition)
 (Background change)
 Male Commoner : Run! Hurry! The fire's already spread this far!!
 Female Commoner: No... Please...! Help! My baby! Has anybody seen my baby?! Someone, please...!!
@@ -112,13 +112,13 @@ Female Commoner: No, let go of me...! Without them, I'll...!
 Oyuka: Your kid's got a good head on their shoulders! I'm sure they ran to safety already, so...
 Male Commoner : Watch out! The roof's about to collapse!! Run!!
 Oyuka: Huh...? Oh... Aaahhhhh!!
-(Black cut)
+(Black transition)
 (Background change)
 Kayo (Luka): Aaahhhhh!!
 Kayo (Luka): *Huff*... *Huff*...
 Kayo (Luka): That dream again...
 Kayo (Luka): ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Enbizaka]
@@ -148,7 +148,7 @@ Kayo (Luka): Oyuka...
 Oyuka: Yes?
 Kayo (Luka): Thank you... For everything... I appreciate all that you have done for me.
 Oyuka: Haha. What's gotten into you all of a sudden?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few weeks later]
@@ -193,10 +193,10 @@ Kayo (Luka): It was maddening...
 Kai: Wait... No, please...
 Kayo (Luka): You have nothing to worry about. The truth will go with me to the grave and Enbizaka will stay safe.
 Kayo (Luka): Now, it is time to begin... My final order.
-(Black cut)
+(Black transition)
 (Background change)
 Kai: A-Aaahhhhh!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Enbizaka]
@@ -206,7 +206,7 @@ Male Commoner B: Yeah... It was Kayo, the tailor... She thought that he was her 
 Female Commoner: Is that true?! What in the world happened to her...?!
 Oyuka: N-No, that can't be... This has to be a mistake!
 Oyuka: Eikichi, where are you...! You think this is wrong too, right?!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Court of Law]
@@ -219,4 +219,4 @@ Magistrate: Kayo Sudou... Your sentence is capital punishment.
 Kayo (Luka): ...
 Kayo (Luka): (According to the Purple Dream, I will be taking them with me...)
 Kayo (Luka): (Farewell, Enbizaka. Please stay safe, everyone...)
-(Black cut)
+(Black transition)

@@ -10,7 +10,7 @@ Skill name: いつもとは違う朝
 
 こはね: （……大河さんとの練習も、今日で終わっちゃうのか……）
 こはね: （次に会えるのはいつかわからないし、 練習を見てもらった成果を、しっかり見せないと！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -20,30 +20,26 @@ Skill name: いつもとは違う朝
 こはね: はい！
 こはね: （観客は大河さんひとりだけど、 Crawl Greenの時と同じように……）
 こはね: （私は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: 嬢ちゃん、もっと力をつけたいと言ってたな。 その気持ちも、変わってないか？
 こはね: あ……はい！ もっと歌えるようになりたいです！
 大河: そうか。 じゃあ——俺と一緒にやるのはどうだ
 こはね: えっ？ 一緒にやるって、何をですか？
 大河: そりゃ、歌に決まってるだろ
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （——聴いてほしい）
 こはね: （今日までたくさんのことを教えてくれた大河さんに、 今の私の歌を……！）
 こはね: （私の全部を……！）
 こはね: ————！　————～～～～！！
-(Black cut)
+(Black transition)
 こはね: はあ……はあ……。 どう、でしたか……？
 大河: おう、良かったぞ。 やるじゃねえか、嬢ちゃん！
 大河: たしか……『STAY GOLD』だったか？ あん時は火事場の馬鹿力なとこがあったが——
@@ -52,7 +48,7 @@ Skill name: いつもとは違う朝
 大河: けどまあ、俺からすればまだまだひよっこだ
 大河: ほら、もう一度頭から歌ってみな。 今日で最後だ、細かいとこもしっかり見てやるよ
 こはね: ……よろしくお願いします！
-(Black cut)
+(Black transition)
 (Background change)
 大河: ——よし。 だいぶ日も暮れてきたし、このへんにしておくか……
 こはね: あ……
@@ -76,7 +72,7 @@ Skill name: いつもとは違う朝
 こはね: えっと……あ、東雲くん達も、もうお店にいるんだ
 こはね: ……練習終わったよ。これから行くね……っと
 こはね: ——よし！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -87,24 +83,20 @@ Skill name: いつもとは違う朝
 
 こはね: ……すること、ないな
 こはね: （いつもなら、みんなで練習してる時間だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪————————————！！
 杏: …………っ！！
-(White cut)
+(White transition)
 (Background change)
 杏: 言いたいこと……いっぱい、あったのに……っ
 杏: こはねにも……、彰人にも、冬弥にも……会って……！ いい仲間見つけたねって……言って、ほしくて……！
 杏: RAD WEEKEND超える時だって……！ 絶対、凪さんに、見てほしかったのに……！
-(White cut)
+(White transition)
 杏: ……う、うええ、うああああん……っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……もう一度みんなで頑張ろうって決めたけど、 杏ちゃん、大丈夫かな……）
 こはね: （大好きで、憧れてた人が……もう、いないなんて……）
@@ -147,4 +139,4 @@ Skill name: いつもとは違う朝
 (Background change)
 こはね: ふふ、ゆっくりでいいよ。 待ってるから
 こはね: （少しでも、気がまぎれてくれるといいな）
-(Black cut)
+(Black transition)

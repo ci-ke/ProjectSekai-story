@@ -3,7 +3,7 @@
 (Character: Hatsune Miku, Kagamine Rin, KAITO)
 
 (Video: link2_ppr_op5)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -38,7 +38,7 @@ KAITO (Ln): Sh-She isn't waking up... Actually, it's amazing how she can sleep t
 KAITO (Ln): But if I don't do something...
 KAITO (Ln): We need to run. Sorry about this, Rin.
 Detective Plushie: Hey, wait!
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (Ln): Huff... Huff... This should be far enough...
 Detective Plushie: Where did you gooo?!
@@ -52,7 +52,7 @@ KAITO (WxS): MEIKO said she'd be watering the tree in the harbor, but where coul
 KAITO (Ln): P-Please, help...!
 KAITO (WxS): Huh...?
 KAITO & KAITO: Are you...? Me...?
-(Black cut)
+(Black transition)
 KAITO (WxS): Alright, everything should be fine now. That plushie seems to understand what's going on.
 KAITO (Ln): Sorry for making you help us like this. And thank you for convincing him...
 KAITO (WxS): No, don't worry about that. More importantly...
@@ -118,14 +118,14 @@ KAITO (Ln): W-Wonderhoy...?
 KAITO (WxS): Hehe. It's a sort of magic spell that the ones whose feelings created this SEKAI like to say.
 KAITO (WxS): Anyway, let's start by going this way.
 KAITO: For a second, I wasn't sure what was going to happen, but he should be okay now, I think.
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): KAITO! This is the amusement park♪
 KAITO (Ln): S-So many things are floating in the air...
 Miku (WxS): Heehee☆ Isn't this place amazing?!
 Miku (WxS): Come on, this way! There's more cool stuff that you gotta see♪
 KAITO (Ln): Huh? W-Wait...!
-(Black cut)
+(Black transition)
 Singing Flower: ——♪ ——♪
 KAITO (Ln): Eep!
 Miku (WxS): What, what, what? What's wrong, KAITO?
@@ -134,7 +134,7 @@ Miku (WxS): Oh, is that all? It's a flower, silly! Of course it's gonna sing☆
 KAITO (Ln): What? O-Of course...?
 KAITO (WxS): I understand why you're surprised, but these sorts of things are normal for this SEKAI.
 KAITO (Ln): S-Singing flowers are normal...?
-(Black cut)
+(Black transition)
 Miku (WxS): Next, KAITO, we're gonna have a race to see who gets to that castle first!
 KAITO (WxS): Haha... Miku seems to be having so much fun.
 KAITO (Ln): Your Miku is so energetic...
@@ -145,22 +145,22 @@ Miku's Voice (Miku-WxS): Heeey, slowpokes! I'm gonna win if you guys don't hurry
 KAITO (Ln): Oh...
 KAITO (WxS): Hehe. Let's chase after her, shall we?
 KAITO (Ln): Okay.
-(Black cut)
+(Black transition)
 Miku (WxS): Woohoo! I win☆
 KAITO (Ln): Y-You were so fast...
 KAITO (WxS): We never came close to catching her. You could've gone a little easier on us, no?
 Miku (WxS): Okay☆ Next time, I'll be more of a turtle♪ Ready, steady...
 KAITO (Ln): No, I think I'm...
 ???: Oh, they're over here!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000492/bg_s000492.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000492/bg_s000492.webp)
 KAITO (Ln): Huh?! Wh-What's going on...?!
 Kitty Plushie: You're the other KAITO they told me about, right?!
 KAITO (Ln): More talking plushies...?
 Kitty Plushie: Hmm... You do seem different! I'll hang out with you if you want!
 KAITO (Ln): U-Umm...
 KAITO: (He's being pulled in all directions. Is he going to be okay...?)
-(White cut)
+(White transition)
 (Background change)
 KAITO: But it might be good for him to experience something like this for a change.
 ???: Hey, Miku, KAITO!
@@ -174,4 +174,4 @@ KAITO (Ln): Oh...
 KAITO: (Band me is a very shy person... I'm a little worried.)
 KAITO: (But this could be a good experience for him. I'll be rooting for him.)
 KAITO: You can do it, me!
-(Black cut)
+(Black transition)

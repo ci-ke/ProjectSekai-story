@@ -21,13 +21,13 @@
 彰人: いいぞ。つーか、オレも一応撮っとくか
 ？？？: 『うわっ！　すっごいおいしそう！』
 冬弥: ん？　今の声は……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000399/bg_s000399.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000399/bg_s000399.webp)
 レン (VBS): 『こんな大きいパンケーキ、初めて見たかも！』
 冬弥: レン……いつの間に？
 レン (VBS): 『へへ。気になって遊びに来たんだ～！』
 レン (VBS): 『ニューヨークって、ほんとに大きくてすごいとこだね！』
-(White cut)
+(White transition)
 (Background change)
 彰人: 大きいってそういう意味じゃ—— いや、ある意味合ってんのか？
 ミク (VBS): 『レン……興奮して騒がないようにって言ったのに』
@@ -36,7 +36,7 @@ KAITO (VBS): 『あはは。けど、気持ちはわかるなあ』
 KAITO (VBS): 『やっほー！ レンが遊びに行くって言うから、ついてきたんだ』
 ミク (VBS): 『どう？　アメリカ旅行は』
 冬弥: ……そうだな。 どこから話したらいいか——
-(Black cut)
+(Black transition)
 ミク (VBS): 『……なるほど。いろいろ大変だったみたいだね』
 レン (VBS): 『でも、寮に泊めてもらえるなんてラッキーじゃん！ 普通はなかなかできないことなんでしょ？』
 冬弥: そうだな。貴重な経験だったことは間違いない
@@ -50,16 +50,12 @@ KAITO (VBS): 『やっほー！ レンが遊びに行くって言うから、つ
 ミク (VBS): 『すごいね。ほんとに幅広いんだ』
 冬弥: ああ。そしてどの分野でも、 一流と呼ばれる音楽家を輩出している
 冬弥: だから、兄さんが進路として選んだ時も 特に疑問には思わなかったんだが……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ロイド: 『ハルミチはウィーンの音大から、 ここニューヨーク音楽院に留学してたんだ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……まさか、父さんも通っていたとは思わなかった
 杏: ね。あれはびっくりしちゃったなー
@@ -69,15 +65,11 @@ KAITO (VBS): 『やっほー！ レンが遊びに行くって言うから、つ
 彰人: なるほどな……
 冬弥: （……詳細はわからないが——）
 冬弥: （学生時代の父さんも、こんな風にカフェに座って、 朝の風景を眺めたりしていたんだろうか？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……どうも、うまく想像できないな）
 冬弥: （父さんはここで、どんな風に過ごしていたんだろう）
@@ -91,17 +83,13 @@ KAITO (VBS): 『やっほー！ レンが遊びに行くって言うから、つ
 杏: この辺りを？
 彰人: ロイドさんが言ってただろ。 『散歩にちょうどいい通りがある』って
 冬弥: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ロイド: 『もし興味があれば、学院裏の通りを歩いてみるといいよ』
 ロイド: 『ハルミチも昔、よく散歩に行ってたんだ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……たしかに！　せっかくだから行ってみよっか　
 こはね: うん！
@@ -109,7 +97,7 @@ KAITO (VBS): 『やっほー！ レンが遊びに行くって言うから、つ
 杏: うん！　私達も興味あるしね
 彰人: 昨日はバタついてて周りを見る余裕もなかったし、 ちょうどいいだろ
 冬弥: ……ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [ニューヨーク音楽院　裏通り]
@@ -125,12 +113,12 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 彰人: ああ、そうじゃなくてジャンルのことだ
 彰人: クラシックとかポップスとか…… あとたまに民族音楽っぽいのも聞こえてくるだろ
 冬弥: 楽器もチェロにトランペット、 ギター、アコーディオン……あっちはハープか
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000398/bg_s000398.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000398/bg_s000398.webp)
 冬弥: （足を進める度に、いろいろな音が聞こえてくる）
 冬弥: （……父さんが、こういう場所に通っていたというのは意外だな）
 冬弥: （クラシック一筋だから、他の音楽には あまり興味がないと思いこんでしまっていたが……）
-(White cut)
+(White transition)
 (Background change)
 ミク (VBS): 『あのおじいさんのギター、かっこいいね』
 レン (VBS): 『うん。なんか、ギターが語りかけてくるみたいだ』
@@ -140,15 +128,11 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 冬弥: （楽しそう、か）
 冬弥: （目に映る景色も、演奏の内容も違う）
 冬弥: （しかし、この通りは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……少し、ビビッドストリートに似ているな
 レン (VBS): 『ビビッドストリートに？』
@@ -157,4 +141,4 @@ KAITO (VBS): 『うわあ……！　キレイな通りだね！』
 彰人: だな。そこら中に音楽があって、 全員がそれを楽しんでるっつーか——
 冬弥: 人々のすぐ傍に、当たり前のように音楽がある。 そこが似ていると感じるのかもしれない
 冬弥: ——いい場所だな、ここは
-(Black cut)
+(Black transition)

@@ -6,54 +6,42 @@
 
 寧々: はぁ……。結局今日はしゃべってばっかりで、歌えなかったな。 本番まで時間もないのに
 寧々: あ、そういえば……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 司: 幼いオレのショーならば見られるぞ！ 親が映像で残していたからな！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: ……うちの親も撮ってたっけ。 わたしの練習してた時の様子とか、劇団の発表会とか……
 寧々の声 (寧々): お母さーん！ ちょっと聞きたいんだけど……
-(Black cut)
+(Black transition)
 寧々: ……これで繋げたかな。 多分、このへんを再生すれば――
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い寧々 (寧々): それじゃあ、やるね？
 寧々の母: はーい。パチパチパチ―
 幼い寧々 (寧々): 『ねえ、わたしといっしょに空を飛んでみない？』
 幼い寧々 (寧々): 『だいじょうぶよ、自分を信じて！』
 幼い寧々 (寧々): 『わたしがあなたに、魔法をかけてあげるわ！』
 幼い寧々 (寧々): 『♪～～～～』
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: ふふっ。 ヘタだなぁ。音も外れてるし
 寧々: ……でも、懐かしいな。 この公園にも、よく類と練習しに行ったっけ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い寧々 (寧々): 『♪～～～～』
 幼い寧々 (寧々): 『足下を見ないで、空を見上げるのよ。 ほら！　とってもキレイな虹！』
 幼い寧々 (寧々): 『ね？　歌いたくなるでしょう？』
 幼い寧々 (寧々): えへへ……楽しいな……
 幼い寧々 (寧々): いつかステージの上で、ショーをやってみたいな
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （……あの頃は、楽しかったな）
 寧々: （図書館に行ったり、類の家に行ったりして、 ショーの台本を読ませてもらって……）
 寧々: （なのに、あの失敗をしてからは……）
@@ -82,4 +70,4 @@
 寧々の母の声: ええ？　夜なんだからほどほどにするのよ？
 寧々の母の声: ご近所迷惑になるから……って、 神代さんちなら気にしないと思うけど
 寧々の声 (寧々): ふふっ、そうだね
-(Black cut)
+(Black transition)

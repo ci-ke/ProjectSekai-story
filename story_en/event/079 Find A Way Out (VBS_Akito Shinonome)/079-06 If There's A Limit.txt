@@ -2,7 +2,7 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, Megurine Luka)
 
-(White cut)
+(White transition)
 (Background change)
 ???: What's wrong, kid?
 Junior High School Akito (Akito): Huh? You're from RADder... What are you...?
@@ -24,7 +24,7 @@ Junior High School Akito (Akito): (But I might be able to learn something from h
 Junior High School Akito (Akito): (If he tells me to quit music like all the others... Then, I...)
 Junior High School Akito (Akito): (No! Even if he does, I'll...!)
 Junior High School Akito (Akito): I performed in an event at Crawl Green earlier today...
-(Black cut)
+(Black transition)
 Ken: Now it makes sense. You decided to perform there and they sorta ate you alive.
 Ken: So, do you regret what happened? The look on your face says there's more to it than just that...
 Junior High School Akito (Akito): Yes, getting made fun of and performing so badly is so frustrating...
@@ -55,10 +55,8 @@ Ken: However, you might want to not perform in events for a while. I have a feel
 Ken: If you want to keep singing, you need to take a breather every so often. Anyway, see you around.
 Junior High School Akito (Akito): Th-Thank you very much...!
 Junior High School Akito (Akito): I-I'm gonna keep singing...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Background change)
 Kotaro: That all really happened...?
@@ -79,18 +77,14 @@ Akito: Hm? Oh, that's Punch Drink... It's a new live house that just opened up. 
 Kotaro: Still, that's a ton of people... Who's performing? Oh, someone's walking out...
 Older Musician A: Thanks for coming to see us, everyone. It's nice to be back on Vivid Street after being away for so long.
 Akito: (Wait, that's...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Older Musician A: If you're willing to say that much, then come perform at the event at Crawl Green next week.
-(White cut)
+(White transition)
 (Background change)
 Older Musician A: We're gonna wipe that from your memories by going all out with our first song! Get ready to make some noise!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (They're back...)
 Fan: Can I have your autograph?!
@@ -119,7 +113,7 @@ Akito: Challenge accepted.
 (Background change)
 Luka: (Uh oh, this could be bad! What should I do...?!)
 Luka: (Wait, I know!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -129,14 +123,14 @@ Toya: It's already this late... I'll continue tomorrow.
 Toya: (I guess Akito must have finished training by now. He might be taking Luka to see the illuminations.)
 Toya: (I'll try contacting him in a little bit...)
 Toya: Hm...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000142/bg_s000142.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000142/bg_s000142.webp)
 Luka: <Toya, please! I need your help!>
 Toya: Luka? Did something happen?
 Luka: <Yes! Akito's about to fight someone on the street!>
 Toya: Fight...?
 Luka: <Actually, more like battle them. By singing!>
-(White cut)
+(White transition)
 (Background change)
 Luka: <But I became worried after seeing that he was outnumbered and noticing how unsettling it all felt. Not only that, he seems to have some history with those people...>
 Toya: History? Those people...?
@@ -147,7 +141,7 @@ Luka: <Okay! I'll try letting An know if things do get serious!>
 Toya: Thank you very much.
 Toya: No response... Her dad's place will be busy at this time, so she may have her hands full.
 Toya: Who else can I ask...? Oh, Azusawa might be with her right now.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Vivid Street)
 Kotaro: Th-They're starting...!
@@ -168,22 +162,18 @@ Akito: ♪——————!!
 Older Musician A: What the...?!
 Akito: (I've been doing everything I possibly could until now...)
 Akito: (All so that we'll surpass RAD WEEKEND, together.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: I don't care if you want to try stuff on your own, but we're surpassing RAD WEEKEND as a team, okay?
 An: This isn't just your dream.
-(White cut)
+(White transition)
 Kohane: Yeah! Let's sing as a team, Shinonome!
-(White cut)
+(White transition)
 (Background change)
 Toya: Akito, you're the best partner I could ask for.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (They helped me every time I hit a wall.)
 Akito: (We decided to aim for the top, together.)
@@ -200,7 +190,7 @@ Akito: (Back then, no matter how hard I tried, it felt like I couldn't get anywh
 Akito: (I'm going toe to toe with guys of their caliber.)
 Akito: (I've long since broken through that ceiling...!)
 Akito: (And I'm gonna sing all the way through until the end...!)
-(Black cut)
+(Black transition)
 Akito: ...
 Kotaro: Holy...
 Kotaro: There's no doubt about it, Akito! You're the winner!
@@ -213,15 +203,11 @@ Audience: Akito?! Was that you just now?! No wonder all these people are here! E
 Audience: Yeah! His opponents are also really good!
 Audience: Totally. They're definitely going places!
 Akito: ...!!!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (Huh...? What did I feel just now...?)
 Akito: (I just redeemed myself a little after dragging a legendary live house's name through the mud... And showed how much I've grown by getting back at those guys...)
@@ -233,15 +219,11 @@ Akito: (For that... I have to aim higher than this! I have to get even better th
 Akito: (Toya, An and Kohane are miles ahead of me too! They would've put on a way better performance!)
 Akito: (And Tono... This would've been a cakewalk for him.)
 Akito: (While...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (They sang in a way that set everyone's hearts on fire. They made that place erupt... I have to learn how to do that.)
 Akito: (I can't be satisfied with just this...)
@@ -249,4 +231,4 @@ Older Musician A: What is it? If you got something to say, just say it...!
 Akito: I don't...
 Akito: But... I can't stop here.
 Kotaro: Wait, huh? Hey, Akito, wait! Where are you going?!
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@ Kanade: Yes...
 Kanade: Oh, Ms. Mochizuki, that reminds me. Your plan was to head straight for my house, right? If you're tired, I don't mind if you go home and rest for today.
 Honami: No, that won't be necessary. My plan hasn't changed since this morning.
 Honami: Anyway, shall we?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -34,23 +34,19 @@ Kanade: Oh, um... I'd like to help you with that. I'm sure you're tired after ev
 Kanade: I wouldn't be able to relax knowing that you were working.
 Honami: Are you sure?
 Honami: Then, let's make dinner together.
-(Black cut)
+(Black transition)
 Honami: Yes, that's right. Just chop down the lines of the onion first, then perpendicular to mince them.
 Kanade: Oh wow. But some pieces are sticking to my knife. Does that mean I didn't cut them properly...?
 Honami: Hehe. You did just fine. So, would you mind doing one more for me?
 Kanade: O-Okay, I'll try...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin: <Am I wrong? You're always thinking about what's best for Ms. Yoisaki, right?>
 Rin: <You make all this delicious food for her, clean her house, do her laundry... You put your whole heart into it...>
 Rin: <That's why I think you're a humongous source of support for her!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (I appreciate what Rin said... But is that really true...?)
 Honami: (Yes, what we did today seemed to make Ms. Yoisaki feel a little better...)
@@ -109,15 +105,11 @@ Kanade: I know I can be a handful at times... But I'm really glad to have you he
 Honami: Thank you...!
 Honami: (The bouquet Ms. Yoisaki made is so beautiful...)
 Honami: (Just looking at it... I can sense her kindness.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (I know that the pain and sadness Ms. Yoisaki feels won't go away so easily...)
 Honami: (But I hope her dream of saving others comes true someday...)
@@ -128,8 +120,8 @@ Honami: (Which is why I have to keep supporting her.)
 Honami: Thank you for this present. I'm beyond overjoyed!
 Kanade: Thank goodness. I'm glad you like it so much.
 Honami: Well then, shall we resume cooking...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000199/bg_s000199.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000199/bg_s000199.webp)
 Kanade: Oh, Ms. Mochizuki. Would you like to have dinner here tonight? I'm sure you've worked up quite an appetite...
 Honami: Oh, are you sure...?
 Kanade: It'd seem like a shame if only I got to have this food considering how we made most of it together...
@@ -139,4 +131,4 @@ Honami: Don't worry. You did just fine a second ago.
 Honami: We can start making the salad once you've done that. It's very simple to prepare, so you should be able to pick it up quickly.
 Kanade: Really? Then, Ms. Mochizuki, if you don't mind showing me...
 Honami: Yes, of course!
-(White cut)
+(White transition)

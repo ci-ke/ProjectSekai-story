@@ -18,17 +18,13 @@
 雫: メールのことは、明日みんなに聞いてみましょう
 雫: それにしても……MORE MORE JUMP！として テレビに出られるかもしれないなんて
 雫: ——いつか、こんな日が来たらいいなとは思っていたけど こんなに早いとは思わなかったわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （最初は事務所にも所属できなかったから、ちゃんと アイドルとして活動できるかどうかもわからなかったけど）
 雫: （そんな私達が、ワンマンライブを無事に終えることができて、 その上、テレビの出演依頼までもらえるなんて……）
@@ -37,7 +33,7 @@
 雫: （ファンのみんなも、テレビっていう 新しい舞台に立つ私達に期待してくれるはず……）
 雫: 今回出れるのは５分くらいのコーナーってことだったけど、 気は抜けないわね
 雫: ……しっかり準備して挑まなくちゃ
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　昼休み]
@@ -45,7 +41,7 @@
 [宮益坂女子学園]
 
 雫: はあ……先生のお手伝いでプリントを運んでいたら すっかり遅くなっちゃったわ
-(Black cut)
+(Black transition)
 (Background change)
 雫: ごめんなさいみんな。 少し遅れちゃって——
 遥: あっ、雫……
@@ -67,20 +63,16 @@
 遥: ……、それが——
 愛莉: ……Cheerful＊Daysよ
 雫: え……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 メンバーA: ……また雫だけ雑誌の表紙の仕事入ってる。 あれ絶対にひいきされてるでしょ
 メンバーB: ほんと、顔が綺麗ってだけで得だよね。 歌もダンスも私達の方が上手いのに……
-(White cut)
+(White transition)
 メンバーC: あーあ、本当……
 メンバーC: 雫がいなくなってくれてよかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……そうだったのね
 みのり: 雫ちゃん……？
@@ -96,4 +88,4 @@
 雫: まあ、そうだったのね。 ごめんなさい、何も確認できていなくて
 遥: 大丈夫だよ。 みんなで、あいてる日を確認しよう
 雫: ええ！ 私は基本的にいつでも大丈夫だけど——
-(Black cut)
+(Black transition)

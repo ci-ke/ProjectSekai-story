@@ -7,7 +7,7 @@ street_01_13 Vivids！
 冬弥: ……ただいま
 冬弥の母: 今日も遅かったのね冬弥さん、心配したのよ。 お父様が待ってるわ
 冬弥: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
@@ -26,19 +26,15 @@ street_01_13 Vivids！
 冬弥: くっ……！
 冬弥: （彰人は……昔から本気だ。 『RAD WEEKEND』を見てから……それを超えるって夢に 純粋に向き合ってる……）
 冬弥: （……クラシックじゃなければなんでもよかった俺とは違う……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: ……『RAD WEEKEND』を超えるってことは 半端な覚悟で言っていいことじゃない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……彰人……本当に中途半端なのは俺だ。 俺は……お前の隣に居るべきじゃ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [イベント当日]
@@ -54,7 +50,7 @@ street_01_13 Vivids！
 彰人: まぶしい？　何がだよ
 冬弥: ……いや、なんでもない。 いこう、彰人
 ミュージシャン: ………………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -67,7 +63,7 @@ street_01_13 Vivids！
 杏: 当たり前でしょ？ ちゃーんと最前列で聴いててよね！
 杏: それじゃこはね！　私達の最高の歌、 たっぷり聴かせてあげちゃおっか！
 こはね: ……うん！
-(Black cut)
+(Black transition)
 こはね: （……すごい人……）
 こはね: （前に立たせてもらったステージよりもずっと、 苦しいくらい熱気がたちこめてる……）
 こはね: （怖くないって言ったら、嘘になる。 ……でも今は……）
@@ -84,23 +80,19 @@ street_01_13 Vivids！
 観客B: ひとりは謙さんの娘だから知ってたけど、 リードの子もかなりやるな。……おいおいまだいくのか！？
 ミュージシャン: な、なんだよこれ……。 すげえ……
 彰人: ……これは
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: ♪　——！　——！　——！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……マジかよ……
 冬弥: やっぱり、あのふたりはお前と同じだったな
 彰人: ……オレと、あいつらが？
 冬弥: もう、認めてもいいんじゃないか。 あのふたりのことを
 彰人: ………………
-(Black cut)
+(Black transition)
 杏: 『Vivids』だよ！　みんな、盛り上がってくれたー！？
 こはね: え、えっと…… ありがとうございました！
 杏: 私達は走り出したばっかりだけど、いつか絶対、 『RAD WEEKEND』を超えるイベントをやってみせる！ みんな、応援よろしくねー！
@@ -109,7 +101,7 @@ street_01_13 Vivids！
 冬弥: （……彰人も、白石も、そして小豆沢も、 夢に命をかけて、本気で向き合っている）
 冬弥: （けど俺は……そうじゃない。 俺だけは、違う……）
 冬弥: ……ここまでだな
-(Black cut)
+(Black transition)
 杏: どう？　こはねの実力、思い知ったでしょ
 彰人: なんでお前が偉そうなんだよ……
 彰人: ………………
@@ -132,4 +124,4 @@ street_01_13 Vivids！
 彰人: 冬弥？　どうした？
 冬弥: ……彰人、俺は……
 冬弥: 俺はもう、お前と一緒にはやらない
-(Black cut)
+(Black transition)

@@ -50,7 +50,7 @@ Toya: <So I'd like to take this opportunity to express my gratitude. Ena, thank 
 Mizuki: <Ooh, nice one Toya! Good with words as always. Unlike a certain little brother...>
 Mizuki: <Oops, better skedaddle before he gets mad at me. Thanks you two!>
 Mizuki: <I've got a whole lot more people to interview! Let's go!>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki's Voice (Mizuki): <Now I'm here with our friends in Leo/need!>
 Honami: <Um... Hello, Ena! When it comes to memories I have with you, the first thing that comes to mind is when you taught me to draw.>
@@ -58,7 +58,7 @@ Honami: <You were such a patient teacher, and you helped me learn to like art so
 Saki: <And Hona's been drawing for us ever since!>
 Shiho: <She seriously didn't enjoy it before then... We have you to thank, Shinonome.>
 Ichika: <Thank you, Ena. Oh, and... Let's exercise together again sometime.>
-(Black cut)
+(Black transition)
 (Background change)
 An: <Memories with Ena...?>
 An: <Oh, so this one time, I was watching Ena sketch a pair of goldfish!>
@@ -66,7 +66,7 @@ An: <She was super focused, and even though it was an incredible drawing, she st
 Mizuki's Voice (Mizuki): <Yeah, Ena's super serious and cool when she's making art. Unlike her usual self! What about you, Kohane?>
 Kohane: <Um, I competed with Ena in the Valentine's Day photo contest, and...>
 Kohane: <Her dedication to getting the best shot was so impressive! She and Airi were sprinkling petals, and...>
-(Black cut)
+(Black transition)
 (Background change)
 Emu: <Happy birthday Ena! Pop pop, poppity pop pop!>
 Emu: <To leave you smiling, I've prepared a song for today!>
@@ -94,17 +94,13 @@ Airi: <Just then... I ran into Ena by the shoe lockers.>
 Haruka: <That must have been awkward...>
 Minori: <A-And then what happened?!>
 Airi: <That's just it. The second we see each other, Ena comes out with this.>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Junior High School Ena (Ena): <It's...my birthday today.>
 Junior High School Ena (Ena): <And I want birthday wishes from you, so... Let's make up.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: <And so, I got to hand her the present.>
 Airi: <To this day, I still sometimes remember how Ena acted that time.>
@@ -117,7 +113,7 @@ Mizuki's Voice (Mizuki): <And now... Last but not least...>
 Mizuki: <Ta-da! Who else was it gonna be?!>
 (Background change)
 Ena: Well, I figured as much.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -155,7 +151,7 @@ Ena: Oh, it's over.
 Rin (N25): <This explains why Mizuki seemed so busy lately.>
 Ena: No kidding. I need to remember to say thanks later.
 Ena: You too, Rin. Thank you for coming to wish me a happy birthday. I'm glad you stopped by.
-(Black cut)
+(Black transition)
 (Background change)
 
 [One hour later]
@@ -197,8 +193,8 @@ Akito: Hey! Get your hands off my cake!
 Mother: That's enough, you two! You can at least stop fighting on someone's birthday!
 Akito: Fine... Just this once.
 Ena: Thanks! Hmm, it's so good!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000306/bg_s000306.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000306/bg_s000306.webp)
 Ichika: Happy birthday, Ena. I didn't say much in the video, but I hope I got it across that I wished you a happy birthday.
 Shiho: Honami was so nervous all day, worrying about giving a good interview.
 Honami: What? No, I... Maybe a little... Um, once again Ena, happy birthday. Let me make you an apple pie sometime!
@@ -216,9 +212,9 @@ Kanade: Happy birthday, Ena. I have so many memories that I tripped on my words 
 Mafuyu: I feel the same. Happy birthday.
 Mizuki: Can I just say, I walked all over the place shooting that video, and now my feet are killing me! I feel like I got in enough steps for the whole year!
 Mizuki: Anyway, I'm gonna say it one last time. Happy birthday, Ena! Here's to another year together as friends!
-(White cut)
+(White transition)
 (Background change)
 Ena: I never imagined I'd get a video like that on my birthday.
 Ena: It was kinda embarrassing, but it made me happy. How can I put it...? I really felt seen, by so many people.
 Ena: Thank you for always watching over me. I'm going to keep doing my best, so I guess... I hope you stick around.
-(White cut)
+(White transition)

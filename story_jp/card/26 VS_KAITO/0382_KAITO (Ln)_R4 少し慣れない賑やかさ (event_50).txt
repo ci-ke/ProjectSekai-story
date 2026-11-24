@@ -11,19 +11,15 @@ Gacha phrase: 打ち上げって、どうすればいいんだろ
 
 KAITO: （はあ……。 まさか教室に楽譜を忘れるなんて……）
 KAITO: （……志歩の話を聞くのに、夢中になってたからかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: （聞いていて、すごく胸が苦しくなったけど……）
 KAITO: （でも……。 志歩達のことも少しわかって、よかったな）
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: あ……
 志歩: あ、カイトさん。こんにちは
@@ -96,7 +92,7 @@ KAITO: え……いいの？
 KAITO: （……今なら、すごくいい感じに合わせられそうな気がする）
 KAITO: わかった。 じゃあ、ギターをとってくる
 志歩: はい
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -114,7 +110,7 @@ KAITO: そうじゃないけど……。 ……どうかした？
 レン: だから、ちょっと練習につきあってくれない？
 KAITO: ん、いいよ
 レン: 本当？　サンキュー、カイト！
-(Black cut)
+(Black transition)
 (Background change)
 レン: ——ふう。 よし、こんなとこかな！
 レン: 練習、つきあってくれてありがとな
@@ -123,7 +119,7 @@ MEIKO: けど……まだ叩き足りないな
 リン: あ、それならあたしの練習につきあってほしいな！ ちょっと気になるところがあって
 MEIKO: オッケー！　いくらでもつきあうよ！
 リン: やった♪　ありがとー！
-(Black cut)
+(Black transition)
 (Background change)
 レン: カイトも、練習つきあってくれてありがとな
 KAITO: ……いいよ。 ちょうど、暇だったし
@@ -160,4 +156,4 @@ KAITO: うん。……自分達の話、なかなかしない気がするし
 レン: そうそう。練習とか歌の話とか、 一歌達の話ばっかだもんな～
 レン: 今度みんなで集まった時に聞いてみるか
 KAITO: そうだね
-(Black cut)
+(Black transition)

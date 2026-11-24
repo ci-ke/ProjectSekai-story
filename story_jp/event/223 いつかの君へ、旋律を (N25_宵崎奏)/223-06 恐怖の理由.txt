@@ -39,24 +39,20 @@ MEIKO (N25): 『……言葉は選びなさい』
 ルカ (N25): 『この停滞は……慎重だからなのかしら。 それとも——臆病だから？』
 MEIKO (N25): 『……ルカ』
 ルカ (N25): 『——ねえ、奏』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000652/bg_s000652.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000652/bg_s000652.webp)
 ルカ (N25): 『あなたに必要なのは、 いつまでも今のように支えること？』
 ルカ (N25): 『それとも——もうひとつの選択をとること？』
 ルカ (N25): 『でもあなたはきっと、その選択ができない』
 ルカ (N25): 『なぜならあなたは……そこに強い恐怖を抱いているから』
-(White cut)
+(White transition)
 (Background change)
 奏: …………っ
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000531/bg_s000531.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000531/bg_s000531.webp)
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (N25): 『——奏。 あの時の答えは出た？』
 奏: わたし、は……
@@ -66,4 +62,4 @@ MEIKO (N25): 『ルカ！！』
 奏: 胸の奥が、ざわざわして……
 ルカ (N25): 『そう。ならわからなくてもいいわ。 でも……』
 ルカ (N25): 『そのままじゃ—— まふゆを救う曲を作ることは難しいでしょうね』
-(Black cut)
+(Black transition)

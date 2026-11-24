@@ -20,7 +20,7 @@ Airi: I see...
 Shizuku: Would you mind if we talked for a bit on our way home, Airi?
 Airi: Of course I wouldn't. I mean, this problem involves all of us.
 Shizuku: I really appreciate it!
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: So, Airi, you're for us making this appearance, yes?
 Airi: Yeah. Like I said when we were on the rooftop, I feel that the benefits far outweigh the costs.
@@ -35,10 +35,8 @@ Airi: By the way, did you ever meet the old director for The Wide World of Laugh
 Shizuku: I remember, but I don't understand what he has to do with our current situation...?
 Airi: So, when I appeared on his show with QT, they really surprised us with the way they edited everything. Our agency couldn't believe it either.
 Shizuku: What?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Airi: We did a tongue twister game for one segment, and I didn't make any mistakes as they began throwing some curveballs at me.
 Airi: Then, they challenged me with a tongue twister that even some announcers have trouble saying.
@@ -46,10 +44,8 @@ Airi: I was doing just fine until then, but I got so mixed up that it sounded li
 Airi: At the same time, that's pretty common for TV, right? Someone boasts that a task is gonna be a piece of cake and they end up failing miserably.
 Shizuku: Yes... That seems fairly standard for variety shows.
 Airi: Or so you'd think...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: When I saw it on TV, they'd completely left out the part where I did well and only kept the part where I totally messed up.
 Shizuku: Left out...? They cut all of it?
@@ -76,7 +72,7 @@ Shizuku: Oh, I particularly would like to see that tongue twister game you menti
 Airi: Sure, but... Wait, you just want to see the part where I mess up, don't you?
 Shizuku: Hehe. Oh, Airi. You know me too well.
 Airi: Hah, that's cute. You're not gonna fool me so easily.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -135,4 +131,4 @@ Minori: Yeah! I still don't know how I'm gonna be able to help us, but I promise
 Airi: That's the spirit, Minori! Honestly, you can only plan for so much.
 Airi: Anyway, it's time to practice! Let's get started with some stretches!
 Shizuku, Minori & Haruka: Okay! Yes!
-(Black cut)
+(Black transition)

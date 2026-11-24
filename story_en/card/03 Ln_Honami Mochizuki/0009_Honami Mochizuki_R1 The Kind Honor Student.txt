@@ -38,7 +38,7 @@ Emu: I'll take it! Thanks!
 Emu: You saved my life, Honami!
 Honami: Hehe. It's my pleasure. Ah, there are some empty seats over there. Shall we sit down there and eat?
 Emu: Okay!
-(Black cut)
+(Black transition)
 Honami: Here. It's very hot, so be careful not to burn your tongue.
 Emu: Okaaay! Whoa, hot!
 Honami: A-Are you okay?
@@ -56,7 +56,7 @@ Emu: Perfect hospitality!
 Honami: Huh?
 Emu: Orange juice, please!
 Honami: Okay, I'll get that for you.
-(Black cut)
+(Black transition)
 Emu: Ahh, that was delicious...
 Honami: I'm glad you liked it.
 Emu: Yeah! It was pure bliss!
@@ -66,7 +66,7 @@ Emu: Farewell, and see you tomorrow! Thanks again☆
 Honami: Yes, see you tomorrow.
 Honami: It's been a while since I was able to really sit down and just enjoy an apple pie without thinking too much...
 Honami: So thank you, actually, Emu.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -78,19 +78,15 @@ Honami: So thank you, actually, Emu.
 Honami: Ah...
 Honami: (This music... It must be the brass band. How nostalgic.)
 Honami: (I was in the percussion section of the brass band in middle school too...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate A: Honami, you're so...
-(White cut)
+(White transition)
 (Background change)
 Classmate B: Whose side are you on, anyway?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: No!
 Honami: (I never want to remember that time again!)
@@ -126,4 +122,4 @@ Emu: Then you'll definitely be able to smile from the heart!
 Honami: Oh!
 Emu: See you around, Honami! Bye bye☆
 Honami: Emu...
-(Black cut)
+(Black transition)

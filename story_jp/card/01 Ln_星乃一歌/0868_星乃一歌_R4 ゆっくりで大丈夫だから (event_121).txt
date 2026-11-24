@@ -18,21 +18,17 @@ Gacha phrase: 穂波だけに頑張らせないよ
 志歩: もしかして、演奏に勢いがなくなったこと？
 一歌: それで……真堂さん、なんて？
 穂波: あのね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: 『話を聞く限り……今の皆さんの演奏は、 いわば指揮者がいないオーケストラのようなものです』
 真堂: 『全員が周りの顔色をうかがって、 自分の演奏に集中しきれていない』
-(White cut)
+(White transition)
 (Background change)
 真堂: 『では、それを解決するためにはどうすればいいのか……。 答えは簡単です』
 真堂: 『——誰かが指揮を執ればいい』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 指揮者がいないオーケストラ……
 志歩: たしかに、お互いの演奏を 意識しすぎてる感じはあったな……
@@ -43,36 +39,28 @@ Gacha phrase: 穂波だけに頑張らせないよ
 穂波: ……勝手に決めちゃってごめん。 でも、リーダーとしてわたしがやるべきだって思って
 一歌: 穂波……
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: わたし達はお客さん達に、『青春を賭けて頑張っている』 というところを見てほしいわけじゃないんです
 穂波: 何よりもわたし達４人の——演奏で、心を震わせてほしいんです
-(White cut)
+(White transition)
 穂波: プロになるために代償を払う覚悟は、できています
 穂波: でも何を払うかということは、 わたし達自身で決めていきたいんです
 穂波: ——わたし達の一番大事な想いを、守るためにも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……あの時と同じだ）
 一歌: （やっぱり——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: ……自分達のバンドを守るのは、自分達にしかできません
-(White cut)
+(White transition)
 真堂: 柱となり、メンバーを支え 守ることができるリーダーが必要なんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （やっぱり、穂波は私達のリーダーだね）
 一歌: 穂波、ありがとう。 むしろ、私からもお願いしたいな
@@ -82,7 +70,7 @@ Gacha phrase: 穂波だけに頑張らせないよ
 穂波: みんな……！
 穂波: うん……！ わたし、頑張るね！
 穂波: それでね、実は真堂さんから ドラムの特訓をしないかっていう提案ももらってて——
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -106,7 +94,7 @@ Gacha phrase: 穂波だけに頑張らせないよ
 一歌: ふふ。じゃあ誰から話すか、ジャンケンでもする？
 一歌: （でも……）
 一歌: （なんとなくだけど……。 私達、同じこと考えてそうだな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -126,10 +114,8 @@ KAITO (Ln): それを、穂波がやるんだ……
 MEIKO (Ln): みんなの顔を見ればわかるよ。 『穂波にだけ頑張らせないぞ』って、しっかり書いてあるし
 志歩: さすがですね。 じゃあ——
 一歌: 実は、穂波が真堂さんと特訓してるあいだ、 私達も特訓しようと思ってるんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ——やった！　私の勝ち！
 咲希: えー！　次、絶対パーを出すと思ったから、 こっちはチョキに変えたのにー！
@@ -139,10 +125,8 @@ MEIKO (Ln): みんなの顔を見ればわかるよ。 『穂波にだけ頑張�
 咲希: あ、それ……！ アタシも言おうと思ってた！
 志歩: 私も……。 ……なんだ、ジャンケンする意味なかったじゃん
 一歌: （やっぱり、ふたりも同じこと考えてたんだ）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (Ln): なるほどね……。ただ待つだけじゃなくて、 合流したあとを想定した練習がしたい、か……
 一歌: ——というわけで、穂波が特訓に行ってるあいだも、 ドラムがある状態で練習したいんだ
@@ -155,20 +139,20 @@ MEIKO (Ln): いいよ、任せておいて！
 咲希・志歩: 『よろしくお願いしまーす！』 『よろしくお願いします』
 一歌: それじゃあ、私達の特訓を始めよう！
 咲希・志歩: 『うん！』
-(Black cut)
+(Black transition)
 ミク (Ln): ——一歌、ストップ。まだ合わせにいってて、 そこまでの勢いが弱くなっちゃってるよ
 一歌: うん……自分でもそんな感じがしたんだ
 一歌: みんな、もう１回お願い
-(Black cut)
+(Black transition)
 咲希: ねえねえ、今のはどうだった？ 自分では結構いい感じに勢い出てたと思うんだけど……
 リン (Ln): うん、最初よりサッキーっぽさ出てるよ！
 レン (Ln): けど、走りすぎてる瞬間もあったし、 バランスいいところを探さないとな
-(Black cut)
+(Black transition)
 志歩: ——あ、ごめん。 今のところ、強く弾きすぎた
 MEIKO (Ln): ううん、私もよくなかった。 ちょっとあいまいな叩きかたしちゃったから……
 MEIKO (Ln): 一歌、さっきのところだけど、 もっと優しく、語りかけるような感じだよね
 一歌: そうだね。 あそこに込めた想いは——
-(Black cut)
+(Black transition)
 ルカ (Ln): ——今日はこのあたりで終わりにしましょうか
 KAITO (Ln): ……お疲れ。 最後のほう、だいぶ良くなってた
 一歌: 本当？　よかった……
@@ -180,4 +164,4 @@ MEIKO (Ln): 前に進むために必要なことはもうわかってるんだ�
 一歌: そうだね
 一歌: メイコ、明日からの特訓もよろしく
 MEIKO (Ln): こっちこそ、よろしく
-(Black cut)
+(Black transition)

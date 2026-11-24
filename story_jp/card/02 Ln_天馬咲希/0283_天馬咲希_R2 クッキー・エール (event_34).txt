@@ -9,34 +9,26 @@ Skill name: 頑張るあなたへのメッセージ
 [咲希の部屋]
 
 咲希: ……いっちゃん、大丈夫かな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 詞を作ってるのは一歌なんだから、 一歌の気持ちをこめていいんじゃない？
 一歌: そう、かもしれないけど……
 咲希: うーん。アタシはこっちのほうが好きなんだけどなー
 一歌: ……みんな、ごめん。 もっと考えてみるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: アタシも曲を作ってる時、 すっごくあれこれ悩んだしなぁ……
 咲希: 悩んで悩んで、どうにか前に進もうとするんだけど、 でも、できたのを見て、 これでいいのかなって思っちゃったりして
 咲希: それで、どんどん自信を 持てなくなっちゃうんだよね
 咲希: いっちゃんのために、 アタシができることってないのかな……？
 咲希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: しほちゃん達も、アタシが作曲している時 こんな気持ちだったのかな
 咲希: だからあの時、そんなに焦らなくていいよって 言ってくれてたんだ
@@ -53,7 +45,7 @@ Skill name: 頑張るあなたへのメッセージ
 咲希: うん！　そうだね！
 リン: 『それで、元気がなかった理由ってやっぱアレ？ いっちーがやってる歌詞作り』
 咲希: うん。あのね……
-(Black cut)
+(Black transition)
 リン: 『そっか～。いっちー、苦戦中なんだ』
 リン: 『あ、だから夜もセカイに来てがんばってるのかな？』
 咲希: え？　どういうこと？
@@ -73,7 +65,7 @@ Skill name: 頑張るあなたへのメッセージ
 リン: 『……あ！　だったら、差し入れとかはどうかなっ！』
 咲希: あっ！　それいいかも！ 疲れてる時って、甘いもの食べたくなったりするもんね！
 咲希: よーしっ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -88,7 +80,7 @@ Skill name: 頑張るあなたへのメッセージ
 咲希: あ、レシピはっけーん！ それじゃあ、リンちゃんよろしく！
 リン: 『オッケー♪ ふたりでおいしいクッキー作っちゃおう♪』
 咲希: おー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [その夜]
@@ -100,32 +92,28 @@ Skill name: 頑張るあなたへのメッセージ
 咲希: （ちょっと焦げ……、 香ばしい感じになっちゃったのもあるけど）
 咲希: あ、この曲……
 リン: いっちー、今日も来てるみたいだね！ 行こっ、サッキー！
-(Black cut)
+(Black transition)
 (Background change)
 リン: あ……すごく集中してるみたい
 咲希: うん。クッキーだけ、こっそり置いて帰ろっか
-(Black cut)
+(Black transition)
 (Background change)
 咲希: （——信じてるよ。 すっごくいい歌詞を書いてくれるって）
 咲希: （がんばれ、いっちゃん！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 星乃一歌, 天馬咲希, 鏡音リン)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 私達の、初めての曲を……
 一歌: 最後まで聴いてくれて、 本当に、ありがとうございました！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [咲希の部屋]
@@ -139,7 +127,7 @@ Skill name: 頑張るあなたへのメッセージ
 咲希: いっちゃんからメッセージだ。 あれ？　グループじゃなくて、DMのほうできてる
 咲希: えっと……。『今、セカイに来れる？』
 咲希: 何か用事かな？ とりあえず、暇だし行ってみよーっと♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -184,4 +172,4 @@ Skill name: 頑張るあなたへのメッセージ
 咲希: すっごく、す～～～っごく嬉しい！ ありがとう、いっちゃん！　大好き！
 一歌: わっ！　もう、咲希ってば
 咲希: えへへっ♪
-(Black cut)
+(Black transition)

@@ -10,18 +10,14 @@ Gacha phrase: Wh-What was that sound...?
 [Empty SEKAI]
 
 Rin (N25): (I wonder what Mafuyu's doing...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: To me, my dad...
-(White cut)
+(White transition)
 Rin (N25): <But I get the feeling that your dad is still just as kind as he was back then.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin (N25): Is she really gonna tell her dad how she feels...?
 Rin (N25): Huh...?
@@ -54,7 +50,7 @@ Rin (N25): Right now, I think Mafuyu needs someone by her side who'll understand
 Len (N25): Oh, then... I think I'll go see her.
 Rin (N25): Yeah, considering what I said to KAITO, I wouldn't mind going with you.
 Len (N25): ...! Okay, let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Bedroom]
@@ -78,7 +74,7 @@ Rin (N25): <Again, I wasn't scared.>
 Len (N25): <Huh? Oh, right... Sorry... You were just a little surprised, right?>
 Len (N25): <Still, if it was that big a thunderstorm, then I don't think you need to feel so embarrassed...>
 Rin (N25): <I'm not embarrassed!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -131,4 +127,4 @@ Luka (N25): When I spoke to Len, he simply told me that you mentioned there was 
 Rin (N25): Huh...?
 Rin (N25): That means...
 Rin (N25): I knew I should've just ignored you, Luka...
-(Black cut)
+(Black transition)

@@ -36,7 +36,7 @@ Ichika: I guess so... Ah, but she always makes sure to look like the leader when
 Honami: That's right. I've been practicing to make sure I look the part.
 Honami: (But...)
 Honami: Surprising, huh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -57,7 +57,7 @@ MEIKO (Ln): Wait, what do you mean?
 Honami: Oh! Did you see that light over there?
 MEIKO (Ln): Over by the bench? I did. I think it must be a fragment of a feeling?
 Len (Ln): It sort of felt like one, but also a bit off... Let's go have a closer look.
-(Black cut)
+(Black transition)
 Len (Ln): It must have been this, right? It seems pretty similar to a fragment of a feeling.
 MEIKO (Ln): It does. But the shape is a little strange...
 Honami: That's true. The fragment of a feeling I saw before was round, but this one looks almost like a broken shard...
@@ -72,7 +72,7 @@ Honami: I feel something from the shard, as though...it's pulling my consciousne
 Honami: Like you said, MEIKO, it could all be connected...
 MEIKO (Ln): Okay. Then we'll all touch it together, on three.
 Len, Honami & MEIKO: One, two, three!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -95,10 +95,10 @@ Honami: Someplace away from here? Why is that?
 Little Honami (Honami): This is where the scary me is...
 Honami: The...scary me?
 Little Honami (Honami): Oh, no! She's coming! We have to hide!
-(White cut)
+(White transition)
 (Background change)
 Honami: Ah!
-(White cut)
+(White transition)
 (Background change)
 Len (Ln): Wh-What just happened?!
 MEIKO (Ln): Honami! Are you alright?
@@ -114,7 +114,7 @@ MEIKO (Ln): Ho...
 Len & MEIKO: Honami shrunk?!
 Junior High School Honami (Honami): What's all this about? I'd appreciate it if you could be quiet in here.
 Honami: A-Another me?!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -147,7 +147,7 @@ Junior High School Honami (Honami): It's nothing for you to concern yourselves w
 MEIKO (Ln): She's gone...
 Len (Ln): Too much stuff happened all at once there... Let's take a minute and get things in order.
 Honami: Right...
-(Black cut)
+(Black transition)
 MEIKO (Ln): I see.
 MEIKO (Ln): So you've gotten smaller physically, but you're the Honami who came in here with us.
 MEIKO (Ln): And you say you can still hear the voice of the little Honami we met here?
@@ -164,31 +164,23 @@ Len (Ln): Huh, I see... But it doesn't sound like it'll be that easy to clear th
 Len (Ln): Little Honami said the scary one hates you, right? And she sure did seem angry...
 Honami: That's...
 MEIKO (Ln): Actually, while we were talking, there was a moment where her expression changed.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Junior High School Honami (Honami): ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Honami: Oh... I noticed that, too.
 Honami: Um... It almost looked like she felt envious, to me.
 Len (Ln): Envious?
 Honami: Um...
 Honami: You probably know this already, but in junior high, I ended up being ostracized by my class...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: Even in a full classroom, I was all alone. No one would even meet my eyes.
 Honami: It made me so terribly sad... And I was very envious of everyone talking with their friends around me.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: So, seeing that I have people who are looking out for me may have made her feel that same envy again...
 Len (Ln): Now that you say that, she did sort of look that way...
@@ -199,7 +191,7 @@ Len (Ln): Either way, it sounds like she's looking for you on her end, too.
 MEIKO (Ln): She might still be nearby, so why don't we go find her and bring her back?
 MEIKO (Ln): Are you sure you're ready for this, Honami?
 Honami: Yes!
-(Black cut)
+(Black transition)
 Junior High School Honami (Honami): So, you've become physically smaller, but you're still the high school me inside. I didn't realize.
 Honami: I'm sorry I didn't speak up earlier. But I really do want to talk with you...
 Honami: Why are you angry with me?
@@ -223,7 +215,7 @@ Junior High School Honami (Honami): All our classmates were so nice too, and the
 Honami: I know...
 Honami: What happened then... Really, truly hurt.
 Honami: But...
-(White cut)
+(White transition)
 Honami: As I am now... Together with them, I'll be okay.
 Junior High School Honami (Honami): How can you sound so sure?
 Honami: I've grown just a little bit stronger since then.
@@ -245,7 +237,7 @@ Junior High School Honami (Honami): Okay...
 Little Honami (Honami): I'm sorry for being scared of you. Even though you're me, too.
 Little Honami (Honami): But we're all together now, forever.
 Junior High School Honami (Honami): Thank you.
-(White cut)
+(White transition)
 (Background change)
 Len (Ln): Ah, we're back.
 MEIKO (Ln): Phew... It felt a bit touch-and-go there for a minute.
@@ -266,4 +258,4 @@ Honami: (Just like I told her, I still feel lacking as a leader...)
 Honami: (But I want to live up to everyone's hopes, and their belief that I can do it.)
 Honami: (And of course, I want to contribute properly, as a member of the band.)
 Honami: (I'll need to make sure I give some serious thought to what I can do as leader to make that happen.)
-(Black cut)
+(Black transition)

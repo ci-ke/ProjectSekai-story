@@ -2,7 +2,7 @@
 
 (Character: 鳳えむ, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク, 鏡音レン)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -81,12 +81,12 @@
 まふゆ: （お母さんと来た時は、どんな感じだったっけ……）
 まふゆ: （……思い出せない）
 まふゆ: （……お母さん——）
-(Black cut)
+(Black transition)
 瑞希: とうちゃーく！ じゃ、さっそく乗ってみよーう！
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: あー、楽しかった～！
 レン: 『ぼくも……！ びゅーんってなる乗り物、すごかったね』
@@ -94,7 +94,7 @@
 絵名: 気に入ったならいいけど、 ……私はちょっと休みたいかも
 奏: わたしも……
 まふゆ: ……飲み物買ってくる
-(Black cut)
+(Black transition)
 まふゆ: ……結局、この時間までいちゃったな。 今から行っても……意味ない、か
 まふゆ: （お母さん、悲しむだろうな……）
 ミク (N25): 『まふゆ。大丈夫？』
@@ -105,17 +105,13 @@
 まふゆ: それは……
 まふゆ: （……模試のほうが大事なのは、わかってる。 お母さんだって、それを望んでる）
 まふゆ: （でも——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 まふゆ: …………やっぱり、わからない
 ミク (N25): 『……あれ？』
 ミク (N25): 『まふゆ。奏達、いないよ』
 まふゆ: え……？　あれ——
 まふゆ: 私、どこから来たんだっけ……
-(Black cut)
+(Black transition)

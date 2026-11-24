@@ -47,7 +47,7 @@ Yukihira: When the artist knows what they want to express, and then accomplishes
 Yukihira: That is what I believe to be good art.
 Ena: ...
 Yukihira: If you reattempt this exercise, I look forward to seeing your own original work. Not a reproduction.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -65,7 +65,7 @@ Ena: A “Flower Viewing Goldfish Exhibit”...?
 Ena: Interesting... It says they're displaying cherry blossoms and goldfish with a flower viewing theme. And the venue... Oh, it's the mall I always go to.
 Ena: Based off the photos, it looks really nice. I bet I can find something good to draw there!
 Ena: Alright, I'll set some time aside to go check it out.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -85,40 +85,32 @@ Ena: If I draw everything exactly as it was, the contrast between the light and 
 Ena: Alright, I can try some different styles out as well once I get back.
 Ena: (It sucks not walking home with a piece I'm satisfied with, but I'm edging forward, little by little. I just gotta do what I can.)
 Ena: (I have to remember what Mr. Yukihira said when I showed him my sketch.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Yukihira: A crucial part of refining your technique is how you visually convey to the viewer that which, usually, can only be understood by direct contact.
-(White cut)
+(White transition)
 Yukihira: The question of “how” one creates art begins with “what” one wishes to express with it.
 Yukihira: When the artist knows what they want to express, and then accomplishes this with rich use of composition and techniques that are appropriate or perhaps even innovative...
 Yukihira: That is what I believe to be good art.
-(White cut)
+(White transition)
 Yukihira: If you reattempt this exercise, I look forward to seeing your own original work. Not a reproduction.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Looking back, he was totally right.
 Ena: No matter how good I get at depicting water, it doesn't mean anything if there's nothing I want to express with my piece.
 Ena: In that sense, I didn't do too badly today.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: The water looks so real. You can tell how slowly and gently they're swimming.
 Shiho: Also, you even captured that bit of warmth they have.
-(White cut)
+(White transition)
 Shiho: It was nice to see, and I felt the same thing when I saw this picture.
 An: Yeah, I know what you mean! It's like you can feel so much kindness from these two, as if they're happy to be together.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Of course, those two had already seen the actual goldfish, but...)
 Ena: They understood...
@@ -135,4 +127,4 @@ Ena: I sure have a lot to work on.
 Ena: (But if I can keep expanding my repertoire bit by bit...)
 Ena: If I want to get better, creating more art is all can do.
 Ena: Alright! I need to get home and keep going!
-(Black cut)
+(Black transition)

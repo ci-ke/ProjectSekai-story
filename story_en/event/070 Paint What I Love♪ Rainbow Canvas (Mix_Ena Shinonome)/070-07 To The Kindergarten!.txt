@@ -35,7 +35,7 @@ Kindergartner: Ms. Honami, I don't wanna play tag. I wanna read this picture boo
 Kindergartner: Me too! Ms. Honami, can you read it for us?!
 Honami: Hehe. Of course. Why don't we all form a circle so that we can all hear what happens?
 Honami: Anyway, I'll get started. A long, long time ago in a place far, far away...
-(Black cut)
+(Black transition)
 
 [Several tens of minutes later]
 
@@ -108,7 +108,7 @@ Ena: And it seems that you ran into a bit of trouble...?
 Attractive Kindergarten Teacher: Oh? Is she a friend of you two, Ms. Mochizuki...?
 Honami: Y-Yes...
 Honami: So...
-(Black cut)
+(Black transition)
 Ena: I see... And she said that what you drew isn't a crocodile...?
 Honami: Yes... I didn't know what to do after that...
 Ena: Right...
@@ -131,18 +131,14 @@ Honami & Emu: What?
 Girl: You can tell?
 Ena: Yes. You did a nice job of painting a cool crocodile.
 Ena: (Well, if I'm gonna be honest...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: (Wait, this drawing... At first, I had no idea what this was...)
 Ena: (But I'm starting to see an elephant and its individual parts! Now I get it, Honami...!)
 Ena: (This must be its ears... Here's its nose... It probably wasn't intentional, but the way she drew everything is really interesting.)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Honami's drawing taught me that these sorts of art styles have their own unique qualities...)
 Kindergartner: A crocodile with its mouth wide open...? Yeah, I guess so...
@@ -160,16 +156,12 @@ Girl: Purple! It looked kinda purply when it came out of the water!
 Ena: Sounds good! Then, let's paint it purple!
 Honami: Wow... It's coming to life with each brushstroke...
 Honami: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Len: I think you should just draw however you like. Isn't that what art's really all about?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: Yes, that's exactly right...
 Ena: (Yeah...)
@@ -177,4 +169,4 @@ Ena: (Technical skills can help turn your ideas into art.)
 Ena: (But what makes your art appealing to others is...)
 Girl: There! My crocodile looks even cooler now!
 Ena: (That spark. The desire to express who you really are.)
-(Black cut)
+(Black transition)

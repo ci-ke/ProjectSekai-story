@@ -12,7 +12,7 @@ Skill name: カイトをいたわるの会！？
 KAITO (WxS): ううん、ステージに行くんだよ
 ぬいぐるみB: ステージ？ 今日はショーナイノニ？
 KAITO (WxS): うん。やりたいことがあってね
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (WxS): よいしょっと……！
 KAITO (WxS): ふう……。 小道具はここにあるので全部かな
@@ -62,7 +62,7 @@ MEIKO (WxS): ええ！　お昼寝して気分爽快、絶好調だしね♪
 KAITO (WxS): それじゃあ、お願いしようかな
 KAITO (WxS): みんな、よろしく！
 みんな: 『おー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -91,7 +91,7 @@ KAITO (WxS): （多分、中身はおもちゃじゃない気がするけど…�
 ルカ (WxS): ……あ、カイトくん、見～つけたわ～
 ぬいぐるみA: カイト！　大事な用事がアルンダ！
 ぬいぐるみB: コッチ来テ～！
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (WxS): ——え、一緒にお昼寝？
 ルカ (WxS): そうなの～。 この子達、最近よく眠れないみたいで……
@@ -107,13 +107,13 @@ KAITO (WxS): 今日は特にすることもないし、いいよ
 ぬいぐるみA・B: 『スヤァ……』
 KAITO (WxS): （……あれ？　この子達、最近眠れないって聞いたけど、 あっという間に寝ちゃった……）
 KAITO (WxS): （ふふ、ルカのあくびに誘われたかな？）
-(Black cut)
+(Black transition)
 ぬいぐるみA: カイト！　一緒に寝テクレテ、アリガトウ！
 KAITO (WxS): どういたしまして。 僕も久しぶりにお昼寝して、気持ちよかったよ
 ぬいぐるみB: 本当？　ヨカッタ！
 ルカ (WxS): うふふ。『一緒にお昼寝しましょう作戦』も成功したし、 そろそろ行きましょうか～
 KAITO (WxS): え……？
-(Black cut)
+(Black transition)
 (Background change)
 ミク (WxS): ——あ、カイト来たー！
 MEIKO (WxS): いいタイミングで来たわね！ ちょうど準備ができたところよ♪
@@ -133,4 +133,4 @@ KAITO (WxS): ふふ。それで、僕は絶対に開けちゃダメって 紙が
 レン (WxS): そういうこと！ ほら、早く行こ行こ！
 KAITO (WxS): ふふ。そんなに引っ張らなくても、 ちゃんとついていくよ
 KAITO (WxS): （みんな、本当に嬉しいよ。 ありがとう——）
-(Black cut)
+(Black transition)

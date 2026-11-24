@@ -5,16 +5,12 @@
 [住宅街]
 
 類: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 旭: ——君さえよければ、アークランドに来ないか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （完全に想定外だったな……）
 類: （まさか本番の前日に こんなことを言われるなんて）
@@ -23,10 +19,8 @@
 類: （劇団としての規模は最大クラス。 若い世代の育成にも意欲的だ）
 類: （それに……所属する役者達も、 僕を演出家として信頼してくれた上、 意図を汲んで、こちらの期待以上のものを返してくれる）
 類: （それに何より——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 旭: THE CENTER THEATREはさらに、 『世界をひとつにするショー』をしようって考えててさ
 類: 世界をひとつに……？
@@ -34,10 +28,8 @@
 旭: つまりは——トムが俺に見せてくれたようなショーを 今、アークランドは作っていこうとしているんだ
 旭: この世界には、どうにか生きのびることはできても、 笑顔になることができない……そんな境遇の人達がいる
 旭: THE CENTER THEATREは そんな人達のために、世界中で公演をやる予定なんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （彼らは、本気で世界の垣根を超えようとしている）
 類: ……なのに
@@ -46,15 +38,11 @@
 類: （僕がいなくなったら、ワンダーランズ×ショウタイムの 演出家がいなくなってしまうんだ）
 類: （それに……僕達を見たいと望んで来てくれる観客がいるのに 裏切るような真似をするのは……胸が痛む）
 類: （そして、なにより——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （…………それでも）
 類: （僕は…………僕の夢を叶えたい）
@@ -74,7 +62,7 @@
 寧々の声 (寧々): 時間があったから、うちで最後の読みあわせしてたの！ で、さっき終わって、えむを送ってこうと思ってたら……
 寧々の声 (寧々): ……ちょっとそこで待ってて！
 類: ……ああ
-(Black cut)
+(Black transition)
 寧々: 買い出しお疲れさま。 その荷物見る限り、無事に買えたみたいでよかった
 類: ……司くんと旭さんがつきあってくれたからね。 助かったよ
 えむ: そっか……。 ん〜……でも、疲れちゃったりしてない？
@@ -84,15 +72,11 @@
 類: ……ああ、もしかしたらそうかもしれないね。 ここのところ連日忙しかったし
 類: 今日は早く休むことにするよ。 ……それじゃあ
 寧々: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ……もしかして、買い出しの時に何かあった？
 類: え？
@@ -117,7 +101,7 @@
 えむ: ……類くん、大丈夫かな……？
 寧々: ……わからないけど、でも、なんとなく——
 寧々: 簡単に答えが出ないことを、考えてる……のかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -153,15 +137,11 @@
 類: （……そうか）
 類: （答えが出ているのに、 なぜまだあれこれ悩んでしまっているのかと思っていたけれど）
 類: （僕はただ——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （まだ……みんなとショーをやりたいと思っているのか）
 類: …………
@@ -181,7 +161,7 @@
 ミク (WxS): えっ？
 類: フフ、急にすまないね
 類: ——よければ少しだけ、話を聞いてもらってもいいかな？
-(Black cut)
+(Black transition)
 ミク (WxS): …………そっか
 ミク (WxS): 類くんの夢を叶えるなら、 その人達のところに行ったほうがいいけど……
 類: でも僕の中には、まだみんなと一緒にショーをやりたいという 気持ちもあるんだ
@@ -200,7 +180,7 @@
 類: 本当に、ミクくん達は、いつも真剣に向き合ってくれるね
 類: ……もう一度考えてみるよ。 どちらの想いを取るべきなのか
 ミク (WxS): ……うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [類の部屋]
@@ -208,37 +188,29 @@
 類: …………
 類: （……僕は、世界の人々が笑顔になれるような、 すべての垣根を超えるような、そんなショーを作りたい。 それは小さい頃からの大切な夢だ）
 類: （けれど、その一方で——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （みんなと一緒にいつまでもショーを続けていきたい、 という気持ちもある）
 類: （……旭さんの誘いを断って、 みんなと一緒にいる選択もできる）
 類: （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 旭: 類くんの演出は、大胆で、思いがけなくて、 変な無茶ぶりもたくさんあったけど……
 旭: でも、ワクワクした。 次はどんなことを言ってくるんだろう、 次はどんな風に応えようって考えるとすごく楽しかったんだ
 旭: だから……もっと類くんと一緒にやりたいって、 そう思ったんだ
-(White cut)
+(White transition)
 (Background change)
 鳥のぬいぐるみ: デモ——デモネ！
 鳥のぬいぐるみ: 寂シカッタケド、楽シカッタヨ！
 鳥のぬいぐるみ: ヤリタイ！ッテ思ッタコトが思イッキリデキテ、 トッテモトッテモ楽シカッタ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: …………
 類: （……僕は——）
-(Black cut)
+(Black transition)

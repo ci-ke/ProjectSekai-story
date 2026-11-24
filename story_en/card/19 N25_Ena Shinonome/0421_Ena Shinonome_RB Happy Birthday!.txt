@@ -24,7 +24,7 @@ Ena: That's different. I still need an insurance policy.
 Akito: Ugh...
 Ena: Anyway, I need to get ready.
 Ena: So, what should I wear?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -45,7 +45,7 @@ Mizuki: Really?! Your family's okay with that?
 Airi: Still, some stuff here's gonna run you up a lot, so I guess we'll just have to price-check anything that looks good!
 Shizuku: Okay. We promise to do our best to find the perfect outfit for you, Enaâ™ª
 Ena: Thanks. I'm looking forward to it!
-(Black cut)
+(Black transition)
 Shizuku: Oh, how about this blouse? It's chiffon and has some lace around the neck and shoulders, so it'll feel nice and cool.
 Ena: And it's super cute! You're right about it feeling nice and cool, Shizuku. Plus, it's not too revealing.
 Airi: Yeah! In terms of color choices... Besides white, you have black, pink and blue.
@@ -63,7 +63,7 @@ Airi: We're not here to pick out anything that'll look bad on you. I say give â€
 Mizuki: Yeah! I'm all for that too!
 Ena: Alright, if you're all willing to go that far.
 Mizuki: Cool! Next, we need a skirt that goes with that blouse...
-(Black cut)
+(Black transition)
 
 [Shopping Mall - Cafe]
 
@@ -94,7 +94,7 @@ Airi: Well, duh. We're friends, aren't we?
 Shizuku: Exactly. We're just glad that we get to celebrate with you.
 Mizuki: Yeah! So again, Ena, happy birthday!
 Ena: Thanks! I really appreciate it!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,7 +115,7 @@ Akito: Looks like it. I told them they didn't have to...
 Ena: Your teammates are so nice! Oh, hey! These cookies are from that shop with all the bears, right?
 Ena: I've been meaning to check it out for a while now. Thank them for me, okay?
 Akito: Yeah, yeah.
-(Black cut)
+(Black transition)
 Akito & Ena: I'm stuffed.
 Mother: How'd you like this cheesecake?
 Ena: It was good. It felt like it sat somewhere between a souffle and something that was baked normally. But it was still really rich.
@@ -131,7 +131,7 @@ Ena: Now just wait a second! I didn't say anything about that!
 Akito: Huh? Seriously, which is it...?
 Mother: Hehe. There's plenty left for you too, Akito. Bring me your plates, you two.
 Ena: Okay.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -162,7 +162,7 @@ Ena: <I'm still thinking!>
 Ena: (But I'm drawing a total blank...)
 Ena: (Wait, there is one thing...)
 Ena: Mind if you all came along?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -198,8 +198,8 @@ Kanade: Okay. I'll be looking forward to that, Ena.
 Ena: Thanks!
 Ena: Miku, Rin, I'll be counting on you both too!
 Miku & Rin: Okay...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000073/bg_s000073.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000073/bg_s000073.webp)
 An: Happy birthday, Ena!
 Kohane & Toya: Happy birthday.
 Akito: You guys are so old-fashioned...
@@ -219,7 +219,7 @@ Kanade: Happy birthday, Ena.
 Kanade: Your illustrations usually show hints of pain and suffering, but also this warmth and kindness that can bring people closer together.
 Kanade: I think that's the reason you're able to create visual representations of our songs.
 Kanade: I really like what you draw, Ena. So I hope you get to keep drawing the way you want.
-(White cut)
+(White transition)
 (Background change)
 Ena: There was a time when just having cheesecake was enough for me in terms of celebrating my birthday...
 Ena: But it's nice to celebrate with real friends like this. It even motivates me to keep drawing.
@@ -227,4 +227,4 @@ Ena: I need to get better to draw illustrations that do N25's songs justice.
 Ena: I have to face my art and somehow make up for the two years I lost.
 Ena: I'm gonna do what I can, so I'll be counting on you for support, okay?
 Ena: Bye bye.
-(White cut)
+(White transition)

@@ -40,7 +40,7 @@
 ルカ (WxS): まあ、わたし達の分まで作ってくれたのね～
 MEIKO (WxS): ふふっ、嬉しいわね！ じゃあみんな、順番に並びましょうか
 レン・リン: 『わーいっ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -88,7 +88,7 @@ MEIKO (Ln): ありがとね、リン。 またいつでもなんでも、相手�
 志歩: デコレーション用のペンも持ってきてるから、 自由に使ってください
 KAITO (Ln): えっと……たくさん種類があって、迷うな……
 咲希: まずは、誰宛てに書くかを決めると選びやすいですよ！ たとえば、ミクちゃんに書くなら——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -136,13 +136,13 @@ KAITO (Ln): えっと……たくさん種類があって、迷うな……
 志歩: 『終わってみると、咲希について行ってよかったって思う。 今回の企業研究とかイベントの手伝いもそう』
 志歩: ……調子に乗りそうだから、あんまり普段は言わないけど
 志歩: いつも私を連れ出してくれてありがとう、咲希。 それに、鳳さんも
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000417/bg_s000417.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000417/bg_s000417.webp)
 咲希: アタシのほうこそ、ありがとー！
 えむ: ありがとうのぎゅーっ！
 志歩: ちょっと。いきなり飛びつかないでよ
 志歩: ……はぁ。こうなるから言いたくなかったのに
-(White cut)
+(White transition)
 (Background change)
 咲希: えへへ♪　もう聞いちゃったもーん
 えむ: よいではないか、よいではないか～☆
@@ -153,4 +153,4 @@ KAITO (Ln): えっと……たくさん種類があって、迷うな……
 咲希: （それに——みんなにも、『ありがとう』って気持ちを 伝えられてよかった）
 咲希: （当たり前みたいに、みんなが一緒にいてくれるのは…… すごく特別なことだってわかったから）
 咲希: （これからも、みんなにちゃんと 『ありがとう』って伝えよう！）
-(White cut)
+(White transition)

@@ -7,7 +7,7 @@ Gacha phrase: Please, don't leave me behind...
 
 (Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Saki's Room]
@@ -15,25 +15,21 @@ Gacha phrase: Please, don't leave me behind...
 Saki: Hmm...
 Mother: Saki, dinner's ready. I'm sure you're hungry since you didn't have lunch.
 Saki: Huh? Dinner...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: You've done your part for us. Now, it's our turn.
 Saki: Shiho...
-(White cut)
+(White transition)
 (Background change)
 Saki: Good luck! I'll leave the rest to all of you, so I'm gonna.. *Yawn*
 Saki: Good night...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Right. I've been asleep this entire time. I was so sleepy that I couldn't get up and missed lunch.
 Saki: Thanks, Mom. Dinner sounds good...
-(Black cut)
+(Black transition)
 Saki: Wow, that was so good! And I feel so refreshed after getting in so much sleep♪
 Saki: No, wait. I shouldn't let my guard down...
 Saki: Everyone told me to take today off. I should be resting as much as I can!
@@ -48,16 +44,12 @@ Saki: I usually get a little sleepy after having a meal, but I slept so much tod
 Saki: Maybe I slept a little too much during the day.
 Saki: I could practice for a bit. I do need to work on some of the finer details for that song...
 Saki: Oh, but...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: You've done your part for us. Now, it's our turn.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Shiho and the others said so themselves. My job right now is to rest!
 Saki: So, I'll try going to sleep again!
@@ -90,7 +82,7 @@ Saki: Wh-Wh-Wh-What do I do?! When do we have class...?
 Saki: Argh! First thing in the morning!
 Saki: But I still have time! It's not that late yet!
 Saki: I'll go to bed after doing this.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -106,20 +98,16 @@ Ichika: What this? “The All-White Soft Serve Stand”...?
 Saki: Yup! It's only gonna be around for a limited time... And it's not just the ice cream that's supposed to be white. It's the cone too!
 Ichika: I see that. I didn't know anyone made soft serve like this.
 Saki: (But it's not just that. Does Ichi still remember?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika's Message (Ichika): <I saw a funny-looking cloud today and decided to send over a picture of it. Doesn't it look delicious?>
 Junior High School Saki (Saki): (A cloud...? Oh, here's the picture...)
 Junior High School Saki (Saki): Oh, she's right... It looks like soft serve ice cream.
 Ichika's Message (Ichika): <To be fair, it'd probably melt in your hands since the cone's also white...>
 Junior High School Saki (Saki): Haha... You're always such a stickler for those kinds of details, Ichi.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: Hehe. This looks a little like that picture I sent you when you were still in the hospital, Saki.
 Saki: *Gasp* Ichi, you remembered!
@@ -128,7 +116,7 @@ Saki: Yeah, that's right...!
 Saki: (She really remembered! Hehe. That makes me so happy...!)
 Ichika: As for Saturday... All four of us should be able to go since I don't think we have any shifts scheduled for work.
 Saki: Thanks! I'll invite Hona and Shiho later!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -138,7 +126,7 @@ Shiho: Settle down, Saki.
 Saki: But I'm just so excited!
 Honami: Oh, isn't that it? It doesn't seem all that crowded right now.
 Saki: Excuse me! Six soft serves, please!
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -184,4 +172,4 @@ KAITO: Y-You can still save it...!
 Saki: And... Got it... Safe!
 Len: H-Hehe... Haha!
 Saki, Ichika, Honami & Shiho: Haha! Hehe.
-(Black cut)
+(Black transition)

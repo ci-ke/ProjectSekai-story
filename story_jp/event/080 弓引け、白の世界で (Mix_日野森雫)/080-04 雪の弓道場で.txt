@@ -2,7 +2,7 @@
 
 (Character: 日野森雫, 朝比奈まふゆ, 初音ミク, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [新人大会　会場]
@@ -20,7 +20,7 @@
 弓道部部長: 集中してるし、ほとんど外してない……。 これなら朝比奈さん、優勝争いに入れそうだね
 雫: え？　優勝争いに……！
 雫: （朝比奈さん、頑張って……！！）
-(Black cut)
+(Black transition)
 司会: ——只今をもちまして、表彰式を終了します
 ２年生達: いや～！ ほんっとに今回の朝比奈さん、惜しかったね～！
 弓道部部長: 惜しいって言っても４位入賞だよ！ 未経験だったのにここまでやれるなんて、信じられないな
@@ -34,7 +34,7 @@
 ２年生達: お手洗いに行ってるだけかと思ったけど……。 たしかに遅いね。もうすぐ帰る時間なのに
 雫: あ……。 じゃあ私、探してきますね
 弓道部部長: 本当？ ありがとう、日野森さん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [更衣室]
@@ -51,7 +51,7 @@
 まふゆ: でも、もう大丈夫だよ。 みんなのところに戻ろうか
 雫: ……ええ
 雫: （…………朝比奈さん、よっぽど疲れたのかしら）
-(Black cut)
+(Black transition)
 (Background change)
 
 [１カ月後]
@@ -66,7 +66,7 @@
 まふゆ: 大丈夫だよ。 時間がある時はいっぱいやってもらってるし。気にしないで
 まふゆ: あ、今日は雪になるって天気予報で言ってたから、 日野森さんも足下に気をつけてね
 雫: ええ。 ありがとう、朝比奈さん
-(Black cut)
+(Black transition)
 (Background change)
 雫: 着替えてたらもうこんな時間……急がないと
 雫: マネージャーさんから電話？ ——はい、日野森です
@@ -78,50 +78,42 @@
 雫: （あ、そうだわ。 朝比奈さんに道場の片づけをお願いしちゃったけど、 今からなら戻って一緒にできるかも）
 雫: （弓道場はほとんど外だし、 こんな寒い中だと風邪をひいてしまうものね）
 雫: 戻って一緒にやりましょう
-(Black cut)
+(Black transition)
 (Background change)
 雫: （……あら？　なんだか、すごく静かね）
 雫: （もしかして、もう終わって帰っちゃったのかしら……。 でも、扉は開いていたし……）
 雫: あ、この音は——
 雫: 朝比奈さ……
 雫: （朝比奈さん……？）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000144/bg_s000144.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000144/bg_s000144.webp)
 雫: （四射すべて……！ 皆中だわ……！）
 雫: （すごい……。 だけど、なんだか——）
 雫: （……怖いくらい……）
-(White cut)
+(White transition)
 (Background change)
 雫: （それに何か……つぶやいているような……？）
 まふゆ: ……けなきゃ
 まふゆ: 早く——けないと……
 雫: （……何を言ってるのか、 ここからはよく聞こえないけれど）
 雫: （……まるで、違う人みたい……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……そういう時って、頭の中がごちゃごちゃになって、 もう全部嫌だって気持ちになるかもしれないけど……
 まふゆ: でもきっとこうやって心を静かにして整えれば、 大丈夫
 まふゆ: きっとまだまだ、前を向いて頑張れるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……心を、整えれば……）
 雫: （でも今の朝比奈さんは、 心を整えているはずなのに、とても危うげで……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ——私はしっかりなんてしてないよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （……もしかして）
 雫: （朝比奈さんも、悩んでいることがあるのかしら）
@@ -139,7 +131,7 @@
 雫: う、ううん！ そういうわけじゃないのよ
 雫: （……いつもの朝比奈さんだわ）
 雫: （やっぱり、見間違いだったのかしら……）
-(White cut)
+(White transition)
 (Background change)
 KAITO: 『……それで？ そのあとは、どうなったんだい？』
 雫: ……特に何もありませんでした
@@ -149,15 +141,11 @@ KAITO: 『……それで？ そのあとは、どうなったんだい？』
 雫: でも、今日似たような表情を見て……。 やっぱり朝比奈さんは、 何か悩んでることがあるんじゃないかって思って
 ミク (MMJ): 『……うーん……何に悩んでるのかな……？』
 雫: ……わからないわ。 だけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: だけどもし、今、 朝比奈さんが悩んでいるのなら……
 雫: 何か力になれたら、いいんだけど
@@ -176,4 +164,4 @@ KAITO: 『——そういう想いが、相手の力になることもあると�
 KAITO: 『そ、そうかな？ 思ったまま話しただけだけど……』
 雫: ……ありがとうございます、カイトさん
 雫: 私なりに——朝比奈さんに届くように、 この想いを伝えてみようと思います
-(Black cut)
+(Black transition)

@@ -8,7 +8,7 @@
 通行人達: LUMINAグランプリの準決勝、今日だよね！ チケット全然取れなくて、すっごい悔しかったな～
 通行人達: そういや俺、今日のためにネッパラ入ったんだ
 通行人達: オレも！　絶対リアタイしたいよな！
-(Black cut)
+(Black transition)
 (Background change)
 
 [準決勝　ライブステージ]
@@ -30,7 +30,7 @@
 遥: そうだね。 ——お互い、悔いが残らないようにしよう
 アリサ: 当然でしょ
 アリサ: ……勝つのは、私達だよ
-(Black cut)
+(Black transition)
 (Background change)
 みのり: みんな～！　出てきて大丈夫だよ～……！
 ？？？: 『はーい！』
@@ -78,7 +78,7 @@ MEIKO (MMJ): 『そう……！　じゃあ、本当にもうすぐなのね！�
 遥: そろそろ、私達もスタンバイしないとね
 みのり: みんな！　スマホ、機材の陰に置いていくね！
 KAITO (MMJ): 『ありがとう。頑張ってね！』
-(Black cut)
+(Black transition)
 (Background change)
 審査員A: ……パフォーマンスの完成度では、 やはり現役アイドルの中で頭一つ抜けていますね
 審査員B: そうですね。それに今回は、気迫が違ったな……。 思わず見入っちゃいましたよ
@@ -95,16 +95,16 @@ KAITO (MMJ): 『ありがとう。頑張ってね！』
 司会者: 第２グループは、事務所に所属せず配信上で活動する 異色のアイドル・MORE MORE JUMP！
 司会者: これまでとはガラリと方向性を変えた、新境地の楽曲。 タイトルは——“Trailblazer”！
 雫: …………
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000661/bg_s000661.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000661/bg_s000661.webp)
 雫: （誰かをがっかりさせて、傷つけて……）
 雫: （ひとりになってしまうのは、怖い）
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000660/bg_s000660.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000660/bg_s000660.webp)
 雫: （でも……それでも、夢を叶えると決めたから）
 雫: （私は————）
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000659/bg_s000659.webp)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000658/bg_s000658.webp)
-(White cut)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000659/bg_s000659.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000658/bg_s000658.webp)
+(White transition)
 (Background change)
 (Background change)
 雫: ♪————————————————！！！
@@ -155,4 +155,4 @@ KAITO (MMJ): 『ありがとう。頑張ってね！』
 アリサ: （どうして、あんな弱気だったのよ）
 アリサ: ……あの時にこれをやってくれてたら、私は……
 (Background change)
-(Black cut)
+(Black transition)

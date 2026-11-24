@@ -46,15 +46,11 @@ Gacha phrase: 正解なんてなくて、とっても自由なんだ
 類: （けれど、たしかに……。 なんだか胸の奥がすっきりしている）
 類: （……胸のつかえがとれた、というのは こういうことを言うのかな）
 類: （それにこの感じ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （……少しあの時と似ているかもしれない）
 類: （これはきっと、仲間と過ごすひと時の心地よさ、 というやつかな）
@@ -79,7 +75,7 @@ Gacha phrase: 正解なんてなくて、とっても自由なんだ
 類: だからこそ、まずは今回のショーを成功させよう。 僕達、ワンダーランズ×ショウタイムでね
 司: ああ、もちろんだ！
 えむ・寧々: 『うん！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -101,19 +97,15 @@ Gacha phrase: 正解なんてなくて、とっても自由なんだ
 寧々: お客さん達からも歓声あがってたしね
 えむ: えへへっ。い～っぱいみんなと練習したもんね♪ 成功できてよかった☆
 類: （……本当に、あのジャンプは素晴らしかった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: 『えーいっ！』
-(White cut)
+(White transition)
 観客達: 本当にジャンプするなんて思わなかったわ！
 観客達: こっちまでドキドキしたね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: …………
 司: そういえば……。 類、あの話はどうした
@@ -133,7 +125,7 @@ Gacha phrase: 正解なんてなくて、とっても自由なんだ
 類: 僕の家……というか、 僕の部屋として使っているガレージがあるから、 そこでやろうと思っているんだけど、どうかな？
 寧々: る……
 寧々: 類が家に人を呼んだ！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -180,16 +172,12 @@ Gacha phrase: 正解なんてなくて、とっても自由なんだ
 えむ: わーい、お菓子♪　お菓子♪
 司: コラえむ！　手を拭いてからにしろ！ お前らもだぞ
 寧々: はいはい
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: …………
 類: （僕は、本当に幸せ者だね）
-(Black cut)
+(Black transition)

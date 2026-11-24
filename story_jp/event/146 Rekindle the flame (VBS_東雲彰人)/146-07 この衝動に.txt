@@ -8,21 +8,17 @@
 
 スレイド: ——よし。準備はいい？
 彰人: ……ああ。いつでもいける
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 スレイド: ♪————————！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: （こいつの歌を聴いた時——何か感じるものがあった）
 彰人: （……もしかしたらこれが、 カイトさんの言ってた『偶然』のひとつかもしれねえ）
 彰人: （それなら——）
 スレイド: それじゃ、先攻はアキトからな！
 彰人: ——おう
-(Black cut)
+(Black transition)
 (Background change)
 杏: ——ふう
 杏: やっぱ朝のランニングはいいね～！ 眠かった頭もスッキリって感じ！
@@ -35,7 +31,7 @@
 杏: 公園のほうから、何か聴こえない？
 こはね: あ、本当だ……誰か歌ってるのかな？
 杏: もしかして、冬弥達がもう練習始めてるとか……？ 行ってみよ！
-(Black cut)
+(Black transition)
 (Background change)
 こはね: 東雲くんと……誰だろう？　あの人達……
 冬弥: 小豆沢、白石！
@@ -76,15 +72,11 @@
 彰人: （さっきのは、まだ本気じゃなかったのか……！）
 スレイド: ♪————————！ ♪————————！
 彰人: ………………すげえ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （なんだ、この感じ……！）
 彰人: （……腹ん中から揺さぶられるみてえな、この感覚は……！）
@@ -97,7 +89,7 @@
 彰人: ♪————————！ ♪————————！
 スレイド: あ……！
 セドリック: これは……すごいな
-(Black cut)
+(Black transition)
 彰人: はあっ……はっ…………
 彰人: （……なんか、久しぶりに必死に歌ったって感じがすんな）
 スレイド: ——アキト！
@@ -139,4 +131,4 @@
 冬弥: いや——
 冬弥: いつもの彰人だと思ってな
 彰人: ——おう
-(Black cut)
+(Black transition)

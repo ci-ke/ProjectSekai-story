@@ -13,7 +13,7 @@ Akito: Alright, let's try it once from the top...
 Toya: Okay.
 Len: Oh, I wanna watch!
 Akito: Sure. Ready, Toya?
-(Black cut)
+(Black transition)
 Len: That was so cool! You guys looked really solid the whole way through! 
 Akito: Thanks, but we still have to hammer out the details for some of these other parts.
 Toya: Right.
@@ -81,7 +81,7 @@ Akito: Lately, it feels like we've been giving more than receiving...
 Akito: Okay, fine. I'll bring a ball next time.
 Len: Yay! Promise, okay? If you don't and forget like KAITO always does, I'm gonna be mad.
 Akito: Sure.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -101,7 +101,7 @@ Ena: You do? Ugh, I was hoping to have you get me something from the convenience
 Ena: Also... Why are you talking a soccer ball to work?
 Akito: This is for something else. I promised a friend that I'd teach them how to juggle.
 Akito: So go to the store yourself. Later.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -160,10 +160,8 @@ Len: I was on a good pace, so I should be able to juggle it ten times soon!
 Rin: Okay! You can do it, Len!
 MEIKO: If you say so. Just try to be careful though.
 Akito: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Junior High School Ena (Ena): Akito, your cheeks and knees are all scraped up again!
 Elementary School Akito (Akito): I happened during soccer practice. This is pretty normal, you know?
@@ -173,10 +171,8 @@ Junior High School Ena (Ena): Well, if you hate it so much, why don't you try co
 Junior High School Ena (Ena): Also, why's your nose all red? Did you decide to be a reindeer out of season?
 Elementary School Akito (Akito): Shut up! This guy on my team messed up a pass and...!
 Junior High School Ena (Ena): Okay, whatever. Just come back here and sit next to me.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Is something wrong, Akito...?
 Akito: Uh, no...
@@ -186,4 +182,4 @@ Toya: In those situations, you can really tell that you two are related.
 Akito: But that's ancient history.
 Len's Voice (Len): Akito! I think I can get up to ten really soon! Is there anything else I should be doing?
 Akito: Yeah, I'll be right there!
-(Black cut)
+(Black transition)

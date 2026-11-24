@@ -30,7 +30,7 @@ Mizuki: Then, let's go see what souvenirs they've got!
 Mizuki: Is there anything you wanna get, Kanade?
 Kanade: Oh...
 Kanade: Actually, would you mind if I asked you two for a favor first...?
-(Black cut)
+(Black transition)
 Honami: Okay, this seems like a good place...
 Honami: Rin, the coast is clear.
 Rin: <Okay!>
@@ -42,48 +42,44 @@ Rin: <Haha! Hona, your face just turned bright red!>
 Honami: *Sigh* Anyway, I'll show you around the fair.
 Rin: <Thanks! I wanna see the places that you recommend♪>
 Honami: Hehe. Sure. Then, let's go!
-(Black cut)
+(Black transition)
 Honami: Okay, first... This is the wedding dress exhibit.
 Rin: <Wow! These dresses are so pretty!>
 Rin: <I wish I could try some on! Oh, what's this one called?!>
 Honami: Oh, that one's a...
-(Black cut)
+(Black transition)
 Rin: <Oh, Hona, look at the models! Everyone looks so sparkly!>
 Honami: Hehe. Yes, they do. I think they're having their fashion show now. Would you like to take a quick peek?
 Rin: <Yeah, I wanna see!>
-(Black cut)
+(Black transition)
 (Background change)
 Rin: <Whoa! It's a real wedding hall!>
 Rin: <You can be in a mock wedding here, right?! I wish I could be in one...>
 Honami: I may actually be able to make a veil for you... We can try having one in SEKAI the next time I'm there with the others.
 Rin: <Really?! Woohoo☆>
-(Black cut)
+(Black transition)
 Rin: <*Sigh* That was so much fun. Thanks for showing me around, Hona!>
 Rin: <Oh, that reminds me... How's that person you invited doing? Did she enjoy herself today?>
 Honami: Oh...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Honami: Yes, she enjoyed herself very much.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000198/bg_s000198.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000198/bg_s000198.webp)
 Honami: And it's all because you said I should invite her, Rin. Thank you very much for making that suggestion.
 Rin: <Really?! That's great to hear!>
 Rin: <But you deserve more credit for doing all the hard work, Hona! I'm so glad she's all smiles now!>
 Honami: Me too!
-(White cut)
+(White transition)
 (Background change)
 Honami: Also, I'll make sure to bring the souvenirs you picked out over to SEKAI later. Please look forward to them.
 Rin: <Awesome☆ Hehe. I can't wait!>
 Rin: <Then, I think I'm gonna head back. Thanks so much for today, Hona☆>
 Honami: I'm glad you enjoyed everything so much, Rin. I'll see you later in SEKAI!
 Rin: <Okay, see you! Bye bye!>
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Bridal Fair Venue)
 Honami: Let's see... The others should be...
@@ -114,16 +110,12 @@ Honami: Oh, would you like something warm to drink? It is starting to get a litt
 Honami: I'll go buy us something. What would you like to have?
 Kanade: Thank you. Hm... Then, tea might be nice.
 Honami: Okay, I'll be right back.
-(Black cut)
+(Black transition)
 Honami: Okay, tea and water. That should do it...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Honami: ...
 ???: <Hona.>
 Honami: Huh? Rin...?
@@ -157,4 +149,4 @@ Rin: <That's why I think you're a humongous source of support for her!>
 Honami: Yes, I think I see what you mean...
 Honami: Thank you, Rin. I feel a little better now.
 Rin: <Hehe. Great! I feel better too after seeing you smile☆>
-(Black cut)
+(Black transition)

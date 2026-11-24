@@ -16,7 +16,7 @@ MEIKO: Hehe. It would seem we've surprised you a bit. How about we sit down and 
 Miku (VBS): Good idea. Let's go inside.
 Kohane: A-An...
 An: I don't really get what's going on, but they seem to know something. Let's go with 'em!
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -25,17 +25,13 @@ Kohane: What a wonderful cafe.
 Kohane: I'm getting the feeling I've been here before as well.
 Miku (VBS): That's because this is your SEKAI.
 Kohane: Our SEKAI? Why does that sound so familiar... Oh!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Miku (VBS): <Let's talk about this in your SEKAI.>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kohane: Are you the same Miku I saw before?
 An: What exactly is this SEKAI thing you keep mentioning?
 Miku (VBS): SEKAI is a place made from feelings.
@@ -93,4 +89,4 @@ Len: Oh, I know! I'll go say hi to the other two myself!
 Len: Miku, you went to see Kohane before, didn't you?
 Miku (VBS): You should. Let us know what they're like.
 Len: Sure!
-(Black cut)
+(Black transition)

@@ -20,17 +20,13 @@ An: I... I want to be the best partner I can for Kohane...
 Miku (VBS): Why?
 An: Why...?
 An: When I heard her sing that day...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: ...——♪
 An: !!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: My heart wouldn't stop pounding...
 An: Kohane even told me that she felt the same way after hearing me sing.
@@ -40,27 +36,23 @@ Akito: ...
 An: She's my first partner and I care about her a lot...
 An: I want to care for her more than anyone else... I want to be someone she can respect and be proud of...
 An: Oh...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000012/bg_s000012.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000012/bg_s000012.webp)
 Miku (VBS): That very well may be it...
 Miku (VBS): Since you want to be someone she can “respect and be proud of”, An, you want her to like and be excited by the way you sing.
 Miku (VBS): But...
 Akito: You're worried about not being able to do that if Kohane keeps improving at her current rate, right...?
 An: I mean...
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: (Wait, huh...?)
 An: (Kohane's so amazing... I want to tell her that she did awesome...)
 An: (But why? Why is it that I can't get myself to just tell her that...?)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 An: You might be right...
@@ -72,10 +64,8 @@ An: Me feeling this way is like...
 Akito: I think it's only natural for you to feel this way...
 An: Huh?
 Akito: You sang all by yourself until just recently, right...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: Hey, Ken.
 An's Father: Hey, Akito, Toya.
@@ -115,10 +105,8 @@ An: No, not yet... It's taking longer than I expected...
 An: But I have a feeling that we're gonna be singing together forever once I do!
 An: We'll practice a bunch and do a lot of performances together, while maybe having a few fights along the way...
 An: And then, we're gonna put on an event that's so good, it surpasses Dad's!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (VBS): I see...
 Miku (VBS): Kohane's really the one you were looking for all this time.
@@ -139,7 +127,7 @@ Miku (VBS): An...
 An: Sure, Miku. What's up...?
 Miku (VBS): Good luck...
 An: Thanks...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -159,4 +147,4 @@ Toya: Hm...? Akito, is something bothering you?
 Akito: No, it's nothing... I was just thinking about our next song.
 Akito: Anyway, let's start warming up. Ready...?
 An: Yeah, let's get started...!
-(Black cut)
+(Black transition)

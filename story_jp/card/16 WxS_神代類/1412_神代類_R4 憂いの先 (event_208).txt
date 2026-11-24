@@ -66,7 +66,7 @@ MEIKO (WxS): あら、だったら勝負はそこまでお預けね！ ふふっ
 えむ: 類くんの演出、楽しみにしてるねっ☆
 類: ありがとう
 類: みんなの期待に応えてみせるよ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -78,15 +78,11 @@ MEIKO (WxS): あら、だったら勝負はそこまでお預けね！ ふふっ
 類: …………
 類: （……公演が終わって数日経ったけれど——）
 類: （何度考えても、まだ答えは見つからない）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （あの司くんは……僕には引き出せなかった）
 類: （だけど……）
@@ -117,15 +113,11 @@ KAITO (WxS): 『それは嬉しい言葉をもらったね』
 類: ……自分の実力不足を感じてしまうね
 KAITO (WxS): 『そっか……』
 類: それともうひとつ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 司くんが危ない状態になっていたのに…… 僕は止めることができなかった
 ミク (WxS): 『あ、レンが言ってたやつ……』
@@ -147,4 +139,4 @@ KAITO (WxS): 『うん、楽しみにしているよ』
 ミク (WxS): 『ファイトだよっ、類くん☆』
 類: ありがとう
 類: もう二度と、あんなことにならないように最善を尽くすよ
-(Black cut)
+(Black transition)

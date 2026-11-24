@@ -25,16 +25,16 @@
 司: もちろんです！
 司: ——では、練習を始めましょう！
 ダンサー達: 『はい！』
-(Black cut)
+(Black transition)
 ライセ: ……なるほど。直前のシーンは だいぶしっとりした雰囲気なんですね
 ミナト: となると……余韻を感じさせながらというのが 良さそうだが……
 司: そこは、オレも大原監督と話していて気になったんですが、 監督曰く、通りの表と裏——１本道が違えば……という、 差を出したいそうです
-(Black cut)
+(Black transition)
 司: ——というわけなんですが、どうですか？
 参加者達: ……そっか。それでここはあえて動きを小さくするんですね。 ありがとうございます。納得できました
 参加者達: あの、上手く落とし込めてるかも見てもらいたいんですけど、 いいですか？
 司: もちろんです！
-(Black cut)
+(Black transition)
 杏: お待たせしました！ ダッシュで衣装借りてきましたよ！
 大原監督: おお！　無事に借りられたか！
 みのり: お店の人が杏ちゃんの知り合いで、 倉庫から急いで引っ張り出してきてくれたんです！
@@ -43,7 +43,7 @@
 大原監督: で、あとは音響の方だが……
 志歩: ——今、ちょうど終わりました。 運営のスタッフさん達も手伝ってくれたので、 大丈夫だと思いますが、確認お願いします
 大原監督: おお、今行く！
-(Black cut)
+(Black transition)
 (Background change)
 参加者達: ……いよいよですね
 参加者達: そうだな……
@@ -57,15 +57,11 @@
 みのり: このショーは、今日まで頑張ってきた皆さんの晴れ舞台ですから 楽しみましょう！
 みのり: それに、皆さんのショーが成功すれば、 見に来てくれたお客さんまで笑顔にできちゃいますよ！
 司: （花里……）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000009/bg_s000009.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000009/bg_s000009.webp)
+(White transition)
+(Flashback out)
 (Background change)
 司: （あの時は、オレが声をかけて送り出したが——）
 司: （お前も、送り出す側になったんだな）
@@ -80,9 +76,9 @@
 司: 楽しんできてください。 皆さんのためのステージを！
 (Background change)
 ライセ・ミナト: 『行ってきます！』
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -118,7 +114,7 @@
 杏: うーん、だとすると私のはなんだろ……
 志歩: そんなわけないし、白石さんまで考えなくていいから
 リン: あはは……。 えっと、それは想いの力の光で——
-(White cut)
+(White transition)
 レン: わっ！　木に吸い込まれてった！
 司: ぐわああああっ！　オレのスターの輝きがー！
 みのり: わたしのアイドルオーラがー！
@@ -144,6 +140,6 @@
 リン: わたし達も楽しみにしてるね！
 司: ああ！　次はきっと、みんなで会おう！
 志歩・みのり・杏: 『はい』 『はい！』
-(White cut)
+(White transition)
 (Video: link3_team02_ed)
-(Black cut)
+(Black transition)

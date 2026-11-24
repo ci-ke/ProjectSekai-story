@@ -15,17 +15,13 @@
 寧々: 風祭さんの話、すごくおもしろかったしね。 いろんな場所に行って、いろんなショーをやって、 いろんな人に出会って——
 寧々: そんな風にショーをしていけたら、 とっても楽しそうだよね
 寧々: （だけど——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 夕夏: だから……みんなと離れることになった時は、寂しかったな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （だけど、もしその夢を叶えようとしたら——）
 寧々: …………
 ルカ: 『ねえ、寧々ちゃん』
@@ -76,7 +72,7 @@
 類: うんうん。 危険なことはしないようにね
 寧々: それ、類が言う？ ……ま、いいけど
 司: それでは、花火スタートだ！！
-(Black cut)
+(Black transition)
 えむ: ルカお姉さん見て見て～！ 花火の色が変わるよ～！
 ネネロボ: ネネロボも、花火に負ケズ光リマス
 ルカ: 『あらあら、きれいね～』
@@ -124,8 +120,8 @@
 寧々: ……ふふっ
 ルカ: 『寧々ちゃん、楽しそうねえ』
 寧々: ——うん！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000097/bg_a000097.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000097/bg_a000097.webp)
 寧々: （この先、夢を追っていったら、 寂しくなることもあると思うけど……）
 寧々: （今はみんなと一緒にいるこの時間を、 大事にしていきたいな——）
-(White cut)
+(White transition)

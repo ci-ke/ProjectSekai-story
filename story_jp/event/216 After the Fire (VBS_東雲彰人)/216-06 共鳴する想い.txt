@@ -74,14 +74,14 @@
 冬弥: ああ。俺達のスマホをお菓子の陰に置けば——
 冬弥: ……これで、誰かに見られる心配もない
 リン (VBS): 『ありがとう！　よーし——』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000636/bg_s000636.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000636/bg_s000636.webp)
 リン (VBS): 『♪————！　♪———————〜〜！』
 こはね: ふふ。さすがだねリンちゃん
 リン (VBS): 『杏ちゃんと彰人くんに、 たくさん教えてもらったからね！』
 リン (VBS): 『ふふっ。みんなと一緒に歌えて、嬉しいな！』
 リン・レン: 『♪————！　♪———————〜〜！』
-(White cut)
+(White transition)
 (Background change)
 セドリック: 『どうだ？　彰人も歌わないか？』
 スレイド: 『そうそう！　RADderの曲かかってるのに、 そんな隅に座ってちゃもったいないよ！！』
@@ -118,7 +118,7 @@
 レン (VBS): 『きっと、みんな同じ気持ちだからなんだろうな』
 レン (VBS): 『——音楽が大好き！ってさ』
 リン (VBS): 『うん……！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -141,4 +141,4 @@
 こはね: うん……出てみるね。 ——もしもし
 エレナの声: 『コハネ！？　いきなりごめん！ 連絡するか迷ったんだけど——』
 エレナの声: 『実は、秘密基地が……』
-(Black cut)
+(Black transition)

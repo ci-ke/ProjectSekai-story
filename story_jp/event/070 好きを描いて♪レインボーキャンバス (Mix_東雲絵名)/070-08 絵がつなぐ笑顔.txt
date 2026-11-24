@@ -22,7 +22,7 @@
 えむ: ……！ がんばれ！　穂波ちゃ～ん！
 穂波: （覚えてるのは、小学校の遠足で動物園に行った時に見た、 すごく怖いワニ……）
 穂波: （怖いけど、なんだか目が離せなくて——）
-(Black cut)
+(Black transition)
 園児: ええ～！？　何これ！？
 園児: あはは！ ぐにゃぐにゃして変なの～
 園児: 穂波先生、さっきまで上手だったのに、 急にヘタになっちゃったね～
@@ -52,15 +52,15 @@
 絵名: うん。昔動物園で見たオオカミ。 でも、弟がずっと怯えててね
 絵名: けど私にはすごく可愛く見えたから—— 怖いオオカミと可愛いオオカミ、両方を描いてみたんだ
 穂波: なるほど……！ だから全然顔が違うんですね！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000113/bg_s000113.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000113/bg_s000113.webp)
 少女: わ～！ お姉ちゃんの絵、２匹くっついてて変な感じでおもしろ～い！
 絵名: 変な感じって……。 もうちょい褒めかたないわけ？
 少女: でもわたし、この絵好き！ お姉ちゃん、もっと描いて！
-(White cut)
+(White transition)
 (Background change)
 絵名: それじゃあ——もっと描いちゃおっかな！
-(Black cut)
+(Black transition)
 (Background change)
 えむ: 最後に太陽を描いて……。 かんせーい！
 園児: わーい！　動物さん達の遊園地だー！
@@ -77,7 +77,7 @@
 穂波: うん！
 えむ: ばいばーい！ また、みんなでお絵描きしようね！
 絵名: またね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -112,50 +112,42 @@
 絵名: すっごい大作になりそう……
 絵名: でも、おもしろそうだしいいんじゃない？ また今度集まろっか
 えむ・穂波: 『はい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
 
 絵名: ふぅ……。 今日、疲れたけど楽しかったな……
 絵名: （最後はみんなすごく楽しそうに 絵を描いてたし……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: 今日、絵を描いて……その……。 楽しいなって思ったんです
 穂波: わたしは全然下手ですし、 まだ誰かの前で描くのは恥ずかしいんですけど
 穂波: でも——絵名さんみたいにうまくなれたら、 もっと絵を好きになれるのかなって……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……ふふっ
 絵名: （穂波ちゃんに、絵を好きになってもらえてよかったな）
 絵名: ……あ！ そういえば来週の課題あるのに 全然手つけられてなかった！
 絵名: あーもう、急いでやらないと……！ 前に指摘された消失点をなんとかしなきゃ
 絵名: ……でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 少女: わたし、この絵好き！ お姉ちゃん、もっと描いて！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 今日描いたオオカミを、 もうちょっとちゃんと描いてみるのもいいかも……？
 絵名: （あ……。なんだか筆がすごく軽い。 最近、悩むことも多かったのに）
 絵名: ……もう少しだけ描いてみよう
-(Black cut)
+(Black transition)
 絵名: …………
 絵名: ……できた
 絵名: （パースもおかしいし、ディテールも崩れてるから 雪平先生に見せたらボロボロに酷評されそう。 でも……）
 絵名: 私は好きだな、この絵
 絵名: （まだまだ技術は身についてないし、 描きたいことを表現できないことも多いけど、でも……）
 絵名: （私が納得できる絵が描けるように——頑張っていこう！）
-(White cut)
+(White transition)

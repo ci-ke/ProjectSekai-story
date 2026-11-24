@@ -29,7 +29,7 @@
 冬弥: わかりました
 (Background change)
 リン (VBS): 『……ふふ、冬弥くん楽しそう！ 準備も順調みたいだね♪』
-(Black cut)
+(Black transition)
 (Background change)
 寧々: じゃあ、まずは花里さんから練習していこうか
 みのり: はいっ！！
@@ -54,18 +54,18 @@
 寧々: 例えばだけど……司とか？
 冬弥: なるほど、司先輩のように……
 冬弥: ——わかった。やってみよう
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000526/bg_s000526.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000526/bg_s000526.webp)
 冬弥: 『オニガ、キタゾオ！』
 寧々: だいぶ良くなったけど…… 今度は、ちょっと力が入りすぎかな……
 寧々: ごめん、わたしの例があんまりよくなかったかも
 冬弥: いや、俺が司先輩になりきれなかったのが悪かったんだ。 もう一度やらせてくれ
 冬弥: 力を抜いて…………
 冬弥: 『鬼が……来たぞ……！』
-(White cut)
+(White transition)
 (Background change)
 リン (VBS): （冬弥くん、がんばれ～～！）
-(Black cut)
+(Black transition)
 (Background change)
 司: 『おのれ、獅子舞め……！　どこへ行った！？』
 愛莉: 『毎回、鬼の縄張りまで堂々と入り込んできて……！ 今日という今日は許さないわ』
@@ -88,4 +88,4 @@
 司・愛莉: 『できるわけあるか！』 『できるわけないでしょ！』
 みのり: おおお～……司さんと愛莉ちゃん、息ぴったりだね
 冬弥: ああ。どんなショーになるか、楽しみだな
-(Black cut)
+(Black transition)

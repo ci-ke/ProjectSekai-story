@@ -14,23 +14,19 @@ Gacha phrase: 思いのほか、空腹になっていたようだ
 冬弥: （あと早めに確認しておきたいのは、必要な機材だな。 ほとんどUltramarineで用意できるようだから 問題ないと思うが……）
 冬弥: （……それを確認するためにも、各チームのセトリが必要か）
 冬弥: （EVERからは受け取っているし、 あとは三田と遠野さんだな……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 新: 変えるとするなら曲の繋ぎか、選曲だと思う。 ——ねえ、俺の曲、今から変えるのはあり？
 彰人: 今から変えんのか？
 新: うん。三田くんの曲との繋がりはあまり良くなかったからね。 それが流れを切った可能性は十分ある
 新: 三田くんはMCがうまいから、 曲終わりに、さっきみたいに客を煽ってほしい。 俺はそれに合うような曲でいくよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: （特に遠野さんは、練習の時もセトリを調整していたし、 まだいろいろ検討したいかもしれないな）
 冬弥: （ひとまず、連絡だけ入れておこう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -89,7 +85,7 @@ Gacha phrase: 思いのほか、空腹になっていたようだ
 杏: だね！　せっかくだし、一緒に歌っていかない？
 新: じゃあ、お言葉に甘えてお呼ばれしようかな
 冬弥: はい。ぜひ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -112,18 +108,14 @@ KAITO: 『あ、冬弥くん。メッセージが届いたみたいだよ』
 KAITO: 『うん。さっきまで一緒だった あの遠野って子達のおかげかな？』
 彰人: そうっすね。 遠野の相棒に会えるなんて思ってなかったんで
 冬弥: たしかに、遠くの街にいると聞いていたから、 難しいと思っていたが——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 颯真: 東雲くんと、青柳くんだろ？ 話はこいつから聞いてるよ！
 颯真: オレは宮田颯真。 こいつの——親友だ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: （転院してきたのは、 順調に回復しているということなんだろうか？）
 彰人: ん？　どうした？
 冬弥: いや……
@@ -161,4 +153,4 @@ KAITO: 『それじゃあ冬弥くん、彰人くん、またねー！』
 冬弥: イベント、必ず成功させよう
 彰人: 当たり前だろ。ほら、帰るぞ
 冬弥: ああ
-(Black cut)
+(Black transition)

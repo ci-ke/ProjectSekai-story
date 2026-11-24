@@ -25,70 +25,54 @@
 一歌: その……ミクの前でミクの歌を歌うのは恥ずかしいけど……
 ミク (Ln): 『ふふっ、大丈夫だよ。 聴かせて。今の一歌の歌』
 一歌: ♪————
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000062/bg_a000062.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000062/bg_a000062.webp)
 ミク (Ln): （……綺麗な歌声）
 ミク (Ln): （一歌と出会ってから……か）
 ミク (Ln): （初めて出会った時、一歌は悲しそうな顔をしてたな）
 ミク (Ln): （４人で一緒にいたいって想いを持ってるのに、 一歩を踏み出せずにいた）
 ミク (Ln): （でも、初めて４人でセカイで演奏した時……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 ミク (Ln): （あの時の演奏は、音もテンポもバラバラだった）
 ミク (Ln): （けど、大事なものを思い出しているような音で……。 みんな、心の中にある想いは同じなんだってわかった）
 ミク (Ln): （セッションのあとはケンカみたいになっちゃったけど……。 でも、そこで終わりじゃなかった）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: なんとアタシ達、バンドを始めたの！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 ミク (Ln): （最初は一歌と咲希だけだったんだよね）
 ミク (Ln): （でも、あの時セカイに来た一歌の顔は、 ちょっと変わってた）
 ミク (Ln): （『できない』って諦めてる顔じゃなくて、 『できることをしよう』っていう真剣な顔）
 ミク (Ln): （それで、次にセカイに来た時には——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: ミクちゃん！　ルカさん！　お邪魔します！ アタシ達しほちゃんとバンドを組むために、 この曲マスターしたいんです！
 一歌: きゅ、急にごめん。志歩とバンドできるかもしれなくて……！ だから、もっと練習を見てもらいたいの。 いいかな……？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 ミク (Ln): （ふたりとも、志歩と一緒に演奏したいって強く想って、 一生懸命練習してたな）
 ミク (Ln): （その想いが届いて、志歩とも一緒にいられるようになった）
 ミク (Ln): （そして——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 一歌: みんな大好きで——大切な友達なの
 ミク (Ln): うん
 一歌: だから……
 一歌: ……私、４人で、一緒にバンドしたい。 別に、絶対にバンドじゃなくてもいいのかもしれないけど……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 ミク (Ln): （一歌は、本当の想いを見つけた）
 ミク (Ln): （穂波も、一歌の言葉で本当の想いを見つけて、歌が生まれた）
 ミク (Ln): （すれ違っていた時間はあったけど、 今４人は、バンドとしてまとまりかけてる）
@@ -104,4 +88,4 @@
 一歌: ミクにそう言ってもらえると、 一番自信がつくような気がする
 一歌: あのね、ミク。 今日ミクをここに呼んだのは もうひとつ伝えたいことがあって——
 ？？？: あれ……一歌ちゃん？
-(Black cut)
+(Black transition)

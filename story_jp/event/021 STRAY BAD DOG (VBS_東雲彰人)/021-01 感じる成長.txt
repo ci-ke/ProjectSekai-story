@@ -15,22 +15,18 @@ MC: Vivid BAD SQUAD、圧倒的なパフォーマンスだ！！
 こはね・冬弥: 『——♪　——♪』
 彰人: （最近、こいつらもすげえ速度で成長していってやがる。 ……油断したらこっちが呑まれそうだ）
 彰人: （…………）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （——どうにも懐かしいな、この感じは。 初めて冬弥の歌を聴いた時みたいだ）
 彰人: （——オレも負けてられねえな）
 彰人: ——♪　——♪
-(Black cut)
+(Black transition)
 ？？？: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -42,7 +38,7 @@ MC: Vivid BAD SQUAD、圧倒的なパフォーマンスだ！！
 彰人: だからって、この程度で満足して浮かれんなよ
 彰人: オレ達はRAD WEEKENDを超えんだ。 こんくらい、軽くやれて当然だろ
 杏: わかってるって！ 次のイベントの練習も、頑張ろうね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -76,7 +72,7 @@ MC: Vivid BAD SQUAD、圧倒的なパフォーマンスだ！！
 彰人: ま、なんにせよ全員揃ったんだ。 練習するぞお前ら
 杏: あ、ちょっと待った！ さすがにこんな朝早くから４人で歌うと近所迷惑でしょ
 杏: だからさ、あっちでやらない？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -89,7 +85,7 @@ MC: Vivid BAD SQUAD、圧倒的なパフォーマンスだ！！
 冬弥: こっちの声はリンとレンか……？ メイコさんのカフェのほうで、言い争いをしているようだな
 杏: よくわかんないけど、とりあえず行ってみよう！
 彰人: なんかまた、しょうもねえケンカの臭いがするな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -103,14 +99,14 @@ MEIKO: あら、杏ちゃん。 いらっしゃい
 MEIKO: ええ。今までどこにいたか知らないけど、 ちょっと前にフラーっと現れたの
 ミク (VBS): ま、いつもフラフラしてるし、いつか来るとは思ってたけどね
 彰人: いや、適当すぎるだろ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000070/bg_a000070.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000070/bg_a000070.webp)
 レン: っていうか、どうしてオレのアイス食べちゃったのさー！
 KAITO: ええと……さっきメイコのカフェの前を歩いてたんだ。 そうしたら、急にお腹がグーグー鳴り出して——
 KAITO: せっかくだし、メイコのお店で 何か食べさせてもらおうかなーと思ったんだけど、 準備中だったのか、メイコがいなくてね
 KAITO: それでお店の冷蔵庫を見てみたら、アイスがあったんだ
 KAITO: いつもはリンもレンも自分のアイスに名前を書いてるから、 これはきっとボクのためにメイコが 用意してくれたんだって思いこんじゃって——
-(White cut)
+(White transition)
 (Background change)
 MEIKO: そもそも勝手に冷蔵庫を開けるのはやめてほしいんだけど？
 KAITO: ううっ……
@@ -143,4 +139,4 @@ KAITO: あ、そうだ！ こんな音も使えるんじゃないかな？　お
 彰人: おい、そろそろ練習するぞ。 これじゃ早く来た意味がねえ
 彰人: みっちり練習して、次のイベントもわかせるぞ！
 こはね・杏: 『うん！』
-(Black cut)
+(Black transition)

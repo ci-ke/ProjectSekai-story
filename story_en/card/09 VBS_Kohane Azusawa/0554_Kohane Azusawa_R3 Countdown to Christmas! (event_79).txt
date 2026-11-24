@@ -22,7 +22,7 @@ Kotaro: Th-The rest of us are all just walking home, right?
 Toya: Yes, that's the plan.
 An: Anyway, you guys look after Kohane for me.
 Kohane: Oh, An...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -32,14 +32,10 @@ Toya: Well, quite a lot did happen.
 Kohane: Yeah... Shinonome in particular had a very busy day.
 Kohane: Also... That story about Crawl Green really took me by surprise.
 Toya: Me too... I had no idea that such a thing happened before we formed our team.
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 (Background change)
 Kotaro: So you guys heard...
 Kohane: (When I started singing here, I remember Shinonome being such a good singer who knew how to get an audience going...)
@@ -47,19 +43,15 @@ Kohane: (But he must've practiced so much in order to attain that ability... He 
 Kohane: Oh... Maybe that's why...
 Toya: Azusawa...?
 Kohane: So... I was reminded of something he said when I first started singing with An.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: And you're saying practicing hard is the same thing as having resolve? Don't make me laugh!
 Akito: We're absolutely serious. We're going to surpass RAD WEEKEND. Can you say the same thing, shrimp?
-(White cut)
+(White transition)
 Akito: The music world isn't a place you can just come waltzing into like you're on some field trip.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kotaro: Whoa... He really said that?
 Toya: When Azusawa performed in her very first event...
@@ -86,7 +78,7 @@ Kohane: I decided to sing here.
 Toya: Yes, I as well.
 Kotaro: Same here! So, let's all surpass RAD WEEKEND together!
 Kohane & Toya: Yeah! Yes.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,14 +88,14 @@ Kohane & Toya: Yeah! Yes.
 [Shibuya Park]
 
 Everyone: ♪————! ♪————!
-(Black cut)
+(Black transition)
 An: Whew...! This seems like a good place to stop for today.
 Arata: We were doing pretty well just now. I'd like to stay for a little longer if that's okay with all of you.
 Akito: Oh, sorry, we can't today...
 Kohane: We actually need to go buy Christmas presents for some friends of ours.
 Arata: Ah, then please go... I hope you find some good gifts for them.
 Kohane: Thank you. We hope so too!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -116,7 +108,7 @@ An: Actually, that could be fun. We don't know who these presents are gonna go t
 Toya: Yes, since finding presents that everyone is going to enjoy will likely prove difficult...
 Akito: I agree. Anyway, let's head in and start browsing.
 Kohane: Okay!
-(Black cut)
+(Black transition)
 
 [Trinket Shop]
 
@@ -126,7 +118,7 @@ Akito: Hang on... What happens if KAITO gets that?
 An: He might actually like it. I can already see him saying, “Haha! I have a new partner now!”
 Toya: Heh... He actually might.
 An: See? So, that's one down♪
-(Black cut)
+(Black transition)
 
 [Toy Store]
 
@@ -145,7 +137,7 @@ Akito: And they're one size fits all.
 Toya: Yes, any foot length up to 30 cm. That should cover most users.
 An: Hehe. Let's keep this up and find presents for all six of them!
 Kohane: Yeah!
-(Black cut)
+(Black transition)
 An: Nice! That's something for everyone!
 Kohane: We had so many options to choose from, but I think we picked out a good selection.
 Toya: I agree. All that's left is to see who gets what.
@@ -154,4 +146,4 @@ An: Personally, I wanna see KAITO get it.
 Kohane: Hehe. I think it'd look really cute on Miku or MEIKO.
 An: Totally! They're usually the cool and mature ones, but it might be nice to see them wear something adorable like that for a change!
 Kohane: Yeah! Now I'm really looking forward to our Christmas party!
-(Black cut)
+(Black transition)

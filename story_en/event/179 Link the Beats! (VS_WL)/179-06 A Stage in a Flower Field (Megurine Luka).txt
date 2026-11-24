@@ -3,7 +3,7 @@
 (Character: Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
 (Video: link2_ppr_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -33,15 +33,11 @@ Luka & Luka: Me...?
 Luka (VBS): Wait, what's going on?! Why are there two of us?
 Luka (MMJ): There's another me...?
 Luka (MMJ): (Under normal circumstances, I'd never see another me in this SEKAI.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Luka (MMJ): (But when those fragments of feelings sent me to that other SEKAI, I met a different version of myself.)
 Luka (MMJ): (What if some strange power is at work like that time?)
@@ -79,7 +75,7 @@ Luka: Hehe. I could listen to them forever.
 KAITO (MMJ): Huh? That looks like...
 Luka (VBS): Oh, hi! You must all be from this SEKAI♪
 Rin, KAITO & MEIKO: Whaaaat?!
-(Black cut)
+(Black transition)
 KAITO (MMJ): Wait, so... You're Luka from another SEKAI?
 Luka (VBS): That's right. But the way you're treating me feels a bit strange.
 Luka (VBS): Just talk to me the way you normally do with Luka. Although, I'm not as cute as her.
@@ -110,4 +106,4 @@ KAITO (MMJ): I believe so. Let us introduce you to them, Luka.
 MEIKO (MMJ): Yes, let's go!
 Luka (VBS): Wait! Slow down!
 Luka (VBS): Since I'm here, I want to give them the best greeting I can!
-(Black cut)
+(Black transition)

@@ -58,7 +58,7 @@ Tsukasa: (As an actor, I can't help but envy him, and I wish I could see him in 
 Reki: We're getting a little sidetracked. Anyway, I hope what I said helped...
 Tsukasa: Oh, yes! Very much.
 Tsukasa: Thank you very much, Bakuno.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tsukasa's Room]
@@ -67,15 +67,11 @@ Tsukasa: (I've tried thinking about this a thousand different ways.)
 Tsukasa: (If I'm going to get even a step closer to Bakuno's level... I just don't have the imagination.)
 Tsukasa: (I may be an actor, but I've never really imagined someone else's life before.)
 Tsukasa: (Or rather...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: I only thought about making those around me smile.
 Tsukasa: That was my original motivation, and nothing can change that.
@@ -86,7 +82,7 @@ Tsukasa: (If I can figure out a “story” for my character the way Bakuno has 
 Tsukasa: (That being said, with my poor imagination, I won't be able to get very far with Nakayama... At least, that's how I feel at the moment.)
 Tsukasa: Now now, I can't just give up before even trying.
 Tsukasa: Oh, I know. At times like this, I should...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -98,8 +94,8 @@ Tsukasa: Hm? What's that? It sounds like a car...
 ???: Tsukasa! You came at a good time!
 Tsukasa: That voice... Wahhh!!!!!!
 Tsukasa: M-MEIKO, what in the world is that thing?!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000253/bg_s000253.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000253/bg_s000253.webp)
 MEIKO (WxS): This? It's a three-wheel truck, silly. I'm sure you're aware that there were many of these zooming around during the Showa period.
 Tsukasa: No, that's not what I'm asking...!
 Bunny Plushie: Tsukasa! Good evening!
@@ -111,7 +107,7 @@ MEIKO (WxS): We decided to also do a show that takes place during that time in t
 MEIKO (WxS): So, we took some spare parts that were lying around to build what we needed!
 Tsukasa: Y-You built this...?! How...?!
 Tsukasa: To be fair, this SEKAI has a flying train in it, so I guess it's not out of the realm of possibility.
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: But in any case, I'm glad you're all enjoying yourselves. Seeing that me feel better.
 MEIKO (WxS): Hm? Wait, Tsukasa. Does that mean you weren't feeling well?
@@ -122,8 +118,8 @@ Tsukasa: H-Huh?! Why now all of a sudden?!
 Bunny Plushie: Because you look a little down...
 Bunny Plushie: Remember how you came up with those shows for us? They were called “Bunny's Big Adventures”.
 Tsukasa: Bunny's... Ah, yes. I do remember.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000252/bg_s000252.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000252/bg_s000252.webp)
 MEIKO (WxS): “Bunny's Big Adventures”?
 Bunny Plushie: Yeah!
 Bunny Plushie: He came up with a load of stories with me as the star! I was so happy!
@@ -132,7 +128,7 @@ Tsukasa: Heh heh heh! They were tales full of action and excitement!
 Tsukasa: Our heroes sail across the sea, weigh anchor at an island inhabited by monsters, find treasure—
 Tsukasa: Treasure...
 MEIKO (WxS): Is something wrong, Tsukasa?
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: Yes...
 Tsukasa: (I came up with those stories on the spot with our friend here as the protagonist.)
@@ -151,4 +147,4 @@ Tsukasa: Instead of just a supporting character with only three lines, I should 
 Tsukasa: Then, I may be able to flesh him out in fine detail the way Bakuno does...! I'm going to get started on this right away!!
 MEIKO (WxS): Umm... I'm not entirely sure what's going on...
 Bunny Plushie: Did I help?
-(Black cut)
+(Black transition)

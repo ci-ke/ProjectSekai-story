@@ -37,10 +37,10 @@ Toya: Would it be alright if I spoke first?
 Akito: Yeah. Go for it.
 Toya: Thank you.
 Toya: “Well, the reason I started pursuing music...”
-(Black cut)
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
+(Black transition)
 President: <“That just leaves you, Akito.”>
 President: <“How do you feel about music?”>
 Akito: “I... At first, I just wanted something I could be serious about.”
@@ -56,7 +56,7 @@ Akito: “I... Bet my life on music.”
 Akito: “No matter how hard it is or how far away my goal is...”
 Akito: “As long as my heart is beating, I want to sing.”
 President: <...>
-(Black cut)
+(Black transition)
 President: <“I understand your feelings now.”>
 President: <“From a business perspective, as well as personally, I'd like to offer our support regarding your future activities.”>
 Kohane: “Do you mean...?”
@@ -95,7 +95,7 @@ Kohane: Let me know if you don't understand anything, Shinonome. I'm always happ
 Toya: It's frustrating not being able to go with you...
 Toya: But safe travels, and take care over there.
 Akito: Yeah. I will.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -106,20 +106,16 @@ Akito: Right. Got my suitcase, so time to head out.
 Akito: (Turns out solo travel works out smoother than I expected.)
 Akito: (But here's where things get serious.)
 Akito: First I have to head over to No. 9 Records and meet with Mr. Alan.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 President: <“No. If possible, I'd like for us to speak in person.”>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (No idea what he wants to talk to me about... But this could decide whether we get the contract.)
 Akito: (I need to lock in here.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [No. 9 Records - Office]
@@ -149,4 +145,4 @@ President: I used to be a musician myself. I never made much of an impact, but i
 President: Akito. After RAD BLAST...
 President: Did you ever feel like your music had lost its fire?
 Akito: ...
-(Black cut)
+(Black transition)

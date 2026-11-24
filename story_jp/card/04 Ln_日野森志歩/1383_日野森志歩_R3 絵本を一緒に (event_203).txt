@@ -59,7 +59,7 @@ Gacha phrase: あ、サボテンが泳いでる……
 うさぎ: プゥプゥ
 志歩: ……なかなかいい曲でしょ？ これ、私達の曲なんだ
 うさぎ: クゥ？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,10 +83,8 @@ MEIKO (Ln): 『その絵本も、 もしかして押し入れにあったの？�
 KAITO (Ln): 『……もしかして、お気に入りの絵本だった？』
 志歩: そうですね。 けど、それだけじゃなくて……
 志歩: この絵本、小さい頃に一歌達と読んだことがあるんです
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -128,10 +126,8 @@ KAITO (Ln): 『……もしかして、お気に入りの絵本だった？』
 小学生の穂波 (穂波): みんなで絵本、持ってきてよかったね
 小学生の志歩 (志歩): 私も——
 小学生の志歩 (志歩): みんなのことが知れて、うれしい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (Ln): 『……そんなことがあったんだ』
 MEIKO (Ln): 『みんなとの思い出がつまった絵本なんだね』
@@ -143,4 +139,4 @@ MEIKO (Ln): 『私もどんなお話なのか気になるし』
 KAITO (Ln): 『……さすが志歩だな』
 MEIKO (Ln): 『じゃあ終わるまで、掃除の応援してるね』
 志歩: ありがとうございます。 すぐに終わらせるので、待っててください
-(Black cut)
+(Black transition)

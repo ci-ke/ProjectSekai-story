@@ -3,7 +3,7 @@
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 鏡音リン, 巡音ルカ)
 
 (Video: link_leoneed_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -30,10 +30,8 @@
 咲希: あ、えーっとその…… そこはいろいろあったんだけど……
 リン (Ln): え、なになに？ 何があったの！？
 咲希: えっと、実は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [収録スタジオ]
@@ -57,10 +55,8 @@
 咲希: あ、そ、そうかも……！？
 志歩: いつも通りの咲希なら、できるでしょ。 じゃ、もう１回やるよ
 咲希: うんっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ——っていうわけで、 アタシが最初、ちょっと失敗しちゃってたんだけど……
 咲希: 最後は、すっごくいい演奏ができたんだ！
@@ -91,4 +87,4 @@
 リン (Ln): え！？　それってどういうこと？
 ルカ (Ln): 私にもたしかなことは言えないわ。 だから——みんなで見に行ってみましょう
 咲希: ……はいっ！！
-(Black cut)
+(Black transition)

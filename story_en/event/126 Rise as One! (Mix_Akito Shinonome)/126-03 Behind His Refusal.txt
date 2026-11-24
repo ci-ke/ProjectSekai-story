@@ -73,7 +73,7 @@ Max: W-Woof...?
 Minori: Oh, is Max looking for the disc? It went that way! Over there!
 Samo: Woof!
 Minori: No, Samo, not you too!
-(Black cut)
+(Black transition)
 Minori: *Sob* I'm sorry. I didn't think it'd be this hard.
 Ishihara: Th-That's okay! It also took me a long time to get the hang of throwing one of these!
 Ishihara: Plus, you have to practice a lot to get it to fly where you want. Now I feel like I'm asking too much of you.
@@ -105,17 +105,13 @@ Akito: Still, why me...?
 Ishihara: Oh, I think I know why...
 Ishihara: He must've remembered how well you threw his disc the other day.
 Akito: Huh? Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Akito: (Wait, the disc...! If I throw it somewhere far in that direction...!)
 Akito: Go! That way...!
 Max: ...! Woof!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Akito: You mean that time...?
 Max: Woof...!
 Akito: ...
@@ -149,4 +145,4 @@ Ishihara: That'd be great...! I can't help retrieve the disc and stuff because o
 Akito: Yeah, it would be nice to have a few extra hands available...
 Akito: So, let's all do our best.
 Minori: Yeah!
-(Black cut)
+(Black transition)

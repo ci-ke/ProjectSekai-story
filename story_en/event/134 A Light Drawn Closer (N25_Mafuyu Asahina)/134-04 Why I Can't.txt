@@ -12,15 +12,11 @@ Miku (N25): <You look a little distraught.>
 Mafuyu: ...
 Rin (N25): <Did you have a bad dream or something...?>
 Mafuyu: A bad...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: I'd say so...
@@ -44,7 +40,7 @@ Mafuyu: Scary...?
 Mafuyu: ...
 Mafuyu: (That night, I told my mom how I really felt, but she refused to understand...)
 Mafuyu: (If my dad did the same thing...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -78,7 +74,7 @@ Miku (N25): Oh, umm...
 Mizuki: Is it about Mafuyu...? We heard that she isn't feeling well today and needs to rest.
 Miku (N25): Oh...
 Miku (N25): Yes, the thing is...
-(Black cut)
+(Black transition)
 Mizuki: I see. So Mafuyu's...
 Miku (N25): *Nod*
 Mizuki: ...
@@ -100,17 +96,13 @@ Mizuki: There's even a chance that she'd end up in a worse situation than she is
 Mizuki: Just thinking about it is pretty scary. Anyone would be petrified...
 Rin (N25): ...
 Mizuki: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Having someone who you know is on your side is huge...)
 Mizuki: (If Mafuyu is also able to have someone like that... It'll give her a sense of security.)
 Mizuki: So...
-(Black cut)
+(Black transition)

@@ -25,12 +25,12 @@
 (Background change)
 奏: 『この歌詞にぴったりの曲を作るよ、雪』
 まふゆ: 『……うん』
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 (Background change)
@@ -71,12 +71,12 @@
 まふゆ: 『感じたことを、素直に……』
 まふゆ: 『…………。 できるかはわからないけど、やってみる』
 奏: 『うん』
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: 感じられる……か
 まふゆ: 私も感じられる
 まふゆ: それなら……見つけられるのかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -119,4 +119,4 @@
 まふゆ: 『私は――』
 (Background change)
 まふゆ: 『……同じ気持ちかもしれない。 まだ、ちゃんとわからないけど』
-(White cut)
+(White transition)

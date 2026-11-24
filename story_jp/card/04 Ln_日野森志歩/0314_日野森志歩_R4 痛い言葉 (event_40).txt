@@ -11,7 +11,7 @@ Gacha phrase: お気遣い、ありがとうございます
 
 志歩: （チケットノルマ、あと半分か……）
 志歩: （でもライブまで日もないし、急がないと）
-(Black cut)
+(Black transition)
 (Background change)
 
 [１年Ａ組]
@@ -75,7 +75,7 @@ Gacha phrase: お気遣い、ありがとうございます
 みのり: わたしも！　友達として、絶対絶対、次は行くから！
 志歩: うん。待ってる
 志歩: （ふたりとも、本当にありがとう）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -94,16 +94,12 @@ Gacha phrase: お気遣い、ありがとうございます
 志歩: 噂？
 みのり: その……。 志歩ちゃんと穂波ちゃんがケンカしたって……
 志歩: ああ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ……待って、志歩ちゃん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （放課後の、部活がちょうど始まるくらいの時間だから、 校舎には文化部の人くらいだろうって 気にしてなかったけど……）
 志歩: （まあ、聞いちゃった人はいるよね……）
@@ -141,7 +137,7 @@ Gacha phrase: お気遣い、ありがとうございます
 志歩: たしかにそうだけど……
 志歩: みのりの中の私のイメージって、どうなってるわけ？
 こはね: ふふふっ
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -167,4 +163,4 @@ Gacha phrase: お気遣い、ありがとうございます
 志歩: もう怒られないように、気をつけないと
 穂波: はい。そうしてください
 穂波・志歩: 『ふふっ』
-(Black cut)
+(Black transition)

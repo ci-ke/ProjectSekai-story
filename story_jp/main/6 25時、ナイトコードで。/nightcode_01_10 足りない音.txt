@@ -2,26 +2,22 @@ nightcode_01_10 足りない音
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
 
 奏: ダメ……。この音じゃ、全然、ダメ……
 奏: こんな曲じゃ足りない……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): でも……それじゃ足りなかった。 見つけられなかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 誰も、救えない……
-(Black cut)
+(Black transition)
 
 [１週間後]
 
@@ -62,7 +58,7 @@ nightcode_01_10 足りない音
 瑞希: 『これ、もう聞こえてないっぽいね……』
 瑞希: 『……今は話すの難しそうだし……そっとしとこっか』
 絵名: 『そう、だね……』
-(Black cut)
+(Black transition)
 (Background change)
 奏: （ダメだ。ギターの音が細すぎて浮いてる。 でも、この繊細さがないと……）
 奏: （……あれ？　なんだろう？ 座ってるのになんだかふらふらする……）
@@ -72,17 +68,13 @@ nightcode_01_10 足りない音
 奏: あ……。 OWNの、新曲……？
 奏: …………
 奏: （光の届かない、暗い海の底にいるみたいな音……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): 初めてKの曲を聴いた時は、少しだけ、救われたような気がした
 ？？？ (まふゆ): でも……それじゃ足りなかった。 見つけられなかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……結局、救えたような気になってただけ……
 奏: 勝手に、自分の曲で雪を救えたって思って、 自分も救われたような気になって……
@@ -90,26 +82,20 @@ nightcode_01_10 足りない音
 奏: わたしは…………
 奏: ………………でも
 奏: 本当に……これ以上作り続けて、意味はあるの……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の父: 奏はすごい才能を持っているよ
 奏の父: きっと、音楽に愛されているんだ
-(White cut)
+(White transition)
 奏の父: 奏はこれからも、奏の音楽を作り続けるんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……お父さん……
 奏: もう……作り続けられないよ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の奏 (奏): お父さん、これわたしの曲だよ！ パソコンで作ったの！
 奏の父: ひとりで？　すごいじゃないか奏！ 聴いてもいいかい？
@@ -121,7 +107,7 @@ nightcode_01_10 足りない音
 奏の父: 奏……
 奏の父: そうか、嬉しいよ、奏。お父さんも、もっと頑張って、 みんなを幸せにできる曲をたくさん作るぞ！
 小学生の奏 (奏): わたしも！　大きくなったら、 お父さんみたいな作曲家になれるように、がんばるね！
-(Black cut)
+(Black transition)
 奏の父: ……はい。はい。 もっと、時代に合ったアレンジを……ですか
 奏の父: ……わかりました。ありがとうございます。 失礼します
 奏の父: ……前時代的……か
@@ -132,7 +118,7 @@ nightcode_01_10 足りない音
 奏の父: 十分だよ、奏。 たくさん食べて頑張らなきゃな。ありがとう
 奏の父: 今度のCMソングのコンペはどうしても通りたくてね。 もしかしたら……作曲家としての分岐点になるかもしれない
 中学生の奏 (奏): そうなんだ……。わたし、応援するね！ ご飯いっぱい食べて、頑張ってね
-(Black cut)
+(Black transition)
 奏の父: ……ダメだ！
 奏の父: どうしてなんのアイディアも出ないんだ……。 あと少しなのに……
 中学生の奏 (奏): お父さん、晩ご飯だけど……
@@ -147,4 +133,4 @@ nightcode_01_10 足りない音
 中学生の奏 (奏): え？ なんとなく、こうしたほうがいいかなって思って
 奏の父: …………。 ……奏は、すごいな……
 中学生の奏 (奏): ……お父さん？
-(Black cut)
+(Black transition)

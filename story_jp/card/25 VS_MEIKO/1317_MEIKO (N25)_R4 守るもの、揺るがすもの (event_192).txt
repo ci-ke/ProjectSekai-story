@@ -53,7 +53,7 @@ MEIKO (N25): 本当に、あなたとは少しも意見が合わないわね
 リン (N25): ……同じようなものじゃない？
 レン (N25): それは——
 レン (N25): そう、なのかも……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -62,18 +62,14 @@ MEIKO (N25): 本当に、あなたとは少しも意見が合わないわね
 
 [誰もいないセカイ]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): もし、あなたが願い通り、まふゆを救うことができたとして——
 ルカ (N25): まふゆに曲を作らなくてもよくなったら…… どうするの？
 奏: ————え？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): （……本当に、余計なことをして）
 MEIKO (N25): （あの子達が抱えている問題は、どれも重くて根深い——）
@@ -114,15 +110,11 @@ MEIKO (N25): 怖がらせたことは謝るわ。 お菓子も、届けに来て
 レン (N25): あ…… うん……
 MEIKO (N25): それじゃあ、行くわね
 ルカ (N25): またお話しましょうね、メイコ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ルカ (N25): ——最近、停滞していると思わない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (N25): （嫌な予感がしていたのに、止められなかった）
 MEIKO (N25): （まったく……。 カイトよりもよっぽど面倒だわ）
-(Black cut)
+(Black transition)

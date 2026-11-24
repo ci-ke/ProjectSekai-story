@@ -30,7 +30,7 @@ First-Year Archery Club Member A: Hinomori! They're all set up!
 Mafuyu: Ah, looks like you're needed.
 Shizuku: Yes, I'll head over now. Good luck with practicing for the individuals match, Asahina!
 Mafuyu: Thank you. I appreciate it.
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -42,21 +42,17 @@ Mafuyu: Okay. Then, let's start closing up.
 Shizuku: Oh, it's my turn today, so I'll return the key to the teachers.
 Mafuyu: Thank you, but I'll go with you... There's something I need to ask them.
 Shizuku: You will? Hehe. Then, shall we?
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: The first years have become much better archers since I last saw them.
 Mafuyu: Yes, I believe the newcomer tournament played a big role.
 Mafuyu: I suppose it's only natural to take official matches more seriously.
 Shizuku: I see...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (When I was a first year, I received quite a lot of advice from others around this time of year, which helped me have more confidence in myself...)
 Shizuku: (So much was going on back then...)
@@ -77,16 +73,12 @@ Mafuyu: I see. I feel a little embarrassed now.
 Shizuku: No, don't. You'd make a wonderful doctor since you're such a kind person.
 Shizuku: So, please do your best, Asahina.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Anyway, Mafuyu, do your best.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Yes, you're right...
 Mafuyu: I need to do my best.
@@ -98,15 +90,11 @@ Shizuku: Oh, I see...
 Shizuku: (But she seemed different compared to normal for some reason...)
 Shizuku: (That expression she made...)
 Shizuku: (I've seen it before somewhere...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (Oh, it was that time...)
 Mafuyu: That reminds me, Hinomori. When you were a first year, you decided to join the archery club as a way to improve your posture, yes?
@@ -119,7 +107,7 @@ Mafuyu: Oh, hello. We were just about to return the key to the archery range...
 Teacher: Ah, I was just about to head back. Why don't I deliver that for you?
 Mafuyu: You will? Thank you very much.
 Shizuku: Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shizuku's Room]
@@ -141,17 +129,13 @@ Shiho: To get a better idea... Okay, I understand.
 Shiho: In that case, I'll let Mom know that she can go before you.
 Shiho: Good luck, Shizuku.
 Shizuku: Thank you, Shii! I really appreciate it!
-(Black cut)
+(Black transition)
 Shizuku: (That expression Asahina made today...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (It's just like what I saw that other time...)
 Shizuku: (She seemed to have something on her mind that time as well.)
@@ -168,13 +152,13 @@ Shizuku: Advice?
 Miku (MMJ): <Yes! We were thinking about altering some of our costumes for our next show.>
 Miku (MMJ): <They're ones that have been sitting in the dressing room and we want to change things up a little.>
 Miku (MMJ): <Remember how you all came up with your own costume designs? We decided to think up ideas for alterations in the same way...>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000145/bg_s000145.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000145/bg_s000145.webp)
 KAITO: <Unfortunately, this isn't exactly my forte.>
 Miku (MMJ): <Yes, me too. I've also been having trouble coming up with ideas.>
 Miku (MMJ): <So, Shizuku, since you're really good at coming up with design ideas, we thought we should ask you.>
 Shizuku: Yes, I see... I'm not as good as you say I am, but I'll be more than happy to help.
-(White cut)
+(White transition)
 (Background change)
 KAITO: <Thank you, Shizuku!>
 KAITO: <If possible, we'd like to have something warm that goes with the season...>
@@ -182,15 +166,11 @@ Shizuku: Something warm... In that case, why not try using a fluffy material tha
 Shizuku: Also, something that looks like ice crystals. Not only will they look pretty, they'll give your costumes a nice, wintery feel.
 KAITO: <Yes...! Those sound perfect!>
 Shizuku: You could even have imitation snow fall from above to go along with your costumes.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (Oh... Snow...)
 Miku (MMJ): <Shizuku...?>
@@ -202,4 +182,4 @@ Shizuku: But it's more of a personal matter...
 KAITO: <If talking to someone else about it will make you feel better, I'll be more than happy to listen.>
 Shizuku: KAITO... Hehe. Thank you very much.
 Shizuku: Then, if you don't mind...
-(Black cut)
+(Black transition)

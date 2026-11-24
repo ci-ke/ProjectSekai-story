@@ -40,7 +40,7 @@ Gacha phrase: わたしは、絶対に挫けませんっ！
 愛莉: 『でも、さすがに大きな機材は無理だから、 自撮り棒、スマホスタンド、三脚、小型の照明あたりね』
 (Background change)
 みのり: 『じゃあ、次は——』
-(Black cut)
+(Black transition)
 (Background change)
 遥: 『——これで、必須のものは出そろったかな』
 (Background change)
@@ -95,7 +95,7 @@ Gacha phrase: わたしは、絶対に挫けませんっ！
 雫: 『じゃあ、私はしぃちゃんの写真にするわ。 サモちゃんと並べて飾りましょう』
 (Background change)
 みのり: 『わあ、いいね！ なんだか賑やかな部屋になりそう〜！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -164,4 +164,4 @@ Gacha phrase: わたしは、絶対に挫けませんっ！
 雫: ええ。こんな展開になるなんて、思ってもみなかったわ
 愛莉: みのりがいい流れを作ったおかげね。 交流の機会に結びつけるなんて、やるじゃない
 遥: そうだね。私達も負けていられないな
-(Black cut)
+(Black transition)

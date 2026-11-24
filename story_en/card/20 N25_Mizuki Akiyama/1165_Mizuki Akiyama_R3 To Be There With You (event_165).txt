@@ -11,15 +11,11 @@ Gacha phrase: Can you stretch out your hand for me?
 
 Mizuki: *Stretch* I worked so hard during my shift today!
 Mizuki: Let's see, after I get home, I'm gonna watch that anime I recorded, work on N25 stuff and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Come to think of it, Mafuyu's meeting with her mom this weekend, huh...)
 Mizuki: (Mafuyu's so strong...)
@@ -36,22 +32,18 @@ Mizuki: I haven't been to this shop in so long that I didn't know they started c
 Mizuki: Alright, what do they have...? Necklaces and bracelets. Oh, these actually look pretty fancy.
 Mizuki: But now doesn't seem like the right time to be making these.
 Mizuki: No, wait...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki's Sister: Because, until just recently, I thought you'd given up on everything.
 Mizuki's Sister: Like when you stopped wearing that ribbon you like so much. It was as if nothing mattered to you anymore.
-(White cut)
+(White transition)
 Mizuki's Sister: Also... Here, take this...
 Mizuki: A ribbon...?
 Mizuki's Sister: Yes. I made it using my favorite kind of fabric. It's cute, right?
 Mizuki's Sister: So, if you ever feel like wearing it.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Would I be able to encourage her the same way Sis did for me with that ribbon?
 Mizuki: Like a lucky charm that cheers you up.
@@ -60,7 +52,7 @@ Mizuki: But...
 Mizuki: Maybe it'll help her feel that, even if we can't be with her in person, we'll be with her in spirit.
 Mizuki: Yeah, these could make for some nice lucky charms.
 Mizuki: Alrighty!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -76,7 +68,7 @@ Mizuki: (I wonder if I can imbue these bracelets with this feeling...)
 Mizuki: (It probably isn't the same warmth Mafuyu wants. But these will let her know that we're there with her.)
 Mizuki: I'll need to craft these really carefully.
 Mizuki: (With all the warmth the others have given me.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,19 +112,15 @@ Kanade: <I'm not crying. It's true I might feel a little lonely...>
 (Background change)
 Ena: <I mean, you gave us those bracelets so she wouldn't feel lonely, right?>
 Mizuki: <Haha. True!>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: Is this a bracelet...?
 Mizuki: Yup! I made some for us the other day. I thought we could all wear them.
 Mizuki: Unlike Kanade, we can't be there when you talk to her, right?
 Mizuki: So, I thought these would help make it feel like we're there with you in spirit.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <Still, I'm surprised that you got bracelets for all of us and not just Yuki.>
 (Background change)
@@ -178,4 +166,4 @@ Mafuyu: <Thank you.>
 Mizuki: <You're welcome♪>
 Mizuki: (It might only act as a brief distraction...)
 Mizuki: (But I hope it helps cheer Mafuyu up, even just a little.)
-(Black cut)
+(Black transition)

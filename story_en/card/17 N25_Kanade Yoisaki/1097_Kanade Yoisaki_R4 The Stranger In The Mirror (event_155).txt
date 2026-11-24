@@ -11,20 +11,16 @@ Gacha phrase: I look...really pretty, I think.
 
 Kanade: Let's see... That company's website should be... Oh, here it is.
 Kanade: Huh, they even have products exclusive to the online store.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I probably never would've thought to buy clothes from an outdoors retailer if Tenma hadn't suggested it.
 Kanade: Aside from clothes, they have a wide selection of accessories and outdoor goods. Sleeping bags, portable lamps...
 Kanade: I'm seeing so many new things since I don't normally look at these kinds of sites...
-(Black cut)
+(Black transition)
 Mafuyu's Voice (Mafuyu): Kanade, can I come in...?
 Kanade: Oh, yes. Come in.
 Mafuyu: What do you want to do about dinner...? I can heat some food up for you if you're hungry.
@@ -64,7 +60,7 @@ Mafuyu: I don't know... At the very least, you'd stand out while walking around 
 Kanade: Hmm... But these all seem handy and comfortable...
 Kanade: I guess I wouldn't mind standing out a little.
 Mafuyu: If you're comfortable with that, then you should get them...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -163,4 +159,4 @@ Ena: <One sec. Lemme find it first.>
 (Background change)
 Mafuyu: <This is really happening...?>
 Kanade: <Uhh... What should I do...?>
-(Black cut)
+(Black transition)

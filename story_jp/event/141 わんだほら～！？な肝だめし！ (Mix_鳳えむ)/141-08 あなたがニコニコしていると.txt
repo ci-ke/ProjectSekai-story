@@ -4,13 +4,13 @@
 
 [神社の裏山]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000350/bg_s000350.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000350/bg_s000350.webp)
 穂波: う、うう……
 えむ: ん～。鍵、鍵……。 鍵さん、出ておいで～！
 まふゆ: ……こう暗いと、さすがに探しにくいね
 穂波: そ、そうですね……。 転ばないように気を付けないと……
-(White cut)
+(White transition)
 (Background change)
 穂波: ——ひゃあっ！？
 えむ: ほ、穂波ちゃん！？ どうしたの！？
@@ -47,16 +47,12 @@
 穂波: わたしも、身近な人が笑顔になってくれると、 嬉しくなるので
 まふゆ: …………あ
 まふゆ: （そういえば——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: あの時のわたし達みたいに、 まふゆにも笑ってほしいって思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （奏も、同じことを言ってた）
 まふゆ: （じゃあ……）
@@ -96,7 +92,7 @@
 まふゆ: でも、見つかってよかったね。 あのままタヌキがどこかに行ってたら、 鍵も見つからなかったかも
 穂波: たしかに……。 ふふ、本当にラッキーでしたね
 えむ: うん！ じゃあ瑞希ちゃん達にも伝えて、神社に戻ろう！
-(Black cut)
+(Black transition)
 (Background change)
 えむ: よいしょ、よいしょ……。 椅子を倉庫にしまって……
 えむ: ふぅ～。 これで運ぶものは全部ですか？
@@ -129,4 +125,4 @@
 穂波: ふふ、すごく嬉しそうだね、えむちゃん
 えむ: うんっ！！
 えむ: ——だって今日も、す～っごくわんだほいな１日だったから！
-(White cut)
+(White transition)

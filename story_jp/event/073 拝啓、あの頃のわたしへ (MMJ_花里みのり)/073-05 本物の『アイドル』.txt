@@ -9,9 +9,8 @@
 (Background change)
 みのり: ……このライブが、わたしが本気で アイドルになりたいって思ったきっかけだったんだよね
 みのり: 本当に衝撃的で、あのあと家に帰って——
-(White cut)
-
-(Memory cut-in)
+(White transition)
+(Flashback in)
 
 [数年前]
 
@@ -54,45 +53,35 @@
 みのりの父: まずは、今言っていたように、 できることを一生懸命やってみなさい
 みのり: お父さん……
 みのり: ……ありがとう！ わたし、がんばるよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 みのり: ——その日から、いろんなこと始めたっけ。 ダンス部の先生にお願いして、 放課後にレッスンしてもらったり、筋トレとかやったり……
 みのり: でも、まだまだ足りないかもってなって、 やっぱりちゃんと養成所とか通おうってなったんだけど、 入所金がすっごく高くて難しかったんだよね
 みのり: それでやっぱり、自分でできるとこまでがんばってみようって オーディションたくさん受けてみたけど……
 みのり: 書類はとおっても面接が全然ダメだったんだよね……。 精一杯やってたつもりだったんだけどなぁ
 みのり: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……今のわたしは、遥ちゃんの隣に立ててる
 みのり: なんか、こうやって考えてみると、 今のわたしの状況って、本当に夢みたいだなあ。 あの頃の夢も叶えられて——
 みのり: ……ううん。まだ叶ってないよね
 みのり: わたしがなりたかったのは、 遥ちゃんみたいなアイドルだもん。 遥ちゃんみたいに、お客さんと心を繋げて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: 一緒に歌おう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ——見てる人に、明日をがんばる希望を届けるアイドルだもん。 だから……
 みのり: 今回のワンマンライブは、 わたしの夢を叶えるための最初のステージなんだ
 みのり: だったら、緊張してる場合じゃないよね。 あの時の遥ちゃんみたいに、わたしも……
 みのり: 全力で、お客さんを夢中にさせるステージをやらなくちゃ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンマンライブ当日]
@@ -138,4 +127,4 @@ MEIKO: 『みんな、頑張ってね。 MORE MORE JUMP！の最初のワンマ�
 みのり: もあもあ～
 (Background change)
 みのり・遥・愛莉・雫: 『JUMP！』
-(Black cut)
+(Black transition)

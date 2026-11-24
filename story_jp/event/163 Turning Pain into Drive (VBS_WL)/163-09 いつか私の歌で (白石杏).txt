@@ -48,15 +48,11 @@
 杏: …………ううん
 杏: ……ずっと思ってたんだ。 私が、自分の夢にこはねを巻き込んだんだって
 杏: でも、あの日……ここでこはねの歌を聴いて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: こはねにとっても—— 歌は特別なものになるんじゃないかって思ったんだ
 杏: だから今も、嫌いにはなってないんじゃないかなって……
@@ -64,7 +60,7 @@
 謙: ノーコメントだ。 “相棒”のことは、お前が一番よくわかってるだろうからな
 杏: ——ありがと、父さん
 杏: 私……やらなきゃいけないこと、わかった気がする
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -72,7 +68,7 @@
 謙: おう。気をつけていけよ
 杏: だーいじょうぶだって！　いつもの場所だし！
 謙: ……まだ立ち直ったとは言えねえが、 覚悟は決まったって顔だな
-(Black cut)
+(Black transition)
 (Background change)
 杏: （————わかってる）
 杏: （未来を信じても、がっかりするだけかもしれない）
@@ -81,6 +77,6 @@
 杏: （それでも、私はここで、歌い続けるんだ）
 杏: （いつか私の歌で、もう一度——こはねを振り向かせる！）
 杏: ♪——————！！
-(Black cut)
+(Black transition)
 (Video: link2_street_ed4)
-(Black cut)
+(Black transition)

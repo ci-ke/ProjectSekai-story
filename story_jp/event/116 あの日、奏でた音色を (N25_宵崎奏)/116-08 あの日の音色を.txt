@@ -42,7 +42,7 @@ KAITO (N25): …………
 瑞希: みんなで集まってなんの話してたの？
 奏: あ、うん。えっと……
 奏: ——聴いてほしい曲があるんだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -71,18 +71,14 @@ KAITO (N25): …………
 奏: 昔みたいに……
 奏: 昔みたいに、よくできたねって…… 今まで、頑張ったねって、褒めてくれるかな
 奏: それで、ほんの少しでいいから また——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000260/bg_s000260.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000260/bg_s000260.webp)
+(White transition)
+(Flashback out)
 (Background change)
 奏の父: …………
 奏: （こんなこと、本当は望んじゃいけないのかもしれない）
 奏: （でも……）
 奏: （今は……そう願っても、いいかな……）
-(White cut)
+(White transition)

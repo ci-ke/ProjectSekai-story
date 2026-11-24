@@ -14,7 +14,7 @@ Kanade: Thanks.
 Ena: (Oh... Kanade's wondering how Mafuyu feels about it...)
 Ena: (Kanade...)
 Ena: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -29,16 +29,12 @@ Mafuyu: <Bye. I'll be going too, Enanan...>
 Ena: <Wait, Yuki. There's something I want to talk to you about...>
 Mafuyu: <Yes...?>
 Ena: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: <Isn't there something else that you should tell K?>
 Ena: <You can at least tell just how hard she's been working on this song, right? How hard she's been working just for you...?>
 Mafuyu: <...>
@@ -84,22 +80,18 @@ Ena: <Night.>
 Ena: *Sigh*... Why is Mafuyu always like that...?
 Ena: (But at least we're sort of having more meaningful conversations now. She really has been changing...)
 Ena: Plus, there's someone that's being even more of a bother right now.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Mizuki's a talker but clams up every time anyone tries to make some headway...
 Ena: Everything we say just gets dodged or avoided. In that sense, Mafuyu's a million times easier to deal with...
 Ena: (Mizuki...)
 Ena: (Why won't you tell me anything? Can you not trust me?)
 Ena: *Sigh*...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,30 +105,22 @@ Ena: <I'll be logging off now. Good night, K.>
 (Background change)
 Ena: (I'm glad Kanade's feeling better now.)
 Ena: (And Mafuyu...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Which leaves us with...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (We haven't talked for a while...)
 Ena: (I want to ask Mizuki a favor too, so... Okay!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -149,7 +133,7 @@ Mizuki: Hmm... The sleeves are kind of long. It almost looks like menswear.
 Mizuki: It's too wide between the shoulders too. No wonder it doesn't fit you. I see what you mean by it not looking quite right.
 Ena: You think so too? I went for it since it seemed to fit alright at first glance...
 Mizuki: But size depends on who makes it too♪ Alright... Let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Sewing Lounge]
@@ -197,16 +181,12 @@ Ena: You wouldn't stop complaining either. How can anyone forget that?
 Ena: You don't just give up... You're more stubborn than most people.
 Ena: But in that regard, I'm in the same boat as you.
 Ena: Otherwise, I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: I'll try drawing something. I don't know if it'll be any good, but I'll try.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: I wouldn't have gone back to drawing if I weren't.
 Mizuki: ...
@@ -218,4 +198,4 @@ Mizuki: Alright, enough chatting. Just a bit more to go and I'll be done♪
 Ena: Yeah, I can't wait to see it.
 Ena: (I guess Mizuki is feeling a little better...)
 Ena: (I didn't learn anything new, but I guess I should just wait patiently for now...)
-(Black cut)
+(Black transition)

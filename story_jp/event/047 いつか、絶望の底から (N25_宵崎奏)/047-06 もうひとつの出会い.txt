@@ -2,7 +2,7 @@
 
 (Character: 望月穂波, 宵崎奏, 朝比奈まふゆ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [病院]
@@ -42,17 +42,13 @@
 奏: （……お父さんが倒れたのは、わたしのせいだ）
 奏: （だからわたしは、お父さんみたいに、 誰かを救う曲を作り続けなくちゃならない。 正直、家事代行の人に対応してる時間だって惜しい）
 奏: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （今みたいな生活を続けてたら、 曲作り自体が進まなくなる……）
 奏: ……わかった。やってもらうよ
@@ -67,7 +63,7 @@
 奏: あ、うん……
 中学生の穂波 (穂波): 今日は帰ったら、しっかり寝て、 ゆっくり休んでくださいね。宵崎さん
 奏: ……うん。 ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -79,23 +75,19 @@
 奏: たくさんの人を……
 奏: …………
 奏: （あの時……あのアレンジ曲を聴いた時——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 奏: （……あ、そっか。 サビをこう展開させれば全然印象が違う……）
 奏: （エフェクトをかけるだけで、空間の広がりができて……、 いろんな景色が自然と頭に浮かんでくる）
 奏: （すごい……。 この曲を聴いてると、 新しい曲のイメージがどんどんわいてくる——）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 奏: （曲のイメージが、びっくりするほどたくさん降りてきた）
 奏: （生々しい絶望と消えたくないっていう気持ちが、 触れそうなくらい近くにあった）
 奏: （もしかしたら、あの、雪っていう人の力を借りればもっと——）
 奏: （連絡をとってみよう）
 奏: （……SNSのアカウントを作って、 DMに連絡がほしいって送れば——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -108,7 +100,7 @@
 まふゆ: ……アップした動画に、コメントが来てる……？
 まふゆ: 一体誰が……
 まふゆ: …………え？　これって……
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: ……来た。雪さんからの返事……
@@ -120,7 +112,7 @@
 奏: 音楽ファイルをやりとりするのに便利なツールがあるって、 どこかのサイトに書いてあった気がする
 奏: ええと……そうだ。 『ナイトコード』だ
 奏: （雪さんに、ナイトコードでやり取りができないか聞いてみよう。 アプリのURLは……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -140,4 +132,4 @@
 まふゆ: （……か細くて、けど、芯のある声）
 まふゆ: （この人が、K——）
 まふゆ: （あの曲を作った、私の心を揺り動かした人なんだ）
-(Black cut)
+(Black transition)

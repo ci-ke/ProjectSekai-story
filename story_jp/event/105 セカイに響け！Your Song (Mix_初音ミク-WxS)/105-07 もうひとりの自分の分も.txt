@@ -10,15 +10,11 @@
 ミク (WxS): ……いない……
 ミク (WxS): もっと、話したかったのになぁ……。 もう会えないのかなぁ
 ミク (WxS): ……でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ？？？: ——ミク、どうしたんだい？
 ミク (WxS): あっ……！
@@ -29,7 +25,7 @@ KAITO: さっきの声……？
 KAITO: え、えーと…… とりあえず深呼吸して、落ち着いて話してくれるかい？
 ミク (WxS): うんっ！
 ミク (WxS): すー……はー……
-(Black cut)
+(Black transition)
 KAITO: ——なるほど。 不思議なセカイで、違うミクに……
 ミク (WxS): うんっ！ ミクじゃないミクも、ミク達のショーを見て 元気になってくれてるんだって！
 ミク (WxS): ミク達がついてれば、司くん達はきっと大丈夫！ って言ってたんだ！
@@ -38,7 +34,7 @@ KAITO: ……そうか……
 KAITO: それじゃあ、そのミク達のためにも 頑張らないとね
 ミク (WxS): うん！　がんばってショーを成功させるぞ～☆
 ミク (WxS): お～！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -46,15 +42,11 @@ KAITO: それじゃあ、そのミク達のためにも 頑張らないとね
 [crase cafe]
 
 KAITO: いやー、びっくりしたなあ。 まさか、ボクじゃないボクに会うなんて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: （今まで、セカイでみんなを見守ってきたのは ボク達だけだと思ってたけど——）
 KAITO: ボク達以外にも、見守ってくれてる人達はいたんだ
@@ -64,7 +56,7 @@ KAITO: ……なんだか、すっごく心強いなあ！
 KAITO: え～！ 別にサボってたわけじゃないんだけどなあ
 ルカ: そうなんだ？ じゃあ何してたの？
 KAITO: 実はね——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -79,7 +71,7 @@ KAITO: そっか……！
 KAITO: じゃあ絶対に、最高のライブにしよう！ みのりちゃん達だけじゃなくて——そのルカちゃんにも 希望を届けられるように！
 MEIKO: いいわね！ そうと決まったら、たっくさん練習するわよ！
 ルカ: ええ！　頑張りましょう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -90,7 +82,7 @@ KAITO: うん……。 さっき、嬉しいことがあったみたい
 リン: えっなになになに！？ もしかして、アイスの当たりが出たとか！？
 ミク (Ln): それで喜ぶのはリンとカイトくらいでしょ
 ルカ: でも——いいライブになりそうね
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -109,4 +101,4 @@ MEIKO: ……そう
 リン: ♪————　♪————……
 MEIKO: ……♪——　♪————
 リン・MEIKO: 『♪————　♪————……』
-(Black cut)
+(Black transition)

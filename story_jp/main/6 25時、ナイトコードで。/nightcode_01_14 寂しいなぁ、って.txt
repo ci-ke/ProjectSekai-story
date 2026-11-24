@@ -21,17 +21,13 @@ nightcode_01_14 寂しいなぁ、って
 瑞希: （……なんか、えななんもちょっと変だな）
 瑞希: （まっ、ボクだって、そんな調子いいってわけじゃないけどね。 みんなそれぞれ悩みごとくらいあるわけだし）
 瑞希: （Kだってえななんだって、きっといろいろ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ？？？ (まふゆ): だって本当は、 Kも、えななんも、Amiaも—— 誰よりも消えたがってるくせに
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: 『…………』
 瑞希: 『雪も、本当はずっとキツかったんだろうな』
 (Background change)
@@ -72,20 +68,16 @@ nightcode_01_14 寂しいなぁ、って
 絵名: 『……何、この曲。 これまでよりずっと……』
 瑞希: 『うわっ、ゾワゾワする……！！』
 絵名: 『ヤバいでしょこれ……。 うまく言えないけど、これって、もう……』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ？？？ (まふゆ): もしそれでも見つからないなら、私はもう……消えるしかない
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: 『……本気なの？』
 (Background change)
 奏: 『……えななん、Amia』
 (Background change)
 絵名・瑞希: 『K！』
-(Black cut)
+(Black transition)

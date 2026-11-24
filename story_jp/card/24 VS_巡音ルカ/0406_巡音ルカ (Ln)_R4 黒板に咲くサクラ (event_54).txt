@@ -11,15 +11,11 @@ Gacha phrase: これで、いつでも桜を見られるわね
 
 ルカ: んー……
 ルカ: （あのセカイで見た景色……。 とても不思議だったわ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: （木の枝でキラキラしている想いの中に 一歌達の想いもあって……）
 ルカ: ……あら、いいところにチョークがあるわね
@@ -32,13 +28,13 @@ Gacha phrase: これで、いつでも桜を見られるわね
 ルカ: ——いえ、そうね。 たしかにその手があったわ！
 ルカ: ミク、ありがとう。 おかげでこのセカイでも桜が見られそうよ
 ミク (Ln): え？
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: みんな、練習のあとで疲れてるのに つきあってくれてありがとう
 一歌: ううん、気にしないで
 咲希: それで、アタシ達に見せたいものってなんですか？
 ルカ: ふふ。それは教室に入ってからのお楽しみよ。 さあ、どうぞ
-(Black cut)
+(Black transition)
 (Background change)
 リン: 待ってたよー！
 志歩: え、リン達まで？
@@ -87,7 +83,7 @@ MEIKO: あはは。そんな細かいこと気にしなくていいんじゃな�
 MEIKO: そうそう。さあて、私も負けてられないな！
 ルカ: ふふ。私も言い出しっぺだし、頑張らないとね
 ルカ: （どんな桜の木が完成するのか、楽しみだわ）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -136,16 +132,12 @@ KAITO: ……まずは桜餅、かな
 ルカ: ふふ。それはよかったわ
 ルカ: （でも、そのヒントをくれたのはミクなのよね）
 ルカ: （だって、私があの時描こうとしていたのは 不思議なセカイにあった想いの木だったから）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 ルカ: （あの木、きっとまだまだ若木よね）
 ルカ: （でも、あの木の枝に実っていた一歌達の想いは とてもキラキラしていたわ）
 ルカ: （あの輝きがある限り、 あの木もどんどん“成長”を続けていくんでしょうね）
@@ -155,4 +147,4 @@ MEIKO: 早く決めないと、リンが全部食べちゃうよ？
 リン: そんなことしないよー！ ルカ姉、まだちゃんと全部の種類残ってるからね？
 ルカ: ふふ。ありがとう、みんな
 ルカ: じゃあそうねえ。 三色団子にしようかしら
-(Black cut)
+(Black transition)

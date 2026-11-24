@@ -43,7 +43,7 @@ MEIKO: That's a tough conversation it sounds like you're having there.
 Kohane: Oh, MEIKO.
 MEIKO: Here's your cafe au lait.
 MEIKO: Would you like anything else...?
-(Black cut)
+(Black transition)
 MEIKO: Hmm... Being more confident in yourself...
 MEIKO: Have you ever done anything that made you genuinely feel confident about yourself before, Kohane?
 Kohane: Um... Maybe...
@@ -72,12 +72,12 @@ Kohane: But you guys are all so cool and good at what you do...
 Kohane: That's why I want to learn how to do what you're already doing.
 MEIKO: You have a talent for seeing the good in people, Kohane.
 Kohane: Huh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000086/bg_a000086.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000086/bg_a000086.webp)
 MEIKO: You have a wonderful heart that finds the best in others and an ability to establish goals based on those qualities.
 MEIKO: But I also agree that you could commit to yourself more. Have more confidence in yourself, you know...?
 MEIKO: Believe in the part of you that can see those qualities in people.
-(White cut)
+(White transition)
 (Background change)
 Kohane: Oh...
 Kohane: Is that what that means?
@@ -88,4 +88,4 @@ Kohane: Thanks, An.
 Kohane: I'm still not sure about how I'm supposed to feel more confident about myself...
 Kohane: But I'll keep trying and do what I can!
 An: Great...!
-(Black cut)
+(Black transition)

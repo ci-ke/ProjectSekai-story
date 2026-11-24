@@ -12,47 +12,39 @@ Gacha phrase: 練習……つきあってくれる？
 一歌: ……はあ……
 一歌: あ……私、作業画面開いたまま出かけちゃったんだ。 ……ただいま、ミク
 一歌: ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ♪————！
 ライブハウスの客達: ……どう思う？
 ライブハウスの客達: うーん…… あんま、好みではないかも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 初めてのライブの時もあんまりノってもらえなかったけど……。 あそこまで手応えを感じられなかったのは、初めてかも……
 一歌: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: 朔さんはアタシ達の曲を聴いて、どう思いましたか……？
 朔: かわいいと思ったよ
 咲希: ……！ ホントですかっ！？
 朔: でも——私の胸に響くものはなかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 胸に響くもの、か……
 一歌: （歌詞が、もっとお客さんに届く言葉だったら 結果は違ったのかな）
 一歌: （それだけじゃない、 作曲で、私がもっと咲希の力になれてたら……）
 一歌: …………
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ——♪　——♪
-(Black cut)
+(Black transition)
 (Background change)
 一歌: （初めて歌ってくれた時はあんなに嬉しかったのに……）
 一歌: こんな音でしか歌わせてあげられなくて、ごめんね
-(Black cut)
+(Black transition)
 一歌: ……ん…………
 一歌: （いつの間にか眠っちゃってたんだ……。 今、何時だろう……）
 一歌: あ……志歩からメッセージが来てる
@@ -83,7 +75,7 @@ Gacha phrase: 練習……つきあってくれる？
 一歌: 『咲希、ありがとう』
 咲希: 『え？　アタシ、何かしたっけ？』
 一歌: 『秘密だよ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -115,15 +107,11 @@ Gacha phrase: 練習……つきあってくれる？
 一歌: （『どうしてアタシだけ』、『検査したくない』——）
 一歌: （『明日なんて来なければいいのに』……）
 一歌: （咲希……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （やっぱり、入院生活はすごくつらかったんだな……。 なのに、心配させないようにっていつも笑って……）
 咲希: ……い、いっちゃん？
@@ -149,4 +137,4 @@ Gacha phrase: 練習……つきあってくれる？
 一歌: ……当たり前だよ
 一歌: 咲希、この曲に負けないくらい、 咲希に寄り添って、胸に響く歌詞を書いてみせるから
 咲希: うん……！
-(Black cut)
+(Black transition)

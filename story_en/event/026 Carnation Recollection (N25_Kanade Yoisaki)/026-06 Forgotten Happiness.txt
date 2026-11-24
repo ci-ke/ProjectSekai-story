@@ -5,11 +5,9 @@
 [Nonogi Park]
 
 Kanade: This place...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Little Kanade (Kanade): Thank you for the meal!
 Kanade's Father: Hm? Kanade, you have something on your cheek.
 Little Kanade (Kanade): I do? Where?
@@ -32,7 +30,7 @@ Little Kanade (Kanade): Mommy, look! The butterfly stopped on the flower!
 Kanade's Mother: Yes, I see. Butterflies love to eat flower nectar very much, so it must be lunchtime for it too.
 Little Kanade (Kanade): It's eating a flower for lunch? Do flowers taste good...?
 Kanade's Father: Oh, that's right...
-(Black cut)
+(Black transition)
 Little Kanade (Kanade): What are these flowers called?
 Kanade's Mother: These are carnations. They're my favorite type of flower.
 Little Kanade (Kanade): Car-nay-chons?
@@ -40,7 +38,7 @@ Kanade's Mother: Hehe. Carnations, dear. Oh...?
 Little Kanade (Kanade): Daddy's playing his guitar!
 Kanade's Mother: Kanade, wait! Please don't run off like that!
 Kanade's Mother: Hehe...
-(Black cut)
+(Black transition)
 Little Kanade (Kanade): Let's give daddy a big round of applause!
 Little Kanade (Kanade): Which song was that called?
 Kanade's Father: That one? Well, I sort of just played it off hand, so it doesn't really have a name...
@@ -62,21 +60,19 @@ Kanade's Mother: Oh, I do?
 Kanade's Mother: I suppose I just can't help it...
 Kanade's Mother: Your father's music always finds a way to make me smile.
 Little Kanade (Kanade): Yeah, me too...! I love the music daddy plays!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: This is it...
 Mizuki: Huh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000082/bg_a000082.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000082/bg_a000082.webp)
 Kanade: This is what my parents and I saw.
 Mizuki: What?! But this isn't really a glamorous flower field. It's just a bunch of flower beds...
 Mizuki: No, I got it! You came when you were little, so it looked a lot bigger than it really was!
 Kanade: Yes, you may be right. Sorry for the confusion...
 Mizuki: No, that's totally fine! I'm just glad that we found it! There really are a lot of carnations here, huh?
-(White cut)
+(White transition)
 (Background change)
 Kanade: Yes... It's so nostalgic...
 Kanade: (Oh...)
@@ -123,4 +119,4 @@ Kanade: I was able to look back on what happened then with a more open mind than
 Mizuki: But I didn't really do...
 Mizuki: Oh, right...
 Mizuki: You're very welcome, Kanade.
-(Black cut)
+(Black transition)

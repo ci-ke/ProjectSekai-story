@@ -32,21 +32,17 @@ Emu: What?
 Rui: Why do you say that?
 Mafuyu: Why...? Because... It's true, I guess...?
 Mafuyu: Looking at the people around me...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: We worked very hard to make sure we're able to spread hope to as many people as we can.
-(White cut)
+(White transition)
 (Background change)
 Honami: We want to go pro together, so we're doing everything we can to make that happen.
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: It's just how I feel...
 Mafuyu: There's nothing that I actually want to do...
@@ -59,8 +55,8 @@ Rui: This is just my hunch, but I got the sense that there is something that you
 Mafuyu: ...
 Mafuyu: Are you sure? I really don't think so...
 Rui: ...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000119/bg_s000119.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000119/bg_s000119.webp)
 Rui: It could be that you just haven't realized it yet.
 Mafuyu: Huh...?
 Rui: The truth is, when I was little, I also didn't know what I wanted to do or become.
@@ -71,7 +67,7 @@ Rui: However, I realized later that I was really looking for others to do my sho
 Mafuyu: ...
 Rui: I wasn't able to realize that because I'd given up on that hope. I'd convinced myself that no one else would want to work with me.
 Rui: But I met the others, was asked how I truly felt and was able to identify my real beliefs.
-(White cut)
+(White transition)
 (Background change)
 Emu: Rui...
 Rui: That was when it dawned on me...
@@ -97,22 +93,18 @@ Emu: Yay! Thank you so much!
 Rui: Hehe. I know we're asking quite a bit of you, but please stop by if you like.
 Rui: Anyway, if you'll excuse us. Again, thank you very much for treating me.
 Mafuyu: A show...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Rui: Understanding how you truly feel is much more difficult than you would expect.
 Rui: Which is why I thought you were going through the same dilemma, Asahina...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mafuyu: What do I want to do...?
 Passerby: Hey, let's check out the stage. It says they're amateurs, but I know they're really good!
 Mafuyu: (Oh, it's already this late...)
 Mafuyu: (I'm only supposed to work until 5:00 pm, so...)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Backstage]
@@ -122,7 +114,7 @@ Nene: What do we do...? What if something happened to them...?
 Akito: Tsukasa! Kusanagi!
 Tsukasa: Akito! Have you seen Rui and Emu?! They were supposed to be testing one of our devices but can't seem to find them...
 Akito: Yes, about that...
-(Black cut)
+(Black transition)
 Tsukasa: What?! Rui got injured?!
 Nene: He said he's at the first aid tent... Shouldn't we go over and see how he's doing...?!
 Tsukasa: Yes, we shouldn't just be standing around! We should go to him at once and...
@@ -145,7 +137,7 @@ Akito: Yes?
 Tsukasa: Thank you for helping Rui and taking him to the first aid tent!
 Nene: And thank you for calming us down. That actually helped a lot.
 Akito: You're welcome. To be fair, I really didn't do anything special. Anyway, later.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage Area]
@@ -161,7 +153,7 @@ Kanade: That's okay. I'm sure you're tired from volunteering.
 Mizuki: I'm glad you made it in time! Li'l Bro and his team are about to take the stage!
 Ena: Speaking of which, we only saw him perform with his partner during the Summer Festival. I wonder what they're like as a full unit.
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Backstage)
 Kohane: This is it. And the audience sounds really excited.
@@ -190,7 +182,7 @@ Akito: Get ready, Kamishiro! We're gonna blow the roof off this place!
 Rui: Hehe. So you say...
 Akito: Alright, you guys! Get ready to give it everything you've got!
 An, Kohane & Toya: Yeah! Yes!
-(Black cut)
+(Black transition)
 (Background change)
 An: Hey, we're Vivid BAD SQUAD! How are you all doing?! Are you guys having fun?!
 Akito: We're gonna put the pedal to the metal! So hang on tight!
@@ -211,4 +203,4 @@ Rui: Hehe... They probably pushed themselves quite a bit to get to this point.
 (Background change)
 Mafuyu: (Their singing's so loud... My ears kind of hurt.)
 Mafuyu: (But...)
-(Black cut)
+(Black transition)

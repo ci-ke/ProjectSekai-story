@@ -59,16 +59,12 @@
 瑞希: （こんなにまっすぐボクのことを考えてくれる絵名に、 ちゃんと応えたい）
 瑞希: （ちゃんと信じて、全部話したい）
 瑞希: （絵名ならきっと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ——変なの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……………………
 絵名: ……瑞希？
@@ -103,5 +99,5 @@
 絵名: また夜にね！
 瑞希: ……うん！　またナイトコードでね！
 瑞希: ——ごめんね、絵名
-(Black cut)
+(Black transition)
 (Video: 05_night_ed1)

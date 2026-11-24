@@ -40,7 +40,7 @@
 絵名: いいの？　ありがと、愛莉！
 愛莉: 会場は……乃々木公園ね！ 行きましょ！
 絵名: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [乃々木公園]
@@ -59,4 +59,4 @@
 絵名: そうだね……
 ？？？: ——あれ？　愛莉先輩と、絵名さん？
 愛莉・絵名: 『えっ？』
-(Black cut)
+(Black transition)

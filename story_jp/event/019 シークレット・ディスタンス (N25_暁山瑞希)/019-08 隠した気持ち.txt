@@ -2,19 +2,19 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, MEIKO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [電車の中]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000066/bg_a000066.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000066/bg_a000066.webp)
 瑞希: （……ふふ、みんな寝ちゃった）
 瑞希: （普段こんなに歩き回ることなんてないだろうから、 疲れちゃったよね）
 瑞希: （……奏と絵名は夜も作業してるし、 まふゆは昼に学校行ってるからやること多いし）
 瑞希: （それなのにつきあってくれて……嬉しかったな）
 瑞希: （今度はあんまり歩き回らなくてすむような コースを考えなくっちゃね）
-(White cut)
+(White transition)
 (Background change)
 瑞希: （——初めてかもしれないな。 誰かと、来年も一緒にいたいなんて思うの）
 瑞希: （……今までは、そんなこと全然思わなかったのに）
@@ -23,29 +23,21 @@
 瑞希: （……だけど）
 瑞希: （なんだろう、この感じ。 胸の奥がつかえてるみたいな気がする）
 瑞希: （一体、なんで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: これからも、あの子達と一緒にいられるといいわね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……これからも……？）
 瑞希: （これからも一緒にいるなら、 ボクは……伝えるのかな）
 瑞希: （ボクのことを、みんなに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………ああ、そっか
 瑞希: （話せないって思ってるんだ）
@@ -59,7 +51,7 @@ MEIKO: これからも、あの子達と一緒にいられるといいわね
 瑞希: ボクが一番、何も伝えられてないじゃないか……
 絵名: ん……
 絵名: （瑞希……？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -98,15 +90,11 @@ MEIKO: これからも、あの子達と一緒にいられるといいわね
 絵名: ……うん。じゃあ、またね。 あ、次の曲の素材、明日送るから見といてよ
 瑞希: オッケー！　じゃ、バイバーイ！
 絵名: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 見間違いじゃ……なかったよね……？
-(Black cut)
+(Black transition)

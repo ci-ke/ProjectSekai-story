@@ -4,7 +4,7 @@ Noticing how Mafuyu feels more at home surrounded by N25 puts a smile on Mizuki'
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama, Hatsune Miku)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Late at night]
@@ -71,15 +71,11 @@ Mafuyu: <However... I'll have my hands full with cram school starting next week,
 Mafuyu: <Also, I have another practice exam coming up soon.>
 (Background change)
 Mizuki: (Another practice exam...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: <Um, Yuki...? How have things between you and your mom been recently?>
 (Background change)
@@ -132,16 +128,12 @@ Mafuyu: <I should be fine... Also...>
 Mafuyu: <I feel the most at ease when I'm working here...>
 (Background change)
 Mizuki: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (N25): Mafuyu seems to be most at ease whenever she's creating music with all of you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Background change)
 Kanade: <Mafuyu...>
@@ -169,7 +161,7 @@ Kanade: <Um... I'll be logging off temporarily to take a break.>
 Ena: <Okay. See you in a bit, K.>
 (Background change)
 Mizuki: <Alright, let's get started! So...>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: <Okay, let's run with that! If you'll take what we just discussed and make those changes to the storyboard...>
 (Background change)
@@ -186,30 +178,22 @@ Ena: <I mean, how long have we known each other now? Lately, I feel like I've be
 Mizuki: <Oh...>
 Mizuki: (We have known each other for pretty long, huh...?)
 Mizuki: (I guess, since that time...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Back then... I never saw myself being with anyone for very long.)
 Mizuki: (Probably because I'm...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: <I feel the most at ease when I'm working here...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (I'm just like Mafuyu...)
 (Background change)
@@ -219,7 +203,7 @@ Ena: <Huh? What's that supposed to mean? I always pay close attention.>
 Mizuki: <And that makes me really happy! So, Enanan, thank you!>
 Ena: <Okay, okay. You're welcome... Anyway, let's get back to work.>
 Mizuki: <Okay!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -232,4 +216,4 @@ Mizuki: Seafood curry?! Sweet! You're the best, Mom♪
 Mizuki's Mother: <Oh, your sister sent you a package. I'll leave it down in the living room.>
 Mizuki: Huh...?
 Mizuki: From Sis...?
-(Black cut)
+(Black transition)

@@ -24,15 +24,11 @@
 杏: 『え〜、そんなことしてたの〜？』
 こはね: （……よかった）
 こはね: （私達の歌が、お客さん達にまっすぐ伝わって——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……すごい景色だったな）
 こはね: （あれ以上の景色を、本戦でも——！）
@@ -66,16 +62,12 @@
 こはね: （でも……どうして？）
 こはね: （DGさんってたしか、すごいミュージシャンで、 今は世界的な音楽プロデューサーなんだよね……）
 こはね: （そんな人が、なんでわざわざ直接——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エレナ: あいつがアタシ達に優しくしてたのは、 アタシ達が“商品”だからだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ダグラス: いきなりこんなことを言われて、困るのは当然だ。 申し訳ない
 こはね: あ……いえ、すみません！ ちょっと、びっくりしてしまって……
@@ -100,4 +92,4 @@
 彰人: 返信にそんな気合い入れなくてもいいだろ
 こはね: （でも——）
 こはね: （話したいって、どういうことだろう？）
-(Black cut)
+(Black transition)

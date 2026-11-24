@@ -25,29 +25,25 @@ Gacha phrase: そのケーキ、好きなわけじゃないの
 奏: お父さんもそう思ってるから、 まふゆを預けてくれたんだと思うし
 まふゆ: …………
 奏: あ……来たのかも。 ……見てくるね
-(Black cut)
+(Black transition)
 
 [数時間後]
 
 まふゆ: （……少し休みすぎたな。 お父さんが帰ってから、もう２時間も経ってる……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆの父: ……まふゆ、何か思っていることがあれば 言ってもいいんだぞ
-(White cut)
+(White transition)
 まふゆ: …………
 まふゆ: 本当は——そのケーキ、好きなわけじゃないの
-(White cut)
+(White transition)
 まふゆ: 前から、あんまり……味が、わからなくて
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: （言って、よかったのかな……）
 まふゆ: （あのケーキのことも、味がわからないことも……）
 まふゆ: ケーキ、早めに食べないと……。 奏、作業中かな……
-(Black cut)
+(Black transition)
 まふゆ・奏: 『いただきます』
 まふゆ: ……お茶、熱いから
 奏: ありがとう
@@ -66,7 +62,7 @@ Gacha phrase: そのケーキ、好きなわけじゃないの
 まふゆ: …………
 奏: 今は、『これでよかったんだ』って 信じてもいいんじゃないかな
 まふゆ: そうだね……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,7 +94,7 @@ Gacha phrase: そのケーキ、好きなわけじゃないの
 まふゆ: でも、自立を促すのも 友達として必要かもしれないよね
 クラスメイトA・B: 『ええー！？』
 まふゆ: 冗談だよ。 さあ、続きをやろ？
-(Black cut)
+(Black transition)
 (Background change)
 
 [昼休み]
@@ -142,4 +138,4 @@ Gacha phrase: そのケーキ、好きなわけじゃないの
 まふゆ: （でも——）
 まふゆ: （さっきよりは、ちゃんと食べようって思えてる）
 まふゆ: （……ミク達が来てくれて、よかったな）
-(Black cut)
+(Black transition)

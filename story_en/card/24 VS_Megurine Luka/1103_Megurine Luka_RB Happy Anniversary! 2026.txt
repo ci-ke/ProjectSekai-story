@@ -26,7 +26,7 @@ Luka (N25): That's right. I find that it would feel more like a proper celebrati
 Kanade: I see. Okay.
 Mizuki: In that case, we better choose carefully to put a smile on Luka's face! Be sure to look forward to it♪
 Luka (N25): I will. Please don't forget the candles as well.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Luka's Anniversary]
@@ -74,7 +74,7 @@ Ena: I guess the earlier the better, right? I'll go next—
 Mizuki: Whoa, wait, hold up. You can't just slide in like that. Let's play fair and do rock, paper, scissors!
 Mafuyu: Was this what Luka wanted?
 MEIKO (N25): Who knows.
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Alright, let us now recommence!
 Mizuki: First up is... Ena, because somehow she managed to win. All yours!
@@ -93,7 +93,7 @@ Everyone: Happy anniversary.
 Luka (N25): *Blow*
 Luka (N25): Hehe. Thanks to all of you, this will be an anniversary to remember.
 Luka (N25): Now, why don't we have some cake? I can't wait to see what kind of party today will turn out to be.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,30 +120,30 @@ Luka: Then let's keep this momentum up and start the show. As for our first song
 Luka: Miku, Rin, MEIKO. Will you sing with me?
 Rin: Sure thing! I'll be sure to show the fruits of my labor!
 Luka: Hehe, I'll be counting on you. Alright... Start the music!
-(Black cut)
+(Black transition)
 (Background change)
 Rin: C'mon everyone! Let's have as much fun as we can!
 Miku: I want to see more of your smiles♪ Here we go!
 Miku, Rin, Luka & MEIKO: ♪——! ♪————!
-(Black cut)
+(Black transition)
 Luka: For the next song... Len, KAITO. If you please.
 KAITO: The first song already brought in so much energy, but... We can't let it stop there, Len!
 Len: Yeah! I'll make sure my feelings come through my singing. All to celebrate Luka's special day!
 Luka: Hehe, I'll cherish this chance to sing with both of you. Now, this next song is going to have a rock-like feel...
 KAITO, Luka & Len: ♪——! ♪——! ♪——!
-(Black cut)
+(Black transition)
 Luka & MEIKO: ♪——! ♪————!
 Rin: Hey! MEIKO, that's unfair! I want to sing with Luka too!
 MEIKO: Oh my. Unfortunately for you, I have no intention of giving my spot to you today.
 Rin: What?!
 Luka: In that case, why don't we sing together from this part? Come, let's do it!
 Rin, Luka & MEIKO: ♪————! ♪————!
-(Black cut)
+(Black transition)
 Miku: Are you ready, Luka?
 Luka: Yes, of course. Let's give everyone our best performance.
 Luka: And translate the venue's energy into song...
 Miku & Luka: ♪————————!
-(Black cut)
+(Black transition)
 Luka: Thank you for listening, everyone!
 KAITO: You did amazing in your solo, Luka! Everyone here and at home was super energetic!
 Luka: Yes. It felt like everyone's voices gave me the push I needed. I had so much fun singing as well.
@@ -156,8 +156,8 @@ Luka: I'll be counting on all of you, as well.
 Miku: You got it!
 Miku: Well, so that we can give it our all in the last spurt...
 Miku: Luka, we have prepared messages for you!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000406/bg_s000406.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000406/bg_s000406.webp)
 Miku: Happy anniversary, Luka! Your songs resonate in my heart. And I know that they also give courage to a lot of others.
 Miku: It makes me so happy to sing next to you and help your feelings get across to those people. Looking forward to more years with you, Luka!
 Rin: Hehehe. Getting to see you perform a cool solo and having so much fun singing with everyone just made my day♪
@@ -168,7 +168,7 @@ MEIKO: Happy anniversary, Luka! You're always so calm and attentive that I alway
 MEIKO: But just remember, you can lean on me too, okay? So when you do, feel free to launch yourself at me♪
 KAITO: Luka. You've been so amazing in today's show. Your singing and dancing were more amazing than ever, and even though I was right there next to you, I was spellbound.
 KAITO: Your performances are just so enchanting. Once again, happy anniversary! There's only a little left to go, so let's keep this energy until the very end!
-(White cut)
+(White transition)
 (Background change)
 MEIKO: Alright everyone, are you all ready? Here we go!
 Everyone: Happy anniversary, Luka!
@@ -182,4 +182,4 @@ Luka: It makes me happy to hear that. Alright...
 Luka: Let's sprint to the finish!
 Everyone: Yeah!
 Luka: Let's all have a great time until the very end! The next song is—
-(White cut)
+(White transition)

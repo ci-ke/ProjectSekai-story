@@ -67,7 +67,7 @@ Ichika: ... Oh no. I'm getting nervous again.
 Honami: Then... Why don't we talk more about food?
 Ichika: Yes, please.
 Honami: Hehe. No problem. Besides the mushroom rice, I plan on making a different rice dish...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -82,7 +82,7 @@ Honami: Now, I'd like to use the same coloration for the previous cut. Um, I'll 
 Honami: These colors aren't quite the same. But the numbers say they are...
 Honami: Is it my eyes? Am I getting tired...?
 Honami: *Sigh* I think I'll take a break in SEKAI and look at the stars.
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI - Rooftop]
@@ -116,7 +116,7 @@ Miku (Ln): I mean, it's cool how you're doing everything you can for the sake of
 Miku (Ln): You're an incredible person, Honami, so you should have confidence in yourself.
 Honami: ...!
 Honami: I will! Thank you, Miku!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ichika's Room]
@@ -125,7 +125,7 @@ Ichika: Hm? A message from Honami?
 Honami: <Thank you for suggesting that we go with a darker tone for our video. It's turning out really well as a result.>
 Honami: <Please feel free to ask for help if you ever think you need it, Ichika. I want to help in any way I can!>
 Ichika: Honami...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Honami's Room)
 Ichika: <Honami, you're still up? No need to worry. I've been making progress bit by bit.>
@@ -134,10 +134,8 @@ Ichika: <For now, let's both keep doing our best!>
 Honami: That's good to hear.
 Honami: For the sake of others...
 Honami: Ichika might be the one who taught me the value of that.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Elementary School Honami (Honami): G-Give me my hat back...!
 Elementary School Boys: Heh heh. If you really want it back, take it back. Hey, catch!
@@ -147,12 +145,10 @@ Elementary School Ichika (Ichika): Heeey!!!
 Elementary School Honami (Honami): Uh oh...!
 Elementary School Ichika (Ichika): Leave Honami alone you big bullies!!!
 Elementary School Boys: It's Hoshino! Run!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (She got all muddy in the process, but she got my hat back for me...)
 Honami: I want to learn how to be more helpful. I want to learn to be cool... Like her.
 Honami: Okay!
-(Black cut)
+(Black transition)

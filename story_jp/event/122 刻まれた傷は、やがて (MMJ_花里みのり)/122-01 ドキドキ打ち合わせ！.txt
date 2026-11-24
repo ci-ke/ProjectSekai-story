@@ -12,10 +12,8 @@ MORE MORE JUMP！の活動拠点として『モアモアハウス』を設立す
 川西: それでは早速ですが……。 皆さんは、お仕事の拠点となる物件をお探しなんですよね
 みのり: はいっ！
 みのり: （わたし達の拠点…… 『モアモアハウス』……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: モアモアハウス～～っ！？！？
 (Background change)
@@ -34,10 +32,8 @@ MORE MORE JUMP！の活動拠点として『モアモアハウス』を設立す
 斎藤: ……なんにせよ、詳しいことは不動産屋に 相談してみるのがいいかもしれませんね
 斎藤: 予算のこともありますし、なるべく安くできそうで、 かつ信頼をおけそうな会社を探してみます
 斎藤: 私はしばらく、ここを離れられないのですが…… 良さそうな会社が見つかったら連絡しますので、 待っていてください！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （これから、どんなおうちに会えるんだろ……）
 みのり: （楽しみだなあ……！）
@@ -63,18 +59,14 @@ MORE MORE JUMP！の活動拠点として『モアモアハウス』を設立す
 雫: すごいわね……。 まさか、おうちに露天風呂があるなんて
 みのり: う、うん……。 アイランドキッチンに露天風呂……
 みのり: そんなおうちで過ごしてたら——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: みのり、配信お疲れさま。 今日はみのりを元気づけるために、サーモンのポキを作ったよ。 いっぱい食べて、また明日頑張ろうね
-(Black cut)
+(Black transition)
 遥: みのり、お風呂もう出たの？ 髪の毛濡らしたままだと風邪ひくよ。 ドライヤーかけてあげるからこっち来て
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: な～～んてことになっちゃって、 心臓バクバク新生活が始まっちゃうよ～～っ！
 遥: みのり……
@@ -92,7 +84,7 @@ MORE MORE JUMP！の活動拠点として『モアモアハウス』を設立す
 みのり: わあ、内見……！
 遥: それじゃあ、１件ずつ見せてもらおうか
 みのり: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -117,4 +109,4 @@ MORE MORE JUMP！の活動拠点として『モアモアハウス』を設立す
 愛莉: まったく……
 みのり: えへへ……
 みのり: （いろんな候補の中から選ぶのは大変だと思うけど…… しっかり内見して、最高のモアモアハウスにしたいな！）
-(Black cut)
+(Black transition)

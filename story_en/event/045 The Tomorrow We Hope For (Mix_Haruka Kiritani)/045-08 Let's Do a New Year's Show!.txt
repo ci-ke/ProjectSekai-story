@@ -19,7 +19,7 @@ Tsukasa: Well, this is his time of year to shine... But we wouldn't want to caus
 Tsukasa: Anyway, let's head in!!
 Haruka: Okay, that's it for my second break. I should be able to make it through to the evening now.
 Haruka: Hm...? A dancing lion...? What's it doing over there...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shrine Hall]
@@ -44,7 +44,7 @@ KAITO: <Ah, that would be perfect! Thank you, Rui.>
 Rui: You're very welcome. It's the least we can do for all of you.
 Rui: Emu, would you kindly draw fortunes for the others in their stead?
 Emu: For all of them? Okay, got it! Including me that's... Seven!
-(Black cut)
+(Black transition)
 Emu: I got a “great blessing”!
 Emu: Oh, I got another one! And another!! And another!! Wow, this one's a “great blessing” too!!
 Tsukasa: H-How can anyone be this lucky...?!
@@ -52,14 +52,14 @@ Rui: Seven “great blessings” in a row. What are the odds? At this point, it 
 Nene: That'd completely defeat the purpose of coming here...
 Emu: Hah hah hah! All “great blessings”!
 Minori: Th-That's unbelievable, Emu...! Please try to share some of your luck with Honami if you can...!
-(Black cut)
+(Black transition)
 Tsukasa: Alright, that's a “great blessing” for all of you... That just leaves...
 ???: Huh? Tsukasa, is that you...?
 Tsukasa: Hm? Well, hello!!
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: Huh...?! Was someone yelling just now...? Wait, what if it's an accident...?!
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: It's wonderful to see you, Shizuku! How long has it been?!
 Shizuku: I thought it was you, Tsukasa! It's been quite a while.
@@ -100,7 +100,7 @@ Tsukasa: Yes, you definitely have a point...! Thankfully, she doesn't appear to 
 Emu: Yeah!
 Nene: H-Hey, wait! E-Excuse us, Hinomori... A-And Kiritani...!
 Shizuku: Hehe. There they go... Tsukasa's friends seem like such wonderful people.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Shrine Grounds)
 Child: Waaah!
@@ -128,4 +128,4 @@ Nene: Hehe. I'm glad everything worked out. But the shrine might not be happy wi
 Haruka: A show at a shrine...
 Haruka: That reminds me... I remember hearing some people wishing to be able to make everybody smile.
 Haruka: That must've been Otori and her friends...
-(Black cut)
+(Black transition)

@@ -7,16 +7,12 @@
 奏: （……お父さん、元気そうでよかったな）
 奏: （今日は少しだけ話せたし…… 帰ったら、曲作りも頑張れそう）
 奏: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: それなら、次は…… その思い出をイメージして、曲を作ってみるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……あたたかい、思い出……
 ？？？: 『——奏』
@@ -38,15 +34,11 @@
 奏: わたしの中だと、真逆の印象だから
 リン (N25): 『真逆？』
 奏: うん。この前、会ったとき——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……冷たいって、感じて
 リン (N25): 『冷たい……』
@@ -101,4 +93,4 @@
 奏: ……あ……
 奏: あの、もしよければ——
 奏: まふゆのお母さんについて、教えてくれませんか？
-(Black cut)
+(Black transition)

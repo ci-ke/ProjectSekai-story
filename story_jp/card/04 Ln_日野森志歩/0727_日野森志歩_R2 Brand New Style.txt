@@ -36,12 +36,10 @@ Skill name: 念願の？
 咲希: そういえば、しほちゃんは次の委員会決めたの？
 志歩: 別に入らなきゃいけないわけじゃないし、 特に考えてなかったけど……
 志歩: （……そういえば、前にこはね達と……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 志歩: ここって……
 こはね: うさぎの飼育小屋だよ。 今日、私とみのりちゃんが掃除当番の日なんだけど……
@@ -50,10 +48,8 @@ Skill name: 念願の？
 こはね: よかったら、志歩ちゃんも抱っこしてみる？
 志歩: 私は……飼育委員じゃないし必要ないと思うけど
 志歩: ……でも、掃除の手伝いで必要なら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （……あれは、悪くなかったな）
 咲希: おやおや～？ その顔は、何かやりたいことがあるって顔ですな～？
@@ -82,7 +78,7 @@ Skill name: 念願の？
 志歩: もう、そういうのはいいから
 志歩: （でも……）
 志歩: （あの子達に触れるの、楽しみだな……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -94,16 +90,12 @@ Skill name: 念願の？
 志歩: （あ……健康診断の結果の紙、出しっぱなしにしてた。 お昼行く前にしまっておかなくちゃ）
 志歩: （身長……159センチ……）
 志歩: （別に、身長なんてどうだっていいけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: えっへん！　アタシのほうが しほちゃんよりお姉さんってことだよね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………
 志歩: （……なんで１年もあったのに、 少しも伸びてないんだろう）
@@ -122,7 +114,7 @@ Skill name: 念願の？
 志歩: ……そうだった
 志歩: ごめん、ちょっと待ってて。 購買に行ってくるから
 咲希: あ、しほちゃん今日お昼購買なんだ。 じゃあ、えむちゃんと席作って待ってるね！
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -155,4 +147,4 @@ Skill name: 念願の？
 志歩: ……咲希
 志歩: （別に……身長のことなんて、 そんなに気になってるわけじゃないけど……）
 志歩: （帰りも牛乳買って、いつもより早めに寝ようかな）
-(Black cut)
+(Black transition)

@@ -55,7 +55,7 @@
 絵名: 『雪を救う曲が作れなきゃ意味ないってわかってるけど、 そんなに急いでも、いいものは作れないと思うし』
 奏: 『……ありがとう、えななん』
 絵名: 『うん……』
-(Black cut)
+(Black transition)
 (Background change)
 奏: また、駄目だった……
 奏: （少しずつ、何かを感じてもらえる曲も増えてきたけど、 それだけじゃ……）
@@ -63,7 +63,7 @@
 奏: …………
 奏: ……駄目だ、考えてても前には進まない
 奏: 今はとにかく、作らなきゃ——
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -73,25 +73,21 @@
 まふゆの友達: じゃあね、まふゆ！ また明日！
 まふゆ: うん、また学校で
 まふゆ: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏: 『どうかな、雪』
 まふゆ: 『…………』
 まふゆ: 『よくわからない』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: （今までは、奏の曲を聴いてると、 胸が痛くなったり、少し気持ちが楽になったりした）
 まふゆ: （今も……何かを感じる、のかもしれない。 胸の奥がモヤモヤするような気がするから……）
 まふゆ: （でも……それが何かはわからない）
 まふゆ: （このモヤモヤは、一体なんだろう……）
 まふゆ: ……わからない……
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -99,7 +95,7 @@
 奏: ……できた
 奏: （……うん。今回のデモは、良くできてる気がする）
 奏: （この曲なら——）
-(Black cut)
+(Black transition)
 奏: 『——みんな、おまたせ。 新しいデモができたよ』
 (Background change)
 絵名: 『お疲れさま、K。 もうできたんだね』
@@ -111,20 +107,16 @@
 奏: 『雪？』
 まふゆ: 『なんでもない。聴かせてくれる？』
 奏: 『うん。今、ナイトコードに……あ』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: 『……ちょっと提案なんだけど、 今回のデモは、セカイで一緒に聴かない？』
 まふゆ: 『え？』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -162,7 +154,7 @@
 奏: （まふゆは、どうだろう。 何か感じてくれてるかな）
 まふゆ: …………
 奏: あ……
-(Black cut)
+(Black transition)
 ミク (N25): 綺麗な曲だった
 ルカ: ……そうね、素敵な曲だわ
 奏: ……ううん、全然だよ
@@ -173,7 +165,7 @@
 ルカ: …………
 ルカ: じゃあ——また作ったら、ぜひ聴かせてほしいわ
 奏: ……わかった
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: （……このままじゃ駄目だ）
@@ -181,4 +173,4 @@
 奏: （……でも、最近はそういう風に曲を作っても まふゆに響かないことが多い）
 奏: （もっと、まふゆの心に響くような曲を作らなきゃ ならないのに……）
 奏: どうすれば——
-(Black cut)
+(Black transition)

@@ -13,25 +13,21 @@ Gacha phrase: ……これで、また走り出せる
 杏: みんな、気をつけて帰ってよ？ 特にこはねは可愛いから気をつけてね～
 こはね: わっ！　あ、杏ちゃん、大丈夫だよ
 彰人: ったく……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 洸太郎: って彰人、お前まだトレーニングすんのかよ！？
 彰人: 当たり前だろ、メニューはまだ残ってるからな
 冬弥: そうか。せっかくだから、俺もつきあおう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （まさか、全員でトレーニングすることになるなんてな……）
 彰人: じゃあ、また明日
 こはね・杏・冬弥・洸太郎: 『うん！』 『ああ』 『おう！』
 彰人: （——あれだけ練習したあとだってのに、 なんか体が軽い）
 彰人: （せっかくだし、もうひとっ走りするか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -56,16 +52,12 @@ Gacha phrase: ……これで、また走り出せる
 彰人: だから、なんだよ
 絵名: ……彰人、ひょっとして泣いた？
 彰人: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: …………本当に、よかった……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……なんでそう思うんだよ
 絵名: なんでって、目の横ちょっと赤くなってるみたいだから
@@ -87,7 +79,7 @@ Gacha phrase: ……これで、また走り出せる
 彰人: （くそ……一番バレたくねえヤツにバレちまった）
 彰人: （さすがに冬弥達にはバレてねえ、よな……）
 彰人: はあ……。さっさと風呂入るか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -126,12 +118,12 @@ Gacha phrase: ……これで、また走り出せる
 彰人: んなわけあるか。 食う量くらいちゃんとセーブしてるっての
 達也: だが、食べてはいるんだな
 こはね・杏: 『ふふっ』 『あはははっ』
-(Black cut)
+(Black transition)
 杏: ——それじゃあ、 クリスマスパーティー、スタートってことで！
 杏: かんぱーい！
 みんな: 『かんぱーい！』
 常連客達: 『かんぱーい！』
-(Black cut)
+(Black transition)
 杏の父: ほれ、甘党ども。ハニーワッフルできたぞー！ 悪いが、持ってってくれるか？
 彰人: はい、今行きます！
 杏: みんな、楽しんでるー？ そろそろ歌っちゃうよ！
@@ -153,23 +145,19 @@ Gacha phrase: ……これで、また走り出せる
 大河: それに、お前さんのことをちゃんと気にかけてるヤツらが 他にいるだろうからな
 大河: 俺がどうこう言わなくても、 そいつらが何か言っただろうさ
 彰人: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: （たしかに……冬弥達なんて、 オレが絡まれたって心配して、慌てて来てくれたな）
 大河: おいおい、しみったれた顔すんな。 クリスマスだぞ！
 彰人: いって……！　な、何するんすか！
 大河: はははっ！
 大河: 悩むのも心配かけるのも若さの特権だ。 使えるうちに使っときゃいいんだよ
 彰人: はい、そうします
-(Black cut)
+(Black transition)

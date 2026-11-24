@@ -18,7 +18,7 @@ Skill name: この歌が届くように
 一歌: そうなんだ。見ていい？
 咲希: もちろん！　そのために声かけたんだもん
 咲希: 再生……っと
-(Black cut)
+(Black transition)
 (Background change)
 
 [バーチャル・シンガー　ステージ]
@@ -28,7 +28,7 @@ Skill name: この歌が届くように
 ルカ: ふふ、よかった。 私もみなさんに歌が届くよう 心をこめて歌いますね
 ルカ: それじゃあ、この曲から――
 ルカ: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 咲希: はぁ……ルカさんってステキだよね
 咲希: ミステリアスでクールで、大人の魅力があって
@@ -39,11 +39,11 @@ Skill name: この歌が届くように
 咲希: え？　そんなのあるの？ どんな感じの曲？
 一歌: 検索すればすぐに……あ……
 一歌: 動画探さなくても良さそう。ほら……
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: ――――♪　――――♪
 ルカ: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 咲希: わぁ……！
 咲希: こういう明るくて楽しい歌もあるんだね！ なんか、ルカさんの新しい一面を見たって感じ！
@@ -53,11 +53,11 @@ Skill name: この歌が届くように
 一歌: えっ、今日？ バイトもないし、いいけど……
 咲希: やったー！ ルカさんの歌う曲にチャレンジしちゃおっと
 一歌: はいはい
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: さあ……次はあの曲
 ルカ: ふふ。みなさん、ついてきて下さいね？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -71,7 +71,7 @@ Skill name: この歌が届くように
 ルカ: ふふ、よかった。 私も心を込めて歌わせてもらいますね
 ルカ: それじゃあ、この曲から……
 ルカ: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -99,11 +99,11 @@ Skill name: この歌が届くように
 志歩: まあ、カバーするのはだいたい巡音ルカが歌ってる曲だけど
 咲希: へえ……！ カバーってどんな曲？
 志歩: ん……この前は、確か…… これだったかな……
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: ――――♪　――――♪
 ルカ: ――――♪　――――♪
-(Black cut)
+(Black transition)
 (Background change)
 咲希: わっ、かっこいい……！
 志歩: バンドマンだし、カバーしてるのは、 だいたいこういうロック調の曲が多いかな
@@ -112,9 +112,9 @@ Skill name: この歌が届くように
 咲希: はぁ……いいなぁ……
 咲希: 美人でクールで、英語もすごくて！ こんな大人の女の人、憧れるよね
 志歩: まあね
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: みなさん、ありがとう
 ルカ: イベントはまだまだ続きます
 ルカ: 私達も、もっともっと盛り上げられるように 精一杯歌いますので、期待していてくださいね
-(Black cut)
+(Black transition)

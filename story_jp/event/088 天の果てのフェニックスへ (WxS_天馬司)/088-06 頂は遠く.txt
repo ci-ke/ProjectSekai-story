@@ -27,7 +27,7 @@
 司: （空飛び、燃え盛るフェニックスを捕まえることは、 到底不可能に思える。だが——）
 司: （母の——家族の命が、この一瞬に懸かっているのだ……！）
 司: 『待て！ 絶対に捕まえてやる！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -49,7 +49,7 @@
 類: ただ、僕が無理だと判断した場合、 止めさせてもらうよ
 司: ああ、助かる。 体を壊したらショーにも影響してしまうからな
 司: だが……それまでは、限界までやってみせる！
-(Black cut)
+(Black transition)
 (Background change)
 司: はぁ……はぁ……
 キャストA: 天馬、ペースが落ちているぞ！ ついてこーい！
@@ -62,7 +62,7 @@
 司: その上、まったく見知らぬ土地だ。 ……そうだ。ならば前に漂着した無人島をイメージするのも……
 えむ: 司くん……
 えむ: （がんばれ、司くん……！！）
-(Black cut)
+(Black transition)
 (Background change)
 司: 『待て……っ！　あっ！』
 司: 『今度こそ……今度こそ捕まえたと思ったのに！！』
@@ -73,15 +73,11 @@
 えむ: …………
 司: （…………まだ駄目だ）
 司: （それなりのものにはなっている。 だが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （オレのリオはまだ、生きていない……）
 司: （なぜだ？ まだ、理解することができていないのか……？）
@@ -89,7 +85,7 @@
 司: ……いや！ そんなことを考えている暇があるならば 行動を起こさなければ！
 司: 諦めるな天馬司！ お前は、やれる男だ……！
 司: 『どうして届かないんだ……。 なんで僕は、何もできないんだ……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [オーディション２日前]
@@ -119,7 +115,7 @@
 司: （…………どうする）
 司: （あと２日……。 どうすれば、オレは……！）
 類: 司くん……
-(Black cut)
+(Black transition)
 (Background change)
 
 [司の部屋]
@@ -131,15 +127,11 @@
 司: いや……いや！　ダメだ！
 司: そんな小手先の演技で役を勝ち取ったとしても、 意味がない
 司: オレが目指すスターは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （……できることは、全部やった）
 司: （役の背景を考え、 どんな心情になるのか、どんな動作になるのか……何回も試した）
@@ -153,15 +145,11 @@
 司: （オレぐらいの実力の役者は、そこらじゅうにいる）
 司: （そしてその上には……旭さんや青龍院のような、 抜きんでた力を持つ役者達がいる）
 司: （そしてきっと、あの人は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （その先。頂点。 遥か……見えないほどの場所にいる）
 司: オレは……
@@ -171,7 +159,7 @@
 司: 進み続けろ……天馬司……
 司: こんな時間に電話……？　誰だ……？
 司: あ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -183,21 +171,17 @@
 類: リオを、完全に司くんのものにする方法を
 司: ……お前達……
 司: （……そうだ。 オレは、ひとりで考え込んでしまったが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （舞台は……ひとりで作るものじゃない）
 司: （こいつらがいてくれたから、 オレはここまで——高い場所まで飛ぶことができた）
@@ -210,4 +194,4 @@
 司: な……！ タ、タイミングが悪すぎるぞ……！
 寧々: ふふ、食べてなきゃそうなるでしょ。 明日は栄養とって、万全の状態で練習しよ
 えむ: あたし、おっきなおにぎり持ってくるねっ！！
-(Black cut)
+(Black transition)

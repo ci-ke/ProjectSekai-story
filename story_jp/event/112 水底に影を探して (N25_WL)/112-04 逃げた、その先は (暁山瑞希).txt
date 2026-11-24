@@ -3,7 +3,7 @@
 (Character: 朝比奈まふゆ, 東雲絵名, 暁山瑞希, MEIKO)
 
 (Video: link_night_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -16,15 +16,11 @@
 瑞希: （それにしても……よかったな）
 瑞希: （まふゆが、『逃げる』って選択ができて……）
 瑞希: （少し前までは、すごく追い詰められてて…… 本当に心配だったけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （ボクの言葉も、少しはまふゆの役に立てたみたいだし）
 瑞希: （でも……逃げたからって、 問題そのものが解決するわけじゃない）
@@ -32,22 +28,18 @@
 瑞希: （ボクも——これからのこと、ちゃんと考えなきゃな）
 瑞希: （まふゆに逃げるって選択肢を教えたのは、ボクなんだから ……その責任は果たさないと）
 瑞希: ……だけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: ——逃げたあとのことに向き合えてないボクに これ以上、何ができるんだろ
 瑞希: ……ちょっと休憩しようかな。 画面見すぎて目が痛くなってきちゃったし
 瑞希: そうだ！　この前、いい感じのリボン見つけたんだった。 リンにつけてもらいに行こっかな
 瑞希: （……いい気分転換になりそうだしね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -96,15 +88,11 @@ MEIKO (N25): 前のようにね
 瑞希: （……たしかに、あの時は ボクだから伝えられることを伝えられた）
 瑞希: （逃げた先の……こと。 ボクが向き合うことで、またわかることがあるとしたら……）
 瑞希: （……それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （絵名にも……甘えっぱなしだ……）
 瑞希: （あの日から、絵名は……ボクのことを待ってくれてるのに）
@@ -113,4 +101,4 @@ MEIKO (N25): 前のようにね
 瑞希: ……ありがとう、メイコ
 瑞希: おかげで、ちょっとスッキリしたよ
 MEIKO (N25): ……そう。よかったわね
-(Black cut)
+(Black transition)

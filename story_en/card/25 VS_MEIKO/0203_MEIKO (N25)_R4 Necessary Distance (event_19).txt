@@ -51,14 +51,10 @@ Rin: You seem doubtful... I'm telling the truth.
 Miku (N25): Things may not be as clear as you'd like yet because Mafuyu may still have a few questions that haven't been answered.
 MEIKO: Maybe...
 MEIKO: ...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO: (No, it's too soon to draw out any conclusions. I still need more information...)
 MEIKO: I need to keep observing them...
 Rin: ...
@@ -80,7 +76,7 @@ Rin: ...!
 Rin: If that's what you want to do, fine.
 Miku (N25): Hehe. Let's all sing together, Rin, MEIKO.
 MEIKO: Okay.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -123,7 +119,7 @@ Ena: We probably wouldn't be here if that did happen!
 Miku (N25): Kanade, how about this one...?
 Kanade: Oh, that's from the second place we saw.
 MEIKO: ...
-(Black cut)
+(Black transition)
 Miku (N25): Thank you for telling us about your trip, Kanade, Ena.
 Rin: Yeah, it was sort of interesting.
 Kanade: I'm glad.
@@ -136,19 +132,15 @@ Miku (N25): Is it still bothering you...?
 MEIKO: A little. I wish I had more to work with...
 MEIKO: Didn't Mizuki mention to Mafuyu that they were somehow alike...?
 Miku (N25): Yes...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mizuki: But still, I just sort of got the feeling we were somehow alike.
 Mizuki: That part that feels like we might be able to change ourselves a bit at a time to fit in with those around us, and the confusion at whether we should resist or accept it.
 Mizuki: Then getting so tired from trying so hard that nothing seems to matter anymore. I feel like we're similar in that.
 Mizuki: There aren't very many people who can understand how that feels.
 Mizuki: And that's why I think I'd feel really sad if you were to disappear now.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: The self...
 MEIKO: Perhaps Mizuki's also doing some soul searching...
 Rin: You think so...? I feel like Mizuki already has a clear sense of self.
@@ -160,4 +152,4 @@ Miku (N25): But...?
 MEIKO: No, nevermind...
 MEIKO: (There's no point in telling them now. I need more information...)
 MEIKO: (I need more time to find what I'm looking for...)
-(Black cut)
+(Black transition)

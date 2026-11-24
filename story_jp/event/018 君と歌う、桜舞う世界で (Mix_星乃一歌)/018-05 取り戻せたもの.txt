@@ -30,7 +30,7 @@
 通行人達: あ、私も聴きたい！　もう１曲だけお願い！
 一歌: ——わかりました。 それじゃあ、もう１曲だけ……
 一歌: ♪————
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -39,14 +39,14 @@
 一歌: 少しは、私の歌が届いてる、って思っていいのかな
 一歌: まだ誰かの心を揺さぶるってレベルじゃないけど……。 でも……私の歌が、誰かの心に残ってくれたら嬉しいな
 一歌: ……あれ？
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 一歌: 桜が咲いてる……。 すごい、満開だ
 一歌: ……綺麗……
 一歌: ちょっとだけ、寄って行こうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [乃々木公園]
@@ -77,4 +77,4 @@
 一歌: ——……♪
 一歌: ……ミク
 一歌: ……この想いを、ミクに伝えたいな
-(Black cut)
+(Black transition)

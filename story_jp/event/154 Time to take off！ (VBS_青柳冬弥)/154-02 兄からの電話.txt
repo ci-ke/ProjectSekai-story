@@ -27,15 +27,11 @@
 冬弥: ……！　すまない、何か聞き逃していたか？
 こはね: ううん。 青柳くんも、気になる場所があれば教えてほしいなって
 冬弥: 気になる場所、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （それなら……）
 冬弥: ——ここだ
@@ -53,7 +49,7 @@
 彰人: …………
 冬弥: だが昨日の夜——
 冬弥: ２番目の兄から、連絡が来たんだ
-(White cut)
+(White transition)
 (Background change)
 冬弥: ……ん？　メッセージか。 一体誰から——
 冬弥: …………！
@@ -75,15 +71,11 @@
 秋志: 『昔、父さんのことを相談された時——』
 秋志: 『お前の話をちゃんと聞いてやれなくて、本当に悪かった』
 冬弥: …………え……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……どうして…………
 秋志: 『俺も、夏臣兄さんも……父さんを尊敬してる』
@@ -104,15 +96,11 @@
 冬弥: ただ、俺がストリートで歌い始めたのは、 父さんへの反抗がきっかけでした
 冬弥: だからあの時、兄さん達に甘いと言われたのも…… 当然だと思います
 冬弥: けど、それからは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 信頼できる仲間ができて、叶えたい夢を見つけて——
 冬弥: 必死にあがく中で、父さんとも以前より きちんと向き合えるようになりました
@@ -124,7 +112,7 @@
 冬弥: 本当に……嬉しいです
 秋志: 『……俺も嬉しかったよ』
 秋志: 『お前が音楽を続けてくれてて——よかった』
-(White cut)
+(White transition)
 (Background change)
 彰人: ……いい兄貴だな
 杏: 今回会えないのはちょーっと残念だけど せっかくだから、ニューヨーク音楽院ものぞいてみよっか！
@@ -141,4 +129,4 @@
 彰人: 到着までって……10時間以上あるぞ？
 冬弥: 今までも、それで乗り切ってきた
 冬弥: ………………なんとかなる、はずだ
-(Black cut)
+(Black transition)

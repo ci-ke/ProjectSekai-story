@@ -47,7 +47,7 @@ Skill name: 今が音楽になって
 咲希: ううっ、実はアタシも……
 咲希: ……でも、今後のこと、 ちゃんと話し合ってきちんと決めないとね！
 咲希: よーし……いざ、ソリス・レコードへ！ 行こう、みんな！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -60,20 +60,16 @@ Skill name: 今が音楽になって
 咲希: お風呂入って頭もスッキリした分、運指も捗るな～！
 咲希: ……って、あんまり真剣にやると汗かいちゃうから、 ほどほどにしないとだけど……
 咲希: ……今日のしほちゃん、かっこよかったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: でも、そんな時にあのバンドの演奏を見て…… 自分の譲れないものを貫く姿は、 すごくかっこいいんだって、心からそう思えた
-(White cut)
+(White transition)
 志歩: そして、もし昔の自分みたいな人が 私の音楽を聴いたら——
 志歩: 自分らしく——まっすぐ生きていいんだって 思ってもらえるような……そんな演奏がしたい
 志歩: それが、私の『目指す音楽』なんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: しほちゃんが目指すものを見つけられて、 本当によかったな
 咲希: ていうか、あの思い出の話！ そんなことがあったなんて、全然知らなかったし……
@@ -86,29 +82,21 @@ Skill name: 今が音楽になって
 咲希: （ほなちゃんは悩んでたみたいだったけど、 きっと、大丈夫だよね……！）
 咲希: （だってアタシ達の中で、一番しっかりしてるもん！ もし何かあってもアタシ達でいっぱい協力するし！）
 咲希: アタシは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: だから、寂しいとかつらいなって思ってる人に 少しでも寄り添えるような…… 曲を聴いて、少しでも元気になってもらえるような——
 咲希: そんな音楽を届けたいって思います
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: …………
 咲希: ……不思議だなあ。 昔は、ただ苦しいだけだったのに
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （みんなと一緒にいられなくて、 毎日『早く治りますように、早くここから出られますように』って 思いながら、ずっとずっと過ごしてた）
 咲希: なのに——
@@ -119,4 +107,4 @@ Skill name: 今が音楽になって
 咲希: （いっぱい悩んだり、考えたことが いつか音楽になって、誰かに届くのかも……）
 咲希: ……よーし！ だったら、毎日を全力で過ごさなきゃ！
 咲希: これからもいい音楽ができるように…… バンドも学校もがんばるぞ～！！
-(Black cut)
+(Black transition)

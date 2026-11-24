@@ -10,22 +10,18 @@ Gacha phrase: あの花壇、もしかして——
 [奏の部屋]
 
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 『どうかな、雪』
 まふゆ: 『…………』
 まふゆ: 『よくわからない』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……今回の曲も、またダメだった
 奏: ……手を止めてる場合じゃない。 とにかく、作らなくちゃ
-(Black cut)
+(Black transition)
 奏: （まふゆに……まふゆの心に、少しでも響くように）
 奏: （まふゆ自身が感じたことをベースに、なるべく細部まで、 丁寧に表現できるようなメロディーを……）
 奏: …………
@@ -33,13 +29,13 @@ Gacha phrase: あの花壇、もしかして——
 奏の声 (奏): あとは３分待って……あ、そうだ
 奏: さっきのメロディー、 感情の揺れを感じやすいように描けるかもしれない
 奏: …………
-(Black cut)
+(Black transition)
 (Background change)
 奏: …………
 奏: ……ん？
 穂波の声 (穂波): 宵崎さん、こんにちは。 望月です
 奏: ……あ。今、開けるね
-(Black cut)
+(Black transition)
 奏: じゃあ、今日もよろしく
 穂波: はい。お掃除とお食事の用意……あっ、でも もしかして今、お食事中でしたか？
 奏: え？
@@ -53,7 +49,7 @@ Gacha phrase: あの花壇、もしかして——
 穂波: ということは、半日近く飲まず食わずで作業を……！？
 穂波: と、とりあえず座って安静にしてください！ キッチンお借りします！
 奏: えっ、う、うん……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -78,24 +74,20 @@ Gacha phrase: あの花壇、もしかして——
 奏: そうなんだ……
 奏: 毎日、か。 それだけ、元気になってほしかったんだね
 奏: （そういえば、お母さんも花が好きだったな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い奏 (奏): お母さん……
-(Black cut)
+(Black transition)
 (Background change)
 幼い奏 (奏): …………。 おやすみなさい、お母さん……
-(White cut)
+(White transition)
 (Background change)
 奏: お父さん……
 奏の父: …………
 奏: …………。また、来るね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: 望月さん。その、入院してた幼馴染みの子、今は……
@@ -108,7 +100,7 @@ Gacha phrase: あの花壇、もしかして——
 穂波: 宵崎さん……。 はい、わかりました
 穂波: それじゃあまた、幼馴染みの子に相談して、 いいお花を持ってきますね！
 奏: うん、よろしく
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -118,15 +110,11 @@ Gacha phrase: あの花壇、もしかして——
 [奏の部屋]
 
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: まふゆが、あんな風に笑ってくれるなんて
 奏: 『救う』っていうところには、 辿り着けなかったけど、でも……
@@ -137,7 +125,7 @@ Gacha phrase: あの花壇、もしかして——
 奏: だってわたしは……
 奏: …………っ
 奏: あ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -176,4 +164,4 @@ Gacha phrase: あの花壇、もしかして——
 奏: （本当に最初は、ただおばあちゃんに言われて 仕方なく頼んだだけだったけど……）
 奏: うちに来てくれる人が、 望月さんでよかったな
 穂波: ふふ。わたしもお邪魔するおうちが 宵崎さんのおうちでよかったです
-(Black cut)
+(Black transition)

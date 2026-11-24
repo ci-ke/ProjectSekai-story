@@ -71,7 +71,7 @@ Ken: <I'll ask around, so you sit tight for a bit.>
 An: Okay, thank you!
 An: Let me know if you find anything nice. And I'll keep looking around on my own, too.
 Ken: <Sounds good. Keep up the good work.>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -140,4 +140,4 @@ An: Feeling good about take two?
 Kohane: Yeah! I don't think I'll be nervous this time.
 Toya: Yes, I have a general plan in mind.
 An: Okay, let's refocus and try again! Here we go!
-(Black cut)
+(Black transition)

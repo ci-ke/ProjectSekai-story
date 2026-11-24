@@ -20,7 +20,7 @@ Miku: Maybe the feeling it came from was already unstable. It even looks like it
 Miku: ...
 Miku: There must be some sort of meaning to me finding it at this point in time.
 Miku: Whoever you are that bears these feelings... Whoever you are that bears these feelings... I'd like to learn more about what you're going through.
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -44,7 +44,7 @@ Miku: Wow, it's a really cute animal illustration. There's even manga here too!
 Miku: But...the coloring on this illustration looks unfinished. And not all of the panels of the manga are done either...
 Miku: Hmm... Maybe this fragment of a feeling is from someone who got tired of all of these?
 Miku: I'm going to keep looking around for a bit longer.
-(Black cut)
+(Black transition)
 Miku: There really is a lot of stuff in this fragment's SEKAI. There's an unfinished oil painting and even a single sneaker here too...
 Miku: I understand now... These aren't just feelings from one person. I think all of these are fragments of a lot of people's feelings.
 Miku: So that means all of these people both feel and share the same feelings. But...
@@ -78,7 +78,7 @@ Miku: (I bet this boy is a hard worker.)
 Miku: (But... I can really hear his frustration and impatience from the way he sings...)
 Miku: I think I know what feelings the fragment originated from now.
 Miku: (The feelings that created this SEKAI were definitely...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -99,21 +99,17 @@ Miku: But... Why is it coming from this box?
 Miku: I'll just dig out enough soil to open the lid for now... Okay, here we go... Just a little more...
 Miku: Huh? What happened to the lid? It's covered in nails. There's also chains wrapped around it and a padlock...
 Miku: The feelings in this wooden box... Was it necessary to go this far to shut them away?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku: Oh... There're sheets of paper on the floor.
 Miku: “Post-Graduation Plans”... “First Preference”... There's nothing written underneath them...
 Miku: And this is...an answer sheet for a test.
-(White cut)
+(White transition)
 Miku: Is this...a novel?
 Miku: But that's all that's on here. I guess the writer isn't finished...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku: (Everything I found in this SEKAI... The novel, the manga and even the music sheets. They're all unfinished.)
 Miku: (On top of that, the unanswered form about post-graduation plans and the incomplete test answer sheet...)
@@ -134,15 +130,15 @@ Miku: So hard that you felt the need to lock those feelings up in this box and b
 Miku: Was it because you didn't want anyone to know? Was it because you couldn't tell anyone about it?
 Miku: Or... Was it so painful that you couldn't take it anymore and had to give up?
 Miku: ...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000121/bg_s000121.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000121/bg_s000121.webp)
 Miku: I don't understand. Why would you shut a lid on these feelings like this...
 Miku: I can only imagine just how unbearably difficult it must've been, but...it's such an important part of you...
 Miku: It's a part of who you are...
 Miku: All I want to do is to come find you, hold your hand and sing...
 Miku: And tell you that I'm here for you.
 Miku: Even if you want to keep it a secret from others, even if you can't bring yourself to tell anyone, would you at least tell me...?
-(White cut)
+(White transition)
 (Background change)
 Miku: Whoa...!
 Miku: ...! This SEKAI...
@@ -154,7 +150,7 @@ Miku: If you don't want to remember, then you can forget them...
 Miku: But, at least let me hold on to them for you.
 Miku: Don't worry. I'll be sure to keep every single fragment safe and sound.
 Miku: Come on now, join me...!
-(White cut)
+(White transition)
 (Background change)
 
 [Between Worlds]
@@ -167,4 +163,4 @@ Miku: (Some day, they will resonate with someone else's powerful emotions and be
 Miku: (And then, if a song is born from that SEKAI... I hope these fragments, even just a little bit, will be rewarded.)
 Miku: Until that time comes, I'll be right here beside you.
 Miku: ——♪ ——♪
-(White cut)
+(White transition)

@@ -86,7 +86,7 @@
 寧々: ……なるほどね。 それじゃ、遠慮はいらないか
 寧々: ここからが本番だよ、えむ。 戦いに備えておいて
 えむ: はーい！
-(Black cut)
+(Black transition)
 俺達さいつよA: ……今残ってんのはあの２チームか。 俺達は今実質２位だし、ここで勝ちゃ優勝奪えるな
 俺達さいつよB: ああ。 それにラストがこのゲームだったのはラッキーだったぜ。 “あれ”さえ使えば——
 寧々: 見つけたっ！
@@ -183,6 +183,6 @@
 (Background change)
 寧々: （……わたしの手に、チケットが懸かってる。 みんなと一緒に、ショーを見に行くんだ。 そのためにここまで来たんだから——）
 寧々: ——いくよ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000100/bg_s000100.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000100/bg_s000100.webp)
+(White transition)

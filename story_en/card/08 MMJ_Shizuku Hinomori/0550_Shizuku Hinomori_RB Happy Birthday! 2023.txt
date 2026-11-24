@@ -36,7 +36,7 @@ Miku (MMJ): And we'll be there to celebrate with you on your birthday itself♪
 Shizuku: Oh, thank you everyone!
 Airi: Okay then, shall we get started with today's practice session?
 Shizuku: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the party]
@@ -69,7 +69,7 @@ Ena: Oh, that sounds like fun. Shizuku, why don't you give it a go?
 Shizuku: Okay! Hm, I think I'd like to be the whacker first.
 Mizuki: Okay! Leave the mole control to me!
 Mizuki: Hehehe. Will you be able to keep up with all my mole madness, Shizuku?
-(Black cut)
+(Black transition)
 Shizuku: Hehe, got you!
 Mizuki: Huh?! Wha— How did you keep seeing them coming?!
 Mizuki: Try this on for size!
@@ -78,7 +78,7 @@ Mizuki: Don't tell me you actually anticipated that one! Shizuku, are you readin
 Ena: Hey Mizuki, weren't you the one who mentioned the importance of a good strategy?
 Mizuki: Don't talk to me! Take this...and that!
 Shizuku: Hehe, thwack!
-(Black cut)
+(Black transition)
 Mizuki: M-Man, I lost!
 Shizuku: Hehe, those moles make the most adorable squeak when they stick their little heads out. That was so much fun. Thank you, Mizuki!
 Mizuki: Ahaha... Clearly my mole mastermind plan to let Shizuku have fun did the trick!
@@ -98,7 +98,7 @@ Ena: Grgh! You're not...getting...away!
 Mizuki: Oooh, this is getting intense!
 Shizuku: Hehe, they're both so in sync with each other, like they're pounding rice to make mochi.
 Mizuki: Oh yeah, I can see what you mean!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -112,7 +112,7 @@ Ena: I hope you have fun at the party with your sister and her friends!
 Shizuku: I will! Thank you both so much for today!
 Airi: Alright, I guess it's about time we head to yours, Shizuku. They should be done with the party prep, which means they're just waiting for the birthday girl to arrive!
 Shizuku: Okay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -129,7 +129,7 @@ Shiho: Kiritani, please...
 Shizuku: Sh-Shii!
 Shiho: Hey, calm down. The party hasn't even started yet.
 Saki, Minori & Airi: Hahaha!
-(Black cut)
+(Black transition)
 Saki: Okay, it's time! Shiho♪ Would you do the honors and give a speech?
 Shiho: ...
 Shiho: Uhm... I'd like to start by thanking everyone for choosing to spend your day off here with us.
@@ -144,11 +144,11 @@ Shizuku: Hehe, cheers!
 Honami: Everyone, I've cut up the cake!
 Airi: Shizuku, you get first pick. Ah, how about that one? It looks a little bigger than the rest.
 Shizuku: Hehe, okay. I guess I'll take it then!
-(Black cut)
+(Black transition)
 Saki: Shizuku! We bought a bunch of snacks we think you'd really like. There's one of each!
 Kohane: Since An's helping out at Weekend Garage, she told me to give you these snacks in her stead.
 Shizuku: Oh, really? I can't wait to try them!
-(Black cut)
+(Black transition)
 Airi: Now that we've all had our fill, it's time to get serious with a game of President!
 Shizuku & Saki: Yay♪
 Airi: Since there are so many of us, I brought two decks of cards. Don't worry about the backs being different!
@@ -157,7 +157,7 @@ Airi: I hope you're all familiar with the rules of President. I'll be explaining
 Minori & Kohane: Got it!
 Shizuku: So many players... I'm excited to see how this turns out!
 Haruka: Yeah, me too!
-(Black cut)
+(Black transition)
 Airi: Okay! I've got three queens. Can anyone else top that?
 Honami: What! N-No way. I can't believe you have three of a kind of such a high card!
 Airi: (Hehe... Looks like I'm in the lead—)
@@ -165,7 +165,7 @@ Shizuku: Oh, may I? There. Three twos!
 Airi: Wha?!
 Shizuku: It's my turn again! Okay! Three aces.
 Airi: W-Wait! This can't be real!
-(Black cut)
+(Black transition)
 Airi: Urgh... If only I had won the first round! Here. Take my two strongest, why don't you!
 Shizuku: Thank you, Airi. Wow, I have a lot of Kings. Would you like one?
 Airi: Urgh... Y-Yes, but the rules say you gotta give me your two weakest cards.
@@ -174,14 +174,14 @@ Haruka: Hehe, don't mind if I do.
 Saki: Oooh, look at them go! I wanna be the President or Vice-President next!
 Shiho: Saki, you came third to last. You're closer to becoming the beggar.
 Saki: As if that would happen. I got a pretty good hand this time, so I'm gonna do my best to ace this!
-(Black cut)
+(Black transition)
 Ichika: Ahhh! Honami, wait!
 Honami: Sorry Ichika! The rules say a set of eights ends the trick!
 Airi: Hehehe. Looks like it's just the three of us. So which one of you will take my place as beggar!
 Kohane: What... What do I do?!
 Haruka: Kohane, Hoshino, there's no need to play nice out of respect for her!
 Shizuku: Airi, Kohane, Ichika! I'm rooting for you all!
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: Alright, I made us some tea.
 Shizuku: Thank you, Shii!
@@ -200,8 +200,8 @@ Shiho: We're family, right? Sometimes a little effort is worth it.
 Shizuku: Shii...
 Shiho: So, thanks for everything, sis.
 Shizuku: Heh, no thank you, Shii!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000140/bg_s000140.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000140/bg_s000140.webp)
 Mafuyu: Happy birthday, Hinomori. I heard that your little sister and her friends threw a party for you. Hehe, what a thoughtful sister you have. Hehe, I'm a little jealous.
 Ena: Shizuku, I know I've already said this, but happy birthday! I didn't expect an arcade to be your choice of venue, but it was so fun!
 Mizuki: Me too, me too♪ To think we even got to make Print Stickers together! I'll treasure them for the rest of my life. I really want to hang out again, so hit me up!
@@ -220,10 +220,10 @@ Minori: Hehehe, I was so shocked when Shiho asked me to help her plan your party
 Haruka: Me too. Since your sister was incredibly invested in the idea, and we also wanted to celebrate, it was a no-brainer.
 Airi: Yeah. Shizuku, your little sis is quite something. That is precisely why you should give her enough space to breathe!
 Airi: Haha, here's to spending another year of your life as a member of MORE MORE JUMP! and spreading hope to our fans!
-(White cut)
+(White transition)
 (Background change)
 Shizuku: Not only did Shii and her friends throw me a party, but I got to celebrate on my actual birthday too! I'm so happy I could spend time with so many people.
 Shizuku: My family, my friends, my fans... It's thanks to all of you that I feel surrounded by warmth.
 Shizuku: Your love and support are what keeps me going as a member of MORE MORE JUMP! That is why I, Shizuku Hinomori, will endeavor to continue spreading hope!
 Shizuku: So please, keep watching me!
-(White cut)
+(White transition)

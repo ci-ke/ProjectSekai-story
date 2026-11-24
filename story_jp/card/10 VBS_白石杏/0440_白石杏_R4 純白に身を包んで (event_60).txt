@@ -16,19 +16,15 @@ Gacha phrase: み、みんな、お待たせ……
 杏: どういたしまして！
 杏: （本当に、無事に終わってよかったぁ）
 杏: （花嫁さんらしくしなくちゃって つい、肩に力が入っちゃってたけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
-(White cut)
+(Flashback in)
+(White transition)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 杏: （雫さん達やこはねのおかげで、 私らしい花嫁になれたし、楽しかったな）
-(Black cut)
+(Black transition)
 絹谷: このあとも仕事があるから、私達はそろそろ失礼するね
 川崎: お会計は済ませてあるから、みんなはゆっくりしていって！ 今日は本当にありがとう！
 杏: 私達のほうこそ！ ウェディングドレス着るなんてめったにできないし、 楽しかったです
@@ -85,7 +81,7 @@ Gacha phrase: み、みんな、お待たせ……
 愛莉: こらこら、いくら反応が見たいからって 親をからかっちゃダメよ
 杏: ですよね～。残念……
 雫・こはね: 『ふふっ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -128,7 +124,7 @@ Gacha phrase: み、みんな、お待たせ……
 杏の父: おう。今のところまだすいてるし、いいぞ。 あとこれ、嬢ちゃんのカフェモカな
 杏: うん、ありがとう！
 杏: 川崎さん、ちょうどこはねも来てるから、 奥で話そうよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [店内ライブスペース]
@@ -157,4 +153,4 @@ Gacha phrase: み、みんな、お待たせ……
 こはね: 大丈夫ですよ。 またみんなでやろうって話もしているので
 杏: そうそう！
 杏: 前にやったイベントよりももっとすごいやつを 絶対にやってみせるから、期待してて！
-(Black cut)
+(Black transition)

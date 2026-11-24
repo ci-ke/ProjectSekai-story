@@ -34,19 +34,19 @@ Akito: You don't need to say it like you're just an observer. You're going to be
 Toya: I suppose you're right about that.
 Kohane: Sorry for the wait, Aoyagi, Shinonome! I've come up with a route, so could you take a look?
 Toya: Of course.
-(Black cut)
+(Black transition)
 An: Hm? Who are those characters doing that show over there?
 Kohane: Oh, they're pair of demons called Lloromannic.
 An: Demons?! Still, they're so cute! Hey, can we have a quick peek at their show?
-(Black cut)
+(Black transition)
 Toya: That black one with the spiky head... Are they supposed to be a bird?
 Akito: You mean Badtz-Maru? Yeah, he's a penguin.
 An: Oh, I'm kinda surprised you know that one.
 Akito: We had Badtz-Maru bandaids at home when I was a kid. I remember using them a lot.
-(Black cut)
+(Black transition)
 An: Kohane, look! This Corocorokuririn character looks exactly like you!
 Toya & Akito: (Must be because he's a hamster.)
-(Black cut)
+(Black transition)
 An: We got through most of the venue, didn't we?
 Toya: Yes. Now we have Tsukasa and the others' show to look forward—
 Toya: Are those...?
@@ -61,7 +61,7 @@ Toya: (In that case, first I'll try pulling the feet up and using its head as a 
 An: Huh? Hellooo? Toya, you in there?
 Akito: There he goes. He's gonna try to get it.
 An & Kohane: What?
-(Black cut)
+(Black transition)
 Toya: Everyone, look! I got it!
 Kohane: That's amazing! You made it look so easy by making it roll over!
 An: You really are good at claw machines, aren't you, Toya?
@@ -91,7 +91,7 @@ An: Oh, yeah! Tenma and his troupe's show is starting soon!
 Akito: Let's go, Toya.
 Toya: Of course.
 Toya: Pochacco... Tsukasa and his troupe's shows are really great. I hope you enjoy this too.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -102,18 +102,14 @@ Toya: Pochacco... Tsukasa and his troupe's shows are really great. I hope you en
 
 Toya: What is this place?
 Toya: I was at home thinking about my day at Puroland, and then—
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: I'm glad that Dad and the others weren't back yet. Thanks to that, I was able to bring Pochacco home without a problem.
 Toya: At any rate, I really did have a lot of fun today. Much like that time we went camping, I've made unforgettable memories...
 Toya: Hm? Did my phone flash just now...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I thought something was happening in SEKAI, so I ended up going, but...)
 Toya: (Perhaps I shouldn't have touched the ball of light that was sitting in front of MEIKO's cafe.)
@@ -199,4 +195,4 @@ Akito: Yeah, but... Your impression of him really was way off.
 An: Ugh, quit it already. I was just playing around.
 Toya: What's wrong, everyone? If you don't keep up, you'll lose your way.
 An: Right, coming!
-(Black cut)
+(Black transition)

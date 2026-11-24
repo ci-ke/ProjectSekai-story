@@ -35,16 +35,12 @@ MEIKO: ほら、最後の山場にあるじゃない？ どう頑張ってもフ
 MEIKO: あの時の少年と今の司くんが、 ちょっと似てるなーって思ったのよ
 司: ……あの時の少年と、オレが……
 司: （たしかに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: 『どうして届かないんだ……。 なんで僕は、何もできないんだ……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （あの場面のリオの状況と、今のオレの状況は似ている）
 司: （手に入れたいものがあるというのに、 力が足りないせいで、掴むことができない）
@@ -58,7 +54,7 @@ MEIKO: あの時の少年と今の司くんが、 ちょっと似てるなーっ
 MEIKO: ……え～っと……。 もしかして私、お手柄？
 KAITO: どうやら、そうみたいだね
 KAITO: （……頑張れ、司くん。 君ならきっと……道を切り拓けるはずだよ）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -71,19 +67,15 @@ KAITO: （……頑張れ、司くん。 君ならきっと……道を切り拓
 えむ: うんっ！ ほんとによかったね、司く——
 えむ: （わ……すっごく集中してる）
 えむ: （そう～っとしておいてあげなくっちゃ！）
-(Black cut)
+(Black transition)
 司: （……天満さんの舞台を見るのは、本当に久しぶりだな）
 司: （あの時のことは、いまだに忘れられない——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000003/bg_a000003.webp)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000003/bg_a000003.webp)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: （あれから天満さんは海外で活動を始めて、 演出や脚本も手掛けるようになって、 舞台に立つ姿を見る機会はなかったが……）
 司: （やっとまた、見ることができるのだな）
 司: （……だが——）
@@ -102,7 +94,7 @@ KAITO: （……頑張れ、司くん。 君ならきっと……道を切り拓
 えむ: あの人、立ってるだけなのに、キラキラしてる……！！
 ？？？: 『さあ、幕が上がる』
 ？？？: 『願わくば—— この幕が下りる時、あなたが心からの笑顔でいますように』
-(Black cut)
+(Black transition)
 司: （————ああ）
 司: （なんという輝きだ）
 ？？？: 『……不思議だ。 君が歩いてくるというだけで、この道が好きになる。 この道に咲く花を見ただけで、君を思い出す』
@@ -120,14 +112,14 @@ KAITO: （……頑張れ、司くん。 君ならきっと……道を切り拓
 司: （10歩も歩けば手が届きそうな舞台だというのに）
 司: （あまりに——遠い）
 司: （……いいや……いいや、目を背けるな！）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
 司: （この感情を……もっと感じろ……！）
 司: （何よりほしいものを手に入れることができない—— 自分の非力さを感じろ！）
 司: （どれだけ練習しても……全力を振り絞っても、 オレは、周りの人間に劣る）
 司: （走っても、走っても、 どれだけ手を伸ばしても、追いつくことができない）
 司: （あの、遥か高い空を翔ける、火の鳥に——）
-(White cut)
+(White transition)
 (Background change)
 類: …………
 類: （……ああ）
@@ -136,7 +128,7 @@ KAITO: （……頑張れ、司くん。 君ならきっと……道を切り拓
 えむ: つ、司くん、大丈……！
 類: ——えむくん
 類: ……これが司くんにとって、必要なことなんだ
-(Black cut)
+(Black transition)
 
 [終演後]
 
@@ -155,4 +147,4 @@ KAITO: （……頑張れ、司くん。 君ならきっと……道を切り拓
 寧々: 乗りかかった……っていうか、 もう出航しちゃってるしね、この船
 えむ: っよ～～～し！！ 今からみんなでいっぱい練習しよ～っ！！
 司: ああ！ 最高の演技にしてみせるぞ！！
-(Black cut)
+(Black transition)

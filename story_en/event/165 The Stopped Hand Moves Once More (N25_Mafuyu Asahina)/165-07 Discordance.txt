@@ -6,15 +6,11 @@
 
 Len (N25): (I wonder what Mafuyu's doing right now...)
 Len (N25): (Maybe she's listening to her music with her mom again.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (N25): (When I heard that Mafuyu would be going home, I was a little worried...)
 Len (N25): But I'm glad she's patched things up with her mom.
@@ -30,15 +26,15 @@ Mafuyu: I want to stay here for a little while...
 Len (N25): Oh...
 Len (N25): (She looks like she's in pain...)
 Len (N25): (I don't know what happened, but...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000440/bg_s000440.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000440/bg_s000440.webp)
 Mafuyu: Len...?
 Len (N25): U-Umm... I'll be right here...
 Mafuyu: ...
 Mafuyu: Okay...
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [25:00:00]
@@ -47,15 +43,11 @@ Mafuyu: Okay...
 
 Kanade: (Okay...)
 Kanade: (I have a good feeling about this demo.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: Now... I feel like I can compose a song which captures the warmth Mafuyu told us about.
 Kanade: I need to focus and make that happen...
@@ -126,7 +118,7 @@ Kanade: (I don't understand.)
 Kanade: (How did things return to the way they were...?)
 Kanade: (I have no idea...)
 Kanade: (But things can't go on like this.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -151,4 +143,4 @@ Mafuyu's Mother: I'm so glad that we get to spend time together as a family agai
 Mafuyu's Mother: I've slowly been getting to know you, and I get to help you with your future again...
 Kanade: Actually, about that...
 Mafuyu's Mother: Huh?
-(Black cut)
+(Black transition)

@@ -4,7 +4,7 @@
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 天馬司, 初音ミク, 巡音ルカ)
 
-(Black cut)
+(Black transition)
 (Background change)
 咲希: ん……。 ……あれ？
 咲希: いつの間に寝ちゃってたんだろう。 んー。変な姿勢になってたのかな。首が痛いよ～
@@ -12,13 +12,13 @@
 咲希: 次お兄ちゃん達が来る時には 晴れてるといいな
 咲希: …………
 咲希: ……これじゃあ、今日も見えないな、星
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000007/bg_a000007.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000007/bg_a000007.webp)
 咲希: みんなどうしてるんだろ。 クラスの子達と、遊んだりしてるのかな
 咲希: ……みんなに、会いたいなぁ
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 咲希: ……ん、んん
 咲希: あれ？ このベッド、病院のじゃない……？
@@ -28,7 +28,7 @@
 司の声 (司): 毎朝身支度に気合を入れるのはいいことだが、 あんまりのんびりしていると遅刻するぞー！
 咲希: え？　朝？ い、今何時！？
 咲希: ね……寝坊しちゃった～！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　１年Ｃ組]
@@ -44,12 +44,12 @@
 咲希: あっ、そ、そうだね！ ありがとう！
 咲希: ほらほら！　いっちゃんも座って座って！
 一歌: う、うん
-(Black cut)
+(Black transition)
 咲希: （……入院してた頃の夢を見たなんて言ったら、 きっと気を遣わせちゃうよね）
 咲希: （いっちゃん、アタシが遠くの病院に入院したせいで あんまりお見舞いに来られなかったこと、ずっと気にしてたし）
 咲希: （今はもう体も大丈夫になったし、 みんなに心配かけたくないもん）
 咲希: （今日も元気にがんばるぞー！）
-(Black cut)
+(Black transition)
 
 [放課後]
 
@@ -58,7 +58,7 @@
 咲希: うん！　朝は遅刻しかけちゃったけど、 今日はもうバッチリだよ！
 咲希: それに今日は、あっちに行く約束の日だしね！
 一歌: うん、そうだね。 久しぶりに行くから、楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 穂波: あ、咲希ちゃん、一歌ちゃん
 咲希: ほなちゃーん！ 授業お疲れさまー……の、ハグ！
@@ -69,7 +69,7 @@
 穂波: 志歩ちゃん、そんなふうにほっぺた掴んだら 咲希ちゃんの顔が……ふふふっ
 一歌: あははっ、咲希、すごい顔になってる
 咲希: しほひゃん、わはったはら、ほっぺはなひへ～！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　中庭]
@@ -96,4 +96,4 @@
 咲希: （あの夢にはドキっとしたけど、今はもう大丈夫）
 咲希: （ひとりぼっちだったあの頃とは違う。 今は、みんながいつもそばにいてくれるもん）
 咲希: （だからこれから、あの時過ごせなかったみんなとの時間を たくさん取り戻していかなくっちゃ！）
-(Black cut)
+(Black transition)

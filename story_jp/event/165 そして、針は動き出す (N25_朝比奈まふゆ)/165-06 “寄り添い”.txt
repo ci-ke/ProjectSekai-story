@@ -31,7 +31,7 @@
 まふゆの母: ご、ごめんなさい。 もう２時だから、少し心配になっちゃって……！
 まふゆの母: ……お母さん、もう少し起きてるから。 夜食が必要になったら言ってちょうだいね
 まふゆ: …………ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -46,7 +46,7 @@
 まふゆの母: まふゆも少し、疲れちゃったのかしらね
 まふゆの母: 次は頑張って取り戻しましょう。 大丈夫、まふゆならできるわ
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -56,19 +56,15 @@
 まふゆ: （……こっちの棚からやっていこうかな）
 まふゆ: （……あれ？）
 まふゆ: （——いろんな大学のパンフレット？　これって……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: じゃあ、大学の候補を探したほうがいいかしら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ………………
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -80,18 +76,14 @@
 まふゆ: （……お母さんを、信じたいのに……）
 まふゆ: （……ポケットの中に、何か……）
 まふゆ: （……ブレスレット……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ——ただいま
 まふゆの母: ……ええ、……ええ。 わかりました、では次の日曜日に——
@@ -121,7 +113,7 @@
 まふゆ: （自分じゃどうしようもないくらい、苦しくて、悩んで……）
 まふゆ: （……それなら……）
 まふゆ: （…………それなら、私は……）
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -143,7 +135,7 @@
 まふゆの母: ええ……！　今度こそ、まふゆの夢を応援させてね
 まふゆ: （お母さんは……私のために我慢してくれてる）
 まふゆ: （……だから……）
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （私も、お母さんに寄り添わなきゃ————）
-(Black cut)
+(Black transition)

@@ -8,11 +8,9 @@ leo_01_00 Opening
 (Fullscreen text):   Our personalities were worlds apart, but we always had a lot of fun together.    The four of us got along really well.
 (Fullscreen text): That's why everyone readily agreed   to my suggestion to form a band.
 (Fullscreen text): The starlit sky we saw on the way back from our          first practice session was so beautiful.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Little Saki (Saki): Phew! I've never done band stuff before, but playing together like that was really fun!
 Little Shiho (Shiho): Yeah. I guess it was quite rewarding.
 Little Honami (Honami): I agree. It was exhausting, but also a lot of fun, wasn't it?
@@ -22,11 +20,9 @@ Little Ichika (Ichika): Also... If you don't mind, can we do this again?
 Little Saki (Saki): Of course we should do this again! We'll practice again tomorrow, the day after tomorrow, and beyond!
 Little Ichika (Ichika): Yeah! Oh... Was that a shooting star just now? 
 Little Saki (Saki): What? Where? Hey, let's go over to the jungle gym! Maybe we can see some more!
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000005/bg_a000005.webp)
-
-(Memory cut-out)
-
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000005/bg_a000005.webp)
+(Flashback out)
 Little Ichika (Ichika): There's another one!
 Little Honami (Honami): It's so pretty! Oh yeah, I think I saw something about it on TV this morning.
 Little Shiho (Shiho): Really? Does that mean we can see more if we wait here for a bit?
@@ -43,12 +39,12 @@ Little Honami (Honami): You know what... I have some binoculars and a star chart
 Little Shiho (Shiho): That's a thing? Interesting.
 Little Saki (Saki): Okay, so let's all go and drop off our instruments at home, then we'll meet back here again after that!
 Little Ichika (Ichika): Yeah!
-(Black cut)
+(Black transition)
 (Fullscreen text): I thought we'd always be friends.
-(Black cut)
+(Black transition)
 (Fullscreen text): I thought we'd be together forever, but...
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 (Background change)
 
 [Some years later]
@@ -60,7 +56,7 @@ Ichika: .....
 Ichika: (Hm? Is that Honami in the courtyard?)
 Ichika: (She's holding a sketchbook... Her next class is probably art, then.)
 Ichika: (She's looking this way...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Courtyard]
@@ -68,10 +64,10 @@ Ichika: (She's looking this way...)
 Honami: Ichika...
 Honami's Classmate: Something wrong, Honami?
 Honami: Oh, no... It's nothing.
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: Honami...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -84,17 +80,17 @@ Shiho: So what if I am?
 Ichika: I mean... Well...
 Shiho: Look, I have to go now.
 Ichika: Shiho...
-(Black cut)
+(Black transition)
 Ichika: (I didn't manage to talk with her yet again...)
 Ichika: (When did I start becoming so awkward around Honami and Shiho? And Saki is...)
 Ichika: Is this how it's all going to end? We'll just graduate and split up without ever speaking to each other again?
 ???: <♪— ♪—>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000006/bg_a000006.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000006/bg_a000006.webp)
 Ichika: Miku's music video...
 Ichika: Miku's amazing... She's always so free and versatile. She can do anything.
 Ichika: Unlike me...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ichika's Room]
@@ -128,23 +124,19 @@ Miku (Ln): That's why we are here. We want you... no, you and your friends, to f
 Ichika: My friends... You don't mean...
 Miku (Ln): Don't tell me you've forgotten who your friends are?
 Ichika: .....
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000005/bg_a000005.webp)
-
-(Memory cut-in)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000005/bg_a000005.webp)
+(Flashback in)
 Little Saki (Saki): Playing together, talking about stuff, watching shooting stars on our way home...
 Little Saki (Saki): I wish we could keep doing all that together forever! 
-(White cut)
+(White transition)
 (Background change)
 Honami: Oh, no... It's nothing.
-(White cut)
+(White transition)
 (Background change)
 Shiho: Look, I have to go now.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: But...we've all... And Saki, she's...
 Miku (Ln): It will all be okay, Ichika.
@@ -161,15 +153,15 @@ Ichika: Feels like I had the strangest dream...
 Ichika: I must've been asleep for a while. It's already dark outside.
 Ichika: Oh wow.
 Ichika: The stars are so clear tonight.
-(Black cut)
+(Black transition)
 (Background change)
 Honami: ...Huh.
 Honami: The stars are so pretty...
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: Hmm? Wow. They're really bright tonight.
 Shiho: I...haven't looked up at the stars in a while.
-(Black cut)
+(Black transition)
 (Background change)
 Saki: Humhumhuuum♪ Humhumhuum♪
 Saki: I'm all set for tomorrow with my new lip balm, featuring this season's latest color!
@@ -178,6 +170,6 @@ Saki: The stars are really out in full force tonight! Whoa! Was that a shooting 
 Saki: I'll never forget how beautiful the sky looked back when we saw that meteor shower...
 Saki: Another shooting star! Well, might as well make a wish!
 Saki: I wish that the four of us will be able to see a beautiful meteor shower together again...
-(Black cut)
+(Black transition)
 (Video: light_sound_opening)
-(Black cut)
+(Black transition)

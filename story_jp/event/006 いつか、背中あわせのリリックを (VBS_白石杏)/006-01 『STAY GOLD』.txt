@@ -74,7 +74,7 @@ MEIKO: ああ、それなら うちの店のステージを使ってもらって
 こはね: えっ、いいんですか？
 MEIKO: もちろんよ。 自由に使ってちょうだい
 杏: メイコさん……ありがとうございます！ じゃあ、さっそくステージ借りますね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -94,7 +94,7 @@ MEIKO: もちろんよ。 自由に使ってちょうだい
 杏: （こんなにうまいんだから、もっと自信持っていいのに）
 杏: （まだステージにあんまり立ってないから、 失敗するのが怖いのかな……？）
 杏: （でも、前みたいに本番で何かあっても、私達がいるんだし きっとこはねをリードできるよね！）
-(Black cut)
+(Black transition)
 彰人: 前よりだいぶ良くなってたな。 この仕上がりなら大丈夫だろ
 冬弥: そうだな。安定感もあった
 こはね: ４人で歌うと、やっぱり楽しくて、ドキドキするね……！
@@ -109,10 +109,10 @@ MEIKO: もちろんよ。 自由に使ってちょうだい
 彰人: ……いや、お前とこはねは、そういうもんなのか。 やっぱなんでもねえよ
 杏: ……？
 こはね: 杏ちゃん、ありがとう。 私、本番頑張って歌うから……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000034/bg_a000034.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000034/bg_a000034.webp)
 杏: うん、任せて！　迷った時は私の音を聴いてね
 こはね: わかった！ ふふっ。杏ちゃんが隣にいてくれると、心強いな
 杏: あはは、いつも一緒に歌ってるじゃん
 彰人: …………
-(Black cut)
+(Black transition)

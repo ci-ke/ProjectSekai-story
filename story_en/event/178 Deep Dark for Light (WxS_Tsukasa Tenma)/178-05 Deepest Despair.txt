@@ -21,7 +21,7 @@ Tsukasa: *Sigh* It's late, but... Perhaps I should go to SEKAI and clear my head
 Tsukasa: Hm? Is that a voice...?
 Tsukasa: The others should all be in bed...
 Tsukasa: *Gasp* C-Could it be...?!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tenma Household - Living Room]
@@ -46,7 +46,7 @@ Tsukasa: (However...)
 Tsukasa: (Someday, I want to be able to bring smiles and relief even to people suffering like that.)
 Tsukasa: (To do that, I need to refine my skills and become better at grasping my roles, but...)
 Tsukasa: The road ahead of me is still so long...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -57,13 +57,13 @@ Tsukasa: (If I were to fully despair, it would be because...)
 Tsukasa: No, but that would be...
 ???: Hop, hop, hop...
 Tsukasa: Hm? I hear something again...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000486/bg_s000486.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000486/bg_s000486.webp)
 Miku (WxS): Hop hop!!! Hoppy evening, Tsukasa!
 Tsukasa: Waugh! M-Miku!
 Tsukasa: Wh-What's with all the hopping?!
 Miku (WxS): Hehehe. I was thinking about a show about bunnies, and I started hopping around before I even knew it♪
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: I-Is that so? Free-spirited as always, I see...
 Miku (WxS): Hehehe, not really♪ Are you here to practice?
@@ -74,7 +74,7 @@ Tsukasa: Well... This one isn't going so smoothly.
 Miku (WxS): It's not?! Why not, why not?!
 Tsukasa: To put it simply... My imagination isn't strong enough.
 Tsukasa: I've been thinking about the prince and his despair all day...
-(Black cut)
+(Black transition)
 Miku (WxS): I see... So you've been thinking about how to sink into despair!
 Tsukasa: I do...have an answer, of a sort.
 Miku (WxS): Huh? You do?
@@ -97,15 +97,11 @@ Miku (WxS): Tsukasa...
 Miku (WxS): Hehehe♪ You never change, Tsukasa☆
 Tsukasa: I take pride in the strength of my own resolve.
 Tsukasa: However, it's made understanding the prince's despair difficult. I'm not certain how to proceed from here...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: ... I'll never catch up to Asahi like this.
 Miku (WxS): Asahi? Oh... Right, you said you were practicing with him!
@@ -128,4 +124,4 @@ Miku (WxS): Oop? That voice...
 Emu: Oh, you're here too, Miku! Good wonderhoy evening!
 Rui: I thought we might find you here.
 Tsukasa: You all... What are you doing here?!
-(Black cut)
+(Black transition)

@@ -35,7 +35,7 @@
 絵名: 『あー……』
 (Background change)
 絵名: 『実はちょっと、応募してたものがあって——』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『へ～、個展で歌う仕事なんてあるんだ！ おもしろそうじゃん！』
 (Background change)
@@ -58,7 +58,7 @@
 まふゆ: 『……うん』
 (Background change)
 絵名: 『ありがと！ 勉強のためだし、やれるだけやってみるね』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: ふあ……。 今日もけっこう進められたな
 絵名: （……あ、そうだ。 二次審査のメール、ちゃんと確認しておかないと）
@@ -90,7 +90,7 @@
 絵名: ……——♪　————♪
 絵名: （……本当にあってるのかな。 そもそも、歌ってるのはアリエじゃないんだし、 影の少女も『怖い』って感じてたってこと……？）
 絵名: （……わかんないけど、 いったん私が思う解釈で進めてみよう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -109,4 +109,4 @@
 こはね: ……——♪
 絵名: え……小豆沢さん……！？
 こはね: ……絵名さん？
-(Black cut)
+(Black transition)

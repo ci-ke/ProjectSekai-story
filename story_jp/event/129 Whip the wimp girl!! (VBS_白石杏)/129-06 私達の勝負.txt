@@ -2,24 +2,20 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(White cut)
+(White transition)
 (Background change)
 
 [杏の部屋]
 
 杏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: 失望されるのは、たしかに怖い
 冬弥: だが……気持ちをぶつけることで、開ける道もある
 冬弥: 少なくとも俺はそう思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （……ちゃんと全部話すことで この気持ちに決着がつくかもしれない）
 杏: （決着……っていうのが、 どんな形になるのかは、まだよくわかんないけど）
@@ -29,16 +25,12 @@
 杏: （もうこれ以外、方法なんてないのに…… まだ怖がってる）
 杏: …………こういう時、凪さんだったらどうするんだろ
 杏: （もし父さんや、大河おじさんが、 自分よりずっとずっと高いところに行こうとしてたら——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ——————
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: あ……
 杏: ——ふふっ
@@ -49,7 +41,7 @@
 杏: ……そっか。 そういうやりかたも、あるんだ
 杏: ……うん。そうしよう
 杏: ——本当の相棒になるために
-(White cut)
+(White transition)
 (Background change)
 こはね: 杏ちゃんと……戦う、って……
 杏: ——私、ずっと不安だったんだ
@@ -91,7 +83,7 @@
 こはね: 私、杏ちゃんに、 本気で勝ちたい相手だ、って思ってもらえたんだなって
 こはね: やろう、杏ちゃん
 杏: ……ありがとう、こはね
-(Black cut)
+(Black transition)
 (Background change)
 
 [30分後]
@@ -146,4 +138,4 @@ EVERのメンバー: あ……いやちょっと、用があったっつうか�
 彰人: よし！　行くぞお前ら！
 洸太郎: あ……！ おい、ちょっと待てよ！！
 達也: …………
-(Black cut)
+(Black transition)

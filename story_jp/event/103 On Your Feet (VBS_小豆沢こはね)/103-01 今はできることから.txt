@@ -7,34 +7,26 @@
 [宮益坂女子学園　１年Ａ組]
 
 先生: はい、よくできました。 それでは次のページを——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: …………決めた
 杏: 私もう————迷わない
-(White cut)
+(White transition)
 杏: RAD WEEKENDを絶対に超えて—— その先に、父さん達の夢の先に行ってみせる！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの時の熱さが……今も、ここに残ってる）
 こはね: （……私も、凪さん達の夢の先に行きたい。 杏ちゃんと——みんなと一緒に）
 こはね: …………っ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 大河: これが、お前達が超えようとしてる壁だ。 俺は、教えた
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……大河さんの歌、本当にすごかった）
 こはね: （怖くなって……声も出せないくらい……）
@@ -42,13 +34,13 @@
 こはね: （どれだけ高い壁なんだろう……。 わからないくらい、すごく高くて…………）
 こはね: （でもだからって、止まってなんていられない）
 こはね: （みんなと、決めたんだから……！）
-(White cut)
+(White transition)
 (Background change)
 杏: やろうみんな。 ここからが、本当のスタートだよ
 杏: もっと力つけて、 新も、洸太郎も、EVERも、もう一度集めて……！
 杏: RAD WEEKENDを——超えよう！！
 彰人・こはね・冬弥: 『おう！』 『うん！』 『ああ！』
-(Black cut)
+(Black transition)
 杏: ——それじゃあ、まずは今後のこと考えなくちゃね
 冬弥: ああ。そうだな、まずは——
 冬弥: RAD WEEKENDを超えるようなイベントをやるために、 俺達がこれから何をすべきか——
@@ -73,15 +65,11 @@
 彰人: RAD WEEKENDの裏にあった想いを知れば あいつらも、もう一度立ち上がってくれるかもしれねえ
 彰人: 少なくとも、可能性はゼロじゃないはずだ
 こはね: ……うん！　私もそう思う。 それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: みんながいてくれたから—— 一緒に競いあってきたから、ここまで来れたんだって思うから
 冬弥: ……俺も、みんなとはもう一度話しあうべきだと思う
@@ -92,27 +80,19 @@
 冬弥: ——何もかも諦めてしまった時の気持ちは、 少し、わかるんだ……
 杏: 冬弥……
 彰人: …………一度敵わねえ、届かねえと思っちまったら、 そう簡単に気持ちは立て直せねえ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……それは、オレもわかる
 彰人: あんなヤベえ歌を聴いたら、なおさらな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……たしかに、大河さんの歌は……怖いくらいで……）
 こはね: （あんな歌に敵うわけないって…… それにもしも敵ったとしても、 RAD WEEKENDはさらにその先なんだって思うと……）
@@ -140,14 +120,12 @@
 冬弥: 各々、今以上に時間を確保するところから 始めるのはどうだろうか？
 冬弥: 練習時間を増やすためにも、 今後どうやっていくか考える時間を作るためにも、有効なはずだ
 こはね: ……うん。そうだね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……私も、やるんだ）
 こはね: （もっと、歌に使える時間を増やしていこう——！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -178,10 +156,8 @@
 こはね: あ……
 杏: あ……なんかごめん！ 別に、ギクシャクしてるってわけじゃないよ
 杏: ——父さんとも、あのあとちゃんと、話したしさ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: （さてと、 そろそろ寝る準備しよっかな）
 杏の父: ——杏
@@ -212,10 +188,8 @@
 杏の父: ……杏
 杏の父: …………すまない
 杏の父: ……ありがとう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: そんな話してたんだ……
 こはね: （……よかった。 杏ちゃんが、杏ちゃんのお父さんと、ちゃんと話し合えて）
@@ -230,4 +204,4 @@
 杏: ……ま、新達のことは地道にやってくしかないよね。 今は、練習に集中しよう！
 杏: 少し声出ししてから、 今日もメイコさんのところでいいよね？
 冬弥: ああ。最近、特にお世話になっていて申し訳ないが…… またメイコさん達に、カフェのスペースを貸してもらおう
-(Black cut)
+(Black transition)

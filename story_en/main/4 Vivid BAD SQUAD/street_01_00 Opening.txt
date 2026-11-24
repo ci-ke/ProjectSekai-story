@@ -8,21 +8,17 @@ street_01_00 Opening
 (Fullscreen text):   Since I was little, I had this idea of wanting to perform exciting shows that got people pumped                   the way my father did.
 (Fullscreen text): Those vague ideas finally took shape       as a dream on that fateful day.
 (Fullscreen text): Ever since that legendary night...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Spectator A: That's a lot of people. Is everyone here for KEN and his gang?
 Spectator B: Looks that way. It seems that everyone somehow knew that something big was about to go down tonight.
 Junior High School An (An): (Dad's events were always popular, but this many people is a whole new level altogether...)
 Spectator A: It's starting!
 Junior High School An (An): !!
-(Black cut)
-
-(Memory cut-out)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000002/bg_a000002.webp)
+(Black transition)
+(Flashback out)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000002/bg_a000002.webp)
 Junior High School An (An): (Th-This is awesome! Super awesome, even!) 
 Junior High School An (An): (It's so much cooler than his other shows... No! It's the coolest performance I've ever seen in my life!)
 Junior High School An (An): (Look at how many people are totally digging dad and his group's show!)
@@ -30,7 +26,7 @@ Junior High School An (An): (Everybody's so fired up even though the place is pa
 Junior High School An (An): (This is it.)
 Junior High School An (An): (This is the sort of event I want to put on too, one day!)
 Junior High School An (An): (And I'll succeed! My event will surpass this legendary RAD WEEKEND... There's no way I'm gonna fail!)
-(White cut)
+(White transition)
 (Background change)
 
 [Some years later]
@@ -46,13 +42,13 @@ Regular Customer: Right... That's a deal-breaker for you.
 Regular Customer: I kinda sympathize with her though. I can't even begin to imagine what an event better than that would be like!
 An: Yeah, I guess that's a normal reaction.
 An: But I'm still gonna do it!
-(Black cut)
+(Black transition)
 An: Okay, everything's cleaned up.
 An: Dad! Cafe hours are over! I'm leaving now!
 An's Father: Another street performance? Try not to get into any fights with the other musicians, okay?
 An: Please! I'm not a kid anymore! Anyway, bye! 
 An's Father: Be careful!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -61,12 +57,12 @@ An: Mic set! All done! Time to start singing.
 Passerby: Hey, An! We're ready for the show! 
 Passerby: I brought my friend along today, so go for broke!
 An: Thanks, everyone! I won't be holding anything back today! 
-(Black cut)
+(Black transition)
 An: ♪— ♪—
 An: (Yup. My voice is in top form today! Time to whip this crowd into a frenzy!)
 ??? (Kohane): Oh wow...
 ??? (Kohane): She's so cool, singing openly on the street like that... I'd never have the courage...
-(Black cut)
+(Black transition)
 An: Well, I'd say that was a performance well done! I even got everyone to join in as well!
 An: But... I still have a long way to go.
 An: I need more practice... More importantly, I need bandmates to perform with!
@@ -133,7 +129,7 @@ An: Not really... It's just... I had the strangest dream.
 An's Father: Oh, what kind of dream?
 An: I think I was talking with someone in it, but I can't remember who it was...
 An: Oh well! I'll go put up the open sign now!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kohane's Room]
@@ -144,6 +140,6 @@ Kohane: That dream I had... I think I was talking to someone... They seemed real
 Kohane: I can't really remember the details though...
 Kohane: (But I have this feeling...)
 Kohane: (That something new is about to start.)
-(Black cut)
+(Black transition)
 (Video: street_opening)
-(Black cut)
+(Black transition)

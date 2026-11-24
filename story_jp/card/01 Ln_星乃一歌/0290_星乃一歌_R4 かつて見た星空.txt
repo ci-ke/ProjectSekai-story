@@ -9,23 +9,19 @@ Gacha phrase: 今の、私しか持ってないもの……
 
 [教室のセカイ]
 
-(Black cut)
+(Black transition)
 志歩: ——じゃあ、今日はこのあたりにしておこうか。 それぞれ、課題点を練習してくること
 一歌: うん
 咲希: はーい♪
 咲希: あ、そうだ！　いっちゃん、歌詞作りって進んでる？
 ミク (Ln): それ、みんなの次のオリジナル曲のこと？
 咲希: うん！　いっちゃん、 この前のライブあとに言ってたんだー！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: えっと、なんていうか……。 今のこの気持ちを、詞に書いてみたいなって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (Ln): へえ、そうだったんだ
 一歌: 一応、歌詞も書き始めてはいるんだけど……
@@ -71,50 +67,38 @@ Gacha phrase: 今の、私しか持ってないもの……
 咲希: でしょでしょー！
 咲希: だから、わざわざかっこつけなくても、 アタシ達のいっちゃんは最強なのだー！
 一歌: ちょ、ちょっと咲希。 最強なのだーはやめてよ
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ——……ふぅ
 一歌: （あれから、歌詞を書いてみてるけど……。 やっぱり、ちゃんと伝える言葉って難しいな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……これは、大事な一歌の想いだ
-(White cut)
+(White transition)
 (Background change)
 咲希: わざわざかっこつけなくても、 アタシ達のいっちゃんは最強なのだー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （前にカイトが言ってくれた言葉は嬉しかったし、 咲希もああ言ってくれてた……）
 一歌: （でも、ただそのまま言葉にするだけで 伝えたいことが伝わる歌詞になるかっていうと……。 何かが足りてない気がする）
 一歌: （んー。まだ表現の仕方とか、 言葉選びがちゃんとできてないからだろうけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: あの頃の一歌ちゃんって、 考えるより即行動っていう感じだったね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 考えるより、即行動……
 一歌: （たしかに中学に入る前まではそんな感じだったかも）
 一歌: （でも、中学では……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 一歌: …………
 一歌: （クラスがバラバラになったせいか、 なんとなく距離感がわからなくなって、 どこまで聞いていいのかとか考えるようになって……）
@@ -122,12 +106,12 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 一歌: はぁ……
 一歌: 昔はできてたことや持ってたものを、 今の私はできてないし、持ってない……
 一歌: 小さい頃の、考えるより先に体が動いてた頃の私のほうが もっといい歌詞を書けてたかもな……
-(Black cut)
+(Black transition)
 (Background change)
 ミク (Ln): ——♪　——♪
 ミク (Ln): ……ん？
 ミク (Ln): これ、もしかして——
-(Black cut)
+(Black transition)
 (Background change)
 ミク (Ln): あ……一歌。まだ残ってたんだね
 一歌: ミク……
@@ -137,7 +121,7 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 ミク (Ln): …………
 ミク (Ln): 一歌、ちょっと見せたいものがあるんだけど、 一緒に来てくれない？
 一歌: え？
-(Black cut)
+(Black transition)
 (Background change)
 ミク (Ln): ほら、これなんだけど……
 一歌: えっ……何、この光ってる玉……
@@ -154,17 +138,17 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 一歌: 答え……？
 ミク (Ln): さあ
 一歌: ……わかった
-(White cut)
+(White transition)
 (Background change)
 一歌: えっ！　わっ、まぶしい……！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 初音ミク)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -172,7 +156,7 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 ミクの声 (ミク-Ln): ——一歌
 ミクの声 (ミク-Ln): 一歌、目を開けてみて
 一歌: ん……
-(White cut)
+(White transition)
 (Background change)
 一歌: え……
 一歌: ええっ、流星群を見た公園！？ で、でも……！
@@ -188,7 +172,7 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 ミク (Ln): 考えていたことの答えが 見つかるかもしれないって言ったでしょ？
 ミク (Ln): ねえ、せっかく来たんだし、少し歩かない？
 一歌: ……うん。そうだね
-(Black cut)
+(Black transition)
 ミク (Ln): どう？　実際に一歌達が流星群を見た公園と同じ？
 一歌: うーん、置いてある遊具とか見える風景とか、 ちょっとずつ違う気がする
 一歌: でも、ジャングルジムはまったく一緒かも
@@ -208,13 +192,13 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 一歌: え？　どうかしたの？
 ミク (Ln): 想いの欠片が見せてくれている風景の意味を考えてたの
 一歌: 風景の、意味？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000007/bg_s000007.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000007/bg_s000007.webp)
 ミク (Ln): うん。ここが一歌の思い出の中にある風景と似てるなら、 きっと何か意味があるんじゃないかって
 ミク (Ln): それが、さっきの一歌の言葉でピンときたんだ
 ミク (Ln): この景色が伝えようとしてくれているのって、 『違うけど同じ』っていうことなんじゃないかって
 一歌: 違うけど、同じ……
-(White cut)
+(White transition)
 (Background change)
 ミク (Ln): そう
 ミク (Ln): 一歌達自身は時とともに 少しずつ変わってきてると思うけど……
@@ -223,15 +207,11 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 一歌: ……昔の自分と、今の自分は違うけど、 でも、想いは同じ……
 一歌: ……うん、そうだね。 それは、なんとなくわかる気がする
 一歌: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 昔はできたことや、持っていたはずのものを、 今の私はできないし、もう持っていないような気がする
 一歌: だから……きっと本当は、昔の私のほうが……
@@ -241,19 +221,15 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 一歌: え……
 ミク (Ln): だって一歌は、穂波や志歩と向きあって、 本当の想いを見つけだしてくれた
 ミク (Ln): バンドを組んでからも、 いろいろなことを乗り越えてきたでしょ？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (Ln): 苦しい時もあったと思うけど、 それでも逃げずに、真剣に向きあってきた
 ミク (Ln): そうやって歩き続けてきた今の一歌が、 昔の一歌に負けるなんて、全然思えないよ
@@ -267,7 +243,7 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 ミク (Ln): なにせ『いっちゃんは最強！』だからね
 一歌: えっ！　もう、ミクまでそんなこと言って……！
 一歌・ミク: 『——ふふっ』
-(White cut)
+(White transition)
 (Background change)
 
 [教室のセカイ]
@@ -283,4 +259,4 @@ KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……
 一歌: だから——
 一歌: 今の私だから書けるような歌詞を、頑張って書いてみるよ
 ミク (Ln): うん。期待してるよ、一歌
-(White cut)
+(White transition)

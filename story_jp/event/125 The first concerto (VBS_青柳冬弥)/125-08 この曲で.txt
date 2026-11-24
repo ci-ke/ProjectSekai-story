@@ -9,7 +9,7 @@
 街の若いミュージシャン達: ——おい！　お前らあの話聞いたか？ Vivid BAD SQUADが次のイベントで RAD WEEKEND超えるって！
 街の若いミュージシャン達: 聞いたけど……あれって本気なのか？ さすがに無理なんじゃ……
 街の若いミュージシャン達: いや、あれはマジでやれるって！ 俺、偶然東雲の歌聴いたんだけどよ、 ヤベえくらい盛り上がってて——
-(Black cut)
+(Black transition)
 (Background change)
 杏: ……よし。プレイヤーの準備、できたよ
 冬弥: ありがとう白石。 ……みんなも準備はいいか？
@@ -23,15 +23,11 @@
 こはね: 音が——
 洸太郎: すげえ……頭っからブワっと広がって……
 杏: あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……あの時だ……
 杏: RAD WEEKENDを初めて見た時の…… あの感じがする……！
@@ -58,7 +54,7 @@
 冬弥: ……ありがとう、みんな
 冬弥: その顔を見ることができて、俺は本当に——
 冬弥: ……心から、嬉しく思う
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -66,15 +62,11 @@
 颯真: …………
 颯真: （今日も、連絡はないか……）
 颯真: ……当たり前か。 あいつはもう…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 新: とにかく俺はもう、この夢から降りるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 颯真: ……自由になったんだからな
 颯真: ……？
 冬弥: お久しぶりです、颯真さん
@@ -105,7 +97,7 @@
 冬弥: すべての想いを背負って
 颯真: …………ああ
 颯真: 必ず見に行くよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -123,4 +115,4 @@
 冬弥: すべての過去を糧として、 ただまっすぐに進もう
 冬弥: あの壁を——超えるために
 彰人・杏・こはね: 『おう！』 『うん！』
-(White cut)
+(White transition)

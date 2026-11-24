@@ -6,17 +6,13 @@
 瑞希: ボク達の中に、魔王サイドの人間がいるってこと？
 彰人: んなことありえんのか？
 類: ……ありえなくはなさそうだよ。 たしか、最初の説明でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リアルゲーム同好会員達: そして最後に！　割り振られる役職の中には、 少し変わった指示を受けるものもあります
 リアルゲーム同好会員達: そこも含めて、役を演じることを楽しんでください！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: イレギュラーな指示を受ける役職もある、と言っていたしね
 冬弥: たしかに……！
@@ -40,8 +36,8 @@
 瑞希: んー……じゃあ、やっぱりここは 一番怪しい人から疑った方がいいかな？
 司: い、一番怪しい人？
 瑞希: そう！　たとえば……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000542/bg_s000542.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000542/bg_s000542.webp)
 瑞希: 類とか～？
 類: へえ……？
 冬弥: 神代先輩が裏切り者……なのか？
@@ -53,7 +49,7 @@
 類: つまりこの場合は——瑞希だ
 瑞希: え〜？ ボクは正真正銘、勇者一行のシーフだよ！
 瑞希: むしろ、そういう風に引っ掻き回そうとする方が 怪しいんじゃなーい？
-(White cut)
+(White transition)
 (Background change)
 彰人: どっちも怪しすぎんだろ……。 ふたりとも、勝つためなら平気で嘘つきそうだしな
 類: おやおや、勇者様にまで疑われてしまうとは……
@@ -94,4 +90,4 @@
 司: （まったく……デバイスを見せ合おうと言い出した時は、 本当に肝が冷えたぞ）
 司: （しかし……間もなく最終戦か）
 司: （果たして、このままバレずに倒せるのだろうか……？）
-(Black cut)
+(Black transition)

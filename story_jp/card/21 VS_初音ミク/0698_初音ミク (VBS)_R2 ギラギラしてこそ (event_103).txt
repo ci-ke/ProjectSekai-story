@@ -31,14 +31,10 @@ MEIKO: まったく……こんなダメなところ、 こはねちゃん達に
 ミク (VBS): シンガーとしてのプライドまで、いつの間にか持ってたなんて
 MEIKO: ええ。もともと杏ちゃんや彰人くん、冬弥くんは 持っていそうだったけど……
 MEIKO: あのこはねちゃんが、ここまで成長するなんて嬉しいわ
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 ミク (VBS): こはね達のこと、ますます好きになりそうだよ
 MEIKO: ミクは燃えてるあの子達が大好きだものね
 ミク (VBS): まあね
@@ -58,7 +54,7 @@ MEIKO: ふふ、用事がある時捕まえやすくなったし、 それもい
 ルカ: もー、わかったってば、 手伝えばいいんでしょー
 KAITO: その代わり、ちゃんとおかわりちょうだいよ？
 MEIKO: はいはい
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -79,7 +75,7 @@ MEIKO: はいはい
 ミク (VBS): （歌も想いも、もっと先へ——！！）
 ミク (VBS): ♪————！　————！！
 彰人・冬弥・こはね・杏: 『♪————！　————～～～！！』
-(Black cut)
+(Black transition)
 ミク (VBS): ……ふう。 ちょっと休憩しようか
 こはね: はあ、はあ……。そうだね
 杏: はあ……やっぱり、ミクの歌に押されちゃうなあ
@@ -94,26 +90,22 @@ MEIKO: はいはい
 ミク (VBS): そう？　悔しい思いなら最近したばっかりだよ
 こはね: え、本当？
 ミク (VBS): うん——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪————————————！！
 杏: …………っ！！
-(White cut)
+(White transition)
 (Background change)
 杏: 言いたいこと……いっぱい、あったのに……っ
 杏: こはねにも……、彰人にも、冬弥にも……会って……！ いい仲間見つけたねって……言って、ほしくて……！
 杏: RAD WEEKEND超える時だって……！ 絶対、凪さんに、見てほしかったのに……！
 杏: なのに……！
 杏: もう、いないなんて…………！
-(White cut)
+(White transition)
 杏: ……う、うええ、うああああん……っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): みんなが大河さんと勝負をしてる時も、 RAD WEEKENDと凪さんの話を聞いている時も——
 ミク (VBS): 私達は……ただ見ていることしかできなかった
@@ -126,4 +118,4 @@ MEIKO: はいはい
 彰人: オレ達だって、そう何度も悔しい思いさせられてたまるかよ
 冬弥: ああ。必ずみんなで、這い上がろう
 ミク (VBS): 期待してるよ、みんな
-(Black cut)
+(Black transition)

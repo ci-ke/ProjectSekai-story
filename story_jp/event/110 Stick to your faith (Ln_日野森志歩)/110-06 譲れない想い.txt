@@ -2,7 +2,7 @@
 
 (Character: 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [バックステージ]
@@ -33,17 +33,13 @@
 小学生の志歩 (志歩): ……そうだったんですね
 すみれ: あの時……華も音楽も、ってやろうとしたら、 どっちも中途半端になっちゃってたと思う
 すみれ: お母さんを悲しませたいわけじゃなかったから 本当にこれでよかったのかなって、何度も悩んだけどね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の志歩 (志歩): 中途半端なまま習字を終わらせてたら、 きっとすごく後悔してたと思う
 小学生の志歩 (志歩): だけど、だからってみんなに いやな思いをさせたかったわけじゃなくて……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): なら、どうして？
 小学生の志歩 (志歩): どうしてそれでも、音楽を続けてるんですか
@@ -76,7 +72,7 @@
 小学生の志歩 (志歩): え……？
 すみれ: 楽しみにしてて！ 私の言いたいこと、きっと演奏で伝えてみせるから
 小学生の志歩 (志歩): …………うん……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -93,4 +89,4 @@
 小学生の志歩 (志歩): （あ……）
 すみれ: ——みんな、いくよ
 すみれ: ♪————！！！
-(Black cut)
+(Black transition)

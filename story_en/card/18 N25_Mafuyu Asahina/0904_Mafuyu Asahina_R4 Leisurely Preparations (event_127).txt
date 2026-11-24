@@ -15,7 +15,7 @@ Kanade: Oh, I'd like to go back for one of the pamphlets they had at the recepti
 Mizuki: Good idea. Those usually list all the paintings and their titles, so I'll grab one too...!
 Mafuyu: Then, shall we return to the entrance?
 Mizuki: Okay!
-(Black cut)
+(Black transition)
 Mizuki: Let's see... The theme of this exhibit is “Deep in the Night”, right?
 Kanade: Yes, and most of these paintings appear to go along with that theme. But...
 Kanade: The night from each one feels so different.
@@ -34,7 +34,7 @@ Kanade: Ena's art also has this way of bringing a lot of different feelings to t
 Mizuki: Yeah. The illustrations she does for N25 in particular since they're like a visual representation of your feelings, Kanade, Mafuyu.
 Kanade: Right.
 Kanade: It made me realize just how much Ena's art has supported us.
-(Black cut)
+(Black transition)
 Mizuki: Alright, we're pretty far in now. The next painting is...
 Mafuyu: This one...
 Kanade: Oh wow.
@@ -57,7 +57,7 @@ Mizuki: Something deeper...? Right.
 Mizuki: I have no idea what Ena's dad was feeling when he drew this painting...
 Mizuki: But it's clear that it means a lot to him.
 Mafuyu: I agree.
-(Black cut)
+(Black transition)
 Mafuyu: ...that's the last one.
 Mizuki: Yup! I'm glad we got to take our time and see all of them.
 Mizuki: Oh, is that a gift shop? I wanna get some postcards of the paintings I really liked.
@@ -80,7 +80,7 @@ Mizuki: Then, wanna buy these together? I was also thinking about getting some p
 Mafuyu: Okay, that sounds good...
 Mafuyu: In that case, I'd like to also get this one.
 Mizuki: Okay! Then, let's take these up front♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -100,7 +100,7 @@ Mafuyu: In that case, can I go over to SEKAI?
 Kanade: To SEKAI?
 Mafuyu: Yes. I'd like to take over the souvenirs I bought for everyone.
 Kanade: Right. Then, I'll go with you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -143,4 +143,4 @@ Mafuyu: This painting seems to encapsulate a wide range of feelings.
 Mafuyu: I don't know what those feelings are exactly...
 Mafuyu: But I'm glad I got to see it.
 Miku (N25): *Nod* Me too.
-(Black cut)
+(Black transition)

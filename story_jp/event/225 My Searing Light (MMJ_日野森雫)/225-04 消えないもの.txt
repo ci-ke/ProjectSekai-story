@@ -19,7 +19,7 @@
 雫: …………っ
 愛莉: 心当たり、あるみたいね
 雫: ……実は——
-(Black cut)
+(Black transition)
 遥: パフォーマンス中に、動けなくなる……？
 雫: ……ええ。本当に一瞬なんだけど……
 遥: ……ひとりの練習で起きないってことは、 精神的なものが原因かもしれないね
@@ -49,14 +49,14 @@
 みのり: ううん！　わたしこそ、練習中に たくさん助けてもらったのに……
 みのり: ……気付けなくて、ごめんね
 愛莉: っていうか、ちゃんと言いなさいよ！ わたし達だって——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000649/bg_s000649.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000649/bg_s000649.webp)
 愛莉: （違う……）
 愛莉: （……言えなかったんだわ）
 愛莉: （わたしも、慣れないパフォーマンスに ついていくだけで精一杯で……）
 愛莉: （雫の様子がおかしいのに、気づけなかった）
 愛莉: （ずっと、傍にいたのに……）
-(White cut)
+(White transition)
 (Background change)
 遥: 雫がセンターとしてどれだけ輝いて、 注目を浴びたとしても……
 遥: 私達は絶対に、離れていったりしない
@@ -80,4 +80,4 @@
 雫: ……わかったわ
 雫: （必ず——乗り越える方法を見つけなくちゃ）
 (Background change)
-(Black cut)
+(Black transition)

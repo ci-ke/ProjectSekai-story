@@ -9,7 +9,7 @@ Gacha phrase: ……気のせいだといいんだけど
 
 [ステージのセカイ]
 
-(Black cut)
+(Black transition)
 遥: ふう……。 みんなの動き、綺麗にそろってたね
 愛莉: ええ。新しくした前後と左右の入れ替わりも、 バッチリだったんじゃないかしら！
 みのり: や、やったー……！ あそこ、すっごく練習したもんね
@@ -18,7 +18,7 @@ Gacha phrase: ……気のせいだといいんだけど
 遥: キリもいいし、一度休憩を入れようか
 みのり: えへへ……助かりまーす
 ミク (MMJ): ふふ。じゃあしばらく休憩だね
-(Black cut)
+(Black transition)
 遥: （——このあとは、さっきのフォーメーションを もう一度確認して、それから……）
 リン: はーるーかーちゃん♪ 今カイトくんがね、飲み物差し入れしてくれたの！ はいこれ！
 遥: ありがとう、リン。 あとでカイトさんにもお礼を言わないとね
@@ -29,46 +29,34 @@ Gacha phrase: ……気のせいだといいんだけど
 遥: うん、私もすごく楽しみ。 実は、昔から私を応援してくれてた子が曲を作ってくれてるの
 リン: そうなんだ……！ ねえねえ、もっとその話聞きたいな！
 遥: ふふ、いいよ
-(Black cut)
+(Black transition)
 リン: ——遥ちゃんとASRUNの曲に助けられた、か……！ すっごくすてきなお話聞いちゃった！
 遥: ふふ、ありがとう
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: アイドルとして、ちゃんと希望を届けられていたことは、 みのり達が思いださせてくれたし、 リアルイベントでもすごく感じたけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 長谷川さんの話を聞いて、『頑張ってきてよかった』 『ちゃんと届けられてた』って改めて実感できたの
 遥: 私は一度、 取り返しのつかないことをしてしまっているから……
 リン: それは……一緒のグループだった子のこと？ のどを壊しちゃったっていう……
 遥: うん……。 真依っていうんだけどね……
 遥: スランプになってうまく歌えなくなった真依に、 私は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: ……真依。 今日がいい日じゃなくても、明日はきっといい日になる
 遥: 希望を持って頑張れば——きっと、道はひらけるから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……もともと真面目で頑張り屋だった真依に、 そんなことを言ってしまったの
 遥: それで真依はオーバーワークをして、喉を……
@@ -100,7 +88,7 @@ Gacha phrase: ……気のせいだといいんだけど
 遥: じゃあ、またこうやって話を聞いてもらっちゃおうかな
 リン: うん、任せて♪
 遥: ふふ。ありがとう、リン
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -114,7 +102,7 @@ Gacha phrase: ……気のせいだといいんだけど
 みのり: はい！　こちらが当店自慢のパフェのメニューでございます！ 期間限定の旬のフルーツパフェもオススメです！
 真依: ありがとう！ ふふ。花里さん、制服似合ってるね
 みのり: 本当ですか？　えへへ……
-(Black cut)
+(Black transition)
 みのり: ——ご注文は以上ですね！ では、少々お待ちくださいませ～！
 遥: 真依、改めてになるけど、 千秋楽お疲れさま
 真依: ありがとう、遥ちゃん！
@@ -126,7 +114,7 @@ Gacha phrase: ……気のせいだといいんだけど
 真依: そう！　目で合図されたから、 あ、くるな！って思ってたんだけど——
 真依: そういえば……あの時言ってた悩みって、 大丈夫だった？
 遥: うん。心配してくれてありがとう。 実は——
-(Black cut)
+(Black transition)
 真依: そっか……。 そんなことになってたんだ……
 真依: にしてもひどいね。 なんの根拠もないのに盗作だなんてコメント書きこむなんて……
 遥: そうだね……
@@ -137,17 +125,13 @@ Gacha phrase: ……気のせいだといいんだけど
 真依: 昔と同じように、 遥ちゃんは私を信じてくれてるんだって思えて
 遥: 真依……
 遥: そんなの、当然だよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真依: 私は、私が思う“アイドル”として、 ファンのみんなに向きあい続ける——
 真依: そう思うようになれたから、今の私がいると思うの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ——真依は誰よりも努力家で、 夢に……アイドルに真剣だっていうことを、私は知ってるから
 真依: …………！
@@ -169,4 +153,4 @@ Gacha phrase: ……気のせいだといいんだけど
 真依: うん、遥ちゃんはそうだよね
 遥: え？
 真依: なんでもないよ。ふふっ
-(Black cut)
+(Black transition)

@@ -48,21 +48,17 @@ Gacha phrase: なんだか、まぶしいな……
 瑞希: まあ、そうだよね～。 まふゆを救うための曲を作るっていうのが、 奏の目標でもあるし
 奏: うん
 奏: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （きっと、ああいうキラキラした姿に 救われる人もいるんだろうな）
 奏: （……わたしも、ちょっと元気をもらえた気がする）
 奏: （帰ったら、今作ってる曲のブラッシュアップをしよう）
 奏: （今なら、なんだかいい調整ができそうだな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,7 +80,7 @@ Gacha phrase: なんだか、まぶしいな……
 (Background change)
 瑞希: 『K、早速聴かせてよ！』
 奏: 『うん。でも、ミク達にも聴いてもらいたいんだ。 だから、セカイに行って聴きたいんだけど、いいかな？』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -123,7 +119,7 @@ MEIKO: そのジャンルの一部の曲しか聴いてないのに、 必要な
 奏: えっと……。 メイコ、来てくれてありがとう
 MEIKO: ……気にしなくていいわ。 始めてちょうだい
 奏: うん。じゃあ流すね
-(Black cut)
+(Black transition)
 奏: どうかな……
 瑞希: いいね！　最初にメロディーだけ聴いた時よりも、 もっともっといい曲になってると思う！
 絵名: うん。私もこの曲好きだな
@@ -150,15 +146,11 @@ MEIKO: ……それで、まふゆは何かつかめたのかしら
 奏: もちろん。頑張っていい曲にしあげるよ
 リン: ……わたしも、待ってる
 奏: うん
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 奏: （これは、ほんの小さな一歩かもしれないけど……）
 奏: （でもきっと、 わたしにとってもまふゆにとっても大切な一歩だ）
 奏: （必ず、いい曲にしあげてみせる）
-(Black cut)
+(Black transition)

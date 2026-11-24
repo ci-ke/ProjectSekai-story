@@ -12,26 +12,22 @@ Gacha phrase: いつの間に朝になったんだろ……
 奏: ……違う、この音じゃない。 もっと、そっと囁きかけるような……
 奏: （……このデモを作った時にイメージしてた音が合わない）
 奏: （せっかく、みんなにもセカイで聴いてもらったのに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: あれ？　奏！　まふゆ！ ふたりそろって来るなんて珍しいね！
 まふゆ: ……少し作業時間がとれたから。 そしたら、奏が次のデモに意見をくれないかって
 奏: うん。 瑞希達にも、さっきメッセージを送ったよ
 瑞希: あ、ホントだ！ 話しこんでて気づかなかったな……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （そういえば瑞希達、昔話をしてたって言ってたな）
 奏: （絵名と瑞希が入ってくれて、動画がつくようになって そこから一気にわたし達の曲を聴いてくれる人が増えた）
 奏: （まふゆに入ってもらった時もそうだったけど、 思いきって絵名達を誘ってよかった）
 奏: あ……手が止まっちゃってた
 奏: デモ自体の方向性は悪くないはず……。 コードの置き換えがはまってないのかも——
-(Black cut)
+(Black transition)
 奏: ——ん？
 まふゆ: 『K、時間だよ』
 奏: え？　……あ、ほんとだ
@@ -68,7 +64,7 @@ Gacha phrase: いつの間に朝になったんだろ……
 奏: 『うん、もちろん。えななんとAmiaも、 気になることがあったらなんでも言って』
 (Background change)
 絵名・瑞希: 『わかった！』
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 瑞希: 『結局、いい案は出なかったね……』
@@ -84,7 +80,7 @@ Gacha phrase: いつの間に朝になったんだろ……
 瑞希: 『ねえ、K。これ試してみたらどうかなっていう方法が あるんだけど、やってみない？』
 (Background change)
 奏: 『え……？』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,10 +98,8 @@ Gacha phrase: いつの間に朝になったんだろ……
 瑞希: いやあ、いつも集まるお店と違うし、 それだけでもちょっと新鮮な感じするよね
 奏: うん。いい気分転換になりそう
 奏: （環境を変えてみたらって言われた時は どういうことだろうって思ったけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『ねえ、K。これ試してみたらどうかなっていう方法が あるんだけど、やってみない？』
 (Background change)
@@ -124,10 +118,8 @@ Gacha phrase: いつの間に朝になったんだろ……
 (Background change)
 瑞希: 『どう？　気分変えたら、 いい発想が生まれるかもって思ったんだけど』
 奏: 『……そうだね。 このままじゃ時間を無駄にしちゃいそうだし、 試しにやってみようかな』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ——さて。 飲み物もケーキもきたし、作業始めよっか
 奏: うん
@@ -163,7 +155,7 @@ Gacha phrase: いつの間に朝になったんだろ……
 奏: …………
 絵名: （奏……）
 まふゆ: （全然集中できてなさそう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -176,4 +168,4 @@ Gacha phrase: いつの間に朝になったんだろ……
 絵名: たしかに、お互いの作業の様子なんて ナイトコードじゃ見れないしね
 奏: うん。だから、誘ってもらえてよかった。 ありがとう、瑞希
 瑞希: そっか、ならよかった！
-(Black cut)
+(Black transition)

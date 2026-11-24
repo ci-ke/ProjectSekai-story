@@ -10,7 +10,7 @@
 ルカ (Ln): 真堂さんと？　どんな話をしたのかしら
 MEIKO (Ln): よかったら、聞かせてほしいな
 一歌: うん。えっと、最初に デビューに向けての売り出しかたの話をしたんだけど——
-(Black cut)
+(Black transition)
 リン (Ln): 『目指す音楽』……？
 志歩: うん。Leo/needの売り出しかたを 決めるために必要だって言われて
 レン (Ln): なるほど……。 たしかに、言ってることはわかるな
@@ -31,7 +31,7 @@ MEIKO (Ln): よかったら、聞かせてほしいな
 穂波: ありがとう、みんな
 ミク (Ln): それで？　事務所では、他にどんな話をしたの？
 咲希: あ、えっとね。 デビューまでにやるいろんなことを話したんだけど——
-(Black cut)
+(Black transition)
 (Background change)
 
 [志歩の部屋]
@@ -40,41 +40,31 @@ MEIKO (Ln): よかったら、聞かせてほしいな
 志歩: 先入っていいよ。練習で汗かいてるでしょ
 雫: そう？　じゃあ、お言葉に甘えさせてもらうわね
 志歩: うん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: 皆さんの……『目指す音楽』とは、なんですか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （私の目指す音楽、か……）
 志歩: （一歌や咲希の言うことはわかる。 あの時……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: なんだか、咲希ちゃんに励まされてるみたい
 一歌: うん……聞こえてくるみたいだね
 一歌: 『ひとりじゃない、私達がいるよ』って
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （音楽で、聴く人の心に寄り添えたり、 吉崎さん達を応援できて嬉しかった）
 志歩: （だけど、それが私の目指す 一番のことかって言われたら……やっぱり違う）
 志歩: （だって、私がベースをやろうと思ったのは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: あの人達の演奏を聴くと――心が、ぐっと揺さぶられるんだ
 志歩: 叫びたくなったり、泣きたくなったり…… いてもたってもいられないくらい、どうしようもなく
@@ -82,10 +72,8 @@ MEIKO (Ln): よかったら、聞かせてほしいな
 志歩: 私も、あの人達みたいに 誰かの心を動かせる演奏をしたい
 志歩: だから、もっとうまくなって…… プロになって、いろいろな人に 聴いてもらいたいって思ってる
 志歩: 私の演奏で誰かの心を揺さぶれたら……って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの想いは、ずっと変わってない……。 あの時聴いた音楽。あの人達の音が、私の中に今も響いてる）
 志歩: （だからこれ以上、他に何かって言われても……）
@@ -107,13 +95,13 @@ MEIKO (Ln): よかったら、聞かせてほしいな
 リン (Ln): ああ～！　この人達の曲、前にも聴かせてくれたよね！ たしか、しほっちが憧れてるバンドなんだっけ？
 志歩: うん。私がベースを始めたのも、 音楽で聴く人の心を震わせたいって思ったのも、 全部、この人達のライブを見たのがきっかけなんだ
 リン (Ln): 『そうなんだ……』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000242/bg_s000242.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000242/bg_s000242.webp)
 リン (Ln): 『ねえねえしほっち！　その時の話、聞かせて欲しいな☆』
 志歩: え？
 リン (Ln): 『だって～、しほっちがベースを始める きっかけになったことなんでしょ？』
 リン (Ln): 『なら、その時のことが、しほっちの目指す音楽にも つながってるんじゃないかなあって思って！』
-(White cut)
+(White transition)
 (Background change)
 志歩: ……たしかに、リンの言うとおりかもね
 リン (Ln): 『でしょでしょ～！ それに、子供の頃のしほっちがどんなだったか、 めちゃ興味あるし！』
@@ -121,4 +109,4 @@ MEIKO (Ln): よかったら、聞かせてほしいな
 志歩: じゃあ……どこから話そうかな
 志歩: 私の父さん、ミュージシャンなんだ。 それで子供の頃はよく、父さんに連れられて いろんなバンドのライブに行ってたんだけど……
 志歩: その時——あのバンドに出会ったんだ
-(Black cut)
+(Black transition)

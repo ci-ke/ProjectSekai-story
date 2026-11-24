@@ -9,27 +9,23 @@ Skill name: How To Be Honest
 [Ena's Room]
 
 Ena: Ngh...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Mafuyu: <The coloring makes this illustration look filthy.>
 Ena: <Now look here! I deliberately chose that color theme because the picture's supposed to portray a messy sort of atmosphere!>
 Mafuyu: <Oh. I couldn't tell.>
 Mafuyu: <This line here is crooked and it bothers me.>
 Ena: <I did that on purpose too!>
 Mafuyu: <Oh. I couldn't tell.>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: Ohh, it makes me so mad that she couldn't understand the part I spent so much time on!
 Ena: But it's not like K or Amia said anything about it, so it doesn't matter if Yuki doesn't understand...
 Ena: ...
 Ena: It's directly connected to the image of the song, though. Guess it wouldn't hurt to touch it up a little more.
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <Hey, K! Can you take a closer look at the last part of the music video for me?>
 Mizuki: <I completely overhauled it from the initial draft. I think it's more melancholic this way!>
@@ -104,7 +100,7 @@ Kanade: <I agree.>
 Ena: <I-I'm not having fun at all!>
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -123,18 +119,14 @@ Ena: <You just want to see the clothes, right?>
 Mizuki: <Oops, you figured it out?>
 Ena: <It was so blatant. Were you even trying to hide it?>
 Ena: <An exhibition, huh?>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ena: There you are! Whoa! What's going on?!
 Mafuyu: Huff... Huff...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: ...
 (Background change)
 Mizuki: <Come on, let's all go together! What about you, Yuki? You interested?>
@@ -142,7 +134,7 @@ Mafuyu: <I'm going out with my mother on that day.>
 Mizuki: <Oh, then it can't be helped, I guess. What a shame.>
 (Background change)
 Ena: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -186,4 +178,4 @@ Ena: <I wish I could be as laidback as you.>
 Ena: <But I think I get what you mean.>
 (Background change)
 Ena: <So thanks, Amia.>
-(Black cut)
+(Black transition)

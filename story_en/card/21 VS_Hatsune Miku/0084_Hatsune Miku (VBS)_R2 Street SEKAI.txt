@@ -32,7 +32,7 @@ Kohane: Um, Miku... I'll give it a try.
 Miku (VBS): Great! What will you sing for me?
 Kohane: Maybe... The song which led to me to become An's partner?
 An: Great choice! Let's sing it then!
-(Black cut)
+(Black transition)
 Kohane: Phew... So w-was it okay?
 Miku (VBS): It was great! I loved how you two were really enjoying yourselves.
 Miku (VBS): You were so into it. That's your song, isn't it?
@@ -63,7 +63,7 @@ An: You can't tell us? That's going to keep bugging me!
 An: I guess we'll just have to test it out for ourselves!
 Kohane: Yeah!
 Miku (VBS): Hehe. Good luck, girls.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -117,7 +117,7 @@ Miku (VBS): He just wanted to clear up any misconceptions about you.
 Toya: That's right. Akito's easily misunderstood, which was the case with Kohane. It makes life harder for me too, so I rather it didn't happen.
 Miku (VBS): Hehe. You hear that, Akito?
 Akito: ...
-(Black cut)
+(Black transition)
 MEIKO: Your coffees are ready!
 Akito: Thanks...
 Akito: ...
@@ -139,4 +139,4 @@ Akito: See you next time.
 Toya: The coffee was delicious, thank you.
 MEIKO: You're welcome. Take care, guys!
 Miku (VBS): See you.
-(Black cut)
+(Black transition)

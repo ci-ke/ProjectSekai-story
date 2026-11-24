@@ -9,7 +9,7 @@ Gacha phrase: Well, Mimitchi? Do you see any stars?
 
 [School SEKAI]
 
-(Black cut)
+(Black transition)
 Luka (Ln): Nicely done, girls. That was a wonderful performance.
 Miku (Ln): Yeah. I'd say that was your best today, no?
 Shiho: It's true that we managed to play as if it were the real deal. Didn't make any noticeable mistakes either.
@@ -29,7 +29,7 @@ Shiho: (Wh...What am I looking at...?!)
 Mimitchi: I'm Mimitchi! It's nice to meet you!
 Shiho: Y-You're so cu—!
 Shiho: Wait, no! Who are you?
-(Black cut)
+(Black transition)
 Honami: So, to sum up what you told us, Mimitchi...
 Honami: You attend Tamagotchi School on Tamagotchi Planet...
 Honami: And when you and your friends were having trouble with choir practice, one of them made you each a sleep-learning machine.
@@ -92,7 +92,7 @@ Shiho: Well, we did do well on that last performance... I guess we could call th
 Saki: So...!
 Shiho: Mimitchi... We'll help you with your singing.
 Mimitchi: Thank you! I'm ready to learn!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -116,7 +116,7 @@ Miku (Ln): Why don't you try listening to how everyone sounds and singing to mat
 Mimitchi: Listen to them while I sing... Got it!
 Shiho: Alright, let's give it a shot. Can we get your accompaniment, Saki?
 Saki: Okay♪ Here we go, everyone! One, two, three, four!
-(Black cut)
+(Black transition)
 Mimitchi & Shiho: ♪—— ♪————
 Saki, Ichika & Honami: ♪—— ♪————
 Everyone: ♪—— ♪———— ♪—— ♪————~~~!
@@ -129,12 +129,12 @@ Mimitchi: Listen and match, listen and match...
 Shiho: ♪—— ♪————
 Shiho: Huh...? Mimitchi?
 Mimitchi: *Gasp* I forgot to sing! L-Let's do that again, please!
-(Black cut)
+(Black transition)
 Mimitchi & Ichika: ♪—— ♪———— ♪—— ♪————~~~
 Miku (Ln): Nice. You're at the point now where you can listen to one other person and match them really well.
 Shiho: Still, now you're so focused on timing that you're not coming in as strong. That's definitely a waste.
 Mimitchi: Got it! I'll be careful about that next time!
-(Black cut)
+(Black transition)
 Everyone: ♪—— ♪———— ♪—— ♪————~~~!
 Miku (Ln): Nice! You've gotten a lot better compared to when we started.
 Mimitchi: Thank you! But even though I was finally in sync, now I feel like my pitch was off.
@@ -145,11 +145,11 @@ Mimitchi: Hmm, I wanna keep practicing, but... Okay.
 Ichika: Now that you've got some time on your hands, do you want to try playing any instruments?
 Mimitchi: I'd love to!! I wanna see what sounds I can make♪
 Saki: Oh, hey! Let's look at the stars together later too! The sky here is so amazing!
-(Black cut)
+(Black transition)
 Mimitchi & Shiho: ♪—— ♪————
 Saki, Ichika & Honami: ♪—— ♪————
 Everyone: ♪—— ♪———— ♪—— ♪————~~~!
-(Black cut)
+(Black transition)
 Miku (Ln): Nice work, everyone! That was a great chorus.
 Mimitchi: Really?! That makes me super happy!
 Mimitchi: Shiho, everybody, thank you! I think I'll be able to do a good job with my tama friends now!
@@ -192,7 +192,7 @@ Saki, Ichika, Honami & Luka: ♪—— ♪————
 Everyone: ♪—— ♪———— ♪—— ♪————~~~!
 Shiho: (The air around Mimitchi is glowing...)
 Shiho: (Goodbye, Mimitchi... Do your best at the recital.)
-(White cut)
+(White transition)
 Ichika: Mimitchi's gone...
 Saki: Do you think we'll ever get to see each other again?
 Miku (Ln): I don't know. But...
@@ -202,4 +202,4 @@ Luka (Ln): Yes. SEKAI and the power of your feelings may just give you another o
 Shiho: I see...
 Shiho: (I don't know when that'll be, but...)
 Shiho: (I'll see you then, Mimitchi.)
-(Black cut)
+(Black transition)

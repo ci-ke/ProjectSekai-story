@@ -51,7 +51,7 @@ Kohane: Of course! I can't believe this is really happening! Not only that, I ge
 Emu: Thanks...! We promise to give you a really, really fun show!
 Minori: Congratulations to you both, Emu, Kohane!
 Kohane: Thanks! I must be dreaming! Wonderlands×Showtime is gonna celebrate my birthday! I can't wait!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -75,7 +75,7 @@ Akito: Yeah, it's not like we have anything else to do since we decided to take 
 An: Alright, that settles that! We're gonna do everything we can to give you as big a celebration as Tsukasa and his troupe!
 Kohane: Hehe. Thanks!
 Kohane: Oh, there's actually someone else I've been meaning to ask!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kohane's birthday]
@@ -102,7 +102,7 @@ Akito: Yeah... Also, it's your birthday. You should be having fun instead of han
 An: Kohane! Let's go!
 Kohane: Okay! Let's all have as much fun as we can today.
 Akito & Toya: Alright. Yes, let's.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -118,7 +118,7 @@ Kohane: Hi, everyone! Thanks for coming!
 An: Kohane, wait! Sorry, be right back!
 Akito: This might be a good chance for us to let Len and the others know what's up.
 Toya: Okay, I'll leave you to that. We've probably kept them waiting long enough.
-(Black cut)
+(Black transition)
 Minori: Thanks for inviting us today, Kohane! Also, happy birthday!
 Haruka: Congratulations, Kohane. Here's something from us.
 Kohane: Wow! Thank you so much!
@@ -126,10 +126,10 @@ An: Whoa, this box is so cute!
 An: What's inside, Haruka? I promise not to tell Kohane.
 Haruka: Still a secret. You'll just have to wait until she opens it.
 An: Grr...
-(Black cut)
+(Black transition)
 Mizuki: (I knew that Minori and Haruka went to the same school, but I didn't realize they knew Kohane too.)
 Mizuki: (I should say hi to them♪)
-(Black cut)
+(Black transition)
 Ichika: Thank you for inviting us as well, Kohane.
 Kohane: No, I should be thanking you. I know you're busy with band practice and everything.
 Saki: Oh, have you already talked to Tsukasa? He said he wanted to thank you for agreeing to participate in this test show.
@@ -140,7 +140,7 @@ Kohane: They'll be meeting us here. I just got word that they're almost here a s
 Emu's Voice (Emu): “Attention please♪ The show is about to start☆ Everyone, please sit wherever you like!”
 Emu's Voice (Emu): “Also, we ask that Kohane come to the Wonder Stage and meet us backstage♪”
 Kohane: Huh? Me?
-(Black cut)
+(Black transition)
 
 [Backstage]
 
@@ -157,25 +157,25 @@ Tsukasa: Indeed! You'll look for a member of the audience who you believe will a
 Tsukasa: When your answers match, your power of friendship will cause this legendary sword to awaken. 
 Kohane: Oh wow...! That sounds like so much fun!
 Emu: I know, right?! So let's both do our best!
-(Black cut)
+(Black transition)
 Emu the Brave (Emu): “Now, your majesty! I, Emu the Brave, and Kohane the Brave shall venture forth to rescue our friends!”
 Kohane the Brave (Kohane): “A-And! We vow to defeat the evil Demon Lord Tsukasa using this legendary sword!”
 Kohane's Father: Go get 'em, Kohane!
 Kohane: Huh?! D-Dad...
-(Black cut)
+(Black transition)
 Demon Lord Tsukasa (Tsukasa): “Hah hah hah hah! You have done well to come this far, brave warriors!”
 Nene the Fairy (Nene): “But your power of friendship will need to be much stronger than that to awake this legendary sword of yours!”
 Demon Lord Tsukasa (Tsukasa): “Hahaha. Let us see if you have what it takes to defeat me.”
 Kohane: (Now I need to look for someone who I think will answer his questions the same way!)
 Demon Lord Tsukasa (Tsukasa): “Question #1! Which would you rather have for lunch? A croquette sandwich or yakisoba bun?”
-(Black cut)
+(Black transition)
 (Background change)
 Len: <What does that have to do with being a warrior?!>
 Rin: <L-Len! Not so loud!>
 KAITO: <Haha. We should be fine for now. It looks like no one else can see us from here.>
 KAITO: <Also, this is great! We'll have to tell MEIKO and the others all about this when we get back.>
 Miku (VBS): <I'm glad we came. Kohane really seems to be enjoying herself.>
-(Black cut)
+(Black transition)
 (Background change)
 Rui the Wise (Rui): “What say you, Kohane the Brave?! Who are you going to choose to help you?”
 Kohane the Brave (Kohane): “U-Uhh... Ichika, please help me!”
@@ -189,21 +189,21 @@ Demon Lord Tsukasa (Tsukasa): “What?! How did you answer my first question so 
 Rui the Wise (Rui): “Excellent! Our brave warriors' power of friendship is starting to wake the legendary sword from its slumber!”
 Emu the Brave (Emu): “Keep it up and it'll be awake in no time!”
 Kohane the Brave (Kohane): “Right!”
-(Black cut)
+(Black transition)
 Demon Lord Tsukasa (Tsukasa): “H-How can this be?! You correctly answered all of my questions?!”
 Kohane the Brave (Kohane): “It's over, Demon Lord Tsukasa...!”
 Demon Lord Tsukasa (Tsukasa): “Noooo! Your power of friendship... It's too strong... Guh...”
 Kohane the Brave (Kohane): “W-We did it...! We defeated the evil Demon Lord Tsukasa!”
 Emu the Brave (Emu): “Nice job! It's all thanks to you and your friends having such powerful bonds, Kohane!”
 Rui the Wise (Rui): “And with the evil Demon Lord defeated, the world was able to usher in an era of peace...”
-(Black cut)
+(Black transition)
 Kohane: (Thank goodness there weren't any problems! I really need to thank everyone for...)
 Rui the Wise (Rui): “But we aren't finished just yet!”
 Kohane: What?!
 Rui the Wise (Rui): “Our brave warriors returned home to find that their friends and acquaintances had prepared some special messages to celebrate Kohane's birthday.”
 Emu: So, it's surprise message time! Starting with us!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000055/bg_s000055.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000055/bg_s000055.webp)
 Nene: Happy birthday, Azusawa. I'm glad you had fun as our brave protagonist today. I hope we get to hang out like this more in the future...
 Tsukasa: Between Miya Girls and Kamiyama High, you've assembled quite the party for us today! Be sure to cherish your friends, and from all of us to you, we hope to see you again!
 Rui: Good friends aren't easy to come by, so I hope you and your friends were able to have a fun and memorable time during our show today.
@@ -222,14 +222,14 @@ Toya: Me too. We even got to go on some of the rides we missed last time. Howeve
 Akito: Nah, as far as I could see, she wanted to show us around. Isn't it fair to say that it was one of her birthday wishes?
 An: Yeah! I'm glad we got to visit PXL again! It's always way too much fun!
 An: And again, Kohane, happy birthday! Let's keep doing everything we can to put on an event that surpasses RAD WEEKEND!
-(White cut)
+(White transition)
 (Background change)
 Kohane's Father: *Sob* Kohane... You've made such wonderful friends...!
 Kohane: D-Dad, stop...! Mom, don't just laugh! Do something...!
-(White cut)
+(White transition)
 (Background change)
 Kohane: Hehe. So many people came to celebrate my birthday today.
 Kohane: I think I have street music to thank for that. I used to be so shy and introverted, but it helped me break free from that little by little...
 Kohane: I promise to do everything I can to keep growing as both An's partner and a member of Vivid BAD SQUAD.
 Kohane: So I'll be counting on your support!
-(White cut)
+(White transition)

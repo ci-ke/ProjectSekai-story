@@ -32,12 +32,12 @@ Akito: We were just about to start reading them.
 Toya: As far as tutoring goes, why don't I step in whenever you get stuck?
 Akito: Sounds good. I want to get through as much of this as I can by myself.
 Toya: Okay. In that case, let's both do our best.
-(Black cut)
+(Black transition)
 Toya: (Okay, I'm finished with the seven problems pertaining to this long passage. Let's how Akito's doing...)
 Toya: (He's on the third one. He seems to be struggling a bit, but it's clear that he's doing his best to solve them by himself.)
 Toya: (I was under the impression that he invited me because he was having trouble with something...)
 Toya: (But he might just be able to solve every problem on his own...!)
-(Black cut)
+(Black transition)
 Akito: *Sigh* I'm finally done with those long-passage problems...
 Toya: ...!
 Toya: (He actually solved them all on his own!)
@@ -67,17 +67,13 @@ MEIKO (VBS): From ear to ear...
 Len (VBS): Yeah! I don't think I've seen him smile like this before either!
 Akito: I mean, it'd be pretty lame for someone who just helped rewrite history to not pass a test, right...?
 Akito: I already wake up early every day to run, so I thought I should make the most of any time in between.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Toya: If only you gave this as much attention as you do when it comes to singing...
 Akito: I was trying to do things efficiently.
 Toya: Betting on the questions being easy doesn't count as efficiency.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Toya: You used to be all about taking the easy way out, but you've really been trying little by little...!
 Toya: You finally understand the value of studying every day!
 Akito: Uhh... Y-Yeah...
@@ -90,7 +86,7 @@ Miku (VBS): If you don't, Toya's going to be very disappointed.
 Akito: Y-Yeah, I know...
 Akito: J-Just watch, Toya. I-I'll finish everything this weekend.
 Toya: Yes, I'm confident that you will.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -99,15 +95,11 @@ Toya: Yes, I'm confident that you will.
 
 [Miyamasuzaka]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (It was nice to see him doing well...)
 Toya: (He even said that Tono has been visiting him in the hospital every day, so they may return to being Gurney flap soon.)
@@ -166,4 +158,4 @@ Toya: I'll see you again at school, Akiyama.
 Mizuki: Bye bye♪ See you later!
 Toya: (Yoisaki's apparently composed quite a few songs, so I'm looking forward to talking with her again.)
 Toya: (I should learn more about songwriting and composing before next time, to make sure we get to have a meaningful discussion.)
-(Black cut)
+(Black transition)

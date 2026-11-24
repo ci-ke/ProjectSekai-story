@@ -19,17 +19,13 @@ MEIKO: ……そう……
 絵名: メイコ、前に瑞希のことをルカと話してたでしょ？
 絵名: それって、今回のことと何か関係してるの？ もし何か知ってたら、教えて……！
 MEIKO: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ルカ: 見守るのは大事だけれど——停滞しているなら、 今の在りかたを揺さぶって、壊すことも必要だわ
 ルカ: 私は、そのためにここにいる気がするの
 MEIKO: 壊す……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: …………
 絵名: 知らないなら、気づいたことでもいいから。 ちょっといつもと違う雰囲気があったとか——
 MEIKO: ……私が瑞希について、何か知っていたとしても、 言うつもりはないわ
@@ -40,8 +36,8 @@ MEIKO: あなた達のことは、あなた達が 自分の力で向きあわな
 絵名: でも、なんだって全部、ひとりの力で なんとかしなきゃいけないってわけじゃないでしょ？
 絵名: 少なくとも私は、みんなに助けてもらった
 絵名: 瑞希だって、話せば少しは楽になるかもしれないじゃない！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000017/bg_s000017.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000017/bg_s000017.webp)
 MEIKO: ……………………話せば楽に、ね
 MEIKO: 本当にそうなのかしら
 絵名: え？
@@ -50,7 +46,7 @@ MEIKO: 話すことがよくない結末を呼ぶことも たくさんあるわ
 MEIKO: ……私は、一般論を言っただけよ
 MEIKO: すべての人にとって、絶対に正しい方法なんてない
 MEIKO: 誰かが手を差し伸べることが、 余計な苦しみを生むこともあるわ
-(White cut)
+(White transition)
 (Background change)
 絵名: …………
 MEIKO: 話はもういい？
@@ -70,39 +66,31 @@ MEIKO: ……あなたのその目で見守ることが、 あの子の力にな
 MEIKO: 私から言えることは、もうないわ
 絵名: あ……！ ちょっと！　メイコ！
 絵名: それって、どういう意味なの！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
 
 絵名: ……相談しに行ったのに、 余計わけわかんなくなっちゃったな
 絵名: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 話すことがよくない結末を呼ぶことも たくさんあるわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……そっか。 そういうことも、あるのかも
 絵名: でも……話せないようなことってなんだろ？
 絵名: 人に言えない、何か悪いことをしたとか？ でも瑞希がそんなことするとは思えないし……
 絵名: ……あーもう！　わかんない！ わかんないのにグルグル考えてると、 気分悪くなっちゃう！
 絵名: もう、こんなモヤモヤしたくないのに……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: ……あなたのその目で見守ることが、 あの子の力になるかもしれないわね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: …………。 見守る……か
-(Black cut)
+(Black transition)

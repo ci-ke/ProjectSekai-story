@@ -147,15 +147,11 @@ EVER: ♪————！！
 こはね: 私も……行かなきゃ
 杏: こはね……
 杏: 私は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: 私、は……
 こはね: 杏ちゃん—— 先に、行ってる
@@ -215,44 +211,32 @@ EVER: ♪————！！
 杏: （本能で——直感で歌うんだ！ 考えてちゃ絶対、大河おじさんには通用しない。 するはず、ないんだから——！）
 杏: （だから、今——私が持ってるもの全部ぶつけて、歌うんだ！ 死に物狂いで、噛みついてやる！）
 杏: （私の全部—— 今まで叩き込んだこと、全部全部ぶつけて……！！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: あはは、杏は飲みこみが早いから教え甲斐あるな。 はい、じゃあグータッチ！　イェーイ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: やっほー！ 杏、今日も朝練？
-(White cut)
+(White transition)
 (Background change)
 凪: 杏、もう１回もう１回！ 今のは納得いかない！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 杏: （…………今は、思い出したら……だめだ……っ！）
 杏: （絶対、歌えなくなる。 忘れないと、凪さんのこと……！）
 杏: （忘れないと…………！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ——やっぱりここにいた
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………っ
 こはね: （……！　杏ちゃんの声が……！）
@@ -262,26 +246,18 @@ EVER: ♪————！！
 大河: お前が凪からもらったもんは——その程度か？
 杏: …………っ！！
 杏: （……ふざけるなっ……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （凪さんが私にくれたものは——）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000093/bg_s000093.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000093/bg_s000093.webp)
+(White transition)
+(Flashback out)
 (Background change)
 杏: （凪さんが私にくれたのは…… 私の歌の————全部だ！！！！）
 杏: ♪ ————————～～～～！！
@@ -291,7 +267,7 @@ EVER: ♪————！！
 冬弥: （——彰人！　小豆沢！ この流れに乗るぞ！！）
 こはね: （……！　うん！）
 彰人: （いくぞこのまま……！　最後まで突っ切るぞ！！）
-(Black cut)
+(Black transition)
 杏・こはね: 『はぁ、はぁ……はぁ……っ』
 街の若いミュージシャン達: すげえ！ やってくれたなVivid BAD SQUAD！
 街の若いミュージシャン達: この土壇場で、今までで一番すげえ歌聴かせてくれるとはな！！
@@ -338,4 +314,4 @@ EVER: ♪————！！
 洸太郎: （行かないでくれよ……っ！）
 大河: これが、お前達が超えようとしてる壁だ。 俺は、教えた
 大河: ——食らいついてくるなら、好きにしろ
-(Black cut)
+(Black transition)

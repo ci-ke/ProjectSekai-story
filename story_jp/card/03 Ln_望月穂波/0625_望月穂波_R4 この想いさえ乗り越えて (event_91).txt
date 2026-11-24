@@ -28,7 +28,7 @@ Gacha phrase: 責任か……
 一歌: ふふっ。穂波、私の分もあるから 遠慮なく持っていっていいよ
 志歩: いや、いらないでしょ
 志歩・一歌・穂波・咲希: 『あはは！』 『ふふっ』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -74,7 +74,7 @@ Gacha phrase: 責任か……
 穂波: あ、はい！
 志歩: じゃ、いってらっしゃい
 穂波: うん！　いってきます！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -92,15 +92,11 @@ Gacha phrase: 責任か……
 穂波: （楽しかったっていう気持ちが強くて、 まだちゃんと冷静に思い返せてない気がするな）
 穂波: …………
 穂波: （わたし達、本当にワンマンをやったんだ——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （お客さん達の歓声が、今も耳の奥に響いてくる……）
 穂波: （本当に、最高のライブだったな）
@@ -125,23 +121,19 @@ Gacha phrase: 責任か……
 穂波: うん……！　すごくイメージしやすかったよ。
 穂波: ……本当に、桐谷さんには感謝してもしきれないな
 穂波: 桐谷さんと話をしてなかったら いいワンマンにできてなかったかもしれない
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: ライブに来てくれるお客さん達の気持ちは、ひとつだけ
 遥: ——最高のライブを見たいっていうこと
-(White cut)
+(White transition)
 遥: ……でも、もうひとつ考えてたことがあるんだ
-(White cut)
+(White transition)
 遥: それは——お客さんと同じくらい、 自分達もそのライブを心から楽しんで届けようっていうこと
 遥: 『楽しませなきゃ』って義務感だけでできたライブは、 やっぱりつまらないし、それはお客さんにも伝わっちゃう
 遥: だから、ちゃんと自分達が心から納得して、楽しむこと。 それを忘れないようにしてたな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ——あの時、桐谷さんにすごく大切なことに 気づかせてもらって……
 穂波: そのおかげで、周りの人達にお願いして 協力してもらおうって素直に思えたんだ
@@ -161,4 +153,4 @@ Gacha phrase: 責任か……
 穂波: （改めてお礼言えてよかった……）
 穂波: （でも、桐谷さん以外にも たくさんの人にお世話になったから、 ちゃんと感謝の気持ちを伝えたいな……）
 穂波: （反省会が終わったら、みんなに相談してみようかな）
-(Black cut)
+(Black transition)

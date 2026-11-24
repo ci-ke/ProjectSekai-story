@@ -15,43 +15,35 @@ Gacha phrase: ちょっとは、楽になれてるかな……
 絵名: …………
 絵名: はあ……全然集中できないな
 絵名: （……あんな話聞かされて、 なんとも思わないほうがおかしいけど）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『隠してたんだけど……。 私のいないうちに、またパソコンを見られてて……』
 まふゆ: 『……多分、歌詞やナイトコードも見つかった』
-(White cut)
+(White transition)
 (Background change)
 奏: 『……まふゆのお母さんから、連絡がきたんだ』
-(White cut)
+(White transition)
 (Background change)
 奏: 『……、えっと…… まふゆと音楽をするのは、控えてほしいって』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ホント、意味わかんない
 絵名: 人のパソコン、勝手に漁るだけでもありえないのに サークルを抜けさせてほしいってなんなの……！
 絵名: （まふゆは何も言ってなかったから、 きっとこのこと知らないんだろうな）
 絵名: （知ったら動揺しそうだし、 知らないほうがいいとは思うけど……）
 絵名: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 絵名: ——まふゆは、どうしたいの？ 親のこととか関係なく
 まふゆ: …………わからない
 まふゆ: ……でも、みんなと一緒に……曲を作りたい
 絵名: ……まふゆ……
 絵名: ……そっか
 絵名: ——じゃあ、私も手伝う。 ニーゴの仲間として
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 絵名: まふゆは、音楽をやりたがってるのに……
 絵名: 私は……何もできてない……
 絵名: ……ムカつくけど、今こんなこと考えたって仕方ない。 とりあえず、作業を——
@@ -84,7 +76,7 @@ Gacha phrase: ちょっとは、楽になれてるかな……
 瑞希: 『ねえねえ、ついでに気になってるショップも 回りたいんだけど、どう？』
 絵名: 『いいんじゃない？　気晴らしのために行くんだし』
 瑞希: 『やったー！ じゃあ、とことんつきあってもらっちゃおうかな♪』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -103,21 +95,17 @@ Gacha phrase: ちょっとは、楽になれてるかな……
 瑞希: 『それに、ひとりだと気になって仕方ないからって 集まったんだよ？　なんか話そうよ』
 (Background change)
 絵名: 『うん、わかってるけど……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: 『あら、そうなのね。 いつもまふゆと仲良くしてくれてありがとう』
 まふゆの母: 『でも……』
 まふゆの母: 『まふゆとは、どういうつながりのお友達なのかしら？』
-(White cut)
+(White transition)
 まふゆの母: 『もしかして……』
 まふゆの母: 『——まふゆと一緒に、音楽をしている子？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 奏……
 (Background change)
@@ -128,18 +116,14 @@ Gacha phrase: ちょっとは、楽になれてるかな……
 絵名: 『……そういう大事な話を、 本人抜きでするのがそもそもおかしいけど』
 瑞希: 『大丈夫。奏ならまふゆの気持ちをしっかり伝えてくれるって』
 絵名: 『私だって、奏のことは信じてるけど……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 『……もし、話し合いがうまくいかなかったら、 まふゆと会えなくなるかもしれない』
 奏: 『だから……直接顔を見られるのは わたしだけのほうがいいと思う』
 奏: 『ふたりの顔まで見られたら、 本当に誰も——まふゆのそばに いてあげられなくなるかもしれないから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 『……お願いして、すんなり許してくれると思う？』
 (Background change)
@@ -175,4 +159,4 @@ Gacha phrase: ちょっとは、楽になれてるかな……
 (Background change)
 瑞希: 『もちろん。あ、そういえばボク、 イラストのラフ待ちだったんだ。あ～あ、まだかなあ』
 絵名: 『ちょっと、急かさないでよね！』
-(Black cut)
+(Black transition)

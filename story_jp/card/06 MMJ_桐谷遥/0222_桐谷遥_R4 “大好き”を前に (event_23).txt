@@ -39,7 +39,7 @@ Gacha phrase: か、かわいい……！
 咲希: ……！　うん、行きたい！
 一歌: 私も！　お互い、休みができたら行こうね
 遥: ふふ。約束だよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [遥の部屋]
@@ -54,17 +54,13 @@ Gacha phrase: か、かわいい……！
 遥: （ペンギンのぬいぐるみだけでも可愛いのに、 あんなにたくさんのペンギングッズに囲まれたら……）
 遥: （すごく……すごく幸せだろうな……）
 遥: ペンギンカフェ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: 遥ちゃん、少し休んだほうがいいんじゃないかしら
 雫: 疲れが溜まっていたら、いつもの力を出せないと思うの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （雫もああ言ってたし、少し……）
 遥: …………
@@ -75,7 +71,7 @@ Gacha phrase: か、かわいい……！
 遥: そうだ、さっき考えた企画の挨拶にも活かせるんじゃ……
 遥: ……よし。休憩は終わり
 遥: 寝る前に、もう少し企画を詰めてみよう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,17 +98,13 @@ Gacha phrase: か、かわいい……！
 愛莉: そうね。カフェメニューもペンギンモチーフで かわいいし、おいしいしで言うことなしって感じ！
 みのり: うんうん♪　頼んだパフェに当たりのマスコットもついてて、 ラッキーだったよねー！
 遥: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 店員: おめでとうございます！ そちらのマスコットですが、10個のうちひとつだけ 当たりになっていて、親子のペンギンなんですよ
 遥: 親子の…………！ これ、もらっちゃっていいのかな？　本当に？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……昨日のあれ、 さすがにちょっとはしゃぎすぎちゃったかな）
 雫: ……遥ちゃん、どうかしたの？
@@ -150,4 +142,4 @@ Gacha phrase: か、かわいい……！
 雫: そうよ。素の遥ちゃんを見せてくれていいからね
 遥: ありがとう、ふたりとも。 それじゃあ……ちょっと頑張ってみようかな
 雫: ええ！
-(Black cut)
+(Black transition)

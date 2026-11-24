@@ -38,7 +38,7 @@ Shiho: I dunno... But something must've happened to have her up there.
 Live House Angel (Minori): “That's why we're gonna give you a tour of the wide world of weddings today!”
 Woman (Nene): “Th-The wide world of weddings...?”
 Wedding Angel A: “Hehe. It'll be faster just to show you, so let's...! Go!”
-(White cut)
+(White transition)
 Woman (Nene): “A-Are we aboard a train...?”
 Wedding Angel A: “Our first stop is a train wedding, which involves renting out an actual train and holding a ceremony aboard it!”
 Wedding Angel A: “Take a look outside the window. This special view's meant just for you!”
@@ -55,7 +55,7 @@ Woman (Nene): “The underwater tunnel acts as the aisle...!”
 Wedding Angel C: “It gets even better! Imagine having the dolphins do tricks while you kiss after saying your vows!”
 Woman (Nene): “Hehe... I'd be like a movie princess.”
 Wedding Angel D: “Hehe. Sounds like you're getting interested. Next, we have...”
-(Black cut)
+(Black transition)
 Minori: (It's finally my turn next...!)
 Minori: (I have my lines and dance routine memorized, but I'm still pretty nervous...)
 Minori: (But I've gotta do this! This show has to succeed, so that everyone goes home smiling!)
@@ -125,16 +125,16 @@ Woman (Nene): “I've made my decision... I want to hold a wedding.”
 Woman (Nene): “I want to create more wonderful memories with the person I love!”
 Wedding Angels: “We've been waiting for you to say that!”
 Wedding Angels: “We can cast that spell now, you guys! Three, two, one... Poof!”
-(White cut)
+(White transition)
 (Background change)
 Woman (Nene): “Wow...!”
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000319/bg_s000319.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000319/bg_s000319.webp)
 Woman (Nene): “I-I'm in a dress now...!”
 Live House Angel (Minori): “That's right! You made your wish, and your wish took form!”
 Woman (Nene): “My wish took form?”
 Woman (Nene): “This dress is gorgeous... I'd love to be wearing this when we get married.”
-(White cut)
+(White transition)
 (Background change)
 Ena: Did she just get changed?! How?! In that instant?!
 Shiho: That was fast, but I'm sure there's some clever trick involved...
@@ -144,4 +144,4 @@ Woman (Nene): “Of course!”
 Live House Angel (Minori): “Then, let's go to where your beloved is!”
 Live House Angel (Minori): “And tell him that you want to have a wedding!”
 Woman (Nene): “Okay!”
-(Black cut)
+(Black transition)

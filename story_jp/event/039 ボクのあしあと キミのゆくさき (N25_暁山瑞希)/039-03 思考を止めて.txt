@@ -18,29 +18,21 @@
 瑞希: （ニーゴのみんなに知られて、 今の関係が変わっちゃうのが……怖いから？）
 瑞希: （——もし）
 瑞希: （もし、みんながボクのことを知ったら、 どうなるんだろう）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （みんななら——）
 瑞希: （変わらないままで、いてくれるかもしれない）
 瑞希: （そうなんだね、それじゃあ作業に戻ろうかって 言ってくれて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ——変なの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （ううん。今までのことは、関係ない）
@@ -49,7 +41,7 @@
 瑞希: （それなのに……ドキドキが止まらない）
 瑞希: （もし話して、今の関係が変わっちゃったら、 ボクは——）
 瑞希: ボクは……
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: （あ……もう、25時か……）
 瑞希: （ナイトコードに入らないと。 みんな、待ってるよね……）
@@ -72,7 +64,7 @@
 瑞希: （大事なみんなを……騙してるみたいで）
 瑞希: （……どうしてなんだろう）
 瑞希: （どうして、ボクはボクでいたいだけなのに、 こんなに苦しくなっちゃうんだろう——）
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: （…………朝？）
 瑞希: （……あはは、結局一晩中起きてたんだ）
@@ -83,4 +75,4 @@
 瑞希: （今までどおり、それでいいんだ——）
 瑞希: ——うん。大丈夫
 瑞希: これで……大丈夫だよね
-(Black cut)
+(Black transition)

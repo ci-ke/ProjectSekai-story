@@ -18,7 +18,7 @@ Shizuku: ...
 Airi: Is something wrong, Shizuku?
 Shizuku: Oh... It's nothing. I'm going to go buy some water.
 Airi: Huh? Okay, go for it.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Corridor]
@@ -42,7 +42,7 @@ Shizuku: No, nothing happened per se...
 MEIKO (MMJ): <Would you like to talk about it? You might feel better after you do.>
 Shizuku: MEIKO...
 Shizuku: Thank you. Then, if you don't mind listening...
-(Black cut)
+(Black transition)
 MEIKO (MMJ): <I see. So that's what happened with Arisa...>
 Shizuku: I know in my mind that I need to focus on MORE MORE JUMP! right now.
 Shizuku: And that Arisa and the others don't actually want help.
@@ -67,7 +67,7 @@ MEIKO (MMJ): <Besides, you've already made your decision, haven't you?>
 Shizuku: Yes, you're right.
 Shizuku: They may refuse me... But I still want to tell them.
 Shizuku: I'll go try talking to Arisa and the others again.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Rehearsal Room)
 Member: ♪——! ♪——~~!
@@ -97,10 +97,8 @@ Arisa: ...
 Arisa: So, your side of things is really fine?
 Shizuku: Yes...! We are still working on a couple of things, but the finish line is in sight.
 Shizuku: And I made sure to discuss this with the others first.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Shizuku: So... I'd like to spend just a little time working with Cheerful * Days.
 Shizuku: I know I'm being very selfish, but...
 Airi: Alright. Go do what you think is right.
@@ -108,10 +106,8 @@ Shizuku: What...?
 Minori: We all feel the same way. We want to put on an amazing show, together!
 Haruka: Right. If Higure and the others are really struggling, then I'd actually really appreciate it if you went.
 Shizuku: Thank you all so much...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Shizuku: So, I'd like you to let me help you.
 Shizuku: To ensure that we do put on the best performance ever.
 Arisa: You know, if our performance does improve...that could hurt you all in the end. Didn't you think of that?
@@ -125,4 +121,4 @@ Member: Wait, Arisa... Are you serious?
 Arisa: Remember what I said in the beginning? Right now, we have to focus on putting on the best performance ever.
 Arisa: So... We're counting on you, Shizuku.
 Shizuku: Of course!
-(Black cut)
+(Black transition)

@@ -71,14 +71,14 @@
 絵名: （せっかくのチャンスだったのに、ダメかあ……）
 レン (N25): 『あ、絵名ちゃん……』
 絵名: ん？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000553/bg_s000553.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000553/bg_s000553.webp)
 レン (N25): 『見て。ひとつだけ、残ってるよ』
 絵名: あ、本当だ。 えっと……歌手募集？
 概要欄: 『展示初日と最終日に、“アリエの庭の悪夢”に登場する 影の少女役として歌っていただきます』
 概要欄: 『採用予定人数は１名です。 希望者は課題曲の歌を録音して送ってください。 応募多数の場合、追加審査が行われる場合もあります』
 絵名: ……個展で、歌？
-(White cut)
+(White transition)
 (Background change)
 レン (N25): 『個展って、歌うこともあるの？』
 絵名: いや、普通はない……と思うけど……
@@ -107,4 +107,4 @@
 絵名: 本当？
 絵名: じゃあお願い！ 軽く練習するから、気になるところがあったら教えて……！
 レン (N25): 『う、うん……！』
-(Black cut)
+(Black transition)

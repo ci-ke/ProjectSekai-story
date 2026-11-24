@@ -39,7 +39,7 @@ Fukami: So, quid pro quo!
 Shizuku: Hehe. Thank you. This problem really had me stuck.
 Fukami: Alright, we have a deal! Can you tell me where you're stuck?
 Shizuku: So, I think it has to do with this formula...
-(Black cut)
+(Black transition)
 Shizuku: Thank you for helping me solve that, Fukami. I really appreciate it.
 Fukami: And I'm all done copying your notes! You're a lifesaver!
 Shizuku: (Come to think of it, when was the last time I spoke to Fukami like this...?)
@@ -61,7 +61,7 @@ Fukami: Hehe. I actually brought back a boxed lunch from my shoot. In fact, how 
 Shizuku: Oh, are you sure? You're so generous.
 Airi: Alright, let's put our desks together!
 Shizuku: Okay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -81,7 +81,7 @@ Haruka: We all had a lot of fun.
 Shizuku: (That explains why Shii came home a little late yesterday. She was hanging out with Minori and her friends...)
 Shizuku: Minori, Haruka... Can you tell us more about what you all did?
 Minori: Sure. First, we went to a diner and...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shizuku's Room]
@@ -102,10 +102,8 @@ Shizuku: We... Actually, Airi in particular was very worried about Minori.
 Shizuku: Her concern was that Minori and her friends would begin drifting apart since she won't be able to spend as much time with them after switching to the credit-based course...
 Shiho: Minori seemed pretty worried about that too...
 Shizuku: I know... But she mentioned how you and Kohane gave her the courage to go through with it.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: Still, if I were in your position, I'd probably choose the credit-based course.
 Minori: What...?
@@ -113,13 +111,11 @@ Shiho: Yes, I wouldn't be able to see my friends as much, but we don't necessari
 Shiho: I may be busy working, but we could always set aside time to meet or hang out.
 Shiho: And if going credit-based made it easier for me to make my dream come true, then I'd absolutely choose that option.
 Kohane: I agree...
-(White cut)
+(White transition)
 Kohane: We might not be able to have lunch together or talk like this as much...
 Kohane: But your dream is to spread hope to as many people as you can as an idol... I really want that to happen.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: All I did was tell her how I felt...
 Shizuku: Hehe. That's one of your best qualities, Shii.
@@ -133,4 +129,4 @@ Shiho: Also, there isn't much point in worrying about us drifting apart when the
 Shizuku: Yes, I agree...
 Shizuku: Thank you so much for giving my groupmate the encouragement she needed, Shii.
 Shiho: You're welcome...
-(Black cut)
+(Black transition)

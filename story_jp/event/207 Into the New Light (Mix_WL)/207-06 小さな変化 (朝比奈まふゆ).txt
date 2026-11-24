@@ -2,7 +2,7 @@
 
 (Character: 望月穂波, 日野森雫, 小豆沢こはね, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 巡音ルカ)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -15,14 +15,10 @@
 ルカ (N25): 『さあ、どういう意味かしら』
 ルカ (N25): 『けれど……そうね。 どうするのかは、あなたの自由よ』
 ルカ (N25): 『決めるのは、あなたなんだから』
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 まふゆ: …………
 まふゆ: それなら——
 こはね: え……？
@@ -35,15 +31,11 @@
 少女: ………………
 まふゆ: 私は小豆沢さんみたいに、 自分を変えられたわけじゃない
 まふゆ: ただ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……今は……
 まふゆ: いつかは私も、変わっていけるかもしれないって—— そう思えるようになったから
@@ -65,7 +57,7 @@
 少女: ……まだ、自分のことは信じられないです
 少女: 変わることからも、憧れからも、 逃げないでいられるかわかりません。でも——
 少女: それでも……諦めたくないなって、思いました
-(Black cut)
+(Black transition)
 (Background change)
 少女: ——ここまで送っていただいて、ありがとうございました
 まふゆ: 気をつけて帰ってね
@@ -80,15 +72,11 @@
 穂波: えっと……
 まふゆ: （……望月さん、困ってるな）
 まふゆ: （このまま、誤魔化すこともできるけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……そうかもしれないね
 まふゆ: 私はいつも、みんなの前では違う自分を見せてたから
@@ -132,11 +120,11 @@
 雫: すごく勝手なお願いかもしれないけれど……
 雫: そう思っていることだけは、覚えていてほしいの
 まふゆ: ………………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000597/bg_s000597.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000597/bg_s000597.webp)
 まふゆ: ……うん。わかった
 まふゆ: ——ありがとう
-(White cut)
+(White transition)
 (Background change)
 雫: こちらこそありがとう、朝比奈さん！
 (Background change)
@@ -145,7 +133,7 @@
 まふゆ: （今……）
 雫: 朝比奈さん？　どうしたの？
 まふゆ: ——一瞬、ルカの歌が聴こえた気がしたんだ
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: ♪————————……
-(Black cut)
+(Black transition)

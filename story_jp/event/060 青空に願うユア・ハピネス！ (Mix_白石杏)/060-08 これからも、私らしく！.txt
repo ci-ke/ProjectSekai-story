@@ -21,7 +21,7 @@
 こはね: 最後に見せてもらった写真もすごく良かったんだよ。 やっぱりプロのカメラマンさんってすごいんだね……！
 杏: 汚しちゃったドレスも、絹谷さんが綺麗に クリーニングしてくれたみたいで安心したよ～
 杏: ……っと、着いた着いた！ こんにちはー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -43,15 +43,11 @@ MEIKO: でも……やっぱり歌っている姿が一番輝いている瞬間�
 こはね: 杏ちゃん、メイコさんに『ほら、いつまで寝てるの？　もう朝よ』 とか、『しっかり食べて、今日も１日頑張ってね』 って言ってもらいたいなぁって話してたんだ
 杏: えっ
 こはね: それで今回も——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 雫先輩と一緒にいる時はなんだか嬉しそうっていうか、 いつもより可愛い感じになってたから
 こはね: やっぱり杏ちゃん、 お姉さんっぽい人には甘えたいんだなって——
@@ -66,15 +62,11 @@ MEIKO: ん？ どうしたの杏ちゃん
 杏: ……そっか。 私、無意識に、そうなりたいって思ってたのかも
 杏: しっかりしてて、頼りになって……。 そういう人が私の憧れだから、 大人っぽい自分を変に作ろうとしてたのかもしれないな
 杏: （それで、多分それは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （凪さんがいたからだろうな）
 こはね: 杏ちゃん……？
@@ -86,15 +78,11 @@ MEIKO: ん？ どうしたの杏ちゃん
 杏: 私、みんなに誇れる自分でいたいなって思うの。 こはねにも、彰人にも、冬弥にも、メイコさん達にも…… それから街の人達にも！
 杏: だからどんなことにも全力でぶつかって、 乗り越えていきたいなって思うんだ！
 杏: （それでいつか——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （いつか、絶対に超えるんだ！）
 こはね: （やっぱり、杏ちゃんって……すっごくかっこいいな……！）
@@ -104,8 +92,8 @@ MEIKO: ん？ どうしたの杏ちゃん
 冬弥: ああ。 とても白石らしいと思う
 MEIKO: それじゃあ、撮影を頑張った杏ちゃんには特別に、 スペシャルメニューをプレゼントしちゃおうかしら？
 杏: え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000083/bg_s000083.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000083/bg_s000083.webp)
 MEIKO: ——はい！ 名付けて、杏ちゃんスペシャルプレートよ
 杏: わぁ……！ あ、チョコケーキにのってるのってラムレーズンアイスですか！？
 MEIKO: ええそうよ。 杏ちゃんの好物だからのせてみたの
@@ -115,11 +103,11 @@ MEIKO: ええそうよ。 杏ちゃんの好物だからのせてみたの
 MEIKO: ふふ、ミニサイズのものなら全員分あるわよ。 冬弥くんの分はビターになってるしね
 彰人: マジすか
 冬弥: ありがとうございます
-(White cut)
+(White transition)
 (Background change)
 杏: ふふっ
 杏: よーし！ 食べたら、みんなで練習頑張ろうね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -138,7 +126,7 @@ MEIKO: ふふ、ミニサイズのものなら全員分あるわよ。 冬弥く
 彰人: ま、やることは変わらねえし、いいか
 冬弥: そうだな。猫に見守られて歌うというのも、 楽しそうだ
 杏: オッケー！　それじゃあいくよー！
-(Black cut)
+(Black transition)
 (Background change)
 雫: あら……また違うところに出ちゃったわ
 雫: 連絡をとっても愛莉ちゃんと行き違っちゃうし……。 どうしたらいいのかしら
@@ -150,8 +138,8 @@ MEIKO: ふふ、ミニサイズのものなら全員分あるわよ。 冬弥く
 ？？？: 『————！』
 愛莉: 誰かが公園で歌ってるのかしら？ すごく上手ね
 雫: あ……！ あれって、杏ちゃん達じゃない？
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 愛莉: 本当！　彰人くん達もいるわ！ ここで練習をしてるのね
 雫: みんな、すごく真剣な表情……。 すごいイベントを超えるために、頑張ってるのね
 愛莉: あ……ふふっ、杏ちゃんが助けたあの子もいるわよ？
@@ -160,7 +148,7 @@ MEIKO: ふふ、ミニサイズのものなら全員分あるわよ。 冬弥く
 愛莉: ええ。 わたし達も、負けてられないわね！
 雫: ……愛莉ちゃん！　走りましょう！ 私、今なら丸１日でも走れそうだわ！
 愛莉: そうね！ ……ってだからそっちは逆方向なのよ～！
-(Black cut)
+(Black transition)
 杏: ……はぁ！ ねえ、今のかなり良かったんじゃない！？
 冬弥: ああ。リズムもしっかりとれていた。 この調子でもう１回やろう
 彰人: そんじゃ、今日はとことんまでやるか
@@ -168,4 +156,4 @@ MEIKO: ふふ、ミニサイズのものなら全員分あるわよ。 冬弥く
 こはね: あ、ビビちゃんが……！
 杏: ふふっ。 なんだかもう１曲って言ってるみたいだね！
 杏: それじゃあビビが満足するまで、 歌っちゃうよー！！
-(White cut)
+(White transition)

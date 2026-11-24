@@ -5,22 +5,18 @@
 [住宅街]
 
 まふゆの父: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆの父: （……宵崎さんは、本当に、まふゆに良くしてくれている）
 まふゆの父: （家に住まわせてくれているだけではなく、 まふゆを笑顔にできるようにと、あれ程まで……）
 まふゆの父: （……まふゆも最近、少しずつ話をしてくれるようになった）
 まふゆの父: （少しずつでも……）
 まふゆの父: （ふたりが歩み寄る機会を、作れないだろうか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -38,7 +34,7 @@
 まふゆの父: ……暖かそうなマフラーだ。 きっと、まふゆも喜ぶだろう
 まふゆの母: …………
 まふゆの父: ……なあ、提案なんだが——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -55,7 +51,7 @@
 奏: （それなら、わたしも進まないと）
 奏: （まふゆのお母さんのことを、もっと知るために——）
 奏: はい、今行きます……！
-(Black cut)
+(Black transition)
 まふゆの父: ——うん、今日も元気そうでよかった。 何か変わったことはなかったか？
 まふゆ: ……大丈夫
 まふゆの父: そうか
@@ -63,15 +59,11 @@
 まふゆ: え……？
 まふゆの父: お母さんからだ
 まふゆ: お母さん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: これ……マフラー？
 まふゆの父: ……ああ
@@ -89,32 +81,24 @@
 まふゆの父: まふゆが話したいと思ったタイミングでいいから——
 まふゆ: …………
 まふゆ: （お母さん、と……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ……ふふっ。今日のまふゆは甘えん坊さんね
 まふゆの母: ほら、ねーんね……。 まふゆは、いいこ……
-(White cut)
+(White transition)
 まふゆの母: でも、まふゆはきっとわかってくれるでしょう？
 まふゆの母: まふゆは本当はいい子で 優しい子だって、お母さんは信じているもの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……やっぱりまだ、怖い……）
 まふゆ: （……っ、でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （…………私も、進まなきゃ）
 まふゆ: （奏が——ここまでして、知ろうとしてるんだから）
@@ -146,4 +130,4 @@
 奏: （それに……思ってたのと違う形だけど、 まふゆのお母さんのことを知れる機会かもしれない）
 奏: （——わたしが、できることをやろう）
 奏: （まふゆを救うために——）
-(Black cut)
+(Black transition)

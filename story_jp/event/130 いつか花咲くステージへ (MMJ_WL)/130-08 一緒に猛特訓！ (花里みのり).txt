@@ -3,7 +3,7 @@
 (Character: 花里みのり, 初音ミク)
 
 (Video: link_idol_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [みのりの部屋]
@@ -25,17 +25,13 @@
 みのり: えーっと、実は前の番組収録のことで ちょっと反省してまして……
 ミク (MMJ): 『番組収録——って、 この前の“アリナシ話”のこと？』
 みのり: うん。ミクちゃんも見てたでしょ？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 観覧席のお客さんA: ねえ、なんで今日のゲストって MORE MORE JUMP！とかいう子達になったの？
 観覧席のお客さんB: やっぱり、LiLiaが見たい気持ちはあるよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: あの時、お客さんの声を直接聞けたから、 そのあとの収録は『LiLiaの代わりにはなれなくても、 楽しませるためにがんばるぞ～』ってなれたんだけど
 みのり: でも、もっと早く気づけてたら、 前半の収録でも、お客さんのためにできることが あったなって思うんだ
@@ -48,7 +44,7 @@
 ミク (MMJ): 『ステージでやったほうが、ダンスもMCも お客さんをイメージして練習しやすいかなって思って』
 みのり: た、たしかに！ そのほうが実践、って感じでいいかも！
 みのり: それじゃあセカイに行こう行こう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -75,7 +71,7 @@
 ミク (MMJ): じゃあ……わたし達も行ってみる？
 みのり: う、うん……ちょっと怖いけど、 何があるのか気になるし……
 みのり: ——とりあえず、行ってみよう！
-(White cut)
+(White transition)
 (Background change)
 みのり: な、ななな……
 みのり: なんか新しい場所ができてる～！？！？
@@ -96,8 +92,8 @@
 みのり: うーん、ちょっと聞こえにくいな……？
 みのり: もっと近くで——
 ミク (MMJ): えっ……！？
-(White cut)
+(White transition)
 (Background change)
 みのりの声 (みのり): わああっ！！ ま、まぶしいよ～っ！！！
 ミク (MMJ): み——みのりちゃん！？
-(Black cut)
+(Black transition)

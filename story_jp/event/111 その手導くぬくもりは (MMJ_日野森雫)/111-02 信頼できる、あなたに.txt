@@ -16,17 +16,13 @@
 斎藤: 私に……
 雫: ……たしか斎藤さん、ワンマンの時、 最近マネージャーの勉強も始めて—— 『アイドルの手伝いをするのが夢だ』って話してましたよね
 斎藤: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 斎藤: 実は、前のイベントを手伝わせてもらってから、 将来はアイドルをお手伝いする仕事をしたいって 強く思うようになりまして……
-(White cut)
+(White transition)
 斎藤: それで、もっとちゃんとやってみよう！って、 前よりイベントのバイトも積極的に入れて経験積みながら、 タレントのマネージャーの勉強も始めてみたんです！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 雫: だから、斎藤さんの夢と、私達の夢——
 雫: 一緒にかなえられたら、とても素敵だなって思うんです
 斎藤: 一緒に……
@@ -49,7 +45,7 @@
 斎藤: 今回のイベントも絶対にいいものにさせていただきますので、 ライブの話、今できる限りまとめちゃいましょう！
 斎藤: えっと、スケジュールは——
 雫: 斎藤さん……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -67,15 +63,11 @@ KAITO (MMJ): 残念だね。 いろいろとみんなの力になってくれて
 みのり: そうだね……
 雫: （……愛莉ちゃんの言うとおり、 無理にお願いすることはできないわ）
 雫: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （あの時の斎藤さん…… なんだか少し、苦しそうな感じだった）
 雫: （マネージャーの件は抜きにしても…… もし何か悩んでることがあるのなら、力になれないかしら……）
@@ -88,12 +80,12 @@ KAITO (MMJ): ほら、今度ロケで遠出するって言ってたでしょ？
 リン (MMJ): いいなーっ、楽しそう！ お仕事もあるけど、それってみんなで旅行するってことだもんね！
 遥: ……ふふ、そうだね。 着いたらみんなにも声かけるから、一緒に楽しもう
 リン (MMJ): やった～！ わたし達も旅館でお泊りだ～っ♪
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000245/bg_s000245.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000245/bg_s000245.webp)
 リン (MMJ): 見て見て、衣装部屋から旅行コーデ持ってきてたんだ！ これで準備はバッチリだよね♪
 レン (MMJ): リン、可愛いけど…… ちょっと帽子が曲がってるよ
 リン (MMJ): わ、レン、ありがとー！
-(White cut)
+(White transition)
 (Background change)
 ルカ (MMJ): でも、ちょっと気が早いんじゃない？ みんなが行くまではまだ数日あるはずよ？
 リン (MMJ): だってだって、待ちきれないんだもん！
@@ -113,4 +105,4 @@ MEIKO (MMJ): あと、何より温泉がいいらしいわよ。 美容にもい
 雫: （……優しいみんなの期待に応えるためにも、 今度のロケも頑張らなくちゃ）
 雫: （ただ……斎藤さんのことは、やっぱり気になるわ）
 雫: （次の打ち合わせは、ロケのあとだったわよね。 その時には、元気になってくれてるといいんだけど……）
-(Black cut)
+(Black transition)

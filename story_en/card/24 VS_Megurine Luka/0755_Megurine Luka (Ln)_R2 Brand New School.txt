@@ -11,7 +11,7 @@ Skill name: Our Opening Ceremony
 Luka (Ln): This is a good performance... Their feelings really shine through in the sound.
 Rin (Ln): Yeah! Actually, I feel like their sound has kinda changed since they became second-years!
 Rin (Ln): I can't let myself get left behind!
-(Black cut)
+(Black transition)
 (Background change)
 Luka (Ln): This sound...
 (Background change)
@@ -50,7 +50,7 @@ Rin (Ln): I'll do it!
 Rin (Ln): I wanna really collect all my thoughts and feelings so I can improve my sound like Ichi and the others!
 Luka (Ln): It's settled, then.
 Luka (Ln): Let's put on an opening ceremony here in SEKAI together.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -72,20 +72,20 @@ Rin (Ln): Huh...
 Rin (Ln): Oh, that reminds me! Is it true you can't talk while the ceremony's going on?
 Luka (Ln): Yes, it is.
 Rin (Ln): Yikes... What am I gonna do...? I might not be able to stay quiet for even a minute.
-(Black cut)
+(Black transition)
 Rin (Ln): Hey, hey, what are we gonna do for the school anthem?
 Luka (Ln): It'd be a lot of work to put a school anthem together, so how about we see if we can find a song that fits the mood?
-(Black cut)
+(Black transition)
 Luka (Ln): I'll be the principal, so I'd like to ask you to be the vice principal and run the ceremony.
 Rin (Ln): That means I'm the MC, right?! Woohoo, I get to talk!
 Luka (Ln): While that is true, just know everything you say is scripted.
 Rin (Ln): Whaaat?!
-(Black cut)
+(Black transition)
 Rin (Ln): Aaall rise!
 Luka (Ln): Rin, no stretching out the words you say. Try saying it quick and cool, like “All rise!”.
 Rin (Ln): Right, quick and cool! Okay!
 Rin (Ln): All rise!
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -98,25 +98,21 @@ Len (Ln): Something about them feels different from...
 Rin (Ln): Silence, please. All rise!
 Rin (Ln): First, the opening remarks. Principal Megurine, if you please.
 Luka (Ln): Now begins the first SEKAI Opening Ceremony.
-(Black cut)
+(Black transition)
 Rin (Ln): Phew, it's over...!
 Luka (Ln): Well done, Rin. You were a very dignified vice principal.
 Len (Ln): Totally! I was so shocked when you suddenly came out all, “Silence, please.”
 Rin (Ln): Hehehe. I was super cool saying all those fancy words so confidently, wasn't I?♪
 MEIKO (Ln): Yes, very. And you were a great principal, Luka. You were so gentle while still having this sort of commanding presence.
 KAITO (Ln): Right... And I was surprised how proper those salutations were...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Luka (Ln): A year consists of months that play out one after another. Thinking of it this way makes a year seem long, and it feels as if we have plenty of time at our disposal.
 Luka (Ln): However, what about when we consider that a month is made up of individual weeks, and a week of individual days?
 Luka (Ln): To go further, a day is made up of individual hours, and an hour of mere minutes.
 Luka (Ln): When you consider this, does it change the way you feel about the time you thought you had so much of?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (Ln): Hearing Principal Luka's talk really made me want to treasure my time.
 Luka (Ln): Hehe. I'm glad I managed to act like a true principal.
 Luka (Ln): So Rin, were you able to get a taste of what an opening ceremony is like?
@@ -129,4 +125,4 @@ Rin (Ln): Yeah, after the closing remarks, I got this feeling like, “Alright, 
 Luka (Ln): In that case, we were able to achieve our original goal.
 Rin (Ln): Yeah! Thanks so much for suggesting this, Luka!
 Luka (Ln): It was my pleasure, I had a wonderful time putting it together with you.
-(Black cut)
+(Black transition)

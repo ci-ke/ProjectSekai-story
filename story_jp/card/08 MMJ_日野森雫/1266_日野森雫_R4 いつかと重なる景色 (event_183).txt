@@ -13,21 +13,17 @@ Gacha phrase: さすがアリサちゃんね
 雫: ……よかった、いつもの道だわ。 あとはまっすぐ進めばお部屋に着くわね
 雫: それにしても、自販機に行っただけなのに 結構時間がかかっちゃったわ
 雫: ちょっと迷いそうになっちゃったのもあるけど……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 メンバーA: にしても、まさかまた雫とライブすることになるなんてね
 雫・MEIKO: 『……！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 雫: （応援しにきてくれためーちゃんと話したり、 他にも……いろいろあったものね）
 雫: でも、めーちゃんのエールには 本当に元気をもらったわ
 雫: その気持ちに応えるためにも、 今できることを精一杯頑張らなくちゃ……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [LUMINA FORUM　寝室]
@@ -47,7 +43,7 @@ Gacha phrase: さすがアリサちゃんね
 雫: ええ、ありがとう！
 遥: それじゃあ、動画を再生するね
 みのり: はーい！
-(Black cut)
+(Black transition)
 雫: ……あ、今のところ、 みのりちゃんのステップが半歩遅れてるわね
 みのり: うう、サビの拍でリズムを取っちゃってたのかな
 遥: この辺り、アウトロに入って展開が早いし リズム取るのも難しいよね。また明日、一緒に確認しよう
@@ -78,7 +74,7 @@ KAITO (MMJ): 『いいね。 そういうことなら、僕も一緒に歌わせ
 雫: それじゃあ、お願いしてもいいかしら？
 ミク (MMJ): 『うん、任せて！』
 雫: （ふふ、今日はとっても素敵な夢が見られそうね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,15 +117,11 @@ KAITO (MMJ): 『いいね。 そういうことなら、僕も一緒に歌わせ
 雫: 『こんこんネコ』さん、こちらこそ 心のこもったメールを送ってくれて、ありがとう
 雫: 本番中、私もみんなが同じ想いで繋がってるのを感じたわ
 雫: それに、練習中も——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ただ、最高のライブを届けるためにって お互い助け合って……
 雫: またそんな風にCheerful＊Daysのみんなと ステージを作れたのが、とっても嬉しかったの
@@ -142,4 +134,4 @@ KAITO (MMJ): 『いいね。 そういうことなら、僕も一緒に歌わせ
 雫: もっとたくさんの感動や希望を届けられるように—— この先も、私にできることを全力でやっていくわ
 雫: だから……
 雫: これからも、私を—— 私達MORE MORE JUMP！をずっと見ていてね
-(Black cut)
+(Black transition)

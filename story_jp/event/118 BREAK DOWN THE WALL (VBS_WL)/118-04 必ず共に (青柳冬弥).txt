@@ -3,7 +3,7 @@
 (Character: 青柳冬弥, KAITO)
 
 (Video: link_street_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -27,17 +27,13 @@ KAITO (VBS): え！　そうなんだ！
 冬弥: （……よく見ると、 このフライヤーにはチーム名しか書いてない）
 冬弥: （イベントの日付も、 他の共演者の名前もない。 それに少し、剥がれかけている）
 冬弥: （もしかすると、これは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (VBS): どうかしたの？　冬弥くん
 冬弥: ……『遠野さんはもう戻ってこないのではないか』
@@ -57,19 +53,15 @@ KAITO (VBS): 冬弥くん……
 冬弥: 『相棒のことが大好きで、  RAD WEEKENDを超えたいと思ってるところが似てる』と
 KAITO (VBS): ああ、そういえばそんな話をしたね
 冬弥: あの日、遠野さんは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: なあ新。お前は、お前のために歌ってんじゃねえか？
 大河: お前は相棒の夢を背負ってるわけじゃねえ。 颯真を失った、その痛みに耐えきれねえから、 颯真の夢にすがって歌ってる
 大河: ……違うか？
 新: …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 大河さんにああ言われて……ここを去ってしまった
 冬弥: ですが、俺は思ったんです
@@ -93,4 +85,4 @@ KAITO (VBS): 変わったフライヤー？ ……あれ？　これ……違う
 冬弥: え？
 KAITO (VBS): これ——楽譜だよ！
 冬弥: 楽譜……？
-(Black cut)
+(Black transition)

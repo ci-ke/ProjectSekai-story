@@ -43,7 +43,7 @@ KAITO (WxS): それなら、町のほうに行ってみようか。 ぬいぐる
 寧々: これってもしかして、 三日月組でやった捕物帳の影響だったりするのかな……
 KAITO (WxS): その可能性はあるね。ただ——
 KAITO (WxS): なんだか揉めているみたいだし、少し話を聞いてみようか
-(Black cut)
+(Black transition)
 KAITO (WxS): そうか……。サルくんが、船の近くの木に いたずらをしたんじゃないかと思って、追いかけてたんだね
 司: で、それは勘違いだったというわけか
 サルのぬいぐるみ: ウン……。僕は、木が心配ダッタダケナンダ。 イツモと様子が違ッタカラ……
@@ -53,7 +53,7 @@ KAITO (WxS): そうか……。サルくんが、船の近くの木に いたず
 ミク (WxS): 黒くて……ガチガチ……？
 岡っ引きのぬいぐるみ: ……見テモラッタ方が早イカモナ。 ミンナ、コッチに来テクレ
 えむ: うん、わかった！
-(Black cut)
+(Black transition)
 司: これは……
 司: 木が、ところどころ黒くなっている……！？
 ミク (WxS): どどど、どうしちゃったんだろう……！ 葉っぱとか枝とか、なんだかしなしな〜ってしちゃってるよ〜！
@@ -73,13 +73,13 @@ KAITO (WxS): あ……類くん！　いきなり触らないほうが——！
 司: うお！！ なんだなんだっ！？？
 (Background change)
 ミク (WxS): わわ！ み、みんな〜〜！
-(Black cut)
+(Black transition)
 
 [？？？]
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

@@ -3,7 +3,7 @@
 (Character: 天馬咲希, 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
 : アークランドの公演で、大成功をおさめた４人。 これまでの修行の集大成として、自主公演をすることになるが——
-(Black cut)
+(Black transition)
 (Background change)
 
 [公演後]
@@ -22,15 +22,11 @@
 類: え？
 司: ん！？ たしかに、どこかで——
 司: あ……！！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: 榊さん……！？
 寧々: え！？
@@ -45,7 +41,7 @@
 榊: ——今日の公演はとても良かった。 ただ……
 榊: まだまだ良くなるって思ってさ
 榊: だから——よければ俺に、手伝わせてくれない？
-(Black cut)
+(Black transition)
 榊: 君達にやってもらうのは、ひとつだけ。 ５分の一人芝居だ
 榊: そこで君達には——大事な人を手にかけてもらう
 司: ……え？
@@ -63,10 +59,10 @@
 司: （メソッド演技——）
 司: （自身の体験、または記憶を使って役と一体化する演技の方法で、 うまくやれれば、深く役と繋がれる）
 司: （これまで、近い方法で役作りをしたことはあるが——）
-(Black cut)
+(Black transition)
 (Background change)
 : 大切な人間を手にかける。 その心情を理解するため、司は大切な人達との過去の記憶を 深く掘り返していき——
-(Black cut)
+(Black transition)
 (Background change)
 小学生の司 (司): ……………………
 小学生の司 (司): （みんな……帰ってこない……）
@@ -106,4 +102,4 @@
 司: 今から公演の最終日まで——
 司: 絶対にオレに、話しかけないでくれ
 咲希: ……え？
-(Black cut)
+(Black transition)

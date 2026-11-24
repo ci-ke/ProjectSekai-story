@@ -2,22 +2,18 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(White cut)
+(White transition)
 (Background change)
 
 [WEEKEND GARAGE]
 
 こはね: （最高の瞬間に風穴を開けるほどの力を、つける……）
 こはね: （最高の瞬間って…… それは、つまり……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: まず前提として——
 謙: オレは、これまで伝えた全ての課題をお前達がクリアし、 本物の実力を身につけることができたら、 RAD WEEKENDに匹敵するイベントを作れると思っている
@@ -34,15 +30,11 @@
 謙: ——お前らも、何度か感じたことがあるだろう
 謙: 嬢ちゃんは、ここ一番で『化ける』
 杏: あ…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……うん。それは、わかる
 杏: こはねは……私達の想像の、もっと上にいくことがある
@@ -61,15 +53,11 @@
 こはね: （私が、一瞬でも超えたら——）
 こはね: （扉を少しでも開けることができたら、行けるかもしれないんだ。 凪さん達の、夢の先に）
 こはね: （だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの瞬間を————）
 こはね: （……ううん。 『できるのかな』なんて考えたって、意味がない）
@@ -80,4 +68,4 @@
 こはね: 実力を……
 謙: そうだ。 そこで嬢ちゃんには——
 謙: 特別コーチをつける
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: Shiho Hinomori, Minori Hanasato, Kohane Azusawa, Kagamine Len)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Minori's Room]
@@ -52,7 +52,7 @@ Len: (I was going to tell Minori about what we discussed in SEKAI if she was wor
 Len: (But I see now that Minori's trying to find a way that she feels good about.)
 Len: (So, I should probably refrain from saying too much...)
 Len: (Good luck, Minori.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -70,15 +70,11 @@ Minori: (Tests don't just go away either. I have to plan for all that myself...)
 Minori: (Th-That sounds really hard. Airi and Shizuku have been doing this the whole time? That's amazing...)
 Minori: (Haruka too. She went credit-based during junior high and only switched back to being a normal student recently...)
 Minori: (She even said that she hardly ever got to participate in things like the Sports Festival and School Festival...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: (And if I go credit-based, I won't be able to either...)
 Minori: ...
@@ -92,4 +88,4 @@ Shiho: Geez, really...?
 Kohane: A-Are you okay?! Here, I'll help pick these up for... Huh?
 Kohane: “Switching to the Credit-Based Course”...?
 Minori: Uhh...
-(Black cut)
+(Black transition)

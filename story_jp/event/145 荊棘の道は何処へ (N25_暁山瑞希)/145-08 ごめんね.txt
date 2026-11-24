@@ -9,15 +9,11 @@
 絵名: （……渡り廊下から行けば、 先回りできるかも……！）
 絵名: （……でも、でも——）
 絵名: （捕まえても……なんて言ったら……！！）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000362/bg_s000362.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000362/bg_s000362.webp)
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 瑞希っ！
 瑞希: ……っ
@@ -61,6 +57,6 @@
 絵名: …………っ！！
 絵名: 私は…………
 絵名: 私は、なんで……！！
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)

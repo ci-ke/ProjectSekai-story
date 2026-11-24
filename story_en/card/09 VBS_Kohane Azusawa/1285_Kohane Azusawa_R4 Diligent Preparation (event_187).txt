@@ -73,7 +73,7 @@ Toya: <Hm... Maybe the wi-fi is bad here.>
 Kohane: <Oh, you're moving again.>
 (Background change)
 Akito: <Nah, Toya was just sitting weirdly still before.>
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: <Okay... We've checked everything, so we should be okay. Thanks so much for helping, you two!>
 (Background change)
@@ -90,7 +90,7 @@ Kohane: We'll be speaking for the first time, so I'm sure we'll be nervous, but 
 Kohane: Let's do our very best to put our best foot forward.
 An: We're gonna seize our big chance, right?
 Kohane: Yeah...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -124,7 +124,7 @@ KAITO (VBS): Here, I'll show you how to do it. I've helped MEIKO make cheesecake
 MEIKO (VBS): Are you sure you remember how?
 KAITO (VBS): Of course I do! Look, you're busy. Let us handle this!
 Kohane: Okay. Please and thank you, KAITO.
-(Black cut)
+(Black transition)
 KAITO (VBS): Okay, we need cream cheese, crackers, butter, eggs, sugar, cake flour, heavy cream...
 Kohane: I've got everything out.
 KAITO (VBS): Alright, now, start beating the cream cheese in a bowl, and add in the sugar and the eggs in that order...
@@ -146,7 +146,7 @@ MEIKO (VBS): Can I ask you to pick out the plates and dishes for tomorrow?
 Miku (VBS): Isn't the cooking and baking the part you need help with?
 MEIKO (VBS): The three of us can handle it! Three is actually perfect.
 Miku (VBS): Sure... Okay, I'll get the plates, then.
-(Black cut)
+(Black transition)
 KAITO (VBS): The cheesecake is done♪
 Kohane: Wow, it looks perfectly baked. We did it!
 Miku (VBS): Yeah, it looks delicious.
@@ -161,4 +161,4 @@ Kohane: Okay. I'll be sure to message them tonight.
 KAITO (VBS): I can't wait to eat with everyone!
 MEIKO (VBS): And hear all about Akito's trip too. He's worked very hard, so let's give him lots of praise for it.
 Kohane: Okay...!
-(Black cut)
+(Black transition)

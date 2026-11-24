@@ -37,7 +37,7 @@
 真緒: あ……わかりました。 それじゃあ、私はこれで
 愛莉: はい。また後で
 愛莉: （佐原さん、何か言いたそうにしてた気がしたけど…… 気のせいかしら？）
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -68,16 +68,12 @@
 真緒: 今日まで、どんなにリテイクが出ても…… ずっと食らいついてきたじゃないですか
 真緒: なのに、ここで諦めるんですか？
 愛莉: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO (MMJ): それなら——やらなきゃいけないことは、 もうわかってるんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: （……ドラマを観てる人に、最高の演技を届ける）
 愛莉: （そのために、わたしにできることは——）
@@ -113,7 +109,7 @@ KAITO (MMJ): それなら——やらなきゃいけないことは、 もうわ
 愛莉: （……わたしのわがままに、全員を付き合わせるのよ）
 愛莉: （ここで最高の結果を出さなきゃ—— アイドル失格でしょ！）
 愛莉: （やるのよ、わたし。 今までやってきたこと——全部をぶつけるの！）
-(Black cut)
+(Black transition)
 ミチル (愛莉): 『夏生ちゃん……どうしてここに……？』
 夏生: 『あんたのこと探してたに決まってるでしょ！』
 夏生: 『って……ごめん。 アタシがこんな言い方するから、 あんたも余計、思ってること言えなくなるんだよね……』
@@ -138,14 +134,14 @@ KAITO (MMJ): それなら——やらなきゃいけないことは、 もうわ
 ミチル (愛莉): （わたし、ちょっとでも……夏生ちゃんの力に、なれてたんだ）
 ミチル (愛莉): （夏生ちゃんの、友達に——）
 ミチル (愛莉): 『夏生ちゃん……』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000558/bg_s000558.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000558/bg_s000558.webp)
 ミチル (愛莉): 『……たまにじゃ、嫌だな』
 夏生: 『え？』
 ミチル (愛莉): 『話したいことも、聞きたいことも……たくさんあるから』
 ミチル (愛莉): 『だから……いっぱい、いっぱい話そうよ』
 夏生: 『ミチル……』
-(White cut)
+(White transition)
 (Background change)
 夏生: 『——もう、泣かないでよ。 アタシが泣かせたみたいじゃん……っ、……』
 監督: ——カット！
@@ -156,4 +152,4 @@ KAITO (MMJ): それなら——やらなきゃいけないことは、 もうわ
 愛莉: あ…………
 真緒: やりましたね、桃井さん
 愛莉: ——はい！
-(Black cut)
+(Black transition)

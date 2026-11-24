@@ -30,32 +30,24 @@ Ena: <Thanks.>
 Mafuyu: Good night, Kanade.
 Kanade: Good night.
 Kanade: I need to finish this by morning...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade's Grandmother: <I'm sorry. I know I'm throwing a tough question at you...>
 Kanade's Grandmother: <But I hope you'll give it some thought when you get a chance... This is your future we're talking about.>
-(White cut)
+(White transition)
 (Background change)
 Ena: <But I also think you should take more time to do the things that you want, K. The things you think are fun.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: (The things I want to do... The things I think are fun....)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (I did have fun that one time when I was little...)
 Kanade: (I wanted to compose warm and soothing songs like the ones Dad did...)
@@ -67,7 +59,7 @@ Kanade: (To me, music is...)
 Kanade: (I'm not really sure... But I think it's something more than what I need to do...)
 Kanade: I really don't know...
 Kanade: But I'm having trouble focusing now, so I should probably take a break...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -100,4 +92,4 @@ KAITO (N25): (Wait...)
 KAITO (N25): (She's trying to compose a song that'll save Mafuyu...)
 KAITO (N25): (But I don't know why she is or what's driving her to do so.)
 KAITO (N25): I'll go have a quick look...
-(Black cut)
+(Black transition)

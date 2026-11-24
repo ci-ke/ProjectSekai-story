@@ -19,15 +19,15 @@
 ルカ (N25): ……まだわからない？　それなら——
 MEIKO (N25): いい加減にして！
 MEIKO (N25): ——これ以上続けるのは、私が許さないわ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000532/bg_s000532.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000532/bg_s000532.webp)
 瑞希: ちょっ……！ ストップストーップ！
 瑞希: まあまあ、ふたりとも落ち着いて～！
 瑞希: ほら、奏もびっくりしちゃってるし……！ ここは美味しいお菓子でも食べて、気分変えようよ！
 MEIKO (N25): いらないわ
 瑞希: そう言わずに！！
 ルカ (N25): あら、いいじゃない。 私はいただきたいわ
-(White cut)
+(White transition)
 (Background change)
 絵名: 奏……
 奏: あ……ご、ごめん。 ちょっと、ぼうっとしちゃって
@@ -38,32 +38,28 @@ MEIKO (N25): いらないわ
 奏: ……あ……
 (Background change)
 MEIKO (N25): ——待ちなさい！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000533/bg_s000533.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000533/bg_s000533.webp)
 MEIKO (N25): あなた……どういうつもり？
 MEIKO (N25): 今のあの子達は、 ただでさえ崩れそうな中で、なんとか立てているのよ……！
 ルカ (N25): 私も別に言うつもりはなかったわ
 ルカ (N25): けれど……奏が、いつまでも “見ないように”しているんだもの
 ルカ (N25): そろそろ知るべきだって思わない？ 奏も——依存しているってことを
 MEIKO (N25): ……それは……
-(White cut)
+(White transition)
 (Background change)
 ルカ (N25): そんなに怖い顔しないでちょうだい
 ルカ (N25): 大丈夫、もう何もしないわ
 ルカ (N25): 今はただ、あの子の答えを待ちましょう
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): （物事を前に進ませるためには、 時に干渉することも確かに必要だわ）
 MEIKO (N25): （でも——）
 MEIKO (N25): （……やっぱり、ルカのやり方には同意できないわ）
 MEIKO (N25): （けれど——こうなってしまった以上、 見届けなければいけないわね）
 MEIKO (N25): （あの子の、行き着く場所を——）
-(Black cut)
+(Black transition)

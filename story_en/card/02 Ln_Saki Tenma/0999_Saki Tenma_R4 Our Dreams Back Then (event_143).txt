@@ -15,7 +15,7 @@ Saki: Don't forget to grab some potato chips!
 Shiho: We know. See you two in a bit.
 Honami: Alright, let's go look at the drinks.
 Saki: Yeah♪ Let's go go go!
-(Black cut)
+(Black transition)
 Saki: Hmm... Which drinks do you think Miku and the others would like?
 Honami: We could choose three different types like usual. For example, juice, tea and some soda.
 Saki: Yeah, okay♪
@@ -42,18 +42,14 @@ Honami: I agree. I think the classic flavor would be fitting for her as well.
 Honami: I feel that it suits her because she's always pulling us in the right direction by being honest with us.
 Saki: Yeah! Okay, here I go!
 Honami: Huh?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (Ln): Saki, how about we take a quick break?
 Miku (Ln): Here, drink this. You'll feel much better and forget how tired you are after taking a sip.
 Miku (Ln): We still need to practice, so let's rest, recharge and keep doing our best until the end!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Yeah♪ Their classic cider suits Miku really well!
 Honami: Umm... I'm not sure how necessary that example was...
@@ -61,20 +57,16 @@ Saki: It was so necessary! Since we're doing this, we gotta get it right by doin
 Saki: Next, Rin!
 Saki: I've already got a good idea for her♪
 Honami: Oh, you mean...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin (Ln): Hona!
 Honami: Rin? What's...? Eep! Cold!
 Rin (Ln): Hehe. Operation: Chilly Cheek is a big success♪
 Rin (Ln): I know getting up early each morning is tough, but the refreshingly sour taste of this lemon FizzYum Cider will wake you right up!
 Rin (Ln): So, let's get energized and do our best again today!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: Hehe. That's just like one of their commercials.
 Saki: It's exactly why I think their lemon flavor goes perfectly with her bubbly personality♪
@@ -85,7 +77,7 @@ Shiho: Oh, you two are still here.
 Ichika: We've got the snacks. How are things going here?
 Saki: Oh, perfect! We were just picking flavors of FizzYum Cider based on which we think suit Miku and the others the best♪
 Saki: You two gotta ask me what I think!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,18 +88,14 @@ Saki: You two gotta ask me what I think!
 
 Saki: Mr. Shindo understood! I'm so glad for you, Ichi!
 Ichika: Me too...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shindo: Alright, I understand...
 Shindo: Please, try to relax. The company will need to know about this, but I'll handle telling them.
 Shindo: Explaining this to them won't be easy, but I'm sure things will work out.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: I'm sorry for making you all wait... I'll do everything I can to help make the best song possible for this collaboration!
 Ichika: I'm looking forward to working with you again, Saki.
@@ -124,17 +112,15 @@ Honami: Are you sure it wasn't one block down and around the corner?
 Saki: Huh...?
 Ichika: Yeah, the corner shop that acted as a sort of landmark has changed, but the instrument shop should still be there.
 Shiho: Since it's right there, wanna go check it out?
-(Black cut)
+(Black transition)
 Shiho: Here. This one, right?
 Saki: Yeah, it's still here! Thank goodness...!
 Ichika: Come to think of it, we haven't been here in a really long time...
 Honami: No, we haven't. We've mostly been getting everything we need at the shop by the live house.
 Saki: That reminds me of...
 Saki: The conversation we had while looking at the guitar on display in the window!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Little Saki (Saki): The guitar they have on display is so cool! And the bass next to it's super shiny!
 Little Shiho (Shiho): Of course it's shiny. It's brand new.
 Little Ichika (Ichika): Wow... I hope I get to play a cool guitar like this someday.
@@ -156,10 +142,8 @@ Little Shiho (Shiho): Hmm... A hundred times better?
 Little Ichika (Ichika): A-A hundred times...?
 Little Saki (Saki): What?! That can't be right, Shiho!
 Little Shiho (Shiho): Hey, it's the truth.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Honami: I remember that conversation. We were so adorable back then...
 Ichika: Yeah. Actually, compared to back then, how much better do you think we've gotten?
 Saki: Good question! What do you think, Shiho?!
@@ -176,4 +160,4 @@ Saki: Oh, while we're here, why don't we ask to see if we can try playing some o
 Saki: Who knows? We might even find the next model we want♪
 Ichika: True. They might have a nice keyboard or drum kit in stock.
 Saki: Yeah, so let's go!
-(Black cut)
+(Black transition)

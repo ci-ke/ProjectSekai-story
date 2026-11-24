@@ -4,13 +4,13 @@
 
 [Mountain]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000350/bg_s000350.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000350/bg_s000350.webp)
 Honami: *Sob*
 Emu: Hmm... Mr. Key, Mr. Key... Come out, come out wherever you are!
 Mafuyu: It's gotten so dark. Finding it won't be easy...
 Honami: N-No, it won't... Also, we need to be careful not to trip and fall...
-(White cut)
+(White transition)
 (Background change)
 Honami: Eep!
 Emu: H-Honami?! What's wrong?!
@@ -47,16 +47,12 @@ Honami: I think I understand how Emu feels.
 Honami: It's hard not to feel happy when you see someone you care about smile.
 Mafuyu: Oh...
 Mafuyu: (That reminds me of...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I want you to feel what I did. I want you to smile the way I did back then.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (Kanade said the same thing.)
 Mafuyu: (Then...)
@@ -96,7 +92,7 @@ Honami: Hmm... It may've gotten caught on its tail after the head priest dropped
 Mafuyu: Still, I'm glad we found it. We probably never would have if that tanuki decided to disappear into the woods.
 Honami: True... Hehe. That makes us very lucky.
 Emu: Yeah! Now let's tell Mizuki and the others the good news, then head back to the shrine!
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Heave-ho, heave-ho... That's the chairs returned to the storeroom...
 Emu: Phew... Is that everything we needed to put back?
@@ -129,4 +125,4 @@ Emu: (Seeing others smile like this really makes me so happy!)
 Honami: Hehe. You seem so happy, Emu.
 Emu: I am!
 Emu: I mean, today ended up being such a wonderhoy day!
-(White cut)
+(White transition)

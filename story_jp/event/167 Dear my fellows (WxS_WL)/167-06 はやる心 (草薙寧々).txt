@@ -3,7 +3,7 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 巡音ルカ, MEIKO)
 
 (Video: link2_wonder_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [音楽堂ホール]
@@ -20,7 +20,7 @@
 寧々: （お客さんの反応は悪くないけど…… ここで満足しちゃダメだ）
 寧々: （——もっと、お客さんの心に届くように……！）
 小国の姫 (寧々): 『————♪　————♪』
-(Black cut)
+(Black transition)
 
 [終演後]
 
@@ -43,17 +43,13 @@
 寧々: （……伸び代がある、で満足しちゃダメだ）
 寧々: （何回も何回もオーディションに挑戦して…… まだ、やっと１回主役になれただけなんだし）
 寧々: （もっともっと、成長しなくちゃ。 じゃないと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……あのふたりみたいに、世界になんて行けない）
 劇団員A: ——雨宮さん、草薙さん！ このあと打ち上げ行きませんか？
@@ -70,7 +66,7 @@
 寧々: ……そうですね。 やっぱり憧れですし、気合いは入ります
 劇団員B: そっか。でも、今日は公演終わりだし 練習もほどほどにね！
 寧々: はい。 それじゃあ——お疲れさまでした
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -94,32 +90,24 @@
 寧々: フェニックスワンダーランド……？
 寧々: …………そっか。 あそこでやるんだ
 寧々: まあ、わたし達が集まるには ぴったりの場所だよね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （みんな、それぞれの場所で頑張ってる）
 寧々: （わたしも、まだまだ練習しなくちゃ——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 『わたしは、寧々ちゃんが、寧々ちゃんにとって 一番いい答えをだしてほしいと思うの』
 ？？？: 『そのためになら、いくらでも力を貸すわ』
-(White cut)
+(White transition)
 (Background change)
 ？？？: 『大変かもしれないけど、 みんなで一生懸命考えて行動した経験なら、 全部これからのみんなのためになるんだから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （え…………）
 寧々: （なに、今の…………？）
@@ -144,4 +132,4 @@
 寧々: （風祭さん、優しいな）
 寧々: （わざわざ会いに来てくれて、心配までしてくれて——）
 寧々: …………やらなくちゃ
-(Black cut)
+(Black transition)

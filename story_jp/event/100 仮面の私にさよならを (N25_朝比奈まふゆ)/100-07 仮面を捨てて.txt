@@ -59,17 +59,13 @@
 まふゆ: だから、医者を目指したほうがいいっていうのもわかるよ
 まふゆ: だけど……
 まふゆ: だけど、私は——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000118/bg_s000118.webp)
-(White cut)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000118/bg_s000118.webp)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……もっと、寄り添いたい……
 まふゆ: 苦しんでる人の、すぐそばで……
@@ -110,15 +106,11 @@
 まふゆの母: まふゆが幸せな未来を歩めるようにって、 それだけを……考えていたのに……
 まふゆの母: それが……お母さんの、幸せだから……
 まふゆ: …………っ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ——ごめんなさい……！
 まふゆ: ごめんなさい、お母さん。 泣かないで……
@@ -142,4 +134,4 @@ KAITO: 『お前が感じている感情——それが、本当のお前のは�
 ミク (N25): 『まふゆの想いを、守って』
 (Background change)
 まふゆ: （ミク……）
-(Black cut)
+(Black transition)

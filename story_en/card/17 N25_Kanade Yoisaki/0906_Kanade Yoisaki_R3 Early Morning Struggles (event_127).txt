@@ -27,7 +27,7 @@ Mafuyu: Okay.
 Kanade: Mafuyu? Is something wrong?
 Mafuyu: Your hair's a mess.
 Kanade: Huh...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Neighborhood]
@@ -60,7 +60,7 @@ Kanade: Urgh... M-Me too...
 Kanade: Still, it's been so long since I last went to an art exhibit. And this one's by Ena's dad...
 Kanade: I'm really looking forward to it.
 Mafuyu: Me too.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -74,10 +74,8 @@ Kanade: (I started working on a new song in order to turn what I felt when I saw
 Kanade: (But I'm having so much trouble capturing it in sound...)
 Kanade: What was that painting named again...? “A Peony Blooming in the Night”...?
 Kanade: When we saw it...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Alright, we're pretty far in now. The next painting is...
 Mafuyu: This one...
@@ -87,17 +85,15 @@ Kanade: (His other paintings all involved darkness in some way, and they seemed 
 Kanade: (There's more.)
 Kanade: (There's pain... But also light...)
 Kanade: (I want to try putting this sensation into a song...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (I even bought a book of his paintings to make sure that I don't forget what I felt that time...)
 Kanade: (But that painting still stands above the rest for me.)
 Kanade: (I don't know what Ena's dad felt when he made that painting...)
 Kanade: (I want to turn what I felt into a song.)
 Kanade: I'll keep trying.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -131,7 +127,7 @@ Kanade: <Yes.>
 Ena: <Okay. I do want to hear what it's like, so I'll give it a listen...>
 Kanade: <Thank you. I'll send it over now.>
 (Background change)
-(Black cut)
+(Black transition)
 Kanade: <What did you think...?>
 (Background change)
 Ena: <For starters, it felt a little different from the songs you usually compose...>
@@ -159,4 +155,4 @@ Kanade: (That exhibit was definitely worth the trip.)
 Kanade: (Not only did I get to see all those paintings, but I was also able to compose a kind of song that I usually don't...)
 Kanade: (I still don't know what Ena's dad was feeling when he painted that peony...)
 Kanade: (But I hope that my song was able to do it some justice.)
-(Black cut)
+(Black transition)

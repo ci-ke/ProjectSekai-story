@@ -28,21 +28,17 @@
 レン (Ln): なんとか、バンドの活動と両立していくのは無理なのか？
 一歌: そういう風に活動してるアーティストの人もいるし、 できないわけじゃないと思う
 一歌: だけど…………
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000067/bg_a000067.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000003/bg_s000003.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000156/bg_s000156.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000181/bg_s000181.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000067/bg_a000067.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000003/bg_s000003.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000156/bg_s000156.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000181/bg_s000181.webp)
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ……嫌なんだ。みんなと全力で活動できなくなるのが
 リン (Ln): いっちー……
@@ -64,13 +60,13 @@
 一歌: それで、ちゃんとバンドに集中するよ
 リン (Ln): そっか……。 いっちーがすっきりしたなら、よかったけど……
 レン (Ln): ああ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000620/bg_s000620.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000620/bg_s000620.webp)
 レン (Ln): ……わかった。なら、オレ達は応援する
 レン (Ln): けど——何かあったら、すぐ相談しろよ
 レン (Ln): 話くらいなら、いつでも聞けるんだからさ
 一歌: ……ありがとう、ふたりとも
-(White cut)
+(White transition)
 (Background change)
 リン (Ln): あー！　レンってば、ひとりでカッコつけてる！
 レン (Ln): は？
@@ -78,7 +74,7 @@
 レン (Ln): 何を張り合ってるんだよ……
 一歌: （……よかった）
 一歌: （ひとりじゃ、こんなふうに笑えなかったかもしれないな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [一歌の部屋]
@@ -95,10 +91,10 @@
 一歌: ……『トレジャーボックス』っと
 一歌: うん、これでよし
 一歌: ふぅ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000617/bg_s000617.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000617/bg_s000617.webp)
 一歌: （……思いっきり、やりたいことを詰め込めたな）
 一歌: （私にとって、一番大事なものもわかったし）
 一歌: （だから——）
 一歌: ……きっと、これでいいんだ
-(Black cut)
+(Black transition)

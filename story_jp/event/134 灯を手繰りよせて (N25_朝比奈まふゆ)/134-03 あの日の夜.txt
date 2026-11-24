@@ -33,15 +33,11 @@
 まふゆ: ……あの日の、こと……
 まふゆ: ……あの日、あの日は……
 まふゆ: お母さんに、私の——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ————！
 奏: まふゆ……！
@@ -56,7 +52,7 @@
 まふゆの父: 無理をさせてすまない
 まふゆの父: ……もう、大丈夫だ
 まふゆ: …………っ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -74,7 +70,7 @@
 奏: まふゆが謝ることじゃないよ
 奏: 今日はゆっくり休んで。 瑞希達には、わたしが話しておくから
 まふゆ: ……わかった
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ——もっと時間をかけて……自分に合った夢を考えてみたいの
 まふゆの母: …………
@@ -93,10 +89,10 @@
 まふゆの父: ——本当に、なぜこんなことになってしまったんだ
 まふゆの父: ……残念だ
 まふゆ: ————！！
-(White cut)
+(White transition)
 (Background change)
 まふゆ: っはあ、はあ……
 まふゆ: ……夢……？
 ？？？: 『——まふゆ？』
 まふゆ: え……
-(Black cut)
+(Black transition)

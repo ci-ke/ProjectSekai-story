@@ -34,7 +34,7 @@ Mizuki: <Huh...? Is it just me or does your voice sound a little different?>
 Mafuyu: <Different...?>
 Mizuki: <I don't think it's noise of anything, but your voice sounds like it's echoing...>
 Mafuyu: <There's nothing wrong on my end. But I'll try restarting since it could be a computer issue.>
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: <How about now?>
 (Background change)
@@ -72,7 +72,7 @@ Mafuyu: <That's good.>
 Mizuki: (Things really are more fun when all four of us are together.)
 Mizuki: (We all have our worries, but being here doesn't make them seem as big of a problem.)
 Mizuki: (And I'm sure Mafuyu feels the same way...)
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: <I'll be logging off now.>
 (Background change)
@@ -97,7 +97,7 @@ Mizuki: <Okay, sounds good!>
 Kanade: <Then, let's go there this weekend.>
 (Background change)
 Mizuki: <I can't wait to see all of you!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,18 +113,14 @@ Mizuki: Man, I still can't get over how strange this place is!
 Mizuki: (I came here for no real reason, but I felt like it now that things have settled down with Mafuyu.)
 Mizuki: (Also, I still have a ton of questions about this part of SEKAI...)
 Mizuki: (I can't stop thinking about it.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Your sketch of Mafuyu...! I've seen pics of it before, but never the original.
 Kanade: Wow, it was really inside the lake.
 Ena: And it isn't even wet... How does that work...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (We talked about how a bunch of stuff might be hidden in this lake.)
 Mizuki: (But if I had a SEKAI like this, I wonder what would it be like?)
@@ -139,15 +135,11 @@ Mizuki: Mafuyu? We went to a diner the other day together. She's more or less ba
 Rin (N25): She is?
 Miku (N25): She wasn't in pain?
 Mizuki: Well...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: She wasn't in as much pain as before...
 Miku (N25): Thank goodness...
@@ -166,16 +158,12 @@ Mizuki: Hehe. What else would you expect of me?
 Mizuki: Also, that reminds me! How many of Kanade's songs have you heard coming from this lake?
 Miku (N25): I don't know, but many...
 Rin (N25): Yeah, she said she heard more when she was with Mafuyu. And then...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: So warm...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin (N25): Len mentioned how Mafuyu said she felt warm inside when she heard one of these songs...
 Mizuki: Really...? So, if we wait long enough, then we should also get to hear that song.
@@ -185,4 +173,4 @@ Mizuki: Yeah, I'd rather not be all by myself, so let's sit and wait together♪
 Rin (N25): Why do we have to sit like that...?
 Mizuki: Dunno, just felt like it. C'mon, you two! Sit with me!
 Rin (N25): Okay, fine...
-(Black cut)
+(Black transition)

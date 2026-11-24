@@ -7,7 +7,7 @@ street_01_12 I Refuse to Run Away!
 Kohane: An, I know you've been worried. I'm sorry for not returning your messages.
 An: Forget about that! What happened to your hair?! And your glasses, too!
 Kohane: Yeah. You see, yesterday, I...
-(Black cut)
+(Black transition)
 An: I see. So you went to see Miku and the others.
 Kohane: Yeah. And I made a decision.
 An: You did?
@@ -67,7 +67,7 @@ An's Father: No need to get so defensive. If I have to put it into words, he loo
 An: Something to lose?
 An's Father: You'll understand soon enough. All right, time to get ready for tonight.
 An: A jerk like Akito has something to lose?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -80,4 +80,4 @@ Akito: What's wrong? You feeling all right?
 Toya: ...Yeah. It's nothing.
 Akito: Let's start thinking about our next set list, then. We'll crush them for sure this time.
 Toya: ..... Akito, I...
-(Black cut)
+(Black transition)

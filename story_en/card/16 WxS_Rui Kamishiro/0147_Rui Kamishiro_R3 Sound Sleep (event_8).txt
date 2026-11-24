@@ -13,18 +13,14 @@ Nene: ...
 Rui: ...
 Rui: (Now, what should I do...?)
 Rui: (I feel like the onus is on me to come up with a way to break this impasse, both as the show director and as Nene's friend...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Nene: But Seiryuin's singing is... Just so different. I can tell because I've spent so much time learning about songs from musicals.
 Nene: I don't know how to put it in words, but she has a way of breathing life into each note. I don't know what I'm supposed to do about that...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Rui: (A way of breathing life into each note, huh...?)
 Rui: (She does indeed have a strong and rich singing voice...)
 Rui: (And yet, I don't think Nene's lacking at all in that respect.)
@@ -34,7 +30,7 @@ Rui: (But this is a tough one... A person's impressions regarding something can'
 Rui: (So how do I go about boosting Nene's confidence?)
 Rui: (Or rather, stop her from thinking that she's missing something...?)
 Rui: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rui's Room]
@@ -54,16 +50,12 @@ Little Nene (Nene): ——♪　————♪
 Rui: (She was playing a cheerful little girl in this one, but she genuinely sang from her heart.)
 Rui: (You can hear her unbridled enjoyment of the show in her voice.)
 Rui: (This performance secured her a lead role in her next show, but then she had that accident...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Nene: (I can't remember my next line! What should I do? What should I do!)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (I only heard about it from someone else much later and still don't know any other details behind it...)
 Rui: (But it might still be haunting Nene. Keeping her from unleashing her potential...)
@@ -73,20 +65,16 @@ Rui: (But should I really be the one to tell her?)
 Rui: (If I did, she'd finally be able to address it. But at the same time...)
 Rui: Is telling her this really the right thing to do...?
 Rui: ...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000026/bg_a000026.webp)
-
-(Memory cut-in)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000026/bg_a000026.webp)
+(Flashback in)
 Tsukasa: Is this honestly what you want from this show?
-(White cut)
+(White transition)
 (Background change)
 Nene: But you feel that if things continue like this, we won't be able to put on a worthwhile show, right?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Rui: ...
 Rui: You can't make great shows alone... And now I have my troupe.
 Rui: (I'll tell Nene my thoughts tomorrow.)
@@ -94,7 +82,7 @@ Rui: (I believe that if we work together, we'll have a bright future in front of
 Rui: Hehe. Our Christmas show can use some more polishing too.
 Rui: There's plenty of time until morning. Let's see how we can tweak it.
 Rui: It has the be the ultimate show after all.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -158,4 +146,4 @@ Nene: Yeah. I agree.
 Emu: Me too! Me too! Hehehe. I'm so excited about this♪
 Tsukasa: Alright! Then let's come up with a story for our new show that takes our strengths into account!
 Rui: Yes. Let's make our next show one for the ages. Together.
-(Black cut)
+(Black transition)

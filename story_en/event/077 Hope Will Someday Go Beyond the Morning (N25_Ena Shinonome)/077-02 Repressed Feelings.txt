@@ -5,23 +5,19 @@
 [Ena's Room]
 
 Ena: Incubation... Incubation...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Yukihira: Is that sense of excitement and feeling of awe what you were truly after, Shinonome?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (What do I want to do for this theme...? I need to figure that out.)
 Ena: Something being born... Blooming... Growing...
 Ena: (Wait, I want to grow as an artist... What if I drew something that represented me trying to break out of my shell?)
 Ena: (I can try drawing myself hatching.)
 Ena: Yeah, not bad... I'll try going with this.
-(Black cut)
+(Black transition)
 Ena: Okay, my rough sketch is just about done...
 Ena: (It's definitely not worse than what I drew the other day, and it goes with the theme...)
 Ena: (Still...)
@@ -38,7 +34,7 @@ Ena: Maybe I should pick a different subject...
 Kanade: <Have you all started working? The new demo's ready, so I'd like for us to meet in SEKAI.>
 Ena: What...?! Is it already time? But I still haven't drawn anything I feel good about yet...
 Ena: I guess I should head over to SEKAI for now. A better idea might pop into my head while talking to the others.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -94,7 +90,7 @@ Ena: (I get that. But...)
 Ena: (From where I'm standing, despite trying to suppress her feelings, Mafuyu looks visibly shaken by what happened.)
 Ena: (So... Why didn't she say anything?)
 Ena: (Doing as her parents say without bothering to speak up about what's on her mind... Isn't that just going to make her suffer even more...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -124,4 +120,4 @@ Ena: Mafuyu, come with me!
 Mafuyu: What?
 Ena: You're gonna get soaked! How do you think I'm gonna feel if you end up catching a cold!
 Ena: Anyway, we need to hurry!
-(Black cut)
+(Black transition)

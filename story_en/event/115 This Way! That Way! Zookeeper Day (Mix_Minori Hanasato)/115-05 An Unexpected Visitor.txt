@@ -46,13 +46,13 @@ Luka (MMJ): <Hehe. At the same time, he'll need to learn how to smile a little m
 Schubert: ...
 Minori: Is it just me or does it seem like he wants to say something to us?
 Luka (MMJ): <Oh, where are my manners?>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000258/bg_s000258.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000258/bg_s000258.webp)
 Luka (MMJ): <How inconsiderate of me. I completely forgot to introduce myself before evaluating you like that.>
 Luka (MMJ): <My name is Megurine Luka. Pleased to meet you, Schubert.>
 Schubert: ... ...
 Minori: Huh...?!
-(White cut)
+(White transition)
 (Background change)
 Minori: D-Did you see that...? I think Schubert just bowed to you.
 Luka (MMJ): <Yes... It certainly looked like a bow.>
@@ -84,7 +84,7 @@ Minori: (Oh... I guess I can't inspire Schubert...)
 Schubert: ...
 Schubert: ... ...
 Minori: *Gasp*
-(Black cut)
+(Black transition)
 
 [Grassland Area]
 
@@ -113,4 +113,4 @@ Nakazawa: Oh, the second half mostly involves seeing what goes on behind the sce
 Shiho: Okay.
 Minori: Mr. Nakazawa, thank you again!
 (Background change)
-(Black cut)
+(Black transition)

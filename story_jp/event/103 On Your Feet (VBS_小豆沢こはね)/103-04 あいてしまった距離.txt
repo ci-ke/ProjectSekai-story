@@ -2,10 +2,8 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数日前]
@@ -57,10 +55,8 @@
 颯真: 新、待っ……！
 颯真: ……あ……
 颯真: …………そう、か……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……そんなことが、あったんですね……
 颯真: ……ああ
@@ -69,21 +65,17 @@
 颯真: ……そういったわけで、 みんなに来てもらったんだ
 颯真: 新に何があったのか……知ってるんだろ？ 教えてくれないか？
 杏: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: なあ新。お前は、お前のために歌ってんじゃねえか？
 大河: お前は相棒の夢を背負ってるわけじゃねえ。 颯真を失った、その痛みに耐えきれねえから、 颯真の夢にすがって歌ってる
-(White cut)
+(White transition)
 (Background change)
 新: 結局、俺は……言えなかったんだ
 新: 『あんたになんて言われても、 俺はあいつの夢を背負ってる』って……言えなかった……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……遠野さんは、颯真さんの夢を……）
 こはね: （でも…… それを私達が話すのは……）
@@ -104,20 +96,16 @@
 杏: でも……どうしても諦められない理由ができたので
 颯真: 理由？
 杏: はい。 ちょっと、長い話になるんですけど……
-(Black cut)
+(Black transition)
 颯真: ——次の世代……。 凪さんは、そんな風に考えてたのか……
 杏: はい。だから私は、凪さんが信じてくれてたように——
 杏: 絶対、RAD WEEKENDを超えて、 凪さん達の夢の先に行きたいんです
 颯真: なるほどな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 颯真: 君達のことも、凪さんのことも……知れてよかったよ
 颯真: ……新のことは残念だけど、 でも……これでいいのかもしれないな
@@ -127,7 +115,7 @@
 颯真: ……あー、悪い。 なんかしんみりしちゃったな
 颯真: ……頑張れよ
 冬弥: ……はい
-(Black cut)
+(Black transition)
 (Background change)
 こはね: あの……今日は遠野さんのこと、 教えてくれてありがとうございました
 颯真: ううん。こっちこそ、 凪さん達の話を聞かせてくれて、ありがとな
@@ -138,4 +126,4 @@
 颯真: ……青柳くんに、謝り損ねちゃったな。 せっかく手伝ってもらったのに、ごめんなって
 颯真: …………
 颯真: この曲はもう……あいつに、歌ってもらえないんだな……
-(Black cut)
+(Black transition)

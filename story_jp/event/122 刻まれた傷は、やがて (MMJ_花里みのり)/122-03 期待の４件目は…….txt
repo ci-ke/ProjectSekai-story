@@ -22,7 +22,7 @@
 愛莉: 玄関周りも、思っていた以上にきれいね……。 ……これは、中も期待できそうじゃない！？
 みのり: うん、ワクワクしてきちゃった！ 早く入ろう入ろう～！
 遥: もう、そんなに押したら危ないよ
-(Black cut)
+(Black transition)
 (Background change)
 みのり: わあ……
 みのり: 明るいね……！ それに、部屋の中もきれい……
@@ -35,7 +35,7 @@
 愛莉: まったく、はしゃぎすぎよ
 愛莉: まあでも、みんなそれぞれ見たいものあるでしょうし、 あとで合流しましょうか
 雫: そうね
-(Black cut)
+(Black transition)
 
 [練習部屋]
 
@@ -54,8 +54,8 @@
 みのり: あ……よく見たら、細かい傷もたくさんある。 ……きっと前にいた人、たくさん練習してたんだろうな
 ミク (MMJ): 『そうだね。 ……でも、前の人だけじゃないのかも』
 みのり: えっ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000285/bg_s000285.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000285/bg_s000285.webp)
 ミク (MMJ): 『この傷は、今までこの家を借りてた人達、 みんながつけた傷な気がするな』
 ミク (MMJ): 『よーく見たら、 新しそうな傷から古そうな傷までいろいろあるから』
 みのり: あ、ホントだ……！
@@ -63,13 +63,13 @@
 みのり: がんばったあと……
 ミク (MMJ): 『そう考えると、ここって——』
 ミク (MMJ): 『すっごく、たくさんの人の想いがつまってる場所だよね』
-(White cut)
+(White transition)
 (Background change)
 みのり: ……そうだね。そう感じたから、 今まで見たのとは雰囲気が違うなあって思ったのかも
 みのり: わたし、好きだなあ。 この練習部屋も、この雰囲気も
 ミク (MMJ): 『……うん』
 ミク (MMJ): 『本当に、すてきなところだね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -119,16 +119,12 @@
 遥: ……でも、私は希望を出してみていいと思うな
 雫: すごくいいおうちだったものね。 私達の条件にもぴったりだったし……
 みのり: うん、それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (MMJ): 『すっごく、たくさんの人の想いがつまってる場所だよね』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: わたし……ここでみんなと活動したいって思うから
 雫: みのりちゃん……
@@ -137,4 +133,4 @@
 川西: ……わかりました。 では、早速大家さんに連絡してみますので、お待ちください
 みのり: はいっ！
 (Background change)
-(Black cut)
+(Black transition)

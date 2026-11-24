@@ -29,15 +29,11 @@
 冬弥: ああ。観客を味方にできた手応えは、たしかに感じた
 杏: ファンになった！って言ってくれる人も 結構いたしねー
 こはね: そうだね。会場の外でも、たくさん声をかけてくれて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レベッカ: コハネ？　どうしたの？
 こはね: あ、いえ。その……
@@ -57,17 +53,13 @@
 エレナ: コハネ達に怒ってるわけじゃないんだ。 ただ、あいつが手を出してきたことが許せなくて……
 こはね: あ……ううん。大丈夫だから、気にしないでください
 こはね: （エレナさんが、こんなに怒るなんて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エレナ: あいつは目的のためなら、なんだってやる
 エレナ: 他人の夢を食い物にして、蹴落として。 それでも平気な顔で……アタシ達の前で笑うんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （DGさんって、一体、どんなことをしてるんだろう……？）
 彰人: ……よかったら、みんなの意見を聞かせてくれないか？
@@ -106,15 +98,15 @@
 スレイド: オレは羨ましいって思うけどなー、アキト達のこと！
 彰人: はあ？　羨ましいってなんだよ
 スレイド: だって、あのDGだよ？ 伝説のミュージシャンと会って話せるなんて、 テンション上がるでしょ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000579/bg_s000579.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000579/bg_s000579.webp)
 彰人: お前な……。話聞いてたか？
 スレイド: 聞いてた聞いてた！
 スレイド: まあ、エレナが言うように 何か考えてるかもしれないけどさ
 スレイド: 声をかけられたってことは、 アキト達の実力がDGに認められたってことだろ！
 スレイド: それってめちゃくちゃすごいじゃん！ まずはそこ、喜んでおこうよ！
 彰人: ったく、能天気なやつだな……
-(White cut)
+(White transition)
 (Background change)
 スレイド: あはは、ポジティブって言ってほしいなあ！
 スレイド: だけど、とりあえず会ってみて それから考えるのもアリだってオレは思うよ！
@@ -131,7 +123,7 @@
 スレイド: よーし。じゃ、祝勝会の続きやろっか！ オレ、チキン温め直してくるよ！
 セドリック: 追加のコーヒーもあったほうが良さそうだな。 冬弥、手伝ってもらえるか？
 冬弥: ああ、任せてくれ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -161,4 +153,4 @@
 こはね: うん！
 こはね: （……DGさんが、どんな人なのか——）
 こはね: （ちゃんと会って、話してみよう）
-(Black cut)
+(Black transition)

@@ -13,14 +13,14 @@
 絵名: あー……よく美術館でやってる展覧会とかって、 テーマを決めて、それにあう作品を集めるようなのが多いんだけど
 絵名: 個展は個人が、自分の作品だけでやる展覧会のことなんだ
 絵名: ……ほら、こういうの
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000302/bg_s000302.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000302/bg_s000302.webp)
 レン (N25): 絵がいっぱいある……。 すごいね
 リン (N25): 絵じゃないのを飾ってるところもあるね
 絵名: ああ、彫刻とかオブジェを飾る個展もあるよ。 その個展で何を表現したいのかによるけどね
 レン (N25): そうなんだ……
 瑞希: 作品の飾りかたで、その人の世界観とかも見えるって言うし おもしろそうだよね！
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): でも、手伝いって何するの？
 絵名: んー、いろいろあるけど…… もう会場も展示するものも決まってるだろうし、 絵を搬入したり、作品や会場を飾り付けたりするくらいかな
@@ -51,4 +51,4 @@
 絵名: うん、ありがと
 絵名: リンとレンも、当日は朝から準備してるし 適当に遊びに来てよ
 レン (N25): う……うんっ
-(Black cut)
+(Black transition)

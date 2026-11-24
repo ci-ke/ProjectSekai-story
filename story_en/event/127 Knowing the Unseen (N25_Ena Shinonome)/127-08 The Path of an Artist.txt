@@ -13,7 +13,7 @@ Ena: Th-Thank you.
 Father: ...
 Ena: Hey, wait!
 Ena: Ugh...
-(Black cut)
+(Black transition)
 Ena: (This is so awkward...)
 Ena: (Besides, doesn't he have anything to say to me for helping out today? Sure, I came as part of a special lesson, but I at least deserve a thank you.)
 Ena: *Sigh* (Maybe trying to go home at the same time wasn't such a good idea...)
@@ -86,16 +86,12 @@ Ena: (I wouldn't be me without my art.)
 Ena: (I'd never forgive myself if I tossed it all aside...)
 Ena: (So...)
 Ena: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Father: It made me think why was I so ready to give up on my art?
 Father: Even though I knew I wouldn't be able to...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ena: (I get it now...)
 Ena: (I'm exactly the same...)
 Ena: (No matter how much I think or suffer, I can't get myself to give up...)
@@ -131,4 +127,4 @@ Ena: (But I can't run away from my art...)
 Ena: (I have to keep moving forward.)
 Ena: (I have to keep drawing.)
 Ena: (Because that's the only path for me.)
-(White cut)
+(White transition)

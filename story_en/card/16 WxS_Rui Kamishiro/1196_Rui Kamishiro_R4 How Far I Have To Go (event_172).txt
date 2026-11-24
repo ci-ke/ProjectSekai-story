@@ -28,7 +28,7 @@ Rui: Yes, that seems fine.
 Tsukasa: <Ah, excellent! We'll let you know once we've arrived. See you then!>
 Rui: (They want to give me some things? What could they be?)
 Rui: (I am curious, but I need to stay focused.)
-(Black cut)
+(Black transition)
 
 [Two hours later]
 
@@ -74,7 +74,7 @@ Emu: You can do it, Rui! We believe in you!
 Rui: (I couldn't have asked for better friends...)
 Rui: Thank you all very much.
 Rui: This show is going to be a little different from my usual ones, but it should be a good one.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -97,15 +97,11 @@ Rui: That's good to hear.
 Luka (WxS): Still, Rui, what are you doing here?
 Rui: Ah, I came over to tell you that I've finished presenting my show.
 Rui: You did give me a valuable piece of advice while I was struggling with it.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Luka (WxS): Oh, right...
 Luka (WxS): Did everything go well?
@@ -138,4 +134,4 @@ Rui: ...
 Luka (WxS): Oh, he fell asleep.
 Luka (WxS): This is like the opposite of normal. Usually I'm asleep, and Rui watches over me...
 Luka (WxS): Hehe. Nighty night. Sleep tight.
-(Black cut)
+(Black transition)

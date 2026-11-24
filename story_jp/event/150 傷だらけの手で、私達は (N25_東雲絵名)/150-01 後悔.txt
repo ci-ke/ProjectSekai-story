@@ -8,48 +8,36 @@
 
 絵名: …………描けない
 絵名: （今回の課題は『安らぎ』。 だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （…………描けるわけない）
 絵名: （……あの日から、何度もメッセージ送ってるのに 既読にすらならない）
 絵名: （彰人に聞いてみても、 『学校サボってるみたいだからわからない』って 言われるし……）
 絵名: 瑞希……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 男子生徒A: 君も男だったりする感じ？
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 絵名: …………
 絵名: （学校の子達は、知ってるみたいだった）
 絵名: （だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ボクの悩んでることは……今はまだ話せないけど。 でもいつか話せるようになったら、聞いてほしい
-(White cut)
+(White transition)
 (Background change)
 MEIKO: 話すことがよくない結末を呼ぶことも たくさんあるわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……瑞希は、ずっと……怖かったんだろうな）
 絵名: （それでも、話そうとしてくれた。 なのに……）
@@ -110,4 +98,4 @@ MEIKO: 話すことがよくない結末を呼ぶことも たくさんあるわ
 (Background change)
 (Background change)
 絵名: （瑞希は、ここに——今も、いてくれたのかな……）
-(Black cut)
+(Black transition)

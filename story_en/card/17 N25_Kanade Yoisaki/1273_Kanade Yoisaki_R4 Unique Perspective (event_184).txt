@@ -29,7 +29,7 @@ Kanade: <You can take today off if it's too much. I mean, you seem to have alrea
 (Background change)
 Ena: <Thanks, K. I'll let you know if an assignment starts giving me a lot of trouble.>
 Kanade: <Okay.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [One week later]
@@ -47,20 +47,16 @@ Ena: <I see. Actually, I'm kinda glad...>
 (Background change)
 Ena: <Thanks for inviting me to that cafe today, K... Oh, I guess it's yesterday now.>
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: I'm on my way home from art class...
 Kanade: You seem a bit down... Is everything okay?
 Ena: Oh... Yeah, it's just one of those things.
 Kanade: Would you like to talk for a bit...?
 Ena: Huh?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <I'm glad I invited you, but I didn't end up helping all that much...>
 (Background change)
@@ -98,7 +94,7 @@ Kanade: <Oh...>
 Ena: <Promise to be more careful, okay? If you ever collapse again, I will barge into your house!>
 (Background change)
 Kanade: <Okay, I'll be careful.>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -143,15 +139,11 @@ Ena: <I know, right? I also had no idea what to do at first...>
 Ena: <But now, I have a clearer picture after thinking about the thing I hate the most when it comes to art. Which is apparently what it means for me to fail.>
 (Background change)
 Kanade: (The thing she hates the most...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (What KAITO said that time is actually helping...)
 (Background change)
@@ -222,4 +214,4 @@ Mizuki: <No problem♪>
 Ena: <I'm gonna do my best to finish my illustration, so I hope you're looking forward to seeing it, K!>
 (Background change)
 Kanade: <Yes, thank you.>
-(Black cut)
+(Black transition)

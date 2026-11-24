@@ -67,7 +67,7 @@ Nene: We can't do much to support you directly, but we hope that we can provide 
 An: You heard them, Akito! Everyone's got our backs, so let's not let them down!
 Akito: Yeah, for sure.
 Akito: Seems I'll be set for snacks for a good while. Thanks, guys. I'll enjoy them.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -98,7 +98,7 @@ MEIKO (VBS): Hehe. Everyone worked so hard to make Akito happy.
 Akito: I see. Uh, well... You know. Thanks, guys.
 KAITO (VBS): You're welcome. Now, let's all dig in!
 Akito: Let's. Here goes.
-(Black cut)
+(Black transition)
 Akito: Actually... Where did An get off to? MEIKO's been gone for a bit now too...
 An: Hey, Akito, can we have a sec? We've got something you'll want to see.
 Akito: Huh? What's with the showboating?
@@ -140,12 +140,12 @@ Kohane: But I also think that all of us singing together will feel even more lik
 Akito: I feel like you're all totally losing the plot here. Don't blame me if this ends up in chaos.
 Akito: Alright. Let's do this!
 Everyone: Yeah! Yes. Of course!
-(Black cut)
+(Black transition)
 Akito: ♪——! ♪——! ♪——!
 An: ♪——! ♪————!
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
 An: Mm, that really felt good!
 Akito: So much for a birthday, huh? That was just what we do every day.
 Toya: But hey, I guess that's just like us.
@@ -166,8 +166,8 @@ An: Akito! I got the plates and serving knife!
 Kohane: An, let me help you with that! We can split them up.
 Toya: Then I'll help MEIKO and the others get fresh drinks made for everyone. You must all be thirsty after all that singing.
 Akito: Yeah, thanks. I'll have the cake cut in a flash, so take the plates and pass 'em down.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000378/bg_s000378.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000378/bg_s000378.webp)
 Tsukasa: Akito! Once again, happy birthday! Did you enjoy your birthday show?! We already have plans for a continuation, so why don't we present it on your next birthday?!
 Rui: Hehe. Excellent idea. I'll have to use every trick in my book to make sure Shinonome really enjoys himself.
 Emu: Wow, we're already working on a sequel?! Let's make it even more exciting and smiley for Akito, then☆
@@ -182,7 +182,7 @@ Mafuyu: Happy birthday. I was wondering why Ena was putting so much research int
 An: Happy birthday, Akito! We sang a bunch and ate a ton... Isn't that just how we roll? I was really happy to hear you liked the cheesecake!
 Kohane: Happy birthday, Shinonome! Today was so much fun. I'm glad we got to sing together. Thanks for everything you do!
 Toya: Happy birthday. I couldn't be happier to get to celebrate your birthday with so many people, both at school and in SEKAI. Remember, partner, I'm always here for you.
-(White cut)
+(White transition)
 (Background change)
 Akito: Thanks for going to all this trouble, guys.
 Akito: First at school, then in SEKAI, it's been one noisy day...
@@ -190,4 +190,4 @@ Akito: Well, that's not too bad every once in a while.
 Akito: But, we can't afford to lose our edge.
 Akito: We'll take a short break, but once things have settled down, we're going right back to full speed ahead.
 Akito: So, I hope you'll stick around.
-(White cut)
+(White transition)

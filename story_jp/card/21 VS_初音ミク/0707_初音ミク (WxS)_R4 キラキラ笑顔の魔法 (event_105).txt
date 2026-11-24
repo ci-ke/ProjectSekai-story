@@ -66,7 +66,7 @@ KAITO: じゃあ、決まりだね。 ミクが提案してくれた、シャオ
 ミク (WxS): やったー！
 ミク (WxS): よーしっ♪　司くん達のために、がんばるぞーっ☆
 みんな: 『おー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -95,15 +95,11 @@ KAITO: そうだなあ……
 KAITO: 司くん達に見せたショーの話は、 ショーが終わったあとにたくさんしてしまったし——
 KAITO: そうだ。ミクじゃないミクの話を聞かせてくれないかい？
 ミク (WxS): ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (WxS): うんっ！
 ミク (WxS): カイト、ここ！ ミクの隣あいてるよ！　座って座って♪
@@ -123,7 +119,7 @@ KAITO: ふふ、そうだね
 ミク (WxS): それで、『わたしも元気をもらってるよ』って！
 KAITO: それは嬉しいね！ 役者みょうりに尽きるよ
 ミク (WxS): それからね――
-(Black cut)
+(Black transition)
 ミク (WxS): えへへ、いっぱいお話ししたねっ☆
 KAITO: 話せば話すほど、僕やミクが遭遇した出来事が 不思議に思えてくるよ
 KAITO: ——今頃、他のセカイの僕達はどうしてるかな？
@@ -143,4 +139,4 @@ KAITO: あの出会いは、何かの想いが重なって、 偶然生まれた
 KAITO: たしかにそうだね。これまで２回起きているんだから、 ３回目があってもいいよね
 ミク (WxS): うんっ♪
 ミク (WxS): また会えたら、い～～～っぱいおしゃべりしたいなぁ
-(Black cut)
+(Black transition)

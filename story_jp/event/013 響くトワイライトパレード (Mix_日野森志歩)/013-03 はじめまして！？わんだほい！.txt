@@ -13,17 +13,17 @@
 リン: でもね、リンね、 寧々ちゃんがもーっとキラキラになれる方法を 知ってるんだ☆
 寧々: え……
 リン: そ・れ・は～……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000050/bg_a000050.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000050/bg_a000050.webp)
 リン: ほら☆　こうやってニコニコ笑顔で歌えば、 歌声もルンルン、キラキラッ☆ ってなれるんだよ♪
 リン: そしたら、みんなもニコニコになっちゃうの！
 寧々: そっか……。 わかった、もっと意識してやってみる
 リン: うんうんっ☆　一緒にがんばろ～！
-(White cut)
+(White transition)
 (Background change)
 ミク (WxS): 寧々ちゃーん！ 司くんがリハーサルやりたいって言ってるよ～♪
 寧々: あ、うん……！　今行く！
-(Black cut)
+(Black transition)
 (Background change)
 司: 『さあ、みんな！！ 歌おう、そして踊ろう！！ 素晴らしいこの日のために！！！！』
 寧々: うるさ……
@@ -52,7 +52,7 @@ MEIKO: そういえば、リンはあまりステージに来てなかったわ�
 レン: うん、約束だよ！
 司: むむ、オレ達も負けてられんぞ！ もう一度、全力でリハーサルだ！！
 寧々: いいけど、本番前にバテないでよね
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -119,4 +119,4 @@ MEIKO: そういえば、リンはあまりステージに来てなかったわ�
 リン: 『こっそりしてるからだいじょーぶ！ こそこそっ☆』
 寧々: できてないし
 寧々: ……でも、ありがと。 いきなりは無理だけど、少し頑張ってみる
-(Black cut)
+(Black transition)

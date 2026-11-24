@@ -13,7 +13,7 @@
 咲希: （さっきまでお客さんも少なかったのに…… どんどんお客さんが増えてく）
 咲希: （朔さん達の音楽が、みんなの胸に響いてるんだ）
 咲希: （やっぱり、すごいな……）
-(Black cut)
+(Black transition)
 イオリ: ♪————！　♪————！！
 イオリ: ——みんな、もっと声出せるよね！？
 イオリ: いいね、最高！
@@ -23,21 +23,17 @@
 咲希: お客さんもすーっごく盛り上がってるね！
 一歌: うん……！ 朔さんの歌が作った熱気をそのまま受け止めて、 STANDOUTの色に塗り変えた感じがする
 一歌: それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 曲から、歌から……強さを感じる
 一歌: ……これが、プロのライブなんだ
 穂波: わたし達も、続かなきゃね
 一歌: うん……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [バックステージ]
@@ -59,7 +55,7 @@
 志歩: ……そうだね
 志歩: 来てくれるお客さん、みんなの心に響く演奏をしよう
 咲希: うんうんっ！ せっかくのフェスだし、思いっきり楽しんじゃお！
-(Black cut)
+(Black transition)
 (Background change)
 観客達: 次はどのバンドだ？
 観客達: Leo/needだって。 どういう曲出してるか知ってる？
@@ -90,4 +86,4 @@
 イオリ: （さっきまで、お客さんが他のステージに 流れちゃってたけど——）
 イオリ: （みんなの曲に引き寄せられて、 また少しずつ増えてきてる）
 イオリ: ……いいライブだね
-(Black cut)
+(Black transition)

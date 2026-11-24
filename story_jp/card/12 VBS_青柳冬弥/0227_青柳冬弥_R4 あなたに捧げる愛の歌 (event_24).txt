@@ -15,13 +15,13 @@ Gacha phrase: どうか——俺の手を取ってください
 男B: わかった。じゃあ、またあとで！
 冬弥: はい
 冬弥: さて……
-(Black cut)
+(Black transition)
 類: さぁ胸を張って！　指先の意識も忘れずに！ すべての指が人格を持っていると考えるんだ！
 冬弥: （神代先輩、気合いが入っているな。 チーム全体にいい意味で緊張感があるし、問題なさそうだ）
 冬弥: （彰人のほうは……）
 冬弥: （すごいな……。しっかり表情もつけて踊れているし、 まったく問題なさそうだ）
 冬弥: （……彰人が引き受けてくれて、本当によかった）
-(Black cut)
+(Black transition)
 類: うん。ダンスチームも良さそうだね
 彰人: まあな。じゃなきゃあんたに見せてねえよ
 類: フフ、だろうね
@@ -31,7 +31,7 @@ Gacha phrase: どうか——俺の手を取ってください
 彰人: ん、冬弥。いたのか
 冬弥: ああ、こちらも本番まで休憩になったからな
 彰人: んじゃ、ちょっと外の空気吸いに行くか
-(Black cut)
+(Black transition)
 (Background change)
 
 [結婚式場]
@@ -46,24 +46,16 @@ Gacha phrase: どうか——俺の手を取ってください
 冬弥: ああ。むしろ、俺のような演技経験がない人間もいるし、 チーム編成も演出もしづらかっただろうな
 彰人: それはお前が気にすることじゃねえよ。 引き受けた以上は、あいつの責任だろ
 冬弥: それは……。そうかもしれないが……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 冬弥: （彰人はきっと、神代先輩のことを誤解している……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （あの時、先輩が聞かせてくれた本心を知れば、 その誤解もとけると思うが……）
 冬弥: …………
@@ -93,7 +85,7 @@ Gacha phrase: どうか——俺の手を取ってください
 冬弥: （誤解していたのは、俺のほうだったかもしれないな）
 冬弥: 彰人。サプライズショー、必ず成功させよう
 彰人: ああ、当然だろ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -163,17 +155,13 @@ Gacha phrase: どうか——俺の手を取ってください
 冬弥: ああ、そうだな
 冬弥: （……学校の友人と遊ぶのはどれくらいぶりだろう）
 冬弥: （彰人と出会ってからはBAD DOGSとしての活動もあって、 あまり気にしていなかったが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 学生としての経験は、学校でしか得られないのよ？
 MEIKO: そういう経験は、『何かを表現する時』に 結構大事になるんじゃないかしら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （メイコさんも、ああ言ってくれていたしな）
 冬弥のクラスメイト: なあ、俺らだけじゃなくてもうちょっと誘ってもいいか？ フットサルやれるくらいの人数ほしいしさ！
@@ -181,4 +169,4 @@ MEIKO: そういう経験は、『何かを表現する時』に 結構大事に
 冬弥: それと……誘ってくれてありがとう。 楽しみにしている
 冬弥のクラスメイト: おう！　めちゃくちゃ遊ぼうな！
 彰人: はは！　お前、なんだそれ！
-(Black cut)
+(Black transition)

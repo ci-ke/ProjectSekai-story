@@ -12,7 +12,7 @@ nightcode_01_15 消えてしまう前に
 奏: 『わたしは雪のために曲を作る。 雪を……救いたいの』
 (Background change)
 絵名・瑞希: 『え……？』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『……そっか。 ミクと話したんだね』
 瑞希: 『本当は消えたいなんて思ってない……か』
@@ -44,7 +44,7 @@ nightcode_01_15 消えてしまう前に
 奏: 『話を聞いてくれてありがとう、えななん』
 (Background change)
 絵名: 『………………』
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -58,25 +58,21 @@ nightcode_01_15 消えてしまう前に
 奏: （……わたしの曲が、また、誰かを不幸に……）
 奏: （……ううん）
 奏: （ミクが教えてくれた）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ミク (N25): あの子を見つけてあげられるとしたら、きっと奏の曲しかない
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: （……わたしの曲は、エゴでできてる。 『自分の曲で誰かを幸せにしたい』っていう、わたしのエゴで）
 奏: （そんな曲に、誰かを救う力なんて、本当はないのかもしれない）
 奏: （それでもわたしは……ミクの言葉を信じたい）
 奏: （雪を、わたしの曲で——今度こそ救いたい）
-(Black cut)
+(Black transition)
 奏: ……できた……
 奏: ……Amiaに連絡しなくちゃ
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『K！　曲できたってほんと！？』
 奏: 『うん』
@@ -102,4 +98,4 @@ nightcode_01_15 消えてしまう前に
 瑞希: 『もっちろん！ それじゃあ、行こうK！』
 (Background change)
 奏: 『うん。 ——会いに行こう、雪に』
-(Black cut)
+(Black transition)

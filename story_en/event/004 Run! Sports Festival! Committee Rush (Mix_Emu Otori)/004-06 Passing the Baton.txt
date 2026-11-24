@@ -9,7 +9,7 @@ Haruka: Don't forget about the special scoring system for the bamboo pole tug-of
 Emu: Haruka! I can't find the bread anywhere!
 Haruka: You mean for the bread obstacle course? I was told they put them in the refrigerator in the teacher's office.
 Emu: Oh, thank goodness! Thanks! I'll go get them!
-(Black cut)
+(Black transition)
 Haruka: Phew... Looks like things are finally starting to settle down.
 Haruka: (And it's just the big relay race left to wrap things up. We might just finish today without any incidents.)
 Classmate: Ow...
@@ -17,7 +17,7 @@ Saki: Hey, are you all right? Your leg, it's really swollen. We should get you t
 Classmate: But I'm supposed to be in the relay...
 Haruka: What happened?
 Ichika: Oh, Kiritani! Well...
-(Black cut)
+(Black transition)
 Haruka: You got hurt during the last race? It looks pretty swollen. You really should have the nurse look at it.
 Classmate: But I still need to do the relay. If I don't, I'll just be letting everyone down...
 Haruka: I'm sorry, but I think it would be best to go see the nurse. You don't want to make it any worse.
@@ -30,7 +30,7 @@ Classmate: I'm so sorry... I know how busy you are...
 Haruka: It's not a problem. I'll make sure to do my best.
 Saki: We'll be cheering you on, Haruka!
 Haruka: Thanks. I don't plan on losing.
-(Black cut)
+(Black transition)
 Haruka: (I informed them about the switch, so everything should be set. I should practice transferring the baton pass a little more...)
 Emu: Haruka!
 Emu: I just heard! You're going to be in the relay?
@@ -49,7 +49,7 @@ Haruka: Otori...
 Emu: We still have a little time left before the relay, so let's practice some!
 Emu: We have to win and make sure the girl who got hurt will smile too!
 Haruka: Yes, you're right... Let's win this!
-(Black cut)
+(Black transition)
 (Background change)
 Announcer: And now for today's final event, the big relay.
 Miku (WxS): <Oh, it's starting! Time to cheer Emu on again!>
@@ -75,13 +75,13 @@ Announcer: Kiritani in lane 1 is on fire! She's passed the third years and is in
 Saki: Wow! Go, Haruka! You're doing awesome!
 Ichika: You can do it, Kiritani!
 Haruka: (Everyone is cheering me on! I can't let them down!)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000029/bg_a000029.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000029/bg_a000029.webp)
 Emu: Haruka!
 Haruka: It's all you, Emu!
 Emu: Yup!
 Emu: It's time to win!!
-(White cut)
+(White transition)
 (Background change)
 Announcer: Kiritani brought the first years back into a fight for first place! She passes her baton to Otori just as the second years pass theirs!
 Announcer: It's all up to the anchors now! Who will be victorious?!
@@ -94,4 +94,4 @@ Miku (WxS): <Go! Go! All the way to the finish line!!>
 Emu: There's no way I'm losing!
 Mafuyu: ...!
 Announcer: And the winner is...
-(White cut)
+(White transition)

@@ -2,32 +2,30 @@ mmj_01_15 近くて遠いステージ
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 初音ミク)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 真依: ……っ、遥ちゃんの……嘘つき！！
 真依: 希望を持てばなんて、嘘じゃない！！ 私は……頑張ったせいで、こんな……っ！！
 真依: 返して……！ 私の時間を……アイドルを！　返してよ！！
 ？？？: 遥……遥！！
-(White cut)
+(White transition)
 (Background change)
 遥: っ！！
 ASRUNメンバー: 次、私達の出番だよ。大丈夫？
 遥: あ……うん。大丈夫。 行こう
-(Black cut)
+(Black transition)
 MC: 続いては、ASRUNの皆さんです！　どうぞ！
 遥: ――――♪
 遥: （大丈夫……いつも通り歌えてる）
 遥: （……私が真依を追いつめてしまったせいで、 たくさんのファンを……みんなを、悲しませた……）
 遥: （だから……もっともっと頑張らなくちゃ……。 それが今、私からファンのみんなにできる 唯一のことだから……！）
 MC: ASRUNの皆さん、ありがとうございました！
-(Black cut)
+(Black transition)
 ASRUNメンバー: お疲れさま。 あれ？　遥、もしかして今日緊張してた？
 遥: え？　どうして？
 ASRUNメンバー: 膝が震えてるから。 遥がそんな風になるの、珍しいね
 遥: ……あ、膝が……。 どうして……？
-(Black cut)
+(Black transition)
 (Background change)
 マネージャー: 次のツアーは、どの会場も３万以上のキャパがあるわ。 全国のファンのためにも頑張りましょうね！
 ASRUNメンバー達: 『はいっ！』
@@ -35,7 +33,7 @@ ASRUNメンバー達: 『はいっ！』
 ASRUNメンバー: 遥？
 遥: （……ちゃんとみんなに希望を届けなくちゃ）
 遥: （絶対に、誰も追い詰めないように。 誰も傷つかないように……）
-(Black cut)
+(Black transition)
 (Background change)
 マネージャー: 準備はできたわね。 もうすぐ開演時間よ。行きましょう
 遥: （……今日も膝が震えてる……。 こんなこと、今までなかったのに）
@@ -47,22 +45,21 @@ ASRUNメンバー: 行くよ、遥！
 遥: ど……どうして？ なんで動かないの？
 遥: お願い、動いて！ 私は届けなきゃ……届けなくちゃ……！
 遥: お願いだから……っ！
-(White cut)
+(White transition)
 (Background change)
 真依: ……っ、遥ちゃんの……嘘つき！！
 真依: 希望を持てばなんて、嘘じゃない！！ 私は……頑張ったせいで、こんな……っ！！
-(White cut)
+(White transition)
 (Background change)
 遥: …………っ！ でも……でも私は、希望を届けなくちゃ……！
 遥: ………………でも……私が届けても……
 遥: また誰かを……追い詰めるだけ……
-(Black cut)
+(Black transition)
 (Background change)
 遥: ……そんなの、もう、アイドルじゃない……
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
+(Flashback out)
 
 [宮益坂女子学園　屋上]
 
@@ -84,7 +81,7 @@ ASRUNメンバー: 行くよ、遥！
 遥: …………
 遥: …………ごめんなさい。 もう、帰らなくちゃ
 みのり: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -95,7 +92,7 @@ ASRUNメンバー: 行くよ、遥！
 愛莉: ほんと根っからのアイドルね。あの子。 ……なのに、そんな子がもうステージに立てないなんて……
 愛莉: わたし達に、できることは何もないのかしら
 みのり: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [みのりの部屋]
@@ -108,17 +105,13 @@ ASRUNメンバー: 行くよ、遥！
 みのり: （遥ちゃんはいろんなものを届けてくれたんだから、 わたしも遥ちゃんに何か届けたい。 苦しい気持ちを少しだけでも軽くしてあげたい）
 みのり: （でも、遥ちゃんがアイドルから離れようとしてるなら、 わたしが何かしたら、迷惑になっちゃうのかな……）
 みのり: （…………ダメだ。 頭の中、ぐちゃぐちゃだよ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ミク (MMJ): 自分の想いや誰かの想いが見つけられなくて 苦しくなったりしたら……いつでもセカイに来てね
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 みのり: あ……
 みのり: セカイ……
-(Black cut)
+(Black transition)

@@ -17,7 +17,7 @@ Gacha phrase: これは……持って帰ろうかな
 まふゆ: （……アイス、か）
 まふゆ: （食べても、特に暑さは変わらないと思うけど……）
 まふゆ: ……早く、帰ろう
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -32,7 +32,7 @@ Gacha phrase: これは……持って帰ろうかな
 奏: まふゆも、よかったら一緒に行かない？
 まふゆ: ミク達と……
 まふゆ: ……わかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -46,7 +46,7 @@ Gacha phrase: これは……持って帰ろうかな
 奏: ふたりも、アイス食べる？ ミク達に持ってきたんだけど、数は足りると思うから
 瑞希: ほんと？　じゃあ、１本もらっちゃおうかな♪
 レン (N25): みんなでアイス……嬉しいな
-(Black cut)
+(Black transition)
 リン (N25): ……冷たくて、美味しい
 瑞希: うんうん！ やっぱり、夏はアイスだよね〜！　一気に涼しい気分♪
 まふゆ: 涼むためなら、アイスはなくてもいいんじゃない？
@@ -61,7 +61,7 @@ Gacha phrase: これは……持って帰ろうかな
 まふゆ: （でも——）
 まふゆ: ……少し、わかる気がする
 奏: ……そっか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,24 +106,20 @@ Gacha phrase: これは……持って帰ろうかな
 瑞希: わあ……！　なにこれ、めちゃくちゃ綺麗……！
 絵名: 貝殻の中が、虹みたいに光ってる……
 まふゆ: ……うん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: これは……持って帰ろうかな
 瑞希: じゃあさ、みんなでシェルボトル作ろうよ！ 絶対楽しいし♪
 絵名: え、私は別にいいかな……
 奏: わたしも興味はあるけど、うまく作れるか自信ないし
 瑞希: え～！？　絶対楽しいのに～！
-(Black cut)
+(Black transition)

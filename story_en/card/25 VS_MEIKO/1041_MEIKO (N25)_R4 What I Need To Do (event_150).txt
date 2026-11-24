@@ -9,17 +9,13 @@ Gacha phrase: Is this really what you want...?
 
 [Empty SEKAI]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ena: What if I asked for us to meet and talk once more?
 Ena: What if I said that I still want us to be friends?
 Ena: Is me just thinking that only going to hurt Mizuki even more...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (N25): (Whatever the case, seeing Mizuki comes first...)
 MEIKO (N25): (But...)
 ???: MEIKO...
@@ -29,14 +25,10 @@ KAITO (N25): The others are apparently buying into the whole “I'm busy” excu
 MEIKO (N25): I'm not...
 KAITO (N25): What happened...?
 MEIKO (N25): I don't know for certain. But...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): Based on Ena's recent behavior, she appears to have learned about something Mizuki's been keeping a secret in a rather unfortunate way.
 MEIKO (N25): Which caused Mizuki to...
 KAITO (N25): Run away.
@@ -72,14 +64,10 @@ MEIKO (N25): Right...
 KAITO (N25): So, what do you plan on doing?
 KAITO (N25): Let's say you do reach Mizuki. The hard part comes right after that.
 MEIKO (N25): I...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): I want to see where their feelings take them.
 Luka (N25): Where their feelings take them?
 MEIKO (N25): I want Ena to find Mizuki and for them to talk.
@@ -92,7 +80,7 @@ MEIKO (N25): I have.
 MEIKO (N25): (She might only have a tiny window, but I believe Ena will be able to capitalize on that chance.)
 MEIKO (N25): (And I want to be there to make it happen.)
 MEIKO (N25): (So Mizuki can hear what Ena has to say.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -129,34 +117,30 @@ Rin (N25): MEIKO.
 Len (N25): Please find Mizuki...
 MEIKO (N25): Of course.
 MEIKO (N25): I'm going now.
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO (N25): (I'm out...)
 MEIKO (N25): (I seem to have access to the phone, but it's still pitch black in here...)
 MEIKO (N25): (But those supplementary classes don't take place until after school. Until then, I should keep an eye on things.)
-(Black cut)
+(Black transition)
 MEIKO (N25): (...!)
 Mizuki: *Sigh* I have to go...
 MEIKO (N25): (Sounds like Mizuki's getting ready to leave...)
 MEIKO (N25): (I need to tell Luka, Ena and the others.)
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 MEIKO (N25): (I thought we'd suddenly changed course at an intersection. I'm guessing we've stopped somewhere...)
 MEIKO (N25): (We don't seem to be moving at all... Is going to school not the plan now?)
 MEIKO (N25): (That means Ena won't be able to find Mizuki...)
 MEIKO (N25): (Is now my chance?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (N25): You've been watching over Mizuki for a very long time...
 Miku (N25): So I believe your feelings and your words carry much more weight compared to the rest of us.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): (My feelings... My words...)
 MEIKO (N25): (I...)
@@ -178,4 +162,4 @@ MEIKO (N25): (I have to stop Mizuki!)
 MEIKO (N25): (I have to give Ena a chance to say what she's feeling...!)
 (Background change)
 MEIKO (N25): <Mizuki!>
-(Black cut)
+(Black transition)

@@ -26,7 +26,7 @@
 一歌: スマホはポケットに入れておくね。 いつもみたいにこっそり覗いてくれたら大丈夫だと思う
 一歌: それじゃ——行こうか、ミク
 ミク (Ln): 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園]
@@ -62,7 +62,7 @@
 咲希: え～！ もう、しほちゃん冷たいよ～！
 志歩: はいはい。 全員そろったことだし、さっさと見に行くよ。 早くしないと予鈴鳴っちゃうし
 一歌: ふふ、そうだね
-(Black cut)
+(Black transition)
 ミク (Ln): 『やっぱり、すごい人混みだな……』
 志歩: これくらい近づけば見れそうだね。 えっと、私達は……
 一歌: ——あった！ 私、Ａ組だ
@@ -96,13 +96,13 @@
 一歌: ……そっか
 ミク (Ln): 『一歌？』
 一歌: 今日は、クラス替えがあって、新しい教室に行って—— ただそれだけの日なんだって思ってたけど……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000234/bg_s000234.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000234/bg_s000234.webp)
 一歌: でもきっと、そうじゃないんだよね
 一歌: 今日からいろんなことが新しくなって、 いろんなことが始まっていく
 一歌: だから——
 一歌: そういう特別な日だって思って、大事にしていきたいな
-(White cut)
+(White transition)
 (Background change)
 ミク (Ln): 『——うん』
 ミク (Ln): 『今日を思いっきり楽しんでね、一歌！』
@@ -110,6 +110,6 @@
 咲希の声 (咲希): いっちゃーん！ 遅刻しちゃうよー！
 一歌: あ……！ ごめん、すぐ行く！！
 一歌: じゃあミク、学校のこととかみんなの様子とか—— いっぱい見ていってね
-(White cut)
+(White transition)
 (Video: 3rd_anv_movie)
-(Black cut)
+(Black transition)

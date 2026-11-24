@@ -23,7 +23,7 @@ Kohane: I hope I get to meet her too. I really want to ask her about what you we
 An: What?! No! Nuh-uh! She's totally gonna say the most embarrassing things about me!
 Akito: Oh? In other words, there's a lot of stuff that you don't want us knowing about.
 An: Huh? Uh, no! What are you talking about?! Anyway, let's get going!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -35,10 +35,8 @@ Toya: That could be because we were just talking about her.
 Akito: Just so you know, we don't have time to take any detours.
 An: Yeah, I know.
 An: (I still go there occasionally, but I always find myself reminiscing whenever I do...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shopkeeper: Well, if it isn't Nagi and An. Come on in!
 Nagi: Oh, is it true that your husband got hurt? Is he okay?
@@ -70,17 +68,15 @@ Nagi: Oh, don't say that. Same offer. I'll double what you get if you beat me at
 Little An (An): I'm not falling for that again.
 Little An & Nagi: Hehe...
 Little An & Nagi: Haha!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: An...?
 Akito: We're gonna leave you behind if you keep spacing out like that.
 An: Wait, sorry. I was just reminiscing a bit!
 Toya: About Nagi?
 An: Yeah. Oh, you gotta hear about the time she...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,20 +92,16 @@ Akito: We will.
 Toya: Now, if you'll excuse us.
 Kohane: See you later, An!
 An: Okay! See you!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: ♪————————————!!
 An: ...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (We need to get back on our feet!)
-(Black cut)
+(Black transition)
 An's Father: Hey, here's your coffee.
 An: Okay, thanks.
 An's Father: Are you sure you don't want tea instead?
@@ -130,17 +122,13 @@ An: Which means... Mom, you also knew?
 An's Mother: Yes... I'm sorry about keeping quiet this whole time...
 An: It's okay... Dad explained why no one told me.
 An: And what Aunt Nagi was thinking.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: Because I believe in what I said.
 Nagi: If anyone's going to succeed us, I'm absolutely positive that An will be one of those people.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: So...
 An: So, it's okay...!
@@ -148,37 +136,29 @@ An's Mother: Then, did you hear about this...?
 An's Mother: Nagi always said she wanted to be the cool big sister you could always count on and look up to.
 An: What...?
 An's Mother: Taiga kept laughing at her that you were more like her daughter because she was so much older than you.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: But being my daughter would mean I'd have to actually be responsible for her, wouldn't it? I don't think that kind of relationship suits us.
 Nagi: I'm going to be more like her friend or buddy... Ooh, or we can be a pair of sworn sisters who like to stir things up!
 Nagi: We both love this city and want to do everything together. We want to see what this world has to offer.
 Nagi: And I think that An and I will, together!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Aunt Nagi...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shopkeeper: Still, you two are so close. I see you all the time together. You're almost like sisters.
 Nagi: Sisters...? That seems like a stretch considering how much older I am than her.
-(White cut)
+(White transition)
 Nagi: Oh, don't say that. Same offer. I'll double what you get if you beat me at rock paper scissors.
 Little An (An): I'm not falling for that again.
 Little An & Nagi: Hehe...
 Little An & Nagi: Hahaha!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 An's Mother: ... An, it's okay. Just let it all out...
@@ -192,28 +172,20 @@ An's Mother: But we chose to respect her wishes. We chose to deprive her of that
 An: ...
 An's Mother: So, An... It's okay for you to cry now.
 An's Mother: Don't feel bad about crying. You have every right to, considering just how much you loved her.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: An, over here!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: *Sob*
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little An & Nagi: Haha!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: *Sob*
 An: *Cry*
@@ -224,4 +196,4 @@ An's Mother: I know, dear... I would've loved to see that as well...
 An's Father: *Sigh*
 An's Father: (Let it all out... For me. For all of us...)
 An: *Cry*
-(Black cut)
+(Black transition)

@@ -16,7 +16,7 @@
 冬弥: 『え……』
 男子生徒A: 『そういやそうだった！ なあトウヤ、なんかアドバイスくれないか！？』
 冬弥: 『……そうだな。 まず、音程を正確にしたいのであれば——』
-(Black cut)
+(Black transition)
 冬弥: 『……俺が思いつくのはこれくらいだろうか。 何か参考になるところがあればいいんだが』
 男子生徒達: 『……………………』
 男子生徒A: 『すごいな、トウヤ！　プロみたいじゃん』
@@ -31,31 +31,27 @@
 冬弥: 『いや、いいんだ』
 冬弥: 『そういう理由があるわけじゃない。 ただ単に、向いていなかっただけだ』
 冬弥: 『たしかに、つらいこともあったが——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000432/bg_s000432.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000432/bg_s000432.webp)
 冬弥: 『……あの頃の記憶は、夢のようで……』
 冬弥: 『ずっと、キラキラと輝いている』
 冬弥: 『忘れられない、大切な思い出だ』
 男子生徒A: 『へえ……。 っていうか、話聞いてるとすごい楽しかった感じっぽいけど』
 男子生徒A: 『それならなおさら、またやればいいのに』
-(White cut)
+(White transition)
 (Background change)
 冬弥: （スマホにメッセージ？ 差出人は……神高のときのクラスメイトか）
 冬弥: （内容は——）
 冬弥: …………！
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: （まさか、あんなメッセージが来るとは思わなかったな）
 冬弥: （——友人同士で集まろう、か）
@@ -69,7 +65,7 @@
 夏臣: いや、今夜は俺がしよう。久しぶりにやらせてくれ
 冬弥: あ……では、俺は食器の用意をします
 夏臣: ああ、頼んだ
-(Black cut)
+(Black transition)
 冬弥: ——美味しいです。 やっぱり俺が作るのとは、全然違いますね
 夏臣: 俺もあまり凝ったものは作らないがな
 夏臣: ……最近、学校はどうだ？
@@ -113,6 +109,6 @@
 冬弥: …………
 夏臣: 俺に言えるのはここまでだ。 ……後悔だけはしないようにな
 冬弥: （俺は…………）
-(Black cut)
+(Black transition)
 (Video: link2_street_ed1)
-(Black cut)
+(Black transition)

@@ -19,7 +19,7 @@
 こはね: それで大河さんに、いっぱい新しいこと習ってくるね！
 杏: ……うん！　頑張って、こはね！
 彰人: …………
-(Black cut)
+(Black transition)
 
 [その晩]
 
@@ -29,21 +29,17 @@
 杏の父: おう。助かる
 杏: さて、それじゃちゃちゃっと掃除しなくちゃね。 椅子上げて……と
 杏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ♪ ————！！
-(White cut)
+(White transition)
 (Background change)
 大河: 鍛えたら、この嬢ちゃんの歌がどうなるのか、 ちょっとばかり興味がわいた
-(White cut)
+(White transition)
 こはね: 大河さんに、いっぱい新しいこと習ってくるね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 杏: …………
 杏: （……また、モヤモヤしてる）
 杏: （ううん……むしろ前より強くなってるような……）
@@ -57,16 +53,12 @@
 杏: うまく説明できないんだけど、 嫌な予感がするっていうか、 よくない気配がするっていうか……
 杏の父: ……モヤモヤか。 どんな時にだ？
 杏: えっと——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ♪ ————————っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……こはねのこと考えてる時
 杏: 前のイベントで、こはね、本当にすごい歌を歌ったの。 見てたら絶対、父さんも驚いたと思うんだ
@@ -114,16 +106,12 @@
 杏: グループのほうじゃなくて、 私に直接送ってくるなんて珍しいな。えっと……
 彰人: 『明日、練習前に話がある。 できるだけ早く来い』
 杏: あ、そういえば……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: おい、このあと少し話いいか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: 話って……なんだろう？
-(Black cut)
+(Black transition)

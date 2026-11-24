@@ -8,10 +8,8 @@
 
 一歌: （……昨日はいろいろありすぎて、あんまり寝れなかったな）
 一歌: （こっちに戻されちゃった後、みんなとも話したけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 『……これから、どうしようか？』
 (Background change)
@@ -40,10 +38,8 @@
 奏: 『わたしは、ニーゴのみんなやミク達のおかげで 思い出とも向き合えるようになってきたんだけど……』
 奏: 『きっとあの子にも、そういうきっかけとか 支えみたいなものが必要なんだろうなって思う』
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （思い出に、フタか……）
 一歌: （……本当に）
@@ -51,7 +47,7 @@
 一歌: （大切な人とのお別れ……）
 一歌: （…………想像が、つかないな）
 一歌: （私は……あの子に、何ができるんだろう……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園]
@@ -66,15 +62,11 @@
 咲希: うん、全然！ ていうか、そのうち消えるっていうのもわかってるんだけど
 咲希: なんかやなんだよね。 点滴の痕とか思い出しちゃってさあ
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （………………そうだ）
 一歌: （私も…………もしかしたら、“経験”してたかもしれないんだ）
@@ -92,7 +84,7 @@
 一歌: うん、本当に
 一歌: ——あ、そうだ。 １時間目の予習しないといけないから、もう行くね！　じゃあ！
 咲希: あっ、いっちゃん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -103,7 +95,7 @@
 ミク (Ln): いらっしゃい、一歌。 ずいぶん早いね
 一歌: うん。ちょっと考えたいことがあって
 ミク (Ln): 考えたいこと？
-(Black cut)
+(Black transition)
 ミク (Ln): ……作曲ノートの子のために、一歌ができること、か
 一歌: 私……あの子に、作曲ノートを捨ててほしくないし、 音楽もやめないでほしいんだ
 一歌: でも、これは私の勝手な気持ちで……
@@ -121,20 +113,14 @@
 (Background change)
 一歌: （私の、大切な人……）
 一歌: （お母さんやお父さん、それから——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 一歌: （もし……）
 一歌: （もし……みんなとの、お別れがきたら……）
-(Black cut)
-
-(Memory cut-in)
-
+(Black transition)
+(Flashback in)
 (Background change)
 一歌: （悲しくて、たくさん泣くのかな……）
 一歌: （……ううん。信じられなくて、泣けない気がする）
@@ -142,14 +128,12 @@
 一歌: （バンドだって、みんなで頑張ってプロになって、 毎日セカイに行って練習して——）
 一歌: （なのに……）
 一歌: （みんなが、もうどこにもいないなんて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 一歌: あ…………
 一歌: （そっか……）
@@ -157,16 +141,12 @@
 一歌: （咲希のキーボードも、 志歩のベースも、穂波のドラムも——）
 一歌: （もう、聞けなくなるんだ……）
 一歌: （そんなの……）
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: ……………………っ
-(Black cut)
-
-(Memory cut-in)
-
+(Black transition)
+(Flashback in)
 (Background change)
 一歌: （もし……）
 一歌: （もし、本当にみんながいなくなったら……）
@@ -175,38 +155,30 @@
 一歌: （一緒にいられないなら——）
 一歌: （みんなのことを思い出して、つらくなるくらいなら——）
 一歌: （もう、バンドなんて……）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000003/bg_s000003.webp)
-(White cut)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000003/bg_s000003.webp)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ……………………！
 一歌: 本当に………………？
 一歌: 本当に……もう、思い出したくなくなっちゃうのかな
 一歌: 私達の音楽を届けようって、みんなでライブをしたことも……
 一歌: 私、は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: 私は——
 一歌: みんなの演奏が……
@@ -240,4 +212,4 @@
 一歌: あ……メッセージだ。奏さんから？
 奏のメッセージ (奏): 『さっき、あの子に会ったよ』
 一歌: えっ！？
-(Black cut)
+(Black transition)

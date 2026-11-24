@@ -26,16 +26,12 @@ Mafuyu: <...>
 Mizuki: <But where could she be...? I don't know where she lives and she probably won't come to our usual diner so...>
 (Background change)
 Kanade: A place where Enanan might be...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: <SEKAI...>
 (Background change)
 Mizuki: <Huh?>
@@ -51,7 +47,7 @@ Kanade: <We won't force you, Yuki...>
 (Background change)
 Mizuki: <Yeah, okay... If Enanan really is there, the two of us will do what we can to convince her!>
 Mafuyu: <...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -80,18 +76,14 @@ Mizuki: Oh yeah. The same thing happened with Mafuyu too.
 Mafuyu: But Kanade eventually found me...
 Mafuyu: Which is why I'm here now.
 Kanade: .....!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ena: <O-Of course I want my artwork to be seen by as many people as possible...>
 Ena: <But I'm not drawing just for likes. I enjoy making illustrations, simple as that.>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: (Ena doesn’t really want to be alone... She just wants to be...)
 Kanade: Miku, I still think we should go talk to Ena...
 Kanade: I want to help her.
@@ -113,4 +105,4 @@ Rin: Even if we find her, she still may not want to talk to anyone else or run a
 Mizuki: Right...
 Kanade: In that case...
 Kanade: There's only one thing I can do.
-(Black cut)
+(Black transition)

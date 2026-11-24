@@ -48,7 +48,7 @@ Len (VBS): Alright! We'll make the best cookies ever!
 An, Kohane & Rin: Yeah!
 Toya: Thank you, everyone. I'll do my best to brew delicious coffee for us all, too.
 Toya: (I would be satisfied just spending my birthday with everyone... But it seems like it'll be an especially enjoyable day.)
-(Black cut)
+(Black transition)
 
 [Several days later]
 
@@ -89,7 +89,7 @@ An: Wow, look at that cloud of flour...
 Len (VBS): Looks like we won't have any dough ready to wrap for resting anytime soon.
 Akito: Nope. For now, let's clean up this flour.
 Luka (VBS): Right. Let's break out the brooms!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -108,7 +108,7 @@ Everyone: Happy birthday!
 Toya: Thank you, everyone. You made so many cookies... They look delicious.
 Luka (VBS): The coffee you made for us smells great, too! And it's poured right from the carafe, too! How classy.
 Toya: That's right. Part of the appeal of a vacuum coffee maker is in its presentation, after all, so I'm glad you like it.
-(Black cut)
+(Black transition)
 Len (VBS): Try a cookie too, Toya! I made the star-shaped ones myself.
 Toya: Oh, don't mind if I do.
 Rin (VBS): Hey, Len, that's not fair! Toya, try my musical note cookies too!
@@ -136,7 +136,7 @@ Rin (VBS): Jazz! Was it a little too easy, maybe?
 Akito: Just right for the first question, right?
 Toya: I think so too. And the connection to the United States was appreciated, too.
 Len (VBS): Okay, my turn! Mine's pretty hard, so everyone be ready.
-(Black cut)
+(Black transition)
 Kohane: Hmm, it looks like Miku is in the lead right now.
 Miku (VBS): I have seven points, and next is Toya with five, I think.
 Toya: Len's trick question tripped me up. I couldn't help but overthink it.
@@ -149,15 +149,11 @@ An: You'll find out what's so special about them at the answers! Kohane, take it
 Kohane: Okay! Special question number one!
 Kohane: What are the named roles in musical theatre called?
 Toya: (The named roles in musical theatre...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I recall hearing about this from Kusanagi during Shibu Schools Fest...)
 Miku (VBS): Hmm, I don't know if I know this one.
@@ -178,15 +174,11 @@ Toya: It certainly was. I didn't expect to receive a video message...
 Kohane: We have more special questions too. While you're thinking of the answers, try to guess who they're from!
 Kohane: The next question is... What photography technique involves intentionally loosening the focus to create blur?
 Toya: Photography...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Could it be...?)
 An: Looks like everyone's done. This answer is brought to you by...!
@@ -230,8 +222,8 @@ Toya: (Having so many people send me their well-wishes... I truly am fortunate.)
 Toya: (And thinking back, I've made memories with so many people.)
 Toya: (Each one is precious to me.)
 Toya: (I want to continue treasuring the connections I build with people... And the memories I make with them.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000451/bg_s000451.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000451/bg_s000451.webp)
 Tsukasa: Happy birthday, Toya! Are you enjoying your American birthday?
 Emu: Japan and America are really far apart from each other... But I'm sending happy happy birthday waves all the way there to you!
 Rui: I wanted to celebrate with a super-long-range birthday cannon as well, but sadly, the technology is only theoretical at this stage.
@@ -258,11 +250,11 @@ Kohane: I think so too. It makes me want to think of trivia questions based arou
 An: That's fun! I really wanna make some super hard questions, ones Toya might be right on the edge of forgetting about!
 Akito: I can't decide where to start. There's too much to pick from.
 Akito: Anyway, happy birthday, Toya. Let's keep on getting up on stage, building up our experience... And someday, stand on top of the world.
-(White cut)
+(White transition)
 (Background change)
 Toya: Today was so much fun. I got to try my hand at a vacuum coffee maker, and the cookies everyone made were delicious.
 Toya: I didn't expect them to come up with a game just for me. I'll have to send my thanks to the special question guests, too.
 Toya: And to all of you who sent me happy wishes for today, thank you.
 Toya: My team and I will keep on chasing our dream.
 Toya: And I promise to keep on bringing you the greatest music I can.
-(Black cut)
+(Black transition)

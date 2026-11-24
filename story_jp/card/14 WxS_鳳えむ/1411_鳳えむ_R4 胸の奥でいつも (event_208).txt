@@ -46,7 +46,7 @@ Gacha phrase: あたし達は忘れない！
 えむ: でしょでしょー！
 司: よーし、ではステージを回って、 オレ達のフライヤーをたくさん置いていこうではないか！
 えむ: はーい！　ポップスタンドいーっぱい用意してきたから どんどん使ってね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -74,7 +74,7 @@ Gacha phrase: あたし達は忘れない！
 類: ……そうだね。今の僕達があるのは、 あの時応援してくれていた人達のおかげだ
 司: オレ達の全身全霊をもって、作り上げようではないか。 誰もがワクワクし笑顔になれる、そんな最高のショーをな！
 えむ: うんっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -101,15 +101,11 @@ Gacha phrase: あたし達は忘れない！
 えむ: わあ、ありがとうございまーす！ とっても嬉しい……あれれ？
 えむ: （むむむ……この人達のこと、 どこかで見たことある気がする……）
 えむ: あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ワンダーステージによく遊びに来てくれてたお客さんだー！
 お客さんB: えっ、私達のこと、覚えてるんですか？
@@ -150,4 +146,4 @@ Gacha phrase: あたし達は忘れない！
 司: おお、懐かしい顔ぶれではないか……！
 えむ: えへへっ、嬉しいなぁ……！
 えむ: 来てくれてありがとう！ 今日はたーっくさんお話しようね～♪
-(Black cut)
+(Black transition)

@@ -24,7 +24,7 @@ Minori: Of course, Haruka gets the same score as Shizuku. 10 billion points!
 Shizuku: Hehe. I know how you feel. Her smile really was lovely.
 Airi: Next, Minori, you're up. I hope you're ready to also blow us away.
 Minori: Oh, right... Am I really gonna be okay?!
-(Black cut)
+(Black transition)
 Airi: Alright, Minori, it's finally your turn.
 Minori: Y-Yeah!
 Minori: I doubt that I'll be able to match the two smiles that preceded me... But they gave me a big boost of energy, so I'll do my best!
@@ -39,7 +39,7 @@ Minori: O-Okay! Minori Hanasato's all set to go!
 Minori: Wait, huh?! I'm having trouble keeping my...
 Minori's Voice (Minori): Waaahhh!
 Shizuku: Minori?!
-(Black cut)
+(Black transition)
 Haruka: Are you okay, Minori?
 Minori: Um... I'm all wet now...
 Minori: Wh-Why did I fall off just now?! I thought I was keeping my balance okay...
@@ -73,7 +73,7 @@ Airi: Hehe. Of course I'm riding it.
 Comments: <Really?!> <We get to see Airi's amazing smile?!> <Grace us with your power!>
 Airi: You got it! I'm gonna show you all what a real idol smile is!
 Shizuku: Oh, I can't wait to see that...!
-(Black cut)
+(Black transition)
 Airi: Hehe. I thought the water would be colder. It actually feels pretty nice!
 Haruka: Looks like Airi's doing just fine. She hasn't budged at all...
 Minori: *Sob* So, I'm the only one who had trouble riding it...
@@ -88,11 +88,11 @@ Comments: <I thought I was gonna have to do a handstand to watch.> <It's so ador
 Minori: Thanks! Rookie videographer, Minori Hanasato, reporting for duty! Today, my goal will be to capture Airi's amazing smile! So, Airi, get ready!
 Airi: Okay, got it!
 Airi: Alright, everyone! Are you ready to take a bunch of screenshots?!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000104/bg_s000104.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000104/bg_s000104.webp)
 Minori: Whoa...! Airi, you look absolutely adorable...!
 Shizuku: I agree! It's such a wonderful display of who you are...!
-(White cut)
+(White transition)
 (Background change)
 Airi: Hehe. I'm just getting started!
 Minori: Huh? What do you mean?
@@ -104,7 +104,7 @@ Minori: And she just did the one where the Little Mermaid's chasing after a crab
 Airi's Voice (Airi): Whew! Remember kids, don't try this at home!
 Comments: <I can't remember the last time I saw Happy Everyday's Little Mermaid pose!> <As funny as it was, I'm starting to tear up from the nostalgia.> <First time seeing it. I burst into tears laughing!>
 Haruka: A pose with a punchline. We couldn't have asked for more, Airi.
-(Black cut)
+(Black transition)
 Airi: Alright, how was that?
 Shizuku: That was wonderful. You had us laughing all the way through.
 Minori: Yeah! Cute and funny! You're really the best, Airi!
@@ -119,7 +119,7 @@ Minori: I probably won't be able to do anything like what Airi did... But I want
 Airi: That's great to hear...! And I like your moxie.
 Airi: However, we're not gonna cut any corners, so get ready to fully commit yourself to this!
 Minori: Understood!! I, Minori Hanasato, promise to do my absolute best!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -133,10 +133,8 @@ Airi: If I'm gonna be honest, you really didn't have to try doing my Happy Wipeo
 Comments: <The boat was fun, but so was watermelon smashing.> <Yeah, I liked it when they smashed watermelons too.> <That was an interesting game.>
 Shizuku: Yes, it was. Especially how one of us was only allowed to help the blindfolded person by speaking, while the other was allowed to help them in any other way...
 Haruka: Things got really interesting when Minori was blindfolded. I couldn't talk, and when she made eye contact with Shizuku...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Haruka: (Oh no! Minori's moving away from the watermelon! I have to help her!)
 Haruka: (Huh? What's with all these little holes?! They seem to be all over the place around here!)
 Airi: Heh heh heh...
@@ -147,10 +145,8 @@ Shizuku: Oh, now I see! Thank you!
 Haruka: (Thank...)
 Shizuku: Minori! Haruka says to watch out for the crabs that are walking around!
 Haruka: (N-No, not that...!)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Minori: I didn't realize reaching the watermelon with a blindfold on would be so tough.
 Haruka: Fortunately, we managed to figure out a way to guide you to it in the end.
 Shizuku: Exactly! Haruka and I even worked out a system to communicate simply through eye contact.
@@ -179,4 +175,4 @@ Rin: <Hehe♪ We were watching your training camp stream in secret!>
 KAITO: <Are your viewers enjoying everything? Also, would it be possible to see their comments?>
 Airi: Hehe. Of course.
 Airi: Why don't we take this opportunity to recap everything that's happened?
-(Black cut)
+(Black transition)

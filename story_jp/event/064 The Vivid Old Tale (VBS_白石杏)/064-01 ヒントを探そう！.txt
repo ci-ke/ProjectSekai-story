@@ -57,10 +57,10 @@ MEIKO: 足りないものが何かを ちゃんと理解する必要があるか
 KAITO: うんうん！ レンもリンも『とにかくすごい』しか言わないから、 よくわかんなかったしね～
 MEIKO: そういうことなら、鑑賞会にしましょうか。 ええと……前のイベントで使ったスクリーンがあるから、 それに映すのがよさそうね
 リン: やったー！ みんな、一緒に準備しよう！
-(Black cut)
+(Black transition)
 ミク (VBS): それじゃ——再生するよ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000094/bg_s000094.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000094/bg_s000094.webp)
 凪の声: ♪————————っ！！
 ルカ: ……うっわ～！ すっごい歌……！
 KAITO: パワフルだね～！ 圧倒されるっていうか、引きこまれるなぁ
@@ -68,7 +68,7 @@ KAITO: パワフルだね～！ 圧倒されるっていうか、引きこまれ
 KAITO: うんうん。まさか、こんなにすごいなんてね……！ 体がウズウズしちゃうよ！
 リン: も～、みんな、シー！
 レン・ルカ・KAITO: 『はーい』
-(White cut)
+(White transition)
 (Background change)
 MEIKO: まったく……。 みんな、いつでも賑やかなんだから
 ミク (VBS): ふふ、そうだね
@@ -86,13 +86,13 @@ MEIKO: まったく……。 みんな、いつでも賑やかなんだから
 杏: （あ——ダメダメ。見入っちゃう。 今は冷静にヒントを探さなきゃいけないのに）
 杏: （にしても……RAD WEEKENDは、本当にすごいな）
 杏: （何回も見てるはずなのに、見てるだけでドキドキして……。 気づいたら、もう虜になってる）
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 杏: …………ふふっ
 杏: やっぱり、すごいな……
-(Black cut)
+(Black transition)
 彰人: ……で、どうだ？ 何か気づいたことはあったか？
 リン: うん！　えーっとえーっと…… すっごくかっこよかった！
 レン: あのなー、ヒント探しはどうしたんだよ
@@ -137,4 +137,4 @@ MEIKO: まったく……。 みんな、いつでも賑やかなんだから
 杏: 凪さんについて……か。 んー、話すのはいいけど、どこから話そうかな……
 杏: あ、それじゃあ、あの時のこととかどうかな
 杏: 凪さんは——本当に、いつだってかっこよかったんだよ
-(Black cut)
+(Black transition)

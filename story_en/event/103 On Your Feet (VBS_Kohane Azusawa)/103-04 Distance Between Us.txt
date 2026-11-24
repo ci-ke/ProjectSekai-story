@@ -2,10 +2,8 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [A few days earlier]
@@ -57,10 +55,8 @@ Arata: I need time to think about what I'm going to do with myself.
 Soma: Arata, wait...!
 Soma: Oh...
 Soma: I...see...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: That really happened...?
 Soma: Yeah...
@@ -69,21 +65,17 @@ Toya: Soma...
 Soma: So, that's why I asked you all to meet with me today...
 Soma: You guys know what happened to him, right? Would you mind telling me...?
 An: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: So, Arata, let me ask you this. Who are you really singing for?
 Taiga: You're not trying to make Soma's dreams come true. You can't face the pain of having lost him, so you're just clinging to his dreams.
-(White cut)
+(White transition)
 (Background change)
 Arata: I wasn't able to respond...
 Arata: All I had to say was, “Taunt me all you want! I'll keep carrying his dreams!”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Tono wanted to carry Soma's dreams...)
 Kohane: (But... Are we in a position to talk to him about that...?)
@@ -104,20 +96,16 @@ An: No, you give us too much credit. We were just as shocked...
 An: But we found a reason to not give up...
 Soma: A reason?
 An: Yes. It's a bit of a long story...
-(Black cut)
+(Black transition)
 Soma: The next generation... That's what Nagi wanted...?
 An: Yes. Because she was willing to place her faith in us...
 An: I want us to surpass RAD WEEKEND and see what it's like beyond their dream.
 Soma: I see...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Soma: Thank you for telling me about yourselves and Nagi...
 Soma: As sad as I am about Arata's decision, maybe this is the way things are meant to be...
@@ -127,7 +115,7 @@ Kohane: Oh...
 Soma: Oh, sorry... I didn't mean to get all sentimental.
 Soma: Good luck, you guys...
 Toya: Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 Kohane: Um... Thank you very much for telling us about what happened with Tono.
 Soma: No, it was my pleasure. Thank you for telling me about Nagi and RAD WEEKEND.
@@ -138,4 +126,4 @@ Soma: They really are a tough bunch...
 Soma: I didn't give Aoyagi a proper apology... After he helped me make this...
 Soma: ...
 Soma: To think he's never gonna sing this song now...
-(Black cut)
+(Black transition)

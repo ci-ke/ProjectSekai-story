@@ -3,23 +3,23 @@
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
 : 『Vivid BAD SQUAD』として走り出した４人。 チームを組んで最初のイベントは、 パフォーマンスがうまくいかず——
-(Black cut)
+(Black transition)
 (Background change)
 杏: 私のせいだ……。 私が、こはねのことをリードしなくちゃいけなかったのに……
 杏: 私、こはねの相棒なのに……守れなかった
 彰人: ……守れなかった？
 彰人: どういう意味だよ、それ
 杏: え？
-(Black cut)
+(Black transition)
 (Background change)
 杏: ……ああ、そっか。 私、こはねに頼られて嬉しかったんだ
 杏: ずっと、ひとりで夢を追っかけてたから……
 杏: こはねが一緒にいて、私を頼って、 一緒に歌ってくれるのが、すごく嬉しくて——
 杏: バカだな、私
-(Black cut)
+(Black transition)
 (Background change)
 : こはねの相棒としてどうあるべきか。 それを見つめなおした杏は——
-(Black cut)
+(Black transition)
 (Background change)
 杏: こはね、昨日はほんっとうにごめん！！
 杏: 何があっても、こはねをリードするなんて言って……、 私、こはねのこと守らなきゃって思ってたんだ
@@ -39,11 +39,11 @@
 杏: 一緒にステージで歌える、本当の相棒になりたいの
 杏: 誰より一番、こはねに信じてもらえるようになる！ こはねのことを信じて歌うから！　だから——
 杏: こんな私だけど、これからも こはねの相棒でいさせてくれないかな？
-(Black cut)
+(Black transition)
 (Background change)
 : そして冬弥は、自分の選んだ音楽をわかってもらおうと、 逃げずに父親と向き合い——
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000048/bg_a000048.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000048/bg_a000048.webp)
 冬弥: これは今度のイベントのチケットです
 冬弥: どうか、今の俺の覚悟を聴いて下さい
 冬弥の父: こんなものを聴いたところで……
@@ -51,17 +51,17 @@
 冬弥: 父さんにとってクラシック音楽が何より大切なように、 俺にとっても、この音楽が何より大切なんです
 冬弥: 初めて……絶対に失いたくないと思ったんです
 冬弥: それをわかってもらいたいんです。 誰でもない——音楽のおもしろさを教えてくれた父さんに
-(White cut)
+(White transition)
 (Background change)
 冬弥の父: …………
 冬弥: 待ってます
 冬弥: それから……今までクラシックを教えてくれて、 本当にありがとうございました
 冬弥: 父さんがクラシックを教えてくれなかったら、 俺はきっと、彰人達にも、この夢にも出会えていなかった
 冬弥: だから——ありがとう、父さん
-(Black cut)
+(Black transition)
 (Background change)
 : 彰人は、圧倒的な実力を持つライバルの登場に 焦りを感じながらも、仲間を頼ることを知っていき——
-(Black cut)
+(Black transition)
 (Background change)
 新: ♪ ————————！
 彰人: …………っ！？
@@ -73,7 +73,7 @@
 観客達: あいつ、すげえな！　こんだけ盛り上げられんなら、 本当にRAD WEEKENDも超えられるかもしれねえな！
 彰人: （あれだけやって、オレは、近づくどころか——）
 彰人: …………っ！
-(Black cut)
+(Black transition)
 冬弥: 彰人、お前なしで RAD WEEKENDを超えることなんて絶対にできないんだ
 冬弥: だから、お前が壁にぶつかった時は……もっと頼ってくれ！
 彰人: ……っ
@@ -88,25 +88,25 @@
 新: 今度はVivid BAD SQUADとしてやるの？ いいね、おもしろそう
 彰人: ……遠野。 今のオレじゃ、お前の実力には到底及ばねえ
 彰人: ただな……それでも、RAD WEEKENDを超えるのはオレ達だ！
-(Black cut)
+(Black transition)
 (Background change)
 : こはねは慣れないステージの上でも、 自分を信じて歌うことを覚えて——
-(Black cut)
+(Black transition)
 (Background change)
 こはね: （大丈夫……！）
 こはね: （私は————歌える！！）
 こはね: ♪ ————————っ！！
 杏: …………っ！？
 謎の男: あの歌声は——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000085/bg_a000085.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000085/bg_a000085.webp)
 こはね: ————！　——————！！
 観客達: すげえ……！ あの子、あんな歌えたのか！？
 観客達: この前とは全然違うぞ！？
 こはね: （もっと……！）
 こはね: （もっと、もっといける——！！）
 こはね: ————！　————～～～！！
-(Black cut)
+(Black transition)
 (Background change)
 : ４人はそれぞれ１歩ずつ RAD WEEKENDを超えるための道のりを歩んでいった
-(Black cut)
+(Black transition)

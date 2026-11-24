@@ -21,7 +21,7 @@ Miku (N25): Okay, then...
 Ena: Oh...! Thank goodness that you're both here, Miku, KAITO!
 Miku (N25): Ena?
 Ena: I need you guys to come with me! Please! It's an emergency!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (N25): <Is something wrong, everyone?>
 KAITO (N25): <This looks like...>
@@ -50,7 +50,7 @@ Ena: (Miku...!)
 Mizuki: (Nice assist!)
 KAITO (N25): <Fine, I'll play along...>
 Ena: Thanks, KAITO! Alright, let's start picking out some ice cream!
-(Black cut)
+(Black transition)
 Miku (N25): <This ice cream has small white balls inside...>
 Mafuyu: I think that's soda candy.
 Miku (N25): <Then, what are the black things in the one next to it?>
@@ -61,7 +61,7 @@ Miku (N25): <Pop...flash...?>
 Ena: Popping flash. It's got these little pieces of candy that pop and crackle for some reason when you put them in your mouth.
 KAITO (N25): <I want something more normal.>
 Kanade: Normal... Oh, here's their regular menu.
-(Black cut)
+(Black transition)
 Ena: Before we forget, Miku, KAITO, which do you two prefer? Cups or cones?
 Miku (N25): <Cups or cones?>
 KAITO (N25): <Get yours in a cup. That way, you'll be able to have it at your own pace without worrying about it dripping.>
@@ -71,7 +71,7 @@ Miku (N25): <Hmm... I'll get mine in a cup since I'm also a slow eater.>
 Mizuki: Oh, me next! I want mine in a cone!
 Ena: Why are you telling me that? I'm not paying for you, remember?
 Ena: Oh, Miku, KAITO, since you're getting yours in cups, wanna get two or three scoops?
-(Black cut)
+(Black transition)
 Ena: Okay, that's melty strawberry and mint chocolate chip for you, Miku, and chocolate chip and matcha for you, KAITO.
 Ena: I'll buy everything now, so wait for us over in SEKAI.
 Kanade: It may take us a little while since the shop's gotten pretty crowded.
@@ -79,7 +79,7 @@ Mizuki: She's right. Try not to let KAITO out of your sight until we've got ever
 Miku (N25): <Okay, I will...>
 KAITO (N25): <Make it quick.>
 Ena: Alright, we'll see you guys in a bit!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -92,20 +92,16 @@ Miku (N25): ...
 KAITO (N25): ...
 Miku (N25): (Mizuki told me to not let KAITO out of my sight, but he hasn't tried to leave my side.)
 Miku (N25): (Also...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (N25): <Then, what are the black things in the one next to it?>
 KAITO (N25): <Chocolate. Also, it looks like it has some nuts in it.>
-(White cut)
+(White transition)
 Miku (N25): <Cups or cones?>
 KAITO (N25): <Get yours in a cup. That way, you'll be able to have it at your own pace without worrying about it dripping.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (N25): (KAITO was a little kind just now. His expression had this softness to it.)
 Miku (N25): (Is he excited about having some ice cream?)
@@ -121,7 +117,7 @@ Miku (N25): Hehe. It's cute...
 Mizuki: Alright, let's start having these before they melt!
 Miku (N25): *Nod* Let's eat...
 Kanade, Mafuyu, Ena & Mizuki: Let's eat. Let's eat!
-(Black cut)
+(Black transition)
 KAITO (N25): Do we have to eat these together...?
 Ena: What's wrong with that? I mean, we have to gather up the trash after we're all finished.
 Miku (N25): Mmm... The strawberry is so rich. It's delicious.
@@ -129,22 +125,22 @@ Mizuki: Haha! That's melty strawberry for ya!
 Mizuki: Oh, compared to the other flavors, it's supposed to feel really fluffy as it melts in your mouth. Wanna try seeing what I mean by having some of my very vanilla?
 Miku (N25): Okay... You can have some of mine as well, Mizuki.
 Mizuki: You sure? Then, just a bite!
-(Black cut)
+(Black transition)
 KAITO (N25): You also have some green ice cream, but it looks different from my matcha scoop...
 Kanade: Yes, it's melon flavored. I was told that it's fun to have it with some orange sherbet.
 KAITO (N25): Fun how...?
 Kanade: So, if you mix them together, it's sort of supposed to taste like fruit milk...
-(Black cut)
+(Black transition)
 Miku (N25): I'm hearing some strange sounds coming from you, Mafuyu...
 Mafuyu: It's probably because I'm eating popping flash ice cream.
 Miku (N25): Oh, the one that pops and crackles in your mouth...?
 Mafuyu: Would you like to try some?
 Miku (N25): Yes, I'd like to feel what that's like...
-(Black cut)
+(Black transition)
 KAITO (N25): ...
 Ena: What do you think of this place's ice cream, KAITO? Pretty good despite being a chain, right?
 KAITO (N25): Yeah, it isn't bad...
-(Black cut)
+(Black transition)
 Kanade: This is incredible... They really do pop in your mouth.
 Mizuki: I also really like the max version of it.
 Ena: Max...? Oh, doesn't it come covered in that stuff when you order it?
@@ -153,4 +149,4 @@ KAITO (N25): Toppings aren't to be added lightly...
 Miku (N25): (Everyone seems to be having fun...)
 Miku (N25): (And for some reason, even though I'm having cold ice cream...)
 Miku (N25): (I feel a little warm.)
-(Black cut)
+(Black transition)

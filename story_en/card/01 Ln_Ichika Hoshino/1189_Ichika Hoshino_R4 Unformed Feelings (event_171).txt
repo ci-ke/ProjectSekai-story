@@ -18,7 +18,7 @@ Saki: Ichi! Hona! Wanna have lunch together?
 Ichika: Oh... Umm... I...
 Shiho: Hm? No yakisoba bun, Ichika? Have you not had a chance to buy any yet?
 Ichika: Oh, so...
-(Black cut)
+(Black transition)
 Saki: What?! You weren't able to buy lunch?!
 Ichika: I was late getting to the store because our last class ended up going over a bit...
 Shiho: I didn't realize they could run out... I'm glad I brought a lunch today.
@@ -30,7 +30,7 @@ Shiho: Yeah, why not? You should be able to have plenty if all three of us pitch
 Honami: Not only that, you'll get to have a wider variety.
 Ichika: N-No, I couldn't...
 Saki: You can't turn us down, Ichi! Anyway, let's head down to the courtyard!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -76,7 +76,7 @@ Ichika: I know. We wouldn't have a hard time, but it might be fun to have Miku a
 Saki: Yeah, that would be fun!
 Honami: You could include some of the omelets from your house when we do, Ichika.
 Ichika: Hehe. Do you think they'll be able to figure it out?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -128,15 +128,11 @@ Miku (Ln): <Only the you from that dream was capable of producing that song.>
 Ichika: In that dream, not only was I terrible at playing the guitar, that was the first song I'd ever written. I was really just wandering around in the dark.
 Ichika: If I were to hear that song right now, I might feel embarrassed because of how bad I was at everything.
 Ichika: Still...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: I managed to reach the others.
 Miku (Ln): <Which sort of makes me believe that it may be better for you not to remember how it went.>
@@ -148,4 +144,4 @@ Ichika: Instead, I should be writing songs that I can produce as I am now.
 Miku (Ln): <I agree with that statement.>
 Miku (Ln): <I'll be looking forward to hearing your new song. I'd like to sing it if possible.>
 Ichika: Of course! All of us can sing it, together!
-(Black cut)
+(Black transition)

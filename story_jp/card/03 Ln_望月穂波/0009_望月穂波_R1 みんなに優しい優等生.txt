@@ -38,7 +38,7 @@ Skill name: アップルパイください
 えむ: 穂波ちゃんは命の大恩人だよっ！
 穂波: ふふ。どういたしまして。 あっ、あそこの席が空いてるから座って食べようか？
 えむ: うんっ！
-(Black cut)
+(Black transition)
 穂波: はい。 アツアツだから、やけどしないように食べてね
 えむ: はーい！　あつつーっ！
 穂波: だ、大丈夫！？
@@ -56,7 +56,7 @@ Skill name: アップルパイください
 穂波: ……？
 えむ: オレンジジュースがいいです！
 穂波: わかった、買ってくるね
-(Black cut)
+(Black transition)
 えむ: はー…… おいしかったぁ……
 穂波: 気に入ってもらえたみたいでよかった
 えむ: うんっ！　すっごくしあわせだったよ！
@@ -66,7 +66,7 @@ Skill name: アップルパイください
 穂波: うん、また明日ね
 穂波: ……久しぶりに、何も考えないで 楽しくアップルパイを食べられたなぁ……
 穂波: こっちこそありがとう。えむちゃん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -78,19 +78,15 @@ Skill name: アップルパイください
 穂波: あ……
 穂波: （この音……吹奏楽部かな。 懐かしいな……）
 穂波: （わたしも、中学生のときは 吹奏楽部でパーカッションをやってたっけ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 クラスメイトA: ホント、穂波ってさ……
-(White cut)
+(White transition)
 (Background change)
 クラスメイトB: ねぇ、だからさ。 穂波っていったいどっちの……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ……っ、嫌っ！
 穂波: （もう思い出したくないのに……！）
@@ -126,4 +122,4 @@ Skill name: アップルパイください
 穂波: ……！
 えむ: じゃーね穂波ちゃん！ バイバーイ☆
 穂波: ……えむちゃん
-(Black cut)
+(Black transition)

@@ -29,7 +29,7 @@
 ひなた: ……ふふっ
 ひなた: （みんな昔みたいに、笑顔であの場所のことを考えられてる）
 ひなた: （本当によかったね、みんな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [その日の夜]
@@ -49,7 +49,7 @@
 慶介: リピートしてくれるコア層向けの、いい施策だな。 検討してみる価値はありそうだ
 えむ: やった～☆
 えむ: それじゃ、次のアイディアね！ 観覧車からナイトショーを見た時に もっと楽しくなれるようにしたいなって思って——
-(Black cut)
+(Black transition)
 えむ: はい！　これで全部だよ！
 晶介: なんつー数のアイディアだ……。 こんなん、いつの間に考えてたんだ？
 えむ: む？　えーっと、朝起きた時とか、学校に行ってる時とか、 授業中とか、学校から帰ってる時とか、寝てる時とか……
@@ -92,28 +92,20 @@
 晶介: おっと、電話だ。 悪い、俺も外すぞ
 えむ: あ……うん……
 えむ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 晶介: えむはそういうんじゃねえだろ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （それって、あたしが会社のこと考えるのは、 向いてないってことなのかな……）
 えむ: （でも、このままじゃ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （いつまでたっても、みんなに頼りっぱなしになっちゃう）
 えむ: （ワンダーステージを守りたい、 フェニックスワンダーランドを守りたい、って思った時だって、 みんながいなかったらなんにもできなかったから——）
@@ -125,4 +117,4 @@
 晶介: 百面相してると思ったら、やっぱり聞いてなかったのかよ。 もう１回言うぞ
 晶介: お前達——アメリカに行かないか？
 えむ: …………ええっ！？
-(Black cut)
+(Black transition)

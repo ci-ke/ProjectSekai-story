@@ -22,7 +22,7 @@
 瑞希: うん！
 まふゆ: …………
 まふゆ: （喜んでもらえるデザイン、か……）
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -61,15 +61,11 @@
 瑞希: それで、また少し、前を向けるようになるっていうか……
 まふゆ: あ……
 まふゆ: （暗闇の中に差す、光……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……そうだね
 まふゆ: 奏は——
@@ -93,9 +89,9 @@
 まふゆ: 一緒に考えてくれてありがとう
 雫: ええ。迷ったら、またいつでも相談してね
 まふゆ: ——うん
-(Black cut)
+(Black transition)
 雫: ふう……これで、みんなデザインは決まったかしらね
 遥: うん。どのステッチを使ってぬうかも、 雫のおかげで固められたし…… あとは、材料をそろえて作るだけかな
 瑞希: それじゃ、いいプレゼントになるように、 みんなでがんばろー！
 雫・まふゆ・遥: 『ええ！』 『うん！』
-(Black cut)
+(Black transition)

@@ -17,10 +17,8 @@ Gacha phrase: やっぱり、杏ちゃんはすごいな
 こはね: え？　そ、そうかな？
 謙: ああ。一目でわかるくらいにはな。 何かあったのか？
 こはね: あ……はい。 実はさっき、Crawl Greenのオーナーさんに会って……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数十分前]
@@ -61,10 +59,8 @@ Crawl Greenのオーナー: 小豆沢さん。 杏の相棒になってくれて
 こはね: 杏ちゃんと出会えたおかげで、 私は大切な夢を持つことができて、 それに、街の皆さんと知り合うこともできました
 こはね: だから……杏ちゃんには、本当に感謝しているんです
 Crawl Greenのオーナー: ……その言葉が聞けて、嬉しいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ——あのオーナーと、そんなこと話してたのか
 こはね: うん。まさか、お礼を言ってもらえるなんて 思ってなかったからびっくりしちゃったけど、嬉しかったな
@@ -80,7 +76,7 @@ Crawl Greenのオーナー: ……その言葉が聞けて、嬉しいよ
 こはね: （街の人達にも『相棒が私でよかった』なんて、 認めてもらえるようになったんだ）
 こはね: （……頑張らなくちゃ）
 こはね: （杏ちゃんの相棒として、胸を張って……！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -93,19 +89,15 @@ Crawl Greenのオーナー: ……その言葉が聞けて、嬉しいよ
 こはね: はぁ、はぁ……
 こはね: （さっきよりはよくなってきた。けど——）
 こはね: （まだ、足りない……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ♪————————っ！！！！
 こはね: あ…………！
 こはね: （……胸が……）
 こはね: （————ドキドキする）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの時の杏ちゃんの歌に比べたら、まだ——）
 こはね: （……もっとうまくなりたい）
@@ -134,15 +126,11 @@ EVERのメンバーA: …………！
 EVERのメンバーB: ……悔しさがあるから、前に……か
 こはね: はい
 こはね: 今だって、杏ちゃんに負けたことは すごく悔しいですけど、でも——よかったって思うんです
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: これから先、杏ちゃんと歌っていく中で 悔しい思いをすることはきっとたくさんあって……
 こはね: だけど、そのたびに『悔しい』と思えるなら、 私は……もっと、高いところに行けるから
@@ -158,4 +146,4 @@ EVERのメンバーB: ……俺達は、大河さんにこてんぱんにされ�
 こはね: 負けたままで、追いつきたい人ばっかりで……。 だから——
 こはね: 一緒に頑張りましょう！
 達也: ——ああ。 よろしくな！
-(Black cut)
+(Black transition)

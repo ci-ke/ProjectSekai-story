@@ -10,36 +10,28 @@ Gacha phrase: みんな……お勉強……
 [えむの部屋]
 
 えむ: 森ノ宮歌劇団、すごかったなー！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: 劇場はキラキラどっしーってしてて、 レッスンルームはピカピカシャキーンってしてたし♪
 えむ: それに、森ノ宮音楽学園かあ～！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 有田: 皆さんには今回、併設している『森ノ宮音楽学園』で レッスンをしていただくこととなります
 司: な……！　森ノ宮音楽学園でレッスンを！？
 えむ: あっ、それならあたしも知ってるよ！ 森ノ宮歌劇団の役者さんになるための勉強をする学校なんだよね？
 類: ああ。 数百人の応募に対して、受かるのは30人程度と言われるほどの 狭き門——
 類: その学び舎に入って初めて、 森ノ宮歌劇団入団の資格を手にすることができる。 だから……非常にレベルが高い
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: 歌劇団に入るための学校っていうのは知ってたけど、 あそこで勉強できるって本当にすごいことなんだなあ
 えむ: いいな～！ あたしも歌や演技の勉強したかった！
@@ -51,10 +43,10 @@ Gacha phrase: みんな……お勉強……
 えむ: （本当は森ノ宮に行く前に、全部勉強したかったけど——）
 えむ: （100年分の歴史だから、すっごくいろんなことがあって、 全然追いつかなかったな）
 えむ: でも、あと半分だし、 今日で全部終わらせるつもりでがんばるぞー！　おー！
-(Black cut)
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
+(Black transition)
 えむ: …………ふう。 終わったぁ～……
 えむ: あ、でも、今日いっぱい頭にギューってしたから、 もう１回、今度ははじめから全部見直して……ふぁ～
 えむ: あれ……なんだか、眠くなってきちゃった。 えっと、今は……
@@ -64,10 +56,8 @@ Gacha phrase: みんな……お勉強……
 えむ: じゃあ……あ、ノート抱っこしながら寝たら、 夢の中でもお勉強できるかな？
 えむ: ……夢の中でもお勉強する時は、ひとりなのかな？
 えむ: 夢なんだし、寧々ちゃん達と一緒がいいなぁ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: ……あれれ？ あたし、いつの間に森ノ宮に戻ってきちゃったんだろ？
 寧々: ——ちょっとえむ、朝早いからって寝ぼけてるの？
@@ -79,15 +69,13 @@ Gacha phrase: みんな……お勉強……
 司: だから、もともとそういう話だったというのに
 寧々: もういいから、早く行こ。 遅刻しちゃうよ
 えむ: ……うん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: うへへ……むにゃ……
 えむ: みんな…… お勉強……
 えむ: すー……すー……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -146,4 +134,4 @@ Gacha phrase: みんな……お勉強……
 えむ: えへへ……！
 えむ: （あたしも、もっともっと勉強がんばろう！）
 えむ: （フェニックスワンダーランドを 森ノ宮歌劇団みたいに、 たくさんの人に愛してもらえるように！）
-(Black cut)
+(Black transition)

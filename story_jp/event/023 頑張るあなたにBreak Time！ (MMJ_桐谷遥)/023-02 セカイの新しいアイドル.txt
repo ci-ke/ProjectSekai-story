@@ -11,7 +11,7 @@
 コメント: 『絶対にコメントするね！』 『拾ってもらえるといいな』 『みのりに無茶振りさせたいなー』
 みのり: ひょえ……！　が、がんばります！
 雫: ふふ、それじゃあまた会いましょうね。さようなら！
-(Black cut)
+(Black transition)
 遥: （今日の企画、コメントの反応もいつもよりあったな。 喜んでくれてるみたいでよかった……）
 みのり: 遥ちゃん、やったね！
 遥: え？
@@ -57,7 +57,7 @@
 雫: そうね……
 雫: …………
 雫: 遥ちゃん、無理しすぎないといいけれど……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -70,14 +70,14 @@
 愛莉: いいじゃない！ ミク達のライブ、見学させてもらいましょ
 雫: そうね、楽しそうだわ
 雫: あら？　でも、あそこにいるのって……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000075/bg_a000075.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000075/bg_a000075.webp)
 MEIKO: みんなーっ！ 来てくれてありがとう！
 MEIKO: 今日はみんなのおかげで、 とーっても楽しいソロライブができたわ！
 MEIKO: 次はミク達と一緒に最高のライブをやるから、 また見に来てねっ！
 ミク (MMJ): めーちゃーん！
 リン: めーちゃん、最高～っ！
-(White cut)
+(White transition)
 (Background change)
 みのり: あれって……！
 愛莉: メ……メイコ？
@@ -104,4 +104,4 @@ MEIKO: それで、今日はどうしてここに？
 リン: 相談？　新しい企画考えるの楽しそう〜！
 ルカ: ええ、私達は大歓迎よ♪
 遥: ありがとう。それじゃあ、さっそく聞いてくれる？ まずは——
-(Black cut)
+(Black transition)

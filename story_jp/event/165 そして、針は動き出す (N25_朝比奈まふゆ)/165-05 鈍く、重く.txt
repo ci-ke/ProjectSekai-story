@@ -4,23 +4,19 @@
 
 [宮益坂]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: あら……まだ続けていたのね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……あの言葉、どういうことだったんだろう）
 まふゆ: （やっぱり、お母さん——）
 まふゆ: …………
 まふゆ: （…………本当に、続けていいのかな）
 まふゆ: （あの時は、続けていいって言われたけど……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -42,7 +38,7 @@
 まふゆ: せっかくだから、手伝いたいんだ。 ……いいかな
 まふゆの母: ええ……！ もちろんよ
 まふゆの母: 美味しい夕飯作って、 お父さんをびっくりさせちゃいましょう！
-(Black cut)
+(Black transition)
 まふゆの父: ——お、この麻婆豆腐美味しいな。 辛味もちょうどいい
 まふゆの母: ふふ、よかったわ。 今日はまふゆと一緒に作ったのよ
 まふゆの父: そうだったのか
@@ -72,29 +68,25 @@
 まふゆの母: ——ごめんなさい。私ったら、また……
 まふゆ: ううん、大丈夫だよ
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: まだ目指したい夢がわからないのなら、それでいい
 まふゆの母: 将来のことは、ゆっくり考えながら—— 今、まふゆがやりたいことをしてほしいと思っているの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （大丈夫……だよね）
 まふゆ: （お母さんは、私のために提案してくれただけだから）
 まふゆ: （…………でも……）
 まふゆ: ……駄目だ、集中できない
 まふゆ: 何か飲み物、取ってこよう
-(Black cut)
+(Black transition)
 (Background change)
 まふゆの母の声: …………っ、どうして……
 まふゆの母: ……どうして、あんなこと言っちゃったのかしら
@@ -104,4 +96,4 @@
 まふゆの父: ……大丈夫だ。 そんなに自分を追い詰めるな
 まふゆの母: でも……
 まふゆ: …………っ
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@ An: That means we were able to help! Let's do our best when the moment comes!
 Kohane: Yeah!
 Staff Member: Thank you all for your patience. The Christmas show will begin momentarily!
 Akito: Oh, it's starting.
-(Black cut)
+(Black transition)
 Santa Claus A: “Hmph...! Hmph...!”
 Santa Claus B: “You seem to be training harder than usual today. But this is our big day, so be careful not to get injured, okay?”
 Santa Claus A: “Yes, I'm being careful. But I can't seem to stay still. After all, it's Christmas Eve!”
@@ -26,7 +26,7 @@ An: Haha. Nothing gets by Kohane!
 Santa Claus C: “Those scoundrels are likely going to test us again this year by trying to prevent us from delivering our presents. But we shall overcome...!”
 Santa Claus C: “For the sake of the children!”
 Santa Clauses: “Yeah!”
-(Black cut)
+(Black transition)
 Santa Claus A: “Alright, we're set to take off. Let's fly, my trusty reindeer!”
 Reindeer (Emu): “Yes, I'll pull my hardest again this year!”
 Reindeer (Tsukasa): “And my red nose will light up the night sky...!”
@@ -34,7 +34,7 @@ Children: Wow, his nose is actually glowing! That's really cute!
 Kohane: Tsukasa and Emu are playing the reindeer...!
 Toya: Yes, that suits Tsukasa very well since carrying the presents is a very important job...
 Reindeer (Tsukasa): “Alright, let's go deliver these to the children!”
-(Black cut)
+(Black transition)
 Phantom Christmas Trees: “Arrrgh! M-My branch... The lights wrapped around it are so bright...!”
 Reindeer (Emu): “I don't think any of us were expecting Christmas tree monsters to appear...!”
 Reindeer (Tsukasa): “But it seems that they're weak against flashing lights!”
@@ -46,7 +46,7 @@ Reindeer (Tsukasa): “The trees are running...! Way to go, you guys!”
 Santa Claus B: “Yes, this is why we carry around lights for different kinds of trees.”
 Santa Claus A: “But many trials still lie ahead. Stay frosty, my trusty reindeer!”
 Reindeer: “Roger!”
-(Black cut)
+(Black transition)
 Phantom Snowman: “Wait, Santa!”
 Phantom Snowman (Nene): “You shall not pass... Leave those presents and flee!”
 Santa Claus B: “These presents are for the children. We are not about to let you have them.”
@@ -72,7 +72,7 @@ Rui: (Alright... So far, so good.)
 Rui: (The climax is coming up soon.)
 Rui: (After the lights go out, the staff will guide the guests down the slope and light the lanterns.)
 Rui: (We'll all need to work together in unison, but I'm sure...)
-(Black cut)
+(Black transition)
 Santa Claus A: “Oh, I'm starting to see some lights! We must be approaching the city!”
 Santa Claus A: “This is it, trusty reindeer! The home stretch!”
 Reindeer: “...”
@@ -119,18 +119,14 @@ Santa Claus C: “We can feel your collective desire to see us from all the way 
 Santa Claus C: “So, thank you for believing in us.”
 Children: Santa...
 Children: Wow... They really heard our wishes...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Children: Um, Santa... Will we get to see you again?
 Santa Claus C: “Yes, next year... I promise to return no matter what.”
 Santa Claus C: “So, until then, be very good!”
 Children: We will...!
-(Black cut)
+(Black transition)

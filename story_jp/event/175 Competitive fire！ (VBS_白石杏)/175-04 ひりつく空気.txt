@@ -61,15 +61,11 @@
 彰人: 日本では結局、聴きそびれたからな。 期待してんぞ
 スレイド: 任せといて！　行こう、セディ！
 セドリック: ああ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 エレナ: こいつには近づかないで、アン
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 杏: （……エレナが、あんなに怒るなんて……）
 杏: （お父さんと、何かあったのかな）
 杏: （でも、部外者の私が聞くのは——）
@@ -81,4 +77,4 @@
 杏: ……うん、そうだね！
 杏: （——私も、切り替えよう）
 杏: （せっかく、みんなの歌が聴けるんだから！）
-(Black cut)
+(Black transition)

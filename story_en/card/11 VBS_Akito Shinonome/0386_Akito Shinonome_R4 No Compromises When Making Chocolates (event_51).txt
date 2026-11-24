@@ -27,7 +27,7 @@ Mizuki: Hmm... Yeah, I see your point...
 Staff: Do you have a question? Is there anything I can help you with?
 Mizuki: Oh, it's the staff from earlier!
 Akito: Alright, I'd like to ask you something...
-(Black cut)
+(Black transition)
 Staff: I see. A way to spice up chocolate truffles...
 Akito: Yes. Is there a way to make them more interesting, or at the very least, have a lighter aftertaste?
 Staff: In that case, orange zest is a fairly standard option.
@@ -60,7 +60,7 @@ Staff: Thank you for your patience. Here's the orange liqueur. I've also written
 Akito: Thank you very much. I really appreciate it.
 Akito: Alright, let's get started.
 Mizuki: Yeah, let's♪ These are gonna be sooo good!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -75,7 +75,7 @@ An: Hey, speaking of which...! You guys, over here!
 Akito: I've got a bad feeling about this... Can I go home?
 Toya: Hm? But we still need to practice. Also, we have to hand these out.
 Akito: Ugh... I know...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage Stage]
@@ -104,40 +104,32 @@ Kohane: Can you tell me what happened, Shinonome?
 Toya: I've already heard most of this story, but I'd also like to hear more about what happened when you performed alongside Tsukasa.
 Akito: When I performed...?
 Akito: Fine, I'll talk... So, what happened was...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Chocota: “*Sob* *Cry*”
-(White cut)
+(White transition)
 Choco Maniac (Tsukasa): “Alright! Let's make some chocolates for Chocota!”
-(White cut)
+(White transition)
 Choco Maniac (Tsukasa): “Let's start making some chocolates... Is what I'd like to say, but I only eat them! I have no idea how to actually make them!”
 Choco Maniac (Tsukasa): “Some help would be much appreciated... You there! Why don't you help me make your idea a reality?!”
 Mizuki: What? Me?
 Choco Maniac (Tsukasa): “Yes, you! Your friend as well...!”
 Akito: What?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: After that, Akiyama helped Tsukasa make some chocolates while I took Chocota to the green room.
 An: Wait, how did you get him out of there?
 Akito: Huh? How...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: “It looks like Chocota's tuckered himself out from crying a little too much, so why don't we give him some time to rest?”
-(White cut)
+(White transition)
 Akito: “Alright, let's all wave goodbye to Chocota for now! See you later!”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Hahaha...!
 An: W-Wave goodbye to Chocota...?! I can't picture you saying that, Akito...! H-Hehe...!
@@ -159,4 +151,4 @@ Akito: Anyway, that's enough of that. Let's start practicing already.
 Kohane: Okay! Thanks for sharing that story with us!
 Toya: Yes, thank you. I feel like I could hear it over and over again...
 Akito: Dude, gimme a break...
-(Black cut)
+(Black transition)

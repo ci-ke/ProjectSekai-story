@@ -44,7 +44,7 @@
 一歌: ……うん。わかった。 ありがとう、草薙さん
 寧々: じゃあ、もう１回頭からやってみる？
 一歌: うん、お願いします！
-(Black cut)
+(Black transition)
 (Background change)
 
 [レッスンスタジオ]
@@ -64,21 +64,17 @@
 一歌: ……！　ありがとう……！
 一歌: （こう言ってもらえると嬉しいな。 勇気を出して、草薙さんに頼んでよかった）
 一歌: （でも……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: 私も、あの人達みたいに 誰かの心を動かせる演奏をしたい
 志歩: だから、もっとうまくなって…… プロになって、いろいろな人に 聴いてもらいたいって思ってる
 志歩: 私の演奏で誰かの心を揺さぶれたら……って
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: （……私はまだ、そこまでの歌を歌えてない）
 一歌: （もっとうまくなって、志歩と一緒に—— みんなと一緒に、いい演奏をしたい）
 一歌: （でも……）
 一歌: （これ以上うまくなるには、どうしたらいいんだろう……）
-(Black cut)
+(Black transition)

@@ -34,7 +34,7 @@ Kanade: H-How does that sound?
 Boy: Okay...
 Boy: Thank you very much.
 Kanade: You're welcome. Anyway, shall we?
-(Black cut)
+(Black transition)
 Boy: I'm really sorry... I didn't mean to cause you two so much trouble.
 Kanade: No, that's okay.
 Kanade: But you still haven't told us what's wrong. Did you get lost?
@@ -52,15 +52,11 @@ Boy: I really want to learn how to play beautiful music like them...
 Kanade: ...
 Kanade: (“Like them”...)
 Kanade: (I sort of understand how he feels.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (I also wanted to learn to play like Dad.)
 Kanade: (I wish I could do something to help this boy...)
@@ -84,4 +80,4 @@ Boy: Thank you very much. I'll give it a try!
 Kanade: ...!
 Kanade: Good! Then, shall we?
 Boy: Let's go!!
-(Black cut)
+(Black transition)

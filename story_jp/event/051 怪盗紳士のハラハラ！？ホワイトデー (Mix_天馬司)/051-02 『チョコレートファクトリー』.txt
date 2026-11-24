@@ -33,22 +33,18 @@
 志歩: 特別な……
 遥: うん。こういう風に自分でデザインできるチョコなら、 世界にひとつだけのものになるし—— みんなへの想いも伝わるかなって思って
 志歩: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………そうかもね
 志歩: ねえ、桐谷さん。 桐谷さんがよければ、一緒に行かない？
 遥: え？　いいの？ 日野森さんは、行くなら天馬さん達となのかなって 思ってたんだけど……
 志歩: 私もたまにはサプライズしようかなって思ってさ。 いつもされっぱなしなのも性にあわないしね
 遥: ふふ、そっか。じゃあ一緒に行こう。 楽しみだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　中庭]
@@ -83,7 +79,7 @@
 彰人: く……あいつと同じこと言ったかと思うと、 無性に腹が立つな……
 瑞希: だからさ、一緒に行かない？ おいしいチョコが作れるうえに、おいしいチョコも買えちゃう！ 一石二鳥でしょ♪
 彰人: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [週末]
@@ -106,14 +102,14 @@
 ？？？: 『わわっ』
 司: （今、スマホが光ったような……？ それに、レンに似た声も——）
 司: （……まあ、気のせいか。 今は説明に集中せねば！）
-(Black cut)
+(Black transition)
 (Background change)
 レン: （あぶなかったぁ……！ そういえば今日はエキストラのアルバイトだって言ってたっけ）
-(Black cut)
+(Black transition)
 (Background change)
 社員: それでは次に、担当するエリアごとに パフォーマンスの内容を説明させていただこうと——
-(Black cut)
+(Black transition)
 (Background change)
 レン: （あ、もしかして…… これからやるショーの説明を聞いてるのかな？）
 レン: （どんなショーをやるんだろう？ ボクも、もう少しだけ話を聞いてみようっと！）
-(Black cut)
+(Black transition)

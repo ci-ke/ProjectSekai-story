@@ -22,7 +22,7 @@ Honami: So, I'll try drawing one!
 Emu: ...! You can do it, Honami!
 Honami: (I remember seeing one when we went to a zoo for a field trip during elementary school. It was so scary...)
 Honami: (It was scary, but I couldn't stop looking at it...)
-(Black cut)
+(Black transition)
 Kindergartner: Whoa! What is this?!
 Kindergartner: Haha! It looks all funny.
 Kindergartner: Ms. Honami, you were so good until just a second ago! What happened?!
@@ -52,15 +52,15 @@ Honami: Are these a pair of wolves...?
 Ena: Yeah. I remember seeing them at a zoo a really long time ago. I also remember how scared my little brother was of them.
 Ena: But they looked adorable to me, so I decided to draw a scary-looking one and a cute one.
 Honami: Oh, I see...! That's why they seem so different from each other!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000113/bg_s000113.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000113/bg_s000113.webp)
 Girl: Wow! They look really funny together, but I really like it!
 Ena: Funny...? You could've chosen a slightly nicer word...
 Girl: No, I really do like it! Paint some more for us!
-(White cut)
+(White transition)
 (Background change)
 Ena: Okay, let's keep painting!
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Last but not least, let's paint in a sun and... All done!
 Kindergartner: Yay! It's like an amusement park for our animals!
@@ -77,7 +77,7 @@ Girl: Come back soon!
 Honami: Of course!
 Emu: Bye bye! Let's draw together again!
 Ena: See you!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -112,50 +112,42 @@ Emu: I want us to draw something on a big canvas, so I can hang it up in my livi
 Ena: This is turning into a big project all of a sudden...
 Ena: But it sounds like fun, so let's meet up again sometime.
 Emu & Honami: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
 
 Ena: Wow, I'm exhausted... But I had a lot of fun today...
 Ena: (And everybody was having a ton of fun painting towards the end...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: Today, when I was painting... I actually had fun while doing it.
 Honami: I'm still not very good and don't feel entirely comfortable drawing in front of others...
 Honami: But I feel like I can really enjoy it if I learn to draw like you, Ena...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Hehe...
 Ena: (I'm glad I could help Honami learn the joy of drawing...)
 Ena: Oh no...! I haven't touched that assignment that's due next week yet!
 Ena: I've gotta get going on it...! I have to fix everything that I was told last time.
 Ena: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Girl: No, I really do like it! Paint some more for us!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Maybe I should try drawing the wolves that I drew today. A little more seriously this time...
 Ena: (Huh...? My hand is moving without hesitation for some reason... I've had so much on my mind lately...)
 Ena: I'm gonna keep going for a bit longer...
-(Black cut)
+(Black transition)
 Ena: ...
 Ena: It's done...
 Ena: (My perspective's all messed up, and so are the details... I bet Mr. Yukihira's gonna have a field day with this one... But...)
 Ena: I like what I've made.
 Ena: (My skills still need improving and I'm not able to express things exactly the way I want, but...)
 Ena: (I'm gonna keep trying! I'm gonna keep drawing until I feel satisfied!)
-(White cut)
+(White transition)

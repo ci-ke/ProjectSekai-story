@@ -11,10 +11,10 @@ Ichika has her eye on the last copy of a CD by an artist who creates Miku songs,
 Teacher: Thank you for helping me carry all this, Asahina. I should be able to take it from here. I know you're very busy.
 Mafuyu: You're welcome. Please feel free to ask again if you ever need help with anything else.
 Mafuyu: Now, if you'll excuse me.
-(Black cut)
+(Black transition)
 Mafuyu: Phew...
 Mafuyu: (Next is class representative business... I'm running a little late. I'll need to hurry.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Classroom]
@@ -33,7 +33,7 @@ Ichika: I agree. These are special events, so they should have a special place i
 Mafuyu: Yes, I believe the same.
 Mafuyu: Anyway, shall we review proposals for the next event while going through these survey responses?
 Ichika: Yes, please!
-(Black cut)
+(Black transition)
 Mafuyu: Okay, we have some strong candidates now...
 Mafuyu: But we'll need to edit this more before passing it on to the rest of the student council or the teachers... That may take a while.
 Mafuyu: Hoshino, would you have time to...?
@@ -44,18 +44,14 @@ Mafuyu: A new CD?
 Ichika: Yes. They retired from producing VIRTUAL SINGER music for a little while, but decided to return recently.
 Ichika: They're not all that famous, but have a fairly strong following... And they even played some of their music at the Fan Festival this year.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: What?! You're going to the Fan Festival?!
 Kanade: Y-Yes... Would that be bad?
 Kanade: This artist who went into retirement for a while is going to be there, so I'd like to hear their music.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Oh, could it be...? Was this artist's music difficult to come by before they retired? 
 Ichika: *Gasp*...! Yes, that's right! Do you like them too, Asahina?
@@ -75,7 +71,7 @@ Mafuyu: See you. Stay safe.
 Mafuyu: Phew...
 Mafuyu: (A limited edition CD...)
 Mafuyu: (I wonder if Kanade's going to buy it too...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Music Shop]
@@ -85,10 +81,10 @@ Ichika: Th-There...! The last one...!
 Kanade: Let's see, the CDs are...
 Kanade: Oh, there's one left. Thank goodness...
 Ichika: I'll buy this and...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000026/bg_s000026.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000026/bg_s000026.webp)
 Ichika & Kanade: Huh?
-(White cut)
+(White transition)
 (Background change)
 Ichika: Oh, um...
 Kanade: I'm sorry. You're here for this, yes? Please, take it.
@@ -103,7 +99,7 @@ Ichika: W-Wait!
 Ichika: She's gone...
 Ichika: (She must be a fan too...)
 Ichika: I feel awful...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -140,4 +136,4 @@ Mizuki: <Yeah, I'll see who else is selling it.>
 Kanade: <Thank you...>
 (Background change)
 Mafuyu: <...>
-(Black cut)
+(Black transition)

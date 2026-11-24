@@ -26,7 +26,7 @@ Kanade: I was with her until she lay down, and I went back to my own room after 
 Rin (N25): We're here, Kanade.
 Miku (N25): Where's Mafuyu...?
 Kanade: Oh, so...
-(Black cut)
+(Black transition)
 Miku (N25): Oh, she isn't feeling well...?
 Kanade: *Nod* I'm hoping that she'll be able to get some sleep...
 Miku (N25): Mafuyu...
@@ -49,7 +49,7 @@ Kanade: Please let us know if anything happens.
 Ena: I guess we can breathe a sigh of relief for now...
 Kanade: I think so.
 Kanade: (I hope Mafuyu can get some rest...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -71,7 +71,7 @@ Honami: It's starting to get pretty full. To be fair, it's my fault for bringing
 Kanade: Now that you mention it, there is a lot in here now.
 Kanade: Then, if you don't mind...
 Honami: Understood. I'll do my best to make things easy to find.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -79,7 +79,7 @@ Honami: Understood. I'll do my best to make things easy to find.
 Kanade: (The lyrics Mafuyu wrote are very good. I should make sure the music is more reflective of...)
 Honami's Voice (Honami): Dinner's just about ready, Ms. Yoisaki.
 Kanade: Oh, okay. I'll be right there.
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Oh, Mafuyu... I didn't realize you were back.
 Mafuyu: Yes, I just got back...
@@ -110,21 +110,17 @@ Mafuyu: He likes to drink tea... But I don't think he knows much about who makes
 Honami: I see...
 Honami: Then, he may've done a bit of research before actually going over to this shop.
 Mafuyu: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Father: It's supposed to be quite soothing, so I hope you get a chance to drink it during breaks and such.
 Kanade: Thank you.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (He looked at Mafuyu so tenderly that time...)
 Kanade: (Ms. Mochizuki may be right. He probably put a lot of thought into that tea. For his daughter's sake.)
 Kanade: Mafuyu... We should try to savor every drop of that tea.
 Mafuyu: *Nod*
-(Black cut)
+(Black transition)

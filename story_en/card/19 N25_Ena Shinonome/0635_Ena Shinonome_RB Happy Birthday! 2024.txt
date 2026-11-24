@@ -21,10 +21,8 @@ Mizuki: Hey, are you hearing this, Airi? Sounds like someone does not approve of
 Airi: You're right... That's too bad. If she's not interested, we might as well call it quits...
 Ena: Hey, that's not what I said! It's not like I'm not interested...
 Ena: (Urgh. So this is why Mizuki was in such high spirits yesterday.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Hey everyone, tomorrow's Ena's birthday♪ That means tonight's the night we party it up!
 Miku (N25): A birthday celebration? Sounds fun... I'll let Luka and the others know.
@@ -37,10 +35,8 @@ Mizuki: So, make sure you're at the station tomorrow morning, Ena. Can't have th
 Ena: *Sigh* I know already.
 Kanade: Have fun, Ena.
 Ena: I will. Thanks!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Um, speaking of which, you mentioned something about getting together with others, but is it just us three?
 Ena: If so, you could've also invited Shizuku...or was she busy?
@@ -49,7 +45,7 @@ Ena: Huh? What are you smiling for?
 Airi: Hehe, you'll find out later. Anyway, it's time to visit our first photo spot!
 Mizuki: Yup! Alright Ena, let's go♪
 Ena: Hey, wait!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -83,7 +79,7 @@ An: You guys go have fun together!
 Ena: Thanks! Bye then!
 Mizuki: That said, we are gonna be splitting up now♪
 Ena: Huh? But why?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -94,31 +90,27 @@ Honami: I'm sure we'll have a great time, Ena!
 Ena: Yeah! Lead the way!
 Ena: (Although Airi mentioned something about there being more to the tour than just that street, I didn't expect PXL to be part of it.)
 Ena: (Still, judging by the looks they had on their faces, they've still got something else up their sleeves.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Okay then, we'll see you later♪
 Airi: So to recap, all you have to do is head to PXL. Your next guides will meet you there!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (They did say that they'd see me later. Does that mean they'll come meet up with us after this?)
 Emu: Ena! It's time to head to our first photo spot☆
 Ena: Oh, okay!
-(Black cut)
+(Black transition)
 Emu: First up is...the adorable cat ear spot♪
 Ena: Huh? Cat ear spot?
 Honami: Yes. If you line yourself up between that restaurant and shop so the rooftops are above your head, then...
 Ena: Wow, you're right. The rooftops look like cat ears! How adorable!
 Ichika: It might be tricky to get the angle and position just right, but let's all try.
-(Black cut)
+(Black transition)
 Emu: Ta-daa☆ Here's the next photo spot, which you can only enjoy this season—the hidden Phenny in the flowerbed♪
 Ena: Wow, the flowers are growing in the shape of Phenny! It's so pretty!
-(Black cut)
+(Black transition)
 Ichika: Next up is this Phenny roller coaster.
 Honami: If you jump when the roller coaster passes by, we should be able to get a fun picture of you in the air next to it.
 Emu: Oh! Here it comes now! Aaand jump!
@@ -128,14 +120,14 @@ Emu: Yay! Now let's all take one together! Poochie, could you please take our pi
 Ena: Oh, it's Poochie! Wait, where'd he come from?
 Honami: Oh, Ena! The next car is almost here!
 Ena: Whoa, hold on!
-(Black cut)
+(Black transition)
 Ena: Ahhh...now that was a lot of pictures.
 Ena: It hasn't been long since I was last here, but I had no idea there were this many good photo spots.
 Emu: Hehehe, I'm glad you had fun♪
 Ichika: Oh, it's almost time.
 Honami: Ena, we'll take you to the final spot of the tour now.
 Ena: The final spot?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -193,8 +185,8 @@ Ena: Since we've taken enough pictures of the cake, I think it's high time we di
 Minori & Emu: Woohoo!
 Ena: (I took lots of good photos today... And the last one might just be my favorite.)
 Ena: (Thank you, everyone!)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000188/bg_s000188.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000188/bg_s000188.webp)
 Ichika: Happy birthday, Ena. In all honesty, I'm not used to having my picture taken, but that didn't stop me from having as much fun as I did today.
 Honami: Hehe. We managed to take lots of photos ourselves using your handy tips. Now we've got some good memories to hold onto forever.
 Emu: That's right, Ena♪ Y'know, there were so many other wonderhoy photo spots I wanted to show you at the park! So I hope you'll come visit again☆
@@ -211,11 +203,11 @@ Airi: H-Hey, don't say stuff like that, it's embarrassing! Ahem. Once again, hap
 Kanade: Happy birthday, Ena. I heard about the photo tour from Hoshino and Hanasato. It sounds like you had a lot of fun. Thanks for all the wonderful illustrations. Looking forward to another year with you.
 Mafuyu: Happy birthday. Spending time with you makes me feel a bit more at ease... I think. Anyway, I'll see you later on Nightcord.
 Mizuki: Wasn't the photo tour just the best?! Seeing you have so much fun told me that was a job well done on my part. Happy birthday, Ena!
-(White cut)
+(White transition)
 (Background change)
 Ena: The photo tour sure was a lot of fun. I'm surprised that everyone managed to plan all this while juggling their busy schedules...
 Ena: Everyone did so much to celebrate for me, so starting tomorrow—no, today—I'll be raising the bar.
 Ena: Oh! Maybe I should capture the events of today in a sketch. The practice will do me some good.
 Ena: Okay, I've got this!
 Ena: Thank you so much for today, everyone. I'll see you again soon.
-(White cut)
+(White transition)

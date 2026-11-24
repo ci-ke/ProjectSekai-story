@@ -26,15 +26,11 @@
 奏: （わたし達のそばには、いつも音楽があって…… その時間が、幸せだったから）
 奏: （だから……音楽が、とても好きだったんだ）
 奏: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （わたしのせいで、お父さんは……）
 奏: （お父さんは——）
@@ -51,11 +47,11 @@
 リン (N25): 奏……
 リン (N25): ……わかった
 KAITO (N25): …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000261/bg_s000261.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000261/bg_s000261.webp)
 KAITO (N25): ……なるほど
 KAITO (N25): （あいつが作る曲の背景には、そんな想いがあったのか）
 KAITO (N25): （それが——まふゆの胸に届いているのかもしれないな）
 KAITO (N25): （だが——）
 KAITO (N25): あいつ、今……想いを殺そうとしたな
-(Black cut)
+(Black transition)

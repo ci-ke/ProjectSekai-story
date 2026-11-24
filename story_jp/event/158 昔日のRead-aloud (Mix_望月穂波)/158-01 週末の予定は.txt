@@ -42,7 +42,7 @@
 穂波: うん！
 穂波: （本当に、楽しみだな）
 穂波: （いい読み聞かせ会になるように、 わたしもお手伝いしなくちゃ）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -60,18 +60,14 @@
 穂波: （読み聞かせ……）
 穂波: （職業体験で幼稚園に行った時に、やったことはあるけど…… あの時とは規模も全然違うよね）
 穂波: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ……わたしも子供の頃、 読み聞かせ会に参加したことがあるんだ
 穂波: それをきっかけに大好きになった絵本があったんだけど—— 今回の会で読まれるのが、その絵本なんだって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: あ、あの……！
 穂波: わたしでよければ——やってみたいです！
-(Black cut)
+(Black transition)

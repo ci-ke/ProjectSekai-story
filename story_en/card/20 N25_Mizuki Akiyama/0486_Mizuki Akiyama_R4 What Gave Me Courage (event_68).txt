@@ -7,7 +7,7 @@ Gacha phrase: But... I...
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -32,44 +32,32 @@ Mizuki: Mom always makes sure to get Sis her favorite fashion magazines...
 Mizuki: So, if I'm gonna send her something, I wanna send her something that'll put a smile on her face.
 Mizuki: (What did she say when we talked on the phone yesterday?)
 Mizuki: (We chatted about that ribbon she sent me, I thanked her for sending me those snacks and...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Huh...? How have I been lately?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 Mizuki: (She's sort of the reason why I ultimately decided to join N25.)
 Mizuki: That reminds me. I mentioned that I was still in a group, but not much else.
 Mizuki: Nothing about meeting everyone in real life, going on day trips with them or that picnic...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki's Sister: It's perfectly okay for you to do what you want, Mizuki, because I'm absolutely sure that you'll find others who understand how you feel.
 Mizuki's Sister: I mean, you're just the cutest!
 Mizuki's Sister: So, you should go where you want to go... And be where you want to be.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Where I want to be, huh...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: I can start by choosing the best pics from our mystery tour...
 Mizuki: Let's see... Where did I save them...? Aha, there you are!
@@ -88,7 +76,7 @@ Mizuki: (Because I really am having fun. Because you encouraged me to do so, Sis
 Mizuki: I'm a little shy about doing this, but I wanna write her a letter...
 Mizuki: (I didn't get a chance to tell her on the phone yesterday...)
 Mizuki: (But I really need to thank her.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,7 +109,7 @@ Mizuki: <Whoa, hold up! There's something I wanna ask all of you!>
 (Background change)
 Kanade: <Ask us...?>
 Mizuki: <Yeah, the thing is...>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: <Wait, you're gonna send pictures of us to your sister?>
 (Background change)
@@ -163,7 +151,7 @@ Mizuki: (Language barrier, huh...?)
 Mizuki: (Actually, knowing Sis, she probably didn't have any trouble with that whatsoever...)
 Mizuki: (Especially since she'd rather not change her style or how she expresses herself to get acknowledged by others.)
 Mizuki: (Which is why she moved to a place where her peers accept her for who she is and how she thinks... A place where she feels she belongs...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -179,4 +167,4 @@ Mizuki: (I wonder what Sis is gonna think when she sees these pics.)
 Mizuki: (But she might immediately pick up on how I'm doing right now after seeing this ribbon sticker.)
 Mizuki: Now then...
 Mizuki's Voice (Mizuki): Mom! Can you include this in your package for Sis?!
-(Black cut)
+(Black transition)

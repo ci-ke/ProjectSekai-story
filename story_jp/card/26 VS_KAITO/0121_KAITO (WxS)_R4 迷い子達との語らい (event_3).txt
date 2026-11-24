@@ -16,10 +16,8 @@ KAITO: この辺りで、イヌとネコのぬいぐるみくんを 見かけな
 ミク (WxS): あ。それって最近ケンカしちゃってた、 あの子達のこと？
 KAITO: いや、今探してるのは別の子達だよ。 まあ、その子達もちょっともめてたみたいなんだけど……
 KAITO: 司くんや類くん達のこともあったし、放っておけなくてね。 話を聞いたんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO: ふぅ。今日の公演も無事に終わったね。 あとは明日の準備を……ん、あれは……？
 ネコのぬいぐるみ: ウウ……グスン
 イヌのぬいぐるみ: ダカラ、泣イテテも始マラナイダロー！
@@ -56,10 +54,8 @@ KAITO: この子は君のことが気になって、 君が何を考えてるの
 KAITO: でもそれって、 それだけ君のことを知りたがっているってことだろう？
 ネコのぬいぐるみ: ……ボクの、コト……
 KAITO: うん。だからあとは 君がちょっとだけ勇気を持てばいいんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ミク (WxS): そっか。そんなことがあったんだね
 KAITO: うん。あの時、なんとなく類くんの孤独に通じるものを あの子から感じたんだ
 KAITO: だから、あの子を受け入れてくれる仲間がいることに 気づいてほしいんだけど……
@@ -74,7 +70,7 @@ KAITO: どうやら、上手くいっているようだね
 ミク (WxS): うん♪　よかった～
 KAITO: ショーを全力でできる場所と、 受け止めてくれる仲間――か
 KAITO: 類くん達のほうも、上手くいってるといいな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,7 +85,7 @@ KAITO: 類くん達のほうも、上手くいってるといいな
 類: ちなみに司くん、世界一周をする気はないかい？ フフ……
 司: ……嫌な予感がするが、どんな演出か教えろ
 レン: あ、いいなぁ！　ボクにも教えてー！
-(Black cut)
+(Black transition)
 KAITO: （よかった。 類くんも司くんも、すっかりいつも通りだ）
 レン: カイト、ただいま！
 KAITO: おかえり、レン。類くん達と ずいぶんと盛り上がっていたみたいだね
@@ -111,9 +107,9 @@ KAITO: リンと一緒にショーがしたくてウズウズしてるのかも�
 ミク (WxS): うん♪　ミクもすっごく楽しみ！
 ミク (WxS): それに、カイトは仲直りした司くん達のショーも 早く見たいんじゃない？
 KAITO: ああ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000027/bg_a000027.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000027/bg_a000027.webp)
+(White transition)
 (Background change)
 KAITO: 落ち込んでいた類くんも、 すっかり元気になってくれたみたいで本当によかった
 ミク (WxS): きっと司くんがすごくすごーくがんばってくれたんだね♪
@@ -134,4 +130,4 @@ KAITO: はは、そうだね。 ありがとう、ミク！
 KAITO: よし！　それならこの調子で これからもいいショーをみんなで作っていこう！
 KAITO: 笑顔と笑顔が繋がるように、ね！
 ミク (WxS): うん、がんばろーう！　おー！
-(Black cut)
+(Black transition)

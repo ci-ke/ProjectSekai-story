@@ -22,7 +22,7 @@ Miku (N25): I see...
 Luka: (I'm guessing we would've gotten a real answer if whatever this issue is had already been resolved...)
 Luka: And what happened after you sent Ena that message...?
 Mizuki: Oh, after I sent it...
-(Black cut)
+(Black transition)
 Mizuki: See you again, Miku, Luka.
 Miku (N25): See you... Thank you for telling us that story, Mizuki, Ena...
 Ena: You're welcome. We'll see you later.
@@ -51,24 +51,20 @@ Luka: Hm?
 Miku (N25): Because you didn't ask Mizuki anything, even though you always seem to have a lot going through your head...
 Luka: Yes, well...
 Luka: (I may've asked something if I hadn't overheard what MEIKO told Ena that one time.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO: Feel better through talking...
 MEIKO: Would that actually work?
 Ena: Huh?
 MEIKO: Sometimes, talking can make things worse.
 Ena: Make things worse? What do you mean...?
-(White cut)
+(White transition)
 Ena: You must've already been aware of how Mizuki felt about talking, MEIKO, and how it probably wouldn't have helped.
 MEIKO: I haven't actually talked to Mizuki about this, so I don't actually know for certain...
 Ena: That's fine.
 Ena: Because of what you said, MEIKO, I've decided to be patient and wait until Mizuki's ready to talk.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Luka: (She'll wait until Mizuki's ready to talk...)
 Luka: (Ena's decision gives Mizuki less inclination to actually say anything.)
 Luka: (I can't say if that's a good or bad thing for Mizuki... However, for some reason, it seems like there's been progress...)
@@ -77,7 +73,7 @@ Luka: (That may be why it feels like things haven't stagnated.)
 Luka: Hehe...
 Luka: (People are so interesting... Mafuyu in particular, but also Mizuki, Kanade and Ena.)
 Luka: (I'm looking forward to seeing where their choices take them.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -87,7 +83,7 @@ Luka: (I'm looking forward to seeing where their choices take them.)
 [Empty SEKAI]
 
 Kanade: Okay, I'll play it now...
-(Black cut)
+(Black transition)
 Luka: I thought your next song was going to be good after hearing the rough draft of it the other day, but you found a way to make it even better.
 Kanade: Thank you.
 Kanade: I did get stuck a few times, but I'm hoping this is enough for all of you to get started on everything else...
@@ -139,4 +135,4 @@ Rin: Then... Good girl, Luka.
 Luka: Hehe. You two are so mean.
 Luka: However... Just watching what they do has been very interesting.
 Luka: This place is like a gift that keeps on giving.
-(Black cut)
+(Black transition)

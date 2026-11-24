@@ -10,28 +10,24 @@ Skill name: As One Of Your Seniors
 
 MEIKO: Hmm... This doesn't sound right. It's too simple. Maybe triplets is the way to go...
 MEIKO: Hm?
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: ...
 MEIKO: Oh, Ichika. Hello. Is something wrong? Is it just you?
 Ichika: Yes... I'm sorry to bother you in the middle of practice like this, MEIKO...
 MEIKO: Oh, don't mind me! Come in, come in!
 Ichika: Thank you.
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: Is something bothering you? You don't look so great...
 Ichika: ...
 Ichika: Today's, well... It's sort of a big day...
 MEIKO: A big day?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ichika: Do you know what it means...? What's needed to become a pro...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: Is this about Shiho...?
 Ichika: Yes...
 MEIKO: I see. Do you think your answer will satisfy her?
@@ -80,7 +76,7 @@ Saki: Okay. Good night, MEIKO. You too, Hona, Ichi...
 Ichika: Good night. And thank you, MEIKO.
 MEIKO: My pleasure! Sleep tight!
 MEIKO: They'll be fine. I'm sure of it...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -111,20 +107,16 @@ Miku (Ln): Huh? Why are you two looking at me like that?
 Luka: Oh, nothing.
 MEIKO: Compared to before, you seem completely different now.
 Miku (Ln): Before...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Miku (Ln): I'm not sure I can say since I'm not a professional myself...
 Miku (Ln): But maybe it has something to do with constantly trying to understand what your music is about...?
 Saki: Wait, there has to be more to it than that! What about having to push the other things you want to do to the side and stuff...?
 Miku (Ln): That I can't say...
 Ichika: Not even Miku can answer this one.
 Miku (Ln): Of course. I've never thought about going pro or how to do it.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: I have to think that you had more to say then, right?
 Miku (Ln): Wh-What could you possibly be talking about...?
 Luka: Oh? You seemed so anxious after that too...
@@ -148,4 +140,4 @@ MEIKO: They'll probably have to overcome quite a few obstacles in order to make 
 MEIKO: But I'm sure they'll be able to.
 MEIKO: That's why we need to keep supporting them as much as possible!
 Miku (Ln): Yeah! Of course!
-(Black cut)
+(Black transition)

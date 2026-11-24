@@ -43,14 +43,10 @@ MEIKO (Ln): 向こうのホームに、誰かいるみたいなんだけど、 �
 レン (Ln): あ……！　穂波！？
 穂波: （……なんで、昔のわたし達が あそこにいるのかは、わからない……！）
 穂波: （わからないけど——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 穂波: （一歌ちゃんに、 あんな顔させたままじゃ駄目！！）
 穂波: （早く、向こうのホームに——）
 穂波: ——一歌ちゃん！
@@ -58,8 +54,8 @@ MEIKO (Ln): 向こうのホームに、誰かいるみたいなんだけど、 �
 穂波: 一歌ちゃん！　どこにいるの！？
 穂波: ……そんな……
 穂波: そんなの……嫌……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000331/bg_s000331.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000331/bg_s000331.webp)
 穂波: ——一歌ちゃん！！
 穂波: わたしあの時、すごく嬉しかったんだよ！！
 穂波: クラスに居場所がなくて……！ 毎日、学校に来るのも、すごく苦しくて……！
@@ -68,7 +64,7 @@ MEIKO (Ln): 向こうのホームに、誰かいるみたいなんだけど、 �
 穂波: それなのに……っ わたしは、勇気がなくて……
 穂波: ……ごめんね……！
 穂波: ごめんなさい、一歌ちゃん……！！
-(White cut)
+(White transition)
 (Background change)
 レン (Ln): ——穂波……！
 穂波: ……レンくん、メイコさん……
@@ -99,6 +95,6 @@ MEIKO (Ln): 今のまままっすぐ進んでいけばきっと、 穂波はも�
 穂波: （苦しくなる時も、不安になる時も、 きっとまだたくさんあると思うけど——）
 穂波: （もっと強くなろう）
 穂波: （みんなと一緒に、前に進むために……！！）
-(Black cut)
+(Black transition)
 (Video: link_leoneed_ed2)
-(Black cut)
+(Black transition)

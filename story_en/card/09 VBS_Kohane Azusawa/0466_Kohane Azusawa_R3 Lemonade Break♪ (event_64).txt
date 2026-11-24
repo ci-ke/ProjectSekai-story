@@ -20,7 +20,7 @@ Kohane: You told us that story the other day from when you were little, right? I
 Kohane: Would that be okay?
 An: Yeah, totally. I'll try looking for some when I get home.
 Kohane: Really?! Thank you so much, An!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -58,18 +58,14 @@ An: Looking back, I guess I wanted my dad and Aunt Nagi to pay more attention to
 Kohane: I see...
 An: But I haven't felt lonely at all since that time I decided to run away.
 An: I got to know how Aunt Nagi and my dad really felt about me, and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Live House Manager: Good luck with practice today, An!
 Attractive Lady: I love the way you sing, An♪
 Frizzly-haired Record Store Clerk: I have a song that I'd like to recommend. Would you like to hear it...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I know that I have everyone from around town on my side....
 An: So as long as I'm here, I'll never be alone!
@@ -84,7 +80,7 @@ Kohane: Because it's where I met you and got into street music. This place means
 An: K-Koohaanee...!!
 Kohane: Wah! A-An! You always throw yourself at me like that...
 An: Hehe. That's because what you said made me so happy.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -109,7 +105,7 @@ Toya: Yes, I'm also curious as to why you and Taiga went for a walk during pract
 An: Alright, let's try going on the walk you and Uncle Taiga went on!
 An: Kohane, do you remember what route you guys took?
 Kohane: Yeah, I still remember! We started at a ramen shop at the end of Vivid Street!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -128,7 +124,7 @@ Boss: Here, take this flyer. Bring it next time to get half off your next meal!
 Kohane: H-Half off?!
 An: Whoa, awesome! Alright, we'll try to stop by the next chance we get.
 Boss: Great! I'll be waiting!
-(Black cut)
+(Black transition)
 Kohane: Okay, next... We stopped by here.
 Toya: The greengrocer?
 Akito: Yeah, I was sorta expecting to see a live house or two by now...
@@ -146,7 +142,7 @@ Toya: Chilled pineapples?
 An: You haven't heard of them? They're ice-cold pineapples that are cut into sticks!
 Greengrocer Lady: We're very proud of our pineapples, so please stop by to try them. Grandma and I will be waiting right here.
 Kohane: We will! Thank you for having us!
-(Black cut)
+(Black transition)
 Akito: Alright, Kohane, that seems to be about everything you and Taiga saw...
 Kohane: Yeah... But we didn't really learn much...
 Toya: No, we learned about that fried rice with ankake sauce, how we can buy cheap produce and chilled pineapples.
@@ -165,4 +161,4 @@ Akito: Still, we need to think more about what it means to “take a look at thi
 Akito: Considering how much it's puzzling Tono, finding an answer won't be easy.
 Kohane: Yeah, so let's work together and do our best to find the answer.
 An: Yeah!
-(Black cut)
+(Black transition)

@@ -2,10 +2,8 @@
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数カ月前]
@@ -48,10 +46,8 @@
 類: （みんなのためにも——絶対に）
 類: …………ありがとう
 類: ——行ってくるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [スクランブル交差点]
@@ -81,21 +77,17 @@
 類: （それでも……）
 類: （僕は進み続けなくてはいけないんだ）
 類: （アメリカでもっと腕を磨いて、夢を——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 大好きな人達が一緒じゃないと、 寂しいよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （…………今、誰か……）
 類: （向こうに行ってしまえば みんなと会える頻度は、さらに減ってしまうかもしれない）
 類: （最近は、ただでさえお互いに忙しくて 連絡をとれていなかったし……）
 類: （いい機会だ。久しぶりに、みんなに連絡してみようかな）
-(Black cut)
+(Black transition)
 (Video: link2_wonder_ed1)
-(Black cut)
+(Black transition)

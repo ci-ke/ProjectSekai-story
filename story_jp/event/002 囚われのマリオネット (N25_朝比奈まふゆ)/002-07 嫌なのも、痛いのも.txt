@@ -16,16 +16,12 @@
 (Background change)
 奏: （雪本人もわからないなら、 どうしたらいいんだろう）
 奏: （でも、そういえばミクは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (N25): その子――まふゆと、似てたのかも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……あ、そうか）
 奏: （ミクの言う通り、雪が、あのマリオネットと自分を 似てるって思ってるんだったら……！）
@@ -43,24 +39,21 @@
 まふゆ: 『…………』
 まふゆ: 『どんなものができるか、わからないけど』
 奏: 『……うん！』
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: あの人形のこと……
 まふゆ: 私が、あれを気持ち悪いって感じたのは――
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000025/bg_a000025.webp)
-
-(Memory cut-in)
-
-(Memory cut-out)
-
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000025/bg_a000025.webp)
+(Flashback in)
+(Flashback out)
+(White transition)
 (Background change)
 まふゆ: ……わからない
 まふゆ: なんでわからないの。 どうしてこんな気持ちになるの
 まふゆ: これじゃまた、前と同じみたいに――
 まふゆ: ……でも、もしかしたら
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -82,8 +75,8 @@
 まふゆ: ……あれ？ こんなところに、人形？
 まふゆ: これもマリオネットなんだ。 でも、糸がついてない……？
 まふゆ: ミク、これは――
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000024/bg_a000024.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000024/bg_a000024.webp)
 ミク (N25): この子は、ずっとまふゆのセカイにいたよ
 ミク (N25): まふゆが気づいてなかっただけ
 まふゆ: ……？
@@ -95,12 +88,12 @@
 ミク (N25): 糸って、とっても不思議だね
 ミク (N25): 何かを結びつけたり、刺繍したり。 ――人形を操っちゃうこともできる
 ミク (N25): でも……こうやっていろんな形にもなれる
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ……マリオネットから糸を外しちゃったら、 もうマリオネットじゃないじゃない
 まふゆ: ……でも
 まふゆ: この子はもう、自由なんだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　深夜２時]
@@ -118,7 +111,7 @@
 奏: 『……ごめん、言い忘れてた。 雪には、人形を見て感じたことを書いてもらってる』
 (Background change)
 絵名・瑞希: 『人形？』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『ああ、そういうことだったんだ』
 瑞希: 『マリオネットを見て“気持ち悪い”って思った、 その時の感覚を歌詞にしてもらおう……ってことだよね？』
@@ -128,20 +121,16 @@
 絵名: 『それはわかったけど……』
 絵名: 『ミクが言ってたっていう、 まふゆがマリオネットと自分を似てるって思ってるって話が よくわかんないんだけど。一体どういうことなの？』
 瑞希: 『んー。ボクは、似てるって思った気持ち、 ちょっとわかるな』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: 教えてもらえないとできない子より、 競える子と一緒にいたほうがいいでしょう？ そういう子と一緒にいると、自分も勉強になるもの
 まふゆの母: 自分の時間を大切にしなさいね
 まふゆ: ……うん。そうだね
 (Background change)
 瑞希: 『…………』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『……雪は、雪のお母さんの言うことすごくよく 聞いてるみたいだったから』
 瑞希: 『ほら、マリオネットって操り人形じゃん』
@@ -155,4 +144,4 @@
 まふゆ: 『……遅くなった』
 まふゆ: 『歌詞、書けたから見て。Ｋ』
 (Background change)
-(Black cut)
+(Black transition)

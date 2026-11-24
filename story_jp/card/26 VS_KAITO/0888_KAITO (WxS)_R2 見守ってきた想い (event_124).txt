@@ -41,7 +41,7 @@ MEIKO (WxS): どういうこと？
 リン (WxS): うう〜ん、うまく伝えられないよ〜！
 リン (WxS): とと、とにかく！ みんな、こっち来て〜〜！
 KAITO (WxS): わっ、リン……！ そんなに引っ張ったら危ないよ……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -75,7 +75,7 @@ KAITO (WxS): （……それにしても）
 KAITO (WxS): （海と……港町。 それに、大きな船、か……）
 KAITO (WxS): （ここが、司くんの想いが変化したことで生まれた場所なら……）
 KAITO (WxS): （それは一体、どんな想いなんだろうね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -115,15 +115,11 @@ KAITO (WxS): みんな、本当にすごいよね
 KAITO (WxS): 出会った頃から、ずっと成長し続けてる……
 MEIKO (WxS): ふふ。カイトとミクは、 特にみんなと一緒にいる時間が長いものね
 KAITO (WxS): うん。初めてこのセカイに来た頃は、みんなバラバラで、 時にはぶつかることもあったけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (WxS): 本当に、４人でいろんなことを乗り越えてきたよね
 ミク (WxS): そうだね☆ ４人でショーをやって、ワンダーステージを守ったり！
@@ -135,15 +131,11 @@ MEIKO (WxS): みんな、ずっと前に進んでいるわ！
 KAITO (WxS): そうだね。そして今では——
 KAITO (WxS): ４人で一緒に、それぞれの夢を追いかけてる
 KAITO (WxS): そうやって、みんなと一緒に道を見つけ出せたからこそ——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (WxS): セカイにも、新しい場所が生まれたんだろうね
 ルカ (WxS): ふふ、とってもすてきな場所だったわね〜。 港にぬいぐるみさん達がたくさんいて、大きな船もあって……
@@ -153,4 +145,4 @@ KAITO (WxS): きっとこの先、司くん達はもっと進んでいく……
 KAITO (WxS): みんながあの海の先へ進めるように—— 夢を叶えられるように……
 KAITO (WxS): 僕達はこれからも、みんなの力になっていきたいね！
 みんな: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)

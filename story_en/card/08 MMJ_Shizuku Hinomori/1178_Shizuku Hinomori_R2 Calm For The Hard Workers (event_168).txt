@@ -22,7 +22,7 @@ Shizuku: (Is Airi okay...?)
 Shizuku: (Minori and Haruka have also seemed rather tired in recent days.)
 Shizuku: (I wish there were a way for me to help relieve them of their fatigue. Even just a little bit, so they can keep doing their best during practice...)
 Shizuku: Wait, that's it...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -53,7 +53,7 @@ Minori: Oh, I was wondering what smelled so nice. It was your tea!
 Shizuku: Yes, and it should be ready in just another minute.
 Minori: Wow, Shizuku, thank you so much!
 Haruka: Then, in the meantime, why don't we start setting up for our meeting?
-(Black cut)
+(Black transition)
 Shizuku: Thank you all for waiting. It's very hot, so please be careful.
 Minori: *Sigh* What a soothing aroma...!
 Shizuku: It's lavender tea, and its aroma is in fact supposed to be quite relaxing.
@@ -67,7 +67,7 @@ Minori: My mind and body are in such a great place right now!
 Airi: Same. Being able to relax like this should help us come up with good ideas during our meeting.
 Airi: Thanks for doing all this for us, Shizuku.
 Shizuku: You're welcome. I'm glad that I could help you all somehow.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -116,15 +116,11 @@ Shizuku: (She really is a wonderful idol.)
 Shizuku: (No matter how busy she is, she's always doing her best with a smile to bring her fans energy. And she's so kind to the staff...)
 Shizuku: (She brings cheer to everybody around her.)
 Shizuku: (Huh...? Wait, that also applies to...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: Oh... Hehe.
 Airi: Shizuku?
@@ -141,4 +137,4 @@ Airi: Shizuku...
 Airi: In that case, let's keep copying each other.
 Airi: You've also given me a ton of gifts. So, let's keep doing our best by making the most of the things we've given each other.
 Shizuku: Yes, let's!
-(Black cut)
+(Black transition)

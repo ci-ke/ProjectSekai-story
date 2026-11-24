@@ -2,11 +2,9 @@
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 人魚姫: 『——とても素敵な景色だわ。 ここには、美しいサンゴも、かわいい魚達もいる』
 人魚姫: 『でも……私はやっぱり、あの人に会いたい。 嵐の夜に出会った、あの人に——』
 人魚姫: 『あの人に会いに、陸に行く？ でも……怖いわ』
@@ -23,10 +21,9 @@
 幼い寧々 (寧々): …………！
 幼い寧々 (寧々): （すごい、きれいな歌……。 それに……）
 幼い寧々 (寧々): （むねがジーンってする……！）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
+(Flashback out)
 
 [フェニックスワンダーランド]
 
@@ -75,18 +72,18 @@
 司: では決まりだな！ 初の宣伝大使の演目は、人魚姫をオマージュしたものにしよう！
 寧々: （……みんなで、人魚姫を……）
 寧々: （ふふっ、今から楽しみだな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
 
 KAITO: 人魚姫をオマージュするなら、 こういう展開もありかもしれないね。 例えば……
-(Black cut)
+(Black transition)
 類: ……ああ、たしかにそれは意表を突いた展開だね！ 選択肢に加えさせてもらうよ、カイトさん
-(Black cut)
+(Black transition)
 ミク (WxS): あっ、ミクが人魚姫だったら、 陸に上がってピチピチしたいなー！　お魚さんだし！
 寧々: お魚さんじゃなくて人魚だってば
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ワンダーステージ)
 司: 台本ができたぞー！ お前達との話しあいを元に、類と試行錯誤した自信作だ！
@@ -96,8 +93,8 @@ KAITO: 人魚姫をオマージュするなら、 こういう展開もありか
 類: フフ、それはよかった
 司: それじゃあ気合いを入れて 練習していくぞー！
 寧々・えむ・類: 『おー！』
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 (Background change)
 (Place: ワンダーランドのセカイ)
 えむ: 『こうして人魚達は、 みんなと仲良く暮らしたのでした！』
@@ -114,8 +111,8 @@ KAITO: お客さん達もきっと喜んでくれると思うよ。 本番も頑
 寧々: ふふ、ありがとう。 みんなで考えてよかったな
 リン: あ、あのね、ルカ！ リン達も人魚のショーやろうよ☆ きっと楽しいと思うんだ～
 ルカ: そうねえ。人魚は水の中をフワフワ～ってできるから、 とっても気持ちよさそうねえ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000098/bg_a000098.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000098/bg_a000098.webp)
 ルカ: 水の中でゆらゆらしているのを想像するだけで ………………ぐー
 MEIKO: あ、ちょっとルカー！ おーきーなーさーい！！
 ルカ: あら？ おはよう、めーちゃん♪
@@ -124,7 +121,7 @@ MEIKO: あ、ちょっとルカー！ おーきーなーさーい！！
 ルカ: 白い浜辺……打ち寄せる波……。 それにキラキラした日差し……
 ルカ: うふふ、とってものんびりできそうで素敵だわ～
 KAITO: あはは、そうだね。 のんびりするにはもってこいの場所じゃないかな
-(White cut)
+(White transition)
 (Background change)
 ルカ: ……ねえ、もし時間があったら、 わたしにも海を見せてもらえないかしら？
 寧々: うん。もちろんいいよ
@@ -135,7 +132,7 @@ MEIKO: そういえば……みんなは明日の準備、もうできてるの�
 司: おっと、そうだな。 そろそろ帰って支度をせねば
 えむ: うん！　それじゃあ、また明日ね～！
 寧々: うん、頑張ろうね
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -153,4 +150,4 @@ MEIKO: そういえば……みんなは明日の準備、もうできてるの�
 類: ああ、あちらに見えるのがステージだね。 うん。もらった平面図どおりだ
 類: それじゃあ早速大道具を設置していこうか。 朝のリハーサルが済んだら、すぐ本番だからね。 テンポよくやっていこう
 司: おうっ！
-(Black cut)
+(Black transition)

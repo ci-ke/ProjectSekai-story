@@ -4,22 +4,18 @@
 
 奏: （……わたしは、ちゃんとわかってなかった）
 奏: （まふゆを救う曲に、必要なのは何か）
-(Black cut)
+(Black transition)
 奏: （……ここはコードを変えないで、ベース音を半音ずつ下げよう）
 奏: （……キックはもっと沈み込むようにして……）
 奏: （もっと、胸の奥で響くように……）
 奏: …………っ
 奏: （心臓が、痛いぐらい鳴ってる……）
 奏: …………こんなに、怖いんだな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （まふゆも、きっと……この苦しさを、感じてたんだ）
 奏: （どうしようもなく、怖くて……動けなくなりそうで……）
@@ -27,30 +23,26 @@
 奏: （…………大丈夫）
 奏: （わたしが、ちゃんと——救うから）
 奏: （まふゆは、きっと————）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
+(Flashback out)
 (Background change)
 奏: （…………呪いがひとつ増えるくらい なんともないって、思ってたのにな）
 奏: （……でも……約束したから）
 奏: （これで————最後）
 奏: （今度こそ、まふゆを————）
-(Black cut)
+(Black transition)
 (Background change)
 奏: ——できた……
 奏: この曲なら、きっと——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000653/bg_s000653.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000653/bg_s000653.webp)
 奏: …………
 奏: …………よかった
 奏: やっと————約束を果たせる
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -65,13 +57,13 @@
 瑞希: それって……
 奏: ふたりにも、聴いてほしい
 絵名: うん……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000654/bg_s000654.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000654/bg_s000654.webp)
 絵名: この曲……
 絵名: （苦しくて、怖くて……でも……それでも——）
 絵名: …………っ
 絵名: （それでも、作ったんだ……。まふゆのために）
-(White cut)
+(White transition)
 (Background change)
 瑞希: ……奏
 奏: え……？
@@ -84,7 +76,7 @@
 瑞希: ……うん
 絵名: まふゆに、この曲を届けるのなら——
 絵名: 私達にも、協力させてほしい
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -92,4 +84,4 @@
 まふゆの父: …………
 まふゆの父: （——いつから、こんな風になってしまったんだろう）
 まふゆの父: （まふゆが小さい頃か？　それとも——）
-(Black cut)
+(Black transition)

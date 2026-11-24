@@ -5,17 +5,13 @@
 [翌日　早朝]
 
 彰人: はっ……はっ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO (VBS): 彰人くんが『RAD WEEKENDを超える』っていう大きな夢を 見つけられたのは、偶然あのイベントに出会ったからだよね
 KAITO (VBS): だったら、また彰人くんの心を燃やすものにも、 偶然出会えるんじゃないかって思うんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （世界……）
 彰人: （正直、オレ達が目指す世界がどんなものなのか まだうまく想像はできねえ）
@@ -27,7 +23,7 @@ KAITO (VBS): だったら、また彰人くんの心を燃やすものにも、 
 彰人: （……オレ達がいつも歌ってる公園のほうか）
 彰人: （だが……冬弥達の声じゃねえな）
 彰人: （それに、この歌声——）
-(Black cut)
+(Black transition)
 (Background change)
 彰人: あ……
 彰人: （あれは……誰だ？ 見かけねえ顔だが——）
@@ -72,18 +68,14 @@ KAITO (VBS): だったら、また彰人くんの心を燃やすものにも、 
 スレイド: どこもオーディエンスがたくさん盛り上がってくれて 楽しかったよ！　な、セディ！
 セドリック: そうだな
 彰人: ……！　それって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミュージシャン達: 実はこの前、 うちのイベントに謎の双子の兄弟が来てよ
-(White cut)
+(White transition)
 杏: 私達が修行で行ったことあるハコばっかりじゃない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……あれは、お前らのことだったのか……
 スレイド: え、あれって？
@@ -107,15 +99,11 @@ KAITO (VBS): だったら、また彰人くんの心を燃やすものにも、 
 スレイド: RAD BLASTですごい熱い歌を聴いて—— いつかキミ達と勝負してみたいって思ってたから！
 スレイド: 今日会えるなんて、もう運命だしさ！ 最後の土産として……頼むよ！
 彰人: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 スレイド: ♪————————！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: ……わかった。その勝負、受ける
 スレイド: 本当！？　ありがとう！
 セドリック: 本当にいいのか？ 断ってくれていいんだぞ
@@ -124,4 +112,4 @@ KAITO (VBS): だったら、また彰人くんの心を燃やすものにも、 
 スレイド: よーっし。それじゃ、さっそく準備しようよ！ アキトはウォーミングアップもあるだろうし！
 スレイド: あ……言っておくけど、手加減なしの真剣勝負だからね！
 彰人: ——ああ
-(Black cut)
+(Black transition)

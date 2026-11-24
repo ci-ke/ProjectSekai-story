@@ -46,7 +46,7 @@
 絵名: 『おやすみー。 お風呂入って寝ようっと……』
 (Background change)
 瑞希: 『それじゃ、みんなおやすみ～！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌朝]
@@ -66,29 +66,21 @@
 瑞希: （……本当に、奏はすごいな）
 瑞希: （最初はまふゆに、『こんな曲じゃ足りない』って 言われてたのに、今はまふゆに——みんなに響く曲を 作れるようになってる）
 瑞希: （ううん。奏だけじゃない。 まふゆも、絵名も、すごい）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （苦しくても、ちゃんと自分と向きあって、 少しずつ前に進んでってる）
 瑞希: （でも、ボクは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （ボクは、何も変わってないな）
 瑞希: （どこにも……進めないままだ）
@@ -113,4 +105,4 @@
 瑞希: ……ホントに、絵名はいい子だな。 ボクのこといろいろ気にかけてくれて
 瑞希: （……今はまだ、どこにも進めないままだけど）
 瑞希: （いつかはもっと、みんなに近づいていけたらいいな——）
-(Black cut)
+(Black transition)

@@ -7,10 +7,8 @@ sp70 6周年記念スペシャルログインストーリー (story_6th_annivers
 ミク: ——いらっしゃい！ ちょうどキミに話したいことがあったの
 (Selection: 『話したいこと？』/『どうしたの？』)
 ミク: 実は、さっきあの子達と話をしていたんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク: ……え？　それぞれのセカイでライブ？
 みのり: うん！　しかも、ソロだよ！
@@ -27,10 +25,8 @@ sp70 6周年記念スペシャルログインストーリー (story_6th_annivers
 ミク: ふふ、そっか！
 司: ではお前達！ 健闘を祈るぞ！
 こはね: はい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Selection: 『今の話、本当？』/『ソロライブ！？』)
 ミク: そうだよ。びっくりだよね
@@ -38,4 +34,4 @@ sp70 6周年記念スペシャルログインストーリー (story_6th_annivers
 ミク: これまでの歩みと、セカイでの出会いによる成長——
 ミク: それを、一緒に見届けてほしいな
 ミク: そしてこれからも、 わたしと一緒に、あの子達を見守っていてね
-(White cut)
+(White transition)

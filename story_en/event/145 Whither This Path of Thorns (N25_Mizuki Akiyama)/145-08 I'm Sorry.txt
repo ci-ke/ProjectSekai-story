@@ -9,15 +9,11 @@ Ena: ... I can't catch up...!
 Ena: (If I take the passageway, maybe I can cut ahead...!)
 Ena: (But... But...)
 Ena: (Even if I do... What do I say...?!)
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000362/bg_s000362.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000362/bg_s000362.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Mizuki!
 Mizuki: ...
@@ -61,7 +57,7 @@ Ena: Mizuki!
 Ena: ...!
 Ena: I...
 Ena: Why couldn't I...?!
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: (You reap what you sow.)
 Mizuki: (I ran away, and I kept on running...)
@@ -69,4 +65,4 @@ Mizuki: (And all the while, I hoped someone would eventually say it for me.)
 Mizuki: (Be careful what you wish for, huh.)
 Mizuki: (Ugh.)
 Mizuki: (I want to disappear.)
-(Black cut)
+(Black transition)

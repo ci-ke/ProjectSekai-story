@@ -12,17 +12,13 @@ Gacha phrase: ……別に、なんでもないから
 [宮益坂女子学園　中庭]
 
 志歩: はぁ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 イオリ: 遊びのバンドと、プロは違う。 中途半端な気持ちで音楽をやってる子は、 プロでは通用しないよ
 イオリ: だから、本気で音楽をやる覚悟を決めた子達とじゃないと、 この先の道は進めない——って、私は思ってる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （あの人達は、プロになって…… 音楽の世界で生きていくために、真剣に考えてる）
 志歩: （プロ、か……）
@@ -33,15 +29,11 @@ Gacha phrase: ……別に、なんでもないから
 志歩: …………
 志歩: （プロへの憧れがないわけじゃない。 自分がどこまでいけるのか、試したいっていう気持ちもある）
 志歩: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （でも、私の『うまくなりたい』っていう気持ちは、 咲希達が持ってるものとは、違う……）
 志歩: どうしたら……
@@ -87,7 +79,7 @@ Gacha phrase: ……別に、なんでもないから
 雫: ふふっ。今日はたっくさんお話できて、 とっても嬉しい
 志歩: はぁ……
 志歩: （これじゃどっちが姉なんだか……。 でも……今日くらいは、いいかな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -104,7 +96,7 @@ Gacha phrase: ……別に、なんでもないから
 一歌: そのおかげで、自分がイメージしたとおりの歌いかたに 結構近づいてきた気もするし
 咲希: おおー！　それで今日のいっちゃんは いきいきキラキラしてたんだね！　ねっ、しほちゃん！
 志歩: そうだね……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -129,15 +121,11 @@ Gacha phrase: ……別に、なんでもないから
 志歩: そうなんだ
 志歩: （でも、やっぱり楽しそう……）
 志歩: （たとえ大変なことでも、 やるって決めて進んでるから、かな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （一歌も、それにふたりも、キラキラしてる……）
 志歩: （私は、何をしてるんだろう……。 なんでこんな風に迷って、立ち止まって……）
@@ -152,33 +140,25 @@ Gacha phrase: ……別に、なんでもないから
 咲希: ありがとう、しほちゃ～ん！ 神様だよー！
 志歩: はいはい、抱き着かなくていいから。 ほら、もうチャイム鳴ってるよ
 咲希: うん！　授業終わったらすぐ返しにくるね！
-(Black cut)
+(Black transition)
 教師: では次の問題を……花里さん。できますか？
 みのり: は、はい！　えっと……
 志歩: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （私だって、プロになりたい。 でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （……授業、全然集中できないな）
-(Black cut)
+(Black transition)
 咲希: しほちゃーん！　教科書、ありがとう！
 志歩: どういたしまして。 次からは気をつけなよ
 咲希: はーい！　アタシ、次体育だから行くね！ また放課後ね、しほちゃ～ん！
@@ -190,4 +170,4 @@ Gacha phrase: ……別に、なんでもないから
 志歩: そっか、この落書きフェニランの……。 ステージに立ってるのは司さんかな
 志歩: ……もう。 勉強しないで、何してんだか
 志歩: （でも……。 せっかくだし、これは取っておこうかな）
-(Black cut)
+(Black transition)

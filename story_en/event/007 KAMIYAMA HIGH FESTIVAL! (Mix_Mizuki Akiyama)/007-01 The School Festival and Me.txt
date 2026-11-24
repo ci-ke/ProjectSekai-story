@@ -21,19 +21,15 @@ An: <Haha! Classic Mizuki...>
 An: <Our class just finished setting up, so I'm just wandering around. You wanna come? There are food stalls and all sorts of other stuff to do.>
 Mizuki: Hmm, I guess I could...
 Mizuki: (Oh, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Student A: Is that the person you were talking about?
-(White cut)
+(White transition)
 (Background change)
 Student B: I was just a little curious about why you dress the way you do.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (I don't really want that kind of attention...)
 Mizuki: (I feel bad about disappointing An, but I think I'll pass...)
@@ -47,18 +43,14 @@ An: <Great! I'm working my stall until noon, so you can find me in our classroom
 Mizuki: Got it. See you soon, and thanks for the invite.
 Mizuki: The School Festival, huh...?
 Mizuki: I haven't been to one since...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Yikes, I can't be spacing out now or I'll be late. I better get ready to go...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - School Festival Day]
@@ -72,7 +64,7 @@ Mizuki: Nah, I'm good...
 Mizuki: There are too many people around to find a private place to get changed anyways...
 An: Oh, okay... Well, it's your choice!
 An: I just finished up so let's check out the festival!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - Courtyard]
@@ -81,7 +73,7 @@ Mizuki: Wow, this place is packed! And there are lots of stalls like you said!
 An: Yup! Our School Festival attracts a lot of the local residents too, see?
 Mizuki: Look, they're selling cotton candy over there. It looks so cute! Let's get some!
 An: Okay! Sounds good!
-(Black cut)
+(Black transition)
 Mizuki: Phew! That was a lot of stalls. I feel like I'm gonna pop.
 An: Same here. Wanna go back to the classroom?
 Kohane: Hey, An...!
@@ -102,7 +94,7 @@ Mizuki: Oh, drat! The teacher noticed me. Ever since I missed that test, she's b
 Mizuki: You two go on ahead. I need to find some place to hide. I'll see you later, An!
 An: Wait, what? Mizuki?!
 Kohane: Shoot, they're gone...
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Looks like they're not following me. I might as well look around on my own then.
 Mizuki: (Every class seems to be showcasing something different. There are theater performances, movie-inspired shows... What should I see first?)
@@ -113,4 +105,4 @@ Mizuki: Not like that's different from any other day...
 Mizuki: What the...?! Was someone laughing?
 Mizuki: It sounded like it was coming from the empty classroom upstairs.
 Mizuki: I guess I don't have anything better to do. Let's go see what's going on...
-(Black cut)
+(Black transition)

@@ -13,7 +13,7 @@
 一歌: （でも——）
 一歌: 『心だけは一緒に』……
 一歌: ……ううん、『心は一緒に』にしよう。 その方が、ミクにも笑顔で歌ってもらえるし
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ……いい感じになってきた気がする
 一歌: あ、そうだ。 一度ミクに歌ってもらおう
@@ -24,7 +24,7 @@
 一歌: （みんなが行きたい場所に、迷わず行けるように——）
 一歌: （どれだけ遠く離れても、お互いをそばに感じられるように）
 一歌: （ミクに、届けてもらうんだ）
-(Black cut)
+(Black transition)
 
 [２週間後]
 
@@ -44,7 +44,7 @@
 一歌: なんか、急に緊張してきちゃった……
 一歌: …………
 一歌: ちょっとだけ、出かけようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -60,7 +60,7 @@
 咲希: （いっちゃん達も、どこかで空見てるかな）
 咲希: ……ん、いっちゃんからメッセージ？
 咲希: これって——！
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -74,7 +74,7 @@
 穂波: （それに——）
 穂波: ……あれ、メッセージ？
 穂波: 完成したんだね……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -106,38 +106,26 @@
 (Background change)
 志歩: （なんでだろう。この歌を聴いてると——）
 志歩: （胸の奥が、少しざわざわするっていうか）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ……咲希と穂波も来れないし、 お昼、また今度にしよっか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ……ごめん、ふたりとも！ さっきのは忘れて
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ——やっぱり、 穂波にも、自分を優先してほしいんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （なんで……）
 穂波: （なんでこんなに、寂しそうな一歌ちゃんが思い浮かぶんだろ）
@@ -158,7 +146,7 @@
 志歩: 公園……
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [公園]
@@ -260,15 +248,11 @@
 志歩: じゃあ……星の名前とかは？ ちょうど、しし座流星群も見てるし
 咲希: それいい！　しほちゃんってば、ロマンチスト～♪
 志歩: はいはい。すぐそうやって茶化すんだから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （今のって……）
 咲希: しし座流星群かぁ……英語でなんていうのかな？
@@ -276,15 +260,11 @@
 穂波: 英語なら『Leonids』みたいだよ。 フランス語なら……『Les Léonides』だって
 一歌: レオニードか……。 なんだか綺麗な響きだね
 咲希: ニードって入ってるのもいいよね！ みんなが『必要』って感じがして♪
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……あれ？
 咲希: アタシ達……この話、どこかでしなかったっけ？
@@ -298,27 +278,27 @@
 一歌: 『Leo/need』……
 一歌: ……そうだ
 一歌: 私達——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000067/bg_a000067.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000067/bg_a000067.webp)
 志歩: ……なんで忘れてたんだろ
 志歩: こんな、大切なこと……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000003/bg_s000003.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000003/bg_s000003.webp)
 咲希: アタシ達、ずっと一緒にバンドやってたんだよね！
 咲希: ライブもたくさんやって、オリジナルの曲も作って！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000156/bg_s000156.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000181/bg_s000181.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000156/bg_s000156.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000181/bg_s000181.webp)
 穂波: うん。たくさんの人達にわたし達の音楽を届けようって ４人でプロにもなって……！
 穂波: 大きなステージにも、立たせてもらって……！
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 一歌: 私達……
 一歌: これからも一緒に——
-(White cut)
+(White transition)
 (Background change)
 一歌: この４人で、バンドができるんだね
-(White cut)
+(White transition)

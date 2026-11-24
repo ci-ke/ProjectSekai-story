@@ -3,7 +3,7 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, KAITO)
 
 : もう一度共にショーをやるため、３人に謝罪をしていく司。 その中で、それぞれが抱えている事情を知っていき——
-(Black cut)
+(Black transition)
 (Background change)
 えむ: どんどん上がってくねー
 司: （……どういう状況なんだこれは。 なぜオレはえむと一緒に観覧車に……？）
@@ -46,7 +46,7 @@
 えむ: ……！
 えむ: ……うん！　うんっ！ 一緒に、笑顔でいっぱいにしよう！　司くんっ！
 司: ……ああ。そうだな、えむ
-(Black cut)
+(Black transition)
 (Background change)
 司: 聞いてくれ、寧々！　オレは……！
 寧々: ……っ！！
@@ -69,17 +69,13 @@
 寧々: ……わたし、昔からずっとショーに憧れてて……。 中学の時に……大きな劇団の、ジュニアクラスに入ってたの……
 寧々: そこで練習して、練習して……主役になれて……
 寧々: でも、その公演で……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 寧々: （次のセリフが、出てこない……！ どうしよう、どうしよう、どうしよう……！）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: ……みんな、ずっと必死に練習してきたのに、 わたしのせいで、全部台無し
 寧々: それから、人の前に立つと、 震えて、うまく声が出せなくなって……
 寧々: でも類が……ネネロボをくれて……。 ロボット越しでも……ショーは、やっぱり楽しくて……！
@@ -101,10 +97,10 @@
 司: ……ああ！　よろしくな、寧々！
 えむ: わ～いっ！ またよろしくね、寧々ちゃん！　ネネロボちゃん！
 寧々: うん！ ありがとう……ふたりとも
-(Black cut)
+(Black transition)
 (Background change)
 : 寧々達と和解した司は、最後に類のもとへ向かうが——
-(Black cut)
+(Black transition)
 (Background change)
 類: …………
 司: 類。昨日は……悪かった
@@ -126,7 +122,7 @@
 えむ: あ……！ 司くん！　類くん、追いかけなくていいの！？
 司: ……良くない！　良いわけがあるか！
 司: だが、追いかけて……オレは何を言えばいいんだ……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーステージ]
@@ -143,15 +139,15 @@
 えむ: うん！　それに、司くんは未来のスターなんだよ！ だったら類くんを笑顔にしなくっちゃ！
 司: ……！
 司: ああ。そうだな。 よし……作戦会議だ！！
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 かつてのクラスメイト: なんだよそれ。そんなバカみたいなことできるわけないだろ。 もっとまじめに考えろよ
-(White cut)
+(White transition)
 かつてのクラスメイト: ぼく達を危険な目にあわせて、おもしろがってるだけじゃないの？
-(White cut)
+(White transition)
 かつてのクラスメイト: ……もう、ついていけないよ……
-(White cut)
+(White transition)
 (Background change)
 
 [神山通り]
@@ -174,4 +170,4 @@
 ミク (WxS): ハロー、えぶりわ～ん♪ 今夜のショーは、みんなが笑顔になるスペシャルショーだよ～♪
 KAITO: さあみんな、お客さんを笑顔にする準備はいいかい？
 司: ああ！！　もちろんだ！！
-(Black cut)
+(Black transition)

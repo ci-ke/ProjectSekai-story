@@ -39,16 +39,12 @@
 瑞希: そう！　やっぱ迷ってるんなら、家に閉じこもって考えるより、 いろいろ行動してみたほうがいいと思うんだよね
 瑞希: まふゆを迷路から救い出すためのヒントが どこかにあるかもしれないしさ！
 奏: ……そっか……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: （たしかにあの時は、瑞希が旅行を提案してくれたから、 新曲のアイディアを見つけられたんだった）
 奏: （……もしかすると、何か新しい刺激があったほうが いいのかもれない）
 奏: （それで、まふゆを救う曲が作れるのなら——）
@@ -57,7 +53,7 @@
 瑞希: ……といっても、どこか行くアテがあるわけじゃないんだけど
 瑞希: ……ん～、よし！　じゃあまずはあそこからにしよっと！ 行こう、奏！
 奏: あ、うん……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ドールショップ]
@@ -81,26 +77,22 @@
 奏: だから影響を受けてるのかもしれない
 瑞希: へえ、そんなに素敵な曲なんだ。 どんな曲なの？
 奏: とても優しい音色で……。 聴いてると、すごく——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: …………っ
 瑞希: 奏……
 瑞希: （もしかして、あんまり答えたくないこと聞いちゃったかな）
 瑞希: ……よしっ、じゃあ次に行こっか！
 奏: あ、うん。そうだね……
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -115,4 +107,4 @@
 瑞希: ん？　どうしたの？ ……あそこにある花屋さんがどうかした？
 奏: カーネーション——
 奏: （……お母さんの好きな花だ）
-(Black cut)
+(Black transition)

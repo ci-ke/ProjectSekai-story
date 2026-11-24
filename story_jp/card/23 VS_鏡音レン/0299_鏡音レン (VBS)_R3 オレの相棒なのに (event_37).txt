@@ -23,21 +23,17 @@ Gacha phrase: 悔しいじゃん！　相棒はオレなのに！
 リン: うん、オッケー！ じゃあね～
 レン: …………はぁ
 レン: （オレ、何やってんだろ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン: すっごくいい歌だったよ、こはねちゃん！ 歌ってるあいだ、ずーっとキラキラしてた！
 リン: 杏ちゃん、いいなー！ わたしもこはねちゃんと組んで歌いたくなっちゃった！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: （……リンが、あんなこと言うから）
 レン: はぁ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -89,7 +85,7 @@ MEIKO: あら。それがわかってるなら、 あとはレンがどうする
 ミク (VBS): 厳しくいくけど、いい？
 レン: もちろん！
 レン: よーし、やるぞー！！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -100,36 +96,28 @@ MEIKO: あら。それがわかってるなら、 あとはレンがどうする
 
 レン: は～、ミクとの特訓はまた明日、か……
 レン: （杏達と話したいことができたって言ってたけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: だからー！　こはねに、『杏とじゃなくて他の人と歌いたい』って 言われたら嫌でしょ？
 レン: 自分が相棒じゃないって思われてるみたいでさ
 杏: それは——
-(White cut)
+(White transition)
 レン: ん？　杏、どうしたの？ なんだか顔色悪いみたいだけど……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: （オレ、なんかまずいこと言っちゃったかな……）
 レン: ……とりあえず、メイコのカフェにでも戻ろうっと。 好きなの頼んでいいって言われたし
 レン: なんにしよっかな。 久しぶりに、パフェでも頼んじゃおっかな
 レン: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: あ！　モモみーっけ！ 食べちゃおーっと
 リン: あ、もうレンってば！ そこ食べちゃったらアイスが落っこちちゃうよ～！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: そういえば前、リンと一緒にパフェ食べたっけ……
 レン: …………
@@ -137,7 +125,7 @@ MEIKO: あら。それがわかってるなら、 あとはレンがどうする
 レン: （オレが一番の相棒だって思ってもらうためにも、 いちいち立ち止まってちゃかっこ悪いし！）
 レン: よしっ！
 レン: ♪——！　♪————！！
-(Black cut)
+(Black transition)
 レン: はぁ……はぁ……
 レン: 今のはちょっといい感じだったかも。 よし、この調子で——
 KAITO: やっほー、頑張ってるね。レン！
@@ -166,7 +154,7 @@ KAITO: やあ、ミク
 レン: あ、あとさ！　今日の特訓、 カイトがつきあってくれることになったんだ！
 ミク (VBS): そう。じゃあ、私との特訓は明日にしようか
 レン: うん、よろしく！
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -182,4 +170,4 @@ KAITO: うん、バッチリ！　ね、ミク？
 KAITO: ボクはもともとレンの師匠だし、これくらいはね
 レン: えへへ。じゃあオレ、 リンを探して歌を聴いてもらってくる！
 ミク・KAITO: 『いってらっしゃい！』
-(Black cut)
+(Black transition)

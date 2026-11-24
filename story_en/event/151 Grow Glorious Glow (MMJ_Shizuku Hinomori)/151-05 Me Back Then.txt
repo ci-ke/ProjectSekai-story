@@ -6,16 +6,12 @@
 
 [Shizuku's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Oikawa: You wouldn't believe how dazzling she was back then. She was just like Hagiyama. No, even more brilliant...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (Mr. Oikawa said I used to have a dazzling aura when I was still with Cheerful * Days...)
 Shizuku: (It's why he asked me to audition.)
@@ -36,7 +32,7 @@ Shizuku: Oh, so... I'd say it went well, since I had a chance to hear about her 
 Shizuku: Also...
 Shizuku: I learned something else.
 Miku (MMJ): <...?>
-(Black cut)
+(Black transition)
 Miku (MMJ): <I see... And this Mr. Oikawa really said that...?>
 Shizuku: Yes.
 Shizuku: Which is why I was thinking about watching some videos of myself, to discover the truth behind what that “aura” of mine was.
@@ -50,7 +46,7 @@ Shizuku: I'll try playing it now. Pressing this button should turn the power on.
 Shizuku: Huh? It isn't lighting up for some reason...
 Miku (MMJ): <Oh... Could its battery have run out?>
 Shizuku: Yes, you might be right! Let's see... The charger for it should be...
-(Black cut)
+(Black transition)
 Shizuku: Thank you for being so patient, Miku. I should be able to play it now.
 Miku (MMJ): <Great...!>
 Miku (MMJ): <Is this you doing dance practice?>
@@ -76,8 +72,8 @@ Shizuku: (Oh...)
 Shizuku: Just now, for a second there...
 Shizuku: I didn't recognize myself.
 Miku (MMJ): <Yes, but...>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000388/bg_s000388.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000388/bg_s000388.webp)
 Miku (MMJ): <This girl is also you, Shizuku.>
 Shizuku: What...?
 Miku (MMJ): <Tell me, Shizuku. What was going through your mind during this practice?>
@@ -87,7 +83,7 @@ Shizuku: I kept telling myself that I had to succeed no matter what.
 Miku (MMJ): <Ah, I had a feeling.>
 Miku (MMJ): <Looking at your eyes here, Shizuku, I can tell that there's strong resolve at work here.>
 Shizuku: Strong resolve...?
-(White cut)
+(White transition)
 (Background change)
 Shizuku: Oh...
 Shizuku: (She's right...)
@@ -96,10 +92,8 @@ Shizuku: Thank you, Miku...
 Shizuku: This conversation has helped remind me of how I really felt back then.
 Shizuku: Back then, I was constantly worried about how I'd actually do as the lead. But...
 Shizuku: It's also why I was so desperate.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: *Sigh*
 Manager: Shizuku, you have to get to your next appointment. How are you feeling? Good...?
@@ -129,10 +123,8 @@ Shizuku: (As terrifying it is that I'm responsible for this group's future...)
 Shizuku: (I have to keep practicing. Regardless of how scared I am.)
 Shizuku: (I have to keep finding ways to improve...!)
 Shizuku: (I have to lead Cheerful * Days to the top and clear a path towards a bright future for us all!)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (MMJ): <That really happened...?>
 Shizuku: Yes. Between my responsibilities and the quality which was expected of me, I ended up struggling quite a lot...
@@ -158,4 +150,4 @@ Shizuku: Thank you for your help, Miku. I know exactly what I need to do now.
 Miku (MMJ): <That's great to hear!>
 Miku (MMJ): <I'll be looking forward to seeing your commercial, Shizuku!>
 Shizuku: Thank you!
-(Black cut)
+(Black transition)

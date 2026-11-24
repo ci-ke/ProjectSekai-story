@@ -34,7 +34,7 @@
 少年: …………はい
 少年: ありがとう、ございます……
 奏: そっか……。 それじゃあ、行こうか
-(Black cut)
+(Black transition)
 少年: ……本当にごめんなさい。 お姉ちゃん達に迷惑かけちゃって……
 奏: ううん、大丈夫
 奏: でも、どうしたの？ もしかして、迷子になったとか……？
@@ -52,15 +52,11 @@
 奏: …………
 奏: （……『あんな風に』か……）
 奏: （その気持ちは、なんとなくわかるな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （わたしもお父さんみたいにって、思ってたから）
 奏: （……何か、この子のためにできることが あればいいんだけど）
@@ -84,4 +80,4 @@
 奏: ……！
 奏: うん！ それじゃあ、行こうか
 少年: はい！！
-(Black cut)
+(Black transition)

@@ -53,15 +53,11 @@ Gacha phrase: それにしたって、多すぎでしょ……
 えむ: 類くんにはいっぱい元気に頑張ってほしいから、 ラムネもい～っぱい食べなきゃ♪
 寧々: いや、それにしたって、多すぎでしょ……
 寧々: さすがに、こんなに渡されたって類も——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: どうしたの、寧々ちゃん？
 寧々: ……いや、案外喜びそう……
@@ -70,7 +66,7 @@ Gacha phrase: それにしたって、多すぎでしょ……
 寧々: でも、これだとラムネしか食べなくなりそうだから、 他にも買っていこう
 寧々: 栄養補助スナックとか、もうちょっと栄養ありそうなやつ……！
 えむ: はーい☆　じゃあ次はこっち、行こ行こ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -127,4 +123,4 @@ Gacha phrase: それにしたって、多すぎでしょ……
 寧々: （英語かあ……）
 寧々: （そういえば、白石さんと東雲くん、 アメリカに行く前、英語の勉強がんばってたっけ）
 寧々: （帰ってきたら、どんな風に勉強したのか聞いてみようかな）
-(Black cut)
+(Black transition)

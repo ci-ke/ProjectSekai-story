@@ -16,17 +16,13 @@ Mafuyu: (Oh no...)
 Mafuyu: (Lately, my concentration's been breaking over the smallest noises.)
 Mafuyu: (I struggled to focus even during finals the other day...)
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mafuyu's Mother: Mafuyu?
 Mafuyu's Mother: ...
 Mafuyu's Mother: Maybe I was imagining things...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mafuyu: (Mom must've been checking to see how I was doing... Because she's worried about me...)
 Mafuyu: (At least I think so, but...)
 Mafuyu's Mother: How are your studies going, Mafuyu?
@@ -46,7 +42,7 @@ Mafuyu: (The others are probably working right now...)
 Mafuyu: ...
 Mafuyu: (I should sleep... But I'm still nowhere near finished.)
 Mafuyu: I'll keep working on these for a little while longer...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -60,16 +56,12 @@ Mafuyu: Coming...
 Mafuyu: Oh...
 Mafuyu: (I did worse than I thought...)
 Mafuyu: (What do I do...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: I'm looking forward to seeing good results since you studied so hard for them.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Teacher: Asahina? Is something wrong...?
 Mafuyu: N-No. Nothing's wrong.
@@ -78,7 +70,7 @@ Mafuyu: Oh...
 Mafuyu: Yes, everything's fine...
 Teacher: Really? Well, my door's always open...
 Mafuyu: Yes... Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -89,7 +81,7 @@ Mafuyu: ...
 Mafuyu: No, the teachers are apparently very busy and need a little more time to grade them.
 Mafuyu's Mother: Oh, I see... I understand they have tough jobs, but I hope they finish grading them soon.
 Mafuyu: *Nod*
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (I couldn't tell her about how I really did...)
 Mafuyu: (But I won't be able to hide that forever... I should tell her sooner rather than later.)
@@ -99,4 +91,4 @@ Mafuyu: (Not just say... What she might do...)
 Mafuyu: (And I have another mock exam coming up.)
 Mafuyu: (Doing well on that might make up for how I did on my finals...)
 Mafuyu: If I can do that...
-(Black cut)
+(Black transition)

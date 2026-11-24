@@ -25,13 +25,13 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 クラスメイトB: あ、購買に黒飴とかあったと思うし、それにしてやろうか？
 彰人: だから、のど飴にしろっての
 友人達: 『あはは！』
-(Black cut)
+(Black transition)
 
 [昼休み]
 
 冬弥: ——彰人
 彰人: おう、すぐ行く
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　廊下]
@@ -46,9 +46,9 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 冬弥: 詳細は把握していないが、 彰人の都合を聞いてほしいと頼まれたんだ
 彰人: は？　誰に……
 彰人: あー……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 彰人: （……絶対、あの人達だな）
 彰人: （よくて片方、最悪両方セットか。 めんどくせえ気しかしねえな）
@@ -91,7 +91,7 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 冬弥: 先輩達にも祝ってもらえてよかったな、彰人
 彰人: まあな……
 彰人: （つーか、もらっちまった箱どうすりゃいいんだよ……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -126,16 +126,12 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 こはね: え？　いいけど……。 でも、きっと危険な仕掛けじゃないと思うよ
 冬弥: 俺もそう思う。 神代先輩は、相手の笑顔を大切にする人だからな
 彰人: 笑顔ねえ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 彰人: …………じゃあ、開けてみるか？
 杏: えっ、本当に！？
 彰人: ああ。放っておくのもなんか怖いし。 ……お前らが大丈夫って言うから開けるんだからな？
@@ -151,17 +147,13 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 杏: これじゃない？　袋みたいなのが１、２、３……４つ！ なんか入ってるみたいだけど……
 彰人: おい、その袋。名前が書いてあるぞ
 杏: え？　あ、本当だ！　彰人と、冬弥と……、 私とこはねの名前もそれぞれ書いてある！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 類: ぜひ君の仲間達と一緒に ハラハラドキドキしながら、開けてみてくれたまえ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 彰人: （仲間と開けろって、そういうことかよ）
 彰人: それ持ってけよ。お前らの分みたいだしな
 こはね: いいの？　ありがとう、東雲くん！ えへへ、中身なんだろう！
@@ -172,7 +164,7 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 彰人: そうだな。思ってたよりまともなプレゼントだったし。 ただ……
 司の人形 (司): 『たんじょうびおめでとう！』 『たんじょうびおめでとう！』
 彰人: ……こいつ、どうやってとめるんだ？
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -189,23 +181,19 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 彰人: ったく……。 食うことしか頭にねえのかよ
 母親の声: 彰人。すぐご飯だから、着替えてらっしゃい！
 彰人: はいはい
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 彰人: （……今年も、悪くない誕生日だったな）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000021/bg_s000021.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000021/bg_s000021.webp)
 愛莉: 彰人くん、誕生日おめでとう。 久しぶりに元気そうな顔が見れてよかった。 そのうちゆっくり話しましょ。絵名のグチとか、聞くわよ？
 雫: 愛莉ちゃんから聞いたわ。彰人くん、お誕生日おめでとう！ ふふ。私も妹がいるんだけど、 お互い、これからもきょうだいと仲良くいられたらいいわね
 瑞希: うわーん！　絵名が教えてくれないから乗り遅れたー！ おめでとう、弟くん！ 今度学校で会ったら、お昼でもおごらせてね♪
@@ -215,7 +203,7 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 こはね: いつでも自分に厳しくてストイックで、 そんな東雲くんにすごく勇気をもらってるよ。 えへへ、これからもよろしくね！
 杏: チームとしても、相棒を持つ仲間としても、 いろいろ助けてくれてありがとう。 頼りにしてるからさ、これからもよろしく！
 冬弥: 彰人、誕生日おめでとう。今まで助けてもらった分、 俺も、彰人の助けになりたいと思っている。 だから、何かあれば頼ってくれると嬉しい
-(White cut)
+(White transition)
 (Background change)
 彰人: 今日は、いろいろ祝ってくれてありがとな
 彰人: 少し前までは、家族や学校のヤツ以外で祝ってくれてたのは 冬弥と謙さんくらいだったんだが……
@@ -224,4 +212,4 @@ Gacha phrase: 仲間と騒いで祝うってのも悪くないな
 彰人: 簡単じゃねえってのはわかってるつもりだが、 それでも、この夢は誰にも譲れねえからな
 彰人: まあ、よかったらこれからも見ててくれ
 彰人: んじゃ、よろしく
-(White cut)
+(White transition)

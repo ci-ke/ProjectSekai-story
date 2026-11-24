@@ -17,10 +17,8 @@ Mafuyu: Normally, that would never happen...
 Mafuyu: ...
 Mafuyu: (It's not just cram school... I've been making some odd mistakes recently.)
 Mafuyu: (Including that time...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: Oh, about cleaning up the prep room. Are you sure you won't need more people?
 Teacher: Hm? No, that shouldn't be a problem. I thought you relayed that to your classmates earlier...
@@ -28,34 +26,28 @@ Mafuyu: What...?
 Mafuyu: (That's right...! I did that before the break...)
 Mafuyu: I'm sorry. It slipped my mind that I already asked you about that...
 Teacher: Hehe. It's okay, Asahina. We all forget things sometimes.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (My teacher didn't find that strange, but I need to be careful not to repeat the same mistake...)
 Mafuyu: (Still, why did that happen...? Have I not been getting enough sleep lately...?)
 Mafuyu: (Do I need to sleep more...? But I have to study and review what we went over in cram school...)
 Mafuyu: (Also, I need time to work on...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: If you truly wish to do something, Mafuyu, you're free to do it...
 Mafuyu's Mother: Just don't regret your decision, okay...?
 Mafuyu: ...
 Mafuyu: I'm sorry, Mom...
 Mafuyu: I'll give up on music...
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: ...!
 Mafuyu: Um... Mom...? What are you doing...?
 Mafuyu's Mother: Oh, I'm sorry for borrowing your computer without asking first. I was just looking something up...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: How...
@@ -68,12 +60,12 @@ Mafuyu: (Oh, I can sit there...)
 Mafuyu: ...
 Mafuyu: (No, it still hurts... Isn't there anything that can relieve me of this...?)
 Mafuyu: (Wait, what about Kanade's song...?)
-(Black cut)
+(Black transition)
 Mafuyu: (I think I feel a little better...)
 Mafuyu: (But my legs... They feel so heavy... I need to get home soon, but...)
 Ena: Mafuyu...? What are you doing here?
 Mafuyu: Ena...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -87,7 +79,7 @@ Mafuyu's Mother: Hehe. You should be able to really focus on studying since you 
 Mafuyu: Yes, I should be able to do all my homework and go over what we did during cram school.
 Mafuyu's Mother: That's my daughter. But don't study too hard, okay?
 Mafuyu: Thanks, Mom. I'll make sure to take breaks here and there.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -147,7 +139,7 @@ Mafuyu: (Why am I talking about this right now...?)
 Mafuyu: (I need to finish working on my lyrics so that I can study...)
 Mafuyu: (And yet, this conversation... It's like I want to just...)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 Mafuyu: <Oh, it's already been an hour...>
 (Background change)
 Mizuki: <Whoa, you're right...! Sorry, Yuki. I didn't mean to ask you so many questions.>
@@ -162,4 +154,4 @@ Mizuki: <...!>
 Mizuki: <Hehe. Me too♪ Anyway, let's get back to work!>
 (Background change)
 Mafuyu: <Okay...>
-(Black cut)
+(Black transition)

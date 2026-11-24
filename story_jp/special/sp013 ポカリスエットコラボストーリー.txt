@@ -6,7 +6,7 @@ sp13 ポカリスエットコラボストーリー (collaboration_pocari_01_01)
 
 咲希: スマホと楽譜、ハンドタオルにティッシュ、ポカリ—— うん、忘れ物なし！
 咲希: そうだ。外、すっごくいい天気みたいだし、 出かける前に一口飲んでおこーっと♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -18,7 +18,7 @@ sp13 ポカリスエットコラボストーリー (collaboration_pocari_01_01)
 一歌: うん、おはよう。 今、何買ってたの？
 志歩: これ。今日はいつもより汗かきそうだし
 一歌: あ、いいね！ 私もそれにしようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [レッスンスタジオ]
@@ -37,10 +37,10 @@ sp13 ポカリスエットコラボストーリー (collaboration_pocari_01_01)
 咲希: イエーイ♪　アタシ達、やっぱ仲良し～！
 志歩: はいはい。 ほら、さっさと準備して練習始めるよ
 一歌・咲希・穂波: 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
 
 ミク: ふふ。みんなも、あの子達みたいにポカリを美味しく飲んで、 暑さに負けないようにすごしてね
-(Black cut)
+(Black transition)

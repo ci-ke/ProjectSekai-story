@@ -20,7 +20,7 @@ Toya: (As unfortunate as it is that sort of fell apart, but Miku may be right ab
 Toya: Okay... Then, I'll have Kamishiro try these. He also seemed to be looking forward to tasting them.
 Miku (VBS): <Sure. I'm going to head back now, so good luck, Toya.>
 Toya: Thank you, Miku. I'll stop by SEKAI later to tell you how things went.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Aoyagi Household - Living Room]
@@ -36,15 +36,15 @@ Toya: I-I'm sorry. I know they're not all that appealing visually... But I'm sur
 Rui: Y-Yes, I suppose so... After all, it's not good to judge a book by its cover...
 Rui: S-So, I'll just have to see how they taste...
 Toya: Th-Thank you very much.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000169/bg_s000169.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000169/bg_s000169.webp)
 Rui: (Still... This is, well... Quite a sight to behold, to say the least...)
 Rui: (The color alone is making my eyes spin... They're bright blue and purple... And the rainbow sprinkles are making me want to eat them even less...)
 Rui: (Not only that, the tops of these cupcakes look like they've somehow spilled over. They must've risen far too much while in the oven...)
 Rui: (It's like a dam burst and released a torrent of poisonous-looking batter...)
 Rui: (My mind doesn't seem to recognize these as food... So much so that my appetite from before has completely gone.)
 Rui: (But I can't tell how they taste with my eyes. I'll just have to hope that they taste okay...)
-(White cut)
+(White transition)
 (Background change)
 Rui: Well, without further ado...
 Rui: *Gasp*
@@ -62,7 +62,7 @@ Rui: No, I'll finish them... You did your best to make these, no?
 Toya: Kamishiro...
 Toya: Understood... In return, let me get you something to drink.
 Rui: Ah, thank you. That would be much appreciated.
-(Black cut)
+(Black transition)
 Rui: *Sigh* All gone. And thank you for the coffee. That was delicious.
 Toya: No, that was just instant coffee mixed with hot water...
 Toya: More importantly, I'm so sorry... I didn't realize how awful they'd taste...
@@ -80,17 +80,13 @@ Rui: So, if you give up now and choose to give them something else, I believe yo
 Toya: Yes, that may be so... But...
 Rui: (He's feeling worse about this than I initially thought... I suppose there isn't much I can do about that since this is his second time failing...)
 Rui: (However...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: The truth is, I never really saw Toya smile all that much back then. He always seemed preoccupied...
 Tsukasa: He's changed quite a bit since then, but as an older brother figure, I'd like to see him smile more.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (He wants him to smile more... I may not feel as strongly about that as Tsukasa, but I too would like to see him smile...)
 Rui: Come to think of it, you seem to hold Tsukasa in very high regard. You've also known him and Saki since you were all little, yes...?
@@ -101,15 +97,11 @@ Toya: That's...
 Toya: Okay...
 Toya: I may've mentioned this before, but I first met the Tenmas because our respective parents are friends with each other.
 Toya: I'd go over to Tsukasa's house whenever my parents were gone, and he'd babysit me.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: My dad is a renowned classical musician, and he made me study classical music from a very young age...
 Toya: Because of that, I had few opportunities to play with friends or go over to their house...
@@ -124,10 +116,8 @@ Toya: Oh, but... When she was home, the three of us would play together.
 Toya: We'd read picture books and watch the shows Tsukasa came up with.
 Rui: Oh, Tsukasa came up with his own shows...?
 Toya: Yes, that day... I remember how I was heavily scolded by my dad during practice...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Toya (Toya): ...
 Little Saki (Saki): Toya seems kinda sad today...
@@ -136,10 +126,8 @@ Little Tsukasa (Tsukasa): Saki, bring me your horsy plushie!
 Little Saki (Saki): Okay! Hey, Toya, come here! Let's watch Tsukasa's show together!
 Little Saki (Saki): His shows are really fun! You'll be smiling from ear to ear after watching it!
 Little Toya (Toya): Oh... O-Okay...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Before I knew it, I became so entranced by Tsukasa's performance that I couldn't help but smile.
 Toya: Saki was also smiling a lot. We even discussed how good it was afterwards...
@@ -159,4 +147,4 @@ Toya: You will...?
 Toya: Even after I made you eat...those...
 Rui: Yes. Especially if it means seeing Tsukasa and Saki smile.
 Toya: Thank you very much...
-(Black cut)
+(Black transition)

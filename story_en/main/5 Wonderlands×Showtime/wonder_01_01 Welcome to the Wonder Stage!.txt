@@ -16,7 +16,7 @@ Staff: The interviews are being held in that building over there. You'll have to
 Tsukasa: This can't be happening! I'll be late! I must make it somehow!
 Tsukasa: Pardon me for my rudeness unbefitting of a star! Please accept my late thanks for your kind advice! Well then, I must be on my way!
 Staff: What's up with that kid...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Audition Site]
@@ -24,7 +24,7 @@ Staff: What's up with that kid...
 Tsukasa: *Huff*... *Huff*... I made it... My legend nearly ended before it even had a chance to begin!
 Interviewer: We will now begin interviewing the next group of applicants. Please come this way.
 Tsukasa: Coming! Hehe, now I can finally show off my talents!
-(Black cut)
+(Black transition)
 Interviewer: We'll start from the right side. Please begin with a brief introduction.
 Applicant: Hello. I decided to apply to work at this park because...
 Tsukasa: (First impressions are everything at job interviews. Go big or go home! I must outshine everyone else right from the very beginning!)
@@ -37,7 +37,7 @@ Tsukasa: I am not merely a star, I am a supernova! I am the miracle-bringer! And
 Interviewer: Er... Thank you. Next, please...
 Tsukasa: (Hahahahaha! My introduction left them speechless! I'm guaranteed to pass this interview with flying colors!)
 ??? (Emu): Hehehe☆ Perfect!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -50,10 +50,10 @@ Tsukasa: My fame will only keep snowballing, resulting in an avalanche of offers
 Tsukasa: Fast forward a few years and I'll be a dazzling star standing on the grandest stages of the world! Ha ha ha ha!
 ??? (Nene): Wow. Some weirdo's just loudly talking to himself...
 ??? (Nene): Spring tends to bring out people like that... I better hurry home to play some games.
-(Black cut)
+(Black transition)
 ??? (Rui): Oh ho? That was an unusual fellow. He went in the direction of the theme park...
 ??? (Rui): Hmm. Perhaps I should head over there too♪
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Phoenix Wonderland)
 Tsukasa: New hires were to wait by the main gate... So around here.
@@ -65,22 +65,22 @@ Tsukasa: Yes, that's me! It's a pleasure to work with you!
 Tsukasa: Do you know which stage I've been assigned to?
 Mascot: It is over that way. You can't see it from here. Please follow me.
 Tsukasa: Okay!
-(Black cut)
+(Black transition)
 Tsukasa: (That must be the newly built Neo Phoenix Rollercoaster? And that would be the renovated Neo Phoenix Castle!)
 Tsukasa: (They've built quite a few new attractions over the last few years. Everywhere you look, it's brand spanking new. But, well, it IS one of the best theme parks in the country!)
 Tsukasa: (Hehe... I can't wait to see my new stage! If it's also been recently renovated, it will be dazzlingly gorgeous for sure!)
-(Black cut)
+(Black transition)
 Tsukasa: Um, are you sure this is the right way? We've been walking for a while...
 Mascot: We are almost there.
 Tsukasa: But... This place is almost empty, if you don't count the overgrown shrubbery...
 Tsukasa: Huh? The path continues further?
 Tsukasa: You're seriously going to lead us through that jungle? Oh, it looks like the path opens up into a clearing?
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: Is this a...stage? It looks in serious need of repairs. What does it say on the signboard here...
 Tsukasa: “Wonder Stage”?
 ???: Haaaaaaaaaaaaah!
-(White cut)
+(White transition)
 Tsukasa: Whoa! What on earth was that? Something just dropped out of the sky!
 ??? (Emu): Welcome to the Wonder Stage, a place filled with lots of smiles☆
 ??? (Emu): All together, now! One, two, wonderhoy☆
@@ -99,4 +99,4 @@ Emu: I'm Emu Otori! Welcome to the fantastic Wonder Stage, a place filled with l
 Emu: Let's put on some incredible shows together, Tsukasa!
 Tsukasa: Huh...? W-Whaaaaaat?
 Tsukasa: What the heck is going on?!
-(Black cut)
+(Black transition)

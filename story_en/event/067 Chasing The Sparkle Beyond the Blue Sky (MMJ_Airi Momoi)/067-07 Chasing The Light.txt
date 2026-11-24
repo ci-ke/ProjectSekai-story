@@ -24,7 +24,7 @@ Shizuku: Is there something you need to do?
 Airi: I'm just going for a walk. This might be my only chance to go for a stroll along the beach at night, you know?
 Haruka: Okay... In that case, we'll go on ahead without you.
 Airi: Sure thing! Have fun at the hot springs!
-(Black cut)
+(Black transition)
 Airi: Yeah... This is nice. The sea seems so much more mysterious at night.
 Airi: And this breeze feels really great... It might've been fun to play with some fireworks during our stream...
 Shizuku: Airi!
@@ -43,10 +43,8 @@ Airi: As far as training goes, it probably felt good in the end because you all 
 Shizuku: Yes, we all put in a great effort! When we rode the banana boat, smashed watermelons...
 Shizuku: Oh, speaking of which... Just a little earlier, when we were streaming our dance training, Minori really surprised me...
 Airi: Hehe. Oh, that time...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Airi: Alright, this is today's final training activity! We gotta dance like we mean it and show everyone just how far we've all come!
 Minori: Right!
@@ -65,10 +63,8 @@ Airi: (She's trying so hard to reach everybody that it's causing her to shift he
 Airi: (The way she's dancing is probably the most unrefined I've seen up to this point... But at the same time, she looks...)
 Shizuku: (I don't quite understand why, but she looks...)
 Shizuku: (So cute...!)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: Everyone really seemed to enjoy the way Minori danced that time.
 Airi: Hehe. Yeah! A ton of them even left comments saying, “I think Minori and I just made eye contact!”
@@ -93,17 +89,13 @@ Airi: Which is why the little trick for me and Minori is...
 Airi: Shizuku...?
 Shizuku: Please... Don't say things like that. I like your hands just the way they are, Airi.
 Shizuku: Because they're so kind and gentle. You use them to pull everyone in the right direction, and I'm sure Minori felt the same way today... Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Airi: Here's a towel. Now dry those tears, already. A pretty face like yours should have a smile on it.
 Airi: We're in this idol thing together now. But don't think I'm gonna let you beat me, Shizuku!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: Even when I was feeling so awful, Airi, you were there to give me not just that fluffy towel but also the courage to stand back up.
 Shizuku: That's why I like your hands so much. They're so kind, gentle and soft...
@@ -136,4 +128,4 @@ Shizuku: Next, let's spread that hope to our fans.
 Airi: Right. We have to tell everyone just how much we appreciate them during our solo show...
 Airi: And do our best to inspire more and more hope in more and more people!
 Shizuku: Yes!
-(Black cut)
+(Black transition)

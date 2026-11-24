@@ -24,7 +24,7 @@ Mizuki: And it was actually nice to be kept so busy...
 Toya: Hm? Did you say something just now?
 Mizuki: No, nothing...! Anyway, we're short on time, so let's get everything set up on the double!!
 Toya: Yes, let's. I'm looking forward to seeing how everyone solves the riddles in our escape room.
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Let's see... It looks like everything's where it needs to be, so I think we're done!
 Toya: I'm inclined to agree after double-checking.
@@ -35,15 +35,11 @@ Mizuki: In that case, bye bye! See you tomorrow!
 Mizuki: Tomorrow...
 Mizuki: (Either way, I need to tell her...)
 Mizuki: (If Ena does decide to show up, then before she...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 ???: Mizuki?
@@ -62,7 +58,7 @@ Mizuki: ... I guess that's not what you were asking.
 Rui: We have known each other for quite a while now.
 Rui: Why don't we talk in the courtyard...? I should be done cleaning up soon.
 Mizuki: Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -97,15 +93,11 @@ Mizuki: But what I'm most afraid of is...
 Mizuki: How things might change...
 Mizuki: My relationship with the others could morph drastically...
 Mizuki: Including how we all spend time together...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: I don't want that to change...
 Mizuki: I know the others aren't like that...
@@ -136,32 +128,28 @@ Mizuki: Oh...
 Mizuki: Let's start heading home...
 Rui: Okay...
 Mizuki: Thanks, Rui.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
 
 Mizuki: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO (N25): <I don't care if you decide to run or move forward...>
 KAITO (N25): <But just know this... In the midst of this pain, you need to choose the path that allows you to save yourself.>
 KAITO (N25): <In order to keep on living...>
-(White cut)
+(White transition)
 MEIKO (N25): <I'll see this through with you. No matter how things turn out.>
 MEIKO (N25): <Regardless of how the future unfolds, I'll be there with you until the end.>
-(White cut)
+(White transition)
 (Background change)
 Rui: I can hope.
 Rui: That you'll get to be yourself.
 Rui: I can hope that you're going to experience true happiness.
 Rui: That's my sincere wish as your friend.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (This fear I'm feeling isn't going to just disappear...)
 Mizuki: (But...)
@@ -183,21 +171,17 @@ Mizuki: <Also, Enanan... Tomorrow...>
 Mizuki: <Can we talk tomorrow during the night festival?>
 Mizuki: <I want to tell you...>
 Mizuki: <Everything that I couldn't until now.>
-(Black cut)
+(Black transition)
 Mizuki: ...
 Mizuki: (I finally managed to get that out...)
 Mizuki: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mizuki: <Then, let's check it out as a group tomorrow.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mizuki: (I'm such a wimp, even though I'm this close...)
 Mizuki: (But...)
 Mizuki: (This might be the last time we get to hang out together like this...)
 Mizuki: (So...)
-(Black cut)
+(Black transition)

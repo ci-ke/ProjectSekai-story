@@ -21,7 +21,7 @@ Gacha phrase: 本当は、布団で寝たほうがいいけど……
 ミク (N25): 『……美味しい紅茶を、探そう。 会いに来てくれたお父さんが、喜んでくれるように』
 まふゆ: …………
 まふゆ: ……うん、そうだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -58,7 +58,7 @@ Gacha phrase: 本当は、布団で寝たほうがいいけど……
 まふゆ: うん……
 まふゆ: ……ふたりも、ありがとう
 ミク (N25): 『……どういたしまして』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -72,18 +72,14 @@ Gacha phrase: 本当は、布団で寝たほうがいいけど……
 まふゆ: ……奏、紅茶をいれたんだけど
 まふゆ: ……奏？
 まふゆ: （……集中してるのかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -107,7 +103,7 @@ Gacha phrase: 本当は、布団で寝たほうがいいけど……
 まふゆ: ……ミク達から聞いたんじゃないの？
 レン (N25): えっと、紅茶を買いに行ったことだけしか まだ話せてなくて……
 ルカ (N25): ぜひ詳しく聞きたいわ
-(Black cut)
+(Black transition)
 ルカ (N25): ……へえ。絵本に紅茶がついているなんて、なんだか素敵ね
 ミク (N25): ページ毎にいろんな種類の紅茶がついてて、 選ぶの楽しそうだった
 レン (N25): そういえば、どんなお話だったの？ きっと、表紙にいた女の子のお話だよね
@@ -137,4 +133,4 @@ Gacha phrase: 本当は、布団で寝たほうがいいけど……
 ルカ (N25): ふふ。今度会った時の話題がひとつできたわね
 まふゆ: そうだね……
 まふゆ: （……聞けたら、聞いてみようかな）
-(Black cut)
+(Black transition)

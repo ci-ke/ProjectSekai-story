@@ -37,7 +37,7 @@
 奏: 『えななん、どうしたんだろう……』
 (Background change)
 まふゆ: 『…………』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: ……バカみたい。 みんなに当たっても意味ないのに
 絵名: 何も、変わらないのに……
@@ -62,18 +62,14 @@
 彰人: おい、絵名……！
 絵名: もう、ほっといてよ！ 大事だとか、後悔するとか……もう聞きたくない！
 絵名: ひとりにさせて……っ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: ……そうだ、あそこなら……
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -100,4 +96,4 @@
 絵名: ごめんね、ミク
 絵名: ……でも、もうどうでもいいの。全部——
 絵名: このまま、全部、忘れたい……
-(Black cut)
+(Black transition)

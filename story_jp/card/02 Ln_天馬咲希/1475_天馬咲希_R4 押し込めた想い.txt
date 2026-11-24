@@ -10,30 +10,26 @@ Gacha phrase: そばにいさせてほしいんだ
 [教室のセカイ]
 
 咲希: ……また、来ちゃったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: でも……事務所の話、本当に断っちゃってよかったのかな
-(White cut)
+(White transition)
 穂波: 『両方をプロとしてやれるほど、器用じゃないから』って 一歌ちゃんは笑ってたけど
 穂波: 本当は、もっと自由に活動したかったんじゃないかな……
-(White cut)
+(White transition)
 志歩: ……一歌が、自分でそう決めたんでしょ
 志歩: なら……私達があれこれ言うのは、違うと思う
-(White cut)
+(White transition)
 (Background change)
 咲希: （……アタシ、さっきの花乃ちゃん達みたいに、 目の前で笑ってくれる顔が見たいんだ）
 咲希: （手を伸ばしたら届くくらい、近くで）
 咲希: （……そういう音楽が、やりたい）
-(White cut)
+(White transition)
 咲希: （アタシは……これからもずっと、みんなと一緒にいたい。 だから——）
 咲希: （この気持ちは、絶対に言わない）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （……ひとりになると、こればっかり考えちゃう）
 咲希: ……せっかく気晴らしに来たんだから、 星見てリフレッシュしよっと！
@@ -81,7 +77,7 @@ Gacha phrase: そばにいさせてほしいんだ
 リン (Ln): そうそう！　どんな想いかわからなくて 帰ってこられなくなっちゃったら大変だし！
 咲希: ……うん、そうだね。 じゃあ、破片に触るよ？
 レン・リン: 『ああ！』 『うん！』
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -97,10 +93,10 @@ Gacha phrase: そばにいさせてほしいんだ
 咲希: え？
 咲希: ……ち、小さい頃のアタシ！？
 ？？？ (咲希): わたしが来てくれてる！ やったー！
-(White cut)
+(White transition)
 (Background change)
 咲希: わっ！　な、なにこれーーー！
-(White cut)
+(White transition)
 (Background change)
 咲希: ……うう、びっくりした。 ……って、あれ？　なんか、手が小さい？
 もうひとりの咲希 (咲希): わあ、すごーい！ わたし、大きくなっちゃった！
@@ -117,7 +113,7 @@ Gacha phrase: そばにいさせてほしいんだ
 咲希: そっか……
 咲希: えっと、じゃあ……アタシ達を連れてってくれる？
 もうひとりの咲希 (咲希): うんっ♪　しっかりついてきてね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -156,18 +152,14 @@ Gacha phrase: そばにいさせてほしいんだ
 もうひとりの咲希 (咲希): わたしは好きでしょ？　ここ！
 咲希: ……そうだね
 咲希: （…………今なら、わかるな。 あの時、なんであんなに楽しかったのか……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: みんな、一緒にいきますよ～！
 咲希: せーのっ！
 咲希・常連客達: 『——♪　——♪』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （やっぱり、ここを作ってる想いは……）
 もうひとりの咲希 (咲希): ——ねえ、わかった？ ここが、どんな想いが形になった場所なのか
@@ -176,20 +168,16 @@ Gacha phrase: そばにいさせてほしいんだ
 もうひとりの咲希 (咲希): だって、一番わたしのためになると思うから！
 咲希: アタシの……
 咲希: ……………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: …………ごめん。 アタシは、ここにはいられない
 咲希: いっちゃんやほなちゃん、志歩ちゃんと 一緒にいたいから
 もうひとりの咲希 (咲希): あ……
-(White cut)
+(White transition)
 リン (Ln): わっ！　サッキー！？
 咲希: ……あ、戻った……
 もうひとりの咲希 (咲希): ……やっぱり、みんなの方が大事なんだ
@@ -211,7 +199,7 @@ Gacha phrase: そばにいさせてほしいんだ
 もうひとりの咲希 (咲希): ……わたしが、本当の本当に “わたし”をいらないって思うようになるまで、 そばにいさせてほしいんだ
 咲希: ……ありがとう
 もうひとりの咲希 (咲希): わたしのほうこそ。 ありがと！
-(White cut)
+(White transition)
 (Background change)
 もうひとりの咲希 (咲希): （忘れないで……）
 もうひとりの咲希 (咲希): （どんなにつらくても、苦しくても——）
@@ -219,7 +207,7 @@ Gacha phrase: そばにいさせてほしいんだ
 もうひとりの咲希 (咲希): （わたしが——わたしの中にいるってこと）
 咲希: （——うん。忘れないよ）
 咲希: （…………ありがとう）
-(White cut)
+(White transition)
 (Background change)
 レン (Ln): 戻ってきたみたいだな……
 リン (Ln): ……うん
@@ -236,4 +224,4 @@ Gacha phrase: そばにいさせてほしいんだ
 リン (Ln): 川や雨の音はあるよ。 鳥は……ニワトリじゃダメだよね？
 レン (Ln): ものによるけど……寝直すには合わないだろうな
 咲希: あはは！　そうだね
-(Black cut)
+(Black transition)

@@ -13,16 +13,12 @@ Gacha phrase: So many paintings... Wow...
 
 Miku (N25): Len, you seem awfully anxious...
 Rin (N25): Ena said she'd be going over to help set up that exhibit, so I think he's excited to see what it's like...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: I'll probably be helping set everything up in the morning. Rin, Len, you two can come over whenever during that time.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (N25): (Ena said she'd be there in the morning to help set up...)
 Len (N25): (But what time did she mean? Is it okay for us to go see her now...?)
@@ -44,7 +40,7 @@ Rin (N25): I promised to show Ena my picture.
 Miku (N25): The one of the lake?
 Rin (N25): Yeah... So, I'll draw with you.
 Len (N25): Okay... Then, let's draw together.
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -68,15 +64,11 @@ Miku (N25): Huh?
 Rin (N25): To see Ena. I'm sure she's awake now since she said she'd be heading over in the morning. Also...
 Rin (N25): If she's still asleep, then it's her fault for not waking up on time.
 Len (N25): Th-Then, I'll go with you...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Miku (N25): But I don't think Ena's woken up yet...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Len (N25): Oh...
 Rin (N25): Aren't you coming, Len?
 Len (N25): Umm... If she is still asleep, then I'd feel really bad about waking her up...
@@ -88,7 +80,7 @@ Miku (N25): I believe Ena is going to be fine. Anyway, you need to go before Rin
 Len (N25): Alright, I'm gonna go now...!
 Len (N25): (I can't wait to see what this exhibit is like...)
 Len (N25): (A big hall with lots of paintings... I'm so excited...!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,15 +105,11 @@ Len (N25): Still, how does a person learn to draw like this...?
 Rin (N25): I don't know.
 Len (N25): I don't either...
 Len (N25): (Art's so hard, but Ena... She keeps trying and drawing...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (N25): Ena really is amazing...
 Rin (N25): Oh, did someone just come over...?
@@ -157,4 +145,4 @@ Len (N25): Yeah, but...
 Len (N25): We both want to do whatever we can to get better at drawing...
 Ena: Okay. Then, let's draw...
 Len (N25): Thanks...!
-(Black cut)
+(Black transition)

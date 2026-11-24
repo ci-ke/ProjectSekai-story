@@ -6,15 +6,11 @@ Skill name: Teach Us, Ms. Minori!
 
 (Character: Minori Hanasato, Haruka Kiritani, Airi Momoi, Shizuku Hinomori)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [Haruka's Room]
@@ -27,7 +23,7 @@ Haruka: <I'd like to talk before practice tomorrow morning.> ...?
 Haruka: (Did something happen...?)
 Haruka: I mean, I'll reply yes but...
 Haruka: (What does she want to talk about?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -43,21 +39,17 @@ Minori: R-Right!
 Minori: Putting on that event we just did really taught me that I still don't have enough knowledge or experience yet when it comes to these things.
 Minori: I see now that what I sometimes think of as being good can be not so great for our fans. I wasn't able to see things from a different perspective before...
 Haruka: (Oh...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori: I can't believe someone's willing to help us like this! Now, our event might just...
 Haruka: Is this the right way to go?
-(White cut)
+(White transition)
 Haruka: By agreeing to have this person help us, we'd be making them “work” instead of having fun, no...?
 Haruka: In other words, we'd be forcing our fans to face reality and see what goes on behind the scenes...
 Haruka: I want to do everything in my power to make sure our fans get to enjoy our events as fans.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: I apologize for what I said that time, Minori. You were so optimistic and looking forward to everything, while I just...
 Minori: What? N-No, don't worry about that! I should be apologizing for not fully understanding how our fans would feel about what I said!
@@ -93,7 +85,7 @@ Haruka: I believe you'll get to experience a whole variety of things before you 
 Minori: Okay, I'll start by thinking about what I can do for us! Thank you so much, Haruka!
 Minori: Hehe. I'm so glad I asked you about this.
 Haruka: Likewise. Thank you as well for taking what I said so seriously.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -129,17 +121,13 @@ Airi: And after that, the whole place went crazy during the mini-concert! It's l
 Haruka: Yeah, I guess that's what people call “synergy”...? Anyway, things really did fall into place nicely.
 Shizuku: Hehe. This event might not have been possible if Minori didn't suggest so strongly that we try to make it happen.
 Haruka: Yeah...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori: Putting on that event we just did really taught me that I still don't have enough knowledge or experience yet when it comes to these things.
 Minori: I see now that what I sometimes think of as being good can be not so great for our fans. I wasn't able to see things from a different perspective before...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: Minori mentioned how she wished she put more thought into her actions...
 Haruka: But at the same time, I believe she's the reason we were able to work with our fans and make this event possible.
@@ -154,4 +142,4 @@ Haruka: Hehe. It's not good to tease a teacher like that, you two.
 Minori: Y-You too, Haruka?! Why am I a teacher now?
 Haruka: Hehe. That's because...
 Minori: Because what? Stop laughing and tell me already, you guys!
-(Black cut)
+(Black transition)

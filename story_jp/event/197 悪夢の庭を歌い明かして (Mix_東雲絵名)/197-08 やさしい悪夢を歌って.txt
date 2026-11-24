@@ -21,23 +21,23 @@
 奏: うん。 ……ふたりとも、どんな歌を歌うんだろう
 穂波: 楽しみですね。 さっそく行きましょうか
 奏: そうだね
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000555/bg_s000555.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000555/bg_s000555.webp)
 穂波: すごい……！
 穂波: 隅々まで凝られてて、 本当に『アリエの庭の悪夢』の中に入ったみたいですね……！
 穂波: あ、この子、覚えてます！ アリエを追いかけまわして、鋭い刃で脅かすんですよね
 穂波: ……さ、再現されすぎてて、ちょっと怖いような……
 奏: たしかに……
-(White cut)
+(White transition)
 (Background change)
 奏: 絵名、大丈夫かな。 こういう怖いの、絵名も苦手だったけど
 ？？？: ……————♪
 奏: あ……
 穂波: あの声って……！
 奏: 行こう
-(Black cut)
+(Black transition)
 絵名: ——————……♪
 こはね: ————————！♪
 穂波: わぁ……！
@@ -46,8 +46,8 @@
 穂波: それに、この歌……
 穂波: 絵名さんの歌はすごく暗くて、 こはねちゃんの優しい歌とは正反対ですけど……
 穂波: ふたりの歌声が重なると少しも違和感がなくて……。 すごく、綺麗……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000556/bg_s000556.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000556/bg_s000556.webp)
 絵名: ——————……♪
 絵名: （……この歌は、矛盾した歌）
 絵名: （アリエを励ましてもいるけど、 同時に傷つけてもいて——）
@@ -59,14 +59,14 @@
 絵名: （矛盾を矛盾のまま、抱えていたっていい）
 絵名: （だけど、足を止めないで。 勇気を出して扉を開いたら、その先では——）
 絵名: （きっと今よりも少しだけ、強くなれるから）
-(White cut)
+(White transition)
 (Background change)
 奏: ……さすがだな
 奏: 本当に、この作品の一部になってる
 奏: この世界に、ずっと前からいたみたいに
 穂波: 本当ですね……
 絵名: ——————……♪
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -97,7 +97,7 @@
 鍵山イヲ: ……やっぱり、あなたも絵を描くんだ……
 鍵山イヲ: もちろんだよ。 なんでも聞いて
 絵名: あ、ありがとうございます……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -111,4 +111,4 @@
 絵名: ——次の課題も、頑張らなきゃね
 絵名: 次の課題は『時間』……
 絵名: 時間……それなら、私は——
-(White cut)
+(White transition)

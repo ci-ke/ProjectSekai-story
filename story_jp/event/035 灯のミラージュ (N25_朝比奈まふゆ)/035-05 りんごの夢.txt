@@ -2,7 +2,7 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -17,7 +17,7 @@
 奏: そうだ。 頭を冷やすんだった
 奏: お母さん、昔どうしてたっけ。 ……ええと、水……いや、氷か……
 奏: 氷……冷凍庫で、作ってたっけ……？
-(Black cut)
+(Black transition)
 奏: …………
 奏: う。濡れたタオルを絞るのって、意外と難しい……。 結構力入れないと……っ！
 奏: ええと、これくらいで大丈夫かな。 まふゆのおでこに乗せて、と……
@@ -26,27 +26,23 @@
 奏: ……ええ、と、あとは……ええと……
 奏: そうだ。食べ物。 風邪を引いた時は、りんごとか消化にいいものを 食べるといいって、望月さんが言ってた
 奏: ……りんご。近くのスーパーで買ってこようかな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
 
 奏: ……よかった、ちゃんと売ってて
 奏: あ、でも、今のまふゆには食べづらいかな。 どうやって食べさせればいいんだろう
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 奏: ……そうだ。たしか昔、わたしが風邪を引いた時に お母さんがりんごをすりおろしてくれたっけ
 奏: すりおろし……ええと、包丁……？ いや、大根おろし器かな……
 奏: …………
 奏: ……痛っ！ すりむいちゃった
 奏: やっぱり……お母さんみたいには、うまくいかないな
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ……う、ん……
 まふゆ: ……ここは……？ わ、たし……
@@ -69,12 +65,10 @@
 まふゆ: …………。 ありが、とう……
 まふゆ: …………——
 奏: ……ずっと、そばにいるよ
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼いまふゆ (まふゆ): けほ、けほ……
 まふゆの母: まふゆ、具合はどう？
@@ -96,15 +90,15 @@
 まふゆの母: ふふっ。まふゆは、うさぎさん大好きだものね
 まふゆの母: ちょっと待っててね。 …………はい、できたわ
 幼いまふゆ (まふゆ): ありがとう……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000004/bg_s000004.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000004/bg_s000004.webp)
 まふゆの母: ちゃんと食べられる？　まだ、起きるのはつらいかしら
 幼いまふゆ (まふゆ): ん……ちょっと、つらい
 まふゆの母: ……しょうがないわね。 はいまふゆ、あーんして
 幼いまふゆ (まふゆ): あーん
 幼いまふゆ (まふゆ): ……おいしい。 ありがとう、おかあさん
 まふゆの母: ふふっ、どういたしまして
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: お母さん、ちょっとベランダでお洗濯物干してくるわね。 おとなしく寝てるのよ
 幼いまふゆ (まふゆ): …………、ねえ。おかあさん
@@ -113,10 +107,8 @@
 まふゆの母: ……ふふっ。今日のまふゆは甘えん坊さんね
 まふゆの母: いいわよ。ほら、ねーんね……。 まふゆは、いいこ……
 幼いまふゆ (まふゆ): えへへ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………、ん……
 まふゆ: （……今のは……私の子供の頃の……？）
@@ -125,4 +117,4 @@
 まふゆ: （奏の曲を聴いた時に感じた、あたたかい気持ち……）
 まふゆ: （あれは……あの時の気持ちに、似てたんだ）
 まふゆ: （あの時、りんごを食べた時の……気持ちに）
-(Black cut)
+(Black transition)

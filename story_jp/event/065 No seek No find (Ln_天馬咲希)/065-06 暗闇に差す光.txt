@@ -14,10 +14,8 @@
 咲希: あ、あった！
 咲希: ……すっかり忘れてたけど、懐かしいな。 結構恥ずかしいことも書いてたような気がする
 咲希: で、あの思い出の時期は…… たしか、中３の５月くらいだったっけ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: （遠くの病院に入ることになって、 周りから本当に誰も知ってる人がいなくなって…… すごく寂しかったんだよね）
 咲希: （ひとりでいると病室が静かすぎて落ち着かなかったから、 テレビをつけたんだ）
@@ -37,11 +35,9 @@
 中学生の咲希 (咲希): アタシの体が弱いせいで……
 中学生の咲希 (咲希): ……みんなとの大切な思い出の場所に、 いつも、アタシだけいない……
 中学生の咲希 (咲希): ——っ……
-(White cut)
-
-(Memory cut-out)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000097/bg_s000097.webp)
+(White transition)
+(Flashback out)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000097/bg_s000097.webp)
 中学生の咲希 (咲希): アタシ……どうしてこうなんだろ？
 中学生の咲希 (咲希): 小さい頃からずっと—— 小学校も中学校も、何度も何度も入院して……
 中学生の咲希 (咲希): たまに遊びに行けても、 無理はできないから、旅行とかにも絶対に行けなくて……
@@ -60,51 +56,41 @@
 中学生の咲希 (咲希): ……アタシ、ずっとこうなのかな……
 中学生の咲希 (咲希): ずっと病院の中で……ひとりで…… 高校にもいけなくて……
 中学生の咲希 (咲希): やだ……そんなの、やだよ……
-(Black cut)
+(Black transition)
 (Background change)
 中学生の咲希 (咲希): ひとりぼっちにしないでよ……！
-(White cut)
+(White transition)
 (Background change)
 咲希: ……やっとわかった。 どうして、曲をうまく作れなかったのか……
 咲希: アタシ……一番寂しくて、一番つらかったことは、 思いださないようにしてたんだ
 咲希: だって、思いだすとすごく苦しくて、 それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……口にだしたら、みんなのこと悲しませちゃうから
 咲希: そんな気持ちを曲にしても、 聴いてくれた人を悲しくさせちゃうし、って 知らないうちに思っちゃってたんだろうな
 咲希: （でも……）
 咲希: （朔さんの曲は、もっと深いところを描いてた）
 咲希: （アタシがつらくて悲しくて、 向きあうのが怖いって思ったことを ちゃんと曲に乗せてた……そんな気がする）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ライブハウスの客達: やっぱり、朔の曲は染みるな
 ライブハウスの客達: うん……。 心にスッと入ってくるよ……
-(White cut)
+(White transition)
 (Background change)
 咲希: ……わかる、気がする
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: 書かなくちゃ…… この気持ちを、音にしなくちゃ……！
 咲希: ……そう、Aメロはこんな音。 連休でみんなが楽しんでる季節。 でも、アタシはそうじゃなかった……
 咲希: そうじゃ、なくて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の咲希 (咲希): っ……うっ……お願い……
 中学生の咲希 (咲希): 置いて、いかないでよ……
@@ -127,10 +113,8 @@
 中学生の咲希 (咲希): ふふっ……
 中学生の咲希 (咲希): ……いっちゃんも、今一緒に、空を見てるのかな……
 中学生の咲希 (咲希): なんだか……同じ場所にいるみたい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: …………そうだ
 咲希: あの時、いっちゃんが アタシを助けてくれたんだ
@@ -143,7 +127,7 @@
 咲希: ここは……こんな簡単な気持ちじゃない。 もっと、深いところまで考えなくちゃ……
 咲希: もっと思いださなきゃ……。 あの時の……寂しさの奥にある、もっと暗い気持ち——
 咲希: きっと、音にできる……！
-(Black cut)
+(Black transition)
 咲希: ……はぁっ。 ちょっとずつ形になってきた……
 咲希: ……って、もう５時……！？ 学校あるし、ちょっとだけでも寝なきゃ……！
 咲希: ……でも……
@@ -151,7 +135,7 @@
 咲希: ——ううん。やろう
 咲希: 今休んじゃったら、この熱が冷めちゃう気がする。 学校に行くギリギリまで、思いついたことを書き留めてみよう
 咲希: それで、アタシの気持ちの全部を、思いっきりこめよう……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [レッスンスタジオ]
@@ -197,4 +181,4 @@
 志歩: ……それが約束できるなら、何も言わない
 咲希: うん……うんっ！ 約束するよ！
 咲希: ありがとう、みんな……！ アタシ、がんばるね！
-(Black cut)
+(Black transition)

@@ -8,7 +8,7 @@ Mizuki: Mafuyu! Are you there...!?
 Mizuki: I don't see her...
 Mizuki: It might be better that I don't find her here, but if something like that other time happens again...
 Mizuki: I have to keep looking...!
-(Black cut)
+(Black transition)
 Mizuki: Hm? Is that...?
 Mizuki: MEIKO! Perfect!
 MEIKO: Mizuki...?
@@ -30,7 +30,7 @@ Mizuki: We can keep making songs and go on trips like this from time to time!
 Mizuki: Anyways, I should head back and find Mafuyu.
 MEIKO: Okay.
 MEIKO: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Abandoned School]
@@ -42,10 +42,10 @@ Mizuki: Huh? Ena, what's up?
 Ena: We came to tell you that we found Mafuyu wandering around over there. Kanade should be with her now.
 Ena: Why does she always end up doing this, honestly...?!
 Mizuki: Thanks, Ena! Let's go!
-(Black cut)
+(Black transition)
 Ena: Hey, Kanade!
 Mizuki: Is Mafuyu...? Whoa...!
-(White cut)
+(White transition)
 (Background change)
 Mizuki: That cherry blossom tree's huge...!
 Ena: It's so beautiful...!
@@ -62,10 +62,8 @@ Mizuki: (Huh...?)
 Mizuki: (I don't understand. It's like cherry blossoms look prettier than they always have...)
 Mizuki: (I get that this tree's really huge, but they just look like regular old cherry blossoms...)
 Mizuki: (The last time I saw cherry blossoms...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 New Student A: Look at those cherry blossom trees...! I can't believe they're this close to our school...!
 New Student B: Oh, are you a new student too? Wanna walk to school together? 
@@ -89,10 +87,8 @@ Classmate A's Voice: Don't worry. I went in knowing that I'd get turned down.
 Mizuki: ...
 Mizuki: How can anyone think that they're this pretty?
 Mizuki: I just don't understand...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Back then, everything looked so dull...)
 Mizuki: (But now, everything looks...)
@@ -113,4 +109,4 @@ Mizuki: They're so pretty that it's unfair...
 Mizuki: (There's a part of each of us that isn't really normal...)
 Mizuki: (But that's also why we're together like this now...)
 Mizuki: This is nice...
-(Black cut)
+(Black transition)

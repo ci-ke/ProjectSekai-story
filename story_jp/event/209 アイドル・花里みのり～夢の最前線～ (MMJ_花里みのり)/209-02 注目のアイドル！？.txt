@@ -30,7 +30,7 @@
 みのり: はいっ！
 (Background change)
 みのり: 花里みのり、全力でがんばります！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -46,13 +46,13 @@
 愛莉: “お仕事についてどう思ってますか？”とか 聞かれる可能性はあるんじゃないかしら
 みのり: わわわ！　ちゃんと考えておかないと……！
 リン (MMJ): えへへ。でも、密着取材かあ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000604/bg_s000604.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000604/bg_s000604.webp)
 リン (MMJ): じゃあ、わたしはミクちゃんに 密着取材しちゃお～っと！
 ミク (MMJ): えっ、わ、わたし！？
 リン (MMJ): うん！　ミクちゃんって可愛くて アイドルって感じだから♪
 ミク (MMJ): 嬉しいけど……いきなり言われると 緊張しちゃうなあ
-(White cut)
+(White transition)
 (Background change)
 リン (MMJ): はーい、じゃあ質問しまーす♪
 リン (MMJ): ミクちゃんは、練習で気を付けてることはありますか？
@@ -84,4 +84,4 @@
 愛莉: やる気は十分みたいね
 みのり: うんっ！
 みのり: よ～し！ みんなに希望を届けられるように、 どの仕事も全力でやるぞ～っ！！
-(Black cut)
+(Black transition)

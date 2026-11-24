@@ -22,7 +22,7 @@
 絵名: 『あ、私も。 このあいだ上げてもらった歌詞にあわせてラフ描いたんだけど イメージ合うか見てくれない？』
 まふゆのメッセージ (まふゆ): 『わかった』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: …………
 まふゆ: （今聴いてみると、この詞はメロディーに合わないかも。 もう少しストレートに……）
@@ -50,7 +50,7 @@
 ミク (N25): 『ちょっと、表情がやわらかくなった』
 まふゆ: あ……
 まふゆ: ……そう、かもしれない
-(Black cut)
+(Black transition)
 (Background change)
 まふゆのメッセージ (まふゆ): 『歌詞、調整したよ』
 奏: 『あ、雪ありがとう』
@@ -90,7 +90,7 @@
 瑞希: 『……！　ありがとう、雪！』
 絵名: 『待ってるからね』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [夕方]
@@ -116,7 +116,7 @@
 まふゆの母: ……すみません、どういうことでしょうか
 まふゆの母: テストの採点は、もう終わっているんですか？
 教師: え？　この前、返却したのですが……。 まふゆさんから聞いていませんか？
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -129,22 +129,18 @@
 まふゆの母: …………当日欠席？
 まふゆの母: ……いえ、そうですね。根を詰めてはいるので……。 頑張りすぎないように、私も気にかけておきます
 まふゆの母: …………はい、ありがとうございます
-(Black cut)
+(Black transition)
 まふゆの母: …………
 まふゆの母: （……あの子……）
 まふゆの母: （テストが返ってきたことも話さないで、 黙って予備校も休んで……）
 まふゆの母: やっぱり——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000175/bg_s000175.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000175/bg_s000175.webp)
+(White transition)
+(Flashback out)
 (Background change)
 まふゆの母: （このまま、まふゆが勉強に集中できない状態が続いたら 受験に失敗してしまう）
 まふゆの母: （そうしたら——まふゆは、いきたい学校にもいけない）
 まふゆの母: …………それは、絶対に駄目だわ
-(Black cut)
+(Black transition)

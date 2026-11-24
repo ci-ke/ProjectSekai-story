@@ -13,20 +13,16 @@ Rui: I came to ask Tsukasa if he wanted to eat lunch together, but...
 (Background change)
 (Background change)
 Rui: It seems he's hard at work ahead of our session after school.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: I...might be held back a year!
-(White cut)
+(White transition)
 Tsukasa: There are going to be supplementary classes all through next week, and there's a test on the last day that will determine whether I'm held back or not.
-(White cut)
+(White transition)
 Tsukasa: I've swallowed my pride to ask something of you. Please, help me study!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: But I'm not surprised that Tsukasa's already started studying by lunch break.
 Rui: I'd hate to distract him, so I suppose I'll go to the school store alone.
@@ -47,15 +43,11 @@ Toya: For one thing, you're far more intelligent than I am. Also...
 Toya: You have taught me many things in the past, and always in very easy-to-understand terms.
 Rui: Is that so?
 Toya: Yes. Take, for example, the time I was an extra in that wedding ceremony.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: Ah, yes. We put on a wonderful show thanks to all of you.
 Toya: I think so too.
@@ -66,18 +58,14 @@ Rui: Thank you, Aoyagi. Any praise of my work is always welcome.
 Rui: (I want to help him if I can. He's been my junior for almost a year now.)
 Rui: (But I have a previous engagement... It might be difficult to help Aoyagi too.)
 Rui: (But, no...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: How about we take a group photo together?
-(White cut)
+(White transition)
 Rui: Yes. I'd like to have something to commemorate this day with.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Kamishiro?
 Rui: Oh, sorry about that. I was lost in thought.
@@ -106,7 +94,7 @@ Toya: Understood. Thank you for agreeing to this.
 Rui: (Well... It really isn't like me to suggest something like making memories with a study session.)
 Rui: Well then, I'd better go prepare. After all, our friends' academic futures hang in the balance.
 Rui: I know I said all that, but... With their grades at stake, I need to be responsible.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -131,7 +119,7 @@ Rui: Oh well. It's hard to say no to my junior.
 Rui: Everyone, well done on making it through a tough week. Although it's somewhat belated, let's enjoy this little after-party!
 Rui: On that note, cheers!
 Everyone: Cheers!
-(Black cut)
+(Black transition)
 Toya: Akiyama, would you mind sharing some of your French fries with us?
 Mizuki: Sure thing! Grab me some serving plates!
 Tsukasa: Thank you! We appreciate it!
@@ -142,36 +130,32 @@ Akito: Wait, do you not eat vegetables?
 Rui: No, I do not. It is beyond my comprehension what anyone sees in these things.
 Mizuki: Guess that hasn't changed. Wanna trade your broccoli for my salami?
 Rui: Oh, I would be happy to. Thank you, Mizuki. Don't mind if I do...
-(Black cut)
+(Black transition)
 Rui: By the way, I heard from Mizuki that you three might have to leave partway through. Are you still okay for time?
 An: Oh, that's okay! My dad canceled practice for today and told us to spend time with our friends!
 An: He said, “They stayed back after school for a whole week for you, so go hang out with them.”
 Rui: In that case, I'm glad.
-(Black cut)
+(Black transition)
 Toya: I'm going to get a drink. Where's the juice bar?
 Akito: Oh, I saw it by the entrance.
 Mizuki: Safe travels♪ I recommend a melon soda and cola mocktail! It's one part—
 Akito: Hey, don't go giving him weird ideas.
 Rui: I'll go with you, Aoyagi. I'd like to get a soup refill.
 Toya: Okay, let's go together.
-(Black cut)
+(Black transition)
 Rui: Oh, by the way. I wanted to say something to you, Aoyagi.
 Toya: To me? What is it?
 Rui: I wanted to thank you again.
 Rui: Both the study session and this after-party have been very fun. Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Here you go!
-(White cut)
+(White transition)
 Mizuki: An, I'm rooting for you to make it into second year armed with this!
 An: Thank you, Mizuki! I'll make good use of it!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: I've seen new sides to everyone, and it's been a very good experience.
 Rui: So, I want to thank you for coming to me about the supplementary classes.
@@ -183,4 +167,4 @@ Rui: Hehe. Then I'm glad. That makes two of us coming out of this having made so
 Rui: Oh, it looks like we're missing out on the fun over there.
 Toya: It does indeed. Why don't we go back and join them?
 Rui: Yes, let's.
-(Black cut)
+(Black transition)

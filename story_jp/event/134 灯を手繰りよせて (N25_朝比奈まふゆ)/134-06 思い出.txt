@@ -5,31 +5,23 @@
 [寝室]
 
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: この世界に、味方になってくれる人は 思ったよりいるんじゃないかなって
 瑞希: もし、ちゃんと話したら…… 『話してくれてありがとう』 『何があっても味方でいるよ』って、言ってもらえるかもしれない
 瑞希: ……そんな気がするんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……本当に……）
 まふゆ: （……本当に、そう言ってもらえたら……）
 まふゆ: ……でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 ？？？: 『——まふゆ』
@@ -45,15 +37,11 @@
 リン (N25): 『…………』
 まふゆ: ……お父さんは、私のために毎週会いに来てくれてるのに 私は……何もできてない
 まふゆ: それに……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 私のことで、お父さんにあんな顔をさせてる
 まふゆ: ……だから……
@@ -73,10 +61,8 @@
 まふゆ: でも——
 まふゆ: 『お父さんは私達のためにお仕事を頑張ってくれてる』 『お父さんのために、いい子で頑張りましょうね』って お母さんは、いつも言ってた
 まふゆ: それで……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -91,7 +77,7 @@
 まふゆの母: お仕事だからしかたないのよ。 でも、お母さんがまふゆのかっこいいところを たくさん撮ってあげるわ
 まふゆの母: それで、お父さんに見てもらいましょう
 幼いまふゆ (まふゆ): ……うんっ！ かけっこ、がんばるね！
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: ハッピーバースデー、まふゆ！
 まふゆの母: ケーキのろうそく、消してちょうだい
@@ -107,7 +93,7 @@
 幼いまふゆ (まふゆ): わたしたちのために、がんばってるんだもんね！
 まふゆの母: ふふ、そうね。 明日は早く帰れそうだって言ってたから、 あとでプレゼントのお礼を言いましょうね
 幼いまふゆ (まふゆ): はーい！
-(White cut)
+(White transition)
 中学生のまふゆ (まふゆ): （……明日は、高校の入学式か……）
 中学生のまふゆ (まふゆ): （学校も同じだし、別に何かが変わるわけじゃないけど——）
 中学生のまふゆ (まふゆ): あ……
@@ -120,10 +106,8 @@
 まふゆの父: すまない、まふゆ。 寿司は出張から戻ったあとになりそうだ
 中学生のまふゆ (まふゆ): ううん、大丈夫だよ
 中学生のまふゆ (まふゆ): お仕事頑張ってきてね、お父さん
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……ずっと、そんな感じだったな
 リン (N25): 『…………』
@@ -134,8 +118,8 @@
 まふゆ: 他に……
 まふゆ: あとは——
 リン (N25): 『……！！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000323/bg_s000323.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000323/bg_s000323.webp)
 リン (N25): 『な、何……今の音……？』
 まふゆ: 今の？
 まふゆ: ああ、ただの雷だよ
@@ -143,7 +127,7 @@
 リン (N25): 『……っ！！』
 まふゆ: ……大丈夫？
 リン (N25): 『だ、大丈夫……だけど……』
-(White cut)
+(White transition)
 (Background change)
 リン (N25): 『ま、まふゆ……怖くないの？』
 まふゆ: 私は……
@@ -151,16 +135,12 @@
 まふゆ: 誰から——
 まふゆの父のメッセージ: 『すごい雷だったが、大丈夫か？』
 まふゆ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (N25): 『まふゆ？』
 まふゆ: ……もうひとつ、あった
-(Black cut)
+(Black transition)

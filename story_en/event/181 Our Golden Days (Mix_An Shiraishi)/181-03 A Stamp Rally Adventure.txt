@@ -21,7 +21,7 @@ An: I can stamp things really neatly now. Just watch!
 Saki: No, An, that's...!
 Emu: The box for the next location!
 An: What?! No, you're right...!
-(Black cut)
+(Black transition)
 (Background change)
 Emu: The deity of the sea is supposed to be enshrined here!
 Mizuki: Apparently, the fishers of this island all come here to pay their respects before the start of each fishing season.
@@ -31,7 +31,7 @@ Emu: Yup! We wanted to be able to tell everyone about all the great things this 
 Haruka: Right. After all, this festival is about revitalizing the island.
 An: Then, why don't we take the chance to pay our respects? We can wish for the festival to go well tomorrow.
 Haruka: Should we really be asking the deity of the sea for that?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Zoo)
 Emu: This zoo also has a petting area♪ That means we'll get to play with all kinds of different animals!
@@ -45,7 +45,7 @@ An: I know, right? I can't wait to see what their fur feels like and stuff!
 An & Saki: She gets it!
 Mizuki: Haha! You two look like peas in a pod for some reason!
 An & Saki: Huh?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Neighborhood]
@@ -59,18 +59,18 @@ Saki: Wow...! I've never been to many stores like that before, so I'd love to ch
 Emu: We should all do some shopping there!
 An: Yeah, let's do that! I was just hoping to grab something cold to drink.
 Mizuki: I'm gonna get me some ice cream!
-(Black cut)
+(Black transition)
 Mizuki: Mmm♪ Freezing cold ice cream really does wonders for a tired body.
 Emu: It sure hits the spot♪
 Saki: Haha. We have been walking a lot! Oh!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000497/bg_s000497.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000497/bg_s000497.webp)
 Saki: Hey, you guys, check it out! My stick says “Winner!”
 Mizuki: Oh, Saki, it's your lucky day!
 Saki: Hehe. I have superhuman luck! Not♪
 An: I know! How about I take a picture of you to celebrate?
 Saki: Oh, you'll do that? Then, if you don't mind!
-(White cut)
+(White transition)
 (Background change)
 An: Ready? Say, “Cheese!”
 Candy Store Owner: Hehe. You're a wonderfully lively bunch.
@@ -89,4 +89,4 @@ Mizuki: That sounds really nice! We're also having a lot of fun right now!
 Candy Store Owner: Hehe. I hope you'll all make the most of each day.
 Candy Store Owner: Because time flies when you're having a lot of fun.
 Emu: Time flies...
-(Black cut)
+(Black transition)

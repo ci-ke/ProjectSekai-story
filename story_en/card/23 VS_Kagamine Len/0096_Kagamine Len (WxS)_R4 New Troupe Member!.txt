@@ -16,7 +16,7 @@ Len: Huh? What's that walking this way? Is that a stuffed animal?
 Plushie: Hi there! You must be a new guest!
 Len: Whoa! You can talk! Hey, do you know where I can find Miku and KAITO?
 Plushie: Troupe leader KAITO and Miku? Sure! Follow me!
-(Black cut)
+(Black transition)
 Singing Flower: ～～～♪
 Len: What's with that flower?
 Plushie: Oh, she's a very talented singer! Why don't you say hello?!
@@ -28,7 +28,7 @@ Singing Flower: ～♪
 Plushie: I see! She wants to help show you the way. Do you mind if she comes along?
 Len: You're going to help me find Miku and KAITO? Thanks!
 Plushie: Alright, let's go find Troupe Leader KAITO!
-(Black cut)
+(Black transition)
 Miku (WxS): Oh, it's Len! Hi ho!
 KAITO: Welcome, Len! It's great to see you.
 Len: Hi ho, KAITO, Miku! So I heard the one who made this SEKAI was able to find his true feelings.
@@ -50,12 +50,12 @@ KAITO: With that kind of enthusiasm, I couldn't possibly refuse. Very well, then
 Plushie: You're doing a show! I want to join!
 Singing Flower: ～♪
 Miku (WxS): Of course! We can all be part of the show!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): Alright, let the show begin!
 Len: (Wow! This is amazing! Miku and KAITO are like completely different people up there!)
 Len: (I'd love to be part of a show like this! I wonder if they'd let me give it a try!)
-(Black cut)
+(Black transition)
 Miku (WxS): What did you think of the performance, Len?!
 Len: It's was great! The song and dance was really cool, too! Everyone looked so dazzling!
 Miku (WxS): Hehehe! Thanks, Len! I'm glad we could put a smile on your face!
@@ -75,7 +75,7 @@ KAITO: Good answer. In that case, welcome to the troupe.
 Miku (WxS): Hurray! We've got a brand new member! We're gonna have lots of fun, Len☆
 Len: Yeah! Thanks for having me!
 Len: Hehehe. I can't wait to start making shows together!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -100,36 +100,28 @@ Len: Hrng... This is going to take even more prep work than I thought...
 Len: I think I'm getting a good overall picture, though. Let me give it some more thought.
 Len: Thanks for the suggestions!
 Plushie: Sure! Good luck!
-(Black cut)
+(Black transition)
 Len: Backgrounds, lighting, production, music... Then there's the script, costumes, and casting... So much to do...
 Len: Making a show sure isn't easy.
 Len: For the audience, the show goes by before you realize it, but the time it takes to prepare could be a hundred times as long as that.
 Len: I wonder if I can do something this tough on my own...
 Len: Probably not...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: Do you think you can push through to the end even when things get tough?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len: Oh, I nearly forgot! I promised I'd see things through to the end no matter what!
 Len: But I really don't think I can do this on my own. What am I going to do?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: Creating performances is a lot of hard work. They aren't something you can do on your own.
 KAITO: I want you to promise you'll remember that great shows rely on everyone working together.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len: You can't make great shows on your own...
 Len: Oh! This must be what KAITO meant when he said that!
@@ -143,7 +135,7 @@ Len: Well, I don't think I can do this on my own. I was just going to find you t
 Miku (WxS): We'd love to help! Do you have an idea of what kind of show you want to do?
 Len: Yeah! I'm just not really sure where to start...
 Miku (WxS): In that case, let's get everyone here! If we all work together, we'll be done in no time!
-(Black cut)
+(Black transition)
 Miku (WxS): KAITO, look! We finished another costume! What do you think?
 KAITO: It looks great. Can I get you to start on the main character's costume next?
 Miku (WxS): Sure! We'll get right on it!
@@ -159,4 +151,4 @@ Len: I think I finally understand what you meant!
 KAITO: I'm glad to hear that. I always believed you'd realize it sooner or later.
 Len: Hehe. I have everyone here to thank for that.
 Len: Alright! Let's all make this show a huge success together!
-(Black cut)
+(Black transition)

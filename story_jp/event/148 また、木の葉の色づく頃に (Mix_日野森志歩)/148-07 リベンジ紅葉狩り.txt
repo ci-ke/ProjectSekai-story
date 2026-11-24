@@ -45,22 +45,18 @@
 志歩: （今回の旅行も、無駄なく効率のいい行動ができるようにって、 計画を立てて動こうとして……）
 志歩: （こんな風に、計画通りにいかなかったら 失敗したって思っちゃう）
 志歩: （だけどみんなは、失敗とか成功とか、 そんなんじゃなくて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: それは無論……切符のほうが旅っぽいからだ！！
-(White cut)
+(White transition)
 (Background change)
 咲希: ぜーったいアタシが、一番おいしいブドウ採るんだから！
-(White cut)
+(White transition)
 (Background change)
 雫: こうして見てると——１枚の絵みたいじゃない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （——目の前で起きたことを……いつもすごく、楽しんでる）
 志歩: （その一瞬一瞬の気持ちを、大事にしてるんだ）
@@ -79,13 +75,13 @@
 咲希: 見て見て、ちょっと晴れてきたよ！
 司: おお、本当だ！　雲の隙間から光が差し込んできて……
 雫・咲希: 『まあ……！』 『わあ……！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000374/bg_s000374.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000374/bg_s000374.webp)
 咲希: 紅葉が……すっごくキラキラしてる……！
 志歩: ……綺麗だね
 雫: ええ。とっても……
 司: 紅葉の赤と夕陽のコントラスト……まさに絶景だな！
-(White cut)
+(White transition)
 (Background change)
 雫: ふふ。雨の紅葉も、雨上がりの紅葉も 両方見られちゃったわね
 司: ……これも、志歩がコースを考えてくれたおかげだな
@@ -94,4 +90,4 @@
 志歩: いや、こんなのただの偶然だから。 むしろ、プラン通りにいってないし
 志歩: （でも……）
 志歩: （この笑顔が見られたのは、よかった……かな）
-(Black cut)
+(Black transition)

@@ -16,7 +16,7 @@ Gacha phrase: アンコール！　アンコール！
 遥: ごめん、そろそろ行くね
 咲希: うん、また明日！ みのりちゃんも、がんばってねー！
 みのり: う、うん！　ありがとう、咲希ちゃん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [屋上]
@@ -25,19 +25,15 @@ Gacha phrase: アンコール！　アンコール！
 遥: 気にしないで。 昨日のことをちょっと話してただけだから
 みのり: 昨日のこと？
 遥: うん。カラオケに行ったこととかね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: L・O・V・E！　お～～～！　は・る・か！
 みのり: Hey！　Hey！　LOVE＆PEACE！
 みのり: アンコール！　アンコール！
 遥: えーっと……。次、みのりが歌う番だよ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: あはは……。 わたし、結構はしゃいじゃってたよね
 遥: でもみのりのコールのおかげで、 ライブの時とかを思い出して、ノリノリで歌えて楽しかったよ
@@ -87,7 +83,7 @@ Gacha phrase: アンコール！　アンコール！
 みのり: うん！　近くの公園で待ちあわせして、 一緒に歩いたり、もふもふしたり！　どうかな？
 遥: ふふ、そうだね。みのりがそこまで言う サモちゃんのもふもふ度を、ちょっと確かめたいな
 みのり: うん、ぜひぜひ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -135,7 +131,7 @@ Gacha phrase: アンコール！　アンコール！
 遥: あごの下だね……ふふ、本当だ。 サモちゃん、気持ちよさそう
 サモちゃん: くぅ～ん
 みのり: （遥ちゃんが楽しそうでよかったぁ。 やっぱりもふもふは究極の癒しだよね！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -170,4 +166,4 @@ Gacha phrase: アンコール！　アンコール！
 みのり: だから遥ちゃんには、 ぜひしばおも撫でてほしいな
 遥: そうなんだ。 いいね、機会があったら触らせてもらいたいな
 みのり: うん！　いつか絶対、紹介するね！
-(Black cut)
+(Black transition)

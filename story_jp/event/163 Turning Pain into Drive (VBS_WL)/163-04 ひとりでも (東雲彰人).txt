@@ -3,7 +3,7 @@
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
 (Video: link2_street_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -16,7 +16,7 @@
 彰人: 『ああ、少し目眩がしただけだ』
 スタッフ: 『おいおい、ステージ中にぶっ倒れるなよ？』
 彰人: 『問題ねえ。 ——思いっきり客席をわかせてやるよ』
-(Black cut)
+(Black transition)
 (Background change)
 彰人: 『♪———————！　——————！』
 彰人: （そうだ、もっと上がれ……！）
@@ -26,7 +26,7 @@
 彰人: （まだだ。まだ足りねえ……！）
 彰人: 『♪——————————！』
 彰人: （オレは、もっと——！）
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ふう……
 スタッフ: 『いい盛り上がりだったな、アキト！』
@@ -41,7 +41,7 @@
 スタッフ: 『さっき、サム達が探してたぞ。 お前を打ち上げに誘いたいってな』
 彰人: （——たしかに、他のミュージシャンから話を聞くのも いい発見があるんだよな）
 彰人: 『……わかった。参加させてもらう』
-(Black cut)
+(Black transition)
 (Background change)
 
 [打ち上げ会場]
@@ -65,20 +65,16 @@
 彰人: 『オレはもう、誰とも組まないって決めてるんで』
 ミュージシャン達: 『……なんだ、何かあったのか？』
 彰人: 『別に…………』
-(White cut)
+(White transition)
 (Background change)
 彰人: 『Vivids』が解散……？
 冬弥: ……ああ
 彰人: ………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: くそっ……！
 彰人: ……あそこで立ち上がれないようなら、 それまでだったってことだ
@@ -92,10 +88,8 @@
 冬弥: 俺は…………
 冬弥: ——これ以上、子供の遊びに付き合っていられない
 彰人: っ……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （…………最初は、また親父絡みかと思った）
 彰人: （けど、あいつは“もうやめる”の一点張りで……）
@@ -120,4 +114,4 @@
 彰人: （妙に、耳に残る声だったな）
 彰人: ん？　メッセージ……誰からだ？
 彰人: …………！
-(Black cut)
+(Black transition)

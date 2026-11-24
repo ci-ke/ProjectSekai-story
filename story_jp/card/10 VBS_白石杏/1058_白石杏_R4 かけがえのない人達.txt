@@ -34,7 +34,7 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 杏: ……え？　今、路地の先で何か光らなかった？
 リン (VBS): わたしも見た！　想いの欠片みたいな光だったよね！
 ミク (VBS): ……行ってみようか
-(Black cut)
+(Black transition)
 杏: ——あった！　さっき光ったの、 このガラスの破片みたいなヤツじゃない？
 ミク (VBS): 想いの欠片とよく似てるけど……
 リン (VBS): でも、なんだか変じゃない？ こんな風に割れちゃってるし
@@ -43,7 +43,7 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 ミク (VBS): あ、待って——！
 杏: え？
 杏: わっ、なになに！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -84,7 +84,7 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 杏: …………！
 杏？ (杏): ……ねえ、忘れちゃおうよ。 あんな勝手な人達のことなんて、ぜーんぶ
 杏？ (杏): そうすれば、もう悲しい思いしなくてよくなるんだから——
-(White cut)
+(White transition)
 リン (VBS): わっ！　杏ちゃん……！
 ミク (VBS): 杏！
 リン (VBS): あ……！　杏ちゃん、よかっ——
@@ -98,7 +98,7 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 杏: はじめまして！　私、白石杏っていうの！ よろしくね！
 ミク (VBS): ……まさか、私達のことを忘れてる？
 リン (VBS): えええーーーーっ！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -123,16 +123,12 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 杏: 歌うことだよ！ お父さんにいろいろ教えてもらってるの！
 杏: お父さんもね、すごく歌が上手いんだよ！ 仲がいい人達とチームを組んで——
 杏: あれ？　誰だったっけ……。 チームの名前も、教えてもらったはずなのに……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 杏: なんで、私以外誰も写ってないんだろ？
 杏: 街の人達や凪さんが一緒に写ってるはずなのに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): ……じゃあ、杏のチームのことを教えてよ
 杏: 私の、チーム……
@@ -141,41 +137,29 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 ミク (VBS): ……やっぱり、完全に記憶をなくしてるってわけじゃ なさそうだね
 リン (VBS): 杏ちゃん！　そのRAD WEEKENDのこと、もっと知りたいな！ どんなイベントだったの？
 杏: うん！　えっとね……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………あ、あれ？
 杏: たくさんの仲いい人達と、一緒に見たのに…… うまく、思い出せない
 杏: えっと、そのイベントにはお父さんも出てて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: あれ……
 杏: お父さんの顔、わかんない……
 杏: なんで……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: なんで……？
 杏: すごく……すごく、大切な思い出なのに……。 思い出せない……
@@ -191,16 +175,12 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 ミク (VBS): 少なからず、そうなればいい、そうしたいっていう想いが 杏の中にあったんじゃないかな
 リン (VBS): あ……
 リン (VBS): じゃあ、さっきもうひとりの杏ちゃんが言ってたのって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 杏？ (杏): みんな嘘つきで……
 杏？ (杏): 凪さんだって、私を置いていっちゃったんだから……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ミク (VBS): ……杏の中にあった、想いの一部だろうね
 ミク (VBS): ……杏、どうしたい？ 杏が決めていいよ
 杏: 私、は……
@@ -217,42 +197,32 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 リン (VBS): 今度は、ちゃんと支えるよ……！ ひとりになんてしない！
 杏: …………！
 杏: （そうだ、私は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: それでも、お前は……
 杏の父: ——お前は、オレ達の先に行ける。 凪が見ることができなかった、夢の先に
 杏の父: ここにいる——仲間と一緒に
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: 私は……
 杏: 私達は……っ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
+(White transition)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 杏: …………っ！
 杏: ——忘れない
 杏: 凪さんのことも、大河おじさんのことも、 街のみんなのことも……！
@@ -260,7 +230,7 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 杏: 絶対……
 杏: 絶対、連れていくんだ！！
 杏: 凪さんが行けなかった夢の先に……！！
-(White cut)
+(White transition)
 杏: あ……
 リン (VBS): 杏ちゃん……！
 杏: リンちゃん……
@@ -284,7 +254,7 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 杏: だから、私が死ぬまでずっとずっとずーっと覚えておいて、 いつか天国で凪さんに言ってやるんだ
 杏: よくもやってくれたな！って
 もうひとりの杏 (杏): ……それ、いいね
-(White cut)
+(White transition)
 (Background change)
 杏: ……ふうー！　戻ってこれたー！
 杏: ミク、リンちゃん、本当にありがとう。 ふたりが一緒じゃなかったら、とんでもないことになってたかも
@@ -295,4 +265,4 @@ Gacha phrase: ちゃんと、覚えていたいんだ。全部
 ミク (VBS): オッケー。付き合うよ
 杏: ありがとう！
 杏: さあ、歌おう！
-(Black cut)
+(Black transition)

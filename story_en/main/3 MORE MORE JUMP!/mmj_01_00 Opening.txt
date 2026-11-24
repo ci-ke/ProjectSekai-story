@@ -9,18 +9,16 @@ mmj_01_00 Opening
 (Fullscreen text): My new hat would get blown away by a gust of wind,            my favorite shoes would get splashed                            by a passing car...
 (Fullscreen text):        No matter how hard I tried, so many things would still go wrong.           And I just got sick of it...
 (Fullscreen text): That's when I saw Haruka on TV.              She was an idol.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Minori's Mom: Minori, your stomach medicine's on the living room table. Call me at work if you need anything, okay?
 Little Minori (Minori): Okay...
 Little Minori (Minori): (I'm totally playing hooky today. I know it's not good to, but I just don't feel like going...)
 Little Minori (Minori): (Everyone's probably still angry at me for dropping the baton during that race...)
 Little Minori (Minori): (It's always like this... I do everything I can, but things just never go well.)
 Little Minori (Minori): If things are always going to end badly, maybe I should just stop trying...
-(Black cut)
+(Black transition)
 (Background change)
 Little Haruka: Hi everyone! I'm Haruka Kiritani of ASRUN! 
 Little Minori (Minori): Huh?
@@ -28,11 +26,9 @@ Little Minori (Minori): (Did Mom leave the TV on?)
 Little Haruka: I'll be singing solo for the first time today. I'm really nervous, but I hope this song will cheer everyone up!
 Little Minori (Minori): Is she an idol? She looks about my age! 
 Little Haruka: ♪〜～～～
-(White cut)
-
-(Memory cut-out)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000001/bg_a000001.webp)
+(White transition)
+(Flashback out)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000001/bg_a000001.webp)
 Little Minori (Minori): Wow!
 Little Minori (Minori): She's so pretty! And she's really good at dancing!
 Little Minori (Minori): (She's sparkling... This is amazing!)
@@ -49,10 +45,9 @@ Little Minori (Minori): ...
 Little Minori (Minori): Okay. I'll go to school, apologize to everyone about the race, and promise to try harder!
 Little Minori (Minori): (It's amazing how much that one sentence was able to cheer me up!)
 Little Minori (Minori): Haruka Kiritani...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
+(Flashback out)
 
 [Some years later]
 
@@ -61,7 +56,7 @@ Little Minori (Minori): Haruka Kiritani...
 Minori: Please let my application be accepted this time!!
 Minori: Yes! It's in the postbox. Now all I have to do is wait for the results to be... Wait, look at the time?!
 Minori: I-I need to hurry!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Rooftop]
@@ -112,16 +107,16 @@ Minori: Atchoo!
 Minori: Wha-wha-wha? I fell asleep?! 
 Minori: On the roof, of all places... I must be tired.
 Minori: And I was having this really funny dream, too... Oh well! Back to practice!
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: Are my documents in order?
 Teacher: Yes, they are. Everything we need is here. But...are you certain about this?
 Haruka: I am. I've already made up my mind...
 Haruka: I'm going to quit being an idol.
-(Black cut)
+(Black transition)
 (Background change)
 Minori: I think I've rested enough. Time to get cracking on that part of the routine I keep tripping over!
 Minori: As long as I keep practicing, I'll definitely become an ideal idol like Haruka one day! More, more!
-(Black cut)
+(Black transition)
 (Video: idol_opening)
-(Black cut)
+(Black transition)

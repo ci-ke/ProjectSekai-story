@@ -37,7 +37,7 @@ Gacha phrase: これが、私達からのご提案です
 (Background change)
 リン (WxS): 『えむちゃん、なんだかかっこいいね……！』
 レン (WxS): 『うん。たくさんメモをとって、質問して、すごいなあ……！』
-(Black cut)
+(Black transition)
 (Background change)
 運営社員: ——社会貢献については以上になります。 他に質問はありませんか？
 えむ: はい。大丈夫です。 たくさんお話を聞かせてくれて、ありがとうございます！
@@ -66,7 +66,7 @@ Gacha phrase: これが、私達からのご提案です
 レン (WxS): 『うん！　見てたら、そんな感じがしたよ』
 リン (WxS): 『ねえねえ　他にも教えてもらったこと教えてほしいな！』
 えむ: いいよ！　えっと、この前教えてもらったお話なんだけど——
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -97,19 +97,15 @@ Gacha phrase: これが、私達からのご提案です
 寧々: え……？
 司: えむがプレゼン……？
 司: それは、こんな感じだろうか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: ぱんぱかぱーん！　みんな、ちゅーもーく！
 えむ: 今日はとってもと～っても楽しいプレゼンをしたいと思います！
 えむ: みんなが笑顔になれるアイディアを考えてきました！
 えむ: きっと、役員の皆さんも 笑顔になれると思うので聞いてくださいっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: なんだか愉快なイメージが浮かんでくるねえ
 寧々: わ、わたしも……
@@ -120,10 +116,8 @@ Gacha phrase: これが、私達からのご提案です
 白虎町: それに、心に訴えかける力もあった。 鳳さんの言葉は経営陣にしっかり届いていたよ
 白虎町: 投げかけられた言葉を真剣に受け止めて、 心を動かされている様子が見てとれたからね
 司: えむの言葉に……心を……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: 皆さん！　桔梗組にとって一番大事なことは、わんだほいです！
 えむ: みんなにわんだほいを届けたい、わんだほいになってほしい……
@@ -134,10 +128,8 @@ Gacha phrase: これが、私達からのご提案です
 えむ: いきますよ～！　せーのっ！
 えむ: わんだほーい！
 役員達: 『わんだほーい！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: な、なるほど……
 類: おそらくだけど、 僕達が想像しているようなものじゃない気がするね
@@ -157,4 +149,4 @@ Gacha phrase: これが、私達からのご提案です
 寧々: お疲れさま、えむ
 えむ: みんな、ありがとう……！
 えむ: プレゼンも運営の勉強も—— これから、もっと頑張りたいな！
-(Black cut)
+(Black transition)

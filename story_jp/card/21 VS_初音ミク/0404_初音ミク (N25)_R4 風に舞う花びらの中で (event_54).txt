@@ -10,16 +10,12 @@ Gacha phrase: 誰か……いる？
 [誰もいないセカイ]
 
 ミク (N25): 桜……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 前、ここに人形が見つかったって言ってたでしょ？ 桜も生えてこないかしら
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （……桜、探したいな。 でも……）
 ミク (N25): あ……。メイコ
@@ -77,7 +73,7 @@ MEIKO: 最後のクローンの話くらいじゃない？ 今の時代とかか
 ミク (N25): （……そうかもしれない。 でも……）
 ミク (N25): （それでも、まふゆが綺麗って思ったなら……）
 ミク (N25): （やっぱり、探してみたいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -142,16 +138,12 @@ MEIKO: 桜の花びら模様っていうわけじゃなくて、 本当に桜の
 奏: 絵名、紙皿出してもらってるから、 先に紙コップとはしとお手拭き渡すね
 ミク (N25): …………
 ミク (N25): （今日は、すごく賑やか……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （花が散っちゃうのは、ちょっと寂しい。 でも……）
 ミク (N25): （お花見は、あったかいな……）
-(Black cut)
+(Black transition)

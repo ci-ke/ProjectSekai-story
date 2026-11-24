@@ -11,18 +11,14 @@ Gacha phrase: ホント酷いセッションだった。けど……
 
 志歩: …………
 志歩: （あの時のセッション……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: はぁ……。 穂波、カウントとって
 穂波: う、うん。 それじゃあ……ワン、ツー、スリー、フォー
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （一歌も咲希も穂波も、 ある程度は弾けるけど……）
 志歩: （テンポもリズムもバラバラで、 あんなの、セッションでもなんでもなかった）
 志歩: （まあ、バンドやってたのは何年も前だし、 そもそも１年近くまともに話してないし、 息なんて合うわけない）
@@ -70,7 +66,7 @@ Gacha phrase: ホント酷いセッションだった。けど……
 志歩: ……やたらと前のめりなところも、なんか似てるな
 みのり: え？
 志歩: なんでもない
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -92,7 +88,7 @@ Gacha phrase: ホント酷いセッションだった。けど……
 穂波: いえ、じゃあわたしはこれで。 志歩ちゃん、放課後にね
 雫: 私はこれからお昼なの、しぃちゃん
 志歩: う……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　中庭]
@@ -128,4 +124,4 @@ Gacha phrase: ホント酷いセッションだった。けど……
 志歩: ……！　だ、だから！　ベタベタしないでって！
 雫: しぃちゃん、大好き！
 志歩: それはわかったから！ 少しはこっちの話も聞いてよね！
-(Black cut)
+(Black transition)

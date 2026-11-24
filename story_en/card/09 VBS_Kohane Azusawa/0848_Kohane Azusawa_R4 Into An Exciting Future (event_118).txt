@@ -59,7 +59,7 @@ Kohane: Orders?! Uhh...
 Kohane: Then... L-Let's head out and keep exploring SEKAI!
 Luka (VBS): Yes, ma'am!
 MEIKO (VBS): Oh, you...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -81,16 +81,12 @@ Kohane: (Hehe. It almost feels like I've been there before.)
 Kohane: (Where is this place? Let's see...)
 Kohane: (Los Angeles... So, this is in the United States?)
 Kohane: (Oh, speaking of the US...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: I was just recently asked to do a US tour... And I plan to accept their offer.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Taiga...)
 Kohane: (I wonder if he's going to perform in Los Angeles during his US tour...)
@@ -103,16 +99,12 @@ Kohane: (It's clear that we've gradually gotten better compared to before. We've
 Kohane: (Still, I can't help but wonder what things are like from Taiga's point of view...)
 Kohane: (He probably sees things completely differently compared to us...)
 Kohane: (I mean...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (He knows what it's like on the other side of that wall.)
 Kohane: (No, not just that. He's gone far beyond that.)
@@ -130,4 +122,4 @@ Kohane: (I know it will. I'm going to go so much further than I ever have...!)
 Kohane: (So...)
 Kohane: (So, for now... I'm going to embrace this pain.)
 Kohane: (And we're going to surpass RAD WEEKEND!)
-(Black cut)
+(Black transition)

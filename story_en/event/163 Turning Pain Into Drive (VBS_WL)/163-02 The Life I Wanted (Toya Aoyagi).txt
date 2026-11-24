@@ -3,7 +3,7 @@
 (Character: Toya Aoyagi)
 
 (Video: link2_street_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -15,7 +15,7 @@ Toya: (I thought I heard someone calling my name just now...)
 ???: “Hey, Toya.”
 ???: “Toya, wake up!”
 Toya: ...
-(Black cut)
+(Black transition)
 (Background change)
 Toya: Where am I...?
 Male Student A: “What are you saying? Our next class is about to start.”
@@ -33,16 +33,14 @@ Toya: “Mr. Hermut's lectures are very interesting, so I'd rather not miss a se
 Male Student A: “You're such a good student, Toya! Are all kids in Japan like you?”
 Toya: “I can't speak for my peers, but... I suppose we are a studious bunch.”
 Toya: “Plus, I'm here because I chose to be.”
-(Black cut)
+(Black transition)
 Teacher: “Rationalism and natural science. As these two schools of thought gained traction throughout Europe, people's core values began to change.”
 Teacher: “In particular, natural science brought about...”
 Toya: (I've been in Vienna as an exchange student for a while now.)
 Toya: (Keeping up with these lectures has been challenging, but I know I'm receiving a high-quality education.)
 Toya: (And Mom is the reason why I've been able to focus on my studies like this.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [A few months earlier]
@@ -56,7 +54,7 @@ Toya: ...
 Toya's Father: Let me guess. You were at an arcade or some other frivolous place.
 Toya's Father: How many times do I have to tell you that you can't afford to waste time like this?
 Toya's Father: Toya...!
-(Black cut)
+(Black transition)
 (Background change)
 Toya's Father's Voice: Just when I thought that he'd given up on that nonsense music, he's still acting like a hooligan. Not only can't I hold a decent conversation with him, he refuses to have dinner with us...
 Toya's Father's Voice: Honestly, what does that boy want to do with his life?
@@ -81,16 +79,14 @@ Toya's Mother: No, it's okay. Actually, Toya...
 Toya: ...?
 Toya's Mother: There's something I've been meaning to ask you for a little while now...
 Toya's Mother: How would you like to go somewhere new...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (After Mom suggested that to me, I immediately decided to leave home and live with Natsuomi.)
 Toya: (Not only do I enjoy learning new things, but foreign cultures have always interested me.)
 Toya: (I can focus on studying without having to worry about anything else.)
 Toya: (It's peaceful.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Natsuomi's Home - Living Room]
@@ -101,7 +97,7 @@ Toya: (I thought I'd cause him a lot of trouble by moving in with him...but he's
 Toya: (Although...)
 Toya: (That might be to both our benefits.)
 Toya: Anyway, I should start making dinner.
-(Black cut)
+(Black transition)
 Toya: Let's see how it tastes.
 Toya: ...
 Toya: The meat's too chewy. I think I overcooked it.
@@ -111,4 +107,4 @@ Toya: (I never would've imagined being able to cook my own meals when I was stil
 Toya: (In that sense, I feel like I've made quite a bit of progress in terms of learning to lead a normal life.)
 Toya: Which is why...
 Toya: I have to believe...that I made the right choice.
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@
 クラスメイト達: ３位だって、まふゆやっぱりすごいよね……！
 クラスメイト達: この前は小論文で賞取ってたし、 成績もトップだし、本当なんでもできるって感じ！
 奏: ……すごいな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -52,7 +52,7 @@
 まふゆ: それなら付き合うよ。 一緒に挑戦しよう
 奏: 朝比奈さん……
 奏: ——うん、やってみたい
-(Black cut)
+(Black transition)
 (Background change)
 奏: えっと……現代社会において、音楽は心を癒やし 幸福な気持ちを与えてくれるため……
 まふゆ: ……うん。最初の頃より、 すごくスムーズに書けるようになったね
@@ -60,7 +60,7 @@
 奏: 作曲と同じで、思いついたところから書いていいんだね。 書いてると、なんだかメロディーが浮かんできたりして——
 奏: 最近は、先に歌詞が浮かんできたりもするし いろんな作り方ができるようになってきたよ
 まふゆ: そうなんだ……。 ふふ、じゃあ次の曲も楽しみにしてるね
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……どうしてだろう。なんだか、うまく描けてない気がする……
 まふゆ: うーん……。 風景はちゃんと描けてるとは思うんだけど、 確かに少しだけ分かりづらいかもしれないね
@@ -79,7 +79,7 @@
 愛莉: いいのよ。絵名も、こういう機会がなきゃ すぐ引きこもっちゃうんだから
 愛莉: ……こういう息抜きも、必要だと思うしね
 まふゆ: そうなんだ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [音楽室]
@@ -93,10 +93,10 @@
 奏: ……朝比奈さん、ありがとう
 まふゆ: え？
 奏: わたし、朝比奈さんが連れてきてくれなきゃ きっと……ここに来れなかったと思うから
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000458/bg_s000458.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000458/bg_s000458.webp)
 まふゆ: ——それなら今日は、思いっきり楽しもうね
 奏: うん！
-(Black cut)
+(Black transition)
 (Video: link2_night_ed4)
-(Black cut)
+(Black transition)

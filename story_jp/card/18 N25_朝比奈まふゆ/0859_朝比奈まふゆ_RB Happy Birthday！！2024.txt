@@ -18,7 +18,7 @@ Gacha phrase: いつもとは少し、違うけど……
 奏: あ……そっか
 まふゆ: でも……少し、食べようかな
 奏: わかった。すぐに準備するね
-(Black cut)
+(Black transition)
 奏・まふゆ: 『いただきます』
 奏: そういえば……今日は、いつもより起きるの早かったね。 学校で何かあるの？
 まふゆ: 今日は委員会。 朝に、先生から少し話しておきたいことがあるんだって
@@ -33,7 +33,7 @@ Gacha phrase: いつもとは少し、違うけど……
 まふゆ: ……ありがとう
 奏: でも……こうして朝におめでとうって言うの なんだか、ちょっと不思議だな
 まふゆ: …………そう、だね
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園]
@@ -45,15 +45,11 @@ Gacha phrase: いつもとは少し、違うけど……
 まふゆの父のメッセージ: 『誕生日おめでとう、まふゆ。 寒い日が続くけど、体調に変わりはないか？』
 まふゆの父のメッセージ: 『また今度、宵崎さんの家にお邪魔するよ。 プレゼントはその時に渡すからね』
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: （…………教室、行かないと……）
@@ -95,18 +91,14 @@ Gacha phrase: いつもとは少し、違うけど……
 まふゆ: …………
 まふゆ: （相変わらず、元気な子だな……）
 まふゆ: （それに……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 まふゆ: （……もしかして、気をつかってくれたのかな）
 まふゆ: …………
 まふゆ: 手……まだ、あたたかい
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -153,7 +145,7 @@ Gacha phrase: いつもとは少し、違うけど……
 一歌: まだまだ寒いですし、 家で作業する時とかに、使ってもらえたら嬉しいです
 まふゆ: そっか……。みんな、たくさん考えてくれたんだね
 まふゆ: 本当に、ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -175,10 +167,8 @@ Gacha phrase: いつもとは少し、違うけど……
 瑞希: そっか！　家でも何かお祝いしたの？
 まふゆ: ……特に、特別なお祝いをしたわけじゃないけど……
 まふゆ: 夕飯は、望月さんが作ってくれたポトフを、３人で食べたよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: あの……よかったんでしょうか。 わたしも一緒に、なんて……
 奏: うん、夕飯にはいい時間だし…… たまには、こういう賑やかなのもいいかなって
@@ -189,23 +179,17 @@ Gacha phrase: いつもとは少し、違うけど……
 穂波: ……あの、朝比奈先輩。 学校では、タイミングがなくて言えなかったんですけど……
 穂波: ——お誕生日、おめでとうございます
 まふゆ: ……ありがとう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: そっか。穂波ちゃんと一緒にご飯食べたんだ
 ミク (N25): ……ゆっくりできた？
 まふゆ: ……うん。それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （ポトフの味は、やっぱりしなかった。けど……）
 まふゆ: ……あたたかかった、と思う
@@ -219,8 +203,8 @@ Gacha phrase: いつもとは少し、違うけど……
 まふゆ: （……奏の家でお祝いされたり…… いつもとは、少し違う誕生日だったけど……）
 まふゆ: （ここは相変わらずだな。それに——）
 まふゆ: （……やっぱり、あたたかい）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000278/bg_s000278.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000278/bg_s000278.webp)
 彰人: 朝比奈さん、誕生日おめでとうございます。 相変わらず、絵名のヤツが世話になってるみたいで…… またいつでも、うちに遊びにきてください
 えむ: 朝比奈センパイ！　おまじないの効き目はどうでしたか？ センパイがニコニコ笑顔でお誕生日を過ごせてたら あたしも、とーっても嬉しいです☆
 類: フフ。えむくんがおまじないをかけたのなら、 きっと素敵な誕生日になったんじゃないかな
@@ -243,10 +227,10 @@ Gacha phrase: いつもとは少し、違うけど……
 奏: 誕生日おめでとう。 こうやって１日に何回もお祝いを言うのって、 やっぱり、なんだか不思議な気持ちだな
 奏: 本当に、いろんなことが変わったけど…… わたしの気持ちは、ずっと変わらない。 絶対にいつか、まふゆを救う曲を作るよ
 奏: だから——これからも、よろしくね
-(White cut)
+(White transition)
 (Background change)
 まふゆ: …………今日は、いろんな人がお祝いしてくれたな……
 まふゆ: いつもと違うことも、たくさんあったけど…… やっぱり、嫌な感じはしない
 まふゆ: だから……
 まふゆ: ……お祝い、ありがとう
-(White cut)
+(White transition)

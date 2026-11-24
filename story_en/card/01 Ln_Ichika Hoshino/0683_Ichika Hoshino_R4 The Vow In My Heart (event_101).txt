@@ -9,7 +9,7 @@ Gacha phrase: I'm going to keep singing.
 
 [Rehearsal Studio]
 
-(Black cut)
+(Black transition)
 Ichika: Phew! We're sounding really good together for every song.
 Shiho: Yeah. All that's left is for us to get to where we can play without taking any breaks.
 Saki: We've got this! We have way more stamina now thanks to our solo show!
@@ -31,20 +31,16 @@ Shiho: Yeah, we won't be doing our necks any favors if we have to look up for lo
 Saki: But we're gonna go to that park with the jungle gym, right?
 Saki: If we're gonna be there, I wanna watch from the top of it.
 Ichika: (The jungle gym...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Saki (Saki): ...
 Little Ichika (Ichika): What's the matter, Saki?
 Little Saki (Saki): Hehehe... Just making a wish that we could stay like this forever!
 Little Saki (Saki): Playing together, talking about stuff, watching shooting stars on our way home...
 Little Saki (Saki): I wish we could keep doing all that together forever!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: Yeah... I want to watch from that jungle gym too.
 Honami: Then, we won't need a tarp or anything. What else do we need...? Oh, probably some bug spray.
@@ -64,7 +60,7 @@ Ichika: Then, we can ask them when we go over to practice next time.
 Shiho: Anyway, let's get back to practicing.
 Shiho: We need to play the songs between our talk portions like it's the real deal.
 Ichika, Saki & Honami: Okay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -80,7 +76,7 @@ Passersby: Oh, you're right! Wait, there's another one!
 Honami: Oh, it's already starting...!
 Shiho: Let's hurry over to the park.
 Ichika & Saki: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Park]
@@ -150,4 +146,4 @@ Ichika: Okay!
 Miku (Ln): <Ready to lose, Ichika?>
 Ichika: I could ask you the same.
 Ichika & Miku: Hehe. <Hehe.>
-(Black cut)
+(Black transition)

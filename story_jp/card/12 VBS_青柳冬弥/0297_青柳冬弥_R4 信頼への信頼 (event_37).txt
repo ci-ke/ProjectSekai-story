@@ -15,34 +15,26 @@ Gacha phrase: 俺に、手伝えることはあるんだろうか
 冬弥: RAD WEEKENDを作ったひとりであり、 謙さんの相棒であり、 今では世界的にも有名なアーティスト……
 冬弥: それだけでも、いろいろ驚かされた
 冬弥: だが、やはり一番驚いたのは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪ ————！　————！ ♪ ————————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: あの歌には、本当に驚いた
 彰人: だろうな。オレも、初めて聴いた時は マジですげえ衝撃受けたからな
 冬弥: そうか
 冬弥: （……音楽であれほどの衝撃を受けたのは、 あの時以来だな）
 冬弥: （初めて連れていってもらった、 父さんのコンサート——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: （個人的な解釈や感情を一切入れない、 作曲者の意図を余すところなく汲んだ、楽譜に忠実な演奏）
 冬弥: （それだけ聞くとおもしろみがないように感じるが、 実際は、１小節も弾かないうちに、 聴く人をその楽曲の世界へとひきこんでいく）
 冬弥: （どこまでも突き詰められた音楽理論と、 世界レベルと言われる演奏技術のなせる業——）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……父さんに匹敵するレベルのアーティストは、 世界中を見ればまだまだたくさんいるんだろうが）
 冬弥: （まさか、この街でそんな人に出会うなんて……）
@@ -63,29 +55,21 @@ Gacha phrase: 俺に、手伝えることはあるんだろうか
 冬弥: （STAY GOLDでの小豆沢のパフォーマンスといい、 今日の大河さんといい、 ここ最近、衝撃的なことが連続で起きているからな）
 冬弥: （動揺していないか、気にしてくれたのか）
 冬弥: （そういえばここしばらく、 たまに浮かない顔をしていたが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: 彰人、どうかしたか？
 彰人: あ……いや、なんでもねえよ。 そろそろ練習始めるぞ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （そうだ。今日、店を出る前も……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: …………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……本当に、いつも周りに気を配ってくれているんだな）
 冬弥: 彰人
@@ -103,7 +87,7 @@ Gacha phrase: 俺に、手伝えることはあるんだろうか
 彰人: 冬弥……
 彰人: おう。そん時は、そうさせてもらう
 冬弥: ああ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -138,7 +122,7 @@ Gacha phrase: 俺に、手伝えることはあるんだろうか
 杏: 冬弥、どうかしたの？
 冬弥: いや、なんでもない。声出しを始めよう
 こはね・彰人: 『うん！』 『おう』
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -185,15 +169,11 @@ Gacha phrase: 俺に、手伝えることはあるんだろうか
 冬弥: それでも最後まで言わなかったということは、 もしかしたら自分のことじゃなかったのかもしれないな
 杏: 自分のことじゃない……
 杏: あっ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: あー…………
 杏: （私のせいかぁ……）
@@ -208,4 +188,4 @@ Gacha phrase: 俺に、手伝えることはあるんだろうか
 杏: 冬弥、ありがとね
 冬弥: どう、いたしまして？
 杏: うん！
-(Black cut)
+(Black transition)

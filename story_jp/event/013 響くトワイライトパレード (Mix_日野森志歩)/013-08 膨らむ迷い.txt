@@ -30,7 +30,7 @@
 一歌: あ……ありがとうございます！
 寧々: あと、別にタメ口でいいよ。 多分同い年くらいだと思うし……
 一歌: あ、そうだね……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -41,7 +41,7 @@
 一歌: うん、ちゃんと見つけてきたよ
 咲希: よかった～！ じゃあ、お土産買いに行こ！
 一歌: うん……！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ワンダーステージ)
 寧々: 歌を教えてほしい、か……。 わたしに、できるかな
@@ -58,7 +58,7 @@
 リン: 『うんっ☆　みんなすっごーくキラキラしてたよ♪』
 司: ふふん、一番輝いていたのはこのオレだがな！
 寧々: はいはい
-(Black cut)
+(Black transition)
 (Background change)
 (Place: フェニックスワンダーランド)
 咲希: はあ……楽しかった～！
@@ -81,27 +81,23 @@
 咲希: あ、しほちゃん！　何か落ちたよ？
 一歌: チケット……？ もしかして、ライブの？
 志歩: あっ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 イオリ: 遊びのバンドと、プロは違う。 中途半端な気持ちで音楽をやってる子は、 プロでは通用しないよ
 イオリ: だから、本気で音楽をやる覚悟を決めた子達とじゃないと、 この先の道は進めない——って、私は思ってる
-(White cut)
+(White transition)
 イオリ: 今週末の夜、ライブやるから。 まだ迷ってるなら、私達の演奏を聴いて決めてほしい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………なんでもない。 バイト先でもらったものだから、気にしないで
 一歌: ……そっか……
 咲希: ライブかぁ……。アタシ達も、いつかやりたいね！
 穂波: そうだね、そのためにもたくさん練習しなきゃ
 咲希: うう～……がんばる！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000051/bg_a000051.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000051/bg_a000051.webp)
 咲希: でも、またフェニランにも遊びに来ようよ！ お兄ちゃんのショーも、みんなで見たいな～
 一歌: うん、賛成。 草薙さんの歌も、また聴きたいし……
 穂波: えむちゃんも、またフェニランを案内してくれるって言ってたしね
@@ -114,7 +110,7 @@
 志歩: （……でも……）
 志歩: …………
 穂波: 志歩ちゃん……？
-(White cut)
+(White transition)
 (Background change)
 穂波: ねえ、志歩ちゃん大丈夫？ なんだか元気ないように見えるけど……
 志歩: ……別に、なんでもないから
@@ -123,7 +119,7 @@
 咲希: あ、うん！
 咲希: しほちゃん、また明日！
 志歩: ……うん。バイバイ
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -134,4 +130,4 @@
 志歩: ……はい、ありがとうございます
 志歩: …………演奏を聴くだけ
 志歩: それだけ、だから
-(Black cut)
+(Black transition)

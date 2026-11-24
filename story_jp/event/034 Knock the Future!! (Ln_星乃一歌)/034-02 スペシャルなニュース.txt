@@ -10,21 +10,17 @@
 一歌: 今日の練習までには、って思ってたんだけど……。 結局、いい詞は書けなかったな
 一歌: ライブも近いし、そろそろ完成させなきゃ 練習もできないのに——
 一歌: （どうしてだろう。 何度書いても、納得できるものにならない……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: （咲希の曲を聴いた時は、 書きたいものがすぐ浮かんだんだけど——）
 一歌: （この想いを、どんな言葉にすればいいんだろう……）
 咲希: いっちゃーん！ そろそろ練習に行こ！
 一歌: あ……うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -90,12 +86,12 @@ KAITO: …………わかった
 ミク (Ln): どうする？　カイト
 KAITO: ……いいよ。やろう
 ミク (Ln): じゃ、いくよ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000002/bg_s000002.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000002/bg_s000002.webp)
 ミク (Ln): ————♪　————♪
 穂波: わあ……
 志歩: …………っ！
-(White cut)
+(White transition)
 (Background change)
 一歌: （さっきと、全然雰囲気が違う——！）
 咲希: （すごい力強い音……！ なんだか、引きこまれちゃいそう……）
@@ -104,7 +100,7 @@ KAITO: ……いいよ。やろう
 穂波: （なんだろう、音が生きてるっていうか……。 わたし達に何かを伝えようとしてるみたい）
 穂波: （この音は——）
 一歌: （これが、音で語るってこと……？）
-(Black cut)
+(Black transition)
 MEIKO: やっぱりいいね、カイトの演奏。 今のはどういう想いで弾いたの？
 KAITO: …………
 KAITO: ……新しい扉を開けようとしてる、みんなに向けて
@@ -117,4 +113,4 @@ KAITO: …………うん
 一歌: 聴かせてくれてありがとう、カイト！
 一歌: （みんなと新しい扉を開くために……。 私達の曲を書きあげなきゃ）
 KAITO: …………
-(Black cut)
+(Black transition)

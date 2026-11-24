@@ -9,16 +9,12 @@
 瑞希: もー。またボクの質問に答えてないじゃん
 類: フフ、そうだねえ。 とはいえ、ここにいることに大した理由もないさ
 類: 僕は、ここから見える景色を見にきただけだよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 僕は、ここから見える景色を見にきただけだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 類: どうしたんだい？ 狐につままれたような顔をして
@@ -39,10 +35,8 @@
 類: ……ああ。 司くんと寧々と、練習をしていた時かな
 瑞希: 中学の頃はふたりでこうして、 屋上でぼーっとしてる時間が多かったけど——
 瑞希: 今は、類も普通に楽しくやってるんだなってわかって、安心したよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ……誰？
 類: おや。こんな辺鄙な場所に、他にも観客が来るとはね
@@ -68,4 +62,4 @@
 類: そうだねえ。 そうできたら、いいんだけどね
 瑞希: ……はぁ
 瑞希: 変な奴なのは、お互いさまかもね
-(Black cut)
+(Black transition)

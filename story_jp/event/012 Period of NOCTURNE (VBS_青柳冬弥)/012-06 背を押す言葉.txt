@@ -25,7 +25,7 @@
 彰人: ……おう
 彰人: そんじゃ、親父に一発決めてこい。 お前が納得できるまでな
 冬弥: ああ
-(Black cut)
+(Black transition)
 (Background change)
 
 [青柳家　リビング]
@@ -54,8 +54,8 @@
 冬弥: ですがそこで俺は、自分のやりたい音楽を持った 友人に出会えました
 冬弥: 歌えば歌うほど……どんどんストリート音楽が 好きになっていきました
 冬弥の父: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000048/bg_a000048.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000048/bg_a000048.webp)
 冬弥: これは今度のイベントのチケットです
 冬弥: どうか、今の俺の覚悟を聴いて下さい
 冬弥の父: こんなものを聴いたところで……
@@ -63,7 +63,7 @@
 冬弥: 父さんにとってクラシック音楽が何より大切なように、 俺にとっても、この音楽が何より大切なんです
 冬弥: 初めて……絶対に失いたくないと思ったんです
 冬弥: それをわかってもらいたいんです。 誰でもない——音楽のおもしろさを教えてくれた父さんに
-(White cut)
+(White transition)
 (Background change)
 冬弥の父: …………
 冬弥: 待ってます
@@ -72,7 +72,7 @@
 冬弥: だから——ありがとう、父さん
 冬弥: ……それじゃあ、おやすみなさい
 冬弥の父: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
@@ -81,4 +81,4 @@
 冬弥: …………はぁ
 冬弥: （話せることはすべて話せた）
 冬弥: （あとは、明日、できるだけのことをするだけだ）
-(Black cut)
+(Black transition)

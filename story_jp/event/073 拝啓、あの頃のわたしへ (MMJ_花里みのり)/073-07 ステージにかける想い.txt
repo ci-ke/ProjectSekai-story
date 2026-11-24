@@ -58,13 +58,13 @@
 唯奈: ……うん。 すごく……感じたよ
 みのり: ——えへへ、それならよかったです！ わたしも、このライブをとおして、 みんなの想いをすごく感じて……
 みのり: わたしの夢だった……わたしがずっと憧れてた、 お客さんと心を繋げるステージができたと思っています
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000124/bg_s000124.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000124/bg_s000124.webp)
 みのり: これは、ここにいるみんな—— 誰が欠けてもできなかったものです。 だから、会場の皆さんと……
 みのり: わたしをこのステージに立てるくらい 磨きあげてくれた、愛莉ちゃん、雫ちゃん……
 みのり: そして—— わたしの憧れで、夢で……一生の目標の遥ちゃんに
 みのり: 最大の感謝をしたいと思います！ 本当に……本当に、ありがとうございました！！
-(White cut)
+(White transition)
 (Background change)
 遥: ……みのり、ありがとう。 素敵なスピーチだったよ
 みのり: ほ、ホント？ わたし、言いたいこと、ちゃんとまとまってたかな？
@@ -78,15 +78,11 @@
 遥: だから、今日こうして、ワンマンライブっていう、 アイドルとして大切なステージに みのりと立ててることが嬉しいんだ
 遥: これからも頑張ろうね。 ……一緒に！
 みのり: あ……
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000125/bg_s000125.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000125/bg_s000125.webp)
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……————うん
 みのり: やっと、ここまでこれたよ。 ありがとう、遥ちゃん……！
@@ -106,15 +102,11 @@
 みのり・遥・雫・愛莉: 『——もっと、もっと、もーっと！』
 長谷川: （……私の曲が、こんなすごいステージの最後に……）
 長谷川: （この曲を作るまでには、いろいろあって…… 皆さんにも、すごく迷惑をかけたけど）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉・雫: ♪————
 みのり・遥: ♪————！
@@ -130,4 +122,4 @@ KAITO: 『お互いを応援しあう関係になれるのは、 本当に素敵
 リン: 『……わたし、みんながアイドルとして もっともっと大きくなってくとこ、見たいなあ……』
 ミク (MMJ): 『……うん。 みんなならきっと、たくさんの人に 希望を届けることができるはずだもんね』
 ミク (MMJ): 『本当に、すてきなライブに呼んでくれてありがとう、 みんな……！』
-(Black cut)
+(Black transition)

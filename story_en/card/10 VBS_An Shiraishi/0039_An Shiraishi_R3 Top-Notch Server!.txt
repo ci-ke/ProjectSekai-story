@@ -14,7 +14,7 @@ Customer A: Thanks, An. Hey, is that girl singing right now your new partner?
 An: Yup, she is. Her name's Kohane.
 Customer A: Sweet. She's got a great voice.
 An: I know, right? And also...
-(Black cut)
+(Black transition)
 (Background change)
 
 [In-Store Music Venue]
@@ -24,7 +24,7 @@ Customer B: That was really good! Can you do one more for us?
 Kohane: Huh?! A-As in an encore?
 Kohane: Th-Then... Okay, I'll sing one more song!
 Customer B: Now we're talking!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Weekend Garage)
 An: She's gotten used to the stage lately and gained a lot of courage.
@@ -67,7 +67,7 @@ An: It's more important for you to decide on what's best for yourself, instead o
 An: That's the Kohane I want to sing with. So let's do our best together, alright?
 Kohane: Okay! Please continue to lend me your support, An!
 An: You bet I will!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -128,4 +128,4 @@ Toya: Apparently, we should try all the recommended rides. If so, we'll have to 
 Kohane: Let's go, An!
 An: Coming!
 An: (Maybe we'll become the greatest team one day too, like dad and his friends were!)
-(Black cut)
+(Black transition)

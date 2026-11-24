@@ -22,33 +22,25 @@
 杏: こはねの……みんなの隣で、歌って、 みんなと一緒に夢を叶えたいから
 志歩: （……焦っちゃって、か）
 志歩: （白石さんくらい歌を歌える人でも、そんな風に考えるんだ）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （白石さんは、本当に強い気持ちで、真剣に——）
 志歩: （大事な人達と一緒に…… 最高の演奏をするために——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: それで、ライブの日には、 きっと志歩ちゃんの隣に並ぶから……！
 咲希: そしたら、みんなで手をつないでゴールしよう！ 昔みんなでやった、かけっこみたいに！
-(White cut)
+(White transition)
 (Background change)
 杏: こはねの……みんなの隣で、歌って、 みんなと一緒に夢を叶えたいから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 志歩: （それは、私だって……同じ気持ちだ）
 志歩: 大事な人達と一緒に夢を叶えたい。 そう思う気持ちは……私も、よくわかるよ
 志歩: ——私も、みんなと一緒にプロになりたいから
@@ -73,7 +65,7 @@
 杏: （すごく強い気持ちを込めて演奏してる。 キレがよくて、晴れ晴れした……いい音だな）
 杏: （本気で音楽と向き合ってる。人生賭けても後悔しない、 そのくらい信じて疑わない熱量で——迷いなんか少しもない）
 杏: （……かっこいいな。日野森さん）
-(Black cut)
+(Black transition)
 志歩: ——ふう
 杏: ……ありがとう、日野森さん。 なんか元気、出てきた気がする！
 志歩: そっか。ならよかった
@@ -83,4 +75,4 @@
 志歩: ——いいね。 私も白石さんとは合わせてみたかったし、やろっか
 杏: 本当！？　やった！
 志歩: それじゃあ、曲は——
-(Black cut)
+(Black transition)

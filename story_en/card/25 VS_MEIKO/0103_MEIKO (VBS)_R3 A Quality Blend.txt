@@ -37,7 +37,7 @@ Miku (VBS): Alright...
 MEIKO: Let's see... Can you pick out the white beans and beans that are of a different size than usual?
 Miku (VBS): Yeah, I can do that.
 MEIKO: Thank you. Let's make delicious coffee together!
-(Black cut)
+(Black transition)
 Miku (VBS): ...
 MEIKO: ...
 Miku (VBS): ...
@@ -58,7 +58,7 @@ Miku (VBS): Hey, that's not fair.
 MEIKO: Hehehe, that's the perk of being a cafe owner, right? At least let me have that.
 Miku (VBS): Well... As long as the coffee you serve to customers always tastes good, I guess that's fine.
 MEIKO: You're so sweet. I'll treat you to my special blend later, to thank you for helping out!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,4 +113,4 @@ Miku (VBS): I see. Sounds like something you'd come up with indeed.
 MEIKO: Hehe. You think so?
 Miku (VBS): I'll help you with that new sandwich menu.
 MEIKO: Really? That'll be great. Thank you, Miku!
-(Black cut)
+(Black transition)

@@ -30,16 +30,12 @@
 千晴: はい！　またMORE MORE JUMP！さんと共演できて、 本当に嬉しいです
 千晴: ライバルではありますけど…… 想いはきっと、同じだと思うので
 みのり: 想い……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 あかり: あたし達は、自分達の歌とダンスで希望を届けて—— この日本中をまるっと元気にするようなアイドルになりたくて！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: うん……！
 みのり: たくさんの人に希望を届けて、元気にできるように！ 一緒にがんばりましょう！
@@ -56,7 +52,7 @@
 遥: 今から１時間後か。 あんまり時間ないな……
 愛莉: 着替えたりメイクしたり、いろいろやることあるものね。 でも、まずはしっかり食べて力をつけましょ！
 みのり: おーっ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -88,4 +84,4 @@
 有澤: あら、そうかしら？
 有澤: みんな、これから長い時間同じ場所にいるんだもの、 お互いを知ることはとても大事よ
 有澤: ——きっと、実りのある時間になると思うわ
-(Black cut)
+(Black transition)

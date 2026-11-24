@@ -3,7 +3,7 @@
 (Character: 日野森志歩, KAITO)
 
 (Video: link_leoneed_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -63,25 +63,21 @@
 イオリ: プロとして生きてくために、腕を磨いていかなくちゃね。 私達も、負けないよ？
 志歩: ——はい！！
 志歩: STANDOUTに負けないように、頑張ります
-(Black cut)
+(Black transition)
 (Background change)
 志歩: （……ふう。 結構遅くなったな）
 志歩: あ……
 一歌の声 (一歌): 『——♪　——♪』
 志歩: （また私達の曲が流れてる……。 あそこのビジョンからか）
 志歩: （……MV、よく撮れてるな。 みんなも真剣な顔で——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 イオリ: でも——最終的にそうなったとしても、 きっと簡単には離れてなかったんじゃないかな
 イオリ: 日野森さんはずっと、 『あの子達と一緒に音楽をやりたい』って 思ってたでしょ？
 イオリ: あの時も、そんな顔してたよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………
 志歩: （——たしかにそうだ）
@@ -91,17 +87,13 @@
 志歩: （だから……一歌達がバンドやりたいって言った時も、 無理だって思った）
 志歩: （一歌達だって最初は、 本気でプロになろうなんて思ってなかったから）
 志歩: （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: もう——知らないからね
 志歩: ……一緒にバンド、やらせてよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （それでも—— 一緒にやりたいって思った）
 志歩: （だから私は、 プロになりたいって思うのと同じくらい——）
@@ -120,4 +112,4 @@ KAITO (Ln): 『え、今から？　もう結構遅いけど……』
 KAITO (Ln): 『……そっか、わかった。 じゃあセカイに……あ』
 KAITO (Ln): 『そういえば、セカイに 新しい場所ができたんだけど……知ってる？』
 志歩: ……新しい場所？
-(Black cut)
+(Black transition)

@@ -58,7 +58,7 @@ Gacha phrase: みんな、すっごく楽しそう☆
 えむ: それじゃあ、ファミレスにレッツゴー♪
 司: あ、こら、えむ！ お前も、遅くなると連絡しておくんだぞ！
 えむ: は～いっ☆
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,32 +102,24 @@ Gacha phrase: みんな、すっごく楽しそう☆
 晶介: んじゃ、俺はできるだけいろんなフルーツが食えるとこ
 えむ: はーいっ！
 えむ: （……ありがとうの気持ち、少しでも伝わったらいいな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 慶介: ……お前は、もう少し素直になっていいんだ
 慶介: 寂しいなら、寂しいと言っていい
 慶介: 俺達にも、そして……仲間にもな
-(White cut)
+(White transition)
 晶介: お前のその気持ちは否定しねえ。 だが……寂しくて当然だろ
 晶介: 一緒にショーを作ってきた、仲間なんだから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 えむ: （夢の中でも、お兄ちゃん達はあたしのこと考えてくれてた）
 えむ: （いつも優しく見守って、支えてくれてるんだよね……）
 えむ: （あたし達を送り出してくれたあの時も……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ——ケーキどう？　おいしい？
 慶介: ……ああ。上品な甘さで食べやすいな
@@ -137,4 +129,4 @@ Gacha phrase: みんな、すっごく楽しそう☆
 晶介: おい、あんまじろじろ見んな。 食いづらいだろうが
 慶介: 紅茶も来たぞ。 えむも食べたらどうだ？
 えむ: うん！
-(Black cut)
+(Black transition)

@@ -85,7 +85,7 @@ Ena: Where are they gonna do it? Mizuki didn't seem to have any details, so mayb
 Ena: Oh, they have a social media account. I'll follow them just in case.
 Ena: Hehe. Mizuki's big sister, and this pop-up store... Suddenly I've got a lot to look forward to.
 Ena: Anyway, I really need to get to work already. I've gotta get that sketch done.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -99,7 +99,7 @@ Mizuki's Sister: You're welcome. I hope you get a lot of use out of those detach
 Ena: Yes, and I'll handle them with great care!
 Mizuki's Sister: Feel free to come back again anytime while we're here, everyone! I'll see you again at home, Mizuki!
 Mizuki: Okay! Good luck with work, Sis!
-(Black cut)
+(Black transition)
 (Background change)
 Ena: Thanks for inviting us to visit the shop with you, Mizuki! That was fun, and I got my hands on these super cute collars.
 Mizuki: Hehe. You're welcome♪ And I'm glad that I finally got to introduce you to my big sis, Ena!
@@ -121,16 +121,12 @@ Mizuki: What?! You believe me, right, Kanade?
 Kanade: Umm, well... She did seem very happy to see you, Ena.
 Kanade: So, I'm inclined to believe that Mizuki told her some very good things about you.
 Mizuki: Exactly! Remember the look on her face when she saw you at the store?!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki's Sister: Yes, I had a feeling that you were Ena! It's so great to finally meet you!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Yeah, she was really happy...
 Mizuki: See?
@@ -151,4 +147,4 @@ Ena: (I mean, she's always understood and supported Mizuki too.)
 Ena: (And after speaking to her, I feel like she's a really great big sister.)
 Mizuki: Ena? Something on your mind?
 Ena: Nothing.
-(Black cut)
+(Black transition)

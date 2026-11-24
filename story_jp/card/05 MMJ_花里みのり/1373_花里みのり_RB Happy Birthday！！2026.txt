@@ -30,7 +30,7 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 みのり: だって、今日からもう楽しいことがあるんだもん！
 ミク (MMJ): 楽しい？
 みのり: うん！　このあとね——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -92,7 +92,7 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 (Background change)
 志歩: 何それ
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -112,7 +112,7 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 遥: じゃあ、早速ライブコーナーに いきたいところだけど——
 遥: その前に、ある人からのスペシャルメッセージを 紹介するね
 みのり: えっ？　スペシャルメッセージ……？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -124,15 +124,11 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 雫: ふふ、みんなも気になってるみたいね。 ヒントは……ピカピカなアイドルよ！
 みのり: え、ピカピカって、もしかして……！
 遥: そう、あの銀河級アイドル—— ひかりんさんからメッセージを預かってるんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ええ～っ！　ほ、ほんとにひかりんさんが！？
 コメント: 『マジか！』 『うおおおひかりんきた！』 『これはいいサプライズ』
@@ -155,15 +151,11 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 みのり: うん……！
 みのり: （……本当に、すてきな出会いがあったな）
 みのり: （ひかりんさんだけじゃない。 他にも、たくさんのすごいアイドルに出会って——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （いろんなことを学ばせてもらった）
 愛莉: ——それじゃあ、今度こそソロライブを始めるわよ！
@@ -190,7 +182,7 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 みのり: ♪——！　♪——～～！！
 遥: みのり……
 コメント: 『うおおーーーー！』 『なんか泣けてきた』 『おめでとう！ありがとう……！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -211,18 +203,18 @@ KAITO (MMJ): 明日は、みのりちゃんの晴れ舞台だからね。 僕達
 雫: みのりちゃんの好きなものを準備するって張り切っていたから、 きっと素敵なパーティーになると思うわ
 みのり: えっ……！　みんな、そんなことしてくれてたの！？
 みのり: うう～、嬉しすぎて、最高が更新されちゃうよ～！
-(White cut)
+(White transition)
 (Background change)
 ？？？: あーあー、聞こえてるかな？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000568/bg_s000568.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000568/bg_s000568.webp)
 みのり: 今日は、いっぱいお祝いしてくれてありがとう！ す～～～っごく嬉しかったよ！
 みのり: あのね、ありのままのわたしを見て 応援してくれる人がいるって思うと、元気がわいてくるんだ！
 みのり: あなたの声に、たくさん力をもらってるよ！
 みのり: だから——いつも本当に、ありがとう！
-(White cut)
+(White transition)
 (Background change)
 みのり: 明日からももっと頑張って、 もっとも～っと素敵なアイドルになって——
 みのり: いつか、あなたにもらった以上の希望を届けるから！ これからも応援してくれたら嬉しいな！
 みのり: それじゃあ、また会おうね！
-(Black cut)
+(Black transition)

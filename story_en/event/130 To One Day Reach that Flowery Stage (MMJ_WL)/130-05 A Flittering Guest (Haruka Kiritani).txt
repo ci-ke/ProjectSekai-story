@@ -31,7 +31,7 @@ MEIKO (MMJ): It's very slippery around the pond, so please watch your step.
 Haruka: Thank you. I'll be careful, but this is wrapped around it much more tightly than I...
 Haruka: Huh...? This light...
 KAITO (MMJ): Haruka?
-(White cut)
+(White transition)
 (Background change)
 Children's Voices: Thank you for coming to perform for us today!!!
 Haruka: That sounded like a group of children...
@@ -40,15 +40,11 @@ Haruka: Wh-Where am I...?
 Haruka: Huh...?
 Lady: Seeing all your beautiful smiles has filled me with so much joy!
 Haruka: ...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: It's her...!
 Boy: I really love the way you sing!
@@ -82,7 +78,7 @@ Lady: I was so worried when she left ASRUN, so I'm relieved to see that she's de
 Lady: Hehe. I knew she had talent...
 Lady: And I know that tomorrow's going to be a better day!
 Haruka: Oh...
-(White cut)
+(White transition)
 (Background change)
 Haruka: ...! Where am I n...
 MEIKO (MMJ): Wh-What was that light...?
@@ -95,16 +91,16 @@ Haruka: Okay... I guess I'm the only one who saw.
 KAITO (MMJ): Huh?
 MEIKO (MMJ): Are you sure you're okay...? Maybe that light did something to your eyes...
 Haruka: Oh, no, my eyes are fine. The thing is...
-(Black cut)
+(Black transition)
 KAITO (MMJ): You saw your hero watching the show you were on the other day...?
 Haruka: I did... It may've just been a pleasant dream...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000312/bg_s000312.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000312/bg_s000312.webp)
 Haruka: But it made me really happy. She even said how inspired she was after seeing me.
 Haruka: I was able to spread hope to wherever she was through the airwaves...
 Haruka: In that sense... I'm really glad I decided to keep trying.
 MEIKO (MMJ): Haruka...
-(White cut)
+(White transition)
 (Background change)
 KAITO (MMJ): I don't think it was just a pleasant dream.
 Haruka: Huh...?
@@ -135,15 +131,11 @@ Butterfly: ...
 KAITO (MMJ): Oh, it's flying away.
 MEIKO (MMJ): You managed to free this flower from that vine, Haruka, but I guess our fluttery friend wasn't after its nectar...
 Haruka: (Wait a second... That butterfly's wings...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: (They resemble her outfit.)
 Haruka: She did it again...
@@ -151,6 +143,6 @@ Haruka: (But...)
 Haruka: (I hope you're watching. I'm going to take the hope you gave me and spread it to others as we make more and more progress towards making our dream come true.)
 Haruka: (Our dream of one day doing a show at the Dome.)
 Haruka: (And I really hope that I'll get to see your smiling face there...)
-(Black cut)
+(Black transition)
 (Video: link_idol_ed2)
-(Black cut)
+(Black transition)

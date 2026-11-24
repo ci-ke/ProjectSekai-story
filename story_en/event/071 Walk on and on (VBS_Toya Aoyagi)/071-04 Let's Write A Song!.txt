@@ -9,7 +9,7 @@ Toya: (Soma agreed to let me help him while I learned what I could about writing
 Toya: (I can't let that get in the way of our performance. That means I'll need to focus more than usual.)
 Kohane: (I need to learn how to pull everyone forward like An and the others! I have to do everything I can to make up for not being able to work on our next song...!)
 Kohane: ♪————! ♪————!
-(Black cut)
+(Black transition)
 Akito: Alright, it's a bit early, but let's call it a day for our joint practice.
 Kotaro: Toya, Azusawa, you two seemed way more on it than usual!
 Toya: I have to make up for not working on our new song since Akito and Shiraishi are.
@@ -36,7 +36,7 @@ Akito: We have a general idea of what to do, but the drums and stuff still need 
 An: Yeah, we really want it to have a big impact overall. It needs to feel more electric, you know...?
 Arata: I see. Luckily, we still have plenty of time until our event, so let's just keep chipping away at them.
 An: Yeah. Let's take our time and make sure our event turns out to be a really good one!
-(Black cut)
+(Black transition)
 An: Great job, you guys! It's been a while, so wanna head over to MEIKO's place to chill?
 Kohane: Yeah, I'd like to go.
 Toya: Oh, sorry... There's somewhere I need to be, so I should get going.
@@ -51,7 +51,7 @@ Toya: And there's no need to worry. It's just something I need to do right now, 
 Akito: Okay... Just don't push yourself too hard.
 Toya: I won't. Again, I appreciate it.
 Toya: (Akito's as sharp as ever. Or am I just bad at hiding things...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -74,7 +74,7 @@ Kohane: I'm looking forward to hearing what it's like too.
 An: *Nod* Thanks, Kohane!
 An: I'll need to come up with some ideas after I get home today, so let's get through our meeting fast.
 Akito: Yeah, especially if we want it to sound better...
-(Black cut)
+(Black transition)
 An: Whoa, look at the time! Let's start heading home.
 Kohane: Oh, I'm gonna stay for a bit longer...
 An: Hm? You are? Then, I'll stay too and... Oh no! I have to help out again today!
@@ -96,14 +96,14 @@ KAITO: I've never done any songwriting before, but as a DJ, I'm exposed to a wid
 KAITO: I suppose people who write songs have somewhat meticulous personalities.
 Rin: Meticulous?
 KAITO: Yes, because they likely place an incredible amount of value onto each note. Like...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000117/bg_s000117.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000117/bg_s000117.webp)
 KAITO: Oh, MEIKO's cooking...!
 MEIKO: What? My cooking?
 KAITO: Yes. You carefully choose what goes into each dish, right, MEIKO? I feel like songwriting works in a similar way.
 KAITO: You know how to use which ingredients because you understand how to make a dish delicious, yes?
 KAITO: So, without that sort of knowledge, it'd be fairly difficult to cook anything good.
-(White cut)
+(White transition)
 (Background change)
 MEIKO: Yes, I see. Now I understand.
 Rin: Oh, what if you listened to a bunch of really cute or cool songs?! That might tell give you some hints as to what to do, right...?!
@@ -117,7 +117,7 @@ KAITO: Yes. That should make it much easier for you to create something that cap
 Rin: Great idea! Can I help too? I wanna hear what you make, Kohane!
 Kohane: Yeah, of course! Thank you two very much...!
 MEIKO: Hehe. Good luck, all of you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Hospital]
@@ -167,4 +167,4 @@ Toya: But... Well...
 Toya: What do I want to convey...?
 Soma: You can take your time. It's okay.
 Toya: Okay... This really is difficult.
-(Black cut)
+(Black transition)

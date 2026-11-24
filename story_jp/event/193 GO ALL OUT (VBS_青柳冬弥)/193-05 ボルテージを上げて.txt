@@ -37,23 +37,19 @@
 エレナ: えー！　ずるすぎるってば。 アタシ達もまざりたい～
 冬弥: （Embersとの対戦……）
 冬弥: （戦うのは、RUSH BEATSになると思っていたが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 スレイド: それでも……優しさも、気遣いも、オレは欲しくないんだ
 スレイド: 全力で歌うトーヤ達を超えて、世界を獲りたい。 そうじゃなきゃ……意味がないって思うから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ——楽しみだな
 冬弥: スレイド、セドリック—— 全力でぶつかろう
 冬弥: このイベントは、俺達が勝たせてもらう
 スレイド: ——うん！　オレ達も、楽しみにしてるよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -73,7 +69,7 @@ KAITO (VBS): （特に——）
 KAITO (VBS): （……やっぱり、冬弥くんが全体を引っ張ってる）
 KAITO (VBS): （音程やリズムキープが正確なのは、いつものことだけど。 なんていうか……）
 KAITO (VBS): ——すごく、いきいきしてるな
-(Black cut)
+(Black transition)
 彰人: ……今日の練習は、ここまでだな
 こはね: っ、はぁ、はぁ……
 杏: つ、疲れたぁ～……！！
@@ -97,4 +93,4 @@ KAITO (VBS): 最後のほう、どんどん良くなってたよ！
 KAITO (VBS): あ！　冬弥くん！
 KAITO (VBS): ええっと——
 KAITO (VBS): このあとちょっとだけ、時間もらってもいいかな？
-(Black cut)
+(Black transition)

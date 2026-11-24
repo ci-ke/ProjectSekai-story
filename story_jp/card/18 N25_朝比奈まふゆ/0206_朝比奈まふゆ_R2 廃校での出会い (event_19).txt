@@ -13,11 +13,11 @@ Skill name: 少女からのお礼
 瑞希: うん。音楽室に生徒の霊が出るっていうウワサがある学校なんだ
 まふゆ: （これが、学校……）
 まふゆ: （人の気配がなくて、すごく静かで……。 なんだかセカイみたい……）
-(Black cut)
+(Black transition)
 奏: あれ、まふゆ……いない
 瑞希: え？　ホント？
 瑞希: まふゆー！
-(Black cut)
+(Black transition)
 まふゆ: （……昇降口も、窓もみんな閉まってる。 中に入るのは無理そうかな……）
 瑞希の声 (瑞希): まふゆー！
 まふゆ: あ……戻らないと
@@ -49,7 +49,7 @@ Skill name: 少女からのお礼
 まふゆ: （小さくて、古くて、ボロボロ……）
 まふゆ: はい、これでいいんでしょ
 ？？？: ……う、ん……
-(White cut)
+(White transition)
 まふゆ: ……っ！
 まふゆ: （え……。女の子が、消えた……？）
 ？？？: あ……とう……
@@ -61,7 +61,7 @@ Skill name: 少女からのお礼
 まふゆ: （今、呼ばれたような気がしたけど……）
 まふゆ: 桜……
 まふゆ: 奏達のところに戻る前に、少し見て行こうかな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,16 +89,12 @@ Skill name: 少女からのお礼
 奏: 『じゃあせっかくだし、わたしも見てみようかな』
 (Background change)
 まふゆ: （写真か……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: （……あの桜の写真、ないかな）
 (Background change)
 絵名: 『あ、電車の中で撮った写真！ へえ、窓から見える景色もちゃんと入ってて、 旅行写真っぽくなってるじゃん』
@@ -173,20 +169,16 @@ Skill name: 少女からのお礼
 瑞希: 『はいはーい！　どういたしまして♪』
 (Background change)
 まふゆ: 特別、か……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: …………
 まふゆ: （……こういう旅行なら またいつか、行ってもいいかな）
-(Black cut)
+(Black transition)

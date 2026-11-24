@@ -11,33 +11,25 @@
 司: （宣伝公演で得られたような新しい刺激を受けることは、 めっきり減ってしまったな）
 司: （もちろん、またワンダーステージで 観客を笑顔にできるのは嬉しいことだ。 慣れ親しんだ場所だからこそ、できることも多いしな）
 司: （しかし……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （……あの時のような、役者として成長する機会は、 これからもぜひほしい）
 司: （いっそ、いろいろな劇団を巡って武者修行をしてみるか？ いや、しかし……）
 司: （オレはワンダーランズ×ショウタイムの座長だ。 自分の気持ちだけでワンダーステージから 離れるわけにはいかん）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: フェニックスワンダーランドのキャストとして 務めを果たしたいという想いも、夢を叶えたいという想いも…… どちらも、大事にしたほうがいい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: どちらも……か
 司: ……っと！　もうこんな時間か！ そろそろ練習に行かねば！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -109,4 +101,4 @@
 司: ほ、本当にいいんですか！？
 ひなた: うん！　私もみんなのショーを見たいし、 手伝わせてもらえると嬉しいな
 司: ……！　ありがとうございます！ では——よろしくお願いいたしますっ！！
-(Black cut)
+(Black transition)

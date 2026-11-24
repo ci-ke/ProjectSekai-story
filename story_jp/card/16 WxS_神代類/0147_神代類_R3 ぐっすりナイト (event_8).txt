@@ -13,18 +13,14 @@ Gacha phrase: みんなに、最高のショーを……
 類: …………
 類: （さて、どうしたものか……）
 類: （友人としても、演出家としても、 何か打開策を見出したいところだが……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 寧々: でも、アイツの歌は……違うの。 昔からミュージカルの歌ばっかり練習してたからわかる
 寧々: うまく言えないけど、歌に乗ってるものが違う。 でも、どうすればいいのかわからなくて……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 類: （歌に乗っているものが違う、か……）
 類: （たしかに、青龍院くんの歌声には芯の強さと存在感があった）
 類: （ただ寧々の歌声も、決して引けを取らないはずだ）
@@ -34,7 +30,7 @@ Gacha phrase: みんなに、最高のショーを……
 類: （寧々の自信になるような何かがあれば……）
 類: （いや、寧々自身が感じている 『何かが足りない』という部分が解決しないことには同じかな）
 類: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [類の部屋]
@@ -54,16 +50,12 @@ Gacha phrase: みんなに、最高のショーを……
 類: （演じていた役が明るく元気な女の子だったこともあるが、 体全体で歌っていて、のびのびとしているね）
 類: （それに、ショーそのものを心から楽しんでいる。 その気持ちはしっかり歌声にも乗っているようだ）
 類: （だが、次のショーで寧々は主演に選ばれて、 そこで……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 寧々: （次のセリフが、出てこない……！ どうしよう、どうしよう、どうしよう……！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （僕はあとになって伝え聞いただけだから、 詳しい状況を知らないが……）
 類: （いまだにあの時の記憶が 寧々を縛ってしまっているのかもしれないな）
@@ -73,20 +65,16 @@ Gacha phrase: みんなに、最高のショーを……
 類: （伝えれば、寧々がすべきことは はっきりする。だが……）
 類: ……本当に、伝えてもいいんだろうか
 類: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
-
-(Memory cut-in)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
+(Flashback in)
 司: お前、本当にそれが一番やりたい演出なのか？
-(White cut)
+(White transition)
 (Background change)
 寧々: でも、類もこのままじゃいいショーは作れないって 思ってるでしょ？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 類: …………
 類: ……ショーはひとりじゃ作れない。 そして僕達は、もうひとりではない
 類: （明日、僕が気づいたことを寧々達に伝えよう）
@@ -94,7 +82,7 @@ Gacha phrase: みんなに、最高のショーを……
 類: フフ、クリスマスショー自体も まだまだブラッシュアップできるはずだ
 類: 朝までまだ時間もある。 よし、もう少し案をまとめてみよう
 類: 最高のショーを、届けるためにもね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -158,4 +146,4 @@ Gacha phrase: みんなに、最高のショーを……
 えむ: あたしもあたしもー！ えへへ、ワクワクしてきちゃった♪
 司: よし！　ではオレ達の強みを活かせるような、 次のショーの内容を考えるとするか！
 類: ああ。次のショーも、 みんなの力で最高のショーにしよう
-(Black cut)
+(Black transition)

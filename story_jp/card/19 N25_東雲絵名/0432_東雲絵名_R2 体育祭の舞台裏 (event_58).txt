@@ -14,7 +14,7 @@ Skill name: 垣間見えた努力
 生徒B: もちろん、見に来るに決まってるじゃん！ 応援合戦、楽しみだし！
 絵名: （体育祭……。そっか、もうそんな時期なんだ。 応援合戦も、うちの学校のはすごいって聞くけど……）
 絵名: （ま、私は出るわけじゃないし、べつにいいや）
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -36,7 +36,7 @@ Skill name: 垣間見えた努力
 絵名: どーでもいいけど、 お風呂で寝て溺れたりしないでよ？
 彰人: んー……
 絵名: もう……
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -48,7 +48,7 @@ Skill name: 垣間見えた努力
 (Background change)
 瑞希: 『あ、ちょうどよかった。 昨日作ってもらった素材なんだけど、 ちょっとだけ色味を調整してもらってもいいかな？』
 絵名: 『ん、どこ？』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: （——よし、調整終わり！）
 絵名: 『Amia、さっき言われたところ直したよ』
@@ -91,7 +91,7 @@ Skill name: 垣間見えた努力
 (Background change)
 絵名: （それにしても……個人的に作ってる動画、か）
 絵名: （奏がいい感じっていうくらいだし、ちょっと見てみたいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -119,11 +119,11 @@ Skill name: 垣間見えた努力
 青組団長: 次は、大学での応援合戦に向けて頑張らねばな！
 杏: ……へ？
 瑞希: ええっ！？ これで最後じゃないの！？
-(Black cut)
+(Black transition)
 絵名: 瑞希、楽しそうじゃん
 絵名: ……ま、見に来てよかったかもね
 絵名: （ふふ。邪魔しちゃ悪いし、 メッセージだけ送って帰ろっと）
-(Black cut)
+(Black transition)
 (Background change)
 
 [その夜]
@@ -189,4 +189,4 @@ Skill name: 垣間見えた努力
 (Background change)
 まふゆ: 『……よく毎日飽きずに、似たようなことができるよね』
 奏: 『ふふっ』
-(Black cut)
+(Black transition)

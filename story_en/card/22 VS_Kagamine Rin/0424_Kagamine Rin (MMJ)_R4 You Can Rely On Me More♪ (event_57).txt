@@ -10,19 +10,15 @@ Gacha phrase: You can bug me as much as you want!
 [Stage SEKAI]
 
 Rin: One, two, three, four...! And... A great, big smile♪
-(Black cut)
+(Black transition)
 Rin: Okay, I'm getting the hang of that new dance now. I can't wait to practice it with Minori and the girls!
 Rin: (Oh, but...)
 Rin: (They're still trying to help the girl that's writing their new song for them...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin: (Hmm... I told Haruka pretty much everything I could, so I hope things are going well...)
 Rin: Huh? Haruka?!
@@ -30,7 +26,7 @@ Haruka: Perfect. There's something I need to tell you, Rin.
 Rin: Did something happen? If you need to talk, I'm all yours.
 Haruka: Thanks. But I'm not here to talk today. I'm here to invite you.
 Rin: Huh? Invite me?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -44,7 +40,7 @@ Minori: But I still wish you could've been there to see Mai's show with us, Rin.
 Rin: <No, it's okay. Haruka even said that it wouldn't be easy to keep her phone out the entire time.>
 Rin: <But I've been super stoked about going shopping with all of you♪ Where do you wanna go first?>
 Haruka: Hehe. How about...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -60,7 +56,7 @@ Shizuku: That's a decor store. They sell all sorts of fun goods and trinkets.
 Airi: Um, you could be a little more descriptive...
 Minori: It'll be quicker to just see for ourselves, so let's check it out!
 Rin: <Okay!>
-(Black cut)
+(Black transition)
 Rin: <Oh wow! Hey, why's this cat taking a bath?>
 Haruka: That looks like a humidifier that doesn't require electricity. Apparently, it'll humidify on its own after you pour in some water.
 Rin: <Oh, how about these really fluffy clothes?>
@@ -69,7 +65,7 @@ Rin & Minori: <That's adorable!>
 Rin: <What about that other fluffy one? The hood looks spiky...>
 Haruka: This one's... Oh, it's an alligator.
 Rin & Airi: <A-An alligator?!> A-An alligator?
-(Black cut)
+(Black transition)
 Haruka: I'm glad we managed to get our hands on some nice accessories.
 Minori: Yeah! We can hand Miku and the others the souvenirs we got them the next time we're in SEKAI!
 Rin: <Okay, sounds like a plan♪>
@@ -91,7 +87,7 @@ Rin: <Alright, let's have even more fun♪ We're all gonna be smiling from ear t
 Minori: Yeah, let's do that!
 Haruka: Hehe. Okay, why don't we head to our next stop?
 Rin: <Woohoo!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -130,7 +126,7 @@ Rin: Hmm... What I'd like you to do for me...?
 Miku (MMJ): Oh, why don't you have her help you with that dance routine? Weren't you just about to keep working on it?
 Rin: Great idea! Especially since Haruka's such a great dance teacher!
 Rin: So, Haruka, the thing is...
-(Black cut)
+(Black transition)
 Haruka: Alright, let's do a quick run-through based on what we just discussed...
 Haruka: One... Two... Three... Four...
 Rin: Huh? Is it me or did Miku and I fall out of sync when you said, “Three,” just now?
@@ -147,11 +143,11 @@ Rin: Yeah, weight and balance.
 Rin: Thank you so much, Haruka! I'll keep that in mind as I practice!
 Rin: Oh, Miku, mind seeing how I do?
 Miku (MMJ): Of course!
-(Black cut)
+(Black transition)
 Rin: One... Two... Th... No, my weight's on my right foot again.
 Miku (MMJ): That just may be what feels most natural now after practicing so much.
 Haruka: That's okay. Just take it slow as you try to shift your weight into the right position.
-(Black cut)
+(Black transition)
 Rin: (Left foot... Left foot...)
 Rin: One... Two... Th... W-Wah!
 Haruka: Rin? Are you okay?
@@ -161,7 +157,7 @@ Rin: Alright, one more time.
 Rin: (Miku and Haruka are really going out of their way to help me with this routine.)
 Rin: (I couldn't ask for better support♪)
 Rin: (I want them to smile, so I've gotta keep trying my best!)
-(Black cut)
+(Black transition)
 Rin: One, two, three, four...!
 Rin: Oh... I... I did it!
 Miku (MMJ): Nice job, Rin! That was great!
@@ -174,4 +170,4 @@ Haruka: The truth is, Minori's having trouble with the same exact part.
 Haruka: But she's really close to getting it right, so I'd really appreciate it if you could give her that extra push over the finish line...
 Rin: *Gasp* Yeah, you can count on me!
 Rin: Alright, I'm gonna get this part down perfectly before the others all get here♪
-(Black cut)
+(Black transition)

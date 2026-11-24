@@ -37,10 +37,8 @@
 奏: 『あ……そういうわけじゃないんだけど』
 (Background change)
 奏: 『実は今日、お父さんのお見舞いに行った時に——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数時間前]
@@ -68,10 +66,10 @@
 奏: わたしの……？
 みのり: うん！　まぶしかったって言ってくれて……
 奏: ……あ……
-(White cut)
+(White transition)
 (Background change)
 みのり: ————♪　——♪
-(White cut)
+(White transition)
 (Background change)
 奏: 思い出した……。 たしか、あの時歌ってた——
 みのり: はい、花里みのりです！
@@ -95,7 +93,7 @@
 みのり: じゃあ、荷物預かるね。 よいしょ、っと！
 みのり: えっと……病院はどっちかな？
 奏: あ、うん。こっちだよ
-(Black cut)
+(Black transition)
 
 [病院前]
 
@@ -109,10 +107,8 @@
 奏: （花里さんが声をかけてくれて助かったな……。 わたしだけじゃ、たどり着けるか怪しかったし）
 奏: トレーニング、か……
 奏: （迷惑かけちゃったし、わたしも少しは 体力つけたほうがいいかも……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『——ってことがあったんだ』
 (Background change)
@@ -167,8 +163,8 @@
 (Background change)
 奏: 『Amiaも提案してくれてありがとう』
 瑞希: 『いえいえ！ ふたりとも、いい汗かいてきてね！』
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: 『……ふふ。 退屈だったから少し様子を覗きに来たけれど……』
 ルカ: 『なんだかとっても、楽しいことになりそうね』
-(Black cut)
+(Black transition)

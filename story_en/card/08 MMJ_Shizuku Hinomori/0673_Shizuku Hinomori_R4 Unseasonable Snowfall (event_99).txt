@@ -31,7 +31,7 @@ Shizuku: Yes, of course! This is so wonderful!
 Airi: Yeah, we're happy to have you!
 Airi: Then, let's keep discussing what we're gonna see and where we wanna visit!
 Shizuku & Mafuyu: Yes! Okay.
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: See you later!
 Mafuyu: Please feel free to stop by the archery club whenever you have time.
@@ -42,20 +42,16 @@ Shizuku: I wasn't expecting that we'd get to go sightseeing together since we're
 Airi: I mean, it's sort of a miracle that we get to go on the school trip at all.
 Shizuku: Yes. So, Airi, we need to have as much fun as we can.
 Shizuku: (That includes making as many memories as we can with Asahina...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: Then, let's have another contest sometime.
 Shizuku: What?
 Mafuyu: This one ended in a draw...
 Mafuyu: But I'll win next time.
 Shizuku: Yes, let's...! And I promise to do my best then!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (This may be another chance for me to get to know Asahina better...)
 Shizuku: Hehe...
@@ -66,7 +62,7 @@ Airi: We can think of what to get Minori and the others together. The rest can b
 Airi: I'm also thinking about getting Saki and Emu something.
 Shizuku: Oh, I'm sure they'll really appreciate that! We should try to see what kinds of souvenir shops there are around the city.
 Airi: Yeah!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -88,7 +84,7 @@ Shizuku: Yes, I know! They do that apparently because they're more transparent t
 Shizuku: Please share them with Honami and the others if you get a chance.
 Shiho: Okay, I will. Thanks for getting me these, Shizuku.
 Shizuku: Hehe. You're welcome.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -157,4 +153,4 @@ Haruka: Hehe. I can't tell you two apart.
 Miku & Co.: Hehe. Haha!
 Shizuku: Haruka and Minori both seem to really like what we got for them.
 Airi: Yeah, it was definitely worth the time and effort.
-(Black cut)
+(Black transition)

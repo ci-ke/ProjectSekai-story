@@ -19,11 +19,9 @@
 一歌: うん。また明日
 一歌: ……あ
 一歌: （……咲希があんなにはしゃいでたのは、 みんなと一緒にいられるのが嬉しいからかな？）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: いっちゃん、今日はわざわざお見舞いに来てくれて、 ホントにありがとう！
 一歌: ううん。むしろ、あんまり来られなくてごめんね
 咲希: 全然だよ！ ここまで来るの、新幹線使っても２時間かかるし、 交通費もすごいかかっちゃうんだもん
@@ -37,14 +35,12 @@
 咲希: あっ！　駅で買える『ももどーる』ってお菓子、オススメだよ！ とっても美味しいんだ～。お土産に買ってってね
 咲希: バイバイ、いっちゃん！
 一歌: 咲希……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: （……ずっとみんなと一緒にいたかったんだもんね）
 一歌: （こうやって、みんなで一緒にバンドをやれるようになって 本当によかった）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -54,23 +50,19 @@
 咲希: あ、たしか……。 はい、お願いします！
 店長: 来月も今月と同じシフトね。 わかったわ。よろしくね
 咲希: はーい！　よろしくお願いします！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: スクランブル交差点)
 咲希: ふふっ。スケジュール帳、予定がいっぱい♪
 咲希: バンドもして、部活もして、バイトもして、 青春してるって感じ～！
 咲希: ……でも
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: ……みんなに、会いたいなぁ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: もっと……一緒にいたいな
 咲希: ……ん？ なんだろ、このポスター。昨日まではなかったよね
 咲希: 天文台、一般開放……。 家族や友達と、星を見てみよう……
@@ -84,4 +76,4 @@
 咲希: それでたくさん遊んだら、夜は天文台で星を見て……
 咲希: うん、絶対楽しい！ よーし、みんなにも予定確認しなくっちゃ！
 咲希: みんなと一緒に、いっぱい遊びたいな～！
-(Black cut)
+(Black transition)

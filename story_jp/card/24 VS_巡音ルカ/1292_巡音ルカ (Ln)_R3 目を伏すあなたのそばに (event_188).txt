@@ -15,7 +15,7 @@ Gacha phrase: それは、おかしなことじゃないわ
 ルカ (Ln): （……そういえば、今日の練習は みんなかなり力が入っていたし——）
 ルカ (Ln): （あの様子だと、もしかしたらまだ眠れていない子も いるかもしれないわね）
 ルカ (Ln): ……ちょっとだけ、みんなの様子を見に行ってみようかしら
-(Black cut)
+(Black transition)
 (Background change)
 
 [一歌の部屋]
@@ -33,7 +33,7 @@ Gacha phrase: それは、おかしなことじゃないわ
 一歌: ありがとう。ルカにそう言ってもらえると、安心するな
 一歌: もう少しだけ練習はするけど…… 今日は、なるべく早く寝るようにするよ
 ルカ (Ln): 『ふふ、ゆっくり休んでね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [志歩の部屋]
@@ -49,7 +49,7 @@ Gacha phrase: それは、おかしなことじゃないわ
 ルカ (Ln): 『志歩らしいわね』
 ルカ (Ln): 『それじゃあ、頼もしい言葉も聞けたし 私はもう行こうかしら』
 ルカ (Ln): 『明日、楽しみにしてるわね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [穂波の部屋]
@@ -74,7 +74,7 @@ Gacha phrase: それは、おかしなことじゃないわ
 ルカ (Ln): （最後は——咲希ね）
 ルカ (Ln): （咲希のことだし、 楽しみ過ぎて眠れないなんてこともありそうだけど……）
 ルカ (Ln): （ふふ。早く行きましょう）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,15 +83,11 @@ Gacha phrase: それは、おかしなことじゃないわ
 
 [教室のセカイ]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (Ln): （……本当に、いいライブだったわね）
 ルカ (Ln): （Leo/needの音楽が、たくさんのファンに届いて——）
@@ -100,7 +96,7 @@ Gacha phrase: それは、おかしなことじゃないわ
 ？？？: ……————♪
 ルカ (Ln): ……一歌達の曲？　屋上の方かしら
 ルカ (Ln): それに、この声って——
-(Black cut)
+(Black transition)
 (Background change)
 
 [屋上]
@@ -138,4 +134,4 @@ MEIKO (Ln): よーし、最高に熱いセッションにしなくちゃね！
 ルカ (Ln): （……これから先も、みんなと一緒に—— 一歌達の進む先を見守っていけますように）
 リン (Ln): ルカ姉、早く早く！ もう始めちゃうよー！
 ルカ (Ln): ふふ。すぐに準備するわ
-(Black cut)
+(Black transition)

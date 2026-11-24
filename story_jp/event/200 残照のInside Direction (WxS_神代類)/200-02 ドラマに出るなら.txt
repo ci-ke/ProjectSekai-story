@@ -21,13 +21,13 @@ MEIKO (WxS): 『ええ！ 実は最近ハマっちゃったのよ！』
 MEIKO (WxS): 『ショーとはまた違った方法で 物語を表現しているでしょう？ そのあたりがとっても新鮮で！』
 MEIKO (WxS): 『最初はショーに役立ちそうなものはないかしらって、 司くんがさぶすく？で見てるドラマを一緒に見させて もらっていたんだけど……』
 MEIKO (WxS): 『どのジャンルのドラマも見応えがあって楽しくて、 気づいたら好きになっちゃってたの！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000563/bg_s000563.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000563/bg_s000563.webp)
 MEIKO (WxS): 『特に今ハマってるのは、探偵ものよっ！』
 MEIKO (WxS): 『探偵が個性的で面白いし、 格闘シーンが入ってるものもあって——』
 MEIKO (WxS): 『サスペンス、アクション、そしてロマンスまで！ ぜーんぶ楽しめちゃうのよ！』
 MEIKO (WxS): 『何より推理パートが あっと驚く展開で……って』
-(White cut)
+(White transition)
 (Background change)
 MEIKO (WxS): 『あはは、ちょっと喋りすぎちゃったわ～。 これじゃ、類くんの休憩にならないわよね』
 類: そんなことはないよ。 メイコさんの話はいつも楽しいし、 僕も好きなものについて話す時は同じようなものだしね
@@ -63,7 +63,7 @@ MEIKO (WxS): 『え、そうなの！？ ずいぶん重要そうな役じゃな
 MEIKO (WxS): 『ええ！　類くんなら、きっとできるわ！！』
 MEIKO (WxS): 『あ……ねえ、もしよかったらなんだけど、 撮影現場も覗きにいっていいかしら？』
 類: フフ、もちろんだよ。 メイコさんが現場でエールを送ってくれたら、 それほど心強いことはないしね
-(Black cut)
+(Black transition)
 (Background change)
 
 [撮影当日]
@@ -93,4 +93,4 @@ MEIKO (WxS): 『とってもワクワクするわね……！ 覗かせてくれ
 大原監督: まあ、話すと長くなるんだが——
 大原監督: ……聞くも涙、語るも涙。 大人の事情ってやつがあるのよ……
 類: …………？
-(Black cut)
+(Black transition)

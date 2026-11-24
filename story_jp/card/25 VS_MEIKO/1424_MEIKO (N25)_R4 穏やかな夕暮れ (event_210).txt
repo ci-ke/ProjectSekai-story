@@ -11,14 +11,10 @@ Gacha phrase: いい息抜きができているみたいね
 
 [湖]
 
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): （……あれから、少し経ったけれど）
 MEIKO (N25): （まだ、答えは出ていないようね）
 ？？？: ——こんなところにいたのね
@@ -29,7 +25,7 @@ MEIKO (N25): 私を？
 ルカ (N25): ええ。見せたいものがあるみたい
 ルカ (N25): ほら、行きましょう。 あまり待たせるのも悪いわよ？
 MEIKO (N25): …………
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: ふたりとも、こっちこっち！
 レン (N25): ルカさん、呼んできてくれてありがとう
@@ -71,7 +67,7 @@ MEIKO (N25): （まふゆも奏も……今はあまり、目を離したくな�
 MEIKO (N25): ……私も行くわ
 瑞希: ホント！？　やったー！
 レン (N25): みんなでお出かけ、楽しみだな……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,15 +79,11 @@ MEIKO (N25): ……私も行くわ
 [湖]
 
 MEIKO (N25): （昨日の旅行では……穏やかな時間を過ごせたみたいね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): （……けれど、あの子達を取り巻く状況は変わらないわ）
 MEIKO (N25): …………
@@ -137,4 +129,4 @@ MEIKO (N25): 和菓子、届けてくれてありがとう
 ミク (N25): うん。メイコも、美味しそうにしてた
 リン (N25): …………
 リン (N25): ……そうだね
-(Black cut)
+(Black transition)

@@ -22,7 +22,7 @@ Cleanup Committee Member: Many flowers are blooming beautifully now because of t
 Cleanup Committee Member: So, just like last year, I'd like for us to pick a few flowers to put in vases to display around the school.
 Kohane: Oh... Does that mean we get to choose the flowers?
 Cleanup Committee Member: I'll be assigning you all your own locations, but you'll only have a limited time to choose which flowers you'd like to use. The vases are stored in...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -37,7 +37,7 @@ Honami: But for that very reason, I'd like to choose a flower that will help bri
 Kohane: I see...
 Kohane: I also want to do my best to choose a flower that everyone will think is beautiful!
 Honami: Yes, let's both do our best!
-(Black cut)
+(Black transition)
 Kohane: Hmm... There really are a lot of different types here. I'm having trouble choosing...
 Kohane: How do you always pick them, Honami?
 Honami: Well, I try to think about how people will feel when they see them...
@@ -59,15 +59,11 @@ Kohane: Wow, these marigolds have such a gorgeous color to them. Just looking at
 Honami: I agree. I feel like these can help me get through my least favorite subjects.
 Honami: But it's also hard to say no to these petunias. I mean, they're just so cute. Which should I choose...?
 Honami: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: Is something the matter?
 Honami: So... I just remembered some flowers Ichika told me about the other day, as well as what they symbolize. Petunias were among them...
@@ -82,7 +78,7 @@ Kohane: We're just making our choices today, right? We won't actually be putting
 Honami: Yes, but we'll need to get to school a little early... That being said, I'm sure everyone will appreciate seeing all these cute flowers everywhere.
 Honami: So, let's do our best to wake up early...!
 Kohane: Yeah!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -146,4 +142,4 @@ Mizuki: And that happens every time you press the button. I think I did a year's
 Honami: Hehe. A button that makes you laugh each time you press it. That's so wonderful.
 Shizuku: Yes, it is. Can you tell us what other recordings there were?
 Mizuki: Umm... There was also his line about Tenma being written as “soaring pegasus”! And...
-(Black cut)
+(Black transition)

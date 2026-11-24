@@ -30,10 +30,8 @@
 司: オレの学校も今日始業式だったんだが、 なかなか面白かったぞ
 咲希: えっ、そうなの？ どんな感じだった？
 司: そうだな。どこから話そうか……。 まず、オレは自分のクラスに行ったんだが——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [神山高校　３年Ｃ組]
@@ -41,8 +39,8 @@
 司: なにーーーーーーーーーーーーーーーーーーーーーーーーっ
 (Background change)
 司: ま、まさか……！　まさか……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000235/bg_s000235.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000235/bg_s000235.webp)
 司: まさか、類と同じクラスになるとは！！
 類: いやあ、これには僕も驚いたよ
 類: 噂に聞いたところでは、教師の負担を減らすために 問題児は別々のクラスにされるというからね
@@ -51,7 +49,7 @@
 クラスメイト達: まさか、ワンツーがそろってるとはな……
 クラスメイト達: 大丈夫なのか……？ 授業中もとんでもないことになるんじゃ……
 クラスメイト達: でも飽きなさそうだよな。 いつも楽しそうに騒いでるし
-(White cut)
+(White transition)
 (Background change)
 司: む？ 何やら、妙に注目されているような……？
 司: これはもしかすると——
@@ -66,4 +64,4 @@
 類: うーん……。 僕達が寧々のクラスに行って、 寧々が和むかどうかは怪しいところだけれど……
 類: まあ、見に行ってみてもいいかもしれないね。 どんなクラス分けになったのか、興味もあるし
 司: そうだろうそうだろう！ それでは、２年生の教室へ出発だ！
-(Black cut)
+(Black transition)

@@ -64,7 +64,7 @@ MEIKO: なら、希望の魔法が使えちゃうみのりちゃん達が、 同
 MEIKO: いいわね、みのりちゃん！　その意気よ♪
 愛莉: まったく……。練習終わった直後は バテバテだったくせに
 遥・雫: 『ふふっ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -114,7 +114,7 @@ MEIKO: いいわね、みのりちゃん！　その意気よ♪
 長谷川: 『あ、そういえば日野森さんが デザインされた衣装にありましたね。 かわいらしいモチーフだなって気になってたんです』
 みのり: え？　あ、そそそ、そうなんです！ かわいいですよね～、あははは……！
 遥: えっと、長谷川さんは 三つ葉のクローバーの花言葉って知ってますか？
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: わたしは……そうねえ
 愛莉: 大事にしてるっていうより これから大事にしていきたいことなんだけど……
@@ -135,7 +135,7 @@ MEIKO: いいわね、みのりちゃん！　その意気よ♪
 (Background change)
 雫: ええ！　ダンスの居残り練習につきあってくれた 愛莉ちゃんがね——
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 長谷川: 『ありがとうございます。すごくコアなお話が聞けて、 なんだかドキドキしちゃいました！』
 (Background change)
@@ -155,23 +155,19 @@ MEIKO: いいわね、みのりちゃん！　その意気よ♪
 みのり: おおー！　……って、あれ？
 遥: “この景色を見て、前を向いて、思い出してほしいの 明日はきっといい日になるって——信じてほしいの”
 みのり: え、それ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: あの時、みのりが私に言ってくれた言葉だよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ええっー！　お、覚えててくれたの！？
 遥: もちろん。だって私に、 “明日をがんばる希望”をくれた言葉だから
 みのり: …………！
 みのり: は、遥ちゃん……！
 (Background change)
-(Black cut)
+(Black transition)
 長谷川: 『ありがとうございます！ いろいろ教えてくださったおかげで、 皆さんのことをもっと理解できた気がします』
 (Background change)
 愛莉: 役に立ててよかったわ
@@ -184,4 +180,4 @@ MEIKO: いいわね、みのりちゃん！　その意気よ♪
 (Background change)
 雫: 嬉しそうだし、 もうしばらくこのままでいいんじゃないかしら
 遥: ふふ。そうだね
-(Black cut)
+(Black transition)

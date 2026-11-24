@@ -27,7 +27,7 @@ Skill name: 当たり前じゃなくなったら？
 奏: じゃあ、まふゆが帰ってくるまでには アレンジ終わらせておくよ
 まふゆ: うん……
 まふゆ: とりあえず、ご飯食べて
-(Black cut)
+(Black transition)
 (Background change)
 奏: ——ごちそうさまでした
 まふゆ: ……ごちそうさまでした
@@ -40,7 +40,7 @@ Skill name: 当たり前じゃなくなったら？
 奏: ……ああでも、 アレンジも切りのいいところまではやらないと。 気になって眠れないから
 まふゆ: ……ちゃんと寝てくれるなら、それでもいいよ
 奏: うん。心配してくれてありがとう、まふゆ
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -50,7 +50,7 @@ Skill name: 当たり前じゃなくなったら？
 まふゆ: （……奏、あれからちゃんと休んだかな）
 まふゆ: （体力ないし、徹夜の状態では出かけないだろうけど……。 お昼にメッセージ送って、念押ししておけばよかったな）
 まふゆ: そうだ……
-(Black cut)
+(Black transition)
 (Background change)
 ミク (N25): ……あれ、まふゆ？
 まふゆ: ミク、ちょうどよかった
@@ -67,7 +67,7 @@ KAITO (N25): ……あいつを見に行って、 休んでないようなら休
 KAITO (N25): お前に届く曲を作れるのは、あいつだけだからな。 何かあっても困る
 ミク (N25): 大丈夫だよ、まふゆ。 奏のことは任せて
 まふゆ: ……うん。ふたりとも、よろしく
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -161,20 +161,16 @@ KAITO (N25): お前に届く曲を作れるのは、あいつだけだからな�
 まふゆ: （学校に、行かなくていい）
 まふゆ: （行かなくていい……）
 まふゆ: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 女性教師: 朝比奈さんは本当に気が利くわね。 とても助かるわ
-(White cut)
+(White transition)
 クラスメイト: まふゆ、助けてー！　次の数学当てられそうなのに、 ここの問題が全然わかんなくって！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 『私は……』
 まふゆ: 『……多分、今まで通り行く気がする』
@@ -218,4 +214,4 @@ KAITO (N25): お前に届く曲を作れるのは、あいつだけだからな�
 (Background change)
 まふゆ: （うるさいのは嫌だけど……）
 まふゆ: （……この時間は、嫌じゃないな）
-(Black cut)
+(Black transition)

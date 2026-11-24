@@ -6,15 +6,11 @@
 
 An: Hey, we're here! Anyone around?
 Kohane: (So this is Crawl Green... It looks a little bigger than COL...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (This is where the legend began... That stage is where those three sang together for the very first time.)
 Toya: So that's where Ken stood and sang when he was still in high school...
@@ -24,21 +20,17 @@ Akito: ...
 Toya: Akito...?
 Akito: Nothing's changed since the last time I was here. Well, I guess the interior wouldn't change that quickly...
 Akito: But I'm glad everything is the same. Otherwise, I wouldn't be able to redeem myself for what happened back then...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Junior High School Akito (Akito): (Why am I not able to sing like them?)
-(White cut)
+(White transition)
 Junior High School Akito (Akito): (I dragged the name of a legendary venue through the mud...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: I won't make the same mistake again. I'll really get the crowd going this time.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Backstage]
@@ -48,7 +40,7 @@ Owner of Crawl Green: I heard that Arata wouldn't be able to make it today, but 
 Owner of Crawl Green: Including a familiar face. You didn't run away, then?
 Owner of Crawl Green: Anyway, as much as I want to shoot the breeze with all of you, we don't have time... Let's start with a soundcheck.
 An: Okay!
-(Black cut)
+(Black transition)
 Owner of Crawl Green: Okay, that should do it...
 An: We're done! Thank you so much for going through all of that with us.
 Toya: Still, I'm surprised by how you are helping us with the sound setup instead of asking one of your staff to handle everything.
@@ -107,7 +99,7 @@ An: I've known they were amazing since I was born, but we're not playing around.
 Owner of Crawl Green: I see.
 Owner of Crawl Green: If you're that prepared, then I only have one thing to say to all of you. Put on the best event ever for me.
 Kohane: Of course...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -129,18 +121,14 @@ Kohane: (Because I see now that Crawl Green has a special place in the hearts of
 Kohane: (I didn't realize how many special memories lay hidden throughout this place...)
 Kohane: (Everyone, not just the owner... Their thoughts and feelings... That's what makes up the musical fabric of this city.)
 Kohane: (And all the people I met...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Record Store Lady: You're working on your singing? By taking photos? Oh, this must be another one of Taiga's weird training methods...
-(White cut)
+(White transition)
 Crepe Shop Lady: And here's yours Kohane! Strawberries with whipped cream! Good luck with your event!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Now, I have a connection to this place through Taiga and An...)
 Kohane: (I'm a part of it all now...)
@@ -155,4 +143,4 @@ An: Oh, really? I'm actually pretty starved too.
 Akito: But you just had some crepes.
 An: Hey, cut me some slack. I used a lot of brain power during our meeting!
 Kohane: Hehe. But I'd like to take a break as well, so why don't we all head to SEKAI?
-(Black cut)
+(Black transition)

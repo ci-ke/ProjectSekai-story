@@ -15,7 +15,7 @@
 まふゆの母親: （……本当、まふゆはいい子ね）
 まふゆの母親: ——そうだわ、まふゆの部屋を掃除しておこうかしら
 まふゆの母親: 綺麗にしておけば、あの子も 気持ちよく勉強できるでしょうし……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　２年Ｂ組]
@@ -29,7 +29,7 @@
 クラスメイト: あ、そろそろ部活行かなきゃ。 ばいばい、まふゆ！
 まふゆ: うん。また明日
 まふゆ: …………勉強しよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -38,7 +38,7 @@
 まふゆ: （……模試対策用の問題集は終わった。 ３周解き終わったし、もう大丈夫かな）
 まふゆ: （ちゃんとやれば、結果は出せるはず——）
 まふゆ: ……そろそろ帰らないと。 お母さんが待ってる
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 朝比奈家　リビング)
 まふゆ: ただいま
@@ -51,33 +51,27 @@
 まふゆの母親: お母さんの目を見て、 何もないって、ちゃんと言える？
 まふゆ: え……
 まふゆ: （隠しごと……。 お母さんに、言えないようなことって……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （——もしかして……）
 まふゆ: ……隠してることなんてないよ。 お母さんに、そんなことするわけないし
 まふゆの母親: じゃあ、“これ”は、なに？
 まふゆ: ……！
 まふゆ: （……私の、シンセサイザー……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母親: さっきまふゆの部屋を掃除してたら見つけたの。 使わないのに部屋にあっても邪魔でしょう？
 まふゆの母親: お父さんが買って、それっきりになってたのかしらね。 明日、回収してもらうから……
 まふゆ: …………なんで？
 まふゆの母親: え？　だって、いらないでしょう？
 まふゆ: これは……私にとって……
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -93,10 +87,8 @@
 まふゆ: 母には私から伝えておきますから
 回収業者: ああ、わかりました。 じゃあ他のものを回収しておきますね
 まふゆ: はい、お願いします
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆの母親: これは前に捨てたはずよ。 どうしてまふゆの部屋にあるのかしら
 まふゆ: …………え、っと
@@ -124,23 +116,19 @@
 まふゆ: ……ありがとう、お母さん。 心配かけちゃってごめんなさい
 まふゆ: ……でも——
 まふゆ: （……私にとって、音楽は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生のまふゆ (まふゆ): （…………このまま、ずっと変わらないの？）
 中学生のまふゆ (まふゆ): （何がおもしろいのか、何がほしいのか、 わからないままなの？）
 中学生のまふゆ (まふゆ): （高校生になっても、大学にいっても。 このまま、ずっと——）
-(White cut)
+(White transition)
 (Background change)
 まふゆ: （……やっぱり知りたい）
 まふゆ: （この曲の何が——私を揺り動かすのか）
 まふゆ: ……メロディーから真似して、作ってみよう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………お母さんが、 私のことを心配してくれるのはすごく嬉しいけど
 まふゆ: 私は……やってみたいの。音楽を
@@ -160,16 +148,12 @@
 まふゆの母親: でも……まふゆが今、大事にしなきゃいけないのは 同じように受験勉強を頑張っているお友達じゃないかしら？
 まふゆの母親: きっと、同じ目標を持ってる子のほうが 実りのあるおつきあいができると思うの
 まふゆ: そう、かもしれないけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 私は——
 まふゆの母親: まふゆ……
@@ -186,16 +170,12 @@
 まふゆの母親: ……後悔、しないようにね？
 まふゆ: …………っ
 まふゆ: ……私……私が、したいことは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ——ごめんね、お母さん
 まふゆ: …………私、音楽は、もうやめるよ
@@ -206,7 +186,7 @@
 まふゆの母親: じゃあ、このシンセはもういらないわね。 お母さんが預かっておくわ
 まふゆ: うん、わかった。 わがまま言ってごめんなさい
 まふゆ: ——私、夕飯まで勉強してくるね
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -214,19 +194,15 @@
 まふゆ: ……はあ、はぁ……っ
 まふゆ: （……胸の奥が、冷たい。 苦しくて、何も考えられない……）
 まふゆ: （さっきのお母さんの姿が——頭から、離れない）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母親: ……後悔、しないようにね？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……通、知……？ 瑞希から……
 瑞希: 『今からセカイに来れる？ みんなに話したいことがあるんだ！』
 まふゆ: ……セカイ……
 まふゆ: …………セカイに、行こう
-(Black cut)
+(Black transition)

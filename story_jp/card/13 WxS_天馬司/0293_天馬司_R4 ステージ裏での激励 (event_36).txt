@@ -25,7 +25,7 @@ Gacha phrase: 案ずるな！花里ならばできる！
 司: 珍しいな……。 まあ、遠慮はいらん。言ってみろ！
 寧々: じゃあ……
 寧々: 今度、バーチャル・シンガーファンフェスタっていう イベントがあるの知ってる？
-(Black cut)
+(Black transition)
 類: ——なるほど。バーチャル・シンガーの感謝祭か。 たしかに、毎年開かれていた気がするね
 司: いわれてみれば、オレも多少覚えがあるな。 だが、肝心の頼みごとというのはなんなんだ？
 寧々: えっと……
@@ -87,14 +87,14 @@ Gacha phrase: 案ずるな！花里ならばできる！
 寧々: それも今さらだけどね
 寧々: ふふっ
 えむ: あははっ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 天馬咲希, 天馬司, 鳳えむ, 草薙寧々, 神代類, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -123,7 +123,7 @@ KAITO: ふふ、本当だね。じゃあ、僕らも行こうか
 KAITO: あー……。ちょっと事情があってね
 KAITO: ステージに着いたら、少し時間をもらえるかな？
 司: …………？
-(Black cut)
+(Black transition)
 (Background change)
 ミクの着ぐるみ: ミクダヨー☆
 司: おわあああああ！？ ……って、ミクか……
@@ -162,15 +162,11 @@ KAITO: たしかに体力的にはバテることもあるけど、 やっぱり
 KAITO: それに、司くんならわかるんじゃないかな？
 KAITO: 妹や弟達が笑顔でいてくれることが、 どれだけ嬉しいことか
 司: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ああ！　そうだな！
 司: 大切な人が笑顔でいてくれるだけで、 こちらも自然と嬉しくなる——
@@ -179,4 +175,4 @@ KAITO: 妹や弟達が笑顔でいてくれることが、 どれだけ嬉しい
 KAITO: うん、そうだね
 KAITO: お互い、これからもいいショーをたくさん作っていこう
 司: ああ、そして見てくれる人達を どんどん笑顔にしていくぞ！
-(Black cut)
+(Black transition)

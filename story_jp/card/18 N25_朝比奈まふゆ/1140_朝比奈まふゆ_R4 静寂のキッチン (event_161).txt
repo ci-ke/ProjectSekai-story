@@ -15,12 +15,12 @@ Gacha phrase: 私が、止めないといけなかったのに……
 まふゆ: ……箸が止まってるけど、 ご飯、もう食べないの？
 奏: あ、ごめん。忘れてた。 今、食べるね
 まふゆ: …………
-(Black cut)
+(Black transition)
 奏: ……ごちそうさまでした
 まふゆ: お茶、いれる？
 奏: あ……。ううん、今日は大丈夫。 すぐ作業に戻りたいし
 奏: ……そうだ。 ニーゴの作業について、相談があるんだけどいいかな？
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -33,18 +33,14 @@ Gacha phrase: 私が、止めないといけなかったのに……
 絵名: 『そうだ。Kから“しばらくひとりで集中したい”って メッセージ来てたけど、あれって……』
 (Background change)
 まふゆ: 『あれは——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: もっと集中できるように、 しばらくひとりで作業しようかなって思うんだ
 奏: だから、まふゆには悪いけど 寝室で作業してもらってもいいかな？
 奏: あ、ご飯やお風呂も、わたしのことは気にしないで、 まふゆが好きなタイミングで済ませちゃって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 『……ナイトコードにも、 しばらくログインしないつもりみたい』
 まふゆ: 『もし急いで確認したほうがいいことがあったら、 私から直接Kに伝えるから、教えて』
@@ -56,7 +52,7 @@ Gacha phrase: 私が、止めないといけなかったのに……
 瑞希: 『だね！　それじゃあボク達も気合いを入れてがんばろー♪』
 (Background change)
 まふゆ・絵名: 『うん』 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: …………
 まふゆ: 『……ふたりとも、今日は静かだね』
@@ -95,7 +91,7 @@ Gacha phrase: 私が、止めないといけなかったのに……
 瑞希: 『ボクも。あ、雑談も大歓迎だよ♪』
 (Background change)
 まふゆ: 『うん。またあとで』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -107,39 +103,31 @@ Gacha phrase: 私が、止めないといけなかったのに……
 まふゆ: （ご飯は冷凍のがあるから、それを解凍して……）
 まふゆ: （あとは卵と……ネギも少しある）
 まふゆ: （まずは、何か食べてもらわないと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……奏、動かないで
-(White cut)
+(White transition)
 奏: ……ごめん。心配かけて
 まふゆ: ……別に、謝ることじゃない
 まふゆ: 奏は、私のために作ってくれてるんだから
 まふゆ: でも……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 奏: もっと集中できるように、 しばらくひとりで作業しようかなって思うんだ
 奏: だから、まふゆには悪いけど 寝室で作業してもらってもいいかな？
 奏: あ、ご飯やお風呂も、わたしのことは気にしないで、 まふゆが好きなタイミングで済ませちゃって
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ……奏、少しは食べないと
 奏: …………うん、そうだね
 奏: 落ち着いたら食べるよ
 まふゆ: …………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: あ……
 まふゆ: ……鍋。 お水と、和風だしも……
@@ -161,4 +149,4 @@ Gacha phrase: 私が、止めないといけなかったのに……
 まふゆ: （一度、火を止めないと……）
 まふゆの声 (まふゆ): ……なに？
 まふゆの声 (まふゆ): ……何か絵名が叫んでたけど
-(Black cut)
+(Black transition)

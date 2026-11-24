@@ -48,7 +48,7 @@ Tsukasa: (They may be robots, but they're still fellow performers who helped to 
 Rui: ...
 Rui: I haven't given up yet, either. I'll be spending a bit more time to look for ways to store them properly.
 Tsukasa: Oh... Okay.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -74,7 +74,7 @@ Tsukasa: In recent years? Does that mean this same mask has been in use for a fe
 Zombie Cast: Of course. It would be a waste of resources to dispose of something so well-made only after using it once, right?
 Tsukasa: (That means there's a storeroom somewhere that's capable of keeping intricately designed props in good condition!)
 Tsukasa: (This is it! We've found what we need!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -98,7 +98,7 @@ Zombie Robot: Oooh... Oooh...
 Emu: Hmm? Is it just me, or do they look kinda happy?
 Rui: Maybe they're trying to thank Tsukasa?
 Tsukasa: Ha ha ha! Even robots understand the awesomeness that is me!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -117,7 +117,7 @@ Nene: (As long as they don't end up running around in circles...)
 Tsukasa: Okay, let's continue from where we left off yesterday.
 Rui: The scene where the witch pushes the prince to the edge of the stage, but then a fairy saves him in the nick of time?
 Tsukasa: That's the one. Let's start!
-(Black cut)
+(Black transition)
 Emu: Ho ho ho! Your attempts to flee from my magical troops have been such a waste of effort. Don't you agree, dear prince?
 Tsukasa: Ugh! Looks like that's all the time I can stall for...
 Emu: Come on, why aren't you fighting back? Is this really how you want it to end? Your pathetic life, that is!
@@ -132,16 +132,12 @@ Tsukasa: Owww, my backside!
 Emu: Tsukasa, are you okay?!
 Tsukasa: I...I'm fine, but my backside isn't...
 Rui: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Tsukasa: Aaargh!
 Rui: Oh!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Nene: Tsukasa? Are you listening?
 Tsukasa: Hm? Yeah, I'm listening.
 Tsukasa: Still, I can't believe I actually lost my footing! Though, I suppose it is only to be expected from a performance as bold and inspiring as mine, huh?
@@ -151,24 +147,20 @@ Nene: Now I'm more worried about his head than his body.
 Rui: Tsukasa, some injuries only start hurting a while after the fact. You shouldn't push yourself too hard today.
 Tsukasa: That's true. I'll take precautions and hold back from making any big movements from now.
 Tsukasa: Alright, apologies for the interruption. Let's get back to practice.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tsukasa's Room]
 
 Tsukasa: Sigh... I really goofed up...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nene: Ah! Tsukasa, don't move back!
 Emu & Rui: Tsukasa!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Tsukasa: Aaargh! What sort of star makes his troupe worry like that?!
 Tsukasa: What if Rui starts thinking about toning down the stage effects again because of this?!
 Saki: Tsukasa! Stop stomping around, you're so loud!
@@ -181,7 +173,7 @@ Tsukasa: Ugh, I even made Saki mad at me. I'm so useless...
 Tsukasa: I know. I can jump and roll around as much as I want on the bed, since the mattress should absorb the momentum.
 Tsukasa: Hmm? Jump and roll around... Absorb...
 Tsukasa: That's it! It's as simple as that!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -205,4 +197,4 @@ Tsukasa: What do you think, Rui? Now you can go all out, right?
 Rui: Hehe. Yes, that's right.
 Tsukasa: Excellent! Then let's start today's practice now!
 Emu, Nene, & Rui: Got it!
-(Black cut)
+(Black transition)

@@ -36,7 +36,7 @@
 愛莉: いいからいいから！ ほら、行きましょ！
 彰人: あ……はい
 絵名: それじゃふたりとも、よろしくね！
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -45,16 +45,12 @@
 愛莉: いいのよ。 わたしも、ココアが飲みたい気分だったし、 上の階に行ってみましょ
 彰人: ありがとうございます。 ……こっちにはあるといいんですけど……
 愛莉: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO (MMJ): 『……それなら、今日伝えたらいいんじゃないかな』
 KAITO (MMJ): 『せっかくこうして一緒に行動できてるんだし、 今日なら伝える機会もあるかもしれないよ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 愛莉: ——ねえ、彰人くん
 彰人: なんですか？
 愛莉: あのね、実はわたし…… 彰人くんに言いたかったことがあるの
@@ -115,4 +111,4 @@ KAITO (MMJ): 『せっかくこうして一緒に行動できてるんだし、 
 (Background change)
 KAITO (MMJ): （——よかった）
 KAITO (MMJ): （ちゃんと気持ちを伝えられたみたいだね）
-(Black cut)
+(Black transition)

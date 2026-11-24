@@ -22,7 +22,7 @@
 こはね: じゃあ、私はこれで——
 杏: あ、ちょっと待って。 こはね、もう少しつきあってよ
 こはね: え？　いいけど……
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -62,7 +62,7 @@
 みのり: それで、いつか誰よりも遥ちゃんに詳しくなるから！
 遥: ふふ、ありがとう。 私にもみのりのことをたくさん教えてね？
 みのり: うん！ ありがとう、遥ちゃん！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: フェニックスワンダーランド)
 杏: 本当に今日は誘ってくれてありがとうね！ すっごく楽しかったよ！
@@ -98,13 +98,13 @@
 こはね: 杏ちゃん、どうしたの？
 杏: こはね、あそこの噴水って…… さっきとちょっと違くない？
 こはね: え……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000023/bg_s000023.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000023/bg_s000023.webp)
 杏: ほら、噴水の真ん中にあるフェニーくんの足元！ ちょっと影になってるところ、模様に見えない？
 こはね: あ、本当だ……！ もしかして隠れフェニーくん？
 こはね: あんなところにあったなんて……！ ファンのあいだでも知られてないよ！
 杏: じゃあ、見つけたのって私達だけかもしれないってこと？ すごいじゃん！
-(White cut)
+(White transition)
 (Background change)
 杏: ねえ、この子、私達の秘密の隠れフェニーくんにしようよ！
 こはね: 私と杏ちゃんの……？
@@ -114,4 +114,4 @@
 こはね: （やっぱり杏ちゃんの笑顔、すっごくまぶしいな）
 こはね: （ちょっと寂しいなって思うこともあったけど、 ……そんなこと考える必要、なかったんだよね）
 こはね: （杏ちゃんの笑顔を、ずっと隣で……見続けていたいな）
-(White cut)
+(White transition)

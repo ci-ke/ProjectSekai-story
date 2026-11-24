@@ -15,7 +15,7 @@
 歴: ……気持ちはすごく嬉しいです。 僕なんかを主演に推してくださって……光栄です
 歴: ですけど、やっぱり僕は——
 歴: 彼らに——日陰にいる役達に、光を当てたいんです
-(Black cut)
+(Black transition)
 (Background change)
 
 [２週間後]
@@ -55,20 +55,16 @@
 司: しかしそれにしては、悩んでいる日野に対して 淡白な印象もある……ううむ
 類: （……これは、大分行き詰まっていそうだね）
 類: （何かアドバイスをしたいところだけれど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （……司くんは今、獏野さんの演技をイメージした上で、 自分なりにどう演じるかを模索している）
 類: （ここで僕が横やりを入れると、逆に混乱を生む可能性が高い。 ……だから……）
 類: （——ここは、我慢どころだね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -85,7 +81,7 @@
 司: ……いかんいかん！ このままでは部屋にため息が充満してしまう！
 司: ……そういえば、いつも走っている公園に 新しいカフェができていたな
 司: ここはひとつ、気分を入れ替えるとするか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [公園のカフェ]
@@ -145,4 +141,4 @@
 歴: はい。 たしかあれは……小学生くらいの時だったかな……
 歴: いろいろあって僕は…………話し相手がほしかったんです
 司: え？
-(Black cut)
+(Black transition)

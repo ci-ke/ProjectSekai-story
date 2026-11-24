@@ -13,7 +13,7 @@ MEIKO: そうだったの。かなり深刻みたいね……
 ミク (WxS): それで、えむちゃんはどこにいるの？ 一緒に来たんだよねっ？
 寧々: 途中まで一緒だったんだけど、『演目が決まらないなら、 実際にやってみて決めようよ』って言い出して、 ……今は小道具集めに行ってる
 寧々: わたしも行くって言ったんだけど、大丈夫って言われて……。 やっぱり、避けられてるのかな……
-(Black cut)
+(Black transition)
 (Background change)
 えむ: ん～。戦うシーンは、この剣があればできるかな？ あとは……
 えむ: …………
@@ -38,8 +38,8 @@ MEIKO: そうだったの。かなり深刻みたいね……
 レン: いつものえむちゃんの笑顔と、 ちょっと違うなって思って
 リン: うんうん！　リンにもそう見えるっ！
 えむ: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000055/bg_a000055.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000055/bg_a000055.webp)
 レン: ——ねえ、えむちゃん。 悲しい時は、笑顔でなくたっていいんだよ！
 えむ: え？
 リン: うん！　レンの言うとーりっ！
@@ -48,27 +48,23 @@ MEIKO: そうだったの。かなり深刻みたいね……
 レン: もし、えむちゃんが笑顔じゃなくなっちゃう時は、 ボク達みんながえむちゃんを助けるよ！
 レン: だから、無理に笑わないで大丈夫っ！
 ぬいぐるみ達: 『ソウダヨ～！』
-(White cut)
+(White transition)
 (Background change)
 えむ: ……助けに……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々の声 (寧々): 『……わたしだって、えむの力になりたい』
 寧々の声 (寧々): 『えむが困ってるなら、相談に乗りたい』
 寧々: ……そういうことだから
 寧々: なんか事情があって、 話せないのかもしれないけど……
 寧々: 話したくなったら……ちゃんと話してよね……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……寧々ちゃんも、そういうことが言いたかったのかな）
 えむ: （もしそうなら……。 やっぱり、話したほうがいいのかな……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -80,7 +76,7 @@ MEIKO: そうだったの。かなり深刻みたいね……
 司: あの時だって、あいつはギリギリになるまで何も——
 司: ……あの時？
 司: そうか——その手があったか
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -91,16 +87,12 @@ MEIKO: そうだったの。かなり深刻みたいね……
 えむ: やっぱり、ちゃんとみんなに話そう……！
 えむ: お兄ちゃんは、他に方法はないって言ってたけど、 みんなに相談に乗ってもらえば、きっと……！
 えむ: きっと…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 晶介: えむ。そんなに夢が見たけりゃ、ひとりで見てろ。 これ以上俺達を巻きこむな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: だけど……
 えむ: みんなには、ずっと、笑っててほしいな……
@@ -112,7 +104,7 @@ MEIKO: そうだったの。かなり深刻みたいね……
 えむ: 探す？　あたしのことを探してたの？
 類の声 (類): 『うん。ちょっと来てほしいところがあってね。 よければ、このドローンについて来てくれないかい？』
 えむ: …………？
-(Black cut)
+(Black transition)
 えむ: （こっちって、もしかして……）
 えむ: （やっぱり、観覧車のほうだ……！）
 司: やっと来たか！　待ちくたびれたぞ！
@@ -127,4 +119,4 @@ MEIKO: そうだったの。かなり深刻みたいね……
 えむ: あ……うん
 司: よし！　それでは一同、乗りこむぞ！！
 えむ: …………？
-(Black cut)
+(Black transition)

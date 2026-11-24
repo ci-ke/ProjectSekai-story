@@ -13,15 +13,11 @@ Gacha phrase: これって、もしかして……！
 
 一歌: ……いよいよ明日、か
 一歌: （初めてのワンマンっていうだけでも、 緊張するけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （うまくいけば、私達みんなでプロに——）
 一歌: ……余計にドキドキしてきちゃったな
@@ -89,7 +85,7 @@ Gacha phrase: これって、もしかして……！
 一歌: （でも、さっきよりはだいぶ気持ちが落ち着いてるかも）
 一歌: じゃあ、スマホスピーカーにして、 私はチューニングするね
 咲希: 『うんっ♪　あ、じゃあアタシはMCで話すこととか 考えておこっかな！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -113,23 +109,19 @@ Gacha phrase: これって、もしかして……！
 一歌: う、うん……
 一歌: （咲希、なんだか変だな……）
 一歌: （あ、もしかして——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: さっき朔さんが、 『バンドにとって一番大事なのは、音楽を届けたいって気持ちだ』 って言ってたでしょ？
-(White cut)
+(White transition)
 咲希: ……アタシはそれより、もっと大事にしちゃってることが あるかもって、思っちゃったんだ
-(White cut)
+(White transition)
 咲希: ……アタシにとっての一番は、 『みんなと一緒に音楽をやること』なんだろうな……って
-(White cut)
+(White transition)
 咲希: だから……アタシはこれでいいのかなって
 咲希: こんな気持ちでプロになって大丈夫かなって—— ちょっと、怖くなっちゃったんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……あの時のこと、まだいろいろ考えてるのかな？）
 一歌: （でも……それは自分達で納得がいく答えを 見つけなくちゃいけないこと、なんだよね……）
@@ -160,4 +152,4 @@ Gacha phrase: これって、もしかして……！
 咲希: わっ！　みんなが待ってること忘れてた！
 一歌: 急がないと！ 行こう、咲希
 咲希: うん！
-(Black cut)
+(Black transition)

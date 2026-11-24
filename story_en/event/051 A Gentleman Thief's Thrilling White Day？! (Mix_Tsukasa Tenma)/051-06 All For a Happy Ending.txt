@@ -15,16 +15,16 @@ Akito: (Hey, you okay? Can you walk...?)
 Hamano: (Yes...)
 Akito: “Alright, let's all wave goodbye to Chocota for now! See you later!”
 Children: “See you later!”
-(Black cut)
+(Black transition)
 (Background change)
 Len: (What's Tsukasa planning from here on out? I'm getting all anxious and excited at the same time!)
-(Black cut)
+(Black transition)
 (Background change)
 Choco Maniac (Tsukasa): “Now then... Back to making our chocolates!”
 Mizuki: “You guys all ready♪ Lemme hear it!”
 Children: “Yeah!”
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000054/bg_s000054.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000054/bg_s000054.webp)
 Mizuki: “Anyway, Mr. Thief here loves to eat chocolate, but doesn't have a clue when it comes to making them. So, we've gotta teach him how!”
 Mizuki: “Let's see... Where should we start? Oh, perfect! Thanks for raising your hand!”
 Girl: Yay, I got picked! We should choose which chocolates to use!
@@ -32,7 +32,7 @@ Mizuki: “That's right! We have quite a lot to choose from, so let's see what o
 Choco Maniac (Tsukasa): “I see... Yes, this is quite an impressive selection. Which do you think would be best for us?”
 Boy: Oh, I like milk chocolate!
 Girl: I like white chocolate!
-(White cut)
+(White transition)
 (Background change)
 Mizuki: “I personally prefer bitter or dark chocolate... So, what do you think?”
 Choco Maniac (Tsukasa): “Wait wait wait! There's no way we can use all of them! I need a minute to think!”
@@ -53,14 +53,14 @@ Choco Maniac (Tsukasa): “But he's put these delicious treats into a new light 
 Choco Maniac (Tsukasa): “Which is why I'd like to make some chocolates that look just like Chocota as a sort of olive branch!”
 Mizuki: “That's a great idea, Mr. Thief!”
 Choco Maniac (Tsukasa): “Thank you! So let's start making our chocolate Chocotas!”
-(Black cut)
+(Black transition)
 Mizuki: “Alright, everyone, remember what we need to do after we choose a design?”
 Children: “Melt the chocolate!”
 Tsukasa: (Once that's all melted, we just need to pour it into the molds, wait for them to cool and decorate them with some toppings...)
 Tsukasa: (But we can't keep this up forever. Will Akito and Chocota be able to make it back in time...?)
 Employee: Okay, the other show proceeded as planned, which means the demo corner should also be...
 Employee: Hm...? Wait, is that...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Green Room]
@@ -78,16 +78,12 @@ Hamano: No... It's just... My heart's been throbbing nonstop...
 Akito: What?
 Hamano: I-I'm sorry... It should settle down in a minute...
 Akito: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: (There's definitely something weighing on Hamano's mind, but he wants this show to go on despite that...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: Did something happen by chance...?
 Hamano: Huh...?
@@ -101,18 +97,14 @@ Hamano: She's also quite the confectioner... I've received many delicious gifts 
 Hamano: When she got married and moved overseas...
 Akito: ...
 Hamano: We were close enough that I knew she was dating someone from abroad, which didn't actually bother me that much...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Boy: Me...? They're for my friend, Haru, who lives next door to me!
 Boy: She always gives me snacks and sweets for Valentine's Day, so I want to give something back for White Day.
 Boy: And I want to keep doing this for Haru until I'm old and gray!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Hamano: But what that boy said... That sort of did it for me...
 Hamano: I saw myself in him... I realized that I was hoping that I'd be able to keep giving her gifts until the day I died...
@@ -148,4 +140,4 @@ Hamano: Please, wait...!
 Hamano: I made a mistake during the show and am having Tenma cover for me right now.
 Hamano: But I promise to see this through to the end. I promise to make everyone smile...
 Akito: Good. That's the spirit, Chocota.
-(Black cut)
+(Black transition)

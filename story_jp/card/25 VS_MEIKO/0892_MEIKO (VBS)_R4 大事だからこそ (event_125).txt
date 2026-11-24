@@ -21,19 +21,15 @@ MEIKO (VBS): ふふ、残念だけど、そういうわけじゃないのよ
 MEIKO (VBS): 頑張っている冬弥くんのために、できることをしたいと思って
 レン (VBS): え？　冬弥のため？
 MEIKO (VBS): ええ。……この前、 冬弥くんがすごく悩んでいて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO (VBS): え、いちから作り直す！？
 冬弥: ……はい。今のものをブラッシュアップしていっても、 いいものになるイメージがわかなくて…… 思い切って、再構成してみるのも手だと思ったんです
 冬弥: すみません、カイトさん。 ここまで手伝っていただいたのに……
 KAITO (VBS): ううん、気にしないで！ ボクもいろいろ調べてみるよ
 冬弥: ……はい。 ありがとうございます
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (VBS): 私も力になりたいと思って…… 私なりのやりかたで支えられたらって思ったの
 MEIKO (VBS): それで、冬弥くんが好きなコーヒーを使って、 甘さ控えめのお菓子を作ることにしたのよ
 リン (VBS): ふふっ、メイコらしいね！
@@ -43,20 +39,20 @@ MEIKO (VBS): え？
 リン (VBS): 賛成！ わたしも作りたーい！
 MEIKO (VBS): ……ふふ、ありがとう。 じゃあ一緒に作りましょうか
 リン・レン: 『やった～！』
-(Black cut)
+(Black transition)
 MEIKO (VBS): バターと卵の温度には気をつけてね。 うまく混ざりきらないと、焼き上がりが変わっちゃうから
 リン (VBS): はーい！
-(Black cut)
+(Black transition)
 MEIKO (VBS): 次は、細挽きにしたコーヒー豆を 生地に混ぜ込んでいってちょうだい
 レン (VBS): オッケー！ 少しずつ混ぜてっと……
 リン (VBS): あ、わたしもわたしも！
-(Black cut)
+(Black transition)
 MEIKO (VBS): リン。あんまり混ぜすぎたらダメよ。 生地が膨らまなくなったり、固くなりすぎちゃうから
 リン (VBS): うん！ ……それにしても、コーヒーっていいにおいだよね～
 MEIKO (VBS): そうね。まあ、焼き上げると香りは飛んでしまうから、 ほんのりとしか香らないけれど……
 リン (VBS): ってことは、この香りはわたし達の特権ってことだね！
 MEIKO (VBS): ……ふふっ、そうかもしれないわね
-(Black cut)
+(Black transition)
 MEIKO (VBS): ……うん。上手に焼けてるわ
 リン (VBS): やったー！
 MEIKO (VBS): ふふ、ふたりともお疲れさま。 少しお茶でもいれましょうか
@@ -71,18 +67,14 @@ MEIKO (VBS): ——ふふっ。 はい、カイト。あなたの分よ
 KAITO (VBS): ……え？　ボクの？
 MEIKO (VBS): ええ。 最近、冬弥くんのためにずっと頑張ってるでしょう？
 MEIKO (VBS): このあいだだって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO (VBS): （——あら、カイト？　こんなところで何を……）
 KAITO (VBS): ——あ、この曲のピリッとした感じは、 冬弥くんの参考になるかもしれないな
 KAITO (VBS): 緊迫感のつけかたは路線が違うけど、 アプローチのひとつとしてよさそうだし……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (VBS): ——冬弥くんにいいアドバイスをするために、 いろんな曲を聴いていたわよね
 KAITO (VBS): ……い、いつの間に見てたの！？
@@ -97,7 +89,7 @@ KAITO (VBS): だよね！　だから…… こちらこそ、いつもありが
 MEIKO (VBS): ——ふふっ。ありがとう、みんな
 MEIKO (VBS): じゃあ、そろそろお茶をいれようかしら。 カイトの分もいれるから、みんなもう少し待っててくれる？
 KAITO (VBS): うん！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -114,15 +106,11 @@ MEIKO (VBS): わかったわ。ありがとう
 リン (VBS): ミクー！　注文したーい！
 ミク (VBS): はいはい、今行くね
 MEIKO (VBS): ……ふう
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (VBS): （冬弥くん……。少し心配ね）
 MEIKO (VBS): （自分の過去を振り返るって言っていたけど……。 あれから、どうなったのかしら）
@@ -151,19 +139,15 @@ MEIKO (VBS): 迷惑ってほどじゃないんだけどね。 前に、冬弥く
 レン (VBS): え！？　そんなことがあったんだ！
 冬弥: ああ。……無茶はよくないと わかってはいたんだが、どうにも焦ってしまってな
 冬弥: だがその時、メイコさんに叱ってもらって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO (VBS): ——駄目よ。 そんなフラフラなのに見過ごせないわ
 MEIKO (VBS): ここに座っていて。 今、お店から飲み物を持ってくるから
 冬弥: そんな、わざわざ——
 MEIKO (VBS): 冬弥くん、言うことを聞いてちょうだい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ——そのおかげで、頭を冷やすことができたんだ
 KAITO (VBS): へえ、そんなことがあったんだ……
@@ -181,4 +165,4 @@ MEIKO (VBS): ……あなた達には、反省が足りないみたいね
 ルカ・KAITO: 『え？』
 MEIKO (VBS): そこに並んで座りなさい。 そんなにしてほしいなら、今すぐにでもお説教してあげるわよ
 レン (VBS): あーあ……
-(Black cut)
+(Black transition)

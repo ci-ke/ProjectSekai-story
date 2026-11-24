@@ -58,15 +58,11 @@ MEIKO (VBS): 彰人くん、どうしたの？
 ミク (VBS): ——それなら、納得だな
 MEIKO (VBS): そうね。 あの時、あの会場にいた人なら、きっと感じたはずだもの
 MEIKO (VBS): 会場の熱気も、歌に込められたみんなの想いも
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……そうか）
 彰人: （あのイベントで、オレ達に興味を持ってくれたのか）
@@ -82,7 +78,7 @@ MEIKO (VBS): 会場の熱気も、歌に込められたみんなの想いも
 彰人: （結局、また謙さんに借りを作っちまったが……）
 彰人: （今は、なりふり構ってる場合じゃねえ）
 彰人: （チャンスがあるなら、全力で掴んでやる）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後　早朝]
@@ -109,7 +105,7 @@ MEIKO (VBS): 会場の熱気も、歌に込められたみんなの想いも
 彰人: （余計な先入観なしで話したほうがいいってこと なのかもしれねえが——）
 彰人: （この面談で、これからのことが決まるかもしれねえんだ）
 彰人: （……あれこれ考えるより、集中しろ）
-(Black cut)
+(Black transition)
 冬弥: そろそろ、約束の時間だな
 こはね: 画面、繋げるね
-(Black cut)
+(Black transition)

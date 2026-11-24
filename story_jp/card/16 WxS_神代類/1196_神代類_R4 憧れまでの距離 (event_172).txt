@@ -28,7 +28,7 @@ Gacha phrase: ……まだまだ、遠いな
 司: 『おお、それはよかった！ では着いたら連絡しよう。またあとでな！』
 類: （渡したいもの、か。なんだろう？）
 類: （気にはなるけれど……今は、作業に集中しよう）
-(Black cut)
+(Black transition)
 
 [２時間後]
 
@@ -74,7 +74,7 @@ Gacha phrase: ……まだまだ、遠いな
 類: （……僕は本当に、仲間に恵まれているね）
 類: みんな、ありがとう
 類: ひと味違ったショーになると思うから、楽しみにしてほしいな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -97,15 +97,11 @@ Gacha phrase: ……まだまだ、遠いな
 ルカ (WxS): 類くんは、こんなところで何をしているの？
 類: ああ、課題の発表が終わったから、結果を報告しに来たんだ
 類: ルカさんには、悩んでいる時にアドバイスをもらったからね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (WxS): そう、あの時の……
 ルカ (WxS): それで、うまくいったのかしら？
@@ -138,4 +134,4 @@ Gacha phrase: ……まだまだ、遠いな
 ルカ (WxS): あら……眠っちゃったみたい
 ルカ (WxS): ……なんだかいつもと逆ね。 わたしが寝てる類くんを見守る側だなんて
 ルカ (WxS): ふふ、ゆっくり休んでね。おやすみなさい
-(Black cut)
+(Black transition)

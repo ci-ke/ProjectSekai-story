@@ -71,7 +71,7 @@ Skill name: 食べずに生きられればいいのに
 (Background change)
 【えななん】 (絵名): 『そうだよー。もったいないし』
 【K】 (奏): 『……わかった。 面倒だけど、キッチンから箸とってくる』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -125,4 +125,4 @@ Skill name: 食べずに生きられればいいのに
 【雪】 (まふゆ): 『あ、うん。いいよ』
 (Background change)
 【雪】 (まふゆ): （似てる、か……）
-(Black cut)
+(Black transition)

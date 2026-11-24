@@ -7,19 +7,19 @@
 中学生の穂波 (穂波): 志歩ちゃん、一歌ちゃんから様子が変だって聞いたけど、 何かあったの？　もし何か困ったことがあるなら 話を聞きたいなって思うんだけど……
 中学生の志歩 (志歩): ……っ
 中学生の志歩 (志歩): ——私に話しかけないで
-(Black cut)
+(Black transition)
 中学生の一歌 (一歌): ねえ志歩、この前の『もう話しかけないで』ってどういう意味？
 中学生の一歌 (一歌): メッセージも読んでくれないし——。 咲希には、連絡してるの？
 中学生の志歩 (志歩): …………
 中学生の志歩 (志歩): ……『もう話しかけないで』っていうのは、そのままの意味
 中学生の志歩 (志歩): 私、一歌達と遊んでる暇ないの
 ルカ: （……これは……）
-(Black cut)
+(Black transition)
 中学生の一歌 (一歌): 穂波、今日一緒に帰らない？ 新しいパン屋さんができたみたいだから……
 中学生の穂波 (穂波): ……ごめん、一歌ちゃん
 中学生の穂波 (穂波): しばらく話しかけないで……
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 (Background change)
 中学生の咲希 (咲希): 最近、しほちゃん達来てくれないなあ
 中学生の咲希 (咲希): ……病院は遠いから、しょうがないよね
@@ -36,7 +36,7 @@
 ルカ: （……どうしてこうなってしまったのかしら）
 ルカ: ——あら？　欠片が……
 ルカ: これは、もしかして——
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -80,8 +80,8 @@
 ルカ: ……私達も、頑張らなきゃね
 ルカ: みんなが、本当の想いを見つけて—— この写真の頃みたいに、みんなで笑いあえるように
 ルカ: （……頼もしいわね）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000341/bg_s000341.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000341/bg_s000341.webp)
 ルカ: ……大丈夫、あなたにはできる
 ルカ: あなたとミクの想いは、絶対に叶うわ
 ルカ: あの子達は……本当の想いを見つけてくれる
@@ -89,12 +89,12 @@
 ルカ: これからもずっと、その想いを叶え続けていくと思うわ
 ルカ: だから……
 ルカ: ——これからも、あの子達を見守っていてね
-(White cut)
+(White transition)
 (Background change)
 ルカ: ……気のせい、かしら？
 ルカ: ……とはいえ、あんまり気負い過ぎてはだめね。 これから一歌達がセカイに来るんだから
 ルカ: ——頑張りましょう
 ルカ: あの子達の道しるべになれるように
-(Black cut)
+(Black transition)
 (Video: link_ppr_ed1)
-(Black cut)
+(Black transition)

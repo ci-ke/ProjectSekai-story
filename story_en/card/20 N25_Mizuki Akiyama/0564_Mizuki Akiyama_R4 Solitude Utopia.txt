@@ -19,7 +19,7 @@ Kamiyama High School Student B: You're right... Looking at those cutesy clothes 
 Kamiyama High School Student A: Yeah. And just walking around like that... Wow.
 Mizuki: *Sigh* (Couldn't they at least say that stuff out of my earshot?)
 Mizuki: (Anyway, I'm not gonna pay them attention.)
-(Black cut)
+(Black transition)
 Mizuki: Okay, you're coming home with me, blouse! I'm so excited to wear this♪
 Passerby A: Whoa... This looks so cute.
 Mizuki: (Oh... I was hovering over that top too... I would've bought it along with the blouse if it was payday already.)
@@ -39,7 +39,7 @@ Mizuki: (Oh... I guess not...)
 Mizuki: (After all, arguing for what you love can be quite hard.)
 Mizuki: (Who knew you can't wear the things you want even when you're living your live conventionally?)
 Mizuki: *Sigh* Time to go home...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -48,17 +48,13 @@ Mizuki: <And the color and the design were amazing, so I went ahead and bought t
 (Background change)
 Ena: <Wow, and you said that place is on Main Street? I might go check it out.>
 Mizuki: <You should! All their stuff was super cute, you'll love it.>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Passerby B: Wow, so you like this kind of frilly clothing?
 Passerby A: I, um... I do, actually.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 Mizuki: (I wonder if that girl ended up buying something from the store their friend took them to...)
@@ -106,7 +102,7 @@ Mizuki: *Sigh*
 Mizuki: I wish there was a place where you could like the things you like, and no one would criticize you for it...
 Mizuki: Hahaha... Just a silly thought♪ Time to grab dinner and get back to—
 Mizuki: Huh...?
-(White cut)
+(White transition)
 (Background change)
 
 [Empty SEKAI]
@@ -114,9 +110,9 @@ Mizuki: Huh...?
 Mizuki: Huh, why am I in SEKAI?
 Mizuki: Hm? Something just rolled this way. What could it be? It's sorta...glowing?
 Mizuki: Argh! Wait, what?!
-(White cut)
+(White transition)
 MEIKO: Was that...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -129,7 +125,7 @@ Mizuki: And there's another place opposite! Oh heck, just from the outside I can
 Mizuki: While I'm here, I guess there's no harm taking a peek inside.
 Mizuki: Yes, it's settled♪ I'll do that while I look for an exit.
 Mizuki: Okay! Starting with the clothes store, let's go!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -142,32 +138,28 @@ Mizuki: Ah, that store was so good. Those clothes were all 100% my style!
 Mizuki: But...
 Mizuki: I haven't seen anyone else here, let alone any of the staff. This place must be pretty lax.
 Mizuki: Well, not that I mind getting free rein to try on clothes.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kamiyama High School Student B: You're right... Looking at those cutesy clothes again...
 Kamiyama High School Student A: Yeah. And just walking around like that... Wow.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (And there's no one like that around... It's a relief to not worry who's watching me.)
 Mizuki: Now it's time to to head next door for some home decor♪
-(Black cut)
+(Black transition)
 Mizuki: Ooh, they've got this natural aesthetic going that's stylish and also super cute! And look at these little jewelry boxes!
 Mizuki: And there's masking tape in all different colors and patterns! I wanna use these in a collage.
-(Black cut)
+(Black transition)
 Mizuki: And next I'll... Wait, is that place selling macarons?! With lace designs?!
 Mizuki: Wow! And these ones have flowers sandwiched in the middle! These are too cute to eat!
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 Mizuki: *Sigh* This is too much fun! Every store is more than I could hope for!
 Mizuki: There's even food, so I might as well just move in.
 Mizuki: Let's see, where have I not been yet? Just that clothes store on the corner, right?
-(Black cut)
+(Black transition)
 Mizuki: Wow, on top of all the clothes, it's a gold mine of accessories too!
 Mizuki: Oh, I love this top. It's a gorgeous color, but with a toned-down design. Perfect for accessorizing!
 Mizuki: Hehehe. I wonder what would go with it... Huh?
@@ -177,7 +169,7 @@ Mizuki: Oh, and here's a necklace with a plate of curry on it. It even has li'l 
 Mizuki: I wonder... Do they have instant noodles...? There you are!
 Mizuki: Hahaha! I wonder how Ena and the others would react to these.
 Mizuki: Especially Mafuyu... What kind of food accessory would get her interested...?
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: I'm not interested.
 Ena: You really are a wet blanket, you know that? Hey, what about this red bean soup hairpin?
@@ -192,20 +184,18 @@ Ena: Ah, then what about that—
 Mafuyu: Just saying it now, but I won't try on either of them.
 Ena & Mizuki: Seriously...? Whaaat?!
 Kanade: Hehe...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000153/bg_s000153.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000153/bg_s000153.webp)
 Mizuki: (If they were here, we could have had fun like that.)
 Mizuki: (If I couldn't decide what color clothes to wear, Ena would give me advice.)
 Mizuki: (Then Kanade would get hungry, and we'd eat cake together.)
 Mizuki: (Mafuyu would probably be her regular self, but we might even find something to get a reaction out of her.)
 Mizuki: (We'd have fun, just like our after parties...)
-(White cut)
+(White transition)
 (Background change)
 Mizuki: ...
 Mizuki: This place is full of my favorite things... And there's no one around to annoy me... So...
@@ -233,27 +223,19 @@ Mizuki: Huh?
 MEIKO: You're trying to return to a place that makes you unhappy, no?
 Mizuki: ... Well... Yeah.
 Mizuki: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: If I don't go back, I can't be with them.
 Mizuki: (And...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Ena said she'd wait for me. So I'd be breaking a promise if I didn't go back.)
 Mizuki: (Not to mention she'd fret and search everywhere for me. And Kanade and Mafuyu would worry too.)
@@ -262,7 +244,7 @@ MEIKO: Understood.
 MEIKO: Then, stay close behind me.
 Mizuki: Got it! Lead the way, MEIKO.
 Mizuki: (Thank you... It was fun.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room ]
@@ -283,4 +265,4 @@ Ena: <Yeah, you're especially energetic. What happened? Was your dinner that goo
 Mizuki: <Hehehe, maaaybe.>
 (Background change)
 Mizuki: <Anyway, what's up with you guys? I'm in the mood to chat♪>
-(Black cut)
+(Black transition)

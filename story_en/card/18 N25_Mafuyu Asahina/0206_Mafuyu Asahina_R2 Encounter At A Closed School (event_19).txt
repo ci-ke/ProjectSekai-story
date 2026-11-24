@@ -13,11 +13,11 @@ Ena: This used to be a school...?
 Mizuki: Yup. Apparently, the ghost of a dead student still haunts the music room.
 Mafuyu: (A school...)
 Mafuyu: (It's so empty and quiet... Just like SEKAI...)
-(Black cut)
+(Black transition)
 Kanade: Hm? She's not here...
 Mizuki: Huh? Really?
 Mizuki: Mafuyu!
-(Black cut)
+(Black transition)
 Mafuyu: (The front entrance and all the windows are locked. I don't think I can get inside...)
 Mizuki's Voice (Mizuki): Mafuyu!
 Mafuyu: Oh, I should go back...
@@ -49,7 +49,7 @@ Mafuyu: Got it...
 Mafuyu: (It's so old and small and in tatters...)
 Mafuyu: Here, is this what you were looking for...?
 ???: *Nods*...
-(White cut)
+(White transition)
 Mafuyu: *Gasp*...!
 Mafuyu: (Wait... She's gone...)
 ???: Th... You...
@@ -61,7 +61,7 @@ Mafuyu: Huh?
 Mafuyu: (Did I just hear her again...?)
 Mafuyu: Cherry blossoms...
 Mafuyu: Maybe I'll stay a little before heading back...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -89,16 +89,12 @@ Mizuki: <Some memories might come rushing back and turn into an awesome melody o
 Kanade: <Okay, I'll have a look.>
 (Background change)
 Mafuyu: (Pictures, huh...?)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Mafuyu: (I wonder if there's one of that cherry blossom tree...)
 (Background change)
 Ena: <Oh, this one's from inside the train! You got some good landscapes. It sort of feels like we went on a real vacation when you look at it like this.>
@@ -173,20 +169,16 @@ Mafuyu: <I should get back to work. Thank you for taking these.>
 Mizuki: <Anytime! You're super welcome♪>
 (Background change)
 Mafuyu: Something special...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Mafuyu: ...
 Mafuyu: (I wouldn't mind going on another trip like this...)
-(Black cut)
+(Black transition)

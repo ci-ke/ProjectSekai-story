@@ -53,29 +53,21 @@
 類: でも、司くんと寧々が言うなら、 そうなってしまっているんだろうな
 寧々: （類、自分が無意識に遠慮しちゃってることに、 本当に気づけてないみたい……）
 寧々: （わたしが、伝えなきゃ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: ……っ
 寧々: （……でも、あの時も、何もできなかった。 わたしに……類を助けられるのかな）
 寧々: （だけど、今どうにかしないと—— また類がひとりになっちゃう……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: …………あ
 寧々: ねえ、類。 セカイに行ってみない？
 類: セカイに？
@@ -88,7 +80,7 @@
 寧々: 類は、みんなでいいショーを作りたいんでしょ？
 類: …………
 類: ああ。わかったよ、寧々
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -106,13 +98,13 @@ KAITO: おやおや。これは大変だね
 レン: 一生懸命になると、ぶつかっちゃうことはあるよなーって
 KAITO: ああ、そうだね。 ……あれ？
 ミク (WxS): あ！　あそこいるの、類くんと寧々ちゃんじゃない？
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 レン: どうしたんだろ？ ちょっと元気がなさそうだけど……
 KAITO: ふたりはここにいて大丈夫だよ
 KAITO: 僕が話を聞いてくる
 KAITO: 君達も、よければ一緒にこないかい？
 ぬいぐるみ達: 『？』
-(Black cut)
+(Black transition)

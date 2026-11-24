@@ -26,7 +26,7 @@ Gacha phrase: みんなのおかげで、私は——
 ルカ: でも、急にどうして——
 ルカ: あら？　いつの間にか、想いの欠片が集まって——
 ルカ: え……！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -41,10 +41,8 @@ Gacha phrase: みんなのおかげで、私は——
 ステージのセカイのミク (ミク-MMJ): 『——ねえ、ルカちゃん。どんな魔法を使ったの？』
 ステージのセカイのルカ (ルカ-MMJ): 『ふふ、魔法なんて使ってないわ。 使えたら、とっても楽しそうだけどね♪』
 ルカ: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (MMJ): でも、ルカちゃんは雫ちゃんと出会ったばっかりでしょ？ それなのに、雫ちゃんにしっかりアドバイスできちゃうなんて
 ルカ: 前も話したでしょ？ 秘密を教えて、打ち解けたのよ
@@ -55,22 +53,18 @@ Gacha phrase: みんなのおかげで、私は——
 ルカ: ほひゃ、見へ見へ～
 ミク (MMJ): ふふっ。ルカちゃんのほっぺ、本当に柔らかいね！ このセカイにいるみんなの中で、一番柔らかいんじゃないかな？
 ルカ: もしかしたら、他の想いのセカイにいる私の中でも、 私が一番ほっぺが柔らかいかも♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: 今のは、みのりちゃん達のセカイにいる私の想いね
 ルカ: 突然でびっくりしてしまったけど、 この写真みたいな物に触れれば、想いにも触れられるみたいね
 ルカ: ……この欠片のセカイ、 もしかして私に何かを伝えようとしてるのかしら？
 ルカ: 他のセカイの私の想いにも、触れてみましょ。 次は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 KAITO: …………
 KAITO: ……ついてくるな。うっとうしい
 ルカ: そう邪険にしないで？ 私達、同じ想いのセカイに生まれた者同士じゃない
@@ -85,10 +79,8 @@ KAITO: そもそも、相互理解に何の意味がある？ まふゆが『自
 ルカ: 私達、『仲間』なのよ。 それだけで、わかりあう理由は十分だわ
 KAITO (N25): ……他のセカイをいくら探しても、 お前ほど人をイラつかせる『ルカ』はいないだろうな
 ルカ (N25): ふふ、ありがとう。 どんなことでも一番は嬉しいわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: ……あのセカイのカイトに食い下がるというか、 あそこまで自分のペースで話ができるのは、本当にすごいわ
 ルカ: そういう意味なら、たしかにたくさんいる『私』の中でも 一番かもしれないわね
@@ -97,17 +89,15 @@ KAITO (N25): ……他のセカイをいくら探しても、 お前ほど人を
 ルカ: ……この想いの欠片のセカイについて、 少しわかってきた気がするわ
 ルカ: はっきりさせるためにも、 他のセカイの私の想いにも触れる必要がありそうね
 ルカ: 次は——
-(White cut)
+(White transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: レン、あんまり火に近づけすぎちゃダメだよ。 マシュマロ燃えちゃうから
 レン: わかってるって。 じっくりじわじわ焼いてくんでしょ
@@ -125,37 +115,29 @@ MEIKO: 逆に、街でよかったんじゃないかしら。 ここが森だっ
 MEIKO: マイペースと気まぐれの間違いじゃない？
 ルカ: そうとも言っていいよ。 好きに楽しく生きることに関しては、このセカイの誰よりも——
 ルカ: ううん。他のセカイの私にだって負けてないと思うな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: ……相変わらず、あのセカイの私はのびのびとしているわ
 ルカ: それにしても……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 他の想いのセカイにいる私の中でも——
-(White cut)
+(White transition)
 (Background change)
 KAITO: ……他のセカイをいくら探しても
-(White cut)
+(White transition)
 (Background change)
 ルカ: 他のセカイの私にだって！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: （……このセカイがどんな想いから生まれたのか、 なんとなく掴めてきた気がするわ）
 ルカ: あとは……ショーをやっている私と、 バンドをやっている私ね
 ルカ: ……ふたりの想いにも、触れさせてもらうわね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アヒルのぬいぐるみ: ルカ、仲直リを手伝ッテクレテ、アリガトウ
 カモのぬいぐるみ: メイコも、アリガトウ。 タクサン話、聞イテクレテ
@@ -166,7 +148,7 @@ MEIKO: あら、おねむ？ そこに芝生もあるし、少し寝ていく？
 MEIKO: ちょっと、ルカ？ どこに——
 MEIKO: ……ん？　この声……
 ひよこのぬいぐるみ: ピエ、ピエエエエエエエ～ンッ！
-(Black cut)
+(Black transition)
 アヒルのぬいぐるみ: コノ子は、ボク達に任セテ！
 カモのぬいぐるみ: サア、オウチに帰ロウ？
 ひよこのぬいぐるみ: ウン。 ルカ、メイコ、アリガトウ。バイバイ！
@@ -177,10 +159,8 @@ MEIKO: ……お疲れさま、ルカ。 ケンカの仲裁が終わったと思
 MEIKO: ええ、いいわ。 みんなの笑顔のために頑張ったご褒美よ
 ルカ: うふふ……。 みんなの、楽しそうな声が聞こえるわ
 ルカ: ……こんな、楽しそうな笑い声を聞きながら眠れるなんて わたしは幸せね～
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): ……ルカ、また黒板の桜を見てたの？
 ルカ: ええ……。 みんなで描いたこの桜が、とても綺麗で……
@@ -198,31 +178,29 @@ MEIKO: ええ、いいわ。 みんなの笑顔のために頑張ったご褒美
 ルカ: ……あの子達の想いを感じて、 それに応えようとする時、いつも思うの
 ルカ: このセカイの『ルカ』として、生まれてよかったって
 ルカ: だから、これからもずっと——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: ……戻ってきてしまったのね
 ルカ: ……どのセカイの私も、 そのセカイにしかいない、たったひとりの『ルカ』——
 ルカ: それを、あなた達は誇りに思ってくれているのね
 ルカ: ……ありがとう
 ルカ: ♪————……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 ルカ: ♪——……　♪————……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 ルカ: みんなのおかげで、 私も、『私』に誇りを持てているわ
 ルカ: 本当に、ありがとう……
-(Black cut)
+(Black transition)

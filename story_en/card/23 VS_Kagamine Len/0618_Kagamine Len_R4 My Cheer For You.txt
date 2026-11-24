@@ -16,7 +16,7 @@ Len: Lucky. I wonder if something good will happen for me...
 Len: Oh, a fragment of a feeling!
 Len: It's such a pretty color. What kind of feeling was this born from?
 Len: Alright, I think I'll give it a touch!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -28,7 +28,7 @@ Len: Hey, it's got CDs with me and Rin on them! Whoa, and lots of merch too!
 Len: Hehehe. This place seems pretty fun, so maybe I'll take a look arou—
 ???: *Sniffle* *Sob*
 Len: Hm? Is somebody crying...?
-(Black cut)
+(Black transition)
 Len: Hmm, I think it's coming from over here...
 Len: Hey, is somebody there?
 ???: Eep...!
@@ -64,7 +64,7 @@ Len: Hey, would you mind telling me about this Yu?
 Girl: Huh...?
 Len: He's a precious friend of yours, right? I want to know more about him.
 Girl: Okay...
-(Black cut)
+(Black transition)
 Len: Oh! So he lives in the house across from yours.
 Girl: Yeah. When I was little, I used to play at his house all the time.
 Girl: He's always been really sick, though, so his dad would be there with us.
@@ -81,7 +81,7 @@ Girl: It is, and I... *Sob*
 Len: Oh...
 Len: Why did you two fight? Could you tell me?
 Girl: Well...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -100,20 +100,16 @@ Girl: And my mom said the same thing. She said people get more energy to fight o
 Girl: So I thought... Singing is so amazing...
 Girl: I thought that if I did my best, I might be able to see Yu at school and sing your songs with him.
 Girl: But then... Mom told me that Yu is going to a hospital overseas...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Girl: Why...?! You said that you've been getting better, that your test results were good...!
 Yu: Um... Hii, I'm sor—
 Girl: You said you feel better when I sing!
 Girl: I wanted to go to school with you...!
 Girl: You're such a liar! I... I'm never singing again!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len: (She must have been singing her very hardest for him all that time, making a wish in her heart...)
 Len: (At the same time, I'm sure...)
@@ -123,17 +119,13 @@ Len: Singing... Really does have a mysterious power. Especially singing that has
 Len: So I really don't think that he was lying about feeling better after you sang for him.
 Len: He has to work really hard to get better, and he was getting the energy to do that from your singing.
 Girl: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Yu: I had two shots today that really hurt. But the pain went away when I heard you sing.
 Yu: I might be able to go home soon. I'm going to do my best. So I hope you'll cheer me on with your singing.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Girl: ...
 Len: Have you seen him since your fight...?
@@ -168,8 +160,8 @@ Len: So, I know for a fact how strong your feelings are!
 Girl: Okay... Thank you, Len.
 Girl: But am I going to be able to apologize well...?
 Len: Are you worried? Well then...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000180/bg_s000180.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000180/bg_s000180.webp)
 Girl: Oh...
 Len: Hehehe. My gift of courage to you!
 Girl: Your hands are so warm...
@@ -177,7 +169,7 @@ Len: Right? If you get scared or feel unsure of yourself, just think of me.
 Girl: Okay... I think I can give it a try.
 Girl: Oh... That's right. I need to practice singing a lot. I want him to get lots and lots of energy.
 Len: Ooh, great! That's the spirit, that's the spirit!
-(White cut)
+(White transition)
 (Background change)
 Len: Oh... It looks like it's time to say goodbye.
 Girl: Okay... I wanted to talk to you a lot more, but... I have to go see Yu.
@@ -185,7 +177,7 @@ Len: Right! Okay then, I'll give you one last cheer!
 Len: Go, go, go! Hi-na-tsu! You can do it, you can do it, Hi-na-tsu!
 Girl: Oh! My name...!
 Len: I'll be cheering you both on from here! I believe that your wish will come true...!
-(White cut)
+(White transition)
 (Background change)
 
 [Between Worlds]
@@ -201,4 +193,4 @@ Kagamine Rin & Girl's Singing: ——♪ ——~~♪
 Len: That's right...! Yu's dad had experience making songs with us, didn't he?
 Len: Then, this Rin that's singing must be...!
 Len: I'm glad they were able to make up!
-(White cut)
+(White transition)

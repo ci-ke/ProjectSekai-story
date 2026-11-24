@@ -22,7 +22,7 @@
 鍵山イヲ: …………
 こはね: ——ありがとうございました！
 スタッフA: では次の方——
-(Black cut)
+(Black transition)
 応募者: ——ありがとうございました！
 鍵山イヲ: …………
 審査員A: か、鍵山先生、あとひとり残ってますから……！
@@ -89,15 +89,11 @@
 こはね: ……っ、はい……！
 こはね: （絵名さんと一緒に歌えるなんて…… すっごく嬉しい……！）
 こはね: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 絵名: ……多分、なんですけど——
 絵名: 影の少女は、化け物でも酸の雨でもあるんじゃないですか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 こはね: （あれって、どういう意味なんだろう？）
-(Black cut)
+(Black transition)

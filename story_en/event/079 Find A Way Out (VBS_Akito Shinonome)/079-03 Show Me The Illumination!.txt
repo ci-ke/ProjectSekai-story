@@ -59,7 +59,7 @@ Kohane: I see...
 Kohane: Everyone's been saying just that, so it must be an amazing venue. It'd be great if I... If I could perform there with you guys...
 An: There's no way we're leaving you out, Kohane! Well, to be fair, we still haven't booked the place...
 An: For now, let's just sing our hearts out!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Aoyagi Household - Living Room]
@@ -87,7 +87,7 @@ Toya's Mother: Okay, you're welcome.
 Toya: I'm done as well. I'll help you with the dishes.
 Toya's Mother: You will? Thank you, Toya.
 Toya's Father: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -96,7 +96,7 @@ Toya: *Sigh*
 Toya: Oh, I have English homework to do. I'll do it before I take my bath and...
 Luka: <Hello, Toya! I let myself in♪>
 Toya: Luka...?
-(Black cut)
+(Black transition)
 Toya: I see. You want to decorate MEIKO's cafe.
 Toya: Our parties are usually fairly quiet, and we don't put up decorations, so I'm not sure if I'll be able to help...
 Luka: <I see... Oh, but you must've had some delicious food. Mind telling me what you ate?>
@@ -112,7 +112,7 @@ Toya: He's been like that since before I even met him.
 Luka: <I see...>
 Luka: <Then, I think I'll go watch Akito train for a bit. And maybe see some illuminations for myself♪>
 Luka: <See you later, Toya!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -128,7 +128,7 @@ Luka: (Akito's probably blocking out all the sounds of this fun and vibrant city
 Luka: (You can do it, Akito...!)
 Luka: (Oh, that shop's lights! They're such a beautifully enchanting blue color!)
 Luka: (And that shop over there... Is it supposed to be a snowman? Hehe. It's so cute!)
-(Black cut)
+(Black transition)
 Kotaro: Whew... Hehe... Lucky for me, I was able to place a reservation for that limited-edition transformation belt.
 Kotaro: I was worried that they'd run out after everyone started talking about it online... I hope he likes it...
 Kotaro: Hm? Isn't that...?
@@ -150,7 +150,7 @@ Kotaro: Hey, Akito... Can I join you?!
 Akito: Join me...?
 Kotaro: Yeah, because you're right! If we're gonna perform there, I've gotta do more too!
 Akito: Fine, whatever...
-(Black cut)
+(Black transition)
 Kotaro: *Cough* *Hack* Huff... Huff... W-Wait, I need to stop...
 Akito: Alright, let's take a break.
 Kotaro: S-Sorry, Akito...
@@ -165,16 +165,12 @@ Kotaro: Haha. Yeah.
 Kotaro: When you decided to team up with Toya, I felt a sense of relief...
 Kotaro: Because before you did, you tried to do everything yourself. I thought you'd be able to settle down a bit...
 Akito: By myself...? Yeah, I guess so... You're probably one of the only people who really know what I was like back then.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: A long time's passed since I began singing here...
 (Background change)
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 鏡音レン, MEIKO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -13,15 +13,11 @@
 こはね: スタッフさんとかにも撮ってもらったり しなかったんですか？
 大河: ああ。他のイベントはいくつか撮ってもらっちゃいたが、 RAD WEEKENDだけは撮ってない
 大河: あれは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: ……RAD WEEKENDは、 あの日のためだけのものだからな
 こはね: そう、ですか……
@@ -44,15 +40,11 @@
 こはね: だから、なんでもいいから教えてもらえないでしょうか？ ステージから何が見えたとか、歌っていた時の 感覚とか——
 こはね: 知りたいんです！
 大河: （これは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: …………。 この場合は、百聞は一見に如かず、だな
 こはね: え？
@@ -66,7 +58,7 @@
 こはね: （まさか、RAD WEEKENDの会場に 入れるかもしれないなんて……！！）
 大河: RAD WEEKENDに関しちゃ、それでいいな。 今日の練習に戻るぞ
 こはね: あ、はいっ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -82,13 +74,13 @@ MEIKO: ふふっ、嬉しそうね、彰人くん
 彰人: ま、なんつーか……思い出の場所ですから
 彰人: あそこでRAD WEEKENDやってなきゃ、 今のオレはいなかったですし
 ミク (VBS): 原体験をした場所ってことだね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000047/bg_s000047.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000047/bg_s000047.webp)
 レン: ——なあなあなあ！ オレもその場所、見に行っていい！？
 こはね: え？
 レン: 伝説のイベントがあったところ、オレも見てみたいんだ！ 邪魔はしないから、お願い！
 MEIKO: もうレンってば……。 みんな、迷惑だったらそう言ってね
-(White cut)
+(White transition)
 (Background change)
 ミク (VBS): ——私も見てみたいな
 MEIKO: ミク？
@@ -103,7 +95,7 @@ MEIKO: それはそうだけど……
 レン: やったー！！
 こはね: それじゃ、会場に着いたら呼ぶから、 待っててね！
 ミク (VBS): うん。楽しみに待ってるよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -132,19 +124,15 @@ MEIKO: それはそうだけど……
 杏の父: （COLに連れて行くのか）
 杏の父: （世界一を目指すこと以外、眼中にないと言っていた大河が そこまで肩入れするとはな）
 杏の父: （やはり——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ねえ、ふたりとも
 ？？？: いつかこの場所から、 世界一のアーティストが生まれたら——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏の父: （やはり大河は、 あいつの言葉に応えたいと思っているのか）
 杏の父: （……俺の一存で渡すことはできないと思っていたが）
 杏の父: （ついに、“これ”を渡す時が来たのかもしれないな——）
-(Black cut)
+(Black transition)

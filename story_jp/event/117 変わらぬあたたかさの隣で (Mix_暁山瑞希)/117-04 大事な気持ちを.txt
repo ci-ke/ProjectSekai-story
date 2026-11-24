@@ -2,7 +2,7 @@
 
 (Character: 暁山瑞希)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ショッピングモール]
@@ -13,16 +13,12 @@
 瑞希の姉: いつもの雑貨屋さんは？ あ、２階に新しいジュエリーショップ入ったみたいだよ。 行ってみない？
 小学生の瑞希 (瑞希): え……ジュエリーショップ？
 小学生の瑞希 (瑞希): （……どんな感じなんだろう？ かわいいのもあるかな？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 クラスメイトB: みずきが着てるのは変じゃない？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の瑞希 (瑞希): あ…………
 小学生の瑞希 (瑞希): ううん、大丈夫
@@ -43,16 +39,12 @@
 小学生の瑞希 (瑞希): （あそこのお店のワンピース、新作かな？ この前、お姉ちゃんと来た時はなかったし）
 小学生の瑞希 (瑞希): （リボンもフリルもいっぱいで、やっぱり……）
 小学生の瑞希 (瑞希): ……かわいい、な…………
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 小学生の瑞希 (瑞希): すごいすごい！ くつも、リボンも、お姉ちゃんが作ってくれたブラウスに ぴったりだし、すっごくかわいい……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 小学生の瑞希 (瑞希): （……いやだ……）
 小学生の瑞希 (瑞希): （やっぱり、ボクは……）
 瑞希の姉: おまたせ、クレープ買ってきたよ！ 瑞希の好きなイチゴ味～
@@ -81,14 +73,14 @@
 小学生の瑞希 (瑞希): ……でも、それじゃあ……
 瑞希の姉: ……うん。 また、嫌なこと言われちゃうかもしれないよね
 瑞希の姉: それで……嫌なこと言われないように、 かわいいものを我慢しないといけなくなっちゃうことも…… あるのかもしれない
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000264/bg_s000264.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000264/bg_s000264.webp)
 瑞希の姉: でも……周りに合わせて、 『かわいいものが好き』って気持ちまで捨てなくても、 いいんじゃないかな……？
 瑞希の姉: だって……瑞希は絶対に、変なんかじゃないもん
 瑞希の姉: 私は、かわいいものが好きな瑞希のこと、大好きだよ
 小学生の瑞希 (瑞希): お姉ちゃん……
 瑞希の姉: だから……私は、 瑞希には、瑞希の気持ちを大事にしてほしいな
-(White cut)
+(White transition)
 (Background change)
 小学生の瑞希 (瑞希): （……いい、のかな）
 小学生の瑞希 (瑞希): （ボク、このまま……かわいいものを好きでいても）
@@ -102,7 +94,7 @@
 瑞希の姉: だから、瑞希が好きなもののこと、 もっと教えてくれない？
 小学生の瑞希 (瑞希): あ……
 小学生の瑞希 (瑞希): ……うん！
-(White cut)
+(White transition)
 (Background change)
 瑞希: （……あのあとも、やっぱり、いろいろ嫌なことはあって……）
 瑞希: （ちょっとずつ疲れていって、 ボクでいるのを諦めちゃうこともあった）
@@ -118,4 +110,4 @@
 瑞希: う……ボクの話はいいからさ、 お姉ちゃんの話聞かせてよ！
 瑞希: 向こうでの生活とか、仕事のこととか、 いろいろ聞けるの楽しみにしてたんだ！
 瑞希の姉: ふふ、わかった。 じゃあ何から話そうかな——
-(Black cut)
+(Black transition)

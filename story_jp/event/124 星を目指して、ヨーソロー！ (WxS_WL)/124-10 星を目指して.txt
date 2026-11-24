@@ -66,7 +66,7 @@ MEIKO (WxS): いいと思うわ！ 港には、船に詳しいぬいぐるみく
 寧々: いいよ。わたしもスターアイランド、行ってみたいし
 司: ——よし！　では……
 司: スターアイランドへ向けて、出航だ！
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -114,6 +114,6 @@ MEIKO (WxS): そうに決まってるわ！ だってあの芽も、司くんの
 KAITO (WxS): そうだね
 KAITO (WxS): あの芽も、それに……成長し続ける司くん達のことも、 これからも見守っていこう
 ミク (WxS): お～！
-(White cut)
+(White transition)
 (Video: link_wonder_bud)
-(Black cut)
+(Black transition)

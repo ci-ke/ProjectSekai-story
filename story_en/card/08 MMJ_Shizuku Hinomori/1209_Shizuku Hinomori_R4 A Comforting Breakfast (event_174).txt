@@ -16,15 +16,11 @@ Airi: Seriously, what did I just say?
 Chiharu: A-Are you okay, Hanasato...?! Here, have some water.
 Minori: Th-Thanks...! Phew...
 Shizuku: We still have some time, so there's no need to rush.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MC: <Your first task will be announced in the main ballroom in one hour! We ask those who are interested in participating to please be there! See you then!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Shizuku: Lumina Time... What do you think they're going to have us do?
 Yu: I don't know... It's a grand prix, so some sort of battle would be appropriate, no?
 Akari: Maybe a dance or singing battle?
@@ -71,7 +67,7 @@ Minori: Hehe. You did get the sandwich set today, Haruka.
 Airi: I know what you mean. I think I'll get a bowl as well.
 Chiharu: Oh... In that case, can we join you?
 Shizuku: Hehe. Let's all go together. I'm also looking to get a refill.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -107,7 +103,7 @@ Shizuku: Yes, I remember the path I took, so we should be fine.
 Haruka: In that case, lead the way.
 Airi: Yeah, you do sound pretty confident.
 Shizuku: I am. So, please follow me.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Corridor]
@@ -137,4 +133,4 @@ Airi: Now I see... That solves the mystery of how you didn't get lost during you
 Haruka: They collectively acted as your navigator.
 Minori: Hehe. They're all here to help her, so she should be fine even if she gets lost again.
 Airi: Yeah. This might actually be the perfect place for Shizuku since she has all these navigators at her disposal.
-(Black cut)
+(Black transition)

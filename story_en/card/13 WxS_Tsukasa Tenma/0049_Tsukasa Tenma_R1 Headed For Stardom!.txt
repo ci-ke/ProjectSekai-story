@@ -59,7 +59,7 @@ Tsukasa: Just say it once!
 Akito: Nom... 'Kay, see you later then!
 Tsukasa: Do not speak with food in your mouth! Have you no sense of decorum?
 Tsukasa: Now, I can finally enjoy my elegant luncheon in peace!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,15 +105,11 @@ Tsukasa: Hm? What's wrong? You don't sound very enthused... Have you no confiden
 Rui: Oh dear? Is that what you think of me?
 Tsukasa: Nah, you'd be the last person on earth to feel that way...
 Rui: I'm glad you know me so well, Tsukasa♪
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (There are a few things I'm concerned about, though...)
 Tsukasa: Well, even if you do lose your confidence, fret not!
@@ -123,4 +119,4 @@ Rui: That's certainly an honor.
 Tsukasa: That was a very productive conversation indeed. Now I can enjoy my midday meal with good cheer.
 Tsukasa: Hehehe...my elegant luncheon awaits. Thanks for your time!
 Rui: No problem. See you after school, Tsukasa.
-(Black cut)
+(Black transition)

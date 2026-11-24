@@ -22,17 +22,13 @@ Gacha phrase: ——超えろ！　超えるんだ！！
 杏: （こういう時は……）
 杏: ……何か、曲でも聴こうかな。 気合いが入る感じのやつ——
 杏: …………あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: 聴かせてくれ。冬弥
 冬弥: はい。 では——流します
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: そうだ……。 冬弥が作ってくれた……あの曲にしよう！
 杏: えっと、曲のデータはたしかここに……あった！
@@ -50,31 +46,27 @@ Gacha phrase: ——超えろ！　超えるんだ！！
 杏: だけど、このままじゃ RAD WEEKENDは超えられないから……
 杏: （もうこの気持ちとは—— 情けない私とは、さよならしなきゃ）
 杏: （それで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: 私……まだ全然力不足だけど…… それでも、杏ちゃんと一緒に、最高のイベントを目指したい！
 こはね: だから、もう迷わないよ！
-(White cut)
+(White transition)
 (Background change)
 こはね: ……ううん！　全然そんなことない！
 こはね: 私——杏ちゃんのことなら信じられるよ！
-(White cut)
+(White transition)
 (Background change)
 こはね: ……あ。えへへ、杏ちゃん
 こはね: ひとりで立つのは怖かったけど、やってみてよかった……。 信じてくれてありがとう、杏ちゃん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （私も……）
 杏: （——私も、怖いって気持ちを乗り越えて、進むんだ！）
 杏: （こはねと、向き合えるようになりたい。 そのためにも……）
 杏: （私は、こはねを——超えるんだ！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -91,10 +83,8 @@ Gacha phrase: ——超えろ！　超えるんだ！！
 彰人: ……は？
 冬弥: ……すまない白石、小豆沢。 どういうことだ……？
 杏: 実は、昨日——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [杏の部屋]
@@ -108,17 +98,15 @@ Gacha phrase: ——超えろ！　超えるんだ！！
 杏: （ぶつかって、わかりあえるようになることってあるし—— 今回もそうだったし！）
 杏: （それに、ケンカするほど仲がいいっていうもんね！）
 杏: ——よし。 そうと決まったら、こはねに連絡しよっと
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ——ってことで、こはねともっと深い関係になるために、 お試しでケンカしてみよう！ってことになったんだ！
 杏: だから、みんなもそのつもりで接してほしいんだよね
 杏: あ、イベントの時は ちゃんと歌に集中するから、そこは安心して！　ね、こはね！
 こはね: うん。 頑張ろうね、杏ちゃん！
 彰人: なんかよくわかんねえが……。 まあ、好きにしろよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -145,7 +133,7 @@ Gacha phrase: ——超えろ！　超えるんだ！！
 こはね: いらない。そんなの、杏ちゃんに頼まないから！
 杏: （な、なんか……こはねの塩対応って新鮮……）
 杏: （……でも、なんだろうこの感じ。 可愛いんだけど、ちょっと寂しいような……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -168,4 +156,4 @@ Gacha phrase: ——超えろ！　超えるんだ！！
 こはね: ありがとう……。 私も杏ちゃんのこと……すっごく大事だよ！
 杏: じゃ、これで仲直り——ってことで、 どっかご飯食べにいこっか！ も～、今日１日こはねと話したかったこといっぱいあって……！
 こはね: 私も……！ いっぱいおしゃべりしよう、杏ちゃん！
-(Black cut)
+(Black transition)

@@ -47,7 +47,7 @@
 遥: （こういうの、楽しいな。みんなでガイドブックを 覗き込んでるだけでワクワクするっていうか……）
 遥: （だけど……横浜か。 人も多いだろうし、変装したほうがいいかも）
 遥: （——みんなで、楽しめるといいな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -75,8 +75,8 @@
 みのり: えへへ、ミクちゃん達に見せてあげたくって！
 ミク (MMJ): わあ、嬉しいなぁ♪　見せて見せて！
 みのり: うん、一緒に見よう！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000191/bg_s000191.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000191/bg_s000191.webp)
 みのり: 見て見て、ミクちゃん！ ここの中華まん、パンダの形なんだよ！
 ミク (MMJ): あ、ホントだ！ 『パンダまん』って言うんだね、名前までかわいい！
 ミク (MMJ): このカステラも、ふわふわしてておいしそう……！ どんな味なんだろ？
@@ -84,7 +84,7 @@
 ミク (MMJ): わあ、ありがとうみのりちゃん！ 横浜って、おいしそうなものがいっぱいあるんだね♪
 ミク (MMJ): 遥ちゃんの言ってたカレー屋さんも気になるなぁ～
 愛莉: ふふっ、ミクってば結構食いしんぼなのね
-(White cut)
+(White transition)
 (Background change)
 ミク (MMJ): えっ？　そ、そうかなぁ……。 だって、おいしそうだったんだもん
 雫: ふふ、気持ちはわかるわ
@@ -97,4 +97,4 @@
 ミク (MMJ): せっかくだから、 遠足の日は高校生として、思いっきり楽しんできてね！
 遥: 高校生として、か……
 遥: ……うん、そうだね。 ありがとう、ミク
-(Black cut)
+(Black transition)

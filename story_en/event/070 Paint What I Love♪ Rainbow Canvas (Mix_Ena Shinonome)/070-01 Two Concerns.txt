@@ -12,7 +12,7 @@ Ena: (Okay, that should do it... I've gotten this much done, so...)
 Yukihira: You have five minutes.
 Ena: (Good... I just have to do one last check and make some minor adjustments.)
 Ena: (I made sure to fix the things that Mr. Yukihira pointed out last time, so this one should be...)
-(Black cut)
+(Black transition)
 Yukihira: Time's up. Pencils down.
 Yukihira: Let's have a look at what you've drawn. First, Shinonome.
 Ena: Yes, here...!
@@ -27,7 +27,7 @@ Ena: (But he's also right... I have to find a way to build off his criticism.)
 Yukihira: Lastly, your most crucial mistake...
 Yukihira: This drawing is unappealing as a whole.
 Ena: What...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -52,24 +52,18 @@ Ena: Hey, Futaba, wasn't that girl standing in front of the classroom last week?
 Futaba: Oh, maybe... I remember her having this concerned expression on her face the last time I saw her.
 Futaba: Do you think she's interested in attending the art classes here?
 Ena: ...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Ena: She seems unsure about actually going in...
 Ena: (To be fair, drawing does take a lot out of you...)
 Honami: (“Beginner Art Class. Open to all ages.”)
 Honami: (Would attending this class help me draw better?)
 Honami: (But...)
 Honami: What should I do...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [Two weeks earlier]
@@ -90,16 +84,14 @@ Emu: Wow! That sounds super fun! Honami, we get to paint a zoo!
 Honami: P-Paint...?!
 Emu: Honami?
 Honami: Wh-Wh-What do I do...?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (I was hoping that attending an art class would help me with my problem...)
 Honami: (But if I turn out to be worse than a three-year-old... I'll probably end up becoming a laughing stock...)
 Honami: ...
 Honami: Oh, look at the time, I need to head over to Ms. Yoisaki's house...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -118,4 +110,4 @@ Honami: Oh... I'm sorry for making you worry...
 Kanade: Don't mind me. You've done a lot for me, so... I'd like to help in any way I can.
 Honami: Ms. Yoisaki... Thank you, I really appreciate it.
 Honami: Then, well... If you don't mind listening...
-(Black cut)
+(Black transition)

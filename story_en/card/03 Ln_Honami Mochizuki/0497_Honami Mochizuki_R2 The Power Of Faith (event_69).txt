@@ -10,7 +10,7 @@ Skill name: I Can't Thank You Enough
 
 Rin: You're doing great, Hona! You've been staying in rhythm on your bass drum while even hitting all the backbeats!
 Honami: Great!
-(Black cut)
+(Black transition)
 Rin: Nice work! You sounded amazing just now, Hona! You've come so far in just two weeks!
 Honami: Thank you, Rin.
 Honami: I've been recording myself during these training sessions to do a before and after comparison... And I was amazed to hear how different I sound now.
@@ -31,7 +31,7 @@ Honami: Not a problem!
 KAITO: Alright, that's good to hear...
 KAITO: And you finally get to play as a band tomorrow. Good luck...
 Honami: Thank you very much. I'll do my best to show how far I've come!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Honami's Room]
@@ -41,15 +41,11 @@ Honami: ... But we finally get to play as a band tomorrow...
 Honami: And I'm sure the others have made significant improvements.
 Honami: It's been so long since we last played together too. Not once since we started doing these training sessions...
 Honami: I hope it goes okay...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: ...
 Honami: (Shiho's gotten a lot better too.)
@@ -59,10 +55,8 @@ Honami: If I can't...
 Honami: (We might not be able to get our song to resonate with Saku or that live house's audience...)
 Honami: (Not only that...)
 Honami: The promise I made with Ichika and Saki might...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Saki, Honami...
 Ichika: Shiho honestly believes that we possess the ability to prove Saku wrong and get our music to resonate with everyone at that live house.
@@ -72,31 +66,25 @@ Ichika: I know that we've all been doing our best until now to put on good perfo
 Ichika: But we're going to have to do even more this time.
 Ichika: We'll need to do absolutely everything in our power so that Shiho will be able to play without holding back!
 Saki: ...!
-(White cut)
+(White transition)
 Saki: Let's do absolutely everything we possibly can during these next two weeks to give Shiho a chance to play at her very best!!
 Saki: Leo/need! Here we...!
 Ichika, Honami & Saki: Go!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: ...
 Honami: (We may also have to show Shiho just how committed we are tomorrow.)
 Honami: Oh no... My hands are starting to shake...
 Honami: ...
 Honami: It's okay... Just calm down...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: I understand how you all feel.
 Shiho: But we've gotta do this.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: ...!
 Honami: Yes, she's right...
@@ -104,7 +92,7 @@ Honami: (We have to do this... No matter what.)
 Honami: ...
 Honami: We'll be fine. I'm sure of it.
 Honami: So... I'm gonna do my best tomorrow!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -164,4 +152,4 @@ Saki: I'm all for that♪
 Ichika: Me too.
 Shiho: Then, we'll need to go out and buy each of their favorites.
 Honami: Right!
-(Black cut)
+(Black transition)

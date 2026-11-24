@@ -27,34 +27,24 @@ Rui: One of your goals... Do you mean the task you were given? “Think about th
 Tsukasa: Not that one... That is another important goal for me, but...
 Tsukasa: I'm talking about the ability to come up with a story for my characters in order to deepen my understanding of them.
 Tsukasa: That needs to be deliberately developed over a long time span.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shunmeiza Director: Your acting has a way of tugging at your audience's heartstrings. You have the potential to become a great actor... That's my belief.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Shunmeiza Director: However, there's the other side of that coin.
 Shunmeiza Director: It appears that, unless you have a part that involves dramatic emotional shifts, your acting becomes mediocre.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Reki: In order to remedy my loneliness, I started making up people for me to talk to.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Reki: I first thought it'd be good to talk to characters from stories, so I started with books...
 Reki: From Sindbad to Alice, I talked to so many people...and even to some characters who weren't people.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: Developing an imagination on par with Bakuno's, and considering the story of a person's life...
 Tsukasa: As a first step, I've been trying to read novels with a more philosophical leaning than I'm used to...
@@ -68,38 +58,30 @@ Rui: How about attempting an in-depth test run on a story that's a little more s
 Tsukasa: Something simple?
 Rui: Yes. Something with plenty of space between each line and only the minimum level of description required, but with pictures included to make it easy to fill in the blanks with your imagination...
 Rui: That is to say, a picture book.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tsukasa's Room]
 
 Tsukasa: I believe I had it put away here...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: If you want to process vast amounts of information, you must first become adept at organizing it.
 Rui: A picture book is not likely to include personalities as complex as a philosophical novel, so it should make for the perfect way to practice your processing.
 Rui: As you just mentioned yourself, this is a long-term endeavor. I'm sure you'll find a method that works for you sooner or later...
 Rui: So until then, try to tackle this with patience, discipline and attention to detail.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: (It's just as Rui said. Rather than jumping to the advanced levels right off the bat, I must take one calculated step at a time.)
 Tsukasa: And to that end... Ah, here it is!
 Tsukasa: “Our Way Home”... I never imagined I'd be reading this again.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: It's quite nostalgic... The last time must have been when I read it to Saki back then.
 Tsukasa: (The protagonist is a boy in elementary school who has a little sister.)
@@ -113,7 +95,7 @@ Tsukasa: Back when I read this to Saki, I did wonder to myself about what face h
 Tsukasa: And now may just be the time to find the answer!
 Tsukasa: Right! First, I'll reread it in its entirety, then...
 Tsukasa: Gah, what's going on?! My phone is flashing...
-(White cut)
+(White transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -129,7 +111,7 @@ Tsukasa: No, I have to be overthinking... I'm sure it's just a prop the plushies
 Tsukasa: Oh well, I suppose I'll go return this first.
 Tsukasa: What?! It's flashing again!
 Tsukasa: Gah, it's so bright...!!!
-(White cut)
+(White transition)
 
 
 <Side Story (Part 2)>
@@ -175,7 +157,7 @@ Hiro: Thank you...!
 Tsukasa: (I said I would help, but if I do too much, it would probably interfere with the story...)
 Tsukasa: (In the story, Hiro is able to reach his friend's new home under his own power...)
 Tsukasa: (Then, I shall have faith as I watch over him, and only interfere when necessary!)
-(Black cut)
+(Black transition)
 Tsukasa: (I told myself I'd have faith, but...)
 Hiro: ...
 Megu: ...
@@ -207,24 +189,22 @@ Tsukasa: (I'm sure he'll figure it out. He'll realize we're very close to our de
 Hiro: Um, Fu's new house is on 5th, so...
 Hiro: Oh, look! That pole has a sign saying this is 5th! And the number after it is the same too!
 Tsukasa: Ah, you're right! Well done, Hiro!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000299/bg_s000299.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000299/bg_s000299.webp)
 Tsukasa: It's just a bit further to Fu's house. Can you hang in there?
 Hiro: Yeah!
 Tsukasa: Great, then let's depart!
 Tsukasa: (This was the right choice. I couldn't force him to keep that distressed look on his face any longer.)
 Tsukasa: (Even if it means I can't see that “weird face”, I'll have no regrets.)
 Tsukasa: (I'll stop thinking about all that and just make sure I get them reunited with their dear friend.)
-(White cut)
+(White transition)
 (Background change)
 
 [Wonderland SEKAI]
 
 Tsukasa: I'm glad we made it.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Fu: Megu, Hiro! You really came to see me?!
 Megu: Yeah! Hiro worked his hardest to find your house!
@@ -237,10 +217,8 @@ Tsukasa: You've done well, Hiro. In this moment, you're the coolest older brothe
 Tsukasa: So, save those tears for just a little longer. Your friend and your little sister are looking at you.
 Hiro: *Sniffle* Yeah...!
 Tsukasa: Good! Now, go forth with pride in your heart!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: (A “weird face”, is it...)
 Tsukasa: (Perhaps Megu was unfamiliar with that expression precisely because she's his little sister.)
@@ -260,4 +238,4 @@ Miku (WxS): Oh! Wait, was it a scary SEKAI or something?!
 Tsukasa: No, not at all.
 Tsukasa: In fact, I'm grateful for it! Because I went there, I was able to find the answer I was hoping for.
 Miku (WxS): Really?! Hehehe, that's great then♪
-(White cut)
+(White transition)

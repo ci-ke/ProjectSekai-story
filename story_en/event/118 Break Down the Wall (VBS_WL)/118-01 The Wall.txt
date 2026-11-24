@@ -22,7 +22,7 @@ Kotaro: Alright, you guys, show them what you've got! I'll do the same when I go
 An: Yeah! We're gonna give it everything we've got!
 Akito: Then, let's go!
 An, Kohane & Toya: Yeah! Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -57,7 +57,7 @@ Len (VBS): <So, the thing is...>
 Len (VBS): <SEKAI has a new area!>
 An, Toya & Akito: What?
 Kohane: A new...area?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -94,7 +94,7 @@ Akito: Yeah, it is kinda weird, but we don't have enough information to work wit
 Akito: So, why don't we try searching for clues somewhere else?
 Toya: I agree. We should get the lay of the land first... We can start with one of these alleyways.
 Kohane: Oh... Okay!
-(Black cut)
+(Black transition)
 
 [Alleyway]
 
@@ -114,7 +114,7 @@ Len's Voice (Len-VBS): Huh?! Wh-What is this thing?!
 Toya: ...?! What happened?!
 Rin's Voice (Rin-VBS): E-Everyone, come here!
 Rin's Voice (Rin-VBS): There's a huge wall blocking the way!
-(Black cut)
+(Black transition)
 An: Whoa...!
 Kohane: I-It's so big...!
 Akito: There's plenty of buildings around here... But this wall's taller than all of them.
@@ -123,7 +123,7 @@ Akito: But why's this path blocked? There's no way ahead.
 An: Hmm... Wanna try finding a way around it?
 Toya: Yes. There were many ways out of the plaza, so one will surely take us around this.
 Akito: Then, let's try that side alley over there.
-(Black cut)
+(Black transition)
 Akito: I wasn't expecting to find another giant wall here...
 Luka (VBS): I just tried one of the other alleys, but it was also blocked by a wall!
 Toya: Could it be that all these alleyways are blocked by this one wall?
@@ -164,4 +164,4 @@ An: Hmm... Checking out all of them is gonna take pretty long, so why don't we s
 Akito: Sounds good. That way, we'll still be able to have practice.
 Toya: Then, let's give ourselves thirty minutes to explore and meet back in the plaza afterwards.
 Kohane: Okay!
-(Black cut)
+(Black transition)

@@ -16,23 +16,19 @@ Gacha phrase: これからも、最高の毎日にできるよね
 冬弥: 早く追いつかないと、授業にも支障が出るからな
 彰人: まあ、たしかに……。 こっち戻って、最初の授業受けた時は焦ったな
 杏: あー……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 数学教師: この問題だが、さすがに解き方はわかるよな？ 使う公式は——
 杏: （なにその公式！　初めて見たんですけど！？）
-(White cut)
+(White transition)
 日本史教師: 徳川吉宗による財政再建を目的とした享保の改革は——
 杏: （あれ？　家康は？　家康どこいったの！？）
-(White cut)
+(White transition)
 化学教師: 今日は小テストをしていくぞ。 最近やった範囲だから、授業を聞いてれば問題ないだろう
 杏: （いやいや、知らない用語がたくさんあるってば……！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: 何やってんのか、全然わかんなかったよね……
 杏: 今までも授業についていけないことはあったけど、 今回はちょっと次元が違うっていうか……
@@ -54,7 +50,7 @@ Gacha phrase: これからも、最高の毎日にできるよね
 寧々: えっと、改革と文化はお互いに影響受けてるから、 セットで覚えるとわかりやすいかも……
 杏: えーと……どういうこと？
 寧々: 例えば……
-(Black cut)
+(Black transition)
 寧々: ——そこから元禄文化が発展したんだ……とか
 杏: すごい！　草薙さん、日本史得意なんだ！？
 寧々: た、たまたまだよ……！
@@ -72,7 +68,7 @@ Gacha phrase: これからも、最高の毎日にできるよね
 寧々: そのかわりに……落ち着いたら今度、 アメリカの話とかゆっくり聞かせてほしいな
 杏: それならいくらでも！ もうおなかいっぱいになるくらい話すから！
 杏: ホントにありがとう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,40 +85,28 @@ Gacha phrase: これからも、最高の毎日にできるよね
 こはね: じゃあ、行ってくるね！
 杏: （はー……まだフェスの熱気が、体に残ってる感じがする）
 杏: （でも、海からの風が気持ちいい……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （今日はほんっと、いいステージだったな）
 杏: （私達の歌でお客さんがひとつになって、 どんどん会場がアツくなって——）
 杏: （最っ高にドキドキした！）
 杏: （あんなパフォーマンスができたのは、 みんなが最高の形でバトンを繋いでくれたからだよね……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （お客さんの心を一気に掴んで、最高のスタートを 切ってくれたワンダーランズ×ショウタイムに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （もう、めちゃくちゃ痺れる演奏で、 会場のテンションを盛り上げてくれたLeo/need！）
 杏: （それから——）
@@ -163,4 +147,4 @@ Gacha phrase: これからも、最高の毎日にできるよね
 杏: ふふ、そうこなくっちゃ！ でも悪いけど、私が先に叶えるからねー！
 遥: ふふ、それはどうかな？ 私もやるからには、負けるつもりはないよ？
 杏: お、言ったなー？
-(Black cut)
+(Black transition)

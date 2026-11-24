@@ -20,7 +20,7 @@ Len: <Hehe. Thanks! Let's practice together again sometime!>
 Akito: Yeah, that'd be nice. Maybe once more just before the event or something.
 Toya: Right. I feel like we're able to learn more about ourselves when you're there with us, Len.
 Len: <Great! I can't wait!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -43,7 +43,7 @@ Ena: *Yawn*... Anyway, I'm getting pretty sleepy, so I'm going to bed.
 Ena: You should go to bed soon too. Night.
 Akito: I will. Night.
 Akito: Do I really look that tired...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the Summer Festival]
@@ -62,7 +62,7 @@ Toya: We can buy some stuff here and take it over to SEKAI to share with everyon
 Len: <Yay! I'll choose what to take! Oh, chocolate-dipped bananas might be good!>
 Akito: Alright, alright. We can look later. For now, we have somewhere to be.
 Len: <Right! But promise we'll go back, okay?>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Summer Festival Stage]
@@ -80,7 +80,7 @@ Akito: Alright.
 Akito: (But there's so many people... I'd hate to get in the way of something, so I guess I can leave my shoes here too.)
 Akito: Okay, let's close these two boxes up and leave them off to the side somewhere.
 Toya: Sure, that may be best since so much equipment is still being moved around.
-(Black cut)
+(Black transition)
 Len: <Wow, you can see the whole festival from here! This stage is set up a lot better than I was expecting!>
 Akito: Whoa, Len! You've gotta be more careful when you do that!
 Len: <Don't worry, I am!>
@@ -130,7 +130,7 @@ Akito: Yeah.
 Summer Festival Committee Member A: Hey, am I supposed to move this box that was off to the side too?
 Summer Festival Committee Member B: Yeah, that's going to the HQ tent! It's darker than I expected, so we need to get as many lights set up now as we can.
 Summer Festival Committee Member A: Got it. Up you go...! Hm? This feels a lot lighter than a box of extension cords should...
-(Black cut)
+(Black transition)
 Akito: Okay, now to wait until the show starts.
 Len: <You guys dancing got me so worked up! I can't wait!>
 Toya: Me too. I can't wait to get up on stage.
@@ -139,4 +139,4 @@ Akito: Huh...?
 Toya: What's wrong?
 Akito: No way... They're gone.
 Toya & Len: What?
-(Black cut)
+(Black transition)

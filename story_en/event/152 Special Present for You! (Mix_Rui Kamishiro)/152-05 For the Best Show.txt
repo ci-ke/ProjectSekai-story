@@ -41,7 +41,7 @@ Toya: Me too. But trying to find an alternative now is going to be...
 Kohane: Luka...!
 Luka (VBS): <I figured you'd all be on the slopes now, so I came to see... Did something happen?>
 Kohane: So, the thing is...
-(Black cut)
+(Black transition)
 Luka (VBS): <I see. Their equipment isn't going to make it...>
 Kohane: Exactly. These things happen, but there seems to be no way for them to create the same effect as they originally planned...
 Luka (VBS): <Yes, that is unfortunate...>
@@ -80,15 +80,11 @@ Kohane: Oh...
 Kohane: Okay!
 Rui: (This show is going to be her Christmas present.)
 Rui: (That means I have to find a way to overcome this trial. No matter how difficult it is, I will give the audience the best present ever...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (Just as Santa Claus gave me wonderful presents and allowed me to dream big... Now, it's my turn.)
 Rui: (That is my job right now.)
@@ -101,4 +97,4 @@ Rui: Would you all be willing to provide me some assistance?
 Tsukasa: Yes, of course!
 Emu: I'll do whatever I can to help too☆
 Rui: Thank you. Then, I'll cut right to the chase...
-(Black cut)
+(Black transition)

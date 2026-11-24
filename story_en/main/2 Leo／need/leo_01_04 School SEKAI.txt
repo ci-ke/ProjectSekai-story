@@ -11,7 +11,7 @@ Saki: I hear something else, too. Someone playing guitar, and... singing?
 Ichika: I may be imagining it, but it sounds like Miku.
 Saki: You mean, someone's playing a Miku song?
 Ichika: Sounds like it. Let's try to find them.
-(Black cut)
+(Black transition)
 Saki: I think the sound is coming from over there.
 Honami: Oh!
 Shiho: !!
@@ -22,7 +22,7 @@ Shiho: I see. Sigh. I'm going to be late for work...
 Honami: Um, I also suddenly ended up here somehow. Then I ran into Shiho.
 Honami: We don't know what's going on, but we heard singing, and decided to follow the sound.
 Saki: We were thinking the same thing! Let's go together.
-(Black cut)
+(Black transition)
 Honami: The singing was coming from this classroom.
 Saki: H-Hello? Is anybody here?
 Ichika: (This classroom seems familiar, as if I'd been here before. Ah, that's right. I dreamt about meeting Miku here.)
@@ -40,17 +40,13 @@ Ichika: I saw you in a dream, and you looked just like this! I have so many ques
 Shiho: Me too. First of all, what is this place?
 Miku (Ln): This is SEKAI, another world.
 Ichika: Huh?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (Ln): Welcome to your SEKAI!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ichika: What do you mean?
 Miku (Ln): It's a world created by your feelings.
 Honami: How can that be possible?
@@ -88,4 +84,4 @@ Saki: Yay! Thank you!
 Ichika: (I can't believe this is happening. We're really going to play together.)
 Ichika: (And if that wasn't incredible enough, we're going to perform in front of Miku.)
 Miku (Ln): Let's hear what you've got.
-(Black cut)
+(Black transition)

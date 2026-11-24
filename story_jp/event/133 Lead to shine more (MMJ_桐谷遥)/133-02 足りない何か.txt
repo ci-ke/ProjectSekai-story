@@ -49,7 +49,7 @@
 雫: あら？　みのりちゃん、さっきカバンにいれてなかった？
 みのり: はっ！　そ、そうでした……
 愛莉: もう、ちょっとは落ち着きなさいよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -57,34 +57,26 @@
 [遥の部屋]
 
 遥: ……やっぱり、わからないな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: 一番優先するのは、わたし達の活動目的でもある 『誰かに希望を届けられる』ことだとして……
 愛莉: 次は『たくさんの人に見てもらえる』ことなんじゃないかしら。 それが、わたし達の夢を叶える近道になるはずだもの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……愛莉が言ってたことは、間違ってないと思う）
 遥: （でも……）
 遥: （この選びかたで——この基準だけで、本当にいいのかな）
 遥: （MORE MORE JUMP！と……ファンのみんなと、 一緒に行けるのかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……あの、ステージに）
 遥: ……あ……
 遥: （そういえば、ASRUNの時は どういう基準で仕事を選んでたんだっけ）
 遥: （たしか、柊プロデューサーが——）
-(Black cut)
+(Black transition)

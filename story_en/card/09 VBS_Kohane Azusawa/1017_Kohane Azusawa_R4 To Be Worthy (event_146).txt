@@ -24,10 +24,8 @@ Kotaro: Or rather, you kept freezing up.
 Kohane: H-Haha... I did...
 Kohane: I was so startled the very first time when that girl came up to talk to me.
 Kohane: (That time...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kotaro: Here's your usual cafe au lait.
 Kohane: Thank you, I really appreciate it.
 Kotaro: I'm not seeing any of the others... Are you by yourself today, Azusawa?
@@ -56,30 +54,24 @@ Young Vivid Street Local: *Sob* I wish I could tell you more eloquently...
 Young Vivid Street Local: But I promise to keep supporting you and your team...!
 Kohane: Thank you...! I really appreciate it!
 Kotaro: Geez... Talk about tense.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kohane: That time, I really wasn't expecting anyone to come up to me and tell me that they're a fan of mine.
 Kotaro: Yeah, I got that. I mean, you two really didn't know what to say to each other.
 Kotaro: Compared to then, you've improved a lot.
 Toya: Yes, I stand to learn quite a bit from your example.
 Kohane: N-No, you're giving me too much credit...! I really wish I could interact with people the way An and Shinonome do since I still get nervous each time this happens.
 Kohane: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Young Vivid Street Local: I... I haven't been able to get your performance out of my head after seeing you at RAD BLAST! And...!
-(White cut)
+(White transition)
 Young Vivid Street Locals: We're still really terrible... But we're going to do our best as a team in order to become amazing singers like you guys...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kohane: (I really couldn't be happier that people are coming up to us to show their support...)
 Kohane: (Which means I need to keep doing my best in order to not disappoint them!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -102,7 +94,7 @@ Kohane: We have some time, An, so why don't we go check it out?
 An: Huh?
 Kohane: We're going over to visit the US soon, right? I was thinking that I should buy anything that I think I'll need right now.
 An: Good point. In that case, I'll do the same. So, let's go!
-(Black cut)
+(Black transition)
 
 [Travel Goods Display]
 
@@ -129,7 +121,7 @@ An: A cat is particularly good for whenever Akito's pretending to be all kind an
 Kohane: What?! N-No, I didn't mean to...
 An: Haha! I know!
 Kohane: An, you meanie...
-(Black cut)
+(Black transition)
 An: Anyway... This looks like the travel pouch section.
 Kohane: Oh, this one looks useful. It has so many little pockets inside...
 An: Look at that. I could keep my passport and other valuables in here.
@@ -139,7 +131,7 @@ An: Then, wanna buy matching pouches? That'd definitely make things more excitin
 Kohane: Wait, are you sure?
 An: Yeah, I want us to have matching ones! So, let's take these up front!
 Kohane: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Main Street]
@@ -151,4 +143,4 @@ Kohane: Yeah, me neither!
 Kohane: (I was still a little nervous about it when we'd only just decided to go...)
 Kohane: (But now, I can't wait to go abroad with the others.)
 Kohane: Let's have as much fun as we can in America, An!
-(Black cut)
+(Black transition)

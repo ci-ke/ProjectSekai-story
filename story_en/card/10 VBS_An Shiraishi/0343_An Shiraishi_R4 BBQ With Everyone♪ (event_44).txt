@@ -48,7 +48,7 @@ Kohane: Our food still probably needs a little more time, so why don't we give t
 An: Yeah, that sounds fun! Let's do it!
 Toya: Yes, I'd like to try as well.
 Akito: Alright, I'll give it a shot. But don't forget to keep an eye on the food.
-(Black cut)
+(Black transition)
 Kohane: Okay... Maintain a swirl pattern and...
 Kohane: Oh no, it ripped...! Count Pearl's a lot harder to make than I realized.
 An: Don't worry, Kohane! We've got heaps more where that came from.
@@ -73,14 +73,14 @@ An: (These were pretty heavy, but I'm glad I brought them...)
 An: (I hope Toya and the rest of us can keep discovering our individual and collective talents like this...)
 Kohane: Oh, something smells really good. The skewers might be ready now...
 An: Okay, you guys! It's time to dig into tonight's main dish!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next morning]
@@ -92,7 +92,7 @@ An: Mhm... No... It's still cold... Let's sleep in a little more, Kohane...
 Kohane: Oh, An.
 Kohane: Shinonome and Aoyagi are up already. It looks like they're getting started on breakfast too, so we should probably get going, you know?
 An: Hmm... Okay, I guess you're right...
-(Black cut)
+(Black transition)
 
 [Camp Spigot]
 
@@ -107,7 +107,7 @@ An: Huh?
 Toya: I see. We know the pain of having our hands exposed to freezing water during a cold day in the mountains, so we'd be able to sync up well there...
 Akito: I've never heard of a song like that... But I guess it is important to see and feel the same things.
 An: That's right! Experience counts for everything!
-(Black cut)
+(Black transition)
 Akito: Hey, we're done putting away the dishes. How are you guys doing?
 Kohane: Thanks, Shinonome. We're just about done too.
 Toya: We've thrown away the paper plates we used for the sandwiches. To be honest, I'm still amazed at how good they were.
@@ -118,7 +118,7 @@ Akito: Not a bad idea... But I feel like we should do something that we can only
 Toya: We could take another walk in the forest again.
 Toya: I'm sure it's very different during the day, and more importantly, we won't get lost.
 An: Yeah, that sounds nice. Let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [In the forest]
@@ -135,7 +135,7 @@ An: Oh, that's probably because of all the morning dew.
 Akito: We could get a completely different kind of song if we use this as inspiration.
 Kohane: Oh, why don't we try singing here with that in mind?
 An: Yeah! I bet we'll sound amazing!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Campground)
 Akito: Alright, it's almost time for checkout. We should get ready to go...
@@ -155,4 +155,4 @@ Akito: Hold on. I thought people say that to make sure you actually get home saf
 Akito: Still, what you say also kinda makes sense...
 Kohane: Hehe. I agree! It's like we get to keep camping after we get home!
 An: Hehe. So let's all get ready to go!
-(Black cut)
+(Black transition)

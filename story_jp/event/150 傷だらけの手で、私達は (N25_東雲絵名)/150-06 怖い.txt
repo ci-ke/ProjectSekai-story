@@ -2,7 +2,7 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -30,20 +30,16 @@ MEIKO (N25): 『もう、セカイには来ないの？』
 MEIKO (N25): 『……みんな、待っているわ』
 瑞希: …………知ってるよ
 瑞希: それでも…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………っ
 瑞希: ——無理だ……
 MEIKO (N25): 『……瑞希……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -90,7 +86,7 @@ MEIKO (N25): あの状態だと、少なくともここ数日は
 絵名: ごめん。 もう少し、瑞希のそばにいてもらっていいかな
 MEIKO (N25): ——ええ
 絵名: ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -117,4 +113,4 @@ MEIKO (N25): ——ええ
 絵名: （このまま…………）
 絵名: ……………………あ……
 絵名: 『——ごめん、ふたりとも。 ちょっとお願いしたいんだけど……！』
-(Black cut)
+(Black transition)

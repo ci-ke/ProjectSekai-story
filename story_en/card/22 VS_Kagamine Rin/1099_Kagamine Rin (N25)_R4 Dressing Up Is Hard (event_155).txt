@@ -13,7 +13,7 @@ Ena: Okay, I think it's finished.
 Mizuki: Cool! It looks way different from your original sketch!
 Rin (N25): Yeah, it feels a lot warmer now with these colors...
 Rin (N25): (This is really strange... I can't seem to look away for some reason.)
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -68,7 +68,7 @@ Rin (N25): Mizuki...
 Mizuki: Hm?
 Rin (N25): Thank you...
 Mizuki: Haha. You're welcome!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -82,14 +82,10 @@ Mizuki: Haha. You're welcome!
 Rin (N25): I finished coloring it...
 Rin (N25): (Now what...?)
 Rin (N25): (I think I'll go see what the others are doing.)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Rin (N25): (Kanade hasn't been back to SEKAI since then...)
 Rin (N25): (I hope things worked out for her.)
 ???: There you are, Rin.
@@ -104,16 +100,12 @@ Kanade: *Nod* But that ended up being enormous.
 Rin (N25): Okay...
 Kanade: Oh, also. I brought over the picture like I promised.
 Rin (N25): Picture? Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Rin (N25): Let me know if the picture turns out. I wanna see...
 Kanade: Okay. I'll bring it by once it's ready.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Rin (N25): (She remembered...)
 Kanade: Tenma sent it to my phone. Here's how it turned out...
 Rin (N25): It's you, but not you, Kanade...
@@ -136,4 +128,4 @@ Rin (N25): Then, what about me...?
 Kanade: I feel like your appearance already captures you, Rin...
 Kanade: But why don't we ask the others sometime? They'll probably be more than happy to give us their ideas.
 Rin (N25): Yeah, we should ask them...
-(Black cut)
+(Black transition)

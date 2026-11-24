@@ -65,7 +65,7 @@ MEIKO: こうなると、ちょーっと不憫ねえ
 えむ: えへへっ♪ 司くん、すーっごくやる気満々だったね！
 えむ: オーディション、合格できるといいなあ！
 KAITO: ふふ。そうだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [司の部屋]
@@ -79,18 +79,14 @@ KAITO: ふふ。そうだね
 司: （父親のいないリオは、母親を助けるために、 たったひとり虫取り網を手に、 呪いを解く力を持つフェニックスの心臓を取りに行く——）
 司: ふふ、何度読んでも、なかなか見上げたヤツだ。 家族のためにひとりフェニックスを捕まえにいくのだからな
 司: ……さて、次は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 司くんは理屈で役を演じることは少々苦手だけれど、 一方で、直感的に把握することには長けている
 類: 一度、役との共通点さえ見つけてしまえば それをきっかけに、もっと役への想像力を膨らませることが できると思うんだ
 類: だから何かひとつでもいいから、 この役と似ているところを見つけてほしい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: 役とオレ自身の、似ている部分を見つけていくとしよう
 司: （トルペの時に掴んだあの感覚は、 必ず今回も役に立ってくれるはずだ）
@@ -102,15 +98,11 @@ KAITO: ふふ。そうだね
 司: 『大好きな母さんは、 もうずっと眠り続けることしかできないのに、僕は……』
 司: …………よし
 司: （この調子で、みっちり役作りをしていくぞ。 そしていつか——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （あの日見た、スターのように……！！）
-(Black cut)
+(Black transition)

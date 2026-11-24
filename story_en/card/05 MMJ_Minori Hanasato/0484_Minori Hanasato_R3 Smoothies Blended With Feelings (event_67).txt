@@ -38,7 +38,7 @@ Comments: <I'm sorry for doubting you...> <I love Airi's smug face.> <This is im
 Airi: Oh, I'll also have you rotate roles, so you'll each get a chance to try all of them.
 Airi: Now, let's draw straws to decide who's gonna be doing what for our first round!
 Minori: Yeah!
-(Black cut)
+(Black transition)
 Airi: Alright, our first smasher's gonna be... Shizuku!
 Shizuku: Hehe. That means I'm going to be blindfolded, yes?
 Minori: You sound pretty excited about that, Shizuku.
@@ -81,14 +81,14 @@ Comments: <Huh? She's blindfolded, right?> <How's she able to go so fast?!>
 Airi: Here we go! Some drama straight outta the gates! Shizuku's off like a rocket! While blindfolded no less!
 Airi: But you've gotta be about this quick to get to the watermelon in time! Let's see if she can maintain this speed!
 Minori: W-W-W-Wait for meee!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Minori Hanasato, Haruka Kiritani, Airi Momoi, Shizuku Hinomori)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Beach]
@@ -120,18 +120,14 @@ Minori: (She's right. Haruka's gently pushing and pulling against Shizuku while 
 Minori: (Wait, no...! I don't have time to admire her..! I should be guiding her!)
 Minori: (But I'm having so much trouble running in this sand that I can't relay any information...)
 Minori: (What can I do...? How can I help Haruka and Shizuku...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Airi: Alright, ready?
 Shizuku: I'm ready!
 Minori: Shizuku, you're facing the sea. The camera's this way!
 Shizuku: Oh, okay. Thank you, Minori.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Minori: (Yeah, that's it...!)
 Airi: Thirty seconds left!
 Comments: <They aren't gonna make it.> <This is harder than I thought.>
@@ -147,7 +143,7 @@ Shizuku: Okay, I think I understand! Haruka, I'm going to increase my speed.
 Haruka: (Okay, got it.)
 Airi: Wh-Whoa! Haruka and Shizuku are running at nearly full speed now! Straight towards the watermelon too!
 Airi: They might just...!
-(Black cut)
+(Black transition)
 Minori: Yay! We made it in less than three minutes!
 Airi: 2’ 56” to be exact! It was close, but your last-ditch plan made such a huge difference in the end, Minori!
 Haruka: Yeah, I never would've thought to run towards the watermelon and call for my teammates.
@@ -166,4 +162,4 @@ Minori: Yes, ma'am!
 Airi: Good answer! Now, with that in mind, let's do our second attempt!
 Minori: Yeah!
 Shizuku & Haruka: Yeah!
-(Black cut)
+(Black transition)

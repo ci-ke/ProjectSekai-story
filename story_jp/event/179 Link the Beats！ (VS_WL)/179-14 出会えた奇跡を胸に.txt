@@ -72,14 +72,14 @@ MEIKO (WxS): だから、その時は——
 ミク (MMJ): え？
 まふゆ: 今日は、ありがとう
 ミク (MMJ): ……！　どういたしまして！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000489/bg_s000489.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000489/bg_s000489.webp)
 ミク (MMJ): ——みんな、またね！
 ミク (MMJ): いつかまた……きっと、会えるから！
 ミク (MMJ): その時は、また——ライブを見てくれると嬉しいな
 奏: うん……！
 瑞希: また、絶対会おうね！
-(White cut)
+(White transition)
 (Background change)
 ミク (MMJ): ん……
 みのり: あ……ミクちゃん！
@@ -111,4 +111,4 @@ MEIKO (WxS): だから、その時は——
 雫: ええ、またあのルカちゃんに会った時に いい報告ができるように——気合いを入れて頑張りましょう！
 ミク (MMJ): （わたしも……また、あの子達に会えた時に もっとみんなを笑顔にできるように）
 ミク (MMJ): もっともっと、頑張りたいな
-(White cut)
+(White transition)

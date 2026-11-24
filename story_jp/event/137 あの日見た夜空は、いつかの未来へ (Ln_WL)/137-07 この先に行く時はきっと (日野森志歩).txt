@@ -24,15 +24,11 @@ KAITO (Ln): 今の音は……
 志歩: 駅のスピーカーからみたいですね。 でもなんで……
 KAITO (Ln): 音楽……？　何の曲だろう？
 志歩: あ、この曲……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (Ln): もしかして、知ってる曲？
 志歩: ——はい
@@ -41,39 +37,31 @@ KAITO (Ln): もしかして、知ってる曲？
 志歩: （昔からこだわりが強くって、 周りと全然合わせることができなくて——）
 志歩: （そんな私に、自分の道を進んでいいって 教えてくれたのが音楽だった）
 志歩: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: ——やっぱり私、バンド組んで 誰かとやるのは向いてないんだろうな
-(White cut)
+(White transition)
 (Background change)
 志歩: （私はまだどこにも進めないし……戻れない）
 志歩: （だからただ、今は——弾き続けていこう）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （その音楽でも、私は誰かと組むのは 向いてないって強がって）
 志歩: （ひとりでいた方がいい、なんて考えて……）
 志歩: （——あの時の私は ひとりでプロになるしかないと思ってた）
 志歩: （だけど、今は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: アタシ、すっごくたくさん考えたんだけど……。 やっぱり、志歩ちゃんとバンドがしたいの！
-(White cut)
+(White transition)
 穂波: だから、今日は自分で答えを決めてきたの。 ちゃんと自分の気持ちを、志歩ちゃんに伝えたいから
-(White cut)
+(White transition)
 一歌: 志歩と一緒に——誰かの心に響くような演奏がしたいって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （みんなが覚悟をしてくれたおかげで…… 一緒にプロになれた）
 志歩: （ならあとは——進むだけ）
@@ -90,19 +78,19 @@ KAITO (Ln): 志歩達を、この線路の先に 連れて行ってくれるの�
 志歩: （それって、もしかして）
 志歩: （目指す場所——プロとしての未来に……）
 志歩: （だけど——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000332/bg_s000332.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000332/bg_s000332.webp)
 志歩: ——乗らないよ
 志歩: 今はもう、私ひとりの夢じゃないから
 志歩: だから……ひとりで先へは行かない
 志歩: みんなと一緒に、行くんだ
-(White cut)
+(White transition)
 (Background change)
 志歩: （私達がどこにたどり着くかは、まだわからない）
 志歩: （けど、みんなとなら、 きっと進んでいける……）
 志歩: ……戻りましょうか、カイトさん
 志歩: 今日はとことん練習に付き合ってくださいね
 KAITO (Ln): ……うん。 志歩が満足するまで付き合うよ
-(Black cut)
+(Black transition)
 (Video: link_leoneed_ed3)
-(Black cut)
+(Black transition)

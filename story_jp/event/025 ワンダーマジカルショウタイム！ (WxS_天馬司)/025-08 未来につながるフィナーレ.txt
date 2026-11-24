@@ -6,11 +6,11 @@
 
 ミク (WxS): 『ここからは、みんなの笑顔の魔法の力で彩られた、 フェニックスワンダーランドのもうひとつの顔、 スマイルナイトタイムのスタートだよっ！』
 KAITO: 『まだまだ夜は終わらないよ！ ——イッツショウタイム！』
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000080/bg_a000080.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000080/bg_a000080.webp)
+(White transition)
 (Background change)
 来場者: ねえねえ！　いま観覧車に乗ったら、すごい綺麗そうじゃない！？
 来場者: ジェットコースターの演出が昼間と変わってるんだって！ 行ってみようよ！
@@ -30,14 +30,14 @@ KAITO: 『まだまだ夜は終わらないよ！ ——イッツショウタイ
 慶介: ……どうやら、そのようだ
 慶介: 特に中高生のあいだで話題になっているらしい。 そのせいで、平日のナイトチケットまでが完売している
 晶介: マ……マジかよ……
-(White cut)
+(White transition)
 KAITO: 『——さて。名残惜しいけれど、 そろそろお別れの時間だ』
 ミク (WxS): 『バイバイするのは寂しいけど、 またここで、一緒に笑顔になろうね～！』
 司: 『皆さま！　本日はどうも——』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000079/bg_a000079.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000079/bg_a000079.webp)
 全員: 『ありがとうございました！！』
-(White cut)
+(White transition)
 (Background change)
 ライリー: ブラボー！　ブラボーー！！
 慶介: えむ……
@@ -102,7 +102,7 @@ KAITO: 『——さて。名残惜しいけれど、 そろそろお別れの時
 司・えむ・寧々・類: 『わんだほーい！！』
 えむ: だよねっ♪
 司・えむ・寧々・類: 『あははははっ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -163,6 +163,6 @@ KAITO: 『——さて。名残惜しいけれど、 そろそろお別れの時
 晶介: 誰がやるか！　なんだこのアホみたいな掛け声は！
 慶介: はははっ！ まるで子供の頃のようだな、晶介！
 司: では——ワンダーランズ×ショウタイム、 華麗なる第２幕のスタートだっ！！
-(Black cut)
+(Black transition)
 (Video: 04_wonder_ed1)
-(Black cut)
+(Black transition)

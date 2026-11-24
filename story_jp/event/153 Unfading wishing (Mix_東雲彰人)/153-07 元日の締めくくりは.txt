@@ -19,7 +19,7 @@
 冬弥: いいですね。 普通の羽子板とどんな風に違うのか、俺も気になります
 彰人: オレも大丈夫ですよ
 愛莉: ありがとう、みんな。 それじゃあ、近くの公園に行きましょうか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数分後]
@@ -42,7 +42,7 @@
 絵名: よーし。絶対勝って、チーズケーキ奢ってもらうんだから
 愛莉: わたし達だって負けないわ。 勝つわよ、彰人くん！
 彰人: はい！
-(Black cut)
+(Black transition)
 冬弥: 絵名さん、ここは俺が……！
 愛莉: 彰人くん、そっちにいったわ！
 彰人: 任せてください！　よっ、と！
@@ -61,7 +61,7 @@
 愛莉: ふふっ、彰人くんもナイス演技だったわよ！
 絵名: もう……！ なんかすごい悔しいんだけど……！
 絵名: っていうか——彰人と愛莉は なんでそんなに息ぴったりなわけ？
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -88,10 +88,10 @@
 絵名: ん。素直でよろしい
 絵名: ——ま、頑張りなさいよ。 あんたはあんたで
 彰人: おう。……ありがとな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000395/bg_s000395.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000395/bg_s000395.webp)
 彰人: （まさか、あいつがこんなもん買ってくるとはな）
 彰人: （……餞別、か）
 彰人: （鉢合わせた時は、騒がしい正月になっちまったと思ったが……）
 彰人: （なんだかんだ、いい１年のスタートだったかもしれねえな）
-(White cut)
+(White transition)

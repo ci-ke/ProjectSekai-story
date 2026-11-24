@@ -37,7 +37,7 @@ Emu: Wow! Thank you very much!
 (Background change)
 Rin (WxS): <Emu seems so cool right now...!>
 Len (WxS): <Yeah, I'm really impressed! She's taking lots of notes and asking all these great questions...>
-(Black cut)
+(Black transition)
 (Background change)
 Management Staff Member: That's everything as far as our contributions to society go. Do you have any further questions?
 Emu: No further questions. Thank you very much for being so thorough with me!
@@ -66,7 +66,7 @@ Emu: Hehe. I'm totally fine! I really am having fun learning about all these dif
 Len (WxS): <Yeah, we could tell just by watching!>
 Rin (WxS): <Oh, can you tell us more about what you've been learning?!>
 Emu: Sure! Let's see... The other day, I learned about...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -97,19 +97,15 @@ Emu: Yup! I helped present our idea to the board!
 Nene: What...?
 Tsukasa: Emu? Giving a big presentation...?
 Tsukasa: I have to think it went like...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Dun da-da-dun! Everybody, eyes on me!
 Emu: Today's presentation is going to be so much fun!
 Emu: Because I came up with an idea that's gonna make everybody smile from ear to ear!
 Emu: And I'm sure it'll make the entire board smile in the same way!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: Upbeat and cheerful is what comes to mind.
 Nene: S-Same...
@@ -120,10 +116,8 @@ Nene: Digestible and dignified...?
 Byakkomachi: But she also did a good job of making an emotional appeal. The board responded very well to that.
 Byakkomachi: She got them to hear her out and think about our idea seriously, and moved their hearts in a fairly obvious way.
 Tsukasa: Emu? Giving a moving speech...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Everyone! What Kikyogumi needs to worry about the most right now is being wonderhoy!
 Emu: They should be putting on wonderhoy performances that make everyone feel really wonderhoy...
@@ -134,10 +128,8 @@ Emu: Then, so that you don't forget again... Let's all remind ourselves what it 
 Emu: Ready?! One, two, three!
 Emu: Wonderhoy!
 Board Members: Wonderhoy!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: I-I see...
 Rui: I have a feeling that what really happened is starkly different from what we're imagining.
@@ -157,4 +149,4 @@ Rui: I agree. I'm also glad that your hard work ended up paying off, Emu.
 Nene: Nice work, Emu.
 Emu: Thanks, you guys...!
 Emu: I'm gonna work even harder moving forward... To learn more about management, and get better at giving presentations too!
-(Black cut)
+(Black transition)

@@ -30,7 +30,7 @@
 類: ……ええ、尽力します
 類: （赤組のおかげで、 思いがけずみんなの結束が強まったな）
 類: （——全力で、いいものにしていこう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -49,15 +49,11 @@
 類: ……そうだ！
 杏: 神代先輩？ どうかしましたか？
 類: ああ、いいことを思いついたんだ。 校舎の上からみんなが一斉に——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ——いや
 類: やっぱり、もう少し考えることにするよ
@@ -67,7 +63,7 @@
 青組団長: よし、それじゃ今日は解散だ。 各自風邪などひかないよう 風呂に入って温かくして寝るように！
 杏: おー！ 本番まで頑張りましょうね！
 瑞希: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [類の部屋]
@@ -78,33 +74,25 @@
 類: ——応援団、か
 類: （さっき思いついたアイディア……あれを取り入れれば、 応援合戦の質が格段に上がることは間違いない）
 類: （今のままでも決して悪くはないけれど、 みんなと目指してきた最高の応援合戦にするには 欠かせない要素になるはずだ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （……僕も、みんなと同じように できうる限り最上の演出をつけたいと思っている）
 類: （その気持ちは、最初も今も変わらない。 ……はずなのに）
 類: なぜ、言いだせないんだろう
 類: （このまま本番を迎えて、たとえ勝つことができたとしても。 みんなが心から笑顔を咲かせていたとしても……）
 類: （僕は、僕が満足する応援合戦ができなかったことを この先もずっと、後悔するはずだ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: そういえば——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -141,17 +129,13 @@
 ルカ: 類くんに、信頼されている気がして
 類: 信頼……
 類: （そうか、僕は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 男の子A: こんなのおもしろそうってだけでやれないよ！
 男の子B: そうだよ！　類くん、おかしいよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （僕はまた——怖がってたんだ。 無意識のうちに、みんなに拒まれることを）
 類: 少しは克服したつもりだったけれど……、 染みついたものはなかなか落とせないね
@@ -159,4 +143,4 @@
 ルカ: 少しでも類くんの力になれたのなら嬉しいわ。 ふあ、なんだか安心して……
 ルカ: ……すぅ……♪
 リン: わわっ、そんなところで寝ちゃダメだって～！
-(Black cut)
+(Black transition)

@@ -16,7 +16,7 @@ Male Student B: “Why don't you ask Toya for some tips? If I recall, he always 
 Toya: “What...?”
 Male Student A: “Hey, that's right! You got any good advice for me, Toya?!”
 Toya: “Well... First, if you wish to improve your pitch...”
-(Black cut)
+(Black transition)
 Toya: “...but those are the only remedies that come to mind. I only hope that some of that was helpful.”
 Male Students: “...”
 Male Student A: “That's amazing, Toya! You're a total pro!”
@@ -31,31 +31,27 @@ Male Student B: “Hey, you're being way too nosy.”
 Toya: “No, it's okay.”
 Toya: “Nothing bad happened per se. It just wasn't for me. That's all.”
 Toya: “Yes, things were hard at times, but...”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000432/bg_s000432.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000432/bg_s000432.webp)
 Toya: “My memories of that time all feel like a dream now.”
 Toya: “They have a brilliance to them.”
 Toya: “They're precious and unforgettable.”
 Male Student A: “We had no idea... Also, you seem to really enjoy talking about all that.”
 Male Student A: “I feel like you should give it another try.”
-(White cut)
+(White transition)
 (Background change)
 Toya: (A message? From who...? Oh, it's some of my old classmates from Kamiyama High.)
 Toya: (Let's see what it says...)
 Toya: ...!
-(Black cut)
+(Black transition)
 (Background change)
 Toya: (I wasn't expecting a message like that.)
 Toya: (They invited me to a get-together for old time's sake.)
@@ -69,7 +65,7 @@ Toya: Nothing to report. And congratulations on your concert. I'll get dinner re
 Natsuomi: No, I'll cook tonight. It's been a while since I last did.
 Toya: Oh, then... I'll set the table.
 Natsuomi: Okay, thank you.
-(Black cut)
+(Black transition)
 Toya: This is good. You really are a much better cook than me.
 Natsuomi: To be fair, I can't make anything all that fancy.
 Natsuomi: How has school been lately?
@@ -113,6 +109,6 @@ Natsuomi: That was the look of someone who cares deeply about something.
 Toya: ...
 Natsuomi: This is all the advice I can give you. My hope is that you don't regret any decisions you make...
 Toya: (I...)
-(Black cut)
+(Black transition)
 (Video: link2_street_ed1)
-(Black cut)
+(Black transition)

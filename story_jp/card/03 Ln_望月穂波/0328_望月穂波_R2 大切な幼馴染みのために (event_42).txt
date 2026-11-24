@@ -21,25 +21,21 @@ Skill name: 約束の日を待って
 みんな: 『あははっ』 『ふふっ』
 穂波: （あ、そうだ。 宵崎さんのこと、一歌ちゃんに教えてあげないと）
 穂波: あのね、一歌ちゃん。 一歌ちゃんが朝比奈先輩にお願いして CDを貸した人のことなんだけど……
-(Black cut)
+(Black transition)
 咲希: ええーっ！ その人、ほなちゃんが家事代行してるおうちの人だったの！？
 穂波: うん。わたしもびっくりしちゃった
 穂波: あ、それでね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ……あの、宵崎さん……
 穂波: もしよろしければ、なんですけど……。 その子に会ってもらえませんか？
 奏: え、わたしが？
-(White cut)
+(White transition)
 穂波: あ、もちろん宵崎さんがよかったらなんですけど……
 奏: わかった。 わたしもCDのお礼が言いたいし、お願いできるかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: え……。穂波、頼んでくれたの！？
 穂波: うん。ダメ元で……。 そしたら、いいよって
@@ -53,16 +49,12 @@ Skill name: 約束の日を待って
 穂波: うん。でも、お仕事でお邪魔してるだけだし、 そういうこと言っちゃいけないことになってて
 志歩: 守秘義務っていうやつでしょ？ それは仕方ないじゃん
 穂波: でも……咲希ちゃんや一歌ちゃんが曲作りに困ってた時とか、 相談に乗ってもらえたかもしれないなって
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （わたしじゃ役に立てなかったかもしれないけど、 宵崎さんだったら……）
 咲希: ほなちゃん、そんなに気にしないで！ むしろ、言わないでおいてくれて正解だったかもよ？
@@ -80,16 +72,12 @@ Skill name: 約束の日を待って
 穂波: なあに？
 一歌: 穂波も一緒にいてもらえないかな。 何を話せばいいかわからなくなったら困るし
 穂波: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 望月さんも同席してくれないかな。 わたし、あまり人と話すことってないから、 何を話せばいいのかわからなくなりそうで
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （ふふっ。ふたりとも似たようなこと心配してるな）
 穂波: 大丈夫だよ。宵崎さんにも頼まれてるから、 わたしも一緒に行くよ
@@ -97,7 +85,7 @@ Skill name: 約束の日を待って
 穂波: うん。だから安心して、一歌ちゃんは 一歌ちゃんが聞いてみたいことを考えておいてね
 一歌: わかった！　当日よろしくね、穂波
 穂波: うん！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -110,7 +98,7 @@ Skill name: 約束の日を待って
 奏: うん、お願い
 奏: あ……今回もご飯のメニュー、お任せで大丈夫？
 穂波: はい、任せてください！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -157,4 +145,4 @@ Skill name: 約束の日を待って
 奏: そっか。よかった
 奏: わたしも次を楽しみにしてるから、 その時はよろしく
 穂波: はい！　わたしも楽しみにしてますね
-(Black cut)
+(Black transition)

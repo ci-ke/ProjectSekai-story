@@ -3,7 +3,7 @@
 (Character: An Shiraishi, Hatsune Miku)
 
 (Video: link_street_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -32,15 +32,11 @@ An: Yeah.
 An: We're gonna surpass RAD WEEKEND and see what it's like beyond that dream. We're gonna do the thing Aunt Nagi didn't get to. I don't have any doubt about that.
 An: But I still don't know what to do about how I feel about Kohane...
 An: She's my partner... She means more to me than anyone else...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000167/bg_s000167.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000167/bg_s000167.webp)
+(White transition)
+(Flashback out)
 (Background change)
 An: Because I wanna keep up with her.
 An: So...
@@ -77,4 +73,4 @@ An: (Did my feelings...?)
 An: (If so... Was that Aunt Nagi like a ghost or something...?)
 An: (Still...!)
 An: Aunt Nagi! Wait for me!!!
-(Black cut)
+(Black transition)

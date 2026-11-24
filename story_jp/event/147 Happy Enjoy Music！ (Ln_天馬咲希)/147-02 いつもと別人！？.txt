@@ -4,7 +4,7 @@
 
 [２時間後]
 
-(Black cut)
+(Black transition)
 咲希: ——はあ、疲れた～！ そろそろ休憩しよ！
 志歩: それはいいけど……休憩終わったら、 今、咲希がミスったサビのとこから始めるからね
 咲希: う！　は、はーい……。 はぁ、やっぱり新しい曲は難しいな～
@@ -30,8 +30,8 @@ KAITO (Ln): 難しかったって言ってたけど ……ちゃんと、曲に�
 咲希: そうそう！ 学校で撮影したんだけど、ストーリーもすっごくよくて……！
 咲希: ちょうどこの前投稿されたから、みんな見て見て！
 一歌: えっ、あ……！　咲希……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000371/bg_s000371.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000371/bg_s000371.webp)
 ルカ (Ln): どんな感じなのかしら。 楽しみね
 咲希: えへへ。今回はちょっとした演技もしてるんですよ！
 咲希: す～っごくがんばったので、 期待しててください！
@@ -40,7 +40,7 @@ KAITO (Ln): 難しかったって言ってたけど ……ちゃんと、曲に�
 レン (Ln): オレも興味あるな
 咲希: じゃあ、みんなこっちにギュって寄って！ 一緒に見よ！
 一歌: ちょ、ちょっと咲希……！
-(White cut)
+(White transition)
 (Background change)
 MEIKO (Ln): みんな、おまたせ！
 リン (Ln): ……あれ？　みんな、何してるの～？
@@ -62,8 +62,8 @@ MEIKO (Ln): それで、どんなストーリーなの？
 咲希: みんな～！　再生するよ～！
 リン (Ln): わっ、どれどれ！？
 一歌: あっ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000369/bg_s000369.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000369/bg_s000369.webp)
 リン (Ln): えっ、これっていっちー！？ なんかかっこいいじゃん！
 咲希: すっごーくクールな感じだよね～！
 レン (Ln): ていうか、いつもと別人に見えるな……。 表情か？
@@ -72,7 +72,7 @@ MEIKO (Ln): それで、どんなストーリーなの？
 KAITO (Ln): なんていうか……大人っぽい雰囲気があるね
 MEIKO (Ln): ふふっ！　こういうのもいいじゃん！ 新しい一歌を見れた感じがして、私は好きだよ
 一歌: あ、ありがとう……
-(White cut)
+(White transition)
 (Background change)
 一歌: でも、やっぱり恥ずかしいな……
 一歌: 咲希も、撮影してる時 私のほう見て、ずっとニヤニヤしてたし
@@ -99,4 +99,4 @@ MEIKO (Ln): え、そうなの？
 咲希: うんっ！　みーんなに、アタシ達の曲を届けちゃおう！
 志歩: じゃ、お茶飲んだら練習再開するよ
 咲希: はーい♪　MVみたいに、かっこよく弾いちゃうぞ～！
-(Black cut)
+(Black transition)

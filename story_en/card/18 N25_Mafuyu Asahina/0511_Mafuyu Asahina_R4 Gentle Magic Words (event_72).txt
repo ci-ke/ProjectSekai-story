@@ -48,7 +48,7 @@ Ena: Oh, those are called caramel apples.
 Luka: <I see. They're so cute. I like how shiny they are♪>
 Ena: Yeah, they coat the apples in a glaze that uses red food coloring. We can get some if you want.
 Luka: <Really? That'd be lovely.>
-(Black cut)
+(Black transition)
 Kanade: Our order should be done soon. Mafuyu, are you going to get a crepe?
 Mafuyu: Oh...
 Mafuyu: I still have the lunch I was given earlier.
@@ -58,7 +58,7 @@ Kanade: I see. I didn't realize... Do you feel better now?
 Mafuyu: Yes, I feel much better. I should be able to eat now.
 Mafuyu: I think I'll try a crepe.
 Mizuki: You got it! Hey, buddy, whip up a really good one for her!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -76,7 +76,7 @@ Rin: You're welcome...
 Mafuyu: (It doesn't taste like anything...)
 Mafuyu: (But it doesn't feel bad.)
 Mafuyu: (Is it because we're eating them together?)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -88,7 +88,7 @@ Mafuyu: (Is it because we're eating them together?)
 Mafuyu: (It's already been a week since Shibuya Festa...)
 Mafuyu: (Mom asked how it was after I got home, but no other questions besides that since.)
 Mafuyu: (She didn't seem too concerned about me going...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Class 2-B]
@@ -98,14 +98,14 @@ Mafuyu: Sure, how can I help you?
 Classmate: I couldn't get my head around the things we discussed in class. Would you mind helping me understand it better?
 Mafuyu: Oh, that was pretty tricky. I don't know if I'll be able to teach it to you properly, but I'll try my best. Let's sit down and talk about it.
 Classmate: Really?! You're a lifesaver!
-(Black cut)
+(Black transition)
 
 [After school]
 
 Classmate: Thanks for teaching me that part during lunch! It was super helpful and I'm really glad I asked you, Mafuyu!
 Mafuyu: Really? That's good to hear. I was actually a little worried if I could explain it correctly.
 Mafuyu: Anyway, I need to head to club. I'll see you tomorrow.
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (I didn't have time to eat much of my lunch...)
 ???: Oh, thank goodness we found her in time. Asahina!
@@ -124,23 +124,19 @@ Airi: Sorry about that. Good luck with club, Asahina!
 Airi: We'll need to come up with an idea for what to do just before our solo show.
 Shizuku: Yes. Ideally, it should be something fun that everyone can enjoy. Oh, what if we do a stream the day before where we just chat about whatever we like...?
 Shizuku: I have a feeling that our fans are also going to be anxious, so it might be a nice way to lighten the mood going into our show.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: We worked very hard to make sure we're able to spread hope to as many people as we can.
-(White cut)
+(White transition)
 (Background change)
 Shizuku: ♪—— ♪—— ...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: I should head to club...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -151,16 +147,12 @@ Shiho: I'm glad that we all feel a little more confident now, but we still need 
 Honami: I'm not sure how it'll go, but I do want to give it a try...
 Ichika: In that case, I can try singing with a little more power.
 Mafuyu: (They seem to be discussing their next show...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: One, two, three, four!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: (My chest... It feels...)
@@ -185,4 +177,4 @@ Mafuyu: Huh...?
 Emu: Anyway, if you'll excuse me! I need to head to practice!
 Mafuyu: ...
 Mafuyu: She's such a strange girl...
-(Black cut)
+(Black transition)

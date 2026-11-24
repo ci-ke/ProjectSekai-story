@@ -14,7 +14,7 @@
 穂波: こちらこそ、お忙しい中ありがとうございます
 穂波: みんなでいろいろ話したいことがあって…… あ、でもその前に、まずは食べましょうか
 まふゆ: そうだね
-(Black cut)
+(Black transition)
 こはね: そういえば—— また新しい動画があがってましたね
 雫: ええ！　頑張っているんだなって、 なんだか嬉しくなっちゃったわ
 まふゆ: 最近、かなりペースが早い気がする
@@ -48,16 +48,12 @@
 こはね: 本当に、よかった……
 雫: ええ。 あのルカちゃんにも、報告できたらいいんだけど……
 穂波: ……結局、あれ以来 一度もあのセカイに行けてないですしね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): 『それぞれのセカイで、 あの木に触れてみればいいんじゃないかしら』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: もう一度……みんなで試してみる？
 穂波: えっ？
@@ -67,10 +63,10 @@
 穂波: じゃあ、一度それぞれのセカイに——あれ？
 こはね: みんなのスマホが、光ってる……？
 まふゆ: なんだろう、これ——
-(White cut)
+(White transition)
 (Background change)
 こはね: ……っ！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？のセカイ]
@@ -110,7 +106,7 @@
 雫: あら？　何かしら、この光……
 こはね: みんなの体が、光ってる……！？
 ルカ: ……これは……
-(White cut)
+(White transition)
 まふゆ: 木に、吸い込まれた……
 穂波: 今のって……？
 ルカ: みんなの体からあふれていたのは、想いの力よ
@@ -124,6 +120,6 @@
 ルカ: みんなの想いが強くなっていけば、 いつか自由に出入りできるようになるかもしれないわ
 ルカ: その時は、また——みんなで会いましょうね
 雫・こはね・穂波: 『ええ！』 『はい！』
-(White cut)
+(White transition)
 (Video: link3_team03_ed)
-(Black cut)
+(Black transition)

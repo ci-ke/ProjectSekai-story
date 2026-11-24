@@ -7,20 +7,16 @@
 Saki: I'll have you wear this and this... And these accessories...!
 Kanade: (Wow, it's like she knows exactly what to pick now...)
 Kanade: (This must mean...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (She's figured out what she wants to do.)
 Saki: Thank you for waiting! Everything's all set, so can you change into this for me?
 Kanade: Yes, of course.
-(Black cut)
+(Black transition)
 Kanade: Do I look okay...?
 Saki: Perfect! Next, can you take a seat here? I'll be doing your hair and makeup now.
 Kanade: Okay.
@@ -38,7 +34,7 @@ Saki: Hehe. It's hard not to look in the mirror when you're sitting in front of 
 Saki: I think it'd be more fun for you to wait and see what you look like once I'm all done!
 Kanade: Okay... Then, please tell me once you've finished.
 Saki: Thank you♪ I'll let you know when I'm done.
-(Black cut)
+(Black transition)
 (Background change)
 Saki: Just put on a bit of pale-colored lip gloss and...
 Saki: Alright, I'm done! Oh, but don't open your eyes yet.
@@ -46,14 +42,14 @@ Kanade: Okay...
 Saki: I'll hold your hand, so stand up and walk this way with me...
 Saki: Okay, you can open your eyes now!
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000402/bg_s000402.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000402/bg_s000402.webp)
 Kanade: ...
 Saki: What do you think...?
 Kanade: Umm...
 Kanade: It might be strange for me to say this, but...
 Kanade: I look...really pretty, I think.
-(White cut)
+(White transition)
 (Background change)
 Kanade: I don't know the first thing when it comes to fashion...
 Kanade: But I can tell that something is different about me compared to before.
@@ -75,7 +71,7 @@ Kanade: Huh?
 Saki: You made such a great expression just now. I want to take a picture!
 Kanade: W-Wait, just now...? What kind of expression did I make...?
 Saki: You smiled and glowed like crazy!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -101,4 +97,4 @@ Kanade: Huh? She already replied...?
 Saki's Message (Saki): <I'd love to do more dress-up days now and again, if you're okay with it!>
 Kanade: ...
 Kanade: “Maybe every once in a while.”
-(White cut)
+(White transition)

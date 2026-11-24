@@ -54,15 +54,11 @@ MEIKO (MMJ): ふふ。あのルカと同じセカイのレンなら、 想像が
 レン (MMJ): “僕”達自身のこと。それから、“僕”達がどんなふうに 想いの持ち主と関わっているのかも
 リン (MMJ): 想いの持ち主と？
 レン (MMJ): 一緒に過ごした時間は、短かったけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (MMJ): どの僕も、想いの持ち主達と 強い絆で結ばれてるって感じたんだ
 レン (MMJ): それは、それぞれのやり方で 想いの持ち主を見守って、支えてきたからなんだろうなって
@@ -76,7 +72,7 @@ KAITO (MMJ): みんなにとって、有意義なパーティーになるよう�
 ミク (MMJ): わたしも！　料理チーム以外のことでも、 できることがあったら何でも言ってね、レンくん！
 レン (MMJ): みんな……ありがとう！
 レン (MMJ): 素敵なパーティーになるように、頑張ろう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -132,7 +128,7 @@ KAITO (WxS): 『そうだね。本当に頼もしかったよ』
 KAITO (WxS): 『最高のパーティーになるように、 当日も頑張らせてもらうね』
 レン (MMJ): 『みんな……』
 レン (MMJ): 『うん、よろしくね！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -143,17 +139,13 @@ KAITO (WxS): 『最高のパーティーになるように、 当日も頑張ら
 レン (MMJ): （あとは、本番を成功させるだけだ）
 レン (MMJ): （レクリエーション、みんなに楽しんでもらえるといいな）
 レン (MMJ): （特に——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (MMJ): （DJをしている僕は、クイズを面白がってくれそうだな。 勝負するのが好きみたいだったし……）
 レン (MMJ): （ショーをしてる僕には、推理ゲームを遊んでほしいな。 なりきり要素があるから、気に入ってくれると思う）
@@ -163,4 +155,4 @@ KAITO (WxS): 『最高のパーティーになるように、 当日も頑張ら
 レン (MMJ): （一緒に歌って、いろんな話もできるといいな）
 レン (MMJ): ……ふふ。なんだか、ますますやる気が出てきたな
 レン (MMJ): 念のため、もう一度段取りを確認しておこう
-(Black cut)
+(Black transition)

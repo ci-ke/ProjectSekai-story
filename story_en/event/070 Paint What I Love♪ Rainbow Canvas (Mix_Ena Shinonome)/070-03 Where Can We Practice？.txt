@@ -9,7 +9,7 @@
 Honami: (I became a little worried after I'd heard about what I'll be doing during my shadowing... But I'm so glad that Shinonome agreed to help me...)
 Honami: (I'm sure I'll do just fine as long as learn to draw something...or anything that's recognizable...)
 Honami: Also, we haven't decided on where to meet... Where's a good place for someone to teach me how to draw...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-B]
@@ -32,7 +32,7 @@ Honami: O-Oh, um... Yes, that sounds like a wonderful idea... Except...
 Honami: (That would involve me showing Emu my drawing. If she sees that...)
 Emu: Honami?
 Honami: I-I'm sorry. The truth is...
-(Black cut)
+(Black transition)
 Emu: What?! I didn't know that you weren't very good at drawing, Honami!
 Honami: Yes, so... No matter how hard I try, I struggle to draw what I actually want... I've even been laughed at a few times as a result.
 Honami: Which is why I became worried after we were told that we'd be teaching kindergartners how to paint.
@@ -51,7 +51,7 @@ Emu: Oh, wait! That's if you and your teacher are okay with that, Honami...!
 Honami: Thank you, Emu.
 Honami: I'm okay with that, so I'll ask my teacher... I'll be sure to ask Shinonome about this.
 Emu: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend]
@@ -60,16 +60,12 @@ Ena: Hmm... This can't be right...
 Ena: Based on the map Mochizuki sent me, Otori lives somewhere around here... But I'm not seeing anything that resembles a house...
 Ena: Hm...?
 Ena: She looks familiar. Where have I seen her before...?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: Oh, I saw her when...
 Honami: Huh?
 Ena: (Crap...! Did she hear me?!)
@@ -103,7 +99,7 @@ Honami: Yes... I apologize for not mentioning it sooner... I was just so preoccu
 Ena: N-No, that's totally fine. There was no reason for you to tell me. I'm just a bit surprised too...
 Ena: Anyway... Shall we...?
 Honami: Y-Yes...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Otori Household - Living Room]
@@ -117,17 +113,13 @@ Emu: I'm Emu Otori! It's super nice to meet you! I'm really looking forward to t
 Emu: Wait, huh...?
 Emu: Did you happen to be at Phoenix Wonderland with Asahina the other day...?!
 Ena: Huh? Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Asahina...! I hope you enjoy your visit to Phoenix Wonderland!
 Emu: Because this is a place that makes everyone smile!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Does that mean you're the junior she's been talking about? The one who performs in shows at PXL?
 Emu: Yes, that's me! Emu Otori! I didn't realize that you were her friend!
@@ -144,4 +136,4 @@ Hinata: Hehe. It's okay. You don't need to be so formal.
 Hinata: Feel free to relax and enjoy yourselves. I'll bring some snacks for you all later.
 Ena: Th-Thank you very much...
 Emu: Hehe. Alright, let's head up to my room!
-(Black cut)
+(Black transition)

@@ -12,7 +12,7 @@ Shizuku: What a beautiful sunset...
 Shizuku: I hardly come to this area, and it's so peaceful here...
 Shizuku: (But I should really be heading back soon...)
 Shizuku: (The station is just around that corner, so the agency...)
-(Black cut)
+(Black transition)
 Shizuku: Huh? Did I not walk past this place a while ago?
 Shizuku: How strange. I was so sure I would reach the station if I just headed in this direction.
 Shizuku: Well, maybe if I go back the way I came from...hm?
@@ -57,7 +57,7 @@ Shizuku: It feels like you've found me again.
 Airi: What?
 Shizuku: Hehe, let's go, Airi. Um...this way, right?
 Airi: It's the opposite way!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -75,7 +75,7 @@ Honami: Of course! Let's see... We should think of a design first.
 Shizuku: Yes. Maybe we can start by drawing out what we have in mind?
 Shizuku: We may find something good by exchanging ideas like that.
 Honami: O-Okay...
-(Black cut)
+(Black transition)
 Shizuku: This should do. Are you done, Honami?
 Honami: Yes...sort of.
 Shizuku: Let's share, then.
@@ -126,4 +126,4 @@ Shizuku: Like when I'm talking about the committee activities I do with you, Hon
 Honami: Oh!
 Shizuku: Please continue to be her friend, and, if you don't mind, to lend her a listening ear too.
 Honami: Yes. Maybe...someday...
-(Black cut)
+(Black transition)

@@ -17,7 +17,7 @@
 冬弥: 俺が言うのもおかしな話だが…… 普段通り万全の状態でステージに臨むためにも、 みんなで行ってきてくれ
 彰人: ……わかった。 何かあったら、すぐ連絡しろよ
 冬弥: ああ
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: （…………頭が、ぼんやりする……）
 冬弥: （朝よりも、熱が上がっているのかもしれないな。 だが……不思議と、気分は悪くない）
@@ -54,14 +54,14 @@
 冬弥: だが——
 冬弥: 今は、早くステージで歌いたいんだ
 スレイド: なんで……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000537/bg_s000537.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000537/bg_s000537.webp)
 冬弥: スレイドが言ったんじゃないか。 優しさも、気遣いも欲しくないと
 スレイド: え……
 冬弥: 俺も同じだ。 ただ本気で……全力でぶつかってきてほしい
 冬弥: こんなにも音楽を愛していて、歌に熱を感じられる—— そんな相手と、本気で競い合うのは……
 冬弥: きっと、どんな瞬間よりも楽しいはずだ
-(White cut)
+(White transition)
 (Background change)
 スレイド: （……心配されるのも、気遣われるのも、嫌だった）
 スレイド: （オレはただ、“音楽”がやりたいだけだって…… ずっと、そう思ってたのに）
@@ -69,4 +69,4 @@
 スレイド: ——わかった。 それなら、これ以上は止めない
 セドリック: 俺達も、全力でいかせてもらう
 冬弥: ああ…………望むところだ
-(Black cut)
+(Black transition)

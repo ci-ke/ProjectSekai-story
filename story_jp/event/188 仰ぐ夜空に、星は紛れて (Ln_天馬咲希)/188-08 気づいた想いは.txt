@@ -7,16 +7,12 @@
 咲希: （……ライブ、楽しかったなあ）
 咲希: （お客さんの声がビリビリって響いて、 すごい迫力で）
 咲希: （いっちゃん達も、すっごく楽しそうで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: それって、私達の夢に近づくってことでしょ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: …………
 咲希: （あの時……）
@@ -45,10 +41,8 @@
 花乃: ——私もだよって、叫んじゃいました！
 咲希: …………あ……
 咲希: （そっか……。そういうことだったんだ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い咲希 (咲希): （……検査の機械、暗くて狭くて すごく怖かったな……）
 幼い咲希 (咲希): （でも……ちゃんと、我慢できた。だって——）
@@ -70,7 +64,7 @@
 幼い咲希 (咲希): ……！　うん！ じゃあ、いくよ——
 幼い咲希 (咲希): ♪————————
 みんな: 『♪————————』
-(White cut)
+(White transition)
 (Background change)
 中学生の咲希 (咲希): ……いっちゃん達、今頃何してるんだろう
 中学生の咲希 (咲希): また連絡するって言ってたけど…… 入学したばっかりだし、忙しいよね——
@@ -87,10 +81,8 @@
 中学生の一歌 (一歌): え、なんで私……？
 中学生の咲希 (咲希): よーし。それじゃあ、いっちゃん もっと近くにおいでー♪
 中学生の穂波 (穂波): ふふ。これは逃げられないね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （……アタシ、さっきの花乃ちゃん達みたいに、 目の前で笑ってくれる顔が見たいんだ）
 咲希: （手を伸ばしたら届くくらい、近くで）
@@ -105,29 +97,25 @@
 葉太: はい。今日は、素敵なライブをありがとうございました
 花乃: 次のライブも、絶対行きますね。 これからも、ずっと応援してます！
 咲希: ………………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000514/bg_s000514.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000514/bg_s000514.webp)
 咲希: （…………もし）
 咲希: （もし、アタシがやりたい音楽をやろうとしたら……）
 咲希: （みんなとは、一緒にいられなくなっちゃうのかな）
 咲希: （そうなったら、もう……）
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 咲希: ——これからも、４人で一緒にいられますように！
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: …………っ
 咲希: （…………嫌だ）
@@ -141,4 +129,4 @@
 咲希: （なんだろ、今……）
 咲希: （…………ライブもあったし、疲れてるのかな）
 咲希: …………早く帰ろう
-(Black cut)
+(Black transition)

@@ -10,17 +10,17 @@
 寧々: （まずは、なんでも試してみなきゃ）
 寧々: ——わかった。 行こう、えむ！
 えむ: ラジャー！
-(Black cut)
+(Black transition)
 えむ: はろー！　えくすきゅ～ずみ～！
 トラックの運転手達: 『ん？　なんだい？』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000639/bg_s000639.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000639/bg_s000639.webp)
 えむ: あたし達、うぉんとぅーごーごー！　ブロードウェイ！
 えむ: バス、ブーーーン！って行っちゃった！ べりー・困った！　へるぷみ～～！
 トラックの運転手達: 『よくわかんねえが……ブロードウェイに行きたいのか？』
 寧々: つ、通じた……！
 えむ: イエスイエス！ お願い！　乗せてぷりーず！！！
-(White cut)
+(White transition)
 (Background change)
 寧々: えっと…… プリーズ・キャン・ユー・テイク・アス？
 トラックの運転手達: 『んー、近くは通るが、仕事中だからな』
@@ -73,7 +73,7 @@
 寧々: ……そうだ。あのショーをアレンジすればいけるかも！
 えむ: あのショー？
 寧々: うん。細かいところは即興になっちゃうけど…… こんなのはどうかな？
-(Black cut)
+(Black transition)
 (Background change)
 
 [バス休憩所]
@@ -109,4 +109,4 @@
 司: そして、もし時間までにふたりが現れなかったら、 本格的にふたりを探しに出るとしよう！
 ルカ (WxS): （寧々ちゃん、えむちゃん……）
 ルカ (WxS): （ふたりなら大丈夫って、信じてるわ）
-(Black cut)
+(Black transition)

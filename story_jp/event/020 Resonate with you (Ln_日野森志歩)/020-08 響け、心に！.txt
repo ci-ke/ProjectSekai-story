@@ -42,16 +42,16 @@
 観客達: うん、知らないバンドだけど 結構好きかも
 志歩: （空気が、変わってきた）
 一歌: （このまま、最後まで——！）
-(Black cut)
+(Black transition)
 (Background change)
 イオリ: …………うん
 イオリ: 悪くないね
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ——！　——！　——……♪
 一歌: ……っ！
 一歌: （よかった、ちゃんと歌いきれた……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブ会場　ステージ裏]
@@ -68,14 +68,14 @@
 一歌: これから、一緒の道を歩かせてほしい
 志歩: ……っ
 志歩: ……本当に……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000067/bg_a000067.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000067/bg_a000067.webp)
 志歩: 本当に、一緒にプロを目指してくれるの？
 志歩: あとから後悔しても、知らないよ
 一歌: 後悔なんて、するわけない！
 咲希: そうだよ！ 一緒に、Leo/needで、夢を叶えようよっ！
 志歩: ……ありがとう
-(White cut)
+(White transition)
 (Background change)
 イオリ: ——やっぱり、こうなったか
 イオリ: （あの子も、こんな風に言ってくれたら——。 いや、今のあの子にはきっと無理だな）
@@ -91,10 +91,10 @@
 ミオ: でも、みんなと一緒にやりたいの。 わがままだってわかってるけど…… STANDOUTで、音楽をずっとやっていきたい！
 イオリ: …………
 イオリ: ……演奏で、その想いを伝えてよ
-(Black cut)
+(Black transition)
 (Background change)
 イオリ: みんなお待たせ！！ それじゃあ——いくよ！！
-(Black cut)
+(Black transition)
 (Background change)
 志歩: あ……
 志歩: （あの人、STANDOUTに戻ったんだ）
@@ -112,6 +112,6 @@
 志歩: そんな簡単なものじゃないんだけど
 志歩: ……まあ、みんなで考えていけばいいか
 一歌: うん。たくさん考えていこう。 ——４人で、一緒に！
-(Black cut)
+(Black transition)
 (Video: 01_leoneed_ed1)
-(Black cut)
+(Black transition)

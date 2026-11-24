@@ -56,7 +56,7 @@ MEIKO (Ln): ほんと？　それなら、今度やってみようかな
 MEIKO (Ln): いろいろ教えてくれてありがとう
 MEIKO (Ln): これからも風紀委員として、 みんなが気持ちよく過ごせるようにしていくから——
 MEIKO (Ln): 何かあったら、いつでも気軽に頼ってほしいな！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -68,14 +68,10 @@ MEIKO (Ln): 何かあったら、いつでも気軽に頼ってほしいな！
 [屋上]
 
 MEIKO (Ln): …………
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (Ln): （咲希のことが気になる、か……）
 MEIKO (Ln): （アドバイスはしたけど……。 相手が隠してるかもしれないことを聞くのは、簡単じゃないよね）
 MEIKO (Ln): （きっと、すごく勇気がいるはず。 でも、穂波なら——）
@@ -113,18 +109,14 @@ KAITO (Ln): ……メイコ？
 MEIKO (Ln): あ……
 MEIKO (Ln): ——ううん、なんでもないよ
 MEIKO (Ln): （……今の私達には、見守ることしかできない）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (Ln): （すれ違って、バラバラになって…… だけどまた、一緒にいられるようになった）
 MEIKO (Ln): （それは……『４人で一緒にいたい』って、 あの子達が強く願ったからだよね）
 MEIKO (Ln): （それなら——今はただ、信じよう）
 MEIKO (Ln): （どんなことがあっても……みんななら、きっと大丈夫）
-(Black cut)
+(Black transition)

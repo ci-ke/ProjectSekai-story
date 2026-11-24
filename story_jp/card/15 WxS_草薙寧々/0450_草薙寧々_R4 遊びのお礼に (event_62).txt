@@ -55,15 +55,11 @@ Gacha phrase: あ、ありがと……
 寧々: あんな風に『未知を楽しむ』『未知のものを知ろうとする』 みたいなことが、わたしにもできたらって思って……
 寧々: （わたし、怖がってばっかりで、サバイバルも 野宿もムリなんじゃないかってどこかで思ってた……）
 寧々: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （きっと風祭さんだったら、 えむ達みたいにこの状況を楽しんでたかも）
 寧々: （それで、いろんなことに挑戦して、 発見とかもして……）
@@ -71,17 +67,13 @@ Gacha phrase: あ、ありがと……
 類: それなら、そんなに心配はいらないんじゃないかな
 類: メイコさんも言っていただろう？ 寧々は怖いことに立ち向かえる人だと
 寧々: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 『舞台に立つ前っていつもちょっと怖いわよね。 うまくできるのか、お客さんがどんな反応してくれるのか』
 MEIKO: 『でも、寧々ちゃんは 何度だってそれを乗り越えてきたじゃない！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ……なれる、かな。メイコさんが言ってくれたみたいに、 怖いことに立ち向かえる人に
 類: 夢を叶えるためにそれが必要なら、 寧々はきっとなれると思うよ
@@ -100,7 +92,7 @@ MEIKO: 『でも、寧々ちゃんは 何度だってそれを乗り越えてき
 えむ: あ、お兄ちゃんおかえり！ お兄ちゃんも、あたしの変顔見たい？
 晶介: は？　へ、変顔？
 寧々: ふふ。ちょっとえむ、 説明もなしにそんなこと言ったらびっくりするってば
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -135,15 +127,11 @@ MEIKO: 『でも、寧々ちゃんは 何度だってそれを乗り越えてき
 類: 寧々？
 寧々: ……実は、メッセージアプリが一番心配なんだよね。 最後にバックアップをとったのいつだったか 記憶があいまいで……
 寧々: もしスマホにデータが残ってなかったら……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: せっかく星乃さん達と友達になって、 連絡先だって交換したのに……
 司: ん？　会おうと思えば会えるんだから、 事情を話してまた教えてもらえばいいじゃないか
@@ -156,15 +144,11 @@ MEIKO: 『でも、寧々ちゃんは 何度だってそれを乗り越えてき
 寧々: もう、他人事だと思って……
 えむ: そういえば、みのりちゃんやこはねちゃんとも 連絡先交換してるんだよね？ その時はどうしたの？
 寧々: それは……花里さん達が交換しようって言ってくれて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: う……せっかく、歌を通じて友達ができたのに……
 寧々: も、もし、本当に連絡先とか 消えちゃってたらどうしよう……！
@@ -199,4 +183,4 @@ MEIKO: 『でも、寧々ちゃんは 何度だってそれを乗り越えてき
 寧々: そうだね
 寧々: （わたしのスマホ……）
 寧々: （本当に、元通りになって戻ってきてくれてよかった……！）
-(Black cut)
+(Black transition)

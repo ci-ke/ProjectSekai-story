@@ -20,7 +20,7 @@ Kohane: Yes, please... I want to become better and stronger so that we can actua
 Miku (VBS): Okay, let's practice.
 Miku (VBS): While we're at it, let's play the same freestyling game you've been playing at your training.
 Kohane: ...! Thank you, Miku! I really appreciate it!
-(Black cut)
+(Black transition)
 Kohane: ♪————!!
 Miku (VBS): (She's got a chip on her shoulder now...)
 Miku (VBS): (I guess her battle with An is the reason why.)
@@ -34,7 +34,7 @@ Kohane: Huff... Huff...
 Miku (VBS): (That being said, I don't intend to lose...)
 Miku (VBS): Alright, now it's my turn. Ready?
 Miku (VBS): ♪——————!!! ——————!!!
-(Black cut)
+(Black transition)
 Miku (VBS): Phew.
 Kohane: You really are amazing, Miku...
 Kohane: Your power and technique are always good, but the way you sang just now...
@@ -70,7 +70,7 @@ Miku (VBS): (And I want to give them the push they need to get there.)
 Miku (VBS): ♪————————!!
 Kohane: ♪————————!!
 Miku (VBS): (You can do it, Kohane.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -103,10 +103,8 @@ An: So... A-Are they okay to eat?
 Miku (VBS): Why wouldn't they be?
 Akito: You sound pretty confident.
 MEIKO (VBS): Hehe. There's nothing to worry about. Miku put in a lot of hard work for this party.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Len (VBS): Alright, so we're gonna make all their favorites and everything else on the menu for their after-party!
 Len (VBS): They're gonna be so surprised when they see all the tables in this place covered in food!
 Miku (VBS): Then, let's start deciding what we'll each be making. Beginning with...
@@ -130,10 +128,8 @@ Rin (VBS): No, you piled that way too high!
 KAITO (VBS): We'll measure everything out while you focus on stirring the pot.
 Miku (VBS): Right... Not having to do all the little things would help simplify this process.
 Miku (VBS): So, leave the stirring to me. I want everyone to really enjoy what I make.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (VBS): I was genuinely moved by your event. And this is my way of expressing what I felt.
 Miku (VBS): So, please have as much food as you like today.
 Miku (VBS): From the bottom of my heart, congratulations.
@@ -155,4 +151,4 @@ Miku (VBS): Thank you. This makes us really happy.
 Miku (VBS): Anyway, shall we get started? Everyone have their drinks ready?
 Miku (VBS): Here we go!
 Everyone: Cheeers! Cheers!
-(Black cut)
+(Black transition)

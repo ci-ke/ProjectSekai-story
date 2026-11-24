@@ -31,7 +31,7 @@ Mafuyu: Is something wrong...?
 Mafuyu's Mother: I-I'm sorry. I was just a little worried, since it's already two in the morning...
 Mafuyu's Mother: I'll be awake for a little while longer, so please let me know if you'd like a midnight snack.
 Mafuyu: Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -46,7 +46,7 @@ Mafuyu's Mother: Oh...
 Mafuyu's Mother: You must just be feeling a bit fatigued.
 Mafuyu's Mother: But you just have to work harder and make it up next time. Don't worry, I know you will, Mafuyu.
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -56,19 +56,15 @@ Mafuyu's Mother: Thank you! I really appreciate it!
 Mafuyu: (I'll start with this one...)
 Mafuyu: (Huh...?)
 Mafuyu: (What are all these college pamphlets doing here? Are these for...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Then, maybe we ought to start looking for schools for you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -80,18 +76,14 @@ Mafuyu: (Which is why...)
 Mafuyu: (I want to believe in her, but...)
 Mafuyu: (What this in my pocket...?)
 Mafuyu: (A bracelet...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: I'm back.
 Mafuyu's Mother: Yes... Yes... I understand. Then, we'll talk again next Sunday.
@@ -121,7 +113,7 @@ Mafuyu: (Because of me...)
 Mafuyu: (She ran herself ragged trying to figure out what to do...)
 Mafuyu: (Then...)
 Mafuyu: (Then... I...)
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -143,7 +135,7 @@ Mafuyu's Mother: Mafuyu...
 Mafuyu's Mother: You're welcome! I hope you'll keep allowing me to help make your dream come true...
 Mafuyu: (She's putting herself through so much for my sake...)
 Mafuyu: (Which means...)
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (I should go along with her...)
-(Black cut)
+(Black transition)

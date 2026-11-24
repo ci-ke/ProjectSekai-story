@@ -16,7 +16,7 @@ Akito: I have a feeling that this place has better beds than any of the cheap ho
 Toya: Yes, they were very comfortable.
 Toya: Anyway, the cafeteria on campus that Mr. Lloyd told us about should be opening soon...
 Kohane: Right. Let's go get some breakfast.
-(Black cut)
+(Black transition)
 Toya: Hm? A message?
 Toya: Oh, it's from Shuji...
 Akito: Speaking of which, you told him that we managed to meet up with Mr. Lloyd, right?
@@ -63,7 +63,7 @@ Toya: Yes, I'll do that.
 Shuji: <Toya...>
 Shuji: <We won't be able to see each other this time around due to my performance, but let's try to meet in person soon.>
 Toya: Yes, I'll be looking forward to seeing you.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,7 +96,7 @@ Toya: Then, let's take this opportunity to ask him about other establishments th
 An: Good idea! Especially since we've only been to that backstreet so far.
 Akito: Then, let's ask him while we walk over to the burger shop.
 Toya: Sounds good!
-(Black cut)
+(Black transition)
 (Background change)
 
 [New York Academy of Music - School Gate]
@@ -116,19 +116,15 @@ Toya: “Thank you for being so considerate. So, how was my dad...?”
 Lloyd: “Oh, it's still early in the morning over there, so he was pretty grouchy.”
 Lloyd: “He'll grouse about it, but he'll always listen after you tell him that you need to talk to him about something. The more serious the better.”
 Lloyd: “That part of him really hasn't changed.”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: Dad...can we talk?
-(White cut)
+(White transition)
 Toya: Please let me ask you again.
 Toya: Tell me what you think of my song.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: What did Mr. Lloyd say just now?
 Kohane: Umm... He said Aoyagi's dad will listen to what you have to say if you talk to him seriously.
@@ -143,4 +139,4 @@ Toya: Yes, mine too...
 Toya: Having someone else tell you about a family member like this feels a bit strange.
 Toya: (But...)
 Toya: (I'm looking forward to talking to Dad about all this someday.)
-(Black cut)
+(Black transition)

@@ -18,61 +18,49 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 杏のメッセージ (杏): 『そうだ、よかったらふたりで軽く歌わない？』
 こはね: 『じゃあ少し早めの、 カフェが忙しくない時間に行くようにするね』っと……
 こはね: 練習か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （ほんの少し前までは、みんなでしてたんだよね……）
 こはね: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪————————————！！
 杏: …………っ！！
-(White cut)
+(White transition)
 (Background change)
 新: 降りるよ、俺は
-(White cut)
+(White transition)
 新: じゃあね。 ……このチームでやるのは、楽しかったよ
-(White cut)
+(White transition)
 達也: ——実際、潮時かもしれないな
-(White cut)
+(White transition)
 洸太郎: なんで……なんで……！ なんでオレは……っ大事なところで……全然、歌えねえで……！
 洸太郎: なんでオレは…… 馬鹿で、意気地がなくて、ヘタクソなんだよお……っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……みんな、バラバラになっちゃった）
 こはね: （私達も、すごくショックで……）
 こはね: （それでも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: ——お前は、オレ達の先に行ける。 凪が見ることができなかった、夢の先に
 杏の父: ここにいる——仲間と一緒に
 杏: …………っ
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 杏: 凪さんが私を信じてくれたんだ
 杏: 私が……私達が夢の先に進んでくって、信じてくれたんだ！
 杏: なら、私は超える！
 杏: RAD WEEKENDを絶対に超えて—— その先に、父さん達の夢の先に行ってみせる！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （杏ちゃんのおかげで、 みんなでもう一度頑張ろうって思えた）
 こはね: （大好きな凪さんが亡くなってたってわかって、 杏ちゃんが、誰よりもつらかったはずなのに……）
@@ -81,7 +69,7 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: （もし、私が杏ちゃんだったら……。 あんな風に、決意できたかな……）
 こはね: ……こんなこと、考えたって仕方ないよね。 私は、杏ちゃんじゃないんだし
 こはね: ちょっと早いけど……明日のために、寝る支度して寝ちゃおう
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -90,7 +78,7 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: スマホいじりながら寝ちゃったからかな……
 こはね: あ……何か光ってる。 ……なんだろう、これ……ガラス玉？
 こはね: わっ！　な、何？　まぶしいっ……！
-(White cut)
+(White transition)
 (Background change)
 
 [ビビッドストリート？]
@@ -129,7 +117,7 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: （でも、なんで？ なんでみんなには、私が杏ちゃんに見えるんだろう？）
 こはね: （本当に、どうしたら……。 誰か、相談できる人がいればいいのに……）
 こはね: ——……あ、そうだ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -165,22 +153,18 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: （気づいて、くれた……？）
 こはね: （そうだ……！ 歌なら、私だってわかってくれるかもしれない！）
 こはね: （だって、あんなに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 こはね: （毎日のように、朝から晩までみんなで練習して——）
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 こはね: （いろんな場所で、一緒に歌ってきたんだから……！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 東雲くん、青柳くん、黙っててゴメン！ 杏ちゃんに見えてるかもしれないけど、私、こはねなの！
 彰人: は？　お前、何言って——
@@ -192,21 +176,17 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: （見た目だけ杏ちゃんになれたって、嬉しくない……！）
 こはね: ————！！　——————！！
 こはね: （私は、私でいなくちゃ！ だって——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ——私、思うんだ。 こはねの歌は本当にすごいって
 杏: こはねの歌を聴くと、ドキドキして、テンション上がって、 もう今すぐ歌いたい！って気分になるの
 杏: その気持ちはね、絶対、絶対に本当
-(White cut)
+(White transition)
 (Background change)
 杏: こはねのこと、信じてるよ。 だから、こはねの最高の歌を聴かせて！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （私は杏ちゃんの『相棒』だから——！！）
 こはね: ————～～～！！　————！！
@@ -214,7 +194,7 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: （杏ちゃんの最高の相棒、『小豆沢こはね』でいたいの！！）
 彰人: ……お前、本当にこはねなのか！
 こはね: ——うんっ……！！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -242,17 +222,17 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: あっ——
 こはね: 今見えたのって、みんなと……前の私？
 こはね: あ、あっちの鏡……あれって 初めてVivid BAD SQUADとして参加したイベントの 帰り道じゃ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000208/bg_s000208.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000208/bg_s000208.webp)
 こはね: （ここが、どんな想いから生まれた場所なのかは わからないけど……）
 こはね: （進むと、鏡の中にいろんな景色や思い出が 映って消えて——）
 こはね: （ミラーハウスっていうより、 なんだか万華鏡の中にいるみたいだな）
-(White cut)
+(White transition)
 (Background change)
 こはね: …………！！
 こはね: （遠野さん達が映ってる鏡だけ、ひびが入ってる……）
 こはね: ……進まなきゃ。ミクちゃんが待ってる
-(White cut)
+(White transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -262,17 +242,13 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 ミク (VBS): ……どうだった？　想いの欠片のセカイは。 不思議な体験をしたんじゃない？
 こはね: う、うん……。なんていうか、 びっくりするようなことばっかりで、 夢を見てるみたいな感じだったな
 こはね: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: （杏ちゃんが好きだって言ってくれたこの歌で！ 信じてるって言ってくれた、この歌で……！）
 こはね: （杏ちゃんの最高の相棒、『小豆沢こはね』でいたいの！！）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: すごく大事なことを、改めて意識できた気がする
 ミク (VBS): そっか……
@@ -280,16 +256,12 @@ Gacha phrase: 私はこれからも、杏ちゃんの隣で
 こはね: ……もしそうなら、 想いの持ち主さんに感謝しなくちゃ
 こはね: （私、これからも杏ちゃんの最高の相棒として、 杏ちゃんの隣で歌い続けていきたい）
 こはね: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （みんなのことも、諦めたくない）
 こはね: （ここからもう一度、杏ちゃん達と頑張っていこう！）
-(White cut)
+(White transition)

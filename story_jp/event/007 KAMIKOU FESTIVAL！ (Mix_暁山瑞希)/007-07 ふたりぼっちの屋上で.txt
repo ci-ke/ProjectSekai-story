@@ -2,8 +2,7 @@
 
 (Character: 神代類, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(Memory cut-in)
-
+(Flashback in)
 瑞希: あ、またいる
 類: やあ瑞希くん。 今日は遅いじゃないか。もう３時間目だよ
 瑞希: いや、だからなんでいつも待ってるの？ ボク達何も約束してないでしょ
@@ -43,10 +42,8 @@
 類: どうだろうねえ。 ああ、それなら——
 類: ４時間目の終わりまで、一緒に待ってみるのはどうだい？
 瑞希: ……あはは。じゃ、そうしよっか。 どうせボク達、ヒマだしね～
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 類には、ちゃんと仲間ができたんだね。 あの司って人とか、あと、一緒にいた女の子とかさ
 瑞希: あーあ、類に先越されるとはな～。 絶対ボクのほうがコミュ力高いのに～
@@ -55,15 +52,11 @@
 瑞希: ……なんでそう思うの？
 類: 演出家としてのカン、かな？
 瑞希: ……あはは、何それ。 ボクにはそんなの……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………仲間、って言うと、 ちょっとしっくりこないけど
 瑞希: でも、そんな感じの人達に会うことはできたかもね
@@ -76,4 +69,4 @@
 瑞希: へー。 高校だとそういうのもあるんだね
 類: ……ん？ 足音が聞こえるね。誰かこっちに来るみたいだ
 瑞希: え？　誰だろ？
-(Black cut)
+(Black transition)

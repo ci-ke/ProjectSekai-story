@@ -23,7 +23,7 @@ Akito: Yeah. Since we have the time, why not?
 Akito: But where? If we're looking for a place we can chill...
 Toya: Would it be alright for me to choose? There's somewhere I'd like to go...
 Akito: Somewhere you wanna go...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Diner]
@@ -48,17 +48,13 @@ Akito: Toya, you... I wondered what made you suddenly wanna go to a diner. So th
 Toya: Akiyama contacted me yesterday asking for my help with this surprise. I apologize for somewhat deceiving you.
 Mizuki: The cheesecake here is to die for, so I thought it'd be great for a surprise!
 Mizuki: I actually invited Rui and Tsukasa too. But unfortunately, they said they already had something going on today.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: Forgive me, Akito! We have plans that we cannot reschedule on that day...
 Tsukasa: But allow us to make it up to you next week by putting on an exceptional show for your birthday! You won't be disappointed!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...is what he told me to tell you. He was super pumped about it♪
 Toya: A show by Tsukasa and his troupe... Isn't that great, Akito?
@@ -83,7 +79,7 @@ Akito: We've gotta knock it out of the park at the event once we've recharged.
 Akito: Okay, let's get to ordering. What did you guys want?
 Toya: Since Ena and Akiyama are joining us, why don't we order something we can all share?
 Ena: Oh, then how about pizza? Or maybe some French fries too?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,7 +109,7 @@ Ena: Hmm... Alright then, I expect you to return the favor.
 Akito: Return the favor? So it wasn't like you wanted to celebrate after all.
 Mother: Alright, that's enough. Ena, hurry up and eat your dinner. Akito, go take a bath, it's already heated up for you.
 Akito & Ena: Okay...
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -127,7 +123,7 @@ MEIKO (VBS): <Would you mind coming to SEKAI for a bit? We wanted to celebrate y
 MEIKO (VBS): <I contacted Toya and the others already. If you could all come together, that would be great!>
 Akito: Sure thing.
 MEIKO (VBS): <Thank you. See you later!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -146,17 +142,17 @@ Toya: It is. We don't usually play games like this together. It's quite nice.
 Akito: Yeah. I was surprised when you guys suddenly announced we'd be doing a tournament, but I guess it might be fun every now and then.
 Luka (VBS): Alright, then let's have fun until we're ready to pass out tonight!
 Len (VBS): Yeah! So let's move on to the next round!
-(Black cut)
+(Black transition)
 Akito: Alright, three 10s.
 Rin (VBS): Akito's on a roll. I think it's about time we do “that”.
 Miku (VBS): I think so too. Rin, Len, could you help me?
 KAITO (VBS): Hm? H-Help?
 Akito: Hey, that's against the rules! It ain't that kind of game!
-(Black cut)
+(Black transition)
 Toya: Wow. They worked together seamlessly.
 MEIKO (VBS): I was wondering what those three were doing all sneakily recently. Seems like they were practicing that...
 Kohane: Oh... I won! I became president! Thank you, everyone!
-(Black cut)
+(Black transition)
 Rin (VBS): *Sigh* I'm beat! We got so into it!
 Akito: I can't believe you guys teamed up to stir things up...
 An: You won quite a bit, and it looked like you were having fun! I, on the other hand...
@@ -175,8 +171,8 @@ Akito: Nah, it's nothing.
 Akito: Anyway, are we playing or not? Let's keep the fun going.
 Len (VBS): Hehe, that's more like it!
 Akito: I'm winning the next game too!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000251/bg_s000251.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000251/bg_s000251.webp)
 Airi: Happy birthday, Akito! You've always had it together, so I guess there isn't any need to worry...but make sure not to overdo it!
 Ena: Happy birthday. That should be enough, right?
 Mizuki: Oh, c'mon! You even prepared a gift and everything. Can't you put a little more heart into it?
@@ -191,11 +187,11 @@ Nene: Absolutely not! We are not doing it in our classroom! *Sigh* Sorry about t
 Kohane: Happy birthday, Shinonome. It was super fun eating cake and playing games with everyone! Let's do our best today too!
 An: I can't believe I kept losing... Next time, I'm definitely gonna win! Anyway, looking forward to more training with you!
 Toya: Happy birthday, Akito. Your singing has given me strength more times than I can count. Let's keep putting everything into our singing as partners and teammates.
-(White cut)
+(White transition)
 (Background change)
 Akito: Thanks for doing all this for me today.
 Akito: Right now, all of us are doing what we need to do to surpass RAD WEEKEND, and our daily practices are tougher than ever. To the point that I haven't been stopping to catch my breath.
 Akito: That's why I'm grateful for my friends, Ken, my family... And also you guys. It means a lot to have people supporting me.
 Akito: I'll be expressing my thanks through my singing, so... I hope you'll keep watching.
 Akito: Alright, see you later.
-(White cut)
+(White transition)

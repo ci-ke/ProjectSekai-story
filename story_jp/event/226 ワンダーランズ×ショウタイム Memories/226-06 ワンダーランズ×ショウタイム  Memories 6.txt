@@ -3,15 +3,15 @@
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, KAITO)
 
 : ワンダーステージで活動を始めた４人。 そんな矢先、フェニックスワンダーランドで ショーコンテストが開催されることになり——
-(Black cut)
+(Black transition)
 (Background change)
 えむ: えーっと、 『フェニックスワンダーランド内で、 もっとも優れたショーユニットを決めるコンテストで……』
 えむ: 『決められた期間の中で３回ショーを行う。ショーは１回ごとに 来場者に投票してもらい、総合得点を競い合う』……だって
-(Black cut)
+(Black transition)
 (Background change)
 : ショーコンテストへの参加を決めた４人。 優勝を目指して練習に励んでいる最中、 練習中に司が怪我をしそうになる
 : そこから、大胆な演出が持ち味のはずの 類の様子がおかしくなり——
-(Black cut)
+(Black transition)
 (Background change)
 司: やはり前のように奈落から死者が出てきたほうが、 観客も一緒に恐怖を味わえるんじゃないか？
 司: いっそ10体のゾンビロボットがオレを引きずりこむのはどうだ！ そっちのほうが派手で目立つだろう！
@@ -28,15 +28,15 @@
 類: そうかな。僕はいつも通りのつもりなんだけど。 どこがいつもの僕と違うんだい？
 えむ: どこがって言われると わからないんだけど～
 司: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
 司: ——おい、類
 司: お前、本当にそれが一番やりたい演出なのか？
 類: ——え？
-(Black cut)
+(Black transition)
 (Background change)
 : 最高のステージのためには、演出で手加減をされたくない司。 しかし類にはその自覚がなく、ふたりはぶつかり合ってしまう
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: そうか……そんなことがあったんだね
 類: ああ。 どうすればいいのか、見当もつかないんだ
@@ -44,10 +44,8 @@ KAITO: そうか……そんなことがあったんだね
 KAITO: 手加減……か。 今まではしたことがなかったのかい？
 類: うん、まったくね
 類: むしろ、手加減ができないあまり、 遠巻きにされているくらいだったよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い類 (類): ——それで、最後に塀の上からみんなでジャンプするんだ。 ねえ、みんなでやってみない？
 友人A: 楽しそうだけど……そんなのやったら危ないよ
@@ -56,39 +54,33 @@ KAITO: 手加減……か。 今まではしたことがなかったのかい？
 友人A: 他の子とやればいいじゃん。 僕はやらなーい
 友人B: 僕も。危ないことしちゃダメなんだよ。 お母さんに怒られちゃうし
 幼い類 (類): あ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: そうだったんだね……
 類: 僕のアイディアを見て、『できたら面白いだろう』と言ってくれる 人も少しはいたんだ
 類: でも、そういう人達すら、僕が新しいアイディアを持っていくと 段々煙たがるようになっていってね
 類: そんなことを繰り返すうちに……、 気づいたらひとりになっていたんだ
-(Black cut)
+(Black transition)
 KAITO: ——ああ、そうか
 KAITO: 類くんは、今の居場所が気に入っているんじゃないかな
 類: え？
 KAITO: 司くん達とやるショーが、 自分のやりたいことが思い切りできるショーだって、 そう思っていないかい？
 類: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: だがオレは、最高のショーを作るための努力は惜しまん！ 世界一のスターになる男だからな！
 司: 観客の笑顔のためならば、 危険が伴うステージでも、見事こなしてみせるともッ！
-(White cut)
+(White transition)
 (Background change)
 司: 面白いショーのためなら、オレはどんな演出も受け入れてやる！
-(White cut)
+(White transition)
 (Background change)
 司: うわーっ！！
 類: ……！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: …………
 KAITO: 思い当たる節があったって顔だね
@@ -98,10 +90,10 @@ KAITO: 思い当たる節があったって顔だね
 類: 驚いたな。 自分がこんな風に感じているなんて、思いもしなかった
 類: ……フフ
 類: 居場所を失うことを恐れて、 本気で応えてくれる役者に向き合えなくなるなんて、 ――演出家失格だね
-(Black cut)
+(Black transition)
 (Background change)
 : 無意識に抱えていた恐怖に気づいた類は、 それを乗り越え、心から仲間を信頼することを決意する
-(Black cut)
+(Black transition)
 (Background change)
 類: お疲れさま、司くん。 新しい演出はどうだったかな？
 司: まったく……本当に死ぬかと思ったぞ。 だが……
@@ -109,10 +101,10 @@ KAITO: 思い当たる節があったって顔だね
 司: いいか、類！ これからもお前は、お前のやりたい演出を全力でやれ！
 司: どんな演出だろうが、オレはそれを完璧に演じてみせる！
 類: それはよかった。ちょうど追加したい演出があったんだ
-(Black cut)
+(Black transition)
 (Background change)
 : そして寧々は、他のステージの歌姫の実力を目の当たりにして、 これまでの自分を振り返ることになり——
-(Black cut)
+(Black transition)
 (Background change)
 櫻子: それに……聞けば今度は、私達と同じように クリスマスミュージカルをやるんですって？
 櫻子: 歌はそこにいる――草薙さん、だったかしら？ その子もそれなりに歌えるようだけど……
@@ -136,7 +128,7 @@ KAITO: 思い当たる節があったって顔だね
 寧々: そ、そいつがバカなのはしょうがないけど、 『ままごとみたいなショー』なんて言われる筋合いない……
 寧々: ……アンタみたいなヤツには、ぜ、絶対、負けない
 櫻子: ……ふん。 それだけ言うなら、次のショーで見せてもらおうじゃない
-(Black cut)
+(Black transition)
 (Background change)
 寧々: あ、また再生ボタン押しちゃってた……。 止めないと
 幼い寧々の声 (寧々): 『だいじょうぶよ、自分を信じて！』
@@ -152,25 +144,25 @@ KAITO: 思い当たる節があったって顔だね
 寧々: （そんな歌は、どんなにうまく歌えても、 きっと聴いてて楽しくない）
 寧々: なら……もっと精一杯楽しもう
 寧々: このショーを、わたしが一番楽しもう！
-(Black cut)
+(Black transition)
 (Background change)
 少女 (寧々): 『♪～～～～』
 櫻子: ……っ！！
 寧々: （……不思議。歌が自然と出てくる）
 寧々: （感じた気持ちが全部歌になって、 どんどんあふれていくみたい）
 寧々: （歌うのって――こんなに楽しかったんだ）
-(Black cut)
+(Black transition)
 えむ: よーし！　雪を降らせちゃうぞ～☆ ……あれ？
 類: これは……！
-(Black cut)
+(Black transition)
 寧々: （あれ？）
 寧々: （これって……もしかして、本物の雪？）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000039/bg_a000039.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000039/bg_a000039.webp)
 観客: わぁ……！　あの子が歌ったら、雪が降ってきた……！
 寧々: （キレイ……）
 寧々: （まるで本当に、空からプレゼントが届いたみたい……）
-(Black cut)
+(Black transition)
 (Background change)
 櫻子: ちょっと、草薙さん！
 寧々: えっ。 あ、フェニックスステージの……
@@ -181,7 +173,7 @@ KAITO: 思い当たる節があったって顔だね
 櫻子: 泣いてないわよ！！
 櫻子: とにかく、私達のライバルとしては認めてあげないこともないわ！ 次もいいショーを作ることねっ！
 寧々: ……ふふ。 思ったより嫌なヤツじゃないかもね。青龍院
-(Black cut)
+(Black transition)
 (Background change)
 : ショーコンテストで、優勝を狙える位置についた ワンダーランズ×ショウタイム。 しかしその裏側では、思いもよらぬ事態が進行していた——
-(Black cut)
+(Black transition)

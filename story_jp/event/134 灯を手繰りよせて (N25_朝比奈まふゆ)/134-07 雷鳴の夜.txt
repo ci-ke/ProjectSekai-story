@@ -2,10 +2,8 @@
 
 (Character: 朝比奈まふゆ, 鏡音リン)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -32,8 +30,8 @@
 幼いまふゆ (まふゆ): っ……！
 幼いまふゆ (まふゆ): う、うええ……
 まふゆの父: まふゆ……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000324/bg_s000324.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000324/bg_s000324.webp)
 まふゆの父: ……もしかして、眠れなかったのか？
 幼いまふゆ (まふゆ): ……っ、ごめんなさい……
 幼いまふゆ (まふゆ): かみなりの音、おっきくて、こわくて……
@@ -46,15 +44,13 @@
 まふゆの父: ああ、大丈夫だ
 まふゆの父: ——ほら、お父さんが手を握っているから 雷も怖くないだろう？
 幼いまふゆ (まふゆ): ……うん……
-(White cut)
+(White transition)
 (Background change)
 幼いまふゆ (まふゆ): ……あ……
 幼いまふゆ (まふゆ): （おとうさんの手、あったかくて…… ぎゅってされると安心する）
 幼いまふゆ (まふゆ): （……おとうさんが、いてくれるなら……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 私にとって、お父さんは……
 まふゆ: ……わからない、けど……
@@ -69,14 +65,10 @@
 リン (N25): 『お父さんには今も、その時と同じ優しさがあるんだと思う』
 リン (N25): 『それを信じて、話してみてもいいんじゃないかな』
 まふゆ: あの時と、同じ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆの父のメッセージ: 『すごい雷だったが、大丈夫か？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: …………
-(Black cut)
+(Black transition)

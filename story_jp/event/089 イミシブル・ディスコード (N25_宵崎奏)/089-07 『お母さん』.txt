@@ -25,7 +25,7 @@
 まふゆの母: あら、そうだったの……
 まふゆの母: それじゃあ、今日はいろいろな話ができそうね。 ゆっくり座って話せる場所へ行きましょうか
 奏: は、はい……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ホテル内のカフェ]
@@ -72,35 +72,27 @@
 奏: 医者……？
 奏: （それが……まふゆの夢……？ そう、だったんだ……でも……）
 奏: （なんだろう……この、違和感……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『わからないの。毎日生きてるはずなのに 楽しいことも嬉しいことも感じられない』
 まふゆ: 『全部、他人事みたい』
 まふゆ: 『でも何かが決定的に足りてないことだけわかって……』
 まふゆ: 『こんなの、言葉になんてできない』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……まふゆは最初、自分がどうしたいのかさえ わからないって言ってた）
 奏: （わからなくて……消えたいと思ってた）
 奏: （もしも、まふゆの夢が医者で、 本当にそれが一番やりたいことだとしたら——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 私は『嫌』って言ったの……！ 音楽をやりたいっていうことも、伝えたの！
 まふゆ: でも……！　それでも、聞いてもらえなかった……
 まふゆ: これ以上、どうすればいいって言うの……！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あんな風には、言わないんじゃないかな）
 奏: （……この人にとって、 まふゆを想う気持ちは本当かもしれない……けど）
@@ -141,15 +133,11 @@
 奏: （……やっぱり、違う……！）
 奏: （まふゆのお母さんが、まふゆのことを—— まふゆの夢のことをすごく考えてるのは、わかる）
 奏: （でも……そうじゃない。違うんだ。何かが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （わたしが知ってる、あたたかさとは、何か——）
-(Black cut)
+(Black transition)

@@ -37,15 +37,11 @@
 司: 咲希がボロボロの人形を見て、 悲しんでいた記憶しかないんだ
 司: オレに心配かけまいと、悲しいのに無理に笑って……
 咲希: え？　無理に笑う……？　アタシが？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: あ……！ そっか！　そうだったんだね！
 司: んん？
@@ -84,7 +80,7 @@
 穂波: でも……あの様子なら、 もう咲希ちゃんと司さん、仲直りできたみたいだね
 一歌: お疲れさま、穂波。 いつもありがとう
 穂波: ふふ。咲希ちゃんに笑顔が戻ってよかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -104,14 +100,14 @@
 咲希: だったら、新しいひな人形も一緒に飾って パーティーしたいなって♪
 司: ……ああ、そうだな。 今日はふたつのひな飾りでお祝いしよう！
 咲希: うんっ！
-(Black cut)
+(Black transition)
 志歩: せっかくだし、ひな人形と一緒に写真撮ったら？
 穂波: それじゃあ、最初は咲希ちゃんとだね。 咲希ちゃん、笑って～
 司: 素晴らしい笑顔だぞ、咲希！！
 咲希: あははっ。もう、やりにくいよ～！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000057/bg_a000057.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000057/bg_a000057.webp)
+(White transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -125,12 +121,12 @@ MEIKO: そうそう！　私達も、めいっぱい楽しみましょ☆
 KAITO: さて、みんな 自分のグラスは持ったかい？
 レン: うん！
 リン: バッチリ持ってるよ♪
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000056/bg_a000056.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000056/bg_a000056.webp)
 ミク (WxS): それじゃあ、ようこそルカー♪ お祝いのひな祭りパーティー、はっじまるよ～♪
 えむ: カンパーイ☆
 寧々・類: 『乾杯！』
-(White cut)
+(White transition)
 (Background change)
 ルカ: うふふっ♪　カンパ～イ♪
-(White cut)
+(White transition)

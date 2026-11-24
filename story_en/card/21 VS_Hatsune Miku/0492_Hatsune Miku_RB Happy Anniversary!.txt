@@ -13,7 +13,7 @@ Ichika: Hmm... Which classroom is Miku in?
 Ichika: Oh, that sounds like a guitar...
 Ichika: (The others should be preparing for her anniversary party, so it must be her.)
 Ichika: This one...?
-(Black cut)
+(Black transition)
 (Background change)
 Miku (Ln): Hm? What's wrong, Ichika...? Is everything ready over there?
 Ichika: No, not quite. Saki and Len have been obsessing a bit over how things should be decorated, so it might take a little while.
@@ -74,7 +74,7 @@ Miku: And I want it to be fun regardless of whether you're there in person or wa
 Miku: I promise to practice very hard to sing lots of great songs for you, so stay tuned♪
 Miku: I hope we meet again during the show!
 MEIKO: Thank you all for watching! I'll see you again on the day of her anniversary!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (Ln): Thank you for showing me this, Ichika.
 Miku (Ln): This other version of me seems so different. I had no idea this is what she's like.
@@ -116,7 +116,7 @@ Miku (Ln): It is? I've been looking forward to seeing how Saki and Len decorated
 Len: Yeah, you won't believe what we did.
 Saki: So, Miku, Ichi, let's head back over!
 Ichika & Miku: Okay.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -148,7 +148,7 @@ Miku: Hello, everyone! It's me, Hatsune Miku!
 Miku: Thank you all for joining us for my anniversary show! And a special thanks to all those watching the stream!
 Miku: I'd like to sing lots and lots of songs for you today to show just how much I appreciate all of you!
 Miku: Starting with this one...!
-(Black cut)
+(Black transition)
 Rin: That was a nice first song, Miku! You sound great right out of the gates!
 Miku: Hehe. I may've gotten a bit ahead of myself after seeing how many people I'd be singing in front of♪
 Miku: However, I'm going to hold onto this feeling and keep showing my appreciation for all of you!
@@ -165,23 +165,23 @@ Miku: Thank you all so much...!
 Miku: First, Luka! If you'll join me!
 Luka: Yes, of course.
 Miku: Thank you! Alright, start the music♪
-(Black cut)
+(Black transition)
 Miku: ————♪ ————♪
 Luka: ————♪ ————♪
 Miku & Luka: ——~~♪ ——~~♪
 Miku: We're just getting started! Everyone, together!
-(Black cut)
+(Black transition)
 Miku & Rin: ————♪ ————♪
-(Black cut)
+(Black transition)
 Miku & Len: ————! ————!
-(Black cut)
+(Black transition)
 Miku & MEIKO: ♪~~~ ♪~~~
-(Black cut)
+(Black transition)
 KAITO: That just leaves me. Ready, Miku?
 Miku: Ready!
 Miku: ————♪ ——~♪ ——————~~♪
 Miku & KAITO: ————! ————!
-(Black cut)
+(Black transition)
 Miku: Your energy felt so incredible, everyone! I had a lot of fun singing!
 Miku: I take it you're also having fun?
 Miku: Hehe. That's great to hear!
@@ -191,8 +191,8 @@ Miku: Huh? Something you need to do?
 MEIKO: Yes. Just as you wanted to show your appreciation for us, Miku...
 KAITO: There's something we'd all like to tell you. Would you mind listening for a minute?
 Miku: ...!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000109/bg_s000109.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000109/bg_s000109.webp)
 Rin: Happy anniversary, Miku! And thank you for always being such a great friend♪
 Rin: I really love singing, playing and talking with you! So I hope we get to be friends forever!
 Len: Happy anniversary, Miku! Thank you for always being there to help Rin and I make up whenever we fight. We really appreciate what you do for us.
@@ -213,7 +213,7 @@ KAITO: So... Um...
 Rin: KAITO...? Hold on. Are you crying?
 KAITO: N-No, I'm not! I just... I can't help but...
 KAITO: A-Anyway! Happy anniversary, Miku.
-(White cut)
+(White transition)
 (Background change)
 Miku: You guys...
 Miku: That's not fair...
@@ -229,4 +229,4 @@ Miku: I hope we all get to spend more and more time together moving forward, and
 Everyone: Yeah! Yes. Of course!
 Miku: Thank you all for joining us here today, and thanks to all those watching the stream!
 Miku: Now, this is it! The final song! Let's all have fun until the end!
-(White cut)
+(White transition)

@@ -10,15 +10,11 @@ Gacha phrase: 喜んでくれて、本当によかったな
 [ビビッドストリート]
 
 冬弥: （司先輩、咲希さんとのパーティーももう今週か）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （神代先輩も美味しいと言ってくれた。 あとは、本番用のカップケーキを準備するだけだな）
 冬弥: （今日は早めに練習も終わったし、 足りなくなりそうな材料を買い足しに行くとするか）
@@ -26,10 +22,8 @@ Gacha phrase: 喜んでくれて、本当によかったな
 店主: おう！　いつでも待ってるよ
 冬弥: あの喫茶店……
 冬弥: （たしか、たまに彰人も食べに行っている喫茶店だな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: お、あそこの喫茶店、 またパンケーキの新メニュー出したのか
 冬弥: 『当店自慢の不ぞろいパンケーキの新作』……？
@@ -55,34 +49,28 @@ Gacha phrase: 喜んでくれて、本当によかったな
 彰人: ま、とにかく。あの店の不ぞろいパンケーキは 目の前の客のために、作ってくれてる感じがあっていいぞ
 彰人: せっかくだし、今日の練習が終わったら 食いに行くか？　甘くないやつもあるし
 冬弥: そうだな。小豆沢達も誘って、ぜひ行こう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （不ぞろいでも、心がこもった料理、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 君が幼い頃、司くん達にしてもらったことで 一番嬉しかったことはなんだい？
-(White cut)
+(White transition)
 (Background change)
 幼い司 (司): よーし！　じゃあオレのショーで、冬弥を笑顔にするぞ！
-(White cut)
+(White transition)
 幼い咲希 (咲希): お兄ちゃんのショーすっごく楽しいんだよ！ 見たら、とーやくんもきっとニコニコしちゃうから！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （あの時も、そしてそれからも、 何度も笑顔にしてもらったな……）
 冬弥: （そんなふたりを、今度は俺が——）
 冬弥: ミクやカイトさん、それに神代先輩—— 協力してくれた人達のためにも、頑張りたい
 冬弥: ——よし
 冬弥: 材料を買って、帰ったらレシピを読んで もう一度手順を復習しよう。それから——
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -116,31 +104,23 @@ Gacha phrase: 喜んでくれて、本当によかったな
 司: きっと、冬弥の力になりたかったんだろう。 気にすることはないぞ
 司: だいたい、オレは毎日のように迷惑をかけられてるしな。 たまには迷惑をかけられる側になるというのもいいだろ
 咲希: もう、お兄ちゃんってば……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 君が幼い頃、司くん達にしてもらったことで 一番嬉しかったことはなんだい？
 類: ——自分を笑顔にしようと 彼らが行動してくれたこと、なんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （神代先輩には、大切なことに気づかせてもらった）
 冬弥: （改めてお礼と、司先輩達に無事喜んでもらえたことを お伝えしに行かなければな）
 咲希: ねえねえ、とーやくん。 カップケーキ作りもるいさんに協力してもらったの？
 冬弥: いえ、調理のほうは別のお世話になっている人達が 協力してくれました
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 挑戦し始めた時は、あまりの出来の悪さに、 なんとかカップケーキに見える物を 作れるようになるかどうか、というところでしたが……
 冬弥: その人達が協力してくれたおかげで、 いろいろな味のカップケーキにも挑戦できました
@@ -149,7 +129,7 @@ Gacha phrase: 喜んでくれて、本当によかったな
 冬弥: …………！
 咲希: うんうん！　こんなに楽しそうに話してくれてるし、 きっとすっごくいい人達なんだろうなあ
 冬弥: ——はい。 とても、素晴らしい人達です
-(Black cut)
+(Black transition)
 冬弥: これで、片づけもおしまいですね
 司: ああ。スッキリしてしまって少々寂しいが、楽しかったな！
 咲希: またやろうよ！ あ、今度はお父さん達もみーんな一緒とか、どうかな！？
@@ -157,4 +137,4 @@ Gacha phrase: 喜んでくれて、本当によかったな
 司: では、日頃の感謝の気持ちを込めて、 オレ達で料理を作ってもてなすというのはどうだ？
 司: そうだ！　今度は３人で調理するのも楽しそうだな！
 冬弥: それはいいですね……！ 機会があれば、是非やりたいです
-(Black cut)
+(Black transition)

@@ -34,15 +34,11 @@
 杏: 私から見たら十分うまいのに……。 絵名さんって、ストイックっていうか努力家ですよね
 杏: そういうとこ、彰人も似てるかも
 志歩: え？　彰人って……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: もしかして、東雲くんのこと？
 杏: そうそう！　あれ、言ってなかったっけ。 絵名さんって彰人のお姉さんなんだよ
@@ -68,7 +64,7 @@
 志歩: （……私も、もっと頑張らないとな）
 杏: ……そうだよね
 杏: やるしか、ないよね
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -81,4 +77,4 @@
 絵名: じゃあ、私はここで。 ふたりとも気をつけて帰ってね
 志歩: はい、ありがとうございます。 それじゃ行こう、白石さん
 杏: うん！
-(Black cut)
+(Black transition)

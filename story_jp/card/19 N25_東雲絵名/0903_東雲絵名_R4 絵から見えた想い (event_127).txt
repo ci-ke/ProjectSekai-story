@@ -10,48 +10,34 @@ Gacha phrase: ……どんな気持ちだったんだろう
 [住宅街]
 
 絵名: …………はあ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雪平: 東雲さん、ひとつ提案があります
 雪平: 来週末——課外授業をしましょう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （課外授業、か……）
 絵名: （雪平先生がそんな提案するなんて、 びっくりしたけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （あいつの……父親の個展の手伝いなんて……）
 絵名: ……なんで、よりにもよって、あいつの個展なんだろ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 個展の手伝い、か……
 絵名: （そういえば、昔はよくやってたっけ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -84,10 +70,8 @@ Gacha phrase: ……どんな気持ちだったんだろう
 中学生の絵名 (絵名): ……はい！　頑張ります！
 中学生の絵名 (絵名): （そうだよね。お父さんだってこうやって成功してるんだから）
 中学生の絵名 (絵名): （私もいつかこんな風に、 画家として活躍できるようになるよね）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （…………そんなこともあったっけ）
 絵名: ていうか……個展の手伝いに行くなら、 あいつにそのこと言わないといけないのかな
@@ -97,7 +81,7 @@ Gacha phrase: ……どんな気持ちだったんだろう
 絵名: ……課外授業、本当に意味あるのかな
 絵名: （先生が何を考えてるのか、いまいちよくわかんないけど……）
 絵名: とりあえず……やるだけやってみようかな
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -109,47 +93,35 @@ Gacha phrase: ……どんな気持ちだったんだろう
 絵名: ——ふう
 絵名: ……なんか、どっと疲れたな。 あんな重い絵、何枚も運んだの久しぶりだし
 絵名: それに……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……知らなかったな。 あいつが画家として苦労してたなんて）
 絵名: （そんな話、今まで聞いたことなかったし……。 でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 父親: その時……ようやく気づいたんだ
 父親: 俺は——逃げることができない
 父親: 絵のない人生を、歩むことができないのだと
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 絵のない人生を歩くことはできない……か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 絵名: ……描かなきゃ。描いて、描いて、描いたら、私だって……
-(White cut)
+(White transition)
 絵名: ……だって私は……持ってない……
 絵名: あんた達みたいな才能なんて……持ってないから……
-(White cut)
+(White transition)
 (Background change)
 絵名: 描いてみるよ。 ……うまく描けるか、わかんないけどね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……そうだよね
 絵名: （たとえどんなに苦しくても、 誰にも理解されなくても——）
@@ -161,7 +133,7 @@ Gacha phrase: ……どんな気持ちだったんだろう
 絵名: じゃあ、デッサン１枚描いてから、ニーゴの作業に入ろうかな。 25時まで時間あるし、先にログインしちゃって——
 絵名: メッセージ？　誰から……
 絵名: 瑞希……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -210,4 +182,4 @@ Gacha phrase: ……どんな気持ちだったんだろう
 瑞希: ん〜？
 絵名: ありがとね。ケーキとか……いろいろ
 瑞希: ……えへへ、どういたしまして！
-(Black cut)
+(Black transition)

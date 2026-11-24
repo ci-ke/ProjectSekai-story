@@ -8,15 +8,11 @@
 
 一歌: （……はぁ。緊張して早起きしちゃった）
 一歌: （なんだかソワソワして、こっちに来ちゃったけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……ふたりとも、ライブに来てくれるといいな）
 ？？？: ——一歌？ こんな早くにどうしたの？
@@ -37,7 +33,7 @@
 一歌: （……優しい声で、胸の奥まであたたかくなって……）
 一歌: ……♪————
 一歌・ミク: 『♪————』
-(Black cut)
+(Black transition)
 一歌: ……やっぱりすごいな、ミクは。 一緒に歌ったら、それだけで肩の力が抜けちゃったよ
 ミク (Ln): それは私の力じゃなくて、 一歌達が作った曲の力じゃない？
 一歌: そう、なのかな……？
@@ -55,7 +51,7 @@
 一歌: ……あ、そろそろ行かなくちゃ。 ごめんねミク、また来るよ
 ミク (Ln): うん。 いってらっしゃい、一歌
 ミク (Ln): 応援してるよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス前]
@@ -68,7 +64,7 @@
 花乃: ……うん。 ふたりで見られるのは、最後だけど……
 花乃: 思いっきり楽しもうね……！
 葉太: …………ああ
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -78,9 +74,9 @@
 一歌: ……見つかった？
 咲希: ん～。 暗くて見えづらいな～
 穂波: あ、いたよ！ あそこの、すみっこのほう！
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 志歩: ……ふたりで来てくれたのはよかったけど……。 やっぱり、悲しそうだね
 咲希: これが一緒に見られる、 最後のライブかもしれないんだもんね……
@@ -97,7 +93,7 @@
 一歌: 聴きに来てくれた人達のために、 花乃ちゃんとお兄さんのために——
 一歌: 全力で、頑張ろう！
 咲希・志歩・穂波: 『おー！』
-(Black cut)
+(Black transition)
 (Background change)
 花乃: あ……。 お兄ちゃん、次Leo/needだよ！
 葉太: …………
@@ -107,22 +103,18 @@
 一歌: 全力でやるので——最後まで聴いてください！！
 一歌: ♪————っ！！
 花乃: （あっ、この曲———）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 花乃: （お兄ちゃんと、ここで最初に聴いた曲だ……）
 花乃: （……この曲を最初に聴いた時は、すごくびっくりしたな。 まるで私達を応援してくれてるみたいで……）
 葉太: （あの時は、父さんと母さんの離婚が決まって、 ずっと落ちこんでた花乃が、目を輝かせて——）
 葉太: （……気づいたら俺も花乃も、笑っていたんだったな）
 花乃・葉太: 『…………』
-(Black cut)
+(Black transition)
 一歌: ——ありがとうございました！
 一歌: 次は、新曲です。 ここで初めて弾かせてもらおうと思います
 一歌: ただ——
@@ -139,17 +131,13 @@
 一歌: ♪————
 花乃: あ……
 葉太: ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 花乃: ……なんで？
 葉太: なんでこんなに……思い出すんだ……
@@ -163,7 +151,7 @@
 一歌: （ふたりは、お互いを大事に想ってるからこそ 一緒にいられないかもしれないけど、だけど——）
 一歌: （そんなふたりが、離れていても 幸せな思い出を抱いて、前へ進めるように……！）
 一歌: ♪————！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: バックステージ)
 一歌: ……はぁ、はぁ、はぁ……
@@ -173,4 +161,4 @@
 一歌: ……ありがとう。 みんなのおかげで、思いっきりできたよ
 一歌: あとは——
 一歌: あのふたりに……届いてたらいいな
-(Black cut)
+(Black transition)

@@ -32,7 +32,7 @@ Ena: (Is it okay for me to even apply when I'm feeling like this...?)
 Mother: Is something wrong, Ena?
 Ena: Oh... Nothing's wrong. I'm gonna go get changed now.
 Father: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -43,21 +43,17 @@ Ena: (Okay, my drawing of this statue has nice some depth to it...)
 Ena: (But I seem to be making the same mistake again. It looks crooked just like last time...)
 Ena: (I see now. The length of each part is uneven which is why it feels imbalanced.)
 Ena: (I've been practicing what he's been telling me to do, but I can't figure out how to make them second nature...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Yukihira: As I do each year, I'll be holding a special course on technical mastery for those aiming to get into art school.
-(White cut)
+(White transition)
 (Background change)
 Ena: (That's the dream...)
-(White cut)
+(White transition)
 Ena: (But can someone like me really do this for a living?)
 Ena: (Is it okay for me to even apply when I'm feeling like this...?)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: ...
 Ena: (I can't focus. My head's a complete mess...)
@@ -67,7 +63,7 @@ Yukihira: The outline of your statue looks lopsided, Shinonome. Are you having t
 Ena: Huh?! I-I'm sorry...!
 Ena: (No, focus... Stay focused and...)
 Yukihira: ...
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -92,4 +88,4 @@ Ena: ...
 Yukihira: I have a proposal for you.
 Yukihira: Next weekend, let's have a special lesson outside of class.
 Ena: What?
-(Black cut)
+(Black transition)

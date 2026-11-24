@@ -2,7 +2,7 @@
 
 (Character: 神代類, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(White cut)
+(White transition)
 (Background change)
 
 [翌日]
@@ -30,7 +30,7 @@
 瑞希: …………つらくて声も出ない、って感じがするな
 瑞希: 激しいのに静かで、突き刺さるみたいな感じだ……
 瑞希: これを動画にするなら、ボクは……うーん……
-(Black cut)
+(Black transition)
 (Background change)
 【えななん】 (絵名): 『——Amiaさん、ラフできました』
 (Background change)
@@ -50,7 +50,7 @@
 【えななん】 (絵名): 『ほ、本当ですか？　よかった……』
 瑞希: 『じゃあ早速、この絵のイメージで動画も考えていきますね。 えななんさんは、このまま詰めていってもらって大丈夫です』
 【えななん】 (絵名): 『はい！』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: うん。Aメロはここでワイプさせたらいい感じになりそうだな。 あとは……
 瑞希: ……ん？
@@ -63,10 +63,10 @@
 瑞希: （これは何か……違う気がする）
 瑞希: ……えななんさんに話して……。 でも、本格的に描き始めてるだろうしな……
 瑞希: （それに——）
-(White cut)
+(White transition)
 (Background change)
 ？？？: あいつ、おかしいよな
-(White cut)
+(White transition)
 (Background change)
 瑞希: （……今までだってずっと、そうだった）
 瑞希: （ボクの思ってることや、感じたことや、 したいことを言っても——）
@@ -99,15 +99,11 @@
 (Background change)
 瑞希: （……そんなに言うなら、 正直に言ったほうがいいのかな）
 瑞希: （……この曲を聴いて感じたことを、 わかってくれるかどうかはわからないけど）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……本当にたまに、 ボクの苦しさをわかってくれる人もいたから——）
 (Background change)
@@ -138,15 +134,11 @@
 瑞希: （傷つけられるたびに、どうしてボクがこんな目に 遭わなきゃならないんだって……心の中でずっと叫んでた）
 瑞希: （えななんさんも、きっと、 そういう苦しみを抱えてるんだな……）
 瑞希: 『……でも』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『痛くても叫べない時も、あると思うんです』
 【えななん】 (絵名): 『え？』
@@ -164,15 +156,15 @@
 瑞希: 『その、すみません。 今のは完全にボクの主観だから——』
 【えななん】 (絵名): 『……その感じも、ちょっとわかるかも』
 瑞希: 『え？』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000107/bg_s000107.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000107/bg_s000107.webp)
 【えななん】 (絵名): 『でもそれなら、この激しい曲調はどう解釈したの？ 私は、叫び声だって思ったんだけど』
 瑞希: 『あ、えっと……。 これは——心の中の嵐みたいだなって思ったんだ』
 瑞希: 『本当は言いたいこともあるし、それこそ叫び出したいのに、 誰もきっとわかってくれないって諦めちゃって』
 瑞希: 『でもそれでも消せない……。 そんな自分の中の想いなのかなって』
 【えななん】 (絵名): 『…………。 なるほど、そういう受け取りかたもあるんだ……』
 【えななん】 (絵名): 『たしかにそれもイメージつくな……。 でも、最初に描いたのとは全然変わるし……』
-(White cut)
+(White transition)
 (Background change)
 瑞希: （わかってくれるんだ……）
 瑞希: （……そういえばボクもさっき、 えななんさんの感じてることを、 ぴったりとじゃないけど理解できた）
@@ -201,7 +193,7 @@
 (Background change)
 (Background change)
 瑞希: 『そうだね、このままでいっか！』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『じゃあ——表現したいことは、これで大丈夫？』
 (Background change)
@@ -247,10 +239,10 @@
 瑞希: 『ありがとう。 それじゃ、ラフお願いね』
 (Background change)
 瑞希: （……Kの曲の苦しさと、優しさ。 ボク達がMVとして表現するなら——）
-(Black cut)
+(Black transition)
 瑞希の姉の声: ……あれ？　瑞希の部屋、ドアが開いてる
 瑞希の姉の声: 瑞希……
-(Black cut)
+(Black transition)
 
 [翌週]
 
@@ -283,4 +275,4 @@
 【K】 (奏): 『これからもわたし達と一緒に、作っていきませんか？』
 (Background change)
 瑞希・【えななん】: 『……え！？』
-(Black cut)
+(Black transition)

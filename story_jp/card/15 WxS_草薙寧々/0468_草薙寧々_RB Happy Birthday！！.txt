@@ -18,7 +18,7 @@ Gacha phrase: みんなとの時間を大切にしなきゃね
 寧々: （——うん。盛り上げどころも、 力まずに自然と勢いを出せてる）
 寧々: ————！　————！
 一歌・寧々: 『————！　————！』
-(Black cut)
+(Black transition)
 寧々: 星乃さん、お疲れさま
 一歌: うん、草薙さんも
 一歌: ちょっと久しぶりになっちゃったけど、 一緒に練習できてすごく楽しかった。 時間を作ってくれてありがとう
@@ -39,7 +39,7 @@ Gacha phrase: みんなとの時間を大切にしなきゃね
 一歌: ありがとう、草薙さん！ じゃあみのりとこはねは私から誘っておくね！
 寧々: うん……！
 寧々: （星乃さん達とご飯……。ふふ、楽しみだな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [寧々の誕生日　前日]
@@ -49,10 +49,9 @@ Gacha phrase: みんなとの時間を大切にしなきゃね
 寧々: うーん。服、どれにしよう……
 寧々: せっかくみんなでご飯行くんだし、 ちょっとよそ行きっぽい感じのほうがいいのかな？
 寧々: う……この前、休みの相談をした時に、 服のこともえむと話しておけばよかったな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
+(Flashback in)
 
 [２週間前]
 
@@ -66,16 +65,14 @@ Gacha phrase: みんなとの時間を大切にしなきゃね
 寧々: あ、ありがとう！
 えむ: わーい！　みんなとご飯だー！ えへへ。楽しみだね、寧々ちゃん！
 寧々: うん……！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 寧々: （ふふ。ちょうど公演と公演の合間で、 本当にいいタイミングだったな）
 寧々: ……って、早く服決めないと！
 寧々: これは……さすがに地味！ こっちのも……地味だなあ
 寧々: もう、なんで似たような雰囲気の服しかないわけ？ えっと、他には——
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -97,7 +94,7 @@ Gacha phrase: みんなとの時間を大切にしなきゃね
 寧々: ……調子に乗るから、本人にはあんまり言いたくないけど、 なんだかんだ助けてもらってる、かな
 一歌: ふふ、そっか。 じゃあ、咲希にはそう伝えておくね
 寧々: よろしく
-(Black cut)
+(Black transition)
 みのり: ——みんな、注文した物そろった？
 こはね: 大丈夫だよ
 えむ: パフェ、とっても大きいし、おいしそ～！
@@ -115,7 +112,7 @@ Gacha phrase: みんなとの時間を大切にしなきゃね
 寧々: あ……。 うん。ありがとう、みんな
 寧々: えっと……じゃ、いただきますもしよっか
 一歌: うん。そうだね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -134,7 +131,7 @@ MEIKO: ちょうど、パーティー会場の飾りつけが終わったとこ�
 リン: よかったー！
 リン: えへへ。じゃあ、お友達とのお祝いに負けないくらい、 今日も楽しんでもらわなくっちゃ！
 寧々: うん、楽しみにしてるね
-(Black cut)
+(Black transition)
 ミク (WxS): ——寧々ちゃん、お誕生日おめでとーう！
 司・えむ・類: 『おめでとう！』
 KAITO達: 『おめでとう！』
@@ -196,21 +193,17 @@ MEIKO: なんか見てるこっちまで つられて変な顔になっちゃい
 えむ・寧々: 『あははっ！』
 寧々: （もう、みんなバカみたいなことばっかりして）
 寧々: （でも——……楽しいな）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(Black cut)
+(Flashback in)
+(Black transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……わたし、やっぱりみんなといるのが好きなんだ）
 寧々: （あたり前、か。 お互いの夢を真剣に話せるほどの大事な仲間なんだもん）
@@ -220,8 +213,8 @@ MEIKO: はーい！　次は私達がかくし芸を披露するわよ♪
 えむ: おおー！　メイコお姉さんとルカお姉さんもやるんだ！ 寧々ちゃん、何やるんだろうね！
 寧々: ふふ。カイトさんがちょっとそわそわしてるから、 なんか豪快なことなんじゃない？
 寧々: （——みんなとすごすこの時間を、大切にしなきゃね）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000095/bg_s000095.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000095/bg_s000095.webp)
 一歌: 草薙さん、誕生日おめでとう！ 練習につきあってもらってるおかげで、 だいぶ上達してきてると思うんだけど、どうかな？
 一歌: よければ、これからも練習を見てもらえると嬉しいな。 えっと……また次も、よろしく
 みのり: 寧々ちゃん、お誕生日おめでとう！ カフェと自慢のパフェを気に入ってもらえてよかった！ えへへ、それと歌の練習もまたしようね！
@@ -232,10 +225,10 @@ MEIKO: はーい！　次は私達がかくし芸を披露するわよ♪
 えむ: うんうんっ♪　寧々ちゃんの歌、本当にきれいで、 ず～～～っと聴いていられるもんね！
 類: フフ、そうだね
 類: 寧々、お隣さんとして、仲間として、 ネネロボともども、これからもよろしく頼むよ
-(White cut)
+(White transition)
 (Background change)
 寧々: みんなにたくさんのお祝いしてもらっちゃったな
 寧々: なんか、ちょっと照れくさいよね。 高校生にもなって誕生日パーティーなんて
 寧々: でも、きっと昨日のお祝いも今日のみんなとのパーティーも ずっとずっと忘れないと思う
 寧々: 本当に、楽しかった……！
-(White cut)
+(White transition)

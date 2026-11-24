@@ -11,15 +11,11 @@
 咲希: （きっとSTANDOUTも、 そういうバンドだからプロになれたんだよね）
 咲希: （だからライブでも、お客さん達がすごく盛り上がってて——）
 咲希: （でも、アタシ達も……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （……あの時、みんなで一緒に 大きなステージに立って、初ライブしたんだよね）
 咲希: （なんだか、今思いだすと夢みたい。 急にライブやることになったから、 最初は不安でドキドキしっぱなしだったな）
@@ -29,7 +25,7 @@
 咲希: （だから、強い気持ちがあれば、 きっとうまくいくって思ってたけど……）
 咲希: （そう思って始めた作曲も……まだちゃんとできてない）
 咲希: こんなアタシが曲にこめたい想いって、なんなんだろ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　昼休み]
@@ -44,7 +40,7 @@
 志歩: それもあるけど……
 志歩: ……立ち話もなんだし。お昼一緒に食べない？ 屋上、あいてるみたいだから
 咲希: ……うん！ アタシもしほちゃんと食べたい！　いこいこ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　屋上]
@@ -86,21 +82,17 @@
 咲希: （本当に……アタシ、見つけられるのかな？）
 咲希: （プロを目指していくのに、このままだと みんなの足を引っ張っちゃうかもって不安で……）
 咲希: （そんなアタシが、何を——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 咲希ができることなんてたくさんあるでしょ。 いつも励ましてくれる咲希がいるから、 私達は前を向けてるんだし……
-(White cut)
+(White transition)
 (Background change)
 志歩: 特に、この３曲目は思い入れがあるんだよね
 咲希: そうなの？
 志歩: うん、いろいろ悩んでた時期があったんだけど。 その時に何回も聴いて、元気をもらったんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……あ……
 志歩: ……咲希？　どうし……
@@ -109,7 +101,7 @@
 咲希: ありがとう！　ありがとう、しほちゃん！ アタシ、自分の伝えたい想い、わかったよー！
 志歩: あっ……
 志歩: ……やっといつもの咲希に戻った
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -126,24 +118,24 @@
 咲希: アタシは自分のやりたいことに、いつもまっすぐで、 みんな、そんなアタシに助けてもらえてたって
 咲希: だから、伝えたい想いを一番最初に見つけるのは アタシだって言ってくれたの
 咲希: その時ね、アタシ思ったの
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000083/bg_a000083.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000083/bg_a000083.webp)
 咲希: アタシ——Leo/needのみんなのために、曲を作りたいって
 咲希: プロになるなら、お客さんの心に響くように作ることが 大事なのかもしれないけど、でも……
 咲希: プロを目指してく中で、みんなが不安になっちゃう時でも、 聴けばまたがんばろうって思えるような……。 そんな曲を、最初に作りたいの！
 リン: ……えへへっ♪
 リン: それ、すっごくいいよ！ 今のサッキーの想い、心にグッときちゃった！
-(White cut)
+(White transition)
 (Background change)
 咲希: リンちゃん……！
 リン: あたしもその曲早く聴きたいっ！ だからサッキーの曲作り、協力するよ！
 咲希: 本当に？　ありがとう、リンちゃん！
 咲希: それじゃ、さっそくシンセ出すね！
-(Black cut)
+(Black transition)
 咲希: ……あ！　ここはこんな曲にするといいんじゃない？ フンフフ～ン……♪
 リン: なるほど～！　あ、それならそのあと こんな感じのメロディーを入れると楽しいかもっ！
 咲希: あっ、そうか！　じゃあこっちは……
 ルカ: ……ふふ。 咲希、すっかり迷いが晴れたみたいでよかったわ
 ミク (Ln): うん。リンも咲希の手伝いができて、 すごく楽しそう
 MEIKO: よかった。 また一歩、先に進めたみたいだね
-(Black cut)
+(Black transition)

@@ -26,14 +26,14 @@ KAITO (WxS): Huh?
 MEIKO (WxS): We can't let the times pass us by. And I'm sure we'll be able to put on a wonderful show that everyone is going to love!
 KAITO (WxS): I see... Yes, I do like your idea.
 KAITO (WxS): Why don't we see what the others think?
-(Black cut)
+(Black transition)
 (Background change)
 Len (WxS): A show about exchanging cards?! That sounds like a great idea!
 Rin (WxS): Yeah, exchanging cards is always so exciting! It's bound to be a super fun show☆
 MEIKO (WxS): Thank you all very much! Then, let's start discussing what the actual story is going to be about.
 Miku (WxS): Alright, it's brainstorming time☆
 Everyone: Yeah!
-(Black cut)
+(Black transition)
 Miku (WxS): If we're going to use message cards, then the story probably needs to involve telling others how you feel, right?
 Luka (WxS): Then, what if we had the protagonist make one?
 MEIKO (WxS): Hmm... That's certainly the most logical choice, but I feel like we need a little bit more...
@@ -44,7 +44,7 @@ Rin (WxS): Oh, that's an amazing idea...!
 Len (WxS): Hey, wait a second... If it comes to life, then doesn't that mean it's gonna have its own feelings?
 KAITO (WxS): Yes, we'll need to think carefully about how that part will work.
 Miku (WxS): Then, what if we did this? It's drawn to the person's feelings, and from there...
-(Black cut)
+(Black transition)
 MEIKO (WxS): Alright, we're set in terms of where we're going to go with this story!
 KAITO (WxS): While writing her message, the girl's feelings manifest in the form of a fairy...
 KAITO (WxS): And this fairy embarks upon an adventure to deliver her message to its rightful recipient. That makes sense to me.
@@ -55,7 +55,7 @@ Tsukasa: Ah, what are you all doing gathered up like this?
 MEIKO (WxS): Tsukasa...! Your timing couldn't have been better! Do you happen to be free right now?
 Tsukasa: Yes, I have time. We just finished practice over at Morinomiya, so I decided to come over here to take a break.
 MEIKO (WxS): Thank you! The thing is, for our next show...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -70,7 +70,7 @@ Rin (WxS): I'm sure they will! I mean, we practiced a ton for this!
 KAITO (WxS): I agree. And with Tsukasa's help, the script turned out splendidly. All that's left is for us to give it everything we have.
 MEIKO (WxS): Right! Let's do our best to make our show an instant classic!
 Everyone: Yeah!
-(Black cut)
+(Black transition)
 ??? (MEIKO-WxS): “Hm...? Wait, where am I?”
 Girl (Miku-WxS): “Yes, it's done!”
 Girl (Miku-WxS): “Thank goodness I was able to finish it before they moved away.”
@@ -78,7 +78,7 @@ Girl (Miku-WxS): “I hope this helps them understand how I feel...”
 ??? (MEIKO-WxS): “That's strange... For some reason, I know that she's thinking, 'Even though you're moving far away, I hope we still get to be friends'...”
 Card Fairy (MEIKO-WxS): “Ah, I see... I must have been born from that overflowing emotion, written down in this card.”
 Card Fairy (MEIKO-WxS): “Don't worry. I promise to deliver your thoughts to your friend!”
-(Black cut)
+(Black transition)
 Girl (Miku-WxS): “Let's see... Their house is just down this street... Whoa... Oh no!”
 Girl (Miku-WxS): “The wind's taking away my card! Wait, come back!”
 Card Fairy (MEIKO-WxS): “Naughty wind! Let me down right this second!”
@@ -89,24 +89,24 @@ Card Fairy (MEIKO-WxS): “Th-Thank goodness...! You're a lifesaver...!”
 Boy (Len-WxS): “Wait, you can talk?!”
 Card Fairy (MEIKO-WxS): “I'm sorry if I startled you. I'm a card fairy, and I was born to deliver this message to its rightful recipient!”
 Card Fairy (MEIKO-WxS): “So, I know this is asking a lot of you, but would you be willing to do me a big favor?”
-(Black cut)
+(Black transition)
 Boy (Len-WxS): “Huff... Huff... Huff... This is where you said you got separated from that girl, but I'm not seeing anyone...”
 Card Fairy (MEIKO-WxS): “Where could she have gone? Maybe she went over to her friend's house...”
 Young Man (KAITO-WxS): “What's wrong, son? You look in quite the hurry.”
 Boy (Len-WxS): “Oh, I was just helping this fairy get to where she needs to go. But I'm so tired after running all the way here...”
 Young Man (KAITO-WxS): “I see. In that case, would you like me to give you a ride on my motorcycle?”
 Card Fairy (MEIKO-WxS): “You'd do that? Thank you very much...!”
-(Black cut)
+(Black transition)
 Young Lady (Luka-WxS): “I see... And you say the girl who wrote this card may pass by my house?”
 Card Fairy (MEIKO-WxS): “Yes, so if you could please let us wait here...!”
 Young Lady (Luka-WxS): “Of course, dear. I'm sure you're tired, so please feel free to take a rest.”
 Young Lady (Luka-WxS): “Oh, also... Would you mind lending me your card while you wait?”
-(Black cut)
+(Black transition)
 Young Lady (Luka-WxS): “Okay, there we are. The edges looked a little crinkled, so I fixed them using masking tape.”
 Card Fairy (MEIKO-WxS): “Thank you very much! This floral pattern is so lovely. I'm sure that girl's going to love what you did.”
 Card Fairy (MEIKO-WxS): “Oh, someone's walking this way. Could it be...?”
 Card Fairy (MEIKO-WxS): “Yes, it's her! Over here!”
-(Black cut)
+(Black transition)
 Girl (Miku-WxS): “Thank goodness I was able to find my card...!”
 Girl (Miku-WxS): “And I was so surprised when I found out that my feelings produced a fairy.”
 Card Fairy (MEIKO-WxS): “A lot happened after I got blown away... But I'm glad to be back in your hands now!”
@@ -124,7 +124,7 @@ Girl (Miku-WxS): “Huh...?”
 Young Lady (Luka-WxS): “You might still be able to catch them if you cut through my backyard.”
 Girl (Miku-WxS): “...!”
 Girl (Miku-WxS): “Thank you both so much! I want to see this through to the end!”
-(Black cut)
+(Black transition)
 Girl (Miku-WxS): “Huff... Huff... Huff... Here we are! I really hope we made it in time...”
 Girl (Miku-WxS): “No, the car...!”
 Card Fairy (MEIKO-WxS): “What?! But we were so close...!”
@@ -139,7 +139,7 @@ Card Fairy (MEIKO-WxS): “Haha! That's incredible! It's sure to get delivered n
 Wind Fairy A (Rin-WxS): “Hehe. We can move faster than a car if we really put our minds to it! So, let's fly!”
 Card Fairy (MEIKO-WxS): “Leave the rest to me! I promise to deliver your message to your friend!”
 Girl (Miku-WxS): “Thank you! Good luck, everyone...!”
-(Black cut)
+(Black transition)
 
 [After the show]
 
@@ -153,4 +153,4 @@ Tsukasa: Thank you for allowing me to help with the script. You made it such an 
 Miku (WxS): Woohoo! We really did it♪
 MEIKO (WxS): Yes, and I'm so glad!
 MEIKO (WxS): There really is nothing more fun than doing shows together like this!
-(Black cut)
+(Black transition)

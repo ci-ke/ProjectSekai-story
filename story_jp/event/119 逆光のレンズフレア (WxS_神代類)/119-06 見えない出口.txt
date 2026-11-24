@@ -46,7 +46,7 @@
 類: ——すまない。 僕もちょっと行ってくるよ
 寧々: えっ……
 えむ: る、類く～ん！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -101,13 +101,13 @@
 ？？？: ま、そうだろうね。 ともみちゃんが、このまま出すと思えないし
 類: …………
 大原監督: 下の名前で呼ぶなって何度も言ってんだろ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000274/bg_s000274.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000274/bg_s000274.webp)
 大原監督: ……で？ そう言うお前ならどう直す
 ？？？: んー、そうだねえ。 俺だったら……
 ？？？: もっと獏野歴にあわせて作るかな
 類: （獏野さんに……あわせて作る？）
-(White cut)
+(White transition)
 (Background change)
 大原監督: はあ？　この作品はそもそも獏野ありきだぞ。 そんなのは企画の時から——
 大原監督: ……いや、ちょっと待てよ。 もしかしたら、まだ——
@@ -119,15 +119,11 @@
 類: ……“獏野歴にあわせて作る”……
 類: （さっき監督が言っていたとおり、 この映画は主役に獏野さんを指名している、 獏野さんありきの作品だ）
 類: （だから、企画の段階から そういう風に作られているはずだけれど……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 類: （あの表情……。 何かに気づいていたような……）
 類: （僕達もまだ気づけていない、“何か”に——）
 (Background change)
-(Black cut)
+(Black transition)

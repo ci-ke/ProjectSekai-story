@@ -44,15 +44,11 @@ Akito: No, I sorta get it too. I used to eat a ton before I started going out fo
 Kohane: Wait, you run?
 An: That's news to me too. When did this happen?
 Akito: Pretty recently.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: I have to work harder than anyone else...
 Akito: That's why I decided that I'm gonna do everything I absolutely can.
@@ -78,7 +74,7 @@ Toya: Really? I'd like that a lot.
 Kohane: Yeah, me too!
 An: Alright, sounds good! Let's all go for a run next time!
 Akito: Sure.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,7 +109,7 @@ Toya: Alright, shall we start warming up?
 Rin: <Beginning with some stretches! One, two, three, four!>
 Akito: Whoa, that's way too fast!
 Kohane & An: Hehehe! Haha!
-(Black cut)
+(Black transition)
 Akito: Okay, let's start with a lap around the park...
 Akito: So, let's go.
 KAITO's Voice (KAITO): <Oh, you're going pretty fast! If only I could feel the wind as you ran.>
@@ -125,7 +121,7 @@ Toya: Yes, I'm running using the form you taught me. At least, I believe I am.
 An: Make sure to swing your arms too, Kohane.
 Kohane: Right...! One, two... One, two...!
 Rin's Voice (Rin): <That's it, Kohane! You're doing great!>
-(Black cut)
+(Black transition)
 An: And... We're finished!
 Kohane: Huff... Huff... W-We did it!
 Toya: Yes, we did. My arms and legs started getting heavy partway through, but I never really felt out of breath...
@@ -149,4 +145,4 @@ Akito: Did you ask her to do that for us?
 KAITO: <Hehe. I didn't have much else to do.>
 Akito: Thanks.
 Akito: Okay, we'll head over.
-(Black cut)
+(Black transition)

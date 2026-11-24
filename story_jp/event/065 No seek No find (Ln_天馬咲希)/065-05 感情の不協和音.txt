@@ -9,7 +9,7 @@
 咲希: 『今はみんながいるから大丈夫だよ』……
 咲希: 『今はつらいかもしれないけど、 未来に楽しいことが待ってるから大丈夫』…… うん、そうだ、こういう気持ち……！
 咲希: 昨日よりぜんぜん手応えある気がする！ よーし……！
-(Black cut)
+(Black transition)
 咲希: ……あれ？
 咲希: どうしてだろう。やっぱりイメージと違う……
 咲希: あの頃のアタシの『寂しい』って気持ちも、 今のアタシの『大丈夫だよ』っていう気持ちも ちゃんとこめてるつもりなのに……
@@ -18,7 +18,7 @@
 咲希: ……ダメだ。 諦めたら……絶対にできなくなっちゃう！
 咲希: 作らなきゃ。作るんだ。 みんなの胸に響かせられるような曲を……
 咲希: もう１回……！
-(Black cut)
+(Black transition)
 咲希: …………
 咲希: （……全然ダメ……）
 咲希: （何個も作ってみたけど……。 どれも、誰の胸にも響かないってわかる）
@@ -26,7 +26,7 @@
 咲希: （やっぱり、まだ上辺をなぞってるだけって 感じがするんだよね）
 咲希: （なんでだろ。 イメージはアタシの中にちゃんとあるのに……）
 咲希: ……どうすればいいのかな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -42,8 +42,8 @@ KAITO: ……そうだね
 KAITO: ん、待って。まだ食べ終わってない……
 咲希の声 (咲希): あ、ふたりとも——
 KAITO: ん？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000098/bg_s000098.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000098/bg_s000098.webp)
 レン: お、咲希来てたのか！
 KAITO: 全然気づかなかったよ
 咲希: あ、ごめん……ご飯中だった？
@@ -52,7 +52,7 @@ KAITO: ……大丈夫。 もう食べ終わるところだから
 咲希: そっか……
 レン: ……ん？ 咲希、なんか妙に疲れてないか？
 咲希: うん……。 その、いろいろあって……
-(Black cut)
+(Black transition)
 (Background change)
 レン: ……んー、なるほど
 レン: ちゃんとイメージはできてるのに、 いざ作ると曲がイマイチになる……か
@@ -64,15 +64,11 @@ KAITO: それは……なんでなんだろう。 難しいな
 咲希: だから昔のことを思いだしながら作ってるんだけど……
 KAITO: ……昔のこと？
 咲希: えっとね、アタシが——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: あ……
 レン: 話したくないことなら別にいいよ。 オレ達も、無理に聞きたいってわけじゃないからさ
@@ -82,7 +78,7 @@ KAITO: 入院してた時……
 レン: そこまで具体的なイメージがあるなら、 気持ちが乗ったいい曲になりそうな気がするけど……
 レン: ……なぁ、咲希が作った曲を聴かせてくれないか？ 何かヒントがあるかもしれないし
 咲希: あ、そうだね……！ それじゃあ、今から弾いてみるね
-(Black cut)
+(Black transition)
 咲希: ……ど、どうだった？
 レン: オレはこの曲でも、 咲希の言ってたことは表現できてると思うよ
 KAITO: ……うん、俺もそう思う
@@ -98,15 +94,11 @@ KAITO: ただ……なんていうのかな。 気持ちが乗りきってない
 咲希: うーん……何かあるかな……
 咲希: 検査で痛いのが嫌だった時の気持ちでしょ、 同い年くらいの女の子達が話してる時に 羨ましいって思ったこと……
 咲希: それから……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （……あれ？ それから、どうしたっけ？）
 咲希: （……なんだろう。 何かあった気がするけど……）
@@ -122,4 +114,4 @@ KAITO: 何かヒントが見つかるといいね
 咲希: それじゃあまたね、ふたりとも！
 レン: ああ、頑張れよ！
 レン: …………
-(Black cut)
+(Black transition)

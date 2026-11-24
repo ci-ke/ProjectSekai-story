@@ -40,7 +40,7 @@ Gacha phrase: いいお店を見つけられてよかった
 奏: 『ふふ……』
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)
 まふゆ: …………
 まふゆ: （そろそろ、昼休みが終わる……）
 まふゆ: （……『ごめん、そろそろ時間だから戻る』）
@@ -96,7 +96,7 @@ Gacha phrase: いいお店を見つけられてよかった
 (Background change)
 奏: 『それじゃあ、雪。お疲れさま』
 まふゆ: うん、また……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -173,7 +173,7 @@ Gacha phrase: いいお店を見つけられてよかった
 ミク (N25): 『……まふゆが選んでくれた物なら、なんでも嬉しい』
 まふゆ: そう……。じゃあ、何か良さそうなものを選んでおくね
 ミク (N25): 『うん……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [修学旅行　最終日]
@@ -189,4 +189,4 @@ Gacha phrase: いいお店を見つけられてよかった
 クラスメイトC: オッケー！　最終日、楽しも～う！
 クラスメイトA・B: 『おー！』
 まふゆ: ふふっ
-(Black cut)
+(Black transition)

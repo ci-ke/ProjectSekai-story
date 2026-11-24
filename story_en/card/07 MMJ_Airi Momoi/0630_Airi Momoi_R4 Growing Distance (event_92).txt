@@ -11,17 +11,13 @@ Gacha phrase: I guess this can't be helped...
 
 Airi: Okay, let's have a look at tomorrow's schedule... We have that meeting in the morning and will head to school in the afternoon.
 Airi: Haruka and Minori already know that we won't make our morning practice...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori: I've made up my mind...
 Minori: I'm...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: (I gave her a lot to think about, but I'm glad she arrived on an answer that she's happy with...)
 Airi: (Especially since she made me realize something really important...)
@@ -61,15 +57,11 @@ Airi: (Ena never changes... She always lets me know about these new places and i
 Airi: (I mean, there was one point when I was so busy that we didn't see each other for a month or so.)
 Airi: (Of course, Ena was going through some tough stuff right around that time too...)
 Airi: (But she still came over to talk so happily when she saw me at school...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: (Seeing her smile made any feeling of awkwardness about our reunion go away...)
 Airi: (Ena's honest with her feelings. She doesn't hold anything back, in a good way...)
@@ -124,7 +116,7 @@ Airi: Really, I can't thank you enough.
 Airi: And about that cafe. I promise to let you know when there's a gap in my schedule!
 Ena: <Okay. I'll invite you again if I find anywhere else that looks delicious or interesting, so keep your schedule open!>
 Airi: Yeah, you got it!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -181,4 +173,4 @@ Airi: We made plans to hang out together. Just like old times...
 Airi: (Well, things aren't completely the same as they were back then...)
 Airi: (But we still clearly want to talk and hang out with each other. That hasn't changed at all.)
 Airi: (I need to keep treasuring that connection.)
-(Black cut)
+(Black transition)

@@ -11,7 +11,7 @@ Akito: Yeah, I get that.
 Akito: Anyway, I'm just hoping for something a little more serious than the show he did for the School Festival...
 Akito: Hey, how about these seats?
 Toya: Yes, this feels like a nice distance away from the stage. Let's sit here.
-(Black cut)
+(Black transition)
 Saki: We made it! Just in time too...
 Ichika: This place was further than I expected. I guess they really are park ambassadors since they get to perform somewhere like this.
 Shiho: This might be my first time seeing Tsukasa and his troupe perform outside of PXL.
@@ -22,7 +22,7 @@ Honami: Hehe. Oh, Saki.
 Shiho: Hey, I think it's about to start.
 Narrator: “We will now be presenting Wonderlands×Showtime's ambassadorial performance of 'A Pianist Named Thorpe'.”
 Saki: Hehe. I can't wait to see what it's like.
-(Black cut)
+(Black transition)
 Thorpe (Tsukasa): “*Sigh* I made it through to the final round of auditions.”
 Thorpe (Tsukasa): “This is it. I might actually pass this time. My usual problems shouldn't get in my way...”
 Bandleader (Rui): “Alright, next is... Thorpe. Whenever you're ready.”
@@ -30,9 +30,9 @@ Thorpe (Tsukasa): “O-Okay...!!”
 Thorpe (Tsukasa): “I can do it... I'll be fine. I just have to play like I practiced...!”
 Thorpe (Tsukasa): “H-Here goes nothing...!”
 Bandleader (Rui): “Hmm... How unfortunate...”
-(Black cut)
+(Black transition)
 Thorpe (Tsukasa): “Th-Thank you very much...”
-(Black cut)
+(Black transition)
 Thorpe (Tsukasa): “No...! Why does this keep happening to me...?! At this rate, I'm never going to be able to join a band...!”
 Toya: ...
 Akito: Huh...? I didn't know he could play this kind of character.
@@ -41,7 +41,7 @@ Thorpe (Tsukasa): “The bandleader suggested that I enter into that contest to 
 Thorpe (Tsukasa): “No, I don't have a choice... I... I want to keep playing the piano...”
 Shiho: Tsukasa seems different from usual...
 Honami: He really does... Almost like he's a completely different person...
-(Black cut)
+(Black transition)
 Big Sister Squirrel (Emu): “Thank you for playing so beautifully for us, Mr. Pianist! Now, if you'll excuse us!”
 Thorpe (Tsukasa): “They're finally gone. I can practice in peace now... But there might not be any point now since the contest is tomorrow.”
 Thorpe (Tsukasa): “*Sigh* I only have half a day left...”
@@ -51,28 +51,24 @@ Tsukasa: (He knows he's in a desperate situation, but from the bottom of his hea
 Tsukasa: (And so, he looks up to the stars...)
 Tsukasa: (I'm sorry for ever saying that you lack initiative...)
 Tsukasa: (I understand now that you kept persevering. You kept trying despite all odds...)
-(Black cut)
+(Black transition)
 Thorpe (Tsukasa): “And it's the day of the contest. Thanks to them, I was hardly able to practice at all...”
 Thorpe (Tsukasa): “The seats are... Oh, it's a full house. I'm getting dizzy just thinking about having to play in front of all of them.”
 Thorpe (Tsukasa): “No, I just want to...”
 MC (Rui): “Entry number 20! Thorpe!”
 Thorpe (Tsukasa): “I just want to keep playing.”
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000065/bg_s000065.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000065/bg_s000065.webp)
 Tsukasa: (Thorpe lives to play the piano. He needs it more than anything else.)
 Tsukasa: (And the most important thing to me is...)
-(White cut)
+(White transition)
 (Background change)
 Saki: Wait, this song...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Tsukasa...
 Akito: Hey, not bad.
@@ -95,7 +91,7 @@ Thorpe (Tsukasa): “So, thank you all very much...”
 Tsukasa: (Yes, Thorpe, I understand now... You have your piano and I have my shows.)
 Tsukasa: (Let's give everyone who's been there for us some of this light as a small token of our appreciation...)
 Saki: Tsukasa... He's shining so brightly...
-(White cut)
+(White transition)
 (Background change)
 
 [Backstage]
@@ -109,7 +105,7 @@ Emu: Oh, that reminds me. We should go say hi to Saki and everyone!
 Tsukasa: Yes, that's right!! I'll join you!!
 Nene: I really had my doubts, but he pulled through for us in the end...
 Rui: Yes, he did. That's our troupe leader for you!
-(Black cut)
+(Black transition)
 Tsukasa: Alright, let's wait for them here! Hm...?
 Elderly Woman: Excuse me... Didn't you play the protagonist today? Are you free right now?
 Tsukasa: Yes, I am! How can I help you?
@@ -131,4 +127,4 @@ Miku (WxS): <No, I wanna congratulate Tsukasa too!>
 KAITO: <Hehe. I understand how you feel, but that may have to wait until later...> 
 Tsukasa's Voice (Tsukasa): Thank you for coming!! Allow me to show you my appreciation as a future star!!
 Miku (WxS): <Hehe...!! Good for you, Tsukasa☆>
-(White cut)
+(White transition)

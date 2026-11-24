@@ -22,7 +22,7 @@ Saki: Yeah, you're right! You should spend the evening the way you like, Ichi.
 Shiho: ...
 Ichika: Is something the matter, Shiho...?
 Shiho: No, it's nothing...
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: ...
 Luka: Oh, Shiho? You're still here?
@@ -56,17 +56,17 @@ Luka: Shiho...
 Miku (Ln): ...
 Miku (Ln): I think you've done quite a lot for her already.
 Shiho: Huh...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000001/bg_s000001.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000001/bg_s000001.webp)
 Miku (Ln): You've faced your own share of hurdles as well and managed to overcome them, right, Shiho?
 Miku (Ln): Isn't it fair to say that your sister received some encouragement after seeing you accomplish that just as you did when you saw her working so hard?
 Shiho: What makes you think that...?
 Miku (Ln): Well, it's just this feeling I have based on having gotten to know you.
 Shiho: Really? Just a feeling?
 Shiho: But I get what you're trying to say, so thanks, Miku...
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -79,4 +79,4 @@ Shiho: Oh, her group's doing a stream today too, I think...
 Shiho: A special moon viewing stream.
 Shiho: (I still haven't taken the time to watch one of their streams yet either...)
 Shiho: Maybe I should take a look...
-(Black cut)
+(Black transition)

@@ -23,7 +23,7 @@ Tom: <“I get the clear sense that you're trying desperately to overcome a grea
 Rui: “Yes. This workshop has made it plainly obvious what I need to work on as a director.”
 Rui: “I asked to speak with you today to find a way to tackle those issues.”
 Rui: “It's actually something of a long story, but...”
-(Black cut)
+(Black transition)
 Tom: <“I see... You want to produce shows with more depth.”>
 Rui: “Yes. I had the chance to see the dress rehearsal for 'Goodbye Ghosts' the other day.”
 Rui: “I fully understand that comparing my work to your own is presumptuous in the extreme...”
@@ -71,27 +71,23 @@ Tom: <“It has to come from your own feelings and experiences. It can't be imag
 Tom: <“Obviously, you need to be careful not to take it too far. You wouldn't want to turn it into a monologue, after all. But...”>
 Tom: <“Those raw feelings and experiences which are so powerful that even you hesitate to touch upon them... That's what gives a work depth. At least, that's what I believe.”>
 Rui: (Raw feelings and experiences...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Rui (Rui): Um, Mom? Am I different from everyone else?
 Little Rui (Rui): I've tried so hard to talk to them about the things I think are fun, but they just don't understand.
 Little Rui (Rui): My teacher and classmates keep saying that I'm not like them.
-(White cut)
+(White transition)
 (Background change)
 Rui: There were a few kids who would get excited about my ideas.
 Rui: But sooner or later, even they became fed up with me.
 Rui: It kept happening again and again. Eventually there was no one left that wanted anything to do with me.
-(White cut)
+(White transition)
 (Background change)
 Rui: (However, I did learn one thing from this experience...)
 Rui: (I want to keep doing shows with my friends. More than I previously realized...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (I do have those to draw upon.)
 Rui: (The loneliness I felt as a child. The helplessness of being isolated from my peers.)
@@ -119,4 +115,4 @@ Tom: <“I'm glad to hear that. I'm looking forward to what you'll show us.”>
 Rui: (Thanks to him, I know what I need to do now. I have a better idea of what my show should express.)
 Rui: (These feelings may be too raw and unrefined to turn into a show.)
 Rui: (But I'm going to give it a try... To break through my current limits.)
-(Black cut)
+(Black transition)

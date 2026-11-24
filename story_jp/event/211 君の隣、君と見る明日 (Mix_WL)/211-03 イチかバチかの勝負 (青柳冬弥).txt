@@ -21,7 +21,7 @@
 類: ベストは、瑞希達が守屋さんを説得して きちんと話せる機会をつくることだけれど……
 類: ……僕達も、間島さんと多少なりとも会話ができ始めているし、 根気強く声をかけていこう
 冬弥: はい
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -29,7 +29,7 @@
 冬弥: ……神代先輩。遅くなってすみません。 思いのほか、図書委員が長引いてしまって……
 類: 問題ないよ。 じゃあ、体育館に——ん？
 冬弥: あれは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [屋上]
@@ -53,7 +53,7 @@
 間島: …………提案？
 冬弥: ——はい
 冬弥: 勝負の提案です
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -74,7 +74,7 @@
 冬弥: はい……！
 冬弥: 必ず勝って、 あのふたりにもう一度ちゃんと話してもらいましょう！
 咲希・瑞希・類: 『おー！』 『ああ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　放課後]
@@ -103,28 +103,28 @@ KAITO (WxS): 『……冬弥くん、冷静だね。 もしかして運動、得
 KAITO (VBS): 『え？　うーん。たしか高校に入るまで、 球技はほとんどやったことないって言ってた気がする』
 KAITO (WxS): 『え……。大丈夫かな……』
 KAITO (Ln): 『……上手くいくといいな』
-(Black cut)
+(Black transition)
 冬弥: ……！　……ボールがライン上に！
 類: ……素晴らしいコントロールだね。それにあの球速……。 まったく動けなかったよ
 冬弥: ……まず触るところを目指しましょう
-(Black cut)
+(Black transition)
 瑞希: ……ごめん！　全然届かなかった！
 冬弥: だが、反応はできていた。すごいな、暁山！
 咲希: うん！　アタシもがんばらなきゃ！
-(Black cut)
+(Black transition)
 冬弥: …………っ！！
 類: 大丈夫かい？
 冬弥: ……はい！
 冬弥: （……体はなんとか動くが、まだボールに触れていない）
 冬弥: （考えていてはダメだ。 恐れも捨てて、思いきり飛び込まなければ）
 間島: …………
-(Black cut)
+(Black transition)
 冬弥: ぐっ……！　もう１本！
-(Black cut)
+(Black transition)
 冬弥: はあ……はあ……やっと触れた……！
 冬弥: ——次、お願いします！
 間島: ……………………
-(Black cut)
+(Black transition)
 瑞希: はあ……はあ……
 木村: ……間島先輩、そろそろ時間が
 間島: ……そうだね
@@ -180,11 +180,11 @@ KAITO (Ln): 『……上手くいくといいな』
 冬弥: （頼む、動いてくれ……！）
 ？？？: 『頑張れ、冬弥くん……！！』 『頑張れ、冬弥……！』
 冬弥: うぁあああああああっ！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000607/bg_s000607.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000607/bg_s000607.webp)
 冬弥: （届け……っ！　届け……！！）
 冬弥: （頼む……！）
-(White cut)
+(White transition)
 (Background change)
 冬弥: …………っ！！
 冬弥: ボールは……！
@@ -193,4 +193,4 @@ KAITO (Ln): 『……上手くいくといいな』
 間島: 本当に、上げるなんて……
 咲希: やったやったー！ とーやくん、やったねー！！
 冬弥: はい……！
-(Black cut)
+(Black transition)

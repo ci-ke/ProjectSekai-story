@@ -24,7 +24,7 @@ Emu: On my birthday? When I'm in a pinch?
 Emu: K.S.H. is probably the sender's name. I wonder who it is.
 Emu: Oh well, that's for tomorrow☆ The letter said to open it on my birthday anyways!
 Emu: Okie dokie, time to go to school! Doop dee doop doo♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Class 1-B]
@@ -84,7 +84,7 @@ Emu: Okay! Don't worry, I'll be sure to enjoy both making and eating it☆
 Airi: Oh, before I forget...
 Airi: Do you have some time after school today, Emu?
 Emu: Huh?
-(Black cut)
+(Black transition)
 (Background change)
 
 [After school]
@@ -108,7 +108,7 @@ Emu: Hehehe. So many people have been wishing me a happy birthday and giving me 
 Ena: Well, that's because everyone cares about you.
 Mizuki: Yeah! Have lots of fun tomorrow, okay♪
 Emu: I will!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -149,7 +149,7 @@ Luka: Hehe. Then let's go find those puzz... Zzz... In my...dreams... Zzz...
 MEIKO: Ah! Luka?! The pieces aren't hidden in your dreams!
 Emu: Hehehe! Let's go find those pieces☆
 Miku, Rin & Len: Yeah!
-(Black cut)
+(Black transition)
 Miku (WxS): Oh... There's another one! Yay! I found ten puzzle pieces so far♪
 Rin: Wow, that's amazing, Miku! We need to step up our game♪
 Emu: Rui, Tsukasa! You can do it!
@@ -162,19 +162,19 @@ Nene: Okay, we'll pick it up. Once you're done with that one, could you get the 
 Tsukasa: What?! There's another one?!
 Rui: Huff huff... I don't think I can do this any longer. Tsukasa, can we swap for the next one?
 Tsukasa: Hm? Alright... Let's give it a try.
-(Black cut)
+(Black transition)
 Emu: Luka, MEIKO, Len! We got some more puzzle pieces!
 Luka: Oh my, you found so many. How much does this make in total, MEIKO?
 MEIKO: Let's see... That's a total of 105 pieces!
 Rui: Looks like our hunt will continue for a little longer.
-(Black cut)
+(Black transition)
 Luka: Emu, would you like to join us in putting the puzzle together? I think these pieces will make up this section that looks like a fountain.
 Emu: Fountain?
 Emu: Oh! I know this! This piece goes here, and this one over here... And this one goes here!
 Len: Whoa, amazing! You connected them in a blink of an eye!
 MEIKO: Hold on... Do you know what picture this makes up, Emu?
 Emu: Hehehe, I have an idea! Alright, so this piece goes over here...!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -196,8 +196,8 @@ Emu: (My family organized all of this just for me... Hehehe, that makes me so ha
 Miku (WxS): Let's complete the puzzle, Emu♪
 MEIKO: Yes! And let's also dig into the cake and snacks to our hearts' content!
 Emu: Yeah☆
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000226/bg_s000226.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000226/bg_s000226.webp)
 Saki: Happy birthday, Emu! Thank you for sending us photos of the cookie Wonder Stage♪
 Shiho: I know we were the ones who planned it, but it was still surprising to actually see the Wonder Stage made out of cookies.
 Ichika: Yeah. We couldn't have been able to do it without our PXL expert Kohane's help.
@@ -223,7 +223,7 @@ Tsukasa: Yes. I was a little apprehensive when I heard there were three hundred 
 Tsukasa: But above all, I'm glad that Emu spent the day with a smile on her face!
 Rui: Emu. As your fellow troupe member, I look forward to the next step on our journey.
 Nene: No matter what happens, if we're together, it'll work out. Let's do our best, Emu.
-(White cut)
+(White transition)
 (Background change)
 Emu: So many people wished me a happy birthday and celebrated with me♪
 Emu: From the cookie Wonder Stage to the coloring sheets and the Phoenix Wonderland jigsaw puzzle, all of the gifts made me so happy!
@@ -232,4 +232,4 @@ Emu: Oh yeah, and maybe I'll change the decorations on the cookie Wonder Stage w
 Emu: Hehehe. There's so many things I wanna do that I can't stand still!
 Emu: Alright, time to dash home♪
 Emu: Here I go! Won-won-wonderhoy dash!
-(White cut)
+(White transition)

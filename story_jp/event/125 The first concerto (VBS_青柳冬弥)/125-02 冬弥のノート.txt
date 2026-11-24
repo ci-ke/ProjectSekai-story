@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, MEIKO, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -27,7 +27,7 @@ KAITO: お～！　今日はみんな勢ぞろいだね！ タイミングよか
 冬弥: カイトさん。 お邪魔しています
 KAITO: あれ？ なんだかノートにいろいろ書いてるけど……何やってるの？
 冬弥: ええと、実は——
-(Black cut)
+(Black transition)
 KAITO: ええ～！？ じゃあ冬弥くんが、曲を全部作ることになったの！？
 冬弥: はい。正直、まだ不安はありますが……
 冬弥: できることはすべてやろうと思い、 まずはみんなの話を聞かせてもらっているんです
@@ -66,56 +66,40 @@ KAITO: 曲作るならボクも相談乗れると思うからさ、 いつでも
 冬弥: いや、そんなことは決してないと思う。 さっきも言ったが、どんな小さな想いも、 今の小豆沢につながっているんだ
 冬弥: だから、なんでも話してほしい。 これまでの小豆沢の想いを
 こはね: わかった、ありがとう！ それじゃあ——
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
 
 冬弥: （……RAD WEEKENDに出会った時の、 衝撃と興奮）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （『あの夜を超えてみせる』と胸に誓った時の高揚感。 その過程で何度も挫折して生まれた、自責の念）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……音楽という、新しい世界に飛び込んでいった時の、 期待と不安）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （そして——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （必ず超える、夢の先に行くという……決意）
 冬弥: （……よし。 みんなの想いをどう音にしていくか、構想はまとまった。 あとは実際に作っていくだけだ）
@@ -123,11 +107,11 @@ KAITO: 曲作るならボクも相談乗れると思うからさ、 いつでも
 冬弥: （以前颯真さんにいろいろなことを教えてもらったが……、 それでも俺にはまだまだ、作曲の知識も技術も足りていない）
 冬弥: （そこについても、勉強しながら作っていかなくてはな。 練習もあるから、時間が足りず大変だが……）
 冬弥: ……あ。 そうか、知識ならば……
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: （……使えそうな作曲の本は、これぐらいだろうか。 読んだらすぐ父さんの書斎に戻しておかなくては）
 冬弥: （……ストリート音楽とクラシック音楽の作りかたは、 だいぶ違うものだが……）
 冬弥: （それでも何か参考になるはずだ。 クラシックによって培われた感性も、 今の曲作りに役立っているのだからな）
 冬弥: （部屋に戻って読むとするか。 ……しかし、これは徹夜になりそうだな）
 冬弥の父: …………
-(Black cut)
+(Black transition)

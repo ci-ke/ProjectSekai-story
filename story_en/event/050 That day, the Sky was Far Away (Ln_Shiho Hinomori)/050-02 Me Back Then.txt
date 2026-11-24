@@ -26,14 +26,14 @@ Shiho: Hm...?
 Shiho: Everything okay, KAITO? What are you doing all by yourself?
 KAITO: Oh... N-Nothing in particular...
 Shiho: ...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000051/bg_s000051.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000051/bg_s000051.webp)
 KAITO: It's just...
 KAITO: I'm not sure what I'm supposed to do...
 Shiho: Huh?
 KAITO: I-It's not that I don't like parties or anything. I'm just not used to them is all...
 KAITO: I usually play or perform by myself, so I have a hard time figuring what to do in these sorts of situations when everyone's involved...
-(White cut)
+(White transition)
 (Background change)
 Shiho: I see...
 Shiho: Actually, I think I understand how you feel. There was a time when I spent a lot of time by myself...
@@ -64,15 +64,11 @@ Honami: Like before?
 Shiho: During junior high... When all I did was play my bass by myself.
 Ichika: Oh...
 Ichika: (Junior high school was when...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: (Back then...)
 Shiho: Ichika, Honami... You don't need to look so concerned. Not now at least.
@@ -94,4 +90,4 @@ KAITO: I believe sharing what happened in the past will bring you all closer tog
 Shiho: ...
 Shiho: Yeah, okay... I've never really had the chance to talk about what happened back then.
 Shiho: So I'll do that now. When I was in junior high...
-(Black cut)
+(Black transition)

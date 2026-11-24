@@ -9,35 +9,27 @@ Gacha phrase: 今の俺の覚悟を聴いて下さい
 
 [冬弥の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: 偶然じゃねえよ
 彰人: お前が親父のこと吹っ切ったからだろ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （昨日のイベントは、本当に楽しかった。 それに、父さんのことも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: …………
 冬弥: （こんなに晴れやかな気持ちになるのは久しぶりだ。 せっかくだし、歌の練習もしたいが……）
 冬弥: （今日は喉を休める日と、みんなとも話したしな。 ゆっくり音楽を聴いて過ごすか）
 冬弥: （そういえば、 彰人に貸してもらっているCDもあるし……ん？）
 冬弥: これは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -64,7 +56,7 @@ MEIKO: わかったわ。そういうことなら、 みんなで聴きましょ
 冬弥: （……ここに来てよかった。ひとりでは、 いろいろと考えすぎてしまったかもしれないからな）
 MEIKO: それじゃあ早速、かけてみましょうか
 冬弥: はい、お願いします
-(Black cut)
+(Black transition)
 レン: すごかったぁ……！
 リン: うん、ホントに！
 リン: わたし、３番目の曲が好きだなぁ。 すごく悲しい感じで胸が苦しくなるんだけど、 なんかそれがいいっていうか！
@@ -98,7 +90,7 @@ MEIKO: はい。リンとレンにはフルーツゼリー！ ちょうど３人
 レン: メイコ、サンキュー！
 MEIKO: どういたしまして。さあ、召し上がれ
 冬弥: ありがとうございます。じゃあ、いただきます
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -113,12 +105,12 @@ MEIKO: どういたしまして。さあ、召し上がれ
 彰人: だからって満足しちゃいられねえ。 あれが当たり前になるくらいじゃないとな
 彰人: つーわけで、今日も頼むぞ
 冬弥: ああ。行こう！
-(Black cut)
+(Black transition)
 MC: さすがVivid BAD SQUAD！ 圧巻のパフォーマンスを見せつけてくれたぜ！
 観客A: すげーな！ 本当に『STAY GOLD』と同じヤツらか！？
 観客B: ああ、なんか一皮むけたって感じだよな！
 昔馴染みの客: これは……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -166,4 +158,4 @@ MC: さすがVivid BAD SQUAD！ 圧巻のパフォーマンスを見せつけて
 冬弥: それは違う。お前だから言わないんだ
 彰人: だーかーらー！　なんでなんだよ？
 冬弥: （お前が『最高の相棒』だということは、 今さら言葉にする必要なんてないからな）
-(Black cut)
+(Black transition)

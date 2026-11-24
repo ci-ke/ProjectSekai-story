@@ -57,15 +57,11 @@
 奏: （わたしは元気だよ。 ……この前ちょっとだけ、倒れちゃったけど）
 奏: （あれからは、ちゃんと気をつけてるんだ。 みんなを心配させちゃったし）
 奏: （だから、お母さんも安心してね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: （……昔は……）
@@ -76,10 +72,8 @@
 奏: （それに……絵本を読んでくれた時のことも。 お母さんの優しい声、すごく好きだった）
 奏: （わたしにごはんの作り方を教えてくれたりもしたよね。 あの時のあったかい匂いも、なんだか思い出せる気がする）
 奏: （それに————）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の母: ——ねえ、奏
 奏の母: いつまでも、幸せでいてね
@@ -87,15 +81,13 @@
 奏の母: だから……さみしく思わないで
 奏の母: ずっと、ずっと……奏のことを想っているからね
 幼い奏 (奏): おかあ、さん……？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……お母さんは、最後まで わたしの幸せを願ってくれてたよね）
 奏: （いなくなったあとも、幸せな毎日を過ごせるようにって）
 奏: （……お母さんの言葉は今でもずっと、私の宝物だよ）
-(Black cut)
+(Black transition)
 奏の祖母: ——さあ、そろそろ帰りましょうか
 奏の祖母: 奏ちゃん、お菓子は半分こしましょう。 何かほしいものはある？
 奏: あ……じゃあ、おまんじゅう貰おうかな
@@ -115,4 +107,4 @@
 奏の祖母: すごく難しい顔をしていたから。 ……何か悩みでもあるの？
 奏: あ……
 奏: …………友達の、ことなんだけど
-(Black cut)
+(Black transition)

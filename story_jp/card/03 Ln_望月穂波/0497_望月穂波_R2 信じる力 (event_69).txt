@@ -10,7 +10,7 @@ Skill name: 伝えきれないほどのありがとう
 
 リン: ほなっち、いい感じ！ バスドラ、裏で踏むところもしっかりリズムとれてるよ！
 穂波: うん！
-(Black cut)
+(Black transition)
 リン: お疲れー！　ほなっち、すっごくいい演奏だったよ！ ２週間前と全然違うし！
 穂波: ありがとう、リンちゃん
 穂波: わたし、特訓前と特訓後の演奏を録音しておいたんだけど……。 さっき練習前に聴き比べて、違いにびっくりしちゃった
@@ -31,7 +31,7 @@ KAITO: まあ、穂波が大丈夫だったんなら……
 KAITO: ……そっか。よかった……
 KAITO: ……明日は、合わせだね。 頑張って
 穂波: ありがとうございます。 特訓の成果を活かして頑張ります！
-(Black cut)
+(Black transition)
 (Background change)
 
 [穂波の部屋]
@@ -41,15 +41,11 @@ KAITO: ……明日は、合わせだね。 頑張って
 穂波: みんなも、きっとうまくなってるんだろうな
 穂波: 特訓のあいだは一緒に演奏することもなかったし、 本当に、久しぶりに合わせることになるなあ……
 穂波: ……ちゃんと、合うかな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: …………
 穂波: （志歩ちゃんの演奏にも、かなり磨きがかかってた）
@@ -59,10 +55,8 @@ KAITO: ……明日は、合わせだね。 頑張って
 穂波: （わたし達の曲を、あのライブハウスのお客さんや 朔さんに、響かせることができないかもしれない……）
 穂波: （それに——）
 穂波: 一歌ちゃんや咲希ちゃんとした、あの約束も……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ——咲希、穂波
 一歌: 志歩は、私達なら朔さんを見返せる、 あのライブハウスのお客さん達に私達の音楽を 響かせることができるって信じてくれてる
@@ -72,31 +66,25 @@ KAITO: ……明日は、合わせだね。 頑張って
 一歌: 今回はそのどれよりも、いっぱい頑張ろう
 一歌: 頑張って頑張って、 志歩に全力の演奏をしてもらえるようになろう！
 咲希: ……！
-(White cut)
+(White transition)
 咲希: しほちゃんに全力の演奏をしてもらうために、 ２週間、めちゃくちゃのめちゃくちゃにがんばろう！！
 咲希: Leo/need——ファイッ！
 一歌・穂波・咲希: 『おー！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: …………
 穂波: （もしかすると、明日こそわたし達の覚悟を 志歩ちゃんに見せなくちゃいけないのかもしれない）
 穂波: どうしよう……緊張で、手が震えてきちゃった……
 穂波: …………
 穂波: 大丈夫……落ち着いて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 気持ちはわかるよ
 志歩: ——でも、やるしかない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: …………！
 穂波: そっか……。そうだよね
@@ -104,7 +92,7 @@ KAITO: ……明日は、合わせだね。 頑張って
 穂波: …………
 穂波: 大丈夫。きっと、大丈夫
 穂波: ——よし。 明日、頑張ろう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -164,4 +152,4 @@ KAITO: ……明日は、合わせだね。 頑張って
 一歌: 私も
 志歩: なら、それぞれが好きなお菓子を 買っておかないとね
 穂波: うん！
-(Black cut)
+(Black transition)

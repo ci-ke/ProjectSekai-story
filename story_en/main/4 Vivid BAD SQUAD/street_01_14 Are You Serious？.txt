@@ -23,10 +23,10 @@ Akito: Why, you!
 Toya: !!
 Akito: Fine then, leave!
 Akito: And never show your face around here again!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000014/bg_a000014.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000014/bg_a000014.webp)
 Toya: .....
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -53,16 +53,14 @@ Len: Wh-What? Are they friends of yours?
 An: W-Well, I wouldn't exactly call them friends... It's... complicated.
 An: I guess they did both say they dreamt of surpassing RAD WEEKEND, but...
 Miku (VBS): Hopefully, they'll visit us soon.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
 
 Akito: .....
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Akito: Hey, you've been singing around here a lot lately.
 Toya: What if I have?
 Akito: Nothing, I just noticed, that's all. I was curious why you'd choose to sing here, of all places.
@@ -74,7 +72,7 @@ Toya: ...Nothing important. It's just...
 Toya: I feel like I can be myself when I'm singing like this.
 Akito: So you've got music to thank for keeping you going, then?
 Akito: Now I'm really interested. Hey, how would you like to try singing together?
-(White cut)
+(White transition)
 (Background change)
 An's Father: So you two decided to team up, huh?
 Akito: Yeah. There's one more thing we wanted to talk to you about. Care to have a guess?
@@ -82,13 +80,11 @@ Toya: We've decided to call ourselves BAD DOGS.
 Akito: What the heck, Toya?! I wanted to tell him!
 Toya: Then just say it. No reason to act so smug and drag it out.
 Akito: How is it that someone who talks as little as you always cuts in right at the worst time?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: ...Tsk
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -105,4 +101,4 @@ An: It'll probably blow over soon. Oh, hey. One of the guys from a club nearby c
 Kohane: Y-Yeah. I'd like to try.
 Akito: .....
 Kohane: (I wonder if Shinonome and Aoyagi are all right.)
-(Black cut)
+(Black transition)

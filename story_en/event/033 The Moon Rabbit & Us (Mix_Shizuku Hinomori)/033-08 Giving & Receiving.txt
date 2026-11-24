@@ -26,7 +26,7 @@ Haruka: Hehe. Ohagi is a nice idea. Maybe we can do that during another stream.
 Minori: Yeah! That'd be great!
 Airi: I agree... Anyway, Shizuku, mind getting back in the driver's seat?
 Shizuku: Yes, of course. Let's start by mixing some flour with water...
-(Black cut)
+(Black transition)
 Haruka: Then we just rinse them off with cold water and let them breathe a little. For now, that'll be it for our dango-making segment.
 Shizuku: While we wait, why don't we move on to our next segment?
 Shizuku: Ready, Minori?
@@ -73,7 +73,7 @@ Shizuku: A long time ago, when I was going through a bit of a tough time, Shii e
 Shizuku: She gave me the courage to stand back up and try again.
 Shizuku: That's why I'd like it if she would tell me when something's wrong or if she needs my help.
 Shizuku: She's given me so much already, so I want to give back to her somehow.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -83,24 +83,20 @@ Shiho: But...
 Shiho: She was encouraged by me? I never knew that...
 Shiho: (I was sure that she was the one who's been keeping me afloat while I gave nothing back in return.)
 Shiho: (At the same time...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (Ln): You've faced your own share of hurdles as well and managed to overcome them, right, Shiho?
 Miku (Ln): Isn't it fair to say that your sister received some encouragement after seeing you accomplish that just as you did when you saw her working so hard?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: (I've helped her? I really hope that's true...)
-(Black cut)
+(Black transition)
 Shizuku's Voice (Shizuku): <That concludes this stream... See you next time, everyone!>
 Shiho: Oh, it's over...
 Shiho: I should probably talk to her when I get home...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Shizuku's Room)
 Shiho: Shizuku, you there? Hm? Whoa...
@@ -122,7 +118,7 @@ Shizuku: Yes, we made them during our stream. It's just like the ones you showed
 Shiho: Shizuku...
 Shiho: Okay, I'll make an exception today...
 Shizuku: Shii...!
-(Black cut)
+(Black transition)
 Shizuku: Everyone, allow me to introduce my younger sister, Shii.
 Shizuku: And, Shii, this is MORE MORE JUMP! Their names are...
 Shiho: Momoi, Kiritani and Minori... Minori's in my class and I had a chance to talk to Kiritani already at the Seaside School since we were in the same group.
@@ -149,4 +145,4 @@ Shizuku: Yes, Shii?
 Shiho: You've given me so much too, so...
 Shizuku: Oh...
 Shizuku: Thank you, Shii...
-(White cut)
+(White transition)

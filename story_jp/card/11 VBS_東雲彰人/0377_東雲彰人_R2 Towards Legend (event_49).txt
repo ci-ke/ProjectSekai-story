@@ -16,7 +16,7 @@ Skill name: 決意は固く
 冬弥: ああ、頼む
 彰人: じゃあ、今日のところはここで解散だな
 杏: うん。また明日！
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -68,7 +68,7 @@ Skill name: 決意は固く
 彰人: お前がそこまで言うなら、 しばらくは浮かれたままでいてもいいかもな
 冬弥: ぜひそうしてくれ。 俺にとっても珍しい彰人が見られて楽しい
 彰人: は？　お前なー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -81,7 +81,7 @@ Skill name: 決意は固く
 こはね: あ、東雲くん！
 杏: こっちこっちー！
 彰人: おう
-(Black cut)
+(Black transition)
 (Background change)
 
 [店内ライブスペース]
@@ -90,10 +90,8 @@ Skill name: 決意は固く
 杏: なる早で決めて、練習も始めないと！
 彰人: ……お前ら、なんかめちゃくちゃ張りきってねえか
 冬弥: まあ、昨日の今日だからな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: わぁ……！
 冬弥: ここがRAD WEEKENDが開かれた……
@@ -101,20 +99,20 @@ Skill name: 決意は固く
 彰人: まだガキだったからだろ。 身長も低かっただろうしな
 杏: あはは、あの時から成長したってことかぁ
 杏: ……そっか。ステージ、こんなに近かったんだ……
-(White cut)
+(White transition)
 (Background change)
 こはね: ♪————……
-(White cut)
+(White transition)
 (Background change)
 杏の父: ——ちょっとばかり、お前達に見せたいものがあってな
-(White cut)
+(White transition)
 (Background change)
 杏の父: RAD WEEKENDのライブ映像だ
-(White cut)
+(White transition)
 (Background change)
 杏の父: どうだ、嬢ちゃん。 RAD WEEKENDは
 杏の父: ——これを、超えられると思うか？
-(White cut)
+(White transition)
 (Background change)
 こはね: …………超えられるかは、わからないです
 こはね: 思ってたより、ずっとすごくて……、 本当にあったことなのかも信じられないくらいで……
@@ -123,10 +121,8 @@ Skill name: 決意は固く
 こはね: 前より、ドキドキが大きくなってるんです
 こはね: 前よりもっと、RAD WEEKENDを超えたいっていう 気持ちが大きくなってるんです。 だから……
 こはね: 絶対……超えます！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……たしかに、１日のあいだにいろいろあったな
 冬弥: ああ
@@ -137,10 +133,8 @@ Skill name: 決意は固く
 杏: それに、地元の音楽好きな人達もね！
 彰人: そうだな
 彰人: そういや、あの人と初めて会ったのもあの会場だったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の彰人 (彰人): （すげえ人で全然ステージ見えねえ）
 中学生の彰人 (彰人): （まあ、常連ばっかのところに つっこんでくわけにもいかねえし。歌はここでも——）
@@ -152,10 +146,8 @@ Skill name: 決意は固く
 男性: ひとりで来るなんて勇気がいっただろ。 けど、イベントが始まれば気にならなくなるさ！
 男性: 遠慮なんてしなくていい。 最高の瞬間をここにいるみんなで楽しもう！
 中学生の彰人 (彰人): …………。 じゃ、じゃあ……お邪魔します
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: へえ、そんなことがあったんだ
 こはね: すごく親切な人だったんだね
@@ -173,23 +165,19 @@ Skill name: 決意は固く
 杏: あはは！　それもう親戚のおじさんじゃん
 彰人: だな。スタッフもちょうど募集してたみたいだから、 世話になることにしたんだ
 彰人: （あの人は、オレの夢を笑わなかった人でもあるしな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 店長: そうか。あのRAD WEEKENDを超えるために……
 店長: いや、すごい！　そういう子が現れてくれるのを ずっと待っていたんだよ
 店長: いつか彰人くんのチームが 第２の『RADder』になってくれたら嬉しいな
 店長: それと、イベントをやる時は呼んでくれるかい？ 応援しに行くから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: …………
 彰人: おしゃべりはここまでだ。 セトリ決めるぞ
 冬弥: 今度は、彰人がやる気満々になったな
 こはね: ふふ。そうだね
 杏: いいじゃんいいじゃん！ よーし、気合い入れて決めよう！
-(Black cut)
+(Black transition)

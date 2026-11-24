@@ -9,17 +9,13 @@ Gacha phrase: ぎゅってされると、安心する……
 
 [奏の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……あの日のこと……）
 まふゆ: （次は、ちゃんと……）
@@ -27,7 +23,7 @@ Gacha phrase: ぎゅってされると、安心する……
 まふゆ: ……あ、ううん。なんでもない
 まふゆ: ……あと少しで歌詞の調整終わるから、見てほしい
 奏: ……うん、わかった
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -45,7 +41,7 @@ Gacha phrase: ぎゅってされると、安心する……
 奏: ……一緒にやってみない？
 まふゆ: ……準備もしてもらったみたいだし、やろうかな
 穂波: それじゃあ、すぐに餡の準備しますね
-(Black cut)
+(Black transition)
 穂波: おまたせしました。 皮で餡を包んでいきましょうか
 奏: うん。 あ、そういえばまふゆはやったことある？
 まふゆ: ……あるよ。 お母さんの手伝いとか、家庭科の調理実習で
@@ -71,7 +67,7 @@ Gacha phrase: ぎゅってされると、安心する……
 奏: ……も、望月さん、どうしよう。 手のひらだけじゃなくて、指にも皮がくっついてきちゃう
 穂波: ふふ、ちょっと待っててくださいね。 そういう時は——
 まふゆ: （あと少し、ここにいてもいいかな……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,19 +125,15 @@ Gacha phrase: ぎゅってされると、安心する……
 絵名: 『私もちゃんと手伝ってましたー。 まあたしかに、手が汚れるのは好きじゃなかったけど、 慣れれば、指に片栗粉がつくくらいですませられるし……』
 (Background change)
 奏: え……そう、なの？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: う……また皮がくっついた……
 まふゆ: ……指の先も、片栗粉がダマになってるね
 穂波: 慣れない作業ですから、仕方ないですよ。 ——どうぞ、ふきんです
 奏: うう……ありがとう……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: そ、そっか……普通はそんなに汚れないんだ……。 たしかに、まふゆも望月さんも……
 (Background change)
@@ -170,4 +162,4 @@ Gacha phrase: ぎゅってされると、安心する……
 まふゆ: 『……またあとで』
 奏: じゃあ、行こうか
 まふゆ: うん……
-(Black cut)
+(Black transition)

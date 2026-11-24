@@ -36,34 +36,30 @@ Gacha phrase: いつか、あの空に届く曲を——
 絵名: 『……うん。そうだね』
 (Background change)
 奏: 『ありがとう。 それじゃあ……おやすみ』
-(Black cut)
+(Black transition)
 (Background change)
 奏: （……そういえば、お墓参りの荷物まとめなきゃな）
 奏: （お線香と、ライターと……。 掃除もするから、軍手とゴミ袋）
 奏: （あとは——オルゴール）
 奏: （……やっぱり、優しい曲）
 奏: （あ、そういえば昔……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の母: 奏、この曲はね——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （ふたりで行った旅行で見た景色があんまり綺麗で、 それを見たお父さんが作った曲なんだ……って言ってたっけ）
 奏: （その時の写真、見せてもらった気がするけど……。 小さかったから、覚えてないな）
 奏: （——どんな景色だったんだろう）
 奏: （写真、もしかしたらアルバムに残ってるかな……）
-(Black cut)
+(Black transition)
 奏: （……アルバムはあったけど、写真はないな。 他の場所にしまったのかもしれないけど……）
 奏: （探すのは時間がかかりそうだな……）
 奏: （……曲の最終調整を優先しよう。 次のデモも形にしたいし）
 奏: （朝までには終わらせなきゃ）
-(Black cut)
+(Black transition)
 (Background change)
 
 [早朝]
@@ -73,7 +69,7 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: （みんなに意見を聞きたいけど……。 こんな時間じゃ、さすがに起きてないか）
 奏: 誰か、意見を聞ける人は——
 奏: （あ、それなら……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -82,7 +78,7 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: ミク達、いるかな
 奏: あれ？
 奏: （あっちのほうで何かぼんやり光ってる……？ ミク達が何かしてるのかな）
-(Black cut)
+(Black transition)
 奏: ミクは……いないか
 奏: ここに落ちてるのは……光る……玉？
 奏: （りんごくらいの大きさの……何かのライトかな？ まぶしくて、何が光ってるのかよく見えない……）
@@ -91,7 +87,7 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: …………
 奏: （手をかざしても熱くないし、触ってみようかな……）
 奏: あ……！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -106,7 +102,7 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: ……ダメだ。止めても何も起きない
 奏: 仕方ない……。 ここにいるかわからないけど、ミク達を探してみよう
 奏: （ここがどんな場所なのかよくわからないけど、 ちゃんと戻れるといいな……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,15 +117,11 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: （綺麗だけど——寂しくて、静かなセカイ）
 奏: （世界中の人がいなくなって、 ひとりだけ残されたみたい）
 奏: （たったひとりだけ——）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……ううん。 感傷に浸ってる場合じゃない）
 奏: （早く帰らなくちゃ。 お母さんのお墓参りのあとは、曲も作らないといけないし）
@@ -138,10 +130,8 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: この花……
 奏: （……カーネーションだ）
 奏: （お母さんが大好きな花——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い奏 (奏): おかあさん、お花……
 奏の母: ……あら！ また買って来てくれたの？
@@ -151,10 +141,8 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏の母: ふふ。お母さん、お父さんのオルゴールの曲を聴きながら このお花を見るのがとっても好きなの
 奏の母: そうすると、病院にいても、 奏とお父さんのことをとっても近くに感じられるのよ
 奏の母: いつもありがとう、奏
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （——お葬式の日も、 この花を、棺に入れたっけ）
 奏: （小さかったから、その日のことは ぼんやりとしか覚えてないけど）
@@ -168,17 +156,15 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: （でもいつか、必ず作ろう。 誰かを救えるような曲を）
 奏: （お父さんのオルゴールみたいに、 お母さんに届く曲を——作るんだ）
 奏: ……あれ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000063/bg_a000063.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000063/bg_a000063.webp)
 奏: （空に、光……？ 星にしては大きいような……）
 奏: え……？
 奏: （光が増えた……！ あっちにも、こっちにも浮かんでる……）
 奏: あれってもしかして——ランタン？
 奏: あ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の母: 奏、この曲はね——
 奏の母: お父さんとお母さんが、ふたりで初めて旅行に行った時に、 お父さんが作ってくれた曲なの
@@ -191,10 +177,8 @@ Gacha phrase: いつか、あの空に届く曲を——
 幼い奏 (奏): お願いごとを飛ばすの？ おもしろそう！　わたしもやってみたいな！
 奏の母: ふふ、そうね
 奏の母: いつか奏も一緒に、空に飛ばしましょうね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （そうだ、お母さんが見せてくれたのは……この景色だ）
 奏: （たくさんの灯りが、空いっぱいに飛んで——）
@@ -214,13 +198,13 @@ Gacha phrase: いつか、あの空に届く曲を——
 ミク (N25): うん
 奏: もっと飛んでいくといいな
 奏: もっと高く……空の上まで届きますように——
-(White cut)
+(White transition)
 (Background change)
 奏: ……あれ？
 奏: いつの間に寝ちゃってたんだろう
 奏: あ……もうこんな時間。 お墓参りに行かないと
 奏: オルゴールもちゃんと持って……。 ……あそこに寄ってから、行こう
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -233,4 +217,4 @@ Gacha phrase: いつか、あの空に届く曲を——
 奏: （……今はまだ作れない）
 奏: （でも、いつか必ず作る。 誰かを救える……お父さんみたいな曲を）
 奏: （それまで、待っててね——）
-(Black cut)
+(Black transition)

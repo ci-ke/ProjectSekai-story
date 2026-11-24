@@ -17,7 +17,7 @@ Kohane: (Besides how we perform, we have a lot of other things to consider.)
 Kohane: (We have to do everything we can to stand on top of the world, and see what lies beyond.)
 Kohane: I bet it must be as beautiful as the sight we saw from atop the wall.
 Kohane: Anyway, I need to get to practice!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The Lumina Forum - Rehearsal Room]
@@ -36,7 +36,7 @@ Minori: (I want to spread hope to everybody watching.)
 Minori: (On the other side of the screen, people from across Japan—no, maybe even across the world, are watching me.)
 Minori: (So, I have to reach them!)
 Minori: (I have to give it my all, to reach them all around the world!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -49,40 +49,32 @@ Tsukasa: I know!
 Tsukasa: I can do that pantomime-only improv drill again. I'll leave no stone unturned!
 Tsukasa: (If our upcoming show becomes a hit, then we'll be able to move on to the next stage.)
 Tsukasa: We have to succeed!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
 
 Kanade: (Okay, the demo for our next song is coming along nicely.)
 Kanade: (But if someone asked me whether or not it can save Mafuyu right now...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (I don't know.)
 Kanade: (I tried taking a hard look at things, and I've thought about her situation... But nothing's worked.)
 Kanade: (What am I supposed to do...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Come to think of it, that song was so gentle...)
 Kanade: (I still don't have an answer...)
 Kanade: (But I should at least try composing songs which show empathy for Mafuyu.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -100,7 +92,7 @@ Saki's Message: <Oh, Hona, you're the best!>
 Ichika: They all saw it.
 Ichika: Yeah, of course they did.
 Ichika: Even if we're apart, we're still connected like this.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Between Worlds]
@@ -118,4 +110,4 @@ Rin: Whoa! So bright!
 MEIKO: Wh-What's going on?!
 Miku: This light...
 Miku: Could it be a SEKAI—
-(Black cut)
+(Black transition)

@@ -21,7 +21,7 @@
 みのり: 子供達のために一生懸命がんばるので、 よろしくお願いします！
 遥: うん。一緒にがんばろうね、花里さん
 みのり: はい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ボランティア当日]
@@ -62,7 +62,7 @@
 遥: あ……
 遥: ねえ、お姉さんに考えがあるんだけど……
 遥: 一緒に、みんなのことびっくりさせない？
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -115,18 +115,18 @@
 遥: それと……よければ、 私のことはそのまま“遥”って呼んでほしいな
 遥: 同級生なんだし、敬語じゃなくていいよ。 私も、みのりって呼んでいい？
 みのり: ふへっ！？　あっ、えっ、はい！ だ、大丈夫です……じゃなくて、だよ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000477/bg_s000477.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000477/bg_s000477.webp)
 遥: ふふ。それじゃあ、残りの時間も一緒にがんばろう、みのり
 みのり: う、うん……！
 遥: （……これからも、私にできることを探していこう）
 遥: （アイドルとしては叶わなかったけど—— 今度こそ、たくさんの希望を届けられるように）
-(White cut)
+(White transition)
 (Background change)
 ？？？: 遥ちゃんなら、きっと大丈夫よ
 遥: （今のは……）
 遥: （気のせい、かな？ でも……なんだか、勇気をもらえた気がする）
 遥: （——進んでいこう。この想いを、胸に）
-(Black cut)
+(Black transition)
 (Video: link2_idol_ed2)
-(Black cut)
+(Black transition)

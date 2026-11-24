@@ -2,7 +2,7 @@
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama, Hatsune Miku, Megurine Luka)
 
-(White cut)
+(White transition)
 (Background change)
 
 [A few weeks later]
@@ -33,14 +33,14 @@ Kanade: <Does that answer your question...?>
 Kanade: <I'll take care of encoding and uploading it.>
 Kanade: <Thank you for staying up so late to work on this, Yuki.>
 <Yuki> (Mafuyu): <Thank you as well. Please let me know when the draft for your next song is ready.>
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: ...
 Mafuyu: (I'm glad I made this song with her...)
 Mafuyu: (It's as if K's able to illuminate this deep, dark despair just through sheer will.)
 Mafuyu: (I didn't get any answers in terms of what I actually like or who I really am...)
 Mafuyu: (But someday...)
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Okay, it's uploaded...
 Kanade: (I really like how Yuki mixed this...)
@@ -49,12 +49,12 @@ Kanade: (And yet, she unquestionably has a talent for grasping a song's theme an
 Kanade: (Because she also seems to know “that feeling”.)
 Kanade: (She understands what it's like to be alone in the depths of despair.)
 Kanade: (Which means if Yuki and I keep working together, maybe someday...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000042/bg_s000042.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000042/bg_s000042.webp)
 Mafuyu: (K's music will...)
 Kanade: (I just might be able to...)
 Kanade & Mafuyu: <Save me.> <Compose a song that can save someone.>
-(White cut)
+(White transition)
 (Background change)
 (Background change)
 Mizuki: <Whoa, I didn't realize that's what you two were like back then!>
@@ -142,18 +142,14 @@ Kanade: <Okay... Bye.>
 Kanade: I see...
 Kanade: (That despair we both felt still hasn't completely vanished...)
 Kanade: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (We've all come such a long way since then...)
 Kanade: Which is why...
 Kanade: I want to keep composing.
 Kanade: I want to compose a song that can save Mafuyu someday... I want to compose a song that can save everyone.
-(White cut)
+(White transition)

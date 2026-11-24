@@ -28,13 +28,13 @@ Rui: Yes, and I'll be doing the same.
 Bird Cast Member: Oh, Kamishiro! I wanna practice the opening scene a bit! Mind giving me a hand?
 Rui: Of course! I'll see you again in a bit, Nene.
 Nene: Okay, I'm gonna go practice too.
-(Black cut)
+(Black transition)
 Bird Cast Members: “♪————”
 Emu: Wow, everyone sounds amazing! It already feels like the real thing!
 Rui: Yes, as we should expect from the cast of the Phoenix Stage.
 Rui: And they look so natural. We stand to learn quite a lot from them.
 Emu: Yeah...!
-(Black cut)
+(Black transition)
 Bird Cast Member: Oh, practice is about to start... Let's all head over!
 Emu: Okay♪
 Nene's Voice (Nene): “♪————...”
@@ -46,7 +46,7 @@ Nene: “Oh... I-I'm sorry... But please... Go somewhere else...”
 Rui: I hate to break your concentration, Nene, but practice is about to start.
 Nene: Huh...? Oh, you're right. Thanks for letting me know.
 Rui: You're welcome. So, shall we?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -54,19 +54,15 @@ Rui: You're welcome. So, shall we?
 Rui: Okay, I'll be going now. See you all tomorrow...
 Emu: *Nod* See you tomorrow.
 Rui: (Nene's habits, eh...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Director: As for your singing, it simply won't do at this rate.
 Nene: What...?
 Director: Your character sings two songs in total during this show. The second one in particular plays a vital role in changing how Rio and the phoenix view one another.
 Director: As your current rate, you're going to struggle to move the audience. At the moment, Kusanagi, your singing sticks out just that much.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (In the end, we were neither able to find the root cause nor give her any usable advice...)
 Rui: (I can help when it comes to acting, but my knowledge surrounding singing is very basic.)
@@ -74,24 +70,20 @@ Rui: (Because of that, Nene's been the one who's been teaching our troupe how to
 Rui: (Did we rely on her too much...?)
 Rui: (After all, it's a director's duty to give actors opportunities to grow...)
 Rui: (This is very similar to what happened that other time...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: I regret not putting more thought into this...
 Nene: More thought? What do you mean...?
 Rui: Until now, I kept assigning roles to Tsukasa that I thought would help bring out his potential...
 Rui: His goal in life is “to become a world-famous star”. In retrospect, I regret not pushing his boundaries by assigning him more challenging roles.
 Rui: In other words, I regret not thinking ahead more...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (I still have a long road ahead of me as a director.)
 Rui: (But I should find a solution to this problem instead of beating myself up...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -119,7 +111,7 @@ Tsukasa: Yes, of course!
 Rui: Everyone, please feel free to ask Tsukasa, KAITO or myself if you have any questions.
 Everyone: Okay☆ Okay!
 Rui: Then, let's get started!
-(Black cut)
+(Black transition)
 Rui: Emu, how's your group doing?
 Emu: Hi, Rui! Look! We already have a ton made☆
 MEIKO: These pom-poms are for us, and the ones Luka and Miku are making are for the plushies!
@@ -129,7 +121,7 @@ Luka: Hehe... These pom-poms are so fluffy... They feel so much like sheep that.
 Emu: Luka, hang in there! Just a few more!
 Miku (WxS): Then, take this! An anti-sleepyhead pom-pom attack! Feel the fluffiness!
 Luka: Hehe. That tickles. But I do feel much more awake now.
-(Black cut)
+(Black transition)
 (Background change)
 Rui: Everyone, how's the choreography coming along?
 Rin: Great! We came up with something really cute☆
@@ -138,7 +130,7 @@ Doggie Plushie: Look! Look! Go! Go! Nene♪
 Kitty Plushie: You can do it, Nene♪ Boing! Boing!
 Rui: Hehe. You've certainly come up with a fun and energy-filled routine. The pom-poms should add a very nice touch.
 Everyone: Woohoo♪ Woohoo!
-(Black cut)
+(Black transition)
 Tsukasa: Ah, Rui, you're here!
 KAITO: How are the others doing?
 Rui: Ah, they seem to be doing just fine, if not having fun at the same time.
@@ -146,19 +138,15 @@ KAITO: That's good to hear.
 KAITO: Oh, also. We were trying to come up with a way to really surprise Nene. Do you have any ideas?
 Tsukasa: You just saw what the choreography is going to look like, right? Any suggestions?
 Rui: Hmm... Well...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Len: They're gonna wave their hands while cheering and jumping in the air!
-(White cut)
+(White transition)
 Kitty Plushie: You can do it, Nene♪ Boing! Boing!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Rui: Yes, I think I have a fun idea.
-(Black cut)
+(Black transition)
 Tsukasa: Everyone! Are you all ready?!
 Everyone: Yeah! Yes!
 Rui: Then, let's begin filming and have fun just like we rehearsed.
@@ -188,4 +176,4 @@ Tsukasa: Rui with some nice ad-libbing!
 KAITO: Yes, an excellent save!
 Miku (WxS): Alright, get ready♪ We're up next☆
 Everyone: Yeah!
-(Black cut)
+(Black transition)

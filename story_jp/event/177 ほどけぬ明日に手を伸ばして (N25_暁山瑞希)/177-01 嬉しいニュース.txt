@@ -27,7 +27,7 @@
 まふゆ: わかった
 絵名: じゃあ、戻って作業しよっか
 瑞希: うん！　またあとでね
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -35,15 +35,11 @@
 瑞希: ——さーて、やりますか！
 瑞希: ラフがあがってくるまで時間あるし、 使えそうな素材探しておこうっと
 瑞希: （それにしても……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （まふゆ、ちょっと落ち着いたみたいでよかったな）
 瑞希: （奏から、まふゆが家に戻ってきたって聞いた時は びっくりしたけど……）
@@ -53,7 +49,7 @@
 瑞希: （少なくとも今は——ニーゴで作業してる時は、 ちょっとだけ力が抜けてる気がする）
 瑞希: （ボクにできることは、そんなにないかもしれないけど……）
 瑞希: （少しでも気がまぎれるように。 なるべく、いつも通りの雰囲気を作れたらいいな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -81,17 +77,13 @@
 瑞希: しかも、シブヤでポップアップストアって…… これは絶対行かなくちゃね♪
 瑞希: あ、そういえば……
 瑞希: （この前、奏とまふゆは紹介できたけど…… 絵名はまだなんだよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （あの時は、あんまり時間もなかったし……）
 瑞希: （……ニーゴのみんなをちゃんと紹介する、いい機会かも）
 瑞希: タイミングが合えば、みんなを誘ってみよっと！
-(Black cut)
+(Black transition)

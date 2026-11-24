@@ -19,7 +19,7 @@
 まふゆ: ふふ、私もだよ。 今日は一緒に楽しもうね
 こはね: はい……！
 えむ: それじゃあ、みんな集まったところで レッツゴーゴーゴーだよ！　ついてきて～っ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [館内]
@@ -46,7 +46,7 @@
 こはね: 本当ですか？ ありがとうございます……！
 まふゆ: じゃあ、まずはその３つから回っていこうか。 一番近いのは……迷路かな。こっちだよ
 えむ: はーいっ！
-(Black cut)
+(Black transition)
 
 [迷路のブース]
 
@@ -63,7 +63,7 @@
 まふゆ: 来る途中に、階段があったよね。 あそこに登ってやりすごすのはどうかな
 一歌: そうですね……！
 えむ: よーしっ、階段まで追いかけっこだ～っ☆
-(Black cut)
+(Black transition)
 (Background change)
 
 [ミニライブのブース]
@@ -79,7 +79,7 @@
 一歌: えっ、ええ……！？ ミクがこっちに……！
 一歌: うそ……ハイタッチしちゃった
 まふゆ: ふふ、よかったね
-(Black cut)
+(Black transition)
 (Background change)
 
 [AR写真撮影ブース]
@@ -107,4 +107,4 @@
 (Background change)
 (Background change)
 ルカ (N25): 『……まふゆは、相変わらずみたいね』
-(Black cut)
+(Black transition)

@@ -26,9 +26,9 @@ mmj_01_19 アイドル新鋭隊
 みのり: ミクちゃんと一緒に歌えるなんて……すごく嬉しいよ！！
 リン: よーし！　それじゃわたしは、MCで盛り上げちゃおーっと！ みんな、最高のステージにしようね！！
 ミク (MMJ): 一緒に歌おう！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000011/bg_a000011.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000011/bg_a000011.webp)
+(White transition)
 (Background change)
 (Music video: 2)
 みのり: ハァ、ハァ……。 とっても楽しかった……！
@@ -42,7 +42,7 @@ mmj_01_19 アイドル新鋭隊
 ミク (MMJ): うん。みんなの想いから生まれた歌だよ！
 遥: ふふっ。 明るくて、楽しくて――前向きになれる曲だったね。みのり！
 みのり: うんっ！！
-(Black cut)
+(Black transition)
 みのり: ミクちゃん、リンちゃん、本当にありがとう。 ミクちゃん達のおかげで、 遥ちゃんにわたし達の想いを届けられたよ！
 遥: うん。本当に……ミクも、リンも、 背中を押してくれてありがとう
 遥: いくら感謝しても、しきれないくらい。 どう、お礼を言えばいいのか……
@@ -56,7 +56,7 @@ mmj_01_19 アイドル新鋭隊
 みのり: あの……ミクちゃん、リンちゃん。 一緒に歌ったさっきのライブ、すっごく楽しかったから……！
 みのり: もしよかったら、また一緒にライブしてもらってもいいかな？
 ミク・リン: 『もちろん！』
-(White cut)
+(White transition)
 (Background change)
 
 [宮益坂]
@@ -70,4 +70,4 @@ mmj_01_19 アイドル新鋭隊
 遥: そういうところまでは、まだ考えられていないけど……
 遥: ——でも、やってみたいことがあるの
 真依: え？
-(Black cut)
+(Black transition)

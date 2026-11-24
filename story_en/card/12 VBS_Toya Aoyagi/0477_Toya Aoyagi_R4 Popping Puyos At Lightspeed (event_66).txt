@@ -20,7 +20,7 @@ Manager: The tournament will be starting soon, so you'll need to be quick!
 Akito: Our names, team name, favorite games, list of tournaments we've been in... I'm surprised at how legit this looks...
 Akito: Toya, can you handle this?
 Toya: Sure, no problem.
-(Black cut)
+(Black transition)
 Toya: That should be everything, so now...
 Akito: Hm? What's up?
 Toya: I'm not sure what to do about our team name. Do you have any good suggestions?
@@ -45,10 +45,8 @@ Toya: (Our real names...)
 Toya: Akito, do you remember when we all came up with a player name for me?
 Akito: Oh, you mean when the four of us went to that arcade together?
 Toya: Yes. That time, we...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: This is my first time hearing that you have to come up with a player name for yourself. Despite having been to the arcade many times, I honestly had no idea.
 An: It's not really your fault since you almost exclusively play the claw machines.
@@ -64,10 +62,8 @@ Toya: Yes. There's a chance that someone else has the same initials as me, so we
 Toya: ATVBS... Read as “at-bis”.
 Akito: It's really just a string of initials.
 Toya: But I think it's a cool name. I'd like to wear this name proudly as I play moving forward.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: You all helped come up with a name for me.
 Akito: So, you wanna do the same thing for our team name?
@@ -78,7 +74,7 @@ Akito: Yeah, not bad. It's definitely better than just using our initials.
 Toya: Excellent. Then, let's go with this.
 Toya: Akito, let's do our absolute best today to win as Willow & Cloud.
 Akito: Yeah...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -101,18 +97,14 @@ An: Does that mean you guys won?!
 Toya: Sadly, no... The manager gave us these as a token of his appreciation.
 An: Whoa, really?! That's so generous of him!
 Toya: Yes, I agree. He's a very nice person.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Manager: Don't mind me. I'm sure I'll get another chance in the future if I stay in this line of work. More importantly, you helped make this day absolutely unforgettable.
 Manager: To see my grandfather's store filled with customers, and to see them all smiling... I never thought such a day would ever come.
 Manager: I have all of you to thank for that, so please, take these as a small token of my appreciation.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: But you're so good at video games, Aoyagi. You guys not being able to win must mean that it was a tough tournament.
 Toya: Yes, we had some very heated battles and I had a lot of fun playing against Kusanagi and Otori, who won in the end.
@@ -162,4 +154,4 @@ Akito: Good. Never means never, okay?
 An: Aww, that's too bad.
 Akito: Don't think that I'm gonna forget about this...
 Kohane: Hehe.
-(Black cut)
+(Black transition)

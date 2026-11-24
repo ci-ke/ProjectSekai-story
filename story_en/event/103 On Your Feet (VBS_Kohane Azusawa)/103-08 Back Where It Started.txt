@@ -6,8 +6,8 @@
 
 [Airport]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000221/bg_s000221.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000221/bg_s000221.webp)
 An: There he goes...
 Kohane: Yeah...
 Kohane: I'm really glad we came to say goodbye. I feel so much better now that I've gotten everything off my chest...
@@ -17,7 +17,7 @@ Akito: Yeah, all things considered, you did a pretty good job for us.
 Toya: I agree. However, we have to make what you said a reality now.
 An: Right! So, let's do just that!
 Kohane: Yeah!
-(White cut)
+(White transition)
 (Background change)
 An: Still, we did end up cutting class...
 Toya: Right... Everyone's probably taking that English quiz right about now...
@@ -45,7 +45,7 @@ Kohane: Oh, are you sure...?
 An: Yeah. I kinda want to tell my dad what we just told Uncle Taiga.
 Toya: Now that you mention it, we haven't seen Ken in a little while since we've been meeting in SEKAI recently...
 Kohane: Yeah...! So, let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -110,36 +110,28 @@ Kohane: (It's all going to start again... Here, at Weekend Garage.)
 Kohane: (If An's dad is saying that much, I'm sure practice with him is going to be really demanding.)
 Kohane: (I might even feel scared and want to give up at times...)
 Kohane: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kohane: (Is it really okay for me to go back in there...?)
 Kohane: ...
 Kohane: No. I already made up my mind that I'd come listen to that song again!
 Kohane: So... I've got to open the door!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kohane: (I've felt scared by more than a few things along the way.)
 Kohane: (Even so...)
 Kohane: (I've been able to see and experience so many new things because I worked up the courage to open that next door.)
 Kohane: (Some being really happy things. So, despite being scared, I've always been glad I took the leap.)
 Kohane: (Which is why I think I'll be okay...)
 Kohane: (I mean, Miku and the others said so.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (VBS): You've changed so much, Kohane.
-(White cut)
+(White transition)
 Miku (VBS): Singing has become part of your identity.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (This frustration I'm feeling. It fuels me now...)
 Kohane: (It's going to propel me forward!)
@@ -153,6 +145,6 @@ Kohane: (Nothing else I do is ever going to be this fun or exciting...)
 Kohane: (I'm so glad I decided to open the door to this place that day. So unbelievably glad...)
 Kohane: (We're starting over! Right here! In the place where my heart raced when I heard An sing.)
 Kohane: Let's do our best, everyone!
-(White cut)
+(White transition)
 (Video: 03_street_ed2)
-(Black cut)
+(Black transition)

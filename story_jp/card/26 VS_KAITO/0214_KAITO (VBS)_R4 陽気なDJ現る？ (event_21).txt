@@ -14,7 +14,7 @@ KAITO: いやぁ、この辺りに来るのも久しぶりだなぁ
 KAITO: でも、誰もいないなあ。 せっかくまたみんなに会えると思ったのに……
 KAITO: ……いやいや！　メイコやミクなら、 きっとお店にいるはず！
 KAITO: ちょうど、喉も渇いてきたところだし、 何か頼もうっと
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -63,7 +63,7 @@ KAITO: というわけで、改めて……
 KAITO: ただいま、メイコ、ミク！
 ミク (VBS): うん、おかえり
 MEIKO: おかえりなさい、カイト
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -145,4 +145,4 @@ KAITO: あたたたたっ！ ごめんっ！　ごめんってー！
 ミク (VBS): ——ね？　カイト、あんな感じで基本ダメだから
 こはね: あはは……
 彰人: ほんと、すごいのかなんなのか 全然わかんねえな、あの人……
-(Black cut)
+(Black transition)

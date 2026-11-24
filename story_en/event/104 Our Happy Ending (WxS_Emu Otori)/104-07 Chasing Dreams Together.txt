@@ -22,39 +22,35 @@ Emu: They went their separate ways, but all came back together...
 Emu: Oh no...
 Emu: What do I do...?
 Emu: They won't stop...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: I'm Emu Otori! Welcome to the fantastic Wonder Stage, a place filled with lots of smiles!
 Emu: Let's put on some incredible shows together, Tsukasa!
 Tsukasa: Huh...? Wh-Whaaaaaat?
 Tsukasa: What the heck is going on?!
-(White cut)
+(White transition)
 Tsukasa: Say hello to our new stage director!
 Emu: Wow! You're the performer from yesterday! Welcome, and wonderhoy☆
 Rui: Hmm... I didn't know about this stage. It's old, but well-maintained.
 Rui: You must be the other cast member Tsukasa mentioned. I'm Rui Kamishiro. Nice to meet you.
-(White cut)
+(White transition)
 Emu: Little Robot, do you have a name?
 Robot: A name... Um...
 Rui: Come to think of it, we haven't named the robot. Could you tell them your name instead this time?
 Robot: ... Nene Kusanagi.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000026/bg_a000026.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000086/bg_s000086.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000079/bg_a000079.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000026/bg_a000026.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000086/bg_s000086.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000079/bg_a000079.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Emu: *Sob*
 Emu: *Sob*
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: The show Miku and the others put on for us today was extraordinary.
 Rui: Yes, it certainly was. Their thoughtfulness really knows no bounds.
@@ -76,7 +72,7 @@ Nene: Oh, um... I just remembered that I left my phone in the changing room...
 Tsukasa: What? Then, you need to go get it!
 Rui: Fortunately, we're still not very far from the Wonder Stage. Shall we head back together?
 Nene: O-Okay. Sorry, you guys. And thanks...
-(Black cut)
+(Black transition)
 (Background change)
 Nene: Just gimme a sec. I'll be right back.
 Tsukasa: Of course. Feel free to take your time since you're moving in the dark.
@@ -181,18 +177,14 @@ Emu: Really...?
 Shosuke: Yes, really. And can you guess who suggested that we do that...?
 Shosuke: It was Grandpa.
 Emu: ...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rakunosuke: And once what you've seen here has made you smile, you should take a look at the world around you...
 Rakunosuke: Unfortunately, unlike what you see on stage, it's not all full of smiles and happiness.
 Rakunosuke: But I'm sure what you witness will become the fuel that drives you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Oh...
 Shosuke: If you truly wish to protect this place... Go out and expand your horizons, and then return.
@@ -238,4 +230,4 @@ Tsukasa: She's right! “Sorry” isn't what we want to hear right now!
 Rui: Yes, I agree.
 Emu: Thanks, you guys!
 Emu: Thanks for letting me come with you!
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@
 こはね: ……やっぱりすごいね、東雲くん
 こはね: ねえ、その人達ってどんな相手だったの？
 彰人: ……ああ、実は——
-(Black cut)
+(Black transition)
 杏: そっか……。 昔、『Crawl Green』でそんなことがあったんだ
 冬弥: ……彰人とチームを組んですぐの頃も 厳しい態度で接してくる人達がいたが——
 冬弥: 彰人は俺と会う前からずっと、 ああいう人達としのぎを削ってきたんだな
@@ -52,36 +52,28 @@
 杏: うん！　こんなに気合いの入るクリスマスプレゼントも なかなかないよね
 彰人: ……なんだよそりゃ
 こはね: 大河さんが……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: 鍛えたら、この嬢ちゃんの歌がどうなるのか、 ちょっとばかり興味がわいた
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （大河さんがライブを見に来てくれるの、 歌を教わるようになってからは初めてだな）
 こはね: ……頑張りたいな
-(Black cut)
+(Black transition)
 大河: ……頑張ればあいつみたいになれる、か
 大河: らしくねえこと言っちまったな……。 あれじゃまるで、謙みてえじゃねえか
 大河: 俺は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ねえ、謙。大河——
 凪: 私達の夢の先は、きっと……次の世代が歩いてくれるよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 洸太郎: って彰人、お前まだトレーニングすんのかよ！？
 彰人: 当たり前だろ、メニューはまだ残ってるからな
 彰人: 体はあったまったし、次は声出しから始めるか
@@ -104,7 +96,7 @@
 彰人: ——オレは、絶対に超えてやる
 杏: 彰人ー！　早く来ないと置いてっちゃうよ！
 彰人: ……ああ、わかってる！
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -135,4 +127,4 @@ Crawl Greenオーナー: あいつ、最近はマシになったみたいじゃ�
 杏の父: 何より——いい歌を歌うヤツだ
 杏の父: （——凪、大河）
 杏の父: （オレ達の夢の先は—— 近い未来に見ることができるかもしれないぞ）
-(White cut)
+(White transition)

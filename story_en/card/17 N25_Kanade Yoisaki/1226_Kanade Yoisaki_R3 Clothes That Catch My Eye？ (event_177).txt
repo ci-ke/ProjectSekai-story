@@ -68,7 +68,7 @@ Kanade: (It's clear that the people who made all these clothes put quite a lot i
 Kanade: (And Yuki said sometimes, you don't know until you try...)
 Kanade: I'll go try this on now. I'll need a minute.
 Mizuki: Okay, we're willing to wait as long as you need!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -80,7 +80,7 @@ Mizuki: Okay, we're willing to wait as long as you need!
 Kanade: We're back...
 Mafuyu: Want me to make some tea?
 Kanade: Yes, a little break would be nice...
-(Black cut)
+(Black transition)
 Mafuyu: Here's your cup, Kanade.
 Kanade: Thank you. Let me take a sip.
 Kanade: Phew... This is nice.
@@ -90,18 +90,14 @@ Mafuyu: And... You don't usually wear things like that, after all.
 Kanade: It's true I don't have a lot of stamina, but... I didn't dislike trying on those outfits.
 Kanade: I felt like a different person, in a good way. It was a nice new experience.
 Kanade: Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Female Customer: So, thank you very much... You've helped me realize something I want to cherish about myself.
 Female Customer: I love cute things. And cute clothes...
 Female Customer: And this dress. I absolutely adore it...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I'm glad that I got to see that lady become the person that she always wanted to be.
 Mafuyu: The person that she always wanted to be...
@@ -134,4 +130,4 @@ Kanade: But each person is free to think whatever they like. I just hope that th
 Kanade: Oh, I see...
 Kanade: Once something you made leaves your hands, what happens afterwards is entirely up to the listener.
 Kanade: In that case, I guess I'll stick with these sweats after all.
-(Black cut)
+(Black transition)

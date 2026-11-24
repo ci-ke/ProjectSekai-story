@@ -13,7 +13,7 @@
 穂波: うん……。 ステージに意識を向けてくれるといいんだけど……
 穂波: ねえ、草薙さん……！
 寧々: ——うん、いいと思う。 やってみよう
-(Black cut)
+(Black transition)
 町内会役員B: ほら、みんなー！　お口にチャックは？
 子供達: なあなあ、あのアニメ見た？
 子供達: 見た見た！　すげーおもしろかったよな！！
@@ -38,8 +38,8 @@
 穂波: みんな、ワンちゃんは見つけられたかな？
 子供達: ううん。 声はするのに、どこにもいない……
 犬の声: 『ワオーン！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000413/bg_s000413.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000413/bg_s000413.webp)
 寧々: あれ、また声がした。 どこにいるんだろう……？
 子供達: あっ！　スクリーンのところ……！
 寧々: え、どこどこ？　うーん、見えないなあ……
@@ -47,7 +47,7 @@
 子供達: 後ろだってば！
 寧々: 後ろ？
 子供達: そこそこー！
-(White cut)
+(White transition)
 (Background change)
 穂波: あ！　ワンちゃんの尻尾が、スクリーンに映ってるね
 寧々: わあ、本当だ！ こんなところにいたんだね
@@ -67,16 +67,12 @@
 穂波: うん。草薙さんの演技、すごかったよ
 寧々: 演技ってほどじゃないけど……。 望月さんこそ、よく思いついたね
 寧々: 演出用の録音と影絵で、子供達の注意を引くなんて
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (Ln): 『……ライブと一緒で、本番前はいろいろ想像が 膨らむよね』
 MEIKO (Ln): 『頑張ってきた分だけ、 うまくいくか不安になっちゃったりとか』
 MEIKO (Ln): 『けど、穂波達なら、きっと大丈夫。 子供達を楽しませるのと同じくらい、自分も楽しんできて』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 穂波: ……わたし達なら、きっと大丈夫だって 言ってくれた人がいたおかげ、かな
-(Black cut)
+(Black transition)

@@ -63,7 +63,7 @@ KAITO (VBS): そうそう！ ふたりとも、楽しんできてね！
 彰人: ……なんだそりゃ
 彰人: ま、やるからには頑張るか
 杏: だね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -93,7 +93,7 @@ KAITO (VBS): そうそう！ ふたりとも、楽しんできてね！
 男子生徒B: だな！ 新生アクションチーム、ファイト・オー！！
 彰人: ……おう。オレらで仕上げるぞ
 彰人: あとは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [２時間後]
@@ -115,19 +115,15 @@ KAITO (VBS): そうそう！ ふたりとも、楽しんできてね！
 彰人: まあ……少しはな
 彰人: せっかくここまで撮ったんだ。 このままコケたくねえだろ
 彰人: それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: わたしは……みんながここまで全力でやってくれてた 映画撮影を誰かが後悔したまま終わらせたくないって思ってる
-(White cut)
+(White transition)
 寧々: だから……考えよう。 誰も後悔しないように……
 寧々: 仕方ないって妥協するんじゃなくて、 今のわたし達にできる、一番いい方法を
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……あんな言葉、聞いたらな）
 杏: ……ま、彰人の気持ちも、なんとなくわかるけど
@@ -138,4 +134,4 @@ KAITO (VBS): そうそう！ ふたりとも、楽しんできてね！
 杏: だね。 みんながいい気持ちで終われるように、頑張りたいな
 彰人: ああ。 ——このまま、クランクアップまで突っ走るぞ
 杏: うん！
-(Black cut)
+(Black transition)

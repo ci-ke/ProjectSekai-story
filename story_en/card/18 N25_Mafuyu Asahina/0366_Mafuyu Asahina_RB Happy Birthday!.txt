@@ -34,7 +34,7 @@ Ena: <At this point, Amia, you sound way more interested in celebrating it than 
 Kanade: <Hehe. Seems so.>
 (Background change)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's birthday]
@@ -48,7 +48,7 @@ Mafuyu: Hehe. You think so? That would be nice.
 Mother: Yes, it would. However, be sure to turn away any snacks or sweets and such that appear to be homemade. You know, for your own health?
 Mother: That includes video games and other things that may interfere with your studies.
 Mafuyu: Okay, I will... Thanks, Mom.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Courtyard]
@@ -63,7 +63,7 @@ Mafuyu: Thank you both very much. I'll be sure to try them later.
 Junior Archery Club Members: Asahina! These are also for you!
 Junior Archery Club Members: Please, take these too! Thank you for being such a great teacher!
 Mafuyu: Hehe. Thank you all very much. I'm not going anywhere, so let's just go one at a time, shall we?
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (So many gifts even from just them...)
 Mafuyu: ...
@@ -88,23 +88,19 @@ Ichika: R-Right...
 Ichika: I... I heard that it's your birthday today and baked these with Honami's help! Th-They're cookies!
 Mafuyu: (Oh...)
 Mafuyu: (Homemade cookies...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mother: Yes, it would. However, be sure to turn away any snacks or sweets and such that appear to be homemade. You know, for your own health?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Ichika: Um... Honami's an incredible baker and cook, so I'm sure they turned out okay!
 Mafuyu: Um, Hoshino... I'm sorry but...
 Honami: Hehe. We even made them look like Miku, so they're both delicious and adorable.
 Mafuyu: What...?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -118,18 +114,14 @@ Honami: Yes, Ichika here like Miku very much...
 Honami: And we heard that you also like listening to Miku songs, so we arrived on these...
 Ichika: I may've focused a little too much on her face and pigtails, so the rest of her may not look quite right...
 Mafuyu: (That reminds me of what she said about Miku meaning a lot to her...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: But I really became interested in music because of Hatsune Miku.
-(White cut)
+(White transition)
 Ichika: Without her, I wouldn't be in a band or even the person you're talking to right now...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: I'm sorry... Is it not to your liking?
 Mafuyu: No, that's not true at all! This just reminded me of what you said about Miku.
@@ -138,7 +130,7 @@ Ichika: Thank you...!
 Ichika: Again, Asahina, happy birthday.
 Honami: If you'll excuse us.
 Mafuyu: (So many presents...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -157,15 +149,11 @@ Mafuyu: Yes, they're from Hoshino, but I can't take them home because she made t
 Kanade: I see... But she made these for you, right? Are you sure about us having them?
 Mafuyu: I wouldn't know how they taste...
 Mafuyu: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: I want to have a better understanding.
 Kanade: Okay... In that case...
@@ -192,13 +180,13 @@ Kanade: Thank you. We'll make sure to throw you a real party then...
 Kanade: So, Mafuyu, happy birthday.
 Mafuyu: ...
 Mafuyu: Thank you, Kanade.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Courtyard]
 
 Mafuyu: (Good, I still have some time until break ends... I should get back to class and have some lunch while I can.)
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: Otori...? What are you doing hiding in a place like this?
 Emu: Huh?!
@@ -218,8 +206,8 @@ Emu: I-I'll keep working on it! I vow to make you smile and laugh next year!
 Emu: If you'll excuse me!
 Mafuyu: I still can't tell what's going through her head.
 Mafuyu: Also, I should head back to class.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000044/bg_s000044.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000044/bg_s000044.webp)
 Shizuku: Happy birthday, Asahina. It's so nice that we've been getting more chances to chat lately. I'd love to hear more about your hobbies sometime.
 Ichika: Happy birthday, Asahina. I always really appreciate it whenever you help me with class rep business. I can't thank you enough.
 Ichika: You were also the reason I was able to meet Yoisaki, so I'd like it if we could go out for some food again sometime.
@@ -231,10 +219,10 @@ Mizuki: That was a great birthday party, wasn't it, Mafuyu? I'm glad you were ab
 Mizuki: It's also been really nice to see you change little by little for the better. You can always ask me for help, so don't push yourself too hard, alright♪
 Kanade: Again, Mafuyu, happy birthday. I've been feeling this from time to time lately, but it seems like you're helping me change as well.
 Kanade: I promise to compose a song that can save you, so please, I hope you'll wait for just a little bit longer.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: Thank you for celebrating my birthday...
 Mafuyu: I still don't really know what's so fun about celebrating with others, Mizuki and everyone else included.
 Mafuyu: I mean, I don't know how I'm supposed to feel about all this...
 Mafuyu: But I'll remember that you were here to celebrate.
-(White cut)
+(White transition)

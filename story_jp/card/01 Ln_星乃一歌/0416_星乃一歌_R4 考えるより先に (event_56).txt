@@ -12,48 +12,38 @@ Gacha phrase: 何か用なら、私も聞きます
 一歌: ——よし
 一歌: （ルカのおかげで、 今なら納得のいく歌詞が書ける気がする）
 一歌: （花乃ちゃん達の心に届く歌詞が——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 葉太: 花乃がいつまでも新しい家族と向きあえないのは、 前の家族が——俺がそばにいるせいじゃないかって
 葉太: 将来のことを考えたら、新しい家族と、 もっと心を開いて話せるようになったほうがいいと思うんです
 葉太: だから……今日、 『もう会うのはやめよう』と言いました
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （お互い大事で、 想いあってるのに気持ちが伝わらないなんて……）
 一歌: （状況とか、そういうのは全然違う。 でも……）
 一歌: （想いが伝わらなくて、すれ違って、 一緒にいられないことの苦しさはわかるから……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の一歌 (一歌): ……あ、志歩！
 中学生の志歩 (志歩): ——話しかけないでって言ったでしょ
 中学生の一歌 (一歌): あ……
-(White cut)
+(White transition)
 中学生の一歌 (一歌): 穂波！　よかったら、一緒にお昼——
 中学生の穂波 (穂波): ご、ごめん……。 ……ひとりで食べたい気分だから
 中学生の一歌 (一歌): ひとりって……。 もしかして何か——
 中学生の穂波 (穂波): ……っ。……本当に、ごめん。 それじゃあ……
 中学生の一歌 (一歌): あ、穂波……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （今は一緒にバンドもやれてるし、毎日楽しいから 思いだしても、もうそんなに苦しくはないけど……）
 一歌: （あの頃は、『もし咲希がここにいてくれたら、 こんなことになってなかったのかな』なんて、 考えたりしてたな……）
 一歌: （でも、咲希だってあの頃は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 中学生の一歌 (一歌): え……。咲希、風邪をひいてたんですか？
 看護師: ええ。昨日ようやく熱が下がったところなの。 でも、まだ体力的にも精神的にもちょっと疲れが 残ってるみたいで……
@@ -75,7 +65,7 @@ Gacha phrase: 何か用なら、私も聞きます
 中学生の一歌 (一歌): 病みあがりなんだし、ほどほどにね
 中学生の咲希 (咲希): は～い♪
 中学生の一歌 (一歌): じゃあ、また……
-(Black cut)
+(Black transition)
 (Background change)
 
 [電車　車内]
@@ -84,31 +74,25 @@ Gacha phrase: 何か用なら、私も聞きます
 中学生の一歌 (一歌): はあ……。 もっと、咲希と話したかったな……
 中学生の一歌 (一歌): …………
 中学生の一歌 (一歌): ……ミクの曲、聴こうかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: そういえば、咲希に会いに行った帰りは よくミクの曲を聴いてたな
 一歌: 本当にいろんな曲があるから、 動画サイトで順番に見ていくだけでも あっという間に時間が経って……
 一歌: 何度か降りる駅とおりすぎちゃって、 乗り換えがギリギリになったりしたなあ
 一歌: ……私にはミクの曲があったから、 寂しさを乗り越えられたんだろうな
 一歌: （もし……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （もし……私達が、あのふたりの『ミク』になれたら……）
 一歌: ……さすがにそれは難しいかな
 一歌: （でもせめて、私達の曲を届けなくちゃ）
 一歌: よし、書こう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -125,7 +109,7 @@ Gacha phrase: 何か用なら、私も聞きます
 一歌: ギターと楽譜とあとは……
 一歌: あ、そうだ。 買ったミクのソフト、いつでも始められるように 机に置いておこうかな
 一歌: ……じゃあ、いってくるね、ミク
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -155,7 +139,7 @@ Gacha phrase: 何か用なら、私も聞きます
 女子高校生A: あ……ちょ、ちょっとだけ待って
 一歌: ♪————！　♪————！
 女子高校生A: …………
-(Black cut)
+(Black transition)
 一歌: ありがとうございました！
 女子高校生A: あの……
 一歌: あ……
@@ -192,4 +176,4 @@ Gacha phrase: 何か用なら、私も聞きます
 女子高校生A: えっと……。また聴きに来てもいいですか？
 一歌: …………！
 一歌: はい、ぜひ！
-(Black cut)
+(Black transition)

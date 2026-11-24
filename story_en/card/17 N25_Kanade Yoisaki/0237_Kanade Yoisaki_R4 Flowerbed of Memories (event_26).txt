@@ -10,22 +10,18 @@ Gacha phrase: Those flowerbeds. Could it be...?
 [Kanade's Room]
 
 Kanade: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: <How is it, Yuki?>
 Mafuyu: <...>
 Mafuyu: <I don't know...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: This one didn't work either...
 Kanade: No, I don't have time for that. I have to keep composing...
-(Black cut)
+(Black transition)
 Kanade: (It needs to resonate more with Mafuyu...)
 Kanade: (It needs to revolve around what she's feeling and have a melody that expresses that with each note...)
 Kanade: ...
@@ -33,13 +29,13 @@ Kanade: Oh, I forgot that I skipped lunch because it felt like too much of a bot
 Kanade's Voice (Kanade): Just wait three minutes and... Oh, right...
 Kanade: If I change the tone a little here for the melody, it might help stir up some emotions.
 Kanade: ...
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: ...
 Kanade: Hm...?
 Honami's Voice (Honami): Ms. Yoisaki, hello. It's me, Mochizuki.
 Kanade: Oh, that's right. I'll be right there...
-(Black cut)
+(Black transition)
 Kanade: Thank you for coming today.
 Honami: Of course. Let's see... So I'll be cleaning and making some food... Oh, did I catch you in the middle of a meal? 
 Kanade: Huh?
@@ -53,7 +49,7 @@ Kanade: No, I haven't felt thirsty so...
 Honami: That means you haven't eaten or had anything to drink for half a day...?!
 Honami: P-Please, sit down and relax for now! I'll be borrowing your kitchen!
 Kanade: Uh... O-Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -78,24 +74,20 @@ Honami: But another one of these friends is prone to getting sick and was even h
 Kanade: I see...
 Kanade: Every day... She wanted her friend to get better as soon as possible, huh...?
 Kanade: (That reminds me, mom really loved flowers too...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Young Kanade (Kanade): Mommy...
-(Black cut)
+(Black transition)
 (Background change)
 Young Kanade (Kanade): ... Good night, mommy...
-(White cut)
+(White transition)
 (Background change)
 Kanade: Dad...
 Kanade's Father: ...
 Kanade: I'll come back soon...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: Ms. Mochizuki, your friend that was in the hospital, how is she now...?
@@ -108,7 +100,7 @@ Kanade: Yes, that may be, but I've been enjoying them too. I'd like to set thing
 Honami: Ms. Yoisaki... Alright, I understand.
 Honami: I'll talk to my friend and ask what flowers I should bring next time!
 Kanade: Yes, I appreciate it.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -118,15 +110,11 @@ Kanade: Yes, I appreciate it.
 [Kanade's Room]
 
 Kanade: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I didn't expect Mafuyu to smile the way she did.
 Kanade: I may not have been able to save her this time but...
@@ -137,7 +125,7 @@ Kanade: I never thought that I could make someone feel that way...
 Kanade: Since I'm the one that...
 Kanade: ...
 Kanade: Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -176,4 +164,4 @@ Kanade: Thank you. I appreciate the offer but you're already doing plenty for me
 Kanade: (At first, I started using a homemaker service because grandma asked me to...)
 Kanade: But I'm glad that you ended up being the person they chose for me, Ms. Mochizuki.
 Honami: Hehe. I'm glad that I was chosen to look after your house too, Ms. Yoisaki.
-(Black cut)
+(Black transition)

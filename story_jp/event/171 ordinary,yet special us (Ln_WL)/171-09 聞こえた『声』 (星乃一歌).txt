@@ -7,15 +7,15 @@
 一歌: …………
 一歌: …………ダメだ……
 一歌: ……いいメロディー浮かばないし、 歌詞からって思ったけど、こっちも全然だな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000462/bg_s000462.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000462/bg_s000462.webp)
 一歌: ……やっと、やりたいことを見つけられたのに
 一歌: …………
 一歌: ……みんな、本当にすごいな
 一歌: 志歩はバンドでプロになって、咲希は部活のエースで 穂波は進学のための準備を始めてて
 一歌: （頑張ってるみんなは、かっこよくて——）
 一歌: （やりたいことが見つかったら、 私もあんな風になれるかもって思ったんだけどな）
-(White cut)
+(White transition)
 (Background change)
 一歌: ……ミクも、ごめんね。 全然、歌わせてあげられなくて
 ミク: ………………
@@ -23,7 +23,7 @@
 一歌: せめて、テーマが決まれば……ん？
 一歌: ……天気予報のアプリから通知が来てる。 なんだろ
 一歌: これって……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -59,7 +59,7 @@
 一歌: ……穂波、ありがとう
 一歌: じゃあ、４人で思い出が作れるように 咲希と志歩に流星群のこと話しに行こう！
 穂波: うん！
-(Black cut)
+(Black transition)
 
 [２年Ｂ組]
 
@@ -82,7 +82,7 @@
 咲希: アタシも……多分、帰りのバスの中かも
 一歌: そう、だよね……
 一歌: ……ごめん、ふたりとも！ さっきのは忘れて
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -95,18 +95,14 @@
 穂波: 特に小論文は、テーマが難しかったり、 福祉系の専門用語が出てきたりして……
 穂波: ひとつ書くだけでも時間がかかっちゃうの
 一歌: ……穂波でも、そんなに大変なんだね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ……もしかして 私が誘っていいか迷ってるの、わかった？
 穂波: ううん。わたしが、そうしたかっただけだよ
 穂波: ３年生になったら、もっと余裕なくなっちゃうと思うし 今のうちに、みんなと思い出作りたいなって思ってたの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……穂波は、ああ言ってくれたけど）
 一歌: ……あの、穂波。しし座流星群のことなんだけど……
@@ -128,7 +124,7 @@
 穂波: ……わかった
 穂波: じゃあ、月曜日にいろいろ話させてほしいな
 一歌: ……うん。楽しみにしてるね
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 一歌の部屋)
 一歌: ……しし座流星群、みんなで見たかったな
@@ -140,7 +136,7 @@
 一歌: ダメだ……。 帰ってきてから、ずっとこんなことばっかり考えて
 一歌: 曲作りも、全然進まない
 一歌: ……ミク。 こんな時、どうしたらいいんだろうね
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: ————…………
 一歌: （なんだろう……。何か、聞こえる……）
@@ -156,7 +152,7 @@
 一歌: （楽しい時も、つらい時もずっと——）
 ？？？: これからも、一歌の想いを大切にしてね
 一歌: （この『声』は——！）
-(White cut)
+(White transition)
 (Background change)
 一歌: ————ミクっ！！
 一歌: あれ……
@@ -168,19 +164,15 @@
 一歌: みんなが頑張ってる姿を見て、 私も何かしたいっていう気持ちになって
 一歌: でも、それだけじゃなくて
 一歌: 私は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: みんなを、応援したかったんだ
 一歌: 頑張ってる３人は、本当にかっこよくて—— やりたいことや夢が叶うといいなって、ずっと思ってた
@@ -191,6 +183,6 @@
 一歌: ——決めた
 一歌: この想いを、ミクに歌ってもらおう
 一歌: よし、やろう！
-(Black cut)
+(Black transition)
 (Video: link2_leoneed_ed4)
-(Black cut)
+(Black transition)

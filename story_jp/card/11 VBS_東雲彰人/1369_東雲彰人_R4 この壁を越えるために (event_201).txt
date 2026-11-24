@@ -16,15 +16,11 @@ Gacha phrase: ……わかっちゃいたが、まだ甘いな
 ミュージシャンB: ♪——————！　♪——————っ！
 彰人: ここは相変わらずだな
 彰人: （歌ってるやつらと、オーディエンスで溢れてて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……まあ、それに関しちゃ向こうも似たもんか）
 彰人: （……最近は、ずっとセカイで練習してたからな。 オーディエンスの前で歌うのは久しぶりだ）
@@ -39,7 +35,7 @@ Gacha phrase: ……わかっちゃいたが、まだ甘いな
 彰人: ♪————！　♪————！　♪————っ！！
 見物人A: うお……！　いいぞ、彰人！
 見物人B: そのままぶちかませ！
-(Black cut)
+(Black transition)
 彰人: はあ……はあ……
 彰人: （……これが今のオレの全力か）
 彰人: （オーディエンスの反応は悪くなかった）
@@ -71,7 +67,7 @@ Gacha phrase: ……わかっちゃいたが、まだ甘いな
 彰人: （まずは、この壁を越えねえことには辿り着けなさそうだ）
 彰人: （けどLasting ECHO Fesを目指すなら、 これくらいの壁でもたついてる暇はねえ）
 彰人: （必ず乗り越えてみせる……！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -97,7 +93,7 @@ Gacha phrase: ……わかっちゃいたが、まだ甘いな
 スレイド: お、すごいな、アン！
 セドリック: ああ。言葉のキレも勢いもさっきより増しているな
 彰人: （あいつ……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -120,16 +116,12 @@ KAITO (VBS): へえ、そうなんだ！　さすが彰人くん、練習熱心�
 ルカ (VBS): けど、あんまり無理はしないでね。 休む時はちゃんと休むこと！
 彰人: 別に無理してるわけじゃないんで大丈夫っすよ
 彰人: ただ、今日はなんつうか——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ♪———っ！！　♪—！　♪—！　♪———————っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……いい歌を聴いたんで
 彰人: オレも、あれくらいなりふり構わず ぶつかっていかねえとって思ったら、 まだ休む気になれなかっただけっすよ
@@ -152,4 +144,4 @@ KAITO (VBS): もちろん！　ボクでよければいくらでも！
 彰人: ……そうかよ
 KAITO (VBS): じゃあ、４人でもうちょっとだけ頑張っちゃおうか！
 彰人: はい、よろしくお願いします
-(Black cut)
+(Black transition)

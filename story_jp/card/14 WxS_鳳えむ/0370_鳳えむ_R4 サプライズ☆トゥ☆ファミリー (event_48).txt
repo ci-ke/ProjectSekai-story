@@ -7,7 +7,7 @@ Gacha phrase: ふっふっふ。だ～いせ～いこ～♪
 
 (Character: 桃井愛莉, 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [えむの部屋]
@@ -35,7 +35,7 @@ Gacha phrase: ふっふっふ。だ～いせ～いこ～♪
 えむ: あ、愛莉ちゃんセンパイ……！
 えむ: すごーい！　今あたしがケーキのことを 考えてるってなんでわかったんだろ！
 えむ: えっと……。 『愛莉ちゃんセンパイ、ありがとうございます』……
-(Black cut)
+(Black transition)
 愛莉: 『ちょうど考えてるところだったなんて、 我ながらナイスタイミングね！』
 愛莉: 『どっちのサイトのお菓子でも手伝えると思うわ。 だから思う存分 すごいケーキを考えちゃってちょうだい！』
 えむ: わあ……愛莉ちゃんセンパイ、かっこいい……！
@@ -68,26 +68,22 @@ Gacha phrase: ふっふっふ。だ～いせ～いこ～♪
 えむ: えへへっ☆ 想像するだけでわんだほーい♪
 えむ: せっかくならミクちゃん達やネネロボちゃんの お人形さんも欲しいなあ
 えむ: えっと、ケーキの形はこんな感じにして……。 ぬいぐるみさん達は中で、ミクちゃんのお人形さんは……
-(Black cut)
+(Black transition)
 えむ: ——じゃーん！　 名付けて、『わんだほい☆セカイケーキ』！
 えむ: （やりたいこと全部描いちゃった♪）
 えむ: （どこまでやれるかわからないけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （みんなに、いっぱいいっぱい喜んでほしい……！）
 えむ: 愛莉ちゃんセンパイに相談して、 できること全部がんばってみなくちゃ！
 えむ: お菓子作りも楽しみだし、 みんなに見せるのも楽しみだなぁ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,53 +98,41 @@ Gacha phrase: ふっふっふ。だ～いせ～いこ～♪
 咲希: はい！　いっちゃん達がどんな反応をしてくれるか、 今から楽しみです！
 えむ: あたしもー！ 早くみんなの驚く顔が見たいなぁ☆
 えむ: （司くん達やミクちゃん達、それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （お姉ちゃん達へのサプライズも楽しみ♪）
 愛莉: うんうん。みんな気合い、十分ね。 よーし、それじゃあ——
 愛莉: 秘密のバレンタイン同盟、いくわよー！
 咲希・えむ: 『おー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [えむの部屋]
 
 えむ: ふんふんふふーん♪
 えむ: （サプライズ、喜んでもらえてよかったぁ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: ドゥルルルルルルルル……ばーん！！
 えむ: 司くん、寧々ちゃん、類くん！ ハッピーバレンタイーンっ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: 思いだすと嬉しくなっちゃうなあ
 えむ: （着ぐるみさんも、喜んでくれてたな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: よーし！　あとは……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [鳳家　リビング]
@@ -172,7 +156,7 @@ Gacha phrase: ふっふっふ。だ～いせ～いこ～♪
 晶介: はあ。毎年毎年、飽きねえなお前ら
 慶介: そう言うな、晶介。 えむがせっかく用意してくれたのだからな
 えむ: ちょっと待っててね！ シェフさーん、おねがーい！
-(Black cut)
+(Black transition)
 えむ: ジャジャーン、これでーす！！
 えむ: 学校のセンパイと友達と一緒に作ったんだ～♪
 慶介: これを、えむが？
@@ -217,4 +201,4 @@ Gacha phrase: ふっふっふ。だ～いせ～いこ～♪
 ひなた: そうだね。じゃあ、私が撮っておいてあげる
 えむ: わーい！　ありがとう、お姉ちゃん
 えむ: （お母さん、早く帰ってこないかな～）
-(Black cut)
+(Black transition)

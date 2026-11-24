@@ -25,18 +25,14 @@
 まふゆの父: そうか……
 まふゆの父: それならいいんだ
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000324/bg_s000324.webp)
-(White cut)
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000324/bg_s000324.webp)
+(White transition)
 (Background change)
 瑞希: まふゆが、お父さんに話したい、 理解してもらえたら嬉しいって少しでも思うのなら—— 話してもいいんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……あの、ね
 まふゆの父: ん？
@@ -73,15 +69,11 @@
 まふゆの父: それは……本当なのか？
 まふゆ: ……あ……
 まふゆの父: 私は……ずっと、まふゆは医者を目指しているんだとばかり……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆの父: …………そうか
@@ -110,15 +102,11 @@
 まふゆの父: それに——
 まふゆの父: 何があってもお父さんはまふゆの味方だ
 まふゆ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆの父: ……まふゆ？
@@ -128,18 +116,14 @@
 まふゆ: ……あ……
 まふゆ: （あの時と、同じ——）
 まふゆ: （——あたたかい……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン (N25): 『お父さんには今も、その時と同じ優しさがあるんだと思う』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -163,7 +147,7 @@
 瑞希: それに……ちゃんと、受け入れてもらえたんだ
 瑞希: ……ボクも、進みたいな
 瑞希: 今度こそ——ちゃんと
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校]
@@ -174,4 +158,4 @@
 絵名: まあでも、瑞希もやる気出してるみたいだし ……今回は私もちゃんと参加しよっかな
 絵名: ……そういえば、瑞希のクラスは面白そうなことやるんだっけ
 絵名: ——そうだ、せっかくだし見に行っちゃおうっと。 ふふっ驚くだろうなー
-(Black cut)
+(Black transition)

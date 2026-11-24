@@ -17,17 +17,13 @@ Gacha phrase: 止まらなくなっちゃうね！
 みのり: …………
 みのり: （わたしも、MORE MORE JUMP！のいいところを みんなにわかってもらえるように、ちゃんとしないと……！）
 みのり: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: 今回せっかくCheerful＊Daysのみんなと 共演する機会をもらったから、 一緒にいい番組を作れたらいいなって思ってるわ
 雫: ……あの時迷惑をかけた分、頑張らなくちゃ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （雫ちゃんのためにも、絶対失敗できない……！）
 遥: ……みのり？ もしかして、緊張してる？
@@ -39,7 +35,7 @@ Gacha phrase: 止まらなくなっちゃうね！
 みのり: は、遥ちゃん……！
 みのり: えへへへ……
 雫: ふふ、さすが遥ちゃんね
-(Black cut)
+(Black transition)
 (Background change)
 
 [楽屋]
@@ -79,7 +75,7 @@ Gacha phrase: 止まらなくなっちゃうね！
 みのり: そんなにおいしいんだ……！ じゃあ、食べてみよっかな
 遥: あ、紅茶に……はちみつもあるね。 よかったら、はちみつ紅茶をいれようか？
 みのり: おおー！　それって遥ちゃんが ASRUN時代に飲んでたやつ！？　飲む飲む！
-(Black cut)
+(Black transition)
 愛莉: ——さて、そろそろ時間かしら。 みんな、支度できてる？
 雫: あ、みのりちゃん。 ほっぺにクッキーの粉がついているわ
 みのり: えっ！？　ほ、本当！？
@@ -89,7 +85,7 @@ Gacha phrase: 止まらなくなっちゃうね！
 みのり: うん……！
 みのり: （少しドキドキしてるけど……。 でも、みんなのおかげで落ち着けてる気がする）
 みのり: （ここまで来たら、わたしはわたしにできることを 精一杯がんばろう……！）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -105,10 +101,8 @@ Gacha phrase: 止まらなくなっちゃうね！
 雫: ええ、もちろんよ
 みのり: ありがとう……！
 みのり: えっと、収録中、わたしがアリサちゃんに 質問された時のことなんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: みのりちゃんはひとりだけアイドル未経験だから、 めちゃくちゃ苦労してそうだよね～
 アリサ: あ、聞いた話だと、コラボ配信とかで うっかりやらかしちゃったんだっけ？
@@ -123,10 +117,8 @@ Gacha phrase: 止まらなくなっちゃうね！
 真理奈: いやいやいや！　そんなわかりやすいダイマに 乗ったりしないんだから～！
 メンバー達: めちゃくちゃ乗りそー！
 メンバー達: ていうか、その急なツンデレキャラなに？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……あの時、何も話せなくて、 みんなにフォローしてもらったでしょ？
 みのり: だから、ああならないためには どうすればよかったのかなって考えたくて……
@@ -142,17 +134,13 @@ Gacha phrase: 止まらなくなっちゃうね！
 愛莉: じゃあ本題に入るけど……。 ひとまず、同じ質問をされた時に 答えられるようにしておく必要はありそうよね
 遥: うん。あの時の質問を思い返しながら、 みのりの言葉で答えてみてもらおうか
 みのり: わかった！　やってみる！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: みのりちゃんはひとりだけアイドル未経験だから、 めちゃくちゃ苦労してそうだよね～
 アリサ: あ、聞いた話だと、コラボ配信とかで うっかりやらかしちゃったんだっけ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （えっと……）
 雫: みのりちゃん、大丈夫よ。 ゆっくり考えてみて？
@@ -161,28 +149,20 @@ Gacha phrase: 止まらなくなっちゃうね！
 みのり: （たしかに、コラボ配信の時はちゃんと考えずに 『やれます！』って言って、振りコピに失敗しちゃって……）
 みのり: （本当に自分がみんなみたいなアイドルになれるのかって、 悩んだりもした……）
 みのり: （でも、そんな時だってみんなは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: 答え、決まったよ！
 遥: うん、聞かせて？
 みのり: わたしは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: たしかに、コラボ配信の時は気合いが空回っちゃって……。 得意ですって言った振りコピを、踊りきれませんでした
 みのり: でもその時、学んだんです 見ている人を不安にさせちゃいけない——
@@ -197,4 +177,4 @@ Gacha phrase: 止まらなくなっちゃうね！
 雫: 大丈夫よ、みのりちゃん。 最初から完璧な人なんていないわ
 雫: だから少しずつ、一緒に前に進んでいきましょ？
 みのり: うん……！
-(Black cut)
+(Black transition)

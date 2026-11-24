@@ -61,15 +61,11 @@
 杏: ♪——————————————————————～～～っ！！
 こはね: （杏ちゃんが押し上げてくれる）
 こはね: （私を高い所に、飛ばせてくれる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （RAD WEEKENDの————その向こうに！！）
 こはね: ♪——————————————————————————！！
@@ -99,32 +95,24 @@
 こはね: （……そっか。私って、こんなにわがままだったんだな）
 こはね: （——この街ごと連れて行こう）
 こはね: （最初の一歩を踏み出すのは怖いかもしれない——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （新しい世界に出会える）
 こはね: （その方がきっと——）
@@ -141,33 +129,25 @@
 謙: （超える決意）
 謙: （全て、かけがえのない大切なものだ）
 謙: （だが——あの日あの場所には、 もっと単純なもんがあった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ねえ、今日は、思いっきり楽しもうよ
 凪: それで——忘れられない日にしよう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: （あの日、もうひとつあったもんは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: （昔——週末COLでバカみたいに歌ってたオレらは、 レーベルとか、誰に届けるとか、そんな荷物はひとつもなかった）
 謙: （オレ達の音楽を、思うまま、必死で歌ってた。 ……はは、結局むき出しになりゃシンプルだ）
 謙: （オレ達はただ——これがやりてえだけだ……！！）
-(White cut)
+(White transition)
 謙・凪・大河: 『♪————～～！！　♪————～～～～！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 謙: （ただの——楽しさだ）
 謙: （嬢ちゃんの想いは、それを思い出させる。 あらゆる連中に）
@@ -211,8 +191,8 @@
 杏: ——お疲れさま、こはね
 こはね: ……うん……
 杏: ——見て、こはね。客席のほう
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
 こはね: あ……
 こはね: すごい、景色……
 彰人: …………ああ
@@ -221,10 +201,10 @@
 こはね: …………うん
 こはね: （すっごく綺麗で……）
 こはね: ドキドキする——
-(Black cut)
+(Black transition)
 (Background change)
 : 伝説の夜を超えるイベント、『RAD BLAST』を終えて。 それぞれが、次の夢へと動き出す
-(Black cut)
+(Black transition)
 (Background change)
 謙: ——もう一度、一緒にやろうぜ
 大河: …………は？
@@ -232,7 +212,7 @@
 謙: あいつらを見た街の若い連中が、 また道を走っていく
 謙: 次の世代を育てるっつうオレの役目は、これで終わりだ。 また、ただのアーティストに戻る。だから——
 謙: また歌わねえか、大河
-(Black cut)
+(Black transition)
 (Background change)
 杏: ……凪さん、私達、ここまで来たよ
 杏: これからは、凪さんの夢の先に行く
@@ -242,4 +222,4 @@
 こはね: ここから先は、任せてください
 彰人: 『世界を獲る』——。 凪さんのデカい夢、引き受けました
 冬弥: あとはゆっくりと——見守っていてください
-(Black cut)
+(Black transition)

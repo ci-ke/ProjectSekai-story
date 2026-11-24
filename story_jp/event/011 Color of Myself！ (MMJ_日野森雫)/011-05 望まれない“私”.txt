@@ -2,25 +2,22 @@
 
 (Character: 花里みのり, 桐谷遥, 日野森雫, 鏡音リン, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 遥: リアルタイムでみんなの声が 聞けるから、すごくよかったよ
-(White cut)
+(White transition)
 みのり: でも、見てくれるみんなのコメントがその場で届くと、 わたし達の気持ちが伝わった気がして、すっごく嬉しいの！
-(White cut)
+(White transition)
 (Background change)
 コメント: 『なんかイメージしてたのとキャラ違うな』 『イメージチェンジ？』
-(White cut)
+(White transition)
 コメント: 『え、これはこれでおもしろくない？』 『そういうキャラ雫ちゃんに求めてない』 『もっとしっかりしてる子だと思ってたのに』
-(White cut)
+(White transition)
 コメント: 『雫ちゃんじゃない』
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-out)
+(Flashback out)
 
 [スクランブル交差点]
 
@@ -36,20 +33,16 @@
 通行人A: 普段からあんなキラキラしてるなんてすごいよね。 ね、声かけてみない？
 雫: あ……！
 雫: （……いつもどおりに、笑ってサインができれば……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 コメント: 『雫ちゃんじゃない』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （だめ……。 きっと、今の私じゃ、がっかりさせちゃう……）
 雫: …………っ
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -60,22 +53,18 @@
 通行人達: え、なになに？
 通行人達: 日野森雫がいるんだって
 雫: （どうしよう、このまま逃げても また見つかっちゃう……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
 
 雫: どこか……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 雫: あ……
 雫: ごめんなさい——！
 (Background change)
@@ -110,7 +99,7 @@
 ルカ: やっぱり笑っている雫ちゃんのほうが、素敵だわ
 雫: あ……。 ……ありがとう、ルカちゃん
 雫: ——もしよかったら、私の話も聞いてもらえないかしら
-(Black cut)
+(Black transition)
 ルカ: ……そう、そんなことがあったのね
 雫: ええ。MORE MORE JUMP！として ファンのみんなに希望を届けたいのに、 私のせいで活動の幅が狭まってしまいそうで……
 雫: でも、私の行動で、たくさんのファンを がっかりさせてしまうのは……もう……
@@ -149,4 +138,4 @@
 雫: 今の私を、応援してくれる人……？
 ルカ: ええ、もっと周りに目を向けてみて
 ルカ: きっと見つかるはずだから
-(Black cut)
+(Black transition)

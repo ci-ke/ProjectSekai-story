@@ -17,7 +17,7 @@ Airi: (Well, I guess she does seem to be having fun. Plus, I can't pass up an op
 Airi: Then I guess I'll have to take you up on your offer. But they all look so good... I don't know which one to get.
 Shizuku: In that case, we can just get one of each? Excuse me.
 Airi: Hey, hold on! There's no way the two of us can eat that many! Oh, sorry about that! Could we have just a moment please?
-(Black cut)
+(Black transition)
 Airi: Oh, these look delicious!
 Shizuku: They sure do. Mmm... I haven't had anmitsu in quite some time. It's delicious.
 Airi: This matcha parfait is really good too. Wanna try some?
@@ -27,16 +27,12 @@ Airi: (We ended up getting a lot but it looks like we won't have any trouble fin
 Shizuku: Oh, Airi. There's something that's been bothering me for a while.
 Airi: Hm? What's that?
 Shizuku: You compared me to a swan before that one time.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Airi: Yeah, I remember... What about it?
 Shizuku: If I'm a swan, I was wondering what animal you would be. I've been thinking about it for some time, but I just can't seem to find the perfect fit.
 Airi: The perfect animal, huh? Wasn't there some fortunetelling thing that matches you to an animal?
@@ -44,7 +40,7 @@ Shizuku: Oh, there was. But I can't remember where I saw it...
 Airi: I'm sure a quick search will tell us. Now where'd my phone go?
 Airi: Oh, here it is! How about we both give it a try?
 Shizuku: Okay!
-(Black cut)
+(Black transition)
 Shizuku: Phew... That took longer than I expected!
 Airi: Seriously... How does it take you ten whole minutes to answer a few simple questions?
 Airi: Anyway, what animal did you get?
@@ -93,7 +89,7 @@ Shizuku: It says, You're today's lucky winner! Answer a few easy questions and g
 Airi: What?! W-Wait, Shizuku! That's definitely just a scam!
 Shizuku: Let's see. Do I just tap here and...?
 Airi: STOP! I just said that's a scam! Quick, get away from that site!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -136,7 +132,7 @@ Shizuku: Something we want to do as a group...?
 Shizuku: Hehe. I know what I want to do. I'd love to go to Phoenix Wonderland together.
 Shizuku: I've been wanting to spend a whole day there with everyone here.
 Airi: You just went straight for something on your personal to-do list, huh...? Well, at least you're starting to get the idea, so keep 'em coming!
-(Black cut)
+(Black transition)
 Airi: Wow, that's a lot more than I was expecting!
 Airi: This should be plenty of material to test out alongside our usual one-offs!
 Airi: We can take the most popular ones and keep running with them...
@@ -152,4 +148,4 @@ Minori: Airi, is that it for today's meeting?
 Airi: Let's see... Why don't we go ahead and decide on an order for all of these ideas?
 Airi: In other words, it'll be our program schedule. It's just as important, so let's give it some real thought!
 Minori, Haruka & Shizuku: Yeah!
-(Black cut)
+(Black transition)

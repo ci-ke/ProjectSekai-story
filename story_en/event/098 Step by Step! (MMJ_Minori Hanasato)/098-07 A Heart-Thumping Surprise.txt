@@ -32,7 +32,7 @@ Minori: Haruka...
 Saki: Okie dokie! Let's get this party started!
 Saki: Up first, we have...
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Saki: These new cakes on the menu are supposed to be really good!
 Ichika: Oh, they only serve them at night...
@@ -43,7 +43,7 @@ Saki: A rabbit, you say? It suits you rather well, Shiho.
 Shiho: W-We're all getting something different, right? It's not about what suits who...
 Haruka: Then, I'll get the one with a bear on top. You can eat the bear, Hinomori.
 Shiho: Look, you're getting the wrong idea!
-(Black cut)
+(Black transition)
 (Background change)
 Minori: Hmm... I can't get any hits...
 Shiho: To be fair, you have already... On someone else's lane...
@@ -53,7 +53,7 @@ Haruka: Um, I somehow managed to hit them all.
 Saki: Wh-Whoa...! Did you use your idol powers or something...?!
 Minori: Wait, but...! I'm an idol too!!!
 Kohane: Y-You can do it, Minori! I'm sure your next one will hit!
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: Hmm... Maybe a tad to the right... Just a tad.
 Ichika: L-Like this...?
@@ -72,7 +72,7 @@ Minori: (Hehe... Hanging out together like this is so much fun.)
 Minori: (And I couldn't be more grateful that they're taking the time to do this. I really need to thank Saki later...!)
 Minori: (After I do make the switch to go credit-based, we probably won't be able to do stuff like this as much...)
 Minori: (No, enough about that. That's exactly why I should make the most of this time!)
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Scramble Crossing)
 Minori: *Sigh* We did so much just now!
@@ -114,8 +114,8 @@ Minori: You guys...
 Shiho: Getting your homework done and stuff's gonna be pretty hard, so don't be afraid to ask for help if you think you need it.
 Kohane: If we're going to be ready to help them whenever, we'll need to take really good notes during class.
 Minori: *Gasp*
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000202/bg_s000202.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000202/bg_s000202.webp)
 Minori: Thank you so much!
 Shiho: Huh?! Minori...?!
 Minori: Thank you! Thank you! Thank you sooo much! You're all the best!
@@ -123,7 +123,7 @@ Minori: I don't think... I'll ever, ever forget this day.
 Minori: I'm gonna treasure the time we spent together today! Forever!
 Kohane: Minori...
 Shiho: Alright, settle down...
-(White cut)
+(White transition)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

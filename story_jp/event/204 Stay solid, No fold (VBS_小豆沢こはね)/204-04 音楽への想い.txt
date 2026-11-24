@@ -13,7 +13,7 @@ KAITO (VBS): 『みんな～！！ 今日の練習はどんな調子かな……
 KAITO (VBS): 『ご、ごめ～ん！　いつも練習してる時間だから、 覗きに来たんだけど……今日は違ったみたいだね』
 こはね: あ、そういえば バタバタしててちゃんと報告できていなかったですね
 こはね: 実は今日、人と会う約束をしていて——
-(Black cut)
+(Black transition)
 KAITO (VBS): 『え、大会を見たスポンサーに声をかけられた？ しかもすごい音楽プロデューサーさんなの！？』
 KAITO (VBS): 『すごいね！ それって、みんなのことをプロデュースしたいって ことなんじゃ……！』
 彰人: いや、さすがにそれはないと思いますよ。 オレ達は、アランさんのところのサポート受けてますし……
@@ -68,16 +68,12 @@ KAITO (VBS): 『いやあ、すっごく独特なサンプリングで面白か�
 ダグラス: 今日は、君達の歌に魅せられたいちファンとして。 そして……友人の父親として。いろいろなことを話せるといいな
 冬弥: ……はい
 こはね: （この前も思ったけど……すごく、丁寧に話す人だな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エレナ: あいつは、冷たい人間なんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （冷たい人、か……）
 杏: えっと……じゃあ、よければ聞かせてもらってもいいですか？
@@ -111,18 +107,14 @@ KAITO (VBS): 『いやあ、すっごく独特なサンプリングで面白か�
 ダグラス: 世界中が、素晴らしいアーティストの熱い音楽で熱狂する景色…… その瞬間を、この手で作り上げたい
 ダグラス: そのためなら、多少の無理も押し通す覚悟さ
 こはね: （世界中が、音楽で熱狂する景色。それって……）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……やり方は、違うけど）
 こはね: （DGさんが見たい景色は、私達と近いのかも……）
 こはね: （でも、それなら……）
 こはね: （エレナさん達が言ってたことは、 どういうことなんだろう……？）
-(Black cut)
+(Black transition)

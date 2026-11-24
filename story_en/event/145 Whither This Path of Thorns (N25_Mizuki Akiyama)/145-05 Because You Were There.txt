@@ -27,7 +27,7 @@ Toya: You'll have to go in to find out. Oh...
 Toya: Since you're here, Akiyama, why don't you be the guide? Solving the riddles probably won't be very interesting since you already know all the answers.
 Mizuki: Yeah, okay!
 Mizuki: Then, I'll help you all navigate our escape room♪ So, let's go visit a world of riddles!
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: It's pretty dark in here...
 Ena: Are escape rooms supposed to be this creepy?
@@ -63,7 +63,7 @@ Kanade: Then, I'll try opening it. Oh...
 Kanade: Yes, here's the next riddle.
 Mizuki: Grr! You figured it out so fast!
 Mizuki: But there's plenty more where that came from! You gotta keep solving them before time runs out!
-(Black cut)
+(Black transition)
 Mafuyu: “If △〇△ is something red and ◆×◆ represents a nice gentleman, then what comes next?”
 Mizuki: Hehe. This one's my riddle! Can you guess the answer?
 Ena: △〇△ is something red...?
@@ -71,7 +71,7 @@ Kanade: Oh... I think I know the answer.
 Mizuki & Ena: Huh?
 Kanade: You mentioned the other day that you saw a riddle like this on a quiz program. So, the red thing must be...
 Mizuki: What?! No, why'd you have to remember that?!
-(Black cut)
+(Black transition)
 Ena: “The animals which call this land home are birds, deer, bears and...?”
 Mafuyu: I think it's telling us to look at the horse that's on display over there...
 Ena: Wait, why?!
@@ -80,7 +80,7 @@ Ena: What did geography have to do with that riddle?
 Kanade: She's right. The next riddle's on the other side of this horse drawing...
 Mizuki: Nooo! You might actually solve them all!
 Ena: Seriously, what did geography have to do with that last one?!
-(Black cut)
+(Black transition)
 Mizuki: Alright, the next one is the final riddle!
 Mizuki: Toya and I worked really hard on it! So, let's see if you can solve it!
 Ena: I need to get this one right... Wait, we only have three minutes?!
@@ -129,4 +129,4 @@ Mizuki: (I can't help but smile whenever we're all together.)
 Mizuki: (In other words, whenever I'm with them, I feel...)
 Mizuki: (I want us to keep hanging out, but I also want them to know...)
 Mizuki: (So...)
-(Black cut)
+(Black transition)

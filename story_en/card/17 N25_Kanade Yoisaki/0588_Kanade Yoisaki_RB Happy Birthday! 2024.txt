@@ -45,7 +45,7 @@ Ena: <I'm afraid I'll oversleep and miss it, so I'll do that, too.>
 Mizuki: <Poor, poor me is going to be stuck working, so have extra fun for my sake.>
 (Background change)
 Kanade: <Yeah, thanks. And good luck at work, Amia.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's birthday]
@@ -60,7 +60,7 @@ Kanade: (Oh... He looks like he's sleeping really peacefully...)
 Kanade: Dad... It's my birthday today.
 Kanade: It's a little lonely not being able to celebrate it with you... But my friends said they would celebrate with me.
 Kanade: So... I'll see you later.
-(Black cut)
+(Black transition)
 (Background change)
 
 [SpoJoy Park]
@@ -93,13 +93,13 @@ Ena: Uh, I think we're...
 Ena: Uh... Okay, can I just have the hat, please...
 Staff: Alright, picture time! Everybody now! Happy ★ peace!
 Everyone: Peace!
-(Black cut)
+(Black transition)
 Kanade: That caught me off guard, but... I think the pictures they took will make for a good memory.
 Ena: That's great, Kanade. Okay, should we get to exercising?
 Ichika: Is there anything you and Kanade want to do?
 Kanade: Hm... Since we're back, I want to try something we didn't do last time.
 Minori: Then, how about that over there?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,7 +121,7 @@ Kanade: Ah...!
 Ichika: Oh... She kicked it.
 Minori: N-Nice shot...?
 Ena: Yeah, if this were soccer...
-(Black cut)
+(Black transition)
 Kanade: Huff...I finally made it back. I can't believe it rolled that far...
 Ena: Haha. Nice work out there, Kanade...
 Honami: Well then, let's refocus and have someone give us a demonstration! Hanasato, if you would.
@@ -139,7 +139,7 @@ Kanade: What...?
 Ena: I-Is that possible?
 Ichika: Hehe...
 Ichika, Honami, Kanade & Ena: Hehe. Hahaha.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Bowling Area]
@@ -169,7 +169,7 @@ Kanade: Thank you. I was finally able to reach the pins thanks to all of your ad
 Ena: Now if you can just add more momentum, shouldn't you be able to get a strike?
 Honami: I agree. You still have plenty of chances, so do your best!
 Kanade: Yeah.
-(Black cut)
+(Black transition)
 Minori: Ooh! Kanade, even your form has gotten much better!
 Ena: Don't you think this could be it?!
 Ichika: Ah, so close! The four pins on the left are still standing.
@@ -192,8 +192,8 @@ Minori: Should we go for game three? You can aim for that strike next!
 Ena: What do you think, Kanade?
 Ena: Honestly, I'm pretty tired, but... Our scores have been getting better and all, so I'll keep going if you want to.
 Kanade: Thank you. In that case, maybe I'll try pushing myself too.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000162/bg_s000162.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000162/bg_s000162.webp)
 Nene: Happy birthday, Yoisaki. Hoshino invited me to join you at SpoJoy Park, but I couldn't because of our show...
 Nene: But...I'd really like it if we could sit down to talk about music sometime. I want to know how you compose your songs, for one thing... And um, if you like, please do come see another one of our shows.
 Minori: Happy birthday, Kanade! SpoJoy Park sure was fun. I felt so moved when we high-fived during bowling!
@@ -209,10 +209,10 @@ Mafuyu: That's because you don't exercise regularly...
 Mizuki: Exactly! For your health, we need you to eat well and exercise well! Starting with eating three meals a day, maybe?
 Mafuyu: Yes, I do think it would be better to eat properly.
 Ena: I feel the same about that. We want you to be able to make lots more songs, Kanade. So take better care of yourself, okay?
-(White cut)
+(White transition)
 (Background change)
 Kanade: I felt the same thing the last time I went to SpoJoy Park, too, but I guess it's possible to have a comfortable sense of exhaustion.
 Kanade: Getting together with everyone to have some fun, and even high fiving each other...
 Kanade: I guess spending my birthday like this isn't so bad...
 Kanade: Thank you so much, everyone.
-(White cut)
+(White transition)

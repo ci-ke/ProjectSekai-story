@@ -9,17 +9,13 @@ Gacha phrase: I feel less scared when he holds my hand tight...
 
 [Kanade's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What happened that night...)
 Mafuyu: (I have to tell him next time...)
@@ -27,7 +23,7 @@ Kanade: Is something wrong...?
 Mafuyu: Oh, no. It's nothing.
 Mafuyu: I'll be done with the lyrics soon, so if you don't mind taking a look...
 Kanade: Okay, sure.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -45,7 +41,7 @@ Mafuyu: ...
 Kanade: So, would you like to make some with us...?
 Mafuyu: If everything's already been prepared, then I suppose...
 Honami: Alright, I'll put the filling in a bowl.
-(Black cut)
+(Black transition)
 Honami: Thank you for waiting. Let's start wrapping these.
 Kanade: Okay. Oh, Mafuyu, have you ever made pot stickers before?
 Mafuyu: Yes... I made some with my mom and for home ec.
@@ -71,7 +67,7 @@ Mafuyu: (But...)
 Kanade: M-Ms. Mochizuki, what do I do...? The pot sticker skin is sticking to my fingers and palms now.
 Honami: Hehe. Just a second. Whenever that happens...
 Mafuyu: (I think I'll keep doing this for a little while longer...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -129,19 +125,15 @@ Mizuki: <Wait, did you make him do all the work because you didn't want your han
 Ena: <I got my hands dirty too. Yeah, I really didn't want to, but it was fine once I got used to having a little bit of starch on my fingers.>
 (Background change)
 Kanade: Huh? Wait, really...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: Oh... The pot sticker skin's stuck to my hand again...
 Mafuyu: The starch on your fingers has become balled up.
 Honami: That's natural since you don't make these often. Here, use this washcloth.
 Kanade: Oh, thank you...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: S-So, your hands aren't supposed to get that sticky...? Come to think of it, Mafuyu, you and Ms. Mochizuki had no trouble...
 (Background change)
@@ -170,4 +162,4 @@ Mizuki: <Yeah, same here♪ See you all in a bit!>
 Mafuyu: <See you...>
 Kanade: Alright, shall we...?
 Mafuyu: Okay...
-(Black cut)
+(Black transition)

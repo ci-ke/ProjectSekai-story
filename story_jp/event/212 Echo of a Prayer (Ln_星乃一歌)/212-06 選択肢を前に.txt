@@ -35,16 +35,12 @@
 真堂: バンドと個人の仕事が重なったとしても、 クオリティを落とすことはできません
 真堂: そうでなければ……どちらかの活動が、 もう一方の足を引っ張ることになる
 一歌: ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: ねえ、一歌ちゃん。 最近……ちゃんと休めてる？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （今回は余裕があるスケジュールだったけど……）
 一歌: （もしもこれが、もっとギリギリだったら——）
@@ -59,13 +55,13 @@
 真堂: どうか、無理はしないでください
 一歌: あ……
 一歌: もう少し……ちゃんと、考えてみます
-(Black cut)
+(Black transition)
 (Background change)
 一歌: （どっちの仕事も、プロとして……）
 一歌: （全然……わかってなかったな）
 一歌: （……きちんと考えよう）
 一歌: （これから、どうしたらいいのか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -89,4 +85,4 @@
 レン (Ln): オレ達でよければ、話聞くけど
 一歌: ……うん。ありがとう
 一歌: 自分でも、少し整理したくて…… 話、聞いてもらってもいいかな？
-(Black cut)
+(Black transition)

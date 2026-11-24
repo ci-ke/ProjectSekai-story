@@ -30,15 +30,11 @@
 類: ではマックスくん、戻っておいで！
 マックス: ハッ、ハッ、ハッ……！
 彰人: ……！！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 幼い彰人 (彰人): わあっ！　く、来るな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: （クソ……）
 彰人: （マックスはオレを噛もうとしてるわけじゃねえ。 それはわかってんのに、体が……！）
 類: ……やはり、まだ難しいようだね
@@ -70,7 +66,7 @@
 彰人: っ！
 彰人: …………？
 彰人: （なんだ……？　何も起こらな——）
-(Black cut)
+(Black transition)
 (Background change)
 みのり: あ……！！
 類: ……マックスくんが、東雲くんの前に……
@@ -118,4 +114,4 @@
 彰人: ……今度こそ、お前からディスクを受け取ってみせる
 彰人: そんで……一緒に、勝つぞ！
 マックス: ワンッ！
-(Black cut)
+(Black transition)

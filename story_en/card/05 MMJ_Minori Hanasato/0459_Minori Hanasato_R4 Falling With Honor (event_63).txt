@@ -21,7 +21,7 @@ Minori: Yeah, I want another go at PenPyon! Would that be alright?
 Ena: I say why not? I'm still a bit salty over our last attempt.
 Ichika: Sure, we can make a stop before we head out.
 Minori: Thank you!! Alright, we're definitely getting it this time!
-(Black cut)
+(Black transition)
 
 [Arcade]
 
@@ -45,7 +45,7 @@ Ena: Alright, for now, once more!
 Minori: I'm gonna try my best too!
 Ichika: And we'll be here cheering you on.
 Kanade: Hehe. Okay.
-(Black cut)
+(Black transition)
 Minori: No... I still can't get it!!
 Ichika: You're both so close too...
 Ena: Oh, I got reply from my brother...! There's a part about your machine too, Minori!
@@ -74,7 +74,7 @@ Minori: It's up...! Even though it wouldn't budge at all when we tried to get it
 Minori: That was amazing! It's a lot closer to the chute now! Two more tries tops and I think we've got it!
 Kanade: Right. Let's keep this up.
 Minori: Yeah!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,7 +93,7 @@ Haruka: Wait... Th-That's...! PenPyon?!
 Minori: Yup! We got it from a claw machine at SpoJoy Park!
 Airi: SpoJoy Park...? The sports facility by the station? Hang on. Did you go there just to get this?
 Minori: Remember how I went out to exercise with Kanade? The thing is... 
-(Black cut)
+(Black transition)
 Haruka: Really? So, you went to SpoJoy Park with Hoshino and a couple others.
 Minori: Yeah! We went to the arcade and got in some exercise by rollerblading, playing bubble sumo and stuff.
 Airi: Still, I'm surprised. I didn't think Ena would be interested in exercising since she prefers to stay at home most of the time.
@@ -103,10 +103,8 @@ Minori: Yeah, I think so.
 Minori: Kanade also said that she wanted to increase her stamina so that she can keep composing music...
 Haruka: Increase her stamina to compose music?
 Minori: Yeah...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori: And we can do something less strenuous and more fun this time! Maybe something simple, like the trampoline!
 Kanade: Fun...
@@ -115,10 +113,8 @@ Minori: Really? But...
 Kanade: I appreciate the concern you're showing for me, but since I'm here, I want to increase my stamina as much as I can.
 Kanade: Because if I don't, I would've skipped working on music for nothing.
 Minori: Kanade...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: (Kanade had such a serious look on her face that time.)
 Minori: (I guess it's a testament to just how much composing music means to her...)
@@ -147,4 +143,4 @@ Minori: Yeah, of course...!
 Shizuku: That's so nice of you, Haruka.
 Shizuku: Not only did you think about how Minori would feel, you also took PenPyon's feelings into consideration.
 Airi: Hehe. Yeah.
-(Black cut)
+(Black transition)

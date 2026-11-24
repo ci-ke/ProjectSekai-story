@@ -36,7 +36,7 @@ Shizuku: Exactly...
 Shizuku: I'm sure Shii will be fine since she and her classmates seemed to have fun during the School Festival. Still...
 Airi: Then, why don't we go take a peek at how she's doing?
 Shizuku: What...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 2-B]
@@ -61,7 +61,7 @@ Airi: There's the bell! We gotta run, Shizuku!
 Shizuku: Right! Sorry, Shii!
 Shiho: Huh?! Hey, wait...!
 Shiho: *Sigh* Seriously, what was she doing with Momoi just now...?
-(Black cut)
+(Black transition)
 Shizuku: I'm sorry, Airi. I didn't mean to get caught while looking...
 Airi: To be fair, it isn't nice to eavesdrop.
 Airi: At the same time, it's natural for you to be worried about your little sister. Just make sure to explain everything later, okay?
@@ -71,7 +71,7 @@ Airi: Hehe. If I hadn't gone with you, I'm sure you wouldn't have even found her
 Shizuku: What? No, that's... Probably true...
 Airi: See?
 Shizuku & Airi: Hehe. Haha.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -84,10 +84,8 @@ Teacher: Alright, let's start choosing our committees.
 Teacher: I know work keeps you all very busy, but these committees provide a valuable opportunity for you to interact with your juniors.
 Teacher: I would like to see you all do that during your third and final year here.
 Shizuku: (What should I do...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: Wait, Airi, you're not going to be on any committees?
 Airi: Yeah. I'm thinking that I shouldn't if I don't have to.
@@ -100,10 +98,8 @@ Minori: Yeah, but I plan on having the other committee members fill in for me wh
 Haruka: The teacher even said to not cause your fellow committee members too much trouble when you went over to ask about this.
 Shizuku: Oh, I see. You're showing so much initiative, Minori.
 Minori: Hehe.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: (Being on the cleanup committee had been a lot of fun. If possible, I'd like to at least continue being a part of some committee.)
 Shizuku: (I just hope that I can make the same arrangement as Minori and not cause the other members too much trouble...)
@@ -111,7 +107,7 @@ Shizuku: (The library committee... No, that involves lending out books during lu
 Shizuku: (I should be able to make the cleanup committee work since I somehow managed last year...)
 Shizuku: (But this could also be my chance to be on a different committee...)
 Shizuku: Um, excuse me... I have a question.
-(Black cut)
+(Black transition)
 (Background change)
 
 [After school]
@@ -127,10 +123,8 @@ Minori: Yeah!
 Minori: Anyone who's not feeling well is gonna immediately feel better after you rub their back and tell them that they're gonna be okay!
 Airi: Hmm... You sure about that...?
 Minori: I'm certain! I mean, just think about it!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate: I'm sorry... I don't feel so good...
 Teacher: Oh dear. Would any health committee members mind taking their classmate over to see the nurse?
@@ -140,10 +134,8 @@ Classmate: I'm okay for now...
 Classmate: Oh...
 Shizuku: I'll take you to the nurse. Can you stand? It's okay, take your time.
 Classmate: O-Okay...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: Right?! See what I mean?!
 Airi: Yeah.
@@ -151,4 +143,4 @@ Airi: But people who aren't used to being pampered by someone so beautiful might
 Haruka: P-Pass out...?
 Shizuku: I'm not sure about that...
 Shizuku: But as a member of the health committee, I don't mind staying with a person for as long as they need if it means them feeling better in the end.
-(Black cut)
+(Black transition)

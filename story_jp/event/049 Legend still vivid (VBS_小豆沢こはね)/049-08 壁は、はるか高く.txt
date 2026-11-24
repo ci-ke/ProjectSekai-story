@@ -2,9 +2,9 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, 鏡音レン, MEIKO)
 
-(Black cut)
+(Black transition)
 凪: 『みんな、今日はありがとう——！』
-(White cut)
+(White transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -52,7 +52,7 @@
 こはね: 青柳くん、東雲くん……
 こはね: ……うん！
 こはね: （私達は——超えるんだ。 RAD WEEKENDを！！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -83,7 +83,7 @@ MEIKO: ……どういうこと？
 ミク (VBS): （きっとRAD WEEKENDにも、 たくさんの想いがある）
 ミク (VBS): （あれを超えるにはきっと—— その想いすら超える必要がある。そんな気がする）
 ミク (VBS): （……一体あれには、どんな想いがあったんだろう？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -91,16 +91,12 @@ MEIKO: ……どういうこと？
 こはね: （イメージ……。 景色をイメージしてみる）
 こはね: （実際に見たライブハウスの広さ……。 映像で見た、いっぱいのお客さん……）
 こはね: （それから——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あのイメージで……！）
 こはね: ♪————————！！
@@ -111,7 +107,7 @@ MEIKO: ……どういうこと？
 こはね: やっぱり、会場の景色と映像で見たことを イメージしながら歌ったからかな？
 冬弥: 景色？ 景色とはどういうことだ？
 こはね: あ、えっと、大河さんとの練習で——
-(Black cut)
+(Black transition)
 杏: ——そっか。そんな練習してたんだ
 杏: ふふっ……。 本当、負けてられないな
 彰人: ああ。そうだな
@@ -121,4 +117,4 @@ MEIKO: ……どういうこと？
 杏: 私達にも、おじさんとの練習のこと 教えてもらおうと思って！　いい？
 こはね: あ、うん！
 こはね: 大河さんと練習しててわかったんだけどね——
-(White cut)
+(White transition)

@@ -29,7 +29,7 @@ Minori: Let's check the classroom first, then—hm?
 Minori: What's this? A notification from my news app?
 Minori: What?! Momoi, this is terrible! Look!
 Airi: Hm?
-(Black cut)
+(Black transition)
 (Background change)
 Classmate: That's it for classroom duty today.
 Haruka: Okay. See you tomorrow.
@@ -41,7 +41,7 @@ Haruka: You look flustered, too. What happened?
 Minori: I-I just heard the news...
 Haruka: !!
 Breaking News:: <We have just learned that Shizuku Hinomori, lead of the popular group known as Cheerful*Days, has withdrawn from the group and left her agency.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Courtyard]
@@ -89,4 +89,4 @@ Airi: I can't just stand by and watch this happen!!
 Minori: M-Momoi! Where are you going?!
 Haruka: I'll bet she went to the Cheerful*Days theater.
 Minori: What?!
-(Black cut)
+(Black transition)

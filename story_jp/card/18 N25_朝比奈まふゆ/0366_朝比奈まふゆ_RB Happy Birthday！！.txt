@@ -34,7 +34,7 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 奏: 『ふふ、そうだね』
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの誕生日　当日]
@@ -48,7 +48,7 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 母親: そうね。でもいらないものはもらう必要ないし、 手作りのお菓子みたいな、 衛生的に心配な物はちゃんと断るのよ？
 母親: ないとは思うけど、ゲームとか勉強の邪魔になる物も 無理して受け取る必要はないからね
 まふゆ: ……うん。そうするね。 ありがとう、お母さん
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　中庭]
@@ -63,7 +63,7 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 弓道部の後輩達: 先輩！　私のも受け取ってください！
 弓道部の後輩達: あ、私のも！　いつもお世話になってるお礼です！
 まふゆ: ふふ。みんなありがとう。 ちゃんと順番にもらうから、慌てないで
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （あの子達からもらった分だけでも、 結構かさばっちゃったな……）
 まふゆ: …………
@@ -88,23 +88,19 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 一歌: あの、今日が先輩のお誕生日って聞いて、 穂波に協力してもらって、作ってきました！ ク、クッキーです！
 まふゆ: （あ……）
 まふゆ: （手作りの、クッキー……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 母親: いらないものはもらう必要ないし、 手作りのお菓子みたいな、 衛生的に心配な物はちゃんと断るのよ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 一歌: えっと……穂波が料理とかお菓子作りが上手なので、 味は大丈夫だと思います！
 まふゆ: ……あの、星乃さん。 ごめんなさ——
 穂波: ふふ。実はそのクッキー、全部ミクちゃんの形になっていて 見た目もとっても可愛いんですよ
 まふゆ: ……え？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -118,18 +114,14 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 穂波: 先輩もミクちゃんの曲を聴くことがあるって知って、 じゃあこれしかないって——
 一歌: えっと、ツインテールとか顔を ちょっと意識して作ったっていうだけなので、 輪郭しか似てないですけど……
 まふゆ: （そういえば、ミクに思い入れがあるっていう話、 前に聞いたな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 音楽にはまった一番のきっかけは、 初音ミクなんです
-(White cut)
+(White transition)
 一歌: ミク達がいなかったら、バンドもやってなかったし、 今の自分もいなかっただろうな……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: あの……やっぱり、ご迷惑でしたか？
 まふゆ: ううん。そんなことないよ！ 前に話してくれたミクの話を思いだしてたの
@@ -138,7 +130,7 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 一歌: 朝比奈先輩、これからもよろしくお願いします
 穂波: 失礼します
 まふゆ: （……結局、もらっちゃったな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -157,15 +149,11 @@ Gacha phrase: 祝ってくれたことだけは、覚えておくね
 奏: そうなんだ……。 でも、星乃さんがまふゆのために作ったものだし、 わたしまでもらっちゃっていいのかな……
 まふゆ: 私じゃ、味がわからない
 まふゆ: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: どういう感じなのか、知りたいから
 奏: そっか……。 そういうことなら……
@@ -192,13 +180,13 @@ MEIKO: その言いかたはどうなの……
 奏: まふゆ、誕生日おめでとう
 まふゆ: …………
 まふゆ: ありがとう、奏
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　中庭]
 
 まふゆ: （昼休みの時間は……、よかったまだある。 教室に戻ったら、少しご飯も食べておこうかな）
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ——鳳さん。 そんなところに隠れてどうしたの？
 えむ: はっ！
@@ -218,8 +206,8 @@ MEIKO: その言いかたはどうなの……
 えむ: 押忍！
 まふゆ: あの子、やっぱりよくわからないな
 まふゆ: 教室に戻ろう
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000044/bg_s000044.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000044/bg_s000044.webp)
 雫: 朝比奈さん、お誕生日おめでとう。 最近、前よりおしゃべりできる機会が増えてる気がして、 すごく嬉しいわ。あ、よかったら趣味のお話とかもしたいわ
 一歌: 朝比奈先輩、誕生日おめでとうございます。 学級委員会ではいつも気にかけてくれて、 フォローもしてくれて、本当にありがとうございます
 一歌: 先輩のおかげで宵崎さんとも知りあえましたし、 また４人でご飯食べながら話をさせてもらえたら嬉しいです
@@ -231,10 +219,10 @@ MEIKO: その言いかたはどうなの……
 瑞希: ボクも、まふゆが変わってきてるのすごく嬉しいからさ、 いい変化をしていけるようにボクも協力するよ。 もちろん、まふゆに無理がない範囲でね♪
 奏: まふゆ、改めてになるけど、誕生日おめでとう。 最近たまに思うんだけど、まふゆのおかげで、 わたしもなんだか変われてる気がする
 奏: いつかきっと、まふゆを救える曲を作るよ。 だからもう少し、待っててね
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ……お祝いしてくれて、ありがとう
 まふゆ: 瑞希達もそうだけど、 他人を祝って何が楽しいんだろう
 まふゆ: 私じゃ、どう感じたらいいのかわからないけど……
 まふゆ: 祝ってくれたことだけは、覚えておくね
-(White cut)
+(White transition)

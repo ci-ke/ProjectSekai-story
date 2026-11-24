@@ -3,7 +3,7 @@
 (Character: Kohane Azusawa, An Shiraishi)
 
 (Video: link2_street_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Live House]
@@ -13,7 +13,7 @@ An: ♪——————...!!
 Audience Member A: An's giving another great performance!
 Audience Member B: Yeah! She stands head and shoulders above everyone else her age.
 Audience Member B: At the same time, I feel like she's sort of lost her step.
-(Black cut)
+(Black transition)
 (Background change)
 
 [After the event]
@@ -25,10 +25,8 @@ An: (This is bad.)
 An: (It still felt like I couldn't sing with everything I had.)
 An: (This has been happening a lot recently. I keep singing and singing, but feel like I'm missing something.)
 An: (And I know why. But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: I'm really, really sorry, An...!
 An: It's okay, Kohane. You don't need to apologize...!
@@ -61,33 +59,27 @@ Kohane: I want you to make your dream come true.
 Kohane: Because I really love the way you sing.
 Kohane: I genuinely believe that you have what it takes to surpass that legendary event.
 An: Kohane...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000430/bg_s000430.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000430/bg_s000430.webp)
 An: Thanks, I will.
 An: I'll make it happen, for sure.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (I haven't seen Kohane since then...)
 An: (I've even stopped sending her messages.)
 An: (It's too selfish of me to keep hoping that she'll come back around.)
 An: (It's my fault for dragging her into this mess. She wouldn't have gotten hurt if I hadn't asked her to sing with me.)
 An: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Singing with her was...really fun.
 An: What am I doing? I shouldn't be acting all mopey after a show.
 An: I already apologized to her about making her perform on stage like that, so there's nothing more I can do to change things.
 An: I made a promise to Kohane. I said that I'm gonna make my dream come true.
 An: I have to keep moving forward.
-(Black cut)
+(Black transition)

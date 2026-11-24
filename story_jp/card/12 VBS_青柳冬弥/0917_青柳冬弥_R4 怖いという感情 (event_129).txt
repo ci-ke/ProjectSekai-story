@@ -49,7 +49,7 @@ Gacha phrase: だから俺も、気持ちを押し隠した
 洸太郎: すげえよ！ よっしゃ、オレもあとに続くからな……！
 洸太郎: ……小豆沢、オレにもおすすめ教えてくれ！
 こはね: うん。えっと、三田さんはイチゴが好きだから——
-(Black cut)
+(Black transition)
 冬弥: ……うん、とても美味しい
 冬弥: 甘さも控えめだし、 コーヒーの芳醇な香りとイチゴの味わいがよく合うな
 洸太郎: イチゴもすげえフレッシュでうめえ～！！ こんなうまいもん教えてくれてありがとな、小豆沢！
@@ -58,7 +58,7 @@ Gacha phrase: だから俺も、気持ちを押し隠した
 こはね: ……ふふっ。 ふたりに喜んでもらえてよかったな
 こはね: ——あ、でも、そろそろ休憩時間終わっちゃうね
 冬弥: 本当だな。 それじゃあ残りは、みんなのところに戻ってから飲むとしよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -80,7 +80,7 @@ Gacha phrase: だから俺も、気持ちを押し隠した
 こはね: 頑張ってね、青柳くん！　三田さん！
 冬弥: ああ！
 彰人: ……そんな張り切ることか？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -96,7 +96,7 @@ Gacha phrase: だから俺も、気持ちを押し隠した
 冬弥: （——ふたりが戦ってから、 街中が俺達の話題で持ちきりだな……）
 冬弥: （それに——どこか、期待と緊張感の混じった熱さを感じる）
 冬弥: （あの日、街についた火は 明らかに大きくなっている……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -127,36 +127,28 @@ Gacha phrase: だから俺も、気持ちを押し隠した
 冬弥: （……よかった。 白石が前に進むことができて）
 冬弥: （——もしかすると……）
 冬弥: （今、俺はようやく、 あの時の借りを少し返せたのかもしれないな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: 彰人とやってる時だけはよくわかるよ。 すっごく楽しんでるって
-(White cut)
+(White transition)
 こはね: 青柳くんは……本当はどうしたいの……？
 冬弥: ……………………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （あの時、ふたりが俺の意思を 確認しに来てくれたからこそ……）
 冬弥: （——俺は彰人と、本当の相棒になることができたんだ）
 冬弥: （俺達は、白石と小豆沢に厳しくあたっていたというのに…… それでもふたりは、俺達の心配をしてくれた）
 冬弥: （そのことは、感謝してもし足りない）
 冬弥: （それを、少しは返せたようでよかった。 何より——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 こはね: 今、少しずつだけど、杏ちゃんと 夢に向かってがんばれてて、とっても嬉しいんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……あの時、とてもまぶしく感じた、 お互いを信じ合い、まっすぐに進むふたりの関係を——）
 冬弥: （より深める手伝いができて、本当によかった）
@@ -165,4 +157,4 @@ Gacha phrase: だから俺も、気持ちを押し隠した
 杏: ふふ、早く練習したくてさ！ ね、冬弥
 冬弥: ——ああ
 冬弥: それじゃあ、始めよう
-(Black cut)
+(Black transition)

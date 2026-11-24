@@ -9,17 +9,13 @@
 えむ: 次は最後のシーンだよね。 えっと……
 えむ: ……『それから４人は、ずうっと仲良くショーを続けましたとさ』
 えむ: ずうっと仲良く、ショーを…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: ……よし！ お前達の気持ちはよくわかった！
 司: ならば、ワンダーランズ×ショウタイム、続投だ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……あの時は、すっごく嬉しかったなあ）
 えむ: （これからみんなで、いっぱいいっぱいショーができるって—— そう思ったら、胸がワクワクルンルンして……）
@@ -44,31 +40,25 @@
 えむ: えっ？
 ひなた: ちょっとだけ、しょんぼりしてるように見えるなって思って
 えむ: そ、そうかなあ？ あたし、全然——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………
 えむ: ……うん。 ちょっぴり、しょんぼりしてるかも
 えむ: ——お姉ちゃん、ちょっとお話してもいいかな？
 ひなた: うん。聞かせてほしいな
-(Black cut)
+(Black transition)
 ひなた: そっか……みんながフリーランスに……
 えむ: うん……
 ひなた: …………えむは、本当にいいの？ みんなと一緒に行かなくて
 えむ: …………うん
 えむ: あたし、やっぱり忘れられないんだ
 えむ: おじいちゃんと一緒に、 いっぱいいっぱいショーを見たこと——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [十数年前]
@@ -76,10 +66,10 @@
 幼いえむ (えむ): ん～。 おじいちゃーん、まっくらでなんにもみえないよ～
 楽之介: ふっふっふ、もう少しだぞ～。 ……よし！
 楽之介: それじゃあ目隠しをはずすぞ！ ３、２、１——
-(Black cut)
+(Black transition)
 (Background change)
 幼いえむ (えむ): わっ！　まぶしいよ～！
-(White cut)
+(White transition)
 (Background change)
 幼いえむ (えむ): ……ほえ？
 幼いえむ (えむ): ここ、どこ？　おじいちゃん
@@ -94,7 +84,7 @@
 楽之介: おっと、ちびっこのみんながよく見えるように、 おじいちゃんは少し頭を下げておこうかね
 楽之介: ——さあえむ、ステージを見てごらん
 楽之介: 今から、夢のような時間が始まるぞ！
-(Black cut)
+(Black transition)
 幼いえむ (えむ): わ～……！！
 クマのポポ: 『はあ……どうしてボクが遊びに行くと、 森のみんなはどっかに行っちゃうんだろう。 やっぱり、ボクの姿がおっかないからかなあ』
 クマのポポ: 『……怖がらせちゃうかもしれないけど、 でもやっぱり、みんなと友達になりたいな』
@@ -102,13 +92,13 @@
 幼いえむ (えむ): あっちだよ～～！
 子供達: あっちーー！
 楽之介: そうだ！　あっちだぞあっち！ うちの孫も言ってるぞ～！
-(Black cut)
+(Black transition)
 ウサギのララ: 『ああ怖い！ あんなに大きなクマがウロウロしてたら、わたし達ウサギは 森をお散歩することもできないよ！』
 幼いえむ (えむ): そんなことないよー！ クマさんはやさしいもん！
-(Black cut)
+(Black transition)
 リスのビビ: 『ねえねえ、もしかしてあのクマ、 ぼく達が思ってるより、悪いやつじゃないんじゃないかな？ ちょーっと見た目がおっかないだけでさ』
 幼いえむ (えむ): そうだよ！ クマさんは、みーんなとなかよししたいって思ってるんだよ！
-(Black cut)
+(Black transition)
 リスのビビ: 『あ……！ あのクマが、倒れそうな木を支えてくれてる！ ぼく達の家がつぶれないように、守ってくれてるんだ！』
 森の動物達: 『クマを助けよう！ 今行くぞー！！』
 幼いえむ (えむ): ……！！ おじいちゃん！　クマさん、おともだちできそうだよ！
@@ -118,20 +108,16 @@
 楽之介: しかし……せっかくお友達ができたんだ。 最後はやはり、笑顔でいこうじゃないか
 ステージキャスト: 『それじゃあ、最後はみんなで歌を歌おう～！』
 幼いえむ・楽之介: 『はーい！！』
-(White cut)
-
-(Memory cut-out)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000222/bg_s000222.webp)
+(White transition)
+(Flashback out)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000222/bg_s000222.webp)
 幼いえむ (えむ): ……えへへっ♪ ショーってすっごくたのしいね、おじいちゃん！
 楽之介: そうだろうそうだろう！
 楽之介: ——このステージはね、 ショーのたびに、いろいろな世界になるんだ
 楽之介: ジャングルの世界になったり、雲の上の世界になったり、 原始人のいる世界になったり、宇宙人のいる世界になったり……
 楽之介: どんな世界にだってなれる、ワンダーランドなんだよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼いえむ (えむ): わんだーらんど……
 楽之介: えむも、笑顔になりたい時は、ここにおいで。 きっと素敵な世界に連れていってくれるはずだよ
@@ -139,10 +125,8 @@
 楽之介: その世界は、ステージの上の世界のように 美しいものばかりではないだろうけれど——
 楽之介: きっと、そこで見たものは、えむの力になるからね
 幼いえむ (えむ): ——うんっ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……おじいちゃんが教えてくれたとおり、 ワンダーステージは、あたしのことをいっぱい笑顔にしてくれた
 えむ: それにあたしも、 あそこでみんなが笑ってくれるのが、すっごく嬉しくて……
@@ -157,9 +141,9 @@
 えむ: ……あたし、歯みがきしてくるね！
 えむ: 明日も練習あるし……がんばらなきゃだから！ いってきまーす！
 ひなた: …………
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 晶介の声: ……えむは、どんな様子だった？
 ひなた: ……大丈夫って言いながら……泣いてた
@@ -168,16 +152,12 @@
 ひなた: ……何か、考えはあるの？
 ひなた: えむとあの子達が選んだことなら、 仕方がないことなのかもしれないけど、でも……
 ひなた: あの子達には……笑っててほしいよ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 慶介: ……そうだな
 慶介: ならば、俺達は——
-(Black cut)
+(Black transition)

@@ -22,13 +22,13 @@ KAITO (VBS): 寂しがってる女の子のためだっていっても…… そ
 リン (VBS): うんうん！　わたしもびっくりしちゃった！
 リン (VBS): けど……同じくらい、ほっとしたかも
 冬弥: ほっとした……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000525/bg_s000525.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000525/bg_s000525.webp)
 リン (VBS): あの子の話を聞いたとき、ちょっと想像しちゃったんだ。 『大好きなイベントに、みんなが来てくれなかったら』って
 リン (VBS): そしたら、わたしも胸がぎゅっとしちゃって…… なんとかできないかなあ、って思ってたの
 リン (VBS): だから——ありがとう。 冬弥くん！
 リン (VBS): 大変かもしれないけど、わたしも応援してるからね！
-(White cut)
+(White transition)
 (Background change)
 冬弥: ——ああ。それは心強いな
 杏: じゃあ、私達も当日は応援しに行こっか！
@@ -52,7 +52,7 @@ KAITO (VBS): 彰人くん、絶対そういうの得意だと思うんだけど�
 こはね: うん！
 リン (VBS): ——えへへ。なんだか、すっごくご利益ありそうだね！
 冬弥: そうだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [モアモアハウス]
@@ -79,4 +79,4 @@ KAITO (VBS): 彰人くん、絶対そういうの得意だと思うんだけど�
 みのり: うんっ！
 みのり: （みんなが手伝ってくれるんだし、わたしも頑張らなきゃ）
 みのり: （あの子が、笑顔になれるように！）
-(Black cut)
+(Black transition)

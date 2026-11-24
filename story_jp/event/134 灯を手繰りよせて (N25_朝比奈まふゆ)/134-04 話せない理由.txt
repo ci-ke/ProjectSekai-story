@@ -12,15 +12,11 @@
 まふゆ: …………
 リン (N25): 『……もしかして、嫌な夢とか見てたの？』
 まふゆ: 嫌な……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: ……そう、かもしれない
@@ -44,7 +40,7 @@
 まふゆ: …………
 まふゆ: （あの日、お母さんに、私の気持ちを否定されて…… わかってもらえなかった）
 まふゆ: （……もし、お父さんにまで、否定されたら……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -78,7 +74,7 @@
 瑞希: もしかして……まふゆのこと？ 今日、具合悪いって休んでたみたいだし
 ミク (N25): あ……
 ミク (N25): ……うん、実は——
-(Black cut)
+(Black transition)
 瑞希: ……そっか。まふゆが……
 ミク (N25): ……うん……
 瑞希: …………
@@ -100,17 +96,13 @@
 瑞希: そう思うと、怖くて……動けなくなるんだ
 リン (N25): …………
 瑞希: （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……受け入れてくれる人がいると、すごく安心するんだよね）
 瑞希: （まふゆにも、そういう味方ができたら…… 今より、楽になるかもしれない）
 瑞希: ……それなら——
-(Black cut)
+(Black transition)

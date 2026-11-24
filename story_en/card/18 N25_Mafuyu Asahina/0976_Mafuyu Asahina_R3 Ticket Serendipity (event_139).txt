@@ -35,15 +35,13 @@ Kanade: Is something the matter, Mafuyu?
 Kanade: Oh, are all these different sounds bothering you...?
 Mafuyu: No, that's not a problem.
 Mafuyu: (This all reminds me of...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: I'm sorry, Mom...
 Mafuyu: I'll give up on music...
 Mafuyu's Mother: That means you don't need this synthesizer anymore, right? I'll hold onto it for now.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: <My dad brought it back over for me today.>
 (Background change)
@@ -52,10 +50,8 @@ Mizuki: <That's great news...!>
 Ena: <Now you can go back to writing lyrics and mixing songs without having to borrow K's.>
 (Background change)
 Mafuyu: <I can...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What is this feeling that's stirring within my chest?)
 Mafuyu: I'm not sure, but... I don't think they're bothering me.
@@ -74,12 +70,12 @@ Mafuyu: (This is so strange...)
 Mafuyu: (Playing an instrument like this really puts me at ease.)
 Attendees: Hey, someone's playing the piano.
 Attendees: Such a beautiful song... I wonder what it's called?
-(Black cut)
+(Black transition)
 Kanade: Phew... I wasn't sure I'd be able to play it properly, since it's been so long...
 Kanade: Huh?! Where did all these people come from?
 Girl: You two were really good!
 Mafuyu: Hehe. Thank you.
-(Black cut)
+(Black transition)
 Kanade: That was a surprise... I didn't think people would start gathering around us.
 Mafuyu: ...
 Mafuyu: Kanade...
@@ -88,7 +84,7 @@ Mafuyu: Thank you... For inviting me to play.
 Kanade: You're welcome.
 Kanade: And the concert will be starting soon, so why don't we go line up for it?
 Mafuyu: Okay.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -155,7 +151,7 @@ Kanade: <But we didn't end up using them.>
 (Background change)
 Ena: <Wait, why? Were neither of you hungry?>
 Kanade: <So, after the concert, we met this boy who really liked to play the trumpet...>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: <So he couldn't make it sound good, huh...>
 Ena: <They do say all wind instruments, not just trumpets, can be really hard to play unless you know the right tricks.>
@@ -182,7 +178,7 @@ Mizuki: <Whenever I go back to school after a while away, he's always there to t
 Mizuki: <He even tells me about the things the teachers say are gonna be on upcoming tests, which has been super helpful.>
 (Background change)
 Ena: <Aren't you relying on him a little too much, Amia?>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <Man, a lot really did happen! Thanks for telling us, you two! That was really fun♪>
 (Background change)
@@ -201,4 +197,4 @@ Mafuyu: <...>
 Mafuyu: <Okay... I'll try to tell him the next chance I get...>
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

@@ -9,10 +9,8 @@
 ルカ: （でも、触れる前に急に光りだした気がするわ）
 ルカ: （あれはもしかして……、 普通の想いの欠片とは少し違うのかしら）
 ルカ: （……わからないけれど、 少し辺りを調べてみましょう）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数時間前]
@@ -64,27 +62,25 @@ KAITO: ……たしかにそう言われると……
 リン: あ、いいねっ！　サッキーナイスアイディアっ☆
 ミク (Ln): ……うん！ じゃあ、やろう！
 MEIKO: よーし、それじゃいくよ！　 みんな準備はいい？
-(Black cut)
+(Black transition)
 一歌: それじゃあ、そろそろ私達は帰るね
 咲希: お花見する日が決まったら、連絡するねー！
 ミク (Ln): うん、ありがとう！ またね！
 リン: 待ってるよ～っ♪
 ルカ: （桜、か……。 今まであまり気にしてこなかったけれど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: でしょ？　だからアタシも 『同じセカイで見たい』って思ったんだけど……
-(White cut)
+(White transition)
 (Background change)
 ルカ: （——あの子達の想いに応えるためにも、 できるだけのことはしたいわ）
 ルカ: （もうちょっとだけ、探してみましょう）
-(Black cut)
+(Black transition)
 (Background change)
 ルカ: ……見当たらないわね
 ルカ: 校門にも校舎の裏にも、それらしい木はないし、 あとは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [屋上]
@@ -94,11 +90,9 @@ MEIKO: よーし、それじゃいくよ！　 みんな準備はいい？
 ルカ: 咲希達に喜んでもらえたらって思ったけれど……、 仕方ないわね
 ルカ: ……？　あそこにあるのは……
 ルカ: 想いの欠片……？ あ……！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 (Place: ？？？)
 ルカ: …………
 ルカ: （……どうやらここは、ずっと原っぱが続いているようね）
@@ -106,4 +100,4 @@ MEIKO: よーし、それじゃいくよ！　 みんな準備はいい？
 ルカ: （桜の花びらが散っているようだけれど…… あれは桜ではないみたい）
 ルカ: （でも、もしここが想いの欠片から 生まれたセカイなのだとしたら……）
 ルカ: （——近づいてみましょう）
-(Black cut)
+(Black transition)

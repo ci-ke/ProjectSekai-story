@@ -23,7 +23,7 @@
 通行人A: 『あれ、誰だろ？』
 通行人B: 『さあ？　でも……』
 通行人B: 『なんか、熱くていいな』
-(Black cut)
+(Black transition)
 彰人: ……っ、はあ……はあ……
 社長: お疲れ様、アキト
 彰人: あ……
@@ -37,20 +37,16 @@
 彰人: なんか、うまく噛み合ってねえっていうか……
 彰人: 全力で歌ってるつもりでも、 なんかが引っ掛かってる感じがして
 彰人: （この感じ、前もどこかで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏:  英語だと、やっぱり感情を うまく乗せきれてない感じがしたし——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……そうか）
 彰人: ——すみません。もう１回、歌わせてもらえますか
-(Black cut)
+(Black transition)
 彰人: （…………やっぱりそうだ。 英語で歌ってると、微妙に“引っかかる”）
 彰人: ♪————！　♪————！！
 彰人: （アメリカで、他のチームの歌を聴いてわかった）
@@ -58,7 +54,7 @@
 彰人: （けど、そっちを意識しすぎると…… 今度は音だけが上滑りする）
 彰人: ♪——————————！！
 社長: …………
-(Black cut)
+(Black transition)
 彰人: ……っ、はあ……
 彰人: （——駄目だ。あれから何回もやってるが……）
 彰人: （考えすぎて、歌が硬くなってる）
@@ -84,7 +80,7 @@
 彰人: ……いつまでですか？
 社長: ２週間だ。それまでに……
 社長: ここにいるオーディエンスを、どのチームよりわかせてくれ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -130,17 +126,17 @@
 レン (VBS): 『うん！　あのね……』
 レン (VBS): 『冬弥達だけじゃなくて、オレ達もみんな、彰人を応援してるよ』
 レン (VBS): 『だから——いつでも頼っていいからね！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000513/bg_s000513.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000513/bg_s000513.webp)
 彰人: わかった。なんかあったら、頼らせてもらう
 レン (VBS): 『あ、言ったなー？　絶対だよ！』
 彰人: ああ
 レン (VBS): 『へへ、約束だからね！』
 レン (VBS): 『じゃあ、オレはそろそろ行くけど…… 頑張ってね、彰人！』
-(White cut)
+(White transition)
 (Background change)
 彰人: おう、ありがとな
 彰人: ……おかげで、気合いが入った
 彰人: （期限までにオーディエンスをわかせて—— 絶対に、結果を出してやる）
 彰人: （あいつらに、胸張って報告するためにも）
-(Black cut)
+(Black transition)

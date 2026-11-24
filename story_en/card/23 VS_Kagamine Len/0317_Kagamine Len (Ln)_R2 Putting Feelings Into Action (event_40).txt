@@ -11,29 +11,29 @@ Skill name: Easy On The Special Training
 Len: Wow, a school with a starry sky...
 Len: This place seems pretty nice.
 Len: Hm? Is someone playing music? Let's go see what's up!
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI - Corridor]
 
 Len: Hmm... I thought I heard it coming from one of these classrooms...
 Len: Hello? Is anyone there?
-(Black cut)
+(Black transition)
 (Background change)
 Rin: Wah! Oh... Heya, Len! When did you get here?!
-(Black cut)
+(Black transition)
 (Background change)
 Len: When? Just now, I guess?
-(Black cut)
+(Black transition)
 (Background change)
 Miku (Ln): Really? In that case, welcome!
 Luka: We've actually been wondering when you'd show up, so it's nice to see you here so soon.
 Miku (Ln): Right. Why don't you come in?
-(Black cut)
+(Black transition)
 (Background change)
 Len: Okay, if you don't mind. Oh, can you tell me about the ones who made this place?
 Rin: Sure! Leave that to me♪
-(Black cut)
+(Black transition)
 (Background change)
 Len: So the ones who made this place are in a band too?
 Rin: Yup! They're even trying to go pro together! What do you think? Isn't it awesome?!
@@ -68,7 +68,7 @@ Len: Nice one, Rin!
 Rin: I said that I've been training with Miku-P and Luka, right? Anyway, my turn!
 Luka: Hehe. This is getting good.
 Miku (Ln): *Nod* I can't wait to see how this turns out.
-(Black cut)
+(Black transition)
 Rin: Okay, how about this...?!
 Len: That's pretty good, but...
 Rin: What?! You can play that?!
@@ -95,7 +95,7 @@ Luka: Hehe. That's good to hear.
 Miku (Ln): *Nod*
 Miku (Ln): I'm glad you're here with us now, Len.
 Len: Thanks, so am I!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -131,7 +131,7 @@ Len: Alright, here we go!
 Rin: That's easy. Watch♪
 Len: Hey, not bad. Your training's really paying off.
 Rin: Told you so! Okay, my turn!
-(Black cut)
+(Black transition)
 Rin: Let's finish this!
 Len: ...!
 Len: (That was good. It sounds a lot like the one I just played, but it flows a little differently. This won't be easy.)
@@ -147,7 +147,7 @@ Rin: Grr...
 Rin: Len, again! I'll start this time!
 Len: Sure. I'm still gonna win.
 Rin: No way! I'm gonna clobber you this time!
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI - Corridor]
@@ -159,4 +159,4 @@ MEIKO: Yeah. Let them have their fun.
 KAITO: Are you sure...?
 MEIKO: Yes.
 Luka: Hehe. Also, we shouldn't interrupt them, so let's give them some space for now.
-(Black cut)
+(Black transition)

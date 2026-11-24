@@ -12,19 +12,15 @@ Gacha phrase: そうね、歌うくらいなら……
 MEIKO: …………
 リン: ♪————　♪————
 MEIKO: ……リン。 また歌っているのね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 リン: ……この前、まふゆから お母さんと話した時のことを聞いたの
 リン: ミクが歌った奏の曲を聴いたら、心が落ち着いたって
-(White cut)
+(White transition)
 リン: ……前に絵名も、歌を聴いて元気になってくれた
 リン: だから……みんなのために、もっと歌えるようになりたいと思って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: （……あれから、ずっと練習しているんだわ）
 リン: ♪——……
 リン: ♪————　♪————
@@ -53,7 +49,7 @@ MEIKO: はあ……
 MEIKO: 暇だからって、面倒な絡みかたしないでくれる？
 ルカ: うふふ。なんのこと？
 MEIKO: ……いいわ。 リンから聞いた話を、少しだけ教えてあげる
-(Black cut)
+(Black transition)
 ルカ: ——へえ、まふゆ達のためにもっとうまくなりたくて、 歌の練習をしていたのね
 ルカ: そんな話を聞いたら、 さすがに邪魔をするのも悪いわね
 MEIKO: 聞かなくても、そうしてほしかったわ
@@ -70,7 +66,7 @@ MEIKO: …………
 リン: ♪————　♪————
 MEIKO: （……さっき悩んでいたところ、 だいぶ歌えるようになってきたわね）
 MEIKO: （もう少しだけ、見ていようかしら）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,21 +80,17 @@ MEIKO: （もう少しだけ、見ていようかしら）
 MEIKO (N25): …………
 MEIKO (N25): （……だいぶ、納得のいく歌いかたに なってきているみたいね）
 MEIKO (N25): （あの不思議なセカイで、別の私達と出会ったことが 影響しているのかしら）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 MEIKO: あなたも、いつもあの子達のことを 支えてくれてありがとう
 MEIKO: 私達は遠くから見守ることしかできないから…… とっても頼もしいわ！
-(White cut)
+(White transition)
 MEIKO: ずっと見てきたからわかるわ。 あの子達は、あなたのことを必要としているって
 MEIKO: 言葉にしなくても—— そばにいてくれているあなたの存在が、 あの子達の力になってるはずよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): （……私とリンの役割が違うように、 あの私も、きっと役割が違うのね）
 MEIKO (N25): （だから、遠くから見守ることしかできない——）
@@ -112,16 +104,12 @@ MEIKO (N25): （邪魔をしたいわけじゃないし、 離れたほうが良
 リン (N25): ——待って、メイコ ……今歌ってたところ、聴いてたんでしょ
 リン (N25): さっきみたいに、ちょっと一緒に歌って
 MEIKO (N25): さっき……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (N25): ……♪——　♪————
 リン・MEIKO: 『♪————　♪————……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (N25): （……ああ。あれね……）
 リン (N25): 今、こうやって歌ってたんだけど……
 リン (N25): ♪——　♪————
@@ -141,14 +129,10 @@ MEIKO・リン: 『♪——　♪————……』
 リン (N25): ひとりで歌ってる時は 全然うまくいかなかったのに……
 リン (N25): ……メイコ、どうしてそんな歌いかたができるの？
 MEIKO (N25): そうね……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): 考えながら歌っていたわ——
 MEIKO (N25): ……誰に、どう寄り添いたいか
 リン (N25): あ……
@@ -159,16 +143,12 @@ MEIKO (N25): リンも、経験があるんじゃないかしら
 リン (N25): ……あ。 絵名に歌ってあげた時がそうだった、かも……
 リン (N25): ……メイコ、ありがとう。 次はもっとイメージして歌ってみる
 MEIKO (N25): …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 言葉にしなくても—— そばにいてくれているあなたの存在が、 あの子達の力になってるはずよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (N25): ……メイコ？
 MEIKO (N25): ……私も歌うわ
@@ -178,4 +158,4 @@ MEIKO (N25): 乗り掛かった船でもあるし……。 ……たまには、
 リン (N25): ……うん。わたしも、一緒に歌ってほしい
 リン (N25): ……よろしく、メイコ
 MEIKO (N25): ええ
-(Black cut)
+(Black transition)

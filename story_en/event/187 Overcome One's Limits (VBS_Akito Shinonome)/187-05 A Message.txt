@@ -23,7 +23,7 @@ President: “Or more than that, even. And...”
 Passerby A: “Huh? Who's that?”
 Passerby B: “Dunno. But...”
 Passerby B: “He's kinda bringing the heat.”
-(Black cut)
+(Black transition)
 Akito: Huff... Huff...
 President: Good work, Akito.
 Akito: Ah...
@@ -37,20 +37,16 @@ Akito: ...
 Akito: For whatever reason, my gears didn't mesh quite right...
 Akito: I intended to go full blast there, but I feel like something was holding me back.
 Akito: (Where have I felt this before...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An:  It's still hard for us to really channel our feelings when we sing in English...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (Right...)
 Akito: I'm sorry, but can I go again?
-(Black cut)
+(Black transition)
 Akito: (Yeah, I knew it... When I sing in English, there's something holding me back.)
 Akito: ♪————! ♪————!!
 Akito: (Hearing the other teams perform when we were here last time made it clear.)
@@ -58,7 +54,7 @@ Akito: (They pronounce things and keep a rhythm way differently from us.)
 Akito: (But if I focus too much on my pronunciation, then my sound will suffer...)
 Akito: ♪——————————!!
 President: ...
-(Black cut)
+(Black transition)
 Akito: Huff... Huff...
 Akito: (No good. I keep on singing...)
 Akito: (But I overthink things and my music suffers for it.)
@@ -84,7 +80,7 @@ President: Also, I'm imposing a time limit. If you stay in the US too long, it'l
 Akito: How long do I have?
 President: Two weeks. In that time...
 President: Light a hotter fire under this audience than any other team here.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -130,17 +126,17 @@ Akito: Tell me?
 Len (VBS): <Yeah! Just so you know...>
 Len (VBS): <It's not just Toya and the others. All of us are rooting for you.>
 Len (VBS): <So if you ever need a hand, let us know, okay?>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000513/bg_s000513.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000513/bg_s000513.webp)
 Akito: Got it. If anything happens, I'll come right to you.
 Len (VBS): <Oh, you said it! I'll hold you to that!>
 Akito: Sure.
 Len (VBS): <Hehe. It's a promise!>
 Len (VBS): <Now, I should probably get going... Keep up the good work, Akito!>
-(White cut)
+(White transition)
 (Background change)
 Akito: Thanks, I appreciate it.
 Akito: Yeah... I feel better now.
 Akito: (I'll get an audience roaring within that time limit. I'll show him I can get results.)
 Akito: (Not just for myself, but so that I can report back to my friends with my head held high.)
-(Black cut)
+(Black transition)

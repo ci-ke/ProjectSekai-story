@@ -13,7 +13,7 @@ Saki: Shiho! Over here!
 Ichika: You managed to slip out from your class meeting too, Shiho?
 Shiho: Yeah. Today was just schedule planning. I already wrote down when I'll be available and passed it on, so I should be okay.
 Saki: Great! Next stop: Hona's class!
-(Black cut)
+(Black transition)
 
 [Class 1-B - Doorway]
 
@@ -30,7 +30,7 @@ Saki: Oh, come on! Just admit you're worried about her too!
 Shiho: Okay, okay. Wait, didn't we do something like this before?
 Ichika: Oh, you mean when we went to talk to Honami's friends from her class about what happened in junior high?
 Saki: Shh! They're starting their discussion...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-B]
@@ -38,21 +38,21 @@ Saki: Shh! They're starting their discussion...!
 Classmate A: It's not like we'll be making any progress since there are some people who just aren't motivated about it.
 Classmate B: How about we vote again? I'm sure most of us just want to get it over with already.
 Classmates: Yeah, just pick something already...
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: Whoa... This is going south fast...
 Saki: Hmm... They're totally split down the middle between people that want to give it a try and people that don't...
 Ichika: Yeah...
 Saki: (You can do this, Hona...!)
-(Black cut)
+(Black transition)
 (Background change)
 Honami: Everyone, please settle down.
-(Black cut)
+(Black transition)
 (Background change)
 Saki: ...!
 Ichika: Honami, you can do this...!
 Shiho: Give it to them straight!
-(Black cut)
+(Black transition)
 Saki: Phew... She did it...
 Ichika: She did. And I think the rest now understand how she feels too...
 Shiho: Well, this is Honami we're talking about. I knew this would be a piece of cake for her.
@@ -65,7 +65,7 @@ Saki: Uh oh...
 Honami: Saki, Ichika and Shiho?! What are you doing here?!
 Saki: Oh, haha... No reason♪
 Saki: Well, since our cover's blown...! You're off to see the committee chairman, right? We'll walk with you for a bit!
-(Black cut)
+(Black transition)
 Honami: Wait, all of you left your own class meetings to come here because you were worried about me?
 Saki: Yup. I know it sounds like we're being overbearing but...
 Ichika: You had so much on your plate, it was hard for us to focus on our own class discussions.
@@ -84,7 +84,7 @@ Ichika: Right.
 Shiho: That's funny because my class is getting into it too. This could get interesting.
 Honami: Alright then, no holding back! Let's make it a serious competition!
 Saki: Yeah! Our class is definitely gonna win!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,7 +105,7 @@ Saki: N-No way! I would never dream of using Hona for my own purposes!
 Ichika: Hehe. Seems suspicious.
 Honami: Hehe. Actually, I don't mind. It's been a while since we all hung out too.
 Saki: Yesss! Okay, after we finish band practice this weekend, we'll head straight to my house!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Saki's Room]
@@ -130,7 +130,7 @@ Ichika: They really were something else.
 Shiho: I agree. They definitely deserved to win.
 Honami: Hehe. Thanks, everyone!
 Saki: ...
-(Black cut)
+(Black transition)
 Shiho: Whoa... It's pretty late. I have to go to work soon.
 Ichika: Shall we call it a day?
 Saki: I wish we could keep going, but I guess we should.
@@ -165,4 +165,4 @@ Saki: Yeah, it's that! I'm just trying to take responsibility for what I said!
 Honami: Hehe. I appreciate that, Saki. And thank you too, Ichika and Shiho. I couldn't have done this without all of you.
 Saki: Hona...
 Saki: Hehehe. You're welcome...!
-(Black cut)
+(Black transition)

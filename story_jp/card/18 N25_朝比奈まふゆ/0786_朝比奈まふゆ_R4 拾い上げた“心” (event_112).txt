@@ -18,7 +18,7 @@ Gacha phrase: このりんごは……捨てたくない
 奏: それより……お父さん、わかってくれてよかったね。 これでしばらく、うちで落ち着けることになったし
 まふゆ: ……うん
 奏: ……お茶、冷めちゃったね。 温かいの、いれ直すよ
-(Black cut)
+(Black transition)
 奏: はい、どうぞ
 まふゆ: ありがとう……
 まふゆ: ……あたたかい……
@@ -37,7 +37,7 @@ Gacha phrase: このりんごは……捨てたくない
 穂波: 大変！　宵崎さんは動かないでください！ わたしが片づけますから……！
 奏: う、ご、ごめん……
 まふゆ: ………………
-(Black cut)
+(Black transition)
 穂波: おまたせしました。 どうぞ
 奏: ……ありがとう。 いただきます
 穂波: 朝比奈先輩も、どうぞ
@@ -52,7 +52,7 @@ Gacha phrase: このりんごは……捨てたくない
 穂波: あ、そう、なんですか。 えっと……
 奏: …………
 奏: えっと、望月さん、実は——
-(Black cut)
+(Black transition)
 穂波: ──それじゃあ、わたしはこれで失礼します
 穂波: 朝比奈先輩、……また学校で
 まふゆ: ……うん
@@ -65,7 +65,7 @@ Gacha phrase: このりんごは……捨てたくない
 まふゆ: ……でも、私もそう思う
 奏: 望月さんが作ってくれた夕飯、一緒に食べる？
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -116,7 +116,7 @@ Gacha phrase: このりんごは……捨てたくない
 まふゆ: それより、先に顔を洗ってきたら？
 奏: あ、うん。じゃあ、すぐに戻るね
 まふゆ: うん、いってらっしゃい
-(Black cut)
+(Black transition)
 奏: ……洗ってきた。 あれ、もう用意終わった？
 まふゆ: うん
 奏: えっ……
@@ -144,20 +144,16 @@ Gacha phrase: このりんごは……捨てたくない
 まふゆ: （なんだろう……この感じ……）
 まふゆ: 前に、どこかで──？
 まふゆ: あ……
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000137/bg_s000137.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000137/bg_s000137.webp)
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: あの時と……似てるんだ
 まふゆ: （あの時とは違って、にぎやかじゃないけど……）
 まふゆ: （……同じ感じがする）
-(Black cut)
+(Black transition)
 奏: ごちそうさま、美味しかった
 まふゆ: ……私も、ごちそうさま
 奏: ……まふゆ、あまり食べてないけど、大丈夫？
@@ -166,4 +162,4 @@ Gacha phrase: このりんごは……捨てたくない
 奏: うん
 まふゆ: ……お茶、飲む？
 奏: うん、飲もうかな。 あ、でも今度はわたしも手伝うよ
-(Black cut)
+(Black transition)

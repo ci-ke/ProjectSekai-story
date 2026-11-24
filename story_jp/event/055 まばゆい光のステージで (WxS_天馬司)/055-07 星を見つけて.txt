@@ -2,10 +2,8 @@
 
 (Character: 天馬咲希, 青柳冬弥, 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, KAITO)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年後]
@@ -23,10 +21,10 @@
 中学生の司 (司): ああ、またな！
 中学生の司 (司): そうか……また一歌達といられるのか……。 よかったな、咲希……！
 中学生の司 (司): ハッハッハ！ 今日は気持ちよく弾けそうだ！
-(Black cut)
+(Black transition)
 (Background change)
 母親: ——はい。天馬です。 ……え？　咲希が……！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -39,27 +37,21 @@
 中学生の司 (司): せっかく宮女に通えるようになったんだぞ……。 わざわざ遠ざかってどうする……
 咲希の声 (咲希): …………
 中学生の司 (司): …………
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 天馬家　リビング)
 中学生の司 (司): （……きっと、大丈夫だ。 咲希はまた、戻ってくる）
 中学生の司 (司): （オレは……ここで待っているぞ）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ……『そうだ。こんな時は、星を見るとしようか』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: よし、こんな時こそ——あれをやるぞ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ……そういうことだったのか
 冬弥: 司先輩……
@@ -73,15 +65,11 @@
 冬弥: ……！
 咲希: 星？　星がどうかしたの？
 司: ああ、それは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: あ……そういえば、あれは……。 咲希が言っていたのか？
 咲希: ん？　何の話？
@@ -100,7 +88,7 @@
 司: ああ、ありがとう！
 司: よければふたりとも、友人を呼んでショーを見に来てくれ！ 最高のショーを披露するぞ！！
 咲希・冬弥: 『うんっ！』 『はい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -134,4 +122,4 @@
 類: 提案？　ぜひ聞かせてもらいたいな
 ミク (WxS): 司くん、トルペくんができるようになって よかったな～！！
 KAITO: うん。 これでまた一歩、夢に近づいたような気がするね
-(Black cut)
+(Black transition)

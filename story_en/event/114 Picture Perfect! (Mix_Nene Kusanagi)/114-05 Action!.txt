@@ -14,7 +14,7 @@ Amisawa: Isn't it amazing how much technology has advanced? Did you know that pe
 Amisawa: Oh, sorry! I didn't mean to get sidetracked! Asking my dad about this stuff sorta lit this fire inside of me...
 Nene: No, that's okay... I can tell that you like cameras very much.
 Nene: I'm also really interested in that, but... Mind if I ask about the equipment...?
-(Black cut)
+(Black transition)
 (Background change)
 Soda: Hiyaaah!
 Nene: Soda, what are you doing...?
@@ -22,14 +22,14 @@ Soda: Oh, I was just practicing for the film! I've been going to this one judo d
 Nene: I see... That explains why you sound so motivated.
 Soda: Yeah, I'm going to do whatever it takes! Get ready for some really cool fight scenes!
 Nene: *Nod* I'll be looking forward to those...
-(Black cut)
+(Black transition)
 (Background change)
 Nene: T-Tachibana...? You've been staring at me for a while now. Is there something on my face...?
 Tachibana: Hmm... No, it's not that. Hey, Director, wanna go clothes shopping together sometime?
 Nene: What?! Why...?
 Tachibana: After watching you work, I kinda want to dress you up in some nice clothes, you know...?
 Nene: U-Uhh, lemme think about it...
-(Black cut)
+(Black transition)
 An: Hey, Kusanagi. What can I do to become a better actor?
 Nene: Huh? Wh-Why do you ask?
 An: I tried recording a video of myself acting, but my delivery was a bit...no, really stiff...
@@ -38,11 +38,11 @@ Akito: Yeah, I wanna learn how to do that too. The cast needs to be on top of th
 Nene: O-Okay. I might not be the best teacher, but...
 An: Don't say that! Please teach us, Kusanagi!
 Nene: A-Alright, so...
-(Black cut)
+(Black transition)
 Nene: (We finally start shooting tomorrow...)
 Nene: (We've been really busy until today, but I've had a chance to talk to everyone... I feel a lot more comfortable around them now...)
 Nene: (I hope our shoot goes well...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shoot Location]
@@ -65,7 +65,7 @@ Tachibana: Alright, actors, once you've finished changing, please hurry on over 
 An: Oh, gotta go...! See you in a bit, Kusanagi!
 Nene: (We're really gonna start shooting soon...)
 Nene: (I've had to learn a lot of new things for this, but I need to do my best as the director...!)
-(Black cut)
+(Black transition)
 
 [Several minutes later]
 
@@ -76,11 +76,11 @@ An: We're good to go whenever!
 Nene: (All ready to go...)
 Nene: (We're starting with the scene where the girl gets attacked by the Dark Cooks and the hero comes to save her...)
 Nene: (It's also the opening scene, making it a really important one... Ideally, we'll get this right and set the stage for the rest of our shoot.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000254/bg_s000254.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000254/bg_s000254.webp)
 Nene: Okay, everyone... And...
 Nene: Action!
-(White cut)
+(White transition)
 (Background change)
 Girl (An): “Huff... Huff... I'm almost home...”
 Girl (An): “But I'm so hungry...”
@@ -101,15 +101,11 @@ Nene: Um, so... Are you guys feeling nervous because we're actually shooting now
 Male Student A: Yeah... We practiced a ton, but this is for real now...
 Male Student A: The thought of everyone at school seeing our film keeps overwhelming my brain...
 Nene: Right...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: (Wait, what if...?)
 Nene: Then, why don't we take some deep breaths and relax... After that...
@@ -123,7 +119,7 @@ Male Student A: Kusanagi...
 Male Student B: Yeah... I think I know what she's talking about. But for now... We should all try to have more fun!
 Male Student B: Okay! Then, next take?
 Nene: Yeah...!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -149,4 +145,4 @@ Amisawa: Yeah, so...! Let's see this through until the end and make our film an 
 Nene: ...
 Nene: Yeah...
 Nene: Let's keep doing our best. Together.
-(Black cut)
+(Black transition)

@@ -35,7 +35,7 @@ Skill name: 猫舌だから♪
 【K】 (奏): 『別に』
 【Amia】 (瑞希): 『そっか～』
 【Amia】 (瑞希): （つまり、毎日食べてもあきないぐらい おいしいってことかな？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -56,12 +56,12 @@ Skill name: 猫舌だから♪
 【えななん】 (絵名): 『じゃあ、私も。 K、ちょっとだけ休憩もらうね』
 (Background change)
 【K】 (奏): 『うん』
-(Black cut)
+(Black transition)
 (Background change)
 【Amia】 (瑞希): 『３分経ったかな？』
 (Background change)
 【えななん】 (絵名): 『そうなんじゃない？ 私のはもう３分経ったし』
-(Black cut)
+(Black transition)
 【えななん】 (絵名): 『いただきます……ふーふー…… うん、美味しい』
 【Amia】 (瑞希): 『じゃあ、ボクもいただきますっと。 えいっ！』
 (Background change)
@@ -80,7 +80,7 @@ Skill name: 猫舌だから♪
 【Amia】 (瑞希): 『たまに食べるとなかなかイケるね！　おいし～♪』
 (Background change)
 【K】 (奏): （変わった食べ方するな……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -127,4 +127,4 @@ Skill name: 猫舌だから♪
 類: 僕も、学校ではめったに遭遇しない 珍しい人物と話せて、悪くない気分だよ
 瑞希: あは、お互い様？
 瑞希: じゃあ、ロボットが仕上がったら教えてよ。 最高にカワイイ衣装、作っちゃうから！
-(Black cut)
+(Black transition)

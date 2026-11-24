@@ -9,7 +9,7 @@ Mafuyu: Thank you...
 Mother's Voice: Ena! Dinner's ready!
 Ena: Be right there! Let's go, Mafuyu.
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -33,7 +33,7 @@ Akito: Ah, I see. We don't have much to offer here, but please make yourself at 
 Ena: (Geez, enough with the faces, you two...)
 Mother: Alright, all of you, come sit down before dinner gets cold!
 Ena: Be right there.
-(Black cut)
+(Black transition)
 Mother: That includes you, Mafuyu. Please, join us.
 Mafuyu: Thank you very much.
 Mafuyu: But, you're too kind. You've already agreed to let me stay over for the night and to also be given dinner on top of that...
@@ -79,18 +79,14 @@ Mafuyu: (I suppose that's only natural...)
 Mother: But what I say won't change who my children are. Which is why I believe it's important for her to live her life the way she likes.
 Mafuyu: What...?
 Mafuyu: (The way she likes...? But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: No, that's okay. If there's something you truly wish to do, I plan on being there to support you.
 Mafuyu's Mother: I'm worried about you, so I can't help but state how I feel... However, Mafuyu, it's ultimately your life to live...
 Mafuyu's Mother: So you're free to do whatever you like...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (She seems so different from Mom...)
 Mafuyu: (Why is that...?)
@@ -117,10 +113,10 @@ Ena: Excuse me?! I'm not you! I can get good grades if I try!
 Ena: What's this, Akito? You haven't touched the carrots that you like so much.
 Ena: Here, I'll give you some more since I've got plenty left on my plate.
 Akito: Hey, I said quit it.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000137/bg_s000137.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000137/bg_s000137.webp)
 Mafuyu: (What is this...?)
 Mafuyu: (My chest feels so...light...)
 Mafuyu: (This house looks no different from mine, but something about it is.)
 Mafuyu: (What is that difference exactly...?)
-(Black cut)
+(Black transition)

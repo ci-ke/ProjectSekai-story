@@ -22,15 +22,11 @@ KAITO (VBS): デザートには、アイスも用意してるよ。 ラムレー
 こはね: ふふっ……。 でも練習のあとだし、私もお腹ぺこぺこだな
 ルカ (VBS): 大晦日にも練習なんて、相変わらずみんなすごいよねー。 これまで以上に燃えてるって感じ！
 彰人: 燃えてる……か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……そうっすね。 ま、立ち止まってる暇なんて無いんで
 MEIKO (VBS): みんないい顔ね。 でも、無理は禁物よ？　たまには息抜きもするようにね
@@ -65,7 +61,7 @@ KAITO (VBS): あはは！ 彰人くんは、お正月もパンケーキなんだ
 ミク (VBS): でも、そのおかげでスポーツ羽根つきができそうだね
 レン (VBS): うん！　ありがとう彰人、冬弥！
 リン (VBS): えへへ、みんなでやるの楽しみだなー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -79,7 +75,7 @@ KAITO (VBS): あはは！ 彰人くんは、お正月もパンケーキなんだ
 彰人: ああ、出汁の匂いすんなと思ったら やっぱそばか
 母親: ちょうど準備もできたし、絵名を呼びに行ってくれる？ 部屋にいると思うから
 彰人: へいへい
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -113,4 +109,4 @@ KAITO (VBS): あはは！ 彰人くんは、お正月もパンケーキなんだ
 絵名: あーもううるさい！ っていうか、おそば伸びちゃうからそこどいて！
 彰人: いや、引き止めたのはどっちだよ……
 絵名の声 (絵名): お母さーん！ おそば用の七味、ちゃんとあるー？
-(Black cut)
+(Black transition)

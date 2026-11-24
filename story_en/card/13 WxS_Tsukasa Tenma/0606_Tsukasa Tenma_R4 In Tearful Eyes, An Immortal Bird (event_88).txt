@@ -14,7 +14,7 @@ Tsukasa: (Another day, another failed attempt at grasping my character during pr
 Tsukasa: (But I'm beginning to understand how hard it is to get by on just water. So, I just need to keep doing what I can to understand Rio better.)
 Tsukasa: Oh, I'm already home. Time flies when you mull things over, I suppose.
 Tsukasa: (I can't let Saki see the downcast expression that's on my face right now...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tenma Household - Living Room]
@@ -34,7 +34,7 @@ Tsukasa: R-Really? Hah hah hah hah hah!
 Tsukasa: (No! I revealed too much of the truth...!)
 Saki: Hehe. I believe in you, Tsukasa! I'm sure you'll do just fine♪
 Tsukasa: Thank you, Saki! I appreciate it!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -71,34 +71,26 @@ Tsukasa: I'll be sure to tell her that there's no need to worry. And thank you f
 Toya: No, I understand. It sounds like a tough role, but you also put on an incredible performance as Thorpe that other time.
 Toya: So, I'm sure you'll do just fine.
 Tsukasa: ...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Saki: Hehe. I believe in you, Tsukasa! I'm sure you'll do just fine♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: Yes! I promise to do my best and not disappoint any of you!
 Toya: Of course. Now, if you'll excuse me.
 Tsukasa: Right, I should send Saki a message.
 Tsukasa: (They believe in me...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: (They're all giving me their support.)
 Tsukasa: (I still have a few days left until the audition. They've placed their faith in me, so I need to figure out how to play Rio!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -160,4 +152,4 @@ Tsukasa: No, for myself.
 Rui: Hehe. You must be famished. Anyway, I'm also ready to order.
 Tsukasa: Then...
 Tsukasa: Excuse me! We're ready to order!
-(Black cut)
+(Black transition)

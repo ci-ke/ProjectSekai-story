@@ -5,26 +5,18 @@
 [誰もいないセカイ]
 
 MEIKO (N25): …………
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): （瑞希の、あの表情……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ——メイコ、ありがとね
 瑞希: ボクも、ちゃんとボク自身と向き合っていこうと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): …………とうとう、その時が来たのかもしれないわね
 ？？？: ——おい
@@ -50,8 +42,8 @@ MEIKO (N25): ……！ ——待って、カイト
 MEIKO (N25): ……瑞希のところへ行くつもり？
 KAITO (N25): ああ
 MEIKO (N25): やめてちょうだい
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000368/bg_s000368.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000368/bg_s000368.webp)
 MEIKO (N25): 瑞希は今、 薄い氷の上を歩くように進もうとしている
 MEIKO (N25): 今のあの子にとって、あなたの言葉は強すぎる。 ……踏み荒らさないでちょうだい
 KAITO (N25): ……このまま何もするなと？
@@ -59,12 +51,12 @@ MEIKO (N25): …………
 KAITO (N25): それで問題が解決するならいい。 だが——傍観してるだけでは、何も変わらないだろ
 MEIKO (N25): ——自分のやり方が常に正解だと思わないで
 KAITO (N25): なら、お前が今のあいつをどうにかできるのか？
-(White cut)
+(White transition)
 (Background change)
 MEIKO (N25): ……っ
 MEIKO (N25): ……カイト……！
 MEIKO (N25): ——待ちなさい！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [瑞希の部屋]
@@ -115,4 +107,4 @@ MEIKO (N25): 『未来まで——最後まで。必ず』
 瑞希: ……ありがとう。ふたりとも
 瑞希: でも…………
 瑞希: もう少しだけ……もう少しだけ、時間がほしいんだ……
-(Black cut)
+(Black transition)

@@ -38,20 +38,20 @@
 MEIKO: みんな揃って、出迎えに来てくれたの？
 ミク (N25): ……メイコ
 絵名・瑞希: 『えっ！？』
-(Black cut)
+(Black transition)
 瑞希: やー、びっくりしたなぁ。 まさかリンに続いてメイコまで来るなんて
 絵名: ね。この前の人形もそうだったけど、 突然誰か現れるなんて、ほんと変なところ
 瑞希: まっ、なんにしても、これから仲良く——
 MEIKO: ——最初に言っておくけど、 私のことは気にしないで頂戴
 絵名: え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000065/bg_a000065.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000065/bg_a000065.webp)
 MEIKO: あなた達に手を貸すのはミクやリンで十分でしょう
 MEIKO: 私は違う観点からあなた達を見守ることにするわ
 瑞希: 違う観点、って……
 MEIKO: だから、私のことはいないものだと思っていい
 MEIKO: ……わかったら、どうぞ話を続けて
-(White cut)
+(White transition)
 (Background change)
 奏: あ……うん
 絵名: ……なんか、冷たくない？
@@ -80,4 +80,4 @@ MEIKO: ……そうね
 瑞希: やった……！
 瑞希: それじゃ、ミステリーツアー決定～！ コースが決まったら、連絡するね～！！
 MEIKO: …………
-(Black cut)
+(Black transition)

@@ -30,14 +30,14 @@
 咲希: ど、どうしよう！　このままじゃ……
 井上: 隠れる場所もないし……でも、桐谷さんが見つかっちゃう……！
 咲希: あ、アタシ達で隠すとか！？ でも絶対不自然だし～！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000192/bg_s000192.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000192/bg_s000192.webp)
 遥: わっ！？　星乃さん！？
 一歌: 桐谷さん、こっち！
 遥: えっ？
 一歌: あれ乗ろう！　ギリギリ間に合うと思う！
 遥: ——あれって、水上バス！？
-(White cut)
+(White transition)
 (Background change)
 井上: 星乃さん！？
 園田: きゅ、急に桐谷さんの手つかんで行っちゃったけど……
@@ -57,7 +57,7 @@
 園田: ——ていうか、これからどうする？ ふたり追っかける？
 井上: あの感じだと、水上バス乗ったよね？
 咲希: だね！ 先回りして、水上バスのゴールで待ってよっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [水上バス]
@@ -110,4 +110,4 @@
 咲希のメッセージ (咲希): 『なんで食べてるの！？ それみんなのおやつって言ってなかった！？！？』
 一歌: ふふっ、怒ってるスタンプもきた
 遥: ……お返し作戦は成功だね
-(Black cut)
+(Black transition)

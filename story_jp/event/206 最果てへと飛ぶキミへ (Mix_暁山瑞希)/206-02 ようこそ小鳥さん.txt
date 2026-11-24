@@ -34,7 +34,7 @@
 瑞希: えへへ、どういたしまして！
 (Background change)
 瑞希: あ、そういえば、インコちゃんの名前がわかったんだ！ なんとなんと、自分で言っててね——
-(Black cut)
+(Black transition)
 (Background change)
 
 [愛莉の部屋]
@@ -58,25 +58,25 @@ KAITO (MMJ): 『うーん……。 あ、じゃあ——』
 KAITO (MMJ): 『おもしろい結婚式を紹介しながら一問一答！ とかどうかな？』
 愛莉: おもしろい結婚式で……一問一答？
 KAITO (MMJ): 『うん。例えばだけど——』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000590/bg_s000590.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000590/bg_s000590.webp)
 KAITO (MMJ): 『リングボーイやリングガールならぬ リングドッグっていうのがあるらしいんだ』
 愛莉: リングドッグ……。 犬に指輪を持ってきてもらうっていうこと？
 KAITO (MMJ): 『うん！　だからそれにちなんで、 どんな動物に指輪を運んできてほしい？って聞くとかね』
 愛莉: なるほどね！ ふふっ、みのりならきっとサモちゃんで、 遥なら絶対にペンギンでしょうね
 KAITO (MMJ): 『そういう変わった結婚式を紹介しながら、 メンバーでどれがやりたい？って話すのは どうかなって』
 愛莉: たしかに、ウェディングケーキの代わりに、 石鹸をカットするとか、おもしろいのが多いし…… いいかもしれないわね
-(White cut)
+(White transition)
 (Background change)
 愛莉: ありがとう、カイトさん！ それ、使わせてもらうわ
 愛莉: ふたりのおかげでいいアイディアももらえたし、 これなら、思ったより早く飼い主探しに戻れそうね
 リン (MMJ): 『飼い主探し？』
 愛莉: ええ。今日、午前中に企画のための買い出しに行ったんだけど、 その時にね——
-(Black cut)
+(Black transition)
 KAITO (MMJ): 『へえ……！ 迷子の鳥さんを保護してるんだね』
 リン (MMJ): 『飼い主さん、早く見つかるといいね』
 愛莉: そうね。きっと心配してるでしょうし……
 愛莉: この企画の詰めが終わったら、 また飼い主さんを探してみようと思うわ
 KAITO (MMJ): 『そっか……。 大変だと思うけど、頑張ってね、愛莉ちゃん』
 愛莉: ええ！　ありがとう！
-(Black cut)
+(Black transition)

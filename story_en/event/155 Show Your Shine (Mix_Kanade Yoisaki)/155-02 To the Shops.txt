@@ -22,7 +22,7 @@ Saki: Yes! Recently, all the big outdoor brands have been making really cute clo
 Kanade: I had no idea. Then, why don't we go take a look?
 Kanade: Umm... Would you mind showing me the way?
 Saki: Of course♪ It's right this way!
-(Black cut)
+(Black transition)
 Saki: Here we are! What do you think?
 Kanade: Oh, these come in simple designs... I could wear these like normal.
 Saki: Hehe. See what I mean? All that's left is to find something that's both warm and light...
@@ -34,7 +34,7 @@ Kanade: Oh, you don't have to send it to the dry cleaners...?
 Saki: Pretty incredible, right?!
 Saki: I know. If you're interested in any of these, then why don't you try them on? We can try asking the staff.
 Kanade: Okay, let's do that. Umm... Excuse me...
-(Black cut)
+(Black transition)
 Clerk: Thank you!
 Kanade: Phew...
 Saki: I'm glad you were able to find a jacket you like!
@@ -69,7 +69,7 @@ Kanade: Okay. Have fun at work.
 Kanade: (I really can't thank Tenma enough...)
 Kanade: (I don't know if chatting with me will make up for what she did today...)
 Kanade: But I am sort of looking forward to talking to her again...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -91,7 +91,7 @@ Mizuki: <You said you were gonna buy a new jacket, K. Did you already get one?>
 (Background change)
 Kanade: <Oh, yes... I managed to get one.>
 Kanade: <What's more, while I was walking over to the mall today...>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <Really?! And Saki helped you pick it out?!>
 (Background change)
@@ -131,15 +131,11 @@ Kanade: <More casual...>
 Kanade: <Then... “Sounds good”?>
 Mafuyu: <That should work...>
 Kanade: <It's sent...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Now I'm really looking forward to talking to her again...)
-(Black cut)
+(Black transition)

@@ -13,7 +13,7 @@ KAITO (MMJ): 『どれも、お客さんとの一体感や ステージの使い
 ミク (MMJ): 『わかった！　わたし達に任せて！』
 KAITO (MMJ): 『アイディアか……この方向性なら、 過去にやったライブの中で参考になりそうなのがあるよ』
 遥: 聞かせてもらえますか？
-(Black cut)
+(Black transition)
 (Background change)
 みのり: 笑顔で、ジャンプ……むにゃ……
 愛莉: みのりー！　そろそろ起きないと遅刻するわよ！
@@ -23,7 +23,7 @@ KAITO (MMJ): 『アイディアか……この方向性なら、 過去にやっ
 遥: あ……このノート、 ステージのアイディアがいっぱい書いてある……
 みのり: ん～……むにゃ……
 みのり: 絶対に……みんなで勝つぞ～……
-(Black cut)
+(Black transition)
 (Background change)
 遥: （次の仕事まで、少し時間があるな）
 遥: （今のうちに、ステージのアイディアをブラッシュアップしよう）
@@ -33,7 +33,7 @@ KAITO (MMJ): 『アイディアか……この方向性なら、 過去にやっ
 遥: （見ている人が感情移入できるように、 もっと序盤の見せ方を工夫したいな）
 遥: （たとえばソロパートを増やして、 孤独とか不安を表現するとか——）
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -53,20 +53,16 @@ KAITO (MMJ): ——まだ、納得いってないみたいだね？
 KAITO (MMJ): 足りない？
 遥: はい。この道しかない、これなら絶対にいける——
 遥: そういう手ごたえが……ないんです
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 柊: 道を作れるかどうかだ
 遥: ……道？
 柊: そうだ。つまり——
 柊: 前を向くことが難しい者に、 再び『希望の物語』を信じさせる道が作れているかどうか
 柊: それが判断軸になる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （あの時……）
 遥: （柊さんの言葉を聞いた瞬間、ぱっと霧が晴れたみたいに 自分の進むべき方向がはっきりと見えた）
@@ -77,8 +73,8 @@ KAITO (MMJ): ……遥ちゃんがそう感じるってことは、 きっとま
 KAITO (MMJ): ただ……
 KAITO (MMJ): 今の遥ちゃんに必要なのは、気分転換のような気がするな
 遥: 気分転換、ですか……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000622/bg_s000622.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000622/bg_s000622.webp)
 KAITO (MMJ): うん。締切まで時間がなくて、焦る気持ちはわかるよ
 KAITO (MMJ): 自分の判断で、みんなの未来が変わってしまうかもしれないって プレッシャーもね
 KAITO (MMJ): でも、自分を追い込んだからって、いい結果が出るわけじゃない
@@ -86,14 +82,14 @@ KAITO (MMJ): むしろ、本来の力が出せなくなってしまうことも�
 遥: あ……
 KAITO (MMJ): 今はそんな気分になれないかもしれないけど、 ちょっとだけ考えることから離れてみるのはどうかな
 KAITO (MMJ): 全然関係ないことをやってるうちに、 ふっといいアイディアが閃いたりするものだしね
-(White cut)
+(White transition)
 (Background change)
 遥: それは、カイトさんの経験談ですか？
 KAITO (MMJ): その通り。 僕もライブの演出なんかでよく悩むことがあるからさ
 KAITO (MMJ): ——大丈夫。 遥ちゃんなら、きっと答えを見つけられるよ
 KAITO (MMJ): だからまずは、自分を信じてあげてほしいな
 遥: ……はい。 ありがとうございます、カイトさん
-(Black cut)
+(Black transition)
 (Background change)
 
 [LUMINA FORUM　廊下]
@@ -116,4 +112,4 @@ KAITO (MMJ): だからまずは、自分を信じてあげてほしいな
 千晴: ご迷惑にならないように気をつけるので、 お願いできたらなって……
 遥: じゃあ、私も椿木さんのトレーニングを教わっちゃおうかな。 すごく鍛えてるって聞いて、気になってたんだ
 千晴: はい、もちろんです！
-(Black cut)
+(Black transition)

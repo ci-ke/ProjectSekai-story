@@ -9,7 +9,7 @@
 Tsukasa: Oh, Rui, it looks like we're the first ones here!
 Rui: Yes. It's not quite the time we agreed upon yet, so let's...
 Emu's Voice (Emu): Wheeeeeeee!!
-(White cut)
+(White transition)
 Emu: Thanks for waiting, Tsukasa, Rui☆
 Rui: Ah, Emu. Hello.
 Tsukasa: Wait, wait, wait! What were you doing on top of that tree?!
@@ -32,7 +32,7 @@ Emu: Oh...
 Nene: Huh?
 Emu: It's heeeeerrrrr!!!!
 Byakkomachi: Wh-What...?
-(Black cut)
+(Black transition)
 Byakkomachi: I see. You saw me leaving that meeting...
 Emu: Yeah! I was really far away, but I saw someone with perfect posture!
 Emu: That was you, right, Suzu?
@@ -59,15 +59,11 @@ Byakkomachi: That's right. When he was young, he apparently had a reputation for
 Byakkomachi: But he was actually a Morinomiya fan long before he ever became the board chair.
 Byakkomachi: He even used to take me to see shows with him when I was little.
 Emu: You went with your grandpa...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Byakkomachi: I've always loved how dazzling Morinomiya's shows are. I wanted to stand in the spotlight on that stage...
 Byakkomachi: My family wanted me to enter the world of business, but then my grandfather said, “Why not try both...?”
@@ -100,4 +96,4 @@ Byakkomachi: Let's go, Otori.
 Emu: Oh, yeah...
 Emu: (Just now...)
 Emu: (Suzu seemed kinda sad for some reason...)
-(Black cut)
+(Black transition)

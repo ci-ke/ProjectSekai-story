@@ -77,17 +77,13 @@
 寧々: ぶ、文化財で木登りって……
 類: ……ケヤキと、洋館……
 類: （もしかしてこの場所は、 あのショーにぴったりの……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 類くん、おかしいよ
 幼い類 (類): …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: …………
 えむ: ……類くん？　どうしたの？
@@ -111,4 +107,4 @@
 類: （僕を演出家として信頼してくれる、みんながいるんだ）
 類: ——フフ、それじゃあ、 このあとみんなに聞いてもらおうかな
 類: この庭園にぴったりのショーを思いついたからね
-(Black cut)
+(Black transition)

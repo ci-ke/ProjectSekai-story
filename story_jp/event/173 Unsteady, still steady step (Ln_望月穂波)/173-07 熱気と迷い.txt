@@ -17,7 +17,7 @@
 一歌: ……そっか。 それなら、今日のライブはぴったりだね
 一歌: だって、ミクが好きな人達ばっかりだから！
 穂波: うん……！　今から楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブ会場]
@@ -57,21 +57,17 @@
 一歌: やっぱり、ミクはすごいなあ……！
 穂波: （一歌ちゃん、すごく楽しそう）
 穂波: （……そうだよね。 一歌ちゃんにとって、ミクちゃんはずっと特別だから——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 私は、ちょっとだけファンフェスタに傾いてるかも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: …………
 穂波: （……きっと、ファンフェスタの曲を書けたら）
 穂波: （一歌ちゃんは喜ぶんだろうな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [終演後]
@@ -92,13 +88,13 @@
 一歌: ……そっか……
 一歌: ねえ、穂波
 穂波: え……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000468/bg_s000468.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000468/bg_s000468.webp)
 一歌: 穂波がリーダーとして 私達のためにたくさん考えてくれてること、 すごく嬉しいって思う
 一歌: そのおかげで、私達はライブの準備もできてるし
 一歌: でも——穂波だけが悩むのは、 ちょっと違うなって思うんだ
 一歌: だから……あんまり、ひとりで抱え込みすぎないでね
-(White cut)
+(White transition)
 (Background change)
 穂波: ……うん。 ありがとう、一歌ちゃん
-(Black cut)
+(Black transition)

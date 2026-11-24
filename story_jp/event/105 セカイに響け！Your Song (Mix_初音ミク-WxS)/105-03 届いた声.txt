@@ -29,43 +29,35 @@ MEIKO: わたし達はそのあいだに、 もう一度ダンスを合わせて
 ルカ: （……応援したいって気持ちは、みんな同じみたい）
 ルカ: （そうよね。みのりちゃん達はいつも一生懸命で…… 誰かのために頑張るいい子達だもの）
 ルカ: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ: （みんなには——これからも、目標に向かって頑張ってほしいわ）
 ルカ: ……私も、みんなを応援できるように頑張らなきゃね
 ルカ: ……あら？　何かしら……
 ルカ: ……えっ？
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
 
 ミク (WxS): 『お師匠、あたし、やります！ みんなの笑顔の力を借りて——みんなが笑顔になれるように！』
 ミク (WxS): （みんなを、笑顔に——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (WxS): （えむちゃん達、一緒に夢を追いかけることができて…… ほんとによかったなぁ……！）
 ミク (WxS): （これからもずっと、笑顔でいてほしいなあ……）
 ミク (WxS): 『えーいっ！』
-(Black cut)
+(Black transition)
 MEIKO: みんな、今日の練習もお疲れさま～！！ とってもよかったわよ！
 レン: うん！　さっきのミクも、 すっごく気持ちがこもっててよかったね！
 リン: ラストのシーンも、うるうるしちゃったよ～☆
@@ -87,7 +79,7 @@ KAITO: 誰だろう。 司くん達はまだ来ていないしね
 MEIKO: ねえ、司くん達が来る前にもう１回合わせない？
 リン: さんせ～い☆ 次は照明も本番と同じよーにやってみたいなあ！
 ミク (WxS): わあ、いいね！　やろうやろーう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -103,4 +95,4 @@ KAITO: あれ？　さっき、何かが光ったような……
 ルカ: 本当。光る玉みたいなものがあるわね
 MEIKO: あら？　これって、もしかして……
 ミク: ——あ……！！
-(White cut)
+(White transition)

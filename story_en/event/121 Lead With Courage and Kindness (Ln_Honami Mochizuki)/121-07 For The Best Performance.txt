@@ -27,7 +27,7 @@ Shindo: <After all, it's my job to as your manager.>
 (Background change)
 Honami: Oh...
 Honami: Thank you very much. So, the thing is...
-(Black cut)
+(Black transition)
 (Background change)
 Shindo: <I see. You tried discussing what each song is really about in order to get on the same page, but that caused you to lose some of that energy you had before...>
 (Background change)
@@ -63,15 +63,11 @@ Shindo: <These skills require more than just a day or two to learn. It's going t
 Honami: Well...
 Honami: (I knew this wasn't going to be easy...)
 Honami: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (But I don't want to give up...)
 Honami: (Because if I don't do something, we'll never be able to play at our best.)
@@ -99,7 +95,7 @@ Shindo: <Still, if you're willing to fully commit...>
 Shindo: <Let's do some training together, Ms. Mochizuki.>
 (Background change)
 Honami: Huh...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -119,15 +115,15 @@ Shindo: Alright, that should be enough...
 Shindo: So, let's get started, shall we?
 Honami: Oh...
 Honami: Yes...!
-(Black cut)
+(Black transition)
 Shindo: Practicing the drums is all about maintaining a steady rhythm for as long as possible. Not only does that involve staying in tempo for on-beats, but also never missing any off-beats. Listen for the ticking and match that timing.
 Shindo: You need to be able to adapt to any situation. It's all but impossible to perform on stage as well as you do during practice. So, the goal for practice is to achieve perfection.
 Honami: Right...!
-(Black cut)
+(Black transition)
 Shindo: A good paradiddle requires having perfect control over each stroke.
 Shindo: Up, down, tap. The muscles in your arms will also need to learn how to automatically adjust and switch between them.
 Honami: ...
-(Black cut)
+(Black transition)
 Shindo: You're forgetting about the rebound. And your rhythm is starting to fall apart.
 Shindo: Succeeding just once isn't enough. Each note needs to be even and clean. No matter how tired you are, you have to maintain a steady beat and volume...
 Honami: Understood...
@@ -135,4 +131,4 @@ Honami: (My arms... They feel so heavy...!)
 Honami: (But...!)
 Honami: (I need to keep going...!)
 Honami: (I want us to perform at our best... So I need to learn to carry us forward!)
-(Black cut)
+(Black transition)

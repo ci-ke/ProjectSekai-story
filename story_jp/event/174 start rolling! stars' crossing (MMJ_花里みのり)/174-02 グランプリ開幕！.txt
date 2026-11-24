@@ -68,7 +68,7 @@
 みのり: ……うん！！
 司会: ——では、ルール説明もすんだところで……
 司会: 続いては、予選の舞台となるLUMINA FORUMを、 アイドルの皆さんと見ていきましょう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [廊下]
@@ -90,7 +90,7 @@
 みのり: （じゃあ——）
 みのり: （いつ見られても大丈夫なように、 どんな時も“希望を届けるアイドル”でいなくちゃ！）
 雫: 私達も見習わないとね
-(Black cut)
+(Black transition)
 (Background change)
 
 [レッスンルーム]
@@ -101,13 +101,13 @@
 愛莉: ……遥？
 遥: すごい……！ ！
 みのり: えっ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000471/bg_s000471.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000471/bg_s000471.webp)
 遥: 最新の有酸素系マシンがこんなにある……！
 遥: グリップやベルトも充実してるし、 ダンベルの種類も豊富だし……。 まさか、ここまで設備が整ってるなんて……
 遥: あ、アプリと連動するパワーグリップもある！ これ、試してみたかったんだ……！
 愛莉: ちょ、ちょっと遥、いきなりテンション上げ過ぎじゃ——
-(White cut)
+(White transition)
 (Background change)
 コメント: 『え？桐谷遥って筋トレオタクなの？』 『アスリートだよ遥ちゃんは』 『なんかいいな。推しプロテイン気になる～』
 愛莉: ……そこまで心配しなくてもよかったみたいね
@@ -141,4 +141,4 @@
 ？？？: ——わあ～！　このお部屋、ぴかぴか号より広～い！
 みのり: へっ？
 千晴: ぴかぴか号……？
-(Black cut)
+(Black transition)

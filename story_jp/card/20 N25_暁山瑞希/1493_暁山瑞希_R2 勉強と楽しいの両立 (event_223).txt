@@ -92,7 +92,7 @@ Skill name: ごく普通の動機
 (Background change)
 奏: 『そうだね』
 (Background change)
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -109,10 +109,8 @@ Skill name: ごく普通の動機
 瑞希: えへへ、まふゆに勉強教えてもらう約束してたんだ！
 ミク (N25): 勉強？
 瑞希: うん！　実はね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『——お願い、雪！！』
 瑞希: 『ボクに数学を教えてください！』
@@ -128,16 +126,14 @@ Skill name: ごく普通の動機
 (Background change)
 まふゆ: 『…………』
 まふゆ: 『……うまく教えられるか、わからないけど』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ——で、平日だしここの方が来やすいかな～と思って セカイに来たってわけ！
 ミク (N25): そうだったんだ
 まふゆ: ……それじゃあ、始める？
 瑞希: あ、うん！　よろしくお願いしまーす♪
-(Black cut)
+(Black transition)
 瑞希: えっと、この問題なんだけどさ……
 まふゆ: ……三角関数の問題だね
 瑞希: そうそう！　ちゃんと答えは書いたんだけど……
@@ -168,4 +164,4 @@ Skill name: ごく普通の動機
 瑞希: 普通……
 瑞希: ……そっか
 瑞希: えへへ。ボクも“普通”になれるんだなあ
-(Black cut)
+(Black transition)

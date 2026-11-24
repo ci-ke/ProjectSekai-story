@@ -52,7 +52,7 @@ MEIKO: ありがと、楽しみだよ
 MEIKO: はーい、今行くー！
 MEIKO: それじゃ、行こうか、穂波！
 穂波: はいっ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -75,4 +75,4 @@ MEIKO: それじゃ、行こうか、穂波！
 イオリ: 私、STANDOUTのボーカルやってるイオリっていうんだ。 突然だけど……私、あなたのベースが好きなんだよね
 イオリ: ねえ、私達と一緒に、バンドやらない？
 志歩: ——！
-(Black cut)
+(Black transition)

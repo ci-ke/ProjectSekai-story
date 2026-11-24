@@ -22,7 +22,7 @@ leo_01_18 ４人の星空
 穂波: そうなんだ……。 みんなここで……
 一歌: 穂波、こっちだよ。屋上に行こう
 穂波: 屋上？
-(Black cut)
+(Black transition)
 (Background change)
 穂波: ……！　 星が……こんなに……！
 穂波: こんなにきれいな星空……。 初めて見た……
@@ -44,37 +44,29 @@ leo_01_18 ４人の星空
 穂波: 一歌ちゃん……
 一歌: 穂波。 私達、もう一度一緒にいられないかな
 穂波: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 かつてのクラスメイトA: 穂波ってさ、誰にでもいい顔してるよね
 かつてのクラスメイトB: ね。私はみんなの味方です、みたいな顔してさ
 かつてのクラスメイトC: 本人はいいことしてるつもりなんだろうね。 ただの八方美人なのに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: わたしは……
 穂波: わたし、は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: ほなちゃんには、今の友達を大事にしてほしいなって思ったの！
-(White cut)
+(White transition)
 (Background change)
 志歩: わからない？　ごまかさないでよ。 穂波は、咲希が泣いてていいの！？
-(White cut)
+(White transition)
 (Background change)
 一歌: ――もっと一緒に笑ってたい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 穂波: ……っ
 穂波: ……わたし、本当にダメだね……
 穂波: 結局、志歩ちゃんの言う通り。 わたしは、自分がかわいかっただけ……
@@ -94,4 +86,4 @@ leo_01_18 ４人の星空
 ルカ: だったら４人で見なくちゃ、ね？
 一歌: ミク……ルカ……
 一歌: ……ありがとう
-(Black cut)
+(Black transition)

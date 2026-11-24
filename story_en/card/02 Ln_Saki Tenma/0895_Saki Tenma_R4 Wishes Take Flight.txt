@@ -9,22 +9,18 @@ Gacha phrase: May these feelings reach you...!
 
 [Saki's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 President of Solis Records: Nice work! That was a wonderful performance, and an outstanding expression of how you all feel.
 President of Solis Records: Now I'm very much looking forward to how you do after you debut...
 President of Solis Records: I'll be sure to keep you in mind for that festival.
-(White cut)
+(White transition)
 Shindo: Ah, speaking of which... I brought some good news with me today.
-(White cut)
+(White transition)
 Shindo: Your wait is over... Your debut date has been set.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Aaaaaah!
 Saki: We're finally gonna make our debut...! I really get to debut with Ichi, Hona and Shiho!
@@ -49,7 +45,7 @@ Saki: Aaalright! I'm fired up now!
 Saki: There's still some time before I should be going to bed, so I'll think up some phrases and...
 Saki: Wait, huh? My phone's all lit u—
 Saki: Whoa...!
-(White cut)
+(White transition)
 (Background change)
 
 [School SEKAI]
@@ -64,7 +60,7 @@ Saki: I'm pretty sure this ball thingy is what made that light just now. What is
 Saki: Miku and the others might know about it, so I'll go show them!
 Saki: Wait, it's glowing again?!
 Saki: Hey! Too bright...!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -84,7 +80,7 @@ Saki: Hmm, maybe they're out?
 Saki: Still, this yard is so cute...
 Saki: Maybe I'll take a peek around while I search for whoever lives here.
 Saki: Pardon me!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -97,11 +93,11 @@ Saki: Oooh, this bathtub is all decorated too! It's so cute!
 Saki: Oh, that ducky inner tube! I used one like that when I was little.
 Saki: Tsukasa would kick his legs and push from behind, and I'd go quacking all the way!
 Saki: Hahaha, that really takes me back!
-(Black cut)
+(Black transition)
 Saki: Whoa, there's so many flowers blooming too!
 Saki: I've seen these ones before! What were they called? Ohh, if only Ichi were here, she'd know!
 Saki: Here's the lawn! Hehehe, I bet it'd feel so nice to walk on it barefoot♪
-(Black cut)
+(Black transition)
 Saki: Huh? They have a keyboard!
 Saki: Wooow! It's the exact one I use!
 Saki: Does this mean whoever lives here does music too?
@@ -112,7 +108,7 @@ Saki: Huh? What's this? It looks like a mailbox... Ahh!
 Saki: The base fell through?! Now the stuff inside all fell out!
 Saki: What are these? They look like greeting cards...
 Saki: Whoa! They're being blown away by the wind! Wait, come back!
-(Black cut)
+(Black transition)
 Saki: Huff... Huff... I managed to get them all back...
 Saki: I'm glad none fell in the pool. Actually, they didn't get dirty, did they...?
 Saki: Oh...
@@ -123,15 +119,11 @@ Someone's Writing: “Don't ask me what I want to do with my future. How should 
 Saki: These...remind me of the comments on that video. But these don't really feel like comments... It's more like I'm reading their thoughts.
 Saki: This person sounds like they have a job... And this one... Must be from a parent raising kids.
 Saki: They all sound so pained...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: (Maybe the people who wrote these are holding all this in, unable to tell anyone...)
 Saki: Oh, that's it...!
@@ -147,15 +139,11 @@ Saki: (What comes to mind for me is...)
 Saki: (If you're hurting, you can say so. When you want to cry, go ahead and cry...)
 Saki: (You don't have to push yourself so hard or hold yourself back. Something like that...)
 Saki: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Sometimes you just can't bring yourself to talk about it, and sometimes you want to hold back the tears no matter what.
 Saki: Maybe you're ashamed to let people see you that way, or you don't want them to worry...
@@ -164,13 +152,13 @@ Saki: To begin with, worries aren't always something you can just think your way
 Saki: When you look at it that way, it's like, just worrying about something is already really noble...
 Saki: I think I felt something coming on just now...
 Saki: I'll try playing a little...!
-(Black cut)
+(Black transition)
 Saki: Something's off... It should be warmer, something that flows into the ears gently...
 Saki: Oh, that was good...! Gotta write it down so I don't forget...!
-(Black cut)
+(Black transition)
 Saki: Hmm, it's pretty close to what I was imagining... But I think it should be more than just warm, like it needs something strong at its core...
 Saki: Maybe it sounds that way because of this floaty closing here. Then, I'll make this part more crisp and...
-(Black cut)
+(Black transition)
 Saki: I did it.
 Saki: I only finished one phrase... But I think it captures what I'm feeling perfectly!
 Saki: Oh, but playing it here isn't gonna help me reach the people who wrote those cards.
@@ -189,8 +177,8 @@ Saki: Okay, ready?
 Saki: (Oh...)
 Saki: (The cranes are taking off into the sky...)
 Saki: (Could you take this song to everyone for me?)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000298/bg_s000298.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000298/bg_s000298.webp)
 Saki: (When it comes to solving your worries, you don't know if you'll accomplish it tomorrow, or if you need to spend a year working on it first...)
 Saki: (You might spend your whole life looking for the answer. They're your worries, but even you don't know how long they'll be with you.)
 Saki: (But I... I know that you're thinking about them today.)
@@ -199,7 +187,7 @@ Saki: (At times like those, everyone around you starts to look so blinding, and 
 Saki: (But... I want you to know...!)
 Saki: (You haven't given up on finding the answer, and that makes you the coolest person ever in my eyes!)
 Saki: May these feelings reach you...!
-(White cut)
+(White transition)
 (Background change)
 
 [School SEKAI]
@@ -223,4 +211,4 @@ Saki: Right! I sure hope that's what happened!
 Saki: (I don't know if what I played back there reached anyone...)
 Saki: (But I want to make sure that I do someday.)
 Saki: (I want Leo/need to touch their hearts.)
-(Black cut)
+(Black transition)

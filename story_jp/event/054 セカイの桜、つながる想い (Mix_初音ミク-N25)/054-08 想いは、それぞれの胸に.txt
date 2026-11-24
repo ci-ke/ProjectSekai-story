@@ -2,7 +2,7 @@
 
 (Character: 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -20,7 +20,7 @@ MEIKO: 風邪ひくわよ？ アイドルは体調管理が基本なんだから
 MEIKO: あるとしたら……他のセカイのわたし達に 会ったっていうことかしら？
 MEIKO: でも、そんなの今まで、 一度もなかったわよね……
 リン: うーん……。 じゃあ、あれは見間違い……だったのかなあ？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -45,7 +45,7 @@ MEIKO: ……ふふ、そうね。綺麗な桜だったわ。 今度は、みん
 ルカ: あれ、そこにいるのって……メイコとレン？ どしたのー？
 ルカ: あ、わかった！　ふたりとも迷子でしょ〜？ 仕方ないから、私がカフェまで案内して——
 レン・MEIKO: 『違うってば』 『違うわよ』
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ　屋上]
@@ -64,7 +64,7 @@ KAITO: 一歌達にお花見の準備をしてもらうお礼に、 １曲プレ
 KAITO: ……？ ルカ、何かいいことでもあったの？
 ルカ: ええ……ちょっとね
 ルカ: （桜は見せてあげられないけれど—— みんなに、素敵な話ができそうね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -76,15 +76,11 @@ KAITO: う……
 KAITO: ああ……ごめん、心配させたみたいだね。 よしよし。僕はちゃんとここにいるよ
 ねこのぬいぐるみ: カイト～！
 KAITO: （それにしても——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: （あれは……別のセカイのミク達に見えた）
 KAITO: （でも、別のセカイのミク達に会うなんて、 今まで一度も……どうして急に……）
@@ -93,21 +89,17 @@ KAITO: （僕達と、他のセカイの僕達の想いが、 あの場所を生
 KAITO: （理屈や原理はまったくわからないけれど…… もしかすると、みんながここにやってきた時のように——）
 KAITO: （想いが、本来出会えないはずの僕達を、 出会わせてくれたのかもしれない）
 KAITO: でも……どんな想いが……？ あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: そうか。 あの木に集まったっていうことは——
 KAITO: 別のセカイの僕達も…… 『みんなのために頑張りたい』って 強く想っていたんだろうな
 ミク (WxS): カイトー！ みんなが桜の花びらを集めてきてくれたよー！
 KAITO: ——ああ、今行くよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -130,4 +122,4 @@ KAITO: ——ああ、今行くよ！
 ミク (N25): あのね、わたし、 桜の花びら、つかまえたよ
 リン: えっ？　どこで？
 ミク (N25): ふふ。それはね——
-(White cut)
+(White transition)

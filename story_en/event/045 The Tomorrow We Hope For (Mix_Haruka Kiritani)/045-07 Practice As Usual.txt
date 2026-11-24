@@ -36,7 +36,7 @@ Kohane: By the way, where's Minori...?
 Haruka: She's taking a break right now, but she should be back soon. Why don't you head over to the Omikuji booth later to let her know that you're here?
 Kohane: Thanks, I will!
 An: But first, let's go make our wishes!
-(Black cut)
+(Black transition)
 An: Alright, it's our turn! You guys know what you're wishing for?
 Toya: Yes. I'm sure we'll all be wishing for the same thing... Hm?
 Len: <I wanna make a wish too!>
@@ -50,7 +50,7 @@ An: Oh, we're up next! Ready, everyone?!
 Kohane: (I'm going to do everything I can to surpass RAD WEEKEND. Please keep watching over all of us...)
 Haruka: (They all look so serious... I'm guessing their wish has to do with that one event.)
 Haruka: Good luck, you guys...
-(Black cut)
+(Black transition)
 An: Alright, our year's officially started! We just need to see Minori and it'll be mission accomplished!
 Toya: Why don't we stop and take a break around here? Hm...? Looks like they're handing out amazake.
 Kohane: Doesn't amazake have alcohol in it? Is it okay for us to drink that?
@@ -83,11 +83,11 @@ Minori: Also, how does a fortune drawing sound? It's calmed down quite a bit, so
 Toya: Fortunes as in Omikuji...? Sure, why not?
 Akito: Yeah, it'll be a good test of luck. I'll give it a go too.
 Minori: Great! We'll go one at a time!
-(Black cut)
+(Black transition)
 An: Ready, guys? We'll open them on three, okay?
 An: One, two...!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000037/bg_s000037.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000037/bg_s000037.webp)
 An: Yay! A “great blessing”!
 Kohane: Really? That's great, An! Mine was a “blessing”.
 Toya: I got a “good blessing”.
@@ -96,7 +96,7 @@ Akito: A “blessing” and “minor blessing” aren't that different, right?
 Toya: To be fair, most hierarchies naturally place “blessings” over “minor blessing”.
 Minori: Oh, you can always draw another one if you're not happy with what you got!
 Akito: Does anyone actually fall for that...?
-(White cut)
+(White transition)
 (Background change)
 Kohane: Hehe. These always have such interesting suggestions written in them too...
 Kohane: Oh, like this one... “Follow your heart...”
@@ -107,4 +107,4 @@ An: Haha! So much for our day off! We'd be back on schedule sooner than expected
 An: At the same time, I guess that's sort of how we are!
 Kohane: Yeah!
 Kohane: Let's make this year a good one, you guys!
-(Black cut)
+(Black transition)

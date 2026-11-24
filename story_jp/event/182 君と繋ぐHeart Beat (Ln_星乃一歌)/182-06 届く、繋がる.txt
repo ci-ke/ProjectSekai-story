@@ -35,22 +35,18 @@
 アオイ: 『あの曲を聴いた時、ミクとのいろんな思い出が浮かびました。 初めて出会った時のことや、 ミクのおかげで世界が変わったこと』
 アオイ: 『この気持ちを何か形にしたくて、 気づいたら夢中で動画を作ってたんです』
 一歌: 世界が……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: ミクとの出会いで、自分の世界がどんどん 広がっていったのを伝えたかったんだ
 一歌: ——ミクのおかげで、私の世界は変わったんだよって！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……やっぱり、アオイさんも同じ気持ちだったんだ）
 一歌: あ、またメッセージが——
 一歌: え……？
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -85,15 +81,11 @@ MEIKO (Ln): 『それに……一歌はミクのおかげって言ってたけ�
 MEIKO (Ln): 『この曲を作ったのは一歌だし、 アオイさんは、一歌の曲を聴いて心を動かされたんだから』
 MEIKO (Ln): 『一歌の曲に、それだけの力があったってことじゃないかな』
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 アオイ: 『あの曲を聴いた時、ミクとのいろんな思い出が浮かびました。 初めて出会った時のことや、 ミクのおかげで世界が変わったこと』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 一歌: ……そっか
 一歌: あの曲を、作ってよかったな
 一歌: 最初は、自分がただミクの曲を作りたいって…… それしか考えてなかったけど
@@ -101,4 +93,4 @@ MEIKO (Ln): 『一歌の曲に、それだけの力があったってことじ�
 MEIKO (Ln): 『……よかったね』
 MEIKO (Ln): 『ミクのことが好きな人達に、 たくさん届いてるみたいだし……』
 MEIKO (Ln): 『一歌の曲——もっと広がっていきそうだね』
-(Black cut)
+(Black transition)

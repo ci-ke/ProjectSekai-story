@@ -9,7 +9,7 @@ MEIKO (Ln): <I came to see how you were doing...>
 MEIKO (Ln): <And I take it things haven't been going well.>
 Saki: ...
 Saki: MEIKO, I...
-(Black cut)
+(Black transition)
 MEIKO (Ln): <I see. Which led to you and Ichika butting heads...>
 Saki: Yeah...
 Saki: I... I really don't know what we're supposed to do now...
@@ -32,7 +32,7 @@ Saki: Oh...
 Ichika: Sorry, Saki, I'm back...
 Ichika: Huh? MEIKO...?
 MEIKO (Ln): <Ah, she's back. Now, shall we?>
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -49,7 +49,7 @@ Saki: But we're still... We're still not happy with what we have...
 Miku (Ln): A work in progress is just fine. We want to hear what you two have created.
 Saki & Ichika: ...
 Ichika: Then...
-(Black cut)
+(Black transition)
 Luka (Ln): I see. So these are the songs you came up with.
 Ichika: Yes... I came up with the chord progression for the first one, and Saki the melody. The opposite applies to the second...
 Saki: ...
@@ -97,15 +97,11 @@ Ichika: (Saki seems like she's having so much fun...)
 Ichika: (She can't stop coming up with new ideas... Wait, is this because...?)
 Ichika: (Is that why Miku and the others have been able to give such constructive criticism? Are they being more open-minded about all this?)
 Ichika: (I thought we were having a nice exchange of ideas, but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: ...
-(Black cut)
+(Black transition)

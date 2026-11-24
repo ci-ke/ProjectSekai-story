@@ -3,7 +3,7 @@
 (Character: 星乃一歌, 天馬咲希, 桐谷遥)
 
 (Video: link2_idol_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　２年Ａ組]
@@ -15,7 +15,7 @@
 遥: （……いろんなボランティアをするようになって、 毎日充実してるな）
 遥: （新しいこと、始めてみてよかった）
 遥: （背中を押してくれたお母さんに、感謝しないとな）
-(White cut)
+(White transition)
 
 [数カ月前]
 
@@ -32,18 +32,14 @@
 咲希: わあ……ありがとう！　じゃあ、３人で勉強会だね！ おやついっぱい買ってこよーっと♪
 一歌: もう、勉強がメインだからね？
 咲希: わかってるもーん♪
-(Black cut)
+(Black transition)
 (Background change)
 遥: （——うん。これくらいまとめれば、 問題パターン別のポイントをスムーズに教えられそう）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……すごいのは、天馬さん達なんだけどな）
 遥: （お客さんに最高の演奏を届けるために、 いつも頑張ってて……）
@@ -80,13 +76,13 @@
 遥の母: 私は、どんな道を選んでも応援するから。 遥の想いを大切にして、ゆっくり考えてみて
 遥: （……私にできることなんて、もうないかもしれない）
 遥: （でも、もしほんの少しでも可能性があるなら……）
-(White cut)
+(White transition)
 (Background change)
 遥: （あれから、いろんなボランティアに 参加するようになったけど……）
 遥: （……やっぱり、私がお姉さんみたいにできるとは思えない）
 遥: （でも、少しでも誰かの役に立てるのは嬉しいし、 やりがいもあるから）
 遥: （今は……目の前の人のために、できることをしよう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -124,7 +120,7 @@
 遥: 私が、行きたい場所へお連れします
 伸子: ——そうね。じゃあ……
 伸子: 車いすをお願いできる？
-(Black cut)
+(Black transition)
 
 [数週間後]
 
@@ -142,19 +138,15 @@
 遥: え……
 伸子: あなたのおかげで—— 少しだけ、生きるのが楽しみになったのよ
 遥: （……私、が……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……でも、私は……）
 伸子: ——遥ちゃん、ありがとう。 私に希望をくれて
 伸子: あなたに出会えて、よかったわ
 遥: あ……
 遥: ……こちらこそ、ありがとうございます
-(Black cut)
+(Black transition)

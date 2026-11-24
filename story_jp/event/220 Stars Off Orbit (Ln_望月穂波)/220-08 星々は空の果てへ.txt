@@ -35,7 +35,7 @@
 穂波: わたし、志歩ちゃんを追いかけてくる
 一歌: ……わかった
 一歌: …………ごめん
-(Black cut)
+(Black transition)
 (Background change)
 穂波: 志歩ちゃん、……っ志歩ちゃん！
 志歩: …………
@@ -46,8 +46,8 @@
 志歩: でも、今日はもう……みんなと話せる気がしない
 志歩: ちょっと頭……冷やさせて。 また、落ち着いてから話そう
 穂波: 志歩ちゃん……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000643/bg_s000643.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000643/bg_s000643.webp)
 穂波: （……どうすれば、よかったの？）
 穂波: （わたし、何か……間違えた？）
 穂波: （もう、このまま……？）
@@ -57,9 +57,9 @@
 穂波: （…………でも……）
 穂波: （話して……何を、決めればいいの……？）
 穂波: （わたしは…………）
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [ソリス・レコード事務所]
@@ -79,15 +79,11 @@
 真堂: ですが——その綻びが大きな亀裂にもなり得てしまう
 真堂: ……たくさん話し合ってください。 皆さんが、心から納得できるまで
 穂波: ……わかりました
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （……みんなの大切なものは ちょっとずつ違ってきてるのかもしれない）
 穂波: （Leo/needのために、その気持ちを押し殺して………… ここまで進んで来ちゃったのなら）
@@ -95,4 +91,4 @@
 穂波: （みんなが、ちゃんと納得できる道が あるのかわからないけど……）
 穂波: （バラバラにならないように、 みんなで——一緒にいられるように）
 穂波: （わたし達の、道を——）
-(Black cut)
+(Black transition)

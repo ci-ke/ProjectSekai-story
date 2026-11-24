@@ -40,7 +40,7 @@ Ena: <Okay, geez! Just gimme a sec...!>
 Kanade: <Hehe...>
 (Background change)
 Mafuyu: ...
-(Black cut)
+(Black transition)
 Mafuyu: *Sigh*
 Mafuyu: (My break's almost over...)
 Mafuyu: <Sorry, I need to head back to class...>
@@ -96,7 +96,7 @@ Mafuyu: Okay...
 (Background change)
 Kanade: <Anyway, Yuki, we'll see you later.>
 Mafuyu: Okay, see you...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -173,7 +173,7 @@ Miku (N25): <Me? Um...>
 Miku (N25): <I'll be happy with whatever you decide to get, Mafuyu...>
 Mafuyu: You will...? Then, I'll try to find something nice.
 Miku (N25): <Okay...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [School trip - Final day]
@@ -189,4 +189,4 @@ Mafuyu: Hehe. Then, we'll go to a big shop, then the monaka shop.
 Classmate C: Alright, let's make the most of our last day!
 Classmates A & B: Yeah!
 Mafuyu: Hehe.
-(Black cut)
+(Black transition)

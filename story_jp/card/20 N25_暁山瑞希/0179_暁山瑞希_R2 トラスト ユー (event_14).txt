@@ -32,22 +32,18 @@ Skill name: 頼ってくれてもいいんだよ
 瑞希: 『オッケー♪　じゃ、またあとで！』
 (Background change)
 瑞希: （んー。えななん、なんか変だったなぁ。 眠いわけじゃないのに、やたらテンション低いし）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏: 『じゃあ、新曲を仕上げていこうか。 もう少しでアップできそうだから、頑張ろう』
 (Background change)
 瑞希・絵名: 『うん！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （やっぱ、昨日と今日でテンション違いすぎじゃない？）
 瑞希: ……しょうがないなぁ
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -61,7 +57,7 @@ Skill name: 頼ってくれてもいいんだよ
 瑞希: （まあでも、来てくれたんだからいっか）
 瑞希: ねえ、ご飯食べる前に この辺ブラブラして買い物もしていこうよ！
 絵名: いいんじゃない？ あ、ちょうど青になったし、行こ
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -70,7 +66,7 @@ Skill name: 頼ってくれてもいいんだよ
 瑞希: へえ、生地も値段の割にいいの使ってるじゃん。 そのワンピなら……ほら、このインナーと合わせるのとかどう？
 絵名: いいかも！　ああでも……んー、迷う……！
 瑞希: 時間はあるし、ゆっくり悩めばいいよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [ファミリーレストラン]
@@ -99,7 +95,7 @@ Skill name: 頼ってくれてもいいんだよ
 瑞希: オッケー♪
 絵名: そうだ。SNS用の写真も撮りたいから、 あとでちょっと協力してよ
 瑞希: はいはい。もちろんですよー
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -117,20 +113,16 @@ Skill name: 頼ってくれてもいいんだよ
 瑞希: 『あはは……たしかに詰めこみすぎちゃったかも。 何を一番見せたいのか、もう１回考えるよ』
 (Background change)
 瑞希: （あと、絵名の意見も聞ければよかったんだけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 絵名: 描いてみるよ。 ……うまく描けるか、わかんないけどね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （奏が絵名のために作った曲に、 今度は絵名が、絵を描いてる……）
 瑞希: （……どんな絵になるか楽しみだけど、 でも……）
-(Black cut)
+(Black transition)
 (Background change)
 奏: 『雪、Amiaの絵コンテを見て思ったんだけど、 動画とリンクするキーワードみたいなもの、 今からでも歌詞に入れられる？』
 まふゆ: 『……無理じゃないと思う。 でも、少し時間はかかる』
@@ -174,4 +166,4 @@ Skill name: 頼ってくれてもいいんだよ
 (Background change)
 (Background change)
 瑞希: （——絵名、ファイト！ ボク達、待ってるからね）
-(Black cut)
+(Black transition)

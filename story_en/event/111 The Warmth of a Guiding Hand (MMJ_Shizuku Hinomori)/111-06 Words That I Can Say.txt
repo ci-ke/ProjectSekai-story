@@ -10,7 +10,7 @@ Shizuku: No, they were...
 Shizuku: But there's something I need to discuss with all of you.
 Luka (MMJ): <Did something happen just now?>
 Shizuku: Yes, so...
-(Black cut)
+(Black transition)
 Haruka: I see... Saito's grandmother is okay with her granddaughter not taking over because she wants her to be happy.
 Airi: Then, doesn't that give Saito the green light to start pursuing her dream?
 Minori: But... She still said she was gonna take over even after she heard what her grandmother had to say.
@@ -22,15 +22,11 @@ Miku (MMJ): <Hmm... Saito's mother did say she's looking forward to her becoming
 Len (MMJ): <I think that's only a part of it. I'm guessing that she feels a sense of duty.>
 Len (MMJ): <Remember what she said when we first got here...? She said, “I'm an only child...”>
 Shizuku: Expectations... Duty...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: I think I understand how she feels.
 Haruka: Huh...?
@@ -53,7 +49,7 @@ Haruka: I agree... I think she'd respond really well to what you just said.
 Airi: I mean, Shizuku, I feel like you're the only one who can make all that clear to Saito. So I think you should go talk to her.
 Shizuku: Only I can...?
 Shizuku: Right. Then, I'll try talking to her.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lobby]
@@ -61,15 +57,11 @@ Shizuku: Right. Then, I'll try talking to her.
 Saito: Oh, it's already this late...?
 Saito: (Wait, do we still have enough beer in stock? I need to check the inventory list after I'm done taking my break.)
 Saito: (Then, I have to start prepping for breakfast. We're supposed to serve salmon tomorrow, so I'm sure Minori won't know what to do with herself, and...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saito: (My mind keeps wandering every chance it gets.)
 Saito: I thought I'd gotten over all that yesterday...
@@ -77,15 +69,11 @@ Saito: ...
 Saito: (Until just a little while ago, my event job partly felt almost like a hobby.)
 Saito: (I gained such a huge interest in that line of work after shaking hands with Shizuku...)
 Saito: (I knew that I'd have to take over here someday, so I figured even a part-time job in the industry would do. But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saito: (Seeing everyone shine on stage and the way the crowd reacted... I wanted to make more of that happen. I was willing to give it everything I had.)
 Saito: (I even started learning about how to be a manager. But I began taking things so seriously that I started forgetting about this place...)
@@ -110,4 +98,4 @@ Saito: I need to check on our inventory and start prepping for breakfast while I
 Saito: Huh...?
 Shizuku: Do you have a minute to talk?
 Saito: Shizuku...?
-(Black cut)
+(Black transition)

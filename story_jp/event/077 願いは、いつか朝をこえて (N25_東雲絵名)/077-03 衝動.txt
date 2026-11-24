@@ -15,10 +15,8 @@
 まふゆ: はい、ありがとうございます。 おじゃまします
 (Background change)
 レン: （……まふゆちゃん、大丈夫かな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [誰もいないセカイ]
@@ -39,10 +37,8 @@
 ミク (N25): うん、いいと思う
 ミク (N25): まふゆを、よろしくね
 レン: ……うん！
-(Black cut)
-
-(Memory cut-out)
-
+(Black transition)
+(Flashback out)
 (Background change)
 
 [絵名の部屋]
@@ -97,16 +93,12 @@
 レン: 『えっと、お父さんやお母さんみたいな—— 大事な人に否定されたら、すごく苦しいから』
 絵名: あ……
 絵名: （否定、されたら……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 父親: お前に、画家になれるほどの才能はない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: …………
 絵名: それは……少し、わかるかも
@@ -143,23 +135,19 @@
 まふゆの母: 『もしかして……』
 まふゆの母: 『——まふゆと一緒に、音楽をしている子？』
 絵名: ……っ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: もしかして…… まふゆ、音楽やってること話してないの？
 まふゆ: ……うん。 お母さんは、私に勉強してほしいって思ってるから
 まふゆ: ……それで昔、部屋に置いてたシンセを 捨てられそうになったの
 奏・絵名: 『えっ……！？』
-(White cut)
+(White transition)
 瑞希: ……ねえ、まふゆ。 そのあと何か言われたりしてないの？
 まふゆ: ……うん。ナイトコードとか、曲のデータは見つからないように 隠してあったから、多分みんなのことは気づかれてないと思う
 奏: そっか……。 見つかってないなら、よかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……まふゆの話からすると、ニーゴのことは 親には言ってないはず……）
 絵名: （もしかして、パソコンの時と同じで 探りを入れてるのかも）
@@ -221,4 +209,4 @@
 まふゆ: ……私も行く。 泊めてもらうなら、改めて挨拶しないと
 絵名: そう？　別に気にしなくてもいいけど……。 じゃあ一緒に行こっか
 まふゆ: ……うん
-(Black cut)
+(Black transition)

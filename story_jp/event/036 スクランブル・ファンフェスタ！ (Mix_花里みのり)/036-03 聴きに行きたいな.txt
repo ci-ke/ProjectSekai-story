@@ -9,16 +9,12 @@
 奏: あとはみんなの意見を聞いて 細かいところを詰めていこう
 奏: そろそろ次の曲も考えておかないと。 この曲が完成したらすぐに作曲に入れるように
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: よかった、と思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの時、ほんの少しだったけど……まふゆの表情が変わった）
 奏: （まふゆのことは、まだ救えてないけど——）
@@ -34,7 +30,7 @@
 奏: ……あれ？　投稿者コメントに続きがある……
 奏: えっと…… 『突然のお知らせですが、 次のファンフェスタに参加予定です』……？
 奏: ファンフェスタ……。 そんなのがあるんだ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -93,4 +89,4 @@ MEIKO: …………
 奏: ……え、どうしたの？　ミク
 ミク (N25): 楽しんできてね
 奏: ……うん、ありがとう
-(Black cut)
+(Black transition)

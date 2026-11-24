@@ -18,12 +18,12 @@
 絵名: （C評価……）
 絵名: そっか……
 絵名: …………そっか
-(Black cut)
+(Black transition)
 雪平: ……夏野さん、東雲さんを見ませんでしたか？
 二葉: え、絵名ちゃんですか？ えっと……
 二葉: あれ？　いないですね。 さっきまでいたんですけど……
 雪平: …………
-(Black cut)
+(Black transition)
 (Background change)
 雪平: ——東雲さん
 絵名: あ……
@@ -75,7 +75,7 @@
 絵名: 先生……
 雪平: さて……どうしますか？
 絵名: よろしく、お願いします……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -118,4 +118,4 @@ SNSコメント: 『えななん、最近更新ないな』 『この間の写�
 絵名: 『あー……うん。 そんなに大したことじゃないんだけど』
 (Background change)
 絵名: 『実は、東美を目指すことにしたんだ。 だからね——』
-(White cut)
+(White transition)

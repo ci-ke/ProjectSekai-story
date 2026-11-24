@@ -12,7 +12,7 @@ Kanade: ...
 Kanade: No, a piano won't work here... It needs something stronger...
 Kanade: Maybe I can test out a few more sounds. Once this part's done...
 Honami's Voice (Honami): Ms. Yoisaki, dinner's ready!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -38,7 +38,7 @@ Kanade: (I wish we could see them again...)
 Kanade: ...
 Kanade: Um, Ms. Mochizuki? If this branch does end up blooming, would you mind showing me?
 Honami: Oh, of course! I'll do my best to make sure it does!
-(Black cut)
+(Black transition)
 
 [One week later]
 
@@ -57,7 +57,7 @@ Kanade: ...
 Honami: I apologize if I'm assuming too much...
 Kanade: No, I really appreciate it...
 Kanade: Thank you. I promise to take good care of it.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -71,7 +71,7 @@ Kanade: Here, some cherry blossoms. A very good friend of mine gave them to me..
 Kanade: I hope you still remember... That time we went to see them with mom...
 Kanade: ...
 Kanade: Maybe someday, we can go again together...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -84,16 +84,12 @@ Kanade: All that's left is to see what everybody thinks, make adjustments based 
 Kanade: Phew...
 Kanade: I'll have to start thinking about the next song too...
 Kanade: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: ♪――――
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (That song I heard on the way back from the hospital was so nice...)
 Kanade: (The guitarist did a good job too. Some parts sounded a little unrefined, but it felt both powerful and kind at the same time...)
@@ -102,7 +98,7 @@ Kanade: (Only the person who was playing that can probably create the atmosphere
 Kanade: Powerful but kind, and a hint of doubt...
 Kanade: Ah...
 Kanade: (This should turn into a good melody.)
-(Black cut)
+(Black transition)
 Kanade: Oh, it's almost time...
 Kanade: <Are you all here?>
 (Background change)
@@ -128,16 +124,12 @@ Mafuyu: <At the same time, there seemed to be some deeper meaning behind this me
 Mizuki: <Yeah, that! I can't put my finger on it, but didn't it feel like it was trying to encourage you or something?>
 (Background change)
 Kanade: <...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: ♪――――
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <Actually, it's based off something I heard a street performer play the other day.>
 Kanade: <The sound felt like something only they could produce and I kind of liked it...>
@@ -158,7 +150,7 @@ Kanade: <Okay, I understand. Let's make this one together...>
 (Background change)
 Mizuki: <Alright! Now you gotta give us the full version of this song!>
 Kanade: <I will.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -173,4 +165,4 @@ Kanade: But I was able to show it to the person I was hoping to most.
 Honami: Really? I'm glad I could help.
 Kanade: You did...
 Kanade: (Thank you so much...)
-(Black cut)
+(Black transition)

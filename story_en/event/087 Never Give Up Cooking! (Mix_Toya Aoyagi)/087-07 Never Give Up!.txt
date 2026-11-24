@@ -31,7 +31,7 @@ KAITO: You taught him how to bake, Miku...?
 Miku (VBS): Y-Yes... Wait, what do you mean by that...?
 MEIKO: Oh dear... She tried to teach him...
 KAITO: This... Sounds like it didn't end very well...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -75,22 +75,18 @@ KAITO: <In the meantime, I'll ask MEIKO again to see if we can borrow her kitche
 Toya: Thank you very much. I'll be looking forward to it...!
 Toya: (Now KAITO's going to help... I couldn't ask for more.)
 Toya: (Come to think of it, quite a few people have been helping me lately...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (They've given me so much... So, for their sake, I need to succeed this time.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -115,15 +111,15 @@ Miku (VBS): Because of that, I ended up causing Toya a lot of trouble yesterday.
 Miku (VBS): So, in order to do a better job of being a teacher next time, I'd like to learn how to cook and bake properly.
 KAITO: Yes, of course...! Let's do our best together, Miku!
 Miku (VBS): Thank you.
-(Black cut)
+(Black transition)
 KAITO: Hmm... Yes, I see... Based on your story, Toya, I suspect that the way you mixed your batter has everything to do with them not rising properly.
 KAITO: Baking sweets is a delicate art. As such, even when mixing the batter, you need to be careful.
 Toya: So, Miku was right about that...?
 KAITO: Yes! She made an astute observation there!
 KAITO: However, well... There's no way for you to know how to mix them right without learning first.
 KAITO: So, we'll keep that in mind as we do this together.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000170/bg_s000170.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000170/bg_s000170.webp)
 KAITO: In order to make the meringue, you'll need to mix the egg whites while gradually adding in the sugar until you get these peaks.
 Toya: Peaks...? Yes, I suppose they are...
 Miku (VBS): They do look like little mountains. I think they're pretty.
@@ -131,7 +127,7 @@ KAITO: Don't they? Now, once the meringue's done, you'll put it into the bowl wi
 KAITO: But you'll need to mix it by gently cutting into it and folding it over. Otherwise, you risk pushing all the air out.
 KAITO: By doing so, you should end up with a soft and fluffy texture. So, Toya, give it a try.
 Toya: O-Okay...!
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: Hehe...
 Luka: MEIKO? Is something the matter?
@@ -141,4 +137,4 @@ Luka: Oh, can I have some with lots of milk and sugar?
 MEIKO: Sure Rin, Len, would you two like some as well?
 Len: Yeah!
 MEIKO: Since they're baking a delicious cake for us, I'll need to brew up some coffee to match.
-(Black cut)
+(Black transition)

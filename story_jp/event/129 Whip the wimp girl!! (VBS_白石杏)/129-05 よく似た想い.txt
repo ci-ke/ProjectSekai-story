@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ライブハウス]
@@ -11,12 +11,12 @@
 
 謙: それじゃ、今日もぶちかましてこい！
 杏・こはね・彰人・冬弥: 『はい！！』
-(Black cut)
+(Black transition)
 (Background change)
 彰人: そんじゃ、反省会始めるぞ。 いつもみたいに、気になったことはバンバン挙げてってくれ
 こはね: あ、えっと……今日はサビ前がもうちょっと タメられたんじゃないかなって思ってて——
 冬弥: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [数カ月後]
@@ -32,7 +32,7 @@
 杏: ……うん
 こはね: あ、信号変わっちゃいそう！ またね、杏ちゃん！
 杏: ——うん！ 気をつけてね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [杏の部屋]
@@ -41,37 +41,29 @@
 杏: （ダメだな、私……）
 杏: （……あれからずっと、 この気持ちをどうにかできないかって、考えてみた）
 杏: （でも、今日も……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ——杏ちゃん。私、もっと頑張るよ。 みんなで、RAD WEEKENDを超えるために
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （こはねの笑顔に、まっすぐ応えられなかった）
 杏: （ちゃんと……向き合えなかった）
 杏: （……やっぱり、このままじゃダメだ）
 杏: （でも一体、どうすればいんだろう……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 思い切って話してみるのはどう？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （こはねに、話す……）
 杏: （でもそれは…………）
 杏: ……こんな時間に、メッセージ？ 誰が……
 杏: え——
-(Black cut)
+(Black transition)
 (Background change)
 
 [30分後]
@@ -96,15 +88,11 @@
 冬弥: あの時の白石は、似ているんだ
 冬弥: 以前の——BAD DOGSを抜けると言った時の俺と
 杏: え？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……あの時俺は、 本当の気持ちを隠して、彰人から離れようとした
 冬弥: ……俺自身の、 『俺は彰人と同じように夢を持てていない』という気持ちを、 正直に話すことができなかった
@@ -118,15 +106,11 @@
 杏: （恐怖……）
 杏: （……そう、なのかな）
 杏: （私も、もしかして——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………っ
 杏: ……たしかに、そうかも
@@ -163,4 +147,4 @@
 杏: ありがとう
 杏: ……私、考えてみる
 杏: こはねにちゃんと、この気持ちを伝えられるように
-(Black cut)
+(Black transition)

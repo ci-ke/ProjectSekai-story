@@ -12,7 +12,7 @@ Kohane: D-Does that actually work...?
 Kohane: No, don't say that...! I should try whatever I can!
 Kohane: You can do it. You can do it! You can do it...!
 Kohane: No, I'm not sure it's helping...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -32,7 +32,7 @@ An's Father: Who knows?
 An's Father: Why don't you ask Akito and Toya about this? I mean, you're teammates, right?
 An: Oh, duh...! I'll try calling them!
 An: Hey, Akito? There's something I want to ask your opinion about...
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -46,23 +46,19 @@ Kohane: Wait, this is... STAY GOLDEN?!
 Kohane: There's already another one coming up?
 Toya: Yes. It's held periodically and it's already that time of year again.
 Kohane: Another one...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Kohane: (Wait, what's happening? I can't sing as well as when we were rehearsing...)
 Kohane: (Oh, I get it. It's because the audience is so loud, it's drowning out everyone's voices!)
 Kohane: (What do we do? It'll be dark soon too...! If we can't get back up, does that mean we'll...?)
-(Black cut)
+(Black transition)
 MC: And the winner is... EVER!
 MC: Their unbelievable performance and energy just trumped everyone else's!
 An & Kohane: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kohane: (That time...)
 Akito: EVER, the winners from last time, are supposedly gonna be in it too.
 Akito: They're good, but based on where we are right now, I think we can beat them.
@@ -86,7 +82,7 @@ Akito: Alright, that settles that. I'll deal with the paperwork.
 Toya: Sounds good. Thanks, Akito.
 Kohane: (But we'll be fine... I'll be fine...! I practiced and worked so hard since then!)
 Kohane: (This time, we have to win...!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -110,4 +106,4 @@ KAITO: I'm really looking forward to this! I never knew that being a judge could
 MEIKO: You seem like the type that gives everyone a perfect score, KAITO.
 An: Alright, let's get started! Ready?
 Kohane: Yeah...!
-(Black cut)
+(Black transition)

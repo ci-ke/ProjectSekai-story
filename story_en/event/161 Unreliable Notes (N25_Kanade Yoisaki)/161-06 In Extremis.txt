@@ -68,7 +68,7 @@ Ena: <Wait, Yuki, what was that sound just now?!>
 Mizuki: <Yeah, what's going on?!>
 (Background change)
 Mafuyu: <I'll go check.>
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: What's the right sound...?
 Kanade: How do I capture the warmth Mafuyu felt?
@@ -98,15 +98,15 @@ Mafuyu: *Nod*
 Kanade: No, Mafuyu...!
 Kanade: Don't go with her!
 Kanade: Mafuyu!
-(Black cut)
+(Black transition)
 ???: <Kanade!>
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000423/bg_s000423.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000423/bg_s000423.webp)
 Rin (N25): <Kanade! Are you okay...?!>
 Rin (N25): <Can you hear me?!>
 Kanade: *Groan*
 Kanade: H-Huh...? I can't move... My body...
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: Kanade, stay still.
 Kanade: B-But...
@@ -148,4 +148,4 @@ Mizuki: <Hey, Kanade?>
 Mizuki: <While we wait, can we chat for a bit?>
 (Background change)
 Kanade: Huh...?
-(Black cut)
+(Black transition)

@@ -44,27 +44,19 @@
 彰人: （それに今も、オレは自分を 『かっこいい』とは思えねえ）
 彰人: （なんせ……道半ばだ。 前より成長したっつっても、まだ夢を叶えられたわけじゃない）
 彰人: （だが……）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000239/bg_s000239.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000239/bg_s000239.webp)
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あの時、オレは——オレのすべてを乗せる歌を見つけた）
 彰人: （おかげで街のヤツらに火をつけることもできて……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あいつらとも、肩を並べられるようになった。 そんな気がする）
 彰人: （なら……）
@@ -89,12 +81,12 @@
 彰人: （ここに反映されてるのは——多分、その想いだ）
 彰人: （だから壁にゴールがある）
 彰人: （挫折も苦しみも全部、 あの壁を壊すための糧にしろ……ってな）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000272/bg_s000272.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000272/bg_s000272.webp)
 彰人: ——この先も、オレの人生には、きっとでかい壁がある
 彰人: だが、どんだけ挫けても、立ち止まらない限り、 いつか道は開ける
 彰人: だから——死ぬ気でこじ開けていくために、 気合い入れようって思ってな
-(White cut)
+(White transition)
 (Background change)
 レン (VBS): ……いくよ彰人！　パス！
 リン (VBS): ……すっごーい！ トルネードシュートだ！！
@@ -109,6 +101,6 @@
 彰人: いや、さすがにこの程度でヒビ入るわけねえだろ！
 リン (VBS): でも……入ってるよ？　ヒビ
 彰人: 一体、どうなってんだ……？
-(Black cut)
+(Black transition)
 (Video: link_street_ed1)
-(Black cut)
+(Black transition)

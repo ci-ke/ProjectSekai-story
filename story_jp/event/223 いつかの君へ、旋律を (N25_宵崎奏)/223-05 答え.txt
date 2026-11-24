@@ -31,16 +31,12 @@ MEIKO (N25): 『どんな言葉だろうと、 相手にとっては救いにな
 MEIKO (N25): 『ええ』
 奏: ……それなら……
 奏: それなら、わたしが——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): 『……もし、仮に——』
 MEIKO (N25): 『なにか良くない方向へ行ったとして、 それはあなたの責任になるのかしら』
@@ -57,4 +53,4 @@ MEIKO (N25): 『それに、たとえよくない方向へ行ったとしても�
 奏: え……
 ルカ (N25): 『私は、その恐怖の理由を知っているわ』
 ルカ (N25): 『知りたくはないかしら』
-(Black cut)
+(Black transition)

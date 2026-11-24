@@ -2,7 +2,7 @@ street_01_11 The Courage I Need
 
 (Character: Kohane Azusawa, An Shiraishi, Hatsune Miku, Kagamine Len, MEIKO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -26,17 +26,13 @@ Kohane: .....
 MEIKO: Len's right. The fact that you're worrying so much about this is proof that you want things to change—that you're trying desperately to open the next door.
 Kohane: The next door?
 Kohane: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: That's right. I made up my mind that I'd go listen to that song again!
 Kohane: So... I've got to open the door!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: But...I...
 Miku (VBS): Whether you're going to stop here or step through that next door is up to you.
@@ -44,17 +40,13 @@ Kohane: .....
 Miku (VBS): What do you think your true feelings are, Kohane?
 Kohane: My true feelings...?
 Kohane: I'm not sure, but...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: ♪ ——! ——! ——!!
 Kohane: ——♪ ——♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: The first time I sang at the cafe was so fun. My heart was racing.
 Kohane: I just can't get that feeling out of my head. That's why I was so happy when An invited me to team up with her.
@@ -79,14 +71,14 @@ MEIKO: You're right. And it would seem Untitled is one step closer to becoming a
 Len: Hehe. I hope we'll be able to sing it with them soon!
 Miku (VBS): Right?
 Miku (VBS): Good luck, Kohane.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kohane's Room]
 
 Kohane: .....
 Kohane: I've got to change even more...so An and I will be able to put on the greatest event ever.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -104,4 +96,4 @@ An: (But now...)
 An: Sorry, Dad! I need to go see Kohane so I can—
 Kohane's Voice: An...
 An: Huh? Kohane?
-(Black cut)
+(Black transition)

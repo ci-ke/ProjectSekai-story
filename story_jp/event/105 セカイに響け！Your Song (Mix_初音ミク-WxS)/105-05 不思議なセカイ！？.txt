@@ -25,15 +25,11 @@ KAITO: うん。もしかしたら——
 KAITO: 違うセカイの僕達が、応援してくれたのかもしれないね
 ミク (WxS): 違うセカイの、ミク達？
 KAITO: うん、前に話したことがあるだろう？ 想いの欠片に触れて——不思議なセカイに行った時のこと
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (WxS): あっ……！ その時、ミク達じゃないミク達に会ったんだよね！
 KAITO: うん
@@ -51,10 +47,10 @@ KAITO: ええ！？　それは大変だ！ ごめん、ちょっと行ってく
 ミク (WxS): あそこで何か光ってるの、なんだろ？
 ミク (WxS): わ～、ピカピカ光ってる！ 何かのショーで使った小道具かなあ？
 ミク (WxS): わっ！
-(White cut)
+(White transition)
 (Background change)
 ミク (WxS): わあ～～～～～～～～！！！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -73,4 +69,4 @@ KAITO: ええ！？　それは大変だ！ ごめん、ちょっと行ってく
 ミク (WxS): セカイってこんなに違うんだ！！　楽しい～☆
 ミク (WxS): 他にはどんなのがあるんだろっ？
 ミク (WxS): よーし、探検するぞ～～～～！
-(Black cut)
+(Black transition)

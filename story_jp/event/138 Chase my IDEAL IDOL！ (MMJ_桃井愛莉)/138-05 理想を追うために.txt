@@ -23,15 +23,15 @@
 愛莉: リン、ポーズの練習をしてるの？
 リン (MMJ): うん！　頑張る愛莉ちゃんを見てたら、 わたしも練習しなくちゃって思って、 ミクちゃんとルカちゃんに教えてもらってるんだ！
 リン (MMJ): それでね、今練習してる曲のラストのポーズなんだけど——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000337/bg_s000337.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000337/bg_s000337.webp)
 リン (MMJ): こういうのはどうかな！？
 リン (MMJ): お客さんに元気をいーっぱい届けられるように、 『みんなのこと大好きだよ～！』って気持ちを込めて！
 愛莉: いいじゃない！ とってもかわいくて、リンらしいわ！
 愛莉: でも、ちょっと待って。 もっと効果的にするなら、手の広げかたを——
 リン (MMJ): あっ、ダメだよ！ 愛莉ちゃんはちゃんと休憩してなくちゃ！
 愛莉: あ……そ、そうだったわね
-(White cut)
+(White transition)
 (Background change)
 ルカ (MMJ): ふふ。 リンちゃんに怒られる愛莉ちゃん、本当に新鮮だわ
 愛莉: ……なんだか恥ずかしいわね。 でも、もっとよくなるって思ったら、 黙っていられなくなっちゃって
@@ -76,4 +76,4 @@
 愛莉: 本番まで、もう日がないけど…… 最後まで、気合いいれてやるわよ！
 ルカ (MMJ): ええ。 私もできることを手伝うわ
 リン (MMJ): がんばれーっ、愛莉ちゃーん！
-(Black cut)
+(Black transition)

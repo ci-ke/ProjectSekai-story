@@ -35,7 +35,7 @@ Gacha phrase: 全然想像できない……でも……
 ルカ (WxS): ああ、あの子達ね〜。 最近、よく寧々ちゃんのマネをしているのよ～
 寧々: マネ？
 ルカ (WxS): ふふ、ちょっと行ってみましょうか
-(Black cut)
+(Black transition)
 歌う花達: 『♪——————』
 寧々: あ……歌ってたの、ここの花達だったんだ
 ルカ (WxS): 練習してる寧々ちゃんの歌を聴いて、 ここのお花達も覚えちゃったみたいなの
@@ -67,7 +67,7 @@ Gacha phrase: 全然想像できない……でも……
 ぬいぐるみ達: モシカシテ、寧々チャンの歌聴ケルノ！？
 寧々: うん。よかったら、聴いてってくれると嬉しいな
 寧々: それじゃあ、まずはさっきの曲から——
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,10 +83,8 @@ Gacha phrase: 全然想像できない……でも……
 寧々: （これまでの練習でも大変なことはあったけど、全然質が違う）
 寧々: （苦しくて、怖くて…… 自分が自分じゃなくなっちゃうような……）
 寧々: ……みんな、大丈夫かな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: ……っ、う……
 えむ: お兄ちゃん……お姉ちゃん……
@@ -101,10 +99,8 @@ Gacha phrase: 全然想像できない……でも……
 寧々: うん……。 わたし、司にも声かけてくる
 寧々: ねえ司、そろそろ……
 司: オレは、ひとり……オレは忘れ去られる……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （自分の中の感情を引きずり出して、役と深くつながる……）
 寧々: （すごく苦しいけど、ものにできればきっと…… 今の演技よりもっと良くなる）
@@ -113,14 +109,10 @@ Gacha phrase: 全然想像できない……でも……
 (Background change)
 寧々: （もし、わたしが大切な人を手にかけるとしたら、 どんな風に——どんな気持ちになるんだろう……）
 寧々: （お父さん、お母さん、それに……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 寧々: （全然、想像できない……）
 寧々: （でも、やらなきゃ……！）
 寧々: うっ……！
@@ -147,19 +139,15 @@ MEIKO (WxS): 『頑張りすぎて、もしダメになっちゃったら…… 
 寧々: 自分を見失わないように、気を付けるよ
 ルカ (WxS): 『わたしもそれがいいと思うわ』
 寧々: ただ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 司が、かなり入り込んでる気がするんだよね
 寧々: 人一倍、いいものにしようって気持ちが 強いからだと思うんだけど……
 MEIKO (WxS): 『それは……心配ね』
 寧々: うん……
 寧々: （……司、大丈夫かな……）
-(Black cut)
+(Black transition)

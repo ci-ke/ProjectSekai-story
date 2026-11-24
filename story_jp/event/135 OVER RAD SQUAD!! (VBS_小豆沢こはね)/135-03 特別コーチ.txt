@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数日後]
@@ -26,19 +26,15 @@ COLオーナー: まあ、謙に『特訓に使いたい』って言われた時
 RUSTのメンバーA: ——お、もう準備できてるみたいだな。 ばーさんもまだ生きててよかったよかった
 GLaP dayのメンバーA: その子が大河の秘蔵っ子？ 会えて嬉しいよ
 こはね: （……え？ こ……この人達、もしかして……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: さあ、次は『RUST』！ 飛ばしちゃって！
 RUSTのメンバー: ♪————————！！
-(White cut)
+(White transition)
 GLaP dayのメンバー: ——ありがとう、みんな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: RAD WEEKENDに出てた……！
 GLaP dayのメンバーB: お！ そっちで覚えてもらってるのは嬉しいねえ
@@ -83,7 +79,7 @@ GLaP dayのメンバーA: そうでなきゃあの夜の熱狂は、一瞬だっ
 謙: こいつらは凪ともほぼ互角の連中だ。 こいつらを倒せるだけの力がつきゃ、 風穴を開けられる可能性は格段に上がる
 こはね: （凪さんと互角の人達に、 私が——……）
 こはね: ——よろしくお願いします！！
-(Black cut)
+(Black transition)
 GLaP dayのメンバーA: それじゃあ——いくよ
 GLaP dayのメンバーA: ♪————！！
 こはね: ……っ！
@@ -95,20 +91,16 @@ RUSTのメンバーA: じゃあ、こっちもちょっとは本腰入れねえ�
 RUSTのメンバーA: ♪————————！！
 こはね: …………！！
 こはね: （今、少し——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの時の感じが…………）
 こはね: （ダメだ、気圧されちゃ……！ 前に出なくちゃ！）
 こはね: ♪……————————！！
-(Black cut)
+(Black transition)
 こはね: ……っはぁ、はぁ、はぁ……
 RUSTのメンバーA: ……気迫は悪くなかったが、 １戦目は負けだな、嬢ちゃん
 こはね: …………はい
@@ -122,7 +114,7 @@ GLaP dayのメンバーA: 本気出すのは、喉あったまってからって
 こはね: （でも——悔しいって気持ちで終わっちゃ駄目だ）
 こはね: （伸びなきゃ。 もっと……成長しなくちゃ……！）
 こはね: （RAD WEEKENDを、超えるために！！）
-(Black cut)
+(Black transition)
 
 [２週間後]
 
@@ -139,15 +131,11 @@ RUSTのメンバーA: ♪————！！
 こはね: （もっと……もっと集中しなくちゃ……！）
 こはね: （思い出すんだ。 一番力が出せた時の感じ……！）
 こはね: （あの時、私は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （街の人達の想いを受け取って—— その想いに応えて、響き合うみたいに歌った）
 こはね: （それなら今は—— 私の覚悟と、想いを乗せて……！！）
@@ -164,4 +152,4 @@ RUSTのメンバーA: ヘバってる暇はねえぞ、嬢ちゃん
 RUSTのメンバーA: ——あの夜は、こんなもんじゃなかった
 こはね: …………っ
 こはね: …………はい！！
-(Black cut)
+(Black transition)

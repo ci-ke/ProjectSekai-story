@@ -34,7 +34,7 @@ street_01_16 ３人目
 杏: そう言うと思った
 杏: じゃあ、うちで作戦会議しよっか。 私も最後まで、付き合うからさ！
 こはね: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -47,7 +47,7 @@ street_01_16 ３人目
 新人スタッフ: え？
 ベテランスタッフ: それより、明日のイベントの確認できたか？
 彰人: ………………
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -67,7 +67,7 @@ street_01_16 ３人目
 レン: あれ？　もうひとりはいないの？
 レン: まあ、まずは３人目だね！ ミクとメイコにも教えてあげなくちゃ！
 彰人: お、おい！　なんなんだよここ！ 引っ張るな！
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -90,7 +90,7 @@ MEIKO: とりあえず、座ったら？ なんだかとっても疲れてるみ
 MEIKO: じゃあ、コーヒー１杯だけでもどうかしら。 美味しいチーズケーキもあるわよ
 MEIKO: たまには、誰かに話したほうが いいこともあるわよ
 彰人: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -102,4 +102,4 @@ MEIKO: たまには、誰かに話したほうが いいこともあるわよ
 杏の父: よう、冬弥か。 いつものコーヒーでいいか？
 冬弥: ……いえ、結構です
 冬弥: 今日は……謙さんに、最後の挨拶をしに来ました
-(Black cut)
+(Black transition)

@@ -34,14 +34,14 @@
 まふゆ: ……奏の、手……
 奏: あ——ごめん。 転びそうだったから、つい握っちゃって……
 まふゆ: ……別に、嫌じゃない
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000084/bg_s000084.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000084/bg_s000084.webp)
 まふゆ: …………
 まふゆ: （……奏の手、少し冷たい）
 まふゆ: （でも……どうしてだろう。あたたかい気がする）
 まふゆ: （奏だけじゃない。 絵名も、瑞希も……みんながくれるものが、心地いい）
 まふゆ: （これは……なに？）
-(White cut)
+(White transition)
 (Background change)
 瑞希: ふたりとも、大丈夫？
 奏: うん、なんとか
@@ -67,15 +67,11 @@
 まふゆ: （……もうすぐ、門限だ）
 まふゆ: （ナイトショーを見てたら、門限には間に合わない。 帰らないと……）
 まふゆ: （……でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 レン: 『きっと、みんなと一緒にいるからだね』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: ……。 ……せっかく、来たから
 まふゆ: 少しだけ見て、帰ろうと思う
 奏・絵名: 『……！』
@@ -95,7 +91,7 @@
 まふゆ: （…………苦しい。考えるのはやめよう）
 まふゆ: （今は——）
 まふゆ: （この“あたたかい”に、もう少しだけ——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -110,17 +106,13 @@
 まふゆの母親: （あの子……頑張りすぎたのかしら。 まふゆは昔から努力家だものね）
 まふゆの母親: （でも——連絡してくるのが随分遅かったわね。 休んでいたからってことなんでしょうけど……）
 まふゆの母親: （まふゆが門限を破るなんてこと、 今までなかったのに）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆ: 音楽をやってる友達がいるんだけど、 その子を見てたら興味が出てきて、 私も勉強をしてみたいなって思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆの母親: …………まさか、ね
 まふゆの母親: …………
 教師: 『——はい、宮益坂女子学園です』
 まふゆの母親: もしもし、２年Ｂ組の朝比奈まふゆの母です。 お尋ねしたいことがあるので、 まふゆの担任に代わってもらいたいのですが——……
-(Black cut)
+(Black transition)

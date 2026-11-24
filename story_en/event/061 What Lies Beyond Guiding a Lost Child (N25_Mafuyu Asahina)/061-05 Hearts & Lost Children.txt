@@ -11,14 +11,14 @@ Mafuyu's Mother: Good luck, Mafuyu. You won't be home much later than usual, rig
 Mafuyu: Oh, I have to see how I did for each question before I can come home, so I may run a little late. I'll let you know when I start heading back.
 Mafuyu's Mother: Understood. I'll be wishing you the best, so please get there safe.
 Mafuyu: Thank you, bye.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
 
 Mafuyu: The exam's taking place... I think over there...
 Mafuyu: ... I have to go...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -29,28 +29,20 @@ Mafuyu: I have to get an A... Mom's counting on me...
 Mafuyu: (But...)
 Mafuyu: (My chest... It feels so cold...)
 Mafuyu: (Why...? I just want her to be happy...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: I'll be looking forward to seeing some good results.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I can't disappoint her...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: But you wouldn't have come here if some part of you thought she wasn't right, don't you think...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I have to...)
 Mafuyu: A message...? From who...?
@@ -62,40 +54,32 @@ Mafuyu: Huff... Huff...
 Mafuyu: (This is awful... My insides feel like they're getting all twisted up... I'm having trouble breathing...)
 Mafuyu: (But I have to get there soon...)
 Mafuyu: (If I don't take this exam, she'll...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: If you truly wish to do something, Mafuyu, you're free to do it...
 Mafuyu's Mother: Just don't regret your decision, okay...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: I...
 Mafuyu: Huh...? Who just...?
 Mizuki: <Heya! Mafuyu, you about to take that practice exam? The rest of us just met up at PXL!>
 Mizuki: <I know you said you won't be able to make it, but you're welcome to join us if you finish scoring yourself and stuff early!>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: I have to go...
-(Black cut)
+(Black transition)
 (Background change)
 Staff: One student?
 Mafuyu: Yes...
 Staff: Thank you. Please enjoy your visit to Phoenix Wonderland!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -134,4 +118,4 @@ Mafuyu: Okay...
 Mizuki: Alright, that settles that! Let's go, everyone!
 Mizuki: This is your guys' first time at PXL too, right, Miku? Wanna check it out with us?
 Miku (N25): <Okay.>
-(Black cut)
+(Black transition)

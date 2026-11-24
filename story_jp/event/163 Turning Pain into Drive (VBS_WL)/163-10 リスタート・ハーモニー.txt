@@ -42,7 +42,7 @@
 彰人: ビビッドストリートだ
 彰人: お前は好きにしろ
 冬弥: 俺は…………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -96,16 +96,12 @@
 こはね: （…………ドキドキする）
 こはね: （私も、今すぐ一緒に歌いたい）
 こはね: （けど…………）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: こはねは、自分の“本当の想い”ってなんだと思う？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……今の、なんだろう？）
 こはね: （わからないけど…… ずっとずっと前、誰かに励ましてもらった気がする……）
@@ -147,23 +143,23 @@
 杏: （すごく楽しい……！）
 こはね: （不思議……）
 こはね: （４人で歌うのは初めてなのに、 どうして、こんなに——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000048/bg_s000048.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000434/bg_s000434.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000307/bg_s000307.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000048/bg_s000048.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000434/bg_s000434.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000307/bg_s000307.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
+(White transition)
 (Background change)
 冬弥: （……そうだ、俺達は……）
 彰人: （ああ、そういうことか—— けど今は、どうだっていい）
 杏: （もっとこの４人で——）
 こはね: （——ただ、歌いたい！！）
-(Black cut)
+(Black transition)
 杏: あー、楽しかった！
 杏: ……で、どういうことなんだろ？　これ
 彰人: さあな
@@ -188,8 +184,8 @@
 杏: 分かんないことだらけだけど…… とりあえず、うちに来る？　ゆっくり考えようよ
 冬弥: ……そうだな。謙さんのコーヒーも、久しぶりだ
 彰人: 夢でも、同じ味なのかは謎だけどな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000429/bg_s000429.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000429/bg_s000429.webp)
 こはね: （こうやって……）
 こはね: （また４人で集まれて、本当によかった）
 こはね: （私にとって歌は——本当に大切なものだから）
@@ -197,9 +193,9 @@
 こはね: （……もう、忘れないようにしよう）
 こはね: （これから先も……）
 こはね: （みんなと一緒に、夢を追いかけていきたいから）
-(White cut)
+(White transition)
 (Background change)
 杏: ——よし、じゃあ決まり！
 杏: こはね、行こ！
 こはね: ——うん！
-(White cut)
+(White transition)

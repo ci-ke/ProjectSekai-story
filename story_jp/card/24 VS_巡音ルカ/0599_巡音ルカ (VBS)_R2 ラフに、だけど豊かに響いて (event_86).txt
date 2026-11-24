@@ -17,34 +17,26 @@ MEIKO: ルカ、おまたせ。 クリームたっぷりパンケーキよ
 MEIKO: ふふ、よかった
 ルカ: ねえねえ、ミクは食べないの？ こんなに美味しいのに！
 MEIKO: 遠慮しなくていいのよ。 ミク達にはいい歌を聴かせてもらったんだから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ミク・ルカ・こはね: 『♪————————！！　——————！！』
-(White cut)
+(White transition)
 ミク・こはね: 『♪————！』
 ルカ: ♪————！
-(White cut)
+(White transition)
 こはね: ♪————！　——————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ルカ: ふふ、楽しかったよね。あのセッション！
 ルカ: それに、ミクの言葉にもしびれたなぁ
 ミク (VBS): え？　私何か言ったっけ？
 ルカ: 言ってたよ、ほら……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ミク (VBS): ううん、私達は歌で気持ちを伝えただけ。 あとはこはねの実力だよ
 ミク (VBS): それは、ずっと見てきた私達が保証するよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 ルカ: あの子達がここで本当の想いを見つけるところから、 ず～っと見守ってきたミクだからこそ言えることだなーって
 ルカ: 同じ言葉を私が言ったとしても、 全然重みが違ったと思うんだよね
 ミク (VBS): それはルカの普段の行いが原因な気がするけど？
@@ -63,14 +55,10 @@ MEIKO: たしかもうすぐだったと思うけど……。 今回は遠慮し
 MEIKO: きっと映像は撮っておいてくれると思うから、 みんなでそれを見ましょ
 ルカ: あ、そっか！　その手があったね！
 ルカ: 楽しみだなあ、こはねちゃんのオープニングアクト！
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 ルカ: なんとなくだけどさ。今のこはねちゃんだからこそ 歌える歌になる、っていう気がするんだよね
 ミク (VBS): ……今のこはねだからこそ、か
 ミク (VBS): たしかに、私達と歌ってる時も 私達の想いを受け取りながら、別の何かも感じてるような……。 そういう雰囲気あったね
@@ -85,7 +73,7 @@ MEIKO: ふふ、それもそうね
 ミク (VBS): なんでもないよ。 メイコ、カフェオレちょうだい
 ルカ: あ、じゃあ私も、ブレンドお代わり欲しいな！
 MEIKO: ええ、ちょっと待っててね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -152,4 +140,4 @@ KAITO: ついでに、パスタもねー！
 ルカ: ん～、いい匂い！
 ルカ: さ、早く場所あけなくちゃ！ 美味しいピザとパスタが待ってるよ！
 こはね: はい！
-(Black cut)
+(Black transition)

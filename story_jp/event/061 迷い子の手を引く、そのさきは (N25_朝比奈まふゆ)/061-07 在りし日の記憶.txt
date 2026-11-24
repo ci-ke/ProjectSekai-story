@@ -22,21 +22,15 @@
 レン: 『……うん。すごく広くて、なんにもなかったから……。 ミクが見つけてくれるまで迷子になっちゃってたんだ』
 レン: 『その時のことを思い出すと、怖くなっちゃって……』
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……そういえば、昔——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼いまふゆ (まふゆ): わあ……！
 まふゆの母親: ——まふゆ。遊園地は人が多いからね、 お母さんからはぐれないようにしなきゃだめよ
@@ -66,10 +60,10 @@
 幼いまふゆ (まふゆ): （おかあさん、まだ電話終わらなそう）
 幼いまふゆ (まふゆ): （…………本当は、だめだけど）
 幼いまふゆ (まふゆ): （フェニーくん、すぐ近くにいるし ちょっとだけなら……）
-(Black cut)
+(Black transition)
 幼いまふゆ (まふゆ): ……えへへ
 幼いまふゆ (まふゆ): （フェニーくんと握手できてよかった……。 早くおかあさんのところに戻らないと！）
-(Black cut)
+(Black transition)
 幼いまふゆ (まふゆ): ——あれ？
 幼いまふゆ (まふゆ): おかあさん、ここにいたはずなのに…… なんで？
 幼いまふゆ (まふゆ): （どこにもいない……あれ……？）
@@ -83,7 +77,7 @@
 幼いまふゆ (まふゆ): その……うう……
 幼いまふゆ (まふゆ): ご、ごめんなさい……っ！
 通行人の女性: あ、ちょっと……！
-(Black cut)
+(Black transition)
 幼いまふゆ (まふゆ): （知らない人に、声かけられた……。 周りの人も、ずっとこっち見てる……）
 幼いまふゆ (まふゆ): （メリーゴーランドも、あんなに大きかったっけ……？ お馬さん、かわいいと思ってたのに……）
 幼いまふゆ (まふゆ): （なんでだろう、こわい……）
@@ -125,13 +119,11 @@
 まふゆの母親: さあ、今日はもう帰りましょうか。 お父さんがいつ帰ってきてもいいように お夕飯の準備をしなきゃ
 幼いまふゆ (まふゆ): うん……っ、あ……！
 幼いまふゆ (まふゆ): お、おかあさん……。 手、痛いよ……引っ張らないで……
-(Black cut)
+(Black transition)
 (Background change)
 幼いまふゆ (まふゆ): ——おかあさん……っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ——あの時、お母さんの手が、すごく冷たかった
 まふゆ: ううん、あの時だけじゃない。 今もずっと……冷たい気がする
@@ -162,21 +154,17 @@
 レン: 『……“ひとりじゃないよ”って、言ってくれた気がしたから』
 レン: 『だから、あの女の子も、 同じなのかなって……』
 まふゆ: ひとりじゃ、ない……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
+(White transition)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 奏: ……ずっと、そばにいるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （私は——、 そのあたたかさを、知っているような——）
 ？？？: ——まふゆ！
 まふゆ: ……っ！
-(Black cut)
+(Black transition)

@@ -25,15 +25,11 @@ Miku (Ln): ...
 Miku (Ln): But still... This reminds me of that one time.
 Ichika: Huh...?
 Miku (Ln): When you said that you wanted to sing with me, remember? We sang that song you wrote together.
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000134/bg_s000134.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000134/bg_s000134.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: Oh...
 Miku (Ln): And I got to sing with all of you during your last show before you went pro.
@@ -63,7 +59,7 @@ Ichika: (She really is an amazing person...)
 Miku (Ln): All you have to do now is make a decision...
 Ichika: *Nod* Thanks, Miku...
 Ichika: I...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -107,4 +103,4 @@ Saki: Right...!
 Honami: We get to perform in our first show as pros at Jam Fest, so we need to make it a successful performance...!
 Ichika: (We're going to blow everyone away by writing the best song ever for this collaboration and by putting on an amazing performance at Jam Fest.)
 Ichika: Let's all do our best!
-(White cut)
+(White transition)

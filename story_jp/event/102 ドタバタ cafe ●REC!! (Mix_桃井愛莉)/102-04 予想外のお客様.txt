@@ -44,7 +44,7 @@
 雫: 瑞希ちゃん達、大丈夫かしら……
 愛莉: ちょっと今フォローはできそうにないし、 信じるしかないわね……
 愛莉: ……がんばって、ふたりとも！
-(Black cut)
+(Black transition)
 
 [キッチン]
 
@@ -53,13 +53,13 @@
 咲希: アタシも３つ！ ……みずきちゃん、仕上げ入れる！？
 瑞希: うっ……ちょっと待って！ 最初にあがってた３つの仕上げがまだ終わってないから！
 瑞希: えっと……ここのクリームは５連だよね。 ２……３……４……５っと
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000217/bg_s000217.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000217/bg_s000217.webp)
 瑞希: よし、できた！
 瑞希: ふっふ～ん、 我ながら、なかなかの出来栄えだね！
 瑞希: 今焼いてもらったやつも仕上げ入るよ！
 咲希: ホント！？ それならアタシもいったん焼きは落ち着いたし、 クリームのほう手伝って——
-(White cut)
+(White transition)
 (Background change)
 瑞希: えっ…… な、なんかあった？
 咲希: ……このお皿の端っこのクリーム、ちょっと潰れてないかな？
@@ -96,4 +96,4 @@
 愛莉: （あ……そうだわ！ 今なら——）
 愛莉: たしかに、パフェ以外のメニューもおいしそうですよね！ さっきから、他のものを注文している声もたくさん聞こえるし……
 愛莉: ……なので、ひとつ提案があるんですけど——
-(Black cut)
+(Black transition)

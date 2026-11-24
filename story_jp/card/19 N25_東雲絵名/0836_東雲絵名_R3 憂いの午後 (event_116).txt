@@ -15,40 +15,32 @@ Gacha phrase: 奏、あれからどうしてるかな……
 絵名: そうだ。今度の打ち上げ、 ここでやろうって誘うのもよさそうだな
 絵名: あ、奏はあのファミレスのラーメンのほうが嬉しいかな……
 絵名: （……奏……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『苦しい時も、奏の曲を聴くたびに…… まだ描いてていいのかなって、 ニーゴでだったら、描き続けられるんじゃないかって思えたんだ』
-(White cut)
+(White transition)
 (Background change)
 絵名: 『それにね、卒業したあとのことも、 ちゃんと考えようって思えたんだよ』
-(White cut)
+(White transition)
 絵名: 『私が、そうやって将来のことを考えようって思えたのも 奏のおかげなんだよ』
-(White cut)
+(White transition)
 絵名: 『だから、奏にも……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……あの時は、自分勝手なこと言っちゃったな）
 絵名: （でも、今のままじゃ奏が報われないから）
 絵名: ほんと、カイトが来てくれてよかった……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 言いたいことだけ言って帰ったのはびっくりしたけど、 カイトが来てくれなかったら、奏は……
 絵名の声 (絵名): ——すみません。 コーヒーってテイクアウトできますか？
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -74,22 +66,18 @@ KAITO (N25): ……救ってくれた、か。 あいつの曲がどうとか言
 絵名: ……私、絵の学校の受験に失敗して、 ちょっと落ちてた時期があったんだよね
 絵名: このまま消えちゃいたいなって……。 ほんと、どん底って感じで
 絵名: ……そんな時に、たまたま奏の曲を聴いたの
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: あれ……？
 絵名: なんで涙が……
-(White cut)
+(White transition)
 絵名: （……そっか。 ……苦しいんだ）
 絵名: （この曲もつらくて、しんどくて、 もう消えちゃいたいって思うくらい……悲しくて）
 絵名: （なのに——）
 絵名: （『まだ消えないで』って言ってるみたい）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ニーゴとして一緒に活動するようになってからも、 奏は私の絵が必要だって言ってくれて……
 絵名: 私が、また絵のことで落ちかけた時も、 奏が曲を作って、リンがそれを歌って届けてくれたり……
@@ -100,15 +88,11 @@ KAITO (N25): …………
 絵名: 奏が背負っているものはすごく大きくて、 そんな簡単におろせないっていうのはわかってる
 絵名: わかってるけど……
 絵名: ……奏、まふゆが笑った時、本当に嬉しそうなんだよね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 私も、奏にはあんな風に笑っててほしいな……
 KAITO (N25): ……それがお前の想いなら、 抑えたり殺したりしないことだ
@@ -118,7 +102,7 @@ KAITO (N25): それがどうした
 KAITO (N25): ——飲み終わった。 じゃあな
 絵名: あ……。 ……ほんと、愛想の欠片もないんだから
 絵名: ま、話したかったことは話せたし、いっか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -150,7 +134,7 @@ KAITO (N25): ——飲み終わった。 じゃあな
 絵名: でも、どんな人だって頑張り続けることはできないんだし、 休憩してる時くらい、 周りに頑張ってもらうのは悪いことじゃないでしょ
 まふゆ: ……わかった。 ありがとう
 絵名: どういたしまして
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -168,16 +152,12 @@ KAITO (N25): ——飲み終わった。 じゃあな
 絵名: …………ん？ なんだろ、このはがき
 絵名: …………！
 絵名: これ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 母親: ——絵名。お父さんが絵葉書くれるって。 今日行った渓谷を描いたみたいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: こんなの、まだ持ってたんだ……
 絵名: （幼稚園とか小学生の頃だっけ……）
@@ -188,4 +168,4 @@ KAITO (N25): ——飲み終わった。 じゃあな
 絵名: なんで、あいつが父親なんだろ……
 絵名: ……ていうか、進路決めたら あいつにも言わなきゃなんないとか、 憂鬱以外のなんでもないし
 絵名: ……そのうちちゃんと考えないといけないけど、 今はまず課題をやらないと
-(Black cut)
+(Black transition)

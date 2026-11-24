@@ -2,7 +2,7 @@
 
 (Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori, Tsukasa Tenma, Hatsune Miku, Megurine Luka)
 
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: Aha! It's you guys! Which means you're here to check on Saki?
 Ichika: Y-Yes, that's right...
@@ -16,11 +16,11 @@ Tsukasa: I also need to thank you for walking Saki home yesterday.
 Tsukasa: You're such great friends to her. Thank you for always being there for her.
 Honami: Hehe. You're such a caring brother.
 Tsukasa: Saki's in her room. She was awake a little while ago, so I'm sure she'll be happy to talk to you.
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: Saki, we're all here to visit you!
 Ichika: Saki? Maybe she has nodded off? Saki, it's us.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Saki's Room]
@@ -42,7 +42,7 @@ Honami: But she wouldn't be able to see anything with this weather...
 Ichika: She really wanted to see the stars...
 Ichika: I think I know where she might have gone!
 Ichika: Honami. Shiho. Come with me!
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -52,12 +52,12 @@ Saki: The doctors and the other patients were very kind to me, and taught me how
 Saki: But sometimes I felt really lonely. I'd look at the stars to feel better...
 Luka: Because it reminded you of the times when you saw them with your friends?
 Saki: Yeah.
-(Black cut)
+(Black transition)
 Miku (Ln): Where did Luka go...? I've looked everywhere for her...
 Miku (Ln): Oh, there she is. She's with...? Saki?
 Miku (Ln): (Saki looks so sad. Maybe Luka is trying to cheer her up.)
 Miku (Ln): (I should leave the two of them to talk.)
-(Black cut)
+(Black transition)
 Saki: Believing that I could stargaze with them again once I got better helped me get through some really awful medical tests.
 Saki: But sometimes anxiety would suddenly overwhelm me sometimes...
 Saki: How do I describe it...?
@@ -78,14 +78,14 @@ Saki: But it only led to me pushing myself too hard, worrying everyone and...
 Saki: I'm... I'm such an really idiot...
 Luka: You couldn't help but be anxious...
 Saki: Huh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000008/bg_a000008.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000008/bg_a000008.webp)
 Luka: You wanted to get back what you lost. That seems perfectly normal.
 Luka: You felt that all those things couldn't wait.
 Luka: But you don't need to be in such a hurry to make up for that time. It's okay to take it easy.
 Saki: Really...?
 Luka: That's what I sensed.
-(Black cut)
+(Black transition)
 (Background change)
 Luka: I think your friends would agree too. Wouldn't you? Ichika, Honami, Shiho?
 Saki: Huh?
@@ -111,4 +111,4 @@ Ichika: We're not going anywhere. We're always going to be together.
 Saki: Ichi...
 Saki: Yeah... Yeah...!
 Saki: Thank you, everyone...!
-(Black cut)
+(Black transition)

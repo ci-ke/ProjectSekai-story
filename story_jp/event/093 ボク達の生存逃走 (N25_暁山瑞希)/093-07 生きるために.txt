@@ -2,7 +2,7 @@
 
 (Character: 朝比奈まふゆ, 東雲絵名, 暁山瑞希)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -23,19 +23,15 @@
 まふゆ: …………
 まふゆ: （心配、してくれてるんだよね……）
 まふゆ: （お母さんは、私のために——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『あんたの、大事なものを捨てられたんでしょ？』
 絵名: 『それって、あんたの想いが—— あんた自身が捨てられようとしてるのと、 ほとんど同じことでしょ……！』
-(White cut)
+(White transition)
 絵名: 『あんたが母親に怒らないと…… このままじゃ——あんたが壊されちゃうじゃない……！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （…………違う）
 まふゆ: （お母さんは……、お母さんは……！）
@@ -48,7 +44,7 @@
 瑞希のメッセージ (瑞希): 『タイミングは雪の都合のいい時で大丈夫！ ただ……もしよかったら、早めに話せるといいな』
 瑞希のメッセージ (瑞希): 『伝えたいことがあるんだ』
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: …………返事、来ないな
 瑞希: もしかして……スマホまで取り上げられたんじゃ……
@@ -57,7 +53,7 @@
 瑞希: ……！　やった！
 瑞希: 『ありがとう、雪！ じゃあ……駅前で待ってるよ！』……と
 瑞希: よし……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -82,7 +78,7 @@
 まふゆ: ……ありがとう
 瑞希: ううん！ ——ボクもちょうど、行きたいところがあったからね！
 まふゆ: ……え？
-(Black cut)
+(Black transition)
 (Background change)
 
 [スポジョイパーク]
@@ -97,7 +93,7 @@
 瑞希: あ、まふゆはローラースケートできる？
 まふゆ: 小さい頃、少しやったことはあるけど……
 瑞希: 十分！ それじゃ、一緒にやってみよーう！
-(Black cut)
+(Black transition)
 瑞希: わ！ まふゆ、すごい滑れるじゃん！
 まふゆ: そう……？ 前に進むぐらい誰にでも……
 瑞希: あっはっは！ 奏が聞いたら落ち込みそ～！
@@ -105,7 +101,7 @@
 まふゆ: 別に、いらないけど
 瑞希: あ～その言いかた！ まふゆってばもう勝つ気でいるでしょ！
 瑞希: ボクだって負けないんだからね！ それじゃ——ヨーイ、ドン！
-(Black cut)
+(Black transition)
 瑞希: うわ……！　３連続でパネル当たったじゃん！ なんでそんなにうまいわけ！？
 まふゆ: 多分……この前、ソフトボールの授業があったからだと思う
 まふゆ: ……景品のジュースもらえたから、あげる。 さっきスケートで負けた分
@@ -117,9 +113,9 @@
 まふゆ: ……？ でも、話がしたいから呼んだんじゃ……
 瑞希: いーからいーから！ もうちょっとだけつきあってよ！
 瑞希: ——ってわけで、 次はショッピングモールにレッツゴー！！
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: はぁ～！　楽しかった～！ いいショッピングだったね♪
 まふゆ: ……１着買うだけで悩みすぎじゃない……？
@@ -153,8 +149,8 @@
 瑞希: その時間があったから、 ……今こうしていられてる
 まふゆ: ……その時間が……あったから……？
 瑞希: あのね、まふゆ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000186/bg_s000186.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000186/bg_s000186.webp)
 瑞希: ボク思うんだ。 生きるためには、立ち向かうためにはエネルギーが必要だって
 瑞希: でも今のまふゆみたいに、苦しいことから離れられないままだと エネルギーがなくなって、動けなくなっちゃう
 瑞希: ほら、苦しいまんま過ごしてるとさ、 疲れて、つらくなって、最後はもうどうでもいいやーって…… そう思っちゃうでしょ？
@@ -166,7 +162,7 @@
 瑞希: だから——
 瑞希: もう無理だって思ったら、逃げていいって ボクは思うんだ
 瑞希: 誰でもない。まふゆ自身のために
-(White cut)
+(White transition)
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)

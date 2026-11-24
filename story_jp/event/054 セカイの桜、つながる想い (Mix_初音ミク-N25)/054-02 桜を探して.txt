@@ -7,7 +7,7 @@
 ミク (N25): （歩いても、歩いても……何も、ない）
 ミク (N25): （桜の木、ないのかな……）
 ミク (N25): （…………。 あっちも探してみようかな）
-(Black cut)
+(Black transition)
 ミク (N25): （やっぱり、ない……）
 ミク (N25): （これだけ歩き回ってもないなら……）
 ミク (N25): （……少し、疲れた。 ちょっと休憩）
@@ -15,83 +15,61 @@
 ミク (N25): （……やっぱり、桜の木、ないな。 でも……木だけじゃない）
 ミク (N25): （ここには——本当に何もない）
 ミク (N25): （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （前はもっと、何もなかった）
 ミク (N25): （最初は、まふゆとわたし、 ふたりだけのセカイ）
 ミク (N25): （何もなくて、真っ白で……）
 ミク (N25): （でもまふゆは、ずっともがいて、 ここで曲を作り続けてた）
 ミク (N25): （それから——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 待ってた……？ じゃあ、わたし達のことを知って……？　
-(White cut)
+(White transition)
 瑞希: へえ～。 じゃあもしかして、ボク達をここに呼んだのもミクってこと？　
-(White cut)
+(White transition)
 絵名: 嘘でしょ……。 ねえ、今の状況って……夢、じゃないよね？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （奏と——絵名と瑞希が来てくれた）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （今、このセカイには、奏達がいる）
 ミク (N25): それから——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: そんなに助けたいの？
 ？？？ (リン): じゃあ、わたしも手伝ってあげる
 ミク (N25): （……最初に来てくれたのは、リンだった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO: でも、近くなりすぎて見えなくなることもある
 MEIKO: だから私は、距離を置いて、 あの子達を見守ることにしたの
 ミク (N25): （少しずつ、他のみんなも来てくれた）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ルカ: あなた達のことはミク達から聞いているわ。 よろしくね
 ミク (N25): （みんな、形は違うけど、 まふゆ達のことを想って……）
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): （何もなかったこのセカイに、 いろんな人が増えていって……）
 ミク (N25): （少しだけにぎやかになった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): （まふゆも……少しずつ変わってる気がする）
 ミク (N25): （……よかったね、まふゆ）
@@ -113,4 +91,4 @@ MEIKO: だから私は、距離を置いて、 あの子達を見守ることに
 ミク (N25): ……あれ？
 ミク (N25): （……触ってないのに、光が……？）
 ミク (N25): あ……！
-(White cut)
+(White transition)

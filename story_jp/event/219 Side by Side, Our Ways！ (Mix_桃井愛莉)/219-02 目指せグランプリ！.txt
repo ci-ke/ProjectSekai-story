@@ -25,7 +25,7 @@
 愛莉: ふふ、じゃあ全員参加ね！
 絵名: 賞品もあるから、優勝目指して頑張ろ！
 一歌・こはね: 『はい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブぽん像コンテスト　特設会場]
@@ -75,15 +75,15 @@
 類: そうですね
 こはね: み、皆さん……！
 絵名: えっ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000645/bg_s000645.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000645/bg_s000645.webp)
 こはね: はぁ、はぁ……。 と、取れました！　段ボール……！
 絵名: え、すご……！
 愛莉: お手柄じゃない！ そんなに大きいのを、よく持ってこれたわね！
 こはね: えっと、偶然隙間に落ちてて……。 でも、力になれてよかったです
-(White cut)
+(White transition)
 (Background change)
 類: 僕達も負けていられないね。 小豆沢くんを見習って、突入しようか
 一歌: はい！　あ、あそこの隙間入れそうです
 愛莉: さあ、この調子でどんどん材料を集めるわよ！
-(Black cut)
+(Black transition)

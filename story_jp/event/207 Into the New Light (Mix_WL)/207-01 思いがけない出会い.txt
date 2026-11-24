@@ -12,10 +12,10 @@
 こはね: あ、別の人の声だ！ あの！　途切れ途切れだけど、聞こえてます！
 ？？？: 『もし——、他のセカイの————？』
 こはね: 今、他のセカイって——
-(White cut)
+(White transition)
 (Background change)
 こはね: わっ……！？
-(White cut)
+(White transition)
 (Background change)
 こはね: ……ここは……
 ？？？: ——小豆沢さん？
@@ -36,7 +36,7 @@
 まふゆ: 今までにないこと……
 ルカ: よければ私と一緒に、状況を整理してみない？
 ルカ: 少しは気持ちも落ち着くかもしれないし
-(Black cut)
+(Black transition)
 穂波: えっと……つまり、ここにいるみんなに、 それぞれのセカイがあって……
 穂波: それが、何かのきっかけで 繋がったのかもしれない——ってことですか？
 ルカ: ええ。あくまでも想像だけれど……
@@ -47,15 +47,11 @@
 ルカ: ここにはいないけれど、司くん達、 ワンダーランズ×ショウタイムのみんな——
 ルカ: そして、それぞれのセカイにいる『私達』。 全員の想いが重なって、このセカイはできているから
 雫: 全員の想いが、重なったセカイ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……私、前にもここに来たことがあるかもしれません。 この木が、もっと小さかった頃に……
 穂波: そうなの？
@@ -77,10 +73,10 @@
 ルカ: ——想いは、お互いに共鳴するの。 だから、似たような想いに引き寄せられることがある
 ルカ: この想いの欠片も、そうやってここに 引き寄せられたんじゃないかしら
 こはね: 共鳴……それって……
-(White cut)
+(White transition)
 (Background change)
 穂波: わっ……！？
-(White cut)
+(White transition)
 (Background change)
 まふゆ: みんな、大丈夫？
 雫: ええ……けど、今の光はなんだったのかしら
@@ -108,14 +104,14 @@
 穂波: ルカさん！　今、なんて——
 ルカ: お願——、あの子————てあげて
 雫: 駄目だわ、聞こえない……！ ルカちゃん、もう一度——
-(White cut)
+(White transition)
 (Background change)
 こはね: あ……
 (Background change)
 (Background change)
 (Background change)
 まふゆ: 戻って、きた……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -168,16 +164,12 @@
 少女: あ……そ、そうなんです。 個人の作家さんの手作りで、ひとめぼれして……
 穂波: そうなんですね
 穂波: けど、最近どこかで同じものを見たような——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 少女: どうかしましたか？
 穂波: い、いえ……！　なんでもないです
-(Black cut)
+(Black transition)

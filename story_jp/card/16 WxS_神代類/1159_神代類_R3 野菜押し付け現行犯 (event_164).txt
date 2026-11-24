@@ -66,7 +66,7 @@ Gacha phrase: よく周りを見ているじゃないか
 司: いや、みたいじゃなくて、ずばりマジックだ
 寧々: 相変わらず、野菜が相手だと がんばる方向おかしくなるんだから……
 寧々: 克服するのは当分先になりそうかな……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -104,15 +104,11 @@ Gacha phrase: よく周りを見ているじゃないか
 類: それにしても、成長を見守るか……。 僕達もワンダーステージで似たような経験をしたね
 寧々: ワンダーステージのこと？
 類: ああ、たくさんのお客さんに見守ってもらっていただろう？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ……そうだね
 寧々: 何度も通ってくれるお客さんの顔が ステージから見えると、嬉しかったな
@@ -126,4 +122,4 @@ Gacha phrase: よく周りを見ているじゃないか
 司: そのためにも、しっかりと実力を身につけなければな！
 類: ああ、お客さんの想いに応えるためにも頑張ろうじゃないか
 えむ・司・寧々: 『おー！』 『うん……！』
-(Black cut)
+(Black transition)

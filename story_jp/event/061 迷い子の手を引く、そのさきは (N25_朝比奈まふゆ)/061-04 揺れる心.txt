@@ -34,20 +34,16 @@
 絵名: だって、あんたの母親は 音楽よりも勉強しろって言ってるんでしょ？
 絵名: それが正しいって思ってるなら、 あんただって部屋で勉強してるはずじゃない
 まふゆ: …………それ、は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: …………私、音楽は、もうやめるよ
 まふゆ: それで、将来のために受験勉強する。 だから安心して、お母さん
-(White cut)
+(White transition)
 (Background change)
 まふゆ: …………セカイに、行こう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 私は——
 まふゆ: …………わからない……
@@ -100,25 +96,21 @@ MEIKO: ……歓迎はするけど、 騒ぐのは勝手にやってちょうだ
 ミク (N25): うん、頑張って。奏
 レン: ……まふゆちゃん……
 レン: 大丈夫、かな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
 
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: ……まふゆは、お母さんの言ってること、 正しいって思ってるわけ？
-(White cut)
+(White transition)
 絵名: でも——、 本当にそう思ってるのなら、ここには来てないんじゃないの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: …………私は、どうして——……
-(Black cut)
+(Black transition)

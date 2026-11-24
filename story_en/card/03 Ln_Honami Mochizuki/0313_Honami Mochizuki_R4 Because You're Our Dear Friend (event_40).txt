@@ -27,15 +27,11 @@ Classmate A: Yesterday, after school, we thought we heard you arguing with someo
 Honami: Huh...?
 Emu: We were wondering if you were arguing like that because you were having a fight with them...
 Honami: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (I thought that spot was secluded enough, but I guess it wasn't...)
 Honami: I appreciate your concern.
@@ -53,17 +49,13 @@ Classmate B: Yeah, she's like the most unwavering person I've ever met. I bet th
 Emu: Maybe. You two both work so hard for your band too.
 Emu: I really understand how you must've felt. I've had some not-so-nice conversations with people too and also had to raise my voice to them...
 Classmate A: Yeah, I totally get that. It's like, the more you take something seriously, the more you want others to do the same.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Len: What's wrong with that?
 Len: And you're trying to go pro, right? You have to work together, which also means you're not always going to agree on everything.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (They're right... And they've all experienced this before...)
 Honami: Oh, but Shiho didn't actually do anything wrong in this case.
@@ -82,7 +74,7 @@ Honami: ...
 Honami: (It really is important to clearly tell someone what you're feeling...)
 Honami: (I don't enjoy raising my voice the way I did...)
 Honami: (But it was something I had to do. Len was right. We aren't going to agree on everything and I have to express myself whenever a situation calls for it.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -91,7 +83,7 @@ Honami: (But it was something I had to do. Len was right. We aren't going to agr
 
 [Honami's Room]
 
-(Black cut)
+(Black transition)
 Honami: Phew...
 Honami: That should be everything Shiho told me to work on today.
 Honami: Oh, also...
@@ -101,7 +93,7 @@ Honami: I'll send her a message now to let her know about practice tomorrow and.
 Honami: Let's see. Where's my phone...?
 Honami: Hm? A DM from Shiho?
 Honami: Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -112,7 +104,7 @@ Honami: Shiho!
 Honami: Sorry, did I keep you waiting?
 Shiho: No, you're fine. Anyway, shall we?
 Honami: Yes!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -131,7 +123,7 @@ Honami: W-Wait, Shiho! You buying these for me still doesn't seem right...
 Shiho: Then, how about you, Ichika, Saki and I split these?
 Honami: Oh, okay... In that case...
 Shiho: Let's do that. Excuse me. Can I get ten apple pies?
-(Black cut)
+(Black transition)
 Honami: Let's eat.
 Honami: Nom, nom... Mmm... So good!
 Shiho: It's still pretty hot... Oh, but I like how they don't use too much sugar.
@@ -142,7 +134,7 @@ Shiho: That one you had is already gone.
 Honami: Oh...
 Shiho: Here, have another.
 Honami: O-Okay... Thank you.
-(Black cut)
+(Black transition)
 Honami: Thank you, Shiho. I really enjoyed that.
 Shiho: You're welcome. Thanks again for helping me sell those tickets, and not telling Ichika or Saki about what we were doing.
 Honami: No, you don't need to thank me. I'm just happy that you let me help in the end.
@@ -151,15 +143,11 @@ Shiho: ...
 Shiho: You've become so strong...
 Honami: Huh? I have...?
 Shiho: Yeah. I mean, that time...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: I was sure that if I pushed you away hard enough that you'd leave me alone, but I was wrong...
 Shiho: Not only that, you've come a long way as a drummer in terms of your confidence.
@@ -178,4 +166,4 @@ Honami: Shiho...
 Shiho: Anyway, wanna head over to the studio?
 Shiho: You want me to see if you fixed what we talked about yesterday, right?
 Honami: Yes, let's!
-(Black cut)
+(Black transition)

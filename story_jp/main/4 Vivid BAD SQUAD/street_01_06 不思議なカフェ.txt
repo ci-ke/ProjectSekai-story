@@ -16,7 +16,7 @@ MEIKO: ふふ、びっくりさせちゃったわね。 ひとまず座って話
 ミク (VBS): そうだね。 ふたりとも、来て
 こはね: あ、杏ちゃん……
 杏: なんだかよくわからないけど、 ふたりともなんか知ってるみたいだし……行ってみよう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -25,17 +25,13 @@ MEIKO: ふふ、びっくりさせちゃったわね。 ひとまず座って話
 こはね: でも、ここもやっぱり、なんだか来たことがあるような気が……
 ミク (VBS): それは、ここが“キミ達のセカイ”だからだよ
 こはね: キミ達のセカイ……？ それってどこかで聞いたような……あ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ミク (VBS): 『続きは、キミ達のセカイで話そうよ』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 こはね: もしかして……あの時のミクちゃん……？
 杏: その、さっきから言ってる『セカイ』ってなんなの？
 ミク (VBS): セカイは、“想い”で出来た場所なんだ
@@ -93,4 +89,4 @@ MEIKO: でもきっとまた来てくれるわよ。 それに、あとのふた
 レン: ミクも、前こはねに会いに行ってたでしょ？
 ミク (VBS): いいんじゃない？ どんな人か見に行ってみたら
 レン: うん！
-(Black cut)
+(Black transition)

@@ -11,18 +11,14 @@ Skill name: Communication Hurdles
 Nene: *Sigh* Today's practice was more exhausting than usual for some reason...
 Nene: But it was also really good since we got so much done...
 Nene: (I think we have Tsukasa to thank for that...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa: “I do not know. I am no swordsman, nor do I possess the strength to break stone.”
 Tsukasa: “At the same time, how long has this feeling lingered within me...?”
 Tsukasa: “This inexplicable compulsion to protect the world. It feels as though it has been branded into my soul...”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: (After just a few days of attending that workshop, Tsukasa learned how to act in such a convincing manner...)
 Nene: (Come to think of it, he sort of had to learn acting all on his own up to this point.)
@@ -37,15 +33,11 @@ Nene: (But is that because I know they're performing alongside me...?)
 Nene: (What happens when I have to go on stage with people I don't know...?)
 Nene: (Yikes... I'm already sort of afraid of meeting a bunch of new people all at once... I feel like I'd freeze up or something...)
 Nene: *Sigh* But it's not like I'm completely uninterested in attending one of those workshops.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: ...
 Nene: Maybe I should practice introducing myself a bit...
@@ -57,7 +49,7 @@ Nene: My name is Nene Kusanagi. It's nice to meet you. I perform in shows at Pho
 Nene: ...
 Nene: (Uh oh... What do I say after that part...?)
 Nene: Um... My hobbies, I guess?
-(Black cut)
+(Black transition)
 Nene: *Sigh*
 Nene: (I tried looking online for some good ways to introduce myself, but I don't think any of them will work for me...)
 Nene: (I can probably talk about the shows I've seen and done just fine... But those workshops usually involve having discussions...)
@@ -70,7 +62,7 @@ Nene: Thank goodness... The notebook I kept when I was still with my old theatre
 Nene: (Most of what I wrote is pretty fundamental, but I might be able to learn something new by going back through it...)
 Nene: (I'll start by reviewing everything in here...)
 Nene: Let's begin...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -83,17 +75,13 @@ Nene: Okay, I've finished reviewing everything I learned when I was with my chil
 Nene: From how to project my voice to maintaining a good posture... In hindsight, going back through this notebook was a really good idea.
 Nene: I feel like keeping the fundamentals in mind is going to help me hit even higher notes when I sing.
 Nene: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Peter Pan (Tsukasa): “So can you if you truly believe. Wherever you like, beyond your wildest dreams...”
 Peter Pan (Tsukasa): “And at the end, Neverland awaits!”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: (Tsukasa's grown so much more... There's no way this alone will help me catch up to him.)
 Nene: I wish I could do more...
@@ -102,7 +90,7 @@ Nene: He said that they worked on their fundamentals before putting them into pr
 Nene: Like what they keep in mind while acting, which techniques they use and the roles they've played in the past...
 Nene: I'd love to talk to them...
 Nene: But...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -150,4 +138,4 @@ Rui: That worked out pretty well, Nene.
 Nene: Yeah...
 Nene: Thanks, Rui.
 Rui: Hehehe. You're welcome.
-(Black cut)
+(Black transition)

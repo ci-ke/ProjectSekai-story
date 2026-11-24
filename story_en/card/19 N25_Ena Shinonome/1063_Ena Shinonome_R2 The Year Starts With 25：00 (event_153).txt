@@ -53,7 +53,7 @@ Kanade: <Okay.>
 Ena: <Oh, I wanna look at them too... What you wrote might change what I draw!>
 (Background change)
 Mizuki: <Haha. Looks like it's business as usual again for us this year.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Two hours later]
@@ -67,23 +67,19 @@ Mafuyu: <Good night.>
 Mizuki: <Don't cause Airi any trouble by oversleeping, okay?>
 (Background change)
 Ena: <Yeah, yeah. Don't stay up too late, alright?>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Thirty minutes later]
 
 Ena: Okay, that should be everything I need for tomorrow.
 Ena: And I know what I'm gonna wear, so it's time for bed.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: <Don't cause Airi any trouble by oversleeping, okay?>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Honestly, Mizuki...
 Ena: There's no way I'm gonna oversleep when I get to spend an entire day with Airi.
@@ -92,7 +88,7 @@ Ena: Alright... Five times at fifteen minute intervals, and three at five right 
 Ena: I won't have a choice but to wake up.
 Ena: Wait, huh? It's already this late. I need to get to sleep now.
 Ena: (Don't worry. There's no way I'm gonna oversleep...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,7 +109,7 @@ Mizuki: The new year is upon us, so you should try to become more of a morning p
 Kanade: I-I'm not really in a position to say anything...
 Mafuyu: Shouldn't we head over to see if they have any fortunes left?
 Ena: Right! Let's see... They should be... Oh, over there!
-(Black cut)
+(Black transition)
 Ena: Oh, geez. There's a huge line...
 Mizuki: Well, there's no point in worrying about it now, so let's be patient and wait.
 Kanade: The fortunes you're after are a little different compared to ones you'd normally see, right, Ena?
@@ -139,7 +135,7 @@ Kanade: Oh, but... That shrine maiden seems to be carrying something.
 Ena: That looks like... Yes, she's restocking them!
 Mizuki: Now there should be plenty left by the time it's our turn!
 Ena: Yeah. So, let's keep waiting patiently.
-(Black cut)
+(Black transition)
 
 [Thirty minutes later]
 
@@ -166,4 +162,4 @@ Mafuyu: But you desperately wanted one of these fortunes. That sounds pretty gre
 Ena: Yeah, yeah. Nothing you say is gonna change the fact that I drew a great blessing.
 Ena: Oh, while we're here, let's take a look at their charms. The ones they have are supposed to be really cute.
 Mizuki: Haha. Look at her, all happy... Then, let's go see what they have.
-(Black cut)
+(Black transition)

@@ -14,7 +14,7 @@ Student A: Hey, what are you gonna do for the Sports Festival?
 Student B: Oh, I'm totally going to go see it! I'm really looking forward to the cheering competition!
 Ena: (The Sports Festival...? Wow, it's already that time of year. Our school's cheering competition's supposed to be really good too...)
 Ena: (But it's not like I'm gonna be in it or anything, so whatever, I guess...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -36,7 +36,7 @@ Akito: Hm...
 Ena: Alright, go take your bath. But don't come crying to me if you fall asleep and drown.
 Akito: Hmm...
 Ena: Grr...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -48,7 +48,7 @@ Kanade: <Hello, Enanan.>
 (Background change)
 Mizuki: <Oh, good timing. About those assets you made for me yesterday... Can you adjust the coloring a bit for me?>
 Ena: <Hm? Where?>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: (Okay, I'm done adjusting!)
 Ena: <Amia, I fixed that part you were talking about.>
@@ -91,7 +91,7 @@ Ena: <Okay. I'd rather just let Amia sleep, so I'll just send this data over for
 (Background change)
 Ena: (Still... A video for something else, huh?)
 Ena: (After what Kanade said, I kinda want to see it now too.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -119,11 +119,11 @@ Blue Squad Captain: Ah, what a wonderful feeling... To actually be able to end m
 Blue Squad Captain: Next, I'll have to do my best during my university's cheering competitions!
 An: Huh...?
 Mizuki: What?! This isn't your last one?!
-(Black cut)
+(Black transition)
 Ena: Looks like Mizuki's having fun.
 Ena: And I'm glad I stuck around to watch...
 Ena: (Hehe. I don't want to interrupt them, so I'll just send a message for now.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [That night]
@@ -189,4 +189,4 @@ Ena: <Excuse me?! No! You! Are! Wrong!>
 (Background change)
 Mafuyu: <How are you two able to do this every night...?>
 Kanade: <Hehe.>
-(Black cut)
+(Black transition)

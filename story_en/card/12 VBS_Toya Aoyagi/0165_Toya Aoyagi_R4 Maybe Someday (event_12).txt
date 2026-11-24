@@ -9,35 +9,27 @@ Gacha phrase: Just listen to my resolve.
 
 [Toya's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: It wasn't by chance.
 Akito: It's because you got over whatever was going on between you and your dad.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I really enjoyed the last event. And what happened with my dad...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: ...
 Toya: (It's been a while since I felt this good. I'd like to get some practice in...)
 Toya: (But we all agreed to take a break today. Maybe I'll just relax listening to some music.)
 Toya: (Come to think of it, Akito lent me that CD and... Hm?)
 Toya: What's this...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -64,7 +56,7 @@ Rin: Challenge accepted! I'll do the same to you if you doze off!
 Toya: (I made the right call coming here. I'd just overthink things again if I were alone...)
 MEIKO: Okay, shall I go and put the CD on?
 Toya: Yes, thank you.
-(Black cut)
+(Black transition)
 Len: That was really awesome...!
 Rin: Yeah, it really was!
 Rin: I loved the third piece the best. It felt so sad that my heart sort of began to sink, but at the same time, that was what I really liked about it!
@@ -98,7 +90,7 @@ Rin: Yay, treats!
 Len: Thanks, MEIKO!
 MEIKO: You're welcome! Enjoy!
 Toya: Thank you very much. I'm sure we will.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,12 +105,12 @@ An: I bet it's thanks to all that word of mouth publicity we got after our last 
 Akito: As good as that one was, we gotta keep raising the bar and make that our standard.
 Akito: So let's show them what we got today too, guys.
 Toya: Right. Let's do this!
-(Black cut)
+(Black transition)
 MC: Give it up for Vivid BAD SQUAD! Talk about an unreal performance!
 Spectator A: Wow, that was awesome! They really the same group from STAY GOLDEN?
 Spectator B: Yeah, they really stepped up their game!
 Old Regular: Wait, I know these guys...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -166,4 +158,4 @@ Akito: Forget them, just tell me! Aren't we best buds?
 Toya: And that's the reason I won't tell you.
 Akito: Cut it out already! Why make it some huge secret?!
 Toya: (Because it's clear that I don't need to say that you're the best partner I could ask for.)
-(Black cut)
+(Black transition)

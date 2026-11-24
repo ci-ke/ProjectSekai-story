@@ -3,7 +3,7 @@
 (Character: 望月穂波, MEIKO)
 
 (Video: link_leoneed_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [CDショップ]
@@ -22,16 +22,12 @@
 穂波: （今の声、もしかして……）
 穂波の元クラスメイトC: でも、最近あんまり曲聴けてないんだよね～。 勉強とか忙しくてさ
 穂波: （やっぱり……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波のクラスメイトC: 誰にでもいい顔して、いったい誰の味方なの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ……っ
 穂波: （あ……。 つい、隠れちゃった……）
@@ -54,24 +50,20 @@
 穂波の元クラスメイトB: Leo/needって穂波の他は、 誰がいるのかな？
 穂波の元クラスメイトC: たしか、穂波の幼馴染みの星乃さんとか——
 穂波: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
 
 穂波: （わたし……）
 穂波: （わたし、あの時——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: （……どうしよう）
 穂波: （もしかしたらまた何か、 よくないこと言われちゃうんじゃ……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ……ッ！
 穂波: はぁ……はぁ
@@ -126,4 +118,4 @@ MEIKO (Ln): ふふ、ちょっとは役に立てたなら嬉しいな
 MEIKO (Ln): ……あ、そうだ。 一段落したところだし、軽く気分転換しない？
 穂波: え？　気分転換、ですか？
 MEIKO (Ln): うん！ セカイにちょっと、おもしろい場所ができたんだよ
-(Black cut)
+(Black transition)

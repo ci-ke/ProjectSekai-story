@@ -9,17 +9,13 @@ Gacha phrase: Great, I'll call someone over now.
 
 [Mizuki's Room]
 
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: <Huh...? From my very first arrangement?>
 (Background change)
@@ -61,35 +57,27 @@ Mafuyu: <Yes, she does.>
 (Background change)
 Mizuki: <Wait, really?>
 Ena: <You don't remember?>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: A girl from my club that I talk to often told me her friend works as domestic help.
 Ena: Wait, what? You talk to people at school? What's she like?
 Mafuyu: I don't know how to describe her... Her name's Shizuku Hinomori, and she's a famous idol, but I don't really know about the things she does outside school.
 Ena: Hold on a sec! Shizuku Hinomori who used to be the front girl of Cheerful * Days?!
 Mizuki: Oh yeah, she quit that group, no? I had no idea she was in the same school as Mafuyu. Nice!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: <Oh, now I remember...>
 (Background change)
 Mizuki: <That means you knew about Kanade's housekeeper too, right, Yuki?>
 Mafuyu: <Yes, but only because Hinomori was already acquainted with her.>
 Mizuki: <But then, you finally met her through one of her bandmates!>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <That was also because Ms. Mochizuki suggested that we meet.>
 Kanade: <She's such a kind, thoughtful and gentle person.>
@@ -109,7 +97,7 @@ Kanade: <Um... They ran tests to check for abnormalities, put me on an IV and se
 Ena: <What?! That's it?!>
 Kanade: <Yes, and after I got home...>
 (Background change)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -140,27 +128,23 @@ Mizuki: (Despite all odds, they kept going... And they found each other.)
 Mizuki: It's pretty unbelievable.
 Mizuki: (They're both still carrying some of that pain, but they're also looking for ways to move forward...)
 Mizuki: (It's like they're trying to show each other the way down this long, dark path.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: You're wrong!
-(White cut)
+(White transition)
 Ena: I don't want to keep seeing you like this, Mizuki, because whatever you're going through is starting to affect me too...
-(White cut)
+(White transition)
 Ena: It's normal to want to help out a friend when they're in need.
-(White cut)
+(White transition)
 Ena: So please, tell me when you feel you're ready. I'll be waiting until then.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 Mizuki: (Showing each other the way forward, huh...?)
 Mizuki: (I guess that means my <K> is...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -186,16 +170,12 @@ Mizuki: Alright, let's get someone to take our order...
 Mizuki: (This really is a lot of fun...)
 Ena: You're getting fries again, right, Mizuki?
 Mizuki: Of course♪
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (I really wasn't in a good place back then...)
 Mizuki: (So I need to cherish the time Ena's given me.)
-(Black cut)
+(Black transition)

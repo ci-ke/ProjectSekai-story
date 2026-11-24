@@ -14,7 +14,7 @@ Gacha phrase: いらっしゃい！　ここあいてるよ！
 杏: うん、そうだよ。こはねって言うんだ
 客A: へえ。 さすが、いい声してるな
 杏: でしょ？ それに……
-(Black cut)
+(Black transition)
 (Background change)
 
 [店内ライブスペース]
@@ -24,7 +24,7 @@ Gacha phrase: いらっしゃい！　ここあいてるよ！
 こはね: ええっ！？　 ア、アンコールですか……？
 こはね: そ、それじゃあ…… もう１曲、歌います！
 客B: お！　やった！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: WEEKEND GARAGE)
 杏: ……最近は、随分場慣れして度胸もついてきたみたい
@@ -67,7 +67,7 @@ Gacha phrase: いらっしゃい！　ここあいてるよ！
 杏: 私はそんなこはねと一緒にやりたいだけ。 だから、一緒に頑張ろ
 こはね: ……うん！ 杏ちゃん、これからもよろしくね！
 杏: もちろん！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -128,4 +128,4 @@ Gacha phrase: いらっしゃい！　ここあいてるよ！
 こはね: 杏ちゃん、行こ！
 杏: ……うん！
 杏: （いつか私達も、かつての父さんたちみたいな…… 最高の仲間になれるのかもしれないな！）
-(Black cut)
+(Black transition)

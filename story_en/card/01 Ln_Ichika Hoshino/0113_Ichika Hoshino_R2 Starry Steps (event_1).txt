@@ -19,7 +19,7 @@ Ichika: Ah, I wonder if the florist along the way to the hospital is still aroun
 Ichika: (I always passed by that shop when going to visit her, so I often bought flowers from them...)
 Ichika: (But I haven't been there since Saki was transferred to a regional hospital during junior high.)
 Ichika: Since I have some time before practice starts... Maybe I'll just drop by to take a look.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -46,7 +46,7 @@ Florist Lady: Of course I can. Hehe, and I'll even give you a discount. For old 
 Ichika: But...
 Florist Lady: Don't you worry about it. We haven't seen each other in so long, and I got to hear good news about your friend too. Wait here.
 Ichika: Okay. Thank you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -72,7 +72,7 @@ Saki: Hey, why don't we put those flowers here as decorations?
 Saki: Pretty sure they'd make Miku and Luka really glad, too!
 Ichika: You're right. Let's bring along a vase or something to put the flowers in, then, next time.
 Saki: Will do!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -91,7 +91,7 @@ Ichika: But I often included flowers recommended by the florist lady too.
 Saki: Oh! I often hear you talk about her. She must be such a nice lady!
 Ichika: She is. She regularly gave me discounts, too. I think it may have been her way of showing concern for me.
 Saki: I see! Hehe, I can't wait to meet her.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -129,4 +129,4 @@ Shiho: Yes, I heard the first time. Don't get carried away now.
 Saki: I'm not getting carried away, nope!
 Honami: Hehe.
 Ichika: (Let's buy lots of flowers together from now on, Saki.)
-(Black cut)
+(Black transition)

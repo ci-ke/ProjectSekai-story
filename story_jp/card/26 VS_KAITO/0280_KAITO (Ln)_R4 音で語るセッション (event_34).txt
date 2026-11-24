@@ -61,7 +61,7 @@ MEIKO: というわけで、明日の練習前に、 カイトをみんなに紹
 KAITO: う……
 KAITO: （これは……、もう逃げられそうにないな……）
 KAITO: （でも、いっか……）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,17 +84,13 @@ KAITO: …………うん。俺でよければ
 一歌: ……！　ありがとう、カイト
 KAITO: ……いいよ別に、お礼なんて
 一歌: でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 大丈夫
 KAITO: 恥ずかしいとも、つまらないとも思う必要ない。 ……これは、大事な一歌の想いだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: カイトのあの言葉のおかげで、自信が持てたから
 KAITO: ……そう。なら、よかった
@@ -125,4 +121,4 @@ KAITO: うん
 KAITO: （やっぱりすごいね、“君達”は）
 KAITO: （いつか——）
 KAITO: （俺も一緒に、歌わせてもらおうかな）
-(Black cut)
+(Black transition)

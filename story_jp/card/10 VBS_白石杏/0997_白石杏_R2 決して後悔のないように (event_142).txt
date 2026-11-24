@@ -23,18 +23,14 @@ MEIKO (VBS): そういえば、遥ちゃんっていう子が鉄棒跳びをす�
 ミク (VBS): ああ、『跳んじゃえ！』っていうやつね
 杏: あ、聞こえてたんだ
 彰人: あれか……。 すぐ横で聞いてて、オレも驚いた
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ——いけ、遥！ 勢いつけて、跳んじゃえ！
-(White cut)
+(White transition)
 杏: 彰人達も応援して！ 遥はみんなの応援があれば、絶対成功させるから！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ルカ (VBS): 『応援があれば、絶対成功させる』、か。 かっこいいね～♪
 杏: 遥はそういう子なので
@@ -55,18 +51,14 @@ MEIKO (VBS): そういえば、遥ちゃんっていう子が鉄棒跳びをす�
 杏: 何カ月か経って、またふたりでかけっこしてた時に、 私が転んじゃったんだけど——
 杏: 遥ってば、前のめりに転びそうになりながら止まって、 慌てて私のところに戻ってきたの
 杏: 普通にびっくりしたよ。 だから、思わず言っちゃったんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小学生の杏 (杏): 遥、なんで戻ってきちゃったの？ ゴールしてもよかったのに
 小学生の遥 (遥): ……ううん。そんなことしない
 小学生の遥 (遥): もしあの時と同じことがあったら、 今度は置いていかないって決めてたから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (VBS): なんだか、強い覚悟を感じるような言葉ね
 KAITO (VBS): えっと、小学生の頃の話だよね？
@@ -81,7 +73,7 @@ KAITO (VBS): えっと、小学生の頃の話だよね？
 冬弥: 白石は桐谷さんのことを、本当によくわかっているんだな
 杏: 当たり前でしょ
 杏: だって、親友なんだから！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,7 +98,7 @@ KAITO (VBS): えっと、小学生の頃の話だよね？
 こはね: うん。あっちだと思う！
 彰人: ほら、置いてくぞ
 杏: ちょ、嘘！？　みんな、待ってよー！
-(Black cut)
+(Black transition)
 ？？？: う、うう……
 ？？？: 痛い……痛いよう……
 杏: え、や、やだ！ 本当にうめき声が聞こえるんだけど！
@@ -143,7 +135,7 @@ KAITO (VBS): えっと、小学生の頃の話だよね？
 ルカ (VBS): お使い♪　お使い♪　偉い偉～い♪ デザートサービス、パフェ食べほうだ～い♪
 彰人: お、ルカさん、台車押してるぞ
 杏: あれ使えるじゃん！ ルカさーん、ちょっと止まってくださーい！
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -160,4 +152,4 @@ MEIKO (VBS): ないわね……。 それよりも、湿布のほうがいいん
 彰人: ああ、普通になったぞ。 動けなくなるほどじゃなかったけどな
 杏: えっ。あんなにしっかりトレーニングしてる彰人でもなったの？
 杏: 遥の本気の練習メニュー、恐るべし……
-(Black cut)
+(Black transition)

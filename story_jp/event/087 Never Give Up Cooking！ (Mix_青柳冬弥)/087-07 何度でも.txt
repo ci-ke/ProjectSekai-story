@@ -31,7 +31,7 @@ KAITO: ……教えたって、ミクが……？
 ミク (VBS): え、そうだけど……何？
 MEIKO: ——そう……ミクが……料理を……
 KAITO: これは……もしかすると、 とんでもないことになってるかもしれないね
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
@@ -75,22 +75,18 @@ KAITO: 『メイコにも、キッチンを貸してもらえるように話し�
 冬弥: ありがとうございます。 ……よろしくお願いします！
 冬弥: （……今度は、カイトさんが力を貸してくれるのか……。 頼もしい限りだ）
 冬弥: （……思えば、俺はいつも誰かに助けてもらっている）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （力を貸してくれるみんなのためにも…… 今度こそ、成功させたいな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -115,15 +111,15 @@ KAITO: えっ……
 ミク (VBS): 私も次は、ちゃんと教えられるように きちんとした作りかたを知っておきたいって思ったんだ
 KAITO: ……ああ。もちろんいいよ！　 一緒に頑張ろう、ミク！
 ミク (VBS): うん
-(Black cut)
+(Black transition)
 KAITO: う～ん、なるほど……。冬弥くんの話を聞く限り、 やっぱり膨らまない原因は、混ぜかたにある気がするなぁ
 KAITO: お菓子は繊細だからね。 混ぜかたひとつで仕上がりが全然違ってきちゃうんだ
 冬弥: では……ミクの指摘は正しかったんですね
 KAITO: うん！　いいところに気がついたと思うよ！
 KAITO: ただ……そうだね。実際どういう風に混ぜていくかは、 教わらないとよくわからないよね
 KAITO: 今回はそこに注意しながら、一緒に作っていこっか
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000170/bg_s000170.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000170/bg_s000170.webp)
 KAITO: メレンゲを作るには、卵白に砂糖を何回かにわけて入れて…… それから、ツノが立つまで泡立てるんだ
 冬弥: ツノ……。 なるほど、たしかにそう見えるな……
 ミク (VBS): うん。ピンと伸びてて、なんだか綺麗だね
@@ -131,7 +127,7 @@ KAITO: でしょ？　 メレンゲができたら、 卵黄のボウルに入�
 KAITO: その時は、気泡がつぶれないよう、 さっくり切るみたいに混ぜ合わせるんだよ
 KAITO: そうすると、仕上がりもふわふわした食感になるからね。 じゃあ冬弥くん、やってみようか
 冬弥: は、はい……！
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: ……ふふ
 ルカ: あれ、メイコ、どうかした？
@@ -141,4 +137,4 @@ MEIKO: それじゃあ……そろそろ、コーヒーの準備をしようか�
 MEIKO: わかったわ。リンとレンも飲むわよね？
 レン: うん！
 MEIKO: とびっきりのケーキが来るんだから—— コーヒーも、とびきり美味しいのを用意しなくちゃね
-(Black cut)
+(Black transition)

@@ -34,7 +34,7 @@ An: Yeah. I'll message him once we—
 An: Hm? Did you see something flash down at the end of that alley just now?
 Rin (VBS): I did! It looked like a fragment of a feeling!
 Miku (VBS): Let's check it out.
-(Black cut)
+(Black transition)
 An: Look, there! This has to be it, right? It looks sort of like a shard of glass.
 Miku (VBS): It looks similar to a fragment of a feeling, but...
 Rin (VBS): There's something weird about it, though. It's all broken.
@@ -43,7 +43,7 @@ An: Well, we can't just leave the poor thing here. This is someone's precious fe
 Miku (VBS): Ah, wait!
 An: Huh?
 An: Huh?! What was that?!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -84,7 +84,7 @@ An? (An): Even Aunt Nagi left me all by myself...
 An: ...!
 An? (An): Hey, let's just forget all about them. They're all so selfish and mean.
 An? (An): Then we won't have to be sad anymore.
-(White cut)
+(White transition)
 Rin (VBS): Ah, An!
 Miku (VBS): An!
 Rin (VBS): Oh! An, you're okay—
@@ -98,7 +98,7 @@ Miku (VBS): Yes, but... An, what—
 An: Hi! I'm An Shiraishi! Nice to meet you!
 Miku (VBS): It seems like... She's forgotten about us?
 Rin (VBS): Whaaat?!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -123,16 +123,12 @@ Miku (VBS): Okay, can you tell us what your favorite things are?
 An: My favorite thing is singing! Daddy teaches me all kinds of things!
 An: Daddy's really good at singing too! He's on a team with his friends, and they're called—
 An: Huh? Who were they...? I know he told me the team name, too...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 An: Why am I the only one in those pictures?
 An: The folks from Vivid Street and Aunt Nagi should be in those, too.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (VBS): Okay, can you tell me about your team, then?
 An: My team...
@@ -141,41 +137,29 @@ An: Me and Kohane, and Akito and Toya! The four of us want to put on an event bi
 Miku (VBS): Just like I thought, her memories aren't totally gone.
 Rin (VBS): An! I'd like to know more about RAD WEEKEND. What kind of event was it?
 An: Right! Um...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: H-Huh?
 An: I watched it with lots of people I really like, but... I can't remember it very well...
 An: Um, Daddy was there too, and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Huh?
 An: I can't remember Daddy's face...
 An: Why...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Why...?
 An: It's a really...really precious memory... But I can't remember...
@@ -191,16 +175,12 @@ Miku (VBS): These feelings didn't remove her memories, but they did affect them.
 Miku (VBS): Even if only a little bit, some part of An feels like things might be better this way.
 Rin (VBS): Ah...
 Rin (VBS): Then, what that other An said earlier...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 An? (An): They're all liars...
 An? (An): Even Aunt Nagi left me all by myself...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Miku (VBS): Those, too, are feelings An has inside her.
 Miku (VBS): An, what do you want to do? You get to decide.
 An: I...
@@ -217,42 +197,32 @@ Rin (VBS): When you were hurting, I was right beside you, but I couldn't do anyt
 Rin (VBS): This time, I'm here for you! I won't leave you alone!
 An: ...!
 An: (That's right. I...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An's Father: But you...
 An's Father: I believe you'll figure out a way to get there. The place Nagi wasn't able to reach.
 An's Father: With your friends here.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I...
 An: We...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
+(White transition)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 An: ...!
 An: I won't forget.
 An: I won't forget Aunt Nagi, Uncle Taiga, or anyone from Vivid Street!
@@ -260,7 +230,7 @@ An: Because I promised! To shoulder Aunt Nagi's feelings...everyone's feelings!
 An: I swear...
 An: I swear we'll take them there!
 An: To go where Aunt Nagi couldn't, beyond her dream!!!
-(White cut)
+(White transition)
 An: Ah...
 Rin (VBS): An...!
 An: Rin...
@@ -284,7 +254,7 @@ An: If I forgot, that's when I feel like Aunt Nagi would really go away.
 An: So I plan to remember forever, until the day I die, and when I'm face to face with Aunt Nagi again, I'll tell her...
 An: “I bet you think you're sooo clever!”
 Another An (An): That sounds good.
-(White cut)
+(White transition)
 (Background change)
 An: Whew! We made it back!
 An: Miku, Rin, I really have to thank you. If you hadn't been with me, things might have gotten really bad there.
@@ -295,4 +265,4 @@ An: No. If it's okay with you two, I'd like to practice. That other me really li
 Miku (VBS): Okay. We're with you.
 An: Thanks!
 An: Now, let's sing!
-(Black cut)
+(Black transition)

@@ -40,10 +40,8 @@ Gacha phrase: ……ありがとう
 穂波: みんなが知ってるルカさんも、 ミステリアスなイメージはありますけど……
 まふゆ: ミステリアスというか、 場をかき乱して楽しんでる気がする
 まふゆ: 不思議な木のセカイのことを話した時も 不安を煽るようなことを言ってたから
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): ——よくないことの前触れかもしれないわね
 レン (N25): え、よくないこと……？
@@ -53,14 +51,12 @@ Gacha phrase: ……ありがとう
 レン (N25): え、え……
 リン (N25): ルカ……
 ルカ (N25): ふふ、冗談よ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: そ、そういう感じのルカさんなんですね
 まふゆ: うん。大丈夫だといいけど
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -75,7 +71,7 @@ Gacha phrase: ……ありがとう
 ルカ (N25): 『あら、私にはそんな風に聞こえたわよ？』
 ルカ (N25): 『顔合わせの日が楽しみね。 私同士で仲良くなれると嬉しいわ』
 まふゆ: ……そうだね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -111,7 +107,7 @@ Gacha phrase: ……ありがとう
 ルカ (N25): さて、休憩の邪魔をするのはこのくらいにしておきましょうか
 ルカ (N25): ゆっくり休んでいくといいわ。それじゃあね
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -121,35 +117,27 @@ Gacha phrase: ……ありがとう
 まふゆ: （弓道部の朝練だけど……出るの少し早かったかな）
 まふゆ: （まあ、いいか。先に準備しておこう）
 まふゆ: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): ともあれ、あなたは自分を見せることを選んだ
 ルカ (N25): 今回のことがあなたにとって、いい方向に働くことを願っているわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……いい方向に、か）
 まふゆ: （何が変わるのか、まだよくわからないけど……）
 ？？？: 朝比奈さん？
 雫: ふふ、やっぱり朝比奈さんだったわ
 まふゆ: ……日野森さん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: あのね。もしよければなんだけど——
 雫: 私達の前では、朝比奈さんが 少しでも楽でいられるように……
 雫: どちらの朝比奈さんでも、 好きなほうで過ごしてもらえると嬉しいわ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……おはよう
 雫: ふふ、おはよう
@@ -157,4 +145,4 @@ Gacha phrase: ……ありがとう
 まふゆ: お昼……？
 まふゆ: うん。いいけど……
 雫: よかったわ！ いいお天気だし、屋上で食べるのもよさそうね
-(Black cut)
+(Black transition)

@@ -25,9 +25,8 @@ Gacha phrase: ついてきてくれて……ありがとう……
 雫: ……よかった、大丈夫そうだわ
 雫: （膝に敷いていたタオルが、 クッションになってくれたのね）
 雫: （……そういえば、このタオル——）
-(White cut)
-
-(Memory cut-in)
+(White transition)
+(Flashback in)
 
 [数日前]
 
@@ -56,26 +55,20 @@ Gacha phrase: ついてきてくれて……ありがとう……
 みのり: 雪ウサギの刺繍がついてて、雫ちゃんにぴったりだなって
 雫: ……しぃちゃんも、一緒に選んでくれたのね
 雫: ありがとう、とっても嬉しいわ。 たくさん使わせてもらうわね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 雫: （——私のために、ふたりで選んでくれたのよね）
 雫: （遥ちゃんのおにぎりも、愛莉ちゃんのお味噌汁も、 すごくおいしかった）
 雫: （みんなは、何も言わなかったけれど……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 雫: きっと、私のためにいろいろ考えてくれたのよね
 雫: （私を想ってくれる、みんなの期待に応えたい）
 雫: （そのためにも——）
 雫: （センターとして、みんなを導けるようにならなくちゃ）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,4 +122,4 @@ Gacha phrase: ついてきてくれて……ありがとう……
 雫: いいの？
 愛莉: ええ。せっかく頑張って、再生画面まで開いてくれたんだもの。 雫のスマホで見ましょ
 雫: ……ありがとう、愛莉ちゃん！
-(Black cut)
+(Black transition)

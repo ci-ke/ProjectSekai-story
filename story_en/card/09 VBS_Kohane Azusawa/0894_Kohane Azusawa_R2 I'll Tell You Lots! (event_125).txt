@@ -16,7 +16,7 @@ Toya: Yes, I understand.
 Toya: So, why don't you start by telling me about what you felt when you decided to start singing...?
 Kohane: Oh, okay...! That seems like a good starting point.
 Kohane: So, I decided to start singing after seeing An perform at Weekend Garage.
-(Black cut)
+(Black transition)
 Kohane: Phew... I think that's about everything.
 Kohane: It's amazing to see just how much happened after I decided to start singing.
 Kohane: Learning how to perform live in front of an audience was one thing, but I forgot how my parents were initially worried about my safety...
@@ -39,20 +39,16 @@ An: It's also proof that the apple doesn't fall far from the tree. You both seem
 An: But you don't hold back when push comes to shove...!
 Kohane: What?
 Kohane: (I-I'm like him...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane's Father: Honey, look! Count Pearl just shed his skin! Isn't it beautiful...? We should order some sushi to celebrate!
-(White cut)
+(White transition)
 (Background change)
 Kohane's Father: Stop right there, Kohane! Let me take a photo of you...!
 Kohane's Father: Okay, got it! See how it looks like Phenny is sitting on top of your shoulder? How cute it that...?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: Are we really that alike...?
 An: Huh? No, I'm sorry! I take that back...!
@@ -81,7 +77,7 @@ Toya: If possible, I'd like you to tell me more.
 Kohane: Okay... Thanks, Aoyagi.
 Kohane: Then, I'll tell you more about my family.
 Kohane: Let's see... What haven't I mentioned?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -90,19 +86,15 @@ Kohane: Let's see... What haven't I mentioned?
 
 [Live House]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ken: Today's event takes place at a live house in the city.
 Ken: It's one of the most famous venues in the country, so the people who perform there are the best of the best.
 Ken: Which means you'll probably recognize some of today's participants. That all being said, you guys have what it takes to go up against them now. So go show them what you've got!
 Everyone: We will!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (This really is an event for the best of the best. But we're doing just fine.)
 Kohane: (We have what it takes now! We just gotta show them what we're made of!!!)
@@ -112,7 +104,7 @@ Kohane: (Huh...? That sounded like...)
 Kohane: (D-Dad...?!)
 Kohane: (Wh-What's he doing here...? No, wait! I need to stay focused!)
 Kohane: ♪——————!!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Thirty minutes later]
@@ -141,7 +133,7 @@ An: I know what you mean... I'm starting to get really anxious.
 Akito: Yeah, that's pretty understandable... I mean, you never know what your parents are gonna say...
 Kohane: You never know... Please don't say anything weird, Dad...
 Toya: I know how you feel, Azusawa, but I wouldn't worry too much. I'm sure he isn't going to embarrass you in any way...
-(Black cut)
+(Black transition)
 
 [Ten minutes later]
 
@@ -151,7 +143,7 @@ Ken: We can do our debrief later, so why don't you see your dad out first?
 Kohane: O-Okay...! In that case, I'll be right back!
 An: See you in a bit, Kohane!
 Kohane: *Nod*
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Live House)
 Kohane: Dad, why didn't you tell me that you were coming today...?!
@@ -179,4 +171,4 @@ Kohane: So, thank you.
 Kohane's Father: Of course.
 Kohane's Father: Keep doing your best, Kohane! I'll keep giving you all the support I can!
 Kohane: Thanks!
-(Black cut)
+(Black transition)

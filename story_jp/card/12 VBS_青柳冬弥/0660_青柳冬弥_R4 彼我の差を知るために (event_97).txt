@@ -15,36 +15,28 @@ Gacha phrase: 今、立ち向かわないわけにはいかない！
 冬弥: ああ。とても丁寧に編集されていた。 これなら、リン達も満足してくれるだろう
 彰人: はあ……。 これでようやくあっちも静かになる
 冬弥: ……あのふたりには、ずいぶん映像をせがまれたからな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン: ねえねえ、サードイベントまだ見れないの！？
 レン: すごかったんでしょ？　早く見せてよー！
 彰人: ……だから、今編集してもらって——
 リン・レン: 『見たい！　見たい！　見たいーーーーーっ！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……ったく、あいつら向こうに行くたびに しつこく聞いてきやがって
 冬弥: どんなイベントだったのか、いろいろ話をしたからな。 その分、期待も大きいんだろう
 こはね: 早く見たいっていう気持ち、わかるなあ。 話を聞くのと実際の映像を見るのとじゃ、 全然感じかたも違うもんね
 冬弥: ああ。 まさにRAD WEEKENDがそうだったな
 冬弥: 初めて映像を見せてもらった時の衝撃は、 今でも忘れられない
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————！！
 大河・謙: 『♪————————！！』 『♪——！！　——！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 何度か見返したりしてるけど、 最初に感じたのと同じくらいすごくドキドキする
 彰人: 色あせない、ってああいうのを言うんだろうな
@@ -70,7 +62,7 @@ Gacha phrase: 今、立ち向かわないわけにはいかない！
 彰人: んじゃ、セカイに行くか。 リンとレンが首を長くして待ってるだろうしな
 彰人: ……冬弥、行くぞ？
 冬弥: ……そうだな。行こう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -86,45 +78,37 @@ Gacha phrase: 今、立ち向かわないわけにはいかない！
 冬弥: それでは失礼します
 こはね: またね、杏ちゃん！
 杏: ……うん！　また！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
 
 彰人: ……すっかり遅くなっちまったな
 冬弥: ……仕方ない。 今日は……いろいろありすぎた
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: あの夜は——あるひとつの想いでできていた
 大河: そいつがなければRAD WEEKENDは あそこまでのイベントにはなってなかった
-(White cut)
+(White transition)
 大河: ——『このイベントを、あいつの人生の最期にふさわしい、 最高のもんにしてやろう』っていう想いだ
-(White cut)
+(White transition)
 大河: ♪————————————！！
 杏: …………っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……凪さんのこと、本当にびっくりしたね
 冬弥: そうだな……
 彰人: …………。 なあ……
 彰人: お前、前に言ってたよな……。 RAD WEEKENDの映像を見た時——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: 気のせいかもしれないが……。 参加者全員の歌声の中にどこか—— 寂しさを感じたような気がした
 彰人: 寂しさ……？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……あれ、当たってたってことじゃねえか？
 冬弥: そう、だな……
@@ -139,18 +123,14 @@ Gacha phrase: 今、立ち向かわないわけにはいかない！
 冬弥: （……凪さんという人は、本当にすごい人だ）
 冬弥: （あの人が燃え上がらせた火が、場所も時間も越えて、 今ここで、しっかりと燃えているのだから）
 冬弥: （……今の俺達では、 まだまだ背負えないかもしれないが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （託された夢があることだけは、 この胸にしっかり刻んでおきたい）
 彰人: ——ここからだ
 彰人: どれだけ遠くても、高くても—— オレ達全員で、絶対に這い上がる
 冬弥・こはね: 『ああ！』 『うん！』
-(Black cut)
+(Black transition)

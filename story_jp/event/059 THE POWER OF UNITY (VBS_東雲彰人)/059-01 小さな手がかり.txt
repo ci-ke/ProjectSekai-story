@@ -10,22 +10,18 @@ RAD WEEKENDの映像を繰り返し見る内、彰人は、伝説を超えるた
 杏・こはね: 『————！』
 彰人: （……朝イチの練習だってのに全員すげえ気迫だ）
 彰人: （やっぱり——あれの影響だろうな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————！！
 謙・大河: 『♪————————！！』 『♪——！！　——！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……映像ですらあの迫力だ）
 彰人: （『歌のうまいチームが集まって盛り上げたイベント』 なんてものは、この世にゴロゴロあるが……）
 彰人: （RAD WEEKENDは——格が違う）
-(Black cut)
+(Black transition)
 杏: っあ～～！　疲れた～～！
 こはね: はぁ……はぁ……。 朝から歌いっぱなしだもんね……
 冬弥: ああ。 しっかり休憩をとらなくてはな
@@ -37,22 +33,18 @@ RAD WEEKENDの映像を繰り返し見る内、彰人は、伝説を超えるた
 彰人: （……だが、今のままで、本当にいいのか？）
 彰人: （実際あの場所には、 努力して実力をつけた一流のミュージシャンがそろってた）
 彰人: （だが……RAD WEEKENDを超えるために必要なものは、 ——実力だけじゃねえ気がする）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————っ！！
-(White cut)
+(White transition)
 凪: さあ、次は『RUST』！ 飛ばしちゃって！
 RUST: ♪——！　——！　——！！
 凪: さあ、次は『GLaP day』！ みんな声、枯れてないよね！？
 凪: さあラストを飾るのは、もちろん私達——
 凪: RADder！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （RAD WEEKENDを超えるなら、 あの熱狂を上回らなきゃならねえ）
 彰人: （だが……あれは簡単に生み出せるもんじゃない）
@@ -69,7 +61,7 @@ RUST: ♪——！　——！　——！！
 杏: ……ま、行けばわかるか！ それじゃいったん休憩にして、あっちに行こう！
 こはね: うん！
 彰人: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -120,15 +112,11 @@ KAITO: ボク達もイベントやるし、 この際みんなも、イベント
 杏: え？
 レン: いいね！ 今ならこはね達もいるし、練習もいっぱいしてるし、 いいイベントができるんじゃない！？
 杏: たしかに……。 チームで実力つけてからって思ってたけど、 そろそろ本格的にやってみるのはアリかもね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……そうだな。 オレ達でイベントをやってみるのは、いい案だと思う
 彰人: もしかしたら——それで“ヒント”が見つかるかもしれねえからな
@@ -170,4 +158,4 @@ MEIKO: ふふっ、みんな食べ盛りだものね。 それじゃ、そろそ
 彰人: おう
 彰人: （……やるからには、 半端な結果には終わらせねえ）
 彰人: （必ず——あの空気の正体を掴んでみせる）
-(Black cut)
+(Black transition)

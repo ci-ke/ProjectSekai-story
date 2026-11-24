@@ -2,7 +2,7 @@
 
 (Character: Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -23,19 +23,15 @@ Mafuyu's Mother: Was that my imagination...?
 Mafuyu: ...
 Mafuyu: (She worried about me, right...?)
 Mafuyu: (Mom's just looking out for...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: <She threw away something that meant a lot to you, right?>
 Ena: <That's like her saying your real thoughts and feelings belong in the trash! Am I wrong...?!>
-(White cut)
+(White transition)
 Ena: <You need to show her that you're mad... Because if you don't, she's gonna smash you to pieces!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (No...)
 Mafuyu: (Mom... She just...!)
@@ -48,7 +44,7 @@ Mafuyu: (But I have club activities when I don't have cram school. And on the da
 Mizuki's Message (Mizuki): <We can meet whenever you're free by the way! Still, I do sorta want to see you sooner rather than later...>
 Mizuki's Message (Mizuki): <There's something I need to tell you.>
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: She still hasn't replied...
 Mizuki: Uh oh... What if her phone got taken away...?
@@ -57,7 +53,7 @@ Mafuyu's Message (Mafuyu): <I can meet tomorrow after school.>
 Mizuki: ...! Awesome!
 Mizuki: <Thanks, Yuki! Then, I'll meet you out in front of the station!>
 Mizuki: All set...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -82,7 +78,7 @@ Mizuki: Then, let's move somewhere else before we talk.
 Mafuyu: Thank you...
 Mizuki: No problem! There's actually somewhere I've been planning to check out!
 Mafuyu: Huh...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [SpoJoy Park]
@@ -97,7 +93,7 @@ Mizuki: Plus, Kanade and the others said they had a lot of fun! I'm sure we'll f
 Mizuki: Oh, Mafuyu, do you know how to rollerblade?
 Mafuyu: I roller skated some when I was little...
 Mizuki: Great! Then, we can try it together!
-(Black cut)
+(Black transition)
 Mizuki: Whoa, Mafuyu! You're really good!
 Mafuyu: I am...? Rolling forward doesn't seem all that difficult...
 Mizuki: Hahaha! Kanade would probably feel awful if you told her that!
@@ -105,7 +101,7 @@ Mizuki: Anyway, since you seem fine, let's have a race! The last one to that sid
 Mafuyu: But I'm not thirsty.
 Mizuki: What?! No, wait! That means you think you're gonna win, right?!
 Mizuki: But I'm no slouch! So, ready... Go!
-(Black cut)
+(Black transition)
 Mizuki: Whoa, nice! That's three panels back to back! Why are you so good at this...?!
 Mafuyu: It may be because we played softball during P.E. the other day...
 Mafuyu: You can have the drink I won since you won during our race...
@@ -117,9 +113,9 @@ Mizuki: But are you sure you don't wanna keep doing more stuff?
 Mafuyu: ...? I thought you asked to meet with me because...
 Mizuki: That can wait! Just bear with me for a bit longer!
 Mizuki: So, let's head to the mall!!
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Whew! That was so much fun! And I got in some good shopping♪
 Mafuyu: Did you really need to take that long to pick out a single outfit...?
@@ -153,8 +149,8 @@ Mizuki: However...
 Mizuki: I'm standing here today because I gave myself that time...
 Mafuyu: Because you gave yourself that time...?
 Mizuki: The thing is, Mafuyu...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000186/bg_s000186.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000186/bg_s000186.webp)
 Mizuki: I believe that taking on whatever life throws at you takes a lot of energy.
 Mizuki: At the same time, if you can't get away from your problems, they'll just sap away all of your energy until there's nothing left.
 Mizuki: You know what I mean, right? After suffering through so much pain for so long, you just sorta lose the will to go on...
@@ -166,7 +162,7 @@ Mizuki: But I believe that it's okay to run when you're faced with an unbearable
 Mizuki: So...
 Mizuki: When you think you've reached your limit, I say run. Get out while you can.
 Mizuki: For your own sake, Mafuyu. You. No one else.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: ...
-(Black cut)
+(Black transition)

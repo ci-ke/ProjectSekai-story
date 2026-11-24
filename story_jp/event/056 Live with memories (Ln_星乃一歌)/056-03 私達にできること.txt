@@ -40,16 +40,12 @@ MEIKO: お客さんのこと？
 穂波: はい。 わたし達の初めてのファンになってくれた人達なんですけど、 家の事情で、いろいろ悩んでいるみたいで……
 志歩: ……まあ、部外者の私達が人の家のことであれこれ悩むのも、 ちょっと変なんですけどね
 咲希: でも……気になっちゃうんだよね。 初めてファンになってくれた人達だし、それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 葉太: 会わない……ように……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……大事な人と会えなくなるのはとっても寂しいから……
 一歌: ……うん
@@ -62,7 +58,7 @@ MEIKO: お客さんのこと？
 一歌: そうだね。 ありがとう、ルカ
 ルカ: どういたしまして。 それで……具体的には、どんなことがあったの？
 一歌: えっと、昨日のライブのあとね——
-(Black cut)
+(Black transition)
 ミク (Ln): そんなことがあったんだ……
 咲希: ……何かアタシ達にできることって、ないかな？
 志歩: あったらいいんだけどね……
@@ -79,7 +75,7 @@ MEIKO: その時のために、 何かを準備しておくっていうのも手
 志歩: 妹さんは、私達のライブを楽しみにしてくれてるんだしさ
 一歌: ……うん
 咲希: ……よーし！ じゃあ、次のライブに向けて、みんながんばろうねっ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [練習後]
@@ -94,15 +90,11 @@ MEIKO: その時のために、 何かを準備しておくっていうのも手
 一歌: （……みんな、ちゃんと切り替えて前向きになれてるみたい。 よかったな）
 一歌: （私も、次のライブに向けて頑張らなくっちゃ！）
 一歌: （でも……。 お兄さんは、やっぱりつらいだろうな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （ふたりを見てると、どうしても、 あの時のことを思い出しちゃう）
 一歌: （一緒にいたいのに、一緒にいられなくなっちゃった時のこと）
@@ -129,9 +121,9 @@ MEIKO: その時のために、 何かを準備しておくっていうのも手
 花乃: えっ、ちょ、ちょっと離してください……！
 一歌: ……！
 咲希: わ！　いっちゃん！？
-(Black cut)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000068/bg_s000068.webp)
+(Black transition)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000068/bg_s000068.webp)
 一歌: ——すみません！
 女性A: え？
 一歌: この子と待ち合わせをしてた者なんですけど……、 何かご用ですか？
@@ -139,7 +131,7 @@ MEIKO: その時のために、 何かを準備しておくっていうのも手
 一歌: もし何か用なら、私も一緒に聞きます。 ……ご用件はなんでしょうか？
 女性A: あ……ご友人と待ち合わせをされてたんですね……
 女性B: では仕方ないですね……。 またタイミングが合ったら、是非来てくださいね
-(White cut)
+(White transition)
 (Background change)
 一歌: ……はぁ。 しつこい人達じゃなくてよかった……
 花乃: あ、あの……！ Leo/needの、星乃さん……ですよね！？
@@ -149,4 +141,4 @@ MEIKO: その時のために、 何かを準備しておくっていうのも手
 花乃: あの……た、助けていただいてありがとうございました！ それから——
 花乃: この前は、すみませんでした……！
 一歌: ……え？
-(Black cut)
+(Black transition)

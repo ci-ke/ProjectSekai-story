@@ -85,7 +85,7 @@ Skill name: 変化に寄り添って
 奏: 『大丈夫だよ。わたし、たまにやるし』
 (Background change)
 奏: 『——じゃあ、進捗確認から始めようか』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -120,7 +120,7 @@ Skill name: 変化に寄り添って
 瑞希: 『うん、ボクはいーよ！』
 (Background change)
 瑞希: （こういう時は、 みんなで考えたほうがいい案も浮かぶしね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -158,7 +158,7 @@ Skill name: 変化に寄り添って
 まふゆ: 元気すぎてうるさいけどね
 絵名: ちょっと、まふゆ！ 聞こえてるんだけど！？
 瑞希: まあまあまあ、落ち着いて。 奏とまふゆも、早く行こうよ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ファミリーレストラン]
@@ -192,4 +192,4 @@ Skill name: 変化に寄り添って
 瑞希: （ならボクも、うかうかしてられないな）
 瑞希: （だって、みんながいい曲やイラストを作ってるのに 動画がしょぼかったらかっこ悪いもんね）
 瑞希: （本とか買って、ボクも動画の勉強してみよっと！）
-(Black cut)
+(Black transition)

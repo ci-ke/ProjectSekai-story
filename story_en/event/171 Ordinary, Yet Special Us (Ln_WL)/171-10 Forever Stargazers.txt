@@ -13,7 +13,7 @@ Ichika: (The more they pursue their own goals, the less we'll get to see each ot
 Ichika: (But...)
 Ichika: “As long as our hearts are one”...
 Ichika: No, just “our hearts are one”... That should also make Miku smile when she sings it.
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: This is coming along nicely...
 Ichika: Oh, I know. I should try having Miku sing it now.
@@ -24,7 +24,7 @@ Ichika: (I want this song to guide them.)
 Ichika: (So they can reach the places they want to go without ever getting lost.)
 Ichika: (No matter how far apart we are, we'll always be together.)
 Ichika: (And Miku's going to deliver that message.)
-(Black cut)
+(Black transition)
 
 [Two weeks later]
 
@@ -44,7 +44,7 @@ Ichika: Okay, it's sent...
 Ichika: I'm starting to feel really nervous for some reason...
 Ichika: ...
 Ichika: I think I'll go take a quick walk.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -60,7 +60,7 @@ Saki: *Sigh*
 Saki: (I wonder if Ichi and the others are trying to watch it right now too.)
 Saki: Hm? A message from Ichi...?
 Saki: This is...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Neighborhood]
@@ -74,7 +74,7 @@ Honami: I wish I could've seen the meteor shower...
 Honami: (Not only that...)
 Honami: Huh? A message...?
 Honami: It's finished...?!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -106,38 +106,26 @@ Saki: (But...)
 (Background change)
 Shiho: (For some reason, while listening to this song...)
 Shiho: (My heart's starting to sink a bit.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Saki and Honami won't be joining us, so we can try doing this again another time...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: I'm really sorry, you two...! Please forget what we just said.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: I think you should also prioritize your own dream, Honami.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (Why...?)
 Honami: (Why am I getting the feeling that Ichika's incredibly lonely?)
@@ -158,7 +146,7 @@ Ichika's Message (Ichika): <No, I wasn't working. I was about to go to the park.
 Shiho: The park...?
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Park]
@@ -260,15 +248,11 @@ Ichika: Why don't we go with something that really suits us?
 Shiho: Then, a constellation...? We are looking at the Leonid meteor shower right now.
 Saki: Yeah! Look at Shiho on a sentimental streak♪
 Shiho: There you go, poking fun at me again.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: (Hang on. Just now...)
 Saki: What's this meteor shower called in other languages...?
@@ -276,15 +260,11 @@ Honami: I'll check. Let's see...
 Honami: In English, this is the Leonid meteor shower. And in French, they're called “Les Léonides”...
 Ichika: Léonides...? That has a nice ring to it.
 Saki: It even has the word “need” in it! Like the way we all need each other♪
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Saki: Huh...?
 Saki: Didn't we have this same conversation somewhere else before...?
@@ -298,27 +278,27 @@ Saki: Throw in a shooting star in the form of a slash! Like this!
 Ichika: “Leo/need”...
 Ichika: That's right...
 Ichika: We're...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000067/bg_a000067.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000067/bg_a000067.webp)
 Shiho: How did we forget...?
 Shiho: Forget about something this important...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000003/bg_s000003.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000003/bg_s000003.webp)
 Saki: We've been doing all sorts of stuff as a band for like ever now!
 Saki: We've done a ton of shows, and even produced our own songs!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000156/bg_s000156.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000181/bg_s000181.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000156/bg_s000156.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000181/bg_s000181.webp)
 Honami: That's right. The four of us decided to go pro together in order to move the hearts of as many people as we could through our music...!
 Honami: And we've been blessed enough to perform at some incredibly large venues!
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Ichika: That means...
 Ichika: Moving forward...
-(White cut)
+(White transition)
 (Background change)
 Ichika: The four of us get to keep being in a band together.
-(White cut)
+(White transition)

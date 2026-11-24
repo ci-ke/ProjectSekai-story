@@ -34,18 +34,14 @@ MEIKO: 今から、ふたりの歌をよく聴いて、 力の入れかたや抜
 杏: ……でも、まだまだ！ ミク、もう１回お願い！
 ミク (VBS): ふふ、そう来なくちゃ。 いくらでもつきあうよ
 こはね: （……すごく気合い入ってるな、みんな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （考えても仕方ない。 今はとにかく集中しよう。私も……もっと……！）
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -57,15 +53,11 @@ KAITO: うん。そろそろ練習はおひらきにしようか。 遅い時間
 杏: ……もう、こんな時間だったんだ。 急いで帰らないと！
 こはね: う、うん……
 こはね: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……練習、し足りないな……
 ミク (VBS): こはね、無理は禁物だよ。 何事もやりすぎはよくないからね
@@ -77,7 +69,7 @@ MEIKO: いいのよ。気にしないで
 冬弥: ……ん？
 杏: ——あれ、冬弥？ どうしたの？
 冬弥: ……ああ。実は今、 颯真さん——遠野さんの相棒である人から、連絡が来たんだが……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -124,10 +116,10 @@ Crawl Greenオーナー: 杏が、凪の願いを受け取ってくれたんだ�
 COLオーナー: …………
 COLオーナー: ……老いぼれにできることは少ない。 私達には……あの子達の選んだ道を見守るしかできないよ
 Crawl Greenオーナー: ああ……そうだな……
-(Black cut)
+(Black transition)
 杏: ……はぁ。 はずれのほうまで来たら、やっとチラチラ見られなくなったね
 彰人: よっぽど大河さんとの勝負が噂になってるみたいだな……
 こはね: ……あれ？
 こはね: あっ……！ みんな、あそこに——
 杏: 洸太郎……！
-(Black cut)
+(Black transition)

@@ -15,17 +15,13 @@ Gacha phrase: 着ぐるみさん。あたし、やってみる！
 えむ: 木さーん、こんにちはーっ！
 えむ: もし寝ちゃってるなら起きてー？
 えむ: ……うーん、やっぱりダメだあ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク: …………えっ！
 一歌: ミ、ミク……！？　それに……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: あの時は、ぴかーってなって、 おっきな木があるセカイに行けたのになあ……
 ミク (WxS): お～いっ！　えむちゃーんっ☆
@@ -53,16 +49,12 @@ Gacha phrase: 着ぐるみさん。あたし、やってみる！
 えむ: 絶対なってくれるよ！
 えむ: ミクちゃんに会ったら、お星さまが出ちゃうくらい おめめがキラキラ～っ☆ってなると思う！
 えむ: きっとこんな感じで——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: あなたみたいなミクもいるんだね！ とっても可愛い！　大好き！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (WxS): わあ……！
 ミク (WxS): えむちゃん！　ミク、その子に会いに行きたい！ それで、キラキラ笑顔になってもらうんだっ♪
@@ -78,7 +70,7 @@ Gacha phrase: 着ぐるみさん。あたし、やってみる！
 えむ: でもでも、みんなのセカイやミクちゃんもすごいかも！
 ミク (WxS): うんっ☆　どんなセカイで、どんなミクがいるのかな？
 えむ: お話、一緒にできるといいねっ☆
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -107,7 +99,7 @@ Gacha phrase: 着ぐるみさん。あたし、やってみる！
 えむ: とっておき……あっ！
 えむ: わんわん～～～～～っわんだほーいっ♪
 一歌・えむ・遥・奏・ミク: 『ふふっ』 『えへへ♪』
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　朝]
@@ -121,18 +113,14 @@ Gacha phrase: 着ぐるみさん。あたし、やってみる！
 着ぐるみ: それで、お話というのは……
 えむ: うん……
 えむ: あのね、相談に乗ってもらったことなんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 着ぐるみ: ……たしかに、お嬢様が経験されたことを話せば、 その方は苦しくなってしまうかもしれません
 着ぐるみ: ですが——
 着ぐるみ: 勇気を、届けられるかもしれません
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……あの子に、ちゃんと話せたよ
 えむ: あたしが、おじいちゃんとお別れした後 どうやって悲しい気持ちとバイバイしたのか
@@ -164,4 +152,4 @@ Gacha phrase: 着ぐるみさん。あたし、やってみる！
 えむ: お墓参り、何持って行こうかな？ お花とお菓子と、えっと……
 着ぐるみ: あの方が大好きだった、たい焼きも持っていきましょう
 えむ: うんっ！　あたし達の分も買ってって、一緒に食べよー！
-(Black cut)
+(Black transition)

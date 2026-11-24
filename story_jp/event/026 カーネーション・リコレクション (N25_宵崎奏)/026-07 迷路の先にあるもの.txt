@@ -8,7 +8,7 @@
 奏: （今日は、瑞希のおかげでいろんなことを思い出せたな）
 奏: （まだ、まふゆを救う曲がどんなものか、 イメージできてはいないけど）
 奏: 作ろう。どれだけ時間がかかっても
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -16,16 +16,12 @@
 奏: ……違う。これじゃない
 奏: 前よりは近づいてる気がする。 でも、やっぱり何かが足りない
 奏: もっと、心へ静かに響くような……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: あ……
 奏: オルゴール……あった
 奏: …………この感じだ
@@ -33,17 +29,13 @@
 奏: （でも、わたしの曲には……ない）
 奏: （何が違うんだろう。 お父さんは、どうやってこの感じを出してたんだろう）
 奏: （お父さんは、あの時——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏の父: 僕は、僕の曲で奏とお母さんが笑ってくれれば、 それで十分さ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: 笑って……
 奏: （……お父さんはわたし達に笑ってほしいと思いながら 曲を作ってた）
 奏: （わたしは？ まふゆにどうなってほしい？）
@@ -55,36 +47,28 @@
 奏: ……はぁ
 奏: わたし、まふゆのこと、全然ちゃんと考えられてない……
 奏: これじゃ、いつまで経っても——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ルカ: この曲は、聴いた人をどこに辿り着かせてくれるの？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: どこに……
 奏: まふゆに、どこに辿り着いてほしいか……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏の母: お父さんの曲を聴くと——いつも幸せな気分になれるから
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: あ……
 奏: （あそこだ）
 奏: （……うまく言えない。 言えないけど——）
 奏: （いつか、たくさんのことを感じられるようになったまふゆに、 あの場所にいたお母さんみたいに——）
 奏: ……笑ってほしいんだ
-(Black cut)
+(Black transition)
 (Background change)
 奏: ——できた
 奏: ……今までの曲と、全然違う曲
@@ -93,4 +77,4 @@
 奏: ……ううん
 奏: 聴いてもらおう。みんなに
 奏: 『——みんな、いる？』
-(Black cut)
+(Black transition)

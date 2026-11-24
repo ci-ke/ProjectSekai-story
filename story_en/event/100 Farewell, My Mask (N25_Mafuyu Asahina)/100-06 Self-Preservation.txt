@@ -12,7 +12,7 @@ Mizuki: Really...?
 Mizuki: I'll check the diner just in case. There's a chance that she'll stop there before going home.
 Ena: <Okay, thanks! I'll meet you there.>
 Mizuki: Got it!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -23,15 +23,11 @@ Mafuyu: (Which is normal since it's not like we made plans to have an after-part
 Mafuyu: What am I doing...?
 Mafuyu: (I have that mock exam soon. I need to study for it.)
 Mafuyu: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What am I supposed to tell her...?)
 Mafuyu: (That I want to keep making music with my group?)
@@ -70,30 +66,22 @@ Miku (N25): <I don't want that to happen... So, please, tell her.>
 Miku (N25): <We'll be here for you...>
 Mafuyu: Miku...
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I won't go anywhere...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Okay...
 Mafuyu: I... I...
 Mafuyu: I'll try telling her how I really feel.
-(Black cut)
+(Black transition)

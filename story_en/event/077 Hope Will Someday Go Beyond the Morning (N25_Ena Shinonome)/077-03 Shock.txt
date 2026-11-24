@@ -15,10 +15,8 @@ Mother: Hehe. I know. Anyway, Mafuyu, it isn't much, but welcome to our home. Pl
 Mafuyu: Thank you very much. Then, if you don't mind...
 (Background change)
 Len: (I really hope Mafuyu's okay...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [Empty SEKAI]
@@ -39,10 +37,8 @@ Len: Alright, I'm not sure what I can do to help... But I'm gonna go over to see
 Miku (N25): Okay, that sounds good.
 Miku (N25): I'll leave Mafuyu to you.
 Len: Okay...!
-(Black cut)
-
-(Memory cut-out)
-
+(Black transition)
+(Flashback out)
 (Background change)
 
 [Ena's Room]
@@ -97,16 +93,12 @@ Len: <If I were her... I'd be too afraid to say how I really felt...>
 Len: <I mean, facing rejection from people you really care about, like your parents... That sounds awful...>
 Ena: Oh...
 Ena: (Rejection, huh...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Father: You don't have the talent to become an artist.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: ...
 Ena: I think I kinda get what you mean...
@@ -143,23 +135,19 @@ Ena: How...?
 Mafuyu's Mother: <If you don't mind me asking...>
 Mafuyu's Mother: <Mafuyu mentioned a friend who plays music. Is that you?>
 Ena: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: Hang on... Have you not told her about us making music?
 Mafuyu: No... Because I think all she wants me to do is study.
 Mafuyu: She even tried to get rid of the synthesizer in my room once already...
 Kanade & Ena: What...?!
-(White cut)
+(White transition)
 Mizuki: Um, Mafuyu...? Has she said anything to you since then?
 Mafuyu: No. I made sure to keep Nightcord and any song files hidden, so I doubt she found anything about all of you...
 Kanade: I see... That's good to hear.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Based on what she said, her mom doesn't know about N25...)
 Ena: (And I have to think that she's still trying to look for answers.)
@@ -221,4 +209,4 @@ Ena: Oh, I need to tell my mom about what's happening since she's gonna need to 
 Mafuyu: I'll go with you... I should thank her now that I'm staying over.
 Ena: You sure? You don't have to, but... Alright, let's go.
 Mafuyu: Okay...
-(Black cut)
+(Black transition)

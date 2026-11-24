@@ -4,10 +4,8 @@
 
 [冬弥の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: 俺にも、同じようにかけがえのない相棒がいます。 だから、そんな風に思ったのかもしれません
 颯真: …………
@@ -40,67 +38,49 @@
 冬弥: そう、ですね。 今はこの想いのまま——曲を作りたいです
 颯真: うん。 ——これでお互い、前に進めたな
 颯真: 青柳くんの納得がいく曲、楽しみにしてるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （相棒とまた肩を並べたい—— その心からの願いが、颯真さんの曲を力強くしていたんだろう）
 冬弥: そして俺にも、颯真さんと同じ願いがある……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 彰人: ♪————！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （俺は彰人に、感謝してもしきれない）
 冬弥: （クラシックから逃げて 自分を見失わないために歌っていた俺のことを、 彰人が見つけてくれた）
 冬弥: （あの日——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: おもしろいな、お前。 なあ、ちょっとオレと歌ってみねえ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （チームを組もうと、声をかけてくれた）
 冬弥: （そして俺を、『RAD WEEKENDを超える』という 新しい夢と出会わせてくれた）
 冬弥: （小豆沢と初めて会った時は、 少し揉めてしまって大変だったが……）
 冬弥: （だが、４人でチームを組むきっかけになった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: （あれから、父やクラシックと向き合うこともできたし）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 冬弥: （小さい頃には想像のつかなかった楽しいことも、 たくさん経験することができた）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 冬弥: …………こんな、中途半端な俺が……お前の隣に立っていいのか？
 彰人: お前は中途半端じゃねぇ。 中途半端って自分で思ってるだけの、オレの最高の相棒だ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （彰人は、俺のことを『最高の相棒』だと言ってくれる）
 冬弥: じゃあ俺は、最高の相棒であり続けるために……
@@ -113,7 +93,7 @@
 冬弥: （俺にとって大事な気持ちだ。 だからこそ、大事な音楽で伝えたい）
 冬弥: ここは……ピッチを下げて、 もっと旋律に響きを持たせたいな
 冬弥: ほどほどの、歩くような速さをベースにして…… 楽器の音は明瞭なほうがいい。動きをつけていこう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -129,7 +109,7 @@
 杏: うん、お願い！　冬弥もいい？
 冬弥: ああ、構わない
 彰人: よし。それじゃ、また最初から合わせてみるぞ
-(Black cut)
+(Black transition)
 (Background change)
 杏: はぁ、はぁ……。 あはは、ずっと歌いっぱなしだったねー
 こはね: でも、サビにいく前の抑揚をつけてヒリヒリした感じから 一気に盛り上げるのも、歌ってて気持ちよかったな
@@ -193,11 +173,11 @@
 冬弥: だがそうならなかったのは、彰人が繋ぎとめてくれたからだ
 冬弥: 今でも相棒の隣で歌っていられることが、どれだけ幸福か…… そのことに気づいたんだ
 冬弥: これから先もずっと 肩を並べられる相棒であり続けたいという気持ちがあったから、 このトラックを作ることができた
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000116/bg_s000116.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000116/bg_s000116.webp)
 冬弥: 彰人。お前は、最高の相棒だ
 彰人: ったく。こっちの台詞だよ
-(White cut)
+(White transition)
 (Background change)
 杏: あれー？　彰人、嬉しそうだね？
 彰人: うるせえな
@@ -213,18 +193,14 @@
 彰人: そういうわけだ。 こんなにいいトラックが目の前にあんのに それをやらないなんてありえねえだろ
 彰人: あと——オレのトラックだが、もう少し手を入れさせてくれ。 パート分けは極力変わらないようにする。 ……今なら、最高に熱い曲が作れそうだ！
 冬弥: （……どう考えても、大変だと思うが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 颯真: うん。あの頃はとにかくがむしゃらで、無茶なことしたな。 今になって思えば、よくあんな練習できてたなって思うよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……だが、がむしゃらに高めあっていくのも 時にはいいか）
 彰人: 最高のイベントにするぞ、冬弥！
 冬弥: ああ。楽しみだ
-(White cut)
+(White transition)

@@ -145,7 +145,7 @@ Gacha phrase: Kの曲が私を救ってくれるかもしれない
 まふゆ: （たしかに、もうドラゴンじゃない気がする。 でも、じゃあ何？）
 まふゆ: …………
 まふゆ: ……別にいいか。 それより、作業しなくちゃ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -188,15 +188,11 @@ Gacha phrase: Kの曲が私を救ってくれるかもしれない
 まふゆ: 『……そっか』
 (Background change)
 まふゆ: （たしかに、望月さんがいてくれるから、 食事は大丈夫そうだけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 『でもK、部屋はもう少し綺麗に使ったほうがいいよ』
 奏: 『え？』
@@ -212,7 +208,7 @@ Gacha phrase: Kの曲が私を救ってくれるかもしれない
 まふゆ: 『え……』
 まふゆ: （……心配？）
 まふゆ: （これは……心配、なの？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [その夜]
@@ -231,7 +227,7 @@ Gacha phrase: Kの曲が私を救ってくれるかもしれない
 瑞希: 『あ、やっぱり気づいてなかったんだ……』
 瑞希: 『……ひょっとして、何かあった？ ボク達でよければ聞くけど……』
 まふゆ: 『…………。今日、少しKと話したんだけど……』
-(Black cut)
+(Black transition)
 (Background change)
 絵名: 『ふうん。雪がKの心配ねえ……』
 まふゆ: 『あれは……本当に心配なの？』
@@ -244,20 +240,16 @@ Gacha phrase: Kの曲が私を救ってくれるかもしれない
 (Background change)
 絵名: 『まあ、倒れたことがあるって聞いたあとだし、 今は大丈夫だろうってわかってても、ちょっと心配だよね』
 瑞希: 『うん。Kにとって、 曲作りが何よりも最優先！って感じだから余計にね』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: わたしが作り続ける
-(White cut)
+(White transition)
 (Background change)
 奏: この曲で雪を本当に救えなかったとしても、 救えるまで作り続ける
 奏: 雪が自分を見つけられるまで——ずっと作る
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （元気でいてほしいのは、 あの約束を守ってほしいから……？）
 まふゆ: 『——少しわかった気がする。 Amia、えななん、ありがとう』
@@ -279,4 +271,4 @@ Gacha phrase: Kの曲が私を救ってくれるかもしれない
 奏: 『え……？』
 (Background change)
 瑞希: 『あはははっ』
-(Black cut)
+(Black transition)

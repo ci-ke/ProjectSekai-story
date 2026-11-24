@@ -29,17 +29,13 @@
 彰人: （冬弥と組んで——こいつと相棒としてやっていくために、 必死で練習してきた）
 彰人: （ようやく肩を並べられるようになって、 杏やこはねと組んで歌うようになって——少しずつ あの夜に近づけるようになったんじゃねえかって思ってた）
 彰人: （だが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 新: 君の仲間は、荒削りではあるけれど光るものがある。 このまま努力を重ねれば、一流と呼ばれるような プレイヤーになれるかもしれない
 新: だけどその時、彼らと同じステージに君が立っている姿を 俺は想像できないんだよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: …………ッ
 彰人: （あいつが言うことも——わかる）
@@ -48,7 +44,7 @@
 こはね: あ、杏ちゃん！　あそこにいるよ！
 彰人: …………もうすぐイベントの時間だ。 悪いが、話はまた今度な
 冬弥: 彰人……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -62,7 +58,7 @@
 冬弥: 謙さんから言ってもらってもそうなのか……。 一体どうしたら……
 杏: せめて、なんでああいう風になっちゃってるかだけでもわかれば、 少しはやりようがあるんだけどなあ……
 こはね: あ、それなら……。 あっちで相談してみるのはどうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -79,7 +75,7 @@ MEIKO: あら、いらっしゃい。 気がつかなくてごめんなさい
 KAITO: 本当かい？ いや～、そう言ってもらえると嬉しいな～
 ミク (VBS): ……そういえば、今日は３人なんだね。 彰人は？
 冬弥: それなんだが……。 少し、相談に乗ってもらえないだろうか
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -118,23 +114,19 @@ KAITO: つらい時は励ましあって、調子のいい時はお互いに引�
 KAITO: もちろん、頼ってばっかりじゃダメだっていうのも、 正しいけどね？
 KAITO: でもチームとして夢を追うんなら、今みたいな時は、 ちゃーんと頼らせてあげたほうがいいんじゃないかな
 冬弥: ……ちゃんと頼らせる、ですか
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: 頑張ったな、冬弥
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……そうですね
 冬弥: 同じチームのメンバーとして……相棒として。 俺は、彰人を支えようと思います
 冬弥: そして——一緒に成長していこうと思います
 杏: ……うん、決まったね。 相談に乗ってくれてありがとう、カイトさん
 杏: ——それじゃあ行こう！　ふたりとも！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: WEEKEND GARAGE)
 杏: さて、戻って来たことだし、 サクっと彰人に連絡とって……と
@@ -168,18 +160,14 @@ KAITO: でもチームとして夢を追うんなら、今みたいな時は、 
 洸太郎: その反面、彰人は一部のヤツらに、 相棒の実力だけでイキがってるって陰で言われてたりな
 杏: なにそれ！　ひどくない！？
 冬弥: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: 力が足りなかったのは、オレだ
 冬弥: そんなことはない。 彰人は——
 彰人: そんなことあんだよ。 ……それはオレが一番よくわかってる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……彰人……
 冬弥: 三田、教えてくれてありがとう。 彰人は今どこにいる？
@@ -187,4 +175,4 @@ KAITO: でもチームとして夢を追うんなら、今みたいな時は、 
 冬弥: あそこか……！
 杏: あ、冬弥……！ 私達も行こう、こはね！
 こはね: うん！
-(Black cut)
+(Black transition)

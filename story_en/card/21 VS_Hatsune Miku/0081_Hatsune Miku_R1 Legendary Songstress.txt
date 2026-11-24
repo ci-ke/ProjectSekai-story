@@ -12,7 +12,7 @@ Miku: Hello, everybody!
 Miku: Thanks for coming to the show! I hope you'll all have fun!
 Miku: And now... Let the music begin!
 Miku: ——♪ ——♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Class 1-C]
@@ -23,22 +23,22 @@ Ichika: Yes. There was a VIRTUAL SINGER event just the other day, and Miku was a
 Ichika: They put up a snippet of the event for a limited time only.
 Saki: Wow! Can I watch the rest with you?
 Ichika: Sure.
-(Black cut)
+(Black transition)
 (Background change)
 Miku: ——♪ ——♪
 Miku: ——♪ ——♪
-(Black cut)
+(Black transition)
 (Background change)
 Saki: This is amazing... It's as if Miku was actually performing right there on the stage!
 Saki: You can't tell she's a 3D hologram at all!
 Ichika: Yeah. And if the video already makes us feel this way, going to the show in person must be even better.
 Saki: The cheers were deafening! That's real nice. Everyone there must've enjoyed themselves.
-(Black cut)
+(Black transition)
 (Background change)
 Miku: We're not done yet!
 Miku: This is my next song!
 Miku: ——♪ ——♪
-(Black cut)
+(Black transition)
 (Background change)
 Saki: Hey, I know this song too!
 Saki: And the dance routine is so cute! Look at the way her clothes and hair are fluttering around...
@@ -61,12 +61,12 @@ Saki: Ah, maybe I might change my view if I actually saw her performing live, th
 Ichika: Maybe.
 Saki: I knew it! That sounds nice. Maybe we should all go watch her together someday!
 Ichika: We should.
-(Black cut)
+(Black transition)
 (Background change)
 Miku: Thanks for coming today, everyone!
 Miku: Did you have fun?
 Miku: Until we meet again next time, when I can bring you more songs!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -79,7 +79,7 @@ Kanade: Ah...
 Kanade: (Maybe I should remove this part. And add more effects here...)
 Kanade: Hm?
 Kanade: (A video? It's from Yuki...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [VIRTUAL SINGER Stage]
@@ -87,7 +87,7 @@ Kanade: (A video? It's from Yuki...)
 Miku: Hello, everybody!
 Miku: Thanks for coming to the show! I hope you'll all have fun!
 Miku: And now... Let the music begin!
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: (This is...a video of a Hatsune Miku event?)
 [K] (Kanade): <Yuki, what's this for?>
@@ -105,7 +105,7 @@ Kanade: (This is...a video of a Hatsune Miku event?)
 [Yuki] (Mafuyu): <Have you ever thought about letting Miku sing the songs that you've composed?>
 [K] (Kanade): <Yes, I've thought about that before. It's still one of my options now, too.>
 [K] (Kanade): <For example... Listen to this part here.>
-(Black cut)
+(Black transition)
 (Background change)
 Miku: ——♪ ——♪
 [K] (Kanade): <Around here.>
@@ -114,7 +114,7 @@ Miku: ——♪ ——♪
 Miku: ——♪ ——♪
 [K] (Kanade): <The lyrics are clear even though she's singing so quickly.>
 [Yuki] (Mafuyu): <Yes.>
-(Black cut)
+(Black transition)
 (Background change)
 [K] (Kanade): <She has a massive vocal range and great tone. Even her breathing sounds real.>
 [K] (Kanade): <There's a lot of vocal expressions only Miku can achieve.>
@@ -134,8 +134,8 @@ Miku: ——♪ ——♪
 [K] (Kanade): <Okay, I will...>
 (Background change)
 Kanade: Miku, huh?
-(Black cut)
+(Black transition)
 (Background change)
 Miku: Thank you for listening to my song, everyone!
 Miku: I won't ever stop singing, so don't ever stop listening♪
-(Black cut)
+(Black transition)

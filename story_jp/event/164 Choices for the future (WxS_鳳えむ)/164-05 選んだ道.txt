@@ -11,30 +11,26 @@
 ぬいぐるみ達: ネエ。エムチャン、何カアッタノカシラ？
 ぬいぐるみ達: ウン。ズーットベンチに座ッテ、ボンヤリシテルネ
 ぬいぐるみ達: チョット心配ネ。 声をカケテミヨウカシラ——アラ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000435/bg_s000435.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000435/bg_s000435.webp)
 KAITO (WxS): ——えむちゃん。ここにいたんだね
 えむ: カイトお兄さん……。 どうしてここに？
 KAITO (WxS): えむちゃんを探してたんだ
 KAITO (WxS): あの後、どうなったかなと思って。 えむちゃんのスマホから様子を見てたんだけど……
 えむ: あ……
 KAITO (WxS): 隣、座ってもいいかな？
-(White cut)
+(White transition)
 (Background change)
 えむ: うん、どうぞ！
 KAITO (WxS): 白虎町さんとの話、勝手に聞いてしまってごめんね
 えむ: ううん。 心配して来てくれて、ありがとう
 KAITO (WxS): ……大丈夫かい？
 えむ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……涼ちゃん、怖いって言ってたんだ
 えむ: あたし……涼ちゃんの気持ち、ちょっとわかるなって思ったの。 フェニックスワンダーランドのときも、同じだったから
@@ -50,20 +46,16 @@ KAITO (WxS): ……えむちゃん。そういうときは、同じような体�
 KAITO (WxS): うん。フェニックスワンダーランドの問題について——
 KAITO (WxS): 一番はじめに、状況を変えようと行動していた人達がいただろう？
 えむ: それって……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (WxS): その人達は——
 KAITO (WxS): 今の白虎町さんが抱えるような“怖さ”を、 乗り越えてきたんじゃないかな？
 えむ: あ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [鳳家　リビング]
@@ -109,7 +101,7 @@ KAITO (WxS): 今の白虎町さんが抱えるような“怖さ”を、 乗り
 えむ: …………！
 えむ: 慶介お兄ちゃん、晶介お兄ちゃん……
 えむ: ありがと！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -141,4 +133,4 @@ KAITO (WxS): 今の白虎町さんが抱えるような“怖さ”を、 乗り
 白虎町: 経営会議で先ほどの案を提出するには、 事前に理事長の承認を得る必要がある
 白虎町: 祖父を説得するために詳細を詰めたいんだ
 えむ: うん、もちろんっ！
-(Black cut)
+(Black transition)

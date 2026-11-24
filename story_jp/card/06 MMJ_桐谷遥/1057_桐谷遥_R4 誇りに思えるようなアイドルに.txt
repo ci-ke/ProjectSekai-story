@@ -45,7 +45,7 @@ MEIKO (MMJ): ……行くのね。想いのセカイに
 MEIKO (MMJ): わかったわ！　わたし達もついていくから安心して♪
 遥: メイコ、カイトさん、ありがとうございます！
 遥: ——じゃあ、いきます
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -67,12 +67,12 @@ MEIKO (MMJ): ……遥ちゃん？
 遥？ (遥): 本当に、お父さんとお母さんが大事なら
 遥？ (遥): やめちゃえばいいのに。 アイドルなんて
 遥: ……待って！
-(White cut)
+(White transition)
 (Background change)
 遥: きゃっ！
 KAITO (MMJ): わ、眩しいっ！
 MEIKO (MMJ): 遥ちゃん！？
-(White cut)
+(White transition)
 (Background change)
 MEIKO (MMJ): よかった！　遥ちゃん、大丈……
 KAITO (MMJ): あれ……なんだか、様子が……
@@ -81,14 +81,14 @@ KAITO (MMJ): あれ……なんだか、様子が……
 MEIKO (MMJ): まさか、あなたが遥ちゃん！？
 遥: うん、そうだけど……？
 KAITO・MEIKO: 『遥ちゃんが、入れ替わってる！？』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -113,31 +113,23 @@ MEIKO (MMJ): 中身がわたし達が知ってる遥ちゃんだって、実感�
 KAITO (MMJ): 悲しい顔、か……
 MEIKO (MMJ): もうひとりの遥ちゃんも、 そんな話をしていたけど、関係あるのかしら？
 遥: わからないけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 遥？ (遥): ……でも、きっと、また悲しい顔をさせちゃうんだよ
 遥？ (遥): 私が、アイドルをしてる限り……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 遥: ……私、アイドルになってから、 もう何度も、両親に悲しい顔をさせてるの
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: デビューしたての頃は、表情が硬いとか、ダンスが下手とか 事務所のコネで入れたとか、ネットでいろいろ言われて——
 遥: 部屋で泣いてたら、お母さんに見つかって……
 遥: すごく、つらそうな顔をさせちゃった
 遥: ……ASRUNのリーダーになってからも、 今までのリーダーと比べられることが多くて
 遥: もうその頃には、そういう一部の人達の声を 気にしなくなっていたけど、 両親はずっと気に病んでたと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: それから、真依のケガがあって—— 私は、ステージに立つことが怖くなって
 遥: 両親は仕事を休んで、一緒にいてくれたり、 いろいろなお医者さんを探してきてくれたり、 たくさん私を支えてくれたのに
@@ -175,25 +167,21 @@ KAITO (MMJ): 大丈夫だよ。 遥ちゃんが思うまま、言葉にしてい
 KAITO (MMJ): 相手は、他の誰でもない——遥ちゃん自身だからね。 自分に嘘をつくなんて、しなくていいんだよ
 遥: …………！
 遥: 私は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: あの日、あのステージで 私でも、誰かを笑顔にできるって知った
 遥: お母さん達に悲しい顔ばかりさせてしまっていた私でも——
 遥: 『アイドル』なら、みんなを笑顔にできるって
 遥: だから——！
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ——私は、やめない
 遥: 私は、アイドルであり続けるよ
@@ -210,7 +198,7 @@ MEIKO (MMJ): 遥ちゃん……！
 もうひとりの遥 (遥): …………そっか
 もうひとりの遥 (遥): ……本当は、わかってたんだ。 私なら、きっとそう答えるって
 もうひとりの遥 (遥): 私も……
-(White cut)
+(White transition)
 (Background change)
 MEIKO (MMJ): ……ふう。無事に元のセカイに戻ってこれたみたいね
 KAITO (MMJ): うん。遥ちゃん、大丈夫？
@@ -222,4 +210,4 @@ KAITO (MMJ): 笑顔の遥ちゃんの写真がたくさんあったし！
 遥: ……そうですね
 遥: （——お母さん達が誇りに思えるような『アイドル』）
 遥: （約束したんだから、頑張らないとね）
-(Black cut)
+(Black transition)

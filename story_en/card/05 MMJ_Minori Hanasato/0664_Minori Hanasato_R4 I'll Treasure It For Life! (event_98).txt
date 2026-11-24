@@ -25,7 +25,7 @@ Shiho: I don't mind, but what exactly are we commemorating?
 Minori: Oh, um... Me telling you both I'll be switching over to the credit-based course!
 Shiho: I could've guessed as much.
 Minori & Kohane: Haha! Hehe.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Arcade]
@@ -33,7 +33,7 @@ Minori & Kohane: Haha! Hehe.
 Kohane: Oh, I think it's this one.
 Minori: “Decorate your photos in a variety of fun ways, including doodling, placing stamps and other unique features!”
 Shiho: Interesting. Well, it's open, so shall we?
-(Black cut)
+(Black transition)
 Shiho: Still, it doesn't seem all that different from the other machines...
 Minori: Hey, look! This lets you doodle for a really long time!
 Kohane: It did say that you can edit and doodle in a variety of ways. I guess they really want us to have fun with that.
@@ -76,7 +76,7 @@ Shiho: Okay, we can give her a cleft chin, an underbite or...
 Kohane: P-Please, you two! We won't even be able to recognize ourselves!
 Kohane: I-If you don't stop... I'll give you both some big, puckered lips!
 Minori: Wait, you can do that?! Lemme see! Lemme see!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,10 +105,8 @@ Kohane: Hehe. Me too...!
 Shiho: The first time we talked? When was that...?
 Minori: Right after the entrance ceremony. We were all in the classroom looking for our desks.
 Kohane: You and Minori really saved me that time, Shiho.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Classmate A: What?! I'm literally right in front of the teacher!
 Classmate B: Thank goodness I'm towards the back. This is nice. I can see the courtyard from here!
 Kohane: (Let's see... There should be a piece of paper with my name on it...)
@@ -154,10 +152,8 @@ Kohane: U-Um... Thank you for finding it. C-Can I ask for your name...?
 Minori: Oh, I wanna know too! I'm Minori Hanasato, by the way!
 Shiho: Shiho Hinomori...
 Kohane: Hinomori... Again, thank you very much.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Shiho: I remember now... But I'm not sure that counts as an actual conversation.
 Minori: Of course it does! In my book, we were all friends after we'd introduced ourselves!
 Shiho: Your bar for that seems a little low...
@@ -167,4 +163,4 @@ Minori: Sh-Shiho...! Yeah! Friends foreveeer!
 Shiho: Hey, personal space...! Don't start acting like Saki on me!
 Minori: No, this moment totally calls for a big hug!
 Kohane: Hehe.
-(Black cut)
+(Black transition)

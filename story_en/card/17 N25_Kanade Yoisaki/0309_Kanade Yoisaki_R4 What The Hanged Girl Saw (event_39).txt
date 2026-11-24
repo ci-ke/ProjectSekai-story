@@ -21,25 +21,21 @@ Mizuki: <Night, everyone!>
 (Background change)
 Kanade: Phew... It's finally done and uploaded.
 Kanade: And this song...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: I'm not sure how to describe it...
 Mafuyu: But I liked it, I think...
-(White cut)
+(White transition)
 Mafuyu: It felt... A little warm...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: I hope that a lot of people listen to it...
 Kanade: *Yawn*...
 Kanade: For now, I should go to bed...
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Hm...? It's morning already?
 Kanade: Oh, right. The hospital...
@@ -59,7 +55,7 @@ Comment: <I've had a lot on my mind lately, but I feel way better after hearing 
 Kanade: Thank goodness...
 Kanade: (I guess this means it's managed to reach all these people, like the way it reached Mafuyu.)
 Kanade: (I'm so glad...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Hospital]
@@ -74,23 +70,19 @@ Kanade: I know you're not supposed to play anything loudly but...
 Kanade: ...
 Kanade: Do you remember, Dad...?
 Kanade: That time you, Mom and I had a picnic in the park...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I'd forgotten where we actually went, but someone in my group helped me find it again.
 Kanade: Thanks to them, I was able to remember that wonderful time we had together.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I even realized how I want to make Mafuyu smile through my music.
 Kanade: And so, I composed this song.
 Kanade's Father: ...
 Kanade: ...
-(Black cut)
+(Black transition)
 Kanade: Thanks for listening to it, Dad. I should get going now...
 Kanade's Father: ...
 Kanade: Huh? Dad, did you smile just now...?
@@ -102,7 +94,7 @@ Kanade: But I'm going to keep composing, Dad...
 Kanade: I'm going to compose a song that can make someone... No, a song that can make everyone feel happy...
 Kanade's Father: ...
 Kanade: I'll be back soon, Dad...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -215,4 +207,4 @@ Kanade: <Okay, understood.>
 (Background change)
 Kanade: (That ended up being a nice break.)
 Kanade: (I should be able to maintain this pace and finish that draft now.)
-(Black cut)
+(Black transition)

@@ -41,30 +41,24 @@
 咲希: （もしかして、この電車…… どこに行くのか、決まってないのかな？）
 咲希: （ドアも開かないみたいだし……。 電気はついてるから、動くとは思うんだけど）
 咲希: もしもーし、お客さんが来てますよ～？
-(White cut)
+(White transition)
 (Background change)
 咲希: え……？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: 初めまして！　天馬咲希です！
 咲希: 実は中学からここの生徒だったんですけど、 病気で入院しちゃって、しばらくお休みしてました
 咲希: 今はもう治ってめちゃめちゃ元気いっぱいなので、 思いっきり遊ぼうと思います！
 咲希: 高校生活、たっくさん青春したいです♪ 皆さんこれからよろしくお願いします！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: な——なにこれ！？ アタシ……？
 咲希: 急に頭の中に——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: じゃあねいっちゃん！　バイバーイ！
 一歌: うん。 またね、咲希
 咲希: ……はぁ
@@ -74,66 +68,50 @@
 咲希: ううんダメダメ！　暗くなったら！
 咲希: アタシからいっぱい話しかけてったら、 前みたいに遊べるようになるかもしれないし！
 咲希: また明日話してみよう！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: （これって—— アタシがまた学校に行けるようになった頃の……）
 咲希: （もしかしてアタシ、 昔の記憶を見てるの……？）
 咲希: あ——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: ふたりとも、本当にどうしちゃったんだろう？
 咲希: なんだかアタシのこと避けてるみたい……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: （これってたしか…… しほちゃんとほなちゃんが、 話しかけてもあんまり返事してくれなかった時で——）
 咲希: （いつものふたりと違うから、 なんでなんだろう？って、すっごく不思議だったな……）
 咲希: （それで、そのあと——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: （……楽しい！　みんなの音が一緒になってる！ もしかしてバンドを始めたら、またみんなで前みたいに……）
-(White cut)
+(White transition)
 咲希: しほちゃん、ほなちゃん、いっちゃん！ ……みんなでバンドやってみない！？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: （セカイでしほちゃん達と会って、 バンドをやろうって言って——）
 咲希: （……あの時のアタシ、 ホントに必死だったな）
 咲希: （また、みんなで一緒にいたくて……。 バンドでならもしかしたら、って思ったんだよね）
 咲希: （だけど——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: アタシ、決めた
 咲希: ほなちゃんのこと、バンドに誘うのはもうやめる
 一歌: え……！？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: （……あの時は、苦しかったな……）
 咲希: （ほなちゃんと一緒にいたかったけど、 でも、そうするとほなちゃんを苦しめちゃうから——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: （……明日、言わなきゃ）
 咲希: （ほなちゃんに、 『もうバンドに誘うのはやめるね』って）
 咲希: （……言わなきゃいけない、けど……）
@@ -143,50 +121,40 @@
 咲希: 嫌だな……
 咲希: 言いたく、ないよ……
 咲希: （……だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: 言わなきゃ…………！
 咲希: それが、ほなちゃんのためになるんだもん
 咲希: ——大丈夫
 咲希: いつかきっと……また、 一緒にいられる時がくるかもしれないから
 咲希: だから今は——
 咲希: ちょっとだけバイバイ……だね……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: （……あの時は、つらかったな……）
 咲希: （このまま—— 一緒にいられなくなっちゃうんじゃないかって思って）
 咲希: （離れ離れのまま卒業して、大人になって、 もう話すこともなくなっちゃうんじゃないかって……）
 咲希: （すごく……不安だった……）
 咲希: （だけど——）
 咲希: ……大丈夫だよ、アタシ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: ちゃんとまた、４人で一緒にいられるようになるから
 咲希: このあとも、不安になる時とか怖くなる時とか、 いっぱいいっぱいあるけど——
 咲希: それでも大丈夫！ アタシ達は今——一緒に前に進んでるから！
-(White cut)
+(White transition)
 (Background change)
 リンの声 (リン-Ln): ——サッキー！　サッキー！
-(White cut)
+(White transition)
 (Background change)
 咲希: あ……！
 咲希: あ、あれ……？　アタシ、今……？
@@ -200,15 +168,15 @@
 咲希: みんなでバンドを組む前の…… すれ違ってた頃のアタシ達の姿が
 咲希: それで、その時のことを思い出しちゃったら、 ちょっと涙が出ちゃって……
 ルカ (Ln): 咲希……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000330/bg_s000330.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000330/bg_s000330.webp)
 ルカ (Ln): 苦しい時は、無理をしなくていいのよ？
 咲希: いえ！　無理に笑ってるわけじゃないんです！
 咲希: たしかに、思い出して、 苦しくはなったんですけど——
 咲希: でも……今は、みんなと一緒にいます
 咲希: 一緒にプロになって、 一緒に進めてます！
 咲希: それがすごく嬉しいから……大丈夫です！
-(White cut)
+(White transition)
 (Background change)
 咲希: ——プロになって、 これからどうなっていくかはわからないけど……
 咲希: これからもずっと４人で一緒に、頑張るね！
@@ -231,6 +199,6 @@
 咲希: （きっとこれからも、 苦しいことはいっぱいあると思うけど——）
 咲希: （でもアタシ達４人なら この先もずっと進んでいける！）
 咲希: （つらかった頃のアタシだって 今は前に進んでいけてるんだから！）
-(Black cut)
+(Black transition)
 (Video: link_leoneed_ed1)
-(Black cut)
+(Black transition)

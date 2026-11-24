@@ -38,7 +38,7 @@
 女の子: ううん、まだ
 奏: ……じゃあ、行ってみようか
 女の子: うん……
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -54,7 +54,7 @@
 奏: そっか……。 じゃあ、向こうのほうに行こうか
 奏: あ、でも……ぬいぐるみだけ、落ちてないか探してみるね。 ちょっと待ってて
 女の子: うん……
-(Black cut)
+(Black transition)
 奏: ……見当たらないな……
 奏: （この辺りにはないかも……。 それか、もっと湖の近くにあるとか……？）
 奏: （そういえば、曲は湖の中から聴こえるみたい。 ……中にプレイヤーとかがあるのかな）
@@ -80,15 +80,11 @@
 女の子: 本当に湖の中にあるなら、絶対に取れないし…… こんなに探してもないんだもん
 女の子: きっと、もう見つからないよ
 奏: ……あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……そんなことないよ
 奏: きっと、どこかにある
@@ -96,22 +92,22 @@
 女の子: でも……
 奏: ——大丈夫、見つけよう
 女の子: え……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000247/bg_s000247.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000247/bg_s000247.webp)
 奏: どこにあるか、まだわからないし…… 探すのも大変だと思う
 奏: でも——もういい、なんて言わないで
 奏: もし湖の中にあっても、わたしが一緒に見つけるから
 奏: 一緒に、探す方法を考えよう
 女の子: お姉ちゃん……
 女の子: うん……！
-(White cut)
+(White transition)
 (Background change)
 女の子: ——いつも、ありがとう。 お姉ちゃん
 奏: え……？
-(White cut)
+(White transition)
 (Background change)
 ？？？: ——奏、……奏
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……っあ……
 奏: あれ……わたしの、部屋？
@@ -136,17 +132,13 @@
 まふゆ: でも、この曲が聴こえてきて
 まふゆ: 少し……安心した
 奏: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 女の子: うん、今きこえてる、音楽
 女の子: あったかくて……ちょっとほっとしたの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （そういえば、あの女の子…… 少し、まふゆに似てたような——）
 奏: （もしかして……）
@@ -162,6 +154,6 @@
 奏: （でも——あの女の子と同じように、 まふゆも、わたしの曲を必要としてくれているのなら）
 奏: （やっぱり、わたしは……曲を作り続けよう）
 奏: まふゆを、救うために——
-(Black cut)
+(Black transition)
 (Video: link_night_ed4)
-(Black cut)
+(Black transition)

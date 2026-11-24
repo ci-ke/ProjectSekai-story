@@ -59,7 +59,7 @@ Akito: You stay here and wait.
 An: You're joking, right?! I'm not about to put my partner in harm's way!
 An: Also, I don't wanna be left all alone here!
 Akito: Why are you acting so proud?
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -76,7 +76,7 @@ Kohane: That's great, An!
 An: Yeah! Now I can finally relax! Thanks for figuring out this mystery, you guys!
 An: Oh, that reminds me! Since we were all at our wit's end thinking about ghosts last night, let's all have a pajama party tonight!
 Kohane: Wow, that sounds like fun! We need to go buy some snacks and drinks!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -91,7 +91,7 @@ Kohane: (Nice one, Miku! You really kicked it up a notch there!)
 Kohane: (But...)
 Kohane: (I also still have a few tricks left up my sleeve...!)
 Kohane: ♪——~~~~!! ♪——————!!!!
-(Black cut)
+(Black transition)
 Kohane: Huff... Huff... Thanks for agreeing to practice with me, Miku!
 Miku (VBS): Thank you as well, Kohane. That was really fun. For a second there, it felt like an actual event.
 Miku (VBS): Especially the part where we sang back and forth together. You sang with so much energy that you got me just as fired up.
@@ -99,15 +99,11 @@ Kohane: Me too! You also kept producing so much energy that I didn't want to let
 Kohane: (The way Miku sings seems to touch me so profoundly.)
 Kohane: (Actually, it's more than just her singing. It's her advice too.)
 Kohane: (I've lost count of all the times she's helped me...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: Oh...
 Miku (VBS): Kohane...? Are you feeling tired? Did you go a little overboard?
@@ -118,10 +114,8 @@ Kohane: You asked, “What do you think your true feelings are, Kohane?”
 Kohane: It was something you said when I still wasn't completely sure if I wanted to keep singing with An.
 Miku (VBS): Yes, I remember now...
 Miku (VBS): While we're on the subject, we did our best to try and wake you all up. Did you hear anything we said?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (VBS): Kohane! Kohane, can you hear me?
 Len (VBS): What's going on?! None of them are responding!
@@ -143,24 +137,18 @@ Len (VBS): Akito! Toya! I'm gonna keep calling your names until you guys all ret
 Luka (VBS): It's okay. I know they'll all be back with us soon!
 KAITO (VBS): Because we're all right here with them!
 MEIKO (VBS): Right! So, let's do as Miku says and maintain our faith.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: You all called our names until we finally managed to wake back up...?
 Kohane: *Gasp*
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: <...ne!>
 Kohane: (Wait...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: I do remember...! I did hear your voice, Miku!
 Kohane: But only just barely. And I couldn't remember who was talking while I was stuck in that dream.
@@ -172,4 +160,4 @@ Kohane: You gave me just the push I needed when I was ready to fall apart.
 Kohane: So...
 Kohane: Thank you so much...!
 Miku (VBS): You're very welcome.
-(Black cut)
+(Black transition)

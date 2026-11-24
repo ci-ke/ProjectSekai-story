@@ -9,37 +9,29 @@ Skill name: The Origin of BAD DOGS
 [Vivid Street]
 
 Toya: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: I convinced myself that in order for us to surpass RAD WEEKEND, I needed to become as good as I possibly could.
 Akito: I'm sorry about that. I didn't realize what I was doing...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: (I'm glad that we were able to get through to Akito in the end...)
 Toya: (But...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Toya: Akito, we should eat lunch soon...
 Akito: ...
 Toya: Akito...?
 Akito: Huh? Toya...? Sorry, I guess I spaced out...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: (He didn't seem too well when he came to school yesterday either...)
 Toya: (I hope he can go back to being his old self soon...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -107,7 +99,7 @@ Kohane: Yeah! I want us all to work together!
 Toya: Me too... Thanks, you two.
 Akito's Voice (Akito): Hey, what's the hold up? Let's go already!
 Toya: Okay, we'll be right there!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,12 +112,12 @@ Toya: Okay, we'll be right there!
 
 Toya & Akito: ♪————!
 Kohane & An: ♪——!　♪——!
-(Black cut)
+(Black transition)
 Toya: Phew... That should be good for now.
 An: Yeah, shall we call it a day for practice?
 Akito: Sounds good. Oh, I have to get to work. Later.
 Kohane: Great work, everyone! See you tomorrow!
-(Black cut)
+(Black transition)
 (Background change)
 An: Alright, I think I'll take a break. How about you, Kohane, Toya?
 Kohane: I'd like that.
@@ -171,18 +163,14 @@ Toya: Mita's right. Most of the older musicians are indeed good people but...
 Toya: There's always some that feel the need to bring you down to their level.
 Kotaro: But because of his personality, he'd usually end up biting back.
 Toya: True.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: Who do they think they are? Making fun of someone's dreams like that.
 Akito: Why are you even here if you don't have any hopes or dreams?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: A lot of things made Akito mad back then.
 Toya: To be fair, it's not that he wanted to be angry...
 Toya: Everybody has dreams that they're aspiring towards, so it's perfectly normal to be furious with someone that tries to take that away from you.
@@ -191,11 +179,9 @@ An: I see...
 Kohane: I really does mean that much to him.
 Toya: True.
 Toya: His dedication is why I chose to join him...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: Just ignore the haters and let them say what they want.
 Akito: We'll silence them all someday...
 Toya: Right. And we can do that by starting a team together.
@@ -210,11 +196,9 @@ Akito: Yeah, but it also has a different meaning too.
 Toya: A different meaning?
 Akito: Yeah. BAD DOGS is apparently a slangy way of saying that we're serious business.
 Akito: How's that sound?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: (I didn't really think about it because I didn't really understand back then but...)
 Toya: (I have to think he chose dogs for our name for another reason...)
 Kohane: Aoyagi, is something wrong...?
@@ -226,4 +210,4 @@ Toya: I agree. I'll be counting on you two when that happens.
 Kotaro: And I'm not giving up either!
 Toya: We wouldn't expect anything less.
 Toya: (We have to keep moving forward if we're actually going to surpass RAD WEEKEND...)
-(Black cut)
+(Black transition)

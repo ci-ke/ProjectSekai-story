@@ -59,7 +59,7 @@ KAITO (Ln): そこなんだ……
 一歌: プロになったからこそ、 自分達の想いを忘れないように、ここを大切にしないとね
 咲希・穂波・志歩: 『うん！』 『うん』
 ミク (Ln): みんな……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,16 +84,12 @@ KAITO (Ln): そこなんだ……
 ミク (Ln): たとえば……
 ミク (Ln): 本当の想いを思い出してもらって、 セカイで生まれた歌を一緒に歌うっていう 大事な役目が、もう終わってることとか、かな
 ミク (Ln): それと……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌の声 (一歌): 『——♪　————♪』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (Ln): 街頭ビジョンに映ってる一歌達を見たり、 一歌達の歌を褒めてくれる人達の話を聞いたりすると、 すごく嬉しくて誇らしくなるんだけど……
 ミク (Ln): その気持ちの中に、 ほんのちょっとだけ寂しさもあって……
@@ -130,4 +126,4 @@ KAITO (Ln): そこなんだ……
 ミク (Ln): ほんと、こういう時ルカには全然かなわないな
 ルカ (Ln): でしょう？　私だって、まだまだ先輩風を吹かせたいもの
 ルカ・ミク: 『ふふっ』 『あはは』
-(Black cut)
+(Black transition)

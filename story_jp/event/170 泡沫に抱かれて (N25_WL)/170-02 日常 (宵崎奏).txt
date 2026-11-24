@@ -3,7 +3,7 @@
 (Character: 宵崎奏, 朝比奈まふゆ)
 
 (Video: link2_night_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -32,7 +32,7 @@
 奏: やった……！ お父さん、約束だからね
 奏: あ……もうこんな時間……。 じゃあ、行ってくるね
 奏の父: うん、行ってらっしゃい。奏
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　２年Ａ組]
@@ -48,11 +48,11 @@
 奏: えっと、その、これは……
 教師: ちゃんと授業に集中してくださいね
 奏: はい……
-(Black cut)
+(Black transition)
 奏: はあ……
 クラスメイトA: 奏～！　なになに、また曲作りしてたの？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000455/bg_s000455.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000455/bg_s000455.webp)
 奏: あ、うん……。 いいメロディーが浮かんできて、つい……
 クラスメイトA: あはは、相変わらずだね～！
 クラスメイトB: この前も、同じようなことで注意されてなかったっけ？
@@ -61,7 +61,7 @@
 奏: え、本当？
 クラスメイトA: 本当だよ。私、登校前に絶対聴いてるもん。 憂鬱だな～って思ってても、元気出るから！
 奏: ……よかった
-(White cut)
+(White transition)
 (Background change)
 クラスメイトB: そういえば、宵崎さんの曲って 動画サイトで何万再生もされてるんだよね
 クラスメイトA: そうそう！　すごいよね～！
@@ -71,7 +71,7 @@
 奏: うん。わたしの曲は、まだまだだと思うけど
 クラスメイトA: そんなことないよ！ 私はもう幸せになっちゃったし♪
 奏: ふふ、ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [午後]
@@ -94,4 +94,4 @@
 奏: （朝比奈さん、か……）
 奏: （みんなから噂はよく聞いてたけど…… わたしのこと、知ってもらえてるなんて思わなかった）
 奏: ……また、話せるかな
-(Black cut)
+(Black transition)

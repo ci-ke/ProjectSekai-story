@@ -3,7 +3,7 @@
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 巡音ルカ)
 
 : そして、ついに番組の収録が始まる
-(Black cut)
+(Black transition)
 (Background change)
 アリサ: 雫と私の関係は、 アイハザの視聴者さんなら、言わずもがなって感じだよね
 雫: ……そうね
@@ -15,11 +15,11 @@
 アリサ: じゃ、みんな、こっちのゲスト席座って！ せっかくの機会だから、いろいろ質問させてよ
 アリサ: Cheerful＊DaysとMORE MORE JUMP！の雫の共演って、 視聴者さんもすごく注目してると思うから
 雫: ええ、そうね。 私も、今日はちゃんとお話ができたらいいなって思っていたの
-(Black cut)
+(Black transition)
 (Background change)
 : Cheerful＊Daysの頃は、プロデューサーの意向で 『完璧な日野森雫』としてふるまっていた雫
 : どちらが本当の雫なのか、カメラの前で尋ねられて——
-(Black cut)
+(Black transition)
 (Background change)
 アリサ: ここまで路線変更して、 Cheerful＊Daysの時のファンに悲しまれなかった？
 アリサ: っていうか、どっちの雫がホントの雫なの？
@@ -27,15 +27,11 @@
 遥: （これだけ突っ込んだ質問が来ても、カメラは回り続けてる。 ということは——）
 アイハザプロデューサー: …………
 遥: （打ち合わせで言ってたとおり、 アイハザはそういう番組で、私達は撮れ高を求められてる。 だから日暮さんも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 アリサ: 全力でやろうと思ってるので、よろしくお願いしますね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 アリサ: ……って、私は実は答えを知ってるんだけど、 みんな気になってるかなって思って！
 メンバー達: たしかにそれ、聞きたいって思ってる人多そうだよね！
 メンバー達: やっぱり、Cheerful＊Daysの時はキャラ作ってたってこと～？
@@ -74,17 +70,13 @@
 雫: ——いいえ。本当は何より、私自身が恐れていたわ。 素のままの私を、みんなに『好き』って言ってもらえるのかって
 愛莉: 雫……
 雫: でも私は、素のままの自分でいることを選んだ。 それは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: 素の私でしか届けられないものがあるって……、 飾らないいつもの私が好きだって、言ってくれる人達がいたから
 雫: だから、もしもファンのみんなをがっかりさせてしまっても、 これからはありのままの私で、 精一杯、みんなに希望を届けていこうと思ったの
@@ -103,21 +95,21 @@
 雫: ありがとう、アリサちゃん。 こうして話す機会をくれて
 雫: それに、アイドル大戦争さんにも……。 こういう場を設けてもらえたこと、 とてもありがたく思っています
 雫: 私は、本当にまだまだですが…… よかったらこれからも、応援よろしくお願いします
-(Black cut)
+(Black transition)
 アリサ: ……うちみたいな大きな事務所辞めて、 フリーのアイドルでやってるっていうから どんなもんかって思ってたけど、ホント楽しくやってるんだね
 アリサ: 前よりも理解のある仲間達もいるみたいだし？
 アリサ: ……ま、ワンマンがちょっと話題になって テレビ出演のチャンスがやっと入ったって感じだと思うけど
 アリサ: これから先、バックアップなしで どこまでやれるのか楽しみにしてるよ
 アリサ: ——せいぜい頑張って
 雫: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000163/bg_s000163.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000163/bg_s000163.webp)
 愛莉: まったく、なんなのよ！ 結局『ごめん』のひとつもなかったじゃない！
 遥: たしかに、挨拶にしては敵意むき出しって感じだったね
 愛莉: わざわざ嫌味言うために来たってこと？ ホント意味わかんないわね……
 雫: （……アリサちゃんは、 頑張り屋さんで、自分にも他人にも厳しい子で——）
 雫: （だから、誰かに『頑張れ』なんて滅多に言わなかった。 それなのに……）
-(White cut)
+(White transition)
 (Background change)
 雫: （少しは—— 少しは、アイドルとしての私を認めてもらえたのかしら……）
-(Black cut)
+(Black transition)

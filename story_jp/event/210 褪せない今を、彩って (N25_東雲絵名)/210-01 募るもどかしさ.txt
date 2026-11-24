@@ -12,7 +12,7 @@
 絵名: （でも、欲しい色があってよかったな）
 絵名: （ネットで品切れになってて焦ったけど、 ついでに新しい筆も買えたし）
 絵名: ——よし。 課題の続き、やっちゃおう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -46,18 +46,14 @@
 絵名: 『最近……いろいろあったからさ』
 (Background change)
 瑞希: 『……そうだね』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （今の状況で、私達にできることはないって わかってるけど……）
 絵名: 『……はぁ。なんか、もどかしいな』
@@ -103,4 +99,4 @@
 瑞希: 『どうせなら、今しかできないことやっちゃおうよ！』
 (Background change)
 絵名: 『……え？』
-(Black cut)
+(Black transition)

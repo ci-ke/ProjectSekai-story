@@ -29,43 +29,31 @@
 寧々: （……この前から、ずっと焦ってた）
 寧々: （少しブランクはあるけど…… 同い年くらいの人に比べると、ステージ経験がある）
 寧々: （それなのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （あとから舞台に立った司はどんどん伸びていって…… 気づいた時にはもう、すぐ近くに来てた）
 寧々: （でも、それでも—— わたしは歌に自信があったから……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 櫻子: とにかく、私達のライバルとしては認めてあげないこともないわ！ 次もいいショーを作ることねっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （歌だけは青龍院さんも認めてくれて……、 わたしの得意なもので、わたしの武器なんだって）
 寧々: （演技はまだまだでも…… 歌でなら、ふたりに負けないくらいの役者でいられるって）
 寧々: （……どこかで、そう思ってた）
 寧々: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 演出家: 歌は、今のままでは駄目だな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （……このままじゃ駄目だ）
 寧々: （このままじゃ、カナリアになれない。それに……）
 寧々: （わたしの、夢にも——）
@@ -80,14 +68,10 @@
 寧々: なんとかして——、 カナリアの歌声を、手に入れなきゃ……！
 司: 寧々……
 寧々: （わたしの演技力は、役者として本当に平凡だ）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 寧々: （それがわかってるから、 少しでも近づけるようにってやってきたし、 これからも頑張らなきゃって思ってる。でも……）
 寧々: （でも、歌だけは——）
 寧々: （歌だけは、負けたくない。だから——）
@@ -114,7 +98,7 @@
 司: オレ達に助言できることは少ないかもしれんが、 できることは協力しよう。そして……
 司: 臆病なカナリアが、さらに美しい歌声を響かせるその時を、 楽しみにしようではないか！
 えむ: うんっ！
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -122,10 +106,8 @@
 演出家: さっきの続き、湖のシーンから——
 寧々: （休憩時間いっぱい、演出家さんと話ができてよかった）
 寧々: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 演出家: 端的に言うと草薙くんは、劇の全体像を捉えられていない
 寧々: 劇の全体像を……
 演出家: それがさっき言った、『浮いている』という体感の本質だ
@@ -140,21 +122,15 @@
 演出家: この問題を解決するのは、そう簡単じゃない。 自分に染みついた癖の矯正も必要になってくるからな
 演出家: しかも、そういった癖は、 まず自覚することが難しいし、自覚できたとしても 長いあいだ『正しい』と信じてきたものを疑うことになる
 演出家: ……それは、想像よりもずっとつらいことだ。 それでも、もう一歩前に進む覚悟があるのなら…… まずは、自分の癖を研究するべきだな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （今まで、そんなの……考えたことなかった。 今の歌いかたが、一番わたしに合ってると思ってたから）
 寧々: （……でも）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 演出家: しかも、そういった癖は、 まず自覚することが難しいし、自覚できたとしても 長いあいだ『正しい』と信じてきたものを疑うことになる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （それでも、わたしの歌いかたが劇を壊しちゃうなら——）
 キャスト達: ねえ、始まるわよ。 オオワシのあのシーン
 キャスト達: ああ、楽しみだな
@@ -163,4 +139,4 @@
 大森: 『そうして踊り明かそうではないか！ この暗い闇を振り払うように！』
 大森: 『♪————～～！』
 寧々: …………！
-(Black cut)
+(Black transition)

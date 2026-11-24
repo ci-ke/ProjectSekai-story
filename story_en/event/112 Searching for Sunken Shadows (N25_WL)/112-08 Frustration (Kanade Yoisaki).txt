@@ -3,7 +3,7 @@
 (Character: Honami Mochizuki, Kanade Yoisaki, Mafuyu Asahina, Megurine Luka)
 
 (Video: link_night_op4)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -21,10 +21,8 @@ Honami: Please give her my regards.
 Kanade: Thank you. I'll do that...
 Kanade: (I really can't thank her enough...)
 Kanade: (Ms. Mochizuki was pretty startled when she learned that Mafuyu would be staying with me for a little while...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Honami: Asahina...
 Kanade: So, she'll be staying with me for a little while.
 Honami: Umm... How long is “a little while”...?
@@ -41,11 +39,9 @@ Kanade: Th-Thank you, Ms. Mochizuki...
 Honami: There's no need to thank me.
 Honami: Please feel free to let me know if you need anything, Asahina.
 Mafuyu: Thank you...
-(White cut)
-
-(Memory cut-out)
-
-(Black cut)
+(White transition)
+(Flashback out)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -82,7 +78,7 @@ Kanade: ...
 Kanade: Okay...
 Mafuyu: ...
 Kanade: I'll be right back, Mafuyu. I'm going to go take a quick look.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -109,7 +105,7 @@ Kanade: Wait, where'd she go...?
 ???: *Sob*
 Kanade: Huh...?
 Kanade: Is someone crying...? But where...?
-(Black cut)
+(Black transition)
 ???: *Sob*
 Kanade: Oh...
 Kanade: (A little girl...?)
@@ -117,4 +113,4 @@ Kanade: (What's she doing here? No one besides us should be able to enter SEKAI.
 Kanade: (But something must've happened to make her cry... I should try to help her...)
 Kanade: Um... What's wrong?
 Girl: ...!
-(Black cut)
+(Black transition)

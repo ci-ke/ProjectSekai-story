@@ -6,10 +6,10 @@
 
 [ニューヨーク市　公園]
 
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 杏: うわ～……！　広ーい！
 こはね: すごく綺麗な公園ですね……！
 エレナ: へへ。 天気もいいし、ライブの感想言い合うにはぴったりでしょ！
@@ -17,7 +17,7 @@
 スレイド: フードトラックでおやつも買ったし、 つまみながら話そっか！
 彰人: そうだな。あの芝生の辺りでいいか
 冬弥: ああ、ベンチもあるしちょうどいいな。 早速移動しよう
-(Black cut)
+(Black transition)
 
 [30分後]
 
@@ -31,15 +31,11 @@
 レベッカ: うん。私もアレンジの相談に乗ったりはするけど、 だいたいはお姉ちゃんが作ってるんだ
 杏: 歌もすごかったよ！
 杏: 街で聴いた時も、力強い歌だなーって思ってたけど、 今回はそれ以上で——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 杏ちゃん？
 杏: あ……
@@ -68,16 +64,12 @@
 エレナ: しかも、結構大手の
 こはね: え……
 冬弥: RUSH BEATSの……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 セドリック: ああ。それでついに去年、  大手のスポンサーがつくようになったんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （そういえば……セドリックがそんなことを言ってたっけ）
 エレナ: RUSH BEATSに出場したら…… きっと、いろんな噂を聞くことがあると思うんだ
@@ -86,4 +78,4 @@
 エレナ: ——聞いてもらってもいいかな？ アタシ達と、DG……父さんのこと
 杏: エレナ……
 杏: ——うん。聞かせて
-(Black cut)
+(Black transition)

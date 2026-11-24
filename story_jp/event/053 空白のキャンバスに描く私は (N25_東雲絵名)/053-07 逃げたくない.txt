@@ -14,12 +14,12 @@
 リン: （絵名……苦しそう……）
 リン: （……どうしよう……）
 リン: （何か、絵名のために、できること——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000060/bg_s000060.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000060/bg_s000060.webp)
 リン: 『……♪————』
 絵名: ——あれ……
 絵名: リン……？
-(White cut)
+(White transition)
 (Background change)
 リン: （……よかった。 ちょっと、元気になったみたい）
 リン: 『……絵名、大丈夫？』
@@ -36,7 +36,7 @@
 絵名: …………
 リン: 『……瑞希達、絵名のこと心配してた。 力になりたいって』
 絵名: ……そっか。 ありがと、リン
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -121,4 +121,4 @@
 絵名: 私——もうちょっとだけ頑張ってみようと思う
 リン: ……！
 リン: ——うん。 がんばって、絵名
-(Black cut)
+(Black transition)

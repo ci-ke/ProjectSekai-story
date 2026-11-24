@@ -45,15 +45,11 @@ Gacha phrase: ふ、ふにゃん……。こう？
 こはね: ふふ。本当に、いろいろあったなぁ
 こはね: 杏ちゃんの歌を聴いて、WEEKEND GARAGEを見つけて、 相棒になってって言われて——
 彰人: 覚悟決めて来たとか言って、イメチェンまでしてな
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(White transition)
+(Flashback out)
 杏: あの時はほんとびっくりしたなぁ
 冬弥: そうだな。それに……まさかこの４人で チームを組むことになるなんて思いもしなかった
 杏: ほんとほんと！ そこは、ミク達のおかげってのもあるかもね！
@@ -75,7 +71,7 @@ Gacha phrase: ふ、ふにゃん……。こう？
 こはね: ふふ
 こはね: （みのりちゃんに、一歌ちゃんに、草薙さん——）
 こはね: （せっかく一緒にファンフェスタに出るんだし、 この出会いも大事にしたいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,7 +94,7 @@ MEIKO: ふふ、何もないわよ
 リン: ねえねえ、こはねちゃんが言ってた ファンフェスタ、無事に終わったんでしょ？
 リン: どうだったか、聞きたいなー！
 こはね: うん、いいよ
-(Black cut)
+(Black transition)
 レン: おおー！　じゃあ、すっごい盛り上がったんだね！
 杏: それはそうだよ！ なんたって、こはねが参加してるんだから！
 こはね: あ、杏ちゃん……！ それは大げさだよ
@@ -131,14 +127,10 @@ MEIKO: ふふ。ここでこはねちゃん達が話してる時と同じね
 こはね: WEEKEND GARAGEに行ったのも、 杏ちゃんが歌ってた歌がきっかけだし——
 こはね: 歌がきっかけで友達になれた子もたくさんいるし
 こはね: でも——
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 今ここにいるのも、友達がたくさん増えたのも、 ミクちゃん達のおかげだね
 ミク (VBS): え？
@@ -154,4 +146,4 @@ MEIKO: きっと簡単なことじゃないだろうけど、 私達がついて
 こはね: はい！
 杏: ミク達が見守ってくれてるなら、百人力だね！
 こはね: うん！
-(Black cut)
+(Black transition)

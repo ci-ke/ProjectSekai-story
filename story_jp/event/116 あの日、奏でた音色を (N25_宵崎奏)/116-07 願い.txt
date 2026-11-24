@@ -4,15 +4,11 @@
 
 [奏の部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: （……もう、あの日には戻れない）
@@ -27,7 +23,7 @@
 絵名: 『うん。頭もすっきりしたし、 今日は１枚仕上げられるかも』
 奏: 『わかった。いつもどおり作業してるから、 何かあったら呼んで』
 絵名: 『ん、わかった』
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 絵名: 『ねえ、K。ちょっと相談なんだけど……』
@@ -95,17 +91,13 @@
 絵名: 『奏は、こんなにみんなのために頑張ってるんだから……！ 奏自身が幸せにならなきゃ、絶対おかしい』
 (Background change)
 奏: 『……あ……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の母: 奏がお父さんみたいな曲を作れるようになったら すごく素敵なことだとお母さんも思うわ
 奏の母: でも……奏が、奏自身が幸せに過ごしてくれれば、 お母さんは、それが一番幸せなのよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『……でも……』
 ？？？: 『——そいつの言うとおりだ』
@@ -124,15 +116,11 @@ KAITO (N25): 『想いを大切にしろと』
 KAITO (N25): 『誰かを救うため、幸せにするために 曲を作り続けることは別にいい』
 KAITO (N25): 『だが……お前自身の想いから目をそらすな』
 奏: 『わたしの、想い……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『……っ、でも……』
 (Background change)
@@ -165,16 +153,12 @@ KAITO (N25): 『自分の想いをないがしろにするやつが、 本当の
 奏: （昔みたいに、って……望んでいいのかな）
 奏: （わたしは、お父さんの未来を……奪ったのに）
 奏: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （もし……本当に……）
 奏: 本当に、許されるなら——
-(Black cut)
+(Black transition)

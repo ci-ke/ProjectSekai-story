@@ -12,24 +12,24 @@
 劇団員達: 『よろしくお願いします！』
 寧々: （風祭さんと共演できる—— こんなチャンス、きっとそう何度もない）
 寧々: （この稽古期間で、いろいろ吸収できるように 頑張らなくちゃ！）
-(Black cut)
+(Black transition)
 雨宮: ——次は冒頭の歌唱シーン。 風祭、草薙さん、準備して
 寧々: よろしくお願いします……！
 夕夏: うん。それじゃ、いこうか
 寧々・夕夏: 『————♪　————♪』
-(Black cut)
+(Black transition)
 夕夏: 寧々ちゃん。今日、練習の後みんなでご飯行こうって 話してるんだけど……どうかな？
 寧々: あ、えっと……。この後、今日つまづいたところを もう一度確認しておきたくて
 寧々: すみません、せっかく誘っていただいたのに……
 夕夏: ……わかった。 それじゃ、また今度行こうね！
-(Black cut)
+(Black transition)
 寧々: 『わかってるの！　この切先を向けるべき相手は、 本当はあなたじゃないって……！』
 寧々: （……こうじゃ、ない）
 寧々: （この時、ナタリーはもう罪を負う覚悟ができてるはず。 それなら——）
 寧々: 『……わかってるの。この切先を向けるべき相手は、 本当はあなたじゃないって。でも——』
 夕夏: おはようございま——
 夕夏: …………
-(Black cut)
+(Black transition)
 雨宮: ——それじゃ、今日の稽古はここまで！ お疲れさまでした
 劇団員達: 『お疲れさまでした！』
 寧々: （……やっぱり、まだ役の感情が掴みきれてない気がするな）
@@ -46,7 +46,7 @@
 寧々: あ……
 寧々: ……そうですね。 それじゃあ、少しだけ
 夕夏: よかった。じゃあ、行こっか！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -76,15 +76,11 @@
 寧々: たしか、ワンダーランズ×ショウタイムが解散して すぐ後のことでしたっけ
 寧々: わたしが次の劇団を探してた時に、 日本に帰ってきてた風祭さんとばったり会って…… いろいろ話を聞いてもらって
 夕夏: ふふ。懐かしいよね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 夕夏: ……あの時も、寧々ちゃんは必死だった
 夕夏: 夢を叶えるために進みたいって、 すごく真っ直ぐで。でも——
@@ -106,12 +102,12 @@
 夕夏: そっか、海外に……。 それはすごいね
 寧々: ……そうなんです
 寧々: 努力しても、進めたって思っても…… みんなとの差が、広がっていくばっかりで
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000444/bg_s000444.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000444/bg_s000444.webp)
 寧々: ——追いつくためには、もっと努力するしかない
 寧々: わたしは、みんなの何倍も努力しないと 夢を掴めないから……！
 寧々: だから——やらなくちゃいけないんです
-(White cut)
+(White transition)
 (Background change)
 夕夏: ……私は、そんな風には思わないけどな
 寧々: え？
@@ -137,15 +133,11 @@
 夕夏: 自分が一番信頼できる人を思い浮かべて、 その人が、今の自分を見た時に 何て言うだろうって考えた……かな
 夕夏: その人が認めてくれるなら、 私も自分のことを、少しは認めてあげられるんじゃないかって
 寧々: 信頼できる人……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 夕夏: ……ふふ。いい笑顔だね
 寧々: え？
@@ -158,6 +150,6 @@
 寧々: （……きっと、みんななら 今のわたしを見て『成長できてる』って言ってくれる）
 寧々: （だからって、今の自分を 全部肯定できるわけじゃないけど……それでも）
 寧々: （——少しくらいは……認めてあげても、いいのかな）
-(Black cut)
+(Black transition)
 (Video: link2_wonder_ed3)
-(Black cut)
+(Black transition)

@@ -20,7 +20,7 @@
 こはね: 絶対に、勝ち抜こう！
 冬弥: 対戦するチームは、 向こうの廊下に貼り出されているようだな。見に行こう
 彰人: おう
-(Black cut)
+(Black transition)
 杏: えっと……ここに対戦表が貼り出されてるみたい。 人多いけど——冬弥、見える？
 冬弥: ああ。ファーストステージでは、 ５チームごとにブロックで分かれて対戦するはずだが、 俺達の参加ブロックは……
 冬弥: ……！
@@ -41,12 +41,12 @@ Waysのメンバー達: 『はは。だな！』
 杏: 『喋りすぎて、ステージに上がる頃には息切れしてたりして？』
 Waysのリーダー: 『——あ？』
 杏: 『ま、いいや。 今ここで、あんた達とグダグダ話す気はないし』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000567/bg_s000567.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000567/bg_s000567.webp)
 杏: 『言いたいことは全部——歌で言うからさ』
 杏: 『だから……その耳でちゃーんと聴いてなよ』
 杏: 『——私達の歌を』
-(White cut)
+(White transition)
 (Background change)
 Waysのリーダー: 『お前ら——』
 ミュージシャン達: 『——あそこにいるの、DGじゃねえか！？』
@@ -56,7 +56,7 @@ Waysのリーダー: 『お前ら——』
 スタッフ: 『出場者の皆さん！ スポンサーからの挨拶のため、ステージ前に集合してください！』
 Waysのリーダー: 『…………チッ。行くぞ』
 冬弥: 俺達も行こう
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージ]
@@ -84,4 +84,4 @@ Waysのリーダー: 『…………チッ。行くぞ』
 杏: じゃあまずは、目の前のファーストステージ——
 杏: 全力で、勝ちにいこうか！
 こはね・冬弥・彰人: 『うん！』 『ああ！』
-(Black cut)
+(Black transition)

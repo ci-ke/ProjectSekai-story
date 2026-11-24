@@ -13,28 +13,24 @@ An: Let's see... “Join: to take part in a collective activity”...
 An: We sang in a music event today, so... Hmm...
 An: (Keeping a diary is easy, but having to write in English is so hard...)
 An: (Still...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: I get why you're excited... But have you done your English homework due tomorrow?
-(White cut)
+(White transition)
 Toya: We don't have practice today, so please make sure that you do.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Toya and Akito went out of their way to warn me, so I gotta do this properly...)
-(Black cut)
+(Black transition)
 An: I-I'm finally halfway through...
 An: (Oh, I'm starting to doze off... I feel like this takes up more energy than an event.)
 An: (So sleepy...)
 An: Yawn...
 An: I'll rest my eyes for five minutes...
 An: They say that a little rest can help recharge your brain... A lot...
-(White cut)
+(White transition)
 (Background change)
 Kohane: An?
 An: Huh? Kohane...?
@@ -64,7 +60,7 @@ Kohane: But we promise to bring back lots of souvenirs! I hope you'll be looking
 An: Ko...
 (Background change)
 An: Kohaneeeeee!!!
-(White cut)
+(White transition)
 (Background change)
 An: Kohane...!!!
 An: Huff... Huff... Huff...
@@ -78,21 +74,17 @@ An: <Thanks! But I'm gonna keep trying on my own for a bit longer.>
 An: Oh, she already replied. What did she say...?
 An: Haha. This stamp's adorable! A horde of hamsters cheering me on.
 An: Then, I'll send... This cat stamp! “I'll do my best-meow!”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (We're gonna go take on the world together...)
 An: (Which means I need to do everything I can.)
 An: So, I'm gonna finish this assignment!
 An: Because I'm not letting that awful dream become a reality!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -119,7 +111,7 @@ Kohane: ...
 Kohane: Um, An...?
 An: Hm?
 Kohane: You don't have to if you don't want to, but...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -132,18 +124,18 @@ Kohane: No, that's okay. After all, this was my suggestion.
 Kohane: So, anyway... Can you show me what you've written, An?
 An: Here you are, Ms. Kohane!
 Kohane: M-Ms. Kohane...?!
-(Black cut)
+(Black transition)
 Kohane: I asked my teacher yesterday about how to improve our English writing skills. I was told that it's best not to plan what you write in Japanese too much.
 An: Don't plan it in Japanese?
 Kohane: Yeah, because word order differs greatly between Japanese and English.
 Kohane: Which is why things can turn out really funny when you try to translate Japanese text word for word.
 An: Right...!
-(Black cut)
+(Black transition)
 An: “If I could speak English better, then I'd be able to become friends with more people.”
 An: Hmm... I feel like we covered this sentence structure during one of our lessons.
 Kohane: Oh, then... What if I turned this into a grammar quiz?
 An: Yeah, that'd be really helpful! If you don't mind!
-(Black cut)
+(Black transition)
 An: (I feel like I'm really starting to get the hang of this thanks to Kohane.)
 An: (Alright, last problem...!)
 An: Done...! Can you check to see how I did, Kohane?
@@ -165,4 +157,4 @@ Kohane: I'll help.
 An: Really? Then, let's go.
 An: After we've recharged our batteries with some sweets, I'll get right back to work, Ms. Kohane!
 Kohane: P-Please stop calling me that...!
-(Black cut)
+(Black transition)

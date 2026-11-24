@@ -31,17 +31,13 @@
 こはね: あ……そうだったね
 こはね: 昨日、私達は見てるだけだったけど。 それでも、心が震えたっていうか……
 杏: だよね！　こう、胸がガッと熱くなってさ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 杏: （————胸の奥が、今も熱い）
 杏: （うずうずして、じっとしていられないくらい……）
@@ -77,4 +73,4 @@
 こはね: そ、そうです……けど……
 杏: え～っと……
 杏: これって、どういう状況？
-(Black cut)
+(Black transition)

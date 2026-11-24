@@ -73,7 +73,7 @@ MEIKO (VBS): （そうね。私のために頑張ってくれているんだも�
 ルカ (VBS): んー、たしかに後味すっきりしていいかも？ でも、ちょっとだけだからね！　どばっはダメ！
 ミク (VBS): わかってる。 主役じゃなくて引き立て役だし
 MEIKO (VBS): （……みんな、よく見てるのね）
-(Black cut)
+(Black transition)
 こはね: ——メイコさん、お待たせしました。 まごころサンドイッチです！
 杏: 食べやすいように、ロールサンドにしてます！
 MEIKO (VBS): あら。さすが、まごころサンドイッチね
@@ -95,7 +95,7 @@ MEIKO (VBS): ——せっかく出会えたんだし、 たくさんお祝いし
 彰人: わかりました。 メイコさんの気持ちも、ちゃんと伝えます
 MEIKO (VBS): （……どのセカイの私達とも違う、 ずっと私達を見守ってくれている“私”——）
 MEIKO (VBS): （これからは、一緒にお祝いしてもらいましょうね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -118,15 +118,13 @@ MEIKO: 愛莉ちゃん達も、わざわざ来てくれてありがとう。 そ
 寧々: というか、ちゃんとメイコさんと連絡とれてよかった
 彰人: ここに来ても会えるかどうかわからねえしな
 MEIKO: そうね。でも、あの連絡方法にはちょっとびっくりしたわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: ——あ、メイコ。見つけられてよかったわ。 あの子達の大きな木のあるセカイに、 すぐ行ってくれないかしら？
 MEIKO: いいけど、何かあったの？
 ルカ: ふふ、行ってみたらわかるわ。 着いたら、木の根元を見てちょうだい
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: えっと、木の根元……あら？　
 MEIKO: ……スケッチブックとペンが置いてあるわね。 ルカが言っていたのって、これかしら……
@@ -136,10 +134,8 @@ MEIKO: あ……
 他のメッセージ: 『いいね！　オレも一緒にお祝いしたいな！　レン』 『わたしも、メイコ見かけたら伝えるね！　リン』
 MEIKO: ……そういうことだったのね
 MEIKO: ……『ルカから聞いたわ。もちろん大歓迎よ！ また会えるのを楽しみにしているわね』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: あの後も何度かメッセージのやり取りをしたけれど、 すごく楽しかったわ
 ミク: うん。パーティーをするって決まってからも 相談とかみんなのメッセージがだんだん増えていって、 わたしも見ていて面白かったな
 KAITO: 簡単だけど、確実な方法だよね
@@ -160,18 +156,18 @@ KAITO: うん。まだパーティーも始まったばかりだし
 愛莉: わたしもよ！ だから、預かってきた想いも込めてお祝いさせてもらうわね！
 MEIKO: ふふ、ありがとう！
 MEIKO: （……本当に、ありがとう）
-(White cut)
+(White transition)
 (Background change)
 ？？？: ——会いに来てくれたのね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000656/bg_s000656.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000656/bg_s000656.webp)
 MEIKO: 今回は、あの子達からもお祝いしてもらえて、 本当に特別な記念日になったわ
 MEIKO: あなたも、お祝いされる私を見守ってくれていたのよね
 MEIKO: ……なんで知ってるのかって？ だって、ずっと感じていたもの
 MEIKO: お祝いされている私を見て—— 『よかったね』、『おめでとう』って 思ってくれているあなたの想いを
-(White cut)
+(White transition)
 (Background change)
 MEIKO: 改めて、 私の記念日をお祝いしてくれてありがとう
 MEIKO: いろんな意味で忘れられない記念日になったわ
 MEIKO: この先の１年、みんなからもらったお祝いを胸に またたくさん歌っていくわね
-(Black cut)
+(Black transition)

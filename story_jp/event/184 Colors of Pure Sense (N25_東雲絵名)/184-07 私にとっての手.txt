@@ -2,7 +2,7 @@
 
 (Character: 東雲絵名, 初音ミク, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 幼い絵名 (絵名): （…………すごいなあ）
 幼い絵名 (絵名): （お父さんの絵、なんだかキラキラしてて……）
@@ -27,7 +27,7 @@
 幼い絵名 (絵名): （じゃあ、この絵はお父さんの世界なのかな）
 幼い絵名 (絵名): （すっごくきれいで、ふしぎ……）
 幼い絵名 (絵名): （次は、どんな色にぬるのかな。 あの枝に止まってる鳥はどんな風になるんだろ……！）
-(White cut)
+(White transition)
 (Background change)
 絵名: （——あの頃、絵を描くお父さんの手が なんだか魔法みたいに見えたっけ）
 絵名: （あの頃の手を……）
@@ -47,23 +47,23 @@
 絵名: （——私の好きなように描こう）
 絵名: （そうだ。あえて色が混ざる感じで、たくさん塗り重ねて……）
 絵名: （……うん、もっとたくさん塗ろう。 いろんな色で、キラキラになるように——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000506/bg_s000506.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000506/bg_s000506.webp)
 絵名: （————楽しい）
 絵名: （楽しいな……）
 絵名: （もっと、描きたい）
 絵名: （……完成してほしくないな）
 絵名: （このまま、ずっと、一生……描いてたい）
 絵名: （もっと————）
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): 『……絵名、楽しそうだね』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000507/bg_s000507.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000507/bg_s000507.webp)
 KAITO (N25): 『——ああ』
 KAITO (N25): 『……あいつなりの答えは出たみたいだな』
 ミク (N25): 『……どんな絵になるか、楽しみだね』
-(Black cut)
+(Black transition)
 (Background change)
 雪平: ——時間です。 筆を置いてください
 絵名: …………っ
@@ -71,4 +71,4 @@ KAITO (N25): 『……あいつなりの答えは出たみたいだな』
 絵名: …………終わった……
 絵名: …………
 絵名: …………楽しかったな……
-(Black cut)
+(Black transition)

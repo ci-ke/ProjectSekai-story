@@ -47,7 +47,7 @@ Gacha phrase: 神高史上、最高の劇にするぞッ！
 文化祭実行委員: まあ、全然決まらないよりマシか。 みんな、いいんだな？　天馬の提案で決めちゃうぞー
 クラスメイト全員: 『はーい！』
 司: いよーしっ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
@@ -64,7 +64,7 @@ Gacha phrase: 神高史上、最高の劇にするぞッ！
 司: ああ。演劇なんて小学校の学芸会以来 というメンツがほとんどだが、士気は高いぞ！
 司: オレも、やるからには全員に 思う存分楽しんでもらうつもりだ！
 類: フフ。それはいいね。 どんな劇なのか、詳細を楽しみにしているよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数週間後]
@@ -83,15 +83,11 @@ Gacha phrase: 神高史上、最高の劇にするぞッ！
 司: 何を言う。文化祭準備は楽しくて当然だろう
 クラスメイトA: え？　なんでだ？
 司: そんなの決まっている！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ——周りに、最高の仲間がいるからだ！
 司: 一緒に目標に向かって走る仲間がいるのに 楽しくないはずがなかろう
@@ -99,7 +95,7 @@ Gacha phrase: 神高史上、最高の劇にするぞッ！
 司: ふっ、カッコイイなど、当然だ。 オレを誰だと思っている？
 司: いいかお前ら！ オレ達が目指すのは神高史上最高の劇だ！ 歴史にも記憶にも残る劇をやるぞー！
 クラスメイト全員: 『おー！！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -178,4 +174,4 @@ Gacha phrase: 神高史上、最高の劇にするぞッ！
 彰人・瑞希: （だから、いらないって！）
 司: よし、渡す時には しっかりシリアルナンバーも入れておこう！
 司: 世界にふたつとない、貴重なサインになるぞ！ ハーッハッハッハッハッハ！
-(Black cut)
+(Black transition)

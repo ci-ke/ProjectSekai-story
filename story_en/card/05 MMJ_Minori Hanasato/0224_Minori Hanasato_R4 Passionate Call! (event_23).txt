@@ -16,7 +16,7 @@ Haruka: Oh, Minori.
 Haruka: Sorry, be right there.
 Saki: Okay, see you tomorrow! Good luck, Minori!
 Minori: Y-Yeah! Thanks, Saki!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rooftop]
@@ -25,19 +25,15 @@ Minori: Sorry about interrupting your conversation with Saki just now...
 Haruka: No, it's okay. I was just talking with her about what we did yesterday.
 Minori: About yesterday?
 Haruka: Yeah, about how we went to that karaoke place...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori: L-O-V-E! Let's go! HA-RU-KA!
 Minori: Hey! Hey! LOVE & PEACE!
 Minori: Encore! Encore!
 Haruka: Um, Minori... It's your turn to sing next...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: Oh, right... I probably got a little too excited there...
 Haruka: But it was fun having you cheer like that for me. It almost felt like an actual show.
@@ -87,7 +83,7 @@ Haruka: Walk Samo?
 Minori: Yeah! We can meet at a park nearby, walk him and feel his fluffiness together! Would that work for you?
 Haruka: Hehe. I might need to see just how great Samo is if you keep insisting like this.
 Minori: Of course! You're always welcome!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -135,7 +131,7 @@ Minori: Hehe. Isn't he the cutest? Oh, he also likes being scratched under his j
 Haruka: Under his jaw... Oh, you're right...! He looks so happy...!
 Samo: *Whimper*
 Minori: (Haruka looks like she's having fun. How can you not with this much fluff?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -170,4 +166,4 @@ Minori: Yeah, she has a Shiba Inu called Shibao! He's not as fluffy as Samo, but
 Minori: I really want you to meet him too, Haruka!
 Haruka: Ah, I see. I'd like to meet him if I can.
 Minori: Great! I'll make sure you do someday!
-(Black cut)
+(Black transition)

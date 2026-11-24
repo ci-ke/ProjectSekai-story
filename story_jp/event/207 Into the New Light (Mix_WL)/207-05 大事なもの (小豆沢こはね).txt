@@ -17,29 +17,21 @@
 こはね: なんだか、昔の私に似てるなって思ったから……
 ルカ (VBS): 『昔のこはねちゃんに？』
 こはね: 私が勝手に、そう感じただけなんですけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 少女: この映像を見た時、何かが胸に刺さった感じがしたっていうか——
 少女: なんだか、新しい世界の扉が開いたみたいな気がしたんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: 私も昔は……自分には何もないような気がしてたんです。 変わりたいのに、その勇気も出なくて……
 こはね: でも、あの日——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: WEEKEND GARAGEの扉を開けて、 歌に出会ったおかげで……
 こはね: 本当の想いを見つけられて、 少しずつですけど、前に進めるようになったんです
@@ -59,19 +51,15 @@
 こはね: （無理やり追いついて、話をしたとしても…… 届かない気がする）
 こはね: （……でも……）
 こはね: （何か少しでも、あの子の心に届くものは——！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 穂波: これは……MVですか？
 少女: はい。 LENSっていう映像クリエイターの作品で……
 こはね: わ……この曲、素敵ですね。 すごく優しくて、でも力強い感じもして
 少女: はい……！　この曲自体もすごく好きで、 元気をもらいたいときによく聴いてるんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの、MVの曲……！）
 こはね: （あれから何度も聴いたから、歌詞は覚えてる）
@@ -81,8 +69,8 @@
 こはね: ♪————！ ♪————！
 通行人A: ……歌？
 通行人B: なんだろ、路上ライブとか？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000596/bg_s000596.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000596/bg_s000596.webp)
 こはね: ♪—————————！
 こはね: （あなたが今、どれだけ苦しくて傷ついてるか…… 私にはわからない）
 こはね: （だから、これも……余計なお世話かもしれない）
@@ -92,13 +80,13 @@
 こはね: （このまま——悲しい気持ちのままで、 終わってほしくない）
 こはね: （お願い、届いて……！）
 少女: ……！
-(White cut)
+(White transition)
 (Background change)
 少女: ……すごい……
 雫: この歌は……
 穂波: ……こはねちゃん？
 まふゆ: ……よかった。見つかったみたいだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -162,4 +150,4 @@
 こはね: （私が、みんなに助けてもらったみたいに…… 何かできないのかな）
 こはね: （どんな言葉を、かけてあげたら——）
 まふゆ: …………
-(Black cut)
+(Black transition)

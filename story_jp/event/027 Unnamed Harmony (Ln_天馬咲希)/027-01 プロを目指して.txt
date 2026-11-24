@@ -45,7 +45,7 @@
 穂波: 咲希ちゃん、いつの間にそんな名前つけてたの？
 咲希: もちろん、今だよ！ それでそれで？　活動方針って？
 志歩: えっと……ちょっと長くなりそうだから、 どっかの空き教室で話そうか
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　教室]
@@ -96,16 +96,12 @@
 一歌: うん。ミクが歌ってる曲で 何曲か歌いたいなと思ってた曲があるから、探しておくよ
 一歌: でも……いつかはLeo/needのオリジナル曲も、 ライブで演奏してみたいな
 咲希: オリジナル曲……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: でも、プロとしてデビューを目指すなら、 Leo/needとしてのオリジナル曲が必要だからね。 そこも考えていかないと
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: あ、しほちゃんも言ってたよね。 オリジナル曲が必要だって！
 咲希: アタシも作りたいな～！
@@ -141,4 +137,4 @@
 咲希: うん！　それじゃいこいこーっ♪
 咲希: （ライブに、オリジナル曲かあ……。 えへへ、すっごくワクワクしてきた！）
 咲希: （よ～し、がんばるぞ～！）
-(Black cut)
+(Black transition)

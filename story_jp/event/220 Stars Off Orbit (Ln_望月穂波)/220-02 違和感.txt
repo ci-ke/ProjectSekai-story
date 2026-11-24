@@ -35,7 +35,7 @@
 穂波: ……アルバイトとか部活も、 今までみたいにはできなくなるかもしれないし
 穂波: そういうのも、きちんと考えなきゃだね
 志歩: じゃあ、あと影響がありそうなのは——
-(Black cut)
+(Black transition)
 穂波: ……うん、こんな感じかな
 一歌: いろいろ出たね。 やっぱり、考えなきゃいけないことがたくさんあるな
 穂波: それじゃあ、このあとは みんなそれぞれ考えてから、後で意見をまとめようか
@@ -53,15 +53,11 @@
 咲希: だから、もう答えは決まってるんだ！
 穂波: 咲希ちゃん……
 穂波: （……本当に、そうなのかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （それなら、あの時のは——）
 穂波: ……ねえ、咲希ちゃん
@@ -77,4 +73,4 @@
 穂波: （じゃあ……どうして、あんな顔をしてたんだろう）
 咲希: ……？　ほなちゃん、どうしたの？
 穂波: ……ううん。なんでもない
-(Black cut)
+(Black transition)

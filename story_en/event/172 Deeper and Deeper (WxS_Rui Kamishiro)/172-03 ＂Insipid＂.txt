@@ -50,7 +50,7 @@ Rui: (I see. Asahi can handle any role, so they'll immediately be able to see ea
 Rui: (It's the best way for them to size us up.)
 Sakaki: Please have scripts and directing plans ready by next time.
 Sakaki: Bring something good, okay?
-(Black cut)
+(Black transition)
 (Background change)
 Rui: Alright, this is the arcade where our shows will theoretically be staged.
 Rui: Since it's so close to the entrance, guests of all ages should be present...
@@ -60,14 +60,14 @@ Rui: (A show to introduce myself... It's no simple task, but I need to do my bes
 Rui: To achieve that ArcLand feel, I'll want to include some elements of magic and fantasy.
 Rui: Also, since this is my self-introduction, I'll need to tie in something which refers to me personally.
 Rui: I know. I can revive some of the ideas I used for those surprise shows I did all those years ago...
-(Black cut)
+(Black transition)
 (Background change)
 
 [One week later]
 
 Asahi: “Argh! Why?! It always rains on the days when I have something important planned!”
 Asahi: “The princess and I can't have our wedding in this weather!”
-(Black cut)
+(Black transition)
 Asahi: “Oh, you're completely soaked.”
 Asahi: “Would you like to rest at my house? I have some hot soup.”
 Rui: (This is fascinating...)
@@ -87,7 +87,7 @@ Asahi: I'm ready.
 Asahi: “Hey, have you seen them before?”
 Asahi: “What am I talking about? The special flowers that bloom only during rainy days!”
 Asahi: “I came to look for them after hearing reports of sightings around here.”
-(Black cut)
+(Black transition)
 Veteran Director: The story of a botanist who wanders into the park in search of flowers that only bloom during rainy days.
 Veteran Director: And through that search, he and the audience share special experiences you can only have when it rains, yes?
 Rui: That's correct.
@@ -100,7 +100,7 @@ Tom: <“I'm impressed. That show's so old that footage of it doesn't really exi
 Rui: (I had intended to avoid directly paying homage to his work...)
 Rui: (But it seems it came through all the same.)
 Sakaki: ...
-(Black cut)
+(Black transition)
 Veteran Director: I have no further comments. Would you like to say anything, Mr. Sakaki?
 Sakaki: Well...
 Sakaki: I thought it was put together well. Your eye and technique go far beyond that of any ordinary high schooler.
@@ -111,4 +111,4 @@ Sakaki: But that's about it.
 Sakaki: I enjoy family-oriented stories quite a lot. They seem simple, but many of them have deep depths too.
 Sakaki: But that doesn't apply to yours.
 Sakaki: You've shown us something quite insipid... Kamishiro.
-(Black cut)
+(Black transition)

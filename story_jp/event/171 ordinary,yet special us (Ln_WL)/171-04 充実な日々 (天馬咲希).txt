@@ -3,7 +3,7 @@
 (Character: 星乃一歌, 天馬咲希, 日野森志歩)
 
 (Video: link2_leoneed_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　２年Ｂ組]
@@ -24,7 +24,7 @@
 咲希: うっ……。 た、たしかに……
 咲希: （でも、せっかくの文化祭だし。 ちゃんとクラスの手伝いしたいな）
 咲希: （放課後の練習の時、先生に聞いてみよっと）
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -47,42 +47,38 @@
 咲希: だけど、走り終わればコートがアタシ達を待ってるから！ 前向いて、頑張って腕振ろう！
 咲希: とか言ってる間に、ラスト１周だよ！ 一緒に走り切ろう！
 １年生部員: ……はいっ！
-(Black cut)
+(Black transition)
 (Background change)
 部長: ——次、ストローク！ ラケット出しで行くよ！
 部員達: 『はい！』
 ２年生部員: お願いします！
 １年生部員達: ナイスボール！
 咲希: お願いします！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000460/bg_s000460.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000460/bg_s000460.webp)
 咲希: フッ…………！
 １年生部員達: ……今の球、追いついちゃうんだ！？ すごいなあ、天馬先輩！ ああいうの、才能っていうのかな？
 １年生部員達: どうだろう？　天馬先輩、中学のソフトテニス部の頃から、 誰よりも遅くまで残って練習してたって聞いたしなあ
 １年生部員達: え、中学の頃からずっと？
 １年生部員達: うん。病気がちな体をなんとかしたくて とにかく体力をつけるために頑張ってたら、 すっかり習慣になっちゃったんだって
-(White cut)
+(White transition)
 (Background change)
 咲希: もう１球、お願いします！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
 
 咲希: （昨日の部活も楽しかったな。 最後に、先生からまさかのサプライズもあったし！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: ——えっ！　遠征ですか！？
 顧問: はい。遠征先は、知り合いの先生を通じて いくつか打診していますが、麗館高校さんと話が進んでいます
 部長: 麗館高校！？　全国大会の常連校ですよね！？ 去年もベスト８だったはず……
 顧問: 学べることが、きっとたくさんあるはずです。 正式に決まったら、またご連絡しますね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （全国大会の常連校に遠征なんて、夢みたい！ 早く決まるといいなあ）
 一歌: ……あ。おはよう、咲希。 朝練してきたの？
@@ -121,4 +117,4 @@
 クラスメイト: そうだ、咲希ちゃん。日曜日の方は空いてる？
 クラスメイト: みんなで和風カフェの調査—— という名の、スイーツ食べ歩きをするんだけど
 咲希: わあ、行きたい行きたい！ えっと、日曜日の予定はっと……
-(Black cut)
+(Black transition)

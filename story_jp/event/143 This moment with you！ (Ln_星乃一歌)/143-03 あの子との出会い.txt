@@ -2,7 +2,7 @@
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 初音ミク)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数年前]
@@ -35,20 +35,20 @@
 幼い一歌 (一歌): （あ、曲が始まった……。 全然知らない曲だけど……）
 (Background change)
 ミク: ♪————————！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000355/bg_s000355.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000355/bg_s000355.webp)
 幼い一歌 (一歌): ……！
 幼い一歌 (一歌): わぁ……！　すごい！
 幼い一歌 (一歌): きれいな声……。 ギターも弾けるんだ、かっこいい……！
 幼い一歌 (一歌): この子、なんていうんだろう
 幼い一歌 (一歌): ——初音、ミク？
 幼い一歌 (一歌): ミクっていう子なんだ……
-(White cut)
+(White transition)
 (Background change)
 一歌の父: ——一歌、ジェラート買ってきたぞ。 休憩して一緒に食べよう
 幼い一歌 (一歌): あ……うん！
 幼い一歌 (一歌): ねえお父さん、聞いて！ 初音ミクっていう子の動画を見たんだけど、 かっこよくって——
-(Black cut)
+(Black transition)
 (Background change)
 
 [一歌の部屋]
@@ -68,7 +68,7 @@
 幼い一歌 (一歌): 私も……
 幼い一歌 (一歌): （やってみたいな……！）
 幼い一歌 (一歌): （ミクみたいに——！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -116,4 +116,4 @@
 幼い穂波 (穂波): じゃあ、やってみるね
 幼い一歌 (一歌): ……！　ありがとう、穂波！
 幼い一歌 (一歌): ——みんなでやろう、バンド！
-(Black cut)
+(Black transition)

@@ -57,23 +57,19 @@ MEIKO (N25): 私も行くわ
 瑞希: ふむふむ、長さもちょうどよさそうだね！
 ミク (N25): ……奏、似合う
 奏: え、本当？ さすがにジャージには合わないと思ってたけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 瑞希: ……ほら、ボク達は奏みたいに 直接そばにいることって出来ないじゃん？
 瑞希: だから……こういうのつけたら、 そばにいるって感じしないかな～ってさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 絵名: （そばにいる、か……）
 絵名: ——まふゆ。 そのブレスレット、大切にしなさいよ
 まふゆ: ……なんで絵名が言うの？
 絵名: 大事なことだからに決まってるでしょ。 ほら、わかった？
 まふゆ: ……わかってる
 絵名: （私も、大切にしよっと）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -122,7 +118,7 @@ MEIKO (N25): 私も行くわ
 奏: 『……まふゆ、いい？』
 まふゆ: 『うん……』
 奏: 『——それじゃあ』
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 瑞希: 『そっか……！ まふゆのお母さん、わかってくれそうなんだね！』
@@ -134,7 +130,7 @@ MEIKO (N25): 私も行くわ
 絵名: （きっと、いろいろ考えてくれたってことだよね）
 絵名: （『まふゆのやりたいことを応援したい』って、 言ってくれたみたいだし）
 絵名: （これでひと安心って感じかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後　25時]
@@ -177,4 +173,4 @@ MEIKO (N25): 私も行くわ
 (Background change)
 瑞希・まふゆ・絵名: 『うん！』 『うん……』
 (Background change)
-(Black cut)
+(Black transition)

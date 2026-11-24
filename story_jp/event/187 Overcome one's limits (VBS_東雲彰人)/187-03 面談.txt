@@ -37,10 +37,10 @@
 彰人: ああ。任せた
 冬弥: ありがとう
 冬弥: 『では、俺が音楽を始めた理由ですが——』
-(Black cut)
-(Black cut)
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
+(Black transition)
+(Black transition)
 社長: 『——最後は君だ。アキト』
 社長: 『君はどんな想いで、歌と向き合っている？』
 彰人: 『オレは……最初はただ、 真剣になれるものが欲しかったんです』
@@ -56,7 +56,7 @@
 彰人: 『どんなに苦しくても、目指すもんが遠くても——』
 彰人: 『心臓が動く限り、歌いたいと思ってます』
 社長: 『…………』
-(Black cut)
+(Black transition)
 社長: 『——君達の想いはわかった』
 社長: 『ビジネス面でも、個人的にも、 君達の今後の活動を応援したいと思う』
 こはね: 『それって……』
@@ -95,7 +95,7 @@
 冬弥: 一緒に行けないのは、もどかしいが……
 冬弥: 気をつけて行ってきてくれ、彰人
 彰人: ——ああ。行ってくる
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -106,20 +106,16 @@
 彰人: （意外と、ひとりでもなんとかなるもんだな）
 彰人: （けど……ここからが本番だ）
 彰人: まずはNo.9レコードに行って、アランさんと面会だったな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 社長: 『いいや。できれば——直接会って話をしたい』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （どんなことを聞かれるかわからねえが…… これで、契約できるかが決まるかもしれねえ）
 彰人: （——オレも、気合い入れていかねえと）
-(Black cut)
+(Black transition)
 (Background change)
 
 [No.9レコード　オフィス]
@@ -149,4 +145,4 @@
 社長: アキト。君は、RAD BLASTの後——
 社長: 自分の歌が、熱を失ったと感じたことはないか？
 彰人: …………っ
-(Black cut)
+(Black transition)

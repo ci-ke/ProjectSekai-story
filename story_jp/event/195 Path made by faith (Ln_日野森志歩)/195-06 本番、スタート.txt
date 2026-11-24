@@ -17,7 +17,7 @@
 スタッフ: まもなく本番です！ Leo/needさんは、こちらでスタンバイお願いします！
 穂波: あ……わかりました！ それじゃあ、セット裏に行こうか
 咲希: うん……！
-(Black cut)
+(Black transition)
 (Background change)
 スタッフ: カメラ回していきます！　本番10秒前、９、８、７——
 HAYASE: ——さて、今夜も始まりました『WAVING-BOX』！ 司会のHAYASEです
@@ -34,18 +34,18 @@ IoliteのメンバーA: あはは。私達の席かも？
 志歩: 一歌、落ち着いて。 焦らなくていいから
 HAYASE: おっと。Leo/needはテレビ初出演ってこともあるし、 ちょっと緊張気味かな？
 一歌: うう、すみません……！ 最初からミスしちゃって……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000546/bg_s000546.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000546/bg_s000546.webp)
 一歌: はあ、恥ずかしいな……
 IoliteのメンバーA: 大丈夫だよ！ こんなのミスのうちに入らないから！
 穂波: そうだよ、一歌ちゃん
 穂波: それに、わたしは今ので緊張がほぐれたな
 一歌: あ、ありがとう……
-(White cut)
+(White transition)
 (Background change)
 HAYASE: いいですね、今のやりとりからも Leo/needの仲の良さが伝わってくるなあ
 HAYASE: 幼馴染で結成されたバンドということで、 今日はその辺りのことも深掘りできればと思います！
-(Black cut)
+(Black transition)
 IoliteのメンバーB: ——私達は、高校時代からの腐れ縁って感じですね。 ある日突然、すみれが『バンドやろう！』って言い出して
 IoliteのメンバーC: あれはびっくりしたなー。 ギター経験あった円香はともかく、 私と四季は楽器に触ったことなんてなかったですから
 穂波: そうだったんですね
@@ -112,7 +112,7 @@ HAYASE: 実は、今日はそんなおふたりにぴったりのコーナーを
 HAYASE: 久野すみれさん、そして日野森志歩さん——
 HAYASE: ベースを通じて出会ったふたりに、 この場でベースバトルをしていただきます！
 スタッフ: では、ここで一旦ステージ転換に入ります！ 皆さん、しばらくお待ちください！
-(Black cut)
+(Black transition)
 (Background change)
 志歩: ……すみれさん、今日はよろしくお願いします
 すみれ: うん、こちらこそ！
@@ -127,4 +127,4 @@ HAYASE: ベースを通じて出会ったふたりに、 この場でベース�
 すみれ: ……時間だ
 すみれ: それじゃ、いこうか志歩ちゃん
 志歩: ——はい！
-(Black cut)
+(Black transition)

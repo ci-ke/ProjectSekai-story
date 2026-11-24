@@ -13,7 +13,7 @@ Akito: Hey, Toya.
 Toya: Ah, Akito, good morning.
 Akito: You were smiling just now... Did something good happen to you?
 Toya: Not quite, but...
-(Black cut)
+(Black transition)
 Akito: Really? And you're gonna bake them yourself...?
 Akito: I say go for it. I think it's good that you're trying something new.
 Toya: Yes, me too. And I'm hoping they turn out well.
@@ -31,7 +31,7 @@ Akito: No, don't get your hopes up. Unfortunately, I have work today after schoo
 Toya: I see...
 Akito: Sorry, I wish I could find you a replacement...
 Akito: Uh oh. Homeroom's about to start. Let's go, Toya.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lunch break]
@@ -46,10 +46,8 @@ Toya: I didn't quite succeed yesterday when I tried... But I found someone who c
 Rui: That's good to hear. I'm sure Tsukasa and his sister will enjoy your gift. Also, they seem to be looking forward to that dinner party you mentioned very much.
 Toya: They are?
 Rui: Yes, I came here to mention that. I actually met with him earlier today and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: Tsukasa, do you have a minute? There's something I need to tell you regarding practice for our next show.
 Tsukasa: Cover the beef in salt and pepper... Add vegetables and let it stew...? Hm? You throw in the herbs with it here? The order for this recipe is a little different from the other one I saw...
@@ -59,32 +57,26 @@ Tsukasa: Ah, we've invited Toya over to our house for a dinner party, and I was 
 Rui: A dinner party...? I see. That explains why your brow was so furled.
 Tsukasa: Indeed! Since Toya will be visiting, we want to make our party as enjoyable as possible!
 Tsukasa: Speaking of which, Rui, let me hear what you think! I've been trying to decide which of these dishes we should make...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: He really couldn't stop talking about you. As such, he's been working very hard to make sure you enjoy yourself.
 Toya: He has...?
 Toya: Thank you for telling me this... Now I feel an even greater incentive to give them something nice.
 Rui: You're welcome, and I wish you the best of luck. Also, feel free to ask if you think you need any help.
 Toya: (If I need any help...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: Sorry, I wish I could find you a replacement...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Maybe I can ask Kamishiro...)
 Toya: (No, but... He's busy preparing for a show. Asking him to be my taste tester seems...)
 Rui: Is something the matter, Aoyagi?
 Toya: Oh, um... So, the thing is...
-(Black cut)
+(Black transition)
 Rui: I see. You need someone to taste your creations...
 Rui: I'd be more than happy to help.
 Toya: R-Really? Are you sure?
@@ -107,4 +99,4 @@ Toya: Then, would you mind coming over this evening around six? I'll make sure t
 Rui: Okay, that's fine with me.
 Rui: So, I'll see you then after school. I'm looking forward to seeing what you bake.
 Toya: Y-Yes, thank you very much. I'll do my best to not disappoint you.
-(Black cut)
+(Black transition)

@@ -20,14 +20,14 @@
 みのりの声 (みのり): うんっ！
 みのりの声 (みのり): ——大変長らくお待たせしました！
 みのりの声 (みのり): 新婦花里みのり、登場です！ 皆様、拍手でお迎えください！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000318/bg_s000318.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000318/bg_s000318.webp)
 みのり: じゃじゃ～ん！
 みのり: えへへ……こんな風に変身しちゃいました！
 みのり: ど、どうかな？ クルクル～♪　なんちゃって
 コメント: 『似合ってる！』 『ピンクも似合うな』 『かわいすぎて涙出てきた』
 みのり: えへへ……。 みんな、ありがとう！
-(White cut)
+(White transition)
 (Background change)
 寧々: すごく似合ってるね、花里さん……！
 穂波: うん！ ……あ、このドレス、いろんな場所に お花のデザインが入ってるんだ。可愛いな
@@ -67,7 +67,7 @@
 穂波: うん。 じゃあ花里さん、ショーが始まったら客席で会おうね
 みのり: うん！
 コメント: 『ここまでありがとう～！』 『みんなええ子や』 『バイバーイ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [準備室]
@@ -121,4 +121,4 @@
 岡村: ん？　どうしたんだ急に？
 スタッフ: キャストのひとりが、転倒してしまって——
 みのり・寧々: 『え……！？』
-(Black cut)
+(Black transition)

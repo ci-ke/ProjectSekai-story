@@ -7,10 +7,8 @@ sp55 コネクトライブ Dreamscape 前日ストーリー (story_connect_live_
 瑞希: だいぶ準備できてきたね！ ライブ当日、楽しみだな～！
 絵名: でも、奏がライブやろうって言いだすなんて ちょっと意外だったかも
 奏: うん。ミクがヒントをくれたからね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [約１カ月前]
@@ -31,15 +29,13 @@ sp55 コネクトライブ Dreamscape 前日ストーリー (story_connect_live_
 ミク (N25): うん。誰かを救いたい、誰かに届けたい—— そういう想いを込めて、歌ってくれれば
 瑞希: つまり、軽く歌ってみるくらいじゃダメってこと？
 奏: あ、それなら——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……どんな変化がわたし達の中であったのか、 今回のライブで少しでも分かるといいね
 瑞希: そのためにも、ラストスパート！ 今日の練習も張り切っていこ～！
 奏・まふゆ・絵名: 『うん』 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -58,4 +54,4 @@ MEIKO: あら、いいわね！　私達とあの子達のライブ—— 傷つ
 ミク: ひとつひとつの想いに寄り添えるように、 ライブ、頑張ろうね！
 レン・リン: 『うん！』
 MEIKO・ルカ・KAITO: 『ええ』 『うん』
-(Black cut)
+(Black transition)

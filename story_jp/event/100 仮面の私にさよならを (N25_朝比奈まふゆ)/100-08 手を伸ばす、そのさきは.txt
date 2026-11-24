@@ -7,8 +7,8 @@
 まふゆ: お母さんが泣いてるのも、苦しんでるのも 私のせいだと思う
 まふゆ: ……でも……
 まふゆ: ——でも、私の気持ちも、知ってほしいの……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000210/bg_s000210.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000210/bg_s000210.webp)
 まふゆ: 本当は、ずっと、苦しいの
 まふゆ: お母さんが期待してくれてるから、 それに応えたくて……頑張ってたけど
 まふゆ: 頑張れば、頑張るほど苦しくなって…… 私のやりたいことはなんだろうって、わからなくなって……
@@ -18,7 +18,7 @@
 まふゆ: お母さんは、悲しむと思うけど…… でも、やっぱり私は……嫌なの
 まふゆ: 音楽をやめるのも、奏達と一緒にいられなくなるのも——
 まふゆ: ……嫌なの……！
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: …………
 まふゆの母: ——どうして……
@@ -47,43 +47,35 @@
 まふゆ: （お母さんは、本当に私のことを想って ……こう言ってるの？）
 まふゆ: （……わからない…………）
 まふゆ: （わからない、けど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 今日帰ってからも、 いろいろ考えちゃうと思うけど……
 瑞希: でも、いつだってボク達はまふゆの味方だよ。 だから……
 瑞希: いつでもニーゴのみんなで——セカイで待ってるよ！
-(White cut)
+(White transition)
 (Background change)
 絵名: ニーゴのこと、お母さんに知られたのは 大変だと思うけど……
 絵名: 嫌なことは、ちゃんと嫌だって言いなさいよ
 絵名: ……あんたのこと守れるのは、あんたしかいないんだから
-(White cut)
+(White transition)
 (Background change)
 奏: お父さんが、昔言ってたんだ。 わたしとお母さんに、自分の作った曲で 笑ってほしいんだって
 奏: そんなお父さんの曲を聴いて……、 わたしもお母さんも、あの頃、心から笑顔になれてた
 まふゆ: 笑顔に……
 奏: うん。だからわたしは……
 奏: あの時のわたし達みたいに、 まふゆにも笑ってほしいって思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……みんなといる時は、あたたかい）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (N25): 『わたし達は、ちゃんと……ここにいるから』
 ミク (N25): 『まふゆの想いを、守って』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……心が、落ち着く）
 まふゆ: （……だけど、“ここ”は——）
@@ -112,17 +104,13 @@
 まふゆ: （そうだ……でも……苦しい、痛い、頭が、痛い——）
 まふゆ: （ごめんなさい……私が、悪い……？ でも、もう、ここには……）
 まふゆ: （ここには……っ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: もう無理だって思ったら、逃げていいって ボクは思うんだ
 瑞希: 誰でもない。まふゆ自身のために
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （逃げても、いい——）
 まふゆ: （逃げる——でも、本当に、いいの？）
@@ -132,7 +120,7 @@
 まふゆの母: ……ね？　お願い。 まふゆ——
 まふゆ: ————っ！！
 まふゆの母: ——まふゆ！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -145,15 +133,15 @@ KAITO: 『……外に出ろ』
 奏: え？
 KAITO: 『あいつが、お前を必要としてる』
 奏: あいつ、って……
-(Black cut)
+(Black transition)
 (Background change)
 奏: まふゆ、どこ……！？
 ？？？: …………奏…………
 奏: あ……
 奏: まふゆ……
 まふゆ: …………っ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000211/bg_s000211.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000211/bg_s000211.webp)
 まふゆ: ……奏、私……！
 まふゆ: 私、ちゃんと、伝えたの！ お母さんに……
 まふゆ: でも……でも…………！
@@ -167,12 +155,12 @@ KAITO: 『あいつが、お前を必要としてる』
 奏: …………
 奏: ……大丈夫だよ、まふゆ
 奏: 大丈夫……大丈夫だから——
-(Black cut)
+(Black transition)
 (Background change)
 まふゆの母: …………そう、わかったわ
 まふゆの母: ええ。……ええ、そうね。 落ち着くまでは……
 まふゆの母: ……また、あとで連絡するわ
 まふゆの母: ……まふゆ…………
-(Black cut)
+(Black transition)
 (Video: 05_night_ed2)
-(Black cut)
+(Black transition)

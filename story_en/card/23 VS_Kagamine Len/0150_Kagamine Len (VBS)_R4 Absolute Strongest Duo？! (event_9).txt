@@ -35,7 +35,7 @@ Rin: Okay! Let's go outside!
 MEIKO: Haha... Since I'm trying out a new menu item, I'd prefer it if everyone got to try a little bit...
 Miku (VBS): Well, you go make the parfaits. I'll be the judge.
 MEIKO: Okay, thanks.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Avenue]
@@ -56,7 +56,7 @@ Len: Whaaat?! When did it get there...?!
 Miku (VBS): One point for Rin!
 Rin: Hah! Power's not the only thing you need for this game!
 Rin: I'll devour that parfait in front of you, all by myself!
-(Black cut)
+(Black transition)
 Len: (Okay... Next, fake right and go left... No, Rin might see that coming... What if I fake twice and...?)
 Rin: Hah, I knew you'd hit it to the right! You're an open book to me, Len!
 Len: You're clever, I'll give you that! But you're in trouble now! Here it goes!
@@ -81,13 +81,13 @@ Rin: Oh...
 Rin: Hehe. Then I guess I'll just have to help you finish it.
 Len: Alright! Deal!
 Miku (VBS): Hehe. You two...
-(Black cut)
+(Black transition)
 (Background change)
 Len: Oh, a juicy slice of peach! Dibs!
 Rin: Don't dig it out like that, Len. You'll make the ice cream fall out!
 MEIKO: I'm glad you're having fun, but don't forget that this is a taster session. I need your honest reviews!
 Len: We haven't forgotten!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -165,4 +165,4 @@ Kohane: Okay. Would you like to hear about the shrine An and I visited?
 An: Or we could tell you about the shooting gallery at a New Year's fair!
 Rin: Whoa, a shooting gallery! What's that?!
 Len: Tell us! Tell us!
-(Black cut)
+(Black transition)

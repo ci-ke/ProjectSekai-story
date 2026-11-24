@@ -61,7 +61,7 @@ Skill name: 前に進むこと
 絵名: はいはい。あんたに聞いてないから
 奏: わたしはちょっと欲しいな
 瑞希: それじゃあ、決まりだね♪ あ、店員さーん！　ポテトもうひと皿くださーい！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -130,4 +130,4 @@ Skill name: 前に進むこと
 奏: 『うん。25時になったし、今日の作業を始めようか』
 (Background change)
 まふゆ: 『そうだね』
-(Black cut)
+(Black transition)

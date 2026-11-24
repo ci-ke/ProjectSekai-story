@@ -18,61 +18,49 @@ An's Message (An): <Was just about to send you a message! Since I'm helping out,
 An's Message (An): <So, wanna put some time aside for a bit of singing?>
 Kohane: <Alright, I'll be sure to arrive a bit early while the cafe isn't busy.>
 Kohane: Singing practice...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (We were all practicing together until recently...)
 Kohane: (And then...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: ♪————————————!!
 An: ...!
-(White cut)
+(White transition)
 (Background change)
 Arata: This is it for me.
-(White cut)
+(White transition)
 Arata: Goodbye. This team was fun while it lasted...
-(White cut)
+(White transition)
 Tatsuya: I'm not gonna lie. This feels like the end of the line...
-(White cut)
+(White transition)
 Kotaro: Why...?! Why...?! Why couldn't I sing when it really mattered...?
 Kotaro: Why...? Why am I such a stupid, spineless piece of garbage...?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Just like that... We all split up.)
 Kohane: (It was a huge shock to us...)
 Kohane: (But in spite of all that...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An's Father: I believe you'll figure out a way to get there. The place Nagi wasn't able to reach.
 An's Father: With your friends here.
 An: ...
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 An: Aunt Nagi placed her faith in me.
 An: She said she believes that we can carry her dream forward...!
 An: Then, I'm gonna do it!
 An: We're going to surpass RAD WEEKEND and show you guys what things look like from on top of the world!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (An was the one who stepped up and gave us a second wind.)
 Kohane: (And she must have been hit the hardest by the news of Nagi's passing. She loved her so much...)
@@ -81,7 +69,7 @@ Kohane: No matter what hardships come her way, she just keeps going, facing ever
 Kohane: (If I were in her shoes, would I be able to do the same?)
 Kohane: I guess there's no use thinking of what-ifs. After all, I'm not An.
 Kohane: Anyway, I should get an early night for tomorrow.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -90,7 +78,7 @@ Kohane: Mmmh.... H-Huh? Why am I in SEKAI?
 Kohane: I guess I must have dozed off while scrolling on my phone...
 Kohane: Oh... something's glowing. It looks like...some kind of crystal ball?
 Kohane: W-Wah! What's this light?! I can't see!
-(White cut)
+(White transition)
 (Background change)
 
 [Vivid Street?]
@@ -129,7 +117,7 @@ Kohane: (I just mimicked An... But, allowing this to blow out of proportion is t
 Kohane: (But why is this even happening? Why does everyone think I'm An?)
 Kohane: (What do I do now? If only there was someone I could go to for help...)
 Kohane: Oh, I've got it!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -165,22 +153,18 @@ Kohane: *Gasp*
 Kohane: (Does this mean...they recognized me?)
 Kohane: (That's it! They might realize it's me from my singing style!)
 Kohane: (After all...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kohane: (We practice together day in and day out from dusk until dawn...)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Kohane: (And perform at so many events together!)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: Shinonome, Aoyagi, I'm sorry for not saying anything earlier, but... The truth is, I know I look like An, but I am actually Kohane!
 Akito: Huh? What're you talking abo—
@@ -192,21 +176,17 @@ Kohane: (I know that sometimes, I wish I could be like An, radiating with charis
 Kohane: (But simply looking like An won't make me happy!)
 Kohane: ————!! ——————!!
 Kohane: (I have to be myself! After all...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: I honestly, genuinely believe that you have an absolutely amazing voice, Kohane...
 An: Every time I hear you sing, you make my heart dance and I can't help but want to sing with you!
 An: I honestly, genuinely, 100% feel that way.
-(White cut)
+(White transition)
 (Background change)
 An: We believe in you, Kohane. Which is why we wanna hear you at your best!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (I'm An's partner!)
 Kohane: ————~~~!!　————!!
@@ -214,7 +194,7 @@ Kohane: (It's my own voice that An loves to hear! It's my own voice that she bel
 Kohane: (I don't want to be anyone other than Kohane Azusawa, An's partner!)
 Akito: You... You really are Kohane!
 Kohane: I am!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -242,17 +222,17 @@ Kohane: Um... These mirrors are showing me lots of different scenes...and they'r
 Kohane: Ah!
 Kohane: Did I just see the others and...my past self?
 Kohane: H-Hey, that's us on the way home from our first event as Vivid BAD SQUAD...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000208/bg_s000208.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000208/bg_s000208.webp)
 Kohane: (I don't know exactly what feelings gave birth to a place like this, but...)
 Kohane: (With every step deeper into the maze, more snippets from my life flash before my eyes then disappear again.)
 Kohane: (This is starting to feel less like a mirror maze and more like a kaleidoscope.)
-(White cut)
+(White transition)
 (Background change)
 Kohane: *Gasp*
 Kohane: (This one with Tono and the others is cracked...)
 Kohane: I have to keep moving. Miku is waiting for me.
-(White cut)
+(White transition)
 (Background change)
 
 [Street SEKAI]
@@ -262,17 +242,13 @@ Kohane: Oh, Miku! I'm so glad that I managed to make it out.
 Miku (VBS): What was it like in there? I can only imagine how surreal it all felt.
 Kohane: Y-Yeah... There was a surprise around every corner. I felt like I had been whisked away in some dream.
 Kohane: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: (It's my own voice that An loves to hear! It's my own voice that she believes in!)
 Kohane: (I don't want to be anyone other than Kohane Azusawa, An's partner!)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: The whole experience helped me to remember something important.
 Miku (VBS): I see.
@@ -280,16 +256,12 @@ Miku (VBS): Perhaps it appeared to remind you of that important thing.
 Kohane: If that's the case, I owe my thanks to whoever those feelings belonged to.
 Kohane: (I want to be the best partner that An could ever have, and sing by her side forever.)
 Kohane: (And...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (I don't want to give up on them.)
 Kohane: (I'm going to get on my feet and give it my all with the others!)
-(White cut)
+(White transition)

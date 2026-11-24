@@ -58,7 +58,7 @@ Gacha phrase: すごく嬉しいから……大丈夫です！
 司: そうだろう、そうだろう！
 司: 当日そばにはいられないが、オレもついているぞ！ 頑張れ、咲希！
 咲希: うん！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -102,17 +102,13 @@ Gacha phrase: すごく嬉しいから……大丈夫です！
 ルカ (Ln): ね、咲希？
 咲希: はい
 咲希: アタシ、あの時ルカさんが掛けてくれた言葉、 今でも覚えてます
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 失ったものを、手に入れたいと強く願う。 それは当たり前のことよ
 ルカ: 咲希はただ、そう思うあまり、 焦ってしまっただけ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: だから次は、ゆっくり進んで行けば大丈夫って……
 咲希: あの言葉のおかげで、『そっか、大丈夫なんだ』って なんだかすごく安心して、肩の力が抜けた気がする
@@ -137,4 +133,4 @@ Gacha phrase: すごく嬉しいから……大丈夫です！
 リン (Ln): ルカ姉～、なぐさめてー！
 ルカ (Ln): しょうがないわね。 ふたりとも、こっちに来て？
 ルカ (Ln): ——よしよし
-(Black cut)
+(Black transition)

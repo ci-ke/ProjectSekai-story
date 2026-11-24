@@ -12,15 +12,15 @@
 一歌: うん……。 まさか、ライブの見学から急にああいう話になるなんてね……
 一歌: でも、穂波がちゃんと話してくれたから……って、 穂波？
 志歩: あ……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000156/bg_s000156.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000156/bg_s000156.webp)
 志歩: ちょっと、大丈夫！？
 咲希: ほなちゃん、どうしたの！？
 穂波: ご、ごめんね……！ ほっとしたら、急に力が抜けちゃって……
 一歌: 大丈夫？　立てる？
 咲希: アタシに掴まっていいよ！ ……って、手すっごくプルプルしてる！
 穂波: あ……な、なんだか今更怖くなっちゃったみたいで……
-(White cut)
+(White transition)
 (Background change)
 穂波: あの……みんな、ごめんね
 咲希: え？
@@ -50,7 +50,7 @@
 志歩: 特に穂波は、事務作業をやってもらってた分、 ドラムの練習する時間が少なくなっちゃってたから…… そこもサポートさせて
 志歩: ビシバシいくから、覚悟してよ
 穂波: ……うんっ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -73,4 +73,4 @@
 志歩: それじゃ、第一段階はクリアできたことだし—— ここからは１曲１曲、もっと詰めていくよ
 志歩: みんな、覚悟はいい？
 穂波: ——うんっ！
-(White cut)
+(White transition)

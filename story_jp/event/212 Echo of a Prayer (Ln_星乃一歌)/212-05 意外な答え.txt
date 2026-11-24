@@ -21,7 +21,7 @@
 一歌: （できれば、変に誤魔化したりしたくないけど……）
 一歌: （あとで迷惑がかかるかもしれないし、 ちゃんと確認したほうがいいかも）
 一歌: ——真堂さんに、聞いてみようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ソリス・レコード事務所]
@@ -53,21 +53,17 @@
 真堂: はい。ソリス・レコードのことを考慮に入れる必要がない場合——
 真堂: 契約を、前向きに考えたいかどうかです
 一歌: 前向きに、考えたいか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: （スケジュールの調整とか、 クリエイターさんとの連絡とか—— やっぱり、全部自分でやってると時間がかかるな）
 一歌: （昨日も寝るのが遅くなっちゃったし……）
-(White cut)
+(White transition)
 (Background change)
 一歌: なんだか……あっという間だったな
 一歌: すごく、楽しかった……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……もし……）
 一歌: （もしも、事務所と契約してサポートを受けられたら——）
@@ -78,4 +74,4 @@
 真堂: そうですか……
 真堂: ——わかりました。 では、それを加味してお伝えします
 真堂: うちと契約していても、 個人で別の事務所と契約することは可能です
-(Black cut)
+(Black transition)

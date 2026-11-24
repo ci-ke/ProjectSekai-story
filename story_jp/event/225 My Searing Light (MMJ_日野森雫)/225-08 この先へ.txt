@@ -10,27 +10,27 @@
 観客達: や、ヤバいヤバい！　今の何……！？
 観客達: すごいもの見ちゃった……！
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: ……やり切ったわね
 みのり: うん……なんか、足元がふわふわしてるかも……
 遥: みんな、本当にお疲れ様。 雫も——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000650/bg_s000650.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000650/bg_s000650.webp)
 愛莉: え……ちょっと雫、どうしたのよ！？
 雫: みんな……
 雫: 私についてきてくれて……ありがとう……
 みのり: 雫ちゃん……
 雫: こんなに身勝手なステージをしたのに——
 雫: ……ずっと、ずっとついてきてくれて……
-(White cut)
+(White transition)
 (Background change)
 みのり: う……わ、わたしのほうこそ……
 愛莉: みのりまで泣くんじゃないわよ！
 愛莉: わたしまで、つられるでしょ……もう……！
 遥: こっちこそ、ありがとう。雫
 遥: 本当に——最高のステージだったよ
-(Black cut)
+(Black transition)
 (Background change)
 司会者: それでは……全グループのパフォーマンスが終わったところで、 結果発表となります
 司会者: 審査員の皆さんはそれぞれ、自分が票を入れたいグループの札を 上げてください
@@ -64,7 +64,7 @@
 雫: （……少しだけ、近づいたのかしら）
 雫: （誰よりも希望を届けられる、アイドルに……）
 雫: ——うん。ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -89,4 +89,4 @@
 雫: （MORE MORE JUMP！のみんなと、 この先へ進むために）
 雫: ——行きましょう、みんな！
 みのり・遥・愛莉: 『うん！』 『ええ！』
-(White cut)
+(White transition)

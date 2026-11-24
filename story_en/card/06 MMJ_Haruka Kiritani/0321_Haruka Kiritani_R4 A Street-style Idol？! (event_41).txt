@@ -10,7 +10,7 @@ Gacha phrase: This might be nice to wear every so often.
 [Kamiyama Street]
 
 Haruka: (It's been so long since I last visited this place... Actually, when was the last time I did?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -22,7 +22,7 @@ An's Father: Hey, Haruka. It's been a while.
 Haruka: Oh, hello. Yes, it really has.
 An's Father: Here, have a seat. Go ahead and take a break for a while, An.
 An: Yay, thanks! Haruka, over here!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage Stage]
@@ -34,7 +34,7 @@ Haruka: Are you sure about that...?
 An: Yeah, I mean it! Anything you like!
 Haruka: Hehe. Then, I'll have some milk tea.
 An: Sure thing! Coming right up!
-(Black cut)
+(Black transition)
 An: Here you are.
 Haruka: Oh, you even made yourself one.
 An: Dad said I could take a break for a while...
@@ -46,20 +46,16 @@ Haruka: When the four of us went out together?
 An: Yeah! It was really nice to talk about what we used to do during elementary school too.
 An: Oh, speaking of which! I forgot to tell them about the time you brought that bright blue penguin-shaped lunchbox to school!
 Haruka: You always bring that up when we talk about stuff like this.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: To me, you'll always be that girl with the bright blue penguin-shaped lunchbox who secretly eats early lunches with a huge grin on her face during class.
 Haruka: Th-That was when I was in my penguin craze...
 An: The people in class were so taken aback. Some were even wondering if food that blue was even edible!
 Haruka: Some of them said it looked cute, though...
 An: Really? They did?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Haha! But it's such a classic!
 Haruka: While we're on the subject... Remember what happened during the sports competition when we were in the fifth and sixth grade?
@@ -92,7 +88,7 @@ Haruka: So, wanna have a quick race at the park?
 An: Wait, are you sure? People might see you and say online that, “Haruka Kiritani's running like crazy at the park!!”
 Haruka: Hehe. Yeah, right.
 Haruka & An: Hehe. Haha.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -140,20 +136,16 @@ Haruka: (Whenever I'm by myself, I seem to naturally gravitate towards my idol p
 Haruka: (But I feel like I can just be myself when I'm around An.)
 Haruka: (I guess it's because she knows the real me.)
 Haruka: (No, it isn't just that...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 Minori: Hm? Haruka, is something wrong...?
 Haruka: Hehe. I was just thinking that I must've been able to really relax based on the face I'm making here.
@@ -178,4 +170,4 @@ Haruka: Oh...
 Haruka: (Every time she says that... It makes my heart tickle...)
 Haruka: (And I couldn't be happier...)
 Haruka: I can't thank you enough, Minori.
-(Black cut)
+(Black transition)

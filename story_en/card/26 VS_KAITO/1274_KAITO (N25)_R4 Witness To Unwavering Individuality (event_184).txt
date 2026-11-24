@@ -14,15 +14,11 @@ Mizuki's Voice (Mizuki): Hiya, Miku, everyone!
 Ena's Voice (Ena): Oh, Kanade and Mafuyu have also arrived. Over here, you two!
 KAITO (N25): The obnoxious ones are here...
 KAITO (N25): (Wait, they said something about meeting over here to listen to that demo.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): (I still have no idea why, but only the songs she composes have an effect on Mafuyu...)
 KAITO (N25): I guess I'll stay and listen to this one...
@@ -51,26 +47,22 @@ Kanade: Thank you, Ena.
 KAITO (N25): (She's refreshingly easy to understand...)
 KAITO (N25): (Probably because she sees the “her” that she wants to be.)
 KAITO (N25): (Also...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: <Kanade, listen.>
 Ena: <I know you feel awful about what happened to your dad, but there's no point in beating yourself up...>
 Ena: <What I'm trying to say is... I think your happiness is a separate issue.>
 Ena: <Personally, I don't want those two things being so closely tied together...!>
 Ena: <I mean, you're working so hard for the sake of others...! You deserve to be happy too!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): (She's able to put what's on her mind into words. Especially if it involves something she doesn't like...)
 KAITO (N25): (She also seems to be the nosy type. But that's probably just a part of her personality...)
 KAITO (N25): (In any case, Mafuyu lacks that ability to express her emotions using words.)
 KAITO (N25): (They spend so much time together. It'd save me a lot of hassle if she'd passively have some effect on Mafuyu.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -83,23 +75,19 @@ Miku (N25): Oh, KAITO, there you are...
 KAITO (N25): What is it...?
 Miku (N25): Would you like to see how Ena's painting turned out with me?
 KAITO (N25): Oh, that painting...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 Miku (N25): <Ena looks like she's having a lot of fun...>
 KAITO (N25): <I guess she found her answer...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): (We saw her finish it, but her work wasn't graded at that point...)
 KAITO (N25): Fine, I'll join you...
 Miku (N25): *Nod* Then, let's go.
-(Black cut)
+(Black transition)
 (Background change)
 Miku (N25): <It's pitch black...>
 KAITO (N25): <Her phone's probably in her bag or her pocket. We'll just have to wait untilー>
@@ -122,7 +110,7 @@ Miku (N25): <KAITO, does this mean...>
 KAITO (N25): <Yes...>
 KAITO (N25): <At the very least, she didn't get the grade she wanted.>
 Miku (N25): <Oh...>
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Empty SEKAI)
 KAITO (N25): How long do you plan on maintaining that sad expression on your face...?
@@ -131,19 +119,15 @@ KAITO (N25): You say that, but you didn't call out to her after we stayed over t
 Miku (N25): That's because... Ena and her teacher were discussing something very important.
 KAITO (N25): There's no point in worrying about her...
 KAITO (N25): You heard what she said.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: But... But...!
 Ena: Even so, I still want to go to Tokyo Art University...!
 Ena: I know that's impossible. I know that someone like me shouldn't bother, but...
 Ena: I don't want to give up...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): She's already chosen which path she's going to go down... There's no need for us to intervene.
 Miku (N25): *Nod*
@@ -162,4 +146,4 @@ KAITO (N25): Anyway, that's it from me. Bye...
 Miku (N25): Wait...
 Miku (N25): Thank you for coming with me, KAITO.
 KAITO (N25): Hmph...
-(Black cut)
+(Black transition)

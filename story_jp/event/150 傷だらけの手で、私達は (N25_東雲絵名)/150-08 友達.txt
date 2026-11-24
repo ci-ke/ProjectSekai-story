@@ -82,30 +82,22 @@
 絵名: きっとその方が……瑞希にとって、幸せなんだろうから
 瑞希: え……な……
 瑞希: ボクは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ——変なの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ボク、は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (N25): 『逃げたいのなら、逃げてもいい』
 MEIKO (N25): 『けれど、これが向き合える最後の機会かもしれないわ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 瑞希: …………どうしたら、いいんだろう…………？
-(White cut)
+(White transition)
 (Background change)
 瑞希: ……いいのかなあ……？
 瑞希: ボク、まだ、一緒にいて……
@@ -113,7 +105,7 @@ MEIKO (N25): 『けれど、これが向き合える最後の機会かもしれ�
 瑞希: 怖くて……信じられなくなって……！ どうしようもなくなる時が、絶対にくるんだ！！
 瑞希: でも…………
 瑞希: でも…………っ
-(White cut)
+(White transition)
 (Background change)
 瑞希: それでも、傍に居ていいって、ボクも思いたい……！
 瑞希: 友達でいたいよ……！！
@@ -133,15 +125,15 @@ MEIKO (N25): 『けれど、これが向き合える最後の機会かもしれ�
 瑞希: 一緒に居ていいって、ずっと思えるようになりたい……っ！！
 絵名: ——じゃあ
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000385/bg_s000385.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000385/bg_s000385.webp)
 絵名: 一緒にいようよ、瑞希
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000382/bg_s000382.webp)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000382/bg_s000382.webp)
 絵名: ニーゴのみんなも、待ってるよ
 瑞希: …………っ！
 瑞希: っ、うぁああああああっ……！
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Video: 05_night_ed3)
-(Black cut)
+(Black transition)

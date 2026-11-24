@@ -9,19 +9,15 @@ Skill name: Communicating Through Gestures
 [Wonderland SEKAI]
 
 Len: Talk about a busy day.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len: But I'm really glad they were able to pull together and keep that show going.
 Len: Oh, Tsukasa might be home by now... I think I'll go see if he is.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tsukasa's Room]
@@ -40,7 +36,7 @@ Tsukasa: Hm? This number... It must be my handler from the Chocolate Factory.
 Len: <Why do you think they're calling? Anyway, I'll head back in for now!>
 Tsukasa: Yes, if you don't mind. I'll let you know once I'm done with this call.
 Len: <Okay!>
-(Black cut)
+(Black transition)
 Len: <Yay! I'm back!>
 Tsukasa: Again, Len, I'm sorry about that. Can you pick up where you left off?
 Len: <You don't have to apologize. By the way, did they mention why they called you?>
@@ -53,17 +49,13 @@ Tsukasa: Yes. I wasn't sure how things would go at first, but all's well that en
 Tsukasa: To compensate, they're giving me an opportunity to make my own chocolate!
 Len: <Wait, really?! That's perfect!>
 Len: <Remember how everyone shared the chocolates they made with you after the show?>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Tsukasa's Voice (Tsukasa): I... I don't know what to say...! I feel so blessed to have such wonderful juniors...! *Sob*
 Tsukasa's Voice (Tsukasa): Waahhh! Why are homemade chocolates so heartwarming?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len: <That's when I thought that you should make some chocolates yourself!>
 Tsukasa: Yes, I see. My own chocolates...
@@ -93,7 +85,7 @@ Len: <Yes, I'm in! I'm definitely in! Thank you so much, Tsukasa!>
 Tsukasa: Wonderful! Let's start by coming up with what to draw!
 Tsukasa: Remember to keep chocolatey thoughts in mind as you draw yours, Len!
 Len: <Okay! I'll go find a pen and some paper!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -133,7 +125,7 @@ Len: <Yeah!>
 Staff: Alright, let's get started. Shall we?
 Tsukasa: Yes, let's!
 Len: (Yeah, let's!)
-(Black cut)
+(Black transition)
 Staff: In order to maximize the structural integrity and overall aesthetics of your Pegasus, it may be wise to avoid mixing in nuts or anything else.
 Staff: On the other hand, your Miku chocolates should be able to accommodate a few extra additions while still looking cute.
 Tsukasa: I see...
@@ -149,7 +141,7 @@ Tsukasa: Now he has his right hand pointing right with his left counting one, tw
 Tsukasa: Now I understand! Three of the third topping from the right!
 Tsukasa: Hahaha! Roger, Len! Coming right up!
 Len: (No, he's so close...! Third from the right, but not three of them...!!)
-(Black cut)
+(Black transition)
 Staff: That should be it. Everything turned out very nicely.
 Staff: I recommend putting together the Pegasus just before you present it and leaving it as is in a safe place until then.
 Tsukasa: Understood. Thank you very much for your time today.
@@ -163,4 +155,4 @@ Len: <Now to wait for the big day!>
 Tsukasa: Yes. I'm looking forward to seeing how everybody reacts.
 Len: <Yeah!>
 Len: (Thanks to Tsukasa, I've been able to get a great return gift together. I have to make sure everyone loves what they get!)
-(Black cut)
+(Black transition)

@@ -16,17 +16,17 @@
 みのり: 事故ゼロは、みんなの夢！
 みのり: 夢を叶えるために、今日も交通ルールを守って 笑顔の帰り道にしましょう！
 みのり: （希望を、もっとたくさんの人に！）
-(Black cut)
+(Black transition)
 ナレーション: MORE MORE JUMP！　花里みのり——
 ナレーション: １週間の密着取材を通して、 彼女がたくさんの人々に愛される理由がわかった
-(White cut)
+(White transition)
 (Background change)
 ナレーション: 彼女が努力し、笑顔で頑張る姿を見ていると
 ナレーション: 誰もが、明日も頑張ろうと思えてくる
-(White cut)
+(White transition)
 (Background change)
 ナレーション: きっと彼女はこれからも、 “明日をがんばる希望”を届け続けるだろう
-(Black cut)
+(Black transition)
 (Background change)
 リン (MMJ): わあ……っ！
 リン (MMJ): みのりちゃん、すごーい！ みんながキラキラ笑顔になる、素敵なアイドルだったよ！
@@ -62,7 +62,7 @@
 愛莉: そうよ。目指すは国民的アイドル！
 愛莉: ここからも、まだまだ気合い入れていくわよ！
 みのり: おー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cheerful＊Days シアター　控え室]
@@ -74,4 +74,4 @@
 アリサ: へえ。どこのグループ？
 真理奈: えっとですね——
 アリサ: …………そう
-(Black cut)
+(Black transition)

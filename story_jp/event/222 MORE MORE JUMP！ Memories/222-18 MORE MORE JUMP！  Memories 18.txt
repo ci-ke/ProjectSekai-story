@@ -3,7 +3,7 @@
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, MEIKO)
 
 : 視聴者にアピールするためのLUMINAタイム。 その次なる課題は——互いの曲をトレードして披露する 『トレードライブ』
-(Black cut)
+(Black transition)
 (Background change)
 司会: Aのグループは、MORE MORE JUMP！と——
 司会: Cheerful＊Daysです！
@@ -19,10 +19,10 @@
 アリサ: ……当たり前でしょ。 まあ、よりによって？って感じではあるけど
 アリサ: やるからには最高のステージを目指すから。 そっちも、そのつもりでいてよ
 雫: ——ええ！
-(Black cut)
+(Black transition)
 (Background change)
 : お互いの曲について、教え合いながら練習に励む雫達だが——
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO (MMJ): 『あの子達……Cheerful＊Daysの子達よね？』
 雫: ええ、このタイミングで会うなんて、偶然ね。 ちょっと挨拶に——
@@ -42,10 +42,10 @@ MEIKO (MMJ): 『え……？』
 雫: それどころか、私にも真剣に教えてくれて—— みんな、本気でこのステージと向き合っているのよね
 雫: だから私も、その想いに応えたい
 雫: そして、昔迷惑をかけてしまった分 今度は私が、少しでもみんなの力になれたら……嬉しいわ
-(Black cut)
+(Black transition)
 (Background change)
 : そんな中、Cheerful＊Daysの躓きに気付いた雫は、 迷いながらも手伝いを申し出る
-(Black cut)
+(Black transition)
 (Background change)
 アリサ: それで私達の完成度が上がったら…… 最終的に不利になるかもしれないとか、思わないの？
 雫: ……そうね。 ライバルとしては、正しくない行動かもしれないわ
@@ -54,7 +54,7 @@ MEIKO (MMJ): 『え……？』
 アリサ: ——１回通しで踊るから、全部教えて
 アリサ: どんなに小さくてもいいから、 雫が気づいたこと、全部
 雫: ……！
-(Black cut)
+(Black transition)
 雫: サビ前のステップなんだけど、もっとよくなる気がして…… 一緒に合わせながら確認したいの
 アリサ: ……まったく……
 アリサ: チアデが圧勝して、後悔しても知らないから
@@ -64,18 +64,18 @@ MEIKO (MMJ): 『え……？』
 アリサ: ……ホント、言うようになったね
 アリサ: それで——サビ前だっけ？ 合わせるよ
 雫: ええ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000502/bg_s000502.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000502/bg_s000502.webp)
 アリサ: ——１、２、３、４！
 雫・アリサ: 『——♪！　——♪！』
 真理奈: わ……あのふたり、息ぴったりですね！
 メンバーA: …………そうだね
 メンバーA: ほら真理奈、よそ見してないで私達もやるよ！
 真理奈: あ、はいー！
-(Black cut)
+(Black transition)
 (Background change)
 : そして、本番のステージが終わり——
-(Black cut)
+(Black transition)
 (Background change)
 コメント: 『お疲れさま～～～！』 『ReLightのダンスよかった！』 『ひかりんとバラードは混ぜるな危険（褒めてる）』
 コメント: 『でもやっぱり、チアデとモモジャンが圧倒的だったな』
@@ -115,4 +115,4 @@ MEIKO (MMJ): 『え……？』
 雫: （……もっと、自分を磨かなくちゃ）
 雫: （私達の夢を叶えるために。そして——）
 雫: （いつか来る“その時”、 ライバルにふさわしい私でいたいから）
-(Black cut)
+(Black transition)

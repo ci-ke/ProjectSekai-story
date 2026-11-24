@@ -29,15 +29,15 @@
 少年: は、はい……！
 少年: すぅ……はぁ……
 少年: ……鳴らすんだ。 あの音を——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000338/bg_s000338.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000338/bg_s000338.webp)
 少年: あ……！ い、今、聴こえましたか！？
 冬弥: ああ……！ 聴こえた！
 冬弥: ——とても美しい音だった
 少年: 僕……本当に……！！
 少年: ありがとうございます！
 少年: 本当に……本当にありがとう！　お兄ちゃん！
-(White cut)
+(White transition)
 (Background change)
 杏: すごいよ！　ちゃーんとかっこよく鳴らせたじゃん！
 まふゆ: おめでとう。 綺麗な音だったよ
@@ -73,15 +73,11 @@
 奏: わたしも、お父さんのキーボードを初めて鳴らした時、 すごくドキドキしたから
 奏: あの時の音は……今でも覚えてる
 奏: 音がキラキラ、輝いてるみたいで——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……あの子にとっても、 今日がそんな思い出の日になってるといいな
 冬弥: ええ——そうですね
@@ -94,4 +90,4 @@
 冬弥: 機会があれば——またどこかで
 奏: うん
 杏: それじゃあ、お疲れさまでした！ 気を付けて帰ってくださいね！
-(Black cut)
+(Black transition)

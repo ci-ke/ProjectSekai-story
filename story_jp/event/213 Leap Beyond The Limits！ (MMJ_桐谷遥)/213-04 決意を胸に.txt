@@ -32,15 +32,11 @@
 遥: ……客観的に見て、次に勝つのはチアデ。 周りの人達がそう思うのは、よくわかるよ
 遥: だけど、私達に勝機がないわけじゃない
 みのり: え……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 有澤さんが言ってたよね。 どんな変化の中でも自分達らしく輝けるように——
 遥: そのためには、何をなすべきかを考えて 努力し続けてほしいって
@@ -61,4 +57,4 @@
 遥: （……不利な状況は、何も変わってないままだ）
 遥: （それでも——必ず見つけ出してみせる）
 遥: （私達が、チアデよりも輝ける道を——！）
-(Black cut)
+(Black transition)

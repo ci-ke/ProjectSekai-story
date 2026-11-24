@@ -18,7 +18,7 @@
 奏: 今日は眠ってるから、話せなかったけど……
 ルカ (N25): 『そう……』
 奏: ——じゃあ、帰ろうか
-(Black cut)
+(Black transition)
 (Background change)
 
 [廊下]
@@ -49,4 +49,4 @@
 奏: えっ……
 奏: （待ってて、って言ってたのに 行かせちゃって良いのかな）
 奏: （それに——）
-(Black cut)
+(Black transition)

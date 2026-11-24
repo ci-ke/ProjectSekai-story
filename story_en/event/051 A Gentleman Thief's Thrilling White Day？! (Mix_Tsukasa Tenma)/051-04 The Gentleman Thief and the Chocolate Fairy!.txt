@@ -11,7 +11,7 @@ Tsukasa: Chocolates that look and taste however they imagine with any topping th
 Len: <Really?! That sounds like way too much fun!>
 Len: <I wanna try making some! Miku would love it if I made some that looked like her!>
 Tsukasa: Ah, wonderful idea! That may be something I should try...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Green Room]
@@ -26,7 +26,7 @@ Tsukasa: More importantly, you really don't look well. Are you sure you're feeli
 Hamano: Yes, I'm fine... Thank you for being so concerned.
 Hamano: I know we lost a lot of time with me being gone, so let's read through this script and get to rehearsing.
 Tsukasa: Great!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Chocolate Factory)
 Staff: You've all been doing a wonderful job. Now, we'll need to wait for our chocolates to cool.
@@ -36,7 +36,7 @@ Haruka: You did put quite a lot of effort into yours, Hinomori. If I didn't know
 Haruka: You really inspired me to do better.
 Shiho: A-Are you sure...? I'm happy with what I made, but I don't think they turned out that well...
 Shiho: But thanks...
-(Black cut)
+(Black transition)
 Mizuki: Humhumhuuum♪ I hope they turn out really cute♪
 Akito: They already did while you were decorating them. Aren't you asking for too much at this point...?
 Mizuki: I'm not being greedy or anything! I just can't wait until they're done! Don't you feel the same way, Li'l Bro?
@@ -44,16 +44,16 @@ Akito: Kinda, not really? I do just want to try them already...
 Mizuki: That means you're looking forward to yours too! We're both just as excited♪
 Mizuki: Also, I can't believe how amazing everyone's chocolates look. You can tell they worked really hard on them!
 Akito: Yeah, I agree with you there.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Green Room)
 Employee: Ready, Hamano, Tenma...? We need you on stand-by!
 Tsukasa: Great!
 Hamano: Ready...
-(Black cut)
+(Black transition)
 (Background change)
 Len: (It's almost showtime! You've got this, Tsukasa...!)
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Chocolate Factory)
 Children: Are they finished yet?
@@ -64,7 +64,7 @@ Shiho: They were smacking their lips the whole time while making them too... Hm?
 Visitors: Wh-What was that?
 Haruka: Is someone laughing...?
 Shiho: Hang on... I know that voice...
-(Black cut)
+(Black transition)
 Akito: That voice... It can't be... What would he be doing in a place like this...?
 Mizuki: What are you jinxing yourself for, Li'l Bro?
 ???: “What a sweet smell! Proof that there is chocolate here!”
@@ -72,15 +72,15 @@ Choco Maniac (Tsukasa): “I am the great phantom thief, the Choco Maniac! The g
 Akito: You've gotta be kidding me...
 Mizuki: Whoa! It's really Tsukasa! It's your lucky day, Li'l Bro!
 Akito: What are you talking about? You're making it sound like I brought him here or something.
-(Black cut)
+(Black transition)
 Choco Maniac (Tsukasa): “Heh heh heh. I'm sensing some delicious chocolates in these refrigerators!”
 Choco Maniac (Tsukasa): “Your yummy treats will all be mine! Let's start with the ones in here!”
 Children: No!! Stop!!
 Children: We made those chocolates!!
-(Black cut)
+(Black transition)
 (Background change)
 Len: (Uh oh! Here come all the kids! They're really eating this stuff up!)
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: (Excellent. The guests seem to be enjoying everything so far. Next is...)
 Chocota: “Stop right there, Choco Maniac!”
@@ -98,7 +98,7 @@ Chocota: “Your mother and father? How delightful! That means you must've worke
 Choco Maniac (Tsukasa): “G-Grr... Yes, that's very sweet... Fine, I won't take yours...”
 Choco Maniac (Tsukasa): “But there are plenty more chocolates where that came from! For example, you there, the well-groomed gentleman!”
 Older Gentleman: Me? Um... These are for my wife because she's been so good to me...
-(Black cut)
+(Black transition)
 Shiho: Why's Tsukasa here...?
 Haruka: Is something wrong, Hinomori?
 Shiho: Um, well... The guy playing the Choco Maniac... I sort of know him...
@@ -116,10 +116,10 @@ Haruka: That's so sweet. They'll get to exchange gifts with each other forever.
 Shiho: Yeah, it really is... Huh...?
 Chocota: “...”
 Shiho: Chocota's gone all quiet for some reason...
-(Black cut)
+(Black transition)
 (Background change)
 Len: (Hm? What's going on...? The show's still going, right? Did something happen..?)
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: (The one asking questions, Hamano in this case, is supposed to provide a suitable reaction here...)
 Tsukasa: (But he may've forgotten, so maybe I should take his place and...)
@@ -128,4 +128,4 @@ Tsukasa: Huh?
 Hamano: *Sob* *Cry*
 Tsukasa: ?!
 Tsukasa: (I-Is Chocota crying...?!)
-(Black cut)
+(Black transition)

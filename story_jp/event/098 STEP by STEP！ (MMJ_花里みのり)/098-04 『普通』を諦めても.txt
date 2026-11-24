@@ -2,7 +2,7 @@
 
 (Character: 星乃一歌, 望月穂波, 日野森志歩, 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 小豆沢こはね, 白石杏)
 
-(White cut)
+(White transition)
 (Background change)
 
 [花里家　リビング]
@@ -32,28 +32,20 @@
 みのりの父: それはつまり、人生でたった１度しか経験できない 『普通の高校生活』を送ることを諦めるって ことになると思うけど——
 みのりの父: それでもみのりは、単位制を選ぶ覚悟があるんだね？
 みのり: （……入学してから、まだ１年も経ってないけど、 今まで、いろんなことがあった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （普通の学校生活が送れてたから、 志歩ちゃんやこはねちゃんに会えた。それで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （臨海学校も文化祭も、いっぱい……いっぱい、楽しめた。 これは、わたしが普通の高校生だったからできたことで……）
 みのり: （単位制にいくことになったら、 こういう経験はできなくなっちゃうかもしれない）
@@ -78,10 +70,8 @@
 みのり: わたし、絶対にたくさんの人に希望を届けるアイドルに——、 誰にも負けないトップアイドルになるよ
 みのり: だから……どうかこれからも——
 みのり: 末永く、よろしくお願いしますっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [宮益坂女子学園　屋上]
@@ -93,17 +83,13 @@
 愛莉: わたしが話すまでもなく、 アンタは答えに辿り着いてたのね
 みのり: でもでも、さっきの愛莉ちゃんの言葉、 すっごく勇気がもらえたよ！
 雫: さっきの……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 愛莉: ……友達とのつながりは、簡単にはなくなったりしないわ。 一度生まれた想いのつながりは、きっとどこかに残ってる
 愛莉: もしかしたら……ちょっと見失うことはあるかもしれないけど
 愛莉: でも——諦めないで、お互いの想いをちゃんと伝えあえば、 きっと取り戻すこともできるんだって、わたしは思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 みのり: 『友達とのつながりは、簡単にはなくなったりしない』——
 みのり: わたしも、そう信じたいって思うから！
 愛莉: みのり……
@@ -115,4 +101,4 @@
 みのり: あっ、そういえば、 単位制になった時のことイメージしたくて、 実際にスケジュールを組んでみたんだけど……
 みのり: 見て見て！ わたしと遥ちゃんが単位制にいったら、ここの時間があくでしょ？
 みのり: そしたら、前に断らなきゃダメかもって言ってた、 このお仕事がね——
-(Black cut)
+(Black transition)

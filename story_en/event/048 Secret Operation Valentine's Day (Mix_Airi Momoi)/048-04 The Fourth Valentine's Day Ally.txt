@@ -39,7 +39,7 @@ Rin: <Yay! Awesome! Good luck, Airi! I'll be rooting for you!>
 Airi: Hehe. I promise to do my best!
 Airi: I'll let you know when we get started tomorrow, so could you wait until then?
 Rin: <Okay, just don't forget!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -57,7 +57,7 @@ Saki: Exactly. That's why I want you to relax a little today for a change, Tsuka
 Tsukasa: Alright, point taken. Again, I should be home before it gets too late, but be sure to call me if you need anything.
 Tsukasa: I'll be off!
 Saki: Bye! And be careful!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -78,7 +78,7 @@ Ichika: In fact, she said that she'd be with her family...
 Tsukasa: Wh-What?!
 Tsukasa: Saki... Please don't tell me that you've been lying to all of us this whole time!
 Ichika: P-Please try to calm down. I'm sure it's nothing serious...!
-(Black cut)
+(Black transition)
 Shizuku: That dessert we had yesterday was so good.
 Shizuku: I'm sure Airi will like it very much if I got her something like that for Valentine's Day.
 Shizuku: Hm? Is that...?
@@ -86,4 +86,4 @@ Ichika: Oh, Shizuku, hello!
 Tsukasa: Hm? Ah, Shizuku!
 Shizuku: Hello to the both of you.
 Shizuku: What brings you two here?
-(Black cut)
+(Black transition)

@@ -32,7 +32,7 @@
 咲希: よ～っし！ じゃあさっそく、どんどんいっちゃうよ！
 咲希: まず初めは——
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 咲希: この新メニューのケーキが、すっごくおいしいんだって！
 一歌: へえ……夜限定なんだ
@@ -43,7 +43,7 @@
 志歩: べ、別に全員違うの頼むなら らしいもらしくないもないでしょ……
 遥: じゃあ、私はこのクマがのってるケーキ頼むから、 クマの部分は日野森さんにあげるね
 志歩: だから気にしなくていいって！
-(Black cut)
+(Black transition)
 (Background change)
 みのり: うう～ん…… 全然ボール当たんないよ～
 志歩: まあ、当たってはいるけどね。 ……隣のレーンに
@@ -53,7 +53,7 @@
 咲希: すっ……すご！ これがアイドルパワー……！？
 みのり: え～っ！ わたしもアイドルなんだけどな～！！
 こはね: が、頑張って、みのりちゃん！ 次は当たるよ！
-(Black cut)
+(Black transition)
 (Background change)
 遥: うーん…… あと少し……ほんの少しだけ右かも
 一歌: こっ……これくらいかな
@@ -72,7 +72,7 @@
 みのり: （今日、時間を作ってもらえて本当によかった。 ……咲希ちゃんには、い～っぱい感謝しなくちゃ！）
 みのり: （……単位制にいったら、 こうやって遊ぶことも少なくなっちゃうと思うけど……）
 みのり: （——ううん。 だからこそ、今日は最後まで、い～っぱい楽しまなくっちゃ！）
-(Black cut)
+(Black transition)
 (Background change)
 (Place: スクランブル交差点)
 みのり: はあ～！ たっくさん遊んだね！
@@ -114,8 +114,8 @@
 志歩: きっと、勉強とか大変になるだろうけど…… もし助けが必要になるようだったら、いつでも声かけて
 こはね: みのりちゃんと遥ちゃんにいつでもノート貸せるように、 私達も真面目に授業受けなくちゃね
 みのり: ……——っ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000202/bg_s000202.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000202/bg_s000202.webp)
 みのり: ありがとう！
 志歩: わっ……みのり！？
 みのり: ホントにホントにホントに…… 本当に、すっっっごく嬉しいよ！
@@ -123,7 +123,7 @@
 みのり: みんなと一緒に遊べたこと、 一生の宝物にするから！
 こはね: みのりちゃん……
 志歩: ……大袈裟なんだから
-(White cut)
+(White transition)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

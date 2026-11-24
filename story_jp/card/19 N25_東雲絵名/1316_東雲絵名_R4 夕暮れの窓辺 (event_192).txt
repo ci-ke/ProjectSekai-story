@@ -44,17 +44,15 @@ Gacha phrase: ちょっと、何その顔
 絵名: （……それはやめとこ。 課題は課題、ニーゴはニーゴで気持ち的にも切り替えたいし）
 絵名: 『……ねえ、ちょっとふたりに相談があるんだけど』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 絵名の部屋)
 絵名: （……よし。１枚目よりもずっと良くなってる）
 絵名: （私の武器は世界観——）
 絵名: （だから——描きたいと思うものを、ちゃんと描く。 あとは技術力を鍛えていかなきゃ）
 絵名: （……ふたりにも、応援してもらったしね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『……悪いけど、私はもう進められる作業がないから、 絵の課題を優先しようと思う』
 絵名: 『課題が終わってる時とか、気晴らしにイラスト描きたい時とか そういう時は顔を出すけど……』
@@ -72,35 +70,29 @@ Gacha phrase: ちょっと、何その顔
 瑞希: 『そんなの、長い付き合いによる勘だよ！』
 (Background change)
 絵名: 『……もう。サボるとかどうとか、 Amiaに言われたくないんだけど？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （私が今よりもいい絵を描けるようになれば、 ニーゴのイラストももっと良くなる）
 絵名: （奏もたくさん悩みながら、必死に曲を作ってくれてる）
 絵名: （その曲に恥ずかしくないイラストを—— ほんの少しでも、描けるようになっておきたい）
-(Black cut)
+(Black transition)
 
 [翌日]
 
 絵名: ふう…………
 絵名: ここから先は、絵の具が乾かないとダメだな
 絵名: （……今のところ調子よく描けてる。 でも、ここで満足したら絶対にダメ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （あの日の気持ちを、忘れちゃ——）
 母親: 絵名、ちょっといい？
 絵名: ……お母さん？
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -123,7 +115,7 @@ Gacha phrase: ちょっと、何その顔
 絵名: うーん、やっぱりこれだと、 ゼリーにぎっしり詰まってるフルーツの質量は伝わるけど、 見た目の綺麗さが出し切れてないな
 絵名: じゃあ、次は——
 絵名: あれ？　思ってたのとちょっと違うな。 だったらこうして——
-(Black cut)
+(Black transition)
 絵名: ……あっ！　もう変な反射が入っちゃった。 もう１回——
 母親: ……ねえ、絵名。 お母さん、そろそろゼリー食べたいんだけど？
 絵名: ダメ。あともうちょっと待ってて
@@ -134,7 +126,7 @@ Gacha phrase: ちょっと、何その顔
 母親: ふふ、なんのこと？ いただきます
 絵名: もう……。 いただきまーす
 絵名: ……おいしー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -144,20 +136,16 @@ Gacha phrase: ちょっと、何その顔
 [宮益坂]
 
 絵名: はあ……。今日もC評価か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……あれから、いくつか課題はやってるけど 全然、評価変わんないな）
 絵名: （ううん、焦っちゃだめだ。 そう簡単にうまくなれるほど、甘くないんだから）
 絵名: （今は、私にできることをやっていかないと——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校]
@@ -181,19 +169,15 @@ Gacha phrase: ちょっと、何その顔
 絵名: まふゆのこと、いろいろ考えちゃってただろうし
 瑞希: そうだね。ボクも、あれこれ考えてて 寝つき悪かったなあ
 絵名: やっぱそうだよね。 でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: でも、居場所がなくなるかもしれない—— それが嫌で、怖いって気持ちはボクにもあったから
 瑞希: 何も言わなければ、本当のことを話さなければ このままでいられるかも——
 瑞希: それなら、黙って、ごまかして、隠してればいい
 瑞希: どうしても辛くなったら—— もう、逃げちゃおうって思っちゃうんだけどさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 居場所のこととか、 瑞希がどんな風に考えてたのか、知れてよかったな
 瑞希: あはは。もともと、まふゆに『逃げてもいい』って アドバイスしたのはボクだしさ
@@ -222,4 +206,4 @@ Gacha phrase: ちょっと、何その顔
 絵名: ちなみに、疲れのことなら心配しないで。 本当にただの寝不足で、奏みたいに根詰めてるとかじゃないし
 絵名: もし、根詰めてたとしても ちょうど今、いい気晴らしできてるしね
 瑞希: あはは！　どういたしまして！
-(Black cut)
+(Black transition)

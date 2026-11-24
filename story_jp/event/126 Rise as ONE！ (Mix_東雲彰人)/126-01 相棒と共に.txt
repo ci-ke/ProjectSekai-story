@@ -27,14 +27,10 @@
 彰人: ……いや待て。 犬用のディスクがここにあるってことは——
 マックス: ハッ、ハッ、ハッ！
 彰人: げっ……！ あ、あの犬、やっぱりこっちに向かって……！！
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 彰人: ……っ！
 彰人: （っ、やべえ、どうする……！）
 彰人: （……そうだ、ディスク！ こいつをどこか遠くに投げれば……！！）
@@ -92,16 +88,12 @@
 彰人: …………ふう
 彰人: （なんか、騒がしいヤツだったな）
 彰人: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 石原: いつかそこで優勝して、 日本一のチームになるのが僕達の夢なんです！
 石原: な、相棒！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: （……あいつも、相棒と頑張ってるんだな）
 彰人: ——よし。もういっちょ走るとするか
-(Black cut)
+(Black transition)

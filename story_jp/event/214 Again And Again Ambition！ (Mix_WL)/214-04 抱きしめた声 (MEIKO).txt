@@ -28,14 +28,14 @@ MEIKO: はぁ、はぁ……。 どうにか見つけられたわ……！
 絵名: でも、濡れてない……
 MEIKO: 想いの欠片の象徴のようなもの――だからかもしれないわ。 そして、声がしているのはここからよ
 MEIKO: ……ずっと何かを言っているわ。 まだ途切れ途切れで、ちゃんとは聴こえないけれど——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000627/bg_s000627.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000627/bg_s000627.webp)
 MEIKO: ——聴かせてちょうだい
 MEIKO: あなたの想いを、知りたいの
 MEIKO: （ここは想いの欠片のセカイ。 しばらくしたらすべて、幻みたいに消えてしまうわ）
 MEIKO: （でも、このままあなたの想いに消えてほしくない）
 MEIKO: （こんな場所を作るほど—— あなたにとって大事な想いなんだから）
-(White cut)
+(White transition)
 (Background change)
 声: 『——…………っ』
 愛莉: ……！　何か聞こえてくるわ！
@@ -72,7 +72,7 @@ MEIKO: ……！
 MEIKO: ——聴かせてくれて、ありがとう
 MEIKO: あとは任せて。 頼もしい仲間がいるの
 モンスター: ——ガアッ！！
-(White cut)
+(White transition)
 (Background change)
 MEIKO: ……ふぅ。なんとか戻ってこれたようね……
 絵名: よ……よかったぁ……！ もう、生きた心地がしなかったんだけど！
@@ -114,7 +114,7 @@ MEIKO: でも、どこまでできるかはわからないから…… どうか
 絵名: あ、じゃあ私も……って、 さすがに部外者が行ったら警戒しちゃうか
 愛莉: そうね。でも様子は知りたいから…… ふたりが話してるところを陰から見守るのはどう？
 絵名: それならいいかも！ 顔見るだけでも、雰囲気わかるだろうし——
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -142,4 +142,4 @@ MEIKO (MMJ): 『どうしたのかしら……？ とりあえず、聞いてみ
 彰人: 俊輝は——
 彰人: 漫画を描くのを、辞めるらしい
 絵名: ……え……！？
-(Black cut)
+(Black transition)

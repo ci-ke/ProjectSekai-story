@@ -10,41 +10,33 @@
 穂波: （ウォーミングアップ、これくらいでいいかな。 だいぶ腕もあったまってきたし）
 穂波: （そろそろみんなも来る時間だよね。それまでは……）
 穂波: （……あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真堂: 突然ですが、ひとつ質問をさせてください。 皆さんの……『目指す音楽』とは、なんですか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （……やっぱりまだ見つけられないな）
 穂波: （真堂さんに考えてほしいって言われた、 わたしの『目指す音楽』……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: アタシは……音楽で、 聴いてくれる人を元気にできたらいいなって思います
-(White cut)
+(White transition)
 一歌: 私は——音楽で、歌で みんなをつなげていきたいって思います
-(White cut)
+(White transition)
 (Background change)
 志歩: やっぱり私は、お客さんの心を震わせる演奏がしたい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 穂波: （みんなは、もうちゃんと答えを出した……。 わたしも早く自分の答えを見つけないと）
 穂波: （焦らなくていい、ってみんなは言ってくれるけど、 ずっと待たせるわけにはいかないよね……）
 咲希: ——ほなちゃん！　もう来てたんだ！
 穂波: あ……うん！　先に体をあっためておこうと思って
 志歩: そっか。 じゃあ、早いとこ私達も準備しようか
 一歌: うん
-(Black cut)
+(Black transition)
 一歌: ♪————！！！
 ミク (Ln): へえ……
 レン (Ln): すごいな……！　なんかいつもより、 演奏に勢いがあるっていうか……
@@ -53,15 +45,11 @@ MEIKO (Ln): 前より一段と力をつけたって感じがするね
 穂波: （みんなの音、いつもよりずっと力強く響いてくる）
 穂波: （どうしてこんなに……）
 穂波: （——あ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （もしかして、みんなの『目指す音楽』が決まったから？）
 穂波: （だから音にも気持ちが乗って、 いつもより演奏に勢いがあるのかも……）
@@ -70,7 +58,7 @@ MEIKO (Ln): 前より一段と力をつけたって感じがするね
 穂波: あ……！
 穂波: っ、ごめん……
 穂波: （だめ……。今は演奏に集中しないと）
-(Black cut)
+(Black transition)
 ミク (Ln): ——お疲れさま、みんな。 いい演奏だったよ
 咲希: ありがとう、ミクちゃん！ アタシも弾いてて、すっごく楽しかった！
 志歩: でも、まだそろってないところはあったし 休憩したらもう１回やろう
@@ -84,7 +72,7 @@ MEIKO (Ln): 前より一段と力をつけたって感じがするね
 咲希: わあ……ありがとうほなちゃん！ 楽しみだな～！
 穂波: ふふ、それじゃあちょっと待っててね
 一歌: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ソリス・レコード事務所]
@@ -120,4 +108,4 @@ MEIKO (Ln): 前より一段と力をつけたって感じがするね
 ソリス・レコード社長: ああ。実は今、 うちに、大きな仕事の話が舞い込んできていてね
 真堂: それは……
 真堂: 詳しく話を聞かせていただきたいですね
-(Black cut)
+(Black transition)

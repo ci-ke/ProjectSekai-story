@@ -15,7 +15,7 @@ Emu: Hehe. I hope lots and lots of people decide to sign up... Wait, huh?
 Student A: ...
 Emu: (The girls outside the classroom are looking at our poster! Does that mean they're interested? If so...)
 Emu's Voice (Emu): Hi there! Do you happen to be interested in volunteering...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -27,7 +27,7 @@ Emu: Yes... So, combined with the people you got to sign up, that makes three in
 Mafuyu: To be fair, you just put up that poster the day before yesterday.
 Mafuyu: And feeling bad about ourselves won't solve anything, so why don't we keep trying to come up with new ideas?
 Emu: Oh, you're right...! Let's see... Then, what if we...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Emu's Room]
@@ -35,15 +35,11 @@ Emu: Oh, you're right...! Let's see... Then, what if we...?
 Emu: Hmm...
 Emu: (Asahina and I brainstormed a lot together, but we couldn't come up with any ideas that felt just right...)
 Emu: (Honami helped make our poster really amazing by drawing all those great pictures for us, so anyone who spots it should be able to see how fun it's gonna be...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: Oh...
 Emu: (What if they aren't...?)
@@ -81,7 +77,7 @@ Emu: Okay! I promise to keep trying...! Thanks for the advice, Sis!
 Hinata: Do your best, class rep! I'll be rooting for you!
 Emu: Hehe. I really appreciate it!
 Emu: Alright, I'm gonna get lots and lots of people to volunteer to pull weeds with us!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,13 +117,13 @@ Emu: Oh, hehe... I'm really glad we were able to help him!
 ???: Otori?
 Emu: That voice... Hi, Asahina! Did you come to get me?
 Emu: Ma'am, let's go... Whoa!
-(White cut)
+(White transition)
 Emu: Hnng! Another big gust...! Are you okay, ma—
 Emu: Huh...?
 Emu: (Where'd that old lady go...? She was right next to me a second ago...)
 Emu: (Oh, wait...)
 Emu: (What if she's really fast?!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -158,4 +154,4 @@ Mizuki: Yeah! Especially since the adorable costume that I'm so proud of was mad
 Mizuki: I've gotta think you would've made any ghost you came across smile from ear to ear!
 Emu: Hehe. That'd be so great!
 Emu: Oh, Hinomori, your yuki-onna costume was also really wonderhoy since you looked like the real thing☆ And I loved how you made it snow...
-(Black cut)
+(Black transition)

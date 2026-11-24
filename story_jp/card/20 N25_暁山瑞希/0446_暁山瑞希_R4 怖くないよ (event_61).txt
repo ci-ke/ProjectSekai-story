@@ -18,22 +18,18 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 瑞希: はいはーい。いってらっしゃーい♪
 瑞希: 絵名、奏。すぐそこにベンチあるから、 あそこでまふゆを待ってようよ
 絵名: ……うん。そうしよ
-(Black cut)
+(Black transition)
 奏: ふう……
 瑞希: ふたりとも、大丈夫？ ひょっとしてジェットコースター、ダメだったとか？
 奏: ううん、そういうわけじゃないよ
 奏: ただ、すごく久しぶりに乗ったら……。 こんなに怖かったっけ？って思って
 瑞希: あはは！　スリルをより味わえるようにって リニューアルしたやつだからね！
 瑞希: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ボク達がわーきゃー言ってるあいだも、 まふゆはずっとおんなじ表情だったね
 絵名: ……何考えてるかわからないのはいつものことだけど、 今日は特に、ぼーっとしてない？
@@ -52,28 +48,20 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 瑞希: ……奏、心配？
 奏: ……うん。今日もそうだけど、 前にセカイで話した時も、様子がおかしかったから……
 瑞希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （捨てられかけたシンセサイザーを、 実は回収してまだ使ってたことがお母さんにバレちゃって……。 いろいろ言われたみたいだったしな）
 瑞希: （それに、ここで会った時も——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: （わからない……って、なんだか混乱してたっていうか、 様子がおかしかった）
 瑞希: （ミクやレンがいるからって、あんな状態のまふゆを ひとりにしちゃダメだったのかも）
 瑞希: ふたりとも。 ボク、まふゆを探してくるよ
@@ -94,7 +82,7 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 瑞希: よーし！ まふゆ達が待ってるし、急いで行こっか！
 絵名・奏: 『うん』
 瑞希: （ボクにできることは、きっと少ないと思うけど……。 でも、ちょっとでもまふゆの力になれたらいいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -124,10 +112,8 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 類: 『それはよかった』
 類: 『そういえば、ショーを見にきてくれていたみたいだね。 あのあと、ナイトショーも控えていたから、 挨拶ができなかったけれど……』
 瑞希: 『うん。ショー、すっごく楽しかったよ！』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: 『す、すごい……！』
 瑞希: うん！　ものすごい勢いで側転してる。 しかも連続で！
@@ -135,12 +121,10 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 奏: それであんなに綺麗に側転できるんだね
 まふゆ: ……あとダンス部に水泳部。 たまにソフトボール部にも顔出してるみたい
 奏・絵名: 『……え？』
-(Black cut)
+(Black transition)
 寧々: ♪————！　♪——～～～～！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『宮女の子も類の幼馴染みの子も、 すっごくカワイかったし、カッコよかったなあ』
 (Background change)
@@ -149,15 +133,11 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 瑞希: 『へえ～！』
 (Background change)
 瑞希: 『あ、そうそう。実はボク、 あの側転がメチャクチャすごかった子に 一度会ったことがあったの思いだしてさ！』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『その時は、服選びのセンスがおもしろいなって思って、 かる～く声かけてみただけなんだけど……。 まさか、類の仲間だったなんて』
 類: 『フフ、えむくんはたまに僕らの学校にも遊びにくるから、 そのうち学校でも会えるかもしれないよ』
@@ -176,4 +156,4 @@ Gacha phrase: 怖くないよ～。仲良くしようね！
 瑞希: 『類……』
 (Background change)
 瑞希: 『うん、ありがと！』
-(Black cut)
+(Black transition)

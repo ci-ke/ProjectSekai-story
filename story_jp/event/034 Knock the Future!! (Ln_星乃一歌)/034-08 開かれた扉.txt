@@ -49,7 +49,7 @@
 志歩: 次は私も、何かいい案を出せるようにするよ
 志歩: 一歌、いい詞を期待してるからね
 一歌: ……うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -68,4 +68,4 @@ KAITO: みんなが、新しい扉を開いた気がしたから
 ミク (Ln): ……！　そうだね、先輩として頑張らなくっちゃ
 ミク (Ln): みんな、もう１曲やろう！
 KAITO: ——うん
-(White cut)
+(White transition)

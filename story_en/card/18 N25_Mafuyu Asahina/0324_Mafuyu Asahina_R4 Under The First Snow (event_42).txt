@@ -16,7 +16,7 @@ Mafuyu: Oh, Hoshino, are you also about to head out?
 Ichika: Yes. I just happened to see you walking by...
 Mafuyu: Hehe. So you came over to greet me. Shall we head out together?
 Ichika: *Gasp*...! Yes, please!
-(Black cut)
+(Black transition)
 Ichika: Oh, that reminds me. About that class representative business we were working on just now...
 Ichika: I'm sorry about the first years running behind schedule and having to ask you for help. Right as you were heading to the archery club no less...
 Mafuyu: You don't have to apologize. I'm a class representative just like you, so I felt compelled to see this through to the end.
@@ -57,18 +57,14 @@ Ichika: I mean, I have a better idea of what I want to do, but still don't reall
 Ichika: Honestly, I have only Miku to thank for being able to get this far.
 Mafuyu: ...
 Ichika: Without her, I wouldn't be in a band or even the person you're talking to right now...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: Miku...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -90,7 +86,7 @@ Ichika: Thank you! If you'll excuse me.
 Mafuyu: ...
 Mafuyu: A role model and a savior, huh...?
 Mafuyu: Conversely, what does Miku mean to me...?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -107,16 +103,12 @@ Miku (N25): ...?
 Miku (N25): Hm? Is something bothering you again...?
 Mafuyu: No, it's not that.
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: She's my band's role model and my savior!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What does Miku mean to me...?)
 Miku (N25): ...?
@@ -130,16 +122,12 @@ Mafuyu: (This feeling keeps lingering within me, but I'm not really sure what it
 Mafuyu: (I'm just grasping at straws at this point...)
 Mafuyu: (How can I know more...?)
 Mafuyu: (Oh...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I want you to feel what I did. I want you to smile the way I did back then.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (If I can just put what I'm feeling into words... Like that time Kanade helped me remember...)
 Mafuyu: Miku...
@@ -153,7 +141,7 @@ Mafuyu: Yes, please.
 Miku (N25): ♪—— ♪————
 Miku (N25): ♪———— ♪——~~~~
 Mafuyu: ...
-(Black cut)
+(Black transition)
 Mafuyu: Thank you, Miku...
 Miku (N25): I know...
 Miku (N25): Were you able the think of anything...?
@@ -172,4 +160,4 @@ Miku (N25): ♪—— ♪————
 Miku (N25): ♪———— ♪——~~~~
 Mafuyu: (Just for me...)
 Mafuyu: Thank you, Miku...
-(Black cut)
+(Black transition)

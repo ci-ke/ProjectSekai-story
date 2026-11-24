@@ -29,7 +29,7 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 えむ: ビー玉、全部転がってっちゃったよ！？
 類: おやおや、セットの裏のほうにまで……
 司: 冷静に見てる場合か！ ほら、みんなでビー玉を拾うぞ
-(Black cut)
+(Black transition)
 
 [ステージ袖]
 
@@ -51,15 +51,11 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 ？？？: 『しょうがないよ。類くんは天才だもん。 うちのお母さんも言ってたよ』
 ？？？: 『わたしも類くんみたいに頭がよかったらな～』
 類: （……覚えがある。これは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ……向こうか
 レン (WxS): ……あ、類くん！
@@ -74,7 +70,7 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 類: この破片の様なものなんだけれど、 もしかして想いの——
 類: あ……
 レン (WxS): わっ！　まぶしい！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -105,19 +101,19 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 類？ (類): …………
 類？ (類): そんなの、必要ないよ
 類: えっ……
-(White cut)
+(White transition)
 ミク・レン: 『類くん！？』
 類？ (類): ……え、僕がもうひとり？
 類？ (類): いや、違う……。 これは——
 類？ (類): 僕が小さくなっている！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音レン)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -132,7 +128,7 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 類: その証拠になるかはわからないが、 これまでの記憶はしっかりと保持している。 いや、もしやこれは認識を阻害されているだけで、実は——
 ミク (WxS): よかったー！ 本当にミク達が知ってる類くんだ♪
 レン (WxS): うんっ！
-(Black cut)
+(Black transition)
 類: すまない、あまりにも興味深い現象に 気を取られてしまった
 ミク (WxS): ううん、ちゃんと類くんだってわかって安心したよ！
 レン (WxS): でも、なんで小さくなっちゃったんだろう？
@@ -148,22 +144,18 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 類: なら次に考えるべきは、 その想いがどんな想いなのか、かな
 レン (WxS): きっとヒントになるものが、このセカイにもあると思う！ ちょっと探してみようよ！
 類: ああ
-(Black cut)
+(Black transition)
 ミク (WxS): あっ、これ見て！ 写真みたいなのがたくさんある！
 レン (WxS): 小さい時の類くんから、今の類くんまでいろいろあるね！ あ、これ修学旅行のじゃない？
 ミク (WxS): こっちには体育祭のもあるよ♪ あ、ワンダーステージのショーのも！
 類: （僕の年齢、一緒に写っている人達も場所もバラバラか。 並び順にも規則性はなさそうだね）
 類: （となれば、大事なのは中身のほうかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 類？ (類): ……楽しそうだね。 今の君は
 類？ (類): 昔は、ずっとひとりだったのに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （あの僕の口ぶりからすると、おそらく……）
 類: ……あった
@@ -172,14 +164,10 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 類: （割れてひびが入っているのは、どれも 小学校から中学校にかけてのものだ）
 類: （けれど、同じ時期のものでも 寧々や家族と写っているものにはひびは入っていない……）
 類: （つまり、孤独だった頃の僕を否定したい——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 類: （……いや、逆か）
 類: （『彼』は、今の僕が、 かつての僕を否定しているように感じているのかもしれない）
 類: （あんなに怒っていたのも、『彼』の正体が……）
@@ -188,10 +176,10 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 類: ああ
 類: ここは—— 僕の孤独感から生まれた想いのセカイだ
 類: ……っ！
-(White cut)
+(White transition)
 (Background change)
 レン (WxS): 類くん！？
-(White cut)
+(White transition)
 (Background change)
 類: 戻った……
 類: （周りの空気も、なんだか軽くなったような……）
@@ -208,20 +196,14 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 低学年の類 (類): ……忘れてるんだと思ってた
 低学年の類 (類): 今の君には、仲間とたくさんの友達がいるから
 類: ……忘れたことなんて、一度もないよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: あの孤独な日々は、 忘れられるようなものじゃないからね
 低学年の類 (類): でも——
@@ -232,18 +214,14 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 低学年の類 (類): え……
 類: 忘れられないっていうのもあるけれど—— あの日々があったからこそ、わかるんだ
 類: 『ワンダーランズ×ショウタイム』という存在が、 どれほどの奇跡なのか
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: 類！
 えむ: 類くん☆
 寧々: 類！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ……あの孤独な日々があったからこそ、 僕はあの時、行動できた
 類: それがたとえ、それぞれの夢を叶えるための 最良の選択だったとしても―― 分かれる道を選びたくはなかった
@@ -260,7 +238,7 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 低学年の類 (類): …………
 低学年の類 (類): ……僕達、そこにいていいんだ
 低学年の類 (類): 僕は——素敵な宝物を、見つけたんだね
-(White cut)
+(White transition)
 (Background change)
 類: ん……
 レン (WxS): 元のセカイに戻ってきたみたい！ よかったぁ……
@@ -272,4 +250,4 @@ MEIKO (WxS): あっ！　そんなに袋を振り回したら——
 寧々: ……何かあったの？　大丈夫？
 類: 大丈夫。 なんの問題もないよ
 類: （……僕には、みんながいてくれるからね）
-(Black cut)
+(Black transition)

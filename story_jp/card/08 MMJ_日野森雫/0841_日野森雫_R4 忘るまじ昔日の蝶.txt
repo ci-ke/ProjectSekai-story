@@ -20,7 +20,7 @@ Gacha phrase: 最後まで、見届けてくれたのね
 遥: その面白さをしっかり活かすためにも、 私達がどう答えるかが大事だね
 愛莉: く～、バラエティ魂がうずいてきたわ！ さっそく始めましょ！
 雫: ええ！
-(Black cut)
+(Black transition)
 雫: （……『もしもペットとして飼われるなら、 どんな動物になりたい？』）
 雫: （私がペットになるなら……猫さんがいいかしら？ でもそれだと、アレルギーがある愛莉ちゃんと 遊べなくなっちゃうわ）
 雫: （アレルギーが出にくくて、お世話しやすくて、 一緒にお散歩したりできる動物……）
@@ -29,15 +29,11 @@ Gacha phrase: 最後まで、見届けてくれたのね
 質問５: 『過去に戻れるなら、いつに戻る？』
 雫: あ……
 雫: （過去……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: ……雫ちゃん、どうかした？
 雫: あ……えっと、『過去に戻れるなら、いつに戻る？』 っていう質問に、どう答えようかちょっと迷っちゃって
@@ -65,7 +61,7 @@ Gacha phrase: 最後まで、見届けてくれたのね
 みのり: えへへ、どういたしまして！ わたしも、見てもらえてよかった！
 愛莉: ……遥。そのシークレットってやつ、持ってないの？ 番組で渡せたら、いい盛り上がりを作れそうだけど……
 遥: 私も同じことを考えてた。 ちょっと探してみる
-(Black cut)
+(Black transition)
 (Background change)
 
 [雫の部屋]
@@ -75,22 +71,18 @@ Gacha phrase: 最後まで、見届けてくれたのね
 雫: 過去に、戻れるなら……
 雫: （結局アンケートには、幼稚園の時、 しぃちゃんと迷子になった話を書いてしまったわ）
 雫: （あの時、私のせいでしぃちゃんには 心細い思いをさせてしまったから、 やり直せたら嬉しいけれど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: あ……
 雫: （もし、本当に過去に戻れるなら、私は……）
 雫: （……『もしも』なんて、考えてもキリがないわね）
 雫: （それに、今の私は——）
 雫: えっ……？
-(White cut)
+(White transition)
 (Background change)
 
 [ステージのセカイ]
@@ -100,14 +92,14 @@ Gacha phrase: 最後まで、見届けてくれたのね
 雫: 今の光、さっきの……
 雫: あ、こんなところに落とし物があるわ。 光っているけど、この玉……何かの飾りかしら？
 雫: えっ、また……！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
 
 雫: えっと……
 雫: ここ、どこかしら？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -140,79 +132,59 @@ Gacha phrase: 最後まで、見届けてくれたのね
 雫: …………
 雫: （ピースの数はそんなに多くないし、 難しいパズルじゃなさそうだけど……）
 雫: とりあえず、散らばったピースを拾わなくちゃ。 まず、これと——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 番組プロデューサー: 雫ちゃん、お疲れさま！ 今日も完璧キラキラオーラでよかったよ～！ まさに“みんなの憧れの日野森雫”って感じだったね！
 雫: （みんなの憧れの、日野森雫……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: …………！
 アリサ: びっくりしてるみたいだけど、どうかしたの？
 雫: ……いいえ、なんでもないわ
 雫: （——こんなところにもピースが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: 今日の収録、台本にない流れになってしまったから、 どう話していいかわからなくて……。 いつもフォローしてくれて、本当にありがとう
 メンバー達: お礼はいいんだけど……いい加減慣れてよ。 いつまでも私達を頼りにされても困るんだよね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: …………！
 雫: （また、昔のことが急に……。 もしかして、このピース……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 メンバー達: 雫……次の劇場公演に出られないって、ホント？
 アリサ: 今、私達の中で一番ファンがいるのは雫だよね。 次の劇場公演も雫を目当てに来てくれるお客さんがたくさんいる
 アリサ: そういうお客さんが当日劇場に来て雫がいないってわかったら、 どんな顔するかわかってる？ もうチケットも払い戻せないんだよ？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: …………っ
 雫: （やっぱり……。 ピースを拾うたびに、昔のことが頭に浮かんでくる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 アリサ: ま、そもそもアンタに直せれば……だけどね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 雫: （アリサちゃんは、このことを言っていたのかしら？）
 雫: （……たしかに、少し前の私だったら 苦しさで逃げてしまっていたかもしれない）
 雫: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-(White cut)
+(White transition)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （——今の私なら、 過去の失敗も後悔も苦しさも、全部受け止められる）
 アリサ: …………。 いらないピースは捨てたらいいんじゃない？
@@ -225,18 +197,18 @@ Gacha phrase: 最後まで、見届けてくれたのね
 アリサ: じゃあ、好きにすれば？
 雫: ええ、そうするわ
 雫: ……えっと、まず角やふちからはめていくのがいいのよね
-(Black cut)
+(Black transition)
 雫: ふう、ようやくできた。 あとは、額を壁に戻して……
 雫: ——よかったわ！ これで元通りね！
 アリサ: …………
 雫: ……！　アリサちゃん？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000268/bg_s000268.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000268/bg_s000268.webp)
 雫: （ちゃんとパズルを直せるか、見届けてくれたのね）
 雫: ——私、相変わらずうっかりしてしまうこともあるけど、 もう昔みたいに、仲間に頼りきりになるようなことはしないわ
 雫: MORE MORE JUMP！の日野森雫として、 『アイドル』であることに誇りと自信を持って、 お仕事をしていくから
 雫: またいつか、みんなで共演しましょうね
-(White cut)
+(White transition)
 (Background change)
 
 [ステージのセカイ]
@@ -249,15 +221,11 @@ Gacha phrase: 最後まで、見届けてくれたのね
 ルカ (MMJ): でも、あくまで欠片だから、 セカイとしての形を保てる時間が短くて……。 少し時間がたつと自然と戻ってきちゃうの
 雫: それで、私も戻ってこられたのね
 雫: （想いの、欠片……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……なんだか、不思議な場所だったわ
 雫: 綺麗なお庭で、私の絵が描かれたパズルがあったり、 アリサちゃんがいたり……
@@ -265,4 +233,4 @@ Gacha phrase: 最後まで、見届けてくれたのね
 雫: ええ、そうね
 雫: （過去の失敗も後悔も全部受け入れて、 これからの活動に活かしていきたいわ）
 雫: （それが、あの時できなかった責任の果たしかただと思うから）
-(Black cut)
+(Black transition)

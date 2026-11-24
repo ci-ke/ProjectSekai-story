@@ -10,51 +10,39 @@ Gacha phrase: あ、ピンク色のドリンクだ！
 [ストリートのセカイ]
 
 レン: この前のあれ、ほんと不思議だったなぁ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: （見えたのは、ほんの一瞬だったけど……）
 レン: （あれはきっと、どこかで誰かの想いを見守っている 別のセカイのみんな、なんだろうな……）
 レン: それにしても……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: すごく、きれいなところだったなあ
 レン: あの時、ひらひらしてたのが 桜の花びら……だよな
 レン: はあ……。あんな風に、 桜の花がたくさんあるところで花見がしたいなあ
 レン: あ、そういえば……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ——あ、そうだ。 桜っていえば、近所の公園に桜が咲いてたんだよね
 杏: 人がいなさそうなタイミングで、 みんなでお花見してみない？
 KAITO: おっ、いいねえお花見！ 行きたいな！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: たぶんタイミングを待ってるところだと思うけど……。 全部を杏に任せちゃう感じになっちゃってたし、 オレのほうから声をかけに行こうかな
 KAITO: あ、レン。これからメイコの カフェに行くんだけど、一緒に——
 レン: ちょうどいいところに！ カイト、ちょっとつきあってよ！
 KAITO: へ？
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -68,7 +56,7 @@ KAITO: 『んー。真っ暗でよくわからないね。 それに、結構人
 KAITO: 『じゃあ、用事は諦めてメイコのカフェに——』
 レン: 『よし！　次行ってみよーう！』
 KAITO: 『ええー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -81,7 +69,7 @@ KAITO: 『ええー！』
 レンの声 (レン): 『彰人、聞こえるー？　オレだよー、オレー！』
 KAITOの声 (KAITO): 『なぜかボクも一緒にいるよー』
 彰人: レンと、カイトさん？
-(Black cut)
+(Black transition)
 レン: 『ふう。出してくれてありがと、彰人！』
 彰人: それはいいけど、ふたりしてどうしたんだ？
 KAITO: 『あ、ボクは連れてこられただけだから、 実は関係ないんだよね』
@@ -95,7 +83,7 @@ KAITO: 『そういうことか。うん、それはとってもいいね！』
 レン: 『彰人、代わりにオレ達をその公園に連れてってくれない？ どんな場所か、下見しておきたいんだ！』
 彰人: いいぞ。どうせ自主練しに行くつもりだったしな
 レン: 『やったー！　それじゃあお願いしまーす！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -116,7 +104,7 @@ KAITO: 『あはは。ごめんごめん。 桜を見たらついテンション
 レン: 『ありがとう、彰人！ カイトも、もうちょっとつきあってくれる？』
 KAITO: 『もちろん！　桜ももっと見たいし、 彰人くん達の街の様子とかも興味あるしね！』
 レン: 『やったー！　それじゃあ次の場所にレッツゴー！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -135,7 +123,7 @@ KAITO: 『うん、いいね！ こっちの桜はちょうど満開みたいだ
 彰人: わかった。じゃあ杏に話してみるか。 あいつもいろいろ考えてるだろうしな
 KAITO: 『なら待ってるあいだに、ボク達は準備を進めておこうか』
 レン: 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -150,7 +138,7 @@ KAITO: え？　メイコのカフェ行くならボクが——
 レンの声 (レン): たのんだよー！
 KAITO: あはは。張りきってるなあ
 KAITO: しょうがない、じゃあボクはリン達に話しに行こうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [お花見　当日]
@@ -179,7 +167,7 @@ MEIKO: 料理は私が用意したけど、それ以外は レンが頑張って
 レン: ただいまー！ むこうの準備もバッチリだったよ！
 MEIKO: ありがとう、レン。 それじゃあ、行きましょうか
 リン・ルカ: 『はーい♪』
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 乃々木公園)
 杏: みんな、いらっしゃーい！
@@ -221,4 +209,4 @@ MEIKO: 『そういうルカも、唐揚げばっかり食べないの。 はい
 レン: （桜も見れたし、みんなも楽しそうだし。 花見、本当にやれてよかった！）
 リン: 『レン、何食べる？ こっちのお弁当箱のおかず、とってあげるよ』
 レン: 『ほんと？　じゃあ、ハンバーグ！』
-(Black cut)
+(Black transition)

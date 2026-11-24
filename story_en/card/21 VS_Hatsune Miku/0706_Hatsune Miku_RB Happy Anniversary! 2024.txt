@@ -23,7 +23,7 @@ MEIKO: If you say so... It is your anniversary, so I guess we should just let yo
 KAITO: And so, we're counting on you, An, as the experienced cook in the room.
 An: Ahaha...
 Akito: (I don't really get what's going on, but I have a bad feeling about this...)
-(Black cut)
+(Black transition)
 Miku (VBS): So, let's start by sifting out some cake flour.
 Kohane: Oh, I can do that since I did it when we baked at school.
 An: Thanks, Kohane! I'll leave that to you then!
@@ -55,7 +55,7 @@ An & Akito: Huh?
 Rin: Luka! You shouldn't be confused about it too!
 Luka: B-But, Miku said it so confidently!
 Len: (I'm gonna go help Kohane. It's gotta be less chaotic over there.)
-(Black cut)
+(Black transition)
 Akito: I just put the batter in the oven.
 Miku (VBS): Got it, thanks.
 Kohane: I'm excited to see how it turns out. I hope it bakes evenly.
@@ -95,7 +95,7 @@ Luka & KAITO: Yes ma'am...
 Kohane & An: Hehe. Hahaha.
 Toya: Everyone, they're about to announce #10 from the poll.
 Miku (VBS): This is exciting. I wonder what kind of song it is.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -125,16 +125,16 @@ Miku: And so, I put together a special medley of the songs that got the most pas
 Miku: And now, without further ado, let's get this show started♪
 Miku: Starting from #10 from the poll! Here we go...
 Everyone: Start the music!
-(Black cut)
+(Black transition)
 Miku: ♪————! ♪——————!!
 Rin, Luka & MEIKO: ♪————!!
 Len & KAITO: ♪————!!
-(Black cut)
+(Black transition)
 Miku: Before we move on to #5, it's time for the special medley!
 Len: We chose the songs for this medley based on all the interesting messages we received, so we'll read some of those out first!
 MEIKO: Who knows, you might hear your own message!
 Miku: Hehe. I'm sure you're all excited♪
-(Black cut)
+(Black transition)
 Miku: There are just three more songs to go...
 MEIKO: Time really flies by when you're having fun.
 Miku: Yeah...
@@ -154,8 +154,8 @@ Audience: We'll love you forever and ever!!!
 Miku: Oh...
 Miku: Everyone...!
 Rin, Len, Luka, MEIKO & KAITO: Happy anniversary, Miku!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000228/bg_s000228.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000228/bg_s000228.webp)
 Rin: Miku, happy anniversary!
 Rin: Did the birthday wishes from the audience surprise you? We practiced with them sneakily while you weren't there! I'm glad we pulled it off.
 Rin: And thank you to the audience for helping us out!
@@ -172,7 +172,7 @@ KAITO: Happy anniversary, Miku!
 KAITO: You covered such a big range of songs today, from cute pop tracks and slow ballads to creepy, dark tunes and comedy numbers.
 KAITO: For each song, you showed a specific, brilliant side of yourself and delivered the “favorite Miku” that the person who requested it had in mind.
 KAITO: Now we just have the top three left! I'm excited to see what “favorite Mikus” are next!
-(White cut)
+(White transition)
 (Background change)
 Miku: You guys... Thank you...
 Miku: Being loved by so many people... Working so hard to get here... I couldn't have done it alone.
@@ -183,4 +183,4 @@ Miku: Thank you for all your love for me and my music!
 Miku: I'm going to keep singing with all my heart to give you more of what you love!
 Miku: Now, I'll be finishing off with the top three back-to-back!
 Miku: Let's have a blast until the very end!
-(White cut)
+(White transition)

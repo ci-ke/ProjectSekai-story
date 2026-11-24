@@ -4,7 +4,7 @@
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 天馬司, 鳳えむ, 草薙寧々, 神代類, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク, 鏡音リン)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？のセカイ]
@@ -15,10 +15,10 @@
 ミク: 木が、キラキラしてる……
 ミク: ……一歌ちゃん達のセカイにある木も、 同じように光っていたし
 ミク: もしかして、また何か——
-(White cut)
+(White transition)
 (Background change)
 ミク: わ、光が……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -80,7 +80,7 @@
 彰人: 絵描いてて気づいてねえのかもな。 くそ、一度帰るか
 司: とにかく、各々セカイに様子を見に行ってくれ！
 冬弥: はい！
-(Black cut)
+(Black transition)
 (Background change)
 みのり: わっ！　本当に木が光ってるよ！？ しかも……
 愛莉: 前の時より、ずっとキラキラしてるわね
@@ -127,4 +127,4 @@
 司達: 『せーのっ！』 『せーの！』
 (Background change)
 (Background change)
-(White cut)
+(White transition)

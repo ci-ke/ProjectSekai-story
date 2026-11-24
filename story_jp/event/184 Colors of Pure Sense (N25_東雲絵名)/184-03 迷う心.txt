@@ -9,17 +9,13 @@
 絵名: （……失敗って、どうすればいいんだろ）
 絵名: （ちゃんと『目印』ってテーマを活かして、 失敗作を描く…………）
 絵名: （言ってることはわかるんだけど…… それって、かなり難しくない？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雪平: 失敗作とはいっても、作品を制作することには変わりません
 雪平: テーマを活かした上でモチーフを選び、 東雲さんの作品として提出する心積もりでいてください
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……私の作品として、か……
 絵名: （それって、『失敗』の意味も ちゃんと考えろってことなのかな）
@@ -85,4 +81,4 @@
 絵名: ……じゃあ、学校もあるし少しだけ
 絵名: ありがとう、奏
 奏: うん、じゃあ行こうか
-(Black cut)
+(Black transition)

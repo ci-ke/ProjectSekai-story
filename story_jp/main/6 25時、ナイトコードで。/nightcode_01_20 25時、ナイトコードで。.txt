@@ -60,7 +60,7 @@ nightcode_01_20 25時、ナイトコードで。
 瑞希: あ、ありがとうございまーす♪ えっとウーロン茶が奏とまふゆで、 アイスティーが絵名で……みんな飲み物持ったね！
 瑞希: それじゃあニーゴ初オフ会を祝して……かんぱーいっ！
 絵名: 乾杯……って、テンション高すぎでしょ、もう
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -84,7 +84,7 @@ nightcode_01_20 25時、ナイトコードで。
 奏: …………ふふ
 奏: 『まふゆ』
 奏: 『わたしのほうこそ、ありがとう』
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): 見つけてもらえて——よかったね
-(White cut)
+(White transition)

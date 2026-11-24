@@ -43,7 +43,7 @@ Ichika: Oh, there's the bell. Sorry, I'll tell you next time. And I'll make sure
 Shiho: Okay, thanks.
 Saki: Boo, I really wanna know what she was gonna say now.
 Shiho: I'm sure she'll tell us soon.
-(Black cut)
+(Black transition)
 (Background change)
 Math Teacher: Now, trigonometry involves memorizing quite a lot of these identities, but you'll become familiar with them as you work through these problems.
 Math Teacher: So, for this next practice problem... Tenma, can you solve it for us?
@@ -65,7 +65,7 @@ Saki: Yay! I did it! Peace!
 Shiho: (But it's natural for our friendship to change as we begin pursuing different things in life...)
 Shiho: (The four of us haven't really been hanging out much lately, but it's not like things have soured between us.)
 Shiho: (I just need to keep fulfilling my duties as a pro.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -96,8 +96,8 @@ Shiho: I plan to stay on top of my schoolwork.
 Iori: No, I think that was about hanging out with friends and participating in school events.
 Mio: Right. You're really close with your childhood friends, so you should all create lots of wonderful memories together while you're still in high school.
 Shiho: I know we should, but...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000459/bg_s000459.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000459/bg_s000459.webp)
 Shiho: I feel like we made plenty of memories during junior high.
 Mio: But there's certain things you can only do right now. For example, this is the time of year for... Oh, what about the school festival?
 Iori: Whoa, I remember those... I performed on stage in the gym with my old band.
@@ -106,21 +106,17 @@ Shiho: “Used to” was way back in elementary school.
 Shiho: Besides, I have to keep practicing for our band, while club activities and stuff keep the others really busy too.
 Iori: Right, club activities. Things can get busy when you take what you're doing really seriously.
 Mio: I remember my friends always telling me how they were too busy to hang out.
-(White cut)
+(White transition)
 (Background change)
 Shiho: (I know it's just the school festival, but I'm a pro now. I don't want to put on a half-hearted performance...)
 Shiho: (On the other hand, putting on a good performance would mean having to ask Ichika and the others to practice a lot.)
 Shiho: (That'd be asking too much of them.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: I'm glad music... No, I'm glad you found a way back to your friends, Shiho.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: (What happened just now? I thought I heard a voice in my head...)
 Iori: Shiho? Is something wrong...?
@@ -128,7 +124,7 @@ Shiho: Oh, no... It's nothing.
 Iori: In any case, you should cherish your friends and your time as a student.
 Iori: We'll keep doing stuff together as a band going forward, but you only have so much time left as a high schooler.
 Shiho: Alright, I'll do what I can to make the most of this time...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -140,6 +136,6 @@ Shiho: (I hope it ends early since I need to practice for that show.)
 Teacher: Alright, let's get today's long homeroom underway. It's time for you all to start preparing for the school festival.
 Teacher: First, you'll need to decide what you're going to do as a class.
 Shiho: The school festival, huh...?
-(Black cut)
+(Black transition)
 (Video: link2_leoneed_ed1)
-(Black cut)
+(Black transition)

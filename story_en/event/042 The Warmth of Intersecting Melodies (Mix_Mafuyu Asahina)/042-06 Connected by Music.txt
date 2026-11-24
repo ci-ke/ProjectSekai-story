@@ -15,7 +15,7 @@ Ichika: (I'm glad, but... I really hope she didn't see that sheet of paper I lef
 Honami: Hm...? Is everything okay, Ichika?
 Ichika: Oh, um... It's nothing. Anyway, we should go find them.
 Honami: Sounds good. Let's go!
-(Black cut)
+(Black transition)
 Mafuyu: Oh, there they are... Hoshino! Mochizuki!
 Honami: Ms. Yoisaki! Asahina!
 Kanade: Hello, Ms. Mochizuki. It feels so strange meeting you here in a place like this.
@@ -43,7 +43,7 @@ Ichika: Really? Asahina's probably one of the kindest and most thoughtful I've e
 Kanade: Oh... R-Right, well...
 Mafuyu: This always happens whenever you become too engrossed in composing, Kanade. Why don't we find a place where you can get some real food in you?
 Honami: I agree. We can keep chatting over a nice meal.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Diner]
@@ -96,17 +96,13 @@ Ichika: Huh? I did sing there, but how did you know...?
 Kanade: When I was walking by Nonogi Park that time, I just happened to hear this girl singing a Miku song.
 Kanade: The way she sang was so beautiful that I still remember it very vividly... I didn't realize that girl was you, Hoshino.
 Ichika: Oh, was that when...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: ——! ————!
 Kanade: ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: And you were there listening to me sing, Yoisaki!
 Kanade: Yes, I think so.
@@ -124,4 +120,4 @@ Ichika: But someday, I want to sing and perform songs in a way that can really t
 Kanade: I see... That's a wonderful dream.
 Kanade: I also want to compose a song that can do just that.
 Mafuyu: ...
-(Black cut)
+(Black transition)

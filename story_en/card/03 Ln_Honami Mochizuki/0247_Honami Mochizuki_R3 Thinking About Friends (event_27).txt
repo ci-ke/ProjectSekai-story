@@ -19,7 +19,7 @@ Honami: Sure. Where would you like to go?
 Ichika: Well, there's actually something I'd like to talk about so... How about over there?
 Honami: Oh, okay. Let's go.
 Honami: (Does this mean she wants to talk about...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -35,20 +35,16 @@ Ichika: A little bit...
 Ichika: After we all left the other day, Honami, you tried chasing after Shiho, right?
 Ichika: Were you able to talk much?
 Honami: I was...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Shiho: She's...
 Shiho: She's doing that because of me...
 Shiho: Creating our own song, practicing for our show and trying to go pro... It's all making her do this...
 Shiho: My dream's forcing her to push herself too hard...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ichika: I didn't know Shiho was feeling that way about all this...
 Honami: Me neither, but I immediately replied by saying that she's misunderstanding what Saki's doing.
 Honami: After that, I suggested that we just watch over and place our faith in her...
@@ -57,25 +53,21 @@ MEIKO: And we'd expect nothing less from you, Honami. Nicely done!
 Honami: B-But... I just told her what was on my mind...
 Ichika: You didn't do just that. What you said made me feel better too.
 Ichika: I was actually thinking about talking to Shiho myself too.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ichika: (This is a rare sight. Saki never falls asleep during class...)
 Student's Voice: It's such a pain going back and forth between our classroom and the AV room. Can't we just do everything in one place...?
 Ichika: (Oh, it's class A. Maybe they're switching classrooms...?)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: (Shiho...?)
 Ichika: (Was she checking up on Saki...? But why...?)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Honami: I see...
 MEIKO: And that's why you were also concerned about Shiho.
 Ichika: Yes, exactly. It felt like Shiho was acting really strange after that during practice here too...
@@ -93,7 +85,7 @@ Honami: Oh...
 Ichika: She's right. We need to start by trusting her and believing that she'll get through this.
 Honami: Okay...!
 Honami: (They're right. I'm sure Saki will be just fine...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,35 +113,27 @@ Shiho: Sorry, would you mind sticking around a little while longer? There's some
 Honami: There is?
 Shiho: It's about... Remember how you came chasing after me when we were going home the other day...?
 Honami: You mean...?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Shiho: Creating our own song, practicing for our show and trying to go pro... It's all making her do this...
 Shiho: My dream's forcing her to push herself too hard...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Shiho: I remember you telling me this that time...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Honami: After that time you said that we wouldn't be able to stay together if we tried to go pro, we had a long discussion concerning that...
 Honami: About whether or not we'd be able to commit to that goal and to our music...
 Honami: We each took a long look at ourselves, and we ultimately all decided to walk the same path as you, Shiho...
 Honami: Saki too. She decided that we're going to go pro together.
 Honami: So for now, let's just watch over and place our faith in her, okay?
 Honami: It might look like she's pushing herself a little too hard right now, but I'm sure she also understands exactly how you feel...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Shiho: If you didn't tell me that, I might not have been able get myself to really believe in her.
 Shiho: I appreciate what you did for me then. Thank you, Honami...
 Honami: Shiho...
@@ -170,4 +154,4 @@ Honami: Right. I think so too.
 Honami: From what Saki wrote for us, to that song we all made together...
 Honami: Someday, I hope we'll be able to create another song together that's just as special as that first one...
 Shiho: I hope so too.
-(Black cut)
+(Black transition)

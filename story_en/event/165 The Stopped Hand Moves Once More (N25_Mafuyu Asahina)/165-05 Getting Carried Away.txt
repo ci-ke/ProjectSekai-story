@@ -4,23 +4,19 @@
 
 [Miyamasuzaka]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: Oh... I didn't realize you were still doing that.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (What did she mean by that?)
 Mafuyu: (Does Mom think...?)
 Mafuyu: ...
 Mafuyu: (Should I really keep attending?)
 Mafuyu: (She said that it's okay for me to, but...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -42,7 +38,7 @@ Mafuyu's Mother: Huh?
 Mafuyu: Since I'm free, I'd like to help... Would that be alright?
 Mafuyu's Mother: Yes...! Of course, dear!
 Mafuyu's Mother: Let's surprise your father by preparing a delicious feast for him!
-(Black cut)
+(Black transition)
 Mafuyu's Father: Oh, this mapo tofu's good. It has a nice kick to it.
 Mafuyu's Mother: Hehe. I'm glad you like it. Mafuyu helped me make it today.
 Mafuyu's Father: Really?
@@ -72,29 +68,25 @@ Mafuyu's Mother: Huh? Oh no...!
 Mafuyu's Mother: I'm so sorry. I did it again...
 Mafuyu: No, that's okay.
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: It's also okay if you don't quite know what you want to do yet.
 Mafuyu's Mother: You can take all the time you need to think about your future... While doing whatever you'd like to do now.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (There's nothing wrong with this, right...?)
 Mafuyu: (All Mom did was make a small suggestion, for my sake.)
 Mafuyu: (But...)
 Mafuyu: No, I'm having trouble focusing...
 Mafuyu: I should get something to drink.
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu's Mother's Voice: Why...?
 Mafuyu's Mother: Why did I say that?
@@ -104,4 +96,4 @@ Mafuyu's Mother: Mafuyu said it was okay, but...
 Mafuyu's Father: It's okay... Try not to beat yourself up.
 Mafuyu's Mother: But...
 Mafuyu: ...
-(Black cut)
+(Black transition)

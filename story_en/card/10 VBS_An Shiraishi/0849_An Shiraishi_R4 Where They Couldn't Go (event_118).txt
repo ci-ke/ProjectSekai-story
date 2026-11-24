@@ -12,17 +12,13 @@ Gacha phrase: I'm going to catch up soon!
 [Crase Cafe]
 
 An: *Sigh* I'm so bored. Why'd Dad have to go and say that...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ken: You just performed in a series of tough events. Knowing when to take breaks is important, so no practice tomorrow.
 Ken: I'm sure you know what that means. No singing tomorrow. Period.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Yeah, I know what he's looking out for us, but no singing...? Not even a peep...?)
 MEIKO (VBS): Here you go, An. A refill for your coffee.
@@ -33,7 +29,7 @@ MEIKO (VBS): But he closed the cafe, which eliminates that option.
 An: Exactly. I'm super bored... Wait, I know!
 An: What if I worked here, MEIKO?! Would that be okay?!
 Miku & MEIKO: What...?
-(Black cut)
+(Black transition)
 Rin (VBS): Heya!
 Luka (VBS): Miku, MEIKO, I came to hang out... Wait, huh?
 An: Oh, Rin, Luka! Welcome♪
@@ -42,7 +38,7 @@ An: I can't practice today, so I thought I could work here instead!
 Luka (VBS): Really?! Then, we came at a good time♪
 Rin (VBS): Hehe. Lucky us!
 An: Haha! Then, I'll show you to your seats!
-(Black cut)
+(Black transition)
 An: Okay, here's some water. Do you two know what you wanna order?
 Luka (VBS): Oh, I want my usual blend! But I'm also pretty hungry, so... I'll have a tuna sandwich and a grilled cheese!
 Rin (VBS): I'll have some milk tea and the fruit waffle sandwich!
@@ -71,7 +67,7 @@ Toya: Still... Shiraishi, it feels like it's been so long since you last waited 
 An: It does feel like it's been forever! After all, we've been spending all our time practicing, and Dad closed our place down!
 Rin (VBS): An! Can I order some more stuff?!
 An: Oh, coming! Enjoy your visit, Toya!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -92,7 +88,7 @@ An: And seeing them bounce off the walls is seriously the best feeling in the wo
 Miku (VBS): Then, you'll need to make that happen during your next event.
 MEIKO (VBS): Yes, I hope you, the others and the audience all get to have lots of fun.
 An: We will! These pancakes are gonna be the fuel I need to keep doing my best!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,20 +109,16 @@ An: No, don't give me that look! I'm fine! Honest!
 Kohane: Are you sure?
 An: Yes, I'm absolutely sure!
 An: That time, she patted my head like she always used to and...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ???: ♪————————!
 An: This song...
-(White cut)
+(White transition)
 An: It's the one we used to sing together...
 An: ♪————————!
 An & ???: ♪————————!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 An: ...she sang with me.
 Kohane: She did...?
 An: Yeah.
@@ -136,23 +128,19 @@ Kohane: Okay...!
 An: (Remember what I said, Aunt Nagi. I'm gonna catch up to you soon.)
 An: (And...in order to make that happen...)
 An: (I have to...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: ...
 An: No way...
 An: She's like Aunt Nagi...
-(White cut)
+(White transition)
 An: Kohane...
 An: (She really is the best...)
 An: (But...)
 An: She still hasn't reached her ceiling...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (I don't want to put Kohane on a pedestal like I did that time.)
 An: (I don't wanna sit by while she flies higher and higher... I don't wanna feel that pain anymore...)
@@ -172,4 +160,4 @@ Kohane: Wait, what...?! An, that's not fair! You can't just give yourself a head
 Kohane: W-Wait for me!
 An: Haha! Try to catch me, Kohane!
 An: I-I'll try...
-(Black cut)
+(Black transition)

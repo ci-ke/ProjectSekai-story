@@ -25,7 +25,7 @@ Gacha phrase: すごく優しくて、あったかい甘さだな
 奏: 望月さんが作ってくれるものはみんな美味しいし、 いつもどおりで大丈夫だよ
 穂波: そうですか？　じゃあ、わたしのほうで 良さそうなメニューを考えておきますね
 奏: うん、よろしく
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -60,7 +60,7 @@ Gacha phrase: すごく優しくて、あったかい甘さだな
 奏: 『うん、お願い』
 (Background change)
 奏: （わたしも自分の作業しようかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [４日後]
@@ -90,7 +90,7 @@ Gacha phrase: すごく優しくて、あったかい甘さだな
 (Background change)
 奏: 誕生日会、そんなにやりたかったんだ……
 奏: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [誕生日当日]
@@ -121,7 +121,7 @@ MEIKO: 私達のことより、 主役が来たのならパーティーを始め
 瑞希: あはは……。 とりあえず火をつけてっと……！
 瑞希: じゃあみんな。 せーのでいくよ！
 瑞希: せーのっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -139,21 +139,17 @@ MEIKO: 私達のことより、 主役が来たのならパーティーを始め
 MEIKO: ……おめでとう
 奏: うん。ありがとう、みんな
 奏: （……なんだろう。なんだか……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……え。今の……）
 まふゆ: ……奏。ろうそく消さないの？
 奏: あ、うん……
 奏: ふー……
-(Black cut)
+(Black transition)
 絵名: はい。ケーキ切りわけたよ。 好きなの持ってって
 リン: あ。右から２つ目、少し大きい
 絵名: え？　ちゃんと均等に切ったってば！
@@ -173,15 +169,11 @@ MEIKO: ……甘い
 リン: ……これからふくところだから
 奏: ふふ……
 奏: （あ……。そういえばわたしも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 奏？　ボーっとしてどうしたの？
 奏: お母さんに、ああやってクリームを 取ってもらったことがあったなって思いだしてた
@@ -190,17 +182,13 @@ MEIKO: ……甘い
 ルカ: 私も知りたいわ。 お祝い、どんな風にしてもらっていたの？
 奏: どんな風に……
 奏: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い奏 (奏): お母さん！ またお誕生日の『すぺしゃるぷれーと』作ってくれる？
 幼い奏 (奏): わたしね。ハンバーグとスパゲッティとグラタンと……。 あと、エビフライとプリンが食べたい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: そうだ……。誕生日には毎年、お母さんが 『スペシャルプレート』を作ってくれてた
 瑞希: スペシャルプレート？
@@ -214,7 +202,7 @@ MEIKO: ……甘い
 奏: （でも、なんで思いだせたんだろう……）
 奏: あ……
 奏: （みんながお祝いしてくれたから、思いだせたのかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -240,8 +228,8 @@ MEIKO: ……甘い
 奏: うん。お願い
 穂波: それで、どんなごちそうだったんですか？
 奏: えっと、まず——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000049/bg_s000049.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000049/bg_s000049.webp)
 一歌: 宵崎さん、誕生日おめでとうございます。 プレゼント、直接は渡せなかったですが、 喜んでもらえたみたいでよかったです
 一歌: 機会があったら、また一緒にご飯を食べたり、 作ってる曲や、好きなミクの曲の話とか聞かせてください。 楽しみに待ってます
 穂波: 宵崎さん、お誕生日おめでとうございます。 あの『スペシャルプレート』、リクエストしてもらえて すごく嬉しかったです
@@ -253,7 +241,7 @@ MEIKO: ……甘い
 まふゆ: ……奏、誕生日おめでとう
 まふゆ: どんな言葉で呼べばいいのかわからないけど、 奏と一緒にいると……なんだか心が、動く気がする
 まふゆ: いつか……、 あの約束を守ってくれるの、待ってるから
-(White cut)
+(White transition)
 (Background change)
 奏: 誕生日、たくさんお祝いしてくれてありがとう
 奏: お祝いしてもらったおかげかな、 ずっと忘れてた家族との誕生日——少しだけ、思いだせた
@@ -261,4 +249,4 @@ MEIKO: ……甘い
 奏: この思い出は……もう、忘れたくないな
 奏: ……大切にしよう。 いつまでも覚えていられるように
 奏: 今日は、本当にありがとう。 それじゃあ、またね
-(White cut)
+(White transition)

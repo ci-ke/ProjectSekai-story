@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 初音ミク, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 こはね: ……そろそろ前のチームの曲が終わるね
@@ -71,7 +71,7 @@
 スレイド: 『ずっと——こんなライバルが欲しかったんだ』
 セドリック: 『……相手にとって不足はなし、だな』
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -116,4 +116,4 @@ KAITO (VBS): ……そっか。いい経験になったんだね
 冬弥: （理屈ではなく、ただお互いの全力をぶつけ合って——）
 冬弥: RUSH BEATSでは——必ず、俺達が勝とう
 杏・こはね・彰人: 『うん！』 『ああ』
-(White cut)
+(White transition)

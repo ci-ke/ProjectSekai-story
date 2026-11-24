@@ -55,20 +55,16 @@ Gacha phrase: プレート、オープンにしてきたよ！
 杏: （アカペラで歌ってるはずなのに、 曲が聴こえてくるような気がする）
 杏: （こはね達も同じように感じてくれてるのかな？）
 杏: （やっぱりこの４人で……仲間と歌うのって、最っ高！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （あの夜から、３年かかっちゃったけど……）
 杏: （最高に可愛い相棒と、 一緒に夢を追いかける仲間ができたよ！）
 杏: （いつか、凪さんにも紹介したいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,26 +80,22 @@ Gacha phrase: プレート、オープンにしてきたよ！
 杏: それもあるけど、自主練しておきたいんだよね
 杏の父: ほお。自主練ねえ
 杏: うん！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————！！
 大河・謙: 『♪————————！！』 『♪——！！　——！！』
-(White cut)
+(White transition)
 (Background change)
 全員: 『♪————————！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （あの動画を見て、やっぱり父さん達はすごいって思った）
 杏: （今の実力じゃ、まだまだあの夜には届かない。 だから、今まで以上に気合いを入れてやらなくちゃ……！）
 杏の父: わかった。いってこい！
 杏: ありがと、父さん！ じゃ、いってくるね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -115,25 +107,21 @@ Gacha phrase: プレート、オープンにしてきたよ！
 杏: ♪——————っ！！
 杏: （昨日練習した時より強弱もつけられたし、 声もしっかり乗せられた）
 杏: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　——————！！
-(White cut)
+(White transition)
 (Background change)
 こはね: ————！　————～～～！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （まだ足りない。 あの時のこはねは、もっとすごかった）
 杏: （私ももっともっと、あの時のこはねみたいに——）
 杏: （一瞬で空気を変えるような、 心をつかんで離さないような、そんな歌を……！！）
 杏: ♪————！！　♪————！！
-(Black cut)
+(Black transition)
 杏: はぁ、はぁ、はぁ……
 杏: ……え？　拍手？
 ミク (VBS): 気合いの入った、いい歌だったね
@@ -156,25 +144,21 @@ Gacha phrase: プレート、オープンにしてきたよ！
 ミク (VBS): なら、『あの時』のこはねだけを見ているのは 危ないんじゃない？
 杏: ……！
 杏: （そうだ、こはねは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ♪————————！！
-(White cut)
+(White transition)
 (Background change)
 冬弥: 大河さんとの練習の成果を見てほしいということだったが……、 正直、驚いた。これほど変わるものなんだな
 冬弥: あの映像を見た時のイメージが脳裏をよぎった
-(White cut)
+(White transition)
 (Background change)
 こはね: やっぱり、会場の景色と映像で見たことを イメージしながら歌ったからかな？
 冬弥: 景色？ 景色とはどういうことだ？
 こはね: あ、えっと、大河さんとの練習で——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: そうだね。こはねはおじさんとの練習で、 もっと先に進もうとしてる
 杏: （あの時の歌声が今も焼きついてるから、 ついイメージしちゃうけど——）
@@ -187,4 +171,4 @@ Gacha phrase: プレート、オープンにしてきたよ！
 杏: うん！
 杏: （何がはまるかわかんないし、 まずはなんでもやってみないと！）
 杏: いよっし！
-(Black cut)
+(Black transition)

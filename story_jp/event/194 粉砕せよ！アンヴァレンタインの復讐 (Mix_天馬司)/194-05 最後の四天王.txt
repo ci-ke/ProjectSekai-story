@@ -36,16 +36,12 @@
 司: （魔王軍幹部としては、 むしろ絶好のチャンスなのではないか！？）
 司: （今オレがカッコよく身分を明かし、技を決めれば、 あっさりと勇者一行を全滅させられるし……）
 司: （その場でひとり、ゲームをクリアすることもできる。 つまり——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (WxS): 『裏切るかどうかは、流れで決めればいいんじゃないかしら〜♪』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （今こそまさに、裏切る時では——！？）
 彰人: ……あいつ、オレ達４人の攻撃で仕留め切れるHPじゃねえよな
@@ -111,4 +107,4 @@
 冬弥: 今の言葉は……
 瑞希: どういうこと？　裏切り者って……
 司: （ババババババレてしまうではないか～～～～！！）
-(Black cut)
+(Black transition)

@@ -89,7 +89,7 @@ Skill name: MORE MORE JUMP！からの贈り物
 (Background change)
 愛莉: 『お礼を言うのはまだ早いわよ。 これから、簡単な活用法をみんなに教えてあげる！』
 愛莉: 『まずは、これ！　動くスタンプで見た目も派手でおもしろい、 賑やかテンプレートからよ！』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -134,7 +134,7 @@ Skill name: MORE MORE JUMP！からの贈り物
 愛莉: はいはい
 愛莉: じゃあ愛莉先生直伝の メッセージカードの作りかたを知りたい人は、スマホを出して！
 愛莉: 先生オススメのテンプレートを教えてあげるわ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -168,4 +168,4 @@ Skill name: MORE MORE JUMP！からの贈り物
 愛莉: じゃあみんな、今日の配信は今度こそここまで！
 愛莉: 次回、また会いましょ！ ハッピーホワイトデー♪
 みのり・遥・雫: 『ハッピーホワイトデー♪』
-(Black cut)
+(Black transition)

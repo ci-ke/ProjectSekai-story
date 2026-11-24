@@ -41,7 +41,7 @@ Len (N25): <...!>
 Len (N25): <B-But... Don't push yourself too hard, okay?>
 Ena: *Nod* I'll be fine.
 Ena: Anyway, I'm thinking about starting from the beginning, so let's go over there.
-(Black cut)
+(Black transition)
 Rin (N25): <This one's also really beautiful.>
 Len (N25): <Yeah... And really powerful...>
 Ena: Yeah.
@@ -100,10 +100,8 @@ Ena: But he felt that he needed to keep painting...
 Len (N25): <He felt that he had to...?>
 Rin (N25): <Like you back then?>
 Ena: What...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: I have to draw something... Anything!
 Ena: But if I lose my ability to draw, then I'd really...
@@ -111,10 +109,8 @@ Ena: ...
 Ena: Why...?
 Ena: Why can't I draw anything...?
 Ena: Why am I so bad at this...?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (She's right...)
 Ena: (I drew stuff in the same way back then.)
@@ -133,17 +129,13 @@ Rin (N25): <Oh...>
 Rin (N25): <Ena, the next painting is...>
 Ena: ...!
 Ena: (The painting of that peony...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Yukihira: I'd like for you to think about what you feel as you look at each of these paintings with your own eyes.
 Yukihira: To see what they're really about.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ena: (I don't know. I can't say for sure...)
 Ena: (But I have to look at it and see how I feel minus all assumptions or extraneous information.)
 Ena: (Then, I might be able to find the answer...)
-(Black cut)
+(Black transition)

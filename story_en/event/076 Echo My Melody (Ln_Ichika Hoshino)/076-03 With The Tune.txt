@@ -15,7 +15,7 @@ Ichika: Interesting...
 Kanade: Anyway, Hoshino, what would you like to ask me? About how to create a melody? Or about using software...?
 Ichika: Oh, right. Um... I'm having several issues, but I'd like to start by asking you to listen to my song...
 Ichika: I just need one second to open it on my computer...!
-(Black cut)
+(Black transition)
 Miku: ♪————
 Ichika: That's about what I have right now. No matter how hard I try, I can't produce the sound I have in my head...
 Ichika: When I played it through one of the speakers at the rehearsal studio we rented the other day, I noticed that it lacked so much depth... I really don't know where to begin fixing it...
@@ -41,50 +41,36 @@ Kanade: You mentioned how you weren't getting the sound you wanted.
 Kanade: That also means you know exactly what you want from your song, so I think all you have to do is keep working on it with that in mind.
 Kanade: So... Can I ask specifically what kind of song you're trying to write?
 Ichika: What kind of song...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ichika: The thing is... I'm writing this song because I want some people I care about very much to listen to it.
 Kanade: People you care about very much...?
 Ichika: Yes. So, I put a lot of thought into what kind of song they'd like to hear...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Something that gives them the courage to change themselves and move forward...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Something that'll be a source of support when they're facing their pain to go beyond their limits...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ichika: Something that tells them that they don't have to hold back when I know they're capable of so much more, and that I'll catch up to them someday...
-(White cut)
+(White transition)
 (Background change)
 Ichika: I want to write a song that gently encourages those who I care about most...
 Kanade: ... A song that gently encourages them...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I hadn't thought of saving others like that...
 Ichika: What?
@@ -101,13 +87,13 @@ Kanade: I want to say that experience is also important... But that won't exactl
 Kanade: So, for now, let's try coming up with a way to make it sound more balanced...
 Ichika: ...! I really appreciate it!
 Kanade: Okay, I'd like to start taking a closer look. It should be easier to see everything on my computer since it has bigger screens. So, I'll just send the file to myself...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000133/bg_s000133.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000133/bg_s000133.webp)
 Kanade: Alright, it's open. I'll mute everything except the drums.
 Ichika: That's amazing...! You really know what you're doing.
 Kanade: This is nothing special. I just moved a few things around on the screen.
 Kanade: We'll start working on your song now... First, let's listen to how the drums sound...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -133,4 +119,4 @@ Kanade: So, I can make this part sound more subdued...
 Ichika: (W-Wow... It's like she's a professional songwriter...)
 Ichika: (And she helped establish the foundation for my song...)
 Ichika: (All that's left for me is to use my computer to get it over the finish line!)
-(Black cut)
+(Black transition)

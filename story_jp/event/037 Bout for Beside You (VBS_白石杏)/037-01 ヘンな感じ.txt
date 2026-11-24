@@ -9,22 +9,18 @@
 杏: 到着ー！ ふぅ、ランチの手伝い、結構長引いちゃったな
 杏: 彰人と冬弥も今日は遅れてくるって言ってたし、 こはねがヒマしてないといいけど……
 杏: ま、きっと今頃ミク達と練習してるよね。 こはね、あのイベントからすごく調子いいし——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　————～～～！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………
 杏: 本当に、すごい歌だったな
 こはね: ————！　————～～～！！
 杏: あ、この声……
-(Black cut)
+(Black transition)
 こはね: ————！　————～～～！！
 レン: わぁ……！
 こはね: ……ふぅ。 えっと、どうだったかな？
@@ -53,24 +49,20 @@
 冬弥: 彰人、どうかしたか？
 彰人: あ……いや、なんでもねえよ。 そろそろ練習始めるぞ
 ミク (VBS): …………？
-(Black cut)
+(Black transition)
 こはね: ♪ ————————っ！！
 冬弥: 声がよく出ているな。 この前のイベント以来、どんどんいい歌を 歌えるようになっているんじゃないか
 冬弥: 油断していると、あっという間に追い越されてしまいそうだな
 こはね: えへへ、ありがとう、青柳くん！ でも、RAD WEEKENDを超えたいなら、 もっと頑張らなくっちゃだよね！
 杏: …………？
 杏: （……なんだろう。 胸のあたりがモヤモヤする……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　————～～～！！
 杏: （今の——こはねが？）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: おい！　ボーっとすんな！ 声出しからいくぞ
 杏: あ、う、うん！
@@ -82,7 +74,7 @@
 杏: （２回目の『STAY GOLD』で優勝したあの時から、 こんな感じが増えてる気がする）
 杏: （こはねが自信持って歌えるようになったんだし、 何も悪いことは起きてないんだけど……）
 彰人: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -105,7 +97,7 @@
 洸太郎: あいつ、今やってる対戦イベントで突然、 観客席にいたオッサンに勝負を申し込んだんだ
 洸太郎: そしたら——そのオッサンに、遠野が負けそうなんだよ！！
 彰人: ……何！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ライブハウス]
@@ -121,17 +113,13 @@
 彰人: ——嘘だろ！？
 冬弥: どうしたんだ？　白石、彰人。 あの人を知ってるのか？
 こはね: あれ？　あの人……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謎の男: ……そうだな。 嬢ちゃんに足りないものは——
 謎の男: 自分を見る目、だな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: あの時アドバイスしてくれたおじさん……！？
 謎の男: じゃあ、次の曲いくか？ お前にその気があればだけどな
@@ -148,4 +136,4 @@
 こはね: それって……
 謎の男: ♪ ————————！！
 こはね: …………！？
-(Black cut)
+(Black transition)

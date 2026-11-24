@@ -43,7 +43,7 @@ MEIKO: 『ええ。でも、私のことは気にしないで大丈夫よ。 今
 ミク (WxS): 『えっ？』
 寧々: 今のわたしの歌を、みんなに――ミク達にも 聴いてもらいたくって
 ミク (WxS): 『もちろんっ！　みんなでショーしようっ♪ 司くん達も一緒に！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -51,7 +51,7 @@ MEIKO: 『ええ。でも、私のことは気にしないで大丈夫よ。 今
 KAITO: ああレン、そのオーナメントをここにつけてくれるかい？ それで飾りつけは終わりだよ。足場が悪いから気をつけてね
 レン: オッケー！ よいしょっと……うわっ！
 KAITO: あ、レン！　危ない！
-(Black cut)
+(Black transition)
 レン: あいたた……あれ？　痛くない？
 MEIKO: もう、レンったら気をつけなきゃ。 私が支えなかったらケガしてたわよ？
 レン: ありがとうメイコ！　助かったよ！
@@ -75,7 +75,7 @@ KAITO: じゃあ、類くん。 一緒に歌わないかい？
 類: え？
 寧々: ……わたしからもお願い。 昔みたいに、思いっきりやれたら嬉しいな
 類: フフ。ご指名とあらば、もちろんだよ
-(Black cut)
+(Black transition)
 MEIKO: それじゃあ、用意はいいかしら？
 寧々: ……うん！！
 寧々: （わたしは、ショーが大好き）
@@ -89,6 +89,6 @@ MEIKO: それじゃあ、用意はいいかしら？
 ミク (WxS): 今回は、ミク達がいなくても大丈夫だったみたいだね♪
 レン: ねえミク！　ボク達も一緒に歌おうよ！
 ミク (WxS): うんっ！　キラキラなクリスマスショーにしようね～っ☆
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000038/bg_a000038.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000038/bg_a000038.webp)
+(White transition)

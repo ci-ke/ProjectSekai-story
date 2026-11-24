@@ -60,7 +60,7 @@ Nene: Y-You think so...?
 Nene: (I wasn't sure how my scented candles would turn out at first...)
 Nene: (But it gave me a chance to get to know Yoisaki and Mochizuki better... Plus, everyone here seems to really like what I made.)
 Nene: (So, I'm really glad that I did this...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -81,7 +81,7 @@ Mizuki: But you really went out of your way to get these!
 Miku (N25): Thank you, Mafuyu... We really appreciate what you did.
 Mafuyu: Then, I'm glad...
 Mizuki: Alright, let's move on to our next present-giver...!
-(Black cut)
+(Black transition)
 Rin: Wow... You all brought so much...
 Luka: Mizuki brought cookies that look like different animals, Ena brought chocolates shaped like lollipops...
 Mizuki: Heehee! Aren't they cute?
@@ -130,16 +130,12 @@ Len: You helped make this Valentine's Day feel really special...!
 Kanade: No... I should be the one thanking you.
 Len: Huh?
 Kanade: You made me realize something important.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I had a lot of fun making these scented candles with you and the others.
-(Black cut)
+(Black transition)

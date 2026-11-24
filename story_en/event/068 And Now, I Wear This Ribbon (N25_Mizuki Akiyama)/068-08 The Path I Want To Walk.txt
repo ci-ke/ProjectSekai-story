@@ -2,15 +2,13 @@
 
 (Character: Rui Kamishiro, Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama, Hatsune Miku, Megurine Luka)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Mizuki's Room]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 [Enanan] (Ena): <Wait, us...? As in the four of us as a group...?>
 (Background change)
@@ -48,45 +46,35 @@ Mizuki: <...? Yes?>
 (Background change)
 Mizuki: <...!>
 [K] (Kanade): <So, I'll be waiting.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 Mizuki: (Making music videos is pretty fun...)
 Mizuki: (Also...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 [K] (Kanade): <I still stand by my belief that I want to do what I can to have our songs heard by more people...>
 (Background change)
 [K] (Kanade): <However, I also personally want to see you make more videos...>
 [K] (Kanade): <Because what you make, Amia... There's so much pain, but also kindness.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: It's incredible how she can just say stuff like that...
 Mizuki: (And I have all the time in the world since I'm not really going to school...)
 Mizuki: (Plus, it was really fun to make something with other people while chatting with them about stuff...)
 Mizuki: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: So weird...
-(White cut)
+(White transition)
 (Background change)
 Rui: Mizuki...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: It's too hard...
 Mizuki: (Being called weird and treated like an outcast... Being torn away from someone I really liked hanging out with...)
@@ -146,8 +134,8 @@ Mizuki's Sister: It's too big for me to take, so I was hoping that you could put
 Mizuki's Sister: That way, if you ever feel the desire, you could start making clothes again like you used to.
 Mizuki: ...
 Mizuki's Sister: Also... Here, take this...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000106/bg_s000106.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000106/bg_s000106.webp)
 Mizuki: A ribbon...?
 Mizuki's Sister: Yes. I made it using my favorite kind of fabric. It's cute, right?
 Mizuki's Sister: So, if you ever feel like wearing it.
@@ -160,29 +148,25 @@ Mizuki: Sis...
 Mizuki's Sister: People may end up saying some really awful things about you. But...
 Mizuki's Sister: Please... Don't ever forget that I'll always be on your side, Mizuki.
 Mizuki's Sister: Whatever you choose to do in life, I'll be there to support you every step of the way.
-(White cut)
+(White transition)
 (Background change)
 Mizuki: ...
 Mizuki: (Whatever I...)
 Mizuki: (Whatever I choose to do in life...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Thanks, Sis...
 Mizuki: I'm honestly still pretty scared... But...
 Mizuki: I'm gonna give it a try...
 Mizuki's Sister: Okay. Good luck, Mizuki...
 Mizuki: Hehe. You too, Sis!
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: (This might actually not end up going well.)
 Mizuki: (And I might end up back in a place where nothing matters to me anymore.)
@@ -202,7 +186,7 @@ Mizuki: <I'd like to accept your offer.>
 (Background change)
 (Background change)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Miku (N25): I didn't know about that...
 Ena: Yeah, I think this is also my first time hearing about your big sister being the one who gave you that push.
@@ -235,7 +219,7 @@ Ena: Probably? What's that supposed to mean? Also, you said you liked my illustr
 Kanade: E-Ena, let's just calm down...
 Miku (N25): We're all friends here...
 Mizuki: Haha...! Yeah, Ena! What they said!
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Wow, it's already this late.
 Mizuki: Talk about a huge blast from the past...
@@ -246,7 +230,7 @@ Mizuki: The new clothes you made were so cute! I also wore the ribbon you sent r
 Mizuki: And I shared the snacks you sent with everyone from my group. They really enjoyed them, so thanks a bunch.
 Mizuki: Huh...? How have I been lately?
 Mizuki: Things have been super fun.
-(Black cut)
+(Black transition)
 (Background change)
 
 [25:00:00]
@@ -260,4 +244,4 @@ Mizuki: Hehe. This is really awesome! And it's gonna look amazing after I throw 
 Mizuki: So... Let's get down to business!
 Mizuki: (We're gonna get a ton of people to listen to Kanade and Mafuyu's song through our video.)
 Mizuki: <Hey, everyone!>
-(White cut)
+(White transition)

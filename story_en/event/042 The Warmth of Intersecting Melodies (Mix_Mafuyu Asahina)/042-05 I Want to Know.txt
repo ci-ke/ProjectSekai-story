@@ -13,7 +13,7 @@ Kanade: Yes, it has been getting chilly. It was so cold the other day when I wen
 Honami: Hehe. That's very common during a transitional period, so please try to keep warm and stay healthy.
 Kanade: You too, Ms. Mochizuki. Thank you.
 Honami: I will. Anyway, I'll start cleaning...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -56,15 +56,11 @@ Honami: Yes. She also mentioned how she was hoping to talk more with you.
 Honami: She seems to want to get to know you better as both a fellow songwriter and a fan of Miku songs.
 Kanade: I see...
 Kanade: (I've never actually made that much of an emotional investment into Miku songs but...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Honami: Again, you don't have to if don't like...
@@ -78,7 +74,7 @@ Honami: Yes?
 Kanade: Would you mind joining us for this? I honestly don't really get out much, so I may have some trouble keeping a conversation going.
 Honami: Hehe. I'd be happy to. I'll be sure to work it into my schedule.
 Kanade: Thank you very much.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -88,18 +84,14 @@ Miku (N25): Is everything okay, Mafuyu? Is something bothering you?
 Mafuyu: Maybe. I'm not sure... Something has been on my mind.
 Miku (N25): Care to explain?
 Mafuyu: Well, it's about the CD I helped Kanade get...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I couldn't be happier since I'd given up on being able to listen to it.
 Miku (N25): I see... Good for you, Kanade.
 Kanade: Thank you...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: That time... The way she smiled made my chest feel so warm for some reason.
 Mafuyu: Before she'd even listened to it too. Why is that...?
@@ -109,7 +101,7 @@ Kanade: Mafuyu, I knew I'd find you here.
 Mafuyu: Is something the matter, Kanade...?
 Kanade: Yes, there's something I need to report to you. Also, Miku mentioned before how she wanted to listen to this CD.
 Miku (N25): Report...?
-(Black cut)
+(Black transition)
 Miku (N25): So you get to meet the girl who lent you this CD...?
 Kanade: Yes. As it turns out, she's a friend of Ms. Mochizuki from the housekeeping service I use.
 Kanade: I believe it'll also be a good learning experience since I hardly ever get to meet other people who make their own music like this...
@@ -138,4 +130,4 @@ Mafuyu: Would you mind telling me when you'll be meeting them once you know more
 Kanade: Y-Yes, of course...! I'll be sure to let you know.
 Kanade: Thank you, Mafuyu.
 Mafuyu: You're welcome...
-(Black cut)
+(Black transition)

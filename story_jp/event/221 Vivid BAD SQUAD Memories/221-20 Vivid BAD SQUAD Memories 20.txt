@@ -4,7 +4,7 @@
 
 : 言語の壁にぶつかりながらも、 RUSH BEATSの予選を勝ち抜いたVivid BAD SQUAD
 : そこへ、エレナ達の父であり、 世界的な音楽プロデューサーでもある 『DG』が声をかけてくる
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: 『——ああ、ここだったか』
 冬弥: 『……！　あなたは……』
@@ -13,7 +13,7 @@
 観客達: 『な、なんでDGがここに！？』
 ダグラス: 『せっかくの談笑中に話しかけてしまってすまない』
 ダグラス: 『Vivid BAD SQUADに話があったんだけれど…… 今、少し時間はあるかな？』
-(Black cut)
+(Black transition)
 (Background change)
 ダグラス: さて——まずは、今日のお礼を言わせてほしい
 杏: お礼……ですか？
@@ -22,16 +22,12 @@
 ダグラス: 今日は、君達の歌に魅せられたいちファンとして。 そして……友人の父親として。いろいろなことを話せるといいな
 冬弥: ……はい
 こはね: （この前も思ったけど……すごく、丁寧に話す人だな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エレナ: あいつは、冷たい人間なんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （冷たい人、か……）
 杏: えっと……じゃあ、よければ聞かせてもらってもいいですか？
@@ -50,10 +46,10 @@
 ダグラス: ……そうだったのか、エレナ達が……
 ダグラス: ふたりがあの歌の糧になっているなんて…… なんだか誇らしいよ
 ダグラス: もっとも、あの子達に言ったら、 『あんたが誇りに思うな。関係ないでしょ』 と言われそうだけれどね
-(Black cut)
+(Black transition)
 (Background change)
 : エレナ達と確執がある様子のDG。 しかし、Vivid BAD SQUADには好意的で——
-(Black cut)
+(Black transition)
 (Background change)
 謙: あいつには、深く関わりすぎない方がいい
 冬弥: え？
@@ -63,14 +59,14 @@
 謙: ……ああ
 謙: DGは、いい噂も多いが、悪い噂も絶えない。 ……それがどうにも気持ちが悪い
 謙: もちろん噂の範疇は出ないが…… 気を付けるにこしたことはない
-(Black cut)
+(Black transition)
 (Background change)
 : それから数日後。 秘密基地で、ある事件が起きる
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……なんだよ、これ……
 杏: 何があったの……！？
-(Black cut)
+(Black transition)
 セドリック: …………どうして
 セドリック: ……どうして、こんなことに……
 セドリック: この場所も、曲も——全て……
@@ -80,7 +76,7 @@
 彰人: （……わけがわからねえ）
 彰人: （……どうして、こんなことになってんだ……？）
 地元の人達: 『——おい、みんな！　こっちに来てくれ！』
-(Black cut)
+(Black transition)
 彰人: （どうして、オレのキーリングが——）
 杏: え、っと……
 杏: 『なんで彰人の物が、ここにあるわけ……？』
@@ -88,12 +84,12 @@
 セドリック: 『……………………』
 地元の人達: 『そいつは、窓のすぐそば——侵入経路に落ちてた。 つまり……』
 地元の人達: 『犯人の物ってことだ』
-(Black cut)
+(Black transition)
 彰人: （……なんでだ？）
 彰人: （どうしてこんなことになってんだ……？）
 彰人: （倉庫が荒らされて、 オレが……オレ達全員が疑われて——）
 彰人: （一体、何がどうなってんだよ……！！）
-(Black cut)
+(Black transition)
 (Background change)
 : 犯人の疑いをかけられたまま、 日本に帰国することになったVivid BAD SQUAD。 この先、４人を待ち受けるのは——
-(Black cut)
+(Black transition)

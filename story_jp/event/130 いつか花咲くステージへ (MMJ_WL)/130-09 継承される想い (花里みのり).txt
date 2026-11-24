@@ -2,7 +2,7 @@
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 みのり: う……やっと光がなくなった……？
 みのり: でも……、あれっ、ミクちゃんは？ それに、ここって——
@@ -11,16 +11,12 @@
 (Background change)
 小さな女の子: でも、まだまだ——もういっかい！ いちに、さんし……ここで、ターン！
 みのり: あれ、この子……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小さな女の子: あ、あのね……あのね！ いつもおうちでみのりちゃんの動画見てるんだけど……、 今日のみのりちゃん、一番キラキラしてた！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （ワンマンの時に話しかけてくれた子だ……！）
 みのり: （それに、この子が踊ってるのって……）
@@ -35,33 +31,25 @@
 小さな女の子: わたしはみのりちゃんみたいにキラキラで、 みんなを元気にできるアイドルになるの！ それで——
 小さな女の子: いつか、一緒に歌うんだ！
 みのり: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 小さな女の子: それでね、すっごくかわいくてね、 だからね、わたし——
 小さな女の子: みのりちゃんみたいなアイドルになる！ いつか、いっしょに歌お！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （あの時の気持ち…… ずっと、大事にしてくれてるんだ……）
 みのり: （……わたしも、そうだったな）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000125/bg_s000125.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000125/bg_s000125.webp)
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （あの時遥ちゃんを見て、 遥ちゃんと一緒に歌いたいって思って、一生懸命練習して）
 みのり: （それで、今——）
-(White cut)
+(White transition)
 (Background change)
 ？？？: うう、やっぱり遥ちゃんのあのダンスには遠いなあ
 みのり: え……
@@ -73,30 +61,26 @@
 みのり: （懐かしいな。 ちょっと前まで、ずっとこうやって練習してたっけ）
 みのり: （オーディションもいっぱい落ちて…… そのたびにちょっとめげそうになったけど）
 みのり: （遥ちゃんに明日をがんばる希望をもらって、 『今日もやるぞ～！』って毎日毎日、たくさん練習して——）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000124/bg_s000124.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000124/bg_s000124.webp)
+(White transition)
+(Flashback out)
 (Background change)
 みのり: （あの時やっと、 わたしが憧れたアイドルになれた気がしたんだ）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000314/bg_s000314.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000314/bg_s000314.webp)
 幼いみのり (みのり): うう……でも、やらなくちゃ…… わたしは遥ちゃんみたいになるんだ……
 幼いみのり (みのり): ぜったいぜったい、アイドルになる……！
 みのり: ——がんばってね
-(White cut)
+(White transition)
 (Background change)
 みのり: つらいこととか、大変だなあって思うことって、 今も、これから先も……いっぱいあると思うんだ
 みのり: でも、今みたいにがんばり続けたら——
 みのり: 『アイドルになるんだ』って気持ちを ずーーっと持ち続けたら、絶対乗り越えられるよ
 みのり: それで、いつか……
 みのり: 夢見てたより、もっともっとすてきなステージで、 大好きな人達と一緒に歌えるから！
-(White cut)
+(White transition)
 (Background change)
 愛莉: みのり！ ……みのり！
 みのり: え……
@@ -141,6 +125,6 @@ MEIKO (MMJ): みのりちゃん……
 リン (MMJ): あれ？ 今、誰かのスマホ、鳴らなかった？
 みのり: あっ、わたしだ！ メッセージかな。誰だろ——……
 みのり: えっ……！？ ちーちゃん……！？
-(Black cut)
+(Black transition)
 (Video: link_idol_ed4)
-(Black cut)
+(Black transition)

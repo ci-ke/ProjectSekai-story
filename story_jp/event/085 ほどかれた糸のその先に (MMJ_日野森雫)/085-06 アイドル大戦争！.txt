@@ -40,16 +40,12 @@
 雫: （いつも、『完璧な日野森雫をやりきらなくちゃ』って、 自分のことばかりに精一杯で……）
 雫: （——でも）
 雫: （今の私は、あの頃の私とは違う）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: アンタに与えられるのは、 誰かにとって死ぬほど欲しいチャンスなのに、 それを自分のものにしようって気もまるでないし
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （——その言葉の意味を、 私はあの時、ちゃんと理解できていなかったわ）
 雫: （でも、今は……）
@@ -64,7 +60,7 @@
 雫: 大丈夫よ
 雫: 久しぶりの収録、楽しみましょう
 愛莉: ——気合い十分ね。 行きましょう！
-(Black cut)
+(Black transition)
 アリサ: さあ、ここからは大好評のミニコーナー、 注目アイドルグループを深堀りする『FutureにFeature！』 引き続きMCは真理奈とアリサでお届けします～！
 真理奈: それではさっそくご登場いただきましょう！ MORE MORE JUMP！の皆さんです！
 みのり: （えっと、台本だと、まずはここで自己紹介……！）
@@ -79,16 +75,12 @@
 アリサ: 今日、話せるの楽しみにしてたんだ～！
 アリサ: ……って、いつも話してる感じでいいよね？ 私、敬語ってちょっと苦手だし
 雫: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: とにかく、敬語はやめてよ。 せっかく同じグループの仲間になったんだし。それと——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ——ええ。大丈夫よ
 真理奈: なんかタメ口だと女子校みたいだけど、 アリサちゃんってみんなと知り合いなんでしたっけ？
@@ -110,19 +102,15 @@
 遥: （こういう話をされるかもとは思ってたけど、 ここまでストレートに突っ込んでくるとはね）
 愛莉: （雫の脱退のことは、向こうとしてもいい話じゃない。 事務所が台本に目をとおしてるなら、 踏み込んだ話は止めるだろうって思ってたけど）
 愛莉: （……この子のことを甘く見ていたわ。それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アイハザプロデューサー: アイハザではアイドル同士のガチンコトークを売りにしているので 突っ込んだ話も、もちろん大歓迎ですから——
 アイハザプロデューサー: 今回も、皆さんとMCの そういう話を聞けることを期待しています
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: （……そうよね。テレビってそういうものだし、 わたし達は、それを覚悟してここに立ってる）
 愛莉: （でも……）
 愛莉: （雫……大丈夫かしら）
-(Black cut)
+(Black transition)

@@ -101,7 +101,7 @@ nightcode_01_03 OWN
 奏: そっか……
 奏: ちゃんと救えてたんだ。 わたしの曲で
 奏: よかった……
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -116,4 +116,4 @@ nightcode_01_03 OWN
 まふゆ: ……くだらない
 まふゆ: こんな曲作り続けても、まだ全然見つけられない
 まふゆ: 見つけられないなら、私は……
-(Black cut)
+(Black transition)

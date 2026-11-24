@@ -30,16 +30,12 @@
 彰人: んなもん、オレにわかるわけねえだろ
 冬弥: ますます謎は深まるばかりだな……
 こはね: うん……。 今わかってるのは、 あのふたりがアメリカに住んでるってことくらい、だね……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 スレイド: それじゃあ——アメリカで、待ってるよ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: アメリカ、か……
 こはね: あ、メッセージ？　誰からだろう……
@@ -62,15 +58,11 @@
 冬弥: 彰人……
 洸太郎: ほ、本気か！？ アメリカだぞ？　遠いぞ？
 彰人: んなことわかってるっての。 ただ、オレは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ——世界を、見てみてえ
 洸太郎: 世界を……
@@ -99,4 +91,4 @@
 彰人: （オレは進むだけだ。どこまででも）
 彰人: （その先に、 オレを突き動かすものがあるかもしれねえなら……）
 彰人: （——行ってやる。世界の果てにだってな！）
-(White cut)
+(White transition)

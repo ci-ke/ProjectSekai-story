@@ -8,13 +8,13 @@
 
 リン (MMJ): わあ～！
 ミク (MMJ): カイトくん、すごい！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000396/bg_s000396.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000396/bg_s000396.webp)
 KAITO (MMJ): よっ……ほっ……
 リン (MMJ): カイトくん、お手玉すっごく上手だね！
 みのり: うん！　なんだか手品みたいだよ〜！
 KAITO (MMJ): ありがとう！ 愛莉ちゃん達が遊んでいるのを見てたから、 遊び方のイメージがわきやすかったのかもしれないな
-(White cut)
+(White transition)
 (Background change)
 ルカ (MMJ): ふふ。けん玉に、おはじきにお手玉…… 愛莉ちゃんが買ってきてくれたおもちゃ、どれもおもしろいわね
 ミク (MMJ): うん！　たくさん用意してくれて、ありがとう
@@ -41,7 +41,7 @@ KAITO (MMJ): ありがとう！ 愛莉ちゃん達が遊んでいるのを見て
 愛莉: ——さて、とにもかくにも、 スポーツ羽根つきを配信前に試してみましょ！
 愛莉: 新年もたくさんの希望を届けるために—— 全力でがんばるわよ！！
 みのり・遥・雫: 『おー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -71,16 +71,12 @@ MEIKO (VBS): そういえば、昨日は彰人くんのお姉さん達と一緒�
 彰人: ったく……勝手に言ってろ
 彰人: （……まあ、言いたかったことを言えたのはよかったけどな）
 彰人: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……オレ達の夢を、近くで応援してくれる人もいるって 改めてわかったしな）
 彰人: （それに応えるためにも、 これからも——前に進み続けねえと）
-(White cut)
+(White transition)

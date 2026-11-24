@@ -51,7 +51,7 @@ Kanade: <Yes, um... I agree, but...>
 Kanade: <I do think that I need to do some cleaning.>
 (Background change)
 Mizuki & Ena: <What?!> <Really?!>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <Now I see. You've been able to focus more on your work because your housekeeper friend has been periodically cleaning your room.>
 (Background change)
@@ -74,7 +74,7 @@ Kanade: <Um, Enanan, Amia... There's something I'd like to ask the both of you..
 Mizuki: <Hm? Sure, what's up?>
 (Background change)
 Kanade: <Do either of you know of any bakeries that sell good apple pies?>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -124,7 +124,7 @@ Kanade: <Oh... We had some together from this shop just last week...>
 Mizuki: <Grr... Strike two! I'll admit, she is quick.>
 (Background change)
 Ena: <K, how about here? It's inside the shopping mall...>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <That's every apple pie shop in Shibuya...>
 (Background change)
@@ -140,7 +140,7 @@ Mizuki: <You're welcome♪>
 Ena: <I hope Honami likes what you get for her.>
 (Background change)
 Kanade: <Me too.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -163,4 +163,4 @@ Honami: ...!
 Honami: Ms. Yoisaki...
 Kanade: So, let's have some of these apple pies together when it's snack time.
 Honami: Yes, I'd love to.
-(Black cut)
+(Black transition)

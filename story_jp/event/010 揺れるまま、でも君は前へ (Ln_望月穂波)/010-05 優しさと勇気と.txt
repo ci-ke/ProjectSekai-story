@@ -34,33 +34,25 @@ MEIKO: でも、もっと優しくなるためには、 勇気が必要な時も
 MEIKO: 穂波は、優しいってどういうことだと思う？
 穂波: え？
 穂波: 優しい……ですか。 それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: そんなこと言われても、 みんなの意見を聞いたら悩んじゃうよね……
-(White cut)
+(White transition)
 咲希: 暗い顔してると、いいアイディアも出てこなくなっちゃうよ！ そうだ、今日アップルパイ食べに行こっか！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: 誰かの気持ちに寄り添ったり……、 落ちこんでいる人を笑わせたり……
 穂波: それから——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 穂波が悩んでるのって、怖いからじゃない？
-(White cut)
+(White transition)
 志歩: ……だから、穂波がいいって思うほうにしたらいいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: あ……
 穂波: 相手のために、厳しいことを言ったり……
@@ -84,7 +76,7 @@ MEIKO: ふふ、いい表情だね
 MEIKO: うん、頑張って。 穂波なら、きっとできるよ
 MEIKO: じゃ、ここからは気持ちを切り替えて、 ドラムの練習をしようか！
 穂波: はい、よろしくお願いします！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　早朝]
@@ -94,4 +86,4 @@ MEIKO: じゃ、ここからは気持ちを切り替えて、 ドラムの練習
 穂波: 今のわたしがみんなのためにできる、 一番の優しさ……
 穂波: これでいいのかは、まだわからないけど……
 穂波: それでも今は——進みたい！
-(Black cut)
+(Black transition)

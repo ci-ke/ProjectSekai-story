@@ -6,17 +6,13 @@
 
 雫: ……駄目だわ、これも違う気がする
 雫: （帰ってから何枚か描いたけど、 どれもしっくりこないわ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: こうじゃなきゃいけないってものはないから、 型にとらわれないで、自由に考えてみていいと思うよ
 遥: そうすればきっと、雫の作りたいデザインが 浮かんでくるんじゃないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: …………
 雫: （私の作りたいものって、どういう衣装なのかしら）
@@ -31,19 +27,15 @@
 雫: ……駄目だわ。どうしても思い浮かばない
 雫: （愛莉ちゃんに話を聞いてもらいたいけど、 ……この時間だとさすがに迷惑よね）
 雫: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: あ……
 雫: ミクちゃん達なら、まだ起きているかしら？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -66,22 +58,18 @@ KAITO: でも、その前に……
 ミク (MMJ): ううん、気にしないで！
 リン: どうしたの？　雫ちゃん
 雫: ええ、実は——
-(Black cut)
+(Black transition)
 KAITO: そっか、衣装のアイディアが浮かばないんだ
 雫: みんなは自分の表現したいものがしっかりあるのに、 私には何もないように感じるんです
 雫: ファンのために—— MORE MORE JUMP！のみんなのために、 いいデザインを作りたいのに……
 ミク (MMJ): ねえ、雫ちゃん！
 ミク (MMJ): 雫ちゃんが作りたい、“いいデザイン”ってどんなのかな？
 雫: えっ？　それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: MORE MORE JUMP！のみんなが ステージの上で輝くことができて——
 雫: 私達を応援して、力を貸してくれるファンのみんなに それ以上の希望を届けられるようなものが一番だと思うわ
@@ -96,8 +84,8 @@ KAITO: なるほど。いいデザインになりそうだね！
 ミク (MMJ): うん、じゃあ一緒に行こう！ カイトくん、話しあいはあとでいいかな？
 KAITO: もちろん。いってらっしゃい！
 ミク (MMJ): ありがとう！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000057/bg_s000057.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000057/bg_s000057.webp)
 雫: わあ……！
 雫: すごいわね。 これ、全部ステージ衣装？
 ミク (MMJ): うん！　わたし達とルカちゃん、めーちゃん、 あとカイトくんとレンくんの分もあるよ
@@ -107,15 +95,11 @@ KAITO: もちろん。いってらっしゃい！
 ミク (MMJ): そうだよ♪
 ミク (MMJ): いつもと違うわたしみたいな……、 キラキラしてて、なんでもできる気分になれるの
 雫: いつもと違う、私……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: あ……
 ミク (MMJ): それにね、雫ちゃん。 ここにある衣装は、全部“想い”からできてるんだよ
@@ -125,4 +109,4 @@ KAITO: もちろん。いってらっしゃい！
 ミク (MMJ): だからね、雫ちゃんがどんな想いを衣装にこめたいのか—— それが見つかれば、きっといいデザインができると思うよ♪
 雫: どんな想いを衣装にこめたいのか……
 雫: 私は——
-(Black cut)
+(Black transition)

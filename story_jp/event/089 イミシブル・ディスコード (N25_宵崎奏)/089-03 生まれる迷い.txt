@@ -7,18 +7,14 @@
 [奏の部屋]
 
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 メッセージ: 『あの子が今、受験生だからです』
 メッセージ: 『あの子には、音楽とは別に目指す夢もあります。 もし、雪のことを友達として想ってくれているのであれば、 今は勉強に集中させてあげてくれませんか？』
-(White cut)
+(White transition)
 メッセージ: 『——それが、あの子の将来を狂わせるかもしれない、 としてもですか？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 奏: （ニーゴの活動が、将来のためになるかって言われたら…… わからない）
 奏: （でも、今のまふゆは……ニーゴで曲を作りたいって思ってる）
 奏: （それに、わたし達と曲を作ることが 本当のまふゆを見つけることにも、きっとつながってる）
@@ -131,15 +127,11 @@
 奏: 『……、えっと…… まふゆと音楽をするのは、控えてほしいって』
 (Background change)
 奏: 『それと——』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 メッセージ: 『あの子には、音楽とは別に目指す夢もあります。 もし、雪のことを友達として想ってくれているのであれば、 今は勉強に集中させてあげてくれませんか？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: 『それと……どうしたの？』
 奏: 『あ……ううん、なんでもない』
@@ -158,18 +150,14 @@
 瑞希: 『さすがに何かされるとかはないと思うけど……、 これだけボク達のこと探してるんだし、 何言われるかわかんないよ』
 奏: 『……うん、わかってる』
 奏: 『わたしも……さっきまで、少し迷ってたんだけど』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『今は、しばらく来れなくなる』
 まふゆ: 『だけど——』
 まふゆ: 『ちゃんと、戻ってくる』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『……まふゆに関わることだから、 行かないといけないと思った』
 奏: 『それに……まふゆのお母さんの言いたいことも、 知っておきたくて』
@@ -199,4 +187,4 @@
 (Background change)
 奏: 『……うん、ありがとう』
 (Background change)
-(Black cut)
+(Black transition)

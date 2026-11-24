@@ -7,10 +7,10 @@
 Minori: Humhumhuum♪
 Minori: I accomplished my goal of running 3 km yesterday, so I've gotta keep it up and keep training!
 Minori: But Haruka does two 5-km runs every day in the morning and evening... I really hope that I can run like her someday!
-(White cut)
+(White transition)
 (Background change)
 Haruka: Don't stress too much, Minori. After all, you can't become an idol in a day.
-(White cut)
+(White transition)
 (Background change)
 Minori: Yes, Haruka! I'm gonna take it slow and go at my own pace!
 Minori: Wait, is it okay for me to go so slow...?
@@ -44,7 +44,7 @@ Kohane: Oh, I heard about that too...! It's the place where you can play soccer 
 Minori: What?! That sounds super fun...!
 Minori: (SpoJoy Park...)
 Minori: (It could also be fun to do a stream there. I'll bring it up as an idea for a segment the next time we meet...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend]
@@ -56,7 +56,7 @@ Minori: Alright, I'm all stretched and ready to go! I'm gonna do my best during 
 Minori: But what's my route gonna be? I could go by the park and the station... Wait, I almost forgot!
 Minori: Ichika said she'd be doing a street performance down by the station today! I should stop by once I'm done jogging!
 Minori: Hehe. I can't wait!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Nonogi Park]
@@ -74,7 +74,7 @@ Ena: Kanade...
 Ena: Maybe I'll keep walking a little more since you're so motivated, Kanade...
 Ena: Look, this way has more shade. It should be a bit cooler, so wanna go together?
 Kanade: O-Okay... Thank you, Ena.
-(Black cut)
+(Black transition)
 Ena: Phew... We're finally at the center of the park.
 Ena: Oh, there's a lake over on the other side. The way the sunlight's being reflected off the surface is so pretty... It might be nice to try drawing a scene like this.
 Ena: I honestly didn't see myself going out for a walk on such a hot day, but it's a nice change of pace.
@@ -95,8 +95,8 @@ Ena: I'm not sure “interesting” is the right word...
 Ena: Also, we were just about to call it a day since Kanade looks pretty exhausted.
 Luka: <Really? That's too bad. Even after I came all this way to give you some encouragement.>
 Kanade: Encouragement...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000090/bg_s000090.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000090/bg_s000090.webp)
 Luka: <I'm here to support Ena too... But Kanade, you dread exercising, but decided to try it out as a way to help you focus on composing, yes?>
 Luka: <You have noble intentions, so doesn't it seem like a waste to stop here?>
 Kanade: Yes, I see your point...
@@ -106,7 +106,7 @@ Kanade: A-Although, it probably wasn't as hard as it could've been because we to
 Ena: Hey, we get an A for effort! This wasn't easy for me either!
 Luka: <Okay, but it's still unfortunate...>
 Luka: <I'm looking forward to seeing what kind of song Kanade composes after she increases her stamina.>
-(White cut)
+(White transition)
 (Background change)
 Ena: You say that, but what she composes won't drastically change, right?
 Kanade: ...
@@ -123,7 +123,7 @@ Minori: But it's great to see you again, Kanade! Were you two out for a walk tog
 Kanade: Yes, so I can keep composing...
 Minori: So you can keep composing...?
 Ena: Yeah, so... The thing is...
-(Black cut)
+(Black transition)
 Minori: Wait, you want to increase your stamina?!
 Ena: Yeah, we're the indoorsy types, so we thought it might be good to go out for walks every once in a while...
 Kanade: But I think we overdid it...
@@ -146,7 +146,7 @@ Kanade: Yes, I'm okay with it... That is, if it's okay with you, Hanasato.
 Minori: Yay! Thank you so much!
 Minori: Oh, before we go, there's somewhere I'd like to stop by first...
 Ena: Stop by? Where?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Outside the station]
@@ -155,4 +155,4 @@ Minori: Let's see... It should be around here... Aha!
 Ena: What's going on?
 ???: ——♪ ——♪
 Kanade: Wait, that voice...
-(Black cut)
+(Black transition)

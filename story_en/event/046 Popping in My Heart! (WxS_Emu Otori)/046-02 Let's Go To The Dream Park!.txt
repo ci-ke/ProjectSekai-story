@@ -26,7 +26,7 @@ Emu: (I want to “know” what to do! Just like how Tsukasa and the others were
 Emu: Oh...
 Emu: I'll be going for a little bit, but I won't be gone long...!
 Emu: So I'll see you later!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Airport]
@@ -43,7 +43,7 @@ Emu: Huh? Where'd Tsukasa go?
 Nene: What? Did he get lost already?
 Rui: Ah, he's striking a pose while basking in the sunlight by that window over there...
 Nene: Geez, I'll just act like I don't know him...
-(Black cut)
+(Black transition)
 Tsukasa: At last... My first step out into the world!!
 Tsukasa: Not even I was expecting to set out abroad so soon... My formidable talent knows no bounds!
 Tsukasa: O brave new world...
@@ -72,7 +72,7 @@ Emu: We will! Once we find a place that isn't too crowded, we'll let you guys kn
 Shosuke: Hm? Hey, we're going. You'll get left behind if you keep dragging your feet like that.
 Tsukasa: B-B-Be right there!
 Emu: Okay, everyone, let's go!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Riley Dream Park]
@@ -117,4 +117,4 @@ Rui: But until then, let's start making our way around the park. Where to start.
 Nene: Nope. I think we all know the answer to that.
 Tsukasa: I believe so! To the show stage!
 Emu: Yeah!!
-(Black cut)
+(Black transition)

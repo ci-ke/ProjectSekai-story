@@ -34,18 +34,18 @@ Audience: “Whoa, that part hit so hard...!”
 Audience: “Woohoo! This is great!”
 President: (This is incredible...)
 President: (The crowd's vibe is gradually changing as they resonate with the rhythm... And all that energy is concentrating in him.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000512/bg_s000512.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000512/bg_s000512.webp)
 Akito: ♪————————————!!
 Akito: (They don't speak my language. They don't even know my name. But none of that matters.)
 Akito: (I'll do anything to get where I need to go, even if I have to crawl.)
 Akito: (When I hit a wall, I'll gather my strength until I can get over it.)
 Akito: (Let's go.)
 Akito: (Let's go!)
-(White cut)
+(White transition)
 (Background change)
 Akito: ♪——————!!!
-(Black cut)
+(Black transition)
 Akito: Huff... Huff...
 Akito: (I was so focused, I gave myself tunnel vision.)
 Akito: (That felt like the hottest I've ever burned, but...)
@@ -78,17 +78,13 @@ Akito: Thank you for having us.
 Akito: (Now we can enter RUSH BEATS.)
 Akito: (I worried the heck out of the others... But now I can report back to them with my head held high.)
 Akito: (And...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (Now we're standing on the starting line.)
 Akito: (If we don't win RUSH BEATS, we'll never make it to the world stage.)
 Akito: (This is where the real fight starts.)
-(White cut)
+(White transition)

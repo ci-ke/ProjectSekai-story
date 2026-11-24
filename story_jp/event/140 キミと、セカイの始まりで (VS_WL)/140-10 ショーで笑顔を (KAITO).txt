@@ -3,7 +3,7 @@
 (Character: 天馬咲希, 天馬司, KAITO)
 
 (Video: link_ppr_op5)
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -26,7 +26,7 @@ KAITO: （……ふたりとも、とっても楽しそうだ）
 KAITO: （特に司くんからは、強い想いを感じる）
 KAITO: （咲希ちゃんを笑顔にしたいという、想いを）
 KAITO: （もしかしたら、これは——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -43,7 +43,7 @@ KAITO: （……昔、咲希ちゃんと見たショーのように、 誰かを
 KAITO: （すごくキラキラした想いだ）
 KAITO: ……この欠片が大きくなって、いつかあのセカイになるのかな
 KAITO: ……大きく、想いを育ててほしいな
-(Black cut)
+(Black transition)
 (Background change)
 幼い司 (司): こうして、ひとつの星を救ったペガサス冒険団は、 宇宙へと旅立ったのであった——
 幼い咲希 (咲希): え～！　宇宙に行っちゃったの！？
@@ -66,4 +66,4 @@ KAITO: （司くんらしい、壮大で夢があるお話だった。 僕も思
 KAITO: （……また、欠片が輝きを増してる）
 KAITO: ——あ……
 KAITO: これは、もしかして……
-(White cut)
+(White transition)

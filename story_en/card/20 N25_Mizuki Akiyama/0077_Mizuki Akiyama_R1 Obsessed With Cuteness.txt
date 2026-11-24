@@ -35,7 +35,7 @@ Skill name: Can't Handle Hot Food♪
 [K] (Kanade): <Not really.>
 [Amia] (Mizuki): <Oh...>
 [Amia] (Mizuki): (Which means what she eats is so delicious that she doesn't mind having it every day?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -56,12 +56,12 @@ Skill name: Can't Handle Hot Food♪
 [Enanan] (Ena): <Me too. K, let's take a little break.>
 (Background change)
 [K] (Kanade): <Okay.>
-(Black cut)
+(Black transition)
 (Background change)
 [Amia] (Mizuki): <Has it been three minutes already?>
 (Background change)
 [Enanan] (Ena): <Probably? Mine is already three minutes in.>
-(Black cut)
+(Black transition)
 [Enanan] (Ena): <Time to dig in! Fwoo, fwoo... Wow, it's good.>
 [Amia] (Mizuki): <I'm digging in, too! Get in there!>
 (Background change)
@@ -80,7 +80,7 @@ Skill name: Can't Handle Hot Food♪
 [Amia] (Mizuki): <Hey, this is pretty good for an occasional meal! Yummy♪>
 (Background change)
 [K] (Kanade): (What a strange way to eat instant noodles...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -127,4 +127,4 @@ Rui: Hehe, that's a great honor indeed.
 Rui: Encountering a rarely seen student in the wild has put me in quite a good mood as well.
 Mizuki: Aha, so that makes two of us, eh?
 Mizuki: Well, once you're done fixing up the robot, let me know. I'll make it the cutest outfit anyone has ever seen!
-(Black cut)
+(Black transition)

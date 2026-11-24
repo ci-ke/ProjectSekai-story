@@ -15,7 +15,7 @@ Akito: My English grammar is coming along, but I still can't remember the vocab 
 Akito: The supplementary classes are nearly over... At this rate, am I actually gonna pass...?
 Akito: I've gotta improve a little by tomorrow. I wanna be able to answer at least fifty—no, forty—percent of the questions.
 Akito: I'll go over what Toya and the others taught me while it's still fresh.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shinonome Household - Living Room]
@@ -33,7 +33,7 @@ Ena: Are you that surprised? You were right here telling Mom about it the other 
 Ena: If you don't wanna get held back, wouldn't it be wise to study right now?
 Akito: I don't need you to tell me that. I was about to go study.
 Ena: Oh. Well, good luck with that.
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -52,26 +52,22 @@ Akito: No way, Ena'll kill me if I do.
 Mother: That one's for you, Akito.
 Akito: Huh? For me?
 Mother: Yes. Earlier, Ena said...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ena: Thanks for dinner.
 Mother: You're welcome. Leave the dishes to soak, will you?
 Mother: Hm? There's one of those donuts you bought left over. It's only a little one, so why don't you just finish them off?
 Ena: Oh, it's okay. That one's for Akito.
 Ena: You need sugar when you're studying right?
 Ena: I don't know how long he's going to keep at it, but can you give it to him if he comes downstairs?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Akito: Ena...
 Mother: Well, I'm sure she was being thoughtful in her own way. Make sure you say thank you to her tomorrow.
 Akito: What a weirdo. What's next? Snow in summer?
 Akito: It's really good.
 Akito: Alright, time for one last push...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -137,4 +133,4 @@ Akito: Uh... Well...
 An: W-We'll give it shot...
 Kohane: Ahaha...
 Miku (VBS): Hehe. Well, I'm sure you've learned your lesson and will be consistently hardworking students from now on.
-(Black cut)
+(Black transition)

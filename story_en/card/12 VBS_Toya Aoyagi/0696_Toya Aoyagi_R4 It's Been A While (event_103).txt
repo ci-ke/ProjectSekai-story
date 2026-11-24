@@ -22,14 +22,14 @@ An: Woohoo!
 Akito: Thank you very much.
 An: You were just putting away the cups, right, Dad? Why don't we do the rest of the plates and stuff for him?
 Kohane, Akito & Toya: Okay! Yeah. Sounds good.
-(Black cut)
+(Black transition)
 Toya: Shiraishi, about the plates. Do you need us to sort each set into individual boxes?
 An: Hmm... A box for each one seems a bit excessive. I say just sort and load them up as best you can.
-(Black cut)
+(Black transition)
 Kohane: Oh, wait... The saucers should go with the cups, huh?
 Akito: Yeah. Ken's putting away the cups now, so we should probably take these over to him before he seals up the boxes.
 Kohane: Okay!
-(Black cut)
+(Black transition)
 An: Hey, check it out! This knife's super shiny now!
 An's Father: Okay, we see. Please stop waving it around like that.
 An: I wasn't waving it around. Gimme a little credit for giving it a good polish.
@@ -39,7 +39,7 @@ Akito: Really? I never cared about that. I was always more interested in the foo
 An: Me too! Eating was always way more important.
 Toya: That sounds like you two.
 Kohane: It does.
-(Black cut)
+(Black transition)
 An's Father: Okay, the tableware's just about all put away. Thank you all for lending me a hand with that.
 Toya: No, it was our pleasure since you and your establishment have given us so much.
 Toya: I still remember the first time I came here like it was yesterday.
@@ -59,7 +59,7 @@ An's Father: Sure, it'll be on me. The last cup before I close up here.
 Toya: Thank you very much!
 An's Father: Alright then, could you clear off that table?
 Toya: Of course!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -105,19 +105,15 @@ Toya: Outside of school, I had to spend all of my time practicing. I wasn't real
 Toya: His practices were hard, but I admired the way he played the piano. I dreamt of being able to perform like him someday.
 Toya: However...
 Toya: When I heard one of his performances in person, I was absolutely staggered.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Past Toya (Toya): ...
 Toya: I'd played that song for a contest once...
 Toya: But my performance paled in comparison to his. Each note he played was brimming with energy.
 Toya: That was probably the moment I saw how incredible the person I admired as a child really is.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I continued practicing to meet my parents' expectations...
 Toya: But I slowly began losing motivation.
@@ -138,4 +134,4 @@ MEIKO: That's wonderful, Toya.
 Luka: Yes, it is♪
 Luka: Thank you for telling me all this! I promise to keep giving you all the support I can, so feel free to ask if you ever think you need help!
 Toya: Yes, thank you.
-(Black cut)
+(Black transition)

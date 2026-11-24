@@ -9,8 +9,8 @@ wonder_01_00 Opening
 (Fullscreen text): But there was little I could do          at that tender age.
 (Fullscreen text): One day, our parents took us to a show.
 (Fullscreen text): I'll never forget what happened that day.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000003/bg_a000003.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000003/bg_a000003.webp)
 Little Saki (Saki): Wow! So cool!
 Little Saki (Saki): Did you see how cool that person was, Tsukasa?! They're all sparkly!
 Little Tsukasa (Tsukasa): Yeah, that was really, really cool! 
@@ -21,7 +21,7 @@ Little Saki (Saki): This is so much fun! I never want it to end... If only we co
 Little Saki (Saki): I know we can't because I'm not strong enough to go outside much...
 Little Tsukasa (Tsukasa): Saki...
 Little Tsukasa (Tsukasa): I know! If we can't go to the show, then...
-(White cut)
+(White transition)
 (Background change)
 
 [Some years later]
@@ -103,7 +103,7 @@ Miku (WxS): I'm sure everyone else has the same feelings as you too!
 Tsukasa: Who's this everyone else you're talking about? Why am I getting more questions than answers?!
 KAITO: Don't worry! As long as you want to find your true feelings, we'll meet again soon.
 Miku (WxS): Bye for now, Tsukasa! Until we meet again☆
-(White cut)
+(White transition)
 Tsukasa: Wait, what?! We'll meet again? Wh-What does that— 
 (Background change)
 (Place: Tsukasa's Room)
@@ -112,7 +112,7 @@ Tsukasa: I fell asleep? That was a really strange dream, too... Something about 
 Saki: Tsukasa! You're still here? You're going to be late for that job interview if you keep dawdling!
 Tsukasa: I-I know that! Also, it's not an interview! It's an audition!
 Saki: Like, who cares what it's called! Just hurry up and go before you're late!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -120,6 +120,6 @@ Saki: Like, who cares what it's called! Just hurry up and go before you're late!
 Tsukasa: Phew... I really thought I'd be late, but my speedy feet have saved the day and I'm right on schedule! Go me!
 Tsukasa: Hmph... Today, I'm taking my first big step on the path to stardom! I'll start my career by drawing the most attention to myself during this audition!
 Tsukasa: My stage is calling to me!
-(White cut)
+(White transition)
 (Video: theme_park_opening)
-(Black cut)
+(Black transition)

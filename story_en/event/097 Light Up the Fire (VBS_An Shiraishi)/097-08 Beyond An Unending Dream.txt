@@ -7,16 +7,12 @@
 An's Father: This is why RAD WEEKEND happened. This is how RADder ended. You now know everything...
 An: ...
 An: Aunt Nagi...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: Tell her... Tell her I believe in her...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Aunt...Nagi...
 An: Why didn't you just tell me yourself...?
@@ -30,13 +26,13 @@ An: And you were supposed to see the moment we did it...! When we surpassed RAD 
 An: You were supposed to do all of that...!
 An: But you're gone...!
 An: Th-That's not fair...!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000201/bg_s000201.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000201/bg_s000201.webp)
 An: *Tears of sorrow*
 An: Nagi...! Aunt Nagi...!
 An: You said we'd perform on stage together...!
 An: Aunt Nagi...!!!
-(White cut)
+(White transition)
 (Background change)
 An's Father: Nagi kept thinking about you all the way up until the end...
 An's Father: She believed in you. She thought you would be the one to carry our dreams.
@@ -55,29 +51,21 @@ An: ...
 An: You mean beyond you guys' dream? Aunt Nagi's dream...?
 An's Father: Yes.
 An: I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: ♪————————————!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 An: I...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: An, over here!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I've made my decision...
 An: I'm done wondering.
@@ -119,7 +107,7 @@ Akito, Kohane & Toya: Yeah! Okay! Yes!
 (Background change)
 ???: <*Sob*>
 ???: <*Sob*>
-(Black cut)
+(Black transition)
 (Background change)
 Rin: *Cry*
 MEIKO: Try to settle down, Rin. Your eyes are going to turn all red if you keep crying like that.
@@ -133,7 +121,7 @@ Miku (VBS): Rin, thank you for coming to get us. Also, we'll need to apologize t
 Miku (VBS): And no more crying, you two. An and the others just made a big decision to stay on the path they chose.
 Miku (VBS): So, let's keep doing our best for them!
 Rin: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 An: So, I guess we need to start discussing our next move.
 Toya: Yes, I agree. Starting with...
@@ -141,4 +129,4 @@ An's Father: (Are you seeing this, Nagi...?)
 An's Father: (The next generation you talked about is right here, and you won't believe how incredible they are...)
 An's Father: (Which means I should probably start getting my act together.)
 An's Father: (Because all I can do for them at this point is...)
-(White cut)
+(White transition)

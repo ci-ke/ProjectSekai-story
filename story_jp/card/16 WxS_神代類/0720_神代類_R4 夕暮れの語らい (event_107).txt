@@ -13,20 +13,16 @@ Gacha phrase: 僕も賑やかで楽しいよ
 (Background change)
 (Background change)
 類: ……どうやら、放課後に向けて頑張っているようだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: オレは、留年するかもしれん！！！
-(White cut)
+(White transition)
 司: 来週から補習が用意されているんだ。 最終日にテストがあり、進級はその合否次第となっている
-(White cut)
+(White transition)
 司: 恥を忍んで、お前に頼みがある！ オレに勉強を教えてくれ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: だけど、昼休みから勉強とは なんていうか……司くんらしいね
 類: 邪魔をするのは申し訳ないし…… 仕方ない、ひとりで購買にでも——
@@ -47,15 +43,11 @@ Gacha phrase: 僕も賑やかで楽しいよ
 冬弥: 今までも、神代先輩に教わる機会はたくさんありましたが、 そのたびに、とてもわかりやすく教えていただいたので
 類: そうだったかな
 冬弥: はい。エキストラとして、 結婚式に参加させていただいた際もそうでした
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ああ、そうだね。 あの時はみんなのおかげで、とてもいいショーができた
 冬弥: はい。 俺もそう思います
@@ -66,18 +58,14 @@ Gacha phrase: 僕も賑やかで楽しいよ
 類: （できることなら、青柳くんのことは助けてあげたい。 この１年で付き合いのあった後輩だしね）
 類: （……ただ、今回は先約がある。 青柳くんのほうも手伝うというのは、難しいかもしれない）
 類: （……いや、だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: 最後に、集合写真を撮りませんか？
-(White cut)
+(White transition)
 類: ああ。 この思い出を残しておくのもいいんじゃないかと思ってね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……神代先輩？
 類: ああ、すまない。考えごとをしていたんだ
@@ -106,7 +94,7 @@ Gacha phrase: 僕も賑やかで楽しいよ
 類: （それにしても…… 『みんなで勉強会をして思い出作り』なんて、 本当に僕らしくないな）
 類: さて、と。僕も少し準備しておこうかな。 なにせ、みんなの進級がかかっているんだ
 類: ああは言ったけど…… 勉強については、責任もってやらないとね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -131,7 +119,7 @@ Gacha phrase: 僕も賑やかで楽しいよ
 類: みんな、あの１週間をよく乗り切ったね。 少し遅れてしまったが、ささやかな打ち上げといこうじゃないか
 類: それでは、乾杯！
 みんな: 『かんぱーい』 『乾杯』
-(Black cut)
+(Black transition)
 冬弥: 暁山、そっちのフライドポテトを 少しわけてもらってもいいか？
 瑞希: はーい！　取り皿貸して！
 司: すまん、助かる！
@@ -142,36 +130,32 @@ Gacha phrase: 僕も賑やかで楽しいよ
 類: うん、食べないね。 野菜の何がいいのか、僕には理解ができないよ
 瑞希: 相変わらずだねー。 そのブロッコリー、こっちのサラミと交換する？
 類: おや、それは助かるな。 ありがとう瑞希。じゃあお言葉に甘えて——
-(Black cut)
+(Black transition)
 類: そういえば、白石くん達は途中で抜けるかもと 瑞希に聞いたけれど、まだいて平気なのかい？
 杏: あ、大丈夫です！ 父さんが、今日の練習はなしにするから、 友達と過ごしていいって言ってくれたので！
 杏: 『１週間、放課後を返上してまで 助けてくれた友達なんだからな』って
 類: それならよかったよ
-(Black cut)
+(Black transition)
 冬弥: 俺は飲み物を取ってこようと思う。 ドリンクバーは……
 彰人: ああ、それなら入り口のほうにあったぞ
 瑞希: いってらっしゃーい。 オススメはメロンソーダとコーラ混ぜたので、比率は——
 彰人: おい、変なこと教えんな
 類: 僕もスープバーでおかわりを取ってこようかな。 青柳くん、一緒に行くよ
 冬弥: はい。行きましょうか
-(Black cut)
+(Black transition)
 類: ——ああ、そうだ。 青柳くんに言いたいことがあったんだ
 冬弥: 俺に？　なんでしょうか
 類: あらためて、お礼を言いたくてね
 類: みんなでの勉強会も、この打ち上げも とても楽しいよ。 それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ——はい、これ！
-(White cut)
+(White transition)
 瑞希: 杏、これで進級できるように、がんばってね！
 杏: ありがと、瑞希！ 大切に使わせてもらうね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: みんなの新しい一面も知ることができたし、 本当にいい経験ができたよ
 類: だから今回、補習のことを僕に相談してくれてありがとう
@@ -183,4 +167,4 @@ Gacha phrase: 僕も賑やかで楽しいよ
 類: おや、なんだかあっちは盛り上がってるみたいだね
 冬弥: 本当ですね。俺達もそろそろ戻りましょうか
 類: そうだね。そうしよう
-(Black cut)
+(Black transition)

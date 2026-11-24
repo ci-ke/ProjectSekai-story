@@ -2,7 +2,7 @@
 
 (Character: 桐谷遥)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ショッピングモール]
@@ -25,16 +25,12 @@
 幼い遥 (遥): （歌って、踊って…… 服がヒラヒラして、すごくかわいいな）
 幼い遥 (遥): （歩いてる人も、お姉さんの歌を聴いて ステージを見てる……）
 幼い遥 (遥): （……すごいな。これって、なんか……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い遥 (遥): 『そして、そのとびきりの笑顔で、 お姫さまはたくさんの人に愛と勇気を届けたのでした』——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 幼い遥 (遥): …………
 おじさん: いいぞ～、姉ちゃ～ん！
@@ -47,7 +43,7 @@
 幼い遥 (遥): （手を……たたいてる。 あれに、あわせたらいいのかな……）
 お姉さん: ♪————
 幼い遥 (遥): （あ……笑ってくれた……）
-(Black cut)
+(Black transition)
 お姉さん: ——みんな、ありがと～！
 お姉さん: それでは、お客さんも少しずつ集まってきてくれたところで、 次の曲にいきたいと思うんだけど…… せっかくだから、特別ゲスト呼んじゃおっかな？
 幼い遥 (遥): （……特別げすと？ 特別なお客さんってことかな？）
@@ -61,7 +57,7 @@
 お姉さん: ——一緒にやろう！
 幼い遥 (遥): ……っ
 幼い遥 (遥): う、うん……！
-(Black cut)
+(Black transition)
 お姉さん: みんなも、一緒にやってみてね！
 お姉さん: ここは、こうやって足を蹴りだしてステップ！ そのあと、くるっとターン！ ……どう、遥ちゃん？　できるかな？
 幼い遥 (遥): こ、こう……？
@@ -89,31 +85,27 @@
 カップルの彼女: ねえ見て、あの子！ あんな小さいのに、ダンス上手！
 カップルの彼氏: はは、本当だ。 見てると、つい笑顔になっちゃうな
 幼い遥 (遥): （みんなが、私の踊りを見て笑ってくれてる……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥の母: ……ふふ。 本当に遥は、なかなか笑ってくれないね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 幼い遥 (遥): （いつも、お母さんに 悲しそうな顔をさせてばっかりだったのに）
 幼い遥 (遥): （私が、知らないおばあさんや、 お兄さんや、お姉さんを、笑顔にしてる——）
 幼い遥 (遥): （……嬉しいな。みんなが笑ってくれて）
 幼い遥 (遥): （あったかい気持ち…… さっき感じてた不思議な気持ちが、 いっぱいになって、あふれてくる……）
 幼い遥 (遥): （……、なんか……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000139/bg_s000139.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000139/bg_s000139.webp)
 カップルの彼女: わ……あの子、ニコニコしてるね！
 おばあさん: 素敵な笑顔ねえ。おひさまみたいだわ
 幼い遥 (遥): （笑顔……）
 幼い遥 (遥): （今、私、笑ってる……？）
 幼い遥 (遥): （……でも、そうかも。 だって、お姉さんも、みんなも、キラキラして……）
 幼い遥 (遥): （……すごく、楽しい！）
-(Black cut)
+(Black transition)
 (Background change)
 お姉さん: ——みんな、すっごく上手だったよ～！
 お姉さん: 遥ちゃんも。 ……やっと笑ってくれたね
@@ -132,4 +124,4 @@
 お姉さん: ——次の曲も、一緒に踊らない？
 幼い遥 (遥): あ……
 幼い遥 (遥): うんっ！
-(Black cut)
+(Black transition)

@@ -22,13 +22,13 @@ nightcode_01_04 私はいい子
 まふゆ: ふふ、だと思った。 今日出された課題、結構難しかったもんね。 いいよ。今日は授業午前だけだし、一緒にやろ
 クラスメイトA: やったー！　助かる〜！
 クラスメイトB: ありがとう、まふゆ！
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000018/bg_a000018.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000018/bg_a000018.webp)
 クラスメイトA: うー、もうムリ！　頭パンパン！ 休憩しようよ～
 まふゆ: もう、まだ１時間もたってないよ？
 まふゆ: でも、ちょっと難しいところだったし、 少し休憩しようか
 クラスメイトA: やったー！
-(White cut)
+(White transition)
 (Background change)
 クラスメイトA: まふゆって本当優しいよね。全然怒らないし 勉強も運動もできるのに偉そうじゃないし！
 クラスメイトB: うんうん。こんな人間本当にいるんだな〜！って感じ
@@ -44,7 +44,7 @@ nightcode_01_04 私はいい子
 まふゆ: きゃっ！　 もう、急に抱きつくと危ないってば
 まふゆ: ほら、ふたりとも休憩できたでしょ？ そろそろ課題に戻ろ
 クラスメイトA・B: 『はーい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -91,7 +91,7 @@ Amia (瑞希): 『…………』
 【雪】 (まふゆ): 『……あ、うん。大丈夫だよ。 私、そういうのあんまり気にならないから。 そういう考えかたもあるんだなって、ちょっと思っちゃって』
 【Amia】 (瑞希): 『そっかぁ。ま、人それぞれだし、雪がいいならいっか。 ……あ、ごめん喋りすぎちゃった。作業に戻るね』
 【雪】 (まふゆ): 『そうだね、私も作業しなくっちゃ』
-(Black cut)
+(Black transition)
 (Background change)
 【雪】 (まふゆ): 『……ふぅ。いったん、作業はここまでかな』
 まふゆの母の声: お夕飯できたわよー
@@ -99,7 +99,7 @@ Amia (瑞希): 『…………』
 (Background change)
 【雪】 (まふゆ): 『じゃあAmia、私一度落ちるね。 また夜に』
 【Amia】 (瑞希): 『うん！　またねー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家リビング]
@@ -121,28 +121,24 @@ Amia (瑞希): 『…………』
 まふゆの父: 私達の、自慢の娘なんだから
 まふゆ: …………
 まふゆ: うん、そうだね。 心配しないで。しっかり考えて決めるから
-(Black cut)
+(Black transition)
 (Background change)
 (Place: まふゆの部屋)
 まふゆ: …………
 まふゆ: ……うるさいな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 教師: さすが朝比奈さんね
-(White cut)
+(White transition)
 クラスメイト: たまには、まふゆのしたいことも言ってくれていいんだよ？
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: でも——ちゃんと考えるのよ？
-(White cut)
+(White transition)
 まふゆの父: 私達の、自慢の娘なんだから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……したいこと
 まふゆ: そんなの、あるの？
@@ -150,4 +146,4 @@ Amia (瑞希): 『…………』
 ミク (N25): ——まふゆ
 まふゆ: ……ミク
 まふゆ: 私……ずっとセカイにいたい
-(Black cut)
+(Black transition)

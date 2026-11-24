@@ -9,7 +9,7 @@ Ena: (Oh, the first years' scavenger hunt...)
 An: You can do it, Mizuki!
 Tsukasa: You've got this, Akito!
 Ena: Wait, Mizuki and Akito?!
-(Black cut)
+(Black transition)
 Toya: Nicely done, Akito. Your speed should guarantee you first place.
 Toya's Classmate: Dude, why are you cheering for the red team?!
 Mizuki: Huff... Huff...
@@ -42,20 +42,20 @@ Mizuki: Really?! Nice one, Ena!
 Ena: Here! Hurry or Akito's gonna catch up to you!
 Mizuki: Right, thanks!
 Mizuki: So...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000076/bg_s000076.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000076/bg_s000076.webp)
 Mizuki: Smell you later, Li'l Bro!
 Akito: Grr...! Why'd you have to go and do that, Ena...?!
 Mizuki: Heh heh heh. No way I'm losing to the red team!
 Akito: Ugh... Looks like I don't have a choice...
-(White cut)
+(White transition)
 (Background change)
 Akito: Tsukasa! Would you mind?
 Tsukasa: Ah, so you do need my help after all!
 Tsukasa: Alright, what can I do for you?!
 Akito: Climb on!
 Tsukasa: Huh?
-(Black cut)
+(Black transition)
 Mizuki: (Awesome! The goal's right there! At this rate, I should finish first and...)
 Akito's Voice (Akito): Not happening!
 Mizuki: What?! But my lead was huge! He already caught up?!
@@ -88,7 +88,7 @@ Mizuki: Huff... Huff...
 Akito: Hey, you okay?
 Mizuki: Grr...
 Mizuki: I was sooo close! Next time, you're going down!
-(Black cut)
+(Black transition)
 An: So close! You did great, Mizuki!
 Rui: I'm just glad Mizuki didn't get hurt too bad.
 Rui: Still, Shinonome has some quick legs on him...
@@ -97,7 +97,7 @@ Rui: I see. That means Aoyagi may also pull off something special since he's als
 Rui: Speaking of which, Shiraishi, won't you be facing him next during the ball toss?
 An: Yeah... But our practices have been good training for me too, so I'm not letting him walk away with this!
 Rui: That's good to hear. I'm looking forward to seeing what kind of battle unfolds.
-(Black cut)
+(Black transition)
 Announcer: Alright, the mixed ball toss is usually a drama-filled event each year, and it looks like the green team's having a bit of a tough go at it!
 An: There!
 Toya: ...
@@ -117,10 +117,10 @@ Nene: I see... It actually might be better if you threw them instead of me.
 Nene: Hang on. I'll be right back.
 Toya's Classmate: I'll go get some too!
 Toya: Yes, thank you.
-(Black cut)
+(Black transition)
 Rui: (Ah, I see... It seemed odd that Aoyagi wasn't doing much of anything. I guess he had a plan in his back pocket this entire time.)
 Rui: (Which means...)
-(Black cut)
+(Black transition)
 Nene: Okay, here you go. I got you some balls.
 Toya: Thank you. This should be more than plenty.
 Toya: Alright...
@@ -138,7 +138,7 @@ An: (Not a single bucket...!)
 Toya: Hmm...
 Toya: Sorry, I seem to have run out. Would you mind gathering some more for me?
 Nene: I mean, sure... But it might be faster for us to just throw them, you know...?
-(Black cut)
+(Black transition)
 Announcer: Great work during the events, everyone! We will now be announcing how things currently stand.
 Announcer: Following that, it'll be time for Kamiyama High School's famed cheering competition. We will be passing out voting slips to everybody watching, so please make sure you get one.
 Rui: (We're already halfway through. That was fast.)
@@ -154,4 +154,4 @@ Rui: But before I do, I'll need to hear what the current standings are.
 Miku (WxS): <Oh, right! How do you think the blue team's doing, Rui?>
 Announcer: Okay... We've just tallied up the score.
 Announcer: Here are the current standings...
-(Black cut)
+(Black transition)

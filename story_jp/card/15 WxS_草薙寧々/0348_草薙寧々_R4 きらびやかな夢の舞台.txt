@@ -22,19 +22,15 @@ Gacha phrase: わたしのポスターがブロードウェイに
 司: ああ！　まさかブロードウェイミュージカルの キャストに選ばれるとは！
 寧々: うん……！
 寧々: （風祭さんの記者会見、思わず録画しちゃった）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 夕夏: 『ブロードウェイは、ウエスト・エンドと共に、 私の目標ともいえる舞台のひとつです』
 夕夏: 『今回、出演させていただく作品は、 役者を目指し始めてから 何度も見ている作品でもありますし——』
 夕夏: 『演じさせていただく役も、 私だったらどんな風に演じられるだろうと、 何度も頭の中で考えていた役です』
 夕夏: 『舞台を楽しみにしてくださっている皆さんのためにも、 全力を尽くします』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （風祭さんがキャスティングされた役は準主役って 言ってもいい役だし、長尺のセリフもあったりするし、 すごく難しい役って言われてるけど……）
 寧々: （でも、インタビューの中の風祭さんは 全然、プレッシャーとか感じてなさそうだった）
@@ -64,7 +60,7 @@ Gacha phrase: わたしのポスターがブロードウェイに
 寧々: 司にできて、わたしにできないわけないでしょ
 えむ: お～！　司くんも、寧々ちゃんも、かっこいいー！
 類: フフフ
-(Black cut)
+(Black transition)
 (Background change)
 
 [寧々の部屋]
@@ -73,45 +69,37 @@ Gacha phrase: わたしのポスターがブロードウェイに
 寧々: （ミュージカル役者なら、必ず一度は夢見る場所……）
 寧々: （そうだ、風祭さんのインタビュー、 もう１回見ようかな）
 寧々: えっと、テレビつけて。 ……あ
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 寧々: ふふっ。夜のニュースでも、風祭さんのことやってる
-(Black cut)
+(Black transition)
 (Background change)
 夕夏: 『舞台を楽しみにしてくださっている皆さんのためにも、 全力を尽くします』
 夕夏: 『……今の気持ちを、誰に伝えたいか、ですか？』
 夕夏: 『それはもちろん、 昔お世話になった劇団のみんなですね！』
 夕夏: 『みんな見てる～？　私、頑張ってくるねー！』
-(Black cut)
+(Black transition)
 (Background change)
 寧々: 劇団のみんな、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （そういえば、最初に入ったのは10人もいない、 小さな劇団だって言ってたな）
 寧々: （でも、世界中でショーをするっていう夢のために、 その人達とはお別れしたんだよね……）
 寧々: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: ん？　スマホが光った？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -125,7 +113,7 @@ Gacha phrase: わたしのポスターがブロードウェイに
 寧々: …………。 はぁ、仕方ない……
 寧々: 拾えばいいんでしょ、拾えば。 ——はい
 寧々: え？　ちょ、ちょっと何これ、まぶしい……っ！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -133,7 +121,7 @@ Gacha phrase: わたしのポスターがブロードウェイに
 寧々: ん……。 もう！　これ絶対、類も一枚かんで……
 寧々: ……へ？
 寧々: こ……ここ、どこ！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -150,7 +138,7 @@ Gacha phrase: わたしのポスターがブロードウェイに
 寧々: …………
 寧々: な、なんかよくわかんないけど、 でも、来ちゃったのは仕方がないし
 寧々: ちょっとだけ、見て回っちゃおうかな
-(Black cut)
+(Black transition)
 寧々: わあ……。よくわかんないけど、本物の街みたい。 あ……ここの劇場も、テレビでよく見る有名なところだ
 寧々: ん？　その隣は、あんまり見たことない劇場みたいだけど、 何を上演して……
 寧々: ……って、ええ！？ つ……『ツカサリオン』！？
@@ -160,59 +148,55 @@ Gacha phrase: わたしのポスターがブロードウェイに
 寧々: （……でも、わたしだって クリスマスショーとか人魚姫で、主役もやってるし）
 寧々: （どこかにあったりしないかな……。 えっと……）
 寧々: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000034/bg_s000034.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000034/bg_s000034.webp)
 寧々: あった……。 あった……！
 寧々: なんだ、あるじゃん。クリスマスショーも人魚姫も。 ハロウィンショーも、町と森の民のショーも
 寧々: …………
 寧々: すごいな……。 わたしのポスターが、ブロードウェイに……
-(White cut)
+(White transition)
 (Background change)
 寧々: ……って、うっかり感動しちゃったけど、 ここ本物じゃないんだった
 ？？？: 『足下を見ないで、空を見上げるのよ。 ほら！　とってもキレイな虹！』
 寧々: え、今の声……
-(Black cut)
+(Black transition)
 (Background change)
 幼い寧々 (寧々): 『ねえ、わたしといっしょに空を飛んでみない？』
 幼い寧々 (寧々): 『だいじょうぶよ、自分を信じて！』
-(Black cut)
+(Black transition)
 (Background change)
 寧々: やっぱり、昔わたしがショーの練習をしてた時の……
 寧々: この映像、うちにしかないはずなのに……。 もうここ、なんでもありな感じ？
 寧々: （でも……、なんか思いだすな。 あのクリスマスショーのこと……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （——わたしは、ショーが大好き）
 寧々: （だから、失敗するかもとか、青龍院に勝てないかもとか、 そんな風に悩まないで、思いっきり歌おう——）
 寧々: （司やえむや、類。それにミク達……。 みんなのおかげで、そのことに気づけたんだよね）
 寧々: （みんながいたから、わたしは——）
 寧々: あ、映像が変わった……
-(Black cut)
+(Black transition)
 (Background change)
 夕夏の声: 『私がいつか世界中でショーをやりたいって言った時も、 みんな笑わないで真剣に聞いてくれたんだ』
 夕夏の声: 『だから……みんなと離れることになった時は、寂しかったな』
-(Black cut)
+(Black transition)
 (Background change)
 寧々: え……
 寧々: ……なんで？ なんでこのタイミングで、それなの？
 寧々: だってわたしは、みんながいたから……
 寧々: わたしは……、 わたしにはまだみんながいてくれないと……
-(White cut)
+(White transition)
 (Background change)
 寧々: あ……。戻って、きた？
 ルカ: あら、誰か来てるな～って思ったら、寧々ちゃんだったのね。 こんなに遅くにどうしたの？
 寧々: ルカさん……
 ルカ: ……？　何か、あったの？
 寧々: 実は……
-(Black cut)
+(Black transition)
 ルカ: そう……。 そんなことがあったのね……
 ルカ: ……きっと、寧々ちゃんが拾ったっていう玉は、 誰かの想いの欠片ねえ
 寧々: 想いの、欠片？
@@ -256,4 +240,4 @@ Gacha phrase: わたしのポスターがブロードウェイに
 ルカ: ええ、それがいいわ～♪
 ルカ: 大丈夫、きっと寧々ちゃんなら答えを見つけられるわ
 寧々: うん！
-(White cut)
+(White transition)

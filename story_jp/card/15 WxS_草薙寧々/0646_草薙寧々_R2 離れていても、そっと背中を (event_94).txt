@@ -42,23 +42,17 @@ Skill name: おそろいの青い小鳥
 寧々: ふふ。せっかく行くなら、見たいところ全部見たいしね。 分身したくなるのもわかるかも
 寧々: （えむが行くってことは、星乃さんや日野森さんも……だよね）
 寧々: （……星乃さん達のワンマン、本当にすごかったな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 次が、最後の曲です——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （終わったあとも、ずっとドキドキして……。 一緒に見に行ったえむ達とも、ライブの話をたくさんして……）
 寧々: （家に帰っても、まだなんだかふわふわした感じで、 勢いで星乃さんに電話までして——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: 今日、胸を張って歌う星乃さんはすごくかっこよくて……
 寧々: ……わたしの友達、こんなにすごいんだって…… そう思ったらちょっと、勇気がわいたっていうか
@@ -68,17 +62,15 @@ Skill name: おそろいの青い小鳥
 寧々: ……って、急にごめん。変なこと言って
 一歌: 『ううん、変なんかじゃない。 ——一緒に、頑張ろうね』
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （遠足、楽しんできてほしいな）
 えむ: 寧々ちゃん、お土産、い～っぱい買ってくるねっ☆ 楽しみにしてて♪
 寧々: ふふ、ありがと
 寧々: それじゃ、そろそろストレッチ始めようかな。 えむも、一緒にやる？
 えむ: やるやる～♪
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -100,19 +92,15 @@ Skill name: おそろいの青い小鳥
 寧々: 『人間は——嫌いなの。 私を……いじめるから……』
 寧々: ……ふう
 寧々: だいぶ、イメージどおりの演技ができるようになってきたな。 これなら——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （——ううん。これで満足してちゃダメ）
 寧々: （まだまだカナリアになれるはず。 もっともっと作り込まないと……！）
-(Black cut)
+(Black transition)
 寧々: ——あ、もうこんな時間……
 寧々: （そろそろ星乃さんと約束した時間になるし、 いったん、喉を休めておこうかな）
 寧々: …………ふぅ
@@ -156,4 +144,4 @@ Skill name: おそろいの青い小鳥
 寧々: うん……！
 寧々: それじゃあ、歌の練習始めよっか
 一歌: そうだね
-(Black cut)
+(Black transition)

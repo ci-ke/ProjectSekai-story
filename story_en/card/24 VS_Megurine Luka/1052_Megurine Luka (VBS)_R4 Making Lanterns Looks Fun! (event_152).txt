@@ -31,7 +31,7 @@ MEIKO (VBS): Huh?
 Luka (VBS): A nice idea if I do say so myself♪ So, let's do our best to get rid of that milk!
 MEIKO (VBS): There you go again...
 MEIKO (VBS): But I suppose it's worth a try...
-(Black cut)
+(Black transition)
 Luka (VBS): Let's see... Which menu item would be best...? What about something like milk pudding?
 Luka (VBS): We'd definitely go through the whole carton if we made enough for ten, no?
 MEIKO (VBS): Yes, however... That recipe also requires gelatin.
@@ -42,7 +42,7 @@ Luka (VBS): Hmm... Then, what else can we make...?
 Luka (VBS): Oh, I know! Cream stew! What if we made that?!
 MEIKO (VBS): I made a batch yesterday because we're having that party, remember? You were there with me.
 Luka (VBS): N-No, you're right...! I forgot that I even got to taste it...!
-(Black cut)
+(Black transition)
 Luka (VBS): Hmm... What else requires a hefty amount of milk...?
 MEIKO (VBS): Oh, Miku, welcome back. Are you and Rin done practicing?
 Miku (VBS): Actually, we're just taking a quick break. I came to have some cafe au lait.
@@ -50,7 +50,7 @@ Luka (VBS): Cafe au lait...
 Luka (VBS): Oh, in that case, would you like lots of extra milk?! You can have as much as you want right now!
 Miku (VBS): That's okay. I'd rather not ruin the coffee by putting in too much.
 Luka (VBS): B-But...!
-(Black cut)
+(Black transition)
 Luka (VBS): ...
 Luka (VBS): Wait a second... Can plants absorb milk?
 MEIKO (VBS): Huh?
@@ -60,7 +60,7 @@ MEIKO (VBS): It can apparently be used as a sort of fertilizer, but that involve
 Luka (VBS): But...
 Luka (VBS): *Sob* At this rate, I'm never going to get to make my lantern...
 MEIKO (VBS): Alright, fine...
-(Black cut)
+(Black transition)
 MEIKO (VBS): Here's your milk carton.
 Luka (VBS): Huh? Wait, how did you...?
 MEIKO (VBS): I poured the milk into a glass bottle since it didn't seem like we'd be able to use it all.
@@ -69,7 +69,7 @@ Luka (VBS): Thank you, MEIKO! Now I can make my lantern!
 MEIKO (VBS): Hehe. You're welcome.
 Luka (VBS): My lantern's going to look so beautiful! Just wait! You'll be the first one who gets to see it!
 Luka (VBS): Hehe. How should I design it?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -96,14 +96,14 @@ Luka (VBS): You're welcome. Anyway, let's get started, shall we?!
 Miku (VBS): Oh, I have pictures of the ones Kohane and the others made. We might be able to use them as reference, so let me go get them now.
 Luka (VBS): Oh, Miku, nice one! Then, once she's come back with those, let's start making our lanterns!
 Everyone: Yeah!
-(Black cut)
+(Black transition)
 Len (VBS): Are these the pictures of the one Akito made? It's so cool how light pokes out of all these different holes!
 Len (VBS): I think I'll try copying him...
 Luka (VBS): This might put your designing skills to the test since these holes are all different in terms of shape and size.
 Len (VBS): My designing skills... Alright, I've got this!
 Rin (VBS): I'm gonna put a bunch of stickers on mine! We've got a ton, so we might as well use them!
 Luka (VBS): Oh, we made sure to get some that we thought you'd like. Let's see... They should be around here somewhere...
-(Black cut)
+(Black transition)
 KAITO (VBS): We start by peeling off the outer labels, right?
 Luka (VBS): Yes, you need to make a small cut here, and peel very slowly to ensure that it doesn't tear...
 MEIKO (VBS): Okay, phew... I think I'm done.
@@ -115,7 +115,7 @@ Miku (VBS): It ripped... But I can still use this as is, can't I?
 Luka (VBS): Huh? Well, yes...
 Miku (VBS): Then, I'll just do that. I think leaving the label will make it feel more unique.
 MEIKO (VBS): You might be able to get it all off by going from the other side... But if you're happy with that, Miku...
-(Black cut)
+(Black transition)
 KAITO (VBS): Humhumhumm♪ I think I'll cut out a star here next.
 Len (VBS): Whoa, KAITO, how many holes are you gonna cut?! Your carton's looking like Swiss cheese!
 MEIKO (VBS): And yet, he's managed to achieve this kind of beautiful balance. It really is remarkable how good you are at these sorts of things...
@@ -123,7 +123,7 @@ Rin (VBS): Come to think of it, MEIKO... Wait, huh? Yours seems kinda small...
 MEIKO (VBS): Hehe. I decided to make mine a cube, so I cut my carton in half.
 MEIKO (VBS): It may not be very big... But it looks cute, doesn't it?
 Luka (VBS): Yes, it does! I think I'll also try making a mini lantern next!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -133,4 +133,4 @@ KAITO (VBS): Yeah, and this light is really soothing for some reason...
 Luka (VBS): Oh, let's use these to decorate the cafe! I really want Kohane and the others to see them!
 MEIKO (VBS): Okay. Why don't we hang them up by the entrance?
 Luka (VBS): Yes, I can't wait to see how they react!
-(Black cut)
+(Black transition)

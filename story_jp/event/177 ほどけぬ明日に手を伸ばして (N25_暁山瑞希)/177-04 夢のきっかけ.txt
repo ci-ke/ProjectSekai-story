@@ -46,7 +46,7 @@
 瑞希の姉: あはは、瑞希をびっくりさせたくって。 予定が合えば見に来てよ！
 瑞希: 当たり前じゃん！　絶対行くよ！
 瑞希: えへへ。 ますます楽しみになっちゃったな〜♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -68,19 +68,15 @@
 瑞希の姉: それはそうだけど…… 私なんて、全然まだまだだよ。だって——
 瑞希の姉: いずれは自分の店を持って、日本でも展開するのが夢だからね。 もっともっと、デザイナーとして成長していかなくちゃ！
 瑞希: 夢……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希の姉: 瑞希、どうかした？
 瑞希: あ、ううん。大したことじゃないよ。 ただ——
@@ -111,4 +107,4 @@
 瑞希: …………
 瑞希: 本当に……
 瑞希: みんな、すごいな
-(Black cut)
+(Black transition)

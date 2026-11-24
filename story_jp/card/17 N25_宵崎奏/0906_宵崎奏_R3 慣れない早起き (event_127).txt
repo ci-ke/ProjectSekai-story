@@ -27,7 +27,7 @@ Gacha phrase: ん……今、何時……？
 奏: ……まふゆ？　どうかした？
 まふゆ: ……寝癖。すごいなって
 奏: …………え？
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -60,7 +60,7 @@ Gacha phrase: ん……今、何時……？
 奏: でも、絵名のお父さんの絵か…… 絵をゆっくり見るのも久しぶりだし……
 奏: ……個展、楽しみだね
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -74,10 +74,8 @@ Gacha phrase: ん……今、何時……？
 奏: （まだ、ちゃんとイメージを落とし込めてない気がする……）
 奏: たしか……『夜に咲く牡丹』だっけ
 奏: あの絵を見た時、感じたのは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: もう結構回ったかな。 えっと、次の作品は……
 まふゆ: これ…………
@@ -87,17 +85,15 @@ Gacha phrase: ん……今、何時……？
 奏: （この絵は、それだけじゃない）
 奏: （——苦しみの中に……光を感じる、気がする……）
 奏: （……今の感覚——曲にしてみたいな）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あの時感じたものを忘れないように 画集も買ってみたけど……）
 奏: （やっぱり、あの絵だけは何か違う気がする）
 奏: （絵名のお父さんが、あの絵に込めた想いがなんだったのかは、 わからないけど……）
 奏: （あの時感じたものを、曲にしてみたい）
 奏: ——もう少し、探ってみよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -131,7 +127,7 @@ Gacha phrase: ん……今、何時……？
 絵名: 『……わかった。Kがどんな曲作ったのか気になるし…… 聴かせてもらおうかな』
 奏: 『ありがとう。今、送るよ』
 (Background change)
-(Black cut)
+(Black transition)
 奏: 『……どうだった？』
 (Background change)
 絵名: 『……そうだな……いつものKの曲とは、 ちょっと違う感じがした、かな』
@@ -159,4 +155,4 @@ Gacha phrase: ん……今、何時……？
 奏: （絵に込められた想いに触れて…… いつもとは違う気持ちで、曲を作ることもできたし）
 奏: （……あの牡丹の絵が、どんな想いで描かれたものなのか、 わたしにはわからないけど……）
 奏: （少しでもこの曲が、その想いに近いものになってたらいいな）
-(Black cut)
+(Black transition)

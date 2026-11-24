@@ -6,19 +6,17 @@
 
 遥: （……昔のことを話してると、どんどん思い出すな。 ASRUNを辞めるまでのこと）
 遥: （どんなに頑張っても、もがいても、 どうにもならなくて——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 遥: どうして……！？ 病院にもかよって、練習でもちゃんと踊れたのに……！
 遥: なんでステージに立とうとすると、 足が動かないの……？
-(White cut)
+(White transition)
 (Background change)
 マネージャー: ……本当に、いいのね？　遥
 遥: …………はい
 遥: 私はもう……アイドルを続けられません……
-(White cut)
+(White transition)
 (Background change)
 遥の母親の声: ……遥。 そろそろ夕飯の時間よ。みんなで食べない？
 遥: ……ごめん、お母さん。 今は……ひとりにしてほしい……
@@ -28,10 +26,8 @@
 遥: ……っ
 遥: ごめん……なさい……
 遥: ごめんなさい……！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 長谷川: …………！
 遥: あの時は本当に苦しくて、苦しくて……。 本当に、世界が灰色に見えました
@@ -50,19 +46,15 @@
 遥: ひどいことを言われても、つらい目にあっても、 長谷川さんは曲を作り続けようとしてる
 遥: それは——みんなに希望を届けたいっていう、 大切な想いがあるからじゃないですか？
 長谷川: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 長谷川: 『それで私も、自分の曲で“明日をがんばる希望”を 聴いてくれるみんなに届けたいなって思ってるんです……！』
-(White cut)
+(White transition)
 長谷川: 『希望を届けたいって思って曲を作ってたのに、 私の曲が、いろんな人を傷つけてる気がして……』
 長谷川: 『頭では作りたいって思ってるんですけど、 どうしても手が動かないんです……！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 長谷川: …………っ
 遥: ……いっそ、この想いが消えてしまえば、 こんなに苦しまなくてすむのに
@@ -72,15 +64,11 @@
 長谷川: …………
 長谷川: ……桐谷さんは、どうやって向きあったんですか？
 遥: 私は——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: MORE MORE JUMP！のみんなのおかげで 向きあうことができました
 遥: みんなが、自分ひとりで抱えこまなくていいんだって 教えてくれたんです
@@ -115,7 +103,7 @@
 遥: ……うん。 私が伝えられることは、全部伝えられたと思う
 愛莉: そう。それならあとは、待つだけね
 みのり: ……うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [２週間後]
@@ -136,10 +124,8 @@
 みのり: 長谷川さんからメールが来てる！ わ、わたし、開いてみるね！
 愛莉: なんて書いてあるの！？
 みのり: えっと——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 長谷川: 『先日はありがとうございました』
 長谷川: 『遥ちゃんが話しに来てくれた日から、 ひとりでたくさん考えてみました』
@@ -147,10 +133,8 @@
 長谷川: 『考えて考えて……私は、どんなに苦しくても、 曲を作ることだけは諦めたくないと思えました』
 長谷川: 『本当に、ありがとうございます。遥ちゃん』
 長谷川: 『まだ酷いことを言われる時もありますけど……。 ちゃんと応援してくれる人達を大事にして、 がんばっていこうと思います』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: …………
 みのり: あ、まだ続きがあるみたい！ 『最後に、あの曲を完成させたのでお送りします』……！？
@@ -172,7 +156,7 @@
 愛莉: それじゃ——オリジナル曲も作ってもらえたことだし、 あとはライブに向かって一直線に進みましょっ！
 遥: うん。 みんな——頑張ろう！！
 雫・みのり: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [里帆の部屋]
@@ -180,7 +164,7 @@
 長谷川: あ、MORE MORE JUMP！のみんなからメールだ
 遥: 『最高の曲を、ありがとう！』
 長谷川: ……ふふっ。 次の曲も、がんばらなくっちゃ！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宮益坂女子学園　屋上)
 遥: あ……
@@ -190,4 +174,4 @@
 遥: （あの時の記憶も、 誰かの希望につなげていくことができるんだね）
 遥: （嬉しいことだけじゃない。 つらいことも、苦しいことも、全部抱きしめて——）
 遥: （みんなに希望を、届けていこう！！）
-(White cut)
+(White transition)

@@ -2,23 +2,19 @@
 
 (Character: Shiho Hinomori)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Miyamasuzaka]
 
 Elementary School Shiho (Shiho): ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate C's Voice: Right... But she promised ages ago that she'd come. Shouldn't this party take priority?
 Classmate A's Voice: Yeah... But if it didn't sound like she was gonna budge...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Elementary School Shiho (Shiho): (Maybe I should've gone instead...)
 Elementary School Shiho (Shiho): (But if I had, I wouldn't have finished my assignment...)
@@ -61,7 +57,7 @@ Father: Hearing their music might give you a hint as to how you should make thos
 Elementary School Shiho (Shiho): A hint...?
 Father: Yeah. So, how about it...?
 Elementary School Shiho (Shiho): Yeah... Okay.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -105,4 +101,4 @@ Elementary School Shiho (Shiho): Huh?
 ???: Sorry about that. They don't mean you any harm...
 Elementary School Shiho (Shiho): No, I...
 Sumire: Oh, I'm Sumire Kuno. It's great to meet you. I'm the bassist for this band.
-(Black cut)
+(Black transition)

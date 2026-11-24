@@ -21,7 +21,7 @@
 司: ん？　誰かの声……？
 司: 父さん達はもう寝たはずだが——
 司: は……っ！ も、もしや……！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [天馬家　リビング]
@@ -46,7 +46,7 @@
 司: （いつか、こんな苦しみのただ中にいる人達も 笑顔にできるようになりたい）
 司: （そのためにも、もっと力をつけて 役を掴めるようになりたいが——）
 司: ……まだまだ、道は遠いな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -57,13 +57,13 @@
 司: いや、しかしそれでは……
 ？？？: ぴょん、ぴょん、ぴょーん……
 司: ん？ また何か聞こえたような……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000486/bg_s000486.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000486/bg_s000486.webp)
 ミク (WxS): ぴょんぴょーん！！ 司くん、こんばんぴょーん！！
 司: どわっ！ ミ、ミク！！
 司: な、なんだそのぴょんぴょんというのは！
 ミク (WxS): えへへ、うさぎさんのショーを考えてたら、 いつの間にかぴょんぴょんしちゃってたんだ～♪
-(White cut)
+(White transition)
 (Background change)
 司: そ、そうか……。 なんというか、相変わらず自由だな……
 ミク (WxS): えへへ、それほどでもないぴょん～♪ 司くんは練習に来たの？
@@ -74,7 +74,7 @@
 ミク (WxS): そうなの！？ なんでなんでーっ！？
 司: ……簡単に言えば、 まだ想像力が足りんのだろうな
 司: 今日は、王子の絶望について考えていたんだが——
-(Black cut)
+(Black transition)
 ミク (WxS): なるほど～。 司くんは、どうなれば絶望するのかなって考えてたんだね！
 司: ……一応、自分なりの答えは出ているんだがな
 ミク (WxS): えっ？　そうなの？
@@ -97,15 +97,11 @@
 ミク (WxS): えへへっ♪ 司くんはやっぱり司くんだね～☆
 司: ……そういう自分自身の決意は誇らしく思う
 司: しかし、そうなると結局、王子の絶望を掴めなくてな。 ……これからどうするべきか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: …………。 これでは、旭さんに追いつけんな
 ミク (WxS): 旭さん？ あ……そういえば、一緒に練習するって言ってたよね！
@@ -128,4 +124,4 @@
 えむ: あっ、ミクちゃんもいる！ こんばんわんだほーい！
 類: やっぱりここにいたんだね
 司: お前達……どうしてここに！？
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 青柳冬弥)
 
-(White cut)
+(White transition)
 (Background change)
 冬弥: どうして……
 冬弥の父: ドアはしっかり閉めろ。 声が漏れていたぞ
@@ -67,15 +67,11 @@
 冬弥の父: お前は12年間を、 クラシックと共に生きてきた
 冬弥の父: 朝から晩まで、 遊ぶ間も、寝る間もなく
 冬弥: あ…………
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000064/bg_s000064.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000064/bg_s000064.webp)
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: けれど、それは……
 冬弥の父: そうだな。 お前が望んだ生活ではなかったかもしれない
@@ -84,10 +80,8 @@
 冬弥の父: ただ、真剣に
 冬弥: （人生を……）
 冬弥: （そうだ……たしかに、俺は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥の父: 違う。もう一度
 幼い冬弥 (冬弥): ごめんなさい……
@@ -95,7 +89,7 @@
 幼い冬弥 (冬弥): でも、もう指が……
 冬弥の父: ダメだ。もう一度。できるまでだ
 幼い冬弥 (冬弥): ……はい
-(Black cut)
+(Black transition)
 幼い冬弥 (冬弥): ……はぁ……
 冬弥の父: ……ようやくできるようになったか
 冬弥の父: 今日のレッスンはここまでだ。 夕飯を食べに行くぞ
@@ -105,26 +99,20 @@
 幼い冬弥 (冬弥): でも、今のは思ったような綺麗な音じゃなくて…… だから、その……
 幼い冬弥 (冬弥): ——もう１回、弾かせてもらってもいいですか
 冬弥の父: ……いいだろう
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （俺は、あの生活の中でたしかに——）
 冬弥: （ただ、音楽と向き合っていた）
 冬弥の父: だというのに、なぜだ？
 冬弥の父: なぜお前は、逃げたことばかりに目を向けて卑屈になる
 冬弥: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥の父: ……その程度か、お前は
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……それは、俺が……
 冬弥: 俺が、父さん達の期待を…… 裏切って……
@@ -135,16 +123,12 @@
 冬弥の父: だが、お前にとっては、本当にそれがすべてだったのか？
 冬弥の父: お前にとってクラシックと共に歩んだ日々は、 ただ苦痛と裏切りだけでできたものだったのか？
 冬弥: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 幼い冬弥 (冬弥): わぁ……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: それは…………
 冬弥の父: 私は——
@@ -174,6 +158,6 @@
 冬弥: （……この過去だけは決して変わらない）
 冬弥: （そして、この過去があるなら……俺は戦える）
 冬弥: 謙さん達の覚悟にだって——渡り合ってみせる
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000294/bg_s000294.webp)
-(Black cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000294/bg_s000294.webp)
+(Black transition)

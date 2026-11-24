@@ -22,19 +22,15 @@ Mafuyu: Why are you looking at me?
 Ena: Because you're the one who needs it the most.
 Kanade: By the way, where's Rin? It's also her anniversary. I thought we were going to look for a gift together...
 Len (N25): <Um...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin (N25): Cake...
 Len (N25): Huh?
 Rin (N25): They're taking you shopping because you don't know what you want, right?
 Rin (N25): But I've already decided, so I don't need to go.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I see. Rin would like cake.
 Ena: There're so many different kinds, though...
@@ -59,17 +55,17 @@ Len (N25): <I know that it's a different version of me, but... I'm happy for him
 Kanade: You really are kind, Len.
 Mizuki: Alright, I think it's now time to go get a gift for our Len!
 Ena: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 Len (N25): <Wow... There's so many CDs. I wouldn't know which one to pick.>
 Mizuki: In that case, let's pick something based on the cover! Shall we try that out?
-(Black cut)
+(Black transition)
 Kanade: Hmm... I made my choice after imagining what sort of cover you would like, Len, but...
 Len (N25): <Oh, yours has a photo on it. Mizuki's and Ena's have illustrations, and Mafuyu's...>
 Mizuki: Is super simple! I would've never thought they'd just have the album title on a plain white cover.
 Ena: We're supposed to be picking something as Len's potential gift. You could've picked something cuter.
 Mafuyu: But everyone said to just pick one that seemed interesting...
-(Black cut)
+(Black transition)
 (Background change)
 Ena: It's not like it gets cold in SEKAI... But do you like these kinds of faux fur scarves or hats?
 Len (N25): <Faux fur?>
@@ -80,7 +76,7 @@ Kanade: It's soft, shiny... And smooth?
 Mizuki: Ooh! I was just fooling around, but you totally nailed it!
 Len (N25): <Soft, shiny and smooth...>
 Ena: Since we're already here, let's go buy one of these and have you feel it.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -99,7 +95,7 @@ Mizuki: Hey, you guys! Rin said she wants to have the cake!
 Ena: It's a little early in the day for that, but...
 Ena: I guess we shouldn't keep one of the stars of the day waiting either. Shall we just go ahead and start celebrating now?
 Len (N25): Yeah!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -117,18 +113,18 @@ Comments: <You bet!> <I'm so hyped!> <Good luck, everyone!>
 Len: Hehehe. Thanks for the support!
 Len: Alright, let's sing, sing and sing! We can't lose to everyone's energy!
 Rin & Co.: Yeah! Yes!
-(Black cut)
+(Black transition)
 Len: ♪——! ♪————!!
 Miku: Sing along with us, everyone♪ Here we go!
 Len & Miku: ♪——! ♪————!
-(Black cut)
+(Black transition)
 KAITO: Alright, put your hands in the air! Let's wave together.
 KAITO: One, two, three!  One, two, three!
 Len: Oooh! Looking good, you guys!
 MEIKO: For everyone watching on stream, please feel free to join in!
 MEIKO: Okay, it's time for the real deal!
 MEIKO, Len & KAITO: Start the music!
-(Black cut)
+(Black transition)
 Len: Thanks, you guys! Go rest until the prep for the next song is all done!
 Rin: In the meantime, we'll be doing the long-awaited interview!
 Len: Let's recap!
@@ -140,7 +136,7 @@ Len: Without a doubt, super happy! I mean, so many people have wished me a happy
 Len: There's no way I wouldn't be happy! I have people celebrating with me right here, but there's also people joining in through the stream!
 Rin: I totally get how you feel! It's so hard not to smile when everyone wishes you a happy anniversary!
 Len: Yeah!
-(Black cut)
+(Black transition)
 Rin: Okay, last question! “Strike us your coolest pose, Len!”
 Len: Hahaha! Was that even a question?
 Rin: Well, I thought it would spice things up. Alright, stand in the middle of the stage and show everyone!
@@ -152,8 +148,8 @@ Len: I'm so relieved! I totally wasn't sure how I was gonna do after a sudden re
 Len: Whoa! Why is it dark?
 Miku: That's because... It's time for a surprise♪
 Len: Ah...!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000263/bg_s000263.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000263/bg_s000263.webp)
 Miku: Happy anniversary, Len! Also, great job being the main MC!
 Miku: I hope I've been able to help you out in making sure everyone has a great time.
 Miku: We're entering the finale of the show now, so I'll be doing everything I can to help out until the very end!
@@ -168,7 +164,7 @@ Rin: Happy anniversary, Len!
 Rin: You and I have been together for a veeery long time, and it's funny how we either butt heads like crazy or are two peas in a pod!
 Rin: But even when we do disagree with each other, I learn more about you and other ways of thinking, which is actually really fun!
 Rin: That's why I hope we can continue being close just the way we are!
-(White cut)
+(White transition)
 (Background change)
 Rin: Okay everyone, let's wish Len a happy anniversary! Here we go!
 Rin: Happy anniversary, Len!
@@ -181,4 +177,4 @@ Len: Hehehe. It might seem like something small, but it means a lot to me that y
 Miku: Hehe. You're very welcome♪
 Rin: Len! Let's sprint to the finish!
 Len: Yeah! Let's make this the best anniversary ever!
-(Black cut)
+(Black transition)

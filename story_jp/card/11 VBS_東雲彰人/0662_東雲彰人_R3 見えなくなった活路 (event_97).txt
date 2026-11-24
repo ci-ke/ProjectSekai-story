@@ -15,40 +15,32 @@ Gacha phrase: こんなの、超えられるのか……？
 クラスメイトB: どうせ今日も相棒くんとじゃねえの？ あ、大穴で天馬先輩とかな！
 彰人: どっちもちげーよ。 ……ちょっと風に当たってくる
 クラスメイトA・B: 『……？』
-(Black cut)
+(Black transition)
 (Background change)
 彰人: …………
 彰人: （……あれから数日たつってのに、 まだあの日のことが頭の中をぐるぐるしやがる）
 彰人: （気持ちの整理は、つけたつもりだったんだけどな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ——お前らは今のままじゃ、 一生かかってもRAD WEEKENDを超えられねえ
-(White cut)
+(White transition)
 大河: 実力はいずれ身につくものだろうよ。 俺とお前達の差が圧倒的だとしても、可能性はゼロじゃねえ
 大河: 俺が言ってるのは、“想い”の話だ
-(White cut)
+(White transition)
 大河: RAD WEEKENDは、 俺の妹、古瀧凪の最期を飾るためのイベントだった
 大河: ……病気が見つかって、あと数カ月しか生きられない凪が、 この世を去っちまう前に、最期にこの街で開いたイベント
 大河: ——それが、RAD WEEKENDだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: …………あの夜が、最期……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ♪————————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……信じられねえ）
 彰人: （今だって、はっきり思い出せる。 全身が燃えるくらいの熱を感じるような、そんな歌だった）
@@ -61,54 +53,42 @@ Gacha phrase: こんなの、超えられるのか……？
 彰人: （それだけ、凪さんは街の人達に愛されていて、 凪さんも街の人達を大切に想ってた——）
 彰人: （そんな人が中心になって、命を懸けて作り上げたイベントだ。 伝説として語り継がれるのも、無理ねえよな）
 彰人: （——オレは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: よく見りゃお前の目も、謙と似たような目をしてる。 特に今日のライブなんか、あの頃の謙にそっくりだったぞ
-(White cut)
+(White transition)
 大河: 案外、いつかあいつみたいになれる器なのかもしれねえぞ。 ……その壁は高いが、な？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （オレ達は……っ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ——今のは悪くなかった。 やるじゃねえか
-(White cut)
+(White transition)
 大河: たしかに、あの夜の俺よりは——上だったかもしれねえな
 彰人: ……！
 大河: ……だからなおさら、お前達には見せねえとな
 大河: あの夜、俺達が見せた——RADderの夢の終わりをよ
-(White cut)
+(White transition)
 大河: ♪————————————！！
 杏: …………っ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: …………っ
 彰人: くっそ……。 いくらなんでも、高すぎだっての……
 彰人: （……けど、やるしかねえ。 オレにできることは、バカみてえに走り続けることだけだ）
 彰人: （走って走って、走りまくって、いつか——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （オレ達で、必ず——）
 冬弥: ここにいたのか、彰人
@@ -125,18 +105,14 @@ Gacha phrase: こんなの、超えられるのか……？
 冬弥: ……俺もだ。 ふとした瞬間に、あの日のことを思い出してしまう
 冬弥: だが……不思議と最後に、白石の言葉が頭をよぎるんだ
 彰人: ……凪さんが信じてくれた、ってやつか
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: 私が……私達が夢の先に進んでくって、信じてくれたんだ！
 杏: なら、私は超える！
 杏: RAD WEEKENDを絶対に超えて—— その先に、父さん達の夢の先に行ってみせる！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: すごいな……。 なぜ、わかったんだ？
 彰人: ……オレも同じだからだよ
@@ -145,7 +121,7 @@ Gacha phrase: こんなの、超えられるのか……？
 冬弥: ああ。たとえどれほど高い壁であろうとも、必ず超えよう。 俺達、全員で
 彰人: おう。 これからも頼むぞ、相棒
 冬弥: 当然だ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -162,7 +138,7 @@ Gacha phrase: こんなの、超えられるのか……？
 杏: そうそう。ありがとね、こはね
 こはね: ……うん
 彰人: んじゃ、行くぞ
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -184,7 +160,7 @@ Gacha phrase: こんなの、超えられるのか……？
 杏: あはは！　慣れないことするから～
 彰人: あ？
 こはね: ふふふっ
-(Black cut)
+(Black transition)
 店員: ——おまたせしました！ ミートソース・粉チーズ多め、温玉トッピングのお客様！
 こはね: あ、はーい！
 彰人: お前、トッピングなんていつの間に……
@@ -193,7 +169,7 @@ Gacha phrase: こんなの、超えられるのか……？
 こはね: えへへ。——あ、みんなが頼んだのも来たみたいだよ
 彰人: ……そろったな。 じゃあ——
 全員: 『いただきます！』 『いただきます』
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -212,17 +188,13 @@ Gacha phrase: こんなの、超えられるのか……？
 杏: ありがとね！　今日、誘ってくれて！
 こはね: ありがとう、東雲くん。 すっごくいい気分転換になったよ
 彰人: ……別に
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: オレもオレで、ちょっと気分転換したかったからな
 彰人: じゃあ、また明日な
 杏: うん、また明日！
-(Black cut)
+(Black transition)

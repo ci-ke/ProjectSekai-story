@@ -52,15 +52,15 @@ MEIKO: ええ！　アイドルは瞬発力！ 反射神経で負ける気はな
 ミク (MMJ): 札の準備はオッケーだよ、愛莉ちゃん！
 愛莉: ありがと！　それじゃいくわよ～！！
 愛莉: 『あきのたの——』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000036/bg_s000036.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000036/bg_s000036.webp)
 ミク (MMJ): はいっ！！
 みのり: えええーっ！？　もう！？
 レン: すごいな……！ ミクちゃんの動き、全然見えなかったよ
 ミク (MMJ): ふふっ、たまたま覚えてた札だったんだ。 でも次も絶対に取っちゃうよ♪
 遥: そっか……。 それじゃ私も、本気でいかなくちゃね
 リン: こ、こんなの絶対取れないよ～！
-(Black cut)
+(Black transition)
 (Background change)
 
 [大晦日]
@@ -76,7 +76,7 @@ MEIKO: ええ！　アイドルは瞬発力！ 反射神経で負ける気はな
 遥: 榎本さん！？
 遥: 大丈夫ですか？ あ……顔が真っ青……！
 遥: 今、社務所に行って人を呼んできますから、 ここで待っていてください！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神社の拝殿]
@@ -94,21 +94,17 @@ MEIKO: ええ！　アイドルは瞬発力！ 反射神経で負ける気はな
 神主: とはいえ今から人手を増やすこともできないので、 なんとか乗り越えるしかありません
 遥: あ……
 遥: （榎本さん、年末年始のお仕事を楽しみにしてたのに。 それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 榎本: でもこの時期は、いろんな人達が神様にお願いごとをしているのを 見られるから、結構好きなのよ
 榎本: 明るい未来に向かって進もうとしてる、その人達の背中を 押す手伝いができてるような気がするの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: …………あの
 遥: よければ、私にお手伝いをさせてくれませんか？
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ステージのセカイ)
 みのり: ——ええっ！？　初詣に行けない！？
@@ -136,4 +132,4 @@ MEIKO: ええ！　アイドルは瞬発力！ 反射神経で負ける気はな
 愛莉: それに一仕事終わったら、みんなで初詣できるしね。 一石二鳥だわ！
 遥: みんな……
 遥: ——ありがとう、みんな
-(Black cut)
+(Black transition)

@@ -21,19 +21,15 @@ Kohane: I have a slightly better idea of what happened during RAD WEEKEND becaus
 Taiga: You think so? In that case, you're welcome.
 An's Father: (I've seen this look on Taiga's face before.)
 An's Father: (It's like...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: Taiga, Ken, let's go!
 Taiga: Relax, will you? The stage isn't going anywhere.
 ???: All I want to do right now is sing. So hurry!
 Taiga: Alright, I get it. Be right there...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An's Father: ...
 An's Father: (So that's it...)
@@ -77,17 +73,13 @@ An's Father: Nagi apparently said, “This will help someone down the road, so p
 An's Father: However, you were gone before she even had a chance to tell you about this...
 Taiga: Nagi...
 Kohane: (Wait, Nagi's...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: Oh, Nagi Kotaki. She's Uncle Taiga's little sister.
 An: She, Uncle Taiga and Dad used to be on the same team.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (Taiga's little sister made this DVD...?)
 Kohane: E-Excuse me...!
@@ -99,7 +91,7 @@ Akito: Hey, you find us a DVD player yet?
 Kohane: Oh, right...! Do you have one we can borrow?
 An's Father: Yeah, sure. Use this one...
 Kohane: Thank you!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage Stage]
@@ -108,4 +100,4 @@ Toya: Shiraishi, the screen's all set up.
 An: Great! That means it's showtime...!
 An: You guys ready...?
 Kohane: Yeah!
-(Black cut)
+(Black transition)

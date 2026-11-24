@@ -31,7 +31,7 @@ Gacha phrase: た、助かった……
 瑞希: だって、食べたかったんだもん♪ ふー、ふー
 絵名: …………
 絵名: （楽しそうには見えるけど……。 なんか、引っかかるな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [東雲家　リビング]
@@ -50,7 +50,7 @@ Gacha phrase: た、助かった……
 絵名: あ……んー、そこまではいいや。 ちょっと気になっただけだから
 絵名: じゃあ、部屋戻るね
 彰人: ん、おう……
-(Black cut)
+(Black transition)
 
 [数日後]
 
@@ -65,7 +65,7 @@ Gacha phrase: た、助かった……
 絵名: するってば。けど、保険はかけておきたいでしょ
 彰人: はいはい。 ……ま、あの人に迷惑かけるわけにいかねえしな
 絵名: そうそう！　だからよろしく！
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -88,7 +88,7 @@ Gacha phrase: た、助かった……
 絵名: あ、愛莉！ そうだ、彰人。あんたも挨拶くらい……
 絵名: あれ？　もういない。 ……まあ、いっか
 絵名: 愛莉、今そっち行くねー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,7 +106,7 @@ Gacha phrase: た、助かった……
 愛莉: 午後のおやつ時だっていうのに、 あくびなんかしちゃって。相変わらず夜型なのね
 絵名: ふふ、まあね
 愛莉: じゃあ、お疲れな絵名のためにも、 さっさとカフェに行きましょうか
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -122,7 +122,7 @@ Gacha phrase: た、助かった……
 絵名: わぁ、いいねこれ！　SNS映えしそう！
 愛莉: 見た目はもちろん、味もバッチリみたいよ。 わたし、このパフェの抹茶にしようかしら
 絵名: じゃあ、私はイチゴがたくさんのってるほうにしようかな！ 店員さん、すみませーん！
-(Black cut)
+(Black transition)
 愛莉: それで……あれから１週間経ったけど、どう？ 何か進展あった？
 絵名: 瑞希のこと、だよね。 悪くはなってないけど、よくもなってないかな
 愛莉: そう。けど、進展がないわりに落ち着いてるわね
@@ -135,29 +135,21 @@ Gacha phrase: た、助かった……
 愛莉: ふふっ、そうやって諦めないところ、 さすが絵名って感じね！
 絵名: うん。このままモヤモヤし続けるのは嫌だから
 絵名: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （まだ、瑞希に何があったのかすら私はわかってない……）
 絵名: （私は、どうしたら……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: この曲で雪を本当に救えなかったとしても、 救えるまで作り続ける
 奏: 雪が自分を見つけられるまで——ずっと作る
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: （……覚悟が、必要なのかな）
 絵名: （奏がまふゆに見せたような、強い覚悟が……）
@@ -175,4 +167,4 @@ Gacha phrase: た、助かった……
 絵名: わぁ、思ってた以上に映えそう！ んー、どの角度から撮ろうかな
 愛莉: せっかくだし、久しぶりに 映えのテクニックを教えてもらおうかしら
 絵名: ふふ、いいよ！ まず、こういう立体感があるものを撮る時は——
-(Black cut)
+(Black transition)

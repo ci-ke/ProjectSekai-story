@@ -40,7 +40,7 @@ leo_01_17 穂波の想い
 一歌: 穂波の想い……
 一歌: ……あ、この星図……穂波の……？
 一歌: もしかして、穂波の想いって……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -61,16 +61,12 @@ leo_01_17 穂波の想い
 穂波のクラスメイトA: 最近、ちょっと元気ないよね。 何か悩みごと？
 穂波: う、ううん！　本当に大丈夫。ごめんね
 穂波のクラスメイトB: あ〜、もしかして私達に言えないことだったり？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 今一緒にいる友達も信用できてないってことだからね、それ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ………………
 穂波のクラスメイトA: ……ねえ、本当に大丈夫？
@@ -82,4 +78,4 @@ leo_01_17 穂波の想い
 穂波のクラスメイトB: うん！　私も今日ちょうどバイトだし！
 穂波: う、うん……。わかった……
 一歌: ありがとう。 大切な話――したいんだ
-(Black cut)
+(Black transition)

@@ -6,7 +6,7 @@ Skill name: Next, With Our Words
 
 (Character: Ichika Hoshino, Saki Tenma, Honami Mochizuki, Shiho Hinomori, Minori Hanasato, Kohane Azusawa)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Class 1-C]
@@ -14,13 +14,13 @@ Skill name: Next, With Our Words
 Ichika: (This is a rare sight. Saki never falls asleep during class...)
 Student's Voice: It's such a pain going back and forth between our classroom and the AV room. Can't we just do everything in one place...?
 Ichika: (Oh, it's class A. Maybe they're switching classrooms...?)
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: (Shiho...?)
 Ichika: (Was she checking up on Saki...? But why...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [After school]
@@ -34,7 +34,7 @@ Ichika: Shiho? Is something wrong? You seem concerned...
 Shiho: No, it's nothing... Let's go.
 Honami: Oh...
 Ichika: ...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -44,7 +44,7 @@ Honami: Oh...
 Honami: I'll be going now too! Good luck at work, Ichika!
 Ichika: Uh, okay...
 Ichika: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -58,7 +58,7 @@ Ichika: (But I'm worried about Saki, so I should probably tell her to take care.
 Ichika: (Oh... But I'm in charge of making the school's newspaper this week and the next, which will take up most of my lunch time.)
 Ichika: (Since we might not be able to talk much during our breaks, it'll probably need to wait until after school.)
 Ichika: (Alright, I got this!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy - Class 1-A]
@@ -74,7 +74,7 @@ Ichika: I, uh... It's just...! I came to see you...!
 Shiho: Hehe. You're not fooling me that easily.
 Ichika: I did come to this class by accident, but there is something I need to talk to you about.
 Ichika: So if I could borrow you for a second...
-(Black cut)
+(Black transition)
 (Background change)
 Shiho: So, what's up?
 Ichika: (This isn't how I was expecting to talk to her, but I have to get this off my chest...)
@@ -100,7 +100,7 @@ Ichika: Phew...
 Ichika: (I really just let myself go there...)
 Ichika: (But I'm sure she'll invite her to lunch now.)
 Ichika: (As long as she actually sits down and finds the time to talk to Saki, everything will turn out okay.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,22 +115,18 @@ Ichika: Oh, it's already this late...
 Ichika: (But I can focus on band practice now that my class representative duties are out of the way.)
 Ichika: (And thanks to Saki, our original song is actually starting to take on a real shape.)
 Ichika: (Next...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Ichika: I'd like to try writing the song, if that's okay...
 Ichika: While Saki was playing this song for us just now, I wondered what it would be like if it were given lyrics to go along with it.
 Ichika: I'd like to give it a try. I want to come up with lyrics that match our song.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ichika: (It's my turn to step up.)
 Ichika: (Honami and Saki have work today too, so I can spend some time thinking about that while I practice.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -179,4 +175,4 @@ Shiho: I already told Honami this, but...
 Shiho: Thank you. I'll be relying on you a lot more from now on.
 Ichika: ...!
 Ichika: Anytime!
-(Black cut)
+(Black transition)

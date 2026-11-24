@@ -2,10 +2,8 @@
 
 (Character: 桐谷遥, 初音ミク, 鏡音リン)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -35,7 +33,7 @@ ASRUNのメンバー達: 日本中に希望を届けるトップアイドルに�
 マネージャー: 遥、レッスンが終わったら事務所に寄ってちょうだい。 柊プロデューサーから話があるそうよ
 遥: え……
 遥: ——はい、わかりました
-(Black cut)
+(Black transition)
 (Background change)
 
 [事務所]
@@ -98,10 +96,8 @@ ASRUNのメンバー達: 日本中に希望を届けるトップアイドルに�
 柊: 構わない。 それより……次のライブも、期待しているぞ
 柊: お前達の個性を、全力で伝えてこい。 それがお前達の未来を切り拓く
 遥: ——はい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: 個性を、伝える……
 遥: そっか……あの人はいつも、 ASRUNの個性を活かせるような仕事を選んでた
@@ -114,16 +110,12 @@ ASRUNのメンバー達: 日本中に希望を届けるトップアイドルに�
 遥: （……うまく言葉にできないけど、何かある）
 遥: ……もどかしいな。 どうしたら、うまく言語化できるんだろう
 遥: みんなにも相談したいけど…… 時間も遅いし明日にしたほうが——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: あ……
 遥: ——うん。 少しだけ、聞きに行ってみよう
-(Black cut)
+(Black transition)

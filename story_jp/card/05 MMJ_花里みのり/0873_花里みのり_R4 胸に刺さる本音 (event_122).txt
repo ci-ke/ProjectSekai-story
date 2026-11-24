@@ -22,17 +22,13 @@ KAITO (MMJ): それで、どんな企画なの？
 みのり: それは—— 『変な間取りクイズ』です！！
 リン (MMJ): 変な間取り、クイズ？
 みのり: 実は、内見の移動中に 川西さんがいろんな物件の話を聞かせてくれたんだ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 川西: ——そういえば、この近くにおもしろい物件があるんですよ
 川西: 部屋が３つある広めの賃貸なんですが、 その３つの部屋全部が、実質お風呂なんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (MMJ): えっ！　お部屋が全部お風呂！？
 みのり: うん！　ジャグジー付きのお風呂場と、 岩盤浴とミストサウナがあるんだって！
@@ -73,7 +69,7 @@ MEIKO (MMJ): たしかに、アイドルが急に物件の話をするのは 『
 みのり: えへへ、それほどでも～
 愛莉: わたし達も、みのりに負けてられないわよ
 雫: ふふ、そうね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -88,17 +84,13 @@ MEIKO (MMJ): たしかに、アイドルが急に物件の話をするのは 『
 みのり: えへへ、サモちゃんもただいまー！ よしよしよし～！
 みのりの父: それで、大家さんとは無事に会えたか？
 みのり: うん！　実はね、大家さん会ったことがある人だったんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのりの母: あら、みのりが助けたって言ってたおばあさんが 大家さんだったのね
 みのり: そう！　もうびっくりしちゃった！
@@ -143,4 +135,4 @@ MEIKO (MMJ): たしかに、アイドルが急に物件の話をするのは 『
 サモちゃん: ワンワン！
 みのりの弟: 大げさだな……
 みのりの母: ふふっ
-(Black cut)
+(Black transition)

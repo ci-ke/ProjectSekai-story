@@ -13,17 +13,13 @@ Gacha phrase: ……好きでいても、いいのかな
 瑞希: （ニーゴの年越しパーティー、何買って行こうかなあ）
 瑞希: （一応、お正月限定のポリポリチップスおせち味は買ったけど…… これじゃ、いつものお菓子パーティーと変わらないよね）
 瑞希: （どうせなら、もう少しお正月っぽさを出したいな〜。 それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 『……雪、どうしたの？』
 まふゆ: 『……なんでもない。ただ、私も……お正月は毎年、 お母さん達と親戚の家に挨拶に行ってたなって……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （まふゆ、いろいろ考えちゃって しんどそうだったし……）
 瑞希: （ちょっとでも気が紛れるような、 楽しいパーティーにしたいな！）
@@ -55,15 +51,11 @@ Gacha phrase: ……好きでいても、いいのかな
 瑞希: 飾りつけか……
 瑞希: それ、すっごくいいかも！
 瑞希: 雑貨店とかだと、 お正月モチーフのカワイイ置き物とかも売ってそうだし……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ちょうど、そういう変わったものに 興味持ってくれそうな子もいるんだよね
 彰人: あー……、そういや、こっちの知り合いにもいるな。 そういうのに食いつきそうなヤツ
@@ -91,7 +83,7 @@ Gacha phrase: ……好きでいても、いいのかな
 こはね: よろしくね、暁山さん！
 瑞希: ——うん
 瑞希: こちらこそ、よろしくね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -120,7 +112,7 @@ Gacha phrase: ……好きでいても、いいのかな
 瑞希: （次に会えるのはいつになるかわからないし、 応援の気持ちも込めて、何か形にして渡したいもんね）
 瑞希: （どうせならサプライズで渡したいし…… 今のうちに、こっそり買っちゃおーっと♪）
 瑞希: えーっと、レジは……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -155,15 +147,11 @@ Gacha phrase: ……好きでいても、いいのかな
 瑞希: ……えへへ、前と逆だね
 瑞希の姉: え？
 瑞希: ほら、前はお姉ちゃんがリボンをくれたでしょ？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: あのリボンがあったから、 つらい時でも、お姉ちゃんがそばにいてくれてるって思えたんだ
 瑞希の姉: そっか……
@@ -179,4 +167,4 @@ Gacha phrase: ……好きでいても、いいのかな
 瑞希の姉: ん？
 瑞希: これからも——一緒に頑張ろうね！
 瑞希の姉: うん！
-(Black cut)
+(Black transition)

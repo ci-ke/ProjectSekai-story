@@ -38,7 +38,7 @@ An's Father: Just a feeling. Comes with age, you know?
 Toya: I'm sorry for making you worry...
 An's Father: It's all a part of life. So, did something happen?
 Toya: Well, actually...
-(Black cut)
+(Black transition)
 Akito: Classical music is making your singing too rigid, huh...?
 Toya: I grew up in the world of classical music after all.
 Toya: It's like how classically trained pianists usually can't play swing music well after switching to jazz.
@@ -60,16 +60,12 @@ An's Father: Then isn't it obvious what the problem is?
 Toya: Huh?
 An's Father: There's nothing wrong with the way you sing. Something other than classical music is bothering you, right?
 Toya: Something else...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: ...
 An's Father: Looks like you have an idea.
 Toya: Yes. But it's something I believe I've already settled...
@@ -102,4 +98,4 @@ An: Really?! That's great!
 An: But you know, he might faint from shock after seeing how awesome you are?
 Kohane: Hehe. That would be a bit embarrassing...
 Toya: ...
-(Black cut)
+(Black transition)

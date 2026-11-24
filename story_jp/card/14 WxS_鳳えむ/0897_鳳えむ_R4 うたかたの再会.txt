@@ -46,7 +46,7 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 えむの父: ……父自身の手で実現させることはできなかったが、 どんな形であれ、遺志を継ぐ者がいれば きっと喜んでくれるだろう
 えむの父: 大事にしなさい。 そのノートも、お前のおじいさんの想いも——
 えむ: うん！　絶対絶対、大事にする！ ありがとう、お父さん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [えむの部屋]
@@ -67,7 +67,7 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 えむ: もうお話はできないけど、 こうやってノートを遺してくれてるもんね！
 えむ: よーし！　しっかり読んで、勉強しよーっと♪
 えむ: あれ？　今、スマホが——
-(White cut)
+(White transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -78,7 +78,7 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 えむ: み～つけたっ☆ 光ってたのは、このまあるい玉みたいなやつだったんだ！
 えむ: ショーで使う道具かな？ みんなに見せに行こーっと♪
 えむ: わあっ！　なになに、まぶしーっ！！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -91,7 +91,7 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 えむ: ほえ？
 えむ: お、おおおおおおお……！
 えむ: おじいちゃーーーん！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -142,12 +142,12 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 楽之介: 可愛いだろう？　自慢の特注品だ
 楽之介: それじゃあ、準備はいいかな？ アイディア勝負——よーい、ドンッ！
 えむ: ドーンッ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000300/bg_s000300.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000300/bg_s000300.webp)
 えむ: （うーん、どうしようかな。 アスレチックと水族館のアイディアは もうおじいちゃんが出してるから——）
 えむ: （……そういえば、おじいちゃんのノートに 階段あがるの大変とか、思い出詰まってるって書いてあったっけ）
 えむ: （階段が大変……。 それなら……！）
-(White cut)
+(White transition)
 (Background change)
 えむ: （あ……でも、このアイディアじゃ おうちをおっきく変えることになっちゃうかな……）
 楽之介: えむ、何か思いついた顔だね！ ひとりで楽しむなんてずるいじゃないか、 おじいちゃんにも教えておくれ？
@@ -167,15 +167,11 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 楽之介: それに、どうすれば実現できるかわからないアイディアでも、 他の人達ならば答えを持っているかもしれない
 楽之介: えむも、あるんじゃないか？ 自分では無理だと思っていたのに、 周りの人達の協力のおかげで実現できた、という経験が
 えむ: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……うん。 いっぱいある……！
 楽之介: そうだろう、そうだろう！
@@ -188,7 +184,7 @@ Gacha phrase: おじいちゃんのノートに書いてあったな
 えむ: あとね、おうちの中のことなんだけど—— あ、ドールハウス使ってもいい？
 楽之介: もちろんだ！ どこをどうしたいんだい？
 えむ: えへへ、えっとね！
-(White cut)
+(White transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -224,4 +220,4 @@ MEIKO (WxS): ……近くには誰もいないわ。 だから、我慢しなく
 えむ: だから、忘れちゃう前に おしゃべりしたこと全部日記に書くんだ！
 MEIKO (WxS): それは素敵ね！　どんなお話したのか、 よかったら教えてちょうだい
 えむ: うんっ♪　いっぱいいっぱい、お話するね！
-(White cut)
+(White transition)

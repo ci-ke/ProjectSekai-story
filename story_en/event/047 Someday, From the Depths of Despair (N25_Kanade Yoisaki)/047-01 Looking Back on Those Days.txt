@@ -39,7 +39,7 @@ Kanade: <Okay. We'll talk later.>
 (Background change)
 Mafuyu: <K, it's about this part...>
 Kanade: <Right.>
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: <I see... Then, I'll try making adjustments based on that.>
 (Background change)
@@ -54,20 +54,16 @@ Kanade: Finals...
 Kanade: (It's already that time of year.)
 Kanade: (This was about when dad collapsed too.)
 Kanade: (Dad...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade's Father: Kanade, make sure you keep creating your own music.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: It's been two years since then...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -79,13 +75,13 @@ Honami: It's been getting chilly lately, so I'll put on a pot of stew for you to
 Kanade: Oh, thank you.
 Kanade: In the meantime, Ms. Mochizuki, I'll be working in my room.
 Honami: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Kanade's Room)
 Kanade: Phew... It's finished...
 Kanade: Oh, the kitchen smells nice. I guess she did say that she's making stew...
 Kanade: I might go take a peek.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Yoisaki Household - Kitchen)
 Honami: Hello, Ms. Yoisaki. I'm just about finished making the stew.
@@ -103,15 +99,11 @@ Kanade: (She's right... We hardly ever spoke at all back then...)
 Kanade: (Looking back, that was pretty rude of me.)
 Honami: It's been two years since we first met, Ms. Yoisaki...
 Kanade: Two years...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (I was so desperate back then. All I did was compose, upload, rinse and repeat.)
 Kanade: (Eating even took a back seat. Thinking about that...)
@@ -123,18 +115,14 @@ Honami: It must be because your group is full of such nice people.
 Kanade: Huh?
 Honami: Having people around that you can open up to makes it much easier to talk to others, no?
 Kanade: People I can open up to...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: You may be right...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -153,4 +141,4 @@ Luka: See my point? Oh, why don't we go see them right now...?
 Miku (N25): Huh...?
 Luka: Hehe. Isn't it a wonderful idea? Let's go, Miku!
 Miku (N25): W-W-Wait...
-(Black cut)
+(Black transition)

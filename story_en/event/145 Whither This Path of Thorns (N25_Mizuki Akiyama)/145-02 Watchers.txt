@@ -5,26 +5,18 @@
 [Empty SEKAI]
 
 MEIKO (N25): ...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): (That look on Mizuki's face...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: Thanks, MEIKO.
 Mizuki: I'm gonna see what I can do about dealing with my own problems.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): It seems that time has finally come...
 ???: Hey.
@@ -50,8 +42,8 @@ MEIKO (N25): ...! KAITO, wait.
 MEIKO (N25): Are you going over to see Mizuki...?
 KAITO (N25): Yes.
 MEIKO (N25): Please don't.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000368/bg_s000368.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000368/bg_s000368.webp)
 MEIKO (N25): Mizuki is trying to cross a thin sheet of ice right now.
 MEIKO (N25): What you're planning on saying is going to be too strong. So strong that you might make that ice crack...
 KAITO (N25): So, you want me to do nothing...?
@@ -59,12 +51,12 @@ MEIKO (N25): ...
 KAITO (N25): If doing nothing will solve everything, then that's fine by me. But do you honestly believe that's going to bring about real change?
 MEIKO (N25): Don't think that your solution is always the best one.
 KAITO (N25): Then, tell me yours.
-(White cut)
+(White transition)
 (Background change)
 MEIKO (N25): ...
 MEIKO (N25): KAITO...!
 MEIKO (N25): Wait!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -115,4 +107,4 @@ Mizuki: *Nod*
 Mizuki: Thanks, you two.
 Mizuki: But...
 Mizuki: I... I just need a little bit more time...
-(Black cut)
+(Black transition)

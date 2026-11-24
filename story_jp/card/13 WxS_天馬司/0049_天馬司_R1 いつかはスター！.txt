@@ -59,7 +59,7 @@ Skill name: 感謝のしるしだ
 彰人: もぐ……じゃあオレはこれで
 司: 口の中に物を入れながらしゃべるんじゃない！ まったく行儀がなっていないやつだな
 司: さて、それでは優雅なランチにしゃれこむとするか！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -105,15 +105,11 @@ Skill name: 感謝のしるしだ
 類: おやおや？　そう思うかい？
 司: ……まあ、お前に限ってそれはないか……
 類: わかってくれて嬉しいよ、司くん♪
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （ま、いろいろと気になることはあるんだけどね……）
 司: まあ、万が一自信をなくしたとしても、安心しろ！
@@ -123,4 +119,4 @@ Skill name: 感謝のしるしだ
 司: 今日は有意義な話ができたな。 これで気分よく昼食をとれるというものだ
 司: フフフ、優雅なランチがオレを待っている。 邪魔をしたな！
 類: ああ。また、放課後にね。司くん
-(Black cut)
+(Black transition)

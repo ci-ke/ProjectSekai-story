@@ -20,7 +20,7 @@ Airi: Minori!
 Minori: A-Airi...?!
 Airi: You're heading up to the rooftop for practice, right? Let's go together!
 Minori: O-Okay...!
-(Black cut)
+(Black transition)
 Airi: By the way, was something the matter? You looked lost in thought there.
 Minori: Oh, um...
 Minori: There's this thing that's been on my mind lately.
@@ -28,7 +28,7 @@ Airi: Something that's been on your mind?
 Minori: Yeah... Actually, Airi, would you mind if we talked about it for a second?
 Airi: Oh, go ahead. Lay it on me.
 Minori: Thanks! So, the thing is...
-(Black cut)
+(Black transition)
 Airi: Going credit-based...
 Minori: Yeah...
 Airi: I see...
@@ -44,23 +44,17 @@ Minori: But at the same time, I don't think I've been able to see things from th
 Airi: What do you mean?
 Minori: I mean, I don't have prior experience working as an idol like the rest of you, right?
 Minori: I've always had friends and classmates around me, and they'd give me their support whenever I told them that I wanted to become an idol.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: You want to become an idol...?
 Kohane: That's amazing...! Good luck. I'll be rooting for you...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: After we formed MORE MORE JUMP! and started putting on events in real life, including our solo show, I had a little less time to talk to or see my classmates... But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: Minori, want to have lunch with Shiho and me today?
 Minori: S-Sorry! I'm having a meeting with Haruka and the others during lunch today...
@@ -69,10 +63,8 @@ Minori: *Sob* I'm really sorry... But thank you for inviting me.
 Shiho: You don't need to apologize. We know it's really important to you, so it's okay if it takes priority.
 Kohane: Yeah, she's right. So, Minori, good luck with your solo show. I'll be rooting for you!
 Minori: Kohane... Shiho... Thank you both so much...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: They've been there by my side this entire time.
 Minori: But if I switch to the credit-based course, what Haruka said might actually happen. A gap might start forming between me and my friends...
@@ -85,29 +77,21 @@ Airi: (And I believe that step is absolutely necessary.)
 Airi: (Not only is your lifestyle gonna get turned on its head...)
 Minori: So, Airi, did that happen to you...? Did you and your classmates become more and more distant because you were credit-based...?
 Airi: Me...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: Yeah, it happened to me too...
 Minori: I see. I had a feeling...
 Airi: (I agree with Haruka on this one...)
 Airi: (In simple terms, switching to the credit-based course will allow us to do more as MORE MORE JUMP! But you'll sorely regret it if you leap before you look...)
 Airi: (Because...)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Airi: (Minori has Shiho, Kohane and a ton of other close friends.)
 Airi: (If possible, I don't want her to experience what I did back then...)
 Airi: ...
@@ -116,4 +100,4 @@ Airi: (This decision is ultimately up to her...)
 Minori: Thanks for talking with me about this, Airi! I'm gonna keep giving it some more thought.
 Airi: Oh, um... Sure. Feel free to ask again if you have any questions.
 Minori: Okay!
-(Black cut)
+(Black transition)

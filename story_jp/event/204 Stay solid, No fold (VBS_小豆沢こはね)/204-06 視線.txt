@@ -69,33 +69,25 @@
 サラ: 『それで、熱を入れてプロデュースをして…… やれることは、本当に全てやりました』
 サラ: 『けれどそれが……エレナ達にとって、 息苦しかったのではないかと』
 杏: 『あ……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エレナ: アーティストも、歌も。『商品』としてしか見てない。 大事なのは、売れるかどうか
 エレナ: それで——売れるなら、どう使うか。それだけ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: 『それで……ふたりは 商品扱いされてるみたいって思ったのかな』
 冬弥: 『……そのすれ違いは、ありえない話ではないな』
 こはね: （……そっか）
 こはね: （そういうすれ違いがあったなら…… エレナさん達がDGさんをああいう風に思うのも、わかるな）
 こはね: （わかる、けど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エレナ: ダメ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 スタッフ: 『僕達としては、 またillysに戻ってきてもらいたいんだけどね』
 サラ: 『そうですね……。 今はどこにも所属していないので、 どうしても知られる範囲が狭いですし』
@@ -139,7 +131,7 @@
 こはね: えっと……じゃ、じゃあ——
 こはね: RAD BLASTで歌った——『Unstoppable』にしようかな
 冬弥: わかった。 スタッフの人に、準備をしてもらってくる
-(Black cut)
+(Black transition)
 録音スタッフ: 『ここでちょっと待ってくれるかい？』
 こはね: 『はい……！』
 こはね: （……つい、流れで歌うことになったけど……）
@@ -165,21 +157,17 @@ KAITO (VBS): 『……あっ、誰か来た！　またね！』
 録音スタッフ: 『——お待たせ。 それじゃあ、ブースに案内するよ』
 こはね: 『は……はい！　よろしくお願いします！』
 杏: いってらっしゃい、こはね！
-(Black cut)
+(Black transition)
 録音スタッフ: 『——じゃあ、ヘッドホンつけて待機しておいて。 準備ができたら声をかけるよ』
 こはね: 『わかりました！』
 こはね: （……『新しい世界を知れちゃう』か……）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000326/bg_s000326.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （……RAD BLASTでこの曲を歌ってから、 本当にいろんなことがあったな）
 こはね: （アメリカに来て、いろんな人に出会って……）
@@ -222,7 +210,7 @@ KAITO (VBS): 『……あっ、誰か来た！　またね！』
 彰人: （……なんだ？）
 彰人: （あっちの空気……妙な感じがするが……気のせいか？）
 こはね: ♪——————————！　♪———————～～！！
-(Black cut)
+(Black transition)
 こはね: …………ふう
 録音スタッフ: 『——OKだ！』
 こはね: 『あ……ありがとうございます！ どうでしたか？』
@@ -233,8 +221,8 @@ KAITO (VBS): 『……あっ、誰か来た！　またね！』
 録音スタッフ: 『……これはまさに——逸材だな』
 こはね: え？
 サラ: 『——あなたの歌は素晴らしいということよ』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000589/bg_s000589.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000589/bg_s000589.webp)
 スタッフ: 『ああ！　こんな原石が眠ってるなんて……！ すごい進化だ！』
 録音スタッフ: 『No.9に先を越されたな』
 スタッフ: 『うん……ああ、悔しいよ。 僕達の手で広めたかったのに……！』
@@ -245,7 +233,7 @@ KAITO (VBS): 『……あっ、誰か来た！　またね！』
 こはね: （…………なんだろう、これ）
 こはね: （褒められて、嬉しいはずなのに…………）
 こはね: （サラさん達の目が、なんだか——）
-(White cut)
+(White transition)
 (Background change)
 杏: ……こはね？
 ？？？: 『——ああ、ここにいたんだね』
@@ -260,4 +248,4 @@ KAITO (VBS): 『……あっ、誰か来た！　またね！』
 杏: 『あ、じゃあ私がいこうかな ——こはね、交代しよっか！』
 こはね: う、うん……！
 こはね: （……さっきの……なんだったんだろう）
-(Black cut)
+(Black transition)

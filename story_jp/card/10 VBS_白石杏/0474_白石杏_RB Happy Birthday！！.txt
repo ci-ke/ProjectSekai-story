@@ -68,7 +68,7 @@ Gacha phrase: これからも、応援に応えられるように！
 瑞希: あれでも、迷惑かけてるって自覚あるのかもね～
 杏: あるなら騒ぎを起こさないようにしてほしいんだけど……
 杏: （それにしても神代先輩がくれた箱、 何が入ってるんだろ？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -84,7 +84,7 @@ Gacha phrase: これからも、応援に応えられるように！
 冬弥: そうか。では謙さんにもそのように伝えておく
 杏: うん、よろしく！
 彰人: じゃあ、店でな
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　校門]
@@ -97,7 +97,7 @@ Gacha phrase: これからも、応援に応えられるように！
 雫: こんにちはー！
 杏: え……
 杏: ええーーーっ！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -130,7 +130,7 @@ Gacha phrase: これからも、応援に応えられるように！
 雫: ええ。だってこれは偶然だもの
 杏: あ、そのお芝居、まだやるんですね
 全員: 『あはは！』 『ふふっ』
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -141,7 +141,7 @@ Gacha phrase: これからも、応援に応えられるように！
 こはね: ふふ。これはビビッドストリートの人達がくれたんだよね
 杏: うん。知り合いのお店の前をとおるたびに 『杏ちゃん、誕生日おめでとう！　これ持っていきな！』って
 杏: ちょっと、父さんに預けてくるね。 ——ねえ、父さん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [店内ライブスペース]
@@ -198,8 +198,8 @@ MEIKO: 『ふふ、そうね』
 杏: ——父さーん！　みんな来てるよー！
 こはね: ふふ。杏ちゃん、すっごく嬉しそう
 冬弥: ああ。そうだな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000099/bg_s000099.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000099/bg_s000099.webp)
 瑞希: ——杏！
 司・類・瑞希: 『誕生日おめでとう！』
 司: びっくり箱の仕掛けは、なかなか好評だったと聞いた！ やはり、サプライズと言えばびっくり箱だな！
@@ -220,10 +220,10 @@ MEIKO: 『ふふ、そうね』
 冬弥: 白石、今日は本当におめでとう。 これからもよき仲間として、よろしく頼む
 彰人: ……ったく。 まあ、仲間としては心強いヤツだしな
 こはね: うん！　杏ちゃん、これからもずっとずっと、 一緒に歌おうね！
-(White cut)
+(White transition)
 (Background change)
 杏: ——今日は本当にたくさんの人に お祝いしてもらっちゃったな
 杏: それだけたくさんの人が私のこと好きでいてくれて、 応援してくれてるってことだよね
 杏: その応援に応えられるように、これからも頑張っていかないと！
 杏: よし！　やるぞー！
-(White cut)
+(White transition)

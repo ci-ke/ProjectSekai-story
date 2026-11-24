@@ -6,15 +6,11 @@ Skill name: 教えて！みのり先生
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 
 [遥の部屋]
@@ -27,7 +23,7 @@ Skill name: 教えて！みのり先生
 遥: （……どうしたんだろう？）
 遥: もちろんいいよ……と
 遥: （でも、話ってなんだろう？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌朝]
@@ -43,21 +39,17 @@ Skill name: 教えて！みのり先生
 みのり: 今回のイベントをやってみて、 やっぱりわたしには知識とか経験とか、 まだまだ全然足りてないなって思ったの
 みのり: 自分がいいなって思ったことが、 ファンにとっては良くないことかもしれない っていうところまで考えられてなかったり……
 遥: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: こんな人が連絡くれて、本当によかったね！ これでイベントも——
 遥: 本当に——それでいいのかな
-(White cut)
+(White transition)
 遥: ……もしこのメールの人に参加してもらうことになったら、 この人にも、“仕事”として誰かを 楽しませてもらうことになるでしょう？
 遥: つまりそれは——私達のファンを、 そういう現実と向きあわせるっていうことでもある
 遥: 私は、できることならこの人にも ファンとしてイベントを楽しんでほしいの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ……みのり、あの時はごめんね。 せっかく前向きに考えようとしてくれてたのに
 みのり: え？　あ、ううん！ わたしのほうこそファンのみんなのこと ちゃんと考えられてなかったし、気にしないで！
@@ -93,7 +85,7 @@ Skill name: 教えて！みのり先生
 みのり: うん！　まずは自分にできることをがんばって考えてみる！ ありがとう、遥ちゃん！
 みのり: えへへ、遥ちゃんに相談してよかった
 遥: 私のほうこそ、 私が言ったことを真剣に考えてくれてありがとう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,17 +121,13 @@ Skill name: 教えて！みのり先生
 遥: うん。相乗効果……は言いすぎかもしれないけど、 いい方向に働いてくれてたと思う
 雫: ふふ。みのりちゃんが、やってみようって 提案してくれてなかったら、 できなかったイベントかもしれないわね
 遥: うん——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: 今回のイベントをやってみて、 やっぱりわたしには知識とか経験とか、 まだまだ全然足りてないなって思ったの
 みのり: 自分がいいなって思ったことが、 ファンにとっては良くないことかもしれない っていうところまで考えられてなかったり……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: みのりは、しっかり考えられてなかったって、 反省してたけど……
 遥: みのりだからこそ、 ファンとイベントを作るっていう可能性を 見つけられたんだと思う
@@ -154,4 +142,4 @@ Skill name: 教えて！みのり先生
 みのり: わっ、遥ちゃんまで！？ ねえ、先生って何？
 遥: それは……ふふっ
 みのり: ねえねえ、なんの話？ みんな、笑ってないで教えてよ～！
-(Black cut)
+(Black transition)

@@ -2,16 +2,14 @@
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, Hatsune Miku, Megurine Luka)
 
-(White cut)
+(White transition)
 (Background change)
 
 [An's Room]
 
 An: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ken: Is there something on your mind?
 An: What...?
@@ -19,9 +17,9 @@ Ken: You hesitated just now while you were singing.
 Ken: At first, I thought you were thinking about everyone in town, but... I'm not so sure now.
 Ken: What's got you so hung up? There's definitely something lingering in your mind.
 An: What's got me so hung up...?
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 An: ...
 Ken: Looks like you know the answer.
@@ -29,58 +27,44 @@ An: I do.
 An: It's something I've...probably been thinking about for a really long time now.
 Ken: A really long time...? What do you—
 Ken: Oh, is this about her?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I never would've thought that it'd affect my singing.
 An: (I've been hung up about Kohane for the longest time.)
 An: (But I thought...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (I thought I'd gotten over all that after talking to Akito and Miku.)
 An: (I decided to keep singing with my partner and stay by her side.)
 An: (I made the commitment to set aside my uncertainties and move forward.)
 An: (But...)
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000167/bg_s000167.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000167/bg_s000167.webp)
+(White transition)
+(Flashback out)
 (Background change)
 An: (Those uncertainties never really went away.)
 An: (My stomach sinks every time I see Kohane reach new heights.)
 An: (That's what's motivated me to keep working hard...)
 An: (But as long as this feeling lingers...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ken: If you hesitate at all while you sing, your audience will notice.
 Ken: That doubt might handicap you significantly...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I can't go on like this.
 An: (I have to do something...)
 An: (I need to get closure.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -121,4 +105,4 @@ An: But there's no need for you to apologize so much. There's no use crying over
 An: If anything, can I ask you guys for some advice regarding this?
 An: Anything you can tell me will be really appreciated! The more the better!
 Luka & Toya: Okay! Sure.
-(Black cut)
+(Black transition)

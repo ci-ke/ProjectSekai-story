@@ -6,18 +6,14 @@
 奏: 朝比奈さんは……まふゆのお母さんを『愛情深い』って言ってた
 奏: まふゆが、りんごの思い出にあたたかさを感じてるのは 多分、それが『愛情』だから
 奏: もっと、それを感じられるような音にしなきゃ——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: もう１回、最初から作ろう
-(Black cut)
+(Black transition)
 奏: …………どうかな
 まふゆ: ……いい曲、だと思う
 奏: そっか……
@@ -28,7 +24,7 @@
 奏: （だから、わたしのお母さんの“あたたかさ”を 落とし込んでみたけど——）
 奏: （……やっぱり、まふゆの感じた“あたたかさ”とは違う）
 奏: （わたしの経験じゃ駄目なんだ。 まふゆのイメージに近づけないと——）
-(Black cut)
+(Black transition)
 奏: ……また駄目だ
 奏: これじゃ、今まで作ってきたのと変わらない……
 奏: （どうすればいい？）
@@ -38,12 +34,12 @@
 奏: （……わからない。でも……）
 奏: ……次……
 奏: 次の曲……作らなきゃ……
-(Black cut)
+(Black transition)
 
 [数日後]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000424/bg_s000424.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000424/bg_s000424.webp)
 奏: …………違う……！
 奏: （デモの時は、方向性は合ってるかもと思ったけど 音を足せば足すだけ遠のいていく）
 奏: （どんな音だったら、あたたかさが出るんだろう。 オンコードを使いすぎた？ 構成を変えて——）
@@ -51,7 +47,7 @@
 奏: （ここからどう動かしても、よくなる気がしない）
 奏: ……っ、次
 奏: 次は必ず——
-(White cut)
+(White transition)
 (Background change)
 奏: ………………っ
 奏: こんなところで止まってられない
@@ -60,7 +56,7 @@
 奏: …………うん、そうだね
 奏: 落ち着いたら食べるよ
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -84,12 +80,12 @@
 奏: え？　でも……
 まふゆの父: 疲れが溜まっているようなので、今日はゆっくり休んでください
 奏: ……はい……
-(Black cut)
+(Black transition)
 (Background change)
 奏: （やっぱり……目が冴えて眠れそうにない）
 奏: （……さっき作ってた曲のイメージ……忘れないようにしなきゃ）
 奏: （最初はマイナーキーにしてみて…… メジャーコードに切り替えて、それから——）
-(Black cut)
+(Black transition)
 (Background change)
 リン (N25): 『……奏？』
 奏: …………これも、違う
@@ -99,4 +95,4 @@
 奏: 考えろ。考えるんだ
 奏: 次の曲は————
 リン (N25): （奏……）
-(Black cut)
+(Black transition)

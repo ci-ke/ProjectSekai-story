@@ -16,7 +16,7 @@ Miku (VBS): I see. You must be very excited about that.
 Toya: Yes, I am. And I need to do my best to put on the best performance of their songs that I can.
 Miku (VBS): *Nod* Good luck.
 Miku (VBS): Oh, that's it for here. Thank you for the lovely chat, Toya.
-(Black cut)
+(Black transition)
 (Background change)
 Miku (VBS): Once more, come on in. What would you like?
 Kohane: A-Aoyagi!
@@ -42,18 +42,14 @@ Kohane: You, An and Shinonome can all write your own music, right...? That means
 Toya: But that's not your fault... You're still relatively new to all this.
 Kohane: I know, but I don't feel great about that...
 Kohane: I know I'm being a little selfish by wanting to make my own track. I get that I should be focusing on putting on a good performance right now...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya: Am I asking for too much...?
-(White cut)
+(White transition)
 Soma: No, I don't think so. That's just how life is, right?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I see...
 Toya: (Azusawa was going through the same thing.)
@@ -67,7 +63,7 @@ Toya: Yes, I see...
 Toya: Then, I'd like to give what you made a listen.
 Kohane: Th-Thank you so much! I'll play it now...!
 Toya: (Hm? This melody...)
-(Black cut)
+(Black transition)
 Kohane: How was it...?
 Toya: Well...
 Toya: I'm also yet to create anything that I feel is satisfactory, so I don't think that I'm in a position to be criticizing...
@@ -95,19 +91,15 @@ KAITO: Yes. Classical musicians place importance on playing a composer's music e
 KAITO: They'll research their background and what kind of person they were before attempting to play their work. That requires good analytical skills.
 KAITO: Based on what Toya did just now, I suspect he's very good at breaking down songs in such a manner.
 Toya: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya's Father: No, again. Your rhythm is off. How many times do I have to tell you? This piece needs to be played slowly, while evoking strong emotions.
 Toya's Father: You did it again. Why does this keep happening? You have a bad habit of rushing after you've realized what you've done. Can't you play it more gently?
 Toya's Father: This is a practice piece that the composer was kind enough to write for our family. Happy was likely the last thing he felt as he wrote this... So, if you understand that, you should know how to play this song.
 Toya's Father: Did you actually take a close look at the sheet music, Toya? You need to think more about what was going through the composer's mind. If you did, you would know how to play this piece already. You're done practicing. Go reread the sheet music again.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: Yes, my dad was very strict with me when it came to teaching me how to play classical music properly...
 Toya: In particular, he felt very strongly about understanding what was going on with the composer as they composed a song and reproduce that musically.
@@ -128,4 +120,4 @@ Toya: So, thank you as well.
 Kohane: Huh? Y-You're welcome...?
 Toya: (Still, Azusawa really impressed me. She was clearly able to turn her feelings into a song.)
 Toya: (I need to learn to do the same...)
-(Black cut)
+(Black transition)

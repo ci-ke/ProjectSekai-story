@@ -54,7 +54,7 @@ An: Alright, I'm gonna go practice!
 An: I still have my own task to complete.
 An: So, Kohane, good luck! I know it's not gonna be easy, but let's do our best together!
 Kohane: Right...! Thanks, An!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -75,7 +75,7 @@ Arata: Thank you all for your patience. We fetched the water.
 Tatsuya: I'll put the hand towels over here.
 An: Oh, thanks! Then...
 An: Let's give Aunt Nagi's grave a thorough cleaning!
-(Black cut)
+(Black transition)
 Akito: Hmm... I think you're supposed to leave the roots of this type of weed intact...
 Kotaro: Wait, leave them intact?
 Akito: Yeah. Depending on the type, pulling the roots out can make the soil harden, which then makes the weeds that take their place tougher to remove. Something like that.
@@ -83,29 +83,25 @@ Soma: Oh, I've heard that before too. It's okay to pull the roots out in places 
 Kotaro: Really...? Also, Akito, you know about gardening?! I never would've guessed. Who taught you that?
 Akito: Huh? No, I just...
 Akito: (I can't tell him that Miku told me...)
-(Black cut)
+(Black transition)
 Toya: I'll take this vase out for the time being.
 Tatsuya: Okay. I'm sure you'll be fine, but be careful not to cut your fingers or anything.
 Tatsuya: Also, have you ever arranged flowers for a grave before? I can do that since I'm pretty good at this sort of thing.
 Toya: Oh, that'd be very helpful if you don't mind...
-(Black cut)
+(Black transition)
 Kohane: Then, I'll use this toothbrush to get the dirt out of all the engraved letters.
 Arata: Thank you. In that case, An and I will wipe it down.
 An: We're supposed to start from the top and work our way down, right?
 Arata: Yes, that should be fine. If there's any stubborn dirt or grime, you can use this special soap... But it looks like we won't need to.
 An: Okay. Then, let's make her grave sparkling clean!
-(Black cut)
+(Black transition)
 An: (Phew... I need to scrub gently to avoid scratching the stone.)
 An: (And I need to give special attention to the spot where offerings go...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: Oh...
 Kohane: Is something wrong, An?
@@ -120,19 +116,15 @@ Kohane: You and Nagi used to be so close.
 An: Yup! She did have this way of getting me to do things for her, but we always had fun.
 An: (We really did do a lot together.)
 An: (She taught me how to sing, we always ate food and played games together...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Junior High School An (An): Whew... Okay, how was that?!
 Nagi: Yeah, I can't believe how much you've improved. I know you're just going to keep getting better and better in the future, An.
 Junior High School An (An): Woohoo! Just wait, Aunt Nagi! I'll be better than you someday!
 Junior High School An (An): And when that happens, we're gonna do an event together!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (She didn't get a chance to keep that promise we made...)
 An: (But I was able to live up to the expectations she placed on me.)
@@ -141,4 +133,4 @@ An: (It took a really long time to get to this point...)
 An: (But my friends and I were able to put on the best event ever.)
 An: (And now, we're gonna go see what's waiting for us beyond your dream...)
 An: (So, I hope you'll keep watching over us.)
-(Black cut)
+(Black transition)

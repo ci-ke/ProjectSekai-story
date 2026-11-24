@@ -37,42 +37,34 @@ Gacha phrase: ……気持ち悪い……
 まふゆ: （……いつも通り、何もいない。 あるのは水草と、砂だけ……）
 まふゆ: （私と同じ。 空っぽで、何もない……）
 まふゆ: （……つい最近まで、そう思ってた。 だけど——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 まふゆ: ミク、その歌……
 まふゆ: どうして、ミクがその歌を知ってるの？
 ミク (N25): どうして……
 ミク (N25): この歌は、最初から知ってた
 ミク (N25): セカイができた時から知ってて……。 だから歌ったの
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: （私の想いでできたセカイにいたミクが、 初めからあの歌を知っていた。つまり……）
 まふゆ: 私の中には、奏の歌があった……
 まふゆ: （なら、私は、空っぽじゃない……？ それに……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏: 『ねえ、雪は前、嬉しいことも楽しいことも 感じられない、わからないって言ったけど、 わたしは、そんなことないと思う』
 奏: 『多分雪は、感じられないって思い込んでるだけ。 そんな気がする』
 奏: 『だってこんな歌詞を書けるんだから』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: （……もし奏が言っていたことが本当なら、 私は、何かを感じることができるはず）
 まふゆ: （でも……じゃあ、どうして私は今も……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000025/bg_a000025.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000025/bg_a000025.webp)
+(White transition)
 (Background change)
 まふゆ: ……っ！
 まふゆ: なんでまた、あの人形のこと……！
@@ -80,38 +72,30 @@ Gacha phrase: ……気持ち悪い……
 まふゆ: （気持ち悪くて、痛くて、苦しくて――）
 まふゆ: （こんなのいらない……。 こんな気持ちを感じるくらいなら、何も——）
 まふゆ: あ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏: まふゆ、顔が真っ白……！ どうしたの？　気分が悪いの？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: （そういえばあの時…… すぐ駆けつけてくれたな……）
 まふゆ: （あれ……？）
 まふゆ: …………
 まふゆ: （苦しいのが、少しだけ軽くなった……？）
 まふゆ: （なんだろう……すごく、不思議な感じ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 まふゆ: （……そうだ。この感じ、似てるんだ）
 まふゆ: （セカイでミクに会ったり、話をしてる時も 今と似たような感覚になる……）
 まふゆ: …………
 まふゆ: （この感じは、痛くも苦しくもないし……。 ちゃんと持っていようかな）
 まふゆ: （ミクが歌ってた、奏の歌みたいに——）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -186,4 +170,4 @@ Gacha phrase: ……気持ち悪い……
 (Background change)
 瑞希: 『……とりあえずこの件に関しては、 一段落ってとこかな？』
 奏: 『うん、そうだね』
-(Black cut)
+(Black transition)

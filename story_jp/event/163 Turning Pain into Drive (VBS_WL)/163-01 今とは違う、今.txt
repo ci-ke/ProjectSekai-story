@@ -35,7 +35,7 @@ MEIKO (VBS): ——だからこそ、あの木も成長が早いんでしょう�
 こはね: うん、私も大丈夫だよ
 ルカ (VBS): じゃ、決定だね！ みんなで行こ～う！
 レン・リン: 『やったー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [広場]
@@ -86,13 +86,13 @@ MEIKO (VBS): ミク？
 こはね: え……
 (Background change)
 ミク (VBS): みんな——！
-(Black cut)
+(Black transition)
 
 [？？？]
 
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

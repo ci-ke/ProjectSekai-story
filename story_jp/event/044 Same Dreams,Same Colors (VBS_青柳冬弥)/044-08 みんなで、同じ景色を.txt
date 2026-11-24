@@ -12,16 +12,12 @@
 彰人: 気にすんな。 だいたい、お前がいなかったら戻ってこれなかったんだしな。 迷惑どころか大助かりだ
 こはね: うん！　ありがとう、青柳くん！
 冬弥: ……そうか
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ: 『どんな人にも、“その人だからできること”が あるものだからね』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……ルカさんの言うとおりだったようだな
 ルカ: 『——ん～？　私がどうかした～？』
@@ -117,7 +113,7 @@ KAITO: 『ひぇ～っ！』
 冬弥: （だが——今は違う）
 冬弥: （きっとこれからも俺は、 想像したこともないたくさんの経験をしていける）
 冬弥: （——今日のことはきっと、生涯忘れないだろう）
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: ……ありがとう
-(White cut)
+(White transition)

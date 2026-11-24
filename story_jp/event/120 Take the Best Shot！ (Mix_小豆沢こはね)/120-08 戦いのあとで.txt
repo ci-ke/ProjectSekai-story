@@ -59,7 +59,7 @@
 遥: こはねも、もっとこっち来て
 こはね: う、うんっ！
 絵名: いくよ？　３、２、１——
-(Black cut)
+(Black transition)
 (Background change)
 
 [バレンタイン当日]
@@ -80,7 +80,7 @@
 絵名: そうそう。でも、いろいろあって譲ってもらったんだ。 小豆沢さんにね
 瑞希: え？　小豆沢さん……って、こはねちゃんのことだよね？ なんで？
 絵名: ふふ、実は——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -100,7 +100,7 @@
 遥: あ、それで今日は賞品のチョコレートを持ってきたんだ。 練習前にみんなでどうかな
 レン (MMJ): 僕達までいいの？ ありがとう、遥ちゃん
 ルカ (MMJ): とっても楽しみね♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -130,19 +130,15 @@ KAITO (VBS): コーヒーにもすっごく合うなあ
 こはね: （……杏ちゃん達が喜んでくれて、本当によかった）
 こはね: （青柳くんと遥ちゃんにたくさん助けられちゃったけど…… フォトコンテスト、挑戦してよかったな）
 こはね: （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （これからも、大切な瞬間をたくさん撮って、 写真に残していきたいな）
 レン (VBS): ——ねえ、こはね！ こはねが撮った冬弥の写真、見せてもらってもいい？
 リン (VBS): あ、わたしも見たーい！ コンテストの話も、もっと聞きたいな！
 こはね: うん！ 撮影の様子とかも撮ってるから、見せながら話すね
 こはね: じゃあ……まずは、この写真から——
-(White cut)
+(White transition)

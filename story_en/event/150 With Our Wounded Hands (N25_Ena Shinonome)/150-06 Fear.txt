@@ -2,7 +2,7 @@
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -30,20 +30,16 @@ MEIKO (N25): <Are you not coming back to SEKAI?>
 MEIKO (N25): <Everyone's been waiting for you...>
 Mizuki: I know.
 Mizuki: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: ...
 Mizuki: I can't...
 MEIKO (N25): <Mizuki...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -90,7 +86,7 @@ Ena: Also, MEIKO.
 Ena: I'm really sorry, but would you keep being by Mizuki's side if possible?
 MEIKO (N25): I can.
 Ena: Thanks.
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -117,4 +113,4 @@ Ena: (But is this really what I'm supposed to be doing...?)
 Ena: (Waiting here for...)
 Ena: *Gasp*
 Ena: <Sorry, you two. I have a huge favor to ask...!>
-(Black cut)
+(Black transition)

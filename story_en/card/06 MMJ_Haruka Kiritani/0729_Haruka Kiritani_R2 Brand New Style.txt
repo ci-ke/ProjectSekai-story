@@ -70,7 +70,7 @@ Saki: Hey, no hints! You gotta do this without anyone's help!
 Haruka: Hehe. She got us.
 Ichika: I'll still try my best.
 Haruka: *Nod* You can do it, Ichika.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -88,7 +88,7 @@ Haruka: She's teaching some of her juniors in the animal caretaker committee how
 Airi: Oh, okay. Then, we can try inviting Minori again some other time.
 Airi: For now, if you're free, wanna have lunch with us?
 Haruka: Sure. I'd love to.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -115,18 +115,14 @@ Haruka: And despite being in a new class, I already know at least half of the pe
 Airi: Yeah, I guess you just returned to being where you were before...
 Haruka: Oh, but... Something nice did happen.
 Haruka: When I went walked through the doorway into my new class after the opening ceremony, the other credit-based students surprised me by...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Classmate A: Welcome back, Haruka!
 Classmate B: Welcome back, Kiritani!
 Haruka: Hi, I'm back.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: Welcome back, huh...?
 Haruka: *Nod*
@@ -139,4 +135,4 @@ Haruka: So, Airi, Shizuku, thank you both for looking out for us.
 Airi: Hey, we're in this together, aren't we?
 Shizuku: Exactly. Please feel free to ask us for help if you ever think you need it.
 Haruka: Okay, I will.
-(Black cut)
+(Black transition)

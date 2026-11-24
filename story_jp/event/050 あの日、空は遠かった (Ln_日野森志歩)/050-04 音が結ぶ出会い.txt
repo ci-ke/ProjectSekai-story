@@ -2,7 +2,7 @@
 
 (Character: 星乃一歌, 望月穂波, 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [宮益坂女子学園中等部　屋上]
@@ -22,7 +22,7 @@
 志歩: （練習、しにくいな……。 かといって、他にできる場所なんてないし……）
 志歩: …………
 志歩: （……ま、邪魔になるわけでもなさそうだし、いいか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　放課後]
@@ -31,13 +31,13 @@
 
 志歩: （やっと授業が終わった。 今日も屋上でベースを——）
 志歩: あ……
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 志歩: （一歌と穂波が教室の前にいる……。 あの感じ、私のこと待ってるみたい）
 志歩: （……仕方ない。 後ろのほうからそっと出ていこう）
-(Black cut)
+(Black transition)
 (Background change)
 穂波: 本当に、志歩ちゃんどうしたんだろうね
 一歌: うん……。 理由も言わないなんて、志歩らしくないっていうか……
@@ -46,7 +46,7 @@
 穂波: うん、そうだね
 志歩: …………
 志歩: ……ごめん。 一歌、穂波……
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 宮益坂女子学園中等部　屋上)
 志歩: ……はぁ
@@ -58,7 +58,7 @@
 志歩: （昼休みだけじゃなくて放課後もここに来るってことは、 部活もやってないのか）
 志歩: （何しに来てるか知らないけど……まあ、いいか）
 志歩: （……今は何も考えないで、 ——ベースに打ちこもう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
@@ -92,4 +92,4 @@
 志歩: そう。 じゃあ私、練習に戻るから
 ？？？: …………
 ？？？: 音楽——か
-(Black cut)
+(Black transition)

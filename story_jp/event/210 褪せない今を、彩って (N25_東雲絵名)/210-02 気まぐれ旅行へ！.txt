@@ -60,7 +60,7 @@
 絵名: 『はいはい、わかったってば』
 絵名: 『じゃあ、Kと雪が来たら、日程だけ決めよっか』
 瑞希: 『だね！』
-(Black cut)
+(Black transition)
 (Background change)
 奏: 『今度の打ち上げの日？』
 奏: 『他に予定もないし……１日空いてるよ』
@@ -75,20 +75,16 @@
 (Background change)
 絵名: （……無事に出かけられそうでよかったな）
 絵名: （これで、息抜きになるといいけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『どうせなら、今しかできないことやっちゃおうよ！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……今しかできないこと、か
 絵名: それなら——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -120,4 +116,4 @@ MEIKO (N25): 『……ともかく、私のことは気にしないでちょう�
 リン (N25): 『早いね』
 瑞希: ふふーん。絶対みんなで楽しめる場所だよ！
 瑞希: ってことで——みんな、ボクに着いてきてね♪
-(Black cut)
+(Black transition)

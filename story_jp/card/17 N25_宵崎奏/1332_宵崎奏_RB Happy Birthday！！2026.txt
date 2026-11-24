@@ -20,7 +20,7 @@ Gacha phrase: 優しい想い、届いてるよ
 瑞希: はーい！
 奏: （……天馬さんが、誕生日会に招待してくれた時は びっくりしたけど……）
 奏: （せっかく、わたしのために準備してくれてるんだし 今日はゆっくり楽しみたいな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -54,7 +54,7 @@ Gacha phrase: 優しい想い、届いてるよ
 奏: そっか……。 いろいろ考えてくれたんだね
 穂波: 宵崎さんの誕生日ですから。 おすすめも調べてきたので、一緒に選びましょう
 奏: うん、えっと——
-(Black cut)
+(Black transition)
 まふゆ: ——これで、注文は全部そろったかな？
 咲希: はい！　じゃあ、いただきますの前に—— みんな、アタシに続いてくださいね！
 咲希: かなでさん、お誕生日おめでとうございます！
@@ -96,7 +96,7 @@ Gacha phrase: 優しい想い、届いてるよ
 奏: え、えっと……
 えむ: 奏ちゃん、にこにこスマイルだよ～っ☆
 穂波: 頑張ってください……！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -120,7 +120,7 @@ Gacha phrase: 優しい想い、届いてるよ
 瑞希: でも——実は、これで終わりじゃないんだよね～
 奏: え……？
 絵名: 今からもっと特別な日にするから、 もう少しつきあってよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -165,17 +165,17 @@ MEIKO (N25): おめでとう。 誕生日会、楽しんでちょうだい
 瑞希: なになに！？　どんな寝言！？
 絵名: 私も、ちょっと聞きたいかも
 奏: あ、えっと、何言ってたかだけ先に教えて……
-(White cut)
+(White transition)
 (Background change)
 ？？？: えっと……聞こえてる？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000549/bg_s000549.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000549/bg_s000549.webp)
 奏: 今日は、誕生日をお祝いしてくれてありがとう
 奏: それと……いつも見守ってくれてありがとう。 優しい想い、届いてるよ
 奏: ……わたしは、これからも曲を作り続けるよ。 だから——
 奏: わたしの曲で、 あなたの心を少しでも軽くできたらいいな
-(White cut)
+(White transition)
 (Background change)
 奏: これからも、見ていてくれると嬉しいよ
 奏: ……それじゃあ、またね
-(Black cut)
+(Black transition)

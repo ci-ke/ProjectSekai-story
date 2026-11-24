@@ -61,7 +61,7 @@
 えむ: ありがとう寧々ちゃん！
 えむ: よーしそれじゃあ——入れ替わり作戦、スタート～！
 司・寧々・類: 『おー！』
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -100,22 +100,22 @@
 寧々: 気を付けてね、えむ！
 司: 何かあったらすぐ連絡するんだぞ～！
 えむ: はーいっ！！
-(Black cut)
+(Black transition)
 えむ: んーっと、駐車場、駐車場……あった！
 えむ: （ちょっとドキドキするけど……大丈夫！ エルちゃんがいっぱい勉強できるようにするためだもん！）
 えむ: よし……！　そろそろーって近づいて……！
 ？？？: 『えーむちゃーん♪』
 えむ: ほえ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000551/bg_s000551.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000551/bg_s000551.webp)
 リン (WxS): 『じゃじゃーん！　リンだよ～っ☆』
 えむ: わっ！ リンちゃん、どうしたの？ 司くん達と一緒に回るんじゃ……
 リン (WxS): 『えへへ♪ 話してるのこっそり聞いてたから、 えむちゃんについてこようって思ったんだ！』
 リン (WxS): 『えむちゃん、ひとりぼっちだし リンが一緒にいたほうが安心かな～って思って♪』
-(White cut)
+(White transition)
 (Background change)
 えむ: リンちゃん……！ ありがとう！
 えむ: 実はちょっとドキドキ～のソワソワ～だったから、 とっても嬉しいなっ♪
 リン (WxS): 『それならよかった～！ じゃあえむちゃん、一緒にがんばろーう！』
 えむ: おーっ！
-(Black cut)
+(Black transition)

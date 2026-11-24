@@ -12,32 +12,24 @@ Gacha phrase: まだまだ、これからだよ
 類: ——さて。台本の読み合わせも進んでいることだし、 演出も詰めていかないとね
 類: まずは、英雄が剣を抜くシーンだ
 類: 序盤の見せ場であるこのシーンは、 観客の心を掴んで舞台に引き込むための重要な部分……。 それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 英雄 (司): 『……わからない。 僕には剣の技量はない。岩を叩き割れるような豪腕も』
 英雄 (司): 『でも——それでも、いつからかあるんだ』
 英雄 (司): 『体を突き破るような熱が。この世界を守らなくてはという、 魂に刻まれたような想いが……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: フフ。司くんの真に迫るあの演技にふさわしい演出を しっかりつけなくてはね
 類: （それにしても、ワークショップか……）
 類: （司くんは、演技の勉強には前から熱心だった。 いろいろな経験を得ようと、 エキストラのバイトもしていたくらいだしね）
 類: （だから、いずれワークショップにも興味を持つだろうとは 思っていたけれど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: （司くんは、夢に向かって進もうとしている）
 類: （寧々もえむくんも、 それぞれ思うところがあったようだったけれど……）
@@ -47,7 +39,7 @@ Gacha phrase: まだまだ、これからだよ
 類: （僕が思っていたよりも、タイムリミットは……）
 類: ……ダメだね。 演出を考えなくてはならないのに
 類: ……これは、少し気分転換が必要そうだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -92,7 +84,7 @@ MEIKO: まるっと代わってあげることはできないけど、 一緒に
 ルカ: うふふ。よかったわぁ～
 MEIKO: 本当に、いつでも来てくれていいからね！
 類: ああ。本当にありがとう。 それじゃあ、また
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -114,17 +106,13 @@ KAITO: じゃあ僕達も行こうか
 類: ああ。これも、レンくんがいい解決案を くれたおかげだね
 レン: えへへ、ボクだけじゃ思いつかなかったよ。 みんなで一緒に考えたから気づいたっていうか
 類: みんなで、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 司: よーし！　まずは、ステージのセッティングからだな
 類: それじゃあ僕は、音響と照明の確認をしてくるよ。 そちらは任せてもいいかな？
@@ -132,7 +120,7 @@ KAITO: じゃあ僕達も行こうか
 司: そのまま七つの海も越えてやるぞ！
 寧々: 類、そっちもよろしくね
 類: ああ、もちろんだ
-(Black cut)
+(Black transition)
 類: ——よし、こんなところかな
 類: （……それにしても、 今日はメイコさんとルカさんを見かけないな）
 類: （てっきりステージにいると思ったんだけど……）
@@ -162,4 +150,4 @@ MEIKO: 心配しなくても、みんなの力が必要な時は、 私達も思
 MEIKO: え？
 MEIKO: こらルカ、そういうことじゃないでしょー！ ていうか、そろそろ起きなさーい！
 類: フフフ
-(Black cut)
+(Black transition)

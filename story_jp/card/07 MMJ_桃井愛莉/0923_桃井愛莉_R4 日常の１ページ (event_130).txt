@@ -35,7 +35,7 @@ Gacha phrase: 今日は学校に来てよかったわ！
 みのり: 『そうなんだ……』
 (Background change)
 遥: 『あ、始まったよ』
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: ——以上！ MORE MORE JUMP！の持ち込み企画でしたー♪
 みのり・遥・雫: 『ありがとうございましたー！』
@@ -45,7 +45,7 @@ Gacha phrase: 今日は学校に来てよかったわ！
 みのり: 『うう、噛んだところ使われちゃってたよー！』
 (Background change)
 愛莉: 『おいしいところだったし、使われて当然よ』
-(Black cut)
+(Black transition)
 (Background change)
 有村: ——さあ、それでは我らがファッションリーダー、 ユイカちゃんに判定していただきましょう！
 有村: 私服センスがあるのは……、 愛莉ちゃんとみのりちゃん、どっち！？
@@ -61,7 +61,7 @@ Gacha phrase: 今日は学校に来てよかったわ！
 愛莉: 『アピールタイム、微妙に長かったし カットになるかもって思ってたけど……』
 (Background change)
 雫: 『あら、そうなの？　お客さん達たくさん笑ってくれてたから 私はきっとあると思っていたわ』
-(Black cut)
+(Black transition)
 (Background change)
 みのり: 『は～、おもしろかったー！』
 (Background change)
@@ -75,17 +75,13 @@ Gacha phrase: 今日は学校に来てよかったわ！
 (Background change)
 雫: 『あ、もしかして……』
 雫: 『みんな、収録が再開する前に 有村さんが言っていたこと覚えてる？』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 有村: こういう場所だと、つい勝手に線引きをしてしまうけど…… 僕達出演者も、スタッフのみんなも お客さんのためにいい番組を作ってる仲間だから
 有村: 『これはスタッフの仕事だ』『これは出演者の仕事だ』 って切り分けずに、お客さんのことを思って行動しないと
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: 『……たしかに言ってたけど。 それがどうかしたの？』
 雫: 『キャスティングされた時は、 “代役”って思われていたかもしれないけど——』
@@ -125,7 +121,7 @@ Gacha phrase: 今日は学校に来てよかったわ！
 (Background change)
 (Background change)
 愛莉: 『もう、そんな大声出して。 ご両親に怒られても知らないわよ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -135,36 +131,28 @@ Gacha phrase: 今日は学校に来てよかったわ！
 [愛莉の部屋]
 
 愛莉: ……まさか、セカイに新しい場所が増えてるなんてね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: それに——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 女性C: 私は愛莉って普通にアイドルだと思ってたけどな
 女性C: 正直私はQT時代の愛莉を知らない新参ファンだけど、 愛莉の振る舞いからは『誰かを元気にしたい！』とか 『笑顔にしたい！』って気持ちが、すっごく伝わってくるし……
 女性C: そういう愛莉の振る舞いが、 めちゃくちゃアイドル！って感じで、大好きだけどな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: バラエティなら経験も自信もあるし、 得意なことを活かすっていうつもりでいたけど……
 愛莉: それで役割を決めて、 やれることを減らしてちゃダメよね
 愛莉: それに……
 愛莉: わたしを『アイドル』として見てくれてるみんなを がっかりさせちゃうわ
 愛莉: ……あの子にも、ちゃんと伝えないとね
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -198,4 +186,4 @@ Gacha phrase: 今日は学校に来てよかったわ！
 あゆみ: ……うん。 ありがとう、愛莉ちゃん
 あゆみ: ふふ。わたし、もっと愛莉ちゃんのことが好きになっちゃった。 これからも、ずっとずっと応援するね！
 愛莉: ええ！　わたしも、アイドル桃井愛莉として、 たくさんの希望を届け続けるわ！
-(Black cut)
+(Black transition)

@@ -35,7 +35,7 @@ Emu: Yup! I thought that knowing how Amy and Dorothy felt during this song would
 Kohane: Emu...
 Kohane: Yes, I agree. I'm glad you asked too. I really want us to put on the best performance that we can...!
 Emu: Thanks, Kohane!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lodge Classroom]
@@ -61,7 +61,7 @@ Emu: I think this is how she would feel!
 Kohane: Oh, that's Dorothy... She's so happy after talking to Amy...!
 Emu: Yay! Alright, let's start again from just before the chorus!
 Kohane: I understand!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lodge Gym]
@@ -78,7 +78,7 @@ Shiho: You're doing some kind of musical, right? Kohane's a part of a singing un
 Honami: Y-Yes... I wish I could say the same...
 Shiho: Is something wrong, Honami? You seem a little down.
 Honami: Um... We've actually been having a little trouble practicing our piece.
-(Black cut)
+(Black transition)
 Shiho: It didn't sound like a musical, huh?
 Honami: Yes... We're all experienced singers and musicians, but something didn't feel quite right when we played together...
 Honami: Emu's the only one who's ever performed in a musical before, so our song and music seemed a little all over the place.
@@ -121,4 +121,4 @@ Honami: Hehe. It's okay, Shiho, just tell her the truth.
 Shiho: D-Don't say that. Let's go. We're keeping them waiting.
 Honami: Okay!
 Honami: (But thank you, Shiho. I finally understand.)
-(Black cut)
+(Black transition)

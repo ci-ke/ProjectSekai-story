@@ -40,7 +40,7 @@ Rin & Len: A trip?
 Luka: Oh, a trip? That sounds fun! I'd like to go too!
 Miku (VBS): I assume they're heading over heading over to other side.
 MEIKO: That's also my guess. I really hope they don't cause the others too much trouble...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Park]
@@ -51,7 +51,7 @@ Len: <Don't forget us!>
 Luka: <Including me!>
 Toya: What brings you all here?
 KAITO: <There's something we'd like to ask all of you!>
-(Black cut)
+(Black transition)
 KAITO: <So, we'd like you to let us watch a battle in order for us to get more experience feeling what an event's atmosphere is like.>
 Akito: Feeling an event's atmosphere, huh...?
 Len: <We want to learn how to feel the atmosphere at these things better!>
@@ -65,24 +65,20 @@ Luka: <Yes, I believe so. MEIKO and the others seem to already have a good grasp
 An: Okay! We'll look for a place where we can keep two of our phones hidden so you guys can watch.
 Akito: Dropping in to watch is fine and all, but don't let anyone see you, okay?
 Rin: <We know! We were fine the other day, no?>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin: <Yay! You guys are so awesome!>
 Staff A: Hm? I thought I just heard someone's voice just now... Coming from over there, maybe?
 Rin & Len: <...!!>
 Staff B: What? It's all just spare amps and speakers over there. They aren't even plugged in so, there's no way they could've made a sound.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len: <To be honest, that was a close one...>
 Rin: <Shush!!>
 Rin: <Anyway, we're really looking forward to it!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -108,7 +104,7 @@ Rin: <Whoa...! They're all really excited about this event!>
 Kohane: Yeah, we'll need to do our best to make sure they enjoy everything.
 Akito: Hey, we should head backstage soon.
 An: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Backstage]
@@ -158,4 +154,4 @@ KAITO: <Speak for yourself, Luka!>
 Rin: <Quiet, you two!>
 Luka & KAITO: <S-Sorry...>
 Rin & Len: <Haha!>
-(Black cut)
+(Black transition)

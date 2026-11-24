@@ -9,14 +9,14 @@ nightcode_01_09 ボクはボクでいたいのに
 瑞希: 補講だよー。単位あぶないから来いって言われちゃってさー。 ほんとダル〜い
 クラスメイトB: あはは、ドンマイ。 でも瑞希は勉強できるんだし、サクっと終わるでしょ？ 行ってらっしゃーい！
 瑞希: は〜い。あーあ、めんどくさいな～
-(Black cut)
+(Black transition)
 教師: ……このように、このふたつの定理をしっかり頭に入れるように。 あとは求めたいものに応じて使い分けていけば……
 瑞希: （あ、なるほどねー。 なんとなくカンで解いてたけど、そういうことだったんだ♪）
 生徒A: ……あの子、うわさの子だよね？ 近くで見るの初めて
 生徒B: 私も。ちょっとびっくりしちゃった。 知らなかったら気づかないかも
 瑞希: （……聞こえてないつもりなのかな。あれ。 バッチリ聞こえてるんだけど）
 瑞希: （……ま、いっか。いつものことだし）
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 補講、終ーわーりっ！ 帰りどこか寄っていこっかなー♪
 ２年生Aの声: なぁ、今日、あの１年来てたぞ。見たか？
@@ -34,7 +34,7 @@ nightcode_01_09 ボクはボクでいたいのに
 瑞希: ボクがこの格好、好きだからです。 ただそれだけ
 瑞希: それじゃ、さよーならー♪
 ２年生A: あ、ちょっと……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -46,7 +46,7 @@ nightcode_01_09 ボクはボクでいたいのに
 クラスメイトB: じゃ、私達こっちだから、またねー
 瑞希: またねー
 瑞希: よーし！　それじゃ、今日は気晴らしに、 ちょっと買い物してこっかな！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ショッピングモール]
@@ -66,32 +66,24 @@ nightcode_01_09 ボクはボクでいたいのに
 瑞希: ………………
 瑞希: …………本当、くだらない
 瑞希: ボクは、ボクでいたいだけなのに
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): 誰よりも消えたがってるくせに
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: さあ……どーだろね
 瑞希: でも……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【Amia】 (瑞希): 『……雪？　大丈夫？』
 【雪】 (まふゆ): 『……あ、うん。大丈夫だよ。 私、そういうのあんまり気にならないから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 嘘つき
 瑞希: 雪も、ホントは、キツかったんじゃないか
-(Black cut)
+(Black transition)

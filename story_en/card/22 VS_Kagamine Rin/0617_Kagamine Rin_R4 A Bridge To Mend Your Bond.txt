@@ -17,7 +17,7 @@ Rin: Huh...? What is this...? It feels like something is calling me.
 Rin: This is...a fragment, right? So why do the emotions feel so strong...?
 Rin: At times like these, it's best to follow your instincts and go take a look!
 Rin: Okay, I'm gonna pop in for a bit on the owner of these feelings!
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -42,7 +42,7 @@ Boy: Um, uhh...! I—
 Boy: *Cough* *Cough*
 Rin: Whoa! A-Are you okay? Maybe sit down over here?
 Boy: Huff... Huff... Yeah...
-(Black cut)
+(Black transition)
 Boy: Sorry I surprised you... I'm sick, so I've been here for the longest time...
 Rin: Does that mean...this is a hospital?
 Boy: Yeah... Oh, but it's a bit different from usual. Maybe because this is a dream...
@@ -84,7 +84,7 @@ Rin: Would you mind telling me more about Hii? I want to help think of a way for
 Boy: What...? You mean it...?
 Rin: Yeah! I think that's the reason we met like this.
 Boy: Rin...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,18 +113,14 @@ Boy: Yeah...
 Boy: But my illness hasn't gotten any better... And now I'm going overseas to have the doctors there help me.
 Boy: They said once I go, I might not be able to come back until I get better...
 Boy: And Hii heard about it from her mom...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Hii: You said you feel better when I sing!
 Hii: I wanted to go to school with you...!
 Hii: You're such a liar! I... I'm never singing again!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin: I see...
 Boy: Yeah... And she really did stop coming...
@@ -165,8 +161,8 @@ Boy: ...
 Rin: Are you still worried?
 Boy: Yeah... Sorry, you're helping me so much...
 Rin: It's alright. When you have a fight with someone precious to you, it hurts a lot, and you feel sad and uneasy.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000179/bg_s000179.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000179/bg_s000179.webp)
 Rin: If you want... How about getting me to help you?
 Rin: Though, when I say “me”, I mean a Rin that you create.
 Boy: Huh? A Rin that I...create?
@@ -177,7 +173,7 @@ Rin: Maybe not a whole song. But you can write a phrase or a melody!
 Rin: Try really putting your feelings into it. How you're sorry, and you want to make up.
 Rin: I'll take those feelings and deliver them to Hii for you!
 Boy: Rin...
-(White cut)
+(White transition)
 (Background change)
 Rin: Okay, it looks like it's time to wake up.
 Boy: What...?! W-Wait, Rin! I...
@@ -185,7 +181,7 @@ Rin: Hehehe, don't worry, okay? I'll always be watching over your feelings!
 Rin: Go, go, go! Y-U-T-O! You can do it, you can do it, Yuuuto!
 Boy: Oh! My name...!
 Rin: Hehe. I believe that you can do it! I know you can, Yuto!
-(White cut)
+(White transition)
 (Background change)
 
 [Hospital Room]
@@ -196,33 +192,25 @@ Father: Your eyes are pretty red... Were you crying about what happened with Hii
 Yuto: Yeah... And then it got hard to breathe... I cried a lot in my dreams, too...
 Father: I see... I'm sorry, this all happened because we didn't know anything when we told her mom about your transfer.
 Yuto: No... It's my fault for lying...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: First, you have to apologize for lying. Then, you should also tell her why you lied.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Yuto: Oh... That's right... In that dream, I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ???: Try really putting your feelings into it. How you're sorry, and you want to make up.
 ???: I'll take those feelings and deliver them to Hii for you!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Yuto: ...! That's right, I have to...
 Yuto: Dad, I want to make a song! Teach me how Rin works!
-(White cut)
+(White transition)
 (Background change)
 
 [Between Worlds]
@@ -233,4 +221,4 @@ Rin: (Plus, that SEKAI might have brought us together because it sensed his call
 Rin: I really hope he'll hang in there...
 Rin: Actually, no. I know he'll do fine! Alright, I'll cheer him on from here!
 Rin: Go, go, go!
-(White cut)
+(White transition)

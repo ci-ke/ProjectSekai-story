@@ -2,7 +2,7 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数週間後]
@@ -33,14 +33,14 @@
 奏: 『エンコードとアップロード作業は わたしのほうでしておくよ』
 奏: 『今日も夜遅くまでありがとう。 お疲れ、雪』
 【雪】 (まふゆ): 『うん、お疲れさま。 また新曲のラフができたら、教えてね』
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: …………
 まふゆ: （……Kと曲を作りあげて、わかった）
 まふゆ: （Kは強い意志で、光を灯そうとしてる。 どんな深い絶望の底にも）
 まふゆ: （……結局、自分が何を好きなのかも、 本当の自分がどんなものなのかも、まだよくわからないけど）
 まふゆ: （でも、いつか——）
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……うん。アップできた
 奏: （雪のミックス……すごく良かったな）
@@ -49,12 +49,12 @@
 奏: （それに、“あの感覚”を、雪は理解してくれる）
 奏: （絶望の底にただひとりいる時の、あの感覚を）
 奏: （あの感覚をわかってくれる雪がいればいつか——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000042/bg_s000042.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000042/bg_s000042.webp)
 まふゆ: （Kの曲が私を——）
 奏: （誰かを救う曲を——）
 奏・まふゆ: 『作れるかもしれない』 『救ってくれるかもしれない』
-(White cut)
+(White transition)
 (Background change)
 (Background change)
 瑞希: 『へえ～っ！　最初の頃のふたりって、 そんな感じだったんだね！』
@@ -142,18 +142,14 @@
 奏: ……そっか
 奏: （わたし達の背負っている絶望は……。 まだ消えたわけじゃない）
 奏: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （——あの頃に比べたら、 わたし達はきっと、少しずつ前に進めている）
 奏: だから……
 奏: これからも、わたしは作り続けていこう
 奏: いつか……まふゆを。 みんなを救う曲を、作るために
-(White cut)
+(White transition)

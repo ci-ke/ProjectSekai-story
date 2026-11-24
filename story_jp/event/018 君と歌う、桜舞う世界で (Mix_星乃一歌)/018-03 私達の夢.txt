@@ -14,18 +14,18 @@
 ？？？: ————♪　——♪
 一歌: これ……ミクの歌だ
 一歌: かわいくて、綺麗な声……。 一体、どんな人が歌ってるんだろう……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000060/bg_a000060.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000060/bg_a000060.webp)
 こはね: ——♪　————♪
 一歌: えっ……？ あそこにいるのってもしかして……小豆沢さん？
 一歌: （小豆沢さんってたしか、志歩と同じクラスの……。 大人しそうな子のイメージがあったけど……）
 こはね: ————♪　——♪
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000061/bg_a000061.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000061/bg_a000061.webp)
 一歌: （……知らない人がたくさんとおってる中で、堂々と歌ってる）
 一歌: （自分の歌に自信を持って、まっすぐ歌ってるのがわかる）
 一歌: （それに——）
-(White cut)
+(White transition)
 (Background change)
 通行人A: あの子、めちゃくちゃ歌うまいな
 通行人B: 最近よくこの辺りで歌ってるよね。 イベントとかも出てるらしいよ
@@ -82,20 +82,16 @@
 こはね: だから、その子の気持ちに応えられるように、 早く追いつくために練習してるんだ
 こはね: きっと志歩ちゃんも、星乃さんのことを信じてるから、 教えてくれるんじゃないかな
 一歌: あ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 志歩: 謝るくらいなら、練習しよう
 志歩: ……私も、みんなとうまくなりたいから
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: ……そうだ。 志歩、『みんなとうまくなりたいから』って言ってた
 一歌: 志歩の力になりたいなら、 ここで挫けてちゃダメだよね
 一歌: ありがとう、小豆沢さん。 またやってみるよ
 こはね: えへへ、どういたしまして。 力になれたなら嬉しいな
-(Black cut)
+(Black transition)

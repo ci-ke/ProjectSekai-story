@@ -26,7 +26,7 @@ MORE MORE JUMP！の活動の一環として、ソロでお散歩配信をスタ
 みのり: 今回は配信の許可も取ってるので、 ぜひぜひ行ってみましょう！
 みのり: （——こういうイベントでの配信って、 あんまりやったことないから、ちょっぴり緊張するけど……）
 みのり: （みんなが楽しめる配信にできるように、 がんばるぞ～！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックス・ブライダルフェスタ会場周辺]
@@ -67,19 +67,19 @@ MORE MORE JUMP！の活動の一環として、ソロでお散歩配信をスタ
 ルカ (WxS): 『ちょっと変わった結婚式……』
 ルカ (WxS): 『——それって、雲の上でやる結婚式とかかしら？』
 寧々: え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000320/bg_s000320.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000320/bg_s000320.webp)
 ルカ (WxS): 『前にミクと話してたのよ～。 雲の上でショーがやれたらとっても楽しそう♪って』
 ルカ (WxS): 『フワフワで、真っ白で、とってもきれいだから 結婚式にぴったりだし……よく眠れそうでしょう？』
 寧々: え、えーっと……実際雲の上には立てないんだけど……。 できたら楽しいかも……？
 ルカ (WxS): 『きっとそうよ～♪ もしそういう結婚式があったら、教えてちょうだい？』
-(White cut)
+(White transition)
 (Background change)
 寧々: さすがにないと思うけど……
 寧々: ——って、そろそろ行かないと集合時間になっちゃう！ またあとでね、ルカさん！
 ルカ (WxS): 『ええ！　がんばってね、寧々ちゃん♪ 応援してるわ♪』
 寧々: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックス・ブライダルフェスタ会場]
@@ -96,4 +96,4 @@ MORE MORE JUMP！の活動の一環として、ソロでお散歩配信をスタ
 スタッフ: それじゃあ、さっそくだけど——これに着替えてちょうだい
 寧々: え……えっ！？
 寧々: 着替えるって——これにですか……！？
-(Black cut)
+(Black transition)

@@ -18,7 +18,7 @@ Kanade: No, that's okay. Don't worry about me.
 Kanade: More importantly, I'm glad your dad was willing to understand. This means you can settle in over at my house for the meantime...
 Mafuyu: *Nod*
 Kanade: Your tea's gone cold... Let me make a new cup for you.
-(Black cut)
+(Black transition)
 Kanade: Here you are.
 Mafuyu: Thank you...
 Mafuyu: It's so warm...
@@ -37,7 +37,7 @@ Kanade: Uh oh! The cup...
 Honami: Oh no! Don't move, Ms. Yoisaki! I'll clean this up right away...!
 Kanade: Oh... I-I'm so sorry...
 Mafuyu: ...
-(Black cut)
+(Black transition)
 Honami: Thank you for your patience. Here's your tea.
 Kanade: Thank you... I'll try it now.
 Honami: Here's your cup, Asahina.
@@ -52,7 +52,7 @@ Mafuyu: I'm okay. It wasn't actually a cold.
 Honami: Oh, I see... Then...
 Kanade: ...
 Kanade: Um, Ms. Mochizuki, the thing is...
-(Black cut)
+(Black transition)
 Honami: Alright, I will be excusing myself here.
 Honami: I'll see you at school, Asahina...
 Mafuyu: Okay...
@@ -65,7 +65,7 @@ Mafuyu: You don't have to apologize.
 Mafuyu: But I do agree with you...
 Kanade: Shall we have some of that food Ms. Mochizuki just made?
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -116,7 +116,7 @@ Mafuyu: The jam should be on that shelf. The butter's towards the top of the ref
 Mafuyu: Why don't you go wash your face in the meantime?
 Kanade: Oh, okay. In that case, I'll be right back.
 Mafuyu: Okay, see you in a little bit.
-(Black cut)
+(Black transition)
 Kanade: All done... Oh, so are you.
 Mafuyu: *Nod*
 Kanade: Huh...?
@@ -144,20 +144,16 @@ Mafuyu: ...
 Mafuyu: (What is this sensation...?)
 Mafuyu: I've felt it before. But where?
 Mafuyu: Oh...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000137/bg_s000137.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000137/bg_s000137.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: It's like that one time...
 Mafuyu: (Things aren't as lively as they were at that time...)
 Mafuyu: (But it feels similar...)
-(Black cut)
+(Black transition)
 Kanade: I'm full. That was nice.
 Mafuyu: Me too. That was delicious...
 Kanade: You didn't have much, Mafuyu? Are you sure that's going to be enough?
@@ -166,4 +162,4 @@ Mafuyu: But I'm glad we got to have breakfast together.
 Kanade: Me too.
 Mafuyu: Would you like some tea...?
 Kanade: Yes, that sounds nice. Oh, let me help you this time.
-(Black cut)
+(Black transition)

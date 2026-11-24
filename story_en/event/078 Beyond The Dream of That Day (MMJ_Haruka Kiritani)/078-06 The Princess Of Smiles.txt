@@ -2,7 +2,7 @@
 
 (Character: Haruka Kiritani)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Shopping Mall]
@@ -25,16 +25,12 @@ Boyfriend: But she's a pretty good singer.
 Little Haruka (Haruka): (She's singing and dancing... And I really love how frilly and pretty her clothes are.)
 Little Haruka (Haruka): (People are starting to stop and watch her performance...)
 Little Haruka (Haruka): (This is amazing. It's almost like...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Haruka (Haruka): “And so, the Princess was able to use her beautiful smile to spread love and courage to people all over.”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Little Haruka (Haruka): ...
 Old Man: You're doing great, kid!
@@ -47,7 +43,7 @@ Young Lady: ♪————
 Little Haruka (Haruka): (She's clapping her hands... Am I supposed to go along with her...?)
 Young Lady: ♪————
 Little Haruka (Haruka): (Oh, she smiled...)
-(Black cut)
+(Black transition)
 Young Lady: Thank you all so much!
 Young Lady: It looks like we have a pretty decent crowd now, so I'd like to move to my next song... While I'm at it, why don't I call today's special guest to the stage?
 Little Haruka (Haruka): (Special guest...? Who's she talking about?)
@@ -61,7 +57,7 @@ Young Lady: No problem! We'll do something simple! I'm sure you'll get it in no 
 Young Lady: So, let's dance!
 Little Haruka (Haruka): ...
 Little Haruka (Haruka): O-Okay...!
-(Black cut)
+(Black transition)
 Young Lady: Try to follow along, everyone!
 Young Lady: Okay, so you kick and step! And after that, turn! Think you can do it, Haruka...?
 Little Haruka (Haruka): L-Like this...?
@@ -89,31 +85,27 @@ Little Haruka (Haruka): Huh...?
 Girlfriend: Hey, check out that girl! She's so little, but an amazing dancer!
 Boyfriend: Haha. Yeah, she is. I can't help but smile while watching her.
 Little Haruka (Haruka): (They all like the way I'm dancing...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Haruka's Mother: Hehe... If only it were easier to make you smile, Haruka.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Little Haruka (Haruka): (I'm always making Mom feel sad and frown...)
 Little Haruka (Haruka): (But that old lady, that man, that woman... People I don't know at all... They're smiling...)
 Little Haruka (Haruka): (Seeing them smile makes me feel so happy...)
 Little Haruka (Haruka): (This warmth... I wasn't sure what it was before, but it's taken me over...)
 Little Haruka (Haruka): (It's so...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000139/bg_s000139.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000139/bg_s000139.webp)
 Girlfriend: Oh, look, she's smiling...!
 Old Lady: What a beautiful smile. It's almost as bright as the sun.
 Little Haruka (Haruka): (I'm smiling...?)
 Little Haruka (Haruka): (Right now? I'm smiling...?)
 Little Haruka (Haruka): (Oh, I guess I am... I mean, that nice lady, the others... They're all sparkling...)
 Little Haruka (Haruka): (This is so much fun...!)
-(Black cut)
+(Black transition)
 (Background change)
 Young Lady: You guys all did an amazing job!
 Young Lady: Including you, Haruka. You finally smiled...
@@ -132,4 +124,4 @@ Young Lady: So, in order to spread more and more hope to everyone... To get them
 Young Lady: Wanna dance with me during my next song?
 Little Haruka (Haruka): Oh...
 Little Haruka (Haruka): Yeah!
-(Black cut)
+(Black transition)

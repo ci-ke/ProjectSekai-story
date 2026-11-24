@@ -2,7 +2,7 @@
 
 (Character: Honami Mochizuki, Kanade Yoisaki, Mafuyu Asahina)
 
-(White cut)
+(White transition)
 (Background change)
 
 [Hospital]
@@ -42,17 +42,13 @@ Kanade: Grandma...
 Kanade: (What happened to dad was my fault...)
 Kanade: (That's why I have to keep composing. I have to make a song that can save people. Honestly, I'd rather be composing than wasting time dealing with a housekeeper.)
 Kanade: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (If I keep living like this, it's going to start affecting my ability to compose...)
 Kanade: Okay, I'll agree to it...
@@ -67,7 +63,7 @@ Junior High School Honami (Honami): ...! I'll gladly accept if I do receive an o
 Kanade: O-Okay...
 Junior High School Honami (Honami): But for now, please make sure to get as much rest as you can after you do get home, Ms. Yoisaki.
 Kanade: Thank you. I will...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -79,23 +75,19 @@ Kanade: I should do that now. This song should be able to save a lot of people..
 Kanade: A lot of people...
 Kanade: ...
 Kanade: (The way that person arranged my song...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Kanade: (Oh, interesting... The chorus sounds completely different when it's arranged like this...)
 Kanade: (They made it so the effects they put in really shine through and give the listener an opportunity to have all these different images pop into their head...)
 Kanade: (This is incredible... It's even helping me get a better idea of what I should do for my next song...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kanade: (I'm getting a startling number of ideas for songs now.)
 Kanade: (It's as if I could physically feel this sense of pure despair and not wanting to disappear.)
 Kanade: (Maybe with this Yuki person, I'll be able to do more...)
 Kanade: (I'll try asking them.)
 Kanade: (If I create a social media account and send them a DM asking them if we can talk...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -108,7 +100,7 @@ Mafuyu: ...?
 Mafuyu: Someone left a comment for my video...?
 Mafuyu: Who could it be...?
 Mafuyu: Wait, is this...?
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Kanade's Room)
 Kanade: Oh, Yuki replied...
@@ -120,7 +112,7 @@ Kanade: (I know. What if we used something with voice chat?)
 Kanade: I vaguely remember seeing a good app for discussing music and composition somewhere.
 Kanade: Let's see... It was called... Oh, “Nightcord”.
 Kanade: (I'll see what Yuki thinks about using Nightcord, and send her a link to the app...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -140,4 +132,4 @@ Mafuyu: (Oh, they're here...)
 Mafuyu: (Her voice is so soft but she still articulates very clearly...) 
 Mafuyu: (So this is K...)
 Mafuyu: (This is the person whose song shook my heart awake.)
-(Black cut)
+(Black transition)

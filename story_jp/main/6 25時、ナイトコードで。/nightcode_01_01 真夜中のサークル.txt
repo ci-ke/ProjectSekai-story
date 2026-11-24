@@ -13,7 +13,7 @@ SNSの書き込み: 『これ作ってる……ニーゴ、だっけ。 どん�
 SNSの書き込み: 『それが、よくわかんないんだ。 ４人で作ってるっぽいんだけど……。 でも、そういう正体不明なところもいいんだよね』
 SNSの書き込み: 『へー、じゃあ聴いてみようかな。 それにしても、ニーゴって変な名前だね』
 SNSの書き込み: 『あ、ニーゴっていうのはみんながそう呼んでるだけだよ。 本当のサークル名は——』
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
@@ -34,10 +34,10 @@ SNSの書き込み: 『あ、ニーゴっていうのはみんながそう呼ん
 奏: この展開、面白いな……
 奏: ……そろそろカップ麺できたかな
 奏: あと一息……。 今日中に終わらせよう
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……ナイトコードの通知？
-(Black cut)
+(Black transition)
 (Background change)
 【雪】: 『みんな、遅れてごめんね。 結構待たせちゃったよね』
 (Background change)
@@ -92,7 +92,7 @@ SNSの書き込み: 『あ、ニーゴっていうのはみんながそう呼ん
 【K】 (奏): 『わかった。私も作業に戻る。 MVの初稿は作業が一段落してから、その時に』
 【雪】: 『じゃあまたいつも通り？』
 【K】 (奏): 『うん。また、夜——』
-(Black cut)
+(Black transition)
 (Background change)
 【K】 (奏): 『“25時、ナイトコードで。”』
-(Black cut)
+(Black transition)

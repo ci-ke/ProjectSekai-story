@@ -20,17 +20,13 @@
 ミク (VBS): それはどうして？
 杏: どうして、って……
 杏: あの日、こはねの歌を聴いて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: …………——♪
 杏: ！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: すごく——ドキドキしたんだ
 杏: それに、こはねも私の歌を聴いて、 すごくドキドキしたって言ってくれた
@@ -40,27 +36,23 @@
 杏: ……こはねは、私の初めての、大切な相棒なんだ
 杏: だから誰より大切にしたいし、 私も、こはねが誇れるような……尊敬できるような、そんな——
 杏: …………あ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000012/bg_s000012.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000012/bg_s000012.webp)
 ミク (VBS): ……きっと、そういうことなんじゃないかな
 ミク (VBS): 杏は、『こはねに尊敬されるような相棒でいたい』から、 これからもずっと、自分の歌でこはねを ドキドキさせ続けたいって思ってる
 ミク (VBS): でも——
 彰人: ——こはねが伸びだしたせいで、いつかそうできない時が くるかもしれないと思った……ってことか？
 杏: それは……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: （…………あ、あれ……？）
 杏: （こはね、すごいねって—— あんなすごい歌、歌えたんだって言いたいのに……）
 杏: （どうして？　うまく言葉が出てこない——）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……っ
 杏: たしかに……そんな気がする
@@ -72,10 +64,8 @@
 彰人: ——不安になるのは、仕方ねえんじゃねえか
 杏: え？
 彰人: お前……こはねに会うまで、ずっとひとりだっただろ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: 謙さん、こんちは
 杏の父: よう、彰人。冬弥
@@ -115,10 +105,8 @@
 杏: でもいつか見つかったら、 私、一生その子と一緒に歌ってる気がする！
 杏: いっぱい練習して、ステージに立って、 たまにはケンカしたりもして——
 杏: それで、父さん達を超える最高のイベントをやるんだ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): ……そっか
 ミク (VBS): 杏にとってこはねは、 やっと見つけた相棒なんだね
@@ -139,7 +127,7 @@
 杏: ……何？　ミク
 ミク (VBS): ——頑張って
 杏: …………うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -159,4 +147,4 @@
 彰人: ああ……いや、次の曲のこと考えてただけだ
 彰人: それじゃ声出しやるぞ。 ……いけるか？
 杏: ……うん！　やろう！
-(Black cut)
+(Black transition)

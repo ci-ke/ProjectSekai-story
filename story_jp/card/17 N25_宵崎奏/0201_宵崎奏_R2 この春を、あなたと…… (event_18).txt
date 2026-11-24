@@ -12,7 +12,7 @@ Skill name: 心に残った歌声
 奏: ……違う、ここはピアノの音じゃない…… もっと力強い音で……
 奏: もう少し、いろんな音を試してみようかな。 ここさえできればあとは……
 穂波の声 (穂波): 宵崎さーん、お食事の準備ができました
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -38,7 +38,7 @@ Skill name: 心に残った歌声
 奏: …………
 奏: ねえ、望月さん。 その桜、無事に咲いたらまた見せてもらってもいいかな
 穂波: はい、もちろんです。 綺麗に咲いてもらえるように、お世話頑張ります！
-(Black cut)
+(Black transition)
 
 [一週間後]
 
@@ -57,7 +57,7 @@ Skill name: 心に残った歌声
 穂波: すみません。お節介で……
 奏: ううん……
 奏: ありがとう、望月さん。 大切に、飾らせてもらうね
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -71,7 +71,7 @@ Skill name: 心に残った歌声
 奏: 覚えてる、かな。 ずっと昔……お母さんもいた頃に、一緒に見たよね
 奏: …………
 奏: ……また一緒に、見られたね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,16 +84,12 @@ Skill name: 心に残った歌声
 奏: ふぅ……
 奏: その次の曲を、考え始めないと……
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ♪――――
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （病院の帰りに聴こえた歌、すごく良かったな……）
 奏: （ギターの演奏も良かった。 技術的にはぎこちないところもあったけど、 音そのものは力強さと優しさがあって……）
@@ -102,7 +98,7 @@ Skill name: 心に残った歌声
 奏: 力強さと優しさと。でも、時折見える不安定さ……
 奏: あ……
 奏: （いいメロディーが浮かんできそう）
-(Black cut)
+(Black transition)
 奏: あ、そろそろ時間だ……
 奏: 『みんな、いる？』
 (Background change)
@@ -128,16 +124,12 @@ Skill name: 心に残った歌声
 瑞希: 『そう、それ！　なんていうか、 ちょっと不器用だけど、前向きにがんばろうとしてる誰かの歌、 って感じ？』
 (Background change)
 奏: 『…………』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ♪――――
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『実はこのメロディー、 たまたま道で聴いた演奏と歌声から思いついたんだ』
 奏: 『その人にしか出せないような雰囲気で演奏して歌ってて、 ああ、いいなって……』
@@ -158,7 +150,7 @@ Skill name: 心に残った歌声
 (Background change)
 瑞希: 『オッケー！　じゃあ、まずは 今作ってる曲を完成させないとね！』
 奏: 『そうだね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -173,4 +165,4 @@ Skill name: 心に残った歌声
 穂波: 本当ですか？ お役に立ててよかったです！
 奏: うん
 奏: （本当に、ありがとう……）
-(Black cut)
+(Black transition)

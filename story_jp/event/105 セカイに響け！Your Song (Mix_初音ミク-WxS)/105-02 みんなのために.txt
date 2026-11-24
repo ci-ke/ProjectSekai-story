@@ -19,16 +19,12 @@ MEIKO: 今回の曲はレンがボーカルだもんね。 どう、大丈夫そ
 レン: まあ、問題はないと思うけど…… いつもどおり歌うだけじゃ、駄目だと思うんだ
 ミク (Ln): どういうこと？
 レン: それは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): ♪————！　♪————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: （……あの時、一歌と一緒に歌ってたミクは 本当にかっこよかった）
 レン: （オレも歌うのなら—— ミクみたいに、一歌達を引っ張っていけるようになりたい）
@@ -38,7 +34,7 @@ MEIKO: 今回の曲はレンがボーカルだもんね。 どう、大丈夫そ
 MEIKO: 私も準備してくる
 KAITO: ……レン、頑張って
 レン: ——ありがとう、カイト
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -55,15 +51,11 @@ KAITO: え～？　ボクだって、みんなのために 何かしたいって
 KAITO: みんなを応援するためには、 それが一番いいんじゃないかって思ってさ
 KAITO: 今は、ぐっと踏ん張って 頑張らなきゃいけない時だろうし ……これぐらいはしたいなって
 MEIKO: そうね……
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: ……あの時、みんなが大きな壁にぶつかって、 とても心配したわ
 MEIKO: でも……大丈夫だって思ったの
@@ -78,7 +70,7 @@ KAITO: それじゃあ、みんなで最高のイベントをやらなきゃね�
 レン: あっ、ずるいぞリン！ オレも一緒にやる！
 ルカ: えー、楽しそう。 私もまぜてまぜて～♪
 KAITO: いいね、じゃあみんなでやろっか！ これ飲み終わったら準備するから、ちょっと待って～
-(Black cut)
+(Black transition)
 (Background change)
 
 [セカイの狭間]
@@ -95,4 +87,4 @@ KAITO: どのセカイの僕達も、歌を歌ったり、ショーをしたり�
 ミク: そうだね……
 ミク: （でも……）
 ミク: （もっと、みんなを応援するために頑張ってる セカイのわたし達の力になれたら……）
-(Black cut)
+(Black transition)

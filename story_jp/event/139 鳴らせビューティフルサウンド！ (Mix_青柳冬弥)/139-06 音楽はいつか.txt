@@ -18,15 +18,11 @@
 少年: ……こんなに教えてもらってるのに…… 全然うまくならないですし……
 少年: 僕……やっぱり、向いてないんだと思います……
 冬弥: ……！
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000064/bg_s000064.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000064/bg_s000064.webp)
+(White transition)
+(Flashback out)
 (Background change)
 少年: ……挑戦できただけでもよかったです。 ありがとうございました……
 杏: で、でも……！
@@ -80,4 +76,4 @@
 杏: じゃあ、宵崎さんみたいにイメージを膨らませていけば、 音が鳴るかもしれない……ってこと？
 冬弥: ああ！ ——さっそく試してみよう！
 少年: はい！
-(Black cut)
+(Black transition)

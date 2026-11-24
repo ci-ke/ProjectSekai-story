@@ -22,7 +22,7 @@ Mizuki: Hmm...
 Mizuki: Oh, I got a message on Nightcord too...
 Ena: <There's something I want to discuss with all of you. Mind gathering an hour earlier than usual?>
 Mizuki: Discuss...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few minutes before midnight]
@@ -67,7 +67,7 @@ Ena: <Yeah! So, everyone, play Untitled!>
 Mizuki: <Enanan seems really excited...>
 (Background change)
 Kanade: <Hehe. Yes, she does.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -119,7 +119,7 @@ Mizuki: (Honestly, I don't really care about any of those things. That's because
 Miku (N25): Mizuki, you seem happy...
 Mizuki: Yup! Super happy♪
 Miku (N25): You are? I'm glad to hear that...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -129,20 +129,16 @@ Miku (N25): You are? I'm glad to hear that...
 [Kamiyama High School - School Gate]
 
 Mizuki: Well, I'm here.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An: <It's your birthday tomorrow, right, Mizuki? I wanna celebrate, so mind coming to school for me tomorrow?>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Just being at school makes me kinda tense, but there shouldn't be anything for me to worry about today...
 Mizuki: So...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-A]
@@ -180,7 +176,7 @@ Minori: <Hehe. It's us! MORE MORE JUMP! You've been such a loyal fan, so we'd li
 Haruka: <We hope you and your friends all enjoy as you listen.>
 Airi: <Ready, Mizuki...? We're gonna make this feel like the best day ever just for you!>
 Shizuku: <From MORE MORE JUMP! with Love♪>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Whoooaaa!
 Mizuki: Th-This is so awesome...! MMJ's singing a song just for me?!
@@ -199,7 +195,7 @@ Tsukasa: Of course! You didn't expect us to come to a birthday party empty-hande
 Tsukasa: So, we're going to sing! Rui, Toya, Akito! Let's start with the happy birthday song!
 Toya & Rui: Yes! Okay!
 Akito: Fine...
-(Black cut)
+(Black transition)
 An: Alright, we'll cap things off by taking a commemorative photo!
 Tsukasa: Naturally, Akiyama, you'll be in the center!
 Mizuki: Sure thing♪
@@ -220,8 +216,8 @@ Rui: Did you have fun, Mizuki?
 Mizuki: ...
 Mizuki: Yeah, I did. It was really fun.
 Rui: You did? Then, I'm glad.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000108/bg_s000108.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000108/bg_s000108.webp)
 Airi: Happy birthday, Mizuki! We heard that you really enjoyed our video letter!
 Shizuku: I'm really glad we asked Minori and Haruka to do that for us. We should all go out together again sometime, Mizuki.
 Airi: It might be fun to visit another mountain and soak in some nice views. Anyway, we'll let you know if anything comes up!
@@ -241,7 +237,7 @@ Mafuyu: Happy birthday... I can't actually tell, but I'm guessing this means qui
 Mafuyu: At least, that's what it seemed like when we celebrated in SEKAI... Anyway, I'll see you later on Nightcord...
 Ena: Happy birthday, Mizuki. Did you have fun during the party at school? I guess I could just ask Akito about how it went...
 Ena: But it seems better to ask you personally, so let me know what it was like sometime. I'll be waiting on Nightcord! See you!
-(White cut)
+(White transition)
 (Background change)
 Mizuki: Today was such an amazing day. And I have all of you to thank.
 Mizuki: I really need to thank Ena and the others.
@@ -249,4 +245,4 @@ Mizuki: But... It might be nice to spend a day like this every so often.
 Mizuki: I mean, today is my birthday after all♪
 Mizuki: I really appreciate how you all joined me to celebrate.
 Mizuki: Thank you all so much!
-(White cut)
+(White transition)

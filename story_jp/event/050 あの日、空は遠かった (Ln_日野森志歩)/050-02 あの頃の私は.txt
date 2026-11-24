@@ -26,14 +26,14 @@ KAITO: …………
 志歩: カイトさん、どうしたんですか。 ひとりでそんな隅っこにいて
 KAITO: あ……。 いや、特に何もないんだけど……
 志歩: ……？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000051/bg_s000051.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000051/bg_s000051.webp)
 KAITO: えっと……
 KAITO: ……打ち上げってどうすればいいか、わからなくて
 志歩: え？
 KAITO: あ、嫌だってわけじゃないんだけど、 ……ちょっと慣れないんだ
 KAITO: ——俺はひとりで楽器弾いてることが多いから。 みんなと一緒にいると、どうするのがいいのか たまにわからなくなって
-(White cut)
+(White transition)
 (Background change)
 志歩: そう……ですか
 志歩: ……でも、その気持ちちょっとわかります。 私も、ひとりでいることのほうが多かったですから
@@ -64,15 +64,11 @@ KAITO: あ、いや、そういうわけじゃなくて……。 志歩の話を
 志歩: 中学の頃だよ。 あの頃私は、ひとりでずっとベース弾いてたから
 一歌: あ……
 一歌: （中学の頃——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……あの時の……）
 志歩: ……一歌、穂波。 私、そんな顔させたいわけじゃないんだけど
@@ -94,4 +90,4 @@ KAITO: 昔の志歩達のことを教えてもらえたら、 もっと、みん
 志歩: …………
 志歩: ……そう、だね。 きっかけもなくて、ほとんど話せてなかったし
 志歩: わかった。それじゃあ話そうか。 ——あの頃の話
-(Black cut)
+(Black transition)

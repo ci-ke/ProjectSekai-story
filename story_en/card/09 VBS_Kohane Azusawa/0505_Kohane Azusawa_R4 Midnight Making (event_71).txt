@@ -23,7 +23,7 @@ Kohane: Yes, I decided to use An's song as the base and tried a few different th
 Kohane: But I couldn't really tell if it turned out okay...
 Kohane: So, would you mind listening to it?
 KAITO: Yes, of course!
-(Black cut)
+(Black transition)
 Kohane: H-How was it...?
 KAITO: Yes, I thought it was good! You came up with some very interesting phrases for this.
 Kohane: Th-Thank you very much...
@@ -45,7 +45,7 @@ Rin: But KAITO was all...!!
 MEIKO: Rin, Kohane, here are your drinks. KAITO, you don't get one.
 KAITO: Aww, but...!
 Kohane: Haha...
-(Black cut)
+(Black transition)
 KAITO: *Sigh* I finally got to have some coffee...
 Kohane: Hehe. I'm glad you did.
 KAITO: Yes, I sort of can't do without it.
@@ -80,7 +80,7 @@ Kohane: You're right. I made the decision to do this, so I'm going to go through
 Kohane: So, KAITO, Rin, I'm going to try my best! And I'll be looking forward to working with you two!
 Rin: Whoa! Kohane's so fired up!
 KAITO: Yes, she is. And don't forget to have fun along the way as you take on this new challenge.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -102,7 +102,7 @@ An: Wait, you too? That's too bad...
 Kohane: I'm really sorry, but thanks for the invite.
 An: No, that's all good! In that case, see you tomorrow!
 Kohane: Okay! See you tomorrow!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kohane's Room]
@@ -119,7 +119,7 @@ Kohane: Hm...?
 Kohane: *Gasp* N-No, I can't fall asleep yet.
 Kohane: Wake up...! Wake up...!
 Kohane: Okay!
-(Black cut)
+(Black transition)
 KAITO: <Hello! Rin told me that you wouldn't be coming over to SEKAI today. How's work...?>
 KAITO: <Oh...>
 Kohane: Hm...
@@ -146,4 +146,4 @@ KAITO: <Who knows?>
 Kohane: ...
 KAITO: <For now, sleep tight.>
 Rin: <We'll see you later, Kohane.>
-(Black cut)
+(Black transition)

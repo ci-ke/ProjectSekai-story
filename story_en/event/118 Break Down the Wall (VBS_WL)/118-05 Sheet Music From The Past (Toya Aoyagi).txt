@@ -11,15 +11,11 @@ KAITO (VBS): Huh?
 Toya: This is sheet music for Chopin's Fantaisie-Impromptu.
 KAITO (VBS): What?! You can tell just by glancing at it?!
 Toya: No, um... Another piece may not have been so obvious, but this one...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000064/bg_s000064.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000064/bg_s000064.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I practiced playing it so much when I was little.
 KAITO (VBS): Oh...
@@ -27,15 +23,15 @@ KAITO (VBS): I see... Now I understand.
 KAITO (VBS): That means... This sheet music might also have come from your feelings.
 Toya: Yes. You're likely right.
 Toya: (This really takes me back...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000273/bg_s000273.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000273/bg_s000273.webp)
 Toya: (I remember spending every single day sitting at the piano.)
 Toya: (Despite the fatigue, I had to keep my fingers moving... My vision even went blurry from time to time.)
 Toya: (Things were so hard.)
 Toya: (So hard that I found myself hating music itself.)
 Toya: (But I'm able to keep moving forward today because of what I experienced back then.)
 Toya: (That also applies to the task Ken gave me.)
-(White cut)
+(White transition)
 (Background change)
 Toya: My task... That's it, KAITO!
 KAITO (VBS): Yes?
@@ -79,6 +75,6 @@ Toya: But I think our desire to overcome the obstacle in front of us—to see wh
 KAITO (VBS): Yes, I see...! So when you do find a way to overcome it, then maybe it'll crumble to pieces!
 Toya: Hehe. You may be right. In any case...
 Toya: I want to see what's beyond it as soon as I can.
-(Black cut)
+(Black transition)
 (Video: link_street_ed2)
-(Black cut)
+(Black transition)

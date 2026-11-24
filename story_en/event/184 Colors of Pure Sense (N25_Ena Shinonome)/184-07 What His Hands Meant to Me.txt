@@ -2,7 +2,7 @@
 
 (Character: Ena Shinonome, Hatsune Miku, KAITO)
 
-(White cut)
+(White transition)
 (Background change)
 Little Ena (Ena): (Wow...)
 Little Ena (Ena): (Daddy's painting looks so sparkly for some reason...)
@@ -27,7 +27,7 @@ Little Ena (Ena): (Your very own world.)
 Little Ena (Ena): (So, this painting is his world?)
 Little Ena (Ena): (It's so pretty, but also really strange...)
 Little Ena (Ena): (I can't wait to see what color he uses next! How's the bird perched on that branch gonna turn out...?)
-(White cut)
+(White transition)
 (Background change)
 Ena: (Back then, whenever I watched Dad paint, I thought his hand was magical in some way.)
 Ena: (Back then, that hand...)
@@ -47,23 +47,23 @@ Ena: (After all, art is about freedom...)
 Ena: (I'm gonna draw this the way I like.)
 Ena: (I know. I can intentionally mix a bunch of other colors together...)
 Ena: (Yeah, keep applying more paint... I'll capture that aura using lots of different colors.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000506/bg_s000506.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000506/bg_s000506.webp)
 Ena: (This is fun.)
 Ena: (This is so much fun...)
 Ena: (I want to keep painting.)
 Ena: (I don't want this to ever be complete.)
 Ena: (I want to keep on painting forever...)
 Ena: (And ever...)
-(White cut)
+(White transition)
 (Background change)
 Miku (N25): <Ena looks like she's having a lot of fun...>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000507/bg_s000507.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000507/bg_s000507.webp)
 KAITO (N25): <Yeah.>
 KAITO (N25): <I guess she found her answer...>
 Miku (N25): <I'm looking forward to seeing how her painting turns out...>
-(Black cut)
+(Black transition)
 (Background change)
 Yukihira: Time's up. Please put your brushes down.
 Ena: ...
@@ -71,4 +71,4 @@ Yukihira: Nice work, everyone. Please bring your paintings to the front.
 Ena: It's done...
 Ena: ...
 Ena: That was really fun...
-(Black cut)
+(Black transition)

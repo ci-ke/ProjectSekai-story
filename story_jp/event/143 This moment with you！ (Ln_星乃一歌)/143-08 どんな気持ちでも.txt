@@ -25,15 +25,11 @@
 ミク (Ln): ……でも、そっか。 私も、なんだかあの時のことを思い出すな
 一歌: え……？
 ミク (Ln): ほら、前に私と歌いたいって言ってくれて 一歌が作った曲を、一緒に歌わせてくれたでしょ？
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000134/bg_s000134.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000134/bg_s000134.webp)
+(White transition)
+(Flashback out)
 (Background change)
 一歌: あ……
 ミク (Ln): それに、プロデビューする前の最後のライブで 一歌達と一緒に歌えた
@@ -63,7 +59,7 @@
 ミク (Ln): ……最後は、一歌の気持ちで決めてよ
 一歌: ……うん。ありがとう、ミク
 一歌: 私は——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -107,4 +103,4 @@
 穂波: プロデビューして初めてのライブがジャムフェスになるし…… 絶対成功させよう！
 一歌: （タイアップの曲も、ジャムフェスも成功させて—— お客さんに、最高の曲を届けよう）
 一歌: みんな、頑張ろう！
-(White cut)
+(White transition)

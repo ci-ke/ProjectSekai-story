@@ -45,13 +45,13 @@ Kohane: Yes, if you really want to...!
 Young Vivid Street Locals: Th-Thank you so much...!
 Young Vivid Street Locals: We're still really terrible... But we're going to do our best as a team in order to become amazing singers like you guys...!
 Kohane: Oh...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000364/bg_s000364.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000364/bg_s000364.webp)
 Kohane: That's such a great thing to hear!
 Kohane: My friends are the reason I've been able to keep singing, so I really understand your desire to do your best for your team.
 Kohane: So... I hope I get to hear you all sing in the future. In the meantime, let's all keep doing our best!
 Young Vivid Street Locals: Th-Thank you...!
-(White cut)
+(White transition)
 (Background change)
 Kotaro: You've gotta be kidding me! Why didn't they talk to me like that?!
 Regular B: Haha. Looks like your coffee wasn't what they were after!
@@ -66,7 +66,7 @@ Toya: Because our goal is to stand on top of the world.
 Regular B: The world, huh...? It's a big dream, but it doesn't feel impossible when you talk about it, right?!
 Regular A: Haha! Yeah! Speaking of which, what are the other two up to right now? What are they doing to take on the world?
 Toya: They're doing what they can as we speak. Actually, it's been quite a challenge for them...
-(Black cut)
+(Black transition)
 (Background change)
 
 [English Class]
@@ -76,15 +76,15 @@ Akito: ... I'm good...
 An: Uh... Pretty good!
 English Teacher: Okay, you're both able to provide smooth responses, let's try going a little further!
 English Teacher: What did you do on your day off?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000365/bg_s000365.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000365/bg_s000365.webp)
 An: W-Wait, I caught the first part... But what did he say at the end?
 Akito: On your something...?
 An: W-Would you mind repeating that?!
 English Teacher: Okay. What did you do on your day off?
 An: ... Uhh...
 An: Wh-What?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -101,7 +101,7 @@ An: Ugh... Yeah, true...
 An: You're right...! We have to figure out a way if we're really gonna stand on top of the world...!
 An: Let's do our best, Akito!
 Akito: Yeah...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -127,4 +127,4 @@ An: I mean, we weren't kidding when we said that we're gonna stand on top of the
 Kohane: Right! It's a big goal, but we plan on working towards it bit by bit...!
 Kohane: So, everyone, let's all keep doing our best!
 Akito, Toya & An: Yes! Yeah!
-(Black cut)
+(Black transition)

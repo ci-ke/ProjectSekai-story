@@ -37,10 +37,8 @@ Ena: <Are you having some trouble writing that song?>
 Kanade: <No, it isn't that...>
 (Background change)
 Kanade: <When I went to go visit my dad in the hospital today...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [A few hours earlier]
@@ -68,10 +66,10 @@ Minori: Oh, I also need to thank you for what you said during the Fan Festival..
 Kanade: What I said...?
 Minori: Yes! You said that I was really bright...
 Kanade: Oh...
-(White cut)
+(White transition)
 (Background change)
 Minori: ————♪ ——♪
-(White cut)
+(White transition)
 (Background change)
 Kanade: I remember... The one singing that time was...
 Minori: Yes, it was me! Minori Hanasato!
@@ -95,7 +93,7 @@ Minori: No, it's okay! I'm really glad that I can help!
 Minori: So, I'll take those and... Alright, all set!
 Minori: Um... Which way to the hospital?
 Kanade: Oh, um... This way.
-(Black cut)
+(Black transition)
 
 [Outside the hospital]
 
@@ -109,10 +107,8 @@ Kanade: Oh, um... See you...
 Kanade: (Thank goodness Hanasato was there to lend me a hand. There's no way I would've been able to carry everything over on my own...)
 Kanade: Training...
 Kanade: (I caused someone else a lot of trouble, so maybe I should start working out a little to build my stamina...)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <...is what happened.>
 (Background change)
@@ -167,8 +163,8 @@ Kanade: <Okay, sounds good.>
 (Background change)
 Kanade: <And thank you for suggesting this, Amia.>
 Mizuki: <No problem! I hope you two break a good sweat!>
-(Black cut)
+(Black transition)
 (Background change)
 ???: <Hehe... I came to see how they were doing since I was getting a bit bored...>
 Luka: <But I have a feeling this is going to be very fun.>
-(Black cut)
+(Black transition)

@@ -15,17 +15,13 @@ Gacha phrase: ミク、わたし！がんばって～！
 リン: 欠片がわたしに見せてくれたのは、 みのりちゃん達の想いのセカイだったよ
 リン: なんだか、いろいろすごかったの！
 リン: 最初は、遥ちゃんと愛莉ちゃんと雫ちゃんの想いから セカイが生まれそうだったんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン: あ……！
 リン: 想いの欠片が……消えそうになってる……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: ……たしかに、遥ちゃん達は それぞれ大きな挫折を経験しているから……
 リン: うん……
@@ -60,7 +56,7 @@ KAITO: そしてその想いと努力が、巡り巡って きっかけをくれ
 MEIKO: そうね！　そう考えると、身が引き締まるわ
 リン: （わたし達は見守ることしかできない—— でも想いのこもった歌なら、届けられる！）
 リン: （いつかわたしの歌が、 誰かにとってのきっかけや助けになってくれたら嬉しいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -69,13 +65,13 @@ MEIKO: そうね！　そう考えると、身が引き締まるわ
 
 [セカイの狭間]
 
-(Black cut)
+(Black transition)
 (Background change)
 リン (MMJ): １、２、３、４……！
 ミク (MMJ): ……ステップ、すごくいい感じだったよ♪ あとは上半身と動きが合うと、もっと素敵になると思う！
 リン (MMJ): ありがとう！　じゃあそれ気を付けながら、 同じところもう一回やってみるね
 リン (MMJ): １、２、３、４……！
-(Black cut)
+(Black transition)
 (Background change)
 リン: アイドルのわたし、今日も頑張ってるな
 レン: リン、もしかしてセカイを見てるところ？
@@ -114,20 +110,16 @@ MEIKO: そうね！　そう考えると、身が引き締まるわ
 リン: ふふ。ちょっとぶっきらぼうだけど、 まふゆちゃん達の想いに寄り添おうとしてるところ
 リン: それと……歌かな
 リン: 想いがこもった、 とってもきれいな歌を歌うんだよ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン: ♪————　♪————……
-(White cut)
+(White transition)
 (Background change)
 リン: わたしとわたしで一緒に歌ったら きっとすごい歌が歌えると思うんだ！
 リン: ……いいよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン: （自分だけど、照れてるところ可愛いかったな）
 レン: へえ。やっぱり、自分のことちゃんと見てるんだな
@@ -138,4 +130,4 @@ MEIKO: そうね！　そう考えると、身が引き締まるわ
 リン: あ、照れてる～！
 レン: もう、笑うなって言ってるだろ？
 リン: ふふっ！
-(Black cut)
+(Black transition)

@@ -53,8 +53,8 @@
 玲奈: 笑顔でさらっと言ってくれてますけど、こっちのセリフですよ
 玲奈: ReLightの凄さはわかったうえで—— 私達もここまできて、絶対負けられないですね
 司会: ありがとうございました。 では次に、Cheerful＊Daysと MORE MORE JUMP！、お願いします
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000621/bg_s000621.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000621/bg_s000621.webp)
 遥: 私達のやることは、予選ステージから変わっていません
 遥: 見てくれている人達に希望を届けられるように、 精一杯頑張ろうと思います
 遥: あとは……予選から何かと縁があった Cheerful＊Daysと戦えるのは、嬉しいですね
@@ -62,7 +62,7 @@
 アリサ: まあ、でも——お互い正々堂々とぶつかろうね
 アリサ: どっちかが脱落するにしても、 最後は思いっきり盛り上がりたいし？
 遥: ふふ、そうだね
-(White cut)
+(White transition)
 (Background change)
 みのり: ……強気な遥ちゃん、かっこいい……！！！！
 雫: 本当ね……観客席もコメントも、すごく盛り上がってるわ
@@ -77,4 +77,4 @@
 遥: （そんな規模の場所でパフォーマンスができるなんて……）
 司会: そして——もうひとつ
 司会: 今回のライブパフォーマンスでは、 各グループに番組から『新たな楽曲』を提供させていただきます！
-(Black cut)
+(Black transition)

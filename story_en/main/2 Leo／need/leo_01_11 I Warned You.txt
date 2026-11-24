@@ -18,7 +18,7 @@ Ichika: Saki, what's wrong?! Are you okay?
 Saki: Hehe... Sorry I didn't say anything... I think I've worked up a fever...
 Shiho: I'll call an ambulance!
 Saki: No... I'm fine. It's just a cold. Do you mind if I lie down for a bit?
-(Black cut)
+(Black transition)
 Ichika: How are you feeling? Any better?
 Saki: Yeah, thanks. I just needed a break.
 Ichika: Despite practicing with you every day, I didn't notice you were sick. I'm sorry.
@@ -37,20 +37,16 @@ Shiho: But you know I'm not the social type. I don't feel the need to be around 
 Shiho: Because of that, my classmates started to avoid me.
 Ichika: .....
 Shiho: I had no problem with that. I was glad not to be bothered. But then...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho's Classmate A: This girl from another class comes around to see Hinomori all the time. What's her name? Hoshino? Can you believe Hinomori actually has a friend?
 Shiho's Classmate B: I heard they've been friends since elementary. Birds of a feather, huh.
 Shiho's Classmate A: That must be it. She seemed rude and a bit stand-offish too.
 Shiho's Classmate B: I can't stand people who think they're too cool for everyone else. Like, they're too special to be friends with you.
 Shiho: !!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: I snapped at them for saying bad things about my friends behind their backs, but that only made things worse.
 Shiho: Personally, I don't care what they say about me. But I didn't want them to start spreading malicious rumors about Ichika or Honami.
@@ -81,4 +77,4 @@ Saki: Let's try talking to her again! Wouldn't it be wonderful to all be in the 
 Ichika: Saki, don't jump around when you're feeling unwell! Lie back down...
 Shiho: Sigh... Saki, first of all, you need to get back in shape. Then we can think about how to get through to Honami together. Okay?
 Saki: All right! Hehe.
-(Black cut)
+(Black transition)

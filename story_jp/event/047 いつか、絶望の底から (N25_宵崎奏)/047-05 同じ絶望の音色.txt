@@ -2,31 +2,31 @@
 
 (Character: 宵崎奏, 朝比奈まふゆ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [奏の部屋]
 
 奏: （……このままじゃ、音が軽すぎる）
 奏: （このフレーズをもっと印象づけるには——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
 
 まふゆ: （……どうして音が濁るのに、 この音を入れたんだろう）
 まふゆ: （もしかして、全体の中でも特に印象づけるために……？）
-(Black cut)
+(Black transition)
 (Background change)
 奏: （……うん。代理コードを入れたら際立った）
 奏: （もっと研ぎ澄まして……鋭くしていかないと）
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （……鋭い、突き刺さりそうな音）
 まふゆ: （でもこの音は……私を強く揺さぶる）
 まふゆ: （どうしてそう感じるのかはよくわからないけど）
 まふゆ: （この音がもっと響くように……ベースの音を変えて、 曲の速さも、もう少し落として——）
-(Black cut)
+(Black transition)
 
 [数週間後]
 
@@ -44,7 +44,7 @@
 まふゆ: （また同じだ）
 まふゆ: （今度こそって期待して行動しても、 結局また、行き止まり）
 まふゆ: （もがいたって、結局……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -73,7 +73,7 @@
 まふゆの母: ふふっ、わかったわ。 注文しておくわね
 まふゆ: うん。ありがとう
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 (Place: まふゆの部屋)
 まふゆ: お医者さんになっても……
@@ -99,7 +99,7 @@
 まふゆ: …………
 まふゆ: 雪……。静かで、何もない……
 まふゆ: ——『雪』で、いいか
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: （……これで20曲目）
@@ -126,7 +126,7 @@
 奏: （すごい……。 この曲を聴いてると、 新しい曲のイメージがどんどんわいてくる——）
 奏: ……早く曲にしなくちゃ
 奏: 全部、曲に——
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……できた
 奏: （今まで作った曲とは、少し違う形になったかもしれない。 でも……）
@@ -137,9 +137,9 @@
 奏: ……あ、れ……
 奏: （目の前が、ぼやける……。 それに、汗がとまらない……）
 奏: （水……水、飲まないと……）
-(Black cut)
+(Black transition)
 (Background change)
 奏: 水……だけでも……
 奏: あ……
 奏: （力が、入ら……）
-(Black cut)
+(Black transition)

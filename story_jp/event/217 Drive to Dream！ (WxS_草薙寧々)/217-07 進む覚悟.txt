@@ -46,7 +46,7 @@
 寧々: えっ！？　ちょっとオリビアさん……！
 オリビア: 『——行くよ！』
 寧々・えむ: 『わーーーっ！』 『きゃーーっ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [劇場前]
@@ -63,13 +63,13 @@
 類: ルカさん……
 類: ……そうだね。残り10分、ギリギリまで待とう
 司: ああ……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000640/bg_s000640.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000640/bg_s000640.webp)
 ルカ (WxS): （……どうか、寧々ちゃんとえむちゃんが 無事でいてくれますように）
 ルカ (WxS): （目を開けたら、元気なふたりがいて……）
 ルカ (WxS): （『これで、みんなでショーを見られるね』って——）
 ルカ (WxS): （キラキラな笑顔を、見せてくれますように——）
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 レン (WxS): 『な、なに！？　今のおっきな音！』
@@ -127,4 +127,4 @@
 えむ: ありがとう、ルカお姉さん！
 司: ——では、急いで中へ入るぞ！
 寧々・えむ: 『うん！』 『おーっ！』
-(Black cut)
+(Black transition)

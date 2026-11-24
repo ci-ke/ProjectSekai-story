@@ -20,7 +20,7 @@ Saito: These can really hurt someone if they were to fall on them, so please be 
 Minori: Whoa, I've never seen a spotlight up so close... It kinda looks like a big bazooka...
 Airi: Wake up, Minori! I need you to help me carry this!
 Minori: Uh... O-Okay! One, two...!
-(Black cut)
+(Black transition)
 
 [Reception]
 
@@ -34,7 +34,7 @@ Haruka: No, it's okay. This is your first time and there's just so much to get u
 Haruka: Shizuku, I'm going to go help fix those posters. Can I leave you to set everything else up for the reception area?
 Shizuku: Yes, I can do that! I did this quite a lot when I was still in training, so you can count on me.
 Haruka: Thanks. I'll see you in a bit.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Venue entrance]
@@ -42,7 +42,7 @@ Haruka: Thanks. I'll see you in a bit.
 Haruka: Okay, the posters should be all set...!
 Reception Staff: Thank you so much, Haruka!
 Haruka: You're welcome. Anyway, we should hurry back since we don't have much time left.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Basement Hall)
 Haruka: (I had a feeling that we'd be running behind schedule...)
@@ -52,12 +52,12 @@ Shizuku: We're all done. It took a little longer than I was hoping, but we all p
 Stage Staff: Haruka! Shizuku! If we don't start rehearsing for our show soon, we won't be able to stay on schedule...
 Shizuku: Oh, is it that time already?
 Haruka: Let's go, Shizuku. We still need to talk things over with the lighting and sound techs.
-(Black cut)
+(Black transition)
 Minori: Hnng... This light's so heavy...! I didn't realize how hard it is to get these set up...
 Airi: You're not tired already, are you? We still have to rehearse after this.
 Airi: Speaking of which, Shizuku and Haruka are here... Alright, let's start rehearsing!
 Minori: O-Okay!
-(Black cut)
+(Black transition)
 Minori, Haruka, Shizuku & Airi: MORE MORE JUMP!
 Minori: “Hello, everyone...! This is Minori Hanasato from MORE MORE JUMP!...”
 Minori: H-Huh? It went all quiet...
@@ -71,16 +71,16 @@ Airi: She's right... It's our fault for booking this place and making you guys r
 Haruka: Exactly. None of you are to blame. So let's regroup and check everything from the top again.
 Staff: Okay...
 Minori: (Oh no... They seem so disappointed...)
-(Black cut)
+(Black transition)
 Minori: (We've finished rehearsing but...)
 Crowd Controller: If we let the line go this way, they'll spill out into the street so it might be better to break them into smaller lines...
 Sound Technician: C-Can we go over that part once more?
 Minori: (The staff seem so worried...)
-(Black cut)
+(Black transition)
 Shizuku: Um, Airi, I have a feeling that everyone's a little tired right now... How about we all take a little break...?
 Airi: Yeah, especially since we've been at it nonstop since this morning.
 Airi: Sorry for the delay, everyone! I think it's high time we all took a break, so please take an hour to get yourselves some lunch and rest up!
-(Black cut)
+(Black transition)
 Haruka: They seem really concerned...
 Airi: Yeah, this isn't looking good.
 Shizuku: Should we all sit down and discuss what's going on? Nothing good will come out of us fretting like this.
@@ -98,17 +98,13 @@ Staff B: Yeah, I'll go too...
 Minori: ...
 Minori: (They were tearing up too...)
 Minori: (They're here to help us, but we made them feel this way...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Haruka: And they have to work incredibly hard. They're the ones who move all the heavy equipment, set everything up and move around thousands of people at a time.
 Haruka: By agreeing to have this person help us, we'd be making them “work” instead of having fun, no...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: (This is what Haruka was talking about...)
 Minori: ...
@@ -116,17 +112,13 @@ Minori: ...
 Minori: Huh?
 ???: Oh! Hi, Minori!
 Minori: It's you...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Minori's Fan: Y-You're Minori, right?! I can't believe it!
 Minori's Fan: I am sure! I'm your fan, Minori! Would it be okay if we shake hands...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Minori: You're the one who asked to shake hands with me, right?!
 Minori's Fan: Y-Yes! I can't believe that you remember me!
@@ -150,7 +142,7 @@ Minori: (They're willing to endure all this if it means supporting us...)
 Minori: (That means I...!)
 Minori: Yuina, thanks again for coming out today! I'm gonna head off for a little bit, so please wait for me in the hall!
 Yuina: What?! Where are you going, Minori...?!
-(Black cut)
+(Black transition)
 Haruka: So I'm thinking about gathering everybody in the hall after we've all had something to eat...
 Haruka: I feel like we should talk to them and get them to relax since they seem to be worried right now.
 Shizuku: Yes, that sounds good. It'll also be good to look everything over with the lighting and sound technicians again.
@@ -158,7 +150,7 @@ Airi: Alright, we can also try talking to them individually during the break... 
 Airi: What's going on? They're all moving toward the hall for some reason.
 Shizuku: Look! Isn't that Minori on stage with a mic?
 Haruka: What...?!
-(Black cut)
+(Black transition)
 Minori: (I'm going to spread and inspire hope in everyone with this event. That includes all the staff here too...!)
 Minori: (So...!)
 Minori: “Everyone! Please allow me to thank you again for joining us here today!”
@@ -181,4 +173,4 @@ Airi: Looks like Minori beat us to it...
 Shizuku: Yes, she's always there to push us in the right direction when we need it.
 Haruka: But we're not letting her take all the credit.
 Haruka: Let's get back to work and finish this!
-(Black cut)
+(Black transition)

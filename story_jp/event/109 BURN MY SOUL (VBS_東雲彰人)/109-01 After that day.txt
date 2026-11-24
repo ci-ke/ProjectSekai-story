@@ -21,15 +21,11 @@ RAD WEEKENDを超えるため、謙と作戦会議を行うVivid BAD SQUAD。そ
 洸太郎の友人: それじゃ、オレはイベントの準備があるから、またな！
 洸太郎: おう。頑張れよ
 洸太郎: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 洸太郎: （……あれから、しばらくたったが……）
 洸太郎: （あいつら、どうしてんだろうな……。 謙さんの店も、休業しちまったみたいだし……）
@@ -77,19 +73,15 @@ Crawl Greenオーナー: どうも、よその街に行ってるようでな。 
 洸太郎: （でもそれじゃあ、RAD WEEKENDのことは……）
 Crawl Greenオーナー: ……三田くんは、あいつらと連絡を取ってないのか？
 洸太郎: あ、オレは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 彰人: ——待て。 お前に、話しておきたいことがある
-(White cut)
+(White transition)
 洸太郎: ……すまねぇ……
 洸太郎: …………っ
 杏: あ、洸太郎——！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 洸太郎: ……はい。 あれからは、全然……
 Crawl Greenオーナー: ……そうか……
 Crawl Greenオーナー: しかし…………この辺りもずいぶん寂しくなっちまったな。 客が帰ったあとのハコみてえだ
@@ -101,15 +93,11 @@ Crawl Greenオーナー: 君達がいた、あの頃の熱い景色が……懐�
 洸太郎: （……どこに行っちまったんだ）
 洸太郎: （まさかRAD WEEKENDを諦めて、よそで……。 いや、そんなわけねえ）
 洸太郎: （だって、あいつらは前会った時、 折れてる場合じゃねえって言ってたんだ。 諦めるわけ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 洸太郎: （でも……）
 洸太郎: （やっぱり諦めちまっても、おかしくはねえし……）
@@ -121,4 +109,4 @@ Crawl Greenオーナー: 君達がいた、あの頃の熱い景色が……懐�
 街の若いミュージシャン達: 誰か歌うみたいだぞ
 Crawl Greenオーナー: ……ん？　あれは……
 洸太郎: …………彰人？
-(Black cut)
+(Black transition)

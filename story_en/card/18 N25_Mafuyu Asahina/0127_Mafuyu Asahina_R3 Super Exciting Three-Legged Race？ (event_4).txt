@@ -23,7 +23,7 @@ Mafuyu's Friend B: My friend from the committee said that she came up with a lot
 Mafuyu's Friend A: Really? That's impressive for a first year!
 Mafuyu: Yeah, it is.
 Mafuyu: Oh... I have my student council meeting soon. I'll see you later.
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: (We're meeting in this classroom I think...)
 Emu's Voice (Emu): Doop dee doo♪
@@ -35,16 +35,12 @@ Emu: Yup♪ I won a prize with a snack I bought... Hrk!!
 Emu: A-A-A-Asahina...! H-Hello!
 Emu: What pleasant weather we're having today! Um... Er...
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 1st Year Archery Club Member A: Good morning, Asahina! Could I ask you for some pointers during practice after school?
 1st Year Archery Club Member B: H-Hey, I was going to ask her first! If you have time, could you help me with something too?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mafuyu: (The girls from my club treat me like some sort of idol, but Otori's different...)
 Mafuyu: Um, Otori...
 Emu: Eek! Y-Yes...?!
@@ -58,16 +54,12 @@ Emu: Eep! N-Nothing!
 Mafuyu: Huh...
 Mafuyu: By the way, I heard that you came up with a lot of suggestions for improving this year's Sports Festival.
 Mafuyu: I'd like to thank you for that. I enjoyed it a lot.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: I'm ready to win! Let's do this, Asahina!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (Huh? Why did that pop into my mind all of a sudden?)
 Emu: ...
@@ -84,7 +76,7 @@ Mafuyu: Okay, see you.
 Mafuyu: (She doesn't really know me, and yet...)
 Mafuyu: ...
 Mafuyu: What a strange girl...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -116,20 +108,16 @@ Mafuyu: <The three-legged race and the relay...>
 (Background change)
 Ena: <Oh okay. So pretty standard stuff then?>
 Mafuyu: <I guess so. But...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: Otori, is this a good pace?
 Emu: Yup! But I can still go a little faster!
-(White cut)
+(White transition)
 Mafuyu: Let's keep up this pace all the way!
 Emu: Yes, ma'am!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: <But...?>
 Mafuyu: <I was paired with a first-year student in the three-legged race...>
@@ -156,17 +144,13 @@ Kanade: <But it sounds like you really want to talk about this girl you keep men
 Mafuyu: <...>
 Mafuyu: <You're making too much of it...>
 Kanade: <Am I?>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Emu: Yay! We did it!
 Mafuyu: Good work, Otori. I couldn't have won this without you, so thank you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: <Yuki...?>
 Mafuyu: <Don't look too much into it...>
@@ -175,4 +159,4 @@ Kanade: <There could be something about this girl that you consider special, but
 (Background change)
 Mafuyu: <...>
 Mafuyu: <I don't know, maybe...>
-(Black cut)
+(Black transition)

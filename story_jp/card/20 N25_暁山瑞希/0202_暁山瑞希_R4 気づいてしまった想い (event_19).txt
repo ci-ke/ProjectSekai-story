@@ -16,7 +16,7 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 瑞希: 気になるけど、ミステリーツアーだからなぁ。 みんなに見せて反応確かめるわけにいかないし
 瑞希: ん～……
 瑞希: あ、いいこと思いついちゃった♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山高校　１年Ａ組]
@@ -39,21 +39,21 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 杏: 絶っっっ対、見ない！
 瑞希: アハハハハ！
 瑞希: （奏達が幽霊とかどう思うかはわかんないけど、 いい感じに見たことない反応してくれたらいいな）
-(Black cut)
+(Black transition)
 (Background change)
 男子生徒A: あ……。ほら、あいつだよ
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 男子生徒B: へえ、マジでわかんねえな
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: （はぁ、またか……。 ま、別にいいけどさ……）
-(Black cut)
+(Black transition)
 (Background change)
 男子生徒A: あ、ヤベッ！
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: （……ん？）
 杏: ——ていうかさ、こんな怖そうなところに行って、 呪われたりしたら、どうするわけ？
@@ -68,7 +68,7 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 杏: え、今から？ けど、午後の授業もうすぐ始まるよ？
 瑞希: 大丈夫大丈夫！ きっと杏に喜んでもらえるヤツ見つけてくるから、 戻らなくても心配しないでね～
 杏: ん？　まさか……授業サボる気！？ コラ、瑞希ー！
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: （さーて、家に帰ったら 旅行プランをもっとブラッシュアップしないとね♪）
 瑞希: あ、あれは……！
@@ -97,7 +97,7 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 彰人: じゃ、オレは教室戻るからな
 杏: うん！　瑞希、私達も戻ろ
 瑞希: はいは～い
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -119,27 +119,23 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 (Background change)
 瑞希: はあ……
 瑞希: ボク、何やってるんだろう……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 瑞希: （話せないって思ってるんだ）
 瑞希: （ずっとずっと、無駄だったから）
 瑞希: （来年も一緒にいたいのに、ボクは、 『どうせまた無駄になる』って、どこかで思ってるんだ）
-(White cut)
+(White transition)
 瑞希: （『お互いのこと、なんにも知らないからもっと知ろう』 なんて考えておいて——）
 瑞希: ボクが一番、何も伝えられてないじゃないか……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （来年もみんなと一緒にいたいっていう気持ちは、 ちゃんとあるのにな……）
 瑞希: （でも……）
 瑞希: アハハ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -158,7 +154,7 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 瑞希: あ、そういえば次なんの授業だっけ？
 杏: 現国。教科書、ちゃんとある？
 瑞希: あるある♪　珍しく今日はやる気もあるし、 マジメに授業受けようかな
-(Black cut)
+(Black transition)
 
 [昼休み]
 
@@ -168,18 +164,14 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 瑞希: ……んー。まだお腹減ってないからいいや
 杏: そう？　じゃあ、行ってくるね
 瑞希: はぁ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （…………。屋上にでも、行こうかな……。 そしたらきっと……）
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: …………。 あ……
 瑞希: 類……
@@ -188,7 +180,7 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 瑞希: はぁ～あ。やっぱ教室で寝てよ～っと
 類: ……ん
 類: 瑞希……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -215,4 +207,4 @@ Gacha phrase: 来年も一緒に、なんて思うの初めてだな
 瑞希: ……はいはーい。 まったね～♪
 類: ああ、また……
 類: …………
-(Black cut)
+(Black transition)

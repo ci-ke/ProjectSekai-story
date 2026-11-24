@@ -12,10 +12,10 @@
 彰人: おかげで助かったが…… まさか、こんな形で再会するとはな
 スレイド: あはは、そうだね！ でも、また会えて嬉しいよ
 スレイド: もしかして……今日ここにいるってことは、 SONIC NOTESを見に来たのか？
-(Black cut)
+(Black transition)
 (Background change)
 : 謙と大河が出場するイベント『SONIC NOTES』。 偶然再会したスレイド達と共に、会場へ向かった４人は——
-(Black cut)
+(Black transition)
 (Background change)
 謙・大河: 『♪——————————————————！！』
 こはね: ……っ！
@@ -31,18 +31,18 @@
 大河: 『まだまだだな。俺達は、 今日ここを世界一熱い場所にしにきた』
 大河: 『お前ら、最後までついてこい！！ ぶっ倒れんじゃねえぞ！』
 謙・大河: 『♪————————————————————————！！』
-(Black cut)
+(Black transition)
 こはね: （まだ……響いてる。歌も、歓声も……）
 こはね: （熱くて……ここにいる、全員が——）
 こはね: （…………どんな、感じなんだろう）
 こはね: （ステージから見たら……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
 こはね: （————見たい、な）
 こはね: （あの景色を、ステージで）
 こはね: （それで……）
 こはね: （あの熱さを、私達の歌で————！）
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ——今日、大河さん達のステージを見て思ったんです
 こはね: 私も、こんな風に歌いたい…… 観客の心を掴んで、熱くさせたいって
@@ -88,11 +88,11 @@
 大河: 同じ土俵で戦いたきゃ——追いついてこい
 大河: RUSH BEATSで勝ち上がって、 俺達の前に立ってみろ
 大河: ——できるもんならな
-(Black cut)
+(Black transition)
 (Background change)
 : 世界への切符を手に入れるため、RUSH BEATSへの 出場を目指すことにしたVivid BAD SQUAD
 : さらに、エレナとレベッカも RADderと知り合いであったことがわかって——
-(Black cut)
+(Black transition)
 (Background change)
 レベッカ: ……セディ達から、Vivid BAD SQUADの メンバーも一緒だって聞いてはいたけど——
 レベッカ: 本当にいいの？ 私達までまぜてもらっちゃって
@@ -125,4 +125,4 @@
 エレナ: やった！　ケンさん達が話してた アンと戦えるなんて、夢みたい！
 杏: あはは。なんかちょっと照れくさいな
 杏: けど、そういうことなら余計負けられないね！
-(Black cut)
+(Black transition)

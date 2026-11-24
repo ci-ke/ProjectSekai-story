@@ -25,7 +25,7 @@ Kanade: Sorry... I can't think of anything...
 Kanade: Everything you make is always delicious, Ms. Mochizuki, so it doesn't have to be anything special.
 Honami: Are you sure? In that case, I'll try coming up with a birthday menu for you.
 Kanade: Yes, thank you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -60,7 +60,7 @@ Mafuyu: <I'm almost done revising the lyrics, so I'll send them over soon.>
 Kanade: <Okay, thank you.>
 (Background change)
 Kanade: (I should also get back to work.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Four days later]
@@ -90,7 +90,7 @@ Mizuki: <Yup! Party poppers are a must, right? Also, a cake...>
 (Background change)
 Kanade: They wanted to throw me a party that much...?
 Kanade: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's birthday]
@@ -121,7 +121,7 @@ Ena: I really doubt that...
 Mizuki: Haha... Anyway, let's light it...!
 Mizuki: Alright, you guys. Ready?
 Mizuki: One, two...!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -139,21 +139,17 @@ Luka: Happy birthday, Kanade.
 MEIKO: Happy birthday...
 Kanade: Thank you, everyone.
 Kanade: (Wh-What is this feeling...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Wait, was that...?)
 Mafuyu: Aren't you going to blow out the candle, Kanade...?
 Kanade: Oh, right...
 Kanade: *Blow*
-(Black cut)
+(Black transition)
 Ena: Okay, let's start cutting it. Take whichever piece you like.
 Rin: Oh, the second one from the right's a little bigger than the rest.
 Ena: Huh? No way. They look even to me!
@@ -173,15 +169,11 @@ Luka: Your other cheek, Rin.
 Rin: I was just about to wipe it off...
 Kanade: Hehe...
 Kanade: (Oh, that reminds me of when...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: Kanade? Hey, you there?
 Kanade: I was reminded of when my mom wiped cream off of my cheek for me when I was little.
@@ -190,17 +182,13 @@ Kanade: More...?
 Luka: I'd like to know as well. How did you celebrate that time?
 Kanade: How...?
 Kanade: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Kanade (Kanade): Mommy! Can you make me another “special plate” for my birthday?
 Little Kanade (Kanade): I want Salisbury steak, spaghetti, gratin, fried shrimp and pudding!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: My mom used to make me this “special plate” each year for my birthday...
 Mizuki: Special plate?
@@ -214,7 +202,7 @@ Kanade: Me too.
 Kanade: (But where was that all this time...?)
 Kanade: Oh...
 Kanade: (It might be because they're here to celebrate with me.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -240,8 +228,8 @@ Honami: I'm not sure I'll be able to match your mother, but I promise to try my 
 Kanade: Thank you.
 Honami: So, what did she use to make?
 Kanade: Well, she...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000049/bg_s000049.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000049/bg_s000049.webp)
 Ichika: Happy birthday, Yoisaki. I was hoping to hand your birthday present to you in person, but it was good to hear that you liked it.
 Ichika: If possible, I'd like it if we could meet again to eat somewhere and talk more about music. I also really want to chat with you more about Miku songs and the music you make.
 Honami: Happy birthday, Ms. Yoisaki. Thank you for requesting the “special plate” that your mother used to make for you.
@@ -253,7 +241,7 @@ Ena: We can make this a little tradition if you like. Oh, we could even try a ch
 Mafuyu: Happy birthday, Kanade...
 Mafuyu: I'm not sure what to call this feeling, but whenever I'm with you... It's like my heart becomes restless...
 Mafuyu: And I'll be waiting... For when you'll fulfill your promise to me, someday.
-(White cut)
+(White transition)
 (Background change)
 Kanade: Thank you for celebrating my birthday with me.
 Kanade: I was able to remember some of the things my family used to do to celebrate because of this.
@@ -261,4 +249,4 @@ Kanade: I probably wouldn't have been able to recall any of that on my own, so I
 Kanade: I don't ever want to forget these memories again...
 Kanade: Not ever... I want to cherish these precious memories.
 Kanade: So again, thank you for today. I'll see you later.
-(White cut)
+(White transition)

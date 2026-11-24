@@ -39,7 +39,7 @@ Kohane: Well then, I'm going to go call my mom to let her know!
 An: Okay! See you soon!
 An: Wow, this is great! Dinner with Kohane! Thanks for offering, Mom!
 An's Mother: Hehe. You're welcome.
-(Black cut)
+(Black transition)
 
 [Several minutes later]
 
@@ -64,7 +64,7 @@ Kohane: Okay! Thank you again for having me!
 An: (Kohane looked exhausted a second ago, but she seems all better now.)
 An: (This might be the break she was looking for. I'll need to thank Mom later for doing this.)
 An: Come on in, Kohane!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -101,15 +101,11 @@ Classmate B: I saw him by the school gate the other day. He's so good-looking!
 An: Whoa, stop right there! Now I feel really embarrassed.
 Classmate B: Haha. Sorry, my bad! But he really does seem like a cool dad.
 An: (As embarrassing as this is, it's not the worst...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Come to think of it, I did used to think Dad was the coolest person in the world whenever I saw him performing on stage.)
 An: ...
@@ -120,7 +116,7 @@ An: They're pretty old. We're talking about stuff from like twenty years ago. If
 Classmate A: Wait, really?!
 Classmate B: I wanna see them!
 An: Okay. Then, I'll bring some over sometime.
-(Black cut)
+(Black transition)
 
 [A week later]
 
@@ -138,4 +134,4 @@ An: The same level as RADder. No, more!
 An: We have to get to the point where we've left them in the dust!
 Akito: You don't have to tell me that. After all, our goal's to surpass their most intense moment.
 An: Right...! So, let's do our best again during practice today!
-(Black cut)
+(Black transition)

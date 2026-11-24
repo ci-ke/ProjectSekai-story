@@ -2,7 +2,7 @@
 
 (Character: 白石杏)
 
-(White cut)
+(White transition)
 (Background change)
 
 [約20年前]
@@ -36,7 +36,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 謙: 凪、お前なあ……
 凪: ふふ、頼りにしてるよ、謙！
 凪: ってわけで——ここから世界一目指して、頑張ろーう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数年後]
@@ -65,7 +65,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 謙: 仕方ないだろ、一目ぼれしちまったんだから
 謙: ……くっちゃべってる暇ねえぞ。 今日中に大阪まで着かなきゃ車中泊だからな？
 凪: げっ……！ 大河、発進発進！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数年後]
@@ -98,7 +98,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 凪: だって、こんな可愛い子に愛想つかされちゃったら嫌でしょ？ 娘に男前は通用しないからね～
 謙: お前らなぁ……
 謙: ったく、わかったよ。 ……ありがとな
-(Black cut)
+(Black transition)
 
 [十数年後]
 
@@ -118,7 +118,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 謙: CDリリースもいくつか控えてるし、 来年のツアー計画も今のうちから詰めておきたいしな
 大河: おう、凪か。 お前から電話なんて珍しいな、どうした？
 大河: ——なに？
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -157,7 +157,7 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 凪: っていうか……私、半年後にはいないわけだしさ。 だからなんか言う権利もないし
 凪: 私は私で……最期に何したいか、考えてみようと思うから
 凪: ——ちょっとそれぞれ考える時間、 作ったほうがいいかなって思うんだ
-(Black cut)
+(Black transition)
 (Background change)
 大河: （……凪が……死ぬ……）
 大河: （凪が……いなくなる……）
@@ -176,18 +176,14 @@ Crawl Greenオーナー: だな。 しかし……そういう生きかたもお
 大河: …………っ！
 大河: ……ふざけんな……ふざけんじゃねえ……！！
 大河: どうして——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ってわけで——ここから世界一目指して、頑張ろーう！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: どうして……凪なんだよ…………！！ 他に……他にいるだろうが！！！！
 大河: どうして……どうして…………！
 大河: どうして、凪が…………ッ！！
-(Black cut)
+(Black transition)

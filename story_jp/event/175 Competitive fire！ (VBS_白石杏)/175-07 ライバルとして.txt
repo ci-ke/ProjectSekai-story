@@ -65,30 +65,22 @@
 レベッカ: 今日みたいに、偶然会っちゃうこともあるし。 周りが勝手に変な噂したりもするしね
 エレナ: そうなんだよね～～。 七光りとか、出来レースとかさあ
 杏: （そっか——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （あの時のふたりの歌が、怒ってるみたいで、 苦しそうに聴こえたのは……）
 杏: （そういう過去があったからなんだ）
 杏: （周りの大人達に、勝手にいろいろ決められちゃうのは…… 辛かっただろうな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ……どうして！？　どうしてっ！！？
 杏: どうしてそんなに大事なこと、私だけ知らされてないの！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （……私の時とは、全然違うけど——）
 杏: ——ふたりとも、話してくれてありがと
@@ -103,4 +95,4 @@
 杏: だから——これからも、ライバルとしてよろしくね！
 レベッカ: こっちこそ、よろしくね
 エレナ: 絶対負けないから、覚悟しててよ！
-(Black cut)
+(Black transition)

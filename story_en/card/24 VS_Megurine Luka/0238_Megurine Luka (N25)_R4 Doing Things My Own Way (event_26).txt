@@ -14,12 +14,12 @@ Luka: So this is her SEKAI...
 Luka: It's so empty but...
 Luka: There are others here now.
 Luka: I wonder where Miku is.
-(Black cut)
+(Black transition)
 Luka: (There's nothing as far as I can tell, but there are people here.)
 Luka: (I suppose this place is a reflection of her feelings...)
 ???: ——♪　——♪
 Luka: Someone's singing... Is that...?
-(Black cut)
+(Black transition)
 Miku (N25): ——♪　——♪
 Rin: ——♪　——♪
 Miku & Rin: ——♪　——♪
@@ -66,7 +66,7 @@ Luka: Talk to her. To the one whose feelings created this SEKAI.
 Luka: Oh, I almost forgot. There are others that can come here as they please, no?
 Luka: I'll talk to them too while I'm at it.
 Luka: I'm looking forward to seeing what they're all like.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -78,15 +78,11 @@ Luka: I'm looking forward to seeing what they're all like.
 Luka: Oh...?
 Luka: Hehe. I wonder what they're doing sitting together like that.
 Luka: But they don't seem to be talking or anything...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Luka: I haven't really had a chance to talk to them yet either, have I?
 Luka: Hello, Mafuyu, Miku.
@@ -146,4 +142,4 @@ Luka: Good. Thank you, Mafuyu.
 Luka: And thank you for giving me this opportunity as well, Miku.
 Miku (N25): Of course...
 Luka: Okay, then I'll see you later...
-(Black cut)
+(Black transition)

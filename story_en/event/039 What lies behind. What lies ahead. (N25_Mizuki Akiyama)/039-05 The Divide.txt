@@ -36,7 +36,7 @@ Ena: <Sure, sounds good. Just don't stay up too late watching anime, alright?>
 Mizuki: <Haha. I'll be careful♪>
 Ena: <Okay, I'm gonna get back to work now.>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Sunday]
@@ -54,7 +54,7 @@ Mizuki: Haha! Sorry, my bad! Everyone knows that you're really a nice person♪
 Ena: Why does that feel like an insult?
 Mizuki: Oh, we gotta go! Before the light turns red!
 Ena: Hey, wait for me!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -65,7 +65,7 @@ Ena: What are you going on about? If you don't decide soon, we're gonna miss our
 Mizuki: But this white one goes perfectly with that skirt I bought the other day! At the same time, this pink one's super cute...
 Ena: Okay, I get it. I'm going to use the restroom, so try to make a decision before I get back.
 Mizuki: Yup! Hmm... Eeny, meeny...
-(Black cut)
+(Black transition)
 Ena: This always happens. Mizuki always goes on a shopping spree or takes forever to pick something out...
 Ena: (But I guess this means I was worried over nothing. Thank goodness.)
 Ena: (I'm not being kept at arm's length like before either, so I think we're moving in the right direction.)
@@ -91,7 +91,7 @@ Mizuki: Sorry, I guess I'm not as well as I thought I was! I'm fine otherwise, h
 Mizuki: So I'm gonna head home!
 Ena: Mizuki, wait...!
 Ena: Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mizuki's Room]
@@ -102,43 +102,35 @@ Mizuki: Ena is sharper than she lets on...
 Mizuki: Huh...?
 Mizuki: (My head... I feel dizzy... What's happening...?)
 Mizuki: Uh oh...
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000016/bg_s000016.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000016/bg_s000016.webp)
 Mizuki: ...
 Mizuki: This can't be right...
 Mizuki: I was handling everything just fine until now...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
 
 Ena: *Sigh*
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: I have nothing to talk about...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Ugh! Seriously, what's going on?! I'm worried sick and this is what I get told?!
 Ena: Why won't Mizuki tell me anything...?!
 Ena: A reason, a simple explanation, anything...!
 Ena: Otherwise, I'm just gonna drive myself mad running around in circles in my head...
 Ena: However...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Maybe... Just maybe... MEIKO might know something...
 Ena: Okay, I'll try asking her.
-(Black cut)
+(Black transition)

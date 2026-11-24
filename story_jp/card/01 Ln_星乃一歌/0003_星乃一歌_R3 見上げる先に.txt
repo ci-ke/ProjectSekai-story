@@ -27,7 +27,7 @@ Gacha phrase: ……すごいな、ミクは
 一歌: あ……うん
 一歌: ……これ、言われると照れるね
 咲希: あはは
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -68,7 +68,7 @@ Gacha phrase: ……すごいな、ミクは
 一歌: 私、バンド頑張るから
 咲希: ふふ。アタシも、負けないぞー！
 一歌: うん
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,7 +83,7 @@ Gacha phrase: ……すごいな、ミクは
 志歩: ここまで来て、行かない、はないでしょ
 穂波: ふふ。それもそうだね
 咲希: それじゃあ、レッツゴー♪
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ふぅ……みんな、お待たせ
 咲希: いっちゃん、お疲れさま！
@@ -129,4 +129,4 @@ Gacha phrase: ……すごいな、ミクは
 咲希: いっちゃん、ミクちゃん、そろそろ練習の準備始めるよ～
 ミク (Ln): ふふ。だってさ。 じゃあ、今日もよろしくね、一歌
 一歌: うん。よろしくね、ミク！
-(Black cut)
+(Black transition)

@@ -30,7 +30,7 @@
 瑞希: 奏は何か買いたいものとかある？
 奏: あ……
 奏: ……その前に、ふたりに相談したいことがあるんだ。 いいかな？
-(Black cut)
+(Black transition)
 穂波: ふう……この辺りなら大丈夫かな……
 穂波: ——リンちゃん、今なら出てきて大丈夫だよ
 リン: 『は～い！』
@@ -42,48 +42,44 @@
 穂波: もう……。  それより、会場の中案内するね
 リン: 『よろしくー！ ほなっちのおすすめの場所につれてってほしいな♪』
 穂波: ふふ、わかった。じゃあいこっか！
-(Black cut)
+(Black transition)
 穂波: まずは……このウェディングドレスの展示場かな
 リン: 『わ～！　すっごくきれい！』
 リン: 『いいなぁ。あたしも着てみたいな～！ ねえねえ、このドレスってなんて言うの！？』
 穂波: あ、それはね——
-(Black cut)
+(Black transition)
 リン: 『あ！　ほなっち、モデルさんがいるよ！ みんなキラキラしてる～！』
 穂波: ふふ、そうだね。ファッションショーをやってるみたい。 ちょっとだけ覗いていく？
 リン: 『うん！　見たい見たい！』
-(Black cut)
+(Black transition)
 (Background change)
 リン: 『すご～い！　本物の結婚式場だ！』
 リン: 『ここって、結婚式体験もできちゃうんだよね！？ あたしもやってみたいなぁ……』
 穂波: ベールくらいなら、わたしも作れるかもしれないし…… 今度、セカイのみんなと一緒にやってみようか
 リン: 『ホント！？　やったやった～☆』
-(Black cut)
+(Black transition)
 リン: 『はあ……。すっごく楽しかった～。 ほなっち、案内してくれてありがと！』
 リン: 『そういえば……ほなっちが言ってた気分転換してほしいって人、 今日はどうだった？』
 穂波: あ……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 穂波: ——うん、ちゃんと楽しんでもらえたよ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000198/bg_s000198.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000198/bg_s000198.webp)
 穂波: リンちゃんが『誘ったほうがいい』って言ってくれたおかげだね。 本当にありがとう、リンちゃん
 リン: 『ホント！？　よかった～！』
 リン: 『でも、ほなっちががんばったからだよ！ 笑顔になってもらってよかったね！』
 穂波: うん！
-(White cut)
+(White transition)
 (Background change)
 穂波: そうだ。さっきリンちゃんが選んだお土産も あとでセカイに持っていくから、楽しみにしててね
 リン: 『やった～☆ えへへ、楽しみだなぁ！』
 リン: 『じゃあ、あたしはそろそろ戻ろっかな～。 ほなっち、今日はホントにありがとっ☆』
 穂波: わたしも、リンちゃんに楽しんでもらえてよかったよ。 またセカイでね！
 リン: 『うんっ！　またね、ばいばい！』
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ブライダルフェスタ会場)
 穂波: えっと……みんなは……
@@ -114,16 +110,12 @@
 穂波: わたし、買ってきますよ。 何がいいですか？
 奏: ありがとう。 じゃあ、えっと……お茶がいいかな
 穂波: はい。それじゃ、行ってきますね
-(Black cut)
+(Black transition)
 穂波: お茶と、あとお水……。 これでよし
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 穂波: …………
 ？？？: 『ほなっち～』
 穂波: え……リンちゃん？
@@ -157,4 +149,4 @@
 穂波: ……そっか。そうかもしれないね
 穂波: ありがとう、リンちゃん。 少し、元気がでた気がするよ
 リン: 『えへへ、よかった～！ あたしもほなっちの笑顔を見れて嬉しい☆』
-(Black cut)
+(Black transition)

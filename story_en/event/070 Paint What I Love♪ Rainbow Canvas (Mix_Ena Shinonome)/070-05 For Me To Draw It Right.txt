@@ -23,7 +23,7 @@ Emu: Um, so... I'm not very good at giving others advice...! Is there something 
 Ena: Hmm... Well... How about we try practicing that?
 Ena: I'll draw something for you right now, so why don't you give me some advice regarding it?
 Emu: Okay!
-(Black cut)
+(Black transition)
 Honami: Ena, I've finished tracing it!
 Ena: Great! Yeah, that's some nice tracing!
 Honami: Thank you! I never imagined myself drawing these lines so well...! I sort of can't believe it...!
@@ -31,16 +31,16 @@ Ena: Hehe. I'm really glad.
 Ena: If you can do this, then I think we can get you to pick a photo and draw exactly what's in it. Let's try it out!
 Honami: Okay!
 Ena: (I was worried for a second there, but things seem to be working out pretty well.)
-(Black cut)
+(Black transition)
 Ena: (A lot of time's already passed. I wonder how Honami's doing...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000115/bg_s000115.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000115/bg_s000115.webp)
 Ena: (Whoa...!)
 Ena: (Sh-She's drawing another black blob! Wh-Why...?!)
 Honami: E-Ena...
 Honami: Wh-Why does this always happen...? I was able to trace so well but this is...
 Ena: (That's what I want to know!!!)
-(White cut)
+(White transition)
 (Background change)
 Ena: G-Gimme a sec to think...
 Honami: Okay...
@@ -51,15 +51,11 @@ Honami: Am I just not cut out for this...?
 Ena: Huh?
 Honami: If this is the best I can do, maybe I should give up and be Emu's assistant instead...
 Ena: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (At this rate, Honami's never going to be able to draw the way she wants...)
 Ena: (To be fair, there have been times when I wanted to run because things got so hard...)
@@ -73,7 +69,7 @@ Honami: Oh, that's really cute...!
 Ena: From what I've seen, Honami, you have no trouble drawing geometric shapes...
 Ena: So, wouldn't it be easier to break things down into their individual parts? A circle for its face, triangles for its ears, and so on and so forth...
 Honami: Y-You're right...! I'll give that a try!
-(Black cut)
+(Black transition)
 Honami: A circle for its face... Triangles for its ears...! And I'll draw a couple of lines on each side of the circle...!
 Honami: I... I did it!
 Ena: That's great!
@@ -88,7 +84,7 @@ Honami: Um... How's this?
 Ena: Yeah, perfect! Nice job!
 Honami: *Gasp* Th-Thank you very much! I don't know what else to say!
 Ena: Hehe. Alright, let's keep this up and keep drawing more animals. Our next one will be...
-(Black cut)
+(Black transition)
 Honami: I... I did it! Which animal does this look like to you...?
 Emu: Hmm... A triangular face with triangular ears... It's a fox!
 Honami: C-Correct! You got them all...!
@@ -105,7 +101,7 @@ Honami: What?!
 Ena: Yeah, it has this really abstract feel, so it might actually look really nice in a frame.
 Emu: Yeah! We can hang it up next to Remidle's painting! Can you draw something for me?!
 Honami: W-Wait, hanging my drawing up next to that Remidle painting doesn't seem like a good idea...!
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Ena, Honami! Thank you both for coming today!
 Ena: Thank you for inviting us. Your shadowing's next weekend, right? I wish you both the best of luck.
@@ -114,7 +110,7 @@ Emu: We'll tell you all about what we drew afterwards!
 Ena: Hehe. Thanks. I'll be looking forward to hearing about that.
 Honami: Anyway, Emu, see you again at school.
 Emu: Yup! Get home safe! Bye bye!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -127,7 +123,7 @@ Ena: Hehe. In that case, I'm really glad. So, good luck with your shadowing.
 Honami: Thank you!
 Honami: Oh, I'm this way. We'll have to part ways here. Again, Ena, thank you for today!
 Ena: Sure thing. Bye bye.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -143,22 +139,18 @@ Ena: (But I'm starting to see an elephant and its individual parts! Now I get it
 Ena: (This must be its ears... Here's its nose... It probably wasn't intentional, but the way she drew everything is really interesting.)
 Ena: (Oh, and here's its face... Is it smiling...? I couldn't tell initially because of how this drawing looks overall...)
 Ena: (Honami actually drew something nice, but her drawing quirks made that a bit hard to see...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: (I need to teach Honami in a way that lets her do just that while building up her confidence. What's a nice, simple style that anyone can learn...?)
-(White cut)
+(White transition)
 Ena: From what I've seen, Honami, you have no trouble drawing geometric shapes...
 Ena: So, wouldn't it be easier to break things down into their individual parts? A circle for its face, triangles for its ears, and so on and so forth...
-(White cut)
+(White transition)
 Emu: But I especially like the way you made your first drawing...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: ...
 Ena: Did the way I teach actually help...?
-(Black cut)
+(Black transition)

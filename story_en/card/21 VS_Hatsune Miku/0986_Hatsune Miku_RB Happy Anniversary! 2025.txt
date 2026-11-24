@@ -14,10 +14,8 @@ Tsukasa: Without further ado! Let us commence the Miku's Anniversary Special Exc
 Emu, Miku, Rin & Len: Yeah!
 KAITO (WxS): Isn't this great, Miku? You've been wanting to go on an excursion for so long.
 Miku (WxS): Yeah☆
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: What? You want to go on an excursion for your anniversary, Miku?
 Tsukasa: Not do a show?
@@ -28,10 +26,8 @@ Tsukasa: You're right! What happened to the activities?!
 Rui: It's alright.
 Rui: If you'd like to leave it up to us, then we'll think of activities that you'd enjoy, Miku.
 Miku (WxS): Really?! Then, let's do that♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (WxS): I've been so excited for the excursion all of you planned☆
 Rui: Hehe. I guarantee that it'll be interesting and fun.
@@ -49,7 +45,7 @@ Emu: Hehehe. That's because our first activity is singing while we walk together
 Miku, Rin & Len: Singing?!
 Rui: Alright, now that we're done checking, shall we?
 Tsukasa: Yes! Let's set forth!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): ♪——! ♪————!
 Miku (WxS): Nene, let's sing together!
@@ -57,7 +53,7 @@ Nene: Hehe. Sure.
 Miku & Nene: ♪————! ♪——~~~! ♪————! ♪——~~~!
 Rin (WxS): Oh! You look like you're having so much fun♪ Can we join too?
 Emu, Rin & Len: ♪——! ♪——! ♪——! ♪——! ♪——! ♪——!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): Tsukasa! Tsukasa! Can I have my snacks now?
 Tsukasa: Yes, of course! We have arrived at our destination, after all.
@@ -68,14 +64,14 @@ Tsukasa: As the name suggests, you need to figure out what's in the box only fro
 Rui: (Well, that is if you assume it is an ordinary dog plushie. However...)
 Rui: (They have no idea it's a dog plushie from SEKAI that agreed to be a part of my plan. Hehehe...)
 Nene: (Yikes. He's totally planning something...)
-(Black cut)
+(Black transition)
 Emu: The last activity will be... “Team Badminton Rallies♪”
 Emu: Split into Team Miku and Team Tsukasa, and hit the shuttle as many times as you can in three minutes!
 Nene: Each team only has two rackets. As soon as you hit the shuttle, make sure to pass the racket to another team member.
 KAITO (WxS): I see. It's not enough just to juggle the shuttle, you need to remember to pass the racket as well.
 Miku (WxS): That sounds like so much fun♪ Let's do our best, Team☆
 Emu, Rui, Len & MEIKO: Yeah!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (WxS): We're back!
 Miku (WxS): Hehehe☆ Look at that, everyone is all smiles and sunshine!
@@ -101,14 +97,14 @@ Miku (WxS): I can't believe you also planned all of this on top of the excursion
 Tsukasa: Of course! We're here to make sure you enjoy this day to the fullest!
 Miku (WxS): ...!
 Miku (WxS): Thanks! I'll be sure to do just that☆
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [VIRTUAL SINGER Stage]
@@ -123,7 +119,7 @@ KAITO: Ready...!
 Everyone: Miku!
 Miku: Sorry for keeping you waiting, everyone! Let's start the anniversary show!
 Miku: This will be our first song! Here we go!
-(Black cut)
+(Black transition)
 Miku: Thank you! I hope you enjoyed the first song♪
 Luka: Nice work, Miku.
 MEIKO: Since everyone's here, let's wish Miku a happy anniversary!
@@ -144,23 +140,23 @@ Miku: Yeah!
 Miku: Alright, here's our next song! Please do the honors, Rin♪
 Rin: You got it!
 Miku & Rin: Start the music!
-(Black cut)
+(Black transition)
 Miku & Rin: ♪——! ♪————!
-(Black cut)
+(Black transition)
 Miku: ♪——! ♪————
 KAITO: ♪——! ♪————
-(Black cut)
+(Black transition)
 Len, Miku & Luka: ♪~~~♪~~~
-(Black cut)
+(Black transition)
 Miku & MEIKO: ♪——! ♪——! ♪——! ♪——!
-(Black cut)
+(Black transition)
 Miku: Thank you for today, everyone!
 Miku: And for asking an encore too... I'm so happy to be able to sing all these songs for you.
 Len: You did amazing, Miku!
 Luka: Last but not least, I hope you'll accept our feelings of gratitude.
 Miku: What...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000348/bg_s000348.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000348/bg_s000348.webp)
 Luka: Thank you for letting me be a part of this really fun show.
 Luka: Let's continue to reach people with our songs this year as well. Love you, Miku.
 MEIKO: Happy anniversary, Miku!
@@ -174,7 +170,7 @@ Rin & Len: Thank you, Miku!
 KAITO: Happy anniversary, Miku.
 KAITO: It's your anniversary show and yet, even as the star of the day, you made sure to make it an enjoyable one for everyone else, and saw it through to the end.
 KAITO: Thank you for letting me be a part of this really great anniversary show! You truly did amazing today!
-(White cut)
+(White transition)
 (Background change)
 Miku: Everyone...
 Miku: Thank you!
@@ -186,4 +182,4 @@ Miku: Thank you for depending on me.
 Miku: So that you'll never feel lonely... So that you can all shine...
 Miku: I hope you'll let me stay by your side.
 Miku: Thank you again for today!
-(White cut)
+(White transition)

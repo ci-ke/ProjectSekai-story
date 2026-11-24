@@ -30,7 +30,7 @@ Akito: We could... Not sure if food would render him speechless, though...
 Rin (VBS): If anything, a gift that I couldn't have come up with on my own would be ideal!
 Akito: Something you couldn't have come up with...
 Akito: Oh. Then, how about this?
-(Black cut)
+(Black transition)
 (Background change)
 Len (VBS): I'm sure Rin's thinking that all we need to do is surprise each other, so I bet she's thinking of a way to do just that.
 Len (VBS): But anniversaries are a time for gifts, so I think it'd be better to put her at a loss for words by making her happy or moved!
@@ -45,17 +45,17 @@ Len (VBS): M-More importantly! Kohane, Toya, did you bring the stuff I asked for
 Kohane: Yeah. I've brought some masking tape, stickers and anything else we could use to decorate the scrapbook!
 Toya: I've also printed out photos of nice moments from our practice videos.
 KAITO (VBS): I never thought we would use practice videos for something like this. I suppose we should be grateful for your diligence.
-(Black cut)
+(Black transition)
 Kohane: What do you think about this photo, Len? It's completely focused on Rin singing at the back.
 Len (VBS): Ooh! That's a cool photo! Let's use it!
 Len (VBS): (I think this was when Kohane and the others came to practice after not visiting for a while. Rin and I got so excited that we went full out singing.)
 Len (VBS): (Our throats were so wrecked after we finished that we chugged down so much juice.)
-(Black cut)
+(Black transition)
 Len (VBS): Wow! Your cutting is so neat, Toya!  Even if I draw an outline, mine still turns out bad... How are you able to cut circles and hearts so well?
 Toya: Are you having trouble with the curves? In that case, try rotating the paper instead and that should help.
 Len (VBS): Rotate the paper? Sounds hard, but I'll give it a shot.
 Len (VBS): (Rin would probably prefer circles and hearts instead of squares...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rin and Len's anniversary]
@@ -106,7 +106,7 @@ Rin (VBS): Hey, Len. Let's go through the scrapbook together! I wanna hear about
 Len (VBS): Sure! I wanna hear about this portrait too!
 MEIKO (VBS): Alright, why don't you two do that over on the terrace? In the meantime, we'll prepare for your anniversary party.
 Rin & Len: Okay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -124,16 +124,16 @@ Rin: Alright, here we go. Let's start my half!
 Rin: Here's the first song!
 Len: Heya! It's me, Kagamine Len!
 Len: Don't forget, I'm one of today's stars too! I'm not gonna lose to Rin!
-(Black cut)
+(Black transition)
 Rin: We still have many more guests joining us on stage today!
 Rin: Hey, you guys!
 Miku: We want to make sure everyone has a good time, so we'll be singing our hearts out too!
 MEIKO: Let's go with this song next!
-(Black cut)
+(Black transition)
 Rin & Luka: ♪——! ♪————!
 Rin & Miku: ♪————!!　♪~~~~!!!
 Rin & MEIKO: ♪——!!　♪——!!　♪——!!
-(Black cut)
+(Black transition)
 Rin: Hey, everyone! How're you liking the show so far?
 Rin: Hehehe, I'm glad you're having a fun time!
 Len: That duet relay just now was super fun!
@@ -163,8 +163,8 @@ Len: I had a feeling you'd say that.
 Len: But there are some people here who'd also like to give you a message.
 Len: Right, you guys?
 Rin: Huh? Is this...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000262/bg_s000262.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000262/bg_s000262.webp)
 Miku: Happy anniversary, Rin! I'm so happy that I was able to help out with this event.
 Miku: Let's do our best to keep the energy up for Len's half after this!
 Luka: Happy anniversary. It was so cute seeing you run around the stage like a little ball of energy.
@@ -176,7 +176,7 @@ KAITO: Your half is coming to an end, so do everything you'd like to do and tell
 Len: Rin! Once again, happy anniversary!
 Len: Since our anniversaries are on the same day, we usually celebrate together, but you know what? It's double the fun that way!
 Len: And if it's the two of us, I bet we can make it ten times or even a hundred times more fun! So let's enjoy ourselves to the fullest!
-(White cut)
+(White transition)
 (Background change)
 Len: Alright everyone, let's wish Rin a happy anniversary one more time!
 Len: Happy anniversary, Rin!
@@ -188,4 +188,4 @@ Rin: The reason why I'm able to smile like I am right now is because of you.
 Rin: Thank you... Thank you from the bottom of my heart!
 Rin: Okay, it's time for the finale of my half! Counting on you, Len!
 Len: You got it! Everyone, let's have the best time ever!
-(White cut)
+(White transition)

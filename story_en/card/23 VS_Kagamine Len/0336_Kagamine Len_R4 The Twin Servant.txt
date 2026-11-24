@@ -18,7 +18,7 @@ Gacha phrase: For you, I shall become pure evil.
 ???: (I would ultimately go from being Prince Alexiel to Allen, the adopted son of Leonhart, one of the Three Heroes...)
 ???: (Back then, we were too little to do anything about it...)
 ???: (And if there's anything that I'd like to go back and redo, it would be that time...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Riliane's Room]
@@ -39,25 +39,19 @@ Allen (Len): (No, if I do, she might remove me from my current role and send me 
 Allen (Len): (I still remember how innocent she used to be. I'll never forget the time she showed me the back way out of the palace…)
 Allen (Len): (Even if she doesn't remember, I'm still Riliane's...)
 Riliane (Rin): This plan is also to be our little secret.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Riliane (Rin): This is our little secret, okay?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Allen (Len): Yes, your Highness...
 Allen (Len): Um, if I may ask... Why the bottle?
 Riliane (Rin): I was taught long ago to place the relay messages and wishes of the highest priority in this manner...
 Allen (Len): ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Allen (Len): You're supposed to write it on a piece of paper like this, put it in a bottle and send it out to sea.
 Little Allen (Len): Then, your wish will come true.
@@ -66,10 +60,8 @@ Little Riliane (Rin): Umm... I want to be reborn as a horse!
 Little Riliane (Rin): The palace is so boring. I'd rather be a horse that can travel and have fun!
 Little Riliane (Rin): What are you gonna wish for, Alexiel?
 Little Allen (Len): Me? Hmm...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Riliane (Rin): Allen...
 Riliane (Rin): Do not let me down.
@@ -81,7 +73,7 @@ Allen (Len): (And she wants me to do this to Father... How did this happen...?)
 Allen (Len): (Ugh... My head's a mess... I can't tell if I'm happy or sad.)
 Allen (Len): (I can't even begin to imagine how I look right now... Am I smiling...? Or am I...?)
 Allen (Len): (Father. I...)
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Lucifenian Palace - Dungeon)
 ???: ...
@@ -94,7 +86,7 @@ Allen (Len): (If things went even the slightest bit differently, she may have be
 Allen (Len): (My first love...)
 Allen (Len): *Sigh*
 Allen (Len): I have a long night ahead of me...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -114,18 +106,14 @@ Allen (Len): (But Riliane is still in love with Prince Kyle...)
 Allen (Len): (And because of that, she felt compelled to take her anger out on the people of Elphegort instead of him.)
 Allen (Len): (Even though they themselves did nothing wrong...)
 Allen (Len): (Now, the women of that land are being made to suffer...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Three Heroes' Mage: This tidbit of information will be on me.
 Three Heroes' Mage: This land, Lucifenia, will soon fall...
 Allen (Len): Even so... I vow to protect it and Riliane!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Allen (Len): (In order to save Riliane from this fate, this war needs to stop.)
 Allen (Len): Your Highness...
@@ -157,13 +145,13 @@ Allen (Len): And it genuinely made me feel happy...
 Allen (Len): The war would end and Riliane would be saved from her fate.
 Allen (Len): Or so I thought.
 Allen (Len): In the end, it was all too late.
-(Black cut)
+(Black transition)
 (Background change)
 Rebels: “Hear our anger!!” “End her reign of evil!!”
 Allen (Len): Just as the Elphegort campaign ended, the rebels rose up...
 Allen (Len): And I...
 Allen (Len): I was captured...
-(Black cut)
+(Black transition)
 
 [Lucifenian Palace - Dungeon]
 
@@ -173,20 +161,18 @@ Allen (Len): (They said that Riliane would have to pay, but I am here in her ste
 Allen (Len): (Riliane...)
 Allen (Len): (Please, run. Just keep running...)
 Soldier: It's time. Get up...
-(Black cut)
+(Black transition)
 (Background change)
 Citizens: My son! How could you...?! Give me back my big brother!!
 Citizens: Daughter of Evil! Do you know just how many have suffered because of you?!
-(Black cut)
+(Black transition)
 (Background change)
 Allen (Len): (All these people hate me... They hate Riliane...)
 Allen (Len): (I'm glad she doesn't have to stand here.)
 Allen (Len): (Riliane...)
 Allen (Len): (Don't worry, I'll protect you. I just want you to live on somewhere and smile.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Allen (Len): (Hm? I hear waves...)
 Allen (Len): (That takes me back... This was where I told Riliane about our wishes...)
@@ -194,8 +180,8 @@ Allen (Len): (After I told her about putting your wish in a bottle, she told me 
 Allen (Len): (Then, she asked me what I was going to wish for...)
 Allen (Len): If Riliane were to be reborn, I want to be reborn as well...
 Allen (Len): So that we can play together.
-(Black cut)
+(Black transition)
 (Background change)
 Allen (Len): Goodbye, Riliane...
 The Daughter of Evil (Len): Ah, teatime.
-(Black cut)
+(Black transition)

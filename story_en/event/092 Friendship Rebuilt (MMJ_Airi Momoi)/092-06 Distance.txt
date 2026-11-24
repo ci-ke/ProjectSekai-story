@@ -2,7 +2,7 @@
 
 (Character: Airi Momoi)
 
-(White cut)
+(White transition)
 (Background change)
 
 [One year earlier]
@@ -14,7 +14,7 @@ Airi: It'd be nice to eat with someone...
 Airi: Shizuku...isn't here. Pretty sure she has that magazine shoot today.
 Airi: Hmm... Who else is there...?
 Airi: Oh, of course...!
-(Black cut)
+(Black transition)
 (Background change)
 Airi: Let's see... Class A should be...
 ???: Huh? Airi?
@@ -25,7 +25,7 @@ Ayumi: Wow, this is great! We haven't been able to hang out at all since we ente
 Ayumi: Oh, is it okay if I invite a few others? Remember the classmates I introduced you to the other day? We always eat together.
 Airi: Yeah, of course! They're welcome to join if they want.
 Ayumi: Okay, I'll go ask them now. Airi, you wait for us down in the courtyard!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -45,17 +45,13 @@ Airi: Oh, while we're on the subject... Ayumi helped me out a bunch when I was s
 Ayumi: Wait, me? What did I do?
 Airi: Hehe. I suppose it didn't seem like much from your perspective...
 Airi: But you never put down my dream of becoming an idol. You always supported me.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Junior High School Ayumi: What? You want to become an idol...?
 Junior High School Ayumi: Wow... Th-That's amazing...! I'm sure you can, Airi! No, I know you can...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: What you said that time made me so happy. Most people tended to laugh or snicker when I told them how I wanted to become an idol.
 Airi: So, it was nice to hear someone giving me their support. You gave me so much encouragement.
@@ -82,7 +78,7 @@ Airi: Hehe. Thanks! I'd like that as well.
 Airi: I know. Why don't you all take this opportunity to start calling me by my first name? That should make things easier, right?
 Student A: Really?! Then...! I hope we get to hang out more, Airi!
 Airi: Yeah, me too!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few weeks later]
@@ -108,7 +104,7 @@ Ayumi's Message: <That's okay! I know you're really busy. We can always hang out
 Airi: <Yeah, let's do that one of these days.>
 Airi: One of these days...
 Airi: (Is that day ever going to come...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -141,17 +137,13 @@ Student A: The churros we got after were also really good. They even had some th
 Ayumi: Hehe. We can get some the next time we go!
 Ayumi: That includes you, Airi!
 Airi: Huh? R-Right...! Next time, we...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Airi: One of these days...
 Airi: (Is that day ever going to come...?)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: ...
 Airi: (If I raise their hopes again, only to dash them in the end...)
@@ -178,14 +170,14 @@ Airi: (It's not a bother... Really...)
 Airi: (But...)
 Student B: Gimme your phone, Ayumi! I'm getting rid of that pic before anyone else has a chance to see it!
 Ayumi: Hey, wait! Gimme back my phone!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000184/bg_s000184.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000184/bg_s000184.webp)
 Airi: (I guess there's nothing I can do about this...)
 Airi: (I placed work before hanging out with my friends. And Ayumi said what she did just now because...)
 Airi: (This is the path I chose...)
 Airi: (Still...)
 Ayumi: Oh, this is the last one we took together! It turned out a lot better than I realized!
-(White cut)
+(White transition)
 (Background change)
 Airi: (I didn't realize it'd feel this lonely not being included...)
-(Black cut)
+(Black transition)

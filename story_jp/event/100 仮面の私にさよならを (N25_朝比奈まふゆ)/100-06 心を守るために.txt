@@ -12,7 +12,7 @@
 瑞希: 一応、今からファミレスのほうにも行ってみるよ。 もしかしたら、帰り道で会うかもしれないし
 絵名: 『うん、お願い！ 私もそっち行くから』
 瑞希: わかった！
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -23,15 +23,11 @@
 まふゆ: 私……何してるんだろう
 まふゆ: （もうすぐ模試なのに。 勉強、しなくちゃいけないのに）
 まふゆ: （……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……お母さんと、どんな話をすればいいんだろう）
 まふゆ: （みんなと一緒に、音楽を作りたい）
@@ -70,30 +66,22 @@ KAITO: 『それがどういった結果になるかは、 誰にもわからな
 ミク (N25): 『わたし達が……まふゆを、支えるから』
 まふゆ: ミク……
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……っ
 まふゆ: （……だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: ……ずっと、そばにいるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……わかった
 まふゆ: 私……、……私…………
 まふゆ: 私の気持ちを——話してみる
-(Black cut)
+(Black transition)

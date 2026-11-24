@@ -23,10 +23,10 @@ street_01_14 本気で言ってんのか
 冬弥: …………っ！
 彰人: ……勝手にしろ！！
 彰人: その代わり、その顔二度と見せんな！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000014/bg_a000014.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000014/bg_a000014.webp)
 冬弥: ……………………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -53,16 +53,14 @@ MEIKO: いらっしゃいふたりとも！　よく来てくれたわね。 …
 杏: あ、知り合いっていうか…… ……ちょっといろいろあって……
 杏: たしかに、あのふたりも『RAD WEEKEND』を超えるって、 夢は持ってるって言ってたけど……
 ミク (VBS): 早くふたりにもここに来てほしいな
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
 
 彰人: ………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 彰人: キミ、最近よくここでやってるね
 冬弥: ……だったらなんだ
 彰人: 別に。なんとなく気になっただけだよ。 なんでここでやってんだろうってさ
@@ -74,7 +72,7 @@ MEIKO: いらっしゃいふたりとも！　よく来てくれたわね。 …
 冬弥: こうして歌っているあいだは、俺でいられる
 彰人: ……音楽のおかげでどうにかやれてる、ってとこか
 彰人: おもしろいな、お前。 なあ、ちょっとオレと歌ってみねえ？
-(White cut)
+(White transition)
 (Background change)
 杏の父: そうか。お前ら組むことにしたのか
 彰人: ああ。それともうひとつ、謙さんに話したいことがあって……。 なんだと思います？
@@ -82,13 +80,11 @@ MEIKO: いらっしゃいふたりとも！　よく来てくれたわね。 …
 彰人: おい冬弥！　今、オレが言おうとしてただろ！
 冬弥: もったいぶることでもないだろう
 彰人: お前、普段はろくにしゃべらねえクセに こういう時だけなぁ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……………………ちっ
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -105,4 +101,4 @@ MEIKO: いらっしゃいふたりとも！　よく来てくれたわね。 …
 こはね: う、うん。やってみたいな
 彰人: ……………………
 こはね: （東雲くん達、大丈夫かな……）
-(Black cut)
+(Black transition)

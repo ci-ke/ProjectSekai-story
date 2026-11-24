@@ -12,7 +12,7 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: それじゃあみんな、また明日
 クラスメイト: またねー、まふゆ！
 まふゆ: うん。気をつけて帰ってね
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -30,7 +30,7 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: そうなんだ……
 まふゆの母: 他のものは、また今度買ってくるわね
 まふゆ: ……うん！ ありがとう、お母さん
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -41,14 +41,14 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: （本棚は、お母さんの買ってきた本で埋まってる）
 まふゆ: （今日は学校の課題と、予備校の予習と、 ニーゴの作業があるけど——）
 まふゆ: （……これを読んでから考えよう）
-(Black cut)
+(Black transition)
 まふゆ: …………
 まふゆ: （……何してるんだろう）
 まふゆ: （読みたいかわからない本を読んで、 やりたいかわからないことをやって）
 まふゆ: （一体、何を——）
 まふゆ: …………ダメ
 まふゆ: このままだとまた……苦しくなる……
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -58,7 +58,7 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: ……ちょっと、ここで休ませてほしい
 ミク (N25): うん。隣、座って
 まふゆ: うん……
-(Black cut)
+(Black transition)
 まふゆ: ……はぁ
 まふゆ: （奏達と“私”を探すようになってから、 少しずつ、何かを感じられるようになってきた）
 まふゆ: （だけど……）
@@ -79,7 +79,7 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: ……もしかして、これも私の想いなの……？
 ミク (N25): あ、まふゆ。 それに触ると——
 まふゆ: あ——
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -101,7 +101,7 @@ Gacha phrase: 私は……私を知りたい
 ミク (N25): あ……こっちにも本棚がある
 まふゆ: ……はぁ
 まふゆ: 少しだけだよ、ミク
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -120,15 +120,15 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: でも、どうして？　こんなもの、見たくないのに……
 ミク (N25): …………まふゆは、本が嫌い？
 まふゆ: え？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000064/bg_a000064.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000064/bg_a000064.webp)
 ミク (N25): 本は、知らないことがたくさん書いてある
 ミク (N25): だから楽しいものじゃない？
 まふゆ: 楽しい……？
 まふゆ: 私はそんな風には感じない
 まふゆ: 私にとって本は、ただ情報を入れるためのものだから
 ミク (N25): ……じゃあ、これも嫌い？
-(White cut)
+(White transition)
 (Background change)
 まふゆ: これは……絵本？
 ミク (N25): うん。きっとまふゆの
@@ -137,16 +137,12 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: どうして、そんなに聞いてくるの？ この絵本に何が……
 まふゆ: …………あ、これって
 まふゆ: （そうだ。これは、昔持ってた絵本だ。 でも、たしかこれは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ——だってもう、いらないでしょう？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （お母さんに、捨てられた……）
 まふゆ: （……だけど、何度も繰り返して読んだことは覚えてる）
@@ -159,7 +155,7 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: （それなら、“私”を探す手がかりになるのかも……）
 まふゆ: ……ちょっとだけ、読んでみようかな
 まふゆ: ……あ……
-(White cut)
+(White transition)
 (Background change)
 まふゆ: え……
 まふゆ: 消えた？ どうして……
@@ -174,14 +170,14 @@ Gacha phrase: 私は……私を知りたい
 ミク (N25): まふゆも、“もっと知りたい”って 思ってるんじゃないかなって、思った
 まふゆ: もっと……
 まふゆ: そう、なのかな……
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: ん……あれ？
 まふゆ: 私、いつの間に部屋に戻って……
 まふゆの母の声: まふゆ、そろそろご飯よ
 まふゆ: あ……。 うん、今行くね！
 まふゆ: あれは……夢、だったのかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -197,17 +193,13 @@ Gacha phrase: 私は……私を知りたい
 まふゆ: ……あれ？
 まふゆ: 本屋に、あの絵本が置いてある……
 まふゆ: 絵本フェアなんてやってるんだ。 だけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ——もう、いらないでしょう？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: ——買ってみよう、かな
-(Black cut)
+(Black transition)

@@ -10,36 +10,28 @@ Gacha phrase: 素晴らしい景色だな——
 [天馬家　リビング]
 
 司: ふぅ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: このショーは、フェニックスワンダーランドが どんな場所なのかというコンセプトを 思いだしてもらう必要があるんだ
 類: それに、すべてのスタッフを巻きこんだ 前代未聞のショーとして話題性も作れる
-(White cut)
+(White transition)
 寧々: あとは、このショーをいつやるかだけど……
 類: それについては、さる筋から情報をもらった。 来月の頭——ちょうどショーコンテストの最終日に、 えむくんのお兄さんが提携先の人間と一緒に、視察に来るらしい
 類: その時にショーをやろうと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ショーコンテストは最悪中止、か……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: あ！　今回のショーは１位だっ！ １位だよ寧々ちゃん！
 寧々: え……えっ！？ それ、本当！？
 司: いよーしっっ！！
 類: まだ総合得点では負けているけれど……優勝は射程圏内だ。 結果は、最終決戦で決まるというわけだね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ショーコンテストの得点は、 フェニックスステージに迫るところまできていた
 司: ハロウィン、そしてクリスマスと、 オレ達のショーは回を増すごとに磨き上げられ、 その輝きを増すばかり……！
@@ -92,7 +84,7 @@ Gacha phrase: 素晴らしい景色だな——
 司: （いや、必ずつかみ取ってみせる！）
 咲希: えへへ、半分こにするならお皿いるよね！ アタシ取って来る！
 司: ああ、頼んだ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -170,4 +162,4 @@ Gacha phrase: 素晴らしい景色だな——
 寧々: たしかに。えむ、冴えてるじゃん
 えむ: わーい！　寧々ちゃんに褒められた～♪
 司: よし！　では次のショーは、その方向性で進めるぞ！
-(Black cut)
+(Black transition)

@@ -70,7 +70,7 @@ Kanade: <Thank you.>
 Kanade: (I need to keep composing.)
 Kanade: (Because a lot of people out there need us.)
 Kanade: (And we need to save as many of them as we can, with our music.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -83,7 +83,7 @@ Kanade: Okay, it's coming along nicely.
 Kanade: Maybe I should suppress the bass a little more. Also...
 Kanade: Oh...
 Kanade: It's already morning... I am getting a bit hungry, so I think I'll have something to eat.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -91,15 +91,11 @@ Kanade: It's already morning... I am getting a bit hungry, so I think I'll have 
 Kanade: Instant noodles...? No, I probably shouldn't have those for breakfast. I don't want to get scolded.
 Kanade: Let's see... The food Ms. Mochizuki made should be...
 Kanade: Oh, eggs...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
-(Black cut)
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
+(Black transition)
 Kanade: A tablespoon of sugar and a dash of soy sauce...
 Kanade: Uh oh. I put in too much.
 Kanade: But a little bit should be fine...
@@ -128,15 +124,11 @@ Kanade: O-Okay.
 Kanade: Do you think I can actually do it?
 Mafuyu: I don't know...
 Mafuyu: But if you want to, I think you should try.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: You're right.
 Kanade: Then, I'll give it a try.
@@ -147,4 +139,4 @@ Kanade: Huh? I-I'm so sorry.
 Mafuyu: It's easy for that to happen if you crack it on the corner of something. You should try using a flat surface.
 Kanade: Really? Thank you.
 Kanade: Then, I'll try again.
-(Black cut)
+(Black transition)

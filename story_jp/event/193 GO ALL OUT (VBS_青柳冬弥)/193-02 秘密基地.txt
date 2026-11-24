@@ -37,7 +37,7 @@
 セドリック: ——いや。今回は、店じゃないんだ
 スレイド: オレ達の、とっておきの場所だよ
 冬弥: とっておきの……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -52,14 +52,14 @@
 彰人: 秘密基地……？
 スレイド: うん！　オレ達の好きなものばっかりを集めたんだ
 杏: うわあ、機材とか楽器がたくさんある！ こっちの棚は——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000535/bg_s000535.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000535/bg_s000535.webp)
 杏: あ！　この写真って、子供の頃のスレイドとセドリック？
 杏: 後ろに写ってるの、父さんと大河おじさんだよね
 スレイド: そうだよ！　昔、RADderに歌を教えてもらってた頃—— ナギさんがカメラで撮ってくれたんだ
 杏: へえ……。ふたりとも、若いなあ
 杏: ふふっ、スレイド達もいい笑顔じゃん！
-(White cut)
+(White transition)
 (Background change)
 こはね: 素敵な場所ですね。 なんだか、本当に秘密基地みたいで……
 セドリック: そう呼び始めたのはスレイドなんだが—— ここは本来、俺達の作業場なんだ
@@ -121,4 +121,4 @@
 杏: え～！　もう、別にいいのになー
 冬弥: これは……俺達も手伝わせてもらえないだろうな
 彰人: だな。大人しく待っとくか
-(Black cut)
+(Black transition)

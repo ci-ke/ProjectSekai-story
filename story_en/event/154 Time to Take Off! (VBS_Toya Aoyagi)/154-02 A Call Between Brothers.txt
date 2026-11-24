@@ -27,15 +27,11 @@ Kohane: Aoyagi?
 Toya: ...! I'm sorry, could you repeat that?
 Kohane: Sure. Are there any places that you'd like to visit?
 Toya: That I'd like to visit...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Well...)
 Toya: Here.
@@ -53,7 +49,7 @@ Toya: After all, they both live overseas... And they were certainly not pleased 
 Akito: ...
 Toya: But last night...
 Toya: My middle brother sent me a message.
-(White cut)
+(White transition)
 (Background change)
 Toya: Hm? A message? From who...?
 Toya: ...!
@@ -75,15 +71,11 @@ Toya: ...?
 Shuji: <All those years ago, when you came to ask me about how to talk to Dad...>
 Shuji: <I'm sorry for not listening. I'm truly sorry.>
 Toya: What...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: But why...?
 Shuji: <Both Natsuomi and I really respect Dad.>
@@ -104,15 +96,11 @@ Toya: I really appreciate you saying that...
 Toya: However, it's true that I began pursuing street music in order to become a thorn in Dad's side.
 Toya: So, I expected all of you to call me a coward... It was only natural.
 Toya: But after that...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I found friends I can count on, as well as a dream to pursue.
 Toya: And through that struggle, I've grown able to face Dad more properly than I could before.
@@ -124,7 +112,7 @@ Toya: Thank you, Shuji.
 Toya: I'm glad you're saying all this...
 Shuji: <I'm also glad...>
 Shuji: <That you haven't given up on music.>
-(White cut)
+(White transition)
 (Background change)
 Akito: Your brother seems like a good guy.
 An: Not getting to meet him during this trip is a bit of a bummer, but I'm all for visiting his school!
@@ -141,4 +129,4 @@ Toya: Not to worry. All I have to do is keep my eyes shut between takeoff and la
 Akito: Wait, that's gonna be over ten hours.
 Toya: That's how I've managed until now.
 Toya: So, I should be fine... In theory...
-(Black cut)
+(Black transition)

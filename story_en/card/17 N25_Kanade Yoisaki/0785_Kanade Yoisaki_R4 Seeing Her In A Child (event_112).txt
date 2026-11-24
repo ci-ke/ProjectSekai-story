@@ -24,7 +24,7 @@ Kanade: Okay...
 Kanade: But your dad may start worrying if you don't have at least a little bit to eat...
 Mafuyu: Okay...
 Kanade: Then, I'll heat up some food.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Yoisaki Household - Kitchen]
@@ -43,15 +43,13 @@ Kanade: (Despite saying that I was going to do everything, she ended up helping 
 Kanade: (Still, Mafuyu does seem to be feeling better compared to before...)
 Kanade: (She seemed like she was in so much pain at that time...)
 Kanade: (I mean, how could she not be after what happened to her...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: (Mafuyu's body feels frigid...)
 Kanade: Why don't you come inside, Mafuyu? You'll catch a cold...
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Kanade's Room)
 Kanade: (I can't really be with Mafuyu while she takes a bath, but I hope that helps warm her back up...)
@@ -63,13 +61,13 @@ Kanade: ...
 Kanade: (I can't let Mafuyu go back to that place.)
 Kanade: Alright...
 Kanade: Hello? This is Yoisaki. I apologize for contacting you at such a late hour. I have some news regarding Mafuyu.
-(Black cut)
+(Black transition)
 Kanade: Yes, at the moment, she's taking a bath...
 Kanade: Also, I believe that it would be best if she spent the night here.
 Kanade: Right now, she needs time to settle down and gather her thoughts...
 Kanade: If anything does come up, I promise to let you know right away.
 Kanade: Okay, thank you very much.
-(Black cut)
+(Black transition)
 Mafuyu: Kanade, thank you for the bath.
 Kanade: Oh, Mafuyu... Do you feel a little warmer now?
 Mafuyu: ...
@@ -79,17 +77,15 @@ Kanade: You're going to catch a cold if you don't dry your hair. Come here and I
 Mafuyu: That's okay.
 Mafuyu: I can do it myself.
 Kanade: ...! Alright, got it.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: The meat and potato stew's ready.
 Kanade: Oh, um... Thank you. Mafuyu, please sit. Let's have some together.
 Mafuyu: Together...
 Mafuyu: Okay...
 Kanade: (I want today to be nice and relaxing for her.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -114,7 +110,7 @@ Kanade: Okay, good luck at school.
 Mafuyu: Thank you...
 Kanade: (I should get my act together if I don't want Mafuyu to worry so much.)
 Kanade: Alright, let's do that.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kanade's Room]
@@ -123,7 +119,7 @@ Kanade: ...
 Kanade: (This chord progression doesn't sound right...)
 Kanade: Maybe something simpler would be better.
 Kanade: That didn't work... Then, how about...?
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -161,7 +157,7 @@ Ena: <Yeah, I'll also try to help.>
 (Background change)
 Kanade: <Thank you... If the situation arises, then I'll be calling on you both.>
 Kanade: <Anyway, I'm going to mute myself and get back to work.>
-(Black cut)
+(Black transition)
 
 [Evening]
 
@@ -197,4 +193,4 @@ Kanade: Oh... Maybe I should have a spare key made for you.
 Kanade: That way, we'd both be able to come and go as we please.
 Mafuyu: If you're okay with that...
 Kanade: I am. I'll go have one made.
-(Black cut)
+(Black transition)

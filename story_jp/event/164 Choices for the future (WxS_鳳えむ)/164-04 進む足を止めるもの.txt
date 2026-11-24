@@ -23,7 +23,7 @@ KAITO (WxS): ……もしかして、何か悩み事かな？
 えむ: あ……
 KAITO (WxS): 僕でよければ、話を聞くよ。 もちろんえむちゃんが話したければ、だけど
 えむ: ……ありがとう、カイトお兄さん。 あのね——
-(Black cut)
+(Black transition)
 KAITO (WxS): ……なるほど。 それで桔梗組を解体せずにすむ方法を探しているんだね
 えむ: うん……。 最初は、鈴蘭組を好きな人達に お客さんになってもらえないかな？って思ったんだ
 えむ: 舞台が好きな人達なら、 桔梗組のことも好きになってくれるんじゃないかなって
@@ -49,7 +49,7 @@ KAITO (WxS): ——えむちゃんの気持ちは、ちゃんと決まってい�
 KAITO (WxS): それならよかったよ
 KAITO (WxS): ……僕にできるのは、話を聞くことくらいだけど。 応援しているよ、えむちゃん
 えむ: うんっ！　ありがとう、カイトお兄さん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -79,15 +79,11 @@ KAITO (WxS): ……僕にできるのは、話を聞くことくらいだけど�
 えむ: そっか……
 えむ: （森ノ宮のえらい人達が大切にしたいことも、 わかる気がする）
 えむ: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: ……お金がなくても、最高の体験は作れるんじゃないかな？
 白虎町: え……
@@ -122,4 +118,4 @@ KAITO (WxS): ……僕にできるのは、話を聞くことくらいだけど�
 えむ: （前に進むことで、今まで森ノ宮を 応援してくれた人が傷つくかもしれないんだ……）
 (Background change)
 KAITO (WxS): 『…………』
-(Black cut)
+(Black transition)

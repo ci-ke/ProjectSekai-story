@@ -24,41 +24,31 @@ MEIKO: どういたしまして。 気軽にいつでも来てちょうだいね
 こはね: うん、また明日！
 こはね: （すっかり遅くなっちゃった。 急いで帰らないと……）
 こはね: （それにしても、今日はいろいろあったな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謎の男: ……そうだな。 嬢ちゃんに足りないものは——
 謎の男: 自分を見る目、だな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: 多分だけど……。 こはねは、自分に自信が持ててないんじゃないかな
 冬弥: ああ。小豆沢は十分な実力を持っているにも関わらず、 それを自覚できていない
 冬弥: そのことを言ったんじゃないだろうか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （自分を、見る目か……）
 こはね: （みんなに聞くまで、 あの人が言ってたその言葉の意味もわからなかったな……）
 こはね: （こういうところも、 自分が見えてないっていうことなのかな？）
 こはね: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: 最初オレは、『自信を持ててない』ってのは こはねの大きな弱点だと思ってたが——
 彰人: でも今は、そこはむしろ長所だと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （自分でも、『自信を持ててない』っていうのが 私のダメなところだって思ってたけど……）
 こはね: （東雲くんが、あんな風に思っててくれたって わかったのは嬉しかったな）
@@ -108,7 +98,7 @@ MEIKO: どういたしまして。 気軽にいつでも来てちょうだいね
 ミュージシャンA: あんたたしか……小豆沢、さん、だったよな。 話せてよかった
 ミュージシャンA: 次は負けねえ……いや、負けませんから。 あんたにも、Vivid BAD SQUADにも
 こはね: ——はい！ こちらこそよろしくお願いします！
-(Black cut)
+(Black transition)
 こはね: ふぅ……。 急に声をかけられたから、本当にびっくりしちゃった
 こはね: （でも、あの人達も きっともっと上を目指してるんだろうな）
 こはね: （パフォーマンスもうまかったし、 私も参考にして頑張ろう）
@@ -116,7 +106,7 @@ MEIKO: どういたしまして。 気軽にいつでも来てちょうだいね
 こはね: （杏ちゃん達が普通にしてるし、 追いつかなくちゃって夢中だったから、 何も考えずにやってたけど……）
 こはね: （きっと、こういうところも自分が見えてなくて、 視野が狭いっていうことなのかも）
 こはね: みんなとRAD WEEKENDを超えるためにも、 もっとちゃんと、 自信をもって自分と向きあえるようにならなくちゃ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -136,7 +126,7 @@ MEIKO: どういたしまして。 気軽にいつでも来てちょうだいね
 こはね: （この人達、同い年くらいかな。 ちょっと照れくさいけど……）
 こはね: （でも、せっかく誘ってもらったし、 集合時間までまだ余裕もあるし……！）
 こはね: はい、私でよければお願いします
-(Black cut)
+(Black transition)
 バンドマン達: 『ありがとうございました！』
 こはね: ありがとうございました！
 バンドマンA: 小豆沢さん、本当にありがとうございます！ すごく楽しかったですし、いい刺激をもらえました
@@ -147,19 +137,15 @@ MEIKO: どういたしまして。 気軽にいつでも来てちょうだいね
 バンドマンB: あはは。ほんとそうだね
 こはね: そ、そんなことないですけど……
 こはね: （せっかくの生演奏だし、 演奏に合わせたかったっていうのは たしかにそうだけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あの時のように歌えって言われても、 きっと無理だ……）
 こはね: （あの時の私、本当にどうやって歌ってたんだろう）
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -197,17 +183,13 @@ MEIKO: どういたしまして。 気軽にいつでも来てちょうだいね
 彰人: じゃ、さっきのところもう１回いくぞ。 今度は走りすぎるなよ
 こはね: うん！
 こはね: （そうだ、私ようやく胸を張って歌えたんだもんね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ——こはね。 こはねが胸を張って歌えたのは、こはね自身が頑張ったからだよ
 杏: よく頑張ったね、こはね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （これからもみんなの隣で歌えるように、 頑張っていかなくちゃ！）
-(Black cut)
+(Black transition)

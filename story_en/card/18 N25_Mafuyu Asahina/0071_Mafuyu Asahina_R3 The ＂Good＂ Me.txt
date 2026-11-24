@@ -11,7 +11,7 @@ Gacha phrase: I'm not as "good" as you think I am.
 
 Mafuyu: I'm back.
 Mafuyu's Mother: Welcome home. Dinner's ready.
-(Black cut)
+(Black transition)
 Mafuyu: Wow! Looks great! Thanks mom!
 Mafuyu's Mother: Enjoy!
 Mafuyu's Father: Mafuyu, how was school today?
@@ -28,7 +28,7 @@ Mafuyu's Mother: Hehe. It's nice to know people look up to you in school.
 Mafuyu's Father: Indeed.
 Mafuyu: It's no big deal. I'm not doing anything amazing at all.
 Mafuyu's Mother: Don't say that. You're our pride and joy, Mafuyu.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -71,7 +71,7 @@ Miku (N25): I'm here to help you with that.
 Mafuyu: (If I can find my true feelings, will I be able to find my true self as well?)
 Mafuyu: Okay.
 Mafuyu: Help me, Miku.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -85,7 +85,7 @@ Mafuyu's Mother: Welcome home, Mafuyu. Help yourself to the really delicious jel
 Mafuyu: Can I really? That's great! Thank you, mom.
 Mafuyu: But I'm hoping to finish preparing for tomorrow's classes first, so I'll have the jelly after dinner, okay?
 Mafuyu's Mother: I understand. You're so hard-working.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -138,4 +138,4 @@ Kanade: <Okay. That sounded sincere.>
 Mafuyu: <I'm done with class prep. I should be able to get a bit of work in before dinner.>
 Mafuyu: <What do you think? If you have nothing urgent for me to handle, I'll continue where I left off yesterday...>
 Kanade: <Yes, please do that.>
-(Black cut)
+(Black transition)

@@ -23,7 +23,7 @@ Emu: “Huh?! Why are you swaying so much?! Wait, can you not talk unless you do
 Tsukasa: “I require positioning data for this area!”
 Rui: Tsukasa, don't forget that you're an android!
 Tsukasa: A-Always with the impossible demands!
-(Black cut)
+(Black transition)
 Asahi: “Target eliminated...”
 ArcLand Cast Member A: “Good progress. He should be ready for the front lines in no time.”
 Nene: “B-But... Do you think he's actually going to be effective?”
@@ -57,7 +57,7 @@ Nene: “Silence. Return to your standby area.”
 Asahi: “Understood.”
 Rui: Okay, let's go with that... Also, Nene, well done.
 Asahi: I already knew... But this show really is a lot of fun.
-(Black cut)
+(Black transition)
 Rui: (Tsukasa, Emu and Nene are all performing according to my directions while doing their best to keep up with everyone from ArcLand.)
 Rui: (Tsukasa in particular is doing a wonderful job of learning how to play a role that doesn't entirely suit him...)
 Rui: (However...)
@@ -85,9 +85,9 @@ Tsukasa: Thank you as well. I'll be looking forward to seeing your Alfred.
 Tsukasa: Now that I know I'm going to be playing Bartlett, I'll need to start practicing the final scene in earnest.
 Asahi: Right. The scene following the battle is probably this play's most important one, so let's both do our best, Tsukasa!
 Tsukasa: Yes, let's!!
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day before the show]
@@ -99,7 +99,7 @@ Rui: Okay... Thank goodness I was able to get my hands on these.
 Tsukasa: To think that we'd run out of flower confetti for the final scene. I doubt any of us were expecting that.
 Rui: I was supposed to keep an eye on that, so I apologize for making you come with me like this. Thank you as well, Asahi.
 Asahi: No, it's my pleasure! Also, I'm glad we were able to buy what we needed, so let's head to the station.
-(Black cut)
+(Black transition)
 Tsukasa: Tomorrow's finally the big day...
 Asahi: This past month went by so fast.
 Tsukasa: Yes, it did...
@@ -130,7 +130,7 @@ Asahi: I agree... A show can only happen when you trust and believe in one anoth
 Rui: Precisely.
 Rui: Now, we should also make our way to the station.
 Asahi: Yes, let's...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -167,4 +167,4 @@ Asahi: So, you don't have to give an answer right now. Please let me know once y
 Rui: Okay, understood...
 Asahi: Again, I apologize for surprising you like this. Anyway, I'll see you tomorrow!
 Rui: Okay. See you tomorrow...
-(Black cut)
+(Black transition)

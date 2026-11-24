@@ -7,7 +7,7 @@ Gacha phrase: But I could trace it just fine...
 
 (Character: Saki Tenma, Honami Mochizuki, Emu Otori)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kindergarten]
@@ -18,16 +18,12 @@ Kindergartner: Yeah, it was really good!
 Kindergartner: And you're a really good reader, Ms. Honami!
 Kindergartner: Yeah, I love your voice! It's so kind and gentle!
 Honami: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little Saki (Saki): I love your voice, Hona! It's so kind and gentle!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: Hehe. Thank you very much!
 Honami: (When's the last time I read a picture book for others? I remember reading one for Saki when she was in the hospital.)
@@ -68,7 +64,7 @@ Kindergartners: Okay!
 Honami: That was amazing! Thank you very much!
 Attractive Kindergarten Teacher: Hehe. You're welcome. You can take it from here, yes?
 Honami: Yes!
-(Black cut)
+(Black transition)
 Honami: (Playtime's almost over. That means we'll be painting soon...)
 Honami: (I'll be fine. I practiced so much with Ena...)
 Attractive Kindergarten Teacher: Did you get a chance to play with all the children, Ms. Honami?
@@ -87,7 +83,7 @@ Honami: Yes...! I promise to do my best with them during our painting activity!
 Attractive Kindergarten Teacher: That's the spirit. Anyway, I'll go get Ms. Emu.
 Honami: (This teacher's such an amazing person...)
 Honami: (But I'm also a teacher today, so I also have to do everything I can!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -98,7 +94,7 @@ Honami: (But I'm also a teacher today, so I also have to do everything I can!)
 
 Saki: Hoonnaa! Let's go home together!
 Honami: Oh, you're all here! Yes, let's!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -134,21 +130,17 @@ Ichika: I see no problem with that. You can instantly tell that you painted it, 
 Saki: Yeah♪ I also really love the way you painted it, Hona!
 Honami: All of you...
 Honami: (At first, I sort of dreaded having to paint during my shadowing...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 Ena: Honami, mind drawing a crocodile for us? You know, how you normally would...?
 Honami: What? But...
 Ena: Don't worry. Yes, some people might laugh at it because it doesn't look real...
 Ena: But I'm sure someone will understand as long as you try your best.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (Ena was right. The children really liked what I painted. And...)
 Saki: Hey, wait...! Hona! This cat wearing a scarf... Didn't you read me this same story when we were little?!
@@ -168,4 +160,4 @@ Shiho: I couldn't really tell... But you really do have a unique style, Honami.
 Ichika: Yeah.
 Honami: (They're all smiling after seeing that I painted.)
 Honami: (Hehe. I'm so glad I went on that shadowing.)
-(Black cut)
+(Black transition)

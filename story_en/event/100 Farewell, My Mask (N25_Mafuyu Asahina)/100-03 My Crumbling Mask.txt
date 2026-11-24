@@ -22,7 +22,7 @@ Mizuki: <I made this effect based on your lyrics, Yuki, and want to see what you
 Ena: <Oh, me too. Can you see if my rough sketch captures what you were going for with your lyrics?>
 Mafuyu's Message (Mafuyu): <Okay.>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: ...
 Mafuyu: (Now that I'm hearing them together, these lyrics don't really work with this melody. Maybe I should go with something more straightforward...)
@@ -50,7 +50,7 @@ Mafuyu: Huh?
 Miku (N25): <You seem to be feeling a little better now.>
 Mafuyu: Oh...
 Mafuyu: Yes, you may be right...
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu's Message (Mafuyu): <I'm finished fixing my lyrics.>
 Kanade: <You are? Thank you, Yuki.>
@@ -90,7 +90,7 @@ Mafuyu's Message (Mafuyu): <And I'll let you all know if I can't make it.>
 Mizuki: <...! Thanks, Yuki!>
 Ena: <We'll be waiting for you.>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Evening]
@@ -116,7 +116,7 @@ Teacher: It's just... She hardly ever makes careless mistakes like that, so–
 Mafuyu's Mother: Excuse me. What are you talking about...?
 Mafuyu's Mother: You've already finished grading her finals?
 Teacher: Huh? Yes, I handed them back the other day... I assumed she'd already told you.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -129,22 +129,18 @@ Mafuyu's Mother: Yes... I see...
 Mafuyu's Mother: She didn't show up today...?
 Mafuyu's Mother: Yes, I agree. She's always working very hard, so I'll remind her that she needs to take breaks on occasion...
 Mafuyu's Mother: Okay. Thank you very much...
-(Black cut)
+(Black transition)
 Mafuyu's Mother: ...
 Mafuyu's Mother: (What's gotten into her...?)
 Mafuyu's Mother: (She hid how she did on her finals from me and didn't show up for cram school...)
 Mafuyu's Mother: This can only mean...
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000175/bg_s000175.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000175/bg_s000175.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu's Mother: (If this keeps up, she's going to lose focus and not do as well as she needs to on her entrance exams...)
 Mafuyu's Mother: (Which means she won't get accepted to her top choice.)
 Mafuyu's Mother: That is simply not an option...
-(Black cut)
+(Black transition)

@@ -17,7 +17,7 @@
 穂波: ふふっ、ありがとう。 えむちゃんが手伝ってくれるなら、すごく心強いな
 穂波: じゃあ……これをお願いしようかな。 みんなにアンケートを取りたいの
 えむ: まかせて！ がんばるぞーっ☆
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -25,21 +25,17 @@
 穂波: （……うん、えむちゃんが手伝ってくれたおかげで アンケートもまとまったし……）
 穂波: （あとは、自由曲をどっちにするか決めるだけ）
 穂波: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: でも、もっと優しくなるためには、 勇気が必要な時も、きっとやってくる
-(White cut)
+(White transition)
 MEIKO: 穂波は、優しいってどういうことだと思う？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: わたしは——
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -52,16 +48,12 @@ MEIKO: 穂波は、優しいってどういうことだと思う？
 志歩: うん。……それに、少し似てた気がする
 志歩: メイコさんのドラムを聴いた時の感覚に
 穂波: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 志歩: ドラムは、バンドを支える柱。 バンド全体を支えながら引っ張っていく力がある
 志歩: メイコさんのドラムが支えてくれてるから、 ミクとルカさんも、いつもより思いきり弾けてるんだと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 一歌: それ、ドラムがバンドの柱になるって話だったよね
 咲希: そっか！ ほなちゃんが支えてくれてたから アタシ達も思いっきり弾けたんだね！
 志歩: まだリズムは甘いし、 メイコさんのドラムには敵わないけどね
@@ -79,7 +71,7 @@ MEIKO: 穂波は、優しいってどういうことだと思う？
 一歌: うん
 一歌: 何があっても、穂波がみんなのために頑張ってること、 私達は見てるよ
 穂波: ……うん！ ありがとう！
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: あの調子なら大丈夫そうだね
 ミク (Ln): そうだね。 …………
@@ -91,4 +83,4 @@ MEIKO: あれ、ミク。なんか拗ねてる？
 ミク (Ln): ただちょっと、私も先輩として、 力になりたかったっていうか……
 MEIKO: あはは。ミクってば、すっかりいい先輩じゃん
 MEIKO: 本当に、ここにいるのは優しい子ばっかりだね
-(Black cut)
+(Black transition)

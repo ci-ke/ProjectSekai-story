@@ -17,28 +17,24 @@ Gacha phrase: ……なんだろう、この気持ち
 奏: じゃあ、次は……
 奏: ……次、どうしようかな
 奏: デモのストックはあるから、 それで作業してもらうことはできるけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 昔……風邪を引いた時に……
 まふゆ: ……お母さんが、看病してくれたんだ
-(White cut)
+(White transition)
 まふゆ: りんごを、うさぎの形に切ってくれた
 まふゆ: それが、なんだかすごく美味しくて……
 まふゆ: お母さんが、手を握って、子守唄を歌ってくれた
 まふゆ: 奏の曲を聴いた時の、あたたかい感覚は——
 まふゆ: その時の気持ちに、似てるんだと思う
-(White cut)
+(White transition)
 奏: それなら、次は…… その思い出をイメージして、曲を作ってみるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……よし
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -98,7 +94,7 @@ Gacha phrase: ……なんだろう、この気持ち
 奏: 『そうだね』
 奏: 『みんな……待たせることになってごめん』
 奏: 『少しの間だけ——よろしくね』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -107,10 +103,8 @@ Gacha phrase: ……なんだろう、この気持ち
 
 [宵崎家　キッチン]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『ちゃんと向き合うのにも、時間が必要だと思うんだ』
 瑞希: 『ふたりがちゃんと心を落ち着かせて、 次の行動を決めるための時間が』
@@ -119,10 +113,8 @@ Gacha phrase: ……なんだろう、この気持ち
 (Background change)
 絵名: 『だから——』
 絵名: 『“距離を置く”っていう選択肢も、 あるんじゃないかな……って』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……瑞希達の話は、すごくわかる）
 奏: （わかる、けど——）
@@ -140,20 +132,16 @@ Gacha phrase: ……なんだろう、この気持ち
 まふゆ: ……無理してまで急がなくていいから
 奏: （……そうだよね まふゆは、わたしが曲のことで悩んでるって思ってるから……）
 奏: …………うん。わかってるよ
-(Black cut)
+(Black transition)
 奏: （……曲作りの続きをしないと）
 奏: （だけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ルカ (N25): ——奏
 ルカ (N25): もし、あなたが願い通り、まふゆを救うことができたとして——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ………………
 奏: （……あれからずっと、頭の中も胸の中もぐちゃぐちゃだ）
@@ -163,7 +151,7 @@ Gacha phrase: ……なんだろう、この気持ち
 奏: ……………………
 奏: ……少し、外に出ようかな。 気分転換したら、ちょっと変わるかも——
 奏: あ……そうだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [カフェ]
@@ -195,7 +183,7 @@ Gacha phrase: ……なんだろう、この気持ち
 店員: あら。ここまでベッタリなんて……
 瑞希: ひょっとして珍しいことなんですか？ だったらラッキー！　いっぱいなでさせてもらおうよ、奏！
 奏: あ、うん……。そうだね
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -207,4 +195,4 @@ Gacha phrase: ……なんだろう、この気持ち
 奏: ………………
 奏: （考えないといけないことも、 やらないといけないことも、たくさんある）
 奏: （——ひとつずつ、ちゃんと考えていかないと）
-(Black cut)
+(Black transition)

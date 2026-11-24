@@ -20,7 +20,7 @@ Miku (WxS): No, look☆ All the plushies are running this way!
 Plushie A: Miku! Len! Heeelp!
 Len: Whoa! What's wrong, you guys?
 Plushie B: Just come with us! Hurry! We need your help!
-(Black cut)
+(Black transition)
 (Background change)
 Plushie A: Here! Over here!
 Plushie B: Look! Her!
@@ -46,7 +46,7 @@ Luka: Yes, I'd like to see them too.
 Miku (WxS): Then come with us and you can do just that☆
 Len: We can guide you around this SEKAI too☆
 Luka: Hehe. This should be fun. Thank you, Miku, Len.
-(Black cut)
+(Black transition)
 Miku (WxS): Alright, let's start by heading over to the stage to see KAITO and MEIKO!
 Luka: Okay, let's... Oh, what's that...?
 Len: Wait, Luka, where are you going?! You too, Miku! It's not that way...!
@@ -78,7 +78,7 @@ KAITO: Haha. We should tell everyone else that we have a new friend with us now.
 Miku (WxS): Yeah♪ We should as soon as we can☆ You wanna meet them too, right, Luka?
 Luka: Yes, I'd like to.
 Luka: Especially if their feelings created this SEKAI...♪
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -130,14 +130,10 @@ Rui: I see...
 MEIKO: The opposite seems to be true as well since she's almost never sleepy when something is bothering someone.
 MEIKO: She'll attentively listen to what someone has to say.
 Nene: Oh...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Nene: Come to think of it, Luka looked fully awake when Tsukasa was talking to her about something pretty serious...
 Luka: Zzz... Zzz...
 Emu: So whenever Luka feels like being a sleepyhead, it's a good thing!
@@ -145,4 +141,4 @@ Rui: Hehe. I believe so.
 Rui: Which mean, if she does tend to fall asleep when everybody here is having fun as MEIKO says...
 Rui: Then this SEKAI must be overflowing with smiles and joy considering she can sleep this soundly.
 Luka: Zzz... Zzz... Hehe...
-(Black cut)
+(Black transition)

@@ -11,7 +11,7 @@ MC: <Next, we have the segment you've all been waiting for. “The Town Revitali
 MC: <This week, we have MORE MORE JUMP! giving the town of Hanamioka a big hand.>
 (Background change)
 Rin (MMJ): <Oh, your segment's about to start!>
-(Black cut)
+(Black transition)
 (Background change)
 Minori: <Th-The stage needs so many planks of wood! We're never gonna finish carrying these over!>
 Airi: <Normally, I'd tell you to quit complaining and keep working, but having to make round trips on this mountainous road is pretty draining.>
@@ -20,14 +20,14 @@ Minori: <W-Wait...! That's the technique that allows someone to use their full s
 Airi: <Every time I've used it, I've been able to get through a shoot no problem! So, let's get back to carrying these planks!>
 Minori: <Okay, I'll do my best!>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Local C: <Besides, this is our town. That means it's our duty to act.>
 Local A: <Right. What we mean to say is...>
 Local A: <Let's do this, together.>
 Haruka: <...! Thank you very much.>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 Shizuku: <Congratulations on finishing! If you like, please take this commemorative bookmark.>
 Runners: <Wow, this is so cute! It's like a little flower field!>
@@ -35,7 +35,7 @@ Runners: <Hehe. It's just like what we saw while we were running.>
 Runners: <And the food was so good. We've gotta visit again sometime.>
 Shizuku: <...! Thank you for saying that!>
 (Background change)
-(Black cut)
+(Black transition)
 Rin (MMJ): <Th-That was so good...!>
 MEIKO (MMJ): <Yes, it was! And I was so moved when the locals came to help you girls.>
 KAITO (MMJ): <Me too. The way your earnestness reached them, and they came to help you out... It was so exciting to see!>
@@ -109,7 +109,7 @@ Haruka: I'll probably be asking you a lot of questions moving forward too, Saito
 Saito: Of course! I'll learn everything I can, and support you in every way!
 Haruka: (I have to really do my best here. In order to make sure MORE MORE JUMP! shines brighter and brighter.)
 Haruka: (So that we become top idols who are able to spread hope to everyone in Japan.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Talent Agency]
@@ -122,4 +122,4 @@ Hiiragi: I see. I was really hoping to lock that down.
 Manager: I'm sorry... It sounded like they were really eager to get MORE MORE JUMP! in, given how popular they're getting.
 Hiiragi: ...
 Hiiragi: MORE MORE JUMP!, huh?
-(Black cut)
+(Black transition)

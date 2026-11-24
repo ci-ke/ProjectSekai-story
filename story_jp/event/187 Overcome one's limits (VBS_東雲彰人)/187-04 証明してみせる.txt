@@ -8,21 +8,17 @@
 社長: 僕の思い違いなら、謝罪する
 社長: だが、あのイベントの後…… 君達が配信する歌を聴いていて、かすかな違和感があった
 社長: 君も恐らく、自覚があったんじゃないか？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: ……燃え尽きちまったのか……？
-(White cut)
+(White transition)
 (Background change)
 スレイド: なんで、何も言わないんだよ
 スレイド: 手加減なしって言ったじゃないか。ちゃんと歌ってくれよ。 あのイベントで歌ってたキミの歌は、 そんなんじゃなかっただろ……？
 彰人: …………っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （面と向かって言われたのは……これで２度目だな）
 彰人: ……たしかに、そういう時期はありました
@@ -46,12 +42,12 @@
 彰人: （……自分が蒔いた種だ）
 彰人: （ここで、絶対に証明してみせる）
 彰人: ——オレは、何をすればいいですか？
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
 
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ここは……
 彰人: （オフィスがあった辺りとは、だいぶ雰囲気が違う）
@@ -76,4 +72,4 @@
 彰人: （この悔しさも、熱さも、全部歌に込めろ）
 彰人: （覚悟を見せるには、それしかねえ）
 彰人: ——やってやる
-(Black cut)
+(Black transition)

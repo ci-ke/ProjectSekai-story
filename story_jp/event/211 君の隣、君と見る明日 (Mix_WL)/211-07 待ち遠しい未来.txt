@@ -44,10 +44,10 @@ KAITO (VBS): 『また後でー！』
 咲希: あははっ！
 咲希: え？　今、何か光った……よね？
 冬弥: 俺も見ました。 まさか、スマホか……？
-(White cut)
+(White transition)
 (Background change)
 瑞希の声 (瑞希): わっ！　眩しいっ！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？のセカイ]
@@ -63,20 +63,20 @@ KAITO: 本当にいいタイミングで来てくれたよ。 ちょうど始ま
 KAITO: うん。みんなのおかげでヒビも直ったよ
 KAITO: でも、それで終わりじゃないんだ
 瑞希: あっ、想いの欠片が光ってるよ！
-(White cut)
+(White transition)
 咲希: え……！？
 瑞希: い、今！　想いの欠片が合体したよね！？
 類: ああ……。 光って、交ざり合うようにひとつになって……
 冬弥: 空へ、昇っていく……
 類: ……カイトさん、これはまさか
 KAITO: うん
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000610/bg_s000610.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000610/bg_s000610.webp)
 KAITO: あのふたつの欠片は、 想いが重なり合って、ひとつのセカイになったんだ
 KAITO: ここにいる、みんなのおかげでね
 KAITO: ——ありがとう。生まれてきてくれて
 KAITO: その想いを、大切にしてほしいな
-(White cut)
+(White transition)
 (Background change)
 咲希: すごいすごいすごーーーい！ アタシ達、セカイが生まれるところ見ちゃったー！
 瑞希: そっかあ、あんな風にセカイってできるんだ……
@@ -123,7 +123,7 @@ KAITO: ……でも、嬉しいサプライズだったよ。 ほんの少しだ
 咲希: カイトさん……
 類: ……ところで、この光はなんだい？ 僕達の体から出ているようだけれど……
 KAITO: ああ、それは——
-(White cut)
+(White transition)
 咲希: わっ！　キラキラ、あの木に吸い込まれちゃった！
 KAITO: あの光は、みんなの想いの欠片だよ
 KAITO: きっと、今回のことでみんなの想いがさらに強くなって、 あの木の力になったんじゃないかな
@@ -141,6 +141,6 @@ KAITO: そうだね。その時はミク達のことも紹介させてほしい�
 KAITO: 僕も待ち遠しいな
 KAITO: （いつになるかはわからないけれど……）
 KAITO: （みんなを見ていると、もうすぐやってきそうな気がするよ）
-(White cut)
+(White transition)
 (Video: link3_team04_ed)
-(Black cut)
+(Black transition)

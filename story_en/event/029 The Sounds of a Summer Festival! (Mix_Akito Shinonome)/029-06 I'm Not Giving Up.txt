@@ -11,7 +11,7 @@ Ena: Hey, we still have time until the concert starts, so wanna take a look at s
 Kanade: The stalls...? I hardly ever come to festivals like this, so I have no idea what's here...
 Mizuki: Then we should check some out! Let's go!
 Ena: Wait, Mizuki...! We'll get separated if you run off like that!
-(Black cut)
+(Black transition)
 
 [Shooting Gallery]
 
@@ -54,13 +54,13 @@ Ena: Wait, won't those get in the way during the concert?
 Mizuki: It's not like we're gonna get that many, right? Don't worry!
 Mizuki: C'mon, let's go!
 Ena: Hey, wait! What did I tell you about running off like that?!
-(Black cut)
+(Black transition)
 Shizuku: Airi, how about we buy some of these penguin masks for Haruka and Minori?
 Airi: Good idea! It's pretty cute too, so I'm sure Haruka will like it. We might even be able to use them in one of our videos.
 Airi: Hey, there's something on the ground...
 Shizuku: A keychain? Oh, it's so cute♪
 Airi: You think it's cute...? Its eyes look kinda weird... Did someone drop it?
-(Black cut)
+(Black transition)
 Mizuki: That was so much fun! I wish we could do stuff like this with Miku and the others.
 Ena: But even if we tried to do that in SEKAI, there's nothing there.
 Mizuki: True... But we could try doing some of these things in SEKAI, right?
@@ -80,7 +80,7 @@ Ena: (Mizuki was trying to say something just now, but stopped partway through..
 Ena: (I thought we were all having fun, but I'm still sensing some hesitation there...)
 Kanade: Ena, is everything okay? We don't want you to get separated.
 Ena: Oh, sorry... Be right there!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Summer Festival Stage]
@@ -110,30 +110,26 @@ Mizuki: E-Ena?!
 Ena: Kanade, Mafuyu, can you wait for us here? We'll try to be back before the pros take the stage.
 Mafuyu: Okay...
 Kanade: B-Be careful...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Summer Festival Fairgrounds)
 Ena: Find it, Mizuki?
 Mizuki: No, it's not here. Let's just go back. There's just no way we're gonna find it.
 Ena: But...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mizuki: I'm gonna put it on my bag right now♪
 Ena: Wait, right now? It totally clashes with how your bag looks too.
 Mizuki: Who cares? It'll be something to remember this festival by♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Ena: ...!
 Ena: No, let's keep looking.
 Mizuki: But it's just a stupid keychain. Do we really have to keep looking...?
 Ena: It's gonna really bother me if we don't!
 Ena: I know! It might be at the lost and found! Let's try there, Mizuki...!
 Mizuki: Hey, Ena, wait...!
-(Black cut)
+(Black transition)
 Mizuki: Seriously? It's here...?!
 Ena: See? Like I said...
 Mizuki: By the way, do you remember who delivered this to you?
@@ -144,4 +140,4 @@ Mizuki: Okay!
 Committee Member A: Huh? Someone's stuff is in this box. This is supposed to be for extension cords.
 Committee Member B: Look at that. It's someone's bag and... Their shoes?
 Ena: (Wait, those are...)
-(Black cut)
+(Black transition)

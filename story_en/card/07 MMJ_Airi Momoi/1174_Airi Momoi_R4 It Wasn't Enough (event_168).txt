@@ -19,7 +19,7 @@ Neighborhood Girl: I wanna look just like my favorite model, Na, okay?!
 Airi: (That reminds me of all those times I had Mom take pictures of me. I remember having so much fun...)
 Airi: (Actually, I think we took some at this park...)
 Airi: (Oh, now I remember. When I was preparing for my very first audition...)
-(White cut)
+(White transition)
 (Background change)
 Elementary School Airi (Airi): Do you have the camera, Mom?!
 Airi's Mother: I have it right here. Oh, Airi, wait. Your bangs are a bit of a mess.
@@ -35,17 +35,17 @@ Elementary School Airi (Airi): I'm gonna pass my audition and become a dazzling 
 Elementary School Airi (Airi): And that means we've gotta get amazingly cute pictures of me!
 Airi's Mother: Hehe. Let's both do our best. So, where would you like to take them?
 Elementary School Airi (Airi): About that...
-(Black cut)
+(Black transition)
 (Background change)
 Elementary School Airi (Airi): Here we are! The Scramble Crossing! I want to look like a fashionable “city girl”, so...
 Elementary School Airi (Airi): Mom, let's take one in front of this big poster!
 Airi's Mother: Okay. Try posing for me now.
-(Black cut)
+(Black transition)
 (Background change)
 Airi's Mother: This seems like a nice spot. It gives us a wonderful view of the sea.
 Elementary School Airi (Airi): Yeah! For this one, I wanna change things up by trying to look more grown-up.
 Elementary School Airi (Airi): Just like the girl on this magazine. Take a picture when my hair's all fluffed out!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Park)
 Airi's Mother: Look a little more to your right for me... Perfect! Hold still...
@@ -62,7 +62,7 @@ Elementary School Airi (Airi): But I'm always well-behaved!
 Elementary School Airi (Airi): I might've been feeling a little anxious. Can we try retaking that, Mom?
 Airi's Mother: Of course. We can keep trying until we get the picture you want.
 Elementary School Airi (Airi): Thanks!!
-(White cut)
+(White transition)
 (Background change)
 Airi: (We ended up shooting for like three days.)
 Airi: (Mom made room in her busy schedule to spend all that time with me...)
@@ -72,20 +72,16 @@ Girl's Mother: Oh, I think this one turned out really nicely. Take a look.
 Neighborhood Girl: Yeah, it did! But I still feel like I can make a more natural expression...!
 Neighborhood Girl: Because I'm definitely gonna be a dazzling model just like Na someday!
 Airi: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: I still need to keep trying harder and harder.
 Airi: So I can tell little me that...
 Airi: I became a dazzling idol, just like she wanted.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,7 +116,7 @@ Haruka: That also goes for me. I'd like to help out as well.
 Airi: You guys...
 Airi: Thanks. Then, I think I'll take you up on that.
 Minori: You can count on us! Let's go find a gift that really encapsulates your feelings, Airi!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -135,7 +131,7 @@ Shizuku: They even have a wide variety of essential oils available. If you buy s
 Airi: “A quiet model that produces only fifteen decibels of noise”...? Not bad. She could put this in her bedroom.
 Haruka: If we're going with something fragrant, then the bath salts over there could also work. I'm sure she enjoys having nice, relaxing baths.
 Minori: Yeah! Let's go check them out!
-(Black cut)
+(Black transition)
 Airi: Thanks for waiting while I paid for it, you guys!
 Minori: You went with that aroma diffuser, right?!
 Airi: The sample fragrances they had were amazing, so I have a feeling this will help her sleep really well.
@@ -148,4 +144,4 @@ Airi: Oh...
 Airi: Yeah, I'll include this... Thanks for the help, you guys!
 Airi: (These three have helped turn my gift into something really lovely.)
 Airi: (I hope Mom likes it...)
-(Black cut)
+(Black transition)

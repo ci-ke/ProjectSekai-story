@@ -47,15 +47,11 @@ Crawl Greenオーナー: あれが本当に、あの東雲くんなのか……�
 洸太郎: （……オレも、諦めたくねえ。 今は下手くそでも、いつか……あんな風に……！）
 彰人: ♪————！！　————！！　
 洸太郎: （それで、また——）
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000078/bg_s000078.webp)
+(White transition)
+(Flashback out)
 (Background change)
 洸太郎: （また、あの日みたいに……！）
 彰人: ♪——————————————！！
@@ -69,19 +65,15 @@ Crawl Greenオーナー: あれが本当に、あの東雲くんなのか……�
 洸太郎: 次の……！？
 彰人: ——RAD WEEKENDは、 ただの伝説のイベントじゃねえ
 彰人: そこに込められた願いも、想いも、 ……オレ達は知ってる
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: だが——
 彰人: オレ達はその想いも背負って、超える！
@@ -98,15 +90,11 @@ Crawl Greenオーナー: あれが本当に、あの東雲くんなのか……�
 Crawl Greenオーナー: ……行かねえのか？
 洸太郎: え？　あ……いえ、オレは……
 洸太郎: オレは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 洸太郎: ……もう、あいつらの足を引っ張りたくないんです
 洸太郎: それに、あんな……あんなみじめな気持ち……
@@ -116,14 +104,10 @@ Crawl Greenオーナー: ……お前は、このままでいいのか？
 洸太郎: （このまま……また逃げだすのか？）
 洸太郎: （下手くそで、臆病な自分のままで…… この先も、ずっと後悔して生きていくのか？）
 洸太郎: それは……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 洸太郎: …………いやだ……
 洸太郎: ……もう、諦めたくない……。 あいつみたいに自分の歌と向き合って、少しでも——
 洸太郎: ……彰人……！
@@ -153,7 +137,7 @@ Crawl Greenオーナー: ……お前は、このままでいいのか？
 彰人: お前は自分が下手くそだって言うけど、そんなことねえよ。 お前はちゃんと……熱い歌が歌える
 彰人: オレ達には、お前の歌が必要だ。 だから……一緒にRAD WEEKENDを超えるぞ
 洸太郎: ……！　おうっ！
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -187,4 +171,4 @@ Crawl Greenオーナー: ……お前は、このままでいいのか？
 彰人: （……そうだ。ここからが本当の勝負だ）
 彰人: やるぞ、お前ら！！ この街を、丸ごと動かすぞ！！
 杏・こはね・冬弥・洸太郎: 『うん！』 『ああ！』 『おう！』
-(White cut)
+(White transition)

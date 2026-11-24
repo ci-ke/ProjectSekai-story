@@ -2,7 +2,7 @@
 
 (Character: An Shiraishi)
 
-(Black cut)
+(Black transition)
 (Background change)
 Little An (An): ...!
 ???: I knew you'd be here...
@@ -17,7 +17,7 @@ Nagi: Hehe. What if I told you that I can recall everything you've ever said, An
 Little An (An): Aunt Nagi...!!
 Nagi: You're safe now, An.
 Little An (An): I-I-It was so scary, Aunt Nagi...!!
-(Black cut)
+(Black transition)
 Little An (An): *Sigh*
 Nagi: Hehe. I'm glad to see that you've settled down.
 Nagi: And the rain's starting to let up, so let's go home. I'm sure your father and the others are all very worried...
@@ -36,8 +36,8 @@ Nagi: Ken even kept asking to see if you'd received his message and wondering if
 Nagi: Then, his face went completely pale after he heard that you'd run away and dashed off to look for you.
 Nagi: I want you to know that you mean the world to him and he loves you more than anything else.
 Little An (An): ...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000093/bg_s000093.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000093/bg_s000093.webp)
 Little An (An): But... If he cares about me so much, then he wouldn't break his promises, would he...?
 Little An (An): He'd choose to be with me, right...?
 Nagi: *Nod*
@@ -46,7 +46,7 @@ Little An (An): What...?
 Nagi: Of course, we care about you the most, An, but...
 Nagi: We also care about this place very much...
 Little An (An): ...
-(White cut)
+(White transition)
 (Background change)
 Little An (An): Why do you, Daddy and Uncle Taiga all care about this city so much...?
 Nagi: Hehe. That's because...
@@ -60,16 +60,12 @@ Nagi: I had so much trouble with it initially, but I eventually managed to figur
 Nagi: Sometimes different people would try to put me down by saying how bad I was, but I usually did everything I could to prove them wrong like I had a chip on my shoulder.
 Nagi: And I'm standing here today because they were there for me back then.
 Little An (An): Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 An's Father: Yes. Nagi, Taiga and I were all able to grow as singers because of this town.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Little An (An): Is that what Daddy meant by what he said...?
 Nagi: Plus, this is where we met Ken. Things weren't easy back then since he and Taiga didn't really get along at first...
@@ -87,17 +83,13 @@ Nagi: Not only that, An, you're the apple of everyone's eye around town, no...?
 Little An (An): Huh...?
 Nagi: Just think about it. The manager of the live house near your place always cheers you on when you practice, right?
 Little An (An): The manager? Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Little An (An): Hm? Oh, good morning! How's it going? Good?
 Live House Manager: Yeah, never better!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nagi: I remember him being so excited about you coming into our world while your mother was still pregnant with you.
 Nagi: He even drove her to the hospital a few times during her pregnancy.
@@ -115,32 +107,24 @@ Little An (An): Like me...?
 Nagi: And there's lots and lots more people who really care about you, An.
 Nagi: Which is why, An, we don't want you hating us. At least, that's how I feel...
 Little An (An): ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Live House Manager: Good luck with practice today, An!
 Attractive Lady: I love the way you sing, An♪
 Frizzly-Haired Record Store Clerk: I have a song that I'd like to recommend. Would you like to hear it...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Little An (An): (She's right... They all go out of their way to talk to me...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Frizzly-Haired Record Store Clerk: An, is everything alright? You don't sound very happy today. Is your throat okay?
 Live House Manager: Oh, is it because your dad's been too busy to watch you practice...?
 Attractive Lady: Don't worry, An. Once he has time, I'm sure... No, I'm absolutely certain that he'll come watch you practice.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Little An (An): (They show their concern for me and stop by to listen to me sing...)
 Little An (An): (They're all really nice to me...)
@@ -153,7 +137,7 @@ Nagi: Hehe. Looks like they're here.
 Little An (An): Wait, who's here...?
 Nagi: You'll find out when you get there, so let's go!
 Little An (An): Huh...?!
-(Black cut)
+(Black transition)
 (Background change)
 Nagi: Hey, everyone! Over here!!
 Little An (An): What...?! But it's nighttime! Why are there so many...?!
@@ -199,4 +183,4 @@ An's Father: Thank you, An. Your thoughtful words should keep me going for quite
 Little An (An): Hehe. I really worked up an appetite... Oh, Daddy, that curry you always make sounds really good right now!
 An's Father: Then, let's head home. I hope you're ready for some amazing curry.
 Little An (An): Yeah!!
-(White cut)
+(White transition)

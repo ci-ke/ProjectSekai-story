@@ -104,7 +104,7 @@ Mafuyu: <Okay...>
 (Background change)
 Ena: (Thank goodness for Kanade... Mafuyu doesn't seem to be feeling as down as when she came over to my house.)
 Ena: (It doesn't have to be immediate, but I hope she starts feeling better soon.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,24 +120,20 @@ Ena: *Sigh* I'm going back to sleep...
 Ena: ...
 Ena: No, I'm fully awake now...
 Ena: I should just get up.
-(Black cut)
+(Black transition)
 Ena: Now then...
 Ena: Since I managed to wake up early for a change, I should practice drawing something...
 Ena: (But what...?)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rin (N25): What if it's because your sketch has some sort of special place in Mafuyu's heart?
 Ena: What...?
 Rin (N25): This lake was born out of Mafuyu's feelings.
 Rin (N25): Seeing your sketch may've had some sort of effect on her. That might be why you're seeing it floating around now.
 Ena: My sketch had an effect on her...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (My sketch had a real effect on her...)
 Ena: (If I can draw something like that again...)
@@ -151,19 +147,19 @@ Ena: We saw those cherry blossoms together and...
 Ena: They were so beautiful...
 Ena: Alright...
 Ena: (I'll try drawing something based on this.)
-(Black cut)
+(Black transition)
 Ena: (I wonder what was going through everyone's mind that day...)
 Ena: (Oh yeah, Mizuki tried to surprise us by hiding the fact that the place we were going to was supposedly haunted.)
 Ena: Always trying to mess with people...
 Ena: Mizuki also suggested that we take this picture together, so... Okay, I'll go with it.
 Ena: ...
-(Black cut)
+(Black transition)
 Ena: Alright, I think Mizuki turned out pretty good. Next is Kanade...
 Ena: (How was Kanade behaving this day?)
 Ena: Oh, right. She was petrified over the thought of going somewhere that was haunted.
 Ena: (But Mafuyu dragged her through that tunnel believing it'd inspire her to compose more songs...)
 Ena: (Also, I didn't know at the time how big a scaredy cat Kanade was.)
-(Black cut)
+(Black transition)
 Ena: Next, Mafuyu.
 Ena: (She disappeared for a minute when we went to that abandoned school. We tried looking for her and ended up discovering that cherry blossom tree in full bloom...)
 Ena: And we talked about a bunch of stuff while standing in front of it...
@@ -173,24 +169,20 @@ Ena: (I guess a visual representation would look something like...this? No, that
 Ena: Ugh... I don't know how to put that feeling into words or art!
 Ena: I need to dig deeper and find a way to really express what we felt...
 Ena: (Come to think of it, Mizuki seemed a bit conflicted back then.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: (Mizuki...?)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (I wonder... Is Mizuki still...?)
 Ena: No, I promised that I'd wait! For now, focus on drawing!
-(Black cut)
+(Black transition)
 Ena: Alright, I've got the general composition down...
 Ena: Hmm... But is this drawing really gonna have an effect on the others?
 Ena: What if I did something like this...? No, that doesn't feel right... Okay, how about...?
-(Black cut)
+(Black transition)
 Ena: No, I can't figure it out... And I feel like it's starting to lose its initial meaning...
 Ena: Argh! It's so hard to illustrate how all four of us are feeling all at once!
 Ena: I should start over...
@@ -208,4 +200,4 @@ Mother: Oh, nothing. Anyway, would you like something to eat before you go?
 Ena: I am hungry, but I'm gonna be late if I don't go now...
 Mother: Then, take some of the rice balls I left in the kitchen.
 Ena: Oh, I can have them before class! Thanks, Mom!
-(Black cut)
+(Black transition)

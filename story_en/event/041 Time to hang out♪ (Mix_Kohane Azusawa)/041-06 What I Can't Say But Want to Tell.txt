@@ -18,7 +18,7 @@ Shizuku: You don't seem as cheerful as you usually do... Did something happen?
 Minori: Um, well... I started feeling a little sick after riding a roller coaster and came to buy some water...
 Airi: You went on a roller coaster? Why?
 Minori: B-Because...
-(Black cut)
+(Black transition)
 Airi: Now I see... You wanted to find a way to be more like this childhood friend of hers, but everything backfired.
 Minori: Yeah...
 Minori: She looks so cool standing next to Haruka and she knows all about Haruka's childhood. They're like mirror images of each other in some ways.
@@ -37,8 +37,8 @@ Rin: <Yeah! If someone ever told me that, it'd make me really happy knowing that
 Minori: You think so...?
 Luka: <Just think about it, Minori.>
 Minori: Huh...?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000022/bg_s000022.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000022/bg_s000022.webp)
 Luka: <Is Haruka the kind of person who dislikes interacting with her fans or talking to them?>
 Minori: No, she isn't like that at all! She even told me that she still has all the fan letters she's ever received!
 Luka: <See?>
@@ -49,7 +49,7 @@ Rin: <Yeah♪ I think so too♪>
 Minori: Oh...
 Minori: You guys might be right...
 Len: <You can do it, Minori!>
-(White cut)
+(White transition)
 (Background change)
 Minori: Thank you so much...! I really don't know how this is gonna go, but I'll do my best to try and tell her!
 MEIKO: <I'm sure you will♪>
@@ -80,4 +80,4 @@ Kohane: There's a nice, big bench where we can sit while we wait for the night s
 An: Yeah, nice idea, Kohane! Mind leading the way?
 Kohane: Sure! Let's go, Minori!
 Minori: Yeah!
-(Black cut)
+(Black transition)

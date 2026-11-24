@@ -16,33 +16,25 @@
 穂波: （一歌ちゃんは『抱え込みすぎないで』って言ってくれたし、 これはみんなで決めることだけど……）
 穂波: （わたしが決められないままだと、 みんなを迷わせちゃうだけかもしれない。だから——）
 穂波: （わたしの、気持ちを決めなくちゃ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アンケートコメント: 『初めて現地に行けただけでも嬉しいのに、 新曲まで聴けるなんて夢みたいだった』 『次は新曲って言われた時、テンション上がった！』
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （……ワンマンの新曲は、 絶対にファンのみんなが喜んでくれる）
 穂波: （それに、咲希ちゃんも志歩ちゃんも—— きっとそっちをやりたいと思ってる）
 穂波: （だけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 観客達: 俺、この曲めちゃくちゃ好きなんだよな……！
 観客達: わかる！　これ聴くと、 ひとりじゃないって思えるんだよね……
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （バーチャル・シンガーを好きな人達にも、 わたし達の曲を聴いてもらいたい——）
 穂波: （一歌ちゃんも、きっとそう思ってる）
@@ -102,14 +94,14 @@
 真堂: 『よろしくお願いします。 それでは、失礼します』
 (Background change)
 穂波: （……わたし……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000469/bg_s000469.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000469/bg_s000469.webp)
 穂波: （わたし、今……）
 穂波: （ほっとした……？）
 穂波: …………っ
 穂波: （…………そうだ）
 穂波: （わたし、安心したんだ……）
-(White cut)
+(White transition)
 (Background change)
 穂波: （ちゃんと自分の考えを決めなきゃって、思ってたのに）
 穂波: （どっちかを選ばなきゃって、思ってたのに）
@@ -122,4 +114,4 @@
 穂波: （——決められるようにならなくちゃ）
 穂波: （みんなを導けるように——）
 穂波: （Leo/needの、リーダーとして……！）
-(Black cut)
+(Black transition)

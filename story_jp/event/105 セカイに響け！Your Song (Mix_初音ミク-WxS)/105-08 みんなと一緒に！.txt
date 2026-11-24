@@ -14,7 +14,7 @@
 KAITO: みんな、おいでよ！
 こはね: いいんですか？
 KAITO: もちろん！ 一緒に歌おう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ステージのセカイ]
@@ -37,7 +37,7 @@ KAITO: もちろん！ 一緒に歌おう！
 愛莉: ふふ、そうね
 みのり: よーしっ！ もっともっともーっと、がんばらなきゃ！
 愛莉・雫・遥: 『うん！』 『ええ！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ　屋上]
@@ -51,7 +51,7 @@ KAITO: もちろん！ 一緒に歌おう！
 一歌: （……私も、まだまだ進める。 そう言ってくれてる気がする——）
 レン: ♪————！　♪——～～～～！！
 一歌: ——頑張ろう
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -71,7 +71,7 @@ KAITO: …………
 瑞希: 何かあったのかな
 奏: わからないけど、でも……
 奏: ……いい歌だな
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -94,13 +94,13 @@ KAITO: …………
 シャオ (ミク-WxS): 『みんな……！　ありがとう……！』
 シャオ (ミク-WxS): 『お師匠、あたし、やります！ みんなの笑顔の力を借りて——みんなが笑顔になれるように！』
 シャオ (ミク-WxS): 『——えいっ！』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000224/bg_s000224.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000224/bg_s000224.webp)
 えむ: わあ……！　すごい……すごいよっ！ すっごくきれい！
 寧々: セカイの端から端まで、光ってる……
 類: これは相当、準備に時間がかかっただろうね
 類: でも……それだけの価値はあるね。 本当に——
-(White cut)
+(White transition)
 (Background change)
 えむ: すっごく、すっごーくわんだほいだね！
 司: ああ——素晴らしいショーだ！
@@ -110,15 +110,11 @@ KAITO: …………
 ミク (WxS): （がんばって、ミクにできることで応援していきたいな）
 ミク (WxS): （ミクだけだと、うーんってなっちゃうこともあると思うけど、 カイトとかレン、リン、メイコ、ルカと——）
 ミク (WxS): （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (WxS): （見守ってくれてるもうひとりのミクと、一緒に！）
-(White cut)
+(White transition)

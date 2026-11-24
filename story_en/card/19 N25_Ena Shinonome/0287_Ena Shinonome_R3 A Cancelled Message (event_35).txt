@@ -7,7 +7,7 @@ Gacha phrase: Geez, am I really that worried about her?
 
 (Character: Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama, Hatsune Miku, Megurine Luka)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -46,7 +46,7 @@ Ena: (She doesn't sound okay with that...)
 Kanade: Anyway, Miku, Luka, we'll see you later...
 Miku (N25): Okay.
 Luka: Yes, come back whenever you like.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -60,14 +60,14 @@ Ena: (I'll send her a message.)
 Ena: (But I don't want her coming back at me with, Your chat notification woke me up, or anything.)
 Ena: Geez, why am I getting all worked up about this? Am I really that worried about her?
 Ena: Okay, forget it. It's time for bed.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Kanade Yoisaki, Ena Shinonome, Mizuki Akiyama)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -86,7 +86,7 @@ Mizuki: <What do you mean, Morning? Did you just wake up, Enanan?>
 Ena: <So? Anyway, K... You want to talk to us about something...?>
 (Background change)
 Kanade: <Yes, well...>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <Ah... So Yuki went to school after that...>
 (Background change)
@@ -143,4 +143,4 @@ Kanade: <Okay. Thank you for meeting on such short notice, both of you.>
 (Background change)
 Ena: <Hehe. You're welcome. For now, we'll leave Yuki in your hands...>
 Kanade: <Okay, see you later tonight.>
-(Black cut)
+(Black transition)

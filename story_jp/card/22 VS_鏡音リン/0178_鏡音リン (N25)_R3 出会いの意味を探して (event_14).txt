@@ -13,7 +13,7 @@ Gacha phrase: 聞こえたんだ、あの子達の願いが
 リン: （ここにずっといたような気がするのに、 今まで眠っていたみたいな……そんな感じがする）
 リン: ……何もないし、すごく静かだな
 リン: でも……あっちのほうだけ、少し明るい
-(Black cut)
+(Black transition)
 リン: ……ミク？
 ミク (N25): リン、やっと会えたね
 リン: うん。誰かに呼ばれた気がしたの
@@ -47,7 +47,7 @@ Gacha phrase: 聞こえたんだ、あの子達の願いが
 ミク (N25): そっか……
 リン: ミク、奏っていう子達に会わせて。 まず、その子達に会わないといけない気がするから
 ミク (N25): じゃあ、行こう
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -61,19 +61,15 @@ Gacha phrase: 聞こえたんだ、あの子達の願いが
 リン: ミク、いつもどうやって時間潰してたんだろ
 リン: はあ……
 リン: （……絵名達、今日は来ないのかな）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 リン: 本当に？
 リン: 誰かに認めてもらえないと、キミの絵は存在しないの？
 絵名: ……っ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 リン: （あのあと、絵名はどんな絵を描いたんだろう）
 リン: ……あ。この感じ……
 絵名: あ、リン……
@@ -127,4 +123,4 @@ Gacha phrase: 聞こえたんだ、あの子達の願いが
 リン: わかった
 絵名: じゃあ、これからもよろしく
 リン: うん、よろしく
-(Black cut)
+(Black transition)

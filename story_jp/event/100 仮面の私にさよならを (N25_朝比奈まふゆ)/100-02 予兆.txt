@@ -31,7 +31,7 @@ MEIKO: 勉強、ね……
 ミク (N25): 何かあったら、みんなにも伝えるね
 奏: ……ありがとう、ミク
 KAITO: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　昼休み]
@@ -58,7 +58,7 @@ KAITO: …………
 レン: 『……いつものまふゆちゃんじゃないみたい』
 ルカ: 『あらあら、なんだか面白いじゃない。 ついてきてよかったわ♪』
 リン: 『ルカ……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [自習室]
@@ -84,21 +84,17 @@ KAITO: …………
 ミク (N25): 『……ううん』
 ミク (N25): 『ねえ、まふゆ。 ちょっとだけ、そばにいてもいい？』
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 まふゆ: （次の問題は……微積分か。 解きかたのパターンがあるから、それに沿って——）
 まふゆ: （……できた、けど……時間がかかっちゃったな）
 まふゆ: （この速度じゃ、テストの時に見直しまで できなくなるかもしれない）
 まふゆ: （……あと何回か解いて、叩き込まなきゃ）
 まふゆ: （次は、絶対にいい点をとらないと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ————っ！
 まふゆ: （駄目だ、集中しないと……）
@@ -121,4 +117,4 @@ KAITO: …………
 まふゆ: ……でも……
 まふゆ: …………
 まふゆ: 私は——
-(Black cut)
+(Black transition)

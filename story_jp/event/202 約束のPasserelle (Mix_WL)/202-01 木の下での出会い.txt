@@ -23,10 +23,10 @@ KAITO (Ln): でも、なんで急に……
 ？？？: 『もし——、他のセカイの————？』
 ルカ (Ln): ミク、これって……
 ミク (Ln): もしかしたら、セカイとセカイが繋がろうとしているのかも
-(White cut)
+(White transition)
 (Background change)
 一歌: わっ！　まぶしい……！
-(White cut)
+(White transition)
 (Background change)
 
 [？？？のセカイ]
@@ -53,7 +53,7 @@ KAITO (Ln): でも、なんで急に……
 ミク: 少し、わたしの話を聞いてもらってもいいかな？ みんなが知りたいことも、きっと話せると思うから
 一歌: ミク……
 一歌: ……うん、わかった
-(Black cut)
+(Black transition)
 一歌: じゃあ……みんな本当にセカイを知ってるんだ
 奏: わたしは、想いの持ち主っていうわけじゃないけどね
 えむ: あたしもー！ 行けるのは、司くんの想いのセカイなんだーっ☆
@@ -67,15 +67,11 @@ KAITO (Ln): でも、なんで急に……
 ミク: そして——みんなのセカイにいる『わたし達』の 想いが重なり合ってできたセカイなの
 ミク: 一歌ちゃんと奏ちゃんが覚えているかはわからないけど、 ここの木は最初、もっと細くて、小さかったんだよ
 一歌: …………あっ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ……そうだ。 なんで忘れてたんだろう……
 奏: うん……。 わたし達、ここに来たことがある
@@ -94,10 +90,10 @@ KAITO (Ln): でも、なんで急に……
 奏: これって、さっきこのセカイに来た時と同じ？
 ミク: ……せっかく会えたけど、バイバイかもしれないね
 一歌: そんな！　もっとミクと話して——
-(White cut)
+(White transition)
 (Background change)
 一歌: わっ……！
-(White cut)
+(White transition)
 (Background change)
 遥: う……あれ……？
 ミク (MMJ): よかった！ みんな急にいなくなっちゃったから、心配で……
@@ -126,20 +122,16 @@ KAITO (Ln): でも、なんで急に……
 一歌: （——まさか、遥達もセカイを知ってたなんて）
 一歌: （……みんなが行ってるのって、どんなセカイなんだろう？）
 一歌: （あ……！ セカイっていうことは、きっと“いる”んだよね？）
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ……よかった。 みんな、それぞれのセカイにちゃんと戻れたみたい
 ミク: （このセカイは―― “みんなのセカイ”と本当に繋がっていたんだ……）
 ミク: （……でも、その繋がりはだいぶ弱くなっちゃってる。 ここが、セカイとしてはまだ不安定っていうことかな？）
 ミク: それにしても——
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 ミク: ふふ。なんだか不思議なメンバーだったな——
 ？？？: ♪——……　♪————……
 ミク: ……え、歌？
@@ -148,16 +140,12 @@ KAITO (Ln): でも、なんで急に……
 ミク: この欠片から聞こえてきていたんだ。 でも——
 ミク: ……この想いの欠片、あの子達のじゃない
 ミク: まさか——
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 ミク: 一歌ちゃん達の想いに、引き寄せられた……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -185,8 +173,8 @@ KAITO (Ln): でも、なんで急に……
 遥: じゃあ、一緒に呼ぼうか
 一歌: わかった！ ——せーのっ……！
 一歌・遥・奏・えむ: 『ミク！』 『ミク』 『ミクちゃ～ん♪』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000569/bg_s000569.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000569/bg_s000569.webp)
 ミク (WxS): 『はじめましてーっ☆　初音ミクだよっ♪』
 ミク (Ln): 『わっ！　……ふふっ、私も初音ミクだよ』
 ミク (MMJ): 『わたしもはじめまして……って、あれっ！？』
@@ -196,14 +184,14 @@ KAITO (Ln): でも、なんで急に……
 一歌: す、すごい……！ ミクが、こんなに！
 一歌: 姿も全然違うけど、みんなミクだ！
 えむ: おお～！　一歌ちゃんのおめめがきらきらだー！
-(White cut)
+(White transition)
 (Background change)
 一歌: な、何から話せばいいんだろう？ えっと、えっと……！
 ミク (Ln): 『もう、なんでそんなにそわそわしてるの？』
 一歌: だって、ミクがたくさんいて……！ 全員と話せるんだよ！？
 えむ: 一歌ちゃん、本当にミクちゃんが大好きなんだねっ☆
 奏・遥: 『ふふっ』
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -223,7 +211,7 @@ KAITO (Ln): でも、なんで急に……
 ？？？: ♪……　♪——
 奏: あ、また……。 女の子の声みたいだけど、どこから……
 一歌: 多分、そこの路地からだと思います。 行ってみましょう！
-(Black cut)
+(Black transition)
 一歌: えっと……あ、あの子かな？
 (Background change)
 えむ: でも……ごみ置き場の前を、行ったり来たりしてるね
@@ -252,7 +240,7 @@ KAITO (Ln): でも、なんで急に……
 少女: ……っ、ごめんなさい……！
 遥: あっ、待って……！
 えむ: ……行っちゃった
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: ♪……　♪——
 ミク: ……また、歌っているんだね
@@ -266,4 +254,4 @@ KAITO (Ln): でも、なんで急に……
 ミク: きゃっ……！
 ミク: ……想いの欠片に、拒絶された？ どうして急に……
 ミク: まさか、想いの欠片の持ち主に何かあったんじゃ……
-(Black cut)
+(Black transition)

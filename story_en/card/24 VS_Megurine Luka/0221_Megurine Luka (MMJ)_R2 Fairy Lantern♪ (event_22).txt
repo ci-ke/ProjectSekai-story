@@ -12,7 +12,7 @@ Luka: Minori and Haruka should be at the park by now, yes?
 Rin: Yeah! I can't wait to see what it's like!
 Miku (MMJ): Hehe. It'll be my first time at an amusement park too. I'm so excited♪
 Luka: Oh, I think that's Minori calling us. Let's go♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -25,7 +25,7 @@ Rin: <Oh, wow! Look at the roller coaster! It's going so fast! The ferris wheel'
 Luka: <Yes, they are♪>
 Minori: I'm so glad you're enjoying everything! Let's have as much fun as we can today!
 Miku & Rin: <Yeah!>
-(Black cut)
+(Black transition)
 Rin: <The Ferris wheel was so much fun! I didn't know it could go up so high!>
 Miku (MMJ): <I know! We could see for miles and miles thanks to the great weather too!>
 Minori: Alright, next we should go on...!
@@ -57,19 +57,15 @@ Haruka: I'm gonna go ask him to fly for me.
 Minori: Wait, I wanna see that too!
 Luka: <We'll be hiding in your pocket in the meantime.>
 Minori: Sorry, we'll try to be quick!
-(Black cut)
+(Black transition)
 (Background change)
 Miku (MMJ): <Hehe. I know we're here to have fun, but stopping Haruka may be a bit difficult now...>
 Luka: <Yes, however...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Luka: <I'm just glad that Minori's genuinely been having fun today too.>
 Luka: <When she was practicing for their joint stream, she really didn't seem like herself...>
@@ -85,7 +81,7 @@ Rin: <Right. Are you sure you still have time to go see them, Luka?>
 Luka: <I think so. They said that they'll tell me when they find a nice view.>
 Miku (MMJ): <That sounds so nice! I hope the four of them have a good time together...!>
 Luka: <Hehe. I hope so too♪>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -122,7 +118,7 @@ Luka: And would you mind modelling for us, Miku, Airi? We promise to tie some cu
 Miku (MMJ): Sure, go right on ahead. I'm getting curious myself.
 Airi: Me too. Something cute, okay, Shizuku?
 Shizuku: Of course!
-(Black cut)
+(Black transition)
 Luka: Then let's get started♪ First, you make a loop with one ribbon...
 Shizuku: Pass one end of the ribbon through it, gently tie it and weave the other end through...
 Rin: Wow! That's amazing! It's braided now!
@@ -159,4 +155,4 @@ Airi: You of all people should've realized first...
 Rin: *Sigh*... I wasn't sure what to do there just now...
 Miku (MMJ): Luka, you big meanie!
 Luka: Hehe. I'm sorry.
-(Black cut)
+(Black transition)

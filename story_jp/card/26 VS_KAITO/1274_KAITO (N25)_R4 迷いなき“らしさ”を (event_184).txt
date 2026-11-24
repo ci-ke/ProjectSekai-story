@@ -14,15 +14,11 @@ KAITO (N25): …………
 絵名の声 (絵名): あ、奏とまふゆも来た。 ふたりとも、こっちー！
 KAITO (N25): ……うるさい奴らだ
 KAITO (N25): （そういえば、曲のデモを聴かせに来るとか言ってたな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): （理由はわからないが、 あいつの作る曲だけがまふゆに届く……）
 KAITO (N25): ……たまには聴いておくか
@@ -51,26 +47,22 @@ KAITO (N25): ……ん？
 KAITO (N25): （……あいつはわかりやすくていい）
 KAITO (N25): （こうありたいという“自分”が、見えてるんだろうな）
 KAITO (N25): （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『——奏、聞いて』
 絵名: 『……お父さんのことは、大変だと思う。 自分のせいだって責めちゃうのも……仕方ないと思う』
 絵名: 『でも……でも、それと奏の幸せは別じゃない？』
 絵名: 『ていうか、そうじゃないと私が嫌……！』
 絵名: 『奏は、こんなにみんなのために頑張ってるんだから……！ 奏自身が幸せにならなきゃ、絶対おかしい』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): （……思ったこと感じたことを、言葉にして主張できる。 自分が嫌なことなら、なおさらだ）
 KAITO (N25): （どうやら、かなりお節介らしいからな。 そういう性格的なところもあるんだろうが……）
 KAITO (N25): （なんにせよ、感情的な言葉による主張は 明らかにまふゆに足りていないものだ）
 KAITO (N25): （あれだけそばにいるんだ。 少しでも影響されてくれれば、こっちが楽なんだがな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,23 +75,19 @@ KAITO (N25): （あれだけそばにいるんだ。 少しでも影響されて
 KAITO (N25): ……なんだ
 ミク (N25): 絵名の絵、どうなったか見に行かない？
 KAITO (N25): ……ああ。あの絵か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 ミク (N25): 『……絵名、楽しそうだね』
 KAITO (N25): 『……あいつなりの答えは出たみたいだな』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): （……絵を描き切るところまでは見届けたが、 評価はまだ出てなかったな）
 KAITO (N25): ……わかった。一緒に行ってやる
 ミク (N25): うん。じゃあ、行こう
-(Black cut)
+(Black transition)
 (Background change)
 ミク (N25): 『……真っ暗』
 KAITO (N25): 『スマホがカバンかポケットの中なんだろう。 しばらく様子を——』
@@ -122,7 +110,7 @@ KAITO (N25): （だが、それもない）
 KAITO (N25): 『……ああ』
 KAITO (N25): 『少なくとも、欲しかった評価は得られなかったんだろ』
 ミク (N25): 『あ……』
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 誰もいないセカイ)
 KAITO (N25): ……いつまでそんな顔をしてるつもりだ？
@@ -131,19 +119,15 @@ KAITO (N25): その割に、数時間も粘ったくせに 結局声を掛けな
 ミク (N25): それは……。 絵名、先生と大切な話をしてたから
 KAITO (N25): ……あいつの心配なんてするだけ無駄だ
 KAITO (N25): お前も聞いてただろ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: ……っでも、……でも……！
 絵名: それでも、東美に行きたいんです……！
 絵名: 無理だって思うけど、 私なんかが目指してもって、思うけど……っ
 絵名: 諦めたく、ないんです……っ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (N25): ……あいつはもう進む道を決めた。 俺達の出る幕はないだろ
 ミク (N25): うん……
@@ -162,4 +146,4 @@ KAITO (N25): ……話は終わりだ。じゃあな
 ミク (N25): あ……
 ミク (N25): カイト、ついて来てくれてありがとう
 KAITO (N25): ふん……
-(Black cut)
+(Black transition)

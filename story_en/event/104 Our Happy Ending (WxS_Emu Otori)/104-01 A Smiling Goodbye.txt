@@ -46,23 +46,17 @@ Emu: (They're both much sparklier compared to before. I bet they're going to kee
 Emu: (And go out into the world...)
 Emu: (I might have to say goodbye to them soon...)
 Emu: (That really does make me sad...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Len: Um, Emu... You don't have to make yourself smile if something is making you feel sad!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: (What Len said was so thoughtful...)
 Emu: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nene: Y-Yes, we probably will have to go our separate ways in order to pursue our dreams...
 Nene: The thought of that happening is really sad and makes my heart sink...
@@ -70,15 +64,13 @@ Nene: But when that happens... I have a feeling that it'll be the moment when we
 Emu: Nene...
 Nene: So... So...!
 Nene: So, when that happens... I'd like it if we could all smile and laugh in support of one another...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Emu: (I want to give them a proper goodbye with a smile...)
 Emu: (I want to be able to say, “I'm really happy for you guys! Good luck!”)
 Emu: (So...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonder Stage]
@@ -115,17 +107,13 @@ Tsukasa: Right. We can start by seeing if we can do more with our shows at the W
 Tsukasa: What else is there...? We could each start attending short workshops on our own time...
 Tsukasa: But long-term workshops and collaborations with other troupes will prove a challenge. They'll likely conflict with our own shows...
 Tsukasa: However...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: If only we could...
 Emu: ...
@@ -137,30 +125,22 @@ Nene: I was thinking we could discuss that now, but... We need to start on our b
 Tsukasa: Agreed. We mustn't deviate from our daily regimen! We can discuss this matter another day!
 Emu: Yeah!
 Rui: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: When the time comes for them to say that they wish to leave the Wonder Stage, will you try to follow in their footsteps?
 Emu: Nope.
 Emu: Because my dream is to protect Grandpa's amusement park and keep it the way it is.
 Emu: And make a place where everyone smiles!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (Emu's mind is already made up...)
 Rui: (While...)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Rui: I'm having trouble letting go.
 Rui: Sorry, everyone... Would you mind if I said something?
 Tsukasa: Hm? Is something wrong, Rui?
@@ -168,4 +148,4 @@ Rui: Apologies, but I'll have to leave practice early today. I have an appointme
 Nene: You do? That's fine, but... You made an appointment?
 Rui: Yes.
 Rui: A very important appointment.
-(Black cut)
+(Black transition)

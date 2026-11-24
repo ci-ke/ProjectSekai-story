@@ -22,17 +22,13 @@
 こはね: だから……みんなで一緒にクリアできる方法を探したいです！
 まふゆ: …………
 まふゆ: （みんなで、一緒に……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: そっか……じゃあ、HPが減らないように注意しないと
 こはね: うん！　みんなでクリアできるように、頑張ろうね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……わかった
 まふゆ: 別の方法を考えようか。 全員でクリアできるように
@@ -46,7 +42,7 @@
 こはね: もしかしたら、鍵を使う以外にも ふたりを助けられる道があるんじゃないかなって……
 まふゆ: そっか……
 まふゆ: ……ありがとう、小豆沢さん もしかしたら——何とかなるかもしれない
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -56,16 +52,12 @@
 こはね: はい。でも、この翻訳機があればきっと——
 こはね: ……それにしても、エイリアンと仲良くなるための道具が 宇宙船の中にあってよかったですね
 まふゆ: うん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 スタッフ: エイリアンには会話AIを搭載してるので、 コミュニケーションをとることも可能ですから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ——スタッフさんは、エイリアンと コミュニケーションを取れるって言ってた
 まふゆ: でも、鳳さんが試した時、 言葉が通じなくて失敗しちゃってたから……
@@ -102,14 +94,10 @@
 まふゆ: （それなら、『何もしない』って伝えるために 防具も捨てて近づくとか——）
 まふゆ: （もしかしたら、エイリアンに攻撃されるかもしれないけど…… 成功すれば信じてもらえるかもしれない）
 まふゆ: （……でも——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 まふゆ: （……だったら——）
 まふゆ: 『証拠になるかはわからないけど……』
 まふゆ: 『私達が持ってるアイテムをプレゼントする、 ってことでどうかな？』
@@ -132,7 +120,7 @@
 えむ: うんうんっ！　みんなで冒険の続きができて、 と～っても嬉しいな♪
 まふゆ: それじゃあ、改めて—— みんなで、クリア目指して頑張ろう
 えむ・こはね・一歌: 『おーっ！』 『はい！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数分後]
@@ -157,7 +145,7 @@
 まふゆ: （……こんな風に、ならなかったのかな）
 まふゆ: ねえ、小豆沢さん——
 こはね: えっ？
-(White cut)
+(White transition)
 (Background change)
 まふゆ: あっ……
-(Black cut)
+(Black transition)

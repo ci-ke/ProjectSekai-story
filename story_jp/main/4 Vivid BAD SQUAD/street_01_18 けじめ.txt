@@ -2,16 +2,14 @@ street_01_18 けじめ
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥の父: 冬弥、どこへ行っていた
 幼い冬弥 (冬弥): え？　友達と遊んでて……
 冬弥の父: 無駄なことに時間を使うんじゃない。 さあ、すぐにレッスンだ。今日も遅くなるぞ
 幼い冬弥 (冬弥): はい……
-(Black cut)
+(Black transition)
 (Background change)
 冬弥の父: 違う。もう一度
 幼い冬弥 (冬弥): ごめんなさい……
@@ -19,17 +17,15 @@ street_01_18 けじめ
 幼い冬弥 (冬弥): でも、もう指が……
 冬弥の父: ダメだ。もう一度。できるまでだ
 幼い冬弥 (冬弥): ……はい
-(Black cut)
+(Black transition)
 幼い冬弥 (冬弥): お母さん……
 幼い冬弥 (冬弥): なんで僕は友達と遊んじゃいけないの？ お休みの日もずっとピアノとバイオリンばっかりで……
 冬弥の母: あら、それは素晴らしいことなのよ、冬弥さん。 一流の音楽家であるお父様に毎日レッスンしてもらえるんだから
 冬弥の母: お兄さん達もお父様から習って、 コンクールでも立派な成績を残しているわ
 冬弥の母: お父様はね、あなたのために 海外からのオファーも断っているのよ。 だからその分、しっかり教えていただきなさい
 幼い冬弥 (冬弥): ………………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Place: WEEKEND GARAGE)
 冬弥: ……俺は…… いつの間にか音楽そのものが、嫌いになっていました
@@ -38,21 +34,17 @@ street_01_18 けじめ
 冬弥: 本当に、反発できればなんでもよかったんです
 冬弥: この場所でクラシックではない音楽をやり始めたのも、 父が最も嫌がりそうだったから、なんていう幼稚な理由でした
 冬弥: でも、彰人は、こんな俺に……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: おもしろいな、お前。 なあ、ちょっとオレと歌ってみねえ？
-(White cut)
+(White transition)
 (Background change)
 彰人: この人が謙さんだ。 あの『RAD WEEKEND』をやったひとりだぞ！
-(White cut)
+(White transition)
 彰人: オレ達も、あれくらいすげえ、最高のイベントをやるぞ！　冬弥！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 冬弥: こんな俺に……この場所と、音楽を楽しむことと、 そして……大事な夢を……教えてくれた
 冬弥: 彰人は、俺の初めての仲間です
 冬弥: ……だけど彰人の夢は…… 本当に真っ直ぐで……
@@ -80,4 +72,4 @@ street_01_18 けじめ
 杏: え？　父さん？
 彰人: …………
 冬弥: …………
-(Black cut)
+(Black transition)

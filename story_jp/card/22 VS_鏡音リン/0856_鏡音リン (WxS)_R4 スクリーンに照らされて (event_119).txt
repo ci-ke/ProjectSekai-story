@@ -49,7 +49,7 @@ KAITO (WxS): みんな、気合い十分みたいだね
 MEIKO (WxS): ええ！ すっごーーく頑張ろう！って感じ、伝わってきたわ！
 リン (WxS): うんうんっ♪ きっと、大変なこともあるんだろうけど……
 リン (WxS): リンもみんなのこと、いーっぱい応援するよ〜☆
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -60,15 +60,11 @@ MEIKO (WxS): ええ！ すっごーーく頑張ろう！って感じ、伝わっ
 
 リン (WxS): はあ……
 リン (WxS): （類くん、大丈夫かなあ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (WxS): （すっごく大事なシーンがうまくいかないって言ってたな……）
 リン (WxS): （それで、監督さんといっぱい考えて、 なんとかしなくちゃって、がんばってて……）
@@ -109,4 +105,4 @@ KAITO (WxS): リンの応援したいって気持ちは、 きっと類くんの
 リン (WxS): そっか……リンも、力になれるんだ……
 リン (WxS): えへへ……ありがとう♪ カイトのおかげで、元気でてきたよ☆
 リン (WxS): 類くんの力になれるなら…… リンは応援してるよって、類くんに伝えたいな！
-(Black cut)
+(Black transition)

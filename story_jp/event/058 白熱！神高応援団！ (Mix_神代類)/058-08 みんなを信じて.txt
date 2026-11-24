@@ -68,7 +68,7 @@
 青組生徒達: 今、最下位だけど…… 最後まで諦めずに頑張ろう！
 赤組団長: ……なるほど
 赤組団長: これが、あいつの集大成か
-(Black cut)
+(Black transition)
 (Background change)
 実況: ただいまをもちまして 神山高校体育祭を終了いたします
 瑞希: はあ……
@@ -78,8 +78,8 @@
 青組団長: 応援合戦の結果は１位だった。 しかも、歴代の記録を塗り替える得票数だったらしい
 青組団長: 私達の想いが届いたのだ。 これも、今日まで頑張ってくれたみんなと…… 何より、神代くんのおかげだ
 類: 団長……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000074/bg_s000074.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000074/bg_s000074.webp)
 青組団長: 今日の応援合戦は、間違いなく 伝説と呼ぶにふさわしいものになった
 青組団長: ……高校最後の戦いに、 最高の思い出を与えてくれてありがとう
 類: ……いえ。 僕がしたことは、ほんの一部で——
@@ -89,7 +89,7 @@
 瑞希: ……ほら。みんなそう思ってるってさ
 類: ……そうか
 類: ありがとう
-(White cut)
+(White transition)
 (Background change)
 青組団長: ああ……本当にすがすがしい気分だ。 高校最後の応援合戦をこんな気持ちで終えられるとは！ この余韻に浸りつつ……
 青組団長: 次は、大学での応援合戦に向けて頑張らねばな！
@@ -124,17 +124,13 @@
 瑞希: え……？
 類: あの時、瑞希が背中を押してくれなければ 応援合戦を成功に導けていなかったかもしれないからね
 瑞希: あの時……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: どんなアイディアがでてくるのか期待してるよ、 天才演出家さん♪
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: ……そういえば、そんなこともあったね
 瑞希: ——じゃあ、ちゃちゃっと片づけして 焼肉おごってもらいに行こっか！
@@ -147,4 +143,4 @@
 類: ん？ なにかお礼を言われるようなことをしたかな
 類: でも——
 類: 悪くない体育祭だったね
-(White cut)
+(White transition)

@@ -42,7 +42,7 @@ Ena: (At my current level, I know that I don't have a chance...)
 Ena: (But...)
 Ena: (I've gotta make the most of Mr. Yukihira's lessons and improve as much as I can right now.)
 Ena: (Until I reach a level where I can at least write down Tokyo Art University as one of my prospective schools...!)
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -77,7 +77,7 @@ Ena: (Just an apple would be easy since I draw those all the time...)
 Ena: (Speaking of which, I've been drawing apples since really early on. I've sketched them so many times...)
 Ena: (I sketch at least once a day, and I even drew some yesterday.)
 Ena: (I might just stand a chance with this idea.)
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -124,7 +124,7 @@ Ena: (But I have to find a way to improve before the next contest. I'll start by
 Yukihira: Shinonome?
 Yukihira: Would you mind coming over here? I'd like to take a minute to speak with you.
 Ena: Huh? Y-Yes, of course...!
-(Black cut)
+(Black transition)
 Ena: Umm... What is it that you'd like to discuss?
 Yukihira: I have a few questions regarding the piece you entered in for this contest.
 Ena: Oh, okay...
@@ -140,4 +140,4 @@ Yukihira: It seems that you require a different sort of challenge, Shinonome.
 Ena: Huh...?
 Yukihira: For the “signpost” assignment I just gave you all...
 Yukihira: I'd like for you to submit a failed work.
-(Black cut)
+(Black transition)

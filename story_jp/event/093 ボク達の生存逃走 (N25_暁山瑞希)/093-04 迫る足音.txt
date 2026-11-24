@@ -8,25 +8,21 @@
 まふゆ: うん、また明日ね
 まふゆ: （……やっとひとりになれた）
 まふゆ: （今日も疲れた……けど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『しゃべりすぎってことはないでしょ！ いい物作るにはコミュニケーション取るべきだし！』
-(White cut)
+(White transition)
 (Background change)
 瑞希: 『あっはっは！ この感じ久しぶりだなぁ～』
-(White cut)
+(White transition)
 (Background change)
 奏: 『じゃあ——作業、始めようか』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -67,24 +63,20 @@
 まふゆ: あ……
 まふゆ: …………なんでも……ないよ。 課題のデータは、問題ないから……
 まふゆ: 着替えてくる…………
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: …………
 まふゆ: ……どうすれば、いいの……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 噛みつく…………
 まふゆ: でも……そんなこと……
 まふゆ: そんな、こと…………
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -124,17 +116,13 @@
 まふゆ: 『今はパソコンも……ない』
 (Background change)
 瑞希: 『あ……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: （もたもたしてるとまふゆのお母さんが、 まふゆとボク達をもっと引き離そうとするかもしれないし……）
 瑞希: （——そうしたらまふゆは、もっと苦しむことになる）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （ついに……動き出したんだ……）
 (Background change)
@@ -180,15 +168,11 @@
 (Background change)
 まふゆ: 『…………怖いの……』
 まふゆ: 『理由はわからないけど……ずっと……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 『怖いの……！』
 (Background change)
@@ -202,4 +186,4 @@
 まふゆ: 『……………………』
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)

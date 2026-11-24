@@ -2,7 +2,7 @@
 
 (Character: Airi Momoi)
 
-(White cut)
+(White transition)
 (Background change)
 
 [One week later]
@@ -16,7 +16,7 @@ Elementary School Airi (Airi): (I'll be fine. I've come up with good talking poi
 Applicant: ♪————~~!
 Elementary School Airi (Airi): (Sh-She's amazing...!)
 Elementary School Airi (Airi): (But... But I can also...!)
-(Black cut)
+(Black transition)
 Judge: Thank you, Ms. Takeda.
 Judge: Next... Number twelve, Ms. Momoi.
 Elementary School Airi (Airi): Present...!
@@ -27,7 +27,7 @@ Elementary School Airi (Airi): (Oh...)
 Judge: Now, if you'll sing the song we've assigned.
 Elementary School Airi (Airi): Of course!
 Elementary School Airi (Airi): ♪————~~!
-(Black cut)
+(Black transition)
 
 [Two hours later]
 
@@ -50,20 +50,20 @@ Elementary School Airi (Airi): (Please...!)
 Judge: Number fifteen, Megumi Koizumi.
 Applicant: Present!
 Elementary School Airi (Airi): Oh...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
 
 [Neighborhood]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000449/bg_s000449.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000449/bg_s000449.webp)
 Elementary School Airi (Airi): ...
 Elementary School Airi (Airi): (I didn't know...)
 Elementary School Airi (Airi): (I worked so hard... I practiced so much... I did everything I could...)
 Elementary School Airi (Airi): (But I still ended up failing... I didn't know it would hurt this much.)
-(White cut)
+(White transition)
 (Background change)
 Airi's Mother: You did your best, Airi.
 Elementary School Airi (Airi): Mom...
@@ -94,4 +94,4 @@ Elementary School Airi (Airi): Seriously, what was that all about...?
 Elementary School Airi (Airi): (But...)
 Elementary School Airi (Airi): (But I...)
 Elementary School Airi (Airi): I think I'm glad I kept trying so hard.
-(Black cut)
+(Black transition)

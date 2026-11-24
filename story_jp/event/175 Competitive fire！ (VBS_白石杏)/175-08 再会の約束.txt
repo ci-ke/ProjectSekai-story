@@ -30,15 +30,11 @@
 冬弥: はい。いろいろと壁はありますが……
 彰人: けどまあ、どうにかするしかねえだろ
 ルカ (VBS): 『あはは。頼もしいなあ！』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: そういえば…… バタバタしてて、聞きそびれちゃってましたけど
 杏: ルカさん、前に来た時、何か話そうとしてませんでした？
@@ -82,10 +78,10 @@
 杏: あ……はーい！
 冬弥: では、そろそろ行くとするか
 エレナ: 気を付けて帰ってねー！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000475/bg_s000475.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000475/bg_s000475.webp)
 杏: ありがと！ じゃあ、みんな——またね！
 杏: 絶対、絶対戻ってくるから……！
 杏: また、RUSH BEATSで！
 (Background change)
-(White cut)
+(White transition)

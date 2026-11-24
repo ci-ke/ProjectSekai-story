@@ -18,7 +18,7 @@ Nene: (But I have to do my best...! Because this is a huge opportunity for every
 Emu: Oh, Nene! This way! Let's check out that dango shop!
 Nene: Huh?
 Nene: Oh... O-Okay!
-(Black cut)
+(Black transition)
 Emu: Alright, we're at the dango shop! Wow! The soy sauce they're using smells so good!
 Nene: Yeah, it does... But are you sure you didn't want to go to any of the other dango shops? This place has a ton of them.
 Emu: Yeah, I wanted to come here because this shop apparently makes all sorts of different dango!
@@ -40,15 +40,11 @@ Girls: Me neither! But let's see... I still haven't had...
 Nene: (All the guests here seem to be really enjoying themselves. Just like the ones who visit Phoenix Wonderland...)
 Nene: (They're all here because they want to smile and have fun.)
 Nene: (Which means...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Nene: (The show we're going to do here is just like the ones we used to do back at Phoenix Wonderland.)
 Nene: (So, we just have to do what we used to do...)
@@ -61,7 +57,7 @@ Nene: Huh? No, I don't think that's...
 Emu: Excuse me! I'd like to buy some of your dango!
 Clerk: Oh, welcome! You seem awfully energetic.
 Nene: Emu, wait! Geez...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -125,4 +121,4 @@ MEIKO (WxS): Alright, let's work together and give these two all the help we can
 Len, Miku & Rin: Yeah!
 Nene: *Nod*
 Nene: Thanks, you guys!
-(Black cut)
+(Black transition)

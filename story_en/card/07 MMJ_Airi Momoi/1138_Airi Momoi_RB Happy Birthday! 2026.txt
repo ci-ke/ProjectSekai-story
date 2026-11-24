@@ -33,7 +33,7 @@ Airi: Huh? I got a message from Saki...
 Saki's Message (Saki): <Hello! I know this is out of the blue, but will you be at school on your birthday?>
 Saki's Message (Saki): <If it's alright with you, me and Emu were really hoping for some of your time during lunch break! What do you think?!>
 Airi: Looks like one more thing came up.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Airi's birthday]
@@ -55,7 +55,7 @@ Mafuyu: By the way, I saw Tenma and Otori dashing up the stairs and saying they 
 Airi: Ah, yeah! We have plans to meet on the rooftop.
 Mafuyu: Then, I shouldn't keep you. Have lots of fun today, Momoi!
 Airi: Thanks, Asahina! It's my only birthday of the year, after all. I'll really savor it!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rooftop]
@@ -71,7 +71,7 @@ Airi: How could I not be? I knew Saki and Emu would be here, but not all the res
 Ichika: Saki told us she'd be celebrating with you, so we decided to tag along.
 Honami: We put some dishes together for lunch, so please have as much as you like.
 Airi: Wow...! Look at all this food! Okay, as the star of the day, I'll eat my fill!
-(Black cut)
+(Black transition)
 Shiho: This fried chicken is really good, Momoi. Here, have some.
 Ichika: Oh, I recommend the meatballs too!
 Airi: Thanks. I'll have some of both.
@@ -79,7 +79,7 @@ Saki: No fair, you guys! Airi, I recommend the potato salad!
 Emu: This cheese wrapped in bacon is super duper delicious too, Airi!
 Airi: Hehe. I'll have some of those next, then. And if anyone has other recommendations, I wanna hear those too!
 Minori: She really is today's star. Everybody's trying to talk to her!
-(Black cut)
+(Black transition)
 Saki: Ta-daa♪ One special chocolate cake, made by Emu and me!
 Emu: We used the recipe you showed us before, Airi☆
 Airi: Thanks, you two! I can tell just by looking that you made it with a lot of care!
@@ -91,18 +91,18 @@ Airi: Time for a bite♪
 Airi: Mmmmm! My mouth is sooo happy right now♪
 Emu: Oh wow oh wow oh wooow! It's Happy Everyday's Happy Snacker!
 Saki: Aaaaah! I can't believe I got to see it in person again! I'm so happy right now too...!
-(Black cut)
+(Black transition)
 Haruka: Oh yeah. Apparently Kohane and An are preparing to celebrate too.
 Airi: Kohane and An? But they're on their trip to the US now, aren't they?
 Haruka: Right. That's why they'll be sending you a birthday message. They told me to make sure you look forward to it.
 Airi: I see! Well, I'll do just that!
-(Black cut)
+(Black transition)
 Airi: Thanks for all this, everyone. The lunch and the cake were both so delicious!
 Shiho: Don't mention it. We're glad you liked it.
 Saki: I'm absolutely, 100% gonna be there for your stream today, Airi!
 Emu: I'm gonna watch it with Nene and everyone too!
 Airi: Great, thank you! I'll go all out and make it a fun time!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -134,7 +134,7 @@ Airi: This must have taken a while, right?
 Mizuki: You could say that.
 Ena: But that's how much we wanted to celebrate.
 Airi: Thank you so much. I'll treasure this pouch.
-(Black cut)
+(Black transition)
 (Background change)
 
 [MORE MORE HOUSE]
@@ -159,8 +159,8 @@ Airi: The stream's about to start... But I'm so happy, I might cry.
 Airi: I've received all these birthday blessings, so I've gotta thank everyone in the best way possible!
 Airi: I'm gonna rock this stream! Help me out, girls!
 Minori, Shizuku & Haruka: Okay!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000421/bg_s000421.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000421/bg_s000421.webp)
 An: Happy birthday, Airi!
 Kohane, Akito & Toya: Happy birthday! Happy birthday.
 Akito: We're in the US right now, so we recorded a birthday song for you with some people we met at the Academy of Music here.
@@ -193,7 +193,7 @@ Haruka: Hehe. It was a surprise to see Airi start crying too.
 Shizuku: I'm sure when she saw Minori's tears, she just couldn't hold back any longer.
 Shizuku: I love that side of you, Airi.
 Haruka: Hehe, me too. Airi, we're all wishing you a very happy birthday!
-(White cut)
+(White transition)
 (Background change)
 Airi: Thank you for celebrating with me so much today.
 Airi: The way I see it, having people outside your family celebrate your birthday is a very fortunate thing.
@@ -204,4 +204,4 @@ Airi: I'll use this year to return the favor for all your well-wishes!
 Airi: As Airi Momoi the idol, of course!
 Airi: Lovely! Fairy! Airi... Momoi!!!
 Airi: I'll see you later!
-(Black cut)
+(Black transition)

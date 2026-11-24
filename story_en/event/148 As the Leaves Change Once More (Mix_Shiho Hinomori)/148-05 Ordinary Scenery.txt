@@ -14,7 +14,7 @@ Shizuku: It even has a long porch that runs adjacent to the garden, which means 
 Tsukasa: Tea by a garden... That sounds exquisitely Japanese! I can't wait!
 Waiter: Thank you for your patience. You're our group of four, yes? Please follow me.
 Shiho: Oh, we get to go in.
-(Black cut)
+(Black transition)
 Waiter: Here are your seats.
 Shiho: Thank you very much.
 Shiho: (Oh, interesting. We're supposed to sit by letting our feet hang outside over the edge...)
@@ -30,7 +30,7 @@ Saki: Yeah, I mean! I've never been to a cafe where you let your feet hang over 
 Tsukasa: Me neither...! I was completely under the impression that there'd be tables and chairs! To think that we'd be sitting on the floor like this!
 Tsukasa: We get to enjoy this lovely breeze while having tea... How fantastic is that?!
 Shizuku: Hehe. I'm glad you two like it here so much. Then, why don't we sit in pairs and place a table between us?
-(Black cut)
+(Black transition)
 Saki: Hehe... It's sunny, nice... And I'm having such a great time.
 Saki: I wish we could do something like this at home.
 Tsukasa: Yes, it would be nice to relax as a family at home like this.
@@ -41,14 +41,14 @@ Shizuku: They seem to be enjoying themselves quite a bit.
 Shiho: Yeah, so I guess this place is a hit.
 Shizuku: Yes. Anyway, enough about them...
 Shiho: Huh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000376/bg_s000376.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000376/bg_s000376.webp)
 Shizuku: Open wide, Shii. Say, “Ahh.”
 Shiho: Not happening. I don't need your help with my anmitsu.
 Shiho: Come to think of it, you've hardly eaten any of yours.
 Shizuku: That's not true. And really, I'm feeling very full after watching you enjoy your treat.
 Shiho: There you go again...
-(White cut)
+(White transition)
 (Background change)
 Shizuku: Hehe... It's been so long since we spent time together like this.
 Shizuku: You were so busy preparing for that festival.
@@ -84,4 +84,4 @@ Rin (Ln): (Also...)
 Rin (Ln): (She seems more relaxed than usual. This is perfect☆)
 Rin (Ln): (And having tea by a garden like this seems like so much fun!)
 Rin (Ln): (I should ask Len to see if we can do something like this in SEKAI☆)
-(Black cut)
+(Black transition)

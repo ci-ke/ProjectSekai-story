@@ -30,7 +30,7 @@ Ichika: Gasp...!
 Ichika: Th-Thank you! Thank you so much!
 Nene: Also you don't have to be so formal with me. I'm guessing we're around the same age so...
 Ichika: Oh, you're right...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -41,7 +41,7 @@ Honami: Did you find what you were looking for?
 Ichika: Yes. I have what I need.
 Saki: That's great! Let's go grab us some souvenirs now!
 Ichika: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Wonder Stage)
 Nene: Teaching her how to sing... Am I even capable of that?
@@ -58,7 +58,7 @@ Emu: Whoa, it's really Rin! Did you get to see our show too?
 Rin: <I did☆ And everyone was brilliant♪>
 Tsukasa: Hmph... It goes without saying that I was the most brilliant of us all, yes?
 Nene: Whatever you say.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Phoenix Wonderland)
 Saki: Man, that was so much fun...!
@@ -81,27 +81,23 @@ Shiho: Thank you. I'll put it in my bag for now.
 Saki: Ah, Shiho! You dropped something.
 Ichika: Is that a ticket? Are you going to see a show?
 Shiho: Gasp...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Iori: Playing in a band as a hobby and doing it professionally are completely different things. You won't make it as a pro unless you absolutely commit to it.
 Iori: Which is why I don't want bandmates who're only playing for fun and don't have the resolve to really take it seriously.
-(White cut)
+(White transition)
 Iori: We have a night performance this weekend. If you're still on the fence, come and see us play before making a decision.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shiho: It's nothing. I got it from someone at work. Don't worry about it...
 Ichika: Oh, okay...
 Saki: Wow... I hope we can hold our own show one day...!
 Honami: Me too! But we'll need a lot more practice before we can even think about it.
 Saki: Urgh... I'll do my best!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000051/bg_a000051.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000051/bg_a000051.webp)
 Saki: Let's visit PXL another day too! I wanna watch Tsukasa perform again!
 Ichika: We should! I really want to hear Kusanagi sing again too...
 Honami: And Emu did say she would continue showing us around next time.
@@ -114,7 +110,7 @@ Shiho: (Which is why I...)
 Shiho: (But...)
 Shiho: ...
 Honami: Shiho...?
-(White cut)
+(White transition)
 (Background change)
 Honami: Shiho, are you okay? You seem a little down...
 Shiho: I'm fine, don't worry about me...
@@ -123,7 +119,7 @@ Shiho: Yes, really. I have to go now so...
 Saki: Oh, okay!
 Saki: See you tomorrow, Shiho!
 Shiho: Yup. Bye then...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Live House]
@@ -134,4 +130,4 @@ Manager: Oh, you're here to see STANDOUT. They've really been getting a lot of a
 Shiho: Thank you, I will...
 Shiho: I'm just here to watch them perform.
 Shiho: That's all...
-(Black cut)
+(Black transition)

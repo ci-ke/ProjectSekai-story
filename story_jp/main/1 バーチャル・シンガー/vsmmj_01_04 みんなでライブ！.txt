@@ -6,7 +6,7 @@ vsmmj_01_04 みんなでライブ！
 
 ミク (MMJ): みんなー！ 今日のライブに来てくれてありがとう！
 リン: 次も最高のライブにするから、楽しみに待っててねー！
-(Black cut)
+(Black transition)
 ミク (MMJ): 今日も盛り上がってよかったね、リンちゃん！
 リン: うん！　新しい歌とダンスもばっちりできて嬉しかったな♪
 ミク (MMJ): 次のライブも、この調子で——
@@ -53,15 +53,15 @@ vsmmj_01_04 みんなでライブ！
 愛莉: ふふ、さすが遥ね
 雫: でも、私もこの４人で歌うと、怖いものなんてないって 気持ちになれるのよね
 みのり: うん、わたしも……。不思議だね
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000020/bg_a000020.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000020/bg_a000020.webp)
 リン: それじゃあ、ライブの準備を始めよっか！ さあ、愛莉ちゃん、ステージにレッツゴー！
 愛莉: ちょ、ちょっとリン！ 急に手を引っ張ったら危ないでしょー！
 遥: それじゃあ、私達もステージの方に行きましょう
 みのり: うん！
 雫: ええ、そうね
-(White cut)
+(White transition)
 (Background change)
 ミク (MMJ): ……ふふ、良かった
 ミク (MMJ): 本当の想いを見つけたみのりちゃん達の笑顔、 すっごくキラキラしてて、まぶしいな！
-(Black cut)
+(Black transition)

@@ -29,7 +29,7 @@ Kohane: I agree. Oh, but... This one looks good, too. It's made with animal-shap
 An: Animal beads? Where'd they even find those?
 An: Wait a second. Maybe they also have beads shaped like musical instruments...?
 Kohane: Good question...! Let's see if they do.
-(Black cut)
+(Black transition)
 An: As for gifts for the others... How about these scented candles? Wouldn't they make for some good souvenirs?!
 Kohane: Wow, these smell so nice. Let's see... This label says “Sweet Pea.”
 An: How about this one...? Lemme see... “Ja-su-mi-ne”... Oh, jasmine! That's what this smell is!
@@ -57,7 +57,7 @@ Kohane: Yeah, and I can't wait to tell them about everything that happened over 
 Kohane: I need to make sure I can properly talk about all the fun things we did and all the stuff we learned while we were over here...
 Kohane: Including SONIC NOTES. I need to see, hear and enjoy as much of it as I can today!
 An: Yeah, I agree!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -80,14 +80,10 @@ Shopper: “Huh? Hey, you...”
 Kohane: Me?
 Shopper: “You're the girl that was singing with illys earlier, right?”
 Kohane: illys... Oh!
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Kohane: (I guess he was there when I sang with Elena and Becky...)
 Kohane: Umm... “Yes, that's right.”
 Shopper: “I knew it! The way you sang was so awesome! I'd love to hear you perform again sometime.”
@@ -101,20 +97,20 @@ An: Yeah, that person's totally your fan! Who would've thought we'd run into one
 Akito: The alleyway you sang in is just over there. Makes sense some of the folks who were coming to the flea market saw you on the way.
 Toya: Which means we may yet run into more of your fans, Azusawa.
 Kohane: I-I'm not so sure about that, but...
-(Black cut)
+(Black transition)
 Kohane: “Wow...! Are these teddy bears handmade?”
 Shopkeeper: “Yes, they are. If you like them, then please feel free to take a closer... Huh? Wait, you're that girl who was singing earlier, aren't you?”
 Kohane: “Huh?”
 Shopkeeper: “I caught a glimpse of your performance during my break. Your voice is so powerful.”
 Kohane: “Th-Thank you very much...!”
-(Black cut)
+(Black transition)
 Shopper: “Hey, you're that girl who was singing over there!”
 Instrument Shop Clerk: “Can you sing something for us?! I'll play something on one of my guitars!”
 Kohane: “U-Uhh...”
 Shopper: “Hey, don't scare her. Sorry about that, Miss. Needless to say, we're all looking forward to the next time we get to hear you sing.”
 Kohane: Oh...
 Kohane: “Thank you!”
-(Black cut)
+(Black transition)
 An: That's amazing, Kohane. Everybody wants to talk to you now.
 Kohane: Hehe... Again, I'm a little surprised.
 Kohane: I guess it shows that Elena and Becky carry a lot of influence around here.
@@ -128,4 +124,4 @@ Akito: You remember we have an event to go to, right?
 Kohane: Hehe. You're probably going to want to sing even more after seeing it.
 An: Absolutely! Can't I just get it out of my system now?!
 Akito: Stop trying to cause a disturbance.
-(Black cut)
+(Black transition)

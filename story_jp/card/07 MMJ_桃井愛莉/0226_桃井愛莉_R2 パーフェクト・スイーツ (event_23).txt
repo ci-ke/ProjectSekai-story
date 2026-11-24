@@ -17,23 +17,19 @@ Skill name: たまには力を抜いて
 愛莉: ……もしかして、今日の配信で疲れてる？ だったら今日はしっかりと休みなさいよ
 雫: ありがとう、愛莉ちゃん。 でも、そうじゃないの……
 愛莉: （……となると、遥のことかしら）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 雫: ——でも、昨日のうちに仕上げてくるのは 大変だったんじゃない？
 雫: 昨日は練習もいつもより長引いちゃったし、 帰るのも遅かったでしょう？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: （今日の配信のあと、心配してたみたいだけど……）
 雫: じゃあ、私はこっちだから。 愛莉ちゃん、また明日ね
 愛莉: あ……ええ。また明日ね！
 愛莉: （まあ、とりあえずは様子見かしらね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -86,7 +82,7 @@ Skill name: たまには力を抜いて
 ルカ: いいのよ。私も雫ちゃん達が気になっていたから
 ルカ: 愛莉ちゃん、雫ちゃん達をお願いね
 愛莉: ええ！　何ができるかわからないけど、 まずはタイミングをみて話を聞いてみるわ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -160,4 +156,4 @@ Skill name: たまには力を抜いて
 愛莉: さて……ちょっと話が長くなっちゃったわね。 そろそろ真面目にストレッチしないと
 遥: そうだね。愛莉、背中押そうか？
 愛莉: いいの？　じゃあ、お願い！
-(Black cut)
+(Black transition)

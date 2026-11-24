@@ -35,7 +35,7 @@
 志歩: まあ……たしかに。 私もちょっと気になるしね
 穂波: それなら、今日の放課後に行ってみない？ セカイで練習したいなって思ってたし
 咲希: さんせー！
-(Black cut)
+(Black transition)
 (Background change)
 咲希: わあ……！
 一歌: 何回見ても綺麗なところだね。 あっちの空が、すごくキラキラしてる
@@ -76,13 +76,13 @@
 ミク (Ln): ここはみんなのセカイだからね。 まずは、４人で見に行ってみて
 ミク (Ln): もし困ったこととか、悩むことがあったら、 私達がいつでも助けに行くから
 一歌: …………うん！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000333/bg_s000333.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000333/bg_s000333.webp)
 一歌: それじゃあ、いってきます！
 ミク (Ln): 楽しんできてね
 一歌: うん……！
 一歌: みんなで行けるところまで、行ってくるよ！
-(White cut)
+(White transition)
 (Background change)
 ミク (Ln): ——どんな場所にたどり着くんだろうね
 リン (Ln): ぜーったい、めちゃくちゃ素敵なとこだよ！ ピカーってして、キラキラーってしたとこ♪
@@ -106,6 +106,6 @@ KAITO (Ln): たしかに……
 ミク (Ln): （けど——私達のやることは変わらない）
 ミク (Ln): （これからもみんなで、 大切に見守っていこう）
 (Background change)
-(White cut)
+(White transition)
 (Video: link_leoneed_bud)
-(Black cut)
+(Black transition)

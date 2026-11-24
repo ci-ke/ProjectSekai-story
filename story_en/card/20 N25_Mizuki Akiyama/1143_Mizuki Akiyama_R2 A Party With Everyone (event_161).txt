@@ -34,15 +34,13 @@ Mafuyu: <She said that she wanted to focus, and has been staying off of Nightcor
 Ena: <Then, I guess we have to wait until she's done making a demo and things have settled down a bit.>
 (Background change)
 Mizuki: <Yup!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mizuki: ...!
 (Background change)
@@ -63,10 +61,8 @@ Mizuki: <Huh? What do you mean?>
 Mafuyu: <I'm sorry, but I have to stop working. I'm hanging up now.>
 (Background change)
 Ena: <No, don't just leave! Tell us what's going on!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (To think Kanade's been working nonstop without eating or sleeping much...)
 Mizuki: (And this isn't even the first time she's done this, it sounds like. She keeps pushing herself way too hard...)
@@ -81,7 +77,7 @@ Mafuyu's Message (Mafuyu): <Yes. Rin and the others will take my place while I'm
 Mizuki: <In that case, can you tell Rin and the others to let me know if anything happens? I'll be home all day!>
 Mafuyu's Message (Mafuyu): <Okay.>
 Mizuki: (Rin got so mad at Kanade for overdoing it, so I'm sure she'll keep a close watch.)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few more days later]
@@ -111,7 +107,7 @@ Mizuki: <Then, we'll throw ourselves a really fun after-party!>
 Mafuyu: <Right... In that case, maybe I'll wrap up early today...>
 Mizuki: <Great! That's just what I wanted to hear!>
 (Background change)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -123,7 +119,7 @@ Mizuki: <Great! That's just what I wanted to hear!>
 Mizuki: Alright, I'm here♪ Now I just need to find the others...
 Miku (N25): Is something the matter, Mizuki...? I thought you and the others were throwing that after-party today.
 Mizuki: Oh, Miku, Rin, perfect timing! I need you two to come with me for a sec!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Diner]
@@ -156,19 +152,19 @@ Kanade: I know this is coming a bit late, but here's to our new song being uploa
 Kanade: Cheers.
 Mafuyu, Mizuki & Ena: Cheers. Cheers!
 Miku & Co.: Cheers.
-(Black cut)
+(Black transition)
 Mizuki: Alright, let's dig in! You guys have as many snacks as you like too!
 Len (N25): <O-Okay. Thanks, Mizuki... Let's eat.>
 Mafuyu: Wait, where are MEIKO and KAITO?
 Luka (N25): <We invited them, but they didn't show up.>
 Luka (N25): <Well, that means more snacks for the rest of us, so I'm okay with it.>
-(Black cut)
+(Black transition)
 Miku (N25): <What are you having, Kanade?>
 Rin (N25): <Something nutritious?>
 Kanade: Umm... I'm having this miso ramen, but I don't know how nutritious it is...
 Kanade: Oh, they do say that fermented foods are good for you. In theory, doesn't that include the miso used for this ramen?
 Mizuki & Ena: I dunno about that. A-Are you sure about that?
-(Black cut)
+(Black transition)
 Mizuki: Oh, Rin, remember that box I gave you? Now should be a good time to open it up.
 Rin (N25): <Okay... I've been waiting for you to give me permission.>
 Ena: Oh, what's inside?
@@ -184,4 +180,4 @@ Miku (N25): <Congratulations, Rin...>
 Rin (N25): *Nod*
 Rin (N25): <Thanks, Mizuki...>
 Mizuki: Hehe. You deserve it. And thanks again for looking after Kanade!
-(Black cut)
+(Black transition)

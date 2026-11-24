@@ -23,7 +23,7 @@ Gacha phrase: ビシバシいっちゃうよ～！
 咲希: え……
 真堂: 詳しい話を先方に伺ってから、改めて相談します。 期待していてください
 一歌: わかりました
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -68,7 +68,7 @@ Gacha phrase: ビシバシいっちゃうよ～！
 リン (Ln): 『いいじゃん！　テンション上がりそう！』
 リン (Ln): 『ねえねえ、他の写真も見ていい？』
 咲希: うん！　アタシのおすすめはね——
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -82,21 +82,17 @@ Gacha phrase: ビシバシいっちゃうよ～！
 咲希: えへへ、今日も頑張っちゃった！ 晩ご飯なあに？
 母親: 今夜はハンバーグよ。 あとは焼くだけだから、ちょっと待っててね
 咲希: はーい！
-(Black cut)
+(Black transition)
 (Background change)
 咲希: ん～……！　疲れた～！
 咲希: （WAVING-BOXに出てから、 みんな気合い入ってるもんね）
 咲希: （すみれさん達の演奏、本当にすごかったし…… アタシ達も頑張らなきゃ！って）
 咲希: （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （みんな、しほちゃんに影響されてるのもあるかも）
 咲希: （この前もらったファンレターでも、 しほちゃんに憧れてベース始めたって子がいたみたいだし……）
@@ -134,4 +130,4 @@ Gacha phrase: ビシバシいっちゃうよ～！
 咲希: あ……はーい！　すぐ行くね！
 咲希: （なんだか、元気を貰っちゃったな）
 咲希: （手紙の続きは、またあとでゆっくり読もうっと♪）
-(Black cut)
+(Black transition)

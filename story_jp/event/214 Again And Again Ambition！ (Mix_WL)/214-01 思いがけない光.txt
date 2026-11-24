@@ -9,10 +9,10 @@
 KAITO: …………！　みんな、静かに！ 今、木から何か聞こえたよ
 MEIKO: （この声は——）
 ミク: もしかして、セカイとセカイが——
-(White cut)
+(White transition)
 (Background change)
 MEIKO: きゃっ……！！
-(White cut)
+(White transition)
 (Background change)
 MEIKO: ……？　おさまった……？
 MEIKO: ……今のはなんだったのかしら。 ねえ、ミク——
@@ -27,7 +27,7 @@ MEIKO: え——
 愛莉・寧々・絵名・彰人: 『ええ！？』 『はぁ！？』
 MEIKO: これは——
 MEIKO: ……なんだか、すごいことが起きたみたいね
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -43,10 +43,8 @@ MEIKO: ……なんだか、すごいことが起きたみたいね
 絵名: まあ、それはね。 ミク達のこととか、思いっきり話せるわけだし
 愛莉: でしょ？
 愛莉: でも——せっかく会えたのに、 あんな突然帰されることになるなんてね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 多分、これは——
 MEIKO: みんなの想いが強くなったから 起きた現象なんじゃないかって思うの
@@ -61,10 +59,8 @@ MEIKO: でも、会えて本当に嬉しいわ。 私はセカイの私達と違
 MEIKO: そこは私にもわからないのよね。 だけどきっと、何か理由が——
 MEIKO: え……！？
 寧々: 木が——わっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……で、結局よくわかんないまま、帰ってきちゃったんだよね
 絵名: もう少し、あのメイコと話してみたかったのにな
@@ -127,7 +123,7 @@ MEIKO (MMJ): 『ええ！　もしまたあっちのわたしに会えたら、 
 愛莉: ふふっ。会えたら伝えておくわ！
 MEIKO (VBS): 『——ふふ、何もわからないままだけれど……。 たくさん仲間がいることがわかったのはよかったわ』
 MEIKO (VBS): 『みんな、改めてこれからよろしくね』
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -140,7 +136,7 @@ MEIKO (VBS): 『みんな、改めてこれからよろしくね』
 ？？？: ——あれ？　彰人先輩？
 彰人: ん？　あ……
 ？？？: ……やっぱり彰人先輩だ！ 覚えてますか？　中学でお世話になった大輝です！
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ？？？のセカイ)
 MEIKO: ……はぁ。やっぱり、光らないわね
@@ -153,4 +149,4 @@ MEIKO: ……なんて言っているのかしら。 ノイズが酷くて、よ
 MEIKO: ……！ これは……！？
 (Background change)
 MEIKO: きゃ……！！
-(Black cut)
+(Black transition)

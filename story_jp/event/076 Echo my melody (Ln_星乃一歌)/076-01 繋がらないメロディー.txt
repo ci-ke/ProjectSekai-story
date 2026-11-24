@@ -7,30 +7,26 @@
 [一歌の部屋]
 
 一歌: ……これでどうかな？ ミクに歌ってもらって——
-(Black cut)
+(Black transition)
 (Background change)
 ミク: ♪————
-(Black cut)
+(Black transition)
 (Background change)
 一歌: ……やっぱり、違う。 イメージどおりの曲にならないな……
 一歌: ごめんね、ミク。 曲を作り始めてから、もう結構経つのに ちゃんとした歌を歌わせてあげられなくて
 一歌: 咲希は、あんなすごい曲を作れるのに、私はまだ——
 一歌: ——ううん。焦ったってしょうがない。 それに元々、簡単にできるなんて思ってなかったし
 一歌: 私は、私のペースで自分の納得いく曲を作ろう。 それで——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): ♪————
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 一歌: あの時みたいに、一緒に歌うんだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -65,17 +61,13 @@ KAITO: ……別に、宣伝ならライブにこだわらなくても いいん
 一歌: えっ？
 咲希: あっ、そっか！ 『たくさんの人に聴いてもらう』ってことだけなら、 前にしほちゃんが言ってた方法もあるよね！
 穂波: 志歩ちゃんが言ってた方法……って
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: うん。プロになるにはいろんな道があるけど……。 いずれにせよ、できるだけたくさんの人に 聴いてもらえたほうがいいからね
 志歩: 活動するライブハウスを増やしたり、 バンドのアカウント作って動画をアップしたり……。 やりかたはいろいろあると思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: そっか、動画……！
 咲希: ついについに、 Leo/need公式アカウント誕生の時がきた～！？
@@ -104,19 +96,15 @@ KAITO: ……別に、宣伝ならライブにこだわらなくても いいん
 一歌: （あ……）
 一歌: （咲希は本当に、いつも楽しそうに曲を作ってるな）
 一歌: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （……簡単じゃないよね。 この前の曲だって、あんなに苦労して作ってたんだから）
 一歌: （……私も曲が作れるようになれば、 咲希にばっかり負担をかけなくて済むはずだよね）
 一歌: （でも、まだ１曲も納得できるものが作れてないし、 今のままじゃ、みんなに貢献できない……）
 一歌: （……とりあえず、今作ってる曲をちゃんと仕上げよう。 それで、納得できる曲ができたら言おう）
 一歌: （——私も、曲を作ってみたんだ、って）
-(Black cut)
+(Black transition)

@@ -35,14 +35,14 @@
 リン: レン、今のいい感じ！
 レン: リンもすごいじゃん！ よし、次はもっといくぞ！！
 レン・リン: 『——♪　——～～～～♪』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000344/bg_s000344.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000344/bg_s000344.webp)
 リン: ねえねえ、今のハモリすっごくよかったよね！
 レン: うんうん！　チームワークばっちりって感じ！ みんながいつ来ても大丈夫だね！
 レン: ……こっちのオレ達も、最初からいい相棒だったんだ
 レン: （だから、彰人達のことも 力を合わせて支えてこれたんだろうな）
 レン: （これなら、ふたりに任せておけば この先も大丈夫だね！）
-(Black cut)
+(Black transition)
 (Background change)
 リン: はあ、はあ……
 レン: いっぱい歌ったら、なんだか喉渇いちゃったな……
@@ -52,7 +52,7 @@
 リン: もしかしたら、もう準備終わってるかも！
 レン: （そういえば、メイコは何してるんだろ？ 一緒にこのセカイに来てたはずだけど……）
 レン: （もしかしたら、カフェにいるのかな。 行ってみよう！）
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: あ、いらっしゃい
 リン: こんにちはー！
@@ -75,6 +75,6 @@ MEIKO: これからあの子達がちゃんと出会って 本当の想いを叶
 MEIKO: ええ、そうね！
 レン: ……オレも、みんなを見守ってるから このセカイで、あの子達みんなを支えてね
 レン: 頼りにしてるよ、オレ！
-(Black cut)
+(Black transition)
 (Video: link_ppr_ed4)
-(Black cut)
+(Black transition)

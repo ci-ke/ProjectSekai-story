@@ -14,7 +14,7 @@ KAITO: せっかくだし、どこかのセカイをのぞきに——
 KAITO: ん？　これは……
 KAITO: 想いの欠片だ。 でも、すごく強い想いを感じる……
 KAITO: これも何かの縁かもしれないし、 少し想いに触れさせてもらおうかな
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -68,7 +68,7 @@ KAITO: （とにかく手掛かりを探して——）
 少年: うっ……！
 KAITO: …………！
 KAITO: 君、大丈夫かい！？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -94,10 +94,8 @@ KAITO: これは、想いの欠片……
 KAITO: そうか。 あの子の想いが強まって、あふれだしてきたんだ
 KAITO: （この欠片を通じて、 あの子の想いに触れられるかもしれない）
 KAITO: （本当は本人と話して、ちゃんと聞きたかったけど—— ごめん、触れさせてもらうね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 少年: ……悪い、こんな大事な時に
 チームメイトA: バカ、謝んな。お前は悪くねえよ
@@ -106,16 +104,14 @@ KAITO: （本当は本人と話して、ちゃんと聞きたかったけど—�
 チームメイトC: ……信之。 コートで待ってる
 チームメイトD: 俺達を信じろ！ 俺達も、お前のこと信じて待ってるからさ！
 少年: ……わかった。絶対に戻ってみせる。 それまで、チームを頼む
-(Black cut)
+(Black transition)
 母親: ……あの、先生。 今……なんて……
 医者: バスケはできるようになります……趣味の範囲でなら。 ですが、競技者として激しいプレイができるようになるのは 難しいかもしれません
 少年: …………っ
 少年: ……難しいだけで、不可能じゃないんですよね
 少年: 先生。俺は、どうすればコートに戻れますか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: そうか……。 チームメイトとの約束を守るために……
 KAITO: （チームのキャプテンも務めているみたいだし……。 ケガをしたことも含めて、かなり責任を感じているんだろうね）
@@ -124,8 +120,8 @@ KAITO: （そのうえ、簡単に復帰できる状況でもないなんて…�
 少年: あいつらなら、次もきっと勝ってくれる。 だから俺も、早く……早く、あいつらのところに——
 KAITO: ……その想いは、ひとりで抱え込むには さすがに大きすぎるんじゃないかな
 KAITO: ——そういう時こそ、僕達の出番だ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000236/bg_s000236.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000236/bg_s000236.webp)
 KAITO: ♪————……
 KAITO: （大切な仲間との、大切な約束だ。 絶対に守りたいよね）
 KAITO: （前みたいなプレイは難しいって言われて、 きっとすごくショックだったと思う……）
@@ -136,7 +132,7 @@ KAITO: ♪————！　♪————～～！！
 KAITO: （君の仲間達が、君なら絶対に戻ってくるって 信じてくれているように）
 KAITO: ♪————！　♪————～～！！
 KAITO: （——お願いだ。届いてくれ……！）
-(White cut)
+(White transition)
 (Background change)
 少年: …………これ、歌？
 KAITO: ……よかった。 ちゃんと届いたみたいだね
@@ -168,7 +164,7 @@ KAITO: あ……。もう少し話したかったけど、 そろそろお別れ
 KAITO: じゃあね、信之くん。 さっき言ったこと、忘れないでほしいな
 少年: 俺の名前、なんで……！？
 KAITO: ふふ。そばで見守っているから、無茶しないようにね
-(White cut)
+(White transition)
 (Background change)
 
 [病室]
@@ -182,24 +178,20 @@ KAITO: ふふ。そばで見守っているから、無茶しないようにね
 少年: は、はい……
 少年: はあ……。また怒られた……
 少年: ……あれ、また？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: 話の前に、まず座って。 はい、ボールも置く！
-(White cut)
+(White transition)
 ？？？: 君を信じて待ってる仲間達だって、 こんな無茶してるって知ったら、さすがに怒るんじゃないかな
-(White cut)
+(White transition)
 ？？？: 歌はいろいろな人の心に寄り添ってくれるんだ
 ？？？: 勇気がほしい人には勇気を、 不安な人には安らぎを与えてくれる——
 ？？？: 僕でよければ いい歌もたくさん知っているし、歌えるよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 少年: ……そうだ。バーチャル・シンガー……
 少年: 名前は知ってたけど、ちゃんと聴いたことなかったな
 少年: たしか、あの人の名前は——
-(White cut)
+(White transition)

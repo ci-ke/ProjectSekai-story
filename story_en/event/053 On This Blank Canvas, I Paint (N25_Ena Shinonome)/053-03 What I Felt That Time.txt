@@ -6,16 +6,12 @@
 
 Ena: (That was the last time I went to that class...)
 Ena: (Mom got so mad at me after she found out that I quit without really saying anything.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Yukihira: I have nothing to say to you, Shinonome...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: ...
 Ena: (No, I'm not his student anymore. Anyway, that reference book should be around here somewhere...)
@@ -30,16 +26,12 @@ Ena: (His spring workshop... It's already that time of year, huh?)
 Ena: (I might be able to find a way to get better if I go back...)
 Ena: (Despite everything I've said about him, Mr. Yukihira's a great teacher. I mean, many of his students got into Tokyo Art University...)
 Ena: (Still...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Everyone else will have improved leaps and bounds by now. So much so that I'd stick out like a sore thumb...)
 Ena: (After I quit, everyone started giving me these looks...)
@@ -48,14 +40,14 @@ Ena: (Ugh... Just thinking about it makes me sick...)
 Ena: ...
 Ena: (I know I should go... I stand to learn so much...)
 Ena: But it'd make me seem so desperate...
-(Black cut)
+(Black transition)
 
 [The next day]
 
 Ena: *Sigh*
 Ena: (I need to wrap up my rough draft soon... I've made the others wait long enough as it is...)
 Ena: (But if I try doing that now...)
-(Black cut)
+(Black transition)
 Ena: ...
 Ena: (No, this isn't it... It's like I'm getting further and further away from the image in my head...)
 Ena: I need a break...
@@ -77,15 +69,11 @@ Mizuki: <Especially since you're doing the same for me.>
 Mizuki: <At the same time, I'm sure you'll feel better if you talk about it, so just let me know when you feel you're ready!>
 (Background change)
 Ena: <Mizuki...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Mizuki's right...)
 Ena: (I said that I'd wait and be there to listen. It wouldn't make sense for me to clam up and not reciprocate that.)
@@ -93,7 +81,7 @@ Ena: (Alright...)
 (Background change)
 Ena: <You really won't mind hearing this...?>
 Mizuki: <Nope! Lay it on me...!>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <Wait, you think you're not good enough...?>
 (Background change)
@@ -160,15 +148,11 @@ Ena: <I do...?>
 (Background change)
 Mizuki: <Yeah. You said that you weren't sure you ever liked going there, but you got to do all these things that you'd never get to do in school.>
 Ena: <Okay, you're not wrong about that...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Oh...)
 Ena: (I guess there were some fun moments along the way.)
@@ -188,4 +172,4 @@ Ena: <Thanks...>
 (Background change)
 Mizuki: <Don't mention it. That's what friends are for, right?>
 (Background change)
-(Black cut)
+(Black transition)

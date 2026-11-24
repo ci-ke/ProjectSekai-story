@@ -2,7 +2,7 @@
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [劇場]
@@ -14,7 +14,7 @@
 寧々: （わたし今、憧れの場所にいるんだよね）
 寧々: （——しっかり、目に焼きつけなくちゃ）
 寧々: （ひとつ残らず、全部……！）
-(Black cut)
+(Black transition)
 マーガレット: 『ここが、ブロードウェイ……！ ああ、キラキラしてて夢みたい……！』
 マーガレット: 『でも、夢じゃ終わらせないわ！ 私も絶対、このステージに立ってみせるんだから！』
 マーガレット: 『——♪　——～～♪』
@@ -22,20 +22,16 @@
 寧々: （華やかな声…… 声を出すたびに、ステージが色づいて……）
 寧々: （マーガレットを中心に、ステージが息をしてるみたい）
 寧々: （これが、スターのオーラなんだ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 オリビア: 『簡単じゃないよ。あの場所に立つのは』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: …………
 寧々: （ここが、わたしが目指す場所——）
-(Black cut)
+(Black transition)
 魔女見習い: 『フフフッ、みすぼらしい衣装で恥をかきなさい！』
 マーガレット: 『まあ……！　なんて前衛的なの！ このビリビリの袖なんて、刺激的で最高！』
 魔女見習い: 『なんですって！？』
@@ -51,7 +47,7 @@
 類: （けれど、演出だけでこの臨場感は生まれない——）
 司: （全身全霊で、この世界を…… ステージの上を生きている）
 司: （……これが、本物の……）
-(Black cut)
+(Black transition)
 マーガレット: 『……あら？　音楽が流れない……どうして？』
 寧々: （……いよいよ、クライマックスだ）
 寧々: （夢を叶えるための大事な舞台なのに、 魔法で音楽を止められて——）
@@ -62,22 +58,22 @@
 寧々: （勇気を出して、歌いだすんだ……！）
 マーガレットの声: 『♪————～～～～～～～～！』
 寧々: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000638/bg_s000638.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000638/bg_s000638.webp)
 寧々: （すごい……）
 寧々: （すごい…………っ！）
 寧々: （会場が、震えてるみたい……）
 寧々: （絶対夢を叶えるんだって…… マーガレットの想いが、痛いくらい伝わってくる）
 寧々: （魔法にかかったみたいに……目が、離せない）
 寧々: キラキラしてる……
-(White cut)
+(White transition)
 (Background change)
 寧々: （……まだ、本当に遠いけど——）
 寧々: （わたしもいつか、こんな風に歌いたい……！）
 寧々: （このステージで、世界中を惹きつける歌を）
 寧々: （そして——）
 寧々: （マーガレットみたいに、たくさんの人に 勇気を届けられたらいいな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [終演後]
@@ -115,4 +111,4 @@
 類: ——『次回作、“Wonder!”のオーディションについて』
 寧々: えっ……
 司: ……『Wonder!』……？
-(Black cut)
+(Black transition)

@@ -29,7 +29,7 @@ Tsukasa: Hah hah hah! Thank you! I couldn't be happier to be receiving such warm
 Tsukasa: I would love to have a lively chat about the occasion, but shouldn't you all be heading off to lunch before the break ends?
 Hall Monitor A: Oh, you're right. Thanks again, Tenma. We'll be off to lunch!
 Hall Monitors: Thank you!
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: Now then, I should be getting to lunch myself. The weather's nice today. Perhaps I should go outside to...
 An: Oh! Perfect, Tenma, you're here!
@@ -44,7 +44,7 @@ Tsukasa: But that's neither here nor there. I appreciate you letting me know, Sh
 An: O-Of course...
 Tsukasa: I'll get it off the ground and bring it to... Hm? It's moving?!
 Tsukasa: H-Hey! Wait! Where are you going?! More importantly, don't run in the corridor!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rooftop]
@@ -65,7 +65,7 @@ Nene: *Sigh* You're always so overdramatic.
 Mizuki: C'mon, let's eat instead of just standing around talking. How's about we have a birthday luncheon?!
 An: Sounds great! Let's grab our lunches and gather back here! You too, Tenma!
 Tsukasa: Yes, I'll bring it right away! That said, nobody get any ideas about running in the corridor, understood?
-(Black cut)
+(Black transition)
 Tsukasa: What?! You were planning my surprise that far in advance?
 Rui: Yes, at Aoyagi's request.
 Toya: That's right. I was asking around a bit... I wondered what sort of gift would befit you.
@@ -96,7 +96,7 @@ Tsukasa: It had better not be one of your contraptions that explodes! An explosi
 Rui: Oh? I felt that something extravagant and memorable would be fitting for the occasion...
 Tsukasa: So it is going to explode!!!
 An, Toya & Mizuki: Hahaha! Hehe.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -123,7 +123,7 @@ Mother: Hehe. She's been getting practice in whenever you weren't around.
 Father: And I've been giving lots of assistance as a taste tester.
 Tsukasa: Wh?! You ate Saki's ginger fried pork before I could! That isn't fair, Dad!
 Saki: Hehe. I think today's is my best yet, so get those hopes up♪
-(Black cut)
+(Black transition)
 Saki: Okay, Tsukasa, here you go!
 Tsukasa: Thank you. Now then, I'll take a bite...!
 Saki: H-How is it?
@@ -137,7 +137,7 @@ Saki: Oh, that reminds me! Hey, Tsukasa!
 Tsukasa: Hm? What is it?
 Saki: Well, I recorded some birthday messages for you! Wanna watch them, maybe once we're done eating?
 Tsukasa: Ah, how exciting! Please show me!
-(Black cut)
+(Black transition)
 (Background change)
 Ichika: <Happy birthday, Tsukasa!>
 Shiho & Honami: <Happy birthday!>
@@ -150,14 +150,14 @@ Saki's Voice (Saki): And that was your message from Ichi and the girls!
 Tsukasa's Voice (Tsukasa): I need to thank them later! I couldn't be happier to receive such heartfelt words.
 Saki's Voice (Saki): I know, right? But... You still haven't seen the special guests!
 Tsukasa's Voice (Tsukasa): Special guests?
-(Black cut)
+(Black transition)
 Emu: <Tsukasa! Happy wonderhoy birthday!>
 Kohane: <W-Wonderhoy...!>
 Emu: <You're just gonna keep leveling up from today on! I can't wait to watch you turn into a shinier and shinier star!>
 Emu: <Let's keep bringing lots of energy and do our best☆>
 Kohane: <U-Um... I'm always cheering for you all as your number one fan.>
 Kohane: <It's a shame I can't see you perform for a while, but I'm looking forward to the day you return from your training even closer to achieving your dreams. P-Please do your best...!>
-(Black cut)
+(Black transition)
 Shizuku: <Oh, birthday messages are such a wonderful idea.>
 Shizuku: <Are you watching, Tsukasa? Happy birthday.>
 Minori: <Um, uhh, I hope you have a very happy birthday!>
@@ -170,7 +170,7 @@ Airi: <Us idols and you the actor, we're all pursuing a dream! Let's give it our
 Saki: And that was the last of the messages... Wait, Tsukasa, are you crying?!
 Tsukasa: I'm sorry! Their messages were full of so much warmth that I feel hot water dripping from my eyes...!
 Saki: Hahaha! I'll send you the video later, so watch it as many times as you want!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Tsukasa's Room]
@@ -183,7 +183,7 @@ Tsukasa: Hm?
 Tsukasa: Ah, Miku, it's you. I can, but what brings you here?
 Miku (WxS): <Hehe, so, I want you to come to SEKAI... Can you do that?>
 Tsukasa: To SEKAI?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -202,8 +202,8 @@ Rin (WxS): Okay, c'mon, sit! Our exciting show is about to start☆
 Tsukasa: Everyone...
 Tsukasa: Thank you! I'll fully indulge in this gesture you've all prepared!
 Tsukasa: ... This really is a great day!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000310/bg_s000310.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000310/bg_s000310.webp)
 Saki: Happy birthday, Tsukasa!!!
 Ichika: Saki's really happy about you liking her ginger fried pork. I can picture you savoring the flavor now.
 Honami: She was still worried it might not turn out on the day of your birthday, so I was glad to hear that it went over well.
@@ -228,10 +228,10 @@ Nene: Maybe you didn't get to test it on his birthday, but you're still going to
 Rui: Of course. This is something very special I devised just to help our troupe leader shine.
 Nene: Shining sounds fine... I just hope it doesn't involve explosions.
 Emu: Hehehe, I can't wait to see sparkly Tsukasa☆ Let's keep bringing more joy as Wonderlands×Showtime! We'll be counting on you, Tsukasa!
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: Everyone! Thank you for celebrating my birthday with me!
 Tsukasa: This soaring pegasus will shine ever brighter for the blessings he's received!
 Tsukasa: And with this light you've given me, I promise to make your smiles even more vibrant!
 Tsukasa: Wonderlands×Showtime and Tsukasa Tenma, future star! Please keep an eye on where we go from here!
-(Black cut)
+(Black transition)

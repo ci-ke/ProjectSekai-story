@@ -15,16 +15,12 @@
 大河: あいつらが“次の世代”だとしたら、 知る必要があるからな
 大河: だが……話したのは軽くだ。 あとはお前の仕事——だろ
 杏の父: ……ああ。そうだな
-(Black cut)
-(White cut)
-
-(Memory cut-in)
-
+(Black transition)
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………
 新: …………
@@ -61,16 +57,12 @@
 達也: だが……今日初めてわかった
 達也: 戦うって考えるだけで動けなくなるくらい、圧倒的な…… 絶対的な相手がいるってことをな
 こはね: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ……怖い……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………
 達也: それに、もしも—— もしも、いつか大河さんを超えることができても……
@@ -122,7 +114,7 @@
 杏の父: ——店で、ちゃんと話したい
 杏の父: 彰人、冬弥、それに嬢ちゃんも…… すまないが、一緒についてきてくれ
 杏の父: 今日、すべて話そう。 ——RAD WEEKENDの裏にあった……すべてを
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -139,20 +131,16 @@
 杏の父: オレ達が３人で組むようになったのは、中学の頃だった
 杏の父: オレと大河は同じ中学でな。 当初は反りが合わなかったが…… あいつの歌がきっかけで、この街でよくつるむようになった
 彰人: （あ……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: それで俺が路上で歌ってる時に、謙がとおりかかって…… いつものつまんなそうな顔を向けやがるから、ついカッと来てよ
 大河: あの野郎——無視してんじゃねえ、こっちを見ろ！ お前にはこんくらい、本気になれるもんはねえのかよ！って
 大河: そんな風に思って、腹の底から全力で歌った
-(White cut)
+(White transition)
 大河: それがかなり効いたみたいでな。 あいつの目に火がついた瞬間が、俺にもわかった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あの時のことか……）
 杏の父: で、ケンカして歌ってケンカして……ってやってる中で、 オレは、凪と出会った。 ある日突然、大河のうしろにくっついてきたんだ
@@ -171,4 +159,4 @@
 杏の父: そのイベントで注目されるようになって、 メジャーレーベルに声かけられて、音楽事務所に入ることになった
 杏の父: それでようやくプロの仲間入り……となったんだが、 ……そこからがまた、大変だったな……
 杏: …………
-(Black cut)
+(Black transition)

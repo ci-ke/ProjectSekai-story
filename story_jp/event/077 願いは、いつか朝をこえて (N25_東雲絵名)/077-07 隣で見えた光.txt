@@ -145,8 +145,8 @@
 まふゆ: 何かするの？
 絵名: あーうん。でもあんたはそのまま作業してていいから
 まふゆ: ……？　わかった
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000136/bg_s000136.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000136/bg_s000136.webp)
 絵名: （今の顔……。 さっきの石膏像みたいな顔とは全然違った）
 絵名: （まふゆの想い——意志が、ちょっとだけ見えた気がする）
 絵名: （やりたいことを真剣にやろうっていう、そんな表情）
@@ -154,7 +154,7 @@
 絵名: （やっぱり——さっきの…… “みんなと曲を作りたい”っていうのが関係してるのかな）
 絵名: （誰に言われたからじゃない。 まふゆ自身がやりたいって思ったことだから……）
 絵名: （だったら——）
-(White cut)
+(White transition)
 (Background change)
 絵名: ……できた
 (Background change)
@@ -179,4 +179,4 @@
 絵名: ていうか、合ってるかわかんないんだからね！ 私がそう見えたってだけで！
 まふゆ: ……そうなんだ……
 絵名: ほら、もういいから作業続けよ！
-(Black cut)
+(Black transition)

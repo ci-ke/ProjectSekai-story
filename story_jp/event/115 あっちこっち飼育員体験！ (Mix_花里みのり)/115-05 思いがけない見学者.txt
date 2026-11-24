@@ -46,13 +46,13 @@
 ハシビロくん: ………………
 みのり: ……なんだろう。 何か言いたそうな顔してる気がするんだ
 ルカ (MMJ): 『あら、ごめんなさい』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000258/bg_s000258.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000258/bg_s000258.webp)
 ルカ (MMJ): 『まだはじめましての挨拶もしていないのに、 こんなことを言うのは失礼だったわよね』
 ルカ (MMJ): 『私は巡音ルカよ。こうして会えて嬉しいわ。 よろしくね、ハシビロさん』
 ハシビロくん: …………、……
 みのり: えっ……！？
-(White cut)
+(White transition)
 (Background change)
 みのり: い、今…… ハシビロくんもペコッておじぎしなかった？
 ルカ (MMJ): 『たしかに…… そんな仕草をしているように見えたわ』
@@ -84,7 +84,7 @@
 ハシビロくん: ………………
 ハシビロくん: …………、……
 みのり: わあ…………！！！
-(Black cut)
+(Black transition)
 
 [草原地帯エリア]
 
@@ -113,4 +113,4 @@
 志歩: わかりました
 みのり: 中澤さん、ありがとうございました！
 (Background change)
-(Black cut)
+(Black transition)

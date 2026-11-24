@@ -31,7 +31,7 @@ MEIKO (MMJ): 池の周り、滑るみたいだから転ばないようにね
 遥: ありがとう。 大丈夫……だけど、思ったより絡まってるみたいで……
 遥: え……？ この光は……？
 KAITO (MMJ): 遥ちゃん？
-(White cut)
+(White transition)
 (Background change)
 子供達の声: 『おねえさん、きょうは、ほんとうに、 ありがとうございました！！』
 遥: 子供の、声……？
@@ -40,15 +40,11 @@ KAITO (MMJ): 遥ちゃん？
 遥: え……
 お姉さん: みんなのにっこにこの顔を見て、 私も、い～っぱい元気もらっちゃったよ！
 遥: っ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: お姉さん……！？
 男の子: おねえさんのうた、ぼく、だいすきだよ！
@@ -82,7 +78,7 @@ KAITO (MMJ): 遥ちゃん？
 お姉さん: ふふっ……私が見込んだとおりだな
 お姉さん: ——明日をがんばる元気、もらっちゃった！
 遥: あ……
-(White cut)
+(White transition)
 (Background change)
 遥: ……っ！ ここは——
 MEIKO (MMJ): な、なんだったのかしら、今の光……
@@ -95,16 +91,16 @@ MEIKO (MMJ): 今の？
 KAITO (MMJ): えっ？
 MEIKO (MMJ): ……大丈夫？ もしかして、今の光で、目が——
 遥: あ、ううん、そうじゃなくて。 実は——
-(Black cut)
+(Black transition)
 KAITO (MMJ): 遥ちゃんの憧れのお姉さんが、 この前の番組を見てくれてたところが見えた……？
 遥: ……はい。 私の都合のいい夢……なのかもしれないけど
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000312/bg_s000312.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000312/bg_s000312.webp)
 遥: でも——嬉しかったんです。 お姉さんが、『私に元気をもらった』って言ってくれて
 遥: 私の届けた希望が電波に乗って、 遠くのお姉さんにまで届いた——
 遥: そう思ったら…… やってきてよかったな、って
 MEIKO (MMJ): 遥ちゃん……
-(White cut)
+(White transition)
 (Background change)
 KAITO (MMJ): 都合のいい夢なんかじゃないと思うな
 遥: え……
@@ -135,15 +131,11 @@ KAITO (MMJ): うん。まだみんなのことを知らない人達にも、 い
 KAITO (MMJ): あ、飛んでいっちゃうね
 MEIKO (MMJ): 遥ちゃんのおかげで、ツタは取れたけど…… 蜜が吸いたかったわけじゃないのかしら？
 遥: （……そっか。この蝶の羽——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （お姉さんの衣装に似てるんだ）
 遥: ……また、助けられちゃいましたね
@@ -151,6 +143,6 @@ MEIKO (MMJ): 遥ちゃんのおかげで、ツタは取れたけど…… 蜜が
 遥: （見ていてください。 私はお姉さんからもらった希望をみんなに届けながら、 夢に向かって、もっともっと進んでいきます）
 遥: （そしていつか、私達の夢——ドームライブで）
 遥: （笑顔のお姉さんに……会えたらいいな）
-(Black cut)
+(Black transition)
 (Video: link_idol_ed2)
-(Black cut)
+(Black transition)

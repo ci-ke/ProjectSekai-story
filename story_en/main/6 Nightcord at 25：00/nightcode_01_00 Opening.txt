@@ -8,14 +8,14 @@ nightcode_01_00 Opening
 (Fullscreen text): Mom's health wasn't great, so dad gave it to her as a present. He'd composed the song himself.
 (Fullscreen text): Dad's songs were always gentle and heartwarming. Anyone who listened to them felt happy.
 (Fullscreen text): I wanted to become a composer like my dad. To write songs that would make people happy. But...
-(Black cut)
+(Black transition)
 (Background change)
 (Fullscreen text): He won't compose another song ever again.
-(Black cut)
+(Black transition)
 (Fullscreen text): And it's all my fault...
-(Black cut)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(Black transition)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
 Young Kanade (Kanade): Dad...
 Young Kanade (Kanade): My songs hurt him. It was my fault...
 Young Kanade (Kanade): I stole music from him.
@@ -24,7 +24,7 @@ Young Kanade (Kanade): So I must become a composer who can write songs that will
 Young Kanade (Kanade): Anyone.
 Young Kanade (Kanade): I must compose... I must compose...
 Young Kanade (Kanade): I must never stop...composing...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Two years later]
@@ -77,7 +77,7 @@ Miku (N25): When you do, please help her. She's so close... Closer than you thin
 Kanade: Hold on a minute... I really have no idea what you're talking about.
 Miku (N25): I'm out of time. It's up to you now, Kanade.
 Miku (N25): It's up to you to save her.
-(White cut)
+(White transition)
 Kanade: !!
 (Background change)
 (Place: Kanade's Room)
@@ -89,13 +89,13 @@ Kanade: Right. I was DM'ing with Yuki.
 [Yuki]: <Rest well. See you tomorrow.>
 Kanade: The timestamp's from a while ago... I can't believe I slept for so long.
 Kanade: Am I getting enough sleep? I guess I could take a nap...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
 (Background change)
 Kanade: ...No.
 Kanade: I must never stop composing.
 Kanade: Until I make a song...that can save someone.
-(Black cut)
+(Black transition)
 (Video: school_refusal_opening)
-(Black cut)
+(Black transition)

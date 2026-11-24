@@ -10,7 +10,7 @@ Airi: All that time I spent on variety shows meant for kids is really paying off
 Airi: ...
 Airi: Everything I did, everything I went through... None of it was a waste.
 Airi: Alright...! Let's keep this up!! Here comes Lovely Airi!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -64,7 +64,7 @@ Airi: Still, I appreciate it. Also, how would you guys feel about seeing what Mi
 Haruka: Sure, why not? They might even give us ideas that we never would've thought of.
 Shizuku: Shall we head over then?
 Minori: Yeah!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -75,19 +75,19 @@ Airi: Alright, we're here. Oh, there aren't any shows happening right now. I won
 Shizuku: Hm? There's a boy here...?
 Minori: Wait, could it be...?!
 Haruka: I think they're over there somewhere. Let's go take a look.
-(Black cut)
+(Black transition)
 Len: We'll run up from the sides while high-fiving everyone, meet in the middle and finish in this pose.
 Len: Wouldn't it look a lot cooler if we did that? In a way, we'd be reuniting.
 Rin: Grrr... It makes too much sense...!
 Minori: Aha! I knew it! It's Len!! Rin's here too! Hi!
 Rin: Oh, Minori! Welcome!
 Len: Minori...? That means you're the girls who made this SEKAI. Rin's told me all about you.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000096/bg_a000096.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000096/bg_a000096.webp)
 Len: It's nice to finally meet you. My name is Kagamine Len, and I'm looking forward to working with you.
 Minori: H-His idol aura is so strong...!
 Shizuku: He has such a sparkling smile too. He's just like a knight in shining armor on his valiant steed.
-(White cut)
+(White transition)
 (Background change)
 Haruka: I'm not sure about the steed part, but I'm sure he works hard every day to maintain his image as an idol.
 Minori: Every day... He seems so amazing already...!
@@ -119,7 +119,7 @@ Len: No, don't worry about that. I'm sure both our events will go better if we a
 Rin: Yeah! I wanna help too♪
 Rin: But you said it's gonna be at an elementary school. How does that work?
 Airi: Alright, then let's get right to it! The school that contacted us about this is actually about to be closed down...
-(Black cut)
+(Black transition)
 (Background change)
 Airi: Whew... We really chatted up a storm!
 (Place: Miyamasuzaka Girls Academy - Rooftop)
@@ -144,4 +144,4 @@ Email: <To Airi!>
 Airi: (Hehe. They really went out of their way to write this for me. I couldn't be happier.)
 Airi: (Let's see what they said...)
 Airi: Oh...
-(Black cut)
+(Black transition)

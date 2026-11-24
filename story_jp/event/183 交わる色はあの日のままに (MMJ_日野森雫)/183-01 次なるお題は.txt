@@ -41,18 +41,14 @@ LUMINAグランプリの番組企画で、他のグループと合同ライブ�
 雫: ——ええ！
 雫: （……私も、もっと頑張らなきゃ）
 雫: （あの言葉を、嘘にしないためにも）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: 今度こそ、私の輝きでみんなを—— MORE MORE JUMP！を導いてみせる
 雫: だから、アリサちゃんにも負けないわ。 ——絶対に
 アリサ: …………！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （アリサちゃん達に追いつけるように…… いえ、追い越せるように）
 雫: （私にできることを全部やって、勝ち上がってみせる！）
@@ -66,7 +62,7 @@ LUMINAグランプリの番組企画で、他のグループと合同ライブ�
 みのり: かなりハードって、どんなことするんだろう……？
 雫: わからないけど……どんな課題でも やることは変わらないわ
 遥: うん。見てる人達に希望を届けられるように、 精一杯頑張ろう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -135,4 +131,4 @@ LUMINAグランプリの番組企画で、他のグループと合同ライブ�
 司会: 皆さん、モニタにご注目ください！ Aのグループは——
 司会: こちらです！
 雫: えっ——
-(Black cut)
+(Black transition)

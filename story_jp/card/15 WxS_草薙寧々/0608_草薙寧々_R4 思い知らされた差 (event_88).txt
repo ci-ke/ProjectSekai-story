@@ -17,19 +17,15 @@ Gacha phrase: わたしはできるの？あんな演技……
 寧々: それで、頼みって？
 類: ああ。僕達で司くんの役作りを 手伝おうっていうことになっただろう？
 寧々: うん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: ……正直、今の青龍院くんと並び立てるようになるのは、 かなり難しいと思う
 類: だけど——それでもやりたいと思っているんだろう？
 司: …………ああ
 寧々: …………っ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （わたしは、青龍院さんの演技に圧倒されちゃった……）
 寧々: （司だって同じ……ううん、相手役として一緒に 練習もしてるし、わたし以上に実力差を感じてるはず）
@@ -49,37 +45,29 @@ Gacha phrase: わたしはできるの？あんな演技……
 類: 簡単だろう？ だけど、とても難しい
 寧々: そう、だね……
 寧々: （フェニックスを、演じる……わたしが……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （わたしには、あんな……演技は……）
 寧々: （わたし、は……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: や、やって、みる……。 手伝うって約束したんだから
 類: ……ああ。頼むよ
-(Black cut)
+(Black transition)
 寧々: 『……どうって、何がかしら？』
 寧々: （わたしのイメージする、フェニックス……）
 寧々: 『別に、どうとも思わないわ。 そんなこと、もう……慣れたもの』
 寧々: （わたしなりには、うまくやれてるつもりだけど……）
 寧々: （でも、これで本当にいいのかな……）
-(Black cut)
+(Black transition)
 類: ——お疲れさま、寧々。 これで、フェニックスロボを今日の練習から使えるようになるよ
 寧々: あ、うん……
 類: …………
@@ -95,15 +83,11 @@ Gacha phrase: わたしはできるの？あんな演技……
 フェニックスロボ: 『甘いわね。 ほらほら、私はこっちよ？　捕まえてごらんなさい？』
 寧々: （このセリフも、挑発する感じは乗せられてるけど……）
 寧々: （フェニックスじゃ、ない……。 ただ、人がしゃべってるだけに聞こえる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: …………っ
 寧々: （今のわたしじゃ……あんな風には、できない……）
@@ -115,7 +99,7 @@ Gacha phrase: わたしはできるの？あんな演技……
 寧々: あんな演技じゃ、全然ダメ。 司の練習にだってならない
 類: もちろん、かまわないよ。 納得いくまで、やってみようか
 寧々: うん……！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -127,22 +111,18 @@ Gacha phrase: わたしはできるの？あんな演技……
 寧々: （誰もいない……）
 寧々: （さすがに来るの早すぎた、かな……。 自主練するにも、ステージあいてなかったら意味ないのに）
 寧々: （でも、あんなの見せられたら……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: 『……そうだよ。 君は……君はいつも、いじわるだけど、優しくて……』
 司: 『初めて僕の友達になってくれたのに……』
 司: 『……ごめんよ、フェニックス』
 司: 『本当に……ごめん……』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （……フェニックスステージ、開いてるといいな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスステージ]
@@ -159,25 +139,17 @@ Gacha phrase: わたしはできるの？あんな演技……
 寧々: （少年役も決まって、 あとは本番までとにかく練習するだけ）
 寧々: （そのあいだに、いろんなことを勉強させてもらおう）
 寧々: （それで——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 寧々: （それで……）
 寧々: （オーディションの、司と青龍院さんの演技に すごく、感動した……）
 寧々: （だから、わたしも……）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 寧々: （わたしも、あのふたりのいる場所に……）
 えむ: 寧々ちゃーん！！　おはよー！
 寧々: ひゃあっ！？
@@ -203,4 +175,4 @@ Gacha phrase: わたしはできるの？あんな演技……
 寧々: ありがと、えむ。元気出た
 えむ: 寧々ちゃん、ストレッチもう終わっちゃった？ よかったら、一緒にやろ？
 寧々: うん、いいよ
-(Black cut)
+(Black transition)

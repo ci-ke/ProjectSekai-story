@@ -27,15 +27,11 @@ Gacha phrase: ……待って、志歩ちゃん！
 穂波: え……
 えむ: もし本当だったら、 誰かとケンカしちゃったのかなって思って……
 穂波: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （人があんまり通らない場所を選んだつもりだったけど、 聞いてた人がいたんだ……）
 穂波: 心配してくれてありがとう
@@ -53,17 +49,13 @@ Gacha phrase: ……待って、志歩ちゃん！
 えむ: うん。穂波ちゃんも、志歩ちゃんも、 バンドに一生懸命だもんね
 えむ: あたしも、どうしても話を聞いてほしい時とか、 おっきい声出しちゃったり、 言い合いになっちゃったりしたことあるから、わかるな……
 クラスメイトA: うんうん。真剣に考えてる時ほど、 なんでわかってくれないの！って、なっちゃうしね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: ケンカしたっていいだろ
 レン: それに穂波達はプロを目指していくんだろ？ これから一緒にやっていくなら、いいことも悪いことも ぶつけあっていったほうがいいと思うけどな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （そっか……。 みんなも、そうやって……）
 穂波: あのね。今回の件は、志歩ちゃんは悪くないの
@@ -82,7 +74,7 @@ Gacha phrase: ……待って、志歩ちゃん！
 穂波: （自分の気持ちをちゃんと伝えるのって、 やっぱり、大事なんだな……）
 穂波: （今回みたいな言い合いは、あんまりしたくないけど）
 穂波: （でも、せっかくレンくん達に気づかせてもらったんだし、 これからも、何かあったら 自分の気持ちを言えるようにしたいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -91,7 +83,7 @@ Gacha phrase: ……待って、志歩ちゃん！
 
 [穂波の部屋]
 
-(Black cut)
+(Black transition)
 穂波: ふう……
 穂波: これで、今日志歩ちゃんが指摘してくれたところは 全部確認できたかな
 穂波: あ、そうだ……
@@ -101,7 +93,7 @@ Gacha phrase: ……待って、志歩ちゃん！
 穂波: えっと、スマホスマホっと……
 穂波: ん……？　志歩ちゃんからDMがきてる
 穂波: あ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -112,7 +104,7 @@ Gacha phrase: ……待って、志歩ちゃん！
 穂波: ごめんね、待った？
 志歩: 別に。——じゃあ、行く？
 穂波: うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -131,7 +123,7 @@ Gacha phrase: ……待って、志歩ちゃん！
 志歩: なら、私と一歌と咲希の分も入れてってことでどう？
 穂波: え……。えっと、それなら……
 志歩: じゃあ、それで。 ——すみません、アップルパイ10個ください
-(Black cut)
+(Black transition)
 穂波: いただきます
 穂波: はふっ、はふっ……。 ん～～～っ、美味しい！
 志歩: ……熱っ。ん……思ったより甘すぎなくていいね
@@ -142,7 +134,7 @@ Gacha phrase: ……待って、志歩ちゃん！
 穂波: あ……
 志歩: ２個目もどうぞ
 穂波: じゃ、じゃあ……いただきます
-(Black cut)
+(Black transition)
 穂波: 志歩ちゃん、ありがとう。 ごちそうさまでした
 志歩: うん。こっちこそ、チケットのことありがと。 あと、一歌達に最後まで内緒にしててくれたこともね
 穂波: ううん、わたしのほうこそ。 手伝わせてくれてありがとう
@@ -151,15 +143,11 @@ Gacha phrase: ……待って、志歩ちゃん！
 志歩: 穂波、なんか強くなったね
 穂波: えっ、ほ……本当？
 志歩: うん。あの時——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: 私が強くでれば、穂波は引いてくれると思ってた。 でも……違った
 志歩: それにドラムも、前より自信を持って 叩けるようになったしね
@@ -178,4 +166,4 @@ Gacha phrase: ……待って、志歩ちゃん！
 志歩: じゃあ、そろそろあっちに行こうか
 志歩: 穂波が見てほしいって言ってた、ドラムの修正点も 練習前に見るよ
 穂波: うん、お願い！
-(Black cut)
+(Black transition)

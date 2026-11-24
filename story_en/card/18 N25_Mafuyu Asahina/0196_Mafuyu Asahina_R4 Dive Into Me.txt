@@ -12,7 +12,7 @@ Gacha phrase: I... I want to know...
 Mafuyu: See you tomorrow, everyone.
 Classmate: Bye, Mafuyu!
 Mafuyu: Bye. Get home safe.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -30,7 +30,7 @@ Mafuyu's Mother: Obviously, I couldn't really get them all but I got you one for
 Mafuyu: Okay...
 Mafuyu's Mother: I'll get you some more next time.
 Mafuyu: Sounds good...! Thank you, mom.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -41,14 +41,14 @@ Mafuyu: (I have twenty study guides alone now...)
 Mafuyu: (My bookshelf is almost full because of all the books she's been getting me.)
 Mafuyu: (Today, I have to do homework, see what's coming up for cram school and work on N25 stuff...)
 Mafuyu: (I guess I should flip through this first...)
-(Black cut)
+(Black transition)
 Mafuyu: ...
 Mafuyu: (What am I doing...?)
 Mafuyu: (I'm reading books that I have absolutely no interest in and don't even know what I actually want to do...)
 Mafuyu: (What exactly am I...?)
 Mafuyu: No...
 Mafuyu: That pain's going to come back if I'm not careful...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -58,7 +58,7 @@ Miku (N25): You don't look well. Are you okay...?
 Mafuyu: I'd like to rest a little if you don't mind...
 Miku (N25): Come. Sit here.
 Mafuyu: Okay...
-(Black cut)
+(Black transition)
 Mafuyu: Sigh...
 Mafuyu: (I've gradually been able to feel something since Kanade started helping me find the real me...)
 Mafuyu: (But...)
@@ -79,7 +79,7 @@ Mafuyu: Not yet their own SEKAI... I didn't know about that.
 Mafuyu: Is this a fragment of my feelings...?
 Miku (N25): Mafuyu, if you touch it, you'll...
 Mafuyu: Gasp...
-(White cut)
+(White transition)
 (Background change)
 
 [???]
@@ -101,7 +101,7 @@ Mafuyu: That's nice... But for now, we should find the exit...
 Miku (N25): Oh, there's a bookshelf over here too...
 Mafuyu: Sigh...
 Mafuyu: Just for a little bit, okay?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -120,15 +120,15 @@ Mafuyu: Does that mean this place is made out of my feelings too...?
 Mafuyu: But why? I don't want to see these things...
 Miku (N25): Mafuyu, do you hate books...?
 Mafuyu: Huh?
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000064/bg_a000064.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000064/bg_a000064.webp)
 Miku (N25): Books are full of things we don't know.
 Miku (N25): Doesn't that make them fun?
 Mafuyu: Fun...?
 Mafuyu: I hardly think so.
 Mafuyu: Books are just sources of information to me.
 Miku (N25): Does that mean you hate this too...?
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: A children's book...?
 Miku (N25): Yes. Yours, I think.
@@ -137,16 +137,12 @@ Miku (N25): Do you not recognize it?
 Mafuyu: Why are you asking me that? How can this book...?
 Mafuyu: Oh, this is...
 Mafuyu: (No, I remember this book. I used to have this when I was little...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: You don't need this anymore, right...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (The one mom threw out...)
 Mafuyu: (I remember reading this one over and over again...)
@@ -159,7 +155,7 @@ Mafuyu: (I must've loved this book to death when I was little if I did actually 
 Mafuyu: (It might even be a key to finding the real me...)
 Mafuyu: I guess I could read a little bit of it...
 Mafuyu: Oh...
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: Huh...?
 Mafuyu: It's gone? Why...?
@@ -174,14 +170,14 @@ Miku (N25): If that place was actually made out of your feelings, Mafuyu...
 Miku (N25): There must be a part of you that wants to know more...
 Mafuyu: More...
 Mafuyu: Is that true...?
-(Black cut)
+(Black transition)
 (Background change)
 Mafuyu: Hm... Huh?
 Mafuyu: When did I return to my room...?
 Mafuyu's Mom's Voice: Mafuyu, dinner...!
 Mafuyu: Oh.. Coming!
 Mafuyu: Was that a dream...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -197,17 +193,13 @@ Mafuyu: (The books mom's been buying me take so long to read...)
 Mafuyu: Huh...?
 Mafuyu: This bookstore has children's books...
 Mafuyu: Oh, they're doing a children's book fair. But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu's Mother: You don't need this anymore, right...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: ...
 Mafuyu: Maybe I'll get one...
-(Black cut)
+(Black transition)

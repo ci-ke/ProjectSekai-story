@@ -79,15 +79,11 @@ KAITO (WxS): 司くん……
 司: その気持ちさえ持っていれば、きっと大丈夫だ
 リオン: え……？
 司: なぜならば——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
+(White transition)
+(Flashback out)
 (Background change)
 司: その、自分をふがいなく思う気持ちも、悔しさも—— 前へ進むための力になるからだ！
 リオン: ……進む、力に？
@@ -117,13 +113,13 @@ KAITO (WxS): ……司くん、リオンくん。 何があっても僕達が必
 司: 諦めるなリオン！　食らいつけ！
 司: どんなに遠くても——その夢に手を伸ばせ！！
 リオン: はい……！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000292/bg_s000292.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000292/bg_s000292.webp)
 フェニックス: ……っ！？　なにを……
 司: うおおおおおおおおおおおおおお！！！！！！！！！！
 リオン: やああああああああ！！！
 司: 届けー！！！！！！！！
-(White cut)
+(White transition)
 (Background change)
 寧々: ……ふたりが、飛んでる……
 えむ: あ、見て……！　司くんの手、フェニックスに届いて——！
@@ -204,6 +200,6 @@ KAITO (WxS): 僕も、全力で応援しよう。そう改めて思ったんだ
 司: ……！
 司: ——感謝するぞ、カイト！　必ずやその応援に応えてみせよう。 なにせオレは……
 司: 世界中を笑顔にするスターになる男だからな！
-(Black cut)
+(Black transition)
 (Video: link_wonder_ed4)
-(Black cut)
+(Black transition)

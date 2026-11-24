@@ -24,7 +24,7 @@ Saki: You don't mean...?
 Tsukasa: I do.
 Tsukasa: Money is no object! Let's buy as much as we can eat on this trip!
 Saki: Wh-Whoa...! Like a grown-up vacation...?!
-(Black cut)
+(Black transition)
 
 [Snack Aisle]
 
@@ -35,14 +35,10 @@ Tsukasa: Oh, Saki, here are all the potato chips.
 Saki: Thanks, Tsukasa! We can't get the party started without these♪
 Saki: Hey, they even have seasonal flavors!
 Tsukasa: (Come to think of it, I remember us shopping like this when we were little.)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Tsukasa: (Saki and I went to the store to buy snacks...)
 Saki: Is something wrong, Tsukasa?
 Tsukasa: Huh?! Oh, sorry. I was remembering how we went shopping like this when we were little.
@@ -62,15 +58,11 @@ Saki: “Pegasusman is here to protect you.” “I will defend you against any 
 Saki: That made me feel a lot better.
 Tsukasa: Hahaha! And Pegasusman kept his promise, did he not?
 Saki: Yup! You singing with me while we washed our hands and stuff probably worked, right?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: (I still remember the smile on Saki's face as she waved her hand when she left for that field trip.)
 Tsukasa: (Her weak constitution prevented her from going on many field trips at all...)
@@ -79,7 +71,7 @@ Tsukasa: (Furthermore, due to our busy performance schedules, we haven't been ab
 Tsukasa: (Which is why my goal will be to treasure every second of this trip.)
 Saki: Alright, Tsukasa, what else should we get?!
 Tsukasa: Ah, yes! Based on this aisle's selection...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -108,10 +100,8 @@ Len (WxS): Oh, another idea?!
 Tsukasa: Yes, it takes place at a famed leaf-viewing location.
 Tsukasa: And the protagonists are all maple leaves.
 Rin & Len: Leaves...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Maple Leaf A (Emu): Humhumhuum♪ It's nice and sunny again today☆
 Maple Leaf A (Emu): Oh, I feel a nice breeze coming! That means it's time to do the fun and happy leaf dance!!
@@ -127,18 +117,14 @@ Maple Leaf A (Emu): Wow...! This is so cool!
 Maple Leaf A (Emu): Then, I know! We should have a competition to see who can become the reddest leaf☆
 Maple Leaf B (Rui): Yeah. It's always good to have rivals to compete against.
 Maple Leaf C (Nene): That also means no holding back, you guys.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: “And so, our heroine began training to become the reddest leaf of all.”
 Tsukasa: “She braved the sun during the day, endured some very cold nights... But then, a fearsome storm rolled in.”
 Tsukasa: “She did her best to stay on her branch, but finally, she was pulled away...”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Maple Leaf A (Emu): No, I have to get back to my branch! Jump! Jump! Juuump!
 Maple Leaf A (Emu): No, I can't reach it... But I haven't become fully red yet...
@@ -158,10 +144,8 @@ Tourist Child (Miku-WxS): I'm gonna take them home and keep them as treasures☆
 Maple Leaf C (Nene): We're pretty? But we haven't turned red...
 Maple Leaf B (Rui): Yes, her reaction tells me that...
 Maple Leaf A (Emu): Hehe... We don't have to be red!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Tsukasa: ...is about how that story goes.
 Emu: I'm so glad for those leaves!
@@ -175,4 +159,4 @@ Tsukasa: Our trip ended up being such a heartwarming and memorable experience.
 Emu: I'm glad that you had such a wonderful trip, Tsukasa!
 Rui: It'd be a shame to lose this story. Let's add it to our stock of scripts for later.
 Tsukasa: Yes!
-(Black cut)
+(Black transition)

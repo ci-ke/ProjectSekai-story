@@ -2,7 +2,7 @@
 
 (Character: 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ライブハウス]
@@ -27,16 +27,12 @@
 小学生の志歩 (志歩): （全部、あのバンドの人達がやったんだ。 演奏だけで、みんなの心を震わせて……）
 小学生の志歩 (志歩): （なんだろう。すごく……）
 小学生の志歩 (志歩): ——かっこいいな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 すみれ: 自分のやりたいって想いをまっすぐ貫いて、 そのために真剣に、全力で頑張ってる人っていうのは、 まぶしくてキラキラして見えるんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 小学生の志歩 (志歩): （……そっか）
 小学生の志歩 (志歩): （……そういうことだったんだ）
@@ -46,7 +42,7 @@
 すみれ: ♪————！！！
 小学生の志歩 (志歩): （——あんなに、まぶしくて、かっこよく見えるんだ……）
 小学生の志歩 (志歩): （なら、私も——）
-(Black cut)
+(Black transition)
 
 [ライブ後]
 
@@ -97,15 +93,11 @@ IoliteのメンバーA: ——すみれ～。いい加減戻って手伝って�
 父親: 慌ただしいな
 小学生の志歩 (志歩): そうだね
 小学生の志歩 (志歩): （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 すみれ: ♪————！！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 小学生の志歩 (志歩): （今日のライブは——）
 小学生の志歩 (志歩): （きっと、ずっと忘れないだろうな）
-(Black cut)
+(Black transition)

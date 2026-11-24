@@ -8,23 +8,19 @@ Kanade: .....
 Kanade: (Dad... I really tried my best.)
 Kanade: (But my music still wasn't able to save anyone.)
 Kanade: (I hurt you, and I couldn't save Yuki. Am I supposed to keep making music even after all this?)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 ??? (Mafuyu): You all want to disappear more than anyone.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Kanade: Yuki...
 Kanade: So that's why Yuki was there.
 Kanade: Alone in that cold, quiet world.
 Kanade: I belong there too.
 Kanade: It's okay to give up now, right?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -32,7 +28,7 @@ Kanade: It's okay to give up now, right?
 Kanade: (There's nothing here.)
 Kanade: (The ground is hard, but it's not cold.)
 Kanade: (If I just close my eyes and stay here...)
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: (Will it make the pain go away?)
 Kanade: Hm?
@@ -40,7 +36,7 @@ Kanade: (I can hear music.)
 Kanade: (Is that Miku singing? And this song... It's the one I wrote back then.)
 Kanade: (Where's it coming from?)
 Miku (N25): Kanade?
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: Miku...
 Miku (N25): You've come back. Did you come to find her?
@@ -58,15 +54,11 @@ Miku (N25): The only thing here was that song.
 Miku (N25): Perhaps...that means your song reached her somehow.
 Kanade: It reached her?
 Kanade: But... But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 ??? (Mafuyu): But it wasn't enough. I wasn't able to find anything.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Kanade: But I wasn't able to save Yuki!
 Kanade: My song...wasn't enough! Even if it did reach her, it didn't change anything!
 Miku (N25): Kanade...
@@ -94,7 +86,7 @@ Kanade: .....
 Kanade: If that's true...
 Kanade: Then I have to make it.
 Kanade: This time, I have to save Yuki for real.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -106,4 +98,4 @@ Mafuyu: This is so stupid... I knew I wouldn't find anything here.
 Mafuyu: Where...is the real me...
 Mafuyu: .....
 Mafuyu: When exactly did I lose sight of her...?
-(Black cut)
+(Black transition)

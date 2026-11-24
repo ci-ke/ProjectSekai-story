@@ -58,7 +58,7 @@ Gacha phrase: おお、なんと神々しい光だ……！
 司・咲希: 『はーい！』
 司: では咲希、まずオレがテーブルを拭くから お前はキッチンで準備を頼む！
 咲希: 了解でありまーす！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -67,7 +67,7 @@ Gacha phrase: おお、なんと神々しい光だ……！
 
 [ワンダーランドのセカイ]
 
-(Black cut)
+(Black transition)
 類: ——みんな、お疲れさま。 キリもいいから、このあたりで一度休憩にしようか
 司: む？　もう休憩を入れるのか？ オレはまだまだやれるが……
 寧々: わたしはちょっとひと息入れたいな。 もう３時間くらいずっと練習してるし
@@ -90,32 +90,24 @@ KAITO: それにしても、今日の司くんはものすごい集中力だっ�
 司: 実はな、例の巡業を経て、 もっと成長したいという気持ちが強くなってな！
 司: 今回、いろいろな場所に行ったことで、 たくさんの人達と共にショーをやることができた
 司: そして……彼らがいたからこそ生まれた展開や変化、 得られた観客の反応があっただろう？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: うん！　海のショーは穂波ちゃん達が歌ってくれて！ あたし達も歌に合わせて ダンスをちょっと変えたんだよねっ☆
 類: ああ。山でのショーも、MORE MORE JUMP！の 皆さんだからこそできる観客の巻き込みかたで、 とても盛り上がったね
 司: ああ！　そして白石達とのショーも、 宵崎さんに助けてもらったショーもそうだ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: いつもとは違う環境、 いつもと違う人達とのショーだったからこそ 得られるものがあった
 司: 先日、旭さん達とおこなった宣伝公演もそうだが 出会いは刺激と気づきを与えてくれる！
@@ -138,4 +130,4 @@ KAITO: うん。 ポジティブでパワフル、それでいて夢がある
 類: フフ。そこはかとない打ち切り感をのぞけば、 たしかに期待できそうだね
 寧々: まあ、通常運転みたいだしね
 KAITO: ふふっ
-(Black cut)
+(Black transition)

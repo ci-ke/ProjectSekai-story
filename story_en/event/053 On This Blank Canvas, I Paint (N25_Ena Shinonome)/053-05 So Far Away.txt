@@ -15,7 +15,7 @@ Futaba: Is everything alright, Ena?
 Ena: I-It's nothing... I just...
 Futaba: Class is this way. Let's go.
 Ena: Okay...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Art class]
@@ -30,19 +30,15 @@ Ena: It's him...
 Yukihira: Hello, everyone. And welcome to our visiting students. My name is Saneatsu Yukihira. I will be your teacher.
 Yukihira: It's nice to see some familiar faces here again...
 Yukihira: This workshop will last for three days. You will not only be working on your foundational principles, we will also be having deep discussions regarding your work. I hope you're all ready.
-(Black cut)
+(Black transition)
 Ena: (Day one involves drawing sketches, day two is oil painting and we'll be given a theme to draw as we wish on day three...)
 Ena: (Sketches used to be my forte... But now...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (No, I have to do this... So I can keep drawing for N25...!)
 Yukihira: You're too conscious of your light source here, so it's too detailed. It should be more like this...
@@ -66,7 +62,7 @@ Ena: (I have to keep drawing... My sketch isn't anywhere near done.)
 Ena: (But...)
 Ena: (No, don't let your eyes wander...)
 Ena: (Just keep drawing... Just keep drawing... That's all I can do right now. I knew that I'd be the worst one before I came here...!)
-(Black cut)
+(Black transition)
 Yukihira: Alright, time's up. Let's begin reviewing your work.
 Yukihira: Please bring your drawings forward.
 Yukihira: We'll start with this one. Whose is this?
@@ -81,20 +77,16 @@ Ena: ...
 Yukihira: I have nothing to say... If anything, it's rather ordinary. I suggest you put more effort into composition next time.
 Futaba: I will. Thank you very much.
 Ena: Oh...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(White transition)
+(Flashback out)
 Ena: (Yeah, Futaba's sketches have always been amazing...)
 Ena: (She's improved so much since then too. She probably had to draw so much to get this far...)
 Ena: (I knew this would happen too. I had it all coming.)
 Ena: (I ran away while she and everyone else kept at it these past two years...)
-(Black cut)
+(Black transition)
 Ena: (I guess that's it for me...)
 Futaba: Is something the matter, Ena? You don't look so good.
 Ena: No, I'm fine... Sorry, I'm gonna head home now.
@@ -102,7 +94,7 @@ Futaba: Oh...
 Futaba: Um, can we head out together? I just need a second to pack everything up.
 Ena: Alright, sure...
 Futaba: Thanks! I'll be right there.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Miyamasuzaka)
 Futaba: How was your first class after all this time, Ena?
@@ -141,4 +133,4 @@ Futaba: O-Okay... Um, Ena!
 Ena: Yeah...?
 Futaba: See you tomorrow!
 Ena: Okay...
-(Black cut)
+(Black transition)

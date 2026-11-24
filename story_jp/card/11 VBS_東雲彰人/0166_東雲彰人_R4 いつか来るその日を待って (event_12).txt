@@ -13,17 +13,13 @@ Gacha phrase: 頑張ったな、冬弥
 彰人: はい。バイト行く前に寄っただけなんで。 いつものブレンドお願いします
 杏の父: ああ
 彰人: ……はぁ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: 何にせよ、今のまま引きずっていては、 チームにも迷惑をかけてしまうかもしれない
 冬弥: だから……今日、話してみようと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……父親との問題は、 あいつが自分で向きあわなきゃ意味がねえ）
 彰人: （だから、見守るだけって決めてたんだけどな……）
@@ -77,10 +73,10 @@ Gacha phrase: 頑張ったな、冬弥
 杏の父: はははっ、知ってるよ
 彰人: ……ったく！ じゃあ、また
 杏の父: おう
-(Black cut)
+(Black transition)
 (Background change)
 彰人: ……さて、行くか！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -92,7 +88,7 @@ Gacha phrase: 頑張ったな、冬弥
 彰人: じゃ、今日もメイコさんのとこに行くか
 冬弥: ああ。……ん？　『open』の看板が出てない
 彰人: ほんとだ。でも、明かりはついてるな。 ちょっとのぞいてみっか
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -142,4 +138,4 @@ MEIKO: せっかく来てくれたんだし、 ふたりもこのまま聴いて
 彰人: 嬉しいっつーか、ワクワクはしてるかもな
 彰人: （冬弥は今回のことで確実に成長した）
 彰人: （だったら相棒として、オレも負けていられねえからな！）
-(Black cut)
+(Black transition)

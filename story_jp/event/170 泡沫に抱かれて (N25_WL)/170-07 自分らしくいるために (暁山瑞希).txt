@@ -33,7 +33,7 @@
 女性A: え～！　残念……
 女性A: だけど、楽しみにしてますね。 Amiaさんの作る服！
 瑞希: うん、ありがと！
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -66,34 +66,26 @@
 瑞希: （……類、楽しそうだったな）
 瑞希: （あの頃とは違って、本当の仲間を見つけられたんだ）
 瑞希: …………あの場所に戻る、か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 生徒達: ——お、あの子今日学校来てるぞ！ やっぱり、そのへんの女子よりも女子っぽいよな
 生徒達: 別にいいけどさ。 ヒソヒソ言われるのが気になるなら、普通の格好すればいいのにね
 生徒達: あいつ、なんであんな服着てんの？ 承認欲求強いとか？
 生徒達: 一緒にいると、こっちもそういう目で見られるから ちょっと嫌だよねー
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……あのまま学校行ってるよりも、 今のほうがずっと楽だ）
 瑞希: （好きなものを着て、好きなものを作って、 好きなものを見て——）
 瑞希: （自分らしく、自由でいられる今のほうが…… ずっと楽しい）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 女性A: ……あ、それなら一緒にやりません？
 女性A: 私、裁縫とか得意なんですよ。 実は洋服も作ったことあって！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: 誰かと深く関わるなんて……
@@ -102,6 +94,6 @@
 瑞希: え、歌……？　どこから……
 瑞希: ……わかんないけど、なんだか優しい歌だったな
 瑞希: よーし。帰ってワンピースの続き作ろうっと！
-(Black cut)
+(Black transition)
 (Video: link2_night_ed3)
-(Black cut)
+(Black transition)

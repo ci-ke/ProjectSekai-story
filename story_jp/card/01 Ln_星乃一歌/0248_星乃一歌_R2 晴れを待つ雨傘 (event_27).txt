@@ -6,7 +6,7 @@ Skill name: 次は私達の言葉を
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 花里みのり, 小豆沢こはね)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　１年Ｃ組]
@@ -14,13 +14,13 @@ Skill name: 次は私達の言葉を
 一歌: （珍しいな……咲希が授業中、寝てるなんて）
 生徒の声: は～、視聴覚室と教室の往復ってかったるいよね～。 １か所で終わらせてほしいっていうか～
 一歌: （あ、Ａ組だ……。教室移動なのかな）
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 一歌: （志歩……？）
 一歌: （あ……咲希のこと、見てたのかな。 でも、どうして……？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -34,7 +34,7 @@ Skill name: 次は私達の言葉を
 志歩: ……ううん。なんでもない。 練習に行こう
 穂波: あ………………
 一歌: ……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -44,7 +44,7 @@ Skill name: 次は私達の言葉を
 穂波: じゃあ、わたしもここで！ 一歌ちゃん、バイト頑張ってね
 一歌: あ、うん……
 一歌: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -58,7 +58,7 @@ Skill name: 次は私達の言葉を
 一歌: （あ……でも、今週と来週は学年新聞作りで、 お昼ほとんど時間潰れちゃうんだよね）
 一歌: （けど、休み時間じゃろくに話せないかもしれないし、 話すとしたら放課後とか、かな）
 一歌: （うん、よし——！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　１年Ａ組]
@@ -74,7 +74,7 @@ Skill name: 次は私達の言葉を
 志歩: ふふ。それで誤魔化してるつもり？
 一歌: 間違えたのは本当だけど、 用事があるのも本当だよ！？
 一歌: だから……ちょっといいかな？
-(Black cut)
+(Black transition)
 (Background change)
 志歩: で、用事って？
 一歌: （かなり成り行きだけど、 こうなった以上、ちゃんと話さないと……）
@@ -100,7 +100,7 @@ Skill name: 次は私達の言葉を
 一歌: （なんか、勢いで押しきっちゃった感じがするけど……）
 一歌: （これで、きっと志歩なら ちゃんとお昼に誘いに行ってくれるはず）
 一歌: （少しでも咲希と話をして、 志歩が気にしてること、解決できるといいな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -115,22 +115,18 @@ Skill name: 次は私達の言葉を
 一歌: （でも、やっと学級委員の仕事も終わったし、 バンドのことに集中できそう）
 一歌: （咲希のおかげでオリジナルの曲も なんとか形になりそうだし）
 一歌: （次は——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 一歌: 私に、考えさせてくれない？
 一歌: さっき、咲希の演奏と歌を聴いて思ったんだ。 この曲に歌詞をつけたら、どんな歌になるんだろうって
 一歌: 私も挑戦してみたい。 この曲に合う、私達の言葉を考えてみたい
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: （私が、頑張る番だね）
 一歌: （今日は穂波も咲希もバイトで全体練習はないし、 自主練習のついでに、いろいろ考えてみようかな）
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
@@ -179,4 +175,4 @@ Skill name: 次は私達の言葉を
 志歩: いろいろありがとう。 これからも、頼りにしてるから
 一歌: ……！
 一歌: うん！
-(Black cut)
+(Black transition)

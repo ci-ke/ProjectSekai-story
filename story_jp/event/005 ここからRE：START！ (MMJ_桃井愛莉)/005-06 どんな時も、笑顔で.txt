@@ -6,13 +6,13 @@
 
 リン: ――♪　――♪
 愛莉: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000031/bg_a000031.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000031/bg_a000031.webp)
 愛莉: （やっぱり、リンはすごい。 明るくて、元気で、華があって）
 愛莉: （見てると、つられて笑顔になっちゃう）
 愛莉: （……そうよね、やっぱりアイドルは どんな時も、笑顔で前を向いてないと）
 愛莉: （だから、わたしも――）
-(White cut)
+(White transition)
 (Background change)
 リン: 愛莉ちゃん、どう？ 元気出た？
 愛莉: ええ、すっごく！ もう最っ高のステージだったわ！
@@ -40,7 +40,7 @@
 愛莉: でも、そんなわたしを 家族のみんなは応援してくれた
 愛莉: だからわたしも、がむしゃらにがんばって……、 ようやく憧れてたアイドルになれたの！
 愛莉: ……それなのに、現実はうまくいかなくて
-(Black cut)
+(Black transition)
 リン: ……そっか、そんなことがあったんだ
 愛莉: 諦めて、でも、もう一度がんばろうって思っても
 愛莉: ……どうしてなのかしら。 憧れてた、キラキラしたアイドルには近づけない
@@ -73,25 +73,21 @@
 リン: だから、愛莉ちゃん達は、どこからでも、 どんな形でも、みんなに希望を届けられるって思う！
 リン: わたしは、そう信じてるの！
 愛莉: あ……！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 みのり: わたし、信じてるんです！ 
 みのり: 『今日がいい日じゃなくても、 明日はいい日になるかもしれない』
 みのり: 『だからみんなが、 明日こそは大丈夫って信じてがんばれるように』
 みのり: 『このステージから、 “明日をがんばる希望”を届けたいんです！』 ……この言葉を！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: どこからでも希望を届けられる、か……。 たしかに、可能性があるのに信じないのはダメよね
 愛莉: ありがとう、リン。 わたし、もっとがんばってみる
 愛莉: 今度はみんなでここに来るから、 一緒にステージで歌いましょ！
 リン: やったー！ 楽しみにしてるねっ♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [愛莉の部屋]
@@ -100,4 +96,4 @@
 愛莉: MORE MORE JUMP！の愛莉として、 今のわたしができることをやらないと！
 愛莉: ……といっても、やることは山積みね
 愛莉: まずはフリーで活動できるのか、調べなきゃ――
-(Black cut)
+(Black transition)

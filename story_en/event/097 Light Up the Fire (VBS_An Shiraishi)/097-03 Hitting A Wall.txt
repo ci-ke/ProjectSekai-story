@@ -147,15 +147,11 @@ Kohane: ...
 Kohane: I...have to join them.
 An: Kohane...
 An: I...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: I... I...
 Kohane: An. I'm going on ahead.
@@ -215,44 +211,32 @@ Toya: (...! The way Shiraishi's singing! She's trying to lift us back up...!)
 An: (Don't think! Sing with instinct! With intuition! No plan is gonna help us beat Uncle Taiga. It doesn't matter how much we try to think...!)
 An: (So, just sing! Throw absolutely everything you have at him! Keep fighting! Don't give him an inch!)
 An: (Everything I have... Everything I've learned, seen, experienced...!!!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: Haha. It's always a pleasure to teach you since you're such a quick learner, An. Now, fist bump!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: Hi there! Having another morning practice, An?
-(White cut)
+(White transition)
 (Background change)
 Nagi: An, one more time! I can't leave after that!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 An: (No, stop...! Don't think about her...!)
 An: (I'll freeze up if I do... I have to forget about her...! About Aunt Nagi...!)
 An: (I have to get her out of my head...!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Nagi: I knew you'd be here...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...!
 Kohane: (No, An's voice...!)
@@ -262,26 +246,18 @@ Taiga: Is that really all you got, An?
 Taiga: Is this all Nagi gave you?
 An: ...!
 An: (Shut up...!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (Aunt Nagi... She gave me...)
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000093/bg_s000093.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000093/bg_s000093.webp)
+(White transition)
+(Flashback out)
 (Background change)
 An: (She gave me music... She's why I'm singing at all!!!)
 An: ♪ ————————~~~~!!
@@ -291,7 +267,7 @@ Young Local Musicians: W-Was that An's voice just now?
 Toya: (Akito! Azusawa! Now's our chance!!)
 Kohane: (...! Right!)
 Akito: (Let's do this! We gotta see this through until the end...!!)
-(Black cut)
+(Black transition)
 An & Kohane: Huff... Huff... Huff...
 Young Local Musicians: That was awesome! Way to go, Vivid BAD SQUAD!
 Young Local Musicians: Right at the end they pulled off their best performance ever!
@@ -338,4 +314,4 @@ Kotaro: (No, wait...! Don't leave, you guys...!)
 Kotaro: (Please don't leave...!)
 Taiga: Now do you understand? This is what you're all up against.
 Taiga: If you wanna keep trying to surpass us, be my guest.
-(Black cut)
+(Black transition)

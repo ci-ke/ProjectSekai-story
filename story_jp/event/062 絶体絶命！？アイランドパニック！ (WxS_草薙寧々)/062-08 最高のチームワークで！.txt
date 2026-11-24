@@ -2,7 +2,7 @@
 
 (Character: 天馬司, 鳳えむ, 草薙寧々, 神代類, MEIKO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -46,22 +46,18 @@
 類: それもきっと、サバイバルでの経験が活きているんだろうね
 寧々: え……？
 寧々: サバイバルでの、経験……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 寧々: （や、やるしかないの……！？）
-(White cut)
+(White transition)
 寧々: （たしかに、あの本番前の独特の緊張感とか、 セリフ飛んだらどうしようとか、 歌の音程がズレたら失敗しちゃうかもとか）
 寧々: （そういう怖さに比べたら、今は……！）
-(White cut)
+(White transition)
 (Background change)
 MEIKO: 『大変かもしれないけど、 みんなで一生懸命考えて行動した経験なら、 全部これからのみんなのためになるんだから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: ——そっか。 メイコさんが言ってたことって、そういうことだったんだ
 類: ああ、大変な経験が身になるという話かい？ たしかに、彼女の言うとおりだったね
 司: 助言をくれたことに感謝しなくてはな！
@@ -107,4 +103,4 @@ MEIKO: 『大変かもしれないけど、 みんなで一生懸命考えて行
 寧々: まあ、気合い入れるために必要って言うなら……
 えむ: えへへ、それじゃあ皆さんご一緒に！ 公演でもみんなにニコニコワクワクを届けるために！ せ～のっ……
 全員: 『わんだほーい！』
-(White cut)
+(White transition)

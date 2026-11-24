@@ -15,7 +15,7 @@ Gacha phrase: ここのラーメンは全部美味しい
 まふゆ: 私が書いてるよ
 一歌: えっ！？　そうなんですか！？
 奏: （サークルのメンバー以外の人と、 こんなに音楽の話をしたの久しぶりだな）
-(Black cut)
+(Black transition)
 奏: ふう……。いろいろ話して、喉がかわいちゃったな
 一歌: 私もです。あ、そういえばみんな ドリンクバーを頼んでましたよね
 奏: そっか。じゃあ、わたしちょっと取りに——……わっ！
@@ -65,7 +65,7 @@ Gacha phrase: ここのラーメンは全部美味しい
 穂波: はい、気にしてないですよ
 奏: よかった……
 奏: （……こんな、なんでもない話で盛り上がるのも、 サークルメンバー以外とは久しぶりだな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -144,27 +144,19 @@ Gacha phrase: ここのラーメンは全部美味しい
 奏: （セカイに行って、ミクに会って、まふゆのことや、 みんなのことをちょっとずつ知っていって……）
 奏: （なんだか前より、 一緒に動画を作ってるっていう感じ、あるな）
 奏: （あ、でもまふゆ達だけは前からつきあいあったけど、 それ以外の人ってなると……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （家事代行をお願いしてる望月さんとは 少し前から知りあいだったけど……）
 奏: （でも知りあった頃は、 お互いに干渉しあわないようにしてたし）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （あんな風になんでもない話をしたの 中学校の頃以来だったかも……）
 奏: （あの頃は、友達とおしゃべりしたり、 ご飯を食べたりするのも普通で……）
@@ -180,4 +172,4 @@ Gacha phrase: ここのラーメンは全部美味しい
 (Background change)
 まふゆ・絵名・瑞希: 『うん！』 『うん……』
 (Background change)
-(Black cut)
+(Black transition)

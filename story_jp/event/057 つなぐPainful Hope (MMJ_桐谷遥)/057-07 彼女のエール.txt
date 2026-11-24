@@ -2,7 +2,7 @@
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂南会館前]
@@ -43,16 +43,12 @@
 みのり: 真依ちゃん……
 真依: でも、応援してくれるファンのみんなに応えたい。 私は歌えなくなっちゃったけど……、 歌以外でも希望を届けることはできるから
 遥: …………っ！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 真依: なんで！？　どうして！？ どうして私もう歌えないの！？　そんなの……っ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 真依: 私は、私が思う“アイドル”として、 ファンのみんなに向きあい続ける——
 真依: そう思うようになれたから、今の私がいると思うの
@@ -65,7 +61,7 @@
 真依: あ……それじゃあ私はこれで！ 今度、ゆっくりお話させてくださいね！
 真依: ばいばい、遥ちゃん！
 遥: ——うん。またね、真依
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -87,7 +83,7 @@
 みのり: ……うんっ！ お願いします、遥ちゃんっ！
 みのり: 長谷川さんが、また楽しく作曲ができるように……！
 遥: ——うん！
-(Black cut)
+(Black transition)
 (Background change)
 
 [里帆の部屋]
@@ -96,7 +92,7 @@
 長谷川: ダメだ……。やっぱり作れない……
 長谷川: このまま、ずっと作れなかったら……どうしよう……
 長谷川: え、電話……？ 誰だろう……
-(Black cut)
+(Black transition)
 (Background change)
 
 [乃々木公園]
@@ -117,4 +113,4 @@
 長谷川: え……！？
 遥: ……もしよかったら、 ちょっと長いんですけど、聞いてくれますか？
 遥: 私の——MORE MORE JUMP！に入る前の話を
-(Black cut)
+(Black transition)

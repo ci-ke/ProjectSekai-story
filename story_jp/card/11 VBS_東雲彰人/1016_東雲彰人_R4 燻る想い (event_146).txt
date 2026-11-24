@@ -46,7 +46,7 @@ Gacha phrase: ……燃え尽きちまったのか……？
 杏: えー、人がせっかく助け舟出してあげたのにさ〜
 洸太郎: 材料は多めにあるし、こっちは構わねえよ。 それに、意見は多いほうが助かるしな！
 洸太郎: 作ってくるから、ちょっと待っててくれ！
-(Black cut)
+(Black transition)
 
 [数十分後]
 
@@ -73,7 +73,7 @@ Gacha phrase: ……燃え尽きちまったのか……？
 彰人: 違うっての。お前らと一緒にすんな
 彰人: （RAD BLASTが終わって、 いろいろと変わったことも多いが……）
 彰人: （またここでパンケーキが食えるようになったってのは、 よかったかもな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -89,29 +89,21 @@ Gacha phrase: ……燃え尽きちまったのか……？
 彰人: ……アメリカ、か
 彰人: （正直、話を聞いた時は驚いた。急な話だったしな）
 彰人: （だが——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: ——行く
 杏: ……え？
 彰人: アメリカだろ。 ——オレは行く
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……あの時、大河さんの誘いを断るって選択肢は 思い浮かばなかった）
 彰人: （たぶん、それは——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 彰人: （あいつの歌を、聴いたからだろうな）
 彰人: （『RAD WEEKENDを超える』って夢の先に—— 世界に、何があるのか……）
 彰人: （オレは、それを見に行きてえ）
@@ -147,4 +139,4 @@ Gacha phrase: ……燃え尽きちまったのか……？
 杏・こはね・冬弥: 『うん！』 『ああ』
 彰人: （……こいつらと、 『世界を獲る』って目標を追いかけるために——）
 彰人: （オレも、もっと気合い入れていかねえとな）
-(Black cut)
+(Black transition)

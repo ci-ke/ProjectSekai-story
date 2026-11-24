@@ -9,7 +9,7 @@ Gacha phrase: さあ、開廷の時間だ
 
 [冥界の門]
 
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): ……ガベルの音が聞こえる
 ガレリアン (KAITO): これから裁判でも始めようというのか？
@@ -30,7 +30,7 @@ Gacha phrase: さあ、開廷の時間だ
 ガレリアン (KAITO): （あるいは妻を顧みなかったことか、 それとも、妻とミッシェルの旅行についていかなかったことか）
 ガレリアン (KAITO): …………
 ガレリアン (KAITO): （あの時、別の選択をしていたら、 違う未来があったのだろうか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [生前のある日]
@@ -48,7 +48,7 @@ Gacha phrase: さあ、開廷の時間だ
 ガレリアン (KAITO): ——それより、やらねばならないことが山積みだ
 ガレリアン (KAITO): ようやく、USE暗星庁長官になったのだからな。 それに、裁判資料の読みこみも必要だ
 ガレリアン (KAITO): さて、まずは——
-(Black cut)
+(Black transition)
 ？？？: ——パパ。今、お仕事中？
 ガレリアン (KAITO): ……ミッシェル？
 ガレリアン (KAITO): 大丈夫だ。入ってきなさい
@@ -65,7 +65,7 @@ Gacha phrase: さあ、開廷の時間だ
 ミッシェル: んもう、パパってばそればっかり
 ミッシェル: たくさんお土産買ってくるね！
 ガレリアン (KAITO): ああ。ありがとう、ミッシェル。 楽しんでおいで
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): ——しばらくしてミッシェルは妻と旅行に出かけた。 海の向こうの、私の実家に行くために
 ガレリアン (KAITO): そのあいだ、約束どおり毎日電話をくれた。 弾む声でその日あったことを教えてくれた
@@ -73,7 +73,7 @@ Gacha phrase: さあ、開廷の時間だ
 ガレリアン (KAITO): きっと電話の向こうで、笑顔で言ってくれていたに違いない
 ガレリアン (KAITO): だが……
 ガレリアン (KAITO): あの子は、帰って来なかった——
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): …………
 ガレリアン (KAITO): …………誰だ？
@@ -110,10 +110,10 @@ Ma: さあ。その魂の輝きに身をゆだねて——
 ガレリアン (KAITO): 私、は……
 Ma: ——決意なさい！　ガレリアン＝マーロン！！
 ガレリアン (KAITO): ミッシェル——
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): （お前にもう一度会えるなら、 悪魔に魂を売ったってかまわない）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -130,23 +130,23 @@ Ma: ——決意なさい！　ガレリアン＝マーロン！！
 ミッシェル？: …………
 ガレリアン (KAITO): え、一緒に？　そうだな、あとで一緒に読もう
 ガレリアン (KAITO): じゃあそのためにも、パパ、仕事を頑張ってくるよ
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): その後、屋敷に戻ってきた使用人は、 娘を見て驚いていた
 ガレリアン (KAITO): それはそうだろう、死んだと思っていた愛しい子が、 足に後遺症が残っているものの、戻ってきたのだから
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): 待っていなさい、ミッシェル。 その足もすぐ、パパが治してあげるから
 ガレリアン (KAITO): さあ、集めるんだ。 『大罪の器』を——
 ガレリアン (KAITO): そのためには……金が要る
 ガレリアン (KAITO): 情報を集めるためにも、買い取るためにも。 フッ、場合によっては賄賂としても……
 ガレリアン (KAITO): 手段など、選ばない
-(Black cut)
+(Black transition)
 (Background change)
 
 [冥界の門]
 
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): …………
 冥界の主: ——————……
@@ -163,7 +163,7 @@ Ma: ——決意なさい！　ガレリアン＝マーロン！！
 ガレリアン (KAITO): 仲間に見限られた、だと？
 ガレリアン (KAITO): あいつらが勝手に離れていったんだ！
 ガレリアン (KAITO): 私にとって、ミッシェルが どれだけ大切な存在かを知りながら……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [生前]
@@ -181,16 +181,16 @@ Ma: ——決意なさい！　ガレリアン＝マーロン！！
 昔馴染みの部下B: ガレリアンよ。 やはりお主は、法によって裁きを受けるべきなのだ
 昔馴染みの部下B: それはかつて、お主自身が信条としていたことなのだから
 ガレリアン (KAITO): …………
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): ——それから少しもしないうちに、 私や周囲の者達が関わった汚職の情報が マスコミにリークされた
 ガレリアン (KAITO): それは民衆の、政財界や軍部、司法に対する不満に火をつけ 暴動という形で爆発した
 ガレリアン (KAITO): 私に反感を持っていた者達の、根回しもあったのだろう
 ガレリアン (KAITO): そして私は——
-(Black cut)
+(Black transition)
 民衆達: 『悪辣将軍を許すなっ！！』 『悪徳裁判官を許すなっ！！』
 民衆達: 『裁かれるのはお前達だ！！』 『金の亡者共に鉄槌を！！』
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): ……すでに囲まれている、か
 ガレリアン (KAITO): …………
@@ -206,10 +206,10 @@ Ma: ——決意なさい！　ガレリアン＝マーロン！！
 ガレリアン (KAITO): 『地獄の沙汰も金次第』ってね
 ガレリアン (KAITO): お金さえあればあの世でも『大罪の器』は集められるさ。 そうしたら、お前を迎えに行く
 ガレリアン (KAITO): ふたり一緒なら—— どんな場所でも理想郷になるよ、きっと
-(Black cut)
+(Black transition)
 (Background change)
 冥界の主: …………
-(Black cut)
+(Black transition)
 (Background change)
 ガレリアン (KAITO): ——さあ、これで被告人の陳述は終わった
 ガレリアン (KAITO): だがな、冥界の主よ。 これ以上の審理も判決も不要だ
@@ -218,4 +218,4 @@ Ma: ——決意なさい！　ガレリアン＝マーロン！！
 ガレリアン (KAITO): ——待っていろ、ミッシェル
 ガレリアン (KAITO): 私は、必ずお前を取り戻す——
 ガレリアン (KAITO): フ……フフフッ……フハハハハハッ！
-(Black cut)
+(Black transition)

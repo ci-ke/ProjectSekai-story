@@ -69,7 +69,7 @@ Shosuke: ...
 Keisuke: Now, we need to protect that smile.
 Keisuke: Not just our family either. We need to make sure everybody who comes to visit Phoenix Wonderland also goes home smiling.
 Shosuke: Right...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -86,7 +86,7 @@ Nene: Eep...!
 Rui: Well, that was quite the spike...
 Tsukasa: Hah hah hah! Why are you running, Nene? You won't win if you keep doing that!
 Nene: Emu's the one that scored, not you. Also, there's no way I can dig that! I'd break my wrists if I tried!
-(Black cut)
+(Black transition)
 Emu: That was so much fun!
 Nene: Geez, I didn't expect to use so much energy just on beach volleyball. I'm exhausted.
 Nene: But Luka seemed to be enjoying herself too. I'm sure she's getting in some beauty sleep in SEKAI now.
@@ -116,10 +116,8 @@ Emu: It reminds me of when my big brothers, big sister and I went to see the oce
 Emu: We went on a family vacation a really long time ago and everybody came along♪
 Nene: Really...? I have a hard time imagining your older brothers going on a trip like that based on how they are now...
 Emu: Hehe! Keisuke took an encyclopedia of sea creatures with him, and the four of us went exploring on the beach!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Little Emu (Emu): Shosuke, look! It's a jellyfish!
 Little Shosuke: Wah! No, don't come any closer!
 Little Shosuke: And why are you holding it?! What if you get stung?!
@@ -129,10 +127,8 @@ Little Hinata: Oh... Emu, Keisuke, Shosuke, over here! There's a pool full of st
 Little Emu (Emu): Really?!
 Little Keisuke: Nice find, Hinata. Let's see if these are safe to touch too.
 Little Shosuke: Stop finding things will you, Hinata?! And can't you just say that they're poisonous or something, Keisuke?!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Emu: We couldn't take anything home with us but we all had so much fun.
 Tsukasa: Yes, that does sound like quite a bit of fun. However, some parts of that story did concern me a little...
 Nene: Did you and your family visit the beach often, Emu?
@@ -159,4 +155,4 @@ Rui: Then it's a good thing we came here.
 Nene: Yeah. I was exhausted towards the end, but it was nice to visit the beach for once.
 Emu: I hope we get to come back again!
 Tsukasa: Yes, I hope so too!
-(Black cut)
+(Black transition)

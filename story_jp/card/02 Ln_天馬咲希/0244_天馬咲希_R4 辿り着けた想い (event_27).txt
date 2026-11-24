@@ -78,30 +78,22 @@ Gacha phrase: リンちゃん、アタシわかっちゃった！
 司: いいんだ。ムチャクチャとはすなわち唯一無二！ 褒め言葉でもあるんだからな！
 咲希: あははっ、ホントお兄ちゃんってポジティブなんだから
 咲希: でも、そっか……。 やっぱり、楽しいことばっかりじゃないんだよね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: プロになる覚悟ができないと、難しい
 志歩: みんなには、その覚悟ができるの？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （きっと志歩ちゃんは、わかってたんだ。 みんなが、こういう想いをするっていうこと……）
 咲希: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: アタシ、すっごくたくさん考えたんだけど……。 やっぱり、志歩ちゃんとバンドがしたいの！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （あんなに迷って、あんなに悩んで——）
 咲希: （それでも、志歩ちゃんと一緒にプロを目指すって 決めたんだから！）
@@ -110,7 +102,7 @@ Gacha phrase: リンちゃん、アタシわかっちゃった！
 咲希: お兄ちゃん！　アタシ、部屋に戻る！ 戻って、曲作りがんばる！
 司: ああ、その意気だ！ 頑張れ、咲希！
 咲希: うん！　お兄ちゃん、ありがとう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -129,7 +121,7 @@ Gacha phrase: リンちゃん、アタシわかっちゃった！
 咲希: だから、今度はアタシから しほちゃんを誘いに来ました♪
 志歩: なんだそういうこと？ ……別にいいよ
 咲希: ホント？　やったー！
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -175,17 +167,13 @@ Gacha phrase: リンちゃん、アタシわかっちゃった！
 咲希: 本当に、ごめんなさい
 咲希: でも、やっぱりアタシ、 バンドのために何かしたかったの
 咲希: だから……あの、一緒にお昼を食べた時、 しほちゃん言ってくれたよね——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: 咲希は、自分のやりたいことをちゃんと見つけて、 そのために頑張れてるでしょ？ 私達はずっと、そんな咲希に助けられてきた
 志歩: だからきっと、私達の伝えたい想いは 咲希が一番最初に見つけられる気がする
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: あの言葉のおかげで、 曲作りもがんばれたんだと思う
 咲希: だから……最後まで、 ちゃんと見守っててくれて本当にありがとう
@@ -227,4 +215,4 @@ Gacha phrase: リンちゃん、アタシわかっちゃった！
 志歩: こら、口に物を入れながらしゃべらない
 咲希: ふぁ～い！
 志歩: まったく……ふふっ
-(Black cut)
+(Black transition)

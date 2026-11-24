@@ -17,30 +17,26 @@
 咲希: ……ごめんね、今は食欲ないから……
 司の声 (司): ……そうか。 下にいるから、食べたくなったらいつでも降りてくるんだぞ
 咲希: うん……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: ……みんなに、会いたいなぁ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: …………アタシのバカ
 咲希: みんなはちゃんと一緒にいてくれるのに……
 咲希: ……星、見たかったな
 咲希: あれ？　今、スマホが……
 咲希: ……そっか。 あっちでなら、見られるんだ
-(Black cut)
+(Black transition)
 (Background change)
 
 [教室のセカイ]
 
 咲希: ……こんにちは
 咲希: 誰もいない……。 屋上のほうにいるのかな
-(Black cut)
+(Black transition)
 (Background change)
 咲希: こっちにもいないや
 咲希: どこ行っちゃったんだろう
@@ -56,25 +52,21 @@
 ルカ: でも、咲希にいつもみたいな元気がないってことはわかるわ
 咲希: …………
 ルカ: よかったら、少し話していかない？
-(Black cut)
+(Black transition)
 咲希: ……だから、全部アタシが悪かったんです
 咲希: みんなで天文台に行きたいなんて言い出して、 勝手に無茶して、風邪ひいて、迷惑かけちゃって……
 咲希: だから、アタシのせいなんです
 ルカ: 咲希は、どうしてそんなに無茶をしたの？
 ルカ: 志歩が言うように、一緒に天文台に行くチャンスは いくらでもあったのに
 咲希: それは……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 咲希: ずっと欲しかった時間だったから——
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -94,16 +86,14 @@
 穂波: 専門の有名な先生がいるから、地方の病院にしたって、 咲希ちゃんのお母さん言ってたよね
 一歌: 実は私、そのあとも、 何回かお母さんとお見舞いに行ってたんだ
 一歌: それで、その時咲希が……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 咲希: え！？　先生赤ちゃんできたの！？ うわ～おめでとう～！
 咲希: あ、お祝いの手紙書こう！ 今書くから、いっちゃん、先生に渡してくれない？
 一歌: うん、いいよ
 咲希: ありがとう！　えーっと便箋はここだっけ。 よーし
-(Black cut)
+(Black transition)
 咲希: ……健康に気をつけて下さい、っと。 よし、できた
 咲希: あ、そーだ。ほなちゃんとしほちゃんにも書こうっと！ スマホの連絡ばっかじゃ味気ないしね～
 咲希: ほなちゃんもしほちゃんも、忙しいみたいだね。 最近メッセージ送っても、あんまり返事こないんだぁ
@@ -121,13 +111,11 @@
 咲希: ほなちゃんは書いてくれそうだけど しほちゃん返事書いてくれるかなー？　ふふっ
 咲希: はい、いっちゃん。手紙よろしくお願いします！
 一歌: ……うん
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: 咲希……
 穂波: 咲希ちゃん……
 一歌: 咲希は、私達が思うより、 ずっとずっと寂しかったと思うんだ
 一歌: だから——３人で会いに行こう
-(Black cut)
+(Black transition)

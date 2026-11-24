@@ -17,18 +17,14 @@ Gacha phrase: 目が覚めたら、またむいてもらおう
 ミク (N25): そっか……
 ミク (N25): あ……さっき、瑞希が来てたよ
 まふゆ: え？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: …………わかんないんだよね
 瑞希: 服飾の勉強は、やりたいって思うんだ。 でも……ニーゴも、続けたいって
 瑞希: だけど——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……瑞希、何か言ってた？
 ミク (N25): 服作りで余った布で、リボンを作ったって。 つけてくれたら嬉しい、って言ってた
@@ -36,35 +32,27 @@ Gacha phrase: 目が覚めたら、またむいてもらおう
 ミク (N25): ……絵名と奏は、今どうしてるの？
 まふゆ: 絵名はいつも通りだよ。 また絵画教室で難しい課題が出たみたいで、 昨日の作業は少し遅れてきた
 まふゆ: 奏は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……奏も、いつも通り。 曲のことを、いろいろ考えてるみたい
 ミク (N25): そうなんだ
 まふゆ: （……きっと、私のための曲を作ろうとしてるんだと思うけど）
 まふゆ: （構想から練り直すって言ってたし、 あれから、ずっと考えてるんだろうな……）
 まふゆ: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: ……ごめん。心配かけて
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……？　湖の方で今、何か光った……
 ミク (N25): あの光は……
-(Black cut)
+(Black transition)
 まふゆ: あ、カイト……
 KAITO (N25): ……お前らも、想いの破片を感じて来たのか？
 まふゆ: 想いの、破片？
@@ -87,7 +75,7 @@ KAITO (N25): この破片は想いの欠片と違って、 放っておいたら
 KAITO (N25): 可能性は高い
 まふゆ: ……わかった。行ってみる
 まふゆ: ——じゃあ、触るね
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -150,14 +138,14 @@ KAITO (N25): そしてお前は、あのまふゆが想いの欠片本体から 
 小学生のまふゆ (まふゆ): ………………ごめんなさい
 まふゆ: ……謝らなくていいよ
 まふゆ: その私が目を覚ますように、想いを探してみるから
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 朝比奈まふゆ, 初音ミク, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -174,7 +162,7 @@ KAITO (N25): 何言ってるんだ？ そんなものないぞ
 まふゆ: 使うって、どういうこと？
 小学生のまふゆ (まふゆ): そのままの意味だよ。手を出して？
 まふゆ: ……わかった
-(White cut)
+(White transition)
 (Background change)
 ミク (N25): ……まふゆが、ひとりになった？ 一緒に来たまふゆは？
 KAITO (N25): ……おそらく、そこにいる小さいまふゆの中だ
@@ -188,20 +176,20 @@ KAITO (N25): 行くぞ。他にも手掛かりがあるはずだ
 KAITO (N25): 放っておけ。少しの間なら大丈夫だろ
 ミク (N25): あのまふゆも心配だけど……。 小さくなっちゃったまふゆも心配だから、ついていく
 まふゆ: ……ありがとう、ミク
-(Black cut)
+(Black transition)
 ミク (N25): ……あ、見て。 この写真、今のまふゆよりも もっと小さいまふゆがいる
 まふゆ: ……この身長じゃ見えない
 ミク (N25): そっか……。 ねえ、カイト。まふゆを抱っこ——
 KAITO (N25): そこのイスを持ってくる
-(Black cut)
+(Black transition)
 KAITO (N25): こっちにあるのは賞状か？ 校内弁論大会と……
 まふゆ: ……中等部の時のやつだと思う。 その隣のは、スポーツ大会の優秀選手賞かな
-(Black cut)
+(Black transition)
 まふゆ: この棚にある絵本、どれも小さい頃に読んでたな
 ミク (N25): あ……この本、覚えてる。 前に、まふゆが読んでくれた
 ミク (N25): ……こっちの絵本は知らない。 ねえ、まふゆ。どんな話——
 KAITO (N25): おい。遊んでる暇はないぞ。 次は向こうだ
-(Black cut)
+(Black transition)
 まふゆ: ……あ。そこの額、何かが貼りついてる
 KAITO (N25): これは…… 楽譜だな。曲が書かれてる
 ミク (N25): ……その曲、覚えてる。 まふゆが『OWN』として作ってた曲だ
@@ -220,18 +208,14 @@ KAITO (N25): ……あいつ、なのか？ この楽譜を生み出している
 ミク (N25): ……起き、ない？
 まふゆ: ……多分だけど、気づかないといけないのは 『どうして眠ってしまったのか』の方なんだと思う
 KAITO (N25): お前に体を貸したまふゆの 口ぶりからすると、そうらしいな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 小学生のまふゆ (まふゆ): ……あの私、最近ずっと眠そうにしてたの
 小学生のまふゆ (まふゆ): 『そんなに眠いなら寝たら？』って言ったんだけど、 『起きてなくちゃいけないから』って……
-(White cut)
+(White transition)
 小学生のまふゆ (まふゆ): それに、あの私がいるここだけ、 想いの欠片からどんどん離れていっちゃって……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: （起きてなくちゃいけない、か……）
 まふゆ: きっとあの私は、眠ったら自分が想いの欠片から離れるって わかってたんだろうな
 KAITO (N25): ……どうして、眠ったら欠片の本体から想いが離れるんだ？
@@ -257,7 +241,7 @@ KAITO (N25): 目的があるとはいえ、 少しはお前に考えさせたか
 まふゆ: でも、どうして……？
 まふゆ: 私は……
 まふゆ: 私は、想いを捨ててもいいなんて——
-(White cut)
+(White transition)
 まふゆ: あ……
 小学生のまふゆ (まふゆ): ………………
 ミク (N25): まふゆが、ふたりに戻った……
@@ -281,21 +265,17 @@ KAITO (N25): 要は、お前は自分が救われることより、 奏の体調
 まふゆ: あ……
 もうひとりのまふゆ (まふゆ): それに、“私”は家に戻ったけど…… 結局、上手くいかなかった
 まふゆ: だって、あれは——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: まふゆも、行きたいって……言っていたわよね？
 まふゆの母: あの学校がいいって……
-(White cut)
+(White transition)
 まふゆの母: っ、今度こそ……まふゆの夢を応援できると思ってたのに——
 まふゆの母: それも…………
 まふゆの母: まふゆを……苦しませてただけで…………
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 私が……、本当のことを言えなかったから……
 ミク (N25): まふゆ……
@@ -308,7 +288,7 @@ KAITO (N25): 要は、お前は自分が救われることより、 奏の体調
 小学生のまふゆ (まふゆ): せっかく、見つけてもらったのに……
 まふゆ: …………そうだね
 まふゆ: なるべく、気をつけるよ
-(White cut)
+(White transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -323,4 +303,4 @@ KAITO (N25): ちびのお前が繋ぎとめていなかったら、 どうなっ
 まふゆ: さすがに、“あの頃”には戻りたくないから 気をつけるよ
 ミク (N25): ……大丈夫。まふゆには、わたし達もいるから
 まふゆ: うん……。ありがとう
-(Black cut)
+(Black transition)

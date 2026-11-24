@@ -3,7 +3,7 @@
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi)
 
 (Video: link2_street_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -16,7 +16,7 @@ Akito: (Wait, of course he is... I'm in the US.)
 Akito: “Sorry, I'm just a bit light-headed.”
 Staff Member: “Whoa, don't go collapsing on stage or anything, okay?”
 Akito: “I'm fine. And this crowd won't know what hit them.”
-(Black cut)
+(Black transition)
 (Background change)
 Akito: ♪———————! ——————!
 Akito: (That's right. On your feet...!)
@@ -26,7 +26,7 @@ Audience: “You're doing great, Akito!!!”
 Akito: (No, I can still do better. A lot better...!)
 Akito: ♪——————————!
 Akito: (I need to be more...!)
-(Black cut)
+(Black transition)
 (Background change)
 Akito: Phew...
 Staff Member: “You had them bouncing off the walls, Akito!”
@@ -41,7 +41,7 @@ Staff Member: “You're so diligent. But why not hang out with some other musici
 Staff Member: “Sam and the others were just looking for you. They wanted to see if you'd be interested in going to the after-party.”
 Akito: (Actually, I might learn something new by talking to other musicians.)
 Akito: “Okay, I'll go.”
-(Black cut)
+(Black transition)
 (Background change)
 
 [After-Party Venue]
@@ -65,20 +65,16 @@ Akito: “No, it's nothing like that.”
 Akito: “I've already decided that I'm not going to team up with anyone.”
 Musicians: “Wait, why? Did something happen?”
 Akito: “No...”
-(White cut)
+(White transition)
 (Background change)
 Akito: Vivids broke up...?
 Toya: Yes, that's right.
 Akito: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: Dammit...!
 Akito: If they couldn't make it through that, then that means they've reached their ceiling.
@@ -92,10 +88,8 @@ Akito: Huh? What are you talking about?
 Toya: I...
 Toya: I can't keep going after this childish dream.
 Akito: ...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (At first, I thought his dad was behind what he said.)
 Akito: (But he was adamant about quitting.)
@@ -120,4 +114,4 @@ Akito: (Did I imagine that...?)
 Akito: (I thought I heard someone else's voice just now.)
 Akito: Hm? A message? From who...?
 Akito: ...!
-(Black cut)
+(Black transition)

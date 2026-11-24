@@ -12,18 +12,14 @@
 一歌: ♪…………
 一歌: （やっぱり声が出ない……。 また、今日も１曲も歌えずに終わるのかな）
 一歌: （志歩の望むレベルに届かないまま——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 こはね: だから、その子の気持ちに応えられるように、 早く追いつくために練習してるんだ
 こはね: 志歩ちゃんも、信じてくれてるから教えてくれるんじゃないかな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 一歌: ……！
 一歌: （このままじゃだめだ。 こんな声じゃ、聴いてもらえない……！）
 一歌: （今まで教えてくれた志歩のためにも、 もっともっとうまくなりたい！）
@@ -55,7 +51,7 @@
 一歌: あ……はい！
 一歌: ……よかった
 一歌: また、ここで歌いたいな……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -95,4 +91,4 @@
 一歌: 志歩が思いっきり演奏ができるように、 私……頑張るよ
 志歩: 一歌……
 志歩: ……うん、ありがとう
-(Black cut)
+(Black transition)

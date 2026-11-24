@@ -22,7 +22,7 @@ Honami: Anyway, we've probably talked enough. Let's start studying, shall we?
 Ichika: Okay.
 Honami: Let's see... We have to head over to the studio later today, so... I'll be sure to remind you all again in two hours.
 Saki: Thanks, Hona! Alright, let's do this!
-(Black cut)
+(Black transition)
 Honami: *Sigh* (I'm starting to feel a little tired...)
 Honami: (But the others are maintaining their focus, so I need to keep doing my best.)
 Honami: (Huh...?)
@@ -31,7 +31,7 @@ Honami: Is something wrong, Shiho?
 Shiho: Oh, I was working on this graph problem... But my calculation seems off for some reason.
 Honami: Are you talking about this function graph? That's a difficult one, but the real root portion seems right...
 Honami: If I recall, the next step involves finding the solution using the discriminant of this function. Why don't we try that together...?
-(Black cut)
+(Black transition)
 Shiho: Does my math look right to you?
 Honami: Yes, everything looks correct... Including the intermediate steps.
 Shiho: Finally. Thanks for showing me what to do. Your explanation was so easy to understand.
@@ -40,7 +40,7 @@ Ichika: Oh, Honami, sorry... Would you mind helping me with this problem for Cla
 Ichika: I'm working on this honorific language part, but I'm not sure about my answers.
 Honami: Let's see... Oh, you're so close here.
 Honami: “To receive” here doesn't count as being honorific. Rather, it's a sign of modesty. That distinction lies in...
-(Black cut)
+(Black transition)
 Ichika: I see... I had trouble wrapping my head around this one during class, but everything makes sense now.
 Honami: Yes, that's the thing about these problems. The key is to know to whom the speaker is referring.
 Ichika: Thanks. I'll try applying what you just said to these other problems.
@@ -64,7 +64,7 @@ Honami: You don't have to mind me...
 Honami: (Still, it is like them to want to do what they can on their own...)
 Honami: (I'll need to stay prepared for when they do require my help.)
 Honami: (Which means I need to keep on studying...!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -76,19 +76,15 @@ Honami: (Which means I need to keep on studying...!)
 Honami: Phew... Okay, where are Ichika and the others...?
 Honami: Oh, is no one else here? Does that mean...? Did I come over too early?
 Honami: And the corridor's so quiet. It doesn't seem like they're in any of the other classrooms...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (I doubt anything has changed, but...)
 Honami: I think I'll go take another look at the tree...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Station]
@@ -106,15 +102,11 @@ Len (Ln): Thanks, we will.
 Rin (Ln): Oh, Hona, has anything changed on your end? Any news to report?
 Honami: No, nothing has changed. But I do keep finding myself thinking about that dream.
 Honami: Looking back, it really was strange...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Honami: Because we clearly wanted to be with each other regardless of where we were or what we were doing...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Honami: Ichika, Saki and Shiho all feel that way. None of us wish to be apart.
 Honami: Which makes me very happy... So, I really am glad that we had that dream.
 Rin (Ln): Hona...
@@ -126,10 +118,8 @@ Len (Ln): We tried calling your names and shaking you, but nothing worked.
 Len (Ln): That was when Rin decided to grab a pair of cymbals.
 Honami: C-Cymbals?
 Rin (Ln): Yeah, you gotta hear this! The others were so mean to me, Hona!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Rin (Ln): Girls! Wake up!!
 Luka (Ln): Nothing. They're still fast asleep...
 Rin (Ln): Hmm... What should we do? If they stay stuck like this, then their legs might get all stiff!
@@ -146,10 +136,8 @@ Miku (Ln): They're still asleep...
 Rin (Ln): What?! Why?!
 Rin (Ln): Hmm... Alright, I'm gonna bring over some other instruments! I can even make things really loud by cranking some amps up to the max!
 Len (Ln): Wait, Rin...! If this didn't work, then there's no way any of that will!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Honami: Th-That really happened...? We honestly had no idea.
 Rin (Ln): When I tried to go get those amps, MEIKO and the others stopped me right away.
 Len (Ln): Well, yeah. It was that or let something really bad happen.
@@ -160,4 +148,4 @@ Honami: Hmm... Even those cymbals didn't wake us. Lights and smells tend to be e
 Len (Ln): Smells... Oh, Honami, in your case, a freshly baked apple pie might do the trick.
 Rin (Ln): Yeah! You'll get so hungry that you won't have a choice but to wake up!
 Honami: What? That wouldn't happen... At least, I don't think...
-(Black cut)
+(Black transition)

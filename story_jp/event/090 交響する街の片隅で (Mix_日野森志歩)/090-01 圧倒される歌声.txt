@@ -21,7 +21,7 @@ Leo/needのワンマンライブを直前に控えた志歩。用事のためビ
 店長: うん、それじゃ頑張ってね
 店長: Leo/needのワンマン、僕も楽しみにしてるよ
 志歩: ——はい。絶対に、いいライブにします
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -36,18 +36,14 @@ Leo/needのワンマンライブを直前に控えた志歩。用事のためビ
 志歩: （…………何、この歌）
 志歩: （すごくうまい……。 えっと、あっちのほうから——）
 志歩: ……あ。 あの人、たしか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 杏: やっほー！　Vivid BAD SQUADだよー！ みんな、盛り上がってるー！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: そうだ。白石さん——
 杏: ♪————！！　————！！
@@ -58,7 +54,7 @@ Leo/needのワンマンライブを直前に控えた志歩。用事のためビ
 志歩: （……たしか、RAD WEEKENDっていう 伝説的なイベントを超えようとしてるんだよね）
 志歩: （聴いてるこっちの胸が痛くなるくらい、 歌に気持ちが乗ってるのは……それだけ真剣ってことなのかな）
 志歩: （——そうだ。私達も……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -67,15 +63,11 @@ Leo/needのワンマンライブを直前に控えた志歩。用事のためビ
 
 志歩: （今日もみんな、いい調子だな）
 志歩: （でも……昨日の——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （昨日聴いた、あの圧倒される歌声……。 あれ、すごく良かった）
 志歩: （私も、あんな風に力強い演奏をしてみたい。 聴いてくれた人の胸に、強く、強く響くような感じで……）
@@ -84,7 +76,7 @@ Leo/needのワンマンライブを直前に控えた志歩。用事のためビ
 MEIKO: 前とは見違えたね。 演奏自体も、かなりレベル上がってるし
 志歩: ——このまま最後まで通すよ！
 一歌: うん！
-(Black cut)
+(Black transition)
 咲希: ……これで８曲終わりだね！ みんな、お疲れさまっ！
 ルカ: ふふ。それにしてもみんな、 スタミナもついたし、演奏技術も前より上達してるわね
 穂波: うん、練習の成果がでてるね
@@ -118,4 +110,4 @@ MEIKO: たしかに、いつも以上にキレが良くて、 音に気持ちが
 志歩: それで、場所はどこなの？
 穂波: えっとね、ビビッドストリートの——
 志歩: WEEKEND GARAGE……
-(Black cut)
+(Black transition)

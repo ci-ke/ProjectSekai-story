@@ -13,11 +13,9 @@ Akito: Dude, I get that you like being a nice guy and all, but you didn't have t
 Akito: No, I take that back. You would've said yes no matter what...
 Akito: (I was kinda looking forward to taking a breather at MEIKO's place once we were done with morning practice too...)
 Akito: (He just had to ask Toya to do this...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: Alright, let's take a break here.
 Toya: Okay. I'm getting thirsty too, so I think I'll go buy something to drink.
 Akito: Then, you wanna head over to SEKAI? MEIKO said that she'd be adding stuff to her menu and there's something I want to try too.
@@ -33,14 +31,14 @@ Toya: Is something the matter?
 Saki: <I actually need to sort of ask you a favor...>
 Toya: A favor?
 Saki: <If you have time that is...>
-(Black cut)
+(Black transition)
 (Background change)
 Saki: I was hoping that you'd be able to fill in for Tsukasa at work for him...!
 Toya: <At work...? You mean at Phoenix Wonderland...?>
 Saki: Uh, no! Not that!
 Saki: Tsukasa works as an extra whenever Phoenix Wonderland is closed. He said that he has to be able to work wherever if he wants to become a star...!
 Saki: And today's one of those days, but Tsukasa isn't feeling all that well...
-(Black cut)
+(Black transition)
 (Background change)
 Toya: He isn't? Is he okay?
 Saki: <Yeah, he is. The doctor even said that it's just a little tummy ache. But he still says it hurts pretty bad, so I've been telling him to take the day off...>
@@ -60,12 +58,12 @@ Akito: What's up, Toya? Something going on?
 Toya: Sorry, Akito. There's something I have to do.
 Akito: Huh?
 Toya: I'll do it. I'll be his replacement.
-(Black cut)
+(Black transition)
 (Background change)
 Saki: What?! You will?!
 Saki: Thank you so much, Toya! You're the biggest lifesaver ever!
 Toya: <It's okay. Tsukasa's always been there for me so...>
-(Black cut)
+(Black transition)
 (Background change)
 Akito: Uh, Toya... What did you mean when you said “replacement” just now?
 Akito: Also, I thought I heard “his” name just now...
@@ -82,29 +80,27 @@ Toya: Understood. Please give him my regards as well.
 Saki: <I will! I'll have him send you everything about where to go and what to do!>
 Toya: Okay. Thank you, Saki.
 Akito: Dude...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 (Place: Wedding Ceremony Hall)
 Toya: I apologize for agreeing to do this on a practice day, Akito. I promise to make up for it later.
 Akito: It's fine. I know that you won't budge even if I asked you not to do this...
 Toya: Thanks. I'll be going then...
 Akito: But him acting...? As an extra for a wedding too...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
 
 Rui: That should be enough resistors, plus any extras I may need. Oh, I should buy more crimp connectors while I'm at it...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000078/bg_a000078.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000078/bg_a000078.webp)
 Len: <Whoa! That's awesome!>
 Len: <It's so cool how you're using stuff like this as props, Rui...!>
 Rui: Hehe. Do you like it? Would you like to make some as well, Len?
 Len: <Me? Really? Yeah! I wanna make a rocket that can fling you into the sky!>
-(White cut)
+(White transition)
 (Background change)
 Rui: Of course. Let's make one together.
 Rui: While we're at it, why don't we make it so that you can fly with it?
@@ -117,7 +113,7 @@ Rui: They're from... Tsukasa's sister and Tsukasa...? Oh, speak of the devil...
 Rui: Hello... You sound like you're at death's doorstep, but this is you, yes, Tsukasa? How can I help?
 Rui: Being an extra...? Oh, you mentioned that before.
 Rui: Aoyagi's going in your place?
-(Black cut)
+(Black transition)
 Rui: In that case, please take care. You should get some well-deserved rest for a change.
 Len: <Is Tsukasa okay?>
 Rui: He was scheduled to be an extra for something today but he unfortunately has a stomachache.
@@ -132,4 +128,4 @@ Len: <What? A wedding?>
 Len: <I've only read about them in scripts and stuff, but I've never actually seen or been to one before. Why do you ask...?>
 Rui: Then it's settled. Let's go together, Len.
 Rui: I'm sure it'll serve as a good reference for your own shows as well.
-(Black cut)
+(Black transition)

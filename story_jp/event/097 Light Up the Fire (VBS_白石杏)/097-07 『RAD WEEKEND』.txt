@@ -2,7 +2,7 @@
 
 (Character: 白石杏, 東雲彰人)
 
-(White cut)
+(White transition)
 (Background change)
 
 [RAD WEEKENDの１カ月前]
@@ -88,7 +88,7 @@ COLオーナー: 豪快な夢の見かたで、 こういうのもあんたら�
 Crawl Greenオーナー: ん？　なんだ？
 凪: このことは——杏には、絶対に言わないでほしいんだ
 街の人達: ……え？
-(Black cut)
+(Black transition)
 くせっ毛のレコード屋店員: ——なるほどな……
 ライブハウス店長: はーっはっは！　こりゃ杏には一生恨まれるな！
 凪: そうだよね……本当にごめん
@@ -103,7 +103,7 @@ COLオーナー: たしかに、杏はつらい思いをするかもしれない
 謙: 必ず見に来てくれ！ ここにいる全員にとっての、人生最高のイベントにする！
 COLオーナー: ふふっ……懐かしいね。 歌いどおしでもへっちゃらなあんたらの姿が目に浮かぶよ
 COLオーナー: 本当に楽しみだね。 『RAD WEEKEND』か——
-(Black cut)
+(Black transition)
 (Background change)
 
 [RAD WEEKEND当日]
@@ -128,7 +128,7 @@ RUSTのメンバー: …………
 全員: 『おう！！』
 凪: じゃあ、一足先にいってきます！
 大河: …………
-(Black cut)
+(Black transition)
 (Background change)
 凪: （……目を閉じると、肌でわかる。 この空気の熱さと、ヒリついた感じ……）
 凪: （大好きだ）
@@ -158,7 +158,7 @@ RUSTのメンバー: …………
 謙: ……否が応でも、痛みと共にな
 大河: …………
 凪の声: さあ、次は『RUST』！ 飛ばしちゃって！
-(Black cut)
+(Black transition)
 (Background change)
 GLaP dayのメンバー: ——ありがとう、みんな！
 凪: さあラストを飾るのは、もちろん私達——
@@ -195,23 +195,19 @@ GLaP dayのメンバー: ——ありがとう、みんな！
 大河: （俺は……俺はこの熱さを、どうしたって手放したくねえ）
 大河: （お前らとやってきた、 この最高の、世界一の音楽を）
 大河: （死んだって手放せやしねえ。 地獄だってわかせてやりてえ）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: 私のためだったら、しなくていい
 凪: 私、ふたりには、ふたりの好きな道を進んでほしいんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: （——凪。 お前のためじゃない）
 大河: （俺は————！）
 大河: ♪————！　♪————～～！
 謙・凪・大河: 『♪————～～！！　♪————～～～～！！』
-(White cut)
+(White transition)
 (Background change)
 謙: （……終わった、のか……。 ——終わっちまったんだな）
 凪: ……みんな、お疲れさま！
@@ -244,7 +240,7 @@ GLaP dayのメンバー: ——ありがとう、みんな！
 (Background change)
 (Background change)
 凪: 次の世代が歩いてくれるよね
-(Black cut)
+(Black transition)
 (Background change)
 
 [２週間後]
@@ -316,8 +312,8 @@ GLaP dayのメンバー: ——ありがとう、みんな！
 凪: 最高で、楽しい人生だったよ
 大河: …………
 大河: ………………ああ……俺もだ…………
-(Black cut)
+(Black transition)
 (Background change)
 杏の父: ——そして、その１週間後
 杏の父: 凪は、静かに息を引き取った
-(Black cut)
+(Black transition)

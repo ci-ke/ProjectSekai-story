@@ -24,44 +24,32 @@ MEIKO: でもそういう時こそ立ち止まって、 今、持っているも
 MEIKO: あなた達は、失ってしまったものよりも、 掴んできたもののほうがずっと多いはずだから
 冬弥: 掴んできたもの……か……
 冬弥: ……たしかに、以前までの俺は…… 自分の気持ちさえ、よくわかっていなかった。だが……
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000048/bg_a000048.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000048/bg_a000048.webp)
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 新しい夢と出会い、父さんと向き合って、 ……自分の気持ちを、言葉にできるようになった
 冬弥: 今では、大事な想いを見つけて曲に込めることも—— まだ少しではあるが、身についてきたと思う
 彰人: ……そうだな。オレも——
 彰人: 昔は、なんつーか……自分のことで一杯一杯だった。 それで、周りが見えなくなっちまうこともあったが……
 彰人: でも今は、前より視野が広がった気がする。 おかげで周りが見えなくなることも、前よりなくなった
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000141/bg_s000141.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000141/bg_s000141.webp)
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……頼もしいヤツらが周りにいるって、 そう思えるようになったからかもしれねえな
 杏: 私は、最高の相棒と——最高の仲間に出会えた
 杏: ……仲間ができたから、 今まで感じたことのない気持ちを、感じることができた
 杏: それから、みんなのおかげで——
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
+(White transition)
+(Flashback out)
 (Background change)
 杏: 私はここまで来れて……ここに立ててるって、思う
 レン: ——みんな本当に、いろんなものを掴んできたよね
@@ -75,23 +63,19 @@ MEIKO: あなた達は、失ってしまったものよりも、 掴んできた
 彰人: ……ま、そうだな。 あの日お前らと会ってなきゃ、今のオレ達はなかっただろうしな
 冬弥: ああ。 それから、謙さんや、仲間になってくれたみんな、それに——
 こはね: 街の人達、RAD WEEKENDを残してくれた凪さんと——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: 鍛えたら、この嬢ちゃんの歌がどうなるのか、 ちょっとばかり興味がわいた
-(White cut)
+(White transition)
 (Background change)
 大河: RAD WEEKENDをイメージしに来たんだろ？ なら立つべきは観客席じゃなく——あっちだ
 大河: ばあさん、こいつらステージに上げていいだろ？
-(White cut)
+(White transition)
 (Background change)
 大河: 嬢ちゃん、いい歌だ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ……大河さんも
 こはね: （——そうだ）
@@ -100,4 +84,4 @@ MEIKO: あなた達は、失ってしまったものよりも、 掴んできた
 こはね: （だから、いろんな気持ちがある。 ありがとうって気持ちも……悔しいって気持ちも……）
 こはね: それなら……
 こはね: それなら、私は——
-(Black cut)
+(Black transition)

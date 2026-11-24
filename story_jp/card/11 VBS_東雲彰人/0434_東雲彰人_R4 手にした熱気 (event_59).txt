@@ -13,40 +13,32 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 
 彰人・冬弥: ♪————！
 こはね・杏: ♪————！
-(Black cut)
+(Black transition)
 彰人: ——よし。きりもいいし、ちょっと休憩するか
 杏: だね。みんな、お疲れ！
 冬弥: いつの間にか、２時間も歌っていたみたいだな
 こはね: あ、本当だ。 全然気づかなかった
 杏: それだけ集中してたってことじゃない？ それに、彰人と冬弥なんて いつも以上に気合い入ってるみたいだし！
 彰人: まあな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （遠野や、あいつの相棒といろいろ話せたのは やっぱでかいな）
 彰人: （おかげでちゃんと理解できた。 オレ達は、同じ想いを持ってる仲間だって）
 彰人: （まあ、気になることもまだあるけどな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 新: 『街を見る』って、どういうことだと思う？
 新: 前、大河さんに負けた時に言われたんだ
 新: 『RAD WEEKENDを超える気なら、この街を見ろ』ってさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （街を見ろ、か……。 あれから考えてみたが、さっぱりわかんねえ）
 彰人: （まあ、遠野もなんかすっきりした顔してたし、 今はイベントを成功させることを考えねえと）
@@ -60,15 +52,11 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 冬弥: このままでは『それなりにいいイベント』は作れても、 『あの夜を超えるようなイベント』にはならないかもしれない
 彰人: ああ
 彰人: あの夜みたいな熱狂的な空気を作るためにも チーム同士が競い合って高め合う相乗効果が 必要だと思うんだが……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: RAD WEEKENDは、 最初から相当な熱気があったよな
 杏: だって、凪さんのソロからスタートだったんだよ？ そりゃ盛り上がるでしょ！
@@ -101,15 +89,11 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 冬弥: 今回、その相乗効果は実感できなかったが、 アプローチとしては間違ってないように思う
 彰人: ああ、オレもそう思う
 彰人: とすると、オレ達に足りてねえのは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: パンケーキ……
 杏: え、何？　お腹すいたの？
@@ -120,7 +104,7 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 杏: あ、いいね！　私もそれ興味ある！
 こはね: うん、私も！
 彰人: よし。じゃあ、次の練習の時にでも聞いてみるか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -136,8 +120,8 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 達也: ああ、悪い。世話になってるライブハウスから ヘルプの依頼が入っちまってな。 今回は俺だけ参加させてもらうことになった
 彰人: わかった。 だったら、反省会はこのメンバーでやるか
 新: うん。じゃあ、このあいだのイベントの映像を ひととおり見てみようか
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 (Background change)
 彰人: やっぱ、EVERの立ち上がりの早さはすげーな……。 １曲目からここまで盛り上げるなんて
 新: 観客にとっても信頼あるチームだろうしね。 失速はないだろうと、 安心して頭からノっていけてるんじゃないかな
@@ -148,29 +132,25 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 洸太郎: 緊張してて覚えてねえ！
 彰人: 堂々と言うことじゃねえだろ……
 新: 『♪————っ！！』
-(Black cut)
+(Black transition)
 (Background change)
 彰人: …………
 彰人: （あの時も感じたが、EVERや三田が空気を温めてたとはいえ、 ここまで観客を熱くさせるなんてな……）
 彰人: （これを、たったひとりで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……いや、ひとりじゃねえか）
 彰人: （あいつは、颯真さんの分の想いも背負ってるんだしな）
-(Black cut)
+(Black transition)
 (Background change)
 こはね・杏: 『♪————！！』
 彰人・冬弥: 『♪————！！』
 彰人: 『♪————————っ！！』
-(Black cut)
+(Black transition)
 (Background change)
 杏: あははっ、私、楽しそう！ けど、テンション上がりすぎてちょっと走っちゃってるなあ
 こはね: 私も……。 もう少しためてから入ったほうが良かったかも
@@ -182,7 +162,7 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 彰人: そりゃ、トリだからな。 お前らからもらったもんを燃やしきる責任あるだろ
 洸太郎: ……すげえな。オレも、もっと落ち着いて 余裕持ってパフォーマンスできるようにならねえと
 達也: ま、そうなりたいなら場数を踏むことだな
-(Black cut)
+(Black transition)
 杏: ふー、楽しかった！　やっぱいいね、 こうやってみんなでワイワイ振り返るのってさ！
 こはね: うん！
 彰人: ……ったく。反省会だってこと忘れんなよ
@@ -205,4 +185,4 @@ Gacha phrase: それでもオレ達は、一歩進んだ
 彰人: （相棒探したり、チーム作ってイベント出たり、 今までも結構いろんなことがあったが……）
 彰人: （オレ達はようやく、 夢への一歩を踏み出せたのかもしれねえな）
 彰人: （よし！　ここにいる全員でつかんだ最初の一歩を、 しっかり次につながねえとな！）
-(Black cut)
+(Black transition)

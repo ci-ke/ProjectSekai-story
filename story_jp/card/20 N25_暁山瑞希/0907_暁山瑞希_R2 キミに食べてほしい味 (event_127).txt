@@ -20,15 +20,11 @@ Skill name: やっぱり似たものきょうだいだよね
 瑞希: でも予定がなかなか合わなくて…… 結局、絵名はまだ行けてないみたいなんだ
 奏: そっか……
 瑞希: ほんとは今日、誘おうと思ってたんだけど——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 絵名、すごく真剣だったし……邪魔するのも悪いかなって
 奏: ……うん、そうだね
@@ -73,7 +69,7 @@ Skill name: やっぱり似たものきょうだいだよね
 奏: ……いいと思う。 テイクアウトもできるって、メニューに書いてたよ
 瑞希: お、ホント！？ よ〜し、そうと決まれば……
 瑞希: すみませーん！ ケーキのテイクアウトお願いしたいんですけど——
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -133,18 +129,14 @@ Skill name: やっぱり似たものきょうだいだよね
 瑞希: （……やっぱり、絵名はすごいな）
 瑞希: （どんなに苦しくても、つらいって思っても、 絵に対して真剣に向き合って……）
 瑞希: （それを、ずっと続けてる……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （絵のことで、ボクが絵名にできることは きっと、すごく少ないと思う）
 瑞希: （でも、それでも——）
 瑞希: （絵名がしんどい時は力になりたいし…… これからも、絵名のこと応援したいな！）
-(Black cut)
+(Black transition)

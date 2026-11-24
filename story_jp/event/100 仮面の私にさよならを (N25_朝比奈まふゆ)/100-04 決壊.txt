@@ -6,19 +6,15 @@
 
 まふゆ: （……今日は、久しぶりにみんなと作業ができてよかった）
 まふゆ: （でも、その分決めてた範囲までできなかったから…… 家に帰ったら、勉強しないと）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: ——勉強、しないと
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -94,15 +90,11 @@
 まふゆ: ……私、は……
 まふゆ: （どうすればいいの？）
 まふゆ: （どうすれば——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （…………噛み、つく？）
 まふゆ: （でも、そんな…………）
@@ -142,4 +134,4 @@
 まふゆの母: ……模試が終わるまでには、 新しいスマートフォンを買っておくからね
 まふゆの母: ひとまず、お互い冷静になりましょう。 今日は休んだほうがいいわ
 まふゆ: …………っ
-(Black cut)
+(Black transition)

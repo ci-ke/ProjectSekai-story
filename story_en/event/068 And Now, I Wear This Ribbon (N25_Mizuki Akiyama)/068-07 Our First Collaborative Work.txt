@@ -2,7 +2,7 @@
 
 (Character: Rui Kamishiro, Kanade Yoisaki, Mafuyu Asahina, Ena Shinonome, Mizuki Akiyama)
 
-(White cut)
+(White transition)
 (Background change)
 
 [The next day]
@@ -30,7 +30,7 @@ Mizuki: (This pain and suffering... You get such a clear picture... It's like K 
 Mizuki: It's like when you're unable to talk because you're in so much pain...
 Mizuki: This mix of turbulence and silence really sticks out in my mind...
 Mizuki: How do I turn that into a video...? Hmm...
-(Black cut)
+(Black transition)
 (Background change)
 [Enanan] (Ena): <Amia, my rough draft's finished.>
 (Background change)
@@ -50,7 +50,7 @@ Mizuki: <No, not at all! I think it's a really great drawing.>
 [Enanan] (Ena): <Y-You do? Thank goodness...>
 Mizuki: <I'd like to take what you drew and start thinking about how to turn it into a video, so you can keep working on what you have.>
 [Enanan] (Ena): <Okay!>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: Okay, I can throw in a wipe here for the first verse and...
 Mizuki: Hm...?
@@ -63,10 +63,10 @@ Mizuki: (Why don't I feel as motivated as last time? Before, I was able to charg
 Mizuki: (Something's different this time...)
 Mizuki: Maybe I should ask Enanan... But she's probably hard at work drawing right now...
 Mizuki: (Plus...)
-(White cut)
+(White transition)
 (Background change)
 ???: There's something wrong with them.
-(White cut)
+(White transition)
 (Background change)
 Mizuki: (That's how things have always been...)
 Mizuki: (Everything I believed, felt and wanted to do...)
@@ -99,15 +99,11 @@ Mizuki: <Oh...>
 (Background change)
 Mizuki: (If she's willing to say that, then I should probably just honestly tell her what I felt...)
 Mizuki: (Although, there's no guarantee that she'll understand my interpretation of this song...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (Every so often, I'd meet people who understand the pain I feel...)
 (Background change)
@@ -138,15 +134,11 @@ Mizuki: (Because there was a time when I also felt that pain...)
 Mizuki: (Each time someone hurt me, I'd always ask myself, “Why me?” I was shouting that within my heart...)
 Mizuki: (And I have a feeling that Enanan bears some similar scars...)
 Mizuki: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: <But I believe it's possible to be stricken with so much pain that you can't even scream.>
 [Enanan] (Ena): <What?>
@@ -164,15 +156,15 @@ Mizuki: (Oh... I might've taken that a little too far...)
 Mizuki: <I-I'm sorry... That was all just my opinion...>
 [Enanan] (Ena): <I think I know what you mean...>
 Mizuki: <What?>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000107/bg_s000107.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000107/bg_s000107.webp)
 [Enanan] (Ena): <But let me ask you this. How did you interpret this really turbulent melody? I thought it was about wanting to scream or shout out.>
 Mizuki: <Oh, um... I saw that as a violent storm raging inside your heart.>
 Mizuki: <Even though there's something you want to scream, you don't because you feel that no one will get it.>
 Mizuki: <And yet, it lingers and persists... Because it's what you truly feel.>
 [Enanan] (Ena): <... I see. I never would've seen it that way...>
 [Enanan] (Ena): <But I think I understand what you saw now... I would've drawn something fairly different if I had earlier...>
-(White cut)
+(White transition)
 (Background change)
 Mizuki: (She understands...?)
 Mizuki: (Come to think of it, even though Enanan and I didn't interpret this song the same way, I understood her...)
@@ -201,7 +193,7 @@ Mizuki: <I'm sorry. I just realized that I stopped being formal there for a seco
 (Background change)
 (Background change)
 Mizuki: <Yeah, let's just talk like this!>
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <So, are we good in terms of our theme?>
 (Background change)
@@ -247,10 +239,10 @@ Mizuki: <Yeah, I can try coming up with a storyboard based on your sketch, and y
 Mizuki: <Thanks. I'm looking forward to seeing your next sketch.>
 (Background change)
 Mizuki: (If our music video is gonna do the pain and kindness from K's song justice...)
-(Black cut)
+(Black transition)
 Mizuki's Sister's Voice: Hm...? The door to Mizuki's room is open...
 Mizuki's Sister's Voice: Mizuki...
-(Black cut)
+(Black transition)
 
 [The next week]
 
@@ -283,4 +275,4 @@ Mizuki: <...?>
 [K] (Kanade): <Would you like to keep making these with us?>
 (Background change)
 Mizuki & [Enanan]: <What...?!>
-(Black cut)
+(Black transition)

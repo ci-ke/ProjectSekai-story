@@ -40,7 +40,7 @@ Toya: Okay.
 An: What's going on? Are you two having a secret conversation...?
 Toya: Uh, yes... About a homework problem.
 An: Wait, what...? I was gonna ask for more details, but I'll pass...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Toya's Room]
@@ -60,15 +60,11 @@ Kohane's Message (Kohane): <Sorry about not sending you this sooner!>
 Kohane's Message (Kohane): <One of the other girls from my year agreed to help us with your makeup. Her name's Haruka Kiritani.>
 Kohane's Message (Kohane): <She even said she'll give us pointers on posing and stuff as a model!>
 Toya: Haruka Kiritani...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: I remember now. Shiraishi's best friend, yes? Also, if I recall correctly, a famous idol.
 Toya: I'm guessing she knows quite a lot about makeup and modeling.
@@ -78,7 +74,7 @@ Toya: (I can have her teach me more about makeup and modeling the day of.)
 Toya: (But for now...)
 Toya: I should do a little more research on what makes a pose aesthetically pleasing.
 Toya: Alright, I'll try combing through this magazine a little more.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -113,10 +109,8 @@ Toya: I'm glad you're saying that since we put in quite a lot of effort.
 Toya: While we're on the subject, some of our classmates also congratulated me on our success.
 Mizuki: What?! Our classmates saw those pictures?
 Toya: Yes. Right after I arrived at school on Monday...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Classmate A: Hey, Toya, the guy in these pictures... It's you, right?
 Toya: Yes, that's me... They were submitted into that photo contest.
 Classmate B: Really...?! And you finished in the top ten?! Congrats!
@@ -137,10 +131,8 @@ Classmate B: No, I'll pass! But thanks for offering.
 Classmate C: Yeah, let's leave it at that...
 Classmate A: Agreed... Sorry for getting the wrong idea...
 Toya: ...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mizuki: Hahahahahaha!!!!!
 Mizuki: S-Seriously?! Hahaha...! I... I can't breathe...!
 Toya: Was it that funny...?
@@ -154,4 +146,4 @@ Toya: Yes, they all did.
 Toya: The way Shiraishi and Akito reacted after they heard about the photo contest was also fairly amusing.
 Mizuki: Oh, tell me more about that!
 Toya: Okay. Then, let me start from the beginning.
-(Black cut)
+(Black transition)

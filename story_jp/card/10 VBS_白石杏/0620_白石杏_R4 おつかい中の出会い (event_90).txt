@@ -14,21 +14,17 @@ Gacha phrase: ほら、こっち！ついてきて！
 杏: さて。看板もクローズにしたし、 あとは片づけして夜のバー営業の準備を手伝わないと
 杏: （チーム練習には十分間に合うけど、 さすがに自主練する暇はないかな……）
 杏: （もっと、練習しないといけないんだけどな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………っ
 杏: （歌わなくちゃ——）
 杏: （私には、それしかない！）
 杏の声 (杏): 父さん！　お願いがあるんだけど……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -42,18 +38,14 @@ Gacha phrase: ほら、こっち！ついてきて！
 杏: ♪————！！　————！！
 杏: （……まだまだ！　もっと、気持ちを乗せて！）
 杏: （聴いてくれる人達を熱狂させるような！ もっともっと、熱い歌を……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ♪————！！　♪————～～～～！！
-(Black cut)
+(Black transition)
 杏: はあ……はあ……
 通行人A: 杏ちゃん、お疲れ！ いやー、気持ちのこもったいい歌だったよ
 杏: ……うん、ありがとう。 でも……
@@ -89,7 +81,7 @@ Gacha phrase: ほら、こっち！ついてきて！
 杏: （やらなくちゃ……！）
 杏: （今の私にできるのは、歌って、歌って、歌いまくること——）
 杏: （……待ってて、こはね）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -111,7 +103,7 @@ Gacha phrase: ほら、こっち！ついてきて！
 彰人: ……あんまムリすんなよ。 じゃあ、また明日
 杏: うん、また明日ー！
 杏: さて、と……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -139,17 +131,15 @@ Gacha phrase: ほら、こっち！ついてきて！
 杏: もちろん！　なんだったら、 アドバイスしてくれてもいいよ？
 ミク (VBS): 『ふふ、わかった。 じゃあ、聴かせてもらうね』
 杏: うん、よろしく！
-(Black cut)
+(Black transition)
 杏: はあ……はあ……。 ……どうだった？
 ミク (VBS): 『気迫を感じられるいい歌だったよ。 気持ちも歌にしっかり乗ってた』
 ミク (VBS): 『それに……』
 ミク (VBS): 『前に聴いた時と比べて、歌の印象が変わった気がする』
 杏: え、前にって？
 ミク (VBS): 『えっと、１週間くらい前……だったかな』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (VBS): （わ、真っ暗……って、それはそうか。 ちょうど練習してる頃だろうし）
 ミク (VBS): （久しぶりにみんなの歌、聴けるかな？）
@@ -162,10 +152,8 @@ Gacha phrase: ほら、こっち！ついてきて！
 ミク (VBS): （……いつにも増して、迫力があるね。 でも、それだけじゃない……）
 ミク (VBS): （痛いくらいの、必死さが伝わってくる。 もがいてもがいて、何かをつかもうとしてるような……）
 ミク (VBS): （杏……）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ……そっか。 自主練してた時、ミクいたんだね
 ミク (VBS): 『盗み聴きするつもりはなかったんだけど……。 邪魔したくなかったし、周りに人もいるみたいだったから 声をかけられなくて』
@@ -176,15 +164,11 @@ Gacha phrase: ほら、こっち！ついてきて！
 ミク (VBS): 『……ごめん。いい感じの例えが浮かばない』
 杏: 大丈夫。なんとなくわかったから
 杏: （歌の印象が変わった理由は、きっと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: ——にしても、歌に苦しい気持ちなんて、 乗せる気全然なかったけどなあ
 ミク (VBS): 『まあ、仕方ないんじゃない。 想いの塊だからね、歌って』
@@ -193,4 +177,4 @@ Gacha phrase: ほら、こっち！ついてきて！
 杏: ……ねえ、ミク。まだ歌い足りないんだけど、 もうちょっと練習につきあってもらっていい？
 ミク (VBS): 『いくらでもつきあうよ。 今の杏の想い、もっと聴かせて』
 杏: うん！
-(Black cut)
+(Black transition)

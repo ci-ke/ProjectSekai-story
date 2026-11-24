@@ -9,27 +9,23 @@ Skill name: ちゃんと向き合う方法
 [絵名の部屋]
 
 絵名: んー……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 まふゆ: 『このイラスト、色が汚いね』
 絵名: 『あのね！　この色はドロッドロした感情を表現したいから あえてこういう色にしてるの！』
 まふゆ: 『そうなんだ。よくわからなかった』
 まふゆ: 『……ここ、線が歪んでて気になる』
 絵名: 『それもあえて！』
 まふゆ: 『そうなんだ。よくわからなかった』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: ほんっと、ムカつく。 私がこだわって描いたとこもわかんないなんて……！
 絵名: まあ、KとAmiaは別に何も言ってなかったし。 雪がわかんないだけなら、気にしなくても――
 絵名: …………
 絵名: でも、曲のイメージに直結するところだし、 もうちょっとブラッシュアップしてもいいかな……
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『ねえねえ、K！ MVのラストなんだけど、ちょっと見てくれない？』
 瑞希: 『ラフからまるっと変えてみたんだよね。 こっちの方がエモいかなーって思ってさ！』
@@ -104,7 +100,7 @@ Skill name: ちゃんと向き合う方法
 絵名: 『た……楽しくなんてないから！』
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -123,18 +119,14 @@ Skill name: ちゃんと向き合う方法
 瑞希: 『あ、バレた？』
 絵名: 『バレバレ。ていうか、隠す気ないでしょ』
 絵名: 『でも、展示会か……』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 絵名: あ、いたいた！ ……って、ちょっとどうしたの！？
 まふゆ: ハァ……ハァ……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: …………
 (Background change)
 瑞希: 『ね、行こうよ～！ 雪はどう、興味ない？』
@@ -142,7 +134,7 @@ Skill name: ちゃんと向き合う方法
 瑞希: 『むぅ、それなら仕方ないか。 ざんねーん』
 (Background change)
 絵名: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -186,4 +178,4 @@ Skill name: ちゃんと向き合う方法
 絵名: 『でも——なんとなくわかった気がする』
 (Background change)
 絵名: 『……ありがとね、Amia』
-(Black cut)
+(Black transition)

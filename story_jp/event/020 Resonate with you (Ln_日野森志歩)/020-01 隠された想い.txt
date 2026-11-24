@@ -24,18 +24,14 @@ MEIKO: そうそう。穂波も咲希も、うまくなってるのは当然だ�
 志歩: …………
 志歩: （たしかに、みんなはうまくなってる。 一歌も前とは違って、歌に表情がついてきた）
 志歩: （けど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 イオリ: ——♪　——♪
 志歩: ……っ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （STANDOUTのライブは、すごかった。 これからプロデビューするバンドとして 突き進んでいく勢いがあった）
 志歩: （みんなとも、あんな演奏ができれば——）
 咲希: ねえねえ、そろそろアタシ達も ライブやってみない？
@@ -58,16 +54,12 @@ MEIKO: ミクとの『秘密の特訓』のおかげかな？
 一歌: 文化祭があればちょうどいいんだけど、 そういう時期でもないしね
 志歩: （……ライブ……）
 志歩: （みんなと演奏できるのは嬉しい、けど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 志歩: （こんな中途半端な気持ちで、 みんなと同じステージに立っていいのかな……）
 咲希: うーん、どこかいい場所ないかな～？
 一歌: あ……そうだ
@@ -120,4 +112,4 @@ MEIKO: どんな音の魅せかたをしているのか、 実際に見て勉強
 咲希: あ！　それなら、しほちゃんのバイト先の ライブハウスに行かないっ？
 穂波: そうだね。バイトに行くってことは、 今日は誰かのライブがあるってことだし……
 一歌: いいね。行ってみよう！
-(Black cut)
+(Black transition)

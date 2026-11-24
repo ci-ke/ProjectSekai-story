@@ -11,13 +11,13 @@
 司: 今回は最初から最後まで通しでの芝居だ。 みんな、気合いを入れていくぞ！
 えむ: まずは寧々ちゃんのシーンからだよね。 がんばってね！
 寧々: うん……！
-(Black cut)
+(Black transition)
 三日月組の座員達: 『その意気や見事！　しかし、源氏の血を残すわけにはいかぬ。 覚悟——！』
 寧々: （——大丈夫。ちゃんと特訓の成果を出せてる……！）
 寧々: （前より筋肉がついたのかな。 ぶつかられても、体幹がぶれずにすんでる）
 寧々: （源氏の妻としての使命感、 子を守りたい母親の気持ち……）
 寧々: （ちゃんと表現できるよう、前に——！）
-(Black cut)
+(Black transition)
 司: 『その太刀を置いて立ち去れ！ さすれば、命までは取らぬ！』
 寧々: 始まったね、クライマックスのシーン
 寧々: えむが考えたあの演技……鬼島さんに認めてもらえるかな
@@ -31,34 +31,26 @@
 えむ: （こうやって踊るみたいに動いて、 牛若丸の楽しいって気持ちを表現するんだ）
 えむ: （でも——）
 えむ: （これだけじゃまだ足りない……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: （ここは……本当は、 クスクスってなっちゃう場面のはずだよね）
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （あたしが伝えたい、牛若丸の気持ち——）
 えむ: （それを、もっとちゃんとみんなに伝わるようにしなくちゃ！）
 司: 『貴様、ふざけているのか！？ 子供とはいえ、武士ならば…… その太刀、抜いて戦う覚悟を見せよ！』
 えむ: 『そう言われると、ますます相手をする気がなくなるものだね。 ——よっ、ほっ……よっと』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 リン (WxS): からかってる気持ち？　そうなの？ リン、てっきり牛若丸は弁慶と戦うのが 楽しいのかなって思ってたよ～
-(White cut)
+(White transition)
 (Background change)
 慶介: たしかに……もっとわかりやすくてもいいかもしれないな。 相手の様子を伺う間を入れるとかはどうだろうか
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……みんなの感じること、みんなの視点をもっと意識するんだ。 それで——！）
 えむ: （——薙刀を避けたら、弁慶とちょっと離れる）
@@ -80,19 +72,19 @@
 えむ: （こうやってからかってるうちに、 牛若丸はどんどん楽しくなっちゃう。 だから、あとは——）
 えむ: 『——よっ』
 えむ: （弁慶の後ろに回って……こう——！）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000315/bg_s000315.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000315/bg_s000315.webp)
 えむ: 『……やれやれ、骨が折れる……。 けれど、君のような暴れん坊をからかうのは、 なかなかおもしろいね』
 えむ: 『……どうかな？　もっと大きな相手をからかったら ますますおもしろいとは思わないかい？』
 司: 『——な、何を言っている？』
 えむ: 『源氏の再興に興味はないけれど、 君のように威張っている奴らをからかうのは興が乗った、 ということだよ』
 えむ: 『どれ、少し世をからかってやるとしようか』
 えむ: 『……弁慶と言ったかな。君も来るかい？ きっと楽しい景色を見せてあげるよ』
-(White cut)
+(White transition)
 (Background change)
 鬼島: （……なるほどな）
 鬼島: （……これが、鳳くんの出したやりかたか）
-(Black cut)
+(Black transition)
 鬼島: ——うむ、お疲れさま！
 鬼島: 前よりも格段に進歩していたな。 修行の成果が出ていたぞ！
 司: ありがとうございます！
@@ -123,4 +115,4 @@
 司: じ、じ、じ……
 (Background change)
 司: 時代劇村だと～～～～！！！
-(White cut)
+(White transition)

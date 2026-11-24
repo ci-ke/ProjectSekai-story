@@ -40,7 +40,7 @@ Haruka: <We still haven't been told all the little rules, but I feel that we sho
 Airi: <But we can't exactly take anything big. We'll have to limit ourselves to selfie sticks, smartphone stands, tripods and small lights.>
 (Background change)
 Minori: <Then, next...>
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: <I think that's everything we need.>
 (Background change)
@@ -95,7 +95,7 @@ Airi: <In that case, I think I'll take some of my favorite cat merch.>
 Shizuku: <Then, I'll bring a picture of Shii. We can have her sit next to Samo.>
 (Background change)
 Minori: <Oh, that's a great idea! Our room's feeling warm and cozy already!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -164,4 +164,4 @@ Haruka: These comments are coming in so fast...!
 Shizuku: Yes, I don't think any of us were expecting things to unfold quite like this.
 Airi: Props to Minori for creating a nice flow. She did a really good job of getting everyone else involved.
 Haruka: Yeah, we can learn a lot from her example.
-(Black cut)
+(Black transition)

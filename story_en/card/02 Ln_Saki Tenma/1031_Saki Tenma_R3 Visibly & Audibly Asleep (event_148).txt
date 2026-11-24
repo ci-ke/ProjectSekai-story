@@ -13,7 +13,7 @@ Saki: Tsukasa! You gotta hear this♪
 Tsukasa: Hm? You seem to be in an awfully good mood, Saki. Did something good happen?
 Saki: Hehe♪ You can tell, huh?
 Saki: Guess what? I ran into Shizuku earlier this morning...
-(Black cut)
+(Black transition)
 Tsukasa: Interesting. The Tenmas and Hinomoris going on a day trip together, eh?
 Saki: Yeah, I thought we could use a break. We've all been super busy lately.
 Saki: Do you think you'll be free to go, Tsukasa?
@@ -63,7 +63,7 @@ Tsukasa: How does some hot chocolate with whipped cream sound, Saki?
 Saki: Awesome!
 Saki: I found these really amazing marshmallows the other day! We should try throwing those in!
 Tsukasa: What?! You're making it even more decadent...?!
-(Black cut)
+(Black transition)
 Saki: I think we've marked all the places we wanna check out.
 Tsukasa: Yes. Now we need to whittle down our options.
 Tsukasa: I know. Since she's going with us, why don't we ask Shizuku where she'd like to go?
@@ -72,7 +72,7 @@ Saki: I'll message her. Then, we'll meet up and discuss our trip!
 Tsukasa: Heh. The three of us will put our heads together...
 Tsukasa: And devise such an incredible travel itinerary that even Shiho won't believe her eyes.
 Saki: Yeah!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -141,4 +141,4 @@ Emu: You look like you're having the best time of your life! Now I'm feeling all
 Saki: Yeah...! Thanks for taking these, Shiho!
 Saki: Can I see what else you took?
 Shiho: Sure.
-(Black cut)
+(Black transition)

@@ -5,7 +5,7 @@
 ？？？: ……なで、奏……！
 奏: ……ん、お父さ……
 ？？？: 奏……！
-(White cut)
+(White transition)
 (Background change)
 奏: ……っ！
 リン (N25): よかった、起きた……
@@ -26,7 +26,7 @@
 奏: あ……
 奏: ——うん、覚えてる
 奏: わたしは、夢の中で——
-(Black cut)
+(Black transition)
 ミク (N25): ニーゴが、なかった夢……
 瑞希: そうなんだよ！　ボクも学校辞めちゃっててさ
 絵名: 私も……ずっとひとりで描いてて
@@ -43,17 +43,13 @@ MEIKO (N25): あとは叶うはずのない願い、とかもかしら
 ルカ (N25): ——けれど、あの想いの欠片は複雑ね
 ルカ (N25): きっとお互いの想いが混ざり合って、 複雑な夢を見せていたんだと思うわ
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
+(Flashback out)
 (Background change)
 奏: 叶うはずのない、願い……
 絵名: たしかに、そんな感じの夢だったな。 あんなふうにうまくいくはずないし
@@ -83,6 +79,6 @@ KAITO (N25): まあ、もうこんなことが起こらないとは言い切れ�
 まふゆ: ……うん
 奏: ありがとう
 奏: ——これからも、４人で作り続けよう。 わたし達の音楽を
-(White cut)
+(White transition)
 (Video: link2_night_sapling)
-(Black cut)
+(Black transition)

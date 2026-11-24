@@ -19,15 +19,11 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 咲希: わあ……！　みんな、ありがとう♪
 咲希: 昨日の夜、日付が変わった時にお祝いのメッセージも もらってたから、またお祝いしてもらえてびっくりしちゃった
 一歌: せっかく会えるんだし、 やっぱりこういうのは直接伝えたいなって思って
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: えへへ……
 咲希: みんな、だ～～～いすきぃっ♪
@@ -75,7 +71,7 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 遥: 一緒には来られなかったけど、 代わりに伝言を預かってるよ
 咲希: 伝言？
 遥: うん。あのね——
-(Black cut)
+(Black transition)
 (Background change)
 
 [昼休み]
@@ -87,7 +83,7 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 咲希: （まだ来てないのかも。 ちょっとこのまま待って——）
 ？？？: 『咲希ちゃん！』
 咲希: あっ……！！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -105,21 +101,17 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 愛莉: ふふっ。 ——せーのっ
 愛莉・えむ: 『わたし達といえば、なんでしょうか？』 『あたし達といえば、なんでしょーか？』
 咲希: アタシ達と言えば……。 あっ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: ——ねえ、咲希ちゃん。えむちゃん。 よければ、わたしも一緒に作っていいかしら？
-(White cut)
+(White transition)
 愛莉: わたしもサプライズで、 MORE MORE JUMP！のみんなに 何かしたいと思ってたしね
 えむ: やった～！ 愛莉ちゃんセンパイ、ありがとうございます！！
 咲希: あいり先輩がいてくれるなら、 なんでも作れちゃいそう！
 愛莉: ふふっ、決まりね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: 秘密のバレンタイン同盟！！
 えむ: ぴんぽんぴんぽ～んっ♪　咲希ちゃん、大正解！
@@ -150,7 +142,7 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 咲希: ……あ、そっか！ アタシ、お昼食べに来たんだった！
 愛莉: ふふっ。さあ、まずはみんなでお昼ご飯を食べましょ
 咲希・えむ: 『は～い♪』
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -158,16 +150,12 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 咲希: ふんふんっ♪　ふふっ、ふ～んっ♪
 咲希: （今日は本当に楽しかった～！）
 咲希: （セカイのみんなにも、たくさんお祝いしてもらっちゃったし）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (Ln): 咲希、今日は本当におめでとう。 これからも、みんなで一緒に頑張っていこうね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （やっぱり、誕生日って特別だなぁ。 わくわくもするし、あったかくて楽しくって）
 咲希: （うちに帰ったら、今度はお兄ちゃん達とのパーティーが——）
@@ -196,8 +184,8 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 咲希: あははっ！　何それ楽しそう！
 咲希: 早く見たいし、家までダーッシュ！ 行こっ、お兄ちゃん！
 司: あ、こら咲希！　そんなに急いでは危ないぞ？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000189/bg_s000189.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000189/bg_s000189.webp)
 みのり: 改めましてー！　咲希ちゃん、お誕生日おめでとう！ 一緒にお祝いできて、すっごく楽しかった！
 遥: コアラのぬいぐるみも、喜んでもらえてよかったよね。 さすがにちょっと大きすぎたかなって、ドキドキしてたから
 雫: 咲希ちゃんはぬいぐるみ大好きだから、 きっと大事にしてくれるわ
@@ -215,10 +203,10 @@ Gacha phrase: やっぱり、誕生日って特別だなぁ
 一歌: 咲希、今日は本当に誕生日おめでとう。 これからも、４人で一緒にバンド頑張ろう！
 穂波: もうすぐこのメンバーでプロになれるんだもんね。 ドキドキするなあ
 志歩: うん。いろいろ大変かもしれないけど、 ４人でならきっと乗り越えていける。 だから、これからもよろしく
-(White cut)
+(White transition)
 (Background change)
 咲希: みんな、お祝いしてくれてありがとう♪
 咲希: えへへ。プレゼントもい～っぱいもらっちゃったし、 にっこにこがとまらないよ～
 咲希: アタシ、これからも精一杯、 自分にできることをやっていくね♪
 咲希: だから、応援よろしくお願いしまーす！
-(White cut)
+(White transition)

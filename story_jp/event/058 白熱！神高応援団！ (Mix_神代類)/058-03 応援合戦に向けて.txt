@@ -38,13 +38,13 @@ KAITO: そうだったんだ。 なかなか難しそうな題材だね
 KAITO: なるほど、劉備か……
 ミク (WxS): りゅうび？ ルカ、知ってる？
 ルカ: りゅうび……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000075/bg_s000075.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000075/bg_s000075.webp)
 ルカ: もちろん、知ってるわ♪ カッパさんが好きな緑の食べ物よ～
 ルカ: 夏は川の冷たい水で冷やしてから食べるのが とってもおいしいんですって
 KAITO: うーん…… それは、きゅうりじゃないかな？
 ミク (WxS): あはは、ルカってば～☆ それ、響きが似てるだけだよっ
-(White cut)
+(White transition)
 (Background change)
 ルカ: あら……違ったのね。 じゃあ、りゅうびってなにかしら？
 類: 戦乱の世で人々に慕われながら国を築き上げた人だよ。 でも、あくまでテーマに留めようと思っているから 詳しくなくても大丈夫だよ
@@ -68,7 +68,7 @@ MEIKO: ミクはもう一度、三国志を読んだらどうかしら
 KAITO: でも、えむちゃんの応援は元気が出るね
 類: フフ、そうだね。 もしかしたら僕達の中で、一番応援団に向いてるんじゃないかな
 類: 僕も、えむくんのように みんなに力を与えられるよう、頑張らなくてはね
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -110,4 +110,4 @@ KAITO: でも、えむちゃんの応援は元気が出るね
 赤組団長: 当然だ。 『勝負あるところに応援（われ）あり』。 ……それが我らのモットーだろう？
 瑞希: ……もしかして
 瑞希: この人が、団長の言ってた『宿敵』なの！？
-(Black cut)
+(Black transition)

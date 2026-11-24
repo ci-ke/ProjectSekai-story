@@ -2,7 +2,7 @@
 
 (Character: 桃井愛莉, 日野森雫, 朝比奈まふゆ)
 
-(White cut)
+(White transition)
 (Background change)
 
 [数カ月後]
@@ -26,7 +26,7 @@
 弓道部部長: ふふ、もうすぐ新人大会もあるし焦っちゃうのもわかるけど、 最初はこうなること多いから気にしなくていいよ
 弓道部部長: 日野森さんはアイドルのお仕事もあるし、大変だと思うけど、 ちょっとずつ頑張っていこう！
 雫: ……はい……
-(Black cut)
+(Black transition)
 (Background change)
 雫: え？ 事務所を変える？
 愛莉: そ！　まぁ……ちょっといろいろあってね。 昨日辞めてきたの
@@ -41,7 +41,7 @@
 雫: 別の事務所になっちゃうのは……すごく残念だけど……
 愛莉: ふふ、違う事務所になったら今度はライバルね。 負けないわよ！
 雫: ……うん。 お互い、頑張ろうね
-(White cut)
+(White transition)
 (Background change)
 ？？？: ……ずくちゃん……雫ちゃん！
 雫: あ、は、はいっ！ なんですか？
@@ -54,7 +54,7 @@
 雫: （そのうえ……愛莉ちゃんが大変なことにも気づけなくて……）
 雫: ……しっかりしなくちゃ……
 雫: ちゃんと、ファンのみんなが求める完璧な私になれるように、 頑張らなくちゃ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [１カ月後]
@@ -112,20 +112,16 @@
 雫: え……。 お邪魔しても、大丈夫なの？
 まふゆ: うん、もちろん。 一緒にやろう
 雫: ……ありがとう、朝比奈さん
-(Black cut)
+(Black transition)
 雫: じゃあ……やってみるわね
 雫: （——まずは足踏みから。 正しい姿勢を作って……）
 雫: （胴造り、弓構え。 打起し——）
 雫: （しっかり……間違えないように……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……っ
 雫: （しっかり、やらなくちゃ……！！）
@@ -150,4 +146,4 @@
 まふゆ: きっとまだまだ、前を向いて頑張れるよ
 雫: ……そうね。 そうだと思うわ
 雫: 本当にありがとう。朝比奈さん！
-(Black cut)
+(Black transition)

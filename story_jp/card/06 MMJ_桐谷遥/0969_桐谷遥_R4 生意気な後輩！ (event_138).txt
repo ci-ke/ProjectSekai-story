@@ -34,7 +34,7 @@ Gacha phrase: 私は、まだいけるけどな
 愛莉: やってやろうじゃないのよ！！ ５セットでも10セットでも！！
 遥: ふふっ。それじゃ、あと１セット追加しようか
 愛莉: ええ、それでいいわ！ よーい——スタート！！
-(Black cut)
+(Black transition)
 愛莉: はぁ、はぁ……
 遥: ……ふう。 今度こそ、本当に休憩にしようか
 愛莉: ……ええ……そうね……。 さすがにもう限界……
@@ -44,15 +44,11 @@ Gacha phrase: 私は、まだいけるけどな
 遥: え？
 愛莉: 忘れたとは言わせないわよ！ アンタがアイドル辞めてすぐの頃、屋上で会った時とか！
 遥: 屋上……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: ああ……あの時か。 たしかに、今考えたらちょっと棘あったかも
 愛莉: ……まあ、あれはわたしも悪かったけどね。 それにあの時は、お互いいろいろあった時期だったし
@@ -75,7 +71,7 @@ Gacha phrase: 私は、まだいけるけどな
 遥: 私もだよ。 ……でもそれなら、さっきみたいにへばらないでね？
 愛莉: だから、そういうところ……！
 遥: ふふ、じゃあ、始めようか
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -95,15 +91,11 @@ Gacha phrase: 私は、まだいけるけどな
 遥: （お客さんの熱気もすごくて、声がたくさん聞こえて……）
 遥: （この時間がもっと、もっと続けばいいのにって、 そう思っちゃうくらい、いいステージだった）
 遥: （そんなステージにできたのは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （あの子達と一緒にできたから、 っていうのも大きいだろうな）
 遥: （合同リハーサルで見た日から、 あの子達にはすごく刺激を受けたし——）
@@ -111,16 +103,12 @@ Gacha phrase: 私は、まだいけるけどな
 遥: （それで、いつも以上にいいパフォーマンスができた気がする）
 遥: ……さすが、柊さんのグループだな
 遥: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 愛莉: わたし達みんなが心をつなげ合っているこの瞬間を、 特別な思い出にしましょ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （昨日の愛莉のパフォーマンスは、本当にすごかった）
 遥: （特訓で上達していくのを見てきたけど…… 本番の愛莉は、それを軽く超えてきた）
@@ -149,4 +137,4 @@ Gacha phrase: 私は、まだいけるけどな
 愛莉のメッセージ (愛莉): 『焼肉の食べ放題！　いいわね！』
 遥: ——ふふ、 打ち上げの日は、チートデイにしよう
 遥: それで打ち上げまでは……頑張らなくちゃ！
-(Black cut)
+(Black transition)

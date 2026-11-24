@@ -13,7 +13,7 @@ Shiho: Shizuku? You there?
 Shiho: Huh? I thought she wasn't leaving until later...
 Shiho: (Well, whatever... She'd probably be all over me anyway...)
 Shiho: (I'll just put my message inside this envelope. She can read it later.)
-(Black cut)
+(Black transition)
 Shizuku: Oh, look at the time... I need to get ready.
 Shizuku: Hm...? What's this envelope doing here...?
 Shiho's Message (Shiho): “Dear Shizuku, Leo/need will be putting on a Thank You Show for all those who've supported us. I hope you can make it.”
@@ -21,7 +21,7 @@ Shiho's Message (Shiho): “You were there to listen when I wasn't sure if I cou
 Shiho's Message (Shiho): “Thank you from the bottom of my heart.”
 Shizuku: ...!
 Shizuku: Shiii!!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -57,7 +57,7 @@ Shiho: Wah...!
 Minori: I finally got mine!!! Thank you so much, Shiho...!
 Shiho: Wait a minute... Finally? Did you know about this already?
 Minori: Oh, so...
-(Black cut)
+(Black transition)
 Shiho: Now it all makes sense... Shizuku told you about what's happening.
 Minori: Yeah. She said that you're personally handing tickets to the people you're close with... So, um...
 Minori: I started wondering if I was gonna get one...
@@ -67,7 +67,7 @@ Shiho: Geez...
 Shiho: (Of course you two were getting tickets...)
 Shiho: Get ready for an amazing show. We promise to make it a good one.
 Kohane & Minori: Thanks!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -109,7 +109,7 @@ Saki: Huh? Oh, right!
 Saki: Rin, I'll let you know what I find out the next time I'm here...!
 Rin: Okay! I'll take care of things over here!
 Shiho: ...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -158,4 +158,4 @@ Shiho: F-Fine...
 Shiho: Just promise me you'll play well, okay? I won't accept anything short of that.
 Saki: We shall! You can count on us, Miss Sunshine!
 Ichika & Honami: Hehe.
-(Black cut)
+(Black transition)

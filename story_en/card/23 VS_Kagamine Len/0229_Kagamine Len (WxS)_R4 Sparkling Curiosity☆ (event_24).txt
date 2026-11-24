@@ -11,7 +11,7 @@ Gacha phrase: So this is gonna be your stage prop, Rui?
 
 Len: Oh, is that...? Hey, Rin!
 Rin: Yeah, I think it's them♪
-(Black cut)
+(Black transition)
 Len: Hi, guys!
 Emu: Hey, it's Len and Rin! Wonderhoy♪
 Rin & Len: Wonderhoy♪
@@ -50,7 +50,7 @@ Emu: Yeah! This is awesome! Go! Go! Go!
 Rin & Len: Go! Go! Go!
 Tsukasa: They seem to be having fun...
 Nene: Well, there's been no harm done so far. Let him do what he wants.
-(Black cut)
+(Black transition)
 (Background change)
 
 [KAITO's Stage]
@@ -92,7 +92,7 @@ Nene: Drowning them out with your charisma...?
 Rui: Hehe. Such is our Tsukasa.
 Rui: Anyways, Len, I'll see you this Sunday.
 Len: Yeah! I can't wait!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,13 +115,13 @@ Rui: I've also made the blueprint as simple as I could as well. For example, the
 Len: Yeah, cool. And these blue lines are talking about these blue parts, right?
 Rui: Correct. Let's begin by making the control panel then.
 Len: Okay!
-(Black cut)
+(Black transition)
 Len: Red goes to red... Uh oh... It didn't go on straight...!
 Rui: Mind if I take a look?
 Len: Sure, is it gonna be okay...?
 Rui: Yes. It's on there just fine and shouldn't have any trouble conducting.
 Len: Thank goodness! Alright, I have to loosen this plug by untightening its screw...
-(Black cut)
+(Black transition)
 Len: I... I'm done!! I think I'm done, Rui!
 Rui: Well done, Len. But we're not quite done yet.
 Rui: Now that you've finished, we'll need to test it out.
@@ -174,4 +174,4 @@ Rui: Especially now that I have this troupe.
 Rui: Now, we'll need to make some improvements to these fairies and test them out once more...
 Rui: How does that sound, Len?
 Len: Yeah! Let's do it, Rui!
-(Black cut)
+(Black transition)

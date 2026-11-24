@@ -17,7 +17,7 @@
 みのり: うんっ！ 飼い主さんもワンちゃんも、やる気満々……！
 石原: あ……東雲くん、そろそろコートのほうに移動しないと！
 彰人: わかった。 んじゃ——いってくる
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -81,15 +81,11 @@
 類: いや。あれは多分、高得点を狙って わざと遠くに投げたんじゃないかな
 みのり: で、でもマックスくんが取れなかったらまた０点に……
 石原: 大丈夫だよ。だって——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 彰人: ……っし、向こうに——行け！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: （——初めて投げた時は、もっと飛ばしてたもんな！）
 彰人: 跳べ、マックス！
 マックス: ……っ、ワンッ！
@@ -101,18 +97,14 @@
 マックス: ワンッ！
 彰人: ——ん？
 彰人: あ……この仕草……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 石原: うん。いいプレイしたあとは、 こうやってお座りして『なでろ』って言ってくるんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: ……よくやったな、マックス。 っと……
 マックス: ワンッ！
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -138,16 +130,12 @@
 マックス: ！　ワンッ……！
 彰人: （優勝、とはいかなかったが…… こいつらの力には、なれたみてえだな）
 彰人: （それに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 彰人: 最後、思いっきり飛ばすぞ、マックス！
 彰人: ——取ってこい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 彰人: ……まさか、犬とあんな関係になれるとはな
 類: この調子なら、他の犬も大丈夫になるかもしれないねえ
 みのり: はっ、たしかに！
@@ -159,4 +147,4 @@
 彰人: い、いえ……
 彰人: …………はあ
 彰人: （やっぱり、当分は無理そうだ）
-(White cut)
+(White transition)

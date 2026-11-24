@@ -13,7 +13,7 @@ Honami: (I have to go for a cleanup committee meeting later. I should tell my cl
 Honami: (There's still some time until morning homeroom starts. I should go look for the club seniors before...)
 Saki: Haha! Nah, this wouldn't look good on me!
 Honami: (Ah... That's Saki's voice. She's already in the classroom?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-C]
@@ -24,7 +24,7 @@ Honami: (Saki's already getting along so well with her classmates. She's amazing
 Honami: (She looks to be in the pink of health too. I haven't seen her smile so brightly in such a long time...)
 Saki: Ah...
 Honami: (Oh!)
-(Black cut)
+(Black transition)
 (Background change)
 Honami: (I can't believe I just left after our eyes met like that... What am I doing...?)
 Ichika: Ah...
@@ -32,7 +32,7 @@ Honami: Oh.
 Ichika: Morning, Honami...
 Honami: Y-Yes, good morning. Sorry...I have to go now.
 Ichika: Ah...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Class 1-B]
@@ -43,7 +43,7 @@ Classmate: Hey, are you okay, Honami? You don't look so good.
 Honami: Huh?
 Female Student A: She's right. You seem a little down. Is everything okay?
 Honami: Yes, don't worry. Everything's just fine.
-(Black cut)
+(Black transition)
 (Background change)
 
 [After school]
@@ -64,16 +64,12 @@ Honami: That sounds fun...
 Classmate: Hm? What's the matter?
 Honami: Oh, no. It's nothing.
 Honami: (Sounds fun, huh...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Honami: (We played a song together with Miku that day...)
 Honami: (The apple pie I had yesterday... We used to eat that together in the past, too.)
 Classmate: Honami? Something wrong?
@@ -82,7 +78,7 @@ Classmate: Hey, you're really out of sorts today. You sure everything's okay?
 Honami: Yes. I was just thinking about the questions in the workbook, that's all.
 Classmate: Okay? Well, if you're sure...
 Honami: Yes, I'm quite sure. Let's go back.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,7 +89,7 @@ Honami: Yes, I'm quite sure. Let's go back.
 
 Shiho: That went pretty well just now. Don't forget this feeling.
 Saki: Okay then, one more time while I still remember!
-(Black cut)
+(Black transition)
 Saki: Yes, that felt great! We've gotten better, haven't we?
 Shiho: Yes, a little.
 Saki: What? Only a little?
@@ -116,7 +112,7 @@ Saki: But if we're going to be performing in front of an audience, it'll be much
 Honami: Oh... I think I may know where to find some good ones...
 Saki: Really?!
 Honami: Yes. Does everyone have a bit of time after this?
-(Black cut)
+(Black transition)
 (Background change)
 
 [School SEKAI]
@@ -133,7 +129,7 @@ Saki: Hona's in the home economics club, so she can cook and sew really well!
 Luka: Oh, that sounds lovely.
 Miku (Ln): Hey, how do you make sewing patterns? Can I see?
 Honami: Yes, of course.
-(Black cut)
+(Black transition)
 Honami: Ichika's belt is like this... Oh, so that's how this ornament is designed...
 Luka: I'm not very familiar with tailoring myself, but you're just drawing out the sewing pattern directly without making any sketches of the costume design first?
 Saki: Oh, well... It's because Hona can't really draw very well...
@@ -144,7 +140,7 @@ Ichika: Hahaha...
 Shiho: Her drawings are truly something else.
 Saki: Shiho, quiet!
 Honami: I heard everything...
-(Black cut)
+(Black transition)
 Honami: Okay, that's all of us. As for the boots and accessories, we'll just have to search around for similar ones.
 Saki: Hm, if only we could just bring those clothes back with us. Then you wouldn't have to go through the trouble of making them all over again.
 Honami: Even so, it's always good to have backups. Also, I really enjoy such work, so it's fine!
@@ -153,4 +149,4 @@ Luka: Yes. Since you'll be getting your own boots and accessories, wouldn't it b
 Honami: Yes, you do make a good point. Shall we all do that together?
 Miku (Ln): Now that you've got the perfect costumes, go out there and sing the song of your feelings to as many people as you can!
 Honami: We will!
-(Black cut)
+(Black transition)

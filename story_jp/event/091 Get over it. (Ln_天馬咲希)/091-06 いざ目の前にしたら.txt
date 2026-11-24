@@ -23,20 +23,16 @@
 咲希: （……やっぱり、まだ怖いな）
 咲希: （真堂さんから連絡くるの、ずっと待ってたはずなのに。 ホントに所属が決まって嬉しいはず、なのに……）
 咲希: （……みんなと話して、 折り合いつけて前に進もうって決めたのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 志歩: ——それに私は、みんななら、 乗り越えて進む力があるって信じてる
 志歩: だから、大丈夫だって思うよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （どうしたらいいんだろ……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -80,7 +76,7 @@
 真堂: じゃ、行きましょうか
 咲希: あっ……！？
 咲希: ま、待ってください……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ファミリーレストラン]
@@ -100,4 +96,4 @@
 咲希: 昔話？
 真堂: ええ
 真堂: 昔、ちょっとだけ界隈で話題になった……、 どこにでもいるバンドの話です
-(Black cut)
+(Black transition)

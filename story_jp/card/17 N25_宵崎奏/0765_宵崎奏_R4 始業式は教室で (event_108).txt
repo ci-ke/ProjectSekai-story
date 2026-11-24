@@ -72,7 +72,7 @@ Gacha phrase: 学校に来たの……久しぶりだな
 絵名: 『落ち着いて、K！　まだ時間あるし、 まずはメールしっかり読んだほうがいいよ！』
 (Background change)
 奏: 『そ、そうだね……。えっと——』
-(Black cut)
+(Black transition)
 奏: 『ふう……。 よかった、今から準備してもなんとかなりそうで』
 (Background change)
 瑞希: 『いや～、明日って聞いた時はヤバい！って思ったけどね♪』
@@ -92,7 +92,7 @@ Gacha phrase: 学校に来たの……久しぶりだな
 奏: （始業式か……。 そういう学校っぽいこと、もう自分は関係ないと思ってたな）
 奏: （たまには、刺激になっていいかもしれない）
 奏: （作業とか仮眠でうっかり忘れないように、 今のうちにアラームかけておこうかな）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -106,7 +106,7 @@ Gacha phrase: 学校に来たの……久しぶりだな
 奏: ううん、大丈夫……。 もうちょっと頑張れそう
 絵名: わかった。あともうちょっとだし、頑張ろう
 奏: うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -120,22 +120,18 @@ Gacha phrase: 学校に来たの……久しぶりだな
 絵名: けど、今回はなんで歩こうって思ったの？ また肩が重くなってきたとか？
 奏: ううん。前にウォーキングしてから、 あいだがあいちゃったなって思って
 奏: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ……あ、あそこ、自販機ある！ ちょっとスポドリないか見てきていい？
 奏: それなら、わたしも行くよ
 絵名: 奏の分も買ってくるから、休んでて大丈夫だよ。 そこ曲がったところに公園あったと思うし
 奏: ……いいの？ じゃあ、お願いしちゃおうかな
 絵名: うん。すぐ戻るから！
-(Black cut)
+(Black transition)
 (Background change)
 
 [シブヤの公園]
@@ -167,18 +163,14 @@ Gacha phrase: 学校に来たの……久しぶりだな
 寧々・一歌: 『♪————～～～！！』
 奏: （いいハモりだな……）
 奏: （優しくて、あたたかくて……。 心にも体にも染みわたってく）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: みんな、自分の夢や目標のために、 大変なことでもちゃんと乗り越えていこうって前を向いてて——
 一歌: そういう姿を見たから、 私も頑張ろうって思えたんだと思います
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （きっとあの言葉どおり、 毎日、頑張ってるんだろうな）
 奏: （——また、元気をもらっちゃった。 ありがとう、星乃さん、草薙さん）
-(Black cut)
+(Black transition)

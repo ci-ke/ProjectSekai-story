@@ -61,7 +61,7 @@ wonder_01_13 失った笑顔
 司: こんなの……楽しいわけないだろう！！
 えむ: 司くんっ！！
 えむ: ……どうしよう。 みんなの笑顔……なくなっちゃった……
-(Black cut)
+(Black transition)
 (Background change)
 
 [神山通り]
@@ -75,25 +75,21 @@ wonder_01_13 失った笑顔
 寧々: え……っ？
 類: もう無理に、ショーに出ることもない
 寧々: …………
-(Black cut)
+(Black transition)
 (Background change)
 司: クソッ……！ なんでこんな……！
 司: ……オレは、ただショーを……
 司: ……？ 今、何かが光って……スマホか？
 司: 『Untitled』……？ どうして今……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 KAITO: また困った時は、いつでも来てほしいな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 司: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -103,4 +99,4 @@ KAITO: また困った時は、いつでも来てほしいな
 司: ……？　……泣き声……？ いったい誰が……
 うさぎのぬいぐるみ: グス……グス……
 司: ……あのぬいぐるみが……泣いてる？
-(Black cut)
+(Black transition)

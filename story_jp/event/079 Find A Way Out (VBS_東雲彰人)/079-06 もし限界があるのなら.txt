@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 巡音ルカ)
 
-(White cut)
+(White transition)
 (Background change)
 ？？？: どうした、坊主
 中学生の彰人 (彰人): ……え、RADderの……なんで……
@@ -24,7 +24,7 @@
 中学生の彰人 (彰人): （それで、この人も、他のやつらと同じように、 もう音楽はやめたほうがいいって言うなら……オレは……）
 中学生の彰人 (彰人): （いや、でも……それでも……！）
 中学生の彰人 (彰人): ……今日、 『Crawl Green』のイベントに、出たんです——
-(Black cut)
+(Black transition)
 謙: なるほど、あのハコでやって こっぴどくやられたってわけか
 謙: で、お前はやられたことが悔しいのか？ 見たところ、それだけじゃなさそうだが——
 中学生の彰人 (彰人): ……もちろん、馬鹿にされて、どうしようもないくらい 歯が立たなかったのは、悔しかったですけど……
@@ -55,10 +55,8 @@
 謙: 歌い続けるためにも、体は大事にしろ。 ——じゃあな
 中学生の彰人 (彰人): ……あ、ありがとうございます！
 中学生の彰人 (彰人): ……歌い……続ける……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 (Background change)
 洸太郎: そんなことがあったんだな……
@@ -79,18 +77,14 @@
 洸太郎: 結構人気みたいだけど、誰だろ？　……あ、出てきた
 先輩ミュージシャンA: みんな、今日は聴きに来てくれてありがとな。 久々に帰ってきたが、ビビッドストリートはやっぱりいいな～
 彰人: （あいつらは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 先輩ミュージシャンA: そこまで言うなら見せてもらおうじゃねえか。 来週『Crawl Green』でやるイベント、 お前も来いよ
-(White cut)
+(White transition)
 (Background change)
 先輩ミュージシャンA: ガキのケツ拭いてキッチリ盛り上げてやっから、 お前ら声出す準備しやがれ！　１曲目から飛ばしていくぞ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……戻ってきたのか）
 ファン: あの、サインお願いします！
@@ -119,7 +113,7 @@
 (Background change)
 ルカ: （うわわ、た、大変……！　どうしよう……！）
 ルカ: （——そうだ！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
@@ -129,14 +123,14 @@
 冬弥: （——彰人もトレーニングを終えた頃だろうか。 もしかしたら、ルカさんとイルミネーションを 見ているかもしれないな）
 冬弥: （……もう少ししたら連絡をしてみよう）
 冬弥: ——ん？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000142/bg_s000142.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000142/bg_s000142.webp)
 ルカ: 『冬弥くん！　大変っ、大変なの！』
 冬弥: ルカさん？　何かあったんですか？
 ルカ: 『そうなの！ 今、彰人くんが路上で喧嘩を始めちゃって！』
 冬弥: 喧嘩……？
 ルカ: 『あっ、喧嘩って言っても、歌でね！』
-(White cut)
+(White transition)
 (Background change)
 ルカ: 『でも、相手のほうが多かったし、 なんだか不穏な空気っていうか……。 それに彰人くんにも、因縁のある相手だったみたいだから』
 冬弥: 因縁の相手……
@@ -147,7 +141,7 @@
 冬弥: すみません、お願いします
 冬弥: ……だめだ、つながらない。 この時間は賑わっているだろうし、店の手伝いで忙しいか
 冬弥: 他に連絡手段は……そうだ。 もしかしたらまだ、小豆沢も一緒にいるかもしれない
-(Black cut)
+(Black transition)
 (Background change)
 (Place: ビビッドストリート)
 洸太郎: は、始まっちまった……！
@@ -168,22 +162,18 @@
 先輩ミュージシャンA: ……！　あいつ……
 彰人: （オレもずっと、ずっと走ってきた）
 彰人: （あいつらと一緒に——RAD WEEKENDを目指して 走り続けてきた）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: ひとりで突っ走るのもいいけど、忘れないでよね。 私達、４人でRAD WEEKENDを超えるんでしょ
 杏: これはあんただけの夢じゃないの
-(White cut)
+(White transition)
 こはね: うん！ ４人で歌おう、東雲くん！
-(White cut)
+(White transition)
 (Background change)
 冬弥: 彰人。お前は、最高の相棒だ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （オレが壁にぶつかってくすぶりそうになった時は、 あいつらが引き上げてくれる）
 彰人: （一緒にやるぞって、上へ上へ押し上げてくる）
@@ -200,7 +190,7 @@
 彰人: （あんだけすげえと思ってたヤツらに、張り合えてる）
 彰人: （あの時感じた限界を、オレは超えられてる……！）
 彰人: （このまま、最後まで——！）
-(Black cut)
+(Black transition)
 彰人: …………
 洸太郎: ……すげえ……
 洸太郎: 彰人、誰がどう見てもお前の勝ちだよ！
@@ -213,15 +203,11 @@
 観客達: ああ！　それに、他のヤツらもすげえんだよな！
 観客達: だな。こいつらなら、マジでいい線いくんじゃないか！？
 彰人: ……っ！！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （今……オレは一瞬、何を感じた……？）
 彰人: （憧れの場所に泥を塗ったことを、 少しでも取り戻せたって……。 昔ボコボコにされたやつを見返せて、自分が成長してるって……）
@@ -233,15 +219,11 @@
 彰人: （冬弥も、杏もこはねも、こんなもんじゃねえ！ あいつらだったらもっと歌える。もっとわかせてる！！）
 彰人: （遠野だったら——このくらい簡単にやってのける）
 彰人: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （あの人達の歌は、心臓痛くなるくらい熱く震えて、 体中汗が噴き出して……そうじゃねえといけねえのに）
 彰人: （こんな——この程度のレベルで、満足していいわけがねえ！）
@@ -249,4 +231,4 @@
 彰人: ……別に、何もねえよ
 彰人: ただ——こんなんじゃまだ足りねえんだ
 洸太郎: あ、おい？ 待てって、彰人！　どこ行くんだよ！
-(Black cut)
+(Black transition)

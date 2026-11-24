@@ -11,15 +11,11 @@ KAITO (VBS): え？
 冬弥: これは、ショパンの幻想即興曲の楽譜ですね
 KAITO (VBS): えっ！？ パッと見ただけでわかっちゃうものなの！？
 冬弥: あ、いえ。他の曲ならすぐにはわからないと思います。 ですがこれは……
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000064/bg_s000064.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000064/bg_s000064.webp)
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 昔、何度も練習していたので
 KAITO (VBS): あ……
@@ -27,15 +23,15 @@ KAITO (VBS): そっか……。 そうだったね
 KAITO (VBS): っていうことは…… この楽譜も、冬弥くんの想いでできたものなのかな
 冬弥: はい。 きっと、そうだと思います
 冬弥: （……懐かしいな）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000273/bg_s000273.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000273/bg_s000273.webp)
 冬弥: （あの頃は、毎日ずっとピアノに向かっていた）
 冬弥: （疲れて動かない指を、必死で動かして…… 目に映る景色が白くぼやけるほど）
 冬弥: （……本当に苦しかった）
 冬弥: （音楽というものの存在を 恨めしく思うことすらあった）
 冬弥: （だが、あの日々があったからこそ、俺は——前に進める）
 冬弥: （それは…… 俺が謙さんに与えられた課題についても、そうだ）
-(White cut)
+(White transition)
 (Background change)
 冬弥: ……課題……。 そうだ、カイトさん
 KAITO (VBS): うん？
@@ -79,6 +75,6 @@ KAITO (VBS): え？
 KAITO (VBS): なるほど……！ じゃあ実際に超えちゃったら、 この壁はドカ～ンって崩れちゃうのかも！？
 冬弥: ふふ。そうかもしれませんね。 いずれにせよ——
 冬弥: 早くこの壁の向こうに行ってみたいものです
-(Black cut)
+(Black transition)
 (Video: link_street_ed2)
-(Black cut)
+(Black transition)

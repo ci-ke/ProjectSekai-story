@@ -16,15 +16,11 @@ Gacha phrase: 少しでも近づけるようにがんばるから！
 一歌: ねえ、こはね。 練習っていつもああいう感じなの？
 こはね: ……ああいう感じって？
 一歌: えっと、ちょっと緊張感があるっていうか、 ピリッとしてるっていうか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: ひょっとして雰囲気、怖かった？
 一歌: あ、ううん。なんていうか、真剣だからこその ピリッとした空気感だったなって思って
@@ -65,15 +61,11 @@ Gacha phrase: 少しでも近づけるようにがんばるから！
 みのり: 遥ちゃんだけじゃなくて、 愛莉ちゃんや雫ちゃんにも まだまだ教えてもらってばっかりで……
 みのり: だから自分にはできないことを見つけるたびに、 こんなんじゃダメだ！　がんばらなきゃって思うの
 一歌: そっか……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （みのりのもどかしい気持ちわかるな。 私も、志歩の実力に全然追いつけてないし）
 みのり: でもね――
@@ -82,41 +74,29 @@ Gacha phrase: 少しでも近づけるようにがんばるから！
 一歌: みのり……。 ――うん、そうだね
 こはね: うん！　みのりちゃんなら大丈夫だよ！
 寧々: （経験者に追いつく、か。 うちのメンバーだと、いないけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （わたしにとっての風祭さんに、 花里さんは追いつこうとしてるって思えばいいのかな）
 寧々: なんか普通に考えると、 すごい無理ゲーな感じもするけど……
 こはね: ……私も、そういう風に感じたことあるよ。 でも――
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: みんなはみんなで、 必死に走ってきて、今の場所にたどり着いたと思うから
 みのり: うん。そんなみんなに追いつくのは、 絶対簡単じゃないと思う
 みのり: でも――
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 みのり: 他の誰でもない、大事な仲間が『信じてる』って 言ってくれたから！
 みのり: 何があっても、がんばるって決めたんだ
@@ -128,7 +108,7 @@ Gacha phrase: 少しでも近づけるようにがんばるから！
 一歌: せっかくだし、このまま今日の練習の反省会しない？
 こはね: あ、いいね！
 みのり: うん、やろうやろーう！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -163,7 +143,7 @@ MEIKO: わたし達も応援してるわよ♪
 愛莉: じゃ、そのやる気を しっかり練習に使ってもらわなくっちゃ！
 愛莉: みのりー！　そろそろ練習始めるわよ！
 みのり: はーい！
-(Black cut)
+(Black transition)
 遥: じゃあ、私達は上手側でスタンバイするね
 みのり: うん！　またステージの上で！
 レン: リン、そっちもしっかりね！
@@ -185,17 +165,13 @@ MEIKO: わたし達も応援してるわよ♪
 リン: それって、遥ちゃん達に？
 みのり: うん！
 リン: ……みのりちゃん
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 みのり: アイドルとして、みんなはすごくて、 わたしも……みんなみたいになりたいって思うの
 みのり: もちろん、そんなに簡単になれるなんて、思ってないけど……！
 みのり: でも、どんなにがんばっても——いつまで経っても—— ３人みたいなアイドルにはなれないんじゃないかって、思って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 リン: …………
 ミク (MMJ): 大丈夫だよ、リンちゃん
 リン: え……？
@@ -208,4 +184,4 @@ MEIKO: わたし達も応援してるわよ♪
 みのり: はい！　自分を信じて、がんばります！
 ミク (MMJ): うん！　わたし達もついてるよ。 だから、一緒に進んでいこうね
 みのり: うん！　これからもよろしくね、みんな！
-(Black cut)
+(Black transition)

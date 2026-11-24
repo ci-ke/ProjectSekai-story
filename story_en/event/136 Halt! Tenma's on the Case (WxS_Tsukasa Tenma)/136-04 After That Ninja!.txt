@@ -22,7 +22,7 @@ Emu: Then, we gotta chase after him!
 Rui: Yes, let's go!
 Rui: Nene, you go tell the nearby park staff about our possible suspect.
 Nene: Okay, got it!
-(Black cut)
+(Black transition)
 Tsukasa: Stop right there!!!
 Tsukasa: (Darn it...! I thought I would've caught him by now since he didn't get much of a lead on me.)
 Tsukasa: (But this ninja thief's quick...!)
@@ -41,7 +41,7 @@ Children: Wow, that sounds like fun! I wanna go, Mommy!
 Guests: Yes, it does look like fun. Why don't we go learn together?
 Tsukasa: (Too many people are gathering! This is bad...)
 Tsukasa: No... I completely lost him...
-(Black cut)
+(Black transition)
 
 [Mikazukigumi Practice Area]
 
@@ -88,7 +88,7 @@ Kijima: So, let's split up and look for any suspicious-looking ninjas. We'll pat
 Kijima: You and the others will take the main street, Tenma, but please be careful.
 Tsukasa: We will!!!
 Tsukasa: (Alright, ninja...! I'm going to catch you no matter what...!)
-(Black cut)
+(Black transition)
 Tsukasa: Okay, we're back where we all were when we saw that thieving ninja, but...
 Tsukasa: Hmm... How do we actually go about finding him...?
 Rui: Which way did he go when you were chasing after him, Tsukasa?
@@ -105,7 +105,7 @@ Emu: Oh, so! This ninja thief stole a prop pot!
 Luka (WxS): <A prop pot...? A ninja thief...?>
 Nene: She's gonna need a little more information, Emu.
 Tsukasa: We may want to start from the beginning here. The thing is...
-(Black cut)
+(Black transition)
 Tsukasa: ...which is why we're now looking for that thieving ninja and the pot he stole.
 Tsukasa: We were just trying to come up with a way to find him since we're basically out of leads.
 Luka (WxS): <Yes, I see...>
@@ -128,4 +128,4 @@ Tsukasa: Hm? A wonderful idea?
 Luka (WxS): <Yes♪ Umm... Emu, would you mind lending me a hand?>
 Emu: Huh? Me?
 Luka (WxS): <Yes! My idea should make it much easier to find this ninja thief♪>
-(Black cut)
+(Black transition)

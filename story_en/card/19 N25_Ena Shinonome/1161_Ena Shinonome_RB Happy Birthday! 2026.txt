@@ -19,7 +19,7 @@ Ena: That's right. I finally got it looking how I want it to.
 Mizuki: I stayed up all night putting the finishing touches on too, so make sure you look closely!
 Luka (N25): I can't wait to see it. Let's get watching.
 Ena: Okay, here goes.
-(Black cut)
+(Black transition)
 Ena: Well? What did you think?
 Miku (N25): It was pretty.
 Len (N25): It really fit Kanade's song...
@@ -54,7 +54,7 @@ Mizuki: That's because I want you to look forward to finding out!
 Mizuki: Besides, I've got you mostly figured out, so you can trust I've got something good planned.
 Ena: I'm not sure I like being “mostly figured out” here.
 Ena: Either way, I'm expecting to be wowed.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Saturday]
@@ -70,7 +70,7 @@ Ena: Well, if you say so...
 Ena: So, where are you taking me today?
 Ena: A certain someone was really talking this up, so is it a really fancy cafe or something?
 Mizuki: Heh heh heh. Something like that! The atmosphere's something special, so just you wait and see.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -84,22 +84,18 @@ Ena: I don't remember anything being around here...
 Mizuki: Hehe. That's because this is the place!
 Ena: Wait, what do you mean?
 Mafuyu: Ena, this way.
-(Black cut)
+(Black transition)
 (Background change)
 Ena: Oh...
 Ena: There are still some cherry blossoms in bloom here! The season's over, so I thought they would have all fallen by now...
 Mizuki: Right? I'm really glad we found these last few!
 Mizuki: Now you can enjoy some springtime after all, right?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: Though, I spent so many days cooped up indoors that I didn't really get to enjoy much springtime.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: (Everyone remembered what I said...)
 Mizuki: What do you think? Not a bad place to have a birthday party, right?
@@ -133,7 +129,7 @@ Shizuku: We bought dango for everyone. Let's all enjoy them later!
 Ena: Wow, look at all those. Thank you. I'm looking forward to them already.
 Mizuki: Okay! That's everyone, so let's get this flower viewing birthday party started!
 Ena: Yeah!
-(Black cut)
+(Black transition)
 Ena: I still can't believe Kanade and Mafuyu made lunch.
 Mizuki: I'm looking forward to it! Wonder what they made.
 Kanade: We did taste-test it properly, so it should taste okay... But I can't promise it'll be pretty.
@@ -150,7 +146,7 @@ Ena: Oh, really!
 Ena: See, look at these, they're totally fine. Time to dig in!
 Ena: Mm...it's really good! The broth is really soaked in!
 Kanade: I-I see. That's good.
-(Black cut)
+(Black transition)
 Emu: Ena, Ena!
 Ena: What's up?
 Emu: Here's a present from us to you, the birthday girl☆
@@ -164,7 +160,7 @@ Honami: In the end, we talked to the employees at an art store and settled on th
 Ena: Wow... Thank you all so much. I love it!
 Emu: Paint lots and lots of pretty pictures with them!
 Ena: I will! And when I'm done, I'll be sure to show them to all of you.
-(Black cut)
+(Black transition)
 Airi: Well, I think it's just about time.
 Haruka: Right. With lunch all settled, it's time for you-know-what.
 Ena: Huh?
@@ -185,7 +181,7 @@ Haruka: Come right over here, Ena.
 Ena: Okay!
 Airi: Is everyone ready?
 Minori: Go ahead and strike a cute pose in three, two, one!
-(Black cut)
+(Black transition)
 Ena: (I'm so happy all of these people are here for me... What a nice birthday.)
 Ena: (And I even got to enjoy the springtime, too. That's...)
 Mizuki: Hmm? Are you getting misty on us?
@@ -198,8 +194,8 @@ Mizuki: I'm glad everything worked out, too. I'd been hoping I would get to see 
 Ena: Yeah... I'm glad we all got to, together.
 Ena: Thank you, Mizuki.
 Mizuki: Hehehe. You're very welcome!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000447/bg_s000447.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000447/bg_s000447.webp)
 Ichika: Happy birthday again! It was so much fun celebrating your birthday under the cherry blossoms. Thank you for teaching us all how to draw the flowers.
 Shiho: I didn't expect the birthday party to turn into a drawing party. You really are very good, Shinonome.
 Honami: I had lots of fun talking to you about art, Ena. It makes me want to practice more, myself.
@@ -228,9 +224,9 @@ Mafuyu: True.
 Mizuki: I could plan a hundred parties like that! Let's all hang out with everyone again soon!
 Mizuki: And with that, once again! Happy birthday, Ena!
 Kanade & Mafuyu: Happy birthday.
-(White cut)
+(White transition)
 (Background change)
 Ena: That party was so much fun... It's been a while since I've enjoyed a day that much.
 Ena: Everyone thought about what I like and put something together just for me... It really was wonderful.
 Ena: And as a thank you for your ongoing support, I'm going to work harder.
-(Black cut)
+(Black transition)

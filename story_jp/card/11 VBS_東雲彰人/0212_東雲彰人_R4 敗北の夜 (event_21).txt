@@ -18,35 +18,27 @@ MEIKO: いらっしゃい、彰人くん
 ミク (VBS): ふーん。でも、こっちに来たんだ
 MEIKO: もしかして、また何かあった？
 彰人: ……あったといや、あったんすけど
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: ……悪い。 迷惑かけたな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: けどそっちは……ひとりで突っ走っちまったことは、 冬弥達には謝ったんで
 ミク (VBS): そっか。 けど、それにしては浮かない顔だね
 彰人: もうひとり、謝らねえといけない人がいるからな
 ミク (VBS): え？　それって……
 彰人: ……謙さんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏の父: ……彰人、根を詰めすぎじゃないのか？
 杏の父: 常に全力かつ本気で取り組んでいても、 無謀なことはしないのがお前だろう？
 彰人: ……アドバイスありがとうございます。 けど……
 彰人: このままじゃダメなんです
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ま、結局無茶して、また遠野のヤツにボロ負けして、 仲間にフォローされちまったんだけどな……
 ミク (VBS): ふーん。それでちょっと気まずい感じなんだ？
@@ -99,15 +91,11 @@ MEIKO: ふふ。じゃあとりあえず、 オレンジジュースとメロン
 彰人: 在りかた？
 ミク (VBS): うん。音楽への信念とか、覚悟とか
 彰人: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (VBS): カイトってさ、フラフラしてるし、 レンのアイスも食べちゃうしで、おちゃらけた感じだけど
 ミク (VBS): でもやっぱり、DJとしてはレンの師匠で、 自分が音楽とどう向きあいたいのか、わかってるんだよね
@@ -124,7 +112,7 @@ KAITO: これもDJの性ってやつかなぁ。ハハッ！
 彰人・ミク: 『…………』
 彰人: ……ああいうとこは理解できねえわ
 ミク (VBS): うん、しなくていいと思うよ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -136,7 +124,7 @@ KAITO: これもDJの性ってやつかなぁ。ハハッ！
 彰人: はぁ……
 彰人: （なんとなく気まずくて、 こっちの店にはしばらく顔出してなかったが……）
 彰人: （……仕方ねえ。 冬弥達との待ち合わせもあるし、腹を括るか）
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -151,16 +139,12 @@ KAITO: これもDJの性ってやつかなぁ。ハハッ！
 杏の父: そうだ、彰人。 今日はコーヒーに生クリームでものせてやろうか？
 彰人: え……？
 杏の父: たまには常連にサービスしてやろうと思ってな
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 今日は砂糖の代わりに、 はちみつなんてどうかしら？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （……ったく。メイコさんも謙さんも……）
 彰人: ひょっとして、甘いもん食わせとけば 機嫌直るとでも思ってるんすか？
@@ -215,4 +199,4 @@ MEIKO: 今日は砂糖の代わりに、 はちみつなんてどうかしら？
 彰人: ……なんだよ
 杏: べっつにー。あ、サービスで多めにのっけてあげよっか？
 彰人: 謙さんと同じこと言うな！
-(Black cut)
+(Black transition)

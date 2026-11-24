@@ -12,18 +12,14 @@ Gacha phrase: I want to keep on painting forever...
 Ena: *Sigh*
 Ena: Mr. Yukihira gave me an earful again today. But everything he said was right...
 Ena: If my regular assignments are going this badly, then what's gonna happen when he starts giving us the practical course geared towards our entrance exams?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Students: It sounds like Mr. Yukihira's gonna be holding those contests again this year to help us prepare for our entrance exams.
 Students: Yikes... That means he's gonna rank us from “A” to “C” or something, right? Everyone's gonna find out what level you're at, even if you don't want them to know. Imagine how tense things are gonna get...
 Students: That's a good thing. If you can't do well here, then you don't have a hope of pulling through when it's for real. We'll need to give it our best.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: When it's for real...
 Ena: (I also have to do my best. I mean, I know the others are gonna produce a bunch of amazing drawings.)
@@ -38,13 +34,13 @@ Ena: (I've been making progress little by little.)
 Ena: More importantly, I made the decision to stop running away and keep on drawing. So, I'm in trouble if I stop moving forward!
 Ena: I don't have time to waste losing my way or regretting my decisions! For now, I just have to keep drawing and drawing and drawing!
 Ena: Starting by reviewing what we did today.
-(Black cut)
+(Black transition)
 Ena: (Today, he told me how my subject didn't stand out and that my message was unclear.)
 Ena: (I felt that I was able to illustrate the idea I had in my head, so my subject not standing out probably means that I didn't present it properly.)
 Ena: (He didn't say anything about my composition, but I should take another look at that as well.)
 Ena: (Oh, speaking of which, he praised one of the others for doing a good job of clearly illustrating their subject and message...)
 Ena: (In that drawing...)
-(Black cut)
+(Black transition)
 (Background change)
 Ena: Argh! You're so obnoxious! I was focusing really nicely just now.
 Ena: Wait, it's already 25:00...?!
@@ -94,7 +90,7 @@ Kanade: <I agree.>
 Kanade: <So, let's get started. I look forward to working with you all again today.>
 (Background change)
 Ena: <Me too. The illustrations for this one should also turn out nicely, so look forward to seeing them!>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -155,19 +151,15 @@ Mafuyu & Kanade: <Ice cream, right?> <Ice cream?>
 (Background change)
 Ena: <Yeah, I had a feeling...>
 Ena: <Hmm... That means what KAITO prefers is going to take priority...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: So, I'm wondering what it means for me to fail.
-(White cut)
+(White transition)
 KAITO (N25): <What is the thing you hate the most?>
 KAITO (N25): <To you, that is what it means to fail.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: <What KAITO said ended up being the hint I needed, so I think I'll get him some ice cream.>
 Ena: <Do you think Miku will also be happy with ice cream?>
@@ -205,4 +197,4 @@ Mizuki: <Of course! You're very welcome♪>
 Kanade: <I hope they like what you get for them.>
 (Background change)
 Ena: <Me too!>
-(Black cut)
+(Black transition)

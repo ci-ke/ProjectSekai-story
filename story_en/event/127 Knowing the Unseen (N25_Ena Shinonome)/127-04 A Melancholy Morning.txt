@@ -6,7 +6,7 @@
 
 Ena: Mhm... Just five more minutes... I stayed up really late working last night...
 Ena: Argh! Will you shut up!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Ena's Room]
@@ -27,7 +27,7 @@ Len (N25): <S-Sorry, are we too early...?>
 Ena: No, you're fine... Now I feel like I should go.
 Rin (N25): <Huh?>
 Ena: Don't worry about that. Anyway, you guys will need to wait a bit while I get ready.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Outside the Exhibit Hall]
@@ -48,7 +48,7 @@ Ena: (I feel like he wouldn't want me to be around his art, though...)
 Yukihira: Oh, before we get to work...
 Yukihira: Let's go greet your father.
 Ena: What?!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Exhibit Hall]
@@ -73,7 +73,7 @@ Yukihira: Your father really never changes...
 Yukihira: But that's a separate matter. For now, let's get our lesson started.
 Yukihira: The person over in the corner is the exhibition team leader. We'll be working alongside the others as staff members, so let's go see what work needs to be done.
 Ena: O-Okay...
-(Black cut)
+(Black transition)
 Ena: Okay, I think this painting goes over here... Put up the label and...
 Ena: (This is pretty hard work... I'm just putting up the paintings according to these plans, but they're heavy...)
 Ena: (Also...)
@@ -100,4 +100,4 @@ Ena: (So, is it really okay for me to...)
 Len (N25): <Ena...>
 ???: Shinonome.
 Ena: Oh...!
-(Black cut)
+(Black transition)

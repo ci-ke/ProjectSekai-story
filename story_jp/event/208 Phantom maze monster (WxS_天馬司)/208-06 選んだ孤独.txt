@@ -22,28 +22,24 @@
 えむ: …………うん
 司: （……これで、舞台は整った）
 司: （仕上げ切るためにも…… ここから更に、あの時心に浮かんだ想いと 向き合っていかなければ——！）
-(Black cut)
+(Black transition)
 司: ——ふざけるな……！！
 司: オレを——オレを、忘れるな……！！
 榊: ——お、いいじゃん。 ちょっと掴みかけてるよ
 司: はい
 榊: ただ、もうちょいやれそうだな。 感情を頭で整理しちゃうと上滑りするから、 体に染みつくまで何回も繰り返しやってみて
 司: ……はい
-(Black cut)
+(Black transition)
 司: 『忘れるな』……いや違う。 愛情が一気に反転するように……
 司: （オレは……家族だけが心の支えだ……）
 司: （そんな心の支えが、自分を忘れる——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 咲希: えっと……
 咲希: どなたですか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ……っ
 司: （————嫌だ……！）
@@ -52,7 +48,7 @@
 司: （いや、しかし……少しずつウィリアムの感じ方に近づいている。 今は、これでいいんだ……）
 司: （――もっと思い出せ、あの感情を）
 司: （怖がらずに、進むんだ……！）
-(Black cut)
+(Black transition)
 えむ: ……司くん、大丈夫？ 顔色、悪いみたいだけど……
 寧々: うん……。 時間がないから、焦るのはわかるけど——
 司: ——悪いが話しかけないでくれ
@@ -63,7 +59,7 @@
 榊: でもまぁ、面白くしたいなら、これぐらいはやれないとじゃない？
 榊: せっかくいいとこまで来てるんだし、 今は見守ってたほうがいいと思うけど？
 類: ………………
-(Black cut)
+(Black transition)
 (Background change)
 司: ……………………
 司: 何故だ？
@@ -103,17 +99,13 @@
 榊: 君はきっと、努力を積み重ねていけば、 いつか誰にも忘れられない——そんな役者になれる。そう思う
 司: 誰にも、忘れられない……
 司: （……そうか。 この演技を極められればオレは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -129,7 +121,7 @@
 アメリア (寧々): 『……っ』
 (Background change)
 類: これは…………
-(Black cut)
+(Black transition)
 (Background change)
 ？？？: 『……おーい。 おーい、司くーん』
 レン (WxS): 『……もしかして、もう寝ちゃったかな？』
@@ -144,7 +136,7 @@
 司: 大丈夫だ。せめて、オレの手で——
 レン (WxS): 『——司くん！！！！』
 司: ……その方がいいんだ……そうだ……。 さぁ、来い……こっちに……
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -162,4 +154,4 @@
 レン (WxS): そうだよ！ 別の人が乗り移っちゃったみたいで……目も、違ってて……！！
 えむ: ——あした、みんなで話そう！
 えむ: このまま見守るだけじゃ、 きっと司くん、大変なことになっちゃう……！
-(Black cut)
+(Black transition)

@@ -3,7 +3,7 @@
 (Character: 星乃一歌, 天馬咲希, 日野森志歩)
 
 (Video: link2_leoneed_op1)
-(Black cut)
+(Black transition)
 (Background change)
 志歩: ………………
 志歩: （……あれ、私…………）
@@ -11,7 +11,7 @@
 志歩: （これって……）
 ？？？: ——みんな、そろそろだよ
 ？？？: 志歩も、準備はいい？
-(Black cut)
+(Black transition)
 (Background change)
 ミオ: ……志歩ちゃん？
 イオリ: ひょっとして、立ったまま寝てた？
@@ -22,7 +22,7 @@ MC: 『皆さん、お待たせしました！ ジャムフェス・ルーキー
 MC: 『今、最も勢いのあるバンド、STANDOUT！！ 珍しいツインベース編成にも注目だ！』
 イオリ: ——さあ、行くよ
 メンバー達: 『はい』 『うん！』
-(Black cut)
+(Black transition)
 (Background change)
 志歩: （——よし、掴みはいい感じ）
 イオリ: （さすがだね。この大舞台で、いい音鳴らすじゃん）
@@ -36,7 +36,7 @@ MC: 『今、最も勢いのあるバンド、STANDOUT！！ 珍しいツイン�
 志歩: （どれだけ音が厚くなっても、決して負けないボーカル）
 志歩: （これが——）
 志歩: （私達、STANDOUT！！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -93,4 +93,4 @@ MC: 『今、最も勢いのあるバンド、STANDOUT！！ 珍しいツイン�
 (Background change)
 志歩: ——ごめん、咲希。 ちょっと一歌と話してくる
 咲希: あっ！　ずるいよ、しほちゃんだけ！ アタシもアタシもー！
-(Black cut)
+(Black transition)

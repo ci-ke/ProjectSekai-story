@@ -3,7 +3,7 @@
 (Character: 宵崎奏, 朝比奈まふゆ)
 
 (Video: link_night_op1)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -18,7 +18,7 @@
 奏: はい、わかりました
 まふゆの父: まふゆ、また来週来るから、 何かあったらすぐに連絡してくれ
 まふゆ: ……うん……
-(Black cut)
+(Black transition)
 奏: ——はい、まふゆ。 お茶いれたよ
 まふゆ: ……ありがとう
 まふゆ: …………いい香り
@@ -33,29 +33,24 @@
 奏: ……わかった
 奏: わたしは、お父さんのお見舞いに行ってくるよ。 すぐ帰ってくるから
 まふゆ: うん、いってらっしゃい
-(Black cut)
+(Black transition)
 (Background change)
 
 [奏の部屋]
 
 まふゆ: （ここ……このメロディーなら……）
 まふゆ: ……絡まった糸に足はもつれて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……っ
 まふゆ: ……足が……もつれて……
 まふゆ: （進めない……）
-(White cut)
-
-(Memory cut-in)
+(White transition)
+(Flashback in)
 
 [数週間前]
 
@@ -64,7 +59,7 @@
 まふゆ: ……うん……
 奏: ……何かあったら、わたしがあいだに入るから
 まふゆ: ……ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……はじめまして。 宵崎奏です
 まふゆの父: はじめまして、宵崎さん。 私、朝比奈まふゆの父です
@@ -82,9 +77,9 @@
 まふゆ: …………
 まふゆの父: うちに帰ってちゃんと話をしよう。 話せばきっと、わかりあえるはずだから
 まふゆ: 私は……
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 まふゆ: ————ッ！
 まふゆ: …………ごめんなさい
@@ -115,10 +110,8 @@
 まふゆの父: ——まふゆ
 まふゆの父: また、会いに来るから。 落ちついたら……お父さんと話してくれるか？
 まふゆ: ……うん……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （お父さんに、心配かけてる）
 まふゆ: （あの時から……今日まで、ずっと）
@@ -127,23 +120,19 @@
 まふゆ: （それに、勉強もそうだけど……受験もある）
 まふゆ: （……帰らなきゃ、いけない）
 まふゆ: （いけない、けど）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ——まふゆ、お願い。 お母さんが悪かったから……帰って、ふたりで話しましょう
 まふゆの母: ねえ、まふゆ——！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ————！！
 まふゆ: （……胸が、冷たい……）
 まふゆ: （苦しい……）
 まふゆ: …………っ
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -153,4 +142,4 @@
 まふゆ: …………っ
 ？？？: ……まふゆ、ちゃん？
 まふゆ: ……え……
-(Black cut)
+(Black transition)

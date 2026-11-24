@@ -32,15 +32,11 @@
 愛莉: それとも、雫に何か言いたいこと……、 いや、言わなきゃいけないことでもあるのかしら？
 遥: （愛莉……）
 遥: （やっぱり、あの時のこと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 アリサ: そうだね——
 アリサ: ——特にないかな
@@ -64,34 +60,26 @@
 雫: ……そうね。 とても今更なんだけど……
 雫: 私は、自分が恵まれていることにも気づかずに、 とても無神経なことを言ってしまったから
 アリサ: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雫: ……ごめんなさい、本当に。みんなの言うとおりだわ。 私も……諦めないで、もっと早い段階で スタッフさんに相談してみればよかった
 雫: センターのことも……ずっと思っていたわ。 指名された時から、私じゃ力不足だって……
 雫: だから、本当は違う人にやってもらったほうが——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……私が立ったセンターという場所は、 みんなの一番の目標で、夢が詰まっているところだった
 雫: でも、前の私はそれをちゃんとわかっていなくて、 ただただ、自分には向いていないからって……、 もっといい人がいると思うからって
 雫: 『違う人にやってもらったほうがいい』なんて……、 みんなの憧れの場所を簡単に放りだすようなことを 言ってしまった
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: ——ふざけないでよ
 アリサ: アンタって、いつもそうだよね。 自分の頭で考えないで、流されてばっか
 アリサ: アンタに与えられるのは、 誰かにとって死ぬほど欲しいチャンスなのに、 それを自分のものにしようって気もまるでないし
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: だからあの時、アリサちゃんが怒ったのは 当たり前だったと思うわ
 雫: ……本当にごめんなさい
@@ -115,17 +103,17 @@
 アリサ: これから先、バックアップなしで どこまでやれるのか楽しみにしてるよ
 アリサ: ——せいぜい頑張って
 雫: あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000163/bg_s000163.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000163/bg_s000163.webp)
 愛莉: まったく、なんなのよ！ 結局『ごめん』のひとつもなかったじゃない！
 遥: たしかに、挨拶にしては敵意むき出しって感じだったね
 愛莉: わざわざ嫌味言うために来たってこと？ ホント意味わかんないわね……
 雫: （……アリサちゃんは、 頑張り屋さんで、自分にも他人にも厳しい子で——）
 雫: （だから、誰かに『頑張れ』なんて滅多に言わなかった。 それなのに……）
-(White cut)
+(White transition)
 (Background change)
 雫: （少しは—— 少しは、アイドルとしての私を認めてもらえたのかしら……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数週間後]
@@ -150,26 +138,18 @@
 雫: （……Cheerful＊Daysの頃は、 台本に書いてあるとおりの言葉で話していたけれど）
 雫: （今の私は、私の言葉で、私の想いを ファンのみんなに届けることができる）
 雫: （……少し前の私なら、 自分の言葉で話すことすらできなかったのに）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 みのり: 雫ちゃんの想いが、たくさんの人に届いたんだね！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 雫: （……もう、何も怖くないわ。だから——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 アリサ: ——せいぜい頑張って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （私は私らしく、この場所で——希望を届けていきましょう）
-(White cut)
+(White transition)

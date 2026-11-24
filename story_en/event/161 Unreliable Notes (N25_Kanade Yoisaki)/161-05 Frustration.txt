@@ -6,18 +6,14 @@ Kanade: No, this still doesn't sound right...
 Kanade: Mr. Asahina said that Mafuyu's mom is very loving...
 Kanade: The warmth Mafuyu associates with those apple slices is likely an expression of her mother's love.
 Kanade: So, I have to find a sound which represents that...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: I should start again from the beginning.
-(Black cut)
+(Black transition)
 Kanade: What do you think...?
 Mafuyu: I think it's a good song.
 Kanade: Okay...
@@ -28,7 +24,7 @@ Kanade: (When I picture Mafuyu's mother, the sound ends up turning cold, no matt
 Kanade: (I tried working in my own mother's warmth...)
 Kanade: (But it just isn't what Mafuyu felt.)
 Kanade: (I can't lean on my own experiences. I have to focus on Mafuyu and what she felt.)
-(Black cut)
+(Black transition)
 Kanade: Still no good...
 Kanade: It's the same as everything else I've come up with so far...
 Kanade: (What do I do?)
@@ -38,12 +34,12 @@ Kanade: (There's something missing...on a more fundamental level?)
 Kanade: (I don't know. But...)
 Kanade: Again...
 Kanade: Start over. Try again...
-(Black cut)
+(Black transition)
 
 [A few days later]
 
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000424/bg_s000424.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000424/bg_s000424.webp)
 Kanade: No...!
 Kanade: (I thought I had the right idea at the demo stage, but I feel like I'm stepping backwards each time I add a note or chord.)
 Kanade: (How do I capture that warmth in sound? Am I using too many slashed chords? If I change the structure...)
@@ -51,7 +47,7 @@ Kanade: (No, this song may just be completely broken.)
 Kanade: (I feel like nothing I come up with is going to make it better.)
 Kanade: Next...
 Kanade: My next idea has to work.
-(White cut)
+(White transition)
 (Background change)
 Kanade: ...
 Kanade: I can't stop here.
@@ -60,7 +56,7 @@ Mafuyu: You need to eat something, Kanade...
 Kanade: Yes, you're right...
 Kanade: I'll have something once I've reached a good stopping point.
 Mafuyu: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -84,12 +80,12 @@ Mafuyu: Okay.
 Kanade: Huh? But...
 Mafuyu's Father: You look exhausted, so you should spend the remainder of the day resting.
 Kanade: Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 Kanade: (My mind's still wide awake. I can't fall asleep...)
 Kanade: (Before I forget... I have to remember what I was doing for that song...)
 Kanade: (Start in a minor key... Then change to a major key, and...)
-(Black cut)
+(Black transition)
 (Background change)
 Rin (N25): <Kanade...?>
 Kanade: No, this is also wrong...
@@ -99,4 +95,4 @@ Kanade: What's the right sound? Does it need more mid-bass? Which keys haven't I
 Kanade: Think. Keep thinking...
 Kanade: Next, I'll try...
 Rin (N25): (Kanade...)
-(Black cut)
+(Black transition)

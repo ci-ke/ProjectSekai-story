@@ -17,7 +17,7 @@
 寧々: 類？　聞いてる？
 類: ん？　ああ、台本はここにあるとも。 早速始めようか！
 寧々: ……うん
-(Black cut)
+(Black transition)
 えむ: 『園長～！　今日はなんだかいつもより、 たくさんのお客さんが来てくれてますよ！』
 司: 『何？　それは喜ばしいな。 どれどれ、どんなお客さんが来てるか見てみよう……ん？』
 司: 『な、なんだあれはー！ 墓の中から出て来てるじゃないか！』
@@ -48,7 +48,7 @@
 司: へ？
 類: 僕のほうでもう少し考えてみるよ。 とりあえずここは一旦置いて、先に進もうか
 寧々: 類……？
-(Black cut)
+(Black transition)
 (Background change)
 司: よし、次は例の、奈落に引きずりこまれるシーンだな！
 司: 前回はゾンビロボットに足を引っ張られてしまったが、 今回は見事に決めてやるぞ！
@@ -78,9 +78,9 @@
 類: そうかな。僕はいつも通りのつもりなんだけど。 どこがいつもの僕と違うんだい？
 えむ: どこがって言われると わからないんだけど～
 司: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000026/bg_a000026.webp)
 司: ——おい、類
 司: お前、本当にそれが一番やりたい演出なのか？
 類: ——え？
-(Black cut)
+(Black transition)

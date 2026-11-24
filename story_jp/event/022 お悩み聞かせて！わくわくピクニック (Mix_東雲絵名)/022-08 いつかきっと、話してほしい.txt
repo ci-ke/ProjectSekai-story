@@ -21,23 +21,19 @@
 瑞希: 『……うん』
 (Background change)
 瑞希: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 瑞希: （絵名を、愛莉ちゃん達を助けたい……！）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 瑞希: 必死な顔、か
 瑞希: ……あれ？　絵名からメッセージきてる
 絵名: 『今日はありがと。今から愛莉と雫と グループ通話しようって話してるんだけど、瑞希もどう？』
 瑞希: （グループ通話か……。たまにはいいかもね。 愛莉ちゃんも雫ちゃんも、話してると本当に楽しくて……）
 瑞希: （…………でも、やっぱり、ボクは——）
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -60,17 +56,13 @@
 (Background change)
 雫: 『そうね。悩みを聞くどころじゃなくなってしまったし……』
 絵名: 『もう、ふたりとも謝らないでよ。 こっちはすごく感謝してるんだから』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 瑞希: 絵名達が無事だったんだから、ボクはそれで十分だよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: 『……今日の瑞希、久しぶりに笑ってた気がして。 ずっと楽しそうだったし、やっぱり誘ってよかったなって』
 愛莉: 『そう。だったらよかったわ』
 (Background change)
@@ -106,20 +98,16 @@
 愛莉: 『それじゃふたりとも、今日は本当にお疲れさま。 またね！』
 (Background change)
 絵名: 『うん、またね』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 瑞希: 絵名達が無事だったんだから、ボクはそれで十分だよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: （……瑞希、また、ああいう風に たくさん笑ってくれるといいな）
 絵名: （私がやろうとしてることは、お節介かもしれないけど……）
 絵名: （やっぱり見てないフリは、できないよ）
 絵名: （だって瑞希は——）
 絵名: （私の、大事な友達だから）
-(White cut)
+(White transition)

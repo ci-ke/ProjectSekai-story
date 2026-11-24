@@ -14,7 +14,7 @@ Gacha phrase: 一緒に歌えて、嬉しいな！
 リン (VBS): 広場で歌の練習してもいいけど……
 リン (VBS): そういえば、新メニューの味見をしてほしいって メイコに呼ばれてたんだった！
 リン (VBS): ちょうど時間もあるし、行っちゃおうかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -44,7 +44,7 @@ MEIKO (VBS): それで、ちょっと目を離した隙に、 いろいろ入れ
 ミク (VBS): そっか。なら、仕方ないね
 ミク (VBS): カイト、早く食べて感想聞かせてよ
 KAITO (VBS): うう……はーい……
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -60,7 +60,7 @@ KAITO (VBS): うう……はーい……
 ルカの声 (ルカ-VBS): なーんか、今日はここで歌いたい気分だったんだよね！
 ルカの声 (ルカ-VBS): リンもおいでよ。 簡単に登るルート見つけたんだ
 リン (VBS): そうなの！？　教えて教えて！
-(Black cut)
+(Black transition)
 リン (VBS): よいしょ……っと。 わ、いい景色！
 ルカ (VBS): ようこそ、特等席へ♪ ほら、リンも一緒に歌おうよ
 リン (VBS): うん！
@@ -73,7 +73,7 @@ KAITO (VBS): うう……はーい……
 リン (VBS): 気になるし、レンを探す前に会いに行っちゃおうかな！
 リン (VBS): ルカ、いい場所教えてくれてありがとね！
 ルカ (VBS): はいはーい、またね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -82,17 +82,13 @@ KAITO (VBS): うう……はーい……
 
 [ストリートのセカイ]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: その代わり……ちゃんとついてこいよ。 ギリギリの負荷狙うからな
 冬弥: もちろんだ。食らいついてみせる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 リン (VBS): ……ふふ
 レン (VBS): リン、ずっとニヤニヤしてない？
@@ -144,4 +140,4 @@ KAITO (VBS): うう……はーい……
 レン (VBS): いいね！ 早速、向こうでやろっか！
 レン (VBS): オレ達の息ぴったりな歌、セカイに響かせちゃおう！
 リン (VBS): うん！
-(Black cut)
+(Black transition)

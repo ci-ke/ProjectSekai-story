@@ -20,15 +20,11 @@ Len (WxS): You were at Morinomiya today, right? Are you all done for the day?
 Emu: Yup♪ I've been learning a ton about how they run things!
 Emu: But I'm taking a quick break! I don't get to work on my acting while I'm with them, so I'm gonna practice on my own now♪
 Len (WxS): Really?! Then, let's practice together.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Len (WxS): Oh... I know...!
 Len (WxS): Say, Emu! Let's try auditioning... No, actually... Wanna have an acting contest with me?
@@ -40,25 +36,25 @@ Len (WxS): Hehe. The truth is, you playing Ushiwakamaru is what gave me the idea
 Len (WxS): By holding a contest like this, I feel like I can learn a lot about how to act cool or cute or elegant! What do you say?
 Emu: It sounds like a lot of fun! So, Len, you can count me in!
 Len (WxS): Thanks! Then, let's go over and ask KAITO to see if we can use the stage!
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (WxS): I see. An acting contest.
 KAITO (WxS): I think it's a wonderful idea, so let's run with it.
 Len (WxS): Woohoo! Thanks, KAITO!
 KAITO (WxS): Then, let's start by deciding the overall framework for it. That includes coming up with the rules, categories and such.
 Len & Emu: Okay! Okay♪
-(Black cut)
+(Black transition)
 (Background change)
 Len (WxS): Extra! Extra! This just in, Len and Emu are holding an acting contest in SEKAI!
 Len (WxS): All those who wish to learn more about acting are welcome to join! Take a flyer to find out more details♪
 Miku (WxS): Wow! An acting contest?! Can I have a flyer?!
-(Black cut)
+(Black transition)
 (Background change)
 Emu: Extra! Extra! Len and Emu are holding an acting contest in SEKAI!
 Emu: Everybody with confidence in acting cool, cute or elegant is welcome to join!
 Doggie Plushie: Hi, Emu! You're passing out flyers?
 MEIKO (WxS): Something fun must be happening! Would you mind giving me one as well?
-(Black cut)
+(Black transition)
 (Background change)
 KAITO (WxS): Welcome back, you two! Did everyone take a flyer?
 Len (WxS): Yeah! A lot of them even said that they wanted to join, so we've got tons and tons more participants now!
@@ -69,7 +65,7 @@ KAITO (WxS): Right. Would you two be okay with helping out a little while longer
 Len & Emu: Yeah!
 KAITO (WxS): Wonderful!
 KAITO (WxS): While you two were passing out flyers, I tried searching for some suitable manuscripts...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -93,16 +89,16 @@ Nene: Plus, the scripts you guys picked for these categories all seemed really g
 Rui: Yes, I think we're all looking forward to seeing everyone's performances.
 Len (WxS): Then, let's get this contest started!
 Emu: Our first category is... “Cuteness”! Let's go!
-(Black cut)
+(Black transition)
 
 [[Cuteness Category]]
 
 Miku (WxS): “Oh, those cookies look so yummy♪”
-(Black cut)
+(Black transition)
 Luka (WxS): “Can I have one? Please...”
-(Black cut)
+(Black transition)
 Rin (WxS): “Pretty please with sugar on top! Just one... That's okay, right☆”
-(Black cut)
+(Black transition)
 Nene: They've definitely all come up with plans as to how they're going to capture everyone's hearts with their cuteness.
 Tsukasa: Yes, despite each performance only being a few lines long, they were all very compelling. Next, we have...
 Len (WxS): Entry number seven! Kagamine Len! Thank you for having me.
@@ -112,7 +108,7 @@ Len (WxS): “...”
 Len (WxS): “Pretty please with sugar on top! Just one is okay, right☆”
 KAITO (WxS): Oh, I liked the way he paused for a second there!
 Rui: Yes, he used his eyes very well there just now. If he acted that way in front of me, I'd probably give him all the cookies instead of just one.
-(Black cut)
+(Black transition)
 
 [[Elegance Category]]
 
@@ -129,7 +125,7 @@ Rui: “Of course I have a conscience. Even... Even I am human, after all!”
 Rui: “But all is fair in love and war! If it means getting that man to notice me...”
 Rui: “Then I am willing to do...anything...”
 Tsukasa: What...?! No fair, Rui! I want to be in this contest too!
-(Black cut)
+(Black transition)
 
 [[Coolness Category]]
 
@@ -141,7 +137,7 @@ Rui: Yes, and the way she presented her character's resolve to keep being a hero
 Nene: Hey, we're missing someone again.
 Tsukasa: Entry number X2! Tsukasa Tenma! Here we go!
 Miku, Rin, Luka & MEIKO: You can do it♪
-(Black cut)
+(Black transition)
 Len (WxS): Thank you all for participating in the SEKAI Acting Contest! I really learned a lot watching your performances!
 Emu: Yeah, me too!
 Miku (WxS): Thanks for doing this for us, Len, Emu☆ That was really fun!
@@ -160,4 +156,4 @@ Emu: No, I should be the one thanking you! I was able to learn so many new thing
 Emu: And it's two birds with one stone in my case, since I got to run an actual contest☆
 Emu: So, Len, thank you very much!
 Len (WxS): Hehe! You're welcome!
-(Black cut)
+(Black transition)

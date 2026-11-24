@@ -8,19 +8,15 @@
 まふゆ: （熱、下がったみたい。 頭痛もおさまってきた）
 まふゆ: （これなら、明日には治りそう）
 まふゆ: （——奏のおかげだな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: お父さんが、昔言ってたんだ。 わたしとお母さんに、自分の作った曲で 笑ってほしいんだって
 奏: そんなお父さんの曲を聴いて……、 わたしもお母さんも、あの頃、心から笑顔になれてた
 奏: だからわたしは……
 奏: あの時のわたし達みたいに、 まふゆにも笑ってほしいって思ったの
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……あの時、また、あたたかくなった）
 まふゆ: （あの気持ちがなんなのか、まだ、 よくわからないけど——）
@@ -30,20 +26,16 @@
 スピーカー: ♪———……
 まふゆ: （…………やっぱりあたたかい）
 まふゆ: （でも、書こうとすると、言葉がうまく出てこない。 どうして……？）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ——いい子ね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: う……
 まふゆ: 何……？　何かが、引っかかってるみたい……
-(Black cut)
+(Black transition)
 
 [深夜４時]
 
@@ -86,4 +78,4 @@
 まふゆ: （……まだ、あのあたたかい気持ちを なんて呼べばいいのか……わからない）
 まふゆ: （——でも……）
 まふゆ: ……歌詞にしてみよう。私の言葉で
-(Black cut)
+(Black transition)

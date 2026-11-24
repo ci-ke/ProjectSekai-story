@@ -45,7 +45,7 @@ Minori: What?
 Hasegawa: <I've tried working on that song... But I feel totally stuck...>
 (Background change)
 Haruka: Stuck...?
-(Black cut)
+(Black transition)
 Haruka: What do you mean by that...?
 (Background change)
 Hasegawa: <Some people said this in the comments...>
@@ -59,17 +59,13 @@ Hasegawa: <I was just trying to spread hope with my song, but I ended up hurting
 Hasegawa: <My mind wants to create, but my hands refuse to do what they're told...!>
 (Background change)
 Haruka: ...!!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Haruka: My legs... They won't move...
 Haruka: Wh-Why... Why won't they move?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: ...
 (Background change)
@@ -77,7 +73,7 @@ Hasegawa: <But I'm still determined to finish writing your song.>
 Hasegawa: <So... Please... Can I have a little more time...?>
 (Background change)
 Haruka: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -101,18 +97,14 @@ Haruka: *Nod* Whenever I tried to go on stage, my legs would freeze up.
 Haruka: Please, try not to look so sad. I managed to overcome that with everyone's help.
 Haruka: However... That's also sort of why I don't really know what to say to her right now.
 Haruka: Even after receiving so much support from so many people...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ASRUN Members: We'll be fine, Haruka! I'm sure you'll be back on stage after you take a short break!
 ASRUN Members: I get that you feel bad about this since you're the responsible type and all, but that's also why it might be good for you to relax more.
 Manager: We'll be consulting with a specialist as well, so let's just try to get through this together.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: But even after hearing all those kinds words and seeing so many people about it, my legs wouldn't stop shaking.
 Miku (MMJ): ...
@@ -138,22 +130,18 @@ Airi: Hehe. It actually kinda worked, so it might be worth a try!
 Miku (MMJ): Hehe...
 Luka: Oh, it's nice to hear that you like my favorite trick so much.
 Rin: Haruka...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Haruka's Room]
 
 Haruka: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Hasegawa: <My mind wants to create, but my hands refuse to do what they're told...!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: (I know exactly how that feels...)
 Haruka: (The more you push yourself into a corner, the less your body is willing to respond...)
@@ -169,13 +157,13 @@ Rin: <It's me, Rin♪ Here today to make everybody smile!>
 Haruka: Rin? What are you doing here all of a sudden...?
 Rin: <You seemed really down, so I came to take a look.>
 Haruka: I see... I'm sorry for making you worry.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000071/bg_s000071.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000071/bg_s000071.webp)
 Rin: <No, don't apologize! You worry about me whenever I'm in a bad place, right, Haruka?>
 Rin: <So this is your chance to ask me for help!>
 Rin: <But you might not need it since you've got a good head on your shoulders. I mean, you're such a great singer and dancer...>
 Haruka: Hehe. I'm really not that great, but thank you, Rin...
-(White cut)
+(White transition)
 (Background change)
 Haruka: So, Rin, what would you do? She's going through the exact same thing I did, but I have no idea how to help her...
 Rin: <Hmm...>
@@ -195,4 +183,4 @@ Haruka: Alright, I might have to tickle you all back in return.
 Rin: Oh, that sounds fun! We can have a big ticklefest!
 Haruka: Thank you, Rin. I feel much better now because of you.
 Haruka: Same... After all, we're both here to spread hope.
-(Black cut)
+(Black transition)

@@ -9,7 +9,7 @@ Spectator A: BAD DOGS are totally lit again tonight! Are they seriously still in
 Spectator B: Akito's sheer power draws you in while Toya is great at the technical stuff. He's got a mysterious quality as well. I doubt any of the young groups around here can compete!
 Spectator A: What about Ken's daughter?
 Spectator B: Oh, that's right! Man, what a great time to be alive!
-(Black cut)
+(Black transition)
 Musician: Tsk. Doesn't anyone have anything better to talk about?
 Akito: What's wrong with you? What are you getting all pissed off about?
 Musician: Oh, it's nothing. I'm just sick of everyone around here talking about Ken's daughter all the time, is all.
@@ -26,7 +26,7 @@ Toya: Support?
 Akito: Hey, don't stick your nose where it doesn't belong. This is our problem to deal with.
 Musician: Oh, don't worry about me. I won't do anything...too bad.
 Toya: .....
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -37,7 +37,7 @@ Akito: Would you like the equipment moved over here?
 New Staff: Yeah. Thanks for helping out, Akito, Toya.
 Len: Akito and Toya were the names of the other two! It sounds like they're close by.
 Len: They seem a bit busy today, though. Maybe I should try again some other time.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -46,7 +46,7 @@ An: The big show is tomorrow! Are you ready, Kohane?
 Kohane: Yeah. Thanks to you, I've been able to get a lot of practice singing in front of people. I-I think I'm ready!
 An: I've explained how the event works and we've done everything we can, so let's give it our best tomorrow!
 Kohane: Right. I'll do my best!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -78,7 +78,7 @@ Toya: Hm?
 Kohane: If you hadn't invited us, I think I probably would have been too scared to do something like this.
 Kohane: So I'm going to give it my best tomorrow!
 Toya: ...Right.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The day of the event]
@@ -99,4 +99,4 @@ Akito: Look at 'em laughing like fools.
 Akito: Let's go, Toya. It's time to crush them.
 Toya: Akito, do you have a minute first?
 Akito: Hm?
-(Black cut)
+(Black transition)

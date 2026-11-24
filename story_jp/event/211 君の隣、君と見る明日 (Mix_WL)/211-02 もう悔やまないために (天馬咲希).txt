@@ -69,7 +69,7 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: 特に、自分を慕ってくれてる子の前では かっこつけちゃうっていうか
 木村: あ……。 でも、じゃあ……どうしたら……
 咲希: ……もしよかったらだけど——
-(Black cut)
+(Black transition)
 (Background change)
 
 [校門前]
@@ -81,58 +81,46 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: で、でも……！ バレー部の人達みんな、守屋さん達のことを心配してて……！
 瑞希: ほんのちょっとでいいんです！　話を——
 咲希: あ……
-(Black cut)
+(Black transition)
 瑞希: ——っていう感じで、 こっちは全然取り合ってもらえなかったよ
 咲希: るいさん達の方はどうでしたか？
 類: ……残念ながら、こちらも似たようなものだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 間島: ……神代くん、心配してくれてありがとう
 間島: でも……私がまいた種だから。 自分でなんとかしないと……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: ……あの様子だと、 すでに何度も守屋さんに謝っているんだと思う
 咲希: え……
 類: ただ、その謝罪は受け入れてもらえず、 打つ手がなくて途方に暮れている——そんな風に感じたよ
 咲希: そんな……
 咲希: （だって、あのふたりは……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 木村: あのふたり、小学校の頃からの幼馴染みなの
 木村: バレーも、守屋先輩が間島先輩を誘ったんだって。 だから、守屋先輩のおかげで今の自分がいるって……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: （——大事な、幼馴染みなのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 咲希: じゃあね！　ほなちゃん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 咲希: ……あともう少しだけ、守屋さん達に話を聞きませんか！？
 咲希: ちょっとずつでも距離を詰められれば、 話してくれるようになるかもしれません！
@@ -141,21 +129,21 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 瑞希: え、大丈夫なの？ 許可とかバンドの練習とか……
 咲希: うん！　許可も今日だけじゃなくて、何日かもらってるんだ
 咲希: それに今、いっちゃん達も忙しくしてるみたいで 練習もいつもより遅めに始まるから大丈夫！
-(Black cut)
+(Black transition)
 (Background change)
 咲希: 守屋先輩、部活が始まるまでの間だけでもいいので、 ちょっとお話を——
 守屋: ……あなたに先輩って呼ばれる筋合いないけど。 ランニングもすぐ始まるから、部外者は離れてて
 咲希: う……わかりました……
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 守屋先輩、部活お疲れさまでした！
 守屋: …………
 瑞希: あ、先輩……！
-(Black cut)
+(Black transition)
 (Background change)
 咲希: こんにちは！　まだ部活始まらないですよね？ 少しだけお話させてください！
 守屋: ……悪いけど、自主トレあるから
-(Black cut)
+(Black transition)
 (Background change)
 守屋: はあ……
 守屋: ……これもあの子の差し金？
@@ -166,7 +154,7 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: え……？
 守屋: ……じゃあね
 咲希: あ、守屋先輩……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -177,8 +165,8 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: そんなことないよ。 ただ……アタシが、勝手にほっとけないって思っちゃうだけ
 瑞希: ほっとけない？
 咲希: ……うん
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000606/bg_s000606.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000606/bg_s000606.webp)
 咲希: ……アタシね、昔、諦めようとしたことがあるんだ
 瑞希: え……？
 咲希: ホントはね、幼馴染みのみんなと一緒にいたかったんだけど——
@@ -187,7 +175,7 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: それなら、『一緒にいたい』っていう想いは我慢しよう、 アタシの気持ちばっかり押し付けちゃいけないって——
 咲希: きっと、それがその子のためになるって思ったの
 咲希: でも…… 最後まで、諦めないでいてくれた子がいたんだ
-(White cut)
+(White transition)
 (Background change)
 咲希: その子はね、アタシが諦めた後も話をしにいってくれたの。 本当の気持ちを教えてって……
 咲希: そのおかげで、アタシ達はまた一緒にいられるようになったんだ
@@ -203,7 +191,7 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: え？
 咲希: （……なんだろ。すごく、嫌な予感がする……）
 瑞希: あっ、咲希ちゃん！？
-(Black cut)
+(Black transition)
 (Background change)
 
 [中庭]
@@ -244,4 +232,4 @@ KAITO (VBS): 『やっぱり、よその学校に入るには許可がいるん�
 咲希: はい！　任せてください！
 守屋: ……ごめん。八つ当たりして
 守屋: …………ありがとう
-(Black cut)
+(Black transition)

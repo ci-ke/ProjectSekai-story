@@ -26,19 +26,15 @@ Gacha phrase: おかげで大切なことを思い出せたわ
 愛莉: （このCDを持って、並んだ列の先に あの人が見えるかもって、必死に背伸びして……）
 愛莉: あの時のドキドキ……本当に懐かしいわ
 愛莉: そういえばリンのステージを見た時も、 あの時に負けないくらい、キラキラした想いをもらったっけ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: ふふ。リンとこのCDのおかげで、 ものすごく初心に帰った気分……
 愛莉: ——よし！
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日、早朝]
@@ -87,7 +83,7 @@ Gacha phrase: おかげで大切なことを思い出せたわ
 みのり: おー！　すごい、キレが違う！
 愛莉: 当然よ！
 愛莉: さあ！　みっちり教えてあげるから、 全員覚悟しなさいね！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -131,4 +127,4 @@ Gacha phrase: おかげで大切なことを思い出せたわ
 愛莉: まあ、MORE MORE JUMP！の 未来がかかってるんだもの。これくらいは当然よ
 愛莉: とにかく、わたし達らしいアイドルとしての 活躍の仕方を見つけていかなくちゃね！
 雫: うん！　探そう、４人で一緒に
-(Black cut)
+(Black transition)

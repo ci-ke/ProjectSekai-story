@@ -17,7 +17,7 @@
 彰人: （歌声が、直接心臓を掴んでくるみてえだ）
 冬弥: （この力強さ……否応なしに響いてくる重低音……）
 冬弥: ——凄まじいな……！
-(Black cut)
+(Black transition)
 スレイド: やっぱすごいな！ この前のイベントから、またパワーアップしてるよ！
 セドリック: さっきの新曲は、 今までとテイストから違っていたしな
 ミュージシャン: 『おい、まだまだいけるだろ！？ 声聞かせてくれ！』
@@ -35,7 +35,7 @@
 こはね: （こんなに広いのに、音がまっすぐ届いてきて……）
 こはね: （…………これが）
 こはね: （これが、世界レベルのステージなんだ……！）
-(Black cut)
+(Black transition)
 ミュージシャン: 『いい声だったぜ！』
 ミュージシャン: 『盛り上がってくれて、ありがとな！』
 スレイド: うっわあ……今のチームも、 めちゃくちゃ熱かったな……！
@@ -74,17 +74,13 @@
 観客達: 『はっ！　またこいつらの歌が聴けるとはな……！』
 観客達: 『もっと聴かせてくれ〜〜〜〜！！！』
 こはね: あ…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク (VBS): 『きっとこれから、いろんな場所でいろんな経験を積むだろうし。 その中で掴んでいけばいいんじゃないかな』
 ミク (VBS): 『自分達にとって、 “世界を獲る”っていうのがどういうことか』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （………………そっか）
 こはね: （今まで……ずっと、ぼんやりしてた）
@@ -98,18 +94,18 @@
 彰人: （熱くてたまらねえ……！）
 彰人: （体の中から、全部を揺さぶられてるみてえな……）
 彰人: （ああ、くそっ。頭ん中がぐちゃぐちゃだ。 だが——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000454/bg_s000454.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000454/bg_s000454.webp)
 彰人: ————これが……『世界』なのか
 彰人: …………っ
 彰人: （これが、オレの……オレ達の！）
 彰人: （目指す景色なのか————！）
-(White cut)
+(White transition)
 (Background change)
 エレナ: 『ん〜〜！』
 エレナ: 『やっぱりあのふたりの歌は、熱いね……！』
 レベッカ: 『……そうだね』
-(Black cut)
+(Black transition)
 
 [終演後]
 
@@ -119,26 +115,22 @@
 杏: ……とりあえず、挨拶行く？ 父さん達、ステージの近くにいるってさ
 冬弥: そうだな……。 招待してくれたお礼も、改めてしたい
 セドリック: たしかステージ裏は、一度客席を出てから——
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 こはね: （………………すごい）
 こはね: （まだ……響いてる。歌も、歓声も……）
 こはね: （熱くて……ここにいる、全員が——）
 こはね: （…………どんな、感じなんだろう）
 こはね: （ステージから見たら……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000452/bg_s000452.webp)
 こはね: （————見たい、な）
 こはね: （あの景色を、ステージで）
 こはね: （それで……）
 こはね: （あの熱さを、私達の歌で————！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数分後]
@@ -168,4 +160,4 @@
 大河: 俺達はそれに出て、 俺達の音楽で、誰よりも会場を沸かせてやる
 大河: ——今日以上にな
 こはね: …………！
-(Black cut)
+(Black transition)

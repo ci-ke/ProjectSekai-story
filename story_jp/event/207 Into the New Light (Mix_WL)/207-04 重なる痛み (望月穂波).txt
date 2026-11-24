@@ -20,7 +20,7 @@
 ルカ (Ln): 『そうだったのね。 ……ふふ、嬉しいニュースを聞かせてもらっちゃったわ』
 ルカ (Ln): 『その子が、ちゃんと前を向けるようになってよかったわね』
 穂波: はい……！ 次はどんな作品を作るのか、楽しみです
-(Black cut)
+(Black transition)
 (Background change)
 
 [２週間後]
@@ -45,7 +45,7 @@
 穂波: こはねちゃん、この後って何か用事ある？
 こはね: ううん、何もないけど……どうしたの？
 穂波: ちょっと、話したいことがあって…… 少し寄り道してもいいかな？
-(Black cut)
+(Black transition)
 (Background change)
 
 [乃々木公園]
@@ -61,19 +61,15 @@
 ルカ (Ln): 『どうしたの？』
 こはね: えっと、あそこの広場で集まってる人達—— 前に、どこかで見たことある気がして……
 穂波: （あの人達……！）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: もしかして、何かの撮影中ですか？
 ？？？: いやー……あはは……
 ？？？: いや、もう終わったんで。 ……ねえほら、さっさと行くよ
 少女: え、あ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: ……動画同好会の人達だと思う。 前にカフェで一緒になった……
 こはね: あ、本当だ……！ 今日も何か撮影してるのかな……？
@@ -114,7 +110,7 @@
 少女: ——っ！
 こはね: あ……！
 穂波: ——待って！
-(Black cut)
+(Black transition)
 (Background change)
 穂波: はぁ、はぁ……っ、……
 穂波: （いない……。 まだ、そんなに遠くまで行ってないはずだけど）
@@ -122,39 +118,35 @@
 穂波: （もしかして最近、 新しい動画の制作が止まってたのも——？）
 穂波: （もし……）
 穂波: （もし、ずっと前から、あんな風に言われてたなら……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 かつてのクラスメイトC: みんな言ってるよ。穂波はいろんな子のグチ聞いて、 みんなにいい顔してるって
-(White cut)
+(White transition)
 かつてのクラスメイトB: ねえ……穂波が廊下で友達としゃべってるの見たんだけど、 私達にいじめられてるみたいな態度とってるよ、あの子
-(White cut)
+(White transition)
 (Background change)
 穂波: でもわたし……怖いの……
 穂波: クラスの中で悪口を言われるのも……、 笑われるのも……無視されるのも……怖いの……
 穂波: もう、あの時みたいな思い、絶対にしたくない……！
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 穂波: （ひとりで、ずっと耐えてたのかな）
 穂波: （そんなの……）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000595/bg_s000595.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000595/bg_s000595.webp)
 穂波: （あの時、怖くて、つらくて—— どうしたらいいのか、わからなくなってた）
 穂波: （それでも、一歌ちゃん達や ミクちゃん達が手を差し伸べてくれて……）
 穂波: （もし、あの子が今…… 同じようにつらい気持ちでいるなら）
 穂波: （このまま、ひとりにしたくない——！）
-(White cut)
+(White transition)
 (Background change)
 (Background change)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [数十分後]
@@ -175,7 +167,7 @@
 まふゆ: 弓道部の練習帰りなんだ。 もうすぐ試合があるから
 まふゆ: そっちは……もしかして、何かあった？
 穂波: 実は、今——
-(Black cut)
+(Black transition)
 まふゆ: ……なるほど。 それであの子を捜してたんだ
 こはね: はい……。 連絡はしてみたんですけど、反応がなくて
 雫: 私も一緒に捜すわ！ 人数が多い方が、見つかるかもしれないもの
@@ -183,7 +175,7 @@
 穂波: ……！　ありがとうございます
 穂波: （みんなが協力してくれるなら、きっと大丈夫）
 穂波: （絶対に、あの子を見つけなきゃ……！）
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？のセカイ]
@@ -191,4 +183,4 @@
 ルカ: （想いの欠片が……ひび割れていく……）
 ルカ: （少しでも触れたら、 砕けてしまいそうなほど……）
 ルカ: ……今は、みんなのことを信じましょう
-(Black cut)
+(Black transition)

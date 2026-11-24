@@ -32,7 +32,7 @@ KAITO: <Huh? Haha. I guess I did, huh?>
 Tsukasa: Aha, there it is! That looks like the show stage!
 Tsukasa: Alright, it's showtime! Everyone ready?!
 Miku (WxS): <Yeah☆>
-(Black cut)
+(Black transition)
 (Background change)
 
 [“The Little Kingdom” Stage]
@@ -49,7 +49,7 @@ Tsukasa: (From the way they project their voices to even the subtlest actions...
 Tsukasa: (I can't look away. I feel compelled to keep watching...)
 Tsukasa: So this is a world-class cast...
 KAITO: <...>
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Riley Dream Park)
 Emu: Wow...
@@ -60,7 +60,7 @@ Rui: Hehe. Captivating and compelling to say the least.
 Emu: Yeah! It was extra exciting and super spectacular!
 Emu: (Wait, no...! I'm here to learn, not play around!)
 Emu: I think I counted twenty cast members, and the theatre had a capacity of...
-(Black cut)
+(Black transition)
 Tsukasa: ...
 KAITO: <Tsukasa.>
 Tsukasa: Hm? Yes, KAITO...?
@@ -74,7 +74,7 @@ Tsukasa: ...!
 Tsukasa: Heh. Saw right through me, did you? Nicely done.
 Tsukasa: But you're right. After all, I'm a future star...
 Tsukasa: Be it little by little, I'll be making progress toward my ultimate goal!
-(Black cut)
+(Black transition)
 Tsukasa: That was a spectacular show! It made me want to grow and hone my craft even more as an actor!
 Rui: Ah, that show must've had quite an impact on you. Of course, it had a similar effect on me as well.
 Tsukasa: Wonderful! Let's keep that feeling in mind and move to the next area! We should be able to see another show there, yes?
@@ -89,13 +89,13 @@ Emu: Yeah! We can learn a lot from all these rides and attractions!
 Nene: Alright, which should we go on first? The map here says the “Jungle Music” and “Blue World” areas are the closest.
 Emu: Hmm... Which one...? Hm...?
 MEIKO: <Was that...?>
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000040/bg_s000040.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000040/bg_s000040.webp)
 MEIKO: <Do you hear it too?>
 Nene: Huh? Hear what?
 MEIKO: <It was faint, but I could've sworn that I just heard a child crying somewhere...>
 Emu: Yeah, I heard it too...! I think it was a little girl!
-(White cut)
+(White transition)
 (Background change)
 Tsukasa: What crying? I'm not hearing anything...!
 Rui: Me neither. However, Emu has better eyes and ears than most.
@@ -107,4 +107,4 @@ Tsukasa: Yes, as do I. Who would we be if we weren't to lend a helping hand to a
 Tsukasa: Alright, which direction was it?
 Emu: I think... That way!
 MEIKO: <Yes, that sounds right! Let's go!>
-(Black cut)
+(Black transition)

@@ -70,7 +70,7 @@ Gacha phrase: たくさんの人が聴いてくれて、嬉しいな
 奏: （——作ろう）
 奏: （わたし達の曲を、待ってくれてる人のために）
 奏: （ひとりでもたくさんの人を—— わたし達の曲で救えるように）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -83,7 +83,7 @@ Gacha phrase: たくさんの人が聴いてくれて、嬉しいな
 奏: もう少しだけ、ベースを抑えてみようかな。 それと……
 奏: あ……
 奏: ……もう朝か。 ちょっとお腹すいたし、何か食べようかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [宵崎家　キッチン]
@@ -91,15 +91,11 @@ Gacha phrase: たくさんの人が聴いてくれて、嬉しいな
 奏: カップラーメン……は、 朝からだと流石に怒られるよね
 奏: えっと、望月さんが作ってくれたお惣菜は……
 奏: あ、卵……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
-(Black cut)
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
+(Black transition)
 奏: ……砂糖が大さじ１で、しょうゆを少し入れて……
 奏: あっ、入れすぎちゃった
 奏: でも、少しだけなら大丈夫だよね……
@@ -128,15 +124,11 @@ Gacha phrase: たくさんの人が聴いてくれて、嬉しいな
 奏: でも、上手くできるかな
 まふゆ: わからないけど……
 まふゆ: 奏が作りたいのなら、やってみればいいと思う
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……そうだね
 奏: じゃあ、やってみるよ
@@ -147,4 +139,4 @@ Gacha phrase: たくさんの人が聴いてくれて、嬉しいな
 まふゆ: 角で割ろうとすると、殻が砕けやすくなるから 平らなところで割るといいよ
 奏: そうなんだ、ありがとう
 奏: じゃあ、もう１回——
-(Black cut)
+(Black transition)

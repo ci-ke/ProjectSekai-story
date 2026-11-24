@@ -69,13 +69,13 @@ KAITO (WxS): 『ふふ、僕達のセカイのメンバーもかなり個性的�
 ルカ (VBS): 『なーんだ、そういうことだったんだ！ じゃあ今度は、思いっきりかっこよく撮ってよ！』
 ルカ (VBS): 『リン、もうちょっとこっちに来れる？』
 リン (WxS): 『うん！　こうかなあ？』
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000633/bg_s000633.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000633/bg_s000633.webp)
 ルカ (VBS): 『イエーイ！』
 リン (WxS): 『いえ～い☆』
 こはね: ふふ、ふたりとも とってもいい笑顔ですよ
 ルカ (VBS): 『ありがと、こはねちゃん！』
-(White cut)
+(White transition)
 (Background change)
 ルカ (VBS): 『この写真、あとでちょうだい！』
 リン (WxS): 『リンもほしいな～♪』
@@ -84,7 +84,7 @@ KAITO (WxS): 『ふふ、僕達のセカイのメンバーもかなり個性的�
 KAITOの声 (KAITO-VBS): 『おーい！　そろそろDJ始めるよ～！』
 雫: あら、始まるみたいね。 みんな行きましょう
 ルカ・リン: 『はーい！』
-(Black cut)
+(Black transition)
 
 [数時間後]
 
@@ -112,7 +112,7 @@ KAITO (WxS): 『うん——みんながあの木のセカイで会った、僕�
 寧々: じゃあ、どうやって想いを伝えるか考える？
 寧々: こっちのセカイを時々見てるって言ってたから もしかしたら、今も見てくれてるのかもしれないけど……
 杏: ——あ、じゃあさ、こういうのは？
-(Black cut)
+(Black transition)
 (Background change)
 ルカ (VBS): （こはねちゃん達が、あのセカイに行った時は この木に関係してた）
 ルカ (VBS): （だから、この木に触れて歌えば、もしかしたら——）
@@ -122,15 +122,11 @@ KAITO (WxS): 『うん——みんながあの木のセカイで会った、僕�
 レン (MMJ): ————♪　————♪
 (Background change)
 KAITO (WxS): （聴こえているかな。 あのセカイの僕——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO (WxS): ♪————　♪————　♪————……！
 (Background change)
@@ -153,4 +149,4 @@ KAITO (WxS): ♪————　♪————　♪————……！
 ルカ (VBS): （今はまだ、ちゃんと会って話すことは 難しいかもしれないけど）
 ルカ (VBS): （いつか、その時が来たら——）
 ルカ (VBS): ——次は、一緒に歌おうよ！
-(White cut)
+(White transition)

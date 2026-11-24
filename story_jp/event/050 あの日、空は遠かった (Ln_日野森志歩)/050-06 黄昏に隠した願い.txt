@@ -2,7 +2,7 @@
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩)
 
-(White cut)
+(White transition)
 (Background change)
 
 [１週間後]
@@ -13,13 +13,13 @@
 軽音部部員Ｂ: あはは、ほんとにそこ苦手だよねー。 あ、そういえばこの前、すっごくいいお店見つけてさ——
 志歩: …………っ
 志歩: ……飲み物買ってきます
-(Black cut)
+(Black transition)
 (Background change)
 志歩: （……結局おしゃべりばっかりで、 全然まともな練習ができない）
 志歩: （これで本当に、文化祭までに仕上げられるの……？）
 志歩: あ……財布忘れてた。 取りに戻らないと
 志歩: ……ん？
-(Black cut)
+(Black transition)
 (Background change)
 軽音部部員C: 実際うまいから言えないけどさぁ……。 日野森さんって、結構面倒臭くない？
 軽音部部員A: ね。いつもピリピリしてるし。 なんか運動部の顧問みたい
@@ -53,7 +53,7 @@
 志歩: （日常生活は無理でも、 音楽でならもしかしたらって思ったのに——）
 志歩: ……わかりました
 志歩: 短いあいだですけど、 お世話になりました
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園中等部　屋上]
@@ -70,7 +70,7 @@
 未羽: …………
 ？？？: 穂波！
 志歩: あ……
-(Black cut)
+(Black transition)
 (Background change)
 穂波: 一歌ちゃん、今日は委員会だったの？
 一歌: うん。 穂波は部活？　今日はどうだった？
@@ -78,7 +78,7 @@
 一歌: 本当？　よかったね、穂波
 穂波: うん、そうなんだけど……
 一歌: 志歩のこと、だよね
-(Black cut)
+(Black transition)
 (Background change)
 志歩: …………
 志歩: （……やっぱり、駄目なんだろうな）
@@ -91,9 +91,9 @@
 未羽: 日野森さん、ひとりだと寂しそうだしね
 志歩: ……！　そんなこと……
 未羽: 今だって、寂しそうな顔してるよ。 ……あの子達、日野森さんの友達なんでしょう？
-(Black cut)
+(Black transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 志歩: …………
 未羽: ——私ね、最初は自分がなんでここに毎日来て ギター弾いてるのか、よくわかってなかったんだ
@@ -111,20 +111,16 @@
 志歩: え？
 未羽: 誰かとバンドをやることも、あの子達と一緒にいることも、 ……本当に諦められるの？
 志歩: それは……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: あ、志歩！ クラス分け見た？　１年からみんな同じクラスだよ！
-(White cut)
+(White transition)
 穂波: みんな一緒でよかった……！ よろしくね、志歩ちゃん！
-(White cut)
+(White transition)
 咲希: これから、みーんなで一緒に青春しようね！ しほちゃんっ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: …………それは……
 未羽: ……私はね。私達は、前に進むしかないって思うんだ。 いつか“そうじゃなくなる日”がくるかもしれないって信じて
@@ -151,20 +147,16 @@
 志歩: みんなと一緒に……か
 志歩: （……そんなの、無理に決まってる）
 志歩: （だけど——）
-(Black cut)
+(Black transition)
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 未羽: でも——だからって諦められる？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 志歩: …………。 諦められたら、いいのに
 志歩: （——ベースを弾こう）
 志歩: （私はまだどこにも進めないし……戻れない）
 志歩: （だからただ、今は——弾き続けていこう）
-(Black cut)
+(Black transition)

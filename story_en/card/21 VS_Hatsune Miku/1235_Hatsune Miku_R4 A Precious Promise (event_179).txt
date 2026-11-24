@@ -12,14 +12,14 @@ Len (Ln): Remember what Ichika said the other day? It isn't good to overwater a 
 Rin (Ln): Oh, that's right! I wouldn't want that to happen! So, no more water!
 Len (Ln): You're talking like you're never giving it water again. I was just trying to say maybe no more today.
 Rin (Ln): Y-Yeah, I know that!
-(Black cut)
+(Black transition)
 (Background change)
 Luka (MMJ): Grow, grow big and strong♪
 Miku (MMJ): Hehe. I notice you've been singing lately whenever you water the tree, Luka.
 Luka (MMJ): I know it's only a tree, but I still think it's important to tell it how I feel. Why don't you join me, Miku?
 Miku (MMJ): Can I? Sure, let's do it.
 Miku & Luka: Grow, grow big and strong♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [Between Worlds]
@@ -27,23 +27,19 @@ Miku & Luka: Grow, grow big and strong♪
 Miku: The tree in Ichika and her band's SEKAI, as well as the one in Minori and her group's SEKAI, seem to be doing well.
 Miku: And nothing like those strange black fragments has appeared for a while.
 Miku: I'm still having a hard time believing that such a thing happened in all of their SEKAI.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (Ln): ...! Ichika, stop!
 (Background change)
 Ichika: Whoa!
-(White cut)
+(White transition)
 (Background change)
 Miku (MMJ): ...! Minori, get away from there!
 Minori: Huh?
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku: Black fragments of feelings...
 Miku: I knew that the fragments could change colors or even crack and break...
@@ -53,18 +49,14 @@ Miku: Maybe it's because of how powerful everyone's feelings are...
 Miku: Come to think of it, those trees of feelings themselves are very strange.
 Miku: Even though each SEKAI was born out of starkly different feelings, similar-looking trees appeared in all of them.
 Miku: I'm sure that the SEKAI those fragments caused me to see are involved somehow...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku: The appreciation Ichika and the others feel for us in their SEKAI...
 Miku: Combined with our desire to see them continue to grow while staying true to their feelings, is what allowed them to come into existence.
 Miku: Back then, a SEKAI wasn't born because those fragments of feelings weren't able to fully develop into one.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku: Perhaps, when Ichika and the others touched those fragments, that's what caused the trees to grow in their SEKAI...
 Miku: (The SEKAI from those fragments did seem to be born from some very beautiful feelings.)
@@ -76,7 +68,7 @@ Miku: Because I'd like to help everyone if something does happen in the future.
 Miku: Let's see... I still haven't visited Kohane and her team, Tsukasa or Mafuyu's SEKAI.
 Miku: I should check to see how those trees are doing, too.
 Miku: Alright, let's go!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -88,21 +80,17 @@ Miku: Alright, let's go!
 ???: ————♪ ————♪...
 Miku: That voice... Is it idol me?
 Miku: And she's singing the song from that time...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (MMJ): ————♪ ————♪
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku: Yes, I knew it.
 Miku: But what made her want to sing it again?
 Miku: I think I'll go take a look...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI]
@@ -144,4 +132,4 @@ Miku: It would have made sense if she felt a bit discouraged, seeing someone not
 Miku: But she immediately began thinking of a way to turn things around.
 Miku: She really is a wonderful idol.
 Miku: Hehe. I'm so proud of “myself”.
-(Black cut)
+(Black transition)

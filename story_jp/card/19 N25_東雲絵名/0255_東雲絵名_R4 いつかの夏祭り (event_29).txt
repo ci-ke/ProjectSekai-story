@@ -79,7 +79,7 @@ Gacha phrase: 彰人、ああいうのやってみたら？
 絵名: ……そんなの知ってたし
 彰人: 嘘つけ！
 瑞希: あははっ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -186,4 +186,4 @@ Gacha phrase: 彰人、ああいうのやってみたら？
 瑞希: 『えっ、なんでボクまで！？ Ｋ、えななんが怖いよ～』
 (Background change)
 絵名: 『こら！　Kを巻きこまない！ だいたいあんたがね……』
-(Black cut)
+(Black transition)

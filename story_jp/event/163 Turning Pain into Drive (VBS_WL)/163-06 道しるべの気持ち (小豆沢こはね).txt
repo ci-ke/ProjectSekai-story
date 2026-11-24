@@ -3,7 +3,7 @@
 (Character: 星乃一歌, 望月穂波, 小豆沢こはね, 白石杏)
 
 (Video: link2_street_op3)
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂女子学園　音楽室]
@@ -24,12 +24,12 @@
 一歌: あはは……。 ありがとう
 こはね: （……あんな風に堂々と歌えるなんて、本当にすごいな）
 こはね: （あんな、風に…………）
-(White cut)
+(White transition)
 (Background change)
 こはね: ……っ、…………っ！
 こはね: （…………なんで？）
 こはね: （どうして……声が出せないの…………！）
-(Black cut)
+(Black transition)
 (Background change)
 こはね: ……………………っ
 こはね: ……う……ぐすっ……
@@ -46,19 +46,15 @@
 こはね: …………ありがとう、お父さん
 こはね: （私……恥ずかしいな。 ずっと、自分のことばっかり……）
 こはね: （杏ちゃんにも、お父さんにも…… いろんな人に心配かけちゃってる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （もっと…………）
 こはね: （もっと、私に……勇気があったら……）
-(White cut)
+(White transition)
 (Background change)
 音楽教師: 次は……小豆沢さん
 こはね: …………！　は、はいっ……！
@@ -74,15 +70,11 @@
 こはね: ♪————　♪————
 こはね: （……っ、声、震えてないかな……？）
 こはね: （やっぱりまだ…………みんなの前で歌うのは、怖い……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （あ……）
 こはね: （……怖い、けど……）
@@ -99,7 +91,7 @@
 こはね: ふぁ、えっ……星乃さん……！？
 こはね: そ、そんな、全然……。 私は、そんなじゃないから…………
 こはね: あ、でも、嫌とかじゃなくって…… ほめてくれて、ありがとう……！
-(Black cut)
+(Black transition)
 (Background change)
 こはね: （音楽の授業……ちょっとだけ、楽しかったな）
 こはね: （緊張したけど、なんとか最後まで歌えたし……）
@@ -115,15 +107,11 @@
 こはね: あ……えっと、その——
 こはね: （……音楽祭ってことは、ステージで歌うんだよね）
 こはね: （たくさんのお客さんの前で…………）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: その……私……
 ？？？: 『—————……ね！』
@@ -136,4 +124,4 @@
 こはね: （怖いけど……）
 こはね: （ちゃんと、前に進みたい）
 こはね: …………やって、みます
-(Black cut)
+(Black transition)

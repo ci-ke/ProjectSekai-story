@@ -27,7 +27,7 @@ An: Oh, it's starting! Let's go rejoin our class!
 Mizuki: See you later, guys! It's the first ever arts festival, so let's make it a fun one♪
 Nene: (Everyone's gonna see our film soon...)
 Nene: (It doesn't screen for a while, but my heart's already pounding... I'm not sure it's gonna make it through the whole thing...)
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -51,7 +51,7 @@ An: Oh, it's starting...!
 (Background change)
 Narrator: “Far in the future... A series of disasters has led humanity to the brink of extinction...”
 Girl (An): “Huff... Huff... I'm almost home...”
-(Black cut)
+(Black transition)
 Wandering Cook (Akito): “I'm just a humble cook...”
 (Background change)
 Mizuki: Hey, An and Li'l Bro are both doing a pretty good job!
@@ -62,7 +62,7 @@ Wandering Cook (Akito): “I don't care how hard it's going to be for me to do t
 (Background change)
 Tsukasa: Well now... Those are some very convincing stunts.
 Rui: They must've practiced quite a lot.
-(Black cut)
+(Black transition)
 (Background change)
 Girl (An): “No, Mr. Cook, where are you going...?!”
 Girl (An): “Please stay...! I want you to stay in this village forever and ever!”
@@ -79,7 +79,7 @@ Narrator: “And so, the Wandering Cook resumed his journey to help those in nee
 Narrator: “He would venture back into the wastes, but a figure kept watching over him. The girl as she awaited his return.”
 Girl (An): “Goodbye, Mr. Cook.”
 (Background change)
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -166,4 +166,4 @@ Nene: Y-You guys...
 Nene: (I'm a bit different from them, and they're still really prone to getting excited over the littlest things...)
 Nene: (But I'm so glad I agreed to become the director...)
 Nene: (I hope we get to have more fun and keep doing stuff like this together.)
-(White cut)
+(White transition)

@@ -14,19 +14,15 @@ Gacha phrase: ……なんだか、あたたかいな
 奏: ……望月さんが作ってくれる煮物、 さっぱりしてるから食べやすいな
 奏: あ、このたけのこ、すごくシャキシャキしてる
 まふゆ: ……そうだね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 奏: ……もうすぐ、まふゆのお父さんが来る時間だね
 まふゆ: ……そうだね……
 奏: ……まふゆ、大丈夫？
 まふゆ: ——うん。もう、決めたから
 まふゆ: お母さんと話せないか……相談してみる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: （約束の日、もう今週末か……）
 まふゆ: （もうすぐ、お母さんと——）
 まふゆ: （…………会うのは、怖い……）
@@ -70,7 +66,7 @@ Gacha phrase: ……なんだか、あたたかいな
 まふゆ: …………
 まふゆ: ……うん
 まふゆ: ありがとう、奏
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -79,27 +75,23 @@ Gacha phrase: ……なんだか、あたたかいな
 
 [まふゆの部屋]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: あら……まだ続けていたのね
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: じゃあ、大学の候補を探したほうがいいかしら
 まふゆの母: こんなに頑張っているんだもの。 まふゆだったらどんな学校でも行けそうでしょう？
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: ご、ごめんなさい。 もう２時だから、少し心配になっちゃって……！
 まふゆの母: ……お母さん、もう少し起きてるから。 夜食が必要になったら言ってちょうだいね
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: あら……。 前よりも点数が落ちているのね……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: （……心配、してくれてるんだよね）
@@ -110,19 +102,15 @@ Gacha phrase: ……なんだか、あたたかいな
 まふゆ: （誰も、ログインしてない……）
 まふゆ: （奏は、インしないで作業してるんだろうな。 瑞希も作業してるか、テレビ見てるのかも）
 まふゆ: （絵名は……この時間だと、まだ帰ってきてなさそうだな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: 不安な気持ちは……わたしにも、少しわかるから
 奏: さっきみたいにまふゆが聞きたいことを 聞いてくれてもいいし、 わたしも……その、話題とか頑張って考えるし
 奏: あ、ナイトコード繋げば絵名と瑞希も来てくれると思う。 それに、セカイに行けばミク達もいるから
 奏: だから、いつでも頼ってね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……チャットを送ったら、誰か来るかな）
 まふゆ: （でも、なんて送れば……）
@@ -130,17 +118,13 @@ Gacha phrase: ……なんだか、あたたかいな
 まふゆ: ……そうだ。宿題やらなきゃ……
 まふゆ: これ……瑞希がくれた、ブレスレット……
 まふゆ: そっか……かばんに入れてたんだった
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: ……ほら、ボク達は奏みたいに 直接そばにいることって出来ないじゃん？
 瑞希: だから……こういうのつけたら、 そばにいるって感じしないかな～ってさ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……つけられた、かな
 まふゆ: （手作りって言ってたけど、すごくしっかりしてる）
@@ -148,4 +132,4 @@ Gacha phrase: ……なんだか、あたたかいな
 まふゆ: ……つけたままだと、ノート書きづらいな
 まふゆ: 家にいる間は、ポケットに入れておこう
 まふゆ: ……作業の時間までに、宿題終わらせておかないと
-(Black cut)
+(Black transition)

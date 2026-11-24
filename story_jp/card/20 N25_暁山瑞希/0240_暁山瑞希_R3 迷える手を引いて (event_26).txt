@@ -20,19 +20,15 @@ Gacha phrase: カフェ目指して、レッツゴー！
 瑞希: （本当は、わかってる）
 瑞希: （大切なんだ。 絵名も、奏も、まふゆも……）
 瑞希: （だから、困ってるみんなを放っておけなくて……。 ボクにできることはないかなって、探しちゃって）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: …………
 瑞希: （今くらい、浸っててもいいよね）
-(Black cut)
+(Black transition)
 (Background change)
 
 [センター街]
@@ -42,10 +38,8 @@ Gacha phrase: カフェ目指して、レッツゴー！
 店員: いらっしゃいませー！
 瑞希: あ……
 瑞希: （打ち上げでよく行く、ファミレス……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: はい、奏。ウーロン茶！
 奏: ありがとう、瑞希
@@ -62,10 +56,8 @@ Gacha phrase: カフェ目指して、レッツゴー！
 絵名: えっ、そうなんだ！？
 奏: うん。あ……炭酸が抜けたあとなら飲めるよ
 瑞希: ええー！　それじゃただの甘い水だよー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （……そんなこともあったなぁ）
 瑞希: （なんか、懐かしい……）
@@ -77,7 +69,7 @@ Gacha phrase: カフェ目指して、レッツゴー！
 瑞希: （いつまで、奏達といられるかな）
 瑞希: （また……ひとりになるのかな……）
 瑞希: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
@@ -87,7 +79,7 @@ Gacha phrase: カフェ目指して、レッツゴー！
 瑞希: （奏、家に着いたかな。 また濡れてないといいけど……）
 瑞希: ……あはは
 瑞希: ……傘、いいや。 このまま帰ろう……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -138,18 +130,14 @@ Gacha phrase: カフェ目指して、レッツゴー！
 奏: 『小さい頃、風邪をひくと よくお母さんが作ってくれて……』
 (Background change)
 瑞希: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: ありがとう、瑞希
 奏: きっとひとりで来てたら、 今みたいな気持ちでいられなかった気がする
 奏: 瑞希がいてくれたから、 昔の思い出を、素直に受け止められたんだと思う
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （奏……）
 (Background change)
@@ -181,4 +169,4 @@ Gacha phrase: カフェ目指して、レッツゴー！
 絵名: 『ちょっとAmia聞いてる？ ほんとに、早く休みなさいよ？』
 瑞希: 『……うん、そうする。 Kも雪も、ありがとう！』
 (Background change)
-(Black cut)
+(Black transition)

@@ -56,7 +56,7 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 奏: わかった。みんなで来るよ
 ミク (N25): ……少し先だけど、 みんなとの誕生日パーティー、楽しんできてね
 奏: ……うん、ありがとう
-(Black cut)
+(Black transition)
 (Background change)
 
 [誕生日パーティー　当日]
@@ -84,7 +84,7 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 奏: ……あ、うん。そうだね
 ？？？: ……危なかった。人がたくさんいるし、 紛れられるって思ってたんだけど……
 ？？？: 多分バレてないから、大丈夫だよ。 急いで追いかけよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [とあるカフェ]
@@ -100,7 +100,7 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 咲希: ご予約のお客さま！ ようこそ、carino/carinaへ！
 奏: え……
 奏: ……天馬、さん？
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -133,7 +133,7 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 咲希: さあ、皆さん！ お席についてドリンクのご注文、お願いしまーす！ 間もなくスペシャルケーキも登場しますよー！
 えむ: はーい♪
 寧々: えっと、おじゃまします……
-(Black cut)
+(Black transition)
 (Background change)
 奏: ……わたしの誕生日のために、 こんなにたくさん集まってくれるなんて
 まふゆ: 本当は、ここにもうあと３人、 増えてたかもしれないんだよ
@@ -166,8 +166,8 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 咲希: ケーキすっごくおいしいので、 いっぱい食べていってくださいね！
 奏: うん、本当にありがとう
 奏: （……こんなに賑やかな誕生日が来るなんて、思わなかったな）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000410/bg_s000410.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000410/bg_s000410.webp)
 冬弥: 宵崎さん、誕生日おめでとうございます
 こはね・杏: 『おめでとうございます！』
 冬弥: 暁山がずいぶん張りきっていたので、 きっと素敵な誕生日をすごしていると思いますが、 俺達からもお祝いさせてください
@@ -194,7 +194,7 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 瑞希: 次か……
 瑞希: よーしっ！　またみんなで準備して パーッとやっちゃおうか！
 まふゆ: ……そうだね
-(White cut)
+(White transition)
 (Background change)
 奏: ……誕生日をお祝いしてくれてありがとう
 奏: 誕生日を迎えるごとに、 お祝いしてくれる人達もどんどん増えてる気がするな
@@ -202,4 +202,4 @@ Gacha phrase: こんなに賑やかな誕生日が来るなんて
 奏: ……こういう経験も、曲作りに活かしていけるかな
 奏: ——うん。 これからも、誰かを救える曲を作れるように
 奏: ……頑張ろう
-(White cut)
+(White transition)

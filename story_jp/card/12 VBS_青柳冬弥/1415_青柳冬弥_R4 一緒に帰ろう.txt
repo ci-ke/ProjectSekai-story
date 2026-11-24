@@ -15,7 +15,7 @@ Gacha phrase: 大丈夫、消えたりしないよ
 クラスメイト: そっか。大変だなあ……
 クラスメイト: あ、そういや、聞いたか？ センター街のゲームセンター、なくなるかもって噂
 冬弥: え……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [冬弥の部屋]
@@ -25,17 +25,13 @@ Gacha phrase: 大丈夫、消えたりしないよ
 冬弥: あとは、たしか補習用のプリントが数枚……
 冬弥: ……ん？　プリントに何か紛れて……これは——
 冬弥: センター街の、ゲームセンターのクーポン券か。 期限は、切れているな……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 クラスメイト: なんか、入ってるビルが老朽化でどうのこうのって聞いたぞ。 まあ、あくまで噂なんだけどさ
 クラスメイト: お前、結構あそこ行ってたんだろ？ 一応知らせておこうって思って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （あのゲームセンターが、なくなる……）
 冬弥: （……クラシックをやめようと決めた時、 家に帰りたくなくて、ずっとあそこにいたな）
@@ -75,7 +71,7 @@ Gacha phrase: 大丈夫、消えたりしないよ
 レン (VBS): だな！　これ見つけたのオレ達だし、冬弥を手伝うよ！
 冬弥: ありがとう……
 冬弥: ——では、いきます
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -96,7 +92,7 @@ Gacha phrase: 大丈夫、消えたりしないよ
 幼い冬弥 (冬弥): どうして、行っちゃうの？ 行かないでって、何度もお願いしてるのに
 冬弥: ……待ってくれ、本当によくわからないんだ。 まずは事情を——
 幼い冬弥 (冬弥): そうやってまた逃げて、消えちゃうつもりでしょ。 そんなのダメだよ！
-(White cut)
+(White transition)
 レン (VBS): うわっ！　冬弥が光った！？
 ルカ (VBS): まずっ……！　冬弥くん、大丈夫！？
 冬弥？ (冬弥): ……はい。よくわかりませんが、大丈夫だと思います
@@ -120,7 +116,7 @@ Gacha phrase: 大丈夫、消えたりしないよ
 幼い冬弥 (冬弥): （巻き込んじゃって、ごめんなさい）
 冬弥: ……いや、俺もしっかり否定しなかったからな
 冬弥: もしよければ、事情を話してくれないか？
-(Black cut)
+(Black transition)
 (Background change)
 冬弥: ……ああ、わかった。 話してくれてありがとう
 レン (VBS): 冬弥の中の冬弥、なんて？
@@ -143,7 +139,7 @@ Gacha phrase: 大丈夫、消えたりしないよ
 ルカ (VBS): はーい、ストップ！ みなまで言わなくていいって
 レン (VBS): 行こう、冬弥！ そのグレちゃってるっていう冬弥に会いに！
 冬弥: ああ。よろしく頼む
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -204,23 +200,19 @@ Gacha phrase: 大丈夫、消えたりしないよ
 もうひとりの冬弥 (冬弥): ……今の俺は、覚えているのか？ どうやって俺が『ここ』にたどり着いたのか
 冬弥: ……忘れるはずがない
 冬弥: （あの頃——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: ……ひとりになれる場所を探して、俺はさまよっていた
 冬弥: 静かな学校の図書室では、練習中だったピアノの曲が 頭の中で流れ出してしまって、止まらなかった
-(White cut)
+(White transition)
 (Background change)
 冬弥: 多くの人でにぎわうショッピングモールや駅の喧騒も、 頭の中の演奏を消すことができなくて……
-(White cut)
+(White transition)
 (Background change)
 冬弥: ようやく見つけたのが、センター街のゲームセンターだった
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: ……同級生達が当たり前のように持っているおもちゃやゲームも めったに買ってもらえなかったしな
 冬弥: ちょうどいい、遊んでみようと思ったんだ
@@ -232,35 +224,27 @@ Gacha phrase: 大丈夫、消えたりしないよ
 冬弥: 頭の中の音楽をかき消すことはできても、 『俺は何をしているんだろう？』というモヤは ずっと晴れないままだった
 冬弥: だから、ゲームセンターだけでなく 近くの通りにも行くようになって、歌い始めたんだ
 冬弥: そして——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: ……ゲームセンターは逃げ場所としてはとても助かったが、 残念ながら俺が欲しかったものは そこでは手に入らなかった
 冬弥: それに……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: オレは——わかってるからな
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 冬弥の父: 私は——
 冬弥の父: クラシックに人生を捧げてきたお前の日々を、 美しく、誇らしいものだと思っている
 冬弥の父: 失われることのない、お前だけの誇りだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: 俺は——
 冬弥: やっぱり、音楽が大好きなんだ
@@ -276,10 +260,10 @@ Gacha phrase: 大丈夫、消えたりしないよ
 冬弥: ……15連鎖といったところか。 悪いが、お前にこの連鎖を返す術はない
 もうひとりの冬弥 (冬弥): く……！　ダメだ、対処が間に合わない……
 冬弥: ……まずは１本目。俺の勝ちだな
-(White cut)
+(White transition)
 (Background change)
 冬弥: え……
-(White cut)
+(White transition)
 (Background change)
 冬弥: ……戻った？　まだ、勝負の最中だが……
 幼い冬弥 (冬弥): ……負けを認めたんだね
@@ -296,7 +280,7 @@ Gacha phrase: 大丈夫、消えたりしないよ
 冬弥: もちろん、お前も
 冬弥: だから……どうか消えないでくれ
 幼い冬弥 (冬弥): 大丈夫、消えたりしないよ
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -314,4 +298,4 @@ Gacha phrase: 大丈夫、消えたりしないよ
 ルカ (VBS): 大人だねえ～
 冬弥: （……今度時間ができたら、 久しぶりにみんなを誘って行ってみるか）
 冬弥: （今は、どんなゲームが流行っているんだろうな）
-(Black cut)
+(Black transition)

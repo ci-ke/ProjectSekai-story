@@ -24,7 +24,7 @@
 穂波: ふたりとも、作曲順調そうですか？ お茶と……おにぎりを作ったので、 よかったらどうかなと思って
 一歌: わ……ありがとう、穂波
 奏: せっかくだし、いただこうかな
-(Black cut)
+(Black transition)
 穂波: ——ということは、ふたりとも数時間、 黙々と作業してたんですね
 奏: ……ごめん、星乃さん。 すっかり自分の世界に入っちゃって
 一歌: 全然大丈夫です。 基本的なことを教えてもらえたおかげで、 どんどんイメージどおりに曲ができていったので
@@ -52,28 +52,20 @@
 奏: 望月さん……
 一歌: （……私も、そうだ）
 一歌: （私も……決めきれなかったせいで、 すごく後悔したことがある）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （咲希が学校に来てくれて、 また昔みたいに４人でいられる、って…… そうしたいなって思ってたのに）
 一歌: （どうしたらいいのかわからなくて……結局、何もできなくて）
 一歌: （でも、ちゃんと向き合って、 みんなと一緒にいたいって、そう決めてからは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: ……穂波の言ってること、私にもわかるよ
 穂波: 一歌ちゃん……
@@ -87,4 +79,4 @@
 一歌: でも、ふたつはお腹に入らないし……。 ……うーん……悩むな……
 穂波: あはは……。 一歌ちゃん、真面目に考えすぎじゃないかなあ？
 奏: これもある意味、２択だけど…… やっぱり、決めることって難しいよね
-(Black cut)
+(Black transition)

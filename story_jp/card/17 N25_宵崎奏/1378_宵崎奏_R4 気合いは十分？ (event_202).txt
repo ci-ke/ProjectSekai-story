@@ -10,22 +10,18 @@ Gacha phrase: お、おー
 [奏の部屋]
 
 奏: ……ふう
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ……なんだか、まだ信じられないな
 奏: （あのセカイに飛ばされたのもそうだけど……）
 奏: （みんなにも、セカイがあったなんて——）
 奏: ……ん、星乃さんからメッセージ……
 奏: ……え……？
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -49,21 +45,17 @@ Gacha phrase: お、おー
 奏: ほら、初めて会った時も ミクのCDがきっかけだったしね
 ミク (N25): わたしの、CD……
 ミク (N25): ……あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: CDが入ってた袋にルーズリーフが入ってる
-(White cut)
+(White transition)
 まふゆ: 書いてあるの、歌詞じゃない？
-(White cut)
+(White transition)
 ミク (N25): この人……どんな人かはわからないけど、 すごく真面目に音楽を作ってるんだね
 奏: うん。何度も消した跡が見える。 いろいろ悩みながら書いてる感じだね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): そっか、あの子が……
 奏: うん
@@ -90,7 +82,7 @@ Gacha phrase: お、おー
 ミク (N25): うん
 奏: じゃあ、このあとまふゆにも相談してみるよ
 奏: ありがとう、ミク
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -108,7 +100,7 @@ Gacha phrase: お、おー
 奏: あ……
 奏: （……わたしも、今回はいい経験になったし みんなにお礼は伝えたいな）
 奏: えっと……『わたしも大丈夫だよ』、と
-(Black cut)
+(Black transition)
 (Background change)
 
 [ファミリーレストラン]
@@ -133,7 +125,7 @@ Gacha phrase: お、おー
 えむ: はーい☆
 遥: ……ごはんも来たみたいですし、 熱々のうちに食べましょうか
 奏: そうだね
-(Black cut)
+(Black transition)
 遥: ……えっ。宵崎さん、普段はカップ麺を よく食べてるんですか？
 奏: うん、３分で食べられるし お腹にもたまるからね
 奏: でも最近は、望月さんが惣菜を作ってくれるから 頻度は減ってるよ
@@ -156,4 +148,4 @@ Gacha phrase: お、おー
 奏: ……うん
 奏: （……思いがけない出会いではあったけど……）
 奏: （曲作りもそうだし…… ニーゴ以外の誰かとこういう話ができて いい経験になったな）
-(Black cut)
+(Black transition)

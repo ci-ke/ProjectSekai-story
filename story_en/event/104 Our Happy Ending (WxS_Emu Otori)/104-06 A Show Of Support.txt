@@ -35,7 +35,7 @@ MEIKO: <Hm? Is something wrong?>
 Emu: Um... You know how my eyes are still a little red? You were worried when you first saw me, MEIKO, so I was wondering if I could do something about it before the others get here...
 MEIKO: <Then, I have the perfect solution!>
 MEIKO: <Come with me to SEKAI right now, Emu! I'll invite the others myself! And while I'm doing that...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -60,7 +60,7 @@ Emu: A-Anyway, it's okay! I can see just fine from in here!
 MEIKO: Yes, and the show's about to start! Come on everyone, let's go♪
 Emu: Yeah! Let's GO GO GO!!!
 Tsukasa: Huh...?! H-Hey, wait!!!
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO's Voice (MEIKO): Alright, here we are! Please take your seats, everyone♪ The show will begin shortly!
 KAITO: Hehe. Sounds like Emu and the others are all here...
@@ -69,7 +69,7 @@ Rin & Len: Ready!
 Luka: This is to put smiles on all their faces.
 Miku (WxS): Let's do our best, you guys!!!
 Rin & Co.: Yeah! Yes! Let's!
-(Black cut)
+(Black transition)
 MEIKO: Once upon a time, there was an eccentric traveling theater troupe♪
 Nene: Oh, MEIKO's narrating...
 MEIKO: The troupe consists of a show-offy troupe leader...
@@ -81,14 +81,14 @@ MEIKO: Then one day, as they were traveling through a forest, they encountered a
 (Background change)
 Emu: (Hehe. The troupe's all here...!)
 Emu: (I can't wait to see how they're gonna do this!)
-(Black cut)
+(Black transition)
 (Background change)
 Troupe Leader (Len): “I am a showman, and I could use your help to put on wonderful shows!”
 Troupe Leader (Len): “I promise that our spectacles will be a joy to see and a joy to perform in!”
 Alchemist (KAITO): “You wish to make shows with me? I see. I suppose I could help you out a little.”
 Clown (Miku-WxS): “Yaaay! Welcome to our troupe!”
 Songstress (Luka): “But will I...find the courage to sing?”
-(Black cut)
+(Black transition)
 Fairy (Rin): “Why were you making shows? Wasn't it because you wanted to make people happy?”
 MEIKO: The showman remembered the first time he saw a theatrical performance, and regretted the way he treated his troupe members.
 Troupe Leader (Len): “I've always wanted to become a star like the actors in the first show I saw. I wanted to be a star so that I too could make people as happy as I was then.”
@@ -135,14 +135,14 @@ Troupe Leader (Len): “Hm? Why the look of surprise?! I became a world-famous s
 Songstress (Luka): “I made my dream come true as well! My singing can reach people all over the world!”
 Alchemist (KAITO): “Hehe. We apologize for appearing so suddenly. Anyway, let's get down to business...”
 Alchemist (KAITO): “What kind of show shall we put on?”
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000223/bg_s000223.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000223/bg_s000223.webp)
 Clown (Miku-WxS): “Hehe...!”
 Clown (Miku-WxS): “There's lots and lots of shows that I wanna do with you guys!”
 Clown (Miku-WxS): “So, let's do them all...!”
 MEIKO: Our four heroes continued following their various paths in life, but reunited as a troupe that would gather once again at the clown's amusement park from time to time...
 MEIKO: And they made shows together forever after...
-(White cut)
+(White transition)
 (Background change)
 (Background change)
 Emu: (Right...)
@@ -162,4 +162,4 @@ Emu: Let's make our show just as sparkly and fun as the one we saw today!
 Tsukasa: ... Yes.
 Tsukasa: We have to make our show one that will make everyone smile.
 Emu: Yeah!
-(Black cut)
+(Black transition)

@@ -16,19 +16,15 @@
 寧々: うん
 えむ: みんな……
 えむ: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 類: しかし、ショーコンテストも次回で最後だ。 今まで以上に力を入れて練習していきたいね
 寧々: ま、それはたしかにね。 お客さんが喜んでくれるなら、それで十分だって思うけど——
 寧々: それはそれとして、せっかくここまできたんなら、 フェニックスステージを抜いて１位になるしかないでしょ
 司: そのとおり！　そしてこのショーコンテストで、 我らワンダーランズ×ショウタイムの名を世に知らしめるぞ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………
 えむ: ……えへへ、全然大変なことじゃないよ～！
@@ -47,7 +43,7 @@
 えむ: ……あ！　明日も練習あるし、もう帰らなくっちゃ！ それじゃあ、みんなばいばーい！
 司: あ、おい！　えむ！
 寧々: あ……
-(Black cut)
+(Black transition)
 (Background change)
 
 [えむの部屋]
@@ -55,17 +51,13 @@
 えむ: …………
 えむ: （みんなに、心配かけちゃった……）
 えむ: （みんなには、いっぱいショーして、 いっぱいキラキラ笑顔でいてほしいのに……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: あのな！ お前は“みんな”を笑顔にしたいんだろ！？
 司: それで、お前が泣きそうになって、どうすんだよ！ えむだって、お前のじいさんが言ってた“みんな”だろ！？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………だけど
 えむ: こんなにおっきなこと話したら……困らせちゃうよ……
@@ -100,4 +92,4 @@
 えむ: （やっぱり、だめだよ。 おじいちゃんの遊園地を守らなきゃ）
 えむ: （守らなきゃ、いけないのに）
 えむ: （これ以上、あたしに……何ができるのかなあ）
-(Black cut)
+(Black transition)

@@ -10,7 +10,7 @@
 雫: ただ、みんなと少し話したいことがあって
 ルカ (MMJ): 『……何かあったの？』
 雫: ……ええ、実は——
-(Black cut)
+(Black transition)
 遥: ……そっか。 おばあさん達は、斎藤さんの幸せのためなら 旅館を継がなくてもいいって思ってくれてるんだ
 愛莉: それなら、斎藤さんは自分の夢を追いかけても いいんじゃないかしら
 みのり: でも……斎藤さんはおばあさんの気持ちを知ってて、 旅館を継ぐって言ってるんだよね
@@ -22,15 +22,11 @@ MEIKO (MMJ): 『でも、どうして斎藤さんは それでも家を継ぐっ
 レン (MMJ): 『それもあると思うけど、 責任を感じてるっていうのもあるんじゃないかな』
 レン (MMJ): 『この旅館に来て、最初に部屋で話した時…… 斎藤さん、“一人娘だから”って言ってたでしょ？』
 雫: 期待と、責任……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: ……斎藤さんの気持ち、わかる気がするわ
 遥: え……？
@@ -53,7 +49,7 @@ KAITO (MMJ): 『……そうだったね』
 愛莉: ……むしろ、雫にしか届けられないんじゃないかしら。 だから、ちゃんと話したほうがいいと思うわ
 雫: 私にしか……
 雫: ——そうね。 斎藤さんと、話をしてみる
-(Black cut)
+(Black transition)
 (Background change)
 
 [ロビー]
@@ -61,15 +57,11 @@ KAITO (MMJ): 『……そうだったね』
 斎藤: もう、こんな時間か……
 斎藤: （そういえば、ビールの在庫って大丈夫なんだっけ。 休憩おわったら管理表確認しておかなくちゃ）
 斎藤: （あとは、朝食の仕込みもやらないと。 ……明日の朝食は鮭を出す予定だったよね。 きっと、みのりちゃんが喜んで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 斎藤: （やっぱり、油断すると余計なことばっかり考えちゃう）
 斎藤: ……昨日は吹っ切れたと思ったのに
@@ -77,15 +69,11 @@ KAITO (MMJ): 『……そうだったね』
 斎藤: （ちょっと前まではイベントの設営のバイトなんかも、 半分遊びみたいなものだったのにな）
 斎藤: （雫ちゃんと握手した時に衝撃を受けて、 そういう仕事をするのもいいなって思って……）
 斎藤: （いずれ旅館を継がなくちゃならないことはわかってたから、 バイトだけでもやってみるかって感じで始めて。でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 斎藤: （ステージで輝いてるみんなや、お客さんの反応を見て…… 『もっとやってみたい』って……『全力でやりたい』って思った）
 斎藤: （それでマネージャーの勉強とか始めて…… 気づいたら本気になってた。家のことも忘れて——）
@@ -110,4 +98,4 @@ KAITO (MMJ): 『……そうだったね』
 斎藤: え……
 雫: 今、少しお話ししてもいいかしら？
 斎藤: 雫ちゃん……？
-(Black cut)
+(Black transition)

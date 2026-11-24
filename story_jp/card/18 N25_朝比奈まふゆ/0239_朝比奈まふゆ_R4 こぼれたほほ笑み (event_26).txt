@@ -16,7 +16,7 @@ Gacha phrase: よかった、と思う
 まふゆ: （何か、感じているような気がするけど……）
 まふゆ: （やっぱり、わからない……）
 まふゆ: （奏……？）
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
@@ -29,7 +29,7 @@ Gacha phrase: よかった、と思う
 まふゆ: 『うん。 じゃあ、えななん。私も——』
 (Background change)
 絵名: 『待って、雪。 ちょっと話したいことがあるんだけど……』
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -39,25 +39,21 @@ Gacha phrase: よかった、と思う
 １年生: 朝比奈先輩、おはようございます！
 まふゆ: おはよう
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『Kに、もっと何か言ってあげることないわけ？』
 絵名: 『どれだけいろんなことを考えて、 頑張って曲を作ってるか……。 想像するくらいできるでしょ』
-(White cut)
+(White transition)
 絵名: 『ちょっとは感じられるようになったんだから、 もっと自分で考えて言葉にしたら？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………
 まふゆ: （絵名と話すのは、別に苦しくない）
 まふゆ: （じゃあ……家族や学校のみんなは……）
 まふゆ: …………っ
-(Black cut)
+(Black transition)
 えむ: るんる、るんるる～ん♪ 今日も学校楽しい……はっ！
 えむ: あ、ああ、朝比奈センパイ！？
 えむ: （って……あれ？ なんだか元気ない……）
@@ -76,20 +72,16 @@ Gacha phrase: よかった、と思う
 まふゆ: あ……行っちゃった
 まふゆ: ……チョコなのにキャラメル味、か
 まふゆ: （食べたところで、私には……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （チョコ……とりあえず、今はしまっておこう）
 クラスメイトA: あれ？　まふゆじゃん、おはよー！
 まふゆ: うん、おはよう！
-(Black cut)
+(Black transition)
 (Background change)
 
 [放課後]
@@ -110,7 +102,7 @@ Gacha phrase: よかった、と思う
 まふゆ: 私には……やっぱり、わからない
 クラスメイトA: あ、もうすぐ信号変わるよ。渡っちゃおうよ
 まふゆ: うん、そうだね
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -131,7 +123,7 @@ Gacha phrase: よかった、と思う
 クラスメイトB: うん！　はぁ、毎日こんなに美味しいご飯が 食べられるなんて、ほんと羨ましいよ～
 (Background change)
 まふゆ: （……味、ちゃんとあるんだ）
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -184,18 +176,14 @@ Gacha phrase: よかった、と思う
 ミク (N25): 美味しい？
 まふゆ: ……ううん、わからない
 まふゆ: わからない、けど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……でも、他の物を食べてる時より、 嫌な感じがしない気がする
 ミク (N25): …………
 ミク (N25): そっか。……よかったね、まふゆ
 まふゆ: ……うん。そうだね
-(Black cut)
+(Black transition)

@@ -41,7 +41,7 @@ Shizuku: I'm sorry, Minori. I really wanted to help you practice, but I have to 
 Minori: Please don't worry about me and enjoy your work, Hinomori!
 Airi: Do your best, Shizuku.
 Shizuku: Yes. I'll see you both tomorrow.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -57,7 +57,7 @@ Shizuku: Everyone is complimenting me...
 Shizuku: (But they're only talking about my appearance...)
 Shizuku: (I understand that looks are important as an idol, but...)
 Shizuku: The idol I really want to be is...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Miyamasuzaka Girls Academy - Rooftop)
 Minori: One, two, three, four...
@@ -70,7 +70,7 @@ Minori: Thank you! I'm really happy to have you join me!
 Shizuku: ...
 Shizuku: (Still, I don't know why but... When I look at her, I can't help but want to cheer her on.)
 Shizuku: Hehe. Let's practice hard together, Minori.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -89,7 +89,7 @@ Minori: Okay! Then our next... Wait, what? It's already so late?!
 Shizuku: Time really flies when you're enjoying yourself...
 Haruka: Let's stop here for today and get ready to go back.
 Minori: Okay!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -120,7 +120,7 @@ Haruka: Minori...
 Minori: What about Shizuku? What's your ideal image of an idol? The one you want to become?
 Shizuku: Me?
 Shizuku: The ideal idol I want to become is...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Miyamasuzaka Girls Academy)
 Shizuku: What should we do for today's practice?
@@ -145,15 +145,11 @@ Shizuku: But I think I must have started feeling that way because I had lost sig
 Mafuyu: Oh... You have a lot going on in your life too, Hinomori.
 Shizuku: But I'm doing fine now.
 Shizuku: The ideal idol I want to become...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: I won't lose sight of her any longer.
-(Black cut)
+(Black transition)

@@ -33,7 +33,7 @@ ReLightのメンバー: 単独ステージお疲れさまでした！ すっご�
 愛莉: どうしたの？
 あかり: このコラボステージ、 MORE MORE JUMP！の皆さんに恥じないように、 最高のものにしたいと思います
 愛莉: え……
-(Black cut)
+(Black transition)
 (Background change)
 千晴: 会場のみんな！ そろそろ腕が筋肉痛で壊れそうなんじゃない！？
 結雨: でも、どうせ壊れるなら最後まで楽しんじゃおうよ！
@@ -75,13 +75,13 @@ ReLight: 『♪——————！！！』
 あかり: （あたし今、最高にアイドルしてる！）
 あかり: （きっと、こんなステージができるのは——）
 愛莉の声 (愛莉): みんな、ラストスパートよ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000336/bg_s000336.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000336/bg_s000336.webp)
 愛莉: すっごく楽しいわね！ この時間が終わってほしくないって思うくらい
 愛莉: ReLightとMORE MORE JUMP！と、今会場にいるみんな。 この全員がそろうのは、この人生で一度きり——
 愛莉: 今、この瞬間しかないはずだわ。 だから、最後まで全力を出し切って……
 愛莉: わたし達みんなが心をつなげ合っているこの瞬間を、 特別な思い出にしましょ！
-(White cut)
+(White transition)
 (Background change)
 あかり: （何、その顔……反則じゃない？）
 あかり: （さっきまで、あんなかっこよかったのに、 今はいつもの桃井さん——愛莉ちゃんで）
@@ -102,4 +102,4 @@ ReLight: 『♪—————～～～！！！』
 雫: （でも、それはできないから…… せめて、愛莉ちゃんの言うとおり）
 雫: （全力を出し切らなくちゃ！ 最後の最後まで、今日のことを忘れられなくなるように——）
 愛莉・みのり・遥・雫: （もっと、もっと——！）
-(White cut)
+(White transition)

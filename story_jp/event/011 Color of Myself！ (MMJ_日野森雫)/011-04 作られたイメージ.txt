@@ -45,16 +45,12 @@
 雫: （編集をすれば、私のイメージは守られるかもしれない）
 雫: （けど代わりに、MORE MORE JUMP！として ファンに声を届ける方法が少なくなってしまう）
 雫: （もちろん、生じゃない動画配信だけでも、 みんなに声を届けることはできるかもしれないけど……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 コメント: 『ダンス練習見たーい！』 『みんなのダンス楽しみ！』 『がんばれー！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （私達の今の姿を見てもらうためには—— みんなに希望を届けるためには、 この方法が合ってるって私も思う）
 雫: （だから……ちゃんと私が決めなくちゃ）
@@ -64,4 +60,4 @@
 雫: 必ず……答えを出すから
 遥: ……うん、わかった。待ってるよ
 みのり: 雫ちゃん……
-(Black cut)
+(Black transition)

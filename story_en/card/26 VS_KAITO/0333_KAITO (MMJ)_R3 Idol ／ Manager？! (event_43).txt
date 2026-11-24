@@ -13,7 +13,7 @@ Gacha phrase: Nice turn! I couldn't have asked for better!
 Miku & Rin: ♪—— ♪————
 Luka & MEIKO: ♪—— ♪————
 Everyone: ——————! ————!
-(Black cut)
+(Black transition)
 Len: Nice work, everyone! You guys synced perfectly during your song and dance!
 Miku (MMJ): Thank you, Len!
 MEIKO: You know, this show might've been the most well-made one that we've ever done.
@@ -62,7 +62,7 @@ KAITO: Hehe. Thank you, everyone.
 KAITO: I actually plan on doing my own show once I'm done inspecting all the equipment.
 KAITO: So I hope you'll be there to see it.
 Rin: Yay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -74,7 +74,7 @@ Rin: Yay!
 KAITO: Let's see. It should be around here somewhere... Aha, there you are, laser lights!
 KAITO: It can shoot red, green and blue lasers. Alright, this should be able to give everything a dance-party feel to it like MEIKO said.
 KAITO: Now to carry it over to the show stage.
-(Black cut)
+(Black transition)
 ???: ————
 KAITO: Hm...? I thought I heard someone's voice coming from the practice area just now.
 ???: Move your arms faster and raise them higher! Good, just like that!
@@ -82,7 +82,7 @@ KAITO: Hm...? I thought I heard someone's voice coming from the practice area ju
 KAITO: That voice...
 KAITO: I knew it. It's Haruka and Minori.
 KAITO: Hehe. They seem to be hard at work too. Alright...
-(Black cut)
+(Black transition)
 Minori: Whew... I-I'm so tired...
 Haruka: You did great, Minori. That last part went so well too. Try not to forget the way you raised your arms and timed everything just now.
 Minori: I won't! Thank you for helping me like this, Haruka.
@@ -98,7 +98,7 @@ KAITO: I'm hoping that I got them just right. I wouldn't want you to come down w
 Minori: Thank you so much, KAITO!
 Haruka: I think I'll take one as well.
 Minori: Ahh! That hits the spot!
-(Black cut)
+(Black transition)
 Haruka: Thank you very much, KAITO.
 KAITO: You're welcome. If you'll excuse me, I have other business to attend to.
 Minori: Business?
@@ -106,17 +106,13 @@ KAITO: Yes, I was just in the middle of carrying some lights over to the stage M
 Haruka: I see. If that's the case, we're sorry for keeping you like this.
 KAITO: Oh, don't mind me. I just wanted to give you two a little boost since you were both so hard at work.
 Haruka: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: Did you see the way Rin and Len turned just now?! Absolute perfection!
 KAITO: Thank goodness too... Those two have been working so hard on how they turn...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: The first time I met you in SEKAI, KAITO, I could tell just how much you wanted to help those around you in a way that made them shine.
 Minori: Helping everyone shine...?
@@ -146,4 +142,4 @@ Minori: But I'm glad we got a chance to talk to you, KAITO! Thank you so much!
 KAITO: Hehe. I had fun too. Also, don't stay out too late, you two.
 Minori & Haruka: We won't!
 KAITO: Alright, I'll see you later.
-(Black cut)
+(Black transition)

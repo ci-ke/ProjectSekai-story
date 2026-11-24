@@ -16,7 +16,7 @@ Rin: Is it something bad...? Wanna try talking about it?
 Len: Yeah, you helped us so much already. If there's something bothering you, we want to help.
 Airi: Thanks, you guys...
 Airi: Well, if you don't mind, we can talk about it a little.
-(Black cut)
+(Black transition)
 Airi: Which is why I haven't been feeling all that great lately...
 Rin: I had no idea...
 Airi: I know that dwelling on the past like this is pointless, but my mind just always seems to wander back to that time.
@@ -29,16 +29,12 @@ Airi: Eventually, that turned into “inspiring hope” in others.
 Airi: But while I was on those variety shows, it felt like I completely lost touch with that...
 Rin: How? Variety idols are still idols, right?
 Airi: Yeah, I know. I know, but...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Fan A: Every time I see you perform, Yu Yu, I'm filled with so much hope! It's like I know tomorrow's going to be a wonderful day! Thank you for everything!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: (The odds of someone telling me that back then were...)
 Rin: Airi...
@@ -63,7 +59,7 @@ Len: Hehe. You're welcome, Rin...
 Airi: Yeah, I need to thank you too. I feel much better now, Len.
 Airi: I'm gonna give our next event everything I have!
 Len: Great! I know you will, Airi!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -83,7 +79,7 @@ Airi: Idols can't inspire hope in anyone if nobody's there to see them!
 Haruka: Understood. Thank you...
 Haruka: Then let's begin our stream. Minori, can you get us started?
 Minori: Yup! Pressing start... Now.
-(Black cut)
+(Black transition)
 Haruka: Thank you for watching our stream! We actually have a bit of a special announcement to make.
 Comment: <Hm? You do?> <Special announcement!>
 Haruka: Can you guess what it is? Hehe. Would you three like to give the answer?
@@ -106,7 +102,7 @@ Airi: (Is this why you asked me that question just now...?)
 Airi: Alright, if they want to see me sing that much, I can't really say no, huh?
 Airi: So make sure to check it out, you guys! I'm gonna give my solo show everything I have!
 Haruka: Our next stream is going to be very special, so we hope that you'll be there to join us! Stay tuned, everyone!
-(Black cut)
+(Black transition)
 Airi: Uh, Haruka... I'm doing a whole show on my own now?
 Haruka: Yes, and the reason is simple. Like I said, you received the most number of messages from the students.
 Airi: But that doesn't mean they all like...
@@ -130,4 +126,4 @@ Airi: We're gonna give it everything we got starting today all the way through t
 Minori & Haruka: Yeah!
 Shizuku: Oh, Airi, I'd like to make a small request too...
 Shizuku: Since you'll be performing on your own, what if you sang that one song...?
-(Black cut)
+(Black transition)

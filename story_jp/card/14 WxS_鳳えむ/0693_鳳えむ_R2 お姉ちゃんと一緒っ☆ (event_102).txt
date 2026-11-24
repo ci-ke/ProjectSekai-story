@@ -61,7 +61,7 @@ Skill name: 明日の“楽しい”のために
 ひなた: そうだね！　もしお仕事の邪魔じゃなさそうだったら、 お友達、紹介してほしいな
 えむ: うんっ☆
 えむ: えへへ、楽しみだなあ
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -73,7 +73,7 @@ Skill name: 明日の“楽しい”のために
 えむ: 次は他のメニューも食べに来るね！
 えむ: 瑞希ちゃんもまたね！ おいしいパフェありがと～！
 瑞希: こちらこそ、いっぱい食べてくれてありがとう！ またね！
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -92,14 +92,14 @@ Skill name: 明日の“楽しい”のために
 ひなた: そう？　じゃあ、どうしようかなあ……
 ひなた: そうだ！　久しぶりにあそこに行っちゃおうか！
 えむ: あそこ？
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
 
 えむ: わーいっ！　速いはやーいっ☆
 ひなた: えむ、来るよ！　ほら、一回転！
-(Black cut)
+(Black transition)
 ひなた: ふふ。久しぶりに乗ったけど、楽しいな！
 えむ: うんっ♪　ねえねえ、次は——
 子供: おじいちゃん、おばあちゃん、次はアレ！ おさかなコースター乗りたい！
@@ -128,7 +128,7 @@ Skill name: 明日の“楽しい”のために
 えむ: ……ほんと？
 ひなた: うん、ほんとほんと！ ほら、ほっぺすりすりすりすりー！
 えむ: あははっ！　お姉ちゃん、くすぐったいよ～！
-(Black cut)
+(Black transition)
 (Background change)
 ひなた: ——だいぶ日が暮れてきたね
 ひなた: はあ、楽しかった今日も終わりかあ。 なんだか寂しいな
@@ -136,17 +136,13 @@ Skill name: 明日の“楽しい”のために
 ひなた: え……？
 えむ: えへへ、教えてくれた人がいるんだ♪
 えむ: 夕方は、明日の“楽しい”のための、 準備に入る時間なんだよーって！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ひなた: ……いいね、それ。 とっても素敵な考えかたで
 ひなた: じゃあ、私達も明日のために おうちに帰ってご飯を食べて、温かいお風呂に入ろっか！
 えむ: はーいっ♪
-(Black cut)
+(Black transition)

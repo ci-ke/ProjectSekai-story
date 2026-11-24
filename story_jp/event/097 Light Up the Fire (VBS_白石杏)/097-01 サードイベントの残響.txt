@@ -6,19 +6,15 @@
 
 [WEEKEND GARAGE]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 杏の父: （これが、あいつらの実力か）
 杏の父: （もしかしたらとは思ってたが……）
 杏の父: もしあの夜を超える連中がいるとしたら、それは——
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏の父: ……あの夜から、３年か
 杏の父: （オレも——やるべきことをやらねえとな）
@@ -28,7 +24,7 @@
 杏の父: 子供の成長ってのは早いもんだな……凪
 常連客: こんちわー謙さん！ って、真面目な顔でどうしたんすか？
 杏の父: ——ああ、少し考えごとをしててな。 注文は、いつもどおりでいいか？
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -42,21 +38,21 @@
 杏: やるじゃんリンちゃん！　このマスタードソース手作りだよね？ ピリッとしてて、ハムにすっごくあってるよ！
 杏: これならメイコさんがお店あけてても、心配いらないかも！
 彰人: 絶対うまい！って言い切ってただけあるな。 見直したぞ
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000200/bg_s000200.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000200/bg_s000200.webp)
 リン: ふっふ～ん、あったりまえでしょ～！ このくらい朝ごはん前なんだから！
 冬弥: メイコさんの代わりに店に立つと聞いた時は 心配していたが、杞憂だったようだな
 冬弥: レンにいれてもらったコーヒーも、とても美味しい
 こはね: うん！ パンケーキもふわふわで、ほっぺが落ちちゃいそうだよ
 レン: えっへん。ま、このくらいはね～！ いつでも頼んでよ！
-(White cut)
+(White transition)
 (Background change)
 リン: ——で、これ食べたらみんなで見るんだよね？ サードイベントの映像！！
 杏: あ……うん！
 冬弥: 本当は、全員いる時にと思ったが……
 彰人: メイコさん達はしばらく出かけてるみたいだしな。 料理の礼ってことで、先に見せてやるよ
 リン・レン: 『やったー！』
-(Black cut)
+(Black transition)
 リン: わあ……っ！ すごいね、こはねちゃんのソロ！
 こはね: えへへ……ありがとう！
 こはね: すごく緊張したけど……でも、 みんなが行ってこいって、背中を押してくれたから頑張れたんだ
@@ -67,16 +63,12 @@
 彰人: ま、でもそれぐらい良い出来だったってことだ
 こはね: あ、ありがとう……！
 杏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ♪————！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: （本当に、すごい歌……）
 杏: （こはねは、どんどん高い場所に行こうとしてる。 ……ううん、近づいてる）
@@ -84,7 +76,7 @@
 杏: （私は——？）
 杏: （そうじゃない。 そんな風に考えてちゃ、行けない）
 杏: （私も……行ける。絶対に。 一緒に、行くんだ……！）
-(Black cut)
+(Black transition)
 リン: く～～～！！ ほんっと、最高のイベントだったね！！
 リン: トリで４人が歌ってる時なんて、 勢いぶああ～～って……も～最高だった！
 レン: みんなのパフォーマンス、 今までで一番イキイキしてたぞ！
@@ -119,7 +111,7 @@
 リン: んー、でも渡すの忘れちゃったら嫌だし…… 『ここにあるから今度取りに来てね』って声かけてこよっかな
 レン: わかった、それじゃ頼んだぞ！ あ、他の人に見つからないようにな
 リン: はーい！ それじゃ、いってきまーす！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ビビッドストリート]
@@ -156,4 +148,4 @@
 大河: ——お前らは今のままじゃ、 一生かかってもRAD WEEKENDを超えられねえ
 大河: 絶対にだ
 杏: ……おじさん……？
-(Black cut)
+(Black transition)

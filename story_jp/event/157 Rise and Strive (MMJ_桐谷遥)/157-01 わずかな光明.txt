@@ -41,7 +41,7 @@ MEIKO (MMJ): こうやってまたお仕事が来始めたのも、 雫ちゃん
 遥: それじゃあ……次の仕事の打ち合わせをしようか
 愛莉: ええ！　企画書を見た感じ、 ちょっとしたフリートークの時間もあるみたいだし、 少しでも爪痕を残せるように、がんばりましょう！
 みのり・遥・雫: 『おー！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -56,37 +56,29 @@ MEIKO (MMJ): こうやってまたお仕事が来始めたのも、 雫ちゃん
 斎藤: いえ……業界のいろんな人に話を聞いてみたんですが、 みんな、心当たりはないみたいで
 遥: そうですか……
 遥: （私も打ち合わせの合間に、お世話になったスタッフさんに 聞いてみたけど——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雑誌編集者: え……MORE MORE JUMP！についての噂？ う、うーん。心当たりはないかなあ
 ステージスタッフ: そうだね……制作側にも、 いろいろ都合があると思うし……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……みんな、何も知らないみたいだった）
 遥: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 雑誌編集者: じゃ、じゃあ、ごめん。 俺はこれから打ち合わせあるから！
 ステージスタッフ: あ——僕もそろそろ次の現場の準備しなきゃ！ ごめんね遥ちゃん、またね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （なんだろう、何か様子がおかしかった気がする……）
 斎藤: 今日はこのあと、皆さんと合流して配信の予定でしたよね。 私は買い出しをしてから向かうので、 先に戻っててください
 遥: あ……わかりました。 それじゃあ、またあとで
 斎藤: はい！　お疲れさまです！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -123,16 +115,12 @@ MEIKO (MMJ): こうやってまたお仕事が来始めたのも、 雫ちゃん
 遥: ……そうだね。 何か原因があるのなら、ちゃんと突き止めて解決しないと
 遥: （ただ……話を聞けそうな人のところは もう、ほとんどまわってる）
 遥: （他に、心当たりがあるとしたら……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （……頼るべきじゃないのは、わかってる）
 遥: （それでも、今は——なりふり構ってる場合じゃない）
-(Black cut)
+(Black transition)

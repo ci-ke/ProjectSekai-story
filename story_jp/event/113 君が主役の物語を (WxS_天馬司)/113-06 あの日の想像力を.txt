@@ -58,7 +58,7 @@
 歴: ……話が脱線しちゃいましたね。 えっと、少しはお役に立てましたか……？
 司: あ、はい！ とても参考になりました
 司: ありがとうございました、獏野さん
-(Black cut)
+(Black transition)
 (Background change)
 
 [司の部屋]
@@ -67,15 +67,11 @@
 司: （獏野さんのように役に近づくのであれば…… やはり想像力が足りない）
 司: （オレは、役者でありながら、 誰かの人生を想像することはほとんどなかった）
 司: （それよりも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: 目の前の人間を笑顔にすることばかり考えていた
 司: ……それはオレにとっての原点だ。 何ものにも代えられん
@@ -86,7 +82,7 @@
 司: （しかし——やはりオレの貧しい想像力では、 中山という人間について考えられることはあまり多くない。 ……そんな気がする）
 司: ……まったく、やってみる前からこの調子ではいかんな
 司: そうだ、こういう時は——
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -98,8 +94,8 @@
 ？？？: あ！　司くーん！ よく来たわね～！
 司: この声は……どわーっ！！！！！
 司: メ、メイコ！　なんだそれは！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000253/bg_s000253.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000253/bg_s000253.webp)
 MEIKO (WxS): 何って、オート三輪よ？ 昭和初期にはいっぱい走ってたって、司くんも知ってるでしょう？
 司: それはそうだが、そういうことではなく……！
 うさぎのぬいぐるみ: ツカサクン！ コンバンハ！
@@ -111,7 +107,7 @@ MEIKO (WxS): 私達もみんなと同じ時代を舞台にしたショーをや�
 MEIKO (WxS): それで、その辺りに散らばってる道具を使って、 似たものを作ってみたのよ！
 司: つ、作っただと……！？　これを……！？
 司: ……まあ、空飛ぶ汽車まであるセカイだから、 それぐらいのことはできるのかもしれんな
-(White cut)
+(White transition)
 (Background change)
 司: だがまあ、楽しそうで何よりだ。 そういう姿を見ると、オレも元気が出るというものだ
 MEIKO (WxS): え？　なになに？ 司くん、元気じゃなかったの？
@@ -122,8 +118,8 @@ MEIKO (WxS): え？　なになに？ 司くん、元気じゃなかったの？
 うさぎのぬいぐるみ: ダッテ、ツカサクン、 チョットションボリシテルカラ……
 うさぎのぬいぐるみ: ツカサクン、昔、『うさぎの大冒険』ッテイウ、 オリジナルのショーを考エテクレタコト、 覚エテル？
 司: うさぎの……。 ああ、そういえばそんなこともあったな
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000252/bg_s000252.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000252/bg_s000252.webp)
 MEIKO (WxS): 『うさぎの大冒険』？
 うさぎのぬいぐるみ: ウン！
 うさぎのぬいぐるみ: ワタシが主役のオ話をイッパイ作ッテクレタノ！ アノ時、トッテモ嬉シカッタヨ！
@@ -132,7 +128,7 @@ MEIKO (WxS): へえ！　あなたが主役だったのね！ それってどん
 司: 仲間と共に荒海を超え、怪物の住む島に辿り着き、 そうして財宝を——
 司: 財宝を……
 MEIKO (WxS): どうしたの？　司くん
-(White cut)
+(White transition)
 (Background change)
 司: …………そうだ
 司: （オレはかつて、このうさぎのぬいぐるみを主人公にして、 即興で話を作っていった）
@@ -151,4 +147,4 @@ MEIKO (WxS): え？
 司: それならば、獏野さんのように細部まで考えられる気がする……！ よし、早速実行だ！！
 MEIKO (WxS): えーっと、なんだかよくわからないけど……
 うさぎのぬいぐるみ: オテガラ？
-(Black cut)
+(Black transition)

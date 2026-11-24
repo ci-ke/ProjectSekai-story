@@ -60,7 +60,7 @@
 寧々: ……じゃあ、ちょうどみんな集まったことだし夕食にしない？
 えむ: あ、そうだ！ そろそろできあがってるはずだよね！
 司: 腹も減ったし、ありがたくいただこう！
-(Black cut)
+(Black transition)
 えむ: はいっ、それでは皆さんご一緒に！
 みんな: 『いただきます！』
 寧々: ど、どう？ 初めて作ったものだからちょっと不安なんだけど……
@@ -117,26 +117,18 @@
 えむ: じゃあ、最後は寧々ちゃんだね！ 寧々ちゃんの夢は……なんでしょーか！？
 寧々: わたしは——
 寧々: （……たった一度の失敗におびえて、 大好きな歌がちゃんと歌えなくなって）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （でも、みんなとショーをやることになって、 ステージで歌うことの楽しさを思い出して）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （ショーをすることが、本当に大好きになった。 わたしが笑顔をもらえたショーを、わたしもみんなに…… 世界中の人達に届けてあげられたらいいなって思った）
 寧々: （だから……）
@@ -159,10 +151,10 @@
 寧々: （そう……だよね。 わたし達が、わたし達の夢を叶えようとしたら、その時は——）
 類: ……そうだね
 類: 僕達が夢を叶える時は、 きっとそれぞれが別のステージに立っているのだろうね
-(White cut)
+(White transition)
 (Background change)
 類: いつもいるあの場所じゃない、別のステージに……
-(White cut)
+(White transition)
 (Background change)
 えむ: ……うん……
 えむ: …………やだなあ
@@ -177,18 +169,14 @@
 えむ: …………
 寧々: （……みんなも、同じ気持ちなんだ）
 寧々: （でも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: 『でも……この経験もきっと、 みんなにとってかけがえのないものになるはずだわ！』
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 寧々: （わたし達にとって、それはきっと…… 悲しいことだけじゃない……）
 寧々: （だから——）
 類: 寧々……？
@@ -217,4 +205,4 @@ MEIKO: 『でも……この経験もきっと、 みんなにとってかけが
 寧々: えむ……
 司: よーし、それじゃあ寧々の言ったように これからも４人でできることを頑張っていこうではないか！
 司: オレ達の未来のために！
-(Black cut)
+(Black transition)

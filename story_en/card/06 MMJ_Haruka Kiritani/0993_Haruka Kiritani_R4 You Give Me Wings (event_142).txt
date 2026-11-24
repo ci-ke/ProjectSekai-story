@@ -44,7 +44,7 @@ Haruka: (I'm having that meeting with Minori and the others to discuss how we're
 Haruka: I'm meeting with the other to discuss a stream, but I should be able to head over once it's done. Would that be okay?
 An: <Okay! Then, we'll meet at the cafe once your meeting's finished!>
 Haruka: Alright, sounds good.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -56,7 +56,7 @@ An: Welcome! Table for one?
 Haruka: No, I'm meeting a friend. She should be here already...
 An: Yes, she arrived here a little while ago, and got some cleaning in to boot.
 Haruka & An: Hehe. Haha.
-(Black cut)
+(Black transition)
 An: Here's some tea. Sorry, this is sorta all we have, since we're closed right now.
 Haruka: That's okay. I'll gladly have this.
 Haruka: Mmm... This is nice...
@@ -76,15 +76,11 @@ An: He's apparently been training really hard lately too.
 An: She said he can climb, or run, up walls or something now? Anyway, I don't think you have to worry about either of them.
 Haruka: Okay...
 Haruka: I guess I got a little ahead of myself.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Haruka: (I mean, those two were training that day in order to make their dreams come true, after all.)
 Haruka: Sorry for making you gather all this information for me, An.
@@ -96,7 +92,7 @@ An: Heehee.
 Haruka: (You're always like this...)
 Haruka: (But I'm glad I asked you about this.)
 Haruka: (Thank you so much, An.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -109,7 +105,7 @@ Haruka: 98, 99, 100...! Okay, that's one set.
 Haruka: (I'm starting to get the hang of doing these exercises while wearing weights.)
 Haruka: (I guess that means my training is going well.)
 Haruka: (We have just three days left until Shinobi Battle. I need to keep this up, and get in the best shape I can.)
-(Black cut)
+(Black transition)
 Haruka: Phew... Three sets. That should be enough.
 Akito: Sounds like you've reached a good place to stop, too.
 Tsukasa: Why don't we take this opportunity to rest and rehydrate, Kiritani?
@@ -126,10 +122,8 @@ Tsukasa: Hm? Now that you mention it...
 Tsukasa: I've become so used to a certain director using explosives and odd drones during our performances that I never thought to ask.
 Akito: And now you're desensitized to these kinds of things...?
 Haruka: Well, the story behind those vests involves...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Haruka: Hey, Airi, does the show “Battle of the Muscly Stars” ring any bells for you?
 Airi: Yeah, of course it does!
@@ -143,10 +137,8 @@ Airi: If I recall, they don't accept personal orders, but they do rent out to in
 Airi: You should be able to send in a request through their website. Also, you'll be able to save on shipping by going over to their warehouse yourself.
 Haruka: I see...
 Haruka: Thanks, Airi! I'll look into it.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: So, the vests and other equipment we've been using were used on Battle of the Muscly Stars?
 Haruka: Not necessarily everything.
@@ -171,4 +163,4 @@ Tsukasa: Ah, yes! I'm ready whenever!
 Akito: I've gotten pretty used to my training schedule now, so I still feel pretty fresh.
 Haruka: We have three days left. Let's keep doing our best so that we can post a result we can feel proud of!
 Akito & Tsukasa: Yes! Yeah!
-(Black cut)
+(Black transition)

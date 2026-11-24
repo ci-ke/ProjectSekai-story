@@ -29,7 +29,7 @@ Gacha phrase: ……ちょっと面白そうだな
 (Background change)
 絵名: 『ありがとね、K。 課題がやばそうな時は相談させてもらうね』
 奏: 『うん』
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
@@ -47,20 +47,16 @@ Gacha phrase: ……ちょっと面白そうだな
 (Background change)
 絵名: 『K、今日は……あー、もう昨日だけど、 カフェに誘ってくれてありがとね』
 (Background change)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 私は……絵画教室に行って、帰るところ
 奏: ……元気がなさそうだね。 大丈夫？
 絵名: あー……うん。ちょっとね
 奏: ……もしよかったら、少し話していかない？
 絵名: え？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 『……誘ったのはいいけど、あんまり役に立てなかったね』
 (Background change)
@@ -98,7 +94,7 @@ Gacha phrase: ……ちょっと面白そうだな
 絵名: 『本当に気をつけてよ？ もしまた倒れたら、今度こそ家に押しかけるから！』
 (Background change)
 奏: 『うん。気をつけるよ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -143,15 +139,11 @@ Gacha phrase: ……ちょっと面白そうだな
 絵名: 『今は、私にとっての失敗—— 絵を描いてて一番嫌なことは何かってところから考えて、 だいぶイメージできるようになったけどね』
 (Background change)
 奏: （……一番嫌なこと、か）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……あの時、カイトが言ってたことがヒントになったんだ）
 (Background change)
@@ -222,4 +214,4 @@ Gacha phrase: ……ちょっと面白そうだな
 絵名: 『頑張ってイラスト仕上げるから。期待しててね、K！』
 (Background change)
 奏: 『うん、よろしく』
-(Black cut)
+(Black transition)

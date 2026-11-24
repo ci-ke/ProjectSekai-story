@@ -10,10 +10,8 @@ Skill name: Some Spice To Pep You Up
 
 Honami: Hmm... Well, I'm here...
 Honami: But I still don't know what to make for Saki and Ichika.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shiho: You're bringing something for them?
 Honami: Yes. Remember how they're going to be holding a songwriting camp soon?
@@ -28,10 +26,8 @@ Honami: I'm afraid that they're going to forget to eat if they get too focused o
 Honami: And even if they've already eaten, they can always have what I make the next day.
 Shiho: I see. I think that's a great way for you to show them your support.
 Honami: Thank you. I plan on doing what I can for them.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Honami: (Still, what should I make...?)
 Honami: (They'll probably be feeling tired after using their brains to come up with good ideas...)
@@ -45,10 +41,8 @@ Honami: (Ichika's family makes theirs a little spicy.)
 Honami: (Hehe. This is so nostalgic... And it's interesting how each family makes their curry a little differently.)
 Honami: Wait, I'm not supposed to be reminiscing right now. Let's see... What do I need...?
 Honami: (If I want them to both enjoy it...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Imaginary Ichika (Ichika): “Make it a little spicy, if you could.”
 Imaginary Saki (Saki): “What?! I like my curry mild! Also, can you cut the veggies into big blocks for me♪”
@@ -57,11 +51,9 @@ Honami: (Hmm... What should I do about that...?)
 Honami: (Oh, that reminds me. Grated apples... That can help keep things mild.)
 Honami: (Plus, apples give curry a richer flavor...)
 Imaginary Ichika (Ichika): “Yes, please. I like it when curry has a rich taste to it.”
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Honami: Hehe. That solves that problem...
 Honami: The sauce will be a little spicy, but the vegetables and grated apples should help make it mild yet flavorful.
 Honami: Which I'm hoping they'll both enjoy.
@@ -77,7 +69,7 @@ Honami: Okay, seafood curry it is...
 Seafood Clerk: Ah, Miss. If it's curry that you're making, then I recommend the squid, shrimp and scallops over in this corner!
 Honami: Oh, you do? Wow, they're so big...!
 Honami: (Just wait, Saki, Ichika...! The seafood curry I'm about to make is going to be delicious!)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -140,4 +132,4 @@ Saki: No, it was my fault for misunderstanding...
 Honami: Hehe. I guess this means they've made up.
 Ichika: Oh...
 Ichika: Well played, Honami.
-(Black cut)
+(Black transition)

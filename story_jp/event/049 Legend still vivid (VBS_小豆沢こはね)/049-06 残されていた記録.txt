@@ -21,19 +21,15 @@
 大河: そうかい。 そりゃ何よりだ
 杏の父: （大河のこの目は、見たことがある）
 杏の父: （この目は——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: ——大河、謙！　行こう！
 大河: そう焦るなよ。 ステージは逃げやしねえんだからよ
 ？？？: だって、早く歌いたいんだもん。 だから、ほら！
 大河: ……ったく、しょうがねえヤツだな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏の父: …………
 杏の父: （……そうか）
@@ -77,17 +73,13 @@
 杏の父: ……あのあとすぐにお前が去って、 映像があることを言う機会もなかったがな
 大河: 凪が……
 こはね: （凪さんって、たしか——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 杏: あ、おじさんの妹さんなんだ。古瀧凪さん
 杏: 昔は、おじさんと父さんと凪さんの ３人でチームを組んでたんだよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: （大河さんの妹さんが、このDVDを……？）
 こはね: あ、あの……！
@@ -99,7 +91,7 @@
 こはね: そうだった……！ あの、借りてもいいですか？
 杏の父: おう、もちろんだ。 ……これを使うといい
 こはね: ありがとうございます！
-(Black cut)
+(Black transition)
 (Background change)
 
 [店内ライブスペース]
@@ -108,4 +100,4 @@
 杏: ……よし！　これでいつでも流せるね
 杏: それじゃみんな——準備はいい！？
 こはね: ——うんっ！
-(Black cut)
+(Black transition)

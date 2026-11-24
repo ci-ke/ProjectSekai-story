@@ -19,7 +19,7 @@ nightcode_01_16 崩壊
 まふゆ: 冗談……？ あぁ……うん、そうだよ
 友達A: あはは、まふゆったらわかりにくいよ、もう！
 まふゆ: あはは……ごめんね
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -38,14 +38,14 @@ nightcode_01_16 崩壊
 まふゆ: ……わかった
 まふゆの母親: あ、お母さんそろそろ買い物に行ってくるから、 留守番よろしくね
 まふゆ: …………うん。いってらっしゃい、お母さん
-(Black cut)
+(Black transition)
 (Background change)
 
 [まふゆの部屋]
 
 まふゆ: …………
 まふゆ: もう、いいかな
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -66,27 +66,23 @@ nightcode_01_16 崩壊
 まふゆ: ……？　どうしたの、ミク
 ミク (N25): ……来た……
 ミク (N25): あの子達が……来てくれた
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
 
 絵名: ………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『……でも、雪は、そういう風にできなかったんだろうね』
 瑞希: 『ひとりで抱えて、限界がきちゃったんだろうなぁ……』
-(White cut)
+(White transition)
 (Background change)
 奏: 『わたしは雪のために曲を作る。 雪を……救いたいの』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: …………どうでもいい
 絵名: 消えたいなら、好きにすればいい
 絵名: 雪なんて……OWNなんて…… ……OWNの曲なんて…………
@@ -94,19 +90,15 @@ nightcode_01_16 崩壊
 絵名: ………………
 絵名: ……はは。OWNの曲、やっぱりすごい曲だな……
 絵名: 冷たくて、危なっかしくて、何もかも全部拒絶してて……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？ (まふゆ): もしそれでも見つからないなら、私はもう……消えるしかない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 絵名: ………………
 絵名: 雪……あんたは嫌いだけど、あんたの曲はやっぱり好きだよ
 絵名: 嫌いなのに……あんたが消えたら聴けなくなるなんて、 そんなの…………
 絵名: …………そんなの、ずるいよ……
-(Black cut)
+(Black transition)

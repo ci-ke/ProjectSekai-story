@@ -11,17 +11,13 @@ Gacha phrase: What can I do...
 
 Kanade: Phew...
 Kanade: Ena...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: Miku, can you show us where Ena is?
 Miku (N25): She may not want to talk. She wants to be alone and not see anyone.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (What I can do for Ena right now is...)
 Kanade: <Yuki, Amia, are you back?>
@@ -35,36 +31,28 @@ Kanade: <Oh, there's one more thing. Enanan said she felt worried when she enter
 (Background change)
 Mafuyu: <Worried...?>
 Kanade: <Yes...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: Wow, you're entering into a contest?
 Ena: Yeah, it's a pretty big one too. Some of the other artists are practically pros too.
-(White cut)
+(White transition)
 Ena: Yeah, I mean... I'm wondering if I can do a good job.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: <She was wondering if she can do a good job...>
 (Background change)
 Mafuyu: <“But my art's just an accessory for the song...”>
 (Background change)
 Kanade: <Oh, right. She did say that too...>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: <You put no thought or effort into what you make, but you still get praise and attention...>
 Ena: <Of course you wouldn't understand...!>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: <She talks about innate talent every so often.>
 Kanade: <Talent...>
@@ -91,7 +79,7 @@ Mizuki: <Yeah♪ Oh, also! What if the song's about letting Enanan know that we'
 Kanade: <Hehe. That's also a good idea. Okay, what I'm thinking is...>
 (Background change)
 Kanade: (Just hold on a little longer, Enanan. I'll make this song in no time.)
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: <How's it going, K? Do you think you'll make it in time?>
 (Background change)
@@ -118,7 +106,7 @@ Mizuki: <Staying up late is bad for the skin, but I guess we don't have a choice
 Mafuyu: <We don't. I'll stay.>
 (Background change)
 Kanade: <Thank you.>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -146,20 +134,16 @@ Kanade: <Hehe...>
 (Background change)
 Kanade: (I'm so glad that Ena feels better now. I need to thank Rin for delivering our song to her too.)
 Kanade: (I feel like Ena will be just fine now...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: <But my art's just an accessory for the song...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (Now that I think about it, I didn't explicitly say that she's wrong then...)
 Kanade: <...>
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -222,4 +206,4 @@ Mizuki: <Yeah, it was fun to see this stuff again after so long♪>
 Kanade: <And Enanan... We're definitely counting on you.>
 (Background change)
 Ena: <Right. You can leave N25's artwork to me!>
-(Black cut)
+(Black transition)

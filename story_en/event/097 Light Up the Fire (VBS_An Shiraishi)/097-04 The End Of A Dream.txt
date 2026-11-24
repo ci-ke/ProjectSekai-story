@@ -15,16 +15,12 @@ An's Father: ...!
 Taiga: They need to know if they're gonna “succeed” us.
 Taiga: But I only told them a few things. You'll have to tell them the rest... Right?
 An's Father: Yeah, I know.
-(Black cut)
-(White cut)
-
-(Memory cut-in)
-
+(Black transition)
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 Arata: ...
@@ -61,16 +57,12 @@ Tatsuya: Because we knew that we could fight again another day. At least, that's
 Tatsuya: But today, we saw reality...
 Tatsuya: There are actually people out there who can't be beaten no matter how hard you try...
 Kohane: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kohane: This is terrifying...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: ...
 Tatsuya: Also, if... Even if we manage to outdo Taiga someday...
@@ -122,7 +114,7 @@ An's Father: ... I'm sorry, An.
 An's Father: Let's talk about this more at our place.
 An's Father: Including you, Akito, Toya, Kohane... We'll need you all to join us.
 An's Father: Today, I'll tell you everything. About how and why RAD WEEKEND happened...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -139,20 +131,16 @@ An's Father: And first... Well, you need to know more about Nagi. About us, RADd
 An's Father: We first decided to form a team together when were in junior high.
 An's Father: Taiga and I went to the same school, but we didn't really get along at first. Him singing was the reason I actually began hanging out around here...
 Akito: (Oh...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Taiga: One day, Ken walked by while I was doing a street performance... He gave me this look of boredom which really bothered me.
 Taiga: I thought, “Hey, don't ignore me! You know I'm here! Isn't there anything you feel passionate about?!”
 Taiga: So, I began singing like there was no tomorrow.
-(White cut)
+(White transition)
 Taiga: My performance definitely sparked something inside him. It was pretty obvious.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Akito: (He's probably talking about that...)
 An's Father: We fought, sang, fought, sang... Then, one day, this girl suddenly appeared, clinging to Taiga. That was when I met Nagi for the first time.
@@ -171,4 +159,4 @@ An's Father: We went over to Crawl Green, the owner gave us his blessing to debu
 An's Father: After that, scouts from the big labels began following us, and we ended up signing with an agency.
 An's Father: We'd finally become professional musicians, but that was only the beginning of our troubles...
 An: ...
-(Black cut)
+(Black transition)

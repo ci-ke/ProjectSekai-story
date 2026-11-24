@@ -16,44 +16,32 @@
 類: 元々あのコースターは取り壊されることが決まっていたけれど…… この光景を見ていると、残せてよかったと思うよ
 えむ: そうだよね！ 今はあーんなにたくさんの人が並んでくれてるし！
 えむ: ……ホントによかったなあ。 おじいちゃんの遊園地を守れて
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （……あの時は、本当に無理なんじゃないかって思ってた）
 えむ: （トランポリンドームも、お化け屋敷も、 メリーゴーランドも、全部全部、なくなっちゃうって。でも——）
 えむ: （あの時、司くんが言ってくれたんだよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 司: 経営がどうの集客がどうのと言っているが、 客はみんな、“笑顔になりたい”という気持ちでここに来る！
 司: ならば——万人に笑顔を届けるオレ達だからこそできることが、 必ずある！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: …………
 えむ: （司くんがああ言ってくれなかったら、 さっきの子達のニコニコ顔は、きっと見れなかった）
 えむ: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 類: うん。またワンダーステージでショーをやる機会が増えて、 以前のようにここに足を運ぶことが多くなったけれど……。 最近の園内は、以前と見違えるようだと思わないかい？
 類: 僕達の、宣伝公演の成果もあったということかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 えむ: （……司くんだけじゃない。みんなのおかげで フェニックスワンダーランドは、おじいちゃんがいた頃みたいに こんなにニコニコで溢れてるんだ）
 えむ: （……えへへ。 みんなが、あたしの夢を、かなえてくれたんだよね）
 えむ: （……それなら）
@@ -110,4 +98,4 @@ KAITO: 『そういえば結構時間経っちゃったけど、 みんな司く
 寧々: ——そうだね
 類: それじゃあ、司くんの大切なステージを見届けに行こうか
 えむ: うんっ！
-(Black cut)
+(Black transition)

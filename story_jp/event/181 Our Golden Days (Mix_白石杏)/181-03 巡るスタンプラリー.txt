@@ -21,7 +21,7 @@
 咲希: あっ！　あんちゃん、そこ……！
 えむ: 次の場所のを押すところだよ～！
 杏: えっ！？　……あー、ほんとだ！
-(Black cut)
+(Black transition)
 (Background change)
 えむ: この神社にはね、海の神様がまつられてるんだって！
 瑞希: 島の漁師さんは、漁のシーズンに入る前に お参りしに来たりするみたいだよ
@@ -31,7 +31,7 @@
 遥: そっか。今回のフェスは、島の地域振興が目的だもんね
 杏: じゃあ、せっかくだし海の神様にお参りしていこっか！ 明日のフェスが上手くいきますように、って
 遥: それって、海の神様にお願いすることなのかな……？
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 動物園)
 えむ: ここの動物園には、ふれあいコーナーがあるんだよ♪ いろんな動物さんと遊べちゃうんだ～！
@@ -45,7 +45,7 @@
 杏・咲希: 『ねー！』
 瑞希: あははっ！　なんかふたりって、ちょっと似てるかも！
 杏・咲希: 『えっ？』
-(Black cut)
+(Black transition)
 (Background change)
 
 [住宅街]
@@ -59,18 +59,18 @@
 えむ: みんなでお買い物しよ～！
 杏: そうしよっか！ ちょうど冷たいものとか飲みたかったしね
 瑞希: ボク、アイスにしよっと！
-(Black cut)
+(Black transition)
 瑞希: ん～♪　疲れた体に冷えっ冷えのアイスが染みますなあ
 えむ: 染みますなあ♪
 咲希: あはは、いっぱい歩いたもんね！　——あ！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000497/bg_s000497.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000497/bg_s000497.webp)
 咲希: 見て見て、みんな！　『あたり』だって！
 瑞希: おお～！　咲希ちゃん、ツイてるね！
 咲希: えへへ、実はワタクシ強運なのです！ なんちゃって♪
 杏: そうだ！　せっかくだから、記念写真撮っとく？
 咲希: え、いいの？　じゃあ、お願いします！
-(White cut)
+(White transition)
 (Background change)
 杏: いくよ——はい、チーズ！
 駄菓子屋の店主: ふふ。賑やかでいいねえ
@@ -89,4 +89,4 @@
 駄菓子屋の店主: ふふ。みんなも、１日１日を大事にねえ
 駄菓子屋の店主: 楽しい時間ほど、あっという間に過ぎていっちゃうから
 えむ: あっという間に……
-(Black cut)
+(Black transition)

@@ -11,17 +11,13 @@ Gacha phrase: 今わたしにできることは……
 
 奏: ふぅ……
 奏: ……絵名
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: ミク、絵名がどこにいるのか教えてくれる？
 ミク (N25): 今は話せないと思う。 ひとりになりたい、誰にも会いたくないって言ってたから
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （絵名のために、今わたしにできることは……）
 奏: 『雪、Amia、戻ってきてる？』
@@ -35,36 +31,28 @@ Gacha phrase: 今わたしにできることは……
 (Background change)
 まふゆ: 『不安……？』
 奏: 『うん……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏: へえ、絵のコンクールに応募するんだ
 絵名: うん、結構本格的なコンクールなんだ。 プロレベルの人もいるみたい
-(White cut)
+(White transition)
 絵名: なんていうか……うまく描けるかなって
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: 『うまく描けるか、か……』
 (Background change)
 まふゆ: 『……“私の絵なんて、曲のおまけ”』
 (Background change)
 奏: 『あ……えななんあの時、そう言ってたね……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『何も考えなくても良いものが作れて、 評価されて、期待されて……』
 絵名: 『そんなあんたに、わかるはずない……！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: 『才能がどうとかって、ときどき言ってるよね』
 奏: 『才能……』
@@ -91,7 +79,7 @@ Gacha phrase: 今わたしにできることは……
 奏: 『ふふ。そういうのもいいかもしれないね。 そうだ、わたしが少し考えてるのは——』
 (Background change)
 奏: （待ってて、絵名。曲、すぐに作ってみせるから）
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『Ｋ、どう？　いけそう？』
 (Background change)
@@ -118,7 +106,7 @@ Gacha phrase: 今わたしにできることは……
 まふゆ: 『うん。私も待つよ、一緒に』
 (Background change)
 奏: 『……ありがとう、ふたりとも』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -146,20 +134,16 @@ Gacha phrase: 今わたしにできることは……
 (Background change)
 奏: （絵名が元気になってくれて本当によかった。 歌を届けてくれたリンにも、 そのうちお礼を言いに行かないと）
 奏: （これで、絵名はきっと大丈夫——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 絵名: 『……私の絵なんて、曲のおまけでしょ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （そういえばあの時は、 ちゃんと『違う』って言えなかったな……）
 奏: 『…………』
-(Black cut)
+(Black transition)
 
 [翌日]
 
@@ -222,4 +206,4 @@ Gacha phrase: 今わたしにできることは……
 奏: 『それじゃあ、えななん。 改めて、よろしく』
 (Background change)
 絵名: 『うん。ニーゴのイラストは私に任せて！』
-(Black cut)
+(Black transition)

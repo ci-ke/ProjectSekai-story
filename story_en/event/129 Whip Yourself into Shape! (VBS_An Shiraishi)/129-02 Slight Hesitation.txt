@@ -2,7 +2,7 @@
 
 (Character: Kohane Azusawa, An Shiraishi)
 
-(White cut)
+(White transition)
 (Background change)
 
 [An's Room]
@@ -20,7 +20,7 @@ An: Alright!
 An: (My mind's made up, so I've gotta find a way to get better. I'll start by practicing more on my own and...)
 An: Oh, that reminds me...
 An: I wonder if Dad's still at the cafe.
-(Black cut)
+(Black transition)
 (Background change)
 Ken: Okay. Then, I'll leave the rest to you.
 Ken: Phew... Now that I managed to get ahold of Granny, I should probably get ready to head out.
@@ -46,27 +46,19 @@ Ken: (If she can keep this up...)
 An: ♪——————!!
 An: (Yeah, I'm projecting my voice well. But...)
 An: (I'll need to do more than just that.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: (I need to learn how to have as much energy as Aunt Nagi did that night.)
 An: (No, more than that. More than anyone else!)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 An: ...
 An: (No...! That doesn't matter right now...!)
@@ -83,4 +75,4 @@ An: Why'd you want me to stop, Dad? Was I off-key?
 Ken: No, you sounded great. Pitch perfect and flawless rhythm. It's just...
 Ken: An.
 Ken: Is there something on your mind?
-(Black cut)
+(Black transition)

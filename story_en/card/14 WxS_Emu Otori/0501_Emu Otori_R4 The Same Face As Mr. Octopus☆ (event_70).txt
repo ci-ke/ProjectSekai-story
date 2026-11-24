@@ -43,7 +43,7 @@ Emu: Yay☆ Thank you so much, Ena!
 Honami: Hehe. That's wonderful, Emu. I think I'll take this opportunity to also learn more about art.
 Emu: Yeah, we can learn together♪
 Emu: So, let's head down to the living room!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Otori Household - Living Room]
@@ -65,7 +65,7 @@ Ena: I'm nothing special, really! I just happened to recognize it is all.
 Ena: Still, what was that person's name... I'll try looking them up when I get home.
 Emu: Woohoo! Thank you!
 Emu: Next, we'll head to the room where we chat with our guests!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Emu's Room)
 Emu: That concludes our little expedition and tour of my house! What did you both think?
@@ -85,7 +85,7 @@ Emu: Yup!
 Honami: Thank you for showing it to us, Emu.
 Ena: Yeah, I think we both learned a lot.
 Emu: No, it was my pleasure! I got to learn so much about all the works of art that Grandpa left to us, so I'm really happy!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -136,7 +136,7 @@ Ena: And it looks like this is the only bit of wall left. Our zoo will be comple
 Emu: Yeah! We can sing while we do too♪
 Emu: Here's a circle that's nice and round♪ And lots and lots of pointy spikes!
 Honami & the Kindergartners: Here's a circle that's nice and round♪ And lots and lots of pointy spikes!
-(Black cut)
+(Black transition)
 Kindergartner: Ms. Emu, I did it! I drew a lion!
 Emu: Oh, that looks amazing! Let's try coloring it now☆
 Kindergartner: Okay!
@@ -168,4 +168,4 @@ Ena: Aren't those all prey...?
 Kindergartner: No, they'll be fine because we're painting a zoo! Right, Ms. Emu?!
 Emu: Exactomundo! So, why don't we paint a Ferris wheel for all our animals to go on?!
 Kindergartners: Yeah! We can sing while we do too♪
-(Black cut)
+(Black transition)

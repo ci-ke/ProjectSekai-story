@@ -29,7 +29,7 @@ Gacha phrase: 夢の景色を掴めるように、進んでいくよ
 志歩: でも、今日は私も楽しみだよ。 久しぶりにゆっくりできるオフだしね
 志歩: っと……そろそろ準備しないと
 リン (Ln): 『はーい！　じゃあ、またあとでね！』
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -44,7 +44,7 @@ Gacha phrase: 夢の景色を掴めるように、進んでいくよ
 志歩: え、予約してたの？
 咲希: 当たり前でしょ？ それでは主役のしほちゃん、こちらへどうぞ〜♪
 志歩: わ、ちょっと咲希……！
-(Black cut)
+(Black transition)
 (Background change)
 スタッフ達: ——では、ご用意するので少々お待ちください！
 志歩: （バースデープランか……）
@@ -67,13 +67,13 @@ Gacha phrase: 夢の景色を掴めるように、進んでいくよ
 志歩: あんなに近くでフェニーくんが見られたし…… もう、十分すぎるくらいだな
 咲希: まだまだお楽しみはここからだよ、しほちゃん！
 一歌: うん。今日は、思いっきり楽しもう
-(Black cut)
+(Black transition)
 スタッフ達: あなた、お誕生日なんだね！ おめでとう！
 KAITO (Ln): 『……キャストの人達、たくさんお祝いしてくれるね』
 志歩: はい。ちょっと恥ずかしいですけど……
 リン (Ln): 『あ、見て見て！ あっちで、フェニーくんとポチ公が手振ってくれてるよ！』
 志歩: 本当だ。ぴょんぴょん跳ねてて、かわいいな
-(Black cut)
+(Black transition)
 レン (Ln): 『レストランにも、誕生日限定のメニューがあるんだな』
 咲希: サプライズがあるって書いてたけど、 どんなやつなんだろ？
 ミク (Ln): 『これ、バースデーソング？』
@@ -85,7 +85,7 @@ MEIKO (Ln): 『わ、デザートも美味しそう。 アイスの部分が、�
 一歌: 志歩、どの部分から食べる？
 志歩: か——
 志歩: かわいすぎて食べられない……！
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -108,7 +108,7 @@ MEIKO (Ln): 『わ、デザートも美味しそう。 アイスの部分が、�
 咲希: ねえねえ！ 最初は、どの子と一緒に撮ろっか？
 志歩: え、どの子って……
 志歩: そんなの、選べるわけないじゃん……！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -169,7 +169,7 @@ MEIKO (Ln): 『わ、デザートも美味しそう。 アイスの部分が、�
 愛莉: 今日は配信もないから、みんな家に帰る予定よ
 志歩: え、そうなんですか？
 志歩: （ということは……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [宮益坂]
@@ -183,17 +183,13 @@ MEIKO (Ln): 『わ、デザートも美味しそう。 アイスの部分が、�
 雫: だから、今日がチャンスだって思ったの
 志歩: まったく……
 志歩: （でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （たしかに、最近は忙しかったからな）
 志歩: （お姉ちゃんは、LUMINAグランプリで 家にいるほうが珍しかったし——）
@@ -223,19 +219,19 @@ MEIKO (Ln): 『わ、デザートも美味しそう。 アイスの部分が、�
 雫: そうだ、それなら しぃちゃんが話を聞かせてくれない？
 志歩: それくらいなら、別にいいけど……
 志歩: じゃあ、そうだな……。 最初に、バースデープランのシールを貰いに行ったんだけど——
-(White cut)
+(White transition)
 (Background change)
 志歩: えっと……これ、聞こえてる？
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000534/bg_s000534.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000534/bg_s000534.webp)
 志歩: ……うん、大丈夫そうだね
 志歩: 改めて。 今日は私の誕生日をお祝いしてくれて、ありがとう
 志歩: それと……いつも背中を押してくれることにも、感謝してる
 志歩: Leo/needは、やっとプロとして軌道に乗ってきたけど ここにくるまで、 本当にたくさんの人達に支えられてきたんだ
 志歩: ——私達の音楽は、届いてる？
-(White cut)
+(White transition)
 (Background change)
 志歩: たぶんこの先も、いろんな壁があると思う。 けど——
 志歩: あの日見た、夢の景色を掴めるように。 私達は、これからも進んでいくよ
 志歩: だから……私達のこと、この先も見ててよ
-(Black cut)
+(Black transition)

@@ -35,7 +35,7 @@ Shizuku: Yes. What do you say? Your help would be much appreciated.
 Haruka: Thanks... Then, just for today, I'll be the newest member of the health committee.
 Haruka: I'm looking forward to your thorough instruction, Shizuku.
 Shizuku: Hehe. Of course, Haruka!
-(Black cut)
+(Black transition)
 
 [A few minutes later]
 
@@ -53,7 +53,7 @@ Haruka: Thank you. But you're also a very good teacher.
 Shizuku: I appreciate you saying that. Anyway, our next stop is...
 Haruka: Oh, do you need help finding it? If you tell me about where, then I can...
 Shizuku: No, that's okay! Please, follow me.
-(Black cut)
+(Black transition)
 Shizuku: (Go down the stairs, take a right, turn again at the end and...)
 Shizuku: Thank goodness! Here it is!
 Haruka: You found it! Without getting lost!
@@ -62,7 +62,7 @@ Shizuku: But I've made it a point to memorize where all the soap dispensers are 
 Haruka: I see. You really are doing your best.
 Haruka: Then, if you don't mind leading the way today...
 Shizuku: Yes, of course!
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -74,7 +74,7 @@ Haruka: Still, Shizuku, you did a great job of leading today. You taught me ever
 Haruka: The school should be safe with you on the health committee.
 Shizuku: Haruka...
 Shizuku: Thank you! I promise to keep doing my best, for everyone's health!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -101,7 +101,7 @@ Shizuku: Airi's always telling me the same thing.
 Shizuku: (Oh, I went and did it again.)
 Shizuku: (I want to be more helpful tomorrow, but what can I do?)
 Shizuku: (Oh, I know!)
-(Black cut)
+(Black transition)
 
 [The next day]
 
@@ -116,10 +116,8 @@ Locals: So, that's really nice of you, but why soup?
 Shizuku: Last week, Mrs. Fujita taught me how to make it, and it was so delicious!
 Locals: Oh, she taught you?!
 Shizuku: Yes. When I asked her about local delicacies we could pass out during the marathon, she suggested that we try making this together.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: The vegetables seem soft enough. I'll put in the wild herbs and fried tofu now!
 Elderly Lady: Alright, keep moving! Chop chop! Everything's prepped, so start putting it in the pot.
@@ -130,7 +128,7 @@ Shizuku: Thank goodness... And thank you!
 Elderly Lady: Hey, who said you could stop?! We're not going to finish until morning if you keep taking breaks like that. Again, chop chop!
 Shizuku: R-Right!
 Elderly Lady: ...
-(Black cut)
+(Black transition)
 Elderly Lady: Hmm... Yes, it seems to be coming along nicely.
 Shizuku: I couldn't have done this without you, Mrs. Fujita. Thank you very much for all your help!
 Elderly Lady: Yes...
@@ -144,13 +142,11 @@ Shizuku: Let's see... The miso should be in... This container! Three tablespoons
 Elderly Lady: No, Shizuku, wait! That's not miso! It's red bean paste!
 Shizuku: What?!
 Elderly Lady: Phew... That was close. The miso should be in the container with the yellow lid.
-(Black cut)
+(Black transition)
 Elderly Lady: Ah, delicious! Well done, Shizuku.
 Shizuku: ...! Thank you very much!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Shizuku: So, I decided to make some more using Mrs. Fujita's recipe.
 Shizuku: This soup's supposed to give this town a boost of energy, so I thought it would help you all...
@@ -169,4 +165,4 @@ Locals: This miso really hits the spot. I'm ready to get right back to work for 
 Shizuku: Hehe. I'm glad to hear that! There's still plenty, so please feel free to ask for seconds!
 Locals: In that case, I'll have another!
 Shizuku: Okay!
-(Black cut)
+(Black transition)

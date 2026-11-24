@@ -13,7 +13,7 @@ Gacha phrase: They're special to me.
 
 Akito: Toya?
 Toya: Ah, I'll be right there.
-(Black cut)
+(Black transition)
 (Background change)
 Akito: What should I have today... Have you already decided?
 Toya: Yes. I'll be having the lunch set.
@@ -39,7 +39,7 @@ Toya: MEIKO and KAITO said they'd be coming too, so I'm sure there's nothing to 
 Akito: Knowing MEIKO will be there puts me at ease, but KAITO...?
 Akito: Well, whatever. Let's just have lunch.
 Toya: Yes, let's.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -65,7 +65,7 @@ MEIKO: That's right. After all, Toya's birthday is the reason we're here in the 
 Toya: I don't mind. Since you came all the way here, I wouldn't want any of you missing out on any other activities you want to try.
 KAITO: <Thanks, Toya! You're always so generous.>
 Miku (VBS): <Still, let's not get too carried away...>
-(Black cut)
+(Black transition)
 Toya: So, this is the game I want to play. It's called Panic 'n Plunder.
 Kohane: Look, there are two carts! Although they're a little on the small side.
 An: What have we here? It says, “The mine is collapsing! Loot as much treasure as you can and escape with your lives!”
@@ -98,7 +98,7 @@ Rui: Hehe, well I heard that this game has a 2v2 mode.
 Rui: So that means...
 Rui: Vivid BAD SQUAD versus Wonderlands×Showtime!
 Akito: Huh?!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -122,7 +122,7 @@ Tsukasa: Me too!
 Rui: What about you, Shinonome? I understand that your original intention was to celebrate Aoyagi's birthday, right?
 Akito: Urgh. Fine. We're winning this, by the way.
 Rui: Then it's settled.
-(Black cut)
+(Black transition)
 Rui: Alright then! Let the Panic 'n Plunder Showdown featuring Vivid BAD SQUAD versus Wonderlands×Showtime commence!
 Emu: Woohoo!
 Rui: The rules are simple. We split into teams of two and face off in the 2v2 mode.
@@ -145,7 +145,7 @@ Emu: Nene, there's some treasure over there!
 Nene: Leave it to me! Oh no, we're gonna get crushed! Go right!
 Emu: On it☆
 Tsukasa: Oh! Looks like they're off to a great start. Keep it up, you too!
-(Black cut)
+(Black transition)
 An: Ahhh, that was so much fun!
 Kohane: Yeah, although we did lose...
 Emu: But hey, I can't believe you guys managed to find that hidden treasure chest!
@@ -176,7 +176,7 @@ Tsukasa: Look, there's an arrow pointing right on the wall! It's got to be that 
 Rui: Ah. Tsukasa, wait—
 Toya: Akito, it's the opposite way. Let's go left!
 Akito: Huh?! A-Alright!
-(Black cut)
+(Black transition)
 Emu: And the winner of round two is... Akito and Toya!
 Tsukasa: Grgh! To think that the second split in the tracks held a clue to the final fork!
 Toya: It appeared only briefly after we scooped up the treasure, so it's understandable that you missed it.
@@ -184,7 +184,7 @@ Rui: I see. That arrow was just a touch too prominent, so I did have my doubts..
 Akito: And you fell into that simple trap.
 Tsukasa: If I recall, it also had you fooled until Toya told you otherwise!
 Kohane, An, Emu & Nene: Hehe. Haha!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Main Street]
@@ -197,8 +197,8 @@ Miku (VBS): <I'm glad we were able to witness that intense showdown, too!>
 KAITO: <You'll stop by SEKAI later, right? I want to hear how the games went!>
 MEIKO: <Hehe. Your usual coffee will be waiting for you.>
 Toya: Thank you. See you then.
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000196/bg_s000196.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000196/bg_s000196.webp)
 Mizuki: Happy birthday, Toya! Ena and I made a flip book animation about Vivid BAD SQUAD for you♪
 Ena: Well, it's only a cartoon of you singing together, but I made you all look cute, so I hope you like it.
 Mizuki: I'll compile it into a video and send it to you later. Enjoy!
@@ -214,10 +214,10 @@ Akito: But happy birthday, Toya. You always have been and always will be the bes
 An: Oooh, look at you blushing after saying such kind words!
 Akito: That's what happens when you put someone on the spot like that...
 Kohane: Hehe. Let's keep doing our best together!
-(White cut)
+(White transition)
 (Background change)
 Toya: Thank you all for celebrating my birthday today.
 Toya: To be blessed with so many friends who would celebrate with me makes me happy, albeit a little embarrassed.
 Toya: I promise to move forward diligently, and put everything I have into singing.
 Toya: So, I hope you will continue to show me your support. Until next time.
-(White cut)
+(White transition)

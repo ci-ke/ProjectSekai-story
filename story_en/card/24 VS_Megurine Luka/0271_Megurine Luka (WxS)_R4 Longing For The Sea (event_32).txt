@@ -7,7 +7,7 @@ Gacha phrase: It looks like such a wonderfully relaxing place.
 
 (Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -27,7 +27,7 @@ Luka: Hm...? Are you two not coming?
 KAITO: We're busy preparing for a show.
 MEIKO: So bring back some good stories, okay?
 Luka: Yes, I will...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Swimming Area]
@@ -82,7 +82,7 @@ Tsukasa: Yes, but... Are you sure about that? What if she falls asleep during th
 Luka: <No need to worry. If I do start dozing off, I'll just referee while I'm asleep.>
 Tsukasa: While you're asleep?!
 Rui: We'll just have to cross that bridge when we get there.
-(Black cut)
+(Black transition)
 Nene: So we're going ahead with it regardless...
 Nene: Also, why beach volleyball? Those two are like professional athletes compares to us. There's no way we can beat them.
 Rui: Luck of the draw, I suppose. We'll just have to do our best.
@@ -90,7 +90,7 @@ Nene: And I'd rather not get all sandy, so maybe I'll just sit this one out...
 Luka: <But this might end up becoming such a wonderful memory.>
 Nene: Yeah, I guess you're right. I'll give it a try, but just for a little bit.
 Luka: <Great. We should all try to have as much fun as we can♪>
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -134,7 +134,7 @@ Nene: Oh, I see.
 Tsukasa: Alright, for Luka's sake, let's play a series of ten-point matches instead.
 Luka: <Yes, thank you♪>
 Tsukasa: So let's get started with our beach volleyball match...!
-(Black cut)
+(Black transition)
 Tsukasa: I got it! Spike it, now!
 Emu: Roger!!
 Emu: Fire!!
@@ -161,19 +161,15 @@ Tsukasa: Grr... Aiming for a spot where you knew we'd have trouble defending!
 Emu: We're not letting you get away with that!!
 Luka: (Hehe. They're all having so much fun.)
 Luka: (Which is why...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Luka: <...>
 Luka: (What can I do to help them...?)
-(Black cut)
+(Black transition)
 Nene: Oh no! Sorry! That would've been out if I didn't touch it!
 Rui: That's not a problem. It was a coin toss either way.
 Luka: <We have nine points a piece... That means...>
@@ -208,4 +204,4 @@ Luka: (Such a lovely bunch. So lovely that I'm starting to feel...)
 Luka: <*Yawn*... Huh...? No, I need to stay awake to referee...>
 Luka: <But they're still busy talking so... Maybe I'll rest my eyes for just for a little...>
 Luka: <Zzz...>
-(Black cut)
+(Black transition)

@@ -17,7 +17,7 @@ Akito: (This power... This is nothing like watching a video!)
 Akito: (It's like their voices are reaching right into my chest to grab my heart.)
 Toya: (This energy is incredible... The bass rolls unstoppably over and through you.)
 Toya: What a performance...!
-(Black cut)
+(Black transition)
 Slade: I knew they'd be awesome! They've definitely leveled up since their last event!
 Cedric: And the new song they just performed felt really different from their usual stuff.
 Musician: “Hey, you guys can do better than that! Let me hear your voices!”
@@ -35,7 +35,7 @@ Kohane: (The rumbling hasn't stopped for even a second.)
 Kohane: (This venue's so big, but I can hear the music so clearly...)
 Kohane: (This...)
 Kohane: (This is a world-class performance...!)
-(Black cut)
+(Black transition)
 Musician: “You guys sounded awesome!”
 Musician: “Thanks for being such a great crowd!”
 Slade: Wow... That team was totally off the hook...!
@@ -74,17 +74,13 @@ Audience: “What a performance! This is absolutely awesome...!”
 Audience: “Haha... Never thought I'd get to hear these two sing together again!”
 Audience: “Give us more~~~~!!!”
 Kohane: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Miku (VBS): <You'll visit new places and experience new things in the future, so I think it's okay for you to all figure things out as you go along.>
 Miku (VBS): <And eventually, you'll find what “standing on top of the world” means to you.>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: (That's it...)
 Kohane: (I had trouble visualizing it until now.)
@@ -98,18 +94,18 @@ Akito: (How are they doing this?)
 Akito: (I'm so excited that I can't stay still...!)
 Akito: (It's like they're making every fiber of my being shake...)
 Akito: (Argh. My head's a total mess right now. But...)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000454/bg_s000454.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000454/bg_s000454.webp)
 Akito: This is the “world” we've been talking about...
 Akito: ...
 Akito: (This... It's...)
 Akito: (The very thing we want to achieve!)
-(White cut)
+(White transition)
 (Background change)
 Elena: “Wow!”
 Elena: “Those two really know how to sing!”
 Rebecca: “They sure do...”
-(Black cut)
+(Black transition)
 
 [After the performance]
 
@@ -119,26 +115,22 @@ An: Umm...
 An: Anyway, wanna go say hi to them? Dad and Taiga said that they're still near the stage.
 Toya: Yes, we should go over... After all, they're the ones who invited us over.
 Cedric: To get to the stage, we have to leave the seating area and...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Kohane: (Wow...)
 Kohane: (This place is still shaking... From their singing and all the cheering...)
 Kohane: (And the heat hasn't dissipated. Everybody here is...)
 Kohane: (What is that like?)
 Kohane: (What do things look like from that stage...?)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000452/bg_s000452.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000452/bg_s000452.webp)
 Kohane: (I want to see it.)
 Kohane: (That view. From that stage.)
 Kohane: (And...)
 Kohane: (I want our songs to bring the same heat they did!)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few minutes later]
@@ -168,4 +160,4 @@ Ken: We'll be performing at “Lasting ECHO Fest”, the biggest music festival 
 Taiga: We're going to step out onto that stage and set the whole place on fire.
 Taiga: More than we did today.
 Kohane: ...!
-(Black cut)
+(Black transition)

@@ -18,7 +18,7 @@ Mafuyu: I'm not hungry...
 Kanade: Oh... Okay.
 Mafuyu: But... Maybe I'll have a little.
 Kanade: Okay. It'll be ready in a second.
-(Black cut)
+(Black transition)
 Kanade & Mafuyu: Let's eat.
 Kanade: By the way... You're up pretty early today. Do you have something at school?
 Mafuyu: I have a student council meeting. Apparently, our teacher has something to discuss with us.
@@ -33,7 +33,7 @@ Mafuyu: (That's right... It's my birthday today. I forgot.)
 Mafuyu: Thank you.
 Kanade: But... It feels kind of strange saying it to you in the morning like this.
 Mafuyu: Yes, it does.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka Girls Academy]
@@ -45,15 +45,11 @@ Mafuyu: ... Dad.
 Mafuyu's Father's Message: <Happy birthday, Mafuyu. I hope you're feeling well despite this cold weather.>
 Mafuyu's Father's Message: <I'll bring your present the next time I come by Ms. Yoisaki's apartment to see you.>
 Mafuyu: ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: *Wince*
 Mafuyu: (I have to get to the meeting...)
@@ -95,18 +91,14 @@ Mafuyu: *Nod*
 Mafuyu: ...
 Mafuyu: (That girl's always so energetic...)
 Mafuyu: (Also...)
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Mafuyu: (I think she was showing concern for me.)
 Mafuyu: ...
 Mafuyu: My hands...are still warm.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -153,7 +145,7 @@ Saki: We made sure to pick out the fluffiest one we could find, so we hope you l
 Ichika: It's going to be cold for a while longer still, so we hope it keeps you warm when you're working at home.
 Mafuyu: Wow... You all put so much thought into it.
 Mafuyu: Thank you so much.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -175,10 +167,8 @@ Mafuyu: Yes.
 Mizuki: Really? Did you do something to celebrate at home too?
 Mafuyu: Nothing special...
 Mafuyu: Mochizuki made pot-au-feu for dinner, and the three of us ate it together.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Honami: Um... Are you sure about this? My joining you, I mean...
 Kanade: Yes, it's about dinnertime, and... It's nice to have someone over like this sometimes.
@@ -189,23 +179,17 @@ Honami: Not at all. It's my pleasure to join you two.
 Honami: Um, Asahina. I didn't get a chance to say it at school, but...
 Honami: Happy birthday.
 Mafuyu: Thank you.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Oh. So you had dinner with Honami.
 Miku (N25): Did you get to relax?
 Mafuyu: Yes. Also...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (I couldn't taste the pot-au-feu. But...)
 Mafuyu: It was warm.
@@ -219,8 +203,8 @@ Mafuyu: ...
 Mafuyu: (This birthday was a bit different from usual...since we celebrated at Kanade's. But...)
 Mafuyu: (This scene hasn't changed at all. Also...)
 Mafuyu: (It really is warm.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000278/bg_s000278.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000278/bg_s000278.webp)
 Akito: Happy birthday, Asahina. As always, thank you for looking out for Ena... Please feel free to come over again sometime.
 Emu: Asahina! Did my spell work? I'd be as happy as a clam if you had a super smiley birthday☆
 Rui: Hehe. If Emu cast a spell on you, then I'm confident it must have been a wonderful birthday.
@@ -243,10 +227,10 @@ Mizuki: I know you have a lot on your mind lately. But we'll be there when it ge
 Kanade: Happy birthday. It really does feel strange to say that so many times in one day.
 Kanade: I know that so much has changed... But one thing will always stay the same. One day, I swear I'll write a song that can save you, Mafuyu.
 Kanade: So, I'm looking forward to another year with you.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu: A lot of people gave me wished me a happy birthday today...
 Mafuyu: It was different from usual in a lot of ways... But I didn't mind.
 Mafuyu: So...
 Mafuyu: Thank you all for the birthday wishes.
-(White cut)
+(White transition)

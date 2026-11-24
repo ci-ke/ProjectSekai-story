@@ -25,7 +25,7 @@
 寧々: ……頑張れ、司……！！
 類: ……ああ、そうだね
 類: 僕達の座長を——信じよう
-(Black cut)
+(Black transition)
 演出家: それでは——次
 司: はい！ 天馬司です！　よろしくお願いします！
 演出家: では……希望するシーンは？
@@ -63,9 +63,9 @@
 司: （森の空高く、羽ばたいて去っていく。 どうしてもどうしても欲しい心臓が）
 司: （——手を伸ばさなくては。 そう、思うのに……）
 司: （『僕』に、力が足りないせいで——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000172/bg_s000172.webp)
+(White transition)
 (Background change)
 司: （届かない——！！）
 司: 『う……』
@@ -137,4 +137,4 @@
 司: （オレは必ず——スターになる！！）
 櫻子: ……まさか、この短期間で、ここまで成長するなんてね
 櫻子: 30周年記念公演—— 最高の舞台になりそうだわ
-(White cut)
+(White transition)

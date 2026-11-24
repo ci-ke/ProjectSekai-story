@@ -28,16 +28,12 @@
 彰人: ……？　どういうことだ？
 セドリック: あそこを、 音楽が好きな人達が集まれる場所にできている、と思ってな
 セドリック: 夢に一歩近づけていると感じたんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 セドリック: 俺達はいずれここを、音楽が心から好きな連中が 集まれる場所にしたいんだ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……そういえば、前にそんなこと言ってたな
 彰人: しかも、修理も改装もほとんどセドリックがやったってんだから すげえよな
@@ -59,10 +55,8 @@
 彰人: へえ……
 セドリック: ……そこにあるのは、俺達が作る音楽だけじゃない
 セドリック: いろんな人の話し声や、楽器を弾く音が混ざって。 それで——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 エマ: 『セディ、このCD何？ えっと……ら、だー？』
 セドリック: 『RADder、俺達の恩人の曲だ。聴いてみるか？』
@@ -74,10 +68,8 @@
 スレイド: 『次、一緒に歌ってみようか』
 ウィル: 『うん！　よーし——』
 スレイド・ウィル: 『♪——————！　♪———————！！』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 セドリック: ……いい景色だなと、思ったんだ
 セドリック: 俺達は、ずっとふたりだった。 けど……音楽があれば、誰かとこんなふうに繋がれるんだと
@@ -104,15 +96,11 @@
 セドリック: たしかに、気になるな
 彰人: ん？ あー、そうだな……
 彰人: （冬弥のために、か……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……なくはねえかもな
 レベッカ: やっぱり！　ねえ、アキトの話も聞かせてよ
@@ -120,4 +108,4 @@
 彰人: ……仕方ねえな
 彰人: いろいろあるが…… んじゃ、中学で組み始めた頃の話にするか
 彰人: あの時、オレは自分の実力が足りねえことばっかに 目がいってたんだが——
-(Black cut)
+(Black transition)

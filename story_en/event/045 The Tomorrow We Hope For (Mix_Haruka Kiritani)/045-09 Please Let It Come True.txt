@@ -24,7 +24,7 @@ Kanade: S-S-So cold...!
 Airi: Oh, are you alright? It's been warmer than usual around this time, but it still gets pretty chilly after the sun goes down...
 Haruka: That reminds me. How does some amazake sound? That should warm you right up.
 Mizuki: Yeah, that sounds great! We might just have to take you up on that♪
-(Black cut)
+(Black transition)
 Shizuku: Alright, here you are.
 Kanade: Th-Thank you... Ahh, so warm...
 Mizuki: Whoa! Amazake from a real idol! I can feel it coursing through my veins! It's like all five of my senses are on fire now!
@@ -40,7 +40,7 @@ Airi: I'm not sure how to feel about that, but I don't see a problem with checki
 Kanade: I agree... There's no rule saying that we have to go in a certain order.
 Ena: Yeah, I guess that's true. Plus, I got to see Airi. Let's get this over with so we can head over to a diner to relax.
 Haruka: In that case, I can show you where the Omikuji booth is. Shall we?
-(Black cut)
+(Black transition)
 Mizuki: Yay! I got a “great blessing”♪
 Ena: Why'd it give me a "curse"...?
 Mizuki: Whoa, I've never seen anyone get that before! Wanna trade?
@@ -61,7 +61,7 @@ Kanade: Let's do our best this year, Mafuyu.
 Mafuyu: Yes, let's...
 Mizuki: Hey! Looks like there's no line for the shrine! We can make our wishes right now!
 Kanade: Oh, okay. Be right there.
-(Black cut)
+(Black transition)
 (Background change)
 Haruka: (It's already well past dusk... Our time as shrine maidens is about to come to a close.)
 Haruka: (Yoisaki's group may very well be the last we see making wishes tonight.)
@@ -90,7 +90,7 @@ Minori: Yeah, I totally understand! It's natural to take a little longer when wi
 Haruka: Yes, let's...
 Haruka: I don't actually know what they're wishing for...
 Haruka: But I hope all of their wishes come true for them.
-(Black cut)
+(Black transition)
 
 [6:00 pm]
 
@@ -102,12 +102,12 @@ Haruka: I agree. Also, it was great seeing so many people stop by to make their 
 Shizuku: Hehe. It sure was! Oh, why don't we cap everything off by making our own wishes?
 Airi: Yeah, let's go! I'm sure all our hard work will be rewarded! Somebody up there must've been watching us!
 Haruka: Hehe. I sure hope so.
-(Black cut)
+(Black transition)
 Haruka: Alright, let's ring the bell...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000038/bg_s000038.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000038/bg_s000038.webp)
 Haruka: (I want to be able to spread as much hope as we can to as many people as possible, together...)
-(White cut)
+(White transition)
 (Background change)
 Airi: Okay, I'm all set!
 Minori: Me too! Oh, while we're at it, we should go see what fortunes we get!
@@ -115,4 +115,4 @@ Shizuku: In that case, I'd like to get a good luck charm as well. Are there any 
 Airi: There's no way a charm for streamers exists! We just gotta make our own luck when it comes to that!
 Haruka: Hehe... For now, let's just focus on making our New Year's stream a good one!
 Minori: Yeah!!
-(White cut)
+(White transition)

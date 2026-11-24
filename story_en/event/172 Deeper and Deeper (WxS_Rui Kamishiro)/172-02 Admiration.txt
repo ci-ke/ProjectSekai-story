@@ -41,7 +41,7 @@ Rui: (But I might've just been imagining things.)
 Workshop Host: Thank you very much, Mr. Sakaki.
 Workshop Host: Our second guest will be joining us remotely from abroad due to some scheduling issues.
 Workshop Host: He's...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Wonderland SEKAI]
@@ -67,10 +67,8 @@ Rui: It's just... Somehow it hasn't entirely sunk in for me, I suppose.
 MEIKO (WxS): What hasn't sunk in?
 Rui: ArcLand invited two guests to come and teach us during this workshop.
 Rui: The first is Koryu Sakaki, one of Japan's most renowned directors. The second is...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Director: <It doesn't matter if you're rich or poor, clever or foolish, among the majority or minority...>
 Director: <All people laugh, cry and feel anger in the same way...>
@@ -78,10 +76,8 @@ Director: <That is what ties us all together after bearing witness to a truly ma
 Director: <My goal is to keep making shows that do just that.>
 Director: <I believe that is the key to humanity becoming one... I believe that there's something unimaginably special awaiting us at the end of that path!>
 Little Rui (Rui): ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: Tom Gray.
 Rui: A director I admire very much.
@@ -103,4 +99,4 @@ Luka (WxS): Rui... I believe in you...♪
 MEIKO (WxS): That was pretty clear, for sleep talk.
 Rui: Hehe...
 Rui: Thank you all very much. I plan on learning as much as I possibly can.
-(Black cut)
+(Black transition)

@@ -8,14 +8,14 @@ nightcode_01_00 オープニング
 (Fullscreen text): 体が弱いお母さんのために、 　  お父さんが曲を作って   プレゼントしたオルゴール
 (Fullscreen text): 作曲家のお父さんが作る曲は、   優しくて、あたたかくて…… 聴くと、幸せな気持ちになれた
 (Fullscreen text): いつか、わたしもお父さんみたいな曲を 　　　  作りたいって思ってた。 　　　　　　　でも……
-(Black cut)
+(Black transition)
 (Background change)
 (Fullscreen text): お父さんは、もう曲を作れない
-(Black cut)
+(Black transition)
 (Fullscreen text): わたしのせいで――作れなくなった
-(Black cut)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(Black transition)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
 中学生の奏 (奏): ……お父さん
 中学生の奏 (奏): わたしの曲が、お父さんを苦しめてた……。 わたしが……わたしが…………
 中学生の奏 (奏): わたしが、お父さんから音楽を奪ったんだ……
@@ -24,7 +24,7 @@ nightcode_01_00 オープニング
 中学生の奏 (奏): どんな人でも救える曲を
 中学生の奏 (奏): ……作らなくちゃ……作らなくちゃ…………
 中学生の奏 (奏): わたしは……作り続けなくちゃ
-(Black cut)
+(Black transition)
 (Background change)
 
 [２年後]
@@ -77,7 +77,7 @@ nightcode_01_00 オープニング
 奏: ……ちょっと待って。 何を言ってるのか本当に……
 ミク (N25): もう、時間がない。 奏。どうかあの子を……
 ミク (N25): ――救ってあげて
-(White cut)
+(White transition)
 奏: ……っ！！
 (Background change)
 (Place: 奏の部屋)
@@ -89,13 +89,13 @@ nightcode_01_00 オープニング
 【雪】: 『ゆっくり休んでね。また明日』
 奏: だいぶ前に送られてきてる。 そんなに寝ちゃってたんだ
 奏: 睡眠不足……かな。 少し、仮眠を…………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
-(White cut)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000004/bg_a000004.webp)
+(White transition)
 (Background change)
 奏: ……ダメ
 奏: わたしは、作り続けないといけない
 奏: 誰かを――救える曲を
-(Black cut)
+(Black transition)
 (Video: school_refusal_opening)
-(Black cut)
+(Black transition)

@@ -10,24 +10,20 @@ Skill name: Watching Over Closely
 
 Len: ...
 Len: (Mafuyu...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Ena: Why can't you just tell her to not look? She might be your mother, but she has no right to just rummage through your computer without your permission.
 Mafuyu: Yes, that may be so...
 Mafuyu: But I think she did it because she was worried about me...
 Ena: Being worried about you doesn't give her permission to do what she did.
 Ena: Seriously, weren't you bothered by what happened? This is usually when you have to put your foot down.
 Mafuyu: I...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Len: (I wonder how Mafuyu feels after what happened. She didn't look all that good...)
 Len: (Isn't there anything I can do for her...?)
 Len: Oh, I know...!
-(Black cut)
+(Black transition)
 MEIKO: ...
 Len: (There's MEIKO... But is it really okay for me to go talk to her...?)
 MEIKO: ...
@@ -37,7 +33,7 @@ Len: ...
 MEIKO: *Sigh* What are you doing hiding over there, Len? 
 Len: Th-There's...! There's something I want to ask you...
 MEIKO: Me...?
-(Black cut)
+(Black transition)
 Len: Oh...
 Rin: Okay, next... Move the string off of your thumb and try to take the outermost string from below.
 Luka: Like this...? Alright, what's next.
@@ -47,7 +43,7 @@ Rin: Unfortunately, she's had to remake it a bunch of times after messing up the
 Luka: It's quite difficult, so it seems only natural for me to run into walls and make some mistakes.
 Rin: You've sort of been plowing through then... Anyway, did you need something?
 Len: Oh, um... The thing is...
-(Black cut)
+(Black transition)
 Miku (N25): ♪—— ♪——
 Miku (N25): Oh, Len...?
 Len: Sorry, Miku... I didn't mean to interrupt your singing.
@@ -64,7 +60,7 @@ Len: Luka mentioned this other time when she gave some advice to Kanade.
 Len: And now I want to hear from you, Miku...
 Miku (N25): *Nod* Okay.
 Len: Th-Thanks...!
-(Black cut)
+(Black transition)
 MEIKO: Are you here to see how Len's doing...?
 Luka: Hehe. Very astute of you.
 Rin: He's been wandering all around SEKAI because he's been worried about Mafuyu...
@@ -77,8 +73,8 @@ MEIKO: Which would explain why he came to speak with all of us.
 Luka: I agree. Regardless, I'm sure Miku will know what to tell him.
 Luka: I mean, she's been here the longest and knows the others the best out of all of us.
 Rin: Yeah...
-(Black cut)
-(Black cut)
+(Black transition)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -90,7 +86,7 @@ Rin: Yeah...
 Len: <Um... I'm gonna head back to SEKAI for a bit...>
 Ena: Sounds good. I'm sure you're still concerned about Mafuyu, so feel free to come back whenever.
 Len: <Okay...>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -121,7 +117,7 @@ Miku (N25): But until then, Len, would you mind telling me more about how Ena an
 Len: Yeah, sure. At first, Ena seemed kinda mad at Mafuyu.
 Len: But that was actually because she was really worried about her...
 MEIKO: ...
-(Black cut)
+(Black transition)
 Rin: ...
 MEIKO: If you're that concerned, why not just go over and join them...?
 Rin: I was gonna... But I sort of couldn't after Luka got a hold of me.
@@ -135,4 +131,4 @@ Luka: Oh, Len. He really did wander around aimlessly for quite a while.
 Luka: Miku seemed rather concerned, and you, Rin, even began following him to see how he was doing...
 Rin: I was curious, okay? I mean, he was wandering for so long...
 Rin: He always causes such a big fuss.
-(Black cut)
+(Black transition)

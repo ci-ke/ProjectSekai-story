@@ -15,7 +15,7 @@ Rui: In any case, I should try to tidy up... That should make it easier to find 
 Rui: Now then...
 Rui: (If it weren't so late at night, I'd move everything out of my room and back in one by one...)
 Rui: For now, I'll just move the things I need off to the left and whatever I don't to the right...
-(Black cut)
+(Black transition)
 Rui: Phew... I've mostly divided everything up into a couple nice piles.
 Rui: But despite all this cleaning and sorting, I still can't seem to find that breadboard...
 Rui: Where did past me put it a few days ago?
@@ -24,18 +24,14 @@ Rui: Oh, how nostalgic...! This is the dog robot I tried to make all those years
 Rui: If I recall, I wasn't happy with the way his legs and tail moved. My plan was to rebuild his joints from scratch...
 Rui: But I had trouble acquiring the parts I wanted, which ended with me putting everything on hold.
 Rui: Oh, speaking of joints...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Rui: The time has come for the bird robot I made for our shows to rise once more...
 Rui: As Robo-Phoenix!
 Tsukasa: Ah, it's up! Time to catch you!!!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: The joints I used for Robo-Phoenix's wings might just be what Robo-Dog's legs and tail need.
 Rui: Hehehe. Alright, cleaning time's over.
@@ -44,7 +40,7 @@ Rui: Oh, also! If I want him to move like a real dog, I should make him look lik
 Rui: The right pile should have just what I need...
 Rui: Yes, this...! I can put something I was going to throw out to good use! Two birds with one stone!
 Rui: Alright, let's get started!
-(Black cut)
+(Black transition)
 
 [A few hours later]
 
@@ -65,7 +61,7 @@ Rui: If I want to learn how to make him behave like a real dog, then I should go
 Rui: *Yawn*
 Rui: For now, I should go to sleep...
 Rui: Good night...
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -133,4 +129,4 @@ Tsukasa: Woof! Pant...! Pant...!
 Rui: Alright, it wouldn't be fair for me to do nothing. Let me also give it a try.
 Rui: *Whimper* Arf... Hm...?
 Nene: I don't think dogs are supposed to be so in-your-face...
-(Black cut)
+(Black transition)

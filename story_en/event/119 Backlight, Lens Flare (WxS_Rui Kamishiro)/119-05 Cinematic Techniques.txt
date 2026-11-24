@@ -31,7 +31,7 @@ Rui: (It's only been a few days since I started working as his assistant...but I
 Rui: (It goes to show that nothing beats real-life experience.)
 Rui: (But we have to wrap everything up in a few weeks, so I need to keep doing my best until then.)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few weeks later]
@@ -118,7 +118,7 @@ Reki: I promise to nail it during the next take.
 Tsukasa: Bakuno...
 Ohara: Understood. Then, take two.
 Ohara: Action!
-(Black cut)
+(Black transition)
 Reki: ... How was that...?
 Ohara: No, still wrong. As you mentioned earlier, Bakuno, what you just did would work well on stage, but it doesn't translate well to film.
 Reki: ...
@@ -144,4 +144,4 @@ Rui: (But the director's right. We can shoot retakes all we want, but that alone
 Rui: (They only have until tomorrow.)
 Ohara: ...
 Rui: (I'll also try to figure out what the problem is.)
-(Black cut)
+(Black transition)

@@ -27,7 +27,7 @@ Luka: <Great idea! Do you know how to tie the right knots?>
 Shizuku: Yes, I think I still do. I learned how to for an educational show once. Do you think this will work...?
 Luka: <I believe in you. I'm sure you can do it, Shizuku!>
 Shizuku: Thanks, Luka...! I'll give it a try!
-(Black cut)
+(Black transition)
 (Background change)
 Airi: It's really starting to come down. That ledge is gonna be way too wet to climb up now...
 Ena: What do we do? It'll be dark soon too...! If we can't get back up, does that mean we'll...?
@@ -42,21 +42,17 @@ Airi: Even after you couldn't get into that art school, even as no one appreciat
 Airi: You overcame all those things and never gave up! You're a fighter, Ena!
 Ena: Airi...
 Airi: So buck up! We have to believe in Mizuki too!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Mizuki: I'll be fine! I promise to be right back with help!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Ena: Believe in... Yeah, I'm sure Mizuki will...
 Mizuki's Voice (Mizuki): Hey, you guys!!
 Ena: Wait, was that Mizuki's voice...?
-(Black cut)
+(Black transition)
 (Background change)
 Mizuki: I'm back!! I brought help too!!
 Shizuku: Mizuki!
@@ -75,7 +71,7 @@ Mizuki: Nice work, Shizuku!
 Rui: You've tied these together very well. I believe this will do...
 Nene: Okay, let me tie the other end of the rope to here and...
 Rui: Alright, everyone... Pull!
-(Black cut)
+(Black transition)
 Ena: W-We made it... I thought we were goners...!
 Airi: The rain really didn't help, but great work hanging in there, Ena!
 Ena: You too, Airi. I don't even want to think about what might've happened if Mizuki and Shizuku weren't here either...
@@ -100,11 +96,11 @@ Ena: Um, Mizuki...
 Mizuki: What's up?
 Ena: Wasn't that your favorite outfit? I feel terrible about it getting ruined like that. I'm so sorry...
 Mizuki: What, this? I did like it, but I can just buy something else, right? More importantly...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000072/bg_a000072.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000072/bg_a000072.webp)
 Mizuki: You're safe now and that's what matters most.
 Ena: Mizuki...
-(White cut)
+(White transition)
 (Background change)
 Mizuki: And you're not hurt at all?
 Ena: I'm fine, really...
@@ -116,4 +112,4 @@ Ena: (It's been a while since I saw that look on Mizuki's face...)
 Ena: (I want to help. I have to help...)
 Ena: (I don't care if Mizuki doesn't feel like talking, I don't want to see that expression again...)
 Ena: (I mean, Mizuki's my...)
-(Black cut)
+(Black transition)

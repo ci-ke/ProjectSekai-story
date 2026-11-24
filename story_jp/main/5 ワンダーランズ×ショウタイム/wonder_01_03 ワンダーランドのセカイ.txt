@@ -14,21 +14,21 @@ wonder_01_03 ワンダーランドのセカイ
 ミクの着ぐるみ: いいヨー！　ちょっとまってヨー！
 ミクの着ぐるみ: ……うまく脱げないヨー
 司: ま、まあ、その手じゃそうだろうな。 しかたあるまい。頭を引っ張ってやろう。……よっと！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000015/bg_a000015.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000015/bg_a000015.webp)
 ミク (WxS): ふー、すっきりした～☆
 司: ………………へ？ は、初音、ミク…………？
 ミク (WxS): うんっ♪　ミクだよ～っ☆
-(White cut)
+(White transition)
 (Background change)
 司: いや……ハハ、まさか。 ミクはアレだぞ？　バーチャル・シンガーだぞ？
 司: ……そうかわかった！　これはトリック映像だな！
 司: な、なんだ？　今の音は
 ミク (WxS): あー！　ショーの準備をしなくっちゃっ！ いそごういそごうレッツゴ～♪
 司: ちょ、なんだ！　急に押すな！　 一体どこに連れて行く気だ！？
-(Black cut)
+(Black transition)
 司: ん？　あそこに見えるのはテント……いや、ステージか？
-(Black cut)
+(Black transition)
 (Background change)
 KAITO: よし、小道具は揃ってるね。照明もバッチリだ。 これで今日もいいショーができそうだね
 えむ: うんうんっ♪ 楽しみだね、カイトお兄さん！
@@ -42,7 +42,7 @@ KAITO: ミク。わざわざ連れてきてくれたんだね、ありがとう
 司: しかしこのステージ、どこかで見たことがあるような……？
 KAITO: はじめまして司くん。 僕はカイトだよ。よろしくね
 KAITO: 突然知らない場所に来て、びっくりしたよね。 開演時間まで、少し話をしようか
-(Black cut)
+(Black transition)
 司: オレの想いから生まれたセカイ……？
 KAITO: そう、ここはキミの想いから生まれた場所なんだ
 司: そういえばミクもそんなようなことを言っていたな。 新世界が生まれるなど、にわかに信じがたいが……
@@ -78,4 +78,4 @@ KAITO: ……例えば、ほら
 司: お、おい寄るな！　こっちに来るなー！ ……うおおっ！？
 ミク (WxS): あっ！　いま、頭うっちゃったんじゃない！？
 えむ: 司くん！　つかさくーん！！
-(Black cut)
+(Black transition)

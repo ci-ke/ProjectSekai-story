@@ -3,11 +3,11 @@
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 鏡音レン, MEIKO)
 
 (Video: link_ppr_op3)
-(Black cut)
+(Black transition)
 (Background change)
 レンの声 (レン): ま、まぶしいよ～！
 MEIKO: ……っ、ここは……
-(White cut)
+(White transition)
 (Background change)
 凪: ♪————————！！
 大河・謙: 『♪————————！！』 『♪——！！　——！！』
@@ -40,10 +40,10 @@ MEIKO: あの歌声は——
 中学生の杏 (杏): よーし！　もっと練習しよっと！
 MEIKO: （……杏ちゃん、頑張ってるわね）
 MEIKO: （この頃から情熱的で、歌と凪さんのことが大好きで）
-(Black cut)
+(Black transition)
 (Background change)
 中学生の杏 (杏): ——！　——！！
-(Black cut)
+(Black transition)
 (Background change)
 中学生の杏 (杏): ふう……
 中学生の杏 (杏): （今日歌ってる人達、みんなうまいな……）
@@ -60,19 +60,15 @@ MEIKO: （この頃から情熱的で、歌と凪さんのことが大好きで�
 中学生の杏 (杏): ……ごめんなさい。 私、今はそういうの考えてなくって
 ミュージシャン: そっか……。 もし相棒がほしくなったら声かけてよ
 中学生の杏 (杏): はい、ありがとうございます！
-(Black cut)
+(Black transition)
 (Background change)
 中学生の杏 (杏): （相棒、か……）
 中学生の杏 (杏): （私も……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 中学生の杏 (杏): （凪さん達みたいな、 一緒に夢を目指して歌える相棒はほしいけど）
 中学生の杏 (杏): （なんか、この人だ！って思える相手に 出会えないんだよね……）
@@ -89,4 +85,4 @@ MEIKO: （……苦しいでしょうね）
 MEIKO: でも、大丈夫よ。 だって——
 MEIKO: ――あなたの歌は、未来を動かしたんだから
 (Background change)
-(Black cut)
+(Black transition)

@@ -9,29 +9,25 @@ Kohane: (That girl today was so cool. People who are working hard to achieve the
 Kohane: I've never heard that song she was singing before. I wonder if I could find a video or something online.
 Kohane: I think the chorus was something like this...
 Kohane: I guess that's not really enough to go on. I should probably get started on my homework, but...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 An: ♪——!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kohane: Maybe I'll try searching just a bit longer.
 ???: <I found you.>
 Kohane: Huh?
 Kohane: My phone just!
-(White cut)
+(White transition)
 Kohane: A Miku...hologram?
 Miku (VBS): <Hello there, Kohane. I'm the Miku from your SEKAI. Nice to meet you.>
 Kohane: Huh?!
 Kohane: H-How do you know my name?
 Miku (VBS): <Hehe. Let's talk about this in your SEKAI. You should come visit soon. Everyone is waiting.>
 Kohane: Wh-What?!
-(White cut)
+(White transition)
 Kohane: Wh-What was that all about? What did she mean, Miku from my SEKAI?
 Kohane: Oh, this is it! This is the song that girl in the restaurant was singing!
 Kohane: I can't believe I found it! Hehehe. I wonder if that strange Miku had something to do with it.　
@@ -41,7 +37,7 @@ Kohane: ～～♪　～～♪
 Kohane: Hm... I think the rhythm is different, too. That girl's version sounded a lot smoother than this.
 Kohane: ——♪ ——♪
 Kohane: I don't know... This part sounds a little more like it, but...
-(Black cut)
+(Black transition)
 (Background change)
 
 [One week later]
@@ -62,7 +58,7 @@ Minori: Really? I didn't realize there were places like that! A cafe where you c
 Minori: Live music always sounds so much better! I think the same thing every time I go to an idol concert. It's like...you can feel the music reverberating inside you.
 Kohane: Reverberating?
 Kohane: (I wonder if I could feel that same sensation again if I went back and saw that girl again...)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Vivid Street]
@@ -74,7 +70,7 @@ Kohane: If I remember correctly, Weekend Garage is just around this corner.
 ??? (Toya): .....
 ??? (Toya): (I could have sworn I just heard someone say Weekend Garage.)
 ??? (Toya): Oh well. I've still got a little time before I'm supposed to meet up with Akito. Might as well kill some time.
-(Black cut)
+(Black transition)
 Kohane: Found it! Weekend Garage!
 Kohane: .....
 Kohane: (Is it really okay for me to go back in there...?)
@@ -82,7 +78,7 @@ Kohane: (I ran out on that girl last time... I probably didn't leave a very good
 Kohane: .....
 Kohane: No. I already made up my mind that I'd come listen to that song again!
 Kohane: So... I've got to open the door!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Weekend Garage]
@@ -96,7 +92,7 @@ An: Hey, Dad! That cute girl who came in to check us out last week is back!
 An's Father: Is that so? Welcome.
 An: Welcome to Weekend Garage!
 Kohane: !!
-(Black cut)
+(Black transition)
 (Background change)
 
 [???]
@@ -105,4 +101,4 @@ Kohane: !!
 ??? (Len): Ah, don't tell me you already went to meet them.
 Miku (VBS): Yeah. Just a quick look, though.
 Miku (VBS): I don't think it'll be much longer before they come visit.
-(Black cut)
+(Black transition)

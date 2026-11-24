@@ -145,7 +145,7 @@ Mafuyu: If I took it now...?
 Mafuyu: (I probably would pick something other than a dragon, but what...?)
 Mafuyu: ...
 Mafuyu: That can wait... For now, I need to work.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -188,15 +188,11 @@ Kanade: <Which is why I plan on living alone for the foreseeable future. She eve
 Mafuyu: <I see...>
 (Background change)
 Mafuyu: (She has Ms. Mochizuki to look after her now, so she'll at the very least eat right...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: <Still, K, I think you should make better use of your room.>
 Kanade: <Huh?>
@@ -212,7 +208,7 @@ Kanade: <Thank you for showing so much concern for me, Yuki.>
 Mafuyu: <Huh...?>
 Mafuyu: (Concerned...?)
 Mafuyu: (This counts as being concerned about someone...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [That night]
@@ -231,7 +227,7 @@ Mafuyu: <Oh, I didn't know...>
 Mizuki: <I knew it. You missed all of that too...>
 Mizuki: <Did something happen...? Maybe we can help if something's bothering you...>
 Mafuyu: <I told K this earlier today...>
-(Black cut)
+(Black transition)
 (Background change)
 Ena: <Interesting. You showed genuine concern for K...>
 Mafuyu: <Does that really count as being concerned...?>
@@ -244,20 +240,16 @@ Mafuyu: <Healthy...?>
 (Background change)
 Ena: <Yeah, she's probably fine now, but a part of me is still worried considering how she had to go to the hospital once already.>
 Mizuki: <I get what you mean since K sort of reinforced that composing still takes top priority based on that story.>
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kanade: I'll keep composing.
-(White cut)
+(White transition)
 (Background change)
 Kanade: Even if this song isn't able to save you, I'll keep composing until I find the one that does.
 Kanade: I'll keep composing...until you can find yourself.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: (Do I want her to stay healthy because I want her to fulfill that promise...?)
 Mafuyu: <I have a better understanding now. Thank you, Amia, Enanan.>
@@ -279,4 +271,4 @@ Mafuyu: <Nevermind.>
 Kanade: <Huh...?>
 (Background change)
 Mizuki: <Hahaha.>
-(Black cut)
+(Black transition)

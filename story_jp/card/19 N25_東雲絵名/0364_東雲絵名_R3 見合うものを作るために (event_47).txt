@@ -17,24 +17,20 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 絵名: ふう……
 絵名: （昨日は奏とまふゆの話が気になっちゃって、 うっかり手を止めちゃってたけど、これで巻き返せたかな）
 絵名: （２年前か……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 父親: やめておけ
 父親: お前に、画家になれるほどの才能はない
-(White cut)
+(White transition)
 中学生の絵名 (絵名): ……何、それ
 中学生の絵名 (絵名): じゃあ、私が今までずっと絵を描いてきたのも、 全部無駄だったってこと？
 中学生の絵名 (絵名): 才能がないから、努力しても意味がないってこと！？
-(White cut)
+(White transition)
 中学生の絵名 (絵名): もういい、あんたには頼らない……！ 私は私の力で、あんたよりすごい画家になってみせる！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: …………
 絵名: （あの時、本当にムカついて、 見返してやろうと思って絵の勉強もして……）
 絵名: （でも結局、いきたい絵の学校にはいけなかった）
@@ -44,11 +40,9 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 絵名: （悔しいのにちっとも絵で見返せなくて、 でも周りのみんなは どんどん自分が決めた進路に進んでいって……）
 絵名: （私だけ取り残されて、すごくみじめに思えて……）
 絵名: （でも——）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 中学生の絵名 (絵名): …………
 母親の声: 絵名……
 中学生の絵名 (絵名): ……っ！
@@ -58,31 +52,23 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 中学生の絵名 (絵名): は？
 母親の声: 桃井愛莉ちゃん。 あなたの友達だって、彰人から聞いたんだけど……
 中学生の絵名 (絵名): え……愛莉？
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 番組MC: 『——本日お越しいただいているのは、 注目の新人アイドルグループ“QT”の皆さんです！』
 愛莉: 『ラブリー☆　フェアリー☆　桃井～……愛莉～！！ みんなのハートをわしづかみ！　桃井愛莉ですっ♪』
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 中学生の絵名 (絵名): 愛莉……
 中学生の絵名 (絵名): （最後に会ったの、いつだっけ……）
 中学生の絵名 (絵名): （ああ、高校は宮女にいくって話を聞いた時かな。 でも、そんなに前じゃないはずなのに……）
-(Black cut)
+(Black transition)
 (Background change)
-
-(Memory cut-in)
-
-(Black cut)
+(Flashback in)
+(Black transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 中学生の絵名 (絵名): …………
 中学生の絵名 (絵名): すごいね、愛莉。 アイドルになるっていう夢を、かなえてて
 中学生の絵名 (絵名): なのに、私は……
@@ -92,18 +78,16 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 中学生の絵名 (絵名): ほ、本当！？　ねえ、見ていい？
 母親: いいわよ。ついでに、ご飯も食べていったら？
 中学生の絵名 (絵名): ……うん、そうしよっかな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: あの時、テレビでアイドルとして頑張ってる愛莉を見て、 私もまた頑張ろうって思えたんだよね
 絵名: 今思うと、私って誰かに助けてもらってばっかりだな
 絵名: 前のシブヤアートコンクールの時も 奏の曲や、リンに励ましてもらったし
 絵名: ニーゴのイラスト担当なんだから、 やっぱり絵で力になってこそ、だよね！
 絵名: よし……！
 絵名: さっき完成って思ったイラスト、 もう少し良くできないか見返してみようっと
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -140,43 +124,35 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 絵名: （そういえば、まふゆが初めて作った曲は、 奏の曲のアレンジって言ってたな）
 絵名: （知識もゼロのまま、いきなり曲のアレンジから始めて、 あのOWNの曲を作れるようになったなんて）
 絵名: （センスや才能があったってことかもしれないけど……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 まふゆ: 『お母さんに卒業祝いに欲しい物を聞かれたけど、 どう答えたらいいかわからなくなってた』
 まふゆ: 『でもそれよりも、このまま変わらない……、 変われないっていうことのほうが、気になった』
 まふゆ: 『何も感じないまま、高校にいって、大学にいって、 ただ毎日を過ごしていくのかなって』
 まふゆ: 『だけど……』
 まふゆ: 『Kの曲を聴いて——心臓が揺さぶられた』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: （あの時、まふゆはずっと淡々と話してたけど……）
 絵名: （どこかに、このままじゃ嫌だって気持ちがあったのかな。 だから奏の曲を聴いて、自分でも曲を作り始めたとか……）
 絵名: （このままじゃ嫌、か……）
 絵名: （だから、OWNの曲は刺さったのかな）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 奏: 『雪が投稿した曲は、 初めて作った曲っていうぎこちなさもあったけど……』
 奏: 『でも、見えたんだ』
 奏: 『絶望しかない……ううん。 もう何も存在しない、そんな世界が——』
 奏: 『だから、あの世界に少しだけでも光を 届けられたらって思ったら、もう曲を作り始めてた』
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: （奏はああ言ってたけど、 まふゆが最初に作った曲ってどんな曲だったんだろ……）
 絵名: …………
 絵名: 『——ねぇ雪、ちょっといい？』
-(Black cut)
+(Black transition)
 絵名: データ、まふゆのところに残っててよかった
 絵名: （気になりだしたら、 イラストどころじゃなくなっちゃうし）
 絵名: ——よし、聴いてみよう
@@ -185,17 +161,13 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 絵名: （なんだろ、この……体の芯がどんどん冷えていく感じ……）
 絵名: （これを奏は『何もない』って表現してたんだ。 それで、少しでも光をって……）
 絵名: ……光、か
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 リン: ——♪　——♪
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 絵名: あの時、私ももらったな……
 絵名: …………
 絵名: ——よし！ いい加減、作業に戻らなくっちゃね
@@ -205,4 +177,4 @@ Gacha phrase: ふぁ……いったん寝ちゃおうかな
 絵名: もっとちゃんと、 奏が作ってくれた曲のイメージに近づけなくちゃ
 絵名: これじゃまだ、届いてない
 絵名: もういっそ、構図から思いきってきりなおそう。 もっとずっといい見せかたがあるはず！
-(Black cut)
+(Black transition)

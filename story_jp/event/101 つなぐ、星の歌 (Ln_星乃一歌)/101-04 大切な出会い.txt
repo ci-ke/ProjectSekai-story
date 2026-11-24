@@ -39,19 +39,15 @@
 寧々: あ……えっと…… こうやって星乃さんと仲良くなれたのは、 歌のおかげだなって思って
 寧々: 星乃さんとは、学校も違うし…… 本当だったら全然話す機会もなかったかもしれなくて……
 寧々: だけど、あの時——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 一歌: 私、草薙さんの歌を聴いて、感動したんです。 草薙さんみたいに歌えるようになりたくて……！
 寧々: わ、わたし、みたいに？
 一歌: はい……！
 一歌: だから……もしよければ、私に歌を教えてくれませんか？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: 星乃さんが歌を教えてほしいって 声をかけてきてくれたから、仲良くなれたんだなって
 一歌: そういえば……そうだったね
@@ -60,7 +56,7 @@
 一歌: 草薙さん。 歌を教えてくれて、本当にありがとう
 寧々: う、うん……。 改めて言われると、ちょっと恥ずかしいけど……
 寧々: ——えっと、そろそろ歌の練習……始めよっか
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -106,15 +102,11 @@
 一歌: あ……
 一歌: （たしかに……そうかも。 奏さんとは、ミクをとおして仲良くなったんだ……）
 一歌: （……ううん。奏さんだけじゃない）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: （セカイで出会ったミクのおかげで、私達はまたつながって……）
 一歌: （４人でバンドを始めたことで、 もっとたくさんの人達とつながっていった）
@@ -124,17 +116,13 @@
 一歌: その中でも、ミクが一番、 私をたくさんの人達とつなげてくれたんだ
 奏: ……じゃあ、星乃さんにとって、 一番大事な出会いはミクだったのかもね
 一歌: あ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ミク: ♪————————！
 幼い一歌の声 (一歌): ……！　わぁ……！　すごい！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: はい……！　きっと、そうだと思います
-(Black cut)
+(Black transition)

@@ -11,20 +11,16 @@ Gacha phrase: ……すごく、綺麗だと思う
 
 奏: えっと、あのブランドのサイトは……あ、あった
 奏: へえ、オンラインショップ限定の商品もあるんだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: 天馬さんに教えてもらわなかったら、 アウトドア系の服を買おうなんて思わなかったな
 奏: 服以外にも小物とか、アウトドア用品がたくさんある。 寝袋とか、携帯用のランプとか……
 奏: ……こういうサイト、普段見ないから新鮮だな
-(Black cut)
+(Black transition)
 まふゆの声 (まふゆ): ……奏。今、いい？
 奏: あ、うん。大丈夫だよ
 まふゆ: ……晩ご飯、どうする？ 食べるなら一緒に温めるけど
@@ -64,7 +60,7 @@ Gacha phrase: ……すごく、綺麗だと思う
 奏: うーん。でも、使い勝手も着心地もよさそうだし……
 奏: 少し目立つくらいなら、別にいいかな
 まふゆ: ……奏が気にしないなら、いいんじゃない
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -163,4 +159,4 @@ Gacha phrase: ……すごく、綺麗だと思う
 (Background change)
 まふゆ: 『……本当に出かけるの？』
 奏: 『えっと……どうしようかな……』
-(Black cut)
+(Black transition)

@@ -34,18 +34,18 @@
 観客達: 『ひゅー、サイッコー！！』
 社長: （…………驚いた）
 社長: （リズムに同調して、少しずつ観客達の空気が—— 熱が、彼に集中していっている）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000512/bg_s000512.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000512/bg_s000512.webp)
 彰人: ♪————————————！！
 彰人: （言葉がろくに通じなくて、名前すら知られてなくても—— そんなもん、関係ねえ）
 彰人: （這いつくばってでも、できることは全部やる）
 彰人: （必要なもんをかき集めて、超えてやる）
 彰人: （………………いけ）
 彰人: （いけ————！）
-(White cut)
+(White transition)
 (Background change)
 彰人: ♪————————————！！！
-(Black cut)
+(Black transition)
 彰人: はあ……はあ……
 彰人: （——集中しすぎて、途中から周り見る余裕がなかったな）
 彰人: （今までよりも、わいてる感触はあったが……）
@@ -78,17 +78,13 @@
 彰人: （これで——RUSH BEATSに出場できる）
 彰人: （あいつらにも心配かけたが……胸張って報告できそうだ）
 彰人: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （これでやっと、スタートラインだな）
 彰人: （RUSH BEATSで勝ち進めなきゃ、世界には届かねえ）
 彰人: （ここからが——勝負だ）
-(White cut)
+(White transition)

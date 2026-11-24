@@ -16,17 +16,13 @@
 まふゆ: （最近、ずっとこうだ。 小さな物音がするだけで、すぐに集中が切れる）
 まふゆ: （……このあいだの期末テストの時も、 なんだか集中できなかった）
 まふゆ: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 まふゆの母: ——まふゆ？
 まふゆの母: …………
 まふゆの母: ……気のせいだったみたいね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 まふゆ: （お母さんは…… 私のことを心配して、様子を見にきてるだけ……だと思う）
 まふゆ: （思う、けど——）
 まふゆの母: まふゆ、調子はどうかしら
@@ -46,7 +42,7 @@
 まふゆ: …………
 まふゆ: （もう、寝なくちゃいけないけど…… 今日の分、まだ全然進められてない）
 まふゆ: ……もう少しだけ、勉強しよう
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -60,16 +56,12 @@
 まふゆ: ……あ……
 まふゆ: （思った以上に、下がってる……）
 まふゆ: （………………どうしよう……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: まふゆも力を入れて頑張っていたし、結果が楽しみね
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 教師: ……朝比奈さん？　大丈夫？
 まふゆ: す、すみません。 大丈夫です
@@ -78,7 +70,7 @@
 まふゆ: ……いえ、何も……
 教師: ……そう？　もし何かあれば、遠慮なく相談してね
 まふゆ: はい……。 ありがとうございます……
-(Black cut)
+(Black transition)
 (Background change)
 
 [朝比奈家　リビング]
@@ -89,7 +81,7 @@
 まふゆ: ——ううん、まだみたい。 先生が忙しいみたいで、採点が遅れてるんだって
 まふゆの母: あら……先生も大変ね。 早く返ってくるといいわね
 まふゆ: ……うん
-(Black cut)
+(Black transition)
 (Background change)
 まふゆ: （……テストのこと、言えなかった……）
 まふゆ: （でも……いつまでも隠せるわけない。 早く、お母さんに伝えなきゃ）
@@ -99,4 +91,4 @@
 まふゆ: （——もうすぐ次の模試がある）
 まふゆ: （そこで取り返して、一緒に渡せば…… まだ、大丈夫かも……）
 まふゆ: ……次、取り返せれば……
-(Black cut)
+(Black transition)

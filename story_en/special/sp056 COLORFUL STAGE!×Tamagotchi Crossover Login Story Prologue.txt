@@ -6,7 +6,7 @@ sp56 COLORFUL STAGE!×Tamagotchi Crossover Login Story Prologue (collaboration_t
 
 Miku: ♪—— ♪————
 Miku: ♪———— ♪~~~
-(White cut)
+(White transition)
 ???: Wow! Your voice is so lovely!
 Miku: Huh?
 Miku: You're...
@@ -25,10 +25,8 @@ Miku: Tamagotchi Town on...Tamagotchi Planet?
 Mametchi: It seems you're unfamiliar. In that case, I'll take a moment to explain things!
 Mametchi: I'm a student at Tamagotchi School in that town.
 Mametchi: As part of our day-to-day classes, we've been tasked with putting on a choir recital in small groups...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [Tamagotchi School - Schoolyard]
@@ -47,10 +45,8 @@ Mametchi & Mimitchi: ——♪ ————♪ ——♪ ——~~♪
 Memetchi & Kuchipatchi: ♪—— ♪————! ~~♪ ~~~♪
 Mametchi: We continued practicing for a while after that, but we just couldn't get in sync...
 Mametchi: And so, I built a sleep-learning machine that could teach us the song by repeatedly playing a model performance for us.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku: A sleep-learning machine?! You can make something like that, Mametchi?
 Mametchi: Hehehe. Inventing things is my hobby!
@@ -76,4 +72,4 @@ Miku: (We often hear singing and music from those SEKAI, since they're connected
 Miku: (And it's also connected to the unfinished SEKAI that belongs to our friend who watches over them with us...)
 Miku: (What if...?)
 Miku: (Maybe all of our friends are making fun new connections, the same way I've met Mametchi.)
-(Black cut)
+(Black transition)

@@ -2,7 +2,7 @@
 
 (Character: 東雲彰人, 鏡音レン, 巡音ルカ, MEIKO)
 
-(White cut)
+(White transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -12,13 +12,13 @@
 彰人: ルカさんとサシで……ですか？
 ルカ (VBS): うん！
 彰人: なんでまた、そんな話に……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000240/bg_s000240.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000240/bg_s000240.webp)
 ルカ (VBS): それはもちろん、 彰人くんに全部ドバーって出してもらうためだよ！
 彰人: それは……謙さんが言ってた、心のままに歌うってことですよね。 でも、ただサシで歌うだけじゃ……
 ルカ (VBS): ん～じゃあ勝負ってことにしようよ！ それなら、ちょっとやる気が出るんじゃない？
 ルカ (VBS): それとも、まさか勝負から逃げないよね～？
-(White cut)
+(White transition)
 (Background change)
 彰人: そういう安い挑発には あんまり乗りたくねえっすけど……
 彰人: （だが……）
@@ -62,17 +62,13 @@ MEIKO (VBS): そうね。 でもこの歌は……？
 彰人: オレの、気持ち……？
 ルカ (VBS): そう！ 今まで彰人くんが感じてきたこと、たくさんあるはずだよ。 それをお互いぶつけあおうよ！
 彰人: オレが感じてきたこと……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: （今オレが……感じた……）
 彰人: ♪……————
@@ -99,16 +95,12 @@ MEIKO (VBS): だけど、ルカなら——
 彰人: （……不思議だ）
 彰人: （感情が、自然とわいてくる）
 彰人: （楽しさも、熱さも、悔しさも——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 謙: 心配するな。 お前はもう、必要なものを持ってる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: ……！ そうか……！
 彰人: 今オレの中にわいてきたものを、もっと歌に乗せれば……
@@ -124,4 +116,4 @@ MEIKO (VBS): だけど、ルカなら——
 彰人: ありがとうございます。 ルカさんのおかげで、コツが掴めた気がします
 ルカ (VBS): ふふっ、よかった！
 ルカ (VBS): それじゃ彰人くんの全部、ドバーっと出してきてね！
-(Black cut)
+(Black transition)

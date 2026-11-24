@@ -22,13 +22,13 @@ Classmate A: Oh, busted... Please, help us with our studies again today, Lady Ma
 Mafuyu: Hehe. Thought so. The homework we got today looks pretty hard, after all. Alright. Today was only a half day, so let's study together.
 Classmate A: Thank you! You're a lifesaver!
 Classmate B: Thank you, Mafuyu!
-(Black cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000018/bg_a000018.webp)
+(Black transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_a000018/bg_a000018.webp)
 Classmate A: My head feels like it's going to burst! Can we take a break?
 Mafuyu: We haven't even been at it an hour, you know.
 Mafuyu: I guess this is pretty hard, though. A short break might be a good idea.
 Classmate A: Yay!
-(White cut)
+(White transition)
 (Background change)
 Classmate A: Mafuyu, you're so nice. You never get upset and you never brag about having good grades or being good at sports!
 Classmate B: Yeah. Sometimes it's hard to believe people like you actually exist!
@@ -44,7 +44,7 @@ Classmate B: Mafuyu! Why couldn't I have been born as your little sister!
 Mafuyu: Ah! Watch out! You can't just glom onto people like that.
 Mafuyu: Alright, you two. Break time's over. Time to get back to studying.
 Classmate A & B: Yes, ma'am!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -91,7 +91,7 @@ Mafuyu's Mother: Anyway, I'll be back in a little while.
 [Yuki] (Mafuyu): <Oh, yeah, I'm fine. That kind of stuff doesn't really bother me, I guess. I was just thinking how people can view these things differently.>
 [Amia] (Mizuki): <I see. Everybody's different, I guess. If it doesn't bother you, then great. Oh, sorry for talking so long. I should get back to work.>
 [Yuki] (Mafuyu): <I should get some work done, too.>
-(Black cut)
+(Black transition)
 (Background change)
 [Yuki] (Mafuyu): <Phew... This seems like a good place to stop for now.>
 Mafuyu's Mom's Voice: Dinner's ready!
@@ -99,7 +99,7 @@ Mafuyu: Okay!
 (Background change)
 [Yuki] (Mafuyu): <Amia, I'm going to log off for a while. I'll be back on later tonight.>
 [Amia] (Mizuki): <Okay! Later!>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Asahina Household - Living Room]
@@ -121,28 +121,24 @@ Mafuyu's Father: Hey now, stop babying Mafuyu. She's more than capable of making
 Mafuyu's Father: She's our pride and joy, after all.
 Mafuyu: .....
 Mafuyu: Yes, you're right. Don't worry, I'll think it through carefully.
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Mafuyu's Room)
 Mafuyu: .....
 Mafuyu: So annoying...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Teacher: Great job as usual, Ms. Asahina.
-(White cut)
+(White transition)
 Classmate: We'd be happy to do something you'd like to do, you know.
-(White cut)
+(White transition)
 (Background change)
 Mafuyu's Mother: Just make sure you give it plenty of thought, okay?
-(White cut)
+(White transition)
 Mafuyu's Father: She's our pride and joy, after all.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mafuyu: What I want to do...
 Mafuyu: Does such a thing even exist?
@@ -150,4 +146,4 @@ Mafuyu: I just don't know...
 Miku (N25): Mafuyu.
 Mafuyu: Miku...
 Mafuyu: I wish I could just stay in SEKAI forever.
-(Black cut)
+(Black transition)

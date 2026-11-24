@@ -35,7 +35,7 @@ MEIKO: ああ、ルカならまたどこかで寝ちゃってると思うから�
 MEIKO: みんな、旅行の準備とかいろいろあるでしょ。 忘れ物したら大変だし、そっちをまずやらないと！
 KAITO: そうだね。また詳しいことがわかったら、 その時改めて教えてほしいな
 司: わかった！　ではまたな！
-(Black cut)
+(Black transition)
 (Background change)
 MEIKO: ——というわけで、司くん達は海を渡って、 ライリードリームパークに遊びに行くことになったの♪
 ミク・リン・レン: 『いえーい♪』
@@ -77,7 +77,7 @@ KAITO: それなら、汽車で飛行機体験する時用のお菓子を 準備
 ルカ: わたしも、さんせ～。 それで、ふかふかの雲の上で、寝ながら食べるの～
 MEIKO: だから雲の上ってそういう意味じゃないってば！ あと、お行儀悪いわよ？
 みんな: 『あははっ』
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -98,7 +98,7 @@ MEIKO: じゃあ、結びかたも同じほうがいいかしら！
 MEIKO: は～い！　できあがりっ♪
 イヌのぬいぐるみ: オッ。意外ト似合ッテルゾ
 ネコのぬいぐるみ: 本当？　嬉シイナ！
-(Black cut)
+(Black transition)
 KAITO: ふう、お土産はこれで全部配り終えたかな？
 ルカ: ええ。ぴったり全部、配れたわねぇ～
 MEIKO: ルカは途中から、うとうとしてただけでしょうが
@@ -106,30 +106,22 @@ MEIKO: それにしても、 期待してた以上にアメリカはおもしろ
 ルカ: ふふ。遊園地、たくさん遊べたものね～
 MEIKO: ええ！　ショーの迫力もすごかったし、 アトラクションも世界観からしっかり作りこまれてて、 ワクワクが止まらなかったわ♪
 KAITO: そうだね。司くん達も、 それぞれ感じるところがあったみたいだし
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: ええ。それにえむちゃんも……
 MEIKO: えむちゃんの大事な物を、 えむちゃん自身が『大事なんだ』って 思いなおしてくれてよかったわ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: あたし、夢も現実も、どっちも ちゃんと見ていこうって思う！
 えむ: 夢ばっかり見ちゃいそうになったら、 これってホントにできるのかな？ってちゃんと考えて……
 えむ: 現実ばっかり見ちゃいそうになったら、えっと、 おふとんに入っていっぱいいっぱい夢を見るから……！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 KAITO: うん、本当に
 ルカ: んー。夢と現実って、バランスが難しいわよね～
@@ -164,4 +156,4 @@ MEIKO: もー、しょうがないわねえ。 ちょっとだけよ？
 ルカ: うふふ。ありがとう、めーちゃん♪ これでわたしも、い～っぱい夢が見られるわ～
 MEIKO: まったく、さっきのあれはそういう意味じゃないってば
 KAITO: あははっ
-(Black cut)
+(Black transition)

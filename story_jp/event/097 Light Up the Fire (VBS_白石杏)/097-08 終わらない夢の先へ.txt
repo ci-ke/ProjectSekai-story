@@ -7,16 +7,12 @@
 杏の父: ……これが、RAD WEEKENDを開催し、 RADderが解散するまでに至った、すべてのことだ
 杏: …………
 杏: 凪さん……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ちゃんと話して……『信じてる』って、伝えてほしい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: 凪……さん……
 杏: ……直接、言ってよ……
@@ -30,13 +26,13 @@
 杏: なのに……！
 杏: もう、いないなんて…………！
 杏: そんなの……酷いよ…………！！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000201/bg_s000201.webp)
 杏: ……う、うええ、うああああん……っ！！
 杏: 凪さん……！　凪さんっ……！
 杏: ステージ、一緒に立とうって……っ言ったじゃん……！！
 杏: 凪さん……………………！！
-(White cut)
+(White transition)
 (Background change)
 杏の父: ……凪は、最期までずっと、お前のことを想っていた
 杏の父: お前のことを信じていた。 ——オレ達の夢の、先を歩いてくれると
@@ -55,29 +51,21 @@
 杏: 凪さんの……父さん達の、夢の先……
 杏の父: ああ
 杏: 私は……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 大河: ♪————————————！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………っ
 杏: 私、は…………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: おーい！　杏ー！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: …………決めた
 杏: 私もう————迷わない
@@ -119,7 +107,7 @@
 (Background change)
 ？？？: 『う……』
 ？？？: 『う……う、う～……』
-(Black cut)
+(Black transition)
 (Background change)
 リン: う、うえ～～～ん……！
 MEIKO: ほらほらリン。 それ以上泣くと、目が腫れちゃうわよ
@@ -133,7 +121,7 @@ KAITO: ……でも、リンやレンの気持ちはわかるよ。 ボクも、
 ミク (VBS): ふたりとも、泣くのはここで終わり。 ……杏達が顔を上げて、前に進むことを決めたんだから
 ミク (VBS): 一緒に杏達の背中を、押していこう！
 リン: ——うんっ！！
-(Black cut)
+(Black transition)
 (Background change)
 杏: ——それじゃあ、まずは今後のこと考えなくちゃね
 冬弥: ああ。そうだな、まずは——
@@ -141,4 +129,4 @@ KAITO: ……でも、リンやレンの気持ちはわかるよ。 ボクも、
 杏の父: （お前の信じた次の世代は、 たしかにちゃんと……ここで育ってるぞ）
 杏の父: （——オレも、本腰入れねえとな）
 杏の父: （今のオレが、こいつらのためにできることは——）
-(White cut)
+(White transition)

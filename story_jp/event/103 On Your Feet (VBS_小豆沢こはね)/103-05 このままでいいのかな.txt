@@ -20,7 +20,7 @@
 杏: ……ほんと、参っちゃうよね。 今日だけでも、いろんなことあったし
 杏: ねえ、今は少し息抜きしない？ 甘いものとか食べてさ
 彰人: ……だな。 そうするか
-(Black cut)
+(Black transition)
 (Background change)
 
 [ストリートのセカイ]
@@ -33,19 +33,15 @@ MEIKO: あら、いらっしゃいみんな
 ミク (VBS): みんな、今日は颯真さんの病室に行ってたんでしょ？ どんな話したの？
 杏: あ……えっとね、新のこと話してきたんだ
 杏: 颯真さんの話だと——
-(Black cut)
+(Black transition)
 MEIKO: そう……。 もう街から出てしまったなんて、残念ね
 KAITO: ……うん。なんだか寂しいね。 せっかくみんな、いいチームになれたと思ったのに……
 こはね: いい、チーム……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: …………
 こはね: …………悔しいな……
@@ -56,15 +52,11 @@ KAITO: ……うん。なんだか寂しいね。 せっかくみんな、いい
 こはね: みんなでずっと一生懸命やってきて—— サードイベントみたいな良いイベントもできた
 こはね: 遠野さん達と一緒なら、 きっとRAD WEEKENDを超えられるって、そう思ってた
 こはね: それなのに……私——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 こはね: あの時、何もできなかった……
 こはね: 足から力が抜けて、もう……何もできないって思っちゃったの
@@ -80,4 +72,4 @@ KAITO: ……うん。なんだか寂しいね。 せっかくみんな、いい
 ミク (VBS): （……そっか。こはねは——）
 ミク (VBS): ——こはねは本当に、変わったね
 こはね: ……え？
-(Black cut)
+(Black transition)

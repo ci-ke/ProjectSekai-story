@@ -35,7 +35,7 @@ Mizuki: Hehe. I might just go and grab what I need on my way home today♪
 Ena: Sounds like a plan to me. Especially since that coupon's going to expire pretty soon.
 Ena: Anyway, I need to head inside. See you later on Nightcord.
 Mizuki: Okay. Bye bye!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Several dozen minutes later]
@@ -67,7 +67,7 @@ Mizuki: Yup! See you later on Nightcord!
 Mizuki: I really wasn't expecting to run into everyone like that.
 Mizuki: (If it gets me days like these...)
 Mizuki: (Maybe it's not so bad stopping in to school every once in a while.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -85,7 +85,7 @@ MEIKO (N25): Yes.
 Mizuki: Perfect! That's also where I'm headed, so wanna go together?
 MEIKO (N25): Follow me if you like. It's your choice.
 Mizuki: Okay. Then, let's go♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [Lake]
@@ -122,15 +122,11 @@ Miku (N25): Yes... Another is when she's with you and the others.
 Mizuki: Huh?
 MEIKO (N25): I agree... It's likely why she spent so much time looking for all of you in the dream.
 Mizuki: Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Mizuki: (She feels at ease with us...)
 MEIKO (N25): Mizuki?
@@ -147,4 +143,4 @@ Mafuyu: Anyway, I'll be going now.
 Mizuki: Uhh... Hey, Mafuyu.
 Mizuki: See you on Nightcord!
 Mafuyu: *Nod* See you later.
-(Black cut)
+(Black transition)

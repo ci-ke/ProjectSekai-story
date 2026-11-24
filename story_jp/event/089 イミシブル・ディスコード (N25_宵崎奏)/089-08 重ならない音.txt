@@ -13,16 +13,12 @@
 まふゆの母: 消え、たい……？
 奏: はい。それに——自分が何をやりたいのか わからないって言っていたんです
 奏: でも——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: 『今は、みんなと曲を作りたい、と思う』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: そんなまふゆが、わたし達と音楽をやりたいって 言ってくれたんです
 奏: だから——勉強も大事だとは思うんですけど、 サークルで活動することも許してもらえませんか？
@@ -50,10 +46,8 @@
 奏: （この人は……まふゆのことを、本当は考えてない）
 奏: （……考えてるって、思い込んでるだけだ）
 奏: （だって——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [数年前]
@@ -77,10 +71,8 @@
 奏の母: でも……奏が、奏自身が幸せに過ごしてくれれば、 お母さんは、それが一番幸せなのよ
 幼い奏 (奏): お母さん……
 幼い奏 (奏): ——うん！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （——あの時、お母さんはわたしのことを 一番に考えてくれてた）
 奏: （わたしの幸せ——わたしの、気持ちを）
@@ -104,8 +96,8 @@
 奏: （このままじゃ、駄目だ。 このままだと、まふゆはこの人に壊される）
 奏: （自分の想いを殺して、お母さんの願いを叶えようとして……）
 奏: （そしたら、まふゆは——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000175/bg_s000175.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000175/bg_s000175.webp)
 奏: ……今の気持ちをどう表現すればいいのかわからない
 奏: わたしは……あなたがまふゆのことを心配して 音楽をやめさせようとしてるんだって、 ここに来るまでは思ってた
 奏: でも……そうじゃなかった
@@ -117,12 +109,12 @@
 奏: わたしは……
 奏: わたしは——あなたにどう言われても、 まふゆのそばから離れない
 まふゆの母: …………そう、残念ね
-(White cut)
+(White transition)
 (Background change)
 まふゆの母: まふゆのことを本当に大切に想ってくれているのなら わかってくれると思っていたけど、 ……そうじゃないみたいね
 まふゆの母: そろそろ帰ったほうがいいわ。 おうちのかたも心配するだろうし
 奏: ……わかりました
-(Black cut)
+(Black transition)
 (Background change)
 まふゆの母: ——今日はありがとう、宵崎さん。 話せてよかったわ
 まふゆの母: でも、私達が今日会ったということは、 まふゆには秘密にしておきましょう
@@ -142,15 +134,11 @@
 奏: （……だけど、このままじゃ、まふゆは——）
 奏: （今のわたしにできるのは…… まふゆがいつ戻ってきてもいいように、曲を作り続けること）
 奏: （それと——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: （……今まで当たり前みたいに思ってたけど、 わたしはお母さんとお父さんに……深く愛されてた）
 奏: （その愛情を、まふゆにあげることは難しいけど……）
@@ -158,4 +146,4 @@
 奏: ……わたしには、それくらいしかできない
 奏: それしか、できない、けど……
 奏: ——もっと、まふゆのためにできることを、考えていこう
-(White cut)
+(White transition)

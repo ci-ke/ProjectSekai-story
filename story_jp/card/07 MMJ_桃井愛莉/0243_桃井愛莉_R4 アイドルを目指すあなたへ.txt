@@ -17,7 +17,7 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: （ただ、つなぎうんぬんを抜きにすれば、 雫とみのりの会話は結構盛り上がるのよねぇ）
 愛莉: （視聴者のみんなも、ふたりにつられるみたいに、 コメントでボケたりツッコミ入れたりしてくれるし）
 愛莉: （こういう生配信ならではの、 その場その場のノリも活かしていきたいわね！）
-(Black cut)
+(Black transition)
 愛莉: ——んーっ！ よし！　今週の分の配信は、全部振り返れた
 愛莉: あとは、さっき見つけた課題点を どう改善していくかだけど……
 愛莉: ふふ。こういう時は、 QT時代にトークの練習してた時のメモが参考になるのよね
@@ -30,11 +30,9 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: 懐かしい！　小さい頃に描いたアイドルの似顔絵とか、 衣装のイラストじゃない
 愛莉: 捨ててないはずだけど、 どこやったのかなーと思ってたら、ノートに挟んでたのね
 愛莉: ふふ、懐かしいなぁ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 幼い愛莉 (愛莉): アイドルってすごいな……。 歌って踊れて、みんなを笑顔にできて……
 幼い愛莉 (愛莉): しかもトークまでできちゃうなんて、すっごく楽しそう！
 愛莉の妹: お姉ちゃん、最近いつもその子見てるね。 そんなに好きなの？
@@ -46,11 +44,9 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 幼い愛莉 (愛莉): なら、アイドルのお仕事は、わたしに向いてるかも！
 幼い愛莉 (愛莉): きっとわたしなら、どんな広いステージでも 元気いっぱい歌って踊って、みんなも元気にできるよね！
 幼い愛莉 (愛莉): ……決めた！ わたし、アイドルになるっ！
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: …………
 愛莉: いろいろあったけど、 今もちゃんと、アイドルやれてるのよね
 愛莉: ふふ。小さい頃のわたしが知ったら、 どんな顔を……
@@ -60,7 +56,7 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: ん？
 愛莉: 今スマホが光ったような……。 あ……でも、メッセージが来たわけじゃないわね
 愛莉: ま、いっか。目覚ましは……うん、オンになってる。 ふぁ……、おやすみなさい
-(Black cut)
+(Black transition)
 (Background change)
 (Background change)
 
@@ -73,7 +69,7 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: あ。あそこで何か光ってる
 愛莉: 何かしら、照明にしてはちょっと大きいというか、 まんまるっていうか……
 愛莉: わっ！　今度は何！？
-(White cut)
+(White transition)
 (Background change)
 
 [？？？]
@@ -97,7 +93,7 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 幼い愛莉 (愛莉): ほんと！？　あはは、すごいねー！
 愛莉: そうねぇ。あはは……
 愛莉: （ほ、本当にどうなってるの！？）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -132,7 +128,7 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: （この子がわたしっていうのだけは、 間違いなさそうね）
 愛莉: お転婆さんだなんて言ってごめんなさい。 あなたの話、最後まで聞かせてちょうだい
 幼い愛莉 (愛莉): ……！　うん！
-(Black cut)
+(Black transition)
 幼い愛莉 (愛莉): ——それでね、いつも妹をいじめるイヤな男の子達がいて、 やめなさいって怒ってやるんだけど……
 幼い愛莉 (愛莉): そしたらね、わたしみたいな暴れん坊が アイドルになれるわけないって言われちゃったの
 愛莉: そう……
@@ -143,22 +139,22 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: ん……人の、声？
 幼い愛莉 (愛莉): あ！　あっちのほうにもテレビがあるよ！
 愛莉: そうね。行ってみましょうか
-(Black cut)
+(Black transition)
 (Background change)
 マネージャー: 『愛莉、またバラエティの仕事が入ったわ。 今回はドッキリの企画で、収録は来週の土曜日よ』
 愛莉: 『え？　でもその日って、ミニライブの日じゃ……』
 マネージャー: 『ええ。でも、今回は他のメンバーに行ってもらおうと 思ってるの。メンバー変更は、HPで告知しましょう』
 愛莉: 『で、でも……！』
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: （これは……）
-(Black cut)
+(Black transition)
 (Background change)
 マネージャー: 『……はい。そうですね。やはり愛莉は バラエティタレントとして売りだしていきましょう』
 マネージャー: 『正直、アイドルとしては十人並みですし。 これからそちらの仕事は減らして……』
 愛莉: 『……え？』
 愛莉: 『ちょっと待って！ それってどういうことなの！？』
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: （やっぱり、あの時の……）
 幼い愛莉 (愛莉): ……ここに映ってるお姉ちゃん、すごく怒ってるね
@@ -196,8 +192,8 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 幼い愛莉 (愛莉): ……！
 愛莉: せっかく見つけた夢だもの。 絶対……絶対、手放しちゃダメよ！
 幼い愛莉 (愛莉): うん！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000091/bg_a000091.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_a000091/bg_a000091.webp)
 幼い愛莉 (愛莉): わたし、ぜったいぜったいアイドルになる！ アイドルになって、たくさんのみんなに元気を届ける！
 愛莉: ええ、その意気よ！ わたしも、もっともっとすごいアイドル目指してがんばるわ！
 幼い愛莉 (愛莉): えへへ！　じゃあ、指きりげんまんしよ
@@ -205,29 +201,21 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉・幼い愛莉: 『指きりげんまん、ウソついたら 針千本の～ます！　指きった！』
 愛莉・幼い愛莉: 『あはは！』
 愛莉: （わたしも、もう二度と手放したりしないわ）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: （あの日、みのりと出会えてよかった）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: （遥や雫とも一緒に、 MORE MORE JUMP！になれて、本当によかった）
-(Black cut)
+(Black transition)
 (Background change)
 愛莉: …………
 愛莉: （悔しいこともつらいことも、たしかにあったけど、 それと同じくらい、いいことだってたくさんあったのよね）
@@ -235,13 +223,13 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: ん？　何、今の……
 幼い愛莉 (愛莉): あ……もうお別れみたい
 愛莉: え……？　わっ！
-(White cut)
+(White transition)
 (Background change)
 幼い愛莉の声 (愛莉): お姉ちゃん、わたしがんばるね！
 幼い愛莉の声 (愛莉): だから——お姉ちゃんも、 約束守ってくれなきゃダメだからね！
 愛莉: ——ええ
 愛莉: ええ！　必ず、守って見せるわ！
-(White cut)
+(White transition)
 (Background change)
 リン: 愛莉ちゃん、おかえり！
 愛莉: え、リン！？
@@ -256,34 +244,26 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: へえ……
 リン: 愛莉ちゃん、想いの欠片に触れてみて、 何かいい発見はあった？
 愛莉: え？　……そうね
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: とっても素敵な出会いと、最高の発見があったわ！
-(White cut)
+(White transition)
 (Background change)
 
 [愛莉の部屋]
 
 愛莉: ん……ふぁ……。 あれ、いつの間に部屋に？
 愛莉: というか、不思議な夢を見た気が……
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 愛莉: …………
 愛莉: ううん、あれは絶対夢じゃない
 愛莉: だって、あんなにしっかり指切りしたもの。 夢なんかで片づけられないわ
@@ -293,4 +273,4 @@ Gacha phrase: その夢、絶対に手放しちゃダメよ！
 愛莉: もっともっとたくさんの希望を
 愛莉: もっともっとも～っと たくさんの人達に届けられるように……！
 愛莉: さあ、今日もバリバリがんばるわよ！
-(White cut)
+(White transition)

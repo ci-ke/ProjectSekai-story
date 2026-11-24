@@ -28,18 +28,14 @@ Akito: “Thank you very much.”
 An: “We'll do our best since this should be a good test of our listening skills!”
 Lloyd: “Great. Now, this might feel like a history lesson to all of you...”
 Lloyd: “One fateful day, a lone exchange student arrived here on the campus of the New York Academy of Music.”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Lloyd: “This school is full of people who have committed their lives to music.”
 Lloyd: “They spend each day practicing and honing their craft in order to reach the top.”
 Lloyd: “But the sound this exchange student could produce stood above the rest.”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Dad must be the exchange student...)
 Lloyd: “Rumors of his talent quickly spread beyond the Classical Music department.”
@@ -60,33 +56,25 @@ An: I think so. Umm... “Was there a reason?”
 Lloyd: “Yes, it's because I decided to...”
 Lloyd: “Play the classical song which he was practicing, but with a jazzy arrangement. Just a little prank.”
 Toya: ...!
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Toya's Father: This is a practice piece that the composer was kind enough to write for our family. Happy was likely the last thing he felt as he wrote this... So, if you understand that, you should know how to play this song.
 Toya's Father: Did you actually take a close look at the sheet music, Toya? You need to think more about what was going through the composer's mind. If you did, you would know how to play this piece already. You're done practicing. Go reread the sheet music again.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (Dad values the composer's thoughts more than anything else. He constantly seeks to achieve a complete understanding of their music.)
 Toya: (Which is why he abhors irregular arrangements and improvisations. Because they work counter to that...)
 Toya: “How did the exchange student respond?”
 Lloyd: “...”
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Young Harumichi: “The key change you threw in at the end was beautiful.”
 Young Harumichi: “I would love to discuss your performance in more detail.”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Lloyd: “After that, we began to chat more often.”
 Lloyd: “And I came to understand that...”
@@ -122,4 +110,4 @@ Toya: (I was absolutely certain that nothing other than classical music would do
 Toya: ...
 Toya: I...
 Toya: I feel like I know so little about my own father.
-(Black cut)
+(Black transition)

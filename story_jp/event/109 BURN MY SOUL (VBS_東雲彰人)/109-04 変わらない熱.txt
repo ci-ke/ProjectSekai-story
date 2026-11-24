@@ -2,7 +2,7 @@
 
 (Character: 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥)
 
-(White cut)
+(White transition)
 (Background change)
 
 [夜]
@@ -27,7 +27,7 @@
 こはね: 現役時代の……。 私も、今度聴かせてもらいたいな
 杏: うん！　そうしてよ！
 杏: 父さんの歌は……本当にすごいから！
-(Black cut)
+(Black transition)
 (Background change)
 
 [店内ライブスペース]
@@ -69,15 +69,11 @@
 彰人: （その証拠に——）
 彰人: （とんでもなく、熱い）
 彰人: （冷静なのに、火傷しそうなほど熱い……！ まるで——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 彰人: …………やっぱ、すげえ人だ
 謙: まずは、こんなもんだな
@@ -90,7 +86,7 @@
 彰人: （……落ち着け。 謙さんの言うとおり……難しく考えすぎるな）
 彰人: （まずは素直に受け止めろ。 力を抜いて、心のままに。 RAD WEEKENDに向かって歌うつもりで——）
 彰人: ♪————！！
-(Black cut)
+(Black transition)
 彰人: ぜぇ、はぁ、はぁ……ゲホッ、はぁ……
 謙: ……今日は、ここまでにしたほうがよさそうだな。 そろそろ体力の限界だろう
 謙: 今日はゆっくり休んで、明日に備えろ
@@ -98,4 +94,4 @@
 彰人: （クソ……ダメだ。 全然わからねえ）
 彰人: （歌っても歌っても、いつもと変わらねえし…… 謙さんの反応も変わらねえ）
 彰人: （一体、どうすればいい……！）
-(Black cut)
+(Black transition)

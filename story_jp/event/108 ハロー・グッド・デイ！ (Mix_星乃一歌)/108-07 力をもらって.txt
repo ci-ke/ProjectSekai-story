@@ -28,25 +28,21 @@
 一歌: あっ……ごめんなさい。 えっと……
 一歌: 多分、なんですけど…… 今日はいろんな人と会って、話をして……
 一歌: みんなのやる気に——力をもらったんだと思います
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: 私達が目指してるものは、 簡単に超えられるものじゃないけど……
 こはね: どんなに苦しくても、後悔しないように—— 精一杯やろうって思ってるの
-(White cut)
+(White transition)
 (Background change)
 みのり: これから MORE MORE JUMP！としてお仕事もいっぱい受けて、 大変なことも多くなると思うけど——
 みのり: 希望を届けるために、全力でがんばりますっ！
-(White cut)
+(White transition)
 (Background change)
 司: ——よし！ 帰ったらこのくつをはいて、走り込みだな！
 司: 多くの人を笑顔にするためにも、 まずは体力作りをせねば！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 一歌: みんな、自分の夢や目標のために、 大変なことでもちゃんと乗り越えていこうって前を向いてて——
 一歌: そういう姿を見たから、 私も頑張ろうって思えたんだと思います
@@ -69,4 +65,4 @@
 奏: うん。いってらっしゃい
 奏: ……それじゃあわたしも帰ろうかな。 またね、星乃さん
 一歌: はい！　また！
-(Black cut)
+(Black transition)

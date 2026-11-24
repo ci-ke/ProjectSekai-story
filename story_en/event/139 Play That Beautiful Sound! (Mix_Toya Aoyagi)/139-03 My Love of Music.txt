@@ -10,7 +10,7 @@ Instrument Shop Manager: Alright, we're done organizing all the instruments.
 An: Tomorrow's the day! We're still meeting at the time you sent us earlier, right?
 Instrument Shop Manager: That's right! I'm looking forward to seeing you both there tomorrow, An, Aoyagi!
 Toya: Yes, we look forward to being there.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Scramble Crossing]
@@ -69,7 +69,7 @@ Toya: Hehe. I think that's normal for him. After all, you do mean the world to h
 Saki: Hehe. That's Tsukasa for you!
 Saki: Anyway, I'll see you later! Good luck tomorrow!
 Toya: Thank you! I really appreciate it!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shibuya Instrument Day]
@@ -104,7 +104,7 @@ Toya: Ah, he came back just at the right time.
 An: Yup!
 An: Alright, let's both do our best today!
 Toya: Yes, let's!
-(Black cut)
+(Black transition)
 Young Man: Excuse me, miss? Would you mind answering a question for me?
 An: Oh! Be right there!
 An: Thank you for your patience. Which instrument did you have a question about?
@@ -117,16 +117,12 @@ An: Of course! Just give me one second to get you all set up!
 Len (VBS): <Wow! An's a total pro! Even though this is her first time, it's like she's been doing this for years!>
 Toya: Yes. I can learn a lot from her example.
 Toya: (I am still a little nervous. But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Saki: I'm sure you'll do a great job of explaining how much fun music and instruments are!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (I should be fine.)
 Elderly Gentleman: Oh, young man, would you mind if I asked you a question?
@@ -171,4 +167,4 @@ Young Lady: Excuse me. I have a question about this instrument...
 Toya: Of course! I'll be right over to help!
 An: (Thank goodness. He seems to be having a lot of fun talking to customers now.)
 An: (Keep up the good work, Toya!)
-(Black cut)
+(Black transition)

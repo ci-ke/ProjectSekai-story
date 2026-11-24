@@ -47,14 +47,10 @@ MEIKO: ていうか、私達が胸を張って『大丈夫！』って 信じて
 MEIKO: だって、誰よりも近い場所で あの子達の死に物狂いな努力を見てきてるんだよ？
 リン: あ……
 ミク (Ln): そうだね。本当に、一歌達は頑張ってきた……
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO: あとは明日、ライブを楽しむだけ！
 MEIKO: 私達もこっそり聴かせてもらえるみたいだし、 全力で楽しまないとね！
 ミク・リン・レン: 『うん』 『ああ』
@@ -69,7 +65,7 @@ MEIKO: 私達もこっそり聴かせてもらえるみたいだし、 全力で
 レン: じゃあ、楽器取ってこないとな
 MEIKO: そうだね！　よーし、レッツゴー！
 リン: ゴー！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -79,15 +75,11 @@ MEIKO: そうだね！　よーし、レッツゴー！
 [教室のセカイ]
 
 MEIKO: （一歌達のワンマン、最高だったな……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO: （セトリが進むごとに演奏が冴えていって、 会場の熱もどんどん高まって）
 MEIKO: （何度か通し練習も見てきたけど、 そのどれよりも熱くて最高の演奏に仕上がってて——）
@@ -130,4 +122,4 @@ MEIKO: オッケー！ ちなみに、ワンマンの１曲目から全部やる
 レン: 全部！？
 リン: ホントに！？　やったー！
 MEIKO: 準備できたら教えて！ カウント始めるから！
-(Black cut)
+(Black transition)

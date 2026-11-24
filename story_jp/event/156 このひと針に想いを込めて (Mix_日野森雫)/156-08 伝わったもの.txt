@@ -62,7 +62,7 @@
 絵名: あっ、ちょっと！ 待ちなさいってば、もう……
 奏: ふふ。 ——まふゆも、行こう
 まふゆ: …………うん
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -104,18 +104,14 @@
 雫: （……刺繍をしようって誘って、本当によかったわ）
 雫: （みんなに喜んでもらえたし、 朝比奈さんの役にも、少しは立てたかもしれないし……）
 雫: （それに——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 雫: （朝比奈さんにも、刺繍の楽しさをわかってもらえて……）
 雫: （なんだか、ちょっとだけ…… 前よりも近づけたような気がするわ）
 雫: （あの時間が、朝比奈さんにとって…… 少しでも、大切に思える時間になっていたなら——）
 雫: （とっても、嬉しいわね）
-(White cut)
+(White transition)

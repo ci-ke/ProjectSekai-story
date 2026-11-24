@@ -31,10 +31,8 @@ Kanade: ...!
 Kanade: (Mafuyu's dream...)
 Kanade: Wait... What is her dream...? I've never asked before...
 Kanade: (But if she is pursuing a dream that I don't know about...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 
 [A few years earlier]
@@ -54,24 +52,18 @@ Kanade's Father: There are times when I wish I studied more when I was still in 
 Junior High School Kanade (Kanade): Really...?
 Kanade's Father: Yes. So, if you do wish to become a composer, you should try to learn as much as you can.
 Kanade's Father: I'm sure it'll help you in life.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: (I understand what Mafuyu's mom is trying to say...)
 Kanade: (It's true that now is a crucial time in her life...)
 Kanade: (But...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Mafuyu: <Okay, I'll be looking forward to hearing it...>
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Kanade: ...
 Kanade: (If Mafuyu leaves N25 now...)
@@ -89,7 +81,7 @@ Message: <Understood.>
 Message: <You seem to be misunderstanding me slightly, so how would you feel about us meeting in person?>
 Kanade: What...?
 Kanade: Me? Meeting Mafuyu's mom...?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Mafuyu's Room]
@@ -119,25 +111,21 @@ Mafuyu's Mother: Or is it that you have something else on your mind while you do
 Mafuyu: ...!
 Mafuyu's Mother: I believe in you, Mafuyu.
 Mafuyu's Mother: Because you know what you have to do in order to make your dream come true.
-(Black cut)
+(Black transition)
 Mafuyu: (She found out...)
 Mafuyu: (She probably knows about N25, the others... Everything...)
 Mafuyu: (What do I do...? What can I do...?)
 Mafuyu: (I still want to make music with the others... With N25...)
 Mafuyu: (I don't want to give up music...)
 Mafuyu: But...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Mafuyu's Mother: Because you know what you have to do in order to make your dream come true.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Mafuyu: (She's worried about me... She wants what's best for me... She says that she does...)
 Mafuyu: (She cares about me... Doesn't she...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -151,18 +139,18 @@ Miku (N25): (This feeling. I'm sensing...)
 Miku (N25): (Could it be...?)
 ???: So, you're the Miku of this SEKAI...
 Miku (N25): ...!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000176/bg_s000176.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000176/bg_s000176.webp)
 Miku (N25): Are you...KAITO?
 KAITO: That's right...
 KAITO: This...is an empty SEKAI, I see.
 Miku (N25): There was nothing here at first.
 Miku (N25): But now, Mafuyu has me, Kanade and the others...
 KAITO: Mafuyu, is it...? This SEKAI belongs to her?
-(White cut)
+(White transition)
 (Background change)
 KAITO: So, she's the one who called me here...
 Miku (N25): (If Mafuyu did in fact call for KAITO to come here...)
 Miku (N25): (Did something happen to her...?)
 Miku (N25): Mafuyu...
-(Black cut)
+(Black transition)

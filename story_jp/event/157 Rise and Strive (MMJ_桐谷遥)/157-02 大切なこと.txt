@@ -70,15 +70,11 @@
 遥: あ……
 遥: はい。 ……お忙しいところ、ありがとうございました
 遥: ……『目的を見失うな』、か
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 遥: （ASRUNの時から、ずっと言われてたっけ）
 遥: （何かを成し遂げようとする時、 周りから何かを言われるのは当然のこと。 それに気を取られることもあるだろう。それでも……）
@@ -86,4 +82,4 @@
 遥: やっぱり、柊さんは柊さんだな
 遥: （……そうだよね。 今は、私達の目的を見失わないように——）
 遥: （今できることを、やらなくちゃ）
-(Black cut)
+(Black transition)

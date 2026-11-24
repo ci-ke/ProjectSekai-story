@@ -23,24 +23,20 @@
 類: かといって、無理に聞き出すというのも難しそうだ
 寧々: いつもは、なんだってペラペラ話すくせに……
 司: …………いや。 えむは、ああ見えて——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: だってみんな、ショーを作るのに一生懸命だったでしょ？
 えむ: おじいちゃんが言ってたの。ショーにはいろんな人が必要だけど、 みんなが思いっきりショーができるように考えてがんばる人が、 ひとりは絶対に必要なんだよ……って
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: ……おおごとを抱えている時ほど、話そうとしない
 司: だからきっと今回もそうなんだろうが……
 類: あの調子じゃ、そう簡単には話してくれないだろうね
 類: もう少し、方法を考えてみる必要がありそうだ
 寧々: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーステージ]
@@ -49,7 +45,7 @@
 えむ: あたしもう準備バッチリだよー☆ 早くセカイに行こーっ！
 類: ああ、そうだね
 寧々: …………わたし、着替えてくる
-(Black cut)
+(Black transition)
 (Background change)
 
 [フェニックスワンダーランド]
@@ -57,10 +53,8 @@
 寧々: ……はぁ
 ネネロボ: ネネ、大丈夫デスか？
 寧々: ……うん。 だけど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 えむ: ねーねちゃんっ！
 寧々: わっ……！　な、なに
@@ -72,10 +66,8 @@
 類: 思い出話に花を咲かせるのも、 たまにはいいだろう？
 寧々: ……はぁ。 休憩のあいだだけだからね
 えむ: やったぁ！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 寧々: （あの時は、えむのおかげで、ヒントをもらえたんだよね。 だからわたしも——力になりたいのに）
 寧々: （……人のことはあれこれ聞くくせに、 自分のことになると、なんで全然しゃべんなくなるわけ？）
@@ -93,30 +85,26 @@
 ネネロボ: 只今のメッセージを、エムに伝エマス
 寧々: メッセージって……類のヤツまた新しい機能つけたわけ！？ ネネロボをプロンプターにでもする気！？
 寧々: くっ……追いかけなくちゃ！
-(Black cut)
+(Black transition)
 (Background change)
 えむ: （やっぱり、みんなに心配かけちゃってるよね……）
 えむ: （ほんとはみんなに話したいけど……でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 えむ: （やっぱりみんなには、 大好きなショーをがんばっててほしいな……）
 えむ: ……あれっ？ 何かこっちに……ネネロボちゃん？
-(Black cut)
+(Black transition)
 (Background change)
 寧々: ハァ……ハァ……！　ネネロボ、待って……！
 寧々: と、止まっ……止ま……！！
 寧々: ネネロボー！！！！　ストーーーーップ！！！！
 ネネロボ: ——停止シマス
 寧々: や、やった……！　あっ！
-(Black cut)
+(Black transition)
 (Background change)
 えむ: む？　そんなに急いでどうしたの？　ネネロボちゃん
 寧々: え、えむの目の前に……！！
@@ -134,4 +122,4 @@
 えむ: （……やっぱり……話したいな）
 えむ: （寧々ちゃん達だったらきっと、 あたしの話を聞いてくれて、一緒に考えてくれて——）
 えむ: （だけど…………）
-(Black cut)
+(Black transition)

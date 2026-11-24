@@ -8,22 +8,18 @@ nightcode_01_05 消えた雪
 奏: …………
 奏: （冷たくて、鋭くて……それでいて脆い）
 奏: （えななんの言う通り。誰もいらない、ひとりでいたいって 思ってるような……そんな曲……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【K】 (奏): 『この曲——雪が作ったんじゃない？』
 【雪】 (まふゆ): 『え？』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: …………
 奏: あ……もうこんな時間？　行かないと……
 奏: 花は……駅前で買おう。 あとは、タオルと、替えのパジャマと……
-(Black cut)
+(Black transition)
 (Background change)
 
 [病院]
@@ -42,31 +38,27 @@ nightcode_01_05 消えた雪
 奏: ……そう、ですか
 奏: ……ありがとうございます。 今日は荷物を届けに来ただけですから、もう帰ります
 看護師: あ、奏ちゃん……
-(Black cut)
+(Black transition)
 (Background change)
 
 [スクランブル交差点]
 
 奏: …………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 奏の父: すごいじゃないか奏！
 奏の父: 奏は、こんな優しい曲が作れるんだね。 きっと天国のお母さんも、喜んでくれてるだろうな
-(White cut)
+(White transition)
 (Background change)
 奏の父: 奏はすごい才能を持っているよ。 きっと、音楽に愛されているんだ
-(White cut)
+(White transition)
 奏の父: 奏はこれからも、奏の音楽を作り続けるんだよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 奏: ……お父さん
-(Black cut)
+(Black transition)
 (Background change)
 (Place: 奏の部屋)
 奏: 25時……
@@ -84,7 +76,7 @@ nightcode_01_05 消えた雪
 【K】 (奏): 『……そう、なのかな……』
 【えななん】 (絵名): 『ま、先に始めてようよ。 K、ファイル送るね』
 【K】 (奏): 『……うん、そうだね。 じゃあ、Amiaも進捗報告お願い』
-(Black cut)
+(Black transition)
 (Background change)
 
 [１週間後]
@@ -100,16 +92,12 @@ nightcode_01_05 消えた雪
 【えななん】 (絵名): 『……でも、本当にどうしたんだろ』
 (Background change)
 【K】 (奏): 『雪……』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 【雪】 (まふゆ): 『——Kの曲に、救われたような気がしたんだ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 【K】 (奏): 『……何か、連絡をとれる方法がないか探そう』
 (Background change)
@@ -147,4 +135,4 @@ nightcode_01_05 消えた雪
 奏: ………………
 奏: え……？
 奏: ここ、どこなの……？
-(Black cut)
+(Black transition)

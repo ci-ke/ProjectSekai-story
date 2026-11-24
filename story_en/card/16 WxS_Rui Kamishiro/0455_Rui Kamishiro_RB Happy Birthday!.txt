@@ -58,7 +58,7 @@ Miku (WxS): Okay, and we'll make sure to get everything ready so that we can cel
 Len: Yeah! Let's start by asking KAITO!
 Miku (WxS): Oh, good call! Let's go ask him♪
 Rui: ...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Two weeks later]
@@ -75,7 +75,7 @@ Rui: <Instead, I'll be having a simple party with my fellow troupe members and e
 Mizuki: <Really?! A simple party, huh? That sounds nice!>
 Mizuki: <Good for you, Rui. Have lots of fun, okay♪>
 Rui: <Yes, I plan to. Thank you, Mizuki.>
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: Everyone have their poppers ready? Also, how are the candles on the cake looking?
 Nene: Okay, they're all set.
@@ -84,17 +84,17 @@ Luka: <Hehe. Looks like we're all eager to get started.>
 MEIKO: <Of course we are! We've been waiting two weeks for this♪>
 Tsukasa: Alright, let us commence our celebration! First, we will begin by wishing Rui a happy birthday!
 Emu: Okay, lemme hit the lights♪
-(Black cut)
+(Black transition)
 (Background change)
 Tsukasa: Now, without further ado!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Kohane Azusawa, An Shiraishi, Akito Shinonome, Toya Aoyagi, Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro, Mizuki Akiyama, Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rui's Room]
@@ -103,7 +103,7 @@ Tsukasa: Now, without further ado! Happy birthday, Rui!
 Everyone: Happy birthday! <Happy birthday!>
 Rui: *Nod* Thank you all very much!
 Rui: *Blow*
-(Black cut)
+(Black transition)
 (Background change)
 Len: <Happy birthday, Rui!>
 Rui: Yes, thank you.
@@ -111,7 +111,7 @@ Tsukasa: Alright, give me the plates! It's time to cut the cake!
 Emu: Okay!
 Miku (WxS): <KAITO! We want cake too♪>
 KAITO: <Okay, I understand. But we have to wait for our turn.>
-(Black cut)
+(Black transition)
 MEIKO: <Okay, now that we've had our fill of delicious cake, juice and snacks...!>
 MEIKO: <It's time to celebrate by starting with the Happy Birthday Rui Cookie Kart Cup♪>
 Rin: <Yay♪>
@@ -128,7 +128,7 @@ Nene: Yeah, we did. And our parents made it a rule that we couldn't play online.
 Len: <So, you guys have all played this before? That means it's gonna turn into a pretty heated battle, right?>
 MEIKO: <Alright, without further ado, let's kick off the first race of Rui's Birthday Cup!!>
 Tsukasa, Emu, Nene & Rui: Yeah!
-(Black cut)
+(Black transition)
 Emu: Oh no! I got disqualified! My gingerbread man got burnt to a crisp!
 Tsukasa: Yes, that way does lead to a shortcut, but it doesn't seem possible to get through there without getting roasted...
 Nene: Finally! I got the can cover! Now I can take the shortcut!
@@ -154,7 +154,7 @@ Tsukasa: Hah hah hah hah! You'll have to do better than that, Rui!
 Tsukasa: Nonetheless, well played! Once I catch up to you, I'm going to use my secret weapon to turn you into a star!
 Rui: Ah, that sounds bad... You must be talking about the item that can transform others into something else and slow them down in the process.
 Len: <Wait, there's an item that lets you do that?! Go, Rui, go!>
-(Black cut)
+(Black transition)
 MEIKO: <And here are the results...♪ The winner of Rui's Birthday Cup is...!>
 MEIKO: <Emuuu!!>
 Emu: Woohoo! I won!
@@ -173,8 +173,8 @@ Rui: (And Nene was just about my only friend who would ever come.)
 Rui: (So this is what it's like to throw a perfectly ordinary birthday party with my friends.)
 Rui: Thank you all very much...
 KAITO: (I'm so happy for you, Rui.)
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000088/bg_s000088.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000088/bg_s000088.webp)
 Toya: Happy birthday, Kamishiro.
 Kohane, An & Akito: Happy birthday! Happy birthday.
 Kohane: I really enjoyed what you and the others did for my birthday the other day, so I hope you get to have as much fun as possible today.
@@ -192,9 +192,9 @@ Tsukasa: Yes. I was worried at first about throwing an “ordinary” birthday p
 Tsukasa: Rui, I know you don't hold back when it comes to shows, but you're free to ask us for anything outside of that like what we just did.
 Emu: Yup yup☆ We should keep doing lots and lots of stuff together!
 Nene: I'd like that as well. So, make sure to let us know if anything comes to mind.
-(White cut)
+(White transition)
 (Background change)
 Rui: Hello there. Thank you for joining me today to celebrate my birthday.
 Rui: I never realized how fun it was to celebrate alongside my friends and acquaintances like this. I'd forgotten since so much time had passed when I last did.
 Rui: Hehe. If possible, I'd like to do something like this again next time.
-(White cut)
+(White transition)

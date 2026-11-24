@@ -48,7 +48,7 @@
 奏: 『……そうだね、行ってみよう』
 (Background change)
 まふゆ: …………
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -100,15 +100,11 @@ MEIKO (N25): そうね。この湖がまふゆの想いで出来ているから�
 まふゆ: ……本当の……
 まふゆ: でも……
 奏: まふゆ……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 女の子: きっと、もう見つからないよ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 奏: ——大丈夫だよ
 まふゆ: え……
 奏: もしかしたら、まふゆにとって よくないものが見つかるかもしれないけど——
@@ -143,21 +139,17 @@ MEIKO (N25): そうね。この湖がまふゆの想いで出来ているから�
 まふゆ: ……うん
 まふゆ: ……ッ！　これ……
 まふゆ: （りんご——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: ちゃんと食べられる？　まだ、起きるのはつらいかしら
-(White cut)
+(White transition)
 まふゆの母: ……しょうがないわね。 はいまふゆ、あーんして
-(White cut)
+(White transition)
 まふゆの母: ……ふふっ。今日のまふゆは甘えん坊さんね
 まふゆの母: ほら、ねーんね……。 まふゆは、いいこ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ……お母さん……
 まふゆ: （……あたたかい……）
@@ -169,27 +161,23 @@ MEIKO (N25): そうね。この湖がまふゆの想いで出来ているから�
 奏: そういえば……まふゆが風邪を引いた時、 りんごをすりおろして食べてもらったっけ
 奏: あの時は、いろいろ慣れなくて手間取っちゃったけど…… まふゆがりんごを食べてくれて、安心したな
 まふゆ: ……あ……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000248/bg_s000248.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000248/bg_s000248.webp)
 まふゆ: （どうしてだろう——）
 まふゆ: （苦しいのに……）
 まふゆ: （考えたく、ないのに……）
 まふゆ: （このりんごは……捨てたくない）
-(White cut)
+(White transition)
 (Background change)
 まふゆ: （わからない——）
 まふゆ: （わからない、けど……きっと……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆ: ……もっと、寄り添いたい……
 まふゆ: 苦しんでる人の、すぐそばで……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （私が……私でいるために、必要な気がする）
 まふゆ: （だから——）
@@ -237,6 +225,6 @@ MEIKO (N25): ……何かの双葉、みたいね
 ルカ (N25): 湖ができたと思ったら、植物が生えるなんて。 これも想いの変化かしら
 KAITO (N25): ……多少は、いい兆しが見えてるのかもな
 ミク (N25): ……大きく、育つといいな
-(White cut)
+(White transition)
 (Video: link_night_bud)
-(Black cut)
+(Black transition)

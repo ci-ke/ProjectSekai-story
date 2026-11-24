@@ -20,15 +20,15 @@ KAITO: ……本当にそうなのかな
 KAITO: ……たしかに、アイドルとしての仕事をたくさんこなしていたら、 それだけ友達と過ごす時間は減ってしまうと思う
 KAITO: でも……だからって、 その友達とのあいだにできたつながりが、 すべて途切れてしまうことはないんじゃないかな
 愛莉: そう……なのかしら……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000185/bg_s000185.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000185/bg_s000185.webp)
 KAITO: 僕は、友達同士のあいだに生まれるつながりは、 想いと同じだと思うんだ
 愛莉: 想いと……？
 KAITO: うん。人と人とが関係を築く時、 そこには必ずお互いに対する想いが生まれる——
 KAITO: どんな想いなのかは友達同士でも様々だと思うけど、 たとえば……お互いを思いやる優しい気持ちとか、かな？
 KAITO: そうやって一度生まれた想いは、 良くも悪くも、なかなか消えないものだって思うんだ
 KAITO: ——みんなが持ってる想いと、同じでね
-(White cut)
+(White transition)
 (Background change)
 愛莉: 想いは……消えない……
 KAITO: ふふ、ふたりにも覚えがあるよね
@@ -51,25 +51,21 @@ KAITO: ふたりのあいだにできた、その想いのつながりは 簡単
 雫: 愛莉ちゃん……！
 愛莉: カイトさん、それにみんなも、話を聞いてくれてありがとう。 さっきの言葉、もう少し自分なりに考えてみるわ
 KAITO: どういたしまして。 頑張ってね、愛莉ちゃん
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日　昼休み]
 
 [宮益坂女子学園　中庭]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: そうだろう？　だから——きっと、 友達とのつながりも同じなんじゃないかなって思うんだ
 KAITO: 愛莉ちゃんが、その子に対して抱えていた『想い』があるように、 その子もきっと、愛莉ちゃんに何か『想い』を抱えてる
 KAITO: ふたりのあいだにできた、その想いのつながりは 簡単には消えたりしないと思うな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: …………
 愛莉: （そうね。きっとそうなのよね。 ……カイトさんの言うとおり、想いは消えない）
@@ -84,21 +80,17 @@ KAITO: ふたりのあいだにできた、その想いのつながりは 簡単
 愛莉: ——あれって、あゆみ？
 愛莉: （どうして……こんな時に、こんな偶然……）
 愛莉: （いえ……同じ学校なんだもの、 すれ違うことくらいあるわよね）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: ふたりのあいだにできた、その想いのつながりは 簡単には消えたりしないと思うな
-(White cut)
+(White transition)
 雫: だって、疎遠になってしまったお友達とも またいつか仲良くお話できる日が来るって、 そう思えたら……すごく嬉しいもの
 雫: それにね、もし私と愛莉ちゃんが、 何かのきっかけで距離ができちゃったとしても——
 雫: 私が愛莉ちゃんに感じてる 優しくてあたたかい気持ちは、ずっと消えないって思うの
 雫: たとえ忘れてしまったとしても、必ず思い出すわ。 だから……きっと大丈夫よ
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: ……っ
 愛莉: あ……あゆみ！
@@ -163,16 +155,12 @@ KAITO: ふたりのあいだにできた、その想いのつながりは 簡単
 愛莉: （なんだか、すごく不思議な気分だわ）
 愛莉: （さっきまでは、 やっぱりもう無理なんじゃないかって思ってたのに——）
 愛莉: （……こうして話しかけたら、こんなに簡単に、 まだつながりが残ってるって確かめられた）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 みのり: ……ねえ、愛莉ちゃんはあった？ 単位制にいって、クラスの友達と だんだん距離ができちゃったりしたこと……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 愛莉: （……もし、またみのりから同じ質問をされたら、 今度はわたし、どう答えるかしら）
 愛莉: （単位制にいったら、友達とは ある程度距離ができちゃうかもしれない……）
@@ -180,4 +168,4 @@ KAITO: ふたりのあいだにできた、その想いのつながりは 簡単
 愛莉: （諦めたりしないで……大切な友達とのつながりを信じて……）
 愛莉: （ほんの少し勇気を出して、 お互いの想いを確かめさえすれば……）
 愛莉: （——ちゃんと、友達のままでいられるのね）
-(Black cut)
+(Black transition)

@@ -6,15 +6,11 @@
 
 レン (N25): （……まふゆちゃん、今、何してるんだろう）
 レン (N25): （また、お母さんと音楽聴いたりしてるのかな）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン (N25): （まふゆちゃんが、家に戻るって聞いた時 ちょっと心配だったけど——）
 レン (N25): お母さんと仲良くなれて……よかったな
@@ -30,15 +26,15 @@
 レン (N25): あ……
 レン (N25): （……まふゆちゃん、苦しそう……）
 レン (N25): （何があったのか、わからないけど——）
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000440/bg_s000440.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000440/bg_s000440.webp)
 まふゆ: ……レン？
 レン (N25): え、えっと……ぼくは、ここにいるから……
 まふゆ: ………………
 まふゆ: …………うん
-(White cut)
+(White transition)
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [25時]
@@ -47,15 +43,11 @@
 
 奏: （…………よし）
 奏: （今回のデモは手応えを感じる）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 奏: ————今なら、きっと…… まふゆのあたたかい気持ちに重なる曲が作れる
 奏: ……集中して作ろう——
@@ -126,7 +118,7 @@
 奏: （どうして、また前みたいな状況になってるのか……）
 奏: （わからない、けど…………）
 奏: （——このままじゃ、だめな気がする）
-(Black cut)
+(Black transition)
 (Background change)
 
 [数日後]
@@ -151,4 +143,4 @@
 まふゆの母: 少しずつ、私の知らなかったまふゆを知って、 まふゆの未来を、また応援することができて——
 奏: ……あの、そのことなんですけど……
 まふゆの母: え？
-(Black cut)
+(Black transition)

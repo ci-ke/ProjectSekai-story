@@ -12,19 +12,15 @@ Gacha phrase: Yes, I suppose I can sing...
 MEIKO: ...
 Rin: ♪———— ♪————
 MEIKO: It's Rin. She's singing again.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 Rin: When Mafuyu went to tell her mom how she really felt that time...
 Rin: I heard that hearing Miku sing Kanade's song helped settle her down.
-(White cut)
+(White transition)
 Rin: Ena also felt better after she heard me sing that time...
 Rin: So, I wanna learn how to be a better singer... For them...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO: (And she's been practicing her singing ever since...)
 Rin: ♪——...
 Rin: ♪———— ♪————
@@ -53,7 +49,7 @@ MEIKO: *Sigh*
 MEIKO: Can you not start pressing my buttons just because you're bored?
 Luka: Hehe. I don't know what you're talking about.
 MEIKO: Fine... I'll tell you a little about what Rin told me.
-(Black cut)
+(Black transition)
 Luka: So, she's practicing to become a better singer for the others?
 Luka: Okay, now I see why I shouldn't interrupt her.
 MEIKO: I hoped you would've figured that out without me saying anything.
@@ -70,7 +66,7 @@ MEIKO: …………
 Rin: ♪———— ♪————
 MEIKO: (She seems to have figured out that part she was struggling with...)
 MEIKO: (I think I'll keep watching for a bit longer.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -84,21 +80,17 @@ Rin (N25): ♪————...
 MEIKO (N25): ...
 MEIKO (N25): (Her singing's improved quite a lot...)
 MEIKO (N25): (Maybe meeting our other selves in that strange SEKAI had a greater effect on her than I realized.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
+(White transition)
 MEIKO: Thank you for being such a strong source of support for the others.
 MEIKO: All we can do is watch over them, but I can see that they're in good hands!
-(White cut)
+(White transition)
 MEIKO: Based on what I've seen watching you all this time, it's obvious to me that they need you.
 MEIKO: You don't always have to put what you feel into words. They feel better just knowing that you're there for them.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (N25): (Just as how Rin and I play different roles here, that other me must also have a unique role in all of this.)
 MEIKO (N25): (All she can do is watch over the others.)
@@ -112,16 +104,12 @@ MEIKO (N25): (I don't want to interrupt her, so I should probably move further a
 Rin (N25): MEIKO, wait. You were listening to me practice just now, right...?
 Rin (N25): Can you sing with me again like you did earlier?
 MEIKO (N25): Earlier...?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (N25): ♪—— ♪————
 Rin & MEIKO: ♪———— ♪————...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 MEIKO (N25): (Oh, I see...)
 Rin (N25): This is how I'm singing it now...
 Rin (N25): ♪—— ♪————
@@ -141,14 +129,10 @@ Rin (N25): ...! That was really good.
 Rin (N25): I couldn't figure that part out when I was working on it on my own...
 Rin (N25): How did you learn to sing like that, MEIKO...?
 MEIKO (N25): So...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 MEIKO (N25): I thought about this while singing just now.
 MEIKO (N25): I thought about who I want to support.
 Rin (N25): Oh...
@@ -159,16 +143,12 @@ MEIKO (N25): You know what I'm talking about, right, Rin?
 Rin (N25): Oh... I think that's how I felt when I sang for Ena...
 Rin (N25): Thanks, MEIKO... I'll keep that in mind while I try.
 MEIKO (N25): ...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 MEIKO: You don't always have to put what you feel into words. They feel better just knowing that you're there for them.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rin (N25): MEIKO...?
 MEIKO (N25): I'll sing with you...
@@ -178,4 +158,4 @@ Rin (N25): MEIKO...
 Rin (N25): *Nod* Yeah, I want you to sing with me.
 Rin (N25): Thanks, MEIKO...
 MEIKO (N25): You're welcome.
-(Black cut)
+(Black transition)

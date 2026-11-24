@@ -71,16 +71,12 @@
 杏: ……そっか！ ま、こはねの歌はすごいもんね！ おじさんが気になるのも当然かも？
 こはね: あの……あの時はありがとうございました！ 大河さんのおかげで、前のイベントでは、 自分のことをちょっと見れるようになりました
 大河: （あの時の嬢ちゃんは——）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 こはね: ————！　————～～～！！
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: …………
 杏: おじさん？
@@ -127,4 +123,4 @@
 杏: それは……
 杏: （……なんだろう、この感じ。 モヤモヤが、どんどん大きくなってる……）
 杏: （一体どうして——）
-(Black cut)
+(Black transition)

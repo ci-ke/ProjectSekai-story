@@ -15,7 +15,7 @@ An: Because we're about to blow the roof off this place! Here we go! Try to keep
 Kohane & Toya: ——! ————! ———~~~!
 An & Akito: ——! ————! ———!
 Everyone: ♪————————!!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama Street]
@@ -28,20 +28,16 @@ Toya: I agree. I definitely think we've taken another step forward as a team.
 An: We have Kohane to thank for absorbing everything Uncle Taiga taught her too!
 Kohane: Hehe. I'm glad I could help you guys.
 Toya: (Help us... As a team...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Luka: <Hehe. I think you're selling yourself too short.>
 Luka: <I believe everyone possesses some sort of “unique talent”.>
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: (Isn't there anything I can do for us as a team...?)
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -59,22 +55,18 @@ Toya: I see...
 Kohane: <Again, I'm sorry. Initially, I was hesitant about asking you this kind of question...>
 Kohane: <But Shinonome said that you wouldn't have a problem with it.>
 Toya: ...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Akito: I understand...
-(White cut)
+(White transition)
 Akito: But what you did is different, Toya. You chose to get back into music again...
 Akito: You really gotta love music to do that, right?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: <I appreciate your concern. Akito was right to tell you that. I'll send over a list of composers and suitable works.>
-(Black cut)
+(Black transition)
 Kohane: <I didn't realize there were so many. Thank you so much! Can I show An and Shinonome what you just sent me?>
 Toya: <Of course. It may be good for us to all listen to some of them.>
 Kohane: <Good idea! I'll post a message to our group chat!>
@@ -83,7 +75,7 @@ Toya: (But...)
 Toya: (That's the extent of my knowledge... Classical music...)
 Toya: (I know I need to do more if I ever hope to contribute in a more meaningful way...)
 Toya: But I...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Street SEKAI]
@@ -95,7 +87,7 @@ Toya: Oh, um... I just...
 Miku (VBS): ...
 Miku (VBS): Is there something you'd like to talk about?
 Toya: Yes, there is... Would you mind listening for a bit...?
-(Black cut)
+(Black transition)
 Miku (VBS): A way to make better use of your knowledge and experience with classical music for the sake of your team, huh...?
 Toya: Yes...
 Toya: I never had a chance to participate in school events or even play with my friends much for that matter.
@@ -130,7 +122,7 @@ Toya: I see... It would be sad to see it go without anyone actually examining it
 Miku (VBS): Try touching it, Toya.
 Toya: Okay.
 Toya: ...!
-(White cut)
+(White transition)
 
 
 <Side Story (Part 2)>
@@ -155,7 +147,7 @@ Toya: (I can't describe it... But it's like it wants to be found...)
 Toya: ...
 Toya: Sorry, Miku. I can't help but wonder. I'm going to take a quick look.
 Miku (VBS): T-Toya?!
-(Black cut)
+(Black transition)
 (Background change)
 Toya: Oh...
 Miku (VBS): Are those...? A piano and a violin?
@@ -168,39 +160,31 @@ Miku (VBS): You seem relieved that the piano and violin didn't fall through the 
 Toya: Oh...
 Toya: That may be the case...
 Miku (VBS): What do you mean by that? You need to learn to embrace your feelings more.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Miku (VBS): Right and wrong are just words. Have you asked yourself what you want to do?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: Yes, you're right...
 Toya: I apologize. I was under the impression that I'd been doing just that lately thanks to everyone around me.
 Toya: But I seem to get confused when it comes to classical music.
 Toya: Or rather... I'm avoiding it subconsciously because a part of me doesn't want to think about it.
 Miku (VBS): Avoiding it...? Why's that?
 Toya: Because things were easier back then if I did that...
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000064/bg_s000064.webp)
-
-(Memory cut-in)
-
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000064/bg_s000064.webp)
+(Flashback in)
 Toya's Father: No. Again.
 Little Toya (Toya): I'm sorry...
 Toya's Father: Again.
 Little Toya (Toya): But my fingers...
 Toya's Father: No. Again. Until you get it right.
 Little Toya (Toya): Okay...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Toya: I used to admire the way my dad plays the piano...
 Toya: He has this way of taking all of the music theory he knows and combining it with everything he's experienced to produce this magnificent sound that perfectly reflects a composer's thought process...
 Toya: There was a time when I dreamed of being able to do the same thing someday.
@@ -229,7 +213,7 @@ Miku (VBS): The piano and violin still mean a lot to you, right, Toya...?
 Toya: I...
 Toya: Yes...
 Toya: The piano and violin are both...
-(White cut)
+(White transition)
 (Background change)
 Toya: Oh...
 Miku (VBS): We're back. How do you feel, Toya?
@@ -246,4 +230,4 @@ Toya: Thank you, Miku. You've opened my eyes quite a bit.
 Miku (VBS): You're welcome, but I'm also glad that I got to know you a little better.
 Miku (VBS): Oh, you still have some time until practice. How about we stop by MEIKO's place for a quick break?
 Toya: Yes, let's.
-(White cut)
+(White transition)

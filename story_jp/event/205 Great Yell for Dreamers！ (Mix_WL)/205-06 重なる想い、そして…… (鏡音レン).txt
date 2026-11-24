@@ -40,20 +40,16 @@
 レン: うん！　今降ってきた想いの欠片は、 きっと、この木とあの人の想いの欠片に共鳴したんだよ！
 みのり: 共鳴……ってことは、同じような想いを持ってるってことだよね
 みのり: えっと、木はよくわかんないけど、 ライセさんの想いの欠片と共鳴……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: うそ、まさか……そういうこと！？
 レン: みんな、何かわかったの？
 杏: うん。でもいろいろあったから、順番に話さないとね
-(Black cut)
+(Black transition)
 リン: えーっ！　補欠枠！？
 レン: ライバルさんがチーム組もうって言ってくれて、 チームを組んだ！？
 杏: ……でも、チームとしてまだちゃんと上手くいってなくて、 ふたりで話をしてるところなんだ
@@ -108,9 +104,9 @@
 みのり: うん！
 レン: え……？
 杏: 想いの欠片が、ふたつとも光ってる！
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 リン: ……今、欠片の中に見えたのって、 想いの持ち主とミナトくん？
 杏: 私にも見えたよ！ これって、この前みたいに記憶が見えてるのかな
@@ -119,9 +115,9 @@
 志歩: うん。ふたりで話し合ってる頃だろうし、 もしかして、今向こうで起きてることだったりしない？
 みのり: ということは……生中継！？
 司: なにー！？
-(White cut)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
 杏: ねえ……なんか、雰囲気怪しくない？
 みのり: う、うん。 まさか、ケンカになっちゃってるんじゃ……
@@ -132,7 +128,7 @@
 レン: きっと、欠片同士で共鳴してるんだと思う！
 司: 共鳴？　では、ケンカをしているわけではない、と……？
 リン: うん。だから、もうちょっと様子を——
-(White cut)
+(White transition)
 (Background change)
 ライセ: ……君が気にかけてくれてるのはわかってた。 前回のこともあるし、 ケガを心配してくれてるんだろうなっていうのも
 ライセ: ……俺、覚悟を決めたよ
@@ -144,7 +140,7 @@
 ミナト: …………
 ミナト: ……ああ。 今度こそ、本当の意味で君を信じるよ
 ミナト: 必ず、ふたりでグランプリを勝ち取ろう
-(White cut)
+(White transition)
 (Background change)
 みのり: あ、また想いの欠片が……！
 リン: ……ねえ、レン！　これって……！
@@ -154,15 +150,15 @@
 レン: これから起きることを、しっかり見てて！
 リン: じゃあ、わたしはライセくんの想いの欠片を！
 レン: オレはミナトの方だね！ よいしょっと……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000586/bg_s000586.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000586/bg_s000586.webp)
 杏: ……えっ！　想いの欠片が……
 みのり: 重なってく……！
 リン: やっぱり思った通りだったね、レン！
 レン: うん！
 レン: ふたりの想いは共鳴して——ひとつになったんだ！
 レン: ……さあ、生まれておいで！
-(White cut)
+(White transition)
 (Background change)
 司: ……おお！　ものすごい勢いで空高く昇って行ったぞ！？
 レン: みんなは今、セカイが生まれた瞬間を見たんだよ！
@@ -180,4 +176,4 @@
 リン: それくらい、キラキラしてたもんね！
 リン: 見に行くの楽しみだね、レン
 レン: うん！ セカイのオレ達もいるかもだし、会いに行かないとね！
-(Black cut)
+(Black transition)

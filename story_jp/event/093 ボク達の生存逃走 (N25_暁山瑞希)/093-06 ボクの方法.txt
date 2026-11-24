@@ -51,8 +51,8 @@
 瑞希: あはは……まあ、そうだよねえ
 瑞希: 本当に、臆病だよね……
 ルカ: ……そうね。 でも——
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000187/bg_s000187.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000187/bg_s000187.webp)
 ルカ: そんなあなただからできることが、あるんじゃない？
 瑞希: え？
 ルカ: 瑞希は、自分には何もできないって言うけれど……
@@ -66,18 +66,14 @@
 ルカ: 瑞希
 ルカ: あなたが壊れそうになった時 あなたは、どうしたの？
 ルカ: どんな方法で——心を守ったの？
-(White cut)
+(White transition)
 (Background change)
 瑞希: ボクが……壊れそうになった時……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 瑞希: （あの時——）
 瑞希: （ボクは、このままじゃボク自身が消えちゃいそうで…… すごく苦しかった）
@@ -87,14 +83,10 @@
 瑞希: （そのおかげで、守れた）
 瑞希: （逃げて……逃げて、逃げたから、 ボクは、ボクの——心を守れた）
 瑞希: （それで——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 瑞希: （みんなと、出会えたんだ）
 瑞希: （みんなと一緒にMVを作るうちに、 自分の気持ちを、自分の感覚を伝えていいんだって感じて……）
 瑞希: （ボクは、ボクのままでいいのかなって、思えた）
@@ -109,4 +101,4 @@
 ルカ: あら、私はただ『考えかたを変えてみたら』と言っただけよ？
 瑞希: （……この答えが本当に、 まふゆを助けられるかはわからない）
 瑞希: （でも……！）
-(Black cut)
+(Black transition)

@@ -32,12 +32,12 @@
 遥: だとしても、100％ではありません。 なら、敗退する可能性だってあります
 遥: 勝ち抜く確度をもっと上げたい。 そうは思いませんか？
 柊: …………
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000524/bg_s000524.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000524/bg_s000524.webp)
 遥: だから——
 遥: どうかお願いします。柊さん
 遥: 勝ち抜くため——希望を届けるために、アドバイスをください！
-(White cut)
+(White transition)
 (Background change)
 柊: …………
 柊: ——何が聞きたい？
@@ -51,7 +51,7 @@
 柊: それが判断軸になる
 遥: 『希望の物語』……
 遥: それはつまり——
-(Black cut)
+(Black transition)
 (Background change)
 
 [数時間後]
@@ -93,4 +93,4 @@
 遥: ……ありがとう、日暮さん
 遥: ——それじゃあみんな
 遥: ここからイベントまで、本気で突き進もう！！
-(Black cut)
+(Black transition)

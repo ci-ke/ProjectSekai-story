@@ -43,22 +43,22 @@ Mafuyu: It's #3.
 Mizuki: Huh? You know the answer, Mafuyu?!
 Mafuyu: I helped put together an exhibit about the history of each school in Shibuya as part of my class rep duties, so I'm fairly certain.
 Ena: Then, three it is! Hurry, Kanade, raise your flag!
-(Black cut)
+(Black transition)
 MC: Next question! “Which event from Kamiyama High's sports festival always garners considerable acclaim?”
 Mizuki: Oh, I know this one! The cheering competition! So, #1!
-(Black cut)
+(Black transition)
 MC: “What did Class 3-D prepare for this year's festival?” This is meant to be a freebie, so please feel free to take a look at your pamphlets!
 Mafuyu: 3-D? Isn't that your class, Ena...?
 Kanade: That means the answer's grilled squid, so #2.
-(Black cut)
+(Black transition)
 MC: And here's another freebie for you Kamiyama High students out there! “Which teacher is in charge of all the third-years?”
 Mafuyu: Which one is it, Ena...?
 Ena: U-Uhh... Do night school and daytime students have the same teacher assigned...?
 Mizuki: Hey, don't look at me! I'm not even a third-year!
-(Black cut)
+(Black transition)
 MC: Alright, here comes the ninth question! This one involves the school song!
 Ena: What?! I don't remember the school song!
-(Black cut)
+(Black transition)
 MC: Thank you all for participating in the Kamiyama High Quiz Tournament!
 MC: We hope that you were all able to learn a few fun facts about our school! And please do keep enjoying our wonderful festival!
 Kanade: That was a tough quiz.
@@ -74,7 +74,7 @@ Ena: That's your takeaway...? Did you find it fun...?
 Mafuyu: It was a nice break, I think...
 Kanade: Yes, I also feel rather refreshed now.
 Mizuki: That's great to hear! Anyway, what should we check out next?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -91,7 +91,7 @@ Mafuyu: The lunch rush is probably over, so it may not be all that crowded.
 Ena: You're serious about going...?
 Mizuki: Yeah, since we're here! You practiced making them a ton, right? You gotta grill us up some squid!
 Ena: Alright, fine. If it isn't that crowded...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stalls]
@@ -132,7 +132,7 @@ Mafuyu: Come to think of it, squid is apparently “grilled” very differently 
 Kanade: Wait, really?
 Ena: Oh, one of my classmates mentioned that. We're all used to seeing squid grilled whole as it is over here in Kanto.
 Mizuki: Yeah, that came up in one of the anime I saw! In Kansai...
-(Black cut)
+(Black transition)
 
 [A few minutes later]
 
@@ -150,4 +150,4 @@ Ena: Right? We did get some good squid for this.
 Mafuyu: But you couldn't remember where these were caught or what species they are...
 Ena: Just eat.
 Mizuki: Haha!
-(Black cut)
+(Black transition)

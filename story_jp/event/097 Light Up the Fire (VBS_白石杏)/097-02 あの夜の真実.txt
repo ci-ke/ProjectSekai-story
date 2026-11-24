@@ -29,15 +29,11 @@
 大河: だが……超えられねえ理由はシンプルだ
 大河: 圧倒的に——足りねえんだよ
 杏: ……！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 杏: それは……！　たしかに、大河おじさん達に比べれば まだまだかもしれないけど、でもちゃんと力をつけていけば、 きっといつか——！
 大河: そういう問題じゃねえ
@@ -54,10 +50,8 @@
 彰人: 人生の、最期……？
 杏: あいつ、って…………？
 杏: ……あ…………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 杏の父: ……おい、杏。 まだ拗ねてるのか
 中学生の杏 (杏): だって……だって！ 凪さんが、私に黙って行っちゃうから……！
 中学生の杏 (杏): アメリカに行くなら、 ちゃんと見送りたかったのに……
@@ -67,10 +61,8 @@
 中学生の杏 (杏): 戻ってきたら絶対に、 ごめんねって言わせるんだから！
 中学生の杏 (杏): ……？　どうしたの？
 杏の父: いや……。 大したことじゃない
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 杏: …………まさか…………
 杏: でも……そんな、こと……え……？
 大河: あの夜は——あるミュージシャンの最期のイベントだった
@@ -98,17 +90,13 @@
 洸太郎: 街ぐるみで人ひとり死んだこと隠すなんて、 そんな……！！
 冬弥: ……どうしてそんなことを？
 大河: 他でもねえ——凪自身がそう望んだからだ
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 凪: ……お願い
 凪: 私のわがままに、つきあってくれないかな
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: ……凪がもうこの世にいねえってことは、 昔から街にいる連中は全員知ってる
 大河: 知らねえのは、外からこの街に出入りするようになった連中と——
@@ -119,15 +107,11 @@
 杏: あ…………
 大河: ……この街の連中は、昔からずっと凪を見てきた。 あいつがまだ泣き虫だった頃から、ずっとな
 大河: だから——
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 大河: ——あいつの最期のエゴも 守ってやろうって気になったんだろうよ
 杏: …………
@@ -160,4 +144,4 @@
 (Background change)
 リン: 『ど……どうしよう……！』
 リン: 『み、みんなにも知らせなくっちゃ……！』
-(Black cut)
+(Black transition)

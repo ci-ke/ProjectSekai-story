@@ -17,7 +17,7 @@
 冬弥: （……すごいな。 空気がガラリと変わった）
 冬弥: （これが演出家というものなんだろうか……）
 類: さあ、それでは練習を始めましょうか！
-(Black cut)
+(Black transition)
 類: 今回は時間も限られているので、『誓いの言葉を言おうとした 時に他の男性がプロポーズをする』という筋書きは当初のまま、 少々アレンジを加えていく形にしようと考えています
 冬弥: アレンジ？ どんなアレンジをするんですか？
 類: じゃあここで問題だ、青柳くん。 この筋書きに足りないものはなんだろう？
@@ -57,21 +57,17 @@
 エキストラ達: 似顔絵を描くのはうまいって言われるけど……
 エキストラ達: えっと、折り紙ならかなり得意です
 エキストラ達: 私は——
-(Black cut)
+(Black transition)
 類: ふむふむ。 じゃあ最後……青柳くんは？
 冬弥: 俺の特技は——
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: （……一般的に見れば、 俺の特技はピアノやバイオリンだろう）
 冬弥: （だがそれは、過去だ。 今の俺が胸を張って言えるのは——）
 冬弥: ——歌です
@@ -83,4 +79,4 @@
 類: さて、役が与えられたからには、 君も立派な役者だ
 類: 最後までよろしく頼むよ、青柳くん
 冬弥: はい。 よろしくお願いします、神代先輩
-(Black cut)
+(Black transition)

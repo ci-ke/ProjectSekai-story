@@ -37,7 +37,7 @@ Shizuku: No, not right now. I'd rather not cause a fuss by making her think that
 Airi: Okay, that should probably be fine then.
 Airi: How about I go with you? Knowing you, your conversation won't end in time for our next class.
 Shizuku: Hehe. I appreciate it, Airi.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Courtyard]
@@ -81,7 +81,7 @@ Minori: I think so. Probably because he looks so much like a penguin.
 Airi: Oh, crap! Sorry, Minori, we gotta head back soon!
 Shizuku: Thank you for your input! You've been a huge help!
 Minori: You're very welcome! I'll see you again after school!
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Class 2-D)
 Airi: Phew... Made it...
@@ -91,7 +91,7 @@ Airi: Yeah. She wouldn't do something like ordering all those cream puffs otherw
 Shizuku: Hehe. I'm feeling much more hopeful now.
 Airi: Me too. Let's try out what we can this Sunday, okay?
 Shizuku: Okay!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -161,4 +161,4 @@ Haruka: I'll try to be more careful from now on... Promise to tell me when you t
 Shizuku: Yes, of course.
 Shizuku: (Learning how to support my friends and be there for them when they need me...)
 Shizuku: (I have to keep growing as an idol to do that.)
-(Black cut)
+(Black transition)

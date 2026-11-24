@@ -3,7 +3,7 @@
 (Character: Airi Momoi, Ena Shinonome)
 
 (Video: link2_night_op2)
-(Black cut)
+(Black transition)
 (Background change)
 
 [Miyamasuzaka]
@@ -15,7 +15,7 @@ Ena: I know, but...
 Airi: Yeah, I get it. But we're getting your feet back under you, so you'll just have to bear it.
 Airi: Come on. Those pancakes won't eat themselves!
 Ena: Yeah...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Cafe]
@@ -26,10 +26,8 @@ Airi: The pancakes here are really good. I'm sure you're gonna love them, Ena.
 Ena: That's cool...
 Ena: (Airi must be so busy with all her idol work... I really can't thank her enough for doing this.)
 Ena: (If she didn't contact me that time, then I probably would've...)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Ena: Still no good...
 Ena: (Why...?)
@@ -43,7 +41,7 @@ Ena: (Is this all there is for me?)
 Ena: (Not being able to draw. Not acknowledged by anyone...)
 Ena: (Do I really have to keep living on like this...?)
 Ena: I want to disappear...
-(Black cut)
+(Black transition)
 
 [A few days later]
 
@@ -60,10 +58,8 @@ Ena: It's so happy and cheerful...
 Ena: Must be nice, having hope.
 Ena: Huh...?
 Ena: Airi...?
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Airi: What's wrong, Ena?
 Ena: Oh, umm...
@@ -75,4 +71,4 @@ Airi: I wouldn't be much of an idol if I didn't take the time to help my best fr
 Airi: I'm here because I want to be here! So... Ena, there's no need for you to apologize.
 Ena: Airi...
 Ena: Thanks...
-(Black cut)
+(Black transition)

@@ -27,34 +27,26 @@ Gacha phrase: ここから少し、プランを変更するよ！
 類: ……そうだね。緊張、しているのかもしれない
 類: ワンダーランズ×ショウタイム以外の 誰かに演出をつけるなんて、久しぶりだったからね
 類: （本当に、あの時以来かもしれない……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ？？？: なんだよそれ。そんなバカみたいなことできるわけないだろ。 もっとまじめに考えろよ
-(White cut)
+(White transition)
 ？？？: ぼく達を危険な目にあわせて、おもしろがってるだけじゃないの？
-(White cut)
+(White transition)
 ？？？: ……もう、ついていけないよ……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 僕の演出は、誰にも受け入れてもらえない。 だから自分でやるしかない——
 類: かつての僕は、そう思っていたんだ
 レン: 『類くん……』
 類: でも今は、司くん達がいる
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 司くん達は観客の笑顔のためならばと、 僕を信じて、演出を受け入れてくれた
 類: だから司くん達となら、 自分のやりたい演出を遠慮なくつけることができる
@@ -65,22 +57,18 @@ Gacha phrase: ここから少し、プランを変更するよ！
 類: 特に青柳くんは、演技をしながら歌うのは 初めてだと言っていたしね
 類: もともと彼は寡黙そうで、 積極的に誰かに話しかけたりするタイプでもないように思う
 類: それでも、プロポーズチームのメンバーや、 僕ともしっかり話そうとしてくれた
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥: 俺の身内にも、先輩と近い考えかたをする人がいます
-(White cut)
+(White transition)
 冬弥: そのやりかたを、俺は、はじめ理解できませんでした。 大切な人間を苦しめてまでするべきことなのかと
 冬弥: ですが今は、少しわかります
-(White cut)
+(White transition)
 冬弥: きっと彰人も、先輩の考えにどこかで通じるものを感じたから、 参加してくれたんだと思います
 冬弥: 俺達にも——妥協できないものがあるので
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 司くんの代役という責任感も きっとあるんだろうけれど……
 類: 青柳くんの、人や物事に対する真摯な向きあいかたに、 とても助けられたよ
@@ -98,7 +86,7 @@ Gacha phrase: ここから少し、プランを変更するよ！
 レン: 『よかったね、類くん！』
 類: ああ、そうだね
 類: （あのふたりがいてくれて、本当によかった）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -147,17 +135,13 @@ Gacha phrase: ここから少し、プランを変更するよ！
 類: 心配には及ばないよ
 類: 何もかもがうまくいったわけじゃないし、 相容れない人もやはりいるんだと 感じる場面もたしかにあった
 類: けれど……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 彰人: 言っとくが、あんたのやりかたは気に食わねえ
 彰人: だが、何がなんでも成功させてやろうって 気持ちだけはわかる
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 類: 新郎新婦のためにサプライズショーを成功させる—— という目的のために、 みんなが僕の演出に全力で応えてくれたんだ
 類: 同じ目的のためならば、 たとえ考えかたは相容れなくても協力しあえると、 学ばせてもらったよ
@@ -175,4 +159,4 @@ Gacha phrase: ここから少し、プランを変更するよ！
 類: ああ。みんな、ありがとう
 類: （まったく、頼もしいね）
 類: （ならば僕も、僕の全力の演出でみんなに応えるとしようか）
-(Black cut)
+(Black transition)

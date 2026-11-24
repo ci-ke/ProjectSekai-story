@@ -7,7 +7,7 @@ Gacha phrase: なんで私が心配しなきゃいけないわけ？
 
 (Character: 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク, 巡音ルカ)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [誰もいないセカイ]
@@ -46,7 +46,7 @@ Gacha phrase: なんで私が心配しなきゃいけないわけ？
 奏: それじゃあ……ミク、ルカ、また今度
 ミク (N25): うん
 ルカ: ええ、何かあったらいつでも来て
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -60,14 +60,14 @@ Gacha phrase: なんで私が心配しなきゃいけないわけ？
 絵名: （でも下手に送って『通知で起こされた』とか 言われてもムカつくし）
 絵名: ——ていうか、なんで私がそんな心配まで してあげなきゃなんないわけ？
 絵名: あー、やめやめ。 着替えて寝よーっと
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
 
 (Character: 宵崎奏, 東雲絵名, 暁山瑞希)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [絵名の部屋]
@@ -86,7 +86,7 @@ Gacha phrase: なんで私が心配しなきゃいけないわけ？
 絵名: 『悪い？　それより、K。 何か話があるみたいだったけど……』
 (Background change)
 奏: 『あ、うん。実は……』
-(Black cut)
+(Black transition)
 (Background change)
 瑞希: 『あっちゃぁ……。 雪、やっぱり学校行ったんだ……』
 (Background change)
@@ -143,4 +143,4 @@ Gacha phrase: なんで私が心配しなきゃいけないわけ？
 (Background change)
 絵名: 『ふふ、どういたしまして。 じゃあ……雪のこと、よろしく』
 奏: 『うん。また夜に』
-(Black cut)
+(Black transition)

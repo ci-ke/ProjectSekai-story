@@ -28,7 +28,7 @@ Haruka: Anyway, I'll see you later.
 Miku (MMJ): <Okay, bye bye!>
 Miku (MMJ): (They're all letting Shizuku work because they all believe in her...)
 Miku (MMJ): (Which means I should also...)
-(Black cut)
+(Black transition)
 
 [Several dozen minutes later]
 
@@ -57,7 +57,7 @@ Shizuku: Yes...
 Shizuku: I couldn't be happier.
 Miku (MMJ): (Don't worry, Shizuku.)
 Miku (MMJ): (Because they're all behind you.)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -68,22 +68,18 @@ Miku (MMJ): (Because they're all behind you.)
 
 Miku (MMJ): Phew... Today's practice felt really good♪
 Miku (MMJ): Could it be because I tried copying the way Shizuku uses her body as she poses?
-(White cut)
-
-(Memory cut-in)
-
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000387/bg_s000387.webp)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000387/bg_s000387.webp)
+(White transition)
+(Flashback out)
 (Background change)
 Miku (MMJ): (She was so stunning during that shoot...)
 Miku (MMJ): (She took a hard look at her old self and practiced like there was no tomorrow...)
 Miku (MMJ): (The shoot apparently went very well for that commercial, so I'm glad that everything paid off in the end for her.)
 Miku (MMJ): Oh, that reminds me... I promised Shizuku and the others that I'd meet them today.
 Miku (MMJ): I think I'll head over to where they are now.
-(Black cut)
+(Black transition)
 (Background change)
 
 [Shopping Mall]
@@ -112,7 +108,7 @@ Shizuku: Which is why I'd like to thank you all somehow.
 Miku (MMJ): <I see. Then, if you don't mind, would you mind getting some of these for us?>
 Haruka: Of course. We have a very wide selection of Japanese sweets available to us here, so let's choose together.
 Miku (MMJ): <Sounds good! Let's find some sweets that Rin and the others are going to really love♪>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Stage SEKAI - Flower Field]
@@ -134,7 +130,7 @@ Miku (MMJ): Yes, we had to pick them because their adorable smiles immediately r
 MEIKO (MMJ): Hehe. Thank you! I don't know what to say.
 Miku (MMJ): And I haven't forgotten about you guys, Len, KAITO! We worked really hard to pick these out, so I hope you'll love them.
 KAITO (MMJ): Thank you for choosing such wonderful gifts for us. So, why don't we see how these taste?
-(Black cut)
+(Black transition)
 KAITO (MMJ): Still...
 KAITO (MMJ): Thank goodness Shizuku's shoot ended up going so well.
 Miku (MMJ): And the commercial turned out beautifully!
@@ -143,17 +139,13 @@ Miku (MMJ): Huh?
 MEIKO (MMJ): You were the first one to go over and watch her practice.
 Miku (MMJ): Oh... *Nod*
 Miku (MMJ): That's right...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Shizuku: Not bad... But I can still do better.
 Miku (MMJ): ...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Miku (MMJ): (With each successive practice, she learned to shine brighter and brighter...)
 Miku (MMJ): (I honestly couldn't wait to see where she was going to end up.)
@@ -166,4 +158,4 @@ KAITO (MMJ): What? I really appreciate you saying that, but I also feel a little
 Miku (MMJ): Hehe.
 Miku (MMJ): (If I'm going to become an even more spectacular idol than I already am...)
 Miku (MMJ): (Then I also need to keep finding ways to get better.)
-(Black cut)
+(Black transition)

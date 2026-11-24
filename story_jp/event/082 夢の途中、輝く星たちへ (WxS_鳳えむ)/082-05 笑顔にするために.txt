@@ -28,26 +28,22 @@ KAITO: ……そう考えたら、まずは落ち込んだ気持ちを回復で�
 類: ……ワンダーステージと、フェニックスワンダーランドだろうね
 MEIKO: たしかに、それが一番しっくりくる気がするわね
 ミク (WxS): うんうん！　だってそこには、 えむちゃんの大好きなみんなもいるもんねっ☆
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000155/bg_s000155.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000155/bg_s000155.webp)
 レン: ……それなら、みんなで一緒に フェニックスワンダーランドで遊ぶのはどう？
 寧々: え？
 レン: 大好きな場所で大好きなみんなと一緒に遊べたら、 ボクなら絶対、元気になれると思うんだ！
 ミク (WxS): たしかに～！ ミクもみんなとセカイで遊ぶこと考えたら……
 ミク (WxS): ——うううっ、なんかすっごくワクワクしてきちゃった～☆
-(White cut)
+(White transition)
 (Background change)
 寧々: たしかに、言ってることはわかるけど……
 寧々: わたし達、ショーのために毎日のように出入りしてるし…… そんな身近な場所で元気になってくれるかな……？
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 KAITO: 僕達が何を言おうと、最終的には えむちゃん自身が気持ちの整理をする必要がありそうだし
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 類: ……いや。 もしかしたら、これは妙案かもしれない
 レン: えっ、微妙だった？
 KAITO: 逆だよ、レン。 妙案っていうのは、『とってもいい案』ってことだから
@@ -64,7 +60,7 @@ KAITO: ごめんね、類くん。 大変な時に相談を持ちかけたりし
 寧々: ……そうだね
 寧々: （楽しみは楽しみ、なんだけど……）
 寧々: （本当にこれだけで、えむを元気づけられるのかな……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [えむの部屋]
@@ -90,4 +86,4 @@ KAITO: ごめんね、類くん。 大変な時に相談を持ちかけたりし
 えむ: こんな自分も、すごく……やだなあ
 えむ: このまま……お別れがくるまでずっと、 みんなの夢を応援できなくなっちゃうのかな……
 えむ: そんなの……あたし……
-(Black cut)
+(Black transition)

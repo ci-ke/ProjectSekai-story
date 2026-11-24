@@ -28,18 +28,14 @@
 杏: 『リスニングの勉強にもなりそうだし、頑張ります！』
 ロイド: 『よし。 じゃあ君達からすれば、むかーし昔……』
 ロイド: 『このニューヨーク音楽院に、ひとりの留学生がやってきたんだ』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 ロイド: 『もともとこの学院にいるのは、音楽に人生を捧げた者ばかり』
 ロイド: 『誰もが日々の練習に没頭し、 ただただ上を目指して、演奏の腕を磨き続ける——』
 ロイド: 『そんな中でも、その留学生の奏でる音色は際立っていた』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （……その留学生が、父さんか）
 ロイド: 『専攻であるクラシック以外の学部にまで、 留学生の噂は聞こえてくる』
@@ -60,33 +56,25 @@
 ロイド: 『うん。ちょっとした思いつきだったんだけど……』
 ロイド: 『留学生が練習してたクラシックの曲を、 ジャズアレンジして弾いてみたんだ。 ほんのイタズラ心さ』
 冬弥: …………！
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 冬弥の父: この曲は、作曲者が家族に贈った練習曲だ。 決して幸せではない渦中で、彼がどんな願いを込めたか…… その心情がわかっていれば、そんな弾きかたは選ばない
 冬弥の父: 冬弥、お前は楽譜を本当に読みこんだのか？ そこには、別の楽章の旋律が同じ音型で引用されている。 その意図をよく考えるんだ。もう練習はいい、楽譜を読みなさい
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 冬弥: （父さんは楽曲分析を重視し、 作曲者が音楽にこめた純粋な意志を追求する人だ）
 冬弥: （だからこそ、作曲者が意図しないアレンジや アドリブを嫌っていたはず……）
 冬弥: 『その留学生は……どんな反応をしたんですか？』
 ロイド: 『…………』
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 学生時代の春道: 『……終盤の転調が特に美しかった』
 学生時代の春道: 『さっきの演奏について、詳しく話が聞きたい』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ロイド: 『そこから少しずつ、雑談なんかもするようになってね』
 ロイド: 『それでようやくわかったんだ』
@@ -122,4 +110,4 @@
 冬弥: ………………
 冬弥: 俺は——
 冬弥: 父さんについて、知らないことばかりだ
-(Black cut)
+(Black transition)

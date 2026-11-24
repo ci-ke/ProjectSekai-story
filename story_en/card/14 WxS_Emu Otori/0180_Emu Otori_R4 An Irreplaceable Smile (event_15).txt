@@ -12,21 +12,17 @@ Gacha phrase: I feel all warm and fuzzy inside!
 [Wonder Stage]
 
 Emu: I've gotta do what I can too...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Keisuke: Tomorrow, we'll be meeting with Riley Entertainment to finalize a licensing agreement that will allow us to use their characters.
 Keisuke: As I'm sure you're already aware, Riley Entertainment produces and distributes films, some of which have become blockbusters that spawned a variety of popular characters.
 Keisuke: Phoenix Wonderland will have themes centering around these characters from now on.
-(White cut)
+(White transition)
 Keisuke: We're out of choices.
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Emu: I've seen other rides get taken down or renovated to be all new but...
 Emu: If that partnership actually goes through, this won't be grandpa's Phoenix Wonderland anymore!
 Emu: (Phoenix Wonderland's a place where everyone from kids to the elderly all get to smile...)
@@ -43,7 +39,7 @@ Emu: I'll just have to say that I can't make it. Then I can go and talk to my br
 Mascot: Ms. Emu...
 Emu: Please, Mr. Mascot. Will you find where they are for me?!
 Mascot: Understood. I shall start searching...
-(Black cut)
+(Black transition)
 (Background change)
 (Place: Phoenix Woderland)
 Emu: If I wait here, I'll be able to talk to them?
@@ -54,24 +50,20 @@ Emu: Got it! Thank you so much, Mr. Mascot!
 Mascot: You're welcome... But you have some time until the park closes, so what would you like to do?
 Emu: Hmm...
 Emu: Let's go on a little walk...
-(Black cut)
+(Black transition)
 
 [Dreamland]
 
 Emu: ...
 Emu: (After wandering for a while, I ended up here...)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Keisuke: And we'll need to decide soon which attraction to scrap next.
 Keisuke: The Trampoline Dome seems like a viable candidate. It's a low-yield attraction that's only meant for children so...
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Boy: Ready...! Jump!
 Girl: And... Jump!
 Emu: (Those voices... They're coming from the Trampoline Dome.)
@@ -80,16 +72,12 @@ Boy: No! I wanna play on the trampoline some more!
 Girl: Me too!
 Dad: Alright, alright. Just a little longer then...
 Emu: C-Could they be siblings...?
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
-(White cut)
+(Flashback in)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Emu: (Tsukasa and Saki played here when they were kids too.)
 Emu: ...
 Emu: (Keisuke and Shosuke said that kids stop coming here when they grow up but...)
@@ -111,7 +99,7 @@ Emu: (Saki isn't the only one that really truly loves this place...)
 Emu: (Yeah. My brothers and I just don't know that there could actually be a ton of people that really care...!)
 Emu: (I don't want just new visitors to come. I want everyone that's been here before to smile too!)
 Emu: That means I have to stop them!
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -121,26 +109,22 @@ Emu: That means I have to stop them!
 [Miyamasuzaka Girls Academy - Class 1-B]
 
 Emu: (I can't wait, I can't wait♪ When will homeroom finish, I can't wait♪)
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 Tsukasa: We're gonna need to move as a cohesive unit! We'll start by shouting our battle cry!
-(White cut)
+(White transition)
 Emu: Everyone, wonderhoy!
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 Female Teacher: And that's it for announcement. Please go home safe, every...
 Emu: Okay! Byeee!
-(Black cut)
+(Black transition)
 (Background change)
 Female Teacher's Voice: O-Otori! No running in the hall!
 Emu: Hehehe. Sorry...!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - School Gate]
@@ -148,7 +132,7 @@ Emu: Hehehe. Sorry...!
 Emu: I'm heeere!!
 Female Student A: Oh, it's the Miya Girls student again. I wonder what she's doing here since it's such a long way...
 Female Student B: Who knows? Maybe her best friend goes here or something?
-(Black cut)
+(Black transition)
 (Background change)
 
 [Kamiyama High School - Class 2-A]
@@ -206,4 +190,4 @@ Rui: Indeed.
 Rui: Now, shall we head over to SEKAI before a teacher finds us?
 Tsukasa: Right. We still have a mountain of work to plan out and think about before we can actually start!
 Emu: Yeah! SEKAI, here we come♪
-(Black cut)
+(Black transition)

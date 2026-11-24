@@ -36,7 +36,7 @@ KAITO (MMJ): 配信の企画とは違って、みんなを知らないお客さ�
 レン (MMJ): ここ最近のみんな、すごく忙しそうだから…… 無理しないように気をつけてね
 みのり: ありがとう、レンくん！ 体壊さないように注意してがんばるよ！
 ミク (MMJ): ふふ、応援してるね。 みんなの出る番組、楽しみだな
-(Black cut)
+(Black transition)
 (Background change)
 
 [収録当日]
@@ -78,7 +78,7 @@ KAITO (MMJ): 配信の企画とは違って、みんなを知らないお客さ�
 みのり: あっ、じゃあわたし、ちょっとお手洗い行ってくる！
 愛莉: たしか、スタジオ出て左のほうにあったわよ。 戻ってくる時に迷わないよう気をつけてね
 みのり: はーい、いってきます！
-(Black cut)
+(Black transition)
 
 [数分後]
 
@@ -94,15 +94,15 @@ KAITO (MMJ): 配信の企画とは違って、みんなを知らないお客さ�
 みのり: うんっ、反応よくてすっごく嬉しかったな！ 顔見て撮影できるのもすごく新鮮だったし、 後半も、この調子で——
 観覧席のお客さんＡ: ねえ、なんで今日のゲストって MORE MORE JUMP！とかいう子達になったの？
 みのり: え……
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000284/bg_s000284.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000284/bg_s000284.webp)
 観覧席のお客さんＡ: 元々『LiLia』がゲストだったから、 それ楽しみに観覧申し込んだんだけど
 観覧席のお客さんＢ: あー、今LiLiaって海外にいるんだって。 で、向こうの飛行機が天候不良で飛べなくなったから 帰ってこれないらしいよ
 観覧席のお客さんＡ: へ～、そうだったんだ。 じゃあ、あの子達はその代打ってことか
 観覧席のお客さんＡ: まあ、そういう事情ならしょうがないし、 MORE MORE JUMP！の子達も頑張ってるとは思うけど……
 観覧席のお客さんＢ: やっぱり、LiLiaが見たい気持ちはあるよね
 みのり: …………
-(White cut)
+(White transition)
 (Background change)
 ミク (MMJ): 『……みのりちゃん……』
 みのり: ……そうだよね
@@ -116,4 +116,4 @@ KAITO (MMJ): 配信の企画とは違って、みんなを知らないお客さ�
 みのり: えっ……
 おばあさん: こんにちは。 また会えたわね
 みのり: この前の、おばあさん……！？
-(Black cut)
+(Black transition)

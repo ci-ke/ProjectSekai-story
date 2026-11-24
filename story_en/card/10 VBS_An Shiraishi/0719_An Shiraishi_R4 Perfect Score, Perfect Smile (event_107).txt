@@ -23,7 +23,7 @@ Mizuki: Li'l Bro? Aren't you gonna join them?
 Akito: I'll pass. I don't want to move right now...
 Rui: Hehe. You're looking a little flushed. Why don't I open the window for a while to help you cool off.
 Akito: I'd like that... Thank you...
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rooftop]
@@ -69,7 +69,7 @@ An: *Sigh* That felt so good!
 Tsukasa: Heh. There was real moxie in that shout! I'd expect no less from you!
 Tsukasa: Your singing! My shows! Today takes us one step closer to passionately doing the things we love.
 An: You're right! How about we head back now?
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -127,4 +127,4 @@ An: But, I will keep studying hard!
 An: Hang on, while we're here talking, our dinner's getting cold! We can't let that extra crispy tonkatsu go soggy!
 An's Father: You're right. Let's go home.
 An: Yeah!
-(Black cut)
+(Black transition)

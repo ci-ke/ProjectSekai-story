@@ -16,22 +16,22 @@
 MEIKO: これも、あの子達が成長している証なのかしら
 KAITO: そうかもしれないね。 みんなはこれまで、たくさんのことを経験してきたから
 ミク: そうだね——
-(White cut)
+(White transition)
 (Background change)
 ミク: ４人で一緒に、プロを目指して 一歩一歩進んできたり——
-(White cut)
+(White transition)
 (Background change)
 ミク: アイドルとして希望を届けるために 毎日努力を重ねてきたり——
-(White cut)
+(White transition)
 (Background change)
 ミク: 伝説の夜を超えるために それぞれの試練を乗り越えてきたり——
-(White cut)
+(White transition)
 (Background change)
 ミク: それぞれの夢を叶えるために 新しい場所へ旅立つことを決めたり——
-(White cut)
+(White transition)
 (Background change)
 ミク: 自分を見つけるために、 つらいことにも向き合ってきたり—
-(White cut)
+(White transition)
 (Background change)
 ミク: ……本当の想いを見つけたあと、 いろんな経験をして、いろんな想いを積み重ねてきた
 ミク: そんな、みんなの想いがセカイに影響して—— セカイも、少しずつ変化してるんだろうね
@@ -47,4 +47,4 @@ MEIKO: ええ。あの子達に、何か関係があるかもしれないし！
 (Selection: 『もちろん！』/『一緒に行くよ！』)
 ミク: ありがとう！
 ミク: それじゃあ……いくよ！
-(White cut)
+(White transition)

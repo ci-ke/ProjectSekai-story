@@ -52,15 +52,11 @@ Skill name: いつでも会いに来て
 レン: うん……。 まふゆちゃんも、嬉しそうだった
 レン: ぼくも……ちょっと、安心したな
 ミク (N25): ……そうだね
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 ミク (N25): ……会いたい時に会えないのは、すごく……心配だから
 レン: ミク……
@@ -68,7 +64,7 @@ Skill name: いつでも会いに来て
 ミク (N25): そうだといいね
 レン: ……うん！
 ミク (N25): はやく、直るといいな……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -132,4 +128,4 @@ MEIKO (N25): ……そうね。私も行くわ
 ルカ (N25): 温度……。 ふうん、なかなか面白い観点ね
 ルカ (N25): これからはこの場所のことも、 見守ってあげたほうがよさそうね
 ミク (N25): うん……
-(Black cut)
+(Black transition)

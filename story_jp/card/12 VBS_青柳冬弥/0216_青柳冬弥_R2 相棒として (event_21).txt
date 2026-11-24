@@ -9,37 +9,29 @@ Skill name: BAD DOGSの由来
 [ビビッドストリート]
 
 冬弥: …………
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 彰人: オレは、４人でRAD WEEKENDを超えるためには、 オレ自身が一線級にならなきゃならねえって思って、焦りすぎた
 彰人: そのことは……本当に悪かった
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: （彰人にちゃんと伝えられて……、 わかってもらえて、本当によかった）
 冬弥: （ただ……）
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 冬弥: 彰人、そろそろ昼を食べに……
 彰人: …………
 冬弥: ……彰人？
 彰人: ん……ああ、冬弥か。 悪ぃ、ぼーっとしてた
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: （昨日、学校ではあまり元気がないように見えたな）
 冬弥: （早く本調子に戻ってくれるといいんだが……）
-(Black cut)
+(Black transition)
 (Background change)
 
 [WEEKEND GARAGE]
@@ -107,7 +99,7 @@ Skill name: BAD DOGSの由来
 冬弥: ……ああ、俺もだ。 ありがとう、ふたりとも
 彰人の声 (彰人): 何してんだ？　さっさと来いよ！
 冬弥: ああ、今行く！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -120,12 +112,12 @@ Skill name: BAD DOGSの由来
 
 冬弥・彰人: 『♪————！』
 こはね・杏: 『♪——！　♪——！』
-(Black cut)
+(Black transition)
 冬弥: ……ふう。 これでひととおり確認は終わったな
 杏: じゃあキリがいいし、 今日の練習はここまでにしよっか
 彰人: そうだな。 じゃあ、オレはバイトがあるから、先に出るぞ
 こはね: うん、お疲れさま！ また明日ね！
-(Black cut)
+(Black transition)
 (Background change)
 杏: さーてと、私はちょっと休憩しよっかな。 こはねと冬弥も、ちょっと休んでかない？
 こはね: うん、そうしよっかな
@@ -171,18 +163,14 @@ Skill name: BAD DOGSの由来
 冬弥: こちらをただこき下ろしてくる悪意に満ちた人もいた
 洸太郎: けどあの性格だから、しれーっと近寄ってって 逆にかみついてたけどな
 冬弥: そうだな
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 彰人: 何様のつもりだあいつら。 人の夢をバカにする権利があるとでも思ってんのか
 彰人: 夢も理想もなしに、 じゃあなんのために“この場所”で歌ってんだよ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: あの頃の彰人は、よく怒っていた
 冬弥: ただ……決して自分のために怒っていたわけじゃない
 冬弥: 夢は誰だって見ていいはずなのに、 夢を見ることすら否定されるのが嫌だったんだろう
@@ -191,11 +179,9 @@ Skill name: BAD DOGSの由来
 こはね: それだけ、東雲くんにとって大事な夢っていうことだよね
 冬弥: そうだな
 冬弥: ……俺は、そういう彰人の姿を見て、 一緒に組むことにしたんだ
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-in)
-
+(Flashback in)
 彰人: 人のことを笑うしか能がねえヤツらには、 勝手に言わせておけばいい
 彰人: けどな……いつか絶対、黙らせる
 冬弥: ああ。チームを組む以上、俺も手伝おう
@@ -210,11 +196,9 @@ Skill name: BAD DOGSの由来
 冬弥: もうひとつの、意味？
 彰人: ああ。BAD DOGSはスラングで、 『最高の相棒』って意味だ
 彰人: なあ、いいよな？
-(White cut)
+(White transition)
 (Background change)
-
-(Memory cut-out)
-
+(Flashback out)
 冬弥: （そういえば、あの頃は知らなかったから 気に留めなかったが……）
 冬弥: （“犬”になったのは、 きっとスラングだけが理由じゃないな）
 こはね: ……青柳くん、どうしたの？
@@ -226,4 +210,4 @@ Skill name: BAD DOGSの由来
 洸太郎: 言っとくが、オレだってお前らには負けねえからな！
 冬弥: ああ、のぞむところだ
 冬弥: （いつか４人で、RAD WEEKENDを超えるために——。 立ち止まってはいられない）
-(Black cut)
+(Black transition)

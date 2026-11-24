@@ -7,7 +7,7 @@ Gacha phrase: Never say never if there's still a chance.
 
 (Character: Emu Otori, Nene Kusanagi, Rui Kamishiro, Hatsune Miku)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Phoenix Wonderland]
@@ -30,7 +30,7 @@ Miku (WxS): <Wahoy♪ Thanks, Emu☆ Oh, Nene, Rui, you're both here too!>
 Rui: Yes, we are. What brings you here all of a sudden?
 Miku (WxS): <Oh, about that! There's something I wanna ask you, Rui♪>
 Rui: Ask me?
-(Black cut)
+(Black transition)
 Miku (WxS): <Which is why I wanna try “looking for something in common” like Tsukasa's doing...>
 Miku (WxS): <For that other show you did as ambassadors, you noticed that Nene and the Little Mermaid both like to play video games, right? Is it similar to that?>
 Emu: Oh, I wanna know too! Rui, please tell us!
@@ -75,14 +75,14 @@ Emu: Serendipity?
 Rui: Yes. A chance discovery that leads one to a profound realization.
 Rui: (Will our dear troupe leader be able to make such a discovery...?)
 Rui: (We'll be awaiting good news, Tsukasa...)
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
 
 (Character: Tsukasa Tenma, Emu Otori, Nene Kusanagi, Rui Kamishiro)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rui's Room]
@@ -90,22 +90,18 @@ Rui: (We'll be awaiting good news, Tsukasa...)
 Rui: (Our show at the music hall couldn't have gone better.)
 Rui: (For a while there, we weren't sure if we could actually go through with it.)
 Rui: (But Tsukasa gave us an incredible performance.)
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Thorpe (Tsukasa): “*Sigh* I only have half a day left...”
 Thorpe (Tsukasa): “The stars... They're so beautiful...”
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Rui: (He even managed to figure out how to handle the scene where Thorpe looks at the stars.)
 Rui: Anyway... We'll be having a discussion surrounding our next regular show tomorrow...
 Rui: Hmm... It may be a good opportunity for me to bring that thing up as well.
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -137,7 +133,7 @@ Rui: See what I mean? Feel up to it, Tsukasa?
 Tsukasa: Heh. Of course!
 Tsukasa: I've taken a big step forward as an actor, so let's give everyone the new and improved Black Knight!
 Rui: Wonderful! Why don't we start by taking another look at the script?
-(Black cut)
+(Black transition)
 Rui: The Black Knight is actually someone who loves peace and used his sword to protect people.
 Rui: He was even revered as the “Knight of Peace”, but...
 Tsukasa: He began to change after having to fight in so many battles.
@@ -162,4 +158,4 @@ Tsukasa: But even going over just the beginning has uncovered all these ways I c
 Tsukasa: If we keep this up, I'm sure we'll be able to put on a show that's orders of magnitude better than before!
 Rui: Yes, I agree.
 Rui: We'll be counting on you, Tsukasa!
-(Black cut)
+(Black transition)

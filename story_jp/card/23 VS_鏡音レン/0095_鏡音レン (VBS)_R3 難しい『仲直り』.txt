@@ -10,20 +10,16 @@ Gacha phrase: オレ……リンのところに行ってくる
 [ストリートのセカイ]
 
 レン: うーん、リンと仲直りしようって思ったけど、 今さらどうやって謝ったら……
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 レン: 彰人、頑張ってね！
 彰人: ……ありがとな、３人とも
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 レン: ……でも、彰人だって仲直りするって決めてたもんな。 だったらオレも——
-(Black cut)
+(Black transition)
 (Background change)
 
 [crase cafe]
@@ -48,7 +44,7 @@ MEIKO: ……あら
 レンの声 (レン): ……あ、あのさ……リン。 ちょっと話があるんだけど……
 レンの声 (レン): うん……その、あっちでいいか？
 MEIKO: ……大丈夫そうね。 ファイト、レン
-(Black cut)
+(Black transition)
 レン: ふふ～ん♪
 レン: ただいまー！
 MEIKO: おかえりなさい
@@ -73,7 +69,7 @@ MEIKO: レンとリンが仲直りした記念日だもの
 MEIKO: それじゃあ、レモンソーダを４人分…… closedの札も用意して……
 MEIKO: それじゃあ、行きましょうか！
 レン: うん！ リンとミクも、きっと喜ぶよ！
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -121,4 +117,4 @@ MEIKO: リンと仲直りもできたから、一緒にやりたいんでしょ�
 彰人: 協力してやるよ。 ただし、“最高のイベント”っていうからには、妥協はナシだ
 レン: もちろんだよ！　ありがとう、みんな！
 レン: それじゃあさっそく、作戦会議だね！！
-(Black cut)
+(Black transition)

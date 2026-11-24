@@ -26,7 +26,7 @@ Mafuyu: <I'll be busy on New Year's Day since we'll be visiting relatives, but i
 (Background change)
 Mizuki: <Woohoo! Thanks, guys!>
 Mizuki: <I'll let you know on Nightcord when everything's ready, and then we can move over to SEKAI.>
-(Black cut)
+(Black transition)
 (Background change)
 
 [Empty SEKAI]
@@ -34,14 +34,10 @@ Mizuki: <I'll let you know on Nightcord when everything's ready, and then we can
 Miku (N25): ...
 Miku (N25): No one's come here lately...
 Miku (N25): But... Maybe that's for the best...
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 Miku (N25): I hope they're all doing well...
 Mizuki: Hey, Miku!
 Miku (N25): Oh...
@@ -70,10 +66,10 @@ Mafuyu: My mom bought them a while ago but didn't use them in the end. I thought
 Mizuki: Yeah, they sure will! Thanks, guys!
 Miku (N25): You all seem happy...
 Miku (N25): I'm glad...
-(Black cut)
+(Black transition)
 Ena: Mizuki, mind if I arrange these snacks on the plates Mafuyu brought?
 Mizuki: Yeah, thanks!
-(Black cut)
+(Black transition)
 Ena: Whew...! This should do it!
 Mafuyu: I'm finished here too.
 Kanade: With all these snacks laid out, it really does feel like a party's about to start.
@@ -98,4 +94,4 @@ Miku (N25): (Anything can happen from here on out...)
 Miku (N25): (But I won't be pessimistic...)
 Miku (N25): (I'll be waiting for them. Always.)
 Miku (N25): Let's have a wonderful year, everyone.
-(White cut)
+(White transition)

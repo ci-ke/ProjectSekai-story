@@ -10,16 +10,12 @@ Gacha phrase: 私の気持ちを、知ってほしいの……！
 [まふゆの部屋]
 
 まふゆ: ………………
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 まふゆの母: まふゆ、おかえりなさい。 テストは返ってきた？
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （今、成績が落ちたって知られたら、 何を言われるかわからない）
 まふゆ: （……何か言われるだけで、すむの、かな……）
@@ -30,14 +26,12 @@ Gacha phrase: 私の気持ちを、知ってほしいの……！
 まふゆ: （でも、夜は寝ないとお母さんが心配する……。 学校の休み時間と放課後に勉強するしか……）
 まふゆ: あ……
 まふゆ: （休み時間をつぶすなら、昼休みも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 瑞希: 『まふゆ！　これは思いつきなんだけど……』
 瑞希: 『宮女の昼休みに合わせて ナイトコードを繋いで一緒に作業するのはどうかな？』
-(White cut)
+(White transition)
 (Background change)
 瑞希: 『雪のほうは声出せないから大変だと思うけど、 一緒に作業がんばろーう！』
 (Background change)
@@ -45,23 +39,17 @@ Gacha phrase: 私の気持ちを、知ってほしいの……！
 まふゆのメッセージ (まふゆ): 『えななんがしゃべりすぎなだけ』
 (Background change)
 絵名: 『しゃべりすぎってことはないでしょ！ いい物作るにはコミュニケーション取るべきだし！』
-(White cut)
+(White transition)
 (Background change)
 奏: 『……ふふ』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: ………………
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 まふゆ: （——もし次のテストで、挽回できなかったら……）
 まふゆ: （やっぱり、昼休みも勉強しなきゃ……）
 まふゆ: （奏達にも、伝えないと……）
@@ -99,7 +87,7 @@ Gacha phrase: 私の気持ちを、知ってほしいの……！
 まふゆのメッセージ (まふゆ): 『ありがとう。 時間ができたら顔を出すようにする』
 まふゆ: …………
 まふゆ: 着替えないと……
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -108,34 +96,26 @@ Gacha phrase: 私の気持ちを、知ってほしいの……！
 
 [住宅街]
 
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 KAITO: 『——まふゆ。 今、足掻かなければ、お前は終わる』
-(White cut)
+(White transition)
 KAITO: 『——噛みつけ。お前の想いを、ぶつけろ』
 KAITO: 『それがどういった結果になるかは、 誰にもわからないが——そうしないと何も始まらない』
 まふゆ: 私の、想いを……
-(White cut)
+(White transition)
 ミク (N25): 『わたし達が……まふゆを、支えるから』
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: （……伝えないと。 私の、気持ちを……）
 まふゆ: （お母さん、に……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 まふゆ: …………っ
 まふゆ: （やっぱり、怖い……）
@@ -171,4 +151,4 @@ KAITO: 『——いくぞ』
 まふゆ: ……うん
 まふゆ: （お母さんに、伝えないと……）
 まふゆ: （私の、本当の気持ちを——）
-(Black cut)
+(Black transition)

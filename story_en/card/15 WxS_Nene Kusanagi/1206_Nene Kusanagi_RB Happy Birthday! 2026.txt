@@ -28,7 +28,7 @@ Nene: “I do, in fact. Today is my birthday.”
 MEIKO (WxS): “Oh, is that so? How lucky!”
 KAITO (WxS): “Would you lend us your aid in locating this special treasure?”
 Nene: “Of course. Let's find that treasure together!”
-(Black cut)
+(Black transition)
 (Background change)
 Len (WxS): “According to the map, the treasure appears inside the ruins deep within this town.”
 Miku (WxS): “Okay! Let's pass through the town... Huh?!”
@@ -40,7 +40,7 @@ Nene: “Sing?”
 Luka (WxS): “That's right. Maybe if we sing for them, they'll let us through♪ Would you help us?”
 Nene: “Okay, I will.”
 Nene: ————♪ ——————♪
-(Black cut)
+(Black transition)
 KAITO (WxS): “You're very talented, My Lady. It seems the plushies enjoyed your performance, too.”
 Miku (WxS): “Yeah! They even said they'd show us where the treasure is as thanks for such a lovely song!”
 Nene: “Hehe, thank you.”
@@ -51,7 +51,7 @@ Nene: “Oh... It's a sliding puzzle. You move the tiles around to make a full p
 MEIKO (WxS): “I see. Maybe the door will open if we solve this puzzle.”
 Rin (WxS): “But that sounds really hard. Can you solve it?”
 Nene: “Hmm, I can't say for sure... But I'll give it a try.”
-(Black cut)
+(Black transition)
 Nene: (I didn't realize it when we arrived, but this is the Wonder Stage. They built this set just for this show.)
 Nene: (Ah, these pieces line up. Which means I can bring these over here, and...)
 Nene: “There. How's that?”
@@ -76,7 +76,7 @@ Miku (WxS): You're having a party with Tsukasa and the others tonight!
 Nene: That's right. I'll be going to a summer festival with some friends before that, though.
 KAITO (WxS): Hehe, what a packed schedule. You work hard at practice every day, so I hope you can relax and enjoy yourself today.
 Nene: I will!
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few hours later]
@@ -99,7 +99,7 @@ Emu: Yeah, because you, and Honami and everyone else, are all here to celebrate 
 Minori: That we are! We'll celebrate with everything we've got, Captain!
 Nene: Hanasato...
 Emu: Now that our special guest has arrived... Let's go to the festival☆
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -115,7 +115,7 @@ Nene: Hmm...
 Nene: Oh, that shooting booth looks like fun.
 Shiho: Shooting, huh? There's no line right now, so sounds good to me.
 Emu: Yay! Let's have a rooty-shooty contest!
-(Black cut)
+(Black transition)
 (Place: Shooting Booth)
 Honami: Oh...I missed again. This is harder than it looks.
 Minori: I haven't hit a single target either!
@@ -134,7 +134,7 @@ Emu: Wow, that was great☆ Teach me too, Nene!
 Honami: Me too.
 Nene: Okay, sure.
 Shiho: You're really good at teaching, Kusanagi.
-(Black cut)
+(Black transition)
 (Place: Yoyo Fishing Stall)
 Minori: Ooh, look! I got a water balloon yoyo!
 Nene: I got one too... Huh? I think we got the same pattern, Hanasato.
@@ -147,7 +147,7 @@ Emu: So close! You almost had it!
 Shiho: Your hook slipped at the last second. But your line didn't snap, so you can try again.
 Nene: You can do it, Mochizuki!
 Honami: Yeah!
-(Black cut)
+(Black transition)
 Emu: Ta-da! My very own matching yoyo☆
 Airi: Good job, Emu! Now we all have matching yoyos.
 Minori: Operation Match With Nene is a success!
@@ -156,7 +156,7 @@ Nene: That sounds nice. I'll be in the back...
 Emu: Everyone, surround Nene and get in real close!
 Nene: Ah!
 Minori: Okay, let's get everyone in the frame... Perfect. Here goes! Say cheese!
-(Black cut)
+(Black transition)
 
 [One hour later]
 
@@ -191,7 +191,7 @@ Nene: Yeah. I hope Hoshino and Tenma can make it then, too.
 Emu: Ah, Nene! I got a message from Tsukasa! He wants us to come to this address!
 Nene: Okay. Looks like we should go, everyone. Thanks again, and see you soon.
 Minori: See you! Bye bye!
-(Black cut)
+(Black transition)
 (Background change)
 
 [Rental Room]
@@ -219,8 +219,8 @@ Nene: So...you know. Thank you.
 Tsukasa: No need to thank us. Today is the birthday of a dear friend and comrade, after all!
 Rui: That's right. This is your day, Nene. Please let us celebrate you in every way we can.
 Nene: Okay!
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000470/bg_s000470.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-en-assets/scenario/background/bg_s000470/bg_s000470.webp)
 Kohane: Happy birthday, Kusanagi. Emu sent us the photos from the festival. It looks like you all had a great time!
 An: This one of you all with matching yoyos really feels like a snapshot of youth! I hope I can join you all next time.
 Akito: We saw one of you at the shooting stall, too. There's something about your eyes in that one... You look super focused, like a sniper.
@@ -248,9 +248,9 @@ Tsukasa: It sounds like the show in SEKAI was a big success, as well. I hope it'
 Rui: It seemed like you enjoyed the cake and decorations, and the surprise magic show too.
 Emu: Yeah, Nene was super smiley the whole time! It made me all happy, too!
 Tsukasa: Of course! Let us continue to spend our days together, overflowing with smiles, just like today!
-(White cut)
+(White transition)
 (Background change)
 Nene: Thank you all for celebrating my birthday with me.
 Nene: I put on a show with Miku and the others, went to a festival with friends...and even had a birthday party thrown for me. Today has been so much fun.
 Nene: After getting all these smiles from everyone, I'll have to repay them plenty.
-(Black cut)
+(Black transition)

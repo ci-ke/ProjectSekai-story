@@ -4,7 +4,7 @@
 
 (Character: 天馬咲希, 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO)
 
-(Black cut)
+(Black transition)
 (Background change)
 
 [司の部屋]
@@ -14,20 +14,16 @@
 司: ……よし、いい感じだな。 動画を再生してみよう
 司: ……う～む。どうも違うな。 せっかく類に翻訳してもらったというのに……
 司: ライリードリームパークで見たショーは、 もっと——心に迫るものだった
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 王: 『Come on, stab me in the heart!』
 王子: 『Dad...Please don't make me do this!』
 司: （——なんという演技力だ……！）
-(White cut)
+(White transition)
 司: これが、世界レベルのショーキャストなのか……
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 司: （あのショーは、主演の役者のみならず、 他の役者達も素晴らしい演技をしていた）
 司: （オレも世界のスターを目指すのであれば、 あのショーの役者に匹敵するような、 さらに高い演技力を身につけていかねば……！）
@@ -43,7 +39,7 @@
 司: どわっ！？ す、すまん……
 司: ……はぁ。 どうにも思うようにいかんな……
 司: こんな時は久々に——
-(Black cut)
+(Black transition)
 (Background change)
 
 [翌日]
@@ -72,7 +68,7 @@
 類: ありがとうございます。 なるほど……楽器も一部貸し出してもらえるようだね
 寧々: ま、場所と設備もわかったことだし、 いつもどおり何やるか考えてこ
 えむ: おーっ！！
-(Black cut)
+(Black transition)
 (Background change)
 
 [ワンダーランドのセカイ]
@@ -108,4 +104,4 @@ KAITO: ふふ、劇団というより楽団になりそうだね
 類: ああ、もちろんだよ
 司: （オレには難しい……だと？）
 司: （それは一体、どういう意味だ……？）
-(Black cut)
+(Black transition)

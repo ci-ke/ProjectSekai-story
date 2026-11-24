@@ -42,7 +42,7 @@ Skill name: たしかな手応え
 志歩: ま、好きにしたら。 私はもう行くって決めてるし
 咲希: やったー！ それじゃあ、決起会第２弾の会場は しほちゃん行きつけのラーメン屋さんに決定〜♪
 志歩: ……じゃ、早く片付けよう。 もう少し遅くなったら、混んできそうだしね
-(Black cut)
+(Black transition)
 (Background change)
 
 [１時間後]
@@ -61,17 +61,13 @@ Skill name: たしかな手応え
 一歌: うん。ワンマン、頑張ろうね
 志歩: （……まさか、４人でラーメンを食べることになるとは 思わなかったな）
 志歩: （ひとりでゆっくり食べようと思ってたけど——）
-(White cut)
-
-(Memory cut-in)
-
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback in)
+(White transition)
+(Flashback out)
 志歩: （……ま、悪くなかったかもね）
 志歩: （気分転換にもなったし…… この調子で、明日も頑張ろう）
-(Black cut)
+(Black transition)
 
 
 <サイドストーリー（後編）>
@@ -84,15 +80,11 @@ Skill name: たしかな手応え
 志歩: ——ふう。さすがに、今日は疲れたな
 志歩: （……ワンマン、ほんとに終わったんだ）
 志歩: （始まったら、あっという間だったな。 でも……）
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 志歩: （……まだ、はっきり思い出せる）
 志歩: （お客さん達が全力で手を振って、楽しんでくれて……）
@@ -131,4 +123,4 @@ KAITO (Ln): 『……うん、きっと志歩達なら大丈夫だと思う』
 志歩: ありがとうございます。 そう言ってもらえると自信がつきます
 志歩: （まだ、夢の景色までは遠い。だけど——）
 志歩: （一歩ずつ、確実に進んでいこう。 ……みんなと、一緒に）
-(Black cut)
+(Black transition)

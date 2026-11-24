@@ -16,7 +16,7 @@ Ena: *Gasp* H-Hello...?
 Yukihira: <Shinonome?! Is that you?>
 Ena: Um...?! I... Uh....!
 Ena: Yes, this is Ena Shinonome... It's been quite a while...
-(Black cut)
+(Black transition)
 (Background change)
 
 [25:00:00]
@@ -72,7 +72,7 @@ Kanade: <Okay. Good luck, Enanan.>
 (Background change)
 Ena: <Thanks.>
 (Background change)
-(Black cut)
+(Black transition)
 (Background change)
 
 [A few days later]
@@ -88,16 +88,12 @@ Ena: ...
 Ena: (I think... I'm gonna be sick...)
 ???: Huh? Ena? Is that you...?
 Ena: Huh? Oh...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Futaba: Wow...! Ena, yours is so amazing...!
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Ena: Futaba...?
 Futaba: I knew it was you, Ena. Long time no see!
@@ -107,4 +103,4 @@ Futaba: Really?! I'm so happy! I can't believe you came back...!
 Futaba: Oh, let's go in together. You have to go in a different way now, so I can show you where.
 Ena: Huh? Uh... I mean...
 Futaba: Over here, Ena! It's this way!
-(Black cut)
+(Black transition)

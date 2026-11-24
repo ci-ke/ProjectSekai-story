@@ -28,10 +28,8 @@ Toya: Subtle differences in flavor...?
 MEIKO (VBS): Toya?
 Toya: Oh, I'm sorry. What you said just reminded me of something...
 Toya: It happened a few days ago...
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Kotaro: Thanks for agreeing to taste-test some of my coffee! I know things have been really busy for you lately.
 Toya: No, that's not a problem. If anything, are you sure I'm the right person for this?
@@ -54,10 +52,8 @@ Toya: But if someone were to ask me if it's exactly the same, then... I'm sorry,
 Kotaro: I see... Yeah, you would be able to tell since you're a regular here.
 Kotaro: Thanks, Toya! Would you mind taste-testing for me again after I've had a chance to practice more?
 Toya: Of course. I'll be happy to help whenever.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 MEIKO (VBS): I see... That really happened?
 Toya: Yes. Mita appears to be working very hard to remain faithful to the recipes Ken taught him.
@@ -65,7 +61,7 @@ Toya: Then I began wondering why I was able to taste that difference. You could 
 MEIKO (VBS): I see...
 MEIKO (VBS): Then, why don't we put that to the test?
 Toya: Huh?
-(Black cut)
+(Black transition)
 MEIKO (VBS): Here you are.
 Toya: Two cups of coffee...?
 MEIKO (VBS): I'd like for you to try both and tell me which one you prefer.
@@ -87,7 +83,7 @@ Toya: (Whether I was taking a break from practice or getting a breath of fresh a
 Toya: (I've been able to make it this far because Ken and MEIKO have given me so much kindness and support.)
 Toya: Thank you very much, MEIKO.
 Toya: I'll tell Mita about this. I'm sure he'll find it very helpful.
-(Black cut)
+(Black transition)
 
 
 <Side Story (Part 2)>
@@ -100,10 +96,8 @@ Toya: (“English Grammar Basics”, “2000 English Vocabulary Drills”, “Le
 Toya: (That makes ten books in total...)
 Toya: (I borrowed all the study guides that caught my eye in the library...)
 Toya: But now I need to figure out which are best for Akito.
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 (Background change)
 Akito: Sorry, Toya. I need to head straight back to class after I eat lunch today.
 Toya: That's not a problem, but is everything okay?
@@ -113,17 +107,15 @@ Toya: Are you having trouble?
 Akito: Yeah, a little.
 Akito: I have no idea how long it's gonna take me to learn how to hold basic conversations in English, but I just gotta keep trying...
 Toya: ...
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 (Background change)
 Toya: (As his partner, I'd like to give him as much support as I can.)
 Toya: (So, which study guide should I recommend to him...?)
 Toya: These vocabulary drills? Expanding his vernacular should in theory help improve his speaking skills...
 Toya: But grammar is also important. If we plan on performing overseas, then he'll need to understand subtle nuances in what people are saying.
 Toya: Come to think of it, Akito's listening skills are also a cause for concern...
-(Black cut)
+(Black transition)
 (Background change)
 
 [The next day]
@@ -155,17 +147,13 @@ Toya: Akito?
 Akito: Oh, Toya, I had a feeling that you'd be here.
 Toya: Ah, were you looking for me?
 Akito: Yeah, I have a question about my English homework. Are you free right now?
-(White cut)
-
-(Memory cut-in)
-
+(White transition)
+(Flashback in)
 MEIKO (VBS): So, I think all you have to do is be ready to help him when he asks you for it.
-(White cut)
-
-(Memory cut-out)
-
+(White transition)
+(Flashback out)
 Toya: (This may be that time...)
 Toya: Thank you both very much.
 Toya: Alright, Akito! Ask me anything.
 Akito: You sound weirdly excited for some reason, but okay...
-(Black cut)
+(Black transition)

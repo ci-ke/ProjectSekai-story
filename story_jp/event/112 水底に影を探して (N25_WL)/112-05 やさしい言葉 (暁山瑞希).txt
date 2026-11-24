@@ -11,12 +11,12 @@ MEIKO (N25): 私は行かないわ
 瑞希: でもでも、ボク場所知らないし迷子になっちゃうよ！？ それでもいいの！？
 MEIKO (N25): ここをまっすぐ行った場所にあるから 迷わないはずよ
 瑞希: それだけじゃわかんないって！ ねーねー、一緒に行こうよ～！
-(White cut)
-(CG insert: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000250/bg_s000250.webp)
+(White transition)
+(Illustration: https://storage.pjsk.moe/sekai-jp-assets/scenario/background/bg_s000250/bg_s000250.webp)
 瑞希: えーん、メイコはボクのこと嫌いなんだー
 瑞希: ボクが迷子になっていなくなっても メイコはどうでもいいんだ～
 MEIKO (N25): …………
-(White cut)
+(White transition)
 (Background change)
 MEIKO (N25): ……はあ……
 MEIKO (N25): 行くわ
@@ -29,7 +29,7 @@ MEIKO (N25): 早くしないと、置いていくわよ
 瑞希: メイコって、実は優しいよね～
 MEIKO (N25): ……本当に置いていくわよ
 瑞希: わわっ！　ちょっと待ってよ～！ ほらほら、一緒に行こ♪
-(Black cut)
+(Black transition)
 (Background change)
 
 [？？？]
@@ -116,6 +116,6 @@ MEIKO (N25): きっと、助かったはずよ
 MEIKO (N25): ……そう
 MEIKO (N25): いいんじゃないかしら
 瑞希: うん！
-(Black cut)
+(Black transition)
 (Video: link_night_ed2)
-(Black cut)
+(Black transition)
