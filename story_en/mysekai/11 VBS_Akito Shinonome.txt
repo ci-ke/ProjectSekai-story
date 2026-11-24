@@ -1999,7 +1999,16 @@ Akito: I've got a rack in my room too, and I pretty much keep my favorite clothe
 Akito: This thing brews coffee from actual beans? I bet Toya'd like to see that.
 
 
-237 7671:5584~ Vintage Style Sofa
+237 7637:7166 read_event_story-187
+
+(Character: Akito Shinonome)
+
+Akito: Just recently, I was in the US for a work opportunity... Turns out it's pretty hard to get an American audience going.
+Akito: The language barrier's real steep. I managed it with help from Toya and the others, but it's given me a lot to think about.
+Akito: Next time I'll light that fire with my own skill alone. And to do that, I need to get even better.
+
+
+238 7671:5584~ Vintage Style Sofa
 
 (Character: Kohane Azusawa, Akito Shinonome)
 
@@ -2008,7 +2017,7 @@ Akito: I mean, I have an armchair in my room, but a whole sofa would take up way
 Kohane: You're probably right... I guess my bed is enough.
 
 
-238 7673:5586~ Vintage Style Sofa
+239 7673:5586~ Vintage Style Sofa
 
 (Character: An Shiraishi, Akito Shinonome)
 
@@ -2018,7 +2027,7 @@ An: Oh, I hope so! I guess there'll be horses and deer... Ooh, but maybe there a
 Akito: M-Maybe there are... But horses and deer are enough for me to feel close to nature, so I'd be happy with just those.
 
 
-239 7675:5588~ Vintage Style Sofa
+240 7675:5588~ Vintage Style Sofa
 
 (Character: Akito Shinonome, Toya Aoyagi)
 
@@ -2028,7 +2037,7 @@ Akito: That's not something we can experience in Shibuya or our own SEKAI.
 Toya: Exactly. It feels so novel, and it makes me never want to stop.
 
 
-240 7678:5591~ Vintage Style Sofa
+241 7678:5591~ Vintage Style Sofa
 
 (Character: Akito Shinonome, Kagamine Len)
 
@@ -2039,7 +2048,7 @@ Akito: And then the ball might shoot off to somewhere we'll never get it back...
 Akito: Let's practice some more in our SEKAI first, okay?
 
 
-241 7684:5597~ Vintage Style Sofa
+242 7684:5597~ Vintage Style Sofa
 
 (Character: Akito Shinonome, MEIKO)
 
@@ -2050,7 +2059,7 @@ Akito: Challenge yourself? You're so skilled in the kitchen, but there are still
 MEIKO: That's right. I still have a long way to go as a cook, and I want to keep trying new things.
 
 
-242 7689:5602~ Vintage Style Sofa
+243 7689:5602~ Vintage Style Sofa
 
 (Character: Akito Shinonome, Hatsune Miku)
 

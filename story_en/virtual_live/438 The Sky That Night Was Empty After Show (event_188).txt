@@ -1,0 +1,80 @@
+438 The Sky That Night Was Empty After Show (event_188)
+
+1 [mc_timeline] mc_ev_band_23_1
+
+(Enter: Miku-Ln)
+(Enter: Luka)
+Miku (Ln): So this is where you were, Luka.
+Luka: Oh... What brings you here, Miku?
+Miku (Ln): You weren't in the classroom for the solo show after-party, so I came looking. Rin's all excited about starting the prep soon.
+Luka: Is it that time already? I didn't realize how long I'd been lost in thought.
+Miku (Ln): Thinking about what?
+Luka: Their solo show. Every time I look back on it, I'm struck by how wonderful it was...
+Miku (Ln): Yeah... Their feelings overlapped as they performed, to an extent we haven't seen before.
+(Enter: Saki)
+Saki: Heeey, you two!
+(Enter: Ichika)
+(Enter: Honami)
+(Enter: Shiho)
+Ichika: We thought we heard chatting up here... So it was you.
+Luka: Ah, you've all already arrived.
+Honami: Yes. We finished the shopping Rin asked us to do, so now we're here.
+Saki: We brought a whole ton of exciting party goodies, so look forward to those♪
+Miku (Ln): Exciting, huh...? I think I smell trouble.
+Shiho: You can probably trust your nose on that.
+Honami: H-Haha...
+Saki: What were you two doing up here?
+Luka: Talking about your solo show. We were discussing how amazing it was, and how your feelings clearly united.
+Miku (Ln): Anyway, we'll save the rest for the party. If we say it all now, I figure that'll mean less to look forward to later.
+Ichika: Hehe. I can't wait.
+Honami: Well, now that we're all together, should we go to see Rin?
+Shiho: Sounds good. We're kind of early, but there's nothing else we need to get ready...
+Saki: Oh... Wait, hold on! Do you guys wanna play a song together, then?
+Ichika: Huh? Where did that come from?
+Saki: Hehehe. I just suddenly felt the urge to play that song.
+Shiho: "That song"?
+Saki: Yeah! The one born from our feelings!
+Miku (Ln): Oh, now I see. Alright, let's do it.
+Saki: Woohoo! Thanks, Miku!
+Saki: How about you guys?
+Ichika: Sure. If you want to play, I can do that.
+Honami: One song shouldn't make us late.
+Luka: Hehe. In that case... I'll be off listening with our visitors.
+Saki: Wow, you're all here too!
+Saki: Alrighty then, let's have everybody listen♪ Here we go!
+Saki: "needLe"!
+
+
+2 [MUSIC] 63: needLe
+
+3 [mc_timeline] mc_ev_band_23_2
+
+(Enter: Ichika)
+(Enter: Saki)
+(Enter: Honami)
+(Enter: Shiho)
+(Enter: Miku-Ln)
+(Enter: Luka)
+Luka: You all sounded splendid.
+Luka: Saki in particular... I think I sensed more emotion from you than usual.
+Ichika: I noticed that too. It was like each and every note had powerful feelings behind it...
+Saki: Hehehe...♪ One thing's for sure— I'm totally pumped for our next show!
+Miku (Ln): Your next show?
+Honami: Saki, weren't we going to announce that at the party?
+Saki: O-Oh, right...!
+Saki: I'm so sorry, Miku, Luka! Can you pretend you didn't hear that?!
+Luka: Of course. I didn't hear a thing.
+Shiho: Alright, should we start heading over? Rin's sure to start sulking if we make her wait too long.
+Saki: Okaaay!
+Saki: And thank you all for coming today! We'll see you later!
+Ichika: See you later. See you.
+Honami: See you later. See you.
+Shiho: See you later. See you.
+(Exit: Luka)
+(Exit: Miku-Ln)
+(Exit: Ichika)
+(Exit: Honami)
+(Exit: Shiho)
+Saki: I hope...
+Saki: I hope we get to stay together like this forever.
+(Exit: Saki)
